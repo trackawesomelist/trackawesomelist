@@ -6,6 +6,12 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 [ Daily / [Weekly](/content/akullpp/awesome-java/week/README.md) / [Overview](/content/akullpp/awesome-java/readme/README.md) ]
 
+## [Feb 24, 2024](/content/2024/02/24/README.md)
+
+### Utility / Mocking
+
+*   [JKScope (⭐9)](https://github.com/evpl/jkscope) - Java scope functions inspired by Kotlin.
+
 ## [Feb 12, 2024](/content/2024/02/12/README.md)
 
 ### Constraint Satisfaction Problem Solver / Text-Based User Interfaces
@@ -718,7 +724,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Testing / Asynchronous
 
-*   [Karate (⭐7.6k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
+*   [Karate (⭐7.7k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
 
 ## [Feb 13, 2020](/content/2020/02/13/README.md)
 
@@ -914,7 +920,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 ### Platform / Other
 
 *   [CUBA Platform](https://www.cuba-platform.com/) - High-level framework for developing enterprise applications with a rich web interface, based on Spring, EclipseLink and Vaadin.
-*   [Light-4J (⭐3.6k)](https://github.com/networknt/light-4j/) - Fast, lightweight and productive microservices framework with built-in [security (⭐310)](https://github.com/networknt/light-oauth2/).
+*   [Light-4J (⭐3.6k)](https://github.com/networknt/light-4j/) - Fast, lightweight and productive microservices framework with built-in [security (⭐311)](https://github.com/networknt/light-oauth2/).
 *   [Orienteer (⭐228)](https://github.com/OrienteerBAP/Orienteer/) - Open-source business application platform for rapid configuration/development of CRM, ERP, LMS and other applications.
 *   [Spring](https://spring.io/projects/) - Provides many packages for dependency injection, aspect-oriented programming, security, etc.
 
@@ -952,7 +958,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 ### Testing / Asynchronous
 
 *   [Awaitility (⭐3.6k)](https://github.com/awaitility/awaitility) - DSL for synchronizing asynchronous operations.
-*   [REST Assured (⭐6.6k)](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
+*   [REST Assured (⭐6.7k)](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
 
 ### Testing / BDD
 
@@ -1831,7 +1837,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Messaging / Text-Based User Interfaces
 
-*   [Aeron (⭐6.9k)](https://github.com/real-logic/Aeron) - Efficient, reliable, unicast and multicast message transport.
+*   [Aeron (⭐7k)](https://github.com/real-logic/Aeron) - Efficient, reliable, unicast and multicast message transport.
 *   [Apache ActiveMQ](https://activemq.apache.org) - Message broker that implements JMS and converts synchronous to asynchronous communication.
 *   [Apache Camel](https://camel.apache.org) - Glues together different transport APIs via Enterprise Integration Patterns.
 *   [Apache Kafka](https://kafka.apache.org) - High-throughput distributed messaging system.
@@ -2052,7 +2058,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 *   [Awesome Microservices (⭐13k)](https://github.com/mfornos/awesome-microservices)
 *   [Awesome REST (⭐3.5k)](https://github.com/marmelab/awesome-rest)
 *   [Awesome Selenium (⭐963)](https://github.com/christian-bromann/awesome-selenium)
-*   [ciandcd (⭐1.7k)](https://github.com/ciandcd/awesome-ciandcd)
+*   [ciandcd (⭐1.8k)](https://github.com/ciandcd/awesome-ciandcd)
 *   [Useful Java Links (⭐5.7k)](https://github.com/Vedenin/useful-java-links)
 
 ### Frontends / Mocking

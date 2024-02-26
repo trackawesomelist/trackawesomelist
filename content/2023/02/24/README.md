@@ -16,7 +16,7 @@
 
 ### Code Analysis
 
-*   [ex\_check (⭐292)](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project.
+*   [ex\_check (⭐295)](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

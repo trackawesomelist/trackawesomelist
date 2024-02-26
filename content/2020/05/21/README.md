@@ -81,7 +81,7 @@
 ### Overlay
 
 *   [sweetalert2 (⭐17k)](https://github.com/sweetalert2/sweetalert2) - [demo/docs](https://sweetalert2.github.io/) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
-*   [sweetalert2-react-content (⭐659)](https://github.com/sweetalert2/sweetalert2-react-content) - Official SweetAlert2 enhancer adding support for React elements as content
+*   [sweetalert2-react-content (⭐663)](https://github.com/sweetalert2/sweetalert2-react-content) - Official SweetAlert2 enhancer adding support for React elements as content
 
 ## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

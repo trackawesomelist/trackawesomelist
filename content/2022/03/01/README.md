@@ -38,7 +38,7 @@
 
 ### Email
 
-*   [truemail-go (⭐73)](https://github.com/truemail-rb/truemail-go) - Configurable Golang email validator/verifier. Verify email via Regex, DNS, SMTP and even more.
+*   [truemail-go (⭐74)](https://github.com/truemail-rb/truemail-go) - Configurable Golang email validator/verifier. Verify email via Regex, DNS, SMTP and even more.
 
 ### Web Frameworks
 
@@ -109,7 +109,7 @@
 
 ### Crates / Component Libraries
 
-*   [yew-chart (⭐52)](https://github.com/titanclass/yew-chart) - A Yew-based charting library that provides SVG based components for rendering charts.
+*   [yew-chart (⭐54)](https://github.com/titanclass/yew-chart) - A Yew-based charting library that provides SVG based components for rendering charts.
 
 ### Articles / Frameworks
 

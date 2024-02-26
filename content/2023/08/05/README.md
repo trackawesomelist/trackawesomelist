@@ -46,7 +46,7 @@
 ### UI Libraries, Components & Templates
 
 *   🧩 [TailwindFlex](https://tailwindflex.com) - Free library of Tailwind CSS examples.
-*   📁 [Astro Template Cactus (⭐505)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
+*   📁 [Astro Template Cactus (⭐574)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

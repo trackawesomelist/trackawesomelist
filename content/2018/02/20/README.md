@@ -66,10 +66,10 @@
 ### Libraries / Command-line
 
 *   Line editor
-    *   [kkawakam/rustyline (⭐1.4k)](https://github.com/kkawakam/rustyline) \[[rustyline](https://crates.io/crates/rustyline)] — readline implementation in Rust
+    *   [kkawakam/rustyline (⭐1.4k)](https://github.com/kkawakam/rustyline) \[[rustyline](https://crates.io/crates/rustyline)] — readline implementation
     *   [MovingtoMars/liner (⭐74)](https://github.com/MovingtoMars/liner) \[[liner](https://crates.io/crates/liner)] — A library offering readline-like functionality
-    *   [murarth/linefeed (⭐182)](https://github.com/murarth/linefeed) \[[linefeed](https://crates.io/crates/linefeed)] — Configurable, extensible, interactive line reader
-    *   [srijs/rust-copperline (⭐27)](https://github.com/srijs/rust-copperline) \[[copperline](https://crates.io/crates/copperline)] — pure-Rust command line editing library
+    *   [murarth/linefeed (⭐183)](https://github.com/murarth/linefeed) \[[linefeed](https://crates.io/crates/linefeed)] — Configurable, extensible, interactive line reader
+    *   [srijs/rust-copperline (⭐27)](https://github.com/srijs/rust-copperline) \[[copperline](https://crates.io/crates/copperline)] — command line editing library
 
 ## [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 

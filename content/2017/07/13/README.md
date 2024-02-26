@@ -49,7 +49,7 @@
 
 ### Converters
 
-*   [sass.cr (⭐34)](https://github.com/straight-shoota/sass.cr) - Compile SASS/SCSS to CSS ([libsass (⭐4.3k)](https://github.com/sass/libsass/) binding)
+*   [sass.cr (⭐35)](https://github.com/straight-shoota/sass.cr) - Compile SASS/SCSS to CSS ([libsass (⭐4.3k)](https://github.com/sass/libsass/) binding)
 
 ### Email
 

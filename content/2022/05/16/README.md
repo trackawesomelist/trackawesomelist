@@ -18,7 +18,7 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [witer33/fiberpow (⭐6)](https://github.com/witer33/fiberpow) - Anti DDoS/Bot Middleware with a customizable Proof Of Work challenge.
+*   [witer33/fiberpow (⭐8)](https://github.com/witer33/fiberpow) - Anti DDoS/Bot Middleware with a customizable Proof Of Work challenge.
 
 ## [3. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Modules / Various Godot versions
 
-*   [GodotHook (⭐32)](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine (Godot 3.x, 4.x).
+*   [GodotHook (⭐34)](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine (Godot 3.x, 4.x).
 
 ## [7. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Get Started
 
-*   [create-electron-vite (⭐127)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
+*   [create-electron-vite (⭐131)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
 
 ### Framework-agnostic Plugins / Transformers
 

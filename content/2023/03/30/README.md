@@ -34,7 +34,7 @@
 
 ### Tools / Community providers
 
-*   [tftarget (⭐186)](https://github.com/future-architect/tftarget) - CLI Tool to do `terraform xxx -target={...}` interactively.
+*   [tftarget (⭐189)](https://github.com/future-architect/tftarget) - CLI Tool to do `terraform xxx -target={...}` interactively.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

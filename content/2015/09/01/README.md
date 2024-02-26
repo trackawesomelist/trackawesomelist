@@ -37,7 +37,7 @@
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [cmus (⭐5.1k)](https://github.com/cmus/cmus) - Cross-platform cli audio player.
+*   [cmus (⭐5.2k)](https://github.com/cmus/cmus) - Cross-platform cli audio player.
 
 ---
 

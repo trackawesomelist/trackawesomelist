@@ -44,8 +44,8 @@
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [Emacs (⭐276)](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
-*   [Vim (⭐419)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
+*   [Emacs (⭐277)](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
+*   [Vim (⭐422)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
 
 ## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 

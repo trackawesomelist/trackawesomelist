@@ -48,17 +48,17 @@
 
 ### System Utilities / Directory Navigation
 
-*   [ls++ (⭐498)](https://github.com/trapd00r/ls--) - Colorized ls on steroids
+*   [ls++ (⭐500)](https://github.com/trapd00r/ls--) - Colorized ls on steroids
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [xidel (⭐611)](https://github.com/benibela/xidel/) - Cli tool to filter, map and create HTML/XML/JSON data with (Turing-complete) XPath and XQuery.
+*   [xidel (⭐633)](https://github.com/benibela/xidel/) - Cli tool to filter, map and create HTML/XML/JSON data with (Turing-complete) XPath and XQuery.
 
 ## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### ORM and Datamapping
 
-*   [Bolt.Sips (⭐253)](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir using the Bolt protocol.
+*   [Bolt.Sips (⭐256)](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir using the Bolt protocol.
 
 ## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

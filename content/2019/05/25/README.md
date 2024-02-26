@@ -20,31 +20,9 @@
 
 ## [3. Awesome Python](/content/vinta/awesome-python/README.md)
 
-### Admin Panels
-
-*   [django-grappelli](https://grappelliproject.com/) - A jazzy skin for the Django Admin-Interface.
-*   [django-jet (⭐3.4k)](https://github.com/geex-arts/django-jet) - Modern responsive template for the Django admin interface with improved functionality.
-*   [django-suit](https://djangosuit.com/) - Alternative Django Admin-Interface (free only for Non-commercial use).
-
-### Caching
-
-*   [HermesCache](https://pypi.org/project/HermesCache/) - Python caching library with tag-based invalidation and dogpile effect prevention.
-
-### Compatibility
-
-*   [six](https://pypi.org/project/six/) - Python 2 and 3 compatibility utilities.
-
 ### Cryptography
 
-*   [paramiko (⭐8.4k)](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
-
-### Data Visualization
-
-*   [PyGraphviz](https://pypi.org/project/pygraphviz/) - Python interface to [Graphviz](http://www.graphviz.org/).
-
-### E-commerce
-
-*   [money (⭐224)](https://github.com/carlospalol/money) - `Money` class with optional CLDR-backed locale-aware formatting and an extensible currency exchange.
+*   [paramiko (⭐8.7k)](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
 
 ### Editor Plugins and IDEs
 
@@ -53,21 +31,16 @@
 
 ### Environment Management
 
-*   [virtualenv (⭐4.5k)](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
-
-### Foreign Function Interface
-
-*   [cffi](https://pypi.org/project/cffi/) - Foreign Function Interface for Python calling C code.
+*   [virtualenv (⭐4.6k)](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
 
 ### GUI Development
 
-*   [Eel (⭐5.7k)](https://github.com/ChrisKnott/Eel) - A library for making simple Electron-like offline HTML/JS GUI apps.
-*   [PySimpleGUI (⭐12k)](https://github.com/PySimpleGUI/PySimpleGUI) - Wrapper for tkinter, Qt, WxPython and Remi.
-*   [pywebview (⭐3.6k)](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component.
+*   [Eel (⭐6.1k)](https://github.com/ChrisKnott/Eel) - A library for making simple Electron-like offline HTML/JS GUI apps.
+*   [PySimpleGUI (⭐13k)](https://github.com/PySimpleGUI/PySimpleGUI) - Wrapper for tkinter, Qt, WxPython and Remi.
+*   [pywebview (⭐4.1k)](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component.
 
 ### Game Development
 
-*   [Cocos2d](http://cocos2d.org/) - cocos2d is a framework for building 2D games, demos, and other graphical/interactive applications.
 *   [Harfang3D](http://www.harfang3d.com) - Python framework for 3D, VR and game development.
 *   [Panda3D](https://www.panda3d.org/) - 3D game engine developed by Disney.
 
@@ -78,15 +51,6 @@
 ### HTML Manipulation
 
 *   [cssutils](https://pypi.org/project/cssutils/) - A CSS library for Python.
-
-### Implementations
-
-*   [Cython](http://cython.org/) - Optimizing Static Compiler for Python.
-*   [IronPython (⭐2.2k)](https://github.com/IronLanguages/ironpython3) - Implementation of the Python programming language written in C#.
-*   [Jython](https://hg.python.org/jython) - Implementation of Python programming language written in Java for the JVM.
-*   [MicroPython (⭐17k)](https://github.com/micropython/micropython) - A lean and efficient Python programming language implementation.
-*   [PeachPy (⭐1.8k)](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python.
-*   [Stackless Python (⭐939)](https://github.com/stackless-dev/stackless) - An enhanced version of the Python programming language.
 
 ### Job Scheduler
 
@@ -101,28 +65,28 @@
 *   Code Coverage
     *   [coverage](https://pypi.org/project/coverage/) - Code coverage measurement.
 *   Fake Data
-    *   [fake2db (⭐2.2k)](https://github.com/emirozer/fake2db) - Fake database generator.
-    *   [faker (⭐16k)](https://github.com/joke2k/faker) - A Python package that generates fake data.
-    *   [mimesis (⭐4k)](https://github.com/lk-geimfari/mimesis) - is a Python library that help you generate fake data.
+    *   [fake2db (⭐2.3k)](https://github.com/emirozer/fake2db) - Fake database generator.
+    *   [faker (⭐17k)](https://github.com/joke2k/faker) - A Python package that generates fake data.
+    *   [mimesis (⭐4.2k)](https://github.com/lk-geimfari/mimesis) - is a Python library that help you generate fake data.
     *   [radar](https://pypi.org/project/radar/) - Generate random datetime / time.
 
 ### Text Processing
 
 *   General
-    *   [chardet (⭐1.9k)](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector.
+    *   [chardet (⭐2k)](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector.
     *   [difflib](https://docs.python.org/3/library/difflib.html) - (Python standard library) Helpers for computing deltas.
-    *   [ftfy (⭐3.5k)](https://github.com/LuminosoInsight/python-ftfy) - Makes Unicode text less broken and more consistent automagically.
-    *   [fuzzywuzzy (⭐8.9k)](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching.
+    *   [ftfy (⭐3.7k)](https://github.com/LuminosoInsight/python-ftfy) - Makes Unicode text less broken and more consistent automagically.
+    *   [fuzzywuzzy (⭐9.1k)](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching.
     *   [Levenshtein (⭐1.2k)](https://github.com/ztane/python-Levenshtein/) - Fast computation of Levenshtein distance and string similarity.
-    *   [pangu.py (⭐207)](https://github.com/vinta/pangu.py) - Paranoid text spacing.
-    *   [pyfiglet (⭐1.2k)](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python.
-    *   [pypinyin (⭐4.4k)](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi (漢字) to pinyin (拼音).
-    *   [textdistance (⭐3.1k)](https://github.com/orsinium/textdistance) - Compute distance between sequences with 30+ algorithms.
+    *   [pangu.py (⭐229)](https://github.com/vinta/pangu.py) - Paranoid text spacing.
+    *   [pyfiglet (⭐1.3k)](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python.
+    *   [pypinyin (⭐4.6k)](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi (漢字) to pinyin (拼音).
+    *   [textdistance (⭐3.3k)](https://github.com/orsinium/textdistance) - Compute distance between sequences with 30+ algorithms.
     *   [unidecode](https://pypi.org/project/Unidecode/) - ASCII transliterations of Unicode text.
 
 ### URL Manipulation
 
-*   [webargs (⭐1.3k)](https://github.com/marshmallow-code/webargs) - A friendly library for parsing HTTP request arguments with built-in support for popular web frameworks.
+*   [webargs (⭐1.4k)](https://github.com/marshmallow-code/webargs) - A friendly library for parsing HTTP request arguments with built-in support for popular web frameworks.
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

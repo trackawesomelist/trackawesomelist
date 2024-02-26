@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 23 - Dec 29, 2019
 
-44 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -37,36 +37,25 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 *   [OldMapsOnline](https://www.oldmapsonline.org/) - Maps, starting in the 17th century.
 
-## [5. Awesome Python](/content/vinta/awesome-python/week/README.md)
-
-### Code Analysis
-
-*   Code Analysis
-    *   [coala (⭐3.5k)](https://github.com/coala/coala/) - Language independent and easily extendable code analysis application.
-    *   [code2flow (⭐3.3k)](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts.
-    *   [prospector (⭐1.8k)](https://github.com/PyCQA/prospector) - A tool to analyse Python code.
-    *   [pycallgraph (⭐1.7k)](https://github.com/gak/pycallgraph) - A library that visualises the flow (call graph) of your Python application.
-    *   [vulture (⭐2.6k)](https://github.com/jendrikseipp/vulture) - A tool for finding and analysing dead Python code.
-
-## [6. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [5. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [deno-deamon (⭐14)](https://github.com/manyuanrong/deno-deamon) - Make the Deno program run in the background.
 
-## [7. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [6. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Reliability
 
 *   [Production Checklist for Web Apps on Kubernetes](https://srcco.de/posts/web-service-on-kubernetes-production-checklist-2019.html)
 
-## [8. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [7. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### File Extraction
 
 *   [Chaosreader (⭐207)](https://github.com/brendangregg/Chaosreader): A freeware tool to trace TCP/UDP/... sessions and fetch application data from snoop or tcpdump logs. This is a type of "any-snarf" program, as it will fetch telnet sessions, FTP files, HTTP transfers (HTML, GIF, JPEG, ...), SMTP emails, ... from the captured data inside network traffic logs. A html index file is created that links to all the session details, including realtime replay programs for telnet, rlogin, IRC, X11 and VNC sessions; and reports such as image reports and HTTP GET/POST content reports.
 
-## [9. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [8. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Autobiographies and Biographies
 
@@ -89,19 +78,19 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 
 
-## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### R / Data Manipulation | Data Analysis | Data Visualization
 
 *   [dplyr](https://www.rdocumentation.org/packages/dplyr/versions/0.7.8) - A data manipulation package that helps to solve the most common data manipulation problems.
 
-## [11. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [10. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Tools / Misc
 
 *   [Bulletproof Background Images](http://backgrounds.cm/) - Create rock-solid background images for your HTML email with some help from VML and CSS.
 
-## [12. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [11. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Blogs / Others
 
@@ -109,44 +98,44 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
     How to start, run, and sell a bootstrapped SaaS company without burning out — by Arvid Kahl
 
-## [13. ElixirBooks](/content/sger/ElixirBooks/week/README.md)
+## [12. ElixirBooks](/content/sger/ElixirBooks/week/README.md)
 
 ### **Web Development** / [Programming Phoenix LiveView](https://pragprog.com/titles/liveview/programming-phoenix-liveview/)
 
 *   [Reddit](https://www.reddit.com/r/elixir/)
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/elixir)
 
-## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Menu Bar Tools
 
-*   [Hidden (⭐9.7k)](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dwarvesf/hidden) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Hidden (⭐9.8k)](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dwarvesf/hidden) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [15. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [14. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / PHP SDK
 
 *   [aws-sdk-php-zf2 :fire: (⭐101)](https://github.com/aws/aws-sdk-php-zf2)
 
-## [16. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [15. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
 *   [FreeCAD](https://freecadweb.org/wiki/Donate) - Parametric 3D modeler made primarily to design real-life objects of any size.
 
-## [17. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [16. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / Network
 
 *   [sshhub](https://sshhub.de) - Web Service: access your SSH servers behind firewalls (ssh-teamviewer).
 
-## [18. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [17. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Tools
 
 *   [Stagehand (⭐660)](https://github.com/dart-lang/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 
-## [19. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [18. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Videos
 
@@ -154,19 +143,19 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [Coding with Qiskit video series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) - YouTube video series showing how to write quantum algorithms.
 *   [Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) - A series of lectures on quantum computing by [Professor O'Donnell at CMU](https://www.cs.cmu.edu/~odonnell/quantum18/).
 
-## [20. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [19. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Scientific Journals
 
 *   [Parasite](https://www.parasite-journal.org/) - Open access journal associated with the Société Française de Parasitologie. Focuses on both animal and human parasites.
 
-## [21. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [20. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Learning
 
 *   [Nix Notes (⭐49)](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
 
-## [22. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [21. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Runtimes / Apache License
 
@@ -239,13 +228,13 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 *   [dhondt (⭐4)](https://github.com/simonjwright/dhondt) - Ada implementation of D'Hondt electoral result calculator.
 
-## [23. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Audio
 
 *   [SwiftAudioPlayer (⭐504)](https://github.com/tanhakabir/SwiftAudioPlayer) - Simple audio player for iOS that streams and performs realtime audio manipulations with AVAudioEngine.
 
-## [24. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
+## [23. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
 ### Software Tools / Analysis Frameworks
 
@@ -263,7 +252,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 *   [Deadly Sins Of Development](https://youtu.be/nXyglaY9N9w) - Conference talk presenting several real world examples on real bad implementations :tv:.
 
-## [25. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [24. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Papers / ACM Conference on Computer and Communications Security (ACM CCS)
 
@@ -271,39 +260,39 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [Learning to Fuzz from Symbolic Execution with Application to Smart Contracts, 2019](https://files.sri.inf.ethz.ch/website/papers/ccs19-ilf.pdf)
 *   [Matryoshka: fuzzing deeply nested branches, 2019](https://web.cs.ucdavis.edu/~hchen/paper/chen2019matryoshka.pdf)
 
-## [26. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [25. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [Gaussmeter (⭐12)](https://github.com/gaussmeter/gaussmeter) - Project utilizing a Raspberry Pi Zero W, WS2812B Leds and the Tesla API to collect and display a Tesla's status. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png)
 *   [TeslaCam (⭐37)](https://github.com/LelandSindt/teslacam) - Project utilizing a Raspberry Pi Zero W for USB Mass storage emulation and a PiJuice to collect and archive TeslaCam video. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png)
 
-## [27. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [26. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Tools to measure Performance Budget
 
 *   [Yellow Lab Tools](https://yellowlab.tools/) - Online test to help speeding up heavy web pages.
 
-## [28. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [27. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Dynamic type checkers
 
 *   [typical (⭐180)](https://github.com/seandstewart/typical/) - Data parsing and automatic type-coercion using type hinting. Supports dataclasses, standard classes, function signatures, and more.
 
-## [29. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [28. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Libraries and Frameworks / .NET
 
 *   [ABP](https://abp.io) - Successor of ASP.NET Boilerplate - ASP.NET Core based application framework to create NLayered, Domain Driven Designed web applications with a microservice focused modular architecture
 *   [MediatR (⭐10k)](https://github.com/jbogard/MediatR) - Supports request/response, commands, queries, notifications and events, synchronous and async with intelligent dispatching via C# generic variance.
 
-## [30. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [29. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Courses / Others
 
 *   [Blazor In-Depth Workshop (Blaze Invaders)](https://www.csharpacademy.com/courseinfo/2ccff0ac-4d3e-4d25-9368-6c1474640de5) - December 2019 - Blazor In-Depth Workshop (Blaze Invaders), on C# Academy. Learn serious Blazor concepts while building a working browser based game.
 
-## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -313,7 +302,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 *   [Proto.io](https://www.proto.io) - Create fully interactive UI prototypes without coding. The free tier is available when the free trial ends. The free tier includes one user, one project, five prototypes, 100MB of online storage, and a preview of the proto.io app.
 
-## [32. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [31. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Collection of Actions / Docker Container Actions
 
@@ -328,24 +317,24 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [Build and publish Electron apps (⭐535)](https://github.com/samuelmeuli/action-electron-builder)
 *   [Publish a Maven package (⭐88)](https://github.com/samuelmeuli/action-maven-publish)
 
-## [33. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [32. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Ebooks / Third Party Hosts
 
 *   [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/bm837l/guide_to_copy_kindle_content_to_pdf_using_calibre/)
 
-## [34. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [33. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [FeatHub](https://feathub.com/) - Feature voting for GitHub.
 
-## [35. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [34. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Official
 
 *   [Live demo](https://yew-todomvc.netlify.com) - A todomvc demo.
-*   [Examples (⭐29k)](https://github.com/yewstack/yew/tree/master/examples) - Smaller examples included in official repo.
+*   [Examples (⭐30k)](https://github.com/yewstack/yew/tree/master/examples) - Smaller examples included in official repo.
 *   [Website](https://yew.rs/) - Official website.
 
 ### Projects
@@ -355,8 +344,8 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 ### Templates
 
-*   [yew-wasm-pack-template (⭐117)](https://github.com/yewstack/yew-wasm-pack-template) - A template for starting a Yew project to be used with wasm-pack.
-*   [yew-wasm-pack-minimal (⭐109)](https://github.com/yewstack/yew-wasm-pack-minimal) - A minimal template for starting a Yew project using wasm-bindgen and wasm-pack.
+*   [yew-wasm-pack-template (⭐118)](https://github.com/yewstack/yew-wasm-pack-template) - A template for starting a Yew project to be used with wasm-pack.
+*   [yew-wasm-pack-minimal (⭐110)](https://github.com/yewstack/yew-wasm-pack-minimal) - A minimal template for starting a Yew project using wasm-bindgen and wasm-pack.
 *   [yew-parcel-template (⭐113)](https://github.com/spielrs/yew-parcel-template) - Awesome Yew with Yew-Router and Parcel application.
 
 ### Articles / Frameworks
@@ -364,7 +353,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [Let's Build a Rust Frontend with Yew](https://dev.to/deciduously/lets-build-a-rust-frontend-with-yew---part-1-3k2o)
 *   [A Web Application completely in Rust](https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471)
 
-## [36. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [35. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -379,19 +368,19 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 *   [react-native-community-maps ★3 (⭐14)](https://github.com/yonahforst/react-native-community-maps) - Boilerplate app for browsing user-generated photos on a map
 
-## [37. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
+## [36. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
 
 ### Image - Metadata/Text
 
 *   **DepthPrediction** - Predict the depth from a single image. [Download](https://developer.apple.com/machine-learning/models/) | [Demo (⭐125)](https://github.com/tucan9389/DepthPrediction-CoreML) | [Reference (⭐1.1k)](https://github.com/iro-cp/FCRN-DepthPrediction)
 
-## [38. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
+## [37. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
 
 ### Tools
 
 *   [Mighty Merge](https://mightymerge.io/) - join/union csv files.
 
-## [39. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [38. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Concurrency
 
@@ -401,13 +390,13 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 *   [BSZoomGridScrollView (⭐156)](https://github.com/boraseoksoon/BSZoomGridScrollView) - iOS customizable grid style scrollView UI library to display your UIImage array input, designed primarily for SwiftUI as well as to interoperate with UIKit.
 
-## [40. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [39. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Resources / Courses
 
 *   [BigChem](http://bigchem.eu/alllectures) - All lectures of [BigChem](http://bigchem.eu/) (A Horizon 2020 MSC ITN EID project, which provides innovative education in large chemical data analysis.)
 
-## [41. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [40. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
@@ -422,23 +411,23 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [See the guide (⭐299)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
-## [42. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [41. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Big Data
 
-*   [Splunk (⭐112)](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
+*   [Splunk (⭐114)](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
 
 ### Development Environment
 
 *   [GitHub Actions (⭐23k)](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
 
-## [43. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [42. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Dynamic Analysis Tools
 
 *   [Android Malware Sandbox (⭐269)](https://github.com/Areizen/Android-Malware-Sandbox)
 
-## [44. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [43. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Learning
 

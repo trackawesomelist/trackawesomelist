@@ -32,7 +32,7 @@
 
 ### CLI Utils
 
-*   [coin (⭐7)](https://github.com/caian-org/coin) - Command-line application that performs currency conversion via the [Fixer API](https://fixer.io)
+*   [coin (⭐6)](https://github.com/caian-org/coin) - Command-line application that performs currency conversion via the [Fixer API](https://fixer.io)
 
 ## [4. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Miscellaneous
 
-*   [react-apple-signin-auth (⭐92)](https://github.com/A-Tokyo/react-apple-signin-auth) - Apple signin for React using the official Apple JS SDK.
+*   [react-apple-signin-auth (⭐93)](https://github.com/A-Tokyo/react-apple-signin-auth) - Apple signin for React using the official Apple JS SDK.
 
 ## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

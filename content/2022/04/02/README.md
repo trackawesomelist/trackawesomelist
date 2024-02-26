@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 02, 2022
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,17 +14,7 @@
 *   [TD4A (⭐198)](https://github.com/cidrblock/td4a) - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
 *   [Ansible Playbook Grapher (⭐479)](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
 
-## [2. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Containers
-
-*   [Docker Tutorial](https://www.tutorialspoint.com/docker/) - Tutorials Point (HTML, PDF)
-
-### Machine Learning
-
-*   [Machine Learning with Python](https://www.tutorialspoint.com/machine_learning_with_python/) - Tutorials Point (HTML, [PDF](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf))
-
-## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -34,19 +24,19 @@
 
 *   [clipper (⭐0)](https://github.com/Robert-96/clipper) - Minimalist ZSH theme with `git` support. It includes decorations for pwd, last command exit status code and `git` status & branch.
 
-## [4. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+## [3. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Additional Resources / Websites
 
 *   [LearnOSM.org](https://learnosm.org/en/beginner/) - Extensive beginners' guide to editing OpenStreetMap. ([Wiki](https://wiki.openstreetmap.org/wiki/LearnOSM))
 
-## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Electron / Presets
 
 *   [vite-plugin-electron-config (⭐9)](https://github.com/alex8088/vite-plugin-electron-config) - Electron plugin for Vite, support for main process, renderer process and preload script.
 
-## [6. Awesome Go](/content/avelino/awesome-go/README.md)
+## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -77,7 +67,7 @@
 
 *   [nchi (⭐13)](https://github.com/muir/nchi) - chi-like router built on httprouter with dependency injection based middleware wrappers
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Storage and Media Processing
 

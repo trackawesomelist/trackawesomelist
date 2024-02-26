@@ -10,12 +10,12 @@
 
 ### Applications
 
-*   [datafusion (⭐4.6k)](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion and Ballista query engines
+*   [datafusion (⭐4.7k)](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion and Ballista query engines
 
 ### Libraries / Web programming
 
 *   Reverse Proxy
-    *   [sozu-proxy/sozu (⭐2.7k)](https://github.com/sozu-proxy/sozu) \[[sozu](https://crates.io/crates/sozu)] — A HTTP reverse proxy. [![CI](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml)
+    *   [sozu-proxy/sozu (⭐2.8k)](https://github.com/sozu-proxy/sozu) \[[sozu](https://crates.io/crates/sozu)] — A HTTP reverse proxy. [![CI](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml)
 
 ## [2. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -47,8 +47,8 @@
 
 ### Libraries
 
-*   [effect-ts (⭐2.7k)](https://github.com/Effect-TS/core) – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
-*   [qio (⭐70)](https://github.com/tusharmath/qio) – A type-safe, functional, performant, lawful, composable data structure that solves practical problems of effect-full code in node and browser. +TS
+*   [effect-ts (⭐3.4k)](https://github.com/Effect-TS/core) – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
+*   [qio (⭐69)](https://github.com/tusharmath/qio) – A type-safe, functional, performant, lawful, composable data structure that solves practical problems of effect-full code in node and browser. +TS
 
 ## [6. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 

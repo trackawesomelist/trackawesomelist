@@ -52,7 +52,7 @@
 
 ### Resources / Recipes
 
-*   [Serafeim's Wagtail FAQ (⭐36)](https://github.com/spapas/wagtail-faq) - Answers and recipes for Wagtail
+*   [Serafeim's Wagtail FAQ (⭐37)](https://github.com/spapas/wagtail-faq) - Answers and recipes for Wagtail
 
 ## [8. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 

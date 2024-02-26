@@ -46,11 +46,11 @@
 
 ### Libraries / JavaScript
 
-*   [node-mapnik (⭐523)](https://github.com/mapnik/node-mapnik) - Node wrapper for mapnik.
+*   [node-mapnik (⭐526)](https://github.com/mapnik/node-mapnik) - Node wrapper for mapnik.
 
 ### Libraries / Python
 
-*   [python-mapnik (⭐151)](https://github.com/mapnik/python-mapnik) - Python wrapper for mapnik.
+*   [python-mapnik (⭐152)](https://github.com/mapnik/python-mapnik) - Python wrapper for mapnik.
 
 ### Articles / Wiki-Pages
 
@@ -73,14 +73,14 @@
 ### YouTube
 
 *   [Piped (⭐7.1k)](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐7.2k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐7.2k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
+    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐7.3k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐7.3k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
 
 ## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [PixelGuesser (⭐7)](https://github.com/tdooms/pixelguesser) - PixelGuesser is a real life party gam where players try to guess the contents of an image as quickly as possible.
+*   [PixelGuesser (⭐8)](https://github.com/tdooms/pixelguesser) - PixelGuesser is a real life party gam where players try to guess the contents of an image as quickly as possible.
 
 ---
 

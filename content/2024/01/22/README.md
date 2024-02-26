@@ -13,8 +13,8 @@
 *   **Google Photos** has privacy issues. They collect a lot of data about you, which you can see in their [privacy policy](https://policies.google.com/privacy?hl=en-US#infocollect). Google can scan your photos and might flag them for different reasons, as shown in this [incident](https://petapixel.com/2022/08/22/google-flags-photos-of-fathers-sick-son-as-child-abuse-informs-police/). They also use your photos to improve their AI technology.
 *   **Amazon Photos** also has similar privacy problems. Like Google Photos, it gathers a lot of information from your photo gallery. You can see a bit of what kind of data they collect in their [**examples** list](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496\&ref_=footer_privacy#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01).
 *   **Samsung, Huawei, Xiaomi, etc.** Gallery
-*   [Aves (⭐1.7k)](https://github.com/deckerst/aves) - Beautiful gallery and metadata explorer app, built for Android with Flutter.
-*   [Fossify Gallery (⭐799)](https://github.com/FossifyOrg/Gallery) - Fork of Simple Gallery. Browse your memories without any interruptions with this photo and video gallery.
+*   [Aves (⭐1.8k)](https://github.com/deckerst/aves) - Beautiful gallery and metadata explorer app, built for Android with Flutter.
+*   [Fossify Gallery (⭐877)](https://github.com/FossifyOrg/Gallery) - Fork of Simple Gallery. Browse your memories without any interruptions with this photo and video gallery.
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

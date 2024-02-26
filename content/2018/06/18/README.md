@@ -56,8 +56,8 @@ Webpage: <http://ogniwo.org/>
 
 ### Applications / Directory Navigation
 
-*   [awless (⭐4.9k)](https://github.com/wallix/awless) - A powerful, innovative and small surface CLI to manage AWS.
-*   [ranger (⭐14k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
+*   [awless (⭐5k)](https://github.com/wallix/awless) - A powerful, innovative and small surface CLI to manage AWS.
+*   [ranger (⭐15k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 
 ## [7. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
@@ -69,7 +69,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Caching
 
-*   [nebulex (⭐1.1k)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
+*   [nebulex (⭐1.2k)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
 
 ### Third Party APIs
 

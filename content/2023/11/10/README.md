@@ -10,18 +10,17 @@
 
 ### Resources / Blog posts
 
-*   [Spark vs Polars. Real-life Test Case. ](https://dataengineeringcentral.substack.com/p/spark-vs-polars-real-life-test-case) - A blog post in which the author tests whether Polars is able to handle "real amounts of data" and "really replace some production Spark workloads." by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐5)](https://github.com/danielbeach/PolarsVsPySpark/tree/main).
 *   [Using Polars Plugins for a 14x Speed Boost with Rust](https://towardsdatascience.com/using-polars-plugins-for-a-14x-speed-boost-with-rust-ce80bcc13d94) - A blog post thats shows the use of Polars plugin system for Rust from some concrete examples by [@ngriffiths13](https://github.com/ngriffiths13).
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
 
-*   [Amplitude Audio SDK (⭐13)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
+*   [Amplitude Audio SDK (⭐14)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
 
 ### Font
 
-*   [libschrift (⭐417)](https://github.com/tomolt/libschrift) - A lightweight TrueType font rendering library. \[ISC]
+*   [libschrift (⭐421)](https://github.com/tomolt/libschrift) - A lightweight TrueType font rendering library. \[ISC]
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -33,7 +32,7 @@
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
-*   [imartinez/privateGPT (⭐47k)](https://github.com/imartinez/privateGPT): "Interact with your documents using the power of GPT, 100% privately, no data leaks"
+*   [imartinez/privateGPT (⭐48k)](https://github.com/imartinez/privateGPT): "Interact with your documents using the power of GPT, 100% privately, no data leaks"
 
 ## [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
@@ -51,7 +50,7 @@
 
 ### Template Engines
 
-*   [templ (⭐5.3k)](https://github.com/a-h/templ) - A HTML templating language that has great developer tooling.
+*   [templ (⭐5.7k)](https://github.com/a-h/templ) - A HTML templating language that has great developer tooling.
 
 ## [8. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -101,7 +100,7 @@
 
 ### Svelte / Helpers
 
-*   [vite-plugin-kit-routes (⭐364)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-kit-routes) - Generates a file with all the routes, params, actions of your SvelteKit App.
+*   [vite-plugin-kit-routes (⭐369)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-kit-routes) - Generates a file with all the routes, params, actions of your SvelteKit App.
 
 ---
 

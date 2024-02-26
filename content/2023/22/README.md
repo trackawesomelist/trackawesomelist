@@ -22,7 +22,7 @@
 
 ### Contents / CLI
 
-*   [atlas (⭐3.1k)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
+*   [atlas (⭐4.5k)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
 
 ### Contents / Server
 
@@ -36,7 +36,7 @@
 
 ### Projects
 
-*   [Crypto-helper (⭐25)](https://github.com/TheBestTvarynka/crypto-helper) - Web app that can hash, encrypt, and sign the data on the client side. Also includes a JWT debugger. [Website](https://crypto.qkation.com).
+*   [Crypto-helper (⭐27)](https://github.com/TheBestTvarynka/crypto-helper) - Web app that can hash, encrypt, and sign the data on the client side. Also includes a JWT debugger. [Website](https://crypto.qkation.com).
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -138,7 +138,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Software / Analytics
 
-*   [Aptabase](https://aptabase.com/) - Open source, privacy first and simple analytics for mobile and desktop apps. ([Source Code (⭐470)](https://github.com/aptabase/aptabase)) `AGPL-3.0` `Docker`
+*   [Aptabase](https://aptabase.com/) - Open source, privacy first and simple analytics for mobile and desktop apps. ([Source Code (⭐532)](https://github.com/aptabase/aptabase)) `AGPL-3.0` `Docker`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -150,7 +150,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [vod2pod-rss (⭐157)](https://github.com/madiele/vod2pod-rss) `⚠` - Convert YouTube and Twitch channels to podcasts, no storage required. Transcodes VoDs to MP3 192k on the fly, generates an RSS feed to use in podcast clients. `MIT` `Docker`
+*   [vod2pod-rss (⭐165)](https://github.com/madiele/vod2pod-rss) `⚠` - Convert YouTube and Twitch channels to podcasts, no storage required. Transcodes VoDs to MP3 192k on the fly, generates an RSS feed to use in podcast clients. `MIT` `Docker`
 
 ## [16. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -213,7 +213,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Templates / React
 
-*   [react-vite-tailwindcss-template (⭐8)](https://github.com/quavedev/react-vite-tailwindcss-template) - React, JavaScript, TailwindCSS, ESlint, Prettier, Pre-commit.
+*   [react-vite-tailwindcss-template (⭐9)](https://github.com/quavedev/react-vite-tailwindcss-template) - React, JavaScript, TailwindCSS, ESlint, Prettier, Pre-commit.
 
 ## [23. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -294,23 +294,21 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Resources / Tutorials & workshops
 
-*   [Fast String Processing with Polars — Scam Emails Dataset](https://towardsdatascience.com/fast-string-processing-with-polars-scam-emails-dataset-fcf7054a929a) - A tutorial using Polars to  implement a text processing pipeline process by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐36)](https://github.com/aruberts/tutorials/tree/main/metaflow/fraud_email).
+*   [Fast String Processing with Polars — Scam Emails Dataset](https://towardsdatascience.com/fast-string-processing-with-polars-scam-emails-dataset-fcf7054a929a) - A tutorial using Polars to  implement a text processing pipeline process by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐38)](https://github.com/aruberts/tutorials/tree/main/metaflow/fraud_email).
 
 ### Resources / Blog posts
 
-*   [Lightning-fast queries with Polars ](https://dev.to/astrojuanlu/lightning-fast-queries-with-polars-1bp3) - Another blog post that is a good introduction to Polars by [@astrojuanlu](https://github.com/astrojuanlu).
 *   [Polars – Laziness and SQL Context.](https://www.confessionsofadataguy.com/polars-laziness-and-sql-context/) - A blog post that presents two good reasons to adopt Polars :  Lazy and SQL Context by [@danielbeach](https://github.com/danielbeach).
-*   [Exploring Polars - The Lightning-Fast DataFrame Library in Python ](https://medium.com/@HeCanThink/exploring-polars-the-lightning-fast-dataframe-library-in-python-2d01aa332f70) - A blog post on the basics of Polars by [@mddas](https://github.com/mddas).
 
 ## [32. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Standard CLI
 
-*   [readline (⭐61)](https://github.com/reeflective/readline) Shell library with modern and easy to use UI features.
+*   [readline (⭐62)](https://github.com/reeflective/readline) Shell library with modern and easy to use UI features.
 
 ### Distributed Systems
 
-*   [Temporal (⭐425)](https://github.com/temporalio/sdk-go) - Durable execution system for making code fault-tolerant and simple.
+*   [Temporal (⭐431)](https://github.com/temporalio/sdk-go) - Durable execution system for making code fault-tolerant and simple.
 
 ## [33. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
@@ -436,7 +434,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Command-Line Productivity
 
-*   [broot (⭐9.3k)](https://github.com/Canop/broot) - A better way to navigate directories
+*   [broot (⭐9.8k)](https://github.com/Canop/broot) - A better way to navigate directories
 *   [tere (⭐1.6k)](https://github.com/mgunyho/tere) - A faster alternative to cd + ls
 
 ## [43. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
@@ -463,12 +461,12 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Applications
 
-*   [Rio (⭐2.7k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+*   [Rio (⭐2.8k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 
 ### Libraries / Platform specific
 
 *   Windows
-    *   [microsoft/windows-rs (⭐9.4k)](https://github.com/microsoft/windows-rs) — Rust for Windows [![Actions Status](https://github.com/microsoft/windows-rs/workflows/CI/badge.svg)](https://github.com/microsoft/windows-rs/actions)
+    *   [microsoft/windows-rs (⭐9.5k)](https://github.com/microsoft/windows-rs) — Rust for Windows [![Actions Status](https://github.com/microsoft/windows-rs/workflows/CI/badge.svg)](https://github.com/microsoft/windows-rs/actions)
     *   [retep998/winapi-rs (⭐1.8k)](https://github.com/retep998/winapi-rs) — Windows API bindings [![Rust](https://github.com/retep998/winapi-rs/actions/workflows/rust.yml/badge.svg?branch=dev)](https://github.com/retep998/winapi-rs/actions/workflows/rust.yml)
 
 ## [46. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
@@ -513,10 +511,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 ### Code Runner / Diagnostics
 
 *   [google/executor.nvim (⭐115)](https://github.com/google/executor.nvim) - Allows you to run command line tasks in the background and be notified of results.
-
-### Competitive Programming / Diagnostics
-
-*   [Dhanus3133/Leetbuddy.nvim (⭐148)](https://github.com/Dhanus3133/Leetbuddy.nvim) - Solve Leetcode problems within Neovim.
 
 ---
 

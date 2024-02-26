@@ -145,7 +145,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### Community / Related Lists
 
-*   [Functional Programming Resources In JavaScript (⭐306)](https://github.com/busypeoples/functional-programming-javascript)
+*   [Functional Programming Resources In JavaScript (⭐305)](https://github.com/busypeoples/functional-programming-javascript)
 
 ---
 

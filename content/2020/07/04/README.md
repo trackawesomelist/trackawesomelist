@@ -184,13 +184,13 @@
 
 ### Applications / Industrial automation
 
-*   [slowtec/tokio-modbus (⭐333)](https://github.com/slowtec/tokio-modbus) — A [tokio](https://tokio.rs)-based [modbus](https://modbus.org) library.
+*   [slowtec/tokio-modbus (⭐334)](https://github.com/slowtec/tokio-modbus) — A [tokio](https://tokio.rs)-based [modbus](https://modbus.org) library.
 
 ## [5. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Asynchronous Programming
 
-*   [trio (⭐5.4k)](https://github.com/python-trio/trio) - A friendly library for async concurrency and I/O.
+*   [trio (⭐5.8k)](https://github.com/python-trio/trio) - A friendly library for async concurrency and I/O.
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

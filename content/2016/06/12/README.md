@@ -55,7 +55,7 @@
 
 ### Artificial Intelligence
 
-*   [Recast/Detour (⭐6k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
+*   [Recast/Detour (⭐6.1k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 26, 2019
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,13 +30,7 @@
 
 *   [Backblaze Durability is 99.999999999% — And Why It Doesn’t Matter](https://www.backblaze.com/blog/cloud-storage-durability/)
 
-## [5. Awesome R](/content/qinwf/awesome-R/README.md)
-
-### Integrated Development Environments
-
-*   [Microsoft R](https://mran.microsoft.com/) - Revolution R would be offered free to academic users and commercial software would focus on big data, large scale multiprocessor functionality.
-
-## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
@@ -50,19 +44,19 @@
 
 *   [Whereby](https://whereby.com) – Browser-based, plugin-less group video calls.
 
-## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [6. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Media & Document Management
 
 *   [Laravel FFmpeg (⭐1.2k)](https://github.com/pascalbaljetmedia/laravel-ffmpeg) - This package provides an integration with FFmpeg for Laravel 5.8.
 
-## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Docker Container Actions
 
 *   [Update Maxmind Databases (⭐4)](https://github.com/meetup/maxmind-updater)
 
-## [9. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Conferences
 
@@ -72,7 +66,7 @@
 
 *   [Neuraxle - A general-purpose ML pipelining framework (⭐549)](https://github.com/Neuraxio/Neuraxle)
 
-## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 

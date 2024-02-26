@@ -235,7 +235,7 @@
 
 ### Ruby Libraries
 
-*   [Bitcoin-ruby (⭐908)](https://github.com/lian/bitcoin-ruby)
+*   [Bitcoin-ruby (⭐907)](https://github.com/lian/bitcoin-ruby)
 
 ### Python Libraries
 
@@ -295,11 +295,11 @@
 
 *   [exmatrix (⭐56)](https://github.com/a115/exmatrix) - ExMatrix is a small library for working with matrices, originally developed for testing matrix multiplication in parallel.
 *   [red\_black\_tree (⭐38)](https://github.com/SenecaSystems/red_black_tree) - Red-Black tree implementation in Elixir.
-*   [sorted\_set (⭐20)](https://github.com/SenecaSystems/sorted_set) - Sorted Sets for Elixir.
+*   [sorted\_set (⭐21)](https://github.com/SenecaSystems/sorted_set) - Sorted Sets for Elixir.
 
 ### Debugging
 
-*   [beaker (⭐282)](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
+*   [beaker (⭐281)](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
 
 ### Documentation
 
@@ -311,7 +311,7 @@
 
 ### Frameworks
 
-*   [rackla (⭐267)](https://github.com/AntonFagerberg/rackla) - API Gateways in Elixir.
+*   [rackla (⭐268)](https://github.com/AntonFagerberg/rackla) - API Gateways in Elixir.
 
 ### Images
 
@@ -324,7 +324,7 @@
 ### ORM and Datamapping
 
 *   [caylir (⭐21)](https://github.com/mneudert/caylir) - Cayley driver for Elixir.
-*   [mysql (⭐353)](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
+*   [mysql (⭐357)](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
 *   [mysqlex (⭐8)](https://github.com/tjheeta/mysqlex) - An Ecto-compatible wrapper around the mysql-otp library.
 
 ### Third Party APIs
@@ -333,7 +333,7 @@
 
 ### Reading
 
-*   [xElixir (⭐580)](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
+*   [xElixir (⭐586)](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
 
 ---
 

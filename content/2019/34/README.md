@@ -431,7 +431,7 @@
 
 ### Software / URL Shorteners
 
-*   [Simple-URL-Shortener (⭐42)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
+*   [Simple-URL-Shortener (⭐41)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
 
 ## [33. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
 
@@ -506,7 +506,7 @@
 ### Other Tools / Telegram
 
 *   [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.
-    *   [pygreynoise (⭐142)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
+    *   [pygreynoise (⭐144)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 
 ## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 

@@ -97,7 +97,7 @@
 
 ### Command-Line Productivity
 
-*   [has (⭐563)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
+*   [has (⭐594)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 
 ## [12. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -408,10 +408,6 @@
 ### Interactive / Other
 
 *   [Let's Make A Ray Marcher](https://www.shadertoy.com/view/MdBfRK) - Interactive Shader-Toy on writing a ray marcher.
-
-### Inspiration / Other
-
-*   [W:BLUT Inspiration](http://inspiration.wblut.com/) - Collection of gifs, links and images by W:Blut.
 
 ### Events / Other
 

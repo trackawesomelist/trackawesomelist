@@ -22,7 +22,7 @@
 
 ### Concurrency
 
-*   [Intel Parallel STL (⭐704)](https://github.com/intel/parallelstl) - Intel® implementation of C++17 STL for C++11 and above. \[Apache2]
+*   [Intel Parallel STL (⭐706)](https://github.com/intel/parallelstl) - Intel® implementation of C++17 STL for C++11 and above. \[Apache2]
 
 ## [4. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Utilities / System Related Tools
 
-*   [KeepingYouAwake (⭐5.3k)](https://github.com/newmarcel/KeepingYouAwake) - Alternative to Caffeine with better support for dark mode in Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/newmarcel/KeepingYouAwake)
+*   [KeepingYouAwake (⭐5.4k)](https://github.com/newmarcel/KeepingYouAwake) - Alternative to Caffeine with better support for dark mode in Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/newmarcel/KeepingYouAwake)
 
 ## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

@@ -76,7 +76,7 @@
 
 ### Tools / Static Analysis Tools
 
-*   [APKLeaks (⭐4.4k)](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
+*   [APKLeaks (⭐4.5k)](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 
 ## [6. Awesome D](/content/dlang-community/awesome-d/README.md)
 

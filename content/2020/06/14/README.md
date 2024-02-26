@@ -68,7 +68,7 @@
 
 ### Command-Line Productivity
 
-*   [tldr (⭐687)](https://github.com/raylee/tldr-sh-client) - A fully-functional bash client for tldr, simplified and community-driven man pages
+*   [tldr (⭐697)](https://github.com/raylee/tldr-sh-client) - A fully-functional bash client for tldr, simplified and community-driven man pages
 
 ## [11. Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md)
 

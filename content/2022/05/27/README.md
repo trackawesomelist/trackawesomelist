@@ -28,7 +28,7 @@
 
 ### Search Engines
 
-*   [librengine (⭐63)](https://github.com/liameno/librengine) - Privacy Web Search Engine
+*   [librengine (⭐64)](https://github.com/liameno/librengine) - Privacy Web Search Engine
 
 ## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Libraries/Frameworks / Tools
 
-*   [saveourtool/diktat (⭐488)](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting and autofixing code smells.
+*   [saveourtool/diktat (⭐490)](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting and autofixing code smells.
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Libraries / Community
 
-*   [vavite (⭐426)](https://github.com/cyco130/vavite) - A tool for developing and building server-side applications with live reloading capabilities.
+*   [vavite (⭐437)](https://github.com/cyco130/vavite) - A tool for developing and building server-side applications with live reloading capabilities.
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -20,8 +20,8 @@
 ### Shell Script Development / Directory Navigation
 
 *   [bashwithnails (⭐33)](https://github.com/mindaugasbarysas/bashwithnails) - a Bash framework written just for fun with testing, dependency management & packaging
-*   [lumberjack (⭐38)](https://github.com/molovo/lumberjack) - A logging interface for shell scripts
-*   [revolver (⭐137)](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts
+*   [lumberjack (⭐40)](https://github.com/molovo/lumberjack) - A logging interface for shell scripts
+*   [revolver (⭐139)](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts
 
 ## [2. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

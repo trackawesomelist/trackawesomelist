@@ -81,7 +81,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Cyclops Level Builder (⭐653)](https://github.com/blackears/cyclopsLevelBuilder) - A level builder for quick prototypes and proof-of-concepts (Godot 4.x).
+*   [Cyclops Level Builder (⭐684)](https://github.com/blackears/cyclopsLevelBuilder) - A level builder for quick prototypes and proof-of-concepts (Godot 4.x).
 
 ## [9. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
 

@@ -10,8 +10,8 @@
 
 ### Miscellaneous
 
-*   [ChatGPT (⭐4k)](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
-*   [Whisper (⭐739)](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
+*   [ChatGPT (⭐4.3k)](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
+*   [Whisper (⭐839)](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
 
 ## [2. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Resources / Tutorials & workshops
 
-*   [Polars cookbook in Python (⭐211)](https://github.com/escobar-west/polars-cookbook) - This cookbook is a fork of the popular pandas-cookbook and has been modified to use the polars library. By [@escobar-west](https://github.com/escobar-west), it uses real-world examples with "all the bugs and weirdness that entails."
+*   [Polars cookbook in Python (⭐216)](https://github.com/escobar-west/polars-cookbook) - This cookbook is a fork of the popular pandas-cookbook and has been modified to use the polars library. By [@escobar-west](https://github.com/escobar-west), it uses real-world examples with "all the bugs and weirdness that entails."
 
 ## [7. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
@@ -412,8 +412,8 @@ Free (Open Source)
 
 ### Software / DNS - Control Panels & Domain Management
 
-*   [nsupdate.info](https://www.nsupdate.info/) - Dynamic DNS service. ([Demo](https://www.nsupdate.info/account/register/), [Source Code (⭐987)](https://github.com/nsupdate-info/nsupdate.info)) `BSD-3-Clause` `Python`
-*   [SPF Toolbox](https://spftoolbox.com) - Application to look up DNS records such as SPF, MX, Whois, and more. ([Source Code (⭐250)](https://github.com/charlesabarnes/SPFtoolbox)) `MIT` `PHP`
+*   [nsupdate.info](https://www.nsupdate.info/) - Dynamic DNS service. ([Demo](https://www.nsupdate.info/account/register/), [Source Code (⭐993)](https://github.com/nsupdate-info/nsupdate.info)) `BSD-3-Clause` `Python`
+*   [SPF Toolbox](https://spftoolbox.com) - Application to look up DNS records such as SPF, MX, Whois, and more. ([Source Code (⭐253)](https://github.com/charlesabarnes/SPFtoolbox)) `MIT` `PHP`
 
 ## [13. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

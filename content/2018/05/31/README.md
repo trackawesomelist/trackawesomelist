@@ -224,7 +224,7 @@
 
 ### Messaging / Text-Based User Interfaces
 
-*   [Aeron (⭐6.9k)](https://github.com/real-logic/Aeron) - Efficient, reliable, unicast and multicast message transport.
+*   [Aeron (⭐7k)](https://github.com/real-logic/Aeron) - Efficient, reliable, unicast and multicast message transport.
 *   [Apache ActiveMQ](https://activemq.apache.org) - Message broker that implements JMS and converts synchronous to asynchronous communication.
 *   [Apache Camel](https://camel.apache.org) - Glues together different transport APIs via Enterprise Integration Patterns.
 *   [Apache Kafka](https://kafka.apache.org) - High-throughput distributed messaging system.
@@ -445,7 +445,7 @@
 *   [Awesome Microservices (⭐13k)](https://github.com/mfornos/awesome-microservices)
 *   [Awesome REST (⭐3.5k)](https://github.com/marmelab/awesome-rest)
 *   [Awesome Selenium (⭐963)](https://github.com/christian-bromann/awesome-selenium)
-*   [ciandcd (⭐1.7k)](https://github.com/ciandcd/awesome-ciandcd)
+*   [ciandcd (⭐1.8k)](https://github.com/ciandcd/awesome-ciandcd)
 *   [Useful Java Links (⭐5.7k)](https://github.com/Vedenin/useful-java-links)
 
 ### Frontends / Mocking

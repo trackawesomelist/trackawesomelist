@@ -10,19 +10,19 @@
 
 ### Financial
 
-*   [decimal (⭐16)](https://github.com/govalues/decimal) - Immutable decimal numbers with panic-free arithmetic.
-*   [money (⭐10)](https://github.com/govalues/money) - Immutable monetary amounts and exchange rates with panic-free arithmetic.
+*   [decimal (⭐17)](https://github.com/govalues/decimal) - Immutable decimal numbers with panic-free arithmetic.
+*   [money (⭐11)](https://github.com/govalues/money) - Immutable monetary amounts and exchange rates with panic-free arithmetic.
 
 ### Query Language
 
-*   [mql (⭐29)](https://github.com/hashicorp/mql) - Model Query Language (mql) is a query language for your database models.
+*   [mql (⭐30)](https://github.com/hashicorp/mql) - Model Query Language (mql) is a query language for your database models.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / eBPF
 
-*   [aya/aya-rs (⭐2.4k)](https://github.com/aya-rs/aya) — A Rust library for the Rust programming language, built with a focus on developer experience and operability.
-*   [libbpf/libbpf-rs (⭐576)](https://github.com/libbpf/libbpf-rs) — A minimal and opinionated eBPF tooling for the Rust ecosystem.
+*   [aya/aya-rs (⭐2.5k)](https://github.com/aya-rs/aya) — Built with a focus on developer experience and operability.
+*   [libbpf/libbpf-rs (⭐582)](https://github.com/libbpf/libbpf-rs) — A minimal and opinionated eBPF tooling.
 
 ## [3. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 

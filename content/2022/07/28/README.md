@@ -10,8 +10,8 @@
 
 ### Software / Games
 
-*   [Minetest](https://www.minetest.net/) - An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server. ([Source Code (⭐9.8k)](https://github.com/minetest/minetest)) `LGPL-2.1/MIT/Zlib` `C++/deb`
-*   [Teeworlds](https://www.teeworlds.com) - Open source 2D retro multiplayer shooter. ([Source Code (⭐2.2k)](https://github.com/teeworlds/teeworlds)) `Zlib` `C++/deb`
+*   [Minetest](https://www.minetest.net/) - An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server. ([Source Code (⭐9.9k)](https://github.com/minetest/minetest)) `LGPL-2.1/MIT/Zlib` `C++/deb`
+*   [Teeworlds](https://www.teeworlds.com) - Open source 2D retro multiplayer shooter. ([Source Code (⭐2.3k)](https://github.com/teeworlds/teeworlds)) `Zlib` `C++/deb`
 
 ## [2. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -38,11 +38,11 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [jq (⭐239)](https://github.com/reegnz/jq-zsh-plugin) - Interactively build [jq](https://stedolan.github.io/jq/) expressions. Also supports [gojq (⭐3k)](https://github.com/itchyny/gojq). Requires [fzf (⭐57k)](https://github.com/junegunn/fzf).
+*   [jq (⭐244)](https://github.com/reegnz/jq-zsh-plugin) - Interactively build [jq](https://stedolan.github.io/jq/) expressions. Also supports [gojq (⭐3k)](https://github.com/itchyny/gojq). Requires [fzf (⭐58k)](https://github.com/junegunn/fzf).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [jnooree (⭐0)](https://github.com/jnooree/jnooree-zsh-theme) - Minimalist theme with colors adapted from the [robbyrussell (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme. Includes decorators for `git` status, whether running as non-default user and current working directory.
+*   [jnooree (⭐0)](https://github.com/jnooree/jnooree-zsh-theme) - Minimalist theme with colors adapted from the [robbyrussell (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme. Includes decorators for `git` status, whether running as non-default user and current working directory.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -88,7 +88,7 @@
 
 ### CodeIgniter / Community
 
-*   [codeigniter-vite (⭐68)](https://github.com/firtadokei/codeigniter-vitejs) - Integration for CodeIgniter.
+*   [codeigniter-vite (⭐70)](https://github.com/firtadokei/codeigniter-vitejs) - Integration for CodeIgniter.
 
 ## [12. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 

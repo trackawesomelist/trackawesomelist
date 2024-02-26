@@ -84,7 +84,7 @@
 
 ### Front-End Development
 
-*   [Material-UI (⭐196)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
+*   [Material-UI (⭐202)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
 
 ## [10. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
@@ -411,7 +411,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Software / Vector Utilities
 
-*   [vpype (⭐629)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
+*   [vpype (⭐639)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 
 ### Software / Fonts
 
@@ -435,7 +435,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Utils
 
-*   [playwright-fluent (⭐148)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
+*   [playwright-fluent (⭐151)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
 
 ## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -501,7 +501,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Icons
 
-*   [react-open-doodles (⭐61)](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
+*   [react-open-doodles (⭐63)](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
 
 ### CSS / Style / Mouse Events
 

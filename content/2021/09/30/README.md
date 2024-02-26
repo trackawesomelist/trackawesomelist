@@ -30,7 +30,7 @@
 
 ### Configuration
 
-*   [inifile-cpp (⭐294)](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++. \[MIT]
+*   [inifile-cpp (⭐298)](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++. \[MIT]
 
 ### Online Compiler
 

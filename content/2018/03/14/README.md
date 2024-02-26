@@ -10,7 +10,7 @@
 
 ### Table of Contents / Micro Framework Extras
 
-*   [Slim Twig View (⭐308)](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
+*   [Slim Twig View (⭐307)](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
 *   [Slim PHP View (⭐255)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
 
 ### Table of Contents / Event
@@ -67,7 +67,7 @@
 
 ### HTTP
 
-*   [halite (⭐172)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
+*   [halite (⭐173)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

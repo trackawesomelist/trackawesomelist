@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 02, 2023
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -86,17 +86,17 @@
 
 ### 🛠️ Tools / 🌱 Third Party
 
-*   [ryanbekhen/feserve (⭐7)](https://github.com/ryanbekhen/feserve) - Feserve is a lightweight application or docker image to serve frontend and load balancer applications.
+*   [ryanbekhen/feserve (⭐8)](https://github.com/ryanbekhen/feserve) - Feserve is a lightweight application or docker image to serve frontend and load balancer applications.
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Utilities
 
-*   [nix-community/nix-init (⭐633)](https://github.com/nix-community/nix-init) — Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [![build-badge](https://github.com/nix-community/nix-init/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-init/actions/workflows/ci.yml)
+*   [nix-community/nix-init (⭐648)](https://github.com/nix-community/nix-init) — Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [![build-badge](https://github.com/nix-community/nix-init/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-init/actions/workflows/ci.yml)
 
 ### Libraries / System
 
-*   [ardaku/whoami (⭐122)](https://github.com/ardaku/whoami) \[[whoami](https://crates.io/crates/whoami)] — Rust crate to get the current user and environment. [![build badge](https://github.com/ardaku/whoami/actions/workflows/ci.yml/badge.svg?branch=stable)](https://github.com/ardaku/whoami/actions/workflows/ci.yml)
+*   [ardaku/whoami (⭐124)](https://github.com/ardaku/whoami) \[[whoami](https://crates.io/crates/whoami)] — crate to get the current user and environment. [![build badge](https://github.com/ardaku/whoami/actions/workflows/ci.yml/badge.svg?branch=stable)](https://github.com/ardaku/whoami/actions/workflows/ci.yml)
 
 ## [9. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -147,7 +147,7 @@
 
 ### Auxiliary tools and concepts / Deforum
 
-*   [chaiNNer-org/chaiNNer (⭐3.7k)](https://github.com/chaiNNer-org/chaiNNer): A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks
+*   [chaiNNer-org/chaiNNer (⭐3.8k)](https://github.com/chaiNNer-org/chaiNNer): A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks
 
 ## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -182,9 +182,9 @@
 ### Software / Monitoring
 
 *   [Alerta](https://alerta.io/) - Distributed, scalable and flexible monitoring system. ([Source Code (⭐2.3k)](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
-*   [Healthchecks](https://healthchecks.io/docs/self_hosted/) - Monitoring for cron jobs, background services and scheduled tasks. ([Source Code (⭐7k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
+*   [Healthchecks](https://healthchecks.io/docs/self_hosted/) - Monitoring for cron jobs, background services and scheduled tasks. ([Source Code (⭐7.1k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
 *   [Linux Dash (⭐10k)](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine. `MIT` `Nodejs/Go/Python/PHP`
-*   [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code (⭐945)](https://github.com/sensu/sensu-go)) `MIT` `Go`
+*   [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code (⭐952)](https://github.com/sensu/sensu-go)) `MIT` `Go`
 
 ## [16. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -219,12 +219,6 @@
 
 *   [Diffblue](https://www.diffblue.com/) :copyright: — Diffblue is a software company that provides AI-powered code analysis and testing solutions for software development teams.
     Its technology helps developers automate testing, find bugs, and reduce manual labor in their software development processes. The company's main product, Diffblue Cover, uses AI to generate and run unit tests for Java code, helping to catch errors and improve code quality.
-
-## [19. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Programming
-
-*   [Principled Programming / Introduction to Coding in Any Imperative Language](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html) - Tim Teitelbaum
 
 ---
 

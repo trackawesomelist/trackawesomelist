@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 31 - Nov 06, 2022
 
-51 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -204,7 +204,7 @@
 
 ### Reddit
 
-*   [Libreddit (⭐5k)](https://github.com/libreddit/libreddit) - Private Reddit front-end written in Rust
+*   [Libreddit (⭐5k)](https://github.com/libreddit/libreddit) - Private Reddit front-end written in Rust [No longer working - Read here (⭐5k)](https://github.com/libreddit/libreddit/issues/840)
 
 ## [16. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
@@ -266,11 +266,11 @@
 
 ### Software / Remote Access
 
-*   [RustDesk](https://rustdesk.com/) - Remote Desktop Access software that works out-of-the-box (alternative to TeamViewer). ([Source Code (⭐5.2k)](https://github.com/rustdesk/rustdesk-server)) `AGPL-3.0` `Rust/Docker/deb`
+*   [RustDesk](https://rustdesk.com/) - Remote Desktop Access software that works out-of-the-box (alternative to TeamViewer). ([Source Code (⭐5.3k)](https://github.com/rustdesk/rustdesk-server)) `AGPL-3.0` `Rust/Docker/deb`
 
 ### Software / Status / Uptime pages
 
-*   [Gatus (⭐4.4k)](https://github.com/TwiN/gatus) - Automated service health dashboard. ([Demo](https://status.twin.sh)) `Apache-2.0` `Docker/K8S`
+*   [Gatus (⭐4.5k)](https://github.com/TwiN/gatus) - Automated service health dashboard. ([Demo](https://status.twin.sh)) `Apache-2.0` `Docker/K8S`
 
 ## [21. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -568,14 +568,14 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [touchlab/KMMBridge (⭐314)](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.
+*   [touchlab/KMMBridge (⭐318)](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.
 
 ## [46. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Programming
 
-*   [Cane (⭐56)](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
-*   [Gwion (⭐505)](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
+*   [Cane (⭐63)](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
+*   [Gwion (⭐511)](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
 *   [Tidal](https://tidalcycles.org/) - a language built on Haskell for live coding patterns.
 
 ## [47. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
@@ -615,19 +615,19 @@
 
 ### Standard CLI
 
-*   [version (⭐83)](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice.
+*   [version (⭐85)](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice.
 
 ### Databases Implemented in Go
 
-*   [objectbox-go (⭐940)](https://github.com/objectbox/objectbox-go) - High-performance embedded Object Database (NoSQL) with Go API.
+*   [objectbox-go (⭐982)](https://github.com/objectbox/objectbox-go) - High-performance embedded Object Database (NoSQL) with Go API.
 
 ### Email
 
-*   [Mailpit (⭐4k)](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
+*   [Mailpit (⭐4.1k)](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
 
 ### Game Development
 
-*   [Harfang3D (⭐442)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐37)](https://github.com/harfang3d/harfang-go)).
+*   [Harfang3D (⭐445)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐37)](https://github.com/harfang3d/harfang-go)).
 
 ### Logging
 
@@ -635,7 +635,7 @@
 
 ### Strings
 
-*   [caps (⭐51)](https://github.com/chanced/caps) - A case conversion library.
+*   [caps (⭐52)](https://github.com/chanced/caps) - A case conversion library.
 
 ### Third-party APIs
 
@@ -691,38 +691,6 @@
     *   [Density-based clustering](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
     *   [Fuzzy clustering](https://en.wikipedia.org/wiki/Fuzzy_clustering)
     *   [Mixture models](https://en.wikipedia.org/wiki/Mixture_model)
-
-## [51. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Artificial Intelligence
-
-*   [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Daniel Kirsch, Judith Hurwitz (PDF)
-*   [The History of Artificial Intelligence](https://courses.cs.washington.edu/courses/csep590/06au/projects/history-ai.pdf) - Chris Smith, Brian McGuire, Ting Huang, Gary Yang (PDF)
-
-### Cloud Computing
-
-*   [Learn Azure in a Month of Lunches](https://clouddamcdnprodep.azureedge.net/gdc/2014519/original) - Iain Foulds (PDF)
-
-### Computer Science
-
-*   [Computer Science I](https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf) - Chris Bourke (PDF)
-*   [Computer Science II](https://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Chris Bourke (PDF)
-
-### Computer Vision
-
-*   [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1718/files/cs131-class-notes.pdf) - Ranjay Krishna (PDF)
-
-### Database
-
-*   [Database Management Systems Solutions Manual Third Edition](https://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/solutions/ans3ed-oddonly.pdf) - Raghu Ramakrishnan, Johannes Gehrke, Jeff Derstadt, Scott Selikof, and Lin Zhu (PDF)
-
-### Object Oriented Programming
-
-*   [Object Oriented Programming](https://www.cl.cam.ac.uk/teaching/0910/OOProg/OOP.pdf) - Robert Harle (PDF)
-
-### Quantum Computing
-
-*   [Quantum Algorithms](https://arxiv.org/pdf/0808.0369v1) - Michele Mosca (PDF)
 
 ---
 

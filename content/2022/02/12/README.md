@@ -56,7 +56,7 @@
 
 ### Image Processing
 
-*   [FastImage (⭐1.3k)](https://github.com/sdsykes/fastimage) - FastImage finds the size or type of an image given its uri by fetching as little as needed.
+*   [FastImage (⭐1.4k)](https://github.com/sdsykes/fastimage) - FastImage finds the size or type of an image given its uri by fetching as little as needed.
 
 ---
 

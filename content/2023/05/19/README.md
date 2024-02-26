@@ -10,7 +10,7 @@
 
 ### Front-End Development
 
-*   [Tiny JS (⭐585)](https://github.com/thoughtspile/awesome-tiny-js#readme) - Frontend libraries that fit into 2 kB with dependencies.
+*   [Tiny JS (⭐612)](https://github.com/thoughtspile/awesome-tiny-js#readme) - Frontend libraries that fit into 2 kB with dependencies.
 
 ## [2. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -63,7 +63,7 @@
 
 *   [timqian/openprompt.co (⭐1.1k)](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
 *   [60 ChatGPT Prompts for Data Science (Tried, Tested, and Rated)](https://medium.datadriveninvestor.com/60-chatgpt-prompts-for-data-science-tried-tested-and-rated-4994c7e6adb2): post by Travis Tang from DataDrivenInvestor
-*   [f/awesome-chatgpt-prompts (⭐99k)](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
+*   [f/awesome-chatgpt-prompts (⭐100k)](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
@@ -145,10 +145,10 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [archlinux (fourdim) (⭐1)](https://github.com/fourdim/zsh-archlinux) - Defines helper functions for `pacman` on Arch Linux.
-*   [archlinux (junker) (⭐9)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
+*   [archlinux (junker) (⭐10)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
 *   [bob (⭐2)](https://github.com/wintermi/zsh-bob) - Plugin for [bob (⭐1.1k)](https://github.com/MordechaiHadad/bob) a cross-platform and easy-to-use Neovim version manager.
-*   [fnm (dominik-schwabe) (⭐14)](https://github.com/dominik-schwabe/zsh-fnm) - Installs and loads the [Fast Node Manager (fnm) (⭐14k)](https://github.com/Schniz/fnm) if it is missing.
-*   [fnm (wintermi) (⭐2)](https://github.com/wintermi/zsh-fnm) - Helper plugin for the fast and simple Node.js version manager [fnm (⭐14k)](https://github.com/Schniz/fnm).
+*   [fnm (dominik-schwabe) (⭐14)](https://github.com/dominik-schwabe/zsh-fnm) - Installs and loads the [Fast Node Manager (fnm) (⭐15k)](https://github.com/Schniz/fnm) if it is missing.
+*   [fnm (wintermi) (⭐2)](https://github.com/wintermi/zsh-fnm) - Helper plugin for the fast and simple Node.js version manager [fnm (⭐15k)](https://github.com/Schniz/fnm).
 *   [vivid (⭐6)](https://github.com/ryanccn/vivid-zsh) - Make it easier to use `LSCOLORS` with [vivid (⭐1.5k)](https://github.com/sharkdp/vivid).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -257,7 +257,7 @@
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [mikhail-bigun/go-app-template (⭐5)](https://github.com/mikhail-bigun/go-app-template) - Clean architecture Go application boilerplate with enriched Fiber implementation.
+*   [mikhail-bigun/go-app-template (⭐13)](https://github.com/mikhail-bigun/go-app-template) - Clean architecture Go application boilerplate with enriched Fiber implementation.
 
 ---
 

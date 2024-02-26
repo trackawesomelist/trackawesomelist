@@ -91,15 +91,15 @@
 
 ### Integrations
 
-*   [jest-playwright (⭐516)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
+*   [jest-playwright (⭐517)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
 
 ### Showcases
 
-*   [playwright-jest-examples (⭐95)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
-*   [VS Code (⭐155k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
-*   [TypeScript (⭐96k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
-*   [Elastic APM JS agent (⭐266)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
-*   [Blockstack (⭐266)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
+*   [playwright-jest-examples (⭐96)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
+*   [VS Code (⭐156k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
+*   [TypeScript (⭐97k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
+*   [Elastic APM JS agent (⭐268)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
+*   [Blockstack (⭐273)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
 *   [xterm.js (⭐16k)](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
 
 ## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)

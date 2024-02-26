@@ -126,7 +126,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 *   [metaq (⭐1.3k)](https://github.com/killme2008/Metamorphosis) \[Java] - Taobao's high available, high performance distributed messaging system
 *   [NATS streaming (⭐2.5k)](https://github.com/nats-io/nats-streaming-server) \[Go] - fast disk-backed messaging solution
 *   [nsq (⭐24k)](https://github.com/nsqio/nsq) \[Go] - realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.
-*   [Redpanda (⭐8.4k)](https://github.com/redpanda-data/redpanda) \[C++] - Redpanda is Kafka compatible, ZooKeeper-free, JVM-free and source available.
+*   [Redpanda (⭐8.5k)](https://github.com/redpanda-data/redpanda) \[C++] - Redpanda is Kafka compatible, ZooKeeper-free, JVM-free and source available.
 *   [RudderStack (⭐3.9k)](https://github.com/rudderlabs/rudder-server) \[Go] - an open source customer data infrastructure (segment, mparticle alternative).
 *   [suro (⭐787)](https://github.com/Netflix/suro) \[Java] - data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data.
 *   [StreamSets Data Collector (⭐82)](https://github.com/streamsets/datacollector-oss) \[Java] - continuous big data ingestion infrastructure that reads from and writes to a large number of end-points, including S3, JDBC, Hadoop, Kafka, Cassandra and many others.
@@ -164,9 +164,10 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 *   [akka (⭐13k)](https://github.com/akka/akka) \[Scala] - toolkit and runtime for building highly concurrent, distributed, and resilient message-driven application on the JVM.
 *   [Apache Pekko (⭐944)](https://github.com/apache/incubator-pekko) \[Scala, Java] - Fork of Akka 2.6.x, prior to the Akka project's adoption of the Business Source License.
 *   [pulsar (⭐1.9k)](https://github.com/quantmind/pulsar/) \[Python] - Actor based event driven concurrent framework for Python.
-*   [aeron (⭐6.9k)](https://github.com/real-logic/Aeron) \[Java/C++] - efficient reliable unicast and multicast message transport.
+*   [aeron (⭐7k)](https://github.com/real-logic/Aeron) \[Java/C++] - efficient reliable unicast and multicast message transport.
 *   [StreamFlow (⭐249)](https://github.com/lmco/streamflow) \[Java] - stream processing tool designed to help build and monitor processing workflows.
 *   [samza-luwak (⭐102)](https://github.com/romseygeek/samza-luwak) \[Java] - uses Luwak, a stored-query engine built on Lucene, to implement full-text search on streams.
+*   [Streamdal](https://streamdal.com) \[Go/Node.js/Python] - A tool to embed privacy controls in your application code to detect PII as it enters and leaves your systems, preventing it from reaching unintended data streams or pipelines.
 *   [Turbine (⭐831)](https://github.com/Netflix/Turbine) \[Java] - tool for aggregating streams of Server-Sent Event (SSE) JSON data into a single stream.
 *   [Nussknacker (⭐570)](https://github.com/TouK/nussknacker) \[Scala] - A visual tool to define and run real-time decision algorithms.
 

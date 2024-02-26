@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 11, 2016
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -41,7 +41,7 @@
 
 ### ORM and Datamapping
 
-*   [arc\_ecto (⭐252)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
+*   [arc\_ecto (⭐253)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
 *   [exnumerator (⭐64)](https://github.com/KamilLelonek/exnumerator) - Elixir enumerable type definition in a simple way to be used with any database.
 
 ### Utilities
@@ -142,13 +142,19 @@ Webpage: <http://www.anticafe.eu/beaubourg>
 
 *   [bitrix24.com](https://www.bitrix24.com/) — Intranet and project management tool. The free plan has 5GB for unlimited users.
 
-## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [9. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### Android
+
+*   [Android Note(开发过程中积累的知识点) (⭐3.4k)](https://github.com/CharonChui/AndroidNote)
+
+## [10. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Multimedia and File Formats / Directory Navigation
 
 *   [Beets (⭐12k)](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 
-## [10. Awesome Ssh](/content/moul/awesome-ssh/README.md)
+## [11. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
 ### Apps / Network
 

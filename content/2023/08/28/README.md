@@ -16,7 +16,7 @@
 
 ### Database Tools
 
-*   [dg (⭐19)](https://github.com/codingconcepts/dg) - A fast data generator that produces CSV files from generated relational data.
+*   [dg (⭐20)](https://github.com/codingconcepts/dg) - A fast data generator that produces CSV files from generated relational data.
 
 ### Date and Time
 
@@ -84,7 +84,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [SignalVisualizer (⭐142)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock (Godot 4.x).
+*   [SignalVisualizer (⭐148)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock (Godot 4.x).
 
 ## [11. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 

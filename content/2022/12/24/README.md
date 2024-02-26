@@ -174,11 +174,11 @@
 
 ### Templates / React
 
-*   [react-xs-admin (⭐22)](https://github.com/jsxiaosi/react-xs-admin) - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
+*   [react-xs-admin (⭐24)](https://github.com/jsxiaosi/react-xs-admin) - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
 
 ### Laravel / Community
 
-*   [Laravel Vite Plugin (⭐729)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
+*   [Laravel Vite Plugin (⭐739)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
 
 ## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

@@ -70,7 +70,7 @@
 
 ### Crates / Utils
 
-*   [stylist-rs (⭐345)](https://github.com/futursolo/stylist-rs) - A CSS-in-Rust styling solution for WebAssembly Applications.
+*   [stylist-rs (⭐347)](https://github.com/futursolo/stylist-rs) - A CSS-in-Rust styling solution for WebAssembly Applications.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Table of Contents / Dependency Management Extras
 
-*   [Composer Normalize (⭐987)](https://github.com/ergebnis/composer-normalize) - A plugin for normalizing `composer.json` files.
+*   [Composer Normalize (⭐990)](https://github.com/ergebnis/composer-normalize) - A plugin for normalizing `composer.json` files.
 
 ## [12. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 

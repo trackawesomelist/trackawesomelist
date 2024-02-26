@@ -228,16 +228,16 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [OvenMediaEngine](https://ovenmediaengine.com) - OvenMediaEngine is a selfhostable Open-Source Streaming Server with Sub-Second Latency. ([Demo](https://demo.ovenplayer.com), [Source Code (⭐2.3k)](https://github.com/AirenSoft/OvenMediaEngine)) `GPL-3.0` `C++/Docker`
+*   [OvenMediaEngine](https://ovenmediaengine.com) - OvenMediaEngine is a selfhostable Open-Source Streaming Server with Sub-Second Latency. ([Demo](https://demo.ovenplayer.com), [Source Code (⭐2.4k)](https://github.com/AirenSoft/OvenMediaEngine)) `GPL-3.0` `C++/Docker`
 
 ### Software / Money, Budgeting & Management
 
 *   [Hub20](https://hub20.io/) - A self-hosted payment processor for Ethereum and ERC20 Tokens. ([Source Code](https://gitlab.com/mushroomlabs/hub20/)) `AGPL-3.0` `Docker/Python`
-*   [IHateMoney](https://ihatemoney.org/) - Manage your shared expenses, easily. ([Demo](https://ihatemoney.org/demo/), [Source Code (⭐1k)](https://github.com/spiral-project/ihatemoney)) `BSD-3-Clause` `Docker/Python`
+*   [IHateMoney](https://ihatemoney.org/) - Manage your shared expenses, easily. ([Demo](https://ihatemoney.org/demo/), [Source Code (⭐1.1k)](https://github.com/spiral-project/ihatemoney)) `BSD-3-Clause` `Docker/Python`
 
 ### Software / Polls and Events
 
-*   [ClearFlask](https://clearflask.com) - Community-feedback tool for managing incoming feedback and prioritizing a public roadmap (alternative to Canny, UserVoice, Upvoty). ([Demo](https://product.clearflask.com), [Source Code (⭐240)](https://github.com/clearflask/clearflask)) `AGPL-3.0` `Docker`
+*   [ClearFlask](https://clearflask.com) - Community-feedback tool for managing incoming feedback and prioritizing a public roadmap (alternative to Canny, UserVoice, Upvoty). ([Demo](https://product.clearflask.com), [Source Code (⭐243)](https://github.com/clearflask/clearflask)) `AGPL-3.0` `Docker`
 
 ### Software / Software Development - Project Management
 
@@ -279,8 +279,8 @@
 ### Libraries / Functional Programming
 
 *   Prelude
-    *   [JasonShin/fp-core.rs (⭐1.3k)](https://github.com/JasonShin/fp-core.rs) — A library for functional programming in Rust
-    *   [myrrlyn/tap (⭐329)](https://github.com/myrrlyn/tap) - Suffix-Position Pipeline Behavior
+    *   [JasonShin/fp-core.rs (⭐1.3k)](https://github.com/JasonShin/fp-core.rs) — A library for functional programming
+    *   [myrrlyn/tap (⭐345)](https://github.com/myrrlyn/tap) - Suffix-Position Pipeline Behavior
 
 ## [21. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
@@ -302,7 +302,7 @@
 
 ### Svelte / Integrations
 
-*   [vite-plugin-svelte (⭐767)](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
+*   [vite-plugin-svelte (⭐772)](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
 
 ## [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 

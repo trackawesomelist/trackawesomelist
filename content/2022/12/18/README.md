@@ -37,13 +37,13 @@
 
 ### Algorithms and Data structures
 
-*   [Goban (⭐19)](https://github.com/soya-daizu/goban) - A fast and efficient QR Code implementation
+*   [Goban (⭐22)](https://github.com/soya-daizu/goban) - A fast and efficient QR Code implementation
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [Arti](https://gitlab.torproject.org/tpo/core/arti) — An implementation of Tor, in Rust. (So far, it's a not-very-complete client. But watch this space!) [![Crates.io](https://img.shields.io/crates/v/arti.svg)](https://crates.io/crates/arti)
+*   [Arti](https://gitlab.torproject.org/tpo/core/arti) — An implementation of Tor. (So far, it's a not-very-complete client. But watch this space!) [![Crates.io](https://img.shields.io/crates/v/arti.svg)](https://crates.io/crates/arti)
 
 ### Development tools / IDEs
 
@@ -54,7 +54,7 @@
 
 ### Databases
 
-*   [Supabase (⭐211)](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
+*   [Supabase (⭐219)](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
 
 ## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 

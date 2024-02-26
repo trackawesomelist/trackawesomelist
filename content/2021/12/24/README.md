@@ -22,7 +22,7 @@
 
 ### Crates / Hooks
 
-*   [yew-hooks (⭐157)](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use (⭐39k)](https://github.com/streamich/react-use) and [alibaba/hooks (⭐13k)](https://github.com/alibaba/hooks).
+*   [yew-hooks (⭐157)](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use (⭐40k)](https://github.com/streamich/react-use) and [alibaba/hooks (⭐13k)](https://github.com/alibaba/hooks).
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

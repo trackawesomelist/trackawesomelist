@@ -65,7 +65,7 @@
 
 ### Related Awesome Lists / Deforum
 
-*   \[🔥🔥🔥] [jonathandinu/awesome-ai-art (⭐312)](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
+*   \[🔥🔥🔥] [jonathandinu/awesome-ai-art (⭐317)](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
 
 ## [6. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 

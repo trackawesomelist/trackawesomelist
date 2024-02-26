@@ -79,7 +79,7 @@
 
 ### Data Manipulation
 
-*   [fuzzyjoin (⭐650)](https://github.com/dgrtwo/fuzzyjoin) - Join tables together on inexact matching.
+*   [fuzzyjoin (⭐653)](https://github.com/dgrtwo/fuzzyjoin) - Join tables together on inexact matching.
 
 ## [6. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
 

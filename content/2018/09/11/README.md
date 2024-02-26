@@ -168,11 +168,11 @@
 
 ### Command-line tools
 
-*   [jl (⭐467)](https://github.com/chrisdone/jl) - Functional sed for JSON.
+*   [jl (⭐473)](https://github.com/chrisdone/jl) - Functional sed for JSON.
 
 ### Resources
 
-*   [Awesome jq (⭐545)](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
+*   [Awesome jq (⭐707)](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 
 ---
 

@@ -14,7 +14,7 @@
 
 ### Supersets
 
-*   [μson (⭐68)](https://github.com/burningtree/uson) (uson) - a shorthand for JSON.
+*   [μson (⭐69)](https://github.com/burningtree/uson) (uson) - a shorthand for JSON.
 
 ## [2. Inspire](/content/noahbuscher/inspire/README.md)
 

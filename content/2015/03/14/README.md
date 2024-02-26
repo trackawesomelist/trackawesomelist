@@ -10,7 +10,7 @@
 
 ### Actors
 
-*   [pooler (⭐305)](https://github.com/seth/pooler) - An OTP Process Pool Application.
+*   [pooler (⭐307)](https://github.com/seth/pooler) - An OTP Process Pool Application.
 
 ### Algorithms and Data structures
 
@@ -22,7 +22,7 @@
 
 ### Date and Time
 
-*   [tzdata (⭐279)](https://github.com/lau/tzdata) - The timezone database in Elixir.
+*   [tzdata (⭐284)](https://github.com/lau/tzdata) - The timezone database in Elixir.
 
 ### ECMAScript
 
@@ -30,16 +30,16 @@
 
 ### Email
 
-*   [mailman (⭐199)](https://github.com/kamilc/mailman) - Mailman provides a clean way of defining mailers in your Elixir applications.
+*   [mailman (⭐200)](https://github.com/kamilc/mailman) - Mailman provides a clean way of defining mailers in your Elixir applications.
 
 ### Eventhandling
 
-*   [goldrush (⭐90)](https://github.com/DeadZen/goldrush) - Small, Fast event processing and monitoring for Erlang/OTP applications.
+*   [goldrush (⭐91)](https://github.com/DeadZen/goldrush) - Small, Fast event processing and monitoring for Erlang/OTP applications.
 
 ### Framework Components
 
-*   [corsica (⭐505)](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
-*   [phoenix\_ecto (⭐422)](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
+*   [corsica (⭐509)](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
+*   [phoenix\_ecto (⭐427)](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
 *   [phoenix\_token\_auth (⭐163)](https://github.com/manukall/phoenix_token_auth) - Token authentication solution for Phoenix. Useful for APIs or single page apps.
 
 ### Images
@@ -53,7 +53,7 @@
 
 ### ORM and Datamapping
 
-*   [eredis (⭐624)](https://github.com/wooga/eredis) - Erlang Redis client.
+*   [eredis (⭐623)](https://github.com/wooga/eredis) - Erlang Redis client.
 *   [ex\_bitcask (⭐12)](https://github.com/JonGretar/ExBitcask) - Elixir wrapper of Basho's Bitcask Key/Value store.
 
 ### Queue
@@ -63,7 +63,7 @@
 ### Text and Numbers
 
 *   [base62 (⭐20)](https://github.com/igas/base62) - Base62 encoder/decoder in pure Elixir.
-*   [custom\_base (⭐20)](https://github.com/igas/custom_base) - Allow you to make custom base conversion in Elixir.
+*   [custom\_base (⭐22)](https://github.com/igas/custom_base) - Allow you to make custom base conversion in Elixir.
 *   [porterstemmer (⭐6)](https://github.com/frpaulas/porterstemmer) - Porter Stemmer in Elixir.
 
 ### Third Party APIs

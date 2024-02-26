@@ -101,7 +101,7 @@
 ### Books
 
 *   [Synthèse d'images avec OpenGL (ES)](https://www.d-booker.fr/opengl/78-synthese-d-images.html) - Book in french, which covers OpenGL, OpenGL ES and WebGL.
-*   [Hands-On Music Generation with Magenta](https://alexandredubreuil.com/publications/2020-01-31-music-generation-with-magenta-deep-learning-in-music-generation/) - Design and use machine learning models for music generation using Magenta and make them interact with existing music creation tools
+*   [Hands-On Music Generation with Magenta](https://alexandredubreuil.com/publications/2020-01-31-music-generation-with-magenta-deep-learning-in-music-generation/) - Explore the role of deep learning in music generation and assisted music composition.
 
 ### Online Books
 
@@ -109,7 +109,7 @@
 
 ### Web Programming • Libraries
 
-*   [OGL.js (⭐3.3k)](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL)
+*   [OGL.js (⭐3.4k)](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL).
 
 ### Schools • Workshops / Other
 

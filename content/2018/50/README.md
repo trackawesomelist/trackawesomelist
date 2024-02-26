@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 10 - Dec 16, 2018
 
-48 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -296,13 +296,45 @@
 
 *   [gnatcoll-json (⭐6)](https://github.com/persan/gnatcoll-json) - This is a set of helpers for writing JSON-intefaces it contains JSON parses for most of the Ada runtime components.
 
-## [36. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [36. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### Java
+
+*   [Nutz-book Nutz烹调向导](http://nutzbook.wendal.net)
+*   [Nutz文档](https://nutzam.com/core/nutz_preface.html)
+
+### MySQL / Zepto.js
+
+*   [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
+*   [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
+
+### NoSQL / Zepto.js
+
+*   [Disque 使用教程](http://disque.huangz.me)
+*   [Redis 命令参考](http://redisdoc.com)
+*   [Redis 设计与实现](http://redisbook.com)
+*   [The Little MongoDB Book (⭐520)](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
+*   [The Little Redis Book (⭐589)](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
+
+### PostgreSQL / Symfony
+
+*   [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/index.html)
+*   [PostgreSQL 9.3.1 中文文档](http://www.postgres.cn/docs/9.3/index.html)
+*   [PostgreSQL 9.4.4 中文文档](http://www.postgres.cn/docs/9.4/index.html)
+*   [PostgreSQL 9.5.3 中文文档](http://www.postgres.cn/docs/9.5/index.html)
+*   [PostgreSQL 9.6.0 中文文档](http://www.postgres.cn/docs/9.6/index.html)
+
+### VBA (Microsoft Visual Basic Applications) / Deno
+
+*   [简明Excel VBA (⭐510)](https://github.com/Youchien/concise-excel-vba)
+
+## [37. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Apps
 
 *   [pokecry (⭐5)](https://github.com/fent/pokecry) - Guess Pokémon from their cry.
 
-## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Graphics
 
@@ -314,7 +346,7 @@
 
 ### Physics
 
-*   [Project Chrono (⭐1.9k)](https://github.com/projectchrono/chrono) - An open source multi-physics simulation engine. \[BSD-3-Clause] [website](https://projectchrono.org/)
+*   [Project Chrono (⭐2k)](https://github.com/projectchrono/chrono) - An open source multi-physics simulation engine. \[BSD-3-Clause] [website](https://projectchrono.org/)
 
 ### Sorting
 
@@ -322,13 +354,13 @@
 
 ### Miscellaneous
 
-*   [DynaMix (⭐654)](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. \[MIT]
+*   [DynaMix (⭐655)](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. \[MIT]
 
 ### Build Systems
 
 *   [Cget (⭐438)](https://github.com/pfultz2/cget) - Cmake package retrieval. \[Boost] [website](http://cget.readthedocs.io)
 
-## [38. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [39. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Clojure / General-Purpose Machine Learning
 
@@ -346,7 +378,7 @@
 
 *   [Notebooks (⭐30)](https://github.com/rlan/notebooks) - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
 
-## [39. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [40. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Commercial WebServices / DSP
 
@@ -360,7 +392,7 @@
 
 *   [BSON](https://metacpan.org/pod/BSON) - Binary JSON format
 
-## [40. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [41. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -370,7 +402,7 @@
 
 *   [Software Performance Analysis Guided By SLOs](https://medium.com/dm03514-tech-blog/sre-performance-analysis-tuning-methodology-using-a-simple-http-webserver-in-go-d475460f27ca)
 
-## [41. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [42. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Asia / Indonesia 🇮🇩
 
@@ -544,13 +576,13 @@ Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community\
 Topics: React, JavaScript, jQuery\
 <https://twitter.com/raphamorims>
 
-## [42. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [43. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Articles
 
 *   [Components patterns in Ember.js](https://medium.com/macsour/components-patterns-in-ember-js-5e6fc6eea28f)
 
-## [43. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [44. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Visualization
 
@@ -561,7 +593,7 @@ Topics: React, JavaScript, jQuery\
 *   [Journal of Cheminformatics](https://jcheminf.biomedcentral.com/)
 *   [Journal of Chemical Information and Modeling (ACS Publications)](https://pubs.acs.org/journal/jcisd8)
 
-## [44. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [45. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
@@ -579,14 +611,14 @@ Topics: React, JavaScript, jQuery\
 
 *   [aspnetcore-security-headers (⭐243)](https://github.com/juunas11/aspnetcore-security-headers) - Middleware for adding security headers to an ASP.NET Core application.
 
-## [45. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [46. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Packagist Mirrors / IRC
 
 *   Africa
     *   South Africa - [packagist.co.za](https://github.com/jakoch/awesome-composer/blob/master/README.md/packagist.co.za)
 
-## [46. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [47. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### VPN Guides and Tutorials
 
@@ -773,7 +805,7 @@ Topics: React, JavaScript, jQuery\
 *   [scenerules](https://scenerules.org/) NFOs with rules and guidelines for scene releasing standards.
 *   [SceneLinkList](https://www.scenelinklist.com/) SceneLinkList is a project initiated to display and share as many scene and warez links as possible.
 
-## [47. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [48. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online
 
@@ -784,7 +816,7 @@ Topics: React, JavaScript, jQuery\
 
 *   [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo\&t=387s) - Inspiring talk by Zach Lieberman.
 
-## [48. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [49. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 

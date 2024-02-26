@@ -6,6 +6,16 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 [ [Daily](/content/quozd/awesome-dotnet/README.md) / Weekly / [Overview](/content/quozd/awesome-dotnet/readme/README.md) ]
 
+## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
+
+### API
+
+*   [FastEndpoints (⭐3.7k)](https://github.com/FastEndpoints/FastEndpoints) - High-performance middleground between classic ASP.NET Core API controllers and Minimal APIs. Using a REPR ([Request-Endpoint-Response](https://deviq.com/design-patterns/repr-design-pattern)) pattern, this library eliminates the boilerplate and monolithic feel of controllers by improving colocation of code.
+
+### PDF
+
+*   [QPdfSharp (⭐7)](https://github.com/svengeance/QPdfSharp) - A C# wrapper written around QPdf to allow for easy PDF manipulation that is tested for both linux and windows. QPdf is one of the only libraries capable of PDF linearization, and this wrapper ensures you keep up to date with the underlying improvements.
+
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
 ### CMS
@@ -214,7 +224,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### GraphQL
 
-*   [ZeroQL (⭐227)](https://github.com/byme8/ZeroQL) - high-performance C#-friendly GraphQL client. It supports Linq-like syntax. It doesn't require Reflection.Emit or expressions. As a result, the runtime provides performance very close to a raw HTTP call.
+*   [ZeroQL (⭐231)](https://github.com/byme8/ZeroQL) - high-performance C#-friendly GraphQL client. It supports Linq-like syntax. It doesn't require Reflection.Emit or expressions. As a result, the runtime provides performance very close to a raw HTTP call.
 
 ## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 

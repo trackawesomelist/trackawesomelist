@@ -66,7 +66,7 @@
     *   [fpm (⭐11k)](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
     *   [Linuxbrew (⭐1.2k)](https://github.com/Homebrew/linuxbrew-core) - A fork of Homebrew for Linux.
     *   [Homebrew-cask (⭐20k)](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries.
-    *   [Homebrew (⭐38k)](https://github.com/Homebrew/brew) - The missing package manager for OS X.
+    *   [Homebrew (⭐39k)](https://github.com/Homebrew/brew) - The missing package manager for OS X.
     *   [Traveling Ruby](https://foobarwidget.github.io/traveling-ruby/) - Traveling Ruby lets you create self-contained Ruby app packages for Linux and OS X.
 
 ## [6. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
@@ -238,7 +238,7 @@
 
 ### Tools / Vulnerable Applications for practice
 
-*   [Oversecured Vulnerable Android App (OVAA) (⭐579)](https://github.com/oversecured/ovaa)
+*   [Oversecured Vulnerable Android App (OVAA) (⭐583)](https://github.com/oversecured/ovaa)
 
 ## [22. Awesome Evm Security](/content/kareniel/awesome-evm-security/week/README.md)
 
@@ -269,20 +269,20 @@
 ### Memory Allocation
 
 *   [rpmalloc (⭐2k)](https://github.com/mjansson/rpmalloc) - Cross platform lock free thread caching 16-byte aligned memory allocator implemented in C. \[PublicDomain]
-*   [snmalloc (⭐1.4k)](https://github.com/microsoft/snmalloc) - Message passing based high-performance allocator. \[MIT]
+*   [snmalloc (⭐1.5k)](https://github.com/microsoft/snmalloc) - Message passing based high-performance allocator. \[MIT]
 *   [TCMalloc (⭐4k)](https://github.com/google/tcmalloc) - Google's fast, multi-threaded malloc implementation. \[Apache-2.0] [website](https://google.github.io/tcmalloc/)
 
 ### Books
 
-*   [Free C Books (⭐311k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
-*   [Free C++ Books (⭐311k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
+*   [Free C Books (⭐313k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
+*   [Free C++ Books (⭐313k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
 
 ## [25. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [ssuukk/Qotlin (⭐16)](https://github.com/ssuukk/Qotlin) - IBM Q Experience Kotlin toolkit - Kotlin library to interact and write assembly code for IBM Quantum computers
-*   [vittee/kformula (⭐29)](https://github.com/vittee/kformula) - Mathematical expression engine written in Kotlin, running on JVM.
+*   [vittee/kformula (⭐30)](https://github.com/vittee/kformula) - Mathematical expression engine written in Kotlin, running on JVM.
 
 ## [26. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -341,7 +341,7 @@
 
 ### Applications / System tools
 
-*   [sharkdp/fd (⭐30k)](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
+*   [sharkdp/fd (⭐31k)](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
 
 ## [32. Public Apis](/content/public-apis/public-apis/week/README.md)
 

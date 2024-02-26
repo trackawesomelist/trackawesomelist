@@ -22,7 +22,7 @@
 
 ### System Utilities / Directory Navigation
 
-*   [mtr (⭐2.4k)](https://github.com/traviscross/mtr) - The functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
+*   [mtr (⭐2.5k)](https://github.com/traviscross/mtr) - The functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
 
 ## [4. Awesome Purescript](/content/passy/awesome-purescript/README.md)
 

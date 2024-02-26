@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 20 - Jun 26, 2022
 
-52 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,7 +17,7 @@
 
 ### Front-End Development
 
-*   [React (⭐60k)](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
+*   [React (⭐61k)](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
     *   [Relay (⭐271)](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
     *   [React Hooks (⭐1.2k)](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
 
@@ -35,7 +35,7 @@
 
 ### Tools / Community providers
 
-*   [tfedit (⭐87)](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
+*   [tfedit (⭐89)](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
 
 ### Managed Terraform Platforms / IDE
 
@@ -43,7 +43,7 @@
 
 ### Editor Plugins / IDE
 
-*   [Terraform-ls (⭐920)](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
+*   [Terraform-ls (⭐935)](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
 
 ## [4. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
@@ -141,8 +141,8 @@
 
 ### Logging
 
-*   [phuslu/log (⭐537)](https://github.com/phuslu/log) - High performance structured logging.
-*   [slog (⭐322)](https://github.com/gookit/slog) - Lightweight, configurable, extensible logger for Go.
+*   [phuslu/log (⭐541)](https://github.com/phuslu/log) - High performance structured logging.
+*   [slog (⭐331)](https://github.com/gookit/slog) - Lightweight, configurable, extensible logger for Go.
 
 ### Third-party APIs
 
@@ -218,7 +218,7 @@
 
 ### Utilities / System Related Tools
 
-*   [Time Machine Inspector (⭐72)](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/probablykasper/time-machine-inspector) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Time Machine Inspector (⭐73)](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/probablykasper/time-machine-inspector) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [23. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
 
@@ -230,7 +230,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Vite + Lit + Tailwind Starter (⭐23)](https://github.com/running-grass/starter-lit-with-tailwind) - Boilerplate using Vite, Lit and Tailwind CSS.
+*   🚀 [Vite + Lit + Tailwind Starter (⭐25)](https://github.com/running-grass/starter-lit-with-tailwind) - Boilerplate using Vite, Lit and Tailwind CSS.
 
 ## [25. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
@@ -240,9 +240,9 @@
 
 ### Resources / Packages
 
-*   [Page loader (⭐22)](https://github.com/ycs77/inertia-plugin) - Unplugin for loading Inertia pages from configured namespaces.
+*   [Page loader (⭐26)](https://github.com/ycs77/inertia-plugin) - Unplugin for loading Inertia pages from configured namespaces.
 *   [Flash (⭐20)](https://github.com/igerslike/inertia-flash) - Laravel package for sharing properties from anywhere.
-*   [Dry requests (⭐208)](https://github.com/dive-be/laravel-dry-requests) - Generic Laravel package for real-time form validation.
+*   [Dry requests (⭐206)](https://github.com/dive-be/laravel-dry-requests) - Generic Laravel package for real-time form validation.
 
 ## [26. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -254,18 +254,18 @@
 
 ### Templates / Vue 3
 
-*   [vue3-vant-mobile (⭐509)](https://github.com/CharleeWa/vue3-vant-mobile) - Vite + Vue3 + Vant4 + Pinia + Vue-Router4 + TypeScript Mobile Template.
+*   [vue3-vant-mobile (⭐551)](https://github.com/CharleeWa/vue3-vant-mobile) - Vite + Vue3 + Vant4 + Pinia + Vue-Router4 + TypeScript Mobile Template.
 
 ### Vue / Transformers
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-md-preview (⭐157)](https://github.com/JasKang/vite-plugin-md-preview) - Markdown code preview.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-md-preview (⭐158)](https://github.com/JasKang/vite-plugin-md-preview) - Markdown code preview.
 
 ## [28. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### UI Animation / Syntax Highlight
 
 *   [react-animatable (⭐31)](https://github.com/inokawa/react-animatable) - An animation library using Web Animations API.
-*   [react-ts-typewriter (⭐32)](https://github.com/gerardmarquinarubio/ReactTypewriter) - [demo](https://codesandbox.io/s/react-typewriter-example-mgyclf) - Easy to use and customizable typewriter effect for any text.
+*   [react-ts-typewriter (⭐34)](https://github.com/gerardmarquinarubio/ReactTypewriter) - [demo](https://codesandbox.io/s/react-typewriter-example-mgyclf) - Easy to use and customizable typewriter effect for any text.
 
 ## [29. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -325,25 +325,19 @@
 *   [ribbon (⭐0)](https://github.com/pyjamafish/ribbon-prompt) - Reminiscent of powerline. Includes Python `virtualenv` decorator.
 *   [snazzy (⭐0)](https://github.com/Gary-Ash/SnazzyPrompt) - A powerline-style prompt. Includes segments for current working directory, error status of the last command, `git` status information, hostname and username. Requires `libgit2`.
 
-## [35. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Mathematics
-
-*   [An Infinite Descent into Pure Mathematics](https://infinitedescent.xyz/dl/infdesc.pdf) - Clive Newstead (PDF)
-
-## [36. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [35. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
 *   [RunJS](https://runjs.app) - Playground for JavaScript and TypeScript.
 
-## [37. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [36. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Jetpack-Compose
 
-*   [Canopas/Intro-showcase-view (⭐358)](https://github.com/Canopas/Intro-showcase-view) - An android library to highlight different features of the app built using Jetpack Compose.
+*   [Canopas/Intro-showcase-view (⭐375)](https://github.com/Canopas/Intro-showcase-view) - An android library to highlight different features of the app built using Jetpack Compose.
 
-## [38. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [37. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Business
 
@@ -358,13 +352,13 @@
 *   [Falsehoods about Plain Text](https://jeremyhussell.blogspot.com/2017/11/falsehoods-programmers-believe-about.html#main) - Plain text can't cut it, which makes Unicode even more incredible for its ability to just work well.
 *   [Falsehoods about text](https://wiesmann.codiferes.net/wordpress/archives/30296) - A subset of the falsehoods from above, illustrated with some examples.
 
-## [39. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [38. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### Custom Integrations / Alternative Dashboards
 
 *   [The Watchman (⭐149)](https://github.com/dummylabs/thewatchman) - Keep track of missing entities and services in your config files.
 
-## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### RPC
 
@@ -375,7 +369,7 @@
 
 *   [F# Data](https://fsprojects.github.io/FSharp.Data/) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 
-## [41. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [40. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### JavaScript / React
 
@@ -384,19 +378,19 @@
 *   [React Native Newsletter](https://reactnativenewsletter.com/). Free occasional summary of React Native news, articles, issues & pull requests, libraries and apps.
 *   [React Native Now](https://reactnativenow.com/). Hand picking the best React Native news, tutorials, libraries, articles, and videos.
 
-## [42. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [41. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### RSS-Bridge / Outline Processor Markup Language
 
 *   [Public Hosts](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html) <sup>[576](https://t.me/s/aboutrss/576)</sup>
 
-## [43. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [42. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Follow / Community
 
 *   📹 [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) - A YouTube channel by Jeff Delaney, a Google Firebase expert and creator of the famous "X in 100 Seconds" videos.
 
-## [44. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [43. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Blogging Platforms
 
@@ -408,9 +402,9 @@
 
 ### Software / Database Management
 
-*   [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data, easy import and export and database management. ([Demo](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants), [Source Code (⭐8.6k)](https://github.com/simonw/datasette)) `Apache-2.0` `Python/Docker`
+*   [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data, easy import and export and database management. ([Demo](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants), [Source Code (⭐8.7k)](https://github.com/simonw/datasette)) `Apache-2.0` `Python/Docker`
 
-## [45. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CMS
 
@@ -428,7 +422,7 @@
 
 *   [Poly Pizza](https://poly.pizza/) - Free low poly 3D assets
 
-## [46. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [45. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -444,7 +438,7 @@
 *   [SponsorBlock](https://sponsor.ajay.app/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ajayyy/SponsorBlock) - Browser extension that allows you to skip YouTube video sponsors.
 *   [Quetre](https://quetre.herokuapp.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/zyachel/quetre/) - A libre front-end for Quora.
 
-## [47. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [46. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Blockchain Explorers
 
@@ -458,11 +452,11 @@
 
 *   [Algorand Node UI (⭐27)](https://github.com/algorand/node-ui) - Terminal UI for remote Algorand node management.
 
-## [48. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [47. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Games
 
-*   [gorilla-devs/ferium (⭐978)](https://github.com/gorilla-devs/ferium) — Ferium is a fast and feature rich CLI program for downloading and updating Minecraft mods from Modrinth, CurseForge, and GitHub Releases, and modpacks from Modrinth and CurseForge ![ferium build](https://github.com/gorilla-devs/ferium/actions/workflows/build.yml/badge.svg?branch=main)
+*   [gorilla-devs/ferium (⭐994)](https://github.com/gorilla-devs/ferium) — Ferium is a fast and feature rich CLI program for downloading and updating Minecraft mods from Modrinth, CurseForge, and GitHub Releases, and modpacks from Modrinth and CurseForge ![ferium build](https://github.com/gorilla-devs/ferium/actions/workflows/build.yml/badge.svg?branch=main)
 
 ### Applications / Security tools
 
@@ -470,22 +464,22 @@
 
 ### Applications / Text processing
 
-*   [ruplacer (⭐398)](https://github.com/your-tools/ruplacer) — Find and replace text in source files [![Run tests](https://github.com/your-tools/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/your-tools/ruplacer/actions/workflows/test.yml)
+*   [ruplacer (⭐400)](https://github.com/your-tools/ruplacer) — Find and replace text in source files [![Run tests](https://github.com/your-tools/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/your-tools/ruplacer/actions/workflows/test.yml)
 
 ### Libraries / Game development
 
 *   [Raylib](https://www.raylib.com/)
-    *   [deltaphc/raylib-rs (⭐642)](https://github.com/deltaphc/raylib-rs) \[[raylib](https://crates.io/crates/raylib)] — Rust bindings for raylib
+    *   [deltaphc/raylib-rs (⭐647)](https://github.com/deltaphc/raylib-rs) \[[raylib](https://crates.io/crates/raylib)] — Bindings for raylib
 
 ### Libraries / Logging
 
-*   [rbatis/fast\_log (⭐196)](https://github.com/rbatis/fast_log) — Rust async log High-performance asynchronous logging
+*   [rbatis/fast\_log (⭐196)](https://github.com/rbatis/fast_log) — Async log High-performance asynchronous logging
 
 ### Libraries / Virtualization
 
 *   [bytecodealliance/wasmtime (⭐14k)](https://github.com/bytecodealliance/wasmtime) — A standalone runtime for WebAssembly [![Build Status](https://github.com/bytecodealliance/wasmtime/workflows/CI/badge.svg)](https://github.com/bytecodealliance/wasmtime/actions?query=workflow%3ACI)
 
-## [49. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [48. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / MaaS
 
@@ -493,7 +487,7 @@
 *   [Huawei Cloud Distributed Message Service for Kafka](https://www.huaweicloud.com/intl/en-us/product/dmskafka.html) - A managed Apache Kafka service that provides easy setup, scaling, and management of Kafka clusters. It offers high availability, performance, and security, and integrates seamlessly with other Huawei Cloud services.
 *   [Oracle Cloud Streaming](https://www.oracle.com/cloud/cloud-native/streaming/) - A serverless, real-time event streaming platform with Apache Kafka compatibility, delivering highly performant and cost-effective data processing.
 
-## [50. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [49. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### 2D/3D Rendering engines / Modal, Toast & Notifications
 
@@ -513,14 +507,14 @@
 
 *   [Umbraco Heartcore and Blazor with Poornima Nayar](https://dotnetcore.show/episode-93-umbraco-heartcore-and-blazor-with-poornima-nayar/) - May 4, 2022 - In this episode we talked with Poornima Nayar about Umbraco Heartcore and where you might use it, Blazor, a little on GraphQL and how it fits very well with mobile apps which communicate with remote APIs. Duration: 59 minutes.
 
-## [51. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [50. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Software / Publishing , Collaboration and Organization
 
 *   [eu-citizen.science](https://eu-citizen.science/) - links to 200 projects
 *   [Zooniverse](https://github.com/zooniverse) - website for zoo & universe projects
 
-## [52. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [51. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 

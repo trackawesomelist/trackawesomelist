@@ -93,7 +93,7 @@ Though this article is a few years old, much of its advice is still relevant as 
 
 ### Databases
 
-*   [JSON Server (⭐64k)](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds.
+*   [JSON Server (⭐71k)](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds.
 
 ## [8. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

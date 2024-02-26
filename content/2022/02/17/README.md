@@ -34,14 +34,14 @@
 
 ### NixOS Modules / Zig
 
-*   [base16.nix (⭐137)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐394)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
+*   [base16.nix (⭐137)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐411)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [kubecolor (trejo08) (⭐4)](https://github.com/trejo08/kubecolor-zsh) - Prints colorized outputs from  `kubectl`. Includes helper functions.
-*   [kubectl-config-switcher (⭐0)](https://github.com/chmouel/kubectl-config-switcher/) - Switch between config files in `~/.kube` via the `KUBECTL` environment variable.
+*   [kubectl-config-switcher (⭐1)](https://github.com/chmouel/kubectl-config-switcher/) - Switch between config files in `~/.kube` via the `KUBECTL` environment variable.
 
 ## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -257,7 +257,6 @@
 ### Web Hosting
 
 *   [RoseHosting](https://www.rosehosting.com) \[DISCOUNT] - RoseHosting offers education specific hosting as well as general shared and dedicated hosting.
-*   [NodeHost](https://nodehost.ca/education) \[FREE] - PHP hosting. 500MB Storage, 80GB Bandwidth, 1 Database, and 2 email accounts per site, 28 day backup history.
 
 ### Design and Photo Editing
 

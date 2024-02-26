@@ -71,7 +71,7 @@
 
 ### Software / Document Management - Institutional Repository and Digital Library Software
 
-*   [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code (⭐175)](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
+*   [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code (⭐176)](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
 
 ## [4. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -239,7 +239,7 @@
 
 ### HTTP
 
-*   [halite (⭐172)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
+*   [halite (⭐173)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
 
 ## [27. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
@@ -358,7 +358,7 @@ Donationware
 
 ### Table of Contents / Micro Framework Extras
 
-*   [Slim Twig View (⭐308)](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
+*   [Slim Twig View (⭐307)](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
 *   [Slim PHP View (⭐255)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
 
 ### Table of Contents / Testing

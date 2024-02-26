@@ -28,7 +28,7 @@
 
 ### Testing
 
-*   [mockery (⭐89)](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
+*   [mockery (⭐90)](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
 
 ## [4. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 

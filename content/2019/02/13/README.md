@@ -53,9 +53,9 @@
 
 ### Other Tools / Telegram
 
-*   [Belati (⭐494)](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
+*   [Belati (⭐516)](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 *   [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
-*   [Pown Recon (⭐417)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
+*   [Pown Recon (⭐419)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
 *   [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 
 ## [6. Awesome Dart](/content/yissachar/awesome-dart/README.md)

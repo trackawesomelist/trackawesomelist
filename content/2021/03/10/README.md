@@ -125,7 +125,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Litepie Date picker (⭐371)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
+*   🧩 [Litepie Date picker (⭐370)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
 
 ## [7. Awesome D](/content/dlang-community/awesome-d/README.md)
 

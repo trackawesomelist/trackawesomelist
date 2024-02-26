@@ -16,7 +16,7 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Planka](https://planka.app/) - Realtime kanban board for workgroups (alternative to Trello). ([Demo](https://plankanban.github.io/planka/#/), [Source Code (⭐3.6k)](https://github.com/plankanban/planka)) `AGPL-3.0` `Nodejs/Docker/K8S`
+*   [Planka](https://planka.app/) - Realtime kanban board for workgroups (alternative to Trello). ([Demo](https://plankanban.github.io/planka/#/), [Source Code (⭐3.7k)](https://github.com/plankanban/planka)) `AGPL-3.0` `Nodejs/Docker/K8S`
 
 ## [3. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Apps / SEO and SMO
 
-*   [wagtail-meta-preview (⭐28)](https://github.com/rinti/wagtail-meta-preview) - Adds ability to get share previews for Facebook, Twitter and Google in the Wagtail admin.
+*   [wagtail-meta-preview (⭐27)](https://github.com/rinti/wagtail-meta-preview) - Adds ability to get share previews for Facebook, Twitter and Google in the Wagtail admin.
 
 ### Resources / Articles
 

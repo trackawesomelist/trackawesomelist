@@ -137,7 +137,7 @@
 
 ### Online Books
 
-*   [WebGL Academy](http://www.webglacademy.com) - Learn WebGL and 3D algorithmic in a progressive and interactive way. (Archived)
+*   [WebGL Academy](http://www.webglacademy.com) - Learn WebGL and 3D algorithmic in a progressive and interactive way.
 
 ### Machine learning • Computer Vision • Ai / Other
 
@@ -217,11 +217,11 @@
 
 ### Software / Automation
 
-*   [Activepieces](https://www.activepieces.com) - No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. ([Source Code (⭐6.2k)](https://github.com/activepieces/activepieces)) `MIT` `Docker`
+*   [Activepieces](https://www.activepieces.com) - No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. ([Source Code (⭐6.5k)](https://github.com/activepieces/activepieces)) `MIT` `Docker`
 
 ### Software / Recipe Management
 
-*   [Bar Assistant (⭐298)](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://bar.karlomikus.com/)) `MIT` `PHP/Docker`
+*   [Bar Assistant (⭐309)](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://bar.karlomikus.com/)) `MIT` `PHP/Docker`
 
 ## [13. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 

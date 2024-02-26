@@ -52,7 +52,7 @@
 
 ### Regular Expression
 
-*   [Oniguruma (⭐2.1k)](https://github.com/kkos/oniguruma) - A modern and flexible regular expressions library that supports a variety of character encodings. \[BSD]
+*   [Oniguruma (⭐2.2k)](https://github.com/kkos/oniguruma) - A modern and flexible regular expressions library that supports a variety of character encodings. \[BSD]
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

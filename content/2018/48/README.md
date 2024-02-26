@@ -399,11 +399,11 @@
 
 *   [ddgr (⭐2.8k)](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
 *   [mackup (⭐14k)](https://github.com/lra/mackup/) - Keep your application settings in sync (OS X/Linux)
-*   [pdd (⭐359)](https://github.com/jarun/pdd) - Tiny date, time diff calculator with timers
+*   [pdd (⭐368)](https://github.com/jarun/pdd) - Tiny date, time diff calculator with timers
 
 ### Applications / Directory Navigation
 
-*   [taskbook (⭐8.8k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
+*   [taskbook (⭐8.9k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 
 ## [33. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
 
@@ -495,16 +495,16 @@
 
 ### Applications / Games
 
-*   [rsaarelm/magog (⭐368)](https://github.com/rsaarelm/magog) — A roguelike game in Rust
-*   [Thinkofname/rust-quake (⭐69)](https://github.com/Thinkofname/rust-quake) — Quake map renderer in Rust
+*   [rsaarelm/magog (⭐368)](https://github.com/rsaarelm/magog) — A roguelike game.
+*   [Thinkofname/rust-quake (⭐70)](https://github.com/Thinkofname/rust-quake) — Quake map renderer.
 
 ### Applications / Industrial automation
 
-*   [locka99/opcua (⭐433)](https://github.com/locka99/opcua) — A pure rust [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) library.
+*   [locka99/opcua (⭐434)](https://github.com/locka99/opcua) — A [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) library.
 
 ### Applications / Text processing
 
-*   [whitfin/runiq (⭐199)](https://github.com/whitfin/runiq) — an efficient way to filter duplicate lines from unsorted input.
+*   [whitfin/runiq (⭐200)](https://github.com/whitfin/runiq) — an efficient way to filter duplicate lines from unsorted input.
 
 ### Applications / Utilities
 
@@ -516,29 +516,29 @@
 
 ### Development tools / Transpiling
 
-*   [immunant/c2rust (⭐3.5k)](https://github.com/immunant/c2rust) — C to Rust translator and cross checker built atop Clang/LLVM.
+*   [immunant/c2rust (⭐3.6k)](https://github.com/immunant/c2rust) — C to Rust translator and cross checker built atop Clang/LLVM.
 *   [jameysharp/corrode (⭐2.1k)](https://github.com/jameysharp/corrode) — A C to Rust translator written in Haskell.
 
 ### Libraries / Game development
 
 *   Game Engines
-    *   [Bevy (⭐30k)](https://github.com/bevyengine/bevy) is a refreshingly simple data-driven game engine built in Rust. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)
+    *   [Bevy (⭐31k)](https://github.com/bevyengine/bevy) is a refreshingly simple data-driven game engine. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)
         [![Crates.io](https://img.shields.io/crates/d/bevy.svg)](https://crates.io/crates/bevy)
-    *   [Fyrox](https://fyrox.rs/) — Rust Game engine 3D [![Crates.io](https://img.shields.io/crates/v/fyrox.svg)](https://crates.io/crates/fyrox) [![license](https://img.shields.io/crates/l/fyrox.svg)](https://github.com/FyroxEngine/Fyrox/blob/master/LICENSE.md) [![Crates.io](https://img.shields.io/crates/d/fyrox.svg)](https://crates.io/crates/fyrox)
+    *   [Fyrox](https://fyrox.rs/) — Game engine 3D [![Crates.io](https://img.shields.io/crates/v/fyrox.svg)](https://crates.io/crates/fyrox) [![license](https://img.shields.io/crates/l/fyrox.svg)](https://github.com/FyroxEngine/Fyrox/blob/master/LICENSE.md) [![Crates.io](https://img.shields.io/crates/d/fyrox.svg)](https://crates.io/crates/fyrox)
     *   [ggez (⭐4k)](https://github.com/ggez/ggez) — A lightweight game framework for making 2D games with minimum friction - [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/ggez.svg)](https://crates.io/crates/ggez)
-    *   [Kiss3d](http://kiss3d.org) — A Keep It Simple, Stupid 3d graphics engine written with Rust [![Crates.io](https://img.shields.io/crates/d/kiss3d.svg)](https://crates.io/crates/kiss3d)
-    *   [oxidator (⭐287)](https://github.com/Ruddle/oxidator) — A real time strategy game/engine written with Rust and WebGPU
+    *   [Kiss3d](http://kiss3d.org) — A Keep It Simple, Stupid 3d graphics engine [![Crates.io](https://img.shields.io/crates/d/kiss3d.svg)](https://crates.io/crates/kiss3d)
+    *   [oxidator (⭐288)](https://github.com/Ruddle/oxidator) — A real time strategy game/engine supporting WebGPU
     *   [Piston](https://www.piston.rs/) — [![Crates.io](https://img.shields.io/crates/v/piston.svg?style=flat-square)](https://crates.io/crates/piston) [![Crates.io](https://img.shields.io/crates/l/piston.svg)](https://github.com/PistonDevelopers/piston/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/piston.svg)](https://crates.io/crates/piston)
-    *   [Unrust (⭐374)](https://github.com/unrust/unrust) — unrust — A pure rust based (webgl 2.0 / native) game engine
+    *   [Unrust (⭐374)](https://github.com/unrust/unrust) — Webgl 2.0 / native game engine
 
 ### Libraries / GUI
 
-*   [autopilot-rs/autopilot-rs (⭐355)](https://github.com/autopilot-rs/autopilot-rs) — A simple, cross-platform GUI automation library for Rust.
+*   [autopilot-rs/autopilot-rs (⭐356)](https://github.com/autopilot-rs/autopilot-rs) — A simple, cross-platform GUI automation library.
 
 ### Libraries / Macro
 
 *   cute
-    *   [mattgathu/cute (⭐330)](https://github.com/mattgathu/cute) — Macro for Python-esque list comprehensions in Rust.
+    *   [mattgathu/cute (⭐329)](https://github.com/mattgathu/cute) — Macro for Python-esque list comprehensions.
 
 ## [42. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 

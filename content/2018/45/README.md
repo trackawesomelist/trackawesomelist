@@ -320,11 +320,11 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q\&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [Source Code (⭐794)](https://github.com/Erudika/scoold)) `Apache-2.0` `Java/Docker/K8S`
+*   [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q\&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [Source Code (⭐799)](https://github.com/Erudika/scoold)) `Apache-2.0` `Java/Docker/K8S`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Expressa (⭐423)](https://github.com/thomas4019/expressa) - Content Management System for powering database driven websites using JSON schemas. Provides permission management and automatic REST APIs. `MIT` `Nodejs`
+*   [Expressa (⭐424)](https://github.com/thomas4019/expressa) - Content Management System for powering database driven websites using JSON schemas. Provides permission management and automatic REST APIs. `MIT` `Nodejs`
 
 ### Software / Personal Dashboards
 
@@ -407,40 +407,40 @@
 
 ### Data Manipulation
 
-*   [lubridate (⭐706)](https://github.com/tidyverse/lubridate) - A set of functions to work with dates and times.
-*   [bigmemory (⭐123)](https://github.com/kaneplusplus/bigmemory) - Shared memory and memory-mapped matrices. The big\* packages provide additional tools including linear models ([biglm](http://cran.r-project.org/web/packages/biglm/index.html)) and Random Forests ([bigrf (⭐92)](https://github.com/aloysius-lim/bigrf)).
+*   [lubridate (⭐712)](https://github.com/tidyverse/lubridate) - A set of functions to work with dates and times.
+*   [bigmemory (⭐124)](https://github.com/kaneplusplus/bigmemory) - Shared memory and memory-mapped matrices. The big\* packages provide additional tools including linear models ([biglm](http://cran.r-project.org/web/packages/biglm/index.html)) and Random Forests ([bigrf (⭐92)](https://github.com/aloysius-lim/bigrf)).
 
 ### Graphic Displays
 
-*   [lattice (⭐67)](https://github.com/deepayan/lattice) - A powerful and elegant high-level data visualization system.
-*   [animation (⭐205)](https://github.com/yihui/animation) - A simple way to produce animated graphics in R, using [ImageMagick](http://imagemagick.org/).
-*   [waffle (⭐756)](https://github.com/hrbrmstr/waffle) -  🍁 Make waffle (square pie) charts in R.
-*   [dendextend (⭐147)](https://github.com/talgalili/dendextend) -  visualizing, adjusting and comparing trees of hierarchical clustering.
+*   [lattice (⭐68)](https://github.com/deepayan/lattice) - A powerful and elegant high-level data visualization system.
+*   [animation (⭐208)](https://github.com/yihui/animation) - A simple way to produce animated graphics in R, using [ImageMagick](http://imagemagick.org/).
+*   [waffle (⭐757)](https://github.com/hrbrmstr/waffle) -  🍁 Make waffle (square pie) charts in R.
+*   [dendextend (⭐148)](https://github.com/talgalili/dendextend) -  visualizing, adjusting and comparing trees of hierarchical clustering.
 
 ### HTML Widgets
 
-*   [heatmaply (⭐362)](https://github.com/talgalili/heatmaply) - Interactive heatmaps with D3.
-*   [d3heatmap (⭐237)](https://github.com/rstudio/d3heatmap) - Interactive heatmaps with D3 (no longer maintained).
+*   [heatmaply (⭐366)](https://github.com/talgalili/heatmaply) - Interactive heatmaps with D3.
+*   [d3heatmap (⭐236)](https://github.com/rstudio/d3heatmap) - Interactive heatmaps with D3 (no longer maintained).
 
 ### Reproducible Research
 
-*   [tinytex (⭐902)](https://github.com/yihui/tinytex) - A lightweight and easy-to-maintain LaTeX distribution
+*   [tinytex (⭐913)](https://github.com/yihui/tinytex) - A lightweight and easy-to-maintain LaTeX distribution
 
 ### Web Technologies and Services
 
-*   [curl (⭐207)](https://github.com/jeroen/curl) - A Modern and Flexible Web Client for R.
+*   [curl (⭐208)](https://github.com/jeroen/curl) - A Modern and Flexible Web Client for R.
 
 ### Database Management
 
-*   [odbc (⭐376)](https://github.com/r-dbi/odbc) - Connect to ODBC databases (using the DBI interface)
+*   [odbc (⭐378)](https://github.com/r-dbi/odbc) - Connect to ODBC databases (using the DBI interface)
 
 ### Machine Learning
 
-*   [ranger (⭐741)](https://github.com/imbs-hl/ranger) - A Fast Implementation of Random Forests.
+*   [ranger (⭐749)](https://github.com/imbs-hl/ranger) - A Fast Implementation of Random Forests.
 
 ### R Development
 
-*   [sinew (⭐164)](https://github.com/metrumresearchgroup/sinew) - Generate roxygen2 skeletons populated with information scraped from the function script.
+*   [sinew (⭐163)](https://github.com/metrumresearchgroup/sinew) - Generate roxygen2 skeletons populated with information scraped from the function script.
 
 ## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

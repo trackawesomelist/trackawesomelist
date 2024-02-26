@@ -22,7 +22,7 @@
 
 ### Templates / React
 
-*   [vite-react\_best\_practices-template (⭐135)](https://github.com/CodelyTV/vite-react_best_practices-template) - Template for creating React apps with TypeScript following best practices: Unit and end-to-end tests, Continuous Integration, and linting.
+*   [vite-react\_best\_practices-template (⭐142)](https://github.com/CodelyTV/vite-react_best_practices-template) - Template for creating React apps with TypeScript following best practices: Unit and end-to-end tests, Continuous Integration, and linting.
 
 ### Templates / Svelte
 
@@ -32,7 +32,7 @@
 
 *   [vite-plugin-dc (⭐3)](https://github.com/dvgis/vite-plugin-dc) - Integration with @dvgis/dc-sdk library.
 *   [vite-plugin-react-mpa (⭐2)](https://github.com/dingff/vite-plugin-react-mpa) - An out-of-the-box MPA.
-*   [vite-plugin-cloudflare-functions (⭐32)](https://github.com/yjl9903/vite-plugin-cloudflare-functions) - Cloudflare pages function integration.
+*   [vite-plugin-cloudflare-functions (⭐34)](https://github.com/yjl9903/vite-plugin-cloudflare-functions) - Cloudflare pages function integration.
 
 ### Framework-agnostic Plugins / Bundling
 
@@ -40,7 +40,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-turbo-console (⭐223)](https://github.com/yuyinws/vite-plugin-turbo-console) - Enhance the readability of `console.log()`.
+*   [vite-plugin-turbo-console (⭐242)](https://github.com/yuyinws/vite-plugin-turbo-console) - Enhance the readability of `console.log()`.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -52,15 +52,15 @@
 
 ### Frameworks / Community
 
-*   [@fastify/fastify-dx (⭐921)](https://github.com/fastify/fastify-dx) - Allowing you to serve static or live (SSR).
+*   [@fastify/fastify-dx (⭐917)](https://github.com/fastify/fastify-dx) - Allowing you to serve static or live (SSR).
 
 ### ASP.NET Core / Community
 
-*   [Vite.AspNetCore (⭐152)](https://github.com/Eptagone/Vite.AspNetCore) - Integration with ASP.NET Core projects.
+*   [Vite.AspNetCore (⭐159)](https://github.com/Eptagone/Vite.AspNetCore) - Integration with ASP.NET Core projects.
 
 ### Apps/Websites / Community
 
-*   [vite-run (⭐54)](https://github.com/biggerstar/vite-run) - Multiple configuration execution support for vite, freely combining configurations like stacked blocks.
+*   [vite-run (⭐55)](https://github.com/biggerstar/vite-run) - Multiple configuration execution support for vite, freely combining configurations like stacked blocks.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

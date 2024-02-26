@@ -22,10 +22,6 @@
 
 *   [Writing a small software renderer](http://blog.simonrodriguez.fr/articles/18-02-2017_writing_a_small_software_renderer.html) - Really good introduction to how basic software rendering works.
 
-### Quick References • Cheatsheets / Other
-
-*   [The newbie's PBR Cheat Sheet](https://www.artstation.com/artwork/YeBr3) - Short and sweet visual overview on PBR.
-
 ### Math / Other
 
 *   [Desmos](https://www.desmos.com/) - Graph functions, plot data, evaluate equations, explore transformations, and much more.

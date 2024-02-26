@@ -6,6 +6,12 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ [Daily](/content/rust-embedded/awesome-embedded-rust/README.md) / Weekly / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
+
+### Driver crates / WIP
+
+*   [ad57xx (⭐0)](https://github.com/deltronix/ad57xx) - SPI - Quad and dual channel DAC - ![crates.io](https://img.shields.io/crates/v/ad57xx.svg)
+
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
 ### Tools / Community Chat Rooms

@@ -28,7 +28,7 @@
 
 ### Templates / React
 
-*   [vite-mui-ts (⭐33)](https://github.com/emre-cil/vite-mui-ts) - React + TypeScript + Redux + Material UI + RRD + ESLint + Prettier.
+*   [vite-mui-ts (⭐34)](https://github.com/emre-cil/vite-mui-ts) - React + TypeScript + Redux + Material UI + RRD + ESLint + Prettier.
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -36,13 +36,13 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-image-optimizer (⭐209)](https://github.com/FatehAK/vite-plugin-image-optimizer) - Optimize (compress) your image assets using Sharp.js and SVGO at build time.
+*   [vite-plugin-image-optimizer (⭐226)](https://github.com/FatehAK/vite-plugin-image-optimizer) - Optimize (compress) your image assets using Sharp.js and SVGO at build time.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Configuration
 
-*   [softprops/envy (⭐785)](https://github.com/softprops/envy) - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml)
+*   [softprops/envy (⭐790)](https://github.com/softprops/envy) - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml)
 
 ## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Prompt Engineering
 
-*   [dair-ai/Prompt-Engineering-Guide (⭐41k)](https://github.com/dair-ai/Prompt-Engineering-Guide): Guide and resources for prompt engineering
+*   [dair-ai/Prompt-Engineering-Guide (⭐42k)](https://github.com/dair-ai/Prompt-Engineering-Guide): Guide and resources for prompt engineering
 
 ### AI Tools for Research / Multi-agents
 
@@ -109,12 +109,12 @@
 
 ### Contents / Imaging
 
-*   [Slim (⭐83)](https://github.com/ImagingDataCommons/slim) - Interoperable web viewer and annotation tool for computational pathology.
+*   [Slim (⭐100)](https://github.com/ImagingDataCommons/slim) - Interoperable web viewer and annotation tool for computational pathology.
 
 ### Contents / Libraries
 
-*   [ehrapy (⭐45)](https://github.com/theislab/ehrapy/) - Electronic Health Record analysis in Python.
-*   [Hermes (⭐139)](https://github.com/wardle/hermes) - a SNOMED CT terminology server.
+*   [ehrapy (⭐100)](https://github.com/theislab/ehrapy/) - Electronic Health Record analysis in Python.
+*   [Hermes (⭐158)](https://github.com/wardle/hermes) - a SNOMED CT terminology server.
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

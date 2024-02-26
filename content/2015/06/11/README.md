@@ -38,11 +38,11 @@ Developed from the materials of NYU Poly's old Penetration Testing and Vulnerabi
 
 ### For Developers / Directory Navigation
 
-*   [repren (⭐335)](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
+*   [repren (⭐337)](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
 
 ### Shell Script Development / Directory Navigation
 
-*   [The Art of Command Line (⭐140k)](https://github.com/jlevy/the-art-of-command-line)
+*   [The Art of Command Line (⭐144k)](https://github.com/jlevy/the-art-of-command-line)
 
 ---
 

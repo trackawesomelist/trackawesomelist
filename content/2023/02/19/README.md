@@ -66,7 +66,7 @@
 
 ### Applications
 
-*   [utils (⭐6)](https://github.com/q60/utils) - Website with handy day-to-day utils: to do list, URL shortener, code bin and pie chart. Written in Elixir using Phoenix Framework.
+*   [utils (⭐7)](https://github.com/q60/utils) - Website with handy day-to-day utils: to do list, URL shortener, code bin and pie chart. Written in Elixir using Phoenix Framework.
 
 ### Podcasts
 

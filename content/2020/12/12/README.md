@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 12, 2020
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -287,7 +287,13 @@
 *   [commonlisp-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.commonlisp-vscode) - an extension to support syntax highlight, auto completion, documentation on hover, go to definition, compile & load file, REPL. It is [On GitHub (⭐35)](https://github.com/ailisp/commonlisp-vscode/).
 *   [strict-paredit-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.strict-paredit) - structural editing and navigation like Emacs.
 
-## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [5. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### Haskell
+
+*   [Haskell 趣学指南](https://learnyouahaskell.mno2.org)
+
+## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / HTTP
 
@@ -301,25 +307,25 @@
 
 *   [nut.js (⭐1.9k)](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
 
-## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   🧩 [Windstrap](https://windstrap.netlify.app) - Tailwind CSS with Bootstrap JS.
 
-## [7. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
+## [8. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
 ### Tutorials / Video Tutorials
 
 *   [Awesome Haskell Videos (⭐33)](https://github.com/andys8/awesome-haskell-videos) - Curated list of Haskell talks and tutorials
 
-## [8. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [9. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### DevSecOps / Fuzzing
 
 *   [Atheris](https://pypi.org/project/atheris/) - Coverage-guided Python fuzzing engine based off of libFuzzer that supports fuzzing of Python code but also native extensions written for CPython.
 
-## [9. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+## [10. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Other / Machine translation
 

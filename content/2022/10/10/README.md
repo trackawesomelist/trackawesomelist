@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 10, 2022
 
-22 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -96,7 +96,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [MetricFu (⭐620)](https://github.com/metricfu/metric_fu) :warning: — MetricFu is a set of tools to provide reports that show which parts of your code might need extra work.
+*   [MetricFu (⭐620)](https://github.com/metricfu/metric_fu) — MetricFu is a set of tools to provide reports that show which parts of your code might need extra work.
 
 ### Other / [Other](#other-1)
 
@@ -118,35 +118,35 @@
 
 ### Software / Automation
 
-*   [SiteInspector](https://www.getsiteinspector.com/) - Web-based tool for catching spelling errors, grammatical errors, broken links, and other errors on websites. ([Source Code (⭐363)](https://github.com/siteinspector/siteinspector)) `AGPL-3.0` `Docker`
+*   [SiteInspector](https://www.getsiteinspector.com/) - Web-based tool for catching spelling errors, grammatical errors, broken links, and other errors on websites. ([Source Code (⭐368)](https://github.com/siteinspector/siteinspector)) `AGPL-3.0` `Docker`
 
 ### Software / Software Development - Low Code
 
-*   [Motor Admin](https://www.getmotoradmin.com/) - No-code admin panel and business intelligence software - search, create, update, and delete data entries, create custom actions, and build reports. ([Source Code (⭐1.8k)](https://github.com/motor-admin/motor-admin)) `AGPL-3.0` `Ruby/Docker`
+*   [Motor Admin](https://www.getmotoradmin.com/) - No-code admin panel and business intelligence software - search, create, update, and delete data entries, create custom actions, and build reports. ([Source Code (⭐1.9k)](https://github.com/motor-admin/motor-admin)) `AGPL-3.0` `Ruby/Docker`
 
 ## [14. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### [Capgo plugins](https://capgo.app/)
 
-*   [Crisp (⭐6)](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
+*   [Crisp (⭐7)](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
 *   [Flash (⭐11)](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
 *   [Mute (⭐3)](https://github.com/Cap-go/capacitor-mute) - Detect silent mode and mute audio.
 *   [Native Geocoder (⭐18)](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
-*   [Screen recorder (⭐6)](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
-*   [In app Browser (⭐36)](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent and ability to clear cookie.
+*   [Screen recorder (⭐5)](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
+*   [In app Browser (⭐42)](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent and ability to clear cookie.
 
 ### [Capawesome plugins](https://capawesome.io/)
 
 *   [Background tasks (⭐51)](https://github.com/capawesome-team/capacitor-background-task) - A native plugin for running background tasks.
-*   [Badge (⭐70)](https://github.com/capawesome-team/capacitor-badge) - Access and update the badge number of the app icon.
+*   [Badge (⭐72)](https://github.com/capawesome-team/capacitor-badge) - Access and update the badge number of the app icon.
 *   Firebase
-    *   [Analytics (⭐304)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/analytics/README.md) - Firebase plugins for Capacitor. Supports Android, iOS and the web.
-    *   [App (⭐304)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/app/README.md) - Capacitor plugin for Firebase App.
-    *   [Auth (⭐304)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/authentication/README.md) - Handle the authentication on Native layer and propagate the token to the web view layer.
-    *   [Performance (⭐304)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/performance/README.md) - Capacitor plugin for Firebase Performance Monitoring.
-    *   [Crashlytics (⭐304)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Capacitor plugin for Firebase Crashlytics.
+    *   [Analytics (⭐324)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/analytics/README.md) - Firebase plugins for Capacitor. Supports Android, iOS and the web.
+    *   [App (⭐324)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/app/README.md) - Capacitor plugin for Firebase App.
+    *   [Auth (⭐324)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/authentication/README.md) - Handle the authentication on Native layer and propagate the token to the web view layer.
+    *   [Performance (⭐324)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/performance/README.md) - Capacitor plugin for Firebase Performance Monitoring.
+    *   [Crashlytics (⭐324)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Capacitor plugin for Firebase Crashlytics.
 *   [Screen orientation (⭐28)](https://github.com/capawesome-team/capacitor-screen-orientation) - Lock/unlock the screen orientation.
-*   [Native updates (⭐115)](https://github.com/capawesome-team/capacitor-app-update) - Capacitor plugin that assists with app updates.
+*   [Native updates (⭐116)](https://github.com/capawesome-team/capacitor-app-update) - Capacitor plugin that assists with app updates.
 *   [File picker (⭐63)](https://github.com/capawesome-team/capacitor-file-picker) - Capacitor plugin that allows the user to select a file.
 *   [Photo editor (⭐9)](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
 
@@ -164,7 +164,7 @@
 
 ### Continuous Integration
 
-*   [woodpecker (⭐3.4k)](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
+*   [woodpecker (⭐3.5k)](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 
 ### Utilities
 
@@ -391,13 +391,7 @@
 
 *   [ComputerCraft](https://computercraft.cc) - Adds computers based on Lua (5.2 and 5.3) into Minecraft.
 
-## [21. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Parallel Programming
-
-*   [Introduction to Parallel Computing](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial) - Blaise Barney
-
-## [22. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [21. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Teamworking Tools
 

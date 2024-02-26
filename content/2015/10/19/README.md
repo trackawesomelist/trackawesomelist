@@ -79,7 +79,7 @@
 
 ### Applications / Directory Navigation
 
-*   [iponmap (⭐302)](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
+*   [iponmap (⭐303)](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

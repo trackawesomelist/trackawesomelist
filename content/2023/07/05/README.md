@@ -138,7 +138,7 @@
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [Sympa](https://www.sympa.community/) - Mailing list manager. ([Source Code (⭐223)](https://github.com/sympa-community/sympa)) `GPL-2.0` `Perl`
+*   [Sympa](https://www.sympa.community/) - Mailing list manager. ([Source Code (⭐222)](https://github.com/sympa-community/sympa)) `GPL-2.0` `Perl`
 
 ## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -150,7 +150,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf (unixorn) (⭐227)](https://github.com/unixorn/fzf-zsh-plugin/) - Enables [fzf (⭐57k)](https://github.com/junegunn/fzf) history and file searches.
+*   [fzf (unixorn) (⭐237)](https://github.com/unixorn/fzf-zsh-plugin/) - Enables [fzf (⭐58k)](https://github.com/junegunn/fzf) history and file searches.
 
 ## [17. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

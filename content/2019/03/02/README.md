@@ -23,35 +23,31 @@
 ### Audio
 
 *   Audio
-    *   [audioread (⭐442)](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
-    *   [audioFlux (⭐1.8k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
-    *   [dejavu (⭐6.1k)](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
-    *   [kapre (⭐891)](https://github.com/keunwoochoi/kapre) - Keras Audio Preprocessors.
-    *   [librosa (⭐6k)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
-    *   [matchering (⭐986)](https://github.com/sergree/matchering) - A library for automated reference audio mastering.
+    *   [audioread (⭐468)](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
+    *   [audioFlux (⭐2k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
+    *   [dejavu (⭐6.3k)](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
+    *   [kapre (⭐905)](https://github.com/keunwoochoi/kapre) - Keras Audio Preprocessors.
+    *   [librosa (⭐6.5k)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
+    *   [matchering (⭐1.1k)](https://github.com/sergree/matchering) - A library for automated reference audio mastering.
     *   [mingus](http://bspaans.github.io/python-mingus/) - An advanced music theory and notation package with MIDI file and playback support.
-    *   [pyAudioAnalysis (⭐5.3k)](https://github.com/tyiannak/pyAudioAnalysis) - Audio feature extraction, classification, segmentation and applications.
-    *   [pydub (⭐7.4k)](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
-    *   [TimeSide (⭐351)](https://github.com/Parisson/TimeSide) - Open web audio processing framework.
+    *   [pyaudioanalysis (⭐5.6k)](https://github.com/tyiannak/pyAudioAnalysis) - Audio feature extraction, classification, segmentation and applications.
+    *   [pydub (⭐8.2k)](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
+    *   [timeside (⭐361)](https://github.com/Parisson/TimeSide) - Open web audio processing framework.
 *   Metadata
     *   [beets (⭐12k)](https://github.com/beetbox/beets) - A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
-    *   [eyeD3 (⭐479)](https://github.com/nicfit/eyeD3) - A tool for working with audio files, specifically MP3 files containing ID3 metadata.
-    *   [mutagen (⭐1.3k)](https://github.com/quodlibet/mutagen) - A Python module to handle audio metadata.
-    *   [tinytag (⭐606)](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
-
-### CMS
-
-*   [Kotti (⭐400)](https://github.com/Kotti/Kotti) - A high-level, Pythonic web application framework built on Pyramid.
+    *   [eyed3 (⭐517)](https://github.com/nicfit/eyeD3) - A tool for working with audio files, specifically MP3 files containing ID3 metadata.
+    *   [mutagen (⭐1.4k)](https://github.com/quodlibet/mutagen) - A Python module to handle audio metadata.
+    *   [tinytag (⭐650)](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
 
 ### Web Asset Management
 
 *   [django-compressor (⭐2.7k)](https://github.com/django-compressor/django-compressor) - Compresses linked and inline JavaScript or CSS into a single cached file.
 *   [django-pipeline (⭐1.5k)](https://github.com/jazzband/django-pipeline) - An asset packaging library for Django.
-*   [django-storages (⭐2.4k)](https://github.com/jschneier/django-storages) - A collection of custom storage back ends for Django.
+*   [django-storages (⭐2.6k)](https://github.com/jschneier/django-storages) - A collection of custom storage back ends for Django.
 *   [fanstatic](http://www.fanstatic.org/en/latest/) - Packages, optimizes, and serves static file dependencies as Python packages.
 *   [fileconveyor](http://wimleers.com/fileconveyor) - A daemon to detect and sync files to CDNs, S3 and FTP.
-*   [flask-assets (⭐439)](https://github.com/miracle2k/flask-assets) - Helps you integrate webassets into your Flask app.
-*   [webassets (⭐918)](https://github.com/miracle2k/webassets) - Bundles, optimizes, and manages unique cache-busting URLs for static resources.
+*   [flask-assets (⭐450)](https://github.com/miracle2k/flask-assets) - Helps you integrate webassets into your Flask app.
+*   [webassets (⭐919)](https://github.com/miracle2k/webassets) - Bundles, optimizes, and manages unique cache-busting URLs for static resources.
 
 ## [4. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

@@ -99,8 +99,8 @@ git stash push --all
 
 ### Supersets
 
-*   [TOML (⭐18k)](https://github.com/toml-lang/toml) - A minimal configuration file format that's easy to read due to obvious semantics.
-*   [HCL (⭐4.3k)](https://github.com/hashicorp/hcl) - A structured configuration language that is both human and machine friendly.
+*   [TOML (⭐19k)](https://github.com/toml-lang/toml) - A minimal configuration file format that's easy to read due to obvious semantics.
+*   [HCL (⭐5k)](https://github.com/hashicorp/hcl) - A structured configuration language that is both human and machine friendly.
 
 ## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

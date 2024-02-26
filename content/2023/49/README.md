@@ -26,7 +26,7 @@
 
 ### Workflow
 
-*   [PACE (⭐25)](https://github.com/getstrm/pace) - An open source framework that allows you to enforce agreements on how data should be accessed, used, and transformed, regardless of the data platform (Snowflake, BigQuery, DataBricks, etc.)
+*   [PACE (⭐26)](https://github.com/getstrm/pace) - An open source framework that allows you to enforce agreements on how data should be accessed, used, and transformed, regardless of the data platform (Snowflake, BigQuery, DataBricks, etc.)
 
 ## [4. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
 
@@ -54,11 +54,11 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-elasticstack (⭐141)](https://github.com/elastic/terraform-provider-elasticstack) - Provider for Elasticsearch and Kibana.
+*   [terraform-provider-elasticstack (⭐144)](https://github.com/elastic/terraform-provider-elasticstack) - Provider for Elasticsearch and Kibana.
 
 ### Self-hosted Terraform Platforms / IDE
 
-*   [Stack-Lifecycle-Deployment (⭐204)](https://github.com/D10S0VSkY-OSS/Stack-Lifecycle-Deployment) - OpenSource solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud.
+*   [Stack-Lifecycle-Deployment (⭐208)](https://github.com/D10S0VSkY-OSS/Stack-Lifecycle-Deployment) - OpenSource solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud.
 
 ## [7. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [somleng (⭐54)](https://github.com/somleng/somleng) - An Open Source Communications-Platform-as-a-Service (CPaaS) and Telco-as-a-service (TaaS). (using Rails 7.1). - [:earth\_africa:](https://www.somleng.org)
+*   [somleng (⭐55)](https://github.com/somleng/somleng) - An Open Source Communications-Platform-as-a-Service (CPaaS) and Telco-as-a-service (TaaS). (using Rails 7.1). - [:earth\_africa:](https://www.somleng.org)
 
 ## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [remix-development-tools (⭐495)](https://github.com/Code-Forge-Net/Remix-Dev-Tools) - Plugin for Remix.run development tools.
+*   [remix-development-tools (⭐517)](https://github.com/Code-Forge-Net/Remix-Dev-Tools) - Plugin for Remix.run development tools.
 
 ## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
@@ -109,11 +109,11 @@
 
 ### Software / Inventory Management
 
-*   [Shelf](https://www.shelf.nu) - Asset and equipment tracking software used by teams who value clarity. Shelf is an asset database and QR asset label generator that lets you create, manage and overview your assets across locations. Unlimited assets, free forever. ([Source Code (⭐1.3k)](https://github.com/Shelf-nu/shelf.nu)) `AGPL-3.0` `Nodejs`
+*   [Shelf](https://www.shelf.nu) - Asset and equipment tracking software used by teams who value clarity. Shelf is an asset database and QR asset label generator that lets you create, manage and overview your assets across locations. Unlimited assets, free forever. ([Source Code (⭐1.4k)](https://github.com/Shelf-nu/shelf.nu)) `AGPL-3.0` `Nodejs`
 
 ### Software / Miscellaneous
 
-*   [Bracket](https://evroon.github.io/bracket) - Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. ([Source Code (⭐64)](https://github.com/evroon/bracket)) `MIT` `Docker/Nodejs`
+*   [Bracket](https://evroon.github.io/bracket) - Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. ([Demo](https://www.bracketapp.nl/demo), [Source Code (⭐81)](https://github.com/evroon/bracket)) `AGPL-3.0` `Docker/Nodejs`
 *   [Digiface](https://ladigitale.dev/digiface/) - Create avatars using the Avataaars library (documentation in French). ([Demo](https://ladigitale.dev/digiface/), [Source Code](https://codeberg.org/ladigitale/digiface)) `AGPL-3.0` `Nodejs`
 
 ### Software / Software Development - Project Management

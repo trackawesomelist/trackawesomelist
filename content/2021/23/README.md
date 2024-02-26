@@ -149,7 +149,7 @@
 
 ### Graphic Displays
 
-*   [httpgd (⭐310)](https://github.com/nx10/httpgd) - Asynchronous http server graphics device for R.
+*   [httpgd (⭐320)](https://github.com/nx10/httpgd) - Asynchronous http server graphics device for R.
 
 ### Web Technologies and Services
 
@@ -196,7 +196,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-dts (⭐953)](https://github.com/qmhc/vite-plugin-dts) - Generate declaration files from `.ts` or `.vue` source files for lib.
+*   [vite-plugin-dts (⭐1k)](https://github.com/qmhc/vite-plugin-dts) - Generate declaration files from `.ts` or `.vue` source files for lib.
 
 ### Apps/Websites / Community
 
@@ -212,7 +212,7 @@
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code (⭐305)](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Docker/Ruby`
+*   [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code (⭐304)](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Docker/Ruby`
 *   [juntagrico](https://juntagrico.org/) - Management platform for community gardens and vegetable cooperatives. ([Source Code (⭐43)](https://github.com/juntagrico/juntagrico)) `LGPL-3.0` `Python`
 *   [Local Food Nodes](https://localfoodnodes.org/) - Your open source platform for peoples driven local food markets and CSA. ([Source Code](https://gitlab.com/localfoodnodes/localfoodnodes)) `MIT` `PHP`
 
@@ -250,14 +250,14 @@
 
 ### Shells
 
-*   [ngs (⭐1.2k)](https://github.com/ngs-lang/ngs) - Fully featured scripting language created specifically for Ops. REPL is being developed.
+*   [ngs (⭐1.3k)](https://github.com/ngs-lang/ngs) - Fully featured scripting language created specifically for Ops. REPL is being developed.
 *   [powershell](https://docs.microsoft.com/en-us/powershell/scripting/overview) a cross-platform task automation and configuration management framework, consisting of a command-line shell and scripting language
 
 ### Command-Line Productivity
 
 *   [pass](https://www.passwordstore.org/) - Manage passwords from the command line with GPG encryption and optional git integration.
-*   [usql (⭐8.3k)](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
-*   [xplr (⭐3.6k)](https://github.com/sayanarijit/xplr) -  A hackable, minimal, fast TUI file explorer
+*   [usql (⭐8.4k)](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
+*   [xplr (⭐3.8k)](https://github.com/sayanarijit/xplr) -  A hackable, minimal, fast TUI file explorer
 
 ### Customization / Directory Navigation
 
@@ -265,7 +265,7 @@
 
 ### For Developers / Directory Navigation
 
-*   [just (⭐14k)](https://github.com/casey/just) - Task runner for saving and running project-specific commands.
+*   [just (⭐16k)](https://github.com/casey/just) - Task runner for saving and running project-specific commands.
 
 ### System Utilities / Directory Navigation
 
@@ -273,17 +273,17 @@
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [yq (⭐9.7k)](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
+*   [yq (⭐10k)](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 
 ### Applications / Directory Navigation
 
-*   [pcalc (⭐504)](https://github.com/alt-romes/programmer-calculator) - Calculator made for programmers working with multiple number representations, sizes, and overall close to the bits.
+*   [pcalc (⭐520)](https://github.com/alt-romes/programmer-calculator) - Calculator made for programmers working with multiple number representations, sizes, and overall close to the bits.
 
 ### Shell Script Development / Directory Navigation
 
-*   [bashew (⭐220)](https://github.com/pforret/bashew) - bash script creator - from small stand-alone script to complex projects with CI/CD and testing
-*   [getoptions (⭐324)](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
-*   [shfmt (⭐6.3k)](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+*   [bashew (⭐234)](https://github.com/pforret/bashew) - bash script creator - from small stand-alone script to complex projects with CI/CD and testing
+*   [getoptions (⭐352)](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
+*   [shfmt (⭐6.5k)](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 *   [Shell Field Guide](https://raimonster.com/scripting-field-guide/)
 
 ## [31. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
@@ -302,7 +302,7 @@
 
 ### Form Components / Markdown Editor
 
-*   [react-simplemde-editor (⭐738)](https://github.com/RIP21/react-simplemde-editor) - React component wrapper for [EasyMDE (the most fresh SimpleMDE fork) (⭐2.2k)](https://github.com/Ionaru/easy-markdown-editor).
+*   [react-simplemde-editor (⭐744)](https://github.com/RIP21/react-simplemde-editor) - React component wrapper for [EasyMDE (the most fresh SimpleMDE fork) (⭐2.2k)](https://github.com/Ionaru/easy-markdown-editor).
 *   [react-md-editor (⭐1.8k)](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 
 ## [34. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
@@ -755,11 +755,11 @@
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [michaelbull/kotlin-result (⭐894)](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations - inspired by Elm, Rust, & Haskell.
+*   [michaelbull/kotlin-result (⭐898)](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations - inspired by Elm, Rust, & Haskell.
 
 ### Libraries/Frameworks / Database
 
-*   [consoleau/kotlin-jpa-specification-dsl (⭐246)](https://github.com/consoleau/kotlin-jpa-specification-dsl) - This library provides a fluent DSL for querying spring data JPA repositories using spring data Specifications.
+*   [consoleau/kotlin-jpa-specification-dsl (⭐247)](https://github.com/consoleau/kotlin-jpa-specification-dsl) - This library provides a fluent DSL for querying spring data JPA repositories using spring data Specifications.
 
 ### Libraries/Frameworks / Graphics
 
@@ -788,11 +788,11 @@
 ### Libraries / Computation
 
 *   Statrs
-    *   [statrs-dev/statrs (⭐479)](https://github.com/statrs-dev/statrs) — Robust statistical computation library in Rust
+    *   [statrs-dev/statrs (⭐481)](https://github.com/statrs-dev/statrs) — Robust statistical computation library
 
 ### Libraries / Cryptography
 
-*   [klutzy/suruga (⭐123)](https://github.com/klutzy/suruga) — A Rust implementation of [TLS 1.2](https://datatracker.ietf.org/doc/html/rfc5246)
+*   [klutzy/suruga (⭐123)](https://github.com/klutzy/suruga) — Implementation of [TLS 1.2](https://datatracker.ietf.org/doc/html/rfc5246)
 
 ## [45. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 

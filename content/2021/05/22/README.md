@@ -14,8 +14,8 @@
 
 ### E-mail Search / E-mail Check / Telegram
 
-*   [h8mail (⭐3.5k)](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
-*   [Holehe (⭐5.6k)](https://github.com/megadose/holehe)
+*   [h8mail (⭐3.8k)](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
+*   [Holehe (⭐6.1k)](https://github.com/megadose/holehe)
 
 ### Video Search and Other Video Tools / Telegram
 

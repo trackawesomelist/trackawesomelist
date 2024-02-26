@@ -56,7 +56,7 @@
 
 ### Command-Line Productivity
 
-*   [AdvancedNewFile (⭐239)](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories in a recursive way. Inspired by the Vim plugin.
+*   [AdvancedNewFile (⭐243)](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories in a recursive way. Inspired by the Vim plugin.
 
 ## [9. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 

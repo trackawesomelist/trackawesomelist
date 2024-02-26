@@ -76,7 +76,7 @@
 
 ### Other plugins
 
-*   [Data Storage SQlite (⭐71)](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexedDB for the Web platform.
+*   [Data Storage SQlite (⭐73)](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexedDB for the Web platform.
 
 ## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

@@ -10,7 +10,7 @@
 
 ### JSON
 
-*   [jsoncons (⭐650)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
+*   [jsoncons (⭐652)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -292,7 +292,13 @@
 
 *   [Croma](https://croma.app) - Generate color palettes from image and colors
 
-## [11. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [11. Awesome Python](/content/vinta/awesome-python/README.md)
+
+### Static Site Generator
+
+*   [makesite (⭐1.8k)](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator (< 130 lines).
+
+## [12. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Broker
 
@@ -310,38 +316,23 @@
 
 *   [mqtt-prometheus-message-exporter (⭐17)](https://github.com/tg44/mqtt-prometheus-message-exporter) - A small service which will convert mqtt messages to prometheus metrics.
 
-## [12. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [13. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Languages
 
 *   [Brackets (⭐3)](https://github.com/kvbc/brackets) - Language made of brackets, a lot of brackets.
 
-## [13. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [14. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Streaming Sites / Anime
 
 *   [Kissanime.ac](https://kissanime.ac/) Large cartoon collection, uses RapidVideo/Openload
 
-## [14. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
+## [15. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
 ### Contributing / Uncategorized
 
 *   Your contributions are always welcome! Please visit our [contributing.md (⭐431)](https://github.com/iamericfletcher/r-learning-resources/blob/main/contributing.md) to learn how to contribute to this list.
-
-## [15. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### Static Site Generator
-
-*   [makesite (⭐1.7k)](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator (< 130 lines).
-
-### Websites
-
-*   Tutorials
-    *   [Full Stack Python](https://www.fullstackpython.com/)
-    *   [Python Cheatsheet](https://www.pythoncheatsheet.org/)
-    *   [Real Python](https://realpython.com)
-    *   [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
-    *   [Ultimate Python study guide (⭐4.4k)](https://github.com/huangsam/ultimate-python)
 
 ## [16. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

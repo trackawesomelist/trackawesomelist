@@ -17,7 +17,7 @@
 ### Development tools / FFI
 
 *   PHP
-    *   [phper-framework/phper (⭐236)](https://github.com/phper-framework/phper) — The framework that allows us to write PHP extensions using pure and safe Rust whenever possible
+    *   [phper-framework/phper (⭐237)](https://github.com/phper-framework/phper) — The framework that allows us to write PHP extensions using pure and safe Rust whenever possible
 
 ## [3. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Software / Monitoring
 
-*   [dashdot (⭐2k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.dev/)) `MIT` `Nodejs/Docker`
+*   [dashdot (⭐2.1k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.dev/)) `MIT` `Nodejs/Docker`
 
 ## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

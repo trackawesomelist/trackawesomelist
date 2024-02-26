@@ -49,7 +49,7 @@
 
 ### LangChain / Multi-agents
 
-*   [LangChain Template: Research Assistant (⭐76k)](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant)
+*   [LangChain Template: Research Assistant (⭐77k)](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant)
 
 ### Image Segmentation / Deforum
 
@@ -59,7 +59,6 @@
 
 ### PlayCanvas
 
-*   [SuperSplat](https://playcanvas.com/super-splat) - 3D Gassuian Splat Editor.
 *   [Texture Tool](https://playcanvas.com/texture-tool) - Tool for reprojecting textures.
 
 ## [6. Awesome Lit](/content/web-padawan/awesome-lit/README.md)

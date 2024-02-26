@@ -27,7 +27,7 @@
 
 ### Swift libraries
 
-*   [secp256k1.swift (⭐88)](https://github.com/GigaBitcoin/secp256k1.swift) - Swift package for secp256k1 applications, includes Elliptic Curve operations, Schnorr, ZKP and more for Bitcoin.
+*   [secp256k1.swift (⭐95)](https://github.com/GigaBitcoin/secp256k1.swift) - Swift package for secp256k1 applications, includes Elliptic Curve operations, Schnorr, ZKP and more for Bitcoin.
 
 ## [4. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 

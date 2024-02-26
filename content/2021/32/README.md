@@ -62,7 +62,7 @@
 
 ### Software / Database Management
 
-*   [NocoDB](https://www.nocodb.com/) - No-code platform that turns any database into a smart spreadsheet (alternative to Airtable or Smartsheet). ([Source Code (⭐40k)](https://github.com/nocodb/nocodb)) `GPL-3.0` `Nodejs/Docker`
+*   [NocoDB](https://www.nocodb.com/) - No-code platform that turns any database into a smart spreadsheet (alternative to Airtable or Smartsheet). ([Source Code (⭐41k)](https://github.com/nocodb/nocodb)) `GPL-3.0` `Nodejs/Docker`
 
 ## [10. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -228,7 +228,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [aPureBase/KGraphQL (⭐288)](https://github.com/aPureBase/KGraphQL) - A GraphQL implementation written in Kotlin
+*   [aPureBase/KGraphQL (⭐289)](https://github.com/aPureBase/KGraphQL) - A GraphQL implementation written in Kotlin
 
 ## [24. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
@@ -258,22 +258,18 @@
 
 ### Contents / Imaging
 
-*   [DICOMcloud (⭐200)](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
-*   [DICOM Server (⭐355)](https://github.com/microsoft/dicom-server) - OSS Implementation of DICOMweb standard.
+*   [DICOMcloud (⭐214)](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
+*   [DICOM Server (⭐411)](https://github.com/microsoft/dicom-server) - OSS Implementation of DICOMweb standard.
 *   [Fiji](https://imagej.net/software/fiji/) - Open-source platform for biological-image analysis.
 
 ### Contents / Frameworks
 
-*   [FHIR Proxy (⭐66)](https://github.com/microsoft/fhir-proxy) - secure application that acts as an intermediary in the transfer of FHIR data to and from Azure API.
-*   [FHIR Works on AWS (⭐291)](https://github.com/awslabs/fhir-works-on-aws-deployment) - FHIR Works on AWS deployment.
+*   [FHIR Proxy (⭐69)](https://github.com/microsoft/fhir-proxy) - secure application that acts as an intermediary in the transfer of FHIR data to and from Azure API.
+*   [FHIR Works on AWS (⭐296)](https://github.com/awslabs/fhir-works-on-aws-deployment) - FHIR Works on AWS deployment.
 
 ### Contents / Integration
 
-*   [FHIR Converter (⭐313)](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
-
-### Contents / Hardware
-
-*   [echOpen](https://www.echopen.org) - Low-cost (affordable) echo-stethoscope.
+*   [FHIR Converter (⭐350)](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
 
 ### Contents / Data
 
@@ -305,17 +301,17 @@
 
 ### Demos / Godot 3.2+
 
-*   [Godot Demo Projects (⭐4.7k)](https://github.com/godotengine/godot-demo-projects) - Official Godot demo projects (everything except the TPS demo).
-*   [TPS Demo (⭐857)](https://github.com/godotengine/tps-demo) - Official Godot third person shooter (TPS) demo with high quality graphics.
+*   [Godot Demo Projects (⭐4.8k)](https://github.com/godotengine/godot-demo-projects) - Official Godot demo projects (everything except the TPS demo).
+*   [TPS Demo (⭐867)](https://github.com/godotengine/tps-demo) - Official Godot third person shooter (TPS) demo with high quality graphics.
 
 ### Plugins and scripts / Various Godot versions
 
-*   [GdUnit3 (⭐296)](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework (Godot 3.x).
+*   [GdUnit3 (⭐297)](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework (Godot 3.x).
 
 ### Plugins and scripts / Godot 3.2+
 
 *   [GodotDiscordSDK (⭐53)](https://github.com/LennyPhoenix/GodotDiscordSDK) - A GDNative wrapper for the Discord Game SDK, adding support for its functionality in GDScript without recompiling the engine (as opposed to something like godotcord which is a custom engine module).
-*   [Voxel-Core (⭐424)](https://github.com/ClarkThyLord/Voxel-Core) - GDScript voxel plugin for creating, importing and editing voxel content in-engine and in-game.
+*   [Voxel-Core (⭐425)](https://github.com/ClarkThyLord/Voxel-Core) - GDScript voxel plugin for creating, importing and editing voxel content in-engine and in-game.
 
 ### Websites / Godot version unknown
 
@@ -550,9 +546,9 @@
 
 ### Applications / Blockchain
 
-*   [Bitcoin Satoshi's Vision (⭐56)](https://github.com/brentongunning/rust-sv) \[[sv](https://crates.io/crates/sv)] — A Rust library for working with Bitcoin SV .
+*   [Bitcoin Satoshi's Vision (⭐56)](https://github.com/brentongunning/rust-sv) \[[sv](https://crates.io/crates/sv)] — A library for working with Bitcoin SV.
 *   [hdwallet (⭐31)](https://github.com/jjyr/hdwallet) \[[hdwallet](https://crates.io/crates/hdwallet)] — BIP-32 HD wallet related key derivation utilities.
-*   [infincia/bip39-rs (⭐53)](https://github.com/infincia/bip39-rs) \[[bip39](https://crates.io/crates/bip39)] — Rust implementation of BIP39.
+*   [infincia/bip39-rs (⭐53)](https://github.com/infincia/bip39-rs) \[[bip39](https://crates.io/crates/bip39)] — Implementation of BIP39.
 
 ### Applications / Database
 
@@ -590,35 +586,35 @@
 *   HAR
     *   [mandrean/har-rs (⭐39)](https://github.com/mandrean/har-rs) \[[har](https://crates.io/crates/har)] — A HTTP Archive Format (HAR) serialization & deserialization library
 *   YAML
-    *   [chyh1990/yaml-rust (⭐573)](https://github.com/chyh1990/yaml-rust) — The missing YAML 1.2 implementation for Rust.
-    *   [dtolnay/serde-yaml (⭐888)](https://github.com/dtolnay/serde-yaml) \[[serde\_yaml](https://crates.io/crates/serde_yaml)] — YAML support for [Serde (⭐8.3k)](https://github.com/serde-rs/serde) framework [![build](https://img.shields.io/github/workflow/status/dtolnay/serde-yaml/CI/master)](https://github.com/dtolnay/serde-yaml/actions?query=branch%3Amaster)
-    *   [vitiral/stfu8 (⭐24)](https://github.com/vitiral/stfu8) \[[stfu8](https://crates.io/crates/stfu8)] — Sorta Text Format in UTF-8
+    *   [chyh1990/yaml-rust (⭐575)](https://github.com/chyh1990/yaml-rust) — The missing YAML 1.2 implementation.
+    *   [dtolnay/serde-yaml (⭐898)](https://github.com/dtolnay/serde-yaml) \[[serde\_yaml](https://crates.io/crates/serde_yaml)] — YAML support for [Serde (⭐8.4k)](https://github.com/serde-rs/serde) framework [![build](https://img.shields.io/github/workflow/status/dtolnay/serde-yaml/CI/master)](https://github.com/dtolnay/serde-yaml/actions?query=branch%3Amaster)
+    *   [vitiral/stfu8 (⭐25)](https://github.com/vitiral/stfu8) \[[stfu8](https://crates.io/crates/stfu8)] — Sorta Text Format in UTF-8
 
 ### Libraries / Network programming
 
 *   NNTP
-    *   [mattnenterprise/rust-nntp (⭐16)](https://github.com/mattnenterprise/rust-nntp) \[[nntp](https://crates.io/crates/nntp)] — an [NNTP](https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol) client for Rust
+    *   [mattnenterprise/rust-nntp (⭐17)](https://github.com/mattnenterprise/rust-nntp) \[[nntp](https://crates.io/crates/nntp)] — an [NNTP](https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol) client
 *   POP3
-    *   [mattnenterprise/rust-pop3 (⭐28)](https://github.com/mattnenterprise/rust-pop3) \[[pop3](https://crates.io/crates/pop3)] — A [POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) client for Rust
+    *   [mattnenterprise/rust-pop3 (⭐29)](https://github.com/mattnenterprise/rust-pop3) \[[pop3](https://crates.io/crates/pop3)] — A [POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) client
 
 ### Libraries / Parsing
 
-*   [nrc/zero (⭐45)](https://github.com/nrc/zero) \[[zero](https://crates.io/crates/zero/)] — zero-allocation parsing of binary data
+*   [nrc/zero (⭐46)](https://github.com/nrc/zero) \[[zero](https://crates.io/crates/zero/)] — zero-allocation parsing of binary data
 
 ### Libraries / Platform specific
 
 *   FreeBSD
-    *   [fubarnetes/libjail-rs (⭐49)](https://github.com/fubarnetes/libjail-rs/) \[[jail](https://crates.io/crates/jail)] — Rust implementation of a FreeBSD jail library
+    *   [fubarnetes/libjail-rs (⭐49)](https://github.com/fubarnetes/libjail-rs/) \[[jail](https://crates.io/crates/jail)] — FreeBSD jail library
 
 ### Libraries / Scripting
 
-*   [rhaiscript/rhai (⭐3.3k)](https://github.com/rhaiscript/rhai) — A tiny and fast embedded scripting language resembling a combination of JavaScript and Rust [![build badge](https://github.com/rhaiscript/rhai/workflows/Build/badge.svg)](https://github.com/rhaiscript/rhai/actions)
-*   [rune-rs/rune (⭐1.5k)](https://github.com/rune-rs/rune) — An embeddable dynamic programming language for Rust
+*   [rhaiscript/rhai (⭐3.4k)](https://github.com/rhaiscript/rhai) — A tiny and fast embedded scripting language resembling a combination of JavaScript and Rust [![build badge](https://github.com/rhaiscript/rhai/workflows/Build/badge.svg)](https://github.com/rhaiscript/rhai/actions)
+*   [rune-rs/rune (⭐1.5k)](https://github.com/rune-rs/rune) — An embeddable dynamic programming language
 
 ### Libraries / Text processing
 
 *   [pwoolcoc/ngrams (⭐27)](https://github.com/pwoolcoc/ngrams) \[[ngrams](https://crates.io/crates/ngrams)] — Construct [n-grams](https://en.wikipedia.org/wiki/N-gram) from arbitrary iterators
-*   [yaa110/rake-rs (⭐30)](https://github.com/yaa110/rake-rs) \[[rake](https://crates.io/crates/rake)] — Multilingual implementation of RAKE algorithm for Rust
+*   [yaa110/rake-rs (⭐31)](https://github.com/yaa110/rake-rs) \[[rake](https://crates.io/crates/rake)] — Multilingual implementation of RAKE algorithm for Rust
 
 ## [45. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
@@ -646,7 +642,7 @@
 
 ### E-mail Search / E-mail Check / Telegram
 
-*   [Ghunt (⭐14k)](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
+*   [Ghunt (⭐15k)](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
 
 ## [48. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -710,11 +706,11 @@
 
 ### Adapters / Server-side
 
-*   [Rust (⭐23)](https://github.com/stuarth/inertia-rs)
+*   [Rust (⭐26)](https://github.com/stuarth/inertia-rs)
 
 ### Resources / Examples
 
-*   [Ping CRM / Clojure (⭐97)](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
+*   [Ping CRM / Clojure (⭐102)](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
 
 ## [55. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 

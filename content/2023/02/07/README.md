@@ -16,7 +16,7 @@
 
 ### Logging
 
-*   [ecto\_dev\_logger (⭐140)](https://github.com/fuelen/ecto_dev_logger) - An alternative logger for Ecto queries that helps in debugging.
+*   [ecto\_dev\_logger (⭐142)](https://github.com/fuelen/ecto_dev_logger) - An alternative logger for Ecto queries that helps in debugging.
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Audio Libraries
 
-*   [chord-mark (⭐32)](https://github.com/no-chris/chord-mark) - reference implementation of ChordMark, a text notation format for lyrics, chords and rhythm.
+*   [chord-mark (⭐37)](https://github.com/no-chris/chord-mark) - reference implementation of ChordMark, a text notation format for lyrics, chords and rhythm.
 
 ### Music Notation
 

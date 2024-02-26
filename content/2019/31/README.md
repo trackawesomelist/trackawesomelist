@@ -115,15 +115,15 @@
 
 ### Asynchronous Event Loop
 
-*   [promise-cpp (⭐634)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
+*   [promise-cpp (⭐635)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
 
 ### Configuration
 
-*   [inih (⭐2.2k)](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. \[BSD-3-Clause]
-*   [inih (⭐422)](https://github.com/jtilly/inih) - Single header only C++ version of [inih (⭐2.2k)](https://github.com/benhoyt/inih). \[BSD-3-Clause]
-*   [iniparser (⭐925)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]\*
-*   [libconfuse (⭐456)](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. \[ISC]
-*   [simpleini (⭐974)](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. \[MIT]
+*   [inih (⭐2.3k)](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. \[BSD-3-Clause]
+*   [inih (⭐422)](https://github.com/jtilly/inih) - Single header only C++ version of [inih (⭐2.3k)](https://github.com/benhoyt/inih). \[BSD-3-Clause]
+*   [iniparser (⭐927)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]\*
+*   [libconfuse (⭐459)](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. \[ISC]
+*   [simpleini (⭐979)](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. \[MIT]
 
 ### Font
 
@@ -154,7 +154,7 @@
 
 ### Memory Allocation
 
-*   [tgc (⭐901)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. \[BSD]
+*   [tgc (⭐903)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. \[BSD]
 
 ### Networking
 
@@ -187,7 +187,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [Gossa (⭐806)](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
+*   [Gossa (⭐812)](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
 
 ## [14. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -635,7 +635,7 @@
 ### Platforms
 
 *   [WebExtensions (⭐1.2k)](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
-*   [Cloudflare (⭐485)](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
+*   [Cloudflare (⭐501)](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
 
 ### Programming Languages
 
@@ -643,8 +643,8 @@
 
 ### Front-End Development
 
-*   [Angular (⭐9.1k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
-*   [Blazor (⭐8.2k)](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+*   [Angular (⭐9.2k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
+*   [Blazor (⭐8.4k)](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
 ### Back-End Development
 
@@ -656,18 +656,18 @@
 
 ### Miscellaneous
 
-*   [FOSS Production Apps (⭐274)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
+*   [FOSS Production Apps (⭐278)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 *   [Crypto Currency Tools & Algorithms (⭐3.8k)](https://github.com/Zheaoli/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
 
 ## [37. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Code Analysis and Metrics
 
-*   [ameba (⭐488)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
+*   [ameba (⭐496)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
 
 ### HTTP
 
-*   [Cable (⭐118)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
+*   [Cable (⭐120)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
 
 ## [38. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 

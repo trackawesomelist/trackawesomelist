@@ -10,13 +10,13 @@
 
 ### Libraries and Frameworks
 
-*   [uppy (⭐27k)](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
+*   [uppy (⭐28k)](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Authentication
 
-*   [oauth2 (⭐797)](https://github.com/ramosbugs/oauth2-rs) — Extensible, strongly-typed Rust OAuth2 client library
+*   [oauth2 (⭐803)](https://github.com/ramosbugs/oauth2-rs) — Extensible, strongly-typed OAuth2 client library
 
 ## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

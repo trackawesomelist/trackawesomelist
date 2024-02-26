@@ -61,10 +61,6 @@
 
 ## [2. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
 
-### Other / Music
-
-*   [FairyTailAI](https://fairytailai.com/) - Personalized bedtime story generator
-
 ### Text / Chatbots
 
 *   [AICamp](https://aicamp.so/) - ChatGPT for Teams
@@ -75,13 +71,19 @@
 
 *   [KrakenD API Gateway (⭐1.6k) (⭐1.7k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance API Gateway that leverages middlewares for fast and efficient API management.
 
-## [4. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Auxiliary tools and concepts / Deforum
+
+*   [FairyTailAI](https://fairytailai.com/): Personalized bedtime story generator
+
+## [5. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming SQL
 
 *   [Proton (⭐757)](https://github.com/timeplus-io/proton) \[C++] - A unified streaming and historical data analytics database in a single binary, powered by ClickHouse.
 
-## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Web / Web Application Firewall
 
@@ -91,13 +93,13 @@
 
 *   [Node.js Secure Coding: Prevention and Exploitation of Path Traversal Vulnerabilities](https://www.nodejs-security.com/book/path-traversal) - Master secure coding in Node.js with real-world vulnerable dependencies and experience firsthand secure coding techniques against Path Traversal vulnerabilities.
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### GUI
 
-*   [TGUI (⭐735)](https://github.com/texus/TGUI) - Cross-platform modern c++ GUI. \[Zlib] [website](https://tgui.eu/)
+*   [TGUI (⭐739)](https://github.com/texus/TGUI) - Cross-platform modern c++ GUI. \[Zlib] [website](https://tgui.eu/)
 
-## [7. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [8. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Land Use and Land Cover
 
@@ -111,19 +113,19 @@
 
 *   [Enscape](https://enscape3d.com/) - Enscape is an easy-to-use rendering software that produces quick, realistic and customizable rendering images for urban design and architectural visualization. The tool integrates well with commonly used 3D modeling softwares such as Rhino, SketchUp, etc.
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Internet of Things (IoT)
 
 *   [Tasmota](https://tasmota.com) - Open source firmware for ESP devices. Total local control with quick setup and updates. Control using MQTT, Web UI, HTTP or serial. Automate using timers, rules or scripts. Integration with home automation solutions. ([Source Code (⭐21k)](https://github.com/arendst/Tasmota)) `GPL-3.0` `C/C++`
 
-## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Date / Time picker
 
-*   [schedule-x (⭐700)](https://github.com/schedule-x/schedule-x) - Material design event calendar and date picker components. Demo site: <https://schedule-x.dev/>
+*   [schedule-x (⭐741)](https://github.com/schedule-x/schedule-x) - Material design event calendar and date picker components. Demo site: <https://schedule-x.dev/>
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -133,17 +135,11 @@
 
 *   [linrongbin16/gentags.nvim (⭐10)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
 
-## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Mathematics
-
-*   [Linear Algebra Done Right](https://linear.axler.net) - Sheldon Axler
-
 ## [12. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
-*   [obl.ong (⭐12)](https://github.com/obl-ong/admin) - A multi-tenant subdomain control panel (using Rails 7.1) - [🌍](https://obl.ong)
+*   [obl.ong (⭐15)](https://github.com/obl-ong/admin) - A multi-tenant subdomain control panel (using Rails 7.1) - [🌍](https://obl.ong)
 
 ---
 

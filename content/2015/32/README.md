@@ -226,7 +226,7 @@ git stash push --include-untracked
 
 ### BitTorrent
 
-*   [jech/dht (⭐672)](https://github.com/jech/dht) - BitTorrent DHT library in C. \[MIT]
+*   [jech/dht (⭐673)](https://github.com/jech/dht) - BitTorrent DHT library in C. \[MIT]
 *   [libtorrent (⭐4.9k)](https://github.com/arvidn/libtorrent) (a.k.a. libtorrent-rasterbar) - An efficient feature complete C++ bittorrent implementation. \[BSD]
 *   [LibTorrent (⭐874)](https://github.com/rakshasa/libtorrent) (a.k.a. libtorrent-rakshasa) - BitTorrent library. \[GPL]
 *   [libutp (⭐1.1k)](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library. \[MIT]
@@ -237,16 +237,16 @@ git stash push --include-untracked
 
 ### Image Processing
 
-*   [GD (⭐859)](https://github.com/libgd/libgd) - GD Graphics Library, famously used in PHP for image loading/manipulation & thumbnail generation. \[custom permissive license, requires mention in user docs] [website](http://libgd.github.io/)
+*   [GD (⭐862)](https://github.com/libgd/libgd) - GD Graphics Library, famously used in PHP for image loading/manipulation & thumbnail generation. \[custom permissive license, requires mention in user docs] [website](http://libgd.github.io/)
 
 ### Logging
 
-*   [G3log (⭐867)](https://github.com/KjellKod/g3log) - Asynchronous logger with Dynamic Sinks. \[PublicDomain]
-*   [reckless (⭐465)](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++. \[MIT]
+*   [G3log (⭐870)](https://github.com/KjellKod/g3log) - Asynchronous logger with Dynamic Sinks. \[PublicDomain]
+*   [reckless (⭐466)](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++. \[MIT]
 
 ### Math
 
-*   [LibTomMath (⭐622)](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. \[PublicDomain & WTFPL] [website](http://www.libtom.net/)
+*   [LibTomMath (⭐621)](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. \[PublicDomain & WTFPL] [website](http://www.libtom.net/)
 
 ### Coding Style Tools
 
@@ -472,12 +472,12 @@ git stash push --include-untracked
 
 ### Applications / Directory Navigation
 
-*   [isitup (⭐58)](https://github.com/lord63/isitup) - Check whether a website is up or down
-*   [licen (⭐36)](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
+*   [isitup (⭐61)](https://github.com/lord63/isitup) - Check whether a website is up or down
+*   [licen (⭐37)](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
 
 ### Shell Script Development / Directory Navigation
 
-*   [assert.sh (⭐477)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
+*   [assert.sh (⭐479)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
 
 ## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -536,7 +536,7 @@ git stash push --include-untracked
 
 ### Table of Contents / Architectural
 
-*   [Pipeline (⭐927)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
+*   [Pipeline (⭐931)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 
 ## [32. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 

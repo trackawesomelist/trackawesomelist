@@ -8,10 +8,6 @@
 
 ## [1. Awesome Python](/content/vinta/awesome-python/README.md)
 
-### Date and Time
-
-*   [moment (⭐716)](https://github.com/zachwill/moment) - A Python library for dealing with dates/times. Inspired by [Moment.js](http://momentjs.com/).
-
 ### Science
 
 *   [NetworkX](https://networkx.github.io/) - A high-productivity software for complex networks.

@@ -16,7 +16,7 @@
 
 ### MIDI Tools & Libraries
 
-*   [JJazzLab-X (⭐296)](https://github.com/jjazzboss/JJazzLab-X) - a complete Midi-based framework for automatic backing tracks generation.
+*   [JJazzLab-X (⭐0)](https://github.com/jjazzboss/JJazzLab-X) - a complete Midi-based framework for automatic backing tracks generation.
 
 ## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -110,13 +110,13 @@
 
 ### Libraries/Frameworks / Web
 
-*   [mvysny/vaadin-on-kotlin (⭐178)](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack database-backed component-oriented web apps
+*   [mvysny/vaadin-on-kotlin (⭐177)](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack database-backed component-oriented web apps
 
 ## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [Vue Naive (⭐2.1k)](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
+*   [Vue Naive (⭐2.2k)](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
 
 ### Framework-agnostic Plugins / Transformers
 

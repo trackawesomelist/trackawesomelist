@@ -61,7 +61,7 @@
 
 ### Miscellaneous
 
-*   [Translations (⭐93)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
+*   [Translations (⭐104)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 
 ## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-mpa (⭐209)](https://github.com/IndexXuan/vite-plugin-mpa) - Out-of-box multi-page application (MPA) integration.
+*   [vite-plugin-mpa (⭐213)](https://github.com/IndexXuan/vite-plugin-mpa) - Out-of-box multi-page application (MPA) integration.
 
 ### Vue CLI / Community
 

@@ -45,7 +45,7 @@
 
 ### Applications / Database
 
-*   [Qrlew/qrlew (⭐20)](https://github.com/Qrlew/qrlew) \[[qrlew](https://crates.io/crates/qrlew)] - The SQL-to-SQL Differential Privacy layer [![Qrlew](https://github.com/Qrlew/qrlew/actions/workflows/ci.yml/badge.svg)](https://github.com/Qrlew/qrlew/actions) ![Crates.io Version](https://img.shields.io/crates/v/qrlew?logo=Rust)
+*   [Qrlew/qrlew (⭐22)](https://github.com/Qrlew/qrlew) \[[qrlew](https://crates.io/crates/qrlew)] - The SQL-to-SQL Differential Privacy layer [![Qrlew](https://github.com/Qrlew/qrlew/actions/workflows/ci.yml/badge.svg)](https://github.com/Qrlew/qrlew/actions) ![Crates.io Version](https://img.shields.io/crates/v/qrlew?logo=Rust)
 
 ## [7. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
@@ -57,19 +57,19 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Chibisafe](https://chibisafe.moe) - File uploader service that aims to to be easy to use and set up. It accepts files, photos, documents, anything you imagine and gives you back a shareable link for you to send to others. ([Source Code (⭐1.3k)](https://github.com/chibisafe/chibisafe)) `MIT` `Docker/Nodejs`
+*   [Chibisafe](https://chibisafe.moe) - File uploader service that aims to to be easy to use and set up. It accepts files, photos, documents, anything you imagine and gives you back a shareable link for you to send to others. ([Source Code (⭐1.4k)](https://github.com/chibisafe/chibisafe)) `MIT` `Docker/Nodejs`
 
 ### Software / Genealogy
 
-*   [Gramps Web](https://www.grampsweb.org/) - Web app for collaborative genealogy, based on and interoperable with Gramps, the open source genealogy desktop application. ([Demo](https://gramps-project.github.io/gramps-web-api/), [Source Code (⭐60)](https://github.com/gramps-project/gramps-web-api)) `AGPL-3.0` `Docker`
+*   [Gramps Web](https://www.grampsweb.org/) - Web app for collaborative genealogy, based on and interoperable with Gramps, the open source genealogy desktop application. ([Demo](https://gramps-project.github.io/gramps-web-api/), [Source Code (⭐62)](https://github.com/gramps-project/gramps-web-api)) `AGPL-3.0` `Docker`
 
 ### Software / Groupware
 
-*   [Twenty](https://twenty.com) - A modern CRM offering the flexibility of open source, advanced features, and a sleek design. ([Source Code (⭐8.4k)](https://github.com/twentyhq/twenty)) `AGPL-3.0` `Docker`
+*   [Twenty](https://twenty.com) - A modern CRM offering the flexibility of open source, advanced features, and a sleek design. ([Source Code (⭐8.6k)](https://github.com/twentyhq/twenty)) `AGPL-3.0` `Docker`
 
 ### Software / Pastebins
 
-*   [ybFeed (⭐10)](https://github.com/ybizeul/ybFeed) - ybFeed is a personal micro feed where you can post snippets of text or images. `MIT` `Go/Nodejs/Docker`
+*   [ybFeed (⭐14)](https://github.com/ybizeul/ybFeed) - Personal micro feed where you can post snippets of text or images. `MIT` `Go/Nodejs/Docker`
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

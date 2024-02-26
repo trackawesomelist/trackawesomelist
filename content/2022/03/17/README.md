@@ -16,7 +16,7 @@
 
 ### Libraries / Python
 
-*   [osmcha (⭐39)](https://github.com/willemarcel/osmcha) - Python package to detect suspicious OSM changesets.
+*   [osmcha (⭐40)](https://github.com/willemarcel/osmcha) - Python package to detect suspicious OSM changesets.
 
 ### Additional Resources / Wiki-Pages
 
@@ -55,11 +55,11 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [terraform (ptavares) (⭐2)](https://github.com/ptavares/zsh-terraform) - Adds aliases, functions and tab completions. Also installs [terraform-docs (⭐3.9k)](https://github.com/terraform-docs/terraform-docs), [tfsec (⭐6.4k)](https://github.com/aquasecurity/tfsec) and [tflint (⭐4.4k)](https://github.com/terraform-linters/tflint).
+*   [terraform (ptavares) (⭐2)](https://github.com/ptavares/zsh-terraform) - Adds aliases, functions and tab completions. Also installs [terraform-docs (⭐3.9k)](https://github.com/terraform-docs/terraform-docs), [tfsec (⭐6.5k)](https://github.com/aquasecurity/tfsec) and [tflint (⭐4.5k)](https://github.com/terraform-linters/tflint).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [yuyuko (⭐1)](https://github.com/hylwxqwq/yuyuko.zsh-theme) - Fork of [ys (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme), inspired by [yuyuko.vim (⭐22)](https://github.com/hylwxqwq/yuyuko.vim).
+*   [yuyuko (⭐1)](https://github.com/hylwxqwq/yuyuko.zsh-theme) - Fork of [ys (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme), inspired by [yuyuko.vim (⭐26)](https://github.com/hylwxqwq/yuyuko.vim).
 
 ## [7. Awesome Evm Security](/content/kareniel/awesome-evm-security/README.md)
 
@@ -188,7 +188,7 @@
 
 ### Applications / Utilities
 
-*   [1History (⭐406)](https://github.com/1History/1History) — Command line interface to backup Firefox/Chrome/Safari history to one SQLite file [![Build Status](https://github.com/1History/1History/actions/workflows/CI.yml/badge.svg)](https://github.com/1History/1History/actions/workflows/CI.yml)
+*   [1History (⭐407)](https://github.com/1History/1History) — Command line interface to backup Firefox/Chrome/Safari history to one SQLite file [![Build Status](https://github.com/1History/1History/actions/workflows/CI.yml/badge.svg)](https://github.com/1History/1History/actions/workflows/CI.yml)
 
 ### Libraries / Command-line
 

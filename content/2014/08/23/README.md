@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 23, 2014
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,21 +16,15 @@
 
 ### Table of Contents / Email
 
-*   [CssToInlineStyles (⭐5.7k)](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
+*   [CssToInlineStyles (⭐5.8k)](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
 
-## [3. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### Date and Time
-
-*   [delorean (⭐1.8k)](https://github.com/myusuf3/delorean/) - A library for clearing up the inconvenient truths that arise dealing with datetimes.
-
-## [4. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [3. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2014
 
 *   [Gary Bernhardt: **The Birth & Death of Javascript**](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) \[29:22]
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Network / Barcode
 

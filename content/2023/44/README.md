@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 30 - Nov 05, 2023
 
-49 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -175,36 +175,30 @@
 
 ### Database
 
-*   [Velox (⭐2.9k)](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. \[Apache-2.0] [website](https://velox-lib.io/)
+*   [Velox (⭐3k)](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. \[Apache-2.0] [website](https://velox-lib.io/)
 
 ### Articles
 
-*   [CppCon 2023 Presentation Materials (⭐123)](https://github.com/CppCon/CppCon2023) - CppCon 2023 Presentation Materials.
-*   [CppCon 2022 Presentation Materials (⭐487)](https://github.com/CppCon/CppCon2022) - CppCon 2022 Presentation Materials.
-*   [CppCon 2021 Presentation Materials (⭐77)](https://github.com/CppCon/CppCon2021) - CppCon 2021 Presentation Materials.
+*   [CppCon 2023 Presentation Materials (⭐138)](https://github.com/CppCon/CppCon2023) - CppCon 2023 Presentation Materials.
+*   [CppCon 2022 Presentation Materials (⭐489)](https://github.com/CppCon/CppCon2022) - CppCon 2022 Presentation Materials.
+*   [CppCon 2021 Presentation Materials (⭐78)](https://github.com/CppCon/CppCon2021) - CppCon 2021 Presentation Materials.
 *   [C++Now 2023 Presentations (⭐74)](https://github.com/boostcon/cppnow_presentations_2023) - Presentation materials presented at C++Now 2023.
 *   [C++Now 2022 Presentations (⭐1)](https://github.com/boostcon/cppnow_presentations_2022) - Presentation materials presented at C++Now 2022.
 *   [C++Now 2021 Presentations (⭐2)](https://github.com/boostcon/cppnow_presentations_2021) - Presentation materials presented at C++Now 2021.
 
-## [21. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
-
-### Projects / Messaging
-
-*   [Apache Qpid (⭐55) (⭐55)](https://github.com/apache/qpid-broker-j) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
-
-## [22. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [21. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Databases
 
 *   [Human Virus Database (HVD)](http://computationalbiology.cn/humanVirusBase/#/) - A database of human viruses, including information on infected tissues. See description and use in a predictive model in [Ye et al. 2022](https://academic.oup.com/bioinformatics/article-abstract/38/11/3087/6569817?redirectedFrom=fulltext)
 
-## [23. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [22. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### State Management / Components
 
 *   [exome (⭐127)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 
-## [24. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
+## [23. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
 
 ### Customer Support
 
@@ -227,7 +221,7 @@
 *   [AI Passport Photo](https://aipassportphoto.com/) - Take A Photo with Your Mobile Phone and Get Your Passport Photo in Seconds. `freemium`
 *   [Picsart](https://picsart.com/ai-image-generator/) - Convert words into an image in mere seconds with the Picsart AI Image Generator. `#freemium`
 
-## [25. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [24. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Human Concept Representation
 
@@ -243,23 +237,23 @@
 *   [Skilful nowcasting of extreme precipitation with NowcastNet](https://www.nature.com/articles/s41586-023-06184-4) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17837864391812838009\&hl=en\&as_sdt=0,5)].
 *   [Single-atom alloy catalysts designed by first-principles calculations and artificial intelligence](https://www.nature.com/articles/s41467-021-22048-9) - ***Nature Communications***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=6593978922251447907\&hl=en\&as_sdt=0,5)].
 
-## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [25. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
-*   [WinterJS (⭐853)](https://github.com/wasmerio/winterjs) — A secure JavaScript runtime built with SpiderMonkey, Rust and Axum
+*   [WinterJS (⭐903)](https://github.com/wasmerio/winterjs) — A secure JavaScript runtime built with SpiderMonkey and Axum
 
 ### Libraries / Scripting
 
-*   [3body-lang (⭐118)](https://github.com/rustq/3body-lang) - The Three Body Language written in Rust
+*   [3body-lang (⭐119)](https://github.com/rustq/3body-lang) - The Three Body Language
 
-## [27. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [26. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
-*   🧬 [Htmx (⭐8)](https://github.com/aniftyco/tailwind-htmx) - Adds variants for styling on [htmx](https://htmx.org/reference/#classes) events.
+*   🧬 [Htmx (⭐9)](https://github.com/aniftyco/tailwind-htmx) - Adds variants for styling on [htmx](https://htmx.org/reference/#classes) events.
 
-## [28. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [27. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Typescript Project Starters
 
@@ -270,19 +264,19 @@
 *   [OXC (⭐5.9k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
 *   [biome (⭐6.8k)](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second
 
-## [29. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [28. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Rust / Git
 
 *   [botan-rs (⭐22)](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
 
-## [30. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [29. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
-### Libraries/Packages/Scripts / Python
+### Tools / CI
 
-*   [polars-business (⭐120)](https://github.com/MarcoGorelli/polars-business) - Polars extension that offers utilities for business day operations with Polars and Python by [@MarcoGorelli](https://github.com/MarcoGorelli).
+*   [setup-opentofu (⭐54)](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
 
-## [31. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [30. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
@@ -293,7 +287,7 @@
 *   [Langroid (⭐739)](https://github.com/langroid/langroid): an intuitive, lightweight, extensible and principled Python framework to easily build LLM-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langroid/langroid?style=social)
 *   [Langstream (⭐330)](https://github.com/rogeriochaves/langstream): Build robust LLM applications with true composability 🔗 ![GitHub Repo stars](https://img.shields.io/github/stars/rogeriochaves/langstream?style=social)
 
-## [32. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [31. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### IRB
 
@@ -301,15 +295,15 @@
 
 ### Natural Language Processing
 
-*   [ruby-spellchecker (⭐9)](https://github.com/omohokcoj/ruby-spellchecker) - English spelling and grammar checker that can be used for autocorrection.
+*   [ruby-spellchecker (⭐10)](https://github.com/omohokcoj/ruby-spellchecker) - English spelling and grammar checker that can be used for autocorrection.
 
-## [33. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [32. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Package Manager / Miscellaneous
 
 *   [bun](https://bun.sh) - All-in-one toolkit for JavaScript and TypeScript apps.
 
-## [34. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [33. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Housing
 
@@ -319,19 +313,19 @@
 
 *   [Dash](https://dash.plotly.com/) - Dash is an open source python library for building interactive data visualizations on the web. It enables you to build custom data dashboards using pure Python.
 
-## [35. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [34. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Shadowsworn: Haunts](https://nightsandweekends.itch.io/shadowsworn-haunts) - Frameworks for modern horror games
 
-## [36. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [35. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions / Extension Scripts
 
 *   [Directus Hook Library (⭐10)](https://github.com/formfcw/directus-hook-library) - A collection of customizable hooks for Directus.
 
-## [37. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [36. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -344,7 +338,7 @@
 *   Memory safety (e.g., null pointer dereferences) \* User-specified assertions (i.e., assert!(...)) \* The absence of panics (e.g., unwrap() on None values) \* The absence of some types of unexpected behavior (e.g., arithmetic overflows)
 *   [vale](https://vale.sh) — A syntax-aware linter for prose built with speed and extensibility in mind.
 
-## [38. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [37. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -360,7 +354,7 @@
 
 *   [Gymnasium (⭐4.8k)](https://github.com/Farama-Foundation/Gymnasium) - A library for developing and comparing reinforcement learning algorithms (successor of \[gym])([https://github.com/openai/gym (⭐33k)](https://github.com/openai/gym)).
 
-## [39. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [38. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Algorithms / Unsupervised Learning
 
@@ -393,7 +387,7 @@
 
 *   [The Humanitarian Data Exchange](https://data.humdata.org/)
 
-## [40. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [39. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Models
 
@@ -417,7 +411,7 @@
 *   [OpenAI Cookbook (⭐54k)](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 *   [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
 
-## [41. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [40. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs, and training materials / Community Chat Rooms
 
@@ -427,7 +421,7 @@
 
 *   [AD9850](https://crates.io/crates/ad9850) - Embedded driver for the AD9850 DDS synthesizer chip - ![crates.io](https://img.shields.io/crates/v/ad9850.svg)
 
-## [42. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [41. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Caches
 
@@ -439,13 +433,13 @@
 
 ### Security
 
-*   [beelzebub (⭐499)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
+*   [beelzebub (⭐508)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
 
 ### Server Applications
 
 *   [etcd (⭐46k)](https://github.com/etcd-io/etcd) - Highly-available key value store for shared configuration and service discovery.
 
-## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [42. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -476,7 +470,7 @@
 
 *   [benlubas/molten-nvim (⭐204)](https://github.com/benlubas/molten-nvim) - Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code.
 
-## [44. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [43. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -594,7 +588,7 @@
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
-## [45. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [44. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Human-AI Interaction
 
@@ -644,7 +638,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Large Language Models (LLMs)
 
-*   [cpacker/MemGPT (⭐7.6k)](https://github.com/cpacker/MemGPT): teaching LLMs memory management for unbounded context [\[demo page\]](https://memgpt.ai/) [\[arxiv\]](https://arxiv.org/abs/2310.08560)
+*   [cpacker/MemGPT (⭐7.9k)](https://github.com/cpacker/MemGPT): teaching LLMs memory management for unbounded context [\[demo page\]](https://memgpt.ai/) [\[arxiv\]](https://arxiv.org/abs/2310.08560)
 *   [\[2307.10169\] Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169): a systematic set of open problems and application successes of LLM area
 *   [Related resources from around the web | OpenAI Cookbook](https://cookbook.openai.com/articles/related_resources): tools and papers for improving outputs from GPT
 *   \[🔥🔥🔥] [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/): "practical patterns for integrating large language models (LLMs) into systems & products" by Eugene Yan
@@ -653,7 +647,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 ### Related Awesome Lists / Deforum
 
 *   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐12k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
-*   [AlexChalakov/awesome-generative-ai-companies (⭐78)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
+*   [AlexChalakov/awesome-generative-ai-companies (⭐79)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 
 ### Prompt Engineering / Prompt Engineering for Text-to-text
 
@@ -670,7 +664,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [Rerankers and Two-Stage Retrieval | Pinecone](https://www.pinecone.io/learn/series/rag/rerankers/)
 *   [Retrieval Augmented Generation | Pinecone](https://www.pinecone.io/learn/series/rag/)
-*   [dssjon/biblos: biblos.app (⭐174)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
+*   [dssjon/biblos: biblos.app (⭐175)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
@@ -713,29 +707,29 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [Hassan El Mghari (@nutlope) / X](https://twitter.com/nutlope): the creator of [roomgpt](https://roomgpt.io)
 
-## [46. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [45. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Servas (⭐436)](https://github.com/beromir/Servas) - A self-hosted bookmark management tool. It allows organization with tags, groups, and a list specifically for later access. It supports multiple users with 2FA. Companion browser extensions are available for Firefox and Chrome. ([Clients (⭐436)](https://github.com/beromir/Servas#browser-extensions)) `GPL-3.0` `Docker/Nodejs/PHP`
+*   [Servas (⭐451)](https://github.com/beromir/Servas) - A self-hosted bookmark management tool. It allows organization with tags, groups, and a list specifically for later access. It supports multiple users with 2FA. Companion browser extensions are available for Firefox and Chrome. ([Clients (⭐451)](https://github.com/beromir/Servas#browser-extensions)) `GPL-3.0` `Docker/Nodejs/PHP`
 
 ### Software / Software Development - API Management
 
 *   [Psychic (⭐1.6k)](https://github.com/psychic-api/psychic) - Universal API to connect large language models to dynamic data sources. `GPL-3.0` `Python`
 
-## [47. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [46. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [AntonioFalcaoJr/EventualShop (⭐267)](https://github.com/AntonioFalcaoJr/EventualShop#readme) - The project has a logo and well-defined sections such as: information about the project, the architectural solution, along with reference links such as articles, videos, and documentation. It explains how to run the project in different environments (development and production). It has documented load tests, it also describes which technologies are used, and it has diagrams for the archetype.
 *   [skydio/revup (⭐258)](https://github.com/Skydio/revup#readme) - Project logo. Animated GIF demo + GIFs for major stages of the step-by-step tutorial. Concise explanation, installation instructions, and contribution section.
 
-## [48. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [47. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [asdf (kiurchv) (⭐15)](https://github.com/kiurchv/asdf.plugin.zsh) - Integration and completions for [asdf (⭐20k)](https://github.com/asdf-vm/asdf), the extendable version manager, with support for Ruby, Node.js, Elixir, Erlang and more.
-*   [asdf (zimfw) (⭐6)](https://github.com/zimfw/asdf) - Initializes [asdf (⭐20k)](https://github.com/asdf-vm/asdf), installing it using `git` if not installed yet. Also, bypasses the shims if you're using the [direnv (⭐498)](https://github.com/asdf-community/asdf-direnv) plugin, as suggested by the plugin [pro-tips (⭐498)](https://github.com/asdf-community/asdf-direnv/#pro-tips).
+*   [asdf (zimfw) (⭐7)](https://github.com/zimfw/asdf) - Initializes [asdf (⭐20k)](https://github.com/asdf-vm/asdf), installing it using `git` if not installed yet. Also, bypasses the shims if you're using the [direnv (⭐499)](https://github.com/asdf-community/asdf-direnv) plugin, as suggested by the plugin [pro-tips (⭐499)](https://github.com/asdf-community/asdf-direnv/#pro-tips).
 *   [telepresence (⭐0)](https://github.com/alexgervais/telepresence-ps1) - Add the current [Telepresence](https://www.telepresence.io/) connection status and context to your ZSH prompt.
 *   [zload (⭐14)](https://github.com/mollifier/zload) - Hot Reload for ZSH functions. Enables rapid development.
 
@@ -743,23 +737,9 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [domixgit (⭐0)](https://github.com/tariqdomi/ohmyzsh-domixgit) - Prompt with `git` status and current directory decorators.
 *   [magpie (⭐0)](https://github.com/wdjcodes/magpie) - Minimalist theme with custom logic to display paths relative to the root of the current `git`. Includes decorators for time, current directory, username\@hostname and `git` status.
-*   [princess (⭐0)](https://github.com/mellypop/princess) - Modeled after [abhiyan.zsh (⭐2)](https://github.com/abhiyandhakal/abhiyan.zsh) with perhaps a bit too much pink and arguably too few emojis. Includes decorators for current directory and `git` status.
+*   [princess (⭐0)](https://github.com/mellypop/princess) - Modeled after [abhiyan.zsh (⭐3)](https://github.com/abhiyandhakal/abhiyan.zsh) with perhaps a bit too much pink and arguably too few emojis. Includes decorators for current directory and `git` status.
 *   [sdkman (matthieusb) (⭐54)](https://github.com/matthieusb/zsh-sdkman) - Add tab completions for [sdkman](https://sdkman.io/).
 *   [sdkman (yongxingzhao) (⭐0)](https://github.com/yongxingzhao/zsh-sdkman) - Add tab completions for [sdkman](https://sdkman.io/).
-
-## [49. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Algorithms & Data Structures
-
-*   [Algorithms and Data Structures - With Applications to Graphics and Geometry](https://textbookequity.org/Textbooks/Nievergelt_Algorithms%20and%20Data%20Structures08.pdf) - Jurg Nievergelt, Klaus Hinrichs (PDF)
-
-### Data Science
-
-*   [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) - Max Kuhn, Kjell Johnson
-
-### Machine Learning
-
-*   [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) - Christopher M. Bishop (PDF)
 
 ---
 

@@ -125,7 +125,7 @@ Language: English
 
 ### Projects
 
-*   [Minesweeper (⭐31)](https://github.com/jgpaiva/minesweeper) - Minesweeper built with Rust, Yew and WebAssembly.
+*   [Minesweeper (⭐32)](https://github.com/jgpaiva/minesweeper) - Minesweeper built with Rust, Yew and WebAssembly.
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

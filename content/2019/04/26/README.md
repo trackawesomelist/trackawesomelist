@@ -16,7 +16,7 @@
 
 ### Misc
 
-*   [crystal-web-framework-stars (⭐67)](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
+*   [crystal-web-framework-stars (⭐68)](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
 
 ## [3. Awesome Adafruitio](/content/adafruit/awesome-adafruitio/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Concurrency
 
-*   [FiberTaskingLib (⭐859)](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. \[Apache]
+*   [FiberTaskingLib (⭐862)](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. \[Apache]
 
 ### Debug
 

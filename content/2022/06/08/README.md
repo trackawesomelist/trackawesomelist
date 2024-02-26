@@ -71,7 +71,7 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Kanboard](https://kanboard.org/) - Simple and open source visual task board. ([Source Code (⭐7.9k)](https://github.com/kanboard/kanboard)) `MIT` `PHP`
+*   [Kanboard](https://kanboard.org/) - Simple and open source visual task board. ([Source Code (⭐8k)](https://github.com/kanboard/kanboard)) `MIT` `PHP`
 
 ## [8. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 

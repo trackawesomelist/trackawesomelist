@@ -34,7 +34,7 @@
 
 ### Front-End Development
 
-*   [Tiny JS (⭐585)](https://github.com/thoughtspile/awesome-tiny-js#readme) - Frontend libraries that fit into 2 kB with dependencies.
+*   [Tiny JS (⭐612)](https://github.com/thoughtspile/awesome-tiny-js#readme) - Frontend libraries that fit into 2 kB with dependencies.
 
 ## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -209,7 +209,7 @@
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [mikhail-bigun/go-app-template (⭐5)](https://github.com/mikhail-bigun/go-app-template) - Clean architecture Go application boilerplate with enriched Fiber implementation.
+*   [mikhail-bigun/go-app-template (⭐13)](https://github.com/mikhail-bigun/go-app-template) - Clean architecture Go application boilerplate with enriched Fiber implementation.
 
 ## [12. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
@@ -288,7 +288,6 @@ Topics: React, React Native, GraphQL, Universal Components\
 ### Articles / Obsidian
 
 *   [You Won't Regret Positive Feedback](https://zachholman.com/posts/positive-feedback/) - By [Zach Holman](https://zachholman.com).
-*   [A Minimum Viable Product Is Not a Product, It's a Process](https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process) - By [Yevgeniy Brikman](https://www.ycombinator.com/blog/author/yevgeniy-brikman).
 *   [Being Glue](https://noidea.dog/glue) - By [Tanya Reilly](https://noidea.dog/about).
 *   [How to build great products](https://www.defmacro.org/2013/09/26/products.html) - By [Slava Akhmechet](https://www.defmacro.org).
 *   [If your product is Great, it doesn't need to be Good](https://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html) - By [Paul Bucheit](http://en.wikipedia.org/wiki/Paul_Buchheit).
@@ -313,11 +312,11 @@ Topics: React, React Native, GraphQL, Universal Components\
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [archlinux (fourdim) (⭐1)](https://github.com/fourdim/zsh-archlinux) - Defines helper functions for `pacman` on Arch Linux.
-*   [archlinux (junker) (⭐9)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
-*   [base16 (⭐42)](https://github.com/tinted-theming/base16-shell) - Adds a script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as [Vim](https://www.vim.org).
+*   [archlinux (junker) (⭐10)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
+*   [base16 (⭐48)](https://github.com/tinted-theming/base16-shell) - Adds a script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as [Vim](https://www.vim.org).
 *   [bob (⭐2)](https://github.com/wintermi/zsh-bob) - Plugin for [bob (⭐1.1k)](https://github.com/MordechaiHadad/bob) a cross-platform and easy-to-use Neovim version manager.
-*   [fnm (dominik-schwabe) (⭐14)](https://github.com/dominik-schwabe/zsh-fnm) - Installs and loads the [Fast Node Manager (fnm) (⭐14k)](https://github.com/Schniz/fnm) if it is missing.
-*   [fnm (wintermi) (⭐2)](https://github.com/wintermi/zsh-fnm) - Helper plugin for the fast and simple Node.js version manager [fnm (⭐14k)](https://github.com/Schniz/fnm).
+*   [fnm (dominik-schwabe) (⭐14)](https://github.com/dominik-schwabe/zsh-fnm) - Installs and loads the [Fast Node Manager (fnm) (⭐15k)](https://github.com/Schniz/fnm) if it is missing.
+*   [fnm (wintermi) (⭐2)](https://github.com/wintermi/zsh-fnm) - Helper plugin for the fast and simple Node.js version manager [fnm (⭐15k)](https://github.com/Schniz/fnm).
 *   [git-check (⭐3)](https://github.com/git-girl/git-check) - Adds a ZSH hook to check if the origin of the current branch has changes to local in the background and sends a notification.
 *   [iwd (⭐2)](https://github.com/zshzoo/iwd) - Similar in concept to `$PWD`, this ZSH plugin saves your initial working directory in `$IWD` for easy returns to the starting point of your session.
 *   [vivid (⭐6)](https://github.com/ryanccn/vivid-zsh) - Make it easier to use `LSCOLORS` with [vivid (⭐1.5k)](https://github.com/sharkdp/vivid).
@@ -414,19 +413,19 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 ### Software / Database Management
 
-*   [Evidence](https://evidence.dev) - Evidence is a code-based BI tool. Write reports using SQL and markdown and they render as a website. ([Source Code (⭐2.8k)](https://github.com/evidence-dev/evidence)) `MIT` `Nodejs`
+*   [Evidence](https://evidence.dev) - Evidence is a code-based BI tool. Write reports using SQL and markdown and they render as a website. ([Source Code (⭐2.9k)](https://github.com/evidence-dev/evidence)) `MIT` `Nodejs`
 
 ### Software / Miscellaneous
 
-*   [OTS-Share (⭐44)](https://github.com/rpgeeganage/ots-share-app) - A self-hosting app to share secrets with file support up to 1MB. `MIT` `Docker`
+*   [OTS-Share (⭐45)](https://github.com/rpgeeganage/ots-share-app) - A self-hosting app to share secrets with file support up to 1MB. `MIT` `Docker`
 
 ### Software / Pastebins
 
-*   [Opengist (⭐671)](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git. ([Demo](https://opengist.thomice.li)) `AGPL-3.0` `Docker/Go/Nodejs`
+*   [Opengist (⭐684)](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git. ([Demo](https://opengist.thomice.li)) `AGPL-3.0` `Docker/Go/Nodejs`
 
 ### Software / Software Development - Project Management
 
-*   [Plane](https://plane.so) - Helps you track your issues, epics, and product roadmaps in the simplest way possible (alternative to JIRA, Linear and Height). ([Demo](https://app.plane.so), [Source Code (⭐22k)](https://github.com/makeplane/plane)) `Apache-2.0` `Docker`
+*   [Plane](https://plane.so) - Helps you track your issues, epics, and product roadmaps in the simplest way possible (alternative to JIRA, Linear and Height). ([Demo](https://app.plane.so), [Source Code (⭐23k)](https://github.com/makeplane/plane)) `Apache-2.0` `Docker`
 
 ## [23. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
 
@@ -458,8 +457,8 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 *   [timqian/openprompt.co (⭐1.1k)](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
 *   [60 ChatGPT Prompts for Data Science (Tried, Tested, and Rated)](https://medium.datadriveninvestor.com/60-chatgpt-prompts-for-data-science-tried-tested-and-rated-4994c7e6adb2): post by Travis Tang from DataDrivenInvestor
-*   [f/awesome-chatgpt-prompts (⭐99k)](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
-*   [brexhq/prompt-engineering (⭐7.6k)](https://github.com/brexhq/prompt-engineering): "Tips and tricks for working with Large Language Models like OpenAI's GPT-4"
+*   [f/awesome-chatgpt-prompts (⭐100k)](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
+*   [brexhq/prompt-engineering (⭐7.7k)](https://github.com/brexhq/prompt-engineering): "Tips and tricks for working with Large Language Models like OpenAI's GPT-4"
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 

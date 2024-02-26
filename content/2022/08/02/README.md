@@ -22,7 +22,7 @@
 
 ### Username Check / Telegram
 
-*   [Maigret (⭐9k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
+*   [Maigret (⭐9.4k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 
 ## [4. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-build (⭐52)](https://github.com/samonxian/vite-plugin-build) - Transform the whole folder in library mode.
+*   [vite-plugin-build (⭐54)](https://github.com/samonxian/vite-plugin-build) - Transform the whole folder in library mode.
 
 ## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

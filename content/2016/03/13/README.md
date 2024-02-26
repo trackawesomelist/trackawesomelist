@@ -20,10 +20,10 @@
 *   [curry (⭐85)](https://github.com/thisables/curry) – Curry your functions using function bind syntax.
 *   [compose-function (⭐57)](https://github.com/stoeffel/compose-function) – Compose a new function from smaller functions.
 *   [functionize (⭐50)](https://github.com/paldepind/functionize) – A collection of functions which aid in making non-functional libraries functional.
-*   [lambdajs (⭐144)](https://github.com/loop-recur/lambdajs) – The full ECMAScript API done a functional way.
+*   [lambdajs (⭐143)](https://github.com/loop-recur/lambdajs) – The full ECMAScript API done a functional way.
 *   [fp-dom](https://github.com/fp-dom/) – Making the DOM functional.
 *   [trifl (⭐36)](https://github.com/algesten/trifl) – A functional user interface library with unidirectional dataflow and a virtual dom.
-*   [funcy (⭐247)](https://github.com/bramstein/funcy) – An experiment in adding functional pattern matching to JavaScript. *Experimental*  :triangular\_flag\_on\_post:
+*   [funcy (⭐246)](https://github.com/bramstein/funcy) – An experiment in adding functional pattern matching to JavaScript. *Experimental*  :triangular\_flag\_on\_post:
 *   [\_part\_ (⭐41)](https://github.com/AutoSponge/_part_) – A micro library that encourages functional programming by making native methods available as partially applied functions.
 
 ### Libraries / Data Structures
@@ -33,13 +33,13 @@
 
 ### Libraries / Algebraic Data Types
 
-*   [daggy (⭐695)](https://github.com/puffnfresh/daggy) – Library for creating tagged constructors.
+*   [daggy (⭐698)](https://github.com/puffnfresh/daggy) – Library for creating tagged constructors.
 *   [fantasy-combinators (⭐66)](https://github.com/fantasyland/fantasy-combinators) – Common combinators.
 *   [fantasy-birds (⭐85)](https://github.com/fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.
 
 ### Libraries / Lenses
 
-*   [lenses (⭐211)](https://github.com/DrBoolean/lenses) – Composable [kmett (⭐2k)](https://github.com/ekmett/lens) style lenses.
+*   [lenses (⭐212)](https://github.com/DrBoolean/lenses) – Composable [kmett (⭐2k)](https://github.com/ekmett/lens) style lenses.
 *   [optics (⭐86)](https://github.com/flunc/optics) – Profunctor optics (Lens, Prism, iso).
 *   [ramda-lens (⭐182)](https://github.com/ramda/ramda-lens) – :ram: :mag\_right: Lens library built on Ramda.
 *   [fantasy-lenses (⭐108)](https://github.com/fantasyland/fantasy-lenses) – Composable, immutable getters and setters. (Profunctor lenses WIP)
@@ -47,7 +47,7 @@
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [ClojureScript (⭐9.1k)](https://github.com/clojure/clojurescript) – Compiles [Clojure](http://clojure.org/), a hosted Lisp with immutable persistent data structures, to JavaScript.
+*   [ClojureScript (⭐9.2k)](https://github.com/clojure/clojurescript) – Compiles [Clojure](http://clojure.org/), a hosted Lisp with immutable persistent data structures, to JavaScript.
 *   [Elm](http://elm-lang.org/) – A type-safe functional programming language for declaratively creating web browser-based graphical user interfaces. Implemented in Haskell.
 *   [PureScript](http://www.purescript.org/) – A small strongly typed programming language that compiles to JavaScript.
 *   [Idris](http://www.idris-lang.org/) – A general purpose pure functional programming language with dependent types.
@@ -74,7 +74,7 @@
 
 ### Community / Related Lists
 
-*   [Awesome FRP JS (⭐286)](https://github.com/stoeffel/awesome-frp-js) – A curated list of awesome (functional) reactive programming stuff in JavaScript.
+*   [Awesome FRP JS (⭐285)](https://github.com/stoeffel/awesome-frp-js) – A curated list of awesome (functional) reactive programming stuff in JavaScript.
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 

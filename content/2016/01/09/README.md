@@ -1,12 +1,18 @@
 # Awesome List Updates on Jan 09, 2016
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [1. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### LaTeX / Zepto.js
+
+*   [大家來學 LaTeX (⭐10)](https://github.com/49951331/graduate-project-102pj/blob/master/docs/latex123.pdf) (PDF)
+
+## [2. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Official
 
@@ -33,27 +39,27 @@
 *   [chef-influxdb (⭐53)](https://github.com/bdangit/chef-influxdb) - Chef cookbook for InfluxDB
 *   [influxdb-formula (⭐9)](https://github.com/saltstack-formulas/influxdb-formula) - Installs and configures the InfluxDB timeseries database
 
-## [2. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
+## [3. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
 
 ### Company Culture / Scala
 
 *   [unSEXY Conf 2013: Zach Holman, Github](https://www.youtube.com/watch?v=vCSNME4voRU) By Zach Holman
 *   [How GitHub Uses GitHub to Build GitHub](https://www.youtube.com/watch?v=qyz3jkOBbQY) By Zach Holman
 
-## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / JavaScript SDK
 
 *   [Repo :fire::fire::fire::fire::fire: (⭐7.4k)](https://github.com/aws/aws-sdk-js)
 
-## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [SEE (⭐793)](https://github.com/F-Secure/see) - Sandboxed Execution Environment (SEE)
     is a framework for building test automation in secured Environments.
 
-## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / S companies
 
@@ -63,7 +69,7 @@
 
 *   Teespring <http://teespring.engineering/>
 
-## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Static Site Generation
 

@@ -14,7 +14,7 @@
 
 ### Geolocation
 
-*   [rgeo (⭐985)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
+*   [rgeo (⭐990)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 

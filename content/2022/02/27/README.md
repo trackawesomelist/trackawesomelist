@@ -54,7 +54,7 @@
 
 ### Other Tools / Telegram
 
-*   [DuckDuckGo URL scraper (⭐16)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
+*   [DuckDuckGo URL scraper (⭐18)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
 
 ## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
@@ -107,7 +107,7 @@
 
 ### HTTP Clients
 
-*   [go-cleanhttp (⭐355)](https://github.com/hashicorp/go-cleanhttp) - Get easily stdlib HTTP client, which does not share any state with other clients.
+*   [go-cleanhttp (⭐356)](https://github.com/hashicorp/go-cleanhttp) - Get easily stdlib HTTP client, which does not share any state with other clients.
 
 ### Server Applications
 
@@ -123,12 +123,12 @@
 
 ### Projects
 
-*   [Rust algorithms (⭐81)](https://github.com/Jondolf/rust-algorithms) - A website with interactive implementations of various algorithms.
+*   [Rust algorithms (⭐86)](https://github.com/Jondolf/rust-algorithms) - A website with interactive implementations of various algorithms.
 
 ### Alternatives / Frameworks
 
-*   [Dioxus (⭐15k)](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
-*   [Sycamore (⭐2.5k)](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly.
+*   [Dioxus (⭐16k)](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
+*   [Sycamore (⭐2.6k)](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly.
 
 ---
 

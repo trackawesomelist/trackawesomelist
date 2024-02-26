@@ -16,7 +16,7 @@
 
 ### Applications / Productivity
 
-*   [espanso (⭐8.8k)](https://github.com/espanso/espanso) — A cross-platform Text Expander written in Rust[![CI](https://github.com/espanso/espanso/actions/workflows/ci.yml/badge.svg?branch=dev\&event=push)](https://github.com/espanso/espanso/actions/workflows/ci.yml)
+*   [espanso (⭐8.8k)](https://github.com/espanso/espanso) — A cross-platform Text Expander. [![CI](https://github.com/espanso/espanso/actions/workflows/ci.yml/badge.svg?branch=dev\&event=push)](https://github.com/espanso/espanso/actions/workflows/ci.yml)
 
 ## [3. Guides](/content/NARKOZ/guides/README.md)
 
@@ -65,8 +65,8 @@
 
 ### Caches
 
-*   [go-cache (⭐119)](https://github.com/viney-shih/go-cache) - A flexible multi-layer Go caching library to deal with in-memory and shared cache by adopting Cache-Aside pattern.
-*   [gocache (⭐2.1k)](https://github.com/eko/gocache) - A complete Go cache library with multiple stores (memory, memcache, redis, ...), chainable, loadable, metrics cache and more.
+*   [go-cache (⭐121)](https://github.com/viney-shih/go-cache) - A flexible multi-layer Go caching library to deal with in-memory and shared cache by adopting Cache-Aside pattern.
+*   [gocache (⭐2.2k)](https://github.com/eko/gocache) - A complete Go cache library with multiple stores (memory, memcache, redis, ...), chainable, loadable, metrics cache and more.
 
 ### Database Schema Migration
 
@@ -79,7 +79,7 @@
 
 ### Financial
 
-*   [ach (⭐417)](https://github.com/moov-io/ach) - A reader, writer, and validator for Automated Clearing House (ACH) files.
+*   [ach (⭐421)](https://github.com/moov-io/ach) - A reader, writer, and validator for Automated Clearing House (ACH) files.
 
 ### Logging
 
@@ -91,11 +91,11 @@
 
 ### HTTP Clients
 
-*   [go-zoox/fetch (⭐63)](https://github.com/go-zoox/fetch) - A Powerful, Lightweight, Easy Http Client, inspired by Web Fetch API.
+*   [go-zoox/fetch (⭐65)](https://github.com/go-zoox/fetch) - A Powerful, Lightweight, Easy Http Client, inspired by Web Fetch API.
 
 ### Regular Expressions
 
-*   [rex (⭐176)](https://github.com/hedhyw/rex) - Regular expressions builder.
+*   [rex (⭐177)](https://github.com/hedhyw/rex) - Regular expressions builder.
 
 ### Third-party APIs
 
@@ -103,14 +103,14 @@
 
 ### Utilities
 
-*   [countries (⭐336)](https://github.com/biter777/countries) - Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standards.
+*   [countries (⭐342)](https://github.com/biter777/countries) - Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standards.
 *   [evaluator (⭐38)](https://github.com/nullne/evaluator) - Evaluate an expression dynamically based on s-expression. It's simple and easy to extend.
 *   [jsend (⭐21)](https://github.com/clevergo/jsend) - JSend's implementation written in Go.
 *   [lancet (⭐3.5k)](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [abbreviate (⭐208)](https://github.com/dnnrly/abbreviate) - abbreviate is a tool turning long strings in to shorter ones with configurable separators, for example to embed branch names in to deployment stack IDs.
+*   [abbreviate (⭐211)](https://github.com/dnnrly/abbreviate) - abbreviate is a tool turning long strings in to shorter ones with configurable separators, for example to embed branch names in to deployment stack IDs.
 
 ### Websites / Libraries for creating HTTP middlewares
 
@@ -139,7 +139,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Shhh (⭐354)](https://github.com/smallwat3r/shhh) - Keep secrets out of emails or chat logs, share them using secure links with passphrase and expiration dates. `MIT` `Python`
+*   [Shhh (⭐356)](https://github.com/smallwat3r/shhh) - Keep secrets out of emails or chat logs, share them using secure links with passphrase and expiration dates. `MIT` `Python`
 
 ## [10. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
 

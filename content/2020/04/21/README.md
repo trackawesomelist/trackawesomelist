@@ -54,7 +54,7 @@
 
 ### Decentralized Systems
 
-*   [Waves (⭐77)](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
+*   [Waves (⭐75)](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
 
 ## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Integrations
 
-*   [playwright-github-action (⭐299)](https://github.com/microsoft/playwright-github-action) - GitHub Action to install all the required dependencies.
+*   [playwright-github-action (⭐302)](https://github.com/microsoft/playwright-github-action) - GitHub Action to install all the required dependencies.
 
 ## [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Development tools / Web Servers
 
-*   [Rust Search Extension (⭐1.1k)](https://github.com/huhu/rust-search-extension) — A handy browser extension to search crates and docs in address bar (omnibox). [![Build Status](https://github.com/huhu/rust-search-extension/workflows/build/badge.svg?branch=master)](https://github.com/huhu/rust-search-extension/actions)
+*   [Rust Search Extension (⭐1.2k)](https://github.com/huhu/rust-search-extension) — A handy browser extension to search crates and docs in address bar (omnibox). [![Build Status](https://github.com/huhu/rust-search-extension/workflows/build/badge.svg?branch=master)](https://github.com/huhu/rust-search-extension/actions)
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

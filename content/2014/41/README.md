@@ -47,13 +47,13 @@
 *   [JeayeSON (⭐129)](https://github.com/jeaye/jeayeson) - A very sane (header only) C++ JSON library. \[BSD]
 *   [JSON++ (⭐534)](https://github.com/hjiang/jsonxx) - A JSON parser in C++. \[MIT]
 *   [json11 (⭐2.5k)](https://github.com/dropbox/json11) - A tiny JSON library for C++11. \[MIT]
-*   [libjson (⭐270)](https://github.com/vincenthz/libjson) - A JSON parser and printer library in C. easy to integrate with any model. \[LGPL]
+*   [libjson (⭐271)](https://github.com/vincenthz/libjson) - A JSON parser and printer library in C. easy to integrate with any model. \[LGPL]
 *   [PicoJSON (⭐1.1k)](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++. \[BSD]
 *   [qt-json (⭐318)](https://github.com/gaudecker/qt-json) - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. \[GPLv3]
 
 ### Networking
 
-*   [RakNet (⭐3.2k)](https://github.com/OculusVR/RakNet) - A cross platform, open source, C++ networking engine for game programmers. \[BSD]
+*   [RakNet (⭐3.3k)](https://github.com/OculusVR/RakNet) - A cross platform, open source, C++ networking engine for game programmers. \[BSD]
 
 ### Serialization
 
@@ -80,7 +80,7 @@
 ### Other Awesome Projects
 
 *   [lists (⭐9.4k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
-*   [free-programming-books (⭐311k)](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
+*   [free-programming-books (⭐313k)](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 
 ## [4. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 

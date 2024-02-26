@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 24, 2023
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -138,12 +138,6 @@
 
 *   [cleanlab (⭐7.7k)](https://github.com/cleanlab/cleanlab): The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 *   [AutoGluon (⭐6.8k)](https://github.com/awslabs/autogluon): AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
-
-## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Game Development
-
-*   [Level up your code with game programming patterns](https://resources.unity.com/games/level-up-your-code-with-game-programming-patterns) - Unity (HTML & PDF)
 
 ---
 

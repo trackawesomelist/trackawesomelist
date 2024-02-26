@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 12, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,31 +26,37 @@
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [Transforming from Vapor 2 to Vapor 3](https://www.skelpo.com/blog/vapor2-to-vapor3/) – Transitioning from Vapor 2 to Vapor 3 with a real world project.
 
-## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [3. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### Shell / Django
+
+*   [The Linux Command Line 中文版](http://billie66.github.io/TLCL/book/)
+
+## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Backups
 
 *   [Restic](https://restic.net/) - Easy, fast, verifiable, secure and efficient remote backup tool. ([Source Code (⭐23k)](https://github.com/restic/restic)) `BSD-2-Clause` `Go`
 
-## [4. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
+## [5. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
 
 ### Maintainers / Chinese
 
 *   [@ZYSzys](https://github.com/ZYSzys)
 
-## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Online / Playground
 
 *   [TypeScript playground](https://agentcooper.github.io/typescript-play/) by @agentcooper, supports multiple TS versions and compiler targets
 
-## [6. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
+## [7. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
 ### Database Drivers
 
 *   [aioinflux (⭐159)](https://github.com/plugaai/aioinflux) - InfluxDB client built on top of aiohttp.
 
-## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [8. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Tutorial
 
@@ -60,7 +66,7 @@
 *   [Raw Vulkan](https://alain.xyz/blog/raw-vulkan) - Overview on how to program a Vulkan application from the ground up.
 *   [Tutorial by Overv](https://vulkan-tutorial.com/) and [its github repository (⭐2.7k)](https://github.com/Overv/VulkanTutorial). \[CC BY-SA 4.0]
 
-## [8. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
+## [9. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 
 ### Data Management
 

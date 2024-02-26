@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 29 - Jul 05, 2020
 
-64 awesome lists updated this week.
+63 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -59,7 +59,7 @@
 
 ### Tools / Reverse Engineering
 
-*   [Noia (⭐94)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
+*   [Noia (⭐96)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
 
 ## [7. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -323,15 +323,15 @@
 
 ### Gaming
 
-*   [Flame (⭐850)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
+*   [Flame (⭐897)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
 
 ### Media
 
-*   [Audiovisual (⭐151)](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
+*   [Audiovisual (⭐154)](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
 
 ### Miscellaneous
 
-*   [WP-CLI (⭐174)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
+*   [WP-CLI (⭐176)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
 
 ## [12. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
@@ -425,7 +425,7 @@
 
 ### 🔱 Workflow Automation / 酷Q Plugin
 
-*   [feedpushr (⭐308)](https://github.com/ncarlier/feedpushr) <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ncarlier/feedpushr)
+*   [feedpushr (⭐311)](https://github.com/ncarlier/feedpushr) <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ncarlier/feedpushr)
 
 ### specifically from (*a certain platform*) / Instagram
 
@@ -692,7 +692,7 @@ Language: English
 
 ### Resources / Tools
 
-*   [Akita (⭐22)](https://github.com/esse-dev/akita) - A browser extension that gives you insight into your involvement with Web Monetization.
+*   [Akita (⭐23)](https://github.com/esse-dev/akita) - A browser extension that gives you insight into your involvement with Web Monetization.
 
     > Akita presents your top visited monetized sites, how much time you're spending on them, and how much you're contributing (or could contribute) to them.
 
@@ -813,13 +813,7 @@ Language: English
 *   [Build Actions for Google Assistant using Actions Builder (Level 1)](https://codelabs.developers.google.com/codelabs/actions-builder-1/index.html)
 *   [Build Actions for Google Assistant using Actions Builder (Level 2)](https://codelabs.developers.google.com/codelabs/actions-builder-2/index.html)
 
-## [36. Awesome Python](/content/vinta/awesome-python/week/README.md)
-
-### Image Processing
-
-*   [PyMatting (⭐1.5k)](http://github.com/pymatting/pymatting) - A library for alpha matting.
-
-## [37. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [36. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Articles
 
@@ -996,13 +990,13 @@ Language: English
 *   [Threat Modelling Tool](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling) - *Microsoft* - Threat model diagramming tool.
 *   [Threatspec](https://threatspec.org/) - *Threatspec* - Define threat modelling as code.
 
-## [38. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [37. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [Godot syntax themes (⭐304)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
+*   [Godot syntax themes (⭐310)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 
-## [39. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [38. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Password Managers
 
@@ -1010,25 +1004,25 @@ Language: English
 
 ### Software / Search Engines
 
-*   [sist2 (⭐680)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
+*   [sist2 (⭐699)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
 
-## [40. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [39. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Utils
 
-*   [Moon (⭐197)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
+*   [Moon (⭐200)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 
-## [41. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [40. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / *SSH*   keys / Authentication
 
 *   [ServerAuth](https://serverauth.com) - Automatically sync SSH access across servers
 
-## [42. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [41. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Command-line tools
 
-*   [oj (⭐522)](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
+*   [oj (⭐767)](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
 
 ### Format Extensions
 
@@ -1036,23 +1030,23 @@ Language: English
 
 ### Libraries
 
-*   [ojc (⭐27)](https://github.com/ohler55/ojc) - A fast JSON parser.
-*   [ojg (⭐522)](https://github.com/ohler55/ojg) - A collection of high performance JSON processing and generating tool.
+*   [ojc (⭐34)](https://github.com/ohler55/ojc) - A fast JSON parser.
+*   [ojg (⭐767)](https://github.com/ohler55/ojg) - A collection of high performance JSON processing and generating tool.
 
-## [43. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [42. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Market Data API
 
 *   [CoinMetrics.io](https://docs.coinmetrics.io/api/v2/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
 *   [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc.
 
-## [44. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [43. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
 *   [OpenCIDER](https://selgebali.gitbook.io/opencider/) - A community building effort to promote computational inclusion and serve as digital equity resource.
 
-## [45. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [44. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Preconfigured Configs with ESLint Set up / Other Configs
 
@@ -1072,13 +1066,13 @@ Language: English
 *   [ES and browser globals (⭐319)](https://github.com/sindresorhus/globals) (originally from ESLint)
 *   [chai globals (⭐2)](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 
-## [46. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [45. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Documentation
 
 *   [Game Boy Project Report](http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/reports/GameBoy.pdf) - Report of an hardware [emulator (⭐4)](https://github.com/kitsuneh/SVGameBoy) (on a Terasic DE1-SoC Board) developed as final project for the CSEE4840 Embedded Systems Design course at Columbia University.
 
-## [47. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [46. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -1089,7 +1083,7 @@ Language: English
 *   [Keycloak, Kong and Konga setup scripts (local development) (⭐12)](https://github.com/JaouherK/Kong-konga-Keycloak)
 *   [Keycloak and PrivacyId3a docker-compose (local development) (⭐0)](https://github.com/JaouherK/keycloak-privacyIdea)
 
-## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 
@@ -1103,7 +1097,7 @@ Language: English
 
 *   [linksift.com](https://linksift.com) - LinkSift lets you explore what a website links to.
 
-## [49. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [48. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Other
 
@@ -1117,35 +1111,35 @@ Language: English
 
 *   [Waves IDE](https://waves-ide.com/) - Online IDE to create smart contracts on Ride.
 
-## [50. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [49. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [fossil (⭐4)](https://github.com/matteocrippa/fossil) - A value-type validation suite.
 
-## [51. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [50. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
-*   [asm-cli-rust (⭐289)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
-*   [denoland/deno (⭐92k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
-*   [kytan (⭐442)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
+*   [asm-cli-rust (⭐290)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell.
+*   [denoland/deno (⭐92k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8 and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
+*   [kytan (⭐447)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
 *   [linkerd/linkerd2-proxy (⭐1.9k)](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
 *   [rx (⭐3k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
 
-## [52. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [51. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Articles and Documentation
 
 *   [CSS fix for 100vh in mobile WebKit](https://allthingssmitty.com/2020/05/11/css-fix-for-100vh-in-mobile-webkit/) - How to fix issue with 100vh in mobile WebKit.
 
-## [53. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [52. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
 *   [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
 
-## [54. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [53. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Continuous Integration
 
@@ -1167,7 +1161,7 @@ Language: English
 
 *   [react-native-leveldown (⭐22)](https://github.com/andymatuschak/react-native-leveldown) - Native LevelDB bindings for React Native
 
-## [55. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [54. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Model Training
 
@@ -1191,13 +1185,13 @@ Language: English
 *   [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/) - An end-to-end platform for deploying production ML pipelines.
 *   [Weights & Biases](https://www.wandb.com/) - Experiment tracking, model optimization, and dataset versioning.
 
-## [56. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [55. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Files and Directories
 
-*   [waffle (⭐670)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
+*   [waffle (⭐681)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
 
-## [57. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [56. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Applications
 
@@ -1209,7 +1203,7 @@ Language: English
 *   [Black Therapists Rock](https://www.blacktherapistsrock.com/) - Black Therapists Rock (BTR) is an organization committed to increasing awareness of social and psychological challenges impacting vulnerable communities.
 *   [The Black, African, and Asian Therapy Network](https://www.baatn.org.uk/) - The UK’s largest independent organisation to specialise in working psychologically, informed by an understanding of intersectionality, with people who identify as Black, African, South Asian and Caribbean.
 
-## [58. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/week/README.md)
+## [57. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/week/README.md)
 
 ### Concepts / Field Data (Real User Monitoring - RUM)
 
@@ -1270,19 +1264,19 @@ Language: English
 
 *   [Docs - Max Potential FID - web.dev](https://web.dev/lighthouse-max-potential-fid/)
 
-## [59. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [58. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Developer Tools / Services
 
 *   [EOSIO Ethereum Virtual Machine (EVM) (⭐87)](https://github.com/jafri/eosio.evm) - Ethereum Virtual Machine on EOSIO.
 
-## [60. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
+## [59. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
 
 ### UI Elements
 
 *   [CoreUI](https://coreui.io/pro/vue) - Vue admin template.
 
-## [61. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [60. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CI and CD
 
@@ -1301,7 +1295,7 @@ Language: English
 
 *   [mockaroo](https://mockaroo.com/) — Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats. You can also create mocks for back-end API.
 
-## [62. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [61. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Articles / Hash functions
 
@@ -1315,7 +1309,7 @@ Language: English
 
 *   [Applied Crypto Hardening](https://bettercrypto.org/) - A lot ready to use best practice examples for securing web servers and more.
 
-## [63. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [62. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Libraries
 
@@ -1326,7 +1320,7 @@ Language: English
 
 *   [Web Audio Metronome (⭐561)](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
 
-## [64. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+## [63. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
 ### Arch-based distros / Desktop
 

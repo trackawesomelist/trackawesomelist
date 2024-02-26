@@ -10,7 +10,7 @@
 
 ### E-Commerce and Payments
 
-*   [Solidus (⭐4.8k)](https://github.com/solidusio/solidus) - An open source, eCommerce application for high volume retailers.
+*   [Solidus (⭐4.9k)](https://github.com/solidusio/solidus) - An open source, eCommerce application for high volume retailers.
 
 ## [2. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

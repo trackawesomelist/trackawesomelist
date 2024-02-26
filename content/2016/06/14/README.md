@@ -53,7 +53,7 @@
 
 ### Data Packages
 
-*   [engsoccerdata (⭐736)](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2016.
+*   [engsoccerdata (⭐744)](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2016.
 
 ## [7. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 

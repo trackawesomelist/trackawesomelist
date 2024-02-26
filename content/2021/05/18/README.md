@@ -27,7 +27,7 @@
 
 ### Software / Automation
 
-*   [ChiefOnboarding](https://chiefonboarding.com) - Employee onboarding platform that allows you to provision user accounts and create sequences with todo items, resources, text/email/Slack messages, and more! Available as a web portal and Slack bot. ([Source Code (⭐541)](https://github.com/chiefonboarding/ChiefOnboarding)) `AGPL-3.0` `Docker`
+*   [ChiefOnboarding](https://chiefonboarding.com) - Employee onboarding platform that allows you to provision user accounts and create sequences with todo items, resources, text/email/Slack messages, and more! Available as a web portal and Slack bot. ([Source Code (⭐549)](https://github.com/chiefonboarding/ChiefOnboarding)) `AGPL-3.0` `Docker`
 
 ## [3. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 

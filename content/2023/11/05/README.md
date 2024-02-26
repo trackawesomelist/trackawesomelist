@@ -39,7 +39,7 @@
 
 ### Database
 
-*   [Velox (⭐2.9k)](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. \[Apache-2.0] [website](https://velox-lib.io/)
+*   [Velox (⭐3k)](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. \[Apache-2.0] [website](https://velox-lib.io/)
 
 ## [6. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [princess (⭐0)](https://github.com/mellypop/princess) - Modeled after [abhiyan.zsh (⭐2)](https://github.com/abhiyandhakal/abhiyan.zsh) with perhaps a bit too much pink and arguably too few emojis. Includes decorators for current directory and `git` status.
+*   [princess (⭐0)](https://github.com/mellypop/princess) - Modeled after [abhiyan.zsh (⭐3)](https://github.com/abhiyandhakal/abhiyan.zsh) with perhaps a bit too much pink and arguably too few emojis. Includes decorators for current directory and `git` status.
 
 ---
 

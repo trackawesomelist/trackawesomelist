@@ -10,7 +10,7 @@
 
 ### Applications / Games
 
-*   [chess-tui (⭐248)](https://github.com/thomas-mauran/chess-tui) —  A Chess TUI implementation in rust ♟️
+*   [chess-tui (⭐249)](https://github.com/thomas-mauran/chess-tui) — A Chess TUI implementation ♟️
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -32,13 +32,13 @@
 
 ### Audio and Video Tools / File Sharing
 
-*   [trax (⭐3)](https://github.com/nbonamy/trax) - Free, open-source music library management tool with audio conversion and tag management functionalities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/nbonamy/trax)
+*   [trax (⭐4)](https://github.com/nbonamy/trax) - Free, open-source music library management tool with audio conversion and tag management functionalities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/nbonamy/trax)
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [crispybaccoon/evergarden (⭐17)](https://github.com/crispybaccoon/evergarden) - A comfy Neovim colorscheme for cozy morning coding.
+*   [crispybaccoon/evergarden (⭐22)](https://github.com/crispybaccoon/evergarden) - A comfy Neovim colorscheme for cozy morning coding.
 
 ## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

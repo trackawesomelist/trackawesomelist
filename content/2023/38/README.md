@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 18 - Sep 24, 2023
 
-49 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,26 +22,32 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [eza (clavelm) (⭐0)](https://github.com/clavelm/eza-omz-plugin) - Replaces `ls` with [eza-community/eza (⭐5k)](https://github.com/eza-community/eza).
-*   [eza (z-shell) (⭐25)](https://github.com/z-shell/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐5k)](https://github.com/eza-community/eza).
+*   [eza (clavelm) (⭐0)](https://github.com/clavelm/eza-omz-plugin) - Replaces `ls` with [eza-community/eza (⭐5.5k)](https://github.com/eza-community/eza).
+*   [eza (z-shell) (⭐27)](https://github.com/z-shell/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐5.5k)](https://github.com/eza-community/eza).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [lperezp (⭐1)](https://github.com/lperezp/lperezp-zsh-theme) - Includes decorators for user\@hostname, `git` status, current directory and the exit status of the last command run.
 
-## [4. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [4. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### C++
+
+*   [現代 C++ 101](https://hackmd.io/@lumynou5/CppTutorial-zh-tw) - Lumynous (:construction: *in process*)
+
+## [5. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Cheat Sheets / Randomized Algorithms
 
 *   [Tech Interview Cheat Sheet (⭐3.7k)](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 
-## [5. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [6. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Notes and Tasks
 
 *   [Anytype](https://www.anytype.io/) - An open-source Notion alternative. E2EE, cloud and local network sync, can be self-hosted.
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Email
 
@@ -51,12 +57,12 @@
 
 *   QUIC
     *   [aws/s2n-quic (⭐1k)](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol ![ci](https://img.shields.io/github/actions/workflow/status/aws/s2n-quic/ci.yml?branch=main)
-    *   [cloudflare/quiche (⭐8.6k)](https://github.com/cloudflare/quiche) — cloudflare implementation of the QUIC transport protocol and HTTP/3 ![build](https://img.shields.io/github/actions/workflow/status/cloudflare/quiche/stable.yml?branch=master)
-    *   [mozilla/neqo (⭐1.7k)](https://github.com/mozilla/neqo) — an Implementation of QUIC written in Rust
-    *   [quinn-rs/quinn (⭐3.3k)](https://github.com/quinn-rs/quinn) — Futures-based QUIC implementation in Rust [![build badge](https://dev.azure.com/dochtman/Projects/_apis/build/status/Quinn?branchName=master)](https://dev.azure.com/dochtman/Projects/_build)
-    *   [tencent/tquic (⭐817)](https://github.com/Tencent/tquic) - A high-performance, lightweight, and cross-platform QUIC library [![Build Status](https://img.shields.io/github/actions/workflow/status/tencent/tquic/rust.yml)](https://github.com/Tencent/tquic/actions/workflows/rust.yml)
+    *   [cloudflare/quiche (⭐8.7k)](https://github.com/cloudflare/quiche) — cloudflare implementation of the QUIC transport protocol and HTTP/3 ![build](https://img.shields.io/github/actions/workflow/status/cloudflare/quiche/stable.yml?branch=master)
+    *   [mozilla/neqo (⭐1.7k)](https://github.com/mozilla/neqo) — an Implementation of QUIC
+    *   [quinn-rs/quinn (⭐3.3k)](https://github.com/quinn-rs/quinn) — Futures-based QUIC implementation [![build badge](https://dev.azure.com/dochtman/Projects/_apis/build/status/Quinn?branchName=master)](https://dev.azure.com/dochtman/Projects/_build)
+    *   [tencent/tquic (⭐829)](https://github.com/Tencent/tquic) - A high-performance, lightweight, and cross-platform QUIC library [![Build Status](https://img.shields.io/github/actions/workflow/status/tencent/tquic/rust.yml)](https://github.com/Tencent/tquic/actions/workflows/rust.yml)
 
-## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Cross-platform integration
 
@@ -65,25 +71,25 @@
 *   [Edge.js (⭐5.4k)](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in the same process on Windows, macOS, and Linux.
 *   [DotNetJS (⭐610)](https://github.com/Elringus/DotNetJS) - Consume .NET libraries in Node.js using this .NET interoperability layer.
 
-## [8. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [9. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Infrastructure
 
 *   [Interceptor Optimization (⭐94)](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2
 
-## [9. Awesome Esports](/content/Strift/awesome-esports/week/README.md)
+## [10. Awesome Esports](/content/Strift/awesome-esports/week/README.md)
 
 ### Education / Tournaments management
 
 *   [League of Legends Analytics (⭐18)](https://github.com/FloPrm/lol_analytics) - A collection of League of Legends data-related guides, libraries, and learning materials for Data Analysts.
 
-## [10. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [11. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Platforms
 
 *   [Cloud 66](https://www.cloud66.com/) - Builds and deploys static websites to your own cloud account.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 
@@ -98,19 +104,19 @@
 *   [i18n-pro/vue (⭐2)](https://github.com/i18n-pro/vue) - Lightweight, simple, flexible, automatic translation internationalization tool for Vue.
 *   [i18n-pro/vue2 (⭐0)](https://github.com/i18n-pro/vue2) - Lightweight, simple, flexible, automatic translation internationalization tool for Vue 2.
 
-## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [13. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Library
 
 *   [FastStream (⭐1.5k)](https://github.com/airtai/faststream) \[Python] - powerful and easy-to-use Python library simplifying the process of writing producers and consumers for message queues, handling all the parsing, networking and documentation generation automatically. Supports multiple protocols such as Apache Kafka, RabbitMQ and alike.
 
-## [13. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [14. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Utility / Barcode
 
 *   [SwiftAutoGUI (⭐25)](https://github.com/NakaokaRei/SwiftAutoGUI) - Used to programmatically control the mouse & keyboard. A library for manipulating macOS with Swift.
 
-## [14. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
@@ -148,13 +154,13 @@
 *   [Infura](https://infura.io) - Scalable and distributed storage infrastructure for your application.
 *   [Web3.storage](https://web3.storage/) - Simple file storage with IPFS & Filecoin.
 
-## [15. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
+## [16. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
 
 ### Examples
 
 *   [hyperledger/cacti (⭐300)](https://github.com/hyperledger/cacti/wiki)
 
-## [16. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [17. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Financial Instruments and Pricing
 
@@ -164,13 +170,13 @@
 
 *   [QSTrader (⭐2.6k)](https://github.com/mhallsmoore/qstrader) - QSTrader backtesting simulation engine.
 
-## [17. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [18. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Projects
 
 *   [PiKVM](https://pikvm.org/) - Open and inexpensive DIY IP-KVM based on Raspberry Pi.
 
-## [18. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [19. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions / Community
 
@@ -179,13 +185,13 @@
 *   [OpenAI Automatic Translation (⭐37)](https://github.com/timio23/directus-operation-auto-translate/) - An operaiton to automatically translate new items via OpenAI.
 *   [Machine Learning Operations (⭐12)](https://github.com/karamokoisrael/directus-hackathon-submission/) - A set of extensions to train, test and use machine learning models.
 
-## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
 *   [Saber](https://saber.adil.hanney.org/) - Cross platform stylus and text notetaking app. Supports image and pdf imports, can sync. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/saber/id1671523739)[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/adil192/saber)
 
-## [20. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [21. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Geocoding
 
@@ -215,23 +221,23 @@
 
 
 
-## [21. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [22. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Libraries and Frameworks
 
-*   [horcrux (⭐4.2k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
+*   [horcrux (⭐4.4k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
 
-## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [23. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CSV
 
 *   [commata (⭐6)](https://github.com/furfurylic/commata) - Just another header-only C++17 CSV parser. \[Unlicense]
 
-## [23. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [24. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Dependency Injection
 
-*   [gontainer (⭐20)](https://github.com/NVIDIA/gontainer) - A dependency injection service container for Go projects.
+*   [gontainer (⭐21)](https://github.com/NVIDIA/gontainer) - A dependency injection service container for Go projects.
 
 ### Go Generate Tools / Libraries for creating HTTP middlewares
 
@@ -239,15 +245,15 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [PipeCD (⭐925)](https://github.com/pipe-cd/pipecd) - A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications.
+*   [PipeCD (⭐927)](https://github.com/pipe-cd/pipecd) - A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications.
 
-## [24. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [25. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Uncategorized
 
 *   [ACG2vec (⭐389)](https://github.com/OysterQAQ/ACG2vec) - Various deep learning practices and explorations related to the two-dimensional domain. \[中文/English]
 
-## [25. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [26. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Remote Jobs:
 
@@ -255,7 +261,7 @@
 
 
 
-## [26. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [27. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Learn / Notebooks
 
@@ -265,19 +271,19 @@
 
 *   [LangStream (⭐307)](https://github.com/LangStream/langstream): Framework for building and running event-driven LLM applications using no-code and Python (including LangChain-based) agents. ![GitHub Repo stars](https://img.shields.io/github/stars/LangStream/langstream?style=social)
 
-## [27. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [28. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Compilers and interpreters
 
 *   [fulcrum-so/ziggy-pydust (⭐222)](https://github.com/fulcrum-so/ziggy-pydust) - [Python](https://python.org/) bindings.
 
-## [28. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [29. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / AI in Planning Tools and Platforms
 
 *   [OECD AI Policy Observatory](https://oecd.ai/en/) - OECD AI Policy Observatory provides a platform for resources on applications, poicy implications, and literature regarding Artificial Intelligence.
 
-## [29. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [30. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Specialty Topics / Geometry
 
@@ -285,16 +291,16 @@
     *   📚 [Geometry, Surfaces, Curves, Polyhedra](https://paulbourke.net/geometry/) - Geometry topics including meshes, shapes, textures and more.
     *   📚 [Mesh Transforms](https://ciechanow.ski/mesh-transforms/) - Apple's private API for manipulation of UIView meshes. \[[Source (⭐4)](https://github.com/olegtyshcneko/CAMeshTransform)]
 
-## [30. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [31. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Get Started
 
-*   [create-awesome-node-app (⭐42)](https://github.com/Create-Node-App/create-node-app) - Scaffolding your project choosing between different templates.
+*   [create-awesome-node-app (⭐47)](https://github.com/Create-Node-App/create-node-app) - Scaffolding your project choosing between different templates.
 
 ### Templates / React
 
-*   [vite-react-ts-shadcn-starter (⭐24)](https://github.com/Quilljou/vite-react-ts-tailwind-starter) - Template for creating `React 18` SPA apps with `TypeScript`, `React Router`, `Tailwind CSS`, `Shadcn UI`, `React Query`, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `React-i18next`, `Transmart`.
-*   [template-tauri-vite-react-ts-tailwind (⭐3)](https://github.com/RoyRao2333/template-tauri-vite-react-ts-tailwind) - Template for Tauri + React + Typescript + TailwindCSS + Prettier + ESLint build-in.
+*   [vite-react-ts-shadcn-starter (⭐27)](https://github.com/Quilljou/vite-react-ts-tailwind-starter) - Template for creating `React 18` SPA apps with `TypeScript`, `React Router`, `Tailwind CSS`, `Shadcn UI`, `React Query`, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `React-i18next`, `Transmart`.
+*   [template-tauri-vite-react-ts-tailwind (⭐6)](https://github.com/RoyRao2333/template-tauri-vite-react-ts-tailwind) - Template for Tauri + React + Typescript + TailwindCSS + Prettier + ESLint build-in.
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -304,7 +310,7 @@
 
 *   [vite-plugin-doctest (⭐36)](https://github.com/ssssota/doc-vitest) - Documentation testing for Vitest.
 
-## [31. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [32. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Official documentation
 
@@ -315,23 +321,23 @@
 *   [Enhancing Data Analytics with Polars and MinIO](https://medium.com/learning-the-computers/enhancing-data-analytics-with-polars-and-minio-a04053fff093) - A blog post that explains how to use Polars with Minio’s open-source object storage by [@IndexSeek](https://github.com/IndexSeek).
 *   [Using Polars with Snowflake](https://medium.com/snowflake/using-polars-with-snowflake-cbdd49b0ca6b) - A blog post that shows how to use Polars with Snowflake by [@IndexSeek](https://github.com/IndexSeek).
 
-## [32. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [33. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### VPN Services / Telegram
 
 *   [OffShore.cat](https://offshore.cat/vpn) - list of vpns for the privacy conscious
 
-## [33. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [34. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [><>](https://esolangs.org/wiki/fish) - A stack-based 2d language with support for reflection.
 
-## [34. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [35. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Blogging Platforms
 
-*   [Mataroa](https://mataroa.blog/) - Mataroa is a naked blogging platform for minimalists. ([Source Code (⭐172)](https://github.com/mataroa-blog/mataroa)) `MIT` `Python`
+*   [Mataroa](https://mataroa.blog/) - Mataroa is a naked blogging platform for minimalists. ([Source Code (⭐175)](https://github.com/mataroa-blog/mataroa)) `MIT` `Python`
 
 ### Software / Learning and Courses
 
@@ -339,19 +345,19 @@
 
 ### Software / Search Engines
 
-*   [Websurfx (⭐506)](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
+*   [Websurfx (⭐528)](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
 
 ### Software / Software Development - API Management
 
-*   [Hoppscotch Community Edition](https://hoppscotch.io) - A free, fast and beautiful API request builder. ([Source Code (⭐58k)](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Docker`
+*   [Hoppscotch Community Edition](https://hoppscotch.io) - A free, fast and beautiful API request builder. ([Source Code (⭐59k)](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Docker`
 
-## [35. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [36. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Extensions and Utilities
 
 *   [Solar Tools](https://solargames.io/tools/) - A commercial toolkit for PlayCanvas that includes a GPU instancer, terrain and effects scripts, multiplayer etc.
 
-## [36. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [37. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
 ### Standard Fantasy / [The Second Apocalypse](https://www.goodreads.com/series/83561-the-second-apocalypse) by [R. Scott Bakker](https://en.wikipedia.org/wiki/R._Scott_Bakker)
 
@@ -363,7 +369,7 @@
 *   [The Great Ordeal](https://www.goodreads.com/book/show/27160926-the-great-ordeal) \[4.07]
 *   [The Unholy Consult](https://www.goodreads.com/book/show/9968073-the-unholy-consult) \[3.88]
 
-## [37. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [38. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Image / Services
 
@@ -373,20 +379,20 @@
 
 *   [NVIDIA Omniverse AI Animal Explorer Extension](https://docs.omniverse.nvidia.com/extensions/latest/ext_animal-explorer.html#installation) - AI Animal Explorer is an Omniverse extension that enables creators to quickly prototype unique 3D animal meshes.
 
-## [38. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [39. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Discord
 
 *   [discordwebhook (⭐0)](https://github.com/ysdragon/discordwebhook) - Super simple interface to send discord messages through webhooks.
 
-## [39. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [40. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Community / Interfaces to other package managers
 
 *   [asdf-sbcl (⭐20)](https://github.com/smashedtoatoms/asdf-sbcl), a plugin for the universal package manager.
 *   📹 [this Youtube video](https://www.youtube.com/watch?v=lGS4sr6AzKw) (by 40ants, 2023) on how to use alien-works-delivery and linux-packaging.
 
-## [40. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [41. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Machine Learning / General Purpose Machine Learning
 
@@ -453,12 +459,6 @@
 ### Feature Engineering / General
 
 *   [OpenFE (⭐558)](https://github.com/IIIS-Li-Group/OpenFE) - Automated feature generation with expert-level performance.
-
-## [41. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
-
-### Functional Programming / Runner
-
-*   [sweet-monads (⭐294)](https://github.com/JSMonk/sweet-monads) - A utility library containing popular monads and lazy iterators.
 
 ## [42. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
@@ -653,15 +653,21 @@
 
 ### Natural Language Processing
 
-*   [CometLLM (⭐355)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
+*   [CometLLM (⭐362)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
 
-## [46. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [46. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+
+### Libraries / Algebraic Data Types
+
+*   [sweet-monads (⭐294)](https://github.com/JSMonk/sweet-monads) - A collection of popular monads (such as `Either` and `Maybe`) and the lazy iterator.
+
+## [47. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Translations
 
 *   [French (⭐1)](https://github.com/alexture/awesome-translations/tree/fr_FR)
 
-## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -747,14 +753,14 @@
 
 *   [Buff.tools](https://buff.tools/) - An all-in-one digital toolbox featuring Web, SEO, AI, Domain Management, unit conversion, calculators, and Image Manipulation Tools.
 
-## [48. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [49. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [BoxCam2D (⭐16)](https://github.com/sarooptech/BoxCam2D) - Simplest way to implement grid-based 2D camera movement (Godot 3.x).
-*   [Simplified Flight Simulation library (⭐121)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x, 4.x).
+*   [BoxCam2D (⭐17)](https://github.com/sarooptech/BoxCam2D) - Simplest way to implement grid-based 2D camera movement (Godot 3.x).
+*   [Simplified Flight Simulation library (⭐132)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x, 4.x).
 
-## [49. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [50. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### :free: Free Courses / Chrome Extensions
 

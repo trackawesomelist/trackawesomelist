@@ -214,8 +214,8 @@
 
 ### Contents / EHR
 
-*   [Odoo Medical (⭐248)](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System.
-*   [openMAXIMS (⭐57)](https://github.com/IMS-MAXIMS/openMAXIMS) - Full Patient Administration System designed for the NHS.
+*   [Odoo Medical (⭐253)](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System.
+*   [openMAXIMS (⭐59)](https://github.com/IMS-MAXIMS/openMAXIMS) - Full Patient Administration System designed for the NHS.
 
 ### Contents / Specifications
 
@@ -231,15 +231,15 @@
 
 ### Contents / Libraries
 
-*   [fhir.js (⭐384)](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
-*   [Node HL7 (⭐50)](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
-*   [Python HL7 (⭐258)](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
-*   [Ruby FHIR (⭐149)](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
-*   [Ruby HL7 (⭐96)](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
+*   [fhir.js (⭐411)](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
+*   [Node HL7 (⭐54)](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
+*   [Python HL7 (⭐268)](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
+*   [Ruby FHIR (⭐154)](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
+*   [Ruby HL7 (⭐95)](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
 
 ### Contents / Applications
 
-*   [SMART Pediatric Growth Chart (⭐67)](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
+*   [SMART Pediatric Growth Chart (⭐66)](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
 
 ### Contents / PHR
 
@@ -248,7 +248,6 @@
 ### Contents / Research
 
 *   [i2b2](https://www.i2b2.org) - Research data warehouse.
-*   [LabKey Server](https://www.labkey.org) - Platform for Translational Research.
 
 ### Contents / Integration
 
@@ -256,12 +255,12 @@
 
 ### Contents / Hardware
 
-*   [Gluco (⭐28)](https://github.com/nebulabio/gluco) - Glucometer.
+*   [Gluco (⭐29)](https://github.com/nebulabio/gluco) - Glucometer.
 *   [Murgen](https://hackaday.io/project/9281-murgen-open-source-ultrasound-imaging) - Ultrasound imaging development kit.
 
 ### Contents / Bioinformatics
 
-*   [ADAM (⭐953)](https://github.com/bigdatagenomics/adam) - Genomics analysis platform.
+*   [ADAM (⭐966)](https://github.com/bigdatagenomics/adam) - Genomics analysis platform.
 *   [Galaxy](https://galaxyproject.org/) - Open web-based platform for data intensive biomedical research.
 
 ## [10. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
@@ -551,15 +550,11 @@
 
 ### Command-line tools
 
-*   [jsoncat (⭐26)](https://github.com/pantuza/jsoncat) - Pretty-print Json in terminal with colors and adjusting tabs size.
+*   [jsoncat (⭐27)](https://github.com/pantuza/jsoncat) - Pretty-print Json in terminal with colors and adjusting tabs size.
 
 ### Transformations
 
 *   [json-sharp (⭐6)](https://github.com/globocom/json-sharp) - Javascript tool to process operations on pure JSON objects. (Javascript)
-
-### JSON Schema Validators
-
-*   [jsonschema (⭐3.9k)](https://github.com/Julian/jsonschema) - Python implementation of jsonschema.
 
 ## [34. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
 
@@ -686,7 +681,6 @@
 *   [Interactive 3D Graphics](https://classroom.udacity.com/courses/cs291) - Udacity course that teach you the principles of 3D computer graphics.
 *   [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics) - Computer graphics course from Coursera.
 *   [Kadenze Creative Coding](http://try.kadenze.com/creative-coder/) - Selection of Kadenze courses covering p5.js, TensorFlow, Max/Jitter, and ChucK.
-*   [Think. Create. Code](https://www.edx.org/course/think-create-code-adelaidex-code101x-2) - EDX course to learn programming with ProcessingJS.
 *   [Creative Programming for Digital Media & Mobile Apps](https://www.coursera.org/learn/digitalmedia) - Coursera course on creative coding with processing.
 *   [Imaginary Institute](https://imaginary-institute.com/) - Learn how to create gorgeous interactive graphics.
 *   [Future Learn: Creative Coding](https://www.futurelearn.com/courses/creative-coding) - Use computer programming as a creative discipline to generate sounds, images, animations and more.
@@ -730,7 +724,6 @@
 ### Online
 
 *   [Shadertoy](https://www.shadertoy.com/) - Build and share shaders with the world and get inspired.
-*   [GLSLbin](http://glslb.in/) - Fragment shader sandbox with support for glslify.
 *   [GLSL Sandbox](http://glslsandbox.com/) - Online shader editor and gallery.
 *   [Shdr Editor](http://shdr.bkcore.com/) - Online shader editor.
 *   [CodePen](http://codepen.io/) - Show case of advanced techniques with editable source code.
@@ -743,7 +736,6 @@
 *   [Puck.js](https://www.puck-js.com/) - Open source JavaScript microcontroller you can program wirelessly.
 *   [BeagleBoard](http://beagleboard.org/) - Low-power open source single-board computers.
 *   [Makey Makey](http://www.makeymakey.com/) - Turn everyday objects into touchpads and combine them with the internet.
-*   [Tessel](https://tessel.io/) - Easy to use microcontroller that runs JavaScript.
 *   [Leap Motion](https://www.leapmotion.com/) - Sensor device that supports hand and finger motions as input.
 
 ### Other
@@ -762,16 +754,13 @@
 
 ### Talks
 
-*   [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) - Collection of live coding videos by Íñigo Quílez.
 *   [There is also canvas](https://slideslive.com/38898318/there-is-also-canvas) - Bruno Imbrizi go through the use of canvas for creative coding at WebExpo 2016. Interactive slides [here](https://brunoimbrizi.github.io/webexpo-2016/dist/).
-*   [Draw. Move. Fail. Repeat.](http://setimeout.com/workshops/gobelins-2016/) - Slides by [@williamapan](https://twitter.com/williamapan) from his Creative developer workshop at Gobelins.
 *   [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) - Beginners tutorial series about creating 3D games OpenG.
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
 *   [Introduction to shaders](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/) - Part 1 of an introduction to shaders using threejs.
 *   [Three.js 101](https://medium.com/@necsoft/three-js-101-hello-world-part-1-443207b1ebe1) - Introduction to three.js from a creative coder perspective.
-*   [Experimenting with Three.js shaders and the ShaderMaterial](http://blog.2pha.com/experimenting-threejs-shaders-and-shadermaterial) - Introduction to custom mesh shader materials.
 *   [lwjgl: Shaders (⭐1.8k)](https://github.com/mattdesl/lwjgl-basics/wiki/Shaders) - Shader tutorial in the context of lwjgl-basics.
 *   [WebGL Beyond Dom (⭐16)](https://github.com/gregtatum/talk-webgl-beyond-dom) - Greg Tatum explain the basic of WebGL using Regl.
 *   [FBO particles](http://barradeau.com/blog/?p=621) - Article about FBO/GPGPU particles by @nicoptere.
@@ -779,8 +768,6 @@
 *   [Custom shaders with Three.JS](https://csantosbh.wordpress.com/2014/01/09/custom-shaders-with-three-js-uniforms-textures-and-lighting/) - Introduction to custom shaders, uniforms, textures and lighting in three.js.
 *   [An intro to modern OpenGL](http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html) - First part of an introduction to modern OpenGL.
 *   [Modern OpenGL Series (⭐807)](https://github.com/tomdalling/opengl-series) - Good introduction to some of the OpenGL terms.
-*   [Smooth minimum](http://iquilezles.org/www/articles/smin/smin.htm) - Article about the smooth based primitive union.
-*   [Modeling with distance functions](http://iquilezles.org/www/articles/distfunctions/distfunctions.htm) - Collection of distance functions in one centralized place.
 *   [Volumetric rendering](http://www.alanzucconi.com/2016/07/01/volumetric-rendering/) - Explains how to create complex 3D shapes inside volumetric shaders.
 *   [Real-time Rendering](http://www.realtimerendering.com/) - Book, blog and collection of resources regarding real-time rendering.
 *   [OpenGL 4 Shaders](http://antongerdelan.net/opengl/shaders.html) - Short and sweet introduction to OpenGL shaders by Anton Gerdelan.
@@ -796,12 +783,10 @@
 *   [Cat Like Coding](http://catlikecoding.com/unity/tutorials/) - In depth tutorials on math, algorithms and Unity.
 *   [Fun Programming](http://funprogramming.org/) - Learn creative coding writing simple programs.
 *   [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - Looks at the use of visualization to understand, explain and debug algorithms.
-*   [Shepherding random numbers](http://inconvergent.net/shepherding-random-numbers/) - Tiny guide to shepherding random numbers.
 *   [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Collection of resources on stuff like path-finding, Ai, math etc.
 
 ### Quick References • Cheatsheets / Other
 
-*   [Shaderific GLSL](http://www.shaderific.com/glsl/) - OpenGL ES shading language reference.
 *   [The Book of Shaders Glossary](https://thebookofshaders.com/glossary/) - Shader glossary by theme.
 *   [gltut glossary pages: 1](https://paroj.github.io/gltut/Basics/Intro%20Glossary.html), [2](https://paroj.github.io/gltut/Basics/Tut01%20Glossary.html), [3](https://paroj.github.io/gltut/Basics/Tut02%20Glossary.html), [4](https://paroj.github.io/gltut/Positioning/Tut04%20Glossary.html), [5](https://paroj.github.io/gltut/Positioning/Tut05%20Glossary.html), [6](https://paroj.github.io/gltut/Positioning/Tut06%20Glossary.html), [7](https://paroj.github.io/gltut/Positioning/Tut07%20Glossary.html), [8](https://paroj.github.io/gltut/Positioning/Tut08%20Glossary.html) - OpenGL 3D programming glossary.
 *   [WebGL Cheatsheet](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) - WebGL 1.0 API reference card.
@@ -820,11 +805,6 @@
 *   [r/processing](https://www.reddit.com/r/processing/) - Subreddit on Processing.
 *   [r/shaders](https://www.reddit.com/r/shaders/) - Subreddit on shaders.
 *   [r/proceduralgeneration](https://www.reddit.com/r/proceduralgeneration/) - Subreddit on procedural generation.
-
-### Slack / Other
-
-*   [Creative-Dev Slack](https://creative-dev.herokuapp.com/) - Creative Development Slack.
-*   [Generative Art Slack](https://genart.herokuapp.com/) - Generative Art Slack.
 
 ### Other / Other
 
@@ -864,13 +844,13 @@
 
 ### Related / Other
 
-*   [Awesome webgl (⭐1.2k)](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
-*   [Awesome visualization research (⭐893)](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.
+*   [Awesome webgl (⭐1.3k)](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
+*   [Awesome visualization research (⭐897)](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.
 *   [Awesome graphics (⭐1k)](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources.
 *   [Graphics resources (⭐1.8k)](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources.
-*   [Magic tools (⭐12k)](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
+*   [Magic tools (⭐13k)](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
 *   [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - Link collection of ray marching on the GPU.
-*   [Awesome public datasets (⭐57k)](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
+*   [Awesome public datasets (⭐58k)](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
 *   [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 
 ## [42. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
@@ -951,7 +931,7 @@
 
 ### Graphic Displays
 
-*   [ggtech (⭐377)](https://github.com/ricardo-bion/ggtech) - ggplot2 tech themes and scales
+*   [ggtech (⭐379)](https://github.com/ricardo-bion/ggtech) - ggplot2 tech themes and scales
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Email
 
-*   [Sender](https://www.sender.net) Up to 15 000 emails/month, up to 2,500 subscribers
+*   [Sender](https://www.sender.net) Up to 15,000 emails/month, up to 2,500 subscribers
 
 ## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

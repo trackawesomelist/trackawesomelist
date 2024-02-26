@@ -148,7 +148,7 @@
 
 ### Web Frameworks
 
-*   [Hobbit (⭐272)](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack.
+*   [Hobbit (⭐273)](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack.
 
 ## [18. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -248,9 +248,9 @@
 
 ### Command-Line Productivity
 
-*   [fzf (⭐55k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+*   [fzf (⭐58k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 *   [marker (⭐2k)](https://github.com/pindexis/marker) - Bookmark your shell commands
-*   [thefuck (⭐80k)](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
+*   [thefuck (⭐81k)](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 
 ### Customization / Directory Navigation
 
@@ -263,7 +263,7 @@
 ### System Utilities / Directory Navigation
 
 *   [htop (⭐5.8k)](https://github.com/hishamhm/htop) - A ncurses based interactive process viewer which aims to be a better `top`
-*   [powertop (⭐870)](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
+*   [powertop (⭐906)](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
 *   [procdog (⭐75)](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
 
 ### Games / Directory Navigation
@@ -274,7 +274,7 @@
 
 ### Date and Time
 
-*   [calendar (⭐459)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
+*   [calendar (⭐460)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
 
 ### Files and Directories
 
@@ -282,7 +282,7 @@
 
 ### Logging
 
-*   [metrix (⭐50)](https://github.com/rwdaigle/metrix) - Log custom app metrics to stdout for use by Librato and other downstream processors.
+*   [metrix (⭐49)](https://github.com/rwdaigle/metrix) - Log custom app metrics to stdout for use by Librato and other downstream processors.
 
 ### Third Party APIs
 

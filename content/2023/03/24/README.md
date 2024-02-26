@@ -17,11 +17,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [unplugin-fonts (⭐268)](https://github.com/cssninjaStudio/unplugin-fonts) - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
+*   [unplugin-fonts (⭐278)](https://github.com/cssninjaStudio/unplugin-fonts) - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
 
 ### Frameworks / Community
 
-*   [Vise (⭐15)](https://github.com/stauren/vise-ssr) - SSR framework with server hooks. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
+*   [Vise (⭐16)](https://github.com/stauren/vise-ssr) - SSR framework with server hooks. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -58,19 +58,19 @@
 
 ### Applications
 
-*   [Plural (⭐1.2k)](https://github.com/pluralsh/plural) - Deploys your favorite open source applications like airflow and airbyte in your own cloud account with just two commands.  Written in Elixir and Phoenix Framework for server side, and React for frontend.
+*   [Plural (⭐1.3k)](https://github.com/pluralsh/plural) - Deploys your favorite open source applications like airflow and airbyte in your own cloud account with just two commands.  Written in Elixir and Phoenix Framework for server side, and React for frontend.
 
 ## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Artificial Intelligence
 
-*   [zurawiki/tiktoken-rs (⭐180)](https://github.com/zurawiki/tiktoken-rs) \[[tiktoken-rs](https://crates.io/crates/tiktoken-rs)] — Rust library for tokenizing text with OpenAI models using tiktoken. [![CI](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml)
+*   [zurawiki/tiktoken-rs (⭐185)](https://github.com/zurawiki/tiktoken-rs) \[[tiktoken-rs](https://crates.io/crates/tiktoken-rs)] — Library for tokenizing text with OpenAI models using tiktoken. [![CI](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml)
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Audio and Video Tools / Audio Record and Process
 
-*   [Stargate DAW (⭐570)](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aria2) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Stargate DAW (⭐578)](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aria2) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / File Organization Tools
 
@@ -86,7 +86,7 @@
 
 ### Large Language Models (LLMs)
 
-*   \[🔥🔥🔥] [oobabooga/text-generation-webui (⭐32k)](https://github.com/oobabooga/text-generation-webui): a gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion
+*   \[🔥🔥🔥] [oobabooga/text-generation-webui (⭐33k)](https://github.com/oobabooga/text-generation-webui): a gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion
 *   [Why LLaMa Is A Big Deal | Hackaday](https://hackaday.com/2023/03/22/why-llama-is-a-big-deal/): post that discusses the impact of LLaMa and Alpaca in popularizing LLMs and even using them in small hardware devices
 
 ## [11. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
@@ -109,7 +109,7 @@
 
 ### Music Programming
 
-*   [Sardine (⭐146)](https://github.com/Bubobubobubobubo/sardine) - a music live coding library for Python 3.10+ (MIDI/OSC/SuperCollider).
+*   [Sardine (⭐169)](https://github.com/Bubobubobubobubo/sardine) - a music live coding library for Python 3.10+ (MIDI/OSC/SuperCollider).
 
 ## [14. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -125,8 +125,8 @@
 
 ### Starters & Themes
 
-*   🚀 [Angular-Tailwind (⭐138)](https://github.com/luciano-work/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
-*   🚀 [Vue-Resume (⭐7)](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
+*   🚀 [Angular-Tailwind (⭐157)](https://github.com/luciano-work/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
+*   🚀 [Vue-Resume (⭐10)](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
 
 ## [16. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

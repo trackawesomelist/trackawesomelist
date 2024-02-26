@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 16 - Jan 22, 2023
 
-52 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -57,7 +57,7 @@
 
 *   [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications. ([Source Code (⭐32k)](https://github.com/docker/compose)) `Apache-2.0` `Go`
 *   [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines. ([Source Code (⭐3.2k)](https://github.com/moby/swarmkit)) `Apache-2.0` `Go`
-*   [LXD](https://linuxcontainers.org/lxd/) - Container "hypervisor" and a better UX for LXC. ([Source Code (⭐1.6k)](https://github.com/lxc/lxd)) `Apache-2.0` `Go`
+*   [LXD](https://linuxcontainers.org/lxd/) - Container "hypervisor" and a better UX for LXC. ([Source Code (⭐1.7k)](https://github.com/lxc/lxd)) `Apache-2.0` `Go`
 
 ## [8. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
@@ -255,11 +255,11 @@
 
 ### Software / Automation
 
-*   [Activepieces](https://www.activepieces.com) - No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. ([Source Code (⭐6.2k)](https://github.com/activepieces/activepieces)) `MIT` `Docker`
+*   [Activepieces](https://www.activepieces.com) - No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. ([Source Code (⭐6.5k)](https://github.com/activepieces/activepieces)) `MIT` `Docker`
 
 ### Software / Recipe Management
 
-*   [Bar Assistant (⭐298)](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://bar.karlomikus.com/)) `MIT` `PHP/Docker`
+*   [Bar Assistant (⭐309)](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://bar.karlomikus.com/)) `MIT` `PHP/Docker`
 
 ### Software / Wikis
 
@@ -297,35 +297,29 @@
 
 *   [Guaranteeing webhook delivery in NextJS Application](https://www.bharathvaj.me/blog/implement-webhook-nextjs)
 
-## [22. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Mathematics For Computer Science
-
-*   [Graph Theory Exercises](https://www.ime.usp.br/~pf/graph-exercises/) - Paulo Feofiloff (PDF)
-
-## [23. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [22. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Flowbite Admin Dashboard (⭐1.3k)](https://github.com/themesberg/flowbite-admin-dashboard) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
+*   📁 [Flowbite Admin Dashboard (⭐1.4k)](https://github.com/themesberg/flowbite-admin-dashboard) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
 
-## [24. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [23. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Articles / Others
 
 *   [Reducing Blazor WASM size by providing custom ICU data](https://www.meziantou.net/reducing-blazor-application-size-by-providing-custom-icu-data.htm) - January 16, 2023 - Reducing Blazor WASM size by providing custom ICU data.
 
-## [25. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [24. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Static Page Generation
 
-*   [NimblePublisher (⭐414)](https://github.com/dashbitco/nimble_publisher) - Minimal filesystem-based publisher with markdown and syntax highlighting.
+*   [NimblePublisher (⭐428)](https://github.com/dashbitco/nimble_publisher) - Minimal filesystem-based publisher with markdown and syntax highlighting.
 
 ### Third Party APIs
 
 *   [omise (⭐10)](https://github.com/omise/omise-elixir) - Omise client library for Elixir.
 
-## [26. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [25. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Specifications
 
@@ -342,13 +336,13 @@
 
 *   [GraphQL Roadmap](https://roadmap.sh/graphql/) - Step by step guide to learn GraphQL.
 
-## [27. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [26. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### operations
 
 *   [geojson-indoor-tools (⭐3)](https://github.com/armanjr/geojson-indoor-tools): Python tools for editing indoor GeoJSON features: adding room heights, building walls and creating doors
 
-## [28. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [27. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Racing
 
@@ -358,54 +352,54 @@
 
 *   [VanillaConquer (⭐285)](https://github.com/TheAssemblyArmada/Vanilla-Conquer/) - Command and Conquer and Red Alert original release source port based on the remaster source code drop.
 
-## [29. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [28. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Photo / Image
 
-*   [yet-another-react-lightbox (⭐588)](https://github.com/igordanchenko/yet-another-react-lightbox) - [demo](https://yet-another-react-lightbox.com/examples) - [docs](https://yet-another-react-lightbox.com/documentation) - React lightbox component.
+*   [yet-another-react-lightbox (⭐615)](https://github.com/igordanchenko/yet-another-react-lightbox) - [demo](https://yet-another-react-lightbox.com/examples) - [docs](https://yet-another-react-lightbox.com/documentation) - React lightbox component.
 
-## [30. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [29. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
 *   [Deep Learning Interview Questions](https://www.adaface.com/blog/deep-learning-interview-questions/)
 
-## [31. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [30. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Network
 
 *   [MasterQ32/zig-network (⭐365)](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.
 *   [dantecatalfamo/zig-dns (⭐55)](https://github.com/dantecatalfamo/zig-dns) - Experimental DNS library implemented in zig.
 
-## [32. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [31. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Security
 
-*   [teler-waf (⭐228)](https://github.com/kitabisa/teler-waf) - teler-waf is a Go HTTP middleware that provide teler IDS functionality to protect against web-based attacks and improve the security of Go-based web applications. It is highly configurable and easy to integrate into existing Go applications.
+*   [teler-waf (⭐231)](https://github.com/kitabisa/teler-waf) - teler-waf is a Go HTTP middleware that provide teler IDS functionality to protect against web-based attacks and improve the security of Go-based web applications. It is highly configurable and easy to integrate into existing Go applications.
 
-## [33. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [32. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / Managed File Transfer
 
 *   [TIBCO Managed File Transfer](https://www.tibco.com/products/tibco-managed-file-transfer) - A centrally managed MFT platform with powerful automation capabilities and advanced security features, capable of supporting all file transfer use cases. It is an ideal choice for businesses that require a comprehensive MFT solution.
 
-## [34. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [33. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Design and Product / Screencapturing Software
 
 *   [Snagit](https://www.techsmith.com/screen-capture.html) - Screen Capture and Recording Software. Simple and Powerful.
 
-### Mac App Download Sites / Pirated software download site blacklist
+### Mac App Download Sites / Pirated software download site blocklist
 
 *   Appstorrent：~~`http://appstorrent.ru/`~~
 
-## [35. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [34. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Resources / Other
 
 *   [Code extension](https://marketplace.visualstudio.com/items?itemName=nhedger.inertia) - Visual Studio Code extension for Inertia.js.
 
-## [36. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [35. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -422,7 +416,7 @@
 
 *   [TailwindUI theme (⭐22)](https://github.com/santiblanko/tailwind-keycloak-theme)
 
-## [37. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [36. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -433,19 +427,19 @@
 *   [SLT (⭐178)](https://github.com/Enerccio/SLT) -  an IDE Plugin for Itellij/Jetbrains IDE lineup implementing support for Common Lisp via SBCL and Slime/Swank.
     *   🎉 NEW! Released in Jan, 2023.
 
-## [38. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [37. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
 *   [Matcha - Daily RSS Digest (⭐367)](https://github.com/piqoni/matcha) <sup>[1298](https://t.me/s/aboutrss/1298)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/piqoni/matcha)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
 
-## [39. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [38. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Editing Support / Diagnostics
 
 *   [echasnovski/mini.nvim#mini.move (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-move.md) - Module of `mini.nvim` to move any selection (charwise, linewise, blockwise, current line in Normal mode) in any direction. Handles both `v:count` and undo history.
 
-## [40. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [39. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Knowledge Management
 
@@ -467,7 +461,7 @@
 
 *   [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://arxiv.org/pdf/1612.03975.pdf) - ***AAAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7089916805257737701\&hl=en\&as_sdt=0,5)]. Latest version of ConceptNet.
 
-## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [40. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -489,17 +483,17 @@
 
 *   [Stellate](https://stellate.co/) - Stellate is a blazing-fast, reliable CDN for your GraphQL API and free for two services.
 
-## [42. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [Insurance-system (⭐38)](https://github.com/DaZuiZui/Insurance-system) - Insurance system made by springboot and vue.
 
-## [43. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [42. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
-*   [vite-mui-ts (⭐33)](https://github.com/emre-cil/vite-mui-ts) - React + TypeScript + Redux + Material UI + RRD + ESLint + Prettier.
+*   [vite-mui-ts (⭐34)](https://github.com/emre-cil/vite-mui-ts) - React + TypeScript + Redux + Material UI + RRD + ESLint + Prettier.
 *   [leo-react-app (⭐3)](https://github.com/Leo-Henrique/leo-react-app) - React + SASS | Template for React applications with SASS boilerplate for consistent interfaces.
 
 ### Framework-agnostic Plugins / Integrations
@@ -509,44 +503,44 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-image-optimizer (⭐209)](https://github.com/FatehAK/vite-plugin-image-optimizer) - Optimize (compress) your image assets using Sharp.js and SVGO at build time.
+*   [vite-plugin-image-optimizer (⭐226)](https://github.com/FatehAK/vite-plugin-image-optimizer) - Optimize (compress) your image assets using Sharp.js and SVGO at build time.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [Vite-plugin-haxe (⭐4)](https://github.com/ciscoheat/vite-plugin-haxe) - Use Haxe when targeting JS, transforming `.hxml`.
+*   [Vite-plugin-haxe (⭐5)](https://github.com/ciscoheat/vite-plugin-haxe) - Use Haxe when targeting JS, transforming `.hxml`.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-shortcuts (⭐9)](https://github.com/kinfuy/vite-plugin-shortcuts) - Add additional customized shortcut key population.
-*   [vite-plugin-auto-alias (⭐4)](https://github.com/jwyGithub/vite-plugin-auto-alias) - Automatically generate alias based on path.
+*   [vite-plugin-shortcuts (⭐10)](https://github.com/kinfuy/vite-plugin-shortcuts) - Add additional customized shortcut key population.
+*   [vite-plugin-auto-alias (⭐5)](https://github.com/jwyGithub/vite-plugin-auto-alias) - Automatically generate alias based on path.
 
 ### Open Source / Community
 
-*   [Compiiile (⭐114)](https://github.com/AlbanCrepel/compiiile) - Preview or host folders containing Markdown files with full-text search and presentation slides.
+*   [Compiiile (⭐117)](https://github.com/AlbanCrepel/compiiile) - Preview or host folders containing Markdown files with full-text search and presentation slides.
 
-## [44. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [43. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Text editors
 
 *   [emacs-ng (⭐1.6k)](https://github.com/emacs-ng/emacs-ng) — Complementing the C codebase with rust code to introduce new features.
-*   [Lapce (⭐31k)](https://github.com/lapce/lapce) — A modern editor with a backend written in Rust. Taking inspiration from the discontinued [xi-editor (⭐20k)](https://github.com/xi-editor/xi-editor).
+*   [Lapce (⭐31k)](https://github.com/lapce/lapce) — A modern editor with a backend. Taking inspiration from the discontinued [xi-editor (⭐20k)](https://github.com/xi-editor/xi-editor).
 
 ### Libraries / Configuration
 
-*   [softprops/envy (⭐785)](https://github.com/softprops/envy) - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml)
+*   [softprops/envy (⭐790)](https://github.com/softprops/envy) - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml)
 
 ### Libraries / GUI
 
-*   [xilem (⭐2.5k)](https://github.com/linebender/xilem) — Successor of the data-first Rust-native UI design toolkit [druid (⭐9.2k)](https://github.com/linebender/druid).
+*   [xilem (⭐2.5k)](https://github.com/linebender/xilem) — Successor of the data-first UI design toolkit [druid (⭐9.3k)](https://github.com/linebender/druid).
 
 ### Libraries / Platform specific
 
 *   Linux
-    *   [hannobraun/inotify-rs (⭐245)](https://github.com/hannobraun/inotify-rs) — [inotify](https://en.wikipedia.org/wiki/Inotify) bindings [![Rust](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml)
-    *   [pop-os/distinst (⭐215)](https://github.com/pop-os/distinst/) — Linux distribution installer
+    *   [hannobraun/inotify-rs (⭐246)](https://github.com/hannobraun/inotify-rs) — [inotify](https://en.wikipedia.org/wiki/Inotify) bindings [![Rust](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml)
+    *   [pop-os/distinst (⭐216)](https://github.com/pop-os/distinst/) — Linux distribution installer
     *   [yaa110/rust-iptables (⭐81)](https://github.com/yaa110/rust-iptables) \[[iptables](https://crates.io/crates/iptables)] — [iptables](https://www.netfilter.org/projects/iptables/index.html) bindings
 
-## [45. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [44. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -556,7 +550,7 @@
 
 *   [`@Raspberry_Pi@raspberrypi.social` on Mastodon](https://raspberrypi.social/@Raspberry_Pi)
 
-## [46. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [45. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Generative AI history, maps, and definitions
 
@@ -581,7 +575,7 @@
 
 ### Prompt Engineering
 
-*   [dair-ai/Prompt-Engineering-Guide (⭐41k)](https://github.com/dair-ai/Prompt-Engineering-Guide): Guide and resources for prompt engineering
+*   [dair-ai/Prompt-Engineering-Guide (⭐42k)](https://github.com/dair-ai/Prompt-Engineering-Guide): Guide and resources for prompt engineering
 
 ### Text-related Generative Tools / Multi-agents
 
@@ -601,7 +595,7 @@
 
 ### Image Segmentation / Deforum
 
-*   \[🔥] [dmarx/video-killed-the-radio-star (⭐172)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
+*   \[🔥] [dmarx/video-killed-the-radio-star (⭐179)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
 *   \[🔥🔥🔥] [Phenaki – Google Research](https://phenaki.research.google/): realistic video generation from open-domain textual descriptions
 
 ### Inbox: Text-to-speech (TTS) and avatars / Deforum
@@ -622,7 +616,7 @@
 
 *   [BIRME](https://www.birme.net/): Bulk Image Resizing Made Easy 2.0 (Online & Free)
 
-## [47. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [46. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
@@ -630,26 +624,26 @@
 
 ### Contents / Imaging
 
-*   [Slim (⭐83)](https://github.com/ImagingDataCommons/slim) - Interoperable web viewer and annotation tool for computational pathology.
+*   [Slim (⭐100)](https://github.com/ImagingDataCommons/slim) - Interoperable web viewer and annotation tool for computational pathology.
 
 ### Contents / Libraries
 
-*   [ehrapy (⭐45)](https://github.com/theislab/ehrapy/) - Electronic Health Record analysis in Python.
-*   [Hermes (⭐139)](https://github.com/wardle/hermes) - a SNOMED CT terminology server.
+*   [ehrapy (⭐100)](https://github.com/theislab/ehrapy/) - Electronic Health Record analysis in Python.
+*   [Hermes (⭐158)](https://github.com/wardle/hermes) - a SNOMED CT terminology server.
 
-## [48. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [47. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [omz-full-autoupdate (⭐52)](https://github.com/Pilaton/OhMyZsh-full-autoupdate) - Automatically update [oh-my-zsh (⭐166k)](https://github.com/ohmyzsh/ohmyzsh) plugins and themes.
+*   [omz-full-autoupdate (⭐53)](https://github.com/Pilaton/OhMyZsh-full-autoupdate) - Automatically update [oh-my-zsh (⭐167k)](https://github.com/ohmyzsh/ohmyzsh) plugins and themes.
 *   [toolbox (⭐0)](https://github.com/paxcoder/zsh-toolbox) - Automagically updates [homebrew](https://brew.sh) plugins. Allows enabling/disabling notice during startup and alias setup.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [daivasmara (⭐61)](https://github.com/Daivasmara/daivasmara.zsh-theme) - Chill theme with decorators for current directory (truncated if necessary) and `git` information, including time since last commit.
-*   [gianu-alternative (⭐1)](https://github.com/zbentzinger/gianu-alternative-theme) - An alternative to [OMZ Gianu (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/61dd3682e69aa990a8a3589c5c61ea2e1edf8312/themes/gianu.zsh-theme) that changes prompt based on privilege. Includes `git` status and current directory decorators.
+*   [gianu-alternative (⭐1)](https://github.com/zbentzinger/gianu-alternative-theme) - An alternative to [OMZ Gianu (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/61dd3682e69aa990a8a3589c5c61ea2e1edf8312/themes/gianu.zsh-theme) that changes prompt based on privilege. Includes `git` status and current directory decorators.
 
-## [49. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
+## [48. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
 ### Articles / Tutorials
 
@@ -677,7 +671,7 @@
 *   [dotstow (⭐96)](https://github.com/clayrisser/dotstow)
 *   [YADR](http://skwp.github.io/dotfiles/)
 
-## [50. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [49. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Languages / .NET
 
@@ -686,13 +680,13 @@
 *   [dotnet-yieldly-sdk (⭐11)](https://github.com/geoffodonnell/dotnet-yieldly-sdk) - Yieldly .NET SDK.
 *   [powershell-algorand-module (⭐2)](https://github.com/geoffodonnell/powershell-algorand-module) - Algorand PowerShell Module.
 
-## [51. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+## [50. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Specific topics / Zero Knowledge Proofs
 
 *   [Information Theoretic Reductions among Disclosure Problems](https://web.archive.org/http://crypto.cs.mcgill.ca/~crepeau/BCR86.pdf) - Brassau et al.
 
-## [52. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [51. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 

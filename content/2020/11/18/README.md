@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 18, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -59,25 +59,19 @@
 
 *   [An Architectural Risk Analysis Of Machine Learning Systems](https://berryvilleiml.com/docs/ara.pdf)
 
-## [9. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### Books
-
-*   [Think Python](https://greenteapress.com/wp/think-python-2e/)
-
-## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Migration
 
-*   🍰 [Upgrade app (extended) (⭐21)](https://github.com/dereuromark/upgrade) - An extended upgrade app for 3.x=>4.x and some 5.x snippets.
+*   🍰 [Upgrade app (extended) (⭐22)](https://github.com/dereuromark/upgrade) - An extended upgrade app for 3.x=>4.x and some 5.x snippets.
 
-## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Schematics / Components
 
 *   [Threejs (⭐214)](https://github.com/JohnnyDevNull/ng-three-template): New three.js starter app
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Major Cloud Providers
 

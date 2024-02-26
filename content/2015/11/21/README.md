@@ -39,7 +39,7 @@
 
 ### CLI Utilities
 
-*   [Paint (⭐361)](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
+*   [Paint (⭐366)](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -62,7 +62,7 @@
 
 ### HTTP
 
-*   [scrape (⭐328)](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
+*   [scrape (⭐326)](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
 
 ### Utilities
 

@@ -60,7 +60,7 @@
 
 ### Miscellaneous
 
-*   [Credit Modeling (⭐102)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
+*   [Credit Modeling (⭐104)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
 
 ## [7. Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/README.md)
 

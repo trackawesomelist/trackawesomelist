@@ -51,7 +51,7 @@
 
 ### Errors and Exception Handling
 
-*   [sentry-elixir (⭐582)](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
+*   [sentry-elixir (⭐587)](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
 
 ### Miscellaneous
 

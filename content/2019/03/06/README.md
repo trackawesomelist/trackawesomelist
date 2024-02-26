@@ -29,7 +29,7 @@
 
 ### CLI Utilities
 
-*   [Whirly (⭐320)](https://github.com/janlelis/whirly) - A simple, colorful and customizable terminal spinner library for Ruby.
+*   [Whirly (⭐324)](https://github.com/janlelis/whirly) - A simple, colorful and customizable terminal spinner library for Ruby.
 
 ### Cryptocurrencies and Blockchains
 
@@ -37,11 +37,11 @@
 
 ### HTTP Clients and tools
 
-*   [Sniffer (⭐568)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
+*   [Sniffer (⭐570)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
 
 ### Social Networking
 
-*   [Decidim (⭐1.3k)](https://github.com/decidim/decidim) - free open-source participatory democracy for cities and organizations
+*   [Decidim (⭐1.4k)](https://github.com/decidim/decidim) - free open-source participatory democracy for cities and organizations
 
 ## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

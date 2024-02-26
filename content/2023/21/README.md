@@ -10,17 +10,17 @@
 
 ### ⚙️ Middlewares / 🧬 Core
 
-*   [Adaptor (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/adaptor) - Converter for net/http handlers to/from Fiber request handlers.
-*   [Earlydata (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/earlydata) - Early data support for Fiber.
-*   [Helmet (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/helmet) - Helps secure your apps by setting various HTTP headers.
-*   [Idempotency (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/idempotency) - Idempotency middleware for Fiber allows for fault-tolerant APIs where duplicate requests.
-*   [Keyauth (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/keyauth) - Key auth middleware provides a key based authentication.
-*   [Redirect (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/redirect) - Redirect middleware for Fiber.
-*   [Rewrite (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/rewrite) - Rewrite middleware rewrites the URL path based on provided rules. It can be helpful for backward compatibility or just creating cleaner and more descriptive links.
+*   [Adaptor (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/adaptor) - Converter for net/http handlers to/from Fiber request handlers.
+*   [Earlydata (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/earlydata) - Early data support for Fiber.
+*   [Helmet (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/helmet) - Helps secure your apps by setting various HTTP headers.
+*   [Idempotency (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/idempotency) - Idempotency middleware for Fiber allows for fault-tolerant APIs where duplicate requests.
+*   [Keyauth (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/keyauth) - Key auth middleware provides a key based authentication.
+*   [Redirect (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/redirect) - Redirect middleware for Fiber.
+*   [Rewrite (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/rewrite) - Rewrite middleware rewrites the URL path based on provided rules. It can be helpful for backward compatibility or just creating cleaner and more descriptive links.
 
 ### ⚙️ Middlewares / ‍💻 Contrib
 
-*   [fiberi18n (⭐133)](https://github.com/gofiber/contrib/tree/main/fiberi18n) - Middleware for i18n support in Fiber.
+*   [fiberi18n (⭐176)](https://github.com/gofiber/contrib/tree/main/fiberi18n) - Middleware for i18n support in Fiber.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -57,15 +57,15 @@
 
 ### Libraries/Packages/Scripts / Python
 
-*   [Python package seaborn\_polars (⭐19)](https://github.com/pavelcherepan/seaborn_polars) - Python package to plot Polars DataFrames and LazyFrames with [seaborn](https://seaborn.pydata.org/) by [@pavelcherepan](https://github.com/pavelcherepan).
+*   [Python package seaborn\_polars (⭐20)](https://github.com/pavelcherepan/seaborn_polars) - Python package to plot Polars DataFrames and LazyFrames with [seaborn](https://seaborn.pydata.org/) by [@pavelcherepan](https://github.com/pavelcherepan).
 
 ### Libraries/Packages/Scripts / Ruby
 
-*   [polars for Ruby (⭐702)](https://github.com/ankane/polars-ruby) - [Ruby](https://www.ruby-lang.org/en/) `polars-df` gems to use Polars with Ruby.
+*   [polars for Ruby (⭐705)](https://github.com/ankane/polars-ruby) - [Ruby](https://www.ruby-lang.org/en/) `polars-df` gems to use Polars with Ruby.
 
 ### Resources / Tutorials & workshops
 
-*   [Rust Polars: Unlocking High-Performance Data Analysis — Part 1](https://towardsdatascience.com/rust-polars-unlocking-high-performance-data-analysis-part-1-ce42af370ece) - First part of an article that explores the world of Rust’s Polars and explain some basic concepts of Polars such as Series by [@wiseaidev](https://github.com/wiseaidev). Code used is available on Github [here (⭐216)](https://github.com/wiseaidev/rust-data-analysis/blob/main/3-polars-tutorial-part-1.ipynb).
+*   [Rust Polars: Unlocking High-Performance Data Analysis — Part 1](https://towardsdatascience.com/rust-polars-unlocking-high-performance-data-analysis-part-1-ce42af370ece) - First part of an article that explores the world of Rust’s Polars and explain some basic concepts of Polars such as Series by [@wiseaidev](https://github.com/wiseaidev). Code used is available on Github [here (⭐232)](https://github.com/wiseaidev/rust-data-analysis/blob/main/3-polars-tutorial-part-1.ipynb).
 
 ### Resources / Blog posts
 
@@ -73,7 +73,7 @@
 *   [Pandas vs Polars vs Pandas 2.0 … ROUND 2](https://levelup.gitconnected.com/pandas-vs-polars-vs-pandas-2-0-round-2-e1b9acc0f52f) - A blog post that makes a new comparison between Pandas, Pandas 2.0 and Polars by [@guoliveira](https://github.com/guoliveira).
 *   [Polars VS PySpark: Lazy Evaluation and Big Data](https://medium.com/@lgsoliveira/polars-vs-pyspark-lazy-evaluation-and-big-data-fbc933cc11af) - A blog post that compares lazy evaluation between Polars and Spark by [@guoliveira](https://github.com/guoliveira).
 *   [Polars in the aRtic!](https://medium.com/@mcodrescu/polars-in-the-artic-9fda471b6b91) - An another blog post that compares the performance between Pandas and Polars across a range of common data manipulation tasks by [@MCodrescu](https://github.com/MCodrescu). Code used is available on [Github](https://gist.github.com/MCodrescu/45e1adf1ca19863d566a0e0fcead5820).
-*   [A Polars exploration into Kedro](https://kedro.org/blog/a-polars-exploration-into-kedro) - A blog post that explains how Polars can be used instead of pandas in [Kedro ](https://kedro.org/) for your data catalog and data manipulation by [@astrojuanlu](https://github.com/astrojuanlu).
+*   [A Polars exploration into Kedro](https://kedro.org/blog/a-polars-exploration-into-kedro) - A blog post that explains how Polars can be used instead of pandas in [Kedro](https://kedro.org/) for your data catalog and data manipulation by [@astrojuanlu](https://github.com/astrojuanlu).
 *   [High Performance Data Manipulation in Python: pandas 2.0 vs. polars](https://www.datacamp.com/tutorial/high-performance-data-manipulation-in-python-pandas2-vs-polars) - A blog post that compares differences between Python pandas 2.0 and Polars libraries by [@jcanalesluna](https://github.com/jcanalesluna).
 
 ### Resources / Talks and videos
@@ -125,13 +125,13 @@
 
 ### Concepts / Human Concept Representation
 
-*   [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.polyu.edu.hk/cbs/rclcn/images/cdl_articles/H/Huth_et_al._2016.pdf) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14997953800741854188\&hl=en\&as_sdt=0,5)]. \[[Code & Tutorial (⭐23)](https://github.com/HuthLab/speechmodeltutorial)]. Systematically mapping semantic selectivity across the cortex using voxel-wise modelling of functional MRI data collected while subjects listened to hours of narrative stories, showing that the semantic system is
+*   [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.polyu.edu.hk/cbs/rclcn/images/cdl_articles/H/Huth_et_al._2016.pdf) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14997953800741854188\&hl=en\&as_sdt=0,5)]. \[[Code & Tutorial (⭐24)](https://github.com/HuthLab/speechmodeltutorial)]. Systematically mapping semantic selectivity across the cortex using voxel-wise modelling of functional MRI data collected while subjects listened to hours of narrative stories, showing that the semantic system is
     organized into intricate patterns that seem to be consistent across individuals.
 *   [Using a high-dimensional graph of semantic space to model relationships among words](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00385/full) - ***Frontiers in Psychology***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=472523411548302295\&hl=en\&as_sdt=0,5)]. First-order similarity and second-order relation metrics for word embedding.
 
 ### Domain Specific Language / Domain Specified Applications
 
-*   [A high-level programming language for generative protein design](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1) - 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=11732741354610784314\&hl=en\&as_sdt=0,5)].
+*   [A high-level programming language for generative protein design](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1) - 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=11732741354610784314\&hl=en\&as_sdt=0,5)]. A high-level programming language based on modular building blocks that allows a designer to easily compose a set of desired properties. Along with the programming language, there is an energy-based generative model, built on atomic resolution structure prediction with a language model, that realizes all-atom structure designs that have the programmed properties.
 
 ### Science Logology / Democratization of Science
 
@@ -159,14 +159,14 @@
 
 ### Other Tools / Telegram
 
-*   [SpiderSuite (⭐450)](https://github.com/3nock/SpiderSuite) - An advance, cross-platform, GUI web security crawler.
+*   [SpiderSuite (⭐486)](https://github.com/3nock/SpiderSuite) - An advance, cross-platform, GUI web security crawler.
 
 ## [15. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
 *   [playwright-chrome-recorder (⭐11)](https://github.com/AndrewUsher/playwright-chrome-recorder) - Export Playwright tests from Google Chrome DevTools' recordings programmatically.
-*   [Playwright Chrome Recorder Extension (⭐7)](https://github.com/AndrewUsher/playwright-recorder-extension) - Export DevTools Recordings as Playwright Tests directly from the DevTools Recorder Panel.
+*   [Playwright Chrome Recorder Extension (⭐8)](https://github.com/AndrewUsher/playwright-recorder-extension) - Export DevTools Recordings as Playwright Tests directly from the DevTools Recorder Panel.
 
 ### Utils
 
@@ -260,29 +260,29 @@
 
 ### Android App Store
 
-*   [Accrescent (⭐674)](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability.
+*   [Accrescent (⭐682)](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability.
 
 ### Midjourney
 
-*   [Stable Diffusion (⭐34k)](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models.
-    *   [Stable Diffusion Web UI (⭐120k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A browser interface for Stable Diffusion.
+*   [Stable Diffusion (⭐35k)](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models.
+    *   [Stable Diffusion Web UI (⭐122k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A browser interface for Stable Diffusion.
 
 ### Medical health
 
-*   [Fasten (⭐1.1k)](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 1000's of insurances/hospitals/clinics.
+*   [Fasten (⭐1.2k)](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 1000's of insurances/hospitals/clinics.
 
 ### Audio
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [mucke (⭐194)](https://github.com/moritz-weber/mucke) - A music player for local files with unique custom playback options.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [mucke (⭐195)](https://github.com/moritz-weber/mucke) - A music player for local files with unique custom playback options.
 
 ### YouTube
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Clipious (⭐541)](https://github.com/lamarios/clipious) Invidious client for android
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Clipious (⭐570)](https://github.com/lamarios/clipious) Invidious client for android
 
 ### Text to Speech
 
-*   [Bark (⭐30k)](https://github.com/suno-ai/bark) - Bark can be run 100% locally and can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects.
-*   [Piper (⭐2.9k)](https://github.com/rhasspy/piper) - A fast, local neural text to speech system that sounds great and is optimized for the Raspberry Pi 4.
+*   [Bark (⭐31k)](https://github.com/suno-ai/bark) - Bark can be run 100% locally and can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects.
+*   [Piper (⭐3.2k)](https://github.com/rhasspy/piper) - A fast, local neural text to speech system that sounds great and is optimized for the Raspberry Pi 4.
 *   [Espeak (⭐2.7k)](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents. Voices will sound rather robotic.
 
 ### Desktop / Alternative clients/modifications of Discord:
@@ -335,13 +335,13 @@
 
 ## [25. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
-### Web / HTTP
+### Web / Messaging
 
 *   [floscodes/zerve (⭐35)](https://github.com/floscodes/zerve) - Simple framework for writing web services and web apps.
 
 ### Learning resources / Package managers
 
-*   [ratfactor/ziglings (⭐3.9k)](https://github.com/ratfactor/ziglings) - Learn Zig by fixing tiny example programs.
+*   [ratfactor/ziglings (⭐4k)](https://github.com/ratfactor/ziglings) - Learn Zig by fixing tiny example programs.
 
 ## [26. Awesome V](/content/vlang/awesome-v/week/README.md)
 
@@ -443,7 +443,7 @@
 
 ### Graphics
 
-*   [GLFWPP (⭐85)](https://github.com/janekb04/glfwpp) - A thin modern C++17 header-only wrapper for GLFW. \[MIT]
+*   [GLFWPP (⭐87)](https://github.com/janekb04/glfwpp) - A thin modern C++17 header-only wrapper for GLFW. \[MIT]
 *   [Ogre 3D](https://github.com/OGRECave) :zap: - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++. \[MIT] [website](https://www.ogre3d.org)
 
 ### Image Processing
@@ -456,7 +456,7 @@
 
 ### Multimedia
 
-*   [SDL (⭐7.6k)](https://github.com/libsdl-org/SDL) :zap: - Simple DirectMedia Layer. \[zlib] [website](https://libsdl.org)
+*   [SDL (⭐7.8k)](https://github.com/libsdl-org/SDL) :zap: - Simple DirectMedia Layer. \[zlib] [website](https://libsdl.org)
 
 ### Integrated Development Environment
 
@@ -467,12 +467,12 @@
 
 ### Framework Components
 
-*   [phoenix\_svg (⭐6)](https://github.com/jsonmaur/phoenix-svg) - Use inline SVGs in Phoenix.
-*   [phoenix\_turnstile (⭐5)](https://github.com/jsonmaur/phoenix-turnstile) - Phoenix components and helpers for using CAPTCHAs with Cloudflare Turnstile.
+*   [phoenix\_svg (⭐7)](https://github.com/jsonmaur/phoenix-svg) - Use inline SVGs in Phoenix.
+*   [phoenix\_turnstile (⭐7)](https://github.com/jsonmaur/phoenix-turnstile) - Phoenix components and helpers for using CAPTCHAs with Cloudflare Turnstile.
 
 ### Frameworks
 
-*   [Petal Components (⭐700)](https://github.com/petalframework/petal_components) - A set of HEEX components that makes it easy for Phoenix developers to build beautiful web apps.
+*   [Petal Components (⭐715)](https://github.com/petalframework/petal_components) - A set of HEEX components that makes it easy for Phoenix developers to build beautiful web apps.
 
 ### ORM and Datamapping
 
@@ -480,19 +480,19 @@
 
 ### Search
 
-*   [algoliax (⭐49)](https://github.com/WTTJ/algoliax) - An Algolia library for Elixir, usable with Ecto schemas.
+*   [algoliax (⭐52)](https://github.com/WTTJ/algoliax) - An Algolia library for Elixir, usable with Ecto schemas.
 
 ### Security
 
-*   [site\_encrypt (⭐435)](https://github.com/sasa1977/site_encrypt) - Integrated certification via Let's encrypt for Elixir-powered sites.
+*   [site\_encrypt (⭐442)](https://github.com/sasa1977/site_encrypt) - Integrated certification via Let's encrypt for Elixir-powered sites.
 
 ### Static Page Generation
 
-*   [phoenix\_pages (⭐55)](https://github.com/jsonmaur/phoenix-pages) - Add blogs, documentation, and other static pages to Phoenix apps.
+*   [phoenix\_pages (⭐61)](https://github.com/jsonmaur/phoenix-pages) - Add blogs, documentation, and other static pages to Phoenix apps.
 
 ### Text and Numbers
 
-*   [namor (⭐9)](https://github.com/jsonmaur/namor) - A name generator that creates random, url-friendly slugs.
+*   [namor (⭐10)](https://github.com/jsonmaur/namor) - A name generator that creates random, url-friendly slugs.
 
 ### Third Party APIs
 
@@ -508,17 +508,17 @@
 
 ### Authentication and OAuth
 
-*   [Authentication Zero (⭐1.1k)](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications.
+*   [Authentication Zero (⭐1.2k)](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications.
 
 ### Error Handling
 
-*   [Sentry Ruby (⭐905)](https://github.com/getsentry/sentry-ruby) - The Ruby client for Sentry.
+*   [Sentry Ruby (⭐907)](https://github.com/getsentry/sentry-ruby) - The Ruby client for Sentry.
 
 ## [35. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Advanced Console UIs
 
-*   [bubbles (⭐4.3k)](https://github.com/charmbracelet/bubbles) - TUI components for bubbletea.
+*   [bubbles (⭐4.4k)](https://github.com/charmbracelet/bubbles) - TUI components for bubbletea.
 
 ### Queues
 
@@ -526,27 +526,27 @@
 
 ### Caches
 
-*   [nscache (⭐8)](https://github.com/no-src/nscache) - A Go caching framework that supports multiple data source drivers.
+*   [nscache (⭐9)](https://github.com/no-src/nscache) - A Go caching framework that supports multiple data source drivers.
 
 ### Databases Implemented in Go
 
-*   [libradb (⭐135)](https://github.com/amit-davidson/LibraDB) - LibraDB is a simple database with less then 1000 lines of code for learning.
+*   [libradb (⭐139)](https://github.com/amit-davidson/LibraDB) - LibraDB is a simple database with less then 1000 lines of code for learning.
 
 ### Relational Database Drivers
 
-*   [surrealdb.go (⭐202)](https://github.com/surrealdb/surrealdb.go) - SurrealDB Driver for Go.
+*   [surrealdb.go (⭐203)](https://github.com/surrealdb/surrealdb.go) - SurrealDB Driver for Go.
 
 ### Distributed Systems
 
-*   [raft (⭐459)](https://github.com/etcd-io/raft) - Go implementation of the Raft consensus protocol, by CoreOS.
+*   [raft (⭐467)](https://github.com/etcd-io/raft) - Go implementation of the Raft consensus protocol, by CoreOS.
 
 ### Error Handling
 
-*   [oops (⭐140)](https://github.com/samber/oops) - Error handling with context, stack trace and source fragments.
+*   [oops (⭐153)](https://github.com/samber/oops) - Error handling with context, stack trace and source fragments.
 
 ### Generators
 
-*   [convergen (⭐20)](https://github.com/reedom/convergen) - Feature rich type-to-type copy code generator.
+*   [convergen (⭐21)](https://github.com/reedom/convergen) - Feature rich type-to-type copy code generator.
 
 ### IoT (Internet of Things)
 
@@ -559,8 +559,8 @@
 
 ### Logging
 
-*   [slog-multi (⭐212)](https://github.com/samber/slog-multi) - Chain of slog.Handler (pipeline, fanout...).
-*   [tint (⭐537)](https://github.com/lmittmann/tint) - A slog.Handler that writes tinted logs.
+*   [slog-multi (⭐217)](https://github.com/samber/slog-multi) - Chain of slog.Handler (pipeline, fanout...).
+*   [tint (⭐548)](https://github.com/lmittmann/tint) - A slog.Handler that writes tinted logs.
 
 ### Uncategorized
 
@@ -569,7 +569,7 @@
 ### Networking
 
 *   [go-sse (⭐6)](https://github.com/lampctl/go-sse) - Go client and server implementation of HTML server-sent events.
-*   [gws (⭐894)](https://github.com/lxzan/gws) - High-Performance WebSocket Server & Client With AsyncIO Supporting .
+*   [gws (⭐913)](https://github.com/lxzan/gws) - High-Performance WebSocket Server & Client With AsyncIO Supporting .
 
 ### Security
 
@@ -586,7 +586,7 @@
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
-*   [Chronos (⭐415)](https://github.com/amit-davidson/Chronos) - Detects race conditions statically
+*   [Chronos (⭐418)](https://github.com/amit-davidson/Chronos) - Detects race conditions statically
 
 ### Go Generate Tools / Libraries for creating HTTP middlewares
 
@@ -598,9 +598,9 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [gobrew (⭐326)](https://github.com/kevincobain2000/gobrew) - Go version manager. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
+*   [gobrew (⭐330)](https://github.com/kevincobain2000/gobrew) - Go version manager. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
 *   [KubeVela (⭐5.9k)](https://github.com/kubevela/kubevela) - Cloud native application delivery.
-*   [tf-profile (⭐135)](https://github.com/datarootsio/tf-profile) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
+*   [tf-profile (⭐139)](https://github.com/datarootsio/tf-profile) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -625,15 +625,15 @@
 
 ### Applications
 
-*   [innernet (⭐4.7k)](https://github.com/tonarino/innernet) - An overlay or private mesh network that uses Wireguard under the hood
+*   [innernet (⭐4.8k)](https://github.com/tonarino/innernet) - An overlay or private mesh network that uses Wireguard under the hood
 
 ### Applications / Utilities
 
-*   [warpdotdev/Warp (⭐17k)](https://github.com/warpdotdev/Warp) :heavy\_dollar\_sign: — Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+*   [warpdotdev/Warp (⭐18k)](https://github.com/warpdotdev/Warp) :heavy\_dollar\_sign: — Warp is a blazingly-fast modern GPU-accelerated terminal built to make you and your team more productive.
 
 ### Development tools / Web Servers
 
-*   [intelli-shell (⭐149)](https://github.com/lasantosr/intelli-shell) - Bookmark commands with placeholders and search or autocomplete at any time [![crate](https://img.shields.io/crates/v/intelli-shell.svg)](https://crates.io/crates/intelli-shell) [![build badge](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml/badge.svg)](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml)
+*   [intelli-shell (⭐151)](https://github.com/lasantosr/intelli-shell) - Bookmark commands with placeholders and search or autocomplete at any time [![crate](https://img.shields.io/crates/v/intelli-shell.svg)](https://crates.io/crates/intelli-shell) [![build badge](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml/badge.svg)](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml)
 
 ### Development tools / FFI
 
@@ -643,11 +643,11 @@
 
 ### Libraries / Astronomy
 
-*   [cds-astro/aladin-lite (⭐84)](https://github.com/cds-astro/aladin-lite) - Web application for visualizing spatial and planetary image surveys in different projections
+*   [cds-astro/aladin-lite (⭐85)](https://github.com/cds-astro/aladin-lite) - Web application for visualizing spatial and planetary image surveys in different projections
 
 ### Libraries / Cryptography
 
-*   [arkworks-rs/circom-compat (⭐212)](https://github.com/arkworks-rs/circom-compat) - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation in Rust.
+*   [arkworks-rs/circom-compat (⭐214)](https://github.com/arkworks-rs/circom-compat) - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation.
 
 ### Libraries / Data streaming
 
@@ -733,11 +733,11 @@
 
 ### Community plugins
 
-*   [Websocket (⭐9)](https://github.com/mia-z/capacitor-websocket) - Plugin providing native Websocket implementations for each platform.
+*   [Websocket (⭐10)](https://github.com/mia-z/capacitor-websocket) - Plugin providing native Websocket implementations for each platform.
 
 ### [Capgo plugins](https://capgo.app/)
 
-*   [Live Update (⭐400)](https://github.com/Cap-go/capacitor-updater) - Live update for capacitor app.
+*   [Live Update (⭐430)](https://github.com/Cap-go/capacitor-updater) - Live update for capacitor app.
 
 ### Learning / Community Tutorials
 
@@ -978,7 +978,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [Ahoo-Wang/Wow (⭐112)](https://github.com/Ahoo-Wang/Wow) - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
+*   [Ahoo-Wang/Wow (⭐116)](https://github.com/Ahoo-Wang/Wow) - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
 
 ### Libraries/Frameworks / Validation
 
@@ -1046,15 +1046,15 @@
 
 ### Contents / Frameworks
 
-*   [Medblocks UI (⭐39)](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
+*   [Medblocks UI (⭐46)](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
 
 ### Contents / Libraries
 
-*   [Datamol (⭐356)](https://github.com/datamol-io/datamol) - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
+*   [Datamol (⭐409)](https://github.com/datamol-io/datamol) - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
 
 ### Contents / Data
 
-*   [Atlas BI Library (⭐12)](https://github.com/atlas-bi/Library) The unified report library.
+*   [Atlas BI Library (⭐13)](https://github.com/atlas-bi/Library) The unified report library.
 
 ## [63. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
 
@@ -1129,7 +1129,7 @@
 
 ### Vue / Transformers
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-css-modules (⭐14)](https://github.com/zeokku/vite-plugin-vue-css-modules) - Implicit usage of CSS Modules for template and script SFC tags with static replacement.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-css-modules (⭐15)](https://github.com/zeokku/vite-plugin-vue-css-modules) - Implicit usage of CSS Modules for template and script SFC tags with static replacement.
 
 ### Angular / Integrations
 
@@ -1145,7 +1145,7 @@
 
 ### Tools / Community providers
 
-*   [tf-profile (⭐135)](https://github.com/datarootsio/tf-profile/) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
+*   [tf-profile (⭐139)](https://github.com/datarootsio/tf-profile/) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
 
 ## [71. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -1230,18 +1230,14 @@
 
 *   [Netron](https://netron.app/) - Visualizer for neural network and machine learning models. ([Source Code (⭐25k)](https://github.com/lutzroeder/netron)) `MIT` `Python/Nodejs`
 
-### Software / File Transfer - Single-click & Drag-n-drop Upload
-
-*   [Pairdrop (⭐2.3k)](https://github.com/schlagmichdoch/pairdrop) - Local file sharing in your browser, inspired by Apple's AirDrop (fork of Snapdrop). `GPL-3.0` `Docker`
-
 ### Software / Miscellaneous
 
 *   [Gophish](https://getgophish.com/) - Gophish is a powerful, open-source phishing framework that makes it easy to test your organization's exposure to phishing. ([Source Code (⭐10k)](https://github.com/gophish/gophish)) `MIT` `Go/Docker`
-*   [Upsnap (⭐1.3k)](https://github.com/seriousm4x/UpSnap) - A simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. `MIT` `Go/Docker`
+*   [Upsnap (⭐1.5k)](https://github.com/seriousm4x/UpSnap) - A simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. `MIT` `Go/Docker`
 
 ### Software / Note-taking & Editors
 
-*   [flatnotes (⭐798)](https://github.com/dullage/flatnotes) - A self-hosted, database-less note-taking web app that utilises a flat folder of markdown files for storage. ([Demo](https://demo.flatnotes.io)) `MIT` `Docker`
+*   [flatnotes (⭐842)](https://github.com/dullage/flatnotes) - A self-hosted, database-less note-taking web app that utilises a flat folder of markdown files for storage. ([Demo](https://demo.flatnotes.io)) `MIT` `Docker`
 
 ### Software / Office Suites
 
@@ -1249,20 +1245,20 @@
 
 ### Software / Personal Dashboards
 
-*   [Homarr](https://homarr.dev) - Sleek, modern dashboard with many integrations and web-based config. ([Demo](https://demo.homarr.dev), [Source Code (⭐4.5k)](https://github.com/ajnart/homarr)) `MIT` `Docker/Nodejs`
-*   [Starbase 80 (⭐153)](https://github.com/notclickable-jordan/starbase-80) - A simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file. `MIT` `Docker`
+*   [Homarr](https://homarr.dev) - Sleek, modern dashboard with many integrations and web-based config. ([Demo](https://demo.homarr.dev), [Source Code (⭐4.6k)](https://github.com/ajnart/homarr)) `MIT` `Docker/Nodejs`
+*   [Starbase 80 (⭐156)](https://github.com/notclickable-jordan/starbase-80) - A simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file. `MIT` `Docker`
 
 ### Software / Task Management & To-do Lists
 
-*   [Tasks.md (⭐221)](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, file based task management board that supports Markdown syntax. `MIT` `Docker`
+*   [Tasks.md (⭐326)](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, file based task management board that supports Markdown syntax. `MIT` `Docker`
 
 ### Software / URL Shorteners
 
-*   [Pastr (⭐18)](https://github.com/hossainalhaidari/pastr) - Super-minimal URL shortener and paste tool that uses a flat-file storage and has no dependencies. ([Demo](https://alhai.de)) `MIT` `Go/Docker`
+*   [Pastr (⭐21)](https://github.com/hossainalhaidari/pastr) - Super-minimal URL shortener and paste tool that uses a flat-file storage and has no dependencies. ([Demo](https://alhai.de)) `MIT` `Go/Docker`
 
 ### Software / Wikis
 
-*   [Mycorrhiza Wiki](https://mycorrhiza.wiki/) - Filesystem and git-based wiki engine written in Go using Mycomarkup as its primary markup language. ([Source Code (⭐199)](https://github.com/bouncepaw/mycorrhiza/)) `AGPL-3.0` `Go`
+*   [Mycorrhiza Wiki](https://mycorrhiza.wiki/) - Filesystem and git-based wiki engine written in Go using Mycomarkup as its primary markup language. ([Source Code (⭐202)](https://github.com/bouncepaw/mycorrhiza/)) `AGPL-3.0` `Go`
 
 ## [77. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -1282,17 +1278,17 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bitwarden (casonadams) (⭐1)](https://github.com/casonadams/bitwarden-cli) - A [Bitwarden](https://bitwarden.com/download/) CLI fuzzy finder using [fzf (⭐57k)](https://github.com/junegunn/fzf). Requires [jq](https://stedolan.github.io/jq/).
+*   [bitwarden (casonadams) (⭐1)](https://github.com/casonadams/bitwarden-cli) - A [Bitwarden](https://bitwarden.com/download/) CLI fuzzy finder using [fzf (⭐58k)](https://github.com/junegunn/fzf). Requires [jq](https://stedolan.github.io/jq/).
 *   [pack (⭐0)](https://github.com/fourdim/zsh-pack/) - Pack your source code with ZSH.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [argc-completions (⭐134)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐579)](https://github.com/sigoden/argc) and [jq (⭐28k)](https://github.com/stedolan/jq) to add ZSH tab completions.
+*   [argc-completions (⭐141)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐584)](https://github.com/sigoden/argc) and [jq (⭐28k)](https://github.com/stedolan/jq) to add ZSH tab completions.
 *   [fluxcd (⭐0)](https://github.com/l-umaca/omz-fluxcd-plugin) - Adds tab completion for the [FluxCD command line](https://fluxcd.io/flux/cmd/) tool, as well as some aliases for the most common flux commands.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [astro (⭐101)](https://github.com/iplaces/astro-zsh-theme) - Based on the `ys` and [robbyrussell (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell) themes.
+*   [astro (⭐102)](https://github.com/iplaces/astro-zsh-theme) - Based on the `ys` and [robbyrussell (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell) themes.
 *   [bashlover (⭐1)](https://github.com/Vu0811/bashlover) - Designed for those who appreciate the powerful features of ZSH shell but still prefer a simple, classic interface similar to the `bash` shell. Includes decorators for `git` information, user\@host and the current working directory
 *   [msys2 (⭐0)](https://github.com/water-logger/MSYS2-Theme/) - Inspired by MSYS2. Includes decorators for user\@host, `git` status and the current directory.
 *   [pedantic (⭐0)](https://github.com/nemeshnorbert/pedantic-zsh-theme) - Customizable colors and output. Includes decorators for detailed `git` information, root status, last command's exit status, user\@host, current directory and the time.

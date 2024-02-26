@@ -116,7 +116,6 @@
 
 ### CLI
 
-*   [Taywee/args (⭐1.3k)](https://github.com/taywee/args) - A simple header-only C++ argument parser library. \[MIT]
 *   [TCLAP](http://tclap.sourceforge.net) - A mature, stable and feature-rich library for defining and accessing command line arguments in ANSI C++. \[MIT]
 
 ### Cryptography
@@ -135,10 +134,10 @@
 
 ### Regular Expression
 
-*   [CppVerbalExpressions (⭐375)](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. \[MIT]
+*   [CppVerbalExpressions (⭐376)](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. \[MIT]
 *   [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. \[BSD]
 *   [RE2 (⭐8.5k)](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. \[BSD-3-Clause]
-*   [SLRE (⭐514)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. \[GPLv2/Proprietary]
+*   [SLRE (⭐516)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. \[GPLv2/Proprietary]
 
 ## [17. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -515,10 +514,6 @@ Topics: WebAPI, Microservices, JavaScript\
 
 ## [46. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
-### Integrated Development Environments
-
-*   [Vim-R (⭐125)](https://github.com/vim-scripts/Vim-R-plugin) - Vim plugin for R.
-
 ### Reproducible Research
 
 *   [brew](https://cran.r-project.org/web/packages/brew/index.html) - Pre-compute data to enhance your report templates. Can be combined with knitr.
@@ -533,7 +528,7 @@ Topics: WebAPI, Microservices, JavaScript\
 
 ### R Development
 
-*   [RStudio Addins (⭐807)](https://github.com/daattali/rstudio-addins) - List of RStudio addins.
+*   [RStudio Addins (⭐819)](https://github.com/daattali/rstudio-addins) - List of RStudio addins.
 
 ## [47. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 

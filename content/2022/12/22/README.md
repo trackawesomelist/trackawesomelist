@@ -22,7 +22,7 @@
 
 ### Self-hosted
 
-*   [Memos (⭐23k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+*   [Memos (⭐25k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -54,7 +54,7 @@
 
 ### View components
 
-*   [Phlex (⭐988)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
+*   [Phlex (⭐1.1k)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
 
 ## [7. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
@@ -159,7 +159,7 @@
 
 ### Image Synthesis / Multi-agents
 
-*   [openai/point-e (⭐6.1k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
+*   [openai/point-e (⭐6.2k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
 
 ### Inbox: Stable Diffusion / Web UI for Stable Diffusion via Google Colab
 
@@ -266,7 +266,7 @@
 ### Open Source Rails Apps / Other external resources
 
 *   [blackCandy (⭐1.1k)](https://github.com/blackcandy-org/black_candy) - A music streaming app (using Rails 7.0).
-*   [dcaf\_case\_management (⭐84)](https://github.com/DARIAEngineering/dcaf_case_management) - A case management app (using Rails 7.0).
+*   [dcaf\_case\_management (⭐85)](https://github.com/DARIAEngineering/dcaf_case_management) - A case management app (using Rails 7.0).
 *   [eol (⭐58)](https://github.com/EOL/deprecated_eol) - An encyclopedia app - using Rails 3.2 - [:earth\_africa:](https://eol.org/)
 *   [mastodon (⭐45k)](https://github.com/mastodon/mastodon) - A microblogging app (using Rails 6.1). - [:earth\_africa:](https://mastodon.social/about)
 *   [postal (⭐14k)](https://github.com/postalserver/postal) - A mail delivery platform (using Rails 5.2).
@@ -275,9 +275,9 @@
 ### Gems / Other external resources
 
 *   [rails\_admin (⭐7.8k)](https://github.com/railsadminteam/rails_admin) - A gem to create & manage admin panel for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_admin)
-*   [rails\_semantic\_logger (⭐279)](https://github.com/reidmorrison/rails_semantic_logger) - A gem to provide alternative logging approach for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_semantic_logger)
+*   [rails\_semantic\_logger (⭐283)](https://github.com/reidmorrison/rails_semantic_logger) - A gem to provide alternative logging approach for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_semantic_logger)
 *   [ranked-model (⭐1.1k)](https://github.com/brendon/ranked-model) - A gem to handle sorting for rows. [:red\_circle:](https://rubygems.org/gems/ranked-model)
-*   [rubocop-rails (⭐759)](https://github.com/rubocop/rubocop-rails) - A code style checking tool. [:red\_circle:](https://rubygems.org/gems/rubocop-rails)
+*   [rubocop-rails (⭐762)](https://github.com/rubocop/rubocop-rails) - A code style checking tool. [:red\_circle:](https://rubygems.org/gems/rubocop-rails)
 *   [view\_component (⭐3.1k)](https://github.com/ViewComponent/view_component) - A gem to introduce view components. [:red\_circle:](https://rubygems.org/gems/view_component)
 
 ---

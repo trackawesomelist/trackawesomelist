@@ -1,6 +1,6 @@
 # Awesome List Updates on May 03, 2015
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,32 +18,26 @@
 
 *   [Dockerfile](https://atom.io/packages/language-docker)
 
-## [3. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### Downloader
-
-*   [s4cmd (⭐1.3k)](https://github.com/bloomreach/s4cmd) - Super S3 command line tool, good for higher performance.
-
-## [4. Es6 Tools](/content/addyosmani/es6-tools/README.md)
+## [3. Es6 Tools](/content/addyosmani/es6-tools/README.md)
 
 ### Mocha plugins / Brunch Plugins
 
 *   [Mocha Traceur (⭐15)](https://github.com/domenic/mocha-traceur) - A simple plugin for Mocha to pass JS files through the Traceur compiler
 
-## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [4. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Messaging / Scala
 
 *   [ØMQ](http://zeromq.org/) - Brokerless intelligent transport layer.
 *   [Kafka](http://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
 
-## [6. Awesome R](/content/qinwf/awesome-R/README.md)
+## [5. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Natural Language Processing
 
 *   [NLP](http://cran.r-project.org/web/packages/NLP/index.html) - Basic functions for Natural Language Processing.
 
-## [7. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
+## [6. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
 ### Awesome ClojureScript / Web Framework & Template
 
@@ -52,13 +46,13 @@
 *   [Luminus](http://www.luminusweb.net/) – It aims to provide a robust, scalable, and easy to use platform.
 *   [re-frame (⭐5.2k)](https://github.com/Day8/re-frame) – A Reagent Framework For Writing SPAs, in Clojurescript.
 
-## [8. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [7. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Customization / Directory Navigation
 
-*   [gittify (⭐67)](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases
+*   [gittify (⭐69)](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases
 
-## [9. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
+## [8. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 
 ### Functional Programming
 

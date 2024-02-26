@@ -66,11 +66,11 @@
 
 ### Networking
 
-*   [Real-Time Communications (⭐298)](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
+*   [Real-Time Communications (⭐308)](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
 
 ### Testing
 
-*   [Playwright (⭐577)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐621)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## [7. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -204,7 +204,7 @@ Language: English
 
 ### Libraries
 
-*   [rubico (⭐254)](https://github.com/a-synchronous/rubico) - 🏞 \[a]synchronous functional syntax
+*   [rubico (⭐262)](https://github.com/a-synchronous/rubico) - 🏞 \[a]synchronous functional syntax
 
 ---
 

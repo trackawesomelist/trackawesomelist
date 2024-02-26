@@ -40,7 +40,7 @@
 
 ### DevOps
 
-*   [DPPM (⭐111)](https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (mostly Linux)
+*   [DPPM (⭐113)](https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (mostly Linux)
 
 ## [6. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Algorithms and Data structures
 
-*   [bimap (⭐25)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
+*   [bimap (⭐26)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
 
 ## [10. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 

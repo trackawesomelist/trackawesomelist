@@ -106,20 +106,20 @@
 
 ### Official
 
-*   [Yew (⭐29k)](https://github.com/yewstack/yew) - Rust / WebAssembly framework for building client web apps.
+*   [Yew (⭐30k)](https://github.com/yewstack/yew) - Rust / WebAssembly framework for building client web apps.
 
 ### Projects
 
 *   [web-view todomvc desktop app (⭐106)](https://github.com/Extrawurst/rust-webview-todomvc-yew) - Demo how to use yew for a todomvc that compiles to WebAssembly and is bundled as a lightweight(\~2mb) desktop app by [web-view (⭐1.9k)](https://github.com/Boscop/web-view), as an alternative to Electron, [web-view (⭐1.9k)](https://github.com/Boscop/web-view) also has a [demo (⭐1.9k)](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
-*   [Kirk (⭐40)](https://github.com/stkevintan/Kirk) - Just A Rust WebAssembly Blog.
+*   [Kirk (⭐41)](https://github.com/stkevintan/Kirk) - Just A Rust WebAssembly Blog.
 
 ### Crates / Wasm
 
-*   [wasm-bindgen (⭐7k)](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between WebAssembly modules and JavaScript.
+*   [wasm-bindgen (⭐7.1k)](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between WebAssembly modules and JavaScript.
 
 ### Tooling / Frameworks
 
-*   [wasm-pack (⭐5.7k)](https://github.com/rustwasm/wasm-pack) - Your favorite Rust -> WebAssembly workflow tool.
+*   [wasm-pack (⭐5.8k)](https://github.com/rustwasm/wasm-pack) - Your favorite Rust -> WebAssembly workflow tool.
 
 ### Alternatives / Frameworks
 
@@ -128,9 +128,9 @@
 
 ### Related lists / Frameworks
 
-*   [Awesome Rust and WebAssembly (⭐573)](https://github.com/rustwasm/awesome-rust-and-webassembly) - A list of awesome Rust and WebAssembly projects, libraries, tools, and resources.
-*   [Awesome WebAssembly (⭐8.3k)](https://github.com/mbasso/awesome-wasm) - Collection of awesome things regarding WebAssembly ecosystem.
-*   [Awesome Rust (⭐40k)](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+*   [Awesome Rust and WebAssembly (⭐592)](https://github.com/rustwasm/awesome-rust-and-webassembly) - A list of awesome Rust and WebAssembly projects, libraries, tools, and resources.
+*   [Awesome WebAssembly (⭐8.4k)](https://github.com/mbasso/awesome-wasm) - Collection of awesome things regarding WebAssembly ecosystem.
+*   [Awesome Rust (⭐41k)](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 
 ## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -158,7 +158,7 @@
 
 ### Testing / Asynchronous
 
-*   [Karate (⭐7.6k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
+*   [Karate (⭐7.7k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
 
 ## [14. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 

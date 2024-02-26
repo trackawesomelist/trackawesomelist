@@ -33,7 +33,7 @@
 
 ### Templates
 
-*   [Create Yew App (⭐156)](https://github.com/jetli/create-yew-app) - Set up a modern Yew web app by running one command, `npx create-yew-app my-app`.
+*   [Create Yew App (⭐159)](https://github.com/jetli/create-yew-app) - Set up a modern Yew web app by running one command, `npx create-yew-app my-app`.
 
 ### Books / Frameworks
 
@@ -116,11 +116,11 @@
 
 ### Frameworks
 
-*   [RIG (⭐573)](https://github.com/Accenture/reactive-interaction-gateway) - Create low-latency, interactive user experiences for stateless microservices.
+*   [RIG (⭐580)](https://github.com/Accenture/reactive-interaction-gateway) - Create low-latency, interactive user experiences for stateless microservices.
 
 ### Queue
 
-*   [oban (⭐2.9k)](https://github.com/sorentwo/oban) - Robust asynchronous job processor powered by Elixir and modern PostgreSQL.
+*   [oban (⭐3k)](https://github.com/sorentwo/oban) - Robust asynchronous job processor powered by Elixir and modern PostgreSQL.
 
 ## [11. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
@@ -211,7 +211,7 @@
 
 ### Data Visualization
 
-*   [diagrams (⭐30k)](https://github.com/mingrammer/diagrams) - Diagram as Code.
+*   [diagrams (⭐34k)](https://github.com/mingrammer/diagrams) - Diagram as Code.
 
 ## [20. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -306,7 +306,7 @@
 
 ### Chemistry
 
-*   [d-SEAMS (⭐31)](https://github.com/d-SEAMS/seams-core) - A molecular dynamics trajectory analysis engine in C++ and Lua with Nix. It is an acronym for Deferred Structural Elucidation Analysis for Molecular Simulations. \[GPL] [website](https://dseams.info)
+*   [d-SEAMS (⭐32)](https://github.com/d-SEAMS/seams-core) - A molecular dynamics trajectory analysis engine in C++ and Lua with Nix. It is an acronym for Deferred Structural Elucidation Analysis for Molecular Simulations. \[GPL] [website](https://dseams.info)
 *   [LAMMPS (⭐2k)](https://github.com/lammps/lammps) - A classical molecular dynamics code with a focus on materials modeling. It's an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. \[GPL] [website](https://lammps.sandia.gov/)
 
 ### Game Engine
@@ -526,7 +526,7 @@
 
 ### Software / Communication - IRC
 
-*   [Kiwi IRC](https://kiwiirc.com/) - Responsive web IRC client with theming support. ([Demo](https://kiwiirc.com/nextclient/), [Source Code (⭐808)](https://github.com/kiwiirc/kiwiirc)) `Apache-2.0` `Nodejs`
+*   [Kiwi IRC](https://kiwiirc.com/) - Responsive web IRC client with theming support. ([Demo](https://kiwiirc.com/nextclient/), [Source Code (⭐814)](https://github.com/kiwiirc/kiwiirc)) `Apache-2.0` `Nodejs`
 
 ### Software / Conference Management
 
@@ -550,7 +550,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code (⭐418)](https://github.com/Atheos/Atheos)) `MIT` `PHP/Docker`
+*   [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code (⭐426)](https://github.com/Atheos/Atheos)) `MIT` `PHP/Docker`
 
 ### Software / Ticketing
 
@@ -558,7 +558,7 @@
 
 ### Software / URL Shorteners
 
-*   [Shlink](https://shlink.io) - URL shortener with REST API and command line interface. Includes official progressive web application and docker images. ([Source Code (⭐2.5k)](https://github.com/shlinkio/shlink), [Clients](https://shlink.io/apps)) `MIT` `PHP/Docker`
+*   [Shlink](https://shlink.io) - URL shortener with REST API and command line interface. Includes official progressive web application and docker images. ([Source Code (⭐2.6k)](https://github.com/shlinkio/shlink), [Clients](https://shlink.io/apps)) `MIT` `PHP/Docker`
 
 ### Software / Wikis
 
@@ -711,7 +711,7 @@
 
 ### Documentation
 
-*   [Documentation (⭐214)](https://github.com/adamcooke/documentation) - A Rails engine to provide the ability to add documentation to a Rails application.
+*   [Documentation (⭐215)](https://github.com/adamcooke/documentation) - A Rails engine to provide the ability to add documentation to a Rails application.
 
 ## [60. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
@@ -737,7 +737,7 @@
 
 ### Authentication and Authorization
 
-*   🍰 [TwoFactorAuth plugin (⭐36)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth (⭐984)](https://github.com/RobThree/TwoFactorAuth) library.
+*   🍰 [TwoFactorAuth plugin (⭐36)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth (⭐992)](https://github.com/RobThree/TwoFactorAuth) library.
 
 ## [63. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 

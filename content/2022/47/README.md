@@ -34,17 +34,17 @@
 
 ### Database
 
-*   [libpqxx (⭐898)](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL. \[BSD-3-Clause]
+*   [libpqxx (⭐907)](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL. \[BSD-3-Clause]
 
 ### Miscellaneous
 
-*   [jwt-cpp (⭐743)](https://github.com/Thalhammer/jwt-cpp) - A header only library for creating and validating JSON web tokens in C++. \[MIT]
+*   [jwt-cpp (⭐749)](https://github.com/Thalhammer/jwt-cpp) - A header only library for creating and validating JSON web tokens in C++. \[MIT]
 
 ## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Software Development - FaaS & Serverless
 
-*   [Coolify](https://coolify.io/) - An open-source & self-hostable Heroku / Netlify alternative (and even more). ([Source Code (⭐10k)](https://github.com/coollabsio/coolify)) `Apache-2.0` `Docker`
+*   [Coolify](https://coolify.io/) - An open-source & self-hostable Heroku / Netlify alternative (and even more). ([Source Code (⭐11k)](https://github.com/coollabsio/coolify)) `Apache-2.0` `Docker`
 
 ## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Web Frameworks
 
-*   [marten (⭐350)](https://github.com/martenframework/marten) - A web framework that makes building web applications easy, productive, and fun
+*   [marten (⭐365)](https://github.com/martenframework/marten) - A web framework that makes building web applications easy, productive, and fun
 
 ## [9. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -70,19 +70,19 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [unplugin-compression (⭐14)](https://github.com/KeJunMao/unplugin-compression) - Compress dist to zip, tar, taz.
+*   [unplugin-compression (⭐15)](https://github.com/KeJunMao/unplugin-compression) - Compress dist to zip, tar, taz.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-version-mark (⭐31)](https://github.com/ZhongxuYang/vite-plugin-version-mark) - Automatically use `package version` / `git commit` / `custom` to be inserted into your project as a unique identifier for the project version.
+*   [vite-plugin-version-mark (⭐33)](https://github.com/ZhongxuYang/vite-plugin-version-mark) - Automatically use `package version` / `git commit` / `custom` to be inserted into your project as a unique identifier for the project version.
 
 ### Framework-agnostic Plugins / Testing
 
-*   [vitest-preview (⭐291)](https://github.com/nvh95/vitest-preview) - Visual debugging experience for Vitest.
+*   [vitest-preview (⭐297)](https://github.com/nvh95/vitest-preview) - Visual debugging experience for Vitest.
 
 ### Vue / Loaders
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-svg-component (⭐37)](https://github.com/Jevon617/unplugin-svg-component) - Load SVG files as a Vue component, supporting svg file HMR and Typescript intelligence prompt.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-svg-component (⭐39)](https://github.com/Jevon617/unplugin-svg-component) - Load SVG files as a Vue component, supporting svg file HMR and Typescript intelligence prompt.
 
 ### React / Helpers
 
@@ -102,7 +102,7 @@
 
 ### Advanced Console UIs
 
-*   [lipgloss (⭐6.9k)](https://github.com/charmbracelet/lipgloss) - Declaratively define styles for color, format and layout in the terminal.
+*   [lipgloss (⭐7k)](https://github.com/charmbracelet/lipgloss) - Declaratively define styles for color, format and layout in the terminal.
 
 ### Meetups / Libraries for creating HTTP middlewares
 
@@ -228,19 +228,31 @@
 
 *   [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
 
-## [22. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [22. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications / Blockchain
+
+*   [cairo (⭐1.3k)](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation. This is also the native language of [StarkNet](https://www.starknet.io/en), a ZK-Rollup using STARK proofs ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square\&logo=github)
+*   [sigma-rust (⭐70)](https://github.com/ergoplatform/sigma-rust) — ErgoTree interpreter and wallet-related features.
+
+### Applications / Social networks
+
+*   Mastodon
+    *   [Rustodon (⭐850)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server.
+
+## [23. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Frontend framework
 
 *   [fresh (⭐12k)](https://github.com/denoland/fresh) - The next-gen web framework.
 
-## [23. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [24. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Datasets / Social Sciences
 
 *   [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/web/pages/) (`Lookup`)
 
-## [24. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [25. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -252,7 +264,7 @@
 *   [paroape (⭐2)](https://github.com/ParoaPe/ParoaPe-zsh-theme) - Based on [lpha3cho (⭐38)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters)
 *   [troopert (⭐0)](https://github.com/TrooperT/Troopert-theme/) - Includes decorators for `git` status, last return code if non-zero, full pwd and a configurable display of `$RPROMPT`.
 
-## [25. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [26. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Bayesian Induction
 
@@ -262,7 +274,7 @@
 
 *   [Galactica: A Large Language Model for Science](https://galactica.org/static/paper.pdf) - ***Meta AI***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=15782429788006956926\&hl=en\&as_sdt=0,5)]. A large language model trained on large-scale scientific corpus.
 
-## [26. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [27. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Prompt Engineering / Prompt Engineering for Text-to-image
 
@@ -287,10 +299,10 @@
 
 ### Related Awesome Lists / Deforum
 
-*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐4k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
-*   [chaosreactor/awesome-generative-ai (⭐30)](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
+*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐4.1k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
+*   [chaosreactor/awesome-generative-ai (⭐32)](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
 
-## [27. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [28. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Climate
 
@@ -320,7 +332,7 @@
 
 *   [Heavy.AI](https://www.heavy.ai/) - Geotemporal enabled high performance database capable of doing GPU accelerated queries.
 
-## [28. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [29. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Templates
 
@@ -348,7 +360,7 @@
 *   [Maintenance release: Blazorise 1.1.4](https://blazorise.com/news/release-notes/114) - November 24, 2022 - This new Blazorise 1.1.4 is a hotfix release to solve this and a few other minor issues that were fixed in the meantime. Blazorise 1.1.4 is a recommended upgrade for all Blazorise 1.1 and Blazorise 1.1.3 users.
 *   [Blazor WebAssembly: Debugging gRPC-Web with Custom Chrome Developer Tools](https://www.thinktecture.com/blazor/blazor-wasm-debugging-grpc-web/) - November 17, 2022 - If you are working with Blazor, gRPC is a big issue for transferring data from APIs to clients. One issue of developing with gRPC-Web is debugging the transmitted data because the data is in an efficient binary message format. This article shows you how to solve this problem with the help of my NuGet.
 
-## [29. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [30. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tutorials and Blog Posts / How-To
 
@@ -356,11 +368,11 @@
 
 ### Tools / Community providers
 
-*   [terraform-iam-policy-validator (⭐222)](https://github.com/awslabs/terraform-iam-policy-validator) - CLI validates AWS IAM Policies in a Terraform template against AWS IAM best practices.
+*   [terraform-iam-policy-validator (⭐228)](https://github.com/awslabs/terraform-iam-policy-validator) - CLI validates AWS IAM Policies in a Terraform template against AWS IAM best practices.
 *   [tfproviderlint (⭐129)](https://github.com/bflad/tfproviderlint) - Terraform Provider Lint Tool.
-*   [tftree (⭐133)](https://github.com/busser/tftree) - Display your Terraform module call stack in your terminal.
+*   [tftree (⭐135)](https://github.com/busser/tftree) - Display your Terraform module call stack in your terminal.
 
-## [30. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [31. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### External Resources / Youtube channels
 
@@ -374,7 +386,7 @@
 
 *   [Ruby on Rails Link (Slack)](https://www.rubyonrails.link/)
 
-## [31. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [32. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Resources / Books
 
@@ -389,27 +401,11 @@
 
 *   [kmongo (⭐794)](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
 
-## [32. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [33. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Interpreters/Compilers
 
 *   [stas (⭐52)](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler) - A stack based compiled programming language. The bootstrap compiler is written in V.
-
-## [33. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
-
-### Applications / Blockchain
-
-*   [cairo (⭐1.3k)](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation. This is also the native language of [StarkNet](https://www.starknet.io/en), a ZK-Rollup using STARK proofs ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square\&logo=github)
-*   [sigma-rust (⭐69)](https://github.com/ergoplatform/sigma-rust) — Rust implementation of ErgoTree interpreter and wallet-related features.
-
-### Applications / Social networks
-
-*   Mastodon
-    *   [Rustodon (⭐846)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust
-
-### Applications / System tools
-
-*   [qarmin/cakawka (⭐14k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
 
 ## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -426,7 +422,7 @@
 
 ### Gaming
 
-*   [Learn Gamedev (⭐2.2k)](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
+*   [Learn Gamedev (⭐2.3k)](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
 
 ## [36. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
@@ -438,7 +434,7 @@
 
 ### Form Components / Select
 
-*   [react-select-search (⭐661)](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - A lightweight select component for React
+*   [react-select-search (⭐662)](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - A lightweight select component for React
 
 ## [38. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 

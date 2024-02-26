@@ -10,7 +10,7 @@
 
 ### Database Drivers
 
-*   [SQLite3 (⭐713)](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database.
+*   [SQLite3 (⭐721)](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database.
 
 ### ORM/ODM
 

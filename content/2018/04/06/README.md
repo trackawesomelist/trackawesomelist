@@ -224,7 +224,7 @@
 
 ### Debug
 
-*   [Nanotimer (⭐121)](https://github.com/mattreecebentley/plf_nanotimer) - A simple low-overhead cross-platform timer class for benchmarking. \[zLib] [website](http://www.plflib.org/nanotimer.htm)
+*   [Nanotimer (⭐123)](https://github.com/mattreecebentley/plf_nanotimer) - A simple low-overhead cross-platform timer class for benchmarking. \[zLib] [website](http://www.plflib.org/nanotimer.htm)
 
 ### Sorting
 

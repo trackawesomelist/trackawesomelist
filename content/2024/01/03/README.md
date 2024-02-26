@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 03, 2024
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Rust / React
 
-*   [tailcall (⭐968)](https://github.com/tailcallhq/tailcall) - A platform for building high-performance GraphQL backends.
+*   [tailcall (⭐1k)](https://github.com/tailcallhq/tailcall) - A platform for building high-performance GraphQL backends.
 
 ### Rust Examples / React
 
@@ -44,7 +44,7 @@
 ### Android Keyboard
 
 *   [OpenBoard (⭐2.4k)](https://github.com/openboard-team/openboard) - OpenBoard is a 100% foss keyboard based on AOSP, with no dependency on Google binaries, that respects your privacy.
-    *   [OpenBoard upgrade (⭐693)](https://github.com/Helium314/openboard) - A fork of OpenBoard with many additional features and improvements. Releases are in a beta state.
+    *   [OpenBoard upgrade (⭐945)](https://github.com/Helium314/openboard) - A fork of OpenBoard with many additional features and improvements. Releases are in a beta state.
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -67,7 +67,6 @@
 ### Projects / API Gateway
 
 *   [Traefik (⭐46k) (⭐47k)](https://github.com/traefik/traefik) - A modern, open-source API Gateway that is designed to handle dynamic container environments such as Kubernetes, Docker Swarm, and Mesos. It provides load balancing, SSL/TLS termination, rate limiting, circuit breaking, and more.
-*   [Tyk API Gateway (⭐9k) (⭐9.1k)](https://github.com/TykTechnologies/tyk) - An open source Enterprise API Gateway that supports REST, GraphQL, TCP, and gRPC protocols. It provides advanced API management features such as rate limiting, access control, and analytics.
 
 ### Projects / Workflow engine
 
@@ -96,13 +95,7 @@
 
 ### Colorscheme Switchers / Diagnostics
 
-*   [CWood-sdf/pineapple (⭐27)](https://github.com/CWood-sdf/pineapple) - Install any colorscheme in your config without leaving your terminal. Collects every colorscheme on the internet and allows you to preview them all before installing.
-
-## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Machine Learning
-
-*   [An Introduction to Statistical Learning](https://www.statlearning.com) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
+*   [CWood-sdf/pineapple (⭐33)](https://github.com/CWood-sdf/pineapple) - Install any colorscheme in your config without leaving your terminal. Collects every colorscheme on the internet and allows you to preview them all before installing.
 
 ---
 

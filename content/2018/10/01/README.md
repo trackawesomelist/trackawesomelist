@@ -82,7 +82,7 @@
 
 ### Libraries / Algebraic Data Types
 
-*   [MojiScript (⭐148)](https://github.com/joelnet/MojiScript)- an async-first, opinionated, and functional language designed to have 100% compatibility with JavaScript engines
+*   [MojiScript (⭐149)](https://github.com/joelnet/MojiScript)- an async-first, opinionated, and functional language designed to have 100% compatibility with JavaScript engines
 
 ## [8. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 

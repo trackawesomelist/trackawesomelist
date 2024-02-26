@@ -312,7 +312,7 @@ git show <branch_name>:<file_name>
 
 ### Frameworks
 
-*   [EASTL (⭐7.5k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
+*   [EASTL (⭐7.6k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
 
 ### Machine Learning
 
@@ -455,7 +455,7 @@ git show <branch_name>:<file_name>
 
 ### ORM and Datamapping
 
-*   [redix (⭐1k)](https://github.com/whatyouhide/redix) - Superfast, pipelined, resilient Redis driver for Elixir.
+*   [redix (⭐1.1k)](https://github.com/whatyouhide/redix) - Superfast, pipelined, resilient Redis driver for Elixir.
 *   [riak\_ecto (⭐31)](https://github.com/pma/riak_ecto) - Riak adapter for Ecto.
 
 ### Testing
@@ -469,7 +469,7 @@ git show <branch_name>:<file_name>
 
 ### Reading
 
-*   [Elixir Functional Programming (⭐364)](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
+*   [Elixir Functional Programming (⭐362)](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
 
 ## [32. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
@@ -541,12 +541,12 @@ This book is packed with practical recipes, designed to provide you with all the
 
 ### Web Technologies and Services
 
-*   [Web Technologies List (⭐169)](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
+*   [Web Technologies List (⭐170)](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
 
 ### Natural Language Processing
 
-*   [Topic Models Resources (⭐224)](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
-*   [NLP for <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:"> (⭐29)](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
+*   [Topic Models Resources (⭐227)](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
+*   [NLP for <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:">](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
 
 ### Network Analysis
 
@@ -558,11 +558,11 @@ This book is packed with practical recipes, designed to provide you with all the
 
 ### Lists / Book/monograph Lists and Reviews
 
-*   [Natural Language Processing <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:"> (⭐29)](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
+*   [Natural Language Processing <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:">](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
 *   [Open Data (⭐194)](https://github.com/ropensci/opendata) - Using R to obtain, parse, manipulate, create, and share open data.
 *   [Package Development (⭐43)](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
-*   [RStartHere (⭐657)](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R packages, organized by workflow.
-*   [Web Technologies (⭐169)](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
+*   [RStartHere (⭐655)](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R packages, organized by workflow.
+*   [Web Technologies (⭐170)](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
 
 ## [38. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 

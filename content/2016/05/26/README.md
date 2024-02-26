@@ -104,7 +104,7 @@
 
 ### Queues and Messaging
 
-*   [sidekiq.cr (⭐762)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
+*   [sidekiq.cr (⭐764)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

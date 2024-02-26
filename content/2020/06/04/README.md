@@ -68,7 +68,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Plainpad](https://alextselegidis.com/get/plainpad/) - A modern note taking application for the cloud, utilizing the best features of progressive web apps technology. ([Demo](https://alextselegidis.com/try/plainpad/), [Source Code (⭐226)](https://github.com/alextselegidis/plainpad)) `GPL-3.0` `PHP`
+*   [Plainpad](https://alextselegidis.com/get/plainpad/) - A modern note taking application for the cloud, utilizing the best features of progressive web apps technology. ([Demo](https://alextselegidis.com/try/plainpad/), [Source Code (⭐230)](https://github.com/alextselegidis/plainpad)) `GPL-3.0` `PHP`
 
 ## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

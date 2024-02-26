@@ -39,7 +39,7 @@
 
 ### Libraries / Audio and Music
 
-*   [pdeljanov/Symphonia (⭐2k)](https://github.com/pdeljanov/Symphonia) — A pure Rust audio decoding and media demuxing library supporting AAC, FLAC, MP3, MP4, OGG, Vorbis, and WAV.
+*   [pdeljanov/Symphonia (⭐2k)](https://github.com/pdeljanov/Symphonia) — Audio decoding and media demuxing library supporting AAC, FLAC, MP3, MP4, OGG, Vorbis, and WAV.
 
 ## [3. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
@@ -52,11 +52,11 @@
 ### Libraries/Frameworks / Mocks and Fakes
 
 *   [bluegroundltd/kfactory (⭐56)](https://github.com/bluegroundltd/kfactory) - Fixture factory in Kotlin
-*   [moove-it/fakeit (⭐530)](https://github.com/moove-it/fakeit) - Generates realistic fake data — like names, emails, dates, countries — to be used in your Android development environment.
+*   [moove-it/fakeit (⭐532)](https://github.com/moove-it/fakeit) - Generates realistic fake data — like names, emails, dates, countries — to be used in your Android development environment.
 
 ### Libraries/Frameworks / Misc
 
-*   [s1monw1/TLSLibrary (⭐75)](https://github.com/s1monw1/TLSLibrary) - Simple TlsLibrary written in Kotlin - Provides DSL for creating TLS connections
+*   [s1monw1/TLSLibrary (⭐76)](https://github.com/s1monw1/TLSLibrary) - Simple TlsLibrary written in Kotlin - Provides DSL for creating TLS connections
 
 ### Android / Tests
 

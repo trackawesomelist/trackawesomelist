@@ -56,11 +56,11 @@
 
 *   [ddgr (⭐2.8k)](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
 *   [mackup (⭐14k)](https://github.com/lra/mackup/) - Keep your application settings in sync (OS X/Linux)
-*   [pdd (⭐359)](https://github.com/jarun/pdd) - Tiny date, time diff calculator with timers
+*   [pdd (⭐368)](https://github.com/jarun/pdd) - Tiny date, time diff calculator with timers
 
 ### Applications / Directory Navigation
 
-*   [taskbook (⭐8.8k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
+*   [taskbook (⭐8.9k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 
 ## [7. Awesome Idris](/content/joaomilho/awesome-idris/README.md)
 

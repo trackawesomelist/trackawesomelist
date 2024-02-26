@@ -16,7 +16,7 @@
 
 ### Apps / Misc
 
-*   [Joyous (⭐72)](https://github.com/linuxsoftware/ls.joyous) - A calendar application for Wagtail.
+*   [Joyous (⭐73)](https://github.com/linuxsoftware/ls.joyous) - A calendar application for Wagtail.
 
 ## [3. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
 

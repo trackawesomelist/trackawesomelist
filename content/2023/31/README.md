@@ -154,11 +154,11 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Screego](https://screego.net) - Screego is a simple tool to quickly share your screen to one or multiple people via web browser. ([Demo](https://app.screego.net/), [Source Code (⭐6.5k)](https://github.com/screego/server)) `GPL-3.0` `Docker/Go`
+*   [Screego](https://screego.net) - Screego is a simple tool to quickly share your screen to one or multiple people via web browser. ([Demo](https://app.screego.net/), [Source Code (⭐6.6k)](https://github.com/screego/server)) `GPL-3.0` `Docker/Go`
 
 ### Software / Money, Budgeting & Management
 
-*   [FOSSBilling](https://fossbilling.org/) - Free and open source hosting and billing automation. Integrates with WHM, CWP, cPanel and HestiaCP. Full API and easily extensible. ([Demo](https://fossbilling.org/demo), [Source Code (⭐613)](https://github.com/FOSSBilling/FOSSBilling)) `Apache-2.0` `PHP/Docker`
+*   [FOSSBilling](https://fossbilling.org/) - Free and open source hosting and billing automation. Integrates with WHM, CWP, cPanel and HestiaCP. Full API and easily extensible. ([Demo](https://fossbilling.org/demo), [Source Code (⭐637)](https://github.com/FOSSBilling/FOSSBilling)) `Apache-2.0` `PHP/Docker`
 
 ### Software / Remote Access
 
@@ -223,11 +223,11 @@
 
 ### Table
 
-*   [mantine-datatable (⭐785)](https://github.com/icflorescu/mantine-datatable) - [demo/docs](https://icflorescu.github.io/mantine-datatable/) - Lightweight table component for Mantine UI applications, with lots of features
+*   [mantine-datatable (⭐800)](https://github.com/icflorescu/mantine-datatable) - [demo/docs](https://icflorescu.github.io/mantine-datatable/) - Lightweight table component for Mantine UI applications, with lots of features
 
 ### Menu
 
-*   [mantine-contextmenu (⭐92)](https://github.com/icflorescu/mantine-contextmenu) - [demo/docs](https://icflorescu.github.io/mantine-contextmenu/) - Context-menu hook/component for applications built with Mantine UI.
+*   [mantine-contextmenu (⭐99)](https://github.com/icflorescu/mantine-contextmenu) - [demo/docs](https://icflorescu.github.io/mantine-contextmenu/) - Context-menu hook/component for applications built with Mantine UI.
 
 ### Miscellaneous
 
@@ -235,7 +235,7 @@
 
 ### Form Components / Input Types
 
-*   [react-multi-email (⭐267)](https://github.com/axisj/react-multi-email) - [demo](https://react-multi-email.vercel.app/) - Format multiple emails as the user types.
+*   [react-multi-email (⭐272)](https://github.com/axisj/react-multi-email) - [demo](https://react-multi-email.vercel.app/) - Format multiple emails as the user types.
 
 ## [24. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
@@ -275,7 +275,7 @@
 
 ### Applications / Productivity
 
-*   [Furtherance (⭐206)](https://github.com/lakoliu/Furtherance) - Time tracking app built with Rust and GTK4
+*   [Furtherance (⭐211)](https://github.com/lakoliu/Furtherance) - Time tracking app built with GTK4
 
 ### Applications / System tools
 
@@ -283,7 +283,7 @@
 
 ### Applications / Utilities
 
-*   [rust-parallel (⭐67)](https://github.com/aaronriekenberg/rust-parallel) - Fast command line app using Tokio to execute commands in parallel.  Similar interface to GNU Parallel or xargs. [![Crate](https://img.shields.io/crates/v/rust-parallel.svg?logo=rust)](https://crates.io/crates/rust-parallel) [![Build Status](https://github.com/aaronriekenberg/rust-parallel/actions/workflows/CI.yml/badge.svg)](https://github.com/aaronriekenberg/rust-parallel/actions/workflows/CI.yml)
+*   [rust-parallel (⭐71)](https://github.com/aaronriekenberg/rust-parallel) - Fast command line app using Tokio to execute commands in parallel.  Similar interface to GNU Parallel or xargs. [![Crate](https://img.shields.io/crates/v/rust-parallel.svg?logo=rust)](https://crates.io/crates/rust-parallel) [![Build Status](https://github.com/aaronriekenberg/rust-parallel/actions/workflows/CI.yml/badge.svg)](https://github.com/aaronriekenberg/rust-parallel/actions/workflows/CI.yml)
 
 ## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -317,7 +317,7 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [checkmate (⭐1)](https://github.com/skippyr/checkmate) - Decorated with chess pieces. Includes decorators for python venv, current directory, `git` status and whether you're running as root. Requires a Nerd Font.
-*   [git-kali (⭐3)](https://github.com/Green0wl/zsh-git-kali-prompt) - Based on [An informative `git` prompt for kali (⭐1.7k)](https://github.com/olivierverdier/zsh-git-prompt). Includes decorators for `git` status, username\@host, and the current directory.
+*   [git-kali (⭐4)](https://github.com/Green0wl/zsh-git-kali-prompt) - Based on [An informative `git` prompt for kali (⭐1.7k)](https://github.com/olivierverdier/zsh-git-prompt). Includes decorators for `git` status, username\@host, and the current directory.
 
 ## [32. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
@@ -329,13 +329,13 @@
 
 ### Other plugins
 
-*   [Websocket Client (⭐48)](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
+*   [Websocket Client (⭐49)](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
 
 ## [34. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [Ubiquity (⭐119)](https://github.com/opensourcecheemsburgers/ubiquity) - An open-source, cross-platform markdown editor; built with Yew, Tauri, Tailwind, and DaisyUI. [Web App](https://ubiquity.rs).
+*   [Ubiquity (⭐138)](https://github.com/opensourcecheemsburgers/ubiquity) - An open-source, cross-platform markdown editor; built with Yew, Tauri, Tailwind, and DaisyUI. [Web App](https://ubiquity.rs).
 
 ## [35. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
@@ -358,27 +358,27 @@
 
 ### Community Modules / Miscellaneous
 
-*   [terraform-kubestack (⭐603)](https://github.com/kbst/terraform-kubestack) - Kubestack is a framework for Kubernetes platform engineering teams to define the entire cloud native stack in one Terraform code base and continuously evolve the platform safely through GitOps.
-*   [terraform-nixos (⭐287)](https://github.com/nix-community/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS.
+*   [terraform-kubestack (⭐608)](https://github.com/kbst/terraform-kubestack) - Kubestack is a framework for Kubernetes platform engineering teams to define the entire cloud native stack in one Terraform code base and continuously evolve the platform safely through GitOps.
+*   [terraform-nixos (⭐293)](https://github.com/nix-community/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS.
 *   [typhoon (⭐1.9k)](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform.
 
 ### Tools / Community providers
 
-*   [terraform-aws-clickops-notifier (⭐186)](https://github.com/cloudandthings/terraform-aws-clickops-notifier) - Get notified when actions are taken in the AWS Console.
+*   [terraform-aws-clickops-notifier (⭐189)](https://github.com/cloudandthings/terraform-aws-clickops-notifier) - Get notified when actions are taken in the AWS Console.
 
 ## [38. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Advanced Console UIs
 
-*   [bubble-table (⭐289)](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
+*   [bubble-table (⭐291)](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
 
 ### Utilities
 
-*   [dive (⭐42k)](https://github.com/wagoodman/dive) - A tool for exploring each layer in a Docker image.
+*   [dive (⭐43k)](https://github.com/wagoodman/dive) - A tool for exploring each layer in a Docker image.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [GoNB (⭐357)](https://github.com/janpfeifer/gonb) - Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).
+*   [GoNB (⭐376)](https://github.com/janpfeifer/gonb) - Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).
 
 ## [39. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -492,7 +492,7 @@
 
 ### Templates / React
 
-*   [vite-react\_best\_practices-template (⭐135)](https://github.com/CodelyTV/vite-react_best_practices-template) - Template for creating React apps with TypeScript following best practices: Unit and end-to-end tests, Continuous Integration, and linting.
+*   [vite-react\_best\_practices-template (⭐142)](https://github.com/CodelyTV/vite-react_best_practices-template) - Template for creating React apps with TypeScript following best practices: Unit and end-to-end tests, Continuous Integration, and linting.
 
 ### Templates / Svelte
 
@@ -502,7 +502,7 @@
 
 *   [vite-plugin-dc (⭐3)](https://github.com/dvgis/vite-plugin-dc) - Integration with @dvgis/dc-sdk library.
 *   [vite-plugin-react-mpa (⭐2)](https://github.com/dingff/vite-plugin-react-mpa) - An out-of-the-box MPA.
-*   [vite-plugin-cloudflare-functions (⭐32)](https://github.com/yjl9903/vite-plugin-cloudflare-functions) - Cloudflare pages function integration.
+*   [vite-plugin-cloudflare-functions (⭐34)](https://github.com/yjl9903/vite-plugin-cloudflare-functions) - Cloudflare pages function integration.
 
 ### Framework-agnostic Plugins / Bundling
 
@@ -510,7 +510,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-turbo-console (⭐223)](https://github.com/yuyinws/vite-plugin-turbo-console) - Enhance the readability of `console.log()`.
+*   [vite-plugin-turbo-console (⭐242)](https://github.com/yuyinws/vite-plugin-turbo-console) - Enhance the readability of `console.log()`.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -534,15 +534,15 @@
 
 ### Frameworks / Community
 
-*   [@fastify/fastify-dx (⭐921)](https://github.com/fastify/fastify-dx) - Allowing you to serve static or live (SSR).
+*   [@fastify/fastify-dx (⭐917)](https://github.com/fastify/fastify-dx) - Allowing you to serve static or live (SSR).
 
 ### ASP.NET Core / Community
 
-*   [Vite.AspNetCore (⭐152)](https://github.com/Eptagone/Vite.AspNetCore) - Integration with ASP.NET Core projects.
+*   [Vite.AspNetCore (⭐159)](https://github.com/Eptagone/Vite.AspNetCore) - Integration with ASP.NET Core projects.
 
 ### Apps/Websites / Community
 
-*   [vite-run (⭐54)](https://github.com/biggerstar/vite-run) - Multiple configuration execution support for vite, freely combining configurations like stacked blocks.
+*   [vite-run (⭐55)](https://github.com/biggerstar/vite-run) - Multiple configuration execution support for vite, freely combining configurations like stacked blocks.
 
 ## [48. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
@@ -596,7 +596,7 @@
 
 *   🧩 [Windstatic](https://windstatic.com) - Set of 161 elements & layouts made with Tailwind CSS and Alpine.js.
 *   🧩 [TailwindFlex](https://tailwindflex.com) - Free library of Tailwind CSS examples.
-*   📁 [Astro Template Cactus (⭐505)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
+*   📁 [Astro Template Cactus (⭐574)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 
 ---
 

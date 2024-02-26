@@ -108,7 +108,7 @@
 
 ### Miscellaneous
 
-*   [stdman (⭐910)](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]
+*   [stdman (⭐911)](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]
 *   [value-category-cheatsheet (⭐401)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
 
 ---

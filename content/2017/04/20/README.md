@@ -14,7 +14,7 @@
 
 ### Applications / Directory Navigation
 
-*   [choosealicense-cli (⭐67)](https://github.com/lord63/choosealicense-cli) - Choose an OSS license from the comfort of your terminal
+*   [choosealicense-cli (⭐68)](https://github.com/lord63/choosealicense-cli) - Choose an OSS license from the comfort of your terminal
 
 ### Shell Package Management / Directory Navigation
 
@@ -111,7 +111,7 @@
 
 ### Contents / Data
 
-*   [Synthea Patient Generator (⭐1.8k)](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
+*   [Synthea Patient Generator (⭐1.9k)](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
 
 ## [8. Citizen Science](/content/dylanrees/citizen-science/README.md)
 

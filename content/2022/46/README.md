@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 14 - Nov 20, 2022
 
-69 awesome lists updated this week.
+68 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,19 +26,19 @@
 
 ### Programming Languages
 
-*   [Move (⭐1.2k)](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
+*   [Move (⭐1.3k)](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 
 ### Front-End Development
 
-*   [Hydrogen (⭐149)](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React.
+*   [Hydrogen (⭐151)](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React.
 
 ### Networking
 
-*   [Scapy (⭐167)](https://github.com/secdev/awesome-scapy#readme) - Python-based interactive packet manipulation.
+*   [Scapy (⭐180)](https://github.com/secdev/awesome-scapy#readme) - Python-based interactive packet manipulation.
 
 ### Miscellaneous
 
-*   [Computational Geometry (⭐51)](https://github.com/atkirtland/awesome-computational-geometry#readme) - Computational approaches for problems in geometry.
+*   [Computational Geometry (⭐55)](https://github.com/atkirtland/awesome-computational-geometry#readme) - Computational approaches for problems in geometry.
 
 ## [4. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [Ninja-Squad/springmockk (⭐456)](https://github.com/Ninja-Squad/springmockk) - SpringMockK: MockBean and SpyBean, but for MockK instead of Mockito
+*   [Ninja-Squad/springmockk (⭐461)](https://github.com/Ninja-Squad/springmockk) - SpringMockK: MockBean and SpyBean, but for MockK instead of Mockito
 
 ### Projects / Web
 
@@ -85,11 +85,11 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fnm (⭐0)](https://github.com/zap-zsh/fnm) - Adds tab completions for Fast Node Manager [fnm (⭐14k)](https://github.com/Schniz/fnm).
+*   [fnm (⭐0)](https://github.com/zap-zsh/fnm) - Adds tab completions for Fast Node Manager [fnm (⭐15k)](https://github.com/Schniz/fnm).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [easytocloud (⭐0)](https://github.com/easytocloud/oh-my-easytocloud) - Based on [agnoster (⭐3.8k)](https://github.com/agnoster/agnoster-zsh-theme). Includes decorators for AWS environment, `git` status, username and the current directory.
+*   [easytocloud (⭐0)](https://github.com/easytocloud/oh-my-easytocloud) - Based on [agnoster (⭐3.9k)](https://github.com/agnoster/agnoster-zsh-theme). Includes decorators for AWS environment, `git` status, username and the current directory.
 *   [malev (⭐0)](https://github.com/mvinan/malev-zsh-theme) - Has minimalist and normal variants. Includes decorators for hostname, directory, `git` status and the last command's exit status.
 
 ## [10. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
@@ -114,7 +114,7 @@
 
 ### Self-hosted Terraform Platforms / IDE
 
-*   [OTF (⭐472)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
+*   [OTF (⭐473)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
 
 ## [14. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
@@ -178,7 +178,7 @@
     *   [Barcode Reader (⭐8)](https://github.com/xulihang/capacitor-plugin-dynamsoft-barcode-reader) - Scan barcodes and QR codes using Dynamsoft Barcode Reader.
     *   [Camera Preview (⭐3)](https://github.com/tony-xlh/capacitor-plugin-camera-preview) - Access camera using Dynamsoft Camera Enhancer.
     *   [Document Normalizer (⭐1)](https://github.com/tony-xlh/capacitor-plugin-dynamsoft-document-normalizer) - Scan documents using Dynamsoft Document Normalizer.
-    *   [Label Recognizer (⭐0)](https://github.com/tony-xlh/capacitor-plugin-dynamsoft-label-recognizer) - Recognize text on labels like MRZ on passports using Dynamsoft Label Recognizer.
+    *   [Label Recognizer (⭐1)](https://github.com/tony-xlh/capacitor-plugin-dynamsoft-label-recognizer) - Recognize text on labels like MRZ on passports using Dynamsoft Label Recognizer.
 
 ## [20. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
@@ -205,7 +205,7 @@
 
 ### Utilities / General Tools
 
-*   [DevToysMac (⭐8.4k)](https://github.com/ObuchiYuki/DevToysMac) - Offline toolbox that helps developers in daily tasks. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [DevToysMac (⭐8.5k)](https://github.com/ObuchiYuki/DevToysMac) - Offline toolbox that helps developers in daily tasks. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [23. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -416,7 +416,7 @@
 
 ### Cryptography
 
-*   [HEhub (⭐83)](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. \[Apache2]
+*   [HEhub (⭐84)](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. \[Apache2]
 
 ### Networking
 
@@ -481,7 +481,7 @@
 
 ### Templates / Electron
 
-*   [Vutron (⭐168)](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
+*   [Vutron (⭐175)](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -489,7 +489,7 @@
 
 ### Framework-agnostic Plugins / Testing
 
-*   [cypress-vite (⭐73)](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
+*   [cypress-vite (⭐75)](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
 
 ## [45. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
@@ -497,35 +497,29 @@
 
 *   [Async Streams in C#](https://freecontent.manning.com/async-streams-in-c/)
 
-## [46. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Security & Privacy
-
-*   [Gray Hat Hacking: The Ethical Hacker's Handbook](https://pages.cs.wisc.edu/~ace/media/gray-hat-hacking.pdf) - Allen Harper, Jonathan Ness, Chris Eagle, Shon Harris, Gideon Lenkey, Terron Williams (PDF)
-
-## [47. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [46. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Advanced Console UIs
 
-*   [bubbletea (⭐22k)](https://github.com/charmbracelet/bubbletea) - Go framework to build terminal apps, based on The Elm Architecture.
+*   [bubbletea (⭐23k)](https://github.com/charmbracelet/bubbletea) - Go framework to build terminal apps, based on The Elm Architecture.
 
 ### SQL Query Builders
 
 *   [builq (⭐76)](https://github.com/cristalhq/builq) - Easily build SQL queries in Go.
 
-## [48. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [47. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Testing
 
 *   [tepi](https://deno.land/x/tepi) - A .http Test Runner
 
-## [49. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [48. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Image Processing
 
 *   [Anime Segmentation (⭐456)](https://github.com/SkyTNT/anime-segmentation) - High-accuracy segmentation for anime character. \[English]
 
-## [50. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [49. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Learning / Talks Presentations Podcasts
 
@@ -536,7 +530,7 @@
 
 *   [elements/packages/mux-player (⭐200)](https://github.com/muxinc/elements/tree/main/packages/mux-player)  - `<mux-player>` is the official Mux-flavored video player web component. The player UI is built on [Media Chrome (⭐933)](https://github.com/muxinc/media-chrome) and [`<mux-video>`](https://github.com/muxinc/elements/tree/main/packages/mux-video) drives the core video logic used to play Mux Video content.
 
-## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
@@ -563,32 +557,32 @@
 
 *   [Vue3-SPA-starter-template (⭐48)](https://github.com/M-Media-Group/Vue3-SPA-starter-template) - A starter kit with Router, Pinia, i18n, Stripe, Event Bus, SEO meta and schema tag handling, and more.
 
-## [52. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [51. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Rust / [Smarty Template Support](https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support)
 
 *   [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) - Linting, auto-completion, code formatting, snippets and more
 
-## [53. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [52. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [cargo-breaking (⭐111)](https://github.com/iomentum/cargo-breaking) — cargo-breaking compares a crate's public API between two different branches, shows what changed, and suggests the next version according to semver.
 *   [cargo-show-asm (⭐537)](https://github.com/pacak/cargo-show-asm) — cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 
-## [54. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [53. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Artificial Intelligence (AI)
 
 *   [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 
-## [55. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [54. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Books / SRAM
 
 *   [MicroPython for the Raspberry Pi Pico W: A gentle introduction to programming digital circuits with Python](https://www.amazon.com/MicroPython-Raspberry-Pico-introduction-programming/dp/B0BKSCV18D) - By Miguel Grinberg. ISBN 9798361302710.
 
-## [56. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [55. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Hypertechniques / DreamBooth
 
@@ -598,13 +592,13 @@
 
 *   [MubertAI/Mubert-Text-to-Music (⭐2.7k)](https://github.com/MubertAI/Mubert-Text-to-Music): a simple notebook demonstrating prompt-based music generation via Mubert API
 
-## [57. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [56. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Kubernetes / Svelte
 
 *   [Upcoming Kubernetes Events Newsletter](https://kube.events/newsletter). A weekly newsletter on curated meetups, conferences, training and webinars on Kubernetes.
 
-## [58. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [57. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Resources / Documentation
 
@@ -639,7 +633,7 @@
 *   [MongoDB Atlas CLI (⭐149)](https://github.com/mongodb/mongodb-atlas-cli) - Official Atlas API command-line client
 *   [mongosh (⭐269)](https://github.com/mongodb-js/mongosh) - Official command-line client
 
-## [59. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [58. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
@@ -657,7 +651,7 @@
 *   [CML](https://cml.dev/) - CML helps you bring your favorite DevOps tools to machine learning.
 *   [MLEM](https://mlem.ai/) - MLEM is a tool to easily package, deploy and serve Machine Learning models. It seamlessly supports a variety of scenarios like real-time serving and batch processing.
 
-## [60. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [59. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Auto Layout / Barcode
 
@@ -667,13 +661,13 @@
 
 *   [SBTUITestTunnel (⭐312)](https://github.com/Subito-it/SBTUITestTunnel) - UI testing library for interact with network requests, stub CLLocationManager and UNUserNotificationCenter, and fine grain scrolling in table/collection/scroll views
 
-## [61. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [60. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Miscellaneous / Symfony2
 
 *   [Linx](https://linx.software) - Low-code API platform. Build, debug and host REST APIs
 
-## [62. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [61. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
@@ -684,7 +678,7 @@
 *   [Wansmer/sibling-swap.nvim (⭐139)](https://github.com/Wansmer/sibling-swap.nvim) - Different way to swapping arguments and other siblings with Tree-Sitter.
 *   [Wansmer/binary-swap.nvim (⭐17)](https://github.com/Wansmer/binary-swap.nvim) - Swapping operands and operators in binary expressions: comparison and mathematical operations.
 
-## [63. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [62. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Theory of Concepts
 
@@ -699,7 +693,7 @@
 
 *   [The Meaning of "Theory"](https://jamacoartney.net/Abend%20\(2008\).pdf) - ***Sociological Theory***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=4876642889050563131\&hl=en\&as_sdt=0,5)]. A philosophical account on the definition of "theory" in social science (also can be generalized to natural science).
 
-## [64. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [63. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Verified Software
 
@@ -713,7 +707,7 @@
 
 *   [Proofs and Reliable Programming using Coq](https://team.inria.fr/stamp/proofs-and-reliable-programming-using-coq-2022/) - Introduction to developing and verifying programs with Coq.
 
-## [65. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [64. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Resilience and Natural Hazards
 
@@ -728,7 +722,7 @@
 *   [tidytransit](https://cran.r-project.org/web/packages/tidytransit/vignettes/introduction.html) - A tidy approach to accessing and manipulating GTFS data, including transit routes, schedules, and stops.
 *   [tidycensus](https://walker-data.com/tidycensus/) - A tidy approach to accessing data from the US Census Bureau API for manipulation or spatial analysis.
 
-## [66. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [65. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Operating systems
 
@@ -738,19 +732,19 @@
 
 *   [Toitlang](https://toitlang.org/) - is a high-level language that’s made to have a syntax very close to Python. As it’s built from first principles for microcontrollers, it’s at least 20x faster than MicroPython. They’ve also built a slick IDE integration.
 
-## [67. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [66. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Web
 
 *   [Traefik](https://traefik.io/) - HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Source Code (⭐47k)](https://github.com/traefik/traefik)) `MIT` `Go/Docker`
 
-## [68. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [67. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
 *   [Tailwind CSS Docs (⭐47)](https://github.com/techouse/alfred-tailwindcss-docs) - Search the [Tailwind CSS](https://tailwindcss.com/docs/) documentation.
 
-## [69. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [68. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Basics
 

@@ -87,7 +87,7 @@
 
 ### Libraries/Frameworks / Game Development
 
-*   [korlibs/KorGE (⭐2.1k)](https://github.com/korlibs/KorGE) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
+*   [korlibs/KorGE (⭐2.2k)](https://github.com/korlibs/KorGE) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
 
 ## [9. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 

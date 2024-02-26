@@ -2,9 +2,15 @@
 
 A curated list of engineering blogs
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) · ⭐ 22K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) · ⭐ 29K · 🏷️ Miscellaneous
 
 [ [Daily](/content/kilimchoi/engineering-blogs/README.md) / Weekly / [Overview](/content/kilimchoi/engineering-blogs/readme/README.md) ]
+
+## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
+
+### Companies / P companies
+
+*   Palantir <https://blog.palantir.com/>
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 

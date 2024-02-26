@@ -104,7 +104,7 @@ git shortlog
 
 ### Error Handling
 
-*   [Bugsnag (⭐242)](https://github.com/bugsnag/bugsnag-ruby) - Error monitoring for Rails, Sinatra, Rack, and plain Ruby apps.
+*   [Bugsnag (⭐245)](https://github.com/bugsnag/bugsnag-ruby) - Error monitoring for Rails, Sinatra, Rack, and plain Ruby apps.
 
 ## [9. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -242,7 +242,7 @@ git shortlog
 
 ### HTTP
 
-*   [http\_digex (⭐3)](https://github.com/techgaun/http_digex) - A module to create basic digest HTTP auth header.
+*   [http\_digex (⭐4)](https://github.com/techgaun/http_digex) - A module to create basic digest HTTP auth header.
 
 ### Miscellaneous
 
@@ -250,7 +250,7 @@ git shortlog
 
 ### Networking
 
-*   [asn (⭐14)](https://github.com/ephe-meral/asn) - Can be used to map from IP to AS to ASN.
+*   [asn (⭐15)](https://github.com/ephe-meral/asn) - Can be used to map from IP to AS to ASN.
 *   [mac (⭐6)](https://github.com/ephe-meral/mac) - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
 
 ### ORM and Datamapping
@@ -263,7 +263,7 @@ git shortlog
 
 ### Third Party APIs
 
-*   [pigeon (⭐588)](https://github.com/codedge-llc/pigeon) - HTTP2-compliant wrapper for sending iOS and Android push notifications.
+*   [pigeon (⭐592)](https://github.com/codedge-llc/pigeon) - HTTP2-compliant wrapper for sending iOS and Android push notifications.
 
 ### Translations and Internationalizations
 
@@ -529,11 +529,11 @@ Webpage: <https://www.bop.pt>
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [gifgen (⭐525)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
+*   [gifgen (⭐536)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 
 ### Applications / Directory Navigation
 
-*   [vl (⭐24)](https://github.com/ellisonleao/vl) - URL link checker on text documents
+*   [vl (⭐26)](https://github.com/ellisonleao/vl) - URL link checker on text documents
 
 ---
 

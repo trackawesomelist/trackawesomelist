@@ -101,7 +101,7 @@
 
 ### Music Notation
 
-*   [MusicKit (⭐108)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
+*   [MusicKit (⭐109)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
 
 ## [9. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
@@ -218,11 +218,11 @@
 
 ### Downloading and Serving / Directory Navigation
 
-*   [aria2 (⭐32k)](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, BitTorrent and Metalink
+*   [aria2 (⭐33k)](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, BitTorrent and Metalink
 
 ### Shell Script Development / Directory Navigation
 
-*   [rebash (⭐72)](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
+*   [rebash (⭐73)](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
 *   [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
 
 ## [16. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
@@ -330,11 +330,11 @@ git log --first-parent
 
 ### Examples and funny stuff
 
-*   [oop (⭐298)](https://github.com/wojtekmach/oop) - OOP in Elixir.
+*   [oop (⭐300)](https://github.com/wojtekmach/oop) - OOP in Elixir.
 
 ### Office
 
-*   [xlsxir (⭐209)](https://github.com/kennellroxco/xlsxir) - Xlsx file parser with support for ISO 8601 date formats. Data is extracted to an Erlang Term Storage (ETS) table and is accessed through various functions.
+*   [xlsxir (⭐207)](https://github.com/kennellroxco/xlsxir) - Xlsx file parser with support for ISO 8601 date formats. Data is extracted to an Erlang Term Storage (ETS) table and is accessed through various functions.
 
 ## [27. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -486,12 +486,12 @@ Webpage: <http://www.pushcartcoffee.com/>
 ### Testing
 
 *   GUI / Web Testing
-    *   [locust (⭐22k)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
-    *   [PyAutoGUI (⭐8.3k)](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
-    *   [Schemathesis (⭐1.8k)](https://github.com/kiwicom/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
+    *   [locust (⭐23k)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
+    *   [PyAutoGUI (⭐9.3k)](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
+    *   [Schemathesis (⭐2k)](https://github.com/kiwicom/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
     *   [Selenium](https://pypi.org/project/selenium/) - Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
-    *   [sixpack (⭐1.7k)](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
-    *   [splinter (⭐2.6k)](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
+    *   [sixpack (⭐1.8k)](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
+    *   [splinter (⭐2.7k)](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
 
 ## [36. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -506,11 +506,11 @@ Webpage: <http://www.pushcartcoffee.com/>
 ### Libraries
 
 *   [JSON::Tiny (⭐11)](https://github.com/daoswald/JSON-Tiny) - Perl module for encoding and decoding JSON in a minimalistic way.
-*   [MultiJSON (⭐736)](https://github.com/intridea/multi_json) - A generic swappable back-end for JSON handling.
+*   [MultiJSON (⭐745)](https://github.com/intridea/multi_json) - A generic swappable back-end for JSON handling.
 
 ### Transformations
 
-*   [JsonMapper (⭐1.4k)](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
+*   [JsonMapper (⭐1.5k)](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
 
 ## [37. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 

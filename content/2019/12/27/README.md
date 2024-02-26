@@ -27,7 +27,7 @@
 ### Authentication and Authorization
 
 *   🍰 [Authentication plugin (⭐112)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
-*   🍰 [Authorization plugin (⭐69)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
+*   🍰 [Authorization plugin (⭐71)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
 *   🍰 [TinyAuth plugin (⭐127)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role based (single/multi) authorization as very light-weight approach.
 
 ### Code Analysis
@@ -68,7 +68,7 @@
 
 ### Templating
 
-*   🍰 [Bake plugin (⭐103)](https://github.com/cakephp/bake) - Provides code generation functionality.
+*   🍰 [Bake plugin (⭐105)](https://github.com/cakephp/bake) - Provides code generation functionality.
 *   🍰 [BootstrapUI plugin (⭐336)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 4/5 integration.
 *   🍰 [CsvView plugin (⭐174)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 

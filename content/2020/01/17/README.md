@@ -22,7 +22,7 @@
 
 ### HTTP Clients
 
-*   [httpx (⭐11k)](https://github.com/encode/httpx) - A next generation HTTP client for Python.
+*   [httpx (⭐12k)](https://github.com/encode/httpx) - A next generation HTTP client for Python.
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -38,15 +38,15 @@
 
 ### Command-Line Productivity
 
-*   [eureka (⭐698)](https://github.com/simeg/eureka/) - :bulb: CLI tool to input and store your ideas without leaving the terminal
-*   [gitmux (⭐475)](https://github.com/arl/gitmux) - Show Git status in Tmux status bar
+*   [eureka (⭐723)](https://github.com/simeg/eureka/) - :bulb: CLI tool to input and store your ideas without leaving the terminal
+*   [gitmux (⭐512)](https://github.com/arl/gitmux) - Show Git status in Tmux status bar
 *   [parallel](https://www.gnu.org/software/parallel/) - Build and execute shell command lines from standard input in parallel
 *   [tmux](https://tmux.github.io/) - Amazing terminal multiplexer
 
 ### Customization / Directory Navigation
 
-*   [geometry (⭐892)](https://github.com/geometry-zsh/geometry) - A minimal ZSH theme where any function can be added to the left prompt or (async) right prompt on the fly.
-*   [synth-shell (⭐794)](https://github.com/andresgongora/synth-shell) - Greeter with a customizable status report and a fancy bash prompt
+*   [geometry (⭐907)](https://github.com/geometry-zsh/geometry) - A minimal ZSH theme where any function can be added to the left prompt or (async) right prompt on the fly.
+*   [synth-shell (⭐856)](https://github.com/andresgongora/synth-shell) - Greeter with a customizable status report and a fancy bash prompt
 
 ### System Utilities / Directory Navigation
 

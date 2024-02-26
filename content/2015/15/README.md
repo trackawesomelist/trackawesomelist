@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 13 - Apr 19, 2015
 
-19 awesome lists updated this week.
+20 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -104,11 +104,17 @@ RewriteRule ^ %1 [R=301,L]
 
 *   [Can I parse XHTML with Regex?](http://stackoverflow.com/a/1732454)
 
-## [11. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [11. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### 操作系统
+
+*   [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+## [12. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Data Visualization
 
-*   [GeoPattern (⭐1.2k)](https://github.com/jasonlong/geo_pattern) - Create beautiful generative geometric background images from a string.
+*   [GeoPattern (⭐1.3k)](https://github.com/jasonlong/geo_pattern) - Create beautiful generative geometric background images from a string.
 
 ### Database Tools
 
@@ -116,15 +122,15 @@ RewriteRule ^ %1 [R=301,L]
 
 ### Email
 
-*   [Sup (⭐869)](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
+*   [Sup (⭐871)](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
 
 ### Error Handling
 
-*   [Exception Handler (⭐503)](https://github.com/richpeck/exception_handler) - Custom error pages.
+*   [Exception Handler (⭐505)](https://github.com/richpeck/exception_handler) - Custom error pages.
 
 ### HTML/XML Parsing
 
-*   [Ox (⭐874)](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
+*   [Ox (⭐886)](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
 
 ### Performance Monitoring
 
@@ -132,7 +138,7 @@ RewriteRule ^ %1 [R=301,L]
 
 ### RSS
 
-*   [Stringer (⭐3.7k)](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader.
+*   [Stringer (⭐3.8k)](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader.
 
 ### Static Site Generation
 
@@ -146,7 +152,7 @@ RewriteRule ^ %1 [R=301,L]
 
 *   [Scorched](http://scorchedrb.com) - Light-weight, inheritable and composable web framework, inspired by Sinatra.
 
-## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [13. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### ORM and Datamapping
 
@@ -157,23 +163,23 @@ RewriteRule ^ %1 [R=301,L]
 
 *   [cobertura\_cover (⭐12)](https://github.com/PSPDFKit-labs/cobertura_cover) - Writes a coverage.xml from `mix test --cover` file compatible with Jenkins' Cobertura plugin.
 
-## [13. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [14. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Repos, CodePens and Things / Repos
 
 *   [WordPress BEM Menu (⭐139)](https://github.com/roikles/Wordpress-Bem-Menu)
 
-## [14. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [15. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Interpreter / Web
 
 *   [IronAHK (⭐389)](https://github.com/polyethene/IronAHK) - Cross platform .NET rewrite - *unfinished*.
 
-## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
-*   [Video++ (⭐713)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. \[MIT]
+*   [Video++ (⭐714)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. \[MIT]
 
 ### Inter-process communication
 
@@ -185,13 +191,13 @@ RewriteRule ^ %1 [R=301,L]
 
 ### Math
 
-*   [QuantLib (⭐4.6k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
+*   [QuantLib (⭐4.7k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
 
 ### Integrated Development Environment
 
-*   [color\_coded (⭐873)](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting. \[MIT]
+*   [color\_coded (⭐874)](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting. \[MIT]
 
-## [16. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [17. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### List / Grid
 
@@ -223,7 +229,7 @@ RewriteRule ^ %1 [R=301,L]
 
 
 
-## [17. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [18. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / CS Theory
 
@@ -233,11 +239,11 @@ RewriteRule ^ %1 [R=301,L]
     *   [Lecture Notes](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html)
     *   [Lecture Videos](http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html)
 
-## [18. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [19. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Binary Serialization
 
-*   [PSON (⭐448)](https://github.com/dcodeIO/PSON) - Protocol JSON, super efficient binary serialization format.
+*   [PSON (⭐457)](https://github.com/dcodeIO/PSON) - Protocol JSON, super efficient binary serialization format.
 
 ### Command-line tools
 
@@ -249,22 +255,16 @@ RewriteRule ^ %1 [R=301,L]
 
 ### Data generation
 
-*   [jsonymize (⭐14)](https://github.com/cameronhunter/jsonymize) - Reads data from standard input, anonymizes, then writes to standard output.
+*   [jsonymize (⭐17)](https://github.com/cameronhunter/jsonymize) - Reads data from standard input, anonymizes, then writes to standard output.
 *   [dyson (⭐835)](https://github.com/webpro/dyson) - Server for dynamic, fake JSON. (node.js)
 
 ### Libraries
 
-*   [moshi (⭐8.6k)](https://github.com/square/moshi) - A modern JSON library for Android and Java.
+*   [moshi (⭐9.4k)](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 
 ### Online tools
 
 *   [JSON Selector Generator](http://jsonselector.com/) - A simple GUI for generating the selectors to access.
-
-### Schema Specifications
-
-*   [JSON Schema](http://json-schema.org/) - a JSON based format for defining the structure of JSON data.
-*   [Kwalify](http://www.kuwata-lab.com/kwalify/) - A parser, schema validator, and data binding tool
-*   [Rx](http://rx.codesimply.com/) - Simple, Extensible Schemata.
 
 ### Services
 
@@ -272,7 +272,7 @@ RewriteRule ^ %1 [R=301,L]
 
 ### Supersets
 
-*   [μson (⭐68)](https://github.com/burningtree/uson) (uson) - a shorthand for JSON.
+*   [μson (⭐69)](https://github.com/burningtree/uson) (uson) - a shorthand for JSON.
 
 ### Transformations
 
@@ -282,9 +282,9 @@ RewriteRule ^ %1 [R=301,L]
 
 ### JSON Schema Tools
 
-*   [Docson (⭐481)](https://github.com/lbovet/docson) - Documentation for your types.
+*   [Docson (⭐491)](https://github.com/lbovet/docson) - Documentation for your types.
 
-## [19. Inspire](/content/noahbuscher/inspire/week/README.md)
+## [20. Inspire](/content/noahbuscher/inspire/week/README.md)
 
 ### Collaborate / Working with a team? These links are for you.
 

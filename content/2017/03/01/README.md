@@ -16,11 +16,11 @@
 
 ### Framework Components
 
-*   [rummage\_ecto (⭐210)](https://github.com/Excipients/rummage_ecto) - A configurable framework to search, sort and paginate Ecto Queries.
+*   [rummage\_ecto (⭐209)](https://github.com/Excipients/rummage_ecto) - A configurable framework to search, sort and paginate Ecto Queries.
 
 ### ORM and Datamapping
 
-*   [mongodb\_ecto (⭐358)](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
+*   [mongodb\_ecto (⭐361)](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
 
 ## [3. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

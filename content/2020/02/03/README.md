@@ -144,7 +144,7 @@
 
 ### Documentation
 
-*   [Documentation (⭐214)](https://github.com/adamcooke/documentation) - A Rails engine to provide the ability to add documentation to a Rails application.
+*   [Documentation (⭐215)](https://github.com/adamcooke/documentation) - A Rails engine to provide the ability to add documentation to a Rails application.
 
 ## [12. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Authentication and Authorization
 
-*   🍰 [TwoFactorAuth plugin (⭐36)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth (⭐984)](https://github.com/RobThree/TwoFactorAuth) library.
+*   🍰 [TwoFactorAuth plugin (⭐36)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth (⭐992)](https://github.com/RobThree/TwoFactorAuth) library.
 
 ## [15. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 

@@ -35,7 +35,7 @@ Thanks to all [contributors (⭐1.6k)](https://github.com/ciconia/awesome-music/
 *   [Ardour](http://ardour.org/) - a cross-platform digital audio workstation emphasizing audio recording.
 *   [LMMS](https://lmms.io/) - another cross-platform digital audio workstation, more oriented towards making beats.
 *   [snd](https://sourceforge.net/projects/snd/) - Snd is a sound editor modelled loosely after Emacs.
-*   [Stargate DAW (⭐570)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
+*   [Stargate DAW (⭐578)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 *   [TuneFlow](https://tuneflow.com/) - a next-gen DAW that helps you generate melody, beats, or a whole song, while still being able to edit them.
 
 ## Audio Libraries
@@ -102,7 +102,6 @@ Thanks to all [contributors (⭐1.6k)](https://github.com/ciconia/awesome-music/
 *   [Frescobaldi (⭐690)](https://github.com/wbsoft/frescobaldi) - a free Lilypond sheet music editor.
 *   [Guido](http://guidolib.sourceforge.net/) - a generic, portable library and API for the graphical rendering of musical scores.
 *   [Hacklily](https://www.hacklily.org) - online LilyPond-based sheet music editor (with optional GitHub integration).
-*   [i-score](http://www.i-score.org) - a software for interactive music notation, with DAW features.
 *   [Inknote (⭐153)](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
 *   [LibMEI (⭐59)](https://github.com/DDMAL/libmei) - a C++ library for reading and writing MEI files.
 *   [Lilybin](http://lilybin.com/) - an open source web-based LilyPond editor.
@@ -114,6 +113,7 @@ Thanks to all [contributors (⭐1.6k)](https://github.com/ciconia/awesome-music/
 *   [Lyp (⭐70)](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
 *   [MuseScore (⭐11k)](https://github.com/musescore/MuseScore) - free open-source music notation and composition software.
 *   [MusicKit (⭐109)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
+*   [neoscore](https://neoscore.org/) - python library for notating music in a graphics-first paradigm.
 *   [NOTATIO](http://notat.io/) - a forum devoted to the practice of music notation.
 *   [OpenLilyLib (⭐114)](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
 *   [OpenSheetMusicDisplay (⭐1.3k)](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - Typescript library for rendering MusicXML in the browser.
@@ -122,7 +122,7 @@ Thanks to all [contributors (⭐1.6k)](https://github.com/ciconia/awesome-music/
 *   [Scorelib](http://scorelib.sapp.org/) - a C++ library for parsing SCORE data files.
 *   [Tbon (⭐13)](https://github.com/Michael-F-Ellis/tbon) - Typographic Beat-Oriented Notation for music.
 *   [Unison](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Proprietary software for creating music score with words.
-*   [Verovio (⭐608)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
+*   [Verovio (⭐609)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
 *   [Vexflow (⭐3.7k)](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
 
 ## Music Programming
@@ -152,7 +152,7 @@ Thanks to all [contributors (⭐1.6k)](https://github.com/ciconia/awesome-music/
 *   [pyo](https://belangeo.github.io/pyo/) - a Python module to help digital signal processing script creation.
 *   [py-modular](http://py-modular.readthedocs.io/) - a modular and experimental programming environment with basic DSP routines in python.
 *   [Sardine (⭐169)](https://github.com/Bubobubobubobubo/sardine) - a music live coding library for Python 3.10+ (MIDI/OSC/SuperCollider).
-*   [slippery chicken (⭐59)](https://github.com/mdedwards/slippery-chicken) - a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.
+*   [slippery chicken (⭐61)](https://github.com/mdedwards/slippery-chicken) - a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.
 *   [Sonic Pi](http://sonic-pi.net/) - a live coding synth with an emphasis on educational use.
 *   [Sporth](https://pbat.ch/proj/sporth.html) - a small stack based audio language.
 *   [Strudel](https://strudel.tidalcycles.org/) - an experiment in making a language built on javascript for live coding patterns using web technologies.

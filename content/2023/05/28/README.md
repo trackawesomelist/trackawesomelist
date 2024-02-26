@@ -30,17 +30,17 @@
 
 ### ⚙️ Middlewares / 🧬 Core
 
-*   [Adaptor (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/adaptor) - Converter for net/http handlers to/from Fiber request handlers.
-*   [Earlydata (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/earlydata) - Early data support for Fiber.
-*   [Helmet (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/helmet) - Helps secure your apps by setting various HTTP headers.
-*   [Idempotency (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/idempotency) - Idempotency middleware for Fiber allows for fault-tolerant APIs where duplicate requests.
-*   [Keyauth (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/keyauth) - Key auth middleware provides a key based authentication.
-*   [Redirect (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/redirect) - Redirect middleware for Fiber.
-*   [Rewrite (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/rewrite) - Rewrite middleware rewrites the URL path based on provided rules. It can be helpful for backward compatibility or just creating cleaner and more descriptive links.
+*   [Adaptor (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/adaptor) - Converter for net/http handlers to/from Fiber request handlers.
+*   [Earlydata (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/earlydata) - Early data support for Fiber.
+*   [Helmet (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/helmet) - Helps secure your apps by setting various HTTP headers.
+*   [Idempotency (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/idempotency) - Idempotency middleware for Fiber allows for fault-tolerant APIs where duplicate requests.
+*   [Keyauth (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/keyauth) - Key auth middleware provides a key based authentication.
+*   [Redirect (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/redirect) - Redirect middleware for Fiber.
+*   [Rewrite (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/rewrite) - Rewrite middleware rewrites the URL path based on provided rules. It can be helpful for backward compatibility or just creating cleaner and more descriptive links.
 
 ### ⚙️ Middlewares / ‍💻 Contrib
 
-*   [fiberi18n (⭐133)](https://github.com/gofiber/contrib/tree/main/fiberi18n) - Middleware for i18n support in Fiber.
+*   [fiberi18n (⭐176)](https://github.com/gofiber/contrib/tree/main/fiberi18n) - Middleware for i18n support in Fiber.
 
 ## [4. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Learning resources / Package managers
 
-*   [ratfactor/ziglings (⭐3.9k)](https://github.com/ratfactor/ziglings) - Learn Zig by fixing tiny example programs.
+*   [ratfactor/ziglings (⭐4k)](https://github.com/ratfactor/ziglings) - Learn Zig by fixing tiny example programs.
 
 ## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -68,11 +68,11 @@
 
 ### Software / Miscellaneous
 
-*   [Upsnap (⭐1.3k)](https://github.com/seriousm4x/UpSnap) - A simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. `MIT` `Go/Docker`
+*   [Upsnap (⭐1.5k)](https://github.com/seriousm4x/UpSnap) - A simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. `MIT` `Go/Docker`
 
 ### Software / Personal Dashboards
 
-*   [Starbase 80 (⭐153)](https://github.com/notclickable-jordan/starbase-80) - A simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file. `MIT` `Docker`
+*   [Starbase 80 (⭐156)](https://github.com/notclickable-jordan/starbase-80) - A simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file. `MIT` `Docker`
 
 ## [8. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bitwarden (casonadams) (⭐1)](https://github.com/casonadams/bitwarden-cli) - A [Bitwarden](https://bitwarden.com/download/) CLI fuzzy finder using [fzf (⭐57k)](https://github.com/junegunn/fzf). Requires [jq](https://stedolan.github.io/jq/).
+*   [bitwarden (casonadams) (⭐1)](https://github.com/casonadams/bitwarden-cli) - A [Bitwarden](https://bitwarden.com/download/) CLI fuzzy finder using [fzf (⭐58k)](https://github.com/junegunn/fzf). Requires [jq](https://stedolan.github.io/jq/).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

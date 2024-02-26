@@ -71,7 +71,7 @@
 
 ### Table of Contents / Command Line
 
-*   [GetOpt (⭐331)](https://github.com/getopt-php/getopt-php) - A command line opt parser.
+*   [GetOpt (⭐332)](https://github.com/getopt-php/getopt-php) - A command line opt parser.
 
 ---
 

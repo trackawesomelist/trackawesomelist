@@ -286,7 +286,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Toutatis (⭐1.3k)](https://github.com/megadose/toutatis)
+*   [Toutatis (⭐1.5k)](https://github.com/megadose/toutatis)
 
 ## [4. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
@@ -335,7 +335,7 @@
 ### 2020
 
 *   [VSCode](https://code.visualstudio.com/) - [vscode-R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) + [vscode-r-lsp](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r-lsp) VSCode R Langauage Support
-*   [gt (⭐1.8k)](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R
+*   [gt (⭐1.9k)](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R
 
 ### Integrated Development Environments
 

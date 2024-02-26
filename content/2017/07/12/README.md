@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 12, 2017
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -70,19 +70,13 @@
 
 
 
-## [6. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
-
-### Slack / Other
-
-*   [openFrameworks](https://ofslack.herokuapp.com/) - openFrameworks Slack.
-
-## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [6. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Samples
 
 *   [GL\_vs\_VK (⭐80)](https://github.com/RippeR37/GL_vs_VK) - Comparison of OpenGL and Vulkan API in terms of performance. \[MIT]
 
-## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Clojure / Git
 
@@ -96,7 +90,7 @@
 
 *   [libsodium-laravel (⭐21)](https://github.com/scrothers/libsodium-laravel) - Laravel Package Abstraction using `libsodium`.
 
-## [9. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [8. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Tools / Protocol Analyzers and Sniffers
 
@@ -106,13 +100,13 @@
 
 *   [evilgrade (⭐1.2k)](https://github.com/infobyte/evilgrade) - Modular framework to take advantage of poor upgrade implementations by injecting fake updates.
 
-## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Science and Data analysis
 
 *   [linalg (⭐46)](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
 
-## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Data Pipeline
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 12, 2023
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -8,13 +8,9 @@
 
 ## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### People Investigations / Telegram
-
-*   [Digital Footprint Check](https://www.cyberoneintel.com/digitalfootprint) - Search the internet including social media accounts, employment history, dating profiles, gaming profiles, dark web credential breaches, indexed search engine occurrences, and more.
-
 ### Infographics and Data Visualization / Telegram
 
-*   [Perspective (⭐6.6k)](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
+*   [Perspective (⭐7.2k)](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -120,12 +116,6 @@
 ### Playgrounds
 
 *   [ChainQuery Bitcoin RPC](https://chainquery.com) - Run select bitcoin RPC API calls and read full RPC docs in your browser.
-
-## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Open Source Ecosystem
-
-*   [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) - Nadia Eghbal
 
 ---
 

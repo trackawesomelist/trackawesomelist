@@ -16,7 +16,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Stretto (⭐605)](https://github.com/benkaiser/stretto) - Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. ([Demo](https://next.kaiserapps.com), [Clients (⭐9)](https://github.com/benkaiser/stretto-mobile-next)) `MIT` `Nodejs`
+*   [Stretto (⭐607)](https://github.com/benkaiser/stretto) - Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. ([Demo](https://next.kaiserapps.com), [Clients (⭐9)](https://github.com/benkaiser/stretto-mobile-next)) `MIT` `Nodejs`
 
 ## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Gaming
 
-*   [Game Remakes (⭐568)](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
+*   [Game Remakes (⭐609)](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
 
 ## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Science and Data analysis
 
-*   [ishi (⭐46)](https://github.com/toddsundsted/ishi) - Graph plotting package with a small API and sensible defaults powered by gnuplot
+*   [ishi (⭐47)](https://github.com/toddsundsted/ishi) - Graph plotting package with a small API and sensible defaults powered by gnuplot
 
 ### Third-party APIs
 

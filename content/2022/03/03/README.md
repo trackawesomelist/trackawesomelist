@@ -16,7 +16,7 @@
 
 ### Applications / Security tools
 
-*   [ObserverWard (⭐893)](https://github.com/0x727/ObserverWard) — Community based web technologies analysis tool.
+*   [ObserverWard (⭐894)](https://github.com/0x727/ObserverWard) — Community based web technologies analysis tool.
 
 ## [3. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -133,8 +133,8 @@
 
 ### Official plugins
 
-*   [Device (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/device) - Exposes internal information about the device, such as the model and operating system version, along with user information such as unique IDs.
-*   [File system (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/filesystem) - Provides a NodeJS-like API for working with files on the device.
+*   [Device (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/device) - Exposes internal information about the device, such as the model and operating system version, along with user information such as unique IDs.
+*   [File system (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/filesystem) - Provides a NodeJS-like API for working with files on the device.
 
 ### Learning / Crash Courses
 

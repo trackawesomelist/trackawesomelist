@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 30, 2018
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -77,36 +77,6 @@
 ### SDK and API Clients
 
 *   [Getty Images API SDK (⭐10)](https://github.com/gettyimages/gettyimages-api_dotnet) - SDK for the Getty Images and iStock APIs
-
-## [11. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### Command-line Interface Development
-
-*   Command-line Application Development
-    *   [cement](http://builtoncement.com/) - CLI Application Framework for Python.
-    *   [click](http://click.pocoo.org/dev/) - A package for creating beautiful command line interfaces in a composable way.
-    *   [cliff](https://docs.openstack.org/developer/cliff/) - A framework for creating command-line programs with multi-level commands.
-    *   [docopt](http://docopt.org/) - Pythonic command line arguments parser.
-    *   [python-fire (⭐25k)](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object.
-    *   [python-prompt-toolkit (⭐8.4k)](https://github.com/jonathanslenders/python-prompt-toolkit) - A library for building powerful interactive command lines.
-
-### Command-line Tools
-
-*   Productivity Tools
-    *   [copier (⭐1.1k)](https://github.com/pykong/copier) - A library and command-line utility for rendering projects templates.
-    *   [cookiecutter (⭐20k)](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates).
-    *   [doitlive (⭐3.3k)](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal.
-    *   [howdoi (⭐10k)](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
-    *   [Invoke (⭐4k)](https://github.com/pyinvoke/invoke#readme) - A tool for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
-    *   [PathPicker (⭐4.9k)](https://github.com/facebook/PathPicker) - Select files out of bash output.
-    *   [percol (⭐3.2k)](https://github.com/mooz/percol) - Adds flavor of interactive selection to the traditional pipe concept on UNIX.
-    *   [thefuck (⭐78k)](https://github.com/nvbn/thefuck) - Correcting your previous console command.
-    *   [tmuxp (⭐3.7k)](https://github.com/tony/tmuxp) - A [tmux (⭐29k)](https://github.com/tmux/tmux) session manager.
-    *   [try (⭐679)](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - it's never been easier.
-
-### GUI Development
-
-*   [PyGObject](https://wiki.gnome.org/Projects/PyGObject) - Python Bindings for GLib/GObject/GIO/GTK+ (GTK+3).
 
 ---
 

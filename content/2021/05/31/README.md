@@ -20,7 +20,7 @@
 
 ### Reporter / Visibility Reporter
 
-*   [react-intersection-observer (⭐4.6k)](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
+*   [react-intersection-observer (⭐4.7k)](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
 
 ## [3. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Planning Data Specifications / Transportation
 
-*   [GMNS (⭐94)](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
+*   [GMNS (⭐96)](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -77,7 +77,7 @@
 *   [Kribrum](https://kribrum.io/)
 *   [WATools](https://watools.io/)
 *   [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
-*   [Oblivion (⭐421)](https://github.com/loseys/Oblivion)
+*   [Oblivion (⭐451)](https://github.com/loseys/Oblivion)
 
 ### Social Media Tools / VKontakte
 
@@ -132,7 +132,7 @@
 *   [Insecam](http://insecam.org/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
-*   [Video Stabilization Methods (⭐254)](https://github.com/yaochih/awesome-video-stabilization)
+*   [Video Stabilization Methods (⭐297)](https://github.com/yaochih/awesome-video-stabilization)
 
 ### Geospatial Research and Mapping Tools / Telegram
 
@@ -157,7 +157,7 @@
 ### Other Tools / Telegram
 
 *   [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
-*   [FOCA (⭐2.5k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
+*   [FOCA (⭐2.7k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 
 ### OSINT Videos / Telegram
 

@@ -70,7 +70,7 @@
 
 ### Table of Contents / Strings
 
-*   [ANSI to HTML5 (⭐230)](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
+*   [ANSI to HTML5 (⭐231)](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

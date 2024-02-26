@@ -10,7 +10,7 @@
 
 ### YouTube
 
-*   [Youtube-Local (⭐422)](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance.
+*   [Youtube-Local (⭐427)](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

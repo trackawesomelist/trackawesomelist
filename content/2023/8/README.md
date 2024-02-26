@@ -47,7 +47,7 @@
 
 ### Code Analysis
 
-*   [ex\_check (⭐292)](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project.
+*   [ex\_check (⭐295)](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project.
 
 ## [6. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -97,7 +97,7 @@
 
 ### Libraries / Graph algorithms
 
-*   [petgraph/petgraph (⭐2.5k)](https://github.com/petgraph/petgraph) - Graph data structure library for Rust. [![graph CI status](https://github.com/petgraph/petgraph/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/petgraph/petgraph/actions/workflows/ci.yml)
+*   [petgraph/petgraph (⭐2.5k)](https://github.com/petgraph/petgraph) - Graph data structure library. [![graph CI status](https://github.com/petgraph/petgraph/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/petgraph/petgraph/actions/workflows/ci.yml)
 
 ## [11. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
@@ -142,7 +142,7 @@
 ### Large Language Models (LLMs)
 
 *   [Red-Teaming Large Language Models | Hugging Faces](https://huggingface.co/blog/red-teaming): strategies for testing LLMs against jailbreaks and attacks
-*   [hwchase17/langchain (⭐76k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
+*   [hwchase17/langchain (⭐77k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
 *   [Top Large Language Models (LLMs) in 2023 | MarkTechPost](https://www.marktechpost.com/2023/02/22/top-large-language-models-llms-in-2023-from-openai-google-ai-deepmind-anthropic-baidu-huawei-meta-ai-ai21-labs-lg-ai-research-and-nvidia/): list with large language models from diverse companies
 *   [Godly](https://godly.ai): Instant context for GPT3
 
@@ -187,7 +187,7 @@
 
 ### Configuration
 
-*   [inipp (⭐249)](https://github.com/mcmtroffaes/inipp) - Simple header-only C++ ini parser and generator. \[MIT]
+*   [inipp (⭐250)](https://github.com/mcmtroffaes/inipp) - Simple header-only C++ ini parser and generator. \[MIT]
 
 ### Math
 
@@ -449,7 +449,7 @@
 *   [river\_dreams (⭐2)](https://github.com/skippyr/river_dreams) - Includes decorators for `git` information, machine's IP address, time, disk usage on `/`, current Python `venv`, current directory, root status, and the last command's exit status.
 *   [sensa (⭐0)](https://github.com/miccou/sensa-theme) - Includes decorators for `git` status, GitHub username and current directory.
 *   [starship2k (⭐2)](https://github.com/2KAbhishek/starship2k) - Includes powerline support, decorators for `git` information, multiple languages and a multiline prompt.
-*   [unicorn (⭐1)](https://github.com/juliuscaesar/unicorn) - Includes decorators for root status, virtualenv, nvm, rvm, current directory, the time, current directory and emoji `git` information. Inspired by [wild cherry (⭐476)](https://github.com/mashaal/wild-cherry).
+*   [unicorn (⭐1)](https://github.com/juliuscaesar/unicorn) - Includes decorators for root status, virtualenv, nvm, rvm, current directory, the time, current directory and emoji `git` information. Inspired by [wild cherry (⭐475)](https://github.com/mashaal/wild-cherry).
 
 ## [34. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -539,31 +539,31 @@
 
 ### Bot Building
 
-*   [bot (⭐286)](https://github.com/go-telegram/bot) - Zero-dependencies Telegram Bot library with additional UI components
+*   [bot (⭐311)](https://github.com/go-telegram/bot) - Zero-dependencies Telegram Bot library with additional UI components
 
 ### Build Automation
 
-*   [xc (⭐948)](https://github.com/joerdav/xc) - Task runner with README.md defined tasks, executable markdown.
+*   [xc (⭐960)](https://github.com/joerdav/xc) - Task runner with README.md defined tasks, executable markdown.
 
 ### Database Tools
 
-*   [onedump (⭐39)](https://github.com/liweiyi88/onedump) - Database backup from different drivers to different destinations with one command and configuration.
+*   [onedump (⭐45)](https://github.com/liweiyi88/onedump) - Database backup from different drivers to different destinations with one command and configuration.
 
 ### Error Handling
 
-*   [Fault (⭐146)](https://github.com/Southclaws/fault) - An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values.
+*   [Fault (⭐147)](https://github.com/Southclaws/fault) - An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values.
 
 ### Messaging
 
-*   [Watermill (⭐6.5k)](https://github.com/ThreeDotsLabs/watermill) - Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog.
+*   [Watermill (⭐6.6k)](https://github.com/ThreeDotsLabs/watermill) - Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog.
 
 ### Security
 
-*   [booster (⭐429)](https://github.com/anatol/booster) - Fast initramfs generator with full-disk encryption support.
+*   [booster (⭐437)](https://github.com/anatol/booster) - Fast initramfs generator with full-disk encryption support.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [hotswap (⭐280)](https://github.com/edwingeng/hotswap) - A complete solution to reload your go code without restarting your server, interrupting or blocking any ongoing procedure.
+*   [hotswap (⭐286)](https://github.com/edwingeng/hotswap) - A complete solution to reload your go code without restarting your server, interrupting or blocking any ongoing procedure.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
@@ -573,26 +573,26 @@
 
 ### Software / Analytics
 
-*   [AWStats](http://www.awstats.org/) - Generate statistics from web, streaming, ftp or mail server logfiles. ([Demo](https://www.awstats.org/#DEMO), [Source Code (⭐337)](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
+*   [AWStats](http://www.awstats.org/) - Generate statistics from web, streaming, ftp or mail server logfiles. ([Demo](https://www.awstats.org/#DEMO), [Source Code (⭐342)](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
 *   [Countly Community Edition](https://count.ly) - Real time mobile and web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPL-3.0` `Nodejs/Docker`
 *   [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code (⭐13k)](https://github.com/apache/druid)) `Apache-2.0` `Java/Docker`
-*   [EDA](https://eda.jortilles.com/en/jortilles-english/) - Web application for data analysis and visualization. ([Source Code (⭐91)](https://github.com/jortilles/EDA)) `AGPL-3.0` `Nodejs/Docker`
+*   [EDA](https://eda.jortilles.com/en/jortilles-english/) - Web application for data analysis and visualization. ([Source Code (⭐92)](https://github.com/jortilles/EDA)) `AGPL-3.0` `Nodejs/Docker`
 *   [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code (⭐17k)](https://github.com/allinurl/goaccess)) `GPL-2.0` `C`
 *   [GoatCounter](https://www.goatcounter.com) - Easy web statistics without tracking of personal data. ([Source Code (⭐4k)](https://github.com/arp242/goatcounter)) `EUPL-1.2` `Go`
 *   [Metabase](https://metabase.com/) - Easy, open-source way for everyone in your company to ask questions and learn from data. ([Source Code (⭐36k)](https://github.com/metabase/metabase)) `AGPL-3.0` `Java/Docker`
-*   [Offen](https://www.offen.dev/) - Fair, lightweight and open web analytics tool. Gain insights while your users have full access to their data. ([Demo](https://www.offen.dev/try-demo/), [Source Code (⭐796)](https://github.com/offen/offen)) `Apache-2.0` `Go/Docker`
+*   [Offen](https://www.offen.dev/) - Fair, lightweight and open web analytics tool. Gain insights while your users have full access to their data. ([Demo](https://www.offen.dev/try-demo/), [Source Code (⭐800)](https://github.com/offen/offen)) `Apache-2.0` `Go/Docker`
 *   [Open Web Analytics](http://www.openwebanalytics.com/) - Web analytics framework that lets you stay in control of how you instrument and analyze the use of your websites and applications. ([Source Code (⭐2.3k)](https://github.com/Open-Web-Analytics/Open-Web-Analytics)) `GPL-2.0` `PHP`
-*   [Plausible Analytics](https://plausible.io/) - Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics. ([Source Code (⭐17k)](https://github.com/plausible/analytics/)) `AGPL-3.0` `Elixir`
-*   [PostHog](https://posthog.com) - Product analytics, session recording, feature flagging and a/b testing that you can self-host (alternative to Mixpanel/Amplitude/Heap/HotJar/Optimizely). ([Source Code (⭐15k)](https://github.com/posthog/posthog)) `MIT` `Python`
-*   [Redash](http://redash.io) - Connect and query your data sources, build dashboards to visualize data and share them with your company. ([Source Code (⭐24k)](https://github.com/getredash/redash)) `BSD-2-Clause` `Docker`
-*   [RudderStack](https://rudderstack.com/) - Collect, unify, transform, and store your customer data, and route it to a wide range of common, popular marketing, sales, and product tools (alternative to Segment). ([Source Code (⭐3.8k)](https://github.com/rudderlabs/rudder-server/)) `AGPL-3.0` `Docker/K8S/Go/Nodejs`
+*   [Plausible Analytics](https://plausible.io/) - Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics. ([Source Code (⭐18k)](https://github.com/plausible/analytics/)) `AGPL-3.0` `Elixir`
+*   [PostHog](https://posthog.com) - Product analytics, session recording, feature flagging and a/b testing that you can self-host (alternative to Mixpanel/Amplitude/Heap/HotJar/Optimizely). ([Source Code (⭐16k)](https://github.com/posthog/posthog)) `MIT` `Python`
+*   [Redash](http://redash.io) - Connect and query your data sources, build dashboards to visualize data and share them with your company. ([Source Code (⭐25k)](https://github.com/getredash/redash)) `BSD-2-Clause` `Docker`
+*   [RudderStack](https://rudderstack.com/) - Collect, unify, transform, and store your customer data, and route it to a wide range of common, popular marketing, sales, and product tools (alternative to Segment). ([Source Code (⭐3.9k)](https://github.com/rudderlabs/rudder-server/)) `AGPL-3.0` `Docker/K8S/Go/Nodejs`
 *   [Shynet (⭐2.7k)](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. `Apache-2.0` `Python/Docker`
-*   [Superset](http://superset.apache.org/) - Modern data exploration and visualization platform. ([Source Code (⭐56k)](https://github.com/apache/superset)) `Apache-2.0` `Python`
-*   [Umami](https://umami.is/) - Simple, fast, privacy-focused alternative to Google Analytics. ([Demo](https://analytics.umami.is/share/LGazGOecbDtaIwDr/umami.is), [Source Code (⭐18k)](https://github.com/umami-software/umami)) `MIT` `Nodejs/Docker`
+*   [Superset](http://superset.apache.org/) - Modern data exploration and visualization platform. ([Source Code (⭐57k)](https://github.com/apache/superset)) `Apache-2.0` `Python`
+*   [Umami](https://umami.is/) - Simple, fast, privacy-focused alternative to Google Analytics. ([Demo](https://analytics.umami.is/share/LGazGOecbDtaIwDr/umami.is), [Source Code (⭐19k)](https://github.com/umami-software/umami)) `MIT` `Nodejs/Docker`
 
 ### Software / Booking and Scheduling
 
-*   [QloApps](https://qloapps.com/) - An open-source, customizable and intuitive web-based hotel reservation system and a booking engine. ([Demo](https://demo.qloapps.com/), [Source Code (⭐4.2k)](https://github.com/webkul/hotelcommerce)) `OSL-3.0` `PHP/Nodejs`
+*   [QloApps](https://qloapps.com/) - An open-source, customizable and intuitive web-based hotel reservation system and a booking engine. ([Demo](https://demo.qloapps.com/), [Source Code (⭐4.3k)](https://github.com/webkul/hotelcommerce)) `OSL-3.0` `PHP/Nodejs`
 
 ### Software / Communication - Email - Mail Transfer Agents
 
@@ -604,11 +604,11 @@
 
 ### Software / Games
 
-*   [Red Eclipse 2](https://redeclipse.net) - A FOSS Arena First-Person Shooter Similar to Unreal Tournament. ([Source Code (⭐377)](https://github.com/redeclipse/base)) `Zlib/MIT/CC-BY-SA-4.0` `C/C++/deb`
+*   [Red Eclipse 2](https://redeclipse.net) - A FOSS Arena First-Person Shooter Similar to Unreal Tournament. ([Source Code (⭐380)](https://github.com/redeclipse/base)) `Zlib/MIT/CC-BY-SA-4.0` `C/C++/deb`
 
 ### Software / Software Development - Testing
 
-*   [Bencher](https://bencher.dev/) - Bencher is a suite of continuous benchmarking tools designed to catch performance regressions in CI. ([Source Code (⭐270)](https://github.com/bencherdev/bencher)) `MIT/Apache-2.0` `Rust`
+*   [Bencher](https://bencher.dev/) - Bencher is a suite of continuous benchmarking tools designed to catch performance regressions in CI. ([Source Code (⭐285)](https://github.com/bencherdev/bencher)) `MIT/Apache-2.0` `Rust`
 
 ### List of Licenses / Wikis
 
@@ -638,7 +638,7 @@
 
 ### Audio Libraries
 
-*   [audioFlux (⭐1.9k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
+*   [audioFlux (⭐2k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 
 ## [46. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 

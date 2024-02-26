@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 26, 2020
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -102,21 +102,13 @@
 
 *   [Arengu](https://www.arengu.com) - Build signup and login forms with Arengu, enable social login, add 2FA or use passwordless flows to authenticate users with your API or identity provider.
 
-## [11. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### Code Analysis
-
-*   Static Type Annotations Generators
-    *   [MonkeyType (⭐4.3k)](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
-    *   [pytype (⭐4.3k)](https://github.com/google/pytype) - Pytype checks and infers types for Python code - without requiring type annotations.
-
-## [12. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [11. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Audio Tools
 
-*   [Cecilia (⭐180)](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
+*   [Cecilia (⭐192)](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
 
-## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Official Links
 
@@ -131,7 +123,7 @@
 *   [LinkedIn: Kotlin Developers (Join!)](https://www.linkedin.com/groups/7417237/profile)
 *   [Kotlin Cheat Sheet](https://speakerdeck.com/agiuliani/kotlin-cheat-sheet)
 
-## [14. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [13. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Web Feed Specifications
 

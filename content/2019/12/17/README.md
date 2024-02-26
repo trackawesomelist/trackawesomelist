@@ -66,7 +66,7 @@
 ### Official
 
 *   [Live demo](https://yew-todomvc.netlify.com) - A todomvc demo.
-*   [Examples (⭐29k)](https://github.com/yewstack/yew/tree/master/examples) - Smaller examples included in official repo.
+*   [Examples (⭐30k)](https://github.com/yewstack/yew/tree/master/examples) - Smaller examples included in official repo.
 *   [Website](https://yew.rs/) - Official website.
 
 ### Projects
@@ -76,8 +76,8 @@
 
 ### Templates
 
-*   [yew-wasm-pack-template (⭐117)](https://github.com/yewstack/yew-wasm-pack-template) - A template for starting a Yew project to be used with wasm-pack.
-*   [yew-wasm-pack-minimal (⭐109)](https://github.com/yewstack/yew-wasm-pack-minimal) - A minimal template for starting a Yew project using wasm-bindgen and wasm-pack.
+*   [yew-wasm-pack-template (⭐118)](https://github.com/yewstack/yew-wasm-pack-template) - A template for starting a Yew project to be used with wasm-pack.
+*   [yew-wasm-pack-minimal (⭐110)](https://github.com/yewstack/yew-wasm-pack-minimal) - A minimal template for starting a Yew project using wasm-bindgen and wasm-pack.
 *   [yew-parcel-template (⭐113)](https://github.com/spielrs/yew-parcel-template) - Awesome Yew with Yew-Router and Parcel application.
 
 ### Articles / Frameworks

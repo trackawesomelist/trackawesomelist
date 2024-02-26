@@ -10,7 +10,7 @@
 
 ### Validations
 
-*   [goal (⭐49)](https://github.com/martinthenth/goal) - A parameter validation library for LiveViews and JSON/HTML controllers - based on Ecto.
+*   [goal (⭐50)](https://github.com/martinthenth/goal) - A parameter validation library for LiveViews and JSON/HTML controllers - based on Ecto.
 
 ## [2. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Software / Miscellaneous
 
-*   [penpot](https://penpot.app/) - A web based design and prototyping platform meant for cross-domain teams. ([Source Code (⭐25k)](https://github.com/penpot/penpot)) `MPL-2.0` `Docker`
+*   [penpot](https://penpot.app/) - A web based design and prototyping platform meant for cross-domain teams. ([Source Code (⭐26k)](https://github.com/penpot/penpot)) `MPL-2.0` `Docker`
 
 ### Software / Money, Budgeting & Management
 
@@ -59,7 +59,7 @@
 
 ### Software / URL Shorteners
 
-*   [Lynx](https://getlynx.dev) - URL shortener with many functions such as multiple accounts, ShareX support and an attractive but simple interface. ([Demo](https://demo.getlynx.dev), [Source Code (⭐116)](https://github.com/Lynx-Shortener/Lynx)) `MIT` `Nodejs/Docker`
+*   [Lynx](https://getlynx.dev) - URL shortener with many functions such as multiple accounts, ShareX support and an attractive but simple interface. ([Demo](https://demo.getlynx.dev), [Source Code (⭐132)](https://github.com/Lynx-Shortener/Lynx)) `MIT` `Nodejs/Docker`
 
 ## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Software / Distributed Filesystems
 
-*   [JuiceFS](https://juicefs.com/) - Distributed POSIX file system built on top of Redis and S3. ([Source Code (⭐9.3k)](https://github.com/juicedata/juicefs)) `Apache-2.0` `Go`
+*   [JuiceFS](https://juicefs.com/) - Distributed POSIX file system built on top of Redis and S3. ([Source Code (⭐9.4k)](https://github.com/juicedata/juicefs)) `Apache-2.0` `Go`
 
 ### Software / Metrics & Metric Collection
 
@@ -90,9 +90,9 @@
 *   [Diamond (⭐1.7k)](https://github.com/python-diamond/Diamond) - Daemon that collects system metrics and publishes them to Graphite (and others). `MIT` `Python`
 *   [Grafana](https://grafana.com/) - A Graphite & InfluxDB Dashboard and Graph Editor. ([Source Code (⭐59k)](https://github.com/grafana/grafana)) `AGPL-3.0` `Go`
 *   [Graphite](https://graphite.readthedocs.org/en/latest/) - Scalable graphing server. ([Source Code (⭐5.8k)](https://github.com/graphite-project/graphite-web)) `Apache-2.0` `Python`
-*   [RRDtool](https://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data. ([Source Code (⭐947)](https://github.com/oetiker/rrdtool-1.x)) `GPL-2.0` `C`
+*   [RRDtool](https://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data. ([Source Code (⭐950)](https://github.com/oetiker/rrdtool-1.x)) `GPL-2.0` `C`
 *   [Statsd (⭐17k)](https://github.com/etsy/statsd/) - Daemon that listens for statistics like counters and timers, sent over UDP or TCP, and sends aggregates to one or more pluggable backend services. `MIT` `Nodejs`
-*   [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - Gathers data from local collectors and pushes the data to OpenTSDB. ([Source Code (⭐511)](https://github.com/OpenTSDB/tcollector/)) `LGPL-3.0/GPL-3.0` `Python`
+*   [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - Gathers data from local collectors and pushes the data to OpenTSDB. ([Source Code (⭐512)](https://github.com/OpenTSDB/tcollector/)) `LGPL-3.0/GPL-3.0` `Python`
 *   [Telegraf (⭐14k)](https://github.com/influxdata/telegraf) - Plugin-driven server agent for collecting, processing, aggregating, and writing metrics. `MIT` `Go`
 
 ### Software / Monitoring
@@ -103,8 +103,8 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fast-alias-tips (⭐6)](https://github.com/decayofmind/zsh-fast-alias-tips) - Helps remember the aliases you defined and forgot about. Ported from [djui/alias-tips (⭐747)](https://github.com/djui/alias-tips). Active fork of [sei40kr/zsh-fast-alias-tips (⭐60)](https://github.com/sei40kr/zsh-fast-alias-tips).
-*   [iterm2-shell-integration (⭐41)](https://github.com/gnachman/iterm2-shell-integration) - Shell integration and utilities for iTerm2.
+*   [fast-alias-tips (⭐6)](https://github.com/decayofmind/zsh-fast-alias-tips) - Helps remember the aliases you defined and forgot about. Ported from [djui/alias-tips (⭐748)](https://github.com/djui/alias-tips). Active fork of [sei40kr/zsh-fast-alias-tips (⭐60)](https://github.com/sei40kr/zsh-fast-alias-tips).
+*   [iterm2-shell-integration (⭐43)](https://github.com/gnachman/iterm2-shell-integration) - Shell integration and utilities for iTerm2.
 
 ## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 

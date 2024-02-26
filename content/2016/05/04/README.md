@@ -58,7 +58,7 @@
 
 ### HTTP
 
-*   [http2 (⭐92)](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
+*   [http2 (⭐93)](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
 
 ### Template Engine
 

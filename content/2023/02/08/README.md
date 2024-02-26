@@ -28,7 +28,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [copyparty (⭐373)](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, deduplication, WebDAV, FTP, zeroconf, media indexer, video thumbnails, audio transcoding, and write-only folders, in a single file with no mandatory dependencies. ([Demo](https://a.ocv.me/pub/demo/)) `MIT` `Python`
+*   [copyparty (⭐389)](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, deduplication, WebDAV, FTP, zeroconf, media indexer, video thumbnails, audio transcoding, and write-only folders, in a single file with no mandatory dependencies. ([Demo](https://a.ocv.me/pub/demo/)) `MIT` `Python`
 
 ## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [coffeelint](https://coffeelint.github.io/) :warning: — A style checker that helps keep CoffeeScript code clean and consistent.
+*   [coffeelint](https://coffeelint.github.io/) — A style checker that helps keep CoffeeScript code clean and consistent.
 
 ### Multiple languages / [Other](#other-1)
 

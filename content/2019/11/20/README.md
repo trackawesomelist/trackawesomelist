@@ -12,7 +12,7 @@
 
 *   [Bicycle Repair Man](http://bicyclerepair.sourceforge.net/) - Bicycle Repair Man, a refactoring tool for Python.
 *   [Bowler](https://pybowler.io/) - Safe code refactoring for modern Python.
-*   [Rope (⭐1.6k)](https://github.com/python-rope/rope) -  Rope is a python refactoring library.
+*   [Rope (⭐1.8k)](https://github.com/python-rope/rope) -  Rope is a python refactoring library.
 
 ## [2. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [Heedy (⭐371)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
+*   [Heedy (⭐388)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
 
 ## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 

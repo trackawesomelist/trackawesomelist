@@ -18,7 +18,7 @@
 
 Highlight selected word in GitHub source view like Sublime Text.
 
-Installs: 1000 | Stars: 143 | Last update: 8 Oct 2019
+Installs: 1000 | Stars: 143 | Last update: n/a
 
 ## [3. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 
@@ -40,7 +40,7 @@ Installs: 1000 | Stars: 143 | Last update: 8 Oct 2019
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [mzpt (⭐4)](https://github.com/linrongbin16/mzpt/) - Minimal prompt inspired by [powerlevel10k (⭐41k)](https://github.com/romkatv/powerlevel10k).
+*   [mzpt (⭐4)](https://github.com/linrongbin16/mzpt/) - Minimal prompt inspired by [powerlevel10k (⭐42k)](https://github.com/romkatv/powerlevel10k).
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -52,23 +52,23 @@ Installs: 1000 | Stars: 143 | Last update: 8 Oct 2019
 
 ### Software / Blogging Platforms
 
-*   [FlatPress](https://flatpress.org/) - A lightweight, easy-to-set-up flat-file blogging engine. ([Source Code (⭐169)](https://github.com/flatpressblog/flatpress)) `GPL-2.0` `PHP`
+*   [FlatPress](https://flatpress.org/) - A lightweight, easy-to-set-up flat-file blogging engine. ([Source Code (⭐172)](https://github.com/flatpressblog/flatpress)) `GPL-2.0` `PHP`
 
 ### Software / Communication - Email - Mail Delivery Agents
 
-*   [Stalwart JMAP](https://stalw.art/jmap) - JMAP and IMAP server designed to be secure, fast, robust and scalable. ([Source Code (⭐561)](https://github.com/stalwartlabs/jmap-server)) `AGPL-3.0` `Rust/Docker`
+*   [Stalwart JMAP](https://stalw.art/jmap) - JMAP and IMAP server designed to be secure, fast, robust and scalable. ([Source Code (⭐571)](https://github.com/stalwartlabs/jmap-server)) `AGPL-3.0` `Rust/Docker`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Payload CMS](https://payloadcms.com/) - Developer-first headless CMS and application framework. ([Demo](https://demo.payloadcms.com), [Source Code (⭐17k)](https://github.com/payloadcms/payload)) `MIT` `Nodejs`
+*   [Payload CMS](https://payloadcms.com/) - Developer-first headless CMS and application framework. ([Demo](https://demo.payloadcms.com), [Source Code (⭐18k)](https://github.com/payloadcms/payload)) `MIT` `Nodejs`
 
 ### Software / Polls and Events
 
-*   [Claper](https://claper.co/) - The ultimate tool to interact with your audience (alternative to Slido, AhaSlides and Mentimeter). ([Source Code (⭐329)](https://github.com/ClaperCo/Claper)) `GPL-3.0` `Elixir/Docker`
+*   [Claper](https://claper.co/) - The ultimate tool to interact with your audience (alternative to Slido, AhaSlides and Mentimeter). ([Source Code (⭐335)](https://github.com/ClaperCo/Claper)) `GPL-3.0` `Elixir/Docker`
 
 ### Software / Ticketing
 
-*   [Iguana (⭐64)](https://github.com/iguana-project/iguana) - Iguana is an open source issue management system with a kanban board. `CC-BY-SA-4.0` `Python/Docker`
+*   [Iguana (⭐65)](https://github.com/iguana-project/iguana) - Iguana is an open source issue management system with a kanban board. `CC-BY-SA-4.0` `Python/Docker`
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

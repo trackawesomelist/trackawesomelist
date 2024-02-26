@@ -10,11 +10,11 @@
 
 ### Algorithms and Data structures
 
-*   [array (⭐33)](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
+*   [array (⭐34)](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
 
 ### Configuration
 
-*   [conform (⭐377)](https://github.com/bitwalker/conform) - Easy release configuration for Elixir apps.
+*   [conform (⭐376)](https://github.com/bitwalker/conform) - Easy release configuration for Elixir apps.
 *   [ex\_conf (⭐35)](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
 
 ### CSV
@@ -30,13 +30,13 @@
 ### JSON
 
 *   [jazz (⭐61)](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
-*   [joken (⭐731)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
+*   [joken (⭐735)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
 *   [jsxn (⭐26)](https://github.com/talentdeficit/jsxn) - jsx but with maps.
 
 ### Markdown
 
 *   [discount (⭐21)](https://github.com/asaaki/discount.ex) - Elixir NIF for discount, a Markdown parser.
-*   [earmark (⭐827)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
+*   [earmark (⭐831)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
 
 ### OTP
 

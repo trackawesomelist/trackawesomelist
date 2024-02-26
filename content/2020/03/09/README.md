@@ -22,7 +22,7 @@
 
 ### Other / Godot version unknown
 
-*   [godot-gdscript-toolkit (⭐699)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
+*   [godot-gdscript-toolkit (⭐714)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
 
 ## [4. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
@@ -120,7 +120,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Concurrency
 
-*   [SObjectizer (⭐432)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
+*   [SObjectizer (⭐438)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
 
 ### Miscellaneous
 
@@ -136,7 +136,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Related
 
-*   [Awesome CLI (⭐452)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
+*   [Awesome CLI (⭐461)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 
 ## [14. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
 
@@ -164,7 +164,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Projects
 
-*   [caniuse.rs (⭐167)](https://github.com/jplatte/caniuse.rs) - Rust feature search.
+*   [caniuse.rs (⭐168)](https://github.com/jplatte/caniuse.rs) - Rust feature search.
 
 ## [17. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 

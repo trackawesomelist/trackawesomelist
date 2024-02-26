@@ -28,7 +28,7 @@
 
 ### Converters
 
-*   [money (⭐29)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.6k)](https://github.com/RubyMoney/money))
+*   [money (⭐29)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.7k)](https://github.com/RubyMoney/money))
 
 ## [5. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 

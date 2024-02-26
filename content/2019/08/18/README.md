@@ -40,15 +40,15 @@
 
 ### Gaming
 
-*   [libGDX (⭐864)](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
+*   [libGDX (⭐878)](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
 
 ### Health and Social Science
 
-*   [Computational Neuroscience (⭐606)](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
+*   [Computational Neuroscience (⭐630)](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
 
 ### Miscellaneous
 
-*   [IRC (⭐807)](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
+*   [IRC (⭐822)](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
 
 ## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

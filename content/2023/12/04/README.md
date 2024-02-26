@@ -16,7 +16,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [remix-development-tools (⭐495)](https://github.com/Code-Forge-Net/Remix-Dev-Tools) - Plugin for Remix.run development tools.
+*   [remix-development-tools (⭐517)](https://github.com/Code-Forge-Net/Remix-Dev-Tools) - Plugin for Remix.run development tools.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -26,11 +26,11 @@
 
 ### Software / Inventory Management
 
-*   [Shelf](https://www.shelf.nu) - Asset and equipment tracking software used by teams who value clarity. Shelf is an asset database and QR asset label generator that lets you create, manage and overview your assets across locations. Unlimited assets, free forever. ([Source Code (⭐1.3k)](https://github.com/Shelf-nu/shelf.nu)) `AGPL-3.0` `Nodejs`
+*   [Shelf](https://www.shelf.nu) - Asset and equipment tracking software used by teams who value clarity. Shelf is an asset database and QR asset label generator that lets you create, manage and overview your assets across locations. Unlimited assets, free forever. ([Source Code (⭐1.4k)](https://github.com/Shelf-nu/shelf.nu)) `AGPL-3.0` `Nodejs`
 
 ### Software / Miscellaneous
 
-*   [Bracket](https://evroon.github.io/bracket) - Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. ([Source Code (⭐64)](https://github.com/evroon/bracket)) `MIT` `Docker/Nodejs`
+*   [Bracket](https://evroon.github.io/bracket) - Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. ([Demo](https://www.bracketapp.nl/demo), [Source Code (⭐81)](https://github.com/evroon/bracket)) `AGPL-3.0` `Docker/Nodejs`
 *   [Digiface](https://ladigitale.dev/digiface/) - Create avatars using the Avataaars library (documentation in French). ([Demo](https://ladigitale.dev/digiface/), [Source Code](https://codeberg.org/ladigitale/digiface)) `AGPL-3.0` `Nodejs`
 
 ### Software / Software Development - Project Management

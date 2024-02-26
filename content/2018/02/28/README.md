@@ -50,15 +50,14 @@
 
 ### Built-in Classes Enhancement
 
-*   [attrs (⭐4.8k)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
-*   [bidict (⭐1.3k)](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality..
-*   [Box (⭐2.2k)](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access.
+*   [attrs (⭐5k)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
+*   [bidict (⭐1.4k)](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality..
 
 ### Database Drivers
 
 *   MySQL - [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
-    *   [mysqlclient (⭐2.3k)](https://github.com/PyMySQL/mysqlclient-python) - MySQL connector with Python 3 support ([mysql-python](https://sourceforge.net/projects/mysql-python/) fork).
-    *   [PyMySQL (⭐7.3k)](https://github.com/PyMySQL/PyMySQL) - A pure Python MySQL driver compatible to mysql-python.
+    *   [mysqlclient (⭐2.4k)](https://github.com/PyMySQL/mysqlclient) - MySQL connector with Python 3 support ([mysql-python](https://sourceforge.net/projects/mysql-python/) fork).
+    *   [pymysql (⭐7.5k)](https://github.com/PyMySQL/PyMySQL) - A pure Python MySQL driver compatible to mysql-python.
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

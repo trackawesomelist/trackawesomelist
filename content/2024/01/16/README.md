@@ -29,17 +29,17 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-bundle-prefetch (⭐1)](https://github.com/dreambo8563/vite-plugin-bundle-prefetch) - Inject prefetch assets into `index.html`.
+*   [vite-plugin-bundle-prefetch (⭐5)](https://github.com/dreambo8563/vite-plugin-bundle-prefetch) - Inject prefetch assets into `index.html`.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
-*   [theKnightsOfRohan/csvlens.nvim (⭐16)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens (⭐1.9k)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
+*   [theKnightsOfRohan/csvlens.nvim (⭐22)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens (⭐2k)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 
 ### Code Runner / Diagnostics
 
-*   [pianocomposer321/officer.nvim (⭐13)](https://github.com/pianocomposer321/officer.nvim) - Like dispatch.vim but using overseer.nvim.
+*   [pianocomposer321/officer.nvim (⭐15)](https://github.com/pianocomposer321/officer.nvim) - Like dispatch.vim but using overseer.nvim.
 
 ## [6. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Compression
 
-*   [Rapidgzip (⭐294)](https://github.com/mxmlnkn/rapidgzip) - Gzip Decompression and Random Access for Modern Multi-Core Machines. \[Apache-2/MIT]
+*   [Rapidgzip (⭐298)](https://github.com/mxmlnkn/rapidgzip) - Gzip Decompression and Random Access for Modern Multi-Core Machines. \[Apache-2/MIT]
 
 ### Inter-process communication
 
@@ -115,7 +115,7 @@
 
 ### Applications / Graphics
 
-*   [wahn/rs\_pbrt (⭐789)](https://github.com/wahn/rs_pbrt) — Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code.
+*   [wahn/rs\_pbrt (⭐791)](https://github.com/wahn/rs_pbrt) — Implements a counterpart to the PBRT book's (3rd edition) C++ code.
 
 ## [9. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -127,15 +127,15 @@
 
 ### Editors / Mobile Editors
 
-*   [OSM Go!](https://osmgo.com/) - OSM Go! is an Android application and a Progressive Web Applications (PWA) for contributing to OpenStreetMap. ([Android](https://play.google.com/store/apps/details?id=fr.dogeo.osmgo) / [Source Code (⭐97)](https://github.com/DoFabien/OsmGo) / [Wiki](https://wiki.openstreetmap.org/wiki/Osm_Go!))
+*   [OSM Go!](https://osmgo.com/) - OSM Go! is an Android application and a Progressive Web Applications (PWA) for contributing to OpenStreetMap. ([Android](https://play.google.com/store/apps/details?id=fr.dogeo.osmgo) / [Source Code (⭐99)](https://github.com/DoFabien/OsmGo) / [Wiki](https://wiki.openstreetmap.org/wiki/Osm_Go!))
 
 ### Libraries / Python
 
-*   [geodesk (⭐20)](https://github.com/clarisma/geodesk-py) - Fast and storage-efficient database for OpenStreetMap analysis.
+*   [geodesk (⭐32)](https://github.com/clarisma/geodesk-py) - Fast and storage-efficient database for OpenStreetMap analysis.
 
 ### Libraries / Java
 
-*   [GeoDesk (⭐127)](https://github.com/clarisma/geodesk) - Fast and storage-efficient database for OpenStreetMap analysis.
+*   [GeoDesk (⭐129)](https://github.com/clarisma/geodesk) - Fast and storage-efficient database for OpenStreetMap analysis.
 
 ## [11. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -224,7 +224,7 @@
 
 ### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [manpage-completion-generator (⭐18)](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generats ZSH completions from man pages. Requires [create\_manpage\_completions.py (⭐24k)](https://github.com/fish-shell/fish-shell/blob/master/share/tools/create_manpage_completions.py) which is installed by the fish shell
+*   [manpage-completion-generator (⭐17)](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generats ZSH completions from man pages. Requires [create\_manpage\_completions.py (⭐24k)](https://github.com/fish-shell/fish-shell/blob/master/share/tools/create_manpage_completions.py) which is installed by the fish shell
 
 ## [14. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
 

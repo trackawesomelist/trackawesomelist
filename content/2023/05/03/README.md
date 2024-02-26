@@ -58,11 +58,11 @@
 
 ### Table
 
-*   [TanStack Table (⭐23k)](https://github.com/tannerlinsley/react-table) - [demo](https://tanstack.com/table/v8/docs/examples/react/basic) - Headless UI for building powerful tables & datagrids
+*   [TanStack Table (⭐24k)](https://github.com/tannerlinsley/react-table) - [demo](https://tanstack.com/table/v8/docs/examples/react/basic) - Headless UI for building powerful tables & datagrids
 
 ### Boilerplate / Mouse Events
 
-*   [elegant (⭐125)](https://github.com/elegantframework/elegant-cli) - [docs](https://www.elegantframework.com/docs/installation) - [demo](https://www.elegantframework.com/) - A simple React framework for rapidly building beautiful and expressive web applications with Next.js, Tailwind CSS, and Markdown loading.
+*   [elegant (⭐128)](https://github.com/elegantframework/elegant-cli) - [docs](https://www.elegantframework.com/docs/installation) - [demo](https://www.elegantframework.com/) - A simple React framework for rapidly building beautiful and expressive web applications with Next.js, Tailwind CSS, and Markdown loading.
 
 ## [8. Tips](/content/git-tips/tips/README.md)
 

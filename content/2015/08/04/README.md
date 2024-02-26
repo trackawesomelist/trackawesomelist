@@ -44,8 +44,8 @@
 
 ### Applications / Directory Navigation
 
-*   [isitup (⭐58)](https://github.com/lord63/isitup) - Check whether a website is up or down
-*   [licen (⭐36)](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
+*   [isitup (⭐61)](https://github.com/lord63/isitup) - Check whether a website is up or down
+*   [licen (⭐37)](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

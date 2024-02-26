@@ -10,15 +10,15 @@
 
 ### Templates / Vue 3
 
-*   [antd-vue3-admin (⭐8)](https://github.com/Zuojiangtao/antd-vue3-admin) - A starter template based on Vue3, Vite4, TS5 and Ant-Design-Vue4.
+*   [antd-vue3-admin (⭐10)](https://github.com/Zuojiangtao/antd-vue3-admin) - A starter template based on Vue3, Vite4, TS5 and Ant-Design-Vue4.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-remix (⭐19)](https://github.com/yracnet/vite-plugin-remix) - Seamless integration of the Remix/Remixjs framework.
+*   [vite-plugin-remix (⭐21)](https://github.com/yracnet/vite-plugin-remix) - Seamless integration of the Remix/Remixjs framework.
 
 ### Frameworks / Community
 
-*   [vite-plugin-vercel (⭐71)](https://github.com/magne4000/vite-plugin-vercel) - Vercel adapter.
+*   [vite-plugin-vercel (⭐75)](https://github.com/magne4000/vite-plugin-vercel) - Vercel adapter.
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

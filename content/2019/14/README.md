@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 08 - Apr 14, 2019
 
-41 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -29,7 +29,7 @@
 ### Development tools / IDEs
 
 *   [Eclipse](https://www.eclipse.org/)
-    *   [Eclipse Corrosion (⭐213)](https://github.com/eclipse-corrosion/corrosion)
+    *   [Eclipse Corrosion (⭐215)](https://github.com/eclipse-corrosion/corrosion)
 
 ## [5. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -149,19 +149,13 @@
 
 *   [SecureDrop (⭐39)](https://github.com/freedomofpress/securedrop.org) – Wagtail-powered website of the SecureDrop whistleblower document submission system.
 
-## [15. Awesome Python](/content/vinta/awesome-python/week/README.md)
-
-### Forms
-
-*   [django-bootstrap4 (⭐1k)](https://github.com/zostera/django-bootstrap4) - Bootstrap 4 integration with Django.
-
-## [16. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [15. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Tools / Playground
 
 *   [type-config (⭐19)](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
 
-## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [16. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Utils
 
@@ -171,19 +165,19 @@
 
 *   [form\_builder.cr (⭐31)](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
 
-## [18. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [17. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Resources
 
 *   [Lecture](https://www.youtube.com/watch?v=y7ndUhdQuU8) - More Modern CMake ([slides & examples (⭐155)](https://github.com/Bagira80/More-Modern-CMake))- by Deniz Bahadir, Meeting C++ 2018.
 
-## [19. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
+## [18. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
 
 ### Developer documentation
 
 *   [DigitalOcean API Slugs](https://slugs.do-api.dev/)
 
-## [20. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [19. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Vulnerability Scanners / Web Vulnerability Scanners
 
@@ -198,25 +192,25 @@
 *   [Commando VM (⭐6.5k)](https://github.com/fireeye/commando-vm) - Automated installation of over 140 Windows software packages for penetration testing and red teaming.
 *   [Covenant (⭐3.9k)](https://github.com/cobbr/Covenant) - ASP.NET Core application that serves as a collaborative command and control platform for red teamers.
 
-## [21. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [20. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Debugging Tools
 
 *   [pry-rails (⭐1.3k)](https://github.com/rweng/pry-rails) - Avoid repeating yourself, use pry-rails instead of copying the initializer to every rails project. This is a small gem which causes rails console to open pry. It therefore depends on pry.
 
-## [22. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [21. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Console
 
 *   [scallop (⭐641)](https://github.com/scallop/scallop) - A simple Scala CLI parsing library.
 
-## [23. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [22. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
 *   [Ray Tracing In One Weekend (Vulkan RTX) (⭐1k)](https://github.com/GPSnoopy/RayTracingInVulkan) - Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 
-## [24. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
+## [23. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
 ### React Firebase starter [↗](https://awesomestacks.dev/react-firebase-starter) / Resources
 
@@ -249,13 +243,13 @@
 
 *   [A Rock Solid, Modern Web Stack—Rails 5 API + ActiveAdmin + Create React App on Heroku](https://blog.heroku.com/a-rock-solid-modern-web-stack)
 
-## [25. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
+## [24. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
 
 ### Platforms and toolkits
 
 *   [UralicNLP (⭐65)](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
 
-## [26. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
+## [25. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
 ### Resources
 
@@ -340,7 +334,7 @@
 
 *   [spawn issues (⭐35k)](https://github.com/nodejs/node-v0.x-archive/issues/2318) - `child_process.spawn()` behavior is not consistent between Windows and Linux.
 
-## [27. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [26. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Template Engine / Other
 
@@ -350,7 +344,7 @@
 
 *   [Java Concurrency Checklist (⭐1.2k)](https://github.com/code-review-checklists/java-concurrency)
 
-## [28. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [27. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Learning Platforms
 
@@ -361,13 +355,13 @@
 
 *   [Mathsisfun](https://www.mathsisfun.com) simple text lightweight site for students up to highschool
 
-## [29. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
+## [28. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
 
 ### Blogs / Case Study
 
 *   [Bootsity](https://bootsity.com/)
 
-## [30. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [29. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Habits
 
@@ -377,13 +371,13 @@
 
 *   [Hourly](http://hourly-app.com) - Minimalistic time tracker with smart functions and nice design (iOS).
 
-## [31. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [30. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Software
 
 *   [Taskade](http://www.taskade.com/)
 
-## [32. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [31. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Go / Svelte
 
@@ -393,13 +387,13 @@
 
 *   [Bootsity Newsletter](https://bootsity.com/). A free one-in-two-weeks newsletter curating great articles, videos and news.
 
-## [33. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [32. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Websites
 
 *   [Stoimen's web log](http://www.stoimen.com/) - Some algorithms nicely explained.
 
-## [34. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [33. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Documentation / Scalability and Resilience
 
@@ -447,7 +441,7 @@
 
 *   [Wikipedia: DevOps](https://en.wikipedia.org/wiki/DevOps) - Combining software development and operations practices to shorten time to market while maintaining high quality.
 
-## [35. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [34. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Bottom bars
 
@@ -457,7 +451,7 @@
 
 *   [RangeSlider (⭐367)](https://github.com/boeledi/RangeSlider) <!--stargazers:boeledi/RangeSlider--> - 2-thumb configurable RangeSlider by [Didier Boelens](https://www.didierboelens.com)
 
-## [36. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [35. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Broker
 
@@ -479,7 +473,7 @@
 
 *   [d3-MQTT-Topic-Tree (⭐94)](https://github.com/hardillb/d3-MQTT-Topic-Tree) - A MQTT Topic Tree viewer using the d3 collapsible tree and MQTT over websockets.
 
-## [37. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [36. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -489,7 +483,7 @@
 
 *   [react-native-vanilla ★185 (⭐1.5k)](https://github.com/pavjacko/react-native-vanilla) - 🚀🚀🚀 Build universal cross-platform apps with React Native. Includes latest `iOS`, `tvOS`, `Android`, `Android TV`, `Android Wear`, `Web`, `Tizen TV`, `Tizen Watch`, `LG webOS`, `macOS/OSX`, `Windows` and `KaiOS` platforms
 
-## [38. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [37. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Games & Comics
 
@@ -533,13 +527,13 @@
 
 
 
-## [39. Amas](/content/sindresorhus/amas/week/README.md)
+## [38. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Even Stensberg](https://github.com/evenstensberg/ama) - OSS contributor and developer.
 
-## [40. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [39. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -557,7 +551,7 @@
 
 *   [firebase-admin-dotnet (⭐333)](https://github.com/firebase/firebase-admin-dotnet) - Firebase Admin .NET SDK
 
-## [41. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [40. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Monitoring / Logging
 

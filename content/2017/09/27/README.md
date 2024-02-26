@@ -10,7 +10,7 @@
 
 ### 2017 / Book/monograph Lists and Reviews
 
-*   [awesome-rshiny (⭐766)](https://github.com/grabear/awesome-rshiny)
+*   [awesome-rshiny (⭐769)](https://github.com/grabear/awesome-rshiny)
 
 ## [2. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 

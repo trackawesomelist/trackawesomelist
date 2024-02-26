@@ -660,7 +660,7 @@
 
 ### Graphic Displays
 
-*   [ggstatsplot (⭐1.8k)](https://github.com/IndrajeetPatil/ggstatsplot) - ggplot2 Based Plots with Statistical Details
+*   [ggstatsplot (⭐1.9k)](https://github.com/IndrajeetPatil/ggstatsplot) - ggplot2 Based Plots with Statistical Details
 
 ## [49. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -678,16 +678,16 @@
 
 ### Theory
 
-*   [Algorithms (⭐16k)](https://github.com/tayllan/awesome-algorithms#readme)
-    *   [Education (⭐541)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
+*   [Algorithms (⭐17k)](https://github.com/tayllan/awesome-algorithms#readme)
+    *   [Education (⭐545)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
 
 ### Gaming
 
-*   [Game Datasets (⭐588)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+*   [Game Datasets (⭐614)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 
 ### Security
 
-*   [Fuzzing (⭐732)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+*   [Fuzzing (⭐735)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 ---
 

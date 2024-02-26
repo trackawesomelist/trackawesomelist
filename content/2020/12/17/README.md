@@ -36,7 +36,7 @@
 
 ### Debugging
 
-*   [extrace (⭐45)](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
+*   [extrace (⭐46)](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
 
 ## [6. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

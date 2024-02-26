@@ -114,7 +114,7 @@
 
 ### Applications / Security tools
 
-*   [cotp (⭐141)](https://github.com/replydev/cotp) - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
+*   [cotp (⭐146)](https://github.com/replydev/cotp) - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
 
 ## [12. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
@@ -164,10 +164,10 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [abhiyan (⭐2)](https://github.com/abhiyandhakal/abhiyan.zsh/) - Segmented prompt. Includes decorators for `git` branch, staged file count, unstaged file count & untracked file count, username, current working directory and the time. Requires Powerline-compatible fonts.
+*   [abhiyan (⭐3)](https://github.com/abhiyandhakal/abhiyan.zsh/) - Segmented prompt. Includes decorators for `git` branch, staged file count, unstaged file count & untracked file count, username, current working directory and the time. Requires Powerline-compatible fonts.
 *   [coolmelon (⭐0)](https://github.com/omkarpai/coolmelon-zsh-theme/) - Includes decorators for user\@host, time, current directory, node version and `git` information.
 *   [nuqle (⭐2)](https://github.com/Nuqlear/nuqlezsh.zsh-theme) - A simple theme for prezto and oh-my-zsh.
-*   [warmblood (⭐1)](https://github.com/D42H5/warmblood) - Based on [darkblood (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/darkblood.zsh-theme). Includes decorators for `git` information, user\@hostname and the current directory.
+*   [warmblood (⭐1)](https://github.com/D42H5/warmblood) - Based on [darkblood (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/darkblood.zsh-theme). Includes decorators for `git` information, user\@hostname and the current directory.
 
 ## [16. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -180,7 +180,7 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-artifactory (⭐258)](https://github.com/jfrog/terraform-provider-artifactory) - Provider for [JFrog Artifactory](https://jfrog.com/artifactory/).
+*   [terraform-provider-artifactory (⭐263)](https://github.com/jfrog/terraform-provider-artifactory) - Provider for [JFrog Artifactory](https://jfrog.com/artifactory/).
 
 ---
 

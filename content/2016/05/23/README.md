@@ -51,7 +51,7 @@
 
 ### R Development
 
-*   [staticdocs (⭐688)](https://github.com/hadley/staticdocs) - Generate static html documentation for an R package.
+*   [staticdocs (⭐692)](https://github.com/hadley/staticdocs) - Generate static html documentation for an R package.
 
 ---
 

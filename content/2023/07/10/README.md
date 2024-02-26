@@ -28,11 +28,11 @@
 
 ### Clients
 
-*   [gqty (⭐848)](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
+*   [gqty (⭐850)](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
 
 ### Frontend Framework Integrations / React
 
-*   [@gqty/react (⭐848)](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
+*   [@gqty/react (⭐850)](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
 
 ### Services / React
 
@@ -42,7 +42,7 @@
 
 ### Software / Analytics
 
-*   [Mixpost](https://mixpost.app/) - Self-hosted social media management software. Easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite, Buffer, and other social media tools). ([Source Code (⭐44)](https://github.com/inovector/MixpostApp)) `MIT` `PHP/Docker`
+*   [Mixpost](https://mixpost.app/) - Self-hosted social media management software. Easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite, Buffer, and other social media tools). ([Source Code (⭐45)](https://github.com/inovector/MixpostApp)) `MIT` `PHP/Docker`
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -60,11 +60,11 @@
 
 ### Prerequisites
 
-*   [Spacemono (⭐346)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
+*   [Spacemono (⭐347)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [club\_house (⭐0)](https://github.com/skippyr/club_house) - Requires a [Nerd Font (⭐49k)](https://github.com/ryanoasis/nerd-fonts).
+*   [club\_house (⭐0)](https://github.com/skippyr/club_house) - Requires a [Nerd Font (⭐50k)](https://github.com/ryanoasis/nerd-fonts).
 
 ## [9. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 

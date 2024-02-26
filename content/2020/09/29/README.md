@@ -148,7 +148,7 @@
 
 ### Editable data grid / spreadsheet
 
-*   [ReactGrid (⭐968)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
+*   [ReactGrid (⭐994)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

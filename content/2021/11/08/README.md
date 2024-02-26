@@ -76,7 +76,7 @@
 
 ### Client Libraries
 
-*   [Subscan Go Utilities (⭐178)](https://github.com/itering/subscan-essentials) - SS58 and more, developed by Subscan.
+*   [Subscan Go Utilities (⭐181)](https://github.com/itering/subscan-essentials) - SS58 and more, developed by Subscan.
 
 ### Tools
 
@@ -151,7 +151,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-require-transform (⭐75)](https://github.com/WarrenJones/vite-plugin-require-transform) - Converts the code from require syntax to import.
+*   [vite-plugin-require-transform (⭐76)](https://github.com/WarrenJones/vite-plugin-require-transform) - Converts the code from require syntax to import.
 
 ## [12. Nginx Resources](/content/fcambus/nginx-resources/README.md)
 
@@ -180,7 +180,7 @@
 
 ### RSS services powered by utilizing GitHub / Outline Processor Markup Language
 
-*   [Bubo reader (⭐155)](https://github.com/georgemandis/bubo-rss): a hyper-minimalist RSS and JSON feed reader you can deploy on Netlify or Glitch [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/georgemandis/bubo-rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)([Deploy on Github (⭐0)](https://github.com/kevinfiol/reader)-personal fork)
+*   [Bubo reader (⭐160)](https://github.com/georgemandis/bubo-rss): a hyper-minimalist RSS and JSON feed reader you can deploy on Netlify or Glitch [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/georgemandis/bubo-rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)([Deploy on Github (⭐0)](https://github.com/kevinfiol/reader)-personal fork)
 
 ## [16. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 

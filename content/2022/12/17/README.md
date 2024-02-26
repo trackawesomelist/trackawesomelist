@@ -55,7 +55,7 @@
 
 ### REST and API
 
-*   🍰 [CRUD plugin (⭐374)](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production-ready code.
+*   🍰 [CRUD plugin (⭐373)](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production-ready code.
 
 ## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Business
 
-*   [Engineering Strategy (⭐585)](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
+*   [Engineering Strategy (⭐693)](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
 
 ## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 

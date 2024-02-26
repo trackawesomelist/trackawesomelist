@@ -16,7 +16,7 @@
 
 ### Language API
 
-*   [V8 (⭐189)](https://github.com/jeroenooms/V8) - Embedded JavaScript Engine.
+*   [V8 (⭐188)](https://github.com/jeroenooms/V8) - Embedded JavaScript Engine.
 
 ---
 

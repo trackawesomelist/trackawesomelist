@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 30, 2022
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -79,11 +79,11 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [pmwmedia/tinylog (⭐645)](https://github.com/pmwmedia/tinylog) - Lightweight logging framework with native logging API for Kotlin.
+*   [pmwmedia/tinylog (⭐647)](https://github.com/pmwmedia/tinylog) - Lightweight logging framework with native logging API for Kotlin.
 
 ### Android / Libraries
 
-*   [MarcinMoskala/ActivityStarter (⭐430)](https://github.com/MarcinMoskala/ActivityStarter)
+*   [MarcinMoskala/ActivityStarter (⭐429)](https://github.com/MarcinMoskala/ActivityStarter)
 *   [MarcinMoskala/KotlinPreferences (⭐51)](https://github.com/MarcinMoskala/KotlinPreferences)
 *   [MarcinMoskala/PreferenceHolder (⭐155)](https://github.com/MarcinMoskala/PreferenceHolder)
 *   [pawegio/KAndroid (⭐894)](https://github.com/pawegio/KAndroid)
@@ -107,27 +107,13 @@
 
 *   [Dino (⭐2.1k)](https://github.com/dino/dino) - A modern Jabber/XMPP Client using GTK+/Vala.
 
-## [9. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Data Science
-
-*   [High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications](https://book-wright-ma.github.io/Book-WM-20210422.pdf) - John Wright, Yi Ma (PDF)
-
-### Machine Learning
-
-*   [Machine Learning Simplified](https://themlsbook.com/read) - Andrew Wolf
-
-### Quantum Computing
-
-*   [The Functional Analysis of Quantum Information Theory](https://arxiv.org/abs/1410.7188) - Ved Prakash Gupta, Prabha Mandayam, V. S. Sunder (PDF)
-
-## [10. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [9. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Developing for ESLint / Testing Tools
 
 *   [eslint-doc-generator (⭐88)](https://github.com/bmish/eslint-doc-generator) - Generate documentation for your ESLint plugin including a rules table for your readme and header for your rule docs.
 
-## [11. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+## [10. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ### Languages
 

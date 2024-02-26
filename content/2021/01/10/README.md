@@ -10,7 +10,7 @@
 
 ### API Builder and Discovery
 
-*   [jsonapi-serializer (⭐1.3k)](https://github.com/jsonapi-serializer/jsonapi-serializer) - A fast JSON:API serializer for Ruby Objects.
+*   [jsonapi-serializer (⭐1.4k)](https://github.com/jsonapi-serializer/jsonapi-serializer) - A fast JSON:API serializer for Ruby Objects.
 
 ### Scheduling
 
@@ -121,7 +121,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Your Spotify (⭐2.1k)](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
+*   [Your Spotify (⭐2.3k)](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
 
 ## [7. Awesome Indie](/content/mezod/awesome-indie/README.md)
 
@@ -159,11 +159,11 @@
 
 ### Hardware
 
-*   [Robotic Tooling (⭐2.8k)](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
+*   [Robotic Tooling (⭐2.9k)](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
 
 ### Miscellaneous
 
-*   [Biological Visualizations (⭐138)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
+*   [Biological Visualizations (⭐144)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
 
 ## [12. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

@@ -28,7 +28,7 @@
 
 ### Gem Generators
 
-*   [Gemsmith (⭐432)](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
+*   [Gemsmith (⭐443)](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Applications / System tools
 
-*   [pop-os/popsicle (⭐587)](https://github.com/pop-os/popsicle) — GTK3 & CLI utility for flashing multiple USB devices in parallel
+*   [pop-os/popsicle (⭐588)](https://github.com/pop-os/popsicle) — GTK3 & CLI utility for flashing multiple USB devices in parallel
 
 ## [15. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

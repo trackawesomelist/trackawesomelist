@@ -478,11 +478,11 @@ This book teaches you to use R to effectively visualize and explore complex data
 ### E-Commerce and Payments
 
 *   [Active Merchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) - A simple payment abstraction library extracted from Shopify.
-*   [Solidus (⭐4.8k)](https://github.com/solidusio/solidus) - An open source, eCommerce application for high volume retailers.
+*   [Solidus (⭐4.9k)](https://github.com/solidusio/solidus) - An open source, eCommerce application for high volume retailers.
 
 ### Ebook
 
-*   [Bookshop (⭐7)](https://github.com/worlduniting/bookshop) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
+*   [Bookshop (⭐9)](https://github.com/worlduniting/bookshop) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
 
 ### File Upload
 
@@ -502,7 +502,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### PDF
 
-*   [CombinePDF (⭐703)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
+*   [CombinePDF (⭐711)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
 
 ### Search
 
@@ -574,7 +574,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### Cloud Infrastructure and Management
 
-*   [IElixir (⭐349)](https://github.com/pprzetacznik/IElixir) - Jupyter's kernel for Elixir programming language.
+*   [IElixir (⭐353)](https://github.com/pprzetacznik/IElixir) - Jupyter's kernel for Elixir programming language.
 
 ### Macros
 

@@ -26,19 +26,19 @@
 
 ### Client Libraries
 
-*   [.NET Substrate API (⭐17)](https://github.com/ajuna-network/Ajuna.NetApi) - Used in [nuget](https://www.nuget.org/packages/Ajuna.NetApi/), and [Unity Example (⭐3)](https://github.com/ajuna-network/SubstrateNET/tree/master/SubstrateNET.UnityDemo); Maintained by [Ajuna Network](https://ajuna.io/).
+*   [.NET Substrate API (⭐21)](https://github.com/ajuna-network/Ajuna.NetApi) - Used in [nuget](https://www.nuget.org/packages/Ajuna.NetApi/), and [Unity Example (⭐3)](https://github.com/ajuna-network/SubstrateNET/tree/master/SubstrateNET.UnityDemo); Maintained by [Ajuna Network](https://ajuna.io/).
 
 ### Mobile
 
-*   [Nova Substrate SDK Android (⭐4)](https://github.com/nova-wallet/substrate-sdk-android) - Substrate SDK and tools for Android.
-*   [Nova Substrate SDK iOS (⭐11)](https://github.com/nova-wallet/substrate-sdk-ios) - Substrate SDK and tools for iOS.
+*   [Nova Substrate SDK Android (⭐5)](https://github.com/nova-wallet/substrate-sdk-android) - Substrate SDK and tools for Android.
+*   [Nova Substrate SDK iOS (⭐14)](https://github.com/nova-wallet/substrate-sdk-ios) - Substrate SDK and tools for iOS.
 
 ### Tools
 
 *   [`subalfred`](https://github.com/hack-ink/subalfred) - An all-in-one Substrate development toolbox.
-*   [Nova Polkadot Utils (⭐12)](https://github.com/nova-wallet/nova-utils) - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
+*   [Nova Polkadot Utils (⭐13)](https://github.com/nova-wallet/nova-utils) - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
 *   [SubQuery](https://subquery.network) - A GraphQL indexer and query service that allows users to easily create indexed data sources and host them online for free.
-    *   [Nova SubQuery API (⭐9)](https://github.com/nova-wallet/subquery-nova) - A SubQuery API implementation for operation history and staking analytics.
+    *   [Nova SubQuery API (⭐10)](https://github.com/nova-wallet/subquery-nova) - A SubQuery API implementation for operation history and staking analytics.
 *   [Polkaholic.io](https://polkaholic.io) - Multi-chain block explorer with API and DeFi support across 40+ parachains.
 
 ## [4. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)

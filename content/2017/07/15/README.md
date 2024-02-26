@@ -10,12 +10,12 @@
 
 ### Miscellaneous
 
-*   [stb (⭐24k)](https://github.com/nothings/stb) :zap: - A range of single-file libraries for C/C++. \[PublicDomain]
+*   [stb (⭐25k)](https://github.com/nothings/stb) :zap: - A range of single-file libraries for C/C++. \[PublicDomain]
 
 ### Other Awesome Projects
 
-*   [awesome (⭐287k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
-*   [nothings/single\_file\_libs (⭐8.5k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
+*   [awesome (⭐291k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [nothings/single\_file\_libs (⭐8.6k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
 ## [2. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 

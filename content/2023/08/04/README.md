@@ -46,7 +46,7 @@
 
 ### Applications / Productivity
 
-*   [Furtherance (⭐206)](https://github.com/lakoliu/Furtherance) - Time tracking app built with Rust and GTK4
+*   [Furtherance (⭐211)](https://github.com/lakoliu/Furtherance) - Time tracking app built with GTK4
 
 ### Applications / System tools
 
@@ -81,15 +81,15 @@
 
 ### Table
 
-*   [mantine-datatable (⭐785)](https://github.com/icflorescu/mantine-datatable) - [demo/docs](https://icflorescu.github.io/mantine-datatable/) - Lightweight table component for Mantine UI applications, with lots of features
+*   [mantine-datatable (⭐800)](https://github.com/icflorescu/mantine-datatable) - [demo/docs](https://icflorescu.github.io/mantine-datatable/) - Lightweight table component for Mantine UI applications, with lots of features
 
 ### Menu
 
-*   [mantine-contextmenu (⭐92)](https://github.com/icflorescu/mantine-contextmenu) - [demo/docs](https://icflorescu.github.io/mantine-contextmenu/) - Context-menu hook/component for applications built with Mantine UI.
+*   [mantine-contextmenu (⭐99)](https://github.com/icflorescu/mantine-contextmenu) - [demo/docs](https://icflorescu.github.io/mantine-contextmenu/) - Context-menu hook/component for applications built with Mantine UI.
 
 ### Form Components / Input Types
 
-*   [react-multi-email (⭐267)](https://github.com/axisj/react-multi-email) - [demo](https://react-multi-email.vercel.app/) - Format multiple emails as the user types.
+*   [react-multi-email (⭐272)](https://github.com/axisj/react-multi-email) - [demo](https://react-multi-email.vercel.app/) - Format multiple emails as the user types.
 
 ## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 

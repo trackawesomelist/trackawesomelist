@@ -159,15 +159,10 @@
 *   [JSON-RPC](https://www.jsonrpc.org/) - A stateless, light-weight remote procedure call (RPC) protocol.
 *   [JSON5](https://json5.org/) - a extension that aims to make it easier for humans to write and maintain by hand.
 *   [JSON Meta Application Protocol (JMAP)](https://jmap.io/) - A protocol for synchronising JSON-based data objects efficiently, with support for push and out-of-band binary data upload/download.
-*   [J<sub>ack</sub>SON: JSON secret keeper (⭐18)](https://github.com/r0hi7/jackson) - JSONic way of storing secrets in config file.
 
 ### Templates
 
 *   [Jsonnet](https://jsonnet.org/) - A domain specific configuration language that helps you define JSON data.
-
-### Transformations
-
-*   [nimnjs (⭐44)](https://github.com/nimndata/nimnjs) - JSON to nimn bidirectional converter.
 
 ## [5. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 

@@ -89,7 +89,6 @@ Topics: React, React Native, GraphQL, Universal Components\
 ### Articles / Obsidian
 
 *   [You Won't Regret Positive Feedback](https://zachholman.com/posts/positive-feedback/) - By [Zach Holman](https://zachholman.com).
-*   [A Minimum Viable Product Is Not a Product, It's a Process](https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process) - By [Yevgeniy Brikman](https://www.ycombinator.com/blog/author/yevgeniy-brikman).
 *   [Being Glue](https://noidea.dog/glue) - By [Tanya Reilly](https://noidea.dog/about).
 *   [How to build great products](https://www.defmacro.org/2013/09/26/products.html) - By [Slava Akhmechet](https://www.defmacro.org).
 *   [If your product is Great, it doesn't need to be Good](https://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html) - By [Paul Bucheit](http://en.wikipedia.org/wiki/Paul_Buchheit).
@@ -113,7 +112,7 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [base16 (⭐42)](https://github.com/tinted-theming/base16-shell) - Adds a script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as [Vim](https://www.vim.org).
+*   [base16 (⭐48)](https://github.com/tinted-theming/base16-shell) - Adds a script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as [Vim](https://www.vim.org).
 
 ## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

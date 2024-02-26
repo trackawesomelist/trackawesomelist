@@ -86,7 +86,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Ridiculous Coding (⭐731)](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous (Godot 3.x).
+*   [Ridiculous Coding (⭐745)](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous (Godot 3.x).
 
 ### Modules / Godot 3.2+
 
@@ -104,7 +104,7 @@
 ### REST and API
 
 *   [mazurka (⭐15)](https://github.com/exstruct/mazurka) - Hypermedia API toolkit.
-*   [SOAP client (⭐127)](https://github.com/elixir-soap/soap) - Hex-documented SOAP client based on HTTPoison.
+*   [SOAP client (⭐129)](https://github.com/elixir-soap/soap) - Hex-documented SOAP client based on HTTPoison.
 
 ## [10. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Spreadsheets and Documents
 
-*   [CAXLSX (⭐455)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
+*   [CAXLSX (⭐457)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
 
 ## [3. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Projects
 
-*   [Macige (⭐76)](https://github.com/tramlinehq/macige) - CI workflow generator for mobile app development, [Live Demo](https://macige.tramline.app).
+*   [Macige (⭐75)](https://github.com/tramlinehq/macige) - CI workflow generator for mobile app development, [Live Demo](https://macige.tramline.app).
 
 ## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -65,12 +65,12 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-azapi (⭐148)](https://github.com/Azure/terraform-provider-azapi) - Provider for Azure Resource Manager Rest API
-*   [terraform-provider-azuredevops (⭐339)](https://github.com/microsoft/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
+*   [terraform-provider-azapi (⭐151)](https://github.com/Azure/terraform-provider-azapi) - Provider for Azure Resource Manager Rest API
+*   [terraform-provider-azuredevops (⭐342)](https://github.com/microsoft/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
 
 ### Providers / Community providers
 
-*   [terraform-provider-terracurl (⭐111)](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
+*   [terraform-provider-terracurl (⭐115)](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
 
 ### Tools / Community providers
 

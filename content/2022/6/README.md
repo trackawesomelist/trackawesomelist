@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 07 - Feb 13, 2022
 
-57 awesome lists updated this week.
+58 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -88,11 +88,11 @@
 
 ### Security
 
-*   [Executable Packing (⭐951)](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
+*   [Executable Packing (⭐968)](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
 
 ### Decentralized Systems
 
-*   [Algorand (⭐164)](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
+*   [Algorand (⭐168)](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 
 ## [9. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
@@ -209,8 +209,8 @@
 
 ### Breadcrumbs
 
-*   [Breadcrumbs on Rails (⭐930)](https://github.com/weppos/breadcrumbs_on_rails) - A simple Ruby on Rails plugin for creating and managing a breadcrumb navigation for a Rails project.
-*   [Gretel (⭐890)](https://github.com/lassebunk/gretel) - A Ruby on Rails plugin that makes it easy yet flexible to create breadcrumbs.
+*   [Breadcrumbs on Rails (⭐934)](https://github.com/weppos/breadcrumbs_on_rails) - A simple Ruby on Rails plugin for creating and managing a breadcrumb navigation for a Rails project.
+*   [Gretel (⭐891)](https://github.com/lassebunk/gretel) - A Ruby on Rails plugin that makes it easy yet flexible to create breadcrumbs.
 *   [loaf (⭐404)](https://github.com/peter-murach/loaf) - Manages and displays breadcrumb trails in Rails app - lean & mean.
 *   [Simple Navigation (⭐884)](https://github.com/codeplant/simple-navigation) - A ruby gem for creating navigation (html list, link list or breadcrumbs with multiple levels) for your Rails 2, 3 & 4, Sinatra or Padrino.
 
@@ -218,10 +218,10 @@
 
 *   [ActiveInteraction (⭐2k)](https://github.com/AaronLasseigne/active_interaction) - Manage application specific business logic.
 *   [Interactor (⭐3.3k)](https://github.com/collectiveidea/interactor) - Interactor provides a common interface for performing complex interactions in a single request.
-*   [Light Service (⭐804)](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
+*   [Light Service (⭐807)](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
 *   [Mutations (⭐1.4k)](https://github.com/cypriss/mutations) - Compose your business logic into commands that sanitize and validate input.
-*   [Surrounded (⭐242)](https://github.com/saturnflyer/surrounded) - Encapsulated related objects in a single system to add behavior during runtime. Extensible implementation of DCI.
-*   [Waterfall (⭐609)](https://github.com/apneadiving/waterfall) - A slice of functional programming to chain ruby services and blocks, thus providing a new approach to flow control.
+*   [Surrounded (⭐243)](https://github.com/saturnflyer/surrounded) - Encapsulated related objects in a single system to add behavior during runtime. Extensible implementation of DCI.
+*   [Waterfall (⭐610)](https://github.com/apneadiving/waterfall) - A slice of functional programming to chain ruby services and blocks, thus providing a new approach to flow control.
 *   [wisper (⭐3.2k)](https://github.com/krisleech/wisper) - A micro library providing Ruby objects with Publish-Subscribe capabilities.
 
 ### Core Extensions
@@ -252,11 +252,11 @@
 ### Event Sourcing
 
 *   [Eventide Project](https://eventide-project.org) - Pub/sub, event sourcing, and evented autonomous services backed by the [Message DB (⭐1.6k)](https://github.com/message-db/message-db) message store.
-*   [Rails Event Store (RES) (⭐1.3k)](https://github.com/RailsEventStore/rails_event_store) - A library for publishing, consuming, storing and retrieving events. It's your best companion for going with an event-driven architecture for your Rails application.
+*   [Rails Event Store (RES) (⭐1.4k)](https://github.com/RailsEventStore/rails_event_store) - A library for publishing, consuming, storing and retrieving events. It's your best companion for going with an event-driven architecture for your Rails application.
 
 ### Image Processing
 
-*   [FastImage (⭐1.3k)](https://github.com/sdsykes/fastimage) - FastImage finds the size or type of an image given its uri by fetching as little as needed.
+*   [FastImage (⭐1.4k)](https://github.com/sdsykes/fastimage) - FastImage finds the size or type of an image given its uri by fetching as little as needed.
 
 ### Services and Apps
 
@@ -276,12 +276,12 @@
 ### View components
 
 *   [Cells (⭐3.1k)](https://github.com/trailblazer/cells) - View Components for Rails.
-*   [Komponent (⭐424)](https://github.com/komposable/komponent) - An opinionated way of organizing front-end code in Rails, based on components.
+*   [Komponent (⭐426)](https://github.com/komposable/komponent) - An opinionated way of organizing front-end code in Rails, based on components.
 *   [ViewComponent (⭐3.1k)](https://github.com/github/view_component) - View components for Rails.
 
 ### View helpers
 
-*   [active\_link\_to (⭐830)](https://github.com/comfy/active_link_to) - View helper to manage "active" state of a link.
+*   [active\_link\_to (⭐831)](https://github.com/comfy/active_link_to) - View helper to manage "active" state of a link.
 
 ### Web Frameworks
 
@@ -548,7 +548,7 @@
 
 ### Template Engines
 
-*   [got (⭐25)](https://github.com/goradd/got) - A Go code generator inspired by Hero and Fasttemplate. Has include files, custom tag definitions, injected Go code, language translation, and more.
+*   [got (⭐26)](https://github.com/goradd/got) - A Go code generator inspired by Hero and Fasttemplate. Has include files, custom tag definitions, injected Go code, language translation, and more.
 
 ### Utilities
 
@@ -604,9 +604,19 @@
 
 ### Templates / Godot 3.2+
 
-*   [Godot First Person Camera (⭐50)](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS starter with jumping, movement, flashlight and a player character with animations.
+*   [Godot First Person Camera (⭐51)](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS starter with jumping, movement, flashlight and a player character with animations.
 
-## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [32. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### 设计模式
+
+*   [深入设计模式](https://refactoringguru.cn/design-patterns)
+
+### JavaScript
+
+*   [现代 JavaScript 教程](https://zh.javascript.info) - Ilya Kantor
+
+## [33. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Major Cloud Providers
 
@@ -636,7 +646,7 @@
 
 *   [Spacelift](https://spacelift.io/) - Management platform for Infrastructure as Code. Free plan features: IaC collaboration, Terraform module registry, ChatOps integration, Continuous resource compliance with Open Policy Agent, SSO with SAML 2.0, and access to public worker pools: up to 200 minutes/month
 
-## [33. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [34. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Resources / Offical
 
@@ -653,7 +663,7 @@
 *   [SQL Panel (⭐18)](https://github.com/harish2704/directus-sql-panel) - Panel component which shows result of stored SQL query as a table.
 *   [SVG Map Picker Interface (⭐31)](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - Select a value from a SVG Map box.
 
-## [34. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [35. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Platforms
 
@@ -702,7 +712,7 @@
 *   [Elasticpath](https://www.elasticpath.com/) - E-commerce microservices.
 *   [Equinox](https://www.infosysequinox.com/) - Infosys Equinox is a human-centric commerce and marketing platform that supports rich, hyper-personalized experiences across any channel and touchpoint.
 
-## [35. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [36. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Internationalisation / Checkbox
 
@@ -710,7 +720,7 @@
 *   [svelte-i18n (⭐1.1k)](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
 *   [sveltekit-i18n (⭐383)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
 
-## [36. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [37. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
@@ -718,7 +728,7 @@
 *   [pistrong (⭐48)](https://github.com/gitbls/pistrong) - Manage certificate-secured strongSwan VPNs. Installer and command-line tool for client-server, site-to-site, and host-to-host VPNs.
 *   [sdm (⭐264)](https://github.com/gitbls/sdm) - Easily and fully customize RasPiOS images. Install apps, configure settings, etc then burn SSDs/SD cards for lots of different systems from a single image, and each one boots up fully configured and ready for work. Or play.
 
-## [37. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CMS
 
@@ -732,7 +742,7 @@
 
 *   [UnitsNet (⭐2.1k)](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
 
-## [38. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [39. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -748,27 +758,27 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-compression-plugin (⭐90)](https://github.com/XeryYue/vite-compression-plugin) - Use Node.js stream compress file to gzip or more.
+*   [vite-compression-plugin (⭐95)](https://github.com/XeryYue/vite-compression-plugin) - Use Node.js stream compress file to gzip or more.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-pug-transformer (⭐34)](https://github.com/TheSeally/vite-plugin-pug-transformer) - Pug template engine support.
+*   [vite-plugin-pug-transformer (⭐35)](https://github.com/TheSeally/vite-plugin-pug-transformer) - Pug template engine support.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-dynamic-base (⭐61)](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
+*   [vite-plugin-dynamic-base (⭐64)](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
 
 ### CakePHP / Community
 
 *   [cakephp-vite (⭐14)](https://github.com/passchn/cakephp-vite) - Integration for CakePHP.
 
-## [39. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [40. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [ts-belt](https://mobily.github.io/ts-belt/) - Fast, modern, and practical utility library for FP in TypeScript. (Uses a data-first approach like remeda, but is [faster](https://mobily.github.io/ts-belt/benchmarks/v3.7.0/macbook-air-2020) than remeda, ramda, rambda, and lodash/fp.)
 
-## [40. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [41. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Input
 
@@ -781,38 +791,38 @@
 *   [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
 *   [Plan (⭐20)](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
 
-## [41. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [42. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Python tools / Misc
 
 *   [pptk (⭐532)](https://github.com/heremaps/pptk) - Visualize and work with 2D/3D pointclouds
 
-## [42. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [43. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Articles / Obsidian
 
 *   [Want To Build An Incredible Product? Strive For The Delta Of “Wow”](https://medium.com/@waynechang/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - By [Wayne Chang](https://chang.com/).
 
-## [43. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [44. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Jobs / Other external resources
 
 *   [reverse job board for rails devs - railsdevs.com](https://railsdevs.com)
 
-## [44. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [45. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Python / React
 
 *   [turms (⭐55)](https://github.com/jhnnsrs/turms) - A pythonic graphql codegenerator built around graphql-core and pydantic
 *   [rath (⭐9)](https://github.com/jhnnsrs/rath) - An apollo like graphql client with async and sync interface
 
-## [45. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [46. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### End-user applications / XML
 
 *   [Cryptic-Resolver (⭐2)](https://github.com/cryptic-resolver/cr_D) -  Manage cryptic commands' names, acronyms and your own knowledge base (a command line utility)
 
-## [46. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
+## [47. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
 ### Hosted Bitcoin Payment Processors / Custodial
 
@@ -843,13 +853,13 @@
 
 
 
-## [47. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [48. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Webview
 
 *   [Astrodon (⭐929)](https://github.com/astrodon/astrodon) - Modular framework for building native multi-platform apps with Deno and webview.
 
-## [48. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [49. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / General
 
@@ -859,7 +869,7 @@
 
 *   [Boost Your Django DX](https://adamchainz.gumroad.com/l/byddx)
 
-## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -874,13 +884,13 @@
 
 *   [vuesion (⭐2.7k)](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
 
-## [50. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [51. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Infrastructure as Code Analysis / Multi-Platform
 
 *   [Terrascan (⭐4.3k)](https://github.com/accurics/terrascan) - *Accurics* - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 
-## [51. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
+## [52. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
 
 ### Libraries / Go
 
@@ -936,12 +946,12 @@
 
 *   [net-snmp tutorials](http://www.net-snmp.org/wiki/index.php/Tutorials) - This Wiki page contains various tutorials ranging from the basics of SNMP protocol to implementation of SNMP applications and agents using net-snmp library.
 
-## [52. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [53. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Emulators
 
 *   ZX Spectrum
-    *   [rustzx/rustzx (⭐189)](https://github.com/rustzx/rustzx) — [![RustZX CI](https://github.com/rustzx/rustzx/actions/workflows/ci.yml/badge.svg)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml)
+    *   [rustzx/rustzx (⭐190)](https://github.com/rustzx/rustzx) — [![RustZX CI](https://github.com/rustzx/rustzx/actions/workflows/ci.yml/badge.svg)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml)
 
 ### Development tools / Web Servers
 
@@ -949,7 +959,7 @@
 
 ### Libraries / Authentication
 
-*   [constantoine/totp-rs (⭐131)](https://github.com/constantoine/totp-rs) \[[totp-rs](https://crates.io/crates/totp-rs)] — 2fa library to generate and verify TOTP-based tokens ![Build Status](https://github.com/constantoine/totp-rs/workflows/Rust/badge.svg)
+*   [constantoine/totp-rs (⭐133)](https://github.com/constantoine/totp-rs) \[[totp-rs](https://crates.io/crates/totp-rs)] — 2fa library to generate and verify TOTP-based tokens ![Build Status](https://github.com/constantoine/totp-rs/workflows/Rust/badge.svg)
 
 ### Libraries / GUI
 
@@ -958,9 +968,9 @@
 ### Libraries / Network programming
 
 *   Bluetooth
-    *   [bluez/bluer (⭐225)](https://github.com/bluez/bluer) \[[bluer](https://crates.io/crates/bluer)] — Official BlueZ bindings for Rust. [![build badge](https://github.com/bluez/bluer/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/bluez/bluer/actions/workflows/rust.yml)
+    *   [bluez/bluer (⭐230)](https://github.com/bluez/bluer) \[[bluer](https://crates.io/crates/bluer)] — Official BlueZ bindings. [![build badge](https://github.com/bluez/bluer/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/bluez/bluer/actions/workflows/rust.yml)
 
-## [53. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [54. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Data Pipeline
 
@@ -970,7 +980,7 @@
 
 *   [Nussknacker (⭐570)](https://github.com/TouK/nussknacker) \[Scala] - A visual tool to define and run real-time decision algorithms.
 
-## [54. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [55. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Animals
 
@@ -1743,7 +1753,7 @@
 
 
 
-## [55. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+## [56. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
 ### Analyzers - API / Meetups
 
@@ -1752,7 +1762,7 @@
 *   [Pingdom](https://pingdom.com) - A tool to get the uptime of your website (with probes from different locations)
 *   [UptimeRobot](https://uptimerobot.com) - Another uptime monitoring tool (with a generous free plan)
 
-## [56. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [57. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / IDEs
 
@@ -1770,7 +1780,7 @@
 
 *   [Lark](https://www.larksuite.com/en_us/) - The Next-Gen Collaboration Suite. All your chats, meetings, calendars, docs, and emails in one place. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [57. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [58. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Abduction / Applications in AI
 

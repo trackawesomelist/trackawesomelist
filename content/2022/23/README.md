@@ -52,14 +52,14 @@
 ### Development tools / Embedded
 
 *   nRF
-    *   [nrf-rs/nrf-hal (⭐449)](https://github.com/nrf-rs/nrf-hal) — A Rust HAL for the nRF family of devices
+    *   [nrf-rs/nrf-hal (⭐451)](https://github.com/nrf-rs/nrf-hal) — A Rust HAL for the nRF family of devices
 
 ### Libraries / Audio and Music
 
 *   [RustAudio](https://github.com/RustAudio)
-    *   [RustAudio/cpal (⭐2.3k)](https://github.com/RustAudio/cpal) - Low-level cross-platform audio I/O library in pure Rust. [![Actions Status](https://github.com/RustAudio/cpal/workflows/cpal/badge.svg?branch=master)](https://github.com/RustAudio/cpal/actions)
-    *   [RustAudio/rodio (⭐1.5k)](https://github.com/RustAudio/rodio) — A Rust audio playback library
-    *   [RustAudio/rust-portaudio (⭐353)](https://github.com/RustAudio/rust-portaudio) — PortAudio bindings
+    *   [RustAudio/cpal (⭐2.3k)](https://github.com/RustAudio/cpal) - Low-level cross-platform audio I/O library. [![Actions Status](https://github.com/RustAudio/cpal/workflows/cpal/badge.svg?branch=master)](https://github.com/RustAudio/cpal/actions)
+    *   [RustAudio/rodio (⭐1.5k)](https://github.com/RustAudio/rodio) — Audio playback library
+    *   [RustAudio/rust-portaudio (⭐356)](https://github.com/RustAudio/rust-portaudio) — PortAudio bindings
 
 ## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -95,17 +95,17 @@
 
 ### Contents / Frameworks
 
-*   [Clinical Quality Language (⭐217)](https://github.com/cqframework/clinical_quality_language) - Clinical Quality Language is a HL7 standard for the expression of clinical knowledge.
+*   [Clinical Quality Language (⭐240)](https://github.com/cqframework/clinical_quality_language) - Clinical Quality Language is a HL7 standard for the expression of clinical knowledge.
 
 ### Contents / Libraries
 
-*   [Android FHIR SDK (⭐352)](https://github.com/google/android-fhir) - The Android FHIR SDK
-*   [FHIRKit Client (⭐149)](https://github.com/Vermonster/fhir-kit-client) - Node FHIR client library.
-*   [FHIRModels (⭐147)](https://github.com/apple/FHIRModels) - FHIRModels is a Swift library for FHIR resource data models.
+*   [Android FHIR SDK (⭐424)](https://github.com/google/android-fhir) - The Android FHIR SDK
+*   [FHIRKit Client (⭐160)](https://github.com/Vermonster/fhir-kit-client) - Node FHIR client library.
+*   [FHIRModels (⭐165)](https://github.com/apple/FHIRModels) - FHIRModels is a Swift library for FHIR resource data models.
 
 ### Contents / Integration
 
-*   [Open eHealth Integration Platform (⭐146)](https://github.com/oehf/ipf) - An extension of the Apache Camel routing and mediation engine
+*   [Open eHealth Integration Platform (⭐161)](https://github.com/oehf/ipf) - An extension of the Apache Camel routing and mediation engine
 
 ## [14. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -117,7 +117,7 @@
 
 ### Libraries
 
-*   [true-myth (⭐753)](https://github.com/true-myth/true-myth) A library for safe, idiomatic null and error handling in TypeScript, with `Maybe` and `Result` types, supporting both a functional style and a more traditional method-call style
+*   [true-myth (⭐818)](https://github.com/true-myth/true-myth) A library for safe, idiomatic null and error handling in TypeScript, with `Maybe` and `Result` types, supporting both a functional style and a more traditional method-call style
 
 ## [16. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail Grapple (⭐144)](https://github.com/torchbox/wagtail-grapple) - A Wagtail app that makes building GraphQL endpoints a breeze.
+*   [Wagtail Grapple (⭐145)](https://github.com/torchbox/wagtail-grapple) - A Wagtail app that makes building GraphQL endpoints a breeze.
 
 ### Resources / Getting started
 
@@ -153,18 +153,18 @@
 
 ### Libraries/Frameworks / Web
 
-*   [perwendel/spark-kotlin (⭐982)](https://github.com/perwendel/spark-kotlin) - A DSL in idiomatic Kotlin for the Spark web framework.
+*   [perwendel/spark-kotlin (⭐983)](https://github.com/perwendel/spark-kotlin) - A DSL in idiomatic Kotlin for the Spark web framework.
 *   [jetbrains/kotless (⭐1.1k)](https://github.com/jetbrains/kotless) - Kotlin serverless framework reducing the routine of serverless deployment.
 
 ### Libraries/Frameworks / Testing
 
-*   [robfletcher/strikt (⭐516)](https://github.com/robfletcher/strikt) - An assertion library for Kotlin
-*   [tschuchortdev/kotlin-compile-testing (⭐618)](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
+*   [robfletcher/strikt (⭐519)](https://github.com/robfletcher/strikt) - An assertion library for Kotlin
+*   [tschuchortdev/kotlin-compile-testing (⭐619)](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
 
 ### Libraries/Frameworks / Misc
 
 *   [InsanusMokrassar/KSLog (⭐9)](https://github.com/InsanusMokrassar/KSLog) - Fully customizable and lightweight logging library for Kotlin
-*   [charleskorn/kaml (⭐442)](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization
+*   [charleskorn/kaml (⭐443)](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization
 
 ## [19. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -358,7 +358,7 @@
 
 ### Software / Document Management - E-books
 
-*   [Stump](https://www.stumpapp.dev) - A fast, free and open source comics, manga and digital book server with OPDS support. ([Source Code (⭐664)](https://github.com/stumpapp/stump)) `MIT` `Rust`
+*   [Stump](https://www.stumpapp.dev) - A fast, free and open source comics, manga and digital book server with OPDS support. ([Source Code (⭐698)](https://github.com/stumpapp/stump)) `MIT` `Rust`
 
 ### Software / File Transfer & Synchronization
 
@@ -366,23 +366,23 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Zipline (⭐867)](https://github.com/diced/zipline) - A lightweight, fast and reliable file sharing server that is commonly used with ShareX, offering a react-based Web UI and fast API. `MIT` `Docker/Nodejs`
+*   [Zipline (⭐903)](https://github.com/diced/zipline) - A lightweight, fast and reliable file sharing server that is commonly used with ShareX, offering a react-based Web UI and fast API. `MIT` `Docker/Nodejs`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [ARRCON (⭐101)](https://github.com/radj307/ARRCON) - Terminal-based RCON client compatible with any game servers using the Source RCON Protocol. `GPL-3.0` `C++`
-*   [LinuxGSM](https://linuxgsm.com/) - CLI tool for deployment and management of dedicated game servers on Linux: more than 120 games are supported. ([Source Code (⭐4k)](https://github.com/GameServerManagers/LinuxGSM)) `MIT` `Shell`
-*   [Pterodactyl](https://pterodactyl.io/) - Management panel for game servers, with an intuitive UI for end users. ([Source Code (⭐5.7k)](https://github.com/pterodactyl/panel)) `MIT` `PHP`
-*   [RconCli (⭐316)](https://github.com/gorcon/rcon-cli) - CLI for executing queries on a remote Valve Source dedicated server using the RCON Protocol. `MIT` `Go`
+*   [ARRCON (⭐139)](https://github.com/radj307/ARRCON) - Terminal-based RCON client compatible with any game servers using the Source RCON Protocol. `GPL-3.0` `C++`
+*   [LinuxGSM](https://linuxgsm.com/) - CLI tool for deployment and management of dedicated game servers on Linux: more than 120 games are supported. ([Source Code (⭐4.1k)](https://github.com/GameServerManagers/LinuxGSM)) `MIT` `Shell`
+*   [Pterodactyl](https://pterodactyl.io/) - Management panel for game servers, with an intuitive UI for end users. ([Source Code (⭐5.8k)](https://github.com/pterodactyl/panel)) `MIT` `PHP`
+*   [RconCli (⭐381)](https://github.com/gorcon/rcon-cli) - CLI for executing queries on a remote Valve Source dedicated server using the RCON Protocol. `MIT` `Go`
 
 ### Software / Pastebins
 
-*   [MicroBin (⭐2k)](https://github.com/szabodanika/microbin) - Simple, performant, configurable, entirely self-contained pastebin and URL shortener. `BSD-3-Clause` `Rust/Docker`
+*   [MicroBin (⭐2.1k)](https://github.com/szabodanika/microbin) - Simple, performant, configurable, entirely self-contained pastebin and URL shortener. `BSD-3-Clause` `Rust/Docker`
 
 ### Software / Self-hosting Solutions
 
 *   [LibreServer](https://libreserver.org/) - Home server configuration based on Debian. ([Source Code (⭐23)](https://github.com/bashrc2/libreserver)) `AGPL-3.0` `Shell`
-*   [Mars Server (⭐63)](https://github.com/borjapazr/mars-server) - Managed home server with Docker, Docker Compose, Make and Bash. `MIT` `Docker`
+*   [Mars Server (⭐64)](https://github.com/borjapazr/mars-server) - Managed home server with Docker, Docker Compose, Make and Bash. `MIT` `Docker`
 *   [NextCloudPi (⭐2.3k)](https://github.com/nextcloud/nextcloudpi) - Nextcloud preinstalled and preconfigured, with a text and web management interface and all the tools needed to self host private data. With installation images for Raspberry Pi, Odroid, Rock64, Docker, and a curl installer for Armbian/Debian. `GPL-2.0` `Shell/PHP`
 
 ### Software / Software Development - Localization
@@ -391,7 +391,7 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Kanboard](https://kanboard.org/) - Simple and open source visual task board. ([Source Code (⭐7.9k)](https://github.com/kanboard/kanboard)) `MIT` `PHP`
+*   [Kanboard](https://kanboard.org/) - Simple and open source visual task board. ([Source Code (⭐8k)](https://github.com/kanboard/kanboard)) `MIT` `PHP`
 
 ## [33. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -440,7 +440,7 @@
 
 ### Software / Plotter Control
 
-*   [axidraw (⭐411)](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
+*   [axidraw (⭐413)](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
 *   [Line-us Inkscape Plugin (⭐7)](https://github.com/Line-us/Inkscape-Plugin) - Sends drawings to the Line-us plotter directly from Inkscape.
 *   [Line-us API Examples (⭐108)](https://github.com/Line-us/Line-us-Programming) - Example code for the Line-us plotter's G-code-based API.
 *   [@beardicus/line-us (⭐26)](https://github.com/beardicus/line-us) - JavaScript library for controlling the Line-us machine from Node or the browser.
@@ -526,7 +526,7 @@
 
 ### Libraries / Java
 
-*   [OSM2World](http://osm2world.org) - OSM2World is a converter that creates three-dimensional models of the world from OpenStreetMap data. It can be used as a stand-alone tool, on a server or as a library in Java programs. ([Source Code (⭐502)](https://github.com/tordanik/OSM2World) / [Wiki](https://wiki.openstreetmap.org/wiki/OSM2World))
+*   [OSM2World](http://osm2world.org) - OSM2World is a converter that creates three-dimensional models of the world from OpenStreetMap data. It can be used as a stand-alone tool, on a server or as a library in Java programs. ([Source Code (⭐515)](https://github.com/tordanik/OSM2World) / [Wiki](https://wiki.openstreetmap.org/wiki/OSM2World))
 
 ## [45. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
@@ -547,9 +547,9 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [fastcache (⭐23)](https://github.com/QuarticCat/zsh-fastcache) - Caches command output to improve shell startup time.
-*   [fzf (gimbo) (⭐0)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf (⭐57k)](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
+*   [fzf (gimbo) (⭐0)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf (⭐58k)](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
 *   [pnpm (baliestri) (⭐6)](https://github.com/baliestri/pnpm.plugin.zsh) - Adds useful aliases for many common [pnpm](https://pnpm.io/) commands. Includes tab-completions.
-*   [pnpm (ntnyq) (⭐59)](https://github.com/ntnyq/omz-plugin-pnpm) - Adds useful aliases for common [pnpm](https://pnpm.io/) commands.
+*   [pnpm (ntnyq) (⭐60)](https://github.com/ntnyq/omz-plugin-pnpm) - Adds useful aliases for common [pnpm](https://pnpm.io/) commands.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -693,7 +693,7 @@
 
 ### Tools - Editors & IDEs & Explorers / React
 
-*   [gqt (⭐453)](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
+*   [gqt (⭐454)](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
 
 ## [50. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
@@ -738,7 +738,7 @@
 
 ### Graphics
 
-*   [Harfang 3D (⭐442)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. \[GPLv3/LGPLv3/Proprietary] [website](https://www.harfang3d.com)
+*   [Harfang 3D (⭐445)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. \[GPLv3/LGPLv3/Proprietary] [website](https://www.harfang3d.com)
 
 ## [54. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 

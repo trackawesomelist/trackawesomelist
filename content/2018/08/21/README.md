@@ -10,7 +10,6 @@
 
 ### Utilities / Password Management
 
-*   [Authy](https://authy.com) - Two-factor authentication token manager that backs up and syncs across your devices. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Enpass](https://www.enpass.io/) - Cross-platform password management tool with cloud integration. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/enpass-password-manager/id455566716)
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
@@ -21,15 +20,15 @@
 
 ### Processes and Threads
 
-*   [promise (⭐39)](https://github.com/spider-gazelle/promise) - A Promise implementation with type inference
+*   [promise (⭐40)](https://github.com/spider-gazelle/promise) - A Promise implementation with type inference
 
 ### Scheduling
 
-*   [tasker (⭐50)](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
+*   [tasker (⭐53)](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
 
 ### Shell plugins
 
-*   [crun (⭐42)](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
+*   [crun (⭐43)](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
 
 ## [3. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 

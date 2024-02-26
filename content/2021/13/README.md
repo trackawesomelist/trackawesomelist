@@ -29,7 +29,7 @@
 
 ### Applications / Video
 
-*   [dertuxmalwieder/yaydl (⭐255)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
+*   [dertuxmalwieder/yaydl (⭐256)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
 
 ## [5. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Platforms
 
-*   [Nix (⭐2k)](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
+*   [Nix (⭐2.2k)](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 
 ## [11. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
 
@@ -288,11 +288,11 @@
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [dasel (⭐4.6k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐27k)](https://github.com/stedolan/jq) / [yq (⭐2.3k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
+*   [dasel (⭐4.7k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐28k)](https://github.com/stedolan/jq) / [yq (⭐2.4k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 
 ### Applications / Directory Navigation
 
-*   [editly (⭐4.3k)](https://github.com/mifi/editly) - Command line video editor
+*   [editly (⭐4.5k)](https://github.com/mifi/editly) - Command line video editor
 
 ## [36. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
@@ -560,7 +560,7 @@
 ### Analytics, Events and Statistics
 
 *   [Google Analytics](https://analytics.google.com/) — Google Analytics
-*   [Hotjar](https://hotjar.com) — Website Analytics and Reports . Free Plan allows 2000 pageviews/day. One hundred snapshots/day (max capacity: 300). Three snapshot heatmaps can be stored for 365 days. Unlimited Team Members.
+*   [Hotjar](https://hotjar.com) — Website Analytics and Reports . Free Plan allows 2000 pageviews/day. One hundred snapshots/day (max capacity: 300). Three snapshot heatmaps can be stored for 365 days. Unlimited Team Members. Also in App and standalone surveys, feedback widgets with screenshots. Free tier allows creating 3 surveys & 3 feedback widgets and collecting 20 responses per month.
 *   [Microsoft PowerBI](https://powerbi.com) — Business Insights & Analytics by Microsoft. Free Plan offers limited use with 1 Million User licenses.
 *   [Similar Web](https://similarweb.com) — Analytics for Web & Mobile Apps. Free Plan offers five results per metric, one month of mobile app data & 3 months of website data.
 *   [StatCounter](https://statcounter.com/) — Website Viewer Analytics. Free plan for analytics of 500 most recent visitors.

@@ -30,9 +30,9 @@
 
 *   Technical Papers
     *   [Polkadot Lightpaper](https://polkadot.network/Polkadot-lightpaper.pdf)
-    *   [Polkadot: Vision for a heterogeneous multi-chain framework (⭐189)](https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf)
+    *   [Polkadot: Vision for a heterogeneous multi-chain framework (⭐190)](https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf)
     *   [Overview of Polkadot and its Design Considerations](https://arxiv.org/abs/2005.13456.pdf)
-        *   [Chinese Translation (⭐32)](https://github.com/AmadeusGB/Overview-of-Polkadot) (by community)
+        *   [Chinese Translation (⭐33)](https://github.com/AmadeusGB/Overview-of-Polkadot) (by community)
 
 ## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

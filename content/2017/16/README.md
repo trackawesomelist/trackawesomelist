@@ -43,7 +43,7 @@
 
 ### Open-source sites / Lists
 
-*   [Secure the News (⭐98)](https://github.com/freedomofpress/securethenews) – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
+*   [Secure the News (⭐97)](https://github.com/freedomofpress/securethenews) – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
 *   [HackSoft](https://github.com/HackSoftware/hacksoft.io) – Website for HackSoft.
 *   [HackConf](https://github.com/HackSoftware/hackconf.bg) – Website for the annual HackConf.
 
@@ -271,7 +271,7 @@
 ### Contents / Data
 
 *   [Caisis](http://www.caisis.org/) - Oncology research software with a Patient Data Management System.
-*   [Synthea Patient Generator (⭐1.8k)](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
+*   [Synthea Patient Generator (⭐1.9k)](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
 
 ## [21. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
@@ -317,8 +317,8 @@
 
 ### Feature Flags and Toggles
 
-*   [flippant (⭐95)](https://github.com/sorentwo/flippant) - Feature flipping for the Elixir world.
-*   [molasses (⭐75)](https://github.com/securingsincity/molasses) - A feature toggle library using redis or SQL (using Ecto) as a backing service.
+*   [flippant (⭐97)](https://github.com/sorentwo/flippant) - Feature flipping for the Elixir world.
+*   [molasses (⭐76)](https://github.com/securingsincity/molasses) - A feature toggle library using redis or SQL (using Ecto) as a backing service.
 
 ### Geolocation
 
@@ -326,7 +326,7 @@
 
 ### HTTP
 
-*   [ivar (⭐15)](https://github.com/swelham/ivar) - A lightweight wrapper around HTTPoison that provides a fluent and composable way to build http requests.
+*   [ivar (⭐16)](https://github.com/swelham/ivar) - A lightweight wrapper around HTTPoison that provides a fluent and composable way to build http requests.
 
 ### ORM and Datamapping
 
@@ -452,7 +452,7 @@
 
 ### Contents / Language bindings
 
-*   .Net/.Net Core: [Npgsql (⭐2.9k)](https://github.com/npgsql/npgsql)
+*   .Net/.Net Core: [Npgsql (⭐3.1k)](https://github.com/npgsql/npgsql)
 
 ## [35. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -464,13 +464,13 @@
 
 ### Command-Line Productivity
 
-*   [Buku (⭐5.9k)](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
+*   [Buku (⭐6k)](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
 *   [googler (⭐6k)](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
-*   [nnn (⭐17k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
+*   [nnn (⭐18k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
 
 ### For Developers / Directory Navigation
 
-*   [bcal (⭐602)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations
+*   [bcal (⭐615)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations
 
 ### System Utilities / Directory Navigation
 
@@ -478,11 +478,11 @@
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [imgp (⭐983)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
+*   [imgp (⭐998)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
 
 ### Applications / Directory Navigation
 
-*   [choosealicense-cli (⭐67)](https://github.com/lord63/choosealicense-cli) - Choose an OSS license from the comfort of your terminal
+*   [choosealicense-cli (⭐68)](https://github.com/lord63/choosealicense-cli) - Choose an OSS license from the comfort of your terminal
 
 ### Shell Package Management / Directory Navigation
 
@@ -496,7 +496,7 @@
 
 ### Web Application Framework
 
-*   [lwan (⭐5.8k)](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server. \[GPL2]
+*   [lwan (⭐5.9k)](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server. \[GPL2]
 *   [Pistache](http://pistache.io/) - Pistache is a C++ REST framework written in pure C++11 with no external dependency. \[Apache2]
 
 ## [38. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)

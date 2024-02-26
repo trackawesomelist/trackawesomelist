@@ -62,25 +62,25 @@
 
 ### Gaming
 
-*   [Game Production (⭐53)](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
+*   [Game Production (⭐59)](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
 
 ### Learn
 
-*   [STEAM (⭐54)](https://github.com/RahulBirCodes/awesome-steam#readme) - Supplements for specific science, technology, engineering, arts, and math (STEAM) courses across all grade levels.
+*   [STEAM (⭐59)](https://github.com/RahulBirCodes/awesome-steam#readme) - Supplements for specific science, technology, engineering, arts, and math (STEAM) courses across all grade levels.
 
 ### Security
 
-*   [Security Card Games (⭐45)](https://github.com/Karneades/awesome-security-card-games#readme) - Train your skills and discuss various security topics.
-*   [Suricata (⭐87)](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
+*   [Security Card Games (⭐50)](https://github.com/Karneades/awesome-security-card-games#readme) - Train your skills and discuss various security topics.
+*   [Suricata (⭐94)](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
 
 ### Hardware
 
-*   [ADS-B (⭐49)](https://github.com/rickstaa/awesome-adsb#readme) - Technology broadcasting aircraft's identity, position, and data periodically.
-*   [Flying FPV (⭐135)](https://github.com/Matthias84/awesome-flying-fpv#readme) - Open hardware and software related to drones / UAVs.
+*   [ADS-B (⭐58)](https://github.com/rickstaa/awesome-adsb#readme) - Technology broadcasting aircraft's identity, position, and data periodically.
+*   [Flying FPV (⭐159)](https://github.com/Matthias84/awesome-flying-fpv#readme) - Open hardware and software related to drones / UAVs.
 
 ### Decentralized Systems
 
-*   [Cosmos SDK (⭐426)](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
+*   [Cosmos SDK (⭐444)](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
 
 ## [9. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 

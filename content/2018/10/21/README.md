@@ -30,7 +30,7 @@
 ### Country Data
 
 *   [Phonelib (⭐1k)](https://github.com/daddyz/phonelib) - Ruby gem for phone validation and formatting using Google libphonenumber library data.
-*   [Phony (⭐991)](https://github.com/floere/phony) - Fast international phone number (E164 standard) normalizing, splitting and formatting.
+*   [Phony (⭐992)](https://github.com/floere/phony) - Fast international phone number (E164 standard) normalizing, splitting and formatting.
 
 ### DevOps Tools
 
@@ -38,7 +38,7 @@
 
 ### Email
 
-*   [Postal (⭐13k)](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
+*   [Postal (⭐14k)](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 
 ### Internationalization
 
@@ -47,12 +47,12 @@
 ### Optimizations
 
 *   [bootsnap (⭐2.6k)](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster.
-*   [fast\_blank (⭐609)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
+*   [fast\_blank (⭐610)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
 *   [yajl-ruby (⭐1.5k)](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
 
 ### Performance Monitoring
 
-*   [Scout (⭐180)](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
+*   [Scout (⭐184)](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
 
 ## [4. Amas](/content/sindresorhus/amas/README.md)
 

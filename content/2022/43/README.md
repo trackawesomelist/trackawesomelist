@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 24 - Oct 30, 2022
 
-54 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -66,7 +66,7 @@
 
 ### Applications
 
-*   [SWC (⭐29k)](https://github.com/swc-project/swc) — super-fast TypeScript / JavaScript compiler
+*   [SWC (⭐30k)](https://github.com/swc-project/swc) — super-fast TypeScript / JavaScript compiler
 
 ### Applications / Web Servers
 
@@ -196,29 +196,19 @@
 
 *   [tmux-powerline (⭐3.2k)](https://github.com/erikw/tmux-powerline) A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
 
-## [11. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
-
-### Websites / Godot version unknown
-
-*   [The Godot Report](https://www.thegodotreport.com/) - A newsletter with news, tutorials, game and demo releases and more.
-
-## [12. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [11. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [viz.rs (⭐8)](https://github.com/viz-rs/viz-rs.github.io) - A website for viz web framework, [Live Demo](https://viz.rs/).
+*   [viz.rs (⭐9)](https://github.com/viz-rs/viz-rs.github.io) - A website for viz web framework, [Live Demo](https://viz.rs/).
 
-## [13. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [12. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Libraries / Chrome Extensions
 
 *   :octocat: [castore (⭐191)](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing in your application
 
-## [14. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
-
-### Books / Visualization Tools
-
-*   [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) Free Download
+## [13. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Algorithms / Supervised Learning
 
@@ -233,29 +223,33 @@
     *   [ID3 algorithm](https://en.wikipedia.org/wiki/ID3_algorithm)
     *   [C4.5 algorithm](https://en.wikipedia.org/wiki/C4.5_algorithm)
 
+### Books / Visualization Tools
+
+*   [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) Free Download
+
 ### Datasets / Book Deals (Affiliated) 🛍
 
 *   [ADS-B Exchange](https://www.adsbexchange.com/data-samples/) - Specific datasets for aircraft and Automatic Dependent Surveillance-Broadcast (ADS-B) sources.
 
-## [15. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [14. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Feature Flags
 
 *   [GrowthBook](https://www.growthbook.io/) - Open-source feature flag and experimentation platform. [![GrowthBook](https://img.shields.io/github/stars/growthbook/growthbook?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/growthbook/growthbook)
 
-## [16. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [singularityenv (⭐0)](https://github.com/saravanabalagi/zsh-plugin-singularityenv) - Provides a `singularityenv_prompt_info` function which returns the current singularity environment name
 
-## [17. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [16. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Security Auditing Services / Wallets
 
 *   [algorand-ecosystem-audits (⭐3)](https://github.com/blockshake-io/algorand-ecosystem-audits) - A growing collection of audit reports in the Algorand ecosystem maintained by [blockshake-io](https://blockshake.io).
 
-## [18. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [17. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Programming / JavaScript
 
@@ -265,7 +259,7 @@
 
 *   [Jobbsy](https://jobbsy.dev) - Symfony Jobs
 
-## [19. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [18. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command-line
 
@@ -279,7 +273,7 @@
 
 *   [Gitly (⭐1.3k)](https://github.com/vlang/gitly) - A light and fast SCM alternative to GitHub/GitLab written in V.
 
-## [20. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
+## [19. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
 
 ### APIs and SDKs
 
@@ -291,13 +285,13 @@
 
 *   [Esri/pyprt-examples (⭐21)](https://github.com/Esri/pyprt-examples) - Example for PyPRT (Python Bindings for the CityEngine SDK).
 
-## [21. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [20. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Tree
 
-*   [react-arborist (⭐2.6k)](https://github.com/brimdata/react-arborist) - [demo](https://react-arborist.netlify.app/) - A Full-Featured Tree View: headless, virtualized, multi-selectable, drag-n-drop, keyboard navigation, search
+*   [react-arborist (⭐2.7k)](https://github.com/brimdata/react-arborist) - [demo](https://react-arborist.netlify.app/) - A Full-Featured Tree View: headless, virtualized, multi-selectable, drag-n-drop, keyboard navigation, search
 
-## [22. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [21. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Demo
 
@@ -307,13 +301,13 @@
 
 *   [Official Content Management Tutorial](https://book.cakephp.org/4/en/tutorials-and-examples/cms/installation.html)
 
-## [23. Amas](/content/sindresorhus/amas/week/README.md)
+## [22. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Frances Coronel](https://francescoronel.com/ama) - Open source enthusiast, senior software engineer at Byteboard, Corgi mom.
 
-## [24. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [23. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Database
 
@@ -328,7 +322,7 @@
 
 *   [MagicScaler (⭐514)](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
 
-## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [24. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Communication / Collaboration and Team Tools
 
@@ -338,48 +332,48 @@
 
 *   [Mullvad VPN](https://mullvad.net) - Privacy focused VPN that requires no personal information for use, keeps no logs, and allows payments with Bitcoin Cash, Monero and more. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mullvad/mullvadvpn-app)
 
-## [26. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [25. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Language Support
 
 *   [playwright-go (⭐1.6k)](https://github.com/playwright-community/playwright-go) - Playwright port for Golang.
 
-## [27. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [26. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Frameworks / React
 
 *   [JSX-email](https://jsx-mail.org/) - JSX Mail is an email framework that uses React to create email templates.
 
-## [28. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [27. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [ankitwasankar/mftool-java (⭐35)](https://github.com/ankitwasankar/mftool-java#readme) - Project logo with a short display of what can be achieved with it, TOC for easy navigation, important badges, clean installation guide, and multiple code snippets showing how to use the functionality.
 
-## [29. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [28. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Modeladmin
 
-*   [wagtail-rangefilter (⭐9)](https://github.com/wunderweiss/wagtail-rangefilter) - Integrates django-admin-rangefilter into Wagtail's ModelAdmin.
+*   [wagtail-rangefilter (⭐11)](https://github.com/wunderweiss/wagtail-rangefilter) - Integrates django-admin-rangefilter into Wagtail's ModelAdmin.
 
 ### Tools / Templates & Starter Kits
 
 *   [cookiecutter-wagtail-package (⭐14)](https://github.com/wagtail/cookiecutter-wagtail-package) - A cookiecutter template for building Wagtail add-on packages.
 
-## [30. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [29. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Administration
 
 *   [TablerBundle (⭐17)](https://github.com/kevinpapst/TablerBundle) - Admin theme based on the Tabler Template. It ships with many twig helpers (functions, filter, embeds, macros and includes).
 
-## [31. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [30. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Ruby / Svelte
 
 *   [Short Ruby Newsletter](https://newsletter.shortruby.com). A visual weekly newsletter about everything happening in Ruby world.
 *   [⚡️ Hotwire dev newsletter](https://masilotti.com/hotwire/). A monthly newsletter on the Hotwire stack: Turbo (Native), Stimulus, and Strada articles, code, and courses.
 
-## [32. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [31. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
@@ -389,7 +383,7 @@
 
 *   [Le podcast 🎙 AWS ☁️ en français 🇫🇷](https://stormacq.com/podcasts) - Tous les vendredis, l'actualité du cloud, des retours d'expérience, des outils qui aident les développeurs.
 
-## [33. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [32. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -447,7 +441,7 @@
 | ------: | -------: | ---: |
 |   2 - 4 |        8 | 120m |
 
-## [34. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [33. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
@@ -473,13 +467,13 @@
 
 *   [*Core Data for iOS* by Tim Isted, Tom Harrington](https://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426)
 
-## [35. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [34. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
 *   [Effective Go: Elegant, efficient, and testable code](https://www.manning.com/books/effective-go) - Unlock Go’s unique perspective on program design, and start writing simple, maintainable, and testable Go code.
 
-## [36. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [35. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Company Blogs / Progressive Web Application
 
@@ -489,7 +483,7 @@
 
 *   [OneStepCheckout](https://onestepcheckout.com/)
 
-## [37. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [36. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
@@ -516,13 +510,13 @@
 
 *   [woosaaahh/sj.nvim (⭐115)](https://github.com/woosaaahh/sj.nvim) - Search based navigation combined with quick jump features.
 
-## [38. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [37. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
 *   [vite-plugin-setting-css-module (⭐3)](https://github.com/ProgrameBoy/vite-plugin-setting-css-module) - Implementing CSS-Modules with vite modularity rules. Don't need create `xxx.module.css`.
 
-## [39. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [38. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Docs / Official Docs
 
@@ -562,7 +556,7 @@
 
 *   [deno-ja](https://deno-ja.deno.dev/) - Deno Japanese User Group.
 
-## [40. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [39. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -586,7 +580,7 @@
 ### universally from / webpage/html
 
 *   [RSS Please](https://www.wezm.net/v2/posts/2022/generate-rss-from-webpage/) <sup>[1249](https://t.me/s/aboutrss/1249)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/wezm/rsspls)
-*   [FreshRSS 1.20.0 (⭐7.7k)](https://github.com/FreshRSS/FreshRSS/releases/tag/1.20.0) <sup>[1256](https://t.me/s/aboutrss/1256)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/FreshRSS/FreshRSS/)
+*   [FreshRSS 1.20.0 (⭐7.8k)](https://github.com/FreshRSS/FreshRSS/releases/tag/1.20.0) <sup>[1256](https://t.me/s/aboutrss/1256)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/FreshRSS/FreshRSS/)
 *   [ChangeDetection](https://lemonade.changedetection.io/start) <sup>[1264](https://t.me/s/aboutrss/1264)</sup>
 
 ### specifically from (*a certain platform*) / Twitter
@@ -618,306 +612,284 @@
 
 *   [Buzzing](https://www.buzzing.cc/) <sup>[1250](https://t.me/s/aboutrss/1250)</sup>
 
-## [41. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Data Science
-
-*   [High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications](https://book-wright-ma.github.io/Book-WM-20210422.pdf) - John Wright, Yi Ma (PDF)
-
-### Machine Learning
-
-*   [Machine Learning Simplified](https://themlsbook.com/read) - Andrew Wolf
-
-### Mathematics For Computer Science
-
-*   [Combinatorial Problems And Exercises (1979)](https://archive.org/details/in.ernet.dli.2015.141538/) - L. Lovasz
-
-### Quantum Computing
-
-*   [The Functional Analysis of Quantum Information Theory](https://arxiv.org/abs/1410.7188) - Ved Prakash Gupta, Prabha Mandayam, V. S. Sunder (PDF)
-
-### Software Architecture
-
-*   [Refactor Like a Superhero (⭐898)](https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-en/README.md) - Alex Bespoyasov
-
-## [42. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [40. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Specialty Topics / Transparency
 
 *   📚 [Depth Peeling](https://developer.download.nvidia.com/assets/gamedev/docs/OrderIndependentTransparency.pdf) - Method for order-independent transparency.
 
-## [43. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [41. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
-*   [STOKE (⭐702)](https://github.com/StanfordPL/stoke) :warning: — A programming-language agnostic stochastic optimizer for the x86\_64 instruction set. It uses random search to explore the extremely high-dimensional space of all possible program transformations.
-*   [CScout](https://www.spinellis.gr/cscout) :warning: — Complexity and quality metrics for C and C preprocessor code.
-*   [CSharpEssentials (⭐159)](https://github.com/DustinCampbell/CSharpEssentials) :warning: — C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
-*   [VSDiagnostics (⭐64)](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
+*   [STOKE (⭐702)](https://github.com/StanfordPL/stoke) — A programming-language agnostic stochastic optimizer for the x86\_64 instruction set. It uses random search to explore the extremely high-dimensional space of all possible program transformations.
+*   [CScout](https://www.spinellis.gr/cscout) — Complexity and quality metrics for C and C preprocessor code.
+*   [CSharpEssentials (⭐159)](https://github.com/DustinCampbell/CSharpEssentials) — C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
+*   [VSDiagnostics (⭐64)](https://github.com/Vannevelj/VSDiagnostics) — A collection of static analyzers based on Roslyn that integrates with VS.
 *   [effective\_dart](https://pub.dev/packages/effective_dart) — Linter rules corresponding to the guidelines in Effective Dart
-*   [elm-analyse](https://stil4m.github.io/elm-analyse) :warning: — A tool that allows you to analyse your Elm code, identify deficiencies and apply best practices.
+*   [elm-analyse](https://stil4m.github.io/elm-analyse) — A tool that allows you to analyse your Elm code, identify deficiencies and apply best practices.
 *   [dingo-hunter (⭐310)](https://github.com/nickng/dingo-hunter) — Static analyser for finding deadlocks in Go.
-*   [dupl (⭐323)](https://github.com/mibk/dupl) :warning: — Reports potentially duplicated code.
-*   [lll (⭐63)](https://github.com/walle/lll) :warning: — Report long lines.
-*   [safesql (⭐564)](https://github.com/stripe/safesql) :warning: — Static analysis tool for Golang that protects against SQL injections.
-*   [aether](http://aetherjs.com) :warning: — Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.
-*   [es6-plato (⭐203)](https://github.com/the-simian/es6-plato) :warning: — Visualize JavaScript (ES6) source complexity.
-*   [escomplex (⭐257)](https://github.com/jared-stilwell/escomplex) :warning: — Software complexity analysis of JavaScript-family abstract syntax trees.
-*   [Esprima](https://esprima.org) :warning: — ECMAScript parsing infrastructure for multipurpose analysis.
-*   [PHP-Token-Reflection (⭐189)](https://github.com/Andrewsville/PHP-Token-Reflection) :warning: — Library emulating the PHP internal reflection.
-*   [phpca (⭐95)](https://github.com/wapmorgan/PhpCodeAnalyzer) :warning: — Finds usage of non-built-in extensions.
-*   [PhpDependencyAnalysis](https://mamuz.github.io/PhpDependencyAnalysis) :warning: — Builds a dependency graph for a project.
-*   [phpdoc-to-typehint (⭐226)](https://github.com/dunglas/phpdoc-to-typehint) :warning: — Add scalar type hints and return types to existing PHP projects using PHPDoc annotations.
-*   [phpsa (⭐641)](https://github.com/ovr/phpsa) :warning: — Static analysis tool for PHP.
-*   [Qafoo Quality Analyzer (⭐492)](https://github.com/Qafoo/QualityAnalyzer) :warning: — Visualizes metrics and source code.
+*   [dupl (⭐323)](https://github.com/mibk/dupl) — Reports potentially duplicated code.
+*   [lll (⭐63)](https://github.com/walle/lll) — Report long lines.
+*   [safesql (⭐564)](https://github.com/stripe/safesql) — Static analysis tool for Golang that protects against SQL injections.
+*   [aether](http://aetherjs.com) — Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.
+*   [es6-plato (⭐203)](https://github.com/the-simian/es6-plato) — Visualize JavaScript (ES6) source complexity.
+*   [escomplex (⭐257)](https://github.com/jared-stilwell/escomplex) — Software complexity analysis of JavaScript-family abstract syntax trees.
+*   [Esprima](https://esprima.org) — ECMAScript parsing infrastructure for multipurpose analysis.
+*   [PHP-Token-Reflection (⭐189)](https://github.com/Andrewsville/PHP-Token-Reflection) — Library emulating the PHP internal reflection.
+*   [phpca (⭐95)](https://github.com/wapmorgan/PhpCodeAnalyzer) — Finds usage of non-built-in extensions.
+*   [PhpDependencyAnalysis](https://mamuz.github.io/PhpDependencyAnalysis) — Builds a dependency graph for a project.
+*   [phpdoc-to-typehint (⭐226)](https://github.com/dunglas/phpdoc-to-typehint) — Add scalar type hints and return types to existing PHP projects using PHPDoc annotations.
+*   [phpsa (⭐641)](https://github.com/ovr/phpsa) — Static analysis tool for PHP.
+*   [Qafoo Quality Analyzer (⭐492)](https://github.com/Qafoo/QualityAnalyzer) — Visualizes metrics and source code.
 *   [bellybutton (⭐262)](https://github.com/hchasestevens/bellybutton) — A linting engine supporting custom project-specific rules.
 *   [cohesion (⭐219)](https://github.com/mschwager/cohesion) — A tool for measuring Python class cohesion.
-*   [InspectorTiger (⭐78)](https://github.com/thg-consulting/it) :warning: — IT, Inspector Tiger, is a modern python code review tool / framework. It comes with bunch of pre-defined handlers which warns you about improvements and possible bugs. Beside these handlers, you can write your own or use community ones.
+*   [InspectorTiger (⭐78)](https://github.com/thg-consulting/it) — IT, Inspector Tiger, is a modern python code review tool / framework. It comes with bunch of pre-defined handlers which warns you about improvements and possible bugs. Beside these handlers, you can write your own or use community ones.
 *   [cyclocomp (⭐46)](https://github.com/MangoTheCat/cyclocomp) — Quantifies the cyclomatic complexity of R functions / expressions.
-*   [cane (⭐1.3k)](https://github.com/square/cane) :warning: — Code quality threshold checking as part of your build.
+*   [cane (⭐1.3k)](https://github.com/square/cane) — Code quality threshold checking as part of your build.
 *   [Churn (⭐394)](https://github.com/danmayer/churn) — A Project to give the churn file, class, and method for a project for a given checkin. Over time the tool adds up the history of churns to give the number of times a file, class, or method is changing during the life of a project.
-*   [Querly (⭐244)](https://github.com/soutaro/querly) :warning: — Pattern Based Checking Tool for Ruby.
-*   [Railroader](https://railroader.org) :warning: — An open source static analysis security vulnerability scanner for Ruby on Rails applications.
-*   [Roodi (⭐279)](https://github.com/roodi/roodi) :warning: — Roodi stands for Ruby Object Oriented Design Inferometer. It parses your Ruby code and warns you about design issues you have based on the checks that it has configured.
-*   [Saikuro](https://metricfu.github.io/Saikuro) :warning: — A Ruby cyclomatic complexity analyzer.
-*   [herbie (⭐171)](https://github.com/mcarton/rust-herbie-lint) :warning: — Adds warnings or errors to your crate when using a numerically unstable floating point expression.
-*   [linter-rust (⭐40)](https://github.com/AtomLinter/linter-rust) :warning: — Linting your Rust-files in Atom, using rustc and cargo.
-*   [TSqlRules (⭐29)](https://github.com/ashleyglee/TSqlRules) :warning: — TSQL Static Code Analysis Rules for SQL Server.
-*   [linter (⭐269)](https://github.com/HairyFotr/linter) :warning: — Linter is a Scala static analysis compiler plugin which adds compile-time checks for various possible bugs, inefficiencies, and style problems.
+*   [Querly (⭐244)](https://github.com/soutaro/querly) — Pattern Based Checking Tool for Ruby.
+*   [Railroader](https://railroader.org) — An open source static analysis security vulnerability scanner for Ruby on Rails applications.
+*   [Roodi (⭐279)](https://github.com/roodi/roodi) — Roodi stands for Ruby Object Oriented Design Inferometer. It parses your Ruby code and warns you about design issues you have based on the checks that it has configured.
+*   [Saikuro](https://metricfu.github.io/Saikuro) — A Ruby cyclomatic complexity analyzer.
+*   [herbie (⭐171)](https://github.com/mcarton/rust-herbie-lint) — Adds warnings or errors to your crate when using a numerically unstable floating point expression.
+*   [linter-rust (⭐40)](https://github.com/AtomLinter/linter-rust) — Linting your Rust-files in Atom, using rustc and cargo.
+*   [TSqlRules (⭐29)](https://github.com/ashleyglee/TSqlRules) — TSQL Static Code Analysis Rules for SQL Server.
+*   [linter (⭐269)](https://github.com/HairyFotr/linter) — Linter is a Scala static analysis compiler plugin which adds compile-time checks for various possible bugs, inefficiencies, and style problems.
 *   [kmdr (⭐11)](https://github.com/ediardo/kmdr-cli) — CLI tool for learning commands from your terminal. kmdr delivers a break down of commands with every attribute explained.
 
 ### Other / [Other](#other-1)
 
-*   [ciocheck (⭐24)](https://github.com/ContinuumIO/ciocheck) :warning: — Linter, formatter and test suite helper. As a linter, it is a wrapper around `pep8`, `pydocstyle`, `flake8`, and `pylint`.
-*   [multilint (⭐27)](https://github.com/adamchainz/multilint) :warning: — A wrapper around `flake8`, `isort` and `modernize`.
-*   [pure (⭐233)](https://github.com/ronomon/pure) :warning: — Pure is a static analysis file format checker that checks ZIP files for dangerous compression ratios, spec deviations, malicious archive signatures, mismatching local and central directory headers, ambiguous UTF-8 filenames, directory and symlink traversals, invalid MS-DOS dates, overlapping headers, overflow, underflow,  sparseness, accidental buffer bleeds etc.
-*   [Parker (⭐2.5k)](https://github.com/katiefenn/parker) :warning: — Stylesheet analysis tool.
-*   [scsslint (⭐3.6k)](https://github.com/brigade/scss-lint) — Linter for SCSS files.
+*   [ciocheck (⭐24)](https://github.com/ContinuumIO/ciocheck) — Linter, formatter and test suite helper. As a linter, it is a wrapper around `pep8`, `pydocstyle`, `flake8`, and `pylint`.
+*   [multilint (⭐27)](https://github.com/adamchainz/multilint) — A wrapper around `flake8`, `isort` and `modernize`.
+*   [pure (⭐233)](https://github.com/ronomon/pure) — Pure is a static analysis file format checker that checks ZIP files for dangerous compression ratios, spec deviations, malicious archive signatures, mismatching local and central directory headers, ambiguous UTF-8 filenames, directory and symlink traversals, invalid MS-DOS dates, overlapping headers, overflow, underflow,  sparseness, accidental buffer bleeds etc.
+*   [Parker (⭐2.5k)](https://github.com/katiefenn/parker) — Stylesheet analysis tool.
+*   [scsslint (⭐3.6k)](https://github.com/brigade/scss-lint) :warning: — Linter for SCSS files.
 *   [gixy (⭐8.1k)](https://github.com/yandex/gixy) — A tool to analyze Nginx configuration. The main goal is to prevent misconfiguration and automate flaw detection.
-*   [Puppet Lint (⭐813)](https://github.com/rodjek/puppet-lint) :warning: — Check that your Puppet manifests conform to the style guide.
-*   [collector (⭐288)](https://github.com/banyanops/collector) :warning: — Run arbitrary scripts inside containers, and gather useful information.
-*   [Docker Label Inspector (⭐80)](https://github.com/garethr/docker-label-inspector) :warning: — Lint and validate Dockerfile labels.
-*   [grunt-bootlint (⭐64)](https://github.com/twbs/grunt-bootlint) :warning: — A Grunt wrapper for [Bootlint (⭐2.4k)](https://github.com/twbs/bootlint), the HTML linter for Bootstrap projects.
-*   [gulp-bootlint (⭐41)](https://github.com/tschortsch/gulp-bootlint) :warning: — A gulp wrapper for [Bootlint (⭐2.4k)](https://github.com/twbs/bootlint), the HTML linter for Bootstrap projects.
-*   [android-lint-summary](https://passy.github.io/android-lint-summary) :warning: — Combines lint errors of multiple projects into one output, check lint results of multiple sub-projects at once.
-*   [paprika (⭐71)](https://github.com/GeoffreyHecht/paprika) :warning: — A toolkit to detect some code smells in analyzed Android applications.
-*   [qark (⭐3.1k)](https://github.com/linkedin/qark) :warning: — Tool to look for several security related Android application vulnerabilities.
+*   [Puppet Lint (⭐813)](https://github.com/rodjek/puppet-lint) — Check that your Puppet manifests conform to the style guide.
+*   [collector (⭐288)](https://github.com/banyanops/collector) — Run arbitrary scripts inside containers, and gather useful information.
+*   [Docker Label Inspector (⭐80)](https://github.com/garethr/docker-label-inspector) — Lint and validate Dockerfile labels.
+*   [grunt-bootlint (⭐64)](https://github.com/twbs/grunt-bootlint) — A Grunt wrapper for [Bootlint (⭐2.4k)](https://github.com/twbs/bootlint), the HTML linter for Bootstrap projects.
+*   [gulp-bootlint (⭐41)](https://github.com/tschortsch/gulp-bootlint) — A gulp wrapper for [Bootlint (⭐2.4k)](https://github.com/twbs/bootlint), the HTML linter for Bootstrap projects.
+*   [android-lint-summary](https://passy.github.io/android-lint-summary) — Combines lint errors of multiple projects into one output, check lint results of multiple sub-projects at once.
+*   [paprika (⭐71)](https://github.com/GeoffreyHecht/paprika) — A toolkit to detect some code smells in analyzed Android applications.
+*   [qark (⭐3.1k)](https://github.com/linkedin/qark) — Tool to look for several security related Android application vulnerabilities.
 *   [solhint](https://protofire.github.io/solhint) — Solhint is an open source project created by <https://protofire.io>. Its goal is to provide a linting utility for Solidity code.
 
 ### Multiple languages / [Other](#other-1)
 
-*   [Atom-Beautify](https://atom.io/packages/atom-beautify) :warning: — Beautify HTML, CSS, JavaScript, PHP, Python, Ruby, Java, C, C++, C#, Objective-C, CoffeeScript, TypeScript, Coldfusion, SQL, and more in Atom editor.
-*   [coala](https://coala.io) :warning: — Language independent framework for creating code analysis - supports [over 60 languages](https://coala.io/languages) by default.
-*   [cqc (⭐326)](https://github.com/xcatliu/cqc) :warning: — Check your code quality for js, jsx, vue, css, less, scss, sass and styl files.
-*   [include-gardener (⭐72)](https://github.com/feddischson/include_gardener) :warning: — A multi-language static analyzer for C/C++/Obj-C/Python/Ruby to create a graph (in dot or graphml format) which shows all `#include` relations of a given set of files.
+*   [Atom-Beautify](https://atom.io/packages/atom-beautify) — Beautify HTML, CSS, JavaScript, PHP, Python, Ruby, Java, C, C++, C#, Objective-C, CoffeeScript, TypeScript, Coldfusion, SQL, and more in Atom editor.
+*   [coala](https://coala.io) — Language independent framework for creating code analysis - supports [over 60 languages](https://coala.io/languages) by default.
+*   [cqc (⭐326)](https://github.com/xcatliu/cqc) — Check your code quality for js, jsx, vue, css, less, scss, sass and styl files.
+*   [include-gardener (⭐72)](https://github.com/feddischson/include_gardener) — A multi-language static analyzer for C/C++/Obj-C/Python/Ruby to create a graph (in dot or graphml format) which shows all `#include` relations of a given set of files.
 *   [pfff (⭐2.4k)](https://github.com/facebookarchive/pfff/wiki/Main) :warning: — Facebook's tools for code analysis, visualizations, or style-preserving source transformation for many languages.
-*   [Refactoring Essentials](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.RefactoringEssentialsforVisualStudio) :warning: — The free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers.
-*   [Wotan (⭐281)](https://github.com/fimbullinter/wotan) :warning: — Pluggable TypeScript and JavaScript linter.
+*   [Refactoring Essentials](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.RefactoringEssentialsforVisualStudio) — The free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers.
+*   [Wotan (⭐281)](https://github.com/fimbullinter/wotan) — Pluggable TypeScript and JavaScript linter.
 
-## [44. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
+## [42. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 
 ### [Advanced GitHub Notifier (⭐78)](https://github.com/freaktechnik/advanced-github-notifier) <a href="https://addons.mozilla.org/firefox/addon/advanced-github-notifier/?src=external-awesome"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
 
-Installs: 132 | Stars: 78 | Last update: 2 Jun 2023
+Installs: 137 | Stars: 78 | Last update: 2 Jun 2023
 ### [Autoviewed (⭐8)](https://github.com/Luismahou/autoviewed) <a href="https://chrome.google.com/webstore/detail/autoviewed/occcjmolphcfebdeichmoflmfgeefjef"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Removes clutter from your pull request by automatically marking as viewed files that aren't worth reviewing.
 
-Installs: 39 | Stars: 8 | Last update: 14 Feb 2022
+Installs: 39 | Stars: 8 | Last update: n/a
 ### [CodeWing (⭐61)](https://github.com/codewing-dev/codewing) <a href="https://chrome.google.com/webstore/detail/codewing-github-code-navi/njkkfaliiinmkcckepjdmgbmjljfdeee"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Next level code navigation for GitHub.
 
-Installs: 599 | Stars: 61 | Last update: 20 Jul 2022
+Installs: 599 | Stars: 61 | Last update: n/a
 ### [Codeflower (⭐14)](https://github.com/code-flower/chrome) <a href="https://chrome.google.com/webstore/detail/codeflower/mnlengnbfpfgcfdgfpkjekoaeophmmeh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/codeflower/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Visualize GitHub repos as d3 force-directed graphs. The extension gives you a quick overview of the size and composition of any repo.
 
-Installs: 234 | Stars: 14 | Last update: 26 Apr 2022
+Installs: 20 | Stars: 14 | Last update: 25 Apr 2022
 ### [CoderStats link for GitHub (⭐20)](https://github.com/coderstats/cxt_coderstats) <a href="https://chrome.google.com/webstore/detail/coderstats-link-for-githu/necogepejonacpphmlmcagmbjaogpbng"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/coderstats/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 The CoderStats link for GitHub Chrome extension displays a link to the CoderStats page for the currently displayed user or organization profile page on GitHub.
 
-Installs: 806 | Stars: 20 | Last update: 2 May 2023
+Installs: 15 | Stars: 20 | Last update: 2 May 2023
 ### [Contributors on GitHub (⭐458)](https://github.com/hzoo/contributors-on-github) <a href="https://chrome.google.com/webstore/detail/contributors-on-github/cjbacdldhllelehomkmlniifaojgaeph"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/contributor-on-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be helpful for maintainers that want to know if it's a contributor's first PR.
 
-Installs: 328 | Stars: 458 | Last update: 1 Mar 2021
+Installs: 8 | Stars: 458 | Last update: 1 Mar 2021
 ### [Enhanced GitHub (⭐2k)](https://github.com/softvar/enhanced-github) <a href="https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/enhanced-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/enhanced-github/eibibhailjcnbpjmemmcaakcookdleon"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
 
 Displays size of each file, download link and an option of copying file contents directly to clipboard
 
-Installs: 40673 | Stars: 1958 | Last update: 25 Dec 2021
+Installs: 648 | Stars: 1965 | Last update: 22 Apr 2021
 ### [GIFs for GitHub (⭐167)](https://github.com/N1ck/gifs-for-github) <a href="https://chrome.google.com/webstore/detail/gifs-for-github/dkgjnpbipbdaoaadbdhpiokaemhlphep"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/gifs-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Easily search GIPHY to add a GIF into any GitHub comment box.
 
-Installs: 10535 | Stars: 167 | Last update: 20 Jan 2024
+Installs: 536 | Stars: 167 | Last update: 18 Jan 2024
 ### [Git History (⭐13k)](https://github.com/pomber/git-history) <a href="https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-history/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Quickly browse the history of a file from any git repository.
 
-Installs: 7216 | Stars: 13463 | Last update: 14 Oct 2023
+Installs: 210 | Stars: 13465 | Last update: 13 Oct 2023
 ### [GitHub Code Folding (⭐289)](https://github.com/noam3127/github-code-folding) <a href="https://chrome.google.com/webstore/detail/github-code-folding/lefcpjbffalgdcdgidjdnmabfenecjdf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-code-folding"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Code folding - the ability to selectively hide and display sections of a code - is an invaluable feature in many text editors and IDEs. Now, developers can utilize that same style code-folding while poring over source code on the web in GitHub. Works for any type of indentation- spaces or tabs.
 
-Installs: 3125 | Stars: 289 | Last update: 14 Jul 2022
+Installs: 122 | Stars: 289 | Last update: 12 Jan 2017
 ### [GitHub Custom Tab Size (⭐67)](https://github.com/lukechilds/github-custom-tab-size) <a href="https://chrome.google.com/webstore/detail/github-custom-tab-size/jcjfkmdkcaopkioccnpbhiemfcmpnghe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Set custom tab size for code view on GitHub.com
 
-Installs: 558 | Stars: 67 | Last update: 6 May 2019
+Installs: 558 | Stars: 67 | Last update: n/a
 ### [GitHub Diff Navigator (⭐19)](https://github.com/daattali/github-diff-navigator-extension) <a href="https://chrome.google.com/webstore/detail/diff-navigator-for-github/aoojogkiedabnddmokieplfnmjehlneo"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/addon/diff-navigator-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Easily navigate through the changes in a file that has been edited on GitHub.
 
-Installs: 195 | Stars: 19 | Last update: 28 Apr 2023
+Installs: 3 | Stars: 19 | Last update: 24 Jun 2020
 ### [GitHub File Icon (⭐1.4k)](https://github.com/homerchen19/github-file-icons) <a href="https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 A browser extension which gives different filetypes different icons on GitHub.
 
-Installs: 20000 | Stars: 1365 | Last update: 22 Aug 2023
+Installs: 20000 | Stars: 1365 | Last update: n/a
 ### [GitHub Hovercard (⭐1.8k)](https://github.com/Justineo/github-hovercard) <a href="https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/github-hovercard/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a> <a href="https://github.com/Justineo/github-hovercard/tree/master/extensions/edge"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
 
 Neat hovercards for GitHub.
 
-Installs: 26637 | Stars: 1797 | Last update: 12 May 2021
+Installs: 17738 | Stars: 1797 | Last update: n/a
 ### [GitHub Issue Link Status (⭐295)](https://github.com/fregante/github-issue-link-status) <a href="https://chrome.google.com/webstore/detail/github-issue-link-status/nbiddhncecgemgccalnoanpnenalmkic"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-issue-link-status/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Colorize issue and PR links to see their status (open, closed, merged).
 
-Installs: 922 | Stars: 295 | Last update: 15 Dec 2023
+Installs: 103 | Stars: 296 | Last update: 9 Dec 2023
 ### [GitHub Npm Stats (⭐57)](https://github.com/katranci/github-npm-stats) <a href="https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Displays npm package stats on GitHub
 
-Installs: 606 | Stars: 57 | Last update: 31 May 2020
+Installs: 606 | Stars: 57 | Last update: n/a
 ### [GitHub Red Issues (⭐38)](https://github.com/KatsuteDev/GitHub-Red-Issues) <a href="https://chrome.google.com/webstore/detail/github-red-issues/kjbbjibfgnnfdeabgmbieapkhpojikpc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-red-issues"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Revert closed GitHub issues from purple back to red
 
-Installs: 28 | Stars: 38 | Last update: 3 Feb 2024
+Installs: 2 | Stars: 38 | Last update: 3 Feb 2024
 ### [GitHub Repo Size (⭐1.2k)](https://github.com/harshjv/github-repo-size) <a href="https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Automatically adds repository size to GitHub's repository summary.
 
-Installs: 20000 | Stars: 1189 | Last update: 26 Jun 2020
+Installs: 20000 | Stars: 1188 | Last update: n/a
 ### [GitHub Story Points (⭐60)](https://github.com/banyan/github-story-points) <a href="https://chrome.google.com/webstore/detail/github-story-points/fdhfdpafombnahpjjjcfopmehfofbdko"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-story-points/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Chrome extension to see story points in GitHub projects.
 
-Installs: 611 | Stars: 60 | Last update: 17 Aug 2020
+Installs: 17 | Stars: 60 | Last update: 16 Aug 2020
 ### [GitHub User Languages (⭐48)](https://github.com/freyamade/github-user-languages) <a href="https://chrome.google.com/webstore/detail/github-user-languages/kikdmnikeponomghepmfipgiijlmfhfl"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-user-languages/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Generates a pie chart on user profile pages displaying a breakdown of what languages they have used in their repositories.
 
-Installs: 944 | Stars: 48 | Last update: 25 Sep 2023
+Installs: 41 | Stars: 48 | Last update: 25 Sep 2023
 ### [GitHub Writer (⭐362)](https://github.com/ckeditor/github-writer) <a href="https://chrome.google.com/webstore/detail/github-writer/diilnnhpcdjhhkjcbdljaonhmhapadap"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-writer/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 This extension adds the simplicity of WYSIWYG editing to issues, comments, pull requests, wikis and discussions in GitHub. It accepts Markdown input and offers productive writing, starting with tables.
 
-Installs: 2123 | Stars: 362 | Last update: 14 Nov 2023
+Installs: 115 | Stars: 362 | Last update: 14 Nov 2023
 ### [GitHub vscode-icons (⭐289)](https://github.com/dderevjanik/github-vscode-icons) <a href="https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-vscode-icons/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Show [vscode-icons (⭐4.3k)](https://github.com/vscode-icons/vscode-icons) in the repository browser.
 
-Installs: 2000 | Stars: 289 | Last update: 30 Sep 2021
+Installs: 2000 | Stars: 289 | Last update: n/a
 ### [GitZip for github (⭐35)](https://github.com/GitZip/chrome-extension) <a href="https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/gitzip/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 It can make the sub-directories and files of github repository as zip and download it
 
-Installs: 103413 | Stars: 35 | Last update: 21 Aug 2023
+Installs: 3382 | Stars: 35 | Last update: 21 Aug 2023
 ### [Github Saved Filters](https://www.producthunt.com/posts/github-saved-filters) <a href="https://chrome.google.com/webstore/detail/github-saved-filters/pmkbippobcmchabghaeonfbbcncjhmjm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Create, save, edit, pin, search and delete filters that you commonly use on the Github Issues and Pull Requests pages. You are able to scope filters to be shown globally (on each repo) or only have them show up on the repo you create them on. Pinning filters is also a feature that this extension allows you to do. So if you have several filters you use daily - you have a way to quickly access them, at the top of your list.
 
-Installs: 553 | Stars: n/a | Last update: 22 Aug 2022
+Installs: 553 | Stars: n/a | Last update: n/a
 ### [GithubOriginalStreak (⭐227)](https://github.com/Naramsim/GithubOriginalStreak) <a href="https://chrome.google.com/webstore/detail/github-original-streak/jgfeifpakohnblfnjdpigclinhbkocja"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-original-streak/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://addons.opera.com/it/extensions/details/github-original-streak/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
 Extension to get back current and longest streak.
 
-Installs: 670 | Stars: 227 | Last update: 10 Jan 2023
+Installs: 35 | Stars: 227 | Last update: 30 Jun 2021
 ### [Hide files on GitHub (⭐317)](https://github.com/sindresorhus/hide-files-on-github) <a href="https://chrome.google.com/webstore/detail/hide-files-on-github/lpnakhpaodhdkleejaehlapdhbgjbddp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/hide-files-on-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://github.com/sindresorhus/hide-files-on-github#install"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
 Hide dotfiles from the GitHub file browser.
 
-Installs: 702 | Stars: 317 | Last update: 17 Sep 2021
+Installs: 41 | Stars: 317 | Last update: 16 Sep 2021
 ### [Like On GitHub (⭐234)](https://github.com/Idnan/like-on-github) <a href="https://chrome.google.com/webstore/detail/like-on-github/fbkngleiiccokoifohhjhlagkejlphkj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Chrome extension that adds a button in browser and links this button to a GitHub repository that you will configure, then on any webpage just click this extension button and it will add the given link with the title of the page in that repository.
 
-Installs: 57 | Stars: 234 | Last update: 26 May 2018
+Installs: 57 | Stars: 235 | Last update: n/a
 ### [Lovely forks (⭐571)](https://github.com/musically-ut/lovely-forks) <a href="https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/lovely-forks/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://github.com/musically-ut/lovely-forks/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
 See forks with the most stars under the names of repositories.
 
-Installs: 1342 | Stars: 572 | Last update: 6 Nov 2023
+Installs: 348 | Stars: 573 | Last update: 4 Jul 2021
 ### [Material Icons for Github (⭐416)](https://github.com/Claudiohbsantos/github-material-icons-extension) <a href="https://chrome.google.com/webstore/detail/material-icons-for-github/bggfcpfjbdkhfhfmkjpbhnkhnpjjeomc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/material-icons-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/material-icons-for-github/khckkdgomkcjjnpgjmdmbceiddlmiolb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
 
 Show Material icons for files/folders in repository file viewer. Display the same icons from vscode-material-icon-theme VSCode extension.
 
-Installs: 10750 | Stars: 416 | Last update: 10 Jan 2024
+Installs: 758 | Stars: 421 | Last update: 20 Feb 2024
 ### [My Git Repo News (⭐15)](https://github.com/greybax/github-extension-my-repo-news) <a href="https://chrome.google.com/webstore/detail/my-git-repo-news/bpijgihicffjpcnjndpcdicohomlfbhp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Chrome extension which helps you not to miss important changes in your news thread related to your repo
 
-Installs: 17 | Stars: 15 | Last update: 1 Oct 2018
+Installs: 17 | Stars: 15 | Last update: n/a
 ### [Notifications Preview for GitHub (⭐140)](https://github.com/tanmayrajani/notifications-preview-github) <a href="https://chrome.google.com/webstore/detail/notifications-preview-for/kgilejfahkjidpaclkepbdoeioeohfmj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/notifications-preview-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 A Chrome and Firefox extension to quickly see your notifications in a popup without leaving the current page.
 
-Installs: 421 | Stars: 140 | Last update: 6 Apr 2023
+Installs: 75 | Stars: 140 | Last update: 6 Apr 2023
 ### [Notifier for GitHub (⭐1.8k)](https://github.com/sindresorhus/notifier-for-github) <a href="https://chrome.google.com/webstore/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/notifier-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://github.com/sindresorhus/notifier-for-github#install"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
 Displays your GitHub notifications unread count. Supports GitHub Enterprise and an option to only show unread count for issues you're participating in. You can click the icon to quickly see your unread notifications.
 
-Installs: 10566 | Stars: 1766 | Last update: 12 Jul 2023
+Installs: 556 | Stars: 1768 | Last update: 12 Jul 2023
 ### [OctoLenses (⭐135)](https://github.com/rgehan/octolenses) <a href="https://chrome.google.com/webstore/detail/octolenses/ghlblfakaklgkdmfejdlffbmpcaidoci"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-octolenses/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Filter your pull requests/issues in different categories giving you a big boost in productivity. Also suggests new trending repositories.
 
-Installs: 101 | Stars: 135 | Last update: 5 Jan 2024
+Installs: 3 | Stars: 135 | Last update: 16 Jan 2020
 ### [OctoLinker (⭐5.2k)](https://github.com/OctoLinker/OctoLinker) <a href="https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/octolinker/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/octolinker/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/octolinker/id1549308269"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/lbbanfffjfmfdahnfbklminikafhcjjb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
 
 OctoLinker is the easiest and best way to navigate between files and projects on GitHub. It supports languages such as JavaScript, Ruby, Go, PHP, JAVA and more. It works with package.json as well as with Gemfiles.
 
-Installs: 32774 | Stars: 5222 | Last update: 13 Nov 2022
+Installs: 12783 | Stars: 5223 | Last update: 13 Nov 2022
 ### [OctoPermalinker (⭐23)](https://github.com/josephfrazier/octopermalinker) <a href="https://chrome.google.com/webstore/detail/octopermalinker/bcnkgcoohaaaclieohdlkphgfinkgbfm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 OctoPermalinker is a browser extension that searches GitHub comments/files for links to files on branches, and adds a link to where the branch pointed when the comment/file was made/updated. This helps you avoid following a link that was broken after being posted. For context, here's some discussion about broken GitHub links: [Don't link to line numbers in GitHub](https://news.ycombinator.com/item?id=8046710).
 
 For example, suppose you're looking at a gist that links to a file on the master branch of a repo. At the time the gist was made, the link worked, but if the file gets removed, the link is broken. OctoPermalinker uses the gist creation date to add a permalink that still works.
 
-Installs: 232 | Stars: 23 | Last update: 20 May 2017
+Installs: 232 | Stars: 23 | Last update: n/a
 ### [Octotree (⭐23k)](https://github.com/ovity/octotree) <a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://github.com/ovity/octotree#install-on-safari"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
 Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.
 
-Installs: 337292 | Stars: 22630 | Last update: 4 Jan 2024
+Installs: 37144 | Stars: 22641 | Last update: 4 Jan 2024
 ### [PR Monitor (⭐111)](https://github.com/fwouts/prmonitor) <a href="https://chrome.google.com/webstore/detail/pr-monitor/pneldbfhblmldbhmkolclpkijgnjcmng"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/pr-monitor/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Helps you keep track of incoming and outgoing PRs, and notifies you when you receive a pull request on GitHub.
 
-Installs: 764 | Stars: 111 | Last update: 21 Jun 2023
+Installs: 44 | Stars: 112 | Last update: 21 Jun 2023
 ### [Potential changes for GitHub (⭐96)](https://github.com/dzhavat/potential-changes-for-github) <a href="https://chrome.google.com/webstore/detail/potential-changes-for-git/neehipoljbecacjcgcceflmlikiadkob"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/potential-changes-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Browser extension that shows which pull requests contain changes related to a file.
 
-Installs: 45 | Stars: 96 | Last update: 15 Oct 2020
+Installs: 3 | Stars: 96 | Last update: 15 Oct 2020
 ### [Refined GitHub (⭐23k)](https://github.com/refined-github/refined-github) <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/refined-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/id1519867270"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
 Extension that simplifies the GitHub interface and adds useful features.
 
-Installs: 78679 | Stars: 22586 | Last update: 8 Feb 2024
+Installs: 8553 | Stars: 22679 | Last update: 8 Feb 2024
 ### [Render Whitespace on GitHub (⭐74)](https://github.com/glebm/render-whitespace-on-github) <a href="https://chrome.google.com/webstore/detail/ifdbipohclgnokjgpejhnbjdlgjkkhom"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-GB/firefox/addon/render-whitespace-on-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Are they tabs? Are they spaces? How many? Never wonder again! Renders spaces as `·` and tabs as `→` in all the code on GitHub.
 
-Installs: 612 | Stars: 74 | Last update: 25 Aug 2018
+Installs: 24 | Stars: 74 | Last update: 25 Aug 2018
 ### [Sourcegraph (⭐9.4k)](https://github.com/sourcegraph/sourcegraph/tree/main/client/browser) <a href="https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/sourcegraph-for-firefox/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/us/app/sourcegraph-for-safari/id1543262193"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
 The Sourcegraph browser extension gives GitHub IDE-like powers when you're viewing code, pull requests, and diffs:
@@ -928,44 +900,44 @@ The Sourcegraph browser extension gives GitHub IDE-like powers when you're viewi
 4.  Hover tooltips
 5.  File tree navigation
 
-Installs: 100949 | Stars: 9449 | Last update: 12 Dec 2023
+Installs: 905 | Stars: 9505 | Last update: 14 Apr 2023
 ### [What's New on GitHub (⭐32)](https://github.com/flawyte/whats-new-github) <a href="https://chrome.google.com/webstore/detail/whats-new-on-github/ldleapnlgbkpkabhbkkeangmnfpikahe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/fr/firefox/addon/whats-new-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Helps you see easily which activities happened since you last visited GitHub.
 
-Installs: 164 | Stars: 32 | Last update: n/a
+Installs: 4 | Stars: 32 | Last update: n/a
 ### [WorkerB for Pull Requests](https://github.com/stefanbuck/awesome-browser-extensions-for-github/blob/main/README.md/undefined) <a href="https://chrome.google.com/webstore/detail/workerb-for-pull-requests/cagholjopklnloocclidppnkmpnkghja"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Generate a magic link for your PR and post it on shared Slack channel, to entice reviewers to pick up your PR faster!
 
-Installs: 1000 | Stars: n/a | Last update: 16 Jan 2024
+Installs: 1000 | Stars: n/a | Last update: n/a
 ### [eesel: The new tab for GitHub](https://www.eesel.app/) <a href="https://chrome.google.com/webstore/detail/eesel-the-new-tab-for-wor/jffaiidojfhflballoapgofphkadiono"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/eesel/reviews/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 All your issues, PRs, repos and other work documents right in your new tab
 
-Installs: 20171 | Stars: n/a | Last update: 17 Oct 2023
+Installs: 170 | Stars: n/a | Last update: n/a
 ### [gitako - github file tree (⭐2.3k)](https://github.com/enixcoda/gitako) <a href="https://chrome.google.com/webstore/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/gitako-github-file-tree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/gitako-github-file-tree/alpoloddcggjhakjemghahlkofjekbca"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
 
 file tree for github, and more than that.
 
-Installs: 10364 | Stars: n/a | Last update: 15 Dec 2023
+Installs: 344 | Stars: n/a | Last update: 15 Dec 2023
 ### [gitpod - dev environments in a browser tab (⭐131)](https://github.com/gitpod-io/browser-extension) <a href="https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/gitpod/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 gitpod streamlines developer workflows by providing ready-to-code development environments in your browser - powered by vs code.
 
-Installs: 52461 | Stars: 131 | Last update: 18 Jan 2024
+Installs: 2398 | Stars: 132 | Last update: 14 Feb 2024
 ### [npmhub (⭐735)](https://github.com/npmhub/npmhub) <a href="https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/npm-hub/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/npmhub/id1542090429"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
 When viewing a repository on github.com that has a package.json file, this extension will introspect the dependencies in package.json and display links and description for each dependency, just below the repo's README.
 
-Installs: 2088 | Stars: 736 | Last update: 20 Dec 2023
+Installs: 88 | Stars: 737 | Last update: 20 Dec 2023
 ### [xhub (⭐88)](https://github.com/nschloe/xhub) <a href="https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Extends GitHub pages with math, diagrams, embedded YouTube videos etc.
 
-Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
+Installs: 426 | Stars: 88 | Last update: n/a
 
-## [45. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [43. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Testing / React
 
@@ -975,7 +947,7 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 
 *   [Stargate](https://stargate.io/docs/latest/quickstart/qs-graphql-cql-first.html) - Open source data gateway currently supporting Apache Cassandra® and DataStax Enterprise.
 
-## [46. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [44. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Automation / DSL
 
@@ -1004,20 +976,20 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 
 *   [Performance Testing with JMeter 2.9](https://books.google.com/books?id=fpWmv3wPT64C) - By Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-29/9781782165842)); guide to test web applications using Apache JMeter with practical, hands-on examples.
 
-## [47. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [45. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Others / Third-party APIs
 
 *   [lisp-pay (⭐21)](https://github.com/K1D77A/lisp-pay) - Wrappers around various payment processors: Paypal, Stripe, Coinpayments and BTCPayServer. [MIT](https://opensource.org/licenses/MIT).
 *   [lunamech-matrix-api (⭐6)](https://github.com/K1D77A/lunamech-matrix-api) - A complete wrapper over the Client -> Server Matrix API. [MIT](https://opensource.org/licenses/MIT).
 
-## [48. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [46. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [Receiving GOES-16 Images on a Raspberry Pi](https://gist.github.com/lxe/c1756ca659c3b78414149a3ea723eae2#file-goes16-rtlsdr-md) - An advanced project to receive weather imagery from the GOES-16 satellite using software defined radio (SDR).
 
-## [49. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [47. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Courses
 
@@ -1030,36 +1002,36 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 
 ### Libraries/Frameworks / Database
 
-*   [Litote/kmongo (⭐786)](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
-*   [dizitart/nitrite-database (⭐787)](https://github.com/dizitart/nitrite-database/tree/master/potassium-nitrite) - Potassium Nitrite is a kotlin extension of nitrite database, an open source nosql embedded document store with mongodb like api.
+*   [Litote/kmongo (⭐787)](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
+*   [dizitart/nitrite-database (⭐789)](https://github.com/dizitart/nitrite-database/tree/master/potassium-nitrite) - Potassium Nitrite is a kotlin extension of nitrite database, an open source nosql embedded document store with mongodb like api.
 
 ### Libraries/Frameworks / Tools
 
-*   [facebookincubator/ktfmt (⭐769)](https://github.com/facebookincubator/ktfmt) - Kotlin code formatter that reflows lines and always produces the same result.
+*   [facebookincubator/ktfmt (⭐777)](https://github.com/facebookincubator/ktfmt) - Kotlin code formatter that reflows lines and always produces the same result.
 
 ### Libraries/Frameworks / Game Development
 
-*   [zeganstyl/thelema-engine (⭐69)](https://github.com/zeganstyl/thelema-engine) - 3d graphics engine in Kotlin, based on sources of libGDX. Platforms: JVM, TeaVM, Kotlin/JS, Kotlin/Native. See live demo: <a href="https://zeganstyl.github.io/thelema-teavm-tests/">TeaVM</a>, <a href="https://zeganstyl.github.io/thelema-kxjs-demo/">Kotlin/JS</a>
+*   [zeganstyl/thelema-engine (⭐70)](https://github.com/zeganstyl/thelema-engine) - 3d graphics engine in Kotlin, based on sources of libGDX. Platforms: JVM, TeaVM, Kotlin/JS, Kotlin/Native. See live demo: <a href="https://zeganstyl.github.io/thelema-teavm-tests/">TeaVM</a>, <a href="https://zeganstyl.github.io/thelema-kxjs-demo/">Kotlin/JS</a>
 
 ### Libraries/Frameworks / Misc
 
 *   [ivanisidrowu/KtRssReader (⭐95)](https://github.com/ivanisidrowu/KtRssReader) - Kotlin library for parsing RSS feeds
-*   [krud-dev/shapeshift (⭐170)](https://github.com/krud-dev/shapeshift) - A Kotlin library for intelligent object mapping and conversion between objects.
-*   [pmwmedia/tinylog (⭐645)](https://github.com/pmwmedia/tinylog) - Lightweight logging framework with native logging API for Kotlin.
+*   [krud-dev/shapeshift (⭐171)](https://github.com/krud-dev/shapeshift) - A Kotlin library for intelligent object mapping and conversion between objects.
+*   [pmwmedia/tinylog (⭐647)](https://github.com/pmwmedia/tinylog) - Lightweight logging framework with native logging API for Kotlin.
 
 ### Libraries/Frameworks / Data Science
 
-*   [Kotlin/multik (⭐595)](https://github.com/Kotlin/multik) - A Kotlin library for working with multi-dimensional arrays
+*   [Kotlin/multik (⭐600)](https://github.com/Kotlin/multik) - A Kotlin library for working with multi-dimensional arrays
 
 ### Libraries/Frameworks / Command Line Interface
 
 *   [aPureBase/arkenv (⭐17)](https://github.com/aPureBase/arkenv) - Fully fledged command line arguments / environment variables parser via simple Kotlin delegates
 *   [dbaelz/Konclik (⭐46)](https://github.com/dbaelz/Konclik) - Konclik: Kotlin/Native Command Line Interface Kit
-*   [fork-handles/bunting4k (⭐167)](https://github.com/fork-handles/forkhandles/tree/trunk/bunting4k) - Simple, typesafe, testable command line flags
-*   [kotlin-inquirer (⭐181)](https://github.com/kotlin-inquirer/kotlin-inquirer) - A collection of common interactive command line user interfaces written in Kotlin
-*   [xenomachina/kotlin-argparser (⭐475)](https://github.com/xenomachina/kotlin-argparser) - Easy to use and concise yet powerful and robust command line argument parsing for Kotlin.
-*   [varabyte/kotter (⭐492)](https://github.com/varabyte/kotter) - A declarative, Kotlin-idiomatic API for writing dynamic command line applications
-*   [ajalt/mordant (⭐856)](https://github.com/ajalt/mordant) - Mordant - Full-featured text styling for Kotlin command line applications.
+*   [fork-handles/bunting4k (⭐170)](https://github.com/fork-handles/forkhandles/tree/trunk/bunting4k) - Simple, typesafe, testable command line flags
+*   [kotlin-inquirer (⭐182)](https://github.com/kotlin-inquirer/kotlin-inquirer) - A collection of common interactive command line user interfaces written in Kotlin
+*   [xenomachina/kotlin-argparser (⭐476)](https://github.com/xenomachina/kotlin-argparser) - Easy to use and concise yet powerful and robust command line argument parsing for Kotlin.
+*   [varabyte/kotter (⭐498)](https://github.com/varabyte/kotter) - A declarative, Kotlin-idiomatic API for writing dynamic command line applications
+*   [ajalt/mordant (⭐860)](https://github.com/ajalt/mordant) - Mordant - Full-featured text styling for Kotlin command line applications.
 *   [ajalt/clikt (⭐2.3k)](https://github.com/ajalt/clikt) - Clikt - Intuitive command line interface parsing for Kotlin.
 
 ### Libraries/Frameworks / Browsers
@@ -1073,16 +1045,16 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 
 ### Libraries/Frameworks / Internationalisation and Localization
 
-*   [cashapp/barber (⭐149)](https://github.com/cashapp/barber) - A type safe Kotlin JVM library for building up localized, fillable, themed documents using Mustache templating.
 *   [projectfluent/fluent-kotlin (⭐29)](https://github.com/projectfluent/fluent-kotlin) - Kotlin tooling implementation of ProjectFluent. Read, write, and transform Fluent files.
+*   [cashapp/barber (⭐152)](https://github.com/cashapp/barber) - A type safe Kotlin JVM library for building up localized, fillable, themed documents using Mustache templating.
 
 ### Libraries/Frameworks / Jetpack-Compose
 
-*   [CuriousNikhil/neumorphic-compose (⭐356)](https://github.com/CuriousNikhil/neumorphic-compose) - Neumorphism UI on Android with Jetpack Compose. Just add one modifier = Modifier.neumorphic()
+*   [CuriousNikhil/neumorphic-compose (⭐359)](https://github.com/CuriousNikhil/neumorphic-compose) - Neumorphism UI on Android with Jetpack Compose. Just add one modifier = Modifier.neumorphic()
 
 ### Projects / Web
 
-*   [sdeleuze/spring-boot-kotlin-demo (⭐604)](https://github.com/sdeleuze/spring-boot-kotlin-demo) - Basic Spring Boot app in Kotlin.
+*   [sdeleuze/spring-boot-kotlin-demo (⭐603)](https://github.com/sdeleuze/spring-boot-kotlin-demo) - Basic Spring Boot app in Kotlin.
 *   [IRus/kotlin-dev-proxy (⭐21)](https://github.com/IRus/kotlin-dev-proxy) - Simple server for proxy requests and host static files written in Kotlin, Spark Java and Apache HttpClient.
 *   [ratpack/example-ratpack-gradle-kotlin-app (⭐37)](https://github.com/ratpack/example-ratpack-gradle-kotlin-app) - An example of a Kotlin Ratpack app built with Gradle.
 *   [eddywm/KTFLITE (⭐178)](https://github.com/eddywm/KTFLITE) - Computer Vision on Android with Kotlin and Tensorflow Lite.
@@ -1096,7 +1068,7 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 
 ### Projects / Build tools
 
-*   [cbeust/kobalt (⭐428)](https://github.com/cbeust/kobalt) - Build system inspired by Gradle.
+*   [cbeust/kobalt (⭐427)](https://github.com/cbeust/kobalt) - Build system inspired by Gradle.
 *   [pubref/rules\_kotlin (⭐158)](https://github.com/pubref/rules_kotlin) - Bazel rules for Kotlin.
 
 ### Projects / Misc
@@ -1117,9 +1089,9 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 
 *   [ice1000/Dekoder (⭐21)](https://github.com/ice1000/Dekoder) - A kotlin music player, materially designed.
 *   [ice1000/dev-kt (⭐96)](https://github.com/ice1000/dev-kt) - DevC++-like cross-platform Kotlin IDE.
-*   [ruslanys/vkmusic (⭐34)](https://github.com/ruslanys/vkmusic) - JavaFX and Spring-Boot based application for grabbing music from VK.com.
+*   [ruslanys/vkmusic (⭐35)](https://github.com/ruslanys/vkmusic) - JavaFX and Spring-Boot based application for grabbing music from VK.com.
 *   [datalisk/datalisk](https://github.com/datalisk/datalisk) - A file sync and storage application with end-to-end encryption and multi-platform support.
-*   [yschimke/okurl (⭐125)](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
+*   [yschimke/okurl (⭐126)](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
 *   [pintowar/sudoscan (⭐6)](https://github.com/pintowar/sudoscan) - Scans and solves Sudoku Puzzles from images using AI
 *   [russellbanks/HashHash (⭐31)](https://github.com/russellbanks/HashHash) - A Multiplatform GUI for Hashing, written in Compose for Desktop.
 
@@ -1135,10 +1107,10 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 *   [vicboma1/GettingStartedKotlin (⭐40)](https://github.com/vicboma1/GettingStartedKotlin) - Learn the basics of getting started with kotlin.
 *   [vicboma1/Kotlin-Examples-Problems (⭐25)](https://github.com/vicboma1/Kotlin-Examples-Problems) - These are the simple solutions of the kotlin example problems online.
 *   [pakoito/FunctionalAndroidReference (⭐277)](https://github.com/pakoito/FunctionalAndroidReference) - A different Android app showcasing Functional Reactive Programming.
-*   [bmaslakov/kotlin-algorithm-club (⭐931)](https://github.com/bmaslakov/kotlin-algorithm-club) - Classic algorithms and data structures in Kotlin.
+*   [bmaslakov/kotlin-algorithm-club (⭐930)](https://github.com/bmaslakov/kotlin-algorithm-club) - Classic algorithms and data structures in Kotlin.
 *   [gyulavoros/kotlin-todomvc (⭐22)](https://github.com/gyulavoros/kotlin-todomvc) - Kotlin TodoMVC – full-stack Kotlin application demo
 *   [mkraynov/todomvc-react-kotlin (⭐10)](https://github.com/mkraynov/todomvc-react-kotlin) - React Kotlin TodoMVC – example based on create-react-kotlin-app and todomvc-react
-*   [IvanMwiruki/30-seconds-of-kotlin (⭐250)](https://github.com/IvanMwiruki/30-seconds-of-kotlin) - Useful Kotlin snippets you can understand quickly, using only the stdlib.
+*   [IvanMwiruki/30-seconds-of-kotlin (⭐251)](https://github.com/IvanMwiruki/30-seconds-of-kotlin) - Useful Kotlin snippets you can understand quickly, using only the stdlib.
 *   [xurxodev/integration-testing-kotlin-multiplatform-kata (⭐29)](https://github.com/xurxodev/integration-testing-kotlin-multiplatform-kata) - A full exercise to learn how to use stubbing HTTP in Kotlin multiplatform using Ktor and Ktor Client Mock.
 *   [rozkminiacz/KotlinUnitTesting (⭐115)](https://github.com/rozkminiacz/KotlinUnitTesting) - Kotlin Unit Testing Examples.
 *   [itmaginationdemos/KMM-Sample-App (⭐5)](https://github.com/itmaginationdemos/KMM-Sample-App) - A sample app written with the help of KMM (Kotlin Multiplatform). File System access, voice recording, and persistence.
@@ -1157,21 +1129,21 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 
 ### Projects / Playground
 
-*   [LouisCAD/kotlin-libraries-playground (⭐179)](https://github.com/LouisCAD/kotlin-libraries-playground)
+*   [LouisCAD/kotlin-libraries-playground (⭐180)](https://github.com/LouisCAD/kotlin-libraries-playground)
 
 ### Projects / Android
 
-*   [skydoves/themovies (⭐482)](https://github.com/skydoves/themovies) - A simple project for The Movie DB based on Kotlin MVVM clean architecture and material design & animations.
+*   [skydoves/themovies (⭐483)](https://github.com/skydoves/themovies) - A simple project for The Movie DB based on Kotlin MVVM clean architecture and material design & animations.
 *   [enricocid/Music-Player-GO](https://play.google.com/store/apps/details?id=com.iven.musicplayergo) - Simple yet fully-featured local music player aiming at simplicity and performance.
 *   [TonnyL/Mango (⭐654)](https://github.com/TonnyL/Mango) - An Android app for dribbble.com
-*   [SimonSchubert/LinuxCommandBibliotheca (⭐581)](https://github.com/SimonSchubert/LinuxCommandBibliotheca) - Android app which provides a bunch of useful Linux commands.
+*   [SimonSchubert/LinuxCommandBibliotheca (⭐596)](https://github.com/SimonSchubert/LinuxCommandBibliotheca) - Android app which provides a bunch of useful Linux commands.
 *   [SimonSchubert/NewsOut (⭐121)](https://github.com/SimonSchubert/NewsOut) - Android and iOS mobile client for Nextcloud News app
 *   [pranayairan/CoinBit (⭐54)](https://github.com/pranayairan/CoinBit) - CoinBit is completely free Bitcoin & cryptocurrency portfolio tracker app. It helps you over 4000+ cryptocurrencies on 150+ platforms including Binance, GDAX, Kraken etc
 *   \[MohsinAli0899/Book Summary App]\(<https://github.com/MohsinAli0899/Book> Summary App) - BookHub is an Android application that helps users to view books and add them to favorites.
 
 ### Android / Libraries
 
-*   [MarcinMoskala/ActivityStarter (⭐430)](https://github.com/MarcinMoskala/ActivityStarter)
+*   [MarcinMoskala/ActivityStarter (⭐429)](https://github.com/MarcinMoskala/ActivityStarter)
 *   [MarcinMoskala/KotlinPreferences (⭐51)](https://github.com/MarcinMoskala/KotlinPreferences)
 *   [MarcinMoskala/PreferenceHolder (⭐155)](https://github.com/MarcinMoskala/PreferenceHolder)
 *   [pawegio/KAndroid (⭐894)](https://github.com/pawegio/KAndroid)
@@ -1182,14 +1154,14 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 *   [BennyWang/KBinding (⭐410)](https://github.com/BennyWang/KBinding)
 *   [inaka/KillerTask (⭐26)](https://github.com/inaka/KillerTask)
 *   [grandstaish/paperparcel (⭐494)](https://github.com/grandstaish/paperparcel) - Boilerplate reduction library written specifically for working with Kotlin data classes on Android.
-*   [nitrico/LastAdapter (⭐776)](https://github.com/nitrico/LastAdapter) - Don't write a RecyclerView adapter again. Not even a ViewHolder!.
+*   [nitrico/LastAdapter (⭐777)](https://github.com/nitrico/LastAdapter) - Don't write a RecyclerView adapter again. Not even a ViewHolder!.
 *   [denisidoro/krouter (⭐122)](https://github.com/denisidoro/krouter) - A lightweight Android activity router.
 *   [metalabdesign/AsyncAwait (⭐407)](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1.
 *   [zserge/anvil (⭐1.4k)](https://github.com/zserge/anvil) - Minimal UI library for Android inspired by React.
 *   [robinchew/mvil (⭐6)](https://github.com/robinchew/mvil) - 'Virtual DOM' for Android inspired by Anvil.
 *   [DanielMartinus/Stepper-Touch (⭐677)](https://github.com/DanielMartinus/Stepper-Touch) - Fun playful Android stepper widget for counting, written in Kotlin.
 *   [infotech-group/android-drawable-dsl (⭐181)](https://github.com/infotech-group/android-drawable-dsl) - DSL for constructing the drawables in Kotlin instead of in XML.
-*   [zsmb13/MaterialDrawerKt (⭐517)](https://github.com/zsmb13/MaterialDrawerKt) - A DSL for creating Material Design navigation drawers without any XML.
+*   [zsmb13/MaterialDrawerKt (⭐516)](https://github.com/zsmb13/MaterialDrawerKt) - A DSL for creating Material Design navigation drawers without any XML.
 *   [DanielMartinus/Konfetti (⭐3k)](https://github.com/DanielMartinus/Konfetti) - Lightweight particle system to create realistic confetti
 *   [calintat/alps (⭐4)](https://github.com/calintat/alps) - Android library for preferences which includes property delegates and a custom DSL for definining preferences.
 *   [rakshakhegde/ObservableFlow (⭐27)](https://github.com/rakshakhegde/ObservableFlow) - Functional Constructs for Databinding + Kotlin + RxJava
@@ -1197,7 +1169,7 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 *   [line/clay (⭐121)](https://github.com/line/clay) - Clay is an Android library project that provides image trimming which is originally an UI component of LINE Creators Studio.
 *   [WindSekirun/RichUtilsKt (⭐173)](https://github.com/WindSekirun/RichUtilsKt) - Advancement Utils for Android Developer written in Kotlin.
 *   [TradeMe/MapMe (⭐844)](https://github.com/TradeMe/MapMe) - A library that brings the adapter pattern and DiffUtil to Google Maps and MapBox.
-*   [iglaweb/Ferris-Wheel (⭐321)](https://github.com/iglaweb/Ferris-Wheel) - Simple android library to present an animated ferris wheel
+*   [iglaweb/Ferris-Wheel (⭐320)](https://github.com/iglaweb/Ferris-Wheel) - Simple android library to present an animated ferris wheel
 *   [ehsunshine/colored-time-selector (⭐152)](https://github.com/ehsunshine/colored-time-selector) - A smart colored time selector. Users can select just free time with a handy colorful range selector.
 *   [yundom/kache (⭐24)](https://github.com/yundom/kache) - A lightweight cache library written in Kotlin.
 *   [adrielcafe/KBus (⭐46)](https://github.com/adrielcafe/KBus) - Dead simple EventBus for Android made with Kotlin and RxJava 2
@@ -1207,16 +1179,16 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 *   [WindSekirun/RxSocialLogin (⭐126)](https://github.com/WindSekirun/RxSocialLogin) - This Android library is a library that provides social login for 15 platforms powered by RxJava2, Kotlin and Firebase Authentication.
 *   [bakhtiyork/gradients (⭐51)](https://github.com/bakhtiyork/gradients) - A curated collection of splendid gradients
 *   [hpost/rx-brainwaves (⭐5)](https://github.com/hpost/rx-brainwaves) - RxJava wrapper for NeuroSky MindWave headsets
-*   [adrielcafe/KrumbsView (⭐184)](https://github.com/adrielcafe/KrumbsView) - The ultimate breadcrumbs view for Android!
+*   [adrielcafe/KrumbsView (⭐185)](https://github.com/adrielcafe/KrumbsView) - The ultimate breadcrumbs view for Android!
 *   [inshiro/Skate (⭐9)](https://github.com/inshiro/Skate) - A simple and easy to use Android fragment stack controller
 *   [cortinico/slidetoact (⭐1.1k)](https://github.com/cortinico/slidetoact) - A simple 'Slide to Unlock' Material widget for Android, written in Kotlin
 *   [AppIntro/AppIntro (⭐10k)](https://github.com/AppIntro/AppIntro) - Make a cool/material intro for you Android App - Now all in Kotlin!
 *   [CuriousNikhil/gossip (⭐14)](https://github.com/CuriousNikhil/gossip) - Android TextToSpeech Helper to speak any text you want and handle events.
 *   [adrielcafe/PufferDB (⭐97)](https://github.com/adrielcafe/PufferDB) - An Android & JVM key-value storage powered by Protobuf and Coroutines.
-*   [adrielcafe/HAL (⭐76)](https://github.com/adrielcafe/HAL) - A non-deterministic finite-state machine for Android & JVM that won't let you down.
+*   [adrielcafe/HAL (⭐77)](https://github.com/adrielcafe/HAL) - A non-deterministic finite-state machine for Android & JVM that won't let you down.
 *   [coil-kt/coil (⭐10k)](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
 *   [levibostian/Shutter-Android (⭐55)](https://github.com/levibostian/Shutter-Android) - an Android library to take photos, record videos, pick images/videos from gallery, with ease. Written in Kotlin.
-*   [rosariopfernandes/firecoil (⭐43)](https://github.com/rosariopfernandes/firecoil) - Display images stored in Cloud Storage for Firebase using Coil.
+*   [rosariopfernandes/firecoil (⭐44)](https://github.com/rosariopfernandes/firecoil) - Display images stored in Cloud Storage for Firebase using Coil.
 *   [skydoves/Only (⭐485)](https://github.com/skydoves/Only) - An easy way to persist and run code block only as many times as necessary on Android.
 *   [skydoves/AndroidVeil (⭐1.4k)](https://github.com/skydoves/AndroidVeil) - An easy, flexible way to implement veil skeletons and shimmering effect for Android.
 *   [skydoves/Submarine (⭐471)](https://github.com/skydoves/Submarine) - Fully customizable floating navigation view for listing items dynamically on Android.
@@ -1228,11 +1200,11 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 *   [evilthreads669966/EasyShells](https://github.com/evilthreads669966/EasyShells) - A simple shell for executing Linux commands with responses
 *   [mr-wizman/Consent (⭐4)](https://github.com/mr-wizman/Consent) - Easy Android permissions. Powered by Kotlin.
 *   [matteocrippa/Parrot (⭐22)](https://github.com/matteocrippa/Parrot) - A lightweight library to load remote image and handle caching in ImageView.
-*   [deva666/peko (⭐147)](https://github.com/deva666/peko) - Android library for requesting runtime permissions with Kotlin Coroutines
+*   [deva666/peko (⭐148)](https://github.com/deva666/peko) - Android library for requesting runtime permissions with Kotlin Coroutines
 *   [MackHartley/DashedView (⭐67)](https://github.com/MackHartley/DashedView) - The easiest way to create a dashed or striped background on Android
-*   [MackHartley/RoundedProgressBar (⭐682)](https://github.com/MackHartley/RoundedProgressBar) - A customizable, animated progress bar that features rounded corners. This Android library is designed to look great and be simple to use
-*   [developingdeveloper-tech/toaster-android (⭐27)](https://github.com/developingdeveloper-tech/toaster-android) - A simple library to add custom toast to android applications.
-*   [heart-switch (⭐53)](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch component for Jetpack Compose
+*   [MackHartley/RoundedProgressBar (⭐692)](https://github.com/MackHartley/RoundedProgressBar) - A customizable, animated progress bar that features rounded corners. This Android library is designed to look great and be simple to use
+*   [developingdeveloper-tech/toaster-android (⭐28)](https://github.com/developingdeveloper-tech/toaster-android) - A simple library to add custom toast to android applications.
+*   [heart-switch (⭐54)](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch component for Jetpack Compose
 
 ### Android / Frameworks
 
@@ -1245,10 +1217,10 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 
 ### Android / Projects
 
-*   [BanDev/Buddha-Quotes (⭐31)](https://github.com/BanDev/Buddha-Quotes) - A collaborative project to create a Free and Open Source Buddha Quotes app.
+*   [BanDev/Buddha-Quotes (⭐32)](https://github.com/BanDev/Buddha-Quotes) - A collaborative project to create a Free and Open Source Buddha Quotes app.
 *   [antoniolg/Bandhook-Kotlin (⭐1.9k)](https://github.com/antoniolg/Bandhook-Kotlin) - A showcase music app for Android entirely written using Kotlin language.
 *   [antoniolg/Kotlin-for-Android-Developers (⭐2.7k)](https://github.com/antoniolg/Kotlin-for-Android-Developers) - Companion App for the book "Kotlin Android Developers".
-*   [damianpetla/kotlin-dagger-example (⭐533)](https://github.com/damianpetla/kotlin-dagger-example) - Example of Android project showing integration with Kotlin and Dagger 2.
+*   [damianpetla/kotlin-dagger-example (⭐534)](https://github.com/damianpetla/kotlin-dagger-example) - Example of Android project showing integration with Kotlin and Dagger 2.
 *   [dodyg/AndroidRivers (⭐319)](https://github.com/dodyg/AndroidRivers) - RSS Readers for Android.
 *   [MakinGiants/banjen (⭐11)](https://github.com/MakinGiants/banjen) - Android app to help to tune a banjo.
 *   [inaka/kotlillon (⭐33)](https://github.com/inaka/kotlillon) - Android Kotlin Examples.
@@ -1259,11 +1231,11 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 *   [ziggy42/Blum-kotlin (⭐80)](https://github.com/ziggy42/Blum-kotlin) - A simple android Twitter client written in Kotlin
 *   [TwidereProject/Twidere-Android (⭐2.8k)](https://github.com/TwidereProject/Twidere-Android) - Material Design ready and feature rich Twitter app for Android 4.0+
 *   [SimpleMobileTools/Simple-Calendar (⭐3.4k)](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, customizable widget and no ads.
-*   [SimpleMobileTools/Simple-Camera (⭐727)](https://github.com/SimpleMobileTools/Simple-Camera) - A camera with flash, zoom and no ads.
-*   [SimpleMobileTools/Simple-Draw (⭐495)](https://github.com/SimpleMobileTools/Simple-Draw) - A canvas you can draw on with different colors.
+*   [SimpleMobileTools/Simple-Camera (⭐728)](https://github.com/SimpleMobileTools/Simple-Camera) - A camera with flash, zoom and no ads.
+*   [SimpleMobileTools/Simple-Draw (⭐496)](https://github.com/SimpleMobileTools/Simple-Draw) - A canvas you can draw on with different colors.
 *   [SimpleMobileTools/Simple-File-Manager (⭐1.4k)](https://github.com/SimpleMobileTools/Simple-File-Manager) - A simple file manager for browsing and editing files and directories.
 *   [SimpleMobileTools/Simple-Gallery (⭐3.4k)](https://github.com/SimpleMobileTools/Simple-Gallery) - A gallery for viewing photos and videos without ads.
-*   [SimpleMobileTools/Simple-Notes (⭐789)](https://github.com/SimpleMobileTools/Simple-Notes) - A simple textfield for adding quick notes without ads.
+*   [SimpleMobileTools/Simple-Notes (⭐796)](https://github.com/SimpleMobileTools/Simple-Notes) - A simple textfield for adding quick notes without ads.
 *   [ahong222/happy21 (⭐14)](https://github.com/ahong222/happy21) - A simple game of Black-Jack write with kotlin
 *   [AllanWang/KAU (⭐224)](https://github.com/AllanWang/KAU) - An extensive collection of Kotlin Android Utils
 *   [inshiro/Kodesh (⭐12)](https://github.com/inshiro/Kodesh) - Free and open source Bible for Android
@@ -1275,7 +1247,7 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 *   [Karumi/MaxibonKataKotlin (⭐43)](https://github.com/Karumi/MaxibonKataKotlin) - A ready to use playground to learn how to write tests using property-based testing in Kotlin.
 *   [WilderPereira/lmgtfyGen (⭐6)](https://github.com/WilderPereira/lmgtfyGen) - Simple Android App to generate Let Me Google That For You urls.
 *   [WilderPereira/ftwfy (⭐3)](https://github.com/WilderPereira/ftwfy) - The real life Command/Ctrl + F - Android App that uses the Mobile Vision API to allow you to search for any occurrence of a text in a digital document.
-*   [hanjoongcho/aaf-easydiary (⭐385)](https://github.com/hanjoongcho/aaf-easydiary) - This is a diary application optimized to user experience.
+*   [hanjoongcho/aaf-easydiary (⭐386)](https://github.com/hanjoongcho/aaf-easydiary) - This is a diary application optimized to user experience.
 *   [adrielcafe/GreenHellCompanionApp (⭐4)](https://github.com/adrielcafe/GreenHellCompanionApp) - Unofficial companion app for the game Green Hell.
 *   [adrielcafe/ChromaAndroidApp (⭐103)](https://github.com/adrielcafe/ChromaAndroidApp) - Chromatic tuner app.
 *   [cuongpm/youtube-dl-android (⭐485)](https://github.com/cuongpm/youtube-dl-android) - Video downloader for Android - Download videos from Youtube, Facebook, Twitter, Instagram, Dailymotion, Vimeo and more than 1000 other sites.
@@ -1288,7 +1260,7 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 *   [android-password-store/Android-Password-Store (⭐2.4k)](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application.
 *   [PatilShreyas/NotyKT (⭐1.6k)](https://github.com/PatilShreyas/NotyKT) - NotyKT is a complete Kotlin-stack (Backend + Android) application built to demonstrate the use of Modern development tools with best practices implementation.
 *   [Marwa-Eltayeb/CurrencyExchange (⭐10)](https://github.com/Marwa-Eltayeb/CurrencyExchange) - Currency Exchange App that displays real-time currency rates, shows a chart for any currency pair in the world to see their currency history and provides a currency converter.
-*   [AmrDeveloper/Linkhub (⭐138)](https://github.com/AmrDeveloper/Linkhub) - Free and open source effective link management app with no ads.
+*   [AmrDeveloper/Linkhub (⭐142)](https://github.com/AmrDeveloper/Linkhub) - Free and open source effective link management app with no ads.
 
 ### Android / Extensions
 
@@ -1297,7 +1269,7 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 
 ### Android / Tools
 
-*   [Kotlin/kdoctor (⭐524)](https://github.com/Kotlin/kdoctor) - CLI tool that helps to set up the environment for Kotlin Multiplatform Mobile app development.
+*   [Kotlin/kdoctor (⭐527)](https://github.com/Kotlin/kdoctor) - CLI tool that helps to set up the environment for Kotlin Multiplatform Mobile app development.
 
 ### Kotlin JavaScript / JavaScript
 
@@ -1308,7 +1280,7 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 *   [kengorab/kotlin-javascript-boilerplate (⭐10)](https://github.com/kengorab/kotlin-javascript-boilerplate) - An extremely barebones boilerplate project for compiling Kotlin to Javascript.
 *   [markaren/three-kt-wrapper (⭐55)](https://github.com/markaren/three-kt-wrapper) - Kotlin wrappers for three.js JavaScript 3D library
 *   [rjaros/kvision (⭐1.1k)](https://github.com/rjaros/kvision) - Object oriented Web UI framework for Kotlin/JS
-*   [nosix/vue-kotlin (⭐189)](https://github.com/nosix/vue-kotlin) - Libraries and tools supporting the use of Vue.js in Kotlin
+*   [nosix/vue-kotlin (⭐190)](https://github.com/nosix/vue-kotlin) - Libraries and tools supporting the use of Vue.js in Kotlin
 *   [Kabbura/Kunafa (⭐161)](https://github.com/Kabbura/Kunafa) - Easy to use, high level framework in Kotlin for front-end web-development and creating web apps without using HTML, CSS, or JavaScript.
 *   [fortytwoapps/kstitch (⭐5)](https://github.com/fortytwoapps/kstitch) - An object oriented toolkit for MongoDB Stitch in KotlinJS.
 
@@ -1322,7 +1294,7 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 *   [KwangIO/kwang (⭐59)](https://github.com/KwangIO/kwang)
 *   [msink/kotlin-libui (⭐638)](https://github.com/msink/kotlin-libui)
 
-## [50. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [48. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Changeset Tools / Web Services
 
@@ -1337,13 +1309,13 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 
 *   [OSM Monitor](https://osm-monitor.com/) - A website to monitor and display new OSM edits. ([Source Code (⭐12)](https://github.com/johanmorganti/osm-datadog))
 
-## [51. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [49. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Inbox: Stable Diffusion / Multi-agents
 
-*   [TheLastBen/fast-stable-diffusion (⭐7.1k)](https://github.com/TheLastBen/fast-stable-diffusion): fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth
+*   [TheLastBen/fast-stable-diffusion (⭐7.2k)](https://github.com/TheLastBen/fast-stable-diffusion): fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth
 
-## [52. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [50. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -1353,7 +1325,7 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 
 *   [DigitalOcean](https://www.digitalocean.com/pricing) - Build and deploy three static sites for free on the App Platform Starter tier.
 
-## [53. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [51. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Softwares / Servers
 
@@ -1366,7 +1338,7 @@ Installs: 426 | Stars: 88 | Last update: 22 Aug 2023
 *   [PocketMine](https://www.pocketmine.net/) - A Bedrock Edition Server providing support for basic plugins.
 *   [PowerNukkit](https://powernukkit.org/) - A powerful fork of Nukkit.
 
-## [54. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [52. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Projects
 

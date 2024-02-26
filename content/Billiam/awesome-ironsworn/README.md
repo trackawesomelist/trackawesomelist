@@ -6,6 +6,12 @@ An awesome list of awesome Ironsworn projects
 
 [ Daily / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
+## [Feb 20, 2024](/content/2024/02/20/README.md)
+
+### Resources / Ironsworn
+
+*   [Starforged Notebook](https://evil-wayne.itch.io/starforged-notebook) - All-in-one campaign notebook for Starforged
+
 ## [Feb 09, 2024](/content/2024/02/09/README.md)
 
 ### Translations / Ironsworn

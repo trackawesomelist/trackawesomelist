@@ -68,91 +68,36 @@
 
 ### Input Methods / Audio Record and Process
 
-*   [betterglobekey (⭐29)](https://github.com/Serpentiel/betterglobekey) - Make macOS Globe key great again! [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Serpentiel/betterglobekey) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [betterglobekey (⭐36)](https://github.com/Serpentiel/betterglobekey) - Make macOS Globe key great again! [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Serpentiel/betterglobekey) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [10. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
 
-### Algorithms & Data Structures
+### Golang
 
-*   [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) - Riccardo Poli, William B. Langdon, Nicholas F. McPhee (PDF) *(:card\_file\_box: archived)*
-*   [Algorithm Design](https://archive.org/details/AlgorithmDesign1stEditionByJonKleinbergAndEvaTardos2005PDF) - Jon Kleinberg, Éva Tardos
-*   [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho, Jeff Ullman
+*   [Go 简易教程 (⭐403)](https://github.com/songleo/the-little-go-book_ZH_CN) - Karl Seguin, `trl.:` Song Song Li (《[The Little Go Book (⭐2.1k)](https://github.com/karlseguin/the-little-go-book) - Karl Seguin》中文版)
+*   [The Little Go Book 繁體中文翻譯版 (⭐133)](https://github.com/kevingo/the-little-go-book) - Karl Seguin, `trl.:` KevinGo, Jie Peng ([HTML](https://kevingo.gitbooks.io/the-little-go-book/))
 
-### Blockchain
+### JavaScript / AngularJS
 
-*   [IBM Blockchain: The Founder’s Handbook, Third Edition](https://www.ibm.com/downloads/cas/GZPPMWM5) - Antonio Banda, Matthew Hamilton, Eileen Lowry, John Widdifield, et al. (PDF)
-*   [Learning Bitcoin from the Command Line (⭐2.9k)](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) - Christopher Allen, Shannon Appelcline, et al. (HTML)
+*   [AngularJS最佳实践和风格指南 (⭐5k)](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md) - Minko Gechev, Xuefeng Zhu, Shintaro Kaneko, et al. (HTML)
 
-### Computer Science
+### Python / Symfony
 
-*   [CS Principles: Big Ideas in Programming](https://www.openbookproject.net/books/StudentCSP/) - Mark Guzdial, Barbara Ericson (HTML)
+*   [人生苦短，我用python](https://www.cnblogs.com/derek1184405959/p/8579428.html) - zhang\_derek *(内含丰富的笔记以及各类教程)*
+*   [Matplotlib 3.0.3 中文文档](http://www.osgeo.cn/matplotlib/) (Online)
+*   [Numpy 1.16 中文文档](http://www.osgeo.cn/numpy/) (Online)
+*   [Python 3.8.0a3中文文档](http://www.osgeo.cn/cpython/) (Online) *(目前在线最全的中文文档了)*
+*   [Tornado 6.1 中文文档](http://www.osgeo.cn/tornado/) (Online) *(网络上其他的都是较旧版本的)*
 
-### Graphics Programming
+### Python / Django
 
-*   [Learn OpenGL RS (⭐916)](https://github.com/bwasty/learn-opengl-rs) - Benjamin Wasty, et al. *(:construction: in process)*
-*   [WebGL Insights](http://webglinsights.com) - Patrick Cozzi, et al.
+*   [Django 2.2.1 中文文档](http://www.osgeo.cn/django/) (Online) *(这个很新，也很全)*
+*   [Django 搭建个人博客教程 (2.1)](https://www.dusaiphoto.com/article/detail/2) - 杜赛 (HTML)
 
-### Graphical User Interfaces
+### TypeScript / Angular
 
-*   [Web Style Guide Online](https://www.webstyleguide.com/wsg3/index.html) - Patrick J. Lynch, Sarah Horton
-
-### Machine Learning
-
-*   [A Selective Overview of Deep Learning](https://arxiv.org/abs/1904.05526) - Fan, Ma, Zhong (PDF)
-*   [Mathematics for Machine Learning](https://mml-book.github.io) - Marc Peter Deisenroth, A Aldo Faisal, Cheng Soon Ong
-*   [The Mechanics of Machine Learning](https://mlbook.explained.ai) - Terence Parr, Jeremy Howard
-*   [Top 10 Machine Learning Algorithms Every Engineer Should Know](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202) - Binny Mathews, Omair Aasim
-
-### Mathematics
-
-*   [A Computational Logic (1979)](https://www.cs.utexas.edu/users/boyer/acl.pdf) - Robert S. Boyer, J Strother Moore (PDF)
-*   [A Friendly Introduction to Mathematical Logic](https://milneopentextbooks.org/a-friendly-introduction-to-mathematical-logic/) - Christopher C. Leary, Lars Kristiansen
-*   [Applied Combinatorics](https://rellek.net/book/app-comb.html) - Mitchel T. Keller, William T. Trotter
-*   [Applied Discrete Structures](https://faculty.uml.edu/klevasseur/ads2/) - Alan Doerr, Kenneth Levasseur
-*   [Calculus I](https://resolver.caltech.edu/CaltechBOOK:1985.001) - Jerrold E. Marsden, Alan Weinstein
-*   [CLP-1 Differential Calculus](https://www.math.ubc.ca/~CLP/CLP1/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
-*   [CLP-2 Integral Calculus](https://www.math.ubc.ca/~CLP/CLP2/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
-*   [CLP-3 Multivariable Calculus](https://www.math.ubc.ca/~CLP/CLP3/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
-*   [CLP-4 Vector Calculus](https://www.math.ubc.ca/~CLP/CLP4/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
-*   [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook) - Stephen Boyd, Lieven Vandenberghe
-*   [Coordinate Geometry (1911)](http://djm.cc/library/Coordinate_Geometry_Fine_Thompson_edited03.pdf) - Henry Buchard Fine, Henry Dallas Thompson (PDF)
-*   [Discrete Mathematics: First and Second Course](https://cseweb.ucsd.edu/~gill/BWLectSite/) - Edward A. Bender, S. Gill Williamson
-*   [Foundations of Combinatorics with Applications](https://www.math.ucsd.edu/~ebender/CombText/) - Edward A. Bender, S. Gill Williamson
-*   [How We Got from There to Here: A Story of Real Analysis](https://milneopentextbooks.org/how-we-got-from-there-to-here-a-story-of-real-analysis/) - Robert Rogers, Eugene Boman
-*   [Introductory Statistics for the Life and Biomedical Sciences](https://www.openintro.org/book/isrs/) - Julie Vu, David Harrington
-*   [Knapsack Problems - Algorithms and Computer Implementations](http://www.or.deis.unibo.it/knapsack.html) - Silvano Martello, Paolo Toth
-*   [Linear Methods of Applied Mathematics](http://www.mathphysics.com/pde) - Evans M. Harrell II, James V. Herod
-*   [Mathematical Discovery](https://classicalrealanalysis.info/com/Mathematical-Discovery.php) - Andrew M. Bruckner, Brian S. Thomson, Judith B. Bruckner
-*   [Multivariable Calculus](https://people.math.gatech.edu/~cain/notes/calculus.html) - George Cain, James Herod
-*   [Plane Geometry (1913)](http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf) - George Wentworth, David Eugene Smith (PDF)
-*   [Planes and Spherical Trigonometry (1915)](http://djm.cc/library/Plane_Spherical_Trigonometry_Wentworth_Smith_edited_2.pdf) - George Wentworth, David Eugene Smith (PDF)
-*   [Precalculus](https://stitz-zeager.com) - Carl Stitz, Jeff Zeager [(PDF)](https://stitz-zeager.com/szprecalculus07042013.pdf)
-*   [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/pdf/1803.05316.pdf) - Brendan Fong, David I. Spivak (PDF)
-
-### Misc
-
-*   [Object-Oriented Reengineering Patterns](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse, Oscar Nierstrasz
-
-### Networking
-
-*   [Computer Networks: A Systems Approach](https://book.systemsapproach.org) - Larry Peterson, Bruce Davie (HTML, epub, mobi, PDF)
-
-### Parallel Programming
-
-*   [High Performance Computing](http://cnx.org/contents/bb821554-7f76-44b1-89e7-8a2a759d1347%405.2) - Charles Severance, Kevin Dowd (PDF, ePUB)
-
-### Professional Development
-
-*   [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck, Hyrum Wright
-
-### Quantum Computing
-
-*   [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) - Frank Harkins, et al. (HTML)
-
-### Software Architecture
-
-*   [Building Secure & Reliable Systems](https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf) - Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield (PDF)
-*   [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne
+*   [Angular Material 组件库](https://material.angular.cn) - Wang Zhicheng, Ye Zhimin, Yang Lin, et al. (HTML)
+*   [Angular Tutorial (教程：英雄之旅)](https://angular.cn/tutorial) - Wang Zhicheng, Ye Zhimin, Yang Lin, et al. (HTML)
 
 ## [11. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -174,7 +119,7 @@
 
 ### Frameworks
 
-*   [Coost (⭐3.7k)](https://github.com/idealvin/coost) - A tiny boost library in C++11. \[MIT]
+*   [Coost (⭐3.8k)](https://github.com/idealvin/coost) - A tiny boost library in C++11. \[MIT]
 
 ## [14. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -220,7 +165,7 @@
 
 ### Applications / Database
 
-*   [RisingWaveLabs/RisingWave (⭐5.9k)](https://github.com/RisingWaveLabs/risingwave) - the next-generation streaming database in the cloud [![CI](https://github.com/RisingWaveLabs/risingwave/actions/workflows/main.yml/badge.svg)](https://github.com/RisingWaveLabs/risingwave/actions/workflows/main.yml/badge.svg?branch=main)
+*   [RisingWaveLabs/RisingWave (⭐6k)](https://github.com/RisingWaveLabs/risingwave) - the next-generation streaming database in the cloud [![CI](https://github.com/RisingWaveLabs/risingwave/actions/workflows/main.yml/badge.svg)](https://github.com/RisingWaveLabs/risingwave/actions/workflows/main.yml/badge.svg?branch=main)
 *   [SurrealDB (⭐24k)](https://github.com/surrealdb/surrealdb) — A scalable, distributed, document-graph database [![Build Status](https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration/main)](https://github.com/surrealdb/surrealdb/actions)
 
 ### Applications / System tools
@@ -229,7 +174,7 @@
 
 ### Libraries / Scripting
 
-*   [duckscript](https://crates.io/crates/duckscript) — [Simple, extendable and embeddable scripting language. (⭐480)](https://github.com/sagiegurari/duckscript) [![build badge](https://github.com/sagiegurari/duckscript/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/duckscript/actions)
+*   [duckscript](https://crates.io/crates/duckscript) — [Simple, extendable and embeddable scripting language. (⭐484)](https://github.com/sagiegurari/duckscript) [![build badge](https://github.com/sagiegurari/duckscript/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/duckscript/actions)
 
 ## [21. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -241,7 +186,7 @@
 
 ### Java / React
 
-*   [dgs-extended-formatters (⭐5)](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases.
+*   [dgs-extended-formatters (⭐6)](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases.
 
 ### Tools - Editors & IDEs & Explorers / React
 
@@ -259,12 +204,12 @@
 
 ### Editors / Native Editors
 
-*   [Merkaartor (⭐280)](https://github.com/openstreetmap/merkaartor) - An opensource OSM editor, written in C++ and Qt.
+*   [Merkaartor (⭐285)](https://github.com/openstreetmap/merkaartor) - An opensource OSM editor, written in C++ and Qt.
 
 ### Maps / Web Maps
 
 *   [OSM Landuse](https://osmlanduse.org) - OSM based landuse and landcover WebGIS application.
-*   [OsmAPP](https://osmapp.org) - A browsable map showing data and offering simple POI-editing capabilities. ([Source Code (⭐141)](https://github.com/zbycz/osmapp))
+*   [OsmAPP](https://osmapp.org) - A browsable map showing data and offering simple POI-editing capabilities. ([Source Code (⭐148)](https://github.com/zbycz/osmapp))
 *   [Tracesmap](https://tracesmap.com/) - A map allowing for planning routes on OsmCarto and OpenTopoMap-derived retina maps.
 
 ### Maps / Goal Tracking
@@ -273,7 +218,7 @@
 
 ### Libraries / Python
 
-*   [prettymapp (⭐2k)](https://github.com/chrieke/prettymapp) - Create beautiful maps from OpenStreetMap data.
+*   [prettymapp (⭐2.1k)](https://github.com/chrieke/prettymapp) - Create beautiful maps from OpenStreetMap data.
 
 ## [24. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -295,8 +240,8 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Dialogue Manager (⭐1.5k)](https://github.com/nathanhoad/godot_dialogue_manager) - A simple but powerful text based branching dialogue editor and runtime (Godot 3.x, 4.x).
-*   [Input Helper (⭐543)](https://github.com/nathanhoad/godot_input_helper) - A helper for detecting input devices and remapping controls (Godot 3.x, 4.x).
+*   [Dialogue Manager (⭐1.6k)](https://github.com/nathanhoad/godot_dialogue_manager) - A simple but powerful text based branching dialogue editor and runtime (Godot 3.x, 4.x).
+*   [Input Helper (⭐562)](https://github.com/nathanhoad/godot_input_helper) - A helper for detecting input devices and remapping controls (Godot 3.x, 4.x).
 
 ## [27. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -366,7 +311,7 @@
 
 ### Database Tools
 
-*   [Strong Migrations (⭐3.7k)](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development.
+*   [Strong Migrations (⭐3.8k)](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development.
 
 ### GUI
 
@@ -374,7 +319,7 @@
 
 ### Third-party APIs
 
-*   [Ably (⭐33)](https://github.com/ably/ably-ruby) - Ruby library for realtime communication over Ably.
+*   [Ably (⭐34)](https://github.com/ably/ably-ruby) - Ruby library for realtime communication over Ably.
 
 ## [35. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
@@ -393,14 +338,14 @@
 ### Libraries/Frameworks / Misc
 
 *   [pearxteam/kasechange (⭐81)](https://github.com/pearxteam/kasechange) - Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case
-*   [insanusmokrassar/TelegramBotAPI (⭐296)](https://github.com/insanusmokrassar/TelegramBotAPI) - Kotlin Multiplatform library for type-safe work with Telegram Bot API
+*   [insanusmokrassar/TelegramBotAPI (⭐305)](https://github.com/insanusmokrassar/TelegramBotAPI) - Kotlin Multiplatform library for type-safe work with Telegram Bot API
 
 ## [38. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
-*   [aws2tf (⭐434)](https://github.com/aws-samples/aws2tf) - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
-*   [pike (⭐412)](https://github.com/jamesWoolfenden/pike) - Pike calculates the permissions or IAM policy required to build your Terraform.
+*   [aws2tf (⭐469)](https://github.com/aws-samples/aws2tf) - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
+*   [pike (⭐426)](https://github.com/jamesWoolfenden/pike) - Pike calculates the permissions or IAM policy required to build your Terraform.
 
 ## [39. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
@@ -419,9 +364,9 @@
 
 *   [AppFlowy](https://www.appflowy.io/) - Open Source Notion Alternative. You are in charge of your data and customizations.
 *   [Joplin (⭐41k)](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronisation and encryption capabilities.
-*   [Nextcloud Notes (⭐574)](https://github.com/nextcloud/notes/) - The Notes app is a distraction free notes taking app for Nextcloud.
+*   [Nextcloud Notes (⭐576)](https://github.com/nextcloud/notes/) - The Notes app is a distraction free notes taking app for Nextcloud.
     *   [Nextcloud Notes app (⭐874)](https://github.com/stefan-niedermann/nextcloud-notes) - An android client for Nextcloud Notes.
-*   [Notally (⭐1.4k)](https://github.com/OmGodse/Notally) - A beautiful notes app (local only, no sync).
+*   [Notally (⭐1.5k)](https://github.com/OmGodse/Notally) - A beautiful notes app (local only, no sync).
 *   [Quillnote](https://qosp.org/#/) - Take beautiful markdown notes and stay organized with task lists.
 *   [Standard Notes](https://standardnotes.org/) - A free, open-source, and completely encrypted notes app.
 *   [TinyList](https://tinylist.app/) - Create and share notes and checklists, without sacrificing your privacy.
@@ -544,7 +489,7 @@
 
 ### Image Analysis / Telegram
 
-*   [ExifLooter (⭐324)](https://github.com/aydinnyunus/exiflooter)
+*   [ExifLooter (⭐388)](https://github.com/aydinnyunus/exiflooter)
 
 ## [48. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
@@ -897,11 +842,11 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-document (⭐8)](https://github.com/JiangWeixian/vite-plugin-document) - Use `Document.tsx` as html template.
+*   [vite-plugin-document (⭐9)](https://github.com/JiangWeixian/vite-plugin-document) - Use `Document.tsx` as html template.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-validate-env (⭐125)](https://github.com/Julien-R44/vite-plugin-validate-env) - Validate your environment variables at build time. Never forget an environment variable again.
+*   [vite-plugin-validate-env (⭐131)](https://github.com/Julien-R44/vite-plugin-validate-env) - Validate your environment variables at build time. Never forget an environment variable again.
 
 ### Flask / Community
 
@@ -917,7 +862,7 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Ganymede (⭐330)](https://github.com/Zibbp/ganymede) `⚠` - Twitch VOD and Live Stream archiving platform. Includes a rendered chat for each archive. `GPL-3.0` `Docker`
+*   [Ganymede (⭐339)](https://github.com/Zibbp/ganymede) `⚠` - Twitch VOD and Live Stream archiving platform. Includes a rendered chat for each archive. `GPL-3.0` `Docker`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -929,7 +874,7 @@
 
 ### Software / Human Resources Management (HRM)
 
-*   [OrangeHRM](https://www.orangehrm.com/) - OrangeHRM is a comprehensive HRM system that captures all the essential functionalities required for any enterprise. ([Demo](https://opensource-demo.orangehrmlive.com/), [Source Code (⭐679)](https://github.com/orangehrm/orangehrm)) `GPL-2.0` `PHP`
+*   [OrangeHRM](https://www.orangehrm.com/) - OrangeHRM is a comprehensive HRM system that captures all the essential functionalities required for any enterprise. ([Demo](https://opensource-demo.orangehrmlive.com/), [Source Code (⭐692)](https://github.com/orangehrm/orangehrm)) `GPL-2.0` `PHP`
 
 ### Software / Internet of Things (IoT)
 
@@ -937,24 +882,24 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Navidrome Music Server](https://www.navidrome.org) - Modern Music Server and Streamer, compatible with Subsonic/Airsonic. ([Demo](https://www.navidrome.org/demo), [Source Code (⭐8.9k)](https://github.com/navidrome/navidrome), [Clients](https://www.navidrome.org/docs/overview/#apps)) `GPL-3.0` `Docker/Go`
+*   [Navidrome Music Server](https://www.navidrome.org) - Modern Music Server and Streamer, compatible with Subsonic/Airsonic. ([Demo](https://www.navidrome.org/demo), [Source Code (⭐9.1k)](https://github.com/navidrome/navidrome), [Clients](https://www.navidrome.org/docs/overview/#apps)) `GPL-3.0` `Docker/Go`
 
 ### Software / Miscellaneous
 
-*   [Overseerr](https://overseerr.dev/) `⚠` - Overseerr is a free and open source software application for managing requests for your media library. It integrates with your existing services, such as Sonarr, Radarr, and Plex!. ([Source Code (⭐3.1k)](https://github.com/sct/overseerr)) `MIT` `Docker`
+*   [Overseerr](https://overseerr.dev/) `⚠` - Overseerr is a free and open source software application for managing requests for your media library. It integrates with your existing services, such as Sonarr, Radarr, and Plex!. ([Source Code (⭐3.2k)](https://github.com/sct/overseerr)) `MIT` `Docker`
 *   [WeTTY](https://butlerx.github.io/wetty/#/) - Terminal in browser over http/https. ([Source Code (⭐4k)](https://github.com/butlerx/wetty)) `MIT` `Docker/Nodejs`
 
 ### Software / Pastebins
 
-*   [Hasty Paste](https://enchantedcode.co.uk/hasty-paste/) - A place to quickly paste some text and share it. Mostly used for sharing debug logs and such to help developers provide tech support. The project aims to be both fast and minimal. ([Source Code (⭐178)](https://github.com/enchant97/hasty-paste)) `AGPL-3.0` `Docker/Python`
+*   [Hasty Paste](https://enchantedcode.co.uk/hasty-paste/) - A place to quickly paste some text and share it. Mostly used for sharing debug logs and such to help developers provide tech support. The project aims to be both fast and minimal. ([Source Code (⭐183)](https://github.com/enchant97/hasty-paste)) `AGPL-3.0` `Docker/Python`
 
 ### Software / Resource Planning
 
-*   [farmOS](https://farmos.org/) - Web-based farm record keeping application. ([Demo](https://farmos-demo.rootedsolutions.io/), [Source Code (⭐858)](https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP/Docker`
+*   [farmOS](https://farmos.org/) - Web-based farm record keeping application. ([Demo](https://farmos-demo.rootedsolutions.io/), [Source Code (⭐879)](https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP/Docker`
 
 ### Software / Search Engines
 
-*   [Fess](https://fess.codelibs.org/) - Fess is a very powerful and easily deployable Enterprise Search Server. ([Demo](https://search.n2sm.co.jp/), [Source Code (⭐943)](https://github.com/codelibs/fess)) `Apache-2.0` `Java/Docker`
+*   [Fess](https://fess.codelibs.org/) - Fess is a very powerful and easily deployable Enterprise Search Server. ([Demo](https://search.n2sm.co.jp/), [Source Code (⭐942)](https://github.com/codelibs/fess)) `Apache-2.0` `Java/Docker`
 
 ### Software / Status / Uptime pages
 
@@ -975,7 +920,7 @@
 
 ### Crates / Component Libraries
 
-*   [Yewprint (⭐442)](https://github.com/yewprint/yewprint) - Port of blueprintjs.com to Yew.
+*   [Yewprint (⭐443)](https://github.com/yewprint/yewprint) - Port of blueprintjs.com to Yew.
 
 ## [58. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 

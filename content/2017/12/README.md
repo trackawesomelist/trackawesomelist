@@ -176,11 +176,11 @@
 
 ### Apps / E-commerce
 
-*   [longclaw (⭐374)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
+*   [longclaw (⭐379)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
 
 ### Apps / Misc
 
-*   [Wagtail Gridder (⭐63)](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details.
+*   [Wagtail Gridder (⭐64)](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details.
 
 ## [18. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
@@ -353,7 +353,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Errors and Exception Handling
 
-*   [OK (⭐594)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
+*   [OK (⭐595)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
 
 ## [35. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -489,7 +489,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Task management
 
-*   [sam (⭐91)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
+*   [sam (⭐92)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
 
 ## [45. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 

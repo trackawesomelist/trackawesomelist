@@ -73,7 +73,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [logspace-ai/langflow (⭐14k)](https://github.com/logspace-ai/langflow): a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows
+*   [logspace-ai/langflow (⭐15k)](https://github.com/logspace-ai/langflow): a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows
 
 ### Embeddings and Semantic Search / Prompt Engineering for Text-to-image
 
@@ -134,7 +134,7 @@
 
 ### Software / Photo and Video Galleries
 
-*   [SPIS (⭐59)](https://github.com/gbbirkisson/spis) - A simple, lightweight and fast media server with decent mobile support. `GPL-3.0` `Docker/Rust`
+*   [SPIS (⭐69)](https://github.com/gbbirkisson/spis) - A simple, lightweight and fast media server with decent mobile support. `GPL-3.0` `Docker/Rust`
 
 ## [15. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -159,7 +159,7 @@
 
 ### CLI Builders
 
-*   [Cling (⭐16)](https://github.com/devnote-dev/cling) - A modular, non-macro-based command line interface library
+*   [Cling (⭐20)](https://github.com/devnote-dev/cling) - A modular, non-macro-based command line interface library
 
 ### Database Drivers/Clients
 
@@ -169,7 +169,7 @@
 
 ### API Builder and Discovery
 
-*   [Alba (⭐827)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby and TruffleRuby.
+*   [Alba (⭐838)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby and TruffleRuby.
 
 ### CMS
 
@@ -177,15 +177,15 @@
 
 ### Core Extensions
 
-*   [MemoWise (⭐531)](https://github.com/panorama-ed/memo_wise) - Memoize any instance/class/module method, including support for frozen objects - rigorously tested and benchmarked on all Rubies - fast performance of memoized reads.
+*   [MemoWise (⭐532)](https://github.com/panorama-ed/memo_wise) - Memoize any instance/class/module method, including support for frozen objects - rigorously tested and benchmarked on all Rubies - fast performance of memoized reads.
 
 ### Third-party APIs
 
-*   [Notion Ruby Client (⭐109)](https://github.com/orbit-love/notion-ruby-client) - A Ruby wrapper for the Notion API.
+*   [Notion Ruby Client (⭐111)](https://github.com/orbit-love/notion-ruby-client) - A Ruby wrapper for the Notion API.
 
 ### Video
 
-*   [VideoInfo (⭐407)](https://github.com/thibaudgg/video_info) - Get video info from Dailymotion, Vimeo, Wistia, and YouTube URLs.
+*   [VideoInfo (⭐406)](https://github.com/thibaudgg/video_info) - Get video info from Dailymotion, Vimeo, Wistia, and YouTube URLs.
 
 ## [20. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -282,7 +282,7 @@
 
 ### Debug
 
-*   [Boost.Test (⭐159)](https://github.com/boostorg/test) - Boost Test Library. \[Boost] [website](https://boost.org/libs/test)
+*   [Boost.Test (⭐160)](https://github.com/boostorg/test) - Boost Test Library. \[Boost] [website](https://boost.org/libs/test)
 
 ### Image Processing
 
@@ -290,11 +290,11 @@
 
 ### Inter-process communication
 
-*   [Boost.Interprocess (⭐115)](https://github.com/boostorg/interprocess) - Header-only Boost library that supports kernel-level shared memory and memory-mapped files, with in-built synchronization mechanisms (semaphores, mutexes, and more). \[Boost] [website](https://boost.org/libs/interprocess)
+*   [Boost.Interprocess (⭐116)](https://github.com/boostorg/interprocess) - Header-only Boost library that supports kernel-level shared memory and memory-mapped files, with in-built synchronization mechanisms (semaphores, mutexes, and more). \[Boost] [website](https://boost.org/libs/interprocess)
 
 ### XML
 
-*   [Boost.PropertyTree (⭐48)](https://github.com/boostorg/property_tree) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. \[Boost] [website](https://boost.org/libs/property_tree)
+*   [Boost.PropertyTree (⭐49)](https://github.com/boostorg/property_tree) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. \[Boost] [website](https://boost.org/libs/property_tree)
 
 ### Logging
 
@@ -302,24 +302,24 @@
 
 ### Math
 
-*   [Boost.Multiprecision (⭐170)](https://github.com/boostorg/multiprecision) - provides higher-range/precision integer, rational and floating-point types in C++, header-only or with GMP/MPFR/LibTomMath backends. \[Boost] [website](https://boost.org/libs/multiprecision)
-*   [DirectXMath (⭐1.4k)](https://github.com/microsoft/DirectXMath) - An all inline SIMD C++ linear algebra library for use in games and graphics apps.
+*   [Boost.Multiprecision (⭐173)](https://github.com/boostorg/multiprecision) - provides higher-range/precision integer, rational and floating-point types in C++, header-only or with GMP/MPFR/LibTomMath backends. \[Boost] [website](https://boost.org/libs/multiprecision)
+*   [DirectXMath (⭐1.5k)](https://github.com/microsoft/DirectXMath) - An all inline SIMD C++ linear algebra library for use in games and graphics apps.
 
 ### Reflection
 
-*   [TSMP (⭐80)](https://github.com/fabian-jung/tsmp) - An intrusion and macro-free C++20 library for static reflection. It uses libclang to extract reflection data from your source code and makes it usable via template specialization. \[MIT]
+*   [TSMP (⭐83)](https://github.com/fabian-jung/tsmp) - An intrusion and macro-free C++20 library for static reflection. It uses libclang to extract reflection data from your source code and makes it usable via template specialization. \[MIT]
 
 ### Scripting
 
-*   [Boost.Python (⭐438)](https://github.com/boostorg/python) - A C++ library which enables seamless interoperability between C++ and the Python programming language. \[Boost] [website](https://boost.org/libs/python)
+*   [Boost.Python (⭐439)](https://github.com/boostorg/python) - A C++ library which enables seamless interoperability between C++ and the Python programming language. \[Boost] [website](https://boost.org/libs/python)
 
 ### Serialization
 
-*   [Boost.Serialization (⭐114)](https://github.com/boostorg/serialization) - Boost Serialization Library. \[Boost] [website](https://boost.org/libs/serialization)
+*   [Boost.Serialization (⭐115)](https://github.com/boostorg/serialization) - Boost Serialization Library. \[Boost] [website](https://boost.org/libs/serialization)
 
 ### Miscellaneous
 
-*   [Boost.Signals2 (⭐71)](https://github.com/boostorg/signals2) - An implementation of a managed signals and slots system. \[Boost] [website](https://boost.org/libs/signals2)
+*   [Boost.Signals2 (⭐72)](https://github.com/boostorg/signals2) - An implementation of a managed signals and slots system. \[Boost] [website](https://boost.org/libs/signals2)
 
 ### Websites
 
@@ -328,7 +328,7 @@
 
 ### Other Awesome Projects
 
-*   [awesome-hpp (⭐3k)](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries.
+*   [awesome-hpp (⭐3.1k)](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries.
 
 ## [29. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
@@ -380,7 +380,7 @@
 
 ### Utilities / File Organization Tools
 
-*   [Modal File Manager (⭐87)](https://github.com/raguay/ModalFileManager/) - A lightweight, minimal dual-pane file manager with Vim style hotkeys. It can be customized with themes and extensions that are downloaded from GitHub using a built in interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://GitHub.com/raguay/ModalFileManager) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Modal File Manager (⭐91)](https://github.com/raguay/ModalFileManager/) - A lightweight, minimal dual-pane file manager with Vim style hotkeys. It can be customized with themes and extensions that are downloaded from GitHub using a built in interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://GitHub.com/raguay/ModalFileManager) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [35. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
@@ -432,7 +432,7 @@
 
 ### Authentication and OAuth
 
-*   [go-jose (⭐212)](https://github.com/go-jose/go-jose) - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
+*   [go-jose (⭐218)](https://github.com/go-jose/go-jose) - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
 
 ### NoSQL Database Drivers
 
@@ -448,7 +448,7 @@
 
 ### Third-party APIs
 
-*   [go-openai (⭐7.7k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
+*   [go-openai (⭐7.8k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
 
 ### Utilities
 
@@ -532,7 +532,7 @@
 
 ### Solid / Integrations
 
-*   [vite-plugin-solid-svg (⭐61)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
+*   [vite-plugin-solid-svg (⭐65)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
 
 ## [44. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
 
@@ -551,7 +551,7 @@
 
 ### Resources / Tutorials & workshops
 
-*   [Polars: um simples mas prático tutorial](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb) - Tutorial in the format of an ipynb notebook that illustrates several features of Polars in Portuguese by [@barbosarafael](https://github.com/barbosarafael). Associated github repository is [here (⭐37)](https://github.com/barbosarafael/polars_python_test).
+*   [Polars: um simples mas prático tutorial](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb) - Tutorial in the format of an ipynb notebook that illustrates several features of Polars in Portuguese by [@barbosarafael](https://github.com/barbosarafael). Associated github repository is [here (⭐36)](https://github.com/barbosarafael/polars_python_test).
 
 ### Resources / Blog posts
 
@@ -611,9 +611,9 @@
 
 *   [aofxta (⭐0)](https://github.com/aofxta/aofxta.zsh-theme/) - Includes decorators for last command's execution time, `git` information, current directory and current time.
 *   [avoleo (⭐0)](https://github.com/flameleo11/avoleo-zsh-theme) - Features a date and time prompt for each command, as well as a command number in history. In addition, it uses special symbols '⠾' and '⡶' to display `git` information if applicable in the current path. It also supports custom colors based on the Gnome-Terminal default color palette.
-*   [cybensis (⭐0)](https://github.com/cybensis/cybensis-zsh-theme) - Based on [af-magic (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme). Includes decorators for `git` information, `hg` information, and python virtualenv.
+*   [cybensis (⭐0)](https://github.com/cybensis/cybensis-zsh-theme) - Based on [af-magic (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme). Includes decorators for `git` information, `hg` information, and python virtualenv.
 *   [kali-like (⭐6)](https://github.com/clamy54/kali-like-zsh-theme) - Inspired by the Kali Linux default ZSH theme. Includes decorators for user\@host, current directory and `git` information.
-*   [rkj-logik (⭐0)](https://github.com/logik93/rkj-logik.zsh-theme) - Based on omz's [rkj (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/rkj.zsh-theme). Includes decorators for user\@host, current directory, time & date.
+*   [rkj-logik (⭐0)](https://github.com/logik93/rkj-logik.zsh-theme) - Based on omz's [rkj (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/rkj.zsh-theme). Includes decorators for user\@host, current directory, time & date.
 *   [userandnode (⭐0)](https://github.com/timhilton/userandnode) - A clean theme with decorators for username, node version, current directory, and `git` info.
 
 ## [51. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
@@ -736,13 +736,13 @@
 
 ### Icons
 
-*   [Lucide (⭐7.6k)](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+*   [Lucide (⭐7.9k)](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 
 ## [59. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Backups
 
-*   [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code (⭐117)](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
+*   [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code (⭐119)](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
 
 ### Software / Identity Management - Single Sign-On (SSO)
 
@@ -750,7 +750,7 @@
 
 ### Software / Monitoring
 
-*   [Status (⭐72)](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
+*   [Status (⭐82)](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
 
 ### Software / Software Containers
 
@@ -759,7 +759,7 @@
 
 ### Software / VPN
 
-*   [PiVPN](https://www.pivpn.io/) - The simplest way to setup and manage a VPN, designed for Raspberry Pi. ([Source Code (⭐6.6k)](https://github.com/pivpn/pivpn)) `MIT` `Shell`
+*   [PiVPN](https://www.pivpn.io/) - The simplest way to setup and manage a VPN, designed for Raspberry Pi. ([Source Code (⭐6.7k)](https://github.com/pivpn/pivpn)) `MIT` `Shell`
 
 ## [60. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 

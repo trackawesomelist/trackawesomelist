@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 13, 2015
 
-28 awesome lists updated today.
+29 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -368,7 +368,7 @@
 
 ### Biology
 
-*   [Wham (⭐98)](https://github.com/zeeev/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. \[MIT]
+*   [Wham (⭐99)](https://github.com/zeeev/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. \[MIT]
 
 ### Concurrency
 
@@ -381,7 +381,7 @@
 ### Game Engine
 
 *   [Allegro](http://liballeg.org/) - A cross-platform library mainly aimed for video games and multimedia programming. \[zlib]
-*   [Godot (⭐80k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
+*   [Godot (⭐81k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
 
 ### GUI
 
@@ -389,11 +389,11 @@
 
 ### Inter-process communication
 
-*   [simple-rpc-cpp (⭐36)](https://github.com/pearu/simple-rpc-cpp) - A simple RPC wrapper generator to C/C++ functions. \[BSD]
+*   [simple-rpc-cpp (⭐35)](https://github.com/pearu/simple-rpc-cpp) - A simple RPC wrapper generator to C/C++ functions. \[BSD]
 
 ### Machine Learning
 
-*   [Minerva (⭐688)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
+*   [Minerva (⭐689)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
 
 ### Web Application Framework
 
@@ -437,7 +437,7 @@
 
 ### Cloud Infrastructure and Management
 
-*   [sidetask (⭐69)](https://github.com/PSPDFKit-labs/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
+*   [sidetask (⭐70)](https://github.com/PSPDFKit-labs/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
 
 ### Examples and funny stuff
 
@@ -450,7 +450,7 @@
 
 ### JSON
 
-*   [jsonapi (⭐475)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
+*   [jsonapi (⭐478)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
 
 ### Miscellaneous
 
@@ -471,7 +471,7 @@
 
 ### Queue
 
-*   [honeydew (⭐716)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
+*   [honeydew (⭐717)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
 
 ### Third Party APIs
 
@@ -784,13 +784,34 @@
 *   [Bash Completion (⭐5)](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO.
 *   [Visual Studio Code (⭐40)](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
 
-## [27. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [27. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### HTML and CSS
+
+*   [CSS3 Tutorial 《CSS3 教程》 (⭐203)](https://github.com/waylau/css3-tutorial)
+*   [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
+*   [Sass Guidelines 中文](http://sass-guidelin.es/zh/)
+
+### JavaScript
+
+*   [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com)
+
+### Python / Symfony
+
+*   [Python 中文学习大本营](http://www.pythondoc.com)
+
+### R / Django
+
+*   [153分钟学会 R](http://cran.r-project.org/doc/contrib/Liu-FAQ.pdf) (PDF)
+*   [统计学与 R 读书笔记](http://cran.r-project.org/doc/contrib/Xu-Statistics_and_R.pdf) (PDF)
+
+## [28. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Geospatial
 
-*   [Georust](https://github.com/georust) — geospatial tools and libraries written in Rust
+*   [Georust](https://github.com/georust) — geospatial tools and libraries written
 
-## [28. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [29. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### TypeScript General Resources / Components
 

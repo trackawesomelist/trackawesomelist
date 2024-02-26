@@ -41,7 +41,7 @@
 
 ### Software / Groupware
 
-*   [Group Office](https://www.group-office.com) - Group-Office is an enterprise CRM and groupware tool. Share projects, calendars, files and e-mail online with co-workers and clients. ([Source Code (⭐157)](https://github.com/Intermesh/groupoffice/)) `AGPL-3.0` `PHP`
+*   [Group Office](https://www.group-office.com) - Group-Office is an enterprise CRM and groupware tool. Share projects, calendars, files and e-mail online with co-workers and clients. ([Source Code (⭐162)](https://github.com/Intermesh/groupoffice/)) `AGPL-3.0` `PHP`
 
 ## [4. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -69,25 +69,25 @@
 
 ### Official plugins
 
-*   [App (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/app) - Handles high-level App state and events.
-*   [Screen Reader (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/screen-reader) - Provides access to TalkBack/VoiceOver/etc. and provides simple text-to-speech capabilities for visual accessibility.
+*   [App (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/app) - Handles high-level App state and events.
+*   [Screen Reader (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/screen-reader) - Provides access to TalkBack/VoiceOver/etc. and provides simple text-to-speech capabilities for visual accessibility.
 
 ### Community plugins
 
 *   Firebase
-    *   [Analytics (⭐147)](https://github.com/capacitor-community/firebase-analytics) - A native plugin for Firebase analytics.
-    *   [Crashlytics (⭐67)](https://github.com/capacitor-community/firebase-crashlytics) - Firebase Crashlytics.
-    *   [Fcm (⭐223)](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging features for Capacitor apps.
+    *   [Analytics (⭐152)](https://github.com/capacitor-community/firebase-analytics) - A native plugin for Firebase analytics.
+    *   [Crashlytics (⭐66)](https://github.com/capacitor-community/firebase-crashlytics) - Firebase Crashlytics.
+    *   [Fcm (⭐224)](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging features for Capacitor apps.
     *   [Remote config (⭐22)](https://github.com/capacitor-community/firebase-remote-config) - A native plugin for Firebase remote config.
-*   [Photoviewer (⭐43)](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with full-screen and sharing capabilities.
-*   [Privacy screen (⭐62)](https://github.com/capacitor-community/privacy-screen) - Protects your app from displaying a screenshot in recents screen/App Switcher.
-*   [Screen brightness (⭐15)](https://github.com/capacitor-community/screen-brightness) - Control screen brightness on iOS and android.
+*   [Photoviewer (⭐44)](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with full-screen and sharing capabilities.
+*   [Privacy screen (⭐66)](https://github.com/capacitor-community/privacy-screen) - Protects your app from displaying a screenshot in recents screen/App Switcher.
+*   [Screen brightness (⭐17)](https://github.com/capacitor-community/screen-brightness) - Control screen brightness on iOS and android.
 
 ### Other plugins
 
 *   [Intent (⭐8)](https://github.com/IT-MikeS/capacitor-intents) - Supports multiple broadcast receiving of intents, and sending out BroadcastIntents in Android.
-*   [Oauth2 (⭐204)](https://github.com/moberwasserlechner/capacitor-oauth2) - Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.
-*   [Video player (⭐91)](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
+*   [Oauth2 (⭐207)](https://github.com/moberwasserlechner/capacitor-oauth2) - Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.
+*   [Video player (⭐97)](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
 
 ## [7. Awesome Slim](/content/nekofar/awesome-slim/week/README.md)
 
@@ -155,7 +155,7 @@
 
 ### Adapters / Client-side
 
-*   [Preact (⭐6)](https://github.com/jrson83/inertia-preact)
+*   [Preact (⭐7)](https://github.com/jrson83/inertia-preact)
 
 ## [12. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
@@ -770,7 +770,7 @@
 
 ### Open Source / Community
 
-*   [Astro (⭐39k)](https://github.com/withastro/astro) - Modern Static Site Builder.
+*   [Astro (⭐40k)](https://github.com/withastro/astro) - Modern Static Site Builder.
 
 ## [44. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
@@ -983,7 +983,7 @@
 
 ### Crates / Component Libraries
 
-*   [material-yew (⭐213)](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
+*   [material-yew (⭐214)](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
 
 ### Crates / Hooks
 
@@ -1010,17 +1010,17 @@
 
 ### Applications / Audio and Music
 
-*   [Glicol (⭐1.9k)](https://github.com/chaosprint/glicol) — Graph-oriented live coding language written in Rust for collaborative musicking in browsers.
+*   [Glicol (⭐1.9k)](https://github.com/chaosprint/glicol) — Graph-oriented live coding language, for collaborative musicking in browsers.
 
 ### Applications / Emulators
 
 *   CHIP-8
-    *   [ColinEberhardt/wasm-rust-chip8 (⭐250)](https://github.com/ColinEberhardt/wasm-rust-chip8) — A WebAssembly CHIP-8 emulator written with Rust
-    *   [starrhorne/chip8-rust (⭐132)](https://github.com/starrhorne/chip8-rust) — Yet another rust chip8 emulator
+    *   [ColinEberhardt/wasm-rust-chip8 (⭐250)](https://github.com/ColinEberhardt/wasm-rust-chip8) — A WebAssembly CHIP-8 emulator.
+    *   [starrhorne/chip8-rust (⭐132)](https://github.com/starrhorne/chip8-rust) — chip8 emulator
 
 ### Applications / Productivity
 
-*   [Bartib (⭐542)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
+*   [Bartib (⭐555)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
 
 ### Development tools / IDEs
 
@@ -1028,28 +1028,28 @@
 *   [Visual Studio Code](https://code.visualstudio.com/)
     *   [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) - TOML support in vscode
     *   [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) — A LLDB extension
-    *   [crates (⭐218)](https://github.com/serayuzgur/crates) — crates is an extension for crates.io dependencies. [![build badge](https://img.shields.io/vscode-marketplace/v/serayuzgur.crates.svg)](https://github.com/serayuzgur/crates)
+    *   [crates (⭐220)](https://github.com/serayuzgur/crates) — crates is an extension for crates.io dependencies. [![build badge](https://img.shields.io/vscode-marketplace/v/serayuzgur.crates.svg)](https://github.com/serayuzgur/crates)
     *   [Prettier - Code formatter (Rust)](https://marketplace.visualstudio.com/items?itemName=jinxdash.prettier-rust) — Opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
     *   [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) — An alternative rust language server to the RLS
     *   [rust-lang/rls-vscode](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) — Rust support for Visual Studio Code (supports both RLS and rust-analyzer)
 
 ### Libraries / Text processing
 
-*   [cpc (⭐111)](https://github.com/probablykasper/cpc) - Parses and calculates strings of math with support for units and unit conversion, from `1+2` to `1% of round(1 lightyear / 14!s to km/h)`.
+*   [cpc (⭐112)](https://github.com/probablykasper/cpc) - Parses and calculates strings of math with support for units and unit conversion, from `1+2` to `1% of round(1 lightyear / 14!s to km/h)`.
 
 ## [58. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
-*   [Node-RED (⭐401)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
+*   [Node-RED (⭐406)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
 
 ### Gaming
 
-*   [Esports (⭐53)](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
+*   [Esports (⭐56)](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
 
 ### Testing
 
-*   [Gatling (⭐61)](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
+*   [Gatling (⭐62)](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 
 ## [59. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
 
@@ -1144,7 +1144,7 @@
 
 ### Analytics, Events and Statistics
 
-*   [PostHog](https://posthog.com) - Full Product Analytics suite free for up to 1m tracked events per month
+*   [PostHog](https://posthog.com) - Full Product Analytics suite free for up to 1m tracked events per month. Also provides unlinited in-App Surveys with 250/month responses.
 
 ## [65. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
@@ -1161,7 +1161,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot Radial Menu (⭐209)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
+*   [Godot Radial Menu (⭐213)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
 
 ## [67. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 

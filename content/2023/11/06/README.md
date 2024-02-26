@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 06, 2023
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Networking
 
-*   [nghttp3 (⭐761)](https://github.com/ngtcp2/nghttp3) - HTTP/3 library written in C. \[MIT] [website](https://nghttp2.org/nghttp3/)
+*   [nghttp3 (⭐766)](https://github.com/ngtcp2/nghttp3) - HTTP/3 library written in C. \[MIT] [website](https://nghttp2.org/nghttp3/)
 
 ## [3. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
@@ -69,13 +69,7 @@
 
 
 
-## [8. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Mathematics
-
-*   [Guide to Discrete Mathematics](https://core.ac.uk/download/pdf/326762636.pdf) - David Gries, Fred B. Schneider (PDF)
-
-## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [8. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 

@@ -85,13 +85,13 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-packagemanager (⭐0)](https://github.com/goarano/zsh-fzf-packagemanager) - Adds commands for installing tools via various package managers using [fzf (⭐57k)](https://github.com/junegunn/fzf). Supports `apt`, `brew` & `dnf`.
+*   [fzf-packagemanager (⭐0)](https://github.com/goarano/zsh-fzf-packagemanager) - Adds commands for installing tools via various package managers using [fzf (⭐58k)](https://github.com/junegunn/fzf). Supports `apt`, `brew` & `dnf`.
 
 ## [7. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [samber/slog-fiber (⭐5)](https://github.com/samber/slog-fiber) - A logger middleware that uses Go slog library.
+*   [samber/slog-fiber (⭐32)](https://github.com/samber/slog-fiber) - A logger middleware that uses Go slog library.
 
 ## [8. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 

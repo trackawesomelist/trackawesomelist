@@ -27,7 +27,7 @@
 
 ### State Machines
 
-*   [state\_machines (⭐738)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
+*   [state\_machines (⭐781)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -305,21 +305,16 @@
 
 ### Command-line tools
 
-*   [jid (⭐6.4k)](https://github.com/simeji/jid) - Incremental Digger. Drill down JSON interactively by using filtering queries like jq.
+*   [jid (⭐6.7k)](https://github.com/simeji/jid) - Incremental Digger. Drill down JSON interactively by using filtering queries like jq.
 
 ### Databases
 
-*   [JSONlite (⭐835)](https://github.com/nodesocket/jsonlite) - A simple, self-contained, serverless, zero-configuration, json document store. (Bash)
-
-### Format Extensions
-
-*   [NDJSON](http://ndjson.org/) (Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
-*   [survey.js](http://surveyjs.org/) - JSON based survey library.
+*   [JSONlite (⭐843)](https://github.com/nodesocket/jsonlite) - A simple, self-contained, serverless, zero-configuration, json document store. (Bash)
 
 ### Libraries
 
-*   [aeson-qq (⭐76)](https://github.com/sol/aeson-qq) - JSON quasiquoter for Haskell.
-*   [json2react (⭐166)](https://github.com/txgruppi/json2react) - Use JSON to create React Stateless Components.
+*   [aeson-qq (⭐79)](https://github.com/sol/aeson-qq) - JSON quasiquoter for Haskell.
+*   [json2react (⭐167)](https://github.com/txgruppi/json2react) - Use JSON to create React Stateless Components.
 
 ### Online tools
 
@@ -327,8 +322,8 @@
 
 ### Supersets
 
-*   [TOML (⭐18k)](https://github.com/toml-lang/toml) - A minimal configuration file format that's easy to read due to obvious semantics.
-*   [HCL (⭐4.3k)](https://github.com/hashicorp/hcl) - A structured configuration language that is both human and machine friendly.
+*   [TOML (⭐19k)](https://github.com/toml-lang/toml) - A minimal configuration file format that's easy to read due to obvious semantics.
+*   [HCL (⭐5k)](https://github.com/hashicorp/hcl) - A structured configuration language that is both human and machine friendly.
 
 ### Transformations
 
@@ -618,8 +613,8 @@ git status --short --branch
 
 ### Games / Directory Navigation
 
-*   [nudoku (⭐294)](https://github.com/jubalh/nudoku) - ncurses based sudoku game written in C
-*   [tty-solitaire (⭐258)](https://github.com/mpereira/tty-solitaire) - Play solitaire in your terminal!
+*   [nudoku (⭐303)](https://github.com/jubalh/nudoku) - ncurses based sudoku game written in C
+*   [tty-solitaire (⭐263)](https://github.com/mpereira/tty-solitaire) - Play solitaire in your terminal!
 
 ## [39. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 

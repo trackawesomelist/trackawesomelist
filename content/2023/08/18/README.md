@@ -17,23 +17,23 @@
 ### Libraries / Filesystem
 
 *   Operations
-    *   [Camino (⭐349)](https://github.com/camino-rs/camino) \[[camino](https://crates.io/crates/camino)] - Like Rust's std::path::Path, but UTF-8.
-    *   [ParthJadhav/Rust\_Search (⭐112)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library built in Rust.
+    *   [Camino (⭐356)](https://github.com/camino-rs/camino) \[[camino](https://crates.io/crates/camino)] - Like Rust's std::path::Path, but UTF-8.
+    *   [ParthJadhav/Rust\_Search (⭐116)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library.
     *   [pop-os/dbus-udisks2 (⭐16)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
     *   [pop-os/sys-mount (⭐40)](https://github.com/pop-os/sys-mount) \[[sys-mount](https://crates.io/crates/sys-mount)] — High level abstraction for the `mount` / `umount2` system calls.
     *   [vitiral/path\_abs (⭐49)](https://github.com/vitiral/path_abs) \[[path\_abs](https://crates.io/crates/path_abs)] — Absolute serializable path types and associated methods.
-    *   [webdesus/fs\_extra (⭐224)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io
+    *   [webdesus/fs\_extra (⭐225)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io
 
 ## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Applications and Platforms / Aggregators & Dashboards
 
-*   [BiomarkerDash (⭐1)](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
+*   [BiomarkerDash (⭐10)](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
 
 ### Open Source Projects / Wealth
 
 *   [Timeliner (⭐3.5k)](https://github.com/mholt/timeliner) - A data aggregation and and timeline visualization tool.
-*   [TimelineBuilder (⭐45)](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
+*   [TimelineBuilder (⭐322)](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
 
 ## [4. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Utilities
 
-*   [go-qr (⭐12)](https://github.com/piglig/go-qr) - A native, high-quality and minimalistic QR code generator.
+*   [go-qr (⭐14)](https://github.com/piglig/go-qr) - A native, high-quality and minimalistic QR code generator.
 *   [yogo (⭐36)](https://github.com/antham/yogo) - Check yopmail mails from command line.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
@@ -62,24 +62,24 @@
 
 ### Maps / Web Maps
 
-*   [Streets GL (⭐496)](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2. ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
+*   [Streets GL (⭐523)](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2. ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
 
 ### Libraries / Python
 
-*   [overpy (⭐214)](https://github.com/DinoTools/python-overpy) - A Python wrapper to access the Overpass API.
+*   [overpy (⭐219)](https://github.com/DinoTools/python-overpy) - A Python wrapper to access the Overpass API.
 *   [overpassforge (⭐4)](https://github.com/Krafpy/Overpass-Forge) - A package to build Overpass queries from Python objects.
-*   [humanized\_opening\_hours (⭐24)](https://github.com/rezemika/humanized_opening_hours) - A package to parse the `opening_hours` tag.
+*   [humanized\_opening\_hours (⭐25)](https://github.com/rezemika/humanized_opening_hours) - A package to parse the `opening_hours` tag.
 
 ## [8. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Ballerina / React
 
-*   [graphql (⭐143)](https://github.com/ballerina-platform/module-ballerina-graphql) - Ballerina standard library for GraphQL. This library provides a GraphQL client and server implementations including builtin support for GraphQL subscriptions.
-*   [graphql CLI (⭐114)](https://github.com/ballerina-platform/graphql-tools) - A CLI tool to generate Ballerina code from GraphQL schema and GraphQL schema from Ballerina code. It also provides functionality to generate usage-specific GraphQL clients using GraphQL schemas and documents.
+*   [graphql (⭐144)](https://github.com/ballerina-platform/module-ballerina-graphql) - Ballerina standard library for GraphQL. This library provides a GraphQL client and server implementations including builtin support for GraphQL subscriptions.
+*   [graphql CLI (⭐115)](https://github.com/ballerina-platform/graphql-tools) - A CLI tool to generate Ballerina code from GraphQL schema and GraphQL schema from Ballerina code. It also provides functionality to generate usage-specific GraphQL clients using GraphQL schemas and documents.
 
 ### Ballerina Samples / React
 
-*   [Ballerina GraphQL Examples (⭐143)](https://github.com/ballerina-platform/module-ballerina-graphql/tree/master/examples)
+*   [Ballerina GraphQL Examples (⭐144)](https://github.com/ballerina-platform/module-ballerina-graphql/tree/master/examples)
 *   [Convert Weather REST API to GraphQL API (⭐3)](https://github.com/ThisaruGuruge/weather-rest-api-to-graphql)
 
 ### Posts / React

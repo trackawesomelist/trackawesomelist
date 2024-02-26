@@ -74,6 +74,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 *   [AbsBox (⭐19)](https://github.com/yellowbean/AbsBox) - A Python based library to model cashflow for structured product like Asset-backed securities (ABS) and Mortgage-backed securities (MBS).
 *   [Intrinsic-Value-Calculator (⭐3)](https://github.com/akashaero/Intrinsic-Value-Calculator) - A Python tool for quick calculations of a stock's fair value using Discounted Cash Flow analysis.
 *   [Kelly-Criterion (⭐81)](https://github.com/deltaray-io/kelly-criterion) - Kelly Criterion implemented in Python to size portfolios based on J. L. Kelly Jr's formula.
+*   [rateslib (⭐48)](https://github.com/attack68/rateslib) - A fixed income library for pricing bonds and bond futures, and derivatives such as IRS, cross-currency and FX swaps.
 
 ### Indicators
 
@@ -172,6 +173,8 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 *   [Empyrial (⭐842)](https://github.com/ssantoshp/Empyrial) - Portfolio's risk and performance analytics and returns predictions.
 *   [risktools (⭐23)](https://github.com/bbcho/risktools-dev) - Risk tools for use within the crude and crude products trading space with partial implementation of R's PerformanceAnalytics.
 *   [Riskfolio-Lib (⭐2.5k)](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio Optimization and Quantitative Strategic Asset Allocation in Python.
+*   [empyrical-reloaded (⭐36)](https://github.com/stefan-jansen/empyrical-reloaded) - Common financial risk and performance metrics. [empyrical (⭐1.2k)](https://github.com/quantopian/empyrical) fork.
+*   [pyfolio-reloaded (⭐258)](https://github.com/stefan-jansen/pyfolio-reloaded) - Portfolio and risk analytics in Python. [pyfolio (⭐5.3k)](https://github.com/quantopian/pyfolio) fork.
 
 ### Factor Analysis
 
@@ -305,7 +308,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 ### Financial Instruments and Pricing
 
-*   [RQuantLib](http://dirk.eddelbuettel.com/code/rquantlib.html) - RQuantLib connects GNU R with QuantLib.
+*   [RQuantLib (⭐114)](https://github.com/eddelbuettel/rquantlib) - RQuantLib connects GNU R with QuantLib.
 *   [quantmod](https://cran.r-project.org/web/packages/quantmod/index.html) - Quantitative Financial Modelling Framework.
 *   [Rmetrics](https://www.rmetrics.org) - The premier open source software solution for teaching and training quantitative finance.
     *   [fAsianOptions](https://cran.r-project.org/web/packages/fAsianOptions/index.html) - EBM and Asian Option Valuation.
@@ -405,7 +408,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 ## Java
 
 *   [Strata](http://strata.opengamma.io/) - Modern open-source analytics and market risk library designed and written in Java.
-*   [JQuantLib](http://www.jquantlib.org) - JQuantLib is a free, open-source, comprehensive framework for quantitative finance, written in 100% Java.
+*   [JQuantLib (⭐116)](https://github.com/frgomes/jquantlib) - JQuantLib is a free, open-source, comprehensive framework for quantitative finance, written in 100% Java.
 *   [finmath.net](http://finmath.net) - Java library with algorithms and methodologies related to mathematical finance.
 *   [quantcomponents (⭐163)](https://github.com/lsgro/quantcomponents) - Free Java components for Quantitative Finance and Algorithmic Trading.
 *   [DRIP](https://lakshmidrip.github.io/DRIP) - Fixed Income, Asset Allocation, Transaction Cost Analysis, XVA Metrics Libraries.
@@ -453,13 +456,14 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 ## CPP
 
+*   [QuantLib (⭐4.7k)](https://github.com/lballabio/QuantLib) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
 *   [TradeFrame (⭐401)](https://github.com/rburkholder/trade-frame) - C++ 17 based framework/library (with sample applications) for testing options based automated trading ideas using DTN IQ real time data feed and Interactive Brokers (TWS API) for trade execution. Comes with built-in [Option Greeks/IV (⭐401)](https://github.com/rburkholder/trade-frame/tree/master/lib/TFOptions) calculation library.
 
 ## Frameworks
 
-*   [QuantLib](https://www.quantlib.org) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
-    *   [JQuantLib](http://www.jquantlib.org) - Java port.
-    *   [RQuantLib](http://dirk.eddelbuettel.com/code/rquantlib.html) - R port.
+*   [QuantLib (⭐4.7k)](https://github.com/lballabio/QuantLib) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
+    *   [JQuantLib (⭐116)](https://github.com/frgomes/jquantlib) - Java port.
+    *   [RQuantLib (⭐114)](https://github.com/eddelbuettel/rquantlib) - R port.
     *   [QuantLibAddin](https://www.quantlib.org/quantlibaddin/) - Excel support.
     *   [QuantLibXL](https://www.quantlib.org/quantlibxl/) - Excel support.
     *   [QLNet (⭐360)](https://github.com/amaggiulli/qlnet) - .Net port.
@@ -532,4 +536,5 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 *   [Quant-Finance-With-Python-Code (⭐42)](https://github.com/lingyixu/Quant-Finance-With-Python-Code) - Repo for code examples in Quantitative Finance with Python by Chris Kelliher
 *   [QuantFinanceTraining (⭐5)](https://github.com/JoaoJungblut/QuantFinanceTraining) - This repository contains codes that were executed during my training in the CQF (Certificate in Quantitative Finance). The codes are organized by class, facilitating navigation and reference.
 *   [Statistical-Learning-based-Portfolio-Optimization (⭐6)](https://github.com/YannickKae/Statistical-Learning-based-Portfolio-Optimization) - This R Shiny App utilizes the Hierarchical Equal Risk Contribution (HERC) approach, a modern portfolio optimization method developed by Raffinot (2018).
+*   [book\_irds3 (⭐36)](https://github.com/attack68/book_irds3) - Code repository for Pricing and Trading Interest Rate Derivatives.
 

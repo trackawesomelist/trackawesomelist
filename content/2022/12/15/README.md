@@ -134,7 +134,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-copyq-clipboard (⭐0)](https://github.com/magidc/fzf-copyq-clipboard-zsh-plugin) - Add [fzf (⭐57k)](https://github.com/junegunn/fzf) support for [CopyQ](https://hluk.github.io/CopyQ/).
+*   [fzf-copyq-clipboard (⭐0)](https://github.com/magidc/fzf-copyq-clipboard-zsh-plugin) - Add [fzf (⭐58k)](https://github.com/junegunn/fzf) support for [CopyQ](https://hluk.github.io/CopyQ/).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

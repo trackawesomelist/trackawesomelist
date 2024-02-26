@@ -52,7 +52,7 @@
 
 ### Data Visualization
 
-*   [diagrams (⭐30k)](https://github.com/mingrammer/diagrams) - Diagram as Code.
+*   [diagrams (⭐34k)](https://github.com/mingrammer/diagrams) - Diagram as Code.
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

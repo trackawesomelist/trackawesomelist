@@ -89,7 +89,7 @@
 
 ### Gaming
 
-*   [Game Boy Development (⭐3.7k)](https://github.com/gbdev/awesome-gbdev#readme)
+*   [Game Boy Development (⭐3.8k)](https://github.com/gbdev/awesome-gbdev#readme)
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

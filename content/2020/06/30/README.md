@@ -56,7 +56,7 @@
 
 ### Apps / Forms
 
-*   [Wagtail Simple Captcha (⭐1)](https://github.com/acarasimon96/wagtail-django-simple-captcha) - A self-hosted alternative to Wagtail ReCaptcha that easily integrates a [django-simple-captcha (⭐1.3k)](https://github.com/mbi/django-simple-captcha) field into the Wagtail form builder.
+*   [Wagtail Simple Captcha (⭐2)](https://github.com/acarasimon96/wagtail-django-simple-captcha) - A self-hosted alternative to Wagtail ReCaptcha that easily integrates a [django-simple-captcha (⭐1.4k)](https://github.com/mbi/django-simple-captcha) field into the Wagtail form builder.
 
 ## [8. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 

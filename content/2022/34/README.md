@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22 - Aug 28, 2022
 
-50 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,11 +10,11 @@
 
 ### Official plugins
 
-*   [Preferences (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/preferences) - Provides a simple key/value persistent store for lightweight data, ex Storage.
+*   [Preferences (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/preferences) - Provides a simple key/value persistent store for lightweight data, ex Storage.
 
 ### Community plugins
 
-*   [Electron (⭐283)](https://github.com/capacitor-community/electron) - Support for the Electron platform.
+*   [Electron (⭐294)](https://github.com/capacitor-community/electron) - Support for the Electron platform.
 
 ## [2. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Other Tools / Telegram
 
-*   [BeVigil-CLI (⭐88)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
+*   [BeVigil-CLI (⭐97)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
 
 ## [7. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
@@ -89,9 +89,9 @@
     *   [Delilah (⭐18)](https://github.com/SecurityTW/delilah) - Elasticsearch Honeypot written in Python (originally from Novetta).
     *   [ESPot (⭐25)](https://github.com/mycert/ESPot) - Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
     *   [ElasticPot](https://gitlab.com/bontchev/elasticpot) - An Elasticsearch Honeypot.
-    *   [Elastic honey (⭐177)](https://github.com/jordan-wright/elastichoney) - Simple Elasticsearch Honeypot.
+    *   [Elastic honey (⭐179)](https://github.com/jordan-wright/elastichoney) - Simple Elasticsearch Honeypot.
     *   [MongoDB-HoneyProxy (⭐86)](https://github.com/Plazmaz/MongoDB-HoneyProxy) - MongoDB honeypot proxy.
-    *   [NoSQLpot (⭐101)](https://github.com/torque59/nosqlpot) - Honeypot framework built on a NoSQL-style database.
+    *   [NoSQLpot (⭐102)](https://github.com/torque59/nosqlpot) - Honeypot framework built on a NoSQL-style database.
     *   [mysql-honeypotd (⭐27)](https://github.com/sjinks/mysql-honeypotd) - Low interaction MySQL honeypot written in C.
     *   [MysqlPot (⭐20)](https://github.com/schmalle/MysqlPot) - MySQL honeypot, still very early stage.
     *   [pghoney (⭐16)](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot.
@@ -99,7 +99,7 @@
     *   [RedisHoneyPot (⭐13)](https://github.com/cypwnpwnsocute/RedisHoneyPot) - High Interaction Honeypot Solution for Redis protocol.
 *   SIP
 
-    *   [SentryPeer (⭐140)](https://github.com/SentryPeer/SentryPeer) - Protect your SIP Servers from bad actors.
+    *   [SentryPeer (⭐143)](https://github.com/SentryPeer/SentryPeer) - Protect your SIP Servers from bad actors.
 
 ## [11. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
@@ -125,11 +125,11 @@
 
 ### Applications
 
-*   [fend (⭐430)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
+*   [fend (⭐446)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
 
 ### Development tools / Formatters
 
-*   [rustfmt (⭐5.6k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo
+*   [rustfmt (⭐5.7k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo
 
 ## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -180,7 +180,7 @@
 
 ### ⚙️ Middlewares / 🧬 Core
 
-*   [EnvVar (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - Expose environment variables with providing an optional config.
+*   [EnvVar (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - Expose environment variables with providing an optional config.
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
@@ -190,7 +190,7 @@
 
 ### Starters & Themes
 
-*   🚀 [AstroWind (⭐1.8k)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
+*   🚀 [AstroWind (⭐2k)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
 
 ## [20. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
@@ -221,14 +221,14 @@
 
 ### Client Libraries
 
-*   [.NET Substrate API (⭐17)](https://github.com/ajuna-network/Ajuna.NetApi) - Used in [nuget](https://www.nuget.org/packages/Ajuna.NetApi/), and [Unity Example (⭐3)](https://github.com/ajuna-network/SubstrateNET/tree/master/SubstrateNET.UnityDemo); Maintained by [Ajuna Network](https://ajuna.io/).
+*   [.NET Substrate API (⭐21)](https://github.com/ajuna-network/Ajuna.NetApi) - Used in [nuget](https://www.nuget.org/packages/Ajuna.NetApi/), and [Unity Example (⭐3)](https://github.com/ajuna-network/SubstrateNET/tree/master/SubstrateNET.UnityDemo); Maintained by [Ajuna Network](https://ajuna.io/).
 *   [.NET Toolchain/SDK (⭐2)](https://github.com/ajuna-network/Ajuna.SDK) - Toolchain for Substrate .NET. Pre-generated [SubstrateNET (⭐3)](https://github.com/ajuna-network/SubstrateNET); Maintained by Ajuna Network.
 *   [`go-substrate-gen`](https://github.com/Aphoh/go-substrate-gen) - Generate Go (de)serialization/client code from Substrate metadata.
 
 ### Mobile
 
-*   [Nova Substrate SDK Android (⭐4)](https://github.com/nova-wallet/substrate-sdk-android) - Substrate SDK and tools for Android.
-*   [Nova Substrate SDK iOS (⭐11)](https://github.com/nova-wallet/substrate-sdk-ios) - Substrate SDK and tools for iOS.
+*   [Nova Substrate SDK Android (⭐5)](https://github.com/nova-wallet/substrate-sdk-android) - Substrate SDK and tools for Android.
+*   [Nova Substrate SDK iOS (⭐14)](https://github.com/nova-wallet/substrate-sdk-ios) - Substrate SDK and tools for iOS.
 
 ### Tools
 
@@ -236,9 +236,9 @@
 *   [`subalfred`](https://github.com/hack-ink/subalfred) - An all-in-one Substrate development toolbox.
 *   [`scale-value`](https://github.com/paritytech/scale-value) - Analogous to `serde_json` but for SCALE; Library to decode arbitrary SCALE encoded bytes into a dynamic `Value` given type info from `scale-info`.
 *   [`scale-decode`](https://github.com/paritytech/scale-decode) - Decode SCALE bytes into arbitrary custom types by implementing a visitor trait.
-*   [Nova Polkadot Utils (⭐12)](https://github.com/nova-wallet/nova-utils) - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
+*   [Nova Polkadot Utils (⭐13)](https://github.com/nova-wallet/nova-utils) - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
 *   [SubQuery](https://subquery.network) - A GraphQL indexer and query service that allows users to easily create indexed data sources and host them online for free.
-    *   [Nova SubQuery API (⭐9)](https://github.com/nova-wallet/subquery-nova) - A SubQuery API implementation for operation history and staking analytics.
+    *   [Nova SubQuery API (⭐10)](https://github.com/nova-wallet/subquery-nova) - A SubQuery API implementation for operation history and staking analytics.
 *   [Typechain-Polkadot (⭐12)](https://github.com/Supercolony-net/typechain-polkadot) - Hepls users to generate typescript types from contract ABIs (ink!) and generate runtime code to interact with contracts and deploy them.
 *   [Polkaholic.io](https://polkaholic.io) - Multi-chain block explorer with API and DeFi support across 40+ parachains.
 
@@ -292,7 +292,7 @@
 
 Make tab indented code more readable by forcing the tab size to 4 instead of 8.
 
-Installs: 2000 | Stars: 279 | Last update: 25 Sep 2021
+Installs: 2000 | Stars: 279 | Last update: n/a
 
 ## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -302,13 +302,13 @@ Installs: 2000 | Stars: 279 | Last update: 25 Sep 2021
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [mcfly (⭐6.3k)](https://github.com/cantino/mcfly) - Replaces your default ctrl-r shell history search with an intelligent search engine that takes into account your working directory and the context of recently executed commands. McFly's suggestions are prioritized in real time with a small neural network.
+*   [mcfly (⭐6.4k)](https://github.com/cantino/mcfly) - Replaces your default ctrl-r shell history search with an intelligent search engine that takes into account your working directory and the context of recently executed commands. McFly's suggestions are prioritized in real time with a small neural network.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [born-in-the-purple (⭐1)](https://github.com/LeonardMH/born-in-the-purple) - Simple theme with a purple motif. Inspired by [Pure (⭐13k)](https://github.com/sindresorhus/pure).
 *   [kawaii (⭐0)](https://github.com/LeonidPilyugin/kawaii-oh-my-zsh/) - Has terminal and virtual console modes. Includes decorators for username, directory, last command exit status, timestamp and `git` status.
-*   [nanika (⭐1)](https://github.com/justforuse/nanika-zsh-theme/) - Optimized variant of [robbyrussell (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell). Includes `git` status decorations.
+*   [nanika (⭐1)](https://github.com/justforuse/nanika-zsh-theme/) - Optimized variant of [robbyrussell (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell). Includes `git` status decorations.
 
 ## [31. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
@@ -340,7 +340,7 @@ Installs: 2000 | Stars: 279 | Last update: 25 Sep 2021
 
 ### Templates / React
 
-*   [react-vite-ts-boilerplate (⭐83)](https://github.com/choisohyun/react-vite-ts-boilerplate) - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
+*   [react-vite-ts-boilerplate (⭐85)](https://github.com/choisohyun/react-vite-ts-boilerplate) - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
 
 ### Framework-agnostic Plugins / Bundling
 
@@ -446,7 +446,7 @@ Installs: 2000 | Stars: 279 | Last update: 25 Sep 2021
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-iterative (⭐287)](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin built with machine learning in mind.
+*   [terraform-provider-iterative (⭐288)](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin built with machine learning in mind.
 
 ## [43. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -487,18 +487,18 @@ Installs: 2000 | Stars: 279 | Last update: 25 Sep 2021
 
 *   [saschpe/log4k (⭐13)](https://github.com/saschpe/log4k) - Lightweight logging library for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.
 *   [spoptchev/kotlin-preconditions (⭐19)](https://github.com/spoptchev/kotlin-preconditions) - Precondition error checking in kotlin.
-*   [holgerbrandl/kravis (⭐183)](https://github.com/holgerbrandl/kravis) - A Kotlin grammar for scientific data visualization
+*   [holgerbrandl/kravis (⭐184)](https://github.com/holgerbrandl/kravis) - A Kotlin grammar for scientific data visualization
 
 ### Libraries/Frameworks / Cryptography
 
-*   [ionspin/kotlin-multiplatform-libsodium (⭐70)](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Kotlin multiplatform wrapper for Libsodium cryptographic library.
+*   [ionspin/kotlin-multiplatform-libsodium (⭐72)](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Kotlin multiplatform wrapper for Libsodium cryptographic library.
 
 ### Projects / Idea Plugins
 
 *   [dkandalov/activity-tracker (⭐67)](https://github.com/dkandalov/activity-tracker) - Plugin for IntelliJ IDEs to track and record user activity.
 *   [dkandalov/limited-wip (⭐105)](https://github.com/dkandalov/limited-wip) - Plugin to limit your work-in-progress.
 *   [dkandalov/pomodoro-tm (⭐130)](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer.
-*   [emedinaa/kotlin-mvvm (⭐514)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
+*   [emedinaa/kotlin-mvvm (⭐517)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
 
 ## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -557,7 +557,7 @@ Installs: 2000 | Stars: 279 | Last update: 25 Sep 2021
 
 ### Apps / Forms
 
-*   [Wagtail Model Forms (⭐2)](https://github.com/vicktornl/wagtail-model-forms) - The Wagtail Form Builder functionalities available for your models/snippets.
+*   [Wagtail Model Forms (⭐3)](https://github.com/vicktornl/wagtail-model-forms) - The Wagtail Form Builder functionalities available for your models/snippets.
 
 ### Apps / Misc
 
@@ -582,25 +582,6 @@ Installs: 2000 | Stars: 279 | Last update: 25 Sep 2021
 ### Storage / Runner
 
 *   [Dexie.js (⭐10k)](https://github.com/dexie/Dexie.js) - Dexie.js is a wrapper library for indexedDB.
-
-## [50. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Cloud Computing
-
-*   [Distributed Systems 3rd edition](https://www.distributed-systems.net/index.php/books/ds3/) - Maarten van Steen, Andrew S. Tanenbaum *(email address required)*
-
-### Misc
-
-*   [Mobile Developer's Guide to the Galaxy](https://leanpub.com/mobiledevelopersguide/read) (HTML)
-
-### Programming
-
-*   [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (PDF)
-*   [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (HTML)
-
-### Software Architecture
-
-*   [A Primer on Design Patterns](https://leanpub.com/aprimerondesignpatterns/read) - Rahul Batra (HTML)
 
 ---
 

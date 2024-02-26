@@ -108,7 +108,7 @@
 
 ### AI Tools for Searching / Multi-agents
 
-*   [whitead/paper-qa (⭐3.4k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
+*   [whitead/paper-qa (⭐3.5k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
 
 ### Image Synthesis / Multi-agents
 

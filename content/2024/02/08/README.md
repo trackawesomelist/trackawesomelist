@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 08, 2024
 
-34 awesome lists updated today.
+33 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -109,11 +109,11 @@
 
 ### Libraries/Packages/Scripts / Python
 
-*   [Ibis Python package for Polars](https://ibis-project.org/backends/polars) - [Ibis (⭐3.4k)](https://github.com/ibis-project/ibis) is a Python library that provides a lightweight, universal interface for data wrangling. It can be used with Polars.
+*   [Ibis Python package for Polars](https://ibis-project.org/backends/polars) - [Ibis (⭐3.7k)](https://github.com/ibis-project/ibis) is a Python library that provides a lightweight, universal interface for data wrangling. It can be used with Polars.
 
 ### Resources / Cheat Sheets
 
-*   [Cheatsheet for Pandas to Polars](https://www.rhosignal.com/posts/polars-pandas-cheatsheet/) - A Cheat Sheet that shows how to convert some familar Pandas commands to Polars by [@braaannigan](https://github.com/braaannigan).
+*   [Cheatsheet for Pandas to Polars](https://www.rhosignal.com/posts/polars-pandas-cheatsheet/) - A Cheat Sheet that shows how to convert some familiar Pandas commands to Polars by [@braaannigan](https://github.com/braaannigan).
 
 ### Resources / Blog posts
 
@@ -253,13 +253,7 @@
 *   [lorawan-encoding (⭐173)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN packet codec.
 *   [lorawan-device (⭐173)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN MAC implementation supporting both event-driven and async mode.
 
-## [16. Awesome Coq](/content/coq-community/awesome-coq/README.md)
-
-### Resources / Tutorials and Hints
-
-*   [Coq requirements in Common Criteria evaluations](https://cyber.gouv.fr/sites/default/files/document/anssi-requirements-on-the-use-of-coq-in-the-context-of-common-criteria-evaluations-v1.1-en.pdf) - Guide on how to write readable and reviewable Coq code in high assurance applications.
-
-## [17. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [16. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Scraping
 
@@ -267,19 +261,19 @@
 
 ### Table of Contents / Testing
 
-*   [Nette Tester (⭐440)](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
+*   [Nette Tester (⭐442)](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
 
 ### Configuration / PHP Websites
 
 *   [Unit Testing Tips](https://testing-tips.sarvendev.com/) - Unit Testing Tips by examples in PHP.
 
-## [18. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [17. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Books
 
 *   [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook) - Textbook on Functional Programming and Data Structures in OCaml - by Michael R. Clarkson et al.
 
-## [19. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [18. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Miscellaneous
 
@@ -294,29 +288,29 @@
     *   no dependencies, doesn't access the filesystem.
 *   [ppath](https://codeberg.org/fourier/ppath) - Common Lisp's implementation of the Python's os.path module. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Configuration
 
-*   [mINI (⭐401)](https://github.com/metayeti/mINI) - INI file reader and writer. \[MIT]
+*   [mINI (⭐404)](https://github.com/metayeti/mINI) - INI file reader and writer. \[MIT]
 
 ### Containers
 
-*   [hat-trie (⭐750)](https://github.com/Tessil/hat-trie) - C++ implementation of a fast and memory efficient HAT-trie. \[MIT]
+*   [hat-trie (⭐754)](https://github.com/Tessil/hat-trie) - C++ implementation of a fast and memory efficient HAT-trie. \[MIT]
 *   [st\_tree (⭐89)](https://github.com/erikerlandson/st_tree) - A fast and flexible c++ template class for tree data structures. \[Apache-2.0]
-*   [tree.hh (⭐112)](https://github.com/kpeeters/tree.hh) - An STL-like C++ header-only tree library. \[GPL2+]
+*   [tree.hh (⭐115)](https://github.com/kpeeters/tree.hh) - An STL-like C++ header-only tree library. \[GPL2+]
 
-## [21. Awesome Go](/content/avelino/awesome-go/README.md)
+## [20. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Caches
 
-*   [go-freelru (⭐73)](https://github.com/elastic/go-freelru) A GC-less, fast and generic LRU hashmap library with optional locking, sharding, eviction and expiration.
-*   [otter (⭐989)](https://github.com/maypok86/otter) - A high performance lockless cache for Go. Many times faster than Ristretto and friends.
+*   [go-freelru (⭐80)](https://github.com/elastic/go-freelru) A GC-less, fast and generic LRU hashmap library with optional locking, sharding, eviction and expiration.
+*   [otter (⭐1k)](https://github.com/maypok86/otter) - A high performance lockless cache for Go. Many times faster than Ristretto and friends.
 
 ### Distributed Systems
 
 *   [bedrock (⭐3)](https://github.com/z5labs/bedrock) - Provides a minimal, modular and composable foundation for quickly developing services and more use case specific frameworks in Go.
-*   [sponge (⭐636)](https://github.com/zhufuyi/sponge) - A distributed development framework that integrates automatic code generation, gin and grpc frameworks, base development frameworks.
+*   [sponge (⭐668)](https://github.com/zhufuyi/sponge) - A distributed development framework that integrates automatic code generation, gin and grpc frameworks, base development frameworks.
 
 ### Goroutines
 
@@ -324,38 +318,38 @@
 
 ### Images
 
-*   [transformimgs (⭐171)](https://github.com/Pixboost/transformimgs) - Transformimgs resizes and optimises images for Web using next-generation formats.
+*   [transformimgs (⭐173)](https://github.com/Pixboost/transformimgs) - Transformimgs resizes and optimises images for Web using next-generation formats.
 
 ### Markup Languages
 
-*   [htree (⭐2)](https://github.com/bobg/htree) - Traverse, navigate, filter, and otherwise process trees of [html.Node](https://pkg.go.dev/golang.org/x/net/html#Node) objects.
+*   [htree (⭐4)](https://github.com/bobg/htree) - Traverse, navigate, filter, and otherwise process trees of [html.Node](https://pkg.go.dev/golang.org/x/net/html#Node) objects.
 
 ### Web Frameworks
 
-*   [Lit (⭐23)](https://github.com/jvcoutinho/lit) - Highly performant declarative web framework for Golang, aiming for simplicity and quality of life.
+*   [Lit (⭐24)](https://github.com/jvcoutinho/lit) - Highly performant declarative web framework for Golang, aiming for simplicity and quality of life.
 
 ### Go Tools / Libraries for creating HTTP middlewares
 
-*   [decouple (⭐2)](https://github.com/bobg/decouple) - Find “overspecified” function parameters that could be generalized with interface types.
+*   [decouple (⭐17)](https://github.com/bobg/decouple) - Find “overspecified” function parameters that could be generalized with interface types.
 
-## [22. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [21. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [mirrord (⭐3.2k)](https://github.com/metalbear-co/mirrord) — Connect your local process and your cloud environment, and run local code in cloud conditions
+*   [mirrord (⭐3.3k)](https://github.com/metalbear-co/mirrord) — Connect your local process and your cloud environment, and run local code in cloud conditions
 
 ### Applications / Database
 
-*   [darkbird (⭐389)](https://github.com/Rustixir/darkbird) \[[darkbird](https://crates.io/crates/darkbird)] - HighConcurrency, RealTime, InMemory storage inspired by erlang mnesia
+*   [darkbird (⭐392)](https://github.com/Rustixir/darkbird) \[[darkbird](https://crates.io/crates/darkbird)] - HighConcurrency, RealTime, InMemory storage inspired by erlang mnesia
 *   [SQLSync (⭐1.6k)](https://github.com/orbitinghail/sqlsync) — Multiplayer offline-first SQLite [![GitHub Workflow Status](https://github.com/orbitinghail/sqlsync/actions/workflows/actions.yaml/badge.svg?branch=main)](https://github.com/orbitinghail/sqlsync/actions?query=branch%3Amain)
 
 ### Applications / Text editors
 
-*   [zed (⭐20k)](https://github.com/zed-industries/zed) — A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+*   [zed (⭐25k)](https://github.com/zed-industries/zed) — A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 ### Development tools / Profiling
 
-*   [Divan (⭐616)](https://github.com/nvzqz/divan) — Simple yet powerful benchmarking library with allocation profiling
+*   [Divan (⭐668)](https://github.com/nvzqz/divan) — Simple yet powerful benchmarking library with allocation profiling
 
 ### Libraries / Asynchronous
 
@@ -363,13 +357,13 @@
 
 ### Libraries / Email
 
-*   [meli/meli (⭐558)](https://github.com/meli/meli) - 🐝 terminal mail client
+*   [meli/meli (⭐566)](https://github.com/meli/meli) - 🐝 terminal mail client
 
 ### Libraries / GUI
 
-*   [makepad/makepad (⭐4.5k)](https://github.com/makepad/makepad) \[[makepad-widgets](https://crates.io/crates/makepad-widgets)] — Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl.
+*   [makepad/makepad (⭐4.5k)](https://github.com/makepad/makepad) \[[makepad-widgets](https://crates.io/crates/makepad-widgets)] — Makepad is a creative software development platform that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl.
 
-## [23. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [22. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / Bluetooth
 
@@ -407,13 +401,13 @@
 
 *   [freezeFS (⭐13)](https://github.com/bixb922/freezeFS) - Create self-extracting compressed or self-mounting archives for MicroPython.
 
-## [24. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [23. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Task Queues
 
 *   [django-celery-results (⭐637)](https://github.com/celery/django-celery-results) -  Celery result backend with Django.
 
-## [25. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
+## [24. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
 ### News
 
@@ -423,58 +417,30 @@
 
 *   [The CircuitPython Show](https://www.circuitpythonshow.com/@circuitpythonshow) - an interview podcast with people in the CircuitPython community hosted  by Paul Cutler.
 
-## [26. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [25. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
 *   [Vercel (⭐1k)](https://github.com/vercel/style-guide/tree/canary/eslint) - Vercel Engineering's composable eslint configuration used in all their codebases.
 
-## [27. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [26. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Form Widgets / Calendar
 
 *   [Schedule-X (⭐700)](https://github.com/schedule-x/schedule-x) - Material design event calendar. Features drag & drop, dark mode, multiple views and more.
 
-## [28. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐112) (⭐113)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐794) (⭐794)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
-
-### Projects / API Design
-
-*   [OpenAPI Diff (⭐722) (⭐722)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [OpenAPI Style Validator (⭐188) (⭐189)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
-*   [Zally (⭐865) (⭐866)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
+## [27. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Documentation
 
-*   [DapperDox (⭐389) (⭐389)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
-*   [OpenAPI Explorer (⭐260) (⭐261)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
 *   [RapiDoc (⭐1.5k) (⭐1.5k)](https://github.com/rapi-doc/RapiDoc) - A tool that generates customizable, interactive API documentation from OpenAPI Specification, with a range of design options.
 
 ### Projects / API Testing
 
-*   MQ clients
-    *   [JMSToolBox (⭐188) (⭐188)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
-    *   [kcat (⭐5.1k) (⭐5.2k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
-    *   [MQTT Explorer (⭐2.6k) (⭐2.7k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
-    *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
-    *   [Service Bus Explorer (⭐1.8k) (⭐1.9k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
-*   Mocking tools
-    *   [Imposter (⭐328) (⭐328)](https://github.com/outofcoffee/imposter) - Mock server for REST APIs, OpenAPI (and Swagger) specifications, SOAP web services (and WSDL files), Salesforce and HBase APIs.
-    *   [Microcks (⭐1k) (⭐1.1k)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
-    *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
-    *   [Mockoon (⭐5.6k) (⭐5.7k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
-    *   [MockServer (⭐4.3k) (⭐4.4k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
-    *   [Mocky (⭐1.9k) (⭐2k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
-    *   [Prism (⭐3.8k) (⭐3.9k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
-    *   [WireMock (⭐5.9k) (⭐6k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
 *   Testing tools and frameworks
     *   [Apache JMeter (⭐7.7k) (⭐7.7k)](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
     *   [Gatling (⭐6.1k) (⭐6.2k)](https://github.com/gatling/gatling) - An open-source load testing tool that allows users to write and run load tests as code, providing detailed performance reports to optimize system performance.
-    *   [Karate (⭐7.6k) (⭐7.6k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
+    *   [Karate (⭐7.7k) (⭐7.6k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
     *   [Pyresttest (⭐1.1k) (⭐1.1k)](https://github.com/svanoort/pyresttest) - Java DSL for easy testing of REST services.
     *   [REST Assured (⭐6.6k) (⭐6.6k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
     *   [Schemathesis (⭐2k) (⭐2k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
@@ -485,11 +451,6 @@
 *   [Drools (⭐5.6k) (⭐5.6k)](https://github.com/apache/incubator-kie-drools) - Open-source tool that supports Decision Model and Notation (DMN) models at Conformance level 3 with an Eclipse IDE plugin for core development.
 *   [Easy Rules (⭐4.7k) (⭐4.7k)](https://github.com/j-easy/easy-rules) - Simple Java rules engine for straightforward rule processing.
 
-### Projects / Data Mapping Solution
-
-*   [AltasMap (⭐173) (⭐174)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
-*   [JSLT (⭐596) (⭐596)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
-
 ### Projects / ESB
 
 *   [WSO2 Enterprise Integrator (⭐359) (⭐359)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
@@ -498,10 +459,6 @@
 
 *   [Apache NiFi (⭐4.2k) (⭐4.2k)](https://github.com/apache/nifi) - An automated data integration platform that efficiently moves data between disparate systems.
 *   [Pentaho Data Integration (⭐7.2k) (⭐7.2k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
-
-### Projects / Integration Frameworks
-
-*   [Frank!Framework (⭐90) (⭐90)](https://github.com/frankframework/frankframework) - A Low-Code Java-based messaging framework to connect your system and application data, that is completely configurable through XML configurations.
 
 ### Projects / Messaging
 
@@ -515,26 +472,20 @@
 *   [Bonita (⭐141) (⭐141)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
 *   [Cadence (⭐7.6k) (⭐7.6k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
 *   [Elsa Core (⭐5.5k) (⭐5.5k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
-*   [Temporal (⭐9.1k) (⭐9.1k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
 
 ### Resources / Data Formats
 
 *   [Apache Avro (⭐2.7k) (⭐2.7k)](https://github.com/apache/avro) - Data serialization system that provides compact, fast, and efficient serialization of structured data. It supports schema evolution, allows for efficient data compression, and is designed to work well with big data processing frameworks.
 *   [NDJSON (⭐617) (⭐617)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-*   [YAML (⭐292) (⭐293)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-### Resources / Standard APIs
-
-*   [Standard Webhooks (⭐978) (⭐983)](https://github.com/standard-webhooks/standard-webhooks) - Open source tools and guidelines for sending webhooks easily, securely, and reliably.
-
-## [29. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [28. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Machine learning
 
 *   [classy-lala (⭐2)](https://github.com/retraigo/la-classy) - Single-layer perceptrons for supervised learning tasks.
 *   [appraisal (⭐4)](https://github.com/retraigo/appraisal) - Feature extraction and conversion.
 
-## [30. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Office
 
@@ -544,13 +495,13 @@
 
 *   [SimpleW (⭐15)](https://github.com/stratdev3/SimpleW) - Simple Web Server, build your RestAPI, fast, lightweight and cross-platform.
 
-## [31. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [30. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Multimedia
 
 *   [Collector](https://mijorus.it/projects/collector) - Dropover utility that allows to drag files/images/text into a collection window and drop them anywhere.
 
-## [32. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [31. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### OS Images
 
@@ -561,21 +512,21 @@
 *   [ApplePi Baker](https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2/) - macOS application to easily install/backup/restore images onto an SD card.
 *   [PiGro (⭐16)](https://github.com/actionschnitzel/PiGro-Aid-) - PiGro does many commands that have to be entered via the terminal with one or two clicks of a button.
 
-## [33. Magictools](/content/ellisonleao/magictools/README.md)
+## [32. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Complete Game Sources / Voxel Editors
 
 *   :tada: [Barotrauma (⭐1.6k)](https://github.com/Regalis11/Barotrauma)
 
-## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Programming Languages Support / Diagnostics
 
-*   [iabdelkareem/csharp.nvim (⭐20)](https://github.com/iabdelkareem/csharp.nvim) - Enhances the development experience for .NET developers.
+*   [iabdelkareem/csharp.nvim (⭐71)](https://github.com/iabdelkareem/csharp.nvim) - Enhances the development experience for .NET developers.
 
 ### Language / Diagnostics
 
-*   [tanloong/interlaced.nvim (⭐1)](https://github.com/tanloong/interlaced.nvim) - Help align bilingual parallel texts.
+*   [tanloong/interlaced.nvim (⭐3)](https://github.com/tanloong/interlaced.nvim) - Help align bilingual parallel texts.
 
 ---
 

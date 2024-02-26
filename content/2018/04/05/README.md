@@ -20,7 +20,7 @@
 ### Interactive Interpreter
 
 *   [Jupyter Notebook (IPython)](https://jupyter.org) - A rich toolkit to help you make the most out of using Python interactively.
-    *   [awesome-jupyter (⭐3.4k)](https://github.com/markusschanta/awesome-jupyter)
+    *   [awesome-jupyter (⭐3.7k)](https://github.com/markusschanta/awesome-jupyter)
 
 ## [3. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
 

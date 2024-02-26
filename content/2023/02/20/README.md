@@ -71,31 +71,31 @@
 
 ### Bot Building
 
-*   [bot (⭐286)](https://github.com/go-telegram/bot) - Zero-dependencies Telegram Bot library with additional UI components
+*   [bot (⭐311)](https://github.com/go-telegram/bot) - Zero-dependencies Telegram Bot library with additional UI components
 
 ### Build Automation
 
-*   [xc (⭐948)](https://github.com/joerdav/xc) - Task runner with README.md defined tasks, executable markdown.
+*   [xc (⭐960)](https://github.com/joerdav/xc) - Task runner with README.md defined tasks, executable markdown.
 
 ### Database Tools
 
-*   [onedump (⭐39)](https://github.com/liweiyi88/onedump) - Database backup from different drivers to different destinations with one command and configuration.
+*   [onedump (⭐45)](https://github.com/liweiyi88/onedump) - Database backup from different drivers to different destinations with one command and configuration.
 
 ### Error Handling
 
-*   [Fault (⭐146)](https://github.com/Southclaws/fault) - An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values.
+*   [Fault (⭐147)](https://github.com/Southclaws/fault) - An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values.
 
 ### Messaging
 
-*   [Watermill (⭐6.5k)](https://github.com/ThreeDotsLabs/watermill) - Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog.
+*   [Watermill (⭐6.6k)](https://github.com/ThreeDotsLabs/watermill) - Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog.
 
 ### Security
 
-*   [booster (⭐429)](https://github.com/anatol/booster) - Fast initramfs generator with full-disk encryption support.
+*   [booster (⭐437)](https://github.com/anatol/booster) - Fast initramfs generator with full-disk encryption support.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [hotswap (⭐280)](https://github.com/edwingeng/hotswap) - A complete solution to reload your go code without restarting your server, interrupting or blocking any ongoing procedure.
+*   [hotswap (⭐286)](https://github.com/edwingeng/hotswap) - A complete solution to reload your go code without restarting your server, interrupting or blocking any ongoing procedure.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
@@ -105,7 +105,7 @@
 
 ### Software / Booking and Scheduling
 
-*   [QloApps](https://qloapps.com/) - An open-source, customizable and intuitive web-based hotel reservation system and a booking engine. ([Demo](https://demo.qloapps.com/), [Source Code (⭐4.2k)](https://github.com/webkul/hotelcommerce)) `OSL-3.0` `PHP/Nodejs`
+*   [QloApps](https://qloapps.com/) - An open-source, customizable and intuitive web-based hotel reservation system and a booking engine. ([Demo](https://demo.qloapps.com/), [Source Code (⭐4.3k)](https://github.com/webkul/hotelcommerce)) `OSL-3.0` `PHP/Nodejs`
 
 ### List of Licenses / Wikis
 
@@ -121,7 +121,7 @@
 
 ### Audio Libraries
 
-*   [audioFlux (⭐1.9k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
+*   [audioFlux (⭐2k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 
 ## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

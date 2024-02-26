@@ -18,10 +18,6 @@
 
 *   [rapport](http://rapport-package.info/#intro) - An R templating system.
 
-### R Development
-
-*   [packrat (⭐396)](https://github.com/rstudio/packrat) - Make your R projects more isolated, portable, and reproducible.
-
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Files / Runner

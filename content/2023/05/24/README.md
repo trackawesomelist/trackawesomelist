@@ -47,7 +47,7 @@
 
 ### Vue / Transformers
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-css-modules (⭐14)](https://github.com/zeokku/vite-plugin-vue-css-modules) - Implicit usage of CSS Modules for template and script SFC tags with static replacement.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-css-modules (⭐15)](https://github.com/zeokku/vite-plugin-vue-css-modules) - Implicit usage of CSS Modules for template and script SFC tags with static replacement.
 
 ### Angular / Integrations
 
@@ -63,7 +63,7 @@
 
 ### Tools / Community providers
 
-*   [tf-profile (⭐135)](https://github.com/datarootsio/tf-profile/) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
+*   [tf-profile (⭐139)](https://github.com/datarootsio/tf-profile/) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
 
 ## [6. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

@@ -67,12 +67,12 @@
 
 ### Build Tools
 
-*   [active (⭐67)](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
+*   [active (⭐66)](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
 *   [mad (⭐172)](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
 
 ### CSV
 
-*   [csv (⭐475)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
+*   [csv (⭐479)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
 
 ### Debugging
 
@@ -80,7 +80,7 @@
 
 ### Files and Directories
 
-*   [fs (⭐228)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
+*   [fs (⭐229)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
 
 ### HTTP
 
@@ -96,7 +96,7 @@
 
 ### Testing
 
-*   [mix\_erlang\_tasks (⭐19)](https://github.com/alco/mix-erlang-tasks) - Common tasks for Erlang projects that use Mix.
+*   [mix\_erlang\_tasks (⭐20)](https://github.com/alco/mix-erlang-tasks) - Common tasks for Erlang projects that use Mix.
 
 ### Version Control
 

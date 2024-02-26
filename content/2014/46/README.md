@@ -10,7 +10,7 @@
 
 ### Logging
 
-*   [spdlog (⭐21k)](https://github.com/gabime/spdlog) - Super fast, header only, C++ logging library.
+*   [spdlog (⭐22k)](https://github.com/gabime/spdlog) - Super fast, header only, C++ logging library.
 
 ### Networking
 
@@ -71,7 +71,7 @@
 
 ### Table of Contents / Email
 
-*   [Email Validator (⭐161)](https://github.com/nojacko/email-validator) - A small email address validation library.
+*   [Email Validator (⭐162)](https://github.com/nojacko/email-validator) - A small email address validation library.
 
 ### Table of Contents / Testing
 

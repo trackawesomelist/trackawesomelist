@@ -21,7 +21,7 @@
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [ion (⭐78)](https://github.com/ion-lang/ion) - no BS JS
+*   [ion (⭐80)](https://github.com/ion-lang/ion) - no BS JS
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

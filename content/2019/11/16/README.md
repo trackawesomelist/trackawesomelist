@@ -62,11 +62,11 @@
 
 ### Big Data
 
-*   [Qlik (⭐47)](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
+*   [Qlik (⭐52)](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
 
 ### Health and Social Science
 
-*   [Digital History (⭐202)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
+*   [Digital History (⭐207)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
 
 ## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

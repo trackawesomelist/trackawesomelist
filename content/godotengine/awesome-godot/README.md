@@ -6,6 +6,12 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ Daily / [Weekly](/content/godotengine/awesome-godot/week/README.md) / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Feb 19, 2024](/content/2024/02/19/README.md)
+
+### Plugins and scripts / Various Godot versions
+
+*   [GdUnit4 (⭐333)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework (Godot 4.x).
+
 ## [Feb 17, 2024](/content/2024/02/17/README.md)
 
 ### 2D / Godot 4.2
@@ -160,12 +166,6 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 *   [Falling Square (⭐15)](https://github.com/EmilienLeroy/FallingSquare) - A simple mobile game to test your reflex.
 
-## [Oct 29, 2022](/content/2022/10/29/README.md)
-
-### Websites / Godot version unknown
-
-*   [The Godot Report](https://www.thegodotreport.com/) - A newsletter with news, tutorials, game and demo releases and more.
-
 ## [Oct 14, 2022](/content/2022/10/14/README.md)
 
 ### Templates / Godot 3.5+
@@ -235,7 +235,6 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 *   [GodotNotificationCenter (⭐59)](https://github.com/didier-v/GodotNotificationCenter) - A notification center (Godot 3.x).
 *   [Scrolling Background (⭐26)](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node (Godot 2.1,3.x).
 *   [SimpleGodotCRTShader (⭐331)](https://github.com/henriquelalves/SimpleGodotCRTShader) - A simple Godot shader that simulates CRT Displays (Godot 2.x, 3.x).
-*   [SMRT-Godot (⭐106)](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games (Godot 3.x).
 
 ## [Apr 18, 2022](/content/2022/04/18/README.md)
 
@@ -719,7 +718,6 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 *   [Delaunator GDScript (⭐77)](https://github.com/hiulit/Delaunator-GDScript) - A GDScript library for Delaunay triangulation of 2D points.
 *   [GDGIFExporter (⭐105)](https://github.com/jegor377/godot-gdgifexporter) - GIF exporter made entirely in GDScript.
 *   [GitHub integration (⭐224)](https://github.com/fenix-hub/godot-engine.github-integration) - Interact with GitHub without opening your browser.
-*   [GDGotm (⭐50)](https://github.com/PlayGotm/GDGotm/tree/master/gotm) - GDScript API for [gotm.io](https://gotm.io/).
 *   [godotccd (⭐60)](https://github.com/TheSHEEEP/godotccd) - Fast 3D collision checks in Godot using libccd.
 *   [godotdetour (⭐119)](https://github.com/TheSHEEEP/godotdetour) - A GDNative implementation of the detour/detourcrowd library.
 *   [Godot NExt (⭐878)](https://github.com/godot-extended-libraries/godot-next) - A set of basic node extensions.

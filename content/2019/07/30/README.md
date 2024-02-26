@@ -18,7 +18,7 @@
 
 ### Front-End Development
 
-*   [Angular (⭐9.1k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
+*   [Angular (⭐9.2k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
 
 ### Back-End Development
 
@@ -30,14 +30,14 @@
 
 ### Miscellaneous
 
-*   [FOSS Production Apps (⭐274)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
+*   [FOSS Production Apps (⭐278)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 *   [Crypto Currency Tools & Algorithms (⭐3.8k)](https://github.com/Zheaoli/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### HTTP
 
-*   [Cable (⭐118)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
+*   [Cable (⭐120)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
 
 ## [3. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 

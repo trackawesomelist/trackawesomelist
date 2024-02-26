@@ -20,7 +20,7 @@
 
 ### Table
 
-*   [ka-table (⭐635)](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
+*   [ka-table (⭐644)](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
 
 ## [3. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
@@ -239,15 +239,15 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-externals (⭐159)](https://github.com/crcong/vite-plugin-externals) - Exclude dependencies from the output bundles.
+*   [vite-plugin-externals (⭐162)](https://github.com/crcong/vite-plugin-externals) - Exclude dependencies from the output bundles.
 
 ### Libraries / Community
 
-*   [vite-ssr (⭐798)](https://github.com/frandiox/vite-ssr) - Simplified Server Side Rendering with an SPA-like developer experience. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
+*   [vite-ssr (⭐802)](https://github.com/frandiox/vite-ssr) - Simplified Server Side Rendering with an SPA-like developer experience. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
 
 ### Frameworks / Community
 
-*   [vitedge (⭐716)](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
+*   [vitedge (⭐719)](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
 
 ## [18. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -301,7 +301,7 @@
 
 ### Table of Contents / Code Quality
 
-*   [CaptainHook (⭐934)](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library.
+*   [CaptainHook (⭐936)](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library.
 
 ## [25. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -377,10 +377,6 @@
 
 
 ## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### APIs, Data, and ML
-
-*   [Iploka](https://iploka.com/) — IP to Geolocation API - Forever free plan for developers with 10k requests per month limit.
 
 ### Artifact Repos
 
@@ -595,11 +591,11 @@
 
 ### Algorithms and Data structures
 
-*   [crystalg (⭐36)](https://github.com/tobyapi/crystalg) - A Generic Algorithm Library
+*   [crystalg (⭐37)](https://github.com/tobyapi/crystalg) - A Generic Algorithm Library
 
 ### CLI Utils
 
-*   [oq (⭐184)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐27k)](https://github.com/stedolan/jq) filters to transform the data
+*   [oq (⭐187)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐28k)](https://github.com/stedolan/jq) filters to transform the data
 
 ### Dependency Injection
 
@@ -609,11 +605,11 @@
 
 *   [mochi (⭐24)](https://github.com/awcrotwell/mochi) - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
 *   [motion.cr (⭐53)](https://github.com/awcrotwell/motion.cr) - Object oriented frontend library for Amber
-*   [tourmaline (⭐152)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
+*   [tourmaline (⭐153)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
 
 ### Misc
 
-*   [burocracia.cr (⭐21)](https://github.com/vinibrsl/burocracia.cr) - burocracia.cr the dependecyless shard to validate, generate and format Brazilian burocracias such as CPF, CNPJ and CEP
+*   [burocracia.cr (⭐20)](https://github.com/vinibrsl/burocracia.cr) - burocracia.cr the dependecyless shard to validate, generate and format Brazilian burocracias such as CPF, CNPJ and CEP
 
 ### ORM/ODM Extensions
 
@@ -621,7 +617,7 @@
 
 ### Queues and Messaging
 
-*   [mosquito (⭐216)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
+*   [mosquito (⭐219)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
 
 ### Serverless Computing
 
@@ -634,7 +630,7 @@
 
 ### LSP Language Server Protocol Implementations
 
-*   [crystalline (⭐398)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
+*   [crystalline (⭐408)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
 
 ## [44. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
@@ -659,8 +655,8 @@
 
 ### Libraries/Frameworks / Web
 
-*   [hexagonkt/hexagon (⭐540)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
-*   [jwstegemann/fritz2 (⭐580)](https://github.com/jwstegemann/fritz2) - small lib to build reactive web-apps in pure Kotlin based on Flows
+*   [hexagonkt/hexagon (⭐542)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
+*   [jwstegemann/fritz2 (⭐585)](https://github.com/jwstegemann/fritz2) - small lib to build reactive web-apps in pure Kotlin based on Flows
 
 ### Libraries/Frameworks / Misc
 
@@ -668,7 +664,7 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [kotlin-graphics/glm (⭐116)](https://github.com/kotlin-graphics/glm) - g-truck glm port, opengl mathematics library
+*   [kotlin-graphics/glm (⭐118)](https://github.com/kotlin-graphics/glm) - g-truck glm port, opengl mathematics library
 
 ## [47. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 

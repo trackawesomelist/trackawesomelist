@@ -56,10 +56,6 @@
 
 *   [statsmodels](http://statsmodels.sourceforge.net) - Python module that allows users to explore data, estimate statistical models, and perform statistical tests.
 
-### R / Financial Instruments and Pricing
-
-*   [RQuantLib](http://dirk.eddelbuettel.com/code/rquantlib.html) - RQuantLib connects GNU R with QuantLib.
-
 ### R / Calendars
 
 *   [timeDate](https://cran.r-project.org/web/packages/timeDate/index.html) - Chronological and Calendar Objects
@@ -67,10 +63,6 @@
 ### Julia / FrameWorks
 
 *   [QuantLib.jl (⭐134)](https://github.com/pazzo83/QuantLib.jl) - Quantlib implementation in pure Julia.
-
-### Java / FrameWorks
-
-*   [JQuantLib](http://www.jquantlib.org) - JQuantLib is a free, open-source, comprehensive framework for quantitative finance, written in 100% Java.
 
 ### Reproducing Works, Training & Books / Data Visualization
 

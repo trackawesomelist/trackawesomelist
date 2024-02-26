@@ -65,7 +65,7 @@
 
 ### Other Tools / Telegram
 
-*   [Datasploit (⭐2.8k)](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
+*   [Datasploit (⭐2.9k)](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 
 ## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

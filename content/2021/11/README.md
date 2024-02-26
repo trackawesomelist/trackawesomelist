@@ -65,7 +65,7 @@
 
 ### Projects / Godot 3.2+
 
-*   [Arrow (⭐717)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
+*   [Arrow (⭐724)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
 
 ### Plugins and scripts / Godot 3.2+
 
@@ -394,11 +394,11 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [asakusaSatellite (⭐101)](https://github.com/codefirst/AsakusaSatellite) - A realtime chat application for developers (using Rails 6.0). - [:earth\_africa:](https://www.codefirst.org/AsakusaSatellite/)
 *   [catarse (⭐1.6k)](https://github.com/catarse/catarse) - A crowdfunding platform for creative projects (using Rails 4.2). - [:earth\_africa:](https://www.catarse.me/)
-*   [commudle (⭐249)](https://github.com/commudle/commudle) - A community management app (using Rails 5.2).
-*   [kanban (⭐640)](https://github.com/seanomlor/kanban) - A Trello clone (using Rails 4.2).
+*   [commudle (⭐248)](https://github.com/commudle/commudle) - A community management app (using Rails 5.2).
+*   [kanban (⭐641)](https://github.com/seanomlor/kanban) - A Trello clone (using Rails 4.2).
 *   [opensourcefriday (⭐1.2k)](https://github.com/github/opensourcefriday) - A project contribution tracking app (using Rails 6.0). - [:earth\_africa:](https://opensourcefriday.com)
 *   [peatio (⭐3.6k)](https://github.com/peatio/peatio) - A crypto currency exchange app (using Rails 4.0).
-*   [reservations (⭐139)](https://github.com/YaleSTC/reservations) - An inventory management app (using Rails 6.0). - [:earth\_africa:](http://yalestc.github.io/reservations/)
+*   [reservations (⭐140)](https://github.com/YaleSTC/reservations) - An inventory management app (using Rails 6.0). - [:earth\_africa:](http://yalestc.github.io/reservations/)
 *   [rletters](https://codeberg.org/rletters/rletters) - A frontend for database of journal articles for researchers (using Rails 6.0).
 *   [sanataro (⭐52)](https://github.com/kaznum/sanataro) - An account tracker (using Rails 4.2).
 
@@ -427,7 +427,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Integrations
 
-*   [axe-playwright (⭐153)](https://github.com/abhinaba-ghosh/axe-playwright) - Inofficial integration of Axe with Playwright.
+*   [axe-playwright (⭐160)](https://github.com/abhinaba-ghosh/axe-playwright) - Inofficial integration of Axe with Playwright.
 
 ## [29. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -477,11 +477,11 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Plugins
 
-*   🎨🧬 [Theme Variants (⭐174)](https://github.com/JakeNavith/tailwindcss-theme-variants) - Adds theme variants based on media queries and/or CSS selectors.
+*   🎨🧬 [Theme Variants (⭐176)](https://github.com/JakeNavith/tailwindcss-theme-variants) - Adds theme variants based on media queries and/or CSS selectors.
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Tailwind Cards (⭐551)](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
+*   🧩 [Tailwind Cards (⭐555)](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
 
 ## [36. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -514,7 +514,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Text and Numbers
 
-*   [minigen (⭐13)](https://github.com/mrdimosthenis/minigen) - Random data generators for the Erlang ecosystem.
+*   [minigen (⭐14)](https://github.com/mrdimosthenis/minigen) - Random data generators for the Erlang ecosystem.
 
 ## [40. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -653,7 +653,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Tools / Static Analysis Tools
 
-*   [APKLeaks (⭐4.4k)](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
+*   [APKLeaks (⭐4.5k)](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 
 ## [48. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 

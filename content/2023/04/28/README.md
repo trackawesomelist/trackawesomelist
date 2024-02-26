@@ -73,9 +73,9 @@
 
 ### Large Language Models (LLMs)
 
-*   \[🔥🔥🔥] [Mooler0410/LLMsPracticalGuide (⭐7.9k)](https://github.com/Mooler0410/LLMsPracticalGuide): list of practical guide resources of LLMs based on the paper [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
+*   \[🔥🔥🔥] [Mooler0410/LLMsPracticalGuide (⭐8.1k)](https://github.com/Mooler0410/LLMsPracticalGuide): list of practical guide resources of LLMs based on the paper [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
 *   [hpcaitech/ColossalAI (⭐36k)](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
-*   [microsoft/LoRA (⭐8.1k)](https://github.com/microsoft/LoRA): Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"s
+*   [microsoft/LoRA (⭐8.3k)](https://github.com/microsoft/LoRA): Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"s
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 

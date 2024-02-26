@@ -188,30 +188,30 @@ Free
 
 ### Front-End Development
 
-*   [Preact (⭐828)](https://github.com/preactjs/awesome-preact#readme) - App framework.
-*   [Web Performance Budget (⭐100)](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
+*   [Preact (⭐840)](https://github.com/preactjs/awesome-preact#readme) - App framework.
+*   [Web Performance Budget (⭐102)](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
 
 ### Computer Science
 
-*   [Static Analysis & Code Quality (⭐12k)](https://github.com/analysis-tools-dev/static-analysis#readme)
+*   [Static Analysis & Code Quality (⭐13k)](https://github.com/analysis-tools-dev/static-analysis#readme)
 
 ### Learn
 
-*   [Educational Games (⭐776)](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
+*   [Educational Games (⭐789)](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
 
 ### Hardware
 
-*   [Bluetooth Beacons (⭐875)](https://github.com/rabschi/awesome-beacon#readme)
+*   [Bluetooth Beacons (⭐878)](https://github.com/rabschi/awesome-beacon#readme)
 
 ### Decentralized Systems
 
-*   [Ethereum (⭐284)](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
+*   [Ethereum (⭐288)](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
 
 ### Miscellaneous
 
 *   [Continuous Integration and Continuous Delivery (⭐1.7k)](https://github.com/cicdops/awesome-ciandcd#readme)
-*   [Self Hosted (⭐160k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
-*   [Homematic (⭐179)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
+*   [Self Hosted (⭐169k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
+*   [Homematic (⭐181)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
 
 ## [21. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

@@ -54,16 +54,16 @@
 
 ### Libraries / Authentication
 
-*   [Keats/jsonwebtoken (⭐1.5k)](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) lib in rust
+*   [Keats/jsonwebtoken (⭐1.5k)](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) library
 
 ### Libraries / Computation
 
 *   Scirust
-    *   [indigits/scirust (⭐262)](https://github.com/indigits/scirust) — scientific computing library in Rust
+    *   [indigits/scirust (⭐262)](https://github.com/indigits/scirust) — scientific computing library
 
 ### Libraries / Logging
 
-*   [slog-rs/slog (⭐1.5k)](https://github.com/slog-rs/slog) — Structured, composable logging for Rust
+*   [slog-rs/slog (⭐1.5k)](https://github.com/slog-rs/slog) — Structured, composable logging
 
 ### Resources / Web programming
 
@@ -235,11 +235,11 @@
 ### Text and Numbers
 
 *   [numero (⭐6)](https://github.com/alisinabh/numero) - A micro library for converting non-english utf-8 digits in elixir.
-*   [veritaserum (⭐83)](https://github.com/uesteibar/veritaserum) - Sentiment analysis based on afinn-165, emojis and some enhancements.
+*   [veritaserum (⭐82)](https://github.com/uesteibar/veritaserum) - Sentiment analysis based on afinn-165, emojis and some enhancements.
 
 ### Third Party APIs
 
-*   [ethereumex (⭐369)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
+*   [ethereumex (⭐371)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
 
 ### Books
 
@@ -505,7 +505,7 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 ### Web Servers
 
-*   [Iodine (⭐870)](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
+*   [Iodine (⭐882)](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
 
 ## [39. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 

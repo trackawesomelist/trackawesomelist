@@ -54,7 +54,7 @@
 
 ### Software / Backups
 
-*   [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code (⭐42k)](https://github.com/rclone/rclone)) `MIT` `Go`
+*   [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code (⭐43k)](https://github.com/rclone/rclone)) `MIT` `Go`
 
 ## [8. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 

@@ -18,7 +18,7 @@
 ### Tools / Community providers
 
 *   [tf-init-booster (⭐7)](https://github.com/hayorov/terraform-init-booster) - A Pre-terraform routine that speedups terraform modules download for bulky blueprints.
-*   [tf-summarize (⭐430)](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan
+*   [tf-summarize (⭐436)](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan
 
 ## [3. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Software / Database Management
 
-*   [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Demo](https://demo.bytebase.com), [Source Code (⭐9.3k)](https://github.com/bytebase/bytebase)) `MIT` `Docker/K8S/Go`
+*   [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Demo](https://demo.bytebase.com), [Source Code (⭐9.4k)](https://github.com/bytebase/bytebase)) `MIT` `Docker/K8S/Go`
 
 ### Software / E-commerce
 
@@ -46,7 +46,7 @@
 
 ### Software / Genealogy
 
-*   [Genea.app](https://www.genea.app/) - Genea is a privacy by design and open source tool anyone can use to author or edit their family tree. Data is stored in the GEDCOM format and all processing is done in the browser. ([Source Code (⭐155)](https://github.com/genea-app/genea-app)) `MIT` `Javascript`
+*   [Genea.app](https://www.genea.app/) - Genea is a privacy by design and open source tool anyone can use to author or edit their family tree. Data is stored in the GEDCOM format and all processing is done in the browser. ([Source Code (⭐157)](https://github.com/genea-app/genea-app)) `MIT` `Javascript`
 
 ### Software / Groupware
 
@@ -54,7 +54,7 @@
 
 ### Software / Learning and Courses
 
-*   [Gibbon](https://gibbonedu.org/) - The flexible, open source school management platform designed to make life better for teachers, students, parents and leaders. ([Source Code (⭐424)](https://github.com/GibbonEdu/core)) `GPL-3.0` `PHP`
+*   [Gibbon](https://gibbonedu.org/) - The flexible, open source school management platform designed to make life better for teachers, students, parents and leaders. ([Source Code (⭐430)](https://github.com/GibbonEdu/core)) `GPL-3.0` `PHP`
 
 ### Software / Note-taking & Editors
 
@@ -62,10 +62,10 @@
 
 ### Software / Polls and Events
 
-*   [Christmas Community (⭐163)](https://github.com/Wingysam/Christmas-Community) - Create a simple place for your entire family to use to find gifts that people want, and to avoid double-gifting. `AGPL-3.0` `Docker/Nodejs`
-*   [Fider](https://fider.io) - Open platform to collect and prioritize feedback (alternative to UserVoice). ([Demo](https://demo.fider.io), [Source Code (⭐2.5k)](https://github.com/getfider/fider)) `MIT` `Docker`
+*   [Christmas Community (⭐166)](https://github.com/Wingysam/Christmas-Community) - Create a simple place for your entire family to use to find gifts that people want, and to avoid double-gifting. `AGPL-3.0` `Docker/Nodejs`
+*   [Fider](https://fider.io) - Open platform to collect and prioritize feedback (alternative to UserVoice). ([Demo](https://demo.fider.io), [Source Code (⭐2.6k)](https://github.com/getfider/fider)) `MIT` `Docker`
 *   [Framadate](https://framadate.org/abc/) - Online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision. ([Demo](https://framadate.org/aqg259dth55iuhwm), [Source Code](https://framagit.org/framasoft/framadate?)) `CECILL-B` `PHP`
-*   [Meetable](https://events.indieweb.org) - A minimal events aggregator. ([Source Code (⭐84)](https://github.com/aaronpk/Meetable)) `MIT` `PHP`
+*   [Meetable](https://events.indieweb.org) - A minimal events aggregator. ([Source Code (⭐85)](https://github.com/aaronpk/Meetable)) `MIT` `PHP`
 
 ### Software / Proxy
 
@@ -77,7 +77,7 @@
 
 ### Software / Search Engines
 
-*   [MeiliSearch](https://www.meilisearch.com) - Ultra relevant, instant and typo-tolerant full-text search API. ([Source Code (⭐41k)](https://github.com/meilisearch/MeiliSearch)) `MIT` `Rust/Docker/deb`
+*   [MeiliSearch](https://www.meilisearch.com) - Ultra relevant, instant and typo-tolerant full-text search API. ([Source Code (⭐42k)](https://github.com/meilisearch/MeiliSearch)) `MIT` `Rust/Docker/deb`
 
 ### Software / Wikis
 
@@ -93,7 +93,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-virtual-mpa (⭐69)](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin, with html template engine and virtual files support, which generate multiple files using only one template.
+*   [vite-plugin-virtual-mpa (⭐76)](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin, with html template engine and virtual files support, which generate multiple files using only one template.
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -139,7 +139,7 @@
 ### Audio and Sounds
 
 *   [ex\_alsa (⭐2)](https://github.com/dulltools/ex_alsa) - Elixir ALSA bindings.
-*   [ex\_jack (⭐4)](https://github.com/dulltools/ex_jack) - Elixir JACK bindings.
+*   [ex\_jack (⭐5)](https://github.com/dulltools/ex_jack) - Elixir JACK bindings.
 
 ### Configuration
 
@@ -147,7 +147,7 @@
 
 ### Errors and Exception Handling
 
-*   [AppSignal Elixir (⭐262)](https://github.com/appsignal/appsignal-elixir) - The official [AppSignal](https://appsignal.com/) package for Elixir.
+*   [AppSignal Elixir (⭐266)](https://github.com/appsignal/appsignal-elixir) - The official [AppSignal](https://appsignal.com/) package for Elixir.
 
 ### Geolocation
 
@@ -163,7 +163,7 @@
 
 ### Miscellaneous
 
-*   [cubdb (⭐495)](https://github.com/lucaong/cubdb) - CubDB is an embedded key-value database, written in the Elixir language. It runs locally, it is schema-less, and backed by a single file.
+*   [cubdb (⭐500)](https://github.com/lucaong/cubdb) - CubDB is an embedded key-value database, written in the Elixir language. It runs locally, it is schema-less, and backed by a single file.
 *   [quarantine (⭐2)](https://github.com/leorog/quarantine) - Quarantine is a tiny OTP application for feature toggles.
 
 ### ORM and Datamapping
@@ -172,18 +172,18 @@
 
 ### Testing
 
-*   [dummy (⭐1)](https://github.com/Vesuvium/dummy) - An Elixir mocking library that makes sense by exposing meck in the right way.
-*   [propcheck (⭐348)](https://github.com/alfert/propcheck) - Property based testing for Elixir.
+*   [dummy (⭐2)](https://github.com/Vesuvium/dummy) - An Elixir mocking library that makes sense by exposing meck in the right way.
+*   [propcheck (⭐352)](https://github.com/alfert/propcheck) - Property based testing for Elixir.
 
 ### Utilities
 
 *   [plugmap (⭐3)](https://github.com/nerdslabs/plugmap) - Plugmap is sitemap generation library for Plug/Phoenix Framework.
-*   [sitemapper (⭐35)](https://github.com/tomtaylor/sitemapper) - A fast, stream based XML Sitemap generator.
+*   [sitemapper (⭐34)](https://github.com/tomtaylor/sitemapper) - A fast, stream based XML Sitemap generator.
 
 ### Books
 
 *   [Elixir Succinctly](https://www.syncfusion.com/ebooks/elixir-succinctly) - A short book to learn the basic of Elixir and its ecosystem.
-*   [Études for Elixir](https://www.oreilly.com/library/view/etudes-for-elixir/9781491917640/) - A collection of exercises to program in Elixir by J. David Eisenberg (2013) ([Github Repo (⭐512)](https://github.com/oreillymedia/etudes-for-elixir)).
+*   [Études for Elixir](https://www.oreilly.com/library/view/etudes-for-elixir/9781491917640/) - A collection of exercises to program in Elixir by J. David Eisenberg (2013) ([Github Repo (⭐511)](https://github.com/oreillymedia/etudes-for-elixir)).
 
 ### Podcasts
 
@@ -208,7 +208,7 @@
 *   Pocket (Formerly Read It Later) - [Bad privacy policy](https://tosdr.org/en/service/384). [Apps have trackers](https://reports.exodus-privacy.eu.org/en/reports/com.ideashower.readitlater.pro/latest/) and requires many permissions.
 *   Evernote Web Clipper -  [Bad privacy policy](https://tosdr.org/en/service/207). [Apps have many trackers](https://reports.exodus-privacy.eu.org/en/reports/com.evernote/latest/) and require too many permissions.
 *   [LinkAce (⭐2.3k)](https://github.com/Kovah/LinkAce)
-*   [LinkDing (⭐4.5k)](https://github.com/sissbruecker/linkding)
+*   [LinkDing (⭐4.7k)](https://github.com/sissbruecker/linkding)
 *   [Shiori (⭐8.4k)](https://github.com/go-shiori/shiori)
 *   [Wallabag](https://wallabag.org/) - Open-source, optionally self-hosted, read it later server. Provides paid hosted service with privacy in mind.
 

@@ -203,11 +203,11 @@
 ### Software / Automation
 
 *   [Headphones (⭐3.3k)](https://github.com/rembo10/headphones) - Automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole. `GPL-3.0` `Python`
-*   [Sonarr](https://sonarr.tv/) - Automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available. ([Source Code (⭐9.6k)](https://github.com/Sonarr/Sonarr)) `GPL-3.0` `C#/Docker`
+*   [Sonarr](https://sonarr.tv/) - Automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available. ([Source Code (⭐9.7k)](https://github.com/Sonarr/Sonarr)) `GPL-3.0` `C#/Docker`
 
 ### Software / Blogging Platforms
 
-*   [Antville](https://antville.org) - Free, open source project aimed at the development of a high performance, feature rich weblog hosting software. ([Source Code (⭐71)](https://github.com/antville/antville)) `Apache-2.0` `Javascript`
+*   [Antville](https://antville.org) - Free, open source project aimed at the development of a high performance, feature rich weblog hosting software. ([Source Code (⭐73)](https://github.com/antville/antville)) `Apache-2.0` `Javascript`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -215,7 +215,7 @@
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social and more). ([Source Code (⭐6.4k)](https://github.com/mautic/mautic)) `GPL-3.0` `PHP`
+*   [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social and more). ([Source Code (⭐6.5k)](https://github.com/mautic/mautic)) `GPL-3.0` `PHP`
 *   [Schleuder](https://schleuder.nadir.org/) - GPG-enabled mailing list manager with resending-capabilities. ([Source Code](https://0xacab.org/schleuder/schleuder/tree/master)) `GPL-3.0` `Ruby`
 
 ### Software / Communication - IRC
@@ -229,16 +229,16 @@
 
 ### Software / Communication - XMPP - Web Clients
 
-*   [JSXC](https://jsxc.org) - Real-time XMPP web chat application with video calls, file transfer and encrypted communication. There are also versions for Nextcloud/Owncloud and SOGo. ([Source Code (⭐699)](https://github.com/jsxc/jsxc)) `MIT` `Javascript`
+*   [JSXC](https://jsxc.org) - Real-time XMPP web chat application with video calls, file transfer and encrypted communication. There are also versions for Nextcloud/Owncloud and SOGo. ([Source Code (⭐701)](https://github.com/jsxc/jsxc)) `MIT` `Javascript`
 
 ### Software / Content Management Systems (CMS)
 
-*   [REDAXO](https://www.redaxo.org) - Simple, flexible and useful content management system (documentation only available in German). ([Source Code (⭐313)](https://github.com/redaxo/redaxo)) `MIT` `PHP/Docker`
-*   [TYPO3](https://typo3.org/) - Powerful and advanced CMS with a large community. ([Source Code (⭐988)](https://github.com/TYPO3/typo3)) `GPL-2.0` `PHP`
+*   [REDAXO](https://www.redaxo.org) - Simple, flexible and useful content management system (documentation only available in German). ([Source Code (⭐315)](https://github.com/redaxo/redaxo)) `MIT` `PHP/Docker`
+*   [TYPO3](https://typo3.org/) - Powerful and advanced CMS with a large community. ([Source Code (⭐994)](https://github.com/TYPO3/typo3)) `GPL-2.0` `PHP`
 
 ### Software / Feed Readers
 
-*   [Temboz (⭐74)](https://github.com/fazalmajid/temboz) - Two-column feed reader emphasizing filtering capabilities to manage information overload. `MIT` `Python`
+*   [Temboz (⭐78)](https://github.com/fazalmajid/temboz) - Two-column feed reader emphasizing filtering capabilities to manage information overload. `MIT` `Python`
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
@@ -246,16 +246,16 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Plik (⭐1.3k)](https://github.com/root-gg/plik) - Plik is a scalable and friendly temporary file upload system. ([Demo](https://plik.root.gg/)) `MIT` `Go/Docker`
+*   [Plik (⭐1.4k)](https://github.com/root-gg/plik) - Plik is a scalable and friendly temporary file upload system. ([Demo](https://plik.root.gg/)) `MIT` `Go/Docker`
 
 ### Software / Miscellaneous
 
-*   [DomainMOD](https://domainmod.org) - Application to manage your domains and other internet assets in a central location. DomainMOD includes a Data Warehouse framework that allows you to import your WHM/cPanel web server data so that you can view, export, and report on your data. ([Demo](https://demo.domainmod.org), [Source Code (⭐427)](https://github.com/domainmod/domainmod)) `GPL-3.0` `PHP`
+*   [DomainMOD](https://domainmod.org) - Application to manage your domains and other internet assets in a central location. DomainMOD includes a Data Warehouse framework that allows you to import your WHM/cPanel web server data so that you can view, export, and report on your data. ([Demo](https://demo.domainmod.org), [Source Code (⭐432)](https://github.com/domainmod/domainmod)) `GPL-3.0` `PHP`
 *   [google-webfonts-helper (⭐12k)](https://github.com/majodev/google-webfonts-helper) `⚠` - Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets. ([Demo](https://gwfh.mranftl.com/fonts)) `MIT` `Nodejs`
 
 ### Software / Money, Budgeting & Management
 
-*   [Invoice Ninja](https://www.invoiceninja.org/) - Powerful tool to invoice clients online. ([Demo](https://app.invoiceninja.com/invoices/create), [Source Code (⭐7.5k)](https://github.com/invoiceninja/invoiceninja)) `AAL` `PHP/Docker/K8S`
+*   [Invoice Ninja](https://www.invoiceninja.org/) - Powerful tool to invoice clients online. ([Demo](https://app.invoiceninja.com/invoices/create), [Source Code (⭐7.6k)](https://github.com/invoiceninja/invoiceninja)) `AAL` `PHP/Docker/K8S`
 
 ### Software / Note-taking & Editors
 
@@ -263,19 +263,19 @@
 
 ### Software / Office Suites
 
-*   [Infinoted (⭐561)](https://github.com/gobby/gobby/wiki/Dedicated%20Server) - Server for [Gobby (⭐561)](https://github.com/gobby/gobby/wiki), a multi-platform collaborative text editor. ([Source Code (⭐561)](https://github.com/gobby/gobby)) `MIT` `C++`
+*   [Infinoted (⭐562)](https://github.com/gobby/gobby/wiki/Dedicated%20Server) - Server for [Gobby (⭐562)](https://github.com/gobby/gobby/wiki), a multi-platform collaborative text editor. ([Source Code (⭐562)](https://github.com/gobby/gobby)) `MIT` `C++`
 
 ### Software / Pastebins
 
-*   [Sup3rS3cretMes5age (⭐440)](https://github.com/algolia/sup3rS3cretMes5age) - Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
+*   [Sup3rS3cretMes5age (⭐443)](https://github.com/algolia/sup3rS3cretMes5age) - Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
 
 ### Software / Software Development - Project Management
 
-*   [Gitea](https://gitea.io) - Community managed, lightweight code hosting solution (fork of Gogs). ([Demo](https://try.gitea.io), [Source Code (⭐40k)](https://github.com/go-gitea/gitea)) `MIT` `Go/Docker/K8S`
+*   [Gitea](https://gitea.io) - Community managed, lightweight code hosting solution (fork of Gogs). ([Demo](https://try.gitea.io), [Source Code (⭐41k)](https://github.com/go-gitea/gitea)) `MIT` `Go/Docker/K8S`
 
 ### Software / Ticketing
 
-*   [Zammad](https://zammad.org/) - Easy to use but powerful open-source support and ticketing system. ([Source Code (⭐3.9k)](https://github.com/zammad/zammad)) `AGPL-3.0` `Ruby/deb`
+*   [Zammad](https://zammad.org/) - Easy to use but powerful open-source support and ticketing system. ([Source Code (⭐4k)](https://github.com/zammad/zammad)) `AGPL-3.0` `Ruby/deb`
 
 ### Software / Wikis
 
@@ -382,7 +382,7 @@
 
 ### Database Tools
 
-*   [migrate (⭐31)](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
+*   [migrate (⭐30)](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
 
 ## [23. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
@@ -424,15 +424,15 @@
 
 ### Command Line Applications
 
-*   [ex\_prompt (⭐30)](https://github.com/behind-design/ex_prompt) - Helper package to add interactivity to your command line applications as easy as possible.
+*   [ex\_prompt (⭐29)](https://github.com/behind-design/ex_prompt) - Helper package to add interactivity to your command line applications as easy as possible.
 
 ### Cryptography
 
-*   [ntru\_elixir (⭐14)](https://github.com/alisinabh/ntru_elixir) - Elixir wrapper for libntru. A post quantum cryptography system.
+*   [ntru\_elixir (⭐15)](https://github.com/alisinabh/ntru_elixir) - Elixir wrapper for libntru. A post quantum cryptography system.
 
 ### Debugging
 
-*   [rexbug (⭐234)](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
+*   [rexbug (⭐237)](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
 
 ### Deployment
 
@@ -444,7 +444,7 @@
 
 ### HTTP
 
-*   [gun (⭐865)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
+*   [gun (⭐874)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
 
 ### Miscellaneous
 
@@ -456,8 +456,8 @@
 
 ### Templating
 
-*   [calliope (⭐194)](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
-*   [slime (⭐358)](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
+*   [calliope (⭐196)](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
+*   [slime (⭐359)](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
 
 ### Text and Numbers
 
@@ -465,7 +465,7 @@
 
 ### Third Party APIs
 
-*   [gringotts (⭐472)](https://github.com/aviabird/gringotts) - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) from the Ruby world.
+*   [gringotts (⭐475)](https://github.com/aviabird/gringotts) - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) from the Ruby world.
 
 ### Books
 
@@ -632,7 +632,7 @@ Wifi pw: `portuguesa`
 
 ### Frameworks
 
-*   [FunctionalPlus (⭐1.9k)](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code. \[MIT]
+*   [FunctionalPlus (⭐2k)](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code. \[MIT]
 
 ### Artificial Intelligence
 

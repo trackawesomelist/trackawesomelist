@@ -23,7 +23,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Flowbite Admin Dashboard (⭐1.3k)](https://github.com/themesberg/flowbite-admin-dashboard) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
+*   📁 [Flowbite Admin Dashboard (⭐1.4k)](https://github.com/themesberg/flowbite-admin-dashboard) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
 
 ## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -35,13 +35,13 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [Vite-plugin-haxe (⭐4)](https://github.com/ciscoheat/vite-plugin-haxe) - Use Haxe when targeting JS, transforming `.hxml`.
+*   [Vite-plugin-haxe (⭐5)](https://github.com/ciscoheat/vite-plugin-haxe) - Use Haxe when targeting JS, transforming `.hxml`.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Static Page Generation
 
-*   [NimblePublisher (⭐414)](https://github.com/dashbitco/nimble_publisher) - Minimal filesystem-based publisher with markdown and syntax highlighting.
+*   [NimblePublisher (⭐428)](https://github.com/dashbitco/nimble_publisher) - Minimal filesystem-based publisher with markdown and syntax highlighting.
 
 ### Third Party APIs
 
@@ -108,7 +108,7 @@
 
 ### Photo / Image
 
-*   [yet-another-react-lightbox (⭐588)](https://github.com/igordanchenko/yet-another-react-lightbox) - [demo](https://yet-another-react-lightbox.com/examples) - [docs](https://yet-another-react-lightbox.com/documentation) - React lightbox component.
+*   [yet-another-react-lightbox (⭐615)](https://github.com/igordanchenko/yet-another-react-lightbox) - [demo](https://yet-another-react-lightbox.com/examples) - [docs](https://yet-another-react-lightbox.com/documentation) - React lightbox component.
 
 ## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

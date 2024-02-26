@@ -6,6 +6,36 @@
 
 [ [Daily](/content/markets/awesome-ruby/README.md) / Weekly / [Overview](/content/markets/awesome-ruby/readme/README.md) ]
 
+## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
+
+### Admin Interface
+
+*   [Avo Admin for Rails](https://avohq.io/rails-admin) - Avo is the modern approach to building an advanced admin panel that can be used by the entire organization. It has all the tools an admin panel needs and more. We have carefully made sure that you have all the escape hatches you need to ensure you can build your next admin panel for Ruby on Rails incredibly fast and easily.
+
+### CMS
+
+*   [Avo CMS for Rails](https://avohq.io/ruby-on-rails-content-management-system) - Avo is a very custom Content Management System for Ruby on Rails that saves engineers and teams months of development time. It's designed to use your app's database structure, uses configuration instead of traditional methods, and when configuration isn't enough, it falls back to writing regular Rails code that you're used to.
+
+### DevOps Tools
+
+*   [Kanrisuru (⭐16)](https://github.com/avamia/kanrisuru) - Manage remote infrastructure in Ruby
+
+### ORM/ODM Extensions
+
+*   Auditing and Versioning
+    *   [active\_snapshot (⭐93)](https://github.com/westonganger/active_snapshot) - Simplified snapshots and restoration for ActiveRecord models and associations with a transparent white-box implementation
+    *   [acts\_as\_archival (⭐128)](https://github.com/expectedbehavior/acts_as_archival) - ActiveRecord plugin for atomic object tree archiving.
+    *   [ActsAsParanoid (⭐1.4k)](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
+    *   [Audited (⭐3.3k)](https://github.com/collectiveidea/audited) - Audited is an ORM extension for ActiveRecord & MongoMapper that logs all changes to your models.
+    *   [Destroyed At (⭐351)](https://github.com/dockyard/ruby-destroyed_at) - Allows you to "destroy" an object without deleting the record or associated records.
+    *   [Discard (⭐2k)](https://github.com/jhawthorn/discard) - A simple ActiveRecord mixin to add conventions for flagging records as discarded.
+    *   [Logidze (⭐1.5k)](https://github.com/palkan/logidze) - Database changes log for Rails.
+    *   [marginalia (⭐1.7k)](https://github.com/basecamp/marginalia) - Attach comments to your ActiveRecord queries. By default, it adds the application, controller, and action names as a comment at the end of each query.
+    *   [mongoid-history (⭐387)](https://github.com/aq1018/mongoid-history) - Multi-user non-linear history tracking, auditing, undo, redo for mongoid.
+    *   [PaperTrail (⭐6.7k)](https://github.com/airblade/paper_trail) - Track changes to your ActiveRecord models' data for auditing or versioning.
+    *   [Paranoia (⭐2.8k)](https://github.com/radar/paranoia) - A re-implementation of acts\_as\_paranoid for Rails 3 and 4, using much, much, much less code.
+    *   [PermenantRecords (⭐236)](https://github.com/JackDanger/permanent_records) - Soft-delete your ActiveRecord records, like an explicit version of ActsAsParanoid.
+
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
 ### Admin Interface
@@ -369,10 +399,6 @@
 
 ## [Oct 18 - Oct 24, 2021](/content/2021/42/README.md)
 
-### Admin Interface
-
-*   [Avo](https://avohq.io) - Avo is a next-generation framework that empowers developers and teams to create fantastic admin panels for Ruby on Rails projects in hours, not days or weeks. Fast, extendable, with a developer-friendly API, it just works out of the box.
-
 ### Core Extensions
 
 *   [Bitwise (⭐43)](https://github.com/kenn/bitwise) - Fast, memory efficient bitwise operations on large binary strings
@@ -522,7 +548,7 @@
 
 ### CRM
 
-*   [Hitobito (⭐333)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito (⭐334)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
 ## [Jan 04 - Jan 10, 2021](/content/2021/1/README.md)
 
@@ -721,7 +747,7 @@
 
 ### Game Development and Graphics
 
-*   [Ruby 2D (⭐620)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
+*   [Ruby 2D (⭐621)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
 
 ## [Feb 10 - Feb 16, 2020](/content/2020/6/README.md)
 
@@ -831,7 +857,7 @@
 
 ### Web Servers
 
-*   [Agoo (⭐869)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
+*   [Agoo (⭐874)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 
 ## [Jul 01 - Jul 07, 2019](/content/2019/26/README.md)
 
@@ -1810,7 +1836,7 @@
 ### E-Commerce and Payments
 
 *   [Active Merchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) - A simple payment abstraction library extracted from Shopify.
-*   [Solidus (⭐4.8k)](https://github.com/solidusio/solidus) - An open source, eCommerce application for high volume retailers.
+*   [Solidus (⭐4.9k)](https://github.com/solidusio/solidus) - An open source, eCommerce application for high volume retailers.
 
 ### Ebook
 
@@ -2349,18 +2375,6 @@
 
 ### ORM/ODM Extensions
 
-*   Auditing and Versioning
-    *   [acts\_as\_archival (⭐128)](https://github.com/expectedbehavior/acts_as_archival) - ActiveRecord plugin for atomic object tree archiving.
-    *   [ActsAsParanoid (⭐1.4k)](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
-    *   [Audited (⭐3.3k)](https://github.com/collectiveidea/audited) - Audited is an ORM extension for ActiveRecord & MongoMapper that logs all changes to your models.
-    *   [Destroyed At (⭐351)](https://github.com/dockyard/ruby-destroyed_at) - Allows you to "destroy" an object without deleting the record or associated records.
-    *   [Discard (⭐2k)](https://github.com/jhawthorn/discard) - A simple ActiveRecord mixin to add conventions for flagging records as discarded.
-    *   [Logidze (⭐1.5k)](https://github.com/palkan/logidze) - Database changes log for Rails.
-    *   [marginalia (⭐1.7k)](https://github.com/basecamp/marginalia) - Attach comments to your ActiveRecord queries. By default, it adds the application, controller, and action names as a comment at the end of each query.
-    *   [mongoid-history (⭐387)](https://github.com/aq1018/mongoid-history) - Multi-user non-linear history tracking, auditing, undo, redo for mongoid.
-    *   [PaperTrail (⭐6.7k)](https://github.com/airblade/paper_trail) - Track changes to your ActiveRecord models' data for auditing or versioning.
-    *   [Paranoia (⭐2.8k)](https://github.com/radar/paranoia) - A re-implementation of acts\_as\_paranoid for Rails 3 and 4, using much, much, much less code.
-    *   [PermenantRecords (⭐236)](https://github.com/JackDanger/permanent_records) - Soft-delete your ActiveRecord records, like an explicit version of ActsAsParanoid.
 *   Social
     *   [Merit (⭐1.5k)](https://github.com/merit-gem/merit) - Adds reputation behavior to Rails apps in the form of Badges, Points, and Rankings for ActiveRecord or Mongoid.
     *   [PublicActivity (⭐2.9k)](https://github.com/chaps-io/public_activity) - Provides easy activity tracking for your ActiveRecord, Mongoid 3 and MongoMapper models in Rails 3 and 4. Similar to Github's Public Activity.

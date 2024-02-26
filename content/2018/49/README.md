@@ -60,7 +60,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail Tag Manager (⭐69)](https://github.com/jberghoef/wagtail-tag-manager) - A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags.
+*   [Wagtail Tag Manager (⭐70)](https://github.com/jberghoef/wagtail-tag-manager) - A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags.
 
 ### Open-source sites / Lists
 
@@ -93,7 +93,7 @@
 
 ### Image Processing
 
-*   [stb-image (⭐24k)](https://github.com/nothings/stb/blob/master/stb_image.h) - STB single-header image loading library. \[Public Domain]
+*   [stb-image (⭐25k)](https://github.com/nothings/stb/blob/master/stb_image.h) - STB single-header image loading library. \[Public Domain]
 
 ## [13. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -151,13 +151,13 @@
 
 ### Contents / High-Availability
 
-*   [pglookout (⭐169)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
+*   [pglookout (⭐179)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
 
 ### Contents / Backups
 
 *   [Barman](https://www.pgbarman.org/index.html) - Backup and Recovery Manager for PostgreSQL by 2ndQuadrant.
 *   [pgBackRest](https://pgbackrest.org/)  - Reliable PostgreSQL Backup & Restore.
-*   [pghoard (⭐1.2k)](https://github.com/aiven/pghoard) - Backup and restore tool for cloud object stores (AWS S3, Azure, Google Cloud, OpenStack Swift).
+*   [pghoard (⭐1.3k)](https://github.com/aiven/pghoard) - Backup and restore tool for cloud object stores (AWS S3, Azure, Google Cloud, OpenStack Swift).
 
 ### Contents / GUI
 
@@ -169,7 +169,7 @@
 
 ### Contents / Extensions
 
-*   [pg\_partman (⭐1.6k)](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
+*   [pg\_partman (⭐1.8k)](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
 *   [pgTAP](https://pgtap.org/) - Database testing framework for Postgres
 
 ### Contents / Optimization
@@ -178,8 +178,8 @@
 
 ### Contents / Utilities
 
-*   [PostgREST (⭐21k)](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database.
-*   [sqitch (⭐2.6k)](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
+*   [PostgREST (⭐22k)](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database.
+*   [sqitch (⭐2.7k)](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
 
 ### Contents / Language bindings
 

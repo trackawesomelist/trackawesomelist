@@ -109,7 +109,7 @@
 
 ### Date and Time
 
-*   [cocktail (⭐209)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
+*   [cocktail (⭐208)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
 
 ### Examples and funny stuff
 
@@ -129,7 +129,7 @@
 
 ### Security
 
-*   [pwned (⭐22)](https://github.com/thiamsantos/pwned) - Check if your password has been pwned.
+*   [pwned (⭐23)](https://github.com/thiamsantos/pwned) - Check if your password has been pwned.
 
 ### Testing
 
@@ -137,7 +137,7 @@
 
 ### Third Party APIs
 
-*   [shopify (⭐101)](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
+*   [shopify (⭐102)](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
 
 ### Translations and Internationalizations
 
@@ -294,8 +294,8 @@
 
 ### System
 
-*   [baked\_file\_system (⭐172)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
-*   [hardware (⭐70)](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
+*   [baked\_file\_system (⭐174)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
+*   [hardware (⭐71)](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
 
 ## [18. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -354,7 +354,7 @@
 
 ### Applications / Directory Navigation
 
-*   [gcalcli (⭐3.1k)](https://github.com/insanum/gcalcli) - Google Calendar command line interface
+*   [gcalcli (⭐3.2k)](https://github.com/insanum/gcalcli) - Google Calendar command line interface
 
 ## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

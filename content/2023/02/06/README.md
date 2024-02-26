@@ -41,7 +41,7 @@
 
 ### Applications / Security tools
 
-*   [cargo-crev](https://crates.io/crates/cargo-crev) - A cryptographically verifiable code review system for the cargo (Rust) package manager.
+*   [cargo-crev](https://crates.io/crates/cargo-crev) - A cryptographically verifiable code review system for the cargo package manager.
 
 ### Libraries / Parsing
 

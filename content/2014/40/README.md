@@ -24,25 +24,19 @@
 
 *   [ARIA from MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 
-## [4. Awesome Python](/content/vinta/awesome-python/week/README.md)
-
-### E-commerce
-
-*   [python-currencies (⭐69)](https://github.com/Alir3z4/python-currencies) - Display money format and its filthy currencies.
-
-## [5. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [4. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Pagination
 
-*   [order\_query (⭐509)](https://github.com/glebm/order_query) - A keyset pagination library to find the next or previous record(s) relative to the current one efficiently, e.g. for infinite scroll.
+*   [order\_query (⭐511)](https://github.com/glebm/order_query) - A keyset pagination library to find the next or previous record(s) relative to the current one efficiently, e.g. for infinite scroll.
 
-## [6. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [5. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Debugging
 
 *   [figwheel (⭐2.9k)](https://github.com/bhauman/lein-figwheel)
 
-## [7. Awesome Knockout](/content/dnbard/awesome-knockout/week/README.md)
+## [6. Awesome Knockout](/content/dnbard/awesome-knockout/week/README.md)
 
 ### Frameworks
 
@@ -84,11 +78,11 @@
 *   [Repeat (⭐130)](https://github.com/mbest/knockout-repeat) - The repeat binding can replace foreach in many instances and is faster and simpler
 *   [Table (⭐86)](https://github.com/mbest/knockout-table) - Table binding plugin for Knockout
 
-## [8. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [array (⭐33)](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
+*   [array (⭐34)](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
 
 ### Build Tools
 
@@ -96,7 +90,7 @@
 
 ### Caching
 
-*   [con\_cache (⭐886)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
+*   [con\_cache (⭐891)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
 
 ### Code Analysis
 
@@ -105,7 +99,7 @@
 
 ### Configuration
 
-*   [conform (⭐377)](https://github.com/bitwalker/conform) - Easy release configuration for Elixir apps.
+*   [conform (⭐376)](https://github.com/bitwalker/conform) - Easy release configuration for Elixir apps.
 *   [ex\_conf (⭐35)](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
 
 ### CSV
@@ -127,11 +121,11 @@
 
 *   [phoenix (⭐20k)](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
 *   [placid (⭐189)](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
-*   [sugar (⭐425)](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
+*   [sugar (⭐426)](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
 
 ### Geolocation
 
-*   [geo (⭐595)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
+*   [geo (⭐599)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
 
 ### Hardware
 
@@ -140,25 +134,25 @@
 ### JSON
 
 *   [jazz (⭐61)](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
-*   [joken (⭐731)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
+*   [joken (⭐735)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
 *   [jsxn (⭐26)](https://github.com/talentdeficit/jsxn) - jsx but with maps.
 
 ### Markdown
 
 *   [discount (⭐21)](https://github.com/asaaki/discount.ex) - Elixir NIF for discount, a Markdown parser.
-*   [earmark (⭐827)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
+*   [earmark (⭐831)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
 
 ### Miscellaneous
 
 *   [exquisite (⭐78)](https://github.com/meh/exquisite) - LINQ-like match\_spec generation for Elixir.
-*   [porcelain (⭐922)](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
+*   [porcelain (⭐926)](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 *   [reprise (⭐42)](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
 *   [spawndir (⭐3)](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
 
 ### Networking
 
 *   [reagent (⭐92)](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
-*   [socket (⭐681)](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
+*   [socket (⭐684)](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
 *   [wpa\_supplicant (⭐5)](https://github.com/fhunleth/wpa_supplicant.ex) - Elixir interface to the wpa\_supplicant.
 
 ### OTP
@@ -172,7 +166,7 @@
 
 ### Release Management
 
-*   [exrm (⭐924)](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
+*   [exrm (⭐925)](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
 
 ### REST and API
 
@@ -204,9 +198,9 @@
 
 ### Websites
 
-*   [Elixir Github Repository (⭐22k)](https://github.com/elixir-lang/elixir) - The project repository.
+*   [Elixir Github Repository (⭐23k)](https://github.com/elixir-lang/elixir) - The project repository.
 
-## [9. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
+## [8. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
 ### Workflow Overviews
 
@@ -220,17 +214,23 @@
 
 *   [CSS module system in Google+ (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list/issues/3) ([slides](https://docs.google.com/presentation/d/1_LpRI2_grOgTKyqodgg8yWGDhStgZHxnvjFOTJ6Jb3g/edit#slide=id.p)), Shubhie Panicker (2013)
 
-## [10. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [9. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Tips and Tricks
 
 *   [Editor Tips](http://imgur.com/a/2w7zd) - Tips in gif form showing a few ways to use the editor more efficiently.
 
-## [11. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [10. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shell Script Development / Directory Navigation
 
 *   [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+
+## [11. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### Perl / Zepto.js
+
+*   [Perl 教程](http://www.yiibai.com/perl)
 
 ---
 

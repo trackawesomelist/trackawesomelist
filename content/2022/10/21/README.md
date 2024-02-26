@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 21, 2022
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,7 +12,7 @@
 
 ZenHub is the first and only project management suite that works natively within GitHub; enhancing your workflow with features built specifically for startups, fast-moving engineering teams, and the open-source community. The product is a browser extension that injects advanced functionality including real-time drag-and-drop Issue Task Boards, peer feedback via a +1 button, and support for uploading any file type directly into the GitHub interface. ZenHub makes it easy to centralize all processes into GitHub, keeping your team lean and agile.
 
-Installs: 70000 | Stars: n/a | Last update: 6 Feb 2024
+Installs: 70000 | Stars: n/a | Last update: n/a
 
 ## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -46,13 +46,13 @@ Installs: 70000 | Stars: n/a | Last update: 6 Feb 2024
 
 ### Software / Video Surveillance
 
-*   [Frigate](https://frigate.video/) - Monitor your security cameras with locally processed AI. ([Source Code (⭐13k)](https://github.com/blakeblackshear/frigate)) `MIT` `Docker/Python/Nodejs`
+*   [Frigate](https://frigate.video/) - Monitor your security cameras with locally processed AI. ([Source Code (⭐14k)](https://github.com/blakeblackshear/frigate)) `MIT` `Docker/Python/Nodejs`
 
 ## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Game Development
 
-*   [littlektframework/littlekt (⭐247)](https://github.com/littlektframework/littlekt) - A Kotlin multiplatform 2D game development framework based on OpenGL that is inspired by libGDX and KorGE. Current platforms: JVM, Web, and Android.
+*   [littlektframework/littlekt (⭐253)](https://github.com/littlektframework/littlekt) - A Kotlin multiplatform 2D game development framework based on OpenGL that is inspired by libGDX and KorGE. Current platforms: JVM, Web, and Android.
 
 ### Projects / Examples
 
@@ -77,21 +77,15 @@ Installs: 70000 | Stars: n/a | Last update: 6 Feb 2024
 
 *   [Part 1 - UI driven by Elsa Workflows](https://medium.com/@fanekkie/part-1-ui-driven-by-elsa-workflows-6d0e868ea6c) - October 12, 2022 - This series describes the implementation of a User Interface driven by an Elsa workflow engine.
 
-## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Data Science
-
-*   [Probability and Statistics with Examples using R](https://www.isibang.ac.in/~athreya/psweur/index.html#usage) - Siva Athreya, Deepayan Sarkar, Steve Tanner (HTML) (:construction: *in process*)
-
-## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vanilla
 
-*   [vite-tailwind-nojs-starter (⭐39)](https://github.com/kometolabs/vite-tailwind-nojs-starter) - NoJS Tailwind CSS starter template.
+*   [vite-tailwind-nojs-starter (⭐40)](https://github.com/kometolabs/vite-tailwind-nojs-starter) - NoJS Tailwind CSS starter template.
 
 ### Templates / Vue 3
 
-*   [vite-vue-js-starter-template (⭐109)](https://github.com/ElanYoung/vite-vue-js-starter-template) - Vite + Vue3 + JavaScript + Vue Router + Pinia + TDesign + ESLint + Stylelint + Prettier Simple Template.
+*   [vite-vue-js-starter-template (⭐112)](https://github.com/ElanYoung/vite-vue-js-starter-template) - Vite + Vue3 + JavaScript + Vue Router + Pinia + TDesign + ESLint + Stylelint + Prettier Simple Template.
 
 ---
 

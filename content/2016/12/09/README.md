@@ -28,7 +28,7 @@
 
 ### Libraries
 
-*   [JSON-Fortran (⭐274)](https://github.com/jacobwilliams/json-fortran) - A Fortran library for writing, reading, and manipulating JSON files and data structures.
+*   [JSON-Fortran (⭐313)](https://github.com/jacobwilliams/json-fortran) - A Fortran library for writing, reading, and manipulating JSON files and data structures.
 
 ## [5. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 

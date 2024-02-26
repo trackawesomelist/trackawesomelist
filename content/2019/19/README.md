@@ -10,7 +10,7 @@
 
 ### Contents / Extensions
 
-*   [Citus (⭐8.4k)](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads.
+*   [Citus (⭐9.5k)](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads.
 
 ## [2. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
@@ -76,7 +76,7 @@
 
 ### C bindings
 
-*   [crystal-hunspell (⭐5)](https://github.com/mamantoha/crystal-hunspell) - Bindings for [Hunspell](https://hunspell.github.io/)
+*   [crystal-hunspell (⭐6)](https://github.com/mamantoha/crystal-hunspell) - Bindings for [Hunspell](https://hunspell.github.io/)
 
 ## [10. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -174,7 +174,7 @@
 
 ### Physics
 
-*   [Quantum++ (⭐497)](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. \[MIT]
+*   [Quantum++ (⭐496)](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. \[MIT]
 
 ## [22. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
 
@@ -207,16 +207,16 @@
 
 ### Platforms
 
-*   [KDE (⭐361)](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
+*   [KDE (⭐378)](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
 
 ### Computer Science
 
-*   [Empirical Software Engineering (⭐380)](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
+*   [Empirical Software Engineering (⭐394)](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
 
 ### Miscellaneous
 
-*   [Cheminformatics (⭐603)](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
-*   [Prisma (⭐566)](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
+*   [Cheminformatics (⭐621)](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
+*   [Prisma (⭐580)](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
 *   [Software Architecture (⭐2.1k)](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
 
 ## [26. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
@@ -339,11 +339,11 @@
 
 ### Table of Contents / Filtering and Validation
 
-*   [ISO-codes (⭐784)](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
+*   [ISO-codes (⭐785)](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
 
 ### Table of Contents / Data Structure and Storage
 
-*   [msgpack.php (⭐381)](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format.
+*   [msgpack.php (⭐382)](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format.
 
 ### Configuration / Third Party APIs
 
@@ -471,7 +471,7 @@
 
 ### Databases
 
-*   [EJDB (⭐1.3k)](https://github.com/Softmotions/ejdb) - Embedded JSON Database engine published under MIT license. (C)
+*   [EJDB (⭐1.4k)](https://github.com/Softmotions/ejdb) - Embedded JSON Database engine published under MIT license. (C)
 
 ### Datasets
 
@@ -491,7 +491,7 @@
 
 ### Transformations
 
-*   [x2js (⭐961)](https://github.com/abdolence/x2js) - XML to JSON and vice versa javascript conversion functions. (Javascript)
+*   [x2js (⭐991)](https://github.com/abdolence/x2js) - XML to JSON and vice versa javascript conversion functions. (Javascript)
 
 ### Queries
 
@@ -515,7 +515,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [job (⭐137)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/liujianping/job) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [job (⭐139)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/liujianping/job) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [42. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
@@ -555,7 +555,7 @@
 
 ### Software / Automation
 
-*   [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code (⭐605)](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
+*   [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code (⭐613)](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
 
 ### Software / Communication - Email - Webmail Clients
 
@@ -563,7 +563,7 @@
 
 ### Software / Communication - XMPP - Servers
 
-*   [Metronome IM](https://metronome.im/) - Lightweight xmpp server with advanced microblogging features (fork of Prosody). ([Source Code (⭐167)](https://github.com/maranda/metronome)) `MIT` `Lua`
+*   [Metronome IM](https://metronome.im/) - Lightweight xmpp server with advanced microblogging features (fork of Prosody). ([Source Code (⭐168)](https://github.com/maranda/metronome)) `MIT` `Lua`
 
 ### Software / Content Management Systems (CMS)
 
@@ -575,11 +575,11 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [IFM (⭐321)](https://github.com/misterunknown/ifm) - Single script file manager. `MIT` `PHP`
+*   [IFM (⭐322)](https://github.com/misterunknown/ifm) - Single script file manager. `MIT` `PHP`
 
 ### Software / Learning and Courses
 
-*   [RELATE](https://documen.tician.de/relate/) - RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar. ([Source Code (⭐354)](https://github.com/inducer/relate)) `MIT` `Python`
+*   [RELATE](https://documen.tician.de/relate/) - RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar. ([Source Code (⭐357)](https://github.com/inducer/relate)) `MIT` `Python`
 
 ### Software / Media Streaming - Audio Streaming
 
@@ -587,7 +587,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Fava](https://beancount.github.io/fava/) - Fava is the web frontend of Beancount, a text based double-entry accounting system. ([Demo](https://fava.pythonanywhere.com/example-with-budgets/income_statement/), [Source Code (⭐1.7k)](https://github.com/beancount/fava)) `MIT` `Python`
+*   [Fava](https://beancount.github.io/fava/) - Fava is the web frontend of Beancount, a text based double-entry accounting system. ([Demo](https://fava.pythonanywhere.com/example-with-budgets/income_statement/), [Source Code (⭐1.8k)](https://github.com/beancount/fava)) `MIT` `Python`
 
 ### Software / Software Development - IDE & Tools
 
@@ -595,11 +595,11 @@
 
 ### Software / Software Development - Project Management
 
-*   [Klaus (⭐662)](https://github.com/jonashaag/klaus) - Simple, easy-to-set-up Git web viewer that Just Works. `ISC` `Python/Docker`
+*   [Klaus (⭐666)](https://github.com/jonashaag/klaus) - Simple, easy-to-set-up Git web viewer that Just Works. `ISC` `Python/Docker`
 
 ### Software / Wikis
 
-*   [Pepperminty Wiki (⭐163)](https://github.com/sbrl/Pepperminty-Wiki) - Complete markdown-powered wiki contained in a single PHP file. ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)) `MPL-2.0` `PHP`
+*   [Pepperminty Wiki (⭐168)](https://github.com/sbrl/Pepperminty-Wiki) - Complete markdown-powered wiki contained in a single PHP file. ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)) `MPL-2.0` `PHP`
 
 ## [47. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 

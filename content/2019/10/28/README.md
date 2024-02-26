@@ -2952,7 +2952,7 @@
 
 ### Development tools / Web Servers
 
-*   [scriptisto (⭐444)](https://github.com/igor-petruk/scriptisto) A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
+*   [scriptisto (⭐581)](https://github.com/igor-petruk/scriptisto) A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
 
 ## [16. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 

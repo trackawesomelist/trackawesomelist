@@ -28,7 +28,7 @@
 
 *   [Inboxen](https://inboxen.org) - Inboxen is a service that provides you with an infinite number of unique inboxes. ([Source Code](https://codeberg.org/Inboxen/Inboxen)) `GPL-3.0` `Python`
 *   [Mail-in-a-Box](https://mailinabox.email/) - Turns any Ubuntu server into a fully functional mail server with one command. ([Source Code (⭐13k)](https://github.com/mail-in-a-box/mailinabox)) `CC0-1.0` `Shell`
-*   [SimpleLogin](https://simplelogin.io) - Open source email alias solution to protect your email address. Comes with browser extensions and mobile apps. ([Source Code (⭐4.4k)](https://github.com/simple-login/app)) `MIT` `Docker/Python`
+*   [SimpleLogin](https://simplelogin.io) - Open source email alias solution to protect your email address. Comes with browser extensions and mobile apps. ([Source Code (⭐4.5k)](https://github.com/simple-login/app)) `MIT` `Docker/Python`
 
 ### Software / Communication - IRC
 
@@ -50,8 +50,8 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [Open Source Routing Machine (OSRM)](http://project-osrm.org/) - High performance routing engine designed to run on OpenStreetMap data and offering an HTTP API, C++ library interface, and Nodejs wrapper. ([Demo](https://map.project-osrm.org/), [Source Code (⭐5.9k)](https://github.com/Project-OSRM/osrm-backend)) `BSD-2-Clause` `C++`
-*   [μlogger (⭐489)](https://github.com/bfabiszewski/ulogger-server) - Collect geolocation from users in real-time and display their GPS tracks on a website. ([Demo](http://ulogger.fabiszewski.net/)) `GPL-3.0` `PHP`
+*   [Open Source Routing Machine (OSRM)](http://project-osrm.org/) - High performance routing engine designed to run on OpenStreetMap data and offering an HTTP API, C++ library interface, and Nodejs wrapper. ([Demo](https://map.project-osrm.org/), [Source Code (⭐6k)](https://github.com/Project-OSRM/osrm-backend)) `BSD-2-Clause` `C++`
+*   [μlogger (⭐492)](https://github.com/bfabiszewski/ulogger-server) - Collect geolocation from users in real-time and display their GPS tracks on a website. ([Demo](http://ulogger.fabiszewski.net/)) `GPL-3.0` `PHP`
 
 ### Software / Media Streaming - Audio Streaming
 
@@ -72,7 +72,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [turndown](https://mixmark-io.github.io/turndown/) - HTML to Markdown converter written in Javascript. ([Source Code (⭐7.6k)](https://github.com/mixmark-io/turndown)) `MIT` `Javascript`
+*   [turndown](https://mixmark-io.github.io/turndown/) - HTML to Markdown converter written in Javascript. ([Source Code (⭐7.7k)](https://github.com/mixmark-io/turndown)) `MIT` `Javascript`
 
 ## [4. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
@@ -119,7 +119,7 @@
 
 ### Laravel / Community
 
-*   [Laravel Vite (⭐599)](https://github.com/innocenzi/laravel-vite) - Integration for the Laravel framework.
+*   [Laravel Vite (⭐597)](https://github.com/innocenzi/laravel-vite) - Integration for the Laravel framework.
 
 ## [10. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

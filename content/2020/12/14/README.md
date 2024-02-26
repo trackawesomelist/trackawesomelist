@@ -104,7 +104,13 @@
 
 *   [The Jamstack Book](https://www.manning.com/books/the-jamstack-book) - by Raymond Camden and Brian Rinaldi
 
-## [10. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [10. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+
+### Web Hosting
+
+*   [Bip](https://bip.sh/students) \[DISCOUNT] - Static web hosting. Bip provides a 30% recurring discount per domain on your student account [on all plans](https://bip.sh/pricing).
+
+## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Tutorials
 
@@ -113,16 +119,6 @@
 ### Interactive Experiences
 
 *   [Cyber City](https://vz777.com/cybercity/index.html) - Promotional site for Visionaries777.
-
-## [11. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
-
-### Web Hosting
-
-*   [Bip](https://bip.sh/students) \[DISCOUNT] - Static web hosting. Bip provides a 30% recurring discount per domain on your student account [on all plans](https://bip.sh/pricing).
-
-### Visual Analytics
-
-*   [CARTO](https://carto.com/help/getting-started/student-accounts/) \[FREE / DISCOUNT] - Free account upgrades with increased database storage, real time data, Location Data Services Credits, and premium features for 2 years.
 
 ## [12. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 

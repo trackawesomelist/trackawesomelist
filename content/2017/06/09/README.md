@@ -16,7 +16,7 @@
 
 ### Web Technologies and Services
 
-*   [shinyjs (⭐714)](https://github.com/daattali/shinyjs) -  Easily improve the user interaction and user experience in your Shiny apps in seconds.
+*   [shinyjs (⭐718)](https://github.com/daattali/shinyjs) -  Easily improve the user interaction and user experience in your Shiny apps in seconds.
 
 ## [3. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 

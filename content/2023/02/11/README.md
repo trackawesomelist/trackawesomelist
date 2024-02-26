@@ -42,7 +42,7 @@
 
 ### Health and Social Science
 
-*   [Digital Humanities (⭐169)](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
+*   [Digital Humanities (⭐179)](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

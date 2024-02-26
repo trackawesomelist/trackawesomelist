@@ -18,7 +18,7 @@
 
 *   Authy
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Aegis](https://getaegis.app/) - A free, secure and open source app for Android to manage your 2-step verification tokens. Supports variety of imports from other apps (Google Authenticator, Authy etc.), vault encryption and exporting keys (plaintext or encrypted).
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [FreeOTPPlus (⭐573)](https://github.com/helloworld1/FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [FreeOTPPlus (⭐578)](https://github.com/helloworld1/FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Authenticator Pro (⭐2.3k)](https://github.com/jamie-mh/AuthenticatorPro) - Two-Factor Authentication (2FA) client for Android + Wear OS.
 
 ### Analytics
@@ -34,9 +34,9 @@
 ### Android App Store
 
 *   [F-Droid](https://f-droid.org/) - F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
-    *   [Droid-ify (⭐2.4k)](https://github.com/Iamlooker/Droid-ify) - Lightweight F-Droid client with Material UI.
+    *   [Droid-ify (⭐2.5k)](https://github.com/Iamlooker/Droid-ify) - Lightweight F-Droid client with Material UI.
     *   [Aurora Droid](https://auroraoss.com/download/#aurora-droid) - Aurora Droid is a modern FOSS client for F-Droid.
-    *   [Foxy Droid (⭐465)](https://github.com/kitsunyan/foxy-droid) - Unofficial F-Droid client in the style of the classic one.
+    *   [Foxy Droid (⭐472)](https://github.com/kitsunyan/foxy-droid) - Unofficial F-Droid client in the style of the classic one.
 *   [FossDroid](https://fossdroid.com/) - Fossdroid's aim is to promote free and open source apps on the Android platform: newest, trendiest and the most popular ones.
 *   [SkyDroid](https://skydroid.app/) - Decentralized App Store for Android
 
@@ -46,12 +46,12 @@
 
 ### Android Dialer
 
-*   [Koler (⭐893)](https://github.com/Chooloo/koler) - Uniquely stylized phone app with customizable features.
+*   [Koler (⭐898)](https://github.com/Chooloo/koler) - Uniquely stylized phone app with customizable features.
 
 ### Android File Manager
 
-*   [Amaze File Manager (⭐4.9k)](https://github.com/TeamAmaze/AmazeFileManager) - Simple and attractive Material Design file manager for Android.
-*   [Material Files (⭐4.5k)](https://github.com/zhanghai/MaterialFiles) - An open source Material Design file manager, for Android 5.0+.
+*   [Amaze File Manager (⭐5k)](https://github.com/TeamAmaze/AmazeFileManager) - Simple and attractive Material Design file manager for Android.
+*   [Material Files (⭐4.6k)](https://github.com/zhanghai/MaterialFiles) - An open source Material Design file manager, for Android 5.0+.
 *   [Ghost Commander](https://f-droid.org/packages/com.ghostsq.commander/) - Dual-panel file manager.
 
 ### Android Keyboard
@@ -59,16 +59,16 @@
 *   [FlorisBoard (⭐5k)](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
 *   [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - The only Android keyboard you'll ever need. Free as in speech and Free as in beer.
 *   [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indic Keyboard is a versatile keyboard for Android users who wish to use Indic and Indian languages to type messages, compose emails and generally prefer to use them in addition to English on their phone.
-*   [Simple Keyboard (⭐901)](https://github.com/rkkr/simple-keyboard) - Simply keyboard and nothing more.
+*   [Simple Keyboard (⭐910)](https://github.com/rkkr/simple-keyboard) - Simply keyboard and nothing more.
 
 ### Android Launcher
 
 *   [Lawnchair](https://lawnchair.app/) - No clever tagline needed.
 *   [OpenLauncher (⭐1.4k)](https://github.com/OpenLauncherTeam/openlauncher) - Customizable and Open Source Launcher for Android.
 *   [KISS](https://kisslauncher.com/) - Lightning fast, open-source, < 200kb Android launcher.
-*   [Olauncher (⭐1.4k)](https://github.com/tanujnotes/Olauncher) - Minimal AF (ad-free) launcher app for Android.
+*   [Olauncher (⭐1.5k)](https://github.com/tanujnotes/Olauncher) - Minimal AF (ad-free) launcher app for Android.
 *   [Posidon Launcher](https://posidon.io/launcher) - Posidon launcher is a minimal, one page homescreen with a vertical scrolling feed.
-*   [Pie Launcher (⭐190)](https://github.com/markusfisch/PieLauncher) - Android home screen launcher that uses a dynamic pie menu instead of fixed positioned icons.
+*   [Pie Launcher (⭐199)](https://github.com/markusfisch/PieLauncher) - Android home screen launcher that uses a dynamic pie menu instead of fixed positioned icons.
 *   [Rootless Pixel Launcher (⭐3.8k)](https://github.com/amirzaidi/Launcher3) - The Launcher3 fork known as "Rootless Pixel Launcher".
 
 ### Captchas
@@ -78,8 +78,8 @@
 ### Images
 
 *   [Fawkes (⭐5.1k)](https://github.com/Shawn-Shan/fawkes) - privacy preserving tool against facial recognition systems.
-    *   [CloakMe (⭐58)](https://github.com/pluja/CloakMe) - Web interface for Fawkes algorithm.
-*   [ImageScrubber (⭐902)](https://github.com/everestpipkin/image-scrubber) - A friendly browser-based tool for anonymizing photographs taken at protests ([hosted version provided by everestpipkin](https://everestpipkin.github.io/image-scrubber/)).
+    *   [CloakMe (⭐60)](https://github.com/pluja/CloakMe) - Web interface for Fawkes algorithm.
+*   [ImageScrubber (⭐907)](https://github.com/everestpipkin/image-scrubber) - A friendly browser-based tool for anonymizing photographs taken at protests ([hosted version provided by everestpipkin](https://everestpipkin.github.io/image-scrubber/)).
 
 ### Cloud Storage
 
@@ -103,8 +103,8 @@
 
 *   [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor.
 *   [Inkscape](https://inkscape.org/) - Inkscape is a free and open-source vector graphics editor used to create vector images.
-*   [Krita (⭐6.3k)](https://github.com/KDE/krita) - Krita is a free and open source digital painting application
-*   [Czkawka (⭐14k)](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates and similar images etc.
+*   [Krita (⭐6.4k)](https://github.com/KDE/krita) - Krita is a free and open source digital painting application
+*   [Czkawka (⭐15k)](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates and similar images etc.
 
 ### Domain Registrar
 
@@ -116,13 +116,13 @@
 *   [Persepolis Download Manager (⭐5.9k)](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager & a GUI for Aria2. It's written in Python. Persepolis is a sample of free and open source software. It's developed for GNU/Linux distributions, BSDs, MacOS, and Microsoft Windows.
 *   [uGet Download Manager](https://ugetdm.com/) - uGet is a lightweight yet powerful Open Source download manager for GNU/Linux developed with GTK+, which also comes packaged as a portable Windows app. It is also available for Android.
 *   [Motrix (⭐42k)](https://github.com/agalwood/Motrix) - A full-featured download manager.
-*   [Xtreme Download Manager (⭐6k)](https://github.com/subhra74/xdm) - Xtreme Download Manager (XDM) is a powerful tool to increase download speeds up to 500%, save streaming videos from YouTube, DailyMotion, Facebook, Vimeo, Google Video and 1000+ other websites, resume broken/dead downloads, schedule and convert downloads.
-*   [axel (⭐2.7k)](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator. It supports HTTP, HTTPS, FTP and FTPS protocols.
+*   [Xtreme Download Manager (⭐6.1k)](https://github.com/subhra74/xdm) - Xtreme Download Manager (XDM) is a powerful tool to increase download speeds up to 500%, save streaming videos from YouTube, DailyMotion, Facebook, Vimeo, Google Video and 1000+ other websites, resume broken/dead downloads, schedule and convert downloads.
+*   [axel (⭐2.8k)](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator. It supports HTTP, HTTPS, FTP and FTPS protocols.
 
 ### Fitness trackers
 
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Fitotrack](https://codeberg.org/jannis/FitoTrack) - A privacy oriented fitness tracker for Android.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [OpenTracks (⭐852)](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [OpenTracks (⭐858)](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
 
 ### Workout planners
 
@@ -190,7 +190,7 @@
 ### Android
 
 *   [DivestOS](https://divestos.org) - LineageOS fork with increased security and privacy.
-*   [Pocket Paint (⭐317)](https://github.com/Catrobat/Paintroid) - The standard image manipulation app for Catroid.
+*   [Pocket Paint (⭐321)](https://github.com/Catrobat/Paintroid) - The standard image manipulation app for Catroid.
 *   [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) - Remove Exif data from pictures before sharing them.
 *   [ImagePipe](https://codeberg.org/Starfish/Imagepipe) - Reduces image size and removes exif-tags when sharing images on android devices.
 
@@ -212,7 +212,7 @@
 
 ### Web
 
-*   [miniPaint (⭐2.3k)](https://github.com/viliusle/miniPaint) - Open Source alternative to Photopea. miniPaint operates directly in the browser. Nothing will be sent to any server. Everything stays in your browser.
+*   [miniPaint (⭐2.4k)](https://github.com/viliusle/miniPaint) - Open Source alternative to Photopea. miniPaint operates directly in the browser. Nothing will be sent to any server. Everything stays in your browser.
 
 ### Local
 
@@ -246,7 +246,7 @@
 ### Search Engines
 
 *   Bing
-*   [Whoogle Search (⭐8.4k)](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine.
+*   [Whoogle Search (⭐8.5k)](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine.
 *   [DuckDuckGo](https://duckduckgo.com) - A privacy respecting search engine.
 
 ### YouTube
@@ -266,13 +266,12 @@
 
 *   [Aether](https://getaether.net/) - Peer-to-peer ephemeral public communities.
 *   [SaidIt](https://saidit.net/) - Open source Reddit clone.
-*   [Teddit](https://teddit.net/) - Alternative Reddit front-end focused on privacy
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Infinity (⭐3.8k)](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A beautiful Reddit client for Android.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/apple.png"> <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Slide (⭐1.8k)](https://github.com/ccrama/Slide) - Slide is an open sourced, ad free Reddit browser for Android and iOS.
 
 ### Streaming Platforms (Twitch)
 
-*   [Owncast (⭐8.6k)](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself. Streaming + chat out of the box.
+*   [Owncast (⭐8.7k)](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself. Streaming + chat out of the box.
 *   [livego (⭐9.4k)](https://github.com/gwuhaolin/livego) - Live video streaming server in golang.
 
 ### Teamworking Tools

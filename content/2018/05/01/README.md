@@ -57,7 +57,7 @@
 ### Graphics
 
 *   [libigl (⭐4.3k)](https://github.com/libigl/libigl) - Simple C++ geometry processing library. \[MPL2]
-*   [NanoVG (⭐4.9k)](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. \[Zlib]
+*   [NanoVG (⭐5k)](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. \[Zlib]
 
 ## [8. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 

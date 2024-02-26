@@ -49,7 +49,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [evoasm/kasm (⭐40)](https://github.com/evoasm/kasm) - x64/x86-64 assembler and execution library
+*   [evoasm/kasm (⭐41)](https://github.com/evoasm/kasm) - x64/x86-64 assembler and execution library
 
 ## [7. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 28 - Apr 03, 2022
 
-51 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -68,42 +68,32 @@
     *   For an explanation about the origin of Youtube Vanced see here: <https://old.reddit.com/r/Vanced/comments/o3xm9m/if_youtube_vanced_isnt_open_source_and_doesnt/h2ec7wf/>
     *   Vanced was forced to shut down by Google due to legal reasons. The project <https://github.com/revanced> tries to continue its legacy
 
-## [3. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Containers
-
-*   [Docker Tutorial](https://www.tutorialspoint.com/docker/) - Tutorials Point (HTML, PDF)
-
-### Machine Learning
-
-*   [Machine Learning with Python](https://www.tutorialspoint.com/machine_learning_with_python/) - Tutorials Point (HTML, [PDF](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf))
-
-## [4. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [3. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Modules
 
 *   [Oranges (⭐1)](https://github.com/benthevining/Oranges) - [Ben Vining](https://github.com/benthevining)'s library of CMake modules and toolchains [`[GPL]`](https://www.gnu.org/licenses/gpl-3.0.html)
 
-## [5. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [4. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :moneybag: [Construct](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting.
 *   :money\_with\_wings: [Unreal Engine 4](https://www.unrealengine.com/) - the new game engine technology developed by Epic Games.
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Database
 
 *   [kotlin-orm/ktorm (⭐1.9k)](https://github.com/kotlin-orm/ktorm) - A lightweight ORM Framework for Kotlin. Provides strong-typed and flexible SQL DSL and convenient sequence APIs to reduce our duplicated effort on database operations.
 
-## [7. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [6. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
-*   [Ansible (⭐1.1k)](https://github.com/ansible-community/awesome-ansible#readme) - A Python-based, open source IT configuration management and automation platform.
+*   [Ansible (⭐1.2k)](https://github.com/ansible-community/awesome-ansible#readme) - A Python-based, open source IT configuration management and automation platform.
 
-## [8. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [7. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :books: Literature / Documentation
 
@@ -196,7 +186,7 @@
 *   [Tuts 4 You](https://tuts4you.com) - Non-commercial, independent community dedicated to the sharing of knowledge and information on reverse code engineering.
 *   [UnpacMe](https://www.unpac.me) - Automated malware unpacking service.
 
-## [9. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Languages / JavaScript & TypeScript
 
@@ -212,26 +202,26 @@
 
 *   [algofractals (⭐2)](https://github.com/aorumbayev/algofractals) - Mint randomly generated mandelbrot fractals with embedded ARC69 tags.
 
-## [10. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [9. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Infrastructure as Code
 
 *   [Pulumi](https://www.pulumi.com/) -  Developer-first IaC with Python, TypeScript, Go and more languages...
 *   [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...). [![Terraform](https://img.shields.io/github/stars/hashicorp/terraform?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/hashicorp/terraform)
 
-## [11. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Web/ReactJS / Playground
 
 *   :octocat: [Materio Free MUI React NextJS Typescript Admin Template (⭐1.1k)](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. Made With Typecript & JavaScript.
 
-## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Menu Bar Tools
 
 *   [Fishing Funds](https://ff.1zilc.top) - Display real-time trends of Chinese funds in the menubar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/1zilc/fishing-funds) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Translation Management
 
@@ -245,7 +235,7 @@
 
 *   [file.io](https://www.file.io) - 2 GB storage of files. A file is auto-deleted after one download. REST API to interact with the storage. Rate limit one request/minute.
 
-## [14. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [13. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Frontend framework
 
@@ -272,32 +262,32 @@
 
 *   [Node之父 - Deno，一个新的JS运行时](https://www.bilibili.com/video/av52038617)
 
-## [15. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [14. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Resources / Recipes
 
 *   [Consumer Financial Protection Bureau Wagtail development guide (⭐60)](https://github.com/cfpb/development/blob/main/guides/unittesting-django-wagtail.md) - Unit Testing Django and Wagtail
 
-## [16. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [15. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / Media
 
 *   [Image Max URL](https://openuserjs.org/scripts/qsniyg/Image_Max_URL) - Finds larger or original versions of images/videos for thousands of supported websites, including a customizable image popup feature.
 
-## [17. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [16. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Docker Images for Penetration Testing & Security
 
 *   `docker pull jeroenwillemsen/wrongsecrets`- [OWASP WrongSecrets](https://hub.docker.com/r/jeroenwillemsen/wrongsecrets)
 
-## [18. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [17. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Global
 
 *   [OpenHistoricalMap](https://openhistoricalmap.org/) - A time travel map created by a community of mappers and historians.
 *   [World Historical Gazeteer](https://whgazetteer.org/) - Collection of content and services that permit world historians to do spatial and temporal reasoning and visualization in a data rich environment at global and trans-regional scales.
 
-## [19. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [18. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Roles / Engineers
 
@@ -337,7 +327,7 @@
 *   [The Rules for Rulers](https://www.youtube.com/watch?v=rStL7niR7gs) - “Smart key supporters will always watch the balance of power, ready to change allegiance if the ruler look to be the loser in a shifting web of alliances. (…) Buy all the loyalty you can, because loyalty, in dictatorial organizations of all kinds, is everything.”
 *   [4 Clues to Identify a Destructive Leader](https://articles.tilt365.com/identify-destructive-leadership-patterns/) - “1. I'm kind of a big deal! 2. None of this is my fault! 3. Just do what I say! 4. Trust me; I'm never wrong.”
 
-## [20. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [19. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Overview
 
@@ -371,7 +361,7 @@
 
 *   Subdomain denylists: [#1](https://gist.github.com/artgon/5366868), [#2 (⭐41)](https://github.com/sandeepshetty/subdomain-blacklist/blob/master/subdomain-blacklist.txt), [#3 (⭐167)](https://github.com/nccgroup/typofinder/blob/master/TypoMagic/datasources/subdomains.txt), [#4](https://www.quora.com/How-do-sites-prevent-vanity-URLs-from-colliding-with-future-features).
 
-## [21. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [20. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Pricing / Usage-based Pricing
 
@@ -389,19 +379,19 @@
 
 *   [Engineering and Operations in the Bell System](http://bitsavers.trailing-edge.com/communications/westernElectric/books/Engineering_and_Operations_in_the_Bell_System_2ed_1984.pdf) - Starting at page #445, the "10.5 Billing Equipment and Systems" section describe the history and technical evolutions of Bell's phone calls metering and pricing.
 
-## [22. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [21. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Slideshows, talks and videos
 
 *   [Cypress in 100 Seconds](https://www.youtube.com/watch?v=BQqzfHQkREo\&ab_channel=Fireship) - Introduction video by Fireship.
 
-## [23. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [22. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Transport-layer defenses / Overlay and Virtual Private Networks (VPNs)
 
 *   [OpenZITI](https://openziti.github.io/) - Open source initiative focused on bringing Zero Trust to any application via an overlay network, tunelling applications, and numerous SDKs.
 
-## [24. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [23. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -416,7 +406,7 @@
 
 *   [clipper (⭐0)](https://github.com/Robert-96/clipper) - Minimalist ZSH theme with `git` support. It includes decorations for pwd, last command exit status code and `git` status & branch.
 
-## [25. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [24. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Dates and Time
 
@@ -440,16 +430,16 @@
 
 *   [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - Old airline reservation systems considers the `MR` suffix as `Mister` and drops it.
 
-## [26. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [25. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Editors / Web Editors
 
 *   [iD](http://www.openstreetmap.org/edit?editor=id) - JavaScript based editor for the web browser with a wide array of presets. ([Source Code (⭐3.2k)](https://github.com/openstreetmap/iD) / [Wiki](https://wiki.openstreetmap.org/wiki/ID))
-*   [Level0](http://level0.osmz.ru/) - Text based editor that's useful in specific corner cases. ([Source Code (⭐49)](https://github.com/zverik/level0) / [Wiki](https://wiki.openstreetmap.org/wiki/Level0))
+*   [Level0](http://level0.osmz.ru/) - Text based editor that's useful in specific corner cases. ([Source Code (⭐50)](https://github.com/zverik/level0) / [Wiki](https://wiki.openstreetmap.org/wiki/Level0))
 *   [OSMyBiz](https://osmybiz.osm.ch) - Website for managing informations about your business. ([Source Code](https://gitlab.com/geometalab/osmybiz) / [Wiki](https://wiki.openstreetmap.org/wiki/OSMyBiz))
-*   [OnOSM](https://www.onosm.org/) - Allows anyone to submit business information as a note for inclusion into OSM. ([Source Code (⭐69)](https://github.com/osmlab/onosm.org) / [Wiki](https://wiki.openstreetmap.org/wiki/Onosm.org))
+*   [OnOSM](https://www.onosm.org/) - Allows anyone to submit business information as a note for inclusion into OSM. ([Source Code (⭐70)](https://github.com/osmlab/onosm.org) / [Wiki](https://wiki.openstreetmap.org/wiki/Onosm.org))
 *   [Deriviste](https://osm.cycle.travel/deriviste/) - Provides a simple interface to add nodes to OpenStreetMap based on what you see in Mapillary street-level imagery. ([Source Code (⭐28)](https://github.com/systemed/deriviste) / [Wiki](https://wiki.openstreetmap.org/wiki/Deriviste))
-*   [Healthsites.io](https://healthsites.io/map) - An online editor focused on adding and improving data on global health facilities. ([Source Code (⭐136)](https://github.com/healthsites/healthsites/) / [Wiki](https://wiki.openstreetmap.org/wiki/Healthsites.io))
+*   [Healthsites.io](https://healthsites.io/map) - An online editor focused on adding and improving data on global health facilities. ([Source Code (⭐138)](https://github.com/healthsites/healthsites/) / [Wiki](https://wiki.openstreetmap.org/wiki/Healthsites.io))
 
 ### Editors / Native Editors
 
@@ -459,11 +449,11 @@
 ### Tools / Web Tools
 
 *   [OpenMapTiles](https://openmaptiles.org/) - Set of tools for self-hosted vector maps and map services with labels in more than 50 languages. ([Source Code](https://github.com/openmaptiles) / [Wiki](https://wiki.openstreetmap.org/wiki/OpenMapTiles))
-*   [OSMNames](http://osmnames.org/) - Geocoding tool ranking places according to the corresponding Wikipedia page popularity. ([Source Code (⭐330)](https://github.com/osmnames/osmnames) / [Wiki](https://wiki.openstreetmap.org/wiki/OSMNames))
-*   [overpass-turbo](http://overpass-turbo.eu) - Web based data mining tool for OpenStreetMap using Overpass API. ([Source Code (⭐778)](https://github.com/tyrasd/overpass-turbo) / [Wiki](https://wiki.openstreetmap.org/wiki/Overpass_turbo))
+*   [OSMNames](http://osmnames.org/) - Geocoding tool ranking places according to the corresponding Wikipedia page popularity. ([Source Code (⭐333)](https://github.com/osmnames/osmnames) / [Wiki](https://wiki.openstreetmap.org/wiki/OSMNames))
+*   [overpass-turbo](http://overpass-turbo.eu) - Web based data mining tool for OpenStreetMap using Overpass API. ([Source Code (⭐816)](https://github.com/tyrasd/overpass-turbo) / [Wiki](https://wiki.openstreetmap.org/wiki/Overpass_turbo))
 *   [hdyc](http://hdyc.neis-one.org) - Statistics viewer for contributions of any OSM user. ([Wiki](https://wiki.openstreetmap.org/wiki/How_did_you_contribute%3F)) <!-- markdown-link-check-disable-line -->
 *   [Osmose](https://osmose.openstreetmap.fr) - QA-tool for fixing problems detected in OpenStreetMap data. ([Source Code](https://github.com/osm-fr?q=osmose) / [Wiki](https://wiki.openstreetmap.org/wiki/Osmose))
-*   [taginfo](https://taginfo.openstreetmap.org/) - Website displaying information on tags and their usage. ([Source Code (⭐116)](https://github.com/taginfo/taginfo/) / [Wiki](https://wiki.openstreetmap.org/wiki/Taginfo))
+*   [taginfo](https://taginfo.openstreetmap.org/) - Website displaying information on tags and their usage. ([Source Code (⭐117)](https://github.com/taginfo/taginfo/) / [Wiki](https://wiki.openstreetmap.org/wiki/Taginfo))
 *   [ohsome Dashboard](https://ohsome.org/apps/dashboard/) - Tool for visualizing changes over a certain time period. ([Wiki](https://wiki.openstreetmap.org/wiki/Ohsome_Dashboard))
 
 ### Tools / Mobile Tools
@@ -472,7 +462,7 @@
 
 ### Tasking Managers / Web Services
 
-*   [MapRoulette](https://maproulette.org/) - Various challenges for making small edits to achive big tasks. ([Source Code (⭐107)](https://github.com/osmlab/maproulette3) / [Wiki](https://wiki.openstreetmap.org/wiki/MapRoulette))
+*   [MapRoulette](https://maproulette.org/) - Various challenges for making small edits to achive big tasks. ([Source Code (⭐110)](https://github.com/osmlab/maproulette3) / [Wiki](https://wiki.openstreetmap.org/wiki/MapRoulette))
 *   [Pic4Review](https://pic4review.pavie.info/#/) - Tool for adding objects to OSM by reviewing images. ([Source Code](https://framagit.org/Pic4Carto/Pic4Review) / [Wiki](https://wiki.openstreetmap.org/wiki/Pic4Review))
 *   [Map Complete](https://mapcomplete.osm.be/) - Tool for mapping in scoped tasks. ([Wiki](https://wiki.openstreetmap.org/wiki/MapComplete))
 *   [Damn Project](https://www.damn-project.org/) - Project for mapping by dividing big areas into small squares mappable by humans. ([Source Code](https://git.sr.ht/~qeef/damn-deploy) / [Wiki](https://wiki.openstreetmap.org/wiki/Divide_and_map._Now.))
@@ -484,35 +474,35 @@
 *   [indoor=](https://indoorequal.org) - Map for viewing indoor data from OpenStreetMap. ([Wiki](https://wiki.openstreetmap.org/wiki/Indoor%3D)) <!-- markdown-link-check-disable-line -->
 *   [Qwant Maps](https://www.qwant.com/maps) - Modern map with POI search and routing functionality. ([Wiki](https://wiki.openstreetmap.org/wiki/Qwant_Maps))
 *   [F4map Demo](https://demo.f4map.com/) - 3D rendering demo of OpenStreetMap data. ([Wiki](https://wiki.openstreetmap.org/wiki/F4_Map))
-*   [FacilMap](https://facilmap.org/) - Map with easy possibility to filter for POI types. ([Source Code (⭐225)](https://github.com/FacilMap/facilmap) / [Wiki](https://wiki.openstreetmap.org/wiki/FacilMap))
+*   [FacilMap](https://facilmap.org/) - Map with easy possibility to filter for POI types. ([Source Code (⭐234)](https://github.com/FacilMap/facilmap) / [Wiki](https://wiki.openstreetmap.org/wiki/FacilMap))
 *   [Straßenraumkarte Neukölln](https://supaplexosm.github.io/strassenraumkarte-neukoelln/?map=micromap) - High-detail micromap of the district "Neukölln" of Berlin, Germany. ([Wiki](https://wiki.openstreetmap.org/wiki/Micromapping#Stra.C3.9Fenraumkarte_Neuk.C3.B6lln))
 
 ### Maps / Mobile Maps
 
-*   [OsmAnd](https://osmand.net) - Map viewing and navigation (routing) application with offline functionality available for Android and iOS. (Android, iOS / [Source Code Android (⭐4.1k)](https://github.com/osmandapp/OsmAnd) / [Source Code iOS (⭐225)](https://github.com/osmandapp/OsmAnd-iOS) / [Wiki](https://wiki.openstreetmap.org/wiki/OsmAnd))
-*   [Organic Maps](https://organicmaps.app/) - A free offline maps app based on OSM. (Android, iOS / [Source Code (⭐7.9k)](https://github.com/organicmaps/organicmaps) / [Wiki](https://wiki.openstreetmap.org/wiki/Organic_Maps))
+*   [OsmAnd](https://osmand.net) - Map viewing and navigation (routing) application with offline functionality available for Android and iOS. (Android, iOS / [Source Code Android (⭐4.1k)](https://github.com/osmandapp/OsmAnd) / [Source Code iOS (⭐231)](https://github.com/osmandapp/OsmAnd-iOS) / [Wiki](https://wiki.openstreetmap.org/wiki/OsmAnd))
+*   [Organic Maps](https://organicmaps.app/) - A free offline maps app based on OSM. (Android, iOS / [Source Code (⭐8.1k)](https://github.com/organicmaps/organicmaps) / [Wiki](https://wiki.openstreetmap.org/wiki/Organic_Maps))
 *   [Magic Earth](https://www.magicearth.com/) - A free turn-by-turn navigation app. (Android, iOS / [Wiki](https://wiki.openstreetmap.org/wiki/Magic_Earth))
 
 ### Maps / Generators
 
-*   [Field Papers](http://fieldpapers.org/) - Generate maps for printing, annotate them, and manage your notes after. ([Source Code (⭐83)](https://github.com/fieldpapers/fieldpapers) / [Wiki](https://wiki.openstreetmap.org/wiki/Field_Papers))
+*   [Field Papers](http://fieldpapers.org/) - Generate maps for printing, annotate them, and manage your notes after. ([Source Code (⭐86)](https://github.com/fieldpapers/fieldpapers) / [Wiki](https://wiki.openstreetmap.org/wiki/Field_Papers))
 
 ### Libraries / C/C++
 
-*   [libosmium (⭐421)](https://github.com/osmcode/libosmium) - Fast and flexible C++ library for working with OpenStreetMap data. ([Wiki](https://wiki.openstreetmap.org/wiki/Osmium))
-*   [OSRM (⭐5.9k)](https://github.com/Project-OSRM/osrm-backend) -  Routing engine for use in C++ applications. ([Wiki](https://wiki.openstreetmap.org/wiki/Open_Source_Routing_Machine))
+*   [libosmium (⭐428)](https://github.com/osmcode/libosmium) - Fast and flexible C++ library for working with OpenStreetMap data. ([Wiki](https://wiki.openstreetmap.org/wiki/Osmium))
+*   [OSRM (⭐6k)](https://github.com/Project-OSRM/osrm-backend) -  Routing engine for use in C++ applications. ([Wiki](https://wiki.openstreetmap.org/wiki/Open_Source_Routing_Machine))
 *   [mapnik (⭐3.5k)](https://github.com/mapnik/mapnik) - Combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node. ([Wiki](https://wiki.openstreetmap.org/wiki/Mapnik))
 
 ### Libraries / JavaScript
 
 *   [Leaflet](https://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps. ([Source Code (⭐39k)](https://github.com/Leaflet/Leaflet) / [Wiki](https://wiki.openstreetmap.org/wiki/Leaflet))
 *   [OpenLayers](https://openlayers.org/) - A high-performance library for rendering raster and vector maps. ([Source Code (⭐11k)](https://github.com/openlayers/openlayers) / [Wiki](https://wiki.openstreetmap.org/wiki/OpenLayers))
-*   [MapLibre GL JS](https://maplibre.org/projects/#js) - A map renderer with GPU-accelerated vector tile rendering. ([Source Code (⭐5.3k)](https://github.com/maplibre/maplibre-gl-js) / [See Related List](#related-awesome-maplibre))
+*   [MapLibre GL JS](https://maplibre.org/projects/#js) - A map renderer with GPU-accelerated vector tile rendering. ([Source Code (⭐5.4k)](https://github.com/maplibre/maplibre-gl-js) / [See Related List](#related-awesome-maplibre))
 
 ### Libraries / Python
 
 *   [osmapi (⭐198)](https://github.com/metaodi/osmapi) - Python wrapper for the OpenStreetMap API. ([Wiki](https://wiki.openstreetmap.org/wiki/Osmapi_\(Python_library\)))
-*   [osmnx (⭐4.5k)](https://github.com/gboeing/osmnx) - Visualizer for street networks. ([Wiki](https://wiki.openstreetmap.org/wiki/OSMnx))
+*   [osmnx (⭐4.6k)](https://github.com/gboeing/osmnx) - Visualizer for street networks. ([Wiki](https://wiki.openstreetmap.org/wiki/OSMnx))
 
 ### Libraries / Java
 
@@ -521,7 +511,7 @@
 
 ### Public APIs / Java
 
-*   [overpass](http://overpass-api.de) - Read-only API that serves up custom selected parts of the OSM map data. ([Source Code (⭐633)](https://github.com/drolbr/Overpass-API) / [Wiki](https://wiki.openstreetmap.org/wiki/Overpass_API))
+*   [overpass](http://overpass-api.de) - Read-only API that serves up custom selected parts of the OSM map data. ([Source Code (⭐659)](https://github.com/drolbr/Overpass-API) / [Wiki](https://wiki.openstreetmap.org/wiki/Overpass_API))
 *   [planet.osm](http://planet.osm.org) - Minutely/weekly/yearly/full dumps of osm data. ([Wiki](https://wiki.openstreetmap.org/wiki/Planet.osm))
 *   [bbbike](https://extract.bbbike.org) - Custom extracts of areas from planet.osm. ([Wiki](https://wiki.openstreetmap.org/wiki/BBBike_@_World))
 
@@ -546,9 +536,9 @@
 
 ### Related lists / Global Communities
 
-*   [awesome-maplibre (⭐250)](https://github.com/maplibre/awesome-maplibre#readme) - A collection of awesome things that use or support MapLibre! <span id="related-awesome-maplibre"/>
+*   [awesome-maplibre (⭐273)](https://github.com/maplibre/awesome-maplibre#readme) - A collection of awesome things that use or support MapLibre! <span id="related-awesome-maplibre"/>
 
-## [27. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [26. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### Automation and Robotics
 
@@ -568,7 +558,7 @@
 *   [Deep Learning for Biologists with Keras (⭐97)](https://github.com/totti0223/deep_learning_for_biologists_with_keras) - Tutorials for deep learning based analysis (mainly) on biological relavent themes.
 *   [PlantCV (⭐548)](https://github.com/danforthcenter/plantcv) - Plant phenotyping software using computer vision.
 
-## [28. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [27. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tutorials
 
@@ -584,7 +574,7 @@
 
 *   [BlueBanquise (⭐77)](https://github.com/bluebanquise/bluebanquise) - An ansible coherent roles collection to deploy clusters.
 
-## [29. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [28. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -592,7 +582,7 @@
 
 ### Database Tools
 
-*   [rdb (⭐327)](https://github.com/HDT3213/rdb) - Redis RDB file parser for secondary development and memory analysis.
+*   [rdb (⭐329)](https://github.com/HDT3213/rdb) - Redis RDB file parser for secondary development and memory analysis.
 
 ### SQL Query Builders
 
@@ -633,27 +623,27 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [ko (⭐6.9k)](https://github.com/google/ko) - Command line tool for building and deploying Go applications on Kubernetes
+*   [ko (⭐7k)](https://github.com/google/ko) - Command line tool for building and deploying Go applications on Kubernetes
 
-## [30. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [29. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Realtime Utilities / Ruby
 
 *   [GTFS Data Pipeline for TfNSW Bus Datasets (⭐6)](https://github.com/teckkean/GTFS-Data-Pipeline-TfNSW-Bus) - A data pipeline developed for the TfNSW's GTFS Static and Realtime datasets. The datasets generated using the pipeline have been used to validate the performance of TfNSW's Transit Signal Priority Request via Public Transport Information and Priority System (PTIPS).
 
-## [31. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [30. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Multimedia / Apache License
 
 *   [canta](https://sourceforge.net/projects/canta/) - A tool to help to sing in tune.
 
-## [32. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [31. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Audio
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Blade Player (⭐149)](https://github.com/vhaudiquet/BladePlayer) - Open source Spotify client, works without premium.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Blade Player (⭐152)](https://github.com/vhaudiquet/BladePlayer) - Open source Spotify client, works without premium.
 
-## [33. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [32. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Overview of NoSQL
 
@@ -665,7 +655,7 @@
 
 *   [Data Models For MongoDB](https://www.mongodb.com/docs/manual/data-modeling/) - Data modeling help specific to MongoDB, ranging from schema validation and example patterns. However, concepts may carry over to other document NoSQL databases.
 
-## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
@@ -676,7 +666,7 @@
 *   [jrychn/moduleVim (⭐6)](https://github.com/jrychn/ModuleVim) - A very easy to use
     for backend and frontend, install lsp automatically.
 
-## [35. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [34. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Changes
 
@@ -778,13 +768,13 @@
 
 *   [The "Database as Code" Manifesto (⭐82)](https://github.com/mgramin/database-as-code) - Treat your database as Code.
 
-## [36. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [35. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Utils / Other Tools
 
 *   [FastAPI FeatureFlags (⭐38)](https://github.com/Pytlicek/fastapi-featureflags) - Simple implementation of feature flags for FastAPI.
 
-## [37. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [36. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Components / Miscellaneous
 
@@ -794,24 +784,18 @@
 
 *   [lens-ui (⭐7)](https://github.com/luciancaetano/lens-ui) - [docs (⭐7)](https://github.com/luciancaetano/lens-ui/blob/main/docs/introduction.md) - A Suit of components focused on simplicity.
 
-## [38. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [37. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Command-line
 
 *   Pipeline
-    *   [hniksic/rust-subprocess (⭐406)](https://github.com/hniksic/rust-subprocess) \[[subprocess](https://crates.io/crates/subprocess)] — facilities for interaction with external pipelines
+    *   [hniksic/rust-subprocess (⭐408)](https://github.com/hniksic/rust-subprocess) \[[subprocess](https://crates.io/crates/subprocess)] — facilities for interaction with external pipelines
     *   [imp/pager-rs](https://gitlab.com/imp/pager-rs) \[[pager](https://crates.io/crates/pager)] — pipe your output through an external pager
-    *   [oconnor663/duct.rs (⭐760)](https://github.com/oconnor663/duct.rs) \[[duct](https://crates.io/crates/duct)] — A builder for subprocess pipelines and IO redirection
+    *   [oconnor663/duct.rs (⭐767)](https://github.com/oconnor663/duct.rs) \[[duct](https://crates.io/crates/duct)] — A builder for subprocess pipelines and IO redirection
     *   [rust-cli/rexpect (⭐301)](https://github.com/rust-cli/rexpect) \[[rexpect](https://crates.io/crates/rexpect)] — automate interactive applications such as ssh, ftp, passwd, etc [![CI](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml/badge.svg)](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml)
-    *   [zhiburt/expectrl (⭐157)](https://github.com/zhiburt/expectrl) \[[expectrl](https://crates.io/crates/expectrl)] — A library for controlling interactive programs in a pseudo-terminal [![build badge](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml)
+    *   [zhiburt/expectrl (⭐159)](https://github.com/zhiburt/expectrl) \[[expectrl](https://crates.io/crates/expectrl)] — A library for controlling interactive programs in a pseudo-terminal [![build badge](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml)
 
-## [39. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
-
-### Web History and Website Capture / Telegram
-
-*   [waybackpy (⭐352)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
-
-## [40. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
+## [38. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
 
 ### Browser-Based / Arcade
 
@@ -862,14 +846,14 @@
 
 *   [Cocos2d for HTML5 (⭐3k)](https://github.com/cocos2d/cocos2d-HTML5) - Cocos2d for Web Browsers. Built using JavaScript.
 
-## [41. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [39. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### Food
 
 *   [FDA product recalls](https://api.fda.gov/food/enforcement.json)
 *   [Open Food Facts](https://world.openfoodfacts.org/api/v0/product/5060292302201.json)
 
-## [42. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
+## [40. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
 
 ### Server Software / Media Servers
 
@@ -910,13 +894,13 @@
 
 *   [SIP Resources (⭐121)](https://github.com/miconda/sip-resources) - Useful SIP resources curated by Kamailio's head developer.
 
-## [43. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [41. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Booking and Scheduling
 
 *   [Cal.com](https://cal.com/) - The open-source online appointment scheduling system. ([Demo](https://app.cal.com/bailey), [Source Code (⭐27k)](https://github.com/calcom/cal.com)) `MIT` `Nodejs`
 
-## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [42. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -933,7 +917,7 @@
 
 *   [FormKit (⭐3.8k)](https://github.com/formkit/formkit) - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.
 
-## [45. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [43. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Remote Jobs:
 
@@ -941,7 +925,7 @@
 
 
 
-## [46. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [44. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Community / Community Chat Rooms
 
@@ -971,7 +955,7 @@
 
 *   [`nucleo-h743zi`](https://github.com/astraw/nucleo-h743zi) Beginner-oriented support crate for the Nucleo H743ZI and Nucleo H743ZI2
 
-## [47. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [45. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -983,7 +967,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-qrcode (⭐116)](https://github.com/svitejs/vite-plugin-qrcode) - Show QR code on server start.
+*   [vite-plugin-qrcode (⭐120)](https://github.com/svitejs/vite-plugin-qrcode) - Show QR code on server start.
 
 ### Electron / Presets
 
@@ -993,55 +977,59 @@
 
 *   [Preview.js](https://previewjs.com) - An IDE extension to instantly preview React, Vue 2 and Vue 3 components.
 
-## [48. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [46. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
 *   [shareed2k/fiber\_tracing (⭐10)](https://github.com/shareed2k/fiber_tracing) - Middleware trace requests on Fiber framework with OpenTracing API.
 *   [shareed2k/fiber\_limiter (⭐14)](https://github.com/shareed2k/fiber_limiter) - Limiter using redis as store for rate limit with two algorithms for choosing sliding window, gcra leaky bucket.
-*   [ansrivas/fiberprometheus (⭐117)](https://github.com/ansrivas/fiberprometheus) - Prometheus middleware for gofiber.
-*   [sacsand/gofiber-firebaseauth (⭐21)](https://github.com/sacsand/gofiber-firebaseauth) - Fiber Firebase Auth Middleware.
+*   [ansrivas/fiberprometheus (⭐143)](https://github.com/ansrivas/fiberprometheus) - Prometheus middleware for gofiber.
+*   [sacsand/gofiber-firebaseauth (⭐22)](https://github.com/sacsand/gofiber-firebaseauth) - Fiber Firebase Auth Middleware.
 *   [aschenmaker/fiber-health-check (⭐9)](https://github.com/aschenmaker/fiber-health-check) - Health-check middleware support health-check for Fiber️ framework.
-*   [elastic/apmfiber (⭐397)](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - APM Agent for Go Fiber.
-*   [eozer/fiber\_ldapauth (⭐2)](https://github.com/eozer/fiber_ldapauth) - LDAP Authentication Middleware for Fiber.
+*   [elastic/apmfiber (⭐404)](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - APM Agent for Go Fiber.
+*   [eozer/fiber\_ldapauth (⭐3)](https://github.com/eozer/fiber_ldapauth) - LDAP Authentication Middleware for Fiber.
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [gofiber/boilerplate (⭐312)](https://github.com/gofiber/boilerplate) - Official fiber boilerplate.
-*   [fiber-boilerplate (⭐230)](https://github.com/thomasvvugt/fiber-boilerplate) - A boilerplate for the Fiber web framework.
-*   [sujit-baniya/fiber-boilerplate (⭐312)](https://github.com/sujit-baniya/fiber-boilerplate) - Boilerplate on the top of fiber web framework with many middlewares and features.
-*   [create-go-app/fiber-go-template (⭐694)](https://github.com/create-go-app/fiber-go-template) - Fiber backend template for Create Go App CLI.
-*   [embedmode/fiberseed (⭐34)](https://github.com/embedmode/fiberseed) - Fiber boilerplate api with many middlewares.
+*   [gofiber/boilerplate (⭐353)](https://github.com/gofiber/boilerplate) - Official fiber boilerplate.
+*   [fiber-boilerplate (⭐256)](https://github.com/thomasvvugt/fiber-boilerplate) - A boilerplate for the Fiber web framework.
+*   [sujit-baniya/fiber-boilerplate (⭐358)](https://github.com/sujit-baniya/fiber-boilerplate) - Boilerplate on the top of fiber web framework with many middlewares and features.
+*   [create-go-app/fiber-go-template (⭐803)](https://github.com/create-go-app/fiber-go-template) - Fiber backend template for Create Go App CLI.
+*   [embedmode/fiberseed (⭐36)](https://github.com/embedmode/fiberseed) - Fiber boilerplate api with many middlewares.
 
 ### 📁 Recipes / 🌱 Third Party
 
-*   [kiyonlin/fiblar-demo (⭐1)](https://github.com/kiyonlin/fiblar-demo) - Fiber v1 + angular demo.
-*   [koddr/tutorial-go-fiber-rest-api (⭐289)](https://github.com/koddr/tutorial-go-fiber-rest-api) - Tutorial for building a restful api with fiber.
-*   [firebase007/go-rest-api-with-fiber (⭐49)](https://github.com/firebase007/go-rest-api-with-fiber) - Demo project with fiber, logging, basicAuth and postgresql.
+*   [kiyonlin/fiblar-demo (⭐3)](https://github.com/kiyonlin/fiblar-demo) - Fiber v1 + angular demo.
+*   [koddr/tutorial-go-fiber-rest-api (⭐322)](https://github.com/koddr/tutorial-go-fiber-rest-api) - Tutorial for building a restful api with fiber.
+*   [firebase007/go-rest-api-with-fiber (⭐50)](https://github.com/firebase007/go-rest-api-with-fiber) - Demo project with fiber, logging, basicAuth and postgresql.
 *   [chawk/go\_fiber\_quickstart (⭐18)](https://github.com/chawk/go_fiber_quickstart) - Fiber quick start example project.
-*   [EricLau1/go-fiber-auth-api (⭐50)](https://github.com/EricLau1/go-fiber-auth-api) - Golang Authentication API with Fiber MongoDB and JWT.
+*   [EricLau1/go-fiber-auth-api (⭐53)](https://github.com/EricLau1/go-fiber-auth-api) - Golang Authentication API with Fiber MongoDB and JWT.
 
 ### 🤖 Benchmarks / 🌱 Third Party
 
 *   [TechEmpower](https://www.techempower.com/benchmarks/#section=data-r20\&hw=ph\&test=json) - Project provides performance measures across a wide field of web application frameworks.
 *   [web-frameworks-benchmark](https://web-frameworks-benchmark.netlify.app/result) - Project aims to measure the differences between the various programming language frameworks.
-*   [go-web-framework-benchmark (⭐1.9k)](https://github.com/smallnest/go-web-framework-benchmark) - This benchmark suite aims to compare the performance of Go web frameworks.
+*   [go-web-framework-benchmark (⭐2k)](https://github.com/smallnest/go-web-framework-benchmark) - This benchmark suite aims to compare the performance of Go web frameworks.
 
-## [49. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [47. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Problem Solving / Reinforcement Learning
 
-*   [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191\&hl=en\&as_sdt=0,5)]. \[[Code (⭐118)](https://github.com/pokaxpoka/sunrise)].
+*   [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191\&hl=en\&as_sdt=0,5)]. \[[Code (⭐117)](https://github.com/pokaxpoka/sunrise)].
 *   [Automatic curriculum learning for deep RL: a short survey](https://dl.acm.org/doi/abs/10.5555/3491440.3492111) - ***IJCAI'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=10660055557098312214\&hl=en\&as_sdt=0,5)].
 *   [TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL](http://proceedings.mlr.press/v139/romac21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11016662361926634008\&hl=en\&as_sdt=0,5)]. \[[Project (⭐61)](https://github.com/flowersteam/TeachMyAgent)].
 
-## [50. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [48. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Open Sources Intelligence (OSINT) / Penetration Testing Report Templates
+### Social Media Tools / Facebook
 
-*   [Facebook Friend List Scraper (⭐215)](https://github.com/narkopolo/fb_friend_list_scraper) - Tool to scrape names and usernames from large friend lists on Facebook, without being rate limited.
+*   [Facebook Friend List Scraper (⭐215)](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
 
-## [51. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+### Web History and Website Capture / Telegram
+
+*   [waybackpy (⭐407)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
+
+## [49. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Trading & Backtesting
 

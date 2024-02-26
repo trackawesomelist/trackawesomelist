@@ -30,7 +30,7 @@
 
 ### Templates / React
 
-*   [Varsarr (⭐25)](https://github.com/altmshfkgudtjr/varsarr) - React, Typescript, Styled-Components, Recoil, React-Query, Axios, Absolute imports.
+*   [Varsarr (⭐26)](https://github.com/altmshfkgudtjr/varsarr) - React, Typescript, Styled-Components, Recoil, React-Query, Axios, Absolute imports.
 
 ## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -50,7 +50,7 @@
 ### .NET / React
 
 *   [EntityGraphQL (⭐369)](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to bring multiple data sources together in the single GraphQL schema.
-*   [ZeroQL (⭐227)](https://github.com/byme8/ZeroQL) - type-safe GraphQL client with Linq-like interface for C#
+*   [ZeroQL (⭐231)](https://github.com/byme8/ZeroQL) - type-safe GraphQL client with Linq-like interface for C#
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Audio
 
-*   [ViMusic (⭐7k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
+*   [ViMusic (⭐7.2k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
 
 ## [9. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 

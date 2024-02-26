@@ -77,7 +77,7 @@
 
 ### Third-party APIs
 
-*   [go-openai (⭐7.7k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
+*   [go-openai (⭐7.8k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
 
 ## [8. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -141,7 +141,7 @@
 
 ### Solid / Integrations
 
-*   [vite-plugin-solid-svg (⭐61)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
+*   [vite-plugin-solid-svg (⭐65)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
 
 ## [12. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 

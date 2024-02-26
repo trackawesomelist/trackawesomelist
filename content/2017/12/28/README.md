@@ -10,7 +10,7 @@
 
 ### Software / Automation
 
-*   [Healthchecks](https://healthchecks.io/) - Django app which listens for pings and sends alerts when pings are late. ([Source Code (⭐7k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
+*   [Healthchecks](https://healthchecks.io/) - Django app which listens for pings and sends alerts when pings are late. ([Source Code (⭐7.1k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
 
 ### Software / Communication - IRC
 

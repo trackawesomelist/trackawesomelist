@@ -38,11 +38,11 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zpy (⭐47)](https://github.com/AndydeCleyre/zpy) - Manage Python Environments, dependencies, and isolated app installations, with a ZSH frontend to [pip-tools (⭐7.3k)](https://github.com/jazzband/pip-tools).
+*   [zpy (⭐48)](https://github.com/AndydeCleyre/zpy) - Manage Python Environments, dependencies, and isolated app installations, with a ZSH frontend to [pip-tools (⭐7.3k)](https://github.com/jazzband/pip-tools).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [kubectl-plugin (⭐11)](https://github.com/MartinSimango/kubectl-plugin_completion) - Generates `kubectl` completion scripts to extend the `kubectl` auto complete functionality to accomodate for plugin sub-commands.
+*   [kubectl-plugin (⭐12)](https://github.com/MartinSimango/kubectl-plugin_completion) - Generates `kubectl` completion scripts to extend the `kubectl` auto complete functionality to accomodate for plugin sub-commands.
 
 ## [5. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -94,11 +94,11 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [GitHub CLI (⭐34k)](https://github.com/cli/cli) - gh is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with git and your code. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [GitHub CLI (⭐35k)](https://github.com/cli/cli) - gh is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with git and your code. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Version Control
 
-*   [Gitbar (⭐354)](https://github.com/Shikkic/gitbar) - Open-source，display GitHub contribution statistics on your menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Shikkic/gitbar)
+*   [Gitbar (⭐355)](https://github.com/Shikkic/gitbar) - Open-source，display GitHub contribution statistics on your menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Shikkic/gitbar)
 
 ### Developer Tools / Virtualization
 
@@ -110,7 +110,7 @@
 
 ### Design and Product / Design Tools
 
-*   [ScreenToLayers (⭐140)](https://github.com/duyquoc/ScreenToLayers) - Easily export your screen into a layered PSD file. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/duyquoc/ScreenToLayers) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/screentolayers/id1077317077)
+*   [ScreenToLayers (⭐141)](https://github.com/duyquoc/ScreenToLayers) - Easily export your screen into a layered PSD file. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/duyquoc/ScreenToLayers) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/screentolayers/id1077317077)
 
 ### Audio and Video Tools / File Sharing
 
@@ -123,7 +123,7 @@
 
 ### Input Methods / Audio Record and Process
 
-*   [Touch Emoji (⭐50)](https://github.com/lessmess-dev/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lessmess-dev/touch-emoji)
+*   [Touch Emoji (⭐51)](https://github.com/lessmess-dev/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lessmess-dev/touch-emoji)
 
 ### Browsers / Audio Record and Process
 

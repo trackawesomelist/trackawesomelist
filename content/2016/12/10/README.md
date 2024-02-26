@@ -49,7 +49,7 @@
 
 ### Programming Tools / Lenses
 
-*   [eslint-plugin-fp (⭐966)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
+*   [eslint-plugin-fp (⭐969)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
 
 ## [5. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

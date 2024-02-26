@@ -2,9 +2,52 @@
 
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 230 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 232 · 🏷️ Theory
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / Weekly / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
+
+## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
+
+### Concepts / Human Concept Representation
+
+*   [Locating what comes to mind in empirically derived representational spaces](https://www.sciencedirect.com/science/article/pii/S001002772300183X) - ***Cognition***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=57834483230365927\&hl=en\&as_sdt=0,5)]. An evidence-based study concluding that people call category members to mind according to their location in representational space, specifically based on the predicted usefulness of considering category members with particular features.
+
+### Concepts / AI Concept Representation
+
+*   [Do Llamas Work in English? On the Latent Language of Multilingual Transformers](https://arxiv.org/abs/2402.10588) - 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=5847238732288003106\&hl=en\&as_sdt=0,5)]. A preliminary work empirically showing that the intermediate embeddings of multilingual Transformers (1) start far away from output token embeddings; (2) already allow for decoding a semantically correct next token in the middle layers, but give higher probability to its version in English than in the input language; (3) finally move into an input-language-specific region of the embedding space. Also, the embedding of abstract concept space lies closer to English than to other languages.
+
+## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
+
+### Complexity & Information Theory / Visual Complexity
+
+*   [Show or tell? Exploring when (and why) teaching with language outperforms demonstration](https://www.sciencedirect.com/science/article/pii/S0010027722003158) - ***Cognition***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11837154580063293174\&hl=en\&as_sdt=0,5)]. The findings of this paper suggest that language communicates complex concepts by directly transmitting abstract rules. In contrast, demonstrations transmit examples, requiring the learner to infer the rules.
+
+### Communications / Non-Verbal Communication
+
+*   [AI Nüshu: An Exploration of Language Emergence in Sisterhood Through the Lens of Computational Linguistics](https://dl.acm.org/doi/abs/10.1145/3610591.3616427) - ***ACM SIGGraph Asia'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=6849286654402017109\&hl=en\&as_sdt=0,5)]. By continually observing their environment and communicating, AI agents trained in the Chinese dictionary and the Nüshu corpus collaborate towards creating a standard writing system to encode Chinese.
+*   [Toward understanding the importance of gesture in distributed scientific collaboration](https://link.springer.com/article/10.1007/s10115-006-0062-2) - ***Knowledge and Information Systems***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=3145646721897130511\&as_sdt=0,5)].
+
+### Domain Specific Language / Design Theory
+
+*   [Epigrams on programming](https://dl.acm.org/doi/pdf/10.1145/947955.1083808) - ***ACM SIGPLAN Notices***, 1982. \[[All Versions](https://scholar.google.com/scholar?cluster=6439127299132936476\&hl=en\&as_sdt=0,5)].
+
+### Domain Specific Language / Domain Specified Applications
+
+*   [Infinite Photorealistic Worlds Using Procedural Generation](https://openaccess.thecvf.com/content/CVPR2023/html/Raistrick_Infinite_Photorealistic_Worlds_Using_Procedural_Generation_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11620922717915489091\&hl=en\&as_sdt=0,5)]. \[[Website](https://infinigen.org/)]. \[[Supplementary Text](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Raistrick_Infinite_Photorealistic_Worlds_CVPR_2023_supplemental.pdf)]. This paper introduces Infinigen, a procedural generator of photorealistic 3D scenes of the natural world. Infinigen is entirely procedural: every asset, from shape to texture, is generated from scratch via randomized mathematical rules, using no external source and allowing infinite variation and composition.
+
+### System 1 & System 2 / Neural-Symbolic AI
+
+*   [Visual Programming: Compositional Visual Reasoning Without Training](https://openaccess.thecvf.com/content/CVPR2023/html/Gupta_Visual_Programming_Compositional_Visual_Reasoning_Without_Training_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=16156060658942400125\&hl=en\&as_sdt=0,5)]. VISPROG, a neuro-symbolic approach to solving complex and compositional visual tasks given natural language instructions, using the in-context learning ability of large language models to generate python-like modular programs, which are then executed to get both the solution and a comprehensive and interpretable rationale.
+
+### Commonsense / Commonsense Knowledgebase
+
+*   [Visual Concept Programming: A Visual Analytics Approach to Injecting Human Intelligence at Scale](https://ieeexplore.ieee.org/abstract/document/9904017) - ***IEEE Transactions on Visualization and Computer Graphics***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10724509334112758172\&hl=en\&as_sdt=0,5)]. This paper presents Visual Concept Programming, a first-of-its-kind visual analytics approach of using visual concepts to program image data at scale while requiring a few human efforts.
+
+### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
+
+*   [Grammar Prompting for Domain-Specific Language Generation with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cd40d0d65bfebb894ccc9ea822b47fa8-Abstract-Conference.html) - ***NeurIPS'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11694070042468483715\&hl=en\&as_sdt=0,5)]. Grammar prompting, a simple approach to enable LLMs to use external knowledge and domain-specific constraints, expressed through a grammar in Backus--Naur Form (BNF), during in-context learning.
+*   [Large Language Models Meet NL2Code: A Survey](https://aclanthology.org/2023.acl-long.411/) - ***ACL'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11868015824802341463\&hl=en\&as_sdt=0,5)]. \[[NL2Code Website](https://nl2code.github.io/)]. A paper presenting a comprehensive survey of 27 existing large language models for NL2Code, and also review benchmarks and metrics, suggesting that the key factors contributing to the success of large language models for NL2Code are “Large Size, Premium Data, Expert Tuning”.
+*   [A Large-Scale Survey on the Usability of AI Programming Assistants: Successes and Challenges](https://dl.acm.org/doi/abs/10.1145/3597503.3608128) - ***ICSE'24***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=3696356619002071917\&hl=en\&as_sdt=0,5)]. A survey finding that developers are most motivated to use AI programming assistants because they help developers reduce key-strokes, finish programming tasks quickly, and recall syntax, but resonate less with using them to help brainstorm potential solutions.
 
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
@@ -139,13 +182,13 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Concepts / AI Concept Representation
 
-*   [Metabolic activity organizes olfactory representations](https://elifesciences.org/articles/82502) - ***eLife***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8857896396450033667\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐15)](https://github.com/osmoai/publications/tree/main/qian_et_al_2023)]. Odorous compounds with similar POM representations are more likely to co-occur within a substance and be metabolically closely related; metabolic reaction sequences also follow smooth paths in POM despite large jumps in molecular structure.
+*   [Metabolic activity organizes olfactory representations](https://elifesciences.org/articles/82502) - ***eLife***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8857896396450033667\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐16)](https://github.com/osmoai/publications/tree/main/qian_et_al_2023)]. Odorous compounds with similar POM representations are more likely to co-occur within a substance and be metabolically closely related; metabolic reaction sequences also follow smooth paths in POM despite large jumps in molecular structure.
 
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
 ### Concepts / AI Concept Representation
 
-*   [A principal odor map unifies diverse tasks in olfactory perception](https://www.science.org/doi/full/10.1126/science.ade4401) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17847258457660438418\&hl=en\&as_sdt=0,5)]. \[[Code (⭐15)](https://github.com/osmoai/publications/tree/main/lee_et_al_2023)]. \[[Data (Reproduced)](https://www.kaggle.com/datasets/aryanamitbarsainyan/multi-labelled-smiles-odors-dataset)]. \[[Preprint](https://centaur.reading.ac.uk/113304/1/Mayhew%20et%20al%20for%20Centaur.pdf)]. \[[GoodScents Database](https://www.thegoodscentscompany.com/)]. \[[Leffingwell Database](http://www.leffingwell.com/bacispmp.htm)]. A Principal Odor Map (POM) that preserves perceptual relationships and enables odor quality prediction for novel odorants.
+*   [A principal odor map unifies diverse tasks in olfactory perception](https://www.science.org/doi/full/10.1126/science.ade4401) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17847258457660438418\&hl=en\&as_sdt=0,5)]. \[[Code (⭐16)](https://github.com/osmoai/publications/tree/main/lee_et_al_2023)]. \[[Data (Reproduced)](https://www.kaggle.com/datasets/aryanamitbarsainyan/multi-labelled-smiles-odors-dataset)]. \[[Preprint](https://centaur.reading.ac.uk/113304/1/Mayhew%20et%20al%20for%20Centaur.pdf)]. \[[GoodScents Database](https://www.thegoodscentscompany.com/)]. \[[Leffingwell Database](http://www.leffingwell.com/bacispmp.htm)]. A Principal Odor Map (POM) that preserves perceptual relationships and enables odor quality prediction for novel odorants.
 *   [Connecting Touch and Vision via Cross-Modal Prediction](https://ieeexplore.ieee.org/document/8953737) - ***CVPR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=17326564895972374001\&hl=en\&as_sdt=0,5)]. \[[Project (⭐62)](https://github.com/YunzhuLi/VisGel)].
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
@@ -302,13 +345,13 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Concepts / Human Concept Representation
 
-*   [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.polyu.edu.hk/cbs/rclcn/images/cdl_articles/H/Huth_et_al._2016.pdf) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14997953800741854188\&hl=en\&as_sdt=0,5)]. \[[Code & Tutorial (⭐23)](https://github.com/HuthLab/speechmodeltutorial)]. Systematically mapping semantic selectivity across the cortex using voxel-wise modelling of functional MRI data collected while subjects listened to hours of narrative stories, showing that the semantic system is
+*   [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.polyu.edu.hk/cbs/rclcn/images/cdl_articles/H/Huth_et_al._2016.pdf) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14997953800741854188\&hl=en\&as_sdt=0,5)]. \[[Code & Tutorial (⭐24)](https://github.com/HuthLab/speechmodeltutorial)]. Systematically mapping semantic selectivity across the cortex using voxel-wise modelling of functional MRI data collected while subjects listened to hours of narrative stories, showing that the semantic system is
     organized into intricate patterns that seem to be consistent across individuals.
 *   [Using a high-dimensional graph of semantic space to model relationships among words](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00385/full) - ***Frontiers in Psychology***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=472523411548302295\&hl=en\&as_sdt=0,5)]. First-order similarity and second-order relation metrics for word embedding.
 
 ### Domain Specific Language / Domain Specified Applications
 
-*   [A high-level programming language for generative protein design](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1) - 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=11732741354610784314\&hl=en\&as_sdt=0,5)].
+*   [A high-level programming language for generative protein design](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1) - 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=11732741354610784314\&hl=en\&as_sdt=0,5)]. A high-level programming language based on modular building blocks that allows a designer to easily compose a set of desired properties. Along with the programming language, there is an energy-based generative model, built on atomic resolution structure prediction with a language model, that realizes all-atom structure designs that have the programmed properties.
 
 ### Science Logology / Democratization of Science
 
@@ -341,7 +384,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Commonsense / Intuitive Physics
 
-*   [Intuitive Physics Reading List (⭐8)](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List) - ***GitHub***. A reading list on intuitive physics, maintained actively by Shiqian Li.
+*   [Intuitive Physics Reading List (⭐9)](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List) - ***GitHub***. A reading list on intuitive physics, maintained actively by Shiqian Li.
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
@@ -894,7 +937,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x) - ***Cognitive Science***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=6689941517686043970\&hl=en\&as_sdt=0,5)]. Nicolas Fay's original paper on iconicity.
 *   [Iconicity: From sign to system in human communication and language](https://benjamins.com/catalog/pc.22.2.05fay) - ***Pragmatics & Cognition***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=8525760321117094567\&hl=en\&as_sdt=0,5)]. Nicolas Fay's account on the emergence of iconic language.
 *   [Graphical Language Games: Interactional Constraints on Representational Form](https://onlinelibrary.wiley.com/doi/full/10.1080/15326900701221363) - ***Cognitive Science***, 2007. \[[All Versions](https://scholar.google.com/scholar?cluster=280214578402050136\&hl=en\&as_sdt=0,5)]. The first paper introducing the graphical language game.
-*   [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf) - ***ACM SIG Graph***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=6676723059377806081\&hl=en\&as_sdt=0,5)]. \[[Project](http://sketchx.ai/pixelor)]. Rationality in feature sketching.
+*   [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf) - ***ACM SIGGraph'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=6676723059377806081\&hl=en\&as_sdt=0,5)]. \[[Project](http://sketchx.ai/pixelor)]. Rationality in feature sketching.
 *   [Pragmatic Inference and Visual Abstraction Enable Contextual Flexibility During Visual Communication](https://link.springer.com/article/10.1007/s42113-019-00058-7) - ***Computational Brain & Behavior***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17971107104483505071\&hl=en\&as_sdt=0,5)]. A computational account on the rational behavior in graphical language games.
 *   [Emergent Graphical Conventions in a Visual Communication Game](https://arxiv.org/abs/2111.14210) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=6476453985812346727\&hl=en\&as_sdt=0,5)]. A computational account on the emergence of iconic language.
 *   [Communicating artificial neural networks develop efficient color-naming systems](https://www.pnas.org/content/118/12/e2016569118) - ***Proceedings of the National Academy of Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1640459156303560508\&hl=en\&as_sdt=0,5)]. Simulating the emergence of code as the communication bottleneck in color learning task.
@@ -990,7 +1033,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Explainability / Strong Machine Learning
 
 *   [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP](https://link.springer.com/article/10.1007/s10994-018-5707-3) - ***Machine Learning***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=17551060457946144913\&hl=en\&as_sdt=0,5)]. Stephen Muggleton's account of ultra-strong machine learning, which not only learns human understandable knowledge, but also improves human performance on the corresponding tasks.
-*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[Code (⭐593)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
+*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[Code (⭐597)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
 
 ### Explainability / Explainable Deep Learning
 
@@ -1302,7 +1345,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Explainability / Explainable Deep Learning
 
-*   [pytorch-grad-cam (⭐8.9k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
+*   [pytorch-grad-cam (⭐9k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
 ### John Hopcroft / Commonsense Knowledgebase
 
@@ -1345,7 +1388,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Explainability / Strong Machine Learning
 
 *   [Beneficial and harmful explanatory machine learning](https://link.springer.com/article/10.1007%2Fs10994-020-05941-0) - ***Machine Learning***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16983722694047294963\&hl=en\&as_sdt=0,5)].
-*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐878)](https://github.com/LAMDA-NJU/Deep-Forest)].
+*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐880)](https://github.com/LAMDA-NJU/Deep-Forest)].
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
@@ -1405,7 +1448,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Problem Solving / Reinforcement Learning
 
-*   [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191\&hl=en\&as_sdt=0,5)]. \[[Code (⭐118)](https://github.com/pokaxpoka/sunrise)].
+*   [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191\&hl=en\&as_sdt=0,5)]. \[[Code (⭐117)](https://github.com/pokaxpoka/sunrise)].
 *   [Automatic curriculum learning for deep RL: a short survey](https://dl.acm.org/doi/abs/10.5555/3491440.3492111) - ***IJCAI'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=10660055557098312214\&hl=en\&as_sdt=0,5)].
 *   [TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL](http://proceedings.mlr.press/v139/romac21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11016662361926634008\&hl=en\&as_sdt=0,5)]. \[[Project (⭐61)](https://github.com/flowersteam/TeachMyAgent)].
 
@@ -1781,7 +1824,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Abductive Knowledge Induction From Raw Data](https://arxiv.org/pdf/2010.03514.pdf) - ***IJCAI'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=7027142960863064076\&hl=en\&as_sdt=0,5)].
 *   [Making sense of sensory input](https://www.sciencedirect.com/science/article/pii/S0004370220301855) - ***Artificial Intelligence***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11875529139573472578\&hl=en\&as_sdt=0,5)].
 *   [Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution](https://arxiv.org/pdf/2103.14230v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=4172146500538799638\&hl=en\&as_sdt=0,5)].
-*   [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=4550874980727321525\&hl=en\&as_sdt=0,5)]. \[[Project (⭐40)](https://github.com/gblackout/NLIL)].
+*   [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=4550874980727321525\&hl=en\&as_sdt=0,5)]. \[[Project (⭐41)](https://github.com/gblackout/NLIL)].
 *   [Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning](https://arxiv.org/abs/2006.06649) - ***ICML'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9257372000778020812\&hl=en\&as_sdt=0,5)].
 *   [Generating new concepts with hybrid neuro-symbolic models.](https://arxiv.org/abs/2003.08978) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=1912020791698331044)].
 *   [Learning Task-General Representations with Generative Neuro-Symbolic Modeling](https://arxiv.org/abs/2006.14448) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=1335404082385789329)].
@@ -1969,7 +2012,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Energy-Based Models for Continual Learning](https://arxiv.org/pdf/2011.12216.pdf) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094884707139778576\&hl=en\&as_sdt=0,5)]. \[[Project](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/)].
 *   [Learning to Learn Image Classifiers with Visual Analogy](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Learning_to_Learn_Image_Classifiers_With_Visual_Analogy_CVPR_2019_paper.pdf) - ***CVPR'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6285495755337309034\&hl=en\&as_sdt=0,5)].
 *   [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340v2.pdf) - ***ECCV'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=2027060030559987993\&hl=en\&as_sdt=0,5)].
-*   [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project (⭐999)](https://github.com/JosephKJ/OWOD)].
+*   [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project (⭐1k)](https://github.com/JosephKJ/OWOD)].
 *   [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323) - ***MM'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?q=related:FZZr2BK0U6YJ:scholar.google.com/\&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes\&hl=en\&as_sdt=0,5)].
 
 ### Learning with Cognitive Plausibility / Commonsense Knowledgebase

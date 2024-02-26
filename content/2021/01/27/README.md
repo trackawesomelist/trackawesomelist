@@ -366,7 +366,7 @@ Language: English
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [CSG Mesh Exporter (.OBJ) (⭐48)](https://github.com/mohammedzero43/CSGExport-Godot) - Export CSG nodes to OBJ meshes to improve editing performance.
+*   [CSG Mesh Exporter (.OBJ) (⭐49)](https://github.com/mohammedzero43/CSGExport-Godot) - Export CSG nodes to OBJ meshes to improve editing performance.
 
 ---
 

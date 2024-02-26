@@ -59,7 +59,7 @@
 
 ### Concurrency
 
-*   [rotor (⭐306)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
+*   [rotor (⭐312)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
 
 ## [10. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -95,13 +95,13 @@
 
 ### Libraries / Artificial Intelligence
 
-*   [smartcorelib/smartcore (⭐612)](https://github.com/smartcorelib/smartcore) — Machine Learning Library In Rust [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
+*   [smartcorelib/smartcore (⭐617)](https://github.com/smartcorelib/smartcore) — Machine Learning Library [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
 
 ## [15. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [@zougt/vite-plugin-theme-preprocessor (⭐157)](https://github.com/GitOfZGT/vite-plugin-theme-preprocessor) - Easily implementing dynamic themes based on LESS or SASS.
+*   [@zougt/vite-plugin-theme-preprocessor (⭐158)](https://github.com/GitOfZGT/vite-plugin-theme-preprocessor) - Easily implementing dynamic themes based on LESS or SASS.
 
 ## [16. Public Apis](/content/public-apis/public-apis/README.md)
 

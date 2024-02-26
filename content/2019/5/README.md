@@ -140,13 +140,13 @@
 ### Database Tools
 
 *   [SecondBase (⭐221)](https://github.com/customink/secondbase) - Seamless second database integration for Rails. SecondBase provides support for Rails to manage dual databases by extending ActiveRecord tasks that create, migrate, and test your application.
-*   [Standby (⭐86)](https://github.com/kenn/standby) - Read from standby databases for ActiveRecord (formerly Slavery).
+*   [Standby (⭐87)](https://github.com/kenn/standby) - Read from standby databases for ActiveRecord (formerly Slavery).
 
 ### Scientific
 
 *   Utilities
     *   [algorithms (⭐2.6k)](https://github.com/kanwei/algorithms) - Library with documentation on when to use a particular structure/algorithm.
-    *   [jaro\_winkler (⭐183)](https://github.com/tonytonyjan/jaro_winkler) - Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.
+    *   [jaro\_winkler (⭐185)](https://github.com/tonytonyjan/jaro_winkler) - Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.
     *   [primes-utils (⭐3)](https://github.com/jzakiya/primes-utils) - A Rubygem which provides a suite of extremely fast utility methods for testing and generating primes.
     *   [Roots (⭐1)](https://github.com/jzakiya/roots) - A Rubygem which provides utilities to find all the nth roots of real and complex values.
     *   [smarter\_csv (⭐1.4k)](https://github.com/tilo/smarter_csv) - Ruby Gem for smarter importing of CSV Files as Array(s) of Hashes.
@@ -202,7 +202,7 @@
 
 ### Utilities / System Related Tools
 
-*   [Overkill (⭐483)](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
+*   [Overkill (⭐486)](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
 
 ### Gaming Software / System Related Tools
 
@@ -223,18 +223,18 @@
 ### Algorithms and Data structures
 
 *   [def\_memo (⭐32)](https://github.com/os6sense/DefMemo) - A memoization macro (defmemo) for elixir using a genserver backing store.
-*   [emel (⭐94)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in elixir.
+*   [emel (⭐96)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in elixir.
 *   [hypex (⭐20)](https://github.com/whitfin/hypex) - Fast Elixir implementation of HyperLogLog.
 *   [mason (⭐11)](https://github.com/spacepilots/mason) - Coerce maps into structs. This is helpful e.g. when you interface a REST API and want to create a struct from the response.
 *   [sleeplocks (⭐52)](https://github.com/whitfin/sleeplocks) - BEAM friendly spinlocks for Elixir/Erlang.
 
 ### Audio and Sounds
 
-*   [firmata (⭐44)](https://github.com/entone/firmata) - This package implements the Firmata protocol.
+*   [firmata (⭐46)](https://github.com/entone/firmata) - This package implements the Firmata protocol.
 
 ### BSON
 
-*   [cyanide (⭐8)](https://github.com/ispirata/cyanide) - An Elixir BSON encoding/decoding library.
+*   [cyanide (⭐11)](https://github.com/ispirata/cyanide) - An Elixir BSON encoding/decoding library.
 
 ### Caching
 
@@ -245,12 +245,12 @@
 
 ### Cloud Infrastructure and Management
 
-*   [Bonny (⭐347)](https://github.com/coryodaniel/bonny) - Kubernetes Operator Development Framework.
+*   [Bonny (⭐352)](https://github.com/coryodaniel/bonny) - Kubernetes Operator Development Framework.
 
 ### Command Line Applications
 
 *   [ex\_cli (⭐214)](https://github.com/tuvistavie/ex_cli) - User friendly CLI apps for Elixir.
-*   [ratatouille (⭐692)](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir.
+*   [ratatouille (⭐707)](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir.
 
 ### Cryptography
 
@@ -262,18 +262,18 @@
 
 ### Debugging
 
-*   [git\_hooks (⭐146)](https://github.com/qgadrian/elixir_git_hooks) - Add git hooks to Elixir projects.
+*   [git\_hooks (⭐147)](https://github.com/qgadrian/elixir_git_hooks) - Add git hooks to Elixir projects.
 
 ### Eventhandling
 
 *   [cizen](https://gitlab.com/cizen/cizen) - Build highly concurrent, monitorable, and extensible applications with a collection of sagas.
-*   [wait\_for\_it (⭐15)](https://github.com/jvoegele/wait_for_it) - Provides convenient and easy-to-use facilities for synchronizing concurrent activities.
+*   [wait\_for\_it (⭐14)](https://github.com/jvoegele/wait_for_it) - Provides convenient and easy-to-use facilities for synchronizing concurrent activities.
 
 ### Examples and funny stuff
 
 *   [changelog.com (⭐2.6k)](https://github.com/thechangelog/changelog.com) - CMS that runs changelog.com built with Phoenix 1.4.
 *   [hexpm (⭐1k)](https://github.com/hexpm/hexpm) - Source code for the hex package manager site built with Phoenix 1.3.
-*   [tilex (⭐487)](https://github.com/hashrocket/tilex) - Source code for Hashrocket's TIL website built with Phoenix 1.3.
+*   [tilex (⭐489)](https://github.com/hashrocket/tilex) - Source code for Hashrocket's TIL website built with Phoenix 1.3.
 
 ### Files and Directories
 
@@ -294,7 +294,7 @@
 
 ### Instrumenting / Monitoring
 
-*   [telemetry (⭐836)](https://github.com/beam-telemetry/telemetry) - Dynamic dispatching library for metrics and instrumentations.
+*   [telemetry (⭐841)](https://github.com/beam-telemetry/telemetry) - Dynamic dispatching library for metrics and instrumentations.
 
 ### JSON
 
@@ -303,30 +303,30 @@
 
 ### Macros
 
-*   [opus (⭐350)](https://github.com/zorbash/opus) - A framework for pluggable business logic components.
+*   [opus (⭐348)](https://github.com/zorbash/opus) - A framework for pluggable business logic components.
 
 ### Miscellaneous
 
-*   [AtomVM (⭐1.3k)](https://github.com/bettio/AtomVM) - AtomVM allows to run Elixir/Erlang code on embedded devices such as ESP32 and STM32 microcontrollers.
-*   [expool (⭐26)](https://github.com/whitfin/expool) - A small process pooling library for parallel tasks in Elixir.
-*   [hammer (⭐652)](https://github.com/ExHammer/hammer) - A rate-limiter with pluggable storage backends, including Redis.
+*   [AtomVM (⭐1.4k)](https://github.com/bettio/AtomVM) - AtomVM allows to run Elixir/Erlang code on embedded devices such as ESP32 and STM32 microcontrollers.
+*   [expool (⭐27)](https://github.com/whitfin/expool) - A small process pooling library for parallel tasks in Elixir.
+*   [hammer (⭐674)](https://github.com/ExHammer/hammer) - A rate-limiter with pluggable storage backends, including Redis.
 *   [vessel (⭐23)](https://github.com/whitfin/vessel) - Elixir MapReduce interfaces with Hadoop Streaming integration.
 
 ### Networking
 
 *   [FlyingDdns](https://gitlab.com/timopallach/FlyingDdns) - A dyndns server written in elixir.
-*   [sshkit (⭐140)](https://github.com/bitcrowd/sshkit.ex) - An Elixir toolkit for performing tasks on one or more servers, built on top of Erlang’s SSH application.
+*   [sshkit (⭐142)](https://github.com/bitcrowd/sshkit.ex) - An Elixir toolkit for performing tasks on one or more servers, built on top of Erlang’s SSH application.
 
 ### ORM and Datamapping
 
-*   [eternal (⭐87)](https://github.com/whitfin/eternal) - Keep your ETS tables alive forever, safely and easily.
-*   [gremlex (⭐68)](https://github.com/Revmaker/gremlex) - Apache Tinkerpop Gremlin Elixir Client.
-*   [memento (⭐707)](https://github.com/sheharyarn/memento) - Simple Mnesia Interface in Elixir.
+*   [eternal (⭐88)](https://github.com/whitfin/eternal) - Keep your ETS tables alive forever, safely and easily.
+*   [gremlex (⭐69)](https://github.com/Revmaker/gremlex) - Apache Tinkerpop Gremlin Elixir Client.
+*   [memento (⭐709)](https://github.com/sheharyarn/memento) - Simple Mnesia Interface in Elixir.
 
 ### Queue
 
 *   [ecto\_job (⭐272)](https://github.com/mbuhot/ecto_job) - A transactional job queue built with Ecto, PostgreSQL and GenStage.
-*   [Rihanna (⭐433)](https://github.com/samphilipd/rihanna) - High performance postgres-backed job queue for Elixir.
+*   [Rihanna (⭐434)](https://github.com/samphilipd/rihanna) - High performance postgres-backed job queue for Elixir.
 
 ### Security
 
@@ -339,12 +339,12 @@
 ### Testing
 
 *   [elixir-auto-test (⭐0)](https://github.com/joaothallis/elixir-auto-test) - Run test when file is saved using inotify-tools.
-*   [mecks\_unit (⭐55)](https://github.com/archan937/mecks_unit) - A package to elegantly mock module functions within (asynchronous) ExUnit tests using [meck (⭐797)](https://github.com/eproxus/meck).
+*   [mecks\_unit (⭐55)](https://github.com/archan937/mecks_unit) - A package to elegantly mock module functions within (asynchronous) ExUnit tests using [meck (⭐801)](https://github.com/eproxus/meck).
 
 ### Text and Numbers
 
 *   [RandomStringGenerator (⭐1)](https://github.com/caioceccon/random_string_generator) - A module to generate a random string based on a given string pattern.
-*   [shortuuid (⭐39)](https://github.com/gpedic/ex_shortuuid) - Generate concise, unambiguous, URL-safe UUIDs.
+*   [shortuuid (⭐41)](https://github.com/gpedic/ex_shortuuid) - Generate concise, unambiguous, URL-safe UUIDs.
 
 ### Third Party APIs
 
@@ -363,20 +363,20 @@
 
 ### XML
 
-*   [fast\_xml (⭐126)](https://github.com/processone/fast_xml) - Fast Expat based Erlang XML parsing library.
+*   [fast\_xml (⭐129)](https://github.com/processone/fast_xml) - Fast Expat based Erlang XML parsing library.
 
 ### Cheat Sheets
 
-*   [benjamintanweihao/elixir-cheatsheets (⭐103)](https://github.com/benjamintanweihao/elixir-cheatsheets/) - GenServer and Supervisor cheatsheets.
+*   [benjamintanweihao/elixir-cheatsheets (⭐104)](https://github.com/benjamintanweihao/elixir-cheatsheets/) - GenServer and Supervisor cheatsheets.
 
 ### Editors
 
 *   [elixir-ls (⭐842)](https://github.com/JakeBecker/elixir-ls) - A frontend-independent IDE "smartness" server for Elixir. Implements the JSON-based "Language Server Protocol" standard and provides debugger support via VS Code's debugger protocol.
-*   [vscode-elixir-ls (⭐388)](https://github.com/JakeBecker/vscode-elixir-ls) - Elixir language support and debugger for VS Code, powered by ElixirLS.
+*   [vscode-elixir-ls (⭐387)](https://github.com/JakeBecker/vscode-elixir-ls) - Elixir language support and debugger for VS Code, powered by ElixirLS.
 
 ### Other Awesome Lists
 
-*   [Awesome Elixir and CQRS (⭐681)](https://github.com/slashdotdash/awesome-elixir-cqrs) - A curated list of awesome Elixir and Command Query Responsibility Segregation (CQRS) and event sourcing resources.
+*   [Awesome Elixir and CQRS (⭐683)](https://github.com/slashdotdash/awesome-elixir-cqrs) - A curated list of awesome Elixir and Command Query Responsibility Segregation (CQRS) and event sourcing resources.
 *   [Curated Elixir Resources](https://hackr.io/tutorials/learn-elixir) - A collection of top recommended Elixir resources.
 
 ### Reading
@@ -857,7 +857,7 @@ Topics: JavaScript, TypeScript, React, Angular, RxJS, Async, Architecture\
 
 ### Contents / Language bindings
 
-*   Clojure: [clj-postgresql (⭐157)](https://github.com/remodoy/clj-postgresql)
+*   Clojure: [clj-postgresql (⭐159)](https://github.com/remodoy/clj-postgresql)
 
 ## [58. Public Apis](/content/public-apis/public-apis/week/README.md)
 

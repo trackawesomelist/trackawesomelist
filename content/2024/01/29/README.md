@@ -17,21 +17,21 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [QuestSystem (⭐17)](https://github.com/ShomyKohai/quest-system) - A simple and extensible quest manager and creator (Godot 4.x).
+*   [QuestSystem (⭐28)](https://github.com/ShomyKohai/quest-system) - A simple and extensible quest manager and creator (Godot 4.x).
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### AI / Diagnostics
 
-*   [kiddos/gemini.nvim (⭐0)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
+*   [kiddos/gemini.nvim (⭐12)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [cdhist (⭐2)](https://github.com/joknarf/cdhist) - cd history/subdir/locatedir navigation. simple cd history, alias builtin `cd` to add `cd` history, rapidily swich to already visited directories, can use `locate`, `mlocate` or `plocate` to rapidly cd to any directory
-*   [redo (⭐1)](https://github.com/joknarf/redo) - Adds an interactive history menu to replace `Ctrl-R` and `ESC+/`.
-*   [selector (⭐2)](https://github.com/joknarf/selector) - Make it easy to create selection menus.
+*   [cdhist (⭐4)](https://github.com/joknarf/cdhist) - cd history/subdir/locatedir navigation. simple cd history, alias builtin `cd` to add `cd` history, rapidily swich to already visited directories, can use `locate`, `mlocate` or `plocate` to rapidly cd to any directory
+*   [redo (⭐3)](https://github.com/joknarf/redo) - Adds an interactive history menu to replace `Ctrl-R` and `ESC+/`.
+*   [selector (⭐3)](https://github.com/joknarf/selector) - Make it easy to create selection menus.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

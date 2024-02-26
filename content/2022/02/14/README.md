@@ -46,8 +46,8 @@
 
 ### Date and Time Processing
 
-*   [montrose (⭐811)](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby.
-*   [stamp (⭐966)](https://github.com/jeremyw/stamp) - Format dates and times based on human-friendly examples, not arcane strftime directives.
+*   [montrose (⭐815)](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby.
+*   [stamp (⭐965)](https://github.com/jeremyw/stamp) - Format dates and times based on human-friendly examples, not arcane strftime directives.
 
 ## [4. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
 
@@ -100,22 +100,22 @@
 
 ### Front-End Development
 
-*   [lit (⭐1.3k)](https://github.com/web-padawan/awesome-lit#readme) - Library for building web components with a declarative template system.
+*   [lit (⭐1.4k)](https://github.com/web-padawan/awesome-lit#readme) - Library for building web components with a declarative template system.
 
 ### Back-End Development
 
 *   [Laravel (⭐12k)](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
     *   [Education (⭐382)](https://github.com/fukuball/Awesome-Laravel-Education#readme)
-    *   [TALL Stack (⭐869)](https://github.com/livewire/awesome-tall-stack#readme) - Full-stack development solution featuring libraries built by the Laravel community.
+    *   [TALL Stack (⭐881)](https://github.com/livewire/awesome-tall-stack#readme) - Full-stack development solution featuring libraries built by the Laravel community.
 *   [Vapor (⭐1.1k)](https://github.com/vapor-community/awesome-vapor#readme) - Server-side development in Swift.
 
 ### Computer Science
 
 *   [Speech and Natural Language Processing (⭐2.2k)](https://github.com/edobashira/speech-language-processing#readme)
-    *   [Spanish (⭐323)](https://github.com/dav009/awesome-spanish-nlp#readme)
+    *   [Spanish (⭐325)](https://github.com/dav009/awesome-spanish-nlp#readme)
     *   [NLP with Ruby (⭐1k)](https://github.com/arbox/nlp-with-ruby#readme)
-    *   [Question Answering (⭐748)](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
-    *   [Natural Language Generation (⭐431)](https://github.com/accelerated-text/awesome-nlg#readme) - Generation of text used in data to text, conversational agents, and narrative generation applications.
+    *   [Question Answering (⭐752)](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
+    *   [Natural Language Generation (⭐434)](https://github.com/accelerated-text/awesome-nlg#readme) - Generation of text used in data to text, conversational agents, and narrative generation applications.
 
 ### Big Data
 
@@ -123,18 +123,18 @@
 
 ### Gaming
 
-*   [Construct 2 (⭐66)](https://github.com/ConstructCommunity/awesome-construct#readme) - Game engine.
+*   [Construct 2 (⭐67)](https://github.com/ConstructCommunity/awesome-construct#readme) - Game engine.
 
 ### Testing
 
-*   [k6 (⭐476)](https://github.com/grafana/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [k6 (⭐491)](https://github.com/grafana/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ### Miscellaneous
 
 *   [Analytics (⭐3.8k)](https://github.com/0xnr/awesome-analytics#readme)
 *   [Data Visualization (⭐3.5k)](https://github.com/javierluraschi/awesome-dataviz#readme)
 *   [Product Design (⭐2.2k)](https://github.com/ttt30ga/awesome-product-design#readme) - Design a product from the initial concept to production.
-*   [QR Code (⭐69)](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
+*   [QR Code (⭐73)](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
 
 ### Related
 
@@ -156,7 +156,7 @@
 
 ### Graphics
 
-*   [Skia (⭐8.3k)](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. \[BSD] [website](https://skia.org/)
+*   [Skia (⭐8.4k)](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. \[BSD] [website](https://skia.org/)
 
 ## [9. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 

@@ -31,7 +31,7 @@
 
 ### Contents / Utilities
 
-*   [pg\_insights (⭐285)](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
+*   [pg\_insights (⭐292)](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
 
 ## [4. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 

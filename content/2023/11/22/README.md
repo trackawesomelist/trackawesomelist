@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 22, 2023
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -81,7 +81,7 @@
 
 ### Software / Communication - Email - Mail Transfer Agents
 
-*   [OpenTrashmail (⭐419)](https://github.com/HaschekSolutions/opentrashmail) - Complete trashmail solution that exposes an SMTP server and has a web interface to manage received emails. Works with multiple and wildcard domains and is fully file based (no database needed). Includes RSS feeds and JSON API. `Apache-2.0` `Python/PHP/Docker`
+*   [OpenTrashmail (⭐447)](https://github.com/HaschekSolutions/opentrashmail) - Complete trashmail solution that exposes an SMTP server and has a web interface to manage received emails. Works with multiple and wildcard domains and is fully file based (no database needed). Includes RSS feeds and JSON API. `Apache-2.0` `Python/PHP/Docker`
 
 ### Software / Groupware
 
@@ -97,17 +97,11 @@
 
 *   [s1ck3r (⭐0)](https://github.com/pseifer/s1ck3r) - Sleek, transient and space-efficient. Includes decorators for `vi`-mode, elevated permissions, last command exit status, if background jobs are running, working directory and `git` status,
 
-## [9. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Algorithms & Data Structures
-
-*   [The Algorithms](https://the-algorithms.com)
-
-## [10. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+## [9. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Testing / Data Profiler
 
-*   [Grai (⭐255)](https://github.com/grai-io/grai-core/) - A data catalog tool that integrates into your CI system exposing downstream impact testing of data changes. These tests prevent data changes which might break data pipelines or BI dashboards from making it to production.
+*   [Grai (⭐261)](https://github.com/grai-io/grai-core/) - A data catalog tool that integrates into your CI system exposing downstream impact testing of data changes. These tests prevent data changes which might break data pipelines or BI dashboards from making it to production.
 
 ---
 

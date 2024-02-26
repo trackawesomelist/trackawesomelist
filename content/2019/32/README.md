@@ -67,7 +67,7 @@
 
 ### Software / Internet of Things (IoT)
 
-*   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐342)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java/Docker/K8S`
+*   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐343)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java/Docker/K8S`
 
 ## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
@@ -613,7 +613,7 @@
 
 ### Icons
 
-*   [iconify-react (⭐197)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
+*   [iconify-react (⭐200)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
 
 ### Form Components / Star Rating
 
@@ -714,7 +714,7 @@
 
 ### Analytics, Events and Statistics
 
-*   [heap.io](https://heap.io) — Automatically captures every user action in iOS or web apps. Free for up to 5,000 visits/month
+*   [heap.io](https://heap.io) — Automatically captures every user action in iOS or web apps. Free for up to 10K monthly sessions.
 
 ### Visitor Session Recording
 
@@ -835,9 +835,9 @@
 ### Frameworks • Libraries • Ecosystems
 
 *   [nannou](http://nannou.cc/)
-    \[Cross-platform] - Open-source creative coding framework for the Rust language
+    \[Cross-platform] - Open-source creative coding framework for the Rust language.
 *   [thi.ng](http://thi.ng/)
-    \[Cross-platform] - Open source collection of computational design tools for the Clojure and ClojureScript languages
+    \[Cross-platform] - Open source collection of computational design tools for the Clojure and ClojureScript languages.
 
 ### Online
 

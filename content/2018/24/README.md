@@ -318,7 +318,7 @@
 
 *   [Wagtail FontAwesome](https://gitlab.com/alexgleason/wagtailfontawesome) - Add FontAwesome icons to StreamField.
 *   [UWKM Streamfields (⭐33)](https://github.com/UWKM/uwkm_streamfields) – A basic set of Wagtail StreamField blocks for fun and profit.
-*   [Wagtail Code Block (⭐141)](https://github.com/FlipperPA/wagtailcodeblock) - StreamField code blocks for the Wagtail CMS with real-time PrismJS Syntax Highlighting.
+*   [Wagtail Code Block (⭐143)](https://github.com/FlipperPA/wagtailcodeblock) - StreamField code blocks for the Wagtail CMS with real-time PrismJS Syntax Highlighting.
 
 ### Apps / Misc
 
@@ -343,7 +343,7 @@
 
 ### Software / Miscellaneous
 
-*   [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code (⭐834)](https://github.com/OpenPrinting/cups)) `GPL-2.0` `C`
+*   [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code (⭐848)](https://github.com/OpenPrinting/cups)) `GPL-2.0` `C`
 
 ### Software / Office Suites
 

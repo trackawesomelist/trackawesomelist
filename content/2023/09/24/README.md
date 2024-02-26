@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 24, 2023
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,10 +24,10 @@
 
 *   QUIC
     *   [aws/s2n-quic (⭐1k)](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol ![ci](https://img.shields.io/github/actions/workflow/status/aws/s2n-quic/ci.yml?branch=main)
-    *   [cloudflare/quiche (⭐8.6k)](https://github.com/cloudflare/quiche) — cloudflare implementation of the QUIC transport protocol and HTTP/3 ![build](https://img.shields.io/github/actions/workflow/status/cloudflare/quiche/stable.yml?branch=master)
-    *   [mozilla/neqo (⭐1.7k)](https://github.com/mozilla/neqo) — an Implementation of QUIC written in Rust
-    *   [quinn-rs/quinn (⭐3.3k)](https://github.com/quinn-rs/quinn) — Futures-based QUIC implementation in Rust [![build badge](https://dev.azure.com/dochtman/Projects/_apis/build/status/Quinn?branchName=master)](https://dev.azure.com/dochtman/Projects/_build)
-    *   [tencent/tquic (⭐817)](https://github.com/Tencent/tquic) - A high-performance, lightweight, and cross-platform QUIC library [![Build Status](https://img.shields.io/github/actions/workflow/status/tencent/tquic/rust.yml)](https://github.com/Tencent/tquic/actions/workflows/rust.yml)
+    *   [cloudflare/quiche (⭐8.7k)](https://github.com/cloudflare/quiche) — cloudflare implementation of the QUIC transport protocol and HTTP/3 ![build](https://img.shields.io/github/actions/workflow/status/cloudflare/quiche/stable.yml?branch=master)
+    *   [mozilla/neqo (⭐1.7k)](https://github.com/mozilla/neqo) — an Implementation of QUIC
+    *   [quinn-rs/quinn (⭐3.3k)](https://github.com/quinn-rs/quinn) — Futures-based QUIC implementation [![build badge](https://dev.azure.com/dochtman/Projects/_apis/build/status/Quinn?branchName=master)](https://dev.azure.com/dochtman/Projects/_build)
+    *   [tencent/tquic (⭐829)](https://github.com/Tencent/tquic) - A high-performance, lightweight, and cross-platform QUIC library [![Build Status](https://img.shields.io/github/actions/workflow/status/tencent/tquic/rust.yml)](https://github.com/Tencent/tquic/actions/workflows/rust.yml)
 
 ## [4. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
@@ -52,12 +52,18 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [eza (clavelm) (⭐0)](https://github.com/clavelm/eza-omz-plugin) - Replaces `ls` with [eza-community/eza (⭐5k)](https://github.com/eza-community/eza).
-*   [eza (z-shell) (⭐25)](https://github.com/z-shell/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐5k)](https://github.com/eza-community/eza).
+*   [eza (clavelm) (⭐0)](https://github.com/clavelm/eza-omz-plugin) - Replaces `ls` with [eza-community/eza (⭐5.5k)](https://github.com/eza-community/eza).
+*   [eza (z-shell) (⭐27)](https://github.com/z-shell/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐5.5k)](https://github.com/eza-community/eza).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [lperezp (⭐1)](https://github.com/lperezp/lperezp-zsh-theme) - Includes decorators for user\@hostname, `git` status, current directory and the exit status of the last command run.
+
+## [8. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### C++
+
+*   [現代 C++ 101](https://hackmd.io/@lumynou5/CppTutorial-zh-tw) - Lumynous (:construction: *in process*)
 
 ---
 

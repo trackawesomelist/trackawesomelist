@@ -21,7 +21,7 @@
 ### API Builder and Discovery
 
 *   [Version Cake (⭐653)](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
-*   [versionist (⭐969)](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
+*   [versionist (⭐970)](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
 
 ### Authorization
 
@@ -29,7 +29,7 @@
 
 ### Data Visualization
 
-*   [LazyHighCharts (⭐1.1k)](https://github.com/michelson/lazy_high_charts) - A simple and extremely flexible way to use HighCharts from ruby code. Tested on Ruby on Rails, Sinatra and Nanoc, but it should work with others too.
+*   [LazyHighCharts (⭐1k)](https://github.com/michelson/lazy_high_charts) - A simple and extremely flexible way to use HighCharts from ruby code. Tested on Ruby on Rails, Sinatra and Nanoc, but it should work with others too.
 
 ### Database Tools
 
@@ -41,7 +41,7 @@
 
 ### Email
 
-*   [premailer-rails (⭐1.6k)](https://github.com/fphilipe/premailer-rails) - CSS styled emails without the hassle.
+*   [premailer-rails (⭐1.7k)](https://github.com/fphilipe/premailer-rails) - CSS styled emails without the hassle.
 *   [Roadie (⭐1.3k)](https://github.com/Mange/roadie) - Roadie tries to make sending HTML emails a little less painful by inlining stylesheets and rewriting relative URLs for you inside your emails.
 
 ### Geolocation

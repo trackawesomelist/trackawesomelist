@@ -75,7 +75,7 @@
 
 ### Internationalization
 
-*   [crystal-i18n (⭐19)](https://github.com/crystal-i18n/i18n) - An internationalization library inspired by Ruby-I18n
+*   [crystal-i18n (⭐23)](https://github.com/crystal-i18n/i18n) - An internationalization library inspired by Ruby-I18n
 *   [i18n.cr (⭐24)](https://github.com/vladfaust/i18n.cr) - Internationalization shard
 
 ## [8. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)

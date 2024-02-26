@@ -39,11 +39,11 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [tschuchortdev/kotlin-compile-testing (⭐618)](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
+*   [tschuchortdev/kotlin-compile-testing (⭐619)](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
 
 ### Libraries/Frameworks / Misc
 
-*   [charleskorn/kaml (⭐442)](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization
+*   [charleskorn/kaml (⭐443)](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -79,7 +79,7 @@
 ### Development tools / Embedded
 
 *   nRF
-    *   [nrf-rs/nrf-hal (⭐449)](https://github.com/nrf-rs/nrf-hal) — A Rust HAL for the nRF family of devices
+    *   [nrf-rs/nrf-hal (⭐451)](https://github.com/nrf-rs/nrf-hal) — A Rust HAL for the nRF family of devices
 
 ---
 

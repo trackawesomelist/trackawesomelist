@@ -78,7 +78,7 @@
 
 ### ORM and Datamapping
 
-*   [redix (⭐1k)](https://github.com/whatyouhide/redix) - Superfast, pipelined, resilient Redis driver for Elixir.
+*   [redix (⭐1.1k)](https://github.com/whatyouhide/redix) - Superfast, pipelined, resilient Redis driver for Elixir.
 *   [riak\_ecto (⭐31)](https://github.com/pma/riak_ecto) - Riak adapter for Ecto.
 
 ---

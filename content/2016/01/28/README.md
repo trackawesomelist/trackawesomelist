@@ -18,7 +18,7 @@
 
 ### Table of Contents / Micro Framework Extras
 
-*   [Slim Skeleton (⭐1.5k)](https://github.com/slimphp/Slim-Skeleton) - A skeleton for Slim.
+*   [Slim Skeleton (⭐1.6k)](https://github.com/slimphp/Slim-Skeleton) - A skeleton for Slim.
 
 ### Table of Contents / Imagery
 
@@ -26,7 +26,7 @@
 
 ### Table of Contents / Asset Management
 
-*   [JShrink (⭐740)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
+*   [JShrink (⭐744)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
 
 ### Table of Contents / Geolocation
 

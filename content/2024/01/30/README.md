@@ -66,7 +66,7 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [drybalka/clean.nvim (⭐2)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
+*   [drybalka/clean.nvim (⭐23)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
 
 ## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 

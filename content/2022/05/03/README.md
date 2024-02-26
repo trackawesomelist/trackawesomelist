@@ -10,7 +10,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [dyzsh (⭐0)](https://github.com/daotoyi/dyzsh-zsh-theme) - Based on [astro (⭐101)](https://github.com/iplaces/astro-zsh-theme). Includes decorators for `git` branch & hash, current directory, user, host & time.
+*   [dyzsh (⭐0)](https://github.com/daotoyi/dyzsh-zsh-theme) - Based on [astro (⭐102)](https://github.com/iplaces/astro-zsh-theme). Includes decorators for `git` branch & hash, current directory, user, host & time.
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

@@ -379,8 +379,8 @@
 
 ### Web Programming • Libraries
 
-*   [three.js (⭐96k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
-*   [regl (⭐5k)](https://github.com/regl-project/regl) - Functional WebGL.
+*   [three.js (⭐98k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
+*   [regl (⭐5.1k)](https://github.com/regl-project/regl) - Functional WebGL.
 *   [Stackgl](http://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
 *   [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
 *   [Fabric.js](http://fabricjs.com/) - Javascript canvas library, SVG-to-canvas parser.
@@ -400,8 +400,7 @@
 
 *   [Shaders: A primer](https://notes.underscorediscovery.com/shaders-a-primer/) - A primer on shaders.
 *   [Shaders: Second stage](https://notes.underscorediscovery.com/shaders-second-stage/) - The second part to the previous.
-*   [WebGL Lessons — Fragment Shaders (⭐306)](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
-*   [Ray Marching and Signed Distance Functions](http://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing) - Introduction to ray tracing.
+*   [WebGL Lessons — Fragment Shaders (⭐308)](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
 *   [Introduction to Ray Tracing](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - A simple method for creating 3D images.
 *   [GLSL lighting walkthrough (⭐457)](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
 
@@ -503,7 +502,7 @@
 
 ### Contents / Utilities
 
-*   [pglistend (⭐26)](https://github.com/kabirbaidhya/pglistend) - A lightweight PostgresSQL `LISTEN`/`NOTIFY` daemon built on top of `node-postgres`.
+*   [pglistend (⭐27)](https://github.com/kabirbaidhya/pglistend) - A lightweight PostgresSQL `LISTEN`/`NOTIFY` daemon built on top of `node-postgres`.
 
 ## [34. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 

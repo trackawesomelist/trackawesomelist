@@ -262,10 +262,6 @@
 
 *   [moss.sh](https://moss.sh) - Help developers deploy and manage their web apps and servers. Free up to 25 git deployments per month
 
-### Other Free Resources
-
-*   [Framacloud](https://degooglisons-internet.org/en/list/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
-
 ---
 
 - Prev: [Oct 22, 2019](/content/2019/10/22/README.md)

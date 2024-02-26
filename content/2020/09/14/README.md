@@ -56,7 +56,7 @@
 ### Libraries / Compression
 
 *   zip
-    *   [zip-rs/zip (⭐721)](https://github.com/zip-rs/zip) — read and write ZIP archives
+    *   [zip-rs/zip (⭐725)](https://github.com/zip-rs/zip) — read and write ZIP archives
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

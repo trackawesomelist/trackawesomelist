@@ -265,7 +265,7 @@ git log --show-notes='*'
 
 ### Queries
 
-*   [json-rel (⭐15)](https://github.com/slurmulon/json-where) - Transparent references in JSON.
+*   [json-rel (⭐16)](https://github.com/slurmulon/json-where) - Transparent references in JSON.
 
 ### JSON Schema Resources
 
@@ -431,7 +431,7 @@ git log --show-notes='*'
 
 ### ORM and Datamapping
 
-*   [paper\_trail (⭐531)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
+*   [paper\_trail (⭐536)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
 
 ### Testing
 
@@ -490,7 +490,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Apps / Rich text editor extensions
 
-*   [wagtail-readability (⭐15)](https://github.com/takeflight/wagtail-readability) - Test how readable the content you enter into Wagtail is.
+*   [wagtail-readability (⭐16)](https://github.com/takeflight/wagtail-readability) - Test how readable the content you enter into Wagtail is.
 *   [wagtailembedder (⭐36)](https://github.com/springload/wagtailembedder) - Snippets embedder for Wagtail richtext fields.
 *   [Wagtail TinyMCE (⭐44)](https://github.com/isotoma/wagtailtinymce) - A TinyMCE editor integration for Wagtail.
 
@@ -513,11 +513,11 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Apps / Media
 
-*   [wagtailmedia (⭐207)](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin.
+*   [wagtailmedia (⭐211)](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin.
 
 ### Apps / Translations
 
-*   [Wagtail Modeltranslation (⭐147)](https://github.com/infoportugal/wagtail-modeltranslation) - Simple app containing a mixin model that integrates [django-modeltranslation (⭐1.3k)](https://github.com/deschler/django-modeltranslation) into Wagtail panels system.
+*   [Wagtail Modeltranslation (⭐148)](https://github.com/infoportugal/wagtail-modeltranslation) - Simple app containing a mixin model that integrates [django-modeltranslation (⭐1.3k)](https://github.com/deschler/django-modeltranslation) into Wagtail panels system.
 
 ### Apps / Testing
 
@@ -525,7 +525,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Apps / Misc
 
-*   [Wagtail Themes (⭐96)](https://github.com/moorinteractive/wagtail-themes) - Site-specific theme loader for Wagtail.
+*   [Wagtail Themes (⭐98)](https://github.com/moorinteractive/wagtail-themes) - Site-specific theme loader for Wagtail.
 
 ### Tools / Templates & Starter Kits
 

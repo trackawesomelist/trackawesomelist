@@ -16,7 +16,7 @@
 
 ### Platforms
 
-*   [Nix (⭐2k)](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
+*   [Nix (⭐2.2k)](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

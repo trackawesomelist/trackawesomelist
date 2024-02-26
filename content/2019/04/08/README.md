@@ -16,7 +16,7 @@
 
 ### Contents / Frameworks
 
-*   [FHIR Server for Azure (⭐1k)](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
+*   [FHIR Server for Azure (⭐1.1k)](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
 
 ## [3. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Platforms
 
-*   [Node.js (⭐54k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Node.js (⭐55k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
     *   [Cross-Platform (⭐1.1k)](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
 
 ## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)

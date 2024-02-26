@@ -33,7 +33,7 @@
 
 ### MIDI Tools & Libraries
 
-*   [Polyrhythmix (⭐267)](http://github.com/dredozubov/polyrhythmix) - MIDI drums
+*   [Polyrhythmix (⭐273)](http://github.com/dredozubov/polyrhythmix) - MIDI drums
     generator, designed for polyrhythmic parts
 
 ## [4. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
@@ -158,8 +158,8 @@
 
 ### Frameworks • Libraries • Ecosystems
 
-*   [PixelKit (⭐850)](https://github.com/heestand-xyz/PixelKit) \[iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
-*   [AsyncGraphics (⭐266)](https://github.com/heestand-xyz/AsyncGraphics) \[iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
+*   [PixelKit (⭐863)](https://github.com/heestand-xyz/PixelKit) \[iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
+*   [AsyncGraphics (⭐288)](https://github.com/heestand-xyz/AsyncGraphics) \[iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
 
 ### Visual Programming Languages
 
@@ -214,12 +214,8 @@
 
 ### Contents / EHR
 
-*   [ERPNext (⭐14k)](https://github.com/frappe/erpnext) - Modules that help manage patients, appointments, consultations, lab tests, and billing.
+*   [ERPNext (⭐16k)](https://github.com/frappe/erpnext) - Modules that help manage patients, appointments, consultations, lab tests, and billing.
 *   [HOSxP](https://hosxp.net/wordpress/) - Thai Hospital Information System that aims to ease the healthcare workflow of health centers and central hospitals.
-
-### Contents / Specifications
-
-*   [Continuity of Care Record](https://hitsp.org/ConstructSet_Details.aspx?\&PrefixAlpha=4\&PrefixNumeric=32) - Specifications for the older form of CCD - sometimes called a "C32".
 
 ### Contents / Laboratory
 
@@ -227,7 +223,7 @@
 
 ### Contents / Frameworks
 
-*   [CyclOps (⭐47)](https://github.com/VectorInstitute/cyclops) - Framework for healthcare ML implementation.
+*   [CyclOps (⭐61)](https://github.com/VectorInstitute/cyclops) - Framework for healthcare ML implementation.
 
 ### Contents / Applications
 
@@ -235,26 +231,26 @@
 
 ### Contents / Books
 
-*   [Inspired EHRs (⭐102)](https://github.com/goinvo/EHR) - Ideas, designs, and techniques for designing an Electronic Health Record (EHR).
+*   [Inspired EHRs (⭐109)](https://github.com/goinvo/EHR) - Ideas, designs, and techniques for designing an Electronic Health Record (EHR).
 
 ### Contents / Data
 
-*   [EDS\_NLP (⭐88)](https://github.com/aphp/edsnlp) - provides a set of spaCy components to extract information from clinical notes written in French
-*   [eds-scikit (⭐23)](https://github.com/aphp/eds-scikit) - a tool to assist data scientists working on the AP-HP's Clinical Data Warehouse. It is specifically targeted for OMOP-standardized data.
+*   [EDS\_NLP (⭐94)](https://github.com/aphp/edsnlp) - provides a set of spaCy components to extract information from clinical notes written in French
+*   [eds-scikit (⭐31)](https://github.com/aphp/eds-scikit) - a tool to assist data scientists working on the AP-HP's Clinical Data Warehouse. It is specifically targeted for OMOP-standardized data.
 
 ### Contents / Design
 
-*   [Determinants of Health (⭐60)](https://github.com/goinvo/HealthDeterminants) - Determinants of Health Visualization.
-*   [Health Icons (⭐545)](https://github.com/resolvetosavelives/healthicons) - A collection of open source icons for public health projects.
+*   [Determinants of Health (⭐67)](https://github.com/goinvo/HealthDeterminants) - Determinants of Health Visualization.
+*   [Health Icons (⭐599)](https://github.com/resolvetosavelives/healthicons) - A collection of open source icons for public health projects.
 
 ### Contents / Machine learning
 
-*   [MedicalGPT (⭐1k)](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
-*   [PyHealth (⭐678)](https://github.com/sunlabuiuc/PyHealth) - A Deep Learning Python Toolkit for Healthcare Application.
+*   [MedicalGPT (⭐2.2k)](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
+*   [PyHealth (⭐842)](https://github.com/sunlabuiuc/PyHealth) - A Deep Learning Python Toolkit for Healthcare Application.
 
 ### Contents / Logistics
 
-*   [OpenBoxes (⭐504)](https://github.com/openboxes/openboxes) - an Open Source Inventory and Supply Chain Management System.
+*   [OpenBoxes (⭐571)](https://github.com/openboxes/openboxes) - an Open Source Inventory and Supply Chain Management System.
 
 ## [20. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
@@ -271,7 +267,7 @@
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
-*   [Hex Monscape (⭐49)](https://github.com/Haraj-backend/hex-monscape) - Getting started guidelines in writing maintainable code using Hexagonal Architecture.
+*   [Hex Monscape (⭐50)](https://github.com/Haraj-backend/hex-monscape) - Getting started guidelines in writing maintainable code using Hexagonal Architecture.
 
 ## [22. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
@@ -372,7 +368,7 @@
 
 ### Tools - Security / React
 
-*   [GraphQL Cop (⭐254)](https://github.com/dolevf/graphql-cop) - Security Audit Utility for GraphQL
+*   [GraphQL Cop (⭐257)](https://github.com/dolevf/graphql-cop) - Security Audit Utility for GraphQL
 
 ### Tools - Miscellaneous / React
 
@@ -382,24 +378,24 @@
 
 ### Software / Automation
 
-*   [yt-dlp Web UI (⭐415)](https://github.com/marcopeocchi/yt-dlp-web-ui) - Web GUI for yt-dlp. `MPL-2.0` `Docker/Go/Nodejs`
+*   [yt-dlp Web UI (⭐439)](https://github.com/marcopeocchi/yt-dlp-web-ui) - Web GUI for yt-dlp. `MPL-2.0` `Docker/Go/Nodejs`
 
 ### Software / Document Management - E-books
 
-*   [Atsumeru](https://atsumeru.xyz) - Free and open source self-hosted manga/comic/light novel media server with clients for Windows, Linux, macOS and Android. ([Source Code (⭐41)](https://github.com/AtsumeruDev/Atsumeru), [Clients](https://atsumeru.xyz/guides/#how-does-it-work)) `MIT` `Java/Docker`
+*   [Atsumeru](https://atsumeru.xyz) - Free and open source self-hosted manga/comic/light novel media server with clients for Windows, Linux, macOS and Android. ([Source Code (⭐45)](https://github.com/AtsumeruDev/Atsumeru), [Clients](https://atsumeru.xyz/guides/#how-does-it-work)) `MIT` `Java/Docker`
 
 ### Software / Miscellaneous
 
 *   [Kasm Workspaces](https://kasmweb.com/) - Streaming containerized apps and desktops to end-users. Examples include Ubuntu in your browser, or simply single apps such as Chrome, OpenOffice, Gimp, Filezilla etc. ([Demo](https://www.kasmweb.com/#demo), [Source Code](https://github.com/kasmtech)) `GPL-3.0` `Docker`
-*   [Open-Meteo](https://open-meteo.com/) - Open-source weather API with open-data forecasts, historical and climate data from all major national weather services. ([Demo](https://open-meteo.com/en/docs), [Source Code (⭐1.6k)](https://github.com/open-meteo/open-meteo)) `AGPL-3.0` `Docker`
+*   [Open-Meteo](https://open-meteo.com/) - Open-source weather API with open-data forecasts, historical and climate data from all major national weather services. ([Demo](https://open-meteo.com/en/docs), [Source Code (⭐1.7k)](https://github.com/open-meteo/open-meteo)) `AGPL-3.0` `Docker`
 
 ### Software / Search Engines
 
-*   [SearXNG](https://docs.searxng.org/) `⚠` - Internet metasearch engine which aggregates results from various search services and databases (Fork of Searx). ([Source Code (⭐6.4k)](https://github.com/searxng/searxng/)) `AGPL-3.0` `Python/Docker`
+*   [SearXNG](https://docs.searxng.org/) `⚠` - Internet metasearch engine which aggregates results from various search services and databases (Fork of Searx). ([Source Code (⭐6.5k)](https://github.com/searxng/searxng/)) `AGPL-3.0` `Python/Docker`
 
 ### Software / Software Development - Low Code
 
-*   [SQLPage](https://sql.ophir.dev) - SQL-only dynamic website builder. ([Source Code (⭐572)](https://github.com/lovasoa/SQLPage)) `MIT` `Rust/Docker`
+*   [SQLPage](https://sql.ophir.dev) - SQL-only dynamic website builder. ([Source Code (⭐609)](https://github.com/lovasoa/SQLPage)) `MIT` `Rust/Docker`
 
 ### External Links / Wikis
 
@@ -453,15 +449,11 @@
 
 *   [Kroki](https://kroki.io) - API for generating diagrams from textual descriptions. ([Source Code (⭐2.5k)](https://github.com/yuzutech/kroki)) `MIT` `Java`
 
-### Websites / Web
-
-*   [Cloud Native Software Landscape](https://landscape.cncf.io/card-mode?license=open-source\&grouping=category) - Compilation of software and tools for cloud computing.
-
 ## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [miniconda (⭐0)](https://github.com/cmuench/zsh-miniconda) - Tab completions for [miniconda](https://docs.conda.io/en/latest/miniconda.html).
+*   [miniconda (⭐1)](https://github.com/cmuench/zsh-miniconda) - Tab completions for [miniconda](https://docs.conda.io/en/latest/miniconda.html).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -472,12 +464,12 @@
 
 ### Resources / Tutorials & workshops
 
-*   [Data Pipelines with Polars: Step-by-Step Guide](https://towardsdatascience.com/data-pipelines-with-polars-step-by-step-guide-f5474accacc4) - A tutorial that explains how to build data pipelines with Polars by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐36)](https://github.com/aruberts/tutorials/tree/main/polars).
+*   [Data Pipelines with Polars: Step-by-Step Guide](https://towardsdatascience.com/data-pipelines-with-polars-step-by-step-guide-f5474accacc4) - A tutorial that explains how to build data pipelines with Polars by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐38)](https://github.com/aruberts/tutorials/tree/main/polars).
 
 ### Resources / Blog posts
 
 *   [All that Polars that Make You Forget Pandas](https://medium.com/@tq9695/all-that-polars-that-make-you-forget-pandas-3dc0fdfaefbe) - A blog post that explores some deeper reasons behind the performance gains of Polars over Pandas.
-*   [Polars vs Pandas. Inside an AWS Lambda](https://www.confessionsofadataguy.com/polars-vs-pandas-inside-an-aws-lambda/) - A blog post that covers the topic of using Polars vs Pandas inside an AWS Lambda to do data processing by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐7)](https://github.com/danielbeach/polarsVpandasOnAwsLambda).
+*   [Polars vs Pandas. Inside an AWS Lambda](https://www.confessionsofadataguy.com/polars-vs-pandas-inside-an-aws-lambda/) - A blog post that covers the topic of using Polars vs Pandas inside an AWS Lambda to do data processing by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐9)](https://github.com/danielbeach/polarsVpandasOnAwsLambda).
 *   [DuckDB vs Polars for Data Engineering](https://www.confessionsofadataguy.com/duckdb-vs-polars-for-data-engineering/) - A blog post that compares Polars and DuckDB with pipelines for Data Engineering by [@danielbeach](https://github.com/danielbeach).
 
 ### Follow : Official / Talks and videos
@@ -537,7 +529,7 @@
 ### Tools / Community providers
 
 *   [tfmake (⭐13)](https://github.com/tfmake/tfmake) - Automating Terraform with the power of make.
-*   [tftui (⭐798)](https://github.com/idoavrah/terraform-tui) - A textual user interface for Terraform state.
+*   [tftui (⭐828)](https://github.com/idoavrah/terraform-tui) - A textual user interface for Terraform state.
 
 ---
 

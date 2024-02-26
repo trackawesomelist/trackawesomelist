@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 25 - Oct 31, 2021
 
-71 awesome lists updated this week.
+70 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -43,8 +43,8 @@
 
 ### Libraries
 
-*   [Ditox.js (⭐78)](https://github.com/mnasyrov/ditox) - Powerful dependency injection container for building modular apps. +TS
-*   [RxEffects (⭐33)](https://github.com/mnasyrov/rx-effects) - Reactive state and effect management with RxJS. +TS
+*   [Ditox.js (⭐79)](https://github.com/mnasyrov/ditox) - Powerful dependency injection container for building modular apps. +TS
+*   [RxEffects (⭐34)](https://github.com/mnasyrov/rx-effects) - Reactive state and effect management with RxJS. +TS
 
 ## [6. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -351,30 +351,11 @@
 
 *   [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - Similar to this repo, a collection of resources of the Civic Tech Field Guide have been crowdsourced by civic tech practitioners from over 100 countries around the world.
 
-## [35. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Blockchain
-
-*   [Grokking Bitcoin](https://rosenbaum.se/book/) - Kalle Rosenbaum (HTML)
-
-### Computer Organization and Architecture
-
-*   [Basic Computer Architecture](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html) - Smruti R. Sarangi (HTML, PDF, Slides, Videos)
-*   [Computer Organization and Design Fundamentals](https://faculty.etsu.edu/tarnoff/138292) - David Tarnoff (PDF)
-
-### Computer Science
-
-*   [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview) - Trisha Gee (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
-
-### Machine Learning
-
-*   [Approaching Almost Any Machine Learning Problem (⭐6.1k)](https://github.com/abhishekkrthakur/approachingalmost) - Abhishek Thakur (PDF)
-
-## [36. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [35. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Icons
 
-*   [react-icomoon (⭐212)](https://github.com/aykutkardas/react-icomoon) - With react-icomoon you can easily use the icons you have selected or created in icomoon.
+*   [react-icomoon (⭐211)](https://github.com/aykutkardas/react-icomoon) - With react-icomoon you can easily use the icons you have selected or created in icomoon.
 
 ### Form Components / Input Types
 
@@ -384,7 +365,7 @@
 
 *   [zustand](https://zustand.surge.sh/) - [docs (⭐40k)](https://github.com/pmndrs/zustand) - A fast bearbones state-management solution using simplified flux principles and boilerplate-free hook api.
 
-## [37. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [36. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Design Patterns / Scalability and Resilience
 
@@ -396,7 +377,7 @@
 
 *   [Sketchboard.io](https://sketchboard.io/) - Collaborative sketchboarding.
 
-## [38. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [37. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / Compression
 
@@ -410,13 +391,13 @@
 
 *   [uSQLite (⭐71)](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
 
-## [39. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [38. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Starters & Themes
 
 *   🚀 [Vitailse (⭐141)](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
 
-## [40. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [39. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Database
 
@@ -424,42 +405,42 @@
 
     *   [ArangoDB](https://arangodb.com)
         *   [Aragog](https://gitlab.com/qonfucius/aragog) \[[aragog](https://crates.io/crates/aragog)] - A Lightweight ArangoDB Object document, relational and graph mapper [![pipeline status](https://gitlab.com/qonfucius/aragog/badges/master/pipeline.svg)](https://gitlab.com/qonfucius/aragog/-/commits/master)
-        *   [Arangors (⭐127)](https://github.com/fMeow/arangors) \[[arangors](https://crates.io/crates/arangors)] - An ArangoDB driver for Rust
+        *   [Arangors (⭐127)](https://github.com/fMeow/arangors) \[[arangors](https://crates.io/crates/arangors)] - An ArangoDB driver
     *   [Cassandra](https://cassandra.apache.org/_/index.html) \[[cassandra](https://crates.io/keywords/cassandra), [cql](https://crates.io/keywords/cql)]
-        *   [AlexPikalov/cdrs (⭐343)](https://github.com/AlexPikalov/cdrs) \[[cdrs](https://crates.io/crates/cdrs)] — native client written in Rust
-        *   [krojew/cdrs-tokio (⭐119)](https://github.com/krojew/cdrs-tokio) [![build badge](https://github.com/krojew/cdrs-tokio/actions/workflows/rust.yml/badge.svg)](https://github.com/krojew/cdrs-tokio/actions)
-            *   \[[cassandra-protocol](https://crates.io/crates/cassandra-protocol)] - Cassandra protocol implementation in Rust
-            *   \[[cdrs-tokio](https://crates.io/crates/cdrs-tokio)] - production-ready async Apache Cassandra driver written in pure Rust
-        *   [Metaswitch/cassandra-rs (⭐114)](https://github.com/Metaswitch/cassandra-rs) —  bindings to the DataStax C/C++ client
+        *   [AlexPikalov/cdrs (⭐344)](https://github.com/AlexPikalov/cdrs) \[[cdrs](https://crates.io/crates/cdrs)] — native client
+        *   [krojew/cdrs-tokio (⭐122)](https://github.com/krojew/cdrs-tokio) [![build badge](https://github.com/krojew/cdrs-tokio/actions/workflows/rust.yml/badge.svg)](https://github.com/krojew/cdrs-tokio/actions)
+            *   \[[cassandra-protocol](https://crates.io/crates/cassandra-protocol)] - Cassandra protocol implementation.
+            *   \[[cdrs-tokio](https://crates.io/crates/cdrs-tokio)] - production-ready async Apache Cassandra driver
+        *   [Metaswitch/cassandra-rs (⭐117)](https://github.com/Metaswitch/cassandra-rs) —  bindings to the DataStax C/C++ client
     *   CouchDB \[[couchdb](https://crates.io/keywords/couchdb)]
-        *   [chill-rs/chill (⭐35)](https://github.com/chill-rs/chill) \[[couchdb](https://crates.io/crates/chill)] — A Rust client for the CouchDB REST API
+        *   [chill-rs/chill (⭐35)](https://github.com/chill-rs/chill) \[[couchdb](https://crates.io/crates/chill)] — Client for the CouchDB REST API
     *   [DynamoDB](https://aws.amazon.com/dynamodb/) \[[dynamodb](https://crates.io/keywords/dynamodb)]
         *   [softprops/dynomite (⭐211)](https://github.com/softprops/dynomite) - A library for strongly-typed and convenient interaction with `rusoto_dynamodb` [![build badge](https://github.com/softprops/dynomite/workflows/Main/badge.svg?branch=master)](https://github.com/softprops/dynomite/actions)
     *   Elasticsearch \[[elasticsearch](https://crates.io/keywords/elasticsearch)]
-        *   [benashford/rs-es (⭐220)](https://github.com/benashford/rs-es) \[[rs-es](https://crates.io/crates/rs-es)] — A Rust client for the [Elastic](https://www.elastic.co/) REST API
+        *   [benashford/rs-es (⭐220)](https://github.com/benashford/rs-es) \[[rs-es](https://crates.io/crates/rs-es)] — Client for the [Elastic](https://www.elastic.co/) REST API
         *   [elastic-rs/elastic (⭐253)](https://github.com/elastic-rs/elastic) \[[elastic](https://crates.io/crates/elastic)] — elastic is an efficient, modular API client for Elasticsearch written in Rust [![build badge](https://ci.appveyor.com/api/projects/status/csa78tcumdpnbur2?svg=true)](https://ci.appveyor.com/project/KodrAus/elastic)
     *   etcd
         *   [jimmycuadra/rust-etcd (⭐142)](https://github.com/jimmycuadra/rust-etcd) \[[etcd](https://crates.io/crates/etcd)] — A client library for CoreOS's etcd.
-        *   [lodrem/etcd-rs (⭐198)](https://github.com/lodrem/etcd-rs) — An asynchronous etcd client for rust [![CI](https://github.com/lodrem/etcd-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/lodrem/etcd-rs/actions/workflows/ci.yml)
+        *   [lodrem/etcd-rs (⭐196)](https://github.com/lodrem/etcd-rs) — An asynchronous etcd client [![CI](https://github.com/lodrem/etcd-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/lodrem/etcd-rs/actions/workflows/ci.yml)
     *   ForestDB
         *   [vhbit/sherwood (⭐9)](https://github.com/vhbit/sherwood) — [ForestDB (⭐1.3k)](https://github.com/couchbase/forestdb) bindings
     *   [InfluxDB](https://www.influxdata.com/)
         *   [driftluo/InfluxDBClient-rs (⭐81)](https://github.com/driftluo/InfluxDBClient-rs) — Synchronization interface
     *   LevelDB
-        *   [skade/leveldb (⭐182)](https://github.com/skade/leveldb) — [LevelDB (⭐35k)](https://github.com/google/leveldb) bindings
+        *   [skade/leveldb (⭐180)](https://github.com/skade/leveldb) — [LevelDB (⭐35k)](https://github.com/google/leveldb) bindings
     *   LMDB \[[lmdb](https://crates.io/keywords/lmdb)]
         *   [vhbit/lmdb-rs (⭐110)](https://github.com/vhbit/lmdb-rs) \[[lmdb-rs](https://crates.io/crates/lmdb-rs)] — [LMDB](https://www.symas.com/symas-embedded-database-lmdb) bindings
     *   MongoDB \[[mongodb](https://crates.io/keywords/mongodb)]
         *   [mongodb/mongo-rust-driver (⭐1.4k)](https://github.com/mongodb/mongo-rust-driver) \[[mongodb](https://crates.io/crates/mongodb)] — [MongoDB](https://www.mongodb.com/) bindings
     *   [PickleDB](https://pythonhosted.org/pickleDB/)
-        *   [seladb/pickledb-rs (⭐225)](https://github.com/seladb/pickledb-rs) — a lightweight and simple key-value store, heavily inspired by Python's PickleDB.
+        *   [seladb/pickledb-rs (⭐226)](https://github.com/seladb/pickledb-rs) — a lightweight and simple key-value store, heavily inspired by Python's PickleDB.
     *   [PoloDB](https://www.polodb.org/)
-        *   [PoloDB (⭐690)](https://github.com/PoloDB/PoloDB) - An embedded JSON-based database has API similar to MongoDB. ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/PoloDB/PoloDB/rust.yml)
+        *   [PoloDB (⭐707)](https://github.com/PoloDB/PoloDB) - An embedded JSON-based database has API similar to MongoDB. ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/PoloDB/PoloDB/rust.yml)
     *   [Redb](https://www.redb.org/)
-        *   [Redb (⭐2.7k)](https://github.com/cberner/redb) - An embedded key-value database written in pure Rust. It provides a similar interface to other embedded key-value stores such as rocksdb and lmdb. ![GitHub Workflow Status](https://github.com/cberner/redb/actions/workflows/ci.yml/badge.svg)
+        *   [Redb (⭐2.7k)](https://github.com/cberner/redb) - An embedded key-value database. It provides a similar interface to other embedded key-value stores such as rocksdb and lmdb. ![GitHub Workflow Status](https://github.com/cberner/redb/actions/workflows/ci.yml/badge.svg)
     *   Redis \[[redis](https://crates.io/keywords/redis)]
-        *   [aembke/fred (⭐289)](https://github.com/aembke/fred.rs) \[[fred](https://crates.io/crates/fred)] - A high level async [Redis](https://redis.io/) client for Rust with Tokio. [![CircleCI](https://circleci.com/gh/aembke/fred.rs/tree/main.svg?style=svg)](\[https://circleci.com/gh/aembke/fred.rs/tree/main]\(https://app.circleci.com/pipelines/github/aembke/fred.rs?branch=main\))
-        *   [redis-rs (⭐3.3k)](https://github.com/redis-rs/redis-rs) — [Redis](https://redis.io/) library in Rust [![Rust](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml)
+        *   [aembke/fred (⭐303)](https://github.com/aembke/fred.rs) \[[fred](https://crates.io/crates/fred)] - A high level async [Redis](https://redis.io/) client for Rust with Tokio. [![CircleCI](https://circleci.com/gh/aembke/fred.rs/tree/main.svg?style=svg)](\[https://circleci.com/gh/aembke/fred.rs/tree/main]\(https://app.circleci.com/pipelines/github/aembke/fred.rs?branch=main\))
+        *   [redis-rs (⭐3.3k)](https://github.com/redis-rs/redis-rs) — [Redis](https://redis.io/) library [![Rust](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml)
     *   [RocksDB](https://rocksdb.org/)
         *   [rust-rocksdb/rust-rocksdb (⭐1.7k)](https://github.com/rust-rocksdb/rust-rocksdb) — RocksDB bindings [![RocksDB CI](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml)
     *   [SurrealDB](https://surrealdb.com/)
@@ -467,10 +448,10 @@
     *   [UnQLite](https://unqlite.org/)
         *   [zitsen/unqlite.rs (⭐108)](https://github.com/zitsen/unqlite.rs) — UnQLite bindings
     *   [ZooKeeper](https://zookeeper.apache.org/)
-        *   [bonifaido/rust-zookeeper (⭐197)](https://github.com/bonifaido/rust-zookeeper) \[[zookeeper](https://crates.io/crates/zookeeper)] — A client library for Apache ZooKeeper.
-        *   [krojew/rust-zookeeper (⭐23)](https://github.com/krojew/rust-zookeeper) \[[zookeeper-async](https://crates.io/crates/zookeeper-async)] - Async Zookeeper client written 100% in Rust, based on tokio.  ![build status](https://github.com/krojew/rust-zookeeper/actions/workflows/rust.yml/badge.svg)
+        *   [bonifaido/rust-zookeeper (⭐198)](https://github.com/bonifaido/rust-zookeeper) \[[zookeeper](https://crates.io/crates/zookeeper)] — A client library for Apache ZooKeeper.
+        *   [krojew/rust-zookeeper (⭐23)](https://github.com/krojew/rust-zookeeper) \[[zookeeper-async](https://crates.io/crates/zookeeper-async)] - Async Zookeeper client, based on tokio.  ![build status](https://github.com/krojew/rust-zookeeper/actions/workflows/rust.yml/badge.svg)
 
-## [41. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [40. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Centralized
 
@@ -484,38 +465,38 @@
 
 ### Android / iOS
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [FairEmail (⭐2.5k)](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [FairEmail (⭐2.6k)](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [K9](https://k9mail.app/) - Open Source Email App for Android.
 
 ### Video and Audio
 
 *   [Dim (⭐3.6k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
 
-## [42. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [41. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Reproducing Works, Training & Books / Data Visualization
 
 *   [NMOF (⭐34)](https://github.com/enricoschumann/NMOF) - Functions, examples and data from the first and the second edition of "Numerical Methods and Optimization in Finance" by M. Gilli, D. Maringer and E. Schumann (2019, ISBN:978-0128150658).
 
-## [43. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [42. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### Additional Resources / Miscellaneous Tools
 
 *   [Portable Node.js guide (⭐1.4k)](https://github.com/ehmicky/portable-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
 
-## [44. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [43. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
 *   [Noteship](https://noteship.com) - Turn notes into knowledge (spreadsheet view, heading summaries, etc.). Works offline, everything is saved locally. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/noteship/id1571711347?mt=12)
 
-## [45. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [44. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [scapegoat](https://crates.io/crates/scapegoat): Safe, stack-only alternative to `BTreeSet` and `BTreeMap`. - [![crates.io](https://img.shields.io/crates/v/scapegoat.svg)](https://crates.io/crates/scapegoat)
 
-## [46. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [45. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Beginner
 
@@ -525,19 +506,19 @@
 
 *   [Awesome Flutter Desktop (⭐1.3k)](https://github.com/leanflutter/awesome-flutter-desktop) <!--stargazers:leanflutter/awesome-flutter-desktop--> - A curated list of awesome things related to Flutter desktop by [LeanFlutter](https://github.com/leanflutter)
 
-## [47. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [46. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Elastic
 
 *   [Top Elastic Stack Interview Questions](https://logit.io/blog/post/the-top-50-elk-stack-and-elasticsearch-interview-questions)
 
-## [48. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
+## [47. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
 
 ### [Strange Days](https://www.imdb.com/title/tt0114558/) (1995) [7.2] / [Imago](https://www.goodreads.com/book/show/17609348-imago) (1989) [4.2]
 
 *   [@potherca](https://github.com/potherca)
 
-## [49. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [48. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Security Information & Event Management
 
@@ -551,13 +532,13 @@
 
 *   [LunaSec (⭐1.4k)](https://github.com/lunasec-io/lunasec) - Database for PII with automatic encryption/tokenization, sandboxed components for handling data, and centralized authorization controls.
 
-## [50. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [49. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Password-less auth / Public-Key Infrastructure (PKI)
 
 *   [PKI for busy people](https://gist.github.com/hoffa/5a939fd0f3bcd2a6a0e4754cb2cf3f1b) - Quick overview of the important stuff.
 
-## [51. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [50. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
 
@@ -569,14 +550,14 @@
 *   [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1109/Blockchain.2019.00057) - Harris, J. D., & Waggoner, B. (2019, July). Decentralized and collaborative AI on blockchain. In *2019 IEEE International Conference on Blockchain (Blockchain)* (pp. 368-375). IEEE.
 *   [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1007/978-3-030-59638-5_10) - Harris, J. D. (2020, September). Analysis of Models for Decentralized and Collaborative AI on Blockchain. In *International Conference on Blockchain* (pp. 142-153). Springer, Cham.
 
-## [52. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [51. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### VSCode / Third-party APIs
 
 *   [alive (⭐184)](https://github.com/nobody-famous/alive) -  Common Lisp Extension for VSCode. Public domain.
     *   see the Cookbook: [using VSCode with Alive](https://lispcookbook.github.io/cl-cookbook/vscode-alive.html)
 
-## [53. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [52. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Build Tools
 
@@ -606,23 +587,23 @@
 *   [mainargs (⭐147)](https://github.com/com-lihaoyi/mainargs) - Small, dependency-free library for command line argument parsing in Scala.
 *   [decline (⭐564)](https://github.com/bkirwi/decline) - A composable command-line parser for Scala.
 
-## [54. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [53. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
-*   [vital (⭐229)](https://github.com/jvidalv/vital) - React, TypeScript, Tailwind (JIT), CSS-Modules, Jest, Atomic Design, Prettier, Husky, Commit-lint.
+*   [vital (⭐233)](https://github.com/jvidalv/vital) - React, TypeScript, Tailwind (JIT), CSS-Modules, Jest, Atomic Design, Prettier, Husky, Commit-lint.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-sass-dts (⭐97)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
+*   [vite-plugin-sass-dts (⭐98)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
 
-## [55. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [54. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Tools / Editors
 
 *   [Bangle.io](https://bangle.io/) - A Notion like note taking webapp where data is saved in Markdown format locally. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
-## [56. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [55. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Tutorials
 
@@ -632,13 +613,13 @@
 
 *   [@zerodevx/svelte-toast (⭐739)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
 
-## [57. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [56. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Serialization
 
 *   [ObjectDumper.NET (⭐356)](https://github.com/thomasgalliker/ObjectDumper) - Serializes in-memory object to C# code.
 
-## [58. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [57. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -728,7 +709,7 @@
 
 *   [gennaro-tedesco/boilit (⭐66)](https://github.com/gennaro-tedesco/boilit) - Create boilerplate structure plugins.
 
-## [59. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [58. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### [Zinit](https://github.com/zdharma-continuum/zinit)
 
@@ -746,9 +727,9 @@
 
 ### Other References / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [Mastering ZSH (⭐1.1k)](https://github.com/rothgar/mastering-zsh) is a great tutorial that builds on the basics to show you advanced ZSH usage, customizations, and practical examples.
+*   [Mastering ZSH (⭐1.2k)](https://github.com/rothgar/mastering-zsh) is a great tutorial that builds on the basics to show you advanced ZSH usage, customizations, and practical examples.
 
-## [60. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [59. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Strategy
 
@@ -774,38 +755,38 @@
 | ------: | -------: | ---------: |
 |       2 |       8+ | 30m around |
 
-## [61. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
+## [60. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
 ### Featured On
 
 *   [freeCodeCamp](https://www.freecodecamp.org/news/a-friendly-introduction-to-kubernetes-670c50ce4542/)
 
-## [62. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [61. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Steelforged](https://drive.google.com/drive/folders/1X7P2R-rD_89fMWR8JiYKDk5lm62UPhfL) - High fantasy supplements for Starforged
 
-## [63. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [62. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Product Configurators
 
 *   [Montblanc](https://www.montblanc.com/en-us/headphones_cod19971654706731691.html) - Product visualizer for Montblanc pens, watches, wallets and headphones.
 
-## [64. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [63. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Bindings to Other Languages / Apache License
 
 *   [ada-lua (⭐38)](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
 *   [coreland-lua-ada (⭐5)](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
 
-## [65. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [64. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [arrow-kt/arrow-meta (⭐381)](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler.
+*   [arrow-kt/arrow-meta (⭐382)](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler.
 
-## [66. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [65. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Archive of Icons
 
@@ -821,13 +802,13 @@
 
 *   [Bitcoin-Icons (⭐86)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
 
-## [67. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [66. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
 *   [Remote Work for Everyone - NY Times](https://www.nytimes.com/2021/07/06/technology/remote-work-for-everyone.html)
 
-## [68. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [67. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -843,13 +824,13 @@
 
 *   [Parsio.io](https://parsio.io) — Free email parser (Forward email, extract the data, send it to your server)
 
-## [69. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [68. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Full-stack frameworks
 
 *   [iommi (⭐593)](https://github.com/TriOptima/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
 
-## [70. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [69. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -860,7 +841,7 @@
 *   [pinia-persistedstate (⭐15)](https://github.com/JD-Wang/pinia-persistedstate) - Persist Vuex state with localStorage, like vuex-persistedstate.
 *   [vue-sfc-split (⭐0)](https://github.com/gVguy/vue-sfc-split) - Convert SFCs for native browser use without build
 
-## [71. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [70. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Animals
 

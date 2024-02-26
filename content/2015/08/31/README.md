@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 31, 2015
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -147,19 +147,13 @@
 
 *   [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/notes.pdf) - Percy Liang
 
-## [6. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### Build Tools
-
-*   [BitBake](http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html) - A make-like build tool for embedded Linux.
-
-## [7. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Web Frameworks
 
 *   [Kovert (⭐155)](https://github.com/kohesive/kovert) - Invisible REST framework for Kotlin + Vert.x Web.
 
-## [8. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [7. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### List / Grid
 
@@ -171,13 +165,13 @@
 
 
 
-## [9. Awesome Dojo](/content/petk/awesome-dojo/README.md)
+## [8. Awesome Dojo](/content/petk/awesome-dojo/README.md)
 
 ### Themes / Dojo 2
 
 *   [Semantic Dojo Theme](http://websemantics.github.io/semantic-dojo/) - A responsive Dojo theme that harnesses the style awesomeness of [Semantic UI](http://semantic-ui.com/) Framework.
 
-## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
@@ -185,9 +179,9 @@
 
 ### Text and Numbers
 
-*   [money (⭐768)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
+*   [money (⭐775)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 
-## [11. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
+## [10. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 
 ### Other Awesome Lists / OpenOffice
 

@@ -61,11 +61,11 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-bundle-analyzer (⭐59)](https://github.com/nonzzz/vite-bundle-analyzer) - Utility that represents bundles as an interactive treemap.
+*   [vite-bundle-analyzer (⭐66)](https://github.com/nonzzz/vite-bundle-analyzer) - Utility that represents bundles as an interactive treemap.
 
 ### React / Community
 
-*   [Viject (⭐19)](https://github.com/bhbs/viject) - One-shot migration tool from Create React App.
+*   [Viject (⭐27)](https://github.com/bhbs/viject) - One-shot migration tool from Create React App.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

@@ -63,7 +63,7 @@
 
 ### Resources / Articles
 
-*   [You don't (may not) need loops ➿ (⭐1k)](https://github.com/you-dont-need/You-Dont-Need-Loops) - Loops are one of the first constructs that junior programmers learn, but they can pose many potential issues in the software development process, and could be avoided in many cases.
+*   [You don't (may not) need loops ➿ (⭐1.1k)](https://github.com/you-dont-need/You-Dont-Need-Loops) - Loops are one of the first constructs that junior programmers learn, but they can pose many potential issues in the software development process, and could be avoided in many cases.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

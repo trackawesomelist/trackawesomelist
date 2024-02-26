@@ -271,7 +271,7 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 ### Software / Photo and Video Galleries
 
-*   [PhotoPrism](https://photoprism.org) - Personal photo management powered by Go and Google TensorFlow.  Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures. ([Demo](https://demo.photoprism.app/library/browse), [Source Code (⭐31k)](https://github.com/photoprism/photoprism)) `AGPL-3.0` `Go/Docker`
+*   [PhotoPrism](https://photoprism.org) - Personal photo management powered by Go and Google TensorFlow.  Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures. ([Demo](https://demo.photoprism.app/library/browse), [Source Code (⭐32k)](https://github.com/photoprism/photoprism)) `AGPL-3.0` `Go/Docker`
 
 ## [11. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

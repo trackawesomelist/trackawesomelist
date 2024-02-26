@@ -22,7 +22,7 @@
 
 ### Miscellaneous
 
-*   [Stacks (⭐3.2k)](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
+*   [Stacks (⭐3.3k)](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

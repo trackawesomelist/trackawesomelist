@@ -46,8 +46,8 @@
 
 ### Resources / Packages
 
-*   [Monetization (⭐4)](https://github.com/KNawm/monetization) - A wrapper around the Web Monetization API to monetize apps. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/dart.png)
-*   [react-webmonetization-meta (⭐3)](https://github.com/uchibeke/react-webmonetization-meta) - A Web Monetization meta tag manager for React. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
+*   [Monetization (⭐5)](https://github.com/KNawm/monetization) - A wrapper around the Web Monetization API to monetize apps. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/dart.png)
+*   [react-webmonetization-meta (⭐4)](https://github.com/uchibeke/react-webmonetization-meta) - A Web Monetization meta tag manager for React. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
 
 ## [7. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -59,9 +59,7 @@
 
 ### Computer Vision
 
-*   [EasyOCR (⭐19k)](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported.
-*   [Kornia (⭐8.3k)](https://github.com/kornia/kornia/) - Open Source Differentiable Computer Vision Library for PyTorch.
-*   [pytesseract (⭐4.9k)](https://github.com/madmaze/pytesseract) - A wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
+*   [pytesseract (⭐5.4k)](https://github.com/madmaze/pytesseract) - A wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
 
 ## [9. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 

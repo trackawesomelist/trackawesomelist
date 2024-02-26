@@ -53,7 +53,7 @@
 
 ### Applications
 
-*   [wezterm (⭐12k)](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer
+*   [wezterm (⭐13k)](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer
 
 ## [9. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Web Frameworks
 
-*   [Athena (⭐196)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
+*   [Athena (⭐199)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
 
 ## [12. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -271,7 +271,7 @@
 
 ### Menu
 
-*   [hamburger-react (⭐862)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
+*   [hamburger-react (⭐873)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
 
 ## [17. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 

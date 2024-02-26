@@ -201,12 +201,12 @@
 
 ### Testing
 
-*   [Testing (⭐1.5k)](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
-*   [Visual Regression Testing (⭐2k)](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
-*   [Selenium (⭐960)](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
-*   [Appium (⭐412)](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
-*   [TAP (⭐612)](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
-*   [JMeter (⭐657)](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
+*   [Testing (⭐1.6k)](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
+*   [Visual Regression Testing (⭐2.1k)](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
+*   [Selenium (⭐963)](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
+*   [Appium (⭐413)](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
+*   [TAP (⭐616)](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
+*   [JMeter (⭐671)](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

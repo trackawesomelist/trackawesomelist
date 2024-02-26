@@ -47,7 +47,7 @@
 
 ### Vue CLI / Community
 
-*   [webpack-to-vite (⭐707)](https://github.com/originjs/webpack-to-vite) - Convert a webpack project to vite project, also provides conversion details to help you migrate smoothly.
+*   [webpack-to-vite (⭐709)](https://github.com/originjs/webpack-to-vite) - Convert a webpack project to vite project, also provides conversion details to help you migrate smoothly.
 
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
 

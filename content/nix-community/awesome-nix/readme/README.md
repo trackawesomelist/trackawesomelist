@@ -127,9 +127,7 @@
 *   [nix-index (⭐658)](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
 *   [nix-init (⭐633)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
 *   [nix-melt (⭐173)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
-
-<!-- * [nix-output-monitor](https://git.maralorn.de/nix-output-monitor/) - A tool to produce useful graphs and statistics when building derivations. -->
-
+*   [nix-output-monitor (⭐561)](https://github.com/maralorn/nix-output-monitor) - A tool to produce useful graphs and statistics when building derivations.
 *   [nix-prefetch (⭐104)](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 *   [nix-tree (⭐531)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 *   [nurl (⭐331)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.

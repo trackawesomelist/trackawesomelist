@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 23, 2023
 
-20 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -36,7 +36,7 @@
 
 ### Templates / Others
 
-*   [vite-vue3-chrome-extension-v3 (⭐241)](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - Web extension starter template for Chrome, Firefox and Edge.
+*   [vite-vue3-chrome-extension-v3 (⭐262)](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - Web extension starter template for Chrome, Firefox and Edge.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -74,13 +74,7 @@
 
 *   [Tutorials to get started on signal processing for machine learning (⭐44)](https://github.com/jinglescode/python-signal-processing)
 
-## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Mathematics
-
-*   [A First Course in Complex Analysis](https://matthbeck.github.io/papers/complexorth.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka (PDF)
-
-## [11. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+## [10. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ### Productivity
 
@@ -96,7 +90,7 @@
 *   [Plot Factory](https://plotfactory.com/) - An online collaborative story planner that lets writers plan, organize, and write stories & fictional universes. `#paid`
 *   [Sudowrite](https://www.sudowrite.com/) - The model generates text by guessing what's most likely to come next, one word at a time. Kind of like autocomplete on your phone. `#paid`
 
-## [12. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [11. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Industrial Control and SCADA Systems / Zealandia
 
@@ -106,13 +100,13 @@
 
 *   [GraphQL Voyager](https://graphql-kit.com/graphql-voyager/) - Represent any GraphQL API as an interactive graph, letting you explore data models from any Web site with a GraphQL query endpoint.
 
-## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Containers
 
-*   [svector (⭐85)](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. \[MIT]
+*   [svector (⭐86)](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. \[MIT]
 
-## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### ORM
 
@@ -122,7 +116,7 @@
 
 *   [IronPDF](https://ironpdf.com/)  - High-performance C# PDF library with compatibility for various .NET versions, HTML to PDF conversion, content page conversion, file format support (e.g., DOCX, RTF, MD), responsive layouts, and robust PDF capabilities features ranging from compability, generating PDFs, formatting PDFs, and editing PDFs. **\[$]** **\[Free trial available]**
 
-## [15. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [14. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Strategy
 
@@ -227,19 +221,19 @@
 | ------: | -------: | -----: |
 |   2 - 5 |        8 | 10-20m |
 
-## [16. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [15. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Posts / React
 
 *   [Why Automatic Persisted Queries Don't Scale](https://blog.tailcall.run/the-truth-about-scaling-automatic-persisted-queries/)
 
-## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [16. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Software Development - Low Code
 
-*   [Dashpress (⭐573)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
+*   [Dashpress (⭐590)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
 
-## [18. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [17. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
@@ -249,13 +243,13 @@
 
 *   [lost-pixel.com](https://lost-pixel.com) - holistic visual regression testing for your Storybook, Ladle, Histoire stories and Web Apps. Unlimited team members, totally free for open-source, 7,000 snapshots/month.
 
-## [19. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [18. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Module Bundlers / Playground
 
 *   [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
 
-## [20. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [19. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -265,7 +259,7 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [backbone (⭐2)](https://github.com/lmllrjr/backbone-zsh-prompt) - A bare minimum single file prompt, fast as a roadrunner MEEP! MEEP. Includes `git` status and current directory decorations.
-*   [ultima (⭐62)](https://github.com/egorlem/ultima.zsh-theme) - Minimalist, includes `git` status and current directory decorators.
+*   [ultima (⭐65)](https://github.com/egorlem/ultima.zsh-theme) - Minimalist, includes `git` status and current directory decorators.
 
 ---
 

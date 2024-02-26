@@ -365,7 +365,7 @@ git log Branch1 ^Branch2
 
 ### ORM and Datamapping
 
-*   [eventstore (⭐992)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
+*   [eventstore (⭐995)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
 
 ### Text and Numbers
 
@@ -591,7 +591,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### Community / Related Lists
 
-*   [Functional Programming Resources In JavaScript (⭐306)](https://github.com/busypeoples/functional-programming-javascript)
+*   [Functional Programming Resources In JavaScript (⭐305)](https://github.com/busypeoples/functional-programming-javascript)
 
 ---
 

@@ -168,7 +168,7 @@ git rev-parse --abbrev-ref HEAD
 
 ### R Development
 
-*   [import (⭐214)](https://github.com/smbache/import/) - An import mechanism for R.
+*   [import (⭐220)](https://github.com/smbache/import/) - An import mechanism for R.
 
 ## [11. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
@@ -480,7 +480,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### ORM and Datamapping
 
-*   [ecto\_enum (⭐560)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
+*   [ecto\_enum (⭐561)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
 
 ### Third Party APIs
 

@@ -71,7 +71,7 @@
 
 *   [Awesome Computer Vision (⭐19k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
 *   [Awesome Deep Learning for Natural Language Processing (NLP) (⭐1.2k)](https://github.com/brianspiering/awesome-dl4nlp#readme)
-*   [Awesome Generative AI (⭐4k)](https://github.com/steven2358/awesome-generative-ai#readme)
+*   [Awesome Generative AI (⭐4.1k)](https://github.com/steven2358/awesome-generative-ai#readme)
 *   [Awesome Jupyter GLAM (⭐19)](https://github.com/LibraryCarpentry/awesome-jupyter-glam#readme)
 *   [The NLP Index](https://index.quantumstat.com)
 

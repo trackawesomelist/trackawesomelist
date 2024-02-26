@@ -16,13 +16,13 @@
 
 ### Software / Plotter Control
 
-*   [Inkcut (⭐287)](https://github.com/inkcut/inkcut) - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
+*   [Inkcut (⭐291)](https://github.com/inkcut/inkcut) - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
 
 ## [3. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### 2D / Godot 3.2+
 
-*   [Pocket Broomball (⭐20)](https://github.com/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
+*   [Pocket Broomball (⭐22)](https://github.com/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
 
 ### 3D / Godot 3.2+
 
@@ -39,7 +39,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [docuseal (⭐4.5k)](https://github.com/docusealco/docuseal) - A platform to fill and sign digital documents (using Rails 7.0). - [:earth\_africa:](https://www.docuseal.co/)
+*   [docuseal (⭐4.7k)](https://github.com/docusealco/docuseal) - A platform to fill and sign digital documents (using Rails 7.0). - [:earth\_africa:](https://www.docuseal.co/)
 
 ---
 

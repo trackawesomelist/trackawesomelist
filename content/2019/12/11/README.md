@@ -98,7 +98,7 @@
 
 ### Chemistry
 
-*   [Reaktoro (⭐138)](https://github.com/reaktoro/reaktoro) - A computational framework in C++ and Python for modeling chemically reactive systems. \[LGPL] [website](https://reaktoro.org)
+*   [Reaktoro (⭐139)](https://github.com/reaktoro/reaktoro) - A computational framework in C++ and Python for modeling chemically reactive systems. \[LGPL] [website](https://reaktoro.org)
 
 ### Math
 

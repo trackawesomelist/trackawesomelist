@@ -58,13 +58,13 @@
 ### Machine Learning
 
 *   [ahaz](http://cran.r-project.org/web/packages/ahaz/index.html) - Regularization for semiparametric additive hazards regression.
-*   [Clever Algorithms For Machine Learning (⭐238)](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
+*   [Clever Algorithms For Machine Learning (⭐239)](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
 *   [e1071](http://cran.r-project.org/web/packages/e1071/index.html) - Misc Functions of the Department of Statistics (e1071), TU Wien
 *   [kohonen](http://cran.r-project.org/web/packages/kohonen/) - Supervised and Unsupervised Self-Organising Maps.
 *   [randomForest](http://cran.r-project.org/web/packages/randomForest/index.html) - randomForest: Breiman and Cutler's random forests for classification and regression.
 *   [randomForestSRC](http://cran.r-project.org/web/packages/randomForestSRC/index.html) - randomForestSRC: Random Forests for Survival, Regression and Classification (RF-SRC).
 *   [rattle](http://cran.r-project.org/web/packages/rattle/index.html) - Graphical user interface for data mining in R.
-*   [SuperLearner (⭐258)](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
+*   [SuperLearner (⭐257)](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
 
 ## [6. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 

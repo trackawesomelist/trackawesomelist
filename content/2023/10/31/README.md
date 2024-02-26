@@ -30,7 +30,7 @@
 
 ### Applications
 
-*   [WinterJS (⭐853)](https://github.com/wasmerio/winterjs) — A secure JavaScript runtime built with SpiderMonkey, Rust and Axum
+*   [WinterJS (⭐903)](https://github.com/wasmerio/winterjs) — A secure JavaScript runtime built with SpiderMonkey and Axum
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Plugins
 
-*   🧬 [Htmx (⭐8)](https://github.com/aniftyco/tailwind-htmx) - Adds variants for styling on [htmx](https://htmx.org/reference/#classes) events.
+*   🧬 [Htmx (⭐9)](https://github.com/aniftyco/tailwind-htmx) - Adds variants for styling on [htmx](https://htmx.org/reference/#classes) events.
 
 ## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -60,11 +60,11 @@
 
 *   [botan-rs (⭐22)](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
 
-## [8. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+## [8. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
-### Libraries/Packages/Scripts / Python
+### Tools / CI
 
-*   [polars-business (⭐120)](https://github.com/MarcoGorelli/polars-business) - Polars extension that offers utilities for business day operations with Polars and Python by [@MarcoGorelli](https://github.com/MarcoGorelli).
+*   [setup-opentofu (⭐54)](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
 
 ## [9. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
@@ -85,13 +85,13 @@
 
 ### Natural Language Processing
 
-*   [ruby-spellchecker (⭐9)](https://github.com/omohokcoj/ruby-spellchecker) - English spelling and grammar checker that can be used for autocorrection.
+*   [ruby-spellchecker (⭐10)](https://github.com/omohokcoj/ruby-spellchecker) - English spelling and grammar checker that can be used for autocorrection.
 
 ## [11. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Security
 
-*   [beelzebub (⭐499)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
+*   [beelzebub (⭐508)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
 
 ## [12. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

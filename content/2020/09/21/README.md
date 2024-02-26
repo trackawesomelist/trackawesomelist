@@ -59,10 +59,10 @@
 
 ### Notifications
 
-*   [Noticed (⭐2.1k)](https://github.com/excid3/noticed) - ActionMailer-like Notification System for your Ruby on Rails app.
-*   [Ruby Push Notifications (⭐401)](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
+*   [Noticed (⭐2.2k)](https://github.com/excid3/noticed) - ActionMailer-like Notification System for your Ruby on Rails app.
+*   [Ruby Push Notifications (⭐400)](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
 *   [Rpush (⭐2.2k)](https://github.com/rpush/rpush) - The push notification service for Ruby which supports Apple Push Notification Service, Google Cloud Messaging, Amazon Device Messaging and Windows Phone Push Notification Service.
-*   [webpush (⭐380)](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol.
+*   [webpush (⭐383)](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol.
 
 ## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 

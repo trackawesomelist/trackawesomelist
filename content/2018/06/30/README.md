@@ -100,11 +100,11 @@
 
 ### Framework Components
 
-*   [Exception Page (⭐63)](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
+*   [Exception Page (⭐64)](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Podcasts / Pirated software download site blacklist
+### Podcasts / Pirated software download site blocklist
 
 *   [Mac Power Users](https://www.relay.fm/mpu) - Learn about getting the most from your Apple technology with focused topics and workflow guests. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/podcast/mac-power-users/id458066753)
 

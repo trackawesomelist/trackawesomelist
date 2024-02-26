@@ -32,19 +32,19 @@
 
 ### Apps / Rich text editor extensions
 
-*   [Wagtail Froala (⭐14)](https://github.com/jaydensmith/wagtailfroala) - Extends Wagtail to use the Froala WYSIWYG editor in RichTextField/RichTextBlock.
+*   [Wagtail Froala (⭐15)](https://github.com/jaydensmith/wagtailfroala) - Extends Wagtail to use the Froala WYSIWYG editor in RichTextField/RichTextBlock.
 
 ### Apps / Security
 
-*   [wagtailenforcer (⭐43)](https://github.com/springload/wagtailenforcer) - If you need to enforce security protocols on your Wagtail site you've come to the right place.
+*   [wagtailenforcer (⭐44)](https://github.com/springload/wagtailenforcer) - If you need to enforce security protocols on your Wagtail site you've come to the right place.
 
 ### Apps / Forms
 
-*   [Wagtail ReCaptcha (⭐52)](https://github.com/springload/wagtail-django-recaptcha) - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha (⭐938)](https://github.com/praekelt/django-recaptcha) field when using the Wagtail formbuilder.
+*   [Wagtail ReCaptcha (⭐54)](https://github.com/springload/wagtail-django-recaptcha) - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha (⭐944)](https://github.com/praekelt/django-recaptcha) field when using the Wagtail formbuilder.
 
 ### Apps / Misc
 
-*   [wagtailmenus (⭐375)](https://github.com/rkhleics/wagtailmenus) - An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.
+*   [wagtailmenus (⭐377)](https://github.com/rkhleics/wagtailmenus) - An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.
 
 ### Resources / Presentations
 

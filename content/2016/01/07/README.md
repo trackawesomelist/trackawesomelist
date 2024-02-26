@@ -22,7 +22,7 @@
 
 ### For Developers / Directory Navigation
 
-*   [dokku (⭐25k)](https://github.com/dokku/dokku) - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
+*   [dokku (⭐26k)](https://github.com/dokku/dokku) - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
 
 ## [4. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -56,17 +56,17 @@
 ### Graphic Displays
 
 *   [ggrepel (⭐1.2k)](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
-*   [ggalt (⭐645)](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms and Statistical Transformations for ggplot2.
+*   [ggalt (⭐648)](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms and Statistical Transformations for ggplot2.
 
 ## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Command Line Applications
 
-*   [table\_rex (⭐236)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
+*   [table\_rex (⭐237)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
 
 ### Files and Directories
 
-*   [exfile (⭐89)](https://github.com/keichan34/exfile) - File upload handling, persistence, and processing in Elixir and Plug.
+*   [exfile (⭐90)](https://github.com/keichan34/exfile) - File upload handling, persistence, and processing in Elixir and Plug.
 
 ## [10. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

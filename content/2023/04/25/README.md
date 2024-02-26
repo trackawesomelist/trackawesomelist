@@ -28,7 +28,7 @@
 
 ### Project Layout
 
-*   [go-module (⭐22)](https://github.com/octomation/go-module) - Template for a typical module written on Go.
+*   [go-module (⭐25)](https://github.com/octomation/go-module) - Template for a typical module written on Go.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Miscellaneous
 
-*   [Quarto (⭐1.3k)](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
+*   [Quarto (⭐1.4k)](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
 
 ## [7. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
@@ -52,12 +52,12 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [autovenv (⭐2)](https://github.com/linnnus/autovenv) - Automatically activates Python virtual environments when entering their parent directory.
+*   [autovenv (⭐1)](https://github.com/linnnus/autovenv) - Automatically activates Python virtual environments when entering their parent directory.
 *   [todotxt (⭐0)](https://github.com/Neluji/omz-todotxt) - Adds aliases for [todo.sh (⭐24)](https://github.com/benignoc/alfred-todotxt/).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [git-profiles (⭐0)](https://github.com/baliestri/git-profiles.plugin.zsh) - Manages multiple git users in a single `.gitconfig` file.
+*   [git-profiles (⭐1)](https://github.com/baliestri/git-profiles.plugin.zsh) - Manages multiple git users in a single `.gitconfig` file.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

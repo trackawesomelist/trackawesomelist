@@ -22,7 +22,7 @@
 
 ### Distributed Systems
 
-*   [Temporal (⭐425)](https://github.com/temporalio/sdk-go) - Durable execution system for making code fault-tolerant and simple.
+*   [Temporal (⭐431)](https://github.com/temporalio/sdk-go) - Durable execution system for making code fault-tolerant and simple.
 
 ## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Contents / CLI
 
-*   [atlas (⭐3.1k)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
+*   [atlas (⭐4.5k)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
 
 ### Contents / Server
 
@@ -58,7 +58,7 @@
 
 ### Software / Analytics
 
-*   [Aptabase](https://aptabase.com/) - Open source, privacy first and simple analytics for mobile and desktop apps. ([Source Code (⭐470)](https://github.com/aptabase/aptabase)) `AGPL-3.0` `Docker`
+*   [Aptabase](https://aptabase.com/) - Open source, privacy first and simple analytics for mobile and desktop apps. ([Source Code (⭐532)](https://github.com/aptabase/aptabase)) `AGPL-3.0` `Docker`
 
 ### Software / Document Management
 
@@ -78,7 +78,7 @@
 
 ### Projects
 
-*   [Crypto-helper (⭐25)](https://github.com/TheBestTvarynka/crypto-helper) - Web app that can hash, encrypt, and sign the data on the client side. Also includes a JWT debugger. [Website](https://crypto.qkation.com).
+*   [Crypto-helper (⭐27)](https://github.com/TheBestTvarynka/crypto-helper) - Web app that can hash, encrypt, and sign the data on the client side. Also includes a JWT debugger. [Website](https://crypto.qkation.com).
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

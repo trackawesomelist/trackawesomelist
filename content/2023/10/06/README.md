@@ -139,7 +139,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzfsh (⭐0)](https://github.com/ethan605/fzfsh) - Add [fzf (⭐57k)](https://github.com/junegunn/fzf) plugins for `chezmoi`, `docker`, `git`, `kubectl` and `pass`.
+*   [fzfsh (⭐0)](https://github.com/ethan605/fzfsh) - Add [fzf (⭐58k)](https://github.com/junegunn/fzf) plugins for `chezmoi`, `docker`, `git`, `kubectl` and `pass`.
 *   [incsearch (⭐5)](https://github.com/aoyama-val/zsh-incsearch) - Friendlier `vim` mode for ZSH. Moves cursor with incremental search within current line.
 
 ---

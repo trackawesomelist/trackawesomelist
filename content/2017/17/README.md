@@ -46,7 +46,7 @@
 
 ### JSON Schema Validators
 
-*   [JSON Schema Toolkit (⭐29)](https://github.com/petrounias/json-schema-toolkit) - Programmatic building of JSON schemas (recursive field mappings) with validation, a Django JSON Field, and native PostgreSQL JSON type constraints.
+*   [JSON Schema Toolkit (⭐30)](https://github.com/petrounias/json-schema-toolkit) - Programmatic building of JSON schemas (recursive field mappings) with validation, a Django JSON Field, and native PostgreSQL JSON type constraints.
 
 ## [4. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Contents / GUI
 
-*   [temBoard (⭐349)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
+*   [temBoard (⭐427)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
 
 ### Resources / Articles
 
@@ -327,7 +327,7 @@
 
 ### Open-source sites / Lists
 
-*   [RTEI (⭐15)](https://github.com/okfn/rtei) – Right to Education Index website (OKFN).
+*   [RTEI (⭐16)](https://github.com/okfn/rtei) – Right to Education Index website (OKFN).
 
 ## [28. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 

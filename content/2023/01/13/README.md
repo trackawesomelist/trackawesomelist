@@ -72,11 +72,11 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [unplugin-imagemin (⭐140)](https://github.com/ErKeLost/unplugin-imagemin) - High performance compressed Picture based on squoosh and sharp.
+*   [unplugin-imagemin (⭐149)](https://github.com/ErKeLost/unplugin-imagemin) - High performance compressed Picture based on squoosh and sharp.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-entry-shaking (⭐64)](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
+*   [vite-plugin-entry-shaking (⭐69)](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
 
 ## [6. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
@@ -88,8 +88,8 @@
 
 ### [Transistor Software plugins](https://www.transistorsoft.com//)
 
-*   [Background Geolocation (⭐76)](https://github.com/transistorsoft/capacitor-background-geolocation) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
-*   [Background Fetch (⭐70)](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both IOS and Android.
+*   [Background Geolocation (⭐78)](https://github.com/transistorsoft/capacitor-background-geolocation) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
+*   [Background Fetch (⭐71)](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both IOS and Android.
 *   [Background Geolocation Firebase (⭐6)](https://github.com/transistorsoft/capacitor-background-geolocation-firebase) - Firebase adapter for Capacitor Background Geolocation.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)

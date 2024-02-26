@@ -24,7 +24,7 @@
 
 ### Development tools / Web Servers
 
-*   [git-cliff (⭐6.7k)](https://github.com/orhun/git-cliff) — A highly customizable Changelog Generator that follows Conventional Commit specifications ![https://github.com/orhun/git-cliff/actions](https://img.shields.io/github/actions/workflow/status/orhun/git-cliff/ci.yml?branch=main\&label=build)
+*   [git-cliff (⭐7k)](https://github.com/orhun/git-cliff) — A highly customizable Changelog Generator that follows Conventional Commit specifications ![https://github.com/orhun/git-cliff/actions](https://img.shields.io/github/actions/workflow/status/orhun/git-cliff/ci.yml?branch=main\&label=build)
 
 ## [3. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 

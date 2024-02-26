@@ -16,14 +16,14 @@
 
 ### Projects
 
-*   [rust-async-wasm-demo (⭐44)](https://github.com/extraymond/rust-async-wasm-demo) - Toy project to learn Rust and async that can be deployed to the web.
+*   [rust-async-wasm-demo (⭐46)](https://github.com/extraymond/rust-async-wasm-demo) - Toy project to learn Rust and async that can be deployed to the web.
 
 ### Crates / Component Libraries
 
-*   [muicss-yew (⭐33)](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
+*   [muicss-yew (⭐34)](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
 *   [yew-bulma (⭐19)](https://github.com/kellpossible/yew-bulma) - A Rust library providing components based on the bulma css library for projects using Yew.
 *   [ybc (⭐253)](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
-*   [patternfly-yew (⭐129)](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
+*   [patternfly-yew (⭐134)](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
 
 ### Crates / Components
 
@@ -51,7 +51,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [DailyTxT (⭐166)](https://github.com/PhiTux/DailyTxT) - Encrypted diary Web application to save your personal memories of each day. Includes a search function and encrypted file upload. `MIT` `Docker`
+*   [DailyTxT (⭐169)](https://github.com/PhiTux/DailyTxT) - Encrypted diary Web application to save your personal memories of each day. Includes a search function and encrypted file upload. `MIT` `Docker`
 
 ## [6. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Testing / Community providers
 
-*   [clarity (⭐133)](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing.
+*   [clarity (⭐134)](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing.
 
 ---
 

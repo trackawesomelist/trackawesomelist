@@ -83,7 +83,7 @@
 
 ### Tools / Community providers
 
-*   [atmos (⭐477)](https://github.com/cloudposse/atmos) - A universal tool that converts deep merged YAML to module inputs. :alien:
+*   [atmos (⭐499)](https://github.com/cloudposse/atmos) - A universal tool that converts deep merged YAML to module inputs. :alien:
 
 ## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

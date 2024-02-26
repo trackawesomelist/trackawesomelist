@@ -10,7 +10,7 @@
 
 ### Software / Communication - XMPP - Servers
 
-*   [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code (⭐5.8k)](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang/Docker`
+*   [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code (⭐5.9k)](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang/Docker`
 
 ### Software / Learning and Courses
 
@@ -569,7 +569,7 @@
 
 ### Transformations
 
-*   [Sawmill (⭐98)](https://github.com/logzio/sawmill) - JSON transformation library (Java)
+*   [Sawmill (⭐109)](https://github.com/logzio/sawmill) - JSON transformation library (Java)
 
 ## [29. Awesome Funny Markov](/content/sublimino/awesome-funny-markov/week/README.md)
 
@@ -649,7 +649,7 @@
 
 ## [38. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
-### Mac App Download Sites / Pirated software download site blacklist
+### Mac App Download Sites / Pirated software download site blocklist
 
 *   Softasm：~~`https://softasm.com/`~~
 
@@ -657,7 +657,7 @@
 
 ### Command Line Applications
 
-*   [scribe (⭐282)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
+*   [scribe (⭐284)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
 
 ### JSON
 
@@ -725,10 +725,10 @@
 ### Libraries / Command-line
 
 *   Line editor
-    *   [kkawakam/rustyline (⭐1.4k)](https://github.com/kkawakam/rustyline) \[[rustyline](https://crates.io/crates/rustyline)] — readline implementation in Rust
+    *   [kkawakam/rustyline (⭐1.4k)](https://github.com/kkawakam/rustyline) \[[rustyline](https://crates.io/crates/rustyline)] — readline implementation
     *   [MovingtoMars/liner (⭐74)](https://github.com/MovingtoMars/liner) \[[liner](https://crates.io/crates/liner)] — A library offering readline-like functionality
-    *   [murarth/linefeed (⭐182)](https://github.com/murarth/linefeed) \[[linefeed](https://crates.io/crates/linefeed)] — Configurable, extensible, interactive line reader
-    *   [srijs/rust-copperline (⭐27)](https://github.com/srijs/rust-copperline) \[[copperline](https://crates.io/crates/copperline)] — pure-Rust command line editing library
+    *   [murarth/linefeed (⭐183)](https://github.com/murarth/linefeed) \[[linefeed](https://crates.io/crates/linefeed)] — Configurable, extensible, interactive line reader
+    *   [srijs/rust-copperline (⭐27)](https://github.com/srijs/rust-copperline) \[[copperline](https://crates.io/crates/copperline)] — command line editing library
 
 ## [47. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
@@ -782,7 +782,7 @@
 
 ### Web Frameworks
 
-*   [spider-gazelle (⭐173)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
+*   [spider-gazelle (⭐174)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
 
 ## [53. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

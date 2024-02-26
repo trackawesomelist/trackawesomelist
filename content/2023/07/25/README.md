@@ -10,7 +10,7 @@
 
 ### Resources / Tutorials & workshops
 
-*   [Data Pipelines with Polars: Step-by-Step Guide](https://towardsdatascience.com/data-pipelines-with-polars-step-by-step-guide-f5474accacc4) - A tutorial that explains how to build data pipelines with Polars by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐36)](https://github.com/aruberts/tutorials/tree/main/polars).
+*   [Data Pipelines with Polars: Step-by-Step Guide](https://towardsdatascience.com/data-pipelines-with-polars-step-by-step-guide-f5474accacc4) - A tutorial that explains how to build data pipelines with Polars by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐38)](https://github.com/aruberts/tutorials/tree/main/polars).
 
 ## [2. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
@@ -27,7 +27,7 @@
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
-*   [Hex Monscape (⭐49)](https://github.com/Haraj-backend/hex-monscape) - Getting started guidelines in writing maintainable code using Hexagonal Architecture.
+*   [Hex Monscape (⭐50)](https://github.com/Haraj-backend/hex-monscape) - Getting started guidelines in writing maintainable code using Hexagonal Architecture.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -93,18 +93,18 @@
 
 ### Tools - Security / React
 
-*   [GraphQL Cop (⭐254)](https://github.com/dolevf/graphql-cop) - Security Audit Utility for GraphQL
+*   [GraphQL Cop (⭐257)](https://github.com/dolevf/graphql-cop) - Security Audit Utility for GraphQL
 
 ## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
-*   [yt-dlp Web UI (⭐415)](https://github.com/marcopeocchi/yt-dlp-web-ui) - Web GUI for yt-dlp. `MPL-2.0` `Docker/Go/Nodejs`
+*   [yt-dlp Web UI (⭐439)](https://github.com/marcopeocchi/yt-dlp-web-ui) - Web GUI for yt-dlp. `MPL-2.0` `Docker/Go/Nodejs`
 
 ### Software / Miscellaneous
 
 *   [Kasm Workspaces](https://kasmweb.com/) - Streaming containerized apps and desktops to end-users. Examples include Ubuntu in your browser, or simply single apps such as Chrome, OpenOffice, Gimp, Filezilla etc. ([Demo](https://www.kasmweb.com/#demo), [Source Code](https://github.com/kasmtech)) `GPL-3.0` `Docker`
-*   [Open-Meteo](https://open-meteo.com/) - Open-source weather API with open-data forecasts, historical and climate data from all major national weather services. ([Demo](https://open-meteo.com/en/docs), [Source Code (⭐1.6k)](https://github.com/open-meteo/open-meteo)) `AGPL-3.0` `Docker`
+*   [Open-Meteo](https://open-meteo.com/) - Open-source weather API with open-data forecasts, historical and climate data from all major national weather services. ([Demo](https://open-meteo.com/en/docs), [Source Code (⭐1.7k)](https://github.com/open-meteo/open-meteo)) `AGPL-3.0` `Docker`
 
 ### External Links / Wikis
 
@@ -151,7 +151,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [miniconda (⭐0)](https://github.com/cmuench/zsh-miniconda) - Tab completions for [miniconda](https://docs.conda.io/en/latest/miniconda.html).
+*   [miniconda (⭐1)](https://github.com/cmuench/zsh-miniconda) - Tab completions for [miniconda](https://docs.conda.io/en/latest/miniconda.html).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

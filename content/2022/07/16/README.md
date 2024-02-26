@@ -16,7 +16,7 @@
 
 ### Table
 
-*   [react-table-library (⭐675)](https://github.com/table-library/react-table-library) - [demo](https://react-table-library.com/) - React Table Library -- an almost headless table library -- for building better tables.
+*   [react-table-library (⭐688)](https://github.com/table-library/react-table-library) - [demo](https://react-table-library.com/) - React Table Library -- an almost headless table library -- for building better tables.
 
 ## [3. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

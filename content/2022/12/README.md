@@ -32,7 +32,7 @@
 
 ### Software / Miscellaneous
 
-*   [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code (⭐439)](https://github.com/benjaminjonard/koillection)) `MIT` `Docker/PHP`
+*   [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code (⭐451)](https://github.com/benjaminjonard/koillection)) `MIT` `Docker/PHP`
 
 ## [5. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
@@ -83,7 +83,7 @@
 
 ### MIDI Tools & Libraries
 
-*   [JJazzLab-X (⭐296)](https://github.com/jjazzboss/JJazzLab-X) - a complete Midi-based framework for automatic backing tracks generation.
+*   [JJazzLab-X (⭐0)](https://github.com/jjazzboss/JJazzLab-X) - a complete Midi-based framework for automatic backing tracks generation.
 
 ## [10. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [mvysny/vaadin-on-kotlin (⭐178)](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack database-backed component-oriented web apps
+*   [mvysny/vaadin-on-kotlin (⭐177)](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack database-backed component-oriented web apps
 
 ## [16. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
@@ -303,7 +303,7 @@
 
 ### Miscellaneous / React
 
-*   [supertest-graphql (⭐30)](https://github.com/alexstrat/supertest-graphql) - Extends [supertest (⭐13k)](https://github.com/visionmedia/supertest) to easily test a GraphQL endpoint
+*   [supertest-graphql (⭐31)](https://github.com/alexstrat/supertest-graphql) - Extends [supertest (⭐13k)](https://github.com/visionmedia/supertest) to easily test a GraphQL endpoint
 
 ## [32. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -451,7 +451,7 @@
 
 ### Integrations
 
-*   [cucumber-playwright (⭐314)](https://github.com/Tallyb/cucumber-playwright) - A starter repo for writing E2E tests based on Cucumber with Playwright using Typescript.
+*   [cucumber-playwright (⭐320)](https://github.com/Tallyb/cucumber-playwright) - A starter repo for writing E2E tests based on Cucumber with Playwright using Typescript.
 
 ### Language Support
 
@@ -472,11 +472,11 @@
 
 ### Maps / Web Maps
 
-*   [Road Curvature](https://roadcurvature.com/map/) - Helps to find curvy roads for those who enjoy them. ([Source Code (⭐199)](https://github.com/adamfranco/curvature))
+*   [Road Curvature](https://roadcurvature.com/map/) - Helps to find curvy roads for those who enjoy them. ([Source Code (⭐202)](https://github.com/adamfranco/curvature))
 
 ### Maps / Map Games
 
-*   [Back Of Your Hand](https://backofyourhand.com/) - A web map game that tests your knowledge by having you find a street in a given area. ([Source Code (⭐74)](https://github.com/adam-lynch/back-of-your-hand))
+*   [Back Of Your Hand](https://backofyourhand.com/) - A web map game that tests your knowledge by having you find a street in a given area. ([Source Code (⭐76)](https://github.com/adam-lynch/back-of-your-hand))
 
 ### Video / Global
 
@@ -492,13 +492,13 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bitwarden (kalsowerus) (⭐10)](https://github.com/kalsowerus/zsh-bitwarden) - Opens a [fzf (⭐57k)](https://github.com/junegunn/fzf) widget containing your [Bitwarden](https://bitwarden.com/) vault items. Upon selecting an item either the username or password will be either written into the shell or copied into the clipboard. Requires `fzf`, `jq` and `bitwarden`.
+*   [bitwarden (kalsowerus) (⭐10)](https://github.com/kalsowerus/zsh-bitwarden) - Opens a [fzf (⭐58k)](https://github.com/junegunn/fzf) widget containing your [Bitwarden](https://bitwarden.com/) vault items. Upon selecting an item either the username or password will be either written into the shell or copied into the clipboard. Requires `fzf`, `jq` and `bitwarden`.
 *   [bw (⭐4)](https://github.com/begris/bw-zsh-plugin) - Provides formatting options and easy access to credentials stored in [Bitwarden](https://bitwarden.com) via the Bitwarden [CLI](https://bitwarden.com/download/). The plugin tries to retrieve a valid session before each action, therefore an explicit login is not nescessary beforehand.
 *   [lacrimae (⭐0)](https://github.com/caIamity/lacrimae) - Prints a line from a collection of chants.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [terragrunt (⭐11)](https://github.com/jkavan/terragrunt-oh-my-zsh-plugin) - Tab completion for [Terragrunt (⭐7.4k)](https://github.com/gruntwork-io/terragrunt).
+*   [terragrunt (⭐12)](https://github.com/jkavan/terragrunt-oh-my-zsh-plugin) - Tab completion for [Terragrunt (⭐7.5k)](https://github.com/gruntwork-io/terragrunt).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -657,7 +657,7 @@
 ### Templates / Vue 3
 
 *   [vite-vue-ts-tailwind-v3 (⭐7)](https://github.com/huibizhang/template-vite-vue-ts-tailwind-v3) - Starter template for Vue3 + Typescript + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
-*   [Vue Naive (⭐2.1k)](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
+*   [Vue Naive (⭐2.2k)](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
 *   [vue-admin-box (⭐1.6k)](https://github.com/cmdparkour/vue-admin-box) - Admin template, based on Vue 3 + Element-plus.
 
 ### Templates / React
@@ -671,7 +671,7 @@
 
 ### Vue / Helpers
 
-*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-vue-inspector (⭐598)](https://github.com/webfansplz/vite-plugin-vue-inspector) - Jump to local IDE source code while click the element of browser.
+*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-vue-inspector (⭐602)](https://github.com/webfansplz/vite-plugin-vue-inspector) - Jump to local IDE source code while click the element of browser.
 
 ---
 

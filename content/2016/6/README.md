@@ -283,11 +283,11 @@ git clean -fd --dry-run
 
 ### Algorithms and Data structures
 
-*   [exconstructor (⭐278)](https://github.com/appcues/exconstructor) - An Elixir library for generating struct constructors that handle external data with ease.
+*   [exconstructor (⭐280)](https://github.com/appcues/exconstructor) - An Elixir library for generating struct constructors that handle external data with ease.
 
 ### Email
 
-*   [mail (⭐377)](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
+*   [mail (⭐379)](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
 
 ## [29. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 

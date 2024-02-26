@@ -10,7 +10,7 @@
 
 ### Algorithms and Data structures
 
-*   [aruspex (⭐37)](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
+*   [aruspex (⭐39)](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
 
 ## [2. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 

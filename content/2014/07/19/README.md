@@ -386,7 +386,7 @@
 ### Web Technologies and Services
 
 *   [RCurl](http://cran.r-project.org/web/packages/RCurl/index.html) - General network (HTTP/FTP/...) client interface for R.
-*   [httpuv (⭐220)](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
+*   [httpuv (⭐221)](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
 
 ### Machine Learning
 
@@ -432,7 +432,7 @@
 ### 2017 / Book/monograph Lists and Reviews
 
 *   [awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness)
-*   [lists (⭐9.3k)](https://github.com/jnv/lists)
+*   [lists (⭐9.4k)](https://github.com/jnv/lists)
 
 ## [10. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 

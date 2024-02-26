@@ -34,7 +34,7 @@
 
 ### Validation
 
-*   [validator (⭐27)](https://github.com/Nicolab/crystal-validator) - Data check and validation
+*   [validator (⭐28)](https://github.com/Nicolab/crystal-validator) - Data check and validation
 
 ## [6. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 

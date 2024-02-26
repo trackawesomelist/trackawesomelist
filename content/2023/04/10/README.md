@@ -43,7 +43,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [lm-sys/FastChat (⭐31k)](https://github.com/lm-sys/FastChat): The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" \[[demo](https://chat.lmsys.org/)]
+*   [lm-sys/FastChat (⭐32k)](https://github.com/lm-sys/FastChat): The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" \[[demo](https://chat.lmsys.org/)]
 
 ## [4. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
@@ -87,8 +87,8 @@
 
 ### JavaScript Libraries
 
-*   [noble-curves (⭐497)](https://github.com/paulmillr/noble-curves) — audited implementation of secp256k1 + schnorr in pure typescript
-*   [noble-secp256k1 (⭐652)](https://github.com/paulmillr/noble-secp256k1) — alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work
+*   [noble-curves (⭐535)](https://github.com/paulmillr/noble-curves) — audited implementation of secp256k1 + schnorr in pure typescript
+*   [noble-secp256k1 (⭐667)](https://github.com/paulmillr/noble-secp256k1) — alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work
 
 ## [10. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 

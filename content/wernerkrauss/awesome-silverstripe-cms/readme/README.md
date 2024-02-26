@@ -2,7 +2,7 @@
 
 Useful resources for Silverstripe CMS and framework
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/wernerkrauss/awesome-silverstripe-cms/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wernerkrauss/awesome-silverstripe-cms](https://github.com/wernerkrauss/awesome-silverstripe-cms) · ⭐ 46 · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/wernerkrauss/awesome-silverstripe-cms/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wernerkrauss/awesome-silverstripe-cms](https://github.com/wernerkrauss/awesome-silverstripe-cms) · ⭐ 47 · 🏷️ Content Management Systems
 
 [ [Daily](/content/wernerkrauss/awesome-silverstripe-cms/README.md) / [Weekly](/content/wernerkrauss/awesome-silverstripe-cms/week/README.md) / Overview ]
 
@@ -99,7 +99,6 @@ Outdated items can be found in the [archive](https://github.com/wernerkrauss/awe
 
 ### Module Listings
 
-*   [SS Addons: Themes and Modules](https://addons.silverstripe.org) - The official module registry.
 *   [SSMods: Detailed Module Search](http://ssmods.com) - Alternative module search.
 *   [Most Used Modules](https://addons.silverstripe.org/add-ons?sort=relative) - Shows which modules are downloaded most.
 *   [Silverstripe Recipes on Packagist](https://packagist.org/packages/silverstripe/recipe-plugin/dependents) - Preconfigured sets of modules for different kind of projects.
@@ -110,7 +109,7 @@ Outdated items can be found in the [archive](https://github.com/wernerkrauss/awe
 
 ### I18N (Internationalisation)
 
-*   [Fluent (⭐90)](https://github.com/tractorcow-farm/silverstripe-fluent) - Multi-language translate module for Silverstripe, without having to manage separate site trees.
+*   [Fluent (⭐91)](https://github.com/tractorcow-farm/silverstripe-fluent) - Multi-language translate module for Silverstripe, without having to manage separate site trees.
 *   [Autotranslate (⭐4)](https://github.com/bratiask/silverstripe-autotranslate) -  Creates automatic translations of fields using Google Translate API.
 
 ### Site Search
@@ -123,9 +122,9 @@ Outdated items can be found in the [archive](https://github.com/wernerkrauss/awe
 
 ### Development Helpers
 
-*   [Debugbar (⭐53)](https://github.com/lekoala/silverstripe-debugbar/) -  Shows debugging statistics in your browser.
+*   [Debugbar (⭐55)](https://github.com/lekoala/silverstripe-debugbar/) -  Shows debugging statistics in your browser.
 *   [IdeAnnotator (⭐44)](https://github.com/silverleague/silverstripe-ideannotator) -  Auto-generates class annotations on dev/build.
-*   [Populate (⭐24)](https://github.com/dnadesign/silverstripe-populate) -  Populate your database through YAML files.
+*   [Populate (⭐26)](https://github.com/dnadesign/silverstripe-populate) -  Populate your database through YAML files.
 *   [Mock DataObjects (⭐18)](https://github.com/unclecheese/silverstripe-mock-dataobjects) -  Allows DataObjects to self-populate intelligently with fake data.
 *   [Version Truncator (⭐34)](https://github.com/axllent/silverstripe-version-truncator) - Automatically delete old SiteTree page versions.
 *   [UserSwitcher (⭐16)](https://github.com/sheadawson/silverstripe-userswitcher) - Adds a small form both in the frontend and backend to quickly login as any user.
@@ -147,7 +146,7 @@ Outdated items can be found in the [archive](https://github.com/wernerkrauss/awe
 
 *   [VSCode Silverstripe](https://marketplace.visualstudio.com/items?itemName=adrian.silverstripe) - Syntax highlighting for Silverstripe template files in VSCode.
 *   [Jetbrains / PHPStorm Silverstripe Template Language Support](https://plugins.jetbrains.com/plugin/17014-silverstripe-template-language-support) - Syntax highlighting for Silverstripe template files.
-*   [PHPStorm / Webstorm Live Templates (⭐3)](https://github.com/northcreation-agency/silverstripe-php-web-storm-live-templates) - Shortcuts for adding various Silverstripe specific code snippets.
+*   [PHPStorm / Webstorm Live Templates (⭐4)](https://github.com/northcreation-agency/silverstripe-php-web-storm-live-templates) - Shortcuts for adding various Silverstripe specific code snippets.
 
 ### Virtualisation
 

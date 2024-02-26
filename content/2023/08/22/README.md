@@ -42,11 +42,11 @@
 
 ### Framework Components
 
-*   [pluggable (⭐11)](https://github.com/mruoss/pluggable) - Build `plug`-like pipelines with your own token (instead of `%Plug.Conn{}`).
+*   [pluggable (⭐13)](https://github.com/mruoss/pluggable) - Build `plug`-like pipelines with your own token (instead of `%Plug.Conn{}`).
 
 ### Reading
 
-*   [Elixir Refactorings (⭐72)](https://github.com/lucasvegi/Elixir-Refactorings) - A catalog of refactoring strategies to promote the redesign and improve the quality of code developed with Elixir.
+*   [Elixir Refactorings (⭐82)](https://github.com/lucasvegi/Elixir-Refactorings) - A catalog of refactoring strategies to promote the redesign and improve the quality of code developed with Elixir.
 
 ## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 

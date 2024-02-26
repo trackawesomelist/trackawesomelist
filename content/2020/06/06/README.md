@@ -8,15 +8,6 @@
 
 ## [1. Awesome Python](/content/vinta/awesome-python/README.md)
 
-### Books
-
-*   [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/)
-
-### Websites
-
-*   Libraries
-    *   [Awesome Python @LibHunt](https://python.libhunt.com/)
-
 ### Newsletters
 
 *   [Awesome Python Newsletter](http://python.libhunt.com/newsletter)
@@ -24,8 +15,6 @@
 ### Podcasts
 
 *   [Django Chat](https://djangochat.com/)
-*   [Podcast.\_\_init\_\_](https://podcastinit.com/)
-*   [Running in Production](https://runninginproduction.com/)
 
 ## [2. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -81,7 +70,7 @@
 
 ### Projects
 
-*   [Yew-WebRTC-Chat (⭐118)](https://github.com/codec-abc/Yew-WebRTC-Chat) - A simple WebRTC chat made with Yew.
+*   [Yew-WebRTC-Chat (⭐119)](https://github.com/codec-abc/Yew-WebRTC-Chat) - A simple WebRTC chat made with Yew.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

@@ -16,19 +16,19 @@
 
 ### Asynchronous Event Loop
 
-*   [Ichor (⭐165)](https://github.com/volt-software/ichor) - An event queue which focuses on thread safety and provides dependency injection. \[MIT]
+*   [Ichor (⭐168)](https://github.com/volt-software/ichor) - An event queue which focuses on thread safety and provides dependency injection. \[MIT]
 
 ## [3. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Databases
 
-*   [Cassandra (⭐262)](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
+*   [Cassandra (⭐268)](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Transpiling
 
-*   [perf-monitor-rs (⭐191)](https://github.com/larksuite/perf-monitor-rs) — A toolkit designed to be a foundation for applications to monitor their performance. [![crates.io](https://img.shields.io/crates/v/perf_monitor.svg)](https://crates.io/crates/perf_monitor)
+*   [perf-monitor-rs (⭐193)](https://github.com/larksuite/perf-monitor-rs) — A toolkit designed to be a foundation for applications to monitor their performance. [![crates.io](https://img.shields.io/crates/v/perf_monitor.svg)](https://crates.io/crates/perf_monitor)
 
 ## [5. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Code Analysis
 
-*   [DepViz](https://depviz.jasonaxelson.com/) - A visual tool to help developers understand Elixir recompilation in their projects. ([Code (⭐183)](https://github.com/axelson/dep_viz/)).
+*   [DepViz](https://depviz.jasonaxelson.com/) - A visual tool to help developers understand Elixir recompilation in their projects. ([Code (⭐185)](https://github.com/axelson/dep_viz/)).
 
 ## [17. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
@@ -345,16 +345,16 @@
 
 ### Apps / Misc
 
-*   [Wagtail Transfer (⭐80)](https://github.com/wagtail/wagtail-transfer) - An official extension for Wagtail allowing content to be transferred between multiple instances of a Wagtail project
+*   [Wagtail Transfer (⭐82)](https://github.com/wagtail/wagtail-transfer) - An official extension for Wagtail allowing content to be transferred between multiple instances of a Wagtail project
 
 ### Tools / Templates & Starter Kits
 
 *   [wagtail-webpack-dokku (⭐13)](https://github.com/helixsoftco/wagtail-webpack-dokku/) - A template with Wagtail, Webpack using django-webpack-loader, Bootstrap 5, production ready for Dokku.
-*   [CodeRed CMS (⭐640)](https://github.com/coderedcorp/coderedcms) - a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! [Learn more](https://www.coderedcorp.com/cms/) or [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g\&t=228s).
+*   [CodeRed CMS (⭐645)](https://github.com/coderedcorp/coderedcms) - a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! [Learn more](https://www.coderedcorp.com/cms/) or [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g\&t=228s).
 
 ### Open-source sites / Lists
 
-*   [WesternFriend (⭐48)](https://github.com/WesternFriend/WF-website) - community website with directory, ecommerce, and online subscription
+*   [WesternFriend (⭐50)](https://github.com/WesternFriend/WF-website) - community website with directory, ecommerce, and online subscription
 
 ## [22. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
@@ -410,7 +410,7 @@
 
 ### Software / Genealogy
 
-*   [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\&ged=demo), [Source Code (⭐333)](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
+*   [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\&ged=demo), [Source Code (⭐340)](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
 
 ## [27. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 

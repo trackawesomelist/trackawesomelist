@@ -8,10 +8,6 @@
 
 ## [1. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
-### Configuration / PHP Videos
-
-*   [Nomad PHP Lightning Talks](https://www.youtube.com/c/nomadphp) - 10 to 15 minute Lightning Talks by PHP community members.
-
 ### Configuration / PHP Podcasts
 
 *   [Voices of the ElePHPant](https://voicesoftheelephpant.com/) - Interviews with the people who make the PHP community special.
@@ -48,7 +44,7 @@
 
 ### Authorization
 
-*   [bodyguard (⭐705)](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
+*   [bodyguard (⭐706)](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
 
 ### Caching
 
@@ -64,7 +60,7 @@
 
 ### ORM and Datamapping
 
-*   [arbor (⭐235)](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
+*   [arbor (⭐237)](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
 *   [ex\_sider (⭐6)](https://github.com/ephe-meral/ex_sider) - Elixir Map/List/Set interfaces for Redis data structures (uses Redix, but that is configurable).
 
 ### Statistics
@@ -78,7 +74,7 @@
 
 ### Text and Numbers
 
-*   [abacus (⭐81)](https://github.com/narrowtux/abacus) - Evaluate math terms in Elixir.
+*   [abacus (⭐82)](https://github.com/narrowtux/abacus) - Evaluate math terms in Elixir.
 *   [brcpfcnpj (⭐66)](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validation for Brazilian documents (CPF/CNPJ).
 
 ## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)

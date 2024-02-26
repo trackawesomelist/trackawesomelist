@@ -43,7 +43,7 @@
 
 ### Regular Expression
 
-*   [Oniguruma (⭐2.1k)](https://github.com/kkos/oniguruma) - A modern and flexible regular expressions library that supports a variety of character encodings. \[BSD]
+*   [Oniguruma (⭐2.2k)](https://github.com/kkos/oniguruma) - A modern and flexible regular expressions library that supports a variety of character encodings. \[BSD]
 
 ## [6. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -283,22 +283,22 @@
 
 ### Programming Languages
 
-*   [Ada/SPARK (⭐537)](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
+*   [Ada/SPARK (⭐546)](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
 
 ### Decentralized Systems
 
-*   [Blockchain AI (⭐724)](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
+*   [Blockchain AI (⭐754)](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
 
 ### Miscellaneous
 
-*   [Food (⭐157)](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
-*   [Bitcoin Payment Processors (⭐361)](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
+*   [Food (⭐161)](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
+*   [Bitcoin Payment Processors (⭐374)](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
 
 ## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Espial (⭐728)](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
+*   [Espial (⭐737)](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -315,11 +315,11 @@
 
 ### C bindings
 
-*   [ssh2.cr (⭐39)](https://github.com/spider-gazelle/ssh2.cr) - Bindings for libssh2 library
+*   [ssh2.cr (⭐41)](https://github.com/spider-gazelle/ssh2.cr) - Bindings for libssh2 library
 
 ### HTTP
 
-*   [http-params-serializable (⭐20)](https://github.com/vladfaust/http-params-serializable) - HTTP params (de)serialization, applicable to URL queries and URL-encoded forms
+*   [http-params-serializable (⭐21)](https://github.com/vladfaust/http-params-serializable) - HTTP params (de)serialization, applicable to URL queries and URL-encoded forms
 
 ## [28. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 

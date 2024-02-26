@@ -42,8 +42,8 @@
 
 ### Command-Line Productivity
 
-*   [SHML (⭐436)](https://github.com/odb/shml) - Style framework for the terminal (Shell Markup Language)
-*   [sudocabulary (⭐157)](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
+*   [SHML (⭐437)](https://github.com/odb/shml) - Style framework for the terminal (Shell Markup Language)
+*   [sudocabulary (⭐160)](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
 
 ### Multimedia and File Formats / Directory Navigation
 
@@ -351,7 +351,7 @@ git rev-list --count <branch-name>
 
 ### Concurrency
 
-*   [CUB (⭐75)](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. \[New BSD]
+*   [CUB (⭐76)](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. \[New BSD]
 *   [moderngpu (⭐1.6k)](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. \[FreeBSD & Copyright, Sean Baxter]
 *   [NCCL (⭐2.7k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
 
@@ -685,8 +685,8 @@ git flow init -d
 ### Chatting
 
 *   [chatty (⭐35)](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
-*   [cog (⭐920)](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
-*   [ExIrc (⭐148)](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
+*   [cog (⭐918)](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
+*   [ExIrc (⭐149)](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
 *   [Guri (⭐21)](https://github.com/elvio/guri) - Automate tasks using chat messages.
 *   [kaguya (⭐74)](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
 *   [slacker (⭐84)](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
@@ -694,7 +694,7 @@ git flow init -d
 
 ### Documentation
 
-*   [phoenix\_swagger (⭐662)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
+*   [phoenix\_swagger (⭐668)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
 
 ### Examples and funny stuff
 
@@ -730,11 +730,11 @@ git flow init -d
 
 ### Testing
 
-*   [bypass (⭐926)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
+*   [bypass (⭐931)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
 
 ### Third Party APIs
 
-*   [digitalocean (⭐13)](https://github.com/lukeed/elixir-digitalocean) - Elixir wrapper for the Digital Ocean API v2.
+*   [digitalocean (⭐15)](https://github.com/lukeed/elixir-digitalocean) - Elixir wrapper for the Digital Ocean API v2.
 *   [exfacebook (⭐18)](https://github.com/oivoodoo/exfacebook) - Facebook API, written in Elixir using similar methods like Ruby koala gem.
 
 ### Websites
@@ -772,7 +772,7 @@ git flow init -d
 ### Template Engine
 
 *   [Kilt (⭐150)](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
-*   [Slang (⭐232)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
+*   [Slang (⭐233)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
 
 ### Web Frameworks
 

@@ -54,16 +54,16 @@
 
 ### Libraries / Authentication
 
-*   [Keats/jsonwebtoken (⭐1.5k)](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) lib in rust
+*   [Keats/jsonwebtoken (⭐1.5k)](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) library
 
 ### Libraries / Computation
 
 *   Scirust
-    *   [indigits/scirust (⭐262)](https://github.com/indigits/scirust) — scientific computing library in Rust
+    *   [indigits/scirust (⭐262)](https://github.com/indigits/scirust) — scientific computing library
 
 ### Libraries / Logging
 
-*   [slog-rs/slog (⭐1.5k)](https://github.com/slog-rs/slog) — Structured, composable logging for Rust
+*   [slog-rs/slog (⭐1.5k)](https://github.com/slog-rs/slog) — Structured, composable logging
 
 ### Resources / Web programming
 

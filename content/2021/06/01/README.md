@@ -183,10 +183,6 @@
 
 ## [17. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
-### Tools / Online Analyzers
-
-*   [Approver](https://approver.talos-sec.com/) - Approver  is a fully automated security analysis and risk assessment platform for Android and iOS apps. Not free.
-
 ### Tools / Dynamic Analysis Tools
 
 *   [PAPIMonitor (⭐43)](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor (Python API Monitor for Android apps) is a Python tool based on Frida for monitoring user-select APIs during the app execution.

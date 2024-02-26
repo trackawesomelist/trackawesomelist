@@ -27,7 +27,7 @@
 ### Utilities / System Related Tools
 
 *   [Sloth](https://sveinbjorn.org/sloth/) - Shows all open files, directories, sockets, pipes and devices in use by all running processes. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sveinbjornt/Sloth/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [SwiftQuit (⭐191)](https://github.com/onebadidea/swiftquit/) - Enables automatic quitting of macOS apps when closing their windows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/onebadidea/swiftquit) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [SwiftQuit (⭐201)](https://github.com/onebadidea/swiftquit/) - Enables automatic quitting of macOS apps when closing their windows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/onebadidea/swiftquit) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [4. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
@@ -46,15 +46,15 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [unplugin-config (⭐10)](https://github.com/kirklin/unplugin-config) - Configuration file generator for web apps, allowing external customization of global variables without repackaging.
+*   [unplugin-config (⭐11)](https://github.com/kirklin/unplugin-config) - Configuration file generator for web apps, allowing external customization of global variables without repackaging.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-vitepress-auto-sidebar (⭐45)](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - Automatically generates sidebar data by scanning directories, based on vitepress.
+*   [vite-plugin-vitepress-auto-sidebar (⭐47)](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - Automatically generates sidebar data by scanning directories, based on vitepress.
 
 ### Django / Community
 
-*   [django-vite-plugin (⭐67)](https://github.com/protibimbok/django-vite-plugin) - Integration for Django applications including vite plugin.
+*   [django-vite-plugin (⭐72)](https://github.com/protibimbok/django-vite-plugin) - Integration for Django applications including vite plugin.
 
 ## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 

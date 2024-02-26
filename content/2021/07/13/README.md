@@ -16,12 +16,12 @@
 
 ### Integrations
 
-*   [expect-axe-playwright (⭐18)](https://github.com/Widen/expect-axe-playwright) - Expect matchers to perform Axe accessibility tests in your Playwright tests.
+*   [expect-axe-playwright (⭐19)](https://github.com/Widen/expect-axe-playwright) - Expect matchers to perform Axe accessibility tests in your Playwright tests.
 
 ### Utils
 
-*   [expect-playwright (⭐141)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
-*   [eslint-plugin-playwright (⭐183)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
+*   [expect-playwright (⭐143)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
+*   [eslint-plugin-playwright (⭐194)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 
 ## [3. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -65,7 +65,7 @@
 
 ### FIAT
 
-*   [Debitum (⭐78)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
+*   [Debitum (⭐80)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Marks / Diagnostics
 
-*   [otavioschwanck/arrow.nvim (⭐68)](https://github.com/otavioschwanck/arrow.nvim) - Like harpoon, but with a different UX, single keybinding needed and statusline support.
+*   [otavioschwanck/arrow.nvim (⭐101)](https://github.com/otavioschwanck/arrow.nvim) - Like harpoon, but with a different UX, single keybinding needed and statusline support.
 
 ## [2. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

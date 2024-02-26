@@ -6,6 +6,12 @@ A list of amazing Newsletters
 
 [ [Daily](/content/zudochkin/awesome-newsletters/README.md) / Weekly / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 
+## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
+
+### Security / Svelte
+
+*   [Security Talks Digest](https://talks.donsan.org). A newsletter, that aggregates content from the security conferences around the world and deliver them in form of a weekly report.
+
 ## [Jan 29 - Feb 04, 2024](/content/2024/5/README.md)
 
 ### Python / Svelte

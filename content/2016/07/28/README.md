@@ -90,7 +90,7 @@
 
 ### Command-Line Productivity
 
-*   [aliases (⭐499)](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for bash
+*   [aliases (⭐509)](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for bash
 
 ## [6. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 

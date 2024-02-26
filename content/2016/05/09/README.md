@@ -54,12 +54,12 @@
 ### Testing
 
 *   GUI / Web Testing
-    *   [locust (⭐22k)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
-    *   [PyAutoGUI (⭐8.3k)](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
-    *   [Schemathesis (⭐1.8k)](https://github.com/kiwicom/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
+    *   [locust (⭐23k)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
+    *   [PyAutoGUI (⭐9.3k)](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
+    *   [Schemathesis (⭐2k)](https://github.com/kiwicom/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
     *   [Selenium](https://pypi.org/project/selenium/) - Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
-    *   [sixpack (⭐1.7k)](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
-    *   [splinter (⭐2.6k)](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
+    *   [sixpack (⭐1.8k)](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
+    *   [splinter (⭐2.7k)](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
 
 ## [5. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -74,11 +74,11 @@
 ### Libraries
 
 *   [JSON::Tiny (⭐11)](https://github.com/daoswald/JSON-Tiny) - Perl module for encoding and decoding JSON in a minimalistic way.
-*   [MultiJSON (⭐736)](https://github.com/intridea/multi_json) - A generic swappable back-end for JSON handling.
+*   [MultiJSON (⭐745)](https://github.com/intridea/multi_json) - A generic swappable back-end for JSON handling.
 
 ### Transformations
 
-*   [JsonMapper (⭐1.4k)](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
+*   [JsonMapper (⭐1.5k)](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
 
 ## [6. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 

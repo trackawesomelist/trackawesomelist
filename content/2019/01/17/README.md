@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 17, 2019
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -98,13 +98,23 @@
 *   <a name="imagemagic"></a>
     [ImageMagick](https://imagemagick.org/index.php)
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### Java
+
+*   [Java 编程思想](https://java.quanke.name) - quanke
+
+### Shell / Django
+
+*   [Shell 编程范例](https://tinylab.gitbooks.io/shellbook/content) - 泰晓科技
+
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [Visual Paradigm](https://www.visual-paradigm.com/) - All-in-one UML, SysML, BPMN Modeling Platform for Agile, EA TOGAF ADM Process Management.
 
-## [11. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [12. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### Supported Distributions / Fedora Remix for WSL
 

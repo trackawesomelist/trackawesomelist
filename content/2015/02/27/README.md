@@ -138,7 +138,7 @@
 
 ### Debugging
 
-*   [quaff (⭐81)](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
+*   [quaff (⭐82)](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
 
 ## [5. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

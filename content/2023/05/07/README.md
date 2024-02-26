@@ -10,7 +10,7 @@
 
 ### Software / DNS - Control Panels & Domain Management
 
-*   [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. ([Source Code (⭐565)](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
+*   [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. ([Source Code (⭐574)](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
 
 ## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 
@@ -18,7 +18,7 @@
 
 View and create Linear tickets from any GitHub PR or issue.
 
-Installs: 73 | Stars: 20 | Last update: 31 Jan 2024
+Installs: 7 | Stars: 20 | Last update: 30 Jan 2024
 
 ## [3. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 

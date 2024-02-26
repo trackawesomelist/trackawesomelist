@@ -75,7 +75,7 @@
 
 ### Blockchain dump
 
-*   [Chaingraph (⭐38)](https://github.com/bitauth/chaingraph/) – A multi-node blockchain indexer and GraphQL API.
+*   [Chaingraph (⭐41)](https://github.com/bitauth/chaingraph/) – A multi-node blockchain indexer and GraphQL API.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 

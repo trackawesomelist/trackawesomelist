@@ -83,7 +83,7 @@
 
 ### Applications / Database
 
-*   [RisingWaveLabs/RisingWave (⭐5.9k)](https://github.com/RisingWaveLabs/risingwave) - the next-generation streaming database in the cloud [![CI](https://github.com/RisingWaveLabs/risingwave/actions/workflows/main.yml/badge.svg)](https://github.com/RisingWaveLabs/risingwave/actions/workflows/main.yml/badge.svg?branch=main)
+*   [RisingWaveLabs/RisingWave (⭐6k)](https://github.com/RisingWaveLabs/risingwave) - the next-generation streaming database in the cloud [![CI](https://github.com/RisingWaveLabs/risingwave/actions/workflows/main.yml/badge.svg)](https://github.com/RisingWaveLabs/risingwave/actions/workflows/main.yml/badge.svg?branch=main)
 *   [SurrealDB (⭐24k)](https://github.com/surrealdb/surrealdb) — A scalable, distributed, document-graph database [![Build Status](https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration/main)](https://github.com/surrealdb/surrealdb/actions)
 
 ### Applications / System tools
@@ -94,7 +94,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-document (⭐8)](https://github.com/JiangWeixian/vite-plugin-document) - Use `Document.tsx` as html template.
+*   [vite-plugin-document (⭐9)](https://github.com/JiangWeixian/vite-plugin-document) - Use `Document.tsx` as html template.
 
 ---
 

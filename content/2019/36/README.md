@@ -46,7 +46,7 @@
 
 ### Loader
 
-*   [react-spinners-css (⭐320)](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
+*   [react-spinners-css (⭐321)](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
 
 ## [8. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -572,11 +572,11 @@
 
 ### Audio
 
-*   [Verovio (⭐608)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
+*   [Verovio (⭐609)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
 
 ### Compression
 
-*   [bit7z (⭐536)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip shared libraries. \[MPL2]
+*   [bit7z (⭐542)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip shared libraries. \[MPL2]
 
 ### Integrated Development Environment
 
@@ -586,7 +586,7 @@
 
 ### Command-line tools
 
-*   [json-dotenv (⭐6)](https://github.com/decryptus/json-dotenv) - Manipulate and extract envfiles in json format.
+*   [json-dotenv (⭐8)](https://github.com/decryptus/json-dotenv) - Manipulate and extract envfiles in json format.
 
 ### Online tools
 
@@ -601,7 +601,7 @@
 
 ### Tools / Templates & Starter Kits
 
-*   [Wagtail Pipit (⭐215)](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
+*   [Wagtail Pipit (⭐218)](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
 
 ---
 

@@ -151,7 +151,7 @@
 
 ### Miscellaneous
 
-*   [react-searchbox-awesome (⭐28)](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
+*   [react-searchbox-awesome (⭐29)](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

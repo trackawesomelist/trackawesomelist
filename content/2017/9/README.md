@@ -94,7 +94,7 @@
 
 ### Contents / Backups
 
-*   [pg\_probackup (⭐594)](https://github.com/postgrespro/pg_probackup) – A fork of pg\_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.
+*   [pg\_probackup (⭐657)](https://github.com/postgrespro/pg_probackup) – A fork of pg\_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.
 
 ### Contents / Extensions
 
@@ -105,7 +105,7 @@
 ### Contents / Utilities
 
 *   [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
-*   [ZSON (⭐501)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
+*   [ZSON (⭐521)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
 
 ## [12. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
@@ -348,11 +348,11 @@
 
 ### Framework Components
 
-*   [rummage\_ecto (⭐210)](https://github.com/Excipients/rummage_ecto) - A configurable framework to search, sort and paginate Ecto Queries.
+*   [rummage\_ecto (⭐209)](https://github.com/Excipients/rummage_ecto) - A configurable framework to search, sort and paginate Ecto Queries.
 
 ### ORM and Datamapping
 
-*   [mongodb\_ecto (⭐358)](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
+*   [mongodb\_ecto (⭐361)](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
 
 ## [27. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 

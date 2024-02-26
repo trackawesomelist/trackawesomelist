@@ -258,7 +258,7 @@
 
 ### Testing
 
-*   [espec (⭐797)](https://github.com/antonmi/espec) - BDD test framework for Elixir inspired by RSpec.
+*   [espec (⭐798)](https://github.com/antonmi/espec) - BDD test framework for Elixir inspired by RSpec.
 
 ## [15. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -280,12 +280,12 @@
 
 ### Databases
 
-*   [lowdb (⭐18k)](https://github.com/typicode/lowdb) - Flat file database built on lodash API. (Javascript)
-*   [JSON ODM (⭐94)](https://github.com/konsultaner/jsonOdm) - Object document mapper for JavaScript to use on the server or in the browser. (Javascript)
+*   [lowdb (⭐21k)](https://github.com/typicode/lowdb) - Flat file database built on lodash API. (Javascript)
+*   [JSON ODM (⭐100)](https://github.com/konsultaner/jsonOdm) - Object document mapper for JavaScript to use on the server or in the browser. (Javascript)
 
 ### Transformations
 
-*   [fanci (⭐29)](https://github.com/liip/fanci) - Extract, rename and transform JSON based on a template. (node.js)
+*   [fanci (⭐30)](https://github.com/liip/fanci) - Extract, rename and transform JSON based on a template. (node.js)
 
 ---
 

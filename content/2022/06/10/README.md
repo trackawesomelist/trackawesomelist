@@ -16,7 +16,7 @@
 
 ### Tools - Editors & IDEs & Explorers / React
 
-*   [gqt (⭐453)](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
+*   [gqt (⭐454)](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
 
 ## [3. Awesome Esp](/content/agucova/awesome-esp/README.md)
 

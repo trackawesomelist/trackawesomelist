@@ -51,7 +51,7 @@
 
 ### ORM and Datamapping
 
-*   [moebius (⭐563)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
+*   [moebius (⭐586)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
 
 ## [4. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

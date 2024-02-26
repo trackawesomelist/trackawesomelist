@@ -145,9 +145,8 @@
 
 ### Browser Extensions
 
-*   [Discoverable JSON](https://chrome.google.com/webstore/detail/json-manipulator-json-to/pcakbljjigdafljigcpbmjllkbhlncjg) ([github (⭐3)](https://github.com/noitcudni/discoverable-json)) - Gron inspired Extension. Convert a JSON document into javascript expressions. Comes with filter, remove, find-and-replace capabilities.
 *   [JSONAce](https://apps.apple.com/us/story/id1377753262?id=com.acrogenesis.jsonace-56Q494QF3LL) ([github (⭐72)](https://github.com/acrogenesis/JSONAce)) - Formats & syntax highlights JSON viewed inside of the web browser using the ACE editor.
-*   [JSONView](https://apps.apple.com/us/story/id1377753262?id=com.acrogenesis.jsonview-56Q494QF3L) ([github (⭐295)](https://github.com/acrogenesis/jsonview-safari)) - A port of the JSONView Firefox extension that formats and syntax highlights JSON viewed inside of the browser
+*   [JSONView](https://apps.apple.com/us/story/id1377753262?id=com.acrogenesis.jsonview-56Q494QF3L) ([github (⭐293)](https://github.com/acrogenesis/jsonview-safari)) - A port of the JSONView Firefox extension that formats and syntax highlights JSON viewed inside of the browser
 
 ### Databases
 
@@ -159,13 +158,12 @@
 
 ### Data modeling
 
-*   [JSONModel (⭐6.8k)](https://github.com/jsonmodel/jsonmodel) - Magical Data Modelling Framework. (Objective-C)
+*   [JSONModel (⭐6.9k)](https://github.com/jsonmodel/jsonmodel) - Magical Data Modelling Framework. (Objective-C)
 
 ### Format Extensions
 
 *   [hal-json](https://stateless.group/hal_specification.html) - A set of conventions for expressing hyperlinks in either JSON or XML.
 *   [JSON Activity Streams](https://activitystrea.ms/) - A format for syndicating social activities around the web.
-*   [JSON Table Schema](https://frictionlessdata.io/table-schema/) - a simple schema for tabular data
 
 ### Frontend components
 
@@ -173,8 +171,7 @@
 
 ### Libraries
 
-*   [Jansson](https://digip.org/jansson/) - A C library for encoding, decoding and manipulating data.
-*   [SBJson (⭐3.8k)](https://github.com/SBJson/SBJson) - Parse one or more chunks of data.
+*   [SBJson (⭐3.7k)](https://github.com/SBJson/SBJson) - Parse one or more chunks of data.
 *   [jsonapi-consumer (⭐6)](https://github.com/OKTAYKIR/jsonapi-consumer) - Client framework for consuming JSONAPI based APIs on the [JSON API standard](https://jsonapi.org).
 
 ### Online tools
@@ -195,26 +192,22 @@
 
 ### Related formats
 
-*   [AXON (⭐21)](https://github.com/intellimath/pyaxon) - A simple text based format for interchanging of objects, documents and data. It tries to combine the best of JSON, XML and YAML.
+*   [AXON (⭐22)](https://github.com/intellimath/pyaxon) - A simple text based format for interchanging of objects, documents and data. It tries to combine the best of JSON, XML and YAML.
 
 ### Transformations
 
-*   [SassyJSON (⭐171)](https://github.com/KittyGiraudel/SassyJSON) - Sass-powered API. (Sass)
+*   [SassyJSON (⭐169)](https://github.com/KittyGiraudel/SassyJSON) - Sass-powered API. (Sass)
 
 ### Queries
 
-*   [dasel (⭐3.7k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐23k)](https://github.com/stedolan/jq) / [yq (⭐2k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
+*   [dasel (⭐4.7k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐28k)](https://github.com/jqlang/jq) / [yq (⭐2.4k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 *   [JMESPath](https://jmespath.org/) - A query language for JSON.
 *   [JSONiq](https://www.jsoniq.org/) - The JSON Query Language.
 *   [JSONata](https://jsonata.org/) - Query and transformation language used in Node-RED, supports function expressions.
 
-### JSON Schema Resources
-
-*   [JSON Schema Store](https://schemastore.org/json/) - A collection of popular schemas.
-
 ### JSON Schema Validators
 
-*   [ajv (⭐12k)](https://github.com/ajv-validator/ajv) - The fastest validator. Supports v5/6 proposals.
+*   [ajv (⭐13k)](https://github.com/ajv-validator/ajv) - The fastest validator. Supports v5/6 proposals.
 
 ## [15. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

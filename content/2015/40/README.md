@@ -409,7 +409,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 ### For Developers / Directory Navigation
 
-*   [cloc (⭐17k)](https://github.com/AlDanial/cloc) - Count Lines of Code
+*   [cloc (⭐18k)](https://github.com/AlDanial/cloc) - Count Lines of Code
 
 ## [31. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 

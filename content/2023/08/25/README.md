@@ -37,7 +37,7 @@
 
 ### Text / Local search engines
 
-*   [privateGPT (⭐47k)](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs.
+*   [privateGPT (⭐48k)](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs.
 *   [quivr (⭐28k)](https://github.com/StanGirard/quivr) - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
 
 ### Text / Writing assistants
@@ -229,7 +229,7 @@
 ### Learning resources / Music
 
 *   [Learn Prompting](https://learnprompting.org/) - A free, open-source course on communicating with artificial intelligence.
-*   [Prompt Engineering Guide (⭐41k)](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering.
+*   [Prompt Engineering Guide (⭐42k)](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering.
 *   [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
 
 ## [2. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
@@ -254,7 +254,7 @@
 
 ### Form Components / Select
 
-*   [react-mobile-picker (⭐259)](https://github.com/adcentury/react-mobile-picker) - [demo](https://react-mobile-picker.vercel.app/) - An iOS like select box component.
+*   [react-mobile-picker (⭐264)](https://github.com/adcentury/react-mobile-picker) - [demo](https://react-mobile-picker.vercel.app/) - An iOS like select box component.
 
 ---
 

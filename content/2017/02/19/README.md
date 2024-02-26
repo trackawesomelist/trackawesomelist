@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 19, 2017
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,15 +16,7 @@
 
 *   [Bitnami CouchDB](https://bitnami.com/stack/couchdb) - Bitnami makes it easy to run CouchDB in the cloud.
 
-## [2. Computer Science](/content/ossu/computer-science/README.md)
-
-### How to show your progress / Which programming languages should I use?
-
-*   `Section`: cards with that label represent the section that we have in our curriculum.
-    Those cards with the `Section` label are only to help the organization of the Done column.
-    You should put the *Course's cards* below its respective *Section's card*.
-
-## [3. Awesome Ledger](/content/sfischer13/awesome-ledger/README.md)
+## [2. Awesome Ledger](/content/sfischer13/awesome-ledger/README.md)
 
 ### Documentation
 
@@ -35,7 +27,7 @@
 *   [Code (⭐4.4k)](https://github.com/ledger/ledger) - Code on GitHub.
 *   [Ports (⭐4.4k)](https://github.com/ledger/ledger/wiki/Ports) - List of alternative implementations.
 
-## [4. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
+## [3. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
 ### Standalone Editors Built on Draft.js
 
@@ -46,19 +38,19 @@
 
 *   [HTML to DraftJS (⭐150)](https://github.com/jpuri/html-to-draftjs) - Convert plain HTML to DraftJS Editor content.
 
-## [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [4. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Suggested Awesome Lists / Useful References
 
 *   [Learn to Code (⭐3.6k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 
-## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Products/Technologies / J technologies
 
 *   jOOQ <https://blog.jooq.org/>
 
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Testing
 

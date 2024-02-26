@@ -14,7 +14,7 @@
 
 ### Resources / Tutorials
 
-*   [pg-utils (⭐772)](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
+*   [pg-utils (⭐887)](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
 
 ## [2. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Reflection
 
-*   [meta (⭐527)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
+*   [meta (⭐534)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
 
 ### Scripting
 

@@ -10,7 +10,7 @@
 
 ### Table of Contents / Email
 
-*   [Email Validator (⭐161)](https://github.com/nojacko/email-validator) - A small email address validation library.
+*   [Email Validator (⭐162)](https://github.com/nojacko/email-validator) - A small email address validation library.
 
 ## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

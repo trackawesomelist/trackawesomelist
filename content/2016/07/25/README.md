@@ -16,15 +16,15 @@
 
 ### HTML Widgets
 
-*   [timevis (⭐632)](https://github.com/daattali/timevis) - Create fully interactive timeline visualizations.
+*   [timevis (⭐636)](https://github.com/daattali/timevis) - Create fully interactive timeline visualizations.
 
 ### Network Analysis
 
-*   [visNetwork (⭐521)](https://github.com/datastorm-open/visNetwork) - Using vis.js library for network visualization.
+*   [visNetwork (⭐524)](https://github.com/datastorm-open/visNetwork) - Using vis.js library for network visualization.
 
 ### Reproducible Research
 
-*   [ezknitr (⭐107)](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
+*   [ezknitr (⭐110)](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Utilities
 
-*   [plasm (⭐88)](https://github.com/facto/plasm) - Plasm is Ecto's composable query multitool, containing higher-level functions such as .count, .random, .first, .last, .find, .inserted\_before, .inserted\_after, etc.
+*   [plasm (⭐89)](https://github.com/facto/plasm) - Plasm is Ecto's composable query multitool, containing higher-level functions such as .count, .random, .first, .last, .find, .inserted\_before, .inserted\_after, etc.
 
 ### Books
 
@@ -114,7 +114,7 @@
 
 ### Project Generators
 
-*   [fez (⭐50)](https://github.com/jwoertink/fez) - A Kemal application generator
+*   [fez (⭐49)](https://github.com/jwoertink/fez) - A Kemal application generator
 
 ---
 

@@ -66,11 +66,11 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Escoria (⭐732)](https://github.com/godotengine/escoria) - Point & click adventure game framework (Godot 2.1, 3.2+).
+*   [Escoria (⭐734)](https://github.com/godotengine/escoria) - Point & click adventure game framework (Godot 2.1, 3.2+).
 
 ### Modules / Various Godot versions
 
-*   [GodotSteam (⭐2)](https://github.com/Gramps/GodotSteam) - Steam API library binding for Godot. Supports Windows, macOS and Linux (Godot 3.x).
+*   [GodotSteam (⭐2.2k)](https://github.com/Gramps/GodotSteam) - Steam API library binding for Godot. Supports Windows, macOS and Linux (Godot 3.x).
 *   [Texture Packer (⭐55)](https://github.com/Relintai/texture_packer) - Tools to layer, pack, and merge textures at runtime (Godot 3.2+, 4.0).
 *   [Voxelman (⭐87)](https://github.com/Relintai/voxelman) - A voxel engine with more focus on editor integration, gameplay-related features, and extendability (Godot 3.2+, 4.0).
 
@@ -155,27 +155,27 @@
 
 ### Adapters / Client-side
 
-*   💜 [Vue.js (⭐5.3k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-vue)
-*   💜 [React (⭐5.3k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-react)
-*   💜 [Svelte (⭐5.3k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-svelte)
+*   💜 [Vue.js (⭐5.6k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-vue)
+*   💜 [React (⭐5.6k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-react)
+*   💜 [Svelte (⭐5.6k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-svelte)
 
 ### Adapters / Server-side
 
-*   💜 [Laravel (⭐1.8k)](https://github.com/inertiajs/inertia-laravel)
-*   💜 [Rails (⭐295)](https://github.com/inertiajs/inertia-rails)
-*   [Statamic (⭐53)](https://github.com/hotmeteor/inertia-statamic)
+*   💜 [Laravel (⭐1.9k)](https://github.com/inertiajs/inertia-laravel)
+*   💜 [Rails (⭐350)](https://github.com/inertiajs/inertia-rails)
+*   [Statamic (⭐54)](https://github.com/hotmeteor/inertia-statamic)
 *   [ASP.NET Core (⭐59)](https://github.com/Nothing-Works/inertia-aspnetcore)
 *   [CakePHP (⭐35)](https://github.com/ishanvyas22/cakephp-inertiajs)
 *   [ColdBox (⭐4)](https://github.com/elpete/cbInertia)
-*   [Phoenix (⭐68)](https://github.com/devato/inertia_phoenix)
-*   [Symfony (⭐151)](https://github.com/rompetomp/inertia-bundle)
-*   [Yii2 (⭐54)](https://github.com/tbreuss/yii2-inertia)
+*   [Phoenix (⭐72)](https://github.com/devato/inertia_phoenix)
+*   [Symfony (⭐154)](https://github.com/rompetomp/inertia-bundle)
+*   [Yii2 (⭐57)](https://github.com/tbreuss/yii2-inertia)
 *   [Django (⭐90)](https://github.com/zodman/inertia-django)
 *   [Fiber (⭐11)](https://github.com/theArtechnology/fiber-inertia)
 *   [Node.js](https://github.com/jordankaerim/inertia-node)
-*   [Masonite (⭐21)](https://github.com/girardinsamuel/masonite-inertia)
-*   [WordPress (⭐130)](https://github.com/boxybird/wordpress-inertia-plugin)
-*   [Flask (⭐18)](https://github.com/j0ack/flask-inertia)
+*   [Masonite (⭐23)](https://github.com/girardinsamuel/masonite-inertia)
+*   [WordPress (⭐150)](https://github.com/boxybird/wordpress-inertia-plugin)
+*   [Flask (⭐23)](https://github.com/j0ack/flask-inertia)
 
 ## [21. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -271,12 +271,12 @@
 
 ### Applications / Blockchain
 
-*   [Nimiq (⭐74)](https://github.com/nimiq/core-rs) — Rust implementation of Nimiq node
+*   [Nimiq (⭐74)](https://github.com/nimiq/core-rs) — Implementation of Nimiq node
 
 ### Applications / Database
 
 *   [Skytable (⭐2k)](https://github.com/skytable/skytable) — A multi-model NoSQL database ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/skytable/skytable/Tests?style=flat-square)
-*   [TerminusDB (⭐352)](https://github.com/terminusdb/terminusdb-store) - open source graph database and document store [![Build Status](https://github.com/terminusdb/terminusdb-store/workflows/Build/badge.svg?branch=master)](https://github.com/terminusdb/terminusdb-store/actions)
+*   [TerminusDB (⭐354)](https://github.com/terminusdb/terminusdb-store) - open source graph database and document store [![Build Status](https://github.com/terminusdb/terminusdb-store/workflows/Build/badge.svg?branch=master)](https://github.com/terminusdb/terminusdb-store/actions)
 
 ### Applications / System tools
 
@@ -291,13 +291,13 @@
 
 ### Libraries / Email
 
-*   [jdrouet/catapulte (⭐131)](https://github.com/jdrouet/catapulte) - A microservice to send emails using [MRML (⭐284)](https://github.com/jdrouet/mrml) templates.
-*   [jdrouet/jolimail (⭐131)](https://github.com/jdrouet/jolimail) - A web application to build [MRML (⭐284)](https://github.com/jdrouet/mrml) templates.
+*   [jdrouet/catapulte (⭐131)](https://github.com/jdrouet/catapulte) - A microservice to send emails using [MRML (⭐288)](https://github.com/jdrouet/mrml) templates.
+*   [jdrouet/jolimail (⭐131)](https://github.com/jdrouet/jolimail) - A web application to build [MRML (⭐288)](https://github.com/jdrouet/mrml) templates.
 
 ### Libraries / GUI
 
 *   [FLTK](https://www.fltk.org/)
-    *   [fltk-rs (⭐1.4k)](https://github.com/fltk-rs/fltk-rs) — FLTK Rust bindings [![Build](https://github.com/fltk-rs/fltk-rs/workflows/Build/badge.svg?branch=master)](https://github.com/fltk-rs/fltk-rs/actions)
+    *   [fltk-rs (⭐1.4k)](https://github.com/fltk-rs/fltk-rs) — FLTK bindings [![Build](https://github.com/fltk-rs/fltk-rs/workflows/Build/badge.svg?branch=master)](https://github.com/fltk-rs/fltk-rs/actions)
 
 ### Libraries / Network programming
 
@@ -580,7 +580,7 @@
 
 ### Authentication and Authorization
 
-*   🍰 [ADmad/SocialAuth plugin (⭐48)](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth (⭐543)](https://github.com/SocialConnect/auth) social sign on library.
+*   🍰 [ADmad/SocialAuth plugin (⭐48)](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth (⭐544)](https://github.com/SocialConnect/auth) social sign on library.
 
 ### Development Environment
 

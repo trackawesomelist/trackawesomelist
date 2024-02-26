@@ -153,7 +153,7 @@
 
 ### Table of Contents / Passwords
 
-*   [Zxcvbn PHP (⭐809)](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
+*   [Zxcvbn PHP (⭐808)](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
 
 ## [7. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -338,10 +338,6 @@
 *   [genetics](http://cran.r-project.org/web/packages/genetics/index.html) - Classes and methods for handling genetic data.
 *   [gap](http://cran.r-project.org/web/packages/gap/index.html) - An integrated package for genetic data analysis of both population and family data.
 *   [ape](http://cran.r-project.org/web/packages/ape/index.html) - Analyses of Phylogenetics and Evolution.
-
-### R Development
-
-*   [packrat (⭐396)](https://github.com/rstudio/packrat) - Make your R projects more isolated, portable, and reproducible.
 
 ## [18. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 

@@ -50,7 +50,7 @@
 
 ### Music Notation
 
-*   [OpenLilyLib (⭐113)](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
+*   [OpenLilyLib (⭐114)](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 

@@ -42,7 +42,7 @@ git checkout <deleting_commit> -- <file_path>
 
 ### Misc
 
-*   [emoji.cr (⭐46)](https://github.com/veelenga/emoji.cr) - Emoji library
+*   [emoji.cr (⭐47)](https://github.com/veelenga/emoji.cr) - Emoji library
 
 ### Testing
 

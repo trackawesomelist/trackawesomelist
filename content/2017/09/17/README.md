@@ -61,7 +61,7 @@
 
 ### Machine Learning
 
-*   [crystal-fann (⭐80)](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
+*   [crystal-fann (⭐81)](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
 
 ---
 

@@ -64,7 +64,7 @@
 
 ## [8. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
-### Zig development tools / HTTP
+### Zig development tools / Messaging
 
 *   [korandoru/setup-zig (⭐12)](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
 
@@ -111,7 +111,7 @@
 
 ### Compression
 
-*   [bzip3 (⭐610)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
+*   [bzip3 (⭐617)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
 
 ## [12. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -124,11 +124,11 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Zusam (⭐164)](https://github.com/zusam/zusam) - Free and open-source way to self-host private forums for groups of friends or family. ([Demo](https://demo.zusam.org)) `AGPL-3.0` `PHP`
+*   [Zusam (⭐166)](https://github.com/zusam/zusam) - Free and open-source way to self-host private forums for groups of friends or family. ([Demo](https://demo.zusam.org)) `AGPL-3.0` `PHP`
 
 ### Software / Document Management - Institutional Repository and Digital Library Software
 
-*   [Fedora Commons Repository](https://wiki.lyrasis.org/display/FF/Fedora+Repository+Home) - Robust and modular repository system for the management and dissemination of digital content especially suited for digital libraries and archives, both for access and preservation. ([Source Code (⭐197)](https://github.com/fcrepo/fcrepo)) `Apache-2.0` `Java`
+*   [Fedora Commons Repository](https://wiki.lyrasis.org/display/FF/Fedora+Repository+Home) - Robust and modular repository system for the management and dissemination of digital content especially suited for digital libraries and archives, both for access and preservation. ([Source Code (⭐196)](https://github.com/fcrepo/fcrepo)) `Apache-2.0` `Java`
 *   [Islandora](https://www.islandora.ca/) - Drupal module for browsing and managing Fedora-based digital repositories. ([Demo](https://sandbox.islandora.ca/), [Source Code (⭐153)](https://github.com/Islandora/islandora)) `GPL-3.0` `PHP`
 
 ### Software / File Transfer & Synchronization
@@ -179,7 +179,7 @@
 
 ### Command Line Applications
 
-*   [owl (⭐386)](https://github.com/fuelen/owl) - Owl is a toolkit for writing command-line user interfaces in Elixir.
+*   [owl (⭐390)](https://github.com/fuelen/owl) - Owl is a toolkit for writing command-line user interfaces in Elixir.
 
 ### Macros
 
@@ -210,7 +210,7 @@
 ### Gems / Other external resources
 
 *   [react\_on\_rails (⭐5k)](https://github.com/shakacode/react_on_rails) - A gem to integrate React.js with Rails app with SSR. [:red\_circle:](https://rubygems.org/gems/react_on_rails)
-*   [shakapacker (⭐368)](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red\_circle:](https://rubygems.org/gems/shakapacker)
+*   [shakapacker (⭐375)](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red\_circle:](https://rubygems.org/gems/shakapacker)
 
 ## [21. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -309,7 +309,7 @@
 
 ### Related Awesome Lists / Deforum
 
-*   \[🔥] [altryne/awesome-ai-art-image-synthesis (⭐1.6k)](https://github.com/altryne/awesome-ai-art-image-synthesis): A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
+*   \[🔥] [altryne/awesome-ai-art-image-synthesis (⭐1.7k)](https://github.com/altryne/awesome-ai-art-image-synthesis): A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
 
 ## [33. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -322,7 +322,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [command-not-found (freed-wu) (⭐5)](https://github.com/Freed-Wu/zsh-command-not-found) - Uses the command-not-found package for ZSH to provide suggested packages to be installed if a command cannot be found.
-*   [command-not-found (tarrasch) (⭐22)](https://github.com/Tarrasch/zsh-command-not-found) - A mirror of the [oh-my-zsh](https://ohmyz.sh) [command-not-found (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/command-not-found) plugin so you don't have to include all of oh-my-zsh.
+*   [command-not-found (tarrasch) (⭐22)](https://github.com/Tarrasch/zsh-command-not-found) - A mirror of the [oh-my-zsh](https://ohmyz.sh) [command-not-found (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/command-not-found) plugin so you don't have to include all of oh-my-zsh.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -332,7 +332,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [thyme (chenhao-ye) (⭐22)](https://github.com/chenhao-ye/thyme) - Seasoning for shells. Based on [bira (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), [gnzh (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme), and [bullet-train (⭐2.8k)](https://github.com/caiogondim/bullet-train.zsh/blob/master/bullet-train.zsh-theme).
+*   [thyme (chenhao-ye) (⭐22)](https://github.com/chenhao-ye/thyme) - Seasoning for shells. Based on [bira (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), [gnzh (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme), and [bullet-train (⭐2.8k)](https://github.com/caiogondim/bullet-train.zsh/blob/master/bullet-train.zsh-theme).
 
 ## [35. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -401,7 +401,7 @@
 
 ### Database Schema Migration
 
-*   [bytebase (⭐9.3k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
+*   [bytebase (⭐9.4k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 
 ## [43. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 

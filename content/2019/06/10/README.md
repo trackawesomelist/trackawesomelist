@@ -114,7 +114,7 @@
 
 ### Graphic Displays
 
-*   [ggstatsplot (⭐1.8k)](https://github.com/IndrajeetPatil/ggstatsplot) - ggplot2 Based Plots with Statistical Details
+*   [ggstatsplot (⭐1.9k)](https://github.com/IndrajeetPatil/ggstatsplot) - ggplot2 Based Plots with Statistical Details
 
 ## [14. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Security
 
-*   [Fuzzing (⭐732)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+*   [Fuzzing (⭐735)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 ---
 

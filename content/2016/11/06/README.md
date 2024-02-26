@@ -113,9 +113,9 @@
 
 ### Science
 
-*   [bcbio-nextgen (⭐940)](https://github.com/chapmanb/bcbio-nextgen) - Providing best-practice pipelines for fully automated high throughput sequencing analysis.
+*   [bcbio-nextgen (⭐966)](https://github.com/chapmanb/bcbio-nextgen) - Providing best-practice pipelines for fully automated high throughput sequencing analysis.
 *   [PyDy](http://www.pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.
-*   [Zipline (⭐16k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
+*   [Zipline (⭐17k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
 
 ## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

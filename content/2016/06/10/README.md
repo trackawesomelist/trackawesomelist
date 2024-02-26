@@ -37,7 +37,7 @@ git clone -b <branch-name> --single-branch https://github.com/user/repo.git
 ### Artificial Intelligence
 
 *   [ANNetGPGPU (⭐101)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
-*   [Veles (⭐902)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
+*   [Veles (⭐903)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
 
 ### Scripting
 
@@ -56,7 +56,7 @@ git clone -b <branch-name> --single-branch https://github.com/user/repo.git
 
 ### Third-party APIs
 
-*   [aws-signer.cr (⭐12)](https://github.com/beanieboi/aws-signer.cr) - This library signs your HTTP requests using AWS v4
+*   [aws-signer.cr (⭐13)](https://github.com/beanieboi/aws-signer.cr) - This library signs your HTTP requests using AWS v4
 
 ## [7. Awesome OpenSourcePhotography](/content/ibaaj/awesome-OpenSourcePhotography/README.md)
 

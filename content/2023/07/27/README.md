@@ -68,8 +68,8 @@
 
 ### Frameworks • Libraries • Ecosystems
 
-*   [PixelKit (⭐850)](https://github.com/heestand-xyz/PixelKit) \[iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
-*   [AsyncGraphics (⭐266)](https://github.com/heestand-xyz/AsyncGraphics) \[iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
+*   [PixelKit (⭐863)](https://github.com/heestand-xyz/PixelKit) \[iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
+*   [AsyncGraphics (⭐288)](https://github.com/heestand-xyz/AsyncGraphics) \[iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
 
 ### Visual Programming Languages
 
@@ -79,25 +79,25 @@
 
 ### Software / Document Management - E-books
 
-*   [Atsumeru](https://atsumeru.xyz) - Free and open source self-hosted manga/comic/light novel media server with clients for Windows, Linux, macOS and Android. ([Source Code (⭐41)](https://github.com/AtsumeruDev/Atsumeru), [Clients](https://atsumeru.xyz/guides/#how-does-it-work)) `MIT` `Java/Docker`
+*   [Atsumeru](https://atsumeru.xyz) - Free and open source self-hosted manga/comic/light novel media server with clients for Windows, Linux, macOS and Android. ([Source Code (⭐45)](https://github.com/AtsumeruDev/Atsumeru), [Clients](https://atsumeru.xyz/guides/#how-does-it-work)) `MIT` `Java/Docker`
 
 ### Software / Search Engines
 
-*   [SearXNG](https://docs.searxng.org/) `⚠` - Internet metasearch engine which aggregates results from various search services and databases (Fork of Searx). ([Source Code (⭐6.4k)](https://github.com/searxng/searxng/)) `AGPL-3.0` `Python/Docker`
+*   [SearXNG](https://docs.searxng.org/) `⚠` - Internet metasearch engine which aggregates results from various search services and databases (Fork of Searx). ([Source Code (⭐6.5k)](https://github.com/searxng/searxng/)) `AGPL-3.0` `Python/Docker`
 
 ### Software / Software Development - Low Code
 
-*   [SQLPage](https://sql.ophir.dev) - SQL-only dynamic website builder. ([Source Code (⭐572)](https://github.com/lovasoa/SQLPage)) `MIT` `Rust/Docker`
+*   [SQLPage](https://sql.ophir.dev) - SQL-only dynamic website builder. ([Source Code (⭐609)](https://github.com/lovasoa/SQLPage)) `MIT` `Rust/Docker`
 
 ## [8. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Machine learning
 
-*   [PyHealth (⭐678)](https://github.com/sunlabuiuc/PyHealth) - A Deep Learning Python Toolkit for Healthcare Application.
+*   [PyHealth (⭐842)](https://github.com/sunlabuiuc/PyHealth) - A Deep Learning Python Toolkit for Healthcare Application.
 
 ### Contents / Logistics
 
-*   [OpenBoxes (⭐504)](https://github.com/openboxes/openboxes) - an Open Source Inventory and Supply Chain Management System.
+*   [OpenBoxes (⭐571)](https://github.com/openboxes/openboxes) - an Open Source Inventory and Supply Chain Management System.
 
 ## [9. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 

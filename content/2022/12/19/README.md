@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 19, 2022
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -63,14 +63,14 @@
 
 ### Social Networking
 
-*   [Retrospring (⭐171)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
+*   [Retrospring (⭐177)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
 
 ### Testing
 
 *   WebDrivers
-    *   [Ferrum (⭐1.5k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
+    *   [Ferrum (⭐1.6k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
     *   [Poltergeist (⭐2.5k)](https://github.com/teampoltergeist/poltergeist) - A PhantomJS driver for Capybara.
-    *   [Selenium WebDriver (⭐28k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
+    *   [Selenium WebDriver (⭐29k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
     *   [Watir (⭐1.5k)](https://github.com/watir/watir/) - Web application testing in Ruby.
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
@@ -83,21 +83,7 @@
 
 ### Software / Communication - Video Conferencing
 
-*   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐163)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
-
-## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Data Science
-
-*   [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/) - Jeroen Janssens
-
-### IDE and editors
-
-*   [Vim Reference Guide](https://learnbyexample.github.io/vim_reference/) - Sundeep Agarwal
-
-### Misc
-
-*   [GNU GREP and RIPGREP](https://learnbyexample.github.io/learn_gnugrep_ripgrep/) - Sundeep Agarwal
+*   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐174)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
 
 ---
 

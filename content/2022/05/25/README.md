@@ -45,7 +45,7 @@
 
 ### Libraries/Frameworks / Tools
 
-*   [SonarSource/sonarlint-intellij (⭐568)](https://github.com/SonarSource/sonarlint-intellij) - An IDE extension that helps you detect and fix quality issues as you write code.
+*   [SonarSource/sonarlint-intellij (⭐572)](https://github.com/SonarSource/sonarlint-intellij) - An IDE extension that helps you detect and fix quality issues as you write code.
 
 ## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

@@ -29,10 +29,6 @@
 
 *   [Bekaboo/dropbar.nvim (⭐715)](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box.
 
-### Competitive Programming / Diagnostics
-
-*   [Dhanus3133/Leetbuddy.nvim (⭐148)](https://github.com/Dhanus3133/Leetbuddy.nvim) - Solve Leetcode problems within Neovim.
-
 ## [4. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Tools / Agents
@@ -96,7 +92,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [vod2pod-rss (⭐157)](https://github.com/madiele/vod2pod-rss) `⚠` - Convert YouTube and Twitch channels to podcasts, no storage required. Transcodes VoDs to MP3 192k on the fly, generates an RSS feed to use in podcast clients. `MIT` `Docker`
+*   [vod2pod-rss (⭐165)](https://github.com/madiele/vod2pod-rss) `⚠` - Convert YouTube and Twitch channels to podcasts, no storage required. Transcodes VoDs to MP3 192k on the fly, generates an RSS feed to use in podcast clients. `MIT` `Docker`
 
 ## [12. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

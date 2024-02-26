@@ -1,43 +1,37 @@
 # Awesome List Updates on Nov 15, 2020
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Json](/content/burningtree/awesome-json/README.md)
-
-### Browser Extensions
-
-*   [JSON Viewer Pro](https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc) ([github (⭐463)](https://github.com/rbrahul/Awesome-JSON-Viewer) - An open source Chrome extension for browsing JSON with syntax highlighting and folding, or as a visual graph.
-
-## [2. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [1. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Books
 
 *   [Secure by Design](https://www.manning.com/books/secure-by-design?a_aid=danbjson\&a_bid=0b3fac80) - Shows how to use Domain-Driven Design to avoid security vulnerabilities.
 
-## [3. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
+## [2. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
 ### Swag
 
 *   [CircuitPython 6 release poster](https://www.adafruit.com/product/4713) - CircuitPython release version 6 poster.
 
-## [4. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
+## [3. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
 
 ### Written Guides / update
 
 *   [Automatically Manage Git Hooks with Direnv](https://knpw.rs/blog/direnv-git-hooks)
 
-## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [4. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Unit Test, Testing / Apache License
 
 *   [ahven](http://ahven.stronglytyped.org/) - Ahven is a simple unit test library and framework for the Ada programming.
     language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
-## [6. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
+## [5. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ### Reading
 
@@ -56,7 +50,7 @@
 
 *   [scriptdu.de](https://scriptdu.de) - Downloader and updater for scripts.
 
-## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [6. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Communication and Coordination
 
@@ -944,7 +938,7 @@
 *   [ASTYX HIRES2019 DATASET](http://www.pinchofintelligence.com/visualising-lidar-and-radar-in-virtual-reality/) - Automotive Radar Dataset for Deep Learning Based 3D Object Detection.
 *   [Objectron (⭐2.1k)](https://github.com/google-research-datasets/Objectron/) - A collection of short, object-centric video clips, which are accompanied by AR session metadata that includes camera poses, sparse point-clouds and characterization of the planar surfaces in the surrounding environment.
 
-## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [7. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### API / Forms
 

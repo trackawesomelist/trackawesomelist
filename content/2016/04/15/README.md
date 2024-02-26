@@ -1,34 +1,28 @@
 # Awesome List Updates on Apr 15, 2016
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome R](/content/qinwf/awesome-R/README.md)
-
-### Integrated Development Environments
-
-*   [Nvim-R (⭐912)](https://github.com/jalvesaq/Nvim-R) - Neovim plugin for R.
-
-## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [1. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Git Tools
 
 *   [git\_reflow (⭐1.5k)](https://github.com/reenhanced/gitreflow) - An automated quality control workflow for Agile teams.
 
-## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
-*   [sman (⭐286)](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
+*   [sman (⭐287)](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
 
 ### Shell Script Development / Directory Navigation
 
 *   [is.sh (⭐156)](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
 
-## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
@@ -58,19 +52,19 @@
 
 *   [A collection of post-mortems (⭐9.8k)](https://github.com/danluu/post-mortems)
 
-## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Bundlers
 
 *   [Brunch (⭐6.8k)](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
 
-## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Elastic Beanstalk
 
 *   [ThoughtWorksStudios/eb\_deployer :fire::fire: (⭐400)](https://github.com/ThoughtWorksStudios/eb_deployer) - Blue-green deployment automation.
 
-## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### RESTful API
 

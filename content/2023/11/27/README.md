@@ -42,13 +42,13 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [jillesvangurp/querylight (⭐4)](https://github.com/jillesvangurp/querylight) - In memory search engine for simple in app search. Implements tf/idf and a some basic queries, tokenizers and analyzers.
-*   [jillesvangurp/geogeometry (⭐120)](https://github.com/jillesvangurp/geogeometry) - GeoGeometry is a set of algorithms and functions for manipulating geo hashes and geometric shapes with geo coordinates
+*   [jillesvangurp/querylight (⭐5)](https://github.com/jillesvangurp/querylight) - In memory search engine for simple in app search. Implements tf/idf and a some basic queries, tokenizers and analyzers.
+*   [jillesvangurp/geogeometry (⭐122)](https://github.com/jillesvangurp/geogeometry) - GeoGeometry is a set of algorithms and functions for manipulating geo hashes and geometric shapes with geo coordinates
 
 ### Libraries/Frameworks / API Clients
 
 *   [formation-res/overpass-kotlin-client (⭐1)](https://github.com/formation-res/overpass-kotlin-client) - A simple client for overpass that uses ktor-client and kotlinx.serialization for parsing JSON responses.
-*   [jillesvangurp/kt-search (⭐75)](https://github.com/jillesvangurp/kt-search) - Kotlin multiplatform library for Elasticsearch and Opensearch
+*   [jillesvangurp/kt-search (⭐79)](https://github.com/jillesvangurp/kt-search) - Kotlin multiplatform library for Elasticsearch and Opensearch
 
 ### Libraries/Frameworks / Internationalisation and Localization
 
@@ -70,7 +70,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [mikochi (⭐126)](https://github.com/zer0tonin/Mikochi) - Browse remote folders, upload files, delete, rename, download and stream files to VLC/mpv. `MIT` `Go/Docker/K8S`
+*   [mikochi (⭐129)](https://github.com/zer0tonin/Mikochi) - Browse remote folders, upload files, delete, rename, download and stream files to VLC/mpv. `MIT` `Go/Docker/K8S`
 
 ### Software / Knowledge Management Tools
 

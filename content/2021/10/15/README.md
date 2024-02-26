@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 15, 2021
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -127,19 +127,13 @@
 
 *   [gatling-report (⭐114)](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
 
-## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Misc
-
-*   [How To Manage Remote Servers with Ansible](https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook) - Erika Heidi (PDF, EPUB)
-
-## [14. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [13. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Translations / Ironsworn
 
 *   [German from System Matters](https://www.system-matters.de/produkt-kategorie/ironsworn/) - Ironsworn rulebook and assets in German
 
-## [15. Public Apis](/content/public-apis/public-apis/README.md)
+## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Art & Design
 

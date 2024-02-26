@@ -129,7 +129,7 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 ### Applications / Blockchain
 
-*   [Phala-Network/phala-blockchain (⭐327)](https://github.com/Phala-Network/phala-blockchain) — Confidential smart contract blockchain based on Intel SGX and Substrate
+*   [Phala-Network/phala-blockchain (⭐328)](https://github.com/Phala-Network/phala-blockchain) — Confidential smart contract blockchain based on Intel SGX and Substrate
 
 ## [9. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 

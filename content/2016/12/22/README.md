@@ -81,7 +81,7 @@
 
 ### Apps / Widgets
 
-*   [Wagtail-Geo-Widget (⭐128)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
+*   [Wagtail-Geo-Widget (⭐129)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
 
 ---
 

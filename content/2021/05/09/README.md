@@ -78,11 +78,11 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Escoria (⭐732)](https://github.com/godotengine/escoria) - Point & click adventure game framework (Godot 2.1, 3.2+).
+*   [Escoria (⭐734)](https://github.com/godotengine/escoria) - Point & click adventure game framework (Godot 2.1, 3.2+).
 
 ### Modules / Various Godot versions
 
-*   [GodotSteam (⭐2)](https://github.com/Gramps/GodotSteam) - Steam API library binding for Godot. Supports Windows, macOS and Linux (Godot 3.x).
+*   [GodotSteam (⭐2.2k)](https://github.com/Gramps/GodotSteam) - Steam API library binding for Godot. Supports Windows, macOS and Linux (Godot 3.x).
 *   [Texture Packer (⭐55)](https://github.com/Relintai/texture_packer) - Tools to layer, pack, and merge textures at runtime (Godot 3.2+, 4.0).
 *   [Voxelman (⭐87)](https://github.com/Relintai/voxelman) - A voxel engine with more focus on editor integration, gameplay-related features, and extendability (Godot 3.2+, 4.0).
 

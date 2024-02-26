@@ -53,7 +53,7 @@
 
 ### Debugging
 
-*   🍰 [Setup plugin (⭐33)](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools.
+*   🍰 [Setup plugin (⭐34)](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools.
 
 ### ORM / Database / Datamapping
 
@@ -76,14 +76,14 @@
 ### Tooling / Frameworks
 
 *   [cargo-web (⭐1.1k)](https://github.com/koute/cargo-web) - A Cargo subcommand for the client-side Web.
-*   [wabt (⭐6.1k)](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
-*   [binaryen (⭐6.9k)](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
+*   [wabt (⭐6.2k)](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
+*   [binaryen (⭐7k)](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
 
 ### Alternatives / Frameworks
 
 *   [Percy (⭐2.2k)](https://github.com/chinedufn/percy) - A modular toolkit for building isomorphic web apps with Rust + WebAssembly.
 *   [Seed (⭐3.8k)](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
-*   [Smithy (⭐350)](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
+*   [Smithy (⭐351)](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
 
 ## [10. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 

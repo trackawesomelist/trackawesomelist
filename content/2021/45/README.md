@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 08 - Nov 14, 2021
 
-61 awesome lists updated this week.
+60 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -115,7 +115,7 @@
 
 ### Data Store / Mouse Events
 
-*   [teaful (⭐698)](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management
+*   [teaful (⭐699)](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management
 
 ## [13. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -131,21 +131,21 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [yole/kxdate (⭐255)](https://github.com/yole/kxdate) - Kotlin extensions for Java 8 java.time API
+*   [yole/kxdate (⭐258)](https://github.com/yole/kxdate) - Kotlin extensions for Java 8 java.time API
 
 ## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Media Streaming - Multimedia Streaming
 
-*   [Stash](https://stashapp.cc) - A web-based library organizer and player for your adult media stash, with auto-tagging and metadata scraping support. ([Source Code (⭐7k)](https://github.com/stashapp/stash)) `AGPL-3.0` `Docker/Go`
+*   [Stash](https://stashapp.cc) - A web-based library organizer and player for your adult media stash, with auto-tagging and metadata scraping support. ([Source Code (⭐7.3k)](https://github.com/stashapp/stash)) `AGPL-3.0` `Docker/Go`
 
 ### Software / Ticketing
 
-*   [Trudesk](https://trudesk.io/) - Trudesk is an open-source help desk/ticketing solution. ([Source Code (⭐1.1k)](https://github.com/polonel/trudesk)) `Apache-2.0` `Nodejs/Docker`
+*   [Trudesk](https://trudesk.io/) - Trudesk is an open-source help desk/ticketing solution. ([Source Code (⭐1.2k)](https://github.com/polonel/trudesk)) `Apache-2.0` `Nodejs/Docker`
 
 ### Software / Wikis
 
-*   [WackoWiki](https://wackowiki.org/) - WackoWiki is a light and easy to install multilingual Wiki-engine. ([Source Code (⭐35)](https://github.com/WackoWiki/wackowiki)) `BSD-3-Clause` `PHP`
+*   [WackoWiki](https://wackowiki.org/) - WackoWiki is a light and easy to install multilingual Wiki-engine. ([Source Code (⭐36)](https://github.com/WackoWiki/wackowiki)) `BSD-3-Clause` `PHP`
 
 ## [16. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -169,7 +169,7 @@
 
 ### Table of Contents / JSON
 
-*   [JSONMapper (⭐201)](https://github.com/JsonMapper/JsonMapper) - A library for mapping JSON to PHP objects.
+*   [JSONMapper (⭐203)](https://github.com/JsonMapper/JsonMapper) - A library for mapping JSON to PHP objects.
 
 ## [20. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -260,45 +260,13 @@
 
 *   [Useful Keycloak EventListenerProvider implementations and utilities (⭐119)](https://github.com/p2-inc/keycloak-events)
 
-## [27. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Algorithms & Data Structures
-
-*   [Purely Functional Data Structures (1996)](https://web.archive.org/web/20210917054102/http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) - Chris Okasaki (PDF) *(:card\_file\_box: archived)*
-
-### Machine Learning
-
-*   [A First Encounter with Machine Learning](https://web.archive.org/web/20210420163002/https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) - Max Welling (PDF) *(:card\_file\_box: archived)*
-*   [Free and Open Machine Learning](https://nocomplexity.com/documents/fossml/) - Maikel Mardjan (HTML)
-*   [Practitioners guide to MLOps](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf) - Khalid Samala, Jarek Kazmierczak, Donna Schut (PDF)
-
-### Mathematics
-
-*   [Computational Mathematics with SageMath](https://www.sagemath.org/sagebook/) - Paul Zimmermann, Alexandre Casamayou, Nathann Cohen, Guillaume Connan, et al. (PDF)
-*   [Lecture Notes on Linear Algebra](https://home.iitk.ac.in/~arlal/book/LA_Solution_Dec20.pdf) - Dr. Arbind K Lal, Sukant Pati (PDF) *(:construction: in process)*
-
-### Mathematics For Computer Science
-
-*   [Exploring Math for Programmers and Data Scientists](https://freecontent.manning.com/free-ebook-exploring-math-for-programmers-and-data-scientists/) - Paul Orland
-
-### Misc
-
-*   [Foundations of Programming](https://openmymind.net/FoundationsOfProgramming.pdf) - Karl Seguin (PDF)
-*   [Information Technology and the Networked Economy](https://web.archive.org/web/20200731035935/https://florida.theorangegrove.org/og/file/49843a6a-9a9d-4bad-b4d4-d053f9cdf73e/1/InfoTechNetworkedEconomy.pdf) - Patrick McKeown (PDF) *(:card\_file\_box: archived)*
-*   [Small Memory Software](https://smallmemory.charlesweir.com/book.html) - Charles Weir, James Noble (HTML)
-
-### Software Architecture
-
-*   [Microservices AntiPatterns and Pitfalls](http://web.archive.org/web/20210205164251/https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf) - Mark Richards (PDF) *(:card\_file\_box: archived)*
-*   [Microservices vs. Service-Oriented Architecture](https://www.oreilly.com/radar/microservices-vs-service-oriented-architecture/) - Mark Richards (HTML)
-
-## [28. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [27. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Web
 
 *   [kalidoface (⭐27)](https://github.com/yeemachine/kalidoface) - Face and Body Tracking for Live2D / 3D models on the web. \[English]
 
-## [29. Tools](/content/lvwzhen/tools/week/README.md)
+## [28. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### Placeholder
 
@@ -312,13 +280,13 @@
 
 *   [SmallDev.tools](https://smalldev.tools/)
 
-## [30. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [29. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [Haven (⭐575)](https://github.com/havenweb/haven) - Host a private blog on your Rasperry Pi intead of using Facebook.
 
-## [31. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [30. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Notifications / Runner
 
@@ -328,7 +296,7 @@
 
 *   [SurveyJS (⭐3.8k)](https://github.com/surveyjs/survey-library) - SurveyJS is a JavaScript Survey and Form Library. <https://surveyjs.io/>
 
-## [32. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [31. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Cassandra History
 
@@ -338,26 +306,26 @@
 
 *   [IBM Cloud Databases for DataStax](https://www.ibm.com/cloud/databases-for-datastax) - IBM Cloud Managed Service for DataStax Enterprise.
 
-## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [32. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [shaeinst/roshnivim-cs (⭐66)](https://github.com/shaeinst/roshnivim-cs) - Colorscheme written in Lua, specially made for roshnivim with Tree-sitter support.
 *   [catppuccin/nvim (⭐4.2k)](https://github.com/catppuccin/nvim) - Warm mid-tone dark theme to show off your vibrant self! with support for native LSP, Tree-sitter, and more 🍨!
 
-## [34. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [33. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### No-Code Platforms
 
 *   [Storipress](https://storipress.com) - All-in-one publishing + blogging platform with integrated site builder and workflow management.
 
-## [35. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [34. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Dependency Injection / Language Processing
 
 *   [Poodinis (⭐67)](https://github.com/mbierlee/poodinis) - A dependency injection framework for D with support for autowiring.
 
-## [36. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [35. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
@@ -367,7 +335,7 @@
 
 *   [BetterZip](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR.
 
-## [37. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [36. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Party
 
@@ -381,26 +349,26 @@
 | ------: | -------: | -----: |
 |   2 - 6 |        5 | 20-30m |
 
-## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
-*   [ClickHouse (⭐278)](https://github.com/ClickHouse/clickhouse-cpp) - C++ client for ClickHouse DBMS. \[Apache2]
+*   [ClickHouse (⭐280)](https://github.com/ClickHouse/clickhouse-cpp) - C++ client for ClickHouse DBMS. \[Apache2]
 
-## [39. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [38. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Communities / Discord
 
 *   [Metaverse Makers Discord](https://discord.gg/UgZDFZW) - Official server for M3, the Metaverse Makers Mastermind group.
 *   [Zesty Market Discord](https://discord.gg/7d7agTbmKf) - Official server for Zesty Market.
 
-## [40. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [39. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Rust / Git
 
 *   [ockam (⭐4k)](https://github.com/ockam-network/ockam) - is a Rust library for end-to-end encryption and mutual authentication.
 
-## [41. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [40. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Tools / Community Chat Rooms
 
@@ -410,7 +378,7 @@
 
 *   [sntpc](https://crates.io/crates/sntpc): Rust SNTP client to get a timestamp from NTP servers. - ![crates.io](https://img.shields.io/crates/v/sntpc)
 
-## [42. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [41. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -420,7 +388,7 @@
 
 *   [Ambassador Edge Stack](https://www.getambassador.io/products/edge-stack/api-gateway/) - A Kubernetes-native API Gateway that helps manage APIs at scale with its customizable routing, authentication, and rate-limiting features.
 
-## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [42. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Blog Posts
 
@@ -443,7 +411,7 @@
 *   [harlem (⭐507)](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
 *   [vue-stripe-js (⭐124)](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js
 
-## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [43. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -461,13 +429,13 @@
 
 *   [Codepng](https://www.codepng.app) - Create excellent snapshots from your source code to share on social media.
 
-## [45. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [44. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Academic papers / Ruby
 
 *   [Gramacki et al. - "gtfs2vec - Learning GTFS Embeddings for comparing Public Transport Offer in Microregions"](https://github.com/CUTR-at-USF/awesome-transit/blob/master/README.md/2021) - Methology using Uber's H3 spatial index and machine learning to identify areas of "similar" public transit service quality in cities. Source code available [on GitHub (⭐7)](https://github.com/pwr-inf/gtfs2vec).
 
-## [46. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [45. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Filesystem / Web
 
@@ -477,7 +445,7 @@
 
 *   [autohotkey.com/foundation](https://autohotkey.com/foundation) - Official webpage of [AutoHotkey Foundation LLC](https://autohotkey.com/foundation/), a non-profit LLC (Limited Liability Company) founded for this software. Certificate of Organization (pdf) [link](https://autohotkey.com/certificate_of_organization.pdf).
 
-## [47. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [46. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -532,7 +500,7 @@
 
 
 
-## [48. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [47. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
 - Name: [Agola](https://agola.io)
 
@@ -565,23 +533,23 @@
 
 
 
-## [49. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [48. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Debugging
 
 *   [Scyther (⭐97)](https://github.com/bstillitano/Scyther) - A full-featured, in-app debugging menu packed full of useful tools including network logging, layout inspection, location spoofing, console logging and so much more.
 
-## [50. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+## [49. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### Client Libraries
 
-*   [Subscan Go Utilities (⭐178)](https://github.com/itering/subscan-essentials) - SS58 and more, developed by Subscan.
+*   [Subscan Go Utilities (⭐181)](https://github.com/itering/subscan-essentials) - SS58 and more, developed by Subscan.
 
 ### Tools
 
 *   [SS58 Transform](https://polkadot.subscan.io/tools/ss58_transform) - Display key's addressees with all SS58 prefixes.
 
-## [51. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [50. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
@@ -611,19 +579,19 @@
 *   [k6 for AWS CodeBuild](https://k6.io/blog/integrating-k6-with-aws-codebuild/)
 *   [k6 for Google Cloud Build](https://k6.io/blog/integrating-k6-with-google-cloud-build/)
 
-## [52. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [51. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Reports Generation
 
 *   [Export SDK](https://exportsdk.com) - PDF generator API with visual template editor.
 
-## [53. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [52. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### CBOR
 
 *   [CBORCoding (⭐29)](https://github.com/SomeRandomiOSDev/CBORCoding) :penguin: - Easy CBOR encoding and decoding for iOS, macOS, tvOS and watchOS.
 
-## [54. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [53. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Database / Text-Based User Interfaces
 
@@ -646,13 +614,13 @@
 
 *   [Groundbreakers](https://apexapps.oracle.com/pls/apex/f?p=119297:3::::::) - Oracle ACEs, Groundbreaker Ambassadors and Java Champions.
 
-## [55. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [54. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-require-transform (⭐75)](https://github.com/WarrenJones/vite-plugin-require-transform) - Converts the code from require syntax to import.
+*   [vite-plugin-require-transform (⭐76)](https://github.com/WarrenJones/vite-plugin-require-transform) - Converts the code from require syntax to import.
 
-## [56. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
+## [55. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
 
 ### Configuration
 
@@ -663,7 +631,7 @@
 
 *   [nginx mirroring tips and tricks](https://alex.dzyoba.com/blog/nginx-mirror/)
 
-## [57. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [56. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards aggregators
 
@@ -673,25 +641,25 @@
 
 *   [CodeWeavers](https://www.codeweavers.com/about/jobs) - Wine-based open source software.
 
-## [58. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [57. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Replay
 
 *   [warc2html (⭐35)](https://github.com/iipc/warc2html) - Converts WARC files to static HTML suitable for browsing offline or rehosting.
 
-## [59. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [58. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### RSS services powered by utilizing GitHub / Outline Processor Markup Language
 
-*   [Bubo reader (⭐155)](https://github.com/georgemandis/bubo-rss): a hyper-minimalist RSS and JSON feed reader you can deploy on Netlify or Glitch [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/georgemandis/bubo-rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)([Deploy on Github (⭐0)](https://github.com/kevinfiol/reader)-personal fork)
+*   [Bubo reader (⭐160)](https://github.com/georgemandis/bubo-rss): a hyper-minimalist RSS and JSON feed reader you can deploy on Netlify or Glitch [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/georgemandis/bubo-rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)([Deploy on Github (⭐0)](https://github.com/kevinfiol/reader)-personal fork)
 
-## [60. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [59. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Integration / Community
 
 *   [Flutter SDK](https://pub.dev/packages/directus) - Flutter SDK to provide interface for Directus API.
 
-## [61. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [60. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Electronics and Mechanics / Version Control
 

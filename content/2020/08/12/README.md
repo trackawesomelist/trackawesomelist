@@ -101,7 +101,7 @@
 
 ### Libraries
 
-*   [simdjson (⭐16k)](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second.
+*   [simdjson (⭐18k)](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second.
 
 ## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

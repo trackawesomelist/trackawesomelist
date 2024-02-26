@@ -79,7 +79,7 @@
 
 ### Graphic Displays
 
-*   [ggtech (⭐377)](https://github.com/ricardo-bion/ggtech) - ggplot2 tech themes and scales
+*   [ggtech (⭐379)](https://github.com/ricardo-bion/ggtech) - ggplot2 tech themes and scales
 
 ---
 

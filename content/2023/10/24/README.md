@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 24, 2023
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -167,19 +167,13 @@
 
 Browser extension to add git graph to GitHub website.
 
-Installs: 6416 | Stars: 2469 | Last update: 1 Jan 2024
+Installs: 425 | Stars: 2549 | Last update: 1 Jan 2024
 
 ## [10. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Other Development Tools / Wallets
 
 *   [use-wallet-js (⭐7)](https://github.com/TxnLab/use-wallet-js) - TypeScript library for integrating Algorand wallets into decentralized applications.
-
-## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Programming
-
-*   [A Short Introduction to the Art of Programming (1971)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD316.html) - Edsger W. Dijkstra (HTML)
 
 ---
 

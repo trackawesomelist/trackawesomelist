@@ -56,17 +56,17 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Pingvin Share (⭐1.4k)](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing. ([Demo](https://pingvin-share.dev.eliasschneider.com)) `BSD-2-Clause` `Docker/Nodejs`
+*   [Pingvin Share (⭐1.5k)](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing. ([Demo](https://pingvin-share.dev.eliasschneider.com)) `BSD-2-Clause` `Docker/Nodejs`
 
 ### Software / Money, Budgeting & Management
 
-*   [Budget Zen](https://budgetzen.net) - End-to-end encrypted and simple expense manager. ([Demo](https://app.budgetzen.net), [Source Code (⭐53)](https://github.com/BrunoBernardino/budgetzen-web)) `AGPL-3.0` `Deno`
-*   [Lago](https://www.getlago.com/) - Open-source metering and usage-based billing. ([Source Code (⭐5.1k)](https://github.com/getlago/lago)) `AGPL-3.0` `Docker`
+*   [Budget Zen](https://budgetzen.net) - End-to-end encrypted and simple expense manager. ([Demo](https://app.budgetzen.net), [Source Code (⭐57)](https://github.com/BrunoBernardino/budgetzen-web)) `AGPL-3.0` `Deno`
+*   [Lago](https://www.getlago.com/) - Open-source metering and usage-based billing. ([Source Code (⭐5.2k)](https://github.com/getlago/lago)) `AGPL-3.0` `Docker`
 
 ### Software / Search Engines
 
 *   [Hound (⭐5.5k)](https://github.com/hound-search/hound) - Lightning fast code searching made easy. `MIT` `Go/Docker`
-*   [LibreX (⭐737)](https://github.com/hnhx/librex) `⚠` - Framework and javascript free privacy respecting meta search engine. `AGPL-3.0` `PHP/Docker`
+*   [LibreX (⭐742)](https://github.com/hnhx/librex) `⚠` - Framework and javascript free privacy respecting meta search engine. `AGPL-3.0` `PHP/Docker`
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -100,13 +100,13 @@
 
 ### Applications
 
-*   [Plural (⭐1.2k)](https://github.com/pluralsh/plural) - Deploys your favorite open source applications like airflow and airbyte in your own cloud account with just two commands.  Written in Elixir and Phoenix Framework for server side, and React for frontend.
+*   [Plural (⭐1.3k)](https://github.com/pluralsh/plural) - Deploys your favorite open source applications like airflow and airbyte in your own cloud account with just two commands.  Written in Elixir and Phoenix Framework for server side, and React for frontend.
 
 ## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Artificial Intelligence
 
-*   [zurawiki/tiktoken-rs (⭐180)](https://github.com/zurawiki/tiktoken-rs) \[[tiktoken-rs](https://crates.io/crates/tiktoken-rs)] — Rust library for tokenizing text with OpenAI models using tiktoken. [![CI](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml)
+*   [zurawiki/tiktoken-rs (⭐185)](https://github.com/zurawiki/tiktoken-rs) \[[tiktoken-rs](https://crates.io/crates/tiktoken-rs)] — Library for tokenizing text with OpenAI models using tiktoken. [![CI](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml)
 
 ## [13. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
@@ -118,7 +118,7 @@
 
 ### Music Programming
 
-*   [Sardine (⭐146)](https://github.com/Bubobubobubobubo/sardine) - a music live coding library for Python 3.10+ (MIDI/OSC/SuperCollider).
+*   [Sardine (⭐169)](https://github.com/Bubobubobubobubo/sardine) - a music live coding library for Python 3.10+ (MIDI/OSC/SuperCollider).
 
 ## [15. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -135,8 +135,8 @@
 
 ### Starters & Themes
 
-*   🚀 [Angular-Tailwind (⭐138)](https://github.com/luciano-work/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
-*   🚀 [Vue-Resume (⭐7)](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
+*   🚀 [Angular-Tailwind (⭐157)](https://github.com/luciano-work/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
+*   🚀 [Vue-Resume (⭐10)](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
 
 ## [17. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -180,11 +180,11 @@
 
 ### JavaScript Libraries
 
-*   [scure-btc-signer (⭐85)](https://github.com/paulmillr/scure-btc-signer) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
+*   [scure-btc-signer (⭐97)](https://github.com/paulmillr/scure-btc-signer) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
 
 ### Swift libraries
 
-*   [secp256k1.swift (⭐88)](https://github.com/GigaBitcoin/secp256k1.swift) - Swift package for secp256k1 applications, includes Elliptic Curve operations, Schnorr, ZKP and more for Bitcoin.
+*   [secp256k1.swift (⭐95)](https://github.com/GigaBitcoin/secp256k1.swift) - Swift package for secp256k1 applications, includes Elliptic Curve operations, Schnorr, ZKP and more for Bitcoin.
 
 ## [21. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
@@ -204,7 +204,7 @@
 *   [Localsend](https://localsend.org/) - Share files to nearby devices. Free, open source, cross-platform.
 *   [Paperless (⭐7.8k)](https://github.com/the-paperless-project/paperless) - \[Now archived] Scan, index, and archive all of your paper documents.
     *   [Paperless-ng (⭐5.4k)](https://github.com/jonaswinkler/paperless-ng) - \[inactive] A supercharged version of paperless: scan, index and archive all your physical documents.
-*   [PairDrop (⭐2.4k)](https://github.com/schlagmichdoch/PairDrop) - An improved version of Snapdrop that also allows you to pair devices and share files outside your network.
+*   [PairDrop](https://github.com/schlagmichdoch/PairDrop) - An improved version of Snapdrop that also allows you to pair devices and share files outside your network.
 *   [Portal (⭐1.1k)](https://github.com/SpatiumPortae/portal) - A command-line file transfer utility for sending encrypted files from any computer to another.
 *   [Winden](https://winden.app/) - A convenient version of Magic Wormhole you can use from within your browser. No need to install an app.
 
@@ -212,12 +212,12 @@
 
 ### Libraries/Frameworks / Database
 
-*   [komapper/komapper (⭐248)](https://github.com/komapper/komapper) - Komapper is an ORM library for server-side Kotlin with JDBC and R2DBC support.
+*   [komapper/komapper (⭐250)](https://github.com/komapper/komapper) - Komapper is an ORM library for server-side Kotlin with JDBC and R2DBC support.
 
 ### Libraries/Frameworks / API Clients
 
-*   [MoviebaseApp/trakt-api (⭐38)](https://github.com/MoviebaseApp/trakt-api) - Modern powerful Trakt API to track, discover and share your movies & TV shows.
-*   [MoviebaseApp/tmdb-api (⭐177)](https://github.com/MoviebaseApp/tmdb-api) - Modern powerful TMDB API to fetch movies and TV shows for Kotlin Multiplatform.
+*   [MoviebaseApp/trakt-api (⭐39)](https://github.com/MoviebaseApp/trakt-api) - Modern powerful Trakt API to track, discover and share your movies & TV shows.
+*   [MoviebaseApp/tmdb-api (⭐178)](https://github.com/MoviebaseApp/tmdb-api) - Modern powerful TMDB API to fetch movies and TV shows for Kotlin Multiplatform.
 
 ## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -292,7 +292,7 @@
 
 ### Large Language Models (LLMs)
 
-*   \[🔥🔥🔥] [oobabooga/text-generation-webui (⭐32k)](https://github.com/oobabooga/text-generation-webui): a gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion
+*   \[🔥🔥🔥] [oobabooga/text-generation-webui (⭐33k)](https://github.com/oobabooga/text-generation-webui): a gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion
 *   [Why LLaMa Is A Big Deal | Hackaday](https://hackaday.com/2023/03/22/why-llama-is-a-big-deal/): post that discusses the impact of LLaMa and Alpaca in popularizing LLMs and even using them in small hardware devices
 
 ### Hypertechniques / References Collection about Stable Diffusion
@@ -312,31 +312,31 @@
 
 ### Miscellaneous / React
 
-*   [GraphQL Constraint Directive (⭐559)](https://github.com/confuser/graphql-constraint-directive) - Allows using @constraint as a directive to validate input data. Inspired by Constraints Directives RFC and OpenAPI
+*   [GraphQL Constraint Directive (⭐561)](https://github.com/confuser/graphql-constraint-directive) - Allows using @constraint as a directive to validate input data. Inspired by Constraints Directives RFC and OpenAPI
 *   [Validator.js Wrapper Directive (⭐3)](https://github.com/ktutnik/graphql-directive/tree/master/packages/validator) - A comprehensive list of validator directive wraps Validator.js functionalities
 
 ## [33. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Projects / Godot 4.0
 
-*   [Clipboard Narrator (⭐28)](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
+*   [Clipboard Narrator (⭐30)](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
 
 ## [34. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / VPN
 
-*   [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds. ([Source Code (⭐968)](https://github.com/dockovpn/dockovpn)) `GPL-2.0` `Docker`
+*   [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds. ([Source Code (⭐989)](https://github.com/dockovpn/dockovpn)) `GPL-2.0` `Docker`
 
 ## [35. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Scala/Java
 
-*   [scala-polars for Scala and Java (⭐36)](https://github.com/chitralverma/scala-polars) - [Scala](https://scala-lang.org/) - [Java](https://www.java.com/fr/) `scala-polars` is a library for using Polars in Scala and Java projects by [@chitralverma](https://github.com/chitralverma).
+*   [scala-polars for Scala and Java (⭐40)](https://github.com/chitralverma/scala-polars) - [Scala](https://scala-lang.org/) - [Java](https://www.java.com/fr/) `scala-polars` is a library for using Polars in Scala and Java projects by [@chitralverma](https://github.com/chitralverma).
 
 ### Resources / Tutorials & workshops
 
 *   [A Practical Comparison of Polars and Pandas](https://florianwilhelm.info/2021/05/polars_pandas_comparison_notebook/) - A tutorial that showcases several common operations in Pandas and Polars side by side to demonstrate how much easier Polars is by [@FlorianWilhelm](https://github.com/FlorianWilhelm/). There is also an accompanying [Jupyter notebook (⭐43)](https://github.com/FlorianWilhelm/polars_vs_pandas/blob/master/pl_vs_pd.ipynb) available.
-*   [Prise en main de Polars](http://colab.research.google.com/github/inseefrlab/ssphub/blob/main/content/notebooks/polars-tuto.ipynb) - A notebook tutorial in French that illustrates the main features of Polars by [@romaintailhurat](https://github.com/romaintailhurat) and [@linogaliana](https://github.com/linogaliana). There is also an accompanying [blog post ](https://ssphub.netlify.app/post/polars/).
+*   [Prise en main de Polars](http://colab.research.google.com/github/inseefrlab/ssphub/blob/main/content/notebooks/polars-tuto.ipynb) - A notebook tutorial in French that illustrates the main features of Polars by [@romaintailhurat](https://github.com/romaintailhurat) and [@linogaliana](https://github.com/linogaliana). There is also an accompanying [blog post](https://ssphub.netlify.app/post/polars/).
 
 ## [36. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -379,20 +379,20 @@
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-gitlab-flow (⭐6)](https://github.com/taosiqi/vite-plugin-gitlab-flow) - View the deployment information for the code in the console.
-*   [unplugin-fonts (⭐268)](https://github.com/cssninjaStudio/unplugin-fonts) - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
+*   [unplugin-fonts (⭐278)](https://github.com/cssninjaStudio/unplugin-fonts) - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-clean (⭐11)](https://github.com/z-ti/vite-plugin-clean) - Remove or Clean your build folder(s).
+*   [vite-plugin-clean (⭐12)](https://github.com/z-ti/vite-plugin-clean) - Remove or Clean your build folder(s).
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-find-image-duplicates (⭐3)](https://github.com/wChenonly/vite-plugin-find-image-duplicates) - Find if there are duplicate images in your project when building it.
-*   [@froxz/vite-plugin-s3 (⭐17)](https://github.com/Froxz/vite-plugin-s3) - Allows you to upload files to S3.
+*   [vite-plugin-find-image-duplicates (⭐4)](https://github.com/wChenonly/vite-plugin-find-image-duplicates) - Find if there are duplicate images in your project when building it.
+*   [@froxz/vite-plugin-s3 (⭐20)](https://github.com/Froxz/vite-plugin-s3) - Allows you to upload files to S3.
 
 ### Frameworks / Community
 
-*   [Vise (⭐15)](https://github.com/stauren/vise-ssr) - SSR framework with server hooks. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
+*   [Vise (⭐16)](https://github.com/stauren/vise-ssr) - SSR framework with server hooks. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
 
 ## [41. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
@@ -415,7 +415,7 @@
 
 ### Audio and Video Tools / Audio Record and Process
 
-*   [Stargate DAW (⭐570)](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aria2) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Stargate DAW (⭐578)](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aria2) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Clipboard Tools
 

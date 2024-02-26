@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 21, 2019
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -451,24 +451,13 @@
 
 *   [OldMapsOnline](https://www.oldmapsonline.org/) - Maps, starting in the 17th century.
 
-## [5. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### Code Analysis
-
-*   Code Analysis
-    *   [coala (⭐3.5k)](https://github.com/coala/coala/) - Language independent and easily extendable code analysis application.
-    *   [code2flow (⭐3.3k)](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts.
-    *   [prospector (⭐1.8k)](https://github.com/PyCQA/prospector) - A tool to analyse Python code.
-    *   [pycallgraph (⭐1.7k)](https://github.com/gak/pycallgraph) - A library that visualises the flow (call graph) of your Python application.
-    *   [vulture (⭐2.6k)](https://github.com/jendrikseipp/vulture) - A tool for finding and analysing dead Python code.
-
-## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [5. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
 *   [deno-deamon (⭐14)](https://github.com/manyuanrong/deno-deamon) - Make the Deno program run in the background.
 
-## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Reliability
 

@@ -27,7 +27,7 @@
 
 ### DevOps Tools
 
-*   [SSHKey (⭐273)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
+*   [SSHKey (⭐275)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
 
 ## [4. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
@@ -58,7 +58,7 @@
 
 ### JavaScript Libraries
 
-*   [Bitcoinjs-lib (⭐5.3k)](https://github.com/bitcoinjs/bitcoinjs-lib)
+*   [Bitcoinjs-lib (⭐5.4k)](https://github.com/bitcoinjs/bitcoinjs-lib)
 
 ## [6. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 

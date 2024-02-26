@@ -46,7 +46,7 @@
 *   [kassane/unordered (⭐0)](https://github.com/kassane/unordered) - (boost-unordered) hashmap and set concurrency containers (C++03/11/14).
 *   [kassane/Standalone-Server (⭐1)](https://github.com/kassane/Standalone-Server) - Asio standalone C++ HTTP/S Server.
 *   [kassane/libsigcplusplus (⭐0)](https://github.com/kassane/libsigcplusplus) - Typesafe callback system for standard C++.
-*   [ggerganov/llama.cpp (⭐50k)](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++.
+*   [ggerganov/llama.cpp (⭐51k)](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++.
 
 ## [2. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 

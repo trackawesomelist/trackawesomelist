@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 23, 2019
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -41,7 +41,7 @@
 
 ### Software / Wikis
 
-*   [django-wiki (⭐1.7k)](https://github.com/django-wiki/django-wiki) - Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. ([Demo](https://demo.django-wiki.org/)) `GPL-3.0` `Python`
+*   [django-wiki (⭐1.8k)](https://github.com/django-wiki/django-wiki) - Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. ([Demo](https://demo.django-wiki.org/)) `GPL-3.0` `Python`
 
 ## [7. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -115,7 +115,13 @@
 *   [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Official Python extension
 *   [Sync settings](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Excellent extension for settings and extension sync of your VS code setup
 
-## [13. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [13. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### HTML and CSS
+
+*   [HTML5 教程](http://www.w3school.com.cn/html5/index.asp)
+
+## [14. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Online Machine Learning
 

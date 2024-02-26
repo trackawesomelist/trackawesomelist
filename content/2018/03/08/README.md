@@ -44,10 +44,6 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ## [4. Awesome Python](/content/vinta/awesome-python/README.md)
 
-### Implementations
-
-*   [Grumpy (⭐11k)](https://github.com/google/grumpy) - More compiler than interpreter as more powerful CPython2.7 replacement (alpha).
-
 ### Web Content Extracting
 
 *   [toapi (⭐3.4k)](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
@@ -116,10 +112,10 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 ### Libraries / Command-line
 
 *   Progress
-    *   [a8m/pb (⭐572)](https://github.com/a8m/pb) \[[pbr](https://crates.io/crates/pbr)] — console progress bar for Rust
+    *   [a8m/pb (⭐571)](https://github.com/a8m/pb) \[[pbr](https://crates.io/crates/pbr)] — console progress bar
     *   [console-rs/indicatif (⭐4k)](https://github.com/console-rs/indicatif) \[[indicatif](https://crates.io/crates/indicatif)] — indicate progress to users
-    *   [etienne-napoleone/spinach (⭐87)](https://github.com/etienne-napoleone/spinach) \[[spinach](https://crates.io/crates/spinach)] — Practical spinner for Rust. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml)
-    *   [FGRibreau/spinners (⭐512)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] — 60+ elegant terminal spinners
+    *   [etienne-napoleone/spinach (⭐88)](https://github.com/etienne-napoleone/spinach) \[[spinach](https://crates.io/crates/spinach)] — Practical spinner. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml)
+    *   [FGRibreau/spinners (⭐516)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] — 60+ elegant terminal spinners
 
 ## [12. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

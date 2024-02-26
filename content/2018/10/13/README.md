@@ -46,7 +46,7 @@
 
 ### Libraries / Lenses
 
-*   [shades (⭐406)](https://github.com/jamesmcnamara/shades) – A lodash-inspired lens-like library for Javascript.
+*   [shades (⭐411)](https://github.com/jamesmcnamara/shades) – A lodash-inspired lens-like library for Javascript.
 
 ### Functional Languages that Compile to JavaScript / Lenses
 

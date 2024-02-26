@@ -10,7 +10,7 @@
 
 ### Applications / Database
 
-*   [ParityDB (⭐237)](https://github.com/paritytech/parity-db) — Fast and reliable database, optimised for read operation
+*   [ParityDB (⭐242)](https://github.com/paritytech/parity-db) — Fast and reliable database, optimised for read operation
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Science and Data analysis
 
-*   [quartz (⭐15)](https://github.com/RomainFranceschini/quartz) - Modeling and simulation framework
+*   [quartz (⭐14)](https://github.com/RomainFranceschini/quartz) - Modeling and simulation framework
 
 ## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

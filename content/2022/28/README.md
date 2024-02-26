@@ -233,11 +233,11 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ansimotd (⭐49)](https://github.com/yuhonas/zsh-ansimotd) - Adds old-school cool ANSI art when a login shell starts.
-*   [autoswitch-virtualenv (⭐453)](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - ZSH plugin to automatically switch python virtualenvs and pipenvs when traversing directories. Automatically detects [pipenv](https://pypi.org/project/pipenv/) and [poetry](https://python-poetry.org/) projects.
+*   [ansimotd (⭐51)](https://github.com/yuhonas/zsh-ansimotd) - Adds old-school cool ANSI art when a login shell starts.
+*   [autoswitch-virtualenv (⭐456)](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - ZSH plugin to automatically switch python virtualenvs and pipenvs when traversing directories. Automatically detects [pipenv](https://pypi.org/project/pipenv/) and [poetry](https://python-poetry.org/) projects.
 *   [autoupdate-antigen (⭐27)](https://github.com/unixorn/autoupdate-antigen.zshplugin) - [Antigen (⭐7.8k)](https://github.com/zsh-users/antigen) doesn't do automatic updates like [oh-my-zsh](https://ohmyz.sh/). This plugin adds auto updating for `antigen`, both of `antigen` and the bundles loaded in your configuration.
-*   [autoupdate-oh-my-zsh-plugins (⭐232)](https://github.com/TamCore/autoupdate-oh-my-zsh-plugins) - [oh-my-zsh](https://ohmyz.sh/) doesn't automatically update non-core plugins, this plugin autoupdates `git` repositories in the `$ZSH_CUSTOM` directory.
-*   [aws (⭐0)](https://github.com/apachler/zsh-aws) - Forked from the original [oh-my-zsh](https://ohmyz.sh/) [aws (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/aws). Includes completions for `awscli` and a few utilities for managing AWS profiles and displaying them in your prompt.
+*   [autoupdate-oh-my-zsh-plugins (⭐233)](https://github.com/TamCore/autoupdate-oh-my-zsh-plugins) - [oh-my-zsh](https://ohmyz.sh/) doesn't automatically update non-core plugins, this plugin autoupdates `git` repositories in the `$ZSH_CUSTOM` directory.
+*   [aws (⭐0)](https://github.com/apachler/zsh-aws) - Forked from the original [oh-my-zsh](https://ohmyz.sh/) [aws (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/aws). Includes completions for `awscli` and a few utilities for managing AWS profiles and displaying them in your prompt.
 *   [azcli (⭐1)](https://github.com/dmakeienko/azcli) - Helper for using the Azure cli tools.
 *   [azure-keyvault (⭐0)](https://github.com/milespossing/Azure-Keyvault-Zsh) - Makes using Azure keyvaults less verbose from the cli.
 *   [depot-tools (⭐0)](https://github.com/kuoe0/zsh-depot-tools) - Simple [oh-my-zsh](https://ohmyz.sh/) plugin for installing the chromium depot\_tools. Installing this plugin will add all of the chromium depot\_tools to your `$PATH` automatically.
@@ -249,8 +249,8 @@
 *   [emacs (flinner) (⭐4)](https://github.com/Flinner/zsh-emacs) - Uses the Emacs daemon capability, allowing the user to quickly open frames, whether they are opened in a terminal via a `ssh` connection, or X frames opened on the same host.
 *   [emojis (⭐13)](https://github.com/MichaelAquilina/zsh-emojis) - Adds numerous ASCII art emojis to your environment in convenient variables.
 *   [extend-history (⭐9)](https://github.com/xav-b/zsh-extend-history) - Extends command history by adding the exit code for each command in the history.
-*   [fzf-it (⭐2)](https://github.com/micakce/fzf-it) - Make any command interactive wrapping it with [fzf (⭐57k)](https://github.com/junegunn/fzf) functionality.
-*   [gimbo-git (⭐1)](https://github.com/gimbo/gimbo-git.zsh) - A subset of the [oh-my-zsh](https://ohmyz.sh/) [git plugin (⭐166k)](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/git/git.plugin.zsh) aliases, plus some new aliases, plus a few handy functions.
+*   [fzf-it (⭐2)](https://github.com/micakce/fzf-it) - Make any command interactive wrapping it with [fzf (⭐58k)](https://github.com/junegunn/fzf) functionality.
+*   [gimbo-git (⭐1)](https://github.com/gimbo/gimbo-git.zsh) - A subset of the [oh-my-zsh](https://ohmyz.sh/) [git plugin (⭐167k)](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/git/git.plugin.zsh) aliases, plus some new aliases, plus a few handy functions.
 *   [git-acp (⭐6)](https://github.com/MenkeTechnologies/zsh-git-acp) - Take the current command line as the commit message and then run `git pull`, `git add`, `git commit` and `git push` with one keystroke.
 *   [git-lfs (⭐3)](https://github.com/nekofar/zsh-git-lfs) - Adds short aliases for the `git-lfs` commands.
 *   [git (⭐44)](https://github.com/davidde/git) - Replacement for the stock [oh-my-zsh](https://ohmyz.sh/) `git` plugin. Provides quite a few useful aliases and functions. The motivation to replace the default plugin stems from the fact that it comes with some inconsistencies that make a few popular commands rather unintuitive, so this plugin makes the aliases consistent.
@@ -277,8 +277,8 @@
 *   [sublime (⭐3)](https://github.com/valentinocossar/sublime) - Same as the official [Sublime](https://www.sublimetext.com/) plugin for [Oh My Zsh](https://ohmyz.sh/), but this opens files in the current Sublime window, if there is one already open.
 *   [sudo (hcgraf) (⭐30)](https://github.com/hcgraf/zsh-sudo) - The `sudo` plugin from [oh-my-zsh](https://ohmyz.sh/), extracted to a standalone. Toggles `sudo` before the current/previous command by pressing \*ESC-ESC- in emacs-mode or vi-command mode.
 *   [svn-n-zsh (⭐5)](https://github.com/khrt/svn-n-zsh-plugin) - Rewrite of the stock [oh-my-zsh](https://ohmyz.sh/) [svn](https://subversion.apache.org/) plugin.
-*   [syntax-highlighting (⭐18k)](https://github.com/zsh-users/zsh-syntax-highlighting) - Add syntax highlighting to your ZSH. Make sure you load this *before* [zsh-users/zsh-history-substring-search (⭐2.4k)](https://github.com/zsh-users/zsh-history-substring-search) or they will both break.
-*   [system-clipboard (⭐126)](https://github.com/kutsan/zsh-system-clipboard) - Adds key bindings support for ZLE (Zsh Line Editor) clipboard operations for `vi` emulation keymaps. It works under Linux, macOS and Android (via Termux).
+*   [syntax-highlighting (⭐19k)](https://github.com/zsh-users/zsh-syntax-highlighting) - Add syntax highlighting to your ZSH. Make sure you load this *before* [zsh-users/zsh-history-substring-search (⭐2.4k)](https://github.com/zsh-users/zsh-history-substring-search) or they will both break.
+*   [system-clipboard (⭐128)](https://github.com/kutsan/zsh-system-clipboard) - Adds key bindings support for ZLE (Zsh Line Editor) clipboard operations for `vi` emulation keymaps. It works under Linux, macOS and Android (via Termux).
 *   [terminal-app (⭐12)](https://github.com/the8/terminal-app.zsh) - A plugin for integrating with the new macOS El Capitan Terminal.app features.
 *   [termux (⭐3)](https://github.com/zpm-zsh/termux) - Adds compatibility for [Termux](https://termux.com/).
 *   [terraform (hanjunlee) (⭐0)](https://github.com/hanjunlee/terraform-oh-my-zsh-plugin) - Add [terraform](https://www.terraform.io/) workspace to prompt.
@@ -289,7 +289,7 @@
 *   [unique-id (⭐6)](https://github.com/z-shell/zsh-unique-id) - Provides a unique number that identifies a running Zshell session, in its shell variable `$ZUID_ID`. Besides this unique number, also a unique codename is provided, in shell variable `$ZUID_CODENAME`. An example use case is to hold logs in files `.../mylog-${ZUID_CODENAME}.log`, so that two different Zshells will not write to the same file at the same time.
 *   [update-zsh (⭐4)](https://github.com/AndrewHaluza/zsh-update-plugin) - Updates custom [oh-my-zsh](https://ohmyz.sh/) plugins. Only works with the oh-my-zsh framework.
 *   [uvenv (⭐2)](https://github.com/vincentto13/uvenv.plugin.zsh) - Extends the functionality of the original [oh-my-zsh](https://ohmyz.sh/) `venv` module.
-*   [vapor (⭐1)](https://github.com/notf0und/zsh-vapor) - Laravel [vapor (⭐292)](https://github.com/laravel/vapor-cli) plugin for ZSH to help you to run `vapor` from anywhere in the project tree, with auto-completion!
+*   [vapor (⭐1)](https://github.com/notf0und/zsh-vapor) - Laravel [vapor (⭐294)](https://github.com/laravel/vapor-cli) plugin for ZSH to help you to run `vapor` from anywhere in the project tree, with auto-completion!
 *   [vi-mode (jeffreytse) (⭐2.6k)](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly `vi`(`vim`) mode plugin for ZSH.
 *   [virtuozzo-plugin (⭐1)](https://github.com/TamCore/virtuozzo-zsh-plugin) - An [oh-my-zsh](https://ohmyz.sh/) plugin for the [virtuozzo](https://docs.virtuozzo.com/master/index.html) bare-metal virtualization system.
 *   [vox (⭐8)](https://github.com/andrewbonnington/vox.plugin.zsh) - An [oh-my-zsh](https://ohmyz.sh/) plugin to control [VOX](https://vox.rocks/), a lightweight full-featured audio player for macOS that can play a variety of formats including FLAC and Ogg Vorbis.
@@ -300,7 +300,7 @@
 *   [yup (⭐0)](https://github.com/redxtech/zsh-yup) - Adds helper function to upgrade all the dependencies in a `yarn`/`npm` project.
 *   [zellij (jaeheonji) (⭐6)](https://github.com/jaeheonji/zsh-zellij-plugin) - Provides an environment that uses [zellij (⭐16k)](https://github.com/zellij-org/zellij). Requires [tmux (⭐32k)](https://github.com/tmux/tmux).
 *   [zgen-compinit-tweak (⭐3)](https://github.com/seletskiy/zsh-zgen-compinit-tweak) - Make `compinit` run only once after all loading is done by [zgen (⭐1.5k)](https://github.com/tarjoilija/zgen).
-*   [zsh-in-docker (⭐788)](https://github.com/deluan/zsh-in-docker) - Automates ZSH + [oh-my-zsh](https://ohmyz.sh/) installation into development containers. Works with Alpine, Ubuntu, Debian, CentOS or Amazon Linux.
+*   [zsh-in-docker (⭐797)](https://github.com/deluan/zsh-in-docker) - Automates ZSH + [oh-my-zsh](https://ohmyz.sh/) installation into development containers. Works with Alpine, Ubuntu, Debian, CentOS or Amazon Linux.
 *   [zsh-not-vim (⭐4)](https://github.com/redxtech/zsh-not-vim) - Provides a function that automatically shames the user for forgetting they weren't in `vim`.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -951,7 +951,7 @@
 
 ### Tools - Security / React
 
-*   [GraphCrawler - The all-in-one GraphQL Security toolkit (⭐276)](https://github.com/gsmith257-cyber/GraphCrawler) - The all-in-one automated penetration tester toolkit for GraphQL, written in Python
+*   [GraphCrawler - The all-in-one GraphQL Security toolkit (⭐277)](https://github.com/gsmith257-cyber/GraphCrawler) - The all-in-one automated penetration tester toolkit for GraphQL, written in Python
 
 ## [29. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 
@@ -1020,7 +1020,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 ### Software / Monitoring
 
-*   [Scrutiny (⭐4k)](https://github.com/AnalogJ/scrutiny) - Web UI for hard drive S.M.A.R.T monitoring, historical trends & real-world failure thresholds. `MIT` `Go`
+*   [Scrutiny (⭐4.1k)](https://github.com/AnalogJ/scrutiny) - Web UI for hard drive S.M.A.R.T monitoring, historical trends & real-world failure thresholds. `MIT` `Go`
 
 ## [38. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
@@ -1037,21 +1037,21 @@ Installs: 136 | Stars: 22 | Last update: n/a
 ### Editable data grid / spreadsheet
 
 *   [AG Grid (⭐11k)](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
-*   [MUI X Data grid (⭐3.3k)](https://github.com/mui/mui-x) - [demo/docs](https://mui.com/x/react-data-grid/) - Fast and customizable data grid with advanced features for power users and complex use cases.
+*   [MUI X Data grid (⭐3.6k)](https://github.com/mui/mui-x) - [demo/docs](https://mui.com/x/react-data-grid/) - Fast and customizable data grid with advanced features for power users and complex use cases.
 
 ### Table
 
 *   [mui-datatables (⭐2.7k)](https://github.com/gregnb/mui-datatables) - Built on Material UI. Search, styling, filtering, resize/hide columns, export, print, select/expand rows.
-*   [react-table-library (⭐675)](https://github.com/table-library/react-table-library) - [demo](https://react-table-library.com/) - React Table Library -- an almost headless table library -- for building better tables.
+*   [react-table-library (⭐688)](https://github.com/table-library/react-table-library) - [demo](https://react-table-library.com/) - React Table Library -- an almost headless table library -- for building better tables.
 
 ### Notification
 
-*   [react-local-toast (⭐124)](https://github.com/OlegWock/react-local-toast) - [demo](https://react-local-toast.netlify.app/showcase/) - [docs](https://react-local-toast.netlify.app/tutorial) - show feedback linked to particular component instead of app-wide toasts.
+*   [react-local-toast (⭐127)](https://github.com/OlegWock/react-local-toast) - [demo](https://react-local-toast.netlify.app/showcase/) - [docs](https://react-local-toast.netlify.app/tutorial) - show feedback linked to particular component instead of app-wide toasts.
 
 ### Audio / Video
 
 *   [react-vision-camera (⭐8)](https://github.com/xulihang/react-vision-camera) - Camera component for React using getUserMedia. We can use this component for computer vision tasks like barcode scanning, text recognition, etc.
-*   [react-barcode-qrcode-scanner (⭐13)](https://github.com/xulihang/react-barcode-qrcode-scanner) - Barcode and QR code scanner component for React. It uses react-vision-camera to access the camera and Dynamsoft Barcode Reader to read barcodes.
+*   [react-barcode-qrcode-scanner (⭐14)](https://github.com/xulihang/react-barcode-qrcode-scanner) - Barcode and QR code scanner component for React. It uses react-vision-camera to access the camera and Dynamsoft Barcode Reader to read barcodes.
 
 ### Form Components / Form Component Collections
 
@@ -1083,7 +1083,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 ### Contents / Libraries
 
-*   [Python 835 Parser (⭐52)](https://github.com/keironstoddart/edi-835-parser) - A simple-to-use Python interface to EDI 835 Health Care Claim Payment and Remittance Advice files.
+*   [Python 835 Parser (⭐57)](https://github.com/keironstoddart/edi-835-parser) - A simple-to-use Python interface to EDI 835 Health Care Claim Payment and Remittance Advice files.
 
 ## [41. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -1099,7 +1099,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 ### Developer Tools / Developer Utilities
 
-*   [CubicBezier (⭐143)](https://github.com/isaced/CubicBezier) - CubicBezier Generator for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/isaced/CubicBezier) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/cubicbezier/id1228492117?mt=12)
+*   [CubicBezier (⭐145)](https://github.com/isaced/CubicBezier) - CubicBezier Generator for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/isaced/CubicBezier) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/cubicbezier/id1228492117?mt=12)
 
 ## [43. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -1222,7 +1222,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 ### Templates / React
 
-*   [Viterts (⭐33)](https://github.com/erdoganbulut/viterts/) - React + TypeScript + Redux + React Router + Jest + ESLint + Airbnb + Prettier + SASS.
+*   [Viterts (⭐32)](https://github.com/erdoganbulut/viterts/) - React + TypeScript + Redux + React Router + Jest + ESLint + Airbnb + Prettier + SASS.
 
 ### Templates / Petite-Vue
 
@@ -1231,12 +1231,12 @@ Installs: 136 | Stars: 22 | Last update: n/a
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-multi-pages (⭐17)](https://github.com/Miofly/vite-plugin-multi-pages) - Multi Pages Support，can build src/pages anyPage，can set prefixName.
-*   [vite-plugin-html-template-mpa (⭐15)](https://github.com/Miofly/vite-plugin-html-template-mpa) - Multi Pages Common template support.
+*   [vite-plugin-html-template-mpa (⭐16)](https://github.com/Miofly/vite-plugin-html-template-mpa) - Multi Pages Common template support.
 *   [vite-plugin-vconsole-mpa (⭐5)](https://github.com/Miofly/vite-plugin-vconsole-mpa) - Multi Pages Vconsole supports，simple config.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-glsl (⭐269)](https://github.com/UstymUkhman/vite-plugin-glsl) - Import shader file chunks.
+*   [vite-plugin-glsl (⭐272)](https://github.com/UstymUkhman/vite-plugin-glsl) - Import shader file chunks.
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -1244,7 +1244,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-web-update-notification (⭐326)](https://github.com/GreatAuk/plugin-web-update-notification) - Detect webpage updates and notify user to reload. support vite and umijs.
+*   [vite-plugin-web-update-notification (⭐341)](https://github.com/GreatAuk/plugin-web-update-notification) - Detect webpage updates and notify user to reload. support vite and umijs.
 *   [vite-plugin-autogeneration-import-file (⭐6)](https://github.com/yuntian001/vite-plugin-autogeneration-import-file) - Automatically generates import file.
 
 ### Framework-agnostic Plugins / Testing
@@ -1253,7 +1253,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 ### Apps/Websites / Community
 
-*   [pointer-lock-movement (⭐14)](https://github.com/zheeeng/pointer-lock-movement) - A pointer lock movement manager for customizing your own creative UI.
+*   [pointer-lock-movement (⭐15)](https://github.com/zheeeng/pointer-lock-movement) - A pointer lock movement manager for customizing your own creative UI.
 
 ## [46. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
 
@@ -1342,7 +1342,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 ### Search Engines
 
 *   [SearX](https://searx.me/) - Privacy-respecting metasearch engine.
-    *   [SearxNG (⭐6.4k)](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases.
+    *   [SearxNG (⭐6.5k)](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases.
 
 ## [51. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
@@ -1394,7 +1394,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 ### Projects
 
 *   [CubeShuffle (⭐19)](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility built with Rust, Yew, Bulma and Tauri.
-*   [Rust Audio (⭐47)](https://github.com/austintheriot/audio) - Realtime audio processing / synthesis using Rust/WASM in the browser, [Live Demo](https://austintheriot.github.io/audio/).
+*   [Rust Audio (⭐49)](https://github.com/austintheriot/audio) - Realtime audio processing / synthesis using Rust/WASM in the browser, [Live Demo](https://austintheriot.github.io/audio/).
 
 ---
 

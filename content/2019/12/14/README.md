@@ -16,13 +16,13 @@
 
 ### Music Notation
 
-*   [Digital Music Stand (⭐28)](https://github.com/PatWie/digitalmusicstand) - a free web app for displaying sheet music.
+*   [Digital Music Stand (⭐30)](https://github.com/PatWie/digitalmusicstand) - a free web app for displaying sheet music.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CLI
 
-*   [indicators (⭐2.7k)](https://github.com/p-ranav/indicators/) - Activity indicators for Modern C++. \[MIT]
+*   [indicators (⭐2.8k)](https://github.com/p-ranav/indicators/) - Activity indicators for Modern C++. \[MIT]
 
 ## [4. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/README.md)
 

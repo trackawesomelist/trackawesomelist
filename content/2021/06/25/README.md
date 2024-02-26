@@ -20,7 +20,7 @@
 
 ### REST and API
 
-*   [MixerApi](https://mixerapi.com) - Streamline development of modern RESTful APIs for your team's CakePHP project.
+*   🍰 [MixerApi](https://mixerapi.com) - Streamline development of modern RESTful APIs for your team's CakePHP project.
 
 ## [3. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

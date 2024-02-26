@@ -153,15 +153,10 @@
 *   [JSON-RPC](https://www.jsonrpc.org/) - A stateless, light-weight remote procedure call (RPC) protocol.
 *   [JSON5](https://json5.org/) - a extension that aims to make it easier for humans to write and maintain by hand.
 *   [JSON Meta Application Protocol (JMAP)](https://jmap.io/) - A protocol for synchronising JSON-based data objects efficiently, with support for push and out-of-band binary data upload/download.
-*   [J<sub>ack</sub>SON: JSON secret keeper (⭐18)](https://github.com/r0hi7/jackson) - JSONic way of storing secrets in config file.
 
 ### Templates
 
 *   [Jsonnet](https://jsonnet.org/) - A domain specific configuration language that helps you define JSON data.
-
-### Transformations
-
-*   [nimnjs (⭐44)](https://github.com/nimndata/nimnjs) - JSON to nimn bidirectional converter.
 
 ## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -375,7 +370,7 @@
 
 ### Framework Components
 
-*   [Exception Page (⭐63)](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
+*   [Exception Page (⭐64)](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
 
 ### Testing
 
@@ -411,7 +406,7 @@
 
 *   [Dashlane](https://www.dashlane.com) - Cloud-based password manager with award-winning design.
 
-### Podcasts / Pirated software download site blacklist
+### Podcasts / Pirated software download site blocklist
 
 *   [Mac Power Users](https://www.relay.fm/mpu) - Learn about getting the most from your Apple technology with focused topics and workflow guests. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/podcast/mac-power-users/id458066753)
 

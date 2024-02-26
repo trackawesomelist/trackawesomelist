@@ -97,12 +97,12 @@
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [visidata (⭐6.9k)](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for exploring and arranging data (csv/json/xml/xls/yaml/etc)
+*   [visidata (⭐7.3k)](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for exploring and arranging data (csv/json/xml/xls/yaml/etc)
 
 ### Applications / Directory Navigation
 
-*   [nomino (⭐527)](https://github.com/yaa110/nomino) - Batch rename utility using regex, sort and map file options.
-*   [pockyt (⭐491)](https://github.com/achembarpu/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
+*   [nomino (⭐534)](https://github.com/yaa110/nomino) - Batch rename utility using regex, sort and map file options.
+*   [pockyt (⭐490)](https://github.com/achembarpu/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 
 ## [8. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Encryption / Audio Record and Process
 
-*   [Deadbolt (⭐318)](https://github.com/alichtman/deadbolt) - The easiest file encryption tool you'll ever use. macOS-compatible, and open-source so you can trust it. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alichtman/deadbolt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Deadbolt (⭐320)](https://github.com/alichtman/deadbolt) - The easiest file encryption tool you'll ever use. macOS-compatible, and open-source so you can trust it. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alichtman/deadbolt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [13. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [shellfirm (⭐715)](https://github.com/kaplanelad/shellfirm) - Shellfirm is a handy utility to help avoid running dangerous commands without an extra step of approval. When risky patterns is detected you will immediately get a small prompt challenge that will verify your action.
+*   [shellfirm (⭐718)](https://github.com/kaplanelad/shellfirm) - Shellfirm is a handy utility to help avoid running dangerous commands without an extra step of approval. When risky patterns is detected you will immediately get a small prompt challenge that will verify your action.
 
 ## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -32,17 +32,17 @@
 
 ### Miscellaneous
 
-*   [D++ (DPP) (⭐886)](https://github.com/brainboxdotcc/DPP) - A lightweight, high performance and scalable C++ library for creating Discord Bots. \[Apache2] [website](https://dpp.dev)
+*   [D++ (DPP) (⭐894)](https://github.com/brainboxdotcc/DPP) - A lightweight, high performance and scalable C++ library for creating Discord Bots. \[Apache2] [website](https://dpp.dev)
 
 ## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Wallabag](https://www.wallabag.org) - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. ([Source Code (⭐9.4k)](https://github.com/wallabag/wallabag)) `MIT` `PHP`
+*   [Wallabag](https://www.wallabag.org) - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. ([Source Code (⭐9.5k)](https://github.com/wallabag/wallabag)) `MIT` `PHP`
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Revolt](https://revolt.chat/) - Revolt is a user-first chat platform built with modern web technologies. ([Source Code (⭐720)](https://github.com/revoltchat/self-hosted)) `AGPL-3.0` `Rust`
+*   [Revolt](https://revolt.chat/) - Revolt is a user-first chat platform built with modern web technologies. ([Source Code (⭐731)](https://github.com/revoltchat/self-hosted)) `AGPL-3.0` `Rust`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -50,19 +50,19 @@
 
 ### Software / DNS
 
-*   [Technitium DNS Server](https://technitium.com/dns/) - Authoritative/recursive DNS server with ad blocking functionality. ([Source Code (⭐3.2k)](https://github.com/TechnitiumSoftware/DnsServer)) `GPL-3.0` `Docker/C#`
+*   [Technitium DNS Server](https://technitium.com/dns/) - Authoritative/recursive DNS server with ad blocking functionality. ([Source Code (⭐3.3k)](https://github.com/TechnitiumSoftware/DnsServer)) `GPL-3.0` `Docker/C#`
 
 ### Software / Feed Readers
 
-*   [Readflow](https://readflow.app) - Lightweight news reader with modern interface and features: full-text search, automatic categorization, archiving, offline support, notifications... ([Source Code (⭐349)](https://github.com/ncarlier/readflow)) `MIT` `Go/Docker`
+*   [Readflow](https://readflow.app) - Lightweight news reader with modern interface and features: full-text search, automatic categorization, archiving, offline support, notifications... ([Source Code (⭐354)](https://github.com/ncarlier/readflow)) `MIT` `Go/Docker`
 
 ### Software / Note-taking & Editors
 
-*   [kiwix-serve](https://www.kiwix.org/en/downloads/kiwix-serve/) - HTTP daemon for serving wikis from ZIM files. ([Source Code (⭐332)](https://github.com/kiwix/kiwix-tools)) `GPL-3.0` `C++`
+*   [kiwix-serve](https://www.kiwix.org/en/downloads/kiwix-serve/) - HTTP daemon for serving wikis from ZIM files. ([Source Code (⭐337)](https://github.com/kiwix/kiwix-tools)) `GPL-3.0` `C++`
 
 ### Software / Software Development - Testing
 
-*   [Touca](https://touca.io) - Continuous regression testing for engineering teams. Get feedback when you write code that could break your software. ([Source Code (⭐466)](https://github.com/trytouca/trytouca)) `Apache-2.0` `Docker/Nodejs`
+*   [Touca](https://touca.io) - Continuous regression testing for engineering teams. Get feedback when you write code that could break your software. ([Source Code (⭐471)](https://github.com/trytouca/trytouca)) `Apache-2.0` `Docker/Nodejs`
 
 ## [6. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 

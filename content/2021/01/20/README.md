@@ -36,7 +36,7 @@
 *   [godotcord (⭐52)](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
 *   [godot-apple-id (⭐32)](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
 *   [Godot-Slicer (⭐110)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐1.7k)](https://github.com/DavidArayan/ezy-slice) for Godot.
-*   [Goost (⭐453)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
+*   [Goost (⭐456)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
 *   [PortAudio (⭐13)](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use [PortAudio](http://www.portaudio.com).
 
 ### Modules / Godot 3.1
@@ -83,17 +83,17 @@
 
 ### Authentication
 
-*   [phx\_gen\_auth (⭐782)](https://github.com/aaronrenner/phx_gen_auth) - An authentication system generator for Phoenix 1.5 applications.
+*   [phx\_gen\_auth (⭐780)](https://github.com/aaronrenner/phx_gen_auth) - An authentication system generator for Phoenix 1.5 applications.
 
 ### Security
 
-*   [Ockam (⭐4.2k)](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
+*   [Ockam (⭐4.3k)](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [Web Monetization (⭐275)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
+*   [Web Monetization (⭐278)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
 
 ## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 

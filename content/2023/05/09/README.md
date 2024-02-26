@@ -28,7 +28,7 @@
 
 ### Miscellaneous
 
-*   [Read the Docs (⭐76)](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects to inspire and help bootstrap new documentation projects.
+*   [Read the Docs (⭐83)](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects to inspire and help bootstrap new documentation projects.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

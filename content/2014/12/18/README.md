@@ -1,18 +1,12 @@
 # Awesome List Updates on Dec 18, 2014
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Php](/content/ziadoz/awesome-php/README.md)
-
-### Table of Contents / Event
-
-*   [Elephant.io (⭐1.2k)](https://github.com/Wisembly/Elephant.io) - Yet another web socket library.
-
-## [2. Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md)
+## [1. Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md)
 
 ### General
 
@@ -31,14 +25,14 @@
 *   [BackboneConf 2013](https://www.youtube.com/playlist?list=PLlgxAbM67lYLJm9_Ub3gStXa2vjb51aUX) - Youtube playlist
 *   [BackboneConf 2014](https://www.youtube.com/playlist?list=PLlgxAbM67lYIGw8DnANC7VgREbzJRQged) - Youtube playlist
 
-## [3. Awesome Radio](/content/kyleterry/awesome-radio/README.md)
+## [2. Awesome Radio](/content/kyleterry/awesome-radio/README.md)
 
 ### SDR (Software Defined Radio) / Links
 
 *   [Gqrx](http://gqrx.dk/)
 *   [sdrsharp on .NET](http://sdrsharp.com)
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Frameworks
 

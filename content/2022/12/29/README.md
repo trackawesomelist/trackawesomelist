@@ -10,7 +10,7 @@
 
 ### Geographic
 
-*   [H3 (⭐263)](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
+*   [H3 (⭐269)](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
 
 ## [2. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Miscellaneous
 
-*   [pspsdk (⭐782)](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
+*   [pspsdk (⭐788)](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
 
 ## [7. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 

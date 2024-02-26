@@ -21,7 +21,7 @@
 
 ### Concurrency
 
-*   [Intel Games Task Scheduler (⭐441)](https://github.com/GameTechDev/GTS-GamesTaskScheduler) - A task scheduling framework designed for the needs of game developers. \[MIT]
+*   [Intel Games Task Scheduler (⭐443)](https://github.com/GameTechDev/GTS-GamesTaskScheduler) - A task scheduling framework designed for the needs of game developers. \[MIT]
 
 ## [4. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
@@ -50,7 +50,6 @@
 *   [Guide to Career Planning](https://pmarchive.com/guide_to_career_planning_part0.html) - By [Marc Andresssen](https://en.wikipedia.org/wiki/Marc_Andreessen).
 *   [Guide to Personal Productivity](https://pmarchive.com/guide_to_personal_productivity.html) - By [Marc Andresssen](https://en.wikipedia.org/wiki/Marc_Andreessen).
 *   [Hiring Your First Product Manager](https://blog.learningbyshipping.com/2015/04/07/hiring-your-first-product-manager/) - By [Steven Sinofsky](https://en.wikipedia.org/wiki/Steven_Sinofsky).
-*   [12 Things about Product-Market Fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/) - By [Tren Griffin](https://www.linkedin.com/in/tren-griffin-50582725/).
 *   [How to Be an Expert in a Changing World](http://www.paulgraham.com/ecw.html) - By [Paul Graham](https://www.paulgraham.com/).
 *   [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - By [Paul Graham](https://www.paulgraham.com/).
 *   [Do Things that Don't Scale](http://paulgraham.com/ds.html) - By [Paul Graham](https://www.paulgraham.com/).

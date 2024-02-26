@@ -6,6 +6,16 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 [ Daily / [Weekly](/content/AboutRSS/ALL-about-RSS/week/README.md) / [Overview](/content/AboutRSS/ALL-about-RSS/readme/README.md) ]
 
+## [Feb 24, 2024](/content/2024/02/24/README.md)
+
+### Apps / Outline Processor Markup Language
+
+*   [Wire](https://wirereader.app) [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](\[id6456571712]\(https://apps.apple.com/us/app/wire-rss-news-reader/id1438331258\))
+
+### 🔍 Feed Search Engines / 酷Q Plugin
+
+*   [Wire](https://search.wirereader.app/)
+
 ## [Feb 10, 2024](/content/2024/02/10/README.md)
 
 ### Web Feed Specifications / Specification Converters
@@ -15,7 +25,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 ### Apps / Outline Processor Markup Language
 
 *   [Agr Reader](https://www.agrreader.xyz/) <sup>[1378](https://t.me/s/aboutrss/1378)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://www.agrreader.xyz/)
-*   [Twine (⭐1.1k)](https://github.com/msasikanth/twine) <sup>[1381](https://t.me/s/aboutrss/1381)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=dev.sasikanth.rss.reader)[![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/twine-rss-reader/id6465694958)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/msasikanth/twine)
+*   [Twine (⭐1.3k)](https://github.com/msasikanth/twine) <sup>[1381](https://t.me/s/aboutrss/1381)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=dev.sasikanth.rss.reader)[![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/twine-rss-reader/id6465694958)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/msasikanth/twine)
 *   [Readine](https://readine.app/) <sup>[1389](https://t.me/s/aboutrss/1389)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/read-rss-and-more-readine/id6456571712)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=net.synrss.readine.rss)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://readine.app/Downloads)[![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://readine.app/Downloads)[![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)](https://readine.app/Downloads)[![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://pwa.readine.app/)
 *   \[StreamSphere] <sup>[1394](https://t.me/s/aboutrss/1394)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere)
 *   [Quickify](https://quickify.app/) <sup>[1399](https://t.me/s/aboutrss/1399)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=quick.read.app)
@@ -503,7 +513,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 ### universally from / webpage/html
 
 *   [RSS Please](https://www.wezm.net/v2/posts/2022/generate-rss-from-webpage/) <sup>[1249](https://t.me/s/aboutrss/1249)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/wezm/rsspls)
-*   [FreshRSS 1.20.0 (⭐7.7k)](https://github.com/FreshRSS/FreshRSS/releases/tag/1.20.0) <sup>[1256](https://t.me/s/aboutrss/1256)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/FreshRSS/FreshRSS/)
+*   [FreshRSS 1.20.0 (⭐7.8k)](https://github.com/FreshRSS/FreshRSS/releases/tag/1.20.0) <sup>[1256](https://t.me/s/aboutrss/1256)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/FreshRSS/FreshRSS/)
 *   [ChangeDetection](https://lemonade.changedetection.io/start) <sup>[1264](https://t.me/s/aboutrss/1264)</sup>
 
 ### specifically from (*a certain platform*) / Twitter
@@ -571,7 +581,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 ### Apps / Outline Processor Markup Language
 
 *   [Unread](https://www.goldenhillsoftware.com/unread/) <sup>[400](https://t.me/s/aboutrss/400), [402](https://t.me/s/aboutrss/402), [666](https://t.me/s/aboutrss/666), [1232](https://t.me/s/aboutrss/1232)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/unread-2/id1363637349)
-*   [Read You (⭐3.5k)](https://github.com/Ashinch/ReadYou/) <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Ashinch/ReadYou/)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://t.me/ReadYouApp)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Read You (⭐3.6k)](https://github.com/Ashinch/ReadYou/) <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Ashinch/ReadYou/)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://t.me/ReadYouApp)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [WebFeed](https://taoshu.in/webfeed/) <sup>[1213](https://t.me/s/aboutrss/1213)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/webfeed/phonnpdncnchhpobgkabgcjoapjcacop/)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/zh-CN/firefox/addon/webfeed/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/taoso/webfeed)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Matter Reader](https://hq.getmatter.com/) <sup>[1220](https://t.me/s/aboutrss/1220)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/matter-reader/id1501592184)
 *   [Folio Reader](https://foliorss.com/) <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=me.bakumon.rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
@@ -983,7 +993,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ### RSS services powered by utilizing GitHub / Outline Processor Markup Language
 
-*   [Bubo reader (⭐155)](https://github.com/georgemandis/bubo-rss): a hyper-minimalist RSS and JSON feed reader you can deploy on Netlify or Glitch [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/georgemandis/bubo-rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)([Deploy on Github (⭐0)](https://github.com/kevinfiol/reader)-personal fork)
+*   [Bubo reader (⭐160)](https://github.com/georgemandis/bubo-rss): a hyper-minimalist RSS and JSON feed reader you can deploy on Netlify or Glitch [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/georgemandis/bubo-rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)([Deploy on Github (⭐0)](https://github.com/kevinfiol/reader)-personal fork)
 
 ## [Sep 05, 2021](/content/2021/09/05/README.md)
 
@@ -2056,7 +2066,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
-*   [reader (⭐393)](https://github.com/lemon24/reader): a Python feed reader library and web app [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lemon24/reader)
+*   [reader (⭐397)](https://github.com/lemon24/reader): a Python feed reader library and web app [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lemon24/reader)
 
 ## [Aug 01, 2020](/content/2020/08/01/README.md)
 
@@ -2259,7 +2269,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ### 🔱 Workflow Automation / 酷Q Plugin
 
-*   [feedpushr (⭐308)](https://github.com/ncarlier/feedpushr) <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ncarlier/feedpushr)
+*   [feedpushr (⭐311)](https://github.com/ncarlier/feedpushr) <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ncarlier/feedpushr)
 
 ### specifically from (*a certain platform*) / Instagram
 
@@ -2764,10 +2774,10 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 *   [Feedbin](https://feedbin.com/) ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/feedbin/id1444961766)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/feedbin/feedbin)
 *   [NewsBlur](https://newsblur.com/) <sup>[204](https://t.me/s/aboutrss/204)</sup> [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://newsblur.com/)[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](http://itunes.apple.com/us/app/newsblur/id463981119)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.newsblur)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/samuelclay/NewsBlur)
-*   [RSSMonster (⭐417)](https://github.com/pietheinstrengholt/rssmonster) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/pietheinstrengholt/rssmonster)
-*   [Temboz (⭐74)](https://github.com/fazalmajid/temboz) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/fazalmajid/temboz)
+*   [RSSMonster (⭐418)](https://github.com/pietheinstrengholt/rssmonster) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/pietheinstrengholt/rssmonster)
+*   [Temboz (⭐78)](https://github.com/fazalmajid/temboz) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/fazalmajid/temboz)
 *   [KrISS feed](http://tontof.net/kriss/feed/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/tontof/kriss_feed)
-*   [Leed (Light Feed) (⭐200)](https://github.com/LeedRSS/Leed) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/LeedRSS/Leed)
+*   [Leed (Light Feed) (⭐202)](https://github.com/LeedRSS/Leed) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/LeedRSS/Leed)
 
 ## [Apr 28, 2020](/content/2020/04/28/README.md)
 
@@ -2788,7 +2798,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ### universally from / multiple sources
 
-*   [RSS-Bridge (⭐6.6k)](https://github.com/RSS-Bridge/rss-bridge/wiki) <sup>[257](https://t.me/s/aboutrss/257), [469](https://t.me/s/aboutrss/469), [478](https://t.me/s/aboutrss/478)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSS-Bridge/rss-bridge)
+*   [RSS-Bridge (⭐6.7k)](https://github.com/RSS-Bridge/rss-bridge/wiki) <sup>[257](https://t.me/s/aboutrss/257), [469](https://t.me/s/aboutrss/469), [478](https://t.me/s/aboutrss/478)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSS-Bridge/rss-bridge)
 
 ## [Apr 25, 2020](/content/2020/04/25/README.md)
 
@@ -2903,7 +2913,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ### 💖 Acknowledgement / Crypto or Blockchain relevant
 
-*   [Feed Readers @ Awesome-Selfhosted (⭐167k)](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
+*   [Feed Readers @ Awesome-Selfhosted (⭐169k)](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
 
 ### Telegram / Bot of RSS屋 (a Full Article Extractor Service)
 
@@ -2950,7 +2960,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ### specifically from (*a certain platform*) / Wechat Subscription Accounts (微信公众号)
 
-*   [Huginn (⭐40k)](https://github.com/huginn/huginn) <sup>[195](https://t.me/s/aboutrss/195), [528](https://t.me/s/aboutrss/528)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/huginn/huginn)
+*   [Huginn (⭐41k)](https://github.com/huginn/huginn) <sup>[195](https://t.me/s/aboutrss/195), [528](https://t.me/s/aboutrss/528)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/huginn/huginn)
 *   [快知](http://kzfeed.com/) <sup>[195](https://t.me/s/aboutrss/195), [528](https://t.me/s/aboutrss/528)</sup> [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](http://kzfeed.com/login)[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/cn/app/%E5%BF%AB%E7%9F%A5-%E8%AE%A9%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96%E6%9B%B4%E9%AB%98%E6%95%88/id1465578855)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://www.coolapk.com/apk/244476)
 *   微信公众号RSS by ZMonster <sup>[438](https://t.me/s/aboutrss/438), [515](https://t.me/s/aboutrss/515), [528](https://t.me/s/aboutrss/528)</sup>
 

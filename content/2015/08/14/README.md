@@ -44,41 +44,33 @@
 
 ## [3. Awesome Python](/content/vinta/awesome-python/README.md)
 
-### Build Tools
-
-*   [SCons](http://www.scons.org/) - A software construction tool.
-
-### E-commerce
-
-*   [alipay (⭐324)](https://github.com/lxneng/alipay) - Unofficial Alipay API for Python.
-
 ### HTML Manipulation
 
-*   [html5lib (⭐1k)](https://github.com/html5lib/html5lib-python) - A standards-compliant library for parsing and serializing HTML documents and fragments.
+*   [html5lib (⭐1.1k)](https://github.com/html5lib/html5lib-python) - A standards-compliant library for parsing and serializing HTML documents and fragments.
 *   [lxml](http://lxml.de/) - A very fast, easy-to-use and versatile library for handling HTML and XML.
-*   [pyquery (⭐2.2k)](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
-*   [xmltodict (⭐5.2k)](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
+*   [pyquery (⭐2.3k)](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
+*   [xmltodict (⭐5.3k)](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
 
 ### Processes
 
-*   [sh (⭐6.6k)](https://github.com/amoffat/sh) - A full-fledged subprocess replacement for Python.
+*   [sh (⭐6.8k)](https://github.com/amoffat/sh) - A full-fledged subprocess replacement for Python.
 
 ### Science
 
 *   [astropy](http://www.astropy.org/) - A community Python library for Astronomy.
-*   [bccb (⭐572)](https://github.com/chapmanb/bcbb) - Collection of useful code related to biological analysis.
+*   [bccb (⭐589)](https://github.com/chapmanb/bcbb) - Collection of useful code related to biological analysis.
 *   [Biopython](http://biopython.org/wiki/Main_Page) - Biopython is a set of freely available tools for biological computation.
 *   [cclib](http://cclib.github.io/) - A library for parsing and interpreting the results of computational chemistry packages.
 *   [NumPy](http://www.numpy.org/) - A fundamental package for scientific computing with Python.
-*   [PyMC (⭐7.6k)](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit.
-*   [statsmodels (⭐8.7k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
-*   [SymPy (⭐11k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
+*   [PyMC (⭐8k)](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit.
+*   [statsmodels (⭐9.3k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
+*   [SymPy (⭐12k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
 
 ### Third-party APIs
 
-*   [google-api-python-client (⭐6.7k)](https://github.com/google/google-api-python-client) - Google APIs Client Library for Python.
-*   [gspread (⭐6.5k)](https://github.com/burnash/gspread) - Google Spreadsheets Python API.
-*   [twython (⭐1.9k)](https://github.com/ryanmcgrath/twython) - A Python wrapper for the Twitter API.
+*   [google-api-python-client (⭐7.3k)](https://github.com/google/google-api-python-client) - Google APIs Client Library for Python.
+*   [gspread (⭐6.8k)](https://github.com/burnash/gspread) - Google Spreadsheets Python API.
+*   [twython (⭐1.8k)](https://github.com/ryanmcgrath/twython) - A Python wrapper for the Twitter API.
 
 ## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 

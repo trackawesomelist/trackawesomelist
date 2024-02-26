@@ -57,7 +57,7 @@ Installs: 2000 | Stars: 346 | Last update: n/a
 
 ### Self-Hosted
 
-*   [Mailcow: dockerized (⭐7.5k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
+*   [Mailcow: dockerized (⭐7.6k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
 
 ## [8. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 

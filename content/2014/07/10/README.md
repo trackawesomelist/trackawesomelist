@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 10, 2014
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,7 @@
 
 *   [Cebe Markdown (⭐995)](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
 
-## [2. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### E-commerce
-
-*   [django-oscar](http://oscarcommerce.com/) - An open-source e-commerce framework for Django.
-
-## [3. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
+## [2. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
 
 ### Release Management
 
@@ -41,7 +35,7 @@
 *   [erlando (⭐2)](https://github.com/travelping/erlando) - A set of syntax extensions like currying and monads for Erlang.
 *   [statebox (⭐244)](https://github.com/mochi/statebox) - Erlang state "monad" with merge/conflict-resolution capabilities.
 
-## [4. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
+## [3. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
 ### Admins
 
@@ -125,13 +119,13 @@
 *   [watchman (⭐11k)](https://github.com/facebook/watchman) - Facebook's better
     `watch` - note it works as a service.
 
-## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Key-value Data Model
 
 *   [Tarantool (⭐3.2k)](https://github.com/tarantool/tarantool) - an efficient NoSQL database and a Lua application server.
 
-## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Testing Frameworks / Frameworks
 

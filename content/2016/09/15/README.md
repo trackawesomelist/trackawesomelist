@@ -10,11 +10,11 @@
 
 ### Table of Contents / Testing
 
-*   [PHP-Mock (⭐351)](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
+*   [PHP-Mock (⭐350)](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
 
 ### Table of Contents / Task Runners
 
-*   [Robo (⭐2.6k)](https://github.com/consolidation/Robo) - A PHP Task runner with object-orientated configurations.
+*   [Robo (⭐2.7k)](https://github.com/consolidation/Robo) - A PHP Task runner with object-orientated configurations.
 
 ## [2. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Editors
 
-*   [elixir-tmbundle (⭐261)](https://github.com/elixir-lang/elixir-tmbundle) - A TextMate and SublimeText bundle for Elixir.
+*   [elixir-tmbundle (⭐262)](https://github.com/elixir-lang/elixir-tmbundle) - A TextMate and SublimeText bundle for Elixir.
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

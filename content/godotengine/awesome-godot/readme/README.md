@@ -216,6 +216,7 @@ See [Vivraan/godot-lang-support (⭐290)](https://github.com/Vivraan/godot-lang-
 *   [Escoria (⭐734)](https://github.com/godotengine/escoria) - Point & click adventure game framework (Godot 2.1, 3.2+).
 *   [Fast Fourier Transform (FFT) (⭐21)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript (Godot 4.x).
 *   [GdUnit3 (⭐297)](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework (Godot 3.x).
+*   [GdUnit4 (⭐333)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework (Godot 4.x).
 *   [GodotNotificationCenter (⭐59)](https://github.com/didier-v/GodotNotificationCenter) - A notification center (Godot 3.x).
 *   [GodotPhoenixChannels (⭐256)](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework (Godot 3.\*).
 *   [Godot Radial Menu (⭐213)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
@@ -239,7 +240,6 @@ See [Vivraan/godot-lang-support (⭐290)](https://github.com/Vivraan/godot-lang-
 *   [SimpleGodotCRTShader (⭐331)](https://github.com/henriquelalves/SimpleGodotCRTShader) - A simple Godot shader that simulates CRT Displays (Godot 2.x, 3.x).
 *   [Simplified Flight Simulation library (⭐132)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x, 4.x).
 *   [SignalVisualizer (⭐148)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock (Godot 4.x).
-*   [SMRT-Godot (⭐106)](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games (Godot 3.x).
 *   [StoryTeller Engine (⭐26)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
 *   [Tiled importer (⭐784)](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/) (Godot 3.x).
 *   [TileSet Builder (⭐17)](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style (Godot 3.x).
@@ -262,7 +262,6 @@ See [Vivraan/godot-lang-support (⭐290)](https://github.com/Vivraan/godot-lang-
 *   [Funexpected Flash Tools (⭐19)](https://github.com/funexpected/flash-tools) - Adobe Animate (Flash) plugin that allows you to export a project for a Godot Engine.
 *   [GDGIFExporter (⭐105)](https://github.com/jegor377/godot-gdgifexporter) - GIF exporter made entirely in GDScript.
 *   [GitHub integration (⭐224)](https://github.com/fenix-hub/godot-engine.github-integration) - Interact with GitHub without opening your browser.
-*   [GDGotm (⭐50)](https://github.com/PlayGotm/GDGotm/tree/master/gotm) - GDScript API for [gotm.io](https://gotm.io/).
 *   [godotccd (⭐60)](https://github.com/TheSHEEEP/godotccd) - Fast 3D collision checks in Godot using libccd.
 *   [godotdetour (⭐119)](https://github.com/TheSHEEEP/godotdetour) - A GDNative implementation of the detour/detourcrowd library.
 *   [GodotDiscordSDK (⭐53)](https://github.com/LennyPhoenix/GodotDiscordSDK) - A GDNative wrapper for the Discord Game SDK, adding support for its functionality in GDScript without recompiling the engine (as opposed to something like godotcord which is a custom engine module).
@@ -426,7 +425,6 @@ See [Vivraan/godot-lang-support (⭐290)](https://github.com/Vivraan/godot-lang-
 *   [Godot Shaders](https://godotshaders.com/) - A community-driven shader library for the Godot game engine.
 *   [Godotes](https://godotes.com/) - Weekly micro data analysis reports about the Godot engine and its ecosystem.
 *   [Gotm.io](https://gotm.io/about) - A website for hosting HTML5 games that were made in Godot.
-*   [The Godot Report](https://www.thegodotreport.com/) - A newsletter with news, tutorials, game and demo releases and more.
 
 ## Other
 

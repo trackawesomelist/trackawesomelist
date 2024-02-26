@@ -45,10 +45,6 @@
 
 ## [4. Awesome Json](/content/burningtree/awesome-json/README.md)
 
-### Binary Serialization
-
-*   [CBOR](https://tools.ietf.org/html/rfc7049) - Concise Binary Object Representation.
-
 ### Format Extensions
 
 *   [JSON Web Tokens](https://jwt.io/) - A compact URL-safe means of representing claims to be transferred between two parties.

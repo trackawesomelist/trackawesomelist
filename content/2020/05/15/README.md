@@ -23,7 +23,7 @@
 
 ### GUI
 
-*   [nuklear (⭐8.2k)](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C gui library. \[PublicDomain]
+*   [nuklear (⭐8.3k)](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C gui library. \[PublicDomain]
 
 ### Build Systems
 
@@ -37,7 +37,7 @@
 
 ### Configuration / Serverless
 
-*   [Yo! Symfony TOML (⭐189)](https://github.com/yosymfony/toml) - A PHP parser for [TOML (⭐19k)](https://github.com/toml-lang/toml).
+*   [Yo! Symfony TOML (⭐190)](https://github.com/yosymfony/toml) - A PHP parser for [TOML (⭐19k)](https://github.com/toml-lang/toml).
 
 ## [5. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

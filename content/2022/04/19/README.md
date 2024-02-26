@@ -57,8 +57,7 @@
 
 *   [GodotNotificationCenter (⭐59)](https://github.com/didier-v/GodotNotificationCenter) - A notification center (Godot 3.x).
 *   [Scrolling Background (⭐26)](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node (Godot 2.1,3.x).
-*   [SimpleGodotCRTShader (⭐330)](https://github.com/henriquelalves/SimpleGodotCRTShader) - A simple Godot shader that simulates CRT Displays (Godot 2.x, 3.x).
-*   [SMRT-Godot (⭐106)](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games (Godot 3.x).
+*   [SimpleGodotCRTShader (⭐331)](https://github.com/henriquelalves/SimpleGodotCRTShader) - A simple Godot shader that simulates CRT Displays (Godot 2.x, 3.x).
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -70,15 +69,15 @@
 
 ### Templates / React
 
-*   [React-PWA (⭐472)](https://github.com/suren-atoyan/react-pwa) - React v18, TypeScript, Vite, React Router v6, MUI v5, Recoil, PWA, Eslint, Prettier, Husky, lint-staged, https localhost and more.
+*   [React-PWA (⭐480)](https://github.com/suren-atoyan/react-pwa) - React v18, TypeScript, Vite, React Router v6, MUI v5, Recoil, PWA, Eslint, Prettier, Husky, lint-staged, https localhost and more.
 
 ### Templates / Others
 
-*   [chrome-ext-template-preact-windi-vite (⭐60)](https://github.com/fell-lucas/chrome-ext-template-preact-windi-vite) - Preact, Windi CSS, TypeScript, Prettier, ESLint, GitHub Actions and Chrome Extension Manifest v3.
+*   [chrome-ext-template-preact-windi-vite (⭐63)](https://github.com/fell-lucas/chrome-ext-template-preact-windi-vite) - Preact, Windi CSS, TypeScript, Prettier, ESLint, GitHub Actions and Chrome Extension Manifest v3.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-mp (⭐21)](https://github.com/zhuweiyou/vite-plugin-mp) - Configure multi-pages applications and code splitting.
+*   [vite-plugin-mp (⭐23)](https://github.com/zhuweiyou/vite-plugin-mp) - Configure multi-pages applications and code splitting.
 
 ### Framework-agnostic Plugins / Loaders
 
@@ -96,7 +95,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [al-magic (⭐1)](https://github.com/Alustrat/al-magic/) - Clone of the oh-my-zsh [af-magic (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme) theme with the time added at the right of the prompt.
+*   [al-magic (⭐1)](https://github.com/Alustrat/al-magic/) - Clone of the oh-my-zsh [af-magic (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme) theme with the time added at the right of the prompt.
 
 ---
 

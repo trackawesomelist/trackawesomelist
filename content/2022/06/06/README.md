@@ -34,7 +34,7 @@
 
 ### Libraries / Java
 
-*   [OSM2World](http://osm2world.org) - OSM2World is a converter that creates three-dimensional models of the world from OpenStreetMap data. It can be used as a stand-alone tool, on a server or as a library in Java programs. ([Source Code (⭐502)](https://github.com/tordanik/OSM2World) / [Wiki](https://wiki.openstreetmap.org/wiki/OSM2World))
+*   [OSM2World](http://osm2world.org) - OSM2World is a converter that creates three-dimensional models of the world from OpenStreetMap data. It can be used as a stand-alone tool, on a server or as a library in Java programs. ([Source Code (⭐515)](https://github.com/tordanik/OSM2World) / [Wiki](https://wiki.openstreetmap.org/wiki/OSM2World))
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -212,7 +212,7 @@
 
 ### Graphics
 
-*   [Harfang 3D (⭐442)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. \[GPLv3/LGPLv3/Proprietary] [website](https://www.harfang3d.com)
+*   [Harfang 3D (⭐445)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. \[GPLv3/LGPLv3/Proprietary] [website](https://www.harfang3d.com)
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -10,15 +10,15 @@
 
 ### Command-Line Productivity
 
-*   [spot (⭐917)](https://github.com/rauchg/spot) - Tiny file search utility
+*   [spot (⭐919)](https://github.com/rauchg/spot) - Tiny file search utility
 
 ### Customization / Directory Navigation
 
-*   [Gogh - Color Scheme (⭐8.3k)](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal
+*   [Gogh - Color Scheme (⭐8.5k)](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal
 
 ### For Developers / Directory Navigation
 
-*   [git-extras (⭐16k)](https://github.com/tj/git-extras) - Git utilities -- repo summary, repl, changelog population, author commit percentages and more
+*   [git-extras (⭐17k)](https://github.com/tj/git-extras) - Git utilities -- repo summary, repl, changelog population, author commit percentages and more
 
 ### System Utilities / Directory Navigation
 

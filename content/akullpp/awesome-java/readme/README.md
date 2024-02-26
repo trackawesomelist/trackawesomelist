@@ -652,7 +652,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 *Tools that help send messages between clients to ensure protocol independency.*
 
-*   [Aeron (⭐6.9k)](https://github.com/real-logic/Aeron) - Efficient, reliable, unicast and multicast message transport.
+*   [Aeron (⭐7k)](https://github.com/real-logic/Aeron) - Efficient, reliable, unicast and multicast message transport.
 *   [Apache ActiveMQ](https://activemq.apache.org) - Message broker that implements JMS and converts synchronous to asynchronous communication.
 *   [Apache Camel](https://camel.apache.org) - Glues together different transport APIs via Enterprise Integration Patterns.
 *   [Apache Kafka](https://kafka.apache.org) - High-throughput distributed messaging system.
@@ -917,7 +917,7 @@ A curated list of awesome Java frameworks, libraries and software.
 #### Other
 
 *   [CUBA Platform](https://www.cuba-platform.com/) - High-level framework for developing enterprise applications with a rich web interface, based on Spring, EclipseLink and Vaadin.
-*   [Light-4J (⭐3.6k)](https://github.com/networknt/light-4j/) - Fast, lightweight and productive microservices framework with built-in [security (⭐310)](https://github.com/networknt/light-oauth2/).
+*   [Light-4J (⭐3.6k)](https://github.com/networknt/light-4j/) - Fast, lightweight and productive microservices framework with built-in [security (⭐311)](https://github.com/networknt/light-oauth2/).
 *   [Orienteer (⭐228)](https://github.com/OrienteerBAP/Orienteer/) - Open-source business application platform for rapid configuration/development of CRM, ERP, LMS and other applications.
 *   [Spring](https://spring.io/projects/) - Provides many packages for dependency injection, aspect-oriented programming, security, etc.
 
@@ -1063,8 +1063,8 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [ConcurrentUnit (⭐413)](https://github.com/jhalterman/concurrentunit) - Toolkit for testing multi-threaded and asynchronous applications.
 *   [GreenMail](https://greenmail-mail-test.github.io/greenmail/) - In-memory email server for integration testing. Supports SMTP, POP3 and IMAP including SSL. (GPL-2.0-only)
 *   [Hoverfly Java (⭐164)](https://github.com/SpectoLabs/hoverfly-java) - Native bindings for Hoverfly, a proxy which allows you to simulate HTTP services.
-*   [Karate (⭐7.6k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
-*   [REST Assured (⭐6.6k)](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
+*   [Karate (⭐7.7k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
+*   [REST Assured (⭐6.7k)](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
 *   [WebTau (⭐348)](https://github.com/testingisdocumenting/webtau) - Test across REST-API, Graph QL, Browser, Database, CLI and Business Logic with consistent set of matchers and concepts.
 
 #### BDD
@@ -1162,6 +1162,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [Java Diff Utils](https://java-diff-utils.github.io/java-diff-utils/) - Utilities for text or data comparison and patching.
 *   [JavaVerbalExpressions (⭐2.6k)](https://github.com/VerbalExpressions/JavaVerbalExpressions) - Library that helps with constructing difficult regular expressions.
 *   [JGit](https://www.eclipse.org/jgit/) - Lightweight, pure Java library implementing the Git version control system.
+*   [JKScope (⭐9)](https://github.com/evpl/jkscope) - Java scope functions inspired by Kotlin.
 *   [minio-java (⭐994)](https://github.com/minio/minio-java) - Provides simple APIs to access any Amazon S3-compatible object storage server.
 *   [Protégé](https://protege.stanford.edu) - Provides an ontology editor and a framework to build knowledge-based systems.
 *   [Semver4j (⭐53)](https://github.com/semver4j/semver4j) - Lightweight library that helps you handling semantic versioning with different modes.
@@ -1226,7 +1227,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [Awesome REST (⭐3.5k)](https://github.com/marmelab/awesome-rest)
 *   [Awesome Selenium (⭐963)](https://github.com/christian-bromann/awesome-selenium)
 *   [Awesome Hybris (⭐20)](https://github.com/eminyagiz42/awesome-hybris)
-*   [ciandcd (⭐1.7k)](https://github.com/ciandcd/awesome-ciandcd)
+*   [ciandcd (⭐1.8k)](https://github.com/ciandcd/awesome-ciandcd)
 *   [Useful Java Links (⭐5.7k)](https://github.com/Vedenin/useful-java-links)
 *   [Java Concurrency Checklist (⭐1.2k)](https://github.com/code-review-checklists/java-concurrency)
 *   [Java Developer Roadmap (⭐3.7k)](https://github.com/s4kibs4mi/java-developer-roadmap)

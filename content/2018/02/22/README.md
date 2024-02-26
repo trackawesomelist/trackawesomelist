@@ -35,7 +35,7 @@
 
 ### Transformations
 
-*   [Sawmill (⭐98)](https://github.com/logzio/sawmill) - JSON transformation library (Java)
+*   [Sawmill (⭐109)](https://github.com/logzio/sawmill) - JSON transformation library (Java)
 
 ## [6. Awesome Funny Markov](/content/sublimino/awesome-funny-markov/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Command Line Applications
 
-*   [scribe (⭐282)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
+*   [scribe (⭐284)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
 
 ### Networking
 

@@ -22,7 +22,7 @@
 
 ### Database Tools
 
-*   [Strong Migrations (⭐3.7k)](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development.
+*   [Strong Migrations (⭐3.8k)](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development.
 
 ### GUI
 
@@ -30,7 +30,7 @@
 
 ### Third-party APIs
 
-*   [Ably (⭐33)](https://github.com/ably/ably-ruby) - Ruby library for realtime communication over Ably.
+*   [Ably (⭐34)](https://github.com/ably/ably-ruby) - Ruby library for realtime communication over Ably.
 
 ## [4. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
@@ -48,13 +48,13 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [insanusmokrassar/TelegramBotAPI (⭐296)](https://github.com/insanusmokrassar/TelegramBotAPI) - Kotlin Multiplatform library for type-safe work with Telegram Bot API
+*   [insanusmokrassar/TelegramBotAPI (⭐305)](https://github.com/insanusmokrassar/TelegramBotAPI) - Kotlin Multiplatform library for type-safe work with Telegram Bot API
 
 ## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [pike (⭐412)](https://github.com/jamesWoolfenden/pike) - Pike calculates the permissions or IAM policy required to build your Terraform.
+*   [pike (⭐426)](https://github.com/jamesWoolfenden/pike) - Pike calculates the permissions or IAM policy required to build your Terraform.
 
 ## [8. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 

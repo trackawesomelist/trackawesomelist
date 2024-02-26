@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 02, 2023
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -74,12 +74,6 @@
 ### Videos / Others
 
 *   [Blazor on .NET 8 - Ten Reasons why Blazor on .NET 8 is a Game Changer](https://www.youtube.com/watch?v=VWwZrDA8om0) - ![duration](https://img.shields.io/badge/Duration:%20-25%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) October 10, 2023 - 10 reasons why the new enhancements and new features about Blazor released with .NET 8 are an absolute game changer.
-
-## [9. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Algorithms & Data Structures
-
-*   [Algorithms and Data Structures - With Applications to Graphics and Geometry](https://textbookequity.org/Textbooks/Nievergelt_Algorithms%20and%20Data%20Structures08.pdf) - Jurg Nievergelt, Klaus Hinrichs (PDF)
 
 ---
 

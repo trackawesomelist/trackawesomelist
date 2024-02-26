@@ -64,7 +64,7 @@
 
 ### Image processing
 
-*   [ffmpeg (⭐17)](https://github.com/spider-gazelle/ffmpeg) - FFmpeg bindings that works with StumpyPNG to extract frames
+*   [ffmpeg (⭐18)](https://github.com/spider-gazelle/ffmpeg) - FFmpeg bindings that works with StumpyPNG to extract frames
 
 ### Third-party APIs
 
@@ -97,11 +97,11 @@
 
 ### Libraries/Frameworks / Database
 
-*   [ctripcorp/SQLlin (⭐199)](https://github.com/ctripcorp/SQLlin) - A DSL SQLite library for Kotlin Multiplatform
+*   [ctripcorp/SQLlin (⭐208)](https://github.com/ctripcorp/SQLlin) - A DSL SQLite library for Kotlin Multiplatform
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [ctripcorp/mmkv-kotlin (⭐105)](https://github.com/ctripcorp/mmkv-kotlin) - The Kotlin Multiplatform wrapper for MMKV
+*   [ctripcorp/mmkv-kotlin (⭐106)](https://github.com/ctripcorp/mmkv-kotlin) - The Kotlin Multiplatform wrapper for MMKV
 
 ## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
@@ -168,7 +168,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-tab-widgets (⭐3)](https://github.com/tom-power/fzf-tab-widgets) - Adds widgets for [fzf-tab (⭐2.5k)](https://github.com/Aloxaf/fzf-tab).
+*   [fzf-tab-widgets (⭐3)](https://github.com/tom-power/fzf-tab-widgets) - Adds widgets for [fzf-tab (⭐2.6k)](https://github.com/Aloxaf/fzf-tab).
 
 ## [15. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 

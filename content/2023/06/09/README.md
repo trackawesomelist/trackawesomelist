@@ -68,7 +68,6 @@
 
 ### Articles / Obsidian
 
-*   [How to Deliver More Software Projects on Time](https://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
 *   [Shipping is a Feature: Some Guiding Principles for People That Build Things](https://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/) - By [Michael Copeland](https://www.linkedin.com/in/mcopeland/).
 *   [Painless Functional Specifications – Part 1: Why Bother?](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/) - By [Joel Spolsky](https://www.joelonsoftware.com).
 *   [Painless Functional Specifications – Part 2: What’s a Spec?](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/) - By [Joel Spolsky](https://www.joelonsoftware.com).

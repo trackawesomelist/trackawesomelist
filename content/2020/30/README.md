@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 27 - Aug 02, 2020
 
-68 awesome lists updated this week.
+67 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -147,7 +147,7 @@
 
 ### Applications / System tools
 
-*   [gitui (⭐16k)](https://github.com/extrawurst/gitui) - Blazing fast terminal client for git written in Rust. [![build](https://github.com/extrawurst/gitui/workflows/CI/badge.svg?branch=master)](https://github.com/extrawurst/gitui/actions)
+*   [gitui (⭐16k)](https://github.com/extrawurst/gitui) - Blazing fast terminal client for git. [![build](https://github.com/extrawurst/gitui/workflows/CI/badge.svg?branch=master)](https://github.com/extrawurst/gitui/actions)
 
 ### Libraries / Macro
 
@@ -751,13 +751,13 @@
 ### Canvas
 
 *   [react-konva (⭐5.4k)](https://github.com/konvajs/react-konva) - React Konva is a JavaScript library for drawing complex canvas graphics with bindings to the Konva Framework.
-*   [react-sketch (⭐657)](https://github.com/tbolis/react-sketch) - A Sketch tool for React based applications, backed-up by FabricJS
-*   [react-sketch-canvas (⭐336)](https://github.com/vinothpandian/react-sketch-canvas) - [Demo](https://vinoth.info/react-sketch-canvas/?path=/story/*) Freehand vector drawing tool for React using SVG as canvas. Accepts input from Mouse, touch, and graphic tablets
+*   [react-sketch (⭐661)](https://github.com/tbolis/react-sketch) - A Sketch tool for React based applications, backed-up by FabricJS
+*   [react-sketch-canvas (⭐341)](https://github.com/vinothpandian/react-sketch-canvas) - [Demo](https://vinoth.info/react-sketch-canvas/?path=/story/*) Freehand vector drawing tool for React using SVG as canvas. Accepts input from Mouse, touch, and graphic tablets
 
 ### Form Components / Rich Text Editor
 
-*   [ckeditor4-react (⭐90)](https://github.com/ckeditor/ckeditor4-react) - An official CKEditor 4 rich text editor wrapper.
-*   [ckeditor5-react (⭐403)](https://github.com/ckeditor/ckeditor5-react) - An official CKEditor 5 rich text editor wrapper.
+*   [ckeditor4-react (⭐92)](https://github.com/ckeditor/ckeditor4-react) - An official CKEditor 4 rich text editor wrapper.
+*   [ckeditor5-react (⭐407)](https://github.com/ckeditor/ckeditor5-react) - An official CKEditor 5 rich text editor wrapper.
 
 ## [56. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
@@ -781,14 +781,7 @@
 
 *   [chip8-test-rom (⭐189)](https://github.com/corax89/chip8-test-rom) - corax89's CHIP-8 test program, which tests most instructions for correct (Super-CHIP compliant) behavior.
 
-## [59. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
-
-### Web Frameworks
-
-*   [Chicago Crystal Podcast](https://podcast.chicagocrystal.org)
-*   [Chicago Crystal YouTube](https://www.youtube.com/channel/UCI1RvHPG6S9mw4eRoJfH2kA)
-
-## [60. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [59. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Other Testing
 
@@ -798,7 +791,7 @@
 
 *   [Streamoji (⭐252)](https://github.com/getstream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
 
-## [61. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [60. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Reading
 
@@ -813,20 +806,20 @@
 *   [How to Introduce Wardley Mapping to Different Strata of the Organization](https://learnwardleymapping.com/2020/07/22/how-to-introduce-wardley-mapping-to-different-strata-of-the-organization/) - What is the best way to introduce Wardley Mapping to different groups? Jul 22, 2020.
 *   [Thoughts on 'value' in the Value Chain](https://www.abusedbits.com/2020/07/thoughts-on-value-in-value-chain.html) - It is important to understand the need and outcome. It is vital to understand the value desired. Jul 17, 2020.
 
-## [62. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [61. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Additional Resources
 
 *   [bitcoin-resources.com](https://bitcoin-resources.com/) Meta-list of Bitcoin resources, from books, articles, to podcasts.
 *   [Jameson Lopp Bitcoin Resource List](https://www.lopp.net/bitcoin-information.html) Very detailed curated Bitcoin resource list and meta-list by J. Lopp
 
-## [63. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [62. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐3.8k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
+*   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐3.9k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
 
-## [64. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [63. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Communication and Coordination
 
@@ -849,7 +842,7 @@
 
 *   [ansible-role-nfs (⭐201)](https://github.com/geerlingguy/ansible-role-nfs) - Installs NFS utilities on RedHat/CentOS or Debian/Ubuntu.
 
-## [65. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [64. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Frontend
 
@@ -867,21 +860,21 @@
 
 *   [tl;dr sec](https://tldrsec.com/). A weekly distillation of the best security tools, blog posts, and conference talks, covering AppSec, cloud and container security, DevSecOps, and more.
 
-## [66. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [65. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Element (formerly Riot)](https://element.io): Collaboration client for the web. Chat, VOIP video, file transfer, end-to-end crypto.
 *   [reep.io ☠️](https://reep.io): Transfer files directly to another browser, your peer will be able to download the file directly from you.
 
-## [67. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [66. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### XML
 
-*   [elixir-map-to-xml (⭐4)](https://github.com/gunnar2k/elixir-map-to-xml) - Converts an Elixir map to an XML document.
-*   [elixir-xml-to-map (⭐47)](https://github.com/homanchou/elixir-xml-to-map) - Creates an Elixir Map data structure from an XML string.
+*   [elixir-map-to-xml (⭐5)](https://github.com/gunnar2k/elixir-map-to-xml) - Converts an Elixir map to an XML document.
+*   [elixir-xml-to-map (⭐48)](https://github.com/homanchou/elixir-xml-to-map) - Creates an Elixir Map data structure from an XML string.
 
-## [68. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [67. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Construct Libraries / APIs
 

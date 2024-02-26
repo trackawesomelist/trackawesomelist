@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 13 - Aug 19, 2018
 
-42 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -175,7 +175,7 @@
 
 ### Shell Package Management / Directory Navigation
 
-*   [bashing (⭐72)](https://github.com/xsc/bashing) - Smashing Bash into Pieces
+*   [bashing (⭐73)](https://github.com/xsc/bashing) - Smashing Bash into Pieces
 
 ## [14. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -193,20 +193,26 @@
 
 ### Computer Science
 
-*   [Cryptography (⭐5.1k)](https://github.com/sobolevn/awesome-cryptography#readme)
+*   [Cryptography (⭐5.2k)](https://github.com/sobolevn/awesome-cryptography#readme)
     *   [Papers (⭐1.6k)](https://github.com/pFarb/awesome-crypto-papers#readme) - Theory basics for using cryptography by non-cryptographers.
 
 ### Media
 
-*   [FFmpeg (⭐912)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
+*   [FFmpeg (⭐921)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 
-## [17. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [17. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### Golang
+
+*   [Go 语言高级编程（Advanced Go Programming） (⭐19k)](https://github.com/chai2010/advanced-go-programming-book)
+
+## [18. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Speech Processing
 
 *   [Parselmouth (⭐894)](https://github.com/YannickJadoul/Parselmouth) [:octocat: (⭐894)](https://github.com/YannickJadoul/Parselmouth) [:package:](https://pypi.org/project/praat-parselmouth/) - Python interface to the [Praat](http://www.praat.org) phonetics and speech analysis, synthesis, and manipulation software.
 
-## [18. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [19. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Logging
 
@@ -214,9 +220,9 @@
 
 ### XML
 
-*   [saxy (⭐244)](https://github.com/qcam/saxy) - Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.
+*   [saxy (⭐247)](https://github.com/qcam/saxy) - Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.
 
-## [19. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [20. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Resources
 
@@ -246,7 +252,7 @@
 *   [Web Book](https://cliutils.gitlab.io/modern-cmake/) - An Introduction to Modern CMake.
 *   [YouTube Series](https://vector-of-bool.github.io/2018/08/12/cmake-good.html) - How to CMake Good. [`[CC0-1.0]`](https://creativecommons.org/publicdomain/zero/1.0/)
 
-## [20. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [21. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / UI libs
 
@@ -260,7 +266,7 @@
 
 *   [Ad Hoc Relationships with Ember Data](https://shipshape.io/blog/ad-hoc-relationships-with-ember-data/)
 
-## [21. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
+## [22. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
 
 ### Docs
 
@@ -282,7 +288,7 @@
 *   [Mailing Lists](https://www.ffmpeg.org/contact.html#MailingLists)
 *   [IRC](https://www.ffmpeg.org/contact.html#IRCChannels)
 
-## [22. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [23. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Go / General-Purpose Machine Learning
 
@@ -300,38 +306,38 @@
 
 *   [keras (⭐60k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐180k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.8k)](https://github.com/Theano/Theano).
 
-## [23. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [24. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [iOS-Specific Touch Action Methods](https://appiumpro.com/editions/30)
 
-## [24. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [25. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Capture
 
 *   [Netis Packet Agent (⭐929)](https://github.com/Netis/packet-agent): It is a remote data capture utility through GRE tunnel, which makes you easily capture packets from an NIC interface, encapsulate them with GRE and send them to a remote machine for monitoring and analysis.
 
-## [25. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [26. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@MikeMcQuaid](https://github.com/MikeMcQuaid), [Homebrew](https://github.com/Homebrew)
     *   "Research Study Interview: The Work of Maintaining Open Source Software" ([post](https://mikemcquaid.com/2019/05/20/research-study-interview-work-of-maintaining-open-source-software/))
     *   "The Open Source Contributor Funnel" ([post](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/), [video](https://www.youtube.com/watch?v=OsOZpF6LFcw), [slides](http://mikemcquaid.com/talks/the-open-source-contributor-funnel/))
 
-## [26. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [27. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [NextJS TypeScript Starter Kit (⭐343)](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS, Styled-jsx, Redux, PostCSS, configurable SEO
 *   [Typescript Monorepo Next Example (⭐43)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
 
-## [27. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [28. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
 *   [Vuejs Examples](https://vuejsexamples.com/)
 
-## [28. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [29. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Blockchain
 
@@ -342,7 +348,7 @@
 
 *   [fluentmigrator (⭐3k)](https://github.com/fluentmigrator/fluentmigrator) - Migration framework for .NET much like Ruby on Rails Migrations.
 
-## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Third party Guides
 
@@ -422,25 +428,25 @@
 
 *   [RxValidator (⭐154)](https://github.com/vbmania/RxValidator) - Simple, Extensible, Flexible Validation Checker.
 
-## [30. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [31. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Architecture support crates / ARM
 
 *   [`cortex-a`](https://github.com/andre-richter/cortex-a) Low-level access to Cortex-A processors (early state) - ![crates.io](https://img.shields.io/crates/v/cortex-a.svg)
 
-## [31. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [32. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
 *   [Realm export REST resource by Cloudtrust (⭐51)](https://github.com/cloudtrust/keycloak-export)
 
-## [32. Amas](/content/sindresorhus/amas/week/README.md)
+## [33. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Ali Spittel (⭐10)](https://github.com/aspittel/ama) - Teaching code, Python and JavaScript developer, blogger.
 
-## [33. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [34. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / Language Bindings
 
@@ -534,7 +540,7 @@
 
 *   [Cromwell (⭐881)](https://github.com/broadinstitute/cromwell#spark-backend) <img src="https://img.shields.io/github/last-commit/broadinstitute/cromwell.svg"> - Workflow management system with [Spark backend (⭐881)](https://github.com/broadinstitute/cromwell#spark-backend).
 
-## [34. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [35. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Articles
 
@@ -547,13 +553,13 @@
 *   [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
 *   [Rubberduck](https://www.rubberduck.io) Browser extension to adds code-aware navigation to GitHub pull requests.
 
-## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Service Level Agreement
 
 *   [SLOs & You: A Guide To Service Level Objectives](https://www.circonus.com/2018/07/a-guide-to-service-level-objectives/)
 
-## [36. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [37. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Wallets and Toolkits / Desktop
 
@@ -606,13 +612,13 @@
 
 *   [eosfilestore (⭐45)](https://github.com/grigio/eosfilestore) - Immutable, censorship resistant, cheap, file storage on EOSIO blockchain.
 
-## [37. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [38. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [malice.io (⭐1.4k)](https://github.com/maliceio/malice) - Massively scalable malware analysis framework.
 
-## [38. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
+## [39. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
 ### Documentation and Resources / Display Manager
 
@@ -629,7 +635,7 @@
 *   [Kreddit](https://www.reddit.com/r/kde/) - KDE Community on Reddit.
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/kde) - Questions tagged with `kde`.
 
-## [39. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [40. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Clocks
 
@@ -639,13 +645,13 @@
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/colorClockSaver.png)](https://github.com/edwardloveall/colorclocksaver)
 
-## [40. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [41. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Content Management Systems / Videos
 
 *   [SleepingOwlAdmin (⭐744)](https://github.com/LaravelRUS/SleepingOwlAdmin)
 
-## [41. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
+## [42. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
 ### Types of QA / Subtypes of QA
 
@@ -669,7 +675,7 @@
     *   DrQA <a name="drqa"></a>
         *   [Reading Wikipedia to Answer Open-Domain Questions](https://cs.stanford.edu/people/danqi/papers/acl2017.pdf), Danqi Chen, Adam Fisch, Jason Weston & Antoine Bordes, ACL, 2017.
 
-## [42. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [43. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Elastic Compute Cloud
 

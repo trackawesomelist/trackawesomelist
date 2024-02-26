@@ -954,7 +954,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Software / Automation
 
-*   [HRConvert2 (⭐808)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
+*   [HRConvert2 (⭐826)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -1112,7 +1112,7 @@ Topics: CSS, CSS in JS, React\
 
 ### ORM/ODM Extensions
 
-*   [crecto (⭐340)](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
+*   [crecto (⭐342)](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
 
 ## [77. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 

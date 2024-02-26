@@ -14,7 +14,7 @@
 
 ### Miscellaneous
 
-*   🍰 [Setup:Maintenance (⭐33)](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
+*   🍰 [Setup:Maintenance (⭐34)](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 
 ### Social
 
@@ -95,7 +95,7 @@
 
 ### Libraries
 
-*   [futil-js (⭐896)](https://github.com/smartprocure/futil-js) - A collection of functional utilities that could conceivably be part of a library like lodash/fp, but for some reason or other are not.
+*   [futil-js (⭐933)](https://github.com/smartprocure/futil-js) - A collection of functional utilities that could conceivably be part of a library like lodash/fp, but for some reason or other are not.
 
 ## [11. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 

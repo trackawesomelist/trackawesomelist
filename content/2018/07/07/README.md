@@ -26,11 +26,11 @@
 
 ### Contents / High-Availability
 
-*   [PAF (⭐321)](https://github.com/ClusterLabs/PAF) - PostgreSQL Automatic Failover: High-Availibility for Postgres, based on Pacemaker and Corosync.
+*   [PAF (⭐326)](https://github.com/ClusterLabs/PAF) - PostgreSQL Automatic Failover: High-Availibility for Postgres, based on Pacemaker and Corosync.
 
 ### Contents / Extensions
 
-*   [HypoPG (⭐926)](https://github.com/HypoPG/hypopg) - HypoPG provides hypothetical/virtual indexes feature.
+*   [HypoPG (⭐1.1k)](https://github.com/HypoPG/hypopg) - HypoPG provides hypothetical/virtual indexes feature.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

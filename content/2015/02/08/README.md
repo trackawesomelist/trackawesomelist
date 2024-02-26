@@ -20,11 +20,11 @@
 
 ### Audio and Sounds
 
-*   [erlaudio (⭐25)](https://github.com/asonge/erlaudio) - Erlang PortAudio bindings.
+*   [erlaudio (⭐26)](https://github.com/asonge/erlaudio) - Erlang PortAudio bindings.
 
 ### Cryptography
 
-*   [cipher (⭐60)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
+*   [cipher (⭐59)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
 *   [exgpg (⭐18)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
 *   [pot (⭐232)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
 
@@ -34,7 +34,7 @@
 
 ### Email
 
-*   [gen\_smtp (⭐667)](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
+*   [gen\_smtp (⭐673)](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
 
 ### Examples and funny stuff
 
@@ -56,7 +56,7 @@
 
 *   [esqlite (⭐121)](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
 *   [sqlitex (⭐119)](https://github.com/mmmries/sqlitex) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
-*   [tds (⭐109)](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
+*   [tds (⭐110)](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
 *   [yar (⭐8)](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
 
 ### Templating
@@ -81,7 +81,7 @@
 
 ### Websites
 
-*   [Elixir Github Wiki (⭐22k)](https://github.com/elixir-lang/elixir/wiki) - The project's wiki, containing much useful information.
+*   [Elixir Github Wiki (⭐23k)](https://github.com/elixir-lang/elixir/wiki) - The project's wiki, containing much useful information.
 
 ---
 

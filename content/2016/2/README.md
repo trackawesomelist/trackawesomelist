@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 11 - Jan 17, 2016
 
-41 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -472,7 +472,7 @@ git commit --amend --reset-author --no-edit
 
 ### Games
 
-*   [entice (⭐117)](https://github.com/entice/entice) - A distributed Entity-Component-System framework, providing its own example MMORPG server.
+*   [entice (⭐119)](https://github.com/entice/entice) - A distributed Entity-Component-System framework, providing its own example MMORPG server.
 
 ### HTTP
 
@@ -481,11 +481,11 @@ git commit --amend --reset-author --no-edit
 ### Logging
 
 *   [exsentry](https://github.com/appcues/exsentry) - Error logging to [Sentry](https://getsentry.com/).
-*   [honeybadger (⭐172)](https://github.com/honeybadger-io/honeybadger-elixir) - Error logging to [Honeybadger](https://www.honeybadger.io/).
+*   [honeybadger (⭐176)](https://github.com/honeybadger-io/honeybadger-elixir) - Error logging to [Honeybadger](https://www.honeybadger.io/).
 
 ### ORM and Datamapping
 
-*   [arc\_ecto (⭐252)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
+*   [arc\_ecto (⭐253)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
 *   [exnumerator (⭐64)](https://github.com/KamilLelonek/exnumerator) - Elixir enumerable type definition in a simple way to be used with any database.
 
 ### Queue
@@ -739,7 +739,17 @@ Webpage: <http://www.perfectcupchicago.com/>
 
 *   [bitrix24.com](https://www.bitrix24.com/) — Intranet and project management tool. The free plan has 5GB for unlimited users.
 
-## [40. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [40. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### Android
+
+*   [Android Note(开发过程中积累的知识点) (⭐3.4k)](https://github.com/CharonChui/AndroidNote)
+
+### Swift / Django
+
+*   [《The Swift Programming Language》中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
+
+## [41. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -749,7 +759,7 @@ Webpage: <http://www.perfectcupchicago.com/>
 
 *   [Beets (⭐12k)](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 
-## [41. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [42. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / Network
 

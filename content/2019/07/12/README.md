@@ -1,24 +1,18 @@
 # Awesome List Updates on Jul 12, 2019
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Json](/content/burningtree/awesome-json/README.md)
-
-### Online tools
-
-*   [JSONLog](https://jsonlog.io/docs) - Logging and visualization of JSON from any client.
-
-## [2. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md)
+## [1. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md)
 
 ### Web Apps (frontend only) / [Codesandbox](https://github.com/CompuIves/codesandbox-client)
 
 *   react, nginx, phoenix
 
-## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Misc
 
@@ -36,19 +30,19 @@
 
 *   [VKPinCodeView (⭐96)](https://github.com/Sunspension/VKPinCodeView) - Simple and elegant UI component for input PIN.
 
-## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
 *   [Remote People](https://remotepeople.io/)
 
-## [5. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
+## [4. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
 ### Table of Contents / Repos
 
 *   [Bow (⭐642)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
 
-## [6. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [5. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Containerization
 
@@ -75,13 +69,13 @@
 
 *   [rctf-list (⭐30)](https://github.com/aliasrobotics/RCTF) - A list of Robotics CTF (RCTF) scenarios.
 
-## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Books
 
 *   [foy (⭐240)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 
-## [8. Awesome Qlik](/content/ambster-public/awesome-qlik/README.md)
+## [7. Awesome Qlik](/content/ambster-public/awesome-qlik/README.md)
 
 ### Official Resources and Documentation
 
@@ -93,7 +87,7 @@
 *   [QlikView Cookbook](https://qlikviewcookbook.com/) - A technical 'how-to' blog for QlikView developers, by Rob Wunderlich.
 *   [Quick Intelligence](https://www.quickintelligence.co.uk/blog/) - A blog where a skilled team of Qlik developers lead by Steve Dark, providing tips on working in Qlik Sense and QlikView.
 
-## [9. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [8. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Learn
 

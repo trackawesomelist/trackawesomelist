@@ -79,7 +79,7 @@
 
 ### Third-party APIs
 
-*   [aws-signer.cr (⭐12)](https://github.com/beanieboi/aws-signer.cr) - This library signs your HTTP requests using AWS v4
+*   [aws-signer.cr (⭐13)](https://github.com/beanieboi/aws-signer.cr) - This library signs your HTTP requests using AWS v4
 
 ## [10. Awesome OpenSourcePhotography](/content/ibaaj/awesome-OpenSourcePhotography/week/README.md)
 
@@ -123,7 +123,7 @@
 
 ### E-Commerce and Payments
 
-*   [Braintree (⭐436)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
+*   [Braintree (⭐439)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 
 ## [15. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
@@ -142,8 +142,8 @@
 ### Artificial Intelligence
 
 *   [ANNetGPGPU (⭐101)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
-*   [Recast/Detour (⭐6k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
-*   [Veles (⭐902)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
+*   [Recast/Detour (⭐6.1k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
+*   [Veles (⭐903)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
 
 ### Multimedia
 

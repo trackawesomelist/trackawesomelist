@@ -66,38 +66,9 @@
 
 ## [4. Awesome Python](/content/vinta/awesome-python/README.md)
 
-### Build Tools
-
-*   [PlatformIO (⭐6.9k)](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms.
-
-### CMS
-
-*   [django-cms](https://www.django-cms.org/en/) - An Open source enterprise CMS based on the Django.
-
-### Data Analysis
-
-*   [Orange](https://orange.biolab.si/) - Data mining, data visualization, analysis and machine learning through visual programming or scripts.
-
-### Data Validation
-
-*   [Cerberus (⭐3k)](https://github.com/pyeve/cerberus) - A lightweight and extensible data validation library.
-*   [colander](https://docs.pylonsproject.org/projects/colander/en/latest/) - Validating and deserializing data obtained via XML, JSON, an HTML form post.
-
-### Distribution
-
-*   [pynsist](http://pynsist.readthedocs.io/en/latest/) - A tool to build Windows installers, installers bundle Python itself.
-
-### E-commerce
-
-*   [shoop](https://www.shuup.com/en/) - An open source E-Commerce platform based on Django.
-
 ### Environment Management
 
-*   [pyenv (⭐32k)](https://github.com/pyenv/pyenv) - Simple Python version management.
-
-### Forms
-
-*   [django-crispy-forms (⭐4.7k)](https://github.com/django-crispy-forms/django-crispy-forms) - A Django app which lets you create beautiful forms in a very elegant and DRY way.
+*   [pyenv (⭐35k)](https://github.com/pyenv/pyenv) - Simple Python version management.
 
 ### GUI Development
 
@@ -114,16 +85,16 @@
 
 ### Package Repositories
 
-*   [localshop (⭐390)](https://github.com/jazzband/localshop) - Local PyPI server (custom packages and auto-mirroring of pypi).
+*   [localshop (⭐392)](https://github.com/jazzband/localshop) - Local PyPI server (custom packages and auto-mirroring of pypi).
 
 ### RESTful API
 
 *   Pyramid
-    *   [cornice (⭐374)](https://github.com/Cornices/cornice) - A RESTful framework for Pyramid.
+    *   [cornice (⭐378)](https://github.com/Cornices/cornice) - A RESTful framework for Pyramid.
 
 ### Science
 
-*   [ObsPy (⭐1k)](https://github.com/obspy/obspy/wiki/) - A Python toolbox for seismology.
+*   [ObsPy (⭐1.1k)](https://github.com/obspy/obspy/wiki/) - A Python toolbox for seismology.
 *   [SciPy](https://www.scipy.org/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
 
 ### Specific Formats Processing
@@ -134,13 +105,13 @@
 ### Testing
 
 *   Test Runners
-    *   [green (⭐767)](https://github.com/CleanCut/green) - A clean, colorful test runner.
+    *   [green (⭐780)](https://github.com/CleanCut/green) - A clean, colorful test runner.
     *   [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of BDD.
     *   [tox](https://tox.readthedocs.io/en/latest/) - Auto builds and tests distributions in multiple Python versions
 
 ### Third-party APIs
 
-*   [django-wordpress (⭐339)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
+*   [django-wordpress (⭐344)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -237,12 +208,12 @@
 ### Databases
 
 *   [Lawnchair (⭐2.1k)](https://github.com/brianleroux/lawnchair) - A lightweight clientside document store. (Javascript)
-*   [RxDB (⭐18k)](https://github.com/pubkey/rxdb) - Event-driven JSON-Database with JSON-Schema, mango-Query and CouchDB-sync. (Javascript)
+*   [RxDB (⭐20k)](https://github.com/pubkey/rxdb) - Event-driven JSON-Database with JSON-Schema, mango-Query and CouchDB-sync. (Javascript)
 
 ### Format Extensions
 
 *   [JSON-LD](https://json-ld.org/) - A lightweight Linked Data format.
-*   [JSON6 (⭐214)](https://github.com/d3x0r/json6) - JSON for Humans (ES6).
+*   [JSON6 (⭐230)](https://github.com/d3x0r/json6) - JSON for Humans (ES6).
 
 ### Libraries
 
@@ -255,12 +226,12 @@
 
 ### Services
 
-*   [JSONProxy (⭐303)](https://github.com/afeld/jsonp) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
+*   [JSONProxy (⭐300)](https://github.com/afeld/jsonp) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
 
 ### Transformations
 
-*   [JSON-populate (⭐142)](https://github.com/eiriklv/json-populate) - Tool for populating JSON data with infinitely recursive circular references. Sort of like Falcor, but for plain JSON.
-*   [CircularJSON (⭐598)](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
+*   [JSON-populate (⭐152)](https://github.com/eiriklv/json-populate) - Tool for populating JSON data with infinitely recursive circular references. Sort of like Falcor, but for plain JSON.
+*   [CircularJSON (⭐601)](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
 
 ## [11. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 

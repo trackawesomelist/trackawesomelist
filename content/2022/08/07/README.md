@@ -60,7 +60,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [alias-finder (⭐9)](https://github.com/akash329d/zsh-alias-finder) - Displays an alias when you use a command you have aliased previously. Helpful for remembering aliases you have defined in the past. Written as a pure ZSH script for speed.
+*   [alias-finder (⭐10)](https://github.com/akash329d/zsh-alias-finder) - Displays an alias when you use a command you have aliased previously. Helpful for remembering aliases you have defined in the past. Written as a pure ZSH script for speed.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -70,7 +70,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Scene Manager (⭐215)](https://github.com/glass-brick/Scene-Manager) - Make nice and customizable scene transitions in one line of code (Godot 3.x, 4.0.alpha).
+*   [Scene Manager (⭐220)](https://github.com/glass-brick/Scene-Manager) - Make nice and customizable scene transitions in one line of code (Godot 3.x, 4.0.alpha).
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Templates / React
 
-*   [vite-react-ts-ghactions-template (⭐45)](https://github.com/pchmn/vite-react-ts-ghactions-template) - React, TypeScript, Vitest + React Testing Library, GitHub Actions + GitHub Pages, ESLint, Prettier, Husky, Commitlint.
+*   [vite-react-ts-ghactions-template (⭐46)](https://github.com/pchmn/vite-react-ts-ghactions-template) - React, TypeScript, Vitest + React Testing Library, GitHub Actions + GitHub Pages, ESLint, Prettier, Husky, Commitlint.
 
 ## [11. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -132,7 +132,7 @@
 
 ### Generators
 
-*   [copygen (⭐313)](https://github.com/switchupcb/copygen) - Generate type-to-type and type-based code without reflection.
+*   [copygen (⭐316)](https://github.com/switchupcb/copygen) - Generate type-to-type and type-based code without reflection.
 
 ## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

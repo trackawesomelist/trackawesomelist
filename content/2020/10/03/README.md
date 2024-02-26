@@ -185,7 +185,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Game Engine
 
-*   [nCine (⭐951)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
+*   [nCine (⭐956)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
 
 ## [18. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -197,7 +197,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Machine Learning
 
-*   [gym (⭐32k)](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+*   [gym (⭐34k)](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 
 ## [20. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -215,7 +215,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries
 
-*   [Rambdax (⭐214)](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
+*   [Rambdax (⭐215)](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
 
 ## [23. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -322,7 +322,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Testing
 
-*   [willowtreeapps/assertk (⭐700)](https://github.com/willowtreeapps/assertk) - assertions for kotlin inspired by assertj
+*   [willowtreeapps/assertk (⭐703)](https://github.com/willowtreeapps/assertk) - assertions for kotlin inspired by assertj
 
 ### Libraries/Frameworks / Dependency Injection
 
@@ -331,7 +331,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Coroutines
 
-*   [konrad-kaminski/spring-kotlin-coroutine (⭐444)](https://github.com/konrad-kaminski/spring-kotlin-coroutine) - Kotlin coroutine support for Spring.
+*   [konrad-kaminski/spring-kotlin-coroutine (⭐447)](https://github.com/konrad-kaminski/spring-kotlin-coroutine) - Kotlin coroutine support for Spring.
 *   [marcoferrer/kroto-plus (⭐493)](https://github.com/marcoferrer/kroto-plus) - Protoc plugin for bringing together Kotlin, Protobuf, Coroutines, and gRPC.
 
 ### Libraries/Frameworks / Functional Programming
@@ -358,12 +358,12 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Compiler Plugins
 
-*   [aafanasev/sekret (⭐107)](https://github.com/aafanasev/sekret) - Kotlin compiler plugin to exclude secret properties from toString() of Data class
-*   [AhmedMourad0/no-copy (⭐149)](https://github.com/AhmedMourad0/no-copy) - A Kotlin compiler plugin that performs 'copy-erasure' on data classes.
+*   [aafanasev/sekret (⭐108)](https://github.com/aafanasev/sekret) - Kotlin compiler plugin to exclude secret properties from toString() of Data class
+*   [AhmedMourad0/no-copy (⭐150)](https://github.com/AhmedMourad0/no-copy) - A Kotlin compiler plugin that performs 'copy-erasure' on data classes.
 
 ### Libraries/Frameworks / Continuous Integration
 
-*   [danger/kotlin (⭐473)](https://github.com/danger/kotlin) - Stop saying "you forgot to …" in code review in Kotlin
+*   [danger/kotlin (⭐476)](https://github.com/danger/kotlin) - Stop saying "you forgot to …" in code review in Kotlin
 
 ### Libraries/Frameworks / Code Generators
 
@@ -392,15 +392,15 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Graphics
 
-*   [java-opengl-labs/Vulkan (⭐50)](https://github.com/java-opengl-labs/Vulkan) - port of [https://github.com/SaschaWillems/Vulkan (⭐9.4k)](https://github.com/SaschaWillems/Vulkan)
+*   [java-opengl-labs/Vulkan (⭐50)](https://github.com/java-opengl-labs/Vulkan) - port of [https://github.com/SaschaWillems/Vulkan (⭐9.5k)](https://github.com/SaschaWillems/Vulkan)
 *   [nwillc/ksvg (⭐78)](https://github.com/nwillc/ksvg) - Kotlin SVG image generation DSL, supporting inline and file formats.
-*   [markaren/three.kt (⭐200)](https://github.com/markaren/three.kt) - Kotlin port of three.js JavaScript 3D library
+*   [markaren/three.kt (⭐202)](https://github.com/markaren/three.kt) - Kotlin port of three.js JavaScript 3D library
 
 ### Libraries/Frameworks / Data Science
 
 *   [Kotlin for Data Science](https://kotlinlang.org/docs/reference/data-science-overview.html) - Kotlin for Data Science overview page
 *   [kiegroup/optaplanner](https://www.optaplanner.org/compatibility/kotlin.html) - Constraint solving AI for planning and scheduling problems.
-*   [breandan/kotlingrad (⭐502)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
+*   [breandan/kotlingrad (⭐504)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
 
 ### Libraries/Frameworks / Command Line Interface
 

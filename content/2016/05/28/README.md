@@ -12,7 +12,13 @@
 
 *   [Bloomery (⭐16)](https://github.com/ufukomer/bloomery) - Web UI for Impala.
 
-## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+
+### CLI Builders
+
+*   [commander (⭐124)](https://github.com/mrrooijen/commander) - Command-line interface builder
+
+## [3. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Build Tools / Bare metal / kernel development
 
@@ -41,23 +47,13 @@
 
 *   [inifile-D (⭐23)](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
 
-## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Datasets / Topic-specific
 
 *   [Network Repository](http://networkrepository.com/) - Fully searchable database containing hundreds of real-world networks.
 *   [SocioPatterns Datasets](http://www.sociopatterns.org/datasets/) - Network data obtained through the [SocioPatterns](http://www.sociopatterns.org/) sensing platform.
 *   [UCINET Datasets](https://sites.google.com/site/ucinetsoftware/datasets) - Network data in UCINET format.
-
-## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
-
-### CLI Builders
-
-*   [commander (⭐125)](https://github.com/mrrooijen/commander) - Command-line interface builder
-
-### Web Frameworks
-
-*   [IRC](http://irc.lc/freenode/crystal-lang) - #crystal-lang on Freenode
 
 ## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

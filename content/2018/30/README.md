@@ -20,7 +20,7 @@
 
 ### C++ Libraries
 
-*   [libwally-core (⭐262)](https://github.com/ElementsProject/libwally-core)
+*   [libwally-core (⭐268)](https://github.com/ElementsProject/libwally-core)
 
 ## [3. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -150,7 +150,7 @@
 
 ### Platforms
 
-*   [Amazon Alexa (⭐566)](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
+*   [Amazon Alexa (⭐571)](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
 
 ### Work
 
@@ -159,7 +159,7 @@
 ### Miscellaneous
 
 *   [Open Source Maintainers (⭐1.1k)](https://github.com/nayafia/awesome-maintainers#readme) - The experience of being an open source maintainer.
-*   [Calculators (⭐150)](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
+*   [Calculators (⭐156)](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
 *   [Captcha (⭐1.1k)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
 
 ## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
@@ -479,7 +479,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 ### Utilities / General Tools
 
-*   [Mac Cache Cleaner (⭐222)](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kaunteya/MacCacheCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Mac Cache Cleaner (⭐224)](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kaunteya/MacCacheCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [41. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
 
@@ -497,11 +497,11 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 ### Contents / Backups
 
-*   [pg\_back (⭐281)](https://github.com/orgrim/pg_back/) - pg\_back is a simple backup script
+*   [pg\_back (⭐327)](https://github.com/orgrim/pg_back/) - pg\_back is a simple backup script
 
 ### Contents / Utilities
 
-*   [pg\_chameleon (⭐346)](https://github.com/the4thdoctor/pg_chameleon) - Real time replica from MySQL to PostgreSQL with optional type override migration and migration capabilities.
+*   [pg\_chameleon (⭐360)](https://github.com/the4thdoctor/pg_chameleon) - Real time replica from MySQL to PostgreSQL with optional type override migration and migration capabilities.
 *   [pg\_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - It's a high speed data loading utility for PostgreSQL.
 
 ## [44. Awesome](/content/craftcms/awesome/week/README.md)

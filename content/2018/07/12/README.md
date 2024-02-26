@@ -10,17 +10,13 @@
 
 ### Other Tools / Telegram
 
-*   [Orbit (⭐472)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
+*   [Orbit (⭐502)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 
 ## [2. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Online Books
 
 *   [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) - A free book for when you really need to know how to do Bézier things.
-
-### Quick References • Cheatsheets / Other
-
-*   [Procedural Patterns And Noises](http://www.neilblevins.com/cg_education/procedural_noise/procedural_noise.html) - Collection of procedural patterns and procedural noises.
 
 ### Other / Other
 

@@ -330,10 +330,11 @@ A collection of urban planning related data specifications and standards for use
 *   [SIRI](https://www.transmodel-cen.eu/siri-standard/) - Service Interface for Real Time Information (SIRI) is a European standard for real-time information which has had limited adoption in the United States, but would be compatible with hardware and network systems which meet European standards.
 *   [shared-row (⭐16)](https://github.com/d-wasserman/shared-row) - A data specification for representing street right of ways.
 *   [OpenSidewalks (⭐31)](https://github.com/OpenSidewalks/OpenSidewalks-Schema) - A data specification for routable pedestrian networks and describing and sharing pedestrian network and pedestrian network-adjacent data.
-*   [GBFS (⭐749)](https://github.com/NABSA/gbfs) - The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
-*   [MDS (⭐653)](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
+*   [GBFS (⭐754)](https://github.com/NABSA/gbfs) - The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
+*   [MDS (⭐658)](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
 *   [MTLFS (⭐9)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - The Managed and Tolled Lanes Feed Specification is intended to be used by the managed lanes and toll industry for the standardization and sharing of dynamic toll rates, and any managed lane purpose including but not limited to, ramp metering, bus only lanes, express lanes, especially if the resources are being priced dynamically.
-*   [GMNS (⭐94)](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
+*   [GMNS (⭐96)](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
+*   [OpenDrive](https://www.asam.net/standards/detail/opendrive/) - The data that is stored in an ASAM OpenDRIVE file describes the geometry of roads, lanes and objects, such as roadmarks on the road, as well as features along the roads, like signals.
 
 ## Planning Coding Resources
 
@@ -355,7 +356,7 @@ Python Libraries & Related Resources.
 *   [UrbanSim (⭐461)](https://github.com/udst/urbansim) - UrbanSim is a platform for building statistical models of cities and regions. These models help forecast long-range patterns in real estate development, demographics, and related outcomes, under various policy scenarios. Information: License: BSD License: Provider: UrbanSim Inc. (UDST).
 *   [Geosnap (⭐223)](https://github.com/spatialucr/geosnap) - Geospatial & temporal neighborhood analysis using US Census Data.
 *   [OSMnx (⭐4.6k)](https://github.com/gboeing/osmnx) - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
-*   [Pybikes (⭐524)](https://github.com/eskerda/pybikes) - Pybikes provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
+*   [Pybikes (⭐530)](https://github.com/eskerda/pybikes) - Pybikes provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
 *   [Leafmap (⭐2.8k)](https://github.com/giswqs/leafmap) - Leafmap is a free and open-source Python package that enables users to analyze and visualize geospatial data with minimal coding in a Jupyter environment. Leafmap's interactive GUI allows no code layer management and analysis including a powerful analytical backend (i.e., [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html)). Additional Information: [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
 *   [Prettymaps (⭐11k)](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data.
 *   [HerePy (⭐84)](https://github.com/abdullahselek/HerePy) - A library that provides a Python interface to HERE APIs.
@@ -384,7 +385,7 @@ R Packages & Related Resources.
 *   [Motif](https://cran.r-project.org/web/packages/motif/index.html) - Describes spatial patterns of categorical raster data for any defined regular and irregular areas. It enables spatial analysis such as search, change detection, and clustering to be performed on spatial patterns.
 *   [Raster](https://cran.r-project.org/web/packages/raster/index.html) - Reading, writing, manipulating, analyzing and modeling of spatial data. The package implements basic and high-level functions for raster data and for vector data operations such as intersections.
 *   [Rgee (⭐605)](https://github.com/r-spatial/rgee) - Is an R binding package for calling Google Earth Engine API from within R. Various functions are implemented to simplify the connection with the R spatial ecosystem.
-*   [r5r (⭐168)](https://github.com/ipeaGIT/r5r) - Is an R package for rapid realistic routing on multimodal transport networks (walk, bike, public transport and car) leveraging the Conveyal R5 routing engine.
+*   [r5r (⭐170)](https://github.com/ipeaGIT/r5r) - Is an R package for rapid realistic routing on multimodal transport networks (walk, bike, public transport and car) leveraging the Conveyal R5 routing engine.
 *   [Sfnetworks](https://cran.r-project.org/web/packages/sfnetworks/index.html) - Provides a tidy approach to spatial network analysis.
 *   [Stars](https://cran.r-project.org/web/packages/stars/index.html) - Reading, manipulating, writing and plotting spatiotemporal arrays (raster and vector data cubes) in 'R'.
 *   [stplanr](https://cran.r-project.org/web/packages/stplanr/index.html) - Tools for transport planning with an emphasis on spatial transport data and non-motorized modes including OD data processing and other functions.
@@ -431,6 +432,7 @@ Software, tools, and platforms that employ models that draw inferences from data
 *   [ChatGPT](https://chat.openai.com/) - ChatGPT is an advanced language model designed to generate human-like text responses and engage in conversational interactions. Additional Information: [Act Like a Planner](https://apa-technology-division.github.io/like-a-planner).
 *   [University of Oregon, AI Software List](https://blogs.uoregon.edu/artificialintelligence/ai-software/) - A blog cataloguing existing AI resources compiled by university researchers and local policy experts.
 *   [OECD AI Policy Observatory](https://oecd.ai/en/) - OECD AI Policy Observatory provides a platform for resources on applications, poicy implications, and literature regarding Artificial Intelligence.
+*   [LM Studio](https://lmstudio.ai/) - This [free for personal use](https://lmstudio.ai/terms) software enables users to download large language models and run them locally within a desktop chat interface.
 
 ### Environmental and Climate Planning Tools and Platforms
 
@@ -583,7 +585,7 @@ Other types of planning data & technology resources. They are a good source of i
 
 This page is registered as an [awesome-list](https://github.com/topics/awesome-list), but similar GitHub repositories can be listed here. These are managed curations of resources that relate to different topics.
 
-*   [awesome-transit (⭐1.1k)](https://github.com/CUTR-at-USF/awesome-transit) - A collection of transit data tools and resources.
+*   [awesome-transit (⭐1.2k)](https://github.com/CUTR-at-USF/awesome-transit) - A collection of transit data tools and resources.
 *   [micromobility-tools-and-resources (⭐31)](https://github.com/NABSA/micromobility-tools-and-resources) - A collection of micromobility tools and data resources.
 *   [awesome-sustainable-technology (⭐1.8k)](https://github.com/protontypes/open-sustainable-technology) - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.
 *   [awesome-gis (⭐4k)](https://github.com/sshuair/awesome-gis) - Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.

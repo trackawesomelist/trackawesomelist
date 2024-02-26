@@ -16,7 +16,7 @@
 
 ### Table of Contents / Files
 
-*   [UnifiedArchive (⭐271)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
+*   [UnifiedArchive (⭐272)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 
 ## [3. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 

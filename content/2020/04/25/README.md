@@ -83,16 +83,16 @@ Language: English
 
 ### Contents / Backups
 
-*   [wal-g (⭐2.6k)](https://github.com/wal-g/wal-g) - The successor of WAL-E rewritten in Go. Currently supports cloud object storage services by AWS (S3), Google Cloud (GCS), Azure, as well as OpenStack Swift, MinIO, and file system storages. Supports block-level incremental backups, offloading backup tasks to a standby server, provides parallelization and throttling options. In addition to Postgres, WAL-G can be used for MySQL and MongoDB databases.
+*   [wal-g (⭐2.9k)](https://github.com/wal-g/wal-g) - The successor of WAL-E rewritten in Go. Currently supports cloud object storage services by AWS (S3), Google Cloud (GCS), Azure, as well as OpenStack Swift, MinIO, and file system storages. Supports block-level incremental backups, offloading backup tasks to a standby server, provides parallelization and throttling options. In addition to Postgres, WAL-G can be used for MySQL and MongoDB databases.
 
 ### Contents / CLI
 
-*   [pgsh (⭐523)](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
-*   [schemaspy (⭐2.6k)](https://github.com/schemaspy/schemaspy) - SchemaSpy is a JAVA JDBC-compliant tool for generating your database to HTML documentation, including Entity Relationship diagrams
+*   [pgsh (⭐542)](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
+*   [schemaspy (⭐2.9k)](https://github.com/schemaspy/schemaspy) - SchemaSpy is a JAVA JDBC-compliant tool for generating your database to HTML documentation, including Entity Relationship diagrams
 
 ### Contents / Monitoring
 
-*   [PMM (⭐361)](https://github.com/percona/pmm) - Percona Monitoring and Management (PMM) is a Free and Open Source platform for monitoring and managing PostgreSQL, MySQL, and MongoDB.
+*   [PMM (⭐499)](https://github.com/percona/pmm) - Percona Monitoring and Management (PMM) is a Free and Open Source platform for monitoring and managing PostgreSQL, MySQL, and MongoDB.
 *   [pgmetrics](https://pgmetrics.io/) - pgmetrics is an open-source, zero-dependency, single-binary tool that can collect a lot of information and statistics from a running PostgreSQL server and display it in easy-to-read text format or export it as JSON and CSV for scripting.
 *   [okmeter.io](https://okmeter.io/pg) - Commercial SaaS agent-based monitoring with a very detailed PostgreSQL plugin. It automatically gathers 100s of stats, displays dashboards on every aspect and sends alerts when something goes wrong (Commercial Software).
 
@@ -103,21 +103,21 @@ Language: English
 ### Contents / Optimization
 
 *   [pg\_flame (⭐1.5k)](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
-*   [TimescaleDB Tune (⭐347)](https://github.com/timescale/timescaledb-tune) - a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.
+*   [TimescaleDB Tune (⭐390)](https://github.com/timescale/timescaledb-tune) - a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.
 
 ### Contents / Utilities
 
-*   [Hasura GraphQL Engine (⭐30k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
-*   [pg\_activity (⭐2.1k)](https://github.com/dalibo/pg_activity) - top like application for PostgreSQL server activity monitoring.
+*   [Hasura GraphQL Engine (⭐31k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+*   [pg\_activity (⭐2.3k)](https://github.com/dalibo/pg_activity) - top like application for PostgreSQL server activity monitoring.
 *   [PgBouncer](http://www.pgbouncer.org/) - Lightweight connection pooler for PostgreSQL.
 *   [pgpool-II](https://www.pgpool.net/mediawiki/index.php/Main_Page) - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections.
 
 ### Contents / Language bindings
 
-*   Go: [pq (⭐8.1k)](https://github.com/lib/pq), [pgx (⭐7.3k)](https://github.com/jackc/pgx)
-*   Node: [node-postgres (⭐11k)](https://github.com/brianc/node-postgres), [pg-promise (⭐3.3k)](https://github.com/vitaly-t/pg-promise), [pogi (⭐138)](https://github.com/holdfenytolvaj/pogi), [slonik (⭐3.9k)](https://github.com/gajus/slonik), [postgres (⭐4.6k)](https://github.com/porsager/postgres)
+*   Go: [pq (⭐8.6k)](https://github.com/lib/pq), [pgx (⭐9k)](https://github.com/jackc/pgx)
+*   Node: [node-postgres (⭐12k)](https://github.com/brianc/node-postgres), [pg-promise (⭐3.4k)](https://github.com/vitaly-t/pg-promise), [pogi (⭐138)](https://github.com/holdfenytolvaj/pogi), [slonik (⭐4.3k)](https://github.com/gajus/slonik), [postgres (⭐6.4k)](https://github.com/porsager/postgres)
 *   Python: [psycopg2](https://pypi.org/project/psycopg2/), [asyncpg](https://pypi.org/project/asyncpg/)
-*   Ruby: [pg (⭐695)](https://github.com/ged/ruby-pg)
+*   Ruby: [pg (⭐739)](https://github.com/ged/ruby-pg)
 
 ### Resources / Articles
 
@@ -134,7 +134,7 @@ Language: English
 *   [Mailing lists](https://www.postgresql.org/list/) - Official mailing lists for Postgres for support, outreach, and more. One of the primary channels of communication in the Postgres community.
 *   [Reddit](https://www.reddit.com/r/PostgreSQL/) - A reddit community for PostgreSQL users with over 12000 users
 *   [Slack](https://postgres-slack.herokuapp.com/) - Slack channel for Postgres with over 7000 users
-*   Telegram - Several groups for PostgreSQL in different langauges: [Russian](https://t.me/pgsql) >4200 people, [Brazilian Portuguese](https://t.me/postgresqlbr) >2300 people, [Indonesian](https://t.me/postgresql_id) \~1000 people, [English](https://t.me/postgreschat) >750 people
+*   Telegram - Several groups for PostgreSQL in different languages: [Russian](https://t.me/pgsql) >4200 people, [Brazilian Portuguese](https://t.me/postgresqlbr) >2300 people, [Indonesian](https://t.me/postgresql_id) \~1000 people, [English](https://t.me/postgreschat) >750 people
 *   [#postgresql on Freenode](https://webchat.freenode.net/#postgresql) - The most popular IRC channel about Postgres on Freenode with over 1000 users
 
 ## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)

@@ -34,8 +34,8 @@
 
 ### Natural Language Processing
 
-*   [text2vec (⭐832)](https://github.com/dselivanov/text2vec) - Fast Text Mining Framework for Vectorization and Word Embeddings.
-*   [quanteda (⭐806)](https://github.com/kbenoit/quanteda) - R functions for Quantitative Analysis of Textual Data.
+*   [text2vec (⭐836)](https://github.com/dselivanov/text2vec) - Fast Text Mining Framework for Vectorization and Word Embeddings.
+*   [quanteda (⭐815)](https://github.com/kbenoit/quanteda) - R functions for Quantitative Analysis of Textual Data.
 
 ---
 

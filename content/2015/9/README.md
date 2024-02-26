@@ -65,7 +65,7 @@
 
 ### Algorithms and Data structures
 
-*   [eastar (⭐29)](https://github.com/herenowcoder/eastar) - A\* graph pathfinding in pure Elixir.
+*   [eastar (⭐30)](https://github.com/herenowcoder/eastar) - A\* graph pathfinding in pure Elixir.
 *   [fnv (⭐5)](https://github.com/asaaki/fnv.ex) - Pure Elixir implementation of Fowler–Noll–Vo hash functions.
 *   [remodel (⭐141)](https://github.com/stavro/remodel) - An Elixir presenter package used to transform map structures.
 
@@ -75,7 +75,7 @@
 
 ### Debugging
 
-*   [quaff (⭐81)](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
+*   [quaff (⭐82)](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
 
 ### Examples and funny stuff
 
@@ -89,7 +89,7 @@
 ### ORM and Datamapping
 
 *   [ecto\_lazy\_float (⭐6)](https://github.com/joshdholtz/ecto-lazy-float) - Ecto.LazyFloat - An Ecto.Float that accepts binary and integers.
-*   [riak (⭐200)](https://github.com/drewkerrigan/riak-elixir-client) - A Riak client written in Elixir.
+*   [riak (⭐199)](https://github.com/drewkerrigan/riak-elixir-client) - A Riak client written in Elixir.
 *   [tds\_ecto (⭐57)](https://github.com/livehelpnow/tds_ecto) - MSSQL / TDS Adapter for Ecto.
 
 ### Text and Numbers
@@ -100,7 +100,7 @@
 
 *   [edgarex (⭐1)](https://github.com/rozap/edgarex) - Elixir interface for fetching SEC filings from EDGAR.
 *   [everex (⭐10)](https://github.com/jwarlander/everex) - Evernote API client for Elixir.
-*   [pusher (⭐24)](https://github.com/edgurgel/pusher) - Elixir library to access the Pusher REST API.
+*   [pusher (⭐25)](https://github.com/edgurgel/pusher) - Elixir library to access the Pusher REST API.
 
 ## [10. Awesome Workshopper](/content/therebelrobot/awesome-workshopper/week/README.md)
 

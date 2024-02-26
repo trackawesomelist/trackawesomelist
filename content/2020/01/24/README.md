@@ -86,7 +86,7 @@
 
 ### Responsive / Syntax Highlight
 
-*   [primereact (⭐5.2k)](https://github.com/primefaces/primereact) - A complete UI Framework with 50+ components featuring material, bootstrap and custom themes.
+*   [primereact (⭐5.4k)](https://github.com/primefaces/primereact) - A complete UI Framework with 50+ components featuring material, bootstrap and custom themes.
 
 ## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

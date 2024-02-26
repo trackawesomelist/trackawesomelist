@@ -1,6 +1,6 @@
 # Awesome List Updates on May 09, 2015
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,7 @@
 
 *   [AudioPlayer (⭐706)](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
 
-## [2. Awesome R](/content/qinwf/awesome-R/README.md)
-
-### Integrated Development Environments
-
-*   [Sublime Text + R-Box (⭐172)](http://github.com/randy3k/R-Box/) - Add-on package for Sublime Text 2/3.
-
-## [3. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [2. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### W3C Specification
 
@@ -32,13 +26,13 @@
 
 *   [Fibonacci (⭐438)](https://github.com/maxsteenbergen/Fibonacci)
 
-## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### CLI Builder
 
-*   [Commander (⭐783)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
+*   [Commander (⭐817)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
 
-## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Malware Collection / Anonymizers
 
@@ -280,7 +274,7 @@
 *   [Pentesting (⭐17k)](https://github.com/enaqx/awesome-pentest)
 *   [Security (⭐9k)](https://github.com/sbilly/awesome-security)
 
-## [6. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [5. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Machine Learning
 
@@ -289,7 +283,7 @@
     *   [Syllabus](http://cs224d.stanford.edu/syllabus.html)
     *   [Lectures and Assignments](http://cs224d.stanford.edu/syllabus.html)
 
-## [7. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
+## [6. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
 ### Classes
 

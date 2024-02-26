@@ -10,12 +10,12 @@
 
 ### Frontend components
 
-*   [JSON Formatter (⭐371)](https://github.com/mohsen1/json-formatter) - Angular directive for collapsible JSON in HTML. (AngularJS)
+*   [JSON Formatter (⭐369)](https://github.com/mohsen1/json-formatter) - Angular directive for collapsible JSON in HTML. (AngularJS)
 
 ### JSON Schema Frontend components
 
-*   [JSON Editor (⭐5.7k)](https://github.com/jdorn/json-editor) - JSON Schema Based Editor. (jQuery)
-*   [JSON Schema View (⭐49)](https://github.com/mohsen1/json-schema-view) - An AngularJS directive for rendering JSON Schema in HTML (AngularJS)
+*   [JSON Editor (⭐5.8k)](https://github.com/jdorn/json-editor) - JSON Schema Based Editor. (jQuery)
+*   [JSON Schema View (⭐50)](https://github.com/mohsen1/json-schema-view) - An AngularJS directive for rendering JSON Schema in HTML (AngularJS)
 *   [Angular JSON Schema Form (⭐30)](https://github.com/mohsen1/angular-json-schema-form) - Angular directive for making forms out of JSON Schema. (AngularJS)
 
 ## [2. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
@@ -34,7 +34,7 @@
 
 ### Examples and funny stuff
 
-*   [koans (⭐248)](https://github.com/dojo-toulouse/elixir-koans) - Learn Elixir by using elixir-koans.
+*   [koans (⭐249)](https://github.com/dojo-toulouse/elixir-koans) - Learn Elixir by using elixir-koans.
 
 ### Framework Components
 

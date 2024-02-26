@@ -10,7 +10,7 @@
 
 ### Table of Contents / Code Quality
 
-*   [CaptainHook (⭐934)](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library.
+*   [CaptainHook (⭐936)](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library.
 
 ## [2. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

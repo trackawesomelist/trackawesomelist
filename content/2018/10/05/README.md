@@ -26,11 +26,11 @@
 *   [Mist (⭐7.4k)](https://github.com/ethereum/mist) - Official Ethereum wallet - Browse and use Ðapps on the Ethereum network.
 *   [MyCrypto](https://www.mycrypto.com) - Online wallet service that interacts with the blockchain and performs several other useful functions.
 
-## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Threat Intelligence / Forensics
+### Domain and IP Research / Telegram
 
-*   [PhishStats](https://phishstats.info/) - Phishing Statistics with search for IP, domain and website title.
+*   [PhishStats](https://phishstats.info/)
 
 ## [4. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 

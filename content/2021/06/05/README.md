@@ -50,7 +50,7 @@
 
 ### Bash scripts / Godot version unknown
 
-*   [build-godot (⭐54)](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot) - (and [build-godot-mono (⭐54)](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot-mono)) Scripts that compile and run Godot, attempting to install dependencies if needed.
+*   [build-godot (⭐55)](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot) - (and [build-godot-mono (⭐55)](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot-mono)) Scripts that compile and run Godot, attempting to install dependencies if needed.
 
 ## [7. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Miscellaneous
 
-*   [Urban & Regional Planning (⭐191)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
+*   [Urban & Regional Planning (⭐208)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
 
 ## [12. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
@@ -111,7 +111,7 @@
 ### Form Components / Rich Text Editor
 
 *   [react-codemirror (⭐1.3k)](https://github.com/uiwjs/react-codemirror) - [demo](https://uiwjs.github.io/react-codemirror/) - CodeMirror component for React.
-*   [react-monacoeditor (⭐271)](https://github.com/jaywcjlove/react-monacoeditor) - Monaco Editor component for React.
+*   [react-monacoeditor (⭐274)](https://github.com/jaywcjlove/react-monacoeditor) - Monaco Editor component for React.
 
 ## [16. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

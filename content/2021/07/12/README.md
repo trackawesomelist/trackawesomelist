@@ -26,7 +26,7 @@
 
 ### HTTP Clients and tools
 
-*   [Accept Language (⭐49)](https://github.com/cyril/accept_language.rb) - A tiny library for parsing the `Accept-Language` header from browsers (as defined in [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
+*   [Accept Language (⭐50)](https://github.com/cyril/accept_language.rb) - A tiny library for parsing the `Accept-Language` header from browsers (as defined in [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -39,16 +39,16 @@
 ### Adapters / Server-side
 
 *   [CanJS (⭐14)](https://github.com/cherifGsoul/inertia-can)
-*   [Clojure (⭐90)](https://github.com/prestancedesign/inertia-clojure)
-*   [CodeIgniter (⭐21)](https://github.com/amiranagram/inertia-codeigniter-4)
-*   [Go (⭐117)](https://github.com/petaki/inertia-go)
-*   [PSR-15 (⭐30)](https://github.com/cherifGsoul/inertia-psr15)
+*   [Clojure (⭐91)](https://github.com/prestancedesign/inertia-clojure)
+*   [CodeIgniter (⭐22)](https://github.com/amiranagram/inertia-codeigniter-4)
+*   [Go (⭐139)](https://github.com/petaki/inertia-go)
+*   [PSR-15 (⭐33)](https://github.com/cherifGsoul/inertia-psr15)
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Search Engines
 
-*   [Whoogle (⭐8.4k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
+*   [Whoogle (⭐8.5k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
 
 ## [5. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 

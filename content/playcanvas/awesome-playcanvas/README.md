@@ -2,9 +2,19 @@
 
 A curated list of awesome PlayCanvas assets, resources, and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 229 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 231 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
+
+## [Feb 26, 2024](/content/2024/02/26/README.md)
+
+### PlayCanvas
+
+*   [SuperSplat](https://playcanvas.com/supersplat/editor) - 3D Gassuian Splat Editor.
+
+### Extensions and Utilities
+
+*   [playcanvas-rest-api-tools (⭐19)](https://github.com/playcanvas/playcanvas-rest-api-tools) - CLI tools built on the PlayCanvas REST API.
 
 ## [Feb 06, 2024](/content/2024/02/06/README.md)
 
@@ -30,7 +40,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### PlayCanvas
 
-*   [SuperSplat](https://playcanvas.com/super-splat) - 3D Gassuian Splat Editor.
 *   [Texture Tool](https://playcanvas.com/texture-tool) - Tool for reprojecting textures.
 
 ## [Oct 25, 2023](/content/2023/10/25/README.md)
@@ -329,7 +338,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### PlayCanvas
 
-*   [Engine (⭐8.9k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
+*   [Engine (⭐9k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
 *   [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 *   [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
 

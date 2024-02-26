@@ -10,7 +10,7 @@
 
 ### Audio
 
-*   [minimp3 (⭐1.4k)](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. \[CC0]
+*   [minimp3 (⭐1.5k)](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. \[CC0]
 
 ## [2. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bats (⭐4.3k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System
+*   [bats (⭐4.5k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 
 ## [5. Awesome Eta](/content/sfischer13/awesome-eta/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Libraries / Parsing
 
-*   [lalrpop/lalrpop (⭐2.8k)](https://github.com/lalrpop/lalrpop) — LR(1) parser generator for Rust
+*   [lalrpop/lalrpop (⭐2.8k)](https://github.com/lalrpop/lalrpop) — LR(1) parser generator
 
 ## [7. Awesome Research](/content/emptymalei/awesome-research/README.md)
 

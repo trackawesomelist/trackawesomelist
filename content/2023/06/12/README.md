@@ -40,7 +40,7 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [july (⭐0)](https://github.com/skippyr/july) - Minimalist prompt. Includes decorators for user, host and current directory.
-*   [nablaman (⭐0)](https://github.com/kokkonisd/nablaman-zsh-theme) - Similar to [powerlevel10k (⭐41k)](https://github.com/romkatv/powerlevel10k). Includes decorators for the last command's exit status, user\@hostname, `git` status and the current directory. Works best with a dark terminal theme.
+*   [nablaman (⭐0)](https://github.com/kokkonisd/nablaman-zsh-theme) - Similar to [powerlevel10k (⭐42k)](https://github.com/romkatv/powerlevel10k). Includes decorators for the last command's exit status, user\@hostname, `git` status and the current directory. Works best with a dark terminal theme.
 
 ## [6. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Applications / Routing protocols
 
-*   [RustyBGP (⭐446)](https://github.com/osrg/rustybgp) - BGP implemented in the Rust Programming Language
+*   [RustyBGP (⭐450)](https://github.com/osrg/rustybgp) - BGP
 
 ## [9. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -196,11 +196,11 @@
 
 ### Type / React
 
-*   [fast-graphql (⭐5)](https://github.com/idurar/fast-graphql) - Graphql Tools to Strucutre , Combine Resolvers and Merge Schema Definitions for Node.js, Next.Js and Graphql Apollo server
+*   [fast-graphql (⭐5)](https://github.com/idurar/fast-graphql) - Graphql Tools to Structure, Combine Resolvers and Merge Schema Definitions for Node.js, Next.Js and Graphql Apollo server
 
 ### TypeScript Examples / React
 
-*   [Next.js Advanced Graphql Crud MongoDB Starter (⭐23)](https://github.com/idurar/starter-advanced-graphql-crud-next-js-mongodb) - Starter Generic CRUD with Advanced Apollo Graphql server with Next.js and Mongodb (TypeScript)
+*   [Next.js Advanced Graphql Crud MongoDB Starter (⭐24)](https://github.com/idurar/starter-advanced-graphql-crud-next-js-mongodb) - Starter Generic CRUD with Advanced Apollo Graphql server with Next.js and Mongodb (TypeScript)
 
 ## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 

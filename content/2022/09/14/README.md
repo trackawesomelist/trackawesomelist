@@ -10,7 +10,7 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [NeonLink (⭐234)](https://github.com/AlexSciFier/neonlink) - Self-hosted bookmark service with unique design and simple installation with Docker. `MIT` `Docker`
+*   [NeonLink (⭐240)](https://github.com/AlexSciFier/neonlink) - Self-hosted bookmark service with unique design and simple installation with Docker. `MIT` `Docker`
 
 ### Software / Internet of Things (IoT)
 
@@ -26,15 +26,15 @@
 
 ### Software / Software Development - FaaS & Serverless
 
-*   [Nhost](https://nhost.io/) - Firebase Alternative with GraphQL. Get a database and backend configured and ready in minutes. ([Source Code (⭐7.3k)](https://github.com/nhost/nhost)) `MIT` `Docker/Nodejs/Go`
+*   [Nhost](https://nhost.io/) - Firebase Alternative with GraphQL. Get a database and backend configured and ready in minutes. ([Source Code (⭐7.4k)](https://github.com/nhost/nhost)) `MIT` `Docker/Nodejs/Go`
 
 ### Software / Task Management & To-do Lists
 
-*   [Our Shopping List (⭐64)](https://github.com/nanawel/our-shopping-list) - Simple shared list application. Typical uses include shopping lists of course, and any other small todo-list that needs to be used collaboratively. ([Demo](https://osl.lanterne-rouge.info/)) `AGPL-3.0` `Docker`
+*   [Our Shopping List (⭐66)](https://github.com/nanawel/our-shopping-list) - Simple shared list application. Typical uses include shopping lists of course, and any other small todo-list that needs to be used collaboratively. ([Demo](https://osl.lanterne-rouge.info/)) `AGPL-3.0` `Docker`
 
 ### Software / URL Shorteners
 
-*   [Short{Paste} (⭐41)](https://github.com/adyanth/shortpaste) - A Go based URL shortener, pastebin and file uploader. `MIT` `Docker`
+*   [Short{Paste} (⭐43)](https://github.com/adyanth/shortpaste) - A Go based URL shortener, pastebin and file uploader. `MIT` `Docker`
 
 ## [2. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
@@ -92,7 +92,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [notenote (⭐3)](https://github.com/DrgnFireYellow/notenote/) - Makes it easy to take notes.
-*   [zman (⭐17)](https://github.com/mattmc3/zman) - Use [fzf (⭐57k)](https://github.com/junegunn/fzf) to quickly browse ZSH manuals.
+*   [zman (⭐17)](https://github.com/mattmc3/zman) - Use [fzf (⭐58k)](https://github.com/junegunn/fzf) to quickly browse ZSH manuals.
 *   [zoo (⭐2)](https://github.com/salamantos/zoo_sh) - Casual theme with animal emoji. Includes decorators for current directory, time and `git` status.
 
 ## [6. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)

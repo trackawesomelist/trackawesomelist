@@ -127,7 +127,7 @@
 
 ### Phone Number Research / Telegram
 
-*   [PhoneInfoga (⭐11k)](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
+*   [PhoneInfoga (⭐12k)](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
 
 ## [15. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 

@@ -68,7 +68,7 @@
 
 ### Resources / Packages
 
-*   [Navigation (⭐410)](https://github.com/spatie/laravel-navigation) - Laravel package for generating menus, breadcrumbs and other navigational elements.
+*   [Navigation (⭐435)](https://github.com/spatie/laravel-navigation) - Laravel package for generating menus, breadcrumbs and other navigational elements.
 
 ## [9. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 
@@ -91,20 +91,20 @@
 
 ### Official plugins
 
-*   [Toast (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/toast) - Provides a native notification pop up for displaying important information to a user.
+*   [Toast (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/toast) - Provides a native notification pop up for displaying important information to a user.
 
 ### Community plugins
 
-*   [Keep awake (⭐103)](https://github.com/capacitor-community/keep-awake) - Prevent your screen from getting some sleep.
+*   [Keep awake (⭐111)](https://github.com/capacitor-community/keep-awake) - Prevent your screen from getting some sleep.
 *   Microsoft
-    *   [Appcenter (⭐32)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter) - AppCenter SDK.
-    *   [Analytics (⭐32)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-analytics) - AppCenter Analytics.
-    *   [Crashes (⭐32)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-crashes) - AppCenter Crashes.
+    *   [Appcenter (⭐33)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter) - AppCenter SDK.
+    *   [Analytics (⭐33)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-analytics) - AppCenter Analytics.
+    *   [Crashes (⭐33)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-crashes) - AppCenter Crashes.
 
 ### Other plugins
 
-*   [Healthkit (⭐44)](https://github.com/Ad-Scientiam/capacitor-healthkit) - Retrieve data from HealthKit.
-*   [UDP (⭐3)](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast.
+*   [Healthkit (⭐47)](https://github.com/Ad-Scientiam/capacitor-healthkit) - Retrieve data from HealthKit.
+*   [UDP (⭐4)](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast.
 
 ## [12. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Platforms
 
-*   [Low Code (⭐248)](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
+*   [Low Code (⭐262)](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
 
 ## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

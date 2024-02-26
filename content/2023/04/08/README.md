@@ -22,7 +22,7 @@
 
 ### Ruby Libraries
 
-*   [bitcoinrb (⭐51)](https://github.com/chaintope/bitcoinrb) - Ruby bitcoin library including script interpreter.
+*   [bitcoinrb (⭐52)](https://github.com/chaintope/bitcoinrb) - Ruby bitcoin library including script interpreter.
 *   [bech32rb (⭐16)](https://github.com/azuchi/bech32rb) - Bech32 and Bech32m encode/decode library.
 *   [bip-schnorrrb (⭐7)](https://github.com/chaintope/bip-schnorrrb) - Schnorr signature library for Bitcoin.
 
@@ -53,7 +53,7 @@
 
 ### Software / Web
 
-*   [Algernon](https://algernon.roboticoverlords.org/) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. ([Source Code (⭐2.5k)](https://github.com/xyproto/algernon)) `BSD-3-Clause` `Go`
+*   [Algernon](https://algernon.roboticoverlords.org/) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. ([Source Code (⭐2.6k)](https://github.com/xyproto/algernon)) `BSD-3-Clause` `Go`
 *   [Apache HTTP Server](https://httpd.apache.org/) - Secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards. ([Source Code](https://svn.apache.org/viewvc/httpd/httpd/branches/2.4.x/)) `Apache-2.0` `C`
 *   [HAProxy](https://www.haproxy.org/) - Very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. ([Source Code](https://git.haproxy.org/?p=haproxy.git;a=tree)) `GPL-2.0` `C`
 *   [Lighttpd](https://www.lighttpd.net/) - Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. ([Source Code](https://git.lighttpd.net/lighttpd/lighttpd1.4)) `BSD-3-Clause` `C`

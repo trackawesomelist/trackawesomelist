@@ -1,6 +1,6 @@
 # Awesome List Updates on May 31, 2022
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Bolt CMS](https://boltcms.io/) - Open source Content Management Tool, which strives to be as simple and straightforward as possible. ([Source Code (⭐518)](https://github.com/bolt/core)) `MIT` `PHP`
+*   [Bolt CMS](https://boltcms.io/) - Open source Content Management Tool, which strives to be as simple and straightforward as possible. ([Source Code (⭐520)](https://github.com/bolt/core)) `MIT` `PHP`
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -34,14 +34,14 @@
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-send (⭐178)](https://github.com/stalwartlabs/mail-send) \[[mail-send](https://crates.io/crates/mail-send)] - E-mail builder and SMTP client library with DKIM support [![build badge](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-send (⭐179)](https://github.com/stalwartlabs/mail-send) \[[mail-send](https://crates.io/crates/mail-send)] - E-mail builder and SMTP client library with DKIM support [![build badge](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml)
 
 ## [6. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Security / React
 
 *   [Escape - The GraphQL Security Scanner](https://graphql.security/) - One-click security scan of your GraphQL endpoints. Free, no login required.
-*   [Escape Graphinder - GraphQL Subdomain Enumeration (⭐113)](https://github.com/Escape-Technologies/graphinder) – Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.
+*   [Escape Graphinder - GraphQL Subdomain Enumeration (⭐114)](https://github.com/Escape-Technologies/graphinder) – Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.
 
 ### Blogs - Security / React
 
@@ -59,19 +59,13 @@
 
 *   [mainnika (⭐0)](https://github.com/mainnika/zsh-theme-mainnika/) - Includes decorators for last command exit status and the 1, 5 and 15 minute load averages.
 
-## [9. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Blockchain
-
-*   [Mastering the Lightning Network (⭐2.7k)](https://github.com/lnbook/lnbook) - Andreas M. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt (AsciiDoc)
-
-## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-cem (⭐20)](https://github.com/Kamiapp-fr/vite-plugin-cem) - Generates `custom-elements.json` manifest for describing custom elements.
+*   [vite-plugin-cem (⭐22)](https://github.com/Kamiapp-fr/vite-plugin-cem) - Generates `custom-elements.json` manifest for describing custom elements.
 
-## [11. Awesome](/content/craftcms/awesome/README.md)
+## [10. Awesome](/content/craftcms/awesome/README.md)
 
 ### Articles / Security
 
@@ -79,7 +73,7 @@
 *   [Storing Secrets in Craft CMS](https://putyourlightson.com/articles/storing-secrets-in-craft-cms) by Ben Croker/PutYourLightsOn - `6 July 2021`
 *   [Common Security Vulnerabilities in Craft CMS Plugins](https://putyourlightson.com/articles/common-security-vulnerabilities-in-craft-cms-plugins) by Ben Croker/PutYourLightsOn - `31 Oct 2021`
 
-## [12. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [11. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### GUI
 
@@ -90,7 +84,7 @@
 *   [MindsDB (⭐20k)](https://github.com/mindsdb/mindsdb) - In-database Machine Learning.
 *   [SQLFlow (⭐5k)](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 
-## [13. Awesome Go](/content/avelino/awesome-go/README.md)
+## [12. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Configuration
 
@@ -98,7 +92,7 @@
 
 ### Financial
 
-*   [fpdecimal (⭐26)](https://github.com/nikolaydubina/fpdecimal) - Fast and precise serialization and arithmetic for small fixed-point decimals
+*   [fpdecimal (⭐27)](https://github.com/nikolaydubina/fpdecimal) - Fast and precise serialization and arithmetic for small fixed-point decimals
 
 ### Functional
 
@@ -110,33 +104,33 @@
 
 ### Translation
 
-*   [spreak (⭐33)](https://github.com/vorlif/spreak) - Flexible translation and humanization library for Go, based on the concepts behind gettext.
+*   [spreak (⭐35)](https://github.com/vorlif/spreak) - Flexible translation and humanization library for Go, based on the concepts behind gettext.
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
 *   [CodeSnippet](https://www.codesnippet.fr) - A collaborative code editor for teachers and students.
 
-## [15. Awesome V](/content/vlang/awesome-v/README.md)
+## [14. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Editors
 
 *   [vee (⭐38)](https://github.com/Larpon/vee) - V Editor Engine. A V module providing the guts of a text editor. Comes with a [TUI editor example (⭐38)](https://github.com/Larpon/vee/blob/master/examples/tuieditor/).
 
-## [16. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [15. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / API
 
-*   [Jane (⭐557)](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
+*   [Jane (⭐559)](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
 
-## [17. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [16. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Research Papers
 
 *   [Which model to choose? Performance comparison of statistical and machine learning models in predicting PM2.5 from high-resolution satellite aerosol optical depth](https://www.sciencedirect.com/science/article/abs/pii/S1352231022002291?dgcid=coauthor) Padmavati Kulkarnia, V.Sreekantha, Adithi R.Upadhyab, Hrishikesh ChandraGautama.  (2022)
 
-## [18. GoBooks](/content/dariubs/GoBooks/README.md)
+## [17. GoBooks](/content/dariubs/GoBooks/README.md)
 
 ### 2022 - [Go, from the beginning](https://leanpub.com/go-from-the-beginning) *Free* / Why does this book look so different?
 

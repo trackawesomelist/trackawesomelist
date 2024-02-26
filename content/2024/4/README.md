@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 22 - Jan 28, 2024
 
-32 awesome lists updated this week.
+31 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -38,50 +38,9 @@
 
 ## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
-### Projects / Android
-
-*   [skydoves/githubfollows (⭐294)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐155)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
 ### Android / Projects
 
 *   [inorichi/tachiyomi](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android.
-*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐34)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Android / Tests
-
-*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-
-### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐85)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐237)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐565)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐318)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
 ## [6. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -93,7 +52,7 @@
 
 ### Gems / Other external resources
 
-*   [solid\_queue (⭐1.1k)](https://github.com/basecamp/solid_queue) - A gem to Database-backed Active Job backend [:red\_circle:](https://rubygems.org/gems/solid_queue)
+*   [solid\_queue (⭐1.2k)](https://github.com/basecamp/solid_queue) - A gem to Database-backed Active Job backend [:red\_circle:](https://rubygems.org/gems/solid_queue)
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -149,13 +108,7 @@
 
 *   [Concord](https://www.concord.tech/) - Full data privacy platform, including consent management, privacy request handling (DSARs), and data mapping. Free tier includes core consent management features and they also provide a more advanced plan for free to verified open source projects.
 
-## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Security & Privacy
-
-*   [The MoonMath Manual to zk-SNARKs](https://leastauthority.com/community-matters/moonmath-manual/) - Least Authority
-
-## [13. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [12. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Lecture Notes / Monograph
 
@@ -170,7 +123,7 @@
 *   [Vijay Vazirani. Approximation Algorithms](https://u.pcloud.link/publink/show?code=XZgHNWXZkdvT8L18drSSgLP9vqBIDmbPreD7)
 *   Fedor Fomin. Parametrized Algorithms - Modern comprehensive explanation of recent tools and techniques with exercises, for graduate students.
 
-## [14. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [13. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Equity and Environmental Justice
 
@@ -180,17 +133,17 @@
 
 *   [Geomate](https://geomate.ca/en/) - Geomate provides HD vector maps from high-resolution aerial imagery to support autonomous vehicles and urban planning use cases.
 
-## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Mattermost](https://mattermost.com/) - Platform for secure collaboration across the entire software development lifecycle, can be integrated with Gitlab (alternative to Slack). ([Source Code (⭐27k)](https://github.com/mattermost/mattermost)) `AGPL-3.0/Apache-2.0` `Go/Docker/K8S`
+*   [Mattermost](https://mattermost.com/) - Platform for secure collaboration across the entire software development lifecycle, can be integrated with Gitlab (alternative to Slack). ([Source Code (⭐28k)](https://github.com/mattermost/mattermost)) `AGPL-3.0/Apache-2.0` `Go/Docker/K8S`
 
 ### Software / Groupware
 
-*   [Tine](https://www.tine-groupware.de/) - Software for digital collaboration in companies and organizations. From powerful groupware functionalities to clever add-ons, tine combines everything to make daily team collaboration easier. ([Source Code (⭐5)](https://github.com/tine-groupware/tine)) `AGPL-3.0` `Docker`
+*   [Tine](https://www.tine-groupware.de/) - Software for digital collaboration in companies and organizations. From powerful groupware functionalities to clever add-ons, tine combines everything to make daily team collaboration easier. ([Source Code (⭐7)](https://github.com/tine-groupware/tine)) `AGPL-3.0` `Docker`
 
-## [16. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [15. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Africa
 
@@ -200,13 +153,13 @@
 
 *   [Introduction to Python for Humanists](https://python-textbook.pythonhumanities.com/intro.html) - A textbook offering a comprehensive introduction to Python programming, tailored for researchers and students in the humanities.
 
-## [17. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [16. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Managed Registries / Miscellaneous
 
 *   [cloudsmith](https://help.cloudsmith.io/docs/terraform-modules-repository) - Managed package hoster for internal and external clients. :heavy\_dollar\_sign:
 
-## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -218,13 +171,13 @@
 
 ### Marks / Diagnostics
 
-*   [otavioschwanck/arrow.nvim (⭐68)](https://github.com/otavioschwanck/arrow.nvim) - Like harpoon, but with a different UX, single keybinding needed and statusline support.
+*   [otavioschwanck/arrow.nvim (⭐101)](https://github.com/otavioschwanck/arrow.nvim) - Like harpoon, but with a different UX, single keybinding needed and statusline support.
 
 ### Project / Diagnostics
 
 *   [LintaoAmons/cd-project.nvim (⭐41)](https://github.com/LintaoAmons/cd-project.nvim) - All you need is just an easier way to `cd` to another project directory.
 
-## [19. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [18. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Authentication & Identity
 
@@ -234,7 +187,7 @@
 
 *   [Appwrite](https://appwrite.io/) - End-to-end backend server for frontend and mobile developers. [![Appwrite](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/appwrite/appwrite)
 
-## [20. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
+## [19. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
 
 ### Learning Resources / Generative AI
 
@@ -259,7 +212,7 @@
 *   [Social Science Computer Review](https://journals.sagepub.com/description/SSC)
 *   [World Digital Libraries – An International Journal](https://content.iospress.com/journals/world-digital-libraries-an-international-journal)
 
-## [21. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [20. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / APIs
 
@@ -269,13 +222,13 @@
 
 *   [Piku (⭐2.4k)](https://github.com/piku/piku)
 
-## [22. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [21. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
 *   [PiKISS (⭐844)](https://github.com/jmcerrejon/PiKISS) - A bunch of scripts with menu to make your life easier.
 
-## [23. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [22. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Learning / Books
 
@@ -301,7 +254,7 @@
 *   [dschere/industrial-ffmpeg](https://github.com/dschere/industrial-ffmpeg)  - A high level transcoder using ffmpeg that in addition to transcoding provides real time stats, detection of bad video, integration with nginx for on demand video - dschere/industrial-ffmpeg
 *   [x264 FFmpeg Options Guide - Linux Encoding](https://sites.google.com/site/linuxencoding/x264-ffmpeg-mapping)  -
 
-## [24. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [23. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Generative AI history, maps, and definitions
 
@@ -315,7 +268,7 @@
 
 *   [Marblism](https://marblism.com): Generate a SaaS boilerplate from a prompt
 
-## [25. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [24. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
 ### Epic Fantasy / [The Chronicles of Prydain](https://en.wikipedia.org/wiki/The_Chronicles_of_Prydain) 1964 *by [Lloyd Alexander](https://en.wikipedia.org/wiki/Lloyd_Alexander)* [4.42]
 
@@ -331,17 +284,17 @@
 *   [The Kingdom of Copper](https://www.goodreads.com/book/show/39988431-the-kingdom-of-copper)
 *   [The Empire of Gold](https://www.goodreads.com/book/show/52166786-the-empire-of-gold)
 
-## [26. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [25. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Android Gallery
 
 *   **Google Photos** has privacy issues. They collect a lot of data about you, which you can see in their [privacy policy](https://policies.google.com/privacy?hl=en-US#infocollect). Google can scan your photos and might flag them for different reasons, as shown in this [incident](https://petapixel.com/2022/08/22/google-flags-photos-of-fathers-sick-son-as-child-abuse-informs-police/). They also use your photos to improve their AI technology.
 *   **Amazon Photos** also has similar privacy problems. Like Google Photos, it gathers a lot of information from your photo gallery. You can see a bit of what kind of data they collect in their [**examples** list](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496\&ref_=footer_privacy#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01).
 *   **Samsung, Huawei, Xiaomi, etc.** Gallery
-*   [Aves (⭐1.7k)](https://github.com/deckerst/aves) - Beautiful gallery and metadata explorer app, built for Android with Flutter.
-*   [Fossify Gallery (⭐799)](https://github.com/FossifyOrg/Gallery) - Fork of Simple Gallery. Browse your memories without any interruptions with this photo and video gallery.
+*   [Aves (⭐1.8k)](https://github.com/deckerst/aves) - Beautiful gallery and metadata explorer app, built for Android with Flutter.
+*   [Fossify Gallery (⭐877)](https://github.com/FossifyOrg/Gallery) - Fork of Simple Gallery. Browse your memories without any interruptions with this photo and video gallery.
 
-## [27. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [26. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / StarFive
 
@@ -351,7 +304,7 @@
 
 *   [`j71xx-hal`](https://crates.io/crates/jh71xx-hal) - HAL crate for StarFive [JH71xx](https://www.starfivetech.com/en/site/soc) MCUs - ![crates.io](https://img.shields.io/crates/v/jh71xx-hal.svg)
 
-## [28. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [27. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Frameworks
 
@@ -361,19 +314,19 @@
 
 *   [react-error-boundary (⭐6.1k)](https://github.com/bvaughn/react-error-boundary) - A React error boundary component that lets you catch errors
 
-## [29. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [28. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
 *   [react-component-library-vite (⭐1)](https://github.com/gsharath/react-component-library-vite) - A library template for with `React`, `Javascript`,`Styled-Components`, `Vitest`, `React Testing Library`, `Storybook`.
 
-## [30. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [29. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Design Theory
 
 *   [Domain-Specific Language](https://en.wikipedia.org/wiki/Domain-specific_language) - ***Wikipedia***. Wikipedia encyclopedia entry on Domain Specific Languages.
 
-## [31. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [30. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
@@ -385,7 +338,7 @@
 *   [Weblocks (Reblocks) (⭐42)](https://github.com/40ants/reblocks) - A widgets-based framework with a built-in ajax update mechanism that "solves the JavaScript problem". [LLGPL](http://opensource.franz.com/preamble.html).
     *   example code bases: [Ultralisp (⭐215)](https://github.com/ultralisp/ultralisp/), [krasnodar (⭐3)](https://github.com/lct23/krasnodar), a dashboard made for a hackaton (2024) ([demo video](https://diode.zone/videos/watch/9e379a86-c530-4e9d-b8be-7437b1f7200b)).
 
-## [32. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [31. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### IDE integrations
 

@@ -16,7 +16,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code (⭐418)](https://github.com/Atheos/Atheos)) `MIT` `PHP/Docker`
+*   [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code (⭐426)](https://github.com/Atheos/Atheos)) `MIT` `PHP/Docker`
 
 ## [3. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 

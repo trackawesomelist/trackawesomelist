@@ -6,6 +6,16 @@ A collection of awesome things regarding Prisma ecosystem.
 
 [ [Daily](/content/catalinmiron/awesome-prisma/README.md) / Weekly / [Overview](/content/catalinmiron/awesome-prisma/readme/README.md) ]
 
+## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
+
+### :safety_vest: Community Prisma Tools
+
+*   [Prismock - Run tests in isolation with an in-memory implementation of Prisma (⭐140)](https://github.com/morintd/prismock)
+
+### :trophy: Tutorials / :gear: Schema Visualization Tools
+
+*   [How To Write Efficient Unit Tests with Prisma ORM](https://medium.com/javascript-in-plain-english/how-to-write-efficient-unit-tests-with-prisma-orm-e9d8fdf43f5f)
+
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)

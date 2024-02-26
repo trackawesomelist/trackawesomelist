@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 03, 2019
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -58,37 +58,31 @@
 
 *   [SecureDrop (⭐39)](https://github.com/freedomofpress/securedrop.org) – Wagtail-powered website of the SecureDrop whistleblower document submission system.
 
-## [5. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### Forms
-
-*   [django-bootstrap4 (⭐1k)](https://github.com/zostera/django-bootstrap4) - Bootstrap 4 integration with Django.
-
-## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Tools / Playground
 
 *   [type-config (⭐19)](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
 
-## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### HTML Builders
 
 *   [form\_builder.cr (⭐31)](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
 
-## [8. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [7. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Resources
 
 *   [Lecture](https://www.youtube.com/watch?v=y7ndUhdQuU8) - More Modern CMake ([slides & examples (⭐155)](https://github.com/Bagira80/More-Modern-CMake))- by Deniz Bahadir, Meeting C++ 2018.
 
-## [9. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/README.md)
+## [8. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/README.md)
 
 ### Developer documentation
 
 *   [DigitalOcean API Slugs](https://slugs.do-api.dev/)
 
-## [10. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [9. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Vulnerability Scanners / Web Vulnerability Scanners
 

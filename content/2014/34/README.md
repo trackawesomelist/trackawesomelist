@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 25 - Aug 31, 2014
 
-15 awesome lists updated this week.
+14 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,39 +22,33 @@
 
 ### Table of Contents / Email
 
-*   [CssToInlineStyles (⭐5.7k)](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
+*   [CssToInlineStyles (⭐5.8k)](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
 
-## [4. Awesome Python](/content/vinta/awesome-python/week/README.md)
-
-### Date and Time
-
-*   [delorean (⭐1.8k)](https://github.com/myusuf3/delorean/) - A library for clearing up the inconvenient truths that arise dealing with datetimes.
-
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [4. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Network / Barcode
 
 *   [OAuth2 (⭐1.1k)](https://github.com/p2/OAuth2) - oauth2 auth lib.
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Serialization
 
 *   [protobuf-c (⭐2.5k)](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. \[BSD]
 
-## [7. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [6. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Images / NoSQL Databases
 
 *   [Image::Magick](https://metacpan.org/pod/Image::Magick) - An object-oriented interface to ImageMagick's image composing libraries.
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
 *   [PyQtGraph (⭐3.6k)](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
 
-## [9. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Utilities
 
@@ -68,7 +62,7 @@
 
 *   [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
 
-## [10. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [9. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2012
 
@@ -91,7 +85,7 @@
 *   [John-David Dalton: **Unorthodox Performance**](https://www.youtube.com/watch?v=NthmeLEhDDM) \[43:39]
 *   [Gary Bernhardt: **The Birth & Death of Javascript**](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) \[29:22]
 
-## [11. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [10. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Server Frameworks
 
@@ -131,7 +125,7 @@
 
 *   [IntelliJ Plugin](https://www.dartlang.org/tools/webstorm/) - Dart plugin from JetBrains for WebStorm, IntelliJ IDEA, PhpStorm, PyCharm, and RubyMine.
 
-## [12. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization / Graph Based approach
 
@@ -154,7 +148,7 @@
 
 *   [Adobe spindle (⭐333)](https://github.com/adobe-research/spindle) - Next-generation web analytics processing with Scala, Spark, and Parquet.
 
-## [13. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [12. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Streams
 
@@ -164,13 +158,13 @@
 
 *   [ipify (⭐263)](https://github.com/sindresorhus/ipify) - Get your public IP address.
 
-## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Vision Detection / Runner
 
 *   [tracking.js (⭐9.4k)](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
 
-## [15. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
+## [14. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
 ### Resources / Debugging and Profiling
 

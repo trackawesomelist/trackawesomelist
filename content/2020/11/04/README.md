@@ -87,7 +87,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [V-Dashboard (⭐854)](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
+*   📁 [V-Dashboard (⭐864)](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
 
 ### Starters & Themes
 

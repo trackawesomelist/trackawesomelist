@@ -44,7 +44,7 @@
 
 ### Command-Line Productivity
 
-*   [rg (⭐41k)](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
+*   [rg (⭐43k)](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
 
 ### Shell Script Development / See also
 
@@ -74,7 +74,7 @@
 
 ### Libraries / GUI
 
-*   [saurvs/nfd-rs (⭐153)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.7k)](https://github.com/mlabbe/nativefiledialog) bindings
+*   [saurvs/nfd-rs (⭐154)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.7k)](https://github.com/mlabbe/nativefiledialog) bindings
 
 ## [10. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
@@ -312,7 +312,7 @@
 ### Database Management
 
 *   [RNeo4j (⭐236)](https://github.com/nicolewhite/Rneo4j) - Neo4j graph database driver.
-*   [rpostgis (⭐76)](https://github.com/mablab/rpostgis) - R interface to PostGIS database and get spatial objects in R.
+*   [rpostgis (⭐75)](https://github.com/mablab/rpostgis) - R interface to PostGIS database and get spatial objects in R.
 
 ## [37. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
@@ -332,7 +332,7 @@
 
 ### Third Party APIs
 
-*   [cashier (⭐46)](https://github.com/swelham/cashier) - Payment gateway offering a common interface into multiple payment providers.
+*   [cashier (⭐47)](https://github.com/swelham/cashier) - Payment gateway offering a common interface into multiple payment providers.
 
 ## [39. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 

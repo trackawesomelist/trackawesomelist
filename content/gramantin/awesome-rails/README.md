@@ -6,6 +6,12 @@ A curated list of awesome things related to Ruby on Rails
 
 [ Daily / [Weekly](/content/gramantin/awesome-rails/week/README.md) / [Overview](/content/gramantin/awesome-rails/readme/README.md) ]
 
+## [Feb 21, 2024](/content/2024/02/21/README.md)
+
+### Open Source Rails Apps / Other external resources
+
+*   [multiwoven (⭐139)](https://github.com/Multiwoven/multiwoven)- The open-source reverse ETL, data activation platform for modern data teams. (using Rails 7.1.1) - [🌍](https://www.multiwoven.com/)
+
 ## [Feb 13, 2024](/content/2024/02/13/README.md)
 
 ### Gems / Other external resources

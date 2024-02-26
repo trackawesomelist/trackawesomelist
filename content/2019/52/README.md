@@ -29,12 +29,12 @@
 ### Libraries
 
 *   [essential-json (⭐1)](https://github.com/arkanovicz/essential-json) - A lightweight Java library for serialization, parsing and manipulation with a clean and precise API.
-*   [dsl-json (⭐825)](https://github.com/ngs-doo/dsl-json) - A very fast streaming JSON library. Operates on byte arrays.
-*   [mjson (⭐75)](https://github.com/bolerio/mjson) - Lean JSON Library for Java, with a compact, elegant API.
+*   [dsl-json (⭐980)](https://github.com/ngs-doo/dsl-json) - A very fast streaming JSON library. Operates on byte arrays.
+*   [mjson (⭐81)](https://github.com/bolerio/mjson) - Lean JSON Library for Java, with a compact, elegant API.
 
 ### Testing
 
-*   [JSON Parsing Test Suite (⭐733)](https://github.com/nst/JSONTestSuite) - A very complete test suite and validation framework.
+*   [JSON Parsing Test Suite (⭐822)](https://github.com/nst/JSONTestSuite) - A very complete test suite and validation framework.
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -198,7 +198,7 @@
 ### Authentication and Authorization
 
 *   🍰 [Authentication plugin (⭐112)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
-*   🍰 [Authorization plugin (⭐69)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
+*   🍰 [Authorization plugin (⭐71)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
 *   🍰 [TinyAuth plugin (⭐127)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role based (single/multi) authorization as very light-weight approach.
 
 ### Code Analysis
@@ -208,7 +208,7 @@
 
 ### Queue
 
-*   🍰 [Queue plugin (⭐296)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
+*   🍰 [Queue plugin (⭐299)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
 
 ### File Manipulation
 
@@ -253,7 +253,7 @@
 
 ### Templating
 
-*   🍰 [Bake plugin (⭐103)](https://github.com/cakephp/bake) - Provides code generation functionality.
+*   🍰 [Bake plugin (⭐105)](https://github.com/cakephp/bake) - Provides code generation functionality.
 *   🍰 [BootstrapUI plugin (⭐336)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 4/5 integration.
 *   🍰 [CsvView plugin (⭐174)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 
@@ -515,7 +515,7 @@
 
 ### Storage and Media Processing
 
-*   [gumlet.com](https://www.gumlet.com/) — Image resize-as-a-service. It also optimizes images and performs delivery via CDN. The free tier includes 1 GB of bandwidth and unlimited monthly image processing for one year.
+*   [gumlet.com](https://www.gumlet.com/) — Image and video hosting, processing and streaming via CDN. Provides generous free tier of 250 GB / month for videos and 30 GB  / month for images.
 *   [kraken.io](https://kraken.io/) — Image optimization for website performance as a service, free plan up to 1 MB file size
 *   [otixo.com](https://www.otixo.com/) — Encrypt, share, copy, and move all your cloud storage files from one place. The basic plan provides unlimited file transfer with 250 MB max. file size and allows five encrypted files
 *   [packagecloud.io](https://packagecloud.io/) — Hosted Package Repositories for YUM, APT, RubyGem and PyPI.  Limited free plans and open-source plans are available via request
@@ -574,7 +574,7 @@
 ### Analytics, Events and Statistics
 
 *   [amplitude.com](https://amplitude.com/) — 1 million monthly events, up to 2 apps
-*   [getinsights.io](https://getinsights.io) - Privacy-focused, cookie-free analytics, free for up to 5k events/month.
+*   [getinsights.io](https://getinsights.io) - Privacy-focused, cookie-free analytics, free for up to 3k events/month.
 *   [optimizely.com](https://www.optimizely.com) — A/B Testing solution, free starter plan, one website, 1 iOS, and 1 Android app
 *   [sematext.com](https://sematext.com/cloud/) — Free for up to 50 K actions/month, 1-day data retention, unlimited dashboards, users, etc.
 *   [usabilityhub.com](https://usabilityhub.com/) — Test designs and mockups on real people and track visitors. Free for one user, unlimited tests
@@ -586,7 +586,7 @@
 
 ### Payment and Billing Integration
 
-*   [exchangerate-api.com](https://www.exchangerate-api.com) - An easy-to-use currency conversion JSON API. A free tier with no request limit.
+*   [exchangerate-api.com](https://www.exchangerate-api.com) - An easy-to-use currency conversion JSON API. The free tier updates once per day with a limit of 1,500 requests/month.
 
 ### Docker Related
 
@@ -797,7 +797,7 @@
 
 ### Museums • Galleries / Other
 
-*   [ZKM — Zentrum für Kunst und Medien, Karlsruhe/Germany](https://zkm.de) -  ZKM organizes exhibitions and events on the effects of media, digitization, and globalization.
+*   [ZKM — Zentrum für Kunst und Medien, Karlsruhe/Germany](https://zkm.de) - ZKM organizes exhibitions and events on the effects of media, digitization, and globalization.
 *   [Ars Electronica Center, Linz/Austria](https://ars.electronica.art/center/) - Museum of the Future — a place where diverse blends of artistic genres, scientific domains and technological directions are displayed and processed.
 *   [Technorama, Zurich/Switzerland](https://www.technorama.ch/en/home) - Technorama allows hands-on experiences of hundreds of natural phenomena and technology.
 

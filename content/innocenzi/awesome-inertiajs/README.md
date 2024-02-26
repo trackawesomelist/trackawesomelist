@@ -2,9 +2,19 @@
 
 A curated list of awesome Inertia.js resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/innocenzi/awesome-inertiajs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 innocenzi/awesome-inertiajs](https://github.com/innocenzi/awesome-inertiajs) · ⭐ 211 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/innocenzi/awesome-inertiajs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 innocenzi/awesome-inertiajs](https://github.com/innocenzi/awesome-inertiajs) · ⭐ 214 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/innocenzi/awesome-inertiajs/week/README.md) / [Overview](/content/innocenzi/awesome-inertiajs/readme/README.md) ]
+
+## [Feb 23, 2024](/content/2024/02/23/README.md)
+
+### Adapters / Server-side
+
+*   [Grails (⭐5)](https://github.com/matrei/grails-inertia-plugin)
+
+### Resources / Examples
+
+*   [Ping CRM / Grails (⭐5)](https://github.com/matrei/pingcrm-grails) - Demonstration application made with Grails and Vue.js.
 
 ## [Jan 17, 2023](/content/2023/01/17/README.md)
 
@@ -28,9 +38,9 @@ A curated list of awesome Inertia.js resources
 
 ### Resources / Packages
 
-*   [Page loader (⭐22)](https://github.com/ycs77/inertia-plugin) - Unplugin for loading Inertia pages from configured namespaces.
+*   [Page loader (⭐26)](https://github.com/ycs77/inertia-plugin) - Unplugin for loading Inertia pages from configured namespaces.
 *   [Flash (⭐20)](https://github.com/igerslike/inertia-flash) - Laravel package for sharing properties from anywhere.
-*   [Dry requests (⭐208)](https://github.com/dive-be/laravel-dry-requests) - Generic Laravel package for real-time form validation.
+*   [Dry requests (⭐206)](https://github.com/dive-be/laravel-dry-requests) - Generic Laravel package for real-time form validation.
 
 ## [Feb 18, 2022](/content/2022/02/18/README.md)
 
@@ -51,19 +61,19 @@ A curated list of awesome Inertia.js resources
 
 ### Resources / Packages
 
-*   [Navigation (⭐410)](https://github.com/spatie/laravel-navigation) - Laravel package for generating menus, breadcrumbs and other navigational elements.
+*   [Navigation (⭐435)](https://github.com/spatie/laravel-navigation) - Laravel package for generating menus, breadcrumbs and other navigational elements.
 
 ## [Jan 22, 2022](/content/2022/01/22/README.md)
 
 ### Adapters / Client-side
 
-*   [Preact (⭐6)](https://github.com/jrson83/inertia-preact)
+*   [Preact (⭐7)](https://github.com/jrson83/inertia-preact)
 
 ## [Jan 14, 2022](/content/2022/01/14/README.md)
 
 ### Resources / Examples
 
-*   [Ping CRM / Flask (⭐7)](https://github.com/j0ack/pingcrm-flask) - Demonstration application made with Flask and Vue.js.
+*   [Ping CRM / Flask (⭐8)](https://github.com/j0ack/pingcrm-flask) - Demonstration application made with Flask and Vue.js.
 
 ## [Oct 22, 2021](/content/2021/10/22/README.md)
 
@@ -81,30 +91,30 @@ A curated list of awesome Inertia.js resources
 
 ### Adapters / Server-side
 
-*   [Rust (⭐23)](https://github.com/stuarth/inertia-rs)
+*   [Rust (⭐26)](https://github.com/stuarth/inertia-rs)
 
 ### Resources / Examples
 
-*   [Ping CRM / Clojure (⭐97)](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
+*   [Ping CRM / Clojure (⭐102)](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
 
 ## [Jul 12, 2021](/content/2021/07/12/README.md)
 
 ### Adapters / Server-side
 
 *   [CanJS (⭐14)](https://github.com/cherifGsoul/inertia-can)
-*   [Clojure (⭐90)](https://github.com/prestancedesign/inertia-clojure)
-*   [CodeIgniter (⭐21)](https://github.com/amiranagram/inertia-codeigniter-4)
-*   [Go (⭐117)](https://github.com/petaki/inertia-go)
-*   [PSR-15 (⭐30)](https://github.com/cherifGsoul/inertia-psr15)
+*   [Clojure (⭐91)](https://github.com/prestancedesign/inertia-clojure)
+*   [CodeIgniter (⭐22)](https://github.com/amiranagram/inertia-codeigniter-4)
+*   [Go (⭐139)](https://github.com/petaki/inertia-go)
+*   [PSR-15 (⭐33)](https://github.com/cherifGsoul/inertia-psr15)
 
 ## [May 17, 2021](/content/2021/05/17/README.md)
 
 ### Resources / Examples
 
-*   💜 [Ping CRM / Laravel (⭐1.9k)](https://github.com/inertiajs/pingcrm/) - Demonstration application made with Laravel and Vue.js.
-*   💜 [Ping CRM / Svelte (⭐175)](https://github.com/inertiajs/pingcrm-svelte) - Demonstration application made with Laravel and Svelte.
-*   [Ping CRM / Django (⭐39)](https://github.com/zodman/django-inertia-demo) - Demonstration application made with Django and Vue.js.
-*   [Ping CRM / React (⭐475)](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
+*   💜 [Ping CRM / Laravel (⭐2k)](https://github.com/inertiajs/pingcrm/) - Demonstration application made with Laravel and Vue.js.
+*   💜 [Ping CRM / Svelte (⭐190)](https://github.com/inertiajs/pingcrm-svelte) - Demonstration application made with Laravel and Svelte.
+*   [Ping CRM / Django (⭐38)](https://github.com/zodman/django-inertia-demo) - Demonstration application made with Django and Vue.js.
+*   [Ping CRM / React (⭐514)](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
 
 ### Resources / Other
 
@@ -114,33 +124,33 @@ A curated list of awesome Inertia.js resources
 
 ### Adapters / Server-side
 
-*   [Adonis (⭐244)](https://github.com/eidellev/inertiajs-adonisjs)
+*   [Adonis (⭐271)](https://github.com/eidellev/inertiajs-adonisjs)
 
 ## [May 07, 2021](/content/2021/05/07/README.md)
 
 ### Adapters / Client-side
 
-*   💜 [Vue.js (⭐5.3k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-vue)
-*   💜 [React (⭐5.3k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-react)
-*   💜 [Svelte (⭐5.3k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-svelte)
+*   💜 [Vue.js (⭐5.6k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-vue)
+*   💜 [React (⭐5.6k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-react)
+*   💜 [Svelte (⭐5.6k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-svelte)
 
 ### Adapters / Server-side
 
-*   💜 [Laravel (⭐1.8k)](https://github.com/inertiajs/inertia-laravel)
-*   💜 [Rails (⭐295)](https://github.com/inertiajs/inertia-rails)
-*   [Statamic (⭐53)](https://github.com/hotmeteor/inertia-statamic)
+*   💜 [Laravel (⭐1.9k)](https://github.com/inertiajs/inertia-laravel)
+*   💜 [Rails (⭐350)](https://github.com/inertiajs/inertia-rails)
+*   [Statamic (⭐54)](https://github.com/hotmeteor/inertia-statamic)
 *   [ASP.NET Core (⭐59)](https://github.com/Nothing-Works/inertia-aspnetcore)
 *   [CakePHP (⭐35)](https://github.com/ishanvyas22/cakephp-inertiajs)
 *   [ColdBox (⭐4)](https://github.com/elpete/cbInertia)
-*   [Phoenix (⭐68)](https://github.com/devato/inertia_phoenix)
-*   [Symfony (⭐151)](https://github.com/rompetomp/inertia-bundle)
-*   [Yii2 (⭐54)](https://github.com/tbreuss/yii2-inertia)
+*   [Phoenix (⭐72)](https://github.com/devato/inertia_phoenix)
+*   [Symfony (⭐154)](https://github.com/rompetomp/inertia-bundle)
+*   [Yii2 (⭐57)](https://github.com/tbreuss/yii2-inertia)
 *   [Django (⭐90)](https://github.com/zodman/inertia-django)
 *   [Fiber (⭐11)](https://github.com/theArtechnology/fiber-inertia)
 *   [Node.js](https://github.com/jordankaerim/inertia-node)
-*   [Masonite (⭐21)](https://github.com/girardinsamuel/masonite-inertia)
-*   [WordPress (⭐130)](https://github.com/boxybird/wordpress-inertia-plugin)
-*   [Flask (⭐18)](https://github.com/j0ack/flask-inertia)
+*   [Masonite (⭐23)](https://github.com/girardinsamuel/masonite-inertia)
+*   [WordPress (⭐150)](https://github.com/boxybird/wordpress-inertia-plugin)
+*   [Flask (⭐23)](https://github.com/j0ack/flask-inertia)
 
 ## [Apr 30, 2021](/content/2021/04/30/README.md)
 
@@ -152,7 +162,7 @@ A curated list of awesome Inertia.js resources
 
 ### Resources / Packages
 
-*   [Tables for Laravel (⭐420)](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Provides a DataTable component with integration for [Laravel Query Builder (⭐3.7k)](https://github.com/spatie/laravel-query-builder).
+*   [Tables for Laravel (⭐431)](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Provides a DataTable component with integration for [Laravel Query Builder (⭐3.9k)](https://github.com/spatie/laravel-query-builder).
 
 ## [Feb 27, 2021](/content/2021/02/27/README.md)
 
@@ -164,7 +174,7 @@ A curated list of awesome Inertia.js resources
 
 ### Resources / Packages
 
-*   [Resource Links (⭐245)](https://github.com/spatie/laravel-resource-links) - Laravel package for adding links to API resources.
+*   [Resource Links (⭐243)](https://github.com/spatie/laravel-resource-links) - Laravel package for adding links to API resources.
 
 ## [Nov 02, 2020](/content/2020/11/02/README.md)
 
@@ -182,7 +192,7 @@ A curated list of awesome Inertia.js resources
 
 ### Resources / Examples
 
-*   [Ping CRM / Rails (⭐227)](https://github.com/ledermann/pingcrm) - Demonstration application made with Ruby on Rails and Vue.js.
+*   [Ping CRM / Rails (⭐238)](https://github.com/ledermann/pingcrm) - Demonstration application made with Ruby on Rails and Vue.js.
 
 ## [Aug 31, 2020](/content/2020/08/31/README.md)
 
@@ -195,7 +205,7 @@ A curated list of awesome Inertia.js resources
 
 ### Resources / Presets
 
-*   [Laravel Moonlight (⭐144)](https://github.com/TitasGailius/laravel-moonlight) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
+*   [Laravel Moonlight (⭐143)](https://github.com/TitasGailius/laravel-moonlight) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
 *   [Titanium (⭐10)](https://github.com/usetitanium/inertia) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
 
 ### Resources / Packages

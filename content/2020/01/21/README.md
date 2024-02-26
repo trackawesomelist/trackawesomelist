@@ -48,7 +48,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Audioserve (⭐647)](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
+*   [Audioserve (⭐651)](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
 
 ## [7. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
@@ -88,12 +88,12 @@
 ### Applications / Emulators
 
 *   NES
-    *   [koute/pinky (⭐751)](https://github.com/koute/pinky) —
-    *   [pcwalton/sprocketnes (⭐739)](https://github.com/pcwalton/sprocketnes)
+    *   [koute/pinky (⭐755)](https://github.com/koute/pinky) —
+    *   [pcwalton/sprocketnes (⭐741)](https://github.com/pcwalton/sprocketnes)
 
 ### Applications / Text editors
 
-*   [mathall/rim (⭐596)](https://github.com/mathall/rim) — Vim-like text editor written in Rust
+*   [mathall/rim (⭐600)](https://github.com/mathall/rim) — Vim-like text editor.
 
 ### Applications / Text processing
 
@@ -102,18 +102,18 @@
 ### Libraries / Computation
 
 *   Parallel
-    *   [arrayfire/arrayfire-rust (⭐800)](https://github.com/arrayfire/arrayfire-rust) — [Arrayfire](https://github.com/arrayfire) bindings
-    *   [autumnai/collenchyma (⭐474)](https://github.com/autumnai/collenchyma) — An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU.
+    *   [arrayfire/arrayfire-rust (⭐805)](https://github.com/arrayfire/arrayfire-rust) — [Arrayfire](https://github.com/arrayfire) bindings
+    *   [autumnai/collenchyma (⭐475)](https://github.com/autumnai/collenchyma) — An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU.
     *   [luqmana/rust-opencl (⭐169)](https://github.com/luqmana/rust-opencl) — [OpenCL](https://www.khronos.org/opencl/) bindings
 
 ### Libraries / GUI
 
-*   [Nuklear (⭐8.2k)](https://github.com/Immediate-Mode-UI/Nuklear)
-    *   [nuklear-rust (⭐351)](https://github.com/snuk182/nuklear-rust) — Rust bindings for Nuklear
+*   [Nuklear (⭐8.3k)](https://github.com/Immediate-Mode-UI/Nuklear)
+    *   [nuklear-rust (⭐352)](https://github.com/snuk182/nuklear-rust) — Bindings for Nuklear
 
 ### Libraries / Logging
 
-*   [rust-lang/log (⭐2k)](https://github.com/rust-lang/log) — Logging implementation for Rust
+*   [rust-lang/log (⭐2k)](https://github.com/rust-lang/log) — Logging implementation
 
 ## [13. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md)
 
@@ -169,8 +169,8 @@ And run this to remove the attributes:
 
 ### Programming Languages
 
-*   [Common Lisp (⭐2.3k)](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
-    *   [Learning (⭐179)](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
+*   [Common Lisp (⭐2.4k)](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
+    *   [Learning (⭐183)](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
 
 ### Front-End Development
 
@@ -182,7 +182,7 @@ And run this to remove the attributes:
 
 ### Events
 
-*   [Creative Tech Events (⭐135)](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
+*   [Creative Tech Events (⭐141)](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
 
 ## [18. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 

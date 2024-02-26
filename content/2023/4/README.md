@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 23 - Jan 29, 2023
 
-53 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -60,7 +60,7 @@
 
 ### Java / React
 
-*   [graphql-orchestrator-java (⭐65)](https://github.com/graph-quilt/graphql-orchestrator-java) GraphQL Orchestrator/Gateway library that supports Schema Stitching and Apollo Federation directives to combine schema from multiple GraphQL microservices into a single unified schema.
+*   [graphql-orchestrator-java (⭐66)](https://github.com/graph-quilt/graphql-orchestrator-java) GraphQL Orchestrator/Gateway library that supports Schema Stitching and Apollo Federation directives to combine schema from multiple GraphQL microservices into a single unified schema.
 
 ## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Projects
 
-*   [hurlurl (⭐49)](https://github.com/lucasmerlin/hurlurl) - A randomizing link shortener, [Live Demo](https://hurlurl.com/).
+*   [hurlurl (⭐53)](https://github.com/lucasmerlin/hurlurl) - A randomizing link shortener, [Live Demo](https://hurlurl.com/).
 
 ### Crates / Component Libraries
 
@@ -124,7 +124,7 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Wwise (⭐226)](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
+*   [Wwise (⭐233)](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
 
 ## [17. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -190,7 +190,7 @@
 
 ### Image processing
 
-*   [Pluto (⭐62)](https://github.com/phenopolis/pluto) - A fast and convenient image processing library
+*   [Pluto (⭐64)](https://github.com/phenopolis/pluto) - A fast and convenient image processing library
 
 ## [24. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -220,7 +220,7 @@
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐3.4k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
+*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐3.5k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
 
 ### Software / Router
 
@@ -251,7 +251,7 @@
 
 ### Artificial Intelligence
 
-*   [Beaver (⭐103)](https://github.com/beaver-lodge/beaver) - Beaver is a LLVM/MLIR Toolkit in Elixir and Zig.
+*   [Beaver (⭐117)](https://github.com/beaver-lodge/beaver) - Beaver is a LLVM/MLIR Toolkit in Elixir and Zig.
 
 ### Miscellaneous
 
@@ -419,8 +419,8 @@
 
 *   [Magento Open Source (⭐11k)](https://github.com/magento/magento2) - Leading provider of open omnichannel innovation. `OSL-3.0` `PHP`
 *   [Mailchimp Open Commerce](https://mailchimp.com/developer/open-commerce/) - Customizable, real-time reactive, Javascript commerce platform (formerly Reaction Commerce). ([Source Code (⭐12k)](https://github.com/reactioncommerce/reaction)) `GPL-3.0` `Nodejs`
-*   [Open Source POS (⭐3.1k)](https://github.com/opensourcepos/opensourcepos) - Open Source Point of Sale is a web based point of sale system. `MIT` `PHP`
-*   [OXID eShop](https://oxidforge.org/en/) - OXID eShop is a flexible open source e-commerce software with a wide range of functionalities. ([Source Code (⭐217)](https://github.com/OXID-eSales/oxideshop_ce)) `GPL-3.0` `PHP`
+*   [Open Source POS (⭐3.2k)](https://github.com/opensourcepos/opensourcepos) - Open Source Point of Sale is a web based point of sale system. `MIT` `PHP`
+*   [OXID eShop](https://oxidforge.org/en/) - OXID eShop is a flexible open source e-commerce software with a wide range of functionalities. ([Source Code (⭐218)](https://github.com/OXID-eSales/oxideshop_ce)) `GPL-3.0` `PHP`
 
 ### Software / Feed Readers
 
@@ -502,19 +502,13 @@
 *   [cleanlab (⭐7.7k)](https://github.com/cleanlab/cleanlab): The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 *   [AutoGluon (⭐6.8k)](https://github.com/awslabs/autogluon): AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 
-## [40. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Game Development
-
-*   [Level up your code with game programming patterns](https://resources.unity.com/games/level-up-your-code-with-game-programming-patterns) - Unity (HTML & PDF)
-
-## [41. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [40. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2022
 
 *   [A zest of lime: towards architecture-independent model distances](https://openreview.net/pdf?id=OUz_9TiTv9j) - (ICLR) *Measures the distance between two remote models using LIME.*
 
-## [42. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [41. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Database / Text-Based User Interfaces
 
@@ -555,7 +549,7 @@
 
 *   [Head First Java (3rd Edition)](https://www.oreilly.com/library/view/head-first-java/9781492091646/)
 
-## [43. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [42. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Documentation builders / Third-party APIs
 
@@ -567,30 +561,30 @@
 
 *   [cl-git](https://cl-git.russellsim.org/) - a CFFI interface to the libgit2 library. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
-## [44. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [43. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Emulators
 
 *   PlayStation 4
-    *   [Obliteration (⭐494)](https://github.com/obhq/obliteration) — Experimental PS4 emulator written in Rust for Windows, macOS and Linux [![CI](https://github.com/obhq/obliteration/actions/workflows/main.yml/badge.svg)](https://github.com/obhq/obliteration/actions/workflows/main.yml)
+    *   [Obliteration (⭐501)](https://github.com/obhq/obliteration) — Experimental PS4 emulator for Windows, macOS and Linux [![CI](https://github.com/obhq/obliteration/actions/workflows/main.yml/badge.svg)](https://github.com/obhq/obliteration/actions/workflows/main.yml)
 
 ### Applications / Video
 
-*   [vidmerger (⭐93)](https://github.com/TGotwig/vidmerger) — 📼 Merge video & audio files via CLI
+*   [vidmerger (⭐95)](https://github.com/TGotwig/vidmerger) — 📼 Merge video & audio files via CLI
 
 ### Libraries / Encoding
 
 *   rkyv
-    *   [rkyv/rkyv (⭐2.4k)](https://github.com/rkyv/rkyv) \[[rkyv](https://crates.io/crates/rkyv)] — rkyv (archive) is a zero-copy deserialization framework for Rust
+    *   [rkyv/rkyv (⭐2.5k)](https://github.com/rkyv/rkyv) \[[rkyv](https://crates.io/crates/rkyv)] — rkyv (archive) is a zero-copy deserialization framework
 *   TOML
-    *   [tamasfe/taplo (⭐1k)](https://github.com/tamasfe/taplo) \[[taplo](https://crates.io/crates/taplo)] — A TOML toolkit written in Rust [![CI](https://github.com/tamasfe/taplo/workflows/Continuous%20integration/badge.svg)](https://github.com/tamasfe/taplo/actions?query=workflow%3A%22Continuous+integration%22)
-    *   [toml-rs/toml (⭐578)](https://github.com/toml-rs/toml) — [![CI](https://github.com/toml-rs/toml/actions/workflows/ci.yml/badge.svg)](https://github.com/toml-rs/toml/actions/workflows/ci.yml)
+    *   [tamasfe/taplo (⭐1.1k)](https://github.com/tamasfe/taplo) \[[taplo](https://crates.io/crates/taplo)] — A TOML toolkit [![CI](https://github.com/tamasfe/taplo/workflows/Continuous%20integration/badge.svg)](https://github.com/tamasfe/taplo/actions?query=workflow%3A%22Continuous+integration%22)
+    *   [toml-rs/toml (⭐586)](https://github.com/toml-rs/toml) — [![CI](https://github.com/toml-rs/toml/actions/workflows/ci.yml/badge.svg)](https://github.com/toml-rs/toml/actions/workflows/ci.yml)
 
 ### Libraries / Parsing
 
 *   [comex/rust-shlex (⭐86)](https://github.com/comex/rust-shlex) \[[shlex](https://crates.io/crates/shlex)] — Split a string into shell words, like Python's shlex. [![build badge](https://github.com/comex/rust-shlex/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/comex/rust-shlex/actions/workflows/test.yml)
 
-## [45. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [44. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Cordova plugins / Compatible
 
@@ -599,24 +593,24 @@
 ### Cordova plugins / Incompatible
 
 *   [`cordova-plugin-add-swift-support`](https://github.com/akofman/cordova-plugin-add-swift-support) (not needed, Capacitor has built in Swift support)
-*   [`cordova-plugin-admobpro`](https://github.com/floatinghotpot/cordova-admob-pro) ([see details (⭐10k)](https://github.com/ionic-team/capacitor/issues/1101))
-*   [`cordova-plugin-braintree`](https://github.com/Taracque/cordova-plugin-braintree) ([see details (⭐10k)](https://github.com/ionic-team/capacitor/issues/1415))
+*   [`cordova-plugin-admobpro`](https://github.com/floatinghotpot/cordova-admob-pro) ([see details (⭐11k)](https://github.com/ionic-team/capacitor/issues/1101))
+*   [`cordova-plugin-braintree`](https://github.com/Taracque/cordova-plugin-braintree) ([see details (⭐11k)](https://github.com/ionic-team/capacitor/issues/1415))
 *   [`cordova-plugin-code-push`](https://github.com/microsoft/code-push) ([see details (⭐4.3k)](https://github.com/microsoft/code-push/issues/615))
 *   [`cordova-plugin-compat`](https://github.com/apache/cordova-plugin-compat) (not needed)
 *   [`cordova-plugin-console`](https://github.com/apache/cordova-plugin-console) (not needed, Capacitor has its own)
 *   [`cordova-plugin-crosswalk-webview`](https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview) (Capacitor doesn't allow to change the webview)
-*   [`cordova-plugin-fcm`](https://github.com/fechanique/cordova-plugin-fcm) ([see details (⭐10k)](https://github.com/ionic-team/capacitor/issues/584))
-*   [`cordova-plugin-firebase`](https://github.com/arnesson/cordova-plugin-firebase) ([see details (⭐10k)](https://github.com/ionic-team/capacitor/issues/815))
+*   [`cordova-plugin-fcm`](https://github.com/fechanique/cordova-plugin-fcm) ([see details (⭐11k)](https://github.com/ionic-team/capacitor/issues/584))
+*   [`cordova-plugin-firebase`](https://github.com/arnesson/cordova-plugin-firebase) ([see details (⭐11k)](https://github.com/ionic-team/capacitor/issues/815))
 *   [`cordova-plugin-ionic-keyboard`](https://github.com/ionic-team/cordova-plugin-ionic-keyboard) (not needed, Capacitor has it's own)
 *   [`cordova-plugin-ionic-webview`](https://github.com/ionic-team/cordova-plugin-ionic-webview) (not needed, Capacitor uses WKWebView)
 *   [`cordova-plugin-music-controls`](https://github.com/homerours/cordova-music-controls-plugin) (causes build failures, skipped)
-*   [`cordova-plugin-qrscanner`](https://github.com/bitpay/cordova-plugin-qrscanner) ([see details (⭐10k)](https://github.com/ionic-team/capacitor/issues/1213))
+*   [`cordova-plugin-qrscanner`](https://github.com/bitpay/cordova-plugin-qrscanner) ([see details (⭐11k)](https://github.com/ionic-team/capacitor/issues/1213))
 *   [`cordova-plugin-splashscreen`](https://github.com/apache/cordova-plugin-splashscreen) (not needed, Capacitor has its own)
 *   [`cordova-plugin-statusbar`](https://github.com/apache/cordova-plugin-statusbar) (not needed, Capacitor has its own)
 *   [`cordova-plugin-wkwebview-engine`](https://github.com/apache/cordova-plugin-wkwebview-engine) (not needed, Capacitor uses WKWebView)
 *   [`cordova-plugin-googlemaps`](https://github.com/mapsplugin/cordova-plugin-googlemaps) (causes build failures on iOS, skipped for iOS only)
 
-## [46. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [45. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Office
 
@@ -638,14 +632,14 @@
 
 *   [RunCat (⭐363)](https://github.com/win0err/gnome-runcat) — The cat tells you the CPU usage by running speed.
 
-## [47. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [46. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
 *   [Debian](https://raspi.debian.net) - Unofficial Debian image for Raspberry Pi (maintained by a Debian Developer).
 *   [FreeBSD](https://wiki.freebsd.org/arm/Raspberry%20Pi) - FreeBSD is an advanced computer operating system used to power modern servers, desktops, and embedded platforms.
 
-## [48. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [47. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Templates
 
@@ -665,7 +659,7 @@
 *   [Steve Sanderson Wows Web-Devs with Peek at 'Blazor United' for .NET 8](https://visualstudiomagazine.com/articles/2023/01/26/blazor-united.aspx) - January 26, 2023 - We've started some experiments to combine the advantages of Razor Pages, Blazor Server and Blazor WebAssembly all into one thing.
 *   [Using .NET code from JavaScript using WebAssembly](https://www.meziantou.net/using-dotnet-code-from-javascript-using-webassembly.htm) - January 23, 2023 - Blazor WebAssembly allows to run a .NET web application in a browser. Starting with .NET 7, you can easily run any .NET method from JavaScript without needing the whole Blazor framework. Let's see how to run a .NET method from JavaScript.
 
-## [49. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [48. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vanilla
 
@@ -673,20 +667,20 @@
 
 ### Templates / React
 
-*   [vite-reactts18-chakra-jest-husky (⭐46)](https://github.com/The24thDS/vite-reactts18-chakra-jest-husky) - React 18, TypeScript, Chakra UI, Jest, ESLint, Prettier, Husky.
+*   [vite-reactts18-chakra-jest-husky (⭐47)](https://github.com/The24thDS/vite-reactts18-chakra-jest-husky) - React 18, TypeScript, Chakra UI, Jest, ESLint, Prettier, Husky.
 
 ### Node.js / Community
 
-*   [vite-express (⭐399)](https://github.com/szymmis/vite-express) - Integration for Express web apps.
+*   [vite-express (⭐416)](https://github.com/szymmis/vite-express) - Integration for Express web apps.
 
-## [50. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [49. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Monitoring Services / Other
 
 *   [Docker Certification](https://intellipaat.com/docker-training-course/?US) :heavy\_dollar\_sign: will help you to will Learn Docker containerization, running Docker containers, Image creation, Dockerfile, Docker orchestration, security best practices, and more through hands-on projects and case studies and helps to clear Docker Certified Associate.
 *   [Docker dev bookmarks](https://www.codever.dev/search?q=docker) - use the tag [docker](https://www.codever.dev/bookmarks/t/docker)
 
-## [51. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [50. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### GPU
 
@@ -696,18 +690,18 @@
 
 *   [Lldb](https://lldb.llvm.org/) - LLDB is a next generation, high-performance debugger.
 
-## [52. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [51. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ez-cmd (⭐1)](https://github.com/akgarhwal/ez-cmd) - Simplifies and streamlines common command-line tasks by providing easy-to-use shortcuts and aliases.
-*   [multi-evalcache (⭐0)](https://github.com/rwwiv/multi-evalcache) - Cache multiple eval loads to improve startup time, inspired by [mroth/evalcache (⭐162)](https://github.com/mroth/evalcache).
+*   [multi-evalcache (⭐0)](https://github.com/rwwiv/multi-evalcache) - Cache multiple eval loads to improve startup time, inspired by [mroth/evalcache (⭐164)](https://github.com/mroth/evalcache).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [zcmder (⭐0)](https://github.com/bwpge/zcmder) - inspired by [Cmder](https://cmder.app/) with decorators for `git` information, current directory and root status.
 
-## [53. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [52. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 

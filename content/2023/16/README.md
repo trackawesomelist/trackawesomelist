@@ -22,7 +22,7 @@
 
 ### Learn
 
-*   [Hackathon (⭐66)](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
+*   [Hackathon (⭐72)](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 
 ## [4. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/week/README.md)
 
@@ -103,13 +103,13 @@
 
 ### ChatGPT
 
-*   [LocalAI (⭐16k)](https://github.com/go-skynet/LocalAI) - Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware.
+*   [LocalAI (⭐17k)](https://github.com/go-skynet/LocalAI) - Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware.
 
 ## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [Ahoo-Wang/Simba (⭐12)](https://github.com/Ahoo-Wang/Simba) - Distributed lock service
+*   [Ahoo-Wang/Simba (⭐14)](https://github.com/Ahoo-Wang/Simba) - Distributed lock service
 
 ## [12. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Webarchive (⭐71)](https://github.com/derfenix/webarchive) - Lightweight self-hosted *wayback machine* that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
+*   [Webarchive (⭐75)](https://github.com/derfenix/webarchive) - Lightweight self-hosted *wayback machine* that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
 
 ## [14. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
@@ -149,7 +149,7 @@
 
 ### Database Tools
 
-*   [Online Migrations (⭐551)](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production.
+*   [Online Migrations (⭐563)](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production.
 
 ### Feature Flippers and A/B Testing
 
@@ -157,7 +157,7 @@
 
 ### Machine Learning
 
-*   [ruby-openai (⭐2.1k)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
+*   [ruby-openai (⭐2.2k)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
 
 ### PDF
 
@@ -193,7 +193,6 @@
 
 ### Resources / Blog posts
 
-*   [Polars - modern data frame library ](https://dskrzypiec.dev/polars/) - A blog post that describes why Polars could be a better alternative to pandas, dplyr or data.table by [@DSkrzypiec](https://github.com/DSkrzypiec).
 *   [The fastest way to read a CSV file in Python](https://itnext.io/the-fastest-way-to-read-a-csv-file-in-pandas-2-0-532c1f978201) - A blog post that compares different ways (including Polars, pyarrow and C) to read a CSV file with Python by [Finn Andersen](https://medium.com/@finndersen).
 
 ### Resources / Talks and videos
@@ -211,7 +210,7 @@
 
 ### Tools / Community providers
 
-*   [terraform-repl (⭐85)](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better interactive console experience.
+*   [terraform-repl (⭐86)](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better interactive console experience.
 
 ## [24. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -310,16 +309,16 @@
 
 ### Continuous Integration
 
-*   [go-test-coverage (⭐36)](https://github.com/vladopajic/go-test-coverage) - Tool and GitHub action which reports issues when test coverage is below set threshold.
+*   [go-test-coverage (⭐38)](https://github.com/vladopajic/go-test-coverage) - Tool and GitHub action which reports issues when test coverage is below set threshold.
 
 ### Caches
 
-*   [imcache (⭐106)](https://github.com/erni27/imcache) - A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
-*   [theine (⭐202)](https://github.com/Yiling-J/theine-go) - High performance, near optimal in-memory cache with proactive TTL expiration and generics.
+*   [imcache (⭐110)](https://github.com/erni27/imcache) - A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
+*   [theine (⭐205)](https://github.com/Yiling-J/theine-go) - High performance, near optimal in-memory cache with proactive TTL expiration and generics.
 
 ### Images
 
-*   [color-extractor (⭐74)](https://github.com/marekm4/color-extractor) - Dominant color extractor with no external dependencies.
+*   [color-extractor (⭐77)](https://github.com/marekm4/color-extractor) - Dominant color extractor with no external dependencies.
 
 ### Logging
 
@@ -542,7 +541,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [nvm (⭐73k)](https://github.com/nvm-sh/nvm) - Node Version Manager is a POSIX-compliant bash script to manage multiple active node.js versions. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nvm-sh/nvm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [nvm (⭐74k)](https://github.com/nvm-sh/nvm) - Node Version Manager is a POSIX-compliant bash script to manage multiple active node.js versions. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nvm-sh/nvm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / General Tools
 
@@ -795,9 +794,9 @@
 
 *   [Bind](https://www.isc.org/bind/) - Versatile, classic, complete name server software. ([Source Code](https://gitlab.isc.org/isc-projects/bind9)) `MPL-2.0` `C`
 *   [dnsmasq](https://www.thekelleys.org.uk/dnsmasq/doc.html) - Provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot. ([Source Code](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=tree)) `GPL-2.0` `C`
-*   [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code (⭐381)](https://github.com/NLnetLabs/nsd)) `BSD-3-Clause` `C`
+*   [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code (⭐393)](https://github.com/NLnetLabs/nsd)) `BSD-3-Clause` `C`
 *   [PowerDNS Authoritative Server](https://doc.powerdns.com/authoritative/) - Versatile nameserver which supports a large number of backends. ([Source Code (⭐3.3k)](https://github.com/PowerDNS/pdns)) `GPL-2.0` `C++`
-*   [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - Validating, recursive, and caching DNS resolver. ([Source Code (⭐2.6k)](https://github.com/NLnetLabs/unbound)) `BSD-3-Clause` `C`
+*   [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - Validating, recursive, and caching DNS resolver. ([Source Code (⭐2.7k)](https://github.com/NLnetLabs/unbound)) `BSD-3-Clause` `C`
 *   [Yadifa](https://www.yadifa.eu/) - Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. ([Source Code (⭐59)](https://github.com/yadifa/yadifa)) `BSD-3-Clause` `C`
 
 ## [50. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)

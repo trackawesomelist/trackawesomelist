@@ -49,14 +49,14 @@
 
 ### Apps / Widgets
 
-*   [wagtailgmaps (⭐80)](https://github.com/springload/wagtailgmaps) - Simple Google Maps address formatter for Wagtail fields.
-*   [wagtail-markdown (⭐174)](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail.
+*   [wagtailgmaps (⭐81)](https://github.com/springload/wagtailgmaps) - Simple Google Maps address formatter for Wagtail fields.
+*   [wagtail-markdown (⭐176)](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail.
 
 ### Apps / SEO and SMO
 
 *   [wagtail-metadata (⭐113)](https://github.com/takeflight/wagtail-metadata) - A tool to assist with metadata for social media and search engines.
 *   [wagtail-metadata-mixin (⭐45)](https://github.com/bashu/wagtail-metadata-mixin) - OpenGraph, Twitter Card and Google+ snippet tags for Wagtail CMS pages.
-*   [wagtail-schema.org (⭐65)](https://github.com/takeflight/wagtail-schema.org) - Schema.org JSON-LD tags for Wagtail sites.
+*   [wagtail-schema.org (⭐66)](https://github.com/takeflight/wagtail-schema.org) - Schema.org JSON-LD tags for Wagtail sites.
 
 ### Apps / Analytics
 
@@ -69,7 +69,7 @@
 ### Apps / Testing
 
 *   [Wagtail Accessibility (⭐30)](https://github.com/takeflight/wagtail-accessibility) – A plugin to assist with accessibility when developing in Wagtail.
-*   [Wagtail Factories (⭐97)](https://github.com/mvantellingen/wagtail-factories) - Factory boy classes for Wagtail.
+*   [Wagtail Factories (⭐99)](https://github.com/mvantellingen/wagtail-factories) - Factory boy classes for Wagtail.
 
 ## [7. BEM Resources](/content/sturobson/BEM-resources/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Authentication
 
-*   [ueberauth\_microsoft (⭐33)](https://github.com/swelham/ueberauth_microsoft) - A Microsoft strategy for Überauth.
+*   [ueberauth\_microsoft (⭐35)](https://github.com/swelham/ueberauth_microsoft) - A Microsoft strategy for Überauth.
 
 ### Cloud Infrastructure and Management
 
@@ -105,7 +105,7 @@
 
 ### HTTP
 
-*   [uri\_query (⭐11)](https://github.com/shhavel/uri_query) - URI encode nested GET parameters and array values in Elixir.
+*   [uri\_query (⭐12)](https://github.com/shhavel/uri_query) - URI encode nested GET parameters and array values in Elixir.
 
 ### Miscellaneous
 

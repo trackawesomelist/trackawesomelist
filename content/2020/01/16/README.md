@@ -210,11 +210,11 @@
 *   [react-draft-wysiwyg (⭐6.3k)](https://github.com/jpuri/react-draft-wysiwyg) - WYSIWYG editor build on top of [DraftJS](https://draftjs.org/).
 *   [react-medium-editor (⭐502)](https://github.com/wangzuo/react-medium-editor) - medium-editor wrapper.
 *   [react-quill (⭐6.4k)](https://github.com/zenoamaro/react-quill) - Quill wrapper.
-*   [react-trumbowyg (⭐143)](https://github.com/RD17/react-trumbowyg) - [Trumbowyg](https://alex-d.github.io/Trumbowyg/) wrapper.
+*   [react-trumbowyg (⭐144)](https://github.com/RD17/react-trumbowyg) - [Trumbowyg](https://alex-d.github.io/Trumbowyg/) wrapper.
 
 ### Form Components / Image Editing
 
-*   [react-image-cropper (⭐177)](https://github.com/jerryshew/react-image-cropper) - Image cropper.
+*   [react-image-cropper (⭐176)](https://github.com/jerryshew/react-image-cropper) - Image cropper.
 
 ### Form Components / Form Component Collections
 
@@ -222,7 +222,7 @@
 
 ### Form Components / Syntax Highlight
 
-*   [react-syntax-highlighter (⭐3.7k)](https://github.com/conorhastings/react-syntax-highlighter) - Syntax highlighting component with Prismjs or Highlightjs AST using inline styles.
+*   [react-syntax-highlighter (⭐3.8k)](https://github.com/conorhastings/react-syntax-highlighter) - Syntax highlighting component with Prismjs or Highlightjs AST using inline styles.
 
 ### UI Layout / Syntax Highlight
 
@@ -236,15 +236,15 @@
 
 *   [data-driven-motion (⭐539)](https://github.com/tkh44/data-driven-motion) - Easily animate your data.
 *   [react-anime (⭐1.5k)](https://github.com/stelatech/react-anime) - A super easy animation library.
-*   [react-mt-svg-lines (⭐355)](https://github.com/moarwick/react-mt-svg-lines) - Wrapper to animate the line stroke in SVGs.
+*   [react-mt-svg-lines (⭐356)](https://github.com/moarwick/react-mt-svg-lines) - Wrapper to animate the line stroke in SVGs.
 *   [react-spring (⭐27k)](https://github.com/react-spring/react-spring) - A spring physics based animation library.
 *   [react-transitive-number (⭐210)](https://github.com/Lapple/react-transitive-number) - Apply transition effect to numeric strings, a la old Groupon timers.
-*   [react-particles-bg (⭐621)](https://github.com/lindelof/particles-bg) - Particles backgrounds.
+*   [react-particles-bg (⭐624)](https://github.com/lindelof/particles-bg) - Particles backgrounds.
 
 ### Responsive / Syntax Highlight
 
 *   [atlaskit](https://atlaskit.atlassian.com/packages) - Atlassian's official UI library, with components from *badge* to *tree table*.
-*   [carbon (⭐7.3k)](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM.
+*   [carbon (⭐7.4k)](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM.
 *   [chakra-ui (⭐36k)](https://github.com/chakra-ui/chakra-ui) - [demo/docs](https://chakra-ui.com) - Simple, Modular & Accessible UI Components for your React Applications.
 *   [evergreen (⭐12k)](https://github.com/segmentio/evergreen) - [demo/docs](https://evergreen.segment.com) - Evergreen React UI Framework by Segment.
 *   [gestalt (⭐4.2k)](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language.

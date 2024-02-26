@@ -22,8 +22,8 @@
 
 ### Command-line tools
 
-*   [jiq (⭐826)](https://github.com/fiatjaf/jiq) - It's `jid` with `jq`. You can drill down interactively by using `jq` filtering queries.
-*   [jv (⭐110)](https://github.com/maxzender/jv) - jv (for jsonviewer) helps you view your JSON.
+*   [jiq (⭐899)](https://github.com/fiatjaf/jiq) - It's `jid` with `jq`. You can drill down interactively by using `jq` filtering queries.
+*   [jv (⭐117)](https://github.com/maxzender/jv) - jv (for jsonviewer) helps you view your JSON.
 
 ## [4. Awesome Math](/content/rossant/awesome-math/README.md)
 

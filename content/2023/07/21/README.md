@@ -16,23 +16,23 @@
 
 ### Related Awesome Lists / Telegram
 
-*   [awesome-anti-forensic (⭐522)](https://github.com/remiflavien1/awesome-anti-forensic) by @remiflavien1
-*   [awesome-ctf (⭐8.4k)](https://github.com/apsdehal/awesome-ctf) by @apsdehal
-*   [awesome-forensics (⭐3.1k)](https://github.com/Cugu/awesome-forensics) by @cugu
-*   [awesome-hacking (⭐11k)](https://github.com/carpedm20/awesome-hacking) by @carpedm20
-*   [awesome-honeypots (⭐7.3k)](https://github.com/paralax/awesome-honeypots) by @paralax
-*   [awesome-incident-response (⭐6.5k)](https://github.com/meirwah/awesome-incident-response) by @meirwah
-*   [awesome-lockpicking (⭐1.2k)](https://github.com/fabacab/awesome-lockpicking) by @fabacab
-*   [awesome-malware-analysis (⭐10k)](https://github.com/rshipp/awesome-malware-analysis) by @rshipp
-*   [awesome-pentest (⭐19k)](https://github.com/enaqx/awesome-pentest) by @enaqx
-*   [awesome-privacy (⭐4.8k)](https://github.com/Lissy93/awesome-privacy/) by @Lissy93
-*   [awesome-sec-talks (⭐3.8k)](https://github.com/PaulSec/awesome-sec-talks) by @PaulSec
-*   [awesome-security (⭐10k)](https://github.com/sbilly/awesome-security) by @sbilly
-*   [awesome-threat-intelligence (⭐6.5k)](https://github.com/hslatman/awesome-threat-intelligence) by @hslatman
-*   [infosec reference (⭐5.1k)](https://github.com/rmusser01/Infosec_Reference) by @rmusser01
-*   [personal-security-checklist (⭐13k)](https://github.com/Lissy93/personal-security-checklist) by @Lissy93
-*   [SecLists (⭐49k)](https://github.com/danielmiessler/SecLists) by @danielmiessler
-*   [security-list (⭐1.6k)](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
+*   [awesome-anti-forensic (⭐633)](https://github.com/remiflavien1/awesome-anti-forensic) by @remiflavien1
+*   [awesome-ctf (⭐8.9k)](https://github.com/apsdehal/awesome-ctf) by @apsdehal
+*   [awesome-forensics (⭐3.4k)](https://github.com/Cugu/awesome-forensics) by @cugu
+*   [awesome-hacking (⭐12k)](https://github.com/carpedm20/awesome-hacking) by @carpedm20
+*   [awesome-honeypots (⭐7.7k)](https://github.com/paralax/awesome-honeypots) by @paralax
+*   [awesome-incident-response (⭐6.9k)](https://github.com/meirwah/awesome-incident-response) by @meirwah
+*   [awesome-lockpicking (⭐1.3k)](https://github.com/fabacab/awesome-lockpicking) by @fabacab
+*   [awesome-malware-analysis (⭐11k)](https://github.com/rshipp/awesome-malware-analysis) by @rshipp
+*   [awesome-pentest (⭐20k)](https://github.com/enaqx/awesome-pentest) by @enaqx
+*   [awesome-privacy (⭐5.4k)](https://github.com/Lissy93/awesome-privacy/) by @Lissy93
+*   [awesome-sec-talks (⭐3.9k)](https://github.com/PaulSec/awesome-sec-talks) by @PaulSec
+*   [awesome-security (⭐11k)](https://github.com/sbilly/awesome-security) by @sbilly
+*   [awesome-threat-intelligence (⭐7k)](https://github.com/hslatman/awesome-threat-intelligence) by @hslatman
+*   [infosec reference (⭐5.3k)](https://github.com/rmusser01/Infosec_Reference) by @rmusser01
+*   [personal-security-checklist (⭐14k)](https://github.com/Lissy93/personal-security-checklist) by @Lissy93
+*   [SecLists (⭐52k)](https://github.com/danielmiessler/SecLists) by @danielmiessler
+*   [security-list (⭐1.7k)](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Goroutines
 
-*   [flowmatic (⭐228)](https://github.com/carlmjohnson/flowmatic) - Structured concurrency made easy.
+*   [flowmatic (⭐229)](https://github.com/carlmjohnson/flowmatic) - Structured concurrency made easy.
 
 ### Query Language
 
@@ -87,7 +87,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [microsoft/semantic-kernel (⭐16k)](https://github.com/microsoft/semantic-kernel): integrate cutting-edge LLM technology quickly and easily into your apps
+*   [microsoft/semantic-kernel (⭐17k)](https://github.com/microsoft/semantic-kernel): integrate cutting-edge LLM technology quickly and easily into your apps
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
@@ -110,11 +110,11 @@
 
 ### Tools / Community providers
 
-*   [terragrunt-atlantis-config (⭐524)](https://github.com/transcend-io/terragrunt-atlantis-config) - Generate Atlantis config for Terragrunt projects.
+*   [terragrunt-atlantis-config (⭐539)](https://github.com/transcend-io/terragrunt-atlantis-config) - Generate Atlantis config for Terragrunt projects.
 
 ### Self-hosted Terraform Platforms / IDE
 
-*   [cloud-concierge (⭐155)](https://github.com/dragondrop-cloud/cloud-concierge) - Open Source, codify unmanaged resources as Terraform, detect drift, and cloud cost and security analysis, delivered as a Pull Request.
+*   [cloud-concierge (⭐158)](https://github.com/dragondrop-cloud/cloud-concierge) - Open Source, codify unmanaged resources as Terraform, detect drift, and cloud cost and security analysis, delivered as a Pull Request.
 
 ---
 

@@ -249,7 +249,7 @@
 
 ### File Upload
 
-*   [PaperClip (⭐9.1k)](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord. Deprecated as of May 14, 2018.
+*   [PaperClip (⭐9k)](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord. Deprecated as of May 14, 2018.
 
 ## [20. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -361,33 +361,33 @@
 
 ### Command-Line Productivity
 
-*   [fd (⭐29k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
+*   [fd (⭐31k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
 *   [Lmod](https://lmod.readthedocs.io/en/latest/) - Lua-based Environment Modules that enhances Tcl-based modules while being backward compatible (compare to modules)
-*   [shell-history (⭐102)](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts
+*   [shell-history (⭐107)](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts
 *   [surfraw](https://gitlab.com/surfraw/Surfraw) - browse specific site and search the web from your terminal without browser.
 
 ### Customization / Directory Navigation
 
-*   [polyglot (⭐164)](https://github.com/agkozak/polyglot) - An informative Git prompt that works in bash, zsh, ksh, mksh, pdksh, oksh, dash, yash, busybox sh, and osh
+*   [polyglot (⭐165)](https://github.com/agkozak/polyglot) - An informative Git prompt that works in bash, zsh, ksh, mksh, pdksh, oksh, dash, yash, busybox sh, and osh
 
 ### For Developers / Directory Navigation
 
-*   [add-gitignore (⭐607)](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
+*   [add-gitignore (⭐628)](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
 *   [mr](https://myrepos.branchable.com) - Multiple Repository management tool
 
 ### System Utilities / Directory Navigation
 
-*   [rng (⭐30)](https://github.com/nickolasburr/rng) - Copy range of lines from file or stdin to stdout.
-*   [wifi-wand (⭐61)](https://github.com/keithrbennett/wifiwand) - a Ruby command line application for managing WiFi on MacOS (install by `gem install wifi-wand`)
+*   [rng (⭐31)](https://github.com/nickolasburr/rng) - Copy range of lines from file or stdin to stdout.
+*   [wifi-wand (⭐60)](https://github.com/keithrbennett/wifiwand) - a Ruby command line application for managing WiFi on MacOS (install by `gem install wifi-wand`)
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [korkut (⭐358)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
+*   [korkut (⭐362)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
 
 ### Applications / Directory Navigation
 
-*   [md2png (⭐27)](https://github.com/weaming/md2png) - Convert markdown to PNG image
-*   [whales (⭐366)](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications
+*   [md2png (⭐30)](https://github.com/weaming/md2png) - Convert markdown to PNG image
+*   [whales (⭐370)](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications
 
 ## [28. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -439,7 +439,7 @@
 
 ### Algorithms and Data structures
 
-*   [CrOTP (⭐63)](https://github.com/philnash/crotp) - HOTP and TOTP implementation for two factor authentication
+*   [CrOTP (⭐62)](https://github.com/philnash/crotp) - HOTP and TOTP implementation for two factor authentication
 
 ### Misc
 
@@ -447,7 +447,7 @@
 
 ### DevOps
 
-*   [DPPM (⭐111)](https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (mostly Linux)
+*   [DPPM (⭐113)](https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (mostly Linux)
 
 ## [33. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -496,7 +496,7 @@
 
 ### Algorithms and Data structures
 
-*   [bimap (⭐25)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
+*   [bimap (⭐26)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
 
 ## [37. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 

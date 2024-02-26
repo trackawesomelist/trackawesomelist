@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 23 - Oct 29, 2017
 
-55 awesome lists updated this week.
+56 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -645,13 +645,12 @@
 ### Math / Other
 
 *   [Maths & trigonometry cheat sheet for 2D & 3D games](https://gist.github.com/xem/99930986c5333125a13b0ea50600391f) - Maths cheat-sheet for 2D and 3D game-makers.
-*   [Tiny 3D](https://cantelope.org/tiny_3D/) - The smallest possible perspective engine on a 2D canvas.
 
 ## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### HTTP
 
-*   [crest (⭐226)](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
+*   [crest (⭐227)](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
 
 ## [44. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
@@ -698,7 +697,21 @@
 
 *   Matthew Green <https://blog.cryptographyengineering.com/>
 
-## [47. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [47. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### 项目相关
+
+*   [Joel谈软件](https://web.archive.org/web/20170616013024/http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\))
+
+### C++
+
+*   [Cmake 实践](https://web.archive.org/web/20170615174144/http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF)
+
+### Perl / Zepto.js
+
+*   [Perl 5 教程](https://web.archive.org/web/20150326073235/http://net.pku.edu.cn/~yhf/tutorial/perl/perl.html)
+
+## [48. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### NewSQL Databases
 
@@ -708,7 +721,7 @@
 
 *   [SiriDB (⭐480)](https://github.com/transceptor-technology/siridb-server) Highly-scalable, robust and fast, open source time series database with cluster functionality.
 
-## [48. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
+## [49. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
 ### Documentation
 
@@ -718,7 +731,7 @@
 
 *   [Transloadit](https://transloadit.com/) `requires-approval` - API for file uploading & encoding.
 
-## [49. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [50. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -733,7 +746,7 @@
 *   [Building good SLOs - CRE life lessons](https://cloudplatform.googleblog.com/2017/10/building-good-SLOs-CRE-life-lessons.html)
 *   [No Grumpy Humans and Other Site Reliability Engineering Lessons from Google](https://thenewstack.io/sre-lessons-google-no-grumpy-humans/)
 
-## [50. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [51. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Games / Others
 
@@ -744,13 +757,13 @@
 
 *   [Resume Nation](https://resume-nation.github.io) - An open source resume builder progressive web app which can work offline. It has a few themes to choose from and it can export the resume in PDF form.
 
-## [51. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [52. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### Blog Posts
 
 *   [How To Prepare And Write A Tech Conference Talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/) - by **Lena Reinhard**
 
-## [52. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [53. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
@@ -761,7 +774,7 @@
 
 *   [LINQ to DB (linq2db)](https://linq2db.github.io/) - The fastest LINQ database access library offering a simple, lightweight, fast, and type-safe layer between your POCO objects and your database for more than 10 database engines with full SQL support.
 
-## [53. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [54. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### UX Libraries for Salesforce / Open Source Projects Repositories from Salesforce
 
@@ -779,13 +792,13 @@
 
 *   [Andrez Perez - (ElToro.IT)](https://eltoroit.herokuapp.com) - Articles about Lightning Components, Apex, Visualforce, Force.com and Salesforce in general. He is a Master Technical Instructor at Salesforce.com and owns 11x Salesforce certifications.
 
-## [54. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [55. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### LaTeX formulas on the web
 
 *   [Auto-LaTeX Equations with Google Docs](https://sites.google.com/site/autolatexequations) - Render high-quality math equations directly in Google Docs.
 
-## [55. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [56. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Transition / Barcode
 

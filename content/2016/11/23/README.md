@@ -10,7 +10,7 @@
 
 ### Math / Other
 
-*   [Math snippets (⭐109)](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
+*   [Math snippets (⭐114)](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
 
 ## [2. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 

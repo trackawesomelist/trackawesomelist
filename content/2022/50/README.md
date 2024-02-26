@@ -16,13 +16,13 @@
 
 ### Algorithms and Data structures
 
-*   [Goban (⭐19)](https://github.com/soya-daizu/goban) - A fast and efficient QR Code implementation
+*   [Goban (⭐22)](https://github.com/soya-daizu/goban) - A fast and efficient QR Code implementation
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
-*   [Arti](https://gitlab.torproject.org/tpo/core/arti) — An implementation of Tor, in Rust. (So far, it's a not-very-complete client. But watch this space!) [![Crates.io](https://img.shields.io/crates/v/arti.svg)](https://crates.io/crates/arti)
+*   [Arti](https://gitlab.torproject.org/tpo/core/arti) — An implementation of Tor. (So far, it's a not-very-complete client. But watch this space!) [![Crates.io](https://img.shields.io/crates/v/arti.svg)](https://crates.io/crates/arti)
 
 ### Development tools / IDEs
 
@@ -89,7 +89,7 @@
 
 ### REST and API
 
-*   🍰 [CRUD plugin (⭐374)](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production-ready code.
+*   🍰 [CRUD plugin (⭐373)](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production-ready code.
 
 ## [8. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
@@ -101,11 +101,11 @@
 
 ### Databases
 
-*   [Supabase (⭐211)](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
+*   [Supabase (⭐219)](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
 
 ### Business
 
-*   [Engineering Strategy (⭐585)](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
+*   [Engineering Strategy (⭐693)](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
 
 ## [10. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
@@ -149,7 +149,7 @@
 
 ### Decentralized
 
-*   [Nostr (⭐9.2k)](https://github.com/nostr-protocol/nostr) - Open protocol that is able to create a censorship-resistant global "social" network. It doesn't rely on any trusted central server, hence it is resilient; it is based on cryptographic keys and signatures, so it is tamperproof; it does not rely on P2P techniques, therefore it works. **Note**: Nostr is a protocol, so it is capable of offering much more than a Twitter alternative.
+*   [Nostr (⭐9.3k)](https://github.com/nostr-protocol/nostr) - Open protocol that is able to create a censorship-resistant global "social" network. It doesn't rely on any trusted central server, hence it is resilient; it is based on cryptographic keys and signatures, so it is tamperproof; it does not rely on P2P techniques, therefore it works. **Note**: Nostr is a protocol, so it is capable of offering much more than a Twitter alternative.
 
 ## [16. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
@@ -161,7 +161,7 @@
 
 ### Yaml
 
-*   [rapidyaml (⭐493)](https://github.com/biojppm/rapidyaml) - Rapid YAML is a C++ library to parse and emit YAML. \[MIT]
+*   [rapidyaml (⭐499)](https://github.com/biojppm/rapidyaml) - Rapid YAML is a C++ library to parse and emit YAML. \[MIT]
 
 ## [18. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
@@ -269,7 +269,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [retrospring (⭐175)](https://github.com/retrospring/retrospring) - A social network following the Q/A (question and answer) principle - [:earth\_africa:](https://retrospring.net)
+*   [retrospring (⭐176)](https://github.com/retrospring/retrospring) - A social network following the Q/A (question and answer) principle - [:earth\_africa:](https://retrospring.net)
 
 ## [31. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
 
@@ -382,7 +382,7 @@
 
 ### Tools / Community providers
 
-*   [AIaC (⭐3k)](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator
+*   [AIaC (⭐3.2k)](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator
 
 ## [38. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
@@ -599,19 +599,19 @@
 
 ### Software / Miscellaneous
 
-*   [IconCaptcha](https://www.fabianwennink.nl/projects/IconCaptcha/) - IconCaptcha is a self-hosted, fast, simple and user-friendly captcha for PHP. ([Source Code (⭐100)](https://github.com/fabianwennink/IconCaptcha-Plugin-jQuery-PHP)) `MIT` `PHP`
+*   [IconCaptcha](https://www.fabianwennink.nl/projects/IconCaptcha/) - IconCaptcha is a self-hosted, fast, simple and user-friendly captcha for PHP. ([Source Code (⭐106)](https://github.com/fabianwennink/IconCaptcha-Plugin-jQuery-PHP)) `MIT` `PHP`
 
 ### Software / Money, Budgeting & Management
 
-*   [OpenBudgeteer (⭐677)](https://github.com/TheAxelander/OpenBudgeteer) - A budgeting app based on the Bucket Budgeting Principle. `MIT` `Docker/C#`
+*   [OpenBudgeteer (⭐683)](https://github.com/TheAxelander/OpenBudgeteer) - A budgeting app based on the Bucket Budgeting Principle. `MIT` `Docker/C#`
 
 ### Software / Ticketing
 
-*   [ITFlow](https://itflow.org) - Client IT Documentation, Ticketing, Invoicing and Accounting Web Application for MSPs (Managed Service Providers). ([Demo](https://demo.itflow.org), [Source Code (⭐427)](https://github.com/itflow-org/itflow)) `GPL-3.0` `PHP`
+*   [ITFlow](https://itflow.org) - Client IT Documentation, Ticketing, Invoicing and Accounting Web Application for MSPs (Managed Service Providers). ([Demo](https://demo.itflow.org), [Source Code (⭐443)](https://github.com/itflow-org/itflow)) `GPL-3.0` `PHP`
 
 ### Software / Time Tracking
 
-*   [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code (⭐934)](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
+*   [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code (⭐949)](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
 
 ## [46. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
@@ -623,7 +623,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-copyq-clipboard (⭐0)](https://github.com/magidc/fzf-copyq-clipboard-zsh-plugin) - Add [fzf (⭐57k)](https://github.com/junegunn/fzf) support for [CopyQ](https://hluk.github.io/CopyQ/).
+*   [fzf-copyq-clipboard (⭐0)](https://github.com/magidc/fzf-copyq-clipboard-zsh-plugin) - Add [fzf (⭐58k)](https://github.com/junegunn/fzf) support for [CopyQ](https://hluk.github.io/CopyQ/).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -650,7 +650,7 @@
 
 ### Templates / Vue 3
 
-*   [vue-xs-admin (⭐82)](https://github.com/jsxiaosi/vue-xs-admin) - Based on Vue3, Vite3 ElementPlus, TypeScript, Pinia, VueRouter.
+*   [vue-xs-admin (⭐84)](https://github.com/jsxiaosi/vue-xs-admin) - Based on Vue3, Vite3 ElementPlus, TypeScript, Pinia, VueRouter.
 *   [vue-component-template (⭐21)](https://github.com/houtaroy/vue-component-template) - Vue 3, TSX, ESLint, Prettier.
 *   [ionic-vue-vite (⭐2)](https://github.com/reslear/ionic-vue-vite) - Vue 3 + Vue Router + Vite + Ionic.
 *   [ionic-vue-pnpm-monorepo (⭐6)](https://github.com/reslear/ionic-vue-pnpm-monorepo) - Vue 3 + Vue Router + Vite + Ionic + pnpm monorepo.
@@ -659,7 +659,7 @@
 
 ### Templates / React
 
-*   [react-vite-template (⭐20)](https://github.com/985563349/react-vite-template) - A react project template.
+*   [react-vite-template (⭐21)](https://github.com/985563349/react-vite-template) - A react project template.
 
 ### Templates / Electron
 
@@ -667,25 +667,25 @@
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-svgo (⭐20)](https://github.com/r3dDoX/vite-plugin-svgo) - Load SVGs as plain string and transform with SVGO library.
+*   [vite-plugin-svgo (⭐21)](https://github.com/r3dDoX/vite-plugin-svgo) - Load SVGs as plain string and transform with SVGO library.
 
 ### Framework-agnostic Plugins / Transformers
 
 *   [vite-plugin-css-export (⭐19)](https://github.com/shixuanhong/vite-plugin-css-export) - Export variables from CSS to JavaScript, and support nested rules.
-*   [vite-plugin-optimize-css-modules (⭐20)](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
+*   [vite-plugin-optimize-css-modules (⭐21)](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-mock-dev-server (⭐104)](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) - Mock server for development, support CJS/ESM/JSON, auto-importing file and HMR.
-*   [vite-plugin-externals-extension (⭐5)](https://github.com/XiSenao/vite-plugin-externals-extension) - External links plugin which supports ESM and UMD.
+*   [vite-plugin-mock-dev-server (⭐106)](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) - Mock server for development, support CJS/ESM/JSON, auto-importing file and HMR.
+*   [vite-plugin-externals-extension (⭐6)](https://github.com/XiSenao/vite-plugin-externals-extension) - External links plugin which supports ESM and UMD.
 
 ### Vue / Ecosystem
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-vue-i18n (⭐221)](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n) - Integration for Vue I18n.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-vue-i18n (⭐223)](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n) - Integration for Vue I18n.
 
 ### Preact / Presets
 
-*   [@preact/preset-vite (⭐230)](https://github.com/preactjs/preset-vite) - Preact preset. HMR, automatic Preact inject, removal of DevTools in prod.
+*   [@preact/preset-vite (⭐232)](https://github.com/preactjs/preset-vite) - Preact preset. HMR, automatic Preact inject, removal of DevTools in prod.
 
 ## [51. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
@@ -790,7 +790,7 @@
 
 ### Inbox: Stable Diffusion / Multi-agents
 
-*   [DETEXTIFY (⭐195)](https://github.com/iuliaturc/detextify): A Python library to remove unwanted pseudo-text from images generated by your favorite generative AI models (Stable Diffusion, Midjourney, DALL·E)
+*   [DETEXTIFY (⭐196)](https://github.com/iuliaturc/detextify): A Python library to remove unwanted pseudo-text from images generated by your favorite generative AI models (Stable Diffusion, Midjourney, DALL·E)
 
 ### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
 

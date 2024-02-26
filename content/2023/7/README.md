@@ -48,7 +48,7 @@
 
 ### Applications
 
-*   [utils (⭐6)](https://github.com/q60/utils) - Website with handy day-to-day utils: to do list, URL shortener, code bin and pie chart. Written in Elixir using Phoenix Framework.
+*   [utils (⭐7)](https://github.com/q60/utils) - Website with handy day-to-day utils: to do list, URL shortener, code bin and pie chart. Written in Elixir using Phoenix Framework.
 
 ### Podcasts
 
@@ -109,9 +109,6 @@
 ### Official documentation
 
 *   [Documentation](https://pola-rs.github.io/polars-book/user-guide/) - Official user guide for Python, Rust and R.
-*   [Documentation for Python API ](https://pola-rs.github.io/polars/py-polars/html/reference/) - Official API Reference for Python.
-*   [Documentation for Rust API ](https://pola-rs.github.io/polars/polars/) - Official API Reference for Rust.
-*   [Documentation for R API ](https://rpolars.github.io/reference/index.html) - Official API Reference for R.
 *   [Github: Polars Github Organization](https://github.com/pola-rs) - Official Polars Github repository.
 *   [Blog posts from Polars](https://www.pola.rs/posts/) - Official blogs posts from Polars.
 
@@ -127,11 +124,11 @@
 
 ### Libraries/Packages/Scripts / R
 
-*   [rpolars for R (⭐366)](https://github.com/pola-rs/r-polars) - [R](https://www.r-project.org/) `rpolars` package to use polars DataFrame from R.
+*   [rpolars for R (⭐368)](https://github.com/pola-rs/r-polars) - [R](https://www.r-project.org/) `rpolars` package to use polars DataFrame from R.
 
 ### Libraries/Packages/Scripts / Node.js
 
-*   [nodejs-polars for Node.js (⭐265)](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `nodejs-polars` package to use polars DataFrame from Node.js.
+*   [nodejs-polars for Node.js (⭐271)](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `nodejs-polars` package to use polars DataFrame from Node.js.
 
 ### Resources / Tutorials & workshops
 
@@ -202,7 +199,7 @@
 
 ### Self-Hosted Registries / Miscellaneous
 
-*   [tapir (⭐125)](https://github.com/PacoVK/tapir) - Private Terraform Registry.
+*   [tapir (⭐133)](https://github.com/PacoVK/tapir) - Private Terraform Registry.
 
 ### Tools / Community providers
 
@@ -232,7 +229,7 @@
 
 ### Software / Miscellaneous
 
-*   [mosparo](https://mosparo.io/) - The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. ([Source Code (⭐115)](https://github.com/mosparo/mosparo)) `MIT` `PHP`
+*   [mosparo](https://mosparo.io/) - The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. ([Source Code (⭐124)](https://github.com/mosparo/mosparo)) `MIT` `PHP`
 
 ## [24. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -320,11 +317,11 @@
 
 ### Applications / Productivity
 
-*   [illacloud/illa (⭐208)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder written with Rust.
+*   [illacloud/illa (⭐210)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder.
 
 ### Libraries / Artificial Intelligence
 
-*   [64bit/async-openai (⭐845)](https://github.com/64bit/async-openai) \[[async-openai](https://crates.io/crates/async-openai)] — Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
+*   [64bit/async-openai (⭐872)](https://github.com/64bit/async-openai) \[[async-openai](https://crates.io/crates/async-openai)] — Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
 
 ### Libraries / Email
 
@@ -332,7 +329,7 @@
 
 ### Libraries / System
 
-*   [sorairolake/sysexits-rs (⭐19)](https://github.com/sorairolake/sysexits-rs) \[[sysexits](https://crates.io/crates/sysexits)] — The system exit codes as defined by [`<sysexits.h>`](https://manpages.ubuntu.com/manpages/lunar/man3/sysexits.h.3head.html). [![CI](https://github.com/sorairolake/sysexits-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/sysexits-rs/actions?query=workflow%3ACI)
+*   [sorairolake/sysexits-rs (⭐20)](https://github.com/sorairolake/sysexits-rs) \[[sysexits](https://crates.io/crates/sysexits)] — The system exit codes as defined by [`<sysexits.h>`](https://manpages.ubuntu.com/manpages/lunar/man3/sysexits.h.3head.html). [![CI](https://github.com/sorairolake/sysexits-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/sysexits-rs/actions?query=workflow%3ACI)
 
 ## [34. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -342,7 +339,7 @@
 
 ### Related Awesome Lists / Deforum
 
-*   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐90)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
+*   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐91)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
@@ -427,7 +424,7 @@
 *   [Monoid](http://larsenwork.com/monoid/) - Monoid is customizable and optimized for coding with bitmap-like sharpness at 15px line-height even on low res displays.
 *   [Mononoki](https://madmalik.github.io/mononoki/) - Mononoki is a typeface by Matthias Tellen, created to enhance code formatting.
 *   [More Nerd Fonts](https://www.nerdfonts.com/font-downloads) - Another site to download nerd fonts.
-*   [Nerd fonts (⭐49k)](https://github.com/ryanoasis/nerd-fonts) - A collection of over 20 patched fonts (over 1,700 variations) & the fontforge font patcher python script for Powerline, devicons, and vim-devicons: includes Droid Sans, Meslo, AnonymousPro, ProFont, Inconsolta, and many more. These can be installed with `brew` - do `brew tap homebrew/cask-fonts && brew install --cask fontname`
+*   [Nerd fonts (⭐50k)](https://github.com/ryanoasis/nerd-fonts) - A collection of over 20 patched fonts (over 1,700 variations) & the fontforge font patcher python script for Powerline, devicons, and vim-devicons: includes Droid Sans, Meslo, AnonymousPro, ProFont, Inconsolta, and many more. These can be installed with `brew` - do `brew tap homebrew/cask-fonts && brew install --cask fontname`
 *   [Victor Mono](https://rubjo.github.io/victor-mono/) - Victor Mono is a free programming font with semi-connected cursive italics, symbol ligatures (!=, ->>, =>, ===, <=, >=, ++) and Latin, Cyrillic and Greek characters.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -525,7 +522,7 @@
 
 ### Modules / Various Godot versions
 
-*   [godot-luaAPI (⭐273)](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua (Godot 3.2+, 4.0).
+*   [godot-luaAPI (⭐278)](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua (Godot 3.2+, 4.0).
 
 ## [49. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 

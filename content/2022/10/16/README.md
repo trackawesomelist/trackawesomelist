@@ -73,13 +73,13 @@
 
 ### Gems / Other external resources
 
-*   [rails-mermaid\_erd (⭐78)](https://github.com/koedame/rails-mermaid_erd) - A gem to interactively generate entity-relationship diagram in image or Markdown format. [:red\_circle:](https://rubygems.org/gems/rails-mermaid_erd)
+*   [rails-mermaid\_erd (⭐80)](https://github.com/koedame/rails-mermaid_erd) - A gem to interactively generate entity-relationship diagram in image or Markdown format. [:red\_circle:](https://rubygems.org/gems/rails-mermaid_erd)
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Date and Time
 
-*   [go-anytime (⭐13)](https://github.com/ijt/go-anytime) - Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance.
+*   [go-anytime (⭐14)](https://github.com/ijt/go-anytime) - Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance.
 
 ### Distributed Systems
 
@@ -99,7 +99,7 @@
 ### Android / Libraries
 
 *   [skydoves/balloon (⭐3.5k)](https://github.com/skydoves/balloon) - A lightweight popup like tooltips, fully customizable with arrow and animations.
-*   [ChuckerTeam/chucker (⭐3.5k)](https://github.com/ChuckerTeam/chucker) - An on-device network inspection tool for Android.
+*   [ChuckerTeam/chucker (⭐3.6k)](https://github.com/ChuckerTeam/chucker) - An on-device network inspection tool for Android.
 
 ## [9. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 

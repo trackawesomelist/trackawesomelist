@@ -300,11 +300,11 @@
 
 ### Applications / Security tools
 
-*   [epi052/feroxbuster (⭐5.1k)](https://github.com/epi052/feroxbuster) - A simple, fast, recursive content discovery tool written in Rust (
+*   [epi052/feroxbuster (⭐5.1k)](https://github.com/epi052/feroxbuster) - A simple, fast, recursive content discovery tool.
 
 ### Libraries / Cryptography
 
-*   [racum/rust-djangohashers (⭐55)](https://github.com/racum/rust-djangohashers) \[[djangohashers](https://crates.io/crates/djangohashers)] — A Rust port of the password primitives used in the Django Project. It doesn't require Django, only hashes and validates passwords according to its style.
+*   [racum/rust-djangohashers (⭐55)](https://github.com/racum/rust-djangohashers) \[[djangohashers](https://crates.io/crates/djangohashers)] — Port of the password primitives used in the Django Project. It doesn't require Django, only hashes and validates passwords according to its style.
 
 ## [11. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -316,7 +316,7 @@
 
 ### Code Formatting
 
-*   [niceql (⭐305)](https://github.com/alekseyl/niceql) - A dependentless SQL and SQL errors formatting and colorizing. ActiveRecord seemless integration.
+*   [niceql (⭐307)](https://github.com/alekseyl/niceql) - A dependentless SQL and SQL errors formatting and colorizing. ActiveRecord seemless integration.
 
 ---
 

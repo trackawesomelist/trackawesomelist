@@ -28,7 +28,7 @@
 
 ### Contents / Libraries
 
-*   [Graphir (⭐44)](https://github.com/microsoft/graphir) - GraphQL interface over FHIR API
+*   [Graphir (⭐50)](https://github.com/microsoft/graphir) - GraphQL interface over FHIR API
 
 ## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-gltf (⭐117)](https://github.com/nytimes/rd-bundler-3d-plugins) - Load, transform, optimize, and compress glTF 3D files.
+*   [vite-plugin-gltf (⭐118)](https://github.com/nytimes/rd-bundler-3d-plugins) - Load, transform, optimize, and compress glTF 3D files.
 
 ## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

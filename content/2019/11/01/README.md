@@ -36,7 +36,7 @@
 
 ### Other
 
-*   [Fragment (⭐165)](https://github.com/rezaali/fragment) \[Mac]- App to live code GLSL graphics.
+*   [Fragment (⭐166)](https://github.com/rezaali/fragment) \[Mac]- App to live code GLSL graphics.
 
 ## [4. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Applications / Text processing
 
-*   [phiresky/ripgrep-all (⭐6k)](https://github.com/phiresky/ripgrep-all) — ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+*   [phiresky/ripgrep-all (⭐6.1k)](https://github.com/phiresky/ripgrep-all) — ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
 ## [8. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

@@ -56,18 +56,18 @@
 
 ### System Utilities / Directory Navigation
 
-*   [btop (⭐14k)](https://github.com/aristocratos/btop) - Linux/OSX/FreeBSD resource monitor
-*   [lsd (⭐11k)](https://github.com/Peltoche/lsd) - LSDeluxe, rewrite of GNU ls with lot of added features like colors, icons, tree-view and more formatting options.
+*   [btop (⭐15k)](https://github.com/aristocratos/btop) - Linux/OSX/FreeBSD resource monitor
+*   [lsd (⭐12k)](https://github.com/Peltoche/lsd) - LSDeluxe, rewrite of GNU ls with lot of added features like colors, icons, tree-view and more formatting options.
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Maps
 
-*   [goradd/maps (⭐32)](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc.
+*   [goradd/maps (⭐33)](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc.
 
 ### SQL Query Builders
 
-*   [sg (⭐4)](https://github.com/go-the-way/sg) - A SQL Gen for generating standard SQLs(supports: CRUD) written in Go.
+*   [sg (⭐5)](https://github.com/go-the-way/sg) - A SQL Gen for generating standard SQLs(supports: CRUD) written in Go.
 
 ### Logging
 

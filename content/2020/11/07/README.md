@@ -22,7 +22,7 @@
 
 ### Audio Tools
 
-*   [cyanrip (⭐164)](https://github.com/atomnuker/cyanrip) - rips and encodes standard audio CDs with the least effort required from user. Cross platform.
+*   [cyanrip (⭐189)](https://github.com/atomnuker/cyanrip) - rips and encodes standard audio CDs with the least effort required from user. Cross platform.
 
 ## [4. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 

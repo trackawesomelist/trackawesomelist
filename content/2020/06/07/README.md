@@ -76,7 +76,7 @@
 
 ### Libraries / Artificial Intelligence
 
-*   [huggingface/tokenizers (⭐8.1k)](https://github.com/huggingface/tokenizers) - Hugging Face's tokenizers for modern NLP pipelines written in Rust (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
+*   [huggingface/tokenizers (⭐8.2k)](https://github.com/huggingface/tokenizers) - Hugging Face's tokenizers for modern NLP pipelines (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

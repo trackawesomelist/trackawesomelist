@@ -10,7 +10,7 @@
 
 ### Plugins
 
-*   🎨🧬 [Theme Variants (⭐174)](https://github.com/JakeNavith/tailwindcss-theme-variants) - Adds theme variants based on media queries and/or CSS selectors.
+*   🎨🧬 [Theme Variants (⭐176)](https://github.com/JakeNavith/tailwindcss-theme-variants) - Adds theme variants based on media queries and/or CSS selectors.
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Text and Numbers
 
-*   [minigen (⭐13)](https://github.com/mrdimosthenis/minigen) - Random data generators for the Erlang ecosystem.
+*   [minigen (⭐14)](https://github.com/mrdimosthenis/minigen) - Random data generators for the Erlang ecosystem.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

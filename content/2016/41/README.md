@@ -202,7 +202,7 @@
 
 ### Contents / Utilities
 
-*   [pgmigrate (⭐564)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
+*   [pgmigrate (⭐601)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
 
 ## [16. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -273,8 +273,8 @@
 ### Open Source Projects / Wealth
 
 *   [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
-*   [Quantifier (⭐39)](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
-*   [Fluxtream (⭐148)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
+*   [Quantifier (⭐40)](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
+*   [Fluxtream (⭐150)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
 
 ## [17. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
@@ -290,7 +290,6 @@
 
 ### Online tools
 
-*   [JsonStub](https://jsonstub.com/) - Online JSON faker.
 *   [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
 
 ## [19. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
@@ -416,7 +415,7 @@ Webpage: <http://www.moustache.pt/>
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [Quack (⭐324)](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
+*   [Quack (⭐322)](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
 
 ## [28. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 

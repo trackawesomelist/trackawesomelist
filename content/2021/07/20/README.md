@@ -78,7 +78,7 @@
 
 ### Form Components / Color Picker
 
-*   [react-color (⭐182)](https://github.com/uiwjs/react-color) - Is a tiny color picker widget component for React apps.
+*   [react-color (⭐187)](https://github.com/uiwjs/react-color) - Is a tiny color picker widget component for React apps.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Templates / React
 
-*   [Tropical (⭐150)](https://github.com/bensmithett/tropical) - React, Storybook, MDX, Fela, SSR prerendering, and [islands architecture](https://www.npmjs.com/package/tropical-islands).
+*   [Tropical (⭐154)](https://github.com/bensmithett/tropical) - React, Storybook, MDX, Fela, SSR prerendering, and [islands architecture](https://www.npmjs.com/package/tropical-islands).
 
 ## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

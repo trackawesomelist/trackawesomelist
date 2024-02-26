@@ -16,11 +16,11 @@
 
 ### Advanced Console UIs
 
-*   [bubble-table (⭐289)](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
+*   [bubble-table (⭐291)](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [GoNB (⭐357)](https://github.com/janpfeifer/gonb) - Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).
+*   [GoNB (⭐376)](https://github.com/janpfeifer/gonb) - Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

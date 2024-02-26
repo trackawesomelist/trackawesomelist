@@ -87,15 +87,15 @@
 ### Natural Language Processing
 
 *   General
-    *   [gensim (⭐14k)](https://github.com/RaRe-Technologies/gensim) - Topic Modeling for Humans.
-    *   [langid.py (⭐2.1k)](https://github.com/saffsd/langid.py) - Stand-alone language identification system.
+    *   [gensim (⭐15k)](https://github.com/RaRe-Technologies/gensim) - Topic Modeling for Humans.
+    *   [langid.py (⭐2.2k)](https://github.com/saffsd/langid.py) - Stand-alone language identification system.
     *   [nltk](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
-    *   [pattern (⭐8.5k)](https://github.com/clips/pattern) - A web mining module.
+    *   [pattern (⭐8.6k)](https://github.com/clips/pattern) - A web mining module.
     *   [polyglot (⭐2.2k)](https://github.com/aboSamoor/polyglot) - Natural language pipeline supporting hundreds of languages.
     *   [pytext (⭐6.4k)](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch.
     *   [PyTorch-NLP (⭐2.2k)](https://github.com/PetrochukM/PyTorch-NLP) - A toolkit enabling rapid deep learning NLP prototyping for research.
     *   [spacy](https://spacy.io/) - A library for industrial-strength natural language processing in Python and Cython.
-    *   [Stanza (⭐6.7k)](https://github.com/stanfordnlp/stanza) - The Stanford NLP Group's official Python library, supporting 60+ languages.
+    *   [Stanza (⭐7k)](https://github.com/stanfordnlp/stanza) - The Stanford NLP Group's official Python library, supporting 60+ languages.
 
 ## [12. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Miscellaneous
 
-*   [Web Archiving (⭐1.6k)](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
+*   [Web Archiving (⭐1.7k)](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
 
 ## [17. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
@@ -137,10 +137,10 @@
 
 *   JSON
     *   [importcjj/rust-ajson (⭐102)](https://github.com/importcjj/rust-ajson) \[[ajson](https://crates.io/crates/ajson)] —  Get JSON values quickly
-    *   [maciejhirsz/json-rust (⭐551)](https://github.com/maciejhirsz/json-rust) \[[json](https://crates.io/crates/json)] — JSON implementation in Rust
-    *   [pikkr/pikkr (⭐628)](https://github.com/pikkr/pikkr) \[[pikkr](https://crates.io/crates/pikkr)] — JSON parser which picks up values directly without performing tokenization in Rust
-    *   [serde-rs/json (⭐4.4k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] — JSON support for [Serde (⭐8.3k)](https://github.com/serde-rs/serde) framework
-    *   [simd-lite/simd-json (⭐984)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] — High performance JSON parser based on a port of simdjson
+    *   [maciejhirsz/json-rust (⭐554)](https://github.com/maciejhirsz/json-rust) \[[json](https://crates.io/crates/json)] — JSON implementation
+    *   [pikkr/pikkr (⭐628)](https://github.com/pikkr/pikkr) \[[pikkr](https://crates.io/crates/pikkr)] — JSON parser which picks up values directly without performing tokenization
+    *   [serde-rs/json (⭐4.4k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] — JSON support for [Serde (⭐8.4k)](https://github.com/serde-rs/serde) framework
+    *   [simd-lite/simd-json (⭐994)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] — High performance JSON parser based on a port of simdjson
 
 ## [18. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
@@ -849,7 +849,7 @@
 
 ### Architecture
 
-*   🍰 [Burzum/CakeServiceLayer plugin (⭐65)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
+*   🍰 [Burzum/CakeServiceLayer plugin (⭐67)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
 
 ### Geolocation
 
@@ -940,7 +940,7 @@
 
 ### Network Protocols
 
-*   [amqp-client.cr (⭐63)](https://github.com/cloudamqp/amqp-client.cr) - AMQP 0-9.1, a messaging protocol, implemented by eg. RabbitMQ
+*   [amqp-client.cr (⭐64)](https://github.com/cloudamqp/amqp-client.cr) - AMQP 0-9.1, a messaging protocol, implemented by eg. RabbitMQ
 
 ### Web Frameworks
 
@@ -978,7 +978,7 @@
 
 ### Privacy and Encryption Tools / Telegram
 
-*   [uBlock Origin (⭐37k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐42k)](https://github.com/gorhill/uBlock)
 
 ## [48. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 

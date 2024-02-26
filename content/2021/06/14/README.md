@@ -94,11 +94,11 @@
 
 ### Algorithms and Data structures
 
-*   [crystalg (⭐36)](https://github.com/tobyapi/crystalg) - A Generic Algorithm Library
+*   [crystalg (⭐37)](https://github.com/tobyapi/crystalg) - A Generic Algorithm Library
 
 ### CLI Utils
 
-*   [oq (⭐184)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐27k)](https://github.com/stedolan/jq) filters to transform the data
+*   [oq (⭐187)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐28k)](https://github.com/stedolan/jq) filters to transform the data
 
 ### Dependency Injection
 
@@ -108,11 +108,11 @@
 
 *   [mochi (⭐24)](https://github.com/awcrotwell/mochi) - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
 *   [motion.cr (⭐53)](https://github.com/awcrotwell/motion.cr) - Object oriented frontend library for Amber
-*   [tourmaline (⭐152)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
+*   [tourmaline (⭐153)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
 
 ### Misc
 
-*   [burocracia.cr (⭐21)](https://github.com/vinibrsl/burocracia.cr) - burocracia.cr the dependecyless shard to validate, generate and format Brazilian burocracias such as CPF, CNPJ and CEP
+*   [burocracia.cr (⭐20)](https://github.com/vinibrsl/burocracia.cr) - burocracia.cr the dependecyless shard to validate, generate and format Brazilian burocracias such as CPF, CNPJ and CEP
 
 ### ORM/ODM Extensions
 
@@ -120,7 +120,7 @@
 
 ### Queues and Messaging
 
-*   [mosquito (⭐216)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
+*   [mosquito (⭐219)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
 
 ### Serverless Computing
 
@@ -133,7 +133,7 @@
 
 ### LSP Language Server Protocol Implementations
 
-*   [crystalline (⭐398)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
+*   [crystalline (⭐408)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
 
 ## [5. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -158,7 +158,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [hexagonkt/hexagon (⭐540)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
+*   [hexagonkt/hexagon (⭐542)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

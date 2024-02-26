@@ -10,7 +10,7 @@
 
 ### Lists / Book/monograph Lists and Reviews
 
-*   [RStudio Addins (⭐807)](https://github.com/daattali/addinslist) - List of RStudio addins.
+*   [RStudio Addins (⭐819)](https://github.com/daattali/addinslist) - List of RStudio addins.
 
 ## [2. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
 

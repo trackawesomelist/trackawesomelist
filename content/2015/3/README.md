@@ -425,7 +425,7 @@
 
 ### Code Analysis and Metrics
 
-*   [Coverband (⭐2.3k)](https://github.com/danmayer/coverband) - Rack middleware to help measure production code coverage.
+*   [Coverband (⭐2.4k)](https://github.com/danmayer/coverband) - Rack middleware to help measure production code coverage.
 
 ### DevOps Tools
 
@@ -433,7 +433,7 @@
 
 ### Money
 
-*   [Monetize (⭐388)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
+*   [Monetize (⭐395)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
 
 ### ORM/ODM Extensions
 
@@ -441,7 +441,7 @@
     *   [ActiveRecord Import (⭐3.9k)](https://github.com/zdennis/activerecord-import) - a library for bulk inserting data using ActiveRecord.
     *   [bulk\_insert (⭐819)](https://github.com/jamis/bulk_insert) - A little ActiveRecord extension for helping to insert lots of rows in a single insert statement.
     *   [data\_miner (⭐301)](https://github.com/seamusabshere/data_miner) - Download, pull out of a ZIP/TAR/GZ/BZ2 archive, parse, correct, and import XLS, ODS, XML, CSV, HTML, etc. into your ActiveRecord models.
-    *   [ferry (⭐246)](https://github.com/cmu-is-projects/ferry) - A ruby gem for easy data transfer.
+    *   [ferry (⭐245)](https://github.com/cmu-is-projects/ferry) - A ruby gem for easy data transfer.
 
 ## [19. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 

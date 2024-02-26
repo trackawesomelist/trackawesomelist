@@ -14,11 +14,11 @@
 
 ### Frameworks
 
-*   [RIG (⭐573)](https://github.com/Accenture/reactive-interaction-gateway) - Create low-latency, interactive user experiences for stateless microservices.
+*   [RIG (⭐580)](https://github.com/Accenture/reactive-interaction-gateway) - Create low-latency, interactive user experiences for stateless microservices.
 
 ### Queue
 
-*   [oban (⭐2.9k)](https://github.com/sorentwo/oban) - Robust asynchronous job processor powered by Elixir and modern PostgreSQL.
+*   [oban (⭐3k)](https://github.com/sorentwo/oban) - Robust asynchronous job processor powered by Elixir and modern PostgreSQL.
 
 ## [2. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 

@@ -233,7 +233,7 @@
 
 ### Unofficial Godot builds / Godot version unknown
 
-*   [Raspberry Pi 4 builds (⭐276)](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM builds of Godot Engine for the Raspberry Pi 4.
+*   [Raspberry Pi 4 builds (⭐275)](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM builds of Godot Engine for the Raspberry Pi 4.
 
 ## [21. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
@@ -359,7 +359,7 @@
 
 ### Work
 
-*   [Creative Technology (⭐354)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+*   [Creative Technology (⭐367)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 
 ## [26. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
@@ -396,7 +396,7 @@
 
 ### Debugging
 
-*   [extrace (⭐45)](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
+*   [extrace (⭐46)](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
 
 ## [31. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -551,11 +551,11 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 ### Tools / Static Analysis Tools
 
 *   [Quark-Engine (⭐1.2k)](https://github.com/quark-engine/quark-engine) - An Obfuscation-Neglect Android Malware Scoring System
-*   [One Step Decompiler (⭐230)](https://github.com/b-mueller/apkx) - Android APK Decompilation for the Lazy
+*   [One Step Decompiler (⭐233)](https://github.com/b-mueller/apkx) - Android APK Decompilation for the Lazy
 
 ### Tools / Misc Tools
 
-*   [Android Mobile Device Hardening (⭐182)](https://github.com/SecTheTech/AMDH) - AMDH scans and hardens the device's settings and lists harmful installed Apps based on permissions.
+*   [Android Mobile Device Hardening (⭐185)](https://github.com/SecTheTech/AMDH) - AMDH scans and hardens the device's settings and lists harmful installed Apps based on permissions.
 *   ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
 *   ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
 *   ~~[Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)~~
@@ -612,13 +612,13 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Notification
 
-*   [react-toast (⭐70)](https://github.com/moharnadreza/react-toast) - [demo](https://codesandbox.io/s/byqvk) - [docs (⭐70)](https://github.com/moharnadreza/react-toast/blob/main/README.md) - Minimal toast notifications.
+*   [react-toast (⭐71)](https://github.com/moharnadreza/react-toast) - [demo](https://codesandbox.io/s/byqvk) - [docs (⭐71)](https://github.com/moharnadreza/react-toast/blob/main/README.md) - Minimal toast notifications.
 
 ### Miscellaneous
 
 *   [fastcomments-react (⭐7)](https://github.com/fastcomments/fastcomments-react) - [demo](https://blog.fastcomments.com/\(12-30-2019\)-fastcomments-demo.html) - FastComments component for embedding a live comment thread on a page or SPA.
-*   [react-pulse-text (⭐14)](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) - Allows you to animate the text of any property of another component.
-*   [@restpace/schema-form (⭐44)](https://github.com/restspace/schema-form) - [Demo](https://restspace.io/react/schema-form/demo) - Easily build complex forms automatically from a JSON Schema.
+*   [react-pulse-text (⭐15)](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) - Allows you to animate the text of any property of another component.
+*   [@restpace/schema-form (⭐43)](https://github.com/restspace/schema-form) - [Demo](https://restspace.io/react/schema-form/demo) - Easily build complex forms automatically from a JSON Schema.
 
 ### Device Input / Keyboard Events
 
@@ -630,7 +630,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Boilerplate / Mouse Events
 
-*   [react-enterprise-starter-kit (⭐86)](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase.
+*   [react-enterprise-starter-kit (⭐85)](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase.
 
 ## [44. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
@@ -729,7 +729,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Starters & Themes
 
-*   🚀 [Starter Dashboard Layout (⭐200)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
+*   🚀 [Starter Dashboard Layout (⭐202)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
 
 ## [49. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
@@ -757,7 +757,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐545)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs/Java`
+*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐548)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs/Java`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -945,7 +945,13 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [The Jamstack Book](https://www.manning.com/books/the-jamstack-book) - by Raymond Camden and Brian Rinaldi
 
-## [61. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [61. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+
+### Web Hosting
+
+*   [Bip](https://bip.sh/students) \[DISCOUNT] - Static web hosting. Bip provides a 30% recurring discount per domain on your student account [on all plans](https://bip.sh/pricing).
+
+## [62. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Tutorials
 
@@ -954,16 +960,6 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 ### Interactive Experiences
 
 *   [Cyber City](https://vz777.com/cybercity/index.html) - Promotional site for Visionaries777.
-
-## [62. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
-
-### Web Hosting
-
-*   [Bip](https://bip.sh/students) \[DISCOUNT] - Static web hosting. Bip provides a 30% recurring discount per domain on your student account [on all plans](https://bip.sh/pricing).
-
-### Visual Analytics
-
-*   [CARTO](https://carto.com/help/getting-started/student-accounts/) \[FREE / DISCOUNT] - Free account upgrades with increased database storage, real time data, Location Data Services Credits, and premium features for 2 years.
 
 ## [63. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 

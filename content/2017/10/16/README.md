@@ -159,7 +159,7 @@
 
 ### Applications / Directory Navigation
 
-*   [facebook-cli (⭐389)](https://github.com/specious/facebook-cli) - Facebook command line tool
+*   [facebook-cli (⭐394)](https://github.com/specious/facebook-cli) - Facebook command line tool
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

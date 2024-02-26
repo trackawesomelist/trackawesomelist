@@ -34,7 +34,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Memos](https://usememos.com/) - An open source, self-hosted knowledge base that works with a SQLite db file. ([Source Code (⭐23k)](https://github.com/usememos/memos)) `MIT` `Docker/Go`
+*   [Memos](https://usememos.com/) - An open source, self-hosted knowledge base that works with a SQLite db file. ([Source Code (⭐25k)](https://github.com/usememos/memos)) `MIT` `Docker/Go`
 
 ### Software / Software Development - IDE & Tools
 

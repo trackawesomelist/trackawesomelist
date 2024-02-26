@@ -48,7 +48,7 @@
 
 ### Entertainment
 
-*   [Podcasts (⭐520)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
+*   [Podcasts (⭐528)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -171,7 +171,7 @@
 
 ### Software / Monitoring
 
-*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐180)](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
+*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐188)](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
 
 ## [21. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -216,7 +216,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Gotify](https://gotify.net/) - Self-hosted notification server with Android and CLI clients, similar to PushBullet. ([Source Code (⭐9.7k)](https://github.com/gotify/server), [Clients (⭐771)](https://github.com/gotify/android)) `MIT` `Go/Docker`
+*   [Gotify](https://gotify.net/) - Self-hosted notification server with Android and CLI clients, similar to PushBullet. ([Source Code (⭐9.8k)](https://github.com/gotify/server), [Clients (⭐780)](https://github.com/gotify/android)) `MIT` `Go/Docker`
 
 ### Software / Learning and Courses
 
@@ -304,9 +304,9 @@
 
 ### Other Tools / Telegram
 
-*   [Belati (⭐494)](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
+*   [Belati (⭐516)](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 *   [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
-*   [Pown Recon (⭐417)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
+*   [Pown Recon (⭐419)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
 *   [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 
 ## [32. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
@@ -354,7 +354,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Streaker (⭐178)](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/jamieweavis/streaker)
+*   [Streaker (⭐179)](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/jamieweavis/streaker)
 
 ## [37. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
@@ -491,7 +491,7 @@
 
 ### Testing
 
-*   [webdriver\_pump (⭐4)](https://github.com/bwilczek/webdriver_pump) - Page Object library. Inspired by Ruby's [WatirPump (⭐16)](https://github.com/bwilczek/watir_pump)
+*   [webdriver\_pump (⭐4)](https://github.com/bwilczek/webdriver_pump) - Page Object library. Inspired by Ruby's [WatirPump (⭐17)](https://github.com/bwilczek/watir_pump)
 
 ## [49. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 

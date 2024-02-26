@@ -14,13 +14,13 @@
 
 ### Applications / Observability
 
-*   [vectordotdev/vector (⭐15k)](https://github.com/vectordotdev/vector) — A High-Performance, Logs, Metrics, & Events Router.
+*   [vectordotdev/vector (⭐16k)](https://github.com/vectordotdev/vector) — A High-Performance, Logs, Metrics, & Events Router.
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Projects / Godot 3.2+
 
-*   [Lorien (⭐4.4k)](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
+*   [Lorien (⭐4.5k)](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
 
 ## [3. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -472,7 +472,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-federation (⭐1.8k)](https://github.com/originjs/vite-plugin-federation) - Support Module Federation, Inspired by Webpack Module Federation feature.
+*   [vite-plugin-federation (⭐1.9k)](https://github.com/originjs/vite-plugin-federation) - Support Module Federation, Inspired by Webpack Module Federation feature.
 
 ## [13. Public Apis](/content/public-apis/public-apis/README.md)
 

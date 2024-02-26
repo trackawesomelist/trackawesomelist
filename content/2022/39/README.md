@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 26 - Oct 02, 2022
 
-64 awesome lists updated this week.
+63 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,8 +10,8 @@
 
 ### Game Development
 
-*   [Ebitengine (⭐9.4k)](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine in Go.
-*   [fantasyname (⭐29)](https://github.com/s0rg/fantasyname) - Fantasy names generator.
+*   [Ebitengine (⭐9.5k)](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine in Go.
+*   [fantasyname (⭐30)](https://github.com/s0rg/fantasyname) - Fantasy names generator.
 
 ### Logging
 
@@ -19,7 +19,7 @@
 
 ### Package Management
 
-*   [gup (⭐255)](https://github.com/nao1215/gup) - Update binaries installed by "go install".
+*   [gup (⭐262)](https://github.com/nao1215/gup) - Update binaries installed by "go install".
 
 ### Third-party APIs
 
@@ -236,7 +236,7 @@
 
 ### Software / Monitoring
 
-*   [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code (⭐1.2k)](https://github.com/Checkmk/checkmk)) `GPL-2.0` `Python/PHP`
+*   [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code (⭐1.3k)](https://github.com/Checkmk/checkmk)) `GPL-2.0` `Python/PHP`
 
 ## [14. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
@@ -267,13 +267,13 @@
 
 ### GUI Development
 
-*   [GTK4.cr (⭐94)](https://github.com/hugopl/gtk4.cr) - Bindings for [GTK4](https://docs.gtk.org/gtk4/overview.html) with Crystalized API
+*   [GTK4.cr (⭐95)](https://github.com/hugopl/gtk4.cr) - Bindings for [GTK4](https://docs.gtk.org/gtk4/overview.html) with Crystalized API
 
 ## [17. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-panos (⭐80)](https://github.com/PaloAltoNetworks/terraform-provider-panos) - Provider for [Palo Alto Networks next-generation firewalls](https://www.paloaltonetworks.com/network-security).
+*   [terraform-provider-panos (⭐82)](https://github.com/PaloAltoNetworks/terraform-provider-panos) - Provider for [Palo Alto Networks next-generation firewalls](https://www.paloaltonetworks.com/network-security).
 
 ## [18. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
@@ -314,7 +314,7 @@
 ### Libraries/Frameworks / Misc
 
 *   [Kotlin/kotlinx.reflect.lite (⭐151)](https://github.com/Kotlin/kotlinx.reflect.lite) - Lightweight library allowing to introspect basic stuff about Kotlin symbols.
-*   [fork-handles/tuples4k (⭐167)](https://github.com/fork-handles/forkhandles/tree/trunk/tuples4k) - Tuple classes
+*   [fork-handles/tuples4k (⭐170)](https://github.com/fork-handles/forkhandles/tree/trunk/tuples4k) - Tuple classes
 
 ### Libraries/Frameworks / Data Science
 
@@ -324,26 +324,26 @@
 *   [grinisrit/noa-atra (⭐26)](https://github.com/grinisrit/noa-atra) - Analytics for Trading with NOA
 *   [sanity/pairAdjacentViolators (⭐49)](https://github.com/sanity/pairAdjacentViolators) - A Kotlin implementation of the Pair Adjacent Violators algorithm for isotonic regression.
 *   [holgerbrandl/kalasim](https://www.kalasim.org) - Discrete event simulator that enables complex, dynamic process models.
-*   [breandan/kaliningraph (⭐99)](https://github.com/breandan/kaliningraph) - 🕸️ Graphs, finite fields and discrete dynamical systems in Kotlin
+*   [breandan/kaliningraph (⭐100)](https://github.com/breandan/kaliningraph) - 🕸️ Graphs, finite fields and discrete dynamical systems in Kotlin
 *   [MarcinMoskala/KotlinDiscreteMathToolkit (⭐181)](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete Math functionalities as an Kotlin extension functions.
 *   [kyonifer/koma (⭐270)](https://github.com/kyonifer/koma) - A scientific computing library for Kotlin.
-*   [JetBrains/lets-plot-kotlin (⭐387)](https://github.com/JetBrains/lets-plot-kotlin) - Grammar of graphics visualization for Kotlin
-*   [mipt-npm/kmath (⭐599)](https://github.com/mipt-npm/kmath) - A (not so numpy-like) multiplatform mathematical library with higher level abstractions.
-*   [Kotlin/dataframe (⭐644)](https://github.com/Kotlin/dataframe) - A Kotlin library for in-memory data manipulation
+*   [JetBrains/lets-plot-kotlin (⭐390)](https://github.com/JetBrains/lets-plot-kotlin) - Grammar of graphics visualization for Kotlin
+*   [mipt-npm/kmath (⭐600)](https://github.com/mipt-npm/kmath) - A (not so numpy-like) multiplatform mathematical library with higher level abstractions.
+*   [Kotlin/dataframe (⭐661)](https://github.com/Kotlin/dataframe) - A Kotlin library for in-memory data manipulation
 *   [Kotlin/kotlin-jupyter (⭐1k)](https://github.com/Kotlin/kotlin-jupyter) - Official Kotlin Jupyter kernel
 
 ### Libraries/Frameworks / API Clients
 
-*   [adamint/spotify-web-api-kotlin (⭐173)](https://github.com/adamint/spotify-web-api-kotlin) - Spotify Web API wrapper for Kotlin/Android, JVM, JS, and Native targets.
-*   [awslabs/aws-sdk-kotlin (⭐351)](https://github.com/awslabs/aws-sdk-kotlin) - Multiplatform AWS SDK for Kotlin
+*   [adamint/spotify-web-api-kotlin (⭐174)](https://github.com/adamint/spotify-web-api-kotlin) - Spotify Web API wrapper for Kotlin/Android, JVM, JS, and Native targets.
+*   [awslabs/aws-sdk-kotlin (⭐354)](https://github.com/awslabs/aws-sdk-kotlin) - Multiplatform AWS SDK for Kotlin
 
 ### Libraries/Frameworks / Logging
 
-*   [LighthouseGames/KmLogging (⭐56)](https://github.com/LighthouseGames/KmLogging) - Kotlin multiplatform logging. High performance, composable and simple to use.
+*   [LighthouseGames/KmLogging (⭐57)](https://github.com/LighthouseGames/KmLogging) - Kotlin multiplatform logging. High performance, composable and simple to use.
 
 ### Libraries/Frameworks / Jetpack-Compose
 
-*   [CuriousNikhil/compose-particle-system (⭐65)](https://github.com/CuriousNikhil/compose-particle-system) - A lightweight particle system for Jetpack Compose - Quarks
+*   [CuriousNikhil/compose-particle-system (⭐66)](https://github.com/CuriousNikhil/compose-particle-system) - A lightweight particle system for Jetpack Compose - Quarks
 
 ### Projects / Idea Plugins
 
@@ -409,11 +409,11 @@
 
 ### Projects / Godot 3.2+
 
-*   [vpuppr (⭐660)](https://github.com/virtual-puppet-project/vpuppr) - A cross-platform VTuber application with mulitple tracking backends.
+*   [vpuppr (⭐667)](https://github.com/virtual-puppet-project/vpuppr) - A cross-platform VTuber application with mulitple tracking backends.
 
 ### Modules / Godot 3.2+
 
-*   [spout-gd (⭐21)](https://github.com/you-win/spout-gd) - Share OpenGL textures across Windows applications through your GPU using [Spout (⭐678)](https://github.com/leadedge/Spout2).
+*   [spout-gd (⭐22)](https://github.com/you-win/spout-gd) - Share OpenGL textures across Windows applications through your GPU using [Spout (⭐681)](https://github.com/leadedge/Spout2).
 
 ## [31. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
 
@@ -459,16 +459,16 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform. ([Source Code (⭐737)](https://github.com/ernestwisniewski/kbin)) `AGPL-3.0` `PHP/Nodejs/Docker`
-*   [qpixel](https://codidact.com/) - Q\&A-based community knowledge-sharing software. ([Source Code (⭐340)](https://github.com/codidact/qpixel)) `AGPL-3.0` `Ruby`
+*   [kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform. ([Source Code (⭐742)](https://github.com/ernestwisniewski/kbin)) `AGPL-3.0` `PHP/Nodejs/Docker`
+*   [qpixel](https://codidact.com/) - Q\&A-based community knowledge-sharing software. ([Source Code (⭐345)](https://github.com/codidact/qpixel)) `AGPL-3.0` `Ruby`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Maloja (⭐868)](https://github.com/krateng/maloja) - Self-hosted music scrobble database (alternative to Last.fm). ([Demo](https://maloja.krateng.ch/)) `GPL-3.0` `Python/Docker`
+*   [Maloja (⭐887)](https://github.com/krateng/maloja) - Self-hosted music scrobble database (alternative to Last.fm). ([Demo](https://maloja.krateng.ch/)) `GPL-3.0` `Python/Docker`
 
 ### Software / Recipe Management
 
-*   [KitchenOwl](https://tombursch.github.io/kitchenowl/) - A cross-platform shopping list, recipe storage, expense tracker, and meal planner following the material design language. ([Source Code (⭐866)](https://github.com/TomBursch/kitchenowl)) `AGPL-3.0` `Docker/deb`
+*   [KitchenOwl](https://tombursch.github.io/kitchenowl/) - A cross-platform shopping list, recipe storage, expense tracker, and meal planner following the material design language. ([Source Code (⭐890)](https://github.com/TomBursch/kitchenowl)) `AGPL-3.0` `Docker/deb`
 
 ### Software / Software Development - API Management
 
@@ -476,7 +476,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [Gerrit](https://www.gerritcodereview.com/) - A code review and project management tool for Git based projects. ([Source Code (⭐878)](https://github.com/GerritCodeReview/gerrit)) `Apache-2.0` `Java/Docker`
+*   [Gerrit](https://www.gerritcodereview.com/) - A code review and project management tool for Git based projects. ([Source Code (⭐883)](https://github.com/GerritCodeReview/gerrit)) `Apache-2.0` `Java/Docker`
 
 ## [37. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
@@ -541,7 +541,7 @@
 
 ### Crates / Javascript Library Ports
 
-*   [Plotly.rs (⭐895)](https://github.com/igiagkiozis/plotly) - Rust bindings for the popular [Plotly](https://plotly.com/javascript/) charting library.
+*   [Plotly.rs (⭐910)](https://github.com/igiagkiozis/plotly) - Rust bindings for the popular [Plotly](https://plotly.com/javascript/) charting library.
 *   [ag-grid-rs (⭐10)](https://github.com/mfreeborn/ag-grid-rs) - Rust bindings for the [AG Grid](https://www.ag-grid.com/javascript-data-grid/) datatable library.
 
 ## [44. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
@@ -595,15 +595,15 @@ Installs: 2000 | Stars: 346 | Last update: n/a
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [communism (⭐12)](https://github.com/victoria-riley-barnett/Communism/) - Displays a Marx quote of the day.
-*   [fd-plugin (⭐5)](https://github.com/MohamedElashri/fd-zsh) - Adds aliases for [fd (⭐30k)](https://github.com/sharkdp/fd), a modern replacement for `find`.
-*   [git-aliases (peterhurford) (⭐76)](https://github.com/peterhurford/git-aliases.zsh) - Creates a lot of useful aliases for combinations of commonly used `git` commands.
+*   [fd-plugin (⭐5)](https://github.com/MohamedElashri/fd-zsh) - Adds aliases for [fd (⭐31k)](https://github.com/sharkdp/fd), a modern replacement for `find`.
+*   [git-aliases (peterhurford) (⭐78)](https://github.com/peterhurford/git-aliases.zsh) - Creates a lot of useful aliases for combinations of commonly used `git` commands.
 *   [git-aliases (remino) (⭐0)](https://github.com/remino/omz-plugin-git-aliases) - Aliases all `git xyz` commands to `gxyz`. Also aliases `g` to `git`.
 *   [mysql-login (⭐0)](https://github.com/remino/omz-plugin-mysql-alias) - Adds alias for MySQL with login path.
 *   [spaceship-ocm (⭐0)](https://github.com/iamkirkbater/spaceship-ocm-plugin) - Queries your OpenShift Cluster Manager (ocm) configuration to show which environment you're connected to. Requires [NerdFont](https://www.nerdfonts.com/font-downloads) in your terminal.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [wsl-notify (⭐0)](https://github.com/masonc15/wsl-notify-zsh) - Uses [wsl-notify-send (⭐99)](https://github.com/stuartleeks/wsl-notify-send) to notify when a command takes longer than 15 seconds. Windows-only.
+*   [wsl-notify (⭐0)](https://github.com/masonc15/wsl-notify-zsh) - Uses [wsl-notify-send (⭐101)](https://github.com/stuartleeks/wsl-notify-send) to notify when a command takes longer than 15 seconds. Windows-only.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -633,7 +633,7 @@ Installs: 2000 | Stars: 346 | Last update: n/a
 
 ### Self-Hosted
 
-*   [Mailcow: dockerized (⭐7.5k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
+*   [Mailcow: dockerized (⭐7.6k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
 
 ### PC / MacOS
 
@@ -649,7 +649,7 @@ Installs: 2000 | Stars: 346 | Last update: n/a
 
 ### Quora
 
-*   [Quetre (⭐389)](https://github.com/zyachel/quetre) - Quetre is an alternative front-end to Quora. It enables you to see answers without ads, trackers, and other such bloat.
+*   [Quetre (⭐394)](https://github.com/zyachel/quetre) - Quetre is an alternative front-end to Quora. It enables you to see answers without ads, trackers, and other such bloat.
 
 ### Web Browser / Alternative clients/modifications of Discord:
 
@@ -701,47 +701,11 @@ Installs: 2000 | Stars: 346 | Last update: n/a
 *   [H2O Wave (⭐3.5k)](https://github.com/h2oai/wave) *(label: good first issue)* <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
 *   [Node Efficientnet (⭐244)](https://github.com/ntedgi/node-efficientnet) *(label: good first issue)* <br> EfficientNet Image Recognition model for Node JS ( written with tensorflow\.js ).
 
-## [56. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Algorithms & Data Structures
-
-*   [Data Structures (Into Java)](https://inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf) - Paul N. Hilfinger (PDF)
-*   [Data Structures and Algorithms: Annotated Reference with Examples](https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx) - G. Barnett, L. Del Tongo *(:card\_file\_box: archived)*
-*   [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) - Nick Parlante (PDF)
-*   [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) - Nick Parlante (PDF)
-*   [Sequential and parallel sorting algorithms](https://www.inf.hs-flensburg.de/lang/algorithmen/sortieren/algoen.htm) - Hans Werner Lang (HTML)
-*   [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) - Nick Parlante (PDF)
-
-### Machine Learning
-
-*   [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/) - David J.C. MacKay
-*   [Learning Deep Architectures for AI](https://mila.quebec/wp-content/uploads/2019/08/TR1312.pdf) - Yoshua Bengio (PDF)
-
-### Mathematics
-
-*   [Computational and Inferential Thinking. The Foundations of Data Science](https://www.inferentialthinking.com) - Ani Adhikari, John DeNero, David Wagner
-*   [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) - David Cherney et al. (PDF)
-
-### Misc
-
-*   [2016 European Software Development Salary Survey](https://www.oreilly.com/radar/2016-european-software-development-salary-survey/) - Andy Oram, John King (HTML)
-*   [2016 Software Development Salary Survey](https://www.oreilly.com/radar/2016-software-development-salary-survey-report/) - John King, Roger Magoulas (HTML)
-*   [Culture & Empire: Digital Revolution](http://hintjens.com/books) - Pieter Hintjens (PDF)
-*   [How to Become a Programmer](http://softwarebyrob.wpengine.netdna-cdn.com/assets/Software_by_Rob%20_How_to_Become_a%20_Programmer_1.0.pdf) - Rob Walling (PDF)
-*   [Learn to Program](https://pine.fm/LearnToProgram/) - Chris Pine
-*   [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/) - Greg Roelofs
-*   [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) - Nick Parlante (PDF)
-
-### Networking
-
-*   [Linux IP Stacks Commentary](https://www.satchell.net/ipstacks/) - Stephen Satchell, H. B. J. Clifford (HTML) *(:construction: in process)*
-*   [Networking! ACK!](https://wizardzines.com/zines/networking/) - Julia Evans (PDF)
-
-## [57. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [56. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Blockchain
 
-*   [ibc-rs (⭐405)](https://github.com/informalsystems/hermes) - Rust implementation of the [Interblockchain Communication](https://ibc.cosmos.network/) protocol
+*   [ibc-rs (⭐411)](https://github.com/informalsystems/hermes) - Implementation of the [Interblockchain Communication](https://ibc.cosmos.network/) protocol
 
 ### Development tools / Web Servers
 
@@ -754,9 +718,9 @@ Installs: 2000 | Stars: 346 | Last update: n/a
 ### Libraries / Network programming
 
 *   HTTP
-    *   [Hurl (⭐7.8k)](https://github.com/Orange-OpenSource/hurl) — Run and test HTTP requests with plain text and libcurl [![CI](https://github.com/Orange-OpenSource/hurl/workflows/CI/badge.svg)](https://github.com/Orange-OpenSource/hurl/actions)
+    *   [Hurl (⭐10k)](https://github.com/Orange-OpenSource/hurl) — Run and test HTTP requests with plain text and libcurl [![CI](https://github.com/Orange-OpenSource/hurl/workflows/CI/badge.svg)](https://github.com/Orange-OpenSource/hurl/actions)
 
-## [58. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [57. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :trophy: Tutorials / :gear: Schema Visualization Tools
 
@@ -766,7 +730,7 @@ Installs: 2000 | Stars: 346 | Last update: n/a
 
 *   [Neighborhood Pet Manager (⭐7)](https://github.com/AustinGil/npm)
 
-## [59. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [58. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -1063,7 +1027,7 @@ Installs: 2000 | Stars: 346 | Last update: n/a
 *   [m00qek/plugin-template.nvim (⭐97)](https://github.com/m00qek/plugin-template.nvim) - A plugin template that setups test infrastructure and GitHub Actions.
 *   [ellisonleao/nvim-plugin-template (⭐184)](https://github.com/ellisonleao/nvim-plugin-template) - Another neovim plugin template, using GitHub's template feature.
 
-## [60. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [59. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Global
 
@@ -1077,13 +1041,13 @@ Installs: 2000 | Stars: 346 | Last update: n/a
 
 *   [National Archives](https://www.archives.gov/) - The official archives regarding veteran records, founding documents and presidential libraries of the United States.
 
-## [61. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [60. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Articles / Others
 
 *   [WebAssembly Steals the ASP.NET Core Show in .NET 7 RC1](https://visualstudiomagazine.com/articles/2022/09/20/aspnet-core-updates.aspx) - September 20, 2022 - WebAssembly, the open source tech that makes client-side Blazor work, was the star of the ASP.NET Core show in the new [ASP.NET Core updates in .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-1/).
 
-## [62. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [61. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Command-Line Tools / Discovery
 
@@ -1102,13 +1066,13 @@ Installs: 2000 | Stars: 346 | Last update: n/a
 
 *   [MyNixOS](https://mynixos.com/) - Graphical editor for Nix flakes. Create and manage configurations and modules for NixOS and Nix home-manager. Rather a Nix generator than a Nix editor, because it does not allow to import Nix files.
 
-## [63. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [62. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Non-English Content / Simulation
 
 *   [Spanish (Español) (⭐874)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
 
-## [64. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [63. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Mobile
 

@@ -100,7 +100,7 @@
 
 ### Shell Package Management / Directory Navigation
 
-*   [shundle (⭐82)](https://github.com/javier-lopez/shundle) - Plugin manager for shell scripts
+*   [shundle (⭐81)](https://github.com/javier-lopez/shundle) - Plugin manager for shell scripts
 
 ## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -185,8 +185,8 @@
 ### Recommender Systems
 
 *   [annoy (⭐12k)](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage.
-*   [fastFM (⭐1k)](https://github.com/ibayer/fastFM) - A library for Factorization Machines.
-*   [implicit (⭐3.2k)](https://github.com/benfred/implicit) - A fast Python implementation of collaborative filtering for implicit datasets.
+*   [fastFM (⭐1.1k)](https://github.com/ibayer/fastFM) - A library for Factorization Machines.
+*   [implicit (⭐3.4k)](https://github.com/benfred/implicit) - A fast Python implementation of collaborative filtering for implicit datasets.
 
 ## [20. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -356,7 +356,7 @@
 
 ### Framework Components
 
-*   [multi-auth (⭐113)](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
+*   [multi-auth (⭐112)](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
 
 ### Scheduling
 
@@ -428,7 +428,7 @@
 
 ### Miscellaneous
 
-*   [Kangaru (⭐444)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
+*   [Kangaru (⭐448)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
 
 ## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

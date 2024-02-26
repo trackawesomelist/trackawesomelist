@@ -63,20 +63,20 @@
 
 ### Solid / Integrations
 
-*   [vite-plugin-solid (⭐405)](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
+*   [vite-plugin-solid (⭐407)](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
 
 ### Rollup Plugins / Included in Vite
 
-*   [@rollup/plugin-alias (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/alias) - Define and resolve aliases for bundle dependencies.
-*   [@rollup/plugin-commonjs (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/commonjs) - Convert CommonJS modules to ES6.
-*   [@rollup/plugin-dynamic-import-vars (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/dynamic-import-vars) - Resolving dynamic imports that contain variables.
-*   [@rollup/plugin-json (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/json) - Convert `.json` files to ES6 modules.
+*   [@rollup/plugin-alias (⭐3.5k)](https://github.com/rollup/plugins/blob/master/packages/alias) - Define and resolve aliases for bundle dependencies.
+*   [@rollup/plugin-commonjs (⭐3.5k)](https://github.com/rollup/plugins/blob/master/packages/commonjs) - Convert CommonJS modules to ES6.
+*   [@rollup/plugin-dynamic-import-vars (⭐3.5k)](https://github.com/rollup/plugins/blob/master/packages/dynamic-import-vars) - Resolving dynamic imports that contain variables.
+*   [@rollup/plugin-json (⭐3.5k)](https://github.com/rollup/plugins/blob/master/packages/json) - Convert `.json` files to ES6 modules.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-dsv (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/dsv) - Convert `.csv` and `.tsv` files into JavaScript modules with d3-dsv.
-*   [@rollup/plugin-graphql (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/graphql) - Convert .gql/.graphql files to ES6 modules.
-*   [@rollup/plugin-replace (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/replace) - Replace strings in files while bundling.
+*   [@rollup/plugin-dsv (⭐3.5k)](https://github.com/rollup/plugins/blob/master/packages/dsv) - Convert `.csv` and `.tsv` files into JavaScript modules with d3-dsv.
+*   [@rollup/plugin-graphql (⭐3.5k)](https://github.com/rollup/plugins/blob/master/packages/graphql) - Convert .gql/.graphql files to ES6 modules.
+*   [@rollup/plugin-replace (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/replace) - Replace strings in files while bundling.
 
 ---
 

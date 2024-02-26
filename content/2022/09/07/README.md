@@ -15,7 +15,7 @@
 ### Gems / Other external resources
 
 *   [react\_on\_rails (⭐5k)](https://github.com/shakacode/react_on_rails) - A gem to integrate React.js with Rails app with SSR. [:red\_circle:](https://rubygems.org/gems/react_on_rails)
-*   [shakapacker (⭐368)](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red\_circle:](https://rubygems.org/gems/shakapacker)
+*   [shakapacker (⭐375)](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red\_circle:](https://rubygems.org/gems/shakapacker)
 
 ## [2. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 

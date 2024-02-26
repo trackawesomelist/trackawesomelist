@@ -80,7 +80,7 @@
 
 ### Contents / Monitoring
 
-*   [dexter (⭐1.5k)](https://github.com/ankane/dexter) - The automatic indexer for Postgres. Detects slow queries and creates indexes if configured to do so.
+*   [dexter (⭐1.7k)](https://github.com/ankane/dexter) - The automatic indexer for Postgres. Detects slow queries and creates indexes if configured to do so.
 
 ## [12. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
@@ -220,7 +220,7 @@
 
 ### Concurrency
 
-*   [cuda-api-wrappers (⭐699)](https://github.com/eyalroz/cuda-api-wrappers) - Lightweight, Modern-C++ wrappers for the CUDA GPU programming runtime API. \[BSD]
+*   [cuda-api-wrappers (⭐704)](https://github.com/eyalroz/cuda-api-wrappers) - Lightweight, Modern-C++ wrappers for the CUDA GPU programming runtime API. \[BSD]
 *   [STAPL](http://parasol-lab.gitlab.io/stapl-home/) - A C++ parallel programming framework designed to work on both shared and distributed memory parallel computers. \[BSD]
 
 ## [26. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
@@ -361,19 +361,15 @@
 
 ## [42. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
-### Visual Programming Languages
-
-*   [VisualScript](https://docs.godotengine.org/en/stable/getting_started/scripting/visual_script/) \[Cross-platform] - Visual coding language in the Godot game engine.
-
 ### Web Programming • Libraries
 
-*   [Zdog](https://zzz.dog/) - A pseudo-3D engine for canvas & SVG
-*   [Oimo.js (⭐2.9k)](https://github.com/lo-th/Oimo.js/) - Lightweight 3d physics engine for javascript
-*   [Ammo.js (⭐3.9k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten
+*   [Zdog](https://zzz.dog/) - A pseudo-3D engine for canvas & SVG.
+*   [Oimo.js (⭐3k)](https://github.com/lo-th/Oimo.js/) - Lightweight 3d physics engine for javascript
+*   [Ammo.js (⭐4k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 
 ### Other
 
-*   [Konstrukt (⭐59)](https://github.com/MarcelMue/konstrukt) \[Cross-platform] - A commandline tool to generate different scaleable patterns as SVGs.
+*   [Konstrukt (⭐60)](https://github.com/MarcelMue/konstrukt) \[Cross-platform] - A commandline tool to generate different scaleable patterns as SVGs.
 
 ### Subreddits / Other
 

@@ -405,7 +405,7 @@
 
 ### Libraries/Frameworks / Database
 
-*   [consoleau/kotlin-jpa-specification-dsl (⭐246)](https://github.com/consoleau/kotlin-jpa-specification-dsl) - This library provides a fluent DSL for querying spring data JPA repositories using spring data Specifications.
+*   [consoleau/kotlin-jpa-specification-dsl (⭐247)](https://github.com/consoleau/kotlin-jpa-specification-dsl) - This library provides a fluent DSL for querying spring data JPA repositories using spring data Specifications.
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

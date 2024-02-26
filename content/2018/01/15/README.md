@@ -16,7 +16,7 @@
 
 ### Text and Numbers
 
-*   [nanoid (⭐197)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
+*   [nanoid (⭐204)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

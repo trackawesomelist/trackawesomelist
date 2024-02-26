@@ -16,7 +16,7 @@
 
 ### Network Protocols
 
-*   [simple\_rpc (⭐63)](https://github.com/kostya/simple_rpc) - RPC Server and Client for Crystal. Implements msgpack-rpc protocol
+*   [simple\_rpc (⭐64)](https://github.com/kostya/simple_rpc) - RPC Server and Client for Crystal. Implements msgpack-rpc protocol
 
 ## [3. Public Apis](/content/public-apis/public-apis/README.md)
 

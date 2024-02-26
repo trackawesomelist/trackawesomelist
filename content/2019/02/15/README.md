@@ -46,7 +46,7 @@
 
 ### Testing
 
-*   [webdriver\_pump (⭐4)](https://github.com/bwilczek/webdriver_pump) - Page Object library. Inspired by Ruby's [WatirPump (⭐16)](https://github.com/bwilczek/watir_pump)
+*   [webdriver\_pump (⭐4)](https://github.com/bwilczek/webdriver_pump) - Page Object library. Inspired by Ruby's [WatirPump (⭐17)](https://github.com/bwilczek/watir_pump)
 
 ## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

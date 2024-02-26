@@ -17,7 +17,7 @@
 
 ### JSON Schema Tools
 
-*   [aptos (⭐145)](https://github.com/pennsignals/aptos) - A tool for validating data using JSON Schema and converting JSON Schema documents into different data-interchange formats.
+*   [aptos (⭐150)](https://github.com/pennsignals/aptos) - A tool for validating data using JSON Schema and converting JSON Schema documents into different data-interchange formats.
 
 ## [3. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 

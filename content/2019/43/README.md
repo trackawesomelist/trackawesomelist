@@ -27,9 +27,9 @@
 ### Libraries / GUI
 
 *   [Flutter](https://flutter.dev/)
-    *   [cunarist/rinf (⭐1.2k)](https://github.com/cunarist/rinf) — Rust as your Flutter backend, Flutter as your Rust frontend [![Build Test](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml/badge.svg)](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml?query=branch%3Amain)
+    *   [cunarist/rinf (⭐1.3k)](https://github.com/cunarist/rinf) — Rust as your Flutter backend, Flutter as your Rust frontend [![Build Test](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml/badge.svg)](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml?query=branch%3Amain)
     *   [flutter-rs (⭐2.1k)](https://github.com/flutter-rs/flutter-rs) — Build flutter desktop app in dart & rust.
-    *   [fzyzcjy/flutter\_rust\_bridge (⭐3.3k)](https://github.com/fzyzcjy/flutter_rust_bridge) — High-level memory-safe binding generator for Flutter/Dart <-> Rust
+    *   [fzyzcjy/flutter\_rust\_bridge (⭐3.4k)](https://github.com/fzyzcjy/flutter_rust_bridge) — High-level memory-safe binding generator for Flutter/Dart <-> Rust
 
 ## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -86,8 +86,8 @@
 ### Compression
 
 *   [Crystar (⭐39)](https://github.com/naqvis/crystar) - Readers and writers of Tar archive format
-*   [snappy (⭐17)](https://github.com/naqvis/snappy) -  Snappy compression format reader/writer for Crystal
-*   [zstd.cr (⭐39)](https://github.com/didactic-drunk/zstd.cr) - Bindings for [Zstandard (⭐21k)](https://github.com/facebook/zstd) compression library
+*   [snappy (⭐18)](https://github.com/naqvis/snappy) -  Snappy compression format reader/writer for Crystal
+*   [zstd.cr (⭐39)](https://github.com/didactic-drunk/zstd.cr) - Bindings for [Zstandard (⭐22k)](https://github.com/facebook/zstd) compression library
 
 ## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
@@ -240,7 +240,7 @@
 
 ### Frameworks • Libraries • Ecosystems
 
-*   [Canvas-sketch (⭐4.8k)](https://github.com/mattdesl/canvas-sketch) \[Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
+*   [Canvas-sketch (⭐4.9k)](https://github.com/mattdesl/canvas-sketch) \[Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
 
 ### Sound Programming Languages
 
@@ -286,48 +286,47 @@
 
 ### Shells
 
-*   [ksh93 (⭐503)](https://github.com/att/ast) - Korn Shell
-*   [mksh (⭐189)](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
-*   [oksh (⭐313)](https://github.com/ibara/oksh) - Portable OpenBSD ksh
+*   [ksh93 (⭐520)](https://github.com/att/ast) - Korn Shell
+*   [mksh (⭐190)](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
+*   [oksh (⭐330)](https://github.com/ibara/oksh) - Portable OpenBSD ksh
 *   [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) - Public domain Korn shell
-*   [shell++ (⭐139)](https://github.com/alexst07/shell-plus-plus) - Friendly and modern functional and object oriented shell script language
+*   [shell++ (⭐141)](https://github.com/alexst07/shell-plus-plus) - Friendly and modern functional and object oriented shell script language
 *   [tcsh](https://www.tcsh.org/) - C shell with file name completion and command line editing
 *   [xonsh](https://xon.sh) - Python-ish, BASHwards-looking shell language and command prompt
 
 ### Command-Line Productivity
 
-*   [autoenv (⭐5.4k)](https://github.com/inishchith/autoenv) - Directory-based environments
 *   [browsh (⭐16k)](https://github.com/browsh-org/browsh) - The modern text-based browser
-*   [googlr (⭐40)](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
-*   [mcfly (⭐5.5k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scot!
-*   [sqlline (⭐593)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
-*   [td-cli (⭐177)](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
+*   [googlr (⭐42)](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
+*   [mcfly (⭐6.4k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scot!
+*   [sqlline (⭐598)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
+*   [td-cli (⭐182)](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
 
 ### Command-Line Productivity / Directory Navigation
 
-*   [z.lua (⭐2.8k)](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits
+*   [z.lua (⭐2.9k)](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits
 
 ### For Developers / Directory Navigation
 
 *   [ack](https://beyondgrep.com/) - A grep-like search tool optimized for source code.
-*   [bitwise (⭐584)](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
-*   [forgit (⭐4.1k)](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder fzf.
-*   [overcommit (⭐3.8k)](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
-*   [wipe-modules (⭐339)](https://github.com/bntzio/wipe-modules) - A little agent that removes the node\_modules folder of non-active projects
+*   [bitwise (⭐600)](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
+*   [forgit (⭐4.2k)](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder fzf.
+*   [overcommit (⭐3.9k)](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
+*   [wipe-modules (⭐341)](https://github.com/bntzio/wipe-modules) - A little agent that removes the node\_modules folder of non-active projects
 
 ### System Utilities / Directory Navigation
 
-*   [bat (⭐44k)](https://github.com/sharkdp/bat) - A `cat` clone with wings
+*   [bat (⭐45k)](https://github.com/sharkdp/bat) - A `cat` clone with wings
 *   [exa (⭐23k)](https://github.com/ogham/exa) - A modern version of `ls`.
-*   [nmtui (⭐314)](https://github.com/NetworkManager/NetworkManager) - Text User Interface for controlling NetworkManager
+*   [nmtui (⭐334)](https://github.com/NetworkManager/NetworkManager) - Text User Interface for controlling NetworkManager
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [jo (⭐4.5k)](https://github.com/jpmens/jo) - A small utility to create JSON objects from command-line arguments.
+*   [jo (⭐4.6k)](https://github.com/jpmens/jo) - A small utility to create JSON objects from command-line arguments.
 
 ### Applications / Directory Navigation
 
-*   [jrnl (⭐6.1k)](https://github.com/jrnl-org/jrnl) - A simple command line journal application that stores your journal in a plain text file
+*   [jrnl (⭐6.2k)](https://github.com/jrnl-org/jrnl) - A simple command line journal application that stores your journal in a plain text file
 
 ### Shell Package Management / Directory Navigation
 
@@ -335,9 +334,9 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bashful (⭐587)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
-*   [Bashlets (⭐67)](https://github.com/reale/bashlets) - A modular extensible toolbox for Bash
-*   [Fishtape (⭐328)](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
+*   [bashful (⭐591)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
+*   [Bashlets (⭐70)](https://github.com/reale/bashlets) - A modular extensible toolbox for Bash
+*   [Fishtape (⭐339)](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
 
 ## [31. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
@@ -577,15 +576,15 @@
 
 ### Software / Polls and Events
 
-*   [hitobito](https://hitobito.com/en) - A web application to manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐333)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
+*   [hitobito](https://hitobito.com/en) - A web application to manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐334)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
 
 ### Software / Software Development - Project Management
 
-*   [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code (⭐4.7k)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
+*   [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code (⭐4.9k)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
 
 ### Software / Video Surveillance
 
-*   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐181)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
+*   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐182)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
 
 ## [50. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -637,7 +636,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Table of Contents / Event
 
-*   [PHP Defer (⭐272)](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
+*   [PHP Defer (⭐273)](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
 
 ## [56. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
@@ -970,10 +969,6 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
 *   [conveyor.cloud](https://conveyor.cloud/) — Visual Studio extension to expose IIS Express to the local network or over a tunnel to a public URL.
-
-### Other Free Resources
-
-*   [Framacloud](https://degooglisons-internet.org/en/list/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
 
 ---
 

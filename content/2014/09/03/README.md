@@ -25,7 +25,7 @@
 
 ### Virtual Machines
 
-*   [CarpVM (⭐978)](https://github.com/tekknolagi/carp) - "interesting" VM in C. Let's see how this goes. \[GPLv3]
+*   [CarpVM (⭐980)](https://github.com/tekknolagi/carp) - "interesting" VM in C. Let's see how this goes. \[GPLv3]
 *   [TinyVM (⭐3.1k)](https://github.com/jakogut/tinyvm) - A small, fast, lightweight virtual machine written in pure ANSI C. \[MIT]
 
 ### XML
@@ -41,8 +41,8 @@
 ### Miscellaneous
 
 *   [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++. \[LGPL]
-*   [cxx-prettyprint (⭐547)](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. \[Boost]
-*   [libcpuid (⭐416)](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. \[BSD]
+*   [cxx-prettyprint (⭐546)](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. \[Boost]
+*   [libcpuid (⭐417)](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. \[BSD]
 *   [libevil (⭐29)](https://github.com/avati/libevil) - The Evil License Manager. \[GPLv3]
 *   [SDS (⭐4.7k)](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. \[BSD]
 

@@ -91,12 +91,12 @@
 
 ### Authentication and Authorization
 
-*   🍰 [CakeDC/Users plugin (⭐516)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
+*   🍰 [CakeDC/Users plugin (⭐518)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
 *   [Muffin/Tokenize plugin (⭐12)](https://github.com/UseMuffin/Tokenize) - Event driven behavior for easily generating single-use security tokens.
 
 ### Migration
 
-*   🍰 [Migrations plugin (⭐130)](https://github.com/cakephp/migrations) - (DB) Migration plugin.
+*   🍰 [Migrations plugin (⭐131)](https://github.com/cakephp/migrations) - (DB) Migration plugin.
 
 ### ORM / Database / Datamapping
 

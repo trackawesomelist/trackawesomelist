@@ -11,7 +11,7 @@
 ### Articles / Obsidian
 
 *   [Do you really understand the concept of product value?](https://www.productboard.com/blog/do-you-really-understand-the-concept-of-product-value/) - by [Hubert Palan](https://www.linkedin.com/in/hubertpalan/).
-*   [How to Calculate Customer Lifetime Value](https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value) - By [Clint Fontanella](https://www.linkedin.com/in/clint-fontanella-973271140/).
+*   [How to Calculate Customer Lifetime Value](https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value) - By [Clint Fontanella](https://www.pedaling4pups.com/).
 
 ### Books / Obsidian
 

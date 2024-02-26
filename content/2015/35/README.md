@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 31 - Sep 06, 2015
 
-33 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -991,7 +991,7 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ### Third Party APIs
 
-*   [nadia (⭐361)](https://github.com/zhyu/nadia) - Telegram Bot API Wrapper written in Elixir.
+*   [nadia (⭐364)](https://github.com/zhyu/nadia) - Telegram Bot API Wrapper written in Elixir.
 
 ## [27. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -1036,7 +1036,13 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 *   [Linticator](http://linticator.com) - Eclipse CDT integration of Pc-/FlexeLint.
 
-## [31. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [31. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### 操作系统
+
+*   [uCore Lab: Operating System Course in Tsinghua University](https://www.gitbook.com/book/objectkuan/ucore-docs/details)
+
+## [32. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Containers
 
@@ -1054,25 +1060,25 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 *   [CIS Docker 1.6 Benchmark v1.0.0](https://benchmarks.cisecurity.org/tools2/docker/CIS_Docker_1.6_Benchmark_v1.0.0.pdf)
 *   [Understanding docker security and best practices](https://blog.docker.com/2015/05/understanding-docker-security-and-best-practices/)
 
-## [32. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [33. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Testing
 
 *   Mock
     *   [doublex](https://pypi.org/project/doublex/) - Powerful test doubles framework for Python.
-    *   [freezegun (⭐3.7k)](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
-    *   [httmock (⭐458)](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
+    *   [freezegun (⭐3.9k)](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
+    *   [httmock (⭐462)](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
     *   [httpretty (⭐2.1k)](https://github.com/gabrielfalcao/HTTPretty) - HTTP request mock tool for Python.
     *   [mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
-    *   [mocket (⭐264)](https://github.com/mindflayer/python-mocket) - A socket mock framework with gevent/asyncio/SSL support.
-    *   [responses (⭐3.9k)](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
-    *   [VCR.py (⭐2.4k)](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests.
+    *   [mocket (⭐270)](https://github.com/mindflayer/python-mocket) - A socket mock framework with gevent/asyncio/SSL support.
+    *   [responses (⭐4k)](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
+    *   [VCR.py (⭐2.6k)](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests.
 *   Object Factories
-    *   [factory\_boy (⭐3.1k)](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python.
-    *   [mixer (⭐905)](https://github.com/klen/mixer) - Another fixtures replacement. Supports Django, Flask, SQLAlchemy, Peewee and etc.
-    *   [model\_mommy (⭐915)](https://github.com/vandersonmota/model_mommy) - Creating random fixtures for testing in Django.
+    *   [factory\_boy (⭐3.3k)](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python.
+    *   [mixer (⭐925)](https://github.com/klen/mixer) - Another fixtures replacement. Supports Django, Flask, SQLAlchemy, Peewee and etc.
+    *   [model\_mommy (⭐906)](https://github.com/vandersonmota/model_mommy) - Creating random fixtures for testing in Django.
 
-## [33. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [34. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 

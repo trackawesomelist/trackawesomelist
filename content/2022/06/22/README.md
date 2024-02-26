@@ -16,7 +16,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Vite + Lit + Tailwind Starter (⭐23)](https://github.com/running-grass/starter-lit-with-tailwind) - Boilerplate using Vite, Lit and Tailwind CSS.
+*   🚀 [Vite + Lit + Tailwind Starter (⭐25)](https://github.com/running-grass/starter-lit-with-tailwind) - Boilerplate using Vite, Lit and Tailwind CSS.
 
 ## [3. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -34,9 +34,9 @@
 
 ### Resources / Packages
 
-*   [Page loader (⭐22)](https://github.com/ycs77/inertia-plugin) - Unplugin for loading Inertia pages from configured namespaces.
+*   [Page loader (⭐26)](https://github.com/ycs77/inertia-plugin) - Unplugin for loading Inertia pages from configured namespaces.
 *   [Flash (⭐20)](https://github.com/igerslike/inertia-flash) - Laravel package for sharing properties from anywhere.
-*   [Dry requests (⭐208)](https://github.com/dive-be/laravel-dry-requests) - Generic Laravel package for real-time form validation.
+*   [Dry requests (⭐206)](https://github.com/dive-be/laravel-dry-requests) - Generic Laravel package for real-time form validation.
 
 ## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -71,13 +71,13 @@
 
 ### Vue / Transformers
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-md-preview (⭐157)](https://github.com/JasKang/vite-plugin-md-preview) - Markdown code preview.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-md-preview (⭐158)](https://github.com/JasKang/vite-plugin-md-preview) - Markdown code preview.
 
 ## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### UI Animation / Syntax Highlight
 
-*   [react-ts-typewriter (⭐32)](https://github.com/gerardmarquinarubio/ReactTypewriter) - [demo](https://codesandbox.io/s/react-typewriter-example-mgyclf) - Easy to use and customizable typewriter effect for any text.
+*   [react-ts-typewriter (⭐34)](https://github.com/gerardmarquinarubio/ReactTypewriter) - [demo](https://codesandbox.io/s/react-typewriter-example-mgyclf) - Easy to use and customizable typewriter effect for any text.
 
 ## [12. Awesome D3](/content/wbkd/awesome-d3/README.md)
 

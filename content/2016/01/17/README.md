@@ -76,7 +76,7 @@ git commit --amend --reset-author --no-edit
 
 ### Games
 
-*   [entice (⭐117)](https://github.com/entice/entice) - A distributed Entity-Component-System framework, providing its own example MMORPG server.
+*   [entice (⭐119)](https://github.com/entice/entice) - A distributed Entity-Component-System framework, providing its own example MMORPG server.
 
 ## [5. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
 

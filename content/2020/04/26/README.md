@@ -25,7 +25,7 @@
 
 ### Automation
 
-*   [ActiveWorkflow (⭐765)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
+*   [ActiveWorkflow (⭐785)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
 
 ### Captchas and anti-spam
 
@@ -53,7 +53,7 @@
 
 ### Misc
 
-*   [gphoto2-web.cr (⭐7)](https://github.com/Sija/gphoto2-web.cr) - Web API for libgphoto2
+*   [gphoto2-web.cr (⭐8)](https://github.com/Sija/gphoto2-web.cr) - Web API for libgphoto2
 
 ## [5. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
@@ -72,7 +72,7 @@
 
 ### universally from / multiple sources
 
-*   [RSS-Bridge (⭐6.6k)](https://github.com/RSS-Bridge/rss-bridge/wiki) <sup>[257](https://t.me/s/aboutrss/257), [469](https://t.me/s/aboutrss/469), [478](https://t.me/s/aboutrss/478)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSS-Bridge/rss-bridge)
+*   [RSS-Bridge (⭐6.7k)](https://github.com/RSS-Bridge/rss-bridge/wiki) <sup>[257](https://t.me/s/aboutrss/257), [469](https://t.me/s/aboutrss/469), [478](https://t.me/s/aboutrss/478)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSS-Bridge/rss-bridge)
 
 ## [7. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 

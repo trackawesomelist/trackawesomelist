@@ -33,20 +33,20 @@
 
 ### Applications / Utilities
 
-*   [nix-community/nurl (⭐331)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
+*   [nix-community/nurl (⭐341)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
 
 ### Development tools / Build system
 
 *   [Nix](https://nixos.org/)
-    *   [nix-community/fenix (⭐505)](https://github.com/nix-community/fenix) — Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
+    *   [nix-community/fenix (⭐517)](https://github.com/nix-community/fenix) — Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
 
 ### Libraries / Cryptography
 
-*   [facebook/opaque-ke (⭐262)](https://github.com/facebook/opaque-ke) — Pure Rust implementation of the recent [OPAQUE](https://datatracker.ietf.org/doc/draft-krawczyk-cfrg-opaque/) password-authenticated key exchange. [![build badge](https://github.com/facebook/opaque-ke/workflows/Rust%20CI/badge.svg?branch=master)](https://github.com/facebook/opaque-ke)
+*   [facebook/opaque-ke (⭐264)](https://github.com/facebook/opaque-ke) — Implementation of the recent [OPAQUE](https://datatracker.ietf.org/doc/draft-krawczyk-cfrg-opaque/) password-authenticated key exchange. [![build badge](https://github.com/facebook/opaque-ke/workflows/Rust%20CI/badge.svg?branch=master)](https://github.com/facebook/opaque-ke)
 
 ### Libraries / Parsing
 
-*   [rust-bakery/nom (⭐8.8k)](https://github.com/rust-bakery/nom) — parser combinator library
+*   [rust-bakery/nom (⭐8.9k)](https://github.com/rust-bakery/nom) — parser combinator library
 
 ## [5. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Goroutines
 
-*   [conc (⭐8.1k)](https://github.com/sourcegraph/conc) - `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer.
+*   [conc (⭐8.2k)](https://github.com/sourcegraph/conc) - `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer.
 
 ## [12. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -200,7 +200,7 @@
 
 ### Miscellaneous / React
 
-*   [graphql-shield-generator (⭐7)](https://github.com/omar-dulaimi/graphql-shield-generator) - Emits a GraphQL Shield from your GraphQL schema.
+*   [graphql-shield-generator (⭐8)](https://github.com/omar-dulaimi/graphql-shield-generator) - Emits a GraphQL Shield from your GraphQL schema.
 
 ## [20. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -240,7 +240,7 @@
 
 ### CLI Utils
 
-*   [hetzner-k3s (⭐1.2k)](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to quickly create and manage Kubernetes clusters in Hetzner Cloud
+*   [hetzner-k3s (⭐1.3k)](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to quickly create and manage Kubernetes clusters in Hetzner Cloud
 
 ## [26. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -286,7 +286,7 @@
 
 ### Related Awesome Lists / Deforum
 
-*   \[🔥🔥🔥] [jonathandinu/awesome-ai-art (⭐312)](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
+*   \[🔥🔥🔥] [jonathandinu/awesome-ai-art (⭐317)](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
 
 ## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -300,7 +300,7 @@
 
 *   [brew (wintermi) (⭐5)](https://github.com/wintermi/zsh-brew) - Simple plugin for the [Homebrew](https://brew.sh/) Package Manager.
 *   [cmaker (⭐8)](https://github.com/apalkk/Cmaker) - Makes using `cmake` easier.
-*   [fzf-plugin (⭐0)](https://github.com/Atlas34/fzf-plugin) - [oh-my-zsh (⭐166k)](https://github.com/ohmyzsh/ohmyzsh)'s `fzf` plugin extracted so it can be used easily with other plugin managers.
+*   [fzf-plugin (⭐0)](https://github.com/Atlas34/fzf-plugin) - [oh-my-zsh (⭐167k)](https://github.com/ohmyzsh/ohmyzsh)'s `fzf` plugin extracted so it can be used easily with other plugin managers.
 *   [golang (⭐4)](https://github.com/wintermi/zsh-golang) - Adds tooling for the Go programming language toolchain.
 *   [rust (cowboyd) (⭐0)](https://github.com/cowboyd/zsh-rust) - Configure your [rust](https://www.rust-lang.org/) toolchain, installing [rustup](https://rustup.rs) if it is not currently installed already.
 *   [rust (wintermi) (⭐6)](https://github.com/wintermi/zsh-rust) - Plugin for the [rust](https://www.rust-lang.org/) toolchain.
@@ -398,7 +398,7 @@
 
 ### GraphQL
 
-*   [ZeroQL (⭐227)](https://github.com/byme8/ZeroQL) - high-performance C#-friendly GraphQL client. It supports Linq-like syntax. It doesn't require Reflection.Emit or expressions. As a result, the runtime provides performance very close to a raw HTTP call.
+*   [ZeroQL (⭐231)](https://github.com/byme8/ZeroQL) - high-performance C#-friendly GraphQL client. It supports Linq-like syntax. It doesn't require Reflection.Emit or expressions. As a result, the runtime provides performance very close to a raw HTTP call.
 
 ## [39. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -613,7 +613,7 @@
 
 ### Software / Automation
 
-*   [Automatisch](https://automatisch.io) - Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (alternative to Zapier). ([Source Code (⭐3.5k)](https://github.com/automatisch/automatisch)) `AGPL-3.0` `Docker`
+*   [Automatisch](https://automatisch.io) - Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (alternative to Zapier). ([Source Code (⭐3.7k)](https://github.com/automatisch/automatisch)) `AGPL-3.0` `Docker`
 
 ### Software / Miscellaneous
 

@@ -10,7 +10,7 @@
 
 ### Editors / Native Editors
 
-*   [Merkaartor (⭐280)](https://github.com/openstreetmap/merkaartor) - An opensource OSM editor, written in C++ and Qt.
+*   [Merkaartor (⭐285)](https://github.com/openstreetmap/merkaartor) - An opensource OSM editor, written in C++ and Qt.
 
 ## [2. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Tools / Community providers
 
-*   [aws2tf (⭐434)](https://github.com/aws-samples/aws2tf) - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
+*   [aws2tf (⭐469)](https://github.com/aws-samples/aws2tf) - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
 
 ## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

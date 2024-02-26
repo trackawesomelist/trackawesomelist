@@ -311,15 +311,15 @@ Language: English
 
 ### Gaming
 
-*   [Flame (⭐850)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
+*   [Flame (⭐897)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
 
 ### Media
 
-*   [Audiovisual (⭐151)](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
+*   [Audiovisual (⭐154)](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
 
 ### Miscellaneous
 
-*   [WP-CLI (⭐174)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
+*   [WP-CLI (⭐176)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
 
 ## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 

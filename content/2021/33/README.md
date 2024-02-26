@@ -113,7 +113,7 @@
 
 ### Crates / Utils
 
-*   [stylist-rs (⭐345)](https://github.com/futursolo/stylist-rs) - A CSS-in-Rust styling solution for WebAssembly Applications.
+*   [stylist-rs (⭐347)](https://github.com/futursolo/stylist-rs) - A CSS-in-Rust styling solution for WebAssembly Applications.
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -349,7 +349,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [SwiftBar (⭐2.5k)](https://github.com/swiftbar/SwiftBar/) - Powerful macOS menu bar customization tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/swiftbar/SwiftBar/)
+*   [SwiftBar (⭐2.6k)](https://github.com/swiftbar/SwiftBar/) - Powerful macOS menu bar customization tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/swiftbar/SwiftBar/)
 
 ## [38. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
@@ -368,13 +368,13 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Aseprite Wizard (⭐586)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
+*   [Aseprite Wizard (⭐617)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
 
 ## [41. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Gaming
 
-*   [Godot (⭐5.3k)](https://github.com/godotengine/awesome-godot#readme) - Game engine.
+*   [Godot (⭐5.4k)](https://github.com/godotengine/awesome-godot#readme) - Game engine.
 
 ## [42. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
@@ -484,9 +484,9 @@
 
 ### Table of Contents / Dependency Management Extras
 
-*   [Composer Merge Plugin (⭐908)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
-*   [Composer Normalize (⭐987)](https://github.com/ergebnis/composer-normalize) - A plugin for normalizing `composer.json` files.
-*   [Composer Require Checker (⭐830)](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
+*   [Composer Merge Plugin (⭐910)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
+*   [Composer Normalize (⭐990)](https://github.com/ergebnis/composer-normalize) - A plugin for normalizing `composer.json` files.
+*   [Composer Require Checker (⭐834)](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
 *   [Tooly (⭐101)](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in a project using Composer.
 
 ### Table of Contents / Scraping
@@ -507,7 +507,7 @@
 
 ### Table of Contents / Event
 
-*   [Pawl (⭐564)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
+*   [Pawl (⭐566)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
 
 ### Table of Contents / Database
 
@@ -519,10 +519,10 @@
 
 ### Table of Contents / Markup and CSS
 
-*   [Essence (⭐767)](https://github.com/essence/essence) - A library for extracting web media.
-*   [Embera (⭐325)](https://github.com/mpratt/Embera) - An Oembed consumer library.
-*   [Shiki PHP (⭐260)](https://github.com/spatie/shiki-php) - A [Shiki (⭐6.9k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
-*   [VObject (⭐557)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
+*   [Essence (⭐768)](https://github.com/essence/essence) - A library for extracting web media.
+*   [Embera (⭐324)](https://github.com/mpratt/Embera) - An Oembed consumer library.
+*   [Shiki PHP (⭐265)](https://github.com/spatie/shiki-php) - A [Shiki (⭐7.2k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
+*   [VObject (⭐559)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 
 ### Table of Contents / JSON
 
@@ -535,7 +535,7 @@
 
 ### Table of Contents / Caching and Locking
 
-*   [Lock (⭐915)](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
+*   [Lock (⭐916)](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
 
 ### Configuration / Miscellaneous
 
@@ -562,12 +562,12 @@
 
 ### Applications / Blockchain
 
-*   [interBTC (⭐235)](https://github.com/interlay/interbtc) — Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.
-*   [Parity-Bitcoin (⭐723)](https://github.com/paritytech/parity-bitcoin) — The Parity Bitcoin client
+*   [interBTC (⭐236)](https://github.com/interlay/interbtc) — Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.
+*   [Parity-Bitcoin (⭐724)](https://github.com/paritytech/parity-bitcoin) — The Parity Bitcoin client
 
 ### Applications / Productivity
 
-*   [pier-cli/pier (⭐483)](https://github.com/pier-cli/pier) — A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs
+*   [pier-cli/pier (⭐489)](https://github.com/pier-cli/pier) — A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs
 
 ### Applications / System tools
 
@@ -576,12 +576,12 @@
 
 ### Applications / Utilities
 
-*   [evansmurithi/cloak (⭐264)](https://github.com/evansmurithi/cloak) — A Command Line OTP (One Time Password) Authenticator application.
+*   [evansmurithi/cloak (⭐268)](https://github.com/evansmurithi/cloak) — A Command Line OTP (One Time Password) Authenticator application.
     ![CI](https://github.com/evansmurithi/cloak/workflows/CI/badge.svg) [![build badge](https://ci.appveyor.com/api/projects/status/9mlfpfru3ng4c689/branch/master?svg=true)](https://ci.appveyor.com/project/evansmurithi/cloak)
 
 ### Applications / Web
 
-*   [MASQ-Project/Node (⭐159)](https://github.com/MASQ-Project/Node) — MASQ Node software provides a decentralized mesh-network of nodes for global users to access normal internet content - next evolution of tech beyond Tor & VPN [![build badge](https://github.com/MASQ-Project/Node/actions/workflows/ci-matrix.yml/badge.svg)](https://github.com/MASQ-Project/Node/actions)
+*   [MASQ-Project/Node (⭐160)](https://github.com/MASQ-Project/Node) — MASQ Node software provides a decentralized mesh-network of nodes for global users to access normal internet content - next evolution of tech beyond Tor & VPN [![build badge](https://github.com/MASQ-Project/Node/actions/workflows/ci-matrix.yml/badge.svg)](https://github.com/MASQ-Project/Node/actions)
 
 ### Development tools / Web Servers
 
@@ -591,9 +591,9 @@
 
 *   [Emacs](https://www.gnu.org/software/emacs/)
     *   [emacs-racer (⭐399)](https://github.com/racer-rust/emacs-racer) — Autocompletion (see also [company](https://company-mode.github.io) and [auto-complete (⭐1.7k)](https://github.com/auto-complete/auto-complete))
-    *   [flycheck-rust (⭐118)](https://github.com/flycheck/flycheck-rust) — Rust support for [Flycheck (⭐2.3k)](https://github.com/flycheck/flycheck)
+    *   [flycheck-rust (⭐118)](https://github.com/flycheck/flycheck-rust) — Rust support for [Flycheck (⭐2.4k)](https://github.com/flycheck/flycheck)
     *   [rust-mode (⭐1k)](https://github.com/rust-lang/rust-mode) — Rust Major Mode
-    *   [rustic (⭐689)](https://github.com/brotzeit/rustic) - Rust development environment for Emacs [![build badge](https://github.com/brotzeit/rustic/workflows/CI/badge.svg)](https://github.com/brotzeit/rustic/actions?query=workflow%3ACI)
+    *   [rustic (⭐690)](https://github.com/brotzeit/rustic) - Rust development environment for Emacs [![build badge](https://github.com/brotzeit/rustic/workflows/CI/badge.svg)](https://github.com/brotzeit/rustic/actions?query=workflow%3ACI)
 
 ### Development tools / Profiling
 
@@ -601,7 +601,7 @@
 
 ### Development tools / Static analysis
 
-*   [facebookexperimental/MIRAI (⭐939)](https://github.com/facebookexperimental/mirai) — an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Continuous Integration](https://github.com/facebookexperimental/mirai/actions/workflows/rust.yml/badge.svg)](https://github.com/facebookexperimental/mirai/actions/workflows/rust.yml)
+*   [facebookexperimental/MIRAI (⭐942)](https://github.com/facebookexperimental/mirai) — an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Continuous Integration](https://github.com/facebookexperimental/mirai/actions/workflows/rust.yml/badge.svg)](https://github.com/facebookexperimental/mirai/actions/workflows/rust.yml)
 
 ### Libraries / Artificial Intelligence
 
@@ -609,7 +609,7 @@
 
 ### Libraries / Game development
 
-*   [Awesome Quads (⭐155)](https://github.com/ozkriff/awesome-quads) — A curated list of links to miniquad/macroquad-related code & resources
+*   [Awesome Quads (⭐156)](https://github.com/ozkriff/awesome-quads) — A curated list of links to miniquad/macroquad-related code & resources
 
 ### Libraries / GUI
 
@@ -622,10 +622,10 @@
 ### Libraries / Web programming
 
 *   [WebSocket](https://datatracker.ietf.org/doc/rfc6455/)
-    *   [housleyjk/ws-rs (⭐1.4k)](https://github.com/housleyjk/ws-rs) — lightweight, event-driven WebSockets for Rust
-    *   [iddm/urlshortener-rs (⭐42)](https://github.com/iddm/urlshortener-rs) — A very simple urlshortener library for Rust. [![CI](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml) [![Crates badge](https://img.shields.io/crates/v/urlshortener.svg)](https://crates.io/crates/urlshortener)
-    *   [rust-websocket (⭐1.4k)](https://github.com/websockets-rs/rust-websocket) — A framework for dealing with WebSocket connections (both clients and servers)
-    *   [snapview/tungstenite-rs (⭐1.6k)](https://github.com/snapview/tungstenite-rs) — Lightweight stream-based WebSocket implementation for Rust.
+    *   [housleyjk/ws-rs (⭐1.4k)](https://github.com/housleyjk/ws-rs) — lightweight, event-driven WebSockets
+    *   [iddm/urlshortener-rs (⭐44)](https://github.com/iddm/urlshortener-rs) — A very simple urlshortener library. [![CI](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml) [![Crates badge](https://img.shields.io/crates/v/urlshortener.svg)](https://crates.io/crates/urlshortener)
+    *   [rust-websocket (⭐1.5k)](https://github.com/websockets-rs/rust-websocket) — A framework for dealing with WebSocket connections (both clients and servers)
+    *   [snapview/tungstenite-rs (⭐1.7k)](https://github.com/snapview/tungstenite-rs) — Lightweight stream-based WebSocket implementation.
     *   [vi/websocat (⭐6.3k)](https://github.com/vi/websocat) — CLI for interacting with WebSockets, with functionality of Netcat, Curl and Socat.
 
 ## [50. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)

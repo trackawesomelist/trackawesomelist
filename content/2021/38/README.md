@@ -60,13 +60,13 @@
 
 ### GUI
 
-*   [xtd (⭐677)](https://github.com/gammasoft71/xtd) - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android. \[MIT]
+*   [xtd (⭐691)](https://github.com/gammasoft71/xtd) - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android. \[MIT]
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
-*   [naive-ui-dashboard-template (⭐52)](https://github.com/Innei/naive-ui-dashboard-template) - UI friendly, Vue 3 + TSX + TailwindCSS 2 JIT + PostCSS + Naive UI.
+*   [naive-ui-dashboard-template (⭐53)](https://github.com/Innei/naive-ui-dashboard-template) - UI friendly, Vue 3 + TSX + TailwindCSS 2 JIT + PostCSS + Naive UI.
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -99,7 +99,7 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 ### Web Programming • Libraries
 
-*   [Theatre.js (⭐10k)](https://github.com/ariaminaei/theatre) - Motion design library with visual tools
+*   [Theatre.js (⭐11k)](https://github.com/ariaminaei/theatre) - Motion design library with visual tools
 
 ### Schools • Workshops / Other
 
@@ -146,17 +146,17 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 ### Plugins
 
-*   💼 [Fluid Type (⭐287)](https://github.com/davidhellmann/tailwindcss-fluid-type) - Adds fluid type (`font-size`) utilities.
+*   💼 [Fluid Type (⭐296)](https://github.com/davidhellmann/tailwindcss-fluid-type) - Adds fluid type (`font-size`) utilities.
 
 ### Starters & Themes
 
-*   🚀 [Next JS Boilerplate (⭐5.6k)](https://github.com/ixartz/Next-js-Boilerplate) - Boilerplate for Next.js and Tailwind CSS.
+*   🚀 [Next JS Boilerplate (⭐5.9k)](https://github.com/ixartz/Next-js-Boilerplate) - Boilerplate for Next.js and Tailwind CSS.
 
 ## [19. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
-*   [Integration (⭐278)](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
+*   [Integration (⭐288)](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
 
 ## [20. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
@@ -169,7 +169,7 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 ### Component Collections / Material Design
 
-*   [refine (⭐20k)](https://github.com/pankod/refine) - [demo](https://example.refine.dev) - [docs](https://refine.dev/docs) - Build data-intensive applications in no time. It ships with Ant Design System, an enterprise-level UI toolkit.
+*   [refine (⭐22k)](https://github.com/pankod/refine) - [demo](https://example.refine.dev) - [docs](https://refine.dev/docs) - Build data-intensive applications in no time. It ships with Ant Design System, an enterprise-level UI toolkit.
 
 ## [22. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -548,11 +548,11 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 ### Software / Communication - IRC
 
-*   [UnrealIRCd](https://www.unrealircd.org/) - Modular, advanced and highly configurable IRC server written in C for Linux, BSD, Windows, and macOS. ([Source Code (⭐391)](https://github.com/unrealircd/unrealircd)) `GPL-2.0` `C`
+*   [UnrealIRCd](https://www.unrealircd.org/) - Modular, advanced and highly configurable IRC server written in C for Linux, BSD, Windows, and macOS. ([Source Code (⭐393)](https://github.com/unrealircd/unrealircd)) `GPL-2.0` `C`
 
 ### Software / Media Streaming - Video Streaming
 
-*   [VideoLAN Client (VLC)](https://www.videolan.org/) - Cross-platform multimedia player client and server supporting most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. ([Source Code (⭐12k)](https://github.com/videolan/vlc)) `GPL-2.0` `C/deb`
+*   [VideoLAN Client (VLC)](https://www.videolan.org/) - Cross-platform multimedia player client and server supporting most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. ([Source Code (⭐13k)](https://github.com/videolan/vlc)) `GPL-2.0` `C/deb`
 
 ### Software / Miscellaneous
 

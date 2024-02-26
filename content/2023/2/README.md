@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 09 - Jan 15, 2023
 
-53 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,11 +22,11 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Apprise (⭐9.3k)](https://github.com/caronc/apprise) - Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. `MIT` `Python/Docker/deb`
+*   [Apprise (⭐9.9k)](https://github.com/caronc/apprise) - Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. `MIT` `Python/Docker/deb`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Retrospring (⭐175)](https://github.com/retrospring/retrospring) - A free, open-source social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ([Demo](https://retrospring.net)) `AGPL-3.0` `Ruby/Nodejs`
+*   [Retrospring (⭐176)](https://github.com/retrospring/retrospring) - A free, open-source social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ([Demo](https://retrospring.net)) `AGPL-3.0` `Ruby/Nodejs`
 
 ### Software / Games
 
@@ -35,11 +35,11 @@
 
 ### Software / Miscellaneous
 
-*   [Cloudlog](https://magicbug.co.uk/cloudlog/) - Cloudlog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere. ([Source Code (⭐385)](https://github.com/magicbug/cloudlog)) `MIT` `PHP/Docker`
+*   [Cloudlog](https://magicbug.co.uk/cloudlog/) - Cloudlog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere. ([Source Code (⭐394)](https://github.com/magicbug/cloudlog)) `MIT` `PHP/Docker`
 
 ### Software / Note-taking & Editors
 
-*   [Benotes](https://benotes.org/) - An open source self hosted notes and bookmarks taking web app. ([Source Code (⭐623)](https://github.com/fr0tt/benotes)) `MIT` `PHP/Docker`
+*   [Benotes](https://benotes.org/) - An open source self hosted notes and bookmarks taking web app. ([Source Code (⭐631)](https://github.com/fr0tt/benotes)) `MIT` `PHP/Docker`
 
 ## [4. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -89,11 +89,11 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [unplugin-imagemin (⭐140)](https://github.com/ErKeLost/unplugin-imagemin) - High performance compressed Picture based on squoosh and sharp.
+*   [unplugin-imagemin (⭐149)](https://github.com/ErKeLost/unplugin-imagemin) - High performance compressed Picture based on squoosh and sharp.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-entry-shaking (⭐64)](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
+*   [vite-plugin-entry-shaking (⭐69)](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
 
 ## [9. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -105,8 +105,8 @@
 
 ### [Transistor Software plugins](https://www.transistorsoft.com//)
 
-*   [Background Geolocation (⭐76)](https://github.com/transistorsoft/capacitor-background-geolocation) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
-*   [Background Fetch (⭐70)](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both IOS and Android.
+*   [Background Geolocation (⭐78)](https://github.com/transistorsoft/capacitor-background-geolocation) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
+*   [Background Fetch (⭐71)](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both IOS and Android.
 *   [Background Geolocation Firebase (⭐6)](https://github.com/transistorsoft/capacitor-background-geolocation-firebase) - Firebase adapter for Capacitor Background Geolocation.
 
 ## [11. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
@@ -231,11 +231,7 @@
 ### Username Check / Telegram
 
 *   [NameKetchup](https://nameketchup.com) - checks domain name and username in popular social media sites and platforms.
-*   [Blackbird (⭐1.9k)](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
-
-### People Investigations / Telegram
-
-*   [Digital Footprint Check](https://www.cyberoneintel.com/digitalfootprint) - Search the internet including social media accounts, employment history, dating profiles, gaming profiles, dark web credential breaches, indexed search engine occurrences, and more.
+*   [Blackbird (⭐2.2k)](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
 
 ### Image Search / Telegram
 
@@ -256,13 +252,13 @@
 
 ### Infographics and Data Visualization / Telegram
 
-*   [Perspective (⭐6.6k)](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
+*   [Perspective (⭐7.2k)](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
 
 ### Other Tools / Telegram
 
-*   [Glit (⭐34)](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
+*   [Glit (⭐37)](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
 *   [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports [10 API wrappers](https://serpapi.com/integrations).
-*   [SerpScan (⭐57)](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
+*   [SerpScan (⭐60)](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
 
 ## [26. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -368,7 +364,7 @@
 
 ### Game tools and libraries
 
-*   [hexops/mach (⭐2.5k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
+*   [hexops/mach (⭐2.6k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
 
 ### GUI
 
@@ -402,7 +398,7 @@
 
 ### Applications and Platforms / Wealth
 
-*   [Firefly III (⭐11k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
+*   [Firefly III (⭐13k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 
 ## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -430,11 +426,11 @@
 
 ### GUI
 
-*   [MyGUI (⭐682)](https://github.com/MyGUI/mygui) - Fast, flexible and simple GUI. \[MIT]
+*   [MyGUI (⭐683)](https://github.com/MyGUI/mygui) - Fast, flexible and simple GUI. \[MIT]
 
 ### Serialization
 
-*   [zpp\_bits (⭐620)](https://github.com/eyalz800/zpp_bits) - Actually, the fastest modern **S**erialization library. Just check [this video](https://www.youtube.com/watch?v=G7-GQhCw8eE\&ab_channel=CppCon).
+*   [zpp\_bits (⭐626)](https://github.com/eyalz800/zpp_bits) - Actually, the fastest modern **S**erialization library. Just check [this video](https://www.youtube.com/watch?v=G7-GQhCw8eE\&ab_channel=CppCon).
 
 ### Other Awesome Projects
 
@@ -452,7 +448,7 @@
 ### Libraries / Peripherals
 
 *   Serial Port
-    *   [serialport/serialport-rs (⭐334)](https://github.com/serialport/serialport-rs) \[[serialport](https://crates.io/crates/serialport)] — A cross-platform library that provides access to a serial port
+    *   [serialport/serialport-rs (⭐339)](https://github.com/serialport/serialport-rs) \[[serialport](https://crates.io/crates/serialport)] — A cross-platform library that provides access to a serial port
 
 ## [37. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -1420,7 +1416,7 @@
 
 ### Notes and Tasks
 
-*   [Trilium Notes (⭐24k)](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+*   [Trilium Notes (⭐25k)](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 
 ### Desktop
 
@@ -1434,7 +1430,7 @@
 
 ### Security
 
-*   [Ronin (⭐594)](https://github.com/ronin-rb/ronin) - A Ruby platform for vulnerability research and exploit development.
+*   [Ronin (⭐600)](https://github.com/ronin-rb/ronin) - A Ruby platform for vulnerability research and exploit development.
 
 ## [52. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
@@ -1445,16 +1441,6 @@
 ### Books / Monograph
 
 *   [Alon & Spencer. The Probabilistic Method](https://www.wiley.com/en-us/The+Probabilistic+Method%2C+4th+Edition-p-9781119061953) -  A standard reference for researchers in probabilistic methods in combinatorics. Shows also connections to theoretical computer science.
-
-## [53. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Open Source Ecosystem
-
-*   [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) - Nadia Eghbal
-
-### Professional Development
-
-*   [How to Learn to Code & Get a Developer Job in 2023](https://www.freecodecamp.org/news/learn-to-code-book) - Quincy Larson
 
 ---
 

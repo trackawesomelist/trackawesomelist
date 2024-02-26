@@ -43,27 +43,27 @@
 
 ### Libraries
 
-*   [json-build (⭐29)](https://github.com/lcsmuller/json-build) - A minimalistic serializer in C. It can be easily integrated into the resource-limited projects or embedded systems.
+*   [json-build (⭐33)](https://github.com/lcsmuller/json-build) - A minimalistic serializer in C. It can be easily integrated into the resource-limited projects or embedded systems.
 
 ## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Type Select
 
-*   [rich-textarea (⭐254)](https://github.com/inokawa/rich-textarea) - A textarea to colorize, highlight, decorate texts and offer autocomplete.
+*   [rich-textarea (⭐258)](https://github.com/inokawa/rich-textarea) - A textarea to colorize, highlight, decorate texts and offer autocomplete.
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
-*   [MetaTube (⭐253)](https://github.com/JVT038/MetaTube) `⚠` - A Web GUI to automatically download music from YouTube add metadata from Spotify, Deezer or Musicbrainz. `GPL-3.0` `Python`
+*   [MetaTube (⭐263)](https://github.com/JVT038/MetaTube) `⚠` - A Web GUI to automatically download music from YouTube add metadata from Spotify, Deezer or Musicbrainz. `GPL-3.0` `Python`
 
 ### Software / Feed Readers
 
-*   [JARR](https://1pxsolidblack.pl/jarr-en.html) - JARR (Just Another RSS Reader) is a web-based news aggregator and reader (fork of Newspipe). ([Demo](https://www.jarr.info/), [Source Code (⭐115)](https://github.com/jaesivsm/JARR)) `AGPL-3.0` `Docker/Python`
+*   [JARR](https://1pxsolidblack.pl/jarr-en.html) - JARR (Just Another RSS Reader) is a web-based news aggregator and reader (fork of Newspipe). ([Demo](https://www.jarr.info/), [Source Code (⭐116)](https://github.com/jaesivsm/JARR)) `AGPL-3.0` `Docker/Python`
 
 ### Software / Internet of Things (IoT)
 
-*   [SIP Irrigation Control](https://dan-in-ca.github.io/SIP/) - Open source software for sprinkler/irrigation control. ([Source Code (⭐339)](https://github.com/Dan-in-CA/SIP)) `GPL-3.0` `Python`
+*   [SIP Irrigation Control](https://dan-in-ca.github.io/SIP/) - Open source software for sprinkler/irrigation control. ([Source Code (⭐341)](https://github.com/Dan-in-CA/SIP)) `GPL-3.0` `Python`
 
 ### Software / Media Streaming - Audio Streaming
 
@@ -71,11 +71,11 @@
 
 ### Software / Office Suites
 
-*   [Grist](https://getgrist.com/) - Grist is a next-generation spreadsheet with relational structure, formula-based access control, and a portable, self-contained format (alternative to Airtable). ([Demo](https://docs.getgrist.com), [Source Code (⭐5.9k)](https://github.com/gristlabs/grist-core)) `Apache-2.0` `Nodejs/Python/Docker`
+*   [Grist](https://getgrist.com/) - Grist is a next-generation spreadsheet with relational structure, formula-based access control, and a portable, self-contained format (alternative to Airtable). ([Demo](https://docs.getgrist.com), [Source Code (⭐6k)](https://github.com/gristlabs/grist-core)) `Apache-2.0` `Nodejs/Python/Docker`
 
 ### Software / Pastebins
 
-*   [wantguns/bin (⭐162)](https://github.com/wantguns/bin) - Minimal pastebin for both textual and binary files shipped in a single statically linked binary. ([Demo](https://basedbin.fly.dev)) `GPL-3.0` `Rust/Docker`
+*   [wantguns/bin (⭐167)](https://github.com/wantguns/bin) - Minimal pastebin for both textual and binary files shipped in a single statically linked binary. ([Demo](https://basedbin.fly.dev)) `GPL-3.0` `Rust/Docker`
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -121,7 +121,7 @@
 
 ### Crates / Utils
 
-*   [Yew Interop (⭐39)](https://github.com/Madoshakalaka/yew-interop) - Load JavaScript and CSS asynchronously in Yew.
+*   [Yew Interop (⭐40)](https://github.com/Madoshakalaka/yew-interop) - Load JavaScript and CSS asynchronously in Yew.
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

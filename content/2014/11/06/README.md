@@ -10,7 +10,7 @@
 
 ### Date and Time Processing
 
-*   [local\_time (⭐1.8k)](https://github.com/basecamp/local_time) - Rails Engine for cache-friendly, client-side local time.
+*   [local\_time (⭐1.9k)](https://github.com/basecamp/local_time) - Rails Engine for cache-friendly, client-side local time.
 
 ## [2. Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md)
 

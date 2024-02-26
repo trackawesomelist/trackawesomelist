@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [Connectivity Data and Reports (⭐102)](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
+*   [Connectivity Data and Reports (⭐105)](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
 
 ## [2. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Server-Side Rendering / Lazy Load
 
-*   [react-esi (⭐663)](https://github.com/dunglas/react-esi) - A library to boost SSR performance by exposing React components as Edge Side Includes (ESI) fragments
+*   [react-esi (⭐664)](https://github.com/dunglas/react-esi) - A library to boost SSR performance by exposing React components as Edge Side Includes (ESI) fragments
 
 ## [6. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 

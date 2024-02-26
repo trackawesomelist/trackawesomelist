@@ -24,7 +24,7 @@
 
 ### Software / URL Shorteners
 
-*   [Blink](https://docs.blink.rest) - Easy-to-host, SSO-integrated, CDN-powered link shortener (+decoupled analytics) for teams. ([Source Code (⭐230)](https://github.com/JaneJeon/blink)) `AGPL-3.0` `Nodejs/Docker`
+*   [Blink](https://docs.blink.rest) - Easy-to-host, SSO-integrated, CDN-powered link shortener (+decoupled analytics) for teams. ([Source Code (⭐232)](https://github.com/JaneJeon/blink)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -51,8 +51,8 @@
 ### Libraries / Network programming
 
 *   SSH
-    *   [alexcrichton/ssh2-rs (⭐443)](https://github.com/alexcrichton/ssh2-rs) — [libssh2](https://libssh2.org/) bindings
-    *   [Thrussh](https://pijul.org/thrussh) \[[thrussh](https://crates.io/crates/thrussh)] — an SSH library written from scratch in Rust, backed by [libsodium](https://doc.libsodium.org/)
+    *   [alexcrichton/ssh2-rs (⭐448)](https://github.com/alexcrichton/ssh2-rs) — [libssh2](https://libssh2.org/) bindings
+    *   [Thrussh](https://pijul.org/thrussh) \[[thrussh](https://crates.io/crates/thrussh)] — an SSH library, backed by [libsodium](https://doc.libsodium.org/)
 
 ## [7. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -86,11 +86,11 @@
 
 ### Platforms
 
-*   [Linux (⭐4k)](https://github.com/inputsh/awesome-linux#readme)
+*   [Linux (⭐4.1k)](https://github.com/inputsh/awesome-linux#readme)
     *   [Containers (⭐1.6k)](https://github.com/Friz-zy/awesome-linux-containers#readme)
-    *   [eBPF (⭐3.6k)](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
-    *   [Arch-based Projects (⭐374)](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
-    *   [AppImage (⭐341)](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
+    *   [eBPF (⭐3.7k)](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
+    *   [Arch-based Projects (⭐384)](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
+    *   [AppImage (⭐350)](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
 
 ## [10. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 

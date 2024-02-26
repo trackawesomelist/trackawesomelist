@@ -16,8 +16,8 @@
 
 ### Database Management
 
-*   [elastic (⭐244)](https://github.com/ropensci/elastic) - Wrapper for the Elasticsearch HTTP API
-*   [mongolite (⭐281)](https://github.com/jeroenooms/mongolite) - Streaming Mongo Client for R
+*   [elastic (⭐243)](https://github.com/ropensci/elastic) - Wrapper for the Elasticsearch HTTP API
+*   [mongolite (⭐282)](https://github.com/jeroenooms/mongolite) - Streaming Mongo Client for R
 
 ### MOOCs / Book/monograph Lists and Reviews
 

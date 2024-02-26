@@ -29,7 +29,7 @@
 
 ### Books
 
-*   [Anton's OpenGL 4 Tutorials](https://www.amazon.com/gp/product/B00LAMQYF2/) -  Practical guide to starting 3d programming with OpenGL.
+*   [Anton's OpenGL 4 Tutorials](https://www.amazon.com/gp/product/B00LAMQYF2/) - Practical guide to starting 3d programming with OpenGL.
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 

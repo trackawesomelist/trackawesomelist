@@ -77,7 +77,6 @@
 ### Table of Contents / Debugging and Profiling
 
 *   [PHPSpy (⭐1.4k)](https://github.com/adsr/phpspy) - A low-overhead sampling profiler.
-*   [Tideways.io](https://tideways.com/) - Monitoring and profiling tool.
 
 ### Table of Contents / Event
 

@@ -208,7 +208,7 @@
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [ion (⭐78)](https://github.com/ion-lang/ion) - no BS JS
+*   [ion (⭐80)](https://github.com/ion-lang/ion) - no BS JS
 
 ## [10. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -427,7 +427,7 @@
 
 ### Miscellaneous
 
-*   [stdman (⭐910)](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]
+*   [stdman (⭐911)](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]
 *   [value-category-cheatsheet (⭐401)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
 
 ## [22. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
@@ -529,7 +529,7 @@
 ### GraphQL
 
 *   [graphql-batch (⭐1.4k)](https://github.com/Shopify/graphql-batch) – A query batching executor.
-*   [graphql-client (⭐1.2k)](https://github.com/github/graphql-client) - A library for declaring, composing and executing GraphQL queries.
+*   [graphql-client](https://github.com/github/graphql-client) - A library for declaring, composing and executing GraphQL queries.
 *   [graphql-guard (⭐470)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
 *   [graphql-ruby (⭐5.3k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
 
@@ -898,10 +898,6 @@
 ### Math / Other
 
 *   [The magnificent 2d matrix](http://ncase.me/matrix/) - Interactive tool to better understand transformation matrices.
-
-### Events / Other
-
-*   [Curated Creative Events](http://events.thesupply.com/) - Hand-picked design, code, art, fashion and maker events.
 
 ---
 

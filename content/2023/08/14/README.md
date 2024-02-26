@@ -109,7 +109,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 ### Tools
 
 *   [Polkadot Vault](https://signer.parity.io/) (formerly Parity Signer) - Upcycle an unused mobile phone into an air-gapped hardware wallet.
-*   [Uptest Runtime upgrade tool (⭐5)](https://github.com/uptest-sc/uptest) - Uptest command line client and libuptest Rust library are two tools used for debugging storage changes and runtime upgrades.
+*   [Uptest Runtime upgrade tool (⭐6)](https://github.com/uptest-sc/uptest) - Uptest command line client and libuptest Rust library are two tools used for debugging storage changes and runtime upgrades.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -142,7 +142,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [amrebada/go-modules (⭐10)](https://github.com/amrebada/go-modules) - Nest JS like structure for Go Fiber.
+*   [amrebada/go-modules (⭐11)](https://github.com/amrebada/go-modules) - Nest JS like structure for Go Fiber.
 
 ---
 

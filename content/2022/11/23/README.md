@@ -120,7 +120,7 @@
 ### Applications / Social networks
 
 *   Mastodon
-    *   [Rustodon (⭐846)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust
+    *   [Rustodon (⭐850)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server.
 
 ## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

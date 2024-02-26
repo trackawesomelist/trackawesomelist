@@ -87,7 +87,7 @@
 
 ### Miscellaneous
 
-*   [captcha-image (⭐7)](https://github.com/tpkahlon/captcha-image) - Allows you to generate a random captcha image with options.
+*   [captcha-image (⭐8)](https://github.com/tpkahlon/captcha-image) - Allows you to generate a random captcha image with options.
 
 ## [9. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -186,7 +186,7 @@
 
 ### ORM and Datamapping
 
-*   [pillar (⭐78)](https://github.com/sofakingworld/pillar) - Clickhouse HTTP based client.
+*   [pillar (⭐79)](https://github.com/sofakingworld/pillar) - Clickhouse HTTP based client.
 
 ### Text and Numbers
 
@@ -552,7 +552,7 @@ Language: English
 
 ### Front-End Development
 
-*   [Building Blocks for Web Apps (⭐133)](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
+*   [Building Blocks for Web Apps (⭐137)](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
 
 ### Related
 
@@ -568,7 +568,7 @@ Language: English
 
 ### Software / Money, Budgeting & Management
 
-*   [Family Accounting Tool (⭐166)](https://github.com/nymanjens/facto) - Web-based finance management tool for partners with partially shared expenses. `Apache-2.0` `Scala`
+*   [Family Accounting Tool (⭐168)](https://github.com/nymanjens/facto) - Web-based finance management tool for partners with partially shared expenses. `Apache-2.0` `Scala`
 
 ### Software / Note-taking & Editors
 
@@ -646,7 +646,7 @@ Language: English
 
 ### Applications / Blockchain
 
-*   [tendermint-rs (⭐564)](https://github.com/informalsystems/tendermint-rs) - Rust implementation of Tendermint blockchain data structures and clients
+*   [tendermint-rs (⭐564)](https://github.com/informalsystems/tendermint-rs) - Tendermint blockchain data structures and clients
 
 ### Development tools / IDEs
 
@@ -659,13 +659,13 @@ Language: English
 
 ### Libraries / Parsing
 
-*   [Folyd/robotstxt (⭐78)](https://github.com/Folyd/robotstxt) - A native Rust port of Google's robots.txt parser and matcher C++ library
+*   [Folyd/robotstxt (⭐79)](https://github.com/Folyd/robotstxt) - Port of Google's robots.txt parser and matcher C++ library
 
 ## [49. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### GUI Development
 
-*   [pyglet (⭐1.5k)](https://github.com/pyglet/pyglet) - A cross-platform windowing and multimedia library for Python.
+*   [pyglet (⭐1.7k)](https://github.com/pyglet/pyglet) - A cross-platform windowing and multimedia library for Python.
 
 ## [50. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 

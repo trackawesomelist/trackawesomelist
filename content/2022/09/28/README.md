@@ -67,11 +67,11 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Maloja (⭐868)](https://github.com/krateng/maloja) - Self-hosted music scrobble database (alternative to Last.fm). ([Demo](https://maloja.krateng.ch/)) `GPL-3.0` `Python/Docker`
+*   [Maloja (⭐887)](https://github.com/krateng/maloja) - Self-hosted music scrobble database (alternative to Last.fm). ([Demo](https://maloja.krateng.ch/)) `GPL-3.0` `Python/Docker`
 
 ### Software / Recipe Management
 
-*   [KitchenOwl](https://tombursch.github.io/kitchenowl/) - A cross-platform shopping list, recipe storage, expense tracker, and meal planner following the material design language. ([Source Code (⭐866)](https://github.com/TomBursch/kitchenowl)) `AGPL-3.0` `Docker/deb`
+*   [KitchenOwl](https://tombursch.github.io/kitchenowl/) - A cross-platform shopping list, recipe storage, expense tracker, and meal planner following the material design language. ([Source Code (⭐890)](https://github.com/TomBursch/kitchenowl)) `AGPL-3.0` `Docker/deb`
 
 ### Software / Software Development - API Management
 
@@ -146,7 +146,7 @@
 
 ### Crates / Javascript Library Ports
 
-*   [Plotly.rs (⭐895)](https://github.com/igiagkiozis/plotly) - Rust bindings for the popular [Plotly](https://plotly.com/javascript/) charting library.
+*   [Plotly.rs (⭐910)](https://github.com/igiagkiozis/plotly) - Rust bindings for the popular [Plotly](https://plotly.com/javascript/) charting library.
 *   [ag-grid-rs (⭐10)](https://github.com/mfreeborn/ag-grid-rs) - Rust bindings for the [AG Grid](https://www.ag-grid.com/javascript-data-grid/) datatable library.
 
 ---

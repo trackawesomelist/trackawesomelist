@@ -51,7 +51,7 @@
 
 ### Miscellaneous
 
-*   [exldap (⭐58)](https://github.com/jmerriweather/exldap) - A module for working with LDAP from Elixir.
+*   [exldap (⭐59)](https://github.com/jmerriweather/exldap) - A module for working with LDAP from Elixir.
 
 ### Testing
 

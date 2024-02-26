@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 30, 2020
 
-29 awesome lists updated today.
+28 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -339,13 +339,7 @@
 
 *   [BioJava](https://biojava.org/) - Facilitates processing biological data by providing algorithms, file format parsers, sequencing and 3D visualization commonly used in bioinformatics.
 
-## [28. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### APIs, Data, and ML
-
-*   [API Mocha](https://apimocha.com) - Completely free online API mocking for testing and prototyping.  Make up to 500 daily requests, fully customizable API responses, and download mock rules as a Postman collection.
-
-## [29. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [28. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Community
 

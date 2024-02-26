@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 29 - Feb 04, 2024
 
-30 awesome lists updated this week.
+31 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -111,7 +111,7 @@
 
 ### Books
 
-*   [Terraform in Depth](https://www.manning.com/books/terraform-in-depth))
+*   [Terraform in Depth](https://www.manning.com/books/terraform-in-depth)
 
 ## [12. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-imagemin (⭐8)](https://github.com/vHeemstra/vite-plugin-imagemin) - Optimize and compress your image assets and optionally create WebP/AVIF.
+*   [vite-plugin-imagemin (⭐11)](https://github.com/vHeemstra/vite-plugin-imagemin) - Optimize and compress your image assets and optionally create WebP/AVIF.
 
 ## [14. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
@@ -180,7 +180,13 @@
 *   Water / Refraction
     *   📚 [2D Water Shader](https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/) - GLSL fragment shader to simulate 2D water surface in libGDX.
 
-## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [19. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+
+### Podcasts / Helpers
+
+*   [TheIaCPodcast - Expert Panel on OpenTofu GA Release, Licensing, and OSS Future](https://www.theiacpodcast.com/episode/expert-panel-on-opentofu-ga-release-licensing-and-oss-future)
+
+## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
@@ -190,13 +196,13 @@
 
 *   [Lunatask](https://lunatask.app) - An all-in-one encrypted to-do list, habit and mood tracker, journaling and notes app. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/lunatask-a-better-to-do-list/id1583719331?mt=12)
 
-## [20. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [21. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Tools
 
 *   [bpfman (⭐260)](https://github.com/bpfman/bpfman) - An eBPF Manager for Linux and Kubernetes. Includes a built-in program loader that supports program cooperation for XDP and TC programs, as well as deployment of eBPF programs from OCI images.
 
-## [21. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [22. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Generative AI Tools Directories
 
@@ -204,7 +210,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [rasbt/LLMs-from-scratch (⭐7.5k)](https://github.com/rasbt/LLMs-from-scratch): Implementing a ChatGPT-like LLM from scratch, step by step
+*   [rasbt/LLMs-from-scratch (⭐9.4k)](https://github.com/rasbt/LLMs-from-scratch): Implementing a ChatGPT-like LLM from scratch, step by step
 *   \[🔥🔥🔥] [LLMLingua](https://llmlingua.com/): Designing a Language for LLMs via **Prompt Compression**
 
 ### Online Tools and Applications
@@ -216,7 +222,7 @@
 
 *   [LinkActions](https://linkactions.com): AI Internal Links Assistant
 
-## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -242,7 +248,7 @@
 
 *   [QRCodeBest](https://qrcode.best/) - Create custom QR codes with 13 templates, full privacy, and personal branding. Features tracking pixels, project categorization, and unlimited team seats on QRCode.Best.
 
-## [23. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+## [24. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
 - : [Porsche Design System](https://designsystem.porsche.com)
 
@@ -256,13 +262,13 @@
 
 
 
-## [24. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [25. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Libraries
 
 *   [MusicXML Player (⭐22)](https://github.com/infojunkie/musicxml-player) - A TypeScript component that loads and plays MusicXML files in the browser using Web Audio and Web MIDI.
 
-## [25. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [26. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Other Xcode / Collection View Layout
 
@@ -276,54 +282,54 @@
 
 *   [SwiftLee](https://www.avanderlee.com/) - A weekly blog about Swift, iOS and Xcode Tips and Tricks.
 
-## [26. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [27. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Python / Svelte
 
 *   [PyCoder's Weekly](https://pycoders.com/). A free, weekly email newsletter for those interested in Python development and various topics around Python and the communi‍‍‍ty.
 *   [The Real Python Newsletter](https://realpython.com/newsletter/). Weekly programming and career tips for Python developers, including short & sweet "Python Tricks" code snippets.
 
-## [27. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [28. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [QuestSystem (⭐17)](https://github.com/ShomyKohai/quest-system) - A simple and extensible quest manager and creator (Godot 4.x).
+*   [QuestSystem (⭐28)](https://github.com/ShomyKohai/quest-system) - A simple and extensible quest manager and creator (Godot 4.x).
 
-## [28. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [29. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [soulis-1256/eagle.nvim (⭐88)](https://github.com/soulis-1256/eagle.nvim) - Mouse-hover LSP hints.
+*   [soulis-1256/eagle.nvim (⭐123)](https://github.com/soulis-1256/eagle.nvim) - Mouse-hover LSP hints.
 
 ### AI / Diagnostics
 
-*   [kiddos/gemini.nvim (⭐0)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
+*   [kiddos/gemini.nvim (⭐12)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [sontungexpt/witch (⭐1)](https://github.com/sontungexpt/witch) - The primary stinvim distro colorscheme includes the default feature of dimming inactive windows, along with various other customization options for users.
+*   [sontungexpt/witch (⭐13)](https://github.com/sontungexpt/witch) - The primary stinvim distro colorscheme includes the default feature of dimming inactive windows, along with various other customization options for users.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [drybalka/clean.nvim (⭐2)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
+*   [drybalka/clean.nvim (⭐23)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
 
 ### Resource / Diagnostics
 
 *   [NeoLand](https://neoland.dev) - A beautifully crafted website for Neovim resources.
 
-## [29. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [cdhist (⭐2)](https://github.com/joknarf/cdhist) - cd history/subdir/locatedir navigation. simple cd history, alias builtin `cd` to add `cd` history, rapidily swich to already visited directories, can use `locate`, `mlocate` or `plocate` to rapidly cd to any directory
-*   [redo (⭐1)](https://github.com/joknarf/redo) - Adds an interactive history menu to replace `Ctrl-R` and `ESC+/`.
-*   [selector (⭐2)](https://github.com/joknarf/selector) - Make it easy to create selection menus.
+*   [cdhist (⭐4)](https://github.com/joknarf/cdhist) - cd history/subdir/locatedir navigation. simple cd history, alias builtin `cd` to add `cd` history, rapidily swich to already visited directories, can use `locate`, `mlocate` or `plocate` to rapidly cd to any directory
+*   [redo (⭐3)](https://github.com/joknarf/redo) - Adds an interactive history menu to replace `Ctrl-R` and `ESC+/`.
+*   [selector (⭐3)](https://github.com/joknarf/selector) - Make it easy to create selection menus.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ssh-config-suggestions (⭐0)](https://github.com/yngc0der/zsh-ssh-config-suggestions)- Loads completions for `ssh` from `~/.ssh/config`.
 
-## [30. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [31. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Workflow
 

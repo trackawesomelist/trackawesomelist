@@ -10,7 +10,7 @@
 
 ### Plugins and scripts / Godot 4.2+
 
-*   [AnimatedShape2D (⭐15)](https://github.com/Goutte/godot-addon-animated-shape-2d) - Animate a CollisionShape2D along with the frames of an AnimatedSprite2D.
+*   [AnimatedShape2D (⭐25)](https://github.com/Goutte/godot-addon-animated-shape-2d) - Animate a CollisionShape2D along with the frames of an AnimatedSprite2D.
 
 ## [2. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 

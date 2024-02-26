@@ -10,7 +10,7 @@
 
 ### Templates / Vue 3
 
-*   [vue3-ts-pinia-vant (⭐86)](https://github.com/zhousg/consult-patient-h5-vue3-ts-pinia-vant) - Vue3, Vue Router, Pinia, Composition API, TypeScript, Vant4, VueUse, Axios, SocketIO, PostCSS, ESlint, Prettier, Husky, Lint-staged, Mock, Amap, QQ Login, Alipay Sandbox, Eruda, CI/CD, Vercel, Mobile Project.
+*   [vue3-ts-pinia-vant (⭐88)](https://github.com/zhousg/consult-patient-h5-vue3-ts-pinia-vant) - Vue3, Vue Router, Pinia, Composition API, TypeScript, Vant4, VueUse, Axios, SocketIO, PostCSS, ESlint, Prettier, Husky, Lint-staged, Mock, Amap, QQ Login, Alipay Sandbox, Eruda, CI/CD, Vercel, Mobile Project.
 
 ### Templates / Solid
 
@@ -18,7 +18,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-svg-spritemap (⭐18)](https://github.com/g-makarov/vite-plugin-svg-spritemap) - Generates a SVG spritemap from multiple .svg files.
+*   [vite-plugin-svg-spritemap (⭐21)](https://github.com/g-makarov/vite-plugin-svg-spritemap) - Generates a SVG spritemap from multiple .svg files.
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -55,7 +55,7 @@
 
 ### Tools
 
-*   [SubID (⭐5)](https://github.com/dappforce/subid) - An advanced cross-chain portfolio management tool for the Polkadot ecosystem, allowing any user to see their balances across chains; view their crowdloan history; view their NFTs across Polkadot ecosystem chains; claim their vested tokens and perform cross-chain transfers.
+*   [SubID (⭐8)](https://github.com/dappforce/subid) - An advanced cross-chain portfolio management tool for the Polkadot ecosystem, allowing any user to see their balances across chains; view their crowdloan history; view their NFTs across Polkadot ecosystem chains; claim their vested tokens and perform cross-chain transfers.
 *   [Subsocial SDK Playground](https://play.subsocial.network) - Subsocial JS SDK Playground allows you to fetch spaces, send transactions on blockchain and test the SDK code snippets on the go without the need to download or setup anything locally.
 
 ## [4. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)

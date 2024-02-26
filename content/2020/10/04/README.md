@@ -23,7 +23,7 @@
 
 ### Threat Intelligence / Telegram
 
-*   [OnionScan (⭐2.6k)](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
+*   [OnionScan (⭐2.7k)](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
 
 ## [3. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Miscellaneous
 
-*   [react-advanced-news-ticker (⭐44)](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
+*   [react-advanced-news-ticker (⭐45)](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
 
 ## [6. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
@@ -153,7 +153,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   💙📚 [Headless UI (⭐23k)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
+*   💙📚 [Headless UI (⭐24k)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
 
 ---
 

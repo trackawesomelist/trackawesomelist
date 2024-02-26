@@ -39,7 +39,7 @@
 
 ### MIDI Tools & Libraries
 
-*   [Polyrhythmix (⭐267)](http://github.com/dredozubov/polyrhythmix) - MIDI drums
+*   [Polyrhythmix (⭐273)](http://github.com/dredozubov/polyrhythmix) - MIDI drums
     generator, designed for polyrhythmic parts
 
 ## [5. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
@@ -56,10 +56,6 @@
 *   [Chef](https://www.chef.io/products/chef-infra) - Configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes". ([Source Code (⭐7.4k)](https://github.com/chef/chef)) `Apache-2.0` `Ruby`
 *   [Puppet](https://www.puppet.com/) - Software configuration management tool which includes its own declarative language to describe system configuration. ([Source Code (⭐7.2k)](https://github.com/puppetlabs/puppet)) `Apache-2.0` `Ruby/C`
 *   [Salt](https://docs.saltproject.io/) - Event-driven IT automation, remote task execution, and configuration management software. ([Source Code (⭐14k)](https://github.com/saltstack/salt)) `Apache-2.0` `Python`
-
-### Websites / Web
-
-*   [Cloud Native Software Landscape](https://landscape.cncf.io/card-mode?license=open-source\&grouping=category) - Compilation of software and tools for cloud computing.
 
 ---
 

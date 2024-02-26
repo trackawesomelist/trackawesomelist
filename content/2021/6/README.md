@@ -145,7 +145,7 @@
 
 ### Loader
 
-*   [react-spinners (⭐2.8k)](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
+*   [react-spinners (⭐2.9k)](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
 *   [react-content-loader (⭐13k)](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook's cards loading).
 
 ## [11. Awesome React](/content/enaqx/awesome-react/week/README.md)
@@ -224,11 +224,11 @@
 
 ### Applications / Blockchain
 
-*   [Forest (⭐584)](https://github.com/ChainSafe/forest) - Rust Filecoin implementation [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
+*   [Forest (⭐584)](https://github.com/ChainSafe/forest) - Filecoin implementation [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
 
 ### Libraries / Parsing
 
-*   [softdevteam/grmtools (⭐451)](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
+*   [softdevteam/grmtools (⭐458)](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
 
 ## [16. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
@@ -253,22 +253,22 @@
 
 ### Templates / Vue 3
 
-*   [Vitesse (⭐8.3k)](https://github.com/antfu/vitesse) - Opinionated starter template.
-*   [vite-ts-tailwind-starter (⭐369)](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
+*   [Vitesse (⭐8.4k)](https://github.com/antfu/vitesse) - Opinionated starter template.
+*   [vite-ts-tailwind-starter (⭐373)](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-rsw (⭐369)](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled (wasm-pack) WebAssembly packages.
-*   [vite-imagetools (⭐784)](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
+*   [vite-plugin-rsw (⭐372)](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled (wasm-pack) WebAssembly packages.
+*   [vite-imagetools (⭐816)](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
 
 ### React / Framework
 
-*   [vite-plugin-react-pages (⭐399)](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
+*   [vite-plugin-react-pages (⭐403)](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-image (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/image) - Import JPG, PNG, GIF, SVG, and WebP files (needs `enforce: 'pre'`).
-*   [@rollup/plugin-strip (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove debugger statements and functions from your code.
+*   [@rollup/plugin-image (⭐3.5k)](https://github.com/rollup/plugins/blob/master/packages/image) - Import JPG, PNG, GIF, SVG, and WebP files (needs `enforce: 'pre'`).
+*   [@rollup/plugin-strip (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove debugger statements and functions from your code.
 
 ### Apps/Websites / Community
 
@@ -288,11 +288,11 @@
 
 ### Table of Contents / Dependency Management Extras
 
-*   [Composer Patches (⭐1.4k)](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
+*   [Composer Patches (⭐1.5k)](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
 
 ### Table of Contents / Testing
 
-*   [PHP MySQL Engine (⭐542)](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
+*   [PHP MySQL Engine (⭐543)](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
 
 ### Configuration / PHP Websites
 
@@ -603,7 +603,7 @@
 
 ### GUI
 
-*   [Ruby-GNOME (⭐372)](https://github.com/ruby-gnome/ruby-gnome) - Ruby language bindings for the GNOME development environment.
+*   [Ruby-GNOME (⭐375)](https://github.com/ruby-gnome/ruby-gnome) - Ruby language bindings for the GNOME development environment.
 
 ## [40. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 

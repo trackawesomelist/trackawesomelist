@@ -217,52 +217,52 @@
 
 ### Command-Line Productivity
 
-*   [ag (⭐25k)](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
-*   [fasd (⭐5.8k)](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
-*   [hhighlighter (⭐442)](https://github.com/paoloantinori/hhighlighter) - Colorize words in a command output
+*   [ag (⭐26k)](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
+*   [fasd (⭐5.9k)](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
+*   [hhighlighter (⭐447)](https://github.com/paoloantinori/hhighlighter) - Colorize words in a command output
 *   [hr (⭐1.3k)](https://github.com/LuRsT/hr) - `<hr />` for your terminal
-*   [hstr (⭐3.7k)](https://github.com/dvorka/hstr) - Bash History Suggest Box
+*   [hstr (⭐3.8k)](https://github.com/dvorka/hstr) - Bash History Suggest Box
 *   [percol (⭐3.2k)](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 *   [spark (⭐6k)](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
 *   [sshfs (⭐1.1k)](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
-*   [v (⭐432)](https://github.com/rupa/v) - z for vim.
+*   [v (⭐440)](https://github.com/rupa/v) - z for vim.
 *   [wemux (⭐3.6k)](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 
 ### Customization / Directory Navigation
 
-*   [bash-git-prompt (⭐6.5k)](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy Bash prompt for Git users
+*   [bash-git-prompt (⭐6.6k)](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy Bash prompt for Git users
 *   [git-prompt (⭐326)](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules
 *   [sexy-bash-prompt (⭐1.1k)](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
 
 ### For Developers / Directory Navigation
 
-*   [git-extra-commands (⭐924)](https://github.com/unixorn/git-extra-commands) - Many Git extra utilities. Churn, cut-branch, improved-merge and many more.
-*   [git-semver (⭐366)](https://github.com/markchalloner/git-semver) - Git plugin for easing semantic versioning and changelog validation
-*   [git-sh (⭐729)](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
-*   [repren (⭐335)](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
+*   [git-extra-commands (⭐947)](https://github.com/unixorn/git-extra-commands) - Many Git extra utilities. Churn, cut-branch, improved-merge and many more.
+*   [git-semver (⭐372)](https://github.com/markchalloner/git-semver) - Git plugin for easing semantic versioning and changelog validation
+*   [git-sh (⭐732)](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
+*   [repren (⭐337)](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
 *   [slap (⭐6.1k)](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
-*   [shipit (⭐559)](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
+*   [shipit (⭐561)](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
 
 ### System Utilities / Directory Navigation
 
-*   [lsp (⭐519)](https://github.com/dborzov/lsp) - An improved `ls`, with file descriptions in plain language and intelligent file grouping
+*   [lsp (⭐521)](https://github.com/dborzov/lsp) - An improved `ls`, with file descriptions in plain language and intelligent file grouping
 *   [quick-secure (⭐405)](https://github.com/marshyski/quick-secure) - Quickly secure and harden UNIX/Linux systems
 
 ### Downloading and Serving / Directory Navigation
 
-*   [balls (⭐845)](https://github.com/jneen/balls) - Bash on Balls
+*   [balls (⭐853)](https://github.com/jneen/balls) - Bash on Balls
 *   [bashttpd (⭐1.5k)](https://github.com/avleen/bashttpd) - A web server written in Bash
 *   [bitpocket (⭐1k)](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 *   [Dropbox-Uploader (⭐6.5k)](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
-*   [ngincat (⭐170)](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
+*   [ngincat (⭐171)](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
 *   [resty (⭐2.6k)](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [Android-Kitchen (⭐995)](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
-*   [image-scraper (⭐735)](https://github.com/sananth12/ImageScraper) - A cool command line image scraper with a lot of features.
-*   [jq (⭐27k)](https://github.com/stedolan/jq) - Sed for json data. You can use it to slice and filter and map and transform structured data
-*   [sejda (⭐460)](https://github.com/torakiki/sejda/) - Command line manipulation of PDF documents (split, merge, rotate, convert to jpg, extract text, etc)
+*   [Android-Kitchen (⭐1k)](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
+*   [image-scraper (⭐742)](https://github.com/sananth12/ImageScraper) - A cool command line image scraper with a lot of features.
+*   [jq (⭐28k)](https://github.com/stedolan/jq) - Sed for json data. You can use it to slice and filter and map and transform structured data
+*   [sejda (⭐468)](https://github.com/torakiki/sejda/) - Command line manipulation of PDF documents (split, merge, rotate, convert to jpg, extract text, etc)
 *   [xmlstarlet](http://xmlstar.sourceforge.net/) - Old but powerful tool for command-line XML formatting, filtering, and manipulation.
 
 ### Applications / Directory Navigation
@@ -270,10 +270,10 @@
 *   [ansiweather (⭐1.8k)](https://github.com/fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols
 *   [bashblog (⭐1.6k)](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting
 *   [geeknote (⭐2.1k)](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
-*   [ledger (⭐4.9k)](https://github.com/ledger/ledger) - Command line accounting
-*   [pushblast (⭐96)](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
+*   [ledger (⭐5k)](https://github.com/ledger/ledger) - Command line accounting
+*   [pushblast (⭐97)](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
 *   [pushbullet-bash (⭐228)](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
-*   [wego (⭐7.5k)](https://github.com/schachmat/wego) - Weather app for the terminal
+*   [wego (⭐7.6k)](https://github.com/schachmat/wego) - Weather app for the terminal
 
 ### Shell Package Management / Directory Navigation
 
@@ -283,13 +283,13 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [rerun (⭐447)](https://github.com/rerun/rerun) - A modular shell automation framework to organize your keeper scripts
-*   [semver\_bash (⭐238)](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
+*   [rerun (⭐448)](https://github.com/rerun/rerun) - A modular shell automation framework to organize your keeper scripts
+*   [semver\_bash (⭐240)](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 *   [shellcheck (⭐34k)](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
-*   [shpec (⭐374)](https://github.com/rylnd/shpec) - A shell testing framework
+*   [shpec (⭐375)](https://github.com/rylnd/shpec) - A shell testing framework
 *   [sub (⭐1.7k)](https://github.com/basecamp/sub) - A delicious way to organize programs
-*   [ts (⭐57)](https://github.com/thinkerbot/ts) - A shell test script
-*   [The Art of Command Line (⭐140k)](https://github.com/jlevy/the-art-of-command-line)
+*   [ts (⭐58)](https://github.com/thinkerbot/ts) - A shell test script
+*   [The Art of Command Line (⭐144k)](https://github.com/jlevy/the-art-of-command-line)
 
 ## [10. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -390,7 +390,7 @@ Developed from the materials of NYU Poly's old Penetration Testing and Vulnerabi
 
 ### Natural Language Processing
 
-*   [LDAvis (⭐544)](https://github.com/cpsievert/LDAvis) - Interactive visualization of topic models.
+*   [LDAvis (⭐546)](https://github.com/cpsievert/LDAvis) - Interactive visualization of topic models.
 
 ## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 

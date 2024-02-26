@@ -6,6 +6,43 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
+
+### Design Inspiration
+
+*   [Lapa Ninja](https://www.lapa.ninja/) - \[Landing page / UI KIts / Web screenshots] Lapa Ninja is a gallery featuring the best 6025 landing page examples, free books for designers and free UI kits from around the web.
+
+## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [Wormhole](https://wormhole.app/) - Share files up to 5GB with end-to-end encryption for up to 24hours. For files larger than 5 GB, it uses peer-to-peer transfer to send your files directly.
+
+### Email
+
+*   [Brevo](https://www.brevo.com/) — 9,000 emails/month, 300 emails/day free
+
+### Forms
+
+*   [Sprig](https://sprig.com/) - 1 In-Product Survey or Survey with Replay per month, with GPT-powered AI Analysis.
+*   [feedback.fish](https://feedback.fish/) - Free plan allows collecting 25 total feedback submissions. Easy to integrate with React and Vue components provided.
+
+### IDE and Code Editing
+
+*   [Cody](https://sourcegraph.com/cody) - Free AI coding assistant that can write (Code blocks, autocomplete, unit tests), understand (knowledge of your entire codebase), fix, and find your code. Available for VS Code, JetBrains and Online.
+
+### Analytics, Events and Statistics
+
+*   [Umami](https://umami.is/) - Simple, fast, privacy-focused, open-source alternative to Google Analytics.
+
+### Payment and Billing Integration
+
+*   [Currencyapi](https://currencyapi.com) — Free currency conversion and exchange rate data API. Free 300 requests per month, 10 requests per minute for private use.
+
+### Other Free Resources
+
+*   [Framacloud](https://degooglisons-internet.org/en/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
+
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
 ### PaaS
@@ -15,6 +52,14 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### BaaS
 
 *   [Singlebase.cloud](https://singlebase.cloud) — SinglebaseCloud is an AI-powered all-in-one backend platform to accelerate app development. It offers tools like Vector DB, Relational Document DB, Auth, Search, and Storage, aiming to simplify backend development. Free/Starter Plan offers Relational Document DB, Auth, Search, Storage.
+
+### Data Visualization on Maps
+
+*   [nominatim.org](https://nominatim.org/) — OpenStreetMap's free geocoding service, providing global address search functionality and reverse geocoding capabilities.
+
+### Analytics, Events and Statistics
+
+*   [Yandex.Datalens](https://datalens.yandex.com/) — Yandex Cloud data visualization and analysis service. The service is provided free of charge. No restrictions on the number of users and requests.
 
 ## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
 
@@ -158,7 +203,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Email
 
-*   [validemail.io](https://validemail.io/) - Free Tier with 1000 validations per day.
+*   [validemail.io](https://validemail.io/) - Free Tier with 10,000 validations per month & 10 requests per second.
 
 ### Forms
 
@@ -513,7 +558,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Email
 
-*   [Queuemail.dev](https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month). Send asynchronously. Use several SMTP servers. Blacklists, Logging, Tracking, Webhooks, and more.
+*   [Queuemail.dev](https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month). Send asynchronously. Use several SMTP servers. Blocklists, Logging, Tracking, Webhooks, and more.
 
 ### Web Hosting
 
@@ -532,10 +577,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Testing
 
 *   [Apptim](https://apptim.com) — A mobile testing tool that enables people without performance engineering skills to evaluate an app's performance and user experience (UX). A desktop version using your own device is 100% FREE, with unlimited tests on both iOS and Android.
-
-### Email
-
-*   [Skiff](https://skiff.com/)- Open source, end-to-end encrypted anonymous email service, no additional details asked at signup, free 10GB drive storage, one custom domain for your own website, free four aliases for your email address per account. Additional Crypto Wallet support for the E2EE environment.
 
 ### Managed Data Services
 
@@ -769,8 +810,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Mail7.io](https://www.mail7.io/) — Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API.
 *   [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
 *   [SendGrid](https://sendgrid.com/) — 100 emails/day and 2,000 contacts free
-*   [Sendinblue](https://www.sendinblue.com/) — 9,000 emails/month, 300 emails/day free
-*   [Sendpulse](https://sendpulse.com) — 500 subscribers/month, 12,000 emails/month free
+*   [Sendpulse](https://sendpulse.com) — 500 subscribers/month, 15,000 emails/month free
 
 ### Low-code Platform
 
@@ -951,7 +991,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Payment and Billing Integration
 
 *   [CoinMarketCap](https://coinmarketcap.com/api/) — Provides cryptocurrency market data including the latest crypto and fiat currency exchange rates. The free tier offers 10K call credits/month.
-*   [CoinGecko](https://www.coingecko.com/en/api) — Provides cryptocurrency market data including the latest crypto exchange rates and historical data. The free tier requires attribution.
+*   [CoinGecko](https://www.coingecko.com/en/api) — Provides cryptocurrency market data including the latest crypto exchange rates and historical data. The demo api comes with a stable rate limit of 30 calls/min and a monthly cap of 10,000 calls.
 
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
@@ -1876,10 +1916,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [FabForm](https://fabform.io/) - Form backend platform for intelligent developers. The free plan allows 250 form submissions per month. Friendly modern GUI. Integrates with Google Sheets, Airtable, Slack, Email, and others.
 
-### Analytics, Events and Statistics
-
-*   [indicative.com](https://indicative.com/) — Customer analytics platform to optimize customer engagement, increase conversion, and improve retention. Free up to 25M events/month, six months of data retention.
-
 ## [Feb 07 - Feb 13, 2022](/content/2022/6/README.md)
 
 ### Major Cloud Providers
@@ -2001,7 +2037,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Analytics, Events and Statistics
 
-*   [PostHog](https://posthog.com) - Full Product Analytics suite free for up to 1m tracked events per month
+*   [PostHog](https://posthog.com) - Full Product Analytics suite free for up to 1m tracked events per month. Also provides unlinited in-App Surveys with 250/month responses.
 
 ## [Jan 10 - Jan 16, 2022](/content/2022/2/README.md)
 
@@ -2121,19 +2157,18 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### International Mobile Number Verification API and SDK
 
-*   [numverify](https://numverify.com/) — Global phone number validation and lookup JSON API. 250 API requests/month
+*   [numverify](https://numverify.com/) — Global phone number validation and lookup JSON API. 100 API requests/month
 *   [veriphone](https://veriphone.io/) — Global phone number verification in a free, fast, reliable JSON API. 1000 requests/month
 
 ### Payment and Billing Integration
 
 *   [CurrencyApi](https://currencyapi.net/) — Live Currency Rates for Physical and Cryptocurrencies, delivered in JSON and XML. The free tier offers 1,250 API requests/month.
-*   [currencylayer](https://currencylayer.com/) — Reliable Exchange Rates and Currency Conversion for your Business, 1,000 API requests/month free
+*   [currencylayer](https://currencylayer.com/) — Reliable Exchange Rates and Currency Conversion for your Business, 100 API requests/month free.
 *   [FraudLabsPRO](https://www.fraudlabspro.com) — Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
 *   [MailPopin](https://mailpop.in) - Get the most of your Stripe notifications with contextualized information.
 *   [Nami ML](https://www.namiml.com/) - Complete platform for in-app purchases and subscriptions on iOS and Android, including no-code paywalls, CRM, and analytics.  Free for all base features to run an IAP business.
 *   [RevenueCat](https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $2.5k/mo in tracked revenue.
 *   [vatlayer](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
-*   [Freecurrencyapi.net](https://freecurrencyapi.net/) — Free currency conversion and exchange rate data API. 10 requests/hour without an API key, 50,000 requests per month when you register for free.
 
 ### Vagrant Related
 
@@ -2603,10 +2638,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Jun 14 - Jun 20, 2021](/content/2021/24/README.md)
 
-### APIs, Data, and ML
-
-*   [Iploka](https://iploka.com/) — IP to Geolocation API - Forever free plan for developers with 10k requests per month limit.
-
 ### Artifact Repos
 
 *   [Artifactory](https://jfrog.com/start-free/) - An artifact repository that supports numerous package formats like Maven, Docker, Cargo, Helm, PyPI, CocoaPods, and GitLFS. Includes package scanning tool XRay and CI/CD tool Pipelines (formerly Shippable) with a free tier of 2,000 CI/CD minutes per month.
@@ -2783,7 +2814,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Analytics, Events and Statistics
 
 *   [Google Analytics](https://analytics.google.com/) — Google Analytics
-*   [Hotjar](https://hotjar.com) — Website Analytics and Reports . Free Plan allows 2000 pageviews/day. One hundred snapshots/day (max capacity: 300). Three snapshot heatmaps can be stored for 365 days. Unlimited Team Members.
+*   [Hotjar](https://hotjar.com) — Website Analytics and Reports . Free Plan allows 2000 pageviews/day. One hundred snapshots/day (max capacity: 300). Three snapshot heatmaps can be stored for 365 days. Unlimited Team Members. Also in App and standalone surveys, feedback widgets with screenshots. Free tier allows creating 3 surveys & 3 feedback widgets and collecting 20 responses per month.
 *   [Microsoft PowerBI](https://powerbi.com) — Business Insights & Analytics by Microsoft. Free Plan offers limited use with 1 Million User licenses.
 *   [Similar Web](https://similarweb.com) — Analytics for Web & Mobile Apps. Free Plan offers five results per metric, one month of mobile app data & 3 months of website data.
 *   [StatCounter](https://statcounter.com/) — Website Viewer Analytics. Free plan for analytics of 500 most recent visitors.
@@ -3369,7 +3400,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Analytics, Events and Statistics
 
-*   [Panelbear.com](https://panelbear.com/) — Blazingly fast and private, free tier includes 5,000 pageviews per month for unlimited websites
 *   [Hitsteps.com](https://hitsteps.com/) — 2,000 pageviews per month for 1 website
 
 ### Visitor Session Recording
@@ -3378,10 +3408,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [howuku.com](https://howuku.com) — Track user interaction, engagement, and event. Free for up to 5,000 visits/month
 
 ## [Oct 05 - Oct 11, 2020](/content/2020/40/README.md)
-
-### APIs, Data, and ML
-
-*   [API Mocha](https://apimocha.com) - Completely free online API mocking for testing and prototyping.  Make up to 500 daily requests, fully customizable API responses, and download mock rules as a Postman collection.
 
 ### Issue Tracking and Project Management
 
@@ -3532,10 +3558,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Translation Management
 
 *   [weblate.org](https://weblate.org/) — It's free for libre projects with up to 10,000 string sources for the free tier and Unlimited Self-hosted on-premises.
-
-### Email
-
-*   [Validator.Pizza](https://www.validator.pizza/) — Free API to detect disposable emails.
 
 ### Storage and Media Processing
 
@@ -4184,7 +4206,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Analytics, Events and Statistics
 
 *   [amplitude.com](https://amplitude.com/) — 1 million monthly events, up to 2 apps
-*   [getinsights.io](https://getinsights.io) - Privacy-focused, cookie-free analytics, free for up to 5k events/month.
+*   [getinsights.io](https://getinsights.io) - Privacy-focused, cookie-free analytics, free for up to 3k events/month.
 *   [optimizely.com](https://www.optimizely.com) — A/B Testing solution, free starter plan, one website, 1 iOS, and 1 Android app
 *   [sematext.com](https://sematext.com/cloud/) — Free for up to 50 K actions/month, 1-day data retention, unlimited dashboards, users, etc.
 *   [usabilityhub.com](https://usabilityhub.com/) — Test designs and mockups on real people and track visitors. Free for one user, unlimited tests
@@ -4196,7 +4218,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Payment and Billing Integration
 
-*   [exchangerate-api.com](https://www.exchangerate-api.com) - An easy-to-use currency conversion JSON API. A free tier with no request limit.
+*   [exchangerate-api.com](https://www.exchangerate-api.com) - An easy-to-use currency conversion JSON API. The free tier updates once per day with a limit of 1,500 requests/month.
 
 ### Docker Related
 
@@ -4379,10 +4401,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [conveyor.cloud](https://conveyor.cloud/) — Visual Studio extension to expose IIS Express to the local network or over a tunnel to a public URL.
 
-### Other Free Resources
-
-*   [Framacloud](https://degooglisons-internet.org/en/list/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
-
 ## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
 
 ### Major Cloud Providers
@@ -4414,7 +4432,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Email
 
-*   [Sender](https://www.sender.net) Up to 15 000 emails/month, up to 2,500 subscribers
+*   [Sender](https://www.sender.net) Up to 15,000 emails/month, up to 2,500 subscribers
 
 ## [Oct 07 - Oct 13, 2019](/content/2019/40/README.md)
 
@@ -4434,12 +4452,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
     *   Public IP - 2 IPv4 for VMs, 1 IPv4 for load balancer
     *   Notifications - 1 million delivery options per month, 1000 emails sent per month
     *   Full, detailed list - <https://www.oracle.com/cloud/free/>
-
-## [Sep 30 - Oct 06, 2019](/content/2019/39/README.md)
-
-### Payment and Billing Integration
-
-*   [currencystack.io](https://currencystack.io/) — Production-ready real-time exchange rates for 154 currencies.
 
 ## [Sep 02 - Sep 08, 2019](/content/2019/35/README.md)
 
@@ -4482,7 +4494,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Analytics, Events and Statistics
 
-*   [heap.io](https://heap.io) — Automatically captures every user action in iOS or web apps. Free for up to 5,000 visits/month
+*   [heap.io](https://heap.io) — Automatically captures every user action in iOS or web apps. Free for up to 10K monthly sessions.
 
 ### Visitor Session Recording
 

@@ -10,7 +10,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Eleventy Starter (⭐260)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
+*   🚀 [Eleventy Starter (⭐262)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
 
 ## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

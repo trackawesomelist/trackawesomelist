@@ -1093,9 +1093,9 @@
 
 ### Customization / Directory Navigation
 
-*   [bash-powerline (⭐868)](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script
+*   [bash-powerline (⭐874)](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script
 *   [bashstrap (⭐1.6k)](https://github.com/barryclark/bashstrap) - A quick way to spruce up OSX terminal
-*   [liquidprompt (⭐4.3k)](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
+*   [liquidprompt (⭐4.4k)](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 
 ### Multimedia and File Formats / Directory Navigation
 
@@ -1103,7 +1103,7 @@
 
 ### Games / Directory Navigation
 
-*   [bash2048 (⭐882)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
+*   [bash2048 (⭐885)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
 
 ## [18. Tools](/content/lvwzhen/tools/week/README.md)
 
@@ -1113,13 +1113,9 @@
 
 ## [19. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
-### E-commerce
-
-*   [django-oscar](http://oscarcommerce.com/) - An open-source e-commerce framework for Django.
-
 ### HTML Manipulation
 
-*   [untangle (⭐596)](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
+*   [untangle (⭐608)](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
 
 ---
 

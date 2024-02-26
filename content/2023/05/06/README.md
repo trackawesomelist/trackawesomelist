@@ -20,7 +20,7 @@
 
 ### Software / Document Management
 
-*   [Stirling-PDF (⭐17k)](https://github.com/Frooodle/Stirling-PDF) - Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR. `Apache-2.0` `Docker/Java`
+*   [Stirling-PDF (⭐18k)](https://github.com/Frooodle/Stirling-PDF) - Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR. `Apache-2.0` `Docker/Java`
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

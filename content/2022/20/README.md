@@ -16,7 +16,7 @@
 
 ### Crates / Components
 
-*   [yew-oauth2 (⭐38)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
+*   [yew-oauth2 (⭐42)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
 
 ## [3. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
 
@@ -186,19 +186,19 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [FileShelter (⭐395)](https://github.com/epoupon/fileshelter) - FileShelter is a self-hosted software that allows you to easily share files over the Internet. `GPL-3.0` `C++/deb`
+*   [FileShelter (⭐402)](https://github.com/epoupon/fileshelter) - FileShelter is a self-hosted software that allows you to easily share files over the Internet. `GPL-3.0` `C++/deb`
 
 ### Software / Games
 
-*   [Word Mastermind (⭐87)](https://github.com/clupasq/word-mastermind) - Wordle clone. A Mastermind-like game, but instead of colors you need to guess words. ([Demo](https://word-mastermind.glitch.me/)) `MIT` `Nodejs`
+*   [Word Mastermind (⭐95)](https://github.com/clupasq/word-mastermind) - Wordle clone. A Mastermind-like game, but instead of colors you need to guess words. ([Demo](https://word-mastermind.glitch.me/)) `MIT` `Nodejs`
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [Bicimon (⭐39)](https://github.com/knrdl/bicimon) - Bike Speedometer as Progressive Web App. ([Demo](https://knrdl.github.io/bicimon/)) `MIT` `Javascript`
+*   [Bicimon (⭐38)](https://github.com/knrdl/bicimon) - Bike Speedometer as Progressive Web App. ([Demo](https://knrdl.github.io/bicimon/)) `MIT` `Javascript`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [LMS (⭐918)](https://github.com/epoupon/lms) - Access your self-hosted music using a web interface. `GPL-3.0` `Docker/deb/C++`
+*   [LMS (⭐933)](https://github.com/epoupon/lms) - Access your self-hosted music using a web interface. `GPL-3.0` `Docker/deb/C++`
 
 ### Software / Media Streaming - Multimedia Streaming
 
@@ -206,15 +206,15 @@
 
 ### Software / Miscellaneous
 
-*   [WeeWX](https://weewx.com/) - Open source software for your weather station. ([Demo](https://weewx.com/showcase.html), [Source Code (⭐949)](https://github.com/weewx/weewx)) `GPL-3.0` `Python/deb`
+*   [WeeWX](https://weewx.com/) - Open source software for your weather station. ([Demo](https://weewx.com/showcase.html), [Source Code (⭐956)](https://github.com/weewx/weewx)) `GPL-3.0` `Python/deb`
 
 ### Software / Pastebins
 
-*   [ExBin (⭐72)](https://github.com/m1dnight/exbin) - A pastebin with public/private snippets and netcat server. `MIT` `Docker`
+*   [ExBin (⭐74)](https://github.com/m1dnight/exbin) - A pastebin with public/private snippets and netcat server. `MIT` `Docker`
 
 ### Software / Personal Dashboards
 
-*   [Fenrus (⭐413)](https://github.com/revenz/fenrus) - A self hosted personal home page that allows for multiple users, guest access and multiple dashboards for each user. It also has "Smart Apps" which display live data for those apps. `GPL-3.0` `.NET/Docker`
+*   [Fenrus (⭐418)](https://github.com/revenz/fenrus) - A self hosted personal home page that allows for multiple users, guest access and multiple dashboards for each user. It also has "Smart Apps" which display live data for those apps. `GPL-3.0` `.NET/Docker`
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -371,8 +371,8 @@
 *   [radix-ui](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems and web apps.
 *   [react-foundation (⭐601)](https://github.com/digiaonline/react-foundation) - Foundation as React components.
 *   [reakit (⭐7.5k)](https://github.com/ariakit/ariakit) - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
-*   [semi-design (⭐7.6k)](https://github.com/DouyinFE/semi-design) - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system.
-*   [shineout (⭐901)](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
+*   [semi-design (⭐7.7k)](https://github.com/DouyinFE/semi-design) - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system.
+*   [shineout (⭐903)](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
 
 ## [17. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
@@ -433,7 +433,7 @@
 ### Libraries / Network programming
 
 *   Socket.io
-    *   [1c3t3a/rust-socketio (⭐328)](https://github.com/1c3t3a/rust-socketio) \[[rust\_socketio](https://crates.io/crates/rust_socketio)] — an implementation of a [socket.io](https://socket.io) client written in Rust. [![build badge](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml/badge.svg)](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml)
+    *   [1c3t3a/rust-socketio (⭐335)](https://github.com/1c3t3a/rust-socketio) \[[rust\_socketio](https://crates.io/crates/rust_socketio)] — an implementation of a [socket.io](https://socket.io) client written in Rust. [![build badge](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml/badge.svg)](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml)
 
 ## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -445,7 +445,7 @@
 
 ### Tools - Miscellaneous / React
 
-*   [microfiber (⭐28)](https://github.com/anvilco/graphql-introspection-tools) - Query and manipulate GraphQL introspection query results in useful ways.
+*   [microfiber (⭐29)](https://github.com/anvilco/graphql-introspection-tools) - Query and manipulate GraphQL introspection query results in useful ways.
 
 ## [26. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
@@ -752,11 +752,11 @@
 
 ### Standard CLI
 
-*   [carapace-spec (⭐13)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
+*   [carapace-spec (⭐15)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [go-rampart (⭐94)](https://github.com/francesconi/go-rampart) - Determine how intervals relate to each other.
+*   [go-rampart (⭐95)](https://github.com/francesconi/go-rampart) - Determine how intervals relate to each other.
 
 ### Functional
 
@@ -773,38 +773,38 @@
 
 ### Job Scheduler
 
-*   [Dagu (⭐1k)](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
+*   [Dagu (⭐1.1k)](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [Gokapi (⭐877)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
+*   [Gokapi (⭐898)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
 
 ## [41. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Hashicorp supported providers
 
-*   [terraform-provider-aws (⭐9.2k)](https://github.com/hashicorp/terraform-provider-aws) - Provider for Amazon Web Services.
+*   [terraform-provider-aws (⭐9.3k)](https://github.com/hashicorp/terraform-provider-aws) - Provider for Amazon Web Services.
 *   [terraform-provider-azurerm (⭐4.3k)](https://github.com/hashicorp/terraform-provider-azurerm) - Provider for Azure.
 *   [terraform-provider-docker (⭐131)](https://github.com/hashicorp/terraform-provider-docker) - Provider for Docker.
 *   [terraform-provider-google (⭐2.2k)](https://github.com/hashicorp/terraform-provider-google) - Provider for Google Cloud Platform.
-*   [terraform-provider-helm (⭐963)](https://github.com/hashicorp/terraform-provider-helm) - Provider for Helm.
+*   [terraform-provider-helm (⭐965)](https://github.com/hashicorp/terraform-provider-helm) - Provider for Helm.
 *   [terraform-provider-kubernetes (⭐1.5k)](https://github.com/hashicorp/terraform-provider-kubernetes) - Provider for Kubernetes.
-*   [terraform-provider-vsphere (⭐594)](https://github.com/hashicorp/terraform-provider-vsphere) - Provider for VMware vSphere.
+*   [terraform-provider-vsphere (⭐601)](https://github.com/hashicorp/terraform-provider-vsphere) - Provider for VMware vSphere.
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-alicloud (⭐563)](https://github.com/aliyun/terraform-provider-alicloud) - Provider for Alibaba Cloud.
-*   [terraform-provider-atlas (⭐46)](https://github.com/ariga/terraform-provider-atlas) - Provider for [Atlas](https://atlasgo.io/).
+*   [terraform-provider-alicloud (⭐567)](https://github.com/aliyun/terraform-provider-alicloud) - Provider for Alibaba Cloud.
+*   [terraform-provider-atlas (⭐49)](https://github.com/ariga/terraform-provider-atlas) - Provider for [Atlas](https://atlasgo.io/).
 *   [terraform-provider-buildkite (⭐50)](https://github.com/buildkite/terraform-provider-buildkite) - Provider for Buildkite.
-*   [terraform-provider-datadog (⭐365)](https://github.com/DataDog/terraform-provider-datadog) - Provider for Datadog.
-*   [terraform-provider-digitalocean (⭐467)](https://github.com/digitalocean/terraform-provider-digitalocean) - Provider for DigitalOcean.
+*   [terraform-provider-datadog (⭐373)](https://github.com/DataDog/terraform-provider-datadog) - Provider for Datadog.
+*   [terraform-provider-digitalocean (⭐466)](https://github.com/digitalocean/terraform-provider-digitalocean) - Provider for DigitalOcean.
 *   [terraform-provider-env0 (⭐33)](https://github.com/env0/terraform-provider-env0) - Provider for [env0](https://www.env0.com/)
 *   [terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Provider for GitHub.
-*   [terraform-provider-gitlab (⭐379)](https://github.com/gitlabhq/terraform-provider-gitlab) - Provider for GitLab.
+*   [terraform-provider-gitlab (⭐380)](https://github.com/gitlabhq/terraform-provider-gitlab) - Provider for GitLab.
 *   [terraform-provider-graphql (⭐51)](https://github.com/sullivtr/terraform-provider-graphql) - Provider for GraphQL queries and mutations.
-*   [terraform-provider-hcloud (⭐441)](https://github.com/hetznercloud/terraform-provider-hcloud) - Provider for Hetzner Cloud.
+*   [terraform-provider-hcloud (⭐449)](https://github.com/hetznercloud/terraform-provider-hcloud) - Provider for Hetzner Cloud.
 *   [terraform-provider-heroku (⭐95)](https://github.com/heroku/terraform-provider-heroku) - Provider for Heroku.
-*   [terraform-provider-ibm (⭐327)](https://github.com/IBM-Cloud/terraform-provider-ibm) - Provider for IBM Cloud.
+*   [terraform-provider-ibm (⭐328)](https://github.com/IBM-Cloud/terraform-provider-ibm) - Provider for IBM Cloud.
 *   [terraform-provider-linode (⭐71)](https://github.com/btobolaski/terraform-provider-linode) - Provider for Linode.
 *   [terraform-provider-scalr (⭐18)](https://github.com/Scalr/terraform-provider-scalr) - Provider for [Scalr](https://www.scalr.com/)
 *   [terraform-provider-spinnaker (⭐143)](https://github.com/armory-io/terraform-provider-spinnaker) - Provider for [Spinnaker](https://www.spinnaker.io/).
@@ -814,7 +814,7 @@
 
 ### Tools
 
-*   [Polkadot PANIC (⭐39)](https://github.com/SimplyVC/panic_polkadot) - Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains.
+*   [Polkadot PANIC (⭐38)](https://github.com/SimplyVC/panic_polkadot) - Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains.
 
 ## [43. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
@@ -951,7 +951,7 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [witer33/fiberpow (⭐6)](https://github.com/witer33/fiberpow) - Anti DDoS/Bot Middleware with a customizable Proof Of Work challenge.
+*   [witer33/fiberpow (⭐8)](https://github.com/witer33/fiberpow) - Anti DDoS/Bot Middleware with a customizable Proof Of Work challenge.
 
 ## [55. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
@@ -967,16 +967,16 @@
 
 ### Generic ZSH
 
-*   [zephyr (⭐73)](https://github.com/mattmc3/zephyr) - Zephyr uses built-in Zsh features to set up better default options, completions, keybindings, history, and much more.
+*   [zephyr (⭐77)](https://github.com/mattmc3/zephyr) - Zephyr uses built-in Zsh features to set up better default options, completions, keybindings, history, and much more.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [condaenv (⭐0)](https://github.com/saravanabalagi/zsh-plugin-condaenv) - Provides a `condaenv_prompt_info` function which returns the current `conda` environment name.
+*   [condaenv (⭐1)](https://github.com/saravanabalagi/zsh-plugin-condaenv) - Provides a `condaenv_prompt_info` function which returns the current `conda` environment name.
 *   [git-clean-branch (⭐1)](https://github.com/gobriansteele/git-clean-branch) - Cleans up dead `git` branches.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [vorpal (⭐1)](https://github.com/VorpalBlade/vorpal-zsh-completions) - Adds completions for some projects whose upstream appears dead, including [duperemove (⭐628)](https://github.com/markfasheh/duperemove), [optimus-manager (⭐2.2k)](https://github.com/Askannz/optimus-manager) and [pacutils (⭐100)](https://github.com/andrewgregory/pacutils).
+*   [vorpal (⭐1)](https://github.com/VorpalBlade/vorpal-zsh-completions) - Adds completions for some projects whose upstream appears dead, including [duperemove (⭐632)](https://github.com/markfasheh/duperemove), [optimus-manager (⭐2.2k)](https://github.com/Askannz/optimus-manager) and [pacutils (⭐100)](https://github.com/andrewgregory/pacutils).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -999,7 +999,7 @@
 
 ### Modules / Various Godot versions
 
-*   [GodotHook (⭐32)](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine (Godot 3.x, 4.x).
+*   [GodotHook (⭐34)](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine (Godot 3.x, 4.x).
 
 ## [59. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
@@ -1015,12 +1015,12 @@
 
 ### Get Started
 
-*   [create-electron-vite (⭐127)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
+*   [create-electron-vite (⭐131)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
 
 ### Framework-agnostic Plugins / Transformers
 
 *   [vite-plugin-unocss-to-uni (⭐12)](https://github.com/zguolee/vite-plugin-unocss-to-uni) - `UnoCSS` in `uni-app`.
-*   [@modyfi/vite-plugin-yaml (⭐48)](https://github.com/Modyfi/vite-plugin-yaml) - Transform YAML files to ESM with schema validation and error reporting.
+*   [@modyfi/vite-plugin-yaml (⭐51)](https://github.com/Modyfi/vite-plugin-yaml) - Transform YAML files to ESM with schema validation and error reporting.
 
 ---
 

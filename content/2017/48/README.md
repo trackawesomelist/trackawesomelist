@@ -103,19 +103,19 @@
 
 ### Software / ChatOps
 
-*   [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot. ([Source Code (⭐16k)](https://github.com/hubotio/hubot)) `MIT` `Nodejs`
+*   [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot. ([Source Code (⭐17k)](https://github.com/hubotio/hubot)) `MIT` `Nodejs`
 
 ### Software / Automation
 
-*   [Apache Ant](https://ant.apache.org/) - Automation build tool, similar to make, a library and command-line tool whose mission is to drive processes described in build files as targets and extension points dependent upon each other. ([Source Code (⭐401)](https://github.com/apache/ant)) `Apache-2.0` `Java`
+*   [Apache Ant](https://ant.apache.org/) - Automation build tool, similar to make, a library and command-line tool whose mission is to drive processes described in build files as targets and extension points dependent upon each other. ([Source Code (⭐402)](https://github.com/apache/ant)) `Apache-2.0` `Java`
 
 ### Software / Backups
 
-*   [Shield (⭐331)](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems. `MIT` `Go`
+*   [Shield (⭐334)](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems. `MIT` `Go`
 
 ### Software / Configuration Management
 
-*   [CFEngine](https://cfengine.com/) - Configuration management system for automated configuration and maintenance of large-scale computer systems. ([Source Code (⭐462)](https://github.com/cfengine/core)) `GPL-3.0` `C`
+*   [CFEngine](https://cfengine.com/) - Configuration management system for automated configuration and maintenance of large-scale computer systems. ([Source Code (⭐463)](https://github.com/cfengine/core)) `GPL-3.0` `C`
 
 ### Software / Control Panels
 
@@ -123,7 +123,7 @@
 
 ### Software / Deployment Automation
 
-*   [Genesis (⭐53)](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments. `MIT` `Perl`
+*   [Genesis (⭐54)](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments. `MIT` `Perl`
 *   [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based). ([Source Code (⭐4.3k)](https://github.com/mina-deploy/mina)) `MIT` `Ruby`
 *   [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs. ([Source Code (⭐3k)](https://github.com/munki/munki)) `Apache-2.0` `Python`
 *   [Vlad the Deployer (⭐353)](https://github.com/seattlerb/vlad) - Deployment automation (rake based). `MIT` `Ruby`
@@ -135,7 +135,7 @@
 ### Software / DNS - Control Panels & Domain Management
 
 *   [Designate](https://wiki.openstack.org/wiki/Designate) - DNSaaS services for OpenStack. ([Source Code](https://opendev.org/openstack/designate)) `Apache-2.0` `Python`
-*   [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location. ([Source Code (⭐427)](https://github.com/domainmod/domainmod)) `GPL-3.0` `PHP`
+*   [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location. ([Source Code (⭐432)](https://github.com/domainmod/domainmod)) `GPL-3.0` `PHP`
 
 ### Software / DNS - Servers
 
@@ -152,9 +152,9 @@
 ### Software / Identity Management - Tools and web interfaces
 
 *   [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates. ([Source Code](https://gitlab.com/bounca/bounca/)) `Apache-2.0` `Python`
-*   [Fusion Directory](https://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP. ([Source Code (⭐150)](https://github.com/fusiondirectory/fusiondirectory)) `GPL-2.0` `PHP`
-*   [Indieauth](https://indieauth.com/) - Sign in with your domain name (using the rel-me-auth protocol). ([Source Code (⭐183)](https://github.com/aaronpk/IndieAuth.com)) `Apache-2.0` `Ruby`
-*   [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory. ([Source Code (⭐394)](https://github.com/LDAPAccountManager/lam/)) `GPL-3.0` `PHP`
+*   [Fusion Directory](https://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP. ([Source Code (⭐151)](https://github.com/fusiondirectory/fusiondirectory)) `GPL-2.0` `PHP`
+*   [Indieauth](https://indieauth.com/) - Sign in with your domain name (using the rel-me-auth protocol). ([Source Code (⭐185)](https://github.com/aaronpk/IndieAuth.com)) `Apache-2.0` `Ruby`
+*   [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory. ([Source Code (⭐397)](https://github.com/LDAPAccountManager/lam/)) `GPL-3.0` `PHP`
 *   [Libravatar](https://www.libravatar.org/) - Libravatar is a service which delivers your avatar (profile picture) to other websites. ([Source Code](https://git.linux-kernel.at/oliver/ivatar/)) `AGPL-3.0` `Python`
 *   [Samba](https://www.samba.org/) - Active Directory and CIFS protocol implementation. ([Source Code](https://download.samba.org/pub/samba/)) `GPL-3.0` `C`
 
@@ -170,7 +170,7 @@
 
 ### Software / Miscellaneous
 
-*   [Chocolatey](https://chocolatey.org/) - The package manager for Windows. ([Source Code (⭐9.6k)](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
+*   [Chocolatey](https://chocolatey.org/) - The package manager for Windows. ([Source Code (⭐9.7k)](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
 *   [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Source Code (⭐1k)](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
 
 ### Software / Monitoring
@@ -178,7 +178,7 @@
 *   [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code (⭐328)](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
 *   [cadvisor (⭐16k)](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. `Apache-2.0` `Go`
 *   [Nagios](https://www.nagios.org/) - Computer system, network and infrastructure monitoring software application. ([Source Code (⭐1.4k)](https://github.com/NagiosEnterprises/nagioscore)) `GPL-2.0` `C`
-*   [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework. ([Source Code (⭐914)](https://github.com/performancecopilot/pcp)) `LGPL-2.1/GPL-2.0` `C`
+*   [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework. ([Source Code (⭐919)](https://github.com/performancecopilot/pcp)) `LGPL-2.1/GPL-2.0` `C`
 *   [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites. ([Source Code (⭐2.1k)](https://github.com/phpservermon/phpservermon)) `GPL-3.0` `PHP`
 *   [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely. ([Source Code (⭐1.4k)](https://github.com/phpsysinfo/phpsysinfo)) `GPL-2.0` `PHP`
 *   [rtop (⭐2.1k)](https://github.com/rapidloop/rtop) - Interactive, remote system monitoring tool based on SSH. `MIT` `Go`
@@ -191,12 +191,12 @@
 ### Software / Packaging
 
 *   [omnibus-ruby (⭐1.3k)](https://github.com/chef/omnibus) - Easily create full-stack installers for your project across a variety of platforms. `Apache-2.0` `Ruby`
-*   [tito (⭐370)](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects. `GPL-2.0` `Python`
+*   [tito (⭐371)](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects. `GPL-2.0` `Python`
 
 ### Software / Queuing
 
 *   [ActiveMQ](https://activemq.apache.org/) - Java message broker. ([Source Code (⭐2.2k)](https://github.com/apache/activemq)) `Apache-2.0` `Java`
-*   [Gearman](http://gearman.org/) - Fast multi-language queuing/job processing platform. ([Source Code (⭐717)](https://github.com/gearman/gearmand)) `BSD-3-Clause` `C++`
+*   [Gearman](http://gearman.org/) - Fast multi-language queuing/job processing platform. ([Source Code (⭐719)](https://github.com/gearman/gearmand)) `BSD-3-Clause` `C++`
 
 ### Software / Service Discovery
 
@@ -204,7 +204,7 @@
 
 ### Software / Software Containers
 
-*   [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features. ([Source Code (⭐4.3k)](https://github.com/lxc/lxc)) `GPL-2.0` `C`
+*   [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features. ([Source Code (⭐4.4k)](https://github.com/lxc/lxc)) `GPL-2.0` `C`
 
 ### Software / Troubleshooting
 
@@ -226,7 +226,7 @@
 
 ### Software / VPN
 
-*   [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange. ([Source Code (⭐9.6k)](https://github.com/OpenVPN/openvpn)) `GPL-2.0` `C`
+*   [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange. ([Source Code (⭐9.7k)](https://github.com/OpenVPN/openvpn)) `GPL-2.0` `C`
 *   [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features. ([Source Code (⭐11k)](https://github.com/SoftEtherVPN/SoftEtherVPN/)) `Apache-2.0` `C`
 *   [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux. ([Source Code (⭐2k)](https://github.com/strongswan/strongswan)) `GPL-2.0` `C`
 
@@ -284,7 +284,7 @@
 ### Development tools / IDEs
 
 *   [Sublime Text](https://www.sublimetext.com/)
-    *   [rust-lang/rust-enhanced (⭐764)](https://github.com/rust-lang/rust-enhanced) — official Rust package
+    *   [rust-lang/rust-enhanced (⭐766)](https://github.com/rust-lang/rust-enhanced) — official Rust package
 
 ## [15. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -406,8 +406,8 @@
 
 ### Applications
 
-*   [RemoteRetro (⭐562)](https://github.com/stride-nyc/remote_retro) - A real-time application for conducting Agile retrospectives at [remoteretro.org](https://remoteretro.org) written in Elixir/Phoenix/React.
-*   [uai\_shot (⭐58)](https://github.com/sergioaugrod/uai_shot) - A multiplayer ship game built with Elixir, Phoenix Framework and Phaser.
+*   [RemoteRetro (⭐565)](https://github.com/stride-nyc/remote_retro) - A real-time application for conducting Agile retrospectives at [remoteretro.org](https://remoteretro.org) written in Elixir/Phoenix/React.
+*   [uai\_shot (⭐59)](https://github.com/sergioaugrod/uai_shot) - A multiplayer ship game built with Elixir, Phoenix Framework and Phaser.
 
 ### Macros
 
@@ -415,11 +415,11 @@
 
 ### Networking
 
-*   [tunnerl (⭐24)](https://github.com/surik/tunnerl) - SOCKS4 and SOCKS5 proxy server.
+*   [tunnerl (⭐25)](https://github.com/surik/tunnerl) - SOCKS4 and SOCKS5 proxy server.
 
 ### Queue
 
-*   [conduit (⭐128)](https://github.com/conduitframework/conduit) - A framework for working with message queues, with adapters for SQS and AMQP, and plugs for reusable messaging patterns.
+*   [conduit (⭐129)](https://github.com/conduitframework/conduit) - A framework for working with message queues, with adapters for SQS and AMQP, and plugs for reusable messaging patterns.
 
 ### Testing
 
@@ -564,13 +564,56 @@
 
 *   InfluxDB in IoT world. [Part 1: Introduction](https://www.easyitblog.info/2017/11/10/influxdb-and-grafana-fighting-together-with-iot-data-attack/) | [Part 2: Hosting and scaling on AWS](https://www.easyitblog.info/2017/11/14/influxdb-in-iot-world-aws-part-2/) | [Part 3: Plotting graphs using Grafana](https://www.easyitblog.info/2017/11/26/influxdb-in-iot-world-making-it-production-ready-part-3/)
 
-## [33. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+
+### Serial Port
+
+*   [Asio (⭐4.5k)](https://github.com/chriskohlhoff/asio/) - Asio includes classes for creating and manipulating serial ports in a portable manner. \[Boost] [website](http://think-async.com/)
+
+### Asynchronous Event Loop
+
+*   [C++ Actor Framework (⭐3.1k)](https://github.com/actor-framework/actor-framework) - An Open Source Implementation of the Actor Model in C++. \[BSD-3-Clause] [website](http://actor-framework.org/)
+
+### Debug
+
+*   [Catch2 (⭐18k)](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD. \[Boost]
+*   [CppUTest (⭐1.3k)](https://github.com/cpputest/cpputest) - Unit testing and mocking framework for C/C++. \[BSD-3-clause]
+
+### Graphics
+
+*   [DirectXTK (⭐2.5k)](https://github.com/Microsoft/DirectXTK) - A collection of helper classes for writing DirectX 11.x code in C++. \[MIT]
+
+### Networking
+
+*   [nghttp2 (⭐4.5k)](https://github.com/nghttp2/nghttp2) - HTTP/2 C Library. \[MIT] [website](https://nghttp2.org/)
+*   [uWebSockets (⭐17k)](https://github.com/uNetworking/uWebSockets) - µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. \[Zlib]
+
+### Scripting
+
+*   [cppimport (⭐1.1k)](https://github.com/tbenthompson/cppimport) - Import C++ files directly from Python! \[MIT]
+*   [CppSharp (⭐2.9k)](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages. \[MIT]
+*   [Cython (⭐8.7k)](https://github.com/cython/cython) - Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. \[Apache] [website](http://cython.org/)
+*   [JavaCpp (⭐4.3k)](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++. \[Apache2]
+*   [libffi (⭐3k)](https://github.com/libffi/libffi) - A portable foreign-function interface library. \[MIT] [website](https://sourceware.org/libffi/)
+*   [nbind (⭐2k)](https://github.com/charto/nbind) - Magical headers that make your C++ library accessible from JavaScript. \[MIT]
+*   [pybind11 (⭐14k)](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python. \[BSD]
+*   [SWIG (⭐5.4k)](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. \[GPL/Output not licensed] [website](http://www.swig.org/)
+
+### Build Systems
+
+*   [Bear (⭐4.3k)](https://github.com/rizsotto/Bear) - A tool to generate compilation database for clang tooling. \[GPLv3]
+
+### Static Code Analysis
+
+*   [include-what-you-use (⭐3.7k)](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze includes in C and C++ source files. [website](https://include-what-you-use.org/)
+
+## [34. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Websites
 
 *   [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting/) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
 
-## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [35. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
@@ -588,7 +631,7 @@
 
 *   [vue-input-number (⭐13)](https://github.com/joseluisq/vue-input-number) - A custom input number component for Vue.js 2.
 
-## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / DynamoDB
 
@@ -597,53 +640,6 @@
 ### Open Source Repos / Accompanying Repos
 
 *   [aws-big-data-blog :fire::fire::fire: (⭐894)](https://github.com/awslabs/aws-big-data-blog) - Samples from the AWS Big Data Blog.
-
-## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
-
-### Serial Port
-
-*   [Asio (⭐4.5k)](https://github.com/chriskohlhoff/asio/) - Asio includes classes for creating and manipulating serial ports in a portable manner. \[Boost] [website](http://think-async.com/)
-
-### Asynchronous Event Loop
-
-*   [C++ Actor Framework (⭐3.1k)](https://github.com/actor-framework/actor-framework) - An Open Source Implementation of the Actor Model in C++. \[BSD-3-Clause] [website](http://actor-framework.org/)
-
-### CLI
-
-*   [jarro2783/cxxopts (⭐3.9k)](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. \[MIT]
-
-### Debug
-
-*   [Catch2 (⭐18k)](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD. \[Boost]
-*   [CppUTest (⭐1.3k)](https://github.com/cpputest/cpputest) - Unit testing and mocking framework for C/C++. \[BSD-3-clause]
-
-### Graphics
-
-*   [DirectXTK (⭐2.4k)](https://github.com/Microsoft/DirectXTK) - A collection of helper classes for writing DirectX 11.x code in C++. \[MIT]
-
-### Networking
-
-*   [nghttp2 (⭐4.5k)](https://github.com/nghttp2/nghttp2) - HTTP/2 C Library. \[MIT] [website](https://nghttp2.org/)
-*   [uWebSockets (⭐16k)](https://github.com/uNetworking/uWebSockets) - µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. \[Zlib]
-
-### Scripting
-
-*   [cppimport (⭐1.1k)](https://github.com/tbenthompson/cppimport) - Import C++ files directly from Python! \[MIT]
-*   [CppSharp (⭐2.9k)](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages. \[MIT]
-*   [Cython (⭐8.7k)](https://github.com/cython/cython) - Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. \[Apache] [website](http://cython.org/)
-*   [JavaCpp (⭐4.3k)](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++. \[Apache2]
-*   [libffi (⭐3k)](https://github.com/libffi/libffi) - A portable foreign-function interface library. \[MIT] [website](https://sourceware.org/libffi/)
-*   [nbind (⭐2k)](https://github.com/charto/nbind) - Magical headers that make your C++ library accessible from JavaScript. \[MIT]
-*   [pybind11 (⭐14k)](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python. \[BSD]
-*   [SWIG (⭐5.4k)](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. \[GPL/Output not licensed] [website](http://www.swig.org/)
-
-### Build Systems
-
-*   [Bear (⭐4.2k)](https://github.com/rizsotto/Bear) - A tool to generate compilation database for clang tooling. \[GPLv3]
-
-### Static Code Analysis
-
-*   [include-what-you-use (⭐3.7k)](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze includes in C and C++ source files. [website](https://include-what-you-use.org/)
 
 ## [37. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 

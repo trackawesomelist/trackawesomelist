@@ -27,7 +27,7 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [mikhail-bigun/fiberlogrus (⭐5)](https://github.com/mikhail-bigun/fiberlogrus) - A logger middleware that uses logrus and its structured logging features.
+*   [mikhail-bigun/fiberlogrus (⭐8)](https://github.com/mikhail-bigun/fiberlogrus) - A logger middleware that uses logrus and its structured logging features.
 
 ## [4. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
 
@@ -53,15 +53,15 @@
 
 ### Computer Science
 
-*   [Generative AI (⭐3.8k)](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
+*   [Generative AI (⭐4k)](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
 
 ### Decentralized Systems
 
-*   [ZeroNet (⭐51)](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
+*   [ZeroNet (⭐54)](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
 
 ### Health and Social Science
 
-*   [Digital Humanities (⭐169)](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
+*   [Digital Humanities (⭐179)](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
 
 ## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -215,7 +215,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [copyparty (⭐373)](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, deduplication, WebDAV, FTP, zeroconf, media indexer, video thumbnails, audio transcoding, and write-only folders, in a single file with no mandatory dependencies. ([Demo](https://a.ocv.me/pub/demo/)) `MIT` `Python`
+*   [copyparty (⭐389)](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, deduplication, WebDAV, FTP, zeroconf, media indexer, video thumbnails, audio transcoding, and write-only folders, in a single file with no mandatory dependencies. ([Demo](https://a.ocv.me/pub/demo/)) `MIT` `Python`
 
 ## [23. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -233,7 +233,7 @@
 
 ### Logging
 
-*   [ecto\_dev\_logger (⭐140)](https://github.com/fuelen/ecto_dev_logger) - An alternative logger for Ecto queries that helps in debugging.
+*   [ecto\_dev\_logger (⭐142)](https://github.com/fuelen/ecto_dev_logger) - An alternative logger for Ecto queries that helps in debugging.
 
 ## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -284,7 +284,7 @@
 
 ### Audio Libraries
 
-*   [chord-mark (⭐32)](https://github.com/no-chris/chord-mark) - reference implementation of ChordMark, a text notation format for lyrics, chords and rhythm.
+*   [chord-mark (⭐37)](https://github.com/no-chris/chord-mark) - reference implementation of ChordMark, a text notation format for lyrics, chords and rhythm.
 
 ### Music Notation
 
@@ -332,7 +332,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [coffeelint](https://coffeelint.github.io/) :warning: — A style checker that helps keep CoffeeScript code clean and consistent.
+*   [coffeelint](https://coffeelint.github.io/) — A style checker that helps keep CoffeeScript code clean and consistent.
 *   [ktfmt](https://facebook.github.io/ktfmt/) — A program that reformats Kotlin source code to comply with the common community standard for Kotlin code conventions.
     A ktfmt IntelliJ plugin is available from the plugin repository. To install it, go to your IDE's settings and select the Plugins category. Click the Marketplace tab, search for the ktfmt plugin, and click the Install button.
 *   [autopep8](https://pypi.org/project/autopep8/) — A tool that automatically formats Python code to conform to the PEP 8 style guide.
@@ -388,11 +388,11 @@
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [gogu (⭐90)](https://github.com/esimov/gogu) - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
+*   [gogu (⭐92)](https://github.com/esimov/gogu) - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
 
 ### Interfaces to Multiple Backends
 
-*   [go-transaction-manager (⭐129)](https://github.com/avito-tech/go-transaction-manager) - Transaction manager with multiple adapters (sql, sqlx, gorm, mongo, ...) controls transaction boundaries.
+*   [go-transaction-manager (⭐142)](https://github.com/avito-tech/go-transaction-manager) - Transaction manager with multiple adapters (sql, sqlx, gorm, mongo, ...) controls transaction boundaries.
 
 ### Distributed Systems
 
@@ -406,16 +406,16 @@
 
 ### Applications / Security tools
 
-*   [cargo-crev](https://crates.io/crates/cargo-crev) - A cryptographically verifiable code review system for the cargo (Rust) package manager.
+*   [cargo-crev](https://crates.io/crates/cargo-crev) - A cryptographically verifiable code review system for the cargo package manager.
 
 ### Libraries / Data visualization
 
-*   [mazznoer/colorgrad-rs (⭐263)](https://github.com/mazznoer/colorgrad-rs) \[[colorgrad](https://crates.io/crates/colorgrad)] — Rust color scales library for data visualization, charts, games, maps, generative art and others.
+*   [mazznoer/colorgrad-rs (⭐263)](https://github.com/mazznoer/colorgrad-rs) \[[colorgrad](https://crates.io/crates/colorgrad)] — Color scales library for data visualization, charts, games, maps, generative art and others.
 
 ### Libraries / Encoding
 
 *   NetCDF
-    *   [georust/netcdf (⭐71)](https://github.com/georust/netcdf) \[[netcdf](https://crates.io/crates/netcdf)] — Medium-level netCDF bindings for Rust, allowing easy reading and writing of array-like structures to a file.
+    *   [georust/netcdf (⭐71)](https://github.com/georust/netcdf) \[[netcdf](https://crates.io/crates/netcdf)] — Medium-level netCDF bindings, allowing easy reading and writing of array-like structures to a file.
 
 ### Libraries / Parsing
 

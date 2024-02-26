@@ -512,7 +512,7 @@
 ### Artificial Intelligence
 
 *   [MXNet (⭐21k)](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more. [website](https://mxnet.apache.org)
-*   [PyTorch (⭐75k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
+*   [PyTorch (⭐76k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
 
 ### Audio
 
@@ -534,7 +534,7 @@
 
 ### Regular Expression
 
-*   [sregex (⭐611)](https://github.com/openresty/sregex) - A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams. \[BSD]
+*   [sregex (⭐612)](https://github.com/openresty/sregex) - A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams. \[BSD]
 
 ## [26. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -1014,11 +1014,11 @@
 
 *   Docker
     *   [emk/rust-musl-builder (⭐1.5k)](https://github.com/emk/rust-musl-builder) — Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries
-    *   [kpcyrd/mini-docker-rust (⭐189)](https://github.com/kpcyrd/mini-docker-rust) — An example project for very small rust docker images
+    *   [kpcyrd/mini-docker-rust (⭐191)](https://github.com/kpcyrd/mini-docker-rust) — An example project for very small rust docker images
     *   [liuchong/docker-rustup (⭐91)](https://github.com/liuchong/docker-rustup) — A multiple version (with musl tools) Rust Docker image
     *   [LukeMathWalker/cargo-chef (⭐1.4k)](https://github.com/LukeMathWalker/cargo-chef) - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
-    *   [rust-cross/rust-musl-cross (⭐543)](https://github.com/rust-cross/rust-musl-cross) — Docker images for compiling static Rust binaries using musl-cross [![Build](https://github.com/rust-cross/rust-musl-cross/workflows/Build/badge.svg)](https://github.com/rust-cross/rust-musl-cross/actions?query=workflow%3ABuild)
-    *   [rust-lang-nursery/docker-rust (⭐399)](https://github.com/rust-lang/docker-rust) — the official Rust Docker image
+    *   [rust-cross/rust-musl-cross (⭐549)](https://github.com/rust-cross/rust-musl-cross) — Docker images for compiling static Rust binaries using musl-cross [![Build](https://github.com/rust-cross/rust-musl-cross/workflows/Build/badge.svg)](https://github.com/rust-cross/rust-musl-cross/actions?query=workflow%3ABuild)
+    *   [rust-lang-nursery/docker-rust (⭐400)](https://github.com/rust-lang/docker-rust) — the official Rust Docker image
 
 ## [46. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 

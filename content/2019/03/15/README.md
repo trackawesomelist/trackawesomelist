@@ -95,7 +95,7 @@ Free
 
 ### Data Formats
 
-*   [BinData (⭐43)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
+*   [BinData (⭐47)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
 
 ## [10. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

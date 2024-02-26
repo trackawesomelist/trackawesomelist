@@ -57,7 +57,7 @@
 
 ### Table of Contents / Testing
 
-*   [Infection (⭐1.9k)](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
+*   [Infection (⭐2k)](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
 
 ### Configuration / PHP Internals Reading
 
@@ -281,7 +281,7 @@
 
 ### Projects
 
-*   [Yew Fullstack Boilerplate (⭐57)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
+*   [Yew Fullstack Boilerplate (⭐58)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
 
 ---
 

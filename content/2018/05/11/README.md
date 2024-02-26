@@ -40,7 +40,7 @@
 
 ### Date and Time
 
-*   [cocktail (⭐209)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
+*   [cocktail (⭐208)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
 
 ### Examples and funny stuff
 
@@ -60,7 +60,7 @@
 
 ### Security
 
-*   [pwned (⭐22)](https://github.com/thiamsantos/pwned) - Check if your password has been pwned.
+*   [pwned (⭐23)](https://github.com/thiamsantos/pwned) - Check if your password has been pwned.
 
 ### Testing
 
@@ -68,7 +68,7 @@
 
 ### Third Party APIs
 
-*   [shopify (⭐101)](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
+*   [shopify (⭐102)](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
 
 ### Translations and Internationalizations
 

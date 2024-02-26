@@ -200,7 +200,7 @@
 ### Command-Line Productivity
 
 *   [how2 (⭐5.7k)](https://github.com/santinic/how2) - `how2` finds the simplest way to do something in a unix shell. It's like `man`, but you can query it in natural language.
-*   [hss (⭐334)](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution
+*   [hss (⭐338)](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution
 
 ### For Developers / Directory Navigation
 
@@ -208,7 +208,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bats (⭐4.3k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System
+*   [bats (⭐4.5k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 
 ## [25. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
@@ -248,7 +248,7 @@
 
 ### Libraries / Parsing
 
-*   [lalrpop/lalrpop (⭐2.8k)](https://github.com/lalrpop/lalrpop) — LR(1) parser generator for Rust
+*   [lalrpop/lalrpop (⭐2.8k)](https://github.com/lalrpop/lalrpop) — LR(1) parser generator
 
 ## [27. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
@@ -375,11 +375,11 @@
 
 ### Audio
 
-*   [minimp3 (⭐1.4k)](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. \[CC0]
+*   [minimp3 (⭐1.5k)](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. \[CC0]
 
 ### Cryptography
 
-*   [digestpp (⭐183)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
+*   [digestpp (⭐184)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
 
 ### Scientific Computing
 
@@ -387,7 +387,7 @@
 
 ### Debug
 
-*   [MinUnit (⭐534)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
+*   [MinUnit (⭐536)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
 
 ### Math
 
@@ -409,11 +409,11 @@
 
 ### Books
 
-*   [List of Free C or C++ Books (⭐53k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
+*   [List of Free C or C++ Books (⭐54k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 
 ### Videos
 
-*   [List of C or C++ YouTube Videos (⭐53k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
+*   [List of C or C++ YouTube Videos (⭐54k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
 
 ### Websites
 
@@ -422,7 +422,7 @@
 ### Other Awesome Projects
 
 *   [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
-*   [Awesome interview questions (⭐64k)](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
+*   [Awesome interview questions (⭐65k)](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
 
 ## [42. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 

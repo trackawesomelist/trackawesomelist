@@ -683,7 +683,7 @@
 
 ### Package Repositories
 
-*   [bandersnatch (⭐370)](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
+*   [bandersnatch (⭐409)](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
 
 ## [31. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
@@ -704,11 +704,11 @@
 
 ### Date and Time Processing
 
-*   [timezone (⭐332)](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
+*   [timezone (⭐333)](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
 
 ### Process Management and Monitoring
 
-*   [Health Monitor Rails (⭐205)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
+*   [Health Monitor Rails (⭐207)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
 
 ## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -784,7 +784,7 @@
 
 ### Libraries
 
-*   [react-on-lambda (⭐259)](https://github.com/sultan99/react-on-lambda) - Replace JSX in React with functions (currying, compositions and etc).
+*   [react-on-lambda (⭐260)](https://github.com/sultan99/react-on-lambda) - Replace JSX in React with functions (currying, compositions and etc).
 
 ### Resources / Articles
 

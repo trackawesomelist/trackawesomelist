@@ -10,7 +10,7 @@
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [RamdaScript (⭐131)](https://github.com/yosbelms/ramdascript) - A Lisp that compiles to opinionated JavaScript on top of RamdaJS
+*   [RamdaScript (⭐132)](https://github.com/yosbelms/ramdascript) - A Lisp that compiles to opinionated JavaScript on top of RamdaJS
 
 ## [2. Awesome Eta](/content/sfischer13/awesome-eta/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Email
 
-*   [Maily (⭐698)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
+*   [Maily (⭐697)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
 
 ### Form Builder
 

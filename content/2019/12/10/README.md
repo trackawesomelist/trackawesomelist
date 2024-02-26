@@ -106,7 +106,6 @@
 ### Additional Resources
 
 *   [@lopp / Bitcoin Developers](https://twitter.com/lopp/lists/bitcoin-developers) - Software developers who have experience working on Bitcoin implementations or applications.
-*   [@lopp / Lightning Developers](https://twitter.com/lopp/lists/lightning-developers) - Software developers with experience working on LN implementations / applications.
 *   [A brief history of Bitcoin development...](https://www.youtube.com/watch?v=ZfFNce6CVsE)
 
 ## [11. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
@@ -117,7 +116,7 @@
 
 ### Science and Data analysis
 
-*   [num.cr (⭐141)](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
+*   [num.cr (⭐143)](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
 
 ## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

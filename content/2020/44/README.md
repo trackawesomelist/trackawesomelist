@@ -10,7 +10,7 @@
 
 ### Command-line tools
 
-*   [visidata (⭐6.1k)](https://github.com/saulpw/visidata) - A terminal spreadsheet-like tool for interactively exploring data.
+*   [visidata (⭐7.3k)](https://github.com/saulpw/visidata) - A terminal spreadsheet-like tool for interactively exploring data.
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
@@ -19,7 +19,7 @@
 *   Visual Studio Code
     *   [godot-tools Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - A complete set of tools to code games with Godot Engine in Visual Studio Code. Includes a GDScript language client.
     *   [C# Tools for Godot Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=neikeq.godot-csharp-vscode) - Debugger and utilities for working with Godot C# projects in VSCode.
-    *   [GUT Visual Studio Code Extension (⭐21)](https://github.com/bitwes/gut-extension) - Run GUT framework unit/integration tests directly from the Visual Studio Code Editors.
+    *   [GUT Visual Studio Code Extension (⭐22)](https://github.com/bitwes/gut-extension) - Run GUT framework unit/integration tests directly from the Visual Studio Code Editors.
     *   [gdformat Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=Razoric.gdscript-toolkit-formatter) - Formatter for GDScript in Visual Studio Code (Godot 3.x).
 
 ### Unofficial Godot builds / Godot version unknown
@@ -158,7 +158,7 @@
 
 ### Processes and Threads
 
-*   [werk (⭐23)](https://github.com/marghidanu/werk) - Dead simple task runner with concurrent support, ideal for local CI
+*   [werk (⭐24)](https://github.com/marghidanu/werk) - Dead simple task runner with concurrent support, ideal for local CI
 
 ## [10. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
@@ -191,7 +191,7 @@
 
 ### Applications / Games
 
-*   [doukutsu-rs (⭐773)](https://github.com/doukutsu-rs/doukutsu-rs) — A Rust reimplementation of Cave Story engine with some enhancements.
+*   [doukutsu-rs (⭐783)](https://github.com/doukutsu-rs/doukutsu-rs) — Reimplementation of Cave Story engine with some enhancements.
 
 ## [14. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
 
@@ -687,12 +687,12 @@
 
 ### Programming Languages
 
-*   [R (⭐5.6k)](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
-    *   [Learning (⭐511)](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
+*   [R (⭐5.7k)](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
+    *   [Learning (⭐517)](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
 
 ### Gaming
 
-*   [CHIP-8 (⭐130)](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
+*   [CHIP-8 (⭐134)](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
 
 ### Business
 
@@ -700,7 +700,7 @@
 
 ### Miscellaneous
 
-*   [Credit Modeling (⭐102)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
+*   [Credit Modeling (⭐104)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
 
 ## [27. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -749,7 +749,7 @@ Free (Open Source)
 
 ### Software / Document Management
 
-*   [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code (⭐1.3k)](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java/Docker`
+*   [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code (⭐1.4k)](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java/Docker`
 
 ### Software / Polls and Events
 
@@ -992,23 +992,23 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 ### Shells
 
-*   [es](https://wryun.github.io/es-shell/) - The extensible shell, based on Plan 9's [rc (⭐226)](https://github.com/rakitzis/rc) shell
+*   [es](https://wryun.github.io/es-shell/) - The extensible shell, based on Plan 9's [rc (⭐235)](https://github.com/rakitzis/rc) shell
 
 ### Command-Line Productivity
 
-*   [undollar (⭐148)](https://github.com/xtyrrell/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
+*   [undollar (⭐156)](https://github.com/xtyrrell/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
 
 ### Command-Line Productivity / Directory Navigation
 
-*   [zpyi (⭐100)](https://github.com/sakshamsharma/zpyi) - Python in Zsh - Easy python scripting in shell
+*   [zpyi (⭐101)](https://github.com/sakshamsharma/zpyi) - Python in Zsh - Easy python scripting in shell
 
 ### Applications / Directory Navigation
 
-*   [dstask (⭐741)](https://github.com/naggie/dstask) - Single binary terminal-based TODO manager with git-based sync + markdown notes per task
+*   [dstask (⭐754)](https://github.com/naggie/dstask) - Single binary terminal-based TODO manager with git-based sync + markdown notes per task
 
 ### Shell Script Development / Directory Navigation
 
-*   [shellspec (⭐932)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for dash, bash, ksh, zsh and all POSIX shells
+*   [shellspec (⭐1k)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for dash, bash, ksh, zsh and all POSIX shells
 
 ## [52. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -1050,7 +1050,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 ### Overlay
 
-*   [reoverlay (⭐141)](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
+*   [reoverlay (⭐142)](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
 
 ## [55. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 

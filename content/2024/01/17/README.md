@@ -1,61 +1,75 @@
 # Awesome List Updates on Jan 17, 2024
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+## [1. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
+
+### Community
+
+*   [OpenTofu Slack](https://opentofu.org/slack)
+*   [OpenTofu Twitter](https://twitter.com/opentofuorg)
+
+### Tools / Environment managers
+
+*   [tenv (⭐120)](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
+
+### Tools / CI
+
+*   [tf-via-pr-comments (⭐35)](https://github.com/devsectop/tf-via-pr-comments) - GitHub Action to run Terraform or OpenTofu CLI commands via PR comments.
+
+## [2. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Resources / Blog posts
 
-*   Level Up Your Data Analysis with Polars: A Powerful DataFrame Library for Speed and Efficiency]\(<https://python.plainenglish.io/level-up-your-data-analysis-with-polars-a-powerful-dataframe-library-for-speed-and-efficiency-0b82c226c7f1>) - A blog post that describs the main features of Polars (with benchmarks) by [ravi-m](https://ravi-m.medium.com/).
 *   [polars’ Rgonomic Patterns](https://www.emilyriederer.com/post/py-rgo-polars/) - A blog post that deeps dive into some of the advanced data wrangling functionality in python’s Polars package by [@emilyriederer](https://github.com/emilyriederer).
 
-## [2. Awesome Code Review](/content/joho/awesome-code-review/README.md)
+## [3. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
 ### Tools
 
 *   [Axolo](https://www.axolo.co) Github/GitLab Slack integration. Create one ephemeral channel per pull request/ merge request.
 
-## [3. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [4. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Examples/Templates
 
 *   [Jahmilli/k6-example (⭐7)](https://github.com/Jahmilli/k6-example) - Starter template using Vite (Rollup) bundler to write k6 tests in TypeScript.
 
-## [4. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
+## [5. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
 ### Privacy by Design - Guides for developers (art. 25)
 
 *   [Norwegian DPA - Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/data-protection-by-design-and-by-default/)
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Productivity
 
-*   [Keyboard Cowboy (⭐417)](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zenangst/KeyboardCowboy)
+*   [Keyboard Cowboy (⭐452)](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zenangst/KeyboardCowboy)
 
-## [6. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+## [7. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ### Talks
 
 *   [On behalf of mankind: thank you for sharing!](https://www.youtube.com/watch?v=HBS8sS138GE) - TEDx talk by Jerry de Vos
 
-## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [materio-free-vuetify-nuxtjs-admin-template (⭐15)](https://github.com/themeselection/materio-vuetify-nuxtjs-admin-template-free) - Vuejs 3, Vite 5, Vuetify 3 & NuxtJS 3.
+*   [materio-free-vuetify-nuxtjs-admin-template (⭐18)](https://github.com/themeselection/materio-vuetify-nuxtjs-admin-template-free) - Vuejs 3, Vite 5, Vuetify 3 & NuxtJS 3.
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [HoNamDuong/hybrid.nvim (⭐38)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
+*   [HoNamDuong/hybrid.nvim (⭐45)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
 
-## [9. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+## [10. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
 - Name: [Continuous](https://continuous.sh/)
 
@@ -73,19 +87,19 @@
 
 
 
-## [10. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+## [11. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Julia / FrameWorks
 
 *   [IncTA.jl (⭐6)](https://github.com/femtotrader/IncTA.jl) - Julia Incremental Technical Analysis Indicators
 
-## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Security tools
 
-*   [arp-scan-rs (⭐63)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
+*   [arp-scan-rs (⭐67)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
 
-## [12. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [13. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Gateway
 
@@ -101,7 +115,7 @@
 *   [Camunda (⭐3.7k) (⭐3.7k)](https://github.com/camunda/camunda-bpm-platform) - An open-source workflow and decision automation platform that helps you automate business processes and decisions in a flexible and scalable way.
 *   [Flowable (⭐7.1k) (⭐7.2k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
 
-## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Online Tools and Applications
 
@@ -111,20 +125,20 @@
 
 *   [aiPDF](https://aipdf.ai): The most advanced AI document assistant
 
-## [14. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [15. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Darkest Derelicts](https://jaderavens.itch.io/darkest-derelicts) - Rules for Starforged, inspired by The Expanse and Alien
 *   [Feats & Favors](https://satan-bouchuncoin.itch.io/feats-favors) - Faction and reputation system for Ironsworn and Starforged
 
-## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [16. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zeza (⭐1)](https://github.com/duggum/zeza) - Manages and customizes [eza (⭐5k)](https://github.com/eza-community/eza), the very colorful `ls` replacement.
+*   [zeza (⭐1)](https://github.com/duggum/zeza) - Manages and customizes [eza (⭐5.5k)](https://github.com/eza-community/eza), the very colorful `ls` replacement.
 
-## [16. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [17. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Golem
 
@@ -142,7 +156,7 @@
 
 *   [Yacat](https://docs.golem.network/docs/creators/python/tutorials/task-example-2-hashcat) - Hashcat password-recovery step-by-step.
 
-## [17. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
+## [18. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
 
 ### Learning Resources / Introductions to AI
 

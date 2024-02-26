@@ -108,7 +108,7 @@
 
 ### Libraries and Frameworks
 
-*   [horcrux (⭐4.2k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
+*   [horcrux (⭐4.4k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [BoxCam2D (⭐16)](https://github.com/sarooptech/BoxCam2D) - Simplest way to implement grid-based 2D camera movement (Godot 3.x).
+*   [BoxCam2D (⭐17)](https://github.com/sarooptech/BoxCam2D) - Simplest way to implement grid-based 2D camera movement (Godot 3.x).
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

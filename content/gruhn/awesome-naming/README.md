@@ -38,7 +38,7 @@ A curated list for when naming things is done right.
 
 ### Libraries and Frameworks
 
-*   [horcrux (⭐4.2k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
+*   [horcrux (⭐4.4k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
 
 ## [Jul 26, 2023](/content/2023/07/26/README.md)
 
@@ -105,7 +105,7 @@ A curated list for when naming things is done right.
 
 ### Libraries and Frameworks
 
-*   [Puppeteer (⭐85k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐86k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
 ## [Oct 08, 2021](/content/2021/10/08/README.md)
 
@@ -208,7 +208,7 @@ A curated list for when naming things is done right.
 
 ### Libraries and Frameworks
 
-*   [uppy (⭐27k)](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
+*   [uppy (⭐28k)](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
 
 ## [Jun 13, 2020](/content/2020/06/13/README.md)
 
@@ -289,7 +289,7 @@ A curated list for when naming things is done right.
 
 ### Programming Languages and Programming Language Theory
 
-*   [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) - An evaluation stategy which suspends evaluation until it's absolutly necessary and then never does it again.
+*   [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) - An evaluation stategy which suspends evaluation until it's absolutely necessary and then never does it again.
 
 ## [Oct 19, 2019](/content/2019/10/19/README.md)
 

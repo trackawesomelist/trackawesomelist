@@ -22,15 +22,15 @@
 
 ### Geolocation
 
-*   [geoip (⭐109)](https://github.com/navinpeiris/geoip) - Find geolocation for a given IP, hostname or `Plug.Conn`.
+*   [geoip (⭐111)](https://github.com/navinpeiris/geoip) - Find geolocation for a given IP, hostname or `Plug.Conn`.
 
 ### Images
 
-*   [thumbnex (⭐65)](https://github.com/talklittle/thumbnex) - Create thumbnails from images and video screenshots.
+*   [thumbnex (⭐67)](https://github.com/talklittle/thumbnex) - Create thumbnails from images and video screenshots.
 
 ### Natural Language Processing (NLP)
 
-*   [Paasaa (⭐111)](https://github.com/minibikini/paasaa) - Natural language detection for Elixir.
+*   [Paasaa (⭐112)](https://github.com/minibikini/paasaa) - Natural language detection for Elixir.
 
 ### ORM and Datamapping
 

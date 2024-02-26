@@ -23,7 +23,7 @@
 
 ### Software / Communication - SIP
 
-*   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐687)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
+*   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐692)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
 
 ## [4. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

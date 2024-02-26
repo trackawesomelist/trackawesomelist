@@ -22,7 +22,7 @@
 
 ### Web Crawling
 
-*   [Spidr (⭐774)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
+*   [Spidr (⭐785)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -142,50 +142,31 @@
 ### Asynchronous Programming
 
 *   [asyncio](https://docs.python.org/3/library/asyncio.html) - (Python standard library) Asynchronous I/O, event loop, coroutines and tasks.
-    *   [awesome-asyncio (⭐4.1k)](https://github.com/timofurrer/awesome-asyncio)
-*   [Twisted](https://twistedmatrix.com/trac/) - An event-driven networking engine.
+    *   [awesome-asyncio (⭐4.3k)](https://github.com/timofurrer/awesome-asyncio)
 
 ### Network Virtualization
 
-*   [pox (⭐601)](https://github.com/noxrepo/pox) - A Python-based SDN control applications, such as OpenFlow SDN controllers.
+*   [pox (⭐609)](https://github.com/noxrepo/pox) - A Python-based SDN control applications, such as OpenFlow SDN controllers.
 
 ### Processes
 
 *   [delegator.py (⭐1.7k)](https://github.com/amitt001/delegator.py) - [Subprocesses](https://docs.python.org/3/library/subprocess.html) for Humans 2.0.
 
-### RESTful API
-
-*   Framework agnostic
-    *   [apistar (⭐5.6k)](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.
-    *   [falcon (⭐9.2k)](https://github.com/falconry/falcon) - A high-performance framework for building cloud APIs and web app backends.
-    *   [fastapi (⭐60k)](https://github.com/tiangolo/fastapi) - A modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.
-    *   [hug (⭐6.7k)](https://github.com/hugapi/hug) - A Python 3 framework for cleanly exposing APIs.
-    *   [sandman2 (⭐2k)](https://github.com/jeffknupp/sandman2) - Automated REST APIs for existing database-driven systems.
-    *   [sanic (⭐17k)](https://github.com/huge-success/sanic) - A Python 3.6+ web server and web framework that's written to go fast.
-    *   [vibora](https://vibora.io/) - Fast, efficient and asynchronous Web framework inspired by Flask.
-
 ### Task Queues
 
-*   [huey (⭐4.5k)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
-*   [mrq (⭐873)](https://github.com/pricingassistant/mrq) - A distributed worker task queue in Python using Redis & gevent.
-*   [rq (⭐9k)](https://github.com/rq/rq) - Simple job queues for Python.
-
-### Web Frameworks
-
-*   Asynchronous
-    *   [Tornado](http://www.tornadoweb.org/en/latest/) - A web framework and asynchronous networking library.
+*   [huey (⭐4.8k)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
+*   [mrq (⭐877)](https://github.com/pricingassistant/mrq) - A distributed worker task queue in Python using Redis & gevent.
+*   [rq (⭐9.4k)](https://github.com/rq/rq) - Simple job queues for Python.
 
 ### WebSocket
 
-*   [channels (⭐5.6k)](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
-*   [websockets (⭐4.6k)](https://github.com/aaugustin/websockets) - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
+*   [channels (⭐5.8k)](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
+*   [websockets (⭐4.9k)](https://github.com/aaugustin/websockets) - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
 
 ### WSGI Servers
 
-*   [bjoern (⭐2.9k)](https://github.com/jonashaag/bjoern) - Asynchronous, very fast and written in C.
-*   [uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/) - A project aims at developing a full stack for building hosting services, written in C.
-*   [waitress (⭐1.3k)](https://github.com/Pylons/waitress) - Multi-threaded, powers Pyramid.
-*   [werkzeug (⭐6.4k)](https://github.com/pallets/werkzeug) - A WSGI utility library for Python that powers Flask and can easily be embedded into your own projects.
+*   [waitress (⭐1.4k)](https://github.com/Pylons/waitress) - Multi-threaded, powers Pyramid.
+*   [werkzeug (⭐6.5k)](https://github.com/pallets/werkzeug) - A WSGI utility library for Python that powers Flask and can easily be embedded into your own projects.
 
 ## [12. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 

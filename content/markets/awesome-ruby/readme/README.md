@@ -156,7 +156,7 @@ Thanks to all [contributors (⭐13k)](https://github.com/markets/awesome-ruby/gr
 *   [ActiveAdmin](http://activeadmin.info) - A Ruby on Rails framework for creating elegant backends for website administration.
 *   [ActiveScaffold (⭐1.1k)](https://github.com/activescaffold/active_scaffold) - ActiveScaffold provides quick and powerful user interfaces for CRUD (create, read, update, delete) operations for Rails applications. It's excellent for generating admin interfaces, managing Data-Heavy Applications, creating Widgets or for quick prototyping. ActiveScaffold is completly customizable and offers a bunch of additional features including searching, pagination, layout control and overrides of fields, forms and templates.
 *   [Administrate (⭐5.8k)](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard, by Thoughtbot.
-*   [Avo](https://avohq.io) - Avo is a next-generation framework that empowers developers and teams to create fantastic admin panels for Ruby on Rails projects in hours, not days or weeks. Fast, extendable, with a developer-friendly API, it just works out of the box.
+*   [Avo Admin for Rails](https://avohq.io/rails-admin) - Avo is the modern approach to building an advanced admin panel that can be used by the entire organization. It has all the tools an admin panel needs and more. We have carefully made sure that you have all the escape hatches you need to ensure you can build your next admin panel for Ruby on Rails incredibly fast and easily.
 *   [bhf](http://antpaw.github.io/bhf/) - A simple to use Rails-Engine-Gem that offers an admin interface for trusted user.
 *   [Hot Glue (⭐153)](https://github.com/hot-glue-for-rails/hot-glue/) - Hot Glue takes a different approach to building both admin and user dashboards. It is a code generation tool like the Rails scaffold generator but with significantly more features. Instead of providing a lot of configuration options, Hot Glue can generate your code. Good for lists & CRUD views for both admin and user-facing dashboards.
 *   [MotorAdmin (⭐668)](https://github.com/motor-admin/motor-admin-rails) - A low-code Admin panel and Business Intelligence Rails engine. No DSL - configurable from the UI.
@@ -326,6 +326,7 @@ Thanks to all [contributors (⭐13k)](https://github.com/markets/awesome-ruby/gr
 ## CMS
 
 *   [Alchemy CMS](https://alchemy-cms.com) - A powerful, userfriendly and flexible Open Source Rails CMS.
+*   [Avo CMS for Rails](https://avohq.io/ruby-on-rails-content-management-system) - Avo is a very custom Content Management System for Ruby on Rails that saves engineers and teams months of development time. It's designed to use your app's database structure, uses configuration instead of traditional methods, and when configuration isn't enough, it falls back to writing regular Rails code that you're used to.
 *   [Camaleon CMS](http://camaleon.tuzitio.com/) - A dynamic and advanced content management system based on Ruby on Rails 4.
 *   [ComfortableMexicanSofa (⭐2.7k)](https://github.com/comfy/comfortable-mexican-sofa) - Powerful Rails 5.2+ CMS Engine.
 *   [Fae (⭐836)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
@@ -445,7 +446,7 @@ Thanks to all [contributors (⭐13k)](https://github.com/markets/awesome-ruby/gr
 ## CRM
 
 *   [Fat Free CRM (⭐3.5k)](https://github.com/fatfreecrm/fat_free_crm) - An open source Ruby on Rails based customer relationship management platform.
-*   [Hitobito (⭐333)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito (⭐334)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
 ## Cryptocurrencies and Blockchains
 
@@ -559,6 +560,7 @@ Thanks to all [contributors (⭐13k)](https://github.com/markets/awesome-ruby/gr
 *   [Chef (⭐7.4k)](https://github.com/chef/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
 *   [Einhorn (⭐1.6k)](https://github.com/stripe/einhorn) - Einhorn will open one or more shared sockets and run multiple copies of your process. You can seamlessly reload your code, dynamically reconfigure Einhorn, and more.
 *   [Itamae (⭐1.1k)](https://github.com/itamae-kitchen/itamae) - Simple and lightweight configuration management tool inspired by Chef.
+*   [Kanrisuru (⭐16)](https://github.com/avamia/kanrisuru) - Manage remote infrastructure in Ruby
 *   [Lita](https://www.lita.io/) - ChatOps for Ruby: A pluggable chat bot framework usable with any chat service.
 *   [Logstash (⭐14k)](https://github.com/elastic/logstash) - Logs/event transport, processing, management, search.
 *   [Kamal (⭐8.6k)](https://github.com/basecamp/kamal) - Kamal offers zero-downtime deploys, rolling restarts, asset bridging, remote builds, accessory service management, and everything else you need to deploy and manage your web app in production with Docker.
@@ -616,7 +618,7 @@ Where to discover new Ruby libraries, projects and trends.
 *   [credit\_card\_validations (⭐227)](https://github.com/didww/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
 *   [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - Official Paypal Merchant SDK for Ruby.
 *   [ROR Ecommerce (⭐1.2k)](https://github.com/drhenner/ror_ecommerce) - A Rails e-commerce platform.
-*   [Solidus (⭐4.8k)](https://github.com/solidusio/solidus) - An open source, eCommerce application for high volume retailers.
+*   [Solidus (⭐4.9k)](https://github.com/solidusio/solidus) - An open source, eCommerce application for high volume retailers.
 *   [Spree (⭐13k)](https://github.com/spree/spree) - Spree is a complete open source e-commerce solution for Ruby on Rails.
 *   [SquareConnect (⭐41)](https://github.com/square/connect-ruby-sdk) - Square's SDK for payments and other Square APIs.
 *   [stripe-ruby (⭐1.9k)](https://github.com/stripe/stripe-ruby) - Stripe Ruby bindings.
@@ -727,7 +729,7 @@ Where to discover new Ruby libraries, projects and trends.
 *   [Dragon Ruby](https://dragonruby.org/) - DragonRuby is a zero dependency, cross platform, Ruby runtime built on top of mRuby, libSDL, and LLVM. Write Ruby on any OS and deploy to PC, Mac, Linux, iOS, Android, Raspberry Pi, WASM, Nintendo Switch, Sony Playstation, and Microsoft Xbox.
 *   [Gosu](http://www.libgosu.org) - A 2D game development library for the Ruby and C++ programming languages.
 *   [Mittsu (⭐500)](https://github.com/jellymann/mittsu) - Mittsu makes 3D graphics easier by providing an abstraction over OpenGL, and is based heavily off of THREE.js.
-*   [Ruby 2D (⭐620)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
+*   [Ruby 2D (⭐621)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
 *   [Taylor (⭐86)](https://github.com/HellRok/Taylor) - Taylor is a game engine built using mruby and raylib.
 
 ## Gem Generators
@@ -949,6 +951,7 @@ Where to discover new Ruby libraries, projects and trends.
 ## ORM/ODM Extensions
 
 *   Auditing and Versioning
+    *   [active\_snapshot (⭐93)](https://github.com/westonganger/active_snapshot) - Simplified snapshots and restoration for ActiveRecord models and associations with a transparent white-box implementation
     *   [acts\_as\_archival (⭐128)](https://github.com/expectedbehavior/acts_as_archival) - ActiveRecord plugin for atomic object tree archiving.
     *   [ActsAsParanoid (⭐1.4k)](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
     *   [Audited (⭐3.3k)](https://github.com/collectiveidea/audited) - Audited is an ORM extension for ActiveRecord & MongoMapper that logs all changes to your models.
@@ -1418,7 +1421,7 @@ Online tools, services and APIs to simplify development.
 
 ## Web Servers
 
-*   [Agoo (⭐869)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
+*   [Agoo (⭐874)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 *   [Falcon (⭐2.4k)](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
 *   [Iodine (⭐882)](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
 *   [Phusion Passenger](https://www.phusionpassenger.com) - Fast and robust web server and application server.

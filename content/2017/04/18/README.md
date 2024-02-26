@@ -20,8 +20,8 @@
 
 ### Feature Flags and Toggles
 
-*   [flippant (⭐95)](https://github.com/sorentwo/flippant) - Feature flipping for the Elixir world.
-*   [molasses (⭐75)](https://github.com/securingsincity/molasses) - A feature toggle library using redis or SQL (using Ecto) as a backing service.
+*   [flippant (⭐97)](https://github.com/sorentwo/flippant) - Feature flipping for the Elixir world.
+*   [molasses (⭐76)](https://github.com/securingsincity/molasses) - A feature toggle library using redis or SQL (using Ecto) as a backing service.
 
 ### Geolocation
 
@@ -29,7 +29,7 @@
 
 ### HTTP
 
-*   [ivar (⭐15)](https://github.com/swelham/ivar) - A lightweight wrapper around HTTPoison that provides a fluent and composable way to build http requests.
+*   [ivar (⭐16)](https://github.com/swelham/ivar) - A lightweight wrapper around HTTPoison that provides a fluent and composable way to build http requests.
 
 ### ORM and Datamapping
 

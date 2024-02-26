@@ -40,7 +40,7 @@
 
 ### Scripting
 
-*   [ChaiScript (⭐2.8k)](https://github.com/ChaiScript/ChaiScript/) - An easy to use embedded scripting language for C++. \[BSD] [website](http://chaiscript.com/)
+*   [ChaiScript (⭐2.9k)](https://github.com/ChaiScript/ChaiScript/) - An easy to use embedded scripting language for C++. \[BSD] [website](http://chaiscript.com/)
 *   [Lua](http://www.lua.org/) - A minimal and fast scripting engine for configuration files and basic application scripting. \[MIT]
 *   [luacxx (⭐155)](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings. \[MIT]
 

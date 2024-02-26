@@ -119,7 +119,7 @@
 
 ### Editable data grid / spreadsheet
 
-*   [gigatables-react (⭐140)](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
+*   [gigatables-react (⭐141)](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
 *   [react-data-grid (⭐6.5k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
 
 ### Menu
@@ -132,19 +132,19 @@
 
 ### Chart
 
-*   [rumble-charts (⭐346)](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
+*   [rumble-charts (⭐345)](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
 
 ### Audio / Video
 
-*   [react-player (⭐8.6k)](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
+*   [react-player (⭐8.7k)](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
 
 ### Time / Date / Age
 
-*   [timeago-react (⭐413)](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
+*   [timeago-react (⭐415)](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
 
 ### Miscellaneous
 
-*   [react-file-reader-input (⭐115)](https://github.com/ngokevin/react-file-reader-input) - File input component for control for file reading styling and abstraction.
+*   [react-file-reader-input (⭐116)](https://github.com/ngokevin/react-file-reader-input) - File input component for control for file reading styling and abstraction.
 
 ### Form Components / Date / Time picker
 
@@ -152,7 +152,7 @@
 
 ### Form Components / Sortable List
 
-*   [react-anything-sortable (⭐459)](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility.
+*   [react-anything-sortable (⭐460)](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility.
 
 ### Form Components / Image Editing
 
@@ -204,16 +204,16 @@
 
 ### Framework bindings / integrations / Mouse Events
 
-*   [backbone-react-component (⭐812)](https://github.com/magalhas/backbone-react-component) - A bit of nifty glue that automatically plugs your Backbone models.
+*   [backbone-react-component (⭐811)](https://github.com/magalhas/backbone-react-component) - A bit of nifty glue that automatically plugs your Backbone models.
 *   [gl-react (⭐265)](https://github.com/ProjectSeptemberInc/gl-react) - OpenGL / WebGL bindings for React to implement complex effects over images and content.
 
 ### UI / Mouse Events
 
-*   [react-static-container (⭐222)](https://github.com/reactjs/react-static-container) - Renders static content efficiently.
+*   [react-static-container (⭐221)](https://github.com/reactjs/react-static-container) - Renders static content efficiently.
 
 ### App Size / Lazy Load
 
-*   [babel-plugin-transform-react-remove-prop-types (⭐898)](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
+*   [babel-plugin-transform-react-remove-prop-types (⭐899)](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
 
 ### Test / Lazy Load
 
@@ -221,7 +221,7 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [jsonx (⭐164)](https://github.com/repetere/jsonx) - React JSON Syntax.
+*   [jsonx (⭐165)](https://github.com/repetere/jsonx) - React JSON Syntax.
 
 ---
 

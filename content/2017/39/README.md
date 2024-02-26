@@ -96,7 +96,7 @@
 
 ### Apps / StreamField
 
-*   [wagtail-inventory (⭐58)](https://github.com/cfpb/wagtail-inventory) - Search Wagtail pages by the StreamField blocks they contain.
+*   [wagtail-inventory (⭐57)](https://github.com/cfpb/wagtail-inventory) - Search Wagtail pages by the StreamField blocks they contain.
 
 ## [9. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -236,7 +236,7 @@
 
 ### 2017 / Book/monograph Lists and Reviews
 
-*   [awesome-rshiny (⭐766)](https://github.com/grabear/awesome-rshiny)
+*   [awesome-rshiny (⭐769)](https://github.com/grabear/awesome-rshiny)
 
 ## [24. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
@@ -489,7 +489,7 @@
 
 ### CLI Utilities
 
-*   [TablePrint (⭐893)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
+*   [TablePrint (⭐892)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
 
 ## [43. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 

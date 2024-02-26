@@ -10,21 +10,21 @@
 
 ### Serverless Computing
 
-*   [crystal\_openfaas (⭐23)](https://github.com/TPei/crystal_openfaas/) - Template to enable crystal as first class citizens in OpenFaaS
+*   [crystal\_openfaas (⭐22)](https://github.com/TPei/crystal_openfaas/) - Template to enable crystal as first class citizens in OpenFaaS
 
 ### Official Documentation Translations
 
-*   [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub (⭐37)](https://github.com/mamantoha/shards-info)
+*   [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub (⭐38)](https://github.com/mamantoha/shards-info)
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Cryptography
 
-*   [libhydrogen (⭐558)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
+*   [libhydrogen (⭐565)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
 
 ### Serialization
 
-*   [YAS (⭐706)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
+*   [YAS (⭐710)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
 
 ## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Other Tools / Telegram
 
-*   [Zen (⭐512)](https://github.com/s0md3v/Zen) - Find email addresses of Github users
+*   [Zen (⭐522)](https://github.com/s0md3v/Zen) - Find email addresses of Github users
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 

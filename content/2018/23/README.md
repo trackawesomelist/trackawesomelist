@@ -76,7 +76,7 @@
 
 ### Other Tools / Telegram
 
-*   [The Harvester (⭐9.2k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
+*   [The Harvester (⭐9.9k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 
 ## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -749,7 +749,7 @@
 
 ### Shell Package Management / Directory Navigation
 
-*   [shallow-backup (⭐1.1k)](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more
+*   [shallow-backup (⭐1.2k)](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more
 
 ## [56. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 

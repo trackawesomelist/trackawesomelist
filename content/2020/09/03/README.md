@@ -56,7 +56,7 @@
 
 ### Machine Learning
 
-*   [MindsDB (⭐17k)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
+*   [MindsDB (⭐20k)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
 
 ### Miscellaneous
 

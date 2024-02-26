@@ -38,7 +38,7 @@
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
-*   [reader (⭐393)](https://github.com/lemon24/reader): a Python feed reader library and web app [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lemon24/reader)
+*   [reader (⭐397)](https://github.com/lemon24/reader): a Python feed reader library and web app [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lemon24/reader)
 
 ## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

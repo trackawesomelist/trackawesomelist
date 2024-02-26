@@ -28,7 +28,7 @@
 
 ### R Development
 
-*   [drat (⭐151)](https://github.com/eddelbuettel/drat) - Creation and use of R repositories on GitHub or other repos.
+*   [drat (⭐150)](https://github.com/eddelbuettel/drat) - Creation and use of R repositories on GitHub or other repos.
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 

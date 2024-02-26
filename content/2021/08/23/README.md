@@ -197,7 +197,7 @@
 
 ### Applications / Video
 
-*   [harlanc/xiu (⭐1.3k)](https://github.com/harlanc/xiu) — A powerful and secure live server by pure rust (rtmp/httpflv/hls/relay). [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
+*   [harlanc/xiu (⭐1.3k)](https://github.com/harlanc/xiu) — A powerful and secure live server (rtmp/httpflv/hls/relay). [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
 
 ## [10. Awesome Security](/content/sbilly/awesome-security/README.md)
 

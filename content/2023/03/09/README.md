@@ -130,13 +130,13 @@
 
 ### Robotics
 
-*   [Ruckig (⭐561)](https://github.com/pantor/ruckig) - Real-time motion generation for robots and machines. \[MIT] [website](https://ruckig.com)
+*   [Ruckig (⭐564)](https://github.com/pantor/ruckig) - Real-time motion generation for robots and machines. \[MIT] [website](https://ruckig.com)
 
 ## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Utilities
 
-*   [Epic Asset Manager (⭐313)](https://github.com/AchetaGames/Epic-Asset-Manager) — An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
+*   [Epic Asset Manager (⭐320)](https://github.com/AchetaGames/Epic-Asset-Manager) — An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
 
 ## [10. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 

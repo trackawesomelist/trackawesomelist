@@ -2,9 +2,21 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 721 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 742 · 🏷️ Business
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
+
+## [Feb 26, 2024](/content/2024/02/26/README.md)
+
+### Testing
+
+*   [Apidog](https://apidog.com/) - GUI tool for API mocking, testing (scenario testing, functional testing, performance testing, etc.).
+
+## [Feb 23, 2024](/content/2024/02/23/README.md)
+
+### Media
+
+*   [Flatfile](https://flatfile.com/) - Programmatically import data from files so it's API-ready.
 
 ## [Feb 15, 2024](/content/2024/02/15/README.md)
 
@@ -96,7 +108,7 @@ A curated list of awesome developer-first tools products.
 
 ### Natural Language Processing
 
-*   [CometLLM (⭐355)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
+*   [CometLLM (⭐362)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
 
 ## [Sep 18, 2023](/content/2023/09/18/README.md)
 

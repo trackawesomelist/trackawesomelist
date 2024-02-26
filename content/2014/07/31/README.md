@@ -18,7 +18,7 @@
 *   [rJython](http://cran.r-project.org/web/packages/rJython/index.html) - R interface to Python via Jython.
 *   [rPython](http://cran.r-project.org/web/packages/rPython/index.html) - Package allowing R to call Python.
 *   [runr (⭐85)](https://github.com/yihui/runr) - Run Julia and Bash from R.
-*   [RJulia (⭐143)](https://github.com/armgong/RJulia) - R package Call Julia.
+*   [RJulia (⭐142)](https://github.com/armgong/RJulia) - R package Call Julia.
 *   [R.matlab](http://cran.r-project.org/web/packages/R.matlab/index.html) - Read and write of MAT files together with R-to-MATLAB connectivity.
 *   [RSPerl](http://www.omegahat.org/RSPerl/) - A bidirectional interface for calling R from Perl and Perl from R.
 

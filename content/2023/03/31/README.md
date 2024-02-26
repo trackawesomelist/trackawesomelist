@@ -39,7 +39,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [haiku (⭐1)](https://github.com/alesr/oh-my-zsh-haiku-plugin) - Prints a haiku promoting work-life balance and stress management once every 24 hours when the terminal is open.
-*   [ranger (⭐4)](https://github.com/rc2dev/ranger-zshz) - Integrates [zsh-z (⭐1.8k)](https://github.com/agkozak/zsh-z) into [ranger (⭐14k)](https://github.com/ranger/ranger).
+*   [ranger (⭐4)](https://github.com/rc2dev/ranger-zshz) - Integrates [zsh-z (⭐1.8k)](https://github.com/agkozak/zsh-z) into [ranger (⭐15k)](https://github.com/ranger/ranger).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

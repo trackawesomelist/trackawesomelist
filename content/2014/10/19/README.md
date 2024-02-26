@@ -23,7 +23,7 @@
 
 ### Testing
 
-*   [meck (⭐797)](https://github.com/eproxus/meck) - A mocking library for Erlang.
+*   [meck (⭐801)](https://github.com/eproxus/meck) - A mocking library for Erlang.
 
 ### Websites
 

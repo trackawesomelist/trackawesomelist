@@ -21,7 +21,7 @@
 
 ### Applications
 
-*   [doprz/dipc (⭐150)](https://github.com/doprz/dipc) — Convert your favorite images and wallpapers with your favorite color palettes/themes [![crates.io](https://img.shields.io/crates/v/dipc)](https://crates.io/crates/dipc)
+*   [doprz/dipc (⭐153)](https://github.com/doprz/dipc) — Convert your favorite images and wallpapers with your favorite color palettes/themes [![crates.io](https://img.shields.io/crates/v/dipc)](https://crates.io/crates/dipc)
 
 ### Development tools / Web Servers
 
@@ -34,7 +34,7 @@
 ### Libraries / Compression
 
 *   [7z](https://7-zip.org/7z.html)
-    *   [dyz1990/sevenz-rust (⭐108)](https://github.com/dyz1990/sevenz-rust) \[[sevenz-rust](https://crates.io/crates/sevenz-rust)] — A 7z decompressor/compressor written in pure rust. [![Rust](https://github.com/dyz1990/sevenz-rust/workflows/Rust/badge.svg?branch=main)](https://github.com/dyz1990/sevenz-rust/actions)
+    *   [dyz1990/sevenz-rust (⭐112)](https://github.com/dyz1990/sevenz-rust) \[[sevenz-rust](https://crates.io/crates/sevenz-rust)] — A 7z decompressor/compressor written in pure rust. [![Rust](https://github.com/dyz1990/sevenz-rust/workflows/Rust/badge.svg?branch=main)](https://github.com/dyz1990/sevenz-rust/actions)
 
 ### Libraries / Cryptography
 
@@ -46,7 +46,7 @@
 
 ### Libraries / Graph algorithms
 
-*   [neo4j-labs/graph (⭐344)](https://github.com/neo4j-labs/graph) - A library for high-performant graph algorithms [![graph CI status](https://img.shields.io/github/workflow/status/neo4j-labs/graph/CI/main?label=CI)](https://github.com/neo4j-labs/graph/actions/workflows/rust.yml)
+*   [neo4j-labs/graph (⭐343)](https://github.com/neo4j-labs/graph) - A library for high-performant graph algorithms [![graph CI status](https://img.shields.io/github/workflow/status/neo4j-labs/graph/CI/main?label=CI)](https://github.com/neo4j-labs/graph/actions/workflows/rust.yml)
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Importality (⭐237)](https://github.com/nklbdev/godot-4-importality) - raster graphics and animations importers: Aseprite, Krita, Pencil2D, Piskel, Pixelorama and others (Godot 4.x).
+*   [Importality (⭐243)](https://github.com/nklbdev/godot-4-importality) - raster graphics and animations importers: Aseprite, Krita, Pencil2D, Piskel, Pixelorama and others (Godot 4.x).
 
 ## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

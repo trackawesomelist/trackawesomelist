@@ -18,21 +18,21 @@
 *   [lamba92/KGraph (⭐16)](https://github.com/lamba92/KGraph) - A Kotlin multi-platform library for graph data structures
 *   [grinisrit/noa-atra (⭐26)](https://github.com/grinisrit/noa-atra) - Analytics for Trading with NOA
 *   [holgerbrandl/kalasim](https://www.kalasim.org) - Discrete event simulator that enables complex, dynamic process models.
-*   [breandan/kaliningraph (⭐99)](https://github.com/breandan/kaliningraph) - 🕸️ Graphs, finite fields and discrete dynamical systems in Kotlin
+*   [breandan/kaliningraph (⭐100)](https://github.com/breandan/kaliningraph) - 🕸️ Graphs, finite fields and discrete dynamical systems in Kotlin
 *   [MarcinMoskala/KotlinDiscreteMathToolkit (⭐181)](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete Math functionalities as an Kotlin extension functions.
 *   [kyonifer/koma (⭐270)](https://github.com/kyonifer/koma) - A scientific computing library for Kotlin.
-*   [JetBrains/lets-plot-kotlin (⭐387)](https://github.com/JetBrains/lets-plot-kotlin) - Grammar of graphics visualization for Kotlin
-*   [mipt-npm/kmath (⭐599)](https://github.com/mipt-npm/kmath) - A (not so numpy-like) multiplatform mathematical library with higher level abstractions.
-*   [Kotlin/dataframe (⭐644)](https://github.com/Kotlin/dataframe) - A Kotlin library for in-memory data manipulation
+*   [JetBrains/lets-plot-kotlin (⭐390)](https://github.com/JetBrains/lets-plot-kotlin) - Grammar of graphics visualization for Kotlin
+*   [mipt-npm/kmath (⭐600)](https://github.com/mipt-npm/kmath) - A (not so numpy-like) multiplatform mathematical library with higher level abstractions.
+*   [Kotlin/dataframe (⭐661)](https://github.com/Kotlin/dataframe) - A Kotlin library for in-memory data manipulation
 *   [Kotlin/kotlin-jupyter (⭐1k)](https://github.com/Kotlin/kotlin-jupyter) - Official Kotlin Jupyter kernel
 
 ### Libraries/Frameworks / API Clients
 
-*   [awslabs/aws-sdk-kotlin (⭐351)](https://github.com/awslabs/aws-sdk-kotlin) - Multiplatform AWS SDK for Kotlin
+*   [awslabs/aws-sdk-kotlin (⭐354)](https://github.com/awslabs/aws-sdk-kotlin) - Multiplatform AWS SDK for Kotlin
 
 ### Libraries/Frameworks / Jetpack-Compose
 
-*   [CuriousNikhil/compose-particle-system (⭐65)](https://github.com/CuriousNikhil/compose-particle-system) - A lightweight particle system for Jetpack Compose - Quarks
+*   [CuriousNikhil/compose-particle-system (⭐66)](https://github.com/CuriousNikhil/compose-particle-system) - A lightweight particle system for Jetpack Compose - Quarks
 
 ### Projects / Idea Plugins
 
@@ -52,7 +52,7 @@
 
 ### Software / Monitoring
 
-*   [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code (⭐1.2k)](https://github.com/Checkmk/checkmk)) `GPL-2.0` `Python/PHP`
+*   [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code (⭐1.3k)](https://github.com/Checkmk/checkmk)) `GPL-2.0` `Python/PHP`
 
 ## [4. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [wsl-notify (⭐0)](https://github.com/masonc15/wsl-notify-zsh) - Uses [wsl-notify-send (⭐99)](https://github.com/stuartleeks/wsl-notify-send) to notify when a command takes longer than 15 seconds. Windows-only.
+*   [wsl-notify (⭐0)](https://github.com/masonc15/wsl-notify-zsh) - Uses [wsl-notify-send (⭐101)](https://github.com/stuartleeks/wsl-notify-send) to notify when a command takes longer than 15 seconds. Windows-only.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

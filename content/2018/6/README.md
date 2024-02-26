@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 05 - Feb 11, 2018
 
-49 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -527,7 +527,7 @@ Webpage: <https://edinburghhacklab.com/>
 ### Database
 
 *   [SQLiteC++ (⭐2k)](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. \[MIT]
-*   [sqlite\_modern\_cpp (⭐839)](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. \[MIT]
+*   [sqlite\_modern\_cpp (⭐841)](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. \[MIT]
 
 ## [39. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
@@ -542,19 +542,13 @@ Webpage: <https://edinburghhacklab.com/>
 *   [Preact Animate On Change (⭐17)](https://github.com/Sobesednik/preact-animate-on-change) - Add CSS3 animation when properties change.
 *   [Preact Async Route (⭐138)](https://github.com/prateekbh/preact-async-route) - Async route component for preact-router.
 
-## [41. Awesome Python](/content/vinta/awesome-python/week/README.md)
-
-### Implementations
-
-*   [Numba](http://numba.pydata.org/) - Python JIT compiler to LLVM aimed at scientific Python.
-
-## [42. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [41. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Utility / Collection View Layout
 
 *   [MKUnits (⭐342)](https://github.com/michalkonturek/MKUnits) - Unit conversion library for Swift.
 
-## [43. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [42. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@ariya](https://github.com/ariya), [PhantomJS (⭐29k)](https://github.com/ariya/phantomjs)
     *   "Maintainer Stories: Ariya Hidayat" ([interview](https://github.com/open-source/stories/ariya))
@@ -607,25 +601,25 @@ Webpage: <https://edinburghhacklab.com/>
 *   [@timgraham](https://github.com/timgraham), [Django](https://www.djangoproject.com/)
     *   "Maintainer Stories: Tim Graham" ([interview](https://github.com/open-source/stories/timgraham))
 
-## [44. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [43. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Examples / Templates
 
 *   [cpp-boilerplate (⭐271)](https://github.com/Lectem/cpp-boilerplate) - Template that aims to be a reference for modern CMake and CI. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [45. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [44. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Debugging
 
 *   [packed-printer (⭐37)](https://github.com/cgrand/packed-printer)
 
-## [46. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [45. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Frameworks
 
 *   [Coach - Reinforcement Learning Coach by Intel® AI Lab (⭐2.2k)](https://github.com/NervanaSystems/coach)
 
-## [47. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [46. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### API Gateway / Symfony2
 
@@ -637,13 +631,13 @@ Webpage: <https://edinburghhacklab.com/>
 
 *   [3scale](https://www.3scale.net/) - Nginx based API gateway to integrate internal and external API services with 3scale's API Management Platform.
 
-## [48. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [47. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Development Tools
 
 *   [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/) - Embedded, scalable, functional programming language for quantum computing.
 
-## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 

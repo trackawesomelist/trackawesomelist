@@ -28,7 +28,7 @@
 
 ### PDF
 
-*   [pdf2htmlex (⭐85)](https://github.com/ricn/pdf2htmlex) - Convert PDF docs to beautiful HTML files without losing text or format.
+*   [pdf2htmlex (⭐84)](https://github.com/ricn/pdf2htmlex) - Convert PDF docs to beautiful HTML files without losing text or format.
 
 ## [4. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

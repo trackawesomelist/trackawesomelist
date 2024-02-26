@@ -28,7 +28,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [Trendyol/stove4k (⭐94)](https://github.com/Trendyol/stove4k) - The easiest way of writing e2e tests for your back-end API with all physical dependencies in Kotlin.
+*   [Trendyol/stove4k (⭐95)](https://github.com/Trendyol/stove4k) - The easiest way of writing e2e tests for your back-end API with all physical dependencies in Kotlin.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -69,11 +69,11 @@
 
 ### Software / Booking and Scheduling
 
-*   [Seatsurfing](https://seatsurfing.app/) - Webbased app to book seats, desks and rooms for offices. ([Demo](https://seatsurfing.app/get-started/), [Source Code (⭐65)](https://github.com/seatsurfing/backend)) `GPL-3.0` `Docker`
+*   [Seatsurfing](https://seatsurfing.app/) - Webbased app to book seats, desks and rooms for offices. ([Demo](https://seatsurfing.app/get-started/), [Source Code (⭐71)](https://github.com/seatsurfing/backend)) `GPL-3.0` `Docker`
 
 ### Software / Money, Budgeting & Management
 
-*   [Actual](https://actualbudget.github.io/docs/) - Actual is a local-first personal finance tool based on zero-sum budgeting. It support synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code (⭐2.3k)](https://github.com/actualbudget/actual-server)) `MIT` `Nodejs/Docker`
+*   [Actual](https://actualbudget.github.io/docs/) - Actual is a local-first personal finance tool based on zero-sum budgeting. It support synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code (⭐2.4k)](https://github.com/actualbudget/actual-server)) `MIT` `Nodejs/Docker`
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

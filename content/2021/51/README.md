@@ -472,7 +472,7 @@
 
 ### Crates / Hooks
 
-*   [yew-hooks (⭐157)](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use (⭐39k)](https://github.com/streamich/react-use) and [alibaba/hooks (⭐13k)](https://github.com/alibaba/hooks).
+*   [yew-hooks (⭐157)](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use (⭐40k)](https://github.com/streamich/react-use) and [alibaba/hooks (⭐13k)](https://github.com/alibaba/hooks).
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -652,7 +652,7 @@
 ### Plugins and scripts / Godot 3.2+
 
 *   [Debanding Material Shader (⭐29)](https://github.com/fractilegames/godot-gles2-debanding-material) - Simple material shader with added debanding noise, for use with the GLES2 renderer as it doesn't support full-screen debanding.
-*   [Dijkstra map for Godot (⭐71)](https://github.com/MatejSloboda/Dijkstra_map_for_Godot) - A GDNative project for Godot game engine, that introduces Dijktra Map pathfinding node.
+*   [Dijkstra map for Godot (⭐72)](https://github.com/MatejSloboda/Dijkstra_map_for_Godot) - A GDNative project for Godot game engine, that introduces Dijktra Map pathfinding node.
 *   [Discord.gd (⭐102)](https://github.com/3ddelano/discord.gd) - Discord bot API wrapper. Make bots in 100% GDScript.
 
 ## [22. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
@@ -905,7 +905,7 @@
 ### Libraries/Frameworks / Database
 
 *   [darkredz/Zeko-SQL-Builder (⭐97)](https://github.com/darkredz/Zeko-SQL-Builder) - Zeko SQL Builder is a high-performance lightweight SQL query library written for Kotlin language
-*   [TouK/krush (⭐245)](https://github.com/TouK/krush) - Idiomatic persistence layer for Kotlin, based on Exposed. It’s based on a compile-time JPA annotation processor that generates Exposed DSL table and objects mappings from your data classes.
+*   [TouK/krush (⭐247)](https://github.com/TouK/krush) - Idiomatic persistence layer for Kotlin, based on Exposed. It’s based on a compile-time JPA annotation processor that generates Exposed DSL table and objects mappings from your data classes.
 
 ### Libraries/Frameworks / Misc
 
@@ -931,7 +931,7 @@
 
 ### Applications / Database
 
-*   [vorot93/libmdbx-rs (⭐73)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Rust bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
+*   [vorot93/libmdbx-rs (⭐73)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
 
 ## [41. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -989,9 +989,9 @@
 
 *   Technical Papers
     *   [Polkadot Lightpaper](https://polkadot.network/Polkadot-lightpaper.pdf)
-    *   [Polkadot: Vision for a heterogeneous multi-chain framework (⭐189)](https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf)
+    *   [Polkadot: Vision for a heterogeneous multi-chain framework (⭐190)](https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf)
     *   [Overview of Polkadot and its Design Considerations](https://arxiv.org/abs/2005.13456.pdf)
-        *   [Chinese Translation (⭐32)](https://github.com/AmadeusGB/Overview-of-Polkadot) (by community)
+        *   [Chinese Translation (⭐33)](https://github.com/AmadeusGB/Overview-of-Polkadot) (by community)
 
 ## [49. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 

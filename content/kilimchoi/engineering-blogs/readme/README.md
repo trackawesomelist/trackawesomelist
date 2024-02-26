@@ -2,7 +2,7 @@
 
 A curated list of engineering blogs
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/kilimchoi/engineering-blogs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) · ⭐ 22K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/kilimchoi/engineering-blogs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) · ⭐ 29K · 🏷️ Miscellaneous
 
 [ [Daily](/content/kilimchoi/engineering-blogs/README.md) / [Weekly](/content/kilimchoi/engineering-blogs/week/README.md) / Overview ]
 
@@ -292,6 +292,7 @@ A curated list of engineering blogs
 
 #### P companies
 
+*   Palantir <https://blog.palantir.com/>
 *   Panorama Education <http://engineering.panoramaed.com/>
 *   Paperless Post <https://www.paperlesspost.com/blog/teams/tech/>
 *   Paypal <https://www.paypal-engineering.com/>

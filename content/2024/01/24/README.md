@@ -31,7 +31,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Mattermost](https://mattermost.com/) - Platform for secure collaboration across the entire software development lifecycle, can be integrated with Gitlab (alternative to Slack). ([Source Code (⭐27k)](https://github.com/mattermost/mattermost)) `AGPL-3.0/Apache-2.0` `Go/Docker/K8S`
+*   [Mattermost](https://mattermost.com/) - Platform for secure collaboration across the entire software development lifecycle, can be integrated with Gitlab (alternative to Slack). ([Source Code (⭐28k)](https://github.com/mattermost/mattermost)) `AGPL-3.0/Apache-2.0` `Go/Docker/K8S`
 
 ## [4. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 

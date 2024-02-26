@@ -94,7 +94,7 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 ### Database
 
-*   [Speedb (⭐712)](https://github.com/speedb-io/speedb) - Community-led project: A RocksDB compliant high performance scalable embedded key-value store. \[Apache2]
+*   [Speedb (⭐724)](https://github.com/speedb-io/speedb) - Community-led project: A RocksDB compliant high performance scalable embedded key-value store. \[Apache2]
 
 ## [6. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 

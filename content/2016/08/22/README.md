@@ -22,7 +22,7 @@
 
 ### Libraries
 
-*   [js-joda (⭐1.5k)](https://github.com/js-joda/js-joda) – An immutable date and time library that provides a simple, domain-driven and clean API based on the ISO8601 calendar.
+*   [js-joda (⭐1.6k)](https://github.com/js-joda/js-joda) – An immutable date and time library that provides a simple, domain-driven and clean API based on the ISO8601 calendar.
 
 ### Resources / Books
 

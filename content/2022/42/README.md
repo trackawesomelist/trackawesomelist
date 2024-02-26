@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 17 - Oct 23, 2022
 
-55 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -112,7 +112,7 @@
 
 ### Design and Product / Design Tools
 
-*   [System Color Picker (⭐957)](https://github.com/sindresorhus/System-Color-Picker) - The macOS color picker as an app with more features. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sindresorhus/System-Color-Picker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1545870783)
+*   [System Color Picker (⭐974)](https://github.com/sindresorhus/System-Color-Picker) - The macOS color picker as an app with more features. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sindresorhus/System-Color-Picker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1545870783)
 
 ### Design and Product / Other Tools
 
@@ -124,8 +124,8 @@
 
 ### QuickLook Plugins / System Related Tools
 
-*   [QLMarkdown (⭐1k)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
-*   [Syntax Highlight (⭐2.5k)](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
+*   [QLMarkdown (⭐1.1k)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
+*   [Syntax Highlight (⭐2.6k)](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 
 ## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -177,37 +177,37 @@
 
 GitHub provides a page that only shows diffs with a .diff at the end of the URL of the pull request. This browser extension makes it easier to view csv diffs by using daff on that page.
 
-Installs: 34 | Stars: 4 | Last update: 18 Apr 2021
+Installs: 34 | Stars: 4 | Last update: n/a
 ### [Isometric Contributions (⭐3.4k)](https://github.com/jasonlong/isometric-contributions) <a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
 
-Installs: 10000 | Stars: 3429 | Last update: 19 Nov 2023
+Installs: 10000 | Stars: 3430 | Last update: n/a
 ### [Module Linker (⭐248)](https://github.com/fiatjaf/module-linker) <a href="https://addons.mozilla.org/firefox/addon/module-linker/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 An extension that creates direct links to imported modules, external or internal, on source code on GitHub. Supports multiple languages, including common ones like Rust, Go, Python and Ruby, but also odd ones like Nim, Haskell, Julia and Elm.
 
-Installs: 41 | Stars: 249 | Last update: 27 Nov 2019
+Installs: 40 | Stars: 249 | Last update: 27 Nov 2019
 ### [Old School GitHub (⭐221)](https://github.com/daattali/oldschool-github-extension) <a href="https://chrome.google.com/webstore/detail/old-school-github/blkkkhifjoiedclojflfcenbjigdajeb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/addon/old-school-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Revert GitHub's UI back to its classic look (before the June 23, 2020 update that has a flat, rounded and more whitespaced design).
 
-Installs: 398 | Stars: 221 | Last update: 30 Apr 2023
+Installs: 68 | Stars: 224 | Last update: 6 Aug 2021
 ### [Open GitHub file links in IDE (⭐66)](https://github.com/lmichelin/open-github-links-in-ide) <a href="https://chrome.google.com/webstore/detail/open-github-in-ide/bmifnnfmccmleigpaolofacllndmfned"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/open-github-in-ide/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 This browser extension allows you to open files in your IDE directly from GitHub, assuming the repository you are working on is cloned on your computer. When a fragment of a file is displayed, your IDE opens the file and puts the cursor at the desired line.
 
-Installs: 1048 | Stars: 66 | Last update: 23 Sep 2023
+Installs: 43 | Stars: 68 | Last update: 23 Sep 2023
 ### [Semantic Code Reviews](https://reviewpad.com) <a href="https://chrome.google.com/webstore/detail/semantic-code-reviews/dclabbgfnbmjodobfdhindnleidefmda"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Introduces the Explore tab in the pull request interface where you can review changes ordered by importance and see the semantic context surrounding each change.
 
-Installs: 36 | Stars: n/a | Last update: 10 Aug 2020
+Installs: 36 | Stars: n/a | Last update: n/a
 ### [ZenHub](https://www.zenhub.com/) <a href="https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://www.zenhub.com/extension"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 ZenHub is the first and only project management suite that works natively within GitHub; enhancing your workflow with features built specifically for startups, fast-moving engineering teams, and the open-source community. The product is a browser extension that injects advanced functionality including real-time drag-and-drop Issue Task Boards, peer feedback via a +1 button, and support for uploading any file type directly into the GitHub interface. ZenHub makes it easy to centralize all processes into GitHub, keeping your team lean and agile.
 
-Installs: 70000 | Stars: n/a | Last update: 6 Feb 2024
+Installs: 70000 | Stars: n/a | Last update: n/a
 
 ## [17. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
@@ -219,7 +219,7 @@ Installs: 70000 | Stars: n/a | Last update: 6 Feb 2024
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [sujit-baniya/goravel (⭐11)](https://github.com/sujit-baniya/goravel) - Laravel similar boilerplate go Go with support for Gofiber or Gin.
+*   [sujit-baniya/goravel (⭐14)](https://github.com/sujit-baniya/goravel) - Laravel similar boilerplate go Go with support for Gofiber or Gin.
 
 ## [19. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -273,7 +273,7 @@ Installs: 70000 | Stars: n/a | Last update: 6 Feb 2024
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [normanius (⭐0)](https://github.com/normanius/normanius-zsh-theme) - Derived from [bira (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme). Includes decorators for `git` status, `user@host`, python `virtualenv`, and ruby `rvm` version.
+*   [normanius (⭐0)](https://github.com/normanius/normanius-zsh-theme) - Derived from [bira (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme). Includes decorators for `git` status, `user@host`, python `virtualenv`, and ruby `rvm` version.
 
 ## [25. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
@@ -402,7 +402,7 @@ Installs: 70000 | Stars: n/a | Last update: 6 Feb 2024
 
 ### Third-party APIs
 
-*   [whatsapp-sdk (⭐124)](https://github.com/ignacio-chiazzo/ruby_whatsapp_sdk) - Ruby client for the Whatsapp API.
+*   [whatsapp-sdk (⭐134)](https://github.com/ignacio-chiazzo/ruby_whatsapp_sdk) - Ruby client for the Whatsapp API.
 
 ## [33. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
@@ -451,19 +451,19 @@ Installs: 70000 | Stars: n/a | Last update: 6 Feb 2024
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Uploady (⭐62)](https://github.com/farisc0de/Uploady) - Uploady is a simple file uploader script with multi file upload support. `MIT` `PHP`
+*   [Uploady (⭐67)](https://github.com/farisc0de/Uploady) - Uploady is a simple file uploader script with multi file upload support. `MIT` `PHP`
 
 ### Software / Miscellaneous
 
-*   [Lama-Cleaner (⭐15k)](https://github.com/Sanster/lama-cleaner) `⚠` - A free and open-source inpainting tool powered by SOTA AI model. `Apache-2.0` `Python/Docker`
+*   [Lama-Cleaner (⭐16k)](https://github.com/Sanster/lama-cleaner) `⚠` - A free and open-source inpainting tool powered by SOTA AI model. `Apache-2.0` `Python/Docker`
 
 ### Software / Personal Dashboards
 
-*   [Homepage by tomershvueli (⭐300)](https://github.com/tomershvueli/homepage) - Simple, standalone, self-hosted PHP page that is your window to your server and the web. `MIT` `PHP`
+*   [Homepage by tomershvueli (⭐299)](https://github.com/tomershvueli/homepage) - Simple, standalone, self-hosted PHP page that is your window to your server and the web. `MIT` `PHP`
 
 ### Software / Video Surveillance
 
-*   [Frigate](https://frigate.video/) - Monitor your security cameras with locally processed AI. ([Source Code (⭐13k)](https://github.com/blakeblackshear/frigate)) `MIT` `Docker/Python/Nodejs`
+*   [Frigate](https://frigate.video/) - Monitor your security cameras with locally processed AI. ([Source Code (⭐14k)](https://github.com/blakeblackshear/frigate)) `MIT` `Docker/Python/Nodejs`
 
 ## [37. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
@@ -508,7 +508,7 @@ Installs: 70000 | Stars: n/a | Last update: 6 Feb 2024
 
 ### Prompt Engineering / Prompt Engineering for Text-to-image
 
-*   [some9000/StylePile (⭐560)](https://github.com/some9000/StylePile): A helper script for AUTOMATIC1111/stable-diffusion-webui. Basically a mix and match to quickly get different results without wasting a lot of time writing prompts.
+*   [some9000/StylePile (⭐563)](https://github.com/some9000/StylePile): A helper script for AUTOMATIC1111/stable-diffusion-webui. Basically a mix and match to quickly get different results without wasting a lot of time writing prompts.
 *   [Artists To Study | All images generated with Google Colab TPUs + CompVis/stable-diffusion-v1-4 + Huggingface Diffusers](https://artiststostudy.pages.dev/): a systematic study of artists' styles made by [@camenduru](https://twitter.com/camenduru)
 
 ### Inbox: Stable Diffusion / Web UI for Stable Diffusion via Google Colab
@@ -523,7 +523,7 @@ Installs: 70000 | Stars: n/a | Last update: 6 Feb 2024
 
 ### JSON
 
-*   [Glaze (⭐782)](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++. \[MIT]
+*   [Glaze (⭐812)](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++. \[MIT]
 
 ## [42. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -538,14 +538,14 @@ Installs: 70000 | Stars: n/a | Last update: 6 Feb 2024
 ### Authentication and OAuth
 
 *   [authboss (⭐3.6k)](https://github.com/volatiletech/authboss) - Modular authentication system for the web. It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure it, and start building your app without having to build an authentication system each time.
-*   [casbin (⭐16k)](https://github.com/hsluoyz/casbin) - Authorization library that supports access control models like ACL, RBAC, and ABAC.
+*   [casbin (⭐17k)](https://github.com/hsluoyz/casbin) - Authorization library that supports access control models like ACL, RBAC, and ABAC.
 *   [cookiestxt (⭐12)](https://github.com/mengzhuo/cookiestxt) - provides a parser of cookies.txt file format.
-*   [go-guardian (⭐514)](https://github.com/shaj13/go-guardian) - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication that supports LDAP, Basic, Bearer token, and Certificate based authentication.
-*   [gosession (⭐122)](http://github.com/Kwynto/gosession) - This is quick session for net/http in GoLang. This package is perhaps the best implementation of the session mechanism, or at least it tries to become one.
+*   [go-guardian (⭐518)](https://github.com/shaj13/go-guardian) - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication that supports LDAP, Basic, Bearer token, and Certificate based authentication.
+*   [gosession (⭐132)](http://github.com/Kwynto/gosession) - This is quick session for net/http in GoLang. This package is perhaps the best implementation of the session mechanism, or at least it tries to become one.
 *   [jeff (⭐259)](https://github.com/abraithwaite/jeff) - Simple, flexible, secure, and idiomatic web session management with pluggable backends.
 *   [jwt (⭐635)](https://github.com/cristalhq/jwt) - Safe, simple, and fast JSON Web Tokens for Go.
-*   [oauth2 (⭐5k)](https://github.com/golang/oauth2) - Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine, and App Engine support.
-*   [permissions2 (⭐498)](https://github.com/xyproto/permissions2) - Library for keeping track of users, login states, and permissions. Uses secure cookies and bcrypt.
+*   [oauth2 (⭐5.1k)](https://github.com/golang/oauth2) - Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine, and App Engine support.
+*   [permissions2 (⭐499)](https://github.com/xyproto/permissions2) - Library for keeping track of users, login states, and permissions. Uses secure cookies and bcrypt.
 
 ### Bot Building
 
@@ -560,28 +560,28 @@ Installs: 70000 | Stars: n/a | Last update: 6 Feb 2024
 ### Advanced Console UIs
 
 *   [aurora (⭐1.4k)](https://github.com/logrusorgru/aurora) - ANSI terminal colors that support fmt.Printf/Sprintf.
-*   [simpletable (⭐501)](https://github.com/alexeyco/simpletable) - Simple tables in a terminal with Go.
+*   [simpletable (⭐505)](https://github.com/alexeyco/simpletable) - Simple tables in a terminal with Go.
 *   [uilive (⭐1.6k)](https://github.com/gosuri/uilive) - Library for updating terminal output in real time.
 
 ### Standard CLI
 
 *   [acmd (⭐106)](https://github.com/cristalhq/acmd) - Simple, useful, and opinionated CLI package in Go.
-*   [command-chain (⭐54)](https://github.com/rainu/go-command-chain) - A go library for configure and run command chains - such as pipelining in unix shells.
-*   [go-andotp (⭐25)](https://github.com/grijul/go-andotp) - A CLI program to encrypt/decrypt [andOTP (⭐3.7k)](https://github.com/andOTP/andOTP) files. Can be used as a library as well.
+*   [command-chain (⭐56)](https://github.com/rainu/go-command-chain) - A go library for configure and run command chains - such as pipelining in unix shells.
+*   [go-andotp (⭐26)](https://github.com/grijul/go-andotp) - A CLI program to encrypt/decrypt [andOTP (⭐3.7k)](https://github.com/andOTP/andOTP) files. Can be used as a library as well.
 *   [go-getoptions (⭐53)](https://github.com/DavidGamba/go-getoptions) - Go option parser inspired by the flexibility of Perl’s GetOpt::Long.
 *   [sflags (⭐148)](https://github.com/octago/sflags) - Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin, and other libraries.
-*   [wmenu (⭐209)](https://github.com/dixonwille/wmenu) - Easy to use menu structure for cli applications that prompt users to make choices.
+*   [wmenu (⭐208)](https://github.com/dixonwille/wmenu) - Easy to use menu structure for cli applications that prompt users to make choices.
 
 ## [44. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Book and web annotations/highlights management
 
-*   [Hypothesis (⭐2.8k)](https://github.com/hypothesis/h/) - Annotate the web, with anyone, anywhere.
-*   [Kobuddy (⭐123)](https://github.com/karlicoss/kobuddy) - Get your Kobo e-reader device bookmarks and annotations in a .txt file.
+*   [Hypothesis (⭐2.9k)](https://github.com/hypothesis/h/) - Annotate the web, with anyone, anywhere.
+*   [Kobuddy (⭐125)](https://github.com/karlicoss/kobuddy) - Get your Kobo e-reader device bookmarks and annotations in a .txt file.
 
 ### Notes and Tasks
 
-*   [SiYuan (⭐14k)](https://github.com/siyuan-note/siyuan) - A local-first personal knowledge management system.
+*   [SiYuan (⭐15k)](https://github.com/siyuan-note/siyuan) - A local-first personal knowledge management system.
 
 ### Desktop / Alternative clients/modifications of Discord:
 
@@ -635,7 +635,7 @@ Installs: 70000 | Stars: n/a | Last update: 6 Feb 2024
 
 ### Open Source Rails Apps / Other external resources
 
-*   [human-essentials (⭐406)](https://github.com/rubyforgood/human-essentials) - An inventory management system for essentials banks (using Rails 7.0). - [:earth\_africa:](https://humanessentials.app/)
+*   [human-essentials (⭐408)](https://github.com/rubyforgood/human-essentials) - An inventory management system for essentials banks (using Rails 7.0). - [:earth\_africa:](https://humanessentials.app/)
 
 ## [48. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
@@ -657,11 +657,11 @@ Installs: 70000 | Stars: n/a | Last update: 6 Feb 2024
 
 ### Changeset Tools / Web Services
 
-*   [osmcha](https://osmcha.org) - Detector for suspicious changesets. ([Source Code (⭐114)](https://github.com/mapbox/osmcha-frontend) / [Wiki](https://wiki.openstreetmap.org/wiki/OSMCha))
+*   [osmcha](https://osmcha.org) - Detector for suspicious changesets. ([Source Code (⭐118)](https://github.com/mapbox/osmcha-frontend) / [Wiki](https://wiki.openstreetmap.org/wiki/OSMCha))
 
 ### Public APIs / Java
 
-*   [OSMCha API](https://osmcha.org/api-docs/) - Powerful API that allows to query and retrieve changeset information. ([Source Code (⭐32)](https://github.com/willemarcel/osmcha-django))
+*   [OSMCha API](https://osmcha.org/api-docs/) - Powerful API that allows to query and retrieve changeset information. ([Source Code (⭐33)](https://github.com/willemarcel/osmcha-django))
 
 ## [51. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -671,7 +671,7 @@ Installs: 70000 | Stars: n/a | Last update: 6 Feb 2024
 
 ### Libraries/Frameworks / Game Development
 
-*   [littlektframework/littlekt (⭐247)](https://github.com/littlektframework/littlekt) - A Kotlin multiplatform 2D game development framework based on OpenGL that is inspired by libGDX and KorGE. Current platforms: JVM, Web, and Android.
+*   [littlektframework/littlekt (⭐253)](https://github.com/littlektframework/littlekt) - A Kotlin multiplatform 2D game development framework based on OpenGL that is inspired by libGDX and KorGE. Current platforms: JVM, Web, and Android.
 
 ### Libraries/Frameworks / Misc
 
@@ -687,7 +687,7 @@ Installs: 70000 | Stars: n/a | Last update: 6 Feb 2024
 
 ### Android / Libraries
 
-*   [andre-artus/AnvilKotlin (⭐15)](https://github.com/andre-artus/AnvilKotlin) - Minimal UI library for Android inspired by React.
+*   [andre-artus/AnvilKotlin (⭐16)](https://github.com/andre-artus/AnvilKotlin) - Minimal UI library for Android inspired by React.
 *   [mathcamp/fiberglass (⭐25)](https://github.com/mathcamp/fiberglass) - Easy lightweight SharedPreferences library for Android in Kotlin using delegated properties.
 *   [jupf/staticlog (⭐28)](https://github.com/jupf/staticlog) - StaticLog - super lightweight static logging for Kotlin, Java and Android.
 *   [SnowdreamFramework/ToyBricks (⭐33)](https://github.com/SnowdreamFramework/ToyBricks) - Android Library that provide simpler way to achieve modularity.
@@ -698,11 +698,11 @@ Installs: 70000 | Stars: n/a | Last update: 6 Feb 2024
 
 ### Templates / Vanilla
 
-*   [vite-tailwind-nojs-starter (⭐39)](https://github.com/kometolabs/vite-tailwind-nojs-starter) - NoJS Tailwind CSS starter template.
+*   [vite-tailwind-nojs-starter (⭐40)](https://github.com/kometolabs/vite-tailwind-nojs-starter) - NoJS Tailwind CSS starter template.
 
 ### Templates / Vue 3
 
-*   [vite-vue-js-starter-template (⭐109)](https://github.com/ElanYoung/vite-vue-js-starter-template) - Vite + Vue3 + JavaScript + Vue Router + Pinia + TDesign + ESLint + Stylelint + Prettier Simple Template.
+*   [vite-vue-js-starter-template (⭐112)](https://github.com/ElanYoung/vite-vue-js-starter-template) - Vite + Vue3 + JavaScript + Vue Router + Pinia + TDesign + ESLint + Stylelint + Prettier Simple Template.
 
 ### Templates / Vue 2
 
@@ -727,46 +727,6 @@ Installs: 70000 | Stars: n/a | Last update: 6 Feb 2024
 ### Models and Projects / NumPyro
 
 *   [lqg (⭐23)](https://github.com/RothkopfLab/lqg) - Official implementation of Bayesian inverse optimal control for linear-quadratic Gaussian problems from the paper [*Putting perception into action with inverse optimal control for continuous psychophysics*](https://elifesciences.org/articles/76635)
-
-## [55. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Data Science
-
-*   [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke (HTML)
-*   [Hands-On Data Visualization](https://handsondataviz.org) - Jack Dougherty, Ilya Ilyankou (HTML)
-*   [Probability and Statistics with Examples using R](https://www.isibang.ac.in/~athreya/psweur/index.html#usage) - Siva Athreya, Deepayan Sarkar, Steve Tanner (HTML) (:construction: *in process*)
-
-### Database
-
-*   [Database Design – 2nd Edition](https://opentextbc.ca/dbdesign01/) - Adrienne Watt, Nelson Eng @ BCcampus Open Pressbooks (HTML, PDF, EPUB, Kindle)
-*   [Database Design Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/database-design-succinctly) - Joseph D. Booth (HTML, PDF, EPUB, MOBI)
-*   [Foundations of Databases](http://webdam.inria.fr/Alice/)
-*   [Readings in Database Systems, 5th Ed.](http://www.redbook.io)
-
-### Information Retrieval
-
-*   [Information Retrieval: Implementing and Evaluating Search Engines](https://mitmecsept.files.wordpress.com/2018/05/stefan-bc3bcttcher-charles-l-a-clarke-gordon-v-cormack-information-retrieval-implementing-and-evaluating-search-engines-2010-mit.pdf) - Stefan Böttcher, Charles L. A. Clarke, Gordon V. Cormack (PDF)
-
-### Machine Learning
-
-*   [Machine Learning for Beginners (⭐64k)](https://github.com/Microsoft/ML-For-Beginners) - Microsoft
-*   [Probabilistic Machine Learning - An Introduction (⭐4.5k)](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) - Kevin P. Murphy (PDF)
-
-### Mathematics For Computer Science
-
-*   [Isomorphism -- Mathematics of Programming](https://github.com/liuxinyu95/unplugged) - Larry LIU Xinyu
-
-### Misc
-
-*   [Atomic Design](https://atomicdesign.bradfrost.com) - Brad Frost
-
-### Open Source Ecosystem
-
-*   [Contributing to opensource: the right way (⭐117)](https://github.com/Mte90/Contribute-to-opensource-the-right-way) - Daniele Scasciafratte
-
-### Search Engines
-
-*   [Elasticsearch Certified Engineer notes ](https://www.pistocop.dev/posts/es_engineer_exam_notes/) - (HTML)
 
 ---
 

@@ -155,7 +155,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Contents / Utilities
 
-*   [sqlcheck (⭐2.3k)](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns. Such anti-patterns often slow down queries. Addressing them will, therefore, help accelerate queries.
+*   [sqlcheck (⭐2.4k)](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns. Such anti-patterns often slow down queries. Addressing them will, therefore, help accelerate queries.
 
 ## [13. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 

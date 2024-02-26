@@ -241,7 +241,7 @@
 ### Platform / Other
 
 *   [CUBA Platform](https://www.cuba-platform.com/) - High-level framework for developing enterprise applications with a rich web interface, based on Spring, EclipseLink and Vaadin.
-*   [Light-4J (⭐3.6k)](https://github.com/networknt/light-4j/) - Fast, lightweight and productive microservices framework with built-in [security (⭐310)](https://github.com/networknt/light-oauth2/).
+*   [Light-4J (⭐3.6k)](https://github.com/networknt/light-4j/) - Fast, lightweight and productive microservices framework with built-in [security (⭐311)](https://github.com/networknt/light-oauth2/).
 *   [Orienteer (⭐228)](https://github.com/OrienteerBAP/Orienteer/) - Open-source business application platform for rapid configuration/development of CRM, ERP, LMS and other applications.
 *   [Spring](https://spring.io/projects/) - Provides many packages for dependency injection, aspect-oriented programming, security, etc.
 
@@ -279,7 +279,7 @@
 ### Testing / Asynchronous
 
 *   [Awaitility (⭐3.6k)](https://github.com/awaitility/awaitility) - DSL for synchronizing asynchronous operations.
-*   [REST Assured (⭐6.6k)](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
+*   [REST Assured (⭐6.7k)](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
 
 ### Testing / BDD
 

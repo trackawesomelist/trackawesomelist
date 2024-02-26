@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 04, 2022
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -290,7 +290,7 @@
 
 ### Reddit
 
-*   [Kbin (⭐737)](https://github.com/ernestwisniewski/kbin) 🧩 - A reddit-like content aggregator and micro-blogging platform for the fediverse.
+*   [Kbin (⭐742)](https://github.com/ernestwisniewski/kbin) 🧩 - A reddit-like content aggregator and micro-blogging platform for the fediverse.
 *   [Lemmy](https://join.lemmy.ml/) 🧩 - A federated and open alternative to Reddit in Rust.
 
 ## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
@@ -311,13 +311,7 @@
 
 *   [SOLID](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) - Lend to developing software with considerations for maintaining and extending as the project grows
 
-## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### 0 - Meta-Lists
-
-*   [Microsoft Technologies 3, DevOps for ASP.NET Core Developers](https://raw.githubusercontent.com/dotnet-architecture/eBooks/main/current/devops-aspnet-core/DevOps-for-ASP.NET-Core-Developers.pdf) - Cam Soper, Scott Addie, Colin Dembovsky (PDF)
-
-## [14. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+## [13. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ### Hosting:
 

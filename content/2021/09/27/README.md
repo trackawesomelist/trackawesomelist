@@ -26,7 +26,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [REI3](https://rei3.de/home_en/) - Open source, expandable Business Management Software. Manage tasks, time, assets and much more. ([Demo](https://rei3.de/demo_en/), [Source Code (⭐212)](https://github.com/r3-team/r3)) `MIT` `Go`
+*   [REI3](https://rei3.de/home_en/) - Open source, expandable Business Management Software. Manage tasks, time, assets and much more. ([Demo](https://rei3.de/demo_en/), [Source Code (⭐226)](https://github.com/r3-team/r3)) `MIT` `Go`
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Internationalization
 
-*   [Rosetta (⭐36)](https://github.com/wout/rosetta) - A blazing fast internationalization (i18n) library with compile-time key lookup supporting YAML and JSON formats
+*   [Rosetta (⭐37)](https://github.com/wout/rosetta) - A blazing fast internationalization (i18n) library with compile-time key lookup supporting YAML and JSON formats
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

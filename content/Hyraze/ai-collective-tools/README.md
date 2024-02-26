@@ -6,6 +6,16 @@ Explore a curated selection of AI tools and resources
 
 [ Daily / [Weekly](/content/Hyraze/ai-collective-tools/week/README.md) / [Overview](/content/Hyraze/ai-collective-tools/readme/README.md) ]
 
+## [Feb 23, 2024](/content/2024/02/23/README.md)
+
+### Design Generator
+
+*   [Galileo AI](https://www.usegalileo.ai/explore) -Galileo AI is a UI generation platform for easy and fast design ideation.Generative AI for user interface design, empowering you to design beyond imagination with speed . `#freemium`
+
+### Image Generator
+
+*   [Remaker-Ai](https://remaker.ai/en) - All-in-one tool leveraging the capabilities of artificial intelligence. Craft and produce diverse content formats, spanning text, images, and beyond.`#free`
+
 ## [Feb 09, 2024](/content/2024/02/09/README.md)
 
 ### Dating

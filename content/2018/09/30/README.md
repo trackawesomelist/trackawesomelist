@@ -31,10 +31,6 @@
 *   [Three.js Basics](http://www.realtimerendering.com/basics3js/#1) - Introduction to Three.js by Eric Haines.
 *   [An Interactive Introduction to WebGL and three.js](https://www.cs.unm.edu/~angel/SIGGRAPH17/COURSE/s17_final.pdf) - Slides from the SIGGRAPH 2017 WebGL workshop.
 
-### Quick References • Cheatsheets / Other
-
-*   [Three.js Reference](https://www.udacity.com/wiki/cs291/threejs-reference) - Reference from the Udacity Interactive 3D Graphics course.
-
 ## [5. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
 
 ### Videos / Movies

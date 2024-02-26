@@ -27,7 +27,7 @@
 
 ### Software / Database Management
 
-*   [NocoDB](https://www.nocodb.com/) - No-code platform that turns any database into a smart spreadsheet (alternative to Airtable or Smartsheet). ([Source Code (⭐40k)](https://github.com/nocodb/nocodb)) `GPL-3.0` `Nodejs/Docker`
+*   [NocoDB](https://www.nocodb.com/) - No-code platform that turns any database into a smart spreadsheet (alternative to Airtable or Smartsheet). ([Source Code (⭐41k)](https://github.com/nocodb/nocodb)) `GPL-3.0` `Nodejs/Docker`
 
 ## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

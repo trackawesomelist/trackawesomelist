@@ -22,11 +22,11 @@
 
 ### HTML Widgets
 
-*   [highcharter (⭐701)](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets
+*   [highcharter (⭐705)](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets
 
 ### Spatial
 
-*   [tigris (⭐308)](https://github.com/walkerke/tigris) - Download and use Census TIGER/Line shapefiles in R
+*   [tigris (⭐314)](https://github.com/walkerke/tigris) - Download and use Census TIGER/Line shapefiles in R
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Software / Editors
 
-*   [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor. ([Source Code (⭐23k)](https://github.com/zyedidia/micro)) `MIT` `Go`
+*   [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor. ([Source Code (⭐24k)](https://github.com/zyedidia/micro)) `MIT` `Go`
 
 ## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 

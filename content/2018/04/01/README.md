@@ -57,7 +57,7 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 ### Libraries
 
-*   [Ramda-extension (⭐162)](https://github.com/tommmyy/ramda-extension) is set of utility point-free functions composed only from Ramda functions.
+*   [Ramda-extension (⭐164)](https://github.com/tommmyy/ramda-extension) is set of utility point-free functions composed only from Ramda functions.
 
 ---
 

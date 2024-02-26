@@ -10,11 +10,11 @@
 
 ### Customization / Directory Navigation
 
-*   [bash-powerline (⭐868)](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script
+*   [bash-powerline (⭐874)](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script
 
 ### Games / Directory Navigation
 
-*   [bash2048 (⭐882)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
+*   [bash2048 (⭐885)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
 
 ## [2. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

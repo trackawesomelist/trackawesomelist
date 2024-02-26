@@ -45,7 +45,7 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [VideoLAN Client (VLC)](https://www.videolan.org/) - Cross-platform multimedia player client and server supporting most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. ([Source Code (⭐12k)](https://github.com/videolan/vlc)) `GPL-2.0` `C/deb`
+*   [VideoLAN Client (VLC)](https://www.videolan.org/) - Cross-platform multimedia player client and server supporting most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. ([Source Code (⭐13k)](https://github.com/videolan/vlc)) `GPL-2.0` `C/deb`
 
 ### Software / Miscellaneous
 

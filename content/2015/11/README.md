@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 16 - Mar 22, 2015
 
-11 awesome lists updated this week.
+12 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -64,13 +64,19 @@
 
 *   [Revealing the Invisible](https://www.youtube.com/watch?v=_BWnIQY_X98) - Frédo Durand (MIT) 2012
 
-## [7. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [7. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### Elasticsearch
+
+*   [Elasticsearch 权威指南 (⭐2k)](https://github.com/looly/elasticsearch-definitive-guide-cn) （《Elasticsearch the definitive guide》中文版）
+
+## [8. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Emails
 
 *   [postal (⭐578)](https://github.com/drewr/postal)
 
-## [8. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [9. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### General
 
@@ -89,11 +95,11 @@
 
 *   [Backbone.js Patterns and Best Practices](http://www.amazon.com/dp/1783283572) by Swarnendu De
 
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [10. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Actors
 
-*   [pooler (⭐305)](https://github.com/seth/pooler) - An OTP Process Pool Application.
+*   [pooler (⭐307)](https://github.com/seth/pooler) - An OTP Process Pool Application.
 
 ### Algorithms and Data structures
 
@@ -105,7 +111,7 @@
 
 ### Date and Time
 
-*   [tzdata (⭐279)](https://github.com/lau/tzdata) - The timezone database in Elixir.
+*   [tzdata (⭐284)](https://github.com/lau/tzdata) - The timezone database in Elixir.
 
 ### ECMAScript
 
@@ -113,16 +119,16 @@
 
 ### Email
 
-*   [mailman (⭐199)](https://github.com/kamilc/mailman) - Mailman provides a clean way of defining mailers in your Elixir applications.
+*   [mailman (⭐200)](https://github.com/kamilc/mailman) - Mailman provides a clean way of defining mailers in your Elixir applications.
 
 ### Eventhandling
 
-*   [goldrush (⭐90)](https://github.com/DeadZen/goldrush) - Small, Fast event processing and monitoring for Erlang/OTP applications.
+*   [goldrush (⭐91)](https://github.com/DeadZen/goldrush) - Small, Fast event processing and monitoring for Erlang/OTP applications.
 
 ### Framework Components
 
-*   [corsica (⭐505)](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
-*   [phoenix\_ecto (⭐422)](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
+*   [corsica (⭐509)](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
+*   [phoenix\_ecto (⭐427)](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
 *   [phoenix\_token\_auth (⭐163)](https://github.com/manukall/phoenix_token_auth) - Token authentication solution for Phoenix. Useful for APIs or single page apps.
 
 ### Images
@@ -136,7 +142,7 @@
 
 ### ORM and Datamapping
 
-*   [eredis (⭐624)](https://github.com/wooga/eredis) - Erlang Redis client.
+*   [eredis (⭐623)](https://github.com/wooga/eredis) - Erlang Redis client.
 *   [ex\_bitcask (⭐12)](https://github.com/JonGretar/ExBitcask) - Elixir wrapper of Basho's Bitcask Key/Value store.
 *   [mariaex (⭐260)](https://github.com/xerions/mariaex) - MariaDB/MySQL driver for Elixir.
 
@@ -146,12 +152,12 @@
 
 ### Testing
 
-*   [white\_bread (⭐219)](https://github.com/meadsteve/white-bread) - Story based BDD in Elixir using the gherkin syntax.
+*   [white\_bread (⭐220)](https://github.com/meadsteve/white-bread) - Story based BDD in Elixir using the gherkin syntax.
 
 ### Text and Numbers
 
 *   [base62 (⭐20)](https://github.com/igas/base62) - Base62 encoder/decoder in pure Elixir.
-*   [custom\_base (⭐20)](https://github.com/igas/custom_base) - Allow you to make custom base conversion in Elixir.
+*   [custom\_base (⭐22)](https://github.com/igas/custom_base) - Allow you to make custom base conversion in Elixir.
 *   [porterstemmer (⭐6)](https://github.com/frpaulas/porterstemmer) - Porter Stemmer in Elixir.
 
 ### Third Party APIs
@@ -163,7 +169,7 @@
 
 *   [BEAM Community](http://beamcommunity.github.io/) - From distributed systems, to robust servers and language design on the Erlang VM.
 
-## [10. Typography](/content/deanhume/typography/week/README.md)
+## [11. Typography](/content/deanhume/typography/week/README.md)
 
 ### Articles
 
@@ -171,7 +177,7 @@
 *   [Scale & Rhythm in Typography](http://lamb.cc/typograph/)
 *   [Typographic Scale](http://retinart.net/typography/typographicscale/)
 
-## [11. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
+## [12. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
 ### Articles
 

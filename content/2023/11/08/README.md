@@ -16,7 +16,7 @@
 
 ### Resources / Blog posts
 
-*   [Pandas2 and Polars for Feature Engineering](https://www.hopsworks.ai/post/pandas2-and-polars-for-feature-engineering) - A blog post that A blog post that compares Pandas2 and Polars for Feature Engineering tasks with Python by [@hopswork (⭐1k)](https://github.com/logicalclocks/hopsworks).
+*   [Pandas2 and Polars for Feature Engineering](https://www.hopsworks.ai/post/pandas2-and-polars-for-feature-engineering) - A blog post that A blog post that compares Pandas2 and Polars for Feature Engineering tasks with Python by [@hopswork (⭐1.1k)](https://github.com/logicalclocks/hopsworks).
 
 ## [3. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
@@ -55,10 +55,6 @@
 *   [Zürich Gophers - Zurich, Switzerland](https://www.meetup.com/zurich-gophers/)
 
 ## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Projects / API Design
-
-*   [OpenAPI Generator (⭐18k) (⭐19k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
 
 ### Projects / BRE
 
@@ -110,7 +106,7 @@
 
 ### Software / Document Management
 
-*   [DocKing](https://docking.shipsaas.tech) - Document management service/microservice that handles templates and renders them in PDF format, all in one place. ([Demo](https://docking-demo.shipsaas.tech/console), [Source Code (⭐115)](https://github.com/shipsaas/docking)) `MIT` `PHP/Nodejs/Docker`
+*   [DocKing](https://docking.shipsaas.tech) - Document management service/microservice that handles templates and renders them in PDF format, all in one place. ([Demo](https://docking-demo.shipsaas.tech/console), [Source Code (⭐123)](https://github.com/shipsaas/docking)) `MIT` `PHP/Nodejs/Docker`
 
 ### Software / Groupware
 
@@ -118,7 +114,7 @@
 
 ### Software / Miscellaneous
 
-*   [Flyimg](https://flyimg.io) - Resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system. ([Demo](https://demo.flyimg.io), [Source Code (⭐866)](https://github.com/flyimg/flyimg)) `MIT` `Docker`
+*   [Flyimg](https://flyimg.io) - Resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system. ([Demo](https://demo.flyimg.io), [Source Code (⭐877)](https://github.com/flyimg/flyimg)) `MIT` `Docker`
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -130,12 +126,12 @@
 
 ### Templates / React
 
-*   [vite-express-ssr-ts (⭐8)](https://github.com/gihanrangana/vite-express-ssr-ts) - React + Typescript + ExpressJS + Vite SSR template with inbuild api feature.
+*   [vite-express-ssr-ts (⭐9)](https://github.com/gihanrangana/vite-express-ssr-ts) - React + Typescript + ExpressJS + Vite SSR template with inbuild api feature.
 
 ### Templates / VanJS
 
-*   [vite-vanjs-js (⭐0)](https://github.com/yahia-berashish/vite-vanjs-js) - VanJS and VanX with vanilla JavaScript.
-*   [vite-vanjs-ts (⭐1)](https://github.com/yahia-berashish/vite-vanjs-ts) - VanJS and VanX with TypeScript.
+*   [vite-vanjs-js (⭐1)](https://github.com/yahia-berashish/vite-vanjs-js) - VanJS and VanX with vanilla JavaScript.
+*   [vite-vanjs-ts (⭐2)](https://github.com/yahia-berashish/vite-vanjs-ts) - VanJS and VanX with TypeScript.
 
 ## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -151,7 +147,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [inshellisense (⭐7.8k)](https://github.com/microsoft/inshellisense) - Provides IDE style autocomplete for shells. It's a terminal native runtime for autocomplete which has support for 600+ command line tools. inshellisense supports `bash`, `fish`, `zsh` and `pwsh` on the Windows, Linux, & MacOS operating systems.
+*   [inshellisense (⭐7.9k)](https://github.com/microsoft/inshellisense) - Provides IDE style autocomplete for shells. It's a terminal native runtime for autocomplete which has support for 600+ command line tools. inshellisense supports `bash`, `fish`, `zsh` and `pwsh` on the Windows, Linux, & MacOS operating systems.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

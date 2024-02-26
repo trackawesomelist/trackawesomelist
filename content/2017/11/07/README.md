@@ -57,15 +57,15 @@
 
 ### Contents / Utilities
 
-*   [pREST (⭐3.8k)](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
+*   [pREST (⭐4k)](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
 
 ### Contents / Language bindings
 
-*   Lua: [luapgsql (⭐103)](https://github.com/arcapos/luapgsql)
+*   Lua: [luapgsql (⭐109)](https://github.com/arcapos/luapgsql)
 
 ### Resources / Tutorials
 
-*   [postgresDBSamples (⭐305)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
+*   [postgresDBSamples (⭐395)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
 
 ## [7. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 

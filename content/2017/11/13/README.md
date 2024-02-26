@@ -159,10 +159,6 @@ Topics: Developer Tools, JavaScript\
 
 ## [7. Awesome R](/content/qinwf/awesome-R/README.md)
 
-### Integrated Development Environments
-
-*   [Vim-R (⭐125)](https://github.com/vim-scripts/Vim-R-plugin) - Vim plugin for R.
-
 ### Reproducible Research
 
 *   [brew](https://cran.r-project.org/web/packages/brew/index.html) - Pre-compute data to enhance your report templates. Can be combined with knitr.
@@ -177,7 +173,7 @@ Topics: Developer Tools, JavaScript\
 
 ### R Development
 
-*   [RStudio Addins (⭐807)](https://github.com/daattali/rstudio-addins) - List of RStudio addins.
+*   [RStudio Addins (⭐819)](https://github.com/daattali/rstudio-addins) - List of RStudio addins.
 
 ## [8. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 

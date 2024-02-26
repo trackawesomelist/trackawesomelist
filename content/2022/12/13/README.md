@@ -63,11 +63,11 @@
 
 ### Templates / React
 
-*   [react-vite-template (⭐20)](https://github.com/985563349/react-vite-template) - A react project template.
+*   [react-vite-template (⭐21)](https://github.com/985563349/react-vite-template) - A react project template.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-optimize-css-modules (⭐20)](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
+*   [vite-plugin-optimize-css-modules (⭐21)](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Tools / Community providers
 
-*   [AIaC (⭐3k)](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator
+*   [AIaC (⭐3.2k)](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator
 
 ## [10. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
@@ -265,7 +265,7 @@
 
 ### Software / Ticketing
 
-*   [ITFlow](https://itflow.org) - Client IT Documentation, Ticketing, Invoicing and Accounting Web Application for MSPs (Managed Service Providers). ([Demo](https://demo.itflow.org), [Source Code (⭐427)](https://github.com/itflow-org/itflow)) `GPL-3.0` `PHP`
+*   [ITFlow](https://itflow.org) - Client IT Documentation, Ticketing, Invoicing and Accounting Web Application for MSPs (Managed Service Providers). ([Demo](https://demo.itflow.org), [Source Code (⭐443)](https://github.com/itflow-org/itflow)) `GPL-3.0` `PHP`
 
 ## [19. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 

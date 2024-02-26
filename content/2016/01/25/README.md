@@ -72,7 +72,7 @@
 
 ### Command-Line Productivity
 
-*   [slugify (⭐293)](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
+*   [slugify (⭐298)](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
 
 ## [6. Awesome Math](/content/rossant/awesome-math/README.md)
 

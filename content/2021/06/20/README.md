@@ -20,7 +20,7 @@
 
 ### Table
 
-*   [ka-table (⭐635)](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
+*   [ka-table (⭐644)](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

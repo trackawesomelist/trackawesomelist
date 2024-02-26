@@ -36,7 +36,7 @@
 
 ### Authorization
 
-*   [canada (⭐439)](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
+*   [canada (⭐437)](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
 
 ### Miscellaneous
 

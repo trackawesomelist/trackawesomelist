@@ -10,7 +10,6 @@
 
 ### Online tools
 
-*   [JsonStub](https://jsonstub.com/) - Online JSON faker.
 *   [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
 
 ## [2. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)

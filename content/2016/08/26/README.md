@@ -93,11 +93,11 @@
 ### Third Party APIs
 
 *   [honeywell (⭐0)](https://github.com/jeffutter/honeywell-elixir) - A client for the Honeywell Lyric, Round and Water Leak & Freeze Detector APIs.
-*   [particle (⭐5)](https://github.com/jeffutter/particle-elixir) - An Elixir client for the Particle IoT platform's HTTP API.
+*   [particle (⭐6)](https://github.com/jeffutter/particle-elixir) - An Elixir client for the Particle IoT platform's HTTP API.
 
 ### Translations and Internationalizations
 
-*   [trans (⭐220)](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
+*   [trans (⭐221)](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
 
 ## [5. Tips](/content/git-tips/tips/README.md)
 

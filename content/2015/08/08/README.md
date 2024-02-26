@@ -10,7 +10,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [assert.sh (⭐477)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
+*   [assert.sh (⭐479)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
 
 ## [2. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

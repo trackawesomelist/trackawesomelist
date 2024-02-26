@@ -10,7 +10,7 @@
 
 ### JSON
 
-*   [jsoncons (⭐650)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
+*   [jsoncons (⭐652)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
@@ -307,7 +307,7 @@
 
 ### Tools / Community providers
 
-*   [hcledit (⭐385)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
+*   [hcledit (⭐389)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
 
 ## [11. Tools](/content/lvwzhen/tools/week/README.md)
 
@@ -339,13 +339,13 @@
 ### Official Resources
 
 *   [GitHub Repo (⭐63k)](https://github.com/vitejs/vite)
-*   [Awesome Vue (⭐70k)](https://github.com/vuejs/awesome-vue)
+*   [Awesome Vue (⭐71k)](https://github.com/vuejs/awesome-vue)
 
 ### Apps/Websites / Community
 
-*   [Icônes (⭐4.5k)](https://github.com/antfu/icones) - Icon explorer with instant search.
-*   [Awesome CN Café (⭐91)](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
-*   [Todo Example (⭐35)](https://github.com/beary/vite-example) - Todo app with routing and state management.
+*   [Icônes (⭐4.6k)](https://github.com/antfu/icones) - Icon explorer with instant search.
+*   [Awesome CN Café (⭐92)](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
+*   [Todo Example (⭐36)](https://github.com/beary/vite-example) - Todo app with routing and state management.
 
 ## [16. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
@@ -644,7 +644,7 @@
 
 ### Framework Components
 
-*   [graphql (⭐135)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
+*   [graphql (⭐134)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
 *   [graphql-crystal (⭐216)](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) implementation
 
 ### GUI Development
@@ -657,7 +657,7 @@
 
 ### Unofficial
 
-*   [crystal-koans (⭐43)](https://github.com/ilmanzo/crystal-koans) - Learn Crystal by writing unit tests
+*   [crystal-koans (⭐44)](https://github.com/ilmanzo/crystal-koans) - Learn Crystal by writing unit tests
 
 ## [23. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
@@ -748,32 +748,23 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [HttPlaceholder (⭐89)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
+*   [HttPlaceholder (⭐93)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
 
 ## [30. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Image Processing
 
-*   [pywal (⭐7.3k)](https://github.com/dylanaraps/pywal) - A tool that generates color schemes from images.
+*   [pywal (⭐7.9k)](https://github.com/dylanaraps/pywal) - A tool that generates color schemes from images.
 
 ### Penetration Testing
 
-*   [fsociety (⭐8.6k)](https://github.com/Manisso/fsociety) - A Penetration testing framework.
-*   [setoolkit (⭐9.1k)](https://github.com/trustedsec/social-engineer-toolkit) - A toolkit for social engineering.
-*   [sqlmap (⭐27k)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
+*   [fsociety (⭐10k)](https://github.com/Manisso/fsociety) - A Penetration testing framework.
+*   [setoolkit (⭐9.9k)](https://github.com/trustedsec/social-engineer-toolkit) - A toolkit for social engineering.
+*   [sqlmap (⭐30k)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
 
 ### Static Site Generator
 
-*   [makesite (⭐1.7k)](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator (< 130 lines).
-
-### Websites
-
-*   Tutorials
-    *   [Full Stack Python](https://www.fullstackpython.com/)
-    *   [Python Cheatsheet](https://www.pythoncheatsheet.org/)
-    *   [Real Python](https://realpython.com)
-    *   [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
-    *   [Ultimate Python study guide (⭐4.4k)](https://github.com/huangsam/ultimate-python)
+*   [makesite (⭐1.8k)](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator (< 130 lines).
 
 ## [31. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
@@ -1059,11 +1050,11 @@
 
 ### GUI
 
-*   [Glimmer (⭐453)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
+*   [Glimmer (⭐472)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
 
 ### Web Crawling
 
-*   [Kimurai (⭐992)](https://github.com/vifreefly/kimuraframework) - A modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites.
+*   [Kimurai (⭐994)](https://github.com/vifreefly/kimuraframework) - A modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites.
 
 ## [56. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 

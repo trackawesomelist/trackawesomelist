@@ -41,7 +41,7 @@
 
 ### Libraries / Parsing
 
-*   [pest-parser/pest (⭐4.2k)](https://github.com/pest-parser/pest) — The Elegant Parser
+*   [pest-parser/pest (⭐4.3k)](https://github.com/pest-parser/pest) — The Elegant Parser
 
 ## [5. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 

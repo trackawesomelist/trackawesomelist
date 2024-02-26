@@ -166,7 +166,7 @@ Webpage: N/A
 ### Database Drivers/Clients
 
 *   [crystal-mysql (⭐106)](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
-*   [crystal-sqlite3 (⭐128)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
+*   [crystal-sqlite3 (⭐130)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
 
 ## [18. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -245,7 +245,7 @@ A portable public domain password hashing framework for use in PHP applications.
 
 ### Instrumenting / Monitoring
 
-*   [prometheus.ex (⭐396)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
+*   [prometheus.ex (⭐398)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
 
 ## [24. Tips](/content/git-tips/tips/week/README.md)
 
@@ -326,7 +326,7 @@ git merge-base <branch-name> <other-branch-name>
 
 ### Web Frameworks
 
-*   [Syro (⭐136)](https://github.com/soveran/syro/) - Simple router for web applications.
+*   [Syro (⭐135)](https://github.com/soveran/syro/) - Simple router for web applications.
 
 ## [34. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 

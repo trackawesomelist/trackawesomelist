@@ -10,7 +10,7 @@
 
 ### Protocols
 
-*   [msgpax (⭐274)](https://github.com/lexmag/msgpax) - MessagePack (de)serializer implementation for Elixir.
+*   [msgpax (⭐279)](https://github.com/lexmag/msgpax) - MessagePack (de)serializer implementation for Elixir.
 
 ## [2. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

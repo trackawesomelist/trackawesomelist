@@ -16,11 +16,11 @@
 
 ### Software / Booking and Scheduling
 
-*   [Rallly](https://rallly.co) - Create polls to vote on dates and times (alternative to Doodle). ([Demo](https://app.rallly.co), [Source Code (⭐2.8k)](https://github.com/lukevella/rallly)) `AGPL-3.0` `Nodejs/Docker`
+*   [Rallly](https://rallly.co) - Create polls to vote on dates and times (alternative to Doodle). ([Demo](https://app.rallly.co), [Source Code (⭐2.9k)](https://github.com/lukevella/rallly)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Content Management Systems (CMS)
 
-*   [WinterCMS](https://wintercms.com/) - Speedy and secure content management system built on the Laravel PHP framework. ([Source Code (⭐1.2k)](https://github.com/wintercms/winter)) `MIT` `PHP`
+*   [WinterCMS](https://wintercms.com/) - Speedy and secure content management system built on the Laravel PHP framework. ([Source Code (⭐1.3k)](https://github.com/wintercms/winter)) `MIT` `PHP`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 

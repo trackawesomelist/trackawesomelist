@@ -57,7 +57,7 @@
 
 ### Other plugins
 
-*   [Print (⭐2)](https://github.com/leoruhland/capacitor-print) - Print the WebView.
+*   [Print (⭐4)](https://github.com/leoruhland/capacitor-print) - Print the WebView.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [component-controls (⭐77)](https://github.com/ccontrols/component-controls) - [demo](https://component-controls.com) - [docs](https://component-controls.com/tutorial) - A next-generation tool to create blazing-fast documentation sites.
+*   [component-controls (⭐78)](https://github.com/ccontrols/component-controls) - [demo](https://component-controls.com) - [docs](https://component-controls.com/tutorial) - A next-generation tool to create blazing-fast documentation sites.
 
 ## [3. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 

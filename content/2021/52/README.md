@@ -77,19 +77,19 @@
 
 ### Concurrency
 
-*   [rotor (⭐306)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
+*   [rotor (⭐312)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
 
 ## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Artificial Intelligence
 
-*   [smartcorelib/smartcore (⭐612)](https://github.com/smartcorelib/smartcore) — Machine Learning Library In Rust [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
+*   [smartcorelib/smartcore (⭐617)](https://github.com/smartcorelib/smartcore) — Machine Learning Library [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
 
 ## [12. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [@zougt/vite-plugin-theme-preprocessor (⭐157)](https://github.com/GitOfZGT/vite-plugin-theme-preprocessor) - Easily implementing dynamic themes based on LESS or SASS.
+*   [@zougt/vite-plugin-theme-preprocessor (⭐158)](https://github.com/GitOfZGT/vite-plugin-theme-preprocessor) - Easily implementing dynamic themes based on LESS or SASS.
 
 ## [13. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -247,7 +247,7 @@
 
 ### Plugins
 
-*   🎨🧬 [Themer (⭐230)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
+*   🎨🧬 [Themer (⭐243)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
 
 ## [23. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -413,26 +413,26 @@
 
 ### Community Modules / Miscellaneous
 
-*   [terraform-aws-alb (⭐409)](https://github.com/terraform-aws-modules/terraform-aws-alb) - Creates Application load-balancer on AWS (verified module).
+*   [terraform-aws-alb (⭐412)](https://github.com/terraform-aws-modules/terraform-aws-alb) - Creates Application load-balancer on AWS (verified module).
 *   [terraform-aws-customer-gateway (⭐16)](https://github.com/terraform-aws-modules/terraform-aws-customer-gateway) - Creates Customer Gateway on AWS.
-*   [terraform-aws-dynamodb-table (⭐92)](https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table) - Creates DynamoDB table on AWS.
-*   [terraform-aws-ec2-instance (⭐705)](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance) - Creates EC2 instances on AWS.
-*   [terraform-aws-ecs (⭐458)](https://github.com/terraform-aws-modules/terraform-aws-ecs) - Creates AWS ECS resources on AWS.
+*   [terraform-aws-dynamodb-table (⭐94)](https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table) - Creates DynamoDB table on AWS.
+*   [terraform-aws-ec2-instance (⭐709)](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance) - Creates EC2 instances on AWS.
+*   [terraform-aws-ecs (⭐467)](https://github.com/terraform-aws-modules/terraform-aws-ecs) - Creates AWS ECS resources on AWS.
 *   [terraform-aws-elb (⭐140)](https://github.com/terraform-aws-modules/terraform-aws-elb) - Creates Elastic load-balancer on AWS (verified module).
 *   [terraform-aws-eventbridge (⭐130)](https://github.com/terraform-aws-modules/terraform-aws-eventbridge) - Creates EventBridge resources on AWS.
-*   [terraform-aws-lambda (⭐771)](https://github.com/terraform-aws-modules/terraform-aws-lambda) - Terraform module, which builds dependencies and packages, and also creates AWS Lambda resources in countless combinations.
-*   [terraform-aws-notify-slack (⭐444)](https://github.com/terraform-aws-modules/terraform-aws-notify-slack) - Creates SNS topic and Lambda function, which sends notifications to Slack.
-*   [terraform-aws-rds-aurora (⭐369)](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - Creates RDS Aurora cluster resources on AWS (verified module).
+*   [terraform-aws-lambda (⭐788)](https://github.com/terraform-aws-modules/terraform-aws-lambda) - Terraform module, which builds dependencies and packages, and also creates AWS Lambda resources in countless combinations.
+*   [terraform-aws-notify-slack (⭐445)](https://github.com/terraform-aws-modules/terraform-aws-notify-slack) - Creates SNS topic and Lambda function, which sends notifications to Slack.
+*   [terraform-aws-rds-aurora (⭐372)](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - Creates RDS Aurora cluster resources on AWS (verified module).
 *   [terraform-aws-redshift (⭐74)](https://github.com/terraform-aws-modules/terraform-aws-redshift) - Creates Redshift resources on AWS.
-*   [terraform-aws-route53 (⭐119)](https://github.com/terraform-aws-modules/terraform-aws-route53) - Creates Route53 resources on AWS.
-*   [terraform-aws-s3-bucket (⭐471)](https://github.com/terraform-aws-modules/terraform-aws-s3-bucket) - Creates S3 bucket resources on AWS.
-*   [terraform-aws-transit-gateway (⭐130)](https://github.com/terraform-aws-modules/terraform-aws-transit-gateway) - Creates Transit Gateway resources on AWS.
+*   [terraform-aws-route53 (⭐120)](https://github.com/terraform-aws-modules/terraform-aws-route53) - Creates Route53 resources on AWS.
+*   [terraform-aws-s3-bucket (⭐473)](https://github.com/terraform-aws-modules/terraform-aws-s3-bucket) - Creates S3 bucket resources on AWS.
+*   [terraform-aws-transit-gateway (⭐132)](https://github.com/terraform-aws-modules/terraform-aws-transit-gateway) - Creates Transit Gateway resources on AWS.
 *   [terraform-aws-vpn-gateway (⭐108)](https://github.com/terraform-aws-modules/terraform-aws-vpn-gateway) - Creates VPN gateway resources on AWS.
 
 ### Tools / Community providers
 
 *   [modules.tf-lambda (⭐346)](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform.
-*   [prettyplan (⭐151)](https://github.com/chrislewisdev/prettyplan) - Prettyplan ([available online here](https://chrislewisdev.github.io/prettyplan/)) is a small tool to help you view large Terraform plans with ease. :ghost:
+*   [prettyplan (⭐152)](https://github.com/chrislewisdev/prettyplan) - Prettyplan ([available online here](https://chrislewisdev.github.io/prettyplan/)) is a small tool to help you view large Terraform plans with ease. :ghost:
 
 ### Videos / IDE
 
@@ -443,7 +443,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Work Hours (⭐57)](https://github.com/niteoweb/work-hours-mac) - Simple app that tracks your work hours from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/niteoweb/work-hours-mac)
+*   [Work Hours (⭐58)](https://github.com/niteoweb/work-hours-mac) - Simple app that tracks your work hours from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/niteoweb/work-hours-mac)
 
 ### Utilities / General Tools
 
@@ -698,7 +698,7 @@
 
 ### Audio
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole (⭐8.8k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole (⭐9k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 
 ## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 

@@ -28,7 +28,7 @@
 
 ### Front-End Development
 
-*   [Ember (⭐188)](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
+*   [Ember (⭐190)](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
 
 ## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 

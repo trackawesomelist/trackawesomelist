@@ -16,12 +16,12 @@
 
 ### Security
 
-*   [Prompt Injection (⭐30)](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
+*   [Prompt Injection (⭐43)](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
 
 ### Miscellaneous
 
-*   [Biological Image Analysis (⭐75)](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) - Interpreting biological phenomena using images.
-*   [HPC (⭐29)](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
+*   [Biological Image Analysis (⭐81)](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) - Interpreting biological phenomena using images.
+*   [HPC (⭐43)](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -44,7 +44,39 @@
 *   [`<active-table>`](https://github.com/OvidijusParsiunas/active-table) - Editable table web component.
 *   [`<deep-chat>`](https://github.com/OvidijusParsiunas/deep-chat) - Web component for chat with AI capabilities.
 
-## [6. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [6. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+
+### Official
+
+*   [OpenTofu repository (⭐19k)](https://github.com/opentofu/opentofu) 🎉
+*   [Weekly Updates (⭐19k)](https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md#weekly-updates)
+
+### Community
+
+*   [OpenTofu GitHub Discussion](https://github.com/orgs/opentofu/discussions)
+*   [OpenTofu LinkedIn](https://www.linkedin.com/company/opentofuorg/)
+*   [OpenTofu Reddit](https://www.reddit.com/r/opentf/)
+
+### Features
+
+*   [End-to-end encryption for state files](https://twitter.com/OpenTofuOrg/status/1696597790661677207) 🚧
+*   [OCI-compliant registry support](https://twitter.com/OpenTofuOrg/status/1696913055576387599) 🚧
+
+### Media / Helpers
+
+*   [OSS EU 2023 - Announcement](https://www.youtube.com/watch?v=Ha77rpusEDM\&t=1190s)
+*   [OSS EU 2023 - Project overview](https://www.youtube.com/watch?v=-8sOE9-icmY\&t=15116s)
+
+### Podcasts / Helpers
+
+*   [Ned in the Cloud - IaC Live Stream](https://www.youtube.com/watch?v=p0vDydkUWB4)
+*   [Arrested DevOps - What's Up With Open Terraform?](https://www.arresteddevops.com/open-tofu/)
+*   [OpenObservability - Terraform is no longer open source. Is OpenTF the successor?](https://www.youtube.com/watch?v=5QdUs9VKq5g)
+*   [TheCloudGambit - The Future of OpenTF](https://www.thecloudgambit.com/2236725/13576531-the-future-of-opentf-with-ohad-maislish)
+*   [Oxide and Friends - Fork in the road for Terraform?](https://www.youtube.com/watch?v=QaU94LY891M)
+*   [Changelog -  OpenTF for an open Terraform](https://changelog.com/podcast/556)
+
+## [7. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Art & Image Generator
 
@@ -244,7 +276,7 @@
 
 
 
-## [7. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+## [8. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Shell Script Development
 
@@ -252,7 +284,7 @@
 *   [bunit (⭐192)](https://github.com/rafritts/bunit) - A unit testing framework for Bash scripts.
 *   [modernish (⭐712)](https://github.com/modernish/modernish) - Library with various features for shell scripting.
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Productivity
 
@@ -262,19 +294,19 @@
 
 *   [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/index.html) - Quick access to your files and folders in every app.
 
-## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
 *   [Conceptual Framework for Autonomous Cognitive Entities](https://arxiv.org/abs/2310.06775): a paper that "introduces the Autonomous Cognitive Entity (ACE) model, a novel framework for a cognitive architecture, enabling machines and software agents to operate more independently"
 *   [Mindstorms in Natural Language-Based Societies of Mind](https://arxiv.org/abs/2305.17066): a paper that evaluates the natural language-based societies of mind (NLSOMs), leveraging mindstorms in them to solve some practical AI tasks
-*   [AutoGen | Microsoft](https://microsoft.github.io/autogen/): multi-agent conversation framework as a high-level abstraction by Microsoft \[[github (⭐21k)](https://github.com/microsoft/autogen)]
+*   [AutoGen | Microsoft](https://microsoft.github.io/autogen/): multi-agent conversation framework as a high-level abstraction by Microsoft \[[github (⭐22k)](https://github.com/microsoft/autogen)]
 
 ### Autonomous LLM Agents / Multi-agents
 
 *   [OpenBMB/ChatDev (⭐20k)](https://github.com/OpenBMB/ChatDev): create customized software using natural language idea (through llm-powered multi-agent collaboration)
 
-## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -290,7 +322,7 @@
 
 *   [skiff (⭐0)](https://github.com/xiaoshihou514/skiff) - Lightweight ZSH theme with `git` status and current directory decorators.
 
-## [11. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [12. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Communities / LinkedIn
 
@@ -301,19 +333,19 @@
 *   [PICO Browser Start Page](https://browser-us.picovr.com/) - The default start page for PICO Browser.
 *   [Wolvic Start Page](https://wolvic.com/en/start/) - The default start page for the Wolvic browser.
 
-## [12. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [13. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Periodic Global Connectivity Reports
 
 *   GSMA - State of Mobile Internet Connectivity ([2023](https://www.gsma.com/r/wp-content/uploads/2023/10/The-State-of-Mobile-Internet-Connectivity-Report-2023.pdf)) ([2022](https://www.gsma.com/r/wp-content/uploads/2022/10/The-State-of-Mobile-Internet-Connectivity-Report-2022.pdf)) ([2020](https://www.gsma.com/r/wp-content/uploads/2020/09/GSMA-State-of-Mobile-Internet-Connectivity-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/07/GSMA-State-of-Mobile-Internet-Connectivity-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/09/State-of-Mobile-Internet-Connectivity-2018.pdf))
 
-## [13. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [14. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Monitoring/Statistics/Perfomance / Samples
 
 *   [Metis](https://www.metisdata.io/product/troubleshooting) - Metis provides observability and performance tuning for SQL databases.
 
-## [14. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [15. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Education
 
@@ -348,7 +380,7 @@
 
 
 
-## [15. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [16. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -1032,7 +1064,7 @@
 | ------: | -------: | -----: |
 |  4 - 16 |       17 | 30-60m |
 
-## [16. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
@@ -1042,12 +1074,12 @@
 
 *   [CNCjs](https://cnc.js.org/) - A web-based interface for CNC milling controller running Grbl, Smoothieware, or TinyG. ([Source Code (⭐2.1k)](https://github.com/cncjs/cncjs/)) `MIT` `Nodejs`
 *   [Fluidd](https://docs.fluidd.xyz/) - Lightweight & responsive user interface for Klipper, the 3D printer firmware. ([Source Code (⭐1.2k)](https://github.com/fluidd-core/fluidd)) `GPL-3.0` `Docker/Nodejs`
-*   [Mainsail](https://docs.mainsail.xyz/) - A modern and responsive user interface for the Klipper 3D printer firmware. Control and monitor your printer from everywhere, from any device. ([Source Code (⭐1.4k)](https://github.com/mainsail-crew/mainsail)) `GPL-3.0` `Docker/Python`
+*   [Mainsail](https://docs.mainsail.xyz/) - A modern and responsive user interface for the Klipper 3D printer firmware. Control and monitor your printer from everywhere, from any device. ([Source Code (⭐1.5k)](https://github.com/mainsail-crew/mainsail)) `GPL-3.0` `Docker/Python`
 *   [Octoprint](https://octoprint.org/) - A snappy web interface for controlling consumer 3D printers. ([Source Code (⭐7.9k)](https://github.com/OctoPrint/OctoPrint)) `AGPL-3.0` `Docker/Python`
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Owncast](https://owncast.online/) - Decentralized single-user live video streaming and chat server for running your own live streams similar in style to the large mainstream options. ([Source Code (⭐8.6k)](https://github.com/owncast/owncast)) `MIT` `Go`
+*   [Owncast](https://owncast.online/) - Decentralized single-user live video streaming and chat server for running your own live streams similar in style to the large mainstream options. ([Source Code (⭐8.7k)](https://github.com/owncast/owncast)) `MIT` `Go`
 
 ### Software / Money, Budgeting & Management
 
@@ -1057,7 +1089,7 @@
 
 *   [Specifically Clementines](https://davideshay.github.io/groceries/) - Grocery shopping app (previously Groceries), providing reliable sync with multiple users/devices (web/Android/iOS), recipes and integration with Tandoor. ([Demo](https://www.specificallyclementines.com/), [Source Code (⭐197)](https://github.com/davideshay/groceries)) `MIT` `Docker`
 
-## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Testing
 
@@ -1071,7 +1103,7 @@
 
 *   [Glassfy](https://glassfy.io/) – In-app subscriptions infrastructure, real-time subscription events and out-of-the-box monetization tools on iOS, Android, Stripe and Paddle. Free up to $10k monthly revenue.
 
-## [18. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [19. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Integrations / Components
 
@@ -1085,7 +1117,7 @@
 
 *   [Zoom Image Library](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic headless-library to zoom image on the web
 
-## [19. Awesome Devtools](/content/moimikey/awesome-devtools/week/README.md)
+## [20. Awesome Devtools](/content/moimikey/awesome-devtools/week/README.md)
 
 ### Bookmarklets
 
@@ -1181,25 +1213,25 @@
 *   [Security Headers by Probely](https://securityheaders.com/?q=https%3A%2F%2Fsecurityheaders.com) - An easy to use tool designed to help you better deploy and understand modern security features that are available for your website.
 *   [Web Check](https://web-check.xyz) - All-in-one OSINT tool for analysing any website.
 
-## [20. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [21. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Tools and Equipment / 3D Printing and Fabrication
 
 *   [Printables](https://www.printables.com/) - Database of 3D-printable models with contests and an active community
 
-## [21. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [22. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [gowebly/gowebly (⭐150)](https://github.com/gowebly/gowebly#readme) - Clean project banner with logo. Useful badges and links (languages switcher, test cover, docs). Clear description of what the project does with quickstart, understandable feature list, links to the introduction video and article, well-documented CLI command examples, project philosophy notes ("motivation to create"), tables with project components, links to addons and helpers, list of stargazers, and more.
 
-## [22. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [23. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-console-line (⭐1)](https://github.com/lq9958/vite-plugin-console-line) - Add **console.log()** file location and line number infomation in browser's console.
+*   [vite-plugin-console-line (⭐2)](https://github.com/lq9958/vite-plugin-console-line) - Add **console.log()** file location and line number infomation in browser's console.
 
-## [23. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [24. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Chrome Extensions:
 
@@ -1216,7 +1248,7 @@
 
 
 
-## [24. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [25. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Deployment Hosting
 
@@ -1226,7 +1258,7 @@
 
 *   [Airbrake](https://airbrake.io) - Error monitoring in production.
 
-## [25. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -1248,42 +1280,11 @@
 
 *   [niuiic/remote.nvim (⭐25)](https://github.com/niuiic/remote.nvim) - Edit remote files with local configuration.
 
-## [26. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
+## [27. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
 
 ### Image Generator
 
 *   [Midjourney AI](https://www.midjourneyai.ai/) - Just enter your prompt and click the generate button.No code required to generate your image!
-
-## [27. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Cloud Computing
-
-*   [Openstack CERN Admin guide](https://clouddocs.web.cern.ch/index.html)
-
-### Data Science
-
-*   [Data Mining Concepts and Techniques](https://ia800702.us.archive.org/7/items/datamining_201811/DS-book%20u5.pdf) - Jiawei Han, Micheline Kamber, Jian Pei (PDF) (:card\_file\_box: archived)
-
-### Machine Learning
-
-*   [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) - François Fleuret (PDF)
-
-### Mathematics
-
-*   [A Cool Brisk Walk Through Discrete Mathematics](http://stephendavies.org/brisk.pdf) - Stephen Davies (PDF)
-*   [A Quick Steep Climb Up Linear Algebra](http://stephendavies.org/quick.pdf) - Stephen Davies (PDF)
-
-### Object Oriented Programming
-
-*   [OOP – Learn Object Oriented Thinking and Programming](https://files.bruckner.cz/be2a5b2104bf393da7092a4200903cc0/PecinovskyOOP.pdf) - Rudolf Pecinovsky (PDF)
-
-### Professional Development
-
-*   [How to Stand Out as a Software Engineer (⭐3)](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf) - Landry Monga (PDF)
-
-### Quantum Computing
-
-*   [Quantum Information Theory](https://markwilde.com/qit-notes.pdf) - Mark M. Wilde (PDF)
 
 ---
 

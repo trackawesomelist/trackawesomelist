@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 25, 2020
 
-20 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -159,22 +159,13 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 *   [Cohda Wireless](https://cohdawireless.com/) - V2X DSRC Radio and Software
 
-## [18. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### Websites
-
-*   Others
-    *   [Python ZEEF](https://python.zeef.com/alan.richmond)
-    *   [Pythonic News](https://news.python.sc/)
-    *   [What the f\*ck Python! (⭐33k)](https://github.com/satwikkansal/wtfpython)
-
-## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Networking
 
 *   [Boost.Beast (⭐4.1k)](https://github.com/boostorg/beast) :zap: - HTTP and WebSocket built on Boost.Asio in C++11. \[Boost] [website](https://www.boost.org/libs/beast)
 
-## [20. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [19. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Books
 
@@ -188,7 +179,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 ### Tools / Community providers
 
 *   [flora (⭐23)](https://github.com/ketchoop/flora) - Terraform version manager.
-*   [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform. [Read more (⭐642)](https://github.com/antonbabenko/serverless.tf).
+*   [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform. [Read more (⭐653)](https://github.com/antonbabenko/serverless.tf).
 *   [terraspace](https://terraspace.cloud) - The Terraform Framework
 
 ---

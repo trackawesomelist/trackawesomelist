@@ -10,27 +10,27 @@
 
 ### Graphics
 
-*   [ThorVG (⭐432)](https://github.com/thorvg/thorvg) - a platform-independent portable library that allows for drawing vector-based scenes and animations, including SVG and Lottie. \[MIT] [website](https://www.thorvg.org/)
+*   [ThorVG (⭐449)](https://github.com/thorvg/thorvg) - a platform-independent portable library that allows for drawing vector-based scenes and animations, including SVG and Lottie. \[MIT] [website](https://www.thorvg.org/)
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [UpVPN (⭐108)](https://github.com/upvpn/upvpn-app)  — WireGuard VPN client for macOS, Linux, and Windows built on Tauri.
+*   [UpVPN (⭐111)](https://github.com/upvpn/upvpn-app)  — WireGuard VPN client for macOS, Linux, and Windows built on Tauri.
 
 ### Applications / Package Managers
 
-*   [helsing-ai/buffrs (⭐111)](https://github.com/helsing-ai/buffrs) \[[buffrs](https://crates.io/crates/buffrs)] — A modern package manager for protocol buffers and gRPC architectures.
+*   [helsing-ai/buffrs (⭐114)](https://github.com/helsing-ai/buffrs) \[[buffrs](https://crates.io/crates/buffrs)] — A modern package manager for protocol buffers and gRPC architectures.
 
 ### Applications / Routing protocols
 
-*   [Holo (⭐151)](https://github.com/holo-routing/holo) - Holo is a suite of routing protocols designed to support high-scale and automation-driven networks
+*   [Holo (⭐157)](https://github.com/holo-routing/holo) - Holo is a suite of routing protocols designed to support high-scale and automation-driven networks
 
 ### Libraries / Template engine
 
 *   Handlebars
     *   [sunng87/handlebars-rust (⭐1.2k)](https://github.com/sunng87/handlebars-rust) — Handlebars template engine with inheritance, custom helper support.
-    *   [zzau13/yarte (⭐266)](https://github.com/zzau13/yarte) — Yarte stands for **Y**et **A**nother **R**ust **T**emplate **E**ngine, is the fastest template engine.
+    *   [zzau13/yarte (⭐271)](https://github.com/zzau13/yarte) — Yarte stands for **Y**et **A**nother **R**ust **T**emplate **E**ngine, is the fastest template engine.
 
 ### Resources / Web programming
 
@@ -94,11 +94,11 @@
 
 ### Downloading and Serving / Directory Navigation
 
-*   [yt-dlp (⭐60k)](https://github.com/yt-dlp/yt-dlp) - Command-line program to download videos from YouTube.com and other video sites
+*   [yt-dlp (⭐66k)](https://github.com/yt-dlp/yt-dlp) - Command-line program to download videos from YouTube.com and other video sites
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [library (⭐122)](https://github.com/chapmanjacobd/library) - Create SQLITE databases for folders of music, video, images, or online media. Play and track media like Plex but a CLI-only interface with many sorting options.
+*   [library (⭐145)](https://github.com/chapmanjacobd/library) - Create SQLITE databases for folders of music, video, images, or online media. Play and track media like Plex but a CLI-only interface with many sorting options.
 
 ### Shell Script Development / Directory Navigation
 

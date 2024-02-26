@@ -64,7 +64,7 @@
 
 ### Shell Package Management / Directory Navigation
 
-*   [shundle (⭐82)](https://github.com/javier-lopez/shundle) - Plugin manager for shell scripts
+*   [shundle (⭐81)](https://github.com/javier-lopez/shundle) - Plugin manager for shell scripts
 
 ## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

@@ -95,9 +95,9 @@
 
 ### Applications / Blockchain
 
-*   [Bitcoin Satoshi's Vision (⭐56)](https://github.com/brentongunning/rust-sv) \[[sv](https://crates.io/crates/sv)] — A Rust library for working with Bitcoin SV .
+*   [Bitcoin Satoshi's Vision (⭐56)](https://github.com/brentongunning/rust-sv) \[[sv](https://crates.io/crates/sv)] — A library for working with Bitcoin SV.
 *   [hdwallet (⭐31)](https://github.com/jjyr/hdwallet) \[[hdwallet](https://crates.io/crates/hdwallet)] — BIP-32 HD wallet related key derivation utilities.
-*   [infincia/bip39-rs (⭐53)](https://github.com/infincia/bip39-rs) \[[bip39](https://crates.io/crates/bip39)] — Rust implementation of BIP39.
+*   [infincia/bip39-rs (⭐53)](https://github.com/infincia/bip39-rs) \[[bip39](https://crates.io/crates/bip39)] — Implementation of BIP39.
 
 ### Applications / Database
 
@@ -135,35 +135,35 @@
 *   HAR
     *   [mandrean/har-rs (⭐39)](https://github.com/mandrean/har-rs) \[[har](https://crates.io/crates/har)] — A HTTP Archive Format (HAR) serialization & deserialization library
 *   YAML
-    *   [chyh1990/yaml-rust (⭐573)](https://github.com/chyh1990/yaml-rust) — The missing YAML 1.2 implementation for Rust.
-    *   [dtolnay/serde-yaml (⭐888)](https://github.com/dtolnay/serde-yaml) \[[serde\_yaml](https://crates.io/crates/serde_yaml)] — YAML support for [Serde (⭐8.3k)](https://github.com/serde-rs/serde) framework [![build](https://img.shields.io/github/workflow/status/dtolnay/serde-yaml/CI/master)](https://github.com/dtolnay/serde-yaml/actions?query=branch%3Amaster)
-    *   [vitiral/stfu8 (⭐24)](https://github.com/vitiral/stfu8) \[[stfu8](https://crates.io/crates/stfu8)] — Sorta Text Format in UTF-8
+    *   [chyh1990/yaml-rust (⭐575)](https://github.com/chyh1990/yaml-rust) — The missing YAML 1.2 implementation.
+    *   [dtolnay/serde-yaml (⭐898)](https://github.com/dtolnay/serde-yaml) \[[serde\_yaml](https://crates.io/crates/serde_yaml)] — YAML support for [Serde (⭐8.4k)](https://github.com/serde-rs/serde) framework [![build](https://img.shields.io/github/workflow/status/dtolnay/serde-yaml/CI/master)](https://github.com/dtolnay/serde-yaml/actions?query=branch%3Amaster)
+    *   [vitiral/stfu8 (⭐25)](https://github.com/vitiral/stfu8) \[[stfu8](https://crates.io/crates/stfu8)] — Sorta Text Format in UTF-8
 
 ### Libraries / Network programming
 
 *   NNTP
-    *   [mattnenterprise/rust-nntp (⭐16)](https://github.com/mattnenterprise/rust-nntp) \[[nntp](https://crates.io/crates/nntp)] — an [NNTP](https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol) client for Rust
+    *   [mattnenterprise/rust-nntp (⭐17)](https://github.com/mattnenterprise/rust-nntp) \[[nntp](https://crates.io/crates/nntp)] — an [NNTP](https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol) client
 *   POP3
-    *   [mattnenterprise/rust-pop3 (⭐28)](https://github.com/mattnenterprise/rust-pop3) \[[pop3](https://crates.io/crates/pop3)] — A [POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) client for Rust
+    *   [mattnenterprise/rust-pop3 (⭐29)](https://github.com/mattnenterprise/rust-pop3) \[[pop3](https://crates.io/crates/pop3)] — A [POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) client
 
 ### Libraries / Parsing
 
-*   [nrc/zero (⭐45)](https://github.com/nrc/zero) \[[zero](https://crates.io/crates/zero/)] — zero-allocation parsing of binary data
+*   [nrc/zero (⭐46)](https://github.com/nrc/zero) \[[zero](https://crates.io/crates/zero/)] — zero-allocation parsing of binary data
 
 ### Libraries / Platform specific
 
 *   FreeBSD
-    *   [fubarnetes/libjail-rs (⭐49)](https://github.com/fubarnetes/libjail-rs/) \[[jail](https://crates.io/crates/jail)] — Rust implementation of a FreeBSD jail library
+    *   [fubarnetes/libjail-rs (⭐49)](https://github.com/fubarnetes/libjail-rs/) \[[jail](https://crates.io/crates/jail)] — FreeBSD jail library
 
 ### Libraries / Scripting
 
-*   [rhaiscript/rhai (⭐3.3k)](https://github.com/rhaiscript/rhai) — A tiny and fast embedded scripting language resembling a combination of JavaScript and Rust [![build badge](https://github.com/rhaiscript/rhai/workflows/Build/badge.svg)](https://github.com/rhaiscript/rhai/actions)
-*   [rune-rs/rune (⭐1.5k)](https://github.com/rune-rs/rune) — An embeddable dynamic programming language for Rust
+*   [rhaiscript/rhai (⭐3.4k)](https://github.com/rhaiscript/rhai) — A tiny and fast embedded scripting language resembling a combination of JavaScript and Rust [![build badge](https://github.com/rhaiscript/rhai/workflows/Build/badge.svg)](https://github.com/rhaiscript/rhai/actions)
+*   [rune-rs/rune (⭐1.5k)](https://github.com/rune-rs/rune) — An embeddable dynamic programming language
 
 ### Libraries / Text processing
 
 *   [pwoolcoc/ngrams (⭐27)](https://github.com/pwoolcoc/ngrams) \[[ngrams](https://crates.io/crates/ngrams)] — Construct [n-grams](https://en.wikipedia.org/wiki/N-gram) from arbitrary iterators
-*   [yaa110/rake-rs (⭐30)](https://github.com/yaa110/rake-rs) \[[rake](https://crates.io/crates/rake)] — Multilingual implementation of RAKE algorithm for Rust
+*   [yaa110/rake-rs (⭐31)](https://github.com/yaa110/rake-rs) \[[rake](https://crates.io/crates/rake)] — Multilingual implementation of RAKE algorithm for Rust
 
 ## [10. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 

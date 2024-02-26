@@ -26,7 +26,7 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [kotlin-graphics/openvr (⭐35)](https://github.com/kotlin-graphics/openvr) - OpenVR binding
+*   [kotlin-graphics/openvr (⭐34)](https://github.com/kotlin-graphics/openvr) - OpenVR binding
 
 ## [4. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -227,8 +227,8 @@
 
 ### Official plugins
 
-*   [Device (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/device) - Exposes internal information about the device, such as the model and operating system version, along with user information such as unique IDs.
-*   [File system (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/filesystem) - Provides a NodeJS-like API for working with files on the device.
+*   [Device (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/device) - Exposes internal information about the device, such as the model and operating system version, along with user information such as unique IDs.
+*   [File system (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/filesystem) - Provides a NodeJS-like API for working with files on the device.
 
 ### Learning / Crash Courses
 
@@ -325,17 +325,17 @@
 
 ### Applications / Security tools
 
-*   [ObserverWard (⭐893)](https://github.com/0x727/ObserverWard) — Community based web technologies analysis tool.
+*   [ObserverWard (⭐894)](https://github.com/0x727/ObserverWard) — Community based web technologies analysis tool.
 
 ### Libraries / GUI
 
-*   [slint-ui/slint (⭐12k)](https://github.com/slint-ui/slint) [slint](https://crates.io/crates/slint) — [Slint](https://slint.dev/) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
+*   [slint-ui/slint (⭐13k)](https://github.com/slint-ui/slint) [slint](https://crates.io/crates/slint) — [Slint](https://slint.dev/) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
 
 ## [28. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### GUI
 
-*   [Slint (⭐12k)](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. \[GPL/Free/Proprietary] [website](https://slint.dev/)
+*   [Slint (⭐13k)](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. \[GPL/Free/Proprietary] [website](https://slint.dev/)
 
 ## [29. Awesome Slack](/content/matiassingers/awesome-slack/week/README.md)
 
@@ -713,7 +713,7 @@
 *   `MSYS2` included, `zsh` and necessary software preinstalled, uses zsh-grml-config
 *   Uses [Antigen (⭐7.8k)](https://github.com/zsh-users/antigen) for ZSH theme and config management
 *   Git-for-Windows repo with proper `git` and `git lfs` support for `MSYS2` environment is configured, `git` client already installed.
-*   Non-blocking ZSH prompt status updates thanks to [agkozak-zsh-prompt (⭐260)](https://github.com/agkozak/agkozak-zsh-prompt)
+*   Non-blocking ZSH prompt status updates thanks to [agkozak-zsh-prompt (⭐263)](https://github.com/agkozak/agkozak-zsh-prompt)
 *   Command-not-found handler customized for `MSYS2` suggests what package to install
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -726,7 +726,7 @@
 *   [cn (⭐0)](https://github.com/shinqcn/cn-zsh/) - Includes `username`, `directory` and `git` status decorations.
 *   [flux (⭐0)](https://github.com/jmg-duarte/flux-zsh) - A no-nonsense minimalist theme with `git` status decorations.
 *   [linear (⭐4)](https://github.com/MrYazdan/zsh-linear-theme) - Reminiscent of Powerline. Includes segments with `git` status, Pythonvirtualenv, current directory and current time.
-*   [my (⭐0)](https://github.com/fabiendelpierre/my-zsh-theme/) - Variant of [kolo (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#kolo).
+*   [my (⭐0)](https://github.com/fabiendelpierre/my-zsh-theme/) - Variant of [kolo (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#kolo).
 *   [snowflake (⭐4)](https://github.com/angelina-tsuboi/snowflake-zsh-theme) - An elegant, simple, and neat ZSH theme including an aesthetically pleasing cool color palette that harmonizes with dark themes.
 
 ## [34. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
@@ -777,15 +777,15 @@
 
 ### Database Schema Migration
 
-*   [godfish (⭐6)](https://github.com/rafaelespinoza/godfish) - Database migration manager, works with native query language. Support for cassandra, mysql, postgres, sqlite3.
+*   [godfish (⭐7)](https://github.com/rafaelespinoza/godfish) - Database migration manager, works with native query language. Support for cassandra, mysql, postgres, sqlite3.
 
 ### Email
 
-*   [truemail-go (⭐73)](https://github.com/truemail-rb/truemail-go) - Configurable Golang email validator/verifier. Verify email via Regex, DNS, SMTP and even more.
+*   [truemail-go (⭐74)](https://github.com/truemail-rb/truemail-go) - Configurable Golang email validator/verifier. Verify email via Regex, DNS, SMTP and even more.
 
 ### File Handling
 
-*   [gofs (⭐391)](https://github.com/no-src/gofs) - A cross-platform real-time file synchronization tool out of the box.
+*   [gofs (⭐394)](https://github.com/no-src/gofs) - A cross-platform real-time file synchronization tool out of the box.
 
 ### Utilities
 
@@ -794,7 +794,7 @@
 ### Web Frameworks
 
 *   [Beego (⭐31k)](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
-*   [Huma (⭐437)](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
+*   [Huma (⭐673)](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
 
 ## [40. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -858,16 +858,16 @@
 
 ### Projects
 
-*   [Realworld example (⭐806)](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri (⭐73k)](https://github.com/tauri-apps/tauri).
+*   [Realworld example (⭐816)](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri (⭐75k)](https://github.com/tauri-apps/tauri).
 *   [Marc Portfolio](https://gitlab.com/marcempunkt/maeurerdev) - A software developer portfolio, [Live Demo](https://maeurer.dev/).
 
 ### Crates / Component Libraries
 
-*   [yew-chart (⭐52)](https://github.com/titanclass/yew-chart) - A Yew-based charting library that provides SVG based components for rendering charts.
+*   [yew-chart (⭐54)](https://github.com/titanclass/yew-chart) - A Yew-based charting library that provides SVG based components for rendering charts.
 
 ### Crates / Utils
 
-*   [Tailwind RS (⭐84)](https://github.com/oovm/tailwind-rs) - Tailwind style tracer in rust, JIT + AOT interpreter.
+*   [Tailwind RS (⭐92)](https://github.com/oovm/tailwind-rs) - Tailwind style tracer in rust, JIT + AOT interpreter.
 
 ### Articles / Frameworks
 
@@ -950,48 +950,48 @@
 
 ### ⚙️ Middlewares / 🧬 Core
 
-*   [BasicAuth (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/basicauth) - Basic auth middleware provides an HTTP basic authentication. It calls the next handler for valid credentials and 401 Unauthorized for missing or invalid credentials.
-*   [Cache (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/cache) - Intercept and cache responses.
-*   [Compress (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/compress) - 	Compression middleware for Fiber, it supports `deflate`, `gzip` and `brotli` by default.
-*   [CORS (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/cors) - Enable cross-origin resource sharing (CORS) with various options.
-*   [CSRF (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/csrf) - Protect from CSRF exploits.
-*   [Encrypt Cookie (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/encryptcookie) - Encrypt middleware which encrypts cookie values.
-*   [ETag (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/etag) - ETag middleware that lets caches be more efficient and save bandwidth, as a web server does not need to resend a full response if the content has not changed.
-*   [Expvar (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/expvar) - Expvar middleware that serves via its HTTP server runtime exposed variants in the JSON format.
-*   [Favicon (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/favicon) - Ignore favicon from logs or serve from memory if a file path is provided.
-*   [FileSystem (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/filesystem) - FileSystem middleware for Fiber, special thanks and credits to Alireza Salary.
-*   [Limiter (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/limiter) - Rate-limiting middleware. Use to limit repeated requests to public APIs and/or endpoints such as password reset.
-*   [Logger (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/logger) - HTTP request/response logger.
-*   [Monitor (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/monitor) - Monitor middleware that reports server metrics, inspired by express-status-monitor.
-*   [Pprof (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/pprof) - Pprof middleware that serves via its HTTP server runtime profiling data in the format expected by the pprof visualization tool.
-*   [Proxy (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/proxy) - Allows you to proxy requests to a multiple servers.
-*   [Recover (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/recover) - Recover middleware recovers from panics anywhere in the stack chain and handles the control to the centralized ErrorHandler.
-*   [RequestID (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/requestid) - Adds a requestid to every request.
-*   [Session (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/session) - Session middleware. NOTE: This middleware uses our Storage package.
-*   [Skip (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/skip) - Skip middleware that skips a wrapped handler is a predicate is true.
-*   [Timeout (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/timeout) - Adds a max time for a request and forwards to ErrorHandler if it is exceeded.
+*   [BasicAuth (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/basicauth) - Basic auth middleware provides an HTTP basic authentication. It calls the next handler for valid credentials and 401 Unauthorized for missing or invalid credentials.
+*   [Cache (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/cache) - Intercept and cache responses.
+*   [Compress (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/compress) - 	Compression middleware for Fiber, it supports `deflate`, `gzip` and `brotli` by default.
+*   [CORS (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/cors) - Enable cross-origin resource sharing (CORS) with various options.
+*   [CSRF (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/csrf) - Protect from CSRF exploits.
+*   [Encrypt Cookie (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/encryptcookie) - Encrypt middleware which encrypts cookie values.
+*   [ETag (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/etag) - ETag middleware that lets caches be more efficient and save bandwidth, as a web server does not need to resend a full response if the content has not changed.
+*   [Expvar (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/expvar) - Expvar middleware that serves via its HTTP server runtime exposed variants in the JSON format.
+*   [Favicon (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/favicon) - Ignore favicon from logs or serve from memory if a file path is provided.
+*   [FileSystem (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/filesystem) - FileSystem middleware for Fiber, special thanks and credits to Alireza Salary.
+*   [Limiter (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/limiter) - Rate-limiting middleware. Use to limit repeated requests to public APIs and/or endpoints such as password reset.
+*   [Logger (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/logger) - HTTP request/response logger.
+*   [Monitor (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/monitor) - Monitor middleware that reports server metrics, inspired by express-status-monitor.
+*   [Pprof (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/pprof) - Pprof middleware that serves via its HTTP server runtime profiling data in the format expected by the pprof visualization tool.
+*   [Proxy (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/proxy) - Allows you to proxy requests to a multiple servers.
+*   [Recover (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/recover) - Recover middleware recovers from panics anywhere in the stack chain and handles the control to the centralized ErrorHandler.
+*   [RequestID (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/requestid) - Adds a requestid to every request.
+*   [Session (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/session) - Session middleware. NOTE: This middleware uses our Storage package.
+*   [Skip (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/skip) - Skip middleware that skips a wrapped handler is a predicate is true.
+*   [Timeout (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/timeout) - Adds a max time for a request and forwards to ErrorHandler if it is exceeded.
 
 ### ⚙️ Middlewares / 🔗 External
 
-*   [storage (⭐210)](https://github.com/gofiber/storage) - Premade storage drivers that implement the Storage interface, designed to be used with various Fiber middlewares.
-*   [template (⭐216)](https://github.com/gofiber/template) - This package contains 8 template engines that can be used with Fiber v1.10.x Go version 1.13 or higher is required.
+*   [storage (⭐240)](https://github.com/gofiber/storage) - Premade storage drivers that implement the Storage interface, designed to be used with various Fiber middlewares.
+*   [template (⭐241)](https://github.com/gofiber/template) - This package contains 8 template engines that can be used with Fiber v1.10.x Go version 1.13 or higher is required.
 
 ### ⚙️ Middlewares / ‍💻 Contrib
 
-*   [fibersentry (⭐133)](https://github.com/gofiber/contrib/tree/main/fibersentry) - Sentry support for Fiber.
-*   [fiberzap (⭐133)](https://github.com/gofiber/contrib/tree/main/fiberzap) - Zap logging support for Fiber.
-*   [otelfiber (⭐133)](https://github.com/gofiber/contrib/tree/main/otelfiber) - OpenTelemetry support for Fiber.
-*   [paseto (⭐133)](https://github.com/gofiber/contrib/tree/main/paseto) - PASETO returns a Web Token (PASETO) auth middleware.
-*   [swagger (⭐133)](https://github.com/gofiber/contrib/tree/main/swagger) - Swagger middleware for Fiber. The middleware handles Swagger UI.
+*   [fibersentry (⭐176)](https://github.com/gofiber/contrib/tree/main/fibersentry) - Sentry support for Fiber.
+*   [fiberzap (⭐176)](https://github.com/gofiber/contrib/tree/main/fiberzap) - Zap logging support for Fiber.
+*   [otelfiber (⭐176)](https://github.com/gofiber/contrib/tree/main/otelfiber) - OpenTelemetry support for Fiber.
+*   [paseto (⭐176)](https://github.com/gofiber/contrib/tree/main/paseto) - PASETO returns a Web Token (PASETO) auth middleware.
+*   [swagger (⭐176)](https://github.com/gofiber/contrib/tree/main/swagger) - Swagger middleware for Fiber. The middleware handles Swagger UI.
 
 ### 📁 Recipes / 🌱 Third Party
 
-*   [gofiber/recipes (⭐2.5k)](https://github.com/gofiber/recipes) - Official Fiber cookbook.
+*   [gofiber/recipes (⭐2.8k)](https://github.com/gofiber/recipes) - Official Fiber cookbook.
 
 ### 🛠️ Tools / 🌱 Third Party
 
-*   [go-dawn/dawn (⭐11)](https://github.com/go-dawn/dawn) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of Fiber.
-*   [tompston/gomakeme (⭐8)](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
+*   [go-dawn/dawn (⭐16)](https://github.com/go-dawn/dawn) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of Fiber.
+*   [tompston/gomakeme (⭐10)](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
 
 ### 📖 Articles / 🌱 Third Party
 

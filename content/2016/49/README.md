@@ -55,7 +55,7 @@
 
 ### Programming Tools / Lenses
 
-*   [eslint-plugin-fp (⭐966)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
+*   [eslint-plugin-fp (⭐969)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
 
 ## [6. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
 
@@ -164,7 +164,7 @@
 
 ### Libraries
 
-*   [JSON-Fortran (⭐274)](https://github.com/jacobwilliams/json-fortran) - A Fortran library for writing, reading, and manipulating JSON files and data structures.
+*   [JSON-Fortran (⭐313)](https://github.com/jacobwilliams/json-fortran) - A Fortran library for writing, reading, and manipulating JSON files and data structures.
 
 ### Online tools
 
@@ -172,7 +172,7 @@
 
 ### JSON Schema Tools
 
-*   [js-schema (⭐392)](https://github.com/molnarg/js-schema) - A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.
+*   [js-schema (⭐387)](https://github.com/molnarg/js-schema) - A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.
 
 ## [18. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
@@ -255,12 +255,12 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_mnesia (⭐240)](https://github.com/Nebo15/ecto_mnesia) - Ecto adapter for Mnesia Erlang term database.
+*   [ecto\_mnesia (⭐242)](https://github.com/Nebo15/ecto_mnesia) - Ecto adapter for Mnesia Erlang term database.
 *   [ecto\_paging (⭐14)](https://github.com/Nebo15/ecto_paging) - Cursor-based pagination for Ecto.
 
 ### Utilities
 
-*   [dress (⭐61)](https://github.com/veelenga/dress) - Cli app that makes your stdout fancy.
+*   [dress (⭐62)](https://github.com/veelenga/dress) - Cli app that makes your stdout fancy.
 
 ## [28. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
@@ -361,7 +361,7 @@
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
-*   [WebGL Lessons — ThreeJS Shaders (⭐365)](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS.
+*   [WebGL Lessons — ThreeJS Shaders (⭐362)](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS.
 *   [ThreeJS post-proces example (⭐24)](https://github.com/Jam3/threejs-post-process-example) - example of post-processing effects in ThreeJS.
 
 ## [35. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)

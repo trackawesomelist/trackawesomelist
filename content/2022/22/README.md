@@ -1,6 +1,6 @@
 # Awesome List Updates on May 30 - Jun 05, 2022
 
-55 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Maps / Map Games
 
-*   [PraxisMapper (⭐41)](https://github.com/drakewill-CRL/PraxisMapper) - GPS Game server, for making mobile games around exploring the real world.
+*   [PraxisMapper (⭐42)](https://github.com/drakewill-CRL/PraxisMapper) - GPS Game server, for making mobile games around exploring the real world.
 
 ## [2. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
@@ -112,47 +112,47 @@
 
 ### Platforms
 
-*   [Capacitor (⭐391)](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
-*   [ArcGIS Developer (⭐188)](https://github.com/Esri/awesome-arcgis-developer#readme) - Mapping and location analysis platform for developers.
+*   [Capacitor (⭐403)](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
+*   [ArcGIS Developer (⭐189)](https://github.com/Esri/awesome-arcgis-developer#readme) - Mapping and location analysis platform for developers.
 
 ### Programming Languages
 
-*   [Zig (⭐276)](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+*   [Zig (⭐291)](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ### Back-End Development
 
-*   [Fiber (⭐367)](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
+*   [Fiber (⭐397)](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
 
 ### Computer Science
 
-*   [Conversational AI (⭐131)](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
+*   [Conversational AI (⭐139)](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
 
 ### Theory
 
-*   [Audit Algorithms (⭐77)](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - Algorithmic audits of algorithms.
+*   [Audit Algorithms (⭐79)](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - Algorithmic audits of algorithms.
 
 ### Databases
 
-*   [TDengine (⭐48)](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
+*   [TDengine (⭐49)](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
 
 ### Security
 
-*   [Malware Persistence (⭐136)](https://github.com/Karneades/awesome-malware-persistence#readme) - Techniques that adversaries use to keep access to systems across restarts.
-*   [EVM Security (⭐146)](https://github.com/kareniel/awesome-evm-security#readme) - Understanding the Ethereum Virtual Machine security ecosystem.
+*   [Malware Persistence (⭐138)](https://github.com/Karneades/awesome-malware-persistence#readme) - Techniques that adversaries use to keep access to systems across restarts.
+*   [EVM Security (⭐149)](https://github.com/kareniel/awesome-evm-security#readme) - Understanding the Ethereum Virtual Machine security ecosystem.
 
 ### Content Management Systems
 
-*   [Directus (⭐387)](https://github.com/directus-community/awesome-directus#readme) - A real-time API and app dashboard for managing SQL database content.
-*   [Plone (⭐41)](https://github.com/collective/awesome-plone#readme) - Open source Python CMS.
+*   [Directus (⭐422)](https://github.com/directus-community/awesome-directus#readme) - A real-time API and app dashboard for managing SQL database content.
+*   [Plone (⭐45)](https://github.com/collective/awesome-plone#readme) - Open source Python CMS.
 
 ### Hardware
 
-*   [Open Hardware (⭐312)](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Open-source hardware projects.
+*   [Open Hardware (⭐322)](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Open-source hardware projects.
 
 ### Miscellaneous
 
-*   [OpenStreetMap (⭐525)](https://github.com/osmlab/awesome-openstreetmap#readme) - An open data mapping project utilized by many apps and devices.
-*   [Computational Biology (⭐43)](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
+*   [OpenStreetMap (⭐531)](https://github.com/osmlab/awesome-openstreetmap#readme) - An open data mapping project utilized by many apps and devices.
+*   [Computational Biology (⭐46)](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
 
 ## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -322,7 +322,7 @@
 
 ### Software / Vector Creation
 
-*   [linedraw (⭐724)](https://github.com/LingDong-/linedraw) - Python tool to convert images to sketchy vector line drawings.
+*   [linedraw (⭐729)](https://github.com/LingDong-/linedraw) - Python tool to convert images to sketchy vector line drawings.
 
 ### Manuals and Ephemera / Manuals
 
@@ -366,26 +366,26 @@
 
 ### Software / Automation
 
-*   [betanin (⭐290)](https://github.com/sentriz/betanin) - Music organization man-in-the-middle of your torrent client and music player. Based on beets.io, similar to Sonarr and Radarr. `GPL-3.0` `Python/Docker`
+*   [betanin (⭐292)](https://github.com/sentriz/betanin) - Music organization man-in-the-middle of your torrent client and music player. Based on beets.io, similar to Sonarr and Radarr. `GPL-3.0` `Python/Docker`
 
 ### Software / Calendar & Contacts
 
-*   [Davis (⭐270)](https://github.com/tchapi/davis) - A simple, dockerizable and fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 4, largely inspired by Baïkal. `MIT` `PHP`
+*   [Davis (⭐277)](https://github.com/tchapi/davis) - A simple, dockerizable and fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 4, largely inspired by Baïkal. `MIT` `PHP`
 
 ### Software / Communication - Custom Communication Systems
 
 *   [Centrifugo](https://centrifugal.dev/) - Language-agnostic real-time messaging (Websocket or SockJS) server. ([Demo (⭐7.7k)](https://github.com/centrifugal/centrifugo#demo), [Source Code (⭐7.7k)](https://github.com/centrifugal/centrifugo)) `MIT` `Go/Docker/K8S`
 *   [Jami](https://jami.net/) - Free and universal communication platform which preserves the user's privacy and freedoms (formerly GNU Ring). ([Source Code](https://git.jami.net/savoirfairelinux?sort=latest_activity_desc\&filter=jami)) `GPL-3.0` `C++`
-*   [Notifo (⭐714)](https://github.com/notifo-io/notifo) - Multichannel notification server with support for Email, Mobile Push, Web Push, SMS, messaging and a javascript plugin. `MIT` `C#`
+*   [Notifo (⭐720)](https://github.com/notifo-io/notifo) - Multichannel notification server with support for Email, Mobile Push, Web Push, SMS, messaging and a javascript plugin. `MIT` `C#`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Bolt CMS](https://boltcms.io/) - Open source Content Management Tool, which strives to be as simple and straightforward as possible. ([Source Code (⭐518)](https://github.com/bolt/core)) `MIT` `PHP`
+*   [Bolt CMS](https://boltcms.io/) - Open source Content Management Tool, which strives to be as simple and straightforward as possible. ([Source Code (⭐520)](https://github.com/bolt/core)) `MIT` `PHP`
 
 ### Software / Document Management
 
-*   [DOCAT (⭐698)](https://github.com/docat-org/docat) - Host your docs. Simple. Versioned. Fancy. `MIT` `Python/Docker`
-*   [EveryDocs (⭐165)](https://github.com/jonashellmann/everydocs-core) - A simple Document Management System for private use with basic functionality to organize your documents digitally. `GPL-3.0` `Docker/Ruby`
+*   [DOCAT (⭐710)](https://github.com/docat-org/docat) - Host your docs. Simple. Versioned. Fancy. `MIT` `Python/Docker`
+*   [EveryDocs (⭐166)](https://github.com/jonashellmann/everydocs-core) - A simple Document Management System for private use with basic functionality to organize your documents digitally. `GPL-3.0` `Docker/Ruby`
 
 ### Software / E-commerce
 
@@ -393,12 +393,12 @@
 
 ### Software / Feed Readers
 
-*   [Bubo Reader (⭐155)](https://github.com/georgemandis/bubo-rss) - Open source, "irrationally minimal" RSS feed reader. ([Demo](https://bubo-rss-demo.netlify.app/)) `MIT` `Nodejs`
-*   [Stringer (⭐3.7k)](https://github.com/stringer-rss/stringer) - Work-in-progress self-hosted, anti-social RSS reader. `MIT` `Ruby`
+*   [Bubo Reader (⭐160)](https://github.com/georgemandis/bubo-rss) - Open source, "irrationally minimal" RSS feed reader. ([Demo](https://bubo-rss-demo.netlify.app/)) `MIT` `Nodejs`
+*   [Stringer (⭐3.8k)](https://github.com/stringer-rss/stringer) - Work-in-progress self-hosted, anti-social RSS reader. `MIT` `Ruby`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [GoSƐ (⭐160)](https://github.com/stv0g/gose) - GoSƐ is a modern file-uploader focusing on scalability and simplicity. It only depends on a S3 storage backend and hence scales horizontally without the need for additional databases or caches. ([Demo](https://gose.0l.de)) `Apache-2.0` `Go/Docker`
+*   [GoSƐ (⭐165)](https://github.com/stv0g/gose) - GoSƐ is a modern file-uploader focusing on scalability and simplicity. It only depends on a S3 storage backend and hence scales horizontally without the need for additional databases or caches. ([Demo](https://gose.0l.de)) `Apache-2.0` `Go/Docker`
 *   [OnionShare (⭐5.9k)](https://github.com/onionshare/onionshare) - Securely and anonymously share a file of any size. `GPL-2.0` `Python/deb`
 
 ### Software / Games
@@ -419,10 +419,10 @@
 
 ### Software / Miscellaneous
 
-*   [Baby Buddy (⭐1.8k)](https://github.com/babybuddy/babybuddy) - Helps caregivers track baby sleep, feedings, diaper changes, and tummy time. ([Demo](https://demo.baby-buddy.net/login/?next=/)) `BSD-2-Clause` `Python`
+*   [Baby Buddy (⭐1.9k)](https://github.com/babybuddy/babybuddy) - Helps caregivers track baby sleep, feedings, diaper changes, and tummy time. ([Demo](https://demo.baby-buddy.net/login/?next=/)) `BSD-2-Clause` `Python`
 *   [Octave Online](https://octave-online.net/) - Infrastracture behind a web UI for GNU Octave (alternative to MATLAB). ([Source Code (⭐299)](https://github.com/octave-online/octave-online-server)) `AGPL-3.0` `Docker/Nodejs`
 *   [PassCheck](https://passcheck.anhur.xyz/) - A web application featuring some handy password tools, including a password generator, strength checker and HaveIBeenPwned breach checker. ([Source Code (⭐55)](https://github.com/AtentumZero/PassCheck)) `MIT` `Javascript`
-*   [string.is](https://string.is/) - An open-source, privacy-friendly online string toolkit for developers. ([Source Code (⭐180)](https://github.com/recurser/string-is)) `AGPL-3.0` `Nodejs`
+*   [string.is](https://string.is/) - An open-source, privacy-friendly online string toolkit for developers. ([Source Code (⭐184)](https://github.com/recurser/string-is)) `AGPL-3.0` `Nodejs`
 *   [ViMbAdmin](https://www.vimbadmin.net/) - Provides a web based virtual mailbox administration system to allow mail administrators to easily manage domains, mailboxes and aliases. ([Source Code (⭐482)](https://github.com/opensolutions/ViMbAdmin)) `GPL-3.0` `PHP`
 
 ### Software / Money, Budgeting & Management
@@ -443,7 +443,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [Phproject](https://www.phproject.org/) - High performance full-featured project management system. ([Source Code (⭐381)](https://github.com/Alanaktion/phproject)) `GPL-3.0` `PHP`
+*   [Phproject](https://www.phproject.org/) - High performance full-featured project management system. ([Source Code (⭐382)](https://github.com/Alanaktion/phproject)) `GPL-3.0` `PHP`
 *   [Titra](https://titra.io/) - Time-tracking solution for freelancers and small teams. ([Source Code (⭐375)](https://github.com/kromitgmbh/titra)) `GPL-3.0` `Javascript/Docker`
 
 ## [34. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
@@ -456,7 +456,7 @@
 ### Tools - Security / React
 
 *   [Escape - The GraphQL Security Scanner](https://graphql.security/) - One-click security scan of your GraphQL endpoints. Free, no login required.
-*   [Escape Graphinder - GraphQL Subdomain Enumeration (⭐113)](https://github.com/Escape-Technologies/graphinder) – Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.
+*   [Escape Graphinder - GraphQL Subdomain Enumeration (⭐114)](https://github.com/Escape-Technologies/graphinder) – Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.
 
 ### Blogs - Security / React
 
@@ -470,7 +470,7 @@
 
 ### Libraries/Frameworks / Validation
 
-*   [konform-kt/konform (⭐605)](https://github.com/konform-kt/konform) - Multiplatform validations for Kotlin data classes
+*   [konform-kt/konform (⭐608)](https://github.com/konform-kt/konform) - Multiplatform validations for Kotlin data classes
 
 ### Libraries/Frameworks / Database
 
@@ -480,19 +480,13 @@
 
 *   [vjames19/kotlin-futures (⭐83)](https://github.com/vjames19/kotlin-futures) - A collections of extension functions to make the JVM Future, CompletableFuture, ListenableFuture API more functional and Kotlin like.
 
-## [36. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Blockchain
-
-*   [Mastering the Lightning Network (⭐2.7k)](https://github.com/lnbook/lnbook) - Andreas M. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt (AsciiDoc)
-
-## [37. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [36. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-cem (⭐20)](https://github.com/Kamiapp-fr/vite-plugin-cem) - Generates `custom-elements.json` manifest for describing custom elements.
+*   [vite-plugin-cem (⭐22)](https://github.com/Kamiapp-fr/vite-plugin-cem) - Generates `custom-elements.json` manifest for describing custom elements.
 
-## [38. Awesome](/content/craftcms/awesome/week/README.md)
+## [37. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Articles / Security
 
@@ -500,25 +494,25 @@
 *   [Storing Secrets in Craft CMS](https://putyourlightson.com/articles/storing-secrets-in-craft-cms) by Ben Croker/PutYourLightsOn - `6 July 2021`
 *   [Common Security Vulnerabilities in Craft CMS Plugins](https://putyourlightson.com/articles/common-security-vulnerabilities-in-craft-cms-plugins) by Ben Croker/PutYourLightsOn - `31 Oct 2021`
 
-## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
 *   [CodeSnippet](https://www.codesnippet.fr) - A collaborative code editor for teachers and students.
 
-## [40. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [39. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Editors
 
 *   [vee (⭐38)](https://github.com/Larpon/vee) - V Editor Engine. A V module providing the guts of a text editor. Comes with a [TUI editor example (⭐38)](https://github.com/Larpon/vee/blob/master/examples/tuieditor/).
 
-## [41. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [40. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Research Papers
 
 *   [Which model to choose? Performance comparison of statistical and machine learning models in predicting PM2.5 from high-resolution satellite aerosol optical depth](https://www.sciencedirect.com/science/article/abs/pii/S1352231022002291?dgcid=coauthor) Padmavati Kulkarnia, V.Sreekantha, Adithi R.Upadhyab, Hrishikesh ChandraGautama.  (2022)
 
-## [42. GoBooks](/content/dariubs/GoBooks/week/README.md)
+## [41. GoBooks](/content/dariubs/GoBooks/week/README.md)
 
 ### 2022 - [Go, from the beginning](https://leanpub.com/go-from-the-beginning) *Free* / Why does this book look so different?
 
@@ -530,7 +524,7 @@
 *   Work with files and directories
 *   Parse text with the string library and regular expressions.
 
-## [43. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [42. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Content Management Systems (CMS)
 
@@ -564,7 +558,7 @@
 ### Table of Contents / Testing
 
 *   [Mink](https://mink.behat.org/en/latest/) - Web acceptance testing.
-*   [Phake (⭐480)](https://github.com/phake/phake) - Another mock object library for testing.
+*   [Phake (⭐479)](https://github.com/phake/phake) - Another mock object library for testing.
 
 ### Table of Contents / Continuous Integration
 
@@ -582,10 +576,6 @@
 
 *   [Design Patterns PHP (⭐22k)](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - A repository of software patterns implemented in PHP.
 
-### Table of Contents / Debugging and Profiling
-
-*   [Blackfire.io](https://www.blackfire.io) - A low-overhead code profiler.
-
 ### Table of Contents / Asset Management
 
 *   [Laravel Mix (⭐5.2k)](https://github.com/laravel-mix/laravel-mix) - An elegant wrapper around Webpack for the 80% use case.
@@ -600,7 +590,7 @@
 
 ### Table of Contents / API
 
-*   [Jane (⭐557)](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
+*   [Jane (⭐559)](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
 
 ### Table of Contents / Serverless
 
@@ -609,7 +599,7 @@
 
 ### Configuration / Extensions
 
-*   [Zephir (⭐3.2k)](https://github.com/zephir-lang/zephir) - A compiled language between PHP and C++ for developing PHP extensions.
+*   [Zephir (⭐3.3k)](https://github.com/zephir-lang/zephir) - A compiled language between PHP and C++ for developing PHP extensions.
 
 ### Configuration / Infrastructure
 
@@ -628,7 +618,7 @@
 
 *   [PHP Internals Book](https://www.phpinternalsbook.com/) - An online book about PHP internals, written by three core developers.
 
-## [44. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [43. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Books / Visualization Tools
 
@@ -644,7 +634,7 @@
 *   [NASDAQ:DATA](https://data.nasdaq.com/) - Nasdaq Data Link A premier source for financial, economic and alternative datasets.
 *   [National Centers for Environmental Information](https://www.ncei.noaa.gov/)
 
-## [45. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [44. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Configuration
 
@@ -652,11 +642,11 @@
 
 ### Error Handling
 
-*   [exception (⭐26)](https://github.com/rbrahul/exception) - A simple utility package for exception handling with try-catch in Golang.
+*   [exception (⭐27)](https://github.com/rbrahul/exception) - A simple utility package for exception handling with try-catch in Golang.
 
 ### Financial
 
-*   [fpdecimal (⭐26)](https://github.com/nikolaydubina/fpdecimal) - Fast and precise serialization and arithmetic for small fixed-point decimals
+*   [fpdecimal (⭐27)](https://github.com/nikolaydubina/fpdecimal) - Fast and precise serialization and arithmetic for small fixed-point decimals
 
 ### Functional
 
@@ -664,7 +654,7 @@
 
 ### Go Compilers
 
-*   [c2go (⭐300)](https://github.com/goplus/c2go) - Convert C code to Go code.
+*   [c2go (⭐305)](https://github.com/goplus/c2go) - Convert C code to Go code.
 
 ### GUI
 
@@ -676,7 +666,7 @@
 
 ### Translation
 
-*   [spreak (⭐33)](https://github.com/vorlif/spreak) - Flexible translation and humanization library for Go, based on the concepts behind gettext.
+*   [spreak (⭐35)](https://github.com/vorlif/spreak) - Flexible translation and humanization library for Go, based on the concepts behind gettext.
 
 ### Stream Processing
 
@@ -688,7 +678,7 @@
 
 ### Parsers/Encoders/Decoders
 
-*   [tokenizer (⭐75)](https://github.com/bzick/tokenizer) - Parse any string, slice or infinite buffer to any tokens.
+*   [tokenizer (⭐76)](https://github.com/bzick/tokenizer) - Parse any string, slice or infinite buffer to any tokens.
 
 ### Utilities
 
@@ -699,7 +689,7 @@
 
 *   [Code with Mukesh](https://codewithmukesh.com/blog/category/golang) - Software Engineer and Blogs @ codewithmukesh.com.
 
-## [46. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [45. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Color / Diagnostics
 
@@ -726,11 +716,11 @@
 
 *   [MordechaiHadad/bob (⭐1.1k)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
 
-## [47. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [46. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Generic ZSH
 
-*   [adamnorwood-zsh (⭐10)](https://github.com/adamnorwood/adamnorwood-zsh/) - A minimalist but readable ZSH setup based on [oh-my-posh](https://ohmyposh.dev/).
+*   [adamnorwood-zsh (⭐11)](https://github.com/adamnorwood/adamnorwood-zsh/) - A minimalist but readable ZSH setup based on [oh-my-posh](https://ohmyposh.dev/).
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -741,9 +731,9 @@
 
 *   [djkakaroto (⭐0)](https://github.com/djkakaroto/theme-zsh/) - Includes `git` status decorations, works with all fonts.
 *   [mainnika (⭐0)](https://github.com/mainnika/zsh-theme-mainnika/) - Includes decorators for last command exit status and the 1, 5 and 15 minute load averages.
-*   [owczarczak (⭐0)](https://github.com/ThemysciraData/owczarczak.zsh-theme) - Inspired by bira, dieter and [fino-time (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/fino-time.zsh-theme). Includes `venv` and vcs status decorations.
+*   [owczarczak (⭐0)](https://github.com/ThemysciraData/owczarczak.zsh-theme) - Inspired by bira, dieter and [fino-time (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/fino-time.zsh-theme). Includes `venv` and vcs status decorations.
 
-## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -757,13 +747,13 @@
 
 *   [Tebi](https://tebi.io/) - S3 compatibility object storage.Free 25 GB storage and 250GB outbound transfer.
 
-## [49. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [48. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packaging / Build system (ROS2)
 
 *   [ros2-snap](https://snapcraft.io/docs/ros2-applications) - Create a snap for your ROS 2 application.
 
-## [50. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [49. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -771,7 +761,7 @@
 *   [Using TypeScript with Blazor](https://www.youtube.com/watch?v=I_zFlBKgl5s) - ![duration](https://img.shields.io/badge/Duration:%20-20%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=microsoft) May 27, 2022 - Carl shows you how to use TypeScript when creating a Blazor component.
 *   [Rapid development model for Blazor Web Assembly and typed end-to-end services](https://www.youtube.com/watch?v=BcQqCzm4tK0) - ![duration](https://img.shields.io/badge/Duration:%20-10%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 19, 2022 - In this video we use the [ServiceStack](https://servicestack.net/) Blazor WASM template to show how the combination of typed end-to-end services and Blazor is great for building line of business applications. The template provides a clean separation of concerns, typed end-to-end safety and rapid iteration thanks to shared C# language, Visual Studio Hot Reload and [ServiceStack](https://servicestack.net/) message centric design.
 
-## [51. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [50. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### GUI
 
@@ -808,13 +798,13 @@
 *   [MindsDB (⭐20k)](https://github.com/mindsdb/mindsdb) - In-database Machine Learning.
 *   [SQLFlow (⭐5k)](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 
-## [52. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [51. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
 *   [SRE vs. DevOps: What’s the Difference Between Them?](https://spacelift.io/blog/sre-vs-devops)
 
-## [53. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [52. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Languages / JavaScript & TypeScript
 
@@ -831,7 +821,7 @@
 *   [Pipeline-UI](https://www.pipeline-ui.com/) - A React.js based component library for rapid deployment of Algorand Dapps.
 *   [STOI](https://stoi.org/) - Song ownership gone decentralized via microDAOs.
 
-## [54. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [53. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Text processing
 
@@ -843,7 +833,7 @@
 
 ### Development tools / Web Servers
 
-*   [mask (⭐963)](https://github.com/jacobdeichert/mask) — A CLI task runner defined by a simple markdown file [![build badge](https://github.com/jacobdeichert/mask/workflows/CI/badge.svg?branch=master)](https://github.com/jacobdeichert/mask/actions?query=workflow%3ACI)
+*   [mask (⭐969)](https://github.com/jacobdeichert/mask) — A CLI task runner defined by a simple markdown file [![build badge](https://github.com/jacobdeichert/mask/workflows/CI/badge.svg?branch=master)](https://github.com/jacobdeichert/mask/actions?query=workflow%3ACI)
 
 ### Development tools / Embedded
 
@@ -852,13 +842,13 @@
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-send (⭐178)](https://github.com/stalwartlabs/mail-send) \[[mail-send](https://crates.io/crates/mail-send)] - E-mail builder and SMTP client library with DKIM support [![build badge](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-send (⭐179)](https://github.com/stalwartlabs/mail-send) \[[mail-send](https://crates.io/crates/mail-send)] - E-mail builder and SMTP client library with DKIM support [![build badge](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml)
 
 ### Libraries / GUI
 
-*   [iced-rs/iced (⭐22k)](https://github.com/iced-rs/iced) \[[iced](https://crates.io/crates/iced)] — A cross-platform GUI library for Rust focused on simplicity and type-safety. Inspired by Elm.
+*   [iced-rs/iced (⭐22k)](https://github.com/iced-rs/iced) \[[iced](https://crates.io/crates/iced)] — A cross-platform GUI library, focused on simplicity and type-safety. Inspired by Elm.
 
-## [55. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [54. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### UI
 

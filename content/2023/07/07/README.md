@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 07, 2023
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -32,11 +32,11 @@
 
 ### Software / Miscellaneous
 
-*   [GO Feature Flag](https://gofeatureflag.org) - Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly). ([Source Code (⭐977)](https://github.com/thomaspoignant/go-feature-flag)) `MIT` `Go`
+*   [GO Feature Flag](https://gofeatureflag.org) - Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly). ([Source Code (⭐1k)](https://github.com/thomaspoignant/go-feature-flag)) `MIT` `Go`
 
 ### Software / Pastebins
 
-*   [YABin (⭐106)](https://github.com/Yureien/YABin) - A pastebin that contains plentiful features while remaining simple. Supports optional E2E encryption, a client-side CLI app, syntax highlighting, minimalistic UI, APIs, keyboard shortcuts, and more. It can even be run in serverless environments. ([Demo](https://bin.sohamsen.me/)) `MIT` `Nodejs/Docker`
+*   [YABin (⭐108)](https://github.com/Yureien/YABin) - A pastebin that contains plentiful features while remaining simple. Supports optional E2E encryption, a client-side CLI app, syntax highlighting, minimalistic UI, APIs, keyboard shortcuts, and more. It can even be run in serverless environments. ([Demo](https://bin.sohamsen.me/)) `MIT` `Nodejs/Docker`
 
 ### Software / Proxy
 
@@ -44,15 +44,9 @@
 
 ### Software / Remote Access
 
-*   [httprd (⭐48)](https://github.com/bitrate16/httprd) - Single-script remote desktop via web browser. `GPL-3.0` `Python`
+*   [httprd (⭐52)](https://github.com/bitrate16/httprd) - Single-script remote desktop via web browser. `GPL-3.0` `Python`
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Email
-
-*   [Skiff](https://skiff.com/)- Open source, end-to-end encrypted anonymous email service, no additional details asked at signup, free 10GB drive storage, one custom domain for your own website, free four aliases for your email address per account. Additional Crypto Wallet support for the E2EE environment.
-
-## [6. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [5. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Application
 

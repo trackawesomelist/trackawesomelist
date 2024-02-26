@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 11, 2020
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -29,65 +29,67 @@
     *   [MikroORM (⭐6.7k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
     *   [Prisma (⭐35k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
 
-## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [3. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### Java
+
+*   [Google Java编程风格指南](http://hawstein.com/2014/01/20/google-java-style/)
+
+## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Storage / Runner
 
 *   [awesome-web-storage (⭐437)](https://github.com/softvar/awesome-web-storage) - Everything you need to know about client-side storage.
 
-## [4. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+## [5. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ### Other sources
 
 *   [M-Lab Visualization Platform](https://www.measurementlab.net/visualizations/) - M-Lab is an open, verifiable measurement platform for global network performance.
 
-## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [6. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Distributed Filesystems
 
-*   [Perkeep](https://perkeep.org/) - A set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data (previously Camlistore). ([Source Code (⭐6.3k)](https://github.com/perkeep/perkeep)) `Apache-2.0` `C`
+*   [Perkeep](https://perkeep.org/) - A set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data (previously Camlistore). ([Source Code (⭐6.4k)](https://github.com/perkeep/perkeep)) `Apache-2.0` `C`
 
-## [6. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [7. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / File System
 
 *   [read-git-user (⭐3)](https://github.com/RocktimSaikia/read-git-user) - Reads the username and email from `.gitconfig` :wrench: and returns it as json object.
 
-## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [8. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Threat intelligence / Threat hunting
 
 *   [DATA (⭐94)](https://github.com/hadojae/DATA) - Credential phish analysis and automation tool that can accept suspected phishing URLs directly or trigger on observed network traffic containing such a URL.
 
-## [8. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [9. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Languages
 
 *   [legit](https://morr.cc/legit) - Programs defined entirely by the graph of the git repository instead of its contents.
 
-## [9. Awesome R](/content/qinwf/awesome-R/README.md)
+## [10. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Lists / Book/monograph Lists and Reviews
 
-*   [Posts (⭐5.6k)](https://github.com/qinwf/awesome-R/blob/master/misc/posts.md) - Great R blog posts or Rticles.
+*   [Posts (⭐5.7k)](https://github.com/qinwf/awesome-R/blob/master/misc/posts.md) - Great R blog posts or Rticles.
 
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
 *   [Postorius](https://docs.mailman3.org/projects/postorius/en/latest/) - Web user interface to access GNU Mailman. ([Source Code](https://gitlab.com/mailman/postorius/)) `GPL-3.0` `Python`
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### PaaS
 
 *   [m3o.com](https://m3o.com) - A cloud platform for API services development. M3O is a fully managed Micro as a Service offering focusing on Go microservices development in the Cloud. The free tier provides enough to run five services and collaborate with others.
 
-### Analytics, Events and Statistics
-
-*   [Panelbear.com](https://panelbear.com/) — Blazingly fast and private, free tier includes 5,000 pageviews per month for unlimited websites
-
-## [12. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anti-Malware
 
@@ -189,7 +191,7 @@
 
 
 
-## [13. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
+## [14. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
 
 ### Site Search
 
@@ -198,7 +200,7 @@
 *   [Fulltext Search (⭐43)](https://github.com/silverstripe/silverstripe-fulltextsearch) - Full fledged search interface for Solr4 (EOL).
 *   [Fulltext Search Local Solr](https://addons.silverstripe.org/add-ons/silverstripe/fulltextsearch-localsolr) - Easy to install Solr4 (EOL) instance for local development.
 
-## [14. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
+## [15. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
 ### Books
 
@@ -245,7 +247,7 @@
 *   [Nederlandse Vereniging voor Veganisme](https://www.veganisme.org/) - Dutch association for veganism, running a magazine, giving yearly vegan awards, supporting the community, and various other projects.
 *   [Vegan Wiki](https://veganwiki.nl/) - Wiki from the Dutch association for veganism with a huge collection of products available in the Netherlands.
 
-## [15. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [16. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Scala / General-Purpose Machine Learning
 
@@ -263,14 +265,14 @@
 
 *   [Raspell](https://sourceforge.net/projects/raspell/) - raspell is an interface binding for ruby. **\[Deprecated]**
 
-## [16. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/README.md)
+## [17. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/README.md)
 
 ### Competitions / Advanced
 
 *   [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart) - University students looking to develop their coding skills and potentially pursue a Google career.
 *   [Google Hash Code](https://codingcompetitions.withgoogle.com/hashcode) - Students in Africa, Europe, and the Middle East looking to work as a team on real Google problems.
 
-## [17. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+## [18. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Toolkits
 

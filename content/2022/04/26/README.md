@@ -58,11 +58,11 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zshange\_directory\_recent (⭐0)](https://github.com/Kjeldgaard/zshange_directory_recent) - Change to a recent directory. Requires [fzf (⭐57k)](https://github.com/junegunn/fzf).
+*   [zshange\_directory\_recent (⭐0)](https://github.com/Kjeldgaard/zshange_directory_recent) - Change to a recent directory. Requires [fzf (⭐58k)](https://github.com/junegunn/fzf).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [npm-scripts-autocomplete (⭐66)](https://github.com/grigorii-zander/zsh-npm-scripts-autocomplete) - Shows autocomplete suggestions from scripts found in the current directory's `package.json`. Works with `npm` and `yarn`.
+*   [npm-scripts-autocomplete (⭐71)](https://github.com/grigorii-zander/zsh-npm-scripts-autocomplete) - Shows autocomplete suggestions from scripts found in the current directory's `package.json`. Works with `npm` and `yarn`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -72,7 +72,7 @@
 
 ### Configuration
 
-*   [GoLobby/Config (⭐353)](https://github.com/golobby/config) - GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language.
+*   [GoLobby/Config (⭐356)](https://github.com/golobby/config) - GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language.
 *   [nfigure (⭐7)](https://github.com/muir/nfigure) - Per-library struct-tag based configuration from command lines (Posix & Go-style); environment, JSON, YAML
 
 ### Miscellaneous Data Structures and Algorithms
@@ -81,11 +81,11 @@
 
 ### Functional
 
-*   [fp-go (⭐276)](https://github.com/repeale/fp-go) - Collection of Functional Programming helpers powered by Golang 1.18+ generics.
+*   [fp-go (⭐280)](https://github.com/repeale/fp-go) - Collection of Functional Programming helpers powered by Golang 1.18+ generics.
 
 ### Dependency Injection
 
-*   [GoLobby/Container (⭐519)](https://github.com/golobby/container) - GoLobby Container is a lightweight yet powerful IoC dependency injection container for the Go programming language.
+*   [GoLobby/Container (⭐521)](https://github.com/golobby/container) - GoLobby Container is a lightweight yet powerful IoC dependency injection container for the Go programming language.
 
 ### Morphological Analyzers
 
@@ -93,7 +93,7 @@
 
 ### ORM
 
-*   [golobby/orm (⭐152)](https://github.com/golobby/orm) - Simple, fast, type-safe, generic orm for developer happiness.
+*   [golobby/orm (⭐153)](https://github.com/golobby/orm) - Simple, fast, type-safe, generic orm for developer happiness.
 
 ### Query Language
 
@@ -113,7 +113,7 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [go-rocket-update (⭐90)](https://github.com/mouuff/go-rocket-update) - A simple way to make self updating Go applications - Supports Github and Gitlab.
+*   [go-rocket-update (⭐92)](https://github.com/mouuff/go-rocket-update) - A simple way to make self updating Go applications - Supports Github and Gitlab.
 
 ## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

@@ -16,13 +16,13 @@
 
 ### Notification
 
-*   [react-local-toast (⭐124)](https://github.com/OlegWock/react-local-toast) - [demo](https://react-local-toast.netlify.app/showcase/) - [docs](https://react-local-toast.netlify.app/tutorial) - show feedback linked to particular component instead of app-wide toasts.
+*   [react-local-toast (⭐127)](https://github.com/OlegWock/react-local-toast) - [demo](https://react-local-toast.netlify.app/showcase/) - [docs](https://react-local-toast.netlify.app/tutorial) - show feedback linked to particular component instead of app-wide toasts.
 
 ## [3. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Libraries
 
-*   [Python 835 Parser (⭐52)](https://github.com/keironstoddart/edi-835-parser) - A simple-to-use Python interface to EDI 835 Health Care Claim Payment and Remittance Advice files.
+*   [Python 835 Parser (⭐57)](https://github.com/keironstoddart/edi-835-parser) - A simple-to-use Python interface to EDI 835 Health Care Claim Payment and Remittance Advice files.
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [CubicBezier (⭐143)](https://github.com/isaced/CubicBezier) - CubicBezier Generator for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/isaced/CubicBezier) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/cubicbezier/id1228492117?mt=12)
+*   [CubicBezier (⭐145)](https://github.com/isaced/CubicBezier) - CubicBezier Generator for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/isaced/CubicBezier) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/cubicbezier/id1228492117?mt=12)
 
 ## [6. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-web-update-notification (⭐326)](https://github.com/GreatAuk/plugin-web-update-notification) - Detect webpage updates and notify user to reload. support vite and umijs.
+*   [vite-plugin-web-update-notification (⭐341)](https://github.com/GreatAuk/plugin-web-update-notification) - Detect webpage updates and notify user to reload. support vite and umijs.
 
 ### Framework-agnostic Plugins / Testing
 
@@ -128,7 +128,7 @@
 ### Search Engines
 
 *   [SearX](https://searx.me/) - Privacy-respecting metasearch engine.
-    *   [SearxNG (⭐6.4k)](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases.
+    *   [SearxNG (⭐6.5k)](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases.
 
 ## [14. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 

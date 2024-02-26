@@ -22,7 +22,7 @@
 
 ### Software / Calendar & Contacts
 
-*   [Xandikos (⭐356)](https://github.com/jelmer/xandikos) - Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. `GPL-3.0` `Python/deb`
+*   [Xandikos (⭐360)](https://github.com/jelmer/xandikos) - Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. `GPL-3.0` `Python/deb`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -34,7 +34,7 @@
 
 ### Software / Miscellaneous
 
-*   [MyPaas (⭐356)](https://github.com/almarklein/mypaas) - Run your own PaaS using Docker, Traefik, and great monitoring. `BSD-2-Clause` `Python/Docker`
+*   [MyPaas (⭐359)](https://github.com/almarklein/mypaas) - Run your own PaaS using Docker, Traefik, and great monitoring. `BSD-2-Clause` `Python/Docker`
 
 ### Software / Search Engines
 
@@ -84,7 +84,7 @@
 
 ### Form Components / Star Rating
 
-*   [react-rating (⭐257)](https://github.com/smastrom/react-rating) - [demo](https://react-rating.onrender.com/) - Zero-dependency, highly customizable rating component.
+*   [react-rating (⭐264)](https://github.com/smastrom/react-rating) - [demo](https://react-rating.onrender.com/) - Zero-dependency, highly customizable rating component.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Templates / Elm
 
-*   [vite-elm-spa (⭐12)](https://github.com/lindsaykwardell/vite-elm-spa) - An unopinionated template for building Elm single page applications.
+*   [vite-elm-spa (⭐13)](https://github.com/lindsaykwardell/vite-elm-spa) - An unopinionated template for building Elm single page applications.
 
 ## [3. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
@@ -60,7 +60,7 @@
 
 ### CLI Builder
 
-*   [dry-cli (⭐315)](https://github.com/dry-rb/dry-cli) - General purpose Command Line Interface (CLI) framework for Ruby.
+*   [dry-cli (⭐317)](https://github.com/dry-rb/dry-cli) - General purpose Command Line Interface (CLI) framework for Ruby.
 
 ## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 

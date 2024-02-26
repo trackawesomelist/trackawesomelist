@@ -16,7 +16,7 @@
 
 ### File Upload
 
-*   [PaperClip (⭐9.1k)](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord. Deprecated as of May 14, 2018.
+*   [PaperClip (⭐9k)](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord. Deprecated as of May 14, 2018.
 
 ## [3. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 

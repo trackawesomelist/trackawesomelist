@@ -99,7 +99,7 @@
 ### Testing
 
 *   [ponos (⭐157)](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
-*   [shouldi (⭐135)](https://github.com/batate/shouldi) - Elixir testing libraries with nested contexts, superior readability, and ease of use.
+*   [shouldi (⭐136)](https://github.com/batate/shouldi) - Elixir testing libraries with nested contexts, superior readability, and ease of use.
 
 ### Text and Numbers
 

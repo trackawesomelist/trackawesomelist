@@ -616,7 +616,7 @@ Language: English \ <br>
 
 ### Server-Side Rendering / Lazy Load
 
-*   [iSSR (⭐101)](https://github.com/AlexSergey/issr) - The easiest way to move your React application to Server-Side Rendering. Handles Side Effects and synchronizes State.
+*   [iSSR (⭐102)](https://github.com/AlexSergey/issr) - The easiest way to move your React application to Server-Side Rendering. Handles Side Effects and synchronizes State.
 
 ---
 

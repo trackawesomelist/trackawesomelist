@@ -73,7 +73,7 @@
 
 ### Miscellaneous / React
 
-*   [goctopus (⭐82)](https://github.com/Escape-Technologies/goctopus) - an incredibly fast GraphQL discovery & fingerprinting toolbox.
+*   [goctopus (⭐85)](https://github.com/Escape-Technologies/goctopus) - an incredibly fast GraphQL discovery & fingerprinting toolbox.
 
 ### Posts / React
 
@@ -87,15 +87,15 @@
 
 ### Applications / Blockchain
 
-*   [wagyu (⭐597)](https://github.com/howardwu/wagyu) \[[wagyu](https://crates.io/crates/wagyu)] — Rust library for generating cryptocurrency wallets
+*   [wagyu (⭐600)](https://github.com/howardwu/wagyu) \[[wagyu](https://crates.io/crates/wagyu)] — Library for generating cryptocurrency wallets
 
 ### Applications / Games
 
-*   [maras-archive/rsnake (⭐119)](https://github.com/maras-archive/rsnake) — Snake written in Rust.
+*   [maras-archive/rsnake (⭐120)](https://github.com/maras-archive/rsnake) — Snake.
 
 ### Applications / System tools
 
-*   [eza-community/eza (⭐5k)](https://github.com/eza-community/eza) — A replacement for 'ls'
+*   [eza-community/eza (⭐5.5k)](https://github.com/eza-community/eza) — A replacement for 'ls'
 
 ## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Orchestrator (⭐246)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games (Godot 4.x).
+*   [Orchestrator (⭐266)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games (Godot 4.x).
 
 ## [13. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
@@ -8197,7 +8197,7 @@
 
 ### Android / Libraries
 
-*   [Blueprint (⭐88)](https://github.com/popovanton0/Blueprint) - 📐 A library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
+*   [Blueprint (⭐90)](https://github.com/popovanton0/Blueprint) - 📐 A library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
 
 ## [22. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -8221,7 +8221,7 @@
 
 ### Game Development
 
-*   [Raylib-cr (⭐60)](https://github.com/sol-vin/raylib-cr) - Direct bindings to [Raylib](https://raylib.com), which supports Linux, Windows, and Mac
+*   [Raylib-cr (⭐65)](https://github.com/sol-vin/raylib-cr) - Direct bindings to [Raylib](https://raylib.com), which supports Linux, Windows, and Mac
 
 ## [24. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
@@ -8231,11 +8231,10 @@
 *   [Navigation bar (⭐3)](https://github.com/Cap-go/capacitor-navigation-bar) - Set navigation bar color for android lolipop and higher.
 *   [Video Player IVS (⭐1)](https://github.com/Cap-go/ivs-player) - Native Ivs player for Capacitor app Android and IOS.
 *   [Home indicator (⭐0)](https://github.com/Cap-go/home-indicator) - Hide and show home button indicator in Capacitor app.
-*   [Naitve Purchases (⭐3)](https://github.com/Cap-go/native-purchases) - Manage IAP on capacitor with latest libs Android and IOS.
 
 ### Other plugins
 
-*   [Purchases (⭐104)](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
+*   [Purchases (⭐111)](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 
 ## [25. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
@@ -8277,7 +8276,7 @@
 
 ### Software / DNS - Control Panels & Domain Management
 
-*   [Atomia DNS (⭐358)](https://github.com/atomia/atomiadns/) - DNS management system. `ISC` `Perl`
+*   [Atomia DNS (⭐357)](https://github.com/atomia/atomiadns/) - DNS management system. `ISC` `Perl`
 
 ### Software / Monitoring
 
@@ -8295,7 +8294,7 @@
 
 ### Assets
 
-*   [Shakapacker (⭐359)](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)
+*   [Shakapacker (⭐375)](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)
 
 ## [30. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
@@ -8305,13 +8304,13 @@
 
 ### Project Layout
 
-*   [nunu (⭐992)](https://github.com/go-nunu/nunu) - Nunu is a scaffolding tool for building Go applications.
+*   [nunu (⭐1k)](https://github.com/go-nunu/nunu) - Nunu is a scaffolding tool for building Go applications.
 
 ## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Miscellaneous
 
-*   [Flipt](https://flipt.io) - Feature flag solution with support for multiple data backends (alternative to LaunchDarkly). ([Demo](https://try.flipt.io), [Source Code (⭐3.1k)](https://github.com/flipt-io/flipt)) `GPL-3.0` `Docker/K8S/Go`
+*   [Flipt](https://flipt.io) - Feature flag solution with support for multiple data backends (alternative to LaunchDarkly). ([Demo](https://try.flipt.io), [Source Code (⭐3.2k)](https://github.com/flipt-io/flipt)) `GPL-3.0` `Docker/K8S/Go`
 
 ### Software / Search Engines
 
@@ -8398,11 +8397,11 @@
 
 ### Get Started
 
-*   [bati (⭐120)](https://github.com/batijs/bati) - Scaffolding a Vike project.
+*   [bati (⭐127)](https://github.com/batijs/bati) - Scaffolding a Vike project.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-node-polyfills (⭐176)](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - Polyfill Node's Core Modules for browser environments.
+*   [vite-plugin-node-polyfills (⭐192)](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - Polyfill Node's Core Modules for browser environments.
 *   [vite-plugin-cdn2 (⭐62)](https://github.com/nonzzz/vite-plugin-cdn) - Replace module with CDN.
 
 ## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)

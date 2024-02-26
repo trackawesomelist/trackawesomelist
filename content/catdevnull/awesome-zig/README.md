@@ -6,9 +6,22 @@ A list of awesome projects related to Zig
 
 [ Daily / [Weekly](/content/catdevnull/awesome-zig/week/README.md) / [Overview](/content/catdevnull/awesome-zig/readme/README.md) ]
 
+## [Feb 24, 2024](/content/2024/02/24/README.md)
+
+### Parser / Package managers
+
+*   [00JCIV00/cova (⭐68)](https://github.com/00JCIV00/cova) - Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library.
+
+## [Feb 23, 2024](/content/2024/02/23/README.md)
+
+### Network / Messaging
+
+*   [skunkwerks/zamqp (⭐4)](https://github.com/skunkwerks/zamqp) - AMQP client, based on rabbitmq-c.
+*   [nine-lives-later/zzmq (⭐1)](https://github.com/nine-lives-later/zzmq) - ZeroMQ library, based on CZMQ.
+
 ## [Feb 12, 2024](/content/2024/02/12/README.md)
 
-### Zig development tools / HTTP
+### Zig development tools / Messaging
 
 *   [weskoerber/zvm (⭐2)](https://github.com/weskoerber/zvm) - POSIX-compliant bash script to manage multiple active Zig versions.
 
@@ -68,7 +81,7 @@ A list of awesome projects related to Zig
 *   [kassane/unordered (⭐0)](https://github.com/kassane/unordered) - (boost-unordered) hashmap and set concurrency containers (C++03/11/14).
 *   [kassane/Standalone-Server (⭐1)](https://github.com/kassane/Standalone-Server) - Asio standalone C++ HTTP/S Server.
 *   [kassane/libsigcplusplus (⭐0)](https://github.com/kassane/libsigcplusplus) - Typesafe callback system for standard C++.
-*   [ggerganov/llama.cpp (⭐50k)](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++.
+*   [ggerganov/llama.cpp (⭐51k)](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++.
 
 ## [Jul 08, 2023](/content/2023/07/08/README.md)
 
@@ -137,11 +150,11 @@ A list of awesome projects related to Zig
 
 ### Learning resources / Package managers
 
-*   [ratfactor/ziglings (⭐3.9k)](https://github.com/ratfactor/ziglings) - Learn Zig by fixing tiny example programs.
+*   [ratfactor/ziglings (⭐4k)](https://github.com/ratfactor/ziglings) - Learn Zig by fixing tiny example programs.
 
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
-### Web / HTTP
+### Web / Messaging
 
 *   [floscodes/zerve (⭐35)](https://github.com/floscodes/zerve) - Simple framework for writing web services and web apps.
 
@@ -190,7 +203,7 @@ A list of awesome projects related to Zig
 
 ### Game tools and libraries
 
-*   [hexops/mach (⭐2.5k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
+*   [hexops/mach (⭐2.6k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
 
 ### GUI
 
@@ -222,7 +235,7 @@ A list of awesome projects related to Zig
 
 ## [Sep 09, 2022](/content/2022/09/09/README.md)
 
-### Zig development tools / HTTP
+### Zig development tools / Messaging
 
 *   [korandoru/setup-zig (⭐12)](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
 
@@ -280,7 +293,7 @@ A list of awesome projects related to Zig
 
 *   [natecraddock/ziglua (⭐160)](https://github.com/natecraddock/ziglua) - Bindings for the Lua C API.
 
-### Web / HTTP
+### Web / Messaging
 
 *   [karlseguin/websocket.zig (⭐192)](https://github.com/karlseguin/websocket.zig) - A WebSocket implementation.
 
@@ -340,7 +353,7 @@ A list of awesome projects related to Zig
 
 *   [axgdev/telegram\_echobot\_zig (⭐5)](https://github.com/axgdev/telegram_echobot_zig) - Telegram echo bot.
 
-### Web / HTTP
+### Web / Messaging
 
 *   [batiati/mustache-zig (⭐89)](https://github.com/batiati/mustache-zig) - Mustache implementation.
 
@@ -452,8 +465,8 @@ A list of awesome projects related to Zig
 
 ### Game tools and libraries
 
-*   [michal-z/zig-gamedev (⭐1.8k)](https://github.com/michal-z/zig-gamedev) - DirectX 12 game development ecosystem.
-*   [floooh/sokol-zig (⭐251)](https://github.com/floooh/sokol-zig) - [Sokol (⭐5.5k)](https://github.com/floooh/sokol) bindings.
+*   [michal-z/zig-gamedev (⭐1.9k)](https://github.com/michal-z/zig-gamedev) - DirectX 12 game development ecosystem.
+*   [floooh/sokol-zig (⭐251)](https://github.com/floooh/sokol-zig) - [Sokol (⭐5.6k)](https://github.com/floooh/sokol) bindings.
 *   [TM35-Metronome/metronome (⭐44)](https://github.com/TM35-Metronome/metronome) - A set of tools for modifying and randomizing Pokémon games.
 *   [TM35-Metronome/tm35-nds (⭐10)](https://github.com/TM35-Metronome/tm35-nds) - A library for working with Nintendo DS roms.
 *   [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) - Simple and robust sudoku solver.
@@ -491,7 +504,7 @@ A list of awesome projects related to Zig
 *   [emekoi/log.zig (⭐19)](https://github.com/emekoi/log.zig) - A thread-safe logging library.
 *   [kprotty/zap (⭐375)](https://github.com/kprotty/zap) - A collection of libraries which provide interfaces over the system for writing high performance applications.
 *   [mlarouche/zigimg (⭐356)](https://github.com/mlarouche/zigimg) - Zig library for reading and writing different image formats.
-*   [ziglibs/known-folders (⭐188)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+*   [ziglibs/known-folders (⭐193)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 
 ### Network
 
@@ -508,7 +521,7 @@ A list of awesome projects related to Zig
 *   ~~[Vexu/routez (⭐239)](https://github.com/Vexu/routez) - HTTP server.~~
 *   [frmdstryr/zhp (⭐344)](https://github.com/frmdstryr/zhp) - Featureful HTTP server.
 
-### Web / HTTP
+### Web / Messaging
 
 *   [andrewrk/lua-in-the-browser (⭐30)](https://github.com/andrewrk/lua-in-the-browser) - Using Zig to build Lua for WebAssembly.
 *   [kivikakk/htmlentities.zig (⭐9)](https://github.com/kivikakk/htmlentities.zig) - HTML5 entity data.
@@ -519,14 +532,14 @@ A list of awesome projects related to Zig
 *   [zigwasm/wasmer-zig (⭐51)](https://github.com/zigwasm/wasmer-zig) - Bindings for the Wasmer WebAssembly runtime.
 *   [zigwasm/wasmtime-zig (⭐80)](https://github.com/zigwasm/wasmtime-zig) - Bindings of Wasmtime.
 
-### System tools / HTTP
+### System tools / Messaging
 
 *   [pbui-project/pbui-main (⭐88)](https://github.com/pbui-project/pbui-main) - BSD/Linux core utilities written in Zig.
 *   [hspak/brightnessztl (⭐5)](https://github.com/hspak/brightnessztl) - A CLI to control device backlight.
 *   [thejoshwolfe/hexdump-zip (⭐6)](https://github.com/thejoshwolfe/hexdump-zip) - Produce an annotated hexdump of a zipfile.
 *   [kubkon/zacho (⭐38)](https://github.com/kubkon/zacho) - Zig's Mach-O parser.
 
-### Zig development tools / HTTP
+### Zig development tools / Messaging
 
 *   [marler8997/zigup (⭐450)](https://github.com/marler8997/zigup) - Download and manage zig compilers.
 

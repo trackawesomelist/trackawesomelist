@@ -419,7 +419,7 @@
 
 ### HTML Widgets
 
-*   [scatterD3 (⭐158)](https://github.com/juba/scatterD3) - Interactive scatterplots with D3.
+*   [scatterD3 (⭐157)](https://github.com/juba/scatterD3) - Interactive scatterplots with D3.
 
 ## [34. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -905,7 +905,7 @@
 
 ### Algorithms and Data structures
 
-*   [parallel\_stream (⭐95)](https://github.com/beatrichartz/parallel_stream) - A parallel stream implementation for Elixir.
+*   [parallel\_stream (⭐97)](https://github.com/beatrichartz/parallel_stream) - A parallel stream implementation for Elixir.
 
 ### Third Party APIs
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22, 2022
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-iterative (⭐287)](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin built with machine learning in mind.
+*   [terraform-provider-iterative (⭐288)](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin built with machine learning in mind.
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Apps / Forms
 
-*   [Wagtail Model Forms (⭐2)](https://github.com/vicktornl/wagtail-model-forms) - The Wagtail Form Builder functionalities available for your models/snippets.
+*   [Wagtail Model Forms (⭐3)](https://github.com/vicktornl/wagtail-model-forms) - The Wagtail Form Builder functionalities available for your models/snippets.
 
 ### Apps / Misc
 
@@ -102,12 +102,6 @@
 
 *   [Terser (⭐8.3k)](https://github.com/terser/terser) - parser, mangler and compressor toolkit for ES6+
 *   [Uglify (⭐13k)](https://github.com/mishoo/UglifyJS) - parser / mangler / compressor / beautifier toolkit
-
-## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Cloud Computing
-
-*   [Distributed Systems 3rd edition](https://www.distributed-systems.net/index.php/books/ds3/) - Maarten van Steen, Andrew S. Tanenbaum *(email address required)*
 
 ---
 

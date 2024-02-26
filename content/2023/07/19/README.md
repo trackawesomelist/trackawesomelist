@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 19, 2023
 
-21 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,11 +16,11 @@
 
 ### Libraries/Packages/Scripts / Python
 
-*   [Python package functime](https://docs.functime.ai/) - Machine learning Python package built on Polars for time-series predictions by [@neocortexdb](https://github.com/neocortexdb). According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !
+*   *   [Python package functime](https://docs.functime.ai/) - Machine learning Python package built on Polars for time-series predictions by [@neocortexdb](https://github.com/neocortexdb). According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !
 
 ### Libraries/Packages/Scripts / R
 
-*   [tidypolars for R (⭐113)](https://github.com/etiennebacher/tidypolars/) `tidypolars` package to use polars with tidyverse syntax.
+*   [tidypolars for R (⭐120)](https://github.com/etiennebacher/tidypolars/) `tidypolars` package to use polars with tidyverse syntax.
 
 ### Resources / Blog posts
 
@@ -107,13 +107,13 @@
 
 ### Testing
 
-*   [mneme (⭐58)](https://github.com/zachallaun/mneme) - Assertions that know how to update themselves, otherwise known as snapshot or approval testing.
+*   [mneme (⭐59)](https://github.com/zachallaun/mneme) - Assertions that know how to update themselves, otherwise known as snapshot or approval testing.
 
 ## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Blockchain
 
-*   [cometbft (⭐465)](https://github.com/cometbft/cometbft) - A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm.
+*   [cometbft (⭐479)](https://github.com/cometbft/cometbft) - A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm.
 
 ## [10. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -177,7 +177,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Uguu (⭐723)](https://github.com/nokonoko/uguu) - Stores files and deletes after X amount of time. `MIT` `PHP`
+*   [Uguu (⭐732)](https://github.com/nokonoko/uguu) - Stores files and deletes after X amount of time. `MIT` `PHP`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
@@ -263,12 +263,6 @@
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [AlexvZyl/nordic.nvim (⭐500)](https://github.com/AlexvZyl/nordic.nvim) - Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.
-
-## [21. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Data Science
-
-*   [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) -  Melanie Walsh
 
 ---
 

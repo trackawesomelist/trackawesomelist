@@ -121,7 +121,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Cyclops Level Builder (⭐653)](https://github.com/blackears/cyclopsLevelBuilder) - A level builder for quick prototypes and proof-of-concepts (Godot 4.x).
+*   [Cyclops Level Builder (⭐684)](https://github.com/blackears/cyclopsLevelBuilder) - A level builder for quick prototypes and proof-of-concepts (Godot 4.x).
 
 ## [13. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/week/README.md)
 
@@ -153,7 +153,7 @@
 
 ### Miscellaneous
 
-*   [Read the Docs (⭐76)](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects to inspire and help bootstrap new documentation projects.
+*   [Read the Docs (⭐83)](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects to inspire and help bootstrap new documentation projects.
 
 ## [17. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -291,7 +291,7 @@
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [Metabob](https://metabob.com/): Generative AI to improve and automate code reviews
-*   [gventuri/pandas-ai (⭐9.6k)](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
+*   [gventuri/pandas-ai (⭐9.8k)](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
 
 ### Multimodal Embedding Space / Deforum
 
@@ -336,7 +336,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [alias-maker (⭐4)](https://github.com/MefitHp/alias-maker) - Allows you to easily create and manage aliases from the command line.
+*   [alias-maker (⭐5)](https://github.com/MefitHp/alias-maker) - Allows you to easily create and manage aliases from the command line.
 *   [conda-init (⭐1)](https://github.com/commiyou/conda-init-zsh-plugin) - Cleans up environment variables so `conda` doesn't mess up `tmux`.
 *   [web-search (anant-mishra1729) (⭐2)](https://github.com/Anant-mishra1729/web-search/) - Adds aliases for searching with Google, Bing, Wiki, YouTube, Yahoo, Duck Duck Go, GitHub, Stack Overflow and other services straight from the command line.
 

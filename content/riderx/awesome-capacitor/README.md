@@ -2,15 +2,26 @@
 
 😎 Awesome lists of capacitor plugins.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/riderx/awesome-capacitor/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 riderx/awesome-capacitor](https://github.com/riderx/awesome-capacitor) · ⭐ 391 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/riderx/awesome-capacitor/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 riderx/awesome-capacitor](https://github.com/riderx/awesome-capacitor) · ⭐ 403 · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/riderx/awesome-capacitor/week/README.md) / [Overview](/content/riderx/awesome-capacitor/readme/README.md) ]
+
+## [Feb 23, 2024](/content/2024/02/23/README.md)
+
+### [Capgo plugins](https://capgo.app/)
+
+*   [Native Purchases (⭐3)](https://github.com/Cap-go/native-purchases) - Manage IAP on capacitor with latest libs Android and IOS.
+
+### Other plugins
+
+*   [capacitor-plugin-camera (⭐3)](https://github.com/xulihang/capacitor-plugin-camera) - A camera plugin that is designed to make it easy to perform image processing tasks like barcode reading and OCR. We can use reflection to get the camera frames in another plugin so that it can enjoy native performance.
+*   [Bing Translator (⭐1)](https://github.com/sabereen/capacitor-bing-translator) - A simple and **free** API for using [Bing Translator](https://bing.com/translator).
 
 ## [Dec 27, 2023](/content/2023/12/27/README.md)
 
 ### Other plugins
 
-*   [Safe Area (⭐37)](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS
+*   [Safe Area (⭐40)](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS
 
 ## [Sep 13, 2023](/content/2023/09/13/README.md)
 
@@ -20,36 +31,35 @@
 *   [Navigation bar (⭐3)](https://github.com/Cap-go/capacitor-navigation-bar) - Set navigation bar color for android lolipop and higher.
 *   [Video Player IVS (⭐1)](https://github.com/Cap-go/ivs-player) - Native Ivs player for Capacitor app Android and IOS.
 *   [Home indicator (⭐0)](https://github.com/Cap-go/home-indicator) - Hide and show home button indicator in Capacitor app.
-*   [Naitve Purchases (⭐3)](https://github.com/Cap-go/native-purchases) - Manage IAP on capacitor with latest libs Android and IOS.
 
 ### Other plugins
 
-*   [Purchases (⭐104)](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
+*   [Purchases (⭐111)](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 
 ## [Aug 16, 2023](/content/2023/08/16/README.md)
 
 ### [Aparajita plugins](https://github.com/aparajita?tab=repositories&q=capacitor)
 
-*   [Biometric Auth (⭐80)](https://github.com/aparajita/capacitor-biometric-auth) - Easy access to native biometric auth APIs on iOS and Android.
-*   [Dark Mode (⭐15)](https://github.com/aparajita/capacitor-dark-mode) - Universal, reliable dark mode support on the web, iOS and Android.
+*   [Biometric Auth (⭐96)](https://github.com/aparajita/capacitor-biometric-auth) - Easy access to native biometric auth APIs on iOS and Android.
+*   [Dark Mode (⭐18)](https://github.com/aparajita/capacitor-dark-mode) - Universal, reliable dark mode support on the web, iOS and Android.
 *   [Logger (⭐15)](https://github.com/aparajita/capacitor-logger) - Better logging for the web and native Ionic/Capacitor apps.
-*   [Secure Storage (⭐70)](https://github.com/aparajita/capacitor-secure-storage) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
+*   [Secure Storage (⭐79)](https://github.com/aparajita/capacitor-secure-storage) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
 
 ## [Aug 02, 2023](/content/2023/08/02/README.md)
 
 ### Other plugins
 
-*   [Websocket Client (⭐48)](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
+*   [Websocket Client (⭐49)](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
 
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
 ### Community plugins
 
-*   [Websocket (⭐9)](https://github.com/mia-z/capacitor-websocket) - Plugin providing native Websocket implementations for each platform.
+*   [Websocket (⭐10)](https://github.com/mia-z/capacitor-websocket) - Plugin providing native Websocket implementations for each platform.
 
 ### [Capgo plugins](https://capgo.app/)
 
-*   [Live Update (⭐400)](https://github.com/Cap-go/capacitor-updater) - Live update for capacitor app.
+*   [Live Update (⭐430)](https://github.com/Cap-go/capacitor-updater) - Live update for capacitor app.
 
 ### Learning / Community Tutorials
 
@@ -71,18 +81,18 @@
 ### Cordova plugins / Incompatible
 
 *   [`cordova-plugin-add-swift-support`](https://github.com/akofman/cordova-plugin-add-swift-support) (not needed, Capacitor has built in Swift support)
-*   [`cordova-plugin-admobpro`](https://github.com/floatinghotpot/cordova-admob-pro) ([see details (⭐10k)](https://github.com/ionic-team/capacitor/issues/1101))
-*   [`cordova-plugin-braintree`](https://github.com/Taracque/cordova-plugin-braintree) ([see details (⭐10k)](https://github.com/ionic-team/capacitor/issues/1415))
+*   [`cordova-plugin-admobpro`](https://github.com/floatinghotpot/cordova-admob-pro) ([see details (⭐11k)](https://github.com/ionic-team/capacitor/issues/1101))
+*   [`cordova-plugin-braintree`](https://github.com/Taracque/cordova-plugin-braintree) ([see details (⭐11k)](https://github.com/ionic-team/capacitor/issues/1415))
 *   [`cordova-plugin-code-push`](https://github.com/microsoft/code-push) ([see details (⭐4.3k)](https://github.com/microsoft/code-push/issues/615))
 *   [`cordova-plugin-compat`](https://github.com/apache/cordova-plugin-compat) (not needed)
 *   [`cordova-plugin-console`](https://github.com/apache/cordova-plugin-console) (not needed, Capacitor has its own)
 *   [`cordova-plugin-crosswalk-webview`](https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview) (Capacitor doesn't allow to change the webview)
-*   [`cordova-plugin-fcm`](https://github.com/fechanique/cordova-plugin-fcm) ([see details (⭐10k)](https://github.com/ionic-team/capacitor/issues/584))
-*   [`cordova-plugin-firebase`](https://github.com/arnesson/cordova-plugin-firebase) ([see details (⭐10k)](https://github.com/ionic-team/capacitor/issues/815))
+*   [`cordova-plugin-fcm`](https://github.com/fechanique/cordova-plugin-fcm) ([see details (⭐11k)](https://github.com/ionic-team/capacitor/issues/584))
+*   [`cordova-plugin-firebase`](https://github.com/arnesson/cordova-plugin-firebase) ([see details (⭐11k)](https://github.com/ionic-team/capacitor/issues/815))
 *   [`cordova-plugin-ionic-keyboard`](https://github.com/ionic-team/cordova-plugin-ionic-keyboard) (not needed, Capacitor has it's own)
 *   [`cordova-plugin-ionic-webview`](https://github.com/ionic-team/cordova-plugin-ionic-webview) (not needed, Capacitor uses WKWebView)
 *   [`cordova-plugin-music-controls`](https://github.com/homerours/cordova-music-controls-plugin) (causes build failures, skipped)
-*   [`cordova-plugin-qrscanner`](https://github.com/bitpay/cordova-plugin-qrscanner) ([see details (⭐10k)](https://github.com/ionic-team/capacitor/issues/1213))
+*   [`cordova-plugin-qrscanner`](https://github.com/bitpay/cordova-plugin-qrscanner) ([see details (⭐11k)](https://github.com/ionic-team/capacitor/issues/1213))
 *   [`cordova-plugin-splashscreen`](https://github.com/apache/cordova-plugin-splashscreen) (not needed, Capacitor has its own)
 *   [`cordova-plugin-statusbar`](https://github.com/apache/cordova-plugin-statusbar) (not needed, Capacitor has its own)
 *   [`cordova-plugin-wkwebview-engine`](https://github.com/apache/cordova-plugin-wkwebview-engine) (not needed, Capacitor uses WKWebView)
@@ -92,8 +102,8 @@
 
 ### [Transistor Software plugins](https://www.transistorsoft.com//)
 
-*   [Background Geolocation (⭐76)](https://github.com/transistorsoft/capacitor-background-geolocation) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
-*   [Background Fetch (⭐70)](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both IOS and Android.
+*   [Background Geolocation (⭐78)](https://github.com/transistorsoft/capacitor-background-geolocation) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
+*   [Background Fetch (⭐71)](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both IOS and Android.
 *   [Background Geolocation Firebase (⭐6)](https://github.com/transistorsoft/capacitor-background-geolocation-firebase) - Firebase adapter for Capacitor Background Geolocation.
 
 ## [Nov 17, 2022](/content/2022/11/17/README.md)
@@ -104,13 +114,13 @@
     *   [Barcode Reader (⭐8)](https://github.com/xulihang/capacitor-plugin-dynamsoft-barcode-reader) - Scan barcodes and QR codes using Dynamsoft Barcode Reader.
     *   [Camera Preview (⭐3)](https://github.com/tony-xlh/capacitor-plugin-camera-preview) - Access camera using Dynamsoft Camera Enhancer.
     *   [Document Normalizer (⭐1)](https://github.com/tony-xlh/capacitor-plugin-dynamsoft-document-normalizer) - Scan documents using Dynamsoft Document Normalizer.
-    *   [Label Recognizer (⭐0)](https://github.com/tony-xlh/capacitor-plugin-dynamsoft-label-recognizer) - Recognize text on labels like MRZ on passports using Dynamsoft Label Recognizer.
+    *   [Label Recognizer (⭐1)](https://github.com/tony-xlh/capacitor-plugin-dynamsoft-label-recognizer) - Recognize text on labels like MRZ on passports using Dynamsoft Label Recognizer.
 
 ## [Nov 07, 2022](/content/2022/11/07/README.md)
 
 ### [Capgo plugins](https://capgo.app/)
 
-*   [Native audio (⭐19)](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
+*   [Native audio (⭐22)](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
 *   [Native market (⭐5)](https://github.com/Cap-go/native-market) - Capacitor community plugin for native market for Play Store/App Store.
 *   [Camera preview (⭐1)](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
 
@@ -124,31 +134,31 @@
 
 ### Community plugins
 
-*   [File opener (⭐52)](https://github.com/capacitor-community/file-opener) - The plugin is able to open a file given the mimeType and the file uri.
+*   [File opener (⭐53)](https://github.com/capacitor-community/file-opener) - The plugin is able to open a file given the mimeType and the file uri.
 
 ## [Oct 10, 2022](/content/2022/10/10/README.md)
 
 ### [Capgo plugins](https://capgo.app/)
 
-*   [Crisp (⭐6)](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
+*   [Crisp (⭐7)](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
 *   [Flash (⭐11)](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
 *   [Mute (⭐3)](https://github.com/Cap-go/capacitor-mute) - Detect silent mode and mute audio.
 *   [Native Geocoder (⭐18)](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
-*   [Screen recorder (⭐6)](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
-*   [In app Browser (⭐36)](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent and ability to clear cookie.
+*   [Screen recorder (⭐5)](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
+*   [In app Browser (⭐42)](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent and ability to clear cookie.
 
 ### [Capawesome plugins](https://capawesome.io/)
 
 *   [Background tasks (⭐51)](https://github.com/capawesome-team/capacitor-background-task) - A native plugin for running background tasks.
-*   [Badge (⭐70)](https://github.com/capawesome-team/capacitor-badge) - Access and update the badge number of the app icon.
+*   [Badge (⭐72)](https://github.com/capawesome-team/capacitor-badge) - Access and update the badge number of the app icon.
 *   Firebase
-    *   [Analytics (⭐304)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/analytics/README.md) - Firebase plugins for Capacitor. Supports Android, iOS and the web.
-    *   [App (⭐304)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/app/README.md) - Capacitor plugin for Firebase App.
-    *   [Auth (⭐304)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/authentication/README.md) - Handle the authentication on Native layer and propagate the token to the web view layer.
-    *   [Performance (⭐304)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/performance/README.md) - Capacitor plugin for Firebase Performance Monitoring.
-    *   [Crashlytics (⭐304)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Capacitor plugin for Firebase Crashlytics.
+    *   [Analytics (⭐324)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/analytics/README.md) - Firebase plugins for Capacitor. Supports Android, iOS and the web.
+    *   [App (⭐324)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/app/README.md) - Capacitor plugin for Firebase App.
+    *   [Auth (⭐324)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/authentication/README.md) - Handle the authentication on Native layer and propagate the token to the web view layer.
+    *   [Performance (⭐324)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/performance/README.md) - Capacitor plugin for Firebase Performance Monitoring.
+    *   [Crashlytics (⭐324)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Capacitor plugin for Firebase Crashlytics.
 *   [Screen orientation (⭐28)](https://github.com/capawesome-team/capacitor-screen-orientation) - Lock/unlock the screen orientation.
-*   [Native updates (⭐115)](https://github.com/capawesome-team/capacitor-app-update) - Capacitor plugin that assists with app updates.
+*   [Native updates (⭐116)](https://github.com/capawesome-team/capacitor-app-update) - Capacitor plugin that assists with app updates.
 *   [File picker (⭐63)](https://github.com/capawesome-team/capacitor-file-picker) - Capacitor plugin that allows the user to select a file.
 *   [Photo editor (⭐9)](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
 
@@ -156,11 +166,11 @@
 
 ### Official plugins
 
-*   [Preferences (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/preferences) - Provides a simple key/value persistent store for lightweight data, ex Storage.
+*   [Preferences (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/preferences) - Provides a simple key/value persistent store for lightweight data, ex Storage.
 
 ### Community plugins
 
-*   [Electron (⭐283)](https://github.com/capacitor-community/electron) - Support for the Electron platform.
+*   [Electron (⭐294)](https://github.com/capacitor-community/electron) - Support for the Electron platform.
 
 ## [Jul 24, 2022](/content/2022/07/24/README.md)
 
@@ -173,7 +183,7 @@
 ### Other plugins
 
 *   Google
-    *   [Auth (⭐230)](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Google auth plugin for Capacitor.
+    *   [Auth (⭐240)](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Google auth plugin for Capacitor.
     *   [Availability (⭐2)](https://github.com/cartona/capacitor-google-play-availability) - Verifies that Google Play services is installed and enabled, and request enabling Google Play services on device.
     *   [Fit (⭐21)](https://github.com/Ad-Scientiam/capacitor-google-fit) - Retrieve data from Google Fit.
     *   [MlKit Language (⭐3)](https://github.com/hemangsk/capacitor-mlkit-language) - Identify the language of a string of text.
@@ -197,23 +207,23 @@
 
 ### Community / Case study
 
-*   [Proposal (⭐70)](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
+*   [Proposal (⭐71)](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
 
 ## [Apr 24, 2022](/content/2022/04/24/README.md)
 
 ### Other plugins
 
 *   Firebase
-    *   [AppCheck (⭐6)](https://github.com/mattmilan-dev/capacitor-firebase-appcheck) - Allows usage of native AppCheck tokens.
+    *   [AppCheck (⭐7)](https://github.com/mattmilan-dev/capacitor-firebase-appcheck) - Allows usage of native AppCheck tokens.
     *   [Dynamic Links (⭐23)](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Firebase Dynamic Links.
     *   [Push (⭐28)](https://github.com/EinfachHans/capacitor-firebase-push) - This Plugin it used for Firebase Push Messages. It support Data.
 *   [Photo library (⭐2)](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
 
 ### Tools / Incompatible
 
-*   [Docgen (⭐11)](https://github.com/ionic-team/capacitor-docgen) - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
-*   [Plugin generator (⭐59)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
-*   [Assets (⭐454)](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
+*   [Docgen (⭐12)](https://github.com/ionic-team/capacitor-docgen) - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
+*   [Plugin generator (⭐60)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
+*   [Assets (⭐461)](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
 
 ### Learning / Offical guides
 
@@ -248,20 +258,20 @@
 
 ### Other plugins
 
-*   [Document Scanner (⭐39)](https://github.com/websitebeaver/capacitor-document-scanner) - Scan documents (notes, homework, business cards, receipts, or anything with a rectangular shape).
+*   [Document Scanner (⭐45)](https://github.com/websitebeaver/capacitor-document-scanner) - Scan documents (notes, homework, business cards, receipts, or anything with a rectangular shape).
 
 ## [Mar 07, 2022](/content/2022/03/07/README.md)
 
 ### Other plugins
 
-*   [Print (⭐2)](https://github.com/leoruhland/capacitor-print) - Print the WebView.
+*   [Print (⭐4)](https://github.com/leoruhland/capacitor-print) - Print the WebView.
 
 ## [Mar 03, 2022](/content/2022/03/03/README.md)
 
 ### Official plugins
 
-*   [Device (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/device) - Exposes internal information about the device, such as the model and operating system version, along with user information such as unique IDs.
-*   [File system (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/filesystem) - Provides a NodeJS-like API for working with files on the device.
+*   [Device (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/device) - Exposes internal information about the device, such as the model and operating system version, along with user information such as unique IDs.
+*   [File system (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/filesystem) - Provides a NodeJS-like API for working with files on the device.
 
 ### Learning / Crash Courses
 
@@ -296,50 +306,50 @@
 
 ### Official plugins
 
-*   [Toast (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/toast) - Provides a native notification pop up for displaying important information to a user.
+*   [Toast (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/toast) - Provides a native notification pop up for displaying important information to a user.
 
 ### Community plugins
 
-*   [Keep awake (⭐103)](https://github.com/capacitor-community/keep-awake) - Prevent your screen from getting some sleep.
+*   [Keep awake (⭐111)](https://github.com/capacitor-community/keep-awake) - Prevent your screen from getting some sleep.
 *   Microsoft
-    *   [Appcenter (⭐32)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter) - AppCenter SDK.
-    *   [Analytics (⭐32)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-analytics) - AppCenter Analytics.
-    *   [Crashes (⭐32)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-crashes) - AppCenter Crashes.
+    *   [Appcenter (⭐33)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter) - AppCenter SDK.
+    *   [Analytics (⭐33)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-analytics) - AppCenter Analytics.
+    *   [Crashes (⭐33)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-crashes) - AppCenter Crashes.
 
 ### Other plugins
 
-*   [Healthkit (⭐44)](https://github.com/Ad-Scientiam/capacitor-healthkit) - Retrieve data from HealthKit.
-*   [UDP (⭐3)](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast.
+*   [Healthkit (⭐47)](https://github.com/Ad-Scientiam/capacitor-healthkit) - Retrieve data from HealthKit.
+*   [UDP (⭐4)](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast.
 
 ## [Jan 23, 2022](/content/2022/01/23/README.md)
 
 ### Official plugins
 
-*   [App (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/app) - Handles high-level App state and events.
-*   [Screen Reader (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/screen-reader) - Provides access to TalkBack/VoiceOver/etc. and provides simple text-to-speech capabilities for visual accessibility.
+*   [App (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/app) - Handles high-level App state and events.
+*   [Screen Reader (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/screen-reader) - Provides access to TalkBack/VoiceOver/etc. and provides simple text-to-speech capabilities for visual accessibility.
 
 ### Community plugins
 
 *   Firebase
-    *   [Analytics (⭐147)](https://github.com/capacitor-community/firebase-analytics) - A native plugin for Firebase analytics.
-    *   [Crashlytics (⭐67)](https://github.com/capacitor-community/firebase-crashlytics) - Firebase Crashlytics.
-    *   [Fcm (⭐223)](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging features for Capacitor apps.
+    *   [Analytics (⭐152)](https://github.com/capacitor-community/firebase-analytics) - A native plugin for Firebase analytics.
+    *   [Crashlytics (⭐66)](https://github.com/capacitor-community/firebase-crashlytics) - Firebase Crashlytics.
+    *   [Fcm (⭐224)](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging features for Capacitor apps.
     *   [Remote config (⭐22)](https://github.com/capacitor-community/firebase-remote-config) - A native plugin for Firebase remote config.
-*   [Photoviewer (⭐43)](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with full-screen and sharing capabilities.
-*   [Privacy screen (⭐62)](https://github.com/capacitor-community/privacy-screen) - Protects your app from displaying a screenshot in recents screen/App Switcher.
-*   [Screen brightness (⭐15)](https://github.com/capacitor-community/screen-brightness) - Control screen brightness on iOS and android.
+*   [Photoviewer (⭐44)](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with full-screen and sharing capabilities.
+*   [Privacy screen (⭐66)](https://github.com/capacitor-community/privacy-screen) - Protects your app from displaying a screenshot in recents screen/App Switcher.
+*   [Screen brightness (⭐17)](https://github.com/capacitor-community/screen-brightness) - Control screen brightness on iOS and android.
 
 ### Other plugins
 
 *   [Intent (⭐8)](https://github.com/IT-MikeS/capacitor-intents) - Supports multiple broadcast receiving of intents, and sending out BroadcastIntents in Android.
-*   [Oauth2 (⭐204)](https://github.com/moberwasserlechner/capacitor-oauth2) - Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.
-*   [Video player (⭐91)](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
+*   [Oauth2 (⭐207)](https://github.com/moberwasserlechner/capacitor-oauth2) - Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.
+*   [Video player (⭐97)](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
 
 ## [Jan 08, 2022](/content/2022/01/08/README.md)
 
 ### Other plugins
 
-*   [Data Storage SQlite (⭐71)](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexedDB for the Web platform.
+*   [Data Storage SQlite (⭐73)](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexedDB for the Web platform.
 
 ## [Dec 30, 2021](/content/2021/12/30/README.md)
 
@@ -355,73 +365,73 @@
 
 ### Official plugins
 
-*   [Action Sheet (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/action-sheet) - Provides access to native Action Sheets.
-*   [App Launcher (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/app-launcher) - Allows to check if an app can be opened and open it.
-*   [Browser (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/browser) - Provides the ability to open an in-app browser and subscribe to browser events.
-*   [Camera (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/camera) - Provides the ability to take a photo with the camera or choose an existing one from the photo album.
-*   [Clipboard (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/clipboard) - Enables copy and pasting to/from the system clipboard.
-*   [Dialog (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/dialog) - Provides methods for triggering native dialog windows for alerts, confirmations, and input prompts.
-*   [Geolocation (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/geolocation) - Provides simple methods for getting and tracking the current position of the device using GPS, along with altitude, heading, and speed information if available.
-*   [Haptics (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/haptics) - Provides physical feedback to the user through touch or vibration.
-*   [Keyboard (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/keyboard) - Provides keyboard display and visibility control, along with event tracking when the keyboard shows and hides.
-*   [Local Notifications (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/local-notifications) - Provides a way to schedule device notifications locally (i.e. without a server sending push notifications).
-*   [Motion (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/motion) - Tracks accelerometer and device orientation (compass heading, etc.).
-*   [Network (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/network) - Provides network and connectivity information.
-*   [Push Notifications (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/push-notifications) - Provides access to native push notifications.
-*   [Share (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/share) - Provides methods for sharing content in any sharing-enabled apps the user may have installed.
-*   [Splash Screen (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/splash-screen) - Provides methods for showing or hiding a Splash image.
-*   [Status Bar (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/status-bar) - Provides methods for configuring the style of the Status Bar, along with showing or hiding it.
-*   [Text Zoom (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/text-zoom) - Provides the ability to change Web View text size for visual accessibility.
+*   [Action Sheet (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/action-sheet) - Provides access to native Action Sheets.
+*   [App Launcher (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/app-launcher) - Allows to check if an app can be opened and open it.
+*   [Browser (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/browser) - Provides the ability to open an in-app browser and subscribe to browser events.
+*   [Camera (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/camera) - Provides the ability to take a photo with the camera or choose an existing one from the photo album.
+*   [Clipboard (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/clipboard) - Enables copy and pasting to/from the system clipboard.
+*   [Dialog (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/dialog) - Provides methods for triggering native dialog windows for alerts, confirmations, and input prompts.
+*   [Geolocation (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/geolocation) - Provides simple methods for getting and tracking the current position of the device using GPS, along with altitude, heading, and speed information if available.
+*   [Haptics (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/haptics) - Provides physical feedback to the user through touch or vibration.
+*   [Keyboard (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/keyboard) - Provides keyboard display and visibility control, along with event tracking when the keyboard shows and hides.
+*   [Local Notifications (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/local-notifications) - Provides a way to schedule device notifications locally (i.e. without a server sending push notifications).
+*   [Motion (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/motion) - Tracks accelerometer and device orientation (compass heading, etc.).
+*   [Network (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/network) - Provides network and connectivity information.
+*   [Push Notifications (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/push-notifications) - Provides access to native push notifications.
+*   [Share (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/share) - Provides methods for sharing content in any sharing-enabled apps the user may have installed.
+*   [Splash Screen (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/splash-screen) - Provides methods for showing or hiding a Splash image.
+*   [Status Bar (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/status-bar) - Provides methods for configuring the style of the Status Bar, along with showing or hiding it.
+*   [Text Zoom (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/text-zoom) - Provides the ability to change Web View text size for visual accessibility.
 
 ### Community plugins
 
-*   [Admob (⭐189)](https://github.com/capacitor-community/admob) - A native plugin for AdMob.
-*   [Apple sign in (⭐127)](https://github.com/capacitor-community/apple-sign-in) - Capacitor Sign in with Apple.
-*   [Background geolocation (⭐160)](https://github.com/capacitor-community/background-geolocation) - Receive geolocation updates even while app is backgrounded.
-*   [Barcode scanner (⭐419)](https://github.com/capacitor-community/barcode-scanner) - A fast and efficient QR / barcode scanner for Capacitor.
-*   [Bluetooth-le (⭐216)](https://github.com/capacitor-community/bluetooth-le) - Bluetooth Low Energy.
-*   [Camera preview (⭐162)](https://github.com/capacitor-community/camera-preview) - Camera preview.
-*   [Googlemaps (⭐142)](https://github.com/capacitor-community/capacitor-googlemaps-native) - Plugin using native Maps API for Android and iOS.
-*   [Contacts (⭐108)](https://github.com/capacitor-community/contacts) - Contacts Plugin for Capacitor.
-*   [Date picker (⭐78)](https://github.com/capacitor-community/date-picker) - Native DateTime Picker Plugin for Capacitor Apps.
-*   [Facebook Login (⭐87)](https://github.com/capacitor-community/facebook-login) - A native plugin for Facebook Login.
-*   [Flipper (⭐9)](https://github.com/capacitor-community/flipper) - A native plugin for flipper debugger.
-*   [Http (⭐206)](https://github.com/capacitor-community/http) - A native HTTP plugin for CORS-free requests and file transfers.
-*   [Intercom (⭐50)](https://github.com/capacitor-community/intercom) - Enable Intercom features for Capacitor apps.
-*   [Media (⭐76)](https://github.com/capacitor-community/media) - Enable some media features for Capacitor such as create albums, save videos, gifs and more.
-*   [Native audio (⭐86)](https://github.com/capacitor-community/native-audio) - A native plugin for native audio engine.
+*   [Admob (⭐194)](https://github.com/capacitor-community/admob) - A native plugin for AdMob.
+*   [Apple sign in (⭐131)](https://github.com/capacitor-community/apple-sign-in) - Capacitor Sign in with Apple.
+*   [Background geolocation (⭐163)](https://github.com/capacitor-community/background-geolocation) - Receive geolocation updates even while app is backgrounded.
+*   [Barcode scanner (⭐422)](https://github.com/capacitor-community/barcode-scanner) - A fast and efficient QR / barcode scanner for Capacitor.
+*   [Bluetooth-le (⭐228)](https://github.com/capacitor-community/bluetooth-le) - Bluetooth Low Energy.
+*   [Camera preview (⭐168)](https://github.com/capacitor-community/camera-preview) - Camera preview.
+*   [Googlemaps (⭐140)](https://github.com/capacitor-community/capacitor-googlemaps-native) - Plugin using native Maps API for Android and iOS.
+*   [Contacts (⭐109)](https://github.com/capacitor-community/contacts) - Contacts Plugin for Capacitor.
+*   [Date picker (⭐79)](https://github.com/capacitor-community/date-picker) - Native DateTime Picker Plugin for Capacitor Apps.
+*   [Facebook Login (⭐90)](https://github.com/capacitor-community/facebook-login) - A native plugin for Facebook Login.
+*   [Flipper (⭐10)](https://github.com/capacitor-community/flipper) - A native plugin for flipper debugger.
+*   [Http (⭐207)](https://github.com/capacitor-community/http) - A native HTTP plugin for CORS-free requests and file transfers.
+*   [Intercom (⭐51)](https://github.com/capacitor-community/intercom) - Enable Intercom features for Capacitor apps.
+*   [Media (⭐81)](https://github.com/capacitor-community/media) - Enable some media features for Capacitor such as create albums, save videos, gifs and more.
+*   [Native audio (⭐92)](https://github.com/capacitor-community/native-audio) - A native plugin for native audio engine.
 *   [Native market (⭐24)](https://github.com/capacitor-community/native-market) - A native market plugin for linking to google play or app store.
-*   [React hooks (⭐236)](https://github.com/capacitor-community/react-hooks) - React Hooks for Capacitor apps.
+*   [React hooks (⭐239)](https://github.com/capacitor-community/react-hooks) - React Hooks for Capacitor apps.
 *   [Realm (⭐23)](https://github.com/capacitor-community/realm) - A native plugin for MongoDB Realm.
-*   [Speech recognition (⭐61)](https://github.com/capacitor-community/speech-recognition) - A native plugin for speech recognition.
-*   [Sqlite (⭐362)](https://github.com/capacitor-community/sqlite) - Native & electron SQLite databases.
-*   [Stripe (⭐165)](https://github.com/capacitor-community/stripe) - Stripe SDK bindings for Capacitor Applications.
-*   [Tauri (⭐95)](https://github.com/capacitor-community/tauri) - Support for the Tauri platform.
+*   [Speech recognition (⭐66)](https://github.com/capacitor-community/speech-recognition) - A native plugin for speech recognition.
+*   [Sqlite (⭐380)](https://github.com/capacitor-community/sqlite) - Native & electron SQLite databases.
+*   [Stripe (⭐174)](https://github.com/capacitor-community/stripe) - Stripe SDK bindings for Capacitor Applications.
+*   [Tauri (⭐99)](https://github.com/capacitor-community/tauri) - Support for the Tauri platform.
 *   [Text to speech (⭐81)](https://github.com/capacitor-community/text-to-speech) - Synthesizing speech from text.
 *   [Twitter (⭐11)](https://github.com/capacitor-community/twitter) - Enable TwitterKit features for Capacitor.
 *   [Uxcam (⭐5)](https://github.com/capacitor-community/uxcam) - UXCam and FullStory analytics. It uses UXCam for Android and iOS platforms and FullStory for Web/PWA.
 
 ### Other plugins
 
-*   [App Tracking Transparency (⭐27)](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency) - Request user authorization to access app-related data for tracking the user or the device. iOS only.
+*   [App Tracking Transparency (⭐28)](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency) - Request user authorization to access app-related data for tracking the user or the device. iOS only.
 *   [Brother Print (⭐6)](https://github.com/rdlabo-team/capacitor-brotherprint) - A native Brother Print SDK implementation for iOS & Android.
-*   [Biometric (⭐154)](https://github.com/epicshaggy/capacitor-native-biometric) - Use biometrics confirm device owner presence or authenticate users.
+*   [Biometric (⭐161)](https://github.com/epicshaggy/capacitor-native-biometric) - Use biometrics confirm device owner presence or authenticate users.
 *   [Dark mode (⭐1)](https://github.com/micahlt/ionicCapacitorDarkMode) - Monitor the changes made to system's dark mode.
-*   [Email composer (⭐17)](https://github.com/EinfachHans/capacitor-email-composer) - Open a native E-Mail Composer within your Capacitor App.
+*   [Email composer (⭐18)](https://github.com/EinfachHans/capacitor-email-composer) - Open a native E-Mail Composer within your Capacitor App.
 *   [Facebook Analytics (⭐5)](https://github.com/SpellChucker/capacitor-plugin-facebook-analytics) - Facebook Analytics Plugin for Capacitor.
 *   [File selector (⭐14)](https://github.com/hinddeep/capacitor-file-selector) - Select files form Android/iOS devices and the web.
-*   [Jitsi (⭐72)](https://github.com/calvinckho/capacitor-jitsi-meet) - Make video calls through the free, open-sourced Jitsi video platform.
+*   [Jitsi (⭐77)](https://github.com/calvinckho/capacitor-jitsi-meet) - Make video calls through the free, open-sourced Jitsi video platform.
 *   [Lightsensor (⭐2)](https://github.com/Elvincth/capacitor-plugin-lightsensor) - Get the illuminance level on the device.
-*   [Native settings (⭐64)](https://github.com/RaphaelWoude/capacitor-native-settings) - Open native settings screens.
+*   [Native settings (⭐70)](https://github.com/RaphaelWoude/capacitor-native-settings) - Open native settings screens.
 *   NativeScript
     *   [NativeScript Capacitor (⭐33)](https://github.com/NativeScript/capacitor) - Empower Capacitor with native APIs.
-    *   [Augmented Reality (⭐116)](https://github.com/EddyVerbruggen/nativescript-ar) - Add AR experiences.
-*   [Navigation bar (⭐38)](https://github.com/hugotomazi/navigation-bar) - Navigation Bar manipulation, hide/show.
-*   [Rate app (⭐117)](https://github.com/Nodonisko/capacitor-rate-app) - Let users rate your app using native rate app dialog for both Android and iOS.
+    *   [Augmented Reality (⭐117)](https://github.com/EddyVerbruggen/nativescript-ar) - Add AR experiences.
+*   [Navigation bar (⭐44)](https://github.com/hugotomazi/navigation-bar) - Navigation Bar manipulation, hide/show.
+*   [Rate app (⭐123)](https://github.com/Nodonisko/capacitor-rate-app) - Let users rate your app using native rate app dialog for both Android and iOS.
 *   [Read sms (⭐0)](https://github.com/Ayush-Rajniwal/cap-read-sms) - Read the user's SMS with their permission.
-*   [Screenshot (⭐12)](https://github.com/ludufre/capacitor-screenshot) - Take a screenshot of the current view.
+*   [Screenshot (⭐13)](https://github.com/ludufre/capacitor-screenshot) - Take a screenshot of the current view.
 *   [Send intent (⭐8)](https://github.com/tavosansal/capacitor-plugin-send-intent) - Expose a listener in your JavaScript application for when another application sends data to your Capacitor application via the Android share menu or share sheet.
-*   [Sentry (⭐113)](https://github.com/getsentry/sentry-capacitor) - Add Sentry error tracking and performance monitoring for Capacitor apps.
+*   [Sentry (⭐114)](https://github.com/getsentry/sentry-capacitor) - Add Sentry error tracking and performance monitoring for Capacitor apps.
 *   [Stripe terminal (⭐28)](https://github.com/eventOneHQ/capacitor-stripe-terminal) - Stripe Terminal Plugin for Capacitor.
 *   [Sprig (⭐0)](https://github.com/crabbydavis/sprig) - All-in-one  product research platform.
 *   [Square Payments (⭐2)](https://github.com/jbrown0824/capacitor-square-payments) - Enable Square Payments for Capacitor.

@@ -28,7 +28,7 @@
 
 ### Monitoring / Prometheus
 
-*   [HAProxy Exporter (⭐609)](https://github.com/prometheus/haproxy_exporter) - Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption.
+*   [HAProxy Exporter (⭐608)](https://github.com/prometheus/haproxy_exporter) - Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption.
 
 ## [4. Amas](/content/sindresorhus/amas/README.md)
 

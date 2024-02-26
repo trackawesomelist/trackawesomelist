@@ -16,7 +16,7 @@
 
 ### Contents / Monitoring
 
-*   [dexter (⭐1.5k)](https://github.com/ankane/dexter) - The automatic indexer for Postgres. Detects slow queries and creates indexes if configured to do so.
+*   [dexter (⭐1.7k)](https://github.com/ankane/dexter) - The automatic indexer for Postgres. Detects slow queries and creates indexes if configured to do so.
 
 ## [3. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

@@ -10,16 +10,16 @@
 
 ### [Aparajita plugins](https://github.com/aparajita?tab=repositories&q=capacitor)
 
-*   [Biometric Auth (⭐80)](https://github.com/aparajita/capacitor-biometric-auth) - Easy access to native biometric auth APIs on iOS and Android.
-*   [Dark Mode (⭐15)](https://github.com/aparajita/capacitor-dark-mode) - Universal, reliable dark mode support on the web, iOS and Android.
+*   [Biometric Auth (⭐96)](https://github.com/aparajita/capacitor-biometric-auth) - Easy access to native biometric auth APIs on iOS and Android.
+*   [Dark Mode (⭐18)](https://github.com/aparajita/capacitor-dark-mode) - Universal, reliable dark mode support on the web, iOS and Android.
 *   [Logger (⭐15)](https://github.com/aparajita/capacitor-logger) - Better logging for the web and native Ionic/Capacitor apps.
-*   [Secure Storage (⭐70)](https://github.com/aparajita/capacitor-secure-storage) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
+*   [Secure Storage (⭐79)](https://github.com/aparajita/capacitor-secure-storage) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Functional
 
-*   [go-functional (⭐265)](https://github.com/BooleanCat/go-functional) - Functional programming in Go using generics
+*   [go-functional (⭐272)](https://github.com/BooleanCat/go-functional) - Functional programming in Go using generics
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -34,23 +34,23 @@
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
-*   [a16z-infra/ai-town (⭐6k)](https://github.com/a16z-infra/AI-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
+*   [a16z-infra/ai-town (⭐6.1k)](https://github.com/a16z-infra/AI-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
 *   [AI Town](https://www.convex.dev/ai-town): a virtual town where AI characters live, chat and socialize.
-*   [joonspk-research/generative\_agents - Generative Agents (⭐14k)](https://github.com/joonspk-research/generative_agents): code for interactive simulacra of human behavior [\[arxiv\]](https://arxiv.org/abs/2304.03442)
+*   [joonspk-research/generative\_agents - Generative Agents (⭐15k)](https://github.com/joonspk-research/generative_agents): code for interactive simulacra of human behavior [\[arxiv\]](https://arxiv.org/abs/2304.03442)
 
 ### LLMOps / Multi-agents
 
-*   [LLM App (⭐1.6k)](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
+*   [LLM App (⭐1.8k)](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
 
 ### LangChain / Multi-agents
 
-*   [Embedchain (⭐7.4k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
+*   [Embedchain (⭐7.8k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ask (⭐48)](https://github.com/Licheam/zsh-ask) - Serves as a ChatGPT API frontend, enabling you to interact with ChatGPT directly from the ZSH shell using only `cURL` and `jq`.
+*   [ask (⭐50)](https://github.com/Licheam/zsh-ask) - Serves as a ChatGPT API frontend, enabling you to interact with ChatGPT directly from the ZSH shell using only `cURL` and `jq`.
 *   [kubectlenv (⭐0)](https://github.com/rafalmasiarek/oh-my-zsh-kubectlenv-plugin) - Easily switch between multiple `kubectl` versions.
 
 ## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)

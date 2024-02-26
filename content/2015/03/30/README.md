@@ -51,8 +51,8 @@
 
 ### Databases
 
-*   [lowdb (⭐18k)](https://github.com/typicode/lowdb) - Flat file database built on lodash API. (Javascript)
-*   [JSON ODM (⭐94)](https://github.com/konsultaner/jsonOdm) - Object document mapper for JavaScript to use on the server or in the browser. (Javascript)
+*   [lowdb (⭐21k)](https://github.com/typicode/lowdb) - Flat file database built on lodash API. (Javascript)
+*   [JSON ODM (⭐100)](https://github.com/konsultaner/jsonOdm) - Object document mapper for JavaScript to use on the server or in the browser. (Javascript)
 
 ---
 

@@ -294,7 +294,7 @@
 
 ### Tools / Vulnerable Applications for practice
 
-*   [Oversecured Vulnerable Android App (OVAA) (⭐579)](https://github.com/oversecured/ovaa)
+*   [Oversecured Vulnerable Android App (OVAA) (⭐583)](https://github.com/oversecured/ovaa)
 
 ---
 

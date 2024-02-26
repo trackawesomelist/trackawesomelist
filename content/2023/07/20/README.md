@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [shoes (⭐136)](https://github.com/cfal/shoes) - A multi-protocol proxy server
+*   [shoes (⭐141)](https://github.com/cfal/shoes) - A multi-protocol proxy server
 
 ## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Wikipedia
 
-*   [Wikiless](https://wikiless.whateveritworks.org/) - A maintained fork of the free open source alternative Wikipedia front-end focused on privacy [Source Code (⭐129)](https://github.com/Metastem/wikiless). (Original instance: [wikiless.org](https://wikiless.org/), Wikiless repository has been removed by Codeberg, [follow news here](https://orenom.fi/))
+*   [Wikiless](https://wikiless.whateveritworks.org/) - A maintained fork of the free open source alternative Wikipedia front-end focused on privacy [Source Code (⭐128)](https://github.com/Metastem/wikiless). (Original instance: [wikiless.org](https://wikiless.org/), Wikiless repository has been removed by Codeberg, [follow news here](https://orenom.fi/))
 
 ### Utilities
 
@@ -139,7 +139,7 @@
 
 ### Inbox: Text-to-speech (TTS) and avatars / Deforum
 
-*   [Shaunwei/RealChar (⭐5.6k)](https://github.com/Shaunwei/RealChar): AI Character/Companion in Realtime
+*   [Shaunwei/RealChar (⭐5.7k)](https://github.com/Shaunwei/RealChar): AI Character/Companion in Realtime
 *   [UneeQ Digital Humans](https://www.digitalhumans.com/): 3D character lib synced
 *   [AI Voice Generator](https://www.aivoicegenerator.org): free online AI-powered text-to-speech generator that creates voice overs with natural, realistic voices
 
@@ -168,7 +168,7 @@
 
 ### Photo / Image
 
-*   [zoom-image (⭐260)](https://github.com/willnguyen1312/zoom-image) - [demo](https://willnguyen1312.github.io/zoom-image/examples/react.html) - [docs](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic library to zoom image on the web
+*   [zoom-image (⭐264)](https://github.com/willnguyen1312/zoom-image) - [demo](https://willnguyen1312.github.io/zoom-image/examples/react.html) - [docs](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic library to zoom image on the web
 
 ## [18. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

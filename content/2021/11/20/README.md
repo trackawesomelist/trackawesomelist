@@ -30,7 +30,7 @@
 
 ### Miscellaneous / React
 
-*   [GraphVinci (⭐67)](https://github.com/Comcast/graphvinci) - An interactive schema visualizer for GraphQL APIs.
+*   [GraphVinci (⭐68)](https://github.com/Comcast/graphvinci) - An interactive schema visualizer for GraphQL APIs.
 
 ### Ruby Examples / React
 

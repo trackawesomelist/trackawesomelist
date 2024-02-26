@@ -10,7 +10,7 @@
 
 ### Software / Communication - IRC
 
-*   [Kiwi IRC](https://kiwiirc.com/) - Responsive web IRC client with theming support. ([Demo](https://kiwiirc.com/nextclient/), [Source Code (⭐808)](https://github.com/kiwiirc/kiwiirc)) `Apache-2.0` `Nodejs`
+*   [Kiwi IRC](https://kiwiirc.com/) - Responsive web IRC client with theming support. ([Demo](https://kiwiirc.com/nextclient/), [Source Code (⭐814)](https://github.com/kiwiirc/kiwiirc)) `Apache-2.0` `Nodejs`
 
 ### Software / Conference Management
 
@@ -30,7 +30,7 @@
 
 ### Software / URL Shorteners
 
-*   [Shlink](https://shlink.io) - URL shortener with REST API and command line interface. Includes official progressive web application and docker images. ([Source Code (⭐2.5k)](https://github.com/shlinkio/shlink), [Clients](https://shlink.io/apps)) `MIT` `PHP/Docker`
+*   [Shlink](https://shlink.io) - URL shortener with REST API and command line interface. Includes official progressive web application and docker images. ([Source Code (⭐2.6k)](https://github.com/shlinkio/shlink), [Clients](https://shlink.io/apps)) `MIT` `PHP/Docker`
 
 ### Software / Wikis
 

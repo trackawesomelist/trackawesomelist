@@ -216,17 +216,17 @@
 
 ### Security
 
-*   [Fingerprinter (⭐250)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
-*   [haiti (⭐525)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
-*   [Pipal (⭐602)](https://github.com/digininja/pipal) - Password analyser and statistics generator
-*   [WhatWeb (⭐4.9k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
+*   [Fingerprinter (⭐252)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
+*   [haiti (⭐536)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
+*   [Pipal (⭐604)](https://github.com/digininja/pipal) - Password analyser and statistics generator
+*   [WhatWeb (⭐5k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
 *   [WPscan](http://wpscan.org/) - WordPress vulnerability scanner.
 
 ## [18. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Photo / Image
 
-*   [react-photo-album (⭐383)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
+*   [react-photo-album (⭐401)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
 
 ## [19. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
@@ -268,7 +268,7 @@
 
 ### FRAME Pallets
 
-*   [RMRK Pallets (⭐70)](https://github.com/rmrk-team/rmrk-substrate) - Nested, conditional & Multi-resourced NFTs.
+*   [RMRK Pallets (⭐73)](https://github.com/rmrk-team/rmrk-substrate) - Nested, conditional & Multi-resourced NFTs.
 
 ### Tools
 
@@ -436,11 +436,11 @@
 
 ### Templates / Elm
 
-*   [elm\_vite\_tailwind\_template (⭐31)](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
+*   [elm\_vite\_tailwind\_template (⭐33)](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-optimizer (⭐30)](https://github.com/vite-plugin/vite-plugin-optimizer) - Manually Pre-Bundling.
+*   [vite-plugin-optimizer (⭐31)](https://github.com/vite-plugin/vite-plugin-optimizer) - Manually Pre-Bundling.
 *   [vite-plugin-esmodule (⭐24)](https://github.com/vite-plugin/vite-plugin-esmodule) - Build ES module to CommonJs module for Node.js.
 
 ### Frameworks / Community
@@ -710,7 +710,7 @@
 
 ### Networking
 
-*   [SNMP (⭐63)](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
+*   [SNMP (⭐68)](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
 
 ## [49. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -728,7 +728,7 @@
 
 ### Debug
 
-*   [Touca (⭐466)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
+*   [Touca (⭐471)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
 
 ## [52. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 

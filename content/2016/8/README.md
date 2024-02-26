@@ -133,7 +133,7 @@
 
 ### Command-Line Productivity
 
-*   [sheet (⭐255)](https://github.com/oscardelben/sheet) -  Text snippets for the command line
+*   [sheet (⭐257)](https://github.com/oscardelben/sheet) -  Text snippets for the command line
 
 ### Customization / Directory Navigation
 
@@ -512,7 +512,7 @@ git commit --only <file_path>
 
 ### Algorithms and Data structures
 
-*   [erlang-algorithms (⭐156)](https://github.com/aggelgian/erlang-algorithms) - Implementations of popular data structures and algorithms.
+*   [erlang-algorithms (⭐157)](https://github.com/aggelgian/erlang-algorithms) - Implementations of popular data structures and algorithms.
 *   [spacesaving (⭐2)](https://github.com/rozap/spacesaving) - stream count distinct element estimation using the "space saving" algorithm.
 
 ### Applications

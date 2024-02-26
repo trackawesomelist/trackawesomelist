@@ -128,8 +128,8 @@
 ### Web Programming • Libraries
 
 *   [lightgl.js (⭐1.5k)](https://github.com/evanw/lightgl.js) - A lightweight WebGL library.
-*   [picogl.js (⭐778)](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library.
-*   [Alfrid (⭐231)](https://github.com/yiwenl/Alfrid) - A WebGL tool set.
+*   [picogl.js (⭐779)](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library.
+*   [Alfrid (⭐232)](https://github.com/yiwenl/Alfrid) - A WebGL tool set.
 *   [twigl (⭐2.5k)](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library.
 *   [luma.gl (⭐2.2k)](https://github.com/uber/luma.gl) - WebGL2 Components for Data Visualization.
 
@@ -140,7 +140,7 @@
 
 ### Related / Other
 
-*   [3D Machine Learning (⭐9.2k)](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
+*   [3D Machine Learning (⭐9.4k)](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
 
 ## [10. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 

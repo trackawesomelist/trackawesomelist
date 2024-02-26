@@ -28,7 +28,7 @@
 
 ### Internationalization
 
-*   [uni-algo (⭐232)](https://github.com/uni-algo/uni-algo) - Unicode Algorithms Implementation for C/C++. \[Unlicense or MIT]
+*   [uni-algo (⭐234)](https://github.com/uni-algo/uni-algo) - Unicode Algorithms Implementation for C/C++. \[Unlicense or MIT]
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

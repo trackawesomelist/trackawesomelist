@@ -32,7 +32,7 @@
 
 ### Code Analysis and Metrics
 
-*   [Coverband (⭐2.3k)](https://github.com/danmayer/coverband) - Rack middleware to help measure production code coverage.
+*   [Coverband (⭐2.4k)](https://github.com/danmayer/coverband) - Rack middleware to help measure production code coverage.
 
 ## [5. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 

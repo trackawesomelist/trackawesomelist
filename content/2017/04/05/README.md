@@ -57,7 +57,7 @@
 
 ### Table of Contents / Authentication and Authorization
 
-*   [Aura.Auth (⭐130)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
+*   [Aura.Auth (⭐131)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
 
 ### Table of Contents / Filtering and Validation
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 31, 2022
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -96,14 +96,14 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [touchlab/KMMBridge (⭐314)](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.
+*   [touchlab/KMMBridge (⭐318)](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.
 
 ## [12. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Music Programming
 
-*   [Cane (⭐56)](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
-*   [Gwion (⭐505)](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
+*   [Cane (⭐63)](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
+*   [Gwion (⭐511)](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
 *   [Tidal](https://tidalcycles.org/) - a language built on Haskell for live coding patterns.
 
 ## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
@@ -123,19 +123,19 @@
 
 ### Standard CLI
 
-*   [version (⭐83)](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice.
+*   [version (⭐85)](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice.
 
 ### Databases Implemented in Go
 
-*   [objectbox-go (⭐940)](https://github.com/objectbox/objectbox-go) - High-performance embedded Object Database (NoSQL) with Go API.
+*   [objectbox-go (⭐982)](https://github.com/objectbox/objectbox-go) - High-performance embedded Object Database (NoSQL) with Go API.
 
 ### Email
 
-*   [Mailpit (⭐4k)](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
+*   [Mailpit (⭐4.1k)](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
 
 ### Game Development
 
-*   [Harfang3D (⭐442)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐37)](https://github.com/harfang3d/harfang-go)).
+*   [Harfang3D (⭐445)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐37)](https://github.com/harfang3d/harfang-go)).
 
 ### Logging
 
@@ -143,7 +143,7 @@
 
 ### Strings
 
-*   [caps (⭐51)](https://github.com/chanced/caps) - A case conversion library.
+*   [caps (⭐52)](https://github.com/chanced/caps) - A case conversion library.
 
 ### Third-party APIs
 
@@ -198,16 +198,6 @@
     *   [Density-based clustering](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
     *   [Fuzzy clustering](https://en.wikipedia.org/wiki/Fuzzy_clustering)
     *   [Mixture models](https://en.wikipedia.org/wiki/Mixture_model)
-
-## [17. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Artificial Intelligence
-
-*   [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Daniel Kirsch, Judith Hurwitz (PDF)
-
-### Quantum Computing
-
-*   [Quantum Algorithms](https://arxiv.org/pdf/0808.0369v1) - Michele Mosca (PDF)
 
 ---
 

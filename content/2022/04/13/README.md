@@ -162,17 +162,17 @@
 
 ### Templates
 
-*   [rust-yew-axum-tauri-desktop (⭐107)](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.
+*   [rust-yew-axum-tauri-desktop (⭐111)](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.
 
 ## [8. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Changeset Tools / Web Services
 
-*   [achavi](https://overpass-api.de/achavi/) - Augmented change viewer. ([Source Code (⭐40)](https://github.com/nrenner/achavi/) / [Wiki](https://wiki.openstreetmap.org/wiki/Achavi))
+*   [achavi](https://overpass-api.de/achavi/) - Augmented change viewer. ([Source Code (⭐41)](https://github.com/nrenner/achavi/) / [Wiki](https://wiki.openstreetmap.org/wiki/Achavi))
 *   [Osm Change Viz](https://resultmaps.neis-one.org/osm-change-viz) - Changeset visualizer displaying information about added/modified/deleted elements in different panels.
 *   [changeset-map](http://osmlab.github.io/changeset-map/) - Map visualizing changes in selected changesets. Used in OsmCha. ([Source Code (⭐32)](https://github.com/osmlab/changeset-map))
 *   [OSM History Viewer](https://osmhv.openstreetmap.de/) - Changeset visualization. ([Source Code (⭐8)](https://github.com/osmrmhv/osmrmhv))
-*   [Who did it?](https://simon04.dev.openstreetmap.org/whodidit/) - Map highlighting recent edits per tile. Provides RSS feeds for watching changes in custom bounding boxes.  ([Source Code (⭐66)](https://github.com/simon04/whodidit) / [Wiki](https://wiki.openstreetmap.org/wiki/Quality_assurance#WhoDidIt))
+*   [Who did it?](https://simon04.dev.openstreetmap.org/whodidit/) - Map highlighting recent edits per tile. Provides RSS feeds for watching changes in custom bounding boxes.  ([Source Code (⭐67)](https://github.com/simon04/whodidit) / [Wiki](https://wiki.openstreetmap.org/wiki/Quality_assurance#WhoDidIt))
 *   [Osm Change Tiles](https://resultmaps.neis-one.org/osm-change-tiles) - Map highlighting recent edits per tile. Provides RSS feeds for watching changes in custom bounding boxes.
 *   [Analytic OSM Tracker (⭐38)](https://github.com/MichaelVL/osm-analytic-tracker)[^selfhosted-only] - Tracker for changesets in your region.
 *   [Suspicious OSM Changesets](https://resultmaps.neis-one.org/osm-suspicious) - Find suspicious OSM changesets.

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 29, 2018
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -51,13 +51,7 @@
 *   [Bugcrowd](https://www.bugcrowd.com/)
 *   [Hackerone](https://www.hackerone.com/start-hacking)
 
-## [6. Awesome Json](/content/burningtree/awesome-json/README.md)
-
-### Online tools
-
-*   [CSV to JSON](https://mango-is.com/tools/csv-to-json/) - Easy, privacy-friendly and offline-first online csv to json converter
-
-## [7. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [6. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### General / UX
 
@@ -66,25 +60,25 @@
     ByteHacks is a 24-hour hackathon on September 1st and 2nd at Thoughtworks NYC that encourages women of all ages and skillsets to form teams and create tech projects that have positive social impact.
     The hackathon will have workshops, tech talks, mentors, sponsors, and free food. Whether you are a designer, entrepreneur, artist, or coder, ByteHacks welcomes you. We even have a keynote from Limor Fried, founder and CEO of Adafruit.
 
-## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Service Programming
 
 *   [Mara (⭐2k)](https://github.com/mara/data-integration) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Multimedia
 
 *   [TagLib (⭐1.1k)](https://github.com/taglib/taglib) - A library for reading and editing the metadata of several popular audio formats. \[LGPL/MPL] [website](https://taglib.org/)
 
-## [10. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
+## [9. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### Security
 
 *   [Cryoprison (⭐18)](https://github.com/padresmurfa/cryoprison) - Jailbreak/Root detection for Xamarin
 
-## [11. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
+## [10. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
 
 ### Math & Computer Science
 
@@ -94,25 +88,25 @@
 
 *   [Free Code Camp](https://www.freecodecamp.org/) - An open source community that helps you learn to code.
 
-## [12. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [11. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Official Documentation Translations
 
-*   [ast\_helper (⭐27)](https://github.com/bcardiff/crystal-ast-helper) - Helper tool to debug parser and formatter
+*   [ast\_helper (⭐26)](https://github.com/bcardiff/crystal-ast-helper) - Helper tool to debug parser and formatter
 
-## [13. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
+## [12. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 
 ### Free eBooks / Single Topics
 
 *   [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) - Excellent primer to functional programming using JavaScript.
 
-## [14. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [13. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
 *   [Interview with Betsy Beyer, Stephen Thorne of Google](https://driftboatdave.com/2018/10/09/interview-with-betsy-beyer-stephen-thorne-of-google/)
 
-## [15. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [14. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Upload
 
@@ -138,7 +132,7 @@
 
 *   [Finding The Real Origin IPs Hiding Behind CloudFlare or TOR](https://www.secjuice.com/finding-real-ips-of-origin-servers-behind-cloudflare-or-tor/) - Written by [Paul Dannewitz](https://www.secjuice.com/author/paul-dannewitz/).
 
-## [16. Awesome Html5](/content/diegocard/awesome-html5/README.md)
+## [15. Awesome Html5](/content/diegocard/awesome-html5/README.md)
 
 ### Multimedia capabilities / Audio
 

@@ -50,7 +50,7 @@
 
 ### Debug
 
-*   [Boost.Test (⭐159)](https://github.com/boostorg/test) - Boost Test Library. \[Boost] [website](https://boost.org/libs/test)
+*   [Boost.Test (⭐160)](https://github.com/boostorg/test) - Boost Test Library. \[Boost] [website](https://boost.org/libs/test)
 
 ### Image Processing
 
@@ -58,11 +58,11 @@
 
 ### Inter-process communication
 
-*   [Boost.Interprocess (⭐115)](https://github.com/boostorg/interprocess) - Header-only Boost library that supports kernel-level shared memory and memory-mapped files, with in-built synchronization mechanisms (semaphores, mutexes, and more). \[Boost] [website](https://boost.org/libs/interprocess)
+*   [Boost.Interprocess (⭐116)](https://github.com/boostorg/interprocess) - Header-only Boost library that supports kernel-level shared memory and memory-mapped files, with in-built synchronization mechanisms (semaphores, mutexes, and more). \[Boost] [website](https://boost.org/libs/interprocess)
 
 ### XML
 
-*   [Boost.PropertyTree (⭐48)](https://github.com/boostorg/property_tree) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. \[Boost] [website](https://boost.org/libs/property_tree)
+*   [Boost.PropertyTree (⭐49)](https://github.com/boostorg/property_tree) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. \[Boost] [website](https://boost.org/libs/property_tree)
 
 ### Logging
 
@@ -70,19 +70,19 @@
 
 ### Math
 
-*   [Boost.Multiprecision (⭐170)](https://github.com/boostorg/multiprecision) - provides higher-range/precision integer, rational and floating-point types in C++, header-only or with GMP/MPFR/LibTomMath backends. \[Boost] [website](https://boost.org/libs/multiprecision)
+*   [Boost.Multiprecision (⭐173)](https://github.com/boostorg/multiprecision) - provides higher-range/precision integer, rational and floating-point types in C++, header-only or with GMP/MPFR/LibTomMath backends. \[Boost] [website](https://boost.org/libs/multiprecision)
 
 ### Scripting
 
-*   [Boost.Python (⭐438)](https://github.com/boostorg/python) - A C++ library which enables seamless interoperability between C++ and the Python programming language. \[Boost] [website](https://boost.org/libs/python)
+*   [Boost.Python (⭐439)](https://github.com/boostorg/python) - A C++ library which enables seamless interoperability between C++ and the Python programming language. \[Boost] [website](https://boost.org/libs/python)
 
 ### Serialization
 
-*   [Boost.Serialization (⭐114)](https://github.com/boostorg/serialization) - Boost Serialization Library. \[Boost] [website](https://boost.org/libs/serialization)
+*   [Boost.Serialization (⭐115)](https://github.com/boostorg/serialization) - Boost Serialization Library. \[Boost] [website](https://boost.org/libs/serialization)
 
 ### Miscellaneous
 
-*   [Boost.Signals2 (⭐71)](https://github.com/boostorg/signals2) - An implementation of a managed signals and slots system. \[Boost] [website](https://boost.org/libs/signals2)
+*   [Boost.Signals2 (⭐72)](https://github.com/boostorg/signals2) - An implementation of a managed signals and slots system. \[Boost] [website](https://boost.org/libs/signals2)
 
 ## [6. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [logspace-ai/langflow (⭐14k)](https://github.com/logspace-ai/langflow): a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows
+*   [logspace-ai/langflow (⭐15k)](https://github.com/logspace-ai/langflow): a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows
 
 ### Embeddings and Semantic Search / Prompt Engineering for Text-to-image
 

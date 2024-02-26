@@ -22,10 +22,10 @@
 
 ### Resources / Examples
 
-*   💜 [Ping CRM / Laravel (⭐1.9k)](https://github.com/inertiajs/pingcrm/) - Demonstration application made with Laravel and Vue.js.
-*   💜 [Ping CRM / Svelte (⭐175)](https://github.com/inertiajs/pingcrm-svelte) - Demonstration application made with Laravel and Svelte.
-*   [Ping CRM / Django (⭐39)](https://github.com/zodman/django-inertia-demo) - Demonstration application made with Django and Vue.js.
-*   [Ping CRM / React (⭐475)](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
+*   💜 [Ping CRM / Laravel (⭐2k)](https://github.com/inertiajs/pingcrm/) - Demonstration application made with Laravel and Vue.js.
+*   💜 [Ping CRM / Svelte (⭐190)](https://github.com/inertiajs/pingcrm-svelte) - Demonstration application made with Laravel and Svelte.
+*   [Ping CRM / Django (⭐38)](https://github.com/zodman/django-inertia-demo) - Demonstration application made with Django and Vue.js.
+*   [Ping CRM / React (⭐514)](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
 
 ### Resources / Other
 

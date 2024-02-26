@@ -20,7 +20,7 @@
 
 ### Tools / Community providers
 
-*   [terraform-cdk (⭐4.6k)](https://github.com/hashicorp/terraform-cdk) - CDK (Cloud Development Kit) for Terraform allows developers to use familiar programming languages to define cloud infrastructure and provision it through HashiCorp Terraform.
+*   [terraform-cdk (⭐4.7k)](https://github.com/hashicorp/terraform-cdk) - CDK (Cloud Development Kit) for Terraform allows developers to use familiar programming languages to define cloud infrastructure and provision it through HashiCorp Terraform.
 
 ### Videos / IDE
 
@@ -137,8 +137,8 @@
 *   [SharedStreets](https://www.sharedstreets.io) - SharedStreets Referencing System is a global, non-proprietary linear referencing system for describing streets maintained by SharedStreets. Additional Information: [GitHub (⭐182)](https://github.com/sharedstreets/sharedstreets-ref-system)
 *   [GTFS](https://developers.google.com/transit/gtfs) - The General Transit Feed Specification is a popular standard for describing transit systems.
 *   [shared-row (⭐16)](https://github.com/d-wasserman/shared-row) - A data specification for representing street right of ways.
-*   [GBFS (⭐749)](https://github.com/NABSA/gbfs) - The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
-*   [MDS (⭐653)](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
+*   [GBFS (⭐754)](https://github.com/NABSA/gbfs) - The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
+*   [MDS (⭐658)](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
 *   [MTLFS (⭐9)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - The Managed and Tolled Lanes Feed Specification is intended to be used by the managed lanes and toll industry for the standardization and sharing of dynamic toll rates, and any managed lane purpose including but not limited to, ramp metering, bus only lanes, express lanes, especially if the resources are being priced dynamically.
 
 ### Planning Coding Resources / Python
@@ -157,7 +157,7 @@
 
 ### Other Resources / Other GitHub Resource Lists
 
-*   [awesome-transit (⭐1.1k)](https://github.com/CUTR-at-USF/awesome-transit) - A collection of transit data tools and resources.
+*   [awesome-transit (⭐1.2k)](https://github.com/CUTR-at-USF/awesome-transit) - A collection of transit data tools and resources.
 *   [micromobility-tools-and-resources (⭐31)](https://github.com/NABSA/micromobility-tools-and-resources) - A collection of micromobility tools and data resources.
 *   [awesome-sustainable-technology (⭐1.8k)](https://github.com/protontypes/open-sustainable-technology) - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.
 *   [awesome-gis (⭐4k)](https://github.com/sshuair/awesome-gis) - Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.

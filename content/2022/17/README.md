@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 25 - May 01, 2022
 
-54 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -129,10 +129,10 @@
 ### Tools / Community providers
 
 *   [terraform-docs (⭐3.9k)](https://github.com/terraform-docs/terraform-docs) - Quick utility to generate docs from terraform modules.
-*   [tfaction (⭐223)](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
-*   [tflint (⭐4.4k)](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
-*   [tfsec (⭐6.4k)](https://github.com/aquasecurity/tfsec) - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
-*   [validIaC (⭐213)](https://github.com/gofireflyio/validiac) - ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene & security.
+*   [tfaction (⭐224)](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
+*   [tflint (⭐4.5k)](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
+*   [tfsec (⭐6.5k)](https://github.com/aquasecurity/tfsec) - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
+*   [validIaC (⭐218)](https://github.com/gofireflyio/validiac) - ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene & security.
 
 ## [16. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -160,19 +160,13 @@
 | ------: | -------: | ------: |
 |   3 - 5 |       14 | 90-120m |
 
-## [18. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Containers
-
-*   [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/books/digitalocean-ebook-kubernetes-for-full-stack-developers) - Jamon Camisso, Hanif Jetha, Katherine Juell (PDF, EPUB)
-
-## [19. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
+## [18. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
 
 ### Books / Devops
 
 *   [Zionomicon](https://www.zionomicon.com) by John A. De Goes, Adam Fraser - Master the dark art of creating scalable, type-safe, concurrent apps with ZIO
 
-## [20. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [19. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Global
 
@@ -191,29 +185,29 @@
 
 *   [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - History Toolkit for Students.
 
-## [21. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [20. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
-*   💼 [Grid Areas (⭐98)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
+*   💼 [Grid Areas (⭐100)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
 
 ### Tools
 
 *   💼🔧 [tailwindcss-webpack-plugin (⭐33)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Out-of-the-box Tailwind CSS, supports "Design in DevTools" mode and visualizes Tailwind CSS configuration.
 
-## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Utilities
 
 *   [vue-router-webcache (⭐7)](https://github.com/Kolobok12309/vue-router-webcache) - Enable spa routing while in google/yandex/etc webcache.
 
-## [23. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [22. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Distribution
 
 *   [love-fuser (⭐15)](https://github.com/MikuAuahDark/love-fuser) - Packages LÖVE Games using GitHub Actions. Supports Windows, Linux, and Android.
 
-## [24. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [23. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
@@ -221,7 +215,7 @@
 *   [Steemit](https://steemit.com/): Blockchain-based social media platform where anyone can earn rewards.
 *   [Ticktack ☠ (⭐56)](https://github.com/ticktackim/ticktack-workplan): Decentralized social platform for people to share knowledge and exchange value, with P2P messaging encrypted feature. Built on top of Secure Scuttlebutt (SSB).
 
-## [25. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [24. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Onboarding / Negotiation
 
@@ -246,14 +240,14 @@
 
 *   [Why do some developers at Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske) - Because the short-term focused Scrum processes “seem suited to particular types of development, most notably consulting or contract programming, where the customer is external to the organizations, runs the show because they are paying for development, and can change their mind at any time”. Still, google engineers already practice a culture close to what looks like the original 10-points Agile manifesto. But that's it.
 
-## [26. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [25. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### System Utilities / Directory Navigation
 
-*   [btop (⭐14k)](https://github.com/aristocratos/btop) - Linux/OSX/FreeBSD resource monitor
-*   [lsd (⭐11k)](https://github.com/Peltoche/lsd) - LSDeluxe, rewrite of GNU ls with lot of added features like colors, icons, tree-view and more formatting options.
+*   [btop (⭐15k)](https://github.com/aristocratos/btop) - Linux/OSX/FreeBSD resource monitor
+*   [lsd (⭐12k)](https://github.com/Peltoche/lsd) - LSDeluxe, rewrite of GNU ls with lot of added features like colors, icons, tree-view and more formatting options.
 
-## [27. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [26. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Design
 
@@ -263,14 +257,14 @@
 
 *   [SQLGlot (⭐4.8k)](https://github.com/tobymao/sqlglot) - Pure Python SQL parser, transpiler, and builder.
 
-## [28. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [27. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### OAuth2 & OpenID / Macaroons
 
 *   [ZITADEL (⭐6k)](https://github.com/zitadel/zitadel) - An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
 *   [a12n-server (⭐411)](https://github.com/curveball/a12n-server) - A simple authentication system which only implements the relevant parts of the OAuth2 standards.
 
-## [29. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [28. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Dates and Time
 
@@ -282,32 +276,32 @@
 
 *   [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - Not falsehoods *per se*, but still a great list of good practices to implement autocompletion.
 
-## [30. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [29. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### End-user applications / XML
 
 *   [Inochi Creator (⭐645)](https://github.com/Inochi2D/inochi-creator) - Tool to create and edit Inochi2D puppets
 
-## [31. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [30. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### YouTube Channels / Services
 
 *   [EOS Nation](https://www.youtube.com/channel/UCXgAY9DyooykrubRXw3xK1g) - EOS Hot Sauce, ENF, tech, and community content.
 *   [Helios](https://www.youtube.com/c/HeliosEOSIO) - Dedicated to growing EOS, interviews and spotlights.
 
-## [32. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [31. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Starters/Boilerplates / Other external resources
 
 *   [rails\_new (⭐164)](https://github.com/lockstep/rails_new) - A thoughtfully designed template for building modern Rails apps. Get started in minutes instead of hours.
 
-## [33. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [32. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [fluidsonic/fluid-pdf (⭐19)](https://github.com/fluidsonic/fluid-pdf) - Easy PDF generation with HTML & CSS using Chromium or Google Chrome
 
-## [34. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [33. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
@@ -318,7 +312,7 @@
 
 *   [A first look at Deno | BlaBlaConf 2021 🇲🇦](https://www.youtube.com/watch?v=Y_etUvzAa4s)
 
-## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [34. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### [miniplug](https://sr.ht/~yerinalexey/miniplug)
 
@@ -342,16 +336,16 @@
 
 ### zgenom
 
-*   [zsh-quickstart-kit (⭐713)](https://github.com/unixorn/zsh-quickstart-kit) - A simple quickstart for using ZSH with [zgenom (⭐313)](https://github.com/jandamm/zgenom). This automatically configures ZSH to use [zgenom (⭐313)](https://github.com/jandamm/zgenom) to load a curated (but easily customizable) collection of plugins and periodically automatically update itself, the plugins, and the quickstart kit itself.
+*   [zsh-quickstart-kit (⭐718)](https://github.com/unixorn/zsh-quickstart-kit) - A simple quickstart for using ZSH with [zgenom (⭐318)](https://github.com/jandamm/zgenom). This automatically configures ZSH to use [zgenom (⭐318)](https://github.com/jandamm/zgenom) to load a curated (but easily customizable) collection of plugins and periodically automatically update itself, the plugins, and the quickstart kit itself.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [git-worktrees (⭐12)](https://github.com/egyptianbman/zsh-git-worktrees) - Makes `git` worktrees more functional. Includes tab completions.
-*   [zshange\_directory\_recent (⭐0)](https://github.com/Kjeldgaard/zshange_directory_recent) - Change to a recent directory. Requires [fzf (⭐57k)](https://github.com/junegunn/fzf).
+*   [zshange\_directory\_recent (⭐0)](https://github.com/Kjeldgaard/zshange_directory_recent) - Change to a recent directory. Requires [fzf (⭐58k)](https://github.com/junegunn/fzf).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [npm-scripts-autocomplete (⭐66)](https://github.com/grigorii-zander/zsh-npm-scripts-autocomplete) - Shows autocomplete suggestions from scripts found in the current directory's `package.json`. Works with `npm` and `yarn`.
+*   [npm-scripts-autocomplete (⭐71)](https://github.com/grigorii-zander/zsh-npm-scripts-autocomplete) - Shows autocomplete suggestions from scripts found in the current directory's `package.json`. Works with `npm` and `yarn`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -359,19 +353,19 @@
 *   [daily-emoji (⭐1)](https://github.com/huytran-wq/zsh-daily-emoji-theme/) - Shows random emoji at the beginning of each command depending on the day of the week.
 *   [igeek (⭐39)](https://github.com/Saleh7/igeek-zsh-theme) - Displays system information when starting a new terminal session.
 *   [winline (⭐2)](https://github.com/khuei/winline) - Async version of Greg Hurrell's [prompt (⭐1.1k)](https://github.com/wincent/wincent/blob/master/aspects/dotfiles/files/.zshrc). Includes decorators for `git` status, duration of last command, current directory, nested shells, root status.
-*   [zen (⭐11)](https://github.com/cybardev/zen.zsh) - A minimalist theme for `*NIX` systems. Includes decorators for execution time of last command run, curreent directory and vcs status information.
+*   [zen (⭐12)](https://github.com/cybardev/zen.zsh) - A minimalist theme for `*NIX` systems. Includes decorators for execution time of last command run, curreent directory and vcs status information.
 *   [zshify (⭐1)](https://github.com/nrjdalal/zshify) - A minimalistic, one command installation to customize your prompt. Requires [npx](https://docs.npmjs.com/getting-started/installing-npm-packages-locally).
 
-## [36. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [35. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Configuration
 
-*   [GoLobby/Config (⭐353)](https://github.com/golobby/config) - GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language.
+*   [GoLobby/Config (⭐356)](https://github.com/golobby/config) - GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language.
 *   [nfigure (⭐7)](https://github.com/muir/nfigure) - Per-library struct-tag based configuration from command lines (Posix & Go-style); environment, JSON, YAML
 
 ### Maps
 
-*   [goradd/maps (⭐32)](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc.
+*   [goradd/maps (⭐33)](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc.
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -379,15 +373,15 @@
 
 ### Database Tools
 
-*   [dynago (⭐10)](https://github.com/twharmon/dynago) - Simplify working with AWS DynamoDB.
+*   [dynago (⭐11)](https://github.com/twharmon/dynago) - Simplify working with AWS DynamoDB.
 
 ### SQL Query Builders
 
-*   [sg (⭐4)](https://github.com/go-the-way/sg) - A SQL Gen for generating standard SQLs(supports: CRUD) written in Go.
+*   [sg (⭐5)](https://github.com/go-the-way/sg) - A SQL Gen for generating standard SQLs(supports: CRUD) written in Go.
 
 ### Functional
 
-*   [fp-go (⭐276)](https://github.com/repeale/fp-go) - Collection of Functional Programming helpers powered by Golang 1.18+ generics.
+*   [fp-go (⭐280)](https://github.com/repeale/fp-go) - Collection of Functional Programming helpers powered by Golang 1.18+ generics.
 
 ### Logging
 
@@ -399,7 +393,7 @@
 
 ### Dependency Injection
 
-*   [GoLobby/Container (⭐519)](https://github.com/golobby/container) - GoLobby Container is a lightweight yet powerful IoC dependency injection container for the Go programming language.
+*   [GoLobby/Container (⭐521)](https://github.com/golobby/container) - GoLobby Container is a lightweight yet powerful IoC dependency injection container for the Go programming language.
 
 ### Morphological Analyzers
 
@@ -407,7 +401,7 @@
 
 ### ORM
 
-*   [golobby/orm (⭐152)](https://github.com/golobby/orm) - Simple, fast, type-safe, generic orm for developer happiness.
+*   [golobby/orm (⭐153)](https://github.com/golobby/orm) - Simple, fast, type-safe, generic orm for developer happiness.
 
 ### Query Language
 
@@ -432,9 +426,9 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [go-rocket-update (⭐90)](https://github.com/mouuff/go-rocket-update) - A simple way to make self updating Go applications - Supports Github and Gitlab.
+*   [go-rocket-update (⭐92)](https://github.com/mouuff/go-rocket-update) - A simple way to make self updating Go applications - Supports Github and Gitlab.
 
-## [37. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [36. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Offline / Other (Plugins || Cross-platform || OSS || Free)
 
@@ -444,25 +438,25 @@
 
 *   :octocat: [Jest (⭐43k)](https://github.com/facebook/jest) - A comprehensive JavaScript testing solution. Works out of the box for most JavaScript projects.
 
-## [38. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [37. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Auditing / Logging
 
 *   🍰 [Version plugin (⭐52)](https://github.com/josegonzalez/cakephp-version) - A plugin that facilitates versioned database entities.
 
-## [39. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [38. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / E-commerce
 
 *   [Medusa](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
 
-## [40. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [39. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Miscellaneous / React
 
 *   [Blendbase (⭐22)](https://github.com/blendbase/blendbase): Single open-source GraphQL API to connect CRMs to your SaaS. Query any customer CRM system (Salesforce, Hubspot and more) with a single API query from your SaaS app.
 
-## [41. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [40. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Bayesian Induction
 
@@ -483,7 +477,7 @@
 
 *   [Skip-Gram − Zipf + Uniform = Vector Additivity](https://aclanthology.org/P17-1007/) - ***ACL'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=11732363456979525246\&hl=en\&as_sdt=0,5)].
 
-## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -499,13 +493,13 @@
 *   [EmailLabs.io](https://emaillabs.io/en) — Send up to 9,000 Emails for free every month, up to 300 emails daily.
 *   [MailerSend.com](https://www.mailersend.com) — Email API, SMTP, 3,000 emails/month free for transactional emails
 
-## [43. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [42. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Chart
 
 *   [FLCharts (⭐259)](https://github.com/francescoleoni98/FLCharts) - Easy to use and highly customizable charts library for iOS.
 
-## [44. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [43. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Emulators
 
@@ -515,19 +509,19 @@
 
 *   [Arwalk/zig-protobuf (⭐156)](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
 
-## [45. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [44. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / E-commerce
 
-*   [django-salesman (⭐342)](https://github.com/dinoperovic/django-salesman) - Headless e-commerce framework for Django with Wagtail modeladmin integration.
+*   [django-salesman (⭐354)](https://github.com/dinoperovic/django-salesman) - Headless e-commerce framework for Django with Wagtail modeladmin integration.
 
 ### Apps / Media
 
-*   [Wagtail CLIP (⭐11)](https://github.com/MattSegal/wagtail-clip) - A module for searching the contents of Wagtail images with natural language queries.
+*   [Wagtail CLIP (⭐12)](https://github.com/MattSegal/wagtail-clip) - A module for searching the contents of Wagtail images with natural language queries.
 
 ### Apps / Translations
 
-*   [Wagtail Localize (⭐195)](https://github.com/wagtail/wagtail-localize) - A translation plugin for the Wagtail CMS, allows pages or snippets to be translated within Wagtail's admin interface.
+*   [Wagtail Localize (⭐202)](https://github.com/wagtail/wagtail-localize) - A translation plugin for the Wagtail CMS, allows pages or snippets to be translated within Wagtail's admin interface.
 
 ### Tools / Templates & Starter Kits
 
@@ -535,15 +529,15 @@
 
 ### Open-source sites / Lists
 
-*   [Consumer Financial Protection Bureau (⭐239)](https://github.com/cfpb/consumerfinance.gov) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
+*   [Consumer Financial Protection Bureau (⭐241)](https://github.com/cfpb/consumerfinance.gov) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
 
-## [46. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
+## [45. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
 
 ### Tools and Apps / Knowledge Management
 
 *   [Scribe](https://scribehow.com/) - Automatically create step-by-step guides for any process. Simply hit “record” and Scribe will generate a detailed guide complete with screenshots based on your actions, ready to share with colleagues, customers, and friends.
 
-## [47. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
+## [46. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
 
 ### GUI
 
@@ -610,13 +604,13 @@
 *   [Sentinel Console (⭐0)](https://github.com/wenhao/sentinel-dashboard-tdengine) - Sentinel-Dashboard with TDengine.
 *   [Davinci (⭐4.6k)](https://github.com/edp963/davinci) - Davinci is a DVsaaS (Data Visualization as a Service) Platform.
 
-## [48. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [47. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### TypeScript Seed Projects / Components
 
 *   [Eoapi (⭐4.4k)](https://github.com/eolinker/eoapi) - A lightweight, extensible API tool based on Angular and Electron
 
-## [49. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [48. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Learning / Community Tutorials
 
@@ -628,19 +622,19 @@
 
 ### Community / Case study
 
-*   [Proposal (⭐70)](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
+*   [Proposal (⭐71)](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
 
-## [50. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [49. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
-*   [shuttle (⭐5.3k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust
+*   [shuttle (⭐5.3k)](https://github.com/shuttle-hq/shuttle) — A serverless platform.
 
 ### Development tools / Build system
 
 *   [Fleet (⭐2.4k)](https://github.com/dimensionhq/fleet) \[[fleet-rs](https://crates.io/crates/fleet-rs)] - The blazing fast build tool for Rust.
 
-## [51. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [50. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Link Shorteners
 
@@ -651,15 +645,15 @@
 
 *   [Feetter](https://codeberg.org/pluja/Feetter) - Create, sync and manage Nitter feeds without registration from any device.
 
-## [52. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [51. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
-*   [ViTauri (⭐53)](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
+*   [ViTauri (⭐55)](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
 *   [vue-hbs-admin (⭐123)](https://github.com/developer-plus/vue-hbs-admin) - Admin starter template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router4` + `Pinia` + `Unocss` + `Ant-design-vue` + `Auto imports`.
 *   [vite-vue-proste (⭐12)](https://github.com/xyhxx/vite-vue-proste) - Pinia + Typescript + Vue-Router4 + Vitest + Vue-Test-Utils + Vue-Query + Sass + ESLint + Stylelint + Prettier + `project presets`.
 
-## [53. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [52. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Inter-process communication
 
@@ -667,9 +661,9 @@
 
 ### Miscellaneous
 
-*   [fccf (⭐342)](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. \[MIT]
+*   [fccf (⭐343)](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. \[MIT]
 
-## [54. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [53. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 

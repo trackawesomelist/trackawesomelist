@@ -45,7 +45,7 @@
 
 ### Apps / Forms
 
-*   [Wagtail Formation (⭐7)](https://github.com/mwesterhof/wagtail_formation) - Fully dynamic and easy to use CMS-able forms for wagtail
+*   [Wagtail Formation (⭐8)](https://github.com/mwesterhof/wagtail_formation) - Fully dynamic and easy to use CMS-able forms for wagtail
 
 ## [4. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -94,7 +94,7 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [chaos (⭐1)](https://github.com/kusamaxi/chaos-zsh) - Inspired by dogenpunk and smt themes, optimized for `git` users and Python developers. Includes decorators for `git` status, python virtual environment, background jobs, error status of last command, user\@hostname and current directory. Requires a font with emoji.
-*   [xbira (⭐0)](https://github.com/ITAxReal/xbira) - Based on [bira (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), includes decorators for `git` status, user\@hostname, exit status of last command run and the current directory.
+*   [xbira (⭐0)](https://github.com/ITAxReal/xbira) - Based on [bira (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), includes decorators for `git` status, user\@hostname, exit status of last command run and the current directory.
 
 ## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

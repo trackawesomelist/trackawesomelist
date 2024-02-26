@@ -95,24 +95,24 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-pwa (⭐2.5k)](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
+*   [vite-plugin-pwa (⭐2.6k)](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
 
 ### Rollup Plugins / Covered by default in Vite
 
-*   [@rollup/plugin-babel (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/babel) - Compile your files with Babel.
-*   [@rollup/plugin-buble (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/buble) - Compile ES2015 with buble.
-*   [@rollup/plugin-data-uri (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/data-uri) - Import modules from Data URIs.
-*   [@rollup/plugin-html (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/html) - Create HTML files to serve Rollup bundles.
-*   [@rollup/plugin-node-resolve (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/node-resolve) - Locate and bundle third-party dependencies in node\_modules.
-*   [@rollup/plugin-sucrase (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile TypeScript, Flow, JSX, etc with Sucrase.
-*   [@rollup/plugin-wasm (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/wasm) - Import WebAssembly code with Rollup.
-*   [@rollup/plugin-url (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/url) - Import files as data-URIs or ES Modules.
+*   [@rollup/plugin-babel (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/babel) - Compile your files with Babel.
+*   [@rollup/plugin-buble (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/buble) - Compile ES2015 with buble.
+*   [@rollup/plugin-data-uri (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/data-uri) - Import modules from Data URIs.
+*   [@rollup/plugin-html (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/html) - Create HTML files to serve Rollup bundles.
+*   [@rollup/plugin-node-resolve (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/node-resolve) - Locate and bundle third-party dependencies in node\_modules.
+*   [@rollup/plugin-sucrase (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile TypeScript, Flow, JSX, etc with Sucrase.
+*   [@rollup/plugin-wasm (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/wasm) - Import WebAssembly code with Rollup.
+*   [@rollup/plugin-url (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/url) - Import files as data-URIs or ES Modules.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-eslint (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/eslint) - Verify entry point and all imported files with ESLint.
-*   [@rollup/plugin-legacy (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/legacy) - Add export declarations to legacy non-module scripts.
-*   [@rollup/plugin-yaml (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/yaml) - Convert YAML files to ES6 modules.
+*   [@rollup/plugin-eslint (⭐3.5k)](https://github.com/rollup/plugins/blob/master/packages/eslint) - Verify entry point and all imported files with ESLint.
+*   [@rollup/plugin-legacy (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/legacy) - Add export declarations to legacy non-module scripts.
+*   [@rollup/plugin-yaml (⭐3.5k)](https://github.com/rollup/plugins/blob/master/packages/yaml) - Convert YAML files to ES6 modules.
 
 ## [5. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 

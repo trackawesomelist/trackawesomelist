@@ -57,16 +57,16 @@
 ### Other plugins
 
 *   Firebase
-    *   [AppCheck (⭐6)](https://github.com/mattmilan-dev/capacitor-firebase-appcheck) - Allows usage of native AppCheck tokens.
+    *   [AppCheck (⭐7)](https://github.com/mattmilan-dev/capacitor-firebase-appcheck) - Allows usage of native AppCheck tokens.
     *   [Dynamic Links (⭐23)](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Firebase Dynamic Links.
     *   [Push (⭐28)](https://github.com/EinfachHans/capacitor-firebase-push) - This Plugin it used for Firebase Push Messages. It support Data.
 *   [Photo library (⭐2)](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
 
 ### Tools / Incompatible
 
-*   [Docgen (⭐11)](https://github.com/ionic-team/capacitor-docgen) - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
-*   [Plugin generator (⭐59)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
-*   [Assets (⭐454)](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
+*   [Docgen (⭐12)](https://github.com/ionic-team/capacitor-docgen) - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
+*   [Plugin generator (⭐60)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
+*   [Assets (⭐461)](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
 
 ### Learning / Offical guides
 
@@ -135,11 +135,11 @@
 
 ### Software / Booking and Scheduling
 
-*   [Rallly](https://rallly.co) - Create polls to vote on dates and times (alternative to Doodle). ([Demo](https://app.rallly.co), [Source Code (⭐2.8k)](https://github.com/lukevella/rallly)) `AGPL-3.0` `Nodejs/Docker`
+*   [Rallly](https://rallly.co) - Create polls to vote on dates and times (alternative to Doodle). ([Demo](https://app.rallly.co), [Source Code (⭐2.9k)](https://github.com/lukevella/rallly)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Content Management Systems (CMS)
 
-*   [WinterCMS](https://wintercms.com/) - Speedy and secure content management system built on the Laravel PHP framework. ([Source Code (⭐1.2k)](https://github.com/wintercms/winter)) `MIT` `PHP`
+*   [WinterCMS](https://wintercms.com/) - Speedy and secure content management system built on the Laravel PHP framework. ([Source Code (⭐1.3k)](https://github.com/wintercms/winter)) `MIT` `PHP`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
@@ -222,7 +222,7 @@
 
 ### Authentication and OAuth
 
-*   [API Guard (⭐274)](https://github.com/Gokul595/api_guard) - JWT authentication solution for Rails APIs.
+*   [API Guard (⭐275)](https://github.com/Gokul595/api_guard) - JWT authentication solution for Rails APIs.
 
 ## [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -261,7 +261,7 @@
 
 ### Libraries
 
-*   [functional.js (⭐219)](https://github.com/functionaljs/functional-js) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
+*   [functional.js (⭐220)](https://github.com/functionaljs/functional-js) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
 *   [fp-multik (⭐6)](https://github.com/lulldev/fp-multik) - JS/TS lightweight value-multimethod util
 
 ## [26. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
@@ -310,7 +310,7 @@
 ### Explainability / Strong Machine Learning
 
 *   [Beneficial and harmful explanatory machine learning](https://link.springer.com/article/10.1007%2Fs10994-020-05941-0) - ***Machine Learning***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16983722694047294963\&hl=en\&as_sdt=0,5)].
-*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐878)](https://github.com/LAMDA-NJU/Deep-Forest)].
+*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐880)](https://github.com/LAMDA-NJU/Deep-Forest)].
 
 ## [31. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
@@ -438,7 +438,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [al-magic (⭐1)](https://github.com/Alustrat/al-magic/) - Clone of the oh-my-zsh [af-magic (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme) theme with the time added at the right of the prompt.
+*   [al-magic (⭐1)](https://github.com/Alustrat/al-magic/) - Clone of the oh-my-zsh [af-magic (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme) theme with the time added at the right of the prompt.
 *   [skill (asafaeirad) (⭐11)](https://github.com/ASafaeirad/oh-my-zsh-skill-theme) - Includes decorations for working directory, `git` working branch, working directory status and tracking branch status.
 *   [skill (frontendmonster) (⭐11)](https://github.com/frontendmonster/oh-my-zsh-skill-theme) - Optimized for a dark terminal, displays `git` status decorations.
 
@@ -446,18 +446,17 @@
 
 ### Templates / Godot 3.2+
 
-*   [Godot FPS Template (⭐55)](https://github.com/MilkAndBanana01/godot-fps-template) - A free first person game template for the Godot Engine.
+*   [Godot FPS Template (⭐56)](https://github.com/MilkAndBanana01/godot-fps-template) - A free first person game template for the Godot Engine.
 
 ### Plugins and scripts / Various Godot versions
 
 *   [GodotNotificationCenter (⭐59)](https://github.com/didier-v/GodotNotificationCenter) - A notification center (Godot 3.x).
 *   [Scrolling Background (⭐26)](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node (Godot 2.1,3.x).
-*   [SimpleGodotCRTShader (⭐330)](https://github.com/henriquelalves/SimpleGodotCRTShader) - A simple Godot shader that simulates CRT Displays (Godot 2.x, 3.x).
-*   [SMRT-Godot (⭐106)](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games (Godot 3.x).
+*   [SimpleGodotCRTShader (⭐331)](https://github.com/henriquelalves/SimpleGodotCRTShader) - A simple Godot shader that simulates CRT Displays (Godot 2.x, 3.x).
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [AntialiasedLine2D (⭐108)](https://github.com/godot-extended-libraries/godot-antialiased-line2d) - Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (GLES3 + GLES2, all platforms).
+*   [AntialiasedLine2D (⭐109)](https://github.com/godot-extended-libraries/godot-antialiased-line2d) - Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (GLES3 + GLES2, all platforms).
 *   [Godot VirtualJoystick (⭐11)](https://github.com/mcunha-br/Godot_VirtualJoystick) - A simple vitual joystick for mobile devices.
 
 ## [40. Awesome Security](/content/sbilly/awesome-security/week/README.md)
@@ -476,8 +475,8 @@
 
 ### Applications / Blockchain
 
-*   [electrumrs (⭐917)](https://github.com/romanz/electrs) — An efficient re-implementation of Electrum Server in Rust.
-*   [rust-lightning (⭐1.1k)](https://github.com/lightningdevkit/rust-lightning) [![Crate](https://img.shields.io/crates/v/lightning.svg?logo=rust)](https://crates.io/crates/lightning) — Bitcoin Lightning library written in Rust. The main crate,`lightning`, does not handle networking, persistence, or any other I/O. Thus,it is runtime-agnostic, but users must implement basic networking logic, chain interactions, and disk storage.po on linking crate.
+*   [electrumrs (⭐933)](https://github.com/romanz/electrs) — An efficient re-implementation of Electrum Server.
+*   [rust-lightning (⭐1.1k)](https://github.com/lightningdevkit/rust-lightning) [![Crate](https://img.shields.io/crates/v/lightning.svg?logo=rust)](https://crates.io/crates/lightning) — Bitcoin Lightning library. The main crate,`lightning`, does not handle networking, persistence, or any other I/O. Thus,it is runtime-agnostic, but users must implement basic networking logic, chain interactions, and disk storage.po on linking crate.
 
 ### Libraries / Audio and Music
 
@@ -501,18 +500,18 @@
 
 ### Templates / React
 
-*   [vite-rtk-query (⭐114)](https://github.com/laststance/vite-rtk-query) - React, TypeScript, Redux Toolkit, RTK Query, TailwindCSS, MSW, Jest, React Testing Library, ESLint, Prettier.
-*   [React-PWA (⭐472)](https://github.com/suren-atoyan/react-pwa) - React v18, TypeScript, Vite, React Router v6, MUI v5, Recoil, PWA, Eslint, Prettier, Husky, lint-staged, https localhost and more.
-*   [vite-react-ts-minimal-template (⭐25)](https://github.com/alessandropisu/vite-react-ts-minimal-template) - React + TypeScript + Airbnb ESLint + Prettier + Husky.
+*   [vite-rtk-query (⭐115)](https://github.com/laststance/vite-rtk-query) - React, TypeScript, Redux Toolkit, RTK Query, TailwindCSS, MSW, Jest, React Testing Library, ESLint, Prettier.
+*   [React-PWA (⭐480)](https://github.com/suren-atoyan/react-pwa) - React v18, TypeScript, Vite, React Router v6, MUI v5, Recoil, PWA, Eslint, Prettier, Husky, lint-staged, https localhost and more.
+*   [vite-react-ts-minimal-template (⭐26)](https://github.com/alessandropisu/vite-react-ts-minimal-template) - React + TypeScript + Airbnb ESLint + Prettier + Husky.
 
 ### Templates / Others
 
-*   [chrome-ext-template-preact-windi-vite (⭐60)](https://github.com/fell-lucas/chrome-ext-template-preact-windi-vite) - Preact, Windi CSS, TypeScript, Prettier, ESLint, GitHub Actions and Chrome Extension Manifest v3.
+*   [chrome-ext-template-preact-windi-vite (⭐63)](https://github.com/fell-lucas/chrome-ext-template-preact-windi-vite) - Preact, Windi CSS, TypeScript, Prettier, ESLint, GitHub Actions and Chrome Extension Manifest v3.
 
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-dynamic-import-module (⭐21)](https://github.com/Dunqing/vite-plugin-dynamic-import-module) - Support for dynamic import module with variables.
-*   [vite-plugin-mp (⭐21)](https://github.com/zhuweiyou/vite-plugin-mp) - Configure multi-pages applications and code splitting.
+*   [vite-plugin-mp (⭐23)](https://github.com/zhuweiyou/vite-plugin-mp) - Configure multi-pages applications and code splitting.
 
 ### Framework-agnostic Plugins / Loaders
 

@@ -26,7 +26,7 @@
 
 ### Templates / React
 
-*   [react-ts-vite-template (⭐115)](https://github.com/fabien-ml/react-ts-vite-template) - React, TypeScript, Jest, Testing Library, Cypress, ESLint, Prettier, Husky.
+*   [react-ts-vite-template (⭐117)](https://github.com/fabien-ml/react-ts-vite-template) - React, TypeScript, Jest, Testing Library, Cypress, ESLint, Prettier, Husky.
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -240,11 +240,11 @@
 
 ### Downloading and Serving / Directory Navigation
 
-*   [xh (⭐4.2k)](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
+*   [xh (⭐4.5k)](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 
 ### Applications / Directory Navigation
 
-*   [ticker (⭐4.7k)](https://github.com/achannarasappa/ticker) — Terminal stock ticker with live updates and position tracking
+*   [ticker (⭐4.8k)](https://github.com/achannarasappa/ticker) — Terminal stock ticker with live updates and position tracking
 
 ---
 

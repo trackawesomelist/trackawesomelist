@@ -10,7 +10,7 @@
 
 ### E-mail Search / E-mail Check / Telegram
 
-*   [Ghunt (⭐14k)](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
+*   [Ghunt (⭐15k)](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -74,11 +74,11 @@
 
 ### Adapters / Server-side
 
-*   [Rust (⭐23)](https://github.com/stuarth/inertia-rs)
+*   [Rust (⭐26)](https://github.com/stuarth/inertia-rs)
 
 ### Resources / Examples
 
-*   [Ping CRM / Clojure (⭐97)](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
+*   [Ping CRM / Clojure (⭐102)](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
 
 ## [9. Awesome Acg](/content/soruly/awesome-acg/README.md)
 

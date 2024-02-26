@@ -93,7 +93,7 @@
 
 ### Projects
 
-*   [yew-styles-page (⭐147)](https://github.com/spielrs/yew-styles-page) - This is an initial project of a framework style for yew.
+*   [yew-styles-page (⭐148)](https://github.com/spielrs/yew-styles-page) - This is an initial project of a framework style for yew.
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Networking
 
-*   [tlse (⭐516)](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library \[BSD-2-Clause]
+*   [tlse (⭐518)](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library \[BSD-2-Clause]
 
 ## [10. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

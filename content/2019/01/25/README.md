@@ -130,7 +130,7 @@
 
 ### Contents / Utilities
 
-*   [PGXN client (⭐114)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
+*   [PGXN client (⭐128)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
 
 ---
 

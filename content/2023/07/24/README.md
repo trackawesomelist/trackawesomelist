@@ -11,7 +11,7 @@
 ### Resources / Blog posts
 
 *   [All that Polars that Make You Forget Pandas](https://medium.com/@tq9695/all-that-polars-that-make-you-forget-pandas-3dc0fdfaefbe) - A blog post that explores some deeper reasons behind the performance gains of Polars over Pandas.
-*   [Polars vs Pandas. Inside an AWS Lambda](https://www.confessionsofadataguy.com/polars-vs-pandas-inside-an-aws-lambda/) - A blog post that covers the topic of using Polars vs Pandas inside an AWS Lambda to do data processing by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐7)](https://github.com/danielbeach/polarsVpandasOnAwsLambda).
+*   [Polars vs Pandas. Inside an AWS Lambda](https://www.confessionsofadataguy.com/polars-vs-pandas-inside-an-aws-lambda/) - A blog post that covers the topic of using Polars vs Pandas inside an AWS Lambda to do data processing by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐9)](https://github.com/danielbeach/polarsVpandasOnAwsLambda).
 *   [DuckDB vs Polars for Data Engineering](https://www.confessionsofadataguy.com/duckdb-vs-polars-for-data-engineering/) - A blog post that compares Polars and DuckDB with pipelines for Data Engineering by [@danielbeach](https://github.com/danielbeach).
 
 ## [2. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
@@ -52,7 +52,7 @@
 
 ### Tools / Community providers
 
-*   [tftui (⭐798)](https://github.com/idoavrah/terraform-tui) - A textual user interface for Terraform state.
+*   [tftui (⭐828)](https://github.com/idoavrah/terraform-tui) - A textual user interface for Terraform state.
 
 ---
 

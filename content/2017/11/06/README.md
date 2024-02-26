@@ -71,10 +71,10 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### Authentication
 
-*   [basic\_auth (⭐164)](https://github.com/CultivateHQ/basic_auth) - Elixir Plug to easily add HTTP basic authentication to an app.
+*   [basic\_auth (⭐163)](https://github.com/CultivateHQ/basic_auth) - Elixir Plug to easily add HTTP basic authentication to an app.
 *   [oauth2\_facebook (⭐4)](https://github.com/chrislaskey/oauth2_facebook) - A Facebook OAuth2 Provider for Elixir.
 *   [oauth2\_github (⭐2)](https://github.com/chrislaskey/oauth2_github) - A GitHub OAuth2 Provider for Elixir.
-*   [phauxth (⭐412)](https://github.com/riverrun/phauxth) - Authentication library for Phoenix 1.3 and other Plug-based apps.
+*   [phauxth (⭐410)](https://github.com/riverrun/phauxth) - Authentication library for Phoenix 1.3 and other Plug-based apps.
 *   [samly (⭐120)](https://github.com/handnot2/samly) - SAML SP SSO made easy ([Doc](https://hexdocs.pm/samly/readme.html)).
 
 ### Command Line Applications
@@ -102,23 +102,23 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 ### HTTP
 
 *   [Ace (⭐304)](https://github.com/CrowdHailer/Ace) - HTTP web server and client, supports http1 and http2.
-*   [Crawler (⭐901)](https://github.com/fredwu/crawler) - A high performance web crawler in Elixir.
+*   [Crawler (⭐911)](https://github.com/fredwu/crawler) - A high performance web crawler in Elixir.
 
 ### Miscellaneous
 
-*   [ex\_phone\_number (⭐233)](https://github.com/socialpaymentsbv/ex_phone_number) - Format, normalize, and validate phone numbers.
+*   [ex\_phone\_number (⭐234)](https://github.com/socialpaymentsbv/ex_phone_number) - Format, normalize, and validate phone numbers.
 
 ### ORM and Datamapping
 
-*   [triplex (⭐410)](https://github.com/ateliware/triplex) - Database multitenancy with postgres schemas for Elixir applications.
+*   [triplex (⭐420)](https://github.com/ateliware/triplex) - Database multitenancy with postgres schemas for Elixir applications.
 
 ### Queue
 
-*   [opq (⭐246)](https://github.com/fredwu/opq) - A simple, in-memory queue with worker pooling and rate limiting in Elixir.
+*   [opq (⭐249)](https://github.com/fredwu/opq) - A simple, in-memory queue with worker pooling and rate limiting in Elixir.
 
 ### Testing
 
-*   [chaperon (⭐116)](https://github.com/polleverywhere/chaperon) - An HTTP service performance & load testing framework written in Elixir.
+*   [chaperon (⭐118)](https://github.com/polleverywhere/chaperon) - An HTTP service performance & load testing framework written in Elixir.
 
 ### Third Party APIs
 
@@ -162,7 +162,7 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 ### Math
 
 *   [CGAL (⭐4.4k)](https://github.com/CGAL/cgal) - Collection of efficient and reliable geometric algorithms. \[LGPL\&GPL] [website](http://www.cgal.org/)
-*   [linmath.h (⭐856)](https://github.com/datenwolf/linmath.h) - A lean linear math library, aimed at graphics programming. \[WTFPL]
+*   [linmath.h (⭐866)](https://github.com/datenwolf/linmath.h) - A lean linear math library, aimed at graphics programming. \[WTFPL]
 
 ### PDF
 

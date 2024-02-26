@@ -408,7 +408,7 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [RudderStack (⭐3.8k)](https://github.com/rudderlabs/rudder-server) \[Go] - an open source customer data infrastructure (segment, mparticle alternative).
+*   [RudderStack (⭐3.9k)](https://github.com/rudderlabs/rudder-server) \[Go] - an open source customer data infrastructure (segment, mparticle alternative).
 
 ## [27. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -692,7 +692,7 @@
 
 ### Environment Management
 
-*   [crenv (⭐237)](https://github.com/crenv/crenv) - Crystal version manager
+*   [crenv (⭐236)](https://github.com/crenv/crenv) - Crystal version manager
 
 ### Game Development
 
@@ -805,7 +805,7 @@
 
 ### Miscellaneous
 
-*   [react-searchbox-awesome (⭐28)](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
+*   [react-searchbox-awesome (⭐29)](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
 
 ## [51. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -890,11 +890,11 @@
 
 ### Date and Time Processing
 
-*   [holidays (⭐782)](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
+*   [holidays (⭐791)](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
 
 ### E-Commerce and Payments
 
-*   [credit\_card\_validations (⭐226)](https://github.com/didww/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
+*   [credit\_card\_validations (⭐227)](https://github.com/didww/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
 
 ### Security
 
@@ -902,7 +902,7 @@
 
 ### WebSocket
 
-*   [CableReady (⭐713)](https://github.com/hopsoft/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
+*   [CableReady (⭐715)](https://github.com/hopsoft/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
 *   [StimulusReflex (⭐2.2k)](https://github.com/hopsoft/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
 
 ## [55. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)

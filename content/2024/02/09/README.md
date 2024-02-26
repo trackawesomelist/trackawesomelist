@@ -6,13 +6,19 @@
 
 
 
-## [1. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [1. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
+
+### Media / Helpers
+
+*   [Code To Cloud - Getting Started With OpenTofu](https://www.youtube.com/watch?v=HeUz6TMg82U)
+
+## [2. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Miscellaneous / Checkbox
 
 *   [css-3d-progress (⭐0)](https://github.com/rofixro/css-3d-progress) - A 3D Progress Bar component
 
-## [2. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+## [3. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ### Dating
 
@@ -22,25 +28,25 @@
 
 *   [Runway](https://runwayml.com/) - With Runway AI, you have the power to create videos using text prompts in so many incredible ways `#free`
 
-## [3. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
+## [4. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
 
 ### Related Awesome Lists / Deep Learning
 
 *   [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
 
-## [4. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+## [5. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
 *   [Python package polars-ds (⭐117)](https://github.com/abstractqqq/polars_ds_extension) - Python package that contains multiple extension to simplify common numerical/string data analysis procedures by [@abstractqqq](https://github.com/abstractqqq).
 
-## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Domain Specific Language / Design Practises
 
 *   [Quantifying usability of domain-specific languages: An empirical study on software maintenance](https://www.sciencedirect.com/science/article/pii/S0164121214002799) - ***Journal of Systems and Software***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=3450893039446010260\&hl=en\&as_sdt=0,5)]. A study to compare the usability of textual DSLs under the perspective of software maintenance, suggesting that the proposed metrics were useful: (1) to early identify DSL usability limitations, (2) to reveal specific DSL features favoring maintenance tasks, and (3) to successfully analyze eight critical DSL usability dimensions.
 
-## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [7. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Internationalisation (i18n)
 
@@ -48,12 +54,6 @@
 *   [django-modeltrans (⭐48)](https://github.com/zostera/django-modeltrans) - Translate Django model fields in a JSONField.
 *   [django-modeltranslations (⭐1.3k)](https://github.com/deschler/django-modeltranslation) -  Translates Django models using a registration approach.
 *   [django-rosetta (⭐983)](https://github.com/mbi/django-rosetta) - Rosetta provides a UI to read and write your project's gettext catalogs within the Django Admin.
-
-## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
-
-### Community / Webinterface
-
-*   [NixCon](http://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
 
 ## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 01, 2023
 
-15 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -52,19 +52,13 @@
 
 *   [minizip-ng (⭐1.1k)](https://github.com/zlib-ng/minizip-ng) - Fork of the popular zip manipulation library found in the zlib distribution. \[zlib]
 
-## [8. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Projects / Messaging
-
-*   [Apache Qpid (⭐55) (⭐55)](https://github.com/apache/qpid-broker-j) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
-
-## [9. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
+## [8. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
 ### Databases
 
 *   [Human Virus Database (HVD)](http://computationalbiology.cn/humanVirusBase/#/) - A database of human viruses, including information on infected tissues. See description and use in a predictive model in [Ye et al. 2022](https://academic.oup.com/bioinformatics/article-abstract/38/11/3087/6569817?redirectedFrom=fulltext)
 
-## [10. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [9. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 
@@ -137,7 +131,7 @@
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
-## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Human-AI Interaction
 
@@ -152,11 +146,11 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 ### Related Awesome Lists / Deforum
 
 *   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐12k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
-*   [AlexChalakov/awesome-generative-ai-companies (⭐78)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
+*   [AlexChalakov/awesome-generative-ai-companies (⭐79)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
-*   [dssjon/biblos: biblos.app (⭐174)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
+*   [dssjon/biblos: biblos.app (⭐175)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
@@ -166,13 +160,13 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [\[2310.17143\] Supercharging academic writing with generative AI: framework, techniques, and caveats](https://arxiv.org/abs/2310.17143)
 
-## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### State Management / Components
 
 *   [exome (⭐127)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 
-## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -184,19 +178,13 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 *   Memory safety (e.g., null pointer dereferences) \* User-specified assertions (i.e., assert!(...)) \* The absence of panics (e.g., unwrap() on None values) \* The absence of some types of unexpected behavior (e.g., arithmetic overflows)
 *   [vale](https://vale.sh) — A syntax-aware linter for prose built with speed and extensibility in mind.
 
-## [14. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
 *   [Yolov3 (⭐9.9k)](https://github.com/ultralytics/yolov3)
 *   [Yolov5 (⭐45k)](https://github.com/ultralytics/yolov5)
 *   [Yolov8 (⭐19k)](https://github.com/ultralytics/ultralytics)
-
-## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Data Science
-
-*   [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) - Max Kuhn, Kjell Johnson
 
 ---
 

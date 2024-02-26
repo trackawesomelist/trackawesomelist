@@ -155,7 +155,7 @@
 
 ### Projects
 
-*   [Spaceman (⭐357)](https://github.com/eliaperantoni/spaceman) - Spaceman is a cross-platform gRPC client designed to be pleasant to use and pretty to look at.
+*   [Spaceman (⭐359)](https://github.com/eliaperantoni/spaceman) - Spaceman is a cross-platform gRPC client designed to be pleasant to use and pretty to look at.
 
 ## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

@@ -11,7 +11,7 @@
 ### Algorithms and Data structures
 
 *   [datastructures (⭐215)](https://github.com/meh/elixir-datastructures) - A collection of protocols, implementations and wrappers to work with data structures.
-*   [the\_fuzz (⭐75)](https://github.com/smashedtoatoms/the_fuzz) - Fuzzy string-matching algorithm implementations.
+*   [the\_fuzz (⭐76)](https://github.com/smashedtoatoms/the_fuzz) - Fuzzy string-matching algorithm implementations.
 
 ### Applications
 
@@ -45,7 +45,7 @@
 ### Debugging
 
 *   [booter (⭐22)](https://github.com/eraserewind/booter) - Boot an Elixir application, step by step.
-*   [exrun (⭐117)](https://github.com/liveforeverx/exrun) - Distributed tracing for Elixir with rate limiting and simple macro-based interface.
+*   [exrun (⭐119)](https://github.com/liveforeverx/exrun) - Distributed tracing for Elixir with rate limiting and simple macro-based interface.
 
 ### Email
 
@@ -58,13 +58,13 @@
 
 ### Framework Components
 
-*   [cors\_plug (⭐396)](https://github.com/mschae/cors_plug) - An Elixir plug that adds CORS headers to requests and responds to preflight requests (OPTIONS).
+*   [cors\_plug (⭐397)](https://github.com/mschae/cors_plug) - An Elixir plug that adds CORS headers to requests and responds to preflight requests (OPTIONS).
 *   [plug\_accesslog (⭐31)](https://github.com/mneudert/plug_accesslog) - Plug for writing access logs.
 *   [trailing\_format\_plug (⭐25)](https://github.com/mschae/trailing_format_plug) - An Elixir plug to support legacy APIs that use a rails-like trailing format.
 
 ### HTTP
 
-*   [exvcr (⭐689)](https://github.com/parroty/exvcr) - HTTP request/response recording library for Elixir, inspired by VCR.
+*   [exvcr (⭐700)](https://github.com/parroty/exvcr) - HTTP request/response recording library for Elixir, inspired by VCR.
 
 ### Images
 
@@ -72,12 +72,12 @@
 
 ### JSON
 
-*   [jsx (⭐691)](https://github.com/talentdeficit/jsx) - An Erlang application for consuming, producing, and manipulating json.
+*   [jsx (⭐689)](https://github.com/talentdeficit/jsx) - An Erlang application for consuming, producing, and manipulating json.
 
 ### Miscellaneous
 
 *   [dynamic\_compile (⭐1)](https://github.com/okeuday/dynamic_compile) - Compile and load Erlang modules from string input.
-*   [exsync (⭐137)](https://github.com/falood/exsync) - Yet another Elixir reloader.
+*   [exsync (⭐140)](https://github.com/falood/exsync) - Yet another Elixir reloader.
 *   [url\_unroller (⭐5)](https://github.com/semanticart/url_unroller) - Simple URL unroller (un-shortener) in Elixir.
 
 ### ORM and Datamapping
@@ -99,10 +99,10 @@
 
 ### Testing
 
-*   [faker (⭐992)](https://github.com/igas/faker) - Faker is a pure Elixir library for generating fake data.
+*   [faker (⭐998)](https://github.com/igas/faker) - Faker is a pure Elixir library for generating fake data.
 *   [mix\_eunit (⭐17)](https://github.com/dantswain/mix_eunit) - A Mix task to execute eunit tests.
 *   [mixunit (⭐2)](https://github.com/talentdeficit/mixunit) - An EUnit task for Mix based projects.
-*   [mock (⭐618)](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
+*   [mock (⭐623)](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
 
 ### Text and Numbers
 
@@ -116,7 +116,7 @@
 *   [balanced (⭐4)](https://github.com/bryanjos/balanced-elixir) - Balanced API Client for Elixir.
 *   [commerce\_billing (⭐178)](https://github.com/joshnuss/commerce_billing) - A payment-processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
 *   [exgravatar (⭐22)](https://github.com/scrogson/exgravatar) - An Elixir module for generating Gravatar URLs.
-*   [extwitter (⭐407)](https://github.com/parroty/extwitter) - Twitter client library for Elixir.
+*   [extwitter (⭐409)](https://github.com/parroty/extwitter) - Twitter client library for Elixir.
 
 ### Other Awesome Lists
 

@@ -28,19 +28,23 @@
 
 ### Templates / React
 
-*   [vite-react-dapp-template (⭐2)](https://github.com/huseyindeniz/vite-react-dapp-template) - Starter template for decentralized app frontend development with preconfigured Wallet Authentication, i18n and UI features.
+*   [vite-react-dapp-template (⭐3)](https://github.com/huseyindeniz/vite-react-dapp-template) - Starter template for decentralized app frontend development with preconfigured Wallet Authentication, i18n and UI features.
 
-## [5. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Graphical User Interfaces
-
-*   [GUI development with Relm4](https://relm4.org/book/stable/) - Aaron Erhardt
-
-## [6. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Swift
 
 *   [*Swift Apprentice: Beyond the Basics* by Eli Ganim, Ehab Amer, Matt Galloway](https://www.kodeco.com/books/swift-apprentice-beyond-the-basics)
+
+## [6. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
+
+### Tools / Environment managers
+
+*   [asdf-opentofu (⭐14)](https://github.com/virtualroot/asdf-opentofu) - OpenTofu plugin for asdf version manager.
+
+### Podcasts / Helpers
+
+*   [Contributor - Community Driven IaC](https://www.contributor.fyi/opentofu)
 
 ## [7. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 

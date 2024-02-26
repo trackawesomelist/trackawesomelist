@@ -16,7 +16,7 @@
 
 ### CLI Builder
 
-*   [Terrapin (⭐227)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
+*   [Terrapin (⭐233)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
 
 ### Debugging Tools
 

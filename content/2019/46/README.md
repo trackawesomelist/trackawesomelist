@@ -278,7 +278,7 @@
 
 ### Software / IT Asset Management
 
-*   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code (⭐3.6k)](https://github.com/glpi-project/glpi)) `GPL-3.0` `PHP`
+*   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code (⭐3.7k)](https://github.com/glpi-project/glpi)) `GPL-3.0` `PHP`
 
 ## [30. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -452,20 +452,20 @@
 
 ### Front-End Development
 
-*   [WordPress-Gatsby (⭐255)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
+*   [WordPress-Gatsby (⭐257)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
 *   [Tailwind CSS (⭐12k)](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
 
 ### Big Data
 
-*   [Qlik (⭐47)](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
+*   [Qlik (⭐52)](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
 
 ### Gaming
 
-*   [PlayCanvas (⭐227)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
+*   [PlayCanvas (⭐229)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 
 ### Health and Social Science
 
-*   [Digital History (⭐202)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
+*   [Digital History (⭐207)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
 
 ## [45. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 

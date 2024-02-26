@@ -42,11 +42,11 @@
 
 ### Development Environment
 
-*   [Git Hooks (⭐912)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
+*   [Git Hooks (⭐923)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
 
 ### Security
 
-*   [Embedded and IoT Security (⭐1.4k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
+*   [Embedded and IoT Security (⭐1.5k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 
 ## [6. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
@@ -180,7 +180,7 @@
 
 ### Image Processing
 
-*   [pyvips (⭐522)](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
+*   [pyvips (⭐576)](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
 
 ## [18. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
@@ -512,7 +512,7 @@
 
 ### Carousel
 
-*   [pure-react-carousel (⭐1.6k)](https://github.com/express-labs/pure-react-carousel) - Built from scratch and not highly opinionated.
+*   [pure-react-carousel (⭐1.7k)](https://github.com/express-labs/pure-react-carousel) - Built from scratch and not highly opinionated.
 
 ## [44. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -576,7 +576,7 @@
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code (⭐5.9k)](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
+*   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code (⭐6k)](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
 
 ## [50. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 

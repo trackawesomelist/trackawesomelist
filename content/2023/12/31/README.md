@@ -10,9 +10,9 @@
 
 ### Applications / File manager
 
-*   [joshuto (⭐3.1k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
+*   [joshuto (⭐3.1k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
 *   [xplr (⭐3.8k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-*   [yazi (⭐6.1k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
+*   [yazi (⭐6.1k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
 
 ## [2. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
@@ -25,7 +25,7 @@
 
 ### Treesitter Based / Diagnostics
 
-*   [atusy/treemonkey.nvim (⭐20)](https://github.com/atusy/treemonkey.nvim) - Region selection with Treesitter nodes.
+*   [atusy/treemonkey.nvim (⭐22)](https://github.com/atusy/treemonkey.nvim) - Region selection with Treesitter nodes.
 
 ### Scrolling / Diagnostics
 
@@ -79,7 +79,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [ohmyzsh (⭐166k)](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven framework for managing your zsh configuration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ohmyzsh/ohmyzsh) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ohmyzsh (⭐167k)](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven framework for managing your zsh configuration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ohmyzsh/ohmyzsh) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / File Sharing
 

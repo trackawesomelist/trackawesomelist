@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 26, 2021
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Automation
 
-*   [Runbook (⭐713)](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
+*   [Runbook (⭐716)](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
 
 ### Game Development and Graphics
 
@@ -19,7 +19,7 @@
 ### Machine Learning
 
 *   [TensorFlow (⭐361)](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
-*   [Torch.rb (⭐598)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
+*   [Torch.rb (⭐605)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Authentication and Authorization
 
-*   [ADmad/JwtAuth plugin (⭐165)](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens.
+*   [ADmad/JwtAuth plugin (⭐164)](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens.
 
 ### ORM / Database / Datamapping
 
@@ -71,7 +71,7 @@
 
 ### Templating
 
-*   🍰 [TwigView plugin (⭐12)](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
+*   🍰 [TwigView plugin (⭐13)](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
 
 ## [8. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -98,12 +98,6 @@
 ### Workflow / Extensions
 
 *   [just](https://github/casey/just) - A task runner for conveniently saving and running project-specific commands. Similar to make, but much nicer
-
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-### Editing Support / Diagnostics
-
-*   [AckslD/nvim-revJ.lua (⭐108)](https://github.com/AckslD/nvim-revJ.lua) - Neovim Lua plugin for doing the opposite of join-line (J) for arguments.
 
 ---
 

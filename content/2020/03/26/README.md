@@ -12,10 +12,10 @@
 
 *   JSON
     *   [importcjj/rust-ajson (⭐102)](https://github.com/importcjj/rust-ajson) \[[ajson](https://crates.io/crates/ajson)] —  Get JSON values quickly
-    *   [maciejhirsz/json-rust (⭐551)](https://github.com/maciejhirsz/json-rust) \[[json](https://crates.io/crates/json)] — JSON implementation in Rust
-    *   [pikkr/pikkr (⭐628)](https://github.com/pikkr/pikkr) \[[pikkr](https://crates.io/crates/pikkr)] — JSON parser which picks up values directly without performing tokenization in Rust
-    *   [serde-rs/json (⭐4.4k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] — JSON support for [Serde (⭐8.3k)](https://github.com/serde-rs/serde) framework
-    *   [simd-lite/simd-json (⭐984)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] — High performance JSON parser based on a port of simdjson
+    *   [maciejhirsz/json-rust (⭐554)](https://github.com/maciejhirsz/json-rust) \[[json](https://crates.io/crates/json)] — JSON implementation
+    *   [pikkr/pikkr (⭐628)](https://github.com/pikkr/pikkr) \[[pikkr](https://crates.io/crates/pikkr)] — JSON parser which picks up values directly without performing tokenization
+    *   [serde-rs/json (⭐4.4k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] — JSON support for [Serde (⭐8.4k)](https://github.com/serde-rs/serde) framework
+    *   [simd-lite/simd-json (⭐994)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] — High performance JSON parser based on a port of simdjson
 
 ## [2. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 

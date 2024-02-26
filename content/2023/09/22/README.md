@@ -68,7 +68,7 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [PipeCD (⭐925)](https://github.com/pipe-cd/pipecd) - A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications.
+*   [PipeCD (⭐927)](https://github.com/pipe-cd/pipecd) - A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications.
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

@@ -56,7 +56,7 @@
 
 ### Software / Media Streaming - Multimedia Streaming
 
-*   [SheetAble](https://sheetable.net) - Self-hosted music sheet organizing software for all music enthusiasts. Upload and organize your sheets for any kind of instrument. ([Source Code (⭐273)](https://github.com/SheetAble/SheetAble)) `AGPL-3.0` `Docker/Go`
+*   [SheetAble](https://sheetable.net) - Self-hosted music sheet organizing software for all music enthusiasts. Upload and organize your sheets for any kind of instrument. ([Source Code (⭐277)](https://github.com/SheetAble/SheetAble)) `AGPL-3.0` `Docker/Go`
 
 ## [9. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
 
@@ -1460,7 +1460,7 @@
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-monaco-editor (⭐182)](https://github.com/vdesjs/vite-plugin-monaco-editor) - Monaco Editor integration.
+*   [vite-plugin-monaco-editor (⭐185)](https://github.com/vdesjs/vite-plugin-monaco-editor) - Monaco Editor integration.
 
 ## [16. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

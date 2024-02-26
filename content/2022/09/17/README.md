@@ -36,7 +36,7 @@
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [go-generics (⭐48)](https://github.com/bobg/go-generics) - Generic slice, map, set, iterator, and goroutine utilities.
+*   [go-generics (⭐54)](https://github.com/bobg/go-generics) - Generic slice, map, set, iterator, and goroutine utilities.
 *   [quadtree (⭐32)](https://github.com/s0rg/quadtree) - Generic, zero-alloc, 100%-test covered quadtree.
 
 ### Goroutines
@@ -46,7 +46,7 @@
 
 ### Messaging
 
-*   [Ratus (⭐96)](https://github.com/hyperonym/ratus) - Ratus is a RESTful asynchronous task queue server.
+*   [Ratus (⭐97)](https://github.com/hyperonym/ratus) - Ratus is a RESTful asynchronous task queue server.
 
 ### Scrapers
 
@@ -56,11 +56,11 @@
 
 *   [countries (⭐85)](https://github.com/pioz/countries) - All you need when you are working with countries in Go.
 *   [graterm (⭐27)](https://github.com/skovtunenko/graterm) - Provides primitives to perform ordered (sequential/concurrent) GRAceful TERMination (aka shutdown) in Go application.
-*   [scan (⭐56)](https://github.com/wroge/scan) - Scan sql rows into any type powered by generics.
+*   [scan (⭐59)](https://github.com/wroge/scan) - Scan sql rows into any type powered by generics.
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
-*   [asty (⭐68)](https://github.com/asty-org/asty) - Converts golang AST to JSON and JSON to AST.
+*   [asty (⭐69)](https://github.com/asty-org/asty) - Converts golang AST to JSON and JSON to AST.
 
 ### Tutorials / Libraries for creating HTTP middlewares
 

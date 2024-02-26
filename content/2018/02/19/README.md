@@ -48,7 +48,7 @@
 
 ### Web Frameworks
 
-*   [spider-gazelle (⭐173)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
+*   [spider-gazelle (⭐174)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

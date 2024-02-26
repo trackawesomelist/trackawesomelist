@@ -10,7 +10,7 @@
 
 ### Image Processing
 
-*   [SAIL (⭐270)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
+*   [SAIL (⭐273)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
 
 ## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Resources / Packages
 
-*   [Tables for Laravel (⭐420)](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Provides a DataTable component with integration for [Laravel Query Builder (⭐3.7k)](https://github.com/spatie/laravel-query-builder).
+*   [Tables for Laravel (⭐431)](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Provides a DataTable component with integration for [Laravel Query Builder (⭐3.9k)](https://github.com/spatie/laravel-query-builder).
 
 ## [5. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 

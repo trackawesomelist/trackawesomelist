@@ -11,7 +11,7 @@
 ### GraphQL
 
 *   [graphql-batch (⭐1.4k)](https://github.com/Shopify/graphql-batch) – A query batching executor.
-*   [graphql-client (⭐1.2k)](https://github.com/github/graphql-client) - A library for declaring, composing and executing GraphQL queries.
+*   [graphql-client](https://github.com/github/graphql-client) - A library for declaring, composing and executing GraphQL queries.
 *   [graphql-guard (⭐470)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
 *   [graphql-ruby (⭐5.3k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
 

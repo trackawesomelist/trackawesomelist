@@ -10,7 +10,7 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [AntialiasedLine2D (⭐108)](https://github.com/godot-extended-libraries/godot-antialiased-line2d) - Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (GLES3 + GLES2, all platforms).
+*   [AntialiasedLine2D (⭐109)](https://github.com/godot-extended-libraries/godot-antialiased-line2d) - Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (GLES3 + GLES2, all platforms).
 *   [Godot VirtualJoystick (⭐11)](https://github.com/mcunha-br/Godot_VirtualJoystick) - A simple vitual joystick for mobile devices.
 
 ## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
@@ -29,8 +29,8 @@
 
 ### Applications / Blockchain
 
-*   [electrumrs (⭐917)](https://github.com/romanz/electrs) — An efficient re-implementation of Electrum Server in Rust.
-*   [rust-lightning (⭐1.1k)](https://github.com/lightningdevkit/rust-lightning) [![Crate](https://img.shields.io/crates/v/lightning.svg?logo=rust)](https://crates.io/crates/lightning) — Bitcoin Lightning library written in Rust. The main crate,`lightning`, does not handle networking, persistence, or any other I/O. Thus,it is runtime-agnostic, but users must implement basic networking logic, chain interactions, and disk storage.po on linking crate.
+*   [electrumrs (⭐933)](https://github.com/romanz/electrs) — An efficient re-implementation of Electrum Server.
+*   [rust-lightning (⭐1.1k)](https://github.com/lightningdevkit/rust-lightning) [![Crate](https://img.shields.io/crates/v/lightning.svg?logo=rust)](https://crates.io/crates/lightning) — Bitcoin Lightning library. The main crate,`lightning`, does not handle networking, persistence, or any other I/O. Thus,it is runtime-agnostic, but users must implement basic networking logic, chain interactions, and disk storage.po on linking crate.
 
 ### Libraries / Cloud
 
@@ -46,7 +46,7 @@
 
 ### Templates / React
 
-*   [vite-rtk-query (⭐114)](https://github.com/laststance/vite-rtk-query) - React, TypeScript, Redux Toolkit, RTK Query, TailwindCSS, MSW, Jest, React Testing Library, ESLint, Prettier.
+*   [vite-rtk-query (⭐115)](https://github.com/laststance/vite-rtk-query) - React, TypeScript, Redux Toolkit, RTK Query, TailwindCSS, MSW, Jest, React Testing Library, ESLint, Prettier.
 
 ### Framework-agnostic Plugins / Integrations
 

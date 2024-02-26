@@ -18,7 +18,7 @@
 
 Make tab indented code more readable by forcing the tab size to 4 instead of 8.
 
-Installs: 2000 | Stars: 279 | Last update: 25 Sep 2021
+Installs: 2000 | Stars: 279 | Last update: n/a
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -50,11 +50,11 @@ Installs: 2000 | Stars: 279 | Last update: 25 Sep 2021
 ### Libraries/Frameworks / Misc
 
 *   [spoptchev/kotlin-preconditions (⭐19)](https://github.com/spoptchev/kotlin-preconditions) - Precondition error checking in kotlin.
-*   [holgerbrandl/kravis (⭐183)](https://github.com/holgerbrandl/kravis) - A Kotlin grammar for scientific data visualization
+*   [holgerbrandl/kravis (⭐184)](https://github.com/holgerbrandl/kravis) - A Kotlin grammar for scientific data visualization
 
 ### Libraries/Frameworks / Cryptography
 
-*   [ionspin/kotlin-multiplatform-libsodium (⭐70)](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Kotlin multiplatform wrapper for Libsodium cryptographic library.
+*   [ionspin/kotlin-multiplatform-libsodium (⭐72)](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Kotlin multiplatform wrapper for Libsodium cryptographic library.
 
 ## [7. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
@@ -78,7 +78,7 @@ Installs: 2000 | Stars: 279 | Last update: 25 Sep 2021
 
 ### Templates / React
 
-*   [react-vite-ts-boilerplate (⭐83)](https://github.com/choisohyun/react-vite-ts-boilerplate) - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
+*   [react-vite-ts-boilerplate (⭐85)](https://github.com/choisohyun/react-vite-ts-boilerplate) - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
 
 ## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

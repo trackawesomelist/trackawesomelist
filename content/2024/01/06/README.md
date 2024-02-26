@@ -16,7 +16,7 @@
 
 ### Security
 
-*   [go-peer (⭐158)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
+*   [go-peer (⭐167)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
 
 ## [3. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -75,13 +75,13 @@
 
 ### Data Store / Mouse Events
 
-*   [fireproof (⭐106)](https://github.com/fireproof-storage/fireproof) - [demo](https://fireproof.storage/try-free/) - [docs](https://use-fireproof.com/docs/welcome) Pure JS, zero dependency, CRDT database - runs in the browser and connects to any cloud or backend
+*   [fireproof (⭐130)](https://github.com/fireproof-storage/fireproof) - [demo](https://fireproof.storage/try-free/) - [docs](https://use-fireproof.com/docs/welcome) Pure JS, zero dependency, CRDT database - runs in the browser and connects to any cloud or backend
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / NoSQL
 
-*   [MongoDB (⭐858)](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
+*   [MongoDB (⭐863)](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -99,9 +99,9 @@
 
 ### Modules / Various Godot versions
 
-*   [godot-box2d (⭐210)](https://github.com/appsinacup/godot-box2d) - A [Box2D (⭐7.1k)](https://github.com/erincatto/box2d) physics server for Godot (Godot 4.2).
-*   [godot-jolt (⭐1.4k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐4.9k)](https://github.com/jrouwe/JoltPhysics) (Godot 4.2).
-*   [godot-rapier-2d (⭐76)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐3.1k)](https://github.com/dimforge/rapier) physics server for Godot (Godot 4.2).
+*   [godot-box2d (⭐226)](https://github.com/appsinacup/godot-box2d) - A [Box2D (⭐7.1k)](https://github.com/erincatto/box2d) physics server for Godot (Godot 4.2).
+*   [godot-jolt (⭐1.4k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐5k)](https://github.com/jrouwe/JoltPhysics) (Godot 4.2).
+*   [godot-rapier-2d (⭐79)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐3.2k)](https://github.com/dimforge/rapier) physics server for Godot (Godot 4.2).
 
 ## [8. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 

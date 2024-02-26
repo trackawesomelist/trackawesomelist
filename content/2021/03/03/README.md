@@ -10,7 +10,7 @@
 
 ### Documentation
 
-*   [GitHub Changelog Generator (⭐7.2k)](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+*   [GitHub Changelog Generator (⭐7.3k)](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 
 ## [2. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
@@ -78,11 +78,11 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Tree generator (⭐151)](https://github.com/Zylann/godot_tree_generator_plugin) - Tool for generating trees.
+*   [Tree generator (⭐152)](https://github.com/Zylann/godot_tree_generator_plugin) - Tool for generating trees.
 
 ### Modules / Godot 3.2+
 
-*   [Speech to Text (⭐28)](https://github.com/menip/godot_speech_to_text) - Captures the user's microphone input and converts it to text.
+*   [Speech to Text (⭐30)](https://github.com/menip/godot_speech_to_text) - Captures the user's microphone input and converts it to text.
 
 ## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

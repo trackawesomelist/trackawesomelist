@@ -10,7 +10,7 @@
 
 ### Multimedia
 
-*   [MediaInfoLib (⭐577)](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files. \[BSD]
+*   [MediaInfoLib (⭐581)](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files. \[BSD]
 
 ## [2. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 

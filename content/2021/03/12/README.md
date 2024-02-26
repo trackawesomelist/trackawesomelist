@@ -47,7 +47,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Gokapi (⭐877)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go/Docker`
+*   [Gokapi (⭐898)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go/Docker`
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Miscellaneous
 
-*   [react-darkreader (⭐274)](https://github.com/Turkyden/react-darkreader) - A React Hook for adding a dark / night mode to your site inspired by darkreader.
+*   [react-darkreader (⭐275)](https://github.com/Turkyden/react-darkreader) - A React Hook for adding a dark / night mode to your site inspired by darkreader.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

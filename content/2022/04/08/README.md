@@ -28,7 +28,7 @@
 
 ### Go / Community
 
-*   [vite-go (⭐183)](https://github.com/torenware/vite-go) - Integration for Golang web apps.
+*   [vite-go (⭐188)](https://github.com/torenware/vite-go) - Integration for Golang web apps.
 
 ## [4. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zenplash (⭐2)](https://github.com/Chivier/zenplash) - Creates files from templates stored in a user directory.
+*   [zenplash (⭐3)](https://github.com/Chivier/zenplash) - Creates files from templates stored in a user directory.
 
 ## [9. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Miscellaneous
 
-*   [Concord (⭐470)](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. \[MIT] [website](https://cogmasters.github.io/concord)
+*   [Concord (⭐475)](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. \[MIT] [website](https://cogmasters.github.io/concord)
 
 ## [13. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 

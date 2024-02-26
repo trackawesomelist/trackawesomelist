@@ -17,7 +17,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [soulis-1256/eagle.nvim (⭐88)](https://github.com/soulis-1256/eagle.nvim) - Mouse-hover LSP hints.
+*   [soulis-1256/eagle.nvim (⭐123)](https://github.com/soulis-1256/eagle.nvim) - Mouse-hover LSP hints.
 
 ## [3. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 

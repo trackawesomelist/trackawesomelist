@@ -53,7 +53,7 @@
 
 ### Libraries/Frameworks / Jetpack-Compose
 
-*   [CuriousNikhil/k5-compose (⭐204)](https://github.com/CuriousNikhil/k5-compose) - K5-compose is a sketchy port of p5.js for Jetpack Compose Desktop
+*   [CuriousNikhil/k5-compose (⭐206)](https://github.com/CuriousNikhil/k5-compose) - K5-compose is a sketchy port of p5.js for Jetpack Compose Desktop
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Templates / Vue 3
 
-*   [Modern Vue (⭐294)](https://github.com/byoungd/modern-vue-template) - Modern Vue stack 2022.
+*   [Modern Vue (⭐293)](https://github.com/byoungd/modern-vue-template) - Modern Vue stack 2022.
 
 ## [11. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 

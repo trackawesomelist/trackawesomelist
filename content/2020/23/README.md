@@ -70,7 +70,7 @@
 
 ### Libraries / Artificial Intelligence
 
-*   [huggingface/tokenizers (⭐8.1k)](https://github.com/huggingface/tokenizers) - Hugging Face's tokenizers for modern NLP pipelines written in Rust (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
+*   [huggingface/tokenizers (⭐8.2k)](https://github.com/huggingface/tokenizers) - Hugging Face's tokenizers for modern NLP pipelines (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
 
 ## [8. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
@@ -143,7 +143,7 @@
 
 ### Projects
 
-*   [Yew-WebRTC-Chat (⭐118)](https://github.com/codec-abc/Yew-WebRTC-Chat) - A simple WebRTC chat made with Yew.
+*   [Yew-WebRTC-Chat (⭐119)](https://github.com/codec-abc/Yew-WebRTC-Chat) - A simple WebRTC chat made with Yew.
 
 ## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -198,25 +198,9 @@
 
 ## [19. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
-### Algorithms and Design Patterns
-
-*   Design Patterns
-    *   [PyPattyrn (⭐2k)](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns.
-    *   [python-patterns (⭐38k)](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
-    *   [transitions (⭐4.9k)](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
-
 ### ASGI Servers
 
-*   [daphne (⭐2k)](https://github.com/django/daphne) - A HTTP, HTTP2 and WebSocket protocol server for ASGI and ASGI-HTTP.
-
-### Books
-
-*   [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/)
-
-### Websites
-
-*   Libraries
-    *   [Awesome Python @LibHunt](https://python.libhunt.com/)
+*   [daphne (⭐2.2k)](https://github.com/django/daphne) - A HTTP, HTTP2 and WebSocket protocol server for ASGI and ASGI-HTTP.
 
 ### Newsletters
 
@@ -225,8 +209,6 @@
 ### Podcasts
 
 *   [Django Chat](https://djangochat.com/)
-*   [Podcast.\_\_init\_\_](https://podcastinit.com/)
-*   [Running in Production](https://runninginproduction.com/)
 
 ## [20. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
@@ -314,7 +296,7 @@
 
 ### Testing
 
-*   🍰 [CakephpFixtureFactories plugin (⭐78)](https://github.com/pakacuda/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
+*   🍰 [CakephpFixtureFactories plugin (⭐79)](https://github.com/pakacuda/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
 
 ## [23. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
@@ -625,11 +607,11 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [MiAOU](https://miaou.dystroy.org/login) - Multi-room persistent chat server. ([Source Code (⭐532)](https://github.com/Canop/miaou)) `MIT` `Nodejs`
+*   [MiAOU](https://miaou.dystroy.org/login) - Multi-room persistent chat server. ([Source Code (⭐534)](https://github.com/Canop/miaou)) `MIT` `Nodejs`
 
 ### Software / Note-taking & Editors
 
-*   [Plainpad](https://alextselegidis.com/get/plainpad/) - A modern note taking application for the cloud, utilizing the best features of progressive web apps technology. ([Demo](https://alextselegidis.com/try/plainpad/), [Source Code (⭐226)](https://github.com/alextselegidis/plainpad)) `GPL-3.0` `PHP`
+*   [Plainpad](https://alextselegidis.com/get/plainpad/) - A modern note taking application for the cloud, utilizing the best features of progressive web apps technology. ([Demo](https://alextselegidis.com/try/plainpad/), [Source Code (⭐230)](https://github.com/alextselegidis/plainpad)) `GPL-3.0` `PHP`
 
 ## [43. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -740,22 +722,22 @@
     *   [Standard Style (⭐383)](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
     *   [Must Watch Talks (⭐13k)](https://github.com/bolshchikov/js-must-watch#readme)
     *   [Tips (⭐13k)](https://github.com/loverajoel/jstips#readme)
-    *   [Network Layer (⭐543)](https://github.com/Kikobeats/awesome-network-js#readme)
+    *   [Network Layer (⭐547)](https://github.com/Kikobeats/awesome-network-js#readme)
     *   [Micro npm Packages (⭐4.5k)](https://github.com/parro-it/awesome-micro-npm-packages#readme)
     *   [Mad Science npm Packages (⭐1.1k)](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
-    *   [Maintenance Modules (⭐350)](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
+    *   [Maintenance Modules (⭐351)](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
     *   [npm (⭐4.4k)](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
     *   [AVA (⭐345)](https://github.com/avajs/awesome-ava#readme) - Test runner.
     *   [ESLint (⭐4k)](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
     *   [Functional Programming (⭐5.9k)](https://github.com/stoeffel/awesome-fp-js#readme)
-    *   [Observables (⭐331)](https://github.com/sindresorhus/awesome-observables#readme)
-    *   [npm scripts (⭐718)](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
-    *   [30 Seconds of Code (⭐117k)](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
-    *   [Ponyfills (⭐51)](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
+    *   [Observables (⭐333)](https://github.com/sindresorhus/awesome-observables#readme)
+    *   [npm scripts (⭐720)](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
+    *   [30 Seconds of Code (⭐118k)](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
+    *   [Ponyfills (⭐53)](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
 
 ### Content Management Systems
 
-*   [Sitecore (⭐62)](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
+*   [Sitecore (⭐66)](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
 
 ## [55. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 

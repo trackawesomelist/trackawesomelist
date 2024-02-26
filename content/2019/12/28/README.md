@@ -335,7 +335,7 @@
 
 ### Storage and Media Processing
 
-*   [gumlet.com](https://www.gumlet.com/) — Image resize-as-a-service. It also optimizes images and performs delivery via CDN. The free tier includes 1 GB of bandwidth and unlimited monthly image processing for one year.
+*   [gumlet.com](https://www.gumlet.com/) — Image and video hosting, processing and streaming via CDN. Provides generous free tier of 250 GB / month for videos and 30 GB  / month for images.
 *   [kraken.io](https://kraken.io/) — Image optimization for website performance as a service, free plan up to 1 MB file size
 *   [otixo.com](https://www.otixo.com/) — Encrypt, share, copy, and move all your cloud storage files from one place. The basic plan provides unlimited file transfer with 250 MB max. file size and allows five encrypted files
 *   [packagecloud.io](https://packagecloud.io/) — Hosted Package Repositories for YUM, APT, RubyGem and PyPI.  Limited free plans and open-source plans are available via request
@@ -391,7 +391,7 @@
 ### Analytics, Events and Statistics
 
 *   [amplitude.com](https://amplitude.com/) — 1 million monthly events, up to 2 apps
-*   [getinsights.io](https://getinsights.io) - Privacy-focused, cookie-free analytics, free for up to 5k events/month.
+*   [getinsights.io](https://getinsights.io) - Privacy-focused, cookie-free analytics, free for up to 3k events/month.
 *   [optimizely.com](https://www.optimizely.com) — A/B Testing solution, free starter plan, one website, 1 iOS, and 1 Android app
 *   [sematext.com](https://sematext.com/cloud/) — Free for up to 50 K actions/month, 1-day data retention, unlimited dashboards, users, etc.
 *   [usabilityhub.com](https://usabilityhub.com/) — Test designs and mockups on real people and track visitors. Free for one user, unlimited tests
@@ -403,7 +403,7 @@
 
 ### Payment and Billing Integration
 
-*   [exchangerate-api.com](https://www.exchangerate-api.com) - An easy-to-use currency conversion JSON API. A free tier with no request limit.
+*   [exchangerate-api.com](https://www.exchangerate-api.com) - An easy-to-use currency conversion JSON API. The free tier updates once per day with a limit of 1,500 requests/month.
 
 ### Docker Related
 
@@ -448,7 +448,7 @@
 
 ### Queue
 
-*   🍰 [Queue plugin (⭐296)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
+*   🍰 [Queue plugin (⭐299)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
 
 ### File Manipulation
 

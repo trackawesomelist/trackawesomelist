@@ -22,7 +22,7 @@
 
 ### [Capgo plugins](https://capgo.app/)
 
-*   [Native audio (⭐19)](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
+*   [Native audio (⭐22)](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
 *   [Native market (⭐5)](https://github.com/Cap-go/native-market) - Capacitor community plugin for native market for Play Store/App Store.
 *   [Camera preview (⭐1)](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
 
@@ -56,7 +56,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [yt-dlp (⭐5)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐65k)](https://github.com/yt-dlp/yt-dlp).
+*   [yt-dlp (⭐5)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐66k)](https://github.com/yt-dlp/yt-dlp).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -67,7 +67,7 @@
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [GalvinGao/gofiber-template (⭐46)](https://github.com/GalvinGao/gofiber-template) - A production-ready, container-first opinionated gofiber project template. Config by envvars, DI by go.uber.org/fx, Database by uptrace/bun, with out-of-the-box MVC folder structure and CI/CD support.
+*   [GalvinGao/gofiber-template (⭐70)](https://github.com/GalvinGao/gofiber-template) - A production-ready, container-first opinionated gofiber project template. Config by envvars, DI by go.uber.org/fx, Database by uptrace/bun, with out-of-the-box MVC folder structure and CI/CD support.
 
 ## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Tools / Community providers
 
-*   [sato (⭐65)](https://github.com/JamesWoolfenden/sato) - Sato helps you convert your legacy Cloudformation into Terraform.
+*   [sato (⭐68)](https://github.com/JamesWoolfenden/sato) - Sato helps you convert your legacy Cloudformation into Terraform.
 
 ---
 

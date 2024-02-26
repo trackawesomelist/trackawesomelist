@@ -22,11 +22,11 @@
 
 ### Command-line tools
 
-*   [gron (⭐12k)](https://github.com/tomnomnom/gron) - Convert a JSON file into discrete assignments that are greppable.
+*   [gron (⭐13k)](https://github.com/tomnomnom/gron) - Convert a JSON file into discrete assignments that are greppable.
 
 ### Libraries
 
-*   [circe (⭐2.3k)](https://github.com/circe/circe) - Yet another JSON library for Scala.
+*   [circe (⭐2.5k)](https://github.com/circe/circe) - Yet another JSON library for Scala.
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

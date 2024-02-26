@@ -29,25 +29,19 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ddc (⭐23)](https://github.com/Shougo/ddc-zsh) - Adds tab completions for [ddc (⭐625)](https://github.com/Shougo/ddc.vim).
+*   [ddc (⭐23)](https://github.com/Shougo/ddc-zsh) - Adds tab completions for [ddc (⭐635)](https://github.com/Shougo/ddc.vim).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [nt9 (⭐31)](https://github.com/lenguyenthanh/nt9-oh-my-zsh-theme) - A clean, distraction free and `git` focused development theme. Shows path relative to `git` root (or `~` when outside `git` repo), time since last commit, current SHA, branch and branch state.
 
-## [5. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Programming
-
-*   [The Nature of Code](https://natureofcode.com/book) - Daniel Shiffman (HTML)
-
-## [6. Awesome Material](/content/sachin1092/awesome-material/README.md)
+## [5. Awesome Material](/content/sachin1092/awesome-material/README.md)
 
 ### JS
 
 *   [MUI](https://mui.com/) — The React component library of Material Design
 
-## [7. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [6. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Design
 
@@ -57,49 +51,49 @@
 
 *   [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-06) - Simple format that gives a consistent and easy way to hyperlink between resources in your API.
 
-## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [template-vite-react (⭐136)](https://github.com/lzm0x219/template-vite-react) - A minimal React Vite starter template.
+*   [template-vite-react (⭐144)](https://github.com/lzm0x219/template-vite-react) - A minimal React Vite starter template.
 
 ### Framework-agnostic Plugins / Transformers
 
 *   [@vituum/vite-plugin-handlebars (⭐4)](https://github.com/vituum/vite-plugin-handlebars) - Handlebars template engine support, transforms `.hbs` templates to `.html`.
-*   [@vituum/vite-plugin-pug (⭐3)](https://github.com/vituum/vite-plugin-pug) - Pug template engine support, transforms `.pug` templates to `.html`.
+*   [@vituum/vite-plugin-pug (⭐4)](https://github.com/vituum/vite-plugin-pug) - Pug template engine support, transforms `.pug` templates to `.html`.
 *   [@vituum/vite-plugin-nunjucks (⭐8)](https://github.com/vituum/vite-plugin-nunjucks) - Nunjucks template engine support, transforms `.njk` templates to `.html`.
 *   [@vituum/vite-plugin-liquid (⭐6)](https://github.com/vituum/vite-plugin-liquid) - Liquid template engine support, transforms `.liquid` templates to `.html`.
-*   [@vituum/vite-plugin-twig (⭐17)](https://github.com/vituum/vite-plugin-twig) - Twig template engine support, transforms `.twig` templates to `.html`.
+*   [@vituum/vite-plugin-twig (⭐15)](https://github.com/vituum/vite-plugin-twig) - Twig template engine support, transforms `.twig` templates to `.html`.
 *   [@vituum/vite-plugin-latte (⭐1)](https://github.com/vituum/vite-plugin-latte) - Latte template engine support, transforms `.latte` templates to `.html`.
 *   [@vituum/vite-plugin-posthtml (⭐8)](https://github.com/vituum/vite-plugin-posthtml) - PostHTML support, transforms syntax to `.html`.
 *   [@vituum/vite-plugin-juice (⭐3)](https://github.com/vituum/vite-plugin-juice) - Juice support, transforms `.css` to inline styles in `.html`.
 
-## [9. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [8. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Tools / Helper tools to add annotations to existing code
 
 *   [PyTypes (⭐8)](https://github.com/pvs-hd-tea/PyTypes) - Infer Types by Python Tracing.
 
-## [10. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
+## [9. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 
 ### Ebook
 
 *   [The Good Parts of LibVLC](https://mfkl.gumroad.com/l/libvlc-good-parts) - The first ebook about the VideoLAN non-profit organization and the opensource LibVLC developer SDK.
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Articles / Others
 
 *   [Using .NET 7's Blazor Custom Elements to render dynamic content](https://jonhilton.net/blazor-custom-elements/) - October 5, 2022 - Using .NET 7's Blazor Custom Elements to render dynamic content, by Jon Hilton.
 
-## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [11. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Other / [Other](#other-1)
 
 *   [LunaSec](https://www.lunasec.io) — Open Source AppSec platform that automatically notifies you the next time vulnerabilities like Log4Shell or node-ipc happen. Track your dependencies and builds in a centralized service.
 *   [Rezilion](https://www.rezilion.com/) :copyright: — Discovers vulnerabilities for all components in your environment, filters out 85% non-exploitable vulnerabilities and creates a  remediation plan and open tickets to upgrade components that violate your security policy and/or patch automatically in CI.
 
-## [13. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [12. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Static site generation
 
@@ -157,9 +151,9 @@
 
 ### Open-source sites / Lists
 
-*   [Outreachy website (⭐220)](https://github.com/outreachy/website/) - Website for Outreachy, who provide internships in open source and open science.
+*   [Outreachy website (⭐221)](https://github.com/outreachy/website/) - Website for Outreachy, who provide internships in open source and open science.
 
-## [14. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [13. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### 2FA
 
@@ -175,7 +169,7 @@
 *   [Antennapod](https://antennapod.org) - A podcast player that is completely open. Subscribe to any RSS feed.
 *   [Castopod](https://castopod.org) - Self-host your podcasts with ease, keep control over what you create and talk to your audience without any middleman. Your podcast and your audience belong to you and you only.
 
-## [15. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+## [14. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ### Videos:
 
@@ -215,6 +209,13 @@
 - Website: <https://www.clipstill.com>
 
 
+
+## [15. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### PHP / Laravel
+
+*   [Laravel 9 中文文档](https://learnku.com/docs/laravel/9.x)
+*   [Laravel 入门到精通教程](https://laravelacademy.org/books/laravel-tutorial)
 
 ---
 

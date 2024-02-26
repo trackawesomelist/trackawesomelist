@@ -555,12 +555,12 @@ Free
 ### Third Party APIs
 
 *   [honeywell (⭐0)](https://github.com/jeffutter/honeywell-elixir) - A client for the Honeywell Lyric, Round and Water Leak & Freeze Detector APIs.
-*   [particle (⭐5)](https://github.com/jeffutter/particle-elixir) - An Elixir client for the Particle IoT platform's HTTP API.
+*   [particle (⭐6)](https://github.com/jeffutter/particle-elixir) - An Elixir client for the Particle IoT platform's HTTP API.
 *   [random\_user](https://github.com/katgironpe/random_user) - An Elixir client for randomuser.me API.
 
 ### Translations and Internationalizations
 
-*   [trans (⭐220)](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
+*   [trans (⭐221)](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
 
 ## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -725,7 +725,7 @@ Free
 
 ### Libraries
 
-*   [js-joda (⭐1.5k)](https://github.com/js-joda/js-joda) – An immutable date and time library that provides a simple, domain-driven and clean API based on the ISO8601 calendar.
+*   [js-joda (⭐1.6k)](https://github.com/js-joda/js-joda) – An immutable date and time library that provides a simple, domain-driven and clean API based on the ISO8601 calendar.
 
 ### Resources / Books
 

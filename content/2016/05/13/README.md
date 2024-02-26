@@ -20,7 +20,7 @@
 
 ### Music Notation
 
-*   [MusicKit (⭐108)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
+*   [MusicKit (⭐109)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
 
 ## [3. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Downloading and Serving / Directory Navigation
 
-*   [aria2 (⭐32k)](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, BitTorrent and Metalink
+*   [aria2 (⭐33k)](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, BitTorrent and Metalink
 
 ### Shell Script Development / Directory Navigation
 

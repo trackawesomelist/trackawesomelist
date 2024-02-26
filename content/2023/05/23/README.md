@@ -118,11 +118,11 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [argc-completions (⭐134)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐579)](https://github.com/sigoden/argc) and [jq (⭐28k)](https://github.com/stedolan/jq) to add ZSH tab completions.
+*   [argc-completions (⭐141)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐584)](https://github.com/sigoden/argc) and [jq (⭐28k)](https://github.com/stedolan/jq) to add ZSH tab completions.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [astro (⭐101)](https://github.com/iplaces/astro-zsh-theme) - Based on the `ys` and [robbyrussell (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell) themes.
+*   [astro (⭐102)](https://github.com/iplaces/astro-zsh-theme) - Based on the `ys` and [robbyrussell (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell) themes.
 *   [bashlover (⭐1)](https://github.com/Vu0811/bashlover) - Designed for those who appreciate the powerful features of ZSH shell but still prefer a simple, classic interface similar to the `bash` shell. Includes decorators for `git` information, user\@host and the current working directory
 *   [msys2 (⭐0)](https://github.com/water-logger/MSYS2-Theme/) - Inspired by MSYS2. Includes decorators for user\@host, `git` status and the current directory.
 *   [pedantic (⭐0)](https://github.com/nemeshnorbert/pedantic-zsh-theme) - Customizable colors and output. Includes decorators for detailed `git` information, root status, last command's exit status, user\@host, current directory and the time.

@@ -6,6 +6,37 @@ A curated list of Artificial Intelligence Top Tools
 
 [ Daily / [Weekly](/content/mahseema/awesome-ai-tools/week/README.md) / [Overview](/content/mahseema/awesome-ai-tools/readme/README.md) ]
 
+## [Feb 23, 2024](/content/2024/02/23/README.md)
+
+### Text / Search engines
+
+*   [Kazimir.ai](https://kazimir.ai/) - A search engine designed to search AI-generated images.
+
+### Text / Writing assistants
+
+*   [Telborg](https://telborg.com/) - Write a high-quality first draft on any Climate topic in minutes
+
+### Text / Productivity
+
+*   [Summary With AI](https://www.summarywithai.com/) - Summarize any long PDF with AI. Comprehensive summaries using information from all pages of a document.
+*   [Emilio](https://getemil.io?ref=mahseema-awesome-ai-tools) - Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time
+*   [Pieces](https://pieces.app/) - AI-enabled productivity tool designed to supercharge developer efficiency,with an on-device copilot that helps capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of dev workflow
+
+### Video / Stable Diffusion resources
+
+*   [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
+
+### Phone Calls / Animation
+
+*   [AICaller.io](https://aicaller.io/?ref=v) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
+
+### Other / Music
+
+*   [GradGPT](https://www.gradgpt.com/) - AI tools to simplify college applications. Review applications, draft essays, find universities and requirements and more.
+*   [Code to Flow](https://codetoflow.com) - Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
+*   [AI-Flow](https://ai-flow.net/) - Connect multiple AI models easily.
+*   [Architecture Helper](https://architecturehelper.com) - Analyze any building architecture, and generate your own custom styles, in seconds.
+
 ## [Feb 09, 2024](/content/2024/02/09/README.md)
 
 ### Related Awesome Lists / Deep Learning
@@ -250,7 +281,7 @@ A curated list of Artificial Intelligence Top Tools
 
 ### Text / Local search engines
 
-*   [privateGPT (⭐47k)](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs.
+*   [privateGPT (⭐48k)](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs.
 *   [quivr (⭐28k)](https://github.com/StanGirard/quivr) - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
 
 ### Text / Writing assistants
@@ -442,5 +473,5 @@ A curated list of Artificial Intelligence Top Tools
 ### Learning resources / Music
 
 *   [Learn Prompting](https://learnprompting.org/) - A free, open-source course on communicating with artificial intelligence.
-*   [Prompt Engineering Guide (⭐41k)](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering.
+*   [Prompt Engineering Guide (⭐42k)](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering.
 *   [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).

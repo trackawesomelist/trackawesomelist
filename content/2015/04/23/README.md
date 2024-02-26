@@ -59,11 +59,11 @@
 
 ### Formulars
 
-*   [forms (⭐40)](https://github.com/spawnproc/forms) - Erlang Business Documents Generator.
+*   [forms (⭐39)](https://github.com/spawnproc/forms) - Erlang Business Documents Generator.
 
 ### Framework Components
 
-*   [phoenix\_live\_reload (⭐270)](https://github.com/phoenixframework/phoenix_live_reload) - Provides live-reload functionality for Phoenix.
+*   [phoenix\_live\_reload (⭐272)](https://github.com/phoenixframework/phoenix_live_reload) - Provides live-reload functionality for Phoenix.
 *   [phoenix\_pubsub\_postgres (⭐27)](https://github.com/opendrops/phoenix-pubsub-postgres) - Postgresql PubSub adapter for Phoenix apps.
 *   [phoenix\_pubsub\_rabbitmq (⭐46)](https://github.com/pma/phoenix_pubsub_rabbitmq) - RabbitMQ adapter for Phoenix's PubSub layer.
 *   [plug\_statsd (⭐49)](https://github.com/jeffweiss/plug_statsd) - A plug for automatically sending timing and count metrics to statsd.
@@ -113,11 +113,11 @@
 *   [ex\_rfc3986 (⭐10)](https://github.com/marcelog/ex_rfc3986) - RFC3986 URI/URL parser.
 *   [palette (⭐2)](https://github.com/lpil/palette) - A handy library for colouring strings in Elixir.
 *   [ref\_inspector (⭐13)](https://github.com/elixytics/ref_inspector) - Referer parser library in Elixir. Fetching info from URLs.
-*   [ua\_inspector (⭐110)](https://github.com/elixytics/ua_inspector) - User agent parser library like `piwik/device-detector`.
+*   [ua\_inspector (⭐114)](https://github.com/elixytics/ua_inspector) - User agent parser library like `piwik/device-detector`.
 
 ### Third Party APIs
 
-*   [ex\_twilio (⭐328)](https://github.com/danielberkompas/ex_twilio) - Twilio API client for Elixir.
+*   [ex\_twilio (⭐330)](https://github.com/danielberkompas/ex_twilio) - Twilio API client for Elixir.
 *   [google\_sheets (⭐39)](https://github.com/GrandCru/GoogleSheets) - Elixir library for fetching and polling Google spreadsheet data in CSV format.
 *   [mmExchangeRate (⭐0)](https://github.com/Arkar-Aung/mmExchangeRate) - A simple exchange rate checker and calculator based on Central Bank of Myanmar Api.
 *   [opbeat (⭐7)](https://github.com/teodor-pripoae/opbeat) - Elixir client for Opbeat.

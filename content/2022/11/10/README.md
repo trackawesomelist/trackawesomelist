@@ -102,7 +102,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [funkydrac (⭐1)](https://github.com/warshanks/funkydrac) - Multiple Dracula-themed omz themes based on [funky (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme) and an [oh-my-posh (⭐13k)](https://github.com/JanDeDobbeleer/oh-my-posh) theme based on [alien (⭐13k)](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json)
+*   [funkydrac (⭐2)](https://github.com/warshanks/funkydrac) - Multiple Dracula-themed omz themes based on [funky (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme) and an [oh-my-posh (⭐14k)](https://github.com/JanDeDobbeleer/oh-my-posh) theme based on [alien (⭐14k)](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json)
 
 ## [14. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

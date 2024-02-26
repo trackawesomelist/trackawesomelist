@@ -42,9 +42,9 @@
 ### Table of Contents / Static Analysis
 
 *   [Exakat (⭐374)](https://github.com/exakat/exakat) - A static analysis engine for PHP.
-*   [Mondrian (⭐392)](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
+*   [Mondrian (⭐393)](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 *   [phan (⭐5.5k)](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
-*   [PhpDependencyAnalysis (⭐553)](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
+*   [PhpDependencyAnalysis (⭐552)](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
 *   [PHP Metrics (⭐2.4k)](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
 *   [PHP Migration (⭐201)](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
 *   [PHPStan (⭐12k)](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
@@ -60,7 +60,6 @@
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
 *   [Particles in a Simplex Noise Flow Field](https://codepen.io/DonKarlssonSan/post/particles-in-simplex-noise-flow-field) - Perlin noise flow field tutorial.
-*   [Flow Fields, Part 1](https://www.bit-101.com/blog/2017/10/23/flow-fields-part-i/) [Part 2](https://www.bit-101.com/blog/2017/10/28/flow-fields-part-ii/) - Introduction to flow fields also known as vector fields.
 
 ## [7. Inspire](/content/noahbuscher/inspire/README.md)
 

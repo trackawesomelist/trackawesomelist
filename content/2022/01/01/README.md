@@ -17,7 +17,7 @@
 
 ### Tools / Community providers
 
-*   [prettyplan (⭐151)](https://github.com/chrislewisdev/prettyplan) - Prettyplan ([available online here](https://chrislewisdev.github.io/prettyplan/)) is a small tool to help you view large Terraform plans with ease. :ghost:
+*   [prettyplan (⭐152)](https://github.com/chrislewisdev/prettyplan) - Prettyplan ([available online here](https://chrislewisdev.github.io/prettyplan/)) is a small tool to help you view large Terraform plans with ease. :ghost:
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

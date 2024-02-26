@@ -1,6 +1,6 @@
 # Awesome List Updates on May 11, 2017
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -111,7 +111,7 @@
 
 ### Resources / Examples and Exercises
 
-*   [Escape from Callback Mountain (⭐256)](https://github.com/justsml/escape-from-callback-mountain) - Design & refactoring tips for Promise-based Functional JavaScript. Key benefits include better readability, testability, and reusability. MIT.
+*   [Escape from Callback Mountain (⭐259)](https://github.com/justsml/escape-from-callback-mountain) - Design & refactoring tips for Promise-based Functional JavaScript. Key benefits include better readability, testability, and reusability. MIT.
 
 ## [3. Awesome Indie](/content/mezod/awesome-indie/README.md)
 
@@ -140,6 +140,12 @@
 ### Libraries
 
 *   [tensorpack (⭐6.3k)](https://github.com/ppwwyyxx/tensorpack) - Neural Network Toolbox on TensorFlow focusing on training speed and on large datasets.
+
+## [7. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### Ruby / Django
+
+*   [Sinatra](http://www.sinatrarb.com/intro-zh.html)
 
 ---
 

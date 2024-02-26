@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 11, 2023
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -84,7 +84,7 @@
 
 *   [CNCjs](https://cnc.js.org/) - A web-based interface for CNC milling controller running Grbl, Smoothieware, or TinyG. ([Source Code (⭐2.1k)](https://github.com/cncjs/cncjs/)) `MIT` `Nodejs`
 *   [Fluidd](https://docs.fluidd.xyz/) - Lightweight & responsive user interface for Klipper, the 3D printer firmware. ([Source Code (⭐1.2k)](https://github.com/fluidd-core/fluidd)) `GPL-3.0` `Docker/Nodejs`
-*   [Mainsail](https://docs.mainsail.xyz/) - A modern and responsive user interface for the Klipper 3D printer firmware. Control and monitor your printer from everywhere, from any device. ([Source Code (⭐1.4k)](https://github.com/mainsail-crew/mainsail)) `GPL-3.0` `Docker/Python`
+*   [Mainsail](https://docs.mainsail.xyz/) - A modern and responsive user interface for the Klipper 3D printer firmware. Control and monitor your printer from everywhere, from any device. ([Source Code (⭐1.5k)](https://github.com/mainsail-crew/mainsail)) `GPL-3.0` `Docker/Python`
 *   [Octoprint](https://octoprint.org/) - A snappy web interface for controlling consumer 3D printers. ([Source Code (⭐7.9k)](https://github.com/OctoPrint/OctoPrint)) `AGPL-3.0` `Docker/Python`
 
 ### Software / Recipe Management
@@ -110,16 +110,6 @@
 ### UX Components / Components
 
 *   [Zoom Image Library](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic headless-library to zoom image on the web
-
-## [9. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Machine Learning
-
-*   [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) - François Fleuret (PDF)
-
-### Professional Development
-
-*   [How to Stand Out as a Software Engineer (⭐3)](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf) - Landry Monga (PDF)
 
 ---
 

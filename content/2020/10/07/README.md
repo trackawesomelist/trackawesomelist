@@ -87,7 +87,7 @@
 
 ### Command-line tools
 
-*   [jo (⭐4.3k)](https://github.com/jpmens/jo) - A small utility to create JSON objects
+*   [jo (⭐4.6k)](https://github.com/jpmens/jo) - A small utility to create JSON objects
 
 ## [13. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 

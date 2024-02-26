@@ -33,16 +33,12 @@
 
 ### Date and Time
 
-*   [dateutil (⭐2.1k)](https://github.com/dateutil/dateutil) - Extensions to the standard Python [datetime](https://docs.python.org/3/library/datetime.html) module.
+*   [dateutil (⭐2.2k)](https://github.com/dateutil/dateutil) - Extensions to the standard Python [datetime](https://docs.python.org/3/library/datetime.html) module.
 
-### File
+### File Manipulation
 
 *   [mimetypes](https://docs.python.org/3/library/mimetypes.html) - (Python standard library) Map filenames to MIME types.
 *   [path.py (⭐1.1k)](https://github.com/jaraco/path.py) - A module wrapper for [os.path](https://docs.python.org/3/library/os.path.html).
-
-### Foreign Function Interface
-
-*   [ctypes](https://docs.python.org/3/library/ctypes.html) - (Python standard library) Foreign Function Interface for Python calling C code.
 
 ### GUI Development
 
@@ -51,10 +47,10 @@
 ### Testing
 
 *   Testing Frameworks
-    *   [hypothesis (⭐6.8k)](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
-    *   [nose2 (⭐757)](https://github.com/nose-devs/nose2) - The successor to `nose`, based on \`unittest2.
+    *   [hypothesis (⭐7.2k)](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
+    *   [nose2 (⭐771)](https://github.com/nose-devs/nose2) - The successor to `nose`, based on \`unittest2.
     *   [pytest](https://docs.pytest.org/en/latest/) - A mature full-featured Python testing tool.
-    *   [Robot Framework (⭐8.2k)](https://github.com/robotframework/robotframework) - A generic test automation framework.
+    *   [Robot Framework (⭐8.8k)](https://github.com/robotframework/robotframework) - A generic test automation framework.
     *   [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
 
 ## [5. Awesome React Native](/content/jondot/awesome-react-native/README.md)

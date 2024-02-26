@@ -20,7 +20,7 @@
 
 ### Captchas
 
-*   [mCaptcha](http://mcaptcha.org/) ([repo (⭐1.4k)](https://github.com/mCaptcha/mCaptcha)) - An open-source CAPTCHA system with seamless UX.  mCaptcha uses SHA256 based proof-of-work (PoW) to rate limit users.
+*   [mCaptcha](http://mcaptcha.org/) ([repo (⭐1.5k)](https://github.com/mCaptcha/mCaptcha)) - An open-source CAPTCHA system with seamless UX.  mCaptcha uses SHA256 based proof-of-work (PoW) to rate limit users.
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Software / Games
 
-*   [Quizmaster (⭐196)](https://github.com/nymanjens/quizmaster) - A web-app for conducting a quiz, including a page for players to enter their answers. `Apache-2.0` `Scala`
+*   [Quizmaster (⭐197)](https://github.com/nymanjens/quizmaster) - A web-app for conducting a quiz, including a page for players to enter their answers. `Apache-2.0` `Scala`
 
 ## [3. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -210,11 +210,11 @@ Language: English
 
 ### Audio
 
-*   [AudioFile (⭐871)](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. \[MIT]
+*   [AudioFile (⭐873)](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. \[MIT]
 
 ### CSV
 
-*   [csv2 (⭐498)](https://github.com/p-ranav/csv2) - Fast CSV parser for modern C++. \[MIT]
+*   [csv2 (⭐499)](https://github.com/p-ranav/csv2) - Fast CSV parser for modern C++. \[MIT]
 
 ### GUI
 
@@ -251,8 +251,8 @@ Language: English
 
 ### Examples and funny stuff
 
-*   [phoenix-chat-example (⭐710)](https://github.com/dwyl/phoenix-chat-example) - A step-by-step example/tutorial for building a Chat app in Phoenix for complete beginners. Covers testing, docs and deployement. Phoenix `1.5.3`.
-*   [phoenix-liveview-counter-tutorial (⭐329)](https://github.com/dwyl/phoenix-liveview-counter-tutorial) - complete beginners step-by-step tutorial building a real time counter in Phoenix `1.5.3` and LiveView `0.14.1`.
+*   [phoenix-chat-example (⭐720)](https://github.com/dwyl/phoenix-chat-example) - A step-by-step example/tutorial for building a Chat app in Phoenix for complete beginners. Covers testing, docs and deployement. Phoenix `1.5.3`.
+*   [phoenix-liveview-counter-tutorial (⭐334)](https://github.com/dwyl/phoenix-liveview-counter-tutorial) - complete beginners step-by-step tutorial building a real time counter in Phoenix `1.5.3` and LiveView `0.14.1`.
 *   [phoenix-todo-list-tutorial (⭐177)](https://github.com/dwyl/phoenix-todo-list-tutorial) - A complete beginners step-by-step tutorial for building a Todo List from scratch in Phoenix `1.5.3`.
 
 ## [11. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
@@ -265,7 +265,7 @@ Language: English
 
 ### Machine Learning
 
-*   [fable (⭐537)](https://github.com/tidyverts/fable/) - a collection of commonly used univariate and multivariate time series forecasting models
+*   [fable (⭐539)](https://github.com/tidyverts/fable/) - a collection of commonly used univariate and multivariate time series forecasting models
 
 ## [13. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -380,7 +380,7 @@ git switch -c <branch-name>
 
 ### Table of Contents / Debugging and Profiling
 
-*   [PCOV (⭐667)](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
+*   [PCOV (⭐669)](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
 *   [Symfony VarDumper (⭐7.3k)](https://github.com/symfony/var-dumper) - A variable dumper component.
 *   [Whoops (⭐13k)](https://github.com/filp/whoops) - A pretty error-handling library.
 
@@ -429,7 +429,7 @@ git switch -c <branch-name>
 
 ### Community Modules / Miscellaneous
 
-*   [terraform-cloudflare-maintenance (⭐120)](https://github.com/adinhodovic/terraform-cloudflare-maintenance) - Module to create a Maintenance Page using Cloudflare Workers.
+*   [terraform-cloudflare-maintenance (⭐121)](https://github.com/adinhodovic/terraform-cloudflare-maintenance) - Module to create a Maintenance Page using Cloudflare Workers.
 
 ### Tools / Community providers
 
@@ -670,7 +670,7 @@ git switch -c <branch-name>
 
 ### Integrations
 
-*   [heroku-playwright-buildpack (⭐42)](https://github.com/mxschmitt/heroku-playwright-buildpack) - Heroku buildpack for running Playwright on a Heroku Dyno.
+*   [heroku-playwright-buildpack (⭐43)](https://github.com/mxschmitt/heroku-playwright-buildpack) - Heroku buildpack for running Playwright on a Heroku Dyno.
 
 ### Showcases
 

@@ -91,7 +91,7 @@
 
 ### Templates / React
 
-*   [vite-react-ts-template (⭐57)](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
+*   [vite-react-ts-template (⭐58)](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
 
 ## [8. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Third-party APIs
 
-*   [openaigo (⭐282)](https://github.com/otiai10/openaigo) - OpenAI GPT3/GPT3.5 ChatGPT API client library for Go.
+*   [openaigo (⭐283)](https://github.com/otiai10/openaigo) - OpenAI GPT3/GPT3.5 ChatGPT API client library for Go.
 
 ## [14. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -168,11 +168,11 @@
 
 ### Miscellaneous / React
 
-*   [graphql-armor (⭐447)](https://github.com/Escape-Technologies/graphql-armor) - An instant security layer for production GraphQL Endpoints.
+*   [graphql-armor (⭐449)](https://github.com/Escape-Technologies/graphql-armor) - An instant security layer for production GraphQL Endpoints.
 
 ### Python / React
 
-*   [sgqlc (⭐487)](https://github.com/profusion/sgqlc) - Simple GraphQL Client makes working with GraphQL API responses easier in Python.
+*   [sgqlc (⭐489)](https://github.com/profusion/sgqlc) - Simple GraphQL Client makes working with GraphQL API responses easier in Python.
 
 ---
 

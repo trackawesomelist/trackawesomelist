@@ -20,7 +20,7 @@
 
 ### Android / Projects
 
-*   [AnkitSuda/Rebound (⭐165)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
+*   [AnkitSuda/Rebound (⭐171)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Performance
 
-*   [go-instrument (⭐118)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
+*   [go-instrument (⭐124)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [yarn-extra-completion (⭐38)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐451)](https://github.com/lukechilds/zsh-better-npm-completion).
+*   [yarn-extra-completion (⭐38)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐453)](https://github.com/lukechilds/zsh-better-npm-completion).
 
 ## [8. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 

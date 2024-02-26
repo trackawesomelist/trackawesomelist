@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25, 2024
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -54,13 +54,7 @@
 
 *   [LintaoAmons/cd-project.nvim (⭐41)](https://github.com/LintaoAmons/cd-project.nvim) - All you need is just an easier way to `cd` to another project directory.
 
-## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Security & Privacy
-
-*   [The MoonMath Manual to zk-SNARKs](https://leastauthority.com/community-matters/moonmath-manual/) - Least Authority
-
-## [7. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
+## [6. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
 
 ### Learning Resources / Generative AI
 

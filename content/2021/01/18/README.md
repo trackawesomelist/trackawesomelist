@@ -65,7 +65,7 @@
 
 ### Gaming
 
-*   [Games of Coding (⭐1.7k)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
+*   [Games of Coding (⭐1.8k)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
 
 ---
 

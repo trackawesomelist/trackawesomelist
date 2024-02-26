@@ -67,11 +67,11 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-no-bundle (⭐43)](https://github.com/ManBearTM/vite-plugin-no-bundle) - Generate unbundled code for use with native ESM or other bundlers.
+*   [vite-plugin-no-bundle (⭐44)](https://github.com/ManBearTM/vite-plugin-no-bundle) - Generate unbundled code for use with native ESM or other bundlers.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-isomorphic-import (⭐1)](https://github.com/LyzSg/vite-plugin-isomorphic-import) - Allows you to configure whether to import modules on the server-side or client-side.
+*   [vite-plugin-isomorphic-import (⭐2)](https://github.com/LyzSg/vite-plugin-isomorphic-import) - Allows you to configure whether to import modules on the server-side or client-side.
 
 ## [8. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Libraries / Data visualization
 
-*   [rerun (⭐4k)](https://github.com/rerun-io/rerun) — \[[rerun](https://crates.io/crates/rerun)] — An SDK for logging computer vision and robotics data (tensors, point clouds, etc) paired with a visualizer for exploring that data over time.
+*   [rerun (⭐4.3k)](https://github.com/rerun-io/rerun) — \[[rerun](https://crates.io/crates/rerun)] — An SDK for logging computer vision and robotics data (tensors, point clouds, etc) paired with a visualizer for exploring that data over time.
 
 ## [10. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -119,7 +119,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [MATE](https://galoisinc.github.io/MATE/) :warning: — A suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code. MATE unifies application-specific and low-level vulnerability analysis using code property graphs (CPGs), enabling the discovery of highly application-specific vulnerabilities that depend on both implementation details and the high-level semantics of target C/C++ programs.
+*   [MATE](https://galoisinc.github.io/MATE/) — A suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code. MATE unifies application-specific and low-level vulnerability analysis using code property graphs (CPGs), enabling the discovery of highly application-specific vulnerabilities that depend on both implementation details and the high-level semantics of target C/C++ programs.
 *   [steady](https://eclipse.github.io/steady/) — Analyses your Java applications for open-source dependencies with known vulnerabilities, using both static analysis and testing to determine code context and usage for greater accuracy.
 *   [Reflection (⭐112)](https://github.com/phpDocumentor/Reflection) — Reflection library to do Static Analysis for PHP Projects
 *   [deal](https://deal.readthedocs.io/) — Design by contract for Python. Write bug-free code.  By adding a few decorators to your code, you get for free tests, static analysis, formal verification, and much more.

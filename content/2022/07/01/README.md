@@ -10,26 +10,26 @@
 
 ### Table of Contents / Testing
 
-*   [Foundry (⭐546)](https://github.com/zenstruck/foundry) - A fixture factory generation library for Doctrine.
+*   [Foundry (⭐550)](https://github.com/zenstruck/foundry) - A fixture factory generation library for Doctrine.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Polls and Events
 
-*   [Bitpoll (⭐209)](https://github.com/fsinfuhh/Bitpoll) - A web application for scheduling meetings and general polling. ([Demo](https://bitpoll.de/)) `GPL-3.0` `Docker/Python`
+*   [Bitpoll (⭐213)](https://github.com/fsinfuhh/Bitpoll) - A web application for scheduling meetings and general polling. ([Demo](https://bitpoll.de/)) `GPL-3.0` `Docker/Python`
 
 ### Software / Search Engines
 
-*   [OpenSearch](https://opensearch.org) - Open source distributed and RESTful search engine. ([Source Code (⭐8.2k)](https://github.com/opensearch-project/OpenSearch)) `Apache-2.0` `Java/Docker/K8S/deb`
-*   [Yacy](https://yacy.net/en/index.html) - Peer based, decentralized search engine server. ([Source Code (⭐3.1k)](https://github.com/yacy/yacy_search_server)) `GPL-2.0` `Java/Docker/K8S`
+*   [OpenSearch](https://opensearch.org) - Open source distributed and RESTful search engine. ([Source Code (⭐8.3k)](https://github.com/opensearch-project/OpenSearch)) `Apache-2.0` `Java/Docker/K8S/deb`
+*   [Yacy](https://yacy.net/en/index.html) - Peer based, decentralized search engine server. ([Source Code (⭐3.2k)](https://github.com/yacy/yacy_search_server)) `GPL-2.0` `Java/Docker/K8S`
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [activate-py-environment (⭐15)](https://github.com/se-jaeger/zsh-activate-py-environment) - Automagically detects and activates your python environments (`poetry`, `virtualenv` and `conda`) while traversing directories.
+*   [activate-py-environment (⭐17)](https://github.com/se-jaeger/zsh-activate-py-environment) - Automagically detects and activates your python environments (`poetry`, `virtualenv` and `conda`) while traversing directories.
 *   [zbrowse (⭐12)](https://github.com/zdharma-continuum/zbrowse) - When doing shell work, it is often the case that `echo $variable` is invoked multiple times, to check the result of a loop, etc. With ZBrowse, you just need to press `Ctrl-B`, which invokes the ZBrowse – Zshell variable browser.
-*   [zimfw-extras (⭐0)](https://github.com/PatTheMav/zimfw-extras) - Custom extras for [zimfw (⭐3.4k)](https://github.com/zimfw/zimfw), packaged into a zimfw plugin.
+*   [zimfw-extras (⭐0)](https://github.com/PatTheMav/zimfw-extras) - Custom extras for [zimfw (⭐3.5k)](https://github.com/zimfw/zimfw), packaged into a zimfw plugin.
 *   [zinit-annex-submods (⭐6)](https://github.com/z-shell/z-a-submods) - [zinit (⭐2.2k)](https://github.com/zdharma-continuum/zinit) extension that allows installing and managing additional submodules within a plugin or snippet.
 *   [zlong\_alert (⭐40)](https://github.com/kevinywlui/zlong_alert.zsh) - Uses `notify-send` and rings a bell to alert you when a command that has taken a long time (default: 15 seconds) has completed.
 
@@ -62,7 +62,7 @@
 
 ### Templates / Electron
 
-*   [vite-plugin-electron-renderer (⭐85)](https://github.com/electron-vite/vite-plugin-electron-renderer) - Support use Node.js API in Electron-Renderer.
+*   [vite-plugin-electron-renderer (⭐88)](https://github.com/electron-vite/vite-plugin-electron-renderer) - Support use Node.js API in Electron-Renderer.
 
 ### Apps/Websites / Community
 
@@ -106,7 +106,7 @@
 
 ### Libraries/Frameworks / Networking
 
-*   [open-coap/kotlin-mbedtls (⭐5)](https://github.com/open-coap/kotlin-mbedtls) - Integration with mbedtls library to provide DTLS client and server in jvm
+*   [open-coap/kotlin-mbedtls (⭐6)](https://github.com/open-coap/kotlin-mbedtls) - Integration with mbedtls library to provide DTLS client and server in jvm
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

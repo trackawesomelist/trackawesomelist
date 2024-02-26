@@ -181,7 +181,7 @@
 
 ### Automation
 
-*   [Huginn (⭐40k)](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
+*   [Huginn (⭐41k)](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
 
 ### DevOps Tools
 
@@ -200,7 +200,7 @@
 
 ### Inter-process communication
 
-*   [libjson-rpc-cpp (⭐916)](https://github.com/cinemast/libjson-rpc-cpp) - JSON-RPC framework for C++ servers and clients. \[MIT]
+*   [libjson-rpc-cpp (⭐923)](https://github.com/cinemast/libjson-rpc-cpp) - JSON-RPC framework for C++ servers and clients. \[MIT]
 *   [nanomsg (⭐5.8k)](https://github.com/nanomsg/nanomsg) - A simple high-performance implementation of several "scalability protocols". \[MIT] [website](http://nanomsg.org/)
 *   [xmlrpc-c](http://xmlrpc-c.sourceforge.net/) - A lightweight RPC library based on XML and HTTP. \[BSD]
 
@@ -213,7 +213,7 @@
 ### Build Tools
 
 *   [dismake (⭐4)](https://github.com/jarednorman/dismake) - Mix compiler running make.
-*   [reaxt (⭐367)](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
+*   [reaxt (⭐366)](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
 
 ### Cryptography
 
@@ -228,7 +228,7 @@
 
 ### Framework Components
 
-*   [plug\_rails\_cookie\_session\_store (⭐96)](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
+*   [plug\_rails\_cookie\_session\_store (⭐95)](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
 *   [plugs (⭐19)](https://github.com/sugar-framework/plugs) - Collection of Plug middleware for web applications.
 *   [plugsnag (⭐66)](https://github.com/jarednorman/plugsnag) - Bugsnag notifier for Elixir's plug.
 
@@ -263,7 +263,7 @@
 *   [digoc (⭐12)](https://github.com/kevinmontuori/digoc) - Digital Ocean API v2 Elixir Client.
 *   [exgrid (⭐8)](https://github.com/bradleyd/exgrid) - interact with Sendgrid's API.
 *   [fluent\_client (⭐8)](https://github.com/trustatom-oss/elixir-fluent-client) - Minimalistic fluentd client.
-*   [slack (⭐674)](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
+*   [slack (⭐675)](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
 
 ## [16. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 

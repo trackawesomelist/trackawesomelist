@@ -11,9 +11,6 @@
 ### Official documentation
 
 *   [Documentation](https://pola-rs.github.io/polars-book/user-guide/) - Official user guide for Python, Rust and R.
-*   [Documentation for Python API ](https://pola-rs.github.io/polars/py-polars/html/reference/) - Official API Reference for Python.
-*   [Documentation for Rust API ](https://pola-rs.github.io/polars/polars/) - Official API Reference for Rust.
-*   [Documentation for R API ](https://rpolars.github.io/reference/index.html) - Official API Reference for R.
 *   [Github: Polars Github Organization](https://github.com/pola-rs) - Official Polars Github repository.
 *   [Blog posts from Polars](https://www.pola.rs/posts/) - Official blogs posts from Polars.
 
@@ -29,11 +26,11 @@
 
 ### Libraries/Packages/Scripts / R
 
-*   [rpolars for R (⭐366)](https://github.com/pola-rs/r-polars) - [R](https://www.r-project.org/) `rpolars` package to use polars DataFrame from R.
+*   [rpolars for R (⭐368)](https://github.com/pola-rs/r-polars) - [R](https://www.r-project.org/) `rpolars` package to use polars DataFrame from R.
 
 ### Libraries/Packages/Scripts / Node.js
 
-*   [nodejs-polars for Node.js (⭐265)](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `nodejs-polars` package to use polars DataFrame from Node.js.
+*   [nodejs-polars for Node.js (⭐271)](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `nodejs-polars` package to use polars DataFrame from Node.js.
 
 ### Resources / Tutorials & workshops
 
@@ -81,7 +78,7 @@
 
 ### Self-Hosted Registries / Miscellaneous
 
-*   [tapir (⭐125)](https://github.com/PacoVK/tapir) - Private Terraform Registry.
+*   [tapir (⭐133)](https://github.com/PacoVK/tapir) - Private Terraform Registry.
 
 ## [5. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -93,7 +90,7 @@
 
 ### Libraries / Artificial Intelligence
 
-*   [64bit/async-openai (⭐845)](https://github.com/64bit/async-openai) \[[async-openai](https://crates.io/crates/async-openai)] — Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
+*   [64bit/async-openai (⭐872)](https://github.com/64bit/async-openai) \[[async-openai](https://crates.io/crates/async-openai)] — Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
 
 ## [7. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -125,7 +122,7 @@
 *   [Monoid](http://larsenwork.com/monoid/) - Monoid is customizable and optimized for coding with bitmap-like sharpness at 15px line-height even on low res displays.
 *   [Mononoki](https://madmalik.github.io/mononoki/) - Mononoki is a typeface by Matthias Tellen, created to enhance code formatting.
 *   [More Nerd Fonts](https://www.nerdfonts.com/font-downloads) - Another site to download nerd fonts.
-*   [Nerd fonts (⭐49k)](https://github.com/ryanoasis/nerd-fonts) - A collection of over 20 patched fonts (over 1,700 variations) & the fontforge font patcher python script for Powerline, devicons, and vim-devicons: includes Droid Sans, Meslo, AnonymousPro, ProFont, Inconsolta, and many more. These can be installed with `brew` - do `brew tap homebrew/cask-fonts && brew install --cask fontname`
+*   [Nerd fonts (⭐50k)](https://github.com/ryanoasis/nerd-fonts) - A collection of over 20 patched fonts (over 1,700 variations) & the fontforge font patcher python script for Powerline, devicons, and vim-devicons: includes Droid Sans, Meslo, AnonymousPro, ProFont, Inconsolta, and many more. These can be installed with `brew` - do `brew tap homebrew/cask-fonts && brew install --cask fontname`
 *   [Victor Mono](https://rubjo.github.io/victor-mono/) - Victor Mono is a free programming font with semi-connected cursive italics, symbol ligatures (!=, ->>, =>, ===, <=, >=, ++) and Latin, Cyrillic and Greek characters.
 
 ---

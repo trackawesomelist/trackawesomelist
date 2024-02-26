@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 23, 2016
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -84,12 +84,6 @@
 
 *   [Nameko (⭐4.6k)](https://github.com/onefinestay/nameko) - Python framework for building microservices.
 *   [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
-
-## [6. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### E-commerce
-
-*   [django-shop (⭐3k)](https://github.com/awesto/django-shop) - A Django based shop system.
 
 ---
 

@@ -34,7 +34,7 @@
 
 ### Configuration
 
-*   [inipp (⭐249)](https://github.com/mcmtroffaes/inipp) - Simple header-only C++ ini parser and generator. \[MIT]
+*   [inipp (⭐250)](https://github.com/mcmtroffaes/inipp) - Simple header-only C++ ini parser and generator. \[MIT]
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -89,11 +89,11 @@
 
 ### Software / Games
 
-*   [Red Eclipse 2](https://redeclipse.net) - A FOSS Arena First-Person Shooter Similar to Unreal Tournament. ([Source Code (⭐377)](https://github.com/redeclipse/base)) `Zlib/MIT/CC-BY-SA-4.0` `C/C++/deb`
+*   [Red Eclipse 2](https://redeclipse.net) - A FOSS Arena First-Person Shooter Similar to Unreal Tournament. ([Source Code (⭐380)](https://github.com/redeclipse/base)) `Zlib/MIT/CC-BY-SA-4.0` `C/C++/deb`
 
 ### Software / Software Development - Testing
 
-*   [Bencher](https://bencher.dev/) - Bencher is a suite of continuous benchmarking tools designed to catch performance regressions in CI. ([Source Code (⭐270)](https://github.com/bencherdev/bencher)) `MIT/Apache-2.0` `Rust`
+*   [Bencher](https://bencher.dev/) - Bencher is a suite of continuous benchmarking tools designed to catch performance regressions in CI. ([Source Code (⭐285)](https://github.com/bencherdev/bencher)) `MIT/Apache-2.0` `Rust`
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -19,7 +19,7 @@
 
 *   [Bahmni](https://www.bahmni.org) - Electronic Medical Record and hospital system.
 *   [EHRBase](https://ehrbase.org) OpenEHR Clinical Data Repository.
-*   [EHRServer (⭐150)](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer.
+*   [EHRServer (⭐160)](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer.
 *   [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster Project.
 
 ### Contents / Specifications
@@ -28,7 +28,7 @@
 
 ### Contents / Imaging
 
-*   [OHIF (⭐2.5k)](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker.
+*   [OHIF (⭐2.8k)](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker.
 
 ### Contents / Dental
 
@@ -43,15 +43,11 @@
 
 *   [Archie (⭐47)](https://github.com/openehr/archie) - OpenEHR Library written in Java.
 *   [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
-*   [dicom (⭐834)](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in GoLang.
-*   [Fellow Oak DICOM (⭐929)](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono, and Unity.
-*   [FHIR protocol buffers (⭐732)](https://github.com/google/fhir) - A Google implementation of protocol buffers for FHIR.
-*   [php-fhir (⭐101)](https://github.com/dcarbone/php-fhir) - Tools for creating PHP classes from the HL7 FHIR Specification.
-*   [pynetdicom (⭐437)](https://github.com/pydicom/pynetdicom) - A Python implementation of the DICOM networking protocol.
-
-### Contents / Data
-
-*   [Inferno (⭐91)](https://github.com/onc-healthit/inferno) - Open source tool that tests whether patients can access their health data through a standard interface.
+*   [dicom (⭐874)](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in GoLang.
+*   [Fellow Oak DICOM (⭐993)](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono, and Unity.
+*   [FHIR protocol buffers (⭐771)](https://github.com/google/fhir) - A Google implementation of protocol buffers for FHIR.
+*   [php-fhir (⭐109)](https://github.com/dcarbone/php-fhir) - Tools for creating PHP classes from the HL7 FHIR Specification.
+*   [pynetdicom (⭐463)](https://github.com/pydicom/pynetdicom) - A Python implementation of the DICOM networking protocol.
 
 ### Contents / Machine learning
 

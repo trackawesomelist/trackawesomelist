@@ -52,7 +52,6 @@
 
 ### Blogs • Websites / Other
 
-*   [iquilezles.org](http://www.iquilezles.org) - Home of Íñigo Quílez, specialised in GLSL and math snippets.
 *   [bit-101.com](http://www.bit-101.com/blog/) - Blog by Keith Peters, specialised in creative coding.
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)

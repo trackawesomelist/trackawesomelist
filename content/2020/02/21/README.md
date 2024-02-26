@@ -83,7 +83,7 @@
 
 ### Software / Games
 
-*   [Mindustry](https://mindustrygame.github.io/) - Factorio-like tower defense game. Build production chains to gather more resources, and build complex facilities. ([Source Code (⭐20k)](https://github.com/Anuken/Mindustry)) `GPL-3.0` `Java`
+*   [Mindustry](https://mindustrygame.github.io/) - Factorio-like tower defense game. Build production chains to gather more resources, and build complex facilities. ([Source Code (⭐21k)](https://github.com/Anuken/Mindustry)) `GPL-3.0` `Java`
 
 ## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

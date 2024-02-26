@@ -43,7 +43,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Hubleys (⭐37)](https://github.com/knrdl/hubleys-dashboard) - Self-hosted personal dashboards to organize links for multiple users via a central yaml config. `MIT` `Docker`
+*   [Hubleys (⭐40)](https://github.com/knrdl/hubleys-dashboard) - Self-hosted personal dashboards to organize links for multiple users via a central yaml config. `MIT` `Docker`
 
 ### Software / Software Development - Project Management
 

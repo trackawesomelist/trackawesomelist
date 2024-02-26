@@ -28,15 +28,15 @@
 
 ### Software / DNS
 
-*   [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) - Free and open source, userfriendly ads & trackers blocking DNS server. ([Source Code (⭐20k)](https://github.com/AdguardTeam/AdGuardHome)) `GPL-3.0` `Docker`
+*   [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) - Free and open source, userfriendly ads & trackers blocking DNS server. ([Source Code (⭐22k)](https://github.com/AdguardTeam/AdGuardHome)) `GPL-3.0` `Docker`
 
 ### Software / Internet of Things (IoT)
 
-*   [FlowForge](https://flowforge.com/) - FlowForge allows companies to deploy Node-RED applications in a reliable, scalable and secure manner. The FlowForge platform provides DevOps capabilities for Node-RED development teams. ([Source Code (⭐206)](https://github.com/flowforge/flowforge)) `Apache-2.0` `Nodejs/Docker/K8S`
+*   [FlowForge](https://flowforge.com/) - FlowForge allows companies to deploy Node-RED applications in a reliable, scalable and secure manner. The FlowForge platform provides DevOps capabilities for Node-RED development teams. ([Source Code (⭐208)](https://github.com/flowforge/flowforge)) `Apache-2.0` `Nodejs/Docker/K8S`
 
 ### Software / Personal Dashboards
 
-*   [LittleLink (⭐1.2k)](https://github.com/sethcottle/littlelink/) - A simplistic approach for links in bio with 100+ branded buttons (alternative to Linktree). ([Demo](https://littlelink.io/), [Source Code (⭐1.2k)](https://github.com/sethcottle/littlelink)) `MIT` `Javascript`
+*   [LittleLink (⭐1.3k)](https://github.com/sethcottle/littlelink/) - A simplistic approach for links in bio with 100+ branded buttons (alternative to Linktree). ([Demo](https://littlelink.io/), [Source Code (⭐1.3k)](https://github.com/sethcottle/littlelink)) `MIT` `Javascript`
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

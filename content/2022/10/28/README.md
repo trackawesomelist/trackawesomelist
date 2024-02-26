@@ -22,11 +22,11 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [krud-dev/shapeshift (⭐170)](https://github.com/krud-dev/shapeshift) - A Kotlin library for intelligent object mapping and conversion between objects.
+*   [krud-dev/shapeshift (⭐171)](https://github.com/krud-dev/shapeshift) - A Kotlin library for intelligent object mapping and conversion between objects.
 
 ### Projects / Desktop
 
-*   [ruslanys/vkmusic (⭐34)](https://github.com/ruslanys/vkmusic) - JavaFX and Spring-Boot based application for grabbing music from VK.com.
+*   [ruslanys/vkmusic (⭐35)](https://github.com/ruslanys/vkmusic) - JavaFX and Spring-Boot based application for grabbing music from VK.com.
 
 ### Projects / Examples
 
@@ -45,19 +45,19 @@
 *   [BennyWang/KBinding (⭐410)](https://github.com/BennyWang/KBinding)
 *   [inaka/KillerTask (⭐26)](https://github.com/inaka/KillerTask)
 *   [grandstaish/paperparcel (⭐494)](https://github.com/grandstaish/paperparcel) - Boilerplate reduction library written specifically for working with Kotlin data classes on Android.
-*   [nitrico/LastAdapter (⭐776)](https://github.com/nitrico/LastAdapter) - Don't write a RecyclerView adapter again. Not even a ViewHolder!.
+*   [nitrico/LastAdapter (⭐777)](https://github.com/nitrico/LastAdapter) - Don't write a RecyclerView adapter again. Not even a ViewHolder!.
 *   [denisidoro/krouter (⭐122)](https://github.com/denisidoro/krouter) - A lightweight Android activity router.
 *   [metalabdesign/AsyncAwait (⭐407)](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1.
 *   [zserge/anvil (⭐1.4k)](https://github.com/zserge/anvil) - Minimal UI library for Android inspired by React.
 *   [robinchew/mvil (⭐6)](https://github.com/robinchew/mvil) - 'Virtual DOM' for Android inspired by Anvil.
 *   [DanielMartinus/Stepper-Touch (⭐677)](https://github.com/DanielMartinus/Stepper-Touch) - Fun playful Android stepper widget for counting, written in Kotlin.
 *   [infotech-group/android-drawable-dsl (⭐181)](https://github.com/infotech-group/android-drawable-dsl) - DSL for constructing the drawables in Kotlin instead of in XML.
-*   [zsmb13/MaterialDrawerKt (⭐517)](https://github.com/zsmb13/MaterialDrawerKt) - A DSL for creating Material Design navigation drawers without any XML.
+*   [zsmb13/MaterialDrawerKt (⭐516)](https://github.com/zsmb13/MaterialDrawerKt) - A DSL for creating Material Design navigation drawers without any XML.
 *   [DanielMartinus/Konfetti (⭐3k)](https://github.com/DanielMartinus/Konfetti) - Lightweight particle system to create realistic confetti
 *   [calintat/alps (⭐4)](https://github.com/calintat/alps) - Android library for preferences which includes property delegates and a custom DSL for definining preferences.
 *   [rakshakhegde/ObservableFlow (⭐27)](https://github.com/rakshakhegde/ObservableFlow) - Functional Constructs for Databinding + Kotlin + RxJava
 *   [programmerr47/ganalytics (⭐11)](https://github.com/programmerr47/ganalytics) - A tiny api layer for any analytics in application.
-*   [iglaweb/Ferris-Wheel (⭐321)](https://github.com/iglaweb/Ferris-Wheel) - Simple android library to present an animated ferris wheel
+*   [iglaweb/Ferris-Wheel (⭐320)](https://github.com/iglaweb/Ferris-Wheel) - Simple android library to present an animated ferris wheel
 *   [ehsunshine/colored-time-selector (⭐152)](https://github.com/ehsunshine/colored-time-selector) - A smart colored time selector. Users can select just free time with a handy colorful range selector.
 *   [yundom/kache (⭐24)](https://github.com/yundom/kache) - A lightweight cache library written in Kotlin.
 *   [adrielcafe/KBus (⭐46)](https://github.com/adrielcafe/KBus) - Dead simple EventBus for Android made with Kotlin and RxJava 2
@@ -66,16 +66,16 @@
 *   [WindSekirun/RxSocialLogin (⭐126)](https://github.com/WindSekirun/RxSocialLogin) - This Android library is a library that provides social login for 15 platforms powered by RxJava2, Kotlin and Firebase Authentication.
 *   [bakhtiyork/gradients (⭐51)](https://github.com/bakhtiyork/gradients) - A curated collection of splendid gradients
 *   [hpost/rx-brainwaves (⭐5)](https://github.com/hpost/rx-brainwaves) - RxJava wrapper for NeuroSky MindWave headsets
-*   [adrielcafe/KrumbsView (⭐184)](https://github.com/adrielcafe/KrumbsView) - The ultimate breadcrumbs view for Android!
+*   [adrielcafe/KrumbsView (⭐185)](https://github.com/adrielcafe/KrumbsView) - The ultimate breadcrumbs view for Android!
 *   [inshiro/Skate (⭐9)](https://github.com/inshiro/Skate) - A simple and easy to use Android fragment stack controller
 *   [cortinico/slidetoact (⭐1.1k)](https://github.com/cortinico/slidetoact) - A simple 'Slide to Unlock' Material widget for Android, written in Kotlin
 *   [AppIntro/AppIntro (⭐10k)](https://github.com/AppIntro/AppIntro) - Make a cool/material intro for you Android App - Now all in Kotlin!
 *   [CuriousNikhil/gossip (⭐14)](https://github.com/CuriousNikhil/gossip) - Android TextToSpeech Helper to speak any text you want and handle events.
 *   [adrielcafe/PufferDB (⭐97)](https://github.com/adrielcafe/PufferDB) - An Android & JVM key-value storage powered by Protobuf and Coroutines.
-*   [adrielcafe/HAL (⭐76)](https://github.com/adrielcafe/HAL) - A non-deterministic finite-state machine for Android & JVM that won't let you down.
+*   [adrielcafe/HAL (⭐77)](https://github.com/adrielcafe/HAL) - A non-deterministic finite-state machine for Android & JVM that won't let you down.
 *   [coil-kt/coil (⭐10k)](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
 *   [levibostian/Shutter-Android (⭐55)](https://github.com/levibostian/Shutter-Android) - an Android library to take photos, record videos, pick images/videos from gallery, with ease. Written in Kotlin.
-*   [rosariopfernandes/firecoil (⭐43)](https://github.com/rosariopfernandes/firecoil) - Display images stored in Cloud Storage for Firebase using Coil.
+*   [rosariopfernandes/firecoil (⭐44)](https://github.com/rosariopfernandes/firecoil) - Display images stored in Cloud Storage for Firebase using Coil.
 *   [skydoves/Only (⭐485)](https://github.com/skydoves/Only) - An easy way to persist and run code block only as many times as necessary on Android.
 *   [skydoves/AndroidVeil (⭐1.4k)](https://github.com/skydoves/AndroidVeil) - An easy, flexible way to implement veil skeletons and shimmering effect for Android.
 *   [skydoves/Needs (⭐619)](https://github.com/skydoves/Needs) - An easy way to implement modern permission instructions popup.
@@ -86,11 +86,11 @@
 *   [evilthreads669966/EasyShells](https://github.com/evilthreads669966/EasyShells) - A simple shell for executing Linux commands with responses
 *   [mr-wizman/Consent (⭐4)](https://github.com/mr-wizman/Consent) - Easy Android permissions. Powered by Kotlin.
 *   [matteocrippa/Parrot (⭐22)](https://github.com/matteocrippa/Parrot) - A lightweight library to load remote image and handle caching in ImageView.
-*   [deva666/peko (⭐147)](https://github.com/deva666/peko) - Android library for requesting runtime permissions with Kotlin Coroutines
+*   [deva666/peko (⭐148)](https://github.com/deva666/peko) - Android library for requesting runtime permissions with Kotlin Coroutines
 *   [MackHartley/DashedView (⭐67)](https://github.com/MackHartley/DashedView) - The easiest way to create a dashed or striped background on Android
-*   [MackHartley/RoundedProgressBar (⭐682)](https://github.com/MackHartley/RoundedProgressBar) - A customizable, animated progress bar that features rounded corners. This Android library is designed to look great and be simple to use
-*   [developingdeveloper-tech/toaster-android (⭐27)](https://github.com/developingdeveloper-tech/toaster-android) - A simple library to add custom toast to android applications.
-*   [heart-switch (⭐53)](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch component for Jetpack Compose
+*   [MackHartley/RoundedProgressBar (⭐692)](https://github.com/MackHartley/RoundedProgressBar) - A customizable, animated progress bar that features rounded corners. This Android library is designed to look great and be simple to use
+*   [developingdeveloper-tech/toaster-android (⭐28)](https://github.com/developingdeveloper-tech/toaster-android) - A simple library to add custom toast to android applications.
+*   [heart-switch (⭐54)](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch component for Jetpack Compose
 
 ### Android / Frameworks
 
@@ -101,7 +101,7 @@
 
 *   [antoniolg/Bandhook-Kotlin (⭐1.9k)](https://github.com/antoniolg/Bandhook-Kotlin) - A showcase music app for Android entirely written using Kotlin language.
 *   [antoniolg/Kotlin-for-Android-Developers (⭐2.7k)](https://github.com/antoniolg/Kotlin-for-Android-Developers) - Companion App for the book "Kotlin Android Developers".
-*   [damianpetla/kotlin-dagger-example (⭐533)](https://github.com/damianpetla/kotlin-dagger-example) - Example of Android project showing integration with Kotlin and Dagger 2.
+*   [damianpetla/kotlin-dagger-example (⭐534)](https://github.com/damianpetla/kotlin-dagger-example) - Example of Android project showing integration with Kotlin and Dagger 2.
 *   [dodyg/AndroidRivers (⭐319)](https://github.com/dodyg/AndroidRivers) - RSS Readers for Android.
 *   [MakinGiants/banjen (⭐11)](https://github.com/MakinGiants/banjen) - Android app to help to tune a banjo.
 *   [inaka/kotlillon (⭐33)](https://github.com/inaka/kotlillon) - Android Kotlin Examples.
@@ -109,11 +109,11 @@
 *   [ziggy42/Blum-kotlin (⭐80)](https://github.com/ziggy42/Blum-kotlin) - A simple android Twitter client written in Kotlin
 *   [TwidereProject/Twidere-Android (⭐2.8k)](https://github.com/TwidereProject/Twidere-Android) - Material Design ready and feature rich Twitter app for Android 4.0+
 *   [SimpleMobileTools/Simple-Calendar (⭐3.4k)](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, customizable widget and no ads.
-*   [SimpleMobileTools/Simple-Camera (⭐727)](https://github.com/SimpleMobileTools/Simple-Camera) - A camera with flash, zoom and no ads.
-*   [SimpleMobileTools/Simple-Draw (⭐495)](https://github.com/SimpleMobileTools/Simple-Draw) - A canvas you can draw on with different colors.
+*   [SimpleMobileTools/Simple-Camera (⭐728)](https://github.com/SimpleMobileTools/Simple-Camera) - A camera with flash, zoom and no ads.
+*   [SimpleMobileTools/Simple-Draw (⭐496)](https://github.com/SimpleMobileTools/Simple-Draw) - A canvas you can draw on with different colors.
 *   [SimpleMobileTools/Simple-File-Manager (⭐1.4k)](https://github.com/SimpleMobileTools/Simple-File-Manager) - A simple file manager for browsing and editing files and directories.
 *   [SimpleMobileTools/Simple-Gallery (⭐3.4k)](https://github.com/SimpleMobileTools/Simple-Gallery) - A gallery for viewing photos and videos without ads.
-*   [SimpleMobileTools/Simple-Notes (⭐789)](https://github.com/SimpleMobileTools/Simple-Notes) - A simple textfield for adding quick notes without ads.
+*   [SimpleMobileTools/Simple-Notes (⭐796)](https://github.com/SimpleMobileTools/Simple-Notes) - A simple textfield for adding quick notes without ads.
 *   [ahong222/happy21 (⭐14)](https://github.com/ahong222/happy21) - A simple game of Black-Jack write with kotlin
 *   [inshiro/Kodesh (⭐12)](https://github.com/inshiro/Kodesh) - Free and open source Bible for Android
 *   [Karumi/KataScreenshotKotlin (⭐77)](https://github.com/Karumi/KataScreenshotKotlin) - An full exercise to learn how to create screenshot tests for Android
@@ -133,7 +133,7 @@
 *   [halilozel1903/KotlinTutorials (⭐106)](https://github.com/halilozel1903/KotlinTutorials) - It's a project that contains lessons and examples about Kotlin programming language.
 *   [PatilShreyas/NotyKT (⭐1.6k)](https://github.com/PatilShreyas/NotyKT) - NotyKT is a complete Kotlin-stack (Backend + Android) application built to demonstrate the use of Modern development tools with best practices implementation.
 *   [Marwa-Eltayeb/CurrencyExchange (⭐10)](https://github.com/Marwa-Eltayeb/CurrencyExchange) - Currency Exchange App that displays real-time currency rates, shows a chart for any currency pair in the world to see their currency history and provides a currency converter.
-*   [AmrDeveloper/Linkhub (⭐138)](https://github.com/AmrDeveloper/Linkhub) - Free and open source effective link management app with no ads.
+*   [AmrDeveloper/Linkhub (⭐142)](https://github.com/AmrDeveloper/Linkhub) - Free and open source effective link management app with no ads.
 
 ### Android / Extensions
 
@@ -141,7 +141,7 @@
 
 ### Android / Tools
 
-*   [Kotlin/kdoctor (⭐524)](https://github.com/Kotlin/kdoctor) - CLI tool that helps to set up the environment for Kotlin Multiplatform Mobile app development.
+*   [Kotlin/kdoctor (⭐527)](https://github.com/Kotlin/kdoctor) - CLI tool that helps to set up the environment for Kotlin Multiplatform Mobile app development.
 
 ### Kotlin JavaScript / JavaScript
 
@@ -215,7 +215,7 @@
 
 ### Tree
 
-*   [react-arborist (⭐2.6k)](https://github.com/brimdata/react-arborist) - [demo](https://react-arborist.netlify.app/) - A Full-Featured Tree View: headless, virtualized, multi-selectable, drag-n-drop, keyboard navigation, search
+*   [react-arborist (⭐2.7k)](https://github.com/brimdata/react-arborist) - [demo](https://react-arborist.netlify.app/) - A Full-Featured Tree View: headless, virtualized, multi-selectable, drag-n-drop, keyboard navigation, search
 
 ---
 

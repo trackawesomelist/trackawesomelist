@@ -84,7 +84,7 @@
 
 ### Contents / Utilities
 
-*   [pglistend (⭐26)](https://github.com/kabirbaidhya/pglistend) - A lightweight PostgresSQL `LISTEN`/`NOTIFY` daemon built on top of `node-postgres`.
+*   [pglistend (⭐27)](https://github.com/kabirbaidhya/pglistend) - A lightweight PostgresSQL `LISTEN`/`NOTIFY` daemon built on top of `node-postgres`.
 
 ---
 

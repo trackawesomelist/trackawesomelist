@@ -70,7 +70,7 @@
 
 ### Database Drivers/Clients
 
-*   [crystal-db (⭐287)](https://github.com/crystal-lang/crystal-db) - Common db api
+*   [crystal-db (⭐292)](https://github.com/crystal-lang/crystal-db) - Common db api
 
 ---
 

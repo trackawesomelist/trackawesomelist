@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 13, 2021
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,7 +26,7 @@
 
 ### Boilerplate / Mouse Events
 
-*   [cra-template-redux-auth-starter (⭐36)](https://github.com/Nilanth/cra-template-redux-auth-starter) - A Redux auth starter boilerplate for CRA.
+*   [cra-template-redux-auth-starter (⭐37)](https://github.com/Nilanth/cra-template-redux-auth-starter) - A Redux auth starter boilerplate for CRA.
 
 ### Integrations with Third Party Services / Mouse Events
 
@@ -261,18 +261,6 @@
 ### Development Projects / APIs
 
 *   [TCGdex (⭐30)](https://github.com/tcgdex/cards-database) - Multi languages Pokémon TCG API.
-
-## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Blockchain
-
-*   [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/downloads/cas/36KBMBOG) - Manav Gupta (PDF)
-*   [Getting Started with Enterprise Blockchain: A Guide to Design and Development](https://www.ibm.com/downloads/cas/RYWXAR0M) - Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk (PDF)
-*   [Playtime with Hyperledger Composer](https://schadokar.dev/ebooks/playtime-with-hyperledger-composer/) - Shubham Chadokar (PDF)
-
-### Data Science
-
-*   [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html) - Allen B. Downey
 
 ---
 

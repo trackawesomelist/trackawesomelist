@@ -155,7 +155,7 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ### Frameworks
 
-*   [abseil-cpp (⭐13k)](https://github.com/abseil/abseil-cpp) - Abseil C++ Common Libraries. \[Apache2]
+*   [abseil-cpp (⭐14k)](https://github.com/abseil/abseil-cpp) - Abseil C++ Common Libraries. \[Apache2]
 
 ### JSON
 
@@ -167,7 +167,7 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ### PDF
 
-*   [libharu (⭐1.6k)](https://github.com/libharu/libharu) - A free, cross platform, open-sourced software library for generating PDF. \[zlib]
+*   [libharu (⭐1.7k)](https://github.com/libharu/libharu) - A free, cross platform, open-sourced software library for generating PDF. \[zlib]
 *   [MuPDF](https://mupdf.com/) - A lightweight PDF, XPS, and E-book viewer. \[AGPL/Proprietary]
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)

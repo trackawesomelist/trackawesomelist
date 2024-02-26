@@ -49,7 +49,7 @@
 
 ### Modules / Various Godot versions
 
-*   [godot-luaAPI (⭐273)](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua (Godot 3.2+, 4.0).
+*   [godot-luaAPI (⭐278)](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua (Godot 3.2+, 4.0).
 
 ## [7. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 

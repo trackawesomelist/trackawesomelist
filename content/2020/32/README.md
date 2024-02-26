@@ -78,7 +78,7 @@
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
-*   [reader (⭐393)](https://github.com/lemon24/reader): a Python feed reader library and web app [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lemon24/reader)
+*   [reader (⭐397)](https://github.com/lemon24/reader): a Python feed reader library and web app [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lemon24/reader)
 
 ## [11. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -406,7 +406,7 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [react-tsparticles (⭐6.3k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
+*   [react-tsparticles (⭐6.4k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
 
 ## [32. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -457,7 +457,7 @@
 
 ### Skeleton
 
-*   [App template (⭐359)](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
+*   [App template (⭐360)](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
 
 ## [39. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -475,7 +475,7 @@
 
 ### Boilerplates / IDE
 
-*   [Terraform Generator (⭐252)](https://github.com/sudokar/generator-tf-module) - Scaffolding for a new terraform module or project with support of test frameworks (terratest and kitchen-terraform)
+*   [Terraform Generator (⭐255)](https://github.com/sudokar/generator-tf-module) - Scaffolding for a new terraform module or project with support of test frameworks (terratest and kitchen-terraform)
 
 ## [42. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 

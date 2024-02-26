@@ -155,7 +155,7 @@ Webpage: <http://www.tosci.com/>
 
 ### HTTP
 
-*   [mnemonic\_slugs (⭐23)](https://github.com/devshane/mnemonic_slugs) - A memorable, mnemonic slug generator in Elixir.
+*   [mnemonic\_slugs (⭐24)](https://github.com/devshane/mnemonic_slugs) - A memorable, mnemonic slug generator in Elixir.
 
 ### Third Party APIs
 

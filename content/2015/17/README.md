@@ -596,12 +596,12 @@ to this,
 
 ### Build Tools
 
-*   [active (⭐67)](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
+*   [active (⭐66)](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
 *   [mad (⭐172)](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
 
 ### CSV
 
-*   [csv (⭐475)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
+*   [csv (⭐479)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
 
 ### Date and Time
 
@@ -614,15 +614,15 @@ to this,
 ### Files and Directories
 
 *   [ex\_minimatch (⭐13)](https://github.com/gniquil/ex_minimatch) - Globbing paths without walking the tree!.
-*   [fs (⭐228)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
+*   [fs (⭐229)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
 
 ### Formulars
 
-*   [forms (⭐40)](https://github.com/spawnproc/forms) - Erlang Business Documents Generator.
+*   [forms (⭐39)](https://github.com/spawnproc/forms) - Erlang Business Documents Generator.
 
 ### Framework Components
 
-*   [phoenix\_live\_reload (⭐270)](https://github.com/phoenixframework/phoenix_live_reload) - Provides live-reload functionality for Phoenix.
+*   [phoenix\_live\_reload (⭐272)](https://github.com/phoenixframework/phoenix_live_reload) - Provides live-reload functionality for Phoenix.
 *   [phoenix\_pubsub\_postgres (⭐27)](https://github.com/opendrops/phoenix-pubsub-postgres) - Postgresql PubSub adapter for Phoenix apps.
 *   [phoenix\_pubsub\_rabbitmq (⭐46)](https://github.com/pma/phoenix_pubsub_rabbitmq) - RabbitMQ adapter for Phoenix's PubSub layer.
 *   [plug\_statsd (⭐49)](https://github.com/jeffweiss/plug_statsd) - A plug for automatically sending timing and count metrics to statsd.
@@ -677,7 +677,7 @@ to this,
 ### Testing
 
 *   [ecto\_it (⭐3)](https://github.com/xerions/ecto_it) - Ecto plugin with default configuration for repos for testing different ecto plugins with databases.
-*   [mix\_erlang\_tasks (⭐19)](https://github.com/alco/mix-erlang-tasks) - Common tasks for Erlang projects that use Mix.
+*   [mix\_erlang\_tasks (⭐20)](https://github.com/alco/mix-erlang-tasks) - Common tasks for Erlang projects that use Mix.
 
 ### Text and Numbers
 
@@ -687,11 +687,11 @@ to this,
 *   [expr (⭐12)](https://github.com/Rob-bie/Expr) - An Elixir library for parsing and evaluating mathematical expressions.
 *   [palette (⭐2)](https://github.com/lpil/palette) - A handy library for colouring strings in Elixir.
 *   [ref\_inspector (⭐13)](https://github.com/elixytics/ref_inspector) - Referer parser library in Elixir. Fetching info from URLs.
-*   [ua\_inspector (⭐110)](https://github.com/elixytics/ua_inspector) - User agent parser library like `piwik/device-detector`.
+*   [ua\_inspector (⭐114)](https://github.com/elixytics/ua_inspector) - User agent parser library like `piwik/device-detector`.
 
 ### Third Party APIs
 
-*   [ex\_twilio (⭐328)](https://github.com/danielberkompas/ex_twilio) - Twilio API client for Elixir.
+*   [ex\_twilio (⭐330)](https://github.com/danielberkompas/ex_twilio) - Twilio API client for Elixir.
 *   [google\_sheets (⭐39)](https://github.com/GrandCru/GoogleSheets) - Elixir library for fetching and polling Google spreadsheet data in CSV format.
 *   [mmExchangeRate (⭐0)](https://github.com/Arkar-Aung/mmExchangeRate) - A simple exchange rate checker and calculator based on Central Bank of Myanmar Api.
 *   [opbeat (⭐7)](https://github.com/teodor-pripoae/opbeat) - Elixir client for Opbeat.

@@ -10,13 +10,13 @@
 
 ### Contents / High-Availability
 
-*   [pglookout (⭐169)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
+*   [pglookout (⭐179)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
 
 ### Contents / Backups
 
 *   [Barman](https://www.pgbarman.org/index.html) - Backup and Recovery Manager for PostgreSQL by 2ndQuadrant.
 *   [pgBackRest](https://pgbackrest.org/)  - Reliable PostgreSQL Backup & Restore.
-*   [pghoard (⭐1.2k)](https://github.com/aiven/pghoard) - Backup and restore tool for cloud object stores (AWS S3, Azure, Google Cloud, OpenStack Swift).
+*   [pghoard (⭐1.3k)](https://github.com/aiven/pghoard) - Backup and restore tool for cloud object stores (AWS S3, Azure, Google Cloud, OpenStack Swift).
 
 ### Contents / GUI
 
@@ -28,7 +28,7 @@
 
 ### Contents / Extensions
 
-*   [pg\_partman (⭐1.6k)](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
+*   [pg\_partman (⭐1.8k)](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
 *   [pgTAP](https://pgtap.org/) - Database testing framework for Postgres
 
 ### Contents / Optimization
@@ -37,8 +37,8 @@
 
 ### Contents / Utilities
 
-*   [PostgREST (⭐21k)](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database.
-*   [sqitch (⭐2.6k)](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
+*   [PostgREST (⭐22k)](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database.
+*   [sqitch (⭐2.7k)](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
 
 ### Contents / Language bindings
 

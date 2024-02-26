@@ -1,18 +1,12 @@
 # Awesome List Updates on Sep 22 - Sep 28, 2014
 
-3 awesome lists updated this week.
+2 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Python](/content/vinta/awesome-python/week/README.md)
-
-### Date and Time
-
-*   [Chronyk (⭐341)](https://github.com/KoffeinFlummi/Chronyk) - A Python 3 library for parsing human-written times and dates.
-
-## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [1. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Debugging / Profiling
 
@@ -22,7 +16,7 @@
 
 *   [Mochify (⭐344)](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, PhantomJS and WebDriver.
 
-## [3. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [2. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Web Framework
 

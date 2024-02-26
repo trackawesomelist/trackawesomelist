@@ -42,7 +42,7 @@
 
 ### Software / Communication - Video Conferencing
 
-*   [Janus](https://janus.conf.meetecho.com/) - General-purpose, lightweight, minimalist WebRTC Server. ([Demo](https://janus.conf.meetecho.com/demos/), [Source Code (⭐7.6k)](https://github.com/meetecho/janus-gateway)) `GPL-3.0` `C`
+*   [Janus](https://janus.conf.meetecho.com/) - General-purpose, lightweight, minimalist WebRTC Server. ([Demo](https://janus.conf.meetecho.com/demos/), [Source Code (⭐7.7k)](https://github.com/meetecho/janus-gateway)) `GPL-3.0` `C`
 
 ### Software / Feed Readers
 
@@ -58,7 +58,7 @@
 
 ### Templates / Vanilla
 
-*   [vite-vanilla-js-template (⭐8)](https://github.com/Barata-Ribeiro/vite-vanilla-js-template) - Starter template ESlint, Prettier, PostCSS, Nesting, Autoprefixer, CSS Nano, CSS Reset.
+*   [vite-vanilla-js-template (⭐12)](https://github.com/Barata-Ribeiro/vite-vanilla-js-template) - Starter template ESlint, Prettier, PostCSS, Nesting, Autoprefixer, CSS Nano, CSS Reset.
 
 ## [7. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
@@ -336,7 +336,7 @@
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [facebookresearch/seamless\_communication (⭐9.6k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
+*   [facebookresearch/seamless\_communication (⭐9.7k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 
 ## [13. Awesome Construct](/content/ConstructCommunity/awesome-construct/README.md)
 

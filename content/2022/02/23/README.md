@@ -57,7 +57,7 @@
 ### Templates / Others
 
 *   [vit-singlefile-gzip](https://github.com/MillerRen/vite-singlefile-gzip.git) - Starter template for embedded.
-*   [11st-Starter-Kit (⭐365)](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
+*   [11st-Starter-Kit (⭐368)](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
 
 ## [6. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
@@ -92,9 +92,9 @@
 
 ### Alternative Frontends
 
-*   [Nitter (⭐9.2k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
+*   [Nitter (⭐9.4k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
     *   [Fritter (⭐1.4k)](https://github.com/jonjomckay/fritter/) - A free, open-source Nitter client for Android (feed no longer available).
-        *   *   [Squawker (⭐594)](https://github.com/j-fbriere/squawker) - An active fork of Fritter that fixes the feed.
+        *   *   [Squawker (⭐641)](https://github.com/j-fbriere/squawker) - An active fork of Fritter that fixes the feed.
 
 ## [11. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 

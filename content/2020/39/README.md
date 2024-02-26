@@ -163,7 +163,7 @@
 
 ### Audio Tools
 
-*   [Cecilia (⭐180)](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
+*   [Cecilia (⭐192)](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
 
 ## [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -329,7 +329,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 ### Tools / Community providers
 
 *   [flora (⭐23)](https://github.com/ketchoop/flora) - Terraform version manager.
-*   [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform. [Read more (⭐642)](https://github.com/antonbabenko/serverless.tf).
+*   [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform. [Read more (⭐653)](https://github.com/antonbabenko/serverless.tf).
 *   [terraspace](https://terraspace.cloud) - The Terraform Framework
 
 ## [32. Awesome V](/content/vlang/awesome-v/week/README.md)
@@ -342,12 +342,12 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Utilities
 
-*   [Nigiri (⭐238)](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
-*   [hal (⭐135)](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
+*   [Nigiri (⭐245)](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
+*   [hal (⭐140)](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
 
 ### Blockchain API and Web services
 
-*   [Esplora (⭐858)](https://github.com/Blockstream/esplora) - Self-hosted blockchain explorer.
+*   [Esplora (⭐882)](https://github.com/Blockstream/esplora) - Self-hosted blockchain explorer.
 
 ### Blockchain Explorers
 
@@ -355,7 +355,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Full nodes
 
-*   [btcd (⭐5.6k)](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.
+*   [btcd (⭐5.7k)](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.
 
 ## [34. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -414,13 +414,13 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 ### Development tools / IDEs
 
 *   [Kakoune](http://kakoune.org/)
-    *   [kak-lsp/kak-lsp (⭐558)](https://github.com/kak-lsp/kak-lsp/) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
+    *   [kakoune-lsp (⭐562)](https://github.com/kakoune-lsp/kakoune-lsp/) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
 
 ## [38. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
-*   💼 [Leading Trim (⭐77)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize (⭐1.3k)](https://github.com/seek-oss/capsize).
+*   💼 [Leading Trim (⭐80)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize (⭐1.4k)](https://github.com/seek-oss/capsize).
 
 ## [39. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -430,26 +430,13 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ## [40. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
-### Code Analysis
-
-*   Static Type Annotations Generators
-    *   [MonkeyType (⭐4.3k)](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
-    *   [pytype (⭐4.3k)](https://github.com/google/pytype) - Pytype checks and infers types for Python code - without requiring type annotations.
-
 ### GraphQL
 
-*   [graphene (⭐7.7k)](https://github.com/graphql-python/graphene/) - GraphQL framework for Python.
+*   [graphene (⭐7.9k)](https://github.com/graphql-python/graphene/) - GraphQL framework for Python.
 
 ### Shell
 
-*   [xonsh (⭐7.1k)](https://github.com/xonsh/xonsh/) - A Python-powered, cross-platform, Unix-gazing shell language and command prompt.
-
-### Websites
-
-*   Others
-    *   [Python ZEEF](https://python.zeef.com/alan.richmond)
-    *   [Pythonic News](https://news.python.sc/)
-    *   [What the f\*ck Python! (⭐33k)](https://github.com/satwikkansal/wtfpython)
+*   [xonsh (⭐7.8k)](https://github.com/xonsh/xonsh/) - A Python-powered, cross-platform, Unix-gazing shell language and command prompt.
 
 ## [41. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -623,7 +610,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Buttons
 
-*   [reactive-button (⭐121)](https://github.com/arifszn/reactive-button) - [demo](https://arifszn.github.io/reactive-button/docs/playground) - [docs](https://arifszn.github.io/reactive-button) - A beautiful animated button component with progress indicator.
+*   [reactive-button (⭐122)](https://github.com/arifszn/reactive-button) - [demo](https://arifszn.github.io/reactive-button/docs/playground) - [docs](https://arifszn.github.io/reactive-button) - A beautiful animated button component with progress indicator.
 
 ## [56. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
@@ -698,10 +685,10 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Notifications
 
-*   [Noticed (⭐2.1k)](https://github.com/excid3/noticed) - ActionMailer-like Notification System for your Ruby on Rails app.
-*   [Ruby Push Notifications (⭐401)](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
+*   [Noticed (⭐2.2k)](https://github.com/excid3/noticed) - ActionMailer-like Notification System for your Ruby on Rails app.
+*   [Ruby Push Notifications (⭐400)](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
 *   [Rpush (⭐2.2k)](https://github.com/rpush/rpush) - The push notification service for Ruby which supports Apple Push Notification Service, Google Cloud Messaging, Amazon Device Messaging and Windows Phone Push Notification Service.
-*   [webpush (⭐380)](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol.
+*   [webpush (⭐383)](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol.
 
 ## [63. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Logging
 
-*   [Ougai (⭐255)](https://github.com/tilfin/ougai) - A structured logging system that is capable of handling a message, structured data, or an exception easily. It has JSON and human-readable formatters.
+*   [Ougai (⭐258)](https://github.com/tilfin/ougai) - A structured logging system that is capable of handling a message, structured data, or an exception easily. It has JSON and human-readable formatters.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -52,11 +52,11 @@
 
 ### Loader
 
-*   [react-loader-spinner (⭐907)](https://github.com/mhnpd/react-loader-spinner) - Collection set of react-spinner for async operation.
+*   [react-loader-spinner (⭐910)](https://github.com/mhnpd/react-loader-spinner) - Collection set of react-spinner for async operation.
 
 ### Form Components / Miscellaneous
 
-*   [@anatoliygatt/numeric-stepper (⭐156)](https://github.com/anatoliygatt/numeric-stepper) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-numeric-stepper-mllfyl) - A fully themeable and accessible numeric stepper component.
+*   [@anatoliygatt/numeric-stepper (⭐158)](https://github.com/anatoliygatt/numeric-stepper) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-numeric-stepper-mllfyl) - A fully themeable and accessible numeric stepper component.
 
 ### Data Store / Mouse Events
 

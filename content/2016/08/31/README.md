@@ -38,7 +38,7 @@
 
 ### Utilities
 
-*   [retry (⭐428)](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
+*   [retry (⭐429)](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
 
 ### Video
 

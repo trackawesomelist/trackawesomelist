@@ -119,7 +119,7 @@
 
 ### Table of Contents / URL
 
-*   [sabre/uri (⭐285)](https://github.com/sabre-io/uri) - A functional URI manipulation library.
+*   [sabre/uri (⭐286)](https://github.com/sabre-io/uri) - A functional URI manipulation library.
 
 ## [11. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -381,11 +381,11 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐95)](https://g
 
 ### Geolocation
 
-*   [geocoder (⭐115)](https://github.com/knrz/geocoder) - A simple, efficient geocoder/reverse geocoder with a built-in cache.
+*   [geocoder (⭐118)](https://github.com/knrz/geocoder) - A simple, efficient geocoder/reverse geocoder with a built-in cache.
 
 ### Testing
 
-*   [mockery (⭐89)](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
+*   [mockery (⭐90)](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
 
 ## [37. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
@@ -476,7 +476,7 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐95)](https://g
 
 ### Multimedia
 
-*   [MediaInfoLib (⭐577)](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files. \[BSD]
+*   [MediaInfoLib (⭐581)](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files. \[BSD]
 
 ## [46. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 

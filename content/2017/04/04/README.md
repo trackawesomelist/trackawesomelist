@@ -99,11 +99,11 @@ $ git config --global merge.tool meld
 
 ### Command Line Applications
 
-*   [tabula (⭐89)](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
+*   [tabula (⭐90)](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
 
 ### Testing
 
-*   [double (⭐45)](https://github.com/sonerdy/double) - Create stub dependencies for testing without overwriting global modules.
+*   [double (⭐47)](https://github.com/sonerdy/double) - Create stub dependencies for testing without overwriting global modules.
 
 ### Utilities
 

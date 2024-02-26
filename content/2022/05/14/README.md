@@ -10,7 +10,7 @@
 
 ### Software / Automation
 
-*   [Eonza](https://www.eonza.org) - Eonza is used to create scripts and automate tasks on servers or VPS hosting. Manage your servers from any browser on any device. ([Source Code (⭐136)](https://github.com/gentee/eonza)) `MIT` `Go`
+*   [Eonza](https://www.eonza.org) - Eonza is used to create scripts and automate tasks on servers or VPS hosting. Manage your servers from any browser on any device. ([Source Code (⭐140)](https://github.com/gentee/eonza)) `MIT` `Go`
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

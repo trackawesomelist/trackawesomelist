@@ -324,7 +324,7 @@
 
 ### GUI
 
-*   [nuklear (⭐8.2k)](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C gui library. \[PublicDomain]
+*   [nuklear (⭐8.3k)](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C gui library. \[PublicDomain]
 
 ### Build Systems
 
@@ -417,12 +417,12 @@
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [visidata (⭐6.9k)](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for exploring and arranging data (csv/json/xml/xls/yaml/etc)
+*   [visidata (⭐7.3k)](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for exploring and arranging data (csv/json/xml/xls/yaml/etc)
 
 ### Applications / Directory Navigation
 
-*   [nomino (⭐527)](https://github.com/yaa110/nomino) - Batch rename utility using regex, sort and map file options.
-*   [pockyt (⭐491)](https://github.com/achembarpu/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
+*   [nomino (⭐534)](https://github.com/yaa110/nomino) - Batch rename utility using regex, sort and map file options.
+*   [pockyt (⭐490)](https://github.com/achembarpu/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 
 ## [27. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -443,7 +443,7 @@
 
 ### Encryption / Audio Record and Process
 
-*   [Deadbolt (⭐318)](https://github.com/alichtman/deadbolt) - The easiest file encryption tool you'll ever use. macOS-compatible, and open-source so you can trust it. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alichtman/deadbolt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Deadbolt (⭐320)](https://github.com/alichtman/deadbolt) - The easiest file encryption tool you'll ever use. macOS-compatible, and open-source so you can trust it. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alichtman/deadbolt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [29. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -2346,7 +2346,7 @@ Free
 
 ### Software / Software Development - IDE & Tools
 
-*   [Hakatime (⭐545)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
+*   [Hakatime (⭐554)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
 
 ## [54. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
@@ -2386,41 +2386,41 @@ Free
 
 ### Programming Languages
 
-*   [Python (⭐190k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
+*   [Python (⭐197k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
     *   [Asyncio (⭐4.3k)](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
     *   [Scientific Audio (⭐1.5k)](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
-    *   [CircuitPython (⭐581)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
+    *   [CircuitPython (⭐590)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
     *   [Data Science (⭐2.2k)](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
     *   [Typing (⭐1.5k)](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
     *   [MicroPython (⭐1.1k)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
 
 ### Front-End Development
 
-*   [Preact (⭐828)](https://github.com/preactjs/awesome-preact#readme) - App framework.
-*   [Web Performance Budget (⭐100)](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
+*   [Preact (⭐840)](https://github.com/preactjs/awesome-preact#readme) - App framework.
+*   [Web Performance Budget (⭐102)](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
 
 ### Computer Science
 
-*   [Static Analysis & Code Quality (⭐12k)](https://github.com/analysis-tools-dev/static-analysis#readme)
+*   [Static Analysis & Code Quality (⭐13k)](https://github.com/analysis-tools-dev/static-analysis#readme)
 
 ### Learn
 
-*   [Educational Games (⭐776)](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
+*   [Educational Games (⭐789)](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
 
 ### Hardware
 
-*   [Bluetooth Beacons (⭐875)](https://github.com/rabschi/awesome-beacon#readme)
-*   [Plotters (⭐933)](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
+*   [Bluetooth Beacons (⭐878)](https://github.com/rabschi/awesome-beacon#readme)
+*   [Plotters (⭐962)](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
 
 ### Decentralized Systems
 
-*   [Ethereum (⭐284)](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
+*   [Ethereum (⭐288)](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
 
 ### Miscellaneous
 
 *   [Continuous Integration and Continuous Delivery (⭐1.7k)](https://github.com/cicdops/awesome-ciandcd#readme)
-*   [Self Hosted (⭐160k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
-*   [Homematic (⭐179)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
+*   [Self Hosted (⭐169k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
+*   [Homematic (⭐181)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
 
 ## [57. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
@@ -2454,16 +2454,16 @@ Free
 ### Table of Contents / Micro Frameworks
 
 *   [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
-*   [Silly (⭐891)](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
+*   [Silly (⭐892)](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
 
 ### Table of Contents / HTTP
 
 *   [Nyholm PSR-7 (⭐1.1k)](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation. Very strict and very fast.
-*   [Laminas Diactoros (⭐420)](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
+*   [Laminas Diactoros (⭐424)](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
 
 ### Table of Contents / Middlewares
 
-*   [PSR-7 Middlewares (⭐668)](https://github.com/oscarotero/psr7-middlewares) - Inspiring collection of handy middlewares.
+*   [PSR-7 Middlewares (⭐669)](https://github.com/oscarotero/psr7-middlewares) - Inspiring collection of handy middlewares.
 *   [Stack](https://github.com/stackphp) - A library of stackable middleware for Symfony.
 *   [Laminas Stratigility (⭐53)](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
 
@@ -2489,7 +2489,7 @@ Free
 
 ### Table of Contents / Documentation
 
-*   [daux.io (⭐773)](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
+*   [daux.io (⭐774)](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
 
 ### Table of Contents / Event
 
@@ -2520,7 +2520,7 @@ Free
 ### Table of Contents / Caching and Locking
 
 *   [CakePHP Cache (⭐51)](https://github.com/cakephp/cache) - A caching library.
-*   [Laminas Cache (⭐88)](https://github.com/laminas/laminas-cache) - Another caching library.
+*   [Laminas Cache (⭐89)](https://github.com/laminas/laminas-cache) - Another caching library.
 
 ### Table of Contents / Data Structure and Storage
 
@@ -2533,7 +2533,7 @@ Free
 
 ### Configuration / Serverless
 
-*   [Yo! Symfony TOML (⭐189)](https://github.com/yosymfony/toml) - A PHP parser for [TOML (⭐19k)](https://github.com/toml-lang/toml).
+*   [Yo! Symfony TOML (⭐190)](https://github.com/yosymfony/toml) - A PHP parser for [TOML (⭐19k)](https://github.com/toml-lang/toml).
 
 ### Configuration / PHP Installation
 

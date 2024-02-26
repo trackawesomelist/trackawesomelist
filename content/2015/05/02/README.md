@@ -20,7 +20,7 @@ Mentions many ways to make `/dev/urandom` fail on Linux/BSD.
 
 ### Machine Learning
 
-*   [MeTA (⭐679)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
+*   [MeTA (⭐680)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
 
 ## [3. Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md)
 

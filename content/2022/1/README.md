@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 03 - Jan 09, 2022
 
-65 awesome lists updated this week.
+64 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -139,7 +139,7 @@
 
 ### Other plugins
 
-*   [Data Storage SQlite (⭐71)](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexedDB for the Web platform.
+*   [Data Storage SQlite (⭐73)](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexedDB for the Web platform.
 
 ## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -179,7 +179,7 @@
 
 ### Showcases
 
-*   [Demo.Playwright (⭐205)](https://github.com/MarcusFelling/Demo.Playwright) - Various testing scenarios with Playwright, using the official test-runner and scripts authored in TypeScript.
+*   [Demo.Playwright (⭐215)](https://github.com/MarcusFelling/Demo.Playwright) - Various testing scenarios with Playwright, using the official test-runner and scripts authored in TypeScript.
 
 ## [18. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
@@ -202,13 +202,7 @@
 
 *   [M.academy](https://m.academy/) - The simplest way to learn Magento 2 & Adobe Commerce, with video lessons & courses
 
-## [20. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Software Architecture
-
-*   [Domain-Driven Design Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans
-
-## [21. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [20. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Angular UI libraries:
 
@@ -218,13 +212,13 @@
 
 
 
-## [22. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [21. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Books
 
 *   [Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098/) \[Sample chapter titled [CPUs](http://ptgmedia.pearsoncmg.com/images/9780133390094/samplepages/0133390098.pdf)
 
-## [23. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [22. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -234,13 +228,13 @@
 
 *   [consoleau/kassava (⭐113)](https://github.com/consoleau/kassava) - This library provides some useful kotlin extension functions for implementing toString() and equals() without all of the boilerplate.
 
-## [24. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [23. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Overlays / Webinterface
 
 *   [nixpkgs-firefox-darwin (⭐32)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
 
-## [25. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [24. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Projects
 
@@ -302,7 +296,7 @@
 *   [Awesome Open Electronics (⭐482)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
 *   [Awesome Open (⭐75)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
 
-## [26. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [25. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -318,19 +312,19 @@
 *   [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
 *   [Working Nomads](https://www.workingnomads.co/jobs)
 
-## [27. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [26. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Analytics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Swetrix](https://swetrix.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/swetrix/swetrix-js) - Privacy-oriented highly customisable & selfhostable analytics service.
 
-## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Database Drivers
 
 *   [Stowage (⭐151)](https://github.com/aloneguid/stowage) - Bloat-free zero dependency .NET cloud storage kit that supports at minimum THE major cloud providers.
 
-## [29. Inspire](/content/noahbuscher/inspire/week/README.md)
+## [28. Inspire](/content/noahbuscher/inspire/week/README.md)
 
 ### Concept / These sites are good to get a general idea of possible layouts and style paths to take.
 
@@ -406,37 +400,37 @@
 *   [Insert HTML](http://www.inserthtml.com) - A blog covering current and upcoming techniques and technologies for web developers.
 *   [Smashing Magazine](http://www.smashingmagazine.com) - A magazine for all things digital design.
 
-## [30. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [29. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Main National Search Engines
 
 *   [Najdi.si (Slovenia)](http://www.najdi.si/)
 
-## [31. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
+## [30. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
 ### YouTube / Uncategorized
 
 *   [R Programming 101](https://www.youtube.com/c/RProgramming101/featured) - This channel provides teaching videos on data analysis and statistical analysis using R programming. The teaching videos include subjects like data cleaning, data manipulation, data visualization, statistical analysis, and machine learning and AI (artificial intelligence).
 
-## [32. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [31. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Video Production
 
 *   [QPrompt Teleprompter App](https://qprompt.app) - Convergent teleprompter software that works with studio teleprompters, tablet teleprompters, webcams, and phones.
 
-## [33. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [32. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### See Also / Books
 
 *   [awesome-small-molecule-ml (⭐101)](https://github.com/benb111/awesome-small-molecule-ml) - A list of papers, data sets, and other resources for machine learning for small-molecule drug discovery.
 
-## [34. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [33. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Tools
 
 *   [Blink Comparison (⭐217)](https://github.com/proninyaroslav/blink-comparison) - Simplifies comparing photos of tamper-evident seals and patterns using your eyes by [Yaroslav Pronin](https://github.com/proninyaroslav)
 
-## [35. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [34. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Official
 
@@ -446,38 +440,38 @@
 
 *   [eosnetworkfoundation/mandel (⭐88)](https://github.com/eosnetworkfoundation/mandel) - Official GitHub.
 
-## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Chemistry
 
 *   [MADNESS (⭐166)](https://github.com/m-a-d-n-e-s-s/madness) - Multiresolution Adaptive Numerical Environment for Scientific Simulation. \[GPL] [website (⭐166)](https://github.com/m-a-d-n-e-s-s/madness)
 *   [MPQC (⭐63)](https://github.com/ValeevGroup/mpqc) - The Massively Parallel Quantum Chemistry program, MPQC, computes properties of atoms and molecules from first principles using the time independent Schrödinger equation. \[GPL] [website](https://mpqc.org/)
 *   [ORCA](https://en.wikipedia.org/wiki/ORCA_\(quantum_chemistry_program\)) - An ab initio quantum chemistry program package that contains modern electronic structure methods. \[Academic] [website](https://orcaforum.kofo.mpg.de/)
-*   [Psi (⭐881)](https://github.com/psi4/psi4) - An ab initio computational chemistry package. \[GPL] [website](https://psicode.org/)
+*   [Psi (⭐889)](https://github.com/psi4/psi4) - An ab initio computational chemistry package. \[GPL] [website](https://psicode.org/)
 
 ### Debug
 
 *   [VLD](https://kinddragon.github.io/vld//) - Visual Leak Detector. A free, robust, open-source memory leak detection system for Visual C++.
 
-## [37. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [36. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Tools / Automatic translation for end users
 
 *   [Watson Language Translator](https://www.ibm.com/cloud/watson-language-translator) - A service on the IBM Cloud that enables dynamically translation news, patents, or conversational documents.
 
-## [38. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [37. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / WARC I/O Libraries
 
 *   [Unwarcit (⭐5)](https://github.com/emmadickson/unwarcit) - Command line interface to unzip WARC and WACZ files (Python).
 
-## [39. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [38. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Automation
 
 *   [Automate.io](https://automate.io) - Connect your cloud apps.
 
-## [40. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+## [39. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Specific topics / Cryptanalysis
 
@@ -492,7 +486,7 @@
 
 *   [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/) - By Dan Boneh and Victor Shoup. A well-balanced introductory course into cryptography, a bit of cryptanalysis and cryptography-related security.
 
-## [41. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [40. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Algorithms / Semantic segmentation
 
@@ -504,13 +498,13 @@
 
 *   [Awesome electronics :octocat: (⭐5.2k)](https://github.com/kitspace/awesome-electronics#readme)
 
-## [42. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [41. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### 2FA
 
 *   Authy
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Aegis](https://getaegis.app/) - A free, secure and open source app for Android to manage your 2-step verification tokens. Supports variety of imports from other apps (Google Authenticator, Authy etc.), vault encryption and exporting keys (plaintext or encrypted).
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [FreeOTPPlus (⭐573)](https://github.com/helloworld1/FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [FreeOTPPlus (⭐578)](https://github.com/helloworld1/FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Authenticator Pro (⭐2.3k)](https://github.com/jamie-mh/AuthenticatorPro) - Two-Factor Authentication (2FA) client for Android + Wear OS.
 
 ### Analytics
@@ -526,9 +520,9 @@
 ### Android App Store
 
 *   [F-Droid](https://f-droid.org/) - F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
-    *   [Droid-ify (⭐2.4k)](https://github.com/Iamlooker/Droid-ify) - Lightweight F-Droid client with Material UI.
+    *   [Droid-ify (⭐2.5k)](https://github.com/Iamlooker/Droid-ify) - Lightweight F-Droid client with Material UI.
     *   [Aurora Droid](https://auroraoss.com/download/#aurora-droid) - Aurora Droid is a modern FOSS client for F-Droid.
-    *   [Foxy Droid (⭐465)](https://github.com/kitsunyan/foxy-droid) - Unofficial F-Droid client in the style of the classic one.
+    *   [Foxy Droid (⭐472)](https://github.com/kitsunyan/foxy-droid) - Unofficial F-Droid client in the style of the classic one.
 *   [FossDroid](https://fossdroid.com/) - Fossdroid's aim is to promote free and open source apps on the Android platform: newest, trendiest and the most popular ones.
 *   [SkyDroid](https://skydroid.app/) - Decentralized App Store for Android
 
@@ -538,12 +532,12 @@
 
 ### Android Dialer
 
-*   [Koler (⭐893)](https://github.com/Chooloo/koler) - Uniquely stylized phone app with customizable features.
+*   [Koler (⭐898)](https://github.com/Chooloo/koler) - Uniquely stylized phone app with customizable features.
 
 ### Android File Manager
 
-*   [Amaze File Manager (⭐4.9k)](https://github.com/TeamAmaze/AmazeFileManager) - Simple and attractive Material Design file manager for Android.
-*   [Material Files (⭐4.5k)](https://github.com/zhanghai/MaterialFiles) - An open source Material Design file manager, for Android 5.0+.
+*   [Amaze File Manager (⭐5k)](https://github.com/TeamAmaze/AmazeFileManager) - Simple and attractive Material Design file manager for Android.
+*   [Material Files (⭐4.6k)](https://github.com/zhanghai/MaterialFiles) - An open source Material Design file manager, for Android 5.0+.
 *   [Ghost Commander](https://f-droid.org/packages/com.ghostsq.commander/) - Dual-panel file manager.
 
 ### Android Keyboard
@@ -551,16 +545,16 @@
 *   [FlorisBoard (⭐5k)](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
 *   [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - The only Android keyboard you'll ever need. Free as in speech and Free as in beer.
 *   [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indic Keyboard is a versatile keyboard for Android users who wish to use Indic and Indian languages to type messages, compose emails and generally prefer to use them in addition to English on their phone.
-*   [Simple Keyboard (⭐901)](https://github.com/rkkr/simple-keyboard) - Simply keyboard and nothing more.
+*   [Simple Keyboard (⭐910)](https://github.com/rkkr/simple-keyboard) - Simply keyboard and nothing more.
 
 ### Android Launcher
 
 *   [Lawnchair](https://lawnchair.app/) - No clever tagline needed.
 *   [OpenLauncher (⭐1.4k)](https://github.com/OpenLauncherTeam/openlauncher) - Customizable and Open Source Launcher for Android.
 *   [KISS](https://kisslauncher.com/) - Lightning fast, open-source, < 200kb Android launcher.
-*   [Olauncher (⭐1.4k)](https://github.com/tanujnotes/Olauncher) - Minimal AF (ad-free) launcher app for Android.
+*   [Olauncher (⭐1.5k)](https://github.com/tanujnotes/Olauncher) - Minimal AF (ad-free) launcher app for Android.
 *   [Posidon Launcher](https://posidon.io/launcher) - Posidon launcher is a minimal, one page homescreen with a vertical scrolling feed.
-*   [Pie Launcher (⭐190)](https://github.com/markusfisch/PieLauncher) - Android home screen launcher that uses a dynamic pie menu instead of fixed positioned icons.
+*   [Pie Launcher (⭐199)](https://github.com/markusfisch/PieLauncher) - Android home screen launcher that uses a dynamic pie menu instead of fixed positioned icons.
 *   [Rootless Pixel Launcher (⭐3.8k)](https://github.com/amirzaidi/Launcher3) - The Launcher3 fork known as "Rootless Pixel Launcher".
 
 ### Captchas
@@ -570,8 +564,8 @@
 ### Images
 
 *   [Fawkes (⭐5.1k)](https://github.com/Shawn-Shan/fawkes) - privacy preserving tool against facial recognition systems.
-    *   [CloakMe (⭐58)](https://github.com/pluja/CloakMe) - Web interface for Fawkes algorithm.
-*   [ImageScrubber (⭐902)](https://github.com/everestpipkin/image-scrubber) - A friendly browser-based tool for anonymizing photographs taken at protests ([hosted version provided by everestpipkin](https://everestpipkin.github.io/image-scrubber/)).
+    *   [CloakMe (⭐60)](https://github.com/pluja/CloakMe) - Web interface for Fawkes algorithm.
+*   [ImageScrubber (⭐907)](https://github.com/everestpipkin/image-scrubber) - A friendly browser-based tool for anonymizing photographs taken at protests ([hosted version provided by everestpipkin](https://everestpipkin.github.io/image-scrubber/)).
 
 ### Cloud Storage
 
@@ -595,8 +589,8 @@
 
 *   [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor.
 *   [Inkscape](https://inkscape.org/) - Inkscape is a free and open-source vector graphics editor used to create vector images.
-*   [Krita (⭐6.3k)](https://github.com/KDE/krita) - Krita is a free and open source digital painting application
-*   [Czkawka (⭐14k)](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates and similar images etc.
+*   [Krita (⭐6.4k)](https://github.com/KDE/krita) - Krita is a free and open source digital painting application
+*   [Czkawka (⭐15k)](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates and similar images etc.
 
 ### Domain Registrar
 
@@ -608,8 +602,8 @@
 *   [Persepolis Download Manager (⭐5.9k)](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager & a GUI for Aria2. It's written in Python. Persepolis is a sample of free and open source software. It's developed for GNU/Linux distributions, BSDs, MacOS, and Microsoft Windows.
 *   [uGet Download Manager](https://ugetdm.com/) - uGet is a lightweight yet powerful Open Source download manager for GNU/Linux developed with GTK+, which also comes packaged as a portable Windows app. It is also available for Android.
 *   [Motrix (⭐42k)](https://github.com/agalwood/Motrix) - A full-featured download manager.
-*   [Xtreme Download Manager (⭐6k)](https://github.com/subhra74/xdm) - Xtreme Download Manager (XDM) is a powerful tool to increase download speeds up to 500%, save streaming videos from YouTube, DailyMotion, Facebook, Vimeo, Google Video and 1000+ other websites, resume broken/dead downloads, schedule and convert downloads.
-*   [axel (⭐2.7k)](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator. It supports HTTP, HTTPS, FTP and FTPS protocols.
+*   [Xtreme Download Manager (⭐6.1k)](https://github.com/subhra74/xdm) - Xtreme Download Manager (XDM) is a powerful tool to increase download speeds up to 500%, save streaming videos from YouTube, DailyMotion, Facebook, Vimeo, Google Video and 1000+ other websites, resume broken/dead downloads, schedule and convert downloads.
+*   [axel (⭐2.8k)](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator. It supports HTTP, HTTPS, FTP and FTPS protocols.
 
 ### File Management and Sharing
 
@@ -618,7 +612,7 @@
 ### Fitness trackers
 
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Fitotrack](https://codeberg.org/jannis/FitoTrack) - A privacy oriented fitness tracker for Android.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [OpenTracks (⭐852)](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [OpenTracks (⭐858)](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
 
 ### Workout planners
 
@@ -686,7 +680,7 @@
 ### Android
 
 *   [DivestOS](https://divestos.org) - LineageOS fork with increased security and privacy.
-*   [Pocket Paint (⭐317)](https://github.com/Catrobat/Paintroid) - The standard image manipulation app for Catroid.
+*   [Pocket Paint (⭐321)](https://github.com/Catrobat/Paintroid) - The standard image manipulation app for Catroid.
 *   [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) - Remove Exif data from pictures before sharing them.
 *   [ImagePipe](https://codeberg.org/Starfish/Imagepipe) - Reduces image size and removes exif-tags when sharing images on android devices.
 
@@ -708,7 +702,7 @@
 
 ### Web
 
-*   [miniPaint (⭐2.3k)](https://github.com/viliusle/miniPaint) - Open Source alternative to Photopea. miniPaint operates directly in the browser. Nothing will be sent to any server. Everything stays in your browser.
+*   [miniPaint (⭐2.4k)](https://github.com/viliusle/miniPaint) - Open Source alternative to Photopea. miniPaint operates directly in the browser. Nothing will be sent to any server. Everything stays in your browser.
 
 ### Local
 
@@ -742,7 +736,7 @@
 ### Search Engines
 
 *   Bing
-*   [Whoogle Search (⭐8.4k)](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine.
+*   [Whoogle Search (⭐8.5k)](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine.
 *   [DuckDuckGo](https://duckduckgo.com) - A privacy respecting search engine.
 
 ### YouTube
@@ -762,13 +756,12 @@
 
 *   [Aether](https://getaether.net/) - Peer-to-peer ephemeral public communities.
 *   [SaidIt](https://saidit.net/) - Open source Reddit clone.
-*   [Teddit](https://teddit.net/) - Alternative Reddit front-end focused on privacy
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Infinity (⭐3.8k)](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A beautiful Reddit client for Android.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/apple.png"> <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Slide (⭐1.8k)](https://github.com/ccrama/Slide) - Slide is an open sourced, ad free Reddit browser for Android and iOS.
 
 ### Streaming Platforms (Twitch)
 
-*   [Owncast (⭐8.6k)](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself. Streaming + chat out of the box.
+*   [Owncast (⭐8.7k)](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself. Streaming + chat out of the box.
 *   [livego (⭐9.4k)](https://github.com/gwuhaolin/livego) - Live video streaming server in golang.
 
 ### Teamworking Tools
@@ -822,7 +815,7 @@
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Bromite WebView](https://www.bromite.org/system_web_view) - Bromite WebView is a version of Android System WebView with support for ad blocking and enhanced privacy.
     *   [WebView Switcher](https://github.com/Magisk-Modules-Repo/bromitewebview) - A tool for installing Bromite WebView on android 10
 
-## [43. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/week/README.md)
+## [42. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/week/README.md)
 
 ### Conversational UX
 
@@ -833,7 +826,7 @@
 
 *   [Chai](https://chai.ml/) - Open-source platform for developers to build chatbots using Python and deploy them to the Chai mobile app.
 
-## [44. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [43. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Proprietary (non-standard) vendor APIs
 
@@ -847,43 +840,43 @@
 
 *   [combine\_gtfs\_feeds (⭐4)](https://github.com/psrc/combine_gtfs_feeds) - A Python tool to combine multiple gtfs feeds into one feed/dataset.
 
-## [45. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [44. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Remote / Aggregator
 
 *   [TheRemoteWork](https://theremotework.co/)
 
-## [46. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [45. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Responsive / Syntax Highlight
 
-*   [CoreUI for React (⭐636)](https://github.com/coreui/coreui-react) - [demo/docs](https://coreui.io/react) - Open Source UI components library.
+*   [CoreUI for React (⭐635)](https://github.com/coreui/coreui-react) - [demo/docs](https://coreui.io/react) - Open Source UI components library.
 
-## [47. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [46. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Helpers
 
 *   [hump (⭐66)](https://github.com/HDictus/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras).
 
-## [48. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [47. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Forms / Really Simple Forms
 
 *   [HeyForm](https://heyform.net/) - Free, easy-to-use drag & drop form maker capable of crafting powerful online forms. Includes 40+ field types, integrations, analytics, and more.
 
-## [49. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [48. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Art
 
 *   [Obscura](https://obscura.world/) - Float around and explore a structure inspired by the architecture of Carlo Scarpa.
 
-## [50. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [49. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Secrets Management / Ansible
 
 *   [Keyscope (⭐369)](https://github.com/SpectralOps/keyscope) - *Spectral* - Keyscope is an open source key and secret workflow tool (validation, invalidation, etc.) built in Rust.
 
-## [51. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [50. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
@@ -893,7 +886,7 @@
 
 *   [tmux-mouse-swipe (⭐10)](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
 
-## [52. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [51. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Entertainment
 
@@ -937,7 +930,7 @@
 
 
 
-## [53. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [52. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Generative Model
 
@@ -952,35 +945,35 @@
 
 *   [Thoughts beyond words: When language overshadows insight](https://psycnet.apa.org/record/1993-36184-001) - ***Journal of Experimental Psychology***, 1993. \[[All Versions](https://scholar.google.com/scholar?cluster=13773440938721955384\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 
-## [54. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [53. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   📚 [Svelte Headless UI (⭐1.7k)](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of Headless UI.
 
-## [55. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [54. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Testing
 
 *   Code Coverage
-    *   [tarpaulin](https://crates.io/crates/cargo-tarpaulin) — A code coverage tool designed for Rust
+    *   [tarpaulin](https://crates.io/crates/cargo-tarpaulin) — A code coverage tool
 *   Continuous Integration
     *   [trust (⭐1.2k)](https://github.com/japaric/trust) — A Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows
 *   Frameworks and Runners
     *   [AlKass/polish (⭐53)](https://github.com/AlKass/polish) — Mini Testing/Test-Driven Framework [![Crates Package Status](https://img.shields.io/crates/v/polish.svg)](https://crates.io/crates/polish)
     *   [cargo-dinghy](https://crates.io/crates/cargo-dinghy/) - A cargo extension to simplify running library tests and benches on smartphones and other small processor devices.
     *   [cucumber](https://crates.io/crates/cucumber) [![Latest Version](https://img.shields.io/crates/v/cucumber.svg)](https://crates.io/crates/cucumber) — An implementation of the Cucumber testing framework for Rust. Fully native, no external test runners or dependencies. [![Build Status](https://github.com/cucumber-rs/cucumber/workflows/CI/badge.svg?branch=master)](https://github.com/cucumber-rs/cucumber)
-    *   [d-e-s-o/test-log (⭐88)](https://github.com/d-e-s-o/test-log) \[[test-log](https://crates.io/crates/test-log)] — A replacement of the `#[test]` attribute that initializes logging and/or tracing infrastructure before running tests. [![GitHub Workflow Status](https://github.com/d-e-s-o/test-log/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/d-e-s-o/test-log/actions/workflows/test.yml)
+    *   [d-e-s-o/test-log (⭐87)](https://github.com/d-e-s-o/test-log) \[[test-log](https://crates.io/crates/test-log)] — A replacement of the `#[test]` attribute that initializes logging and/or tracing infrastructure before running tests. [![GitHub Workflow Status](https://github.com/d-e-s-o/test-log/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/d-e-s-o/test-log/actions/workflows/test.yml)
     *   [demonstrate](https://crates.io/crates/demonstrate) — Declarative Testing Framework [![Build Status](https://github.com/aubaugh/demonstrate/workflows/Continuous%20Integration/badge.svg?branch=master)](https://github.com/aubaugh/demonstrate)
     *   [GoogleTest Rust](https://crates.io/crates/googletest) — Powerful test assertion framework based on the C++ test library GoogleTest [![Build Status](https://github.com/google/googletest-rust/workflows/CI/badge.svg)](https://github.com/google/googletest-rust/actions?query=workflow%3ACI+branch%3Amain)
-    *   [rstest](https://crates.io/crates/rstest) — Fixture-based test framework for Rust [![Build Status](https://github.com/la10736/rstest/workflows/Test/badge.svg?branch=master)](https://github.com/la10736/rstest/actions)
-    *   [speculate](https://crates.io/crates/speculate) — An RSpec inspired minimal testing framework for Rust
+    *   [rstest](https://crates.io/crates/rstest) — Fixture-based test framework [![Build Status](https://github.com/la10736/rstest/workflows/Test/badge.svg?branch=master)](https://github.com/la10736/rstest/actions)
+    *   [speculate](https://crates.io/crates/speculate) — An RSpec inspired minimal testing framework
 *   Mocking and Test Data
-    *   [asomers/mockall (⭐1.3k)](https://github.com/asomers/mockall) \[[mockall](https://crates.io/crates/mockall)] — A powerful mock object library for Rust. [![Cirrus Build Status](https://api.cirrus-ci.com/github/asomers/mockall.svg)](https://cirrus-ci.com/github/asomers/mockall)
-    *   [fake-rs (⭐764)](https://github.com/cksac/fake-rs) —  A library for generating fake data
-    *   [goldenfile (⭐32)](https://github.com/calder/rust-goldenfile) \[[goldenfile](https://crates.io/crates/goldenfile)] - A library providing a simple API for goldenfile testing.
-    *   [httpmock (⭐411)](https://github.com/alexliesenfeld/httpmock) — HTTP mocking [![build badge](https://dev.azure.com/alexliesenfeld/httpmock/_apis/build/status/alexliesenfeld.httpmock?branchName=master)](https://dev.azure.com/alexliesenfeld/httpmock/_build/latest?definitionId=2\&branchName=master)
-    *   [mockiato](https://crates.io/crates/mockiato) — A strict, yet friendly mocking library for Rust 2018
+    *   [asomers/mockall (⭐1.3k)](https://github.com/asomers/mockall) \[[mockall](https://crates.io/crates/mockall)] — A powerful mock object library. [![Cirrus Build Status](https://api.cirrus-ci.com/github/asomers/mockall.svg)](https://cirrus-ci.com/github/asomers/mockall)
+    *   [fake-rs (⭐772)](https://github.com/cksac/fake-rs) —  A library for generating fake data
+    *   [goldenfile (⭐33)](https://github.com/calder/rust-goldenfile) \[[goldenfile](https://crates.io/crates/goldenfile)] - A library providing a simple API for goldenfile testing.
+    *   [httpmock (⭐413)](https://github.com/alexliesenfeld/httpmock) — HTTP mocking [![build badge](https://dev.azure.com/alexliesenfeld/httpmock/_apis/build/status/alexliesenfeld.httpmock?branchName=master)](https://dev.azure.com/alexliesenfeld/httpmock/_build/latest?definitionId=2\&branchName=master)
+    *   [mockiato](https://crates.io/crates/mockiato) — A strict, yet friendly mocking library for unstable Rust 2018
     *   [mockito](https://crates.io/crates/mockito) — HTTP mocking
     *   [nrxus/faux (⭐393)](https://github.com/nrxus/faux/) [![Latest Version](https://img.shields.io/crates/v/faux.svg)](https://crates.io/crates/faux) — A library to create mocks out of structs. ![build](https://github.com/nrxus/faux/workflows/test/badge.svg?branch=master)
     *   [synth (⭐1.3k)](https://github.com/shuttle-hq/synth/) — Generate database data declaratively. [![build](https://github.com/shuttle-hq/synth/actions/workflows/synth-test.yml/badge.svg)](https://github.com/shuttle-hq/synth)
@@ -989,7 +982,7 @@
     *   [quickcheck](https://crates.io/crates/quickcheck) — A Rust implementation of [QuickCheck](https://wiki.haskell.org/Introduction_to_QuickCheck1)
     *   [rust-fuzz/afl.rs (⭐1.5k)](https://github.com/rust-fuzz/afl.rs) — A Rust fuzzer, using [AFL](https://lcamtuf.coredump.cx/afl/)
 
-## [56. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [55. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Official Resources
 
@@ -1121,7 +1114,7 @@
 *   [Flatter](https://www.flatternft.com/) - NFT art and collectible marketplace.
 *   [Aorist](https://aorist.art/) - NFT art gallery and marketplace.
 
-## [57. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
+## [56. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
 ### Self-Hosted Bitcoin Payment Processors
 
@@ -1139,19 +1132,19 @@
 
 
 
-## [58. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
+## [57. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
 
 ### Installation
 
 *   [openHAB running on openHABian](https://www.openhab.org/docs/installation/openhabian.html#optional-components) - Install Node-RED using openhab-config from command line, choose it from "Optional Components".
 
-## [59. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [58. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Tutorials and Blog Posts / NumPyro
 
 *   [Introduction to JAX by Kevin Murphy](https://colab.research.google.com/github/probml/probml-notebooks/blob/main/notebooks/jax_intro.ipynb) - Colab that introduces various aspects of the language and applies them to simple ML problems.
 
-## [60. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [59. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -1160,9 +1153,9 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-remove-console (⭐115)](https://github.com/xiaoxian521/vite-plugin-remove-console) - A vite plugin that deletes console.log in the production environment.
+*   [vite-plugin-remove-console (⭐120)](https://github.com/xiaoxian521/vite-plugin-remove-console) - A vite plugin that deletes console.log in the production environment.
 
-## [61. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [60. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Text-related Generative Tools / Multi-agents
 
@@ -1175,19 +1168,19 @@
 *   \[🔥] [Creep - YouTube](https://www.youtube.com/watch?v=c6LlG4g_9lk) by [Glenn Marshall Neural Art](https://www.youtube.com/channel/UCes-tiSj7VO6nNOsUB76lZw): how did they translated the images using VQGAN+CLIP? How did they seamlessly wander on the latent space?
 *   [Confluence](https://deviparikh.github.io/confluence/): a generative art project by Devi Parikh on BrainDrops.
 
-## [62. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [61. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### Logos
 
 *   [VectorLogoZone (⭐315)](https://github.com/VectorLogoZone/vectorlogozone#readme) - Consistently sized/formated SVG logos. ([Website](https://www.vectorlogo.zone/))
 
-## [63. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [62. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Editing Support / Diagnostics
 
 *   [booperlv/nvim-gomove (⭐190)](https://github.com/booperlv/nvim-gomove) - A complete plugin for moving and duplicating blocks and lines, with complete fold handling, reindenting, and undoing in one go.
 
-## [64. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [63. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Archive of Icons
 
@@ -1198,7 +1191,7 @@
 
 *   [VectorLogoZone](https://www.vectorlogo.zone/) - Over 3,500 consistently formatted SVG logos.
 
-## [65. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [64. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Data Visualization / Runner
 

@@ -33,7 +33,7 @@
 
 ### Libraries
 
-*   [moshi (⭐8.6k)](https://github.com/square/moshi) - A modern JSON library for Android and Java.
+*   [moshi (⭐9.4k)](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 
 ### Online tools
 
@@ -58,11 +58,11 @@
 
 ### Data Visualization
 
-*   [GeoPattern (⭐1.2k)](https://github.com/jasonlong/geo_pattern) - Create beautiful generative geometric background images from a string.
+*   [GeoPattern (⭐1.3k)](https://github.com/jasonlong/geo_pattern) - Create beautiful generative geometric background images from a string.
 
 ### Error Handling
 
-*   [Exception Handler (⭐503)](https://github.com/richpeck/exception_handler) - Custom error pages.
+*   [Exception Handler (⭐505)](https://github.com/richpeck/exception_handler) - Custom error pages.
 
 ### Web Frameworks
 

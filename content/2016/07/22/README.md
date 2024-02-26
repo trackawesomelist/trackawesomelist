@@ -49,7 +49,7 @@
 
 ### JSON Schema Tools
 
-*   [Orderly JSON (⭐210)](https://github.com/lloyd/orderly) - A textual format for describing JSON compiled into JSONSchema.
+*   [Orderly JSON (⭐219)](https://github.com/lloyd/orderly) - A textual format for describing JSON compiled into JSONSchema.
 
 ## [6. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 

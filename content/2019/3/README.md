@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 21 - Jan 27, 2019
 
-48 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -46,15 +46,15 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 ### Development tools / Build system
 
 *   [Cargo](https://crates.io/) — the Rust package manager
-    *   [cargo-all-features (⭐124)](https://github.com/frewsxcv/cargo-all-features) - A configurable subcommand to simplify testing, building and much more for all combinations of features [![CI](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml/badge.svg)](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml)
-    *   [cargo-benchcmp](https://crates.io/crates/cargo-benchcmp) — A utility to compare Rust micro-benchmarks
+    *   [cargo-all-features (⭐123)](https://github.com/frewsxcv/cargo-all-features) - A configurable subcommand to simplify testing, building and much more for all combinations of features [![CI](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml/badge.svg)](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml)
+    *   [cargo-benchcmp](https://crates.io/crates/cargo-benchcmp) — A utility to compare micro-benchmarks
     *   [cargo-bitbake](https://crates.io/crates/cargo-bitbake) — A cargo extension that can generate BitBake recipes utilizing the classes from meta-rust
     *   [cargo-cache](https://crates.io/crates/cargo-cache) — inspect/manage/clean your cargo cache (`~/.cargo/`/`${CARGO_HOME}`), print sizes etc [![Build Status](https://github.com/matthiaskrgr/cargo-cache/workflows/ci/badge.svg?branch=master)](https://github.com/matthiaskrgr/cargo-cache/actions)
     *   [cargo-check](https://crates.io/crates/cargo-check) — A wrapper around `cargo rustc -- -Zno-trans` which can be helpful for running a faster compile if you only need correctness checks
     *   [cargo-commander](https://crates.io/crates/cargo-commander) — A subcommand for `cargo` to run CLI commands similar to how the scripts section in `package.json` works [![Build and test](https://github.com/simonhyll/cargo-commander/actions/workflows/build.yml/badge.svg)](https://github.com/simonhyll/cargo-commander/actions/workflows/build.yml)
     *   [cargo-count](https://crates.io/crates/cargo-count) — lists source code counts and details about cargo projects, including unsafe statistics
     *   [cargo-deb](https://crates.io/crates/cargo-deb) — Generates binary Debian packages
-    *   [cargo-deps](https://crates.io/crates/cargo-deps) — build dependency graphs of Rust projects
+    *   [cargo-deps](https://crates.io/crates/cargo-deps) — build dependency graphs
     *   [cargo-do](https://crates.io/crates/cargo-do) — run multiple cargo commands in a row
     *   [cargo-ebuild](https://crates.io/crates/cargo-ebuild) — cargo extension that can generate ebuilds using the in-tree eclasses
     *   [cargo-edit](https://crates.io/crates/cargo-edit) — allows you to add and list dependencies by reading/writing to your Cargo.toml file from the command line
@@ -63,17 +63,17 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
     *   [cargo-info](https://crates.io/crates/cargo-info) — queries crates.io for crates details from command line
     *   [cargo-license](https://crates.io/crates/cargo-license) — A cargo subcommand to quickly view the licenses of all dependencies.
     *   [cargo-limit](https://crates.io/crates/cargo-limit) — Cargo with less noise: warnings are skipped until errors are fixed, Neovim integration, etc. [![build badge](https://github.com/alopatindev/cargo-limit/actions/workflows/rust.yml/badge.svg)](https://github.com/alopatindev/cargo-limit/actions)
-    *   [cargo-make](https://crates.io/crates/cargo-make) — Rust task runner and build tool. [![build badge](https://github.com/sagiegurari/cargo-make/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/cargo-make/actions)
+    *   [cargo-make](https://crates.io/crates/cargo-make) — Task runner and build tool. [![build badge](https://github.com/sagiegurari/cargo-make/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/cargo-make/actions)
     *   [cargo-modules](https://crates.io/crates/cargo-modules) — A cargo plugin for showing a tree-like overview of a crate's modules.
     *   [cargo-multi](https://crates.io/crates/cargo-multi) — runs specified cargo command on multiple crates
     *   [cargo-outdated](https://crates.io/crates/cargo-outdated) — displays when newer versions of Rust dependencies are available, or out of date
-    *   [cargo-rdme (⭐84)](https://github.com/orium/cargo-rdme) \[[cargo-rdme](https://crates.io/crates/cargo-rdme)] — Cargo subcommand to create your README from your crate’s documentation. [![build badge](https://github.com/orium/cargo-rdme/workflows/CI/badge.svg)](https://github.com/orium/cargo-rdme/actions?query=workflow%3ACI)
+    *   [cargo-rdme (⭐83)](https://github.com/orium/cargo-rdme) \[[cargo-rdme](https://crates.io/crates/cargo-rdme)] — Cargo subcommand to create your README from your crate’s documentation. [![build badge](https://github.com/orium/cargo-rdme/workflows/CI/badge.svg)](https://github.com/orium/cargo-rdme/actions?query=workflow%3ACI)
     *   [cargo-release](https://crates.io/crates/cargo-release) — tool for releasing git-managed cargo project, build, tag, publish, doc and push [![Rust](https://github.com/crate-ci/cargo-release/actions/workflows/ci.yml/badge.svg)](https://github.com/crate-ci/cargo-release/actions/workflows/rust.yml)
     *   [cargo-script](https://crates.io/crates/cargo-script) — lets people quickly and easily run Rust "scripts" which can make use of Cargo's package ecosystem
-    *   [cargo-udeps (⭐1.4k)](https://github.com/est31/cargo-udeps) \[[cargo-udeps](https://crates.io/crates/cargo-udeps)] — find unused dependencies
+    *   [cargo-udeps (⭐1.5k)](https://github.com/est31/cargo-udeps) \[[cargo-udeps](https://crates.io/crates/cargo-udeps)] — find unused dependencies
     *   [cargo-update](https://crates.io/crates/cargo-update) — cargo subcommand for checking and applying updates to installed executables
     *   [cargo-watch](https://crates.io/crates/cargo-watch) — utility for cargo to compile projects when sources change
-    *   [dtolnay/cargo-expand (⭐2.3k)](https://github.com/dtolnay/cargo-expand) — Expand macros in your source code
+    *   [dtolnay/cargo-expand (⭐2.4k)](https://github.com/dtolnay/cargo-expand) — Expand macros in your source code
 
 ## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
@@ -83,7 +83,7 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 ### Community / Related Lists
 
-*   [tk-learning-center/Functional Programming Learning Path (⭐936)](https://github.com/tk-learning-center/functional-programming-learning-path) - A Learning Path for Functional Programming
+*   [tk-learning-center/Functional Programming Learning Path (⭐966)](https://github.com/tk-learning-center/functional-programming-learning-path) - A Learning Path for Functional Programming
 
 ## [7. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -205,7 +205,25 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 *   <a name="imagemagic"></a>
     [ImageMagick](https://imagemagick.org/index.php)
 
-## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [20. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### 操作系统
+
+*   [Ubuntu 参考手册](http://wiki.ubuntu.org.cn/UbuntuManual)
+
+### C#
+
+*   [精通C#(第6版)](http://book.douban.com/subject/24827879/)
+
+### Java
+
+*   [Java 编程思想](https://java.quanke.name) - quanke
+
+### Shell / Django
+
+*   [Shell 编程范例](https://tinylab.gitbooks.io/shellbook/content) - 泰晓科技
+
+## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
@@ -215,7 +233,7 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 *   [Noti](https://noti.center/) - Receive Android notifications on your Mac (with Pushbullet). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jariz/Noti) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [21. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [22. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### Supported Distributions / Fedora Remix for WSL
 
@@ -226,7 +244,7 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 *   Demo [Microsoft Store Link](https://www.microsoft.com/store/productId/9N8LP0X93VCP)
 
-## [22. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [23. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
@@ -308,7 +326,7 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 *   [The Debug Log](https://www.patreon.com/thedebuglog) - Game development.
 
-## [23. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
+## [24. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
 
 ### X Desktop Environments / Other Desktop Environments
 
@@ -333,25 +351,25 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 *   [tig (⭐11k)](https://github.com/jonas/tig) - Text-mode interface for git. It functions mainly as a Git repository browser.
 *   [vtop (⭐4k)](https://github.com/MrRio/vtop) - Easily-extendable activity monitor.
 
-## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [25. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
 *   [libusb](https://libusb.info/) - A universal USB library which allows for portable access to USB devices. \[LGPL2]
 
-## [25. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [26. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Kotlin / Custom Dialog
 
 *   [Kotlin coding puzzles (⭐716)](https://github.com/igorwojda/kotlin-coding-puzzle) - Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
 
-## [26. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [27. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Miscellaneous
 
 *   [slack-emoji-pokemon (⭐364)](https://github.com/Templarian/slack-emoji-pokemon) - A list of Pokémon emojis for Slack.
 
-## [27. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [28. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Articles / XML
 
@@ -364,13 +382,13 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 *   [让我们一起来学习别人学不动的 Deno](https://segmentfault.com/a/1190000015151287)
 *   [Design Mistakes in Node zh-CN](https://zhuanlan.zhihu.com/p/37637923)
 
-## [28. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
+## [29. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
 
 ### Testing Methods
 
 *   [CSS Feature Toggles](https://chrome.google.com/webstore/detail/css-feature-toggles/aeinmfddnniiloadoappmdnffcbffnjg) - Chrome DevTools extension to toggle support of selected CSS features for testing progressive enhancement fallbacks.
 
-## [29. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [30. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Pastebins
 
@@ -390,7 +408,7 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 *   [ahrefs](https://ahrefs.com) - A tool for backlink research, organic traffic research, keyword research, content marketing & more.
 *   [Similar Web](https://www.similarweb.com) - Compare any website traffic statistics & analytics.
-*   [Squatm3gator (⭐27)](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
+*   [Squatm3gator (⭐29)](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
 *   [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
 
 ### Image Search / Telegram
@@ -409,13 +427,13 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 *   [Google Alerts](http://www.google.com/alerts) - A content change detection and notification service.
 
-## [30. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [31. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Blog posts
 
 *   [Keeping a React Design System consistent: using visual regression testing to save time and headaches](https://techblog.commercetools.com/keeping-a-react-design-system-consistent-f055160d5166) - Using percy, and jest puppeteer to visually test a React component library.
 
-## [31. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [32. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Communication
 
@@ -464,19 +482,19 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 *   [Flitter (⭐187)](https://github.com/dart-flitter/flitter) - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
 
-## [32. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [33. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Date and time / Third-party APIs
 
 *   [iso-8601-date](https://gitlab.com/DataLinkDroid/iso-8601-date) - Miscellaneous date routines in Common Lisp, based around the ISO 8601 string representation. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [33. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [34. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Open Source Apps / Navigation Demos
 
 *   [Lyrics King (⭐292)](https://github.com/SKempin/Lyrics-King-React-Native) - Minimalist and stylish lyrics search app.
 
-## [34. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [35. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
@@ -484,9 +502,9 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 ### Content Management Systems
 
-*   [Umbraco (⭐203)](https://github.com/umbraco-community/awesome-umbraco#readme)
+*   [Umbraco (⭐204)](https://github.com/umbraco-community/awesome-umbraco#readme)
 
-## [35. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
+## [36. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
 
 ### Official
 
@@ -505,20 +523,20 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 *   [uSync](https://our.umbraco.org/projects/developer-tools/usync/) - Syncing tool for reading and writing the database elements to disk.
 
-## [36. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [37. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
 *   [How to Build a Serverless Next.js Blog with ButterCMS](https://buttercms.com/blog/next-js-cms-tutorial)
 *   [Create SSR Next.js websites using GraphQL with Postgres](https://blog.hasura.io/create-next-js-sites-using-graphql-on-postgres-199224ad1a39)
 
-## [37. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+## [38. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Integrations / Transactions
 
 *   [Tajo](https://tajo.apache.org/docs/current/hbase_integration.html) - Tajo integration with HBase.
 
-## [38. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [39. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Trackers / Private Trackers
 
@@ -528,32 +546,32 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 *   [Spytify](https://jwallet.github.io/spy-spotify/) Records Spotify without ads while it plays and includes media tags and album cover to the recorded files
 
-## [39. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [40. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Syntax highlighting packages
 
 *   [waveform-gb (⭐18)](https://github.com/dannye/waveform-gb) - Program visualizing the wave form used by the wave channel. The wave form can be edited freely and playback of the wave is updated immediately.
 
-## [40. Awesome](/content/craftcms/awesome/week/README.md)
+## [41. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Articles / Local Dev
 
 *   [A Craft CMS Development Workflow With Docker: Part 1 - Local Development](https://mattgrayisok.com/a-craft-cms-development-workflow-with-docker-part-1-local-development) by Matt Gray - `4 Dec 2018`
 
-## [41. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [42. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Calling Methods Inside Your App From Appium](https://appiumpro.com/editions/51)
 *   [Automating Mac Apps with Appium](https://appiumpro.com/editions/52)
 
-## [42. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [43. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### News and Resources
 
 *   [adacore-blog](https://blog.adacore.com/) - An insight into the AdaCore ecosystem.
 
-## [43. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [44. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -594,7 +612,7 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 *   [Canopy (⭐504)](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework
 
-## [44. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [45. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / PHP
 
@@ -607,7 +625,7 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 *   [rust-exam: A set of questions about the Rust programming language (⭐13)](https://github.com/jean553/rust-exam)
 *   [Best Rust Programming Language Interview Questions and answers](https://www.bestinterviewquestion.com/rust-programming-language-interview-questions)
 
-## [45. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [46. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Collaboration/Education
 
@@ -617,19 +635,19 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 *   [ipyleaflet (⭐1.4k)](https://github.com/jupyter-widgets/ipyleaflet) - Interactive visualization library for Leaflet.js maps in Jupyter notebooks.
 
-## [46. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [47. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Miscellaneous / Third Party
 
 *   [twitter-sentiment-visualisation (⭐171)](https://github.com/Lissy93/twitter-sentiment-visualisation) - A series of D3.js charts showing realtime sentiment of Twitter data
 
-## [47. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [48. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
 *   [SMS 2 Factor Authentiation for Keycloak via SMS by Alliander](https://github.com/Alliander/keycloak-sms-authenticator)
 
-## [48. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [49. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### Hadoop
 

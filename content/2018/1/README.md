@@ -182,7 +182,7 @@
 
 ### Web Application Framework
 
-*   [Cutelyst (⭐877)](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[LGPLv2.1+] [website](https://cutelyst.org/)
+*   [Cutelyst (⭐878)](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[LGPLv2.1+] [website](https://cutelyst.org/)
 
 ## [23. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -355,7 +355,7 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
 ### Internationalization
 
-*   [Tolk (⭐579)](https://github.com/tolk/tolk) - A web interface for doing i18n translations packaged as a Rails engine.
+*   [Tolk (⭐578)](https://github.com/tolk/tolk) - A web interface for doing i18n translations packaged as a Rails engine.
 
 ## [34. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 

@@ -133,8 +133,8 @@ This book teaches the fundamental concepts and tools behind reporting modern dat
 
 ### Shell Script Development / Directory Navigation
 
-*   [ansi (⭐536)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
-*   [mo (⭐522)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
+*   [ansi (⭐554)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
+*   [mo (⭐531)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
 
 ## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -337,7 +337,7 @@ git add --all && git commit --amend --no-edit
 
 ### Editors
 
-*   [Alchemist-Server (⭐193)](https://github.com/tonini/alchemist-server) - Editor/IDE independent background server to inform about Elixir mix projects.
+*   [Alchemist-Server (⭐194)](https://github.com/tonini/alchemist-server) - Editor/IDE independent background server to inform about Elixir mix projects.
 *   [elixir\_generator (⭐9)](https://github.com/jadercorrea/elixir_generator.vim) - Vim plugin to generate Elixir module and test files with one command.
 
 ## [15. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
@@ -414,7 +414,7 @@ git add --all && git commit --amend --no-edit
 
 ### Caching
 
-*   [Garner (⭐347)](https://github.com/artsy/garner) - A set of Rack middleware and cache helpers that implement various caching strategies.
+*   [Garner (⭐346)](https://github.com/artsy/garner) - A set of Rack middleware and cache helpers that implement various caching strategies.
 *   [Record Cache (⭐145)](https://github.com/orslumen/record-cache) - Cache Active Model Records in Rails 3.
 
 ### Core Extensions
@@ -428,14 +428,14 @@ git add --all && git commit --amend --no-edit
 
 ### Git Tools
 
-*   [Overcommit (⭐3.8k)](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager.
+*   [Overcommit (⭐3.9k)](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager.
 
 ### Scientific
 
 *   Data analysis/structures
     *   [daru (⭐1k)](https://github.com/v0dro/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
-    *   [Daru::View (⭐89)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
-    *   [Rgl (⭐401)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
+    *   [Daru::View (⭐90)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
+    *   [Rgl (⭐404)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
 
 ## [19. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -644,7 +644,7 @@ git add --all && git commit --amend --no-edit
 
 ### Database
 
-*   [redis3m (⭐188)](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. \[Apache2]
+*   [redis3m (⭐189)](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. \[Apache2]
 
 ### Miscellaneous
 

@@ -22,7 +22,7 @@
 
 ### Other References / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [Mastering ZSH (⭐1.1k)](https://github.com/rothgar/mastering-zsh) is a great tutorial that builds on the basics to show you advanced ZSH usage, customizations, and practical examples.
+*   [Mastering ZSH (⭐1.2k)](https://github.com/rothgar/mastering-zsh) is a great tutorial that builds on the basics to show you advanced ZSH usage, customizations, and practical examples.
 
 ## [4. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [arrow-kt/arrow-meta (⭐381)](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler.
+*   [arrow-kt/arrow-meta (⭐382)](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler.
 
 ## [10. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 

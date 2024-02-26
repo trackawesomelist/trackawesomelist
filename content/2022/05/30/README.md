@@ -32,7 +32,7 @@
 
 ### Error Handling
 
-*   [exception (⭐26)](https://github.com/rbrahul/exception) - A simple utility package for exception handling with try-catch in Golang.
+*   [exception (⭐27)](https://github.com/rbrahul/exception) - A simple utility package for exception handling with try-catch in Golang.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

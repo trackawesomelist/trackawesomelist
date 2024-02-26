@@ -22,7 +22,7 @@
 
 ### Form Components / Markdown Editor
 
-*   [react-simplemde-editor (⭐738)](https://github.com/RIP21/react-simplemde-editor) - React component wrapper for [EasyMDE (the most fresh SimpleMDE fork) (⭐2.2k)](https://github.com/Ionaru/easy-markdown-editor).
+*   [react-simplemde-editor (⭐744)](https://github.com/RIP21/react-simplemde-editor) - React component wrapper for [EasyMDE (the most fresh SimpleMDE fork) (⭐2.2k)](https://github.com/Ionaru/easy-markdown-editor).
 
 ## [4. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 

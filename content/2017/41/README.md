@@ -168,7 +168,7 @@
 *   [Invisible Captcha (⭐1.1k)](https://github.com/markets/invisible_captcha) - Unobtrusive and flexible spam protection based on the honeypot strategy. It also provides a time-sensitive form submission.
 *   [Rakismet (⭐353)](https://github.com/joshfrench/rakismet) - Easy Akismet and TypePad AntiSpam integration for Rails.
 *   [reCAPTCHA (⭐1.9k)](https://github.com/ambethia/recaptcha) - reCaptcha API helpers for ruby apps.
-*   [Voight-Kampff (⭐174)](https://github.com/biola/Voight-Kampff) - A Ruby gem that detects bots, spiders, crawlers and replicants.
+*   [Voight-Kampff (⭐175)](https://github.com/biola/Voight-Kampff) - A Ruby gem that detects bots, spiders, crawlers and replicants.
 
 ### Concurrency and Parallelism
 
@@ -182,7 +182,7 @@
 ### Diff
 
 *   [Diffy (⭐1.2k)](https://github.com/samg/diffy) - Easy Diffing With Ruby.
-*   [gemdiff (⭐122)](https://github.com/teeparham/gemdiff) - Find source repositories for gems. Open, compare, and update outdated gem versions.
+*   [gemdiff (⭐123)](https://github.com/teeparham/gemdiff) - Find source repositories for gems. Open, compare, and update outdated gem versions.
 *   [JsonCompare (⭐60)](https://github.com/a2design-inc/json-compare) - Returns the difference between two JSON files.
 
 ### File Upload
@@ -195,11 +195,11 @@
 
 ### HTTP Clients and tools
 
-*   [Device Detector (⭐712)](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
+*   [Device Detector (⭐715)](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
 
 ### IRB
 
-*   [Clipboard (⭐345)](https://github.com/janlelis/clipboard) - Access to the system clipboard on Linux, MacOS and Windows.
+*   [Clipboard (⭐346)](https://github.com/janlelis/clipboard) - Access to the system clipboard on Linux, MacOS and Windows.
 *   [Looksee (⭐364)](https://github.com/oggy/looksee) - A tool for illustrating the ancestry and method lookup path of objects. Handy for exploring unfamiliar codebases.
 
 ### Machine Learning
@@ -212,7 +212,7 @@
 
 ### Web Frameworks
 
-*   [Rack::App (⭐407)](https://github.com/rack-app/rack-app) - Bare bone minimalistic framework for building rack apps.
+*   [Rack::App (⭐409)](https://github.com/rack-app/rack-app) - Bare bone minimalistic framework for building rack apps.
 
 ## [19. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 15, 2022
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -45,13 +45,7 @@
 *   [Meteor + Vue](https://www.youtube.com/playlist?list=PLmJs3lfUmCdS8W27OoWj3uGDP6g4ypNyw) Youtube playlist by Axel Martínez
 *   [Introduction to Vue (Spanish)](https://scrimba.com/playlist/pDzVxUd) Scrimba mini-course in Spanish.
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Libraries/Frameworks / Testing
-
-*   [dam5s/aspen (⭐33)](https://github.com/dam5s/aspen) - Aspen is an RSpec and Spek inspired test runner for Kotlin.
-
-## [7. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
@@ -74,14 +68,14 @@
 
 *   [Telegram-FOSS (⭐2.2k)](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
 
-## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [vite-ant-design-pro (⭐95)](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
+*   [vite-ant-design-pro (⭐97)](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
 *   [vite-react-proste (⭐13)](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + SASS + Testing Library + `react-query` + ESLint + Stylelint + Prettier.
 
-## [9. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+## [8. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :books: Literature / Documentation
 
@@ -127,7 +121,7 @@
 *   [REMnux](https://remnux.org) - Linux toolkit for reverse-engineering and analyzing malicious software.
 *   [TrID](https://mark0.net/soft-trid-e.html) - Utility for identifying file types from their binary signatures.
 
-## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Decentralized
 
@@ -137,19 +131,19 @@
     *   [Soapbox](https://gitlab.com/soapbox-pub/soapbox-fe) - A frontend for Pleroma with a focus on custom branding and ease of use.
     *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Husky](https://git.sr.ht/~captainepoch/husky) - Android client for Pleroma and Mastodon.
 
-## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [10. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Crates / Component Libraries
 
 *   [tailyew (⭐17)](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
 
-## [12. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [11. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### Web Hosting
 
 *   [InterServer](https://www.interserver.net/webhosting/student-webhosting.html/) \[FREE] - Standard Web Hosting Package for Free for the first year for students.
 
-## [13. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
+## [12. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
 ### Connector
 

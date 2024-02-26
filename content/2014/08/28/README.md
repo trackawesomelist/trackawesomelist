@@ -21,10 +21,10 @@
 
 ### Concurrency
 
-*   [Bolt (⭐367)](https://github.com/HSA-Libraries/Bolt) - A C++ template library optimized for GPUs. \[Apache2]
+*   [Bolt (⭐368)](https://github.com/HSA-Libraries/Bolt) - A C++ template library optimized for GPUs. \[Apache2]
 *   [Libclsph (⭐52)](https://github.com/libclsph/libclsph) - An OpenCL based GPU accelerated SPH fluid simulation library. \[MIT]
 *   [Thrust](http://thrust.github.io/) - A parallel algorithms library which resembles the C++ Standard Template Library (STL). \[Apache2]
-*   [VexCL (⭐693)](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA. \[MIT]
+*   [VexCL (⭐694)](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA. \[MIT]
 
 ### Database
 

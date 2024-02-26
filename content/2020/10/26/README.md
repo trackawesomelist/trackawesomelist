@@ -10,11 +10,11 @@
 
 ### Command-Line Productivity
 
-*   [undollar (⭐148)](https://github.com/xtyrrell/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
+*   [undollar (⭐156)](https://github.com/xtyrrell/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
 
 ### Shell Script Development / Directory Navigation
 
-*   [shellspec (⭐932)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for dash, bash, ksh, zsh and all POSIX shells
+*   [shellspec (⭐1k)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for dash, bash, ksh, zsh and all POSIX shells
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Overlay
 
-*   [reoverlay (⭐141)](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
+*   [reoverlay (⭐142)](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
 
 ## [5. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 

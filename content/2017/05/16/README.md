@@ -102,7 +102,7 @@
 ### REST and API
 
 *   [accent (⭐38)](https://github.com/sticksnleaves/accent) - Plug for handling the conversion of JSON API keys to different cases.
-*   [versionary (⭐39)](https://github.com/sticksnleaves/versionary) - API versioning for Elixir Plug and Phoenix.
+*   [versionary (⭐40)](https://github.com/sticksnleaves/versionary) - API versioning for Elixir Plug and Phoenix.
 
 ## [9. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 

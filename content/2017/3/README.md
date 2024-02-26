@@ -353,7 +353,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### Web Frameworks
 
-*   [Camping (⭐848)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
+*   [Camping (⭐853)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
 
 ## [30. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -418,17 +418,16 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 ### Inspiration / Other
 
 *   [Chrome Experiments](https://www.chromeexperiments.com/) - Showcase of web experiments written by the creative coding community.
-*   [People You Should Follow on CodePen (⭐665)](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
+*   [People You Should Follow on CodePen (⭐676)](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
 
 ### Blogs • Websites / Other
 
-*   [iquilezles.org](http://www.iquilezles.org) - Home of Íñigo Quílez, specialised in GLSL and math snippets.
 *   [bit-101.com](http://www.bit-101.com/blog/) - Blog by Keith Peters, specialised in creative coding.
 
 ### Related / Other
 
 *   [Awesome opengl (⭐2k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
-*   [Awesome canvas (⭐1.4k)](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
+*   [Awesome canvas (⭐1.5k)](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
 *   [Awesome audio visualization (⭐4.4k)](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
 *   [Awesome computer vision (⭐19k)](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 

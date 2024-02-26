@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 24 - Mar 01, 2020
 
-61 awesome lists updated this week.
+60 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -122,11 +122,11 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐415)](https://github.com/typemill/typemill)) `MIT` `PHP`
+*   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐419)](https://github.com/typemill/typemill)) `MIT` `PHP`
 
 ### Software / Games
 
-*   [Mindustry](https://mindustrygame.github.io/) - Factorio-like tower defense game. Build production chains to gather more resources, and build complex facilities. ([Source Code (⭐20k)](https://github.com/Anuken/Mindustry)) `GPL-3.0` `Java`
+*   [Mindustry](https://mindustrygame.github.io/) - Factorio-like tower defense game. Build production chains to gather more resources, and build complex facilities. ([Source Code (⭐21k)](https://github.com/Anuken/Mindustry)) `GPL-3.0` `Java`
 
 ## [12. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -415,13 +415,7 @@
 
 *   [loadtest (⭐91)](https://github.com/tmobile/loadtest) - An R package for load testing using JMeter.
 
-## [43. Awesome Python](/content/vinta/awesome-python/week/README.md)
-
-### Implementations
-
-*   [PyPy](https://foss.heptapod.net/pypy/pypy) - A very fast and compliant implementation of the Python language.
-
-## [44. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [43. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Engineering / Technical Debt
 
@@ -452,25 +446,25 @@
 
 *   [Equity Compensation](https://www.holloway.com/g/equity-compensation) - Stock options, RSUs, job offers, and taxes—a detailed reference, including hundreds of resources, explained from the ground up and made to be improved over time.
 
-## [45. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [44. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
 *   [Lock Closed Issues and Pull Requests after a Period of Inactivity (⭐241)](https://github.com/dessant/lock-threads)
 
-## [46. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [45. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Research Papers
 
 *   [Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence](https://arxiv.org/abs/2002.04803) Sebastian Raschka, Joshua Patterson, Corey Nolet. (2019)
 
-## [47. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [46. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### E-mail Search / E-mail Check / Telegram
 
 *   [DeHashed](https://dehashed.com/) - DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.
 
-## [48. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [47. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / IDEs
 
@@ -478,13 +472,13 @@
     *   [dgriffen/rls-vs2017 (⭐110)](https://github.com/ZoeyR/rls-vs2017) — Rust support for Visual Studio 2017 Preview [![build badge](https://ci.appveyor.com/api/projects/status/d2lxlincwninhsng?svg=true)](https://ci.appveyor.com/project/dgriffen/rls-vs2017)
     *   [PistonDevelopers/VisualRust (⭐701)](https://github.com/PistonDevelopers/VisualRust) — A Visual Studio extension for Rust [![Build status](https://ci.appveyor.com/api/projects/status/5nw5no10jj0y4p3f?svg=true)](https://ci.appveyor.com/project/vosen/visualrust)
 
-## [49. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [48. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Virtualisation / Discovery
 
 *   [nixos-shell (⭐521)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
 
-## [50. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [49. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Data Processing and ETL
 
@@ -492,13 +486,13 @@
 
 ### E-Commerce and Payments
 
-*   [Workarea (⭐325)](https://github.com/workarea-commerce/workarea) - An extensible, high-performance eCommerce platform depended on by some of the world's top retailers.
+*   [Workarea (⭐326)](https://github.com/workarea-commerce/workarea) - An extensible, high-performance eCommerce platform depended on by some of the world's top retailers.
 
 ### Game Development and Graphics
 
-*   [Ruby 2D (⭐618)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
+*   [Ruby 2D (⭐621)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
 
-## [51. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [50. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Pricing
 
@@ -563,19 +557,19 @@
 *   [Meltano](https://gitlab.com/meltano/meltano) - Open source convention-over-configuration product for the whole data lifecycle, all the way from loading data to analyzing it.
 *   [`insights`](https://github.com/mariusandra/insights) - Insights is a tool to visually explore a PostgreSQL database, with an emphasis on generating graphs that show business performance over time.
 
-## [52. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [51. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Development Environment / Debugging and Tracing
 
 *   [Roslaunch Nodes in Valgrind or GDB](https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20Nodes%20in%20Valgrind%20or%20GDB) - When debugging roscpp nodes that you are launching with roslaunch, you may wish to launch the node in a debugging program like gdb or valgrind instead.
 
-## [53. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
+## [52. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
 
 ### Netherlands / Eindhoven
 
 *   [STRP](https://strp.nl) - STRP Festival is one of the largest art & technology (e-culture) festivals in Europe where music, art and technology meet. **(April)**
 
-## [54. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [53. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Getting Started
 
@@ -585,7 +579,7 @@
 
 *   [Taurus](https://gettaurus.org/docs/Gatling/) - Gatling Executor in Taurus framework.
 
-## [55. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [54. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Community / Community Chat Rooms
 
@@ -612,7 +606,7 @@
 *   [midi-port](https://crates.io/crates/midi-port) - UART - MIDI input - ![crates.io](https://img.shields.io/crates/v/midi-port.svg)
 *   [ST7920](https://crates.io/crates/st7920) - SPI - LCD displays using the ST7920 controller ![crates.io](https://img.shields.io/crates/v/st7920.svg)
 
-## [56. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+## [55. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Books and Resources
 
@@ -640,13 +634,13 @@
 *   [shfmt (⭐6.5k)](https://github.com/mvdan/sh) - Format bash programs.
 *   [shunit2 (⭐1.5k)](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 
-## [57. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [56. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Libraries and Frameworks / Testing
 
 *   [EOSLIME (⭐39)](https://github.com/LimeChain/eoslime) - Truffle like framework for development, deployment and testing on EOS blockchains.
 
-## [58. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [57. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Logic / Mouse Events
 
@@ -656,7 +650,7 @@
 
 *   [phoenix (⭐160)](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
 
-## [59. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [58. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / JavaScript
 
@@ -668,7 +662,7 @@
 *   [relevent](https://CRAN.R-project.org/package=relevent) - Tools to fit relational event models (REM).
     *   [informR](https://CRAN.R-project.org/package=informR) - Tools to create sequence statistics from event lists to be used in `relevent`.
 
-## [60. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [59. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### 🇵🇭 Philippines / Misc
 
@@ -679,7 +673,7 @@
 *   [Facebook Group](https://web.facebook.com/groups/flutterphilippines/)
 *   [Github](https://github.com/flutterph)
 
-## [61. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [60. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### ORM / Database / Datamapping
 

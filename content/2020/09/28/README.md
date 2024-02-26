@@ -39,7 +39,7 @@
 
 ### Development tools / Services
 
-*   [deps.rs (⭐405)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
+*   [deps.rs (⭐408)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
 
 ## [4. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 

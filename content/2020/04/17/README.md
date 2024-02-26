@@ -44,7 +44,7 @@
 
 ### File Manipulation
 
-*   🍰 [Josegonzalez/Upload plugin (⭐552)](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
+*   🍰 [Josegonzalez/Upload plugin (⭐553)](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
 
 ## [5. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
@@ -299,7 +299,7 @@
 
 ### Applications / Utilities
 
-*   [nomino (⭐534)](https://github.com/yaa110/nomino) — Batch rename utility for developers
+*   [nomino (⭐536)](https://github.com/yaa110/nomino) — Batch rename utility for developers
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -311,7 +311,7 @@
 
 ### Visual Programming Languages
 
-*   [eternal (⭐491)](https://github.com/kousun12/eternal) \[Web] - Programs as graphs and graphs as compositional tools for creation
+*   [eternal (⭐503)](https://github.com/kousun12/eternal) \[Web] - Programs as graphs and graphs as compositional tools for creation
 
 ### Other / Other
 

@@ -16,11 +16,11 @@
 
 ### Command-Line Productivity
 
-*   [task-manager (⭐17)](https://github.com/lingtalfi/task-manager) - Execute all your scripts with just two or three keystrokes.
+*   [task-manager (⭐18)](https://github.com/lingtalfi/task-manager) - Execute all your scripts with just two or three keystrokes.
 
 ### For Developers / Directory Navigation
 
-*   [git-quick-stats (⭐5.9k)](https://github.com/arzzen/git-quick-stats) - Git quick statistics is a simple and efficient way to access various statistics in git repository.
+*   [git-quick-stats (⭐6.1k)](https://github.com/arzzen/git-quick-stats) - Git quick statistics is a simple and efficient way to access various statistics in git repository.
 
 ## [3. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 

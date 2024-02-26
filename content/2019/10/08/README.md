@@ -106,11 +106,11 @@
 
 ### Games
 
-*   [Binbo (⭐114)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
+*   [Binbo (⭐115)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
 
 ### Miscellaneous
 
-*   [Apex (⭐276)](https://github.com/bjro/apex) - Awesome Print for Elixir.
+*   [Apex (⭐275)](https://github.com/bjro/apex) - Awesome Print for Elixir.
 
 ## [12. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 

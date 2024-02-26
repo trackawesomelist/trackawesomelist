@@ -65,7 +65,7 @@
 
 ### Other / Godot version unknown
 
-*   [godot-ci (⭐552)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
+*   [godot-ci (⭐563)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
 
 ## [7. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
@@ -223,7 +223,7 @@
 
 ### Third-party APIs
 
-*   [Dropbox (⭐165)](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
+*   [Dropbox (⭐166)](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
 
 ## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -291,7 +291,7 @@
 
 ### JSON Schema Tools
 
-*   [JSON Schema $Ref Parser (⭐728)](https://github.com/APIDevTools/json-schema-ref-parser) - Parse, resolve, and dereference JSON Schema $ref pointers
+*   [JSON Schema $Ref Parser (⭐878)](https://github.com/APIDevTools/json-schema-ref-parser) - Parse, resolve, and dereference JSON Schema $ref pointers
 
 ## [27. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
@@ -424,7 +424,7 @@
 
 ### Networking
 
-*   [libpcap (⭐2.4k)](https://github.com/the-tcpdump-group/libpcap) - A portable C/C++ library for network traffic capture. \[BSD] [website](https://www.tcpdump.org/)
+*   [libpcap (⭐2.5k)](https://github.com/the-tcpdump-group/libpcap) - A portable C/C++ library for network traffic capture. \[BSD] [website](https://www.tcpdump.org/)
 
 ### PDF
 
@@ -432,11 +432,11 @@
 
 ### Scientific Computing
 
-*   [AMGCL (⭐689)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
+*   [AMGCL (⭐693)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
 
 ### Web Application Framework
 
-*   [facil.io (⭐1.9k)](https://github.com/boazsegev/facil.io) - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. \[MIT] [website](http://facil.io)
+*   [facil.io (⭐2k)](https://github.com/boazsegev/facil.io) - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. \[MIT] [website](http://facil.io)
 
 ## [36. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 

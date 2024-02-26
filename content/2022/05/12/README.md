@@ -60,7 +60,7 @@
 
 ### File Management and Sharing
 
-*   [Blindsend (⭐162)](https://github.com/blindnet-io/blindsend) - Open source tool for private, end-to-end encrypted file exchange.
+*   [Blindsend (⭐163)](https://github.com/blindnet-io/blindsend) - Open source tool for private, end-to-end encrypted file exchange.
 
 ## [9. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

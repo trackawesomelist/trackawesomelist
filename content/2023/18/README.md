@@ -10,7 +10,7 @@
 
 ### Software / DNS - Control Panels & Domain Management
 
-*   [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. ([Source Code (⭐565)](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
+*   [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. ([Source Code (⭐574)](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
 
 ## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 
@@ -18,7 +18,7 @@
 
 View and create Linear tickets from any GitHub PR or issue.
 
-Installs: 73 | Stars: 20 | Last update: 31 Jan 2024
+Installs: 7 | Stars: 20 | Last update: 30 Jan 2024
 
 ## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
@@ -44,11 +44,11 @@ Installs: 73 | Stars: 20 | Last update: 31 Jan 2024
 
 ### Software / Document Management
 
-*   [Stirling-PDF (⭐17k)](https://github.com/Frooodle/Stirling-PDF) - Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR. `Apache-2.0` `Docker/Java`
+*   [Stirling-PDF (⭐18k)](https://github.com/Frooodle/Stirling-PDF) - Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR. `Apache-2.0` `Docker/Java`
 
 ### Software / Note-taking & Editors
 
-*   [Memos](https://usememos.com/) - An open source, self-hosted knowledge base that works with a SQLite db file. ([Source Code (⭐23k)](https://github.com/usememos/memos)) `MIT` `Docker/Go`
+*   [Memos](https://usememos.com/) - An open source, self-hosted knowledge base that works with a SQLite db file. ([Source Code (⭐25k)](https://github.com/usememos/memos)) `MIT` `Docker/Go`
 
 ### Software / Software Development - IDE & Tools
 
@@ -64,7 +64,7 @@ Installs: 73 | Stars: 20 | Last update: 31 Jan 2024
 
 ### Templates / Vue 3
 
-*   [vue3-ts-pinia-vant (⭐86)](https://github.com/zhousg/consult-patient-h5-vue3-ts-pinia-vant) - Vue3, Vue Router, Pinia, Composition API, TypeScript, Vant4, VueUse, Axios, SocketIO, PostCSS, ESlint, Prettier, Husky, Lint-staged, Mock, Amap, QQ Login, Alipay Sandbox, Eruda, CI/CD, Vercel, Mobile Project.
+*   [vue3-ts-pinia-vant (⭐88)](https://github.com/zhousg/consult-patient-h5-vue3-ts-pinia-vant) - Vue3, Vue Router, Pinia, Composition API, TypeScript, Vant4, VueUse, Axios, SocketIO, PostCSS, ESlint, Prettier, Husky, Lint-staged, Mock, Amap, QQ Login, Alipay Sandbox, Eruda, CI/CD, Vercel, Mobile Project.
 
 ### Templates / Solid
 
@@ -72,7 +72,7 @@ Installs: 73 | Stars: 20 | Last update: 31 Jan 2024
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-svg-spritemap (⭐18)](https://github.com/g-makarov/vite-plugin-svg-spritemap) - Generates a SVG spritemap from multiple .svg files.
+*   [vite-plugin-svg-spritemap (⭐21)](https://github.com/g-makarov/vite-plugin-svg-spritemap) - Generates a SVG spritemap from multiple .svg files.
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -94,7 +94,7 @@ Installs: 73 | Stars: 20 | Last update: 31 Jan 2024
 
 ### Tools
 
-*   [SubID (⭐5)](https://github.com/dappforce/subid) - An advanced cross-chain portfolio management tool for the Polkadot ecosystem, allowing any user to see their balances across chains; view their crowdloan history; view their NFTs across Polkadot ecosystem chains; claim their vested tokens and perform cross-chain transfers.
+*   [SubID (⭐8)](https://github.com/dappforce/subid) - An advanced cross-chain portfolio management tool for the Polkadot ecosystem, allowing any user to see their balances across chains; view their crowdloan history; view their NFTs across Polkadot ecosystem chains; claim their vested tokens and perform cross-chain transfers.
 *   [Subsocial SDK Playground](https://play.subsocial.network) - Subsocial JS SDK Playground allows you to fetch spaces, send transactions on blockchain and test the SDK code snippets on the go without the need to download or setup anything locally.
 
 ## [9. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
@@ -161,11 +161,11 @@ Installs: 73 | Stars: 20 | Last update: 31 Jan 2024
 
 ### Table
 
-*   [TanStack Table (⭐23k)](https://github.com/tannerlinsley/react-table) - [demo](https://tanstack.com/table/v8/docs/examples/react/basic) - Headless UI for building powerful tables & datagrids
+*   [TanStack Table (⭐24k)](https://github.com/tannerlinsley/react-table) - [demo](https://tanstack.com/table/v8/docs/examples/react/basic) - Headless UI for building powerful tables & datagrids
 
 ### Boilerplate / Mouse Events
 
-*   [elegant (⭐125)](https://github.com/elegantframework/elegant-cli) - [docs](https://www.elegantframework.com/docs/installation) - [demo](https://www.elegantframework.com/) - A simple React framework for rapidly building beautiful and expressive web applications with Next.js, Tailwind CSS, and Markdown loading.
+*   [elegant (⭐128)](https://github.com/elegantframework/elegant-cli) - [docs](https://www.elegantframework.com/docs/installation) - [demo](https://www.elegantframework.com/) - A simple React framework for rapidly building beautiful and expressive web applications with Next.js, Tailwind CSS, and Markdown loading.
 
 ## [17. Tips](/content/git-tips/tips/week/README.md)
 
@@ -333,7 +333,7 @@ git checkout -- <file_name>
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-packagemanager (⭐0)](https://github.com/goarano/zsh-fzf-packagemanager) - Adds commands for installing tools via various package managers using [fzf (⭐57k)](https://github.com/junegunn/fzf). Supports `apt`, `brew` & `dnf`.
+*   [fzf-packagemanager (⭐0)](https://github.com/goarano/zsh-fzf-packagemanager) - Adds commands for installing tools via various package managers using [fzf (⭐58k)](https://github.com/junegunn/fzf). Supports `apt`, `brew` & `dnf`.
 *   [lazy-load (⭐2)](https://github.com/goarano/zsh-lazy-load) - Lazy load tab completions only when you actually need them.
 *   [oh-my-tmux-manager](https://github.com/unixorn/awesome-zsh-plugins/blob/main/README.md/omt-manager) - Lets you easily manage your tmux configurations.
 *   [pipe (⭐0)](https://github.com/pipe-felipe/zsh-pipe-plugin) - Includes `docker` and package-related scripts.
@@ -344,7 +344,7 @@ git checkout -- <file_name>
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [samber/slog-fiber (⭐5)](https://github.com/samber/slog-fiber) - A logger middleware that uses Go slog library.
+*   [samber/slog-fiber (⭐32)](https://github.com/samber/slog-fiber) - A logger middleware that uses Go slog library.
 
 ## [30. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 

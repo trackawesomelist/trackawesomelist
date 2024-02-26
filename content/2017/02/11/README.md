@@ -22,7 +22,7 @@
 
 ### Command-Line Productivity
 
-*   [rg (⭐41k)](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
+*   [rg (⭐43k)](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
 
 ### Shell Script Development / See also
 
@@ -44,7 +44,7 @@
 
 ### Libraries / GUI
 
-*   [saurvs/nfd-rs (⭐153)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.7k)](https://github.com/mlabbe/nativefiledialog) bindings
+*   [saurvs/nfd-rs (⭐154)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.7k)](https://github.com/mlabbe/nativefiledialog) bindings
 
 ## [7. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 

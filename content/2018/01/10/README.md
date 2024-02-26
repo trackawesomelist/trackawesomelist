@@ -82,13 +82,13 @@
 
 ### HTTP
 
-*   [gun (⭐865)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
+*   [gun (⭐874)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Database Tools
 
-*   [migrate (⭐31)](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
+*   [migrate (⭐30)](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
 
 ## [9. Awesome D](/content/dlang-community/awesome-d/README.md)
 

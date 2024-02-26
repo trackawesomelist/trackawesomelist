@@ -14,7 +14,7 @@
 
 ### Database Drivers/Clients
 
-*   [crystal-pg (⭐450)](https://github.com/will/crystal-pg) - A Postgres driver
+*   [crystal-pg (⭐458)](https://github.com/will/crystal-pg) - A Postgres driver
 
 ### HTTP
 
@@ -27,10 +27,6 @@
 ### Third-party APIs
 
 *   [crystal\_slack (⭐20)](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
-
-### Web Frameworks
-
-*   [Google Group](https://groups.google.com/forum/?fromgroups#!forum/crystal-lang)
 
 ### Editor Plugins
 

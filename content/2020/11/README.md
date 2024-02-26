@@ -151,7 +151,7 @@
 
 ### Validation
 
-*   [validator (⭐27)](https://github.com/Nicolab/crystal-validator) - Data check and validation
+*   [validator (⭐28)](https://github.com/Nicolab/crystal-validator) - Data check and validation
 
 ### Unofficial
 
@@ -198,7 +198,7 @@
 
 ### Miscellaneous
 
-*   🍰 [Setup:Maintenance (⭐33)](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
+*   🍰 [Setup:Maintenance (⭐34)](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 
 ### Social
 
@@ -273,7 +273,7 @@
 
 ### Libraries
 
-*   [futil-js (⭐896)](https://github.com/smartprocure/futil-js) - A collection of functional utilities that could conceivably be part of a library like lodash/fp, but for some reason or other are not.
+*   [futil-js (⭐933)](https://github.com/smartprocure/futil-js) - A collection of functional utilities that could conceivably be part of a library like lodash/fp, but for some reason or other are not.
 
 ## [29. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
@@ -607,7 +607,7 @@
 
 ### Other / Godot version unknown
 
-*   [godot-gdscript-toolkit (⭐699)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
+*   [godot-gdscript-toolkit (⭐714)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
 
 ## [42. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
@@ -730,7 +730,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Concurrency
 
-*   [SObjectizer (⭐432)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
+*   [SObjectizer (⭐438)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
 
 ### Miscellaneous
 
@@ -746,16 +746,16 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Testing
 
-*   [Testing (⭐1.5k)](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
-*   [Visual Regression Testing (⭐2k)](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
-*   [Selenium (⭐960)](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
-*   [Appium (⭐412)](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
-*   [TAP (⭐612)](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
-*   [JMeter (⭐657)](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
+*   [Testing (⭐1.6k)](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
+*   [Visual Regression Testing (⭐2.1k)](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
+*   [Selenium (⭐963)](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
+*   [Appium (⭐413)](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
+*   [TAP (⭐616)](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
+*   [JMeter (⭐671)](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
 
 ### Related
 
-*   [Awesome CLI (⭐452)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
+*   [Awesome CLI (⭐461)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 
 ## [52. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
 
@@ -783,12 +783,12 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Projects
 
-*   [caniuse.rs (⭐167)](https://github.com/jplatte/caniuse.rs) - Rust feature search.
+*   [caniuse.rs (⭐168)](https://github.com/jplatte/caniuse.rs) - Rust feature search.
 *   [Rust electron yew demo (⭐18)](https://github.com/Extrawurst/rust-electron-demo) - An example of building a Rust based web app (Yew) into a native app using electron.
 
 ### Tooling / Frameworks
 
-*   [wasm-pack-action (⭐49)](https://github.com/jetli/wasm-pack-action) - Github action to install `wasm-pack` by downloading the executable to speed up CI/CD.
+*   [wasm-pack-action (⭐50)](https://github.com/jetli/wasm-pack-action) - Github action to install `wasm-pack` by downloading the executable to speed up CI/CD.
 
 ## [55. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 

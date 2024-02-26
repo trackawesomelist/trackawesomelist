@@ -128,7 +128,7 @@ Free (Open Source)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [obs-websocket-gd (⭐68)](https://github.com/you-win/obs-websocket-gd) - Script and editor plugin to control Open Broadcaster Software from Godot via obs-websocket (Godot 3.x).
+*   [obs-websocket-gd (⭐69)](https://github.com/you-win/obs-websocket-gd) - Script and editor plugin to control Open Broadcaster Software from Godot via obs-websocket (Godot 3.x).
 
 ## [5. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -194,19 +194,11 @@ Free (Open Source)
 
 *   [optionals (⭐169)](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
 
-## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [13. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
 
-### 0 - Meta-Lists
+### Assembly
 
-*   [Rip Tutorials](https://riptutorial.com/ebook)
-
-### Mathematics
-
-*   [College Trigonometry](https://open.umn.edu/opentextbooks/textbooks/college-trigonometry) - Carl Stitz, Jeff Zeager (PDF)
-
-### Professional Development
-
-*   [Software Environment Concepts](https://softwareconcepts.vercel.app) - Amr Elmohamady *(:construction: in process)*
+*   [C/C++面向WebAssembly编程 (⭐1.3k)](https://github.com/3dgen/cppwasm-book/tree/master/zh) - Ending, Chai Shushan (HTML, [:package: examples (⭐1.3k)](https://github.com/3dgen/cppwasm-book/tree/master/examples))
 
 ## [14. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

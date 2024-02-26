@@ -293,7 +293,7 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### Code Analysis and Metrics
 
-*   [Traceroute (⭐887)](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
+*   [Traceroute (⭐891)](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
 
 ### Core Extensions
 
@@ -334,7 +334,7 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### JSON
 
-*   [jose (⭐292)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
+*   [jose (⭐296)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
 
 ### Natural Language Processing (NLP)
 
@@ -438,7 +438,7 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### Applications / Directory Navigation
 
-*   [iponmap (⭐302)](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
+*   [iponmap (⭐303)](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
 
 ## [33. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 

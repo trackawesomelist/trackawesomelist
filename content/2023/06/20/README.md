@@ -10,7 +10,7 @@
 
 ### Domain and IP Research / Telegram
 
-*   [WebsiteTechMiner.py (⭐1)](https://github.com/cybersader/WebsiteTechMiner-py) - automates gathering website profiling data into a CSV from the "BuiltWith" or "Wappalyzer" API for tech stack information, technographic data, website reports, website tech lookups, website architecture lookups, etc.
+*   [WebsiteTechMiner.py (⭐3)](https://github.com/cybersader/WebsiteTechMiner-py) - automates gathering website profiling data into a CSV from the "BuiltWith" or "Wappalyzer" API for tech stack information, technographic data, website reports, website tech lookups, website architecture lookups, etc.
 
 ## [2. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Software / Miscellaneous
 
-*   [Flagsmith](https://flagsmith.com) - Flagsmith provides a dashboard, API and SDKs for adding Feature Flags to your applications (alternative to LaunchDarkly). ([Source Code (⭐3.5k)](https://github.com/flagsmith/flagsmith)) `BSD-3-Clause` `Docker/K8S`
+*   [Flagsmith](https://flagsmith.com) - Flagsmith provides a dashboard, API and SDKs for adding Feature Flags to your applications (alternative to LaunchDarkly). ([Source Code (⭐3.6k)](https://github.com/flagsmith/flagsmith)) `BSD-3-Clause` `Docker/K8S`
 
 ### Software / Money, Budgeting & Management
 

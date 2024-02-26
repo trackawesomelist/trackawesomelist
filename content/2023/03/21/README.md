@@ -34,14 +34,14 @@
 
 ### Miscellaneous / React
 
-*   [GraphQL Constraint Directive (⭐559)](https://github.com/confuser/graphql-constraint-directive) - Allows using @constraint as a directive to validate input data. Inspired by Constraints Directives RFC and OpenAPI
+*   [GraphQL Constraint Directive (⭐561)](https://github.com/confuser/graphql-constraint-directive) - Allows using @constraint as a directive to validate input data. Inspired by Constraints Directives RFC and OpenAPI
 *   [Validator.js Wrapper Directive (⭐3)](https://github.com/ktutnik/graphql-directive/tree/master/packages/validator) - A comprehensive list of validator directive wraps Validator.js functionalities
 
 ## [6. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Projects / Godot 4.0
 
-*   [Clipboard Narrator (⭐28)](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
+*   [Clipboard Narrator (⭐30)](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Software / VPN
 
-*   [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds. ([Source Code (⭐968)](https://github.com/dockovpn/dockovpn)) `GPL-2.0` `Docker`
+*   [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds. ([Source Code (⭐989)](https://github.com/dockovpn/dockovpn)) `GPL-2.0` `Docker`
 
 ---
 

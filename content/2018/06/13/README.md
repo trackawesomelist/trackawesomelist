@@ -26,7 +26,7 @@
 
 ### Software / Miscellaneous
 
-*   [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code (⭐834)](https://github.com/OpenPrinting/cups)) `GPL-2.0` `C`
+*   [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code (⭐848)](https://github.com/OpenPrinting/cups)) `GPL-2.0` `C`
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

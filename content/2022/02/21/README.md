@@ -10,7 +10,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [gardenctl (⭐0)](https://github.com/holgerkoser/gardenctl) - Tab completions for the [Gardener (⭐21)](https://github.com/gardener/gardenctl-v2) command-line interface, as well as some aliases for common gardenctl commands
+*   [gardenctl (⭐0)](https://github.com/holgerkoser/gardenctl) - Tab completions for the [Gardener (⭐22)](https://github.com/gardener/gardenctl-v2) command-line interface, as well as some aliases for common gardenctl commands
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -22,8 +22,8 @@
 
 ### Command-Line Productivity
 
-*   [bartib (⭐495)](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
-*   [lowcharts (⭐152)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs in terminal
+*   [bartib (⭐542)](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
+*   [lowcharts (⭐165)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs in terminal
 
 ### Customization / Directory Navigation
 
@@ -31,15 +31,15 @@
 
 ### System Utilities / Directory Navigation
 
-*   [tiptop (⭐1.5k)](https://github.com/nschloe/tiptop) - Graphical command-line system monitor.
+*   [tiptop (⭐1.6k)](https://github.com/nschloe/tiptop) - Graphical command-line system monitor.
 
 ### Shell Script Development / Directory Navigation
 
 *   [bashly](https://bashly.dannyb.co/) - Bash command line framework and CLI generator
 *   [bash-modules (⭐118)](https://github.com/vlisivka/bash-modules) - functions for developing with [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/) enabled.
-*   [composure (⭐314)](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
+*   [composure (⭐318)](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
 *   [dispatch (⭐90)](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
-*   [getopts.fish (⭐213)](https://github.com/jorgebucaran/getopts.fish) - CLI parser for fish
+*   [getopts.fish (⭐215)](https://github.com/jorgebucaran/getopts.fish) - CLI parser for fish
 
 ## [4. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
@@ -52,17 +52,17 @@
 
 ### Forms
 
-*   [httpin (⭐236)](https://github.com/ggicci/httpin) - Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc.
+*   [httpin (⭐239)](https://github.com/ggicci/httpin) - Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc.
 
 ## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [vite-vue3-typescript-webcomponent (⭐22)](https://github.com/skysign/vite-vue3-typescript-webcomponent) - Vue 3 / Typescript / boiler plate to develop Web Component.
+*   [vite-vue3-typescript-webcomponent (⭐23)](https://github.com/skysign/vite-vue3-typescript-webcomponent) - Vue 3 / Typescript / boiler plate to develop Web Component.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-chunk-split (⭐270)](https://github.com/sanyuan0704/vite-plugin-chunk-split) - Automatically code splitting, support unbundle in production.
+*   [vite-plugin-chunk-split (⭐274)](https://github.com/sanyuan0704/vite-plugin-chunk-split) - Automatically code splitting, support unbundle in production.
 
 ### Framework-agnostic Plugins / Helpers
 

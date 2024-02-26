@@ -400,7 +400,7 @@
 ### Overlay
 
 *   [sweetalert2 (⭐17k)](https://github.com/sweetalert2/sweetalert2) - [demo/docs](https://sweetalert2.github.io/) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
-*   [sweetalert2-react-content (⭐659)](https://github.com/sweetalert2/sweetalert2-react-content) - Official SweetAlert2 enhancer adding support for React elements as content
+*   [sweetalert2-react-content (⭐663)](https://github.com/sweetalert2/sweetalert2-react-content) - Official SweetAlert2 enhancer adding support for React elements as content
 
 ## [27. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -496,12 +496,12 @@
 
 ### Applications
 
-*   [Tai (⭐441)](https://github.com/fremantle-capital/tai) - A composable, real time, cryptocurrency market data and trade execution toolkit.
-*   [workbench (⭐106)](https://github.com/fremantle-industries/workbench) - From Idea to Execution - Manage your trading operation across a globally distributed cluster.
+*   [Tai (⭐445)](https://github.com/fremantle-capital/tai) - A composable, real time, cryptocurrency market data and trade execution toolkit.
+*   [workbench (⭐108)](https://github.com/fremantle-industries/workbench) - From Idea to Execution - Manage your trading operation across a globally distributed cluster.
 
 ### Authentication
 
-*   [elixir\_auth\_google (⭐215)](https://github.com/dwyl/elixir-auth-google) - The simplest way to add Google OAuth authentication ("Sign in with Google") to your Elixir/Phoenix app.
+*   [elixir\_auth\_google (⭐220)](https://github.com/dwyl/elixir-auth-google) - The simplest way to add Google OAuth authentication ("Sign in with Google") to your Elixir/Phoenix app.
 
 ### Email
 
@@ -509,11 +509,11 @@
 
 ### Framework Components
 
-*   [recaptcha (⭐111)](https://github.com/samueljseay/recaptcha) - A simple reCaptcha 2 library for Elixir applications.
+*   [recaptcha (⭐112)](https://github.com/samueljseay/recaptcha) - A simple reCaptcha 2 library for Elixir applications.
 
 ### Instrumenting / Monitoring
 
-*   [wobserver (⭐926)](https://github.com/shinyscorpion/wobserver) - Web based metrics, monitoring, and observer.
+*   [wobserver (⭐927)](https://github.com/shinyscorpion/wobserver) - Web based metrics, monitoring, and observer.
 
 ### Lexical analysis
 
@@ -521,7 +521,7 @@
 
 ### Macros
 
-*   [pathex (⭐302)](https://github.com/hissssst/pathex) - Zero-dependency, blazing fast functional lenses.
+*   [pathex (⭐308)](https://github.com/hissssst/pathex) - Zero-dependency, blazing fast functional lenses.
 
 ### Networking
 
@@ -533,8 +533,8 @@
 
 ### PDF
 
-*   [chromic\_pdf (⭐278)](https://github.com/bitcrowd/chromic_pdf) - A client for Chrome's DevTools API to generate PDFs (HTML to PDF).
-*   [pdf\_generator (⭐314)](https://github.com/gutschilla/elixir-pdf-generator) - A simple wrapper for wkhtmltopdf or puppeteer (HTML to PDF) for use in Elixir projects.
+*   [chromic\_pdf (⭐303)](https://github.com/bitcrowd/chromic_pdf) - A client for Chrome's DevTools API to generate PDFs (HTML to PDF).
+*   [pdf\_generator (⭐318)](https://github.com/gutschilla/elixir-pdf-generator) - A simple wrapper for wkhtmltopdf or puppeteer (HTML to PDF) for use in Elixir projects.
 *   [puppeteer\_pdf (⭐95)](https://github.com/coletiv/puppeteer-pdf) - Another wrapper around puppeteer (HTML to PDF) for use in Elixir projects.
 
 ### Queue

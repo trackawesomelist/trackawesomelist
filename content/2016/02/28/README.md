@@ -43,7 +43,7 @@
 
 ### Command-Line Productivity
 
-*   [sheet (⭐255)](https://github.com/oscardelben/sheet) -  Text snippets for the command line
+*   [sheet (⭐257)](https://github.com/oscardelben/sheet) -  Text snippets for the command line
 
 ## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

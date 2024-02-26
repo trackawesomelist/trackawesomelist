@@ -62,7 +62,7 @@
 
 ### Physics
 
-*   [Project Chrono (⭐1.9k)](https://github.com/projectchrono/chrono) - An open source multi-physics simulation engine. \[BSD-3-Clause] [website](https://projectchrono.org/)
+*   [Project Chrono (⭐2k)](https://github.com/projectchrono/chrono) - An open source multi-physics simulation engine. \[BSD-3-Clause] [website](https://projectchrono.org/)
 
 ## [8. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 

@@ -18,13 +18,13 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [HttPlaceholder (⭐89)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
+*   [HttPlaceholder (⭐93)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
 
 ## [3. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Image Processing
 
-*   [pywal (⭐7.3k)](https://github.com/dylanaraps/pywal) - A tool that generates color schemes from images.
+*   [pywal (⭐7.9k)](https://github.com/dylanaraps/pywal) - A tool that generates color schemes from images.
 
 ## [4. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 

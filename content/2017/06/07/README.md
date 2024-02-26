@@ -67,14 +67,14 @@
 
 ### Libraries
 
-*   [Javascript Parser Combinator (⭐137)](https://github.com/d-plaindoux/parsec) – Javascript parser combinator implementation inspired by the Haskell's Parsec
-*   [fun-task (⭐371)](https://github.com/rpominov/fun-task) – An abstraction for managing asynchronous code in JS. Tasks are similar to Promises with the key difference that Tasks can represent a computation while Promises can represent only the results of a computation. Ships with Flow type definitions.
+*   [Javascript Parser Combinator (⭐139)](https://github.com/d-plaindoux/parsec) – Javascript parser combinator implementation inspired by the Haskell's Parsec
+*   [fun-task (⭐372)](https://github.com/rpominov/fun-task) – An abstraction for managing asynchronous code in JS. Tasks are similar to Promises with the key difference that Tasks can represent a computation while Promises can represent only the results of a computation. Ships with Flow type definitions.
 *   [most (⭐3.5k)](https://github.com/cujojs/most) – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
 
 ### Programming Tools / Lenses
 
 *   [4.5 (⭐21)](https://github.com/TylorS/4.5) – A functional assertions library. If you prefer functional style APIs and practices in JavaScript, this library aims to solve this with functionally-oriented assertions that are lazy and monadic.
-*   [hm-def (⭐197)](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
+*   [hm-def (⭐196)](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
 
 ## [10. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
 

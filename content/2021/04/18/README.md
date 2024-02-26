@@ -30,11 +30,11 @@
 
 ### Decorators
 
-*   [ShowFor (⭐462)](https://github.com/heartcombo/show_for) - Quickly show a model information with I18n features. Like form\_for for displaying model data.
+*   [ShowFor (⭐461)](https://github.com/heartcombo/show_for) - Quickly show a model information with I18n features. Like form\_for for displaying model data.
 
 ### Email
 
-*   [MailForm (⭐878)](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
+*   [MailForm (⭐879)](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 
 ### Form Builder
 
@@ -72,11 +72,11 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Darkwire.io (⭐849)](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat. `MIT` `Nodejs`
+*   [Darkwire.io (⭐854)](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat. `MIT` `Nodejs`
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [DebOps](https://docs.debops.org/) - Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. ([Source Code (⭐1.1k)](https://github.com/debops/debops)) `GPL-3.0` `Ansible/Python`
+*   [DebOps](https://docs.debops.org/) - Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. ([Source Code (⭐1.2k)](https://github.com/debops/debops)) `GPL-3.0` `Ansible/Python`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -84,7 +84,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [goploader (⭐264)](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant. `MIT` `Go`
+*   [goploader (⭐263)](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant. `MIT` `Go`
 
 ### Software / Photo and Video Galleries
 
@@ -96,7 +96,7 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Nullboard (⭐2.4k)](https://github.com/apankrat/nullboard) - Single-page minimalist kanban board; compact, highly readable and quick to use. `BSD-2-Clause` `Javascript`
+*   [Nullboard (⭐2.5k)](https://github.com/apankrat/nullboard) - Single-page minimalist kanban board; compact, highly readable and quick to use. `BSD-2-Clause` `Javascript`
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -116,16 +116,16 @@
 
 ### Contents / Imaging
 
-*   [Cornerstone (⭐1.9k)](https://github.com/cornerstonejs/cornerstone) - Open source project with a goal to deliver a complete web based medical imaging platform.
+*   [Cornerstone (⭐2k)](https://github.com/cornerstonejs/cornerstone) - Open source project with a goal to deliver a complete web based medical imaging platform.
 
 ### Contents / Frameworks
 
-*   [CareKit (⭐2.3k)](https://github.com/carekit-apple/CareKit/) - Open source software framework for creating apps that help people better understand and manage their health.
+*   [CareKit (⭐2.4k)](https://github.com/carekit-apple/CareKit/) - Open source software framework for creating apps that help people better understand and manage their health.
 
 ### Contents / Libraries
 
-*   [Evil-DICOM (⭐152)](https://github.com/rexcardan/Evil-DICOM) - C# DICOM Library.
-*   [Python SMART on FHIR client (⭐499)](https://github.com/smart-on-fhir/client-py) - Flexible Python client for FHIR servers supporting the SMART on FHIR protocol.
+*   [Evil-DICOM (⭐163)](https://github.com/rexcardan/Evil-DICOM) - C# DICOM Library.
+*   [Python SMART on FHIR client (⭐534)](https://github.com/smart-on-fhir/client-py) - Flexible Python client for FHIR servers supporting the SMART on FHIR protocol.
 
 ### Contents / Applications
 
@@ -133,7 +133,7 @@
 
 ### Contents / Datasets
 
-*   [Medical Data for Machine Learning (⭐5.5k)](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
+*   [Medical Data for Machine Learning (⭐5.7k)](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
 
 ## [10. Awesome React](/content/enaqx/awesome-react/README.md)
 

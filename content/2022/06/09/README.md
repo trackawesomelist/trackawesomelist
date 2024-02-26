@@ -16,17 +16,17 @@
 
 ### Contents / Frameworks
 
-*   [Clinical Quality Language (⭐217)](https://github.com/cqframework/clinical_quality_language) - Clinical Quality Language is a HL7 standard for the expression of clinical knowledge.
+*   [Clinical Quality Language (⭐240)](https://github.com/cqframework/clinical_quality_language) - Clinical Quality Language is a HL7 standard for the expression of clinical knowledge.
 
 ### Contents / Libraries
 
-*   [Android FHIR SDK (⭐352)](https://github.com/google/android-fhir) - The Android FHIR SDK
-*   [FHIRKit Client (⭐149)](https://github.com/Vermonster/fhir-kit-client) - Node FHIR client library.
-*   [FHIRModels (⭐147)](https://github.com/apple/FHIRModels) - FHIRModels is a Swift library for FHIR resource data models.
+*   [Android FHIR SDK (⭐424)](https://github.com/google/android-fhir) - The Android FHIR SDK
+*   [FHIRKit Client (⭐160)](https://github.com/Vermonster/fhir-kit-client) - Node FHIR client library.
+*   [FHIRModels (⭐165)](https://github.com/apple/FHIRModels) - FHIRModels is a Swift library for FHIR resource data models.
 
 ### Contents / Integration
 
-*   [Open eHealth Integration Platform (⭐146)](https://github.com/oehf/ipf) - An extension of the Apache Camel routing and mediation engine
+*   [Open eHealth Integration Platform (⭐161)](https://github.com/oehf/ipf) - An extension of the Apache Camel routing and mediation engine
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -44,13 +44,13 @@
 
 ### Libraries
 
-*   [true-myth (⭐753)](https://github.com/true-myth/true-myth) A library for safe, idiomatic null and error handling in TypeScript, with `Maybe` and `Result` types, supporting both a functional style and a more traditional method-call style
+*   [true-myth (⭐818)](https://github.com/true-myth/true-myth) A library for safe, idiomatic null and error handling in TypeScript, with `Maybe` and `Result` types, supporting both a functional style and a more traditional method-call style
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf (gimbo) (⭐0)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf (⭐57k)](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
+*   [fzf (gimbo) (⭐0)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf (⭐58k)](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
 
 ## [7. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail Grapple (⭐144)](https://github.com/torchbox/wagtail-grapple) - A Wagtail app that makes building GraphQL endpoints a breeze.
+*   [Wagtail Grapple (⭐145)](https://github.com/torchbox/wagtail-grapple) - A Wagtail app that makes building GraphQL endpoints a breeze.
 
 ### Resources / Getting started
 
@@ -86,7 +86,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [perwendel/spark-kotlin (⭐982)](https://github.com/perwendel/spark-kotlin) - A DSL in idiomatic Kotlin for the Spark web framework.
+*   [perwendel/spark-kotlin (⭐983)](https://github.com/perwendel/spark-kotlin) - A DSL in idiomatic Kotlin for the Spark web framework.
 
 ## [10. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

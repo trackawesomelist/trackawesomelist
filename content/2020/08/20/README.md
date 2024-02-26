@@ -10,12 +10,12 @@
 
 ### Framework Components
 
-*   [graphql (⭐135)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
+*   [graphql (⭐134)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
 *   [graphql-crystal (⭐216)](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) implementation
 
 ### Unofficial
 
-*   [crystal-koans (⭐43)](https://github.com/ilmanzo/crystal-koans) - Learn Crystal by writing unit tests
+*   [crystal-koans (⭐44)](https://github.com/ilmanzo/crystal-koans) - Learn Crystal by writing unit tests
 
 ## [2. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Penetration Testing
 
-*   [fsociety (⭐8.6k)](https://github.com/Manisso/fsociety) - A Penetration testing framework.
+*   [fsociety (⭐10k)](https://github.com/Manisso/fsociety) - A Penetration testing framework.
 
 ## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

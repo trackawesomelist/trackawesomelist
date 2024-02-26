@@ -28,19 +28,19 @@
 ### Memory Allocation
 
 *   [rpmalloc (⭐2k)](https://github.com/mjansson/rpmalloc) - Cross platform lock free thread caching 16-byte aligned memory allocator implemented in C. \[PublicDomain]
-*   [snmalloc (⭐1.4k)](https://github.com/microsoft/snmalloc) - Message passing based high-performance allocator. \[MIT]
+*   [snmalloc (⭐1.5k)](https://github.com/microsoft/snmalloc) - Message passing based high-performance allocator. \[MIT]
 *   [TCMalloc (⭐4k)](https://github.com/google/tcmalloc) - Google's fast, multi-threaded malloc implementation. \[Apache-2.0] [website](https://google.github.io/tcmalloc/)
 
 ### Books
 
-*   [Free C Books (⭐311k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
-*   [Free C++ Books (⭐311k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
+*   [Free C Books (⭐313k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
+*   [Free C++ Books (⭐313k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
 
 ## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [vittee/kformula (⭐29)](https://github.com/vittee/kformula) - Mathematical expression engine written in Kotlin, running on JVM.
+*   [vittee/kformula (⭐30)](https://github.com/vittee/kformula) - Mathematical expression engine written in Kotlin, running on JVM.
 
 ## [5. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 

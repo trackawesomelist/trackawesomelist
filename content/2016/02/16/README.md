@@ -76,13 +76,13 @@
 
 ### Libraries
 
-*   [PL/JSON (⭐403)](https://github.com/pljson/pljson) - A generic JSON object written in PL/SQL.
+*   [PL/JSON (⭐429)](https://github.com/pljson/pljson) - A generic JSON object written in PL/SQL.
 
 ## [12. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Authentication
 
-*   [goth (⭐269)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
+*   [goth (⭐271)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
 
 ### Editors
 

@@ -41,7 +41,7 @@
 
 ### Contents / CLI
 
-*   [pgcli (⭐11k)](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
+*   [pgcli (⭐12k)](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 
 ## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Math
 
-*   [MIRACL (⭐611)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
+*   [MIRACL (⭐615)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
 
 ### Miscellaneous
 
@@ -181,7 +181,7 @@
 
 ### Text and Numbers
 
-*   [inet\_cidr (⭐45)](https://github.com/cobenian/inet_cidr) - Classless Inter-Domain Routing (CIDR) for Elixir that is compatible with :inet and supports both IPv4 and IPv6.
+*   [inet\_cidr (⭐47)](https://github.com/cobenian/inet_cidr) - Classless Inter-Domain Routing (CIDR) for Elixir that is compatible with :inet and supports both IPv4 and IPv6.
 
 ### Third Party APIs
 
@@ -189,7 +189,7 @@
 
 ### YAML
 
-*   [yaml\_elixir (⭐163)](https://github.com/KamilLelonek/yaml-elixir) - Yaml parser for Elixir based on native Erlang implementation.
+*   [yaml\_elixir (⭐164)](https://github.com/KamilLelonek/yaml-elixir) - Yaml parser for Elixir based on native Erlang implementation.
 
 ## [20. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 

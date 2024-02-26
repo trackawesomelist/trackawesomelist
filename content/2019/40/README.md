@@ -262,7 +262,7 @@
 
 ### Applications
 
-*   [CaptainFact (⭐183)](https://github.com/CaptainFact/captain-fact-api) - A collaborative, real-time video fact-checking platform. ([Docs](https://captainfact.io/)).
+*   [CaptainFact (⭐184)](https://github.com/CaptainFact/captain-fact-api) - A collaborative, real-time video fact-checking platform. ([Docs](https://captainfact.io/)).
 *   [Exon (⭐22)](https://github.com/tchoutri/Exon) - A “mess manager” developed in Elixir and provides a simple API to manage & document your stuff. ([Docs](https://hexdocs.pm/exon/readme.html)).
 *   [medusa\_server (⭐7)](https://github.com/IcaliaLabs/medusa_server) - A simple cowboy web server written in Elixir to stack images. ([Docs](https://hexdocs.pm/medusa/0.2.0/api-reference.html)).
 
@@ -279,18 +279,18 @@
 
 ### Authorization
 
-*   [canary (⭐473)](https://github.com/cpjk/canary) - An authorization library for Elixir applications that restricts what resources the current user is allowed to access. ([Docs](https://hexdocs.pm/canary/api-reference.html)).
+*   [canary (⭐471)](https://github.com/cpjk/canary) - An authorization library for Elixir applications that restricts what resources the current user is allowed to access. ([Docs](https://hexdocs.pm/canary/api-reference.html)).
 *   [terminator (⭐60)](https://github.com/MilosMosovsky/terminator) - Database based authorization (ACL), with custom DSL rules for requiring needed permissions. ([Docs](https://hexdocs.pm/terminator/readme.html)).
 
 ### Chatting
 
-*   [ExGram (⭐172)](https://github.com/rockneurotiko/ex_gram) - a library to build Telegram Bots, you can use the low-level methods and models or use the really opinionated framework included. ([Docs](https://hexdocs.pm/ex_gram/readme.html)).
-*   [hedwig (⭐651)](https://github.com/hedwig-im/hedwig) - XMPP Client/Bot Framework for Elixir.([Docs](https://hexdocs.pm/hedwig/readme.html)).
+*   [ExGram (⭐175)](https://github.com/rockneurotiko/ex_gram) - a library to build Telegram Bots, you can use the low-level methods and models or use the really opinionated framework included. ([Docs](https://hexdocs.pm/ex_gram/readme.html)).
+*   [hedwig (⭐648)](https://github.com/hedwig-im/hedwig) - XMPP Client/Bot Framework for Elixir.([Docs](https://hexdocs.pm/hedwig/readme.html)).
 
 ### Cloud Infrastructure and Management
 
 *   [erlcloud (⭐650)](https://github.com/erlcloud/erlcloud) - Cloud Computing library for Erlang (Amazon EC2, S3, SQS, SimpleDB, Mechanical Turk, ELB). ([Docs](https://hexdocs.pm/erlcloud/)).
-*   [libcluster (⭐1.8k)](https://github.com/bitwalker/libcluster) - Automatic cluster formation/healing for Elixir applications.([Docs](https://hexdocs.pm/libcluster/readme.html)).
+*   [libcluster (⭐1.9k)](https://github.com/bitwalker/libcluster) - Automatic cluster formation/healing for Elixir applications.([Docs](https://hexdocs.pm/libcluster/readme.html)).
 
 ### Code Analysis
 
@@ -300,13 +300,13 @@
 
 ### Cryptography
 
-*   [cloak (⭐531)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.([Docs](https://hexdocs.pm/cloak/readme.html)).
+*   [cloak (⭐532)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.([Docs](https://hexdocs.pm/cloak/readme.html)).
 *   [comeonin (⭐1.3k)](https://github.com/riverrun/comeonin) - Password hashing (argon2, bcrypt, pbkdf2\_sha512) library for Elixir.(<https://hexdocs.pm/comeonin/api-reference.html>).
 *   [ex\_crypto (⭐134)](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `crypto` and `public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.([Docs](https://hexdocs.pm/ex_crypto/readme.html)).
 
 ### Date and Time
 
-*   [open\_hours (⭐43)](https://github.com/hopsor/open_hours) - Time calculations using business hours.
+*   [open\_hours (⭐46)](https://github.com/hopsor/open_hours) - Time calculations using business hours.
 *   [quantum (⭐2.2k)](https://github.com/quantum-elixir/quantum-core) - Cron-like job scheduler for Elixir applications.
 
 ### Framework Components
@@ -315,17 +315,17 @@
 
 ### Macros
 
-*   [crudry (⭐86)](https://github.com/gabrielpra1/crudry) - Crudry is an elixir library for DRYing CRUD of Phoenix Contexts and Absinthe Resolvers.
+*   [crudry (⭐87)](https://github.com/gabrielpra1/crudry) - Crudry is an elixir library for DRYing CRUD of Phoenix Contexts and Absinthe Resolvers.
 
 ### Miscellaneous
 
-*   [AlloyCI (⭐288)](https://github.com/AlloyCI/alloy_ci) - AlloyCI is a Continuous Integration, Deployment, and Delivery coordinator, written in Elixir, that takes advantage of the GitLab CI Runner, and its capabilities as executor, to prepare and run your pipelines.
+*   [AlloyCI (⭐289)](https://github.com/AlloyCI/alloy_ci) - AlloyCI is a Continuous Integration, Deployment, and Delivery coordinator, written in Elixir, that takes advantage of the GitLab CI Runner, and its capabilities as executor, to prepare and run your pipelines.
 *   [epub\_cover\_extractor (⭐6)](https://github.com/zelazna/epub_cover_extractor) - Extract cover from EPUB files.
-*   [Jisho-Elixir (⭐31)](https://github.com/nbw/jisho_elixir) - An API wrapper for Jisho.org, an online Japanese dictionary. Allows users to search by word, symbol, and or tags (refer to docs).
+*   [Jisho-Elixir (⭐32)](https://github.com/nbw/jisho_elixir) - An API wrapper for Jisho.org, an online Japanese dictionary. Allows users to search by word, symbol, and or tags (refer to docs).
 
 ### ORM and Datamapping
 
-*   [panoramix (⭐38)](https://github.com/gameanalytics/panoramix) - Apache Druid client for Elixir.
+*   [panoramix (⭐39)](https://github.com/gameanalytics/panoramix) - Apache Druid client for Elixir.
 
 ### Static Page Generation
 
@@ -1714,7 +1714,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Microsoft Windows
 
-*   [PyWin32 (⭐4.4k)](https://github.com/mhammond/pywin32) - Python Extensions for Windows.
+*   [PyWin32 (⭐4.7k)](https://github.com/mhammond/pywin32) - Python Extensions for Windows.
 
 ## [63. Awesome Qlik](/content/ambster-public/awesome-qlik/week/README.md)
 
@@ -1782,11 +1782,11 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Software / Communication - IRC
 
-*   [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code (⭐400)](https://github.com/ngircd/ngircd)) `GPL-2.0` `C/deb`
+*   [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code (⭐405)](https://github.com/ngircd/ngircd)) `GPL-2.0` `C/deb`
 
 ### Software / Games
 
-*   [piqueserver (⭐191)](https://github.com/piqueserver/piqueserver) - Server for openspades, the first-person shooter in a destructible voxel world. ([Clients (⭐1.1k)](https://github.com/yvt/openspades)) `GPL-3.0` `Python/C++`
+*   [piqueserver (⭐192)](https://github.com/piqueserver/piqueserver) - Server for openspades, the first-person shooter in a destructible voxel world. ([Clients (⭐1.1k)](https://github.com/yvt/openspades)) `GPL-3.0` `Python/C++`
 
 ## [72. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

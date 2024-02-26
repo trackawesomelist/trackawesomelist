@@ -14,12 +14,12 @@
 
 ### Debug
 
-*   [snitch (⭐219)](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework. \[Boost]
+*   [snitch (⭐221)](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework. \[Boost]
 
 ### Game Engine
 
 *   [Torque2D (⭐1.1k)](https://github.com/TorqueGameEngines/Torque2D) - An open-source and cross-platform C++ engine built for 2D game development. \[MIT] [website](https://torque3d.org/torque2d)
-*   [Torque3D (⭐1.2k)](https://github.com/TorqueGameEngines/Torque3D) - An open-source C++ engine built for 3D game development. \[MIT] [website](https://torque3d.org/torque3d)
+*   [Torque3D (⭐1.3k)](https://github.com/TorqueGameEngines/Torque3D) - An open-source C++ engine built for 3D game development. \[MIT] [website](https://torque3d.org/torque3d)
 
 ### Math
 
@@ -188,7 +188,7 @@
 
 ### Templates / React
 
-*   [template-vite-react-ts-tailwind (⭐24)](https://github.com/RoyRao2333/template-vite-react-ts-tailwind) - React + TypeScript + Tailwind CSS + Eslint + Prettier.
+*   [template-vite-react-ts-tailwind (⭐23)](https://github.com/RoyRao2333/template-vite-react-ts-tailwind) - React + TypeScript + Tailwind CSS + Eslint + Prettier.
 
 ## [12. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
@@ -213,14 +213,14 @@
 
 ### Username Check / Telegram
 
-*   [NexFil (⭐1.9k)](https://github.com/thewhiteh4t/nexfil) - checks username from almost all social network sites.
-*   [Seekr (⭐314)](https://github.com/seekr-osint/seekr) A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.
+*   [NexFil (⭐2k)](https://github.com/thewhiteh4t/nexfil) - checks username from almost all social network sites.
+*   [Seekr (⭐428)](https://github.com/seekr-osint/seekr) A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.
 
 ### Video Search and Other Video Tools / Telegram
 
 *   [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) - Searches currently 5 YouTube archives for specific videos by ID, which is really useful for finding deleted or private YouTube videos.
-*   [Tubuep (⭐327)](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
-*   [yt-dlp (⭐56k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [Tubuep (⭐363)](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
+*   [yt-dlp (⭐66k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [16. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
@@ -267,7 +267,7 @@
 
 ### 3D / Godot 3.2+
 
-*   [Tanks of Freedom II (⭐101)](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
+*   [Tanks of Freedom II (⭐135)](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
 
 ## [22. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 

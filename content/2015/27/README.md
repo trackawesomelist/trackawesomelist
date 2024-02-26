@@ -108,7 +108,7 @@
 
 ### PDF
 
-*   [pdf2htmlex (⭐85)](https://github.com/ricn/pdf2htmlex) - Convert PDF docs to beautiful HTML files without losing text or format.
+*   [pdf2htmlex (⭐84)](https://github.com/ricn/pdf2htmlex) - Convert PDF docs to beautiful HTML files without losing text or format.
 
 ## [6. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
 
@@ -121,13 +121,13 @@
 ### Machine Learning
 
 *   [ahaz](http://cran.r-project.org/web/packages/ahaz/index.html) - Regularization for semiparametric additive hazards regression.
-*   [Clever Algorithms For Machine Learning (⭐238)](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
+*   [Clever Algorithms For Machine Learning (⭐239)](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
 *   [e1071](http://cran.r-project.org/web/packages/e1071/index.html) - Misc Functions of the Department of Statistics (e1071), TU Wien
 *   [kohonen](http://cran.r-project.org/web/packages/kohonen/) - Supervised and Unsupervised Self-Organising Maps.
 *   [randomForest](http://cran.r-project.org/web/packages/randomForest/index.html) - randomForest: Breiman and Cutler's random forests for classification and regression.
 *   [randomForestSRC](http://cran.r-project.org/web/packages/randomForestSRC/index.html) - randomForestSRC: Random Forests for Survival, Regression and Classification (RF-SRC).
 *   [rattle](http://cran.r-project.org/web/packages/rattle/index.html) - Graphical user interface for data mining in R.
-*   [SuperLearner (⭐258)](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
+*   [SuperLearner (⭐257)](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
 
 ## [8. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
@@ -276,12 +276,12 @@ Learn from the team that spearheaded the [Node Security Project](https://nodesec
 ### Database
 
 *   [MongoDB C Driver (⭐793)](https://github.com/mongodb/mongo-c-driver) - MongoDB client library for C. \[Apache2]
-*   [MongoDB C++ Driver (⭐1k)](https://github.com/mongodb/mongo-cxx-driver) - C++ driver for MongoDB. \[Apache2]
+*   [MongoDB C++ Driver (⭐999)](https://github.com/mongodb/mongo-cxx-driver) - C++ driver for MongoDB. \[Apache2]
 *   [MongoDB Libbson (⭐343)](https://github.com/mongodb/libbson) - A BSON utility library. \[Apache2]
 
 ### Debug
 
-*   [Celero (⭐794)](https://github.com/DigitalInBlue/Celero) - C++ Benchmarking Framework. \[Apache2]
+*   [Celero (⭐797)](https://github.com/DigitalInBlue/Celero) - C++ Benchmarking Framework. \[Apache2]
 
 ### Graphics
 

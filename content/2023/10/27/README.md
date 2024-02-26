@@ -41,7 +41,7 @@
 
 ### ChatGPT
 
-*   [ollama (⭐36k)](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally.
+*   [ollama (⭐41k)](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally.
 
 ### Copilot
 
@@ -87,7 +87,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Astro Template Ovidius (⭐30)](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
+*   📁 [Astro Template Ovidius (⭐37)](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 
 ---
 

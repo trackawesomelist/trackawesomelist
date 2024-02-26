@@ -39,13 +39,13 @@
 
 ### Applications / Blockchain
 
-*   [tendermint-rs (⭐564)](https://github.com/informalsystems/tendermint-rs) - Rust implementation of Tendermint blockchain data structures and clients
+*   [tendermint-rs (⭐564)](https://github.com/informalsystems/tendermint-rs) - Tendermint blockchain data structures and clients
 
 ## [6. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### GUI Development
 
-*   [pyglet (⭐1.5k)](https://github.com/pyglet/pyglet) - A cross-platform windowing and multimedia library for Python.
+*   [pyglet (⭐1.7k)](https://github.com/pyglet/pyglet) - A cross-platform windowing and multimedia library for Python.
 
 ## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 

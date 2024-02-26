@@ -53,7 +53,7 @@
 
 ### Contents / Monitoring
 
-*   [pgwatch2 (⭐1.5k)](https://github.com/cybertec-postgresql/pgwatch2) - Flexible and easy to get started PostgreSQL metrics monitor focusing on Grafana dashboards.
+*   [pgwatch2 (⭐1.7k)](https://github.com/cybertec-postgresql/pgwatch2) - Flexible and easy to get started PostgreSQL metrics monitor focusing on Grafana dashboards.
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

@@ -44,10 +44,6 @@
 
 ## [5. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
-### Projects / API Design
-
-*   [Dredd (⭐4k) (⭐4.1k)](https://github.com/apiaryio/dredd) - Validate API description docs against backend implementation using this language-agnostic CLI tool.
-
 ### Resources / API Specification
 
 *   [RAML (⭐3.8k) (⭐3.9k)](https://github.com/raml-org/raml-spec) - A RESTful API Modeling Language that allows software engineers to design and create efficient APIs by modeling resources, endpoints, and interactions.

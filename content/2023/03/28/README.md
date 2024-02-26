@@ -31,22 +31,21 @@
 *   [Mail7.io](https://www.mail7.io/) — Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API.
 *   [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
 *   [SendGrid](https://sendgrid.com/) — 100 emails/day and 2,000 contacts free
-*   [Sendinblue](https://www.sendinblue.com/) — 9,000 emails/month, 300 emails/day free
-*   [Sendpulse](https://sendpulse.com) — 500 subscribers/month, 12,000 emails/month free
+*   [Sendpulse](https://sendpulse.com) — 500 subscribers/month, 15,000 emails/month free
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Documentation
 
 *   [doxyrest (⭐303)](https://github.com/vovkos/doxyrest) - A compiler from Doxygen XML to reStructuredText for Sphinx. \[MIT]
-*   [hdoc (⭐273)](https://github.com/hdoc/hdoc) - The modern documentation tool for C++. \[AGPL/Proprietary] [website](https://hdoc.io)
-*   [Natural Docs (⭐184)](https://github.com/NaturalDocs/NaturalDocs) - Natural Docs is an open source documentation generator for multiple programming languages. \[AGPL/Proprietary] [website](https://www.naturaldocs.org)
+*   [hdoc (⭐276)](https://github.com/hdoc/hdoc) - The modern documentation tool for C++. \[AGPL/Proprietary] [website](https://hdoc.io)
+*   [Natural Docs (⭐185)](https://github.com/NaturalDocs/NaturalDocs) - Natural Docs is an open source documentation generator for multiple programming languages. \[AGPL/Proprietary] [website](https://www.naturaldocs.org)
 
 ## [4. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Serverless Frameworks
 
-*   [Zappa (⭐2.5k)](https://github.com/zappa/Zappa) - A tool for deploying WSGI applications on AWS Lambda and API Gateway.
+*   [Zappa (⭐3k)](https://github.com/zappa/Zappa) - A tool for deploying WSGI applications on AWS Lambda and API Gateway.
 
 ## [5. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 

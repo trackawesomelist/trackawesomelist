@@ -2,20 +2,37 @@
 
 :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/woop/awesome-quantified-self/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) · ⭐ 2K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/woop/awesome-quantified-self/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) · ⭐ 2.1K · 🏷️ Miscellaneous
 
 [ [Daily](/content/woop/awesome-quantified-self/README.md) / Weekly / [Overview](/content/woop/awesome-quantified-self/readme/README.md) ]
+
+## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
+
+### Applications and Platforms / Data Collection
+
+*   [Reflect](https://ntl.ai/reflect) - Tracking app with customizable forms and data insights (iOS).
+
+### Applications and Platforms / Diet
+
+*   [Nutriely](https://nutriely.com) - Food and nutrition tracking, diary. Focusing on detailed micro and vitamin breakdown. (Web)
+
+### Open Source Projects / Wealth
+
+*   [Me API (⭐818)](https://github.com/danfang/me-api) - An extensible, personal API with custom integrations.
+*   [Bolero (⭐15)](https://github.com/bcongdon/bolero) - An extensible, personal API with custom integrations.
+*   [Memacs (⭐949)](https://github.com/novoid/Memacs) - Visualize your life in Orgmode.
+*   [Syte3 (⭐44)](https://github.com/rigoneri/Syte3) - A personal website that shows your activity on social networks and more.
 
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
 
 ### Applications and Platforms / Aggregators & Dashboards
 
-*   [BiomarkerDash (⭐1)](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
+*   [BiomarkerDash (⭐10)](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
 
 ### Open Source Projects / Wealth
 
 *   [Timeliner (⭐3.5k)](https://github.com/mholt/timeliner) - A data aggregation and and timeline visualization tool.
-*   [TimelineBuilder (⭐45)](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
+*   [TimelineBuilder (⭐322)](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
 
 ## [May 01 - May 07, 2023](/content/2023/18/README.md)
 
@@ -35,7 +52,7 @@
 
 ### Applications and Platforms / Wealth
 
-*   [Firefly III (⭐11k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
+*   [Firefly III (⭐13k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
@@ -65,7 +82,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [health-records (⭐21)](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
+*   [health-records (⭐23)](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
 
 ## [Mar 29 - Apr 04, 2021](/content/2021/13/README.md)
 
@@ -145,7 +162,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [Awesome Biomarkers (⭐289)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
+*   [Awesome Biomarkers (⭐324)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
 
 ## [Feb 10 - Feb 16, 2020](/content/2020/6/README.md)
 
@@ -164,7 +181,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [Heedy (⭐371)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
+*   [Heedy (⭐388)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
 
 ## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
 
@@ -198,7 +215,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [QS Ledger (⭐908)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
+*   [QS Ledger (⭐950)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
 
 ## [Jun 03 - Jun 09, 2019](/content/2019/22/README.md)
 
@@ -330,7 +347,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [Flow Dashboard (⭐1.6k)](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
+*   [Flow Dashboard (⭐1.7k)](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
 
 ## [May 22 - May 28, 2017](/content/2017/21/README.md)
 
@@ -435,7 +452,7 @@
 *   [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 *   [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 *   [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
-*   [Ledger (⭐4.7k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
+*   [Ledger (⭐5k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 
 ## [Dec 12 - Dec 18, 2016](/content/2016/50/README.md)
 
@@ -553,5 +570,5 @@
 ### Open Source Projects / Wealth
 
 *   [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
-*   [Quantifier (⭐39)](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
-*   [Fluxtream (⭐148)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
+*   [Quantifier (⭐40)](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
+*   [Fluxtream (⭐150)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.

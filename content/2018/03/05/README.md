@@ -113,7 +113,7 @@
 
 ### Algorithms and Data structures
 
-*   [machinery (⭐499)](https://github.com/joaomdmoura/machinery) - A state machine library for structs in general, it integrates with Phoenix out of the box.
+*   [machinery (⭐504)](https://github.com/joaomdmoura/machinery) - A state machine library for structs in general, it integrates with Phoenix out of the box.
 
 ### Miscellaneous
 

@@ -10,11 +10,11 @@
 
 ### Command-Line Productivity
 
-*   [spark.fish (⭐313)](https://github.com/jorgebucaran/spark.fish) - ▁▂▃▅ Sparkline Generator
+*   [spark.fish (⭐322)](https://github.com/jorgebucaran/spark.fish) - ▁▂▃▅ Sparkline Generator
 
 ### Command-Line Productivity / Directory Navigation
 
-*   [zoxide (⭐12k)](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem, written in Rust
+*   [zoxide (⭐13k)](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem, written in Rust
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
@@ -34,91 +34,58 @@
 
 *   Algorithms
     *   [algorithms (⭐23k)](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
-    *   [python-ds (⭐2.1k)](https://github.com/prabhupant/python-ds) - A collection of data structure and algorithms for coding interviews.
-    *   [sortedcontainers (⭐3k)](https://github.com/grantjenks/python-sortedcontainers) - Fast and pure-Python implementation of sorted collections.
-    *   [TheAlgorithms (⭐160k)](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
+    *   [python-ds (⭐2.6k)](https://github.com/prabhupant/python-ds) - A collection of data structure and algorithms for coding interviews.
+    *   [sortedcontainers (⭐3.2k)](https://github.com/grantjenks/python-sortedcontainers) - Fast and pure-Python implementation of sorted collections.
+    *   [thealgorithms (⭐176k)](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
 
 ### ASGI Servers
 
-*   [uvicorn (⭐6.7k)](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
+*   [uvicorn (⭐7.6k)](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
 
-### Concurrency and Parallelism
+### Asynchronous Programming
 
-*   [uvloop (⭐9.4k)](https://github.com/MagicStack/uvloop) - Ultra fast implementation of `asyncio` event loop on top of `libuv`.
 *   [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) - (Python standard library) Process-based parallelism.
+*   [uvloop (⭐9.9k)](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 
 ### Built-in Classes Enhancement
 
 *   [dataclasses](https://docs.python.org/3/library/dataclasses.html) - (Python standard library) Data classes.
 
-### CMS
-
-*   [wagtail](https://wagtail.io/) - A Django content management system.
-
 ### Code Analysis
 
-*   Static Type Checkers, also see [awesome-python-typing (⭐1.4k)](https://github.com/typeddjango/awesome-python-typing)
-    *   [mypy](http://mypy-lang.org/) - Check variable types during compile time.
-    *   [pyre-check (⭐6.4k)](https://github.com/facebook/pyre-check) - Performant type checking.
-    *   [typeshed (⭐3.7k)](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
+*   Static Type Checkers, also see [awesome-python-typing (⭐1.5k)](https://github.com/typeddjango/awesome-python-typing)
+    *   [mypy (⭐17k)](https://github.com/python/mypy) - Check variable types during compile time.
+    *   [pyre-check (⭐6.6k)](https://github.com/facebook/pyre-check) - Performant type checking.
+    *   [typeshed (⭐4k)](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
 
 ### Computer Vision
 
-*   [OpenCV](https://opencv.org/) - Open Source Computer Vision Library.
-*   [tesserocr (⭐1.8k)](https://github.com/sirfz/tesserocr) - Another simple, Pillow-friendly, wrapper around the `tesseract-ocr` API for OCR.
+*   [tesserocr (⭐1.9k)](https://github.com/sirfz/tesserocr) - Another simple, Pillow-friendly, wrapper around the `tesseract-ocr` API for OCR.
 
-### Configuration
+### Configuration Files
 
-*   [hydra (⭐7.3k)](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications.
-
-### Data Analysis
-
-*   [AWS Data Wrangler (⭐3.5k)](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS.
-*   [Optimus (⭐1.4k)](https://github.com/ironmussa/Optimus) - Agile Data Science Workflows made easy with PySpark.
+*   [hydra (⭐8k)](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications.
 
 ### Data Visualization
 
-*   [plotnine (⭐3.5k)](https://github.com/has2k1/plotnine) - A grammar of graphics for Python based on ggplot2.
-
-### Date and Time
-
-*   [maya (⭐3.4k)](https://github.com/timofurrer/maya) - Datetimes for Humans.
+*   [plotnine (⭐3.7k)](https://github.com/has2k1/plotnine) - A grammar of graphics for Python based on ggplot2.
 
 ### DevOps Tools
 
 *   Configuration Management
-    *   [ansible (⭐58k)](https://github.com/ansible/ansible) - A radically simple IT automation platform.
-    *   [cloudinit](https://cloudinit.readthedocs.io/en/latest/) - A multi-distribution package that handles early initialization of a cloud instance.
-    *   [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
-    *   [pyinfra (⭐2.3k)](https://github.com/Fizzadar/pyinfra) - A versatile CLI tools and python libraries to automate infrastructure.
-    *   [saltstack (⭐13k)](https://github.com/saltstack/salt) - Infrastructure automation and management system.
-*   Process Management
-    *   [honcho (⭐1.5k)](https://github.com/nickstenning/honcho) - A Python clone of [Foreman (⭐5.9k)](https://github.com/ddollar/foreman), for managing Procfile-based applications.
-    *   [supervisor (⭐7.8k)](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX.
+    *   [ansible (⭐60k)](https://github.com/ansible/ansible) - A radically simple IT automation platform.
+    *   [cloudinit (⭐2.5k)](https://github.com/canonical/cloud-init) - A multi-distribution package that handles early initialization of a cloud instance.
+    *   [openstack](https://www.openstack.org/) - Open source software for building private and public clouds.
+    *   [pyinfra (⭐2.5k)](https://github.com/pyinfra-dev/pyinfra) - A versatile CLI tools and python libraries to automate infrastructure.
+    *   [saltstack (⭐14k)](https://github.com/saltstack/salt) - Infrastructure automation and management system.
 
 ### Distribution
 
-*   [pyarmor (⭐2.3k)](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
+*   [pyarmor (⭐2.8k)](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
 
 ### Downloader
 
-*   [akshare (⭐6.8k)](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
-
-### E-commerce
-
-*   [forex-python (⭐583)](https://github.com/MicroPyramid/forex-python) - Foreign exchange rates, Bitcoin price index and currency conversion.
-
-### Functional Programming
-
-*   [CyToolz (⭐928)](https://github.com/pytoolz/cytoolz/) - Cython implementation of `Toolz`: High performance functional utilities.
-
-### GraphQL
-
-*   [tartiflette](https://tartiflette.io) - SDL-first GraphQL engine implementation for Python 3.6+ and asyncio.
-
-### Implementations
-
-*   [CLPython (⭐355)](https://github.com/metawilm/cl-python) - Implementation of the Python programming language written in Common Lisp.
+*   [akshare (⭐7.9k)](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
 
 ### Job Scheduler
 
@@ -131,21 +98,17 @@
 ### Package Management
 
 *   [pip](https://pip.pypa.io/en/stable/) - The package installer for Python.
-    *   [pip-tools (⭐6.9k)](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+    *   [pip-tools (⭐7.3k)](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
     *   [PyPI](https://pypi.org/)
-*   [poetry (⭐26k)](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
+*   [poetry (⭐29k)](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 
 ### Package Repositories
 
-*   [warehouse (⭐3.3k)](https://github.com/pypa/warehouse) - Next generation Python Package Repository (PyPI).
+*   [warehouse (⭐3.4k)](https://github.com/pypa/warehouse) - Next generation Python Package Repository (PyPI).
 
 ### RPC Servers
 
 *   [zeroRPC (⭐3.1k)](https://github.com/0rpc/zerorpc-python) - zerorpc is a flexible RPC implementation based on [ZeroMQ](http://zeromq.org/) and [MessagePack](http://msgpack.org/).
-
-### Science
-
-*   [Open Babel](http://openbabel.org/wiki/Main_Page) - A chemical toolbox designed to speak the many languages of chemical data.
 
 ### Search
 
@@ -154,24 +117,16 @@
 
 ### Static Site Generator
 
-*   [mkdocs (⭐17k)](https://github.com/mkdocs/mkdocs/) - Markdown friendly documentation generator.
+*   [mkdocs (⭐18k)](https://github.com/mkdocs/mkdocs/) - Markdown friendly documentation generator.
 *   [pelican (⭐12k)](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax.
 
 ### Template Engine
 
-*   [Jinja2 (⭐9.3k)](https://github.com/pallets/jinja) - A modern and designer friendly templating language.
+*   [Jinja2 (⭐9.8k)](https://github.com/pallets/jinja) - A modern and designer friendly templating language.
 
 ### Video
 
-*   [vidgear (⭐2.8k)](https://github.com/abhiTronix/vidgear) - Most Powerful multi-threaded Video Processing framework.
-
-### Web Crawling
-
-*   [portia (⭐8.9k)](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
-
-### Newsletters
-
-*   [Python Weekly](http://www.pythonweekly.com/)
+*   [vidgear (⭐3.1k)](https://github.com/abhiTronix/vidgear) - Most Powerful multi-threaded Video Processing framework.
 
 ## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 

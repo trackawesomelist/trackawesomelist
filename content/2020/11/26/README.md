@@ -20,7 +20,7 @@
 
 ### Frontend components
 
-*   [ngx-formly (⭐2.4k)](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular
+*   [ngx-formly (⭐2.7k)](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular
 
 ## [3. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 

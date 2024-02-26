@@ -16,7 +16,7 @@
 
 ### Misc
 
-*   [gphoto2-web.cr (⭐7)](https://github.com/Sija/gphoto2-web.cr) - Web API for libgphoto2
+*   [gphoto2-web.cr (⭐8)](https://github.com/Sija/gphoto2-web.cr) - Web API for libgphoto2
 
 ## [3. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
@@ -950,16 +950,16 @@
 
 ### Contents / Backups
 
-*   [wal-g (⭐2.6k)](https://github.com/wal-g/wal-g) - The successor of WAL-E rewritten in Go. Currently supports cloud object storage services by AWS (S3), Google Cloud (GCS), Azure, as well as OpenStack Swift, MinIO, and file system storages. Supports block-level incremental backups, offloading backup tasks to a standby server, provides parallelization and throttling options. In addition to Postgres, WAL-G can be used for MySQL and MongoDB databases.
+*   [wal-g (⭐2.9k)](https://github.com/wal-g/wal-g) - The successor of WAL-E rewritten in Go. Currently supports cloud object storage services by AWS (S3), Google Cloud (GCS), Azure, as well as OpenStack Swift, MinIO, and file system storages. Supports block-level incremental backups, offloading backup tasks to a standby server, provides parallelization and throttling options. In addition to Postgres, WAL-G can be used for MySQL and MongoDB databases.
 
 ### Contents / CLI
 
-*   [pgsh (⭐523)](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
-*   [schemaspy (⭐2.6k)](https://github.com/schemaspy/schemaspy) - SchemaSpy is a JAVA JDBC-compliant tool for generating your database to HTML documentation, including Entity Relationship diagrams
+*   [pgsh (⭐542)](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
+*   [schemaspy (⭐2.9k)](https://github.com/schemaspy/schemaspy) - SchemaSpy is a JAVA JDBC-compliant tool for generating your database to HTML documentation, including Entity Relationship diagrams
 
 ### Contents / Monitoring
 
-*   [PMM (⭐361)](https://github.com/percona/pmm) - Percona Monitoring and Management (PMM) is a Free and Open Source platform for monitoring and managing PostgreSQL, MySQL, and MongoDB.
+*   [PMM (⭐499)](https://github.com/percona/pmm) - Percona Monitoring and Management (PMM) is a Free and Open Source platform for monitoring and managing PostgreSQL, MySQL, and MongoDB.
 *   [pgmetrics](https://pgmetrics.io/) - pgmetrics is an open-source, zero-dependency, single-binary tool that can collect a lot of information and statistics from a running PostgreSQL server and display it in easy-to-read text format or export it as JSON and CSV for scripting.
 *   [okmeter.io](https://okmeter.io/pg) - Commercial SaaS agent-based monitoring with a very detailed PostgreSQL plugin. It automatically gathers 100s of stats, displays dashboards on every aspect and sends alerts when something goes wrong (Commercial Software).
 
@@ -970,21 +970,21 @@
 ### Contents / Optimization
 
 *   [pg\_flame (⭐1.5k)](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
-*   [TimescaleDB Tune (⭐347)](https://github.com/timescale/timescaledb-tune) - a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.
+*   [TimescaleDB Tune (⭐390)](https://github.com/timescale/timescaledb-tune) - a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.
 
 ### Contents / Utilities
 
-*   [Hasura GraphQL Engine (⭐30k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
-*   [pg\_activity (⭐2.1k)](https://github.com/dalibo/pg_activity) - top like application for PostgreSQL server activity monitoring.
+*   [Hasura GraphQL Engine (⭐31k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+*   [pg\_activity (⭐2.3k)](https://github.com/dalibo/pg_activity) - top like application for PostgreSQL server activity monitoring.
 *   [PgBouncer](http://www.pgbouncer.org/) - Lightweight connection pooler for PostgreSQL.
 *   [pgpool-II](https://www.pgpool.net/mediawiki/index.php/Main_Page) - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections.
 
 ### Contents / Language bindings
 
-*   Go: [pq (⭐8.1k)](https://github.com/lib/pq), [pgx (⭐7.3k)](https://github.com/jackc/pgx)
-*   Node: [node-postgres (⭐11k)](https://github.com/brianc/node-postgres), [pg-promise (⭐3.3k)](https://github.com/vitaly-t/pg-promise), [pogi (⭐138)](https://github.com/holdfenytolvaj/pogi), [slonik (⭐3.9k)](https://github.com/gajus/slonik), [postgres (⭐4.6k)](https://github.com/porsager/postgres)
+*   Go: [pq (⭐8.6k)](https://github.com/lib/pq), [pgx (⭐9k)](https://github.com/jackc/pgx)
+*   Node: [node-postgres (⭐12k)](https://github.com/brianc/node-postgres), [pg-promise (⭐3.4k)](https://github.com/vitaly-t/pg-promise), [pogi (⭐138)](https://github.com/holdfenytolvaj/pogi), [slonik (⭐4.3k)](https://github.com/gajus/slonik), [postgres (⭐6.4k)](https://github.com/porsager/postgres)
 *   Python: [psycopg2](https://pypi.org/project/psycopg2/), [asyncpg](https://pypi.org/project/asyncpg/)
-*   Ruby: [pg (⭐695)](https://github.com/ged/ruby-pg)
+*   Ruby: [pg (⭐739)](https://github.com/ged/ruby-pg)
 
 ### Resources / Articles
 
@@ -1001,7 +1001,7 @@
 *   [Mailing lists](https://www.postgresql.org/list/) - Official mailing lists for Postgres for support, outreach, and more. One of the primary channels of communication in the Postgres community.
 *   [Reddit](https://www.reddit.com/r/PostgreSQL/) - A reddit community for PostgreSQL users with over 12000 users
 *   [Slack](https://postgres-slack.herokuapp.com/) - Slack channel for Postgres with over 7000 users
-*   Telegram - Several groups for PostgreSQL in different langauges: [Russian](https://t.me/pgsql) >4200 people, [Brazilian Portuguese](https://t.me/postgresqlbr) >2300 people, [Indonesian](https://t.me/postgresql_id) \~1000 people, [English](https://t.me/postgreschat) >750 people
+*   Telegram - Several groups for PostgreSQL in different languages: [Russian](https://t.me/pgsql) >4200 people, [Brazilian Portuguese](https://t.me/postgresqlbr) >2300 people, [Indonesian](https://t.me/postgresql_id) \~1000 people, [English](https://t.me/postgreschat) >750 people
 *   [#postgresql on Freenode](https://webchat.freenode.net/#postgresql) - The most popular IRC channel about Postgres on Freenode with over 1000 users
 
 ## [16. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
@@ -1044,7 +1044,7 @@
 
 ### Projects
 
-*   [Minesweeper (⭐31)](https://github.com/jgpaiva/minesweeper) - Minesweeper built with Rust, Yew and WebAssembly.
+*   [Minesweeper (⭐32)](https://github.com/jgpaiva/minesweeper) - Minesweeper built with Rust, Yew and WebAssembly.
 
 ## [23. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -1287,7 +1287,7 @@
 
 ### Decentralized Systems
 
-*   [Waves (⭐77)](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
+*   [Waves (⭐75)](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
 
 ## [45. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -1304,7 +1304,7 @@
 
 ### Integrations
 
-*   [playwright-github-action (⭐299)](https://github.com/microsoft/playwright-github-action) - GitHub Action to install all the required dependencies.
+*   [playwright-github-action (⭐302)](https://github.com/microsoft/playwright-github-action) - GitHub Action to install all the required dependencies.
 
 ## [47. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
@@ -1324,7 +1324,7 @@
 
 ### Development tools / Web Servers
 
-*   [Rust Search Extension (⭐1.1k)](https://github.com/huhu/rust-search-extension) — A handy browser extension to search crates and docs in address bar (omnibox). [![Build Status](https://github.com/huhu/rust-search-extension/workflows/build/badge.svg?branch=master)](https://github.com/huhu/rust-search-extension/actions)
+*   [Rust Search Extension (⭐1.2k)](https://github.com/huhu/rust-search-extension) — A handy browser extension to search crates and docs in address bar (omnibox). [![Build Status](https://github.com/huhu/rust-search-extension/workflows/build/badge.svg?branch=master)](https://github.com/huhu/rust-search-extension/actions)
 
 ## [49. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -1415,7 +1415,7 @@
 
 ### Photo / Image
 
-*   [react-imgix (⭐349)](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background!
+*   [react-imgix (⭐351)](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background!
 
 ## [54. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
 
@@ -1457,7 +1457,7 @@
 
 ### Automation
 
-*   [ActiveWorkflow (⭐765)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
+*   [ActiveWorkflow (⭐785)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
 
 ### Captchas and anti-spam
 
@@ -1766,7 +1766,7 @@
 
 ### universally from / multiple sources
 
-*   [RSS-Bridge (⭐6.6k)](https://github.com/RSS-Bridge/rss-bridge/wiki) <sup>[257](https://t.me/s/aboutrss/257), [469](https://t.me/s/aboutrss/469), [478](https://t.me/s/aboutrss/478)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSS-Bridge/rss-bridge)
+*   [RSS-Bridge (⭐6.7k)](https://github.com/RSS-Bridge/rss-bridge/wiki) <sup>[257](https://t.me/s/aboutrss/257), [469](https://t.me/s/aboutrss/469), [478](https://t.me/s/aboutrss/478)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSS-Bridge/rss-bridge)
 
 ### universally from / newsletter/mail
 

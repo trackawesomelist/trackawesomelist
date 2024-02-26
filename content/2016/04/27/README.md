@@ -53,7 +53,7 @@ Starting with time series analysis, you will also learn how to optimize portfoli
 
 ### Lists / Book/monograph Lists and Reviews
 
-*   [RStartHere (⭐657)](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R packages, organized by workflow.
+*   [RStartHere (⭐655)](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R packages, organized by workflow.
 
 ## [7. Learn to Program](/content/karlhorky/learn-to-program/README.md)
 

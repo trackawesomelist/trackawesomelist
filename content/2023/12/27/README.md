@@ -206,9 +206,9 @@
 
 ### Integrations
 
-*   [Chromium for Serverless platforms (⭐631)](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) - Chromium for Serverless platforms.
-*   [@axe-core/playwright (⭐536)](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/playwright/README.md) - Official Axe integration with Playwright.
-*   [artillery-engine-playwright (⭐7.2k)](https://github.com/artilleryio/artillery/tree/main/packages/artillery-engine-playwright) - Load testing with Playwright.
+*   [Chromium for Serverless platforms (⭐682)](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) - Chromium for Serverless platforms.
+*   [@axe-core/playwright (⭐544)](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/playwright/README.md) - Official Axe integration with Playwright.
+*   [artillery-engine-playwright (⭐7.3k)](https://github.com/artilleryio/artillery/tree/main/packages/artillery-engine-playwright) - Load testing with Playwright.
 *   [Serenity/JS](https://serenity-js.org) - Acceptance testing, reporting, and test integration framework for Playwright, implementing the [Screenplay Pattern](https://serenity-js.org/handbook/design/screenplay-pattern/).
 
 ### Utils
@@ -218,7 +218,7 @@
 
 ### Reporters
 
-*   [testomatio-reporter (⭐101)](https://github.com/testomatio/reporter) - Runs and sends test executions to the TCMS testomatio, Jira / Linear / Azure DevOps task management.
+*   [testomatio-reporter (⭐100)](https://github.com/testomatio/reporter) - Runs and sends test executions to the TCMS testomatio, Jira / Linear / Azure DevOps task management.
 
 ### Guides
 
@@ -237,9 +237,9 @@
 
 *   Anti-honeypot stuff
 
-    *   [canarytokendetector (⭐7)](https://github.com/referefref/canarytokendetector) - Tool for detection and nullification of Thinkst CanaryTokens
-    *   [honeydet (⭐14)](https://github.com/referefref/honeydet) - Signature based honeypot detector tool written in Golang
-    *   [kippo\_detect (⭐54)](https://github.com/andrew-morris/kippo_detect) - Offensive component that detects the presence of the kippo honeypot.
+    *   [canarytokendetector (⭐8)](https://github.com/referefref/canarytokendetector) - Tool for detection and nullification of Thinkst CanaryTokens
+    *   [honeydet (⭐52)](https://github.com/referefref/honeydet) - Signature based honeypot detector tool written in Golang
+    *   [kippo\_detect (⭐55)](https://github.com/andrew-morris/kippo_detect) - Offensive component that detects the presence of the kippo honeypot.
 *   Honeypot deployment
 
     *   [honeyfs (⭐0)](https://github.com/referefref/honeyfs) - Tool to create artificial file systems for medium/high interaction honeypots.
@@ -335,7 +335,7 @@
 
 ### Frameworks
 
-*   [itlib (⭐131)](https://github.com/iboB/itlib) - A collection of std-like single-header C++ libraries  \[MIT]
+*   [itlib (⭐133)](https://github.com/iboB/itlib) - A collection of std-like single-header C++ libraries  \[MIT]
 
 ### CLI
 
@@ -344,58 +344,58 @@
 ### Containers
 
 *   [parallel-hashmap (⭐2.2k)](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers \[Apache2] [website](https://greg7mdp.github.io/parallel-hashmap/)
-*   [plf::colony (⭐382)](https://github.com/mattreecebentley/plf_colony) - An unordered "bag"-type container which outperforms std containers in high-modification scenarios while maintaining permanent pointers to non-erased elements regardless of insertion/erasure. \[zLib] [website](http://www.plflib.org/colony.htm)
+*   [plf::colony (⭐384)](https://github.com/mattreecebentley/plf_colony) - An unordered "bag"-type container which outperforms std containers in high-modification scenarios while maintaining permanent pointers to non-erased elements regardless of insertion/erasure. \[zLib] [website](http://www.plflib.org/colony.htm)
 
 ### Database
 
-*   [TinyORM (⭐160)](https://github.com/silverqx/TinyORM) - Modern C++ ORM library. \[MIT] [website](https://www.tinyorm.org/)
+*   [TinyORM (⭐162)](https://github.com/silverqx/TinyORM) - Modern C++ ORM library. \[MIT] [website](https://www.tinyorm.org/)
 
 ### Debug
 
-*   [Cpptrace (⭐296)](https://github.com/jeremy-rifkin/cpptrace) - A simple, portable, and self-contained C++ stacktrace library supporting C++11 and greater. \[MIT]
+*   [Cpptrace (⭐315)](https://github.com/jeremy-rifkin/cpptrace) - A simple, portable, and self-contained C++ stacktrace library supporting C++11 and greater. \[MIT]
 
 ### Graphics
 
-*   [LunaSVG (⭐734)](https://github.com/sammycage/lunasvg) - a standalone SVG rendering library in C++. \[MIT]
+*   [LunaSVG (⭐744)](https://github.com/sammycage/lunasvg) - a standalone SVG rendering library in C++. \[MIT]
 
 ### Image Processing
 
 *   [libavif (⭐1.3k)](https://github.com/AOMediaCodec/libavif) - Library for encoding and decoding .avif files. \[BSD-2-Clause]
 *   [libjxl (⭐1.5k)](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation. \[BSD-3-Clause]
-*   [libspng (⭐667)](https://github.com/randy408/libspng) - Simple, modern libpng alternative. \[BSD-2] [website](https://libspng.org/)
+*   [libspng (⭐670)](https://github.com/randy408/libspng) - Simple, modern libpng alternative. \[BSD-2] [website](https://libspng.org/)
 *   [LodePNG (⭐2k)](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++. \[Zlib]
 *   [MozJPEG (⭐5.3k)](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder. \[BSD/BSD-3-Clause/ZLIB]
 
 ### Memory Allocation
 
-*   [buddy\_alloc (⭐101)](https://github.com/spaskalev/buddy_alloc) - A single header buddy memory allocator for C with bounded allocation costs. \[0BSD]
+*   [buddy\_alloc (⭐103)](https://github.com/spaskalev/buddy_alloc) - A single header buddy memory allocator for C with bounded allocation costs. \[0BSD]
 
 ### Office Open XML
 
-*   [DuckX (⭐349)](https://github.com/amiremohamadi/DuckX) - C++ library for creating and modifying Microsoft Word (.docx) files. \[MIT]
+*   [DuckX (⭐354)](https://github.com/amiremohamadi/DuckX) - C++ library for creating and modifying Microsoft Word (.docx) files. \[MIT]
 *   [FreeXL](https://www.gaia-gis.it/fossil/freexl/index) - an open source library to extract valid data from within Spreadsheets. \[MPL/GPL-2/LGPL-2]
-*   [libxls (⭐365)](https://github.com/libxls/libxls) - Read binary Excel files from C/C++ \[BSD-2-Clause]
+*   [libxls (⭐367)](https://github.com/libxls/libxls) - Read binary Excel files from C/C++ \[BSD-2-Clause]
 *   [libxlsxwriter (⭐1.3k)](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files. \[BSD-2-Clause] [website](https://libxlsxwriter.github.io/)
 *   [OpenXLSX (⭐1.1k)](https://github.com/troldal/OpenXLSX) - A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.  \[BSD-3-Clause]
 *   [SimpleXlsxWriter](https://sourceforge.net/projects/simplexlsx/) - XLSX files writer for Microsoft Excel 2007 and above. \[zlib]
-*   [XLSX I/O (⭐364)](https://github.com/brechtsanders/xlsxio) - C library for reading and writing .xlsx files. \[MIT]
+*   [XLSX I/O (⭐365)](https://github.com/brechtsanders/xlsxio) - C library for reading and writing .xlsx files. \[MIT]
 
 ### Reflection
 
-*   [reflect-cpp (⭐451)](https://github.com/getml/reflect-cpp) - Serialization through reflection, including automatic field name retrieval from structs. \[MIT]
+*   [reflect-cpp (⭐464)](https://github.com/getml/reflect-cpp) - Serialization through reflection, including automatic field name retrieval from structs. \[MIT]
 
 ### Scripting
 
 *   [QuickJS](https://bellard.org/quickjs/) - a small and embeddable Javascript engine. \[MIT]
-*   [v8pp (⭐862)](https://github.com/pmed/v8pp) - Header-only library to expose C++ classes and functions into V8 to use them in JavaScript code. \[BOOST] [website](https://pmed.github.io/v8pp/)
+*   [v8pp (⭐864)](https://github.com/pmed/v8pp) - Header-only library to expose C++ classes and functions into V8 to use them in JavaScript code. \[BOOST] [website](https://pmed.github.io/v8pp/)
 
 ### Serialization
 
-*   [iguana (⭐908)](https://github.com/qicosmos/iguana) - a modern, universal and easy-to-use serialization engine developed in C++20 and C++17. \[Apache2]
+*   [iguana (⭐920)](https://github.com/qicosmos/iguana) - a modern, universal and easy-to-use serialization engine developed in C++20 and C++17. \[Apache2]
 
 ### Serial Port
 
-*   [CSerialPort (⭐614)](https://github.com/itas109/CSerialPort) - lightweight cross-platform serial port library. \[LGPL3]
+*   [CSerialPort (⭐617)](https://github.com/itas109/CSerialPort) - lightweight cross-platform serial port library. \[LGPL3]
 
 ### Sorting
 
@@ -404,22 +404,22 @@
 ### Miscellaneous
 
 *   [date (⭐3k)](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header. \[MIT] [website](https://howardhinnant.github.io/date/date.html)
-*   [emio (⭐119)](https://github.com/Viatorus/emio) - A safe and fast high-level and low-level character input/output library. \[MIT]
-*   [hedley (⭐731)](https://github.com/nemequ/hedley) - A C/C++ header file designed to smooth over some platform-specific annoyances. [website](https://nemequ.github.io/hedley/)
+*   [emio (⭐121)](https://github.com/Viatorus/emio) - A safe and fast high-level and low-level character input/output library. \[MIT]
+*   [hedley (⭐733)](https://github.com/nemequ/hedley) - A C/C++ header file designed to smooth over some platform-specific annoyances. [website](https://nemequ.github.io/hedley/)
 
 ## [19. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### DevOps Tools
 
-*   [Kamal (⭐8.1k)](https://github.com/basecamp/kamal) - Kamal offers zero-downtime deploys, rolling restarts, asset bridging, remote builds, accessory service management, and everything else you need to deploy and manage your web app in production with Docker.
+*   [Kamal (⭐8.6k)](https://github.com/basecamp/kamal) - Kamal offers zero-downtime deploys, rolling restarts, asset bridging, remote builds, accessory service management, and everything else you need to deploy and manage your web app in production with Docker.
 
 ## [20. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Artificial Intelligence
 
-*   [langchaingo (⭐2.2k)](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
-*   [LocalAI (⭐16k)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
-*   [Ollama (⭐36k)](https://github.com/jmorganca/ollama) - Run large language models locally.
+*   [langchaingo (⭐2.3k)](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
+*   [LocalAI (⭐17k)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
+*   [Ollama (⭐41k)](https://github.com/jmorganca/ollama) - Run large language models locally.
 
 ### Email
 
@@ -433,17 +433,13 @@
 
 *   [Goey](https://bitbucket.org/rj/goey/src/master/) - Cross platform UI toolkit aggregator for Windows / Linux / Mac. GTK, Cocoa, Windows API
 
-### Strings
-
-*   [bexp (⭐17)](https://github.com/happy-sdk/happy-go/tree/main/strings/bexp) - Go implementation of Brace Expansion mechanism to generate arbitrary strings.
-
 ### Serialization
 
 *   [gotiny (⭐15)](https://github.com/raszia/gotiny) - Efficient Go serialization library, gotiny is almost as fast as serialization libraries that generate code.
 
 ### Web Frameworks
 
-*   [GoFr (⭐696)](https://github.com/gofr-dev/gofr) - Gofr is an opinionated microservice development framework.
+*   [GoFr (⭐708)](https://github.com/gofr-dev/gofr) - Gofr is an opinionated microservice development framework.
 
 ### Go Generate Tools / Libraries for creating HTTP middlewares
 
@@ -451,11 +447,11 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [decompose (⭐64)](https://github.com/s0rg/decompose) - tool to generate and process Docker containers connections graphs.
+*   [decompose (⭐69)](https://github.com/s0rg/decompose) - tool to generate and process Docker containers connections graphs.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [yai (⭐482)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+*   [yai (⭐500)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
 ## [21. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -493,7 +489,7 @@
 
 ### Other plugins
 
-*   [Safe Area (⭐37)](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS
+*   [Safe Area (⭐40)](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS
 
 ## [25. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -513,10 +509,6 @@
 
 *   [NATS (⭐14k) (⭐14k)](https://github.com/nats-io/gnatsd) - A lightweight and high-performance messaging system designed for microservices, IoT, and cloud-native systems. Offers efficient and reliable message delivery and supports multiple messaging protocols.
 *   [VerneMQ (⭐3.1k) (⭐3.1k)](https://github.com/vernemq/vernemq) - A high-performance distributed MQTT message broker designed for scalability and reliability. Offers efficient and reliable message delivery and supports multiple messaging protocols and patterns.
-
-### Resources / Protocols
-
-*   [OpenMessaging (⭐285) (⭐285)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
 ## [26. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 

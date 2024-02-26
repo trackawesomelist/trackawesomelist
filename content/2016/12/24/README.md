@@ -93,7 +93,7 @@
 *   [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 *   [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 *   [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
-*   [Ledger (⭐4.7k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
+*   [Ledger (⭐5k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

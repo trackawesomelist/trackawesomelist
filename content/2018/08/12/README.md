@@ -38,10 +38,9 @@
 
 ## [6. Awesome Python](/content/vinta/awesome-python/README.md)
 
-### File
+### File Manipulation
 
 *   [pathlib](https://docs.python.org/3/library/pathlib.html) - (Python standard library) An cross-platform, object-oriented path library.
-*   [PyFilesystem2 (⭐1.9k)](https://github.com/pyfilesystem/pyfilesystem2) - Python's filesystem abstraction layer.
 
 ## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

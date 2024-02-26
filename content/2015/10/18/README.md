@@ -62,7 +62,7 @@
 
 ### Algorithms and Data structures
 
-*   [parallel\_stream (⭐95)](https://github.com/beatrichartz/parallel_stream) - A parallel stream implementation for Elixir.
+*   [parallel\_stream (⭐97)](https://github.com/beatrichartz/parallel_stream) - A parallel stream implementation for Elixir.
 
 ### Community
 

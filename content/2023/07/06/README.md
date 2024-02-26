@@ -10,7 +10,7 @@
 
 ### Resources / Blog posts
 
-*   [EDA with Polars: Step-by-Step Guide for Pandas Users (Part 1)](https://towardsdatascience.com/eda-with-polars-step-by-step-guide-for-pandas-users-part-1-b2ec500a1008) - A blog post that describes the main data processing operations with Polars in Python by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available in [this notebook (⭐36)](https://github.com/aruberts/tutorials/blob/main/polars/basics.ipynb).
+*   [EDA with Polars: Step-by-Step Guide for Pandas Users (Part 1)](https://towardsdatascience.com/eda-with-polars-step-by-step-guide-for-pandas-users-part-1-b2ec500a1008) - A blog post that describes the main data processing operations with Polars in Python by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available in [this notebook (⭐38)](https://github.com/aruberts/tutorials/blob/main/polars/basics.ipynb).
 
 ## [2. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
@@ -66,26 +66,26 @@
 
 ### Templates / Vanilla
 
-*   [vite-tinybase (⭐2)](https://github.com/tinyplex/vite-tinybase) - Starter template for TinyBase.
-*   [vite-tinybase-ts (⭐6)](https://github.com/tinyplex/vite-tinybase-ts) - Starter template for TinyBase and TypeScript.
+*   [vite-tinybase (⭐3)](https://github.com/tinyplex/vite-tinybase) - Starter template for TinyBase.
+*   [vite-tinybase-ts (⭐7)](https://github.com/tinyplex/vite-tinybase-ts) - Starter template for TinyBase and TypeScript.
 
 ### Templates / Vue 3
 
-*   [antdv-pro (⭐488)](https://github.com/antdv-pro/antdv-pro) - AntdvPro is a complete set of enterprise-level mid-backend front-end/design solutions based on Vue3, Vite4, ant-design-vue4, Pinia, UnoCSS and Typescript.
+*   [antdv-pro (⭐517)](https://github.com/antdv-pro/antdv-pro) - AntdvPro is a complete set of enterprise-level mid-backend front-end/design solutions based on Vue3, Vite4, ant-design-vue4, Pinia, UnoCSS and Typescript.
 
 ### Templates / React
 
-*   [create-react-app-vite (⭐110)](https://github.com/laststance/create-react-app-vite) - React, TypeScript, TailwindCSS, MSW, Vitest, React Testing Library, ESLint, Prettier, GitHub Actions.
-*   [vite-tinybase-react (⭐2)](https://github.com/tinyplex/vite-tinybase-react) - Starter template for TinyBase and React.
+*   [create-react-app-vite (⭐111)](https://github.com/laststance/create-react-app-vite) - React, TypeScript, TailwindCSS, MSW, Vitest, React Testing Library, ESLint, Prettier, GitHub Actions.
+*   [vite-tinybase-react (⭐3)](https://github.com/tinyplex/vite-tinybase-react) - Starter template for TinyBase and React.
 *   [vite-tinybase-ts-react (⭐6)](https://github.com/tinyplex/vite-tinybase-ts-react) - Starter template for TinyBase, TypeScript, and React.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@spiriit/vite-plugin-svg-spritemap (⭐22)](https://github.com/SpiriitLabs/vite-plugin-svg-spritemap) - Pack your SVG files in one spritemap file and use them with `<svg>`/`<img>` and directly in your CSS.
+*   [@spiriit/vite-plugin-svg-spritemap (⭐26)](https://github.com/SpiriitLabs/vite-plugin-svg-spritemap) - Pack your SVG files in one spritemap file and use them with `<svg>`/`<img>` and directly in your CSS.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-css-injected-by-js (⭐308)](https://github.com/marco-prontera/vite-plugin-css-injected-by-js) - Takes the CSS and adds it to the page through the JS.
+*   [vite-plugin-css-injected-by-js (⭐319)](https://github.com/marco-prontera/vite-plugin-css-injected-by-js) - Takes the CSS and adds it to the page through the JS.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -93,7 +93,7 @@
 
 ### Vue / Routing
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-vue-router (⭐1.1k)](https://github.com/posva/unplugin-vue-router) - Official experimental file based routing.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-vue-router (⭐1.2k)](https://github.com/posva/unplugin-vue-router) - Official experimental file based routing.
 
 ### Libraries / Community
 

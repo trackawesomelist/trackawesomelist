@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 07 - Sep 13, 2015
 
-29 awesome lists updated this week.
+28 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -241,7 +241,7 @@
 
 ### Datasets / Realtime
 
-*   [Eventsim (⭐478)](https://github.com/Interana/eventsim) - Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
+*   [Eventsim (⭐480)](https://github.com/Interana/eventsim) - Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
 
 ## [5. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -325,7 +325,7 @@ This is a great introduction to several aspects of R programming. Loading data i
 
 ### Debug
 
-*   [UnitTest++ (⭐541)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
+*   [UnitTest++ (⭐543)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
 
 ## [10. Tips](/content/git-tips/tips/week/README.md)
 
@@ -460,7 +460,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 ### HTML Widgets
 
 *   [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScript Network Graphs from R.
-*   [threejs (⭐296)](https://github.com/bwlewis/rthreejs) - Interactive 3D scatter plots and globes.
+*   [threejs (⭐295)](https://github.com/bwlewis/rthreejs) - Interactive 3D scatter plots and globes.
 
 ### Reproducible Research
 
@@ -517,7 +517,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [cmus (⭐5.1k)](https://github.com/cmus/cmus) - Cross-platform cli audio player.
+*   [cmus (⭐5.2k)](https://github.com/cmus/cmus) - Cross-platform cli audio player.
 
 ## [19. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
@@ -812,19 +812,13 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 *   [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) - L. Ridgway Scott
 *   [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
 
-## [24. Awesome Python](/content/vinta/awesome-python/week/README.md)
-
-### Build Tools
-
-*   [BitBake](http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html) - A make-like build tool for embedded Linux.
-
-## [25. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [24. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Web Frameworks
 
 *   [Kovert (⭐155)](https://github.com/kohesive/kovert) - Invisible REST framework for Kotlin + Vert.x Web.
 
-## [26. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [25. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -873,17 +867,17 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 
 
-## [27. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
+## [26. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
 ### Themes / Dojo 2
 
 *   [Semantic Dojo Theme](http://websemantics.github.io/semantic-dojo/) - A responsive Dojo theme that harnesses the style awesomeness of [Semantic UI](http://semantic-ui.com/) Framework.
 
-## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [bitmap (⭐33)](https://github.com/hashd/bitmap-elixir) - Pure Elixir implementation of [bitmaps](https://en.wikipedia.org/wiki/Bitmap).
+*   [bitmap (⭐34)](https://github.com/hashd/bitmap-elixir) - Pure Elixir implementation of [bitmaps](https://en.wikipedia.org/wiki/Bitmap).
 *   [tfidf (⭐17)](https://github.com/OCannings/tf-idf) - An Elixir implementation of term frequency–inverse document frequency.
 
 ### Office
@@ -892,9 +886,9 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### Text and Numbers
 
-*   [money (⭐768)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
+*   [money (⭐775)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 
-## [29. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [28. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Social Media and other Website API / OpenOffice
 

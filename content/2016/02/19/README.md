@@ -77,7 +77,7 @@
 
 ### Libraries
 
-*   [JSON-java (⭐4.2k)](https://github.com/stleary/JSON-java) - A reference implementation.
+*   [JSON-java (⭐4.4k)](https://github.com/stleary/JSON-java) - A reference implementation.
 
 ### JSON Schema Frontend components
 
@@ -87,7 +87,7 @@
 
 ### Command-Line Productivity
 
-*   [k (⭐1.7k)](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
+*   [k (⭐1.8k)](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 
 ## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
@@ -106,11 +106,11 @@
 
 ### Examples and funny stuff
 
-*   [kaisuu (⭐68)](https://github.com/SebastianSzturo/kaisuu) - Watch Japan's Kanji Usage on Twitter in Realtime.
+*   [kaisuu (⭐67)](https://github.com/SebastianSzturo/kaisuu) - Watch Japan's Kanji Usage on Twitter in Realtime.
 
 ### Third Party APIs
 
-*   [stripity\_stripe (⭐886)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
+*   [stripity\_stripe (⭐902)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 
 ## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

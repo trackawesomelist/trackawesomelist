@@ -76,7 +76,7 @@
 
 ### Privacy and Encryption Tools / Telegram
 
-*   [uBlock Origin (⭐37k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐42k)](https://github.com/gorhill/uBlock)
 
 ## [11. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 

@@ -82,13 +82,13 @@
 
 ### ORM and Datamapping
 
-*   [walex (⭐181)](https://github.com/cpursley/walex) - PostgreSQL Change Data Capture (CDC) events listener in Elixir.
+*   [walex (⭐226)](https://github.com/cpursley/walex) - PostgreSQL Change Data Capture (CDC) events listener in Elixir.
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Caching
 
-*   [06chaynes/http-cache (⭐57)](https://github.com/06chaynes/http-cache) \[[http-cache](https://crates.io/crates/http-cache)] - A caching middleware that follows HTTP caching rules [![build badge](https://github.com/06chaynes/http-cache/workflows/http-cache/badge.svg)](https://github.com/06chaynes/http-cache/actions/workflows/http-cache.yml)
+*   [06chaynes/http-cache (⭐60)](https://github.com/06chaynes/http-cache) \[[http-cache](https://crates.io/crates/http-cache)] - A caching middleware that follows HTTP caching rules [![build badge](https://github.com/06chaynes/http-cache/workflows/http-cache/badge.svg)](https://github.com/06chaynes/http-cache/actions/workflows/http-cache.yml)
 
 ## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -112,7 +112,7 @@
 
 ### Software / Software Development - Low Code
 
-*   [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file. ([Source Code (⭐31k)](https://github.com/pocketbase/pocketbase)) `MIT` `Go/Docker`
+*   [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file. ([Source Code (⭐32k)](https://github.com/pocketbase/pocketbase)) `MIT` `Go/Docker`
 
 ## [11. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
@@ -140,7 +140,7 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ho-my-zsh (⭐1)](https://github.com/Mboukhal/hoMyZsh_theme) - Includes decorators for current directory and `git` information.
-*   [parrot (⭐6)](https://github.com/trabdlkarim/parrot-zsh-theme) - Based on Parrot OS bash theme. Includes decorators for user\@host, `git` information, exit status of last command, time and current directory.
+*   [parrot (⭐7)](https://github.com/trabdlkarim/parrot-zsh-theme) - Based on Parrot OS bash theme. Includes decorators for user\@host, `git` information, exit status of last command, time and current directory.
 
 ## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
@@ -158,10 +158,10 @@
 *   [Spoon](https://spoon.gforge.inria.fr) — Spoon is a metaprogramming library to analyze and transform Java source code (incl Java 9, 10, 11, 12, 13, 14). It parses source files to build a well-designed AST with powerful analysis and transformation API. Can be integrated in Maven and Gradle.
 *   [JSPrime](https://dpnishant.github.io/jsprime) :warning: — Static security analysis tool.
 *   [retire.js](https://retirejs.github.io/retire.js) — Scanner detecting the use of JavaScript libraries with known vulnerabilities.
-*   [Mondrian](https://trismegiste.github.io/Mondrian) :warning: — A set of static analysis and refactoring tools which use graph theory.
+*   [Mondrian](https://trismegiste.github.io/Mondrian) — A set of static analysis and refactoring tools which use graph theory.
 *   [PHP Refactoring Browser](https://qafoolabs.github.io/php-refactoring-browser) — Refactoring helper.
 *   [goodpractice](https://mangothecat.github.io/goodpractice) — Analyses the source code for R packages and provides best-practice recommendations.
-*   [electrolysis](https://kha.github.io/electrolysis) :warning: — A tool for formally verifying Rust programs by transpiling them into definitions in the Lean theorem prover.
+*   [electrolysis](https://kha.github.io/electrolysis) — A tool for formally verifying Rust programs by transpiling them into definitions in the Lean theorem prover.
 
 ### Multiple languages / [Other](#other-1)
 

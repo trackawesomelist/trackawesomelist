@@ -39,11 +39,11 @@
 
 ### Programming Languages
 
-*   [C/C++ (⭐52k)](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
+*   [C/C++ (⭐53k)](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 
 ### Back-End Development
 
-*   [Kubernetes (⭐14k)](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
+*   [Kubernetes (⭐15k)](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
 
 ## [6. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 

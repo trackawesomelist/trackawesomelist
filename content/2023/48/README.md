@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 27 - Dec 03, 2023
 
-46 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -96,7 +96,7 @@
     *   [Riak-TS](https://basho.com/products/riak-ts/) - Riak TS is the only enterprise-grade NoSQL time series database optimized specifically for IoT and Time Series data.
     *   [Akumuli (⭐834)](https://github.com/akumuli/Akumuli) - Akumuli is a numeric time-series database. It can be used to capture, store and process time-series data in real-time. The word "akumuli" can be translated from esperanto as "accumulate".
     *   [Rhombus](https://github.com/Pardot/Rhombus) - A time-series object store for Cassandra that handles all the complexity of building wide row indexes.
-    *   [Dalmatiner DB (⭐699)](https://github.com/dalmatinerdb/dalmatinerdb) - Fast distributed metrics database.
+    *   [Dalmatiner DB (⭐697)](https://github.com/dalmatinerdb/dalmatinerdb) - Fast distributed metrics database.
     *   [Blueflood (⭐592)](https://github.com/rackerlabs/blueflood) - A distributed system designed to ingest and process time series data.
     *   [Timely (⭐370)](https://github.com/NationalSecurityAgency/timely) - Timely is a time series database application that provides secure access to time series data based on Accumulo and Grafana.
 *   Other
@@ -110,8 +110,8 @@
 
 *   [Kafka](https://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
     *   [BottledWater (⭐1.5k)](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka. Deprecated.
-    *   [kafkat (⭐500)](https://github.com/airbnb/kafkat) - Simplified command-line administration for Kafka brokers.
-    *   [kafkacat (⭐5.1k)](https://github.com/edenhill/kafkacat) - Generic command line non-JVM Apache Kafka producer and consumer.
+    *   [kafkat (⭐502)](https://github.com/airbnb/kafkat) - Simplified command-line administration for Kafka brokers.
+    *   [kafkacat (⭐5.2k)](https://github.com/edenhill/kafkacat) - Generic command line non-JVM Apache Kafka producer and consumer.
     *   [pg-kafka (⭐113)](https://github.com/xstevens/pg_kafka) - A PostgreSQL extension to produce messages to Apache Kafka.
     *   [librdkafka (⭐7.2k)](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C++ library.
     *   [kafka-docker (⭐6.8k)](https://github.com/wurstmeister/kafka-docker) - Kafka in Docker.
@@ -144,7 +144,7 @@
 *   [SnackFS (⭐13)](https://github.com/tuplejump/snackfs-release) - SnackFS is our bite-sized, lightweight HDFS compatible FileSystem built over Cassandra.
 *   [GlusterFS](https://www.gluster.org/) - Gluster Filesystem.
 *   [XtreemFS](https://www.xtreemfs.org/) - Fault-tolerant distributed file system for all storage needs.
-*   [SeaweedFS (⭐19k)](https://github.com/chrislusf/seaweedfs) - Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key\~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
+*   [SeaweedFS (⭐20k)](https://github.com/chrislusf/seaweedfs) - Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key\~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
 *   [S3QL (⭐1k)](https://github.com/s3ql/s3ql/) - S3QL is a file system that stores all its data online using storage services like Google Storage, Amazon S3, or OpenStack.
 *   [LizardFS](https://lizardfs.com/) - LizardFS Software Defined Storage is a distributed, parallel, scalable, fault-tolerant, Geo-Redundant and highly available file system.
 
@@ -173,10 +173,10 @@
 *   [PipelineDB (⭐2.6k)](https://github.com/pipelinedb/pipelinedb) - The Streaming SQL Database.
 *   [Spring Cloud Dataflow](https://cloud.spring.io/spring-cloud-dataflow/) - Streaming and tasks execution between Spring Boot apps.
 *   [Bonobo](https://www.bonobo-project.org/) - Bonobo is a data-processing toolkit for python 3.5+.
-*   [Robinhood's Faust (⭐1.3k)](https://github.com/faust-streaming/faust) - Forever scalable event processing & in-memory durable K/V store as a library with asyncio & static typing.
-*   [HStreamDB (⭐670)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
+*   [Robinhood's Faust (⭐1.4k)](https://github.com/faust-streaming/faust) - Forever scalable event processing & in-memory durable K/V store as a library with asyncio & static typing.
+*   [HStreamDB (⭐674)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
 *   [Kuiper (⭐1.3k)](https://github.com/emqx/kuiper) - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
-*   [Zilla (⭐452)](https://github.com/aklivity/zilla) - - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
+*   [Zilla (⭐457)](https://github.com/aklivity/zilla) - - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 
 ### Batch Processing
 
@@ -186,11 +186,11 @@
     *   [Deep Spark (⭐197)](https://github.com/Stratio/deep-spark) - Connecting Apache Spark with different data stores. Deprecated.
     *   [Spark RDD API Examples](https://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html) - Examples by Zhen He.
     *   [Livy](https://livy.incubator.apache.org) - The REST Spark Server.
-    *   [Delight (⭐331)](https://github.com/datamechanics/delight) - A free & cross platform monitoring tool (Spark UI / Spark History Server alternative).
+    *   [Delight (⭐332)](https://github.com/datamechanics/delight) - A free & cross platform monitoring tool (Spark UI / Spark History Server alternative).
 *   [AWS EMR](https://aws.amazon.com/emr/) - A web service that makes it easy to quickly and cost-effectively process vast amounts of data.
 *   [Data Mechanics](https://www.datamechanics.co) - A cloud-based platform deployed on Kubernetes making Apache Spark more developer-friendly and cost-effective.
 *   [Tez](https://tez.apache.org/) - An application framework which allows for a complex directed-acyclic-graph of tasks for processing data.
-*   [Bistro (⭐6)](https://github.com/asavinov/bistro) - A light-weight engine for general-purpose data processing including both batch and stream analytics. It is based on a novel unique data model, which represents data via *functions* and processes data via *columns operations* as opposed to having only set operations in conventional approaches like MapReduce or SQL.
+*   [Bistro (⭐7)](https://github.com/asavinov/bistro) - A light-weight engine for general-purpose data processing including both batch and stream analytics. It is based on a novel unique data model, which represents data via *functions* and processes data via *columns operations* as opposed to having only set operations in conventional approaches like MapReduce or SQL.
 *   Batch ML
     *   [H2O](https://www.h2o.ai/) - Fast scalable machine learning API for smarter applications.
     *   [Mahout](https://mahout.apache.org/) - An environment for quickly creating scalable performant machine learning applications.
@@ -216,7 +216,7 @@
 *   [SmoothieCharts](https://smoothiecharts.org) - A JavaScript Charting Library for Streaming Data.
 *   [PyXley (⭐2.3k)](https://github.com/stitchfix/pyxley) - Python helpers for building dashboards using Flask and React.
 *   [Plotly (⭐20k)](https://github.com/plotly/dash) - Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python.
-*   [Apache Superset (⭐56k)](https://github.com/apache/incubator-superset) - Apache Superset (incubating) - A modern, enterprise-ready business intelligence web application.
+*   [Apache Superset (⭐57k)](https://github.com/apache/incubator-superset) - Apache Superset (incubating) - A modern, enterprise-ready business intelligence web application.
 *   [Redash](https://redash.io/) - Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.
 *   [Metabase (⭐36k)](https://github.com/metabase/metabase) - Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
 *   [PyQtGraph](https://www.pyqtgraph.org/) - PyQtGraph is a pure-python graphics and GUI library built on PyQt4 / PySide and numpy. It is intended for use in mathematics / scientific / engineering applications.
@@ -230,16 +230,16 @@
 *   [Azkaban](https://azkaban.github.io/) - Azkaban is a batch workflow job scheduler created at LinkedIn to run Hadoop jobs. Azkaban resolves the ordering through job dependencies and provides an easy to use web user interface to maintain and track your workflows.
 *   [Oozie](https://oozie.apache.org/) - Oozie is a workflow scheduler system to manage Apache Hadoop jobs.
 *   [Pinball (⭐1k)](https://github.com/pinterest/pinball) - DAG based workflow manager. Job flows are defined programmaticaly in Python. Support output passing between jobs.
-*   [Dagster (⭐9.5k)](https://github.com/dagster-io/dagster) - Dagster is an open-source Python library for building data applications.
+*   [Dagster (⭐9.7k)](https://github.com/dagster-io/dagster) - Dagster is an open-source Python library for building data applications.
 *   [Kedro](https://kedro.readthedocs.io/en/latest/) - Kedro is a framework that makes it easy to build robust and scalable data pipelines by providing uniform project templates, data abstraction, configuration and pipeline assembly.
 *   [Dataform](https://dataform.co/) - An open-source framework and web based IDE to manage datasets and their dependencies. SQLX extends your existing SQL warehouse dialect to add features that support dependency management, testing, documentation and more.
 *   [Census](https://getcensus.com/) - A reverse-ETL tool that let you sync data from your cloud data warehouse to SaaS applications like Salesforce, Marketo, HubSpot, Zendesk, etc. No engineering favors required—just SQL.
 *   [dbt](https://getdbt.com/) - A command line tool that enables data analysts and engineers to transform data in their warehouses more effectively.
-*   [RudderStack (⭐3.8k)](https://github.com/rudderlabs/rudder-server) - A warehouse-first Customer Data Platform that enables you to collect data from every application, website and SaaS platform, and then activate it in your warehouse and business tools.
+*   [RudderStack (⭐3.9k)](https://github.com/rudderlabs/rudder-server) - A warehouse-first Customer Data Platform that enables you to collect data from every application, website and SaaS platform, and then activate it in your warehouse and business tools.
 
 ### Data Lake Management
 
-*   [lakeFS (⭐3.9k)](https://github.com/treeverse/lakeFS) - lakeFS is an open source platform that delivers resilience and manageability to object-storage based data lakes.
+*   [lakeFS (⭐4k)](https://github.com/treeverse/lakeFS) - lakeFS is an open source platform that delivers resilience and manageability to object-storage based data lakes.
 
 ### ELK Elastic Logstash Kibana
 
@@ -254,7 +254,7 @@
 *   [Rancher](https://rancher.com/rancher-os/) - RancherOS is a 20mb Linux distro that runs the entire OS as Docker containers.
 *   [Kontena](https://www.kontena.io/) - Application Containers for Masses.
 *   [Weave (⭐6.5k)](https://github.com/weaveworks/weave) - Weaving Docker containers into applications.
-*   [Zodiac (⭐196)](https://github.com/CenturyLinkLabs/zodiac) - A lightweight tool for easy deployment and rollback of dockerized applications.
+*   [Zodiac (⭐195)](https://github.com/CenturyLinkLabs/zodiac) - A lightweight tool for easy deployment and rollback of dockerized applications.
 *   [cAdvisor (⭐16k)](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 *   [Micro S3 persistence (⭐13)](https://github.com/figadore/micro-s3-persistence) - Docker microservice for saving/restoring volume data to S3.
 *   [Rocker-compose (⭐405)](https://github.com/grammarly/rocker-compose) - Docker composition tool with idempotency features for deploying apps composed of multiple containers. Deprecated.
@@ -275,7 +275,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [promptly (⭐0)](https://github.com/manuelcattelan/promptly) - Lightweight, async ZSH theme for a prompt(ly) experience.
+*   [promptly (⭐1)](https://github.com/manuelcattelan/promptly) - Lightweight, async ZSH theme for a prompt(ly) experience.
 
 ## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
@@ -1950,22 +1950,15 @@
 
 ### Software / Monitoring
 
-*   [openITCOCKPIT Community Edition](https://openitcockpit.io/) - Monitoring Suite featuring seamless integrations with Naemon, Checkmk, Grafana and more. ([Demo](https://demo.openitcockpit.io/), [Source Code (⭐241)](https://github.com/it-novum/openITCOCKPIT)) `GPL-3.0` `deb/Docker`
+*   [openITCOCKPIT Community Edition](https://openitcockpit.io/) - Monitoring Suite featuring seamless integrations with Naemon, Checkmk, Grafana and more. ([Demo](https://demo.openitcockpit.io/), [Source Code (⭐243)](https://github.com/it-novum/openITCOCKPIT)) `GPL-3.0` `deb/Docker`
 
-## [21. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Graphics Programming
-
-*   [Computer Graphics from scratch](http://gabrielgambetta.com/computer-graphics-from-scratch) - Gabriel Gambetta *(:construction: in process)*
-*   [DirectX manual](http://user.xmission.com/~legalize/book/download/index.html) (draft)
-
-## [22. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [21. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Methodologies for Experiments / Virtual Reality
 
 *   [Towards an Understanding of Distributed Asymmetric Collaborative Visualization on Problem-solving](https://ieeexplore.ieee.org/document/10108427) - ***VR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11228377215337222005\&hl=en\&as_sdt=0,5)].
 
-## [23. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [22. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Platforms
 
@@ -2077,19 +2070,19 @@
 
 *   [Autonomy, Hyperconnectivity, and Residual Causality](https://doi.org/10.3390/philosophies6040081) - Philosophical introduction to the design of adaptive hyperliminal systems through complexity science theories.
 
-## [24. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [23. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Emulator Development / Misc
 
 *   [Emulation of Nintendo Game Boy (⭐4.3k)](https://github.com/Baekalfen/PyBoy/blob/master/extras/PyBoy.pdf) - Overview of the Game Boy hardware with the perspective of building an emulator.
 
-## [25. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [24. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :tada: [mach](https://machengine.org/) - game engine & graphics toolkit build in zig.
 
-## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [25. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Programming Languages Support / Diagnostics
 
@@ -2117,7 +2110,7 @@
 
 *   [mrjones2014/smart-splits.nvim (⭐609)](https://github.com/mrjones2014/smart-splits.nvim) - Smart, seamless, directional navigation and resizing of splits.
 
-## [27. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [26. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Design
 
@@ -2131,7 +2124,7 @@
 
 *   [Protocol Buffers (⭐62k) (⭐63k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
 
-## [28. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [27. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### Databases / Compound
 
@@ -2148,7 +2141,7 @@
     *   [BioGRID](https://thebiogrid.org/) - Database of Protein, Genetic and Chemical Interactions.
     *   [HIPPIE](http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/) - Human Protein-Protein Interaction database.
 
-## [29. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [28. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / GitHub
 
@@ -2159,19 +2152,19 @@
 *   [GitHub Reply Comments (⭐326)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
 *   [GitHub Skip Delete Repo Verification](https://greasyfork.org/en/scripts/411790-skip-delete-repo-verification) - Skips the verification step when deleting a repository.
 
-## [30. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [29. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Land Use and Land Cover
 
 *   [National Zoning & Land Use Database (⭐31)](https://github.com/mtmleczko/nzlud/tree/main) - This GitHub project catalogs major metros municipal zoning ordinances in plain text. It can be a useful reference for comparing ordinances or perhaps fine tuning language models.
 
-## [31. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [30. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Action
 
 *   [TR1X (⭐355)](https://github.com/LostArtefacts/TR1X) - Open source implementation of the classic Tomb Raider I game.
 
-## [32. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [31. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
 - Name: [Pipelight (⭐249)](https://github.com/pipelight/pipelight)
 
@@ -2189,54 +2182,54 @@
 
 
 
-## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [32. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Game Engine
 
-*   [JNGL (⭐201)](https://github.com/jhasse/jngl/) - 2D library for Linux, Windows, macOS, Android, iOS, Xbox, the Nintendo Switch and the Web. \[zlib] [website](https://bixense.com/jngl/)
+*   [JNGL (⭐208)](https://github.com/jhasse/jngl/) - 2D library for Linux, Windows, macOS, Android, iOS, Xbox, the Nintendo Switch and the Web. \[zlib] [website](https://bixense.com/jngl/)
 
 ### Internationalization
 
-*   [simdutf (⭐876)](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON, AVX-512. \[Apache-2/MIT]
+*   [simdutf (⭐887)](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON, AVX-512. \[Apache-2/MIT]
 
 ### JSON
 
-*   [Sonic-Cpp (⭐744)](https://github.com/bytedance/sonic-cpp) - A fast JSON serializing & deserializing library, accelerated by SIMD. \[Apache-2.0]
+*   [Sonic-Cpp (⭐747)](https://github.com/bytedance/sonic-cpp) - A fast JSON serializing & deserializing library, accelerated by SIMD. \[Apache-2.0]
 
 ### PDF
 
-*   [pdfio (⭐139)](https://github.com/michaelrsweet/pdfio) - A simple C library for reading and writing PDF files. \[Apache-2] [website](https://www.msweet.org/pdfio/)
+*   [pdfio (⭐140)](https://github.com/michaelrsweet/pdfio) - A simple C library for reading and writing PDF files. \[Apache-2] [website](https://www.msweet.org/pdfio/)
 *   [PDFium](https://pdfium.googlesource.com/pdfium/) - PDF generation and rendering library. \[BSD-3-Clause]
 
-## [34. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [33. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Pinning services
 
 *   [QuickNode](https://www.quicknode.com/ipfs) - IPFS gateways and pinning
 
-## [35. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [34. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
 *   [react-vite-template (⭐2)](https://github.com/Mirazex/react-vite-template) - React, TypeScript, Vite, Mantine, Million, Husky, Prettier, Import Sorter, Lint-staged.
 
-## [36. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [35. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Terminal / Terminal UI
 
 *   [oxker (⭐363)](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers. Written in [Rust](https://www.rust-lang.org/), making heavy use of [ratatui (⭐6.3k)](https://github.com/tui-rs-revival/ratatui) & [Bollard (⭐671)](https://github.com/fussybeaver/bollard), by [@mrjackwills](https://github.com/mrjackwills)
 
-## [37. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [36. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Global Connectivity Indexes
 
 *   Network Readiness Index - ([2023](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2023.pdf)) ([2022](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2022.pdf)) ([2021](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2021.pdf)) ([2020](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf)) ([2019](https://networkreadinessindex.org/2019/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf)) Network Readiness Index covering 121 economies from Portulans Institute
 
-## [38. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [37. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Courses and Educational Materials
 
-*   [udlbook/udlbook (⭐4.2k)](https://github.com/udlbook/udlbook?utm_source=alphasignalai.beehiiv.com\&utm_medium=newsletter\&utm_campaign=the-most-powerful-rag-chatbot): Understanding Deep Learning by Professor Simon J.D. Prince
+*   [udlbook/udlbook (⭐4.4k)](https://github.com/udlbook/udlbook?utm_source=alphasignalai.beehiiv.com\&utm_medium=newsletter\&utm_campaign=the-most-powerful-rag-chatbot): Understanding Deep Learning by Professor Simon J.D. Prince
 
 ### Human-AI Interaction
 
@@ -2247,11 +2240,11 @@
 
 *   [Automatic Hallucination detection with SelfCheckGPT NLI](https://huggingface.co/blog/dhuynh95/automatic-hallucination-detection)
 *   [StreamingLLM gives language models unlimited context](https://bdtechtalks.com/2023/11/27/streamingllm/): giving language models unlimited context
-*   [iusztinpaul/hands-on-llms (⭐1.8k)](https://github.com/iusztinpaul/hands-on-llms): learn about LLMs, LLMOps, and vector DBs for free by designing, training, and deploying a real-time financial advisor LLM system \~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴
+*   [iusztinpaul/hands-on-llms (⭐1.9k)](https://github.com/iusztinpaul/hands-on-llms): learn about LLMs, LLMOps, and vector DBs for free by designing, training, and deploying a real-time financial advisor LLM system \~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
-*   [weaviate/Verba (⭐1.7k)](https://github.com/weaviate/Verba): Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
+*   [weaviate/Verba (⭐1.8k)](https://github.com/weaviate/Verba): Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 
 ### LLM Evaluation / Multi-agents
 
@@ -2268,26 +2261,26 @@
 *   [Adversarial Attacks on LLMs | Lil'Log](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 *   [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
 *   [Attacking Large Language Models](https://systemweakness.com/attacking-large-language-models-37229085d4ff): an overview of the current attack techniques on LLMs by Marcello Carboni
-*   [corca-ai/awesome-llm-security (⭐465)](https://github.com/corca-ai/awesome-llm-security): A curation of awesome tools, documents and projects about LLM Security.
+*   [corca-ai/awesome-llm-security (⭐490)](https://github.com/corca-ai/awesome-llm-security): A curation of awesome tools, documents and projects about LLM Security.
 *   [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial): a list of adversarial prompts attacks by Prompt Engineering Guide
 
-## [39. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [38. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
-*   [Lygia (⭐1.9k)](https://github.com/patriciogonzalezvivo/lygia) \[Cross-platform] - Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility
+*   [Lygia (⭐2.1k)](https://github.com/patriciogonzalezvivo/lygia) \[Cross-platform] - Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility.
 
 ### Sound Programming Languages
 
 *   [Overtone](https://overtone.github.io/) - An open source audio environment designed to explore new musical ideas from synthesis and instrument building to live-coding.
 
-## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Layout
 
 *   [vue-virtual-waterfall (⭐33)](https://github.com/lhlyu/vue-virtual-waterfall) - A virtual waterfall component for Vue 3.x.
 
-## [41. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [40. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### CLI and REPL
 
@@ -2297,7 +2290,7 @@
 
 *   [Nx (⭐21k)](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 
-## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CDN and Protection
 
@@ -2307,7 +2300,7 @@
 
 *   [Basedash](https://www.basedash.com) — Low-code platform for building internal admin panels and dashboards. Supports SQL databases and REST APIs.
 
-## [43. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [42. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Diagrams
 
@@ -2317,7 +2310,7 @@
 
 *   [KS DB Merge Tools](https://ksdbmerge.tools) - GUI to compare and sync DB schema and data. For Oracle Database, MySQL, MariaDB, SQL Server, PostgreSQL, SQLite, MS Access and Cross-DBMS.
 
-## [44. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
+## [43. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
 
 ### Conferences and Workshops / Upcoming Conferences and Workshops
 
@@ -2333,17 +2326,17 @@
 *   [Fantastic Futures 2022](https://sites.google.com/view/ai4lam/ai4lam-2022-virtual-event) – Nov. 30–Dec. 2 virtual event hosted by the British Library, London, England.
 *   [Fantastic Futures 2023](https://ff2023.archive.org) – Nov. 15–17 at Internet Archive Canada Headquarters, Vancouver, British Columbia, Canada.
 
-## [45. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [44. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [jillesvangurp/querylight (⭐4)](https://github.com/jillesvangurp/querylight) - In memory search engine for simple in app search. Implements tf/idf and a some basic queries, tokenizers and analyzers.
-*   [jillesvangurp/geogeometry (⭐120)](https://github.com/jillesvangurp/geogeometry) - GeoGeometry is a set of algorithms and functions for manipulating geo hashes and geometric shapes with geo coordinates
+*   [jillesvangurp/querylight (⭐5)](https://github.com/jillesvangurp/querylight) - In memory search engine for simple in app search. Implements tf/idf and a some basic queries, tokenizers and analyzers.
+*   [jillesvangurp/geogeometry (⭐122)](https://github.com/jillesvangurp/geogeometry) - GeoGeometry is a set of algorithms and functions for manipulating geo hashes and geometric shapes with geo coordinates
 
 ### Libraries/Frameworks / API Clients
 
 *   [formation-res/overpass-kotlin-client (⭐1)](https://github.com/formation-res/overpass-kotlin-client) - A simple client for overpass that uses ktor-client and kotlinx.serialization for parsing JSON responses.
-*   [jillesvangurp/kt-search (⭐75)](https://github.com/jillesvangurp/kt-search) - Kotlin multiplatform library for Elasticsearch and Opensearch
+*   [jillesvangurp/kt-search (⭐79)](https://github.com/jillesvangurp/kt-search) - Kotlin multiplatform library for Elasticsearch and Opensearch
 
 ### Libraries/Frameworks / Internationalisation and Localization
 
@@ -2357,7 +2350,7 @@
 
 *   [formation-res/kt-fullstack-demo (⭐3)](https://github.com/formation-res/kt-fullstack-demo) - This demo kotlin-js project implements a UI and server for a little recipe search engine to demonstrate fritz2, kotlin-js, localization with mozilla fluent, use of koin in a webapp.
 
-## [46. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [45. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Email - Mail Delivery Agents
 
@@ -2365,7 +2358,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [mikochi (⭐126)](https://github.com/zer0tonin/Mikochi) - Browse remote folders, upload files, delete, rename, download and stream files to VLC/mpv. `MIT` `Go/Docker/K8S`
+*   [mikochi (⭐129)](https://github.com/zer0tonin/Mikochi) - Browse remote folders, upload files, delete, rename, download and stream files to VLC/mpv. `MIT` `Go/Docker/K8S`
 
 ### Software / Knowledge Management Tools
 

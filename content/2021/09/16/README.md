@@ -266,11 +266,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-wasm-pack (⭐194)](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack (⭐5.7k)](https://github.com/rustwasm/wasm-pack), the simple way.
+*   [vite-plugin-wasm-pack (⭐198)](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack (⭐5.8k)](https://github.com/rustwasm/wasm-pack), the simple way.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-require (⭐49)](https://github.com/wangzongming/vite-plugin-require) - A Vite plugin that supports `require` by code transforming.
+*   [vite-plugin-require (⭐50)](https://github.com/wangzongming/vite-plugin-require) - A Vite plugin that supports `require` by code transforming.
 
 ---
 

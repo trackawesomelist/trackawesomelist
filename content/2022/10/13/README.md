@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 13, 2022
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,12 +16,12 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [cretz/asmble (⭐604)](https://github.com/cretz/asmble) - Compile WebAssembly to JVM and other WASM tools.
+*   [cretz/asmble (⭐607)](https://github.com/cretz/asmble) - Compile WebAssembly to JVM and other WASM tools.
 
 ### Projects / Android
 
 *   [deva666/NewsReader (⭐23)](https://github.com/deva666/NewsReader) - Android app for reading news
-*   [zt64/Hyperion (⭐554)](https://github.com/zt64/Hyperion) - An alternative YouTube front-end using modern Android architecture and Material 3
+*   [zt64/Hyperion (⭐555)](https://github.com/zt64/Hyperion) - An alternative YouTube front-end using modern Android architecture and Material 3
 
 ## [3. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Community plugins
 
-*   [File opener (⭐52)](https://github.com/capacitor-community/file-opener) - The plugin is able to open a file given the mimeType and the file uri.
+*   [File opener (⭐53)](https://github.com/capacitor-community/file-opener) - The plugin is able to open a file given the mimeType and the file uri.
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Continuous Integration
 
-*   [gotestfmt (⭐451)](https://github.com/GoTestTools/gotestfmt) - go test output for humans.
+*   [gotestfmt (⭐454)](https://github.com/GoTestTools/gotestfmt) - go test output for humans.
 
 ## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -88,13 +88,7 @@
 ### Inbox: Stable Diffusion / Multi-agents
 
 *   [NovelAI Improvements on Stable Diffusion | by NovelAI | Oct, 2022 | Medium](https://blog.novelai.net/novelai-improvements-on-stable-diffusion-e10d38db82ac)
-*   [ashawkey/stable-dreamfusion (⭐7.5k)](https://github.com/ashawkey/stable-dreamfusion): A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
-
-## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Artificial Intelligence
-
-*   [Getting Started with Artificial Intelligence , 2nd Edition](https://www.ibm.com/downloads/cas/OJ6WX73V) - Tom Markiewicz, Josh Zheng (PDF)
+*   [ashawkey/stable-dreamfusion (⭐7.6k)](https://github.com/ashawkey/stable-dreamfusion): A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 
 ---
 

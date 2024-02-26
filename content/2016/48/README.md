@@ -78,7 +78,7 @@
 
 ### Database Drivers/Clients
 
-*   [rocksdb.cr (⭐36)](https://github.com/maiha/rocksdb.cr) - RocksDB client
+*   [rocksdb.cr (⭐37)](https://github.com/maiha/rocksdb.cr) - RocksDB client
 
 ## [3. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
@@ -182,7 +182,7 @@
 
 ### Customization / Directory Navigation
 
-*   [base16-builder (⭐421)](https://github.com/base16-builder/base16-builder) - Base16-Builder
+*   [base16-builder (⭐427)](https://github.com/base16-builder/base16-builder) - Base16-Builder
 
 ### Applications / Directory Navigation
 
@@ -191,8 +191,8 @@
 ### Shell Script Development / Directory Navigation
 
 *   [bashwithnails (⭐33)](https://github.com/mindaugasbarysas/bashwithnails) - a Bash framework written just for fun with testing, dependency management & packaging
-*   [lumberjack (⭐38)](https://github.com/molovo/lumberjack) - A logging interface for shell scripts
-*   [revolver (⭐137)](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts
+*   [lumberjack (⭐40)](https://github.com/molovo/lumberjack) - A logging interface for shell scripts
+*   [revolver (⭐139)](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts
 
 ## [15. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -607,7 +607,6 @@
 *   [OpinionCrawl](http://www.opinioncrawl.com)
 *   [Rival IQ](https://www.rivaliq.com)
 *   [SocialBakers](http://www.socialbakers.com)
-*   [SociaBlade](http://socialblade.com)
 *   [Social DownORNot](http://social.downornot.com)
 *   [Social Searcher](http://www.social-searcher.com)
 *   [Tagboard](https://tagboard.com)
@@ -679,7 +678,7 @@
 *   [Agora Pulse](http://barometer.agorapulse.com)
 *   [Fanpage Karma](http://www.fanpagekarma.com)
 *   [Facebook Search](http://search.fb.com/)
-*   [Fb-sleep-stats (⭐1.5k)](https://github.com/sqren/fb-sleep-stats)
+*   [Fb-sleep-stats (⭐1.6k)](https://github.com/sqren/fb-sleep-stats)
 *   [Lookup-ID.com](https://lookup-id.com)
 *   [SearchIsBack](https://searchisback.com)
 *   [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
@@ -1015,7 +1014,7 @@
 *   [Circos](http://circos.ca)
 *   [creately](http://creately.com)
 *   [Crossfilter](http://square.github.io/crossfilter)
-*   [csvkit (⭐5.6k)](https://github.com/wireservice/csvkit)
+*   [csvkit (⭐5.7k)](https://github.com/wireservice/csvkit)
 *   [Data Visualization Catalogue](http://datavizcatalogue.com)
 *   [Datawrapper](https://datawrapper.de)
 *   [Dropmark](http://www.dropmark.com)
@@ -1056,7 +1055,7 @@
 *   [Textures.js](https://riccardoscalco.github.io/textures)
 *   [Tiki-toki](http://www.tiki-toki.com)
 *   [Tik-tok](https://datanews.github.io/tik-tok)
-*   [Timeflow (⭐447)](https://github.com/FlowingMedia/TimeFlow/wiki)
+*   [Timeflow (⭐449)](https://github.com/FlowingMedia/TimeFlow/wiki)
 *   [Timeglider](http://timeglider.com/widget)
 *   [Timeline](http://timeline.knightlab.com)
 *   [Timeline](http://www.simile-widgets.org/timeline)
@@ -1155,7 +1154,7 @@
 ### Offline Browsing / Telegram
 
 *   [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
-*   [gmapcatcher (⭐201)](https://github.com/heldersepu/gmapcatcher)
+*   [gmapcatcher (⭐208)](https://github.com/heldersepu/gmapcatcher)
 *   [Hooey webprint](http://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
 *   [Offliberty](http://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
 *   [Resolver](https://metaproductsrevolver.com)
@@ -1494,7 +1493,7 @@
 ### Styleguides
 
 *   [christopheradams/elixir\_style\_guide (⭐4.3k)](https://github.com/christopheradams/elixir_style_guide) - A community-driven style guide for Elixir.
-*   [lexmag/elixir-style-guide (⭐515)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
+*   [lexmag/elixir-style-guide (⭐513)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
 
 ## [37. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 

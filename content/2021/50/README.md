@@ -22,7 +22,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Sterra (⭐407)](https://github.com/novitae/sterraxcyl)
+*   [Sterra (⭐460)](https://github.com/novitae/sterraxcyl)
 
 ## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -511,7 +511,7 @@
 
 *   [driftctl (⭐2.4k)](https://github.com/snyk/driftctl) - Detect, track, and alert on infrastructure drift
 *   [terraform-credentials-vault (⭐5)](https://github.com/oulman/terraform-credentials-vault) - A Terraform "credentials helper" plugin that allows providing credentials for Terraform-native services (private module registries, Terraform Cloud, etc) via environment variables.
-*   [terrastate (⭐74)](https://github.com/rohinivsenthil/terrastate) - Visual Studio Code extension to monitor/deploy/destroy Terraform resources in your workspace
+*   [terrastate (⭐75)](https://github.com/rohinivsenthil/terrastate) - Visual Studio Code extension to monitor/deploy/destroy Terraform resources in your workspace
 *   [tfvaultenv (⭐46)](https://github.com/oulman/tfvaultenv) - tfvaultenv reads secrets from HashiCorp Vault and outputs environment variables for various Terraform providers with those secrets.
 
 ## [34. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
@@ -558,10 +558,10 @@
 ### Software / G-code
 
 *   [node-gcode (⭐32)](https://github.com/ryansturmer/node-gcode) - Node.js G-code interpreter and simulator.
-*   [svg2gcode (⭐53)](https://github.com/em/svg2gcode) - Node.js command line utility for converting SVG to G-code.
-*   [svg2gcode (⭐89)](https://github.com/vishpat/svg2gcode) - Python utility for fast SVG to G-code conversion.
+*   [svg2gcode (⭐54)](https://github.com/em/svg2gcode) - Node.js command line utility for converting SVG to G-code.
+*   [svg2gcode (⭐88)](https://github.com/vishpat/svg2gcode) - Python utility for fast SVG to G-code conversion.
 *   [jscut](http://jscut.org/) - A web-based utility for converting SVG to G-code.
-*   [gcodeplot (⭐156)](https://github.com/arpruss/gcodeplot) - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
+*   [gcodeplot (⭐159)](https://github.com/arpruss/gcodeplot) - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
 
 ## [39. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
@@ -587,7 +587,7 @@
 
 ### Tools - Editors & IDEs & Explorers / React
 
-*   [CraftQL (⭐106)](https://github.com/yamafaktory/craftql) - A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format.
+*   [CraftQL (⭐107)](https://github.com/yamafaktory/craftql) - A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format.
 
 ## [42. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -674,23 +674,23 @@
 
 ### Development tools / Web Servers
 
-*   [fw (⭐515)](https://github.com/brocode/fw) — workspace productivity booster [![Rust](https://github.com/brocode/fw/actions/workflows/rust.yml/badge.svg)](https://github.com/brocode/fw/actions/workflows/rust.yml)
+*   [fw (⭐516)](https://github.com/brocode/fw) — workspace productivity booster [![Rust](https://github.com/brocode/fw/actions/workflows/rust.yml/badge.svg)](https://github.com/brocode/fw/actions/workflows/rust.yml)
 
 ### Libraries / Command-line
 
 *   Argument parsing
     *   [clap-rs (⭐13k)](https://github.com/clap-rs/clap) \[[clap](https://crates.io/crates/clap)] — A simple to use, full featured command-line argument parser
     *   [cliparser](https://crates.io/crates/cliparser) — Simple command line parser. [![build badge](https://github.com/sagiegurari/cliparser/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/cliparser/actions)
-    *   [docopt/docopt.rs (⭐755)](https://github.com/docopt/docopt.rs) \[[docopt](https://crates.io/crates/docopt)] — A Rust implementation of [DocOpt](http://docopt.org)
+    *   [docopt/docopt.rs (⭐755)](https://github.com/docopt/docopt.rs) \[[docopt](https://crates.io/crates/docopt)] — Implementation of [DocOpt](http://docopt.org)
     *   [google/argh (⭐1.5k)](https://github.com/google/argh) \[[argh](https://crates.io/crates/argh)] — An opinionated Derive-based argument parser optimized for code size [![build badge](https://github.com/google/argh/workflows/Argh/badge.svg?branch=master)](https://github.com/google/argh/actions)
-    *   [killercup/quicli (⭐544)](https://github.com/killercup/quicli) \[[quicli](https://crates.io/crates/quicli)] — quickly build cool CLI apps in Rust
-    *   [ksk001100/seahorse (⭐266)](https://github.com/ksk001100/seahorse) \[[seahorse](https://crates.io/crates/seahorse)] — A minimal CLI framework written in Rust [![Build status](https://github.com/ksk001100/seahorse/workflows/CI/badge.svg?branch=master)](https://github.com/ksk001100/seahorse/actions)
+    *   [killercup/quicli (⭐544)](https://github.com/killercup/quicli) \[[quicli](https://crates.io/crates/quicli)] — quickly build cool CLI apps
+    *   [ksk001100/seahorse (⭐269)](https://github.com/ksk001100/seahorse) \[[seahorse](https://crates.io/crates/seahorse)] — A minimal CLI framework [![Build status](https://github.com/ksk001100/seahorse/workflows/CI/badge.svg?branch=master)](https://github.com/ksk001100/seahorse/actions)
     *   [TeXitoi/structopt (⭐2.7k)](https://github.com/TeXitoi/structopt) \[[structopt](https://crates.io/crates/structopt)] — parse command line argument by defining a struct
 
 ### Libraries / Image processing
 
-*   [image-rs/imageproc (⭐656)](https://github.com/image-rs/imageproc) — An image processing library, based on the `image` library.
-*   [rust-cv/cv (⭐704)](https://github.com/rust-cv/cv) — Rust CV is a project to implement computer vision algorithms, abstractions, and systems in Rust. #\[no\_std] is supported where possible. ![build badge](https://github.com/rust-cv/cv/workflows/tests/badge.svg)
+*   [image-rs/imageproc (⭐661)](https://github.com/image-rs/imageproc) — An image processing library, based on the `image` library.
+*   [rust-cv/cv (⭐712)](https://github.com/rust-cv/cv) — Implement computer vision algorithms, abstractions, and systems. `#[no_std]` is supported where possible. ![build badge](https://github.com/rust-cv/cv/workflows/tests/badge.svg)
 
 ## [47. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 

@@ -43,7 +43,7 @@
 
 ### Music Programming
 
-*   [tuneflow-py (⭐861)](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
+*   [tuneflow-py (⭐904)](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
 
 ## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 

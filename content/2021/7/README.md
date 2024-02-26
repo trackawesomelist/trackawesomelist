@@ -270,7 +270,7 @@
 
 ### Reflection
 
-*   [Refureku (⭐198)](https://github.com/jsoysouvanh/Refureku) - A C++17 runtime reflection and code generation library. \[MIT]
+*   [Refureku (⭐199)](https://github.com/jsoysouvanh/Refureku) - A C++17 runtime reflection and code generation library. \[MIT]
 
 ## [29. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -296,11 +296,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-windicss (⭐850)](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
+*   [vite-plugin-windicss (⭐849)](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html (⭐499)](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
+*   [vite-plugin-html (⭐506)](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
 
 ## [32. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -427,7 +427,7 @@
 ### Router / Mouse Events
 
 *   [wouter (⭐5.9k)](https://github.com/molefrog/wouter) - A minimalist-friendly \~1.3KB routing library. Nothing else but hooks.
-*   [redux-first-history (⭐423)](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
+*   [redux-first-history (⭐426)](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
 
 ### Form Components / Color Picker
 
@@ -443,19 +443,19 @@
 
 ### Feature Flags and Toggles
 
-*   [ConfigCat (⭐14)](https://github.com/configcat/elixir-sdk) - Elixir SDK for ConfigCat hosted feature flag service.
+*   [ConfigCat (⭐15)](https://github.com/configcat/elixir-sdk) - Elixir SDK for ConfigCat hosted feature flag service.
 
 ### Templating
 
-*   [temple (⭐456)](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
+*   [temple (⭐458)](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
 
 ### Testing
 
-*   [mix\_test\_interactive (⭐63)](https://github.com/influxdata/mix_test_interactive) - Interactive test runner for mix test with watch mode.
+*   [mix\_test\_interactive (⭐65)](https://github.com/influxdata/mix_test_interactive) - Interactive test runner for mix test with watch mode.
 
 ### Text and Numbers
 
-*   [bitcoinex (⭐50)](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir.
+*   [bitcoinex (⭐51)](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir.
 
 ## [40. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
@@ -480,7 +480,7 @@
 
 ### Applications / Database
 
-*   [WooriDB (⭐124)](https://github.com/naomijub/wooridb) - General purpose time serial database inspired by Crux and Datomic.
+*   [WooriDB (⭐125)](https://github.com/naomijub/wooridb) - General purpose time serial database inspired by Crux and Datomic.
 
 ## [42. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -542,16 +542,16 @@
 
 ### Demos / Godot 3.2+
 
-*   [Godot experiments (⭐533)](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
+*   [Godot experiments (⭐544)](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Anima (⭐570)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
+*   [Anima (⭐572)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
 
 ### Plugins and scripts / Godot 3.2+
 
 *   [Godot GamePad (⭐111)](https://github.com/ACB-prgm/Godot_GamePad) - Allows players to use their mobile devices as controllers.
-*   [SmartShape2D (⭐977)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
+*   [SmartShape2D (⭐990)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
 
 ### Modules / Godot 4.0
 

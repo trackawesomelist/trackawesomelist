@@ -6,24 +6,23 @@
 
 
 
-## [1. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### CLI
+
+*   [TCLAP](http://tclap.sourceforge.net) - A mature, stable and feature-rich library for defining and accessing command line arguments in ANSI C++. \[MIT]
+
+## [2. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Reactive
 
 *   [VxRifa](https://nsforth.github.io/vxrifa) - Utility library for Vert.X that allows using strong-typed interfaces in communication through EventBus.
 
-## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Audio and Video Tools / File Sharing
 
 *   [Elmedia Player](https://mac.eltima.com/media-player.html) - This media player is a super versatile app for any file format you probably may think of: FLV, MP4, AVI, MOV, DAT, MKV, MP3, FLAC, M4V are all supported as well as many others.
-
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-### CLI
-
-*   [Taywee/args (⭐1.3k)](https://github.com/taywee/args) - A simple header-only C++ argument parser library. \[MIT]
-*   [TCLAP](http://tclap.sourceforge.net) - A mature, stable and feature-rich library for defining and accessing command line arguments in ANSI C++. \[MIT]
 
 ## [4. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 

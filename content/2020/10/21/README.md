@@ -546,7 +546,7 @@
 
 ### Username Check / Telegram
 
-*   [Sherlock (⭐43k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+*   [Sherlock (⭐47k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 
 ### DNS / Telegram
 

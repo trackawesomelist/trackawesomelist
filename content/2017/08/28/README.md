@@ -58,10 +58,6 @@
 
 *   [Let's Make A Ray Marcher](https://www.shadertoy.com/view/MdBfRK) - Interactive Shader-Toy on writing a ray marcher.
 
-### Inspiration / Other
-
-*   [W:BLUT Inspiration](http://inspiration.wblut.com/) - Collection of gifs, links and images by W:Blut.
-
 ### Events / Other
 
 *   [NextArt Night](https://nextart.tech/) - Inspiring people through creative uses of tech.

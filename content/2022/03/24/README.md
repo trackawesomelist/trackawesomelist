@@ -78,7 +78,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [terragrunt (⭐11)](https://github.com/jkavan/terragrunt-oh-my-zsh-plugin) - Tab completion for [Terragrunt (⭐7.4k)](https://github.com/gruntwork-io/terragrunt).
+*   [terragrunt (⭐12)](https://github.com/jkavan/terragrunt-oh-my-zsh-plugin) - Tab completion for [Terragrunt (⭐7.5k)](https://github.com/gruntwork-io/terragrunt).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

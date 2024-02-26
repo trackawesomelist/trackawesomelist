@@ -275,7 +275,7 @@
 
 ### Libraries
 
-*   [Rambda (⭐1.5k)](https://github.com/selfrefactor/rambda) - A faster alternative to Ramda in under 10kB.
+*   [Rambda (⭐1.6k)](https://github.com/selfrefactor/rambda) - A faster alternative to Ramda in under 10kB.
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

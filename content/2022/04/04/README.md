@@ -34,15 +34,15 @@
 
 ### Templates / React
 
-*   [reactjs-vite-tailwindcss-boilerplate (⭐385)](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.
+*   [reactjs-vite-tailwindcss-boilerplate (⭐405)](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.
 
 ## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Audio
 
-*   [Spotube (⭐21k)](https://github.com/KRTirtho/spotube) - A lightweight free Spotify crossplatform-client.
+*   [Spotube (⭐22k)](https://github.com/KRTirtho/spotube) - A lightweight free Spotify crossplatform-client.
 *   [Spot\* (⭐2.2k)](https://github.com/xou816/spot) - Native Spotify client built in GTK and Rust.
-*   [psst\* (⭐7.9k)](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
+*   [psst\* (⭐8k)](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
 *   [ncspot\* (⭐4.5k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.ç
 
 ## [7. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
@@ -90,11 +90,11 @@
 
 ### Tokenizers
 
-*   [sentences (⭐401)](https://github.com/neurosnap/sentences) - Sentence tokenizer: converts text into a list of sentences.
+*   [sentences (⭐409)](https://github.com/neurosnap/sentences) - Sentence tokenizer: converts text into a list of sentences.
 
 ### Security
 
-*   [secret (⭐24)](https://github.com/rsjethani/secret) - Prevent your secrets from leaking into logs, std\* etc.
+*   [secret (⭐25)](https://github.com/rsjethani/secret) - Prevent your secrets from leaking into logs, std\* etc.
 
 ### Utilities
 

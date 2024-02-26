@@ -20,7 +20,7 @@
 
 ### CLI Builder
 
-*   [Runfile (⭐29)](https://github.com/DannyBen/runfile) - Build command line applications per project with ease. Rake-inspired, Docopt inside.
+*   [Runfile (⭐34)](https://github.com/DannyBen/runfile) - Build command line applications per project with ease. Rake-inspired, Docopt inside.
 
 ### Core Extensions
 
@@ -38,7 +38,7 @@
 
 ### Process Management and Monitoring
 
-*   [RedisWebManager (⭐172)](https://github.com/OpenGems/redis_web_manager) - Web interface that allows you to manage easily your Redis instance (see keys, memory used, connected client, etc...).
+*   [RedisWebManager (⭐173)](https://github.com/OpenGems/redis_web_manager) - Web interface that allows you to manage easily your Redis instance (see keys, memory used, connected client, etc...).
 
 ## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -143,7 +143,7 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 
 ### Contents / Imaging
 
-*   [Drishti (⭐159)](https://github.com/nci/drishti/wiki) - Tomography and electron-microscopy data visualizer for both scientists and lay people.
+*   [Drishti (⭐164)](https://github.com/nci/drishti/wiki) - Tomography and electron-microscopy data visualizer for both scientists and lay people.
 
 ## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

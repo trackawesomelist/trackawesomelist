@@ -35,7 +35,7 @@
 
 ### Admin Interface
 
-*   [Administrate (⭐5.7k)](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard, by Thoughtbot.
+*   [Administrate (⭐5.8k)](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard, by Thoughtbot.
 
 ## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 

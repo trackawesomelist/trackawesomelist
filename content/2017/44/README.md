@@ -154,7 +154,7 @@
 
 ### Frameworks
 
-*   [abseil-cpp (⭐13k)](https://github.com/abseil/abseil-cpp) - Abseil C++ Common Libraries. \[Apache2]
+*   [abseil-cpp (⭐14k)](https://github.com/abseil/abseil-cpp) - Abseil C++ Common Libraries. \[Apache2]
 
 ### JSON
 
@@ -166,7 +166,7 @@
 
 ### PDF
 
-*   [libharu (⭐1.6k)](https://github.com/libharu/libharu) - A free, cross platform, open-sourced software library for generating PDF. \[zlib]
+*   [libharu (⭐1.7k)](https://github.com/libharu/libharu) - A free, cross platform, open-sourced software library for generating PDF. \[zlib]
 *   [MuPDF](https://mupdf.com/) - A lightweight PDF, XPS, and E-book viewer. \[AGPL/Proprietary]
 
 ## [17. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
@@ -1036,7 +1036,7 @@ Webpage: <http://www.groundsupportcafe.com/>
 
 ### Table of Contents / Architectural
 
-*   [Porter (⭐605)](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
+*   [Porter (⭐606)](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
 
 ## [38. Bots](/content/hackerkid/bots/week/README.md)
 
@@ -1137,7 +1137,7 @@ Webpage: <http://www.groundsupportcafe.com/>
 
 ### Command-Line Productivity
 
-*   [AdvancedNewFile (⭐239)](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories in a recursive way. Inspired by the Vim plugin.
+*   [AdvancedNewFile (⭐243)](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories in a recursive way. Inspired by the Vim plugin.
 
 ## [51. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Apps / Security
 
-*   [wagtail-2fa (⭐81)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
+*   [wagtail-2fa (⭐82)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
 
 ## [4. Tips](/content/git-tips/tips/README.md)
 

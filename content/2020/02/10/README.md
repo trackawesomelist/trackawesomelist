@@ -51,7 +51,7 @@
 
 ### JSON Schema Validators
 
-*   [Medeia Validator (⭐54)](https://github.com/worldturner/medeia-validator) - Compliant (draft-04/06/07) and fast streaming validator written in Kotlin
+*   [Medeia Validator (⭐57)](https://github.com/worldturner/medeia-validator) - Compliant (draft-04/06/07) and fast streaming validator written in Kotlin
 
 ## [8. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Photo / Image
 
-*   [react-particle-image (⭐434)](https://github.com/malerba118/react-particle-image) - [demo](https://malerba118.github.io/react-particle-image-demo/) - Render images as interactive particles.
+*   [react-particle-image (⭐438)](https://github.com/malerba118/react-particle-image) - [demo](https://malerba118.github.io/react-particle-image-demo/) - Render images as interactive particles.
 
 ---
 

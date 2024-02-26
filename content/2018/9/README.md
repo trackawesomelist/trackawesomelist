@@ -23,18 +23,13 @@
 ### Libraries
 
 *   [jsmn](https://zserge.com/jsmn.html) - A minimalistic parser in C. It can be easily integrated into the resource-limited projects or embedded systems.
-*   [RapidJSON (⭐12k)](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
-*   [Jackson (⭐7.8k)](https://github.com/FasterXML/jackson) - A multi-purpose Java library for processing JSON data format.
+*   [RapidJSON (⭐14k)](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
+*   [Jackson (⭐8.7k)](https://github.com/FasterXML/jackson) - A multi-purpose Java library for processing JSON data format.
 *   [JSON 3](https://bestiejs.github.io/json3/) - A modern implementation.
-*   [oboe.js](http://oboejs.com/) - A streaming approach, speeds up web applications by providing parsed objects before the response completes.
-
-### Online tools
-
-*   [JSON Generator](https://www.json-generator.com/) - Tool for generating random data.
 
 ### Supersets
 
-*   [HOCON (⭐5.8k)](https://github.com/lightbend/config/blob/master/HOCON.md) - Human-Optimized Config Object Notation.
+*   [HOCON (⭐6.1k)](https://github.com/lightbend/config/blob/master/HOCON.md) - Human-Optimized Config Object Notation.
 
 ### Tutorials
 
@@ -42,11 +37,11 @@
 
 ### Resources
 
-*   [Type-o-rama (⭐239)](https://github.com/stereobooster/type-o-rama) - JS type systems interportability, comparison of different JS type systems and conversion between them.
+*   [Type-o-rama (⭐244)](https://github.com/stereobooster/type-o-rama) - JS type systems interportability, comparison of different JS type systems and conversion between them.
 
 ### Transformations
 
-*   [fast-xml-parser (⭐1.7k)](https://github.com/NaturalIntelligence/fast-xml-parser) - Fast XML to JSON and vice versa javascript/JSON conversion.
+*   [fast-xml-parser (⭐2.3k)](https://github.com/NaturalIntelligence/fast-xml-parser) - Fast XML to JSON and vice versa javascript/JSON conversion.
 
 ## [2. Awesome Plone](/content/collective/awesome-plone/week/README.md)
 
@@ -353,15 +348,14 @@
 
 ### Built-in Classes Enhancement
 
-*   [attrs (⭐4.8k)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
-*   [bidict (⭐1.3k)](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality..
-*   [Box (⭐2.2k)](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access.
+*   [attrs (⭐5k)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
+*   [bidict (⭐1.4k)](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality..
 
 ### Database Drivers
 
 *   MySQL - [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
-    *   [mysqlclient (⭐2.3k)](https://github.com/PyMySQL/mysqlclient-python) - MySQL connector with Python 3 support ([mysql-python](https://sourceforge.net/projects/mysql-python/) fork).
-    *   [PyMySQL (⭐7.3k)](https://github.com/PyMySQL/PyMySQL) - A pure Python MySQL driver compatible to mysql-python.
+    *   [mysqlclient (⭐2.4k)](https://github.com/PyMySQL/mysqlclient) - MySQL connector with Python 3 support ([mysql-python](https://sourceforge.net/projects/mysql-python/) fork).
+    *   [pymysql (⭐7.5k)](https://github.com/PyMySQL/PyMySQL) - A pure Python MySQL driver compatible to mysql-python.
 
 ## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -408,7 +402,7 @@
 
 ### Configuration
 
-*   [Envyable (⭐76)](https://github.com/philnash/envyable) - The simplest YAML to ENV config loader.
+*   [Envyable (⭐78)](https://github.com/philnash/envyable) - The simplest YAML to ENV config loader.
 
 ## [30. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Audio
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Blade Player (⭐149)](https://github.com/vhaudiquet/BladePlayer) - Open source Spotify client, works without premium.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Blade Player (⭐152)](https://github.com/vhaudiquet/BladePlayer) - Open source Spotify client, works without premium.
 
 ## [4. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
 
@@ -112,17 +112,17 @@
 ### Libraries / Command-line
 
 *   Pipeline
-    *   [hniksic/rust-subprocess (⭐406)](https://github.com/hniksic/rust-subprocess) \[[subprocess](https://crates.io/crates/subprocess)] — facilities for interaction with external pipelines
+    *   [hniksic/rust-subprocess (⭐408)](https://github.com/hniksic/rust-subprocess) \[[subprocess](https://crates.io/crates/subprocess)] — facilities for interaction with external pipelines
     *   [imp/pager-rs](https://gitlab.com/imp/pager-rs) \[[pager](https://crates.io/crates/pager)] — pipe your output through an external pager
-    *   [oconnor663/duct.rs (⭐760)](https://github.com/oconnor663/duct.rs) \[[duct](https://crates.io/crates/duct)] — A builder for subprocess pipelines and IO redirection
+    *   [oconnor663/duct.rs (⭐767)](https://github.com/oconnor663/duct.rs) \[[duct](https://crates.io/crates/duct)] — A builder for subprocess pipelines and IO redirection
     *   [rust-cli/rexpect (⭐301)](https://github.com/rust-cli/rexpect) \[[rexpect](https://crates.io/crates/rexpect)] — automate interactive applications such as ssh, ftp, passwd, etc [![CI](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml/badge.svg)](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml)
-    *   [zhiburt/expectrl (⭐157)](https://github.com/zhiburt/expectrl) \[[expectrl](https://crates.io/crates/expectrl)] — A library for controlling interactive programs in a pseudo-terminal [![build badge](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml)
+    *   [zhiburt/expectrl (⭐159)](https://github.com/zhiburt/expectrl) \[[expectrl](https://crates.io/crates/expectrl)] — A library for controlling interactive programs in a pseudo-terminal [![build badge](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml)
 
 ## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Web History and Website Capture / Telegram
 
-*   [waybackpy (⭐352)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
+*   [waybackpy (⭐407)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
 
 ## [13. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 

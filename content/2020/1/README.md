@@ -191,11 +191,11 @@
 
 ### Software / Automation
 
-*   [Huginn (⭐40k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
+*   [Huginn (⭐41k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
 
 ### Software / Groupware
 
-*   [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐1.1k)](https://github.com/cortezaproject/corteza)) `Apache-2.0` `Go`
+*   [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐1.2k)](https://github.com/cortezaproject/corteza)) `Apache-2.0` `Go`
 
 ## [22. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
@@ -261,7 +261,7 @@
 
 ### Table of Contents / Static Analysis
 
-*   [PHP Architecture Tester (⭐962)](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
+*   [PHP Architecture Tester (⭐975)](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
 
 ### Configuration / Miscellaneous
 
@@ -368,7 +368,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail Resume (⭐86)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
+*   [Wagtail Resume (⭐87)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
 
 ## [37. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
@@ -411,7 +411,7 @@
 
 ### Debugging
 
-*   🍰 [Setup plugin (⭐33)](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools.
+*   🍰 [Setup plugin (⭐34)](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools.
 
 ### Miscellaneous
 
@@ -435,7 +435,7 @@
 
 ### Machine Learning
 
-*   [Cadmium (⭐200)](https://github.com/cadmiumcr/cadmium) - NLP library based heavily on [natural (⭐10k)](https://github.com/NaturalNode/natural)
+*   [Cadmium (⭐202)](https://github.com/cadmiumcr/cadmium) - NLP library based heavily on [natural (⭐10k)](https://github.com/NaturalNode/natural)
 
 ### Misc
 
@@ -452,8 +452,8 @@
 ### Tooling / Frameworks
 
 *   [cargo-web (⭐1.1k)](https://github.com/koute/cargo-web) - A Cargo subcommand for the client-side Web.
-*   [wabt (⭐6.1k)](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
-*   [binaryen (⭐6.9k)](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
+*   [wabt (⭐6.2k)](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
+*   [binaryen (⭐7k)](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
 
 ### Books / Frameworks
 
@@ -464,7 +464,7 @@
 
 *   [Percy (⭐2.2k)](https://github.com/chinedufn/percy) - A modular toolkit for building isomorphic web apps with Rust + WebAssembly.
 *   [Seed (⭐3.8k)](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
-*   [Smithy (⭐350)](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
+*   [Smithy (⭐351)](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
 
 ## [45. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 

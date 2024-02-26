@@ -14,7 +14,7 @@
 
 ### Logging
 
-*   [zax (⭐15)](https://github.com/yuseferi/zax) - Integrate Context with Zap logger, which leads to more flexibility in Go logging.
+*   [zax (⭐16)](https://github.com/yuseferi/zax) - Integrate Context with Zap logger, which leads to more flexibility in Go logging.
 
 ### Utilities
 
@@ -36,7 +36,7 @@
 
 ### Gaming
 
-*   [Game Engine Development (⭐551)](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
+*   [Game Engine Development (⭐623)](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
 
 ## [5. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -127,13 +127,13 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [Kotlin/kotlinx-benchmark (⭐431)](https://github.com/Kotlin/kotlinx-benchmark) - A powerful library for benchmarking in Kotlin.
+*   [Kotlin/kotlinx-benchmark (⭐436)](https://github.com/Kotlin/kotlinx-benchmark) - A powerful library for benchmarking in Kotlin.
 
 ## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Large Language Models (LLMs)
 
-*   [SolidUI (⭐465)](https://github.com/CloudOrc/SolidUI): AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
+*   [SolidUI (⭐477)](https://github.com/CloudOrc/SolidUI): AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

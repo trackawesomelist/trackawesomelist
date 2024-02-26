@@ -17,7 +17,7 @@
 
 ### Server-Side Rendering / Lazy Load
 
-*   [react-esi (⭐663)](https://github.com/dunglas/react-esi) - A library to boost SSR performance by exposing React components as Edge Side Includes (ESI) fragments
+*   [react-esi (⭐664)](https://github.com/dunglas/react-esi) - A library to boost SSR performance by exposing React components as Edge Side Includes (ESI) fragments
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

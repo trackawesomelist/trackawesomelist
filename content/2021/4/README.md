@@ -30,7 +30,7 @@
 
 ### Platforms
 
-*   [DOS (⭐390)](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
+*   [DOS (⭐402)](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
 
 ## [4. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
@@ -58,24 +58,24 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-pwa (⭐2.5k)](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
+*   [vite-plugin-pwa (⭐2.6k)](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
 
 ### Rollup Plugins / Covered by default in Vite
 
-*   [@rollup/plugin-babel (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/babel) - Compile your files with Babel.
-*   [@rollup/plugin-buble (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/buble) - Compile ES2015 with buble.
-*   [@rollup/plugin-data-uri (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/data-uri) - Import modules from Data URIs.
-*   [@rollup/plugin-html (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/html) - Create HTML files to serve Rollup bundles.
-*   [@rollup/plugin-node-resolve (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/node-resolve) - Locate and bundle third-party dependencies in node\_modules.
-*   [@rollup/plugin-sucrase (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile TypeScript, Flow, JSX, etc with Sucrase.
-*   [@rollup/plugin-wasm (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/wasm) - Import WebAssembly code with Rollup.
-*   [@rollup/plugin-url (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/url) - Import files as data-URIs or ES Modules.
+*   [@rollup/plugin-babel (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/babel) - Compile your files with Babel.
+*   [@rollup/plugin-buble (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/buble) - Compile ES2015 with buble.
+*   [@rollup/plugin-data-uri (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/data-uri) - Import modules from Data URIs.
+*   [@rollup/plugin-html (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/html) - Create HTML files to serve Rollup bundles.
+*   [@rollup/plugin-node-resolve (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/node-resolve) - Locate and bundle third-party dependencies in node\_modules.
+*   [@rollup/plugin-sucrase (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile TypeScript, Flow, JSX, etc with Sucrase.
+*   [@rollup/plugin-wasm (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/wasm) - Import WebAssembly code with Rollup.
+*   [@rollup/plugin-url (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/url) - Import files as data-URIs or ES Modules.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-eslint (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/eslint) - Verify entry point and all imported files with ESLint.
-*   [@rollup/plugin-legacy (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/legacy) - Add export declarations to legacy non-module scripts.
-*   [@rollup/plugin-yaml (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/yaml) - Convert YAML files to ES6 modules.
+*   [@rollup/plugin-eslint (⭐3.5k)](https://github.com/rollup/plugins/blob/master/packages/eslint) - Verify entry point and all imported files with ESLint.
+*   [@rollup/plugin-legacy (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/legacy) - Add export declarations to legacy non-module scripts.
+*   [@rollup/plugin-yaml (⭐3.5k)](https://github.com/rollup/plugins/blob/master/packages/yaml) - Convert YAML files to ES6 modules.
 
 ## [6. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Machine Learning
 
-*   [oneDAL (⭐585)](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. \[Apache]
+*   [oneDAL (⭐588)](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. \[Apache]
 
 ## [9. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
 
@@ -675,7 +675,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [CSG Mesh Exporter (.OBJ) (⭐48)](https://github.com/mohammedzero43/CSGExport-Godot) - Export CSG nodes to OBJ meshes to improve editing performance.
+*   [CSG Mesh Exporter (.OBJ) (⭐49)](https://github.com/mohammedzero43/CSGExport-Godot) - Export CSG nodes to OBJ meshes to improve editing performance.
 
 ### Websites / Godot version unknown
 
@@ -896,7 +896,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Development tools / Web Servers
 
-*   [datanymizer/datanymizer (⭐476)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
+*   [datanymizer/datanymizer (⭐477)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
 
 ### Libraries / Automotive
 
@@ -912,7 +912,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Libraries / Date and time
 
-*   [time-rs/time (⭐957)](https://github.com/time-rs/time) — [![build badge](https://github.com/time-rs/time/workflows/Build/badge.svg)](https://github.com/time-rs/time/actions)
+*   [time-rs/time (⭐968)](https://github.com/time-rs/time) — [![build badge](https://github.com/time-rs/time/workflows/Build/badge.svg)](https://github.com/time-rs/time/actions)
 
 ## [48. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -960,7 +960,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Daisy UI (⭐28k)](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
+*   🧩 [Daisy UI (⭐29k)](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
 
 ## [53. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
 
@@ -996,7 +996,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### WSGI Servers
 
-*   [gunicorn (⭐9k)](https://github.com/benoitc/gunicorn) - Pre-forked, ported from Ruby's Unicorn project.
+*   [gunicorn (⭐9.4k)](https://github.com/benoitc/gunicorn) - Pre-forked, ported from Ruby's Unicorn project.
 
 ## [58. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 

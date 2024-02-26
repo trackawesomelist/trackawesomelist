@@ -53,7 +53,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-handlebars (⭐154)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
+*   [vite-plugin-handlebars (⭐157)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Software / Video Surveillance
 
-*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐532)](https://github.com/kerberos-io/agent)) `MIT` `Docker/K8S`
+*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐539)](https://github.com/kerberos-io/agent)) `MIT` `Docker/K8S`
 
 ## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

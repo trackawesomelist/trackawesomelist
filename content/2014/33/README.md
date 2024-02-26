@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 18 - Aug 24, 2014
 
-11 awesome lists updated this week.
+12 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -222,13 +222,8 @@
 
 ### Database Drivers
 
-*   PostgreSQL - [awesome-postgres (⭐8.8k)](https://github.com/dhamaniasad/awesome-postgres)
-    *   [psycopg2](http://initd.org/psycopg/) - The most popular PostgreSQL adapter for Python.
-    *   [queries (⭐259)](https://github.com/gmr/queries) - A wrapper of the psycopg2 library for interacting with PostgreSQL.
-
-### E-commerce
-
-*   [merchant (⭐1k)](https://github.com/agiliq/merchant) - A Django app to accept payments from various payment processors.
+*   PostgreSQL - [awesome-postgres (⭐9.3k)](https://github.com/dhamaniasad/awesome-postgres)
+    *   [psycopg (⭐1.4k)](https://github.com/psycopg/psycopg) - The most popular PostgreSQL adapter for Python.
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -239,12 +234,12 @@
 ### Frameworks
 
 *   [ASL](http://stlab.adobe.com/) - Adobe Source Libraries provides peer-reviewed and portable C++ source libraries. \[MIT]
-*   [ffead-cpp (⭐664)](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development. \[Apache2]
+*   [ffead-cpp (⭐667)](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development. \[Apache2]
 *   [Folly (⭐27k)](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook. \[Apache2]
 *   [JUCE (⭐5.9k)](https://github.com/julianstorer/JUCE) - An all-encompassing C++ class library for developing cross-platform software. \[Core-Module: ISC, Rest: GPL2/GPL3/Proprietary] [website](http://www.juce.com/)
 *   [libPhenom (⭐1.7k)](https://github.com/facebook/libphenom) - libPhenom is an eventing framework for building high performance and high scalability systems in C. \[Apache2]
 *   [LibSourcey (⭐1.3k)](https://github.com/sourcey/libsourcey) - C++11 evented IO for real-time video streaming and high performance networking applications. \[LGPL]
-*   [LibU (⭐427)](https://github.com/koanlogic/libu) - A multiplatform utility library written in C. \[BSD]
+*   [LibU (⭐428)](https://github.com/koanlogic/libu) - A multiplatform utility library written in C. \[BSD]
 *   [Loki](http://loki-lib.sourceforge.net/) - A C++ library of designs, containing flexible implementations of common design patterns and idioms. \[MIT]
 *   [STXXL](http://stxxl.sourceforge.net/) - Standard Template Library for Extra Large Data Sets. \[Boost]
 *   [Ultimate++](http://www.ultimatepp.org/) - A C++ cross-platform rapid application development framework. \[BSD]
@@ -252,7 +247,7 @@
 
 ### Artificial Intelligence
 
-*   [btsk (⭐441)](https://github.com/aigamedev/btsk) - Game Behavior Tree Starter Kit. \[zlib]
+*   [btsk (⭐443)](https://github.com/aigamedev/btsk) - Game Behavior Tree Starter Kit. \[zlib]
 *   [Evolving Objects](http://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast. \[LGPL]
 
 ### Asynchronous Event Loop
@@ -282,7 +277,7 @@
 
 ### Concurrency
 
-*   [C++React (⭐996)](https://github.com/schlangster/cpp.react) - A reactive programming library for C++11. \[Boost]
+*   [C++React (⭐997)](https://github.com/schlangster/cpp.react) - A reactive programming library for C++11. \[Boost]
 
 ### Cryptography
 
@@ -353,6 +348,20 @@
 ### Reactive Programming / Runner
 
 *   [Kefir (⭐8)](https://github.com/pozadi/kefir) - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
+
+## [12. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### Lisp / Zepto.js
+
+*   [Common Lisp 高级编程技术](http://www.ituring.com.cn/minibook/862) (《On Lisp》中文版)
+
+### reStructuredText / Django
+
+*   [reStructuredText 入门](http://www.pythondoc.com/sphinx/rest.html)
+
+### Scala / Django
+
+*   [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)
 
 ---
 

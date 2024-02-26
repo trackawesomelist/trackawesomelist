@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 22 - Oct 28, 2018
 
-73 awesome lists updated this week.
+72 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -176,8 +176,8 @@ RewriteRule ^robots.txt - [L]
 ### Command-Line Productivity
 
 *   [fselect (⭐3.7k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
-*   [loop (⭐652)](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners
-*   [xsv (⭐9.7k)](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
+*   [loop (⭐659)](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners
+*   [xsv (⭐9.9k)](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
 
 ### Downloading and Serving / Directory Navigation
 
@@ -237,13 +237,7 @@ RewriteRule ^robots.txt - [L]
 
 *   [Z (⭐16k)](https://github.com/rupa/z) - Powerful way to navigate easily by typing only a string of directory name in terminal instead of typing exact location of director.
 
-## [18. Awesome Python](/content/vinta/awesome-python/week/README.md)
-
-### Podcasts
-
-*   [Test and Code](https://testandcode.com/)
-
-## [19. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [18. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Books
 
@@ -267,7 +261,7 @@ RewriteRule ^robots.txt - [L]
 *   [Hybrid fuzz testing: Discovering software bugs via fuzzing and symbolic execution, 2012](https://pdfs.semanticscholar.org/488a/b1e313f5109153f2c74e3b5d86d41e9b4b71.pdf)
 *   [Call-Flow Aware API Fuzz Testing for Security of Windows Systems, 2008](https://www.computer.org/csdl/proceedings/iccsa/2008/3243/00/3243a019-abs.html)
 
-## [20. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
+## [19. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
 
 ### Hooks
 
@@ -279,20 +273,20 @@ RewriteRule ^robots.txt - [L]
 *   [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
 *   [Hooks FAQ](https://reactjs.org/docs/hooks-faq.html)
 
-## [21. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [20. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
 *   [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course/ml-intro) Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.
 *   [Python Class By Google](https://developers.google.com/edu/python/) This is a free class for people with a little bit of programming experience who want to learn Python. The class includes written materials, lecture videos, and lots of code exercises to practice Python coding.
 
-## [22. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [21. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### data
 
 *   [gimme OSM](http://ustroetz.github.io/gimmeOSM/): Fetch geojson file by openstreetmap id
 
-## [23. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [22. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Official resources
 
@@ -311,31 +305,31 @@ RewriteRule ^robots.txt - [L]
 
 *   [SaltConf](https://saltconf.com/) - Annual user conference for SaltStack customers, users, partners, developers and community members.
 
-## [24. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [23. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Graphics and image / OpenOffice
 
 *   [Photoshop CS5 (by karime1)](https://www.autoitscript.fr/forum/viewtopic.php?f=21\&t=9531) - a new UDF to Control Photoshop CS5 Obj using AutoIt.
 
-## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [24. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Tools / Community Chat Rooms
 
 *   [embedded-hal-mock](https://crates.io/crates/embedded-hal-mock) Mock implementation of `embedded-hal` traits for testing without accessing real hardware. - ![crates.io](https://img.shields.io/crates/v/embedded-hal-mock.svg)
 
-## [26. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [25. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Free fonts / Fonts
 
 *   [Libre Franklin (⭐339)](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic.
 
-## [27. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [26. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
 *   [Audio Visualizer (⭐27)](https://github.com/Teoxoy/audio-visualizer) - An interesting web audio visualizer built with Pixi.js.
 
-## [28. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [27. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### JavaScript / General-Purpose Machine Learning
 
@@ -345,7 +339,7 @@ RewriteRule ^robots.txt - [L]
 
 *   [Coach (⭐2.3k)](https://github.com/NervanaSystems/coach) - Reinforcement Learning Coach by Intel® AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms
 
-## [29. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [28. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -428,7 +422,7 @@ RewriteRule ^robots.txt - [L]
 | ------: | -------: | ------: |
 |   3 - 6 |       10 | 60-120m |
 
-## [30. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [29. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -438,13 +432,13 @@ RewriteRule ^robots.txt - [L]
 
 *   [Keyboard Visibility Event (⭐15)](https://github.com/viniciusmo/keyboard-visibility-event-android/) - A DSL to handle soft keyboard visibility change event.
 
-## [31. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [30. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Misc / Firmwares for ESP based Devices
 
 *   [snowboy2mqtt (⭐6)](https://github.com/hobbyquaker/snowboy2mqtt) - Publish MQTT Messages on Snowboy Hotword Detection.
 
-## [32. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [31. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Communities / Other
 
@@ -456,13 +450,13 @@ RewriteRule ^robots.txt - [L]
 
     A podcast hosted by [Guy Raz](https://twitter.com/guyraz) where startup founders tell their story.
 
-## [33. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [32. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Libraries / Drivers
 
 *   [mrpierrot/cycle-net ★0 (⭐2)](https://github.com/mrpierrot/cycle-net) - A Cycle.js driver for Node.js HTTP(S)/WS(S)/Socket.io server
 
-## [34. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [33. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Online services
 
@@ -472,13 +466,13 @@ RewriteRule ^robots.txt - [L]
 
 *   [dpxdt (⭐1.4k)](https://github.com/bslatkin/dpxdt) - End-to-end testing with Python.
 
-## [35. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [34. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [How To Test On Real iOS Devices With Appium, Part 1](https://appiumpro.com/editions/40)
 
-## [36. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [35. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -496,7 +490,7 @@ RewriteRule ^robots.txt - [L]
 *   [Developer Muslim](https://devmuslim.id/) - Jurnal seorang developer muslim
 *   [Teman Macet](http://temanmacet.com/) - Tentang programming dan industri informatika.
 
-## [37. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [36. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Web / Apache License
 
@@ -510,19 +504,19 @@ RewriteRule ^robots.txt - [L]
 
 *   [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
 
-## [38. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
+## [37. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
 ### Learning and MOOCs
 
 *   [Low-Resource Eclipse Attacks on Ethereum’s Peer-to-Peer Network](https://www.cs.bu.edu/\~goldbe/projects/eclipseEth.pdf)
 
-## [39. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [38. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Tools / Presentations
 
 *   [gitpitch (⭐5.5k)](https://github.com/gitpitch/gitpitch/) - Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
-## [40. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [39. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Visual Programming Languages
 
@@ -540,13 +534,13 @@ RewriteRule ^robots.txt - [L]
 
 *   [Linear Interpolation](https://mattdesl.svbtle.com/linear-interpolation) - Introduction to linear interpolation (also known as mix/lerp).
 
-## [41. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [40. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Articles about Data
 
 *   [Creating a Default Record When a belongsTo Request Errors](https://shipshape.io/blog/ember-data-belongs-to-find-or-create/)
 
-## [42. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [41. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Non-deterministic, logic programming
 
@@ -561,7 +555,7 @@ RewriteRule ^robots.txt - [L]
 
 *   [clavier (⭐17)](https://github.com/mmontone/clavier) - General purpose validation library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
-## [43. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [42. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Tutorials
 
@@ -572,7 +566,7 @@ RewriteRule ^robots.txt - [L]
 
 *   [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/)
 
-## [44. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [43. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Europe / Ukraine 🇺🇦
 
@@ -632,31 +626,31 @@ Topics: Maps, Algorithms\
 Topics: HTML, CSS, JavaScript, WebGL\
 <https://twitter.com/akella>
 
-## [45. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
+## [44. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
 
 ### Boxes
 
 *   [Cloudsmith](https://cloudsmith.io) - A fully managed package management SaaS with support for Vagrant repositories (and many others).
 
-## [46. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [45. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Regular Expression
 
 *   [CTRE (⭐3.1k)](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher. \[MIT]
 
-## [47. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [46. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Ruby / Scala
 
 *   [Grape (⭐9.8k)](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs
 
-## [48. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [47. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
 *   [next-mdx-blog (⭐71)](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
 
-## [49. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [48. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CLI
 
@@ -670,19 +664,19 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 *   [RazorLight (⭐1.5k)](https://github.com/toddams/RazorLight) - Open source template engine based on Microsoft's Razor parsing engine supporting .NET Standard 2.0
 
-## [50. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [49. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Misc
 
 *   [ruia (⭐1.6k)](https://github.com/howie6879/ruia) - An async web scraping micro-framework based on asyncio.
 
-## [51. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [50. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Related projects
 
 *   [Mutton (⭐16)](https://github.com/hmngwy/mutton) - A Python shim library for better AWS Lambda handlers.
 
-## [52. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [51. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Articles
 
@@ -698,7 +692,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 *   [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
 *   [Sider](https://sider.review/) Automated code review service for GitHub.
 
-## [53. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [52. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
@@ -713,7 +707,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 *   [Realizing the Potential of the Internet of Things](https://www.tiaonline.org/wp-content/uploads/2018/05/Realizing_the_Potential_of_the_Internet_of_Things_-_Recommendations_to_Policymakers.pdf) - A white paper from the Telecommunications Industry Association (TIA) written in the form of a set of recommendations to policy maker on leveraging and realizing the potential of the Internet of Things market.
 
-## [54. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [53. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Media
 
@@ -723,19 +717,19 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 *   [Sharpnado.Presentation.Forms ★28 (⭐598)](https://github.com/roubachof/Sharpnado.Presentation.Forms) - HorizontalListView, TaskViewLoader, and Paginator.
 
-## [55. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [54. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Security
 
 *   [Symfony Security Monitoring](https://security.symfony.com/) - A web tool to check your Composer dependencies for security advisories, previously known as "SensioLabs Security Check".
 
-## [56. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [55. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Dmitriy Shekhovtsov](https://twitter.com/valorkin)
 
-## [57. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [56. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Standalone / Hash functions
 
@@ -745,39 +739,39 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 *   [securitybuilder (⭐44)](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA/JSSE objects.
 
-## [58. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [57. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Troubleshooting and queries / Technical Blogs
 
 *   [The Wizard News](https://thewizardnews.com/) - The Wizard News is a central location for blogs, video, and podcasts created by Brian Kwong – aka Salesforce Wizard.
 
-## [59. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [58. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / S3
 
 *   [spring-projects/aws-maven :fire::fire: (⭐215)](https://github.com/spring-projects/aws-maven) -  Maven Wagon for S3.
 
-## [60. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [59. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐557)](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
+*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐561)](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
 
 ### Software / Pastebins
 
-*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐170)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python/deb`
+*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐171)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python/deb`
 
 ### Software / Video Surveillance
 
-*   [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. ([Source Code (⭐4.6k)](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP/deb`
+*   [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. ([Source Code (⭐4.7k)](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP/deb`
 
-## [61. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [60. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Application Hosting / Third-party Service Integration
 
 *   [RunCloud](https://runcloud.io/)
 
-## [62. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [61. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Patterns
 
@@ -814,11 +808,11 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 *   [OnboardKit (⭐508)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
 
-## [63. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [62. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Assets
 
-*   [Sprockets (⭐912)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
+*   [Sprockets (⭐922)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
 
 ### Code Analysis and Metrics
 
@@ -826,7 +820,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Dashboards
 
-*   [Blazer (⭐3.7k)](https://github.com/ankane/blazer) - Simple data viewer using only SQL. Output to table, chart, and maps.
+*   [Blazer (⭐3.8k)](https://github.com/ankane/blazer) - Simple data viewer using only SQL. Output to table, chart, and maps.
 
 ### Email
 
@@ -842,8 +836,8 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Measurements
 
-*   [Measured (⭐281)](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
-*   [Ruby Units (⭐513)](https://github.com/olbrich/ruby-units) - Provides classes and methods to perform unit math and conversions.
+*   [Measured (⭐284)](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
+*   [Ruby Units (⭐511)](https://github.com/olbrich/ruby-units) - Provides classes and methods to perform unit math and conversions.
 
 ### Music and Sound
 
@@ -853,7 +847,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 *   [MongoModel (⭐39)](https://github.com/spohlenz/mongomodel) - Ruby ODM for interfacing with MongoDB databases.
 
-## [64. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [63. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 
@@ -885,7 +879,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 *   [VR Mental Health Startup: Idea To Reality - AnxietyTech 2018](https://www.youtube.com/watch?v=6fmT_MBcoTY) - By Jonathan Sockell.
 *   [Why We Need Innovation In Mental Health Tech - AnxietyTech 2018](https://www.youtube.com/watch?v=whYGza42F5U) - By Solome Tibebu.
 
-## [65. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [64. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Game Boy Color / Opcodes
 
@@ -896,13 +890,13 @@ Topics: HTML, CSS, JavaScript, WebGL\
 *   [Dan Docs](https://shonumi.github.io/dandocs.html) - Obscure Game Boy hardware documentation.
 *   [DMG-07 Technical Documentation](https://raw.githubusercontent.com/shonumi/gbe-plus/master/src/docs/technical/DMG_07.txt)
 
-## [66. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [65. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Books
 
 *   [Learning Continuous Integraion with TeamCity](https://www.packtpub.com/web-development/learning-continuous-integration-teamcity-raw) - Master the principles and practices behind Continuous Integration by setting it up for different technology stacks using TeamCity
 
-## [67. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [66. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Self-hosted VPNs
 
@@ -1046,19 +1040,19 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 *   [TechWorm](https://www.techworm.net) Techworm is a Tech, Cyber-security news platform.
 
-## [68. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [67. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Miscellaneous
 
 *   [Lorem Ipsum (⭐43)](https://github.com/raarellano/alfred-lorem-ipsum-workflow) - Generate lorem ipsum(...) text from Alfred.
 
-## [69. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [68. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Bytecode Manipulation
 
 *   [Mixin (⭐1.3k)](https://github.com/SpongePowered/Mixin) - Manipulate bytecode at runtime using real Java code.
 
-## [70. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [69. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
@@ -1066,14 +1060,14 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Contents / Server
 
-*   [Greenplum Database (⭐5.8k)](https://github.com/greenplum-db/gpdb) - Open source fork of PostgreSQL for large data volumes.
+*   [Greenplum Database (⭐6.1k)](https://github.com/greenplum-db/gpdb) - Open source fork of PostgreSQL for large data volumes.
 
 ### Contents / Utilities
 
-*   [pgbadger (⭐3k)](https://github.com/darold/pgbadger) - Fast PostgreSQL Log Analyzer.
-*   [sqlcheck (⭐2.3k)](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns. Such anti-patterns often slow down queries. Addressing them will, therefore, help accelerate queries.
+*   [pgbadger (⭐3.3k)](https://github.com/darold/pgbadger) - Fast PostgreSQL Log Analyzer.
+*   [sqlcheck (⭐2.4k)](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns. Such anti-patterns often slow down queries. Addressing them will, therefore, help accelerate queries.
 
-## [71. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [70. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### XSS - Cross-Site Scripting
 
@@ -1128,7 +1122,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 *   [nano (⭐414)](https://github.com/s0md3v/nano) - Family of code golfed PHP shells by [@s0md3v](https://github.com/s0md3v).
 
-## [72. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [71. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Scripting Tools
 
@@ -1136,7 +1130,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 *   [GradleMavenPush (⭐21)](https://github.com/Vorlonsoft/GradleMavenPush) - Gradle script plugin to upload Gradle Artifacts to Maven repositories
 *   [sshoogr (⭐350)](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
 
-## [73. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [72. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tutorial
 

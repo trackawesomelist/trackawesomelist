@@ -40,13 +40,7 @@
 
 *   [pyAgrum](https://agrum.gitlab.io/) - A GRaphical Universal Modeler.
 
-## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
-
-### Functional Programming / Runner
-
-*   [sweet-monads (⭐294)](https://github.com/JSMonk/sweet-monads) - A utility library containing popular monads and lazy iterators.
-
-## [6. Ai Collection](/content/ai-collection/ai-collection/README.md)
+## [5. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
 ### Chat Bot
 
@@ -129,13 +123,13 @@
 
 
 
-## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Generative AI history, maps, and definitions
 
 *   [The Building Blocks of Generative AI | by Jonathan Shriftman | Medium](https://shriftman.medium.com/the-building-blocks-of-generative-ai-a75350466a2f)
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Quickfix / Diagnostics
 
@@ -149,11 +143,17 @@
 
 *   [yorickpeterse/nvim-window (⭐58)](https://github.com/yorickpeterse/nvim-window) - Easily jump between Neovim windows.
 
-## [9. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [8. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Integrations
 
 *   [Revert](https://revert.dev) - Open-source unified API to build B2B product integrations. [![Revert](https://img.shields.io/github/stars/revertinc/revert?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/revertinc/revert)
+
+## [9. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+
+### Libraries / Algebraic Data Types
+
+*   [sweet-monads (⭐294)](https://github.com/JSMonk/sweet-monads) - A collection of popular monads (such as `Either` and `Maybe`) and the lazy iterator.
 
 ## [10. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
@@ -209,7 +209,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Simplified Flight Simulation library (⭐121)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x, 4.x).
+*   [Simplified Flight Simulation library (⭐132)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x, 4.x).
 
 ## [13. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

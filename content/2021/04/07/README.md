@@ -115,7 +115,7 @@
 
 ### Plugins
 
-*   🎨🧩 [CSS Variables (⭐191)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables.
+*   🎨🧩 [CSS Variables (⭐197)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables.
 
 ### Learning
 

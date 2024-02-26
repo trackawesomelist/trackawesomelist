@@ -16,7 +16,7 @@
 
 ### Auditing / Logging
 
-*   🍰 [AuditStash plugin (⭐73)](https://github.com/lorenzo/audit-stash) - Flexible and rock solid audit log tracking.
+*   🍰 [AuditStash plugin (⭐74)](https://github.com/lorenzo/audit-stash) - Flexible and rock solid audit log tracking.
 
 ### Debugging
 
@@ -60,7 +60,7 @@
 ### Applications
 
 *   [chat (⭐6)](https://github.com/synrc/chat) - A tiny text chat sample based on N2O.
-*   [exchat (⭐255)](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
+*   [exchat (⭐256)](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
 
 ### CSV
 
@@ -81,7 +81,7 @@
 
 ### Validations
 
-*   [form (⭐40)](https://github.com/synrc/form) - Document forms and validation library.
+*   [form (⭐39)](https://github.com/synrc/form) - Document forms and validation library.
 
 ## [7. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 

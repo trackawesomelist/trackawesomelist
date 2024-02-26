@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 25, 2022
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [mcfly (⭐6.3k)](https://github.com/cantino/mcfly) - Replaces your default ctrl-r shell history search with an intelligent search engine that takes into account your working directory and the context of recently executed commands. McFly's suggestions are prioritized in real time with a small neural network.
+*   [mcfly (⭐6.4k)](https://github.com/cantino/mcfly) - Replaces your default ctrl-r shell history search with an intelligent search engine that takes into account your working directory and the context of recently executed commands. McFly's suggestions are prioritized in real time with a small neural network.
 
 ## [3. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Starters & Themes
 
-*   🚀 [AstroWind (⭐1.8k)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
+*   🚀 [AstroWind (⭐2k)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
 
 ## [5. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -51,22 +51,7 @@
 
 *   [CalcuPi](https://dvjn.github.io/CalcuPi) - A beautiful Monte Carlo simulation for approximating the value of pi.
 
-## [7. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Misc
-
-*   [Mobile Developer's Guide to the Galaxy](https://leanpub.com/mobiledevelopersguide/read) (HTML)
-
-### Programming
-
-*   [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (PDF)
-*   [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (HTML)
-
-### Software Architecture
-
-*   [A Primer on Design Patterns](https://leanpub.com/aprimerondesignpatterns/read) - Rahul Batra (HTML)
-
-## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Bundling
 
@@ -76,7 +61,7 @@
 
 *   [vite-plugin-browserslist-useragent (⭐13)](https://github.com/kingyue737/vite-plugin-browserslist-useragent) - Compile browserslist query to a RegExp to test browser useragent.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 

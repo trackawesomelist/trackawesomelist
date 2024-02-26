@@ -31,7 +31,7 @@
 
 ### Table of Contents / Data Structure and Storage
 
-*   [JSON Machine (⭐971)](https://github.com/halaxa/json-machine) - Provides iteration over huge JSONs using simple `foreach`
+*   [JSON Machine (⭐977)](https://github.com/halaxa/json-machine) - Provides iteration over huge JSONs using simple `foreach`
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -446,7 +446,7 @@
 
 ### Form Components / Image Editing
 
-*   [react-easy-crop (⭐51)](https://github.com/ricardo-ch/react-easy-crop) - Component to crop/rotate images/videos with easy interactions. Touch friendly.
+*   [react-easy-crop (⭐52)](https://github.com/ricardo-ch/react-easy-crop) - Component to crop/rotate images/videos with easy interactions. Touch friendly.
 
 ### Form Components / Miscellaneous
 
@@ -645,24 +645,24 @@ Topics: React, Forms, CSS Grid\
 ### Code Formatting
 
 *   [RuboCop (⭐12k)](https://github.com/rubocop-hq/rubocop) - A static code analyzer, based on the community Ruby style guide.
-    *   [Rubocop Rails (⭐751)](https://github.com/rubocop-hq/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
-    *   [Rubocop Rspec (⭐772)](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files
-    *   [Rubocop Performance (⭐602)](https://github.com/rubocop-hq/rubocop-performance) - A RuboCop extension focused on code performance checks.
+    *   [Rubocop Rails (⭐762)](https://github.com/rubocop-hq/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
+    *   [Rubocop Rspec (⭐774)](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files
+    *   [Rubocop Performance (⭐614)](https://github.com/rubocop-hq/rubocop-performance) - A RuboCop extension focused on code performance checks.
 
 ### Core Extensions
 
 *   Attributes
     *   [ActiveAttr (⭐1.2k)](https://github.com/cgriego/active_attr) - What ActiveModel left out.
     *   [Virtus (⭐3.8k)](https://github.com/solnic/virtus) - Attributes on Steroids for Plain Old Ruby Objects.
-    *   [AttrExtras (⭐555)](https://github.com/barsoom/attr_extras) - Takes some boilerplate out of Ruby with methods like attr\_initialize.
+    *   [AttrExtras (⭐556)](https://github.com/barsoom/attr_extras) - Takes some boilerplate out of Ruby with methods like attr\_initialize.
 
 ### Date and Time Processing
 
-*   [working\_hours (⭐527)](https://github.com/intrepidd/working_hours) - A modern ruby gem allowing to do time calculation with working hours.
+*   [working\_hours (⭐531)](https://github.com/intrepidd/working_hours) - A modern ruby gem allowing to do time calculation with working hours.
 
 ### Form Builder
 
-*   [Rapidfire (⭐312)](https://github.com/code-mancers/rapidfire) - Making dynamic surveys should be easy!
+*   [Rapidfire (⭐313)](https://github.com/code-mancers/rapidfire) - Making dynamic surveys should be easy!
 
 ### Scientific
 
@@ -804,17 +804,17 @@ Topics: React, Forms, CSS Grid\
 ### Libraries / Encoding
 
 *   BSON
-    *   [mongodb/bson-rust (⭐369)](https://github.com/mongodb/bson-rust) — Encoding and decoding support for BSON in Rust
+    *   [mongodb/bson-rust (⭐371)](https://github.com/mongodb/bson-rust) — Encoding and decoding support for BSON
 
 ### Libraries / Image processing
 
-*   [abonander/img\_hash (⭐286)](https://github.com/abonander/img_hash) — Perceptual image hashing and comparison for equality and similarity.
+*   [abonander/img\_hash (⭐287)](https://github.com/abonander/img_hash) — Perceptual image hashing and comparison for equality and similarity.
 
 ### Libraries / Platform specific
 
 *   Unix-like
-    *   [nix-rust/nix (⭐2.4k)](https://github.com/nix-rust/nix) — Unix-like API bindings [![Cirrus Build Status](https://api.cirrus-ci.com/github/nix-rust/nix.svg)](https://cirrus-ci.com/github/nix-rust/nix)
-    *   [rustix (⭐1.2k)](https://github.com/bytecodealliance/rustix) — Safe Rust bindings to POSIX/Unix/Linux/Winsock2 syscalls [![Actions Status](https://github.com/bytecodealliance/rustix/workflows/CI/badge.svg)](https://github.com/bytecodealliance/rustix/actions?query=workflow%3ACI)
+    *   [nix-rust/nix (⭐2.5k)](https://github.com/nix-rust/nix) — Unix-like API bindings [![Cirrus Build Status](https://api.cirrus-ci.com/github/nix-rust/nix.svg)](https://cirrus-ci.com/github/nix-rust/nix)
+    *   [rustix (⭐1.3k)](https://github.com/bytecodealliance/rustix) — Safe bindings to POSIX/Unix/Linux/Winsock2 syscalls [![Actions Status](https://github.com/bytecodealliance/rustix/workflows/CI/badge.svg)](https://github.com/bytecodealliance/rustix/actions?query=workflow%3ACI)
     *   [zargony/fuse-rs (⭐1k)](https://github.com/zargony/fuse-rs) — [FUSE (⭐4.9k)](https://github.com/libfuse/libfuse) bindings
 
 ## [44. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)

@@ -131,7 +131,7 @@
 ### Tools / Community providers
 
 *   [terraformsh (⭐61)](https://github.com/pwillis-els/terraformsh) - A wrapper in Bash for easier CLI UX and DRY hierarchical configs
-*   [tftarget (⭐186)](https://github.com/future-architect/tftarget) - CLI Tool to do `terraform xxx -target={...}` interactively.
+*   [tftarget (⭐189)](https://github.com/future-architect/tftarget) - CLI Tool to do `terraform xxx -target={...}` interactively.
 
 ## [15. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -153,8 +153,7 @@
 
 ### Resources / Blog posts
 
-*   [Replacing Pandas with Polars. A Practical Guide](https://www.confessionsofadataguy.com/replacing-pandas-with-polars-a-practical-guide) - A blog post comparing some common functions between Pandas and Polars by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐3)](https://github.com/danielbeach/PandasVsPolars).
-*   [Dataframe Showdown – Polars vs Spark vs Pandas vs DataFusion. Guess who wins? ](https://www.confessionsofadataguy.com/dataframe-showdown-polars-vs-spark-vs-pandas-vs-datafusion-guess-who-wins/) - A short article that presents a performance test between Polars, Pandas, Datafusion and Spark on a csv dataset by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐6)](https://github.com/danielbeach/DataFrameShowDown).
+*   [Replacing Pandas with Polars. A Practical Guide](https://www.confessionsofadataguy.com/replacing-pandas-with-polars-a-practical-guide) - A blog post comparing some common functions between Pandas and Polars by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐4)](https://github.com/danielbeach/PandasVsPolars).
 
 ## [18. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -174,15 +173,15 @@
 
 ### Software / Communication - Email - Mail Transfer Agents
 
-*   [Stalwart SMTP](https://stalw.art/smtp) - Modern SMTP server designed with a focus on security, speed, and extensive configurability. ([Source Code (⭐418)](https://github.com/stalwartlabs/smtp-server)) `AGPL-3.0` `Rust`
+*   [Stalwart SMTP](https://stalw.art/smtp) - Modern SMTP server designed with a focus on security, speed, and extensive configurability. ([Source Code (⭐423)](https://github.com/stalwartlabs/smtp-server)) `AGPL-3.0` `Rust`
 
 ### Software / Database Management
 
-*   [Mathesar](https://mathesar.org/) - An intuitive UI for managing data collaboratively, for users of all technical skill levels. Built on Postgres – connect an existing DB or set up a new one. ([Demo](https://demo.mathesar.org/), [Source Code (⭐2k)](https://github.com/centerofci/mathesar)) `GPL-3.0` `Docker/Python`
+*   [Mathesar](https://mathesar.org/) - An intuitive UI for managing data collaboratively, for users of all technical skill levels. Built on Postgres – connect an existing DB or set up a new one. ([Demo](https://demo.mathesar.org/), [Source Code (⭐2.1k)](https://github.com/centerofci/mathesar)) `GPL-3.0` `Docker/Python`
 
 ### Software / Manufacturing
 
-*   [VanDAM (⭐389)](https://github.com/Floppy/van_dam) - Digital asset manager for 3d print files; STL, OBJ, 3MF and more. `MIT` `Docker`
+*   [VanDAM (⭐409)](https://github.com/Floppy/van_dam) - Digital asset manager for 3d print files; STL, OBJ, 3MF and more. `MIT` `Docker`
 
 ### Software / Self-hosting Solutions
 
@@ -198,11 +197,11 @@
 
 ### Software / Identity Management - LDAP
 
-*   [389 Directory Server](https://www.port389.org/) - Enterprise-class Open Source LDAP server for Linux. ([Source Code (⭐175)](https://github.com/389ds/389-ds-base)) `GPL-3.0` `C`
-*   [Apache Directory Server](https://directory.apache.org/apacheds/) - Extensible and embeddable directory server, certified LDAPv3 compatible, with Kerberos 5 and Change Password Protocol support, triggers, stored procedures, queues and views. ([Source Code (⭐132)](https://github.com/apache/directory-server)) `Apache-2.0` `Java`
+*   [389 Directory Server](https://www.port389.org/) - Enterprise-class Open Source LDAP server for Linux. ([Source Code (⭐177)](https://github.com/389ds/389-ds-base)) `GPL-3.0` `C`
+*   [Apache Directory Server](https://directory.apache.org/apacheds/) - Extensible and embeddable directory server, certified LDAPv3 compatible, with Kerberos 5 and Change Password Protocol support, triggers, stored procedures, queues and views. ([Source Code (⭐133)](https://github.com/apache/directory-server)) `Apache-2.0` `Java`
 *   [FreeIPA](https://www.freeipa.org/) - Integrated security information management solution combining Linux (Fedora), 389 Directory Server, Kerberos, NTP, DNS, and Dogtag Certificate System (web interface and command-line administration tools). ([Source Code](https://pagure.io/freeipa)) `GPL-3.0` `Python/C/JavaScript`
 *   [FreeRADIUS](https://freeradius.org/) - Multi-protocol policy server (radiusd) that implements RADIUS, DHCP, BFD, and ARP and associated client/PAM library/Apache module. ([Source Code (⭐2k)](https://github.com/FreeRADIUS/freeradius-server)) `GPL-2.0` `C`
-*   [lldap (⭐3.2k)](https://github.com/nitnelave/lldap) - Light (simplified) LDAP implementation with a simple, intuitive web interface and GraphQL support. `GPL-3.0` `Rust`
+*   [lldap (⭐3.3k)](https://github.com/nitnelave/lldap) - Light (simplified) LDAP implementation with a simple, intuitive web interface and GraphQL support. `GPL-3.0` `Rust`
 *   [OpenLDAP](https://www.openldap.org/) - Open-source implementation of the Lightweight Directory Access Protocol (server, libraries and clients). ([Source Code](https://git.openldap.org/openldap/openldap)) `OLDAP-2.8` `C`
 
 ## [22. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
@@ -210,12 +209,12 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [haiku (⭐1)](https://github.com/alesr/oh-my-zsh-haiku-plugin) - Prints a haiku promoting work-life balance and stress management once every 24 hours when the terminal is open.
-*   [ranger (⭐4)](https://github.com/rc2dev/ranger-zshz) - Integrates [zsh-z (⭐1.8k)](https://github.com/agkozak/zsh-z) into [ranger (⭐14k)](https://github.com/ranger/ranger).
+*   [ranger (⭐4)](https://github.com/rc2dev/ranger-zshz) - Integrates [zsh-z (⭐1.8k)](https://github.com/agkozak/zsh-z) into [ranger (⭐15k)](https://github.com/ranger/ranger).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [cheeky (⭐0)](https://github.com/kampanosg/zsh-cheeky-prompt) - Includes chicken emoji, decorators for current directory, `git` information and current GCP cluster and project.
-*   [croque (⭐5)](https://github.com/Ryooooooga/croque) - Powerline-inspired theme with decorators for OS, user\@host, `git` information, `git` username, current directory and exit status of last command.
+*   [croque (⭐6)](https://github.com/Ryooooooga/croque) - Powerline-inspired theme with decorators for OS, user\@host, `git` information, `git` username, current directory and exit status of last command.
 *   [ittecture (⭐0)](https://github.com/ittecture/ittecture-omz-theme) - Includes decorators for current directory and `git` information.
 *   [mantis (⭐0)](https://github.com/dann254/mantis-zsh-theme) - Minimal theme with `git` status and information decorators.
 
@@ -249,14 +248,13 @@
 *   [Mail7.io](https://www.mail7.io/) — Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API.
 *   [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
 *   [SendGrid](https://sendgrid.com/) — 100 emails/day and 2,000 contacts free
-*   [Sendinblue](https://www.sendinblue.com/) — 9,000 emails/month, 300 emails/day free
-*   [Sendpulse](https://sendpulse.com) — 500 subscribers/month, 12,000 emails/month free
+*   [Sendpulse](https://sendpulse.com) — 500 subscribers/month, 15,000 emails/month free
 
 ## [25. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Serverless Frameworks
 
-*   [Zappa (⭐2.5k)](https://github.com/zappa/Zappa) - A tool for deploying WSGI applications on AWS Lambda and API Gateway.
+*   [Zappa (⭐3k)](https://github.com/zappa/Zappa) - A tool for deploying WSGI applications on AWS Lambda and API Gateway.
 
 ## [26. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
@@ -288,7 +286,7 @@
 
 ### Commonsense / Intuitive Physics
 
-*   [Intuitive Physics Reading List (⭐8)](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List) - ***GitHub***. A reading list on intuitive physics, maintained actively by Shiqian Li.
+*   [Intuitive Physics Reading List (⭐9)](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List) - ***GitHub***. A reading list on intuitive physics, maintained actively by Shiqian Li.
 
 ## [30. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
@@ -310,10 +308,10 @@
 
 ### Documentation
 
-*   [doxygen (⭐5.2k)](https://github.com/doxygen/doxygen) :zap: - The de facto standard tool for generating documentation from annotated C++ sources. \[GPL2] [website](https://www.doxygen.org)
+*   [doxygen (⭐5.3k)](https://github.com/doxygen/doxygen) :zap: - The de facto standard tool for generating documentation from annotated C++ sources. \[GPL2] [website](https://www.doxygen.org)
 *   [doxyrest (⭐303)](https://github.com/vovkos/doxyrest) - A compiler from Doxygen XML to reStructuredText for Sphinx. \[MIT]
-*   [hdoc (⭐273)](https://github.com/hdoc/hdoc) - The modern documentation tool for C++. \[AGPL/Proprietary] [website](https://hdoc.io)
-*   [Natural Docs (⭐184)](https://github.com/NaturalDocs/NaturalDocs) - Natural Docs is an open source documentation generator for multiple programming languages. \[AGPL/Proprietary] [website](https://www.naturaldocs.org)
+*   [hdoc (⭐276)](https://github.com/hdoc/hdoc) - The modern documentation tool for C++. \[AGPL/Proprietary] [website](https://hdoc.io)
+*   [Natural Docs (⭐185)](https://github.com/NaturalDocs/NaturalDocs) - Natural Docs is an open source documentation generator for multiple programming languages. \[AGPL/Proprietary] [website](https://www.naturaldocs.org)
 *   [Sphinx (⭐5.9k)](https://github.com/sphinx-doc/sphinx) - Sphinx makes it easy to create intelligent and beautiful documentation. \[BSD-2-Clause] [website](https://www.sphinx-doc.org)
 
 ### Websites
@@ -326,12 +324,12 @@
 
 ### Applications / Blockchain
 
-*   [madara (⭐428)](https://github.com/keep-starknet-strange/madara) - Kaioshin is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate and written in Rust 🦀. [![GitHub Workflow Status](https://github.com/keep-starknet-strange/madara/actions/workflows/test.yml/badge.svg)](https://github.com/keep-starknet-strange/madara/actions/workflows/test.yml)
+*   [madara (⭐448)](https://github.com/keep-starknet-strange/madara) - Kaioshin is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate. [![GitHub Workflow Status](https://github.com/keep-starknet-strange/madara/actions/workflows/test.yml/badge.svg)](https://github.com/keep-starknet-strange/madara/actions/workflows/test.yml)
 
 ### Applications / System tools
 
-*   [nushell/nushell (⭐28k)](https://github.com/nushell/nushell) - A new type of shell
-*   [supercilex/fuc (⭐284)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
+*   [nushell/nushell (⭐29k)](https://github.com/nushell/nushell) - A new type of shell
+*   [supercilex/fuc (⭐289)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
 
 ### Development tools / Profiling
 
@@ -339,7 +337,7 @@
 
 ### Libraries / Video
 
-*   [ffmpeg-sidecar (⭐135)](https://github.com/nathanbabcock/ffmpeg-sidecar) — Wrap a standalone FFmpeg binary in an intuitive Iterator interface. [![Build Status](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml/badge.svg)](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml)
+*   [ffmpeg-sidecar (⭐141)](https://github.com/nathanbabcock/ffmpeg-sidecar) — Wrap a standalone FFmpeg binary in an intuitive Iterator interface. [![Build Status](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml/badge.svg)](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml)
 
 ## [34. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 

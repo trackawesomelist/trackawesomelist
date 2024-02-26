@@ -23,7 +23,7 @@
 
 ### Entertainment
 
-*   [Podcasts (⭐520)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
+*   [Podcasts (⭐528)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 
 ## [4. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

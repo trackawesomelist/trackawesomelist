@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 11, 2017
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,32 +12,26 @@
 
 *   [Ten Simple Rules by PLoS One](http://collections.plos.org/ten-simple-rules): Series of quick "Ten Simple Rules" articles for research scientists to manage challenges in their careers. Number of articles are life-science specific, but rest the of articles are general enough for any researcher.
 
-## [2. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### Implementations
-
-*   [Pyjion (⭐1.6k)](https://github.com/Microsoft/Pyjion) - A JIT for Python based upon CoreCLR.
-
-## [3. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [2. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Samples
 
 *   [tinyrenderers (⭐452)](https://github.com/chaoticbob/tinyrenderers) - Single header implemenations of Vulkan and D3D12 renderers.
 
-## [4. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Articles & Blogs
 
 *   [Gwern](http://www.gwern.net/) - Esoteric blog which includes blinded self-experiments & Quantified Self analyses amongst other topics.
 
-## [5. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Math / Other
 
 *   [Math for Motion](https://soulwire.co.uk/math-for-motion/) - Visualization of different motion equations.
 *   [Matrix Multiplication](http://matrixmultiplication.xyz) - Matrix multiplication visualized.
 
-## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / C companies
 

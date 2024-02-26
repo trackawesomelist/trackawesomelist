@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 18, 2023
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -38,27 +38,21 @@
 
 ### Plugins for Minecraft
 
-*   [FreedomChat (⭐185)](https://github.com/e-im/FreedomChat) - A great alternative to No-Chat-Reports, since it does not break any chat plugin by design.
+*   [FreedomChat (⭐193)](https://github.com/e-im/FreedomChat) - A great alternative to No-Chat-Reports, since it does not break any chat plugin by design.
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Productivity
 
-*   [LLDAP (⭐3.2k)](https://github.com/lldap/lldap) - Simplified LDAP interface for authentication.
+*   [LLDAP (⭐3.3k)](https://github.com/lldap/lldap) - Simplified LDAP interface for authentication.
 
-## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
-
-### Command-Line Tools / Discovery
-
-*   [nix-output-monitor](https://git.maralorn.de/nix-output-monitor/) - A tool to produce useful graphs and statistics when building derivations.
-
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Games
 
-*   [Romm (⭐845)](https://github.com/zurdi15/romm) `⚠` - RomM (Rom Manager) is a web based retro roms manager integrated with IGDB. `GPL-3.0` `Docker`
+*   [Romm (⭐900)](https://github.com/zurdi15/romm) `⚠` - RomM (Rom Manager) is a web based retro roms manager integrated with IGDB. `GPL-3.0` `Docker`
 
-## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -67,10 +61,10 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [astral (skippyr) (⭐0)](https://github.com/skippyr/astral) - Dual line theme with decorators for user\@hostname, current directory, python virtual environment and `git` information.
-*   [astral (xwmx) (⭐14)](https://github.com/xwmx/astral) - Theme for dark backgrounds with zen mode. Works well with the zsh-users [zsh-syntax-highlighting (⭐18k)](https://github.com/zsh-users/zsh-syntax-highlighting) plugin. Includes decorators for execution time of last command, when it was run, its exit status, machine name, current path, `ssh` status, and `git` status.
-*   [brisa (⭐2)](https://github.com/ambrisolla/oh-my-zsh-brisa-theme) - Multiline theme based on [fino-time (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/fino-time.zsh-theme). Includes decorations for username, host, current directory, and `git` status.
+*   [astral (xwmx) (⭐14)](https://github.com/xwmx/astral) - Theme for dark backgrounds with zen mode. Works well with the zsh-users [zsh-syntax-highlighting (⭐19k)](https://github.com/zsh-users/zsh-syntax-highlighting) plugin. Includes decorators for execution time of last command, when it was run, its exit status, machine name, current path, `ssh` status, and `git` status.
+*   [brisa (⭐2)](https://github.com/ambrisolla/oh-my-zsh-brisa-theme) - Multiline theme based on [fino-time (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/fino-time.zsh-theme). Includes decorations for username, host, current directory, and `git` status.
 
-## [10. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [9. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 

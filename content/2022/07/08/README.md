@@ -28,7 +28,7 @@
 
 ### Tools - Editors & IDEs & Explorers / React
 
-*   [Escape GraphMan (⭐234)](https://github.com/Escape-Technologies/graphman) - Generate a complete Postman collection from a GraphQL endpoint.
+*   [Escape GraphMan (⭐235)](https://github.com/Escape-Technologies/graphman) - Generate a complete Postman collection from a GraphQL endpoint.
 
 ## [3. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fuzzy-wd (⭐1)](https://github.com/spodin/zsh-fuzzy-wd) - Adds fuzzy search for directories warped with the [WD (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/wd) plugin.
+*   [fuzzy-wd (⭐1)](https://github.com/spodin/zsh-fuzzy-wd) - Adds fuzzy search for directories warped with the [WD (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/wd) plugin.
 
 ## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

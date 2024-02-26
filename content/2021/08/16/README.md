@@ -10,7 +10,7 @@
 
 ### Gaming
 
-*   [Godot (⭐5.3k)](https://github.com/godotengine/awesome-godot#readme) - Game engine.
+*   [Godot (⭐5.4k)](https://github.com/godotengine/awesome-godot#readme) - Game engine.
 
 ## [2. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
@@ -63,11 +63,11 @@
 
 ### Applications / Blockchain
 
-*   [interBTC (⭐235)](https://github.com/interlay/interbtc) — Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.
+*   [interBTC (⭐236)](https://github.com/interlay/interbtc) — Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.
 
 ### Libraries / Game development
 
-*   [Awesome Quads (⭐155)](https://github.com/ozkriff/awesome-quads) — A curated list of links to miniquad/macroquad-related code & resources
+*   [Awesome Quads (⭐156)](https://github.com/ozkriff/awesome-quads) — A curated list of links to miniquad/macroquad-related code & resources
 
 ## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

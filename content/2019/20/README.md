@@ -581,7 +581,7 @@ Free
 
 ### Reflection
 
-*   [visit\_struct (⭐466)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[Boost]
+*   [visit\_struct (⭐467)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[Boost]
 
 ### Miscellaneous
 
@@ -653,22 +653,22 @@ Free
 
 *   [.NET (⭐18k)](https://github.com/quozd/awesome-dotnet#readme)
     *   [Core (⭐19k)](https://github.com/thangchung/awesome-dotnet-core#readme)
-    *   [Roslyn (⭐613)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
+    *   [Roslyn (⭐626)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
 
 ### Development Environment
 
-*   [GitHub (⭐816)](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
+*   [GitHub (⭐825)](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
     *   [Browser Extensions (⭐2.8k)](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
-    *   [Cheat Sheet (⭐44k)](https://github.com/tiimgreen/github-cheat-sheet#readme)
-    *   [Pinned Gists (⭐1.7k)](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
+    *   [Cheat Sheet (⭐45k)](https://github.com/tiimgreen/github-cheat-sheet#readme)
+    *   [Pinned Gists (⭐1.8k)](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
 
 ### Media
 
-*   [Icons (⭐662)](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
+*   [Icons (⭐678)](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
 
 ### Learn
 
-*   [Roadmaps (⭐4.2k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
+*   [Roadmaps (⭐4.4k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 
 ---
 

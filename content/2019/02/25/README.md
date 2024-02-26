@@ -45,7 +45,7 @@
 
 ### Configuration
 
-*   [Sail (⭐507)](https://github.com/vinistock/sail) - A lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app.
+*   [Sail (⭐506)](https://github.com/vinistock/sail) - A lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app.
 
 ### Documentation
 
@@ -65,11 +65,11 @@
 
 ### Networking
 
-*   [Dnsruby (⭐193)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
+*   [Dnsruby (⭐195)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
 
 ### PDF
 
-*   [InvoicePrinter (⭐863)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
+*   [InvoicePrinter (⭐866)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
 
 ### Queues and Messaging
 

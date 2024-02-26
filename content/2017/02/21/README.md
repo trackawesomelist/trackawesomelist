@@ -26,21 +26,16 @@
 
 ### Command-line tools
 
-*   [jid (⭐6.4k)](https://github.com/simeji/jid) - Incremental Digger. Drill down JSON interactively by using filtering queries like jq.
+*   [jid (⭐6.7k)](https://github.com/simeji/jid) - Incremental Digger. Drill down JSON interactively by using filtering queries like jq.
 
 ### Databases
 
-*   [JSONlite (⭐835)](https://github.com/nodesocket/jsonlite) - A simple, self-contained, serverless, zero-configuration, json document store. (Bash)
-
-### Format Extensions
-
-*   [NDJSON](http://ndjson.org/) (Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
-*   [survey.js](http://surveyjs.org/) - JSON based survey library.
+*   [JSONlite (⭐843)](https://github.com/nodesocket/jsonlite) - A simple, self-contained, serverless, zero-configuration, json document store. (Bash)
 
 ### Libraries
 
-*   [aeson-qq (⭐76)](https://github.com/sol/aeson-qq) - JSON quasiquoter for Haskell.
-*   [json2react (⭐166)](https://github.com/txgruppi/json2react) - Use JSON to create React Stateless Components.
+*   [aeson-qq (⭐79)](https://github.com/sol/aeson-qq) - JSON quasiquoter for Haskell.
+*   [json2react (⭐167)](https://github.com/txgruppi/json2react) - Use JSON to create React Stateless Components.
 
 ### Online tools
 

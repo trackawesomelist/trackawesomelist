@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 24, 2020
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -80,13 +80,7 @@
 *   [Build Actions for Google Assistant using Actions Builder (Level 1)](https://codelabs.developers.google.com/codelabs/actions-builder-1/index.html)
 *   [Build Actions for Google Assistant using Actions Builder (Level 2)](https://codelabs.developers.google.com/codelabs/actions-builder-2/index.html)
 
-## [13. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### Image Processing
-
-*   [PyMatting (⭐1.5k)](http://github.com/pymatting/pymatting) - A library for alpha matting.
-
-## [14. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [13. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Tooling
 
@@ -94,13 +88,13 @@
 *   [OpenML](https://www.openml.org) - An inclusive movement to build an open, organized, online ecosystem for machine learning.
 *   [Spark Machine Learning](https://spark.apache.org/mllib/) - Spark’s ML library consisting of common learning algorithms and utilities.
 
-## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
 *   [Sheetson](https://sheetson.com) - Instantly turn any Google Sheets into a RESTful API. Free plan available.
 
-## [16. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [15. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Libraries
 
@@ -110,7 +104,7 @@
 
 *   [Web Audio Metronome (⭐561)](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
 
-## [17. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [16. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Articles
 

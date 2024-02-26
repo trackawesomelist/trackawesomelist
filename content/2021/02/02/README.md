@@ -158,7 +158,7 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 
 ### Miscellaneous
 
-*   [react-headings (⭐69)](https://github.com/alexnault/react-headings) - Auto-increment your HTML headings (h1, h2, etc.) for improved accessibility and SEO, no matter your component structure, while you keep full control of what's rendered.
+*   [react-headings (⭐71)](https://github.com/alexnault/react-headings) - Auto-increment your HTML headings (h1, h2, etc.) for improved accessibility and SEO, no matter your component structure, while you keep full control of what's rendered.
 
 ### Miscellaneous / Lazy Load
 

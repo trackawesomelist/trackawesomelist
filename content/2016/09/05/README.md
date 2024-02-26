@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 05, 2016
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -39,13 +39,7 @@ Webpage: <http://www.deysbreeker.nl/>
 | ---- | ----- | ----------------------------------------------------------------------- | -------------------------------- |
 | ✔    | ✔     | [Weesperzijde 23, 1091 EC Amsterdam, Netherlands](http://goo.gl/qLPEjU) | Sun-Thu 8AM-1AM, Fri-Sat 8AM-2AM |
 
-## [3. Awesome Music](/content/ciconia/awesome-music/README.md)
-
-### Music Notation
-
-*   [i-score](http://www.i-score.org) - a software for interactive music notation, with DAW features.
-
-## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Software / Social, Economic and Political Networks
 
@@ -59,19 +53,19 @@ Webpage: <http://www.deysbreeker.nl/>
 
 *   [Periodic Table of Network Centrality](http://schochastics.net/sna/periodic.html) - Interactive periodic table of centrality indices.
 
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Deployment
 
 *   [gatling (⭐500)](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Image Processing
 
 *   [CImg](http://cimg.eu/) - A small, open source, C++ toolkit for image processing. \[Own LGPL or GPL]
 
-## [7. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
+## [6. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 
 ### Videos / OpenOffice
 

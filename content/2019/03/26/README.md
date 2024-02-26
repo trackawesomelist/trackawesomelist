@@ -28,8 +28,8 @@
 
 *   [Better Enums (⭐1.6k)](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. \[BSD] [website](http://aantron.github.io/better-enums/)
 *   [CPFG (⭐215)](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. \[Apache2]
-*   [CPP-Reflection (⭐621)](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. \[MIT]
-*   [Ponder (⭐618)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
+*   [CPP-Reflection (⭐624)](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. \[MIT]
+*   [Ponder (⭐620)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
 *   [RTTR (⭐2.9k)](https://github.com/rttrorg/rttr) - A C++11 library for reflection. \[MIT] [website](http://www.rttr.org)
 
 ### Static Code Analysis

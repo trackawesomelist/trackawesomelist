@@ -58,7 +58,7 @@
 
 ### Libraries
 
-*   [Nlohmann JSON (⭐32k)](https://github.com/nlohmann/json) - A C++11 header-only class.
+*   [Nlohmann JSON (⭐39k)](https://github.com/nlohmann/json) - A C++11 header-only class.
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

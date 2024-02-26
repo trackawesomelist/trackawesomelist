@@ -26,12 +26,12 @@
 
 ### Libraries / Data visualization
 
-*   [mazznoer/colorgrad-rs (⭐263)](https://github.com/mazznoer/colorgrad-rs) \[[colorgrad](https://crates.io/crates/colorgrad)] — Rust color scales library for data visualization, charts, games, maps, generative art and others.
+*   [mazznoer/colorgrad-rs (⭐263)](https://github.com/mazznoer/colorgrad-rs) \[[colorgrad](https://crates.io/crates/colorgrad)] — Color scales library for data visualization, charts, games, maps, generative art and others.
 
 ### Libraries / Encoding
 
 *   NetCDF
-    *   [georust/netcdf (⭐71)](https://github.com/georust/netcdf) \[[netcdf](https://crates.io/crates/netcdf)] — Medium-level netCDF bindings for Rust, allowing easy reading and writing of array-like structures to a file.
+    *   [georust/netcdf (⭐71)](https://github.com/georust/netcdf) \[[netcdf](https://crates.io/crates/netcdf)] — Medium-level netCDF bindings, allowing easy reading and writing of array-like structures to a file.
 
 ## [4. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 

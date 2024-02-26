@@ -10,7 +10,7 @@
 
 ### Shells
 
-*   [nushell (⭐27k)](https://github.com/nushell/nushell) - A modern shell written in Rust
+*   [nushell (⭐29k)](https://github.com/nushell/nushell) - A modern shell written in Rust
 
 ### Command-Line Productivity
 
@@ -18,9 +18,9 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bash-language-server (⭐1.8k)](https://github.com/bash-lsp/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
+*   [bash-language-server (⭐1.9k)](https://github.com/bash-lsp/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
 *   [critic.sh (⭐451)](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
-*   [esh (⭐195)](https://github.com/jirutka/esh) - A simple templating engine based on shell, implemented in \~290 lines of POSIX shell and awk.
+*   [esh (⭐198)](https://github.com/jirutka/esh) - A simple templating engine based on shell, implemented in \~290 lines of POSIX shell and awk.
 
 ## [2. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 
@@ -121,7 +121,7 @@
 
 ### Distribution
 
-*   [shiv (⭐1.6k)](https://github.com/linkedin/shiv) - A command line utility for building fully self-contained zipapps (PEP 441), but with all their dependencies included.
+*   [shiv (⭐1.7k)](https://github.com/linkedin/shiv) - A command line utility for building fully self-contained zipapps (PEP 441), but with all their dependencies included.
 
 ## [7. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 

@@ -137,20 +137,15 @@
 
 ### CMS
 
-*   [indico (⭐1.5k)](https://github.com/indico/indico) - A feature-rich event management system, made @ [CERN](https://en.wikipedia.org/wiki/CERN).
-
-### Computer Vision
-
-*   [SimpleCV (⭐2.6k)](https://github.com/sightmachine/SimpleCV) - An open source framework for building computer vision applications.
+*   [indico (⭐1.6k)](https://github.com/indico/indico) - A feature-rich event management system, made @ [CERN](https://en.wikipedia.org/wiki/CERN).
 
 ### Functional Programming
 
-*   [Coconut (⭐3.8k)](https://github.com/evhub/coconut) - A variant of Python built for simple, elegant, Pythonic functional programming.
-*   [more-itertools (⭐3.1k)](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
+*   [more-itertools (⭐3.4k)](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
 
 ### RPC Servers
 
-*   [RPyC (⭐1.4k)](https://github.com/tomerfiliba/rpyc) (Remote Python Call) - A transparent and symmetric RPC library for Python
+*   [RPyC (⭐1.5k)](https://github.com/tomerfiliba/rpyc) (Remote Python Call) - A transparent and symmetric RPC library for Python
 
 ## [9. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -240,7 +235,7 @@
 
 ### Apps / Modeladmin
 
-*   [wagtail-admin-list-controls (⭐41)](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
+*   [wagtail-admin-list-controls (⭐42)](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
 
 ## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 

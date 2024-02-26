@@ -145,7 +145,7 @@
 
 ### WSGI Servers
 
-*   [gunicorn (⭐9k)](https://github.com/benoitc/gunicorn) - Pre-forked, ported from Ruby's Unicorn project.
+*   [gunicorn (⭐9.4k)](https://github.com/benoitc/gunicorn) - Pre-forked, ported from Ruby's Unicorn project.
 
 ## [17. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

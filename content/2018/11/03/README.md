@@ -85,7 +85,7 @@
 
 ### Command-line tools
 
-*   [fx (⭐15k)](https://github.com/antonmedv/fx) - A interactive terminal tool.
+*   [fx (⭐18k)](https://github.com/antonmedv/fx) - A interactive terminal tool.
 
 ## [7. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

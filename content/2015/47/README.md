@@ -185,7 +185,7 @@ Where hackers and security experts come to train.
 
 ### Contents / CLI
 
-*   [psql2csv (⭐173)](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
+*   [psql2csv (⭐179)](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
 
 ## [17. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
@@ -309,7 +309,7 @@ Where hackers and security experts come to train.
 
 ### HTTP
 
-*   [scrape (⭐328)](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
+*   [scrape (⭐326)](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
 
 ### Third Party APIs
 
@@ -526,7 +526,7 @@ git help -g
 
 ### CLI Utilities
 
-*   [Paint (⭐361)](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
+*   [Paint (⭐366)](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
 
 ### Third-party APIs
 

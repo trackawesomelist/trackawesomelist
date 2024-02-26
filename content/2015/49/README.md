@@ -166,7 +166,7 @@
 
 ### Music Notation
 
-*   [Ripple (⭐26)](https://github.com/ciconia/ripple/) - DRY for Lilypond - generate scores and parts with minimal fuss.
+*   [Ripple (⭐27)](https://github.com/ciconia/ripple/) - DRY for Lilypond - generate scores and parts with minimal fuss.
 
 ## [18. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 

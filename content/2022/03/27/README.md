@@ -38,7 +38,7 @@
 
 ### Software / Miscellaneous
 
-*   [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code (⭐439)](https://github.com/benjaminjonard/koillection)) `MIT` `Docker/PHP`
+*   [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code (⭐451)](https://github.com/benjaminjonard/koillection)) `MIT` `Docker/PHP`
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

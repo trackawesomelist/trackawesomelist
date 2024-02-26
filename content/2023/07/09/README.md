@@ -28,10 +28,10 @@
 ### DSP
 
 *   [DSPFilters (⭐1.7k)](https://github.com/vinniefalco/DSPFilters) - A collection of useful C++ classes for digital signal processing. \[MIT]
-*   [iir1 (⭐557)](https://github.com/berndporr/iir1) - IIR Realtime C++ filter library. \[MIT]
+*   [iir1 (⭐558)](https://github.com/berndporr/iir1) - IIR Realtime C++ filter library. \[MIT]
 *   [kissfft (⭐1.3k)](https://github.com/mborgerding/kissfft) - A Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid. \[BSD-3-Clause]
 *   [pocketfft (⭐47)](https://github.com/mreineck/pocketfft) - FFT implementation based on FFTPack, but with several improvements. \[BSD-3-Clause]
-*   [wavelib (⭐320)](https://github.com/rafat/wavelib) - C implementation of 1D and 2D wavelet transforms. \[BSD-3-Clause]
+*   [wavelib (⭐322)](https://github.com/rafat/wavelib) - C implementation of 1D and 2D wavelet transforms. \[BSD-3-Clause]
 
 ## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

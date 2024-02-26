@@ -37,7 +37,7 @@
 
 ### Table of Contents / API
 
-*   [PackageGenerator (⭐405)](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
+*   [PackageGenerator (⭐408)](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
 
 ## [5. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Software / Database Management
 
-*   [AdminerEvo](https://docs.adminerevo.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others (fork of Adminer). ([Source Code (⭐175)](https://github.com/adminerevo/adminerevo)) `Apache-2.0/GPL-2.0` `PHP`
+*   [AdminerEvo](https://docs.adminerevo.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others (fork of Adminer). ([Source Code (⭐198)](https://github.com/adminerevo/adminerevo)) `Apache-2.0/GPL-2.0` `PHP`
 
 ---
 

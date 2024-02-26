@@ -255,13 +255,13 @@
 
 ### Applications / Industrial automation
 
-*   [slowtec/tokio-modbus (⭐333)](https://github.com/slowtec/tokio-modbus) — A [tokio](https://tokio.rs)-based [modbus](https://modbus.org) library.
+*   [slowtec/tokio-modbus (⭐334)](https://github.com/slowtec/tokio-modbus) — A [tokio](https://tokio.rs)-based [modbus](https://modbus.org) library.
 
 ## [11. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Asynchronous Programming
 
-*   [trio (⭐5.4k)](https://github.com/python-trio/trio) - A friendly library for async concurrency and I/O.
+*   [trio (⭐5.8k)](https://github.com/python-trio/trio) - A friendly library for async concurrency and I/O.
 
 ## [12. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -298,20 +298,20 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Resources / Packages
 
-*   [monetize.js (⭐14)](https://github.com/sunchayn/monetize.js) - An event-driven library to manage and simulate Web Monetization. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [monetize.js (⭐15)](https://github.com/sunchayn/monetize.js) - An event-driven library to manage and simulate Web Monetization. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [types-wm (⭐3)](https://github.com/dacioromero/types-wm) - TypeScript definitions for Web Monetization ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/typescript.png)
-*   [react-hook-wm (⭐7)](https://github.com/dacioromero/react-hook-wm) - React hooks for integrating with Web Monetization. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
-*   [react-monetize (⭐29)](https://github.com/guidovizoso/react-monetize) - Helpers and hooks to speed up your integration with Web Monetization API. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
+*   [react-hook-wm (⭐8)](https://github.com/dacioromero/react-hook-wm) - React hooks for integrating with Web Monetization. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
+*   [react-monetize (⭐30)](https://github.com/guidovizoso/react-monetize) - Helpers and hooks to speed up your integration with Web Monetization API. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
 *   [ep\_monetization (⭐0)](https://github.com/ISNIT0/ep_monetization) - Plugin for applying payment pointer meta tag to Etherpad site. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [wp-connect-coil](https://wordpress.org/plugins/wp-connect-coil/) - Plugin for applying Coil payment pointer meta tag to WordPress site. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/wordpress.png)
 *   [xrptipbot-wordpress-widget](https://wordpress.org/plugins/widget-xrptipbot/) - WordPress Widget based on XRPTIPBOT embed code to donate content creators. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/wordpress.png)
-*   [eleventy-plugin-monetization (⭐17)](https://github.com/DanCanetti/eleventy-plugin-monetization) - An Eleventy plugin to monetize posts and site content. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/11ty.png)
+*   [eleventy-plugin-monetization (⭐19)](https://github.com/DanCanetti/eleventy-plugin-monetization) - An Eleventy plugin to monetize posts and site content. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/11ty.png)
 *   [web-monetization-components (⭐9)](https://github.com/philnash/web-monetization-components) - A collection of web components you can use on your web monetized websites. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [revshare (⭐7)](https://github.com/kewbish/revshare) - A JS library for revenue sharing. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [web-monetization-proxy (⭐3)](https://github.com/tcdowney/web-monetization-proxy) - Simple Go proxy for injecting Web Monetization meta tags. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/go.png)
-*   [gridsome-plugin-monetization (⭐14)](https://github.com/Sergix/gridsome-plugin-monetization) - Web monetization for Gridsome. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/gridsome.png)
-*   [vuepress-plugin-web-monetization (⭐13)](https://github.com/spekulatius/vuepress-plugin-web-monetization) - Adds the web-monetization metatag to your VuePress website. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/vuejs.png)
-*   [jekyll-web\_monetization (⭐10)](https://github.com/philnash/jekyll-web_monetization) - A Jekyll plugin to add Web MonetizationAPI payment pointers to your site. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/jekyll.png)
+*   [gridsome-plugin-monetization (⭐15)](https://github.com/Sergix/gridsome-plugin-monetization) - Web monetization for Gridsome. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/gridsome.png)
+*   [vuepress-plugin-web-monetization (⭐14)](https://github.com/spekulatius/vuepress-plugin-web-monetization) - Adds the web-monetization metatag to your VuePress website. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/vuejs.png)
+*   [jekyll-web\_monetization (⭐12)](https://github.com/philnash/jekyll-web_monetization) - A Jekyll plugin to add Web MonetizationAPI payment pointers to your site. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/jekyll.png)
 
 ### Resources / Articles
 
@@ -331,23 +331,23 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
     > monetized example.com
     > ```
     >
-    > You can also test your website [with the dependency (⭐4)](https://github.com/jkga/is-web-monetized#usage).
+    > You can also test your website with the dependency.
 
 ## [17. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Back-End Development
 
-*   [FastAPI (⭐6.8k)](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
+*   [FastAPI (⭐7.1k)](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
 
 ### Security
 
-*   [DevSecOps (⭐1.1k)](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
+*   [DevSecOps (⭐1.2k)](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
 
 ## [18. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
-*   [rocket-pipes (⭐22)](https://github.com/darky/rocket-pipes) - Powerful pipes, that chain Promise and ADT like Maybe or Either from popular FP libraries. +TS
+*   [rocket-pipes (⭐23)](https://github.com/darky/rocket-pipes) - Powerful pipes, that chain Promise and ADT like Maybe or Either from popular FP libraries. +TS
 
 ## [19. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
@@ -420,7 +420,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Utilities / General Tools
 
-*   [Ultra TabSaver (⭐251)](https://github.com/Swift-open-source/UltraTabSaver) - The Open Source Tab Manager for Safari [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swift-open-source/UltraTabSaver)
+*   [Ultra TabSaver (⭐253)](https://github.com/Swift-open-source/UltraTabSaver) - The Open Source Tab Manager for Safari [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swift-open-source/UltraTabSaver)
 
 ## [25. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -514,16 +514,16 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Command-Line Productivity / Directory Navigation
 
-*   [aliasme (⭐109)](https://github.com/Jintin/aliasme) - alias helper to change directory quickly
+*   [aliasme (⭐111)](https://github.com/Jintin/aliasme) - alias helper to change directory quickly
 *   [autojump (⭐16k)](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 *   [bashmarks (⭐1.8k)](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
-*   [bd (⭐909)](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
-*   [commacd (⭐354)](https://github.com/shyiko/commacd) - A faster way to move around in Bash
-*   [enhancd (⭐2.4k)](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
-*   [goto (⭐846)](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
+*   [bd (⭐918)](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
+*   [commacd (⭐357)](https://github.com/shyiko/commacd) - A faster way to move around in Bash
+*   [enhancd (⭐2.5k)](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
+*   [goto (⭐856)](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
 *   [jump (⭐1.7k)](https://github.com/gsamokovarov/jump) - Jump helps you navigate your file system faster by learning your habits.
 *   [lazy-cd (⭐20)](https://github.com/pedramamini/lazy-cd) - Simple bash commands for bookmarked navigation of the file system, complete with bash-completion.
-*   [up (⭐160)](https://github.com/shannonmoeller/up) - Ascend directories by name or count; for bash, zsh, and fish.
+*   [up (⭐164)](https://github.com/shannonmoeller/up) - Ascend directories by name or count; for bash, zsh, and fish.
 
 ## [34. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
@@ -880,7 +880,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Apps / Forms
 
-*   [Wagtail Simple Captcha (⭐1)](https://github.com/acarasimon96/wagtail-django-simple-captcha) - A self-hosted alternative to Wagtail ReCaptcha that easily integrates a [django-simple-captcha (⭐1.3k)](https://github.com/mbi/django-simple-captcha) field into the Wagtail form builder.
+*   [Wagtail Simple Captcha (⭐2)](https://github.com/acarasimon96/wagtail-django-simple-captcha) - A self-hosted alternative to Wagtail ReCaptcha that easily integrates a [django-simple-captcha (⭐1.4k)](https://github.com/mbi/django-simple-captcha) field into the Wagtail form builder.
 
 ## [57. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -987,7 +987,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Software / Personal Dashboards
 
-*   [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code (⭐119)](https://github.com/ashwin-pc/hiccup)) `MIT` `Javascript/Docker`
+*   [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code (⭐125)](https://github.com/ashwin-pc/hiccup)) `MIT` `Javascript/Docker`
 
 ### Software / Software Development - Project Management
 

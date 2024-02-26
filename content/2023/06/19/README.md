@@ -8,10 +8,6 @@
 
 ## [1. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
-### Channel History / Discovery
-
-*   [Nixpkgs Bot](https://git.maralorn.de/nixos-config/tree/packages/nixpkgs-bot) - A Matrix bot to track when a Nixpkgs pull request reaches a relevant branch.
-
 ### Development / Discovery
 
 *   [nixd (⭐536)](https://github.com/nix-community/nixd) - Nix language server, based on Nix libraries.
@@ -30,11 +26,11 @@
 
 ### Software / Calendar & Contacts
 
-*   [Manage My Damn Life](https://intri.in/manage-my-damn-life/) - Manage my Damn Life (MMDL) is a self-hosted front end for managing your CalDAV tasks and calendars. ([Source Code (⭐87)](https://github.com/intri-in/manage-my-damn-life-nextjs)) `GPL-3.0` `Nodejs/Docker`
+*   [Manage My Damn Life](https://intri.in/manage-my-damn-life/) - Manage my Damn Life (MMDL) is a self-hosted front end for managing your CalDAV tasks and calendars. ([Source Code (⭐90)](https://github.com/intri-in/manage-my-damn-life-nextjs)) `GPL-3.0` `Nodejs/Docker`
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Tailchat](https://tailchat.msgbyte.com/) - Next generation noIM application in your own workspace, not only another Slack/Discord/rocket.chat. ([Demo](https://nightly.paw.msgbyte.com/), [Source Code (⭐2.3k)](https://github.com/msgbyte/tailchat)) `Apache-2.0` `Docker/K8S/Nodejs`
+*   [Tailchat](https://tailchat.msgbyte.com/) - Next generation noIM application in your own workspace, not only another Slack/Discord/rocket.chat. ([Demo](https://nightly.paw.msgbyte.com/), [Source Code (⭐2.4k)](https://github.com/msgbyte/tailchat)) `Apache-2.0` `Docker/K8S/Nodejs`
 
 ### Software / Communication - Email - Complete Solutions
 

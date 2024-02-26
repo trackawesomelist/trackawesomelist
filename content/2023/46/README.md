@@ -53,7 +53,7 @@
 
 ### Applications
 
-*   [Rauthy (⭐121)](https://github.com/sebadob/rauthy) — OpenID Connect Single Sign-On Identity & Access Management
+*   [Rauthy (⭐134)](https://github.com/sebadob/rauthy) — OpenID Connect Single Sign-On Identity & Access Management
 
 ### Applications / System tools
 
@@ -85,25 +85,19 @@
 
 *   [MAT Calcite plugin (⭐141)](https://github.com/vlsi/mat-calcite-plugin) - This plugin for Eclipse Memory Analyzer allows to query heap dump via SQL.
 
-## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Artificial Intelligence
-
-*   [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp (⭐6.9k)](https://github.com/norvig/paip-lisp) - Peter Norvig
-
-## [12. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Firmware projects / WIP
 
 *   [LuLuu (⭐5)](https://github.com/fu5ha/luluu): Firmware for a custom RP2040-based display controller that streams animated images from a microSD card to a small LCD display.
 
-## [13. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [12. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Utility
 
 *   [votp (⭐13)](https://github.com/OdaiGH/votp) - TOTP and HOTP implementation in v.
 
-## [14. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [13. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Resources / Community
 
@@ -116,14 +110,13 @@
 *   [Django Jobs](https://djangojobs.net) - Django jobs posting for hiring Django Python developers.
 *   [Python.org Job Boards](https://www.python.org/jobs/) - While not exclusively for Django, this job board is hosted by the official Python website and features a range of Python and Django-related job opportunities.
 
-## [15. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [14. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### PlayCanvas
 
-*   [SuperSplat](https://playcanvas.com/super-splat) - 3D Gassuian Splat Editor.
 *   [Texture Tool](https://playcanvas.com/texture-tool) - Tool for reprojecting textures.
 
-## [16. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [15. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Component Libraries
 
@@ -137,7 +130,7 @@
 
 *   [@web-types/lit](https://www.npmjs.com/package/@web-types/lit) - Attribute completion for HTML inside of tagged template literals.
 
-## [17. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [16. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Components
 
@@ -147,7 +140,7 @@
 
 *   [LDRS (⭐1.2k)](https://github.com/GriffinJohnston/ldrs) - Lightweight, customizable loading animations/spinners.
 
-## [18. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [17. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / R
 
@@ -157,7 +150,7 @@
 
 *   [Library of the week 13 : Polars with Python](https://www.youtube.com/watch?v=kv7rqHgX20w) ⏳ 15 min - A video that presents Polars with Python by [@enarroied](https://github.com/enarroied). Article supplied with the video [in this page](https://python.plainenglish.io/library-of-the-week-13-polars-fd1398a8841b).
 
-## [19. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [18. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Algorithms and Data Structures
 
@@ -175,7 +168,7 @@
 
 *   [atdgen (⭐288)](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
 
-## [20. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [19. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Strategy
 
@@ -189,20 +182,20 @@
 | ------: | -------: | -----: |
 |   2 - 4 |       13 | 30-45m |
 
-## [21. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [20. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [TelePi (⭐1)](https://github.com/besoeasy/telepi) - Telepi allows you to monitor and control your Raspberry Pi via Telegram featuring file downloads, system monitoring, network insights, speed tests, and the ability to open web tunnels.
 
-## [22. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Productivity
 
 *   [BoltAI](https://boltai.com) - A beautiful & powerful ChatGPT app for Mac. Stay ahead by integrating AI into your workflow today.
 *   [PDF Pals](https://pdfpals.com) - Chat with PDF app for Mac. No file size limits!
 
-## [23. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [22. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Graph databases
 
@@ -212,13 +205,13 @@
 
 *   [lisp-binary (⭐83)](https://github.com/j3pic/lisp-binary) - A library to easily read and write complex binary formats. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
-## [24. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
+## [23. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
 
 ### Datasets / Raw Images
 
 *   [The Cell Painting Gallery](https://broad.io/CellPaintingGallery) - The Cell Painting Gallery is a collection of image datasets created using the Cell Painting assay (or similar); it is maintained by the Carpenter--Singh lab at the Broad Institute.
 
-## [25. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [24. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Plugins & Libraries
 
@@ -228,7 +221,7 @@
 
 *   Escaper: Run - [IOS](https://apps.apple.com/tr/app/escaper-run/id6450519372?platform=iphone) - Dodge the bombs. Test your reflexes! By [A. Can Algan](https://github.com/acalgan)
 
-## [26. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [25. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Notification
 
@@ -238,19 +231,19 @@
 
 *   [cmdk](https://cmdk.paco.me/) - Fast, composable, unstyled command menu for React.
 
-## [27. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [26. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [SonarDelphi (⭐55)](https://github.com/integrated-application-development/sonar-delphi) — Delphi static analyzer for the SonarQube code quality platform.
 
-## [28. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [27. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Payments & Pricing
 
 *   [OpenMeter](https://openmeter.io/) - Open-source usage metering for billing and chargeback.
 
-## [29. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
+## [28. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
 
 ### Design Assistant
 
@@ -264,25 +257,25 @@
 
 *   [Keploy](https://www.keploy.io/) - A  developer-centric backend testing tool which makes backend tests with built-in-mocks faster than unit tests, from user traffic, making it easy to use, powerful, and extensible. `#opensource`
 
-## [30. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [29. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Related
 
 *   [Open Source Heroes - Awesome](https://opensource-heroes.com/awesome) - View Awesome lists with extra info like stars, last update, and license.
 
-## [31. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [30. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Tools / Ironsworn
 
 *   [Starforged Asset Workbench](https://starforged-asset-workbench.vercel.app) - Tool for creating custom assets with Starforged's aesthetic
 
-## [32. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [31. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### XM Cloud
 
 *   [Sitecore GraphQL Import (⭐3)](https://github.com/jbluemink/Sitecore-GraphQL-Import) - A console app showcases various capabilities of the Sitecore GraphQL API, such as retrieving Sitecore items, obtaining a list of websites, inserting sample items, and uploading media files.
 
-## [33. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [32. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Stub packages
 
@@ -292,7 +285,7 @@
 
 *   [useful-types (⭐41)](https://github.com/hauntsaninja/useful_types) - Collection of useful protocols and type aliases.
 
-## [34. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [33. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI
 
@@ -327,7 +320,7 @@
 
 *   [GPT4All](https://gpt4all.io/index.html): A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
 *   [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs
-*   [ggerganov/llama.cpp (⭐50k)](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
+*   [ggerganov/llama.cpp (⭐51k)](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
 
 ### GPTs and Assistant API / Prompt Engineering for Text-to-image
 
@@ -335,13 +328,13 @@
 
 ### LLM Evaluation / Multi-agents
 
-*   [vectara/hallucination-leaderboard (⭐928)](https://github.com/vectara/hallucination-leaderboard): "leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
+*   [vectara/hallucination-leaderboard (⭐953)](https://github.com/vectara/hallucination-leaderboard): "leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
 *   [\[2305.16938\] Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation](https://arxiv.org/abs/2305.16938)
 
 ### LangChain / Multi-agents
 
 *   [LangChain Cheatsheet](https://pub.towardsai.net/langchain-cheatsheet-all-secrets-on-a-single-page-8be26b721cde): All Secrets on a Single Page | by Ivan Reznikov | Nov, 2023 | Towards AI
-*   [LangChain Template: Research Assistant (⭐76k)](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant)
+*   [LangChain Template: Research Assistant (⭐77k)](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant)
 
 ### Image Segmentation / Deforum
 
@@ -349,9 +342,9 @@
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [tldraw/draw-a-ui (⭐4.5k)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
+*   [tldraw/draw-a-ui (⭐4.6k)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
 
-## [35. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [34. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### AI
 
@@ -389,13 +382,13 @@
 *   [.NET Conf: Full stack web UI with Blazor in .NET 8](https://www.youtube.com/watch?v=YwZdtLEtROA) - ![duration](https://img.shields.io/badge/Duration:%20-56%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 15, 2023 - In .NET 8 you can deliver the best web app experiences entirely in Blazor using Blazor's convenient component model. You can build your entire web app in Blazor without the needed for writing JavaScript or mixing web frameworks. In this session you'll see how you can use Blazor's new server-side rendering support to power your web apps from the server for maximum performance and scalability. You'll see how you can easily add advanced capabilities like streaming rendering and enhanced navigation & form handling to further optimize the user experience. Then add rich client-side interactivity wherever it is needed using Blazor Server or Blazor WebAssembly.
 *   [Building Hybrid User Interfaces with Blazor Hybrid \[Pt 4\] | Blazor Hybrid for Beginners](https://www.youtube.com/watch?v=pWDf1AnJ4ds) - ![duration](https://img.shields.io/badge/Duration:%20-19%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 10, 2023 - Let's start to build out a full application with Blazor Hybrid inside of .NET MAUI. Join James as he walks through building out a full to do application with web components.
 
-## [36. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [35. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Web / Playground
 
 *   :octocat: [It-Tools](https://it-tools.tech/) - Collection of handy online tools for developers, with great UX
 
-## [37. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [36. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Debugging
 
@@ -406,19 +399,19 @@
 
 *   [Wonderland Clojure Katas (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas)
 
-## [38. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Date
 
 *   [TypedDate (⭐18)](https://github.com/Ryu0118/swift-typed-date) - Enhancing Date handling by enabling type-level customization of date components
 
-## [39. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [38. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [nsk90/kstatemachine (⭐278)](https://github.com/nsk90/kstatemachine) - KStateMachine is a Kotlin DSL library for creating state machines and statecharts.
+*   [nsk90/kstatemachine (⭐283)](https://github.com/nsk90/kstatemachine) - KStateMachine is a Kotlin DSL library for creating state machines and statecharts.
 
-## [40. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [39. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### Templates
 
@@ -429,7 +422,7 @@
 *   [Bash completion](https://forum.qubes-os.org/docs?topic=13304) - How to install bash completion for Qubes OS commands.
 *   [Qubes-Scripts (⭐7)](https://github.com/Willy-JL/Qubes-Scripts) - Collection of custom scripts for Qubes OS.
 
-## [41. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [40. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -438,11 +431,11 @@
 ### Software / Bookmarks and Link Sharing
 
 *   [Digibunch](https://ladigitale.dev/digibunch/#/) - Create bunches of links to share with your learners or colleagues. ([Demo](https://ladigitale.dev/digibunch/#/b/5f67b12092b60), [Source Code](https://codeberg.org/ladigitale/digibunch)) `AGPL-3.0` `Nodejs/PHP`
-*   [Slash (⭐757)](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. `GPL-3.0` `Docker`
+*   [Slash (⭐899)](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. `GPL-3.0` `Docker`
 
 ### Software / Document Management
 
-*   [Docuseal](https://www.docuseal.co) - Create, fill, and sign digital documents (alternative to DocuSign). ([Demo](https://demo.docuseal.tech/), [Source Code (⭐4.5k)](https://github.com/docusealco/docuseal)) `AGPL-3.0` `Docker`
+*   [Docuseal](https://www.docuseal.co) - Create, fill, and sign digital documents (alternative to DocuSign). ([Demo](https://demo.docuseal.tech/), [Source Code (⭐4.7k)](https://github.com/docusealco/docuseal)) `AGPL-3.0` `Docker`
 
 ### Software / Document Management - E-books
 
@@ -450,11 +443,11 @@
 
 ### Software / Games
 
-*   [Suroi](https://suroi.io/) - An open-source 2D battle royale game inspired by surviv.io. ([Demo](https://suroi.io/), [Source Code (⭐117)](https://github.com/HasangerGames/suroi)) `GPL-3.0` `Nodejs`
+*   [Suroi](https://suroi.io/) - An open-source 2D battle royale game inspired by surviv.io. ([Demo](https://suroi.io/), [Source Code (⭐128)](https://github.com/HasangerGames/suroi)) `GPL-3.0` `Nodejs`
 
 ### Software / Inventory Management
 
-*   [Homebox Inventory](https://hay-kot.github.io/homebox/) - An inventory and organization system built for the home user with a focus on simplicity and ease of use. ([Demo](https://homebox.fly.dev/), [Source Code (⭐2k)](https://github.com/hay-kot/homebox)) `AGPL-3.0` `Docker`
+*   [Homebox Inventory](https://hay-kot.github.io/homebox/) - An inventory and organization system built for the home user with a focus on simplicity and ease of use. ([Demo](https://homebox.fly.dev/), [Source Code (⭐2.1k)](https://github.com/hay-kot/homebox)) `AGPL-3.0` `Docker`
 
 ### Software / Learning and Courses
 
@@ -472,13 +465,13 @@
 
 ### Software / Wikis
 
-*   [Otter Wiki (⭐82)](https://github.com/redimp/otterwiki) - Simple, easy to use wiki software using markdown. `MIT` `Docker`
+*   [Otter Wiki (⭐103)](https://github.com/redimp/otterwiki) - Simple, easy to use wiki software using markdown. `MIT` `Docker`
 
-## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Email
 
-*   [validemail.io](https://validemail.io/) - Free Tier with 1000 validations per day.
+*   [validemail.io](https://validemail.io/) - Free Tier with 10,000 validations per month & 10 requests per second.
 
 ### Forms
 
@@ -492,23 +485,29 @@
 
 *   [BBEdit](https://www.barebones.com/) - BBEdit is a popular and extensible editor for macOS. Free Mode provides a [powerful core feature set](https://www.barebones.com/products/bbedit/comparison.html) and an upgrade path to advanced features.
 
-## [43. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [42. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Programming
 
 *   [Topos](https://topos.live) - a web based live coding environment (WebAudio / MIDI)
 
+## [43. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+
+### Tools / CI
+
+*   [terraform-github-actions (⭐647)](https://github.com/dflook/terraform-github-actions) - GitHub Actions for OpenTofu.
+
 ## [44. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / AI Concept Representation
 
-*   [Metabolic activity organizes olfactory representations](https://elifesciences.org/articles/82502) - ***eLife***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8857896396450033667\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐15)](https://github.com/osmoai/publications/tree/main/qian_et_al_2023)]. Odorous compounds with similar POM representations are more likely to co-occur within a substance and be metabolically closely related; metabolic reaction sequences also follow smooth paths in POM despite large jumps in molecular structure.
+*   [Metabolic activity organizes olfactory representations](https://elifesciences.org/articles/82502) - ***eLife***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8857896396450033667\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐16)](https://github.com/osmoai/publications/tree/main/qian_et_al_2023)]. Odorous compounds with similar POM representations are more likely to co-occur within a substance and be metabolically closely related; metabolic reaction sequences also follow smooth paths in POM despite large jumps in molecular structure.
 
 ## [45. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Utils
 
-*   [ZeroStep (⭐79)](https://github.com/zerostep-ai/zerostep) - AI actions and assertions for Playwright.
+*   [ZeroStep (⭐99)](https://github.com/zerostep-ai/zerostep) - AI actions and assertions for Playwright.
 
 ## [46. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
@@ -528,7 +527,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-deadfile (⭐4)](https://github.com/stauren/vite-plugin-deadfile) - Find unused source files in the project.
+*   [vite-plugin-deadfile (⭐6)](https://github.com/stauren/vite-plugin-deadfile) - Find unused source files in the project.
 
 ## [48. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
@@ -589,7 +588,7 @@
 
 *   [exa (zap-zsh) (⭐16)](https://github.com/zap-zsh/exa) - Overrides common commands to use exa instead.
 *   [exa-ls (zpm-zsh) (⭐92)](https://github.com/zpm-zsh/ls) - Zsh plugin for ls.
-*   [eza (twopizza9621536) (⭐2)](https://github.com/twopizza9621536/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐5k)](https://github.com/eza-community/eza).
+*   [eza (twopizza9621536) (⭐2)](https://github.com/twopizza9621536/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐5.5k)](https://github.com/eza-community/eza).
 *   [no-ps2 (⭐7)](https://github.com/romkatv/zsh-no-ps2) - When this plugin is used, Enter inserts a newline if the typed command is incomplete. No PS2!
 *   [run-scripts (⭐3)](https://github.com/Aireck2/zsh-run-scripts) - Runs scripts from `package.json`.
 *   [zsh-expand (⭐24)](https://github.com/MenkeTechnologies/zsh-expand) - Expands regular aliases, global aliases and incorrect spellings and phrases with the spacebar key. Native expansions such as globs, command/process substitution, `=command expansion`, history expansion and `$parameters` are also expanded by default but can be turned off.

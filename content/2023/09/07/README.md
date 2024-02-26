@@ -30,15 +30,15 @@
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-php (⭐10)](https://github.com/donnikitos/vite-plugin-php) - Load and process PHP-entry files instead of default index.html.
+*   [vite-plugin-php (⭐11)](https://github.com/donnikitos/vite-plugin-php) - Load and process PHP-entry files instead of default index.html.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-singlefile (⭐629)](https://github.com/richardtallent/vite-plugin-singlefile) - Inline all JavaScript and CSS resources directly into the final `dist/index.html` file.
+*   [vite-plugin-singlefile (⭐650)](https://github.com/richardtallent/vite-plugin-singlefile) - Inline all JavaScript and CSS resources directly into the final `dist/index.html` file.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [unplugin-inject-preload (⭐6)](https://github.com/Applelo/unplugin-inject-preload) - Inject `<link rel="preload">` to your `index.html` based on your build assets.
+*   [unplugin-inject-preload (⭐9)](https://github.com/Applelo/unplugin-inject-preload) - Inject `<link rel="preload">` to your `index.html` based on your build assets.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Utilities / System Related Tools
 
-*   [stats (⭐20k)](https://github.com/exelban/stats) - free Mac system monitor for the menubar. \[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")]
+*   [stats (⭐21k)](https://github.com/exelban/stats) - free Mac system monitor for the menubar. \[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")]
 
 ## [10. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 

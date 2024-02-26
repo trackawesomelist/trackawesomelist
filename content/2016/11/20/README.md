@@ -148,7 +148,7 @@
 
 ### Web Programming • Libraries
 
-*   [three.js (⭐96k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
+*   [three.js (⭐98k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
 
 ### Inspiration / Other
 

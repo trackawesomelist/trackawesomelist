@@ -16,11 +16,11 @@
 
 ### Applications / Blockchain
 
-*   [svm-rs (⭐214)](https://github.com/alloy-rs/svm-rs) - Solidity-Compiler Version Manager.
+*   [svm-rs (⭐216)](https://github.com/alloy-rs/svm-rs) - Solidity-Compiler Version Manager.
 
 ### Applications / Utilities
 
-*   [nix-community/nix-melt (⭐173)](https://github.com/nix-community/nix-melt) — A ranger-like flake.lock viewer [![build-badge](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml)
+*   [nix-community/nix-melt (⭐178)](https://github.com/nix-community/nix-melt) — A ranger-like flake.lock viewer [![build-badge](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml)
 
 ## [3. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Bitcart](https://bitcart.ai) - A self-hosted cryptocurrencies payment processor and development platform. ([Demo](https://admin.bitcart.ai), [Source Code (⭐435)](https://github.com/bitcart/bitcart)) `MIT` `Docker/Python/Nodejs`
+*   [Bitcart](https://bitcart.ai) - A self-hosted cryptocurrencies payment processor and development platform. ([Demo](https://admin.bitcart.ai), [Source Code (⭐442)](https://github.com/bitcart/bitcart)) `MIT` `Docker/Python/Nodejs`
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Web Frameworks
 
-*   [Don (⭐33)](https://github.com/abemedia/go-don) - A highly performant and simple to use API framework.
+*   [Don (⭐34)](https://github.com/abemedia/go-don) - A highly performant and simple to use API framework.
 
 ## [8. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [jc (⭐6.5k)](https://github.com/kellyjonbrazil/jc) - Convert command output, file-types, and common strings to JSON or YAML for easier use in scripts.
+*   [jc (⭐7.4k)](https://github.com/kellyjonbrazil/jc) - Convert command output, file-types, and common strings to JSON or YAML for easier use in scripts.
 
 ---
 

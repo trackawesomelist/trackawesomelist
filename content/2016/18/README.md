@@ -208,7 +208,7 @@
 
 ### Lists / Book/monograph Lists and Reviews
 
-*   [RStudio Addins (⭐807)](https://github.com/daattali/addinslist) - List of RStudio addins.
+*   [RStudio Addins (⭐819)](https://github.com/daattali/addinslist) - List of RStudio addins.
 
 ## [20. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
@@ -239,7 +239,7 @@
 
 ### HTTP
 
-*   [http2 (⭐92)](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
+*   [http2 (⭐93)](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
 
 ### Template Engine
 

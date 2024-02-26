@@ -80,8 +80,8 @@
 
 ### Natural Language Processing
 
-*   [text2vec (⭐832)](https://github.com/dselivanov/text2vec) - Fast Text Mining Framework for Vectorization and Word Embeddings.
-*   [quanteda (⭐806)](https://github.com/kbenoit/quanteda) - R functions for Quantitative Analysis of Textual Data.
+*   [text2vec (⭐836)](https://github.com/dselivanov/text2vec) - Fast Text Mining Framework for Vectorization and Word Embeddings.
+*   [quanteda (⭐815)](https://github.com/kbenoit/quanteda) - R functions for Quantitative Analysis of Textual Data.
 
 ## [10. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
@@ -466,7 +466,7 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Bittorrent
 
-*   [bento (⭐88)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
+*   [bento (⭐92)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
 
 ### Email
 

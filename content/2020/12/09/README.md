@@ -16,7 +16,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Shopify Theme Lab (⭐700)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
+*   🚀 [Shopify Theme Lab (⭐704)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
 
 ## [3. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Apps / SEO and SMO
 
-*   [Wagtail Yoast (⭐30)](https://github.com/Aleksi44/wagtailyoast) - A tool to improve readability of your texts with SEO recommendations.
+*   [Wagtail Yoast (⭐31)](https://github.com/Aleksi44/wagtailyoast) - A tool to improve readability of your texts with SEO recommendations.
 
 ### Apps / Media
 

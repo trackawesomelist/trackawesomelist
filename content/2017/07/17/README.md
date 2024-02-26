@@ -27,11 +27,11 @@
 
 ### Configuration
 
-*   [Chamber (⭐200)](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
+*   [Chamber (⭐201)](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
 
 ### Third-party APIs
 
-*   [Restforce (⭐789)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
+*   [Restforce (⭐790)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
 
 ## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

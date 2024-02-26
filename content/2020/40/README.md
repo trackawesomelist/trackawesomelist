@@ -118,7 +118,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Machine Learning
 
-*   [gym (⭐32k)](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+*   [gym (⭐34k)](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 
 ## [13. Awesome Internships](/content/lodthe/awesome-internships/week/README.md)
 
@@ -130,7 +130,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries
 
-*   [Rambdax (⭐214)](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
+*   [Rambdax (⭐215)](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
 
 ## [15. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -225,7 +225,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Testing
 
-*   [willowtreeapps/assertk (⭐700)](https://github.com/willowtreeapps/assertk) - assertions for kotlin inspired by assertj
+*   [willowtreeapps/assertk (⭐703)](https://github.com/willowtreeapps/assertk) - assertions for kotlin inspired by assertj
 
 ### Libraries/Frameworks / Dependency Injection
 
@@ -234,7 +234,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Coroutines
 
-*   [konrad-kaminski/spring-kotlin-coroutine (⭐444)](https://github.com/konrad-kaminski/spring-kotlin-coroutine) - Kotlin coroutine support for Spring.
+*   [konrad-kaminski/spring-kotlin-coroutine (⭐447)](https://github.com/konrad-kaminski/spring-kotlin-coroutine) - Kotlin coroutine support for Spring.
 *   [marcoferrer/kroto-plus (⭐493)](https://github.com/marcoferrer/kroto-plus) - Protoc plugin for bringing together Kotlin, Protobuf, Coroutines, and gRPC.
 
 ### Libraries/Frameworks / Functional Programming
@@ -261,12 +261,12 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Compiler Plugins
 
-*   [aafanasev/sekret (⭐107)](https://github.com/aafanasev/sekret) - Kotlin compiler plugin to exclude secret properties from toString() of Data class
-*   [AhmedMourad0/no-copy (⭐149)](https://github.com/AhmedMourad0/no-copy) - A Kotlin compiler plugin that performs 'copy-erasure' on data classes.
+*   [aafanasev/sekret (⭐108)](https://github.com/aafanasev/sekret) - Kotlin compiler plugin to exclude secret properties from toString() of Data class
+*   [AhmedMourad0/no-copy (⭐150)](https://github.com/AhmedMourad0/no-copy) - A Kotlin compiler plugin that performs 'copy-erasure' on data classes.
 
 ### Libraries/Frameworks / Continuous Integration
 
-*   [danger/kotlin (⭐473)](https://github.com/danger/kotlin) - Stop saying "you forgot to …" in code review in Kotlin
+*   [danger/kotlin (⭐476)](https://github.com/danger/kotlin) - Stop saying "you forgot to …" in code review in Kotlin
 
 ### Libraries/Frameworks / Code Generators
 
@@ -295,15 +295,15 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Graphics
 
-*   [java-opengl-labs/Vulkan (⭐50)](https://github.com/java-opengl-labs/Vulkan) - port of [https://github.com/SaschaWillems/Vulkan (⭐9.4k)](https://github.com/SaschaWillems/Vulkan)
+*   [java-opengl-labs/Vulkan (⭐50)](https://github.com/java-opengl-labs/Vulkan) - port of [https://github.com/SaschaWillems/Vulkan (⭐9.5k)](https://github.com/SaschaWillems/Vulkan)
 *   [nwillc/ksvg (⭐78)](https://github.com/nwillc/ksvg) - Kotlin SVG image generation DSL, supporting inline and file formats.
-*   [markaren/three.kt (⭐200)](https://github.com/markaren/three.kt) - Kotlin port of three.js JavaScript 3D library
+*   [markaren/three.kt (⭐202)](https://github.com/markaren/three.kt) - Kotlin port of three.js JavaScript 3D library
 
 ### Libraries/Frameworks / Data Science
 
 *   [Kotlin for Data Science](https://kotlinlang.org/docs/reference/data-science-overview.html) - Kotlin for Data Science overview page
 *   [kiegroup/optaplanner](https://www.optaplanner.org/compatibility/kotlin.html) - Constraint solving AI for planning and scheduling problems.
-*   [breandan/kotlingrad (⭐502)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
+*   [breandan/kotlingrad (⭐504)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
 
 ### Libraries/Frameworks / Command Line Interface
 
@@ -680,7 +680,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### UI Libraries, Components & Templates
 
-*   💙📚 [Headless UI (⭐23k)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
+*   💙📚 [Headless UI (⭐24k)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
 
 ### Tools
 
@@ -798,11 +798,11 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Game Engine
 
-*   [nCine (⭐951)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
+*   [nCine (⭐956)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
 
 ### Robotics
 
-*   [YARP (Yet Another Robot Platform) (⭐487)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
+*   [YARP (Yet Another Robot Platform) (⭐488)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
 
 ## [45. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -1249,16 +1249,16 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Tools / Misc Tools
 
-*   [mitmproxy (⭐33k)](https://github.com/mitmproxy/mitmproxy)
+*   [mitmproxy (⭐34k)](https://github.com/mitmproxy/mitmproxy)
 *   [dockerfile/androguard (⭐38)](https://github.com/dweinstein/dockerfile-androguard)
 *   [Android Vulnerability Test Suite (⭐1k)](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
 *   [AppMon (⭐1.5k)](https://github.com/dpnishant/appmon)- AppMon is an automated framework for monitoring and tampering with system API calls of native macOS, iOS, and Android apps. It is based on Frida.
-*   [Internal Blue (⭐646)](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework based on Reverse Engineering of Broadcom Bluetooth Controllers
+*   [Internal Blue (⭐649)](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework based on Reverse Engineering of Broadcom Bluetooth Controllers
 *   ~~[Android Device Security Database](https://www.android-device-security.org/client/datatable) - Database of security features of Android devices~~
 
 ### Tools / Vulnerable Applications for practice
 
-*   [Damn Insecure Vulnerable Application (DIVA) (⭐889)](https://github.com/payatu/diva-android)
+*   [Damn Insecure Vulnerable Application (DIVA) (⭐894)](https://github.com/payatu/diva-android)
 *   [Vuldroid (⭐52)](https://github.com/jaiswalakshansh/Vuldroid)
 *   [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html)
 *   [GoatDroid (⭐235)](https://github.com/jackMannino/OWASP-GoatDroid-Project)
@@ -1446,7 +1446,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Threat Intelligence / Telegram
 
-*   [OnionScan (⭐2.6k)](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
+*   [OnionScan (⭐2.7k)](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
 
 ## [80. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -1558,21 +1558,17 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Editable data grid / spreadsheet
 
-*   [ReactGrid (⭐968)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
+*   [ReactGrid (⭐994)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
 
 ### Miscellaneous
 
-*   [react-advanced-news-ticker (⭐44)](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
+*   [react-advanced-news-ticker (⭐45)](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
 
 ### Miscellaneous / Lazy Load
 
-*   [component-controls (⭐77)](https://github.com/ccontrols/component-controls) - [demo](https://component-controls.com) - [docs](https://component-controls.com/tutorial) - A next-generation tool to create blazing-fast documentation sites.
+*   [component-controls (⭐78)](https://github.com/ccontrols/component-controls) - [demo](https://component-controls.com) - [docs](https://component-controls.com/tutorial) - A next-generation tool to create blazing-fast documentation sites.
 
 ## [89. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### APIs, Data, and ML
-
-*   [API Mocha](https://apimocha.com) - Completely free online API mocking for testing and prototyping.  Make up to 500 daily requests, fully customizable API responses, and download mock rules as a Postman collection.
 
 ### Issue Tracking and Project Management
 
@@ -1786,7 +1782,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Development tools / Services
 
-*   [deps.rs (⭐405)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
+*   [deps.rs (⭐408)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
 
 ## [97. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 

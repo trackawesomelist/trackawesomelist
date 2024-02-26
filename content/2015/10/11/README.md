@@ -97,7 +97,7 @@
 ### Logging
 
 *   [futile.logger (⭐150)](https://github.com/zatonovo/futile.logger) - A logging package in R similar to log4j
-*   [log4r (⭐89)](https://github.com/johnmyleswhite/log4r) - A log4j derivative for R
+*   [log4r (⭐90)](https://github.com/johnmyleswhite/log4r) - A log4j derivative for R
 *   [logging](https://cran.r-project.org/web/packages/logging/index.html) - A logging package emulating the python logging package.
 
 ## [12. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)

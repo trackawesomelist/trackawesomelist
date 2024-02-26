@@ -167,7 +167,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### CLI Builders
 
-*   [commander (⭐125)](https://github.com/mrrooijen/commander) - Command-line interface builder
+*   [commander (⭐124)](https://github.com/mrrooijen/commander) - Command-line interface builder
 
 ### Misc
 
@@ -175,11 +175,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Queues and Messaging
 
-*   [sidekiq.cr (⭐762)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
-
-### Web Frameworks
-
-*   [IRC](http://irc.lc/freenode/crystal-lang) - #crystal-lang on Freenode
+*   [sidekiq.cr (⭐764)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ## [15. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
@@ -648,11 +644,11 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Graphic Displays
 
-*   [ggtree (⭐772)](https://github.com/GuangchuangYu/ggtree) - Visualization and annotation of phylogenetic tree.
+*   [ggtree (⭐781)](https://github.com/GuangchuangYu/ggtree) - Visualization and annotation of phylogenetic tree.
 
 ### R Development
 
-*   [staticdocs (⭐688)](https://github.com/hadley/staticdocs) - Generate static html documentation for an R package.
+*   [staticdocs (⭐692)](https://github.com/hadley/staticdocs) - Generate static html documentation for an R package.
 
 ---
 

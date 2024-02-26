@@ -16,12 +16,12 @@
 
 ### Applications / Blockchain
 
-*   [beerus (⭐206)](https://github.com/eigerco/beerus) - Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ and powered by Rust 🦀 [![GitHub Workflow Status](https://github.com/eigerco/beerus/actions/workflows/test.yml/badge.svg)](https://github.com/eigerco/beerus/actions/workflows/test.yml)
+*   [beerus (⭐207)](https://github.com/eigerco/beerus) - Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ [![GitHub Workflow Status](https://github.com/eigerco/beerus/actions/workflows/test.yml/badge.svg)](https://github.com/eigerco/beerus/actions/workflows/test.yml)
 
 ### Libraries / Mobile
 
 *   Android / iOS
-    *   [owlmafia/rust\_android\_ios (⭐232)](https://github.com/owlmafia/rust_android_ios) — An example of using a shared Rust lib for Android and iOS using rust-swig and cbindgen respectively.
+    *   [owlmafia/rust\_android\_ios (⭐233)](https://github.com/owlmafia/rust_android_ios) — An example of using a shared lib for Android and iOS using rust-swig and cbindgen respectively.
 
 ## [3. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 

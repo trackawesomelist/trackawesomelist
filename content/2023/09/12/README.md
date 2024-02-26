@@ -16,13 +16,13 @@
 
 ### Assets
 
-*   [Shakapacker (⭐359)](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)
+*   [Shakapacker (⭐375)](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)
 
 ## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Project Layout
 
-*   [nunu (⭐992)](https://github.com/go-nunu/nunu) - Nunu is a scaffolding tool for building Go applications.
+*   [nunu (⭐1k)](https://github.com/go-nunu/nunu) - Nunu is a scaffolding tool for building Go applications.
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 

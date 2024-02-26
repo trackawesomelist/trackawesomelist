@@ -47,7 +47,7 @@
 
 ### Geolocation
 
-*   [geocoder (⭐115)](https://github.com/knrz/geocoder) - A simple, efficient geocoder/reverse geocoder with a built-in cache.
+*   [geocoder (⭐118)](https://github.com/knrz/geocoder) - A simple, efficient geocoder/reverse geocoder with a built-in cache.
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

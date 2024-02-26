@@ -72,11 +72,11 @@
 
 ### Job Scheduler
 
-*   [goflow (⭐241)](https://github.com/fieldryand/goflow) - A simple but powerful DAG scheduler and dashboard.
+*   [goflow (⭐249)](https://github.com/fieldryand/goflow) - A simple but powerful DAG scheduler and dashboard.
 
 ### Uncategorized
 
-*   [xz (⭐439)](https://github.com/ulikunitz/xz) - Pure golang package for reading and writing xz-compressed files.
+*   [xz (⭐441)](https://github.com/ulikunitz/xz) - Pure golang package for reading and writing xz-compressed files.
 
 ### HTTP Clients
 
@@ -171,7 +171,7 @@
 
 ### Related / Other
 
-*   [Awesome creative technology (⭐340)](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
+*   [Awesome creative technology (⭐367)](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
 
 ---
 

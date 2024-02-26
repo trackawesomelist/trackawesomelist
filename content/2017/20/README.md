@@ -418,7 +418,7 @@
 ### REST and API
 
 *   [accent (⭐38)](https://github.com/sticksnleaves/accent) - Plug for handling the conversion of JSON API keys to different cases.
-*   [versionary (⭐39)](https://github.com/sticksnleaves/versionary) - API versioning for Elixir Plug and Phoenix.
+*   [versionary (⭐40)](https://github.com/sticksnleaves/versionary) - API versioning for Elixir Plug and Phoenix.
 
 ## [38. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
@@ -604,7 +604,7 @@
 
 ### Database
 
-*   [SimDB (⭐495)](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store. \[Apache2]
+*   [SimDB (⭐496)](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store. \[Apache2]
 
 ## [42. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
@@ -635,7 +635,7 @@
 
 ### CLI Builders
 
-*   [clim (⭐118)](https://github.com/at-grandpa/clim) - Slim command line interface builder
+*   [clim (⭐119)](https://github.com/at-grandpa/clim) - Slim command line interface builder
 
 ## [46. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 

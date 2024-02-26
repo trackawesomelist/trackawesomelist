@@ -27,7 +27,7 @@
 
 ### Tools / Static Analysis Tools
 
-*   [Androwarn (⭐461)](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviors developed by an Android application.
+*   [Androwarn (⭐462)](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviors developed by an Android application.
 
 ### Tools / Dynamic Analysis Tools
 
@@ -68,7 +68,7 @@
 
 ### Data Visualization
 
-*   [ApexCharts.rb (⭐468)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
+*   [ApexCharts.rb (⭐471)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
 
 ## [8. Awesome D3](/content/wbkd/awesome-d3/README.md)
 

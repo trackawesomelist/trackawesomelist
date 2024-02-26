@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 06, 2024
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -19,54 +19,43 @@
 *   [Reference](https://api.playcanvas.com/) - API reference manual for the engine run-time.
 *   [User Manual](https://developer.playcanvas.com/user-manual/) - PlayCanvas user guide.
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-*   [JetBrains/kotlin-examples (⭐3.2k)](https://github.com/JetBrains/kotlin-examples) - Various examples for Kotlin.
-
-## [4. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [3. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Blogs - Security / React
 
 *   [Authorization Patterns in GraphQL](https://www.osohq.com/post/graphql-authorization)
 
-## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Marks / Diagnostics
 
-*   [LintaoAmons/bookmarks.nvim (⭐12)](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful.
+*   [LintaoAmons/bookmarks.nvim (⭐32)](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful.
 
-## [6. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Web
 
 *   [Static Web Server](https://static-web-server.net/) - A cross-platform, high-performance, and asynchronous web server for static file serving. ([Source Code (⭐1k)](https://github.com/static-web-server/static-web-server)) `Apache-2.0/MIT` `Rust/Docker`
 
-## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### GUI
 
 *   [Another Redis Desktop Manager (⭐28k)](https://github.com/qishibo/AnotherRedisDesktopManager) - Free Open Source Redis Manager. Available on Mac, Linux, Windows, Homebrew, Snap, winget, and more.
 
-## [8. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [7. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Monitoring
 
 *   [Highlight.io](https://www.highlight.io/) - Full-stack monitoring platform. [![Highlight.io](https://img.shields.io/github/stars/highlight/highlight?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/highlight/highlight)
 
-## [9. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+## [8. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Profiling / Data Profiler
 
 *   [Data Profiler (⭐1.3k)](https://github.com/capitalone/dataprofiler) - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
 
-## [10. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
+## [9. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
 
 ### Learning Resources / Introductions to AI
 

@@ -20,7 +20,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [unicorn (⭐1)](https://github.com/juliuscaesar/unicorn) - Includes decorators for root status, virtualenv, nvm, rvm, current directory, the time, current directory and emoji `git` information. Inspired by [wild cherry (⭐476)](https://github.com/mashaal/wild-cherry).
+*   [unicorn (⭐1)](https://github.com/juliuscaesar/unicorn) - Includes decorators for root status, virtualenv, nvm, rvm, current directory, the time, current directory and emoji `git` information. Inspired by [wild cherry (⭐475)](https://github.com/mashaal/wild-cherry).
 
 ## [3. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 

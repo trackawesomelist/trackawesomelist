@@ -28,29 +28,29 @@
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [efectn/fiber-boilerplate (⭐69)](https://github.com/efectn/fiber-boilerplate) - Simple and scalable boilerplate to build powerful and organized REST projects with Fiber.
+*   [efectn/fiber-boilerplate (⭐72)](https://github.com/efectn/fiber-boilerplate) - Simple and scalable boilerplate to build powerful and organized REST projects with Fiber.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Operating systems
 
-*   [theseus-os/Theseus (⭐2.7k)](https://github.com/theseus-os/Theseus) — A safe-language, single address space and single privilege level OS written from scratch in pure Rust - [![build badge](https://img.shields.io/github/workflow/status/theseus-os/Theseus/Documentation?label=docs%20build)](https://www.theseus-os.com/Theseus/book/index.html)
+*   [theseus-os/Theseus (⭐2.7k)](https://github.com/theseus-os/Theseus) — A safe-language, single address space and single privilege level OS written from scratch - [![build badge](https://img.shields.io/github/workflow/status/theseus-os/Theseus/Documentation?label=docs%20build)](https://www.theseus-os.com/Theseus/book/index.html)
 
 ## [6. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### Other plugins
 
-*   [Document Scanner (⭐39)](https://github.com/websitebeaver/capacitor-document-scanner) - Scan documents (notes, homework, business cards, receipts, or anything with a rectangular shape).
+*   [Document Scanner (⭐45)](https://github.com/websitebeaver/capacitor-document-scanner) - Scan documents (notes, homework, business cards, receipts, or anything with a rectangular shape).
 
 ## [7. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Templates
 
-*   [tailwindcss-yew-template (⭐13)](https://github.com/vvcaw/tailwindcss-yew-template) - Simple layout for using Tailwindcss with Yew.
+*   [tailwindcss-yew-template (⭐14)](https://github.com/vvcaw/tailwindcss-yew-template) - Simple layout for using Tailwindcss with Yew.
 
 ### Crates / Utils
 
-*   [yew\_icons (⭐31)](https://github.com/finnbear/yew_icons) - Easily include a variety of svg icons(Feather/Font Awesome/Octicons) into your Yew app.
+*   [yew\_icons (⭐34)](https://github.com/finnbear/yew_icons) - Easily include a variety of svg icons(Feather/Font Awesome/Octicons) into your Yew app.
 
 ---
 

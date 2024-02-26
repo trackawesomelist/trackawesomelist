@@ -40,7 +40,7 @@
 
 ### Security
 
-*   [Password Cracking (⭐412)](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
+*   [Password Cracking (⭐430)](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
 
 ## [7. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 

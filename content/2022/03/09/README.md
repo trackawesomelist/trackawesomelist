@@ -16,7 +16,7 @@
 
 ### Go Tools / Libraries for creating HTTP middlewares
 
-*   [gotestdox (⭐79)](https://github.com/bitfield/gotestdox) - Show Go test results as readable sentences.
+*   [gotestdox (⭐80)](https://github.com/bitfield/gotestdox) - Show Go test results as readable sentences.
 
 ## [3. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Plugins
 
-*   🧬 [FormKit (⭐3.8k)](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
+*   🧬 [FormKit (⭐3.9k)](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
 
 ## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-live-reload (⭐77)](https://github.com/arnoson/vite-plugin-live-reload) - Live reloading.
+*   [vite-plugin-live-reload (⭐79)](https://github.com/arnoson/vite-plugin-live-reload) - Live reloading.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Contents / Libraries
 
-*   [TorchXRayVision (⭐687)](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
+*   [TorchXRayVision (⭐797)](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
 
 ## [13. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 

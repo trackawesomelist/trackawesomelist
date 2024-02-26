@@ -22,11 +22,11 @@
 
 ### Cloud Infrastructure and Management
 
-*   [aws (⭐491)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
+*   [aws (⭐501)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
 
 ### Framework Components
 
-*   [phoenix\_meta\_tags (⭐28)](https://github.com/hlongvu/phoenix_meta_tags) - Generate meta tags for a website.
+*   [phoenix\_meta\_tags (⭐29)](https://github.com/hlongvu/phoenix_meta_tags) - Generate meta tags for a website.
 
 ### Games
 
@@ -38,7 +38,7 @@
 
 ### Office
 
-*   [elixlsx (⭐255)](https://github.com/xou/elixlsx) - A writer for XLSX files.
+*   [elixlsx (⭐258)](https://github.com/xou/elixlsx) - A writer for XLSX files.
 
 ### Security
 
@@ -104,7 +104,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [QS Ledger (⭐908)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
+*   [QS Ledger (⭐950)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
 
 ---
 

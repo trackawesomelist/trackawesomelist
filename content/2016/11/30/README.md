@@ -387,7 +387,6 @@
 *   [OpinionCrawl](http://www.opinioncrawl.com)
 *   [Rival IQ](https://www.rivaliq.com)
 *   [SocialBakers](http://www.socialbakers.com)
-*   [SociaBlade](http://socialblade.com)
 *   [Social DownORNot](http://social.downornot.com)
 *   [Social Searcher](http://www.social-searcher.com)
 *   [Tagboard](https://tagboard.com)
@@ -459,7 +458,7 @@
 *   [Agora Pulse](http://barometer.agorapulse.com)
 *   [Fanpage Karma](http://www.fanpagekarma.com)
 *   [Facebook Search](http://search.fb.com/)
-*   [Fb-sleep-stats (⭐1.5k)](https://github.com/sqren/fb-sleep-stats)
+*   [Fb-sleep-stats (⭐1.6k)](https://github.com/sqren/fb-sleep-stats)
 *   [Lookup-ID.com](https://lookup-id.com)
 *   [SearchIsBack](https://searchisback.com)
 *   [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
@@ -795,7 +794,7 @@
 *   [Circos](http://circos.ca)
 *   [creately](http://creately.com)
 *   [Crossfilter](http://square.github.io/crossfilter)
-*   [csvkit (⭐5.6k)](https://github.com/wireservice/csvkit)
+*   [csvkit (⭐5.7k)](https://github.com/wireservice/csvkit)
 *   [Data Visualization Catalogue](http://datavizcatalogue.com)
 *   [Datawrapper](https://datawrapper.de)
 *   [Dropmark](http://www.dropmark.com)
@@ -836,7 +835,7 @@
 *   [Textures.js](https://riccardoscalco.github.io/textures)
 *   [Tiki-toki](http://www.tiki-toki.com)
 *   [Tik-tok](https://datanews.github.io/tik-tok)
-*   [Timeflow (⭐447)](https://github.com/FlowingMedia/TimeFlow/wiki)
+*   [Timeflow (⭐449)](https://github.com/FlowingMedia/TimeFlow/wiki)
 *   [Timeglider](http://timeglider.com/widget)
 *   [Timeline](http://timeline.knightlab.com)
 *   [Timeline](http://www.simile-widgets.org/timeline)
@@ -935,7 +934,7 @@
 ### Offline Browsing / Telegram
 
 *   [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
-*   [gmapcatcher (⭐201)](https://github.com/heldersepu/gmapcatcher)
+*   [gmapcatcher (⭐208)](https://github.com/heldersepu/gmapcatcher)
 *   [Hooey webprint](http://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
 *   [Offliberty](http://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
 *   [Resolver](https://metaproductsrevolver.com)

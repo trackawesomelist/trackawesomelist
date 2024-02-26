@@ -37,7 +37,7 @@
 
 ### Caching
 
-*   [Garner (⭐347)](https://github.com/artsy/garner) - A set of Rack middleware and cache helpers that implement various caching strategies.
+*   [Garner (⭐346)](https://github.com/artsy/garner) - A set of Rack middleware and cache helpers that implement various caching strategies.
 *   [Record Cache (⭐145)](https://github.com/orslumen/record-cache) - Cache Active Model Records in Rails 3.
 
 ### Core Extensions
@@ -51,14 +51,14 @@
 
 ### Git Tools
 
-*   [Overcommit (⭐3.8k)](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager.
+*   [Overcommit (⭐3.9k)](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager.
 
 ### Scientific
 
 *   Data analysis/structures
     *   [daru (⭐1k)](https://github.com/v0dro/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
-    *   [Daru::View (⭐89)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
-    *   [Rgl (⭐401)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
+    *   [Daru::View (⭐90)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
+    *   [Rgl (⭐404)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
 
 ## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

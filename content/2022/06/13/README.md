@@ -71,7 +71,7 @@
 
 ### Networking
 
-*   [SNMP (⭐63)](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
+*   [SNMP (⭐68)](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
 
 ## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Debug
 
-*   [Touca (⭐466)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
+*   [Touca (⭐471)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
 
 ## [12. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 

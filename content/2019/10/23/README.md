@@ -43,48 +43,47 @@
 
 ### Shells
 
-*   [ksh93 (⭐503)](https://github.com/att/ast) - Korn Shell
-*   [mksh (⭐189)](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
-*   [oksh (⭐313)](https://github.com/ibara/oksh) - Portable OpenBSD ksh
+*   [ksh93 (⭐520)](https://github.com/att/ast) - Korn Shell
+*   [mksh (⭐190)](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
+*   [oksh (⭐330)](https://github.com/ibara/oksh) - Portable OpenBSD ksh
 *   [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) - Public domain Korn shell
-*   [shell++ (⭐139)](https://github.com/alexst07/shell-plus-plus) - Friendly and modern functional and object oriented shell script language
+*   [shell++ (⭐141)](https://github.com/alexst07/shell-plus-plus) - Friendly and modern functional and object oriented shell script language
 *   [tcsh](https://www.tcsh.org/) - C shell with file name completion and command line editing
 *   [xonsh](https://xon.sh) - Python-ish, BASHwards-looking shell language and command prompt
 
 ### Command-Line Productivity
 
-*   [autoenv (⭐5.4k)](https://github.com/inishchith/autoenv) - Directory-based environments
 *   [browsh (⭐16k)](https://github.com/browsh-org/browsh) - The modern text-based browser
-*   [googlr (⭐40)](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
-*   [mcfly (⭐5.5k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scot!
-*   [sqlline (⭐593)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
-*   [td-cli (⭐177)](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
+*   [googlr (⭐42)](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
+*   [mcfly (⭐6.4k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scot!
+*   [sqlline (⭐598)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
+*   [td-cli (⭐182)](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
 
 ### Command-Line Productivity / Directory Navigation
 
-*   [z.lua (⭐2.8k)](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits
+*   [z.lua (⭐2.9k)](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits
 
 ### For Developers / Directory Navigation
 
 *   [ack](https://beyondgrep.com/) - A grep-like search tool optimized for source code.
-*   [bitwise (⭐584)](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
-*   [forgit (⭐4.1k)](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder fzf.
-*   [overcommit (⭐3.8k)](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
-*   [wipe-modules (⭐339)](https://github.com/bntzio/wipe-modules) - A little agent that removes the node\_modules folder of non-active projects
+*   [bitwise (⭐600)](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
+*   [forgit (⭐4.2k)](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder fzf.
+*   [overcommit (⭐3.9k)](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
+*   [wipe-modules (⭐341)](https://github.com/bntzio/wipe-modules) - A little agent that removes the node\_modules folder of non-active projects
 
 ### System Utilities / Directory Navigation
 
-*   [bat (⭐44k)](https://github.com/sharkdp/bat) - A `cat` clone with wings
+*   [bat (⭐45k)](https://github.com/sharkdp/bat) - A `cat` clone with wings
 *   [exa (⭐23k)](https://github.com/ogham/exa) - A modern version of `ls`.
-*   [nmtui (⭐314)](https://github.com/NetworkManager/NetworkManager) - Text User Interface for controlling NetworkManager
+*   [nmtui (⭐334)](https://github.com/NetworkManager/NetworkManager) - Text User Interface for controlling NetworkManager
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [jo (⭐4.5k)](https://github.com/jpmens/jo) - A small utility to create JSON objects from command-line arguments.
+*   [jo (⭐4.6k)](https://github.com/jpmens/jo) - A small utility to create JSON objects from command-line arguments.
 
 ### Applications / Directory Navigation
 
-*   [jrnl (⭐6.1k)](https://github.com/jrnl-org/jrnl) - A simple command line journal application that stores your journal in a plain text file
+*   [jrnl (⭐6.2k)](https://github.com/jrnl-org/jrnl) - A simple command line journal application that stores your journal in a plain text file
 
 ### Shell Package Management / Directory Navigation
 
@@ -92,9 +91,9 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bashful (⭐587)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
-*   [Bashlets (⭐67)](https://github.com/reale/bashlets) - A modular extensible toolbox for Bash
-*   [Fishtape (⭐328)](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
+*   [bashful (⭐591)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
+*   [Bashlets (⭐70)](https://github.com/reale/bashlets) - A modular extensible toolbox for Bash
+*   [Fishtape (⭐339)](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
 
 ## [7. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 

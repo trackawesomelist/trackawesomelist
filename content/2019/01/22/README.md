@@ -549,7 +549,7 @@
 
 ### Languages
 
-*   [Elchemy (⭐1.2k)](https://github.com/wende/elchemy) - Compiler allowing to translate Elm programming language code to Elixir.
+*   [Elchemy (⭐1.1k)](https://github.com/wende/elchemy) - Compiler allowing to translate Elm programming language code to Elixir.
 
 ## [7. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

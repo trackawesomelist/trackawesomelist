@@ -71,7 +71,7 @@
 ### Table of Contents / Testing
 
 *   [Mink](https://mink.behat.org/en/latest/) - Web acceptance testing.
-*   [Phake (⭐480)](https://github.com/phake/phake) - Another mock object library for testing.
+*   [Phake (⭐479)](https://github.com/phake/phake) - Another mock object library for testing.
 
 ### Table of Contents / Continuous Integration
 
@@ -88,10 +88,6 @@
 ### Table of Contents / Architectural
 
 *   [Design Patterns PHP (⭐22k)](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - A repository of software patterns implemented in PHP.
-
-### Table of Contents / Debugging and Profiling
-
-*   [Blackfire.io](https://www.blackfire.io) - A low-overhead code profiler.
 
 ### Table of Contents / Asset Management
 
@@ -112,7 +108,7 @@
 
 ### Configuration / Extensions
 
-*   [Zephir (⭐3.2k)](https://github.com/zephir-lang/zephir) - A compiled language between PHP and C++ for developing PHP extensions.
+*   [Zephir (⭐3.3k)](https://github.com/zephir-lang/zephir) - A compiled language between PHP and C++ for developing PHP extensions.
 
 ### Configuration / Infrastructure
 
@@ -141,23 +137,23 @@
 
 ### Platforms
 
-*   [Capacitor (⭐391)](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
+*   [Capacitor (⭐403)](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
 
 ### Programming Languages
 
-*   [Zig (⭐276)](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+*   [Zig (⭐291)](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ### Computer Science
 
-*   [Conversational AI (⭐131)](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
+*   [Conversational AI (⭐139)](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
 
 ### Theory
 
-*   [Audit Algorithms (⭐77)](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - Algorithmic audits of algorithms.
+*   [Audit Algorithms (⭐79)](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - Algorithmic audits of algorithms.
 
 ### Content Management Systems
 
-*   [Directus (⭐387)](https://github.com/directus-community/awesome-directus#readme) - A real-time API and app dashboard for managing SQL database content.
+*   [Directus (⭐422)](https://github.com/directus-community/awesome-directus#readme) - A real-time API and app dashboard for managing SQL database content.
 
 ## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -178,7 +174,7 @@
 
 ### Libraries/Frameworks / Validation
 
-*   [konform-kt/konform (⭐605)](https://github.com/konform-kt/konform) - Multiplatform validations for Kotlin data classes
+*   [konform-kt/konform (⭐608)](https://github.com/konform-kt/konform) - Multiplatform validations for Kotlin data classes
 
 ### Libraries/Frameworks / Misc
 
@@ -200,7 +196,7 @@
 
 ### Software / Vector Creation
 
-*   [linedraw (⭐724)](https://github.com/LingDong-/linedraw) - Python tool to convert images to sketchy vector line drawings.
+*   [linedraw (⭐729)](https://github.com/LingDong-/linedraw) - Python tool to convert images to sketchy vector line drawings.
 
 ### Manuals and Ephemera / Manuals
 

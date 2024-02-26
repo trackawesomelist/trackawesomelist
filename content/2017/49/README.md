@@ -231,7 +231,7 @@
 
 ### View helpers
 
-*   [auto\_html (⭐784)](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...).
+*   [auto\_html (⭐786)](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...).
 
 ## [22. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -316,7 +316,7 @@
 
 ### Examples and funny stuff
 
-*   [real world example app (⭐888)](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) - Elixir / Phoenix implementation of [RealWorld.io](https://realworld.io/) backend specs - a Medium clone.
+*   [real world example app (⭐889)](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) - Elixir / Phoenix implementation of [RealWorld.io](https://realworld.io/) backend specs - a Medium clone.
 
 ## [33. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -344,7 +344,7 @@
 
 ### Contents / Imaging
 
-*   [Papaya (⭐494)](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer.
+*   [Papaya (⭐519)](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer.
 
 ## [36. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
@@ -419,7 +419,7 @@
 *   [alpaka (⭐4)](https://github.com/ComputationalRadiationPhysics/alpaka) - Abstraction library for parallel kernel acceleration. \[LGPLv3+]
 *   [concurrentqueue (⭐8.6k)](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
 *   [cupla (⭐4)](https://github.com/ComputationalRadiationPhysics/cupla) - C++ API to run CUDA/C++ on OpenMP, Threads, TBB, ... through Alpaka. \[LGPLv3+]
-*   [readerwriterqueue (⭐3.3k)](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
+*   [readerwriterqueue (⭐3.4k)](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
 
 ### GUI
 

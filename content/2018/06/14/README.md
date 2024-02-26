@@ -70,7 +70,7 @@
 
 ### Apps / StreamField
 
-*   [Wagtail Code Block (⭐141)](https://github.com/FlipperPA/wagtailcodeblock) - StreamField code blocks for the Wagtail CMS with real-time PrismJS Syntax Highlighting.
+*   [Wagtail Code Block (⭐143)](https://github.com/FlipperPA/wagtailcodeblock) - StreamField code blocks for the Wagtail CMS with real-time PrismJS Syntax Highlighting.
 
 ### Apps / Misc
 

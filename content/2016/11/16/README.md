@@ -97,14 +97,13 @@
 
 ### Web Programming • Libraries
 
-*   [regl (⭐5k)](https://github.com/regl-project/regl) - Functional WebGL.
+*   [regl (⭐5.1k)](https://github.com/regl-project/regl) - Functional WebGL.
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
 *   [Shaders: A primer](https://notes.underscorediscovery.com/shaders-a-primer/) - A primer on shaders.
 *   [Shaders: Second stage](https://notes.underscorediscovery.com/shaders-second-stage/) - The second part to the previous.
-*   [WebGL Lessons — Fragment Shaders (⭐306)](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
-*   [Ray Marching and Signed Distance Functions](http://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing) - Introduction to ray tracing.
+*   [WebGL Lessons — Fragment Shaders (⭐308)](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
 *   [Introduction to Ray Tracing](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - A simple method for creating 3D images.
 
 ### Interactive / Other

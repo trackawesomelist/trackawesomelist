@@ -16,7 +16,7 @@
 
 ### Libraries
 
-*   [react-on-lambda (⭐259)](https://github.com/sultan99/react-on-lambda) - Replace JSX in React with functions (currying, compositions and etc).
+*   [react-on-lambda (⭐260)](https://github.com/sultan99/react-on-lambda) - Replace JSX in React with functions (currying, compositions and etc).
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

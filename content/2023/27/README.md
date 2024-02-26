@@ -207,7 +207,7 @@
 ### Tools / Community providers
 
 *   [tfgpt (⭐70)](https://github.com/flavius-dinu/tfgpt) - A CLI tool that integrates Terraform with OpenAI's GPT-3.5 Turbo to provide explanations for Terraform commands and concepts.
-*   [tfvar (⭐189)](https://github.com/shihanng/tfvar) - tfvar scans your Terraform configurations or modules and extracts the variables into formats of your choice (tfvar, environment variables, etc.) for editing.
+*   [tfvar (⭐191)](https://github.com/shihanng/tfvar) - tfvar scans your Terraform configurations or modules and extracts the variables into formats of your choice (tfvar, environment variables, etc.) for editing.
 
 ## [4. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
@@ -264,7 +264,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [podiscover (⭐19)](https://github.com/enderahmetyurt/podiscover) - An open source social media platform to discover new podcasts. (using Rails 7.0) - [:earth\_africa:](https://www.podiscover.me)
+*   [podiscover (⭐20)](https://github.com/enderahmetyurt/podiscover) - An open source social media platform to discover new podcasts. (using Rails 7.0) - [:earth\_africa:](https://www.podiscover.me)
 
 ## [8. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
@@ -276,11 +276,11 @@
 
 ### Resources / Blog posts
 
-*   [EDA with Polars: Step-by-Step Guide for Pandas Users (Part 1)](https://towardsdatascience.com/eda-with-polars-step-by-step-guide-for-pandas-users-part-1-b2ec500a1008) - A blog post that describes the main data processing operations with Polars in Python by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available in [this notebook (⭐36)](https://github.com/aruberts/tutorials/blob/main/polars/basics.ipynb).
+*   [EDA with Polars: Step-by-Step Guide for Pandas Users (Part 1)](https://towardsdatascience.com/eda-with-polars-step-by-step-guide-for-pandas-users-part-1-b2ec500a1008) - A blog post that describes the main data processing operations with Polars in Python by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available in [this notebook (⭐38)](https://github.com/aruberts/tutorials/blob/main/polars/basics.ipynb).
 
 ### Resources / Talks and videos
 
-*   [How to update mass data using Polars DataFrame](https://www.youtube.com/watch?v=ivJSk6JLWBQ) ⏳ `9 min` - A video that presents the process of writing code to update mass columns across CSV or data files by [@AmitXShukla](https://github.com/AmitXShukla). Notebook used for the video [in this github repo (⭐20)](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb).
+*   [How to update mass data using Polars DataFrame](https://www.youtube.com/watch?v=ivJSk6JLWBQ) ⏳ `9 min` - A video that presents the process of writing code to update mass columns across CSV or data files by [@AmitXShukla](https://github.com/AmitXShukla). Notebook used for the video [in this github repo (⭐21)](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb).
 
 ## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -358,10 +358,6 @@
 ### Testing
 
 *   [Apptim](https://apptim.com) — A mobile testing tool that enables people without performance engineering skills to evaluate an app's performance and user experience (UX). A desktop version using your own device is 100% FREE, with unlimited tests on both iOS and Android.
-
-### Email
-
-*   [Skiff](https://skiff.com/)- Open source, end-to-end encrypted anonymous email service, no additional details asked at signup, free 10GB drive storage, one custom domain for your own website, free four aliases for your email address per account. Additional Crypto Wallet support for the E2EE environment.
 
 ### Managed Data Services
 
@@ -464,22 +460,22 @@
 
 ### Templates / Vanilla
 
-*   [vite-tinybase (⭐2)](https://github.com/tinyplex/vite-tinybase) - Starter template for TinyBase.
-*   [vite-tinybase-ts (⭐6)](https://github.com/tinyplex/vite-tinybase-ts) - Starter template for TinyBase and TypeScript.
+*   [vite-tinybase (⭐3)](https://github.com/tinyplex/vite-tinybase) - Starter template for TinyBase.
+*   [vite-tinybase-ts (⭐7)](https://github.com/tinyplex/vite-tinybase-ts) - Starter template for TinyBase and TypeScript.
 
 ### Templates / Vue 3
 
-*   [antdv-pro (⭐488)](https://github.com/antdv-pro/antdv-pro) - AntdvPro is a complete set of enterprise-level mid-backend front-end/design solutions based on Vue3, Vite4, ant-design-vue4, Pinia, UnoCSS and Typescript.
+*   [antdv-pro (⭐517)](https://github.com/antdv-pro/antdv-pro) - AntdvPro is a complete set of enterprise-level mid-backend front-end/design solutions based on Vue3, Vite4, ant-design-vue4, Pinia, UnoCSS and Typescript.
 
 ### Templates / React
 
-*   [create-react-app-vite (⭐110)](https://github.com/laststance/create-react-app-vite) - React, TypeScript, TailwindCSS, MSW, Vitest, React Testing Library, ESLint, Prettier, GitHub Actions.
-*   [vite-tinybase-react (⭐2)](https://github.com/tinyplex/vite-tinybase-react) - Starter template for TinyBase and React.
+*   [create-react-app-vite (⭐111)](https://github.com/laststance/create-react-app-vite) - React, TypeScript, TailwindCSS, MSW, Vitest, React Testing Library, ESLint, Prettier, GitHub Actions.
+*   [vite-tinybase-react (⭐3)](https://github.com/tinyplex/vite-tinybase-react) - Starter template for TinyBase and React.
 *   [vite-tinybase-ts-react (⭐6)](https://github.com/tinyplex/vite-tinybase-ts-react) - Starter template for TinyBase, TypeScript, and React.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@spiriit/vite-plugin-svg-spritemap (⭐22)](https://github.com/SpiriitLabs/vite-plugin-svg-spritemap) - Pack your SVG files in one spritemap file and use them with `<svg>`/`<img>` and directly in your CSS.
+*   [@spiriit/vite-plugin-svg-spritemap (⭐26)](https://github.com/SpiriitLabs/vite-plugin-svg-spritemap) - Pack your SVG files in one spritemap file and use them with `<svg>`/`<img>` and directly in your CSS.
 *   [vite-plugin-auto-mpa-html (⭐3)](https://github.com/iamspark1e/vite-plugin-auto-mpa-html) - A file directory-based automated multi-page build plugin that supports HTML templates using EJS.
 
 ### Framework-agnostic Plugins / Loaders
@@ -488,7 +484,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-css-injected-by-js (⭐308)](https://github.com/marco-prontera/vite-plugin-css-injected-by-js) - Takes the CSS and adds it to the page through the JS.
+*   [vite-plugin-css-injected-by-js (⭐319)](https://github.com/marco-prontera/vite-plugin-css-injected-by-js) - Takes the CSS and adds it to the page through the JS.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -496,7 +492,7 @@
 
 ### Vue / Routing
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-vue-router (⭐1.1k)](https://github.com/posva/unplugin-vue-router) - Official experimental file based routing.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-vue-router (⭐1.2k)](https://github.com/posva/unplugin-vue-router) - Official experimental file based routing.
 
 ### Vue / Helpers
 
@@ -578,15 +574,15 @@
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [Sympa](https://www.sympa.community/) - Mailing list manager. ([Source Code (⭐223)](https://github.com/sympa-community/sympa)) `GPL-2.0` `Perl`
+*   [Sympa](https://www.sympa.community/) - Mailing list manager. ([Source Code (⭐222)](https://github.com/sympa-community/sympa)) `GPL-2.0` `Perl`
 
 ### Software / Miscellaneous
 
-*   [GO Feature Flag](https://gofeatureflag.org) - Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly). ([Source Code (⭐977)](https://github.com/thomaspoignant/go-feature-flag)) `MIT` `Go`
+*   [GO Feature Flag](https://gofeatureflag.org) - Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly). ([Source Code (⭐1k)](https://github.com/thomaspoignant/go-feature-flag)) `MIT` `Go`
 
 ### Software / Pastebins
 
-*   [YABin (⭐106)](https://github.com/Yureien/YABin) - A pastebin that contains plentiful features while remaining simple. Supports optional E2E encryption, a client-side CLI app, syntax highlighting, minimalistic UI, APIs, keyboard shortcuts, and more. It can even be run in serverless environments. ([Demo](https://bin.sohamsen.me/)) `MIT` `Nodejs/Docker`
+*   [YABin (⭐108)](https://github.com/Yureien/YABin) - A pastebin that contains plentiful features while remaining simple. Supports optional E2E encryption, a client-side CLI app, syntax highlighting, minimalistic UI, APIs, keyboard shortcuts, and more. It can even be run in serverless environments. ([Demo](https://bin.sohamsen.me/)) `MIT` `Nodejs/Docker`
 
 ### Software / Proxy
 
@@ -594,7 +590,7 @@
 
 ### Software / Remote Access
 
-*   [httprd (⭐48)](https://github.com/bitrate16/httprd) - Single-script remote desktop via web browser. `GPL-3.0` `Python`
+*   [httprd (⭐52)](https://github.com/bitrate16/httprd) - Single-script remote desktop via web browser. `GPL-3.0` `Python`
 
 ## [31. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
@@ -741,10 +737,10 @@
 ### DSP
 
 *   [DSPFilters (⭐1.7k)](https://github.com/vinniefalco/DSPFilters) - A collection of useful C++ classes for digital signal processing. \[MIT]
-*   [iir1 (⭐557)](https://github.com/berndporr/iir1) - IIR Realtime C++ filter library. \[MIT]
+*   [iir1 (⭐558)](https://github.com/berndporr/iir1) - IIR Realtime C++ filter library. \[MIT]
 *   [kissfft (⭐1.3k)](https://github.com/mborgerding/kissfft) - A Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid. \[BSD-3-Clause]
 *   [pocketfft (⭐47)](https://github.com/mreineck/pocketfft) - FFT implementation based on FFTPack, but with several improvements. \[BSD-3-Clause]
-*   [wavelib (⭐320)](https://github.com/rafat/wavelib) - C implementation of 1D and 2D wavelet transforms. \[BSD-3-Clause]
+*   [wavelib (⭐322)](https://github.com/rafat/wavelib) - C implementation of 1D and 2D wavelet transforms. \[BSD-3-Clause]
 
 ### Inter-process communication
 
@@ -754,15 +750,15 @@
 
 ### Applications / Graphics
 
-*   [rustq/vue-skia (⭐188)](https://github.com/rustq/vue-skia) — Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [rustq/vue-skia (⭐189)](https://github.com/rustq/vue-skia) — Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
 
 ### Libraries / Data visualization
 
-*   [blitzarx1/egui\_graphs (⭐259)](https://github.com/blitzarx1/egui_graphs) - \[[egui\_graphs](https://crates.io/crates/egui_graphs)] - Interactive graph visualization widget for rust powered by egui and petgraph. [![Crates.io](https://img.shields.io/crates/v/egui_graphs)](https://crates.io/crates/egui_graphs) [![docs.rs](https://img.shields.io/docsrs/egui_graphs)](https://docs.rs/egui_graphs)
+*   [blitzarx1/egui\_graphs (⭐268)](https://github.com/blitzarx1/egui_graphs) - \[[egui\_graphs](https://crates.io/crates/egui_graphs)] - Interactive graph visualization widget powered by egui and petgraph. [![Crates.io](https://img.shields.io/crates/v/egui_graphs)](https://crates.io/crates/egui_graphs) [![docs.rs](https://img.shields.io/docsrs/egui_graphs)](https://docs.rs/egui_graphs)
 
 ### Libraries / Finance
 
-*   [d-e-s-o/apca (⭐108)](https://github.com/d-e-s-o/apca) \[[apca](https://crates.io/crates/apca)] — Opinionated and comprehensive bindings to the [Alpaca API](https://alpaca.markets/) for stock trading and more. ![GitHub Workflow Status](https://github.com/d-e-s-o/apca/actions/workflows/test.yml/badge.svg?branch=main)
+*   [d-e-s-o/apca (⭐109)](https://github.com/d-e-s-o/apca) \[[apca](https://crates.io/crates/apca)] — Opinionated and comprehensive bindings to the [Alpaca API](https://alpaca.markets/) for stock trading and more. ![GitHub Workflow Status](https://github.com/d-e-s-o/apca/actions/workflows/test.yml/badge.svg?branch=main)
 
 ### Libraries / Scripting
 
@@ -800,19 +796,19 @@
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [wolfia-app/gpt-code-search (⭐173)](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
+*   [wolfia-app/gpt-code-search (⭐175)](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
 
 ## [44. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf (unixorn) (⭐227)](https://github.com/unixorn/fzf-zsh-plugin/) - Enables [fzf (⭐57k)](https://github.com/junegunn/fzf) history and file searches.
-*   [fzf-tools (⭐7)](https://github.com/happycod3r/fzf-tools) - Provides functions, aliases and key-bindings for commands such as `alias`, `find`, `ls`, `man`, `printenv` that are designed to enhance your command-line workflow by making them to default to filtering through [fzf (⭐57k)](https://github.com/junegunn/fzf), allowing you to quickly find files, search & run commands from history, run scripts of many supported types, browse `git` commits, and more.
+*   [fzf (unixorn) (⭐237)](https://github.com/unixorn/fzf-zsh-plugin/) - Enables [fzf (⭐58k)](https://github.com/junegunn/fzf) history and file searches.
+*   [fzf-tools (⭐7)](https://github.com/happycod3r/fzf-tools) - Provides functions, aliases and key-bindings for commands such as `alias`, `find`, `ls`, `man`, `printenv` that are designed to enhance your command-line workflow by making them to default to filtering through [fzf (⭐58k)](https://github.com/junegunn/fzf), allowing you to quickly find files, search & run commands from history, run scripts of many supported types, browse `git` commits, and more.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [agnoster-multiline (⭐0)](https://github.com/mxkrsv/agnoster-multiline) - Based on [Agnoster (⭐3.8k)](https://github.com/agnoster/agnoster-zsh-theme). Includes decorators for current directory and `git` status. Requires a font with powerline and `git` glyphs. Automatically disables non-ascii glyphs on linux ttys.
-*   [bira (⭐1)](https://github.com/zimfw/bira) - Fork of Oh-My-ZSH [bira (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme. Includes decorators for working directory, username\@host, `git` status information, Python [venv](https://docs.python.org/3/library/venv.html) and a status code when the last command had an error.
+*   [agnoster-multiline (⭐0)](https://github.com/mxkrsv/agnoster-multiline) - Based on [Agnoster (⭐3.9k)](https://github.com/agnoster/agnoster-zsh-theme). Includes decorators for current directory and `git` status. Requires a font with powerline and `git` glyphs. Automatically disables non-ascii glyphs on linux ttys.
+*   [bira (⭐1)](https://github.com/zimfw/bira) - Fork of Oh-My-ZSH [bira (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme. Includes decorators for working directory, username\@host, `git` status information, Python [venv](https://docs.python.org/3/library/venv.html) and a status code when the last command had an error.
 *   [nostalgia (⭐0)](https://github.com/skippyr/nostalgia) - Minimalist theme inspired by Windows CMD prompt. Includes decorators for user\@hostname, `git` status, current directory and python virtualenv.
 *   [riverside (⭐0)](https://github.com/skippyr/riverside) - A more portable descendent of [River Dreams (⭐2)](https://github.com/skippyr/river_dreams) inspired by robbyrussell and kafeitu. Includes decorators for `git` status, user\@hostname, current directory and the current python virtual environment.
 *   [zunder (⭐1)](https://github.com/Warbacon/zunder-prompt) - Simple and fast ZSH prompt based on [gitstatus (⭐1.6k)](https://github.com/romkatv/gitstatus).

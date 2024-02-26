@@ -41,7 +41,7 @@
 
 ### Audio Editing
 
-*   [Stargate DAW (⭐518)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
+*   [Stargate DAW (⭐578)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 
 ## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -99,7 +99,7 @@
 ### Libraries / Encoding
 
 *   [FlatBuffers](https://flatbuffers.dev/)
-    *   [frol/flatc-rust (⭐98)](https://github.com/frol/flatc-rust) — FlatBuffers compiler (flatc) integration for Cargo build scripts
+    *   [frol/flatc-rust (⭐99)](https://github.com/frol/flatc-rust) — FlatBuffers compiler (flatc) integration for Cargo build scripts
 
 ## [12. BEM Resources](/content/sturobson/BEM-resources/README.md)
 

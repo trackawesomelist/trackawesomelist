@@ -10,7 +10,7 @@
 
 ### Robotics
 
-*   [PythonRobotics (⭐19k)](https://github.com/AtsushiSakai/PythonRobotics) - This is a compilation of various robotics algorithms with visualizations.
+*   [PythonRobotics (⭐21k)](https://github.com/AtsushiSakai/PythonRobotics) - This is a compilation of various robotics algorithms with visualizations.
 *   [rospy](http://wiki.ros.org/rospy) - This is a library for ROS (Robot Operating System).
 
 ## [2. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
@@ -372,11 +372,11 @@
 
 ### Command-line tools
 
-*   [jl (⭐467)](https://github.com/chrisdone/jl) - Functional sed for JSON.
+*   [jl (⭐473)](https://github.com/chrisdone/jl) - Functional sed for JSON.
 
 ### Resources
 
-*   [Awesome jq (⭐545)](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
+*   [Awesome jq (⭐707)](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 
 ## [28. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -388,7 +388,7 @@
 
 ### CLI Builder
 
-*   [Terrapin (⭐227)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
+*   [Terrapin (⭐233)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
 
 ### Debugging Tools
 

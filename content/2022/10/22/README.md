@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 22, 2022
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -43,7 +43,7 @@
 
 ### Android / Libraries
 
-*   [andre-artus/AnvilKotlin (⭐15)](https://github.com/andre-artus/AnvilKotlin) - Minimal UI library for Android inspired by React.
+*   [andre-artus/AnvilKotlin (⭐16)](https://github.com/andre-artus/AnvilKotlin) - Minimal UI library for Android inspired by React.
 *   [mathcamp/fiberglass (⭐25)](https://github.com/mathcamp/fiberglass) - Easy lightweight SharedPreferences library for Android in Kotlin using delegated properties.
 *   [jupf/staticlog (⭐28)](https://github.com/jupf/staticlog) - StaticLog - super lightweight static logging for Kotlin, Java and Android.
 
@@ -98,7 +98,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [human-essentials (⭐406)](https://github.com/rubyforgood/human-essentials) - An inventory management system for essentials banks (using Rails 7.0). - [:earth\_africa:](https://humanessentials.app/)
+*   [human-essentials (⭐408)](https://github.com/rubyforgood/human-essentials) - An inventory management system for essentials banks (using Rails 7.0). - [:earth\_africa:](https://humanessentials.app/)
 
 ## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -124,7 +124,7 @@
 
 ### Design and Product / Design Tools
 
-*   [System Color Picker (⭐957)](https://github.com/sindresorhus/System-Color-Picker) - The macOS color picker as an app with more features. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sindresorhus/System-Color-Picker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1545870783)
+*   [System Color Picker (⭐974)](https://github.com/sindresorhus/System-Color-Picker) - The macOS color picker as an app with more features. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sindresorhus/System-Color-Picker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1545870783)
 
 ### Design and Product / Other Tools
 
@@ -136,20 +136,14 @@
 
 ### QuickLook Plugins / System Related Tools
 
-*   [QLMarkdown (⭐1k)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
-*   [Syntax Highlight (⭐2.5k)](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
+*   [QLMarkdown (⭐1.1k)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
+*   [Syntax Highlight (⭐2.6k)](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
-
-## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Machine Learning
-
-*   [Machine Learning for Beginners (⭐64k)](https://github.com/Microsoft/ML-For-Beginners) - Microsoft
 
 ---
 

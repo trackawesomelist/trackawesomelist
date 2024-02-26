@@ -234,7 +234,7 @@
 
 ### Robotics
 
-*   [YARP (Yet Another Robot Platform) (⭐487)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
+*   [YARP (Yet Another Robot Platform) (⭐488)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
 
 ## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -447,16 +447,16 @@
 
 ### Tools / Misc Tools
 
-*   [mitmproxy (⭐33k)](https://github.com/mitmproxy/mitmproxy)
+*   [mitmproxy (⭐34k)](https://github.com/mitmproxy/mitmproxy)
 *   [dockerfile/androguard (⭐38)](https://github.com/dweinstein/dockerfile-androguard)
 *   [Android Vulnerability Test Suite (⭐1k)](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
 *   [AppMon (⭐1.5k)](https://github.com/dpnishant/appmon)- AppMon is an automated framework for monitoring and tampering with system API calls of native macOS, iOS, and Android apps. It is based on Frida.
-*   [Internal Blue (⭐646)](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework based on Reverse Engineering of Broadcom Bluetooth Controllers
+*   [Internal Blue (⭐649)](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework based on Reverse Engineering of Broadcom Bluetooth Controllers
 *   ~~[Android Device Security Database](https://www.android-device-security.org/client/datatable) - Database of security features of Android devices~~
 
 ### Tools / Vulnerable Applications for practice
 
-*   [Damn Insecure Vulnerable Application (DIVA) (⭐889)](https://github.com/payatu/diva-android)
+*   [Damn Insecure Vulnerable Application (DIVA) (⭐894)](https://github.com/payatu/diva-android)
 *   [Vuldroid (⭐52)](https://github.com/jaiswalakshansh/Vuldroid)
 *   [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html)
 *   [GoatDroid (⭐235)](https://github.com/jackMannino/OWASP-GoatDroid-Project)

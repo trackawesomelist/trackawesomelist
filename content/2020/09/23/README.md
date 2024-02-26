@@ -11,13 +11,13 @@
 ### Development tools / IDEs
 
 *   [Kakoune](http://kakoune.org/)
-    *   [kak-lsp/kak-lsp (⭐558)](https://github.com/kak-lsp/kak-lsp/) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
+    *   [kakoune-lsp (⭐562)](https://github.com/kakoune-lsp/kakoune-lsp/) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
 
 ## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💼 [Leading Trim (⭐77)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize (⭐1.3k)](https://github.com/seek-oss/capsize).
+*   💼 [Leading Trim (⭐80)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize (⭐1.4k)](https://github.com/seek-oss/capsize).
 
 ## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -29,7 +29,7 @@
 
 ### GraphQL
 
-*   [graphene (⭐7.7k)](https://github.com/graphql-python/graphene/) - GraphQL framework for Python.
+*   [graphene (⭐7.9k)](https://github.com/graphql-python/graphene/) - GraphQL framework for Python.
 
 ## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Contents / Language bindings
 
-*   R: [RPostgreSQL (⭐61)](https://github.com/tomoakin/RPostgreSQL)
+*   R: [RPostgreSQL (⭐64)](https://github.com/tomoakin/RPostgreSQL)
 
 ## [2. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -22,8 +22,8 @@
 
 ### Libraries / Authentication
 
-*   [oxide-auth (⭐607)](https://github.com/HeroicKatora/oxide-auth) — A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends [![Build Status](https://api.cirrus-ci.com/github/HeroicKatora/oxide-auth.svg?branch=master)](https://cirrus-ci.com/github/HeroicKatora/oxide-auth)
-*   [yup-oauth2 (⭐199)](https://github.com/dermesser/yup-oauth2) — An oauth2 client implementation providing the Device, Installed and Service Account flows
+*   [oxide-auth (⭐614)](https://github.com/HeroicKatora/oxide-auth) — A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends [![Build Status](https://api.cirrus-ci.com/github/HeroicKatora/oxide-auth.svg?branch=master)](https://cirrus-ci.com/github/HeroicKatora/oxide-auth)
+*   [yup-oauth2 (⭐201)](https://github.com/dermesser/yup-oauth2) — An oauth2 client implementation providing the Device, Installed and Service Account flows
 
 ## [4. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 

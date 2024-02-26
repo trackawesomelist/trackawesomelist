@@ -108,7 +108,7 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([Source Code (⭐9.2k)](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nim/Docker`
+*   [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([Source Code (⭐9.4k)](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nim/Docker`
 
 ## [7. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -134,7 +134,7 @@
 
 ### Bash scripts / Godot version unknown
 
-*   [build-godot (⭐54)](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot) - (and [build-godot-mono (⭐54)](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot-mono)) Scripts that compile and run Godot, attempting to install dependencies if needed.
+*   [build-godot (⭐55)](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot) - (and [build-godot-mono (⭐55)](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot-mono)) Scripts that compile and run Godot, attempting to install dependencies if needed.
 
 ## [11. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -158,7 +158,7 @@
 
 ### Miscellaneous
 
-*   [Urban & Regional Planning (⭐191)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
+*   [Urban & Regional Planning (⭐208)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
 
 ## [15. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
@@ -760,10 +760,6 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ## [63. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
-### Tools / Online Analyzers
-
-*   [Approver](https://approver.talos-sec.com/) - Approver  is a fully automated security analysis and risk assessment platform for Android and iOS apps. Not free.
-
 ### Tools / Dynamic Analysis Tools
 
 *   [PAPIMonitor (⭐43)](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor (Python API Monitor for Android apps) is a Python tool based on Frida for monitoring user-select APIs during the app execution.
@@ -801,20 +797,20 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Canvas
 
-*   [react-heat-map (⭐145)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
+*   [react-heat-map (⭐153)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
 
 ### Form Components / Image Editing
 
-*   [react-avatar-generator (⭐58)](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
+*   [react-avatar-generator (⭐60)](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
 
 ### Form Components / Rich Text Editor
 
 *   [react-codemirror (⭐1.3k)](https://github.com/uiwjs/react-codemirror) - [demo](https://uiwjs.github.io/react-codemirror/) - CodeMirror component for React.
-*   [react-monacoeditor (⭐271)](https://github.com/jaywcjlove/react-monacoeditor) - Monaco Editor component for React.
+*   [react-monacoeditor (⭐274)](https://github.com/jaywcjlove/react-monacoeditor) - Monaco Editor component for React.
 
 ### Reporter / Visibility Reporter
 
-*   [react-intersection-observer (⭐4.6k)](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
+*   [react-intersection-observer (⭐4.7k)](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
 
 ## [67. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
@@ -848,7 +844,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Planning Data Specifications / Transportation
 
-*   [GMNS (⭐94)](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
+*   [GMNS (⭐96)](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
 
 ### Planning Coding Resources / Python
 
@@ -902,7 +898,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   [Kribrum](https://kribrum.io/)
 *   [WATools](https://watools.io/)
 *   [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
-*   [Oblivion (⭐421)](https://github.com/loseys/Oblivion)
+*   [Oblivion (⭐451)](https://github.com/loseys/Oblivion)
 
 ### Social Media Tools / VKontakte
 
@@ -957,7 +953,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   [Insecam](http://insecam.org/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
-*   [Video Stabilization Methods (⭐254)](https://github.com/yaochih/awesome-video-stabilization)
+*   [Video Stabilization Methods (⭐297)](https://github.com/yaochih/awesome-video-stabilization)
 
 ### Geospatial Research and Mapping Tools / Telegram
 
@@ -982,7 +978,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 ### Other Tools / Telegram
 
 *   [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
-*   [FOCA (⭐2.5k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
+*   [FOCA (⭐2.7k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 
 ### OSINT Videos / Telegram
 

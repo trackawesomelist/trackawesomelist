@@ -10,7 +10,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [Awesome Biomarkers (⭐289)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
+*   [Awesome Biomarkers (⭐324)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
 
 ## [2. Tools](/content/lvwzhen/tools/week/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Tools / Templates & Starter Kits
 
-*   [Django Cookiecutter Wagtail (⭐61)](https://github.com/Jean-Zombie/cookiecutter-django-wagtail) – A Django Cookiecutter template with Wagtail. Based on the original 'Django Cookiecutter'. Features: Docker support using `docker-compose` for development and production (using Traefik with LetsEncrypt support), customizable PostgreSQL version, Bootstrap 4, media storage using Amazon S3 or Google Cloud Storage and many more.
+*   [Django Cookiecutter Wagtail (⭐62)](https://github.com/Jean-Zombie/cookiecutter-django-wagtail) – A Django Cookiecutter template with Wagtail. Based on the original 'Django Cookiecutter'. Features: Docker support using `docker-compose` for development and production (using Traefik with LetsEncrypt support), customizable PostgreSQL version, Bootstrap 4, media storage using Amazon S3 or Google Cloud Storage and many more.
 
 ## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -289,20 +289,20 @@
 
 ### Official
 
-*   [Yew (⭐29k)](https://github.com/yewstack/yew) - Rust / WebAssembly framework for building client web apps.
+*   [Yew (⭐30k)](https://github.com/yewstack/yew) - Rust / WebAssembly framework for building client web apps.
 
 ### Projects
 
 *   [web-view todomvc desktop app (⭐106)](https://github.com/Extrawurst/rust-webview-todomvc-yew) - Demo how to use yew for a todomvc that compiles to WebAssembly and is bundled as a lightweight(\~2mb) desktop app by [web-view (⭐1.9k)](https://github.com/Boscop/web-view), as an alternative to Electron, [web-view (⭐1.9k)](https://github.com/Boscop/web-view) also has a [demo (⭐1.9k)](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
-*   [Kirk (⭐40)](https://github.com/stkevintan/Kirk) - Just A Rust WebAssembly Blog.
+*   [Kirk (⭐41)](https://github.com/stkevintan/Kirk) - Just A Rust WebAssembly Blog.
 
 ### Crates / Wasm
 
-*   [wasm-bindgen (⭐7k)](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between WebAssembly modules and JavaScript.
+*   [wasm-bindgen (⭐7.1k)](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between WebAssembly modules and JavaScript.
 
 ### Tooling / Frameworks
 
-*   [wasm-pack (⭐5.7k)](https://github.com/rustwasm/wasm-pack) - Your favorite Rust -> WebAssembly workflow tool.
+*   [wasm-pack (⭐5.8k)](https://github.com/rustwasm/wasm-pack) - Your favorite Rust -> WebAssembly workflow tool.
 
 ### Alternatives / Frameworks
 
@@ -311,9 +311,9 @@
 
 ### Related lists / Frameworks
 
-*   [Awesome Rust and WebAssembly (⭐573)](https://github.com/rustwasm/awesome-rust-and-webassembly) - A list of awesome Rust and WebAssembly projects, libraries, tools, and resources.
-*   [Awesome WebAssembly (⭐8.3k)](https://github.com/mbasso/awesome-wasm) - Collection of awesome things regarding WebAssembly ecosystem.
-*   [Awesome Rust (⭐40k)](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+*   [Awesome Rust and WebAssembly (⭐592)](https://github.com/rustwasm/awesome-rust-and-webassembly) - A list of awesome Rust and WebAssembly projects, libraries, tools, and resources.
+*   [Awesome WebAssembly (⭐8.4k)](https://github.com/mbasso/awesome-wasm) - Collection of awesome things regarding WebAssembly ecosystem.
+*   [Awesome Rust (⭐41k)](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 
 ## [20. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -394,13 +394,13 @@
 
 ### Testing / Asynchronous
 
-*   [Karate (⭐7.6k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
+*   [Karate (⭐7.7k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
 
 ## [24. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Articles
 
-*   [You don't (may not) need loops ➿ (⭐1k)](https://github.com/you-dont-need/You-Dont-Need-Loops) - Loops are one of the first constructs that junior programmers learn, but they can pose many potential issues in the software development process, and could be avoided in many cases.
+*   [You don't (may not) need loops ➿ (⭐1.1k)](https://github.com/you-dont-need/You-Dont-Need-Loops) - Loops are one of the first constructs that junior programmers learn, but they can pose many potential issues in the software development process, and could be avoided in many cases.
 
 ## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -412,7 +412,7 @@
 
 ### Applications / Database
 
-*   [Lucid (⭐359)](https://github.com/lucid-kv/lucid) — High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
+*   [Lucid (⭐361)](https://github.com/lucid-kv/lucid) — High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
 
 ### Applications / Web Servers
 
@@ -420,7 +420,7 @@
 
 ### Libraries / Logging
 
-*   [tokio-rs/tracing (⭐4.7k)](https://github.com/tokio-rs/tracing) — An application level tracing framework for async-aware structured logging, error handling, metrics, and more [![Build Status](https://github.com/tokio-rs/tracing/workflows/CI/badge.svg?branch=master)](https://github.com/tokio-rs/tracing/actions?query=workflow%3ACI)
+*   [tokio-rs/tracing (⭐4.8k)](https://github.com/tokio-rs/tracing) — An application level tracing framework for async-aware structured logging, error handling, metrics, and more [![Build Status](https://github.com/tokio-rs/tracing/workflows/CI/badge.svg?branch=master)](https://github.com/tokio-rs/tracing/actions?query=workflow%3ACI)
 
 ### Libraries / Text search
 
@@ -475,7 +475,7 @@
 
 ### Programming Languages
 
-*   [Coq (⭐260)](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
+*   [Coq (⭐270)](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 
 ### Front-End Development
 
@@ -763,7 +763,7 @@ Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [OTS](https://ots.fyi/) - One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser. ([Source Code (⭐374)](https://github.com/Luzifer/ots)) `Apache-2.0` `Go`
+*   [OTS](https://ots.fyi/) - One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser. ([Source Code (⭐380)](https://github.com/Luzifer/ots)) `Apache-2.0` `Go`
 
 ### Software / Task Management & To-do Lists
 
@@ -773,7 +773,7 @@ Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
 
 ### JSON Schema Validators
 
-*   [Medeia Validator (⭐54)](https://github.com/worldturner/medeia-validator) - Compliant (draft-04/06/07) and fast streaming validator written in Kotlin
+*   [Medeia Validator (⭐57)](https://github.com/worldturner/medeia-validator) - Compliant (draft-04/06/07) and fast streaming validator written in Kotlin
 
 ## [60. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -826,11 +826,11 @@ Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
 
 ### Photo / Image
 
-*   [react-particle-image (⭐434)](https://github.com/malerba118/react-particle-image) - [demo](https://malerba118.github.io/react-particle-image-demo/) - Render images as interactive particles.
+*   [react-particle-image (⭐438)](https://github.com/malerba118/react-particle-image) - [demo](https://malerba118.github.io/react-particle-image-demo/) - Render images as interactive particles.
 
 ### Miscellaneous
 
-*   [react-demo-tab (⭐38)](https://github.com/mkosir/react-demo-tab) - [demo](https://mkosir.github.io/react-demo-tab) - A React component to easily create demos of other components.
+*   [react-demo-tab (⭐39)](https://github.com/mkosir/react-demo-tab) - [demo](https://mkosir.github.io/react-demo-tab) - A React component to easily create demos of other components.
 
 ### Miscellaneous / Lazy Load
 

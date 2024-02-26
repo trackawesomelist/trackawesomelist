@@ -202,7 +202,7 @@
 
 ### Applications / Games
 
-*   [doukutsu-rs (⭐773)](https://github.com/doukutsu-rs/doukutsu-rs) — A Rust reimplementation of Cave Story engine with some enhancements.
+*   [doukutsu-rs (⭐783)](https://github.com/doukutsu-rs/doukutsu-rs) — Reimplementation of Cave Story engine with some enhancements.
 
 ---
 

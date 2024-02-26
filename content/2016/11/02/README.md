@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [Fractalide (⭐845)](https://github.com/fractalide/fractalide) — Simple Rust Microservices
+*   [Fractalide (⭐847)](https://github.com/fractalide/fractalide) — Simple microservices
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

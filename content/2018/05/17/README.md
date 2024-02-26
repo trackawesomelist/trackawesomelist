@@ -108,7 +108,7 @@
 
 ### Web Programming • Libraries
 
-*   [Proton (⭐2.3k)](https://github.com/a-jie/Proton) - A lightweight and powerful javascript particle engine.
+*   [Proton (⭐2.4k)](https://github.com/a-jie/Proton) - A lightweight and powerful javascript particle engine.
 
 ## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

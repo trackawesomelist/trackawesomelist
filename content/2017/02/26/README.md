@@ -27,7 +27,7 @@
 
 ### State Machines
 
-*   [state\_machines (⭐738)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
+*   [state\_machines (⭐781)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 

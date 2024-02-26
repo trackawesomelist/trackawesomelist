@@ -80,7 +80,7 @@
 
 ### Contents / Extensions
 
-*   [pgRouting (⭐1k)](https://github.com/pgRouting/pgrouting) - pgRouting extends the PostGIS/PostgreSQL geospatial database to provide geospatial routing and other network analysis functionality.
+*   [pgRouting (⭐1.1k)](https://github.com/pgRouting/pgrouting) - pgRouting extends the PostGIS/PostgreSQL geospatial database to provide geospatial routing and other network analysis functionality.
 
 ### Contents / Language bindings
 
@@ -863,16 +863,16 @@ Topics: Chrome DevTools, Performance\
 
 ### Networking
 
-*   [MQTT-C (⭐695)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
+*   [MQTT-C (⭐698)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
 *   [WAFer (⭐692)](https://github.com/riolet/WAFer) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. \[GPL2]
 
 ### Reflection
 
 *   [Better Enums (⭐1.6k)](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. \[BSD] [website](http://aantron.github.io/better-enums/)
 *   [CPFG (⭐215)](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. \[Apache2]
-*   [CPP-Reflection (⭐621)](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. \[MIT]
+*   [CPP-Reflection (⭐624)](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. \[MIT]
 *   [Nameof (⭐1.9k)](https://github.com/Neargye/nameof) - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. \[MIT]
-*   [Ponder (⭐618)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
+*   [Ponder (⭐620)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
 *   [RTTR (⭐2.9k)](https://github.com/rttrorg/rttr) - A C++11 library for reflection. \[MIT] [website](http://www.rttr.org)
 
 ### Static Code Analysis

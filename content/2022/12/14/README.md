@@ -65,19 +65,19 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-mock-dev-server (⭐104)](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) - Mock server for development, support CJS/ESM/JSON, auto-importing file and HMR.
+*   [vite-plugin-mock-dev-server (⭐106)](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) - Mock server for development, support CJS/ESM/JSON, auto-importing file and HMR.
 
 ## [8. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
-*   [retrospring (⭐175)](https://github.com/retrospring/retrospring) - A social network following the Q/A (question and answer) principle - [:earth\_africa:](https://retrospring.net)
+*   [retrospring (⭐176)](https://github.com/retrospring/retrospring) - A social network following the Q/A (question and answer) principle - [:earth\_africa:](https://retrospring.net)
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Time Tracking
 
-*   [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code (⭐934)](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
+*   [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code (⭐949)](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
 
 ---
 

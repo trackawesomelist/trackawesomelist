@@ -28,7 +28,7 @@
 
 ### Skeleton
 
-*   [App template (⭐359)](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
+*   [App template (⭐360)](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Boilerplates / IDE
 
-*   [Terraform Generator (⭐252)](https://github.com/sudokar/generator-tf-module) - Scaffolding for a new terraform module or project with support of test frameworks (terratest and kitchen-terraform)
+*   [Terraform Generator (⭐255)](https://github.com/sudokar/generator-tf-module) - Scaffolding for a new terraform module or project with support of test frameworks (terratest and kitchen-terraform)
 
 ## [9. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 

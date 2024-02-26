@@ -38,7 +38,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail PDF View (⭐21)](https://github.com/donhauser/wagtail-pdf) - Render Wagtail pages and models as PDF document using Weasyprint or LaTeX.
+*   [Wagtail PDF View (⭐22)](https://github.com/donhauser/wagtail-pdf) - Render Wagtail pages and models as PDF document using Weasyprint or LaTeX.
 
 ## [6. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Crates / Utils
 
-*   [Yewdux (⭐308)](https://github.com/intendednull/yewdux) - Redux-like state containers for Yew apps.
+*   [Yewdux (⭐311)](https://github.com/intendednull/yewdux) - Redux-like state containers for Yew apps.
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -285,7 +285,7 @@
 
 ### Software / Pastebins
 
-*   [rustypaste (⭐622)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
+*   [rustypaste (⭐629)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
 
 ## [19. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -303,7 +303,7 @@
 
 ### Tools / Reverse Engineering
 
-*   [MVT (Mobile Verification Toolkit) (⭐9.5k)](https://github.com/mvt-project/mvt) - a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices
+*   [MVT (Mobile Verification Toolkit) (⭐9.6k)](https://github.com/mvt-project/mvt) - a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices
 *   ~~[Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler~~
 *   ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
 *   ~~[ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror](https://github.com/yangbean9/ZjDroid)~~
@@ -370,7 +370,7 @@
 
 ### Debug
 
-*   [DebugViewPP (⭐905)](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. \[Boost]
+*   [DebugViewPP (⭐915)](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. \[Boost]
 
 ### Online Compiler
 
@@ -392,25 +392,25 @@
 
 ### Applications / Text processing
 
-*   [sstadick/hck (⭐670)](https://github.com/sstadick/hck) - A faster and more featureful drop in replacement for `cut` [![build badge](https://github.com/sstadick/hck/workflows/Check/badge.svg?branch=master)](https://github.com/sstadick/hck)
+*   [sstadick/hck (⭐673)](https://github.com/sstadick/hck) - A faster and more featureful drop in replacement for `cut` [![build badge](https://github.com/sstadick/hck/workflows/Check/badge.svg?branch=master)](https://github.com/sstadick/hck)
 
 ### Applications / Virtualization
 
-*   [containers/youki (⭐5.6k)](https://github.com/containers/youki) — A container runtime in Rust [![build badge](https://github.com/containers/youki/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/containers/youki/actions)
+*   [containers/youki (⭐5.7k)](https://github.com/containers/youki) — A container runtime [![build badge](https://github.com/containers/youki/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/containers/youki/actions)
 
 ### Libraries / Cryptography
 
-*   [w3f/schnorrkel (⭐290)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
+*   [w3f/schnorrkel (⭐293)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
 
 ### Libraries / GUI
 
-*   [tauri-apps/tauri (⭐73k)](https://github.com/tauri-apps/tauri) — Build smaller, faster, and more secure desktop applications with a web frontend, powered by [WRY (⭐3.1k)](https://github.com/tauri-apps/wry). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
+*   [tauri-apps/tauri (⭐75k)](https://github.com/tauri-apps/tauri) — Build smaller, faster, and more secure desktop applications with a web frontend, powered by [WRY (⭐3.1k)](https://github.com/tauri-apps/wry). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
 
 ## [31. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Django / Community
 
-*   [django-vite (⭐406)](https://github.com/MrBin99/django-vite) - Integration for Django applications.
+*   [django-vite (⭐423)](https://github.com/MrBin99/django-vite) - Integration for Django applications.
 
 ### Ruby on Rails / Community
 
@@ -471,33 +471,33 @@
 
 ### Databases
 
-*   [TypeDB (⭐55)](https://github.com/vaticle/typedb-awesome#readme) - Logical database to organize large and complex networks of data as one body of knowledge.
+*   [TypeDB (⭐57)](https://github.com/vaticle/typedb-awesome#readme) - Logical database to organize large and complex networks of data as one body of knowledge.
 
 ### Media
 
-*   [VLC (⭐112)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
+*   [VLC (⭐115)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
 
 ### Business
 
-*   [Billing (⭐695)](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
+*   [Billing (⭐751)](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 
 ### Work
 
-*   [Internships (⭐329)](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
+*   [Internships (⭐341)](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
 
 ### Decentralized Systems
 
-*   [Stacks (⭐91)](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
+*   [Stacks (⭐94)](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 
 ### Miscellaneous
 
-*   [Scriptable (⭐985)](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
+*   [Scriptable (⭐1k)](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
 
 ## [36. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Databases
 
-*   [redis-pro (⭐638)](https://github.com/cmushroom/redis-pro) - Small, easy to use Redis management, written with SwiftUI, support Dark mode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cmushroom/redis-pro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [redis-pro (⭐637)](https://github.com/cmushroom/redis-pro) - Small, easy to use Redis management, written with SwiftUI, support Dark mode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cmushroom/redis-pro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [37. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 

@@ -49,7 +49,7 @@
 
 ### Routing
 
-*   [router.cr (⭐257)](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
+*   [router.cr (⭐258)](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
 
 ## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

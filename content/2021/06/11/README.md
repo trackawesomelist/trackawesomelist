@@ -33,7 +33,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-dts (⭐953)](https://github.com/qmhc/vite-plugin-dts) - Generate declaration files from `.ts` or `.vue` source files for lib.
+*   [vite-plugin-dts (⭐1k)](https://github.com/qmhc/vite-plugin-dts) - Generate declaration files from `.ts` or `.vue` source files for lib.
 
 ## [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
@@ -57,13 +57,13 @@
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [michaelbull/kotlin-result (⭐894)](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations - inspired by Elm, Rust, & Haskell.
+*   [michaelbull/kotlin-result (⭐898)](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations - inspired by Elm, Rust, & Haskell.
 
 ## [9. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Graphic Displays
 
-*   [httpgd (⭐310)](https://github.com/nx10/httpgd) - Asynchronous http server graphics device for R.
+*   [httpgd (⭐320)](https://github.com/nx10/httpgd) - Asynchronous http server graphics device for R.
 
 ### Web Technologies and Services
 

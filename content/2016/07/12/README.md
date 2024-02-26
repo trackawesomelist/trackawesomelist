@@ -20,7 +20,7 @@
 
 ### HTTP
 
-*   [http\_digex (⭐3)](https://github.com/techgaun/http_digex) - A module to create basic digest HTTP auth header.
+*   [http\_digex (⭐4)](https://github.com/techgaun/http_digex) - A module to create basic digest HTTP auth header.
 
 ### Miscellaneous
 
@@ -28,7 +28,7 @@
 
 ### Networking
 
-*   [asn (⭐14)](https://github.com/ephe-meral/asn) - Can be used to map from IP to AS to ASN.
+*   [asn (⭐15)](https://github.com/ephe-meral/asn) - Can be used to map from IP to AS to ASN.
 *   [mac (⭐6)](https://github.com/ephe-meral/mac) - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
 
 ### ORM and Datamapping
@@ -41,7 +41,7 @@
 
 ### Third Party APIs
 
-*   [pigeon (⭐588)](https://github.com/codedge-llc/pigeon) - HTTP2-compliant wrapper for sending iOS and Android push notifications.
+*   [pigeon (⭐592)](https://github.com/codedge-llc/pigeon) - HTTP2-compliant wrapper for sending iOS and Android push notifications.
 
 ### Translations and Internationalizations
 

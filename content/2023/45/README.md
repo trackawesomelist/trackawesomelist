@@ -10,21 +10,21 @@
 
 ### Applications
 
-*   [UpVPN (⭐108)](https://github.com/upvpn/upvpn-app)  — WireGuard VPN client for macOS, Linux, and Windows built on Tauri.
+*   [UpVPN (⭐111)](https://github.com/upvpn/upvpn-app)  — WireGuard VPN client for macOS, Linux, and Windows built on Tauri.
 
 ### Applications / Package Managers
 
-*   [helsing-ai/buffrs (⭐111)](https://github.com/helsing-ai/buffrs) \[[buffrs](https://crates.io/crates/buffrs)] — A modern package manager for protocol buffers and gRPC architectures.
+*   [helsing-ai/buffrs (⭐114)](https://github.com/helsing-ai/buffrs) \[[buffrs](https://crates.io/crates/buffrs)] — A modern package manager for protocol buffers and gRPC architectures.
 
 ### Applications / Routing protocols
 
-*   [Holo (⭐151)](https://github.com/holo-routing/holo) - Holo is a suite of routing protocols designed to support high-scale and automation-driven networks
+*   [Holo (⭐157)](https://github.com/holo-routing/holo) - Holo is a suite of routing protocols designed to support high-scale and automation-driven networks
 
 ### Libraries / Template engine
 
 *   Handlebars
     *   [sunng87/handlebars-rust (⭐1.2k)](https://github.com/sunng87/handlebars-rust) — Handlebars template engine with inheritance, custom helper support.
-    *   [zzau13/yarte (⭐266)](https://github.com/zzau13/yarte) — Yarte stands for **Y**et **A**nother **R**ust **T**emplate **E**ngine, is the fastest template engine.
+    *   [zzau13/yarte (⭐271)](https://github.com/zzau13/yarte) — Yarte stands for **Y**et **A**nother **R**ust **T**emplate **E**ngine, is the fastest template engine.
 
 ### Resources / Web programming
 
@@ -76,11 +76,11 @@
 
 ### Downloading and Serving / Directory Navigation
 
-*   [yt-dlp (⭐60k)](https://github.com/yt-dlp/yt-dlp) - Command-line program to download videos from YouTube.com and other video sites
+*   [yt-dlp (⭐66k)](https://github.com/yt-dlp/yt-dlp) - Command-line program to download videos from YouTube.com and other video sites
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [library (⭐122)](https://github.com/chapmanjacobd/library) - Create SQLITE databases for folders of music, video, images, or online media. Play and track media like Plex but a CLI-only interface with many sorting options.
+*   [library (⭐145)](https://github.com/chapmanjacobd/library) - Create SQLITE databases for folders of music, video, images, or online media. Play and track media like Plex but a CLI-only interface with many sorting options.
 
 ### Shell Script Development / Directory Navigation
 
@@ -219,8 +219,7 @@
 
 ### Resources / Blog posts
 
-*   [Pandas2 and Polars for Feature Engineering](https://www.hopsworks.ai/post/pandas2-and-polars-for-feature-engineering) - A blog post that A blog post that compares Pandas2 and Polars for Feature Engineering tasks with Python by [@hopswork (⭐1k)](https://github.com/logicalclocks/hopsworks).
-*   [Spark vs Polars. Real-life Test Case. ](https://dataengineeringcentral.substack.com/p/spark-vs-polars-real-life-test-case) - A blog post in which the author tests whether Polars is able to handle "real amounts of data" and "really replace some production Spark workloads." by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐5)](https://github.com/danielbeach/PolarsVsPySpark/tree/main).
+*   [Pandas2 and Polars for Feature Engineering](https://www.hopsworks.ai/post/pandas2-and-polars-for-feature-engineering) - A blog post that A blog post that compares Pandas2 and Polars for Feature Engineering tasks with Python by [@hopswork (⭐1.1k)](https://github.com/logicalclocks/hopsworks).
 *   [Using Polars Plugins for a 14x Speed Boost with Rust](https://towardsdatascience.com/using-polars-plugins-for-a-14x-speed-boost-with-rust-ce80bcc13d94) - A blog post thats shows the use of Polars plugin system for Rust from some concrete examples by [@ngriffiths13](https://github.com/ngriffiths13).
 
 ## [20. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
@@ -253,10 +252,6 @@
 *   [Neureka (⭐57)](https://github.com/Gleethos/neureka) - A lightweight, platform independent, OpenCL accelerated nd-array/tensor library.
 
 ## [22. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
-
-### Projects / API Design
-
-*   [OpenAPI Generator (⭐18k) (⭐19k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
 
 ### Projects / BRE
 
@@ -343,7 +338,7 @@
 
 ### Software / Document Management
 
-*   [DocKing](https://docking.shipsaas.tech) - Document management service/microservice that handles templates and renders them in PDF format, all in one place. ([Demo](https://docking-demo.shipsaas.tech/console), [Source Code (⭐115)](https://github.com/shipsaas/docking)) `MIT` `PHP/Nodejs/Docker`
+*   [DocKing](https://docking.shipsaas.tech) - Document management service/microservice that handles templates and renders them in PDF format, all in one place. ([Demo](https://docking-demo.shipsaas.tech/console), [Source Code (⭐123)](https://github.com/shipsaas/docking)) `MIT` `PHP/Nodejs/Docker`
 
 ### Software / Groupware
 
@@ -355,11 +350,11 @@
 
 ### Software / Miscellaneous
 
-*   [Flyimg](https://flyimg.io) - Resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system. ([Demo](https://demo.flyimg.io), [Source Code (⭐866)](https://github.com/flyimg/flyimg)) `MIT` `Docker`
+*   [Flyimg](https://flyimg.io) - Resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system. ([Demo](https://demo.flyimg.io), [Source Code (⭐877)](https://github.com/flyimg/flyimg)) `MIT` `Docker`
 
 ### Software / Self-hosting Solutions
 
-*   [StartOS](https://start9.com) - Browser-based, graphical Operating System (OS) that makes running a personal server as easy as running a personal computer. ([Source Code (⭐648)](https://github.com/Start9Labs/start-os)) `MIT` `Rust`
+*   [StartOS](https://start9.com) - Browser-based, graphical Operating System (OS) that makes running a personal server as easy as running a personal computer. ([Source Code (⭐669)](https://github.com/Start9Labs/start-os)) `MIT` `Rust`
 
 ## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -375,16 +370,16 @@
 
 ### Templates / Vue 3
 
-*   [vue-file-upload (⭐25)](https://github.com/canopas/vue-file-upload) - A file management system built with `Vue3` and `TypeScript` that allows for single and multiple file uploading with a preview feature.
+*   [vue-file-upload (⭐26)](https://github.com/canopas/vue-file-upload) - A file management system built with `Vue3` and `TypeScript` that allows for single and multiple file uploading with a preview feature.
 
 ### Templates / React
 
-*   [vite-express-ssr-ts (⭐8)](https://github.com/gihanrangana/vite-express-ssr-ts) - React + Typescript + ExpressJS + Vite SSR template with inbuild api feature.
+*   [vite-express-ssr-ts (⭐9)](https://github.com/gihanrangana/vite-express-ssr-ts) - React + Typescript + ExpressJS + Vite SSR template with inbuild api feature.
 
 ### Templates / VanJS
 
-*   [vite-vanjs-js (⭐0)](https://github.com/yahia-berashish/vite-vanjs-js) - VanJS and VanX with vanilla JavaScript.
-*   [vite-vanjs-ts (⭐1)](https://github.com/yahia-berashish/vite-vanjs-ts) - VanJS and VanX with TypeScript.
+*   [vite-vanjs-js (⭐1)](https://github.com/yahia-berashish/vite-vanjs-js) - VanJS and VanX with vanilla JavaScript.
+*   [vite-vanjs-ts (⭐2)](https://github.com/yahia-berashish/vite-vanjs-ts) - VanJS and VanX with TypeScript.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -396,7 +391,7 @@
 
 ### Svelte / Helpers
 
-*   [vite-plugin-kit-routes (⭐364)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-kit-routes) - Generates a file with all the routes, params, actions of your SvelteKit App.
+*   [vite-plugin-kit-routes (⭐369)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-kit-routes) - Generates a file with all the routes, params, actions of your SvelteKit App.
 
 ## [29. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
@@ -420,7 +415,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [inshellisense (⭐7.8k)](https://github.com/microsoft/inshellisense) - Provides IDE style autocomplete for shells. It's a terminal native runtime for autocomplete which has support for 600+ command line tools. inshellisense supports `bash`, `fish`, `zsh` and `pwsh` on the Windows, Linux, & MacOS operating systems.
+*   [inshellisense (⭐7.9k)](https://github.com/microsoft/inshellisense) - Provides IDE style autocomplete for shells. It's a terminal native runtime for autocomplete which has support for 600+ command line tools. inshellisense supports `bash`, `fish`, `zsh` and `pwsh` on the Windows, Linux, & MacOS operating systems.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -438,24 +433,31 @@
 
 *   [Penticon Public Library (⭐2)](https://github.com/danlerche/public-library-wagtailCMS) - An example public library website, originally created for the Penticton Public Library in Penticton, British Columbia, Canada.
 
-## [33. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [33. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+
+### Official
+
+*   [Office Hours](https://www.youtube.com/watch?v=aEoMzUza6Ok\&list=PLnVotLM2QsyhCc1_8PA7fbVF-ixt4_XAY)
+*   [Technical Steering Committee Updates (⭐19k)](https://github.com/opentofu/opentofu/blob/main/TSC_SUMMARY.md#technical-steering-committee-tsc-summary)
+
+## [34. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Template Engines
 
-*   [templ (⭐5.3k)](https://github.com/a-h/templ) - A HTML templating language that has great developer tooling.
+*   [templ (⭐5.7k)](https://github.com/a-h/templ) - A HTML templating language that has great developer tooling.
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
 *   [golangci-lint (⭐14k)](https://github.com/golangci/golangci-lint) – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included.
 *   [revive (⭐4.5k)](https://github.com/mgechev/revive) – \~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`.
-*   [testifylint (⭐51)](https://github.com/Antonboom/testifylint) – A linter that checks usage of [github.com/stretchr/testify (⭐21k)](https://github.com/stretchr/testify).
+*   [testifylint (⭐55)](https://github.com/Antonboom/testifylint) – A linter that checks usage of [github.com/stretchr/testify (⭐22k)](https://github.com/stretchr/testify).
 
 ### Meetups / Libraries for creating HTTP middlewares
 
 *   [Bärner Go Meetup - Berne, Switzerland](https://www.meetup.com/berner-go-meetup/)
 *   [Zürich Gophers - Zurich, Switzerland](https://www.meetup.com/zurich-gophers/)
 
-## [34. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [35. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / API Development and Analysis
 
@@ -469,7 +471,7 @@
 
 *   [CanaryMail](https://canarymail.io/) - Secure email app for Mac and iPhone with built-in PGP Support and AI assitance. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/canary-mail-email-meet-ai/id1236045954?mt=12)
 
-## [35. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [36. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### AI Engineering / Multi-agents
 
@@ -498,8 +500,8 @@
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
-*   [imartinez/privateGPT (⭐47k)](https://github.com/imartinez/privateGPT): "Interact with your documents using the power of GPT, 100% privately, no data leaks"
-*   [pinecone-io/canopy (⭐693)](https://github.com/pinecone-io/canopy): Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
+*   [imartinez/privateGPT (⭐48k)](https://github.com/imartinez/privateGPT): "Interact with your documents using the power of GPT, 100% privately, no data leaks"
+*   [pinecone-io/canopy (⭐729)](https://github.com/pinecone-io/canopy): Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
 *   [Forget RAG, the Future is RAG-Fusion](https://towardsdatascience.com/forget-rag-the-future-is-rag-fusion-1147298d8ad1): post by Adrian H. Raudaschl in Towards Data Science
 
 ### LLM Evaluation / Multi-agents
@@ -508,17 +510,17 @@
 
 ### Image Segmentation / Deforum
 
-*   [AILab-CVC/VideoCrafter (⭐3.6k)](https://github.com/ailab-cvc/videocrafter): Open Diffusion Models for High-Quality Video Generation
+*   [AILab-CVC/VideoCrafter (⭐3.8k)](https://github.com/ailab-cvc/videocrafter): Open Diffusion Models for High-Quality Video Generation
 *   [What's Generative Music? - Generative Music AI - YouTube](https://www.youtube.com/watch?v=9QNG56fc_l8\&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D\&index=3)
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [Vaibhavs10/insanely-fast-whisper (⭐5.3k)](https://github.com/Vaibhavs10/insanely-fast-whisper): accelerates transcription with the combination of OpenAI's Whisper Large v2, HF Transformers, Optimum, and flash attention
-*   [deepseek-ai/DeepSeek-Coder (⭐4.2k)](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
+*   [Vaibhavs10/insanely-fast-whisper (⭐5.5k)](https://github.com/Vaibhavs10/insanely-fast-whisper): accelerates transcription with the combination of OpenAI's Whisper Large v2, HF Transformers, Optimum, and flash attention
+*   [deepseek-ai/DeepSeek-Coder (⭐4.7k)](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
 *   [NExT-Chat: An LMM for Chat, Detection and Segmentation](https://huggingface.co/papers/2311.04498)
-*   [roboflow/awesome-openai-vision-api-experiments (⭐1.5k)](https://github.com/roboflow/awesome-openai-vision-api-experiments): Examples showing how to use the OpenAI vision API to run inference on images, video files and webcam streams
+*   [roboflow/awesome-openai-vision-api-experiments (⭐1.6k)](https://github.com/roboflow/awesome-openai-vision-api-experiments): Examples showing how to use the OpenAI vision API to run inference on images, video files and webcam streams
 
-## [36. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [37. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Web Apps (open source)
 
@@ -528,46 +530,46 @@
 
 *   [gtfs\_functions (⭐83)](https://github.com/Bondify/gtfs_functions) - Python package with useful functions to create geo-spatial visualizations from GTFS feeds.
 
-## [37. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [38. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Articles / Obsidian
 
 *   [Don't Give Your Users Shit Work ](https://zachholman.com/posts/shit-work/) - By [Zach Holman](https://zachholman.com/about).
 *   [Mud Rooms, Red Letters, and Real Priorities](https://www.43folders.com/2009/04/28/priorities) - By [Merlin Mann](https://www.43folders.com/about).
 
-## [38. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [39. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / AI Concept Representation
 
-*   [A principal odor map unifies diverse tasks in olfactory perception](https://www.science.org/doi/full/10.1126/science.ade4401) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17847258457660438418\&hl=en\&as_sdt=0,5)]. \[[Code (⭐15)](https://github.com/osmoai/publications/tree/main/lee_et_al_2023)]. \[[Data (Reproduced)](https://www.kaggle.com/datasets/aryanamitbarsainyan/multi-labelled-smiles-odors-dataset)]. \[[Preprint](https://centaur.reading.ac.uk/113304/1/Mayhew%20et%20al%20for%20Centaur.pdf)]. \[[GoodScents Database](https://www.thegoodscentscompany.com/)]. \[[Leffingwell Database](http://www.leffingwell.com/bacispmp.htm)]. A Principal Odor Map (POM) that preserves perceptual relationships and enables odor quality prediction for novel odorants.
+*   [A principal odor map unifies diverse tasks in olfactory perception](https://www.science.org/doi/full/10.1126/science.ade4401) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17847258457660438418\&hl=en\&as_sdt=0,5)]. \[[Code (⭐16)](https://github.com/osmoai/publications/tree/main/lee_et_al_2023)]. \[[Data (Reproduced)](https://www.kaggle.com/datasets/aryanamitbarsainyan/multi-labelled-smiles-odors-dataset)]. \[[Preprint](https://centaur.reading.ac.uk/113304/1/Mayhew%20et%20al%20for%20Centaur.pdf)]. \[[GoodScents Database](https://www.thegoodscentscompany.com/)]. \[[Leffingwell Database](http://www.leffingwell.com/bacispmp.htm)]. A Principal Odor Map (POM) that preserves perceptual relationships and enables odor quality prediction for novel odorants.
 *   [Connecting Touch and Vision via Cross-Modal Prediction](https://ieeexplore.ieee.org/document/8953737) - ***CVPR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=17326564895972374001\&hl=en\&as_sdt=0,5)]. \[[Project (⭐62)](https://github.com/YunzhuLi/VisGel)].
 
-## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
-*   [Amplitude Audio SDK (⭐13)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
+*   [Amplitude Audio SDK (⭐14)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
 
 ### Font
 
-*   [libschrift (⭐417)](https://github.com/tomolt/libschrift) - A lightweight TrueType font rendering library. \[ISC]
+*   [libschrift (⭐421)](https://github.com/tomolt/libschrift) - A lightweight TrueType font rendering library. \[ISC]
 
 ### Graphics
 
-*   [ThorVG (⭐432)](https://github.com/thorvg/thorvg) - a platform-independent portable library that allows for drawing vector-based scenes and animations, including SVG and Lottie. \[MIT] [website](https://www.thorvg.org/)
+*   [ThorVG (⭐449)](https://github.com/thorvg/thorvg) - a platform-independent portable library that allows for drawing vector-based scenes and animations, including SVG and Lottie. \[MIT] [website](https://www.thorvg.org/)
 
 ### Networking
 
-*   [nghttp3 (⭐761)](https://github.com/ngtcp2/nghttp3) - HTTP/3 library written in C. \[MIT] [website](https://nghttp2.org/nghttp3/)
+*   [nghttp3 (⭐766)](https://github.com/ngtcp2/nghttp3) - HTTP/3 library written in C. \[MIT] [website](https://nghttp2.org/nghttp3/)
 
-## [40. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [41. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Tools / File
 
 *   [AFL++ (⭐4.1k)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
 *   [Angora (⭐882)](https://github.com/AngoraFuzzer/Angora) - Angora is a mutation-based coverage guided fuzzer. The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.
 
-## [41. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [42. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Graph databases
 
@@ -581,7 +583,7 @@
     *   "It is, in general, the most complete implementation of the Transducer pattern."
     *   a "modern" API with `map`, `filter`, `take`, `repeat`, `cycle`, `fold`…
 
-## [42. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [43. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 
@@ -589,7 +591,7 @@
 *   [read-package-up (⭐250)](https://github.com/sindresorhus/read-package-up) - Read the closest package.json file.
 *   [package-config (⭐113)](https://github.com/sindresorhus/package-config) - Get namespaced config from the closest package.json.
 
-## [43. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [44. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Back-end API / Playground
 
@@ -600,7 +602,7 @@
 
 *   :octocat: [SuperJSON (⭐3.2k)](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more
 
-## [44. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [45. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Hosting:
 
@@ -615,12 +617,6 @@
 - Website: <https://dapp-world.com/problems>
 
 
-
-## [45. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Mathematics
-
-*   [Guide to Discrete Mathematics](https://core.ac.uk/download/pdf/326762636.pdf) - David Gries, Fred B. Schneider (PDF)
 
 ## [46. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 

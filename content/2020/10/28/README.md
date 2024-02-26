@@ -23,8 +23,8 @@
 
 ### Programming Languages
 
-*   [R (⭐5.6k)](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
-    *   [Learning (⭐511)](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
+*   [R (⭐5.7k)](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
+    *   [Learning (⭐517)](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
 
 ## [4. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -106,11 +106,11 @@ Free (Open Source)
 
 ### Shells
 
-*   [es](https://wryun.github.io/es-shell/) - The extensible shell, based on Plan 9's [rc (⭐226)](https://github.com/rakitzis/rc) shell
+*   [es](https://wryun.github.io/es-shell/) - The extensible shell, based on Plan 9's [rc (⭐235)](https://github.com/rakitzis/rc) shell
 
 ### Applications / Directory Navigation
 
-*   [dstask (⭐741)](https://github.com/naggie/dstask) - Single binary terminal-based TODO manager with git-based sync + markdown notes per task
+*   [dstask (⭐754)](https://github.com/naggie/dstask) - Single binary terminal-based TODO manager with git-based sync + markdown notes per task
 
 ## [12. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 

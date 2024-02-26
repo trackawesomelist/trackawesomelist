@@ -59,7 +59,7 @@
 
 ### Analytics, Events and Statistics
 
-*   [heap.io](https://heap.io) — Automatically captures every user action in iOS or web apps. Free for up to 5,000 visits/month
+*   [heap.io](https://heap.io) — Automatically captures every user action in iOS or web apps. Free for up to 10K monthly sessions.
 
 ### Visitor Session Recording
 

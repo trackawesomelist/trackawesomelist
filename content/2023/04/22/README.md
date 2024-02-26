@@ -72,13 +72,13 @@
 
 ### ChatGPT
 
-*   [LocalAI (⭐16k)](https://github.com/go-skynet/LocalAI) - Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware.
+*   [LocalAI (⭐17k)](https://github.com/go-skynet/LocalAI) - Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware.
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Images
 
-*   [color-extractor (⭐74)](https://github.com/marekm4/color-extractor) - Dominant color extractor with no external dependencies.
+*   [color-extractor (⭐77)](https://github.com/marekm4/color-extractor) - Dominant color extractor with no external dependencies.
 
 ### Web Frameworks
 
@@ -88,7 +88,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [Ahoo-Wang/Simba (⭐12)](https://github.com/Ahoo-Wang/Simba) - Distributed lock service
+*   [Ahoo-Wang/Simba (⭐14)](https://github.com/Ahoo-Wang/Simba) - Distributed lock service
 
 ## [9. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Webarchive (⭐71)](https://github.com/derfenix/webarchive) - Lightweight self-hosted *wayback machine* that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
+*   [Webarchive (⭐75)](https://github.com/derfenix/webarchive) - Lightweight self-hosted *wayback machine* that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
 
 ## [11. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 

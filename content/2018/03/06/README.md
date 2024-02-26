@@ -81,10 +81,10 @@
 ### HTML
 
 *   [floki (⭐2k)](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
-*   [html\_sanitize\_ex (⭐251)](https://github.com/rrrene/html_sanitize_ex) - HTML sanitizer for Elixir.
+*   [html\_sanitize\_ex (⭐257)](https://github.com/rrrene/html_sanitize_ex) - HTML sanitizer for Elixir.
 *   [modest\_ex (⭐32)](https://github.com/f34nk/modest_ex) - A library to do pipeable transformations on html strings with CSS selectors, e.g. find(), prepend(), append(), replace() etc.
 *   [myhtmlex (⭐14)](https://github.com/Overbryd/myhtmlex) - Elixir/Erlang bindings for lexborisov's myhtml.
-*   [readability (⭐207)](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
+*   [readability (⭐214)](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
 
 ### XML
 

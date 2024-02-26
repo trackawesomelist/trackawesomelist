@@ -70,7 +70,7 @@
 
 ### Libraries / Lenses
 
-*   [shades (⭐406)](https://github.com/jamesmcnamara/shades) – A lodash-inspired lens-like library for Javascript.
+*   [shades (⭐411)](https://github.com/jamesmcnamara/shades) – A lodash-inspired lens-like library for Javascript.
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
@@ -1078,7 +1078,7 @@
 
 ### Compression
 
-*   [libarchive (⭐2.7k)](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. \[New BSD] [website](http://www.libarchive.org/)
+*   [libarchive (⭐2.8k)](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. \[New BSD] [website](http://www.libarchive.org/)
 
 ### Scripting
 
@@ -1086,7 +1086,7 @@
 
 ### XML
 
-*   [Mini-XML (⭐416)](https://github.com/michaelrsweet/mxml) - A small XML parsing library written in ANSI C. \[LGPL2 with exceptions]
+*   [Mini-XML (⭐417)](https://github.com/michaelrsweet/mxml) - A small XML parsing library written in ANSI C. \[LGPL2 with exceptions]
 
 ### Static Code Analysis
 
@@ -1101,7 +1101,7 @@
 
 ### Miscellaneous
 
-*   [Software Patreons (⭐474)](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
+*   [Software Patreons (⭐476)](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
 
 ## [60. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -1135,7 +1135,7 @@
 
 ### Applications / System tools
 
-*   [pop-os/system76-power (⭐542)](https://github.com/pop-os/system76-power/) — Linux power management daemon (DBus-interface) with CLI tool.
+*   [pop-os/system76-power (⭐544)](https://github.com/pop-os/system76-power/) — Linux power management daemon (DBus-interface) with CLI tool.
 
 ---
 

@@ -68,11 +68,11 @@
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [yq (⭐9.7k)](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
+*   [yq (⭐10k)](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 
 ### Shell Script Development / Directory Navigation
 
-*   [shfmt (⭐6.3k)](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+*   [shfmt (⭐6.5k)](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 
 ## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

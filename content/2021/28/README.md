@@ -6237,7 +6237,7 @@
 
 ### Java Libraries
 
-*   [Bitcoin Spring Boot Starter (⭐54)](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) - Bitcoin integration for Spring Boot applications.
+*   [Bitcoin Spring Boot Starter (⭐55)](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) - Bitcoin integration for Spring Boot applications.
 
 ## [26. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -6269,7 +6269,7 @@
 
 ### Game Engine
 
-*   [o3de (⭐7.1k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
+*   [o3de (⭐7.2k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
 
 ### Reflection
 
@@ -6285,12 +6285,12 @@
 
 ### Integrations
 
-*   [expect-axe-playwright (⭐18)](https://github.com/Widen/expect-axe-playwright) - Expect matchers to perform Axe accessibility tests in your Playwright tests.
+*   [expect-axe-playwright (⭐19)](https://github.com/Widen/expect-axe-playwright) - Expect matchers to perform Axe accessibility tests in your Playwright tests.
 
 ### Utils
 
-*   [expect-playwright (⭐141)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
-*   [eslint-plugin-playwright (⭐183)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
+*   [expect-playwright (⭐143)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
+*   [eslint-plugin-playwright (⭐194)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 
 ## [32. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
@@ -6334,7 +6334,7 @@
 
 ### FIAT
 
-*   [Debitum (⭐78)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
+*   [Debitum (⭐80)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
 
 ## [38. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -6344,8 +6344,8 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-restart (⭐135)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
-*   [vite-plugin-full-reload (⭐113)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
+*   [vite-plugin-restart (⭐136)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
+*   [vite-plugin-full-reload (⭐120)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
 *   [vite-plugin-tips (⭐58)](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
 
 ## [39. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
@@ -6380,7 +6380,7 @@
 
 ### HTTP Clients and tools
 
-*   [Accept Language (⭐49)](https://github.com/cyril/accept_language.rb) - A tiny library for parsing the `Accept-Language` header from browsers (as defined in [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
+*   [Accept Language (⭐50)](https://github.com/cyril/accept_language.rb) - A tiny library for parsing the `Accept-Language` header from browsers (as defined in [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
 
 ## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -6393,16 +6393,16 @@
 ### Adapters / Server-side
 
 *   [CanJS (⭐14)](https://github.com/cherifGsoul/inertia-can)
-*   [Clojure (⭐90)](https://github.com/prestancedesign/inertia-clojure)
-*   [CodeIgniter (⭐21)](https://github.com/amiranagram/inertia-codeigniter-4)
-*   [Go (⭐117)](https://github.com/petaki/inertia-go)
-*   [PSR-15 (⭐30)](https://github.com/cherifGsoul/inertia-psr15)
+*   [Clojure (⭐91)](https://github.com/prestancedesign/inertia-clojure)
+*   [CodeIgniter (⭐22)](https://github.com/amiranagram/inertia-codeigniter-4)
+*   [Go (⭐139)](https://github.com/petaki/inertia-go)
+*   [PSR-15 (⭐33)](https://github.com/cherifGsoul/inertia-psr15)
 
 ## [43. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Search Engines
 
-*   [Whoogle (⭐8.4k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
+*   [Whoogle (⭐8.5k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
 
 ## [44. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 

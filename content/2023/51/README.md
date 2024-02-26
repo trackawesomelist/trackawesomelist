@@ -16,7 +16,7 @@
 
 ### Apps / SEO and SMO
 
-*   [Wagtail SEO (⭐53)](https://github.com/coderedcorp/wagtail-seo) - Search engine and social media optimization for Wagtail.
+*   [Wagtail SEO (⭐54)](https://github.com/coderedcorp/wagtail-seo) - Search engine and social media optimization for Wagtail.
 
 ### Apps / Modeladmin
 
@@ -24,22 +24,26 @@
 
 ### Apps / Misc
 
-*   [Wagtail Headless Preview (⭐113)](https://github.com/torchbox/wagtail-headless-preview) -  Previews for headless Wagtail setups
+*   [Wagtail Headless Preview (⭐114)](https://github.com/torchbox/wagtail-headless-preview) -  Previews for headless Wagtail setups
 
 ### Tools / Templates & Starter Kits
 
-*   [Wagtail Tailwind & Stimulus blog (⭐354)](https://github.com/AccordBox/wagtail-tailwind-blog) - A Wagtail blog based on Tailwind CSS, Stimulus, it supports Markdown, Latex and user comments.
+*   [Wagtail Tailwind & Stimulus blog (⭐355)](https://github.com/AccordBox/wagtail-tailwind-blog) - A Wagtail blog based on Tailwind CSS, Stimulus, it supports Markdown, Latex and user comments.
 *   [Wagtail for Platform.sh (⭐3)](https://github.com/platformsh-templates/wagtail) - Wagtail template for Platform.sh.
 
 ### Resources / Articles
 
 *   [Multi-tenancy with Wagtail](https://cynthiakiser.com/blog/2023/11/01/multitenancy-with-wagtail.html) - Multiple part guide on robust multi-tenancy support in Wagtail.
 
-## [3. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [3. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
-### Mathematics
+### Official
 
-*   [Proofs and Types](https://www.paultaylor.eu/stable/Proofs+Types) - Jean-Yves Girard, Yves Lafont, Paul Taylor
+*   [Official registry (⭐112)](https://github.com/opentofu/registry)
+
+### Tools / Environment managers
+
+*   [tfswitcher (⭐2)](https://github.com/ASleepyCat/tfswitcher) - Terraform and OpenTofu version switcher written in Rust.
 
 ## [4. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
 

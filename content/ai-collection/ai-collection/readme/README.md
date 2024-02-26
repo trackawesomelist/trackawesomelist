@@ -32,10 +32,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1077" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1126" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=42" />
+    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
 </a>
 
 [![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
@@ -69,12 +69,24 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics" border="0"/>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>Cliptics, Free Text to speech! Your words, our Voices.</h4>
-    <p>Introducing Cliptics, your ultimate companion for converting text into natural-sounding speech effortlessly. Whether you're a student looking to enhance your study materials, a content creator seeking innovative ways to engage your audience, or simply someone who prefers listening over reading, Cliptics offers a seamless solution. Cliptics –where words come to life at your command, free of charge</p>
-    <a href="https://www.thataicollection.com/redirect/cliptics/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Cliptics</b></a>
+    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
+    <p>WordfixerBot's Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
+    <a href="https://www.thataicollection.com/redirect/wordfixerbot/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Wordfixerbot</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator" border="0"/>
+    </a>
+    <h4>Tailored cover letters for each job opening in seconds</h4>
+    <p>Have AI explore up to 10 outputs simultaneously and select the best one based on the criterion you chose. It's not just about quantity: it's about getting you the best possible result.</p>
+    <a href="https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with PowerDreamer AI Cover Letter Generator</b></a>
     <br />
 </div>
 
@@ -88,19 +100,6 @@ Translations:
     <p>Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting and spicy chats that will leave you breathless.
 
 Your wildest dreams are just a click away today!</p> <a href="https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Girlfriend GPT - NSFW AI Chatbots</b></a> <br />
-
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft" border="0"/>
-    </a>
-    <h4>Deft Imagine - Restyle a home in 10 seconds or less. Inspiration, interior design, staging, and more.</h4>
-    <p>Restyle a home in 10 seconds or less. Then, you can use our search engine to find the products in the photos. 
-
-It is highly accurate, and there are tons of styles that you can choose from. Great for inspiration, interior design, staging photos, and more.</p> <a href="https://www.thataicollection.com/redirect/deft/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank"><b>Get Started with Deft</b></a> <br />
 
 </div>
 
@@ -141,6 +140,7 @@ To see the full collection of AI Applications in legacy table view, go [here](ht
 *   ⚜️ [Logo Generator](#logo-generator)
 *   👨‍💻 [Meeting Assistant](#meeting-assistant)
 *   🎼 [Music & Audio Generation](#music--audio-generation)
+*   👀 [Nsfw](#nsfw)
 *   🧞‍♂️ [Organization & Automation](#organization--automation)
 *   📸 [Photo & Image Editing](#photo--image-editing)
 *   🔌 [Plugins & Extensions](#plugins--extensions)
@@ -162,108 +162,105 @@ To see the full collection of AI Applications in legacy table view, go [here](ht
 
 ## Latest Additions to AI Collection
 
-### SeaArt.AI
+### PowerDreamer AI Cover Letter Generator
 
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-seaart.ai.webp" alt="SeaArt.AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
 
-#### SeaArt Al-A premier free Al art generator
+#### Tailored cover letters for each job opening in seconds
 
-[Visit](https://www.thataicollection.com/redirect/seaart.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+[Visit](https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-SeaArt AI-A premier free AI art generator. Dive into a thriving AI content community and explore over 200K+ models and styles. From art to illustrations and paintings, SeaArt effortlessly enhances your creativity!
+Have AI explore up to 10 outputs simultaneously and select the best one based on the criterion you chose. It's not just about quantity: it's about getting you the best possible result.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/seaart.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-<br />
-
-### WriteText.ai for WooCommerce
-
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-writetext.ai-for-woocommerce.webp" alt="WriteText.ai for WooCommerce">
-
-#### WriteText.ai for WooCommerce is a custom-designed plugin for WordPress and WooCommerce aimed at automating the creation of product description and meta information.
-
-[Visit](https://www.thataicollection.com/redirect/writetext.ai-for-woocommerce?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-Being integrated with Wordpress/WooCommerce platform, WriteText.ai for WooCommerce is user-friendly and highly useful for beginners. It specializes in generating excellent meta titles, descriptions, product details, and Open Graph texts in two operative modes - 'WriteText.ai Single' and 'WriteText.ai Bulk'.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/writetext.ai-for-woocommerce?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/powerdreamer-ai-cover-letter-generator?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
-### Cliptics
+### Fotor
 
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor">
 
-#### Cliptics, Free Text to speech! Your words, our Voices.
+#### Fotor - Online photo editor for everyone. Edit photos faster and easier with AI.
 
-[Visit](https://www.thataicollection.com/redirect/cliptics?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+[Visit](https://www.thataicollection.com/redirect/fotor?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-Introducing Cliptics, your ultimate companion for converting text into natural-sounding speech effortlessly. Whether you're a student looking to enhance your study materials, a content creator seeking innovative ways to engage your audience, or simply someone who prefers listening over reading, Cliptics offers a seamless solution. Cliptics –where words come to life at your command, free of charge
+online photo editor offers everything you need to enhance and edit photos effortlessly. Experience simple photo editing online for free! . Complex photo editing made simple with Fotor AI photo editor. AI Photo Enhancer, AI Background Remover, AI Object Remover and more.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/cliptics?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-<br />
-
-### iTextMaster
-
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-itextmaster.webp" alt="iTextMaster">
-
-#### AI driven text analysis, summarization, and chat tools
-
-[Visit](https://www.thataicollection.com/redirect/itextmaster?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-iTextMaster is a comprehensive PDF tool based on ChatGPT, which meets your fast reading needs while allowing you to easily engage in intelligent conversations with PDF documents.
-In addition, iTextMaster also supports online webpage summarization and chat, which can meet your diverse needs.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/itextmaster?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/fotor?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
-### TattoosGenerator
+### LustGF AI Girlfriend
 
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tattoosgenerator.webp" alt="TattoosGenerator">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lustgf-ai-girlfriend.webp" alt="LustGF AI Girlfriend">
 
-#### Discover your next ink inspiration with our AI-Powered Tattoo Generator.
+#### Create your perfect virtual companion, completely uncensored. Enjoy private and erotic exchanges now with your AI girlfriend.
 
-[Visit](https://www.thataicollection.com/redirect/tattoosgenerator?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+[Visit](https://www.thataicollection.com/redirect/lustgf-ai-girlfriend?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-Discover your next ink inspiration with our AI-Powered Tattoo Generator, your ultimate source for personalized tattoo ideas, blending your vision with AI creativity for a truly unique design.
+LustGF is an uncensored AI girlfriend simulator that brings your dream virtual companion to life. Engage in NSFW conversations, explore your deepest fantasies, and experience a new level of erotic connection with your AI companion. Date your dream girlfriend, designed to match your preferences.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/tattoosgenerator?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-<br />
-
-### Code to Flow
-
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-code-to-flow.webp" alt="Code to Flow">
-
-#### Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
-
-[Visit](https://www.thataicollection.com/redirect/code-to-flow?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-Codetoflow enables you to understand the code in simple terms using a flowchart which enables you to understand the details and nuances of the code by visualizing it.
-
-This can be used by developers of all levels to improve the understanding of existing code.
-
-Almost all major languages supported: Python, Javascript, Typescript, Java, C, C++ and all major languages and frameworks
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/code-to-flow?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/lustgf-ai-girlfriend?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
-### Deft
+### Dreampaint.net
 
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-deft_.webp" alt="Deft">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dreampaint.net_.webp" alt="Dreampaint.net">
 
-#### Deft Imagine - Restyle a home in 10 seconds or less. Inspiration, interior design, staging, and more.
+#### Dreampaint.net - Nudify and Bukkake your idols
 
-[Visit](https://www.thataicollection.com/redirect/deft?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+[Visit](https://www.thataicollection.com/redirect/dreampaint.net?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-Restyle a home in 10 seconds or less. Then, you can use our search engine to find the products in the photos.
+DreamPaint.net uses the most advanced technology to Undress images.
+In addition to the Nudify function, Dreampaint offers other effects that can be applied to photos via inpainting.
+You can apply the bukkake effect to your images with a truly stunning result.
+It's free for the first 10 images and the site promises to introduce new effects soon.
 
-It is highly accurate, and there are tons of styles that you can choose from. Great for inspiration, interior design, staging photos, and more.
+[More Information and Pricing](https://www.thataicollection.com/en/application/dreampaint.net?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/deft?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+<br />
+
+### Classicquiz.com
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-classicquiz.com.webp" alt="Classicquiz.com">
+
+#### Classicquiz offers a platform for creating and playing interactive live quizzes.
+
+[Visit](https://www.thataicollection.com/redirect/classicquiz.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+Classicquiz offers a platform for creating and playing interactive live quizzes. Participants answer questions via their phones in real-time, fostering engagement and creating a fun, competitive atmosphere. With our AI question generator users can automatically generate questions based on some text they provide.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/classicquiz.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
+### WebscrapeAI
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-webscrapeai.webp" alt="WebscrapeAI">
+
+#### Scrape any website without code using AI
+
+[Visit](https://www.thataicollection.com/redirect/webscrapeai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+Webscrape AI is an advanced, user-friendly platform that allows individuals and businesses to extract data from the web. It's a no-code scraper that requires no programming skills including those with limited technical knowledge. This AI-powered tool can navigate through websites, identify relevant data, and collect it in a structured format such as CSV, JSON, or HTML.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/webscrapeai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
+### ItineraryTrip
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-itinerarytrip.webp" alt="ItineraryTrip">
+
+#### ItineraryTrip - Personalised Itinerary AI Travel agent
+
+[Visit](https://www.thataicollection.com/redirect/itinerarytrip?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+Discover seamless travel itinerary planning with our AI-driven platform. It covers brief city getaways or extended one/two weeks itineraries, crafting itineraries worldwide.
+Ask and learn anything to our AI Travel assistant about the cities, countries, landmarks, and activities. Save answers as travel notes and also expand suggested itineraries
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/itinerarytrip?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
@@ -523,6 +520,22 @@ It is highly accurate, and there are tons of styles that you can choose from. Gr
 
 <br />
 
+### Interior AI
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
+
+#### Interior Ai: Interior Design Ideas Inspiration, and Virtual Staging App Using Artifical Intelligence
+
+[Visit](https://www.thataicollection.com/redirect/interior-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+Get interior design ideas using Artificial Intelligence and virtually stage interiors for real estate listings with different interior styles.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/interior-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 ### Oda Studio
 
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-oda-studio.webp" alt="Oda Studio">
@@ -550,22 +563,6 @@ Pick your style and color to customize your home in seconds with AI - Start Desi
 Our generative design software enables architects, builders & developers to quickly generate thousands of architectural plans instantly.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/makeit.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-### Interior AI
-
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
-
-#### Interior Ai: Interior Design Ideas Inspiration, and Virtual Staging App Using Artifical Intelligence
-
-[Visit](https://www.thataicollection.com/redirect/interior-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-Get interior design ideas using Artificial Intelligence and virtually stage interiors for real estate listings with different interior styles.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/interior-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
@@ -657,22 +654,6 @@ Unlock the potential of AI-powered image creation and editing with this free too
 
 <br />
 
-### SUPERMACHINE
-
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
-
-#### Supermachine - Generate Stock Photos, Art, and Images With AI
-
-[Visit](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-SUPERMACHINE enables you to generate images with the latest in artificial intelligence technology. Generate Awesome AI Images with 55+ Models.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/supermachine?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
 ### Getimg.ai
 
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-getimg.ai.webp" alt="Getimg.ai">
@@ -716,6 +697,22 @@ ICONS8 ALLOWS DESIGNERS TO EXPRESS THEIR IDEAS, PROVIDING THE RIGHT DESIGN ELEME
 
 <br />
 
+### SUPERMACHINE
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-supermachine.webp" alt="SUPERMACHINE">
+
+#### Supermachine - Generate Stock Photos, Art, and Images With AI
+
+[Visit](https://www.thataicollection.com/redirect/supermachine?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+SUPERMACHINE enables you to generate images with the latest in artificial intelligence technology. Generate Awesome AI Images with 55+ Models.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/supermachine?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
+<br />
+
 ### Pet Booth
 
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
@@ -746,6 +743,20 @@ Receive a pack of 100 AI generated images of your pet in both photo-realistic an
 
 ## Avatars
 
+### Photo AI
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
+
+#### Create Your Own Photorealistic AI Avatars
+
+[Visit](https://www.thataicollection.com/redirect/photo-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+Generate photorealistic images of people with AI. Generate 120+ different styles of avatars based on the original Avatar AI™ that started the AI avatars trend. It takes just 46 seconds. See more photo packs in different poses, places and styles.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/photo-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
 ### HairstyleAI
 
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hairstyleai.webp" alt="HairstyleAI">
@@ -757,20 +768,6 @@ Receive a pack of 100 AI generated images of your pet in both photo-realistic an
 HairstyleAI lets you try out new haircuts with AI virtually before getting the real thing cut. Get more confident in your own look and feel like yourself again.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/hairstyleai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-<br />
-
-### AvatarAI
-
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avatarai.webp" alt="AvatarAI">
-
-#### Create Your Own Photorealistic AI Avatars
-
-[Visit](https://www.thataicollection.com/redirect/avatarai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-Generate photorealistic images of people with AI. Generate 120+ different styles of avatars based on the original Avatar AI™ that started the AI avatars trend. It takes just 46 seconds. See more photo packs in different poses, places and styles.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/avatarai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
@@ -985,6 +982,20 @@ AlTable.ai is a work platform that lets you organize any data with Al. AlTable.a
 
 <br />
 
+### WebscrapeAI
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-webscrapeai.webp" alt="WebscrapeAI">
+
+#### Scrape any website without code using AI
+
+[Visit](https://www.thataicollection.com/redirect/webscrapeai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+Webscrape AI is an advanced, user-friendly platform that allows individuals and businesses to extract data from the web. It's a no-code scraper that requires no programming skills including those with limited technical knowledge. This AI-powered tool can navigate through websites, identify relevant data, and collect it in a structured format such as CSV, JSON, or HTML.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/webscrapeai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
 ### Swimm AI
 
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-swimm-ai.webp" alt="Swimm AI">
@@ -998,6 +1009,20 @@ Create documentaion structures, Generate code explanations and Enhance document 
 [More Information and Pricing](https://www.thataicollection.com/en/application/swimm-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
+
+<br />
+
+### DataLang
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-datalang.webp" alt="DataLang">
+
+#### Create Custom ChatGPT using Databases and SQL
+
+[Visit](https://www.thataicollection.com/redirect/datalang?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+Connect your data sources, set up some data views (i.e. SQL scripts), configure a GPT Assistant, create a Custom ChatGPT, and share it with your users, employees, or customers!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/datalang?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
@@ -1044,38 +1069,6 @@ TEXT-TO-SQL: Translate plain English to SQL with AI! Build complex SQL queries, 
 CodeWP is a WordPress code generator that uses AI and specialized models for WordPress, Woo and others to help you build better & quicker.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/codewp?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-### TLDR - Jetbrains IDE Plugin
-
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-tldr---jetbrains-ide-plugin.webp" alt="TLDR - Jetbrains IDE Plugin">
-
-#### TLDR – Explain Code in Plain English
-
-[Visit](https://www.thataicollection.com/redirect/tldr---jetbrains-ide-plugin?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-TLDR is an IDE plugin that leverages AI to explain code in plain english.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/tldr---jetbrains-ide-plugin?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-### Whatthediff
-
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-whatthediff.webp" alt="Whatthediff">
-
-#### What-the-Diff – AI-Powered Code Review Assistant
-
-[Visit](https://www.thataicollection.com/redirect/whatthediff?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-The AI powered GitHub app that explains the changes within your pull requests in plain english
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/whatthediff?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
@@ -1284,17 +1277,17 @@ All-in-one visual design platform containing AI photo and video editing tools. A
 
 <br />
 
-### Dify.AI
+### Lilybank AI
 
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dify.ai.webp" alt="Dify.AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lilybank-ai_.webp" alt="Lilybank AI">
 
-#### Dify: Next-Gen LLMOps Platform with Self-Hosting Option
+#### Meet Lilybank AI, a better way to create content with AI
 
-[Visit](https://www.thataicollection.com/redirect/dify.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+[Visit](https://www.thataicollection.com/redirect/lilybank-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-Dify is an LLM application development platform that has helped built over 100,000 applications. It integrates BaaS and LLMOps, covering the essential tech stack for building generative AI-native applications, including a built-in RAG engine. Dify allows you to deploy your own version of Assistants API and GPTs, based on any LLMs.
+LilybankAI is an innovative writing and image generation platform for businesses that accelerates the production of original content by utilizing AI technology.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/dify.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/lilybank-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
@@ -1634,17 +1627,17 @@ Make your cold emails a lot warmer with highly personalized, exciting copy power
 
 <br />
 
-### FairyTailAI
+### Classicquiz.com
 
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fairytailai.webp" alt="FairyTailAI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-classicquiz.com.webp" alt="Classicquiz.com">
 
-#### Personalized bedtime story generator using AI
+#### Classicquiz offers a platform for creating and playing interactive live quizzes.
 
-[Visit](https://www.thataicollection.com/redirect/fairytailai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+[Visit](https://www.thataicollection.com/redirect/classicquiz.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-Generate a personalized bedtime fairy tale for your kids every day using AI. Choose the setting, environment, character names, and the moral you'd like to convey to your children. Your story will be ready in less than a minute with a customized, appropriate illustration and voicing. Alternatively, you can choose an already generated story from a directory to read.
+Classicquiz offers a platform for creating and playing interactive live quizzes. Participants answer questions via their phones in real-time, fostering engagement and creating a fun, competitive atmosphere. With our AI question generator users can automatically generate questions based on some text they provide.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/fairytailai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/classicquiz.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
@@ -1864,107 +1857,113 @@ With Outfit Anyone AI, explore a new era of fashion where trying on any outfit i
 
 ## Fun
 
-### Girlfriend GPT - NSFW AI Chatbots
+### CharacterAI
 
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-characterai.webp" alt="CharacterAI">
 
-#### Start chatting for free with our scary fast NSFW AI character engine. Playful, helpful, our 7500+ AI sexting characters got it. Uncensored AI, no judgment. You are in control.
+#### Character.Ai Lets You Create Characters and Talk to Them.
 
-[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+[Visit](https://www.thataicollection.com/redirect/characterai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting and spicy chats that will leave you breathless.
+Characters can be anything. Our breakthrough AI technology can bring all of your ideas to life.
 
-Your wildest dreams are just a click away today!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/characterai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
-### Dittin AI
+<br />
 
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
+### Ask RBG
 
-#### Dittin AI - uncensored NSFW AI Chatbot Platform
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ask-rbg.webp" alt="Ask RBG">
 
-[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+#### What Would RBG (Probably) Say?
 
-Dittin AI is an NSFW AI chatbot platform built on DittinLLM. With minimal restrictions on NSFW content, you can engage in conversations with AI characters on a wide range of topics. Dittin AI supports 3D avatars and voice messages, allowing you to create and share AI characters with both sound and interactive 3D avatars using the creation panel.
+[Visit](https://www.thataicollection.com/redirect/ask-rbg?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/dittin-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+An AI experiment: Ask Justice Ruth Bader Ginsburg to make a decision about any question your heart desires. The first AI Drop from AI21 Labs.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ask-rbg?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
-### Undress.Vip
+<br />
 
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+### Philosophy
 
-#### undress.vip–2023 best 100% Working undress ai deepnude
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-philosophy.webp" alt="Philosophy">
 
-[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+#### Ask a Philosopher
 
-undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots
+[Visit](https://www.thataicollection.com/redirect/philosophy?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/undress.vip?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+Ask deep questions and get answers from William Shakespeare, Friedrich Nietzsche, René Descartes, Socrates, Confucious, Al-Kindi, Buddha
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/philosophy?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
-### AI Girlfriend WTF
+<br />
 
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
+### Botify
 
-#### Dive into hot adventures with AI Girlfriends!
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-botify.webp" alt="Botify">
 
-[Visit](https://www.thataicollection.com/redirect/ai-girlfriend-wtf?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+#### Botify AI
 
-Experience thrilling adventures and live different lives with AI girls!
+[Visit](https://www.thataicollection.com/redirect/botify?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-Whether surviving on a deserted island, navigating through space in a spaceship, or simply enjoying casual chats with your very own cat girl, there's something for everyone.
+Fun chat with your favorite characters
 
-Dive into the world of numerous AI girls and start playing now!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend-wtf?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/botify?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
-### undressing.io
+<br />
 
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
+### StoriesForKids
 
-#### AI Undressing - Nudify Photos for FREE with AI Undressing
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-storiesforkids.webp" alt="StoriesForKids">
 
-[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+#### Storiesforkids.Ai: Personalized Kid'S Books Using AI
 
-Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instantly transform looks. Nude photos in one click. Many styles and opportunity to do it with prompt
+[Visit](https://www.thataicollection.com/redirect/storiesforkids?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/undressing.io?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+Turn real-life situations into fun stories & illustrations in seconds
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/storiesforkids?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
-### AI-Girlfriend.AI
+<br />
 
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend.ai.webp" alt="AI-Girlfriend.AI">
+### Excuses AI
 
-#### Revolutionize Your Sexting Experience with AI-Girlfriend.AI
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-excuses-ai.webp" alt="Excuses AI">
 
-[Visit](https://www.thataicollection.com/redirect/ai-girlfriend.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+#### Excuse Generator
 
-Welcome to AI-Girlfriend.ai,where we redefine the art of sexting through our AI-powered girlfriend experience. Dive into the world of digital intimacy with a playful, commitment-free AI sexting simulation, tailored to enhance your skills and enrich your interactive experiences.
+[Visit](https://www.thataicollection.com/redirect/excuses-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+Use AI to generate the perfect professional excuse
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/excuses-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
-### Nudify.online
+<br />
 
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online_.webp" alt="Nudify.online">
+### AI Pokemon generator
 
-#### Undress Anybody With Our FREE Service. Deepnude AI On Nudify – Undress any Girl For Free!
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-pokemon-generator.webp" alt="AI Pokemon generator">
 
-[Visit](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+#### Generate Fakemon Using AI
 
-Undress AI photo generator for free deepnudes. Nudify deepnude AI with the highest accuracy of deepfake nude and bikini photos. Just choose age, body type, quality and get a result in a few seconds.
+[Visit](https://www.thataicollection.com/redirect/ai-pokemon-generator?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/nudify.online?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+Craft your Fakemon like never before, using simple text prompts to guide the design. Want a fiery, dragon-like creature or a cute, grassy critter? You've got the power! Dive in, explore, and create your dream Fakemon today!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-pokemon-generator?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
@@ -2278,6 +2277,20 @@ AIApply is a dynamic suite of AI tools designed to empower jobseekers. It stream
 
 <br />
 
+### PowerDreamer AI Cover Letter Generator
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
+
+#### Tailored cover letters for each job opening in seconds
+
+[Visit](https://www.thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+Have AI explore up to 10 outputs simultaneously and select the best one based on the criterion you chose. It's not just about quantity: it's about getting you the best possible result.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/powerdreamer-ai-cover-letter-generator?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
 ### JobSearch.Coach
 
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobsearch.coach.webp" alt="JobSearch.Coach">
@@ -2303,20 +2316,6 @@ Tailor your resume to fit specific job requirements and company culture. Automat
 Rezi is the only resume platform that uses leading AI to automate every aspect of creating a hirable resume—writing, editing, formatting, and optimizing.
 
 [More Information and Pricing](https://www.thataicollection.com/en/application/ai-resume-editor?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-<br />
-
-### JobBuddy
-
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-jobbuddy.webp" alt="JobBuddy">
-
-#### JobBuddy - Generate cover letters, optimize resumes and get interview prep materials in seconds with your own personal AI-driven careers coach.
-
-[Visit](https://www.thataicollection.com/redirect/jobbuddy?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-JobBuddy provides job seekers with advanced AI tools to generate personalized cover letters, resumes and interview prep. Powered by thousands of successful examples and using multi-model technology, JobBuddy is highly effective at producing fully ATS-optimized, human-sounding, professional application materials. Try it for a highly personalized, streamlined approach to your job hunt.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/jobbuddy?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
@@ -2950,6 +2949,120 @@ Amadeus Topline is an AI-powered composing app for every creator. AI creates you
 
 ***
 
+## NSFW
+
+### LunaLust
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-lunalust_.webp" alt="LunaLust">
+
+#### LunaLust | AI Girlfriend | Virtual AI Girlfriend
+
+[Visit](https://www.thataicollection.com/redirect/lunalust?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+LunaLust redefines virtual relationships. This AI girlfriend app isn't just about interaction; it's about creating a meaningful connection. Tailor your AI partner to match your personality, ensuring she's not just responsive but truly in sync with your thoughts and interests, offering a bespoke virtual girlfriend experience.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/lunalust?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
+### Girlfriend GPT - NSFW AI Chatbots
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-girlfriend-gpt---nsfw-ai-chatbots.webp" alt="Girlfriend GPT - NSFW AI Chatbots">
+
+#### Start chatting for free with our scary fast NSFW AI character engine. Playful, helpful, our 7500+ AI sexting characters got it. Uncensored AI, no judgment. You are in control.
+
+[Visit](https://www.thataicollection.com/redirect/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+Variety from dominant to submissive and beyond. Sign in now for 24/7 AI sexting and spicy chats that will leave you breathless.
+
+Your wildest dreams are just a click away today!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/girlfriend-gpt---nsfw-ai-chatbots?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
+### Undress.Vip
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-undress.vip2.webp" alt="Undress.Vip">
+
+#### undress.vip–2023 best 100% Working undress ai deepnude
+
+[Visit](https://www.thataicollection.com/redirect/undress.vip?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+undress.VIP, a groundbreaking ai tool at the forefront of this progression. undress.vip–2023 best100% Working ai deepnude & deepfake telegram undress ai bots
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/undress.vip?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
+### Dittin AI
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-dittin-ai.webp" alt="Dittin AI">
+
+#### Dittin AI - uncensored NSFW AI Chatbot Platform
+
+[Visit](https://www.thataicollection.com/redirect/dittin-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+Dittin AI is an NSFW AI chatbot platform built on DittinLLM. With minimal restrictions on NSFW content, you can engage in conversations with AI characters on a wide range of topics. Dittin AI supports 3D avatars and voice messages, allowing you to create and share AI characters with both sound and interactive 3D avatars using the creation panel.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/dittin-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
+### AI Girlfriend WTF
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-girlfriend-wtf.webp" alt="AI Girlfriend WTF">
+
+#### Dive into hot adventures with AI Girlfriends!
+
+[Visit](https://www.thataicollection.com/redirect/ai-girlfriend-wtf?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+Experience thrilling adventures and live different lives with AI girls!
+
+Whether surviving on a deserted island, navigating through space in a spaceship, or simply enjoying casual chats with your very own cat girl, there's something for everyone.
+
+Dive into the world of numerous AI girls and start playing now!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-girlfriend-wtf?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
+### undressing.io
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-martin.webp" alt="undressing.io">
+
+#### AI Undressing - Nudify Photos for FREE with AI Undressing
+
+[Visit](https://www.thataicollection.com/redirect/undressing.io?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instantly transform looks. Nude photos in one click. Many styles and opportunity to do it with prompt
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/undressing.io?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
+### Nudify.online
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-nudify.online_.webp" alt="Nudify.online">
+
+#### Undress Anybody With Our FREE Service. Deepnude AI On Nudify – Undress any Girl For Free!
+
+[Visit](https://www.thataicollection.com/redirect/nudify.online?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+Undress AI photo generator for free deepnudes. Nudify deepnude AI with the highest accuracy of deepfake nude and bikini photos. Just choose age, body type, quality and get a result in a few seconds.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/nudify.online?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
+[See All 👀 NSFW Applications on AI Collection](https://www.thataicollection.com/en/categories/nsfw?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
+
+***
+
 ## Organization & Automation
 
 ### Albus
@@ -3066,6 +3179,20 @@ From design to production, monitor, measure and enhance your user experience. Cr
 
 ## Photo & Image Editing
 
+### Fotor
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-fotor.webp" alt="Fotor">
+
+#### Fotor - Online photo editor for everyone. Edit photos faster and easier with AI.
+
+[Visit](https://www.thataicollection.com/redirect/fotor?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+online photo editor offers everything you need to enhance and edit photos effortlessly. Experience simple photo editing online for free! . Complex photo editing made simple with Fotor AI photo editor. AI Photo Enhancer, AI Background Remover, AI Object Remover and more.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/fotor?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
 ### Vidnoz AI HEADSHOT GENERATOR
 
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-vidnoz-ai-headshot-generator.webp" alt="Vidnoz AI HEADSHOT GENERATOR">
@@ -3097,6 +3224,49 @@ Elevate your product presentation with Photoshift. Seamlessly blend your product
 
 <br />
 
+### AVCLabs PhotoPro AI
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photopro-ai.webp" alt="AVCLabs PhotoPro AI">
+
+#### AI Photo Editor: Enhance Everything in Your Photo Editing | AVCLabs
+
+[Visit](https://www.thataicollection.com/redirect/avclabs-photopro-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+The specialized AI-assisted photo editing tool, offering professional photo editing tools such as removing objects and backgrounds, enhancing photo quality, increasing photo resolution, colorizing black-and-white photos, portrait retouching, and photo stylization.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/avclabs-photopro-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
+### AVCLabs Photo Enhancer AI
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
+
+#### AVCLabs AI Photo Enhancer: Enhance Photo Quality at Ease with AI
+
+[Visit](https://www.thataicollection.com/redirect/avclabs-photo-enhancer-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+All-in-one AI photo enhancer to enhance photo quality by automatically denoising, deburring, sharpening, adjusting color and tone, and upscale image by up to 400% without sacrificing the quality.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/avclabs-photo-enhancer-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
+### Headpix
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-headpix.webp" alt="Headpix">
+
+#### Headpix | AI-Generated Headshots is The Future of Portraits
+
+[Visit](https://www.thataicollection.com/redirect/headpix?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+AI-Generated Headshots is The Future of Portraits
+Transform your regular photos into professional business headshots with our AI headshot generator. Choose your style, upload your photos, and get 200 headshots!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/headpix?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
 ### HitPaw Online Photo Enhancer
 
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-hitpaw-online-photo-enhancer.webp" alt="HitPaw Online Photo Enhancer">
@@ -3110,64 +3280,6 @@ HitPaw Online AI Photo Enhancer uses advanced AI technology to remove noise, sha
 [More Information and Pricing](https://www.thataicollection.com/en/application/hitpaw-online-photo-enhancer?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
-
-<br />
-
-### Wallpaperee
-
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wallpaperee.webp" alt="Wallpaperee">
-
-#### Create mobile AI wallpapers with your name
-
-[Visit](https://www.thataicollection.com/redirect/wallpaperee?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-Create photorealistic wallpapers out of your name. Ever imagined your name sizzling in intense flames? We got you, drop it like it's hot! Or maybe you're more of an ice-crystal queen or king? Your name can sparkle in frosty ice. So come on, make it lit! 🔥
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/wallpaperee?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-<br />
-
-### Stabledojo
-
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-stabledojo.webp" alt="Stabledojo">
-
-#### The First AI Photo Studio
-
-[Visit](https://www.thataicollection.com/redirect/stabledojo?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-With StableDojo you can generate an avatar for yourself or a photoshot for your favorite products.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/stabledojo?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-<br />
-
-<br />
-
-### Prisma
-
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-prisma.webp" alt="Prisma">
-
-#### Prisma Captures the Essence of Your Photos Transforming Them Into Vivid Color Paintings
-
-[Visit](https://www.thataicollection.com/redirect/prisma?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-Over 700+ brilliant art & portrait styles to your disposal. Possibility to modify both foreground & background separately. Splendid frames to upgrade your images.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/prisma?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-<br />
-
-### Claid.ai
-
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-claid.ai.webp" alt="Claid.ai">
-
-#### Create Beautiful Converting Content With AI
-
-[Visit](https://www.thataicollection.com/redirect/claid.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-Automate end-to-end Image creation and boost your business using our suite of AI products. Create multiple product images that suit your brand. Simplify your content creation process by transforming boring product images to photoshoot-quality marketing images
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/claid.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
@@ -3375,18 +3487,17 @@ Cogram uses AI to take notes in virtual meetings, track action items, and automa
 
 <br />
 
-### NewsDeck from OneSub
+### AI-Flow
 
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-newsdeck-from-onesub.webp" alt="NewsDeck from OneSub">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ai-flow.webp" alt="AI-Flow">
 
-#### Newsdeck - Find, Filter & Analyse Thousands of Articles, Daily.
+#### AI-FLOW is an innovative open-source platform designed to effortlessly connect and combine leading AI models, crafting custom AI tools tailored to your unique needs.
 
-[Visit](https://www.thataicollection.com/redirect/newsdeck-from-onesub?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+[Visit](https://www.thataicollection.com/redirect/ai-flow?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-Stream news stories related to over 500,000 people, companies, countries and topics. Discover and organise your news coverage
-NewsDeck uses the power of OneSub's intelligent newsreader AI to give you realtime access to the global news cycle.
+AI-FLOW is a versatile platform that empowers you to construct tailor-made solutions for a wide range of applications. Whether you're streamlining social media content creation, summarizing YouTube videos, upscaling AI-generated images, or converting text descriptions into video clips, AI-FLOW provides the tools you need to innovate and excel.
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/newsdeck-from-onesub?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ai-flow?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
@@ -3671,19 +3782,17 @@ Get great copy that sells. Copy.ai is an AI-powered copywriter that generates hi
 
 <br />
 
-### Typegrow
+### PH Deck
 
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-typegrow.webp" alt="Typegrow">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-ph-deck.webp" alt="PH Deck">
 
-#### Grow your LinkedIn audience 10x faster with AI
+#### See Everyday’s Product Launch in a One Deck
 
-[Visit](https://www.thataicollection.com/redirect/typegrow?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+[Visit](https://www.thataicollection.com/redirect/ph-deck?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-Typegrow is an AI-powered tool to grow your LinkedIn audience 10x faster. It helps you create and schedule better content and get more reach, engagement, and followers daily with less work.
+Tailored for Product Hunt users, revealing market trends through AI and YC's proven approaches. Combining AI technology and YC insights to highlight daily standouts from Product Hunt for you.
 
-It's an ideal tool for individual creators building personal brands on LinkedIn or social media agencies managing their client profiles.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/typegrow?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/ph-deck?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
@@ -4621,6 +4730,21 @@ Beachatlas.com is an encyclopedia of beaches. Leveraging AI, beachatlas.com enab
 
 <br />
 
+### ItineraryTrip
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-itinerarytrip.webp" alt="ItineraryTrip">
+
+#### ItineraryTrip - Personalised Itinerary AI Travel agent
+
+[Visit](https://www.thataicollection.com/redirect/itinerarytrip?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+Discover seamless travel itinerary planning with our AI-driven platform. It covers brief city getaways or extended one/two weeks itineraries, crafting itineraries worldwide.
+Ask and learn anything to our AI Travel assistant about the cities, countries, landmarks, and activities. Save answers as travel notes and also expand suggested itineraries
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/itinerarytrip?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
 [See All 🏖 Vacation & Trip Planner Applications on AI Collection](https://www.thataicollection.com/en/categories/vacation-and-trip-planner?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -4749,6 +4873,20 @@ Explainer & How-to, Marketing, Personalized Sales, E-learning, Training & Onboar
 
 ## Web Design
 
+### Uizard
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-uizard.webp" alt="Uizard">
+
+#### Uizard - App, Web, & Ui Design Made Easy - Powered by AI
+
+[Visit](https://www.thataicollection.com/redirect/uizard?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+Design stunning websites, web apps, mobile app, interfaces, wireframes, prototypes, mockups in minutes. Visualize and communicate your ideas effortlessly. No design experience required!
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/uizard?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
 ### Magician
 
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-magician.webp" alt="Magician">
@@ -4794,20 +4932,6 @@ Work with reliable, vetted experts who built multi-million dollar products
 [More Information and Pricing](https://www.thataicollection.com/en/application/ai-project-description-generator?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
-
-<br />
-
-### Uizard
-
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-uizard.webp" alt="Uizard">
-
-#### Uizard - App, Web, & Ui Design Made Easy - Powered by AI
-
-[Visit](https://www.thataicollection.com/redirect/uizard?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-Design stunning websites, web apps, mobile app, interfaces, wireframes, prototypes, mockups in minutes. Visualize and communicate your ideas effortlessly. No design experience required!
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/uizard?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
@@ -4865,18 +4989,17 @@ Sitekick allows you to create beautiful landing pages. Without the need for codi
 
 ## Writing Assistant
 
-### Journalist AI
+### Wordfixerbot
 
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-journalist-ai.webp" alt="Journalist AI">
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot">
 
-#### Generate high-quality articles that auto-publish to your blog
+#### Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot
 
-[Visit](https://www.thataicollection.com/redirect/journalist-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+[Visit](https://www.thataicollection.com/redirect/wordfixerbot?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-Instantly get hundreds of relevant articles that are unique and optimized for your niche. Feature-Rich Articles that Bring Traffic
-Journalist AI crafts content that is well-structured, appropriate for your business and that ranks on Google.
+WordfixerBot's Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!
 
-[More Information and Pricing](https://www.thataicollection.com/en/application/journalist-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+[More Information and Pricing](https://www.thataicollection.com/en/application/wordfixerbot?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 
@@ -4941,6 +5064,21 @@ Boost your writing skills with the best writing assistant software. This free AI
 
 <br />
 
+### Journalist AI
+
+<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-journalist-ai.webp" alt="Journalist AI">
+
+#### Generate high-quality articles that auto-publish to your blog
+
+[Visit](https://www.thataicollection.com/redirect/journalist-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+Instantly get hundreds of relevant articles that are unique and optimized for your niche. Feature-Rich Articles that Bring Traffic
+Journalist AI crafts content that is well-structured, appropriate for your business and that ranks on Google.
+
+[More Information and Pricing](https://www.thataicollection.com/en/application/journalist-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+<br />
+
 ### Elephas
 
 <img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-elephas.webp" alt="Elephas">
@@ -4954,20 +5092,6 @@ Save hours every day. The world's first AI writer that works across your Mac, iP
 [More Information and Pricing](https://www.thataicollection.com/en/application/elephas?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
-
-<br />
-
-### Quillbot Paraphraser
-
-<img align="left" width="240" src="https://aicollection.s3.amazonaws.com/screenshots/screenshot-quillbot-paraphraser.webp" alt="Quillbot Paraphraser">
-
-#### QuillBot's AI-powered Paraphrasing Tool Will Enhance Your Writing
-
-[Visit](https://www.thataicollection.com/redirect/quillbot-paraphraser?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-Your words matter, and our paraphrasing tool is designed to ensure you use the right ones. With two free modes and five Premium modes to choose from, you can use QuillBot’s online Paraphraser to rephrase any text in a variety of ways.
-
-[More Information and Pricing](https://www.thataicollection.com/en/application/quillbot-paraphraser?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
 <br />
 

@@ -42,7 +42,7 @@
 
 ### Graphic Displays
 
-*   [ggtree (⭐772)](https://github.com/GuangchuangYu/ggtree) - Visualization and annotation of phylogenetic tree.
+*   [ggtree (⭐781)](https://github.com/GuangchuangYu/ggtree) - Visualization and annotation of phylogenetic tree.
 
 ## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

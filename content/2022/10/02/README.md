@@ -10,8 +10,8 @@
 
 ### Game Development
 
-*   [Ebitengine (⭐9.4k)](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine in Go.
-*   [fantasyname (⭐29)](https://github.com/s0rg/fantasyname) - Fantasy names generator.
+*   [Ebitengine (⭐9.5k)](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine in Go.
+*   [fantasyname (⭐30)](https://github.com/s0rg/fantasyname) - Fantasy names generator.
 
 ### Logging
 
@@ -19,7 +19,7 @@
 
 ### Package Management
 
-*   [gup (⭐255)](https://github.com/nao1215/gup) - Update binaries installed by "go install".
+*   [gup (⭐262)](https://github.com/nao1215/gup) - Update binaries installed by "go install".
 
 ### Third-party APIs
 
@@ -29,7 +29,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fd-plugin (⭐5)](https://github.com/MohamedElashri/fd-zsh) - Adds aliases for [fd (⭐30k)](https://github.com/sharkdp/fd), a modern replacement for `find`.
+*   [fd-plugin (⭐5)](https://github.com/MohamedElashri/fd-zsh) - Adds aliases for [fd (⭐31k)](https://github.com/sharkdp/fd), a modern replacement for `find`.
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -55,12 +55,12 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform. ([Source Code (⭐737)](https://github.com/ernestwisniewski/kbin)) `AGPL-3.0` `PHP/Nodejs/Docker`
-*   [qpixel](https://codidact.com/) - Q\&A-based community knowledge-sharing software. ([Source Code (⭐340)](https://github.com/codidact/qpixel)) `AGPL-3.0` `Ruby`
+*   [kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform. ([Source Code (⭐742)](https://github.com/ernestwisniewski/kbin)) `AGPL-3.0` `PHP/Nodejs/Docker`
+*   [qpixel](https://codidact.com/) - Q\&A-based community knowledge-sharing software. ([Source Code (⭐345)](https://github.com/codidact/qpixel)) `AGPL-3.0` `Ruby`
 
 ### Software / Software Development - Project Management
 
-*   [Gerrit](https://www.gerritcodereview.com/) - A code review and project management tool for Git based projects. ([Source Code (⭐878)](https://github.com/GerritCodeReview/gerrit)) `Apache-2.0` `Java/Docker`
+*   [Gerrit](https://www.gerritcodereview.com/) - A code review and project management tool for Git based projects. ([Source Code (⭐883)](https://github.com/GerritCodeReview/gerrit)) `Apache-2.0` `Java/Docker`
 
 ## [7. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Quora
 
-*   [Quetre (⭐389)](https://github.com/zyachel/quetre) - Quetre is an alternative front-end to Quora. It enables you to see answers without ads, trackers, and other such bloat.
+*   [Quetre (⭐394)](https://github.com/zyachel/quetre) - Quetre is an alternative front-end to Quora. It enables you to see answers without ads, trackers, and other such bloat.
 
 ## [9. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

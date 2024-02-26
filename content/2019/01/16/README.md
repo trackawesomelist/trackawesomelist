@@ -10,7 +10,7 @@
 
 ### Domain and IP Research / Telegram
 
-*   [Squatm3gator (⭐27)](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
+*   [Squatm3gator (⭐29)](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
 
 ## [2. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 

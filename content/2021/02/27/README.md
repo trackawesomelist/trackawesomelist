@@ -23,7 +23,7 @@
 
 ### Misc
 
-*   [anyolite (⭐150)](https://github.com/Anyolite/anyolite) - Full mruby interpreter with simple bindings, allowing for easy scripting support in projects
+*   [anyolite (⭐151)](https://github.com/Anyolite/anyolite) - Full mruby interpreter with simple bindings, allowing for easy scripting support in projects
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -59,12 +59,12 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-node (⭐897)](https://github.com/axe-me/vite-plugin-node) - Integration with Node.js backend servers.
+*   [vite-plugin-node (⭐907)](https://github.com/axe-me/vite-plugin-node) - Integration with Node.js backend servers.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-importer (⭐54)](https://github.com/ajuner/vite-plugin-importer) - Integration for babel-plugin-import.
-*   [vite-plugin-banner (⭐90)](https://github.com/chengpeiquan/vite-plugin-banner) - Adds a banner to the top of each generated chunk.
+*   [vite-plugin-importer (⭐56)](https://github.com/ajuner/vite-plugin-importer) - Integration for babel-plugin-import.
+*   [vite-plugin-banner (⭐92)](https://github.com/chengpeiquan/vite-plugin-banner) - Adds a banner to the top of each generated chunk.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -73,7 +73,7 @@
 
 ### Vue / Integrations
 
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2 (⭐617)](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2 (⭐618)](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
 
 ### Vue / Routing
 
@@ -81,8 +81,8 @@
 
 ### Vue / Loaders
 
-*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-md (⭐566)](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-svg-loader (⭐492)](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
+*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-md (⭐569)](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-svg-loader (⭐502)](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
 
 ### Vue / SSG
 
@@ -100,7 +100,7 @@
 
 ### Software / Pastebins
 
-*   [FlashPaper (⭐278)](https://github.com/AndrewPaglusch/FlashPaper) - A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ([Demo](https://flashpaper.io)) `MIT` `Docker/PHP`
+*   [FlashPaper (⭐283)](https://github.com/AndrewPaglusch/FlashPaper) - A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ([Demo](https://flashpaper.io)) `MIT` `Docker/PHP`
 
 ## [9. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 

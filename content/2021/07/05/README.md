@@ -10,7 +10,7 @@
 
 ### Decentralized Systems
 
-*   [Golem (⭐168)](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
+*   [Golem (⭐170)](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
 
 ### Related
 
@@ -20,7 +20,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [health-records (⭐21)](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
+*   [health-records (⭐23)](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

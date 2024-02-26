@@ -76,7 +76,7 @@
 
 ### Games / Directory Navigation
 
-*   [sedtris (⭐499)](https://github.com/uuner/sedtris) - Tetris in sed
+*   [sedtris (⭐504)](https://github.com/uuner/sedtris) - Tetris in sed
 *   [sed-scripts (⭐43)](https://github.com/aureliojargas/sed-scripts) - Arkanoid and Sokoban written using sed
 
 ## [8. Awesome Db](/content/numetriclabz/awesome-db/week/README.md)

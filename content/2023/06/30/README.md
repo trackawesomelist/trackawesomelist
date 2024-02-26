@@ -20,13 +20,13 @@
 
 ### TYPO3 CMS / Community
 
-*   [vite-asset-collector for TYPO3 (⭐21)](https://github.com/s2b/vite-asset-collector) - Integration for TYPO3 CMS.
+*   [vite-asset-collector for TYPO3 (⭐24)](https://github.com/s2b/vite-asset-collector) - Integration for TYPO3 CMS.
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Finance
 
-*   [avhz/RustQuant (⭐738)](https://github.com/avhz/RustQuant) \[[RustQuant](https://crates.io/crates/RustQuant)] — A quantitative finance library. ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/avhz/RustQuant/build.yml)
+*   [avhz/RustQuant (⭐766)](https://github.com/avhz/RustQuant) \[[RustQuant](https://crates.io/crates/RustQuant)] — A quantitative finance library. ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/avhz/RustQuant/build.yml)
 
 ## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 

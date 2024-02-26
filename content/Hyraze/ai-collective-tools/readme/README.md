@@ -249,6 +249,7 @@ Use these hashtags in search to filter out the tools
 *   [Book Witch](https://bookwitch.io/) - Use the power of AI to create complete e-books with just one click! `#freemium`
 *   [Canva](https://www.canva.com/) - Use it to create social media posts, presentations, posters, videos, logos and more. `#freemium`
 *   [Designs AI](https://designs.ai/) - Make a logo, video, social media banner, business card, flyer, mockup and more with AI. `#freemium`
+*   [Galileo AI](https://www.usegalileo.ai/explore) -Galileo AI is a UI generation platform for easy and fast design ideation.Generative AI for user interface design, empowering you to design beyond imagination with speed . `#freemium`
 *   [Stream Slides](https://streamslide.io/) - YouTube Video to Slides Converter. `#free`
 *   [svg.io](https://svg.io) - The power of AI with our Free Text-to-SVG Generator! Effortlessly convert your text prompts into stunning SVG images using our advanced AI technology. `free`
 
@@ -432,6 +433,7 @@ Use these hashtags in search to filter out the tools
 *   [Novita.ai](https://novita.ai/) - Novita is your go-to solution for fast and affordable AI image generation. `#paid`
 *   [Picsart](https://picsart.com/ai-image-generator/) - Convert words into an image in mere seconds with the Picsart AI Image Generator. `#freemium`
 *   [pica-ai](https://www.pica-ai.com/) - Experience funny or realistic face swapping effects. Begin by uploading your photo!. `freemium`
+*   [Remaker-Ai](https://remaker.ai/en) - All-in-one tool leveraging the capabilities of artificial intelligence. Craft and produce diverse content formats, spanning text, images, and beyond.`#free`
 *   [removebg](https://remove.bg/) - Remove any Image Background `#free`
 *   [Rentoor](https://rentoor.vercel.app) - Enhance your images with Rentoor's super-resolution feature, restoring clarity and detail for stunning visuals. `freemium`
 *   [Stable Diffusion Online](https://stablediffusionweb.com/#ai-image-generator) - text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds. `#opensource`

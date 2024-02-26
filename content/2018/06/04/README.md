@@ -62,7 +62,7 @@
 
 ### Shell Package Management / Directory Navigation
 
-*   [shallow-backup (⭐1.1k)](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more
+*   [shallow-backup (⭐1.2k)](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more
 
 ## [8. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 

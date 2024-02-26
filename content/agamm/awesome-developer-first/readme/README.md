@@ -2,7 +2,7 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 721 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 742 · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / Overview ]
 
@@ -25,7 +25,7 @@ The definition of developer-first for this repo is:
 + 👀 Watch this repo to get notifications about new products we find
 ```
 
-For the latest additions [click here (⭐721)](https://github.com/agamm/awesome-developer-first/commits/main).
+For the latest additions [click here (⭐742)](https://github.com/agamm/awesome-developer-first/commits/main).
 
 ## Contents
 
@@ -208,6 +208,7 @@ For the latest additions [click here (⭐721)](https://github.com/agamm/awesome-
 
 *Documentation solutions.*
 
+*   [Apidog](https://apidog.com/) - All-in-one API documentation tool, 1-click to generate API documentation from requests.
 *   [Bump.sh](https://bump.sh/) - API documentation and change management solution.
 *   [DeveloperHub](https://developerhub.io/) - Collaborative developer documentation platform.
 *   [Mintlify](https://www.mintlify.com/) - AI powered code documentation, IDE extension (open source). [![Mintlify](https://img.shields.io/github/stars/mintlify/writer?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/mintlify/writer)
@@ -298,6 +299,7 @@ For the latest additions [click here (⭐721)](https://github.com/agamm/awesome-
 *   [APITemplate.io](https://apitemplate.io/) - APIs to generate images and PDFs from reusable templates.
 *   [Cloudinary](https://cloudinary.com/) - Optimize, create, manage, and deliver images and videos.
 *   [Dyte](https://dyte.io) - Build powerful live experiences in your product with an all-in-one Video SDK.
+*   [Flatfile](https://flatfile.com/) - Programmatically import data from files so it's API-ready.
 *   [ImageKit](https://imagekit.io/) - Automate image optimization, transformation, and delivery.
 *   [imgix](https://www.imgix.com/) - Transforms, optimizes, and cache images.
 *   [Mux](https://mux.com/) - APIs to upload, manage, and stream video.
@@ -344,7 +346,7 @@ For the latest additions [click here (⭐721)](https://github.com/agamm/awesome-
 
 *Interactions with natural language.*
 
-*   [CometLLM (⭐355)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
+*   [CometLLM (⭐362)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
 *   [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google.
 
 ## Orchestration
@@ -426,6 +428,7 @@ For the latest additions [click here (⭐721)](https://github.com/agamm/awesome-
 
 *Testing tools.*
 
+*   [Apidog](https://apidog.com/) - GUI tool for API mocking, testing (scenario testing, functional testing, performance testing, etc.).
 *   [Applitools](https://applitools.com/) - Automated visual testing.
 *   [Beeceptor](https://beeceptor.com/) - REST API mocking.
 *   [Blackfire.io](https://blackfire.io/) - Performance testing.
@@ -441,5 +444,5 @@ For the latest additions [click here (⭐721)](https://github.com/agamm/awesome-
 
 ## Contributing
 
-See here: [CONTRIBUTING.md (⭐721)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md (⭐742)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
 

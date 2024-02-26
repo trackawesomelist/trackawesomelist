@@ -28,7 +28,7 @@
 
 ### Software / VPN
 
-*   [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall. ([Source Code (⭐5.9k)](https://github.com/firezone/firezone)) `Apache-2.0` `Docker`
+*   [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall. ([Source Code (⭐6k)](https://github.com/firezone/firezone)) `Apache-2.0` `Docker`
 
 ## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 

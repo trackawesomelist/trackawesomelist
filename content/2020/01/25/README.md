@@ -6,11 +6,11 @@
 
 
 
-## [1. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [1. Awesome Python](/content/vinta/awesome-python/README.md)
 
-### Graph Machine Learning / Others
+### Science
 
-*   [Karate Club (⭐2k)](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph-structured data.
+*   [Karate Club (⭐2k)](https://github.com/benedekrozemberczki/karateclub) - Unsupervised machine learning toolbox for graph structured data.
 
 ## [2. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

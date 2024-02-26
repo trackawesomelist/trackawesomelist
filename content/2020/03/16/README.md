@@ -20,7 +20,7 @@
 
 ### Utils
 
-*   [playwright-fluent (⭐148)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
+*   [playwright-fluent (⭐151)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
 
 ## [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

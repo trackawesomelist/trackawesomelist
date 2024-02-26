@@ -69,7 +69,7 @@
 
 ### Front-End Development
 
-*   [WordPress-Gatsby (⭐255)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
+*   [WordPress-Gatsby (⭐257)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
 
 ## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Software / IT Asset Management
 
-*   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code (⭐3.6k)](https://github.com/glpi-project/glpi)) `GPL-3.0` `PHP`
+*   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code (⭐3.7k)](https://github.com/glpi-project/glpi)) `GPL-3.0` `PHP`
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### FRAME Pallets
 
-*   [RMRK Pallets (⭐70)](https://github.com/rmrk-team/rmrk-substrate) - Nested, conditional & Multi-resourced NFTs.
+*   [RMRK Pallets (⭐73)](https://github.com/rmrk-team/rmrk-substrate) - Nested, conditional & Multi-resourced NFTs.
 
 ### Tools
 
@@ -190,7 +190,7 @@
 
 ### Templates / Elm
 
-*   [elm\_vite\_tailwind\_template (⭐31)](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
+*   [elm\_vite\_tailwind\_template (⭐33)](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
 
 ### Frameworks / Community
 

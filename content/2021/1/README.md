@@ -10,7 +10,7 @@
 
 ### API Builder and Discovery
 
-*   [jsonapi-serializer (⭐1.3k)](https://github.com/jsonapi-serializer/jsonapi-serializer) - A fast JSON:API serializer for Ruby Objects.
+*   [jsonapi-serializer (⭐1.4k)](https://github.com/jsonapi-serializer/jsonapi-serializer) - A fast JSON:API serializer for Ruby Objects.
 
 ### Scheduling
 
@@ -241,11 +241,11 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [filebrowser](https://filebrowser.org/) - Web File Browser with a Material Design web interface. ([Source Code (⭐22k)](https://github.com/filebrowser/filebrowser)) `Apache-2.0` `Go`
+*   [filebrowser](https://filebrowser.org/) - Web File Browser with a Material Design web interface. ([Source Code (⭐23k)](https://github.com/filebrowser/filebrowser)) `Apache-2.0` `Go`
 
 ### Software / Personal Dashboards
 
-*   [Your Spotify (⭐2.1k)](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
+*   [Your Spotify (⭐2.3k)](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
 
 ## [20. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -292,7 +292,7 @@
 
 ### Learn
 
-*   [YouTubers (⭐4.6k)](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
+*   [YouTubers (⭐4.7k)](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 
 ### Content Management Systems
 
@@ -300,11 +300,11 @@
 
 ### Hardware
 
-*   [Robotic Tooling (⭐2.8k)](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
+*   [Robotic Tooling (⭐2.9k)](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
 
 ### Miscellaneous
 
-*   [Biological Visualizations (⭐138)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
+*   [Biological Visualizations (⭐144)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
 
 ## [26. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -314,24 +314,24 @@
 
 ### React / Loaders
 
-*   [vite-plugin-svgr (⭐441)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
+*   [vite-plugin-svgr (⭐444)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
 
 ### Solid / Integrations
 
-*   [vite-plugin-solid (⭐405)](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
+*   [vite-plugin-solid (⭐407)](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
 
 ### Rollup Plugins / Included in Vite
 
-*   [@rollup/plugin-alias (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/alias) - Define and resolve aliases for bundle dependencies.
-*   [@rollup/plugin-commonjs (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/commonjs) - Convert CommonJS modules to ES6.
-*   [@rollup/plugin-dynamic-import-vars (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/dynamic-import-vars) - Resolving dynamic imports that contain variables.
-*   [@rollup/plugin-json (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/json) - Convert `.json` files to ES6 modules.
+*   [@rollup/plugin-alias (⭐3.5k)](https://github.com/rollup/plugins/blob/master/packages/alias) - Define and resolve aliases for bundle dependencies.
+*   [@rollup/plugin-commonjs (⭐3.5k)](https://github.com/rollup/plugins/blob/master/packages/commonjs) - Convert CommonJS modules to ES6.
+*   [@rollup/plugin-dynamic-import-vars (⭐3.5k)](https://github.com/rollup/plugins/blob/master/packages/dynamic-import-vars) - Resolving dynamic imports that contain variables.
+*   [@rollup/plugin-json (⭐3.5k)](https://github.com/rollup/plugins/blob/master/packages/json) - Convert `.json` files to ES6 modules.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-dsv (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/dsv) - Convert `.csv` and `.tsv` files into JavaScript modules with d3-dsv.
-*   [@rollup/plugin-graphql (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/graphql) - Convert .gql/.graphql files to ES6 modules.
-*   [@rollup/plugin-replace (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/replace) - Replace strings in files while bundling.
+*   [@rollup/plugin-dsv (⭐3.5k)](https://github.com/rollup/plugins/blob/master/packages/dsv) - Convert `.csv` and `.tsv` files into JavaScript modules with d3-dsv.
+*   [@rollup/plugin-graphql (⭐3.5k)](https://github.com/rollup/plugins/blob/master/packages/graphql) - Convert .gql/.graphql files to ES6 modules.
+*   [@rollup/plugin-replace (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/replace) - Replace strings in files while bundling.
 
 ### Open Source / Community
 
@@ -596,12 +596,12 @@
 
 ### Contents / Libraries
 
-*   [FHIR .NET API (⭐735)](https://github.com/FirelyTeam/firely-net-sdk) - The official .NET API for HL7 FHIR.
-*   [HAPI FHIR (⭐1.7k)](https://github.com/hapifhir/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
+*   [FHIR .NET API (⭐782)](https://github.com/FirelyTeam/firely-net-sdk) - The official .NET API for HL7 FHIR.
+*   [HAPI FHIR (⭐1.9k)](https://github.com/hapifhir/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
 
 ### Contents / Asset Management
 
-*   [Tapirx (⭐26)](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
+*   [Tapirx (⭐28)](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
 
 ### Contents / Logistics
 
@@ -681,7 +681,7 @@
 
 ### PlayCanvas
 
-*   [Engine (⭐8.9k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
+*   [Engine (⭐9k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
 *   [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 *   [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
 

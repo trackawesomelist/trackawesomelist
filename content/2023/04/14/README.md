@@ -40,7 +40,7 @@
 
 ### Configuration
 
-*   [ini-cpp (⭐31)](https://github.com/SSARCandy/ini-cpp) - Single header only C++ version, with some handy read/write interface, extend from [inih (⭐2.2k)](https://github.com/benhoyt/inih). \[BSD-3-Clause] [website](https://ssarcandy.tw/ini-cpp/index.html)
+*   [ini-cpp (⭐31)](https://github.com/SSARCandy/ini-cpp) - Single header only C++ version, with some handy read/write interface, extend from [inih (⭐2.3k)](https://github.com/benhoyt/inih). \[BSD-3-Clause] [website](https://ssarcandy.tw/ini-cpp/index.html)
 
 ## [7. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Test / Lazy Load
 
-*   [playwright (⭐59k)](https://github.com/microsoft/playwright) enables reliable end-to-end testing for modern web apps.
+*   [playwright (⭐60k)](https://github.com/microsoft/playwright) enables reliable end-to-end testing for modern web apps.
 
 ## [10. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Community Modules / Miscellaneous
 
-*   [terraform-gce-atlantis (⭐25)](https://github.com/bschaatsbergen/terraform-gce-atlantis) - Creates Terraform configurations for running [Atlantis](https://runatlantis.io) on Google Compute Engine.
+*   [terraform-gce-atlantis (⭐27)](https://github.com/bschaatsbergen/terraform-gce-atlantis) - Creates Terraform configurations for running [Atlantis](https://runatlantis.io) on Google Compute Engine.
 
 ---
 

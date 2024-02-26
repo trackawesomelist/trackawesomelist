@@ -1,19 +1,12 @@
 # Awesome List Updates on Sep 27, 2018
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Computer Science](/content/ossu/computer-science/README.md)
-
-### How to show your progress / Which programming languages should I use?
-
-*   Copy [this](https://trello.com/b/IScNSzsI/ossu-compsci) board to your personal account.
-    See how to copy a board [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
-
-## [2. Awesome Eta](/content/sfischer13/awesome-eta/README.md)
+## [1. Awesome Eta](/content/sfischer13/awesome-eta/README.md)
 
 ### Introduction / Overview
 
@@ -32,19 +25,19 @@
 *   [sbt (⭐58)](https://github.com/typelead/sbt-eta) - Plugin for integrating Eta into Scala.
 *   [gradle (⭐28)](https://github.com/typelead/gradle-eta) - Gradle plugin for Eta projects.
 
-## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Templates / Preferences
 
 *   [Liquid Pay Payment App (⭐293)](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
 
-## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Chat
 
 *   [InputBarAccessoryView (⭐1.1k)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
 
-## [5. Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md)
+## [4. Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md)
 
 ### Resources for inspiration / Sites
 
@@ -211,13 +204,13 @@
 *   [Futureproof Web Design Techniques. Interaction Design & Complex Animations](http://www.uxpin.com/curated-interaction-design-animations.html) by @UXPin.
 *   [CSS animations](http://cssanimationspocketguide.com/) by @valhead.
 
-## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 
 *   [OxCC (⭐17)](https://github.com/jonlamb-gh/oxcc): A port of Open Source Car Control written in Rust
 
-## [7. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### United States 🇺🇸 / Washington <a id="washington"></a>
 
@@ -231,13 +224,13 @@ Webpage: <https://ironcladcoffee.com/>
 | ---------------------- | ----- | ------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | open, password on wall | ✔     | ❄️/♨️         | [1805 E Grace St, Richmond, VA 23223](https://goo.gl/maps/eXyASDqE7432) | Open Monday - Friday, 7:00am - 6:00pm Saturday 8:00am - 6:00pm Closed Sundays |
 
-## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Visual Programming Languages
 
 *   [cables](https://cables.gl) \[Cross-platform/Web] - Your model kit for creating beautiful interactive content. Currently in private beta, invites can be requested.
 
-## [9. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+## [8. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
 ### Europe / France 🇫🇷
 

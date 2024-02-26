@@ -343,7 +343,7 @@
 
 ### Tools / Community providers
 
-*   [yor (⭐747)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
+*   [yor (⭐759)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
 
 ## [19. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
@@ -548,19 +548,6 @@
 
 *   [TradeFrame (⭐401)](https://github.com/rburkholder/trade-frame) - C++ 17 based framework/library (with sample applications) for testing options based automated trading ideas using DTN IQ real time data feed and Interactive Brokers (TWS API) for trade execution. Comes with built-in [Option Greeks/IV (⭐401)](https://github.com/rburkholder/trade-frame/tree/master/lib/TFOptions) calculation library.
 
-### Frameworks / Data Visualization
-
-*   [QuantLib](https://www.quantlib.org) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
-    *   [JQuantLib](http://www.jquantlib.org) - Java port.
-    *   [RQuantLib](http://dirk.eddelbuettel.com/code/rquantlib.html) - R port.
-    *   [QuantLibAddin](https://www.quantlib.org/quantlibaddin/) - Excel support.
-    *   [QuantLibXL](https://www.quantlib.org/quantlibxl/) - Excel support.
-    *   [QLNet (⭐360)](https://github.com/amaggiulli/qlnet) - .Net port.
-    *   [PyQL (⭐891)](https://github.com/enthought/pyql) - Python port.
-    *   [QuantLib.jl (⭐134)](https://github.com/pazzo83/QuantLib.jl) - Julia port.
-    *   [QuantLib-Python Documentation](https://quantlib-python-docs.readthedocs.io/) - Documentation for the Python bindings for the QuantLib library
-    *   [QuantLib with Automatic Differention enabled (⭐12)](https://github.com/auto-differentiation/quantlib-xad) - Integration of Automatic Differentiation with the QuantLib library
-
 ### CSharp / Data Visualization
 
 *   [TDAmeritrade.DotNetCore (⭐54)](https://github.com/NVentimiglia/TDAmeritrade.DotNetCore) - Free, open-source .NET Client for the TD Ameritrade Trading Platform. Helps developers integrate TD Ameritrade API into custom trading solutions.
@@ -705,8 +692,8 @@
 
 ### Starters/Boilerplates / Other external resources
 
-*   [rails\_api\_base (⭐411)](https://github.com/rootstrap/rails_api_base) - Rails 6 boilerplate project for JSON RESTful APIs.
-*   [rails\_hotwire\_base (⭐72)](https://github.com/rootstrap/rails_hotwire_base) - Rails 6 boilerplate project with Hotwire for full-stack applications with a modern SPA-like experience.
+*   [rails\_api\_base (⭐413)](https://github.com/rootstrap/rails_api_base) - Rails 6 boilerplate project for JSON RESTful APIs.
+*   [rails\_hotwire\_base (⭐73)](https://github.com/rootstrap/rails_hotwire_base) - Rails 6 boilerplate project with Hotwire for full-stack applications with a modern SPA-like experience.
 
 ## [36. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -726,7 +713,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [serpro69/kotlin-faker (⭐385)](https://github.com/serpro69/kotlin-faker) - Port of ruby faker gem written in kotlin
+*   [serpro69/kotlin-faker (⭐390)](https://github.com/serpro69/kotlin-faker) - Port of ruby faker gem written in kotlin
 
 ### Libraries/Frameworks / Serialization
 
@@ -734,22 +721,22 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [kotlin-graphics/assimp (⭐90)](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
+*   [kotlin-graphics/assimp (⭐91)](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
 *   [java-opengl-labs/modern-jogl-examples (⭐103)](https://github.com/java-opengl-labs/modern-jogl-examples) - port of 'Learning Modern 3D Graphic Programming' by J.L.McKesson (jogl)
 
 ## [38. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
-*   [fast-crud (⭐660)](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
+*   [fast-crud (⭐673)](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
 
 ### Templates / React
 
-*   [react-vite-admin (⭐217)](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
+*   [react-vite-admin (⭐221)](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-vconsole (⭐61)](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
+*   [vite-plugin-vconsole (⭐63)](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
 
 ### React / Presets
 
@@ -757,7 +744,7 @@
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-virtual (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/virtual) - A Rollup plugin that loads virtual modules from memory.
+*   [@rollup/plugin-virtual (⭐3.5k)](https://github.com/rollup/plugins/blob/master/packages/virtual) - A Rollup plugin that loads virtual modules from memory.
 
 ### Rollup Plugins / Community
 
@@ -769,11 +756,11 @@
 
 ### Craft CMS / Community
 
-*   [Craft Vite (⭐48)](https://github.com/nystudio107/craft-vite) - Plugin for integration with Craft CMS.
+*   [Craft Vite (⭐49)](https://github.com/nystudio107/craft-vite) - Plugin for integration with Craft CMS.
 
 ### Apps/Websites / Community
 
-*   [vue3-realworld-example-app (⭐863)](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
+*   [vue3-realworld-example-app (⭐870)](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
 
 ## [39. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -858,7 +845,7 @@
 
 ### Audio
 
-*   [dzr (⭐161)](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
+*   [dzr (⭐162)](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
 
 ### Payments
 
@@ -866,7 +853,7 @@
 
 ### FIAT
 
-*   [My Expenses (⭐667)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
+*   [My Expenses (⭐675)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
 
 ## [46. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 

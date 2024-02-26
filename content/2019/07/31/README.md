@@ -56,7 +56,7 @@
 
 ### Front-End Development
 
-*   [Blazor (⭐8.2k)](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+*   [Blazor (⭐8.4k)](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
 ## [4. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 

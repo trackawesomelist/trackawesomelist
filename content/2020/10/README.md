@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 09 - Mar 15, 2020
 
-61 awesome lists updated this week.
+60 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -42,7 +42,7 @@
 
 ### Projects
 
-*   [yew-styles-page (⭐147)](https://github.com/spielrs/yew-styles-page) - This is an initial project of a framework style for yew.
+*   [yew-styles-page (⭐148)](https://github.com/spielrs/yew-styles-page) - This is an initial project of a framework style for yew.
 
 ## [5. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
@@ -81,27 +81,27 @@
 
 ### 2019
 
-*   [ggforce (⭐870)](https://github.com/thomasp85/ggforce) - ggplot2 extension framework ![ggforce](https://cranlogs.r-pkg.org/badges/ggforce)
+*   [ggforce (⭐898)](https://github.com/thomasp85/ggforce) - ggplot2 extension framework ![ggforce](https://cranlogs.r-pkg.org/badges/ggforce)
 *   [rayshader (⭐2k)](https://github.com/tylermorganwall/rayshader) - 2D and 3D data visualizations via rgl ![rayshader](https://cranlogs.r-pkg.org/badges/rayshader)
 
 ### Integrated Development Environments
 
 *   [RStudio <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://www.rstudio.org/) - A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
 *   [IRkernel <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐1.6k)](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter.
-*   [radian <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐1.8k)](https://github.com/randy3k/radian) (formerly rtichoke) - A modern R console with syntax highlighting.
+*   [radian <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐1.9k)](https://github.com/randy3k/radian) (formerly rtichoke) - A modern R console with syntax highlighting.
 
 ### Syntax
 
-*   [magrittr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐948)](https://github.com/smbache/magrittr) - Let's pipe it.
+*   [magrittr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐951)](https://github.com/smbache/magrittr) - Let's pipe it.
 
 ### Data Manipulation
 
 *   [dplyr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐4.6k)](https://github.com/hadley/dplyr) - Fast data frames manipulation and database query.
-*   [data.table <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐3.4k)](https://github.com/Rdatatable/data.table) - Fast data manipulation in a short and flexible syntax.
-*   [reshape2  <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐206)](https://github.com/hadley/reshape) - Flexible rearrange, reshape and aggregate data.
-*   [broom <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐16)](https://github.com/dgrtwo/broom) - Convert statistical analysis objects into tidy data frames.
-*   [stringi <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐285)](https://github.com/gagolews/stringi) - ICU based string processing package.
-*   [stringr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐556)](https://github.com/hadley/stringr) - Consistent API for string processing, built on top of stringi.
+*   [data.table <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐3.5k)](https://github.com/Rdatatable/data.table) - Fast data manipulation in a short and flexible syntax.
+*   [reshape2  <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐207)](https://github.com/hadley/reshape) - Flexible rearrange, reshape and aggregate data.
+*   [broom <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐19)](https://github.com/dgrtwo/broom) - Convert statistical analysis objects into tidy data frames.
+*   [stringi <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐288)](https://github.com/gagolews/stringi) - ICU based string processing package.
+*   [stringr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐564)](https://github.com/hadley/stringr) - Consistent API for string processing, built on top of stringi.
 
 ### Graphic Displays
 
@@ -111,17 +111,17 @@
 ### 2017 / Book/monograph Lists and Reviews
 
 *   [hrbrthemes (⭐1.2k)](https://github.com/hrbrmstr/hrbrthemes) -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components
-*   [Patchwork (⭐2.3k)](https://github.com/thomasp85/patchwork) - Combine separate ggplots into the same graphic.
+*   [Patchwork (⭐2.4k)](https://github.com/thomasp85/patchwork) - Combine separate ggplots into the same graphic.
 *   [utf8 (⭐112)](https://github.com/patperry/r-utf8) - Manipulating and printing UTF-8 text that fixes multiple bugs in R's UTF-8 handling.
-*   [covr (⭐328)](https://github.com/jimhester/covr) - Test coverage reports for R
+*   [covr (⭐327)](https://github.com/jimhester/covr) - Test coverage reports for R
 *   [lintr (⭐1.1k)](https://github.com/jimhester/lintr) - Static Code Analysis for R
-*   [prophet (⭐17k)](https://github.com/facebookincubator/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+*   [prophet (⭐18k)](https://github.com/facebookincubator/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 *   [tidyverse (⭐1.6k)](https://github.com/tidyverse/tidyverse) - Easily install and load packages from the tidyverse
 *   [purrr (⭐1.2k)](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
 *   [xaringan (⭐1.5k)](https://github.com/yihui/xaringan) - Create HTML5 slides with R Markdown and the JavaScript library
 *   [blogdown (⭐1.7k)](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown
-*   [glue (⭐673)](https://github.com/tidyverse/glue) -  Glue strings to data in R. Small, fast, dependency free interpreted string literals.
-*   [reprex (⭐721)](https://github.com/jennybc/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
+*   [glue (⭐684)](https://github.com/tidyverse/glue) -  Glue strings to data in R. Small, fast, dependency free interpreted string literals.
+*   [reprex (⭐725)](https://github.com/jennybc/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
 *   [reticulate (⭐1.6k)](https://github.com/rstudio/reticulate) - R Interface to Python
 *   [tensorflow (⭐1.3k)](https://github.com/rstudio/tensorflow) -  TensorFlow for R
 
@@ -130,34 +130,34 @@
 *   [r2d3](https://rstudio.github.io/r2d3/) - R Interface to D3 Visualizations ![r2d3](https://cranlogs.r-pkg.org/badges/r2d3)
 *   [promises](https://cran.r-project.org/web/packages/promises/index.html) - Abstractions for Promise-Based Asynchronous Programming ![promises](https://cranlogs.r-pkg.org/badges/promises)
 *   [Readings in Applied Data Science (⭐1.6k)](https://github.com/hadley/stats337) - These readings reflect Hadley's personal thoughts about applied data science.
-*   [fable (⭐537)](https://github.com/tidyverts/fable) - univariate and multivariate time series forecasting models ![fable](https://cranlogs.r-pkg.org/badges/fable)
-*   [rstats-ed (⭐448)](https://github.com/rstudio-education/rstats-ed) - List of courses teaching R
+*   [fable (⭐539)](https://github.com/tidyverts/fable) - univariate and multivariate time series forecasting models ![fable](https://cranlogs.r-pkg.org/badges/fable)
+*   [rstats-ed (⭐450)](https://github.com/rstudio-education/rstats-ed) - List of courses teaching R
 *   [tinytex](https://yihui.name/tinytex/) - A lightweight and easy-to-maintain LaTeX distribution ![tinytex](https://cranlogs.r-pkg.org/badges/tinytex)
 
 ### HTML Widgets
 
 *   [DiagrammeR <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐1.7k)](https://github.com/rich-iannone/DiagrammeR) - Create JS graph diagrams and flowcharts in R.
 *   [formattable <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐686)](https://github.com/renkun-ken/formattable) - Formattable Data Structures.
-*   [ggvis <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐709)](https://github.com/rstudio/ggvis) - Interactive grammar of graphics for R.
+*   [ggvis <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐712)](https://github.com/rstudio/ggvis) - Interactive grammar of graphics for R.
 *   [plotly <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐2.5k)](https://github.com/ropensci/plotly) - Interactive ggplot2 and Shiny plotting with [plot.ly](https://plot.ly).
 *   [rCharts <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐1.2k)](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
-*   [echarts4r (⭐564)](https://github.com/JohnCoene/echarts4r) - R wrapper to Echarts version 4
+*   [echarts4r (⭐565)](https://github.com/JohnCoene/echarts4r) - R wrapper to Echarts version 4
 
 ### Reproducible Research
 
 *   [knitr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐2.3k)](https://github.com/yihui/knitr) - Easy dynamic report generation in R.
 *   [rmarkdown <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://rmarkdown.rstudio.com/) - Dynamic documents for R.
-*   [slidify <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐846)](https://github.com/ramnathv/slidify) - Generate reproducible html5 slides from R markdown.
-*   [texreg (⭐108)](https://github.com/leifeld/texreg) - Formatting statistical models in LaTex and HTML.
+*   [slidify <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐845)](https://github.com/ramnathv/slidify) - Generate reproducible html5 slides from R markdown.
+*   [texreg (⭐109)](https://github.com/leifeld/texreg) - Formatting statistical models in LaTex and HTML.
 *   [kable](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html) - Build fancy HTML or 'LaTeX' tables using 'kable()' from 'knitr'.
 
 ### Web Technologies and Services
 
-*   [shiny <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐5.2k)](https://github.com/rstudio/shiny) - Easy interactive web applications with R. See also [awesome-rshiny (⭐766)](https://github.com/grabear/awesome-rshiny)
-*   [httr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐977)](https://github.com/hadley/httr) - User-friendly RCurl wrapper.
+*   [shiny <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐5.2k)](https://github.com/rstudio/shiny) - Easy interactive web applications with R. See also [awesome-rshiny (⭐769)](https://github.com/grabear/awesome-rshiny)
+*   [httr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐978)](https://github.com/hadley/httr) - User-friendly RCurl wrapper.
 *   [XML <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/XML/index.html) - Tools for parsing and generating XML within R.
 *   [xml2 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://cran.r-project.org/web/packages/xml2/index.html) - Optimized tools for parsing and generating XML within R.
-*   [rvest <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐1.4k)](https://github.com/hadley/rvest) - Simple web scraping for R, using CSSSelect or XPath syntax.
+*   [rvest <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐1.5k)](https://github.com/hadley/rvest) - Simple web scraping for R, using CSSSelect or XPath syntax.
 *   [OpenCPU <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://www.opencpu.org/) - HTTP API for R handling concurrent calls, based on the Apache2 web server, to expose R code as REST web services and create full-sized, multi-page web applications.
 
 ### Parallel Computing
@@ -173,18 +173,18 @@
 ### Machine Learning
 
 *   [AnomalyDetection <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐3.5k)](https://github.com/twitter/AnomalyDetection) - AnomalyDetection R package from Twitter.
-*   [BreakoutDetection <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐752)](https://github.com/twitter/BreakoutDetection) - Breakout Detection via Robust E-Statistics from Twitter.
+*   [BreakoutDetection <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐753)](https://github.com/twitter/BreakoutDetection) - Breakout Detection via Robust E-Statistics from Twitter.
 *   [CausalImpact <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐1.6k)](https://github.com/google/CausalImpact) - Causal inference using Bayesian structural time-series models.
 *   [caret <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/caret/index.html) - Classification and Regression Training
-*   [prophet <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐17k)](https://github.com/facebookincubator/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+*   [prophet <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐18k)](https://github.com/facebookincubator/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 *   [glmnet <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/glmnet/index.html) - Lasso and elastic-net regularized generalized linear models
 *   [h2o <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/h2o/index.html) - Deeplearning, Random forests, GBM, KMeans, PCA, GLM
-*   [lme4 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐583)](https://github.com/lme4/lme4) - Mixed-effects models
-*   [Machine Learning For Hackers <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐3.6k)](https://github.com/johnmyleswhite/ML_for_Hackers)
+*   [lme4 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐588)](https://github.com/lme4/lme4) - Mixed-effects models
+*   [Machine Learning For Hackers <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐3.7k)](https://github.com/johnmyleswhite/ML_for_Hackers)
 *   [MXNet <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐21k)](https://github.com/dmlc/mxnet/tree/master/R-package) - MXNet brings flexible and efficient GPU computing and state-of-art deep learning to R.
-*   [survminer (⭐462)](https://github.com/kassambara/survminer) - Survival Analysis & Visualization
+*   [survminer (⭐465)](https://github.com/kassambara/survminer) - Survival Analysis & Visualization
 *   [survival](https://cran.r-project.org/web/packages/survival/index.html) - Survival Analysis
-*   [xgboost <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐571)](https://github.com/tqchen/xgboost/tree/master/R-package) - eXtreme Gradient Boosting Tree model, well known for its speed and performance.
+*   [xgboost <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐572)](https://github.com/tqchen/xgboost/tree/master/R-package) - eXtreme Gradient Boosting Tree model, well known for its speed and performance.
 
 ### Bayesian
 
@@ -202,19 +202,19 @@
 ### Network Analysis
 
 *   [igraph <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://igraph.org/r/) - A collection of network analysis tools.
-*   [tidygraph (⭐527)](https://github.com/thomasp85/tidygraph) - A tidy API for graph manipulation
+*   [tidygraph (⭐528)](https://github.com/thomasp85/tidygraph) - A tidy API for graph manipulation
 
 ### Spatial
 
-*   [tmap (⭐6)](https://github.com/mtennekes/tmap) - R package for thematic maps
+*   [tmap (⭐7)](https://github.com/mtennekes/tmap) - R package for thematic maps
 
 ### R Development
 
 *   [devtools <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐2.3k)](https://github.com/hadley/devtools) - Tools to make an R developer's life easier.
-*   [testthat <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐852)](https://github.com/hadley/testthat) - An R package to make testing fun.
-*   [R6 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐394)](https://github.com/wch/R6) - simpler, faster, lighter-weight alternative to R's built-in classes.
+*   [testthat <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐859)](https://github.com/hadley/testthat) - An R package to make testing fun.
+*   [R6 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐397)](https://github.com/wch/R6) - simpler, faster, lighter-weight alternative to R's built-in classes.
 *   [pryr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐201)](https://github.com/hadley/pryr) - Make it easier to understand what's going on in R.
-*   [roxygen <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐558)](https://github.com/klutometis/roxygen) - Describe your functions in comments next to their definitions.
+*   [roxygen <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐573)](https://github.com/klutometis/roxygen) - Describe your functions in comments next to their definitions.
 *   [Rocker <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rocker-org) - R configurations for [Docker](https://www.docker.com/).
 
 ### Data Packages
@@ -225,7 +225,7 @@
 ### Learning R
 
 *   [swirl <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://swirlstats.com/) - An interactive R tutorial directly in your R console.
-*   [DataScienceR <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐1.9k)](https://github.com/ujjwalkarn/DataScienceR) - a list of R tutorials for Data Science, NLP and Machine Learning.
+*   [DataScienceR <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐2k)](https://github.com/ujjwalkarn/DataScienceR) - a list of R tutorials for Data Science, NLP and Machine Learning.
 
 ### Websites / Manuals
 
@@ -266,7 +266,7 @@
 
 ### Books / Book/monograph Lists and Reviews
 
-*   [R Books List (⭐224)](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
+*   [R Books List (⭐226)](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
 
 ## [10. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
@@ -464,7 +464,7 @@
 
 ### Related
 
-*   [StumbleUponAwesome (⭐314)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
+*   [StumbleUponAwesome (⭐324)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 
 ## [30. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -544,24 +544,18 @@
 
 *   [Todoist](https://todoist.com/mac) - Cross-platform todo list app. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/todoist-to-do-list-tasks/id585829637?mt=12)
 
-## [40. Awesome Python](/content/vinta/awesome-python/week/README.md)
-
-### Configuration
-
-*   [profig](https://profig.readthedocs.io/en/latest/) - Config from multiple formats with value conversion.
-
-## [41. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Asynchronous Event Loop
 
-*   [libhv (⭐6.1k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
+*   [libhv (⭐6.2k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
 
 ### Concurrency
 
 *   [HPX (⭐2.3k)](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. \[Boost]
 *   [Kokkos (⭐1.7k)](https://github.com/kokkos/kokkos) - A performance portable programming model for parallel execution and memory abstraction. \[BSD]
 *   [marl (⭐1.7k)](https://github.com/google/marl) - Marl is a hybrid thread / fiber task scheduler written in C++ 11. \[Apache-2.0]
-*   [Quantum (⭐558)](https://github.com/bloomberg/quantum) - A powerful C++ coroutine dispatcher framework built on top of [Boost.Coroutine2](https://boost.org/libs/coroutine2).
+*   [Quantum (⭐560)](https://github.com/bloomberg/quantum) - A powerful C++ coroutine dispatcher framework built on top of [Boost.Coroutine2](https://boost.org/libs/coroutine2).
 
 ### Game Engine
 
@@ -573,13 +567,13 @@
 
 ### Math
 
-*   [Klein (⭐714)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
+*   [Klein (⭐717)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
 
 ### Networking
 
-*   [tlse (⭐516)](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library \[BSD-2-Clause]
+*   [tlse (⭐518)](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library \[BSD-2-Clause]
 
-## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -596,29 +590,29 @@
 *   [Everything Fonts](https://everythingfonts.com/) - Offers multiple tools; @font-face, Units Converter, Font Hinter and Font Submitter.
 *   [Font Squirrel](https://www.fontsquirrel.com/) - Freeware fonts licensed for commercial work. Hand-selected these typefaces and presented them in an easy-to-use format.
 
-## [43. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [42. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### WebSocket
 
 *   [Websocket.Client (⭐637)](https://github.com/Marfusios/websocket-client) - A multiplatform wrapper over native C# class ClientWebSocket with built-in reconnection and error handling.
 
-## [44. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [43. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### UI Layout / Syntax Highlight
 
-*   [muuri-react (⭐334)](https://github.com/Paol-imi/muuri-react) - [demo](https://1czo5.csb.app/) - [docs](https://paol-imi.github.io/muuri-react) - Responsive, sortable, filterable and draggable grid layouts.
+*   [muuri-react (⭐335)](https://github.com/Paol-imi/muuri-react) - [demo](https://1czo5.csb.app/) - [docs](https://paol-imi.github.io/muuri-react) - Responsive, sortable, filterable and draggable grid layouts.
 
 ### Miscellaneous / Lazy Load
 
 *   [DataFormsJS JSX Loader (⭐176)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
 
-## [45. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [44. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Community Resources / Blogs and Scholarship
 
 *   [Web Archiving Roundtable](https://webarchivingrt.wordpress.com/) - Unofficial blog of the Web Archiving Roundtable of the [Society of American Archivists](https://www2.archivists.org/) maintained by the members of the Web Archiving Roundtable.
 
-## [46. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [45. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -655,13 +649,13 @@
 *   [Tetris (⭐1.5k)](https://github.com/boyan01/flutter-tetris) <!--stargazers:boyan01/flutter-tetris--> - Tetris game by [YangBin](https://github.com/boyan01)
 *   [Party Charades (⭐188)](https://github.com/vintage/party_flutter) <!--stargazers:vintage/party_flutter--> - Party charades by [Kamil Rykowski](https://github.com/vintage)
 
-## [47. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [46. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
 *   [Next universal language detector (⭐81)](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
 
-## [48. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [47. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Related / Awesome Lists
 
@@ -673,13 +667,13 @@
 *   [JMeter Google Group](https://groups.google.com/forum/#!forum/ptgram24)
 *   [JMeterPlugins Google Group](https://groups.google.com/forum/#!forum/jmeter-plugins)
 
-## [49. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [48. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Components
 
 *   [MU Forms (⭐58)](https://github.com/mobiushorizons/mu-forms) - Dead simple form library for (P)React.
 
-## [50. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [49. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -689,7 +683,7 @@
 
 *   [Keycloak Discord Support (⭐108)](https://github.com/wadahiro/keycloak-discord)
 
-## [51. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [50. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -703,25 +697,25 @@
 
 *   [electronegativity (⭐909)](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
 
-## [52. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [51. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Web Audio
 
 *   [TimeSide (Beta) (⭐351)](https://github.com/Parisson/TimeSide/tree/dev) [:octocat: (⭐351)](https://github.com/Parisson/TimeSide/tree/dev) - high level audio analysis, imaging, transcoding, streaming and labelling.
 
-## [53. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [52. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Frameworks / Other
 
 *   [DataFormsJS (⭐175)](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
 
-## [54. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [53. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Frameworks
 
 *   [vue-service-model (⭐19)](https://github.com/freakzlike/vue-service-model) - Vue.js library for handling REST service requests with caching, aggregation and model definitions.
 
-## [55. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [54. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Java
 
@@ -736,7 +730,7 @@
 
 *   [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
 
-## [56. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [55. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Runtime / Playground
 
@@ -746,19 +740,19 @@
 
 *   :octocat: [sub-events (⭐36)](https://github.com/vitaly-t/sub-events) - Strongly-typed events.
 
-## [57. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [56. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Bindings to Other Languages / Apache License
 
 *   [tcl-ada-shell (⭐8)](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.
 
-## [58. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [57. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Libraries and Mixins / Miscellaneous
 
 *   [Buttono (⭐83)](https://github.com/hsnaydd/buttono) - A flexible Sass mixin for creating BEM-style buttons.
 
-## [59. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [58. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn
 
@@ -775,13 +769,13 @@
 
 *   [Companies using Elm (⭐424)](https://github.com/jah2488/elm-companies) - A list of companies using Elm in production.
 
-## [60. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [59. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Graphics and Animations
 
 *   [react-parallax-tilt (⭐852)](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
 
-## [61. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [60. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Tutorials
 

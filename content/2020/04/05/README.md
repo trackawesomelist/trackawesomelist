@@ -32,11 +32,11 @@
 
 ### Form Components / Drag and Drop
 
-*   [react-drag-sizing (⭐17)](https://github.com/fritx/react-drag-sizing) - "Drag to resize" (sizing) as React Component.
+*   [react-drag-sizing (⭐18)](https://github.com/fritx/react-drag-sizing) - "Drag to resize" (sizing) as React Component.
 
 ### Form Components / Rich Text Editor
 
-*   [react-editor (⭐55)](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML.
+*   [react-editor (⭐54)](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML.
 
 ### Framework bindings / integrations / Mouse Events
 
@@ -68,7 +68,7 @@
 
 ### Databases
 
-*   [Database Tools (⭐3.4k)](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
+*   [Database Tools (⭐3.5k)](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
 
 ## [8. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 

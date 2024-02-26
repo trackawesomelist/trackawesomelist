@@ -156,12 +156,12 @@
 ### Database Drivers
 
 *   NoSQL Databases
-    *   [cassandra-driver (⭐1.3k)](https://github.com/datastax/python-driver) - The Python Driver for Apache Cassandra.
-    *   [happybase (⭐603)](https://github.com/wbolster/happybase) - A developer-friendly library for Apache HBase.
-    *   [kafka-python (⭐5.2k)](https://github.com/dpkp/kafka-python) - The Python client for Apache Kafka.
-    *   [py2neo](https://py2neo.org/) - A client library and toolkit for working with Neo4j.
-    *   [pymongo (⭐3.9k)](https://github.com/mongodb/mongo-python-driver) - The official Python client for MongoDB.
-    *   [redis-py (⭐12k)](https://github.com/andymccurdy/redis-py) - The Python client for Redis.
+    *   [cassandra-driver (⭐1.4k)](https://github.com/datastax/python-driver) - The Python Driver for Apache Cassandra.
+    *   [happybase (⭐609)](https://github.com/python-happybase/happybase) - A developer-friendly library for Apache HBase.
+    *   [kafka-python (⭐5.5k)](https://github.com/dpkp/kafka-python) - The Python client for Apache Kafka.
+    *   [pymongo (⭐4k)](https://github.com/mongodb/mongo-python-driver) - The official Python client for MongoDB.
+    *   [motor (⭐2.3k)](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
+    *   [redis-py (⭐12k)](https://github.com/redis/redis-py) - The Python client for Redis.
 
 ## [9. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
 
@@ -596,7 +596,7 @@
 ### Algorithms and Data structures
 
 *   [jumper (⭐12)](https://github.com/whitfin/jumper) - Jump consistent hash implementation in Elixir (without NIFs).
-*   [matrex (⭐476)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
+*   [matrex (⭐477)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
 
 ### Chatting
 
@@ -608,7 +608,7 @@
 
 ### Logging
 
-*   [quiet\_logger (⭐1)](https://github.com/Driftrock/quiet_logger/pull/1) - A simple plug to suppress health check logging (e.g.: when using Kubernetes).
+*   [quiet\_logger (⭐2)](https://github.com/Driftrock/quiet_logger/pull/1) - A simple plug to suppress health check logging (e.g.: when using Kubernetes).
 *   [youtrack\_logger\_backend (⭐3)](https://github.com/unifysell/youtrack_logger_backend) - A logger backend that will post messages to [YouTrack](https://www.jetbrains.com/youtrack/) (an issue tracker made by JetBrains).
 
 ### ORM and Datamapping
@@ -625,7 +625,7 @@
 
 ### Translations and Internationalizations
 
-*   [gettext (⭐428)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
+*   [gettext (⭐431)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
 
 ### Validations
 
@@ -868,7 +868,7 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 ### Concurrency
 
-*   [transwarp (⭐613)](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. \[MIT]
+*   [transwarp (⭐614)](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. \[MIT]
 
 ### Math
 

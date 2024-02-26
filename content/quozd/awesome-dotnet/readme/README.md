@@ -148,6 +148,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## API
 
+*   [FastEndpoints (⭐3.7k)](https://github.com/FastEndpoints/FastEndpoints) - High-performance middleground between classic ASP.NET Core API controllers and Minimal APIs. Using a REPR ([Request-Endpoint-Response](https://deviq.com/design-patterns/repr-design-pattern)) pattern, this library eliminates the boilerplate and monolithic feel of controllers by improving colocation of code.
 *   [Telegram.Bot (⭐2.9k)](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for [Telegram Bot API](https://core.telegram.org/bots/api)
 *   [TLSharp (⭐1k)](https://github.com/sochix/TLSharp) - It's a perfect fit for any developer who would like to send data directly to Telegram users or write own custom Telegram client.
 *   [WTelegramClient (⭐778)](https://github.com/wiz0u/WTelegramClient) - Automate a user account on Telegram, using the latest version of [Telegram Client API](https://core.telegram.org/methods)
@@ -588,7 +589,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [HotChocolate (⭐4.8k)](https://github.com/ChilliCream/hotchocolate) - GraphQL server compatible to all GraphQL compliant clients like Strawberry Shake, Relay, Apollo Client, and various other clients and tools.
 *   [graphql-net (⭐887)](https://github.com/chkimes/graphql-net) - GraphQL to IQueryable for .NET.
 *   [EntityGraphQL (⭐369)](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to easily bring multiple data sources together in the single GraphQL schema (EF is not a requirement - any ORM working with LinqProvider or an in-memory object will work).
-*   [ZeroQL (⭐227)](https://github.com/byme8/ZeroQL) - high-performance C#-friendly GraphQL client. It supports Linq-like syntax. It doesn't require Reflection.Emit or expressions. As a result, the runtime provides performance very close to a raw HTTP call.
+*   [ZeroQL (⭐231)](https://github.com/byme8/ZeroQL) - high-performance C#-friendly GraphQL client. It supports Linq-like syntax. It doesn't require Reflection.Emit or expressions. As a result, the runtime provides performance very close to a raw HTTP call.
 
 ## GUI
 
@@ -982,6 +983,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## PDF
 
+*   [QPdfSharp (⭐7)](https://github.com/svengeance/QPdfSharp) - A C# wrapper written around QPdf to allow for easy PDF manipulation that is tested for both linux and windows. QPdf is one of the only libraries capable of PDF linearization, and this wrapper ensures you keep up to date with the underlying improvements.
 *   [Cloudmersive PDF](https://cloudmersive.com/pdf-api) - Cloudmersive PDF is a native .NET Framework and .NET Core NuGet library and API service that can create, modify, encrypt or convert PDF documents at high scale and fidelity; and is free to use with no expiration **\[Free]**
 *   [Docotic.Pdf](https://bitmiracle.com/pdf-library/) - PDF library to create, read, edit, draw, and print PDF documents in .NET and .NET Core applications. 100% managed, without unsafe blocks. **\[$]** **\[[Free for OSS](https://bitmiracle.com/pdf-library/free-pdf-library.aspx)]**
 *   [ITextSharp (⭐1.3k)](https://github.com/itext/itextsharp) - iText is a PDF library that allows you to CREATE, ADAPT, INSPECT and MAINTAIN documents in the Portable Document Format (PDF)**\[$]** **\[Free for OSS]**

@@ -25,11 +25,11 @@
 ### Libraries / Computation
 
 *   Statrs
-    *   [statrs-dev/statrs (⭐479)](https://github.com/statrs-dev/statrs) — Robust statistical computation library in Rust
+    *   [statrs-dev/statrs (⭐481)](https://github.com/statrs-dev/statrs) — Robust statistical computation library
 
 ### Libraries / Cryptography
 
-*   [klutzy/suruga (⭐123)](https://github.com/klutzy/suruga) — A Rust implementation of [TLS 1.2](https://datatracker.ietf.org/doc/html/rfc5246)
+*   [klutzy/suruga (⭐123)](https://github.com/klutzy/suruga) — Implementation of [TLS 1.2](https://datatracker.ietf.org/doc/html/rfc5246)
 
 ## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 

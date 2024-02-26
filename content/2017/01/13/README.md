@@ -82,7 +82,7 @@
 
 ### Encryption
 
-*   [RbNaCl (⭐980)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
+*   [RbNaCl (⭐979)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 
 ### Natural Language Processing
 

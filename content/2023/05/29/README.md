@@ -30,7 +30,7 @@
 
 ### Applications
 
-*   [Rio (⭐2.7k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+*   [Rio (⭐2.8k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 
 ## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

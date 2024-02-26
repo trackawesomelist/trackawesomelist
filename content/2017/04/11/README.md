@@ -79,7 +79,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [A guide to learn bash (⭐11k)](https://github.com/Idnan/bash-guide)
+*   [A guide to learn bash (⭐12k)](https://github.com/Idnan/bash-guide)
 
 ## [8. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
@@ -101,8 +101,8 @@
 
 ### Contents / Frameworks
 
-*   [Intervention Engine FHIR Server (⭐104)](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
-*   [Swift-SMART (⭐121)](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X.
+*   [Intervention Engine FHIR Server (⭐108)](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
+*   [Swift-SMART (⭐127)](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X.
 
 ---
 

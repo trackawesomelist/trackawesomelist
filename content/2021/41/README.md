@@ -228,16 +228,16 @@
 
 ### Applications
 
-*   [datafusion (⭐4.6k)](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion and Ballista query engines
+*   [datafusion (⭐4.7k)](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion and Ballista query engines
 
 ### Applications / Games
 
-*   [SoftbearStudios/mk48 (⭐286)](https://github.com/SoftbearStudios/mk48) — Mk48.io is an online multiplayer naval combat game
+*   [SoftbearStudios/mk48 (⭐289)](https://github.com/SoftbearStudios/mk48) — Mk48.io is an online multiplayer naval combat game
 
 ### Libraries / Web programming
 
 *   Reverse Proxy
-    *   [sozu-proxy/sozu (⭐2.7k)](https://github.com/sozu-proxy/sozu) \[[sozu](https://crates.io/crates/sozu)] — A HTTP reverse proxy. [![CI](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml)
+    *   [sozu-proxy/sozu (⭐2.8k)](https://github.com/sozu-proxy/sozu) \[[sozu](https://crates.io/crates/sozu)] — A HTTP reverse proxy. [![CI](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml)
 
 ## [24. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
@@ -282,7 +282,7 @@
 
 ### Queues and Messaging
 
-*   [GoodJob (⭐2.2k)](https://github.com/bensheldon/good_job) - GoodJob is a multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
+*   [GoodJob (⭐2.4k)](https://github.com/bensheldon/good_job) - GoodJob is a multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
 
 ## [27. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -332,7 +332,7 @@
 
 ### Boilerplate / Mouse Events
 
-*   [cra-template-redux-auth-starter (⭐36)](https://github.com/Nilanth/cra-template-redux-auth-starter) - A Redux auth starter boilerplate for CRA.
+*   [cra-template-redux-auth-starter (⭐37)](https://github.com/Nilanth/cra-template-redux-auth-starter) - A Redux auth starter boilerplate for CRA.
 
 ### Integrations with Third Party Services / Mouse Events
 
@@ -502,7 +502,7 @@
 
 ### Contents / Utilities
 
-*   [pgMonitor (⭐420)](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
+*   [pgMonitor (⭐484)](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
@@ -535,7 +535,17 @@
     *   [Gartner Magic Quadrant for Enterprise Integration Platform as a Service](https://www.gartner.com/doc/code/397953)
     *   [The Forrester Wave: Enterprise iPaaS](https://www.forrester.com/report/the-forrester-wave-tm-enterprise-ipaas-q4-2021/RES176201)
 
-## [49. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+## [49. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### Web
+
+*   [Wireshark用户手册](https://web.archive.org/web/20200415002730/http://man.lupaworld.com/content/network/wireshark/index.html)
+
+### Rust / Django
+
+*   [Tour of Rust](https://tourofrust.com/00_zh-cn.html)
+
+## [50. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Overview / Imgur
 
@@ -544,13 +554,13 @@
     *   Example album on Imgur.com: <https://imgur.com/a/GD6p5Fi>
     *   Same album on Imgin: <https://imgin.voidnet.tech/a/GD6p5Fi>
 
-## [50. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
+## [51. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
 *   [Leaving a Team](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Leaving-a-Team.md)
 
-## [51. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [52. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Component bundles
 
@@ -560,7 +570,7 @@
 
 *   [Blazor File Drop Zone (⭐17)](https://github.com/jsakamoto/Toolbelt.Blazor.FileDropZone/) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.FileDropZone?style=flat-square\&cacheSeconds=86400) Surround an "input type=file" element by this Blazor component to making a zone that accepts drag and drops files ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.FileDropZone/)).
 
-## [52. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [53. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -581,19 +591,19 @@
 *   [Pravatar](https://pravatar.cc/) - Generate a random/placeholder fake avatar whose URL can be directly hot-linked in your web/app.
 *   [UI Avatars](https://ui-avatars.com/) - Generate avatars with initials from names. The URLs can be directly hot-linked in your web/app. Support config parameters via the URL.
 
-## [53. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [54. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Books
 
 *   [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming) - Introduction to functional programming.
 
-## [54. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [55. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
 *   [vite-plugin-shared-modules (⭐26)](https://github.com/zheeeng/vite-plugin-shared-modules) - Share node\_modules in monorepos.
 
-## [55. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [56. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### 8\. Installation
 
@@ -605,7 +615,7 @@
 *   [Windows Store Link](https://www.microsoft.com/en-us/p/opensuse-leap-153/9n6j06bmcgt3) for OpenSUSE Leap 15.3.
 *   [Windows Store Link](https://www.microsoft.com/en-us/p/opensuse-leap-152/9mzd0n9z4m4h) for OpenSUSE Leap 15.2.
 
-## [56. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [57. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Academic Research / Blockchain projects for AI algorithms
 
@@ -619,25 +629,25 @@
 *   [Proof of Federated Learning](https://doi.org/10.1109/TPDS.2021.3056773) - Qu, X., Wang, S., Hu, Q., & Cheng, X. (2021). Proof of federated learning: A novel energy-recycling consensus algorithm. *IEEE Transactions on Parallel and Distributed Systems*, 32(8), 2074-2085.
 *   [Proof of neural architecture](https://doi.org/10.1109/ICBC51069.2021.9461067) - Li, B., Lu, Q., Jiang, W., Jung, T., & Shi, Y. (2021, May). A mining pool solution for novel proof-of-neural-architecture consensus. In *2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)* (pp. 1-3). IEEE.
 
-## [57. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [58. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Advanced datastructures
 
 *   [meander (⭐891)](https://github.com/noprompt/meander): transparent data transformation (defined as pattern-matching)
 
-## [58. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [59. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Books / Visualization Tools
 
 *   [Deep Learning Cookbook](https://www.oreilly.com/library/view/deep-learning-cookbook/9781491995839/)
 
-## [59. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [60. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Troubleshooting and queries / Technical Blogs
 
 *   [Harshit Pandey -(Oyecode)](http://www.oyecode.dev/) - Harshit Pandey is Principal Technical Architect at Intuitive Surgical, previously Technical Architect at Salesforce.com Developer Relations Team and build  [Trailhead](https://developer.salesforce.com/trailhead) while at Salesforce, love to expriement with ever evoloving capacities of Salesforce [Read More](https://about.me/harshit.pandey)
 
-## [60. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [61. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
@@ -647,27 +657,6 @@
 
 *   [MFT Browser (⭐268)](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
 *   [traceroute-circl (⭐36)](https://github.com/CIRCL/traceroute-circl) - Extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Response Center Luxembourg.
-
-## [61. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Artificial Intelligence
-
-*   [Artificial Intelligence: Foundations of Computational Agents (2010), 1st Edition](https://artint.info/aifca1e.html) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML)
-*   [Artificial Intelligence: Foundations of Computational Agents (2017), 2nd Edition](https://artint.info) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML, Slides)
-
-### Blockchain
-
-*   [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/downloads/cas/36KBMBOG) - Manav Gupta (PDF)
-*   [Getting Started with Enterprise Blockchain: A Guide to Design and Development](https://www.ibm.com/downloads/cas/RYWXAR0M) - Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk (PDF)
-*   [Playtime with Hyperledger Composer](https://schadokar.dev/ebooks/playtime-with-hyperledger-composer/) - Shubham Chadokar (PDF)
-
-### Data Science
-
-*   [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html) - Allen B. Downey
-
-### Misc
-
-*   [How To Manage Remote Servers with Ansible](https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook) - Erika Heidi (PDF, EPUB)
 
 ## [62. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
@@ -693,7 +682,7 @@
 
 ### Libraries and Frameworks
 
-*   [Puppeteer (⭐85k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐86k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
 ## [65. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -1721,8 +1710,8 @@
 
 ### Libraries
 
-*   [effect-ts (⭐2.7k)](https://github.com/Effect-TS/core) – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
-*   [qio (⭐70)](https://github.com/tusharmath/qio) – A type-safe, functional, performant, lawful, composable data structure that solves practical problems of effect-full code in node and browser. +TS
+*   [effect-ts (⭐3.4k)](https://github.com/Effect-TS/core) – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
+*   [qio (⭐69)](https://github.com/tusharmath/qio) – A type-safe, functional, performant, lawful, composable data structure that solves practical problems of effect-full code in node and browser. +TS
 
 ### Functional Languages that Compile to JavaScript / Lenses
 

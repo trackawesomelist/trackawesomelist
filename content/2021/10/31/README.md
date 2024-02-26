@@ -55,8 +55,8 @@
 
 ### Libraries
 
-*   [Ditox.js (⭐78)](https://github.com/mnasyrov/ditox) - Powerful dependency injection container for building modular apps. +TS
-*   [RxEffects (⭐33)](https://github.com/mnasyrov/rx-effects) - Reactive state and effect management with RxJS. +TS
+*   [Ditox.js (⭐79)](https://github.com/mnasyrov/ditox) - Powerful dependency injection container for building modular apps. +TS
+*   [RxEffects (⭐34)](https://github.com/mnasyrov/rx-effects) - Reactive state and effect management with RxJS. +TS
 
 ## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

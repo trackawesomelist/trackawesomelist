@@ -10,13 +10,8 @@
 
 ### Database Drivers
 
-*   PostgreSQL - [awesome-postgres (⭐8.8k)](https://github.com/dhamaniasad/awesome-postgres)
-    *   [psycopg2](http://initd.org/psycopg/) - The most popular PostgreSQL adapter for Python.
-    *   [queries (⭐259)](https://github.com/gmr/queries) - A wrapper of the psycopg2 library for interacting with PostgreSQL.
-
-### E-commerce
-
-*   [merchant (⭐1k)](https://github.com/agiliq/merchant) - A Django app to accept payments from various payment processors.
+*   PostgreSQL - [awesome-postgres (⭐9.3k)](https://github.com/dhamaniasad/awesome-postgres)
+    *   [psycopg (⭐1.4k)](https://github.com/psycopg/psycopg) - The most popular PostgreSQL adapter for Python.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

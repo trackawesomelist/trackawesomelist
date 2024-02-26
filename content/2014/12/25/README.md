@@ -50,7 +50,7 @@
 
 ### JSON
 
-*   [frozen (⭐685)](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++. \[GPL & GPL2]
+*   [frozen (⭐688)](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++. \[GPL & GPL2]
 *   [QJson (⭐281)](https://github.com/flavio/qjson) - A qt-based library that maps JSON data to QVariant objects. \[LGPL2]
 
 ### Math

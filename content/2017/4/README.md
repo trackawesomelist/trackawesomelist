@@ -83,7 +83,7 @@
 
 ### Contents / High-Availability
 
-*   [SkyTools (⭐250)](https://github.com/pgq/skytools-legacy) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
+*   [SkyTools (⭐249)](https://github.com/pgq/skytools-legacy) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
 
 ## [12. Awesome Redux](/content/brillout/awesome-redux/week/README.md)
 
@@ -124,7 +124,7 @@
 *   [OpenCanada.org (⭐14)](https://github.com/OpenCanada/website) – The opencanada.org website source.
 *   [Table Tennis Wellington Business Class (⭐5)](https://github.com/jordij/bctt.nz) – Website for the table tennis business league in Wellington NZ.
 *   [Jordi Joan’s blog (⭐20)](https://github.com/jordij/jordijoan.me) – Personal blog site using Wagtail CMS.
-*   [Localore: Finding America (⭐17)](https://github.com/ghostwords/localore) – Wagtail-based CMS and Ansible playbooks for Localore: Finding America.
+*   [Localore: Finding America (⭐18)](https://github.com/ghostwords/localore) – Wagtail-based CMS and Ansible playbooks for Localore: Finding America.
 *   [Adventure Capitalists (⭐4)](https://github.com/AdventureCapitalists/website) – Wagtail powered website for the world's only investment band.
 *   [NHS.UK Content Store (⭐20)](https://github.com/nhsuk/nhsuk-content-store) – NHS.UK content store and editing app.
 *   [dev.hel.fi (⭐13)](https://github.com/City-of-Helsinki/devheldev) – City of Helsinki development site with Wagtail.
@@ -674,7 +674,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 ### ORM and Datamapping
 
-*   [defql (⭐102)](https://github.com/fazibear/defql) - Create elixir functions with SQL as a body.
+*   [defql (⭐103)](https://github.com/fazibear/defql) - Create elixir functions with SQL as a body.
 
 ## [38. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -715,7 +715,7 @@ Free
 
 ### API Builder and Discovery
 
-*   [Spyke (⭐873)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
+*   [Spyke (⭐881)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 
 ### CLI Utilities
 
@@ -732,7 +732,7 @@ Free
 
 ### Database Tools
 
-*   [Polo (⭐761)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
+*   [Polo (⭐762)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
 
 ### Debugging Tools
 

@@ -40,15 +40,15 @@
 
 ### Geolocation
 
-*   [topo (⭐140)](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
+*   [topo (⭐141)](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
 
 ### Languages
 
-*   [Monkey (⭐132)](https://github.com/fabrik42/writing_an_interpreter_in_elixir) - Elixir implementation of an interpreter and REPL for the js-like Monkey programming language.
+*   [Monkey (⭐134)](https://github.com/fabrik42/writing_an_interpreter_in_elixir) - Elixir implementation of an interpreter and REPL for the js-like Monkey programming language.
 
 ### Miscellaneous
 
-*   [gen\_task (⭐22)](https://github.com/Nebo15/gen_task) - Generic Task behavior that helps to encapsulate worker errors and recover from them in classic GenStage's.
+*   [gen\_task (⭐23)](https://github.com/Nebo15/gen_task) - Generic Task behavior that helps to encapsulate worker errors and recover from them in classic GenStage's.
 
 ### Screencasts
 

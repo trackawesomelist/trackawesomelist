@@ -363,7 +363,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 ### Math / Other
 
-*   [Math snippets (⭐109)](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
+*   [Math snippets (⭐114)](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
 
 ## [25. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -720,7 +720,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 ### Cryptography
 
-*   [mbedTLS (⭐4.7k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
+*   [mbedTLS (⭐4.8k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
 
 ## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -736,7 +736,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 ### Table of Contents / Files
 
-*   [UnifiedArchive (⭐271)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
+*   [UnifiedArchive (⭐272)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 
 ## [43. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 

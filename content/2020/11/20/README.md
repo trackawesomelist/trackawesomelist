@@ -131,7 +131,7 @@
 
 ### High Performance
 
-*   [cpp11 (⭐186)](https://github.com/r-lib/cpp11) - cpp11 is a header-only R package that helps R package developers handle R objects with C++ code. It's similar to Rcpp but with different design trade-offs and features.
+*   [cpp11 (⭐188)](https://github.com/r-lib/cpp11) - cpp11 is a header-only R package that helps R package developers handle R objects with C++ code. It's similar to Rcpp but with different design trade-offs and features.
 
 ## [10. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
@@ -143,7 +143,7 @@
 
 ### Decentralized Systems
 
-*   [Substrate (⭐698)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
+*   [Substrate (⭐706)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
 
 ## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

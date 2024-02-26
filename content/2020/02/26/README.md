@@ -84,7 +84,7 @@
 
 ### Algorithms and Data structures
 
-*   [fzy (⭐43)](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
+*   [fzy (⭐44)](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
 
 ## [10. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Applications / Audio and Music
 
-*   [Spotifyd (⭐9.4k)](https://github.com/Spotifyd/spotifyd) — An open source Spotify client running as a UNIX daemon. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
+*   [Spotifyd (⭐9.5k)](https://github.com/Spotifyd/spotifyd) — An open source Spotify client running as a UNIX daemon. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
 
 ## [17. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

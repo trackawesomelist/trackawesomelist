@@ -55,7 +55,7 @@ git switch -c <branch-name>
 
 ### Table of Contents / Debugging and Profiling
 
-*   [PCOV (⭐667)](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
+*   [PCOV (⭐669)](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
 *   [Symfony VarDumper (⭐7.3k)](https://github.com/symfony/var-dumper) - A variable dumper component.
 *   [Whoops (⭐13k)](https://github.com/filp/whoops) - A pretty error-handling library.
 

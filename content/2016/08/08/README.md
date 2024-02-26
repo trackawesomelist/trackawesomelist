@@ -35,7 +35,7 @@
 
 ### Third Party APIs
 
-*   [digitalocean (⭐13)](https://github.com/lukeed/elixir-digitalocean) - Elixir wrapper for the Digital Ocean API v2.
+*   [digitalocean (⭐15)](https://github.com/lukeed/elixir-digitalocean) - Elixir wrapper for the Digital Ocean API v2.
 
 ### Websites
 

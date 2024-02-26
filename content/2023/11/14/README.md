@@ -82,7 +82,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [nsk90/kstatemachine (⭐278)](https://github.com/nsk90/kstatemachine) - KStateMachine is a Kotlin DSL library for creating state machines and statecharts.
+*   [nsk90/kstatemachine (⭐283)](https://github.com/nsk90/kstatemachine) - KStateMachine is a Kotlin DSL library for creating state machines and statecharts.
 
 ## [8. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Software / Wikis
 
-*   [Otter Wiki (⭐82)](https://github.com/redimp/otterwiki) - Simple, easy to use wiki software using markdown. `MIT` `Docker`
+*   [Otter Wiki (⭐103)](https://github.com/redimp/otterwiki) - Simple, easy to use wiki software using markdown. `MIT` `Docker`
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

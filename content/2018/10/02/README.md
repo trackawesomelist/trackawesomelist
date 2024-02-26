@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 02, 2018
 
-23 awesome lists updated today.
+22 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,7 +17,7 @@
 
 ### Data Formats
 
-*   [toml.cr (⭐57)](https://github.com/crystal-community/toml.cr) - TOML parser
+*   [toml.cr (⭐58)](https://github.com/crystal-community/toml.cr) - TOML parser
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -174,20 +174,13 @@
 
 
 
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-### Libraries / Markup language
-
-*   CommonMark
-    *   [raphlinus/pulldown-cmark (⭐1.9k)](https://github.com/raphlinus/pulldown-cmark) — [CommonMark](https://commonmark.org/) parser in Rust
-
-## [13. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [12. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Emulator Development / Misc
 
 *   [binjgb on the web](https://binji.github.io/2017/02/26/binjgb-on-the-web-part-1.html) - Porting of the binjgb emulator to Web Assembly. [(Part 2)](https://binji.github.io/2017/02/27/binjgb-on-the-web-part-2.html)
 
-## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### API
 
@@ -214,33 +207,33 @@
 
 *   [Awesome Xamarin (⭐1.9k)](https://github.com/XamSome/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
 
-## [15. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [14. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Talks
 
 *   [Confusion in the land of the serverless](https://www.youtube.com/watch?v=Y6B3Eqlj9Fw) - Sam Newmans talk about serverless technologies at GOTO 2018.
 
-## [16. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [15. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Paid Resources / Icons Packages and Collections
 
 *   [Graphic River](https://graphicriver.net/) - Hand-reviewed graphic assets from a community of designers.
     .
 
-## [17. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [16. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Querying / Symfony2
 
 *   [Insomnia (⭐30k)](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 
-## [18. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [17. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Resources / Books
 
 *   [Practical Modern JavaScript](https://www.amazon.com/Practical-Modern-JavaScript-Dive-Future/dp/149194353X)
 *   [Mastering Modular JavaScript](https://www.amazon.com/Mastering-Modular-JavaScript-Nicolas-Bevacqua/dp/1491955686/)
 
-## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
@@ -252,15 +245,15 @@
 
 ### Software / Learning and Courses
 
-*   [Chamilo LMS](https://chamilo.org/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code (⭐729)](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
+*   [Chamilo LMS](https://chamilo.org/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code (⭐734)](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
 
-## [20. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
+## [19. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 
 ### Layout / Grid
 
 *   [Grid Critters](https://www.gridcritters.com) - Learn CSS grid layout by mastering an adventure game.
 
-## [21. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [20. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
@@ -270,7 +263,7 @@
 
 *   [Brandy](https://getbrandy.io) - A brand asset manager for your menu bar.
 
-## [22. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Design Tools
 
@@ -289,7 +282,7 @@
 
 *   [Setapp](https://setapp.com) - The best apps for Mac in one suite.
 
-## [23. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
+## [22. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 
 ### Software as a service:
 

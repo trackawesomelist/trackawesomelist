@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 20, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,45 +22,38 @@
 
 *   [chip8-test-rom (⭐189)](https://github.com/corax89/chip8-test-rom) - corax89's CHIP-8 test program, which tests most instructions for correct (Super-CHIP compliant) behavior.
 
-## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
-
-### Web Frameworks
-
-*   [Chicago Crystal Podcast](https://podcast.chicagocrystal.org)
-*   [Chicago Crystal YouTube](https://www.youtube.com/channel/UCI1RvHPG6S9mw4eRoJfH2kA)
-
-## [4. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [3. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Other Testing
 
 *   [SnapshotTesting (⭐3.5k)](https://github.com/pointfreeco/swift-snapshot-testing) - Delightful Swift snapshot testing.
 
-## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [4. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Maps in the Wild
 
 *   [Thoughts on 'value' in the Value Chain](https://www.abusedbits.com/2020/07/thoughts-on-value-in-value-chain.html) - It is important to understand the need and outcome. It is vital to understand the value desired. Jul 17, 2020.
 
-## [6. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+## [5. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### Additional Resources
 
 *   [bitcoin-resources.com](https://bitcoin-resources.com/) Meta-list of Bitcoin resources, from books, articles, to podcasts.
 *   [Jameson Lopp Bitcoin Resource List](https://www.lopp.net/bitcoin-information.html) Very detailed curated Bitcoin resource list and meta-list by J. Lopp
 
-## [7. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [6. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐3.8k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
+*   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐3.9k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
 
-## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Operation System / Network Distributed File System
 
 *   [ansible-role-nfs (⭐201)](https://github.com/geerlingguy/ansible-role-nfs) - Installs NFS utilities on RedHat/CentOS or Debian/Ubuntu.
 
-## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Frontend
 
@@ -74,21 +67,21 @@
 
 *   [tl;dr sec](https://tldrsec.com/). A weekly distillation of the best security tools, blog posts, and conference talks, covering AppSec, cloud and container security, DevSecOps, and more.
 
-## [10. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+## [9. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
 *   [Element (formerly Riot)](https://element.io): Collaboration client for the web. Chat, VOIP video, file transfer, end-to-end crypto.
 *   [reep.io ☠️](https://reep.io): Transfer files directly to another browser, your peer will be able to download the file directly from you.
 
-## [11. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### XML
 
-*   [elixir-map-to-xml (⭐4)](https://github.com/gunnar2k/elixir-map-to-xml) - Converts an Elixir map to an XML document.
-*   [elixir-xml-to-map (⭐47)](https://github.com/homanchou/elixir-xml-to-map) - Creates an Elixir Map data structure from an XML string.
+*   [elixir-map-to-xml (⭐5)](https://github.com/gunnar2k/elixir-map-to-xml) - Converts an Elixir map to an XML document.
+*   [elixir-xml-to-map (⭐48)](https://github.com/homanchou/elixir-xml-to-map) - Creates an Elixir Map data structure from an XML string.
 
-## [12. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
+## [11. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
 ### Construct Libraries / APIs
 

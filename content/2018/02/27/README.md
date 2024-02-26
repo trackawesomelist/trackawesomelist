@@ -36,7 +36,7 @@
 
 ### Configuration
 
-*   [Envyable (⭐76)](https://github.com/philnash/envyable) - The simplest YAML to ENV config loader.
+*   [Envyable (⭐78)](https://github.com/philnash/envyable) - The simplest YAML to ENV config loader.
 
 ## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 

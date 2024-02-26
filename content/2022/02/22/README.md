@@ -12,10 +12,6 @@
 
 *   [JSON BinPack](https://www.jsonbinpack.org) - Space-efficient binary JSON serialization format based on JSON Schema.
 
-### JSON Schema Resources
-
-*   [Awesome JSON Schema (⭐40)](https://github.com/jviotti/awesome-jsonschema) - A curated list of awesome JSON Schema resources, tutorials, tools, and more.
-
 ## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Realtime Utilities / Ruby
@@ -43,11 +39,11 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [SimpleX Chat (⭐4.9k)](https://github.com/simplex-chat/simplex-chat) - The most private and secure chat and applications platform - now with double ratchet E2E encryption. `AGPL-3.0` `Haskell`
+*   [SimpleX Chat (⭐5k)](https://github.com/simplex-chat/simplex-chat) - The most private and secure chat and applications platform - now with double ratchet E2E encryption. `AGPL-3.0` `Haskell`
 
 ### Software / Communication - Email - Webmail Clients
 
-*   [SnappyMail](https://snappymail.eu/) - Simple, modern, lightweight & fast web-based email client (fork of RainLoop). ([Demo](https://snappymail.eu/demo/), [Source Code (⭐777)](https://github.com/the-djmaze/snappymail)) `AGPL-3.0` `PHP`
+*   [SnappyMail](https://snappymail.eu/) - Simple, modern, lightweight & fast web-based email client (fork of RainLoop). ([Demo](https://snappymail.eu/demo/), [Source Code (⭐790)](https://github.com/the-djmaze/snappymail)) `AGPL-3.0` `PHP`
 
 ### Software / Content Management Systems (CMS)
 
@@ -111,7 +107,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [shift-select (⭐76)](https://github.com/jirutka/zsh-shift-select) - Emacs shift-select mode for ZSH - select text in the command line using Shift, as in many text editors, browsers and other GUI programs.
+*   [shift-select (⭐79)](https://github.com/jirutka/zsh-shift-select) - Emacs shift-select mode for ZSH - select text in the command line using Shift, as in many text editors, browsers and other GUI programs.
 *   [zservice-py3http (⭐4)](https://github.com/z-shell/zservice-py3http) - Serve a given directory with Python 3's http server from the standard library.
 
 ## [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
@@ -128,7 +124,7 @@
 
 ### WordPress / Community
 
-*   [wordpress-vite-assets (⭐113)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
+*   [wordpress-vite-assets (⭐115)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
 
 ## [11. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 

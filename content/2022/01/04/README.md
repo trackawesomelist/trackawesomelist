@@ -42,7 +42,7 @@
 
 ### Responsive / Syntax Highlight
 
-*   [CoreUI for React (⭐636)](https://github.com/coreui/coreui-react) - [demo/docs](https://coreui.io/react) - Open Source UI components library.
+*   [CoreUI for React (⭐635)](https://github.com/coreui/coreui-react) - [demo/docs](https://coreui.io/react) - Open Source UI components library.
 
 ## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

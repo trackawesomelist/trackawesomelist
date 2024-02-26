@@ -22,7 +22,7 @@
 
 ### Code Analysis
 
-*   🍰 [CakeDC/PHPStan (⭐24)](https://github.com/CakeDC/cakephp-phpstan) - A PHPStan extension to resolve CakePHP magic around getter return types for the static analyzer.
+*   🍰 [CakeDC/PHPStan (⭐25)](https://github.com/CakeDC/cakephp-phpstan) - A PHPStan extension to resolve CakePHP magic around getter return types for the static analyzer.
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -163,7 +163,7 @@
 
 ### Physics
 
-*   [Kratos (⭐929)](https://github.com/KratosMultiphysics/Kratos) - framework for building parallel, multi-disciplinary simulation software, aiming at modularity, extensibility, and high performance. \[BSD] [website](http://www.cimne.com/kratos/)
+*   [Kratos (⭐935)](https://github.com/KratosMultiphysics/Kratos) - framework for building parallel, multi-disciplinary simulation software, aiming at modularity, extensibility, and high performance. \[BSD] [website](http://www.cimne.com/kratos/)
 
 ---
 

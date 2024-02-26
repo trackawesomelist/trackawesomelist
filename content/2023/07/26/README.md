@@ -71,12 +71,8 @@
 
 ### Contents / EHR
 
-*   [ERPNext (⭐14k)](https://github.com/frappe/erpnext) - Modules that help manage patients, appointments, consultations, lab tests, and billing.
+*   [ERPNext (⭐16k)](https://github.com/frappe/erpnext) - Modules that help manage patients, appointments, consultations, lab tests, and billing.
 *   [HOSxP](https://hosxp.net/wordpress/) - Thai Hospital Information System that aims to ease the healthcare workflow of health centers and central hospitals.
-
-### Contents / Specifications
-
-*   [Continuity of Care Record](https://hitsp.org/ConstructSet_Details.aspx?\&PrefixAlpha=4\&PrefixNumeric=32) - Specifications for the older form of CCD - sometimes called a "C32".
 
 ### Contents / Laboratory
 
@@ -84,7 +80,7 @@
 
 ### Contents / Frameworks
 
-*   [CyclOps (⭐47)](https://github.com/VectorInstitute/cyclops) - Framework for healthcare ML implementation.
+*   [CyclOps (⭐61)](https://github.com/VectorInstitute/cyclops) - Framework for healthcare ML implementation.
 
 ### Contents / Applications
 
@@ -92,21 +88,21 @@
 
 ### Contents / Books
 
-*   [Inspired EHRs (⭐102)](https://github.com/goinvo/EHR) - Ideas, designs, and techniques for designing an Electronic Health Record (EHR).
+*   [Inspired EHRs (⭐109)](https://github.com/goinvo/EHR) - Ideas, designs, and techniques for designing an Electronic Health Record (EHR).
 
 ### Contents / Data
 
-*   [EDS\_NLP (⭐88)](https://github.com/aphp/edsnlp) - provides a set of spaCy components to extract information from clinical notes written in French
-*   [eds-scikit (⭐23)](https://github.com/aphp/eds-scikit) - a tool to assist data scientists working on the AP-HP's Clinical Data Warehouse. It is specifically targeted for OMOP-standardized data.
+*   [EDS\_NLP (⭐94)](https://github.com/aphp/edsnlp) - provides a set of spaCy components to extract information from clinical notes written in French
+*   [eds-scikit (⭐31)](https://github.com/aphp/eds-scikit) - a tool to assist data scientists working on the AP-HP's Clinical Data Warehouse. It is specifically targeted for OMOP-standardized data.
 
 ### Contents / Design
 
-*   [Determinants of Health (⭐60)](https://github.com/goinvo/HealthDeterminants) - Determinants of Health Visualization.
-*   [Health Icons (⭐545)](https://github.com/resolvetosavelives/healthicons) - A collection of open source icons for public health projects.
+*   [Determinants of Health (⭐67)](https://github.com/goinvo/HealthDeterminants) - Determinants of Health Visualization.
+*   [Health Icons (⭐599)](https://github.com/resolvetosavelives/healthicons) - A collection of open source icons for public health projects.
 
 ### Contents / Machine learning
 
-*   [MedicalGPT (⭐1k)](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
+*   [MedicalGPT (⭐2.2k)](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

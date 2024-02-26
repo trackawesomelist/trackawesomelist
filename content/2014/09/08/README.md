@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 08, 2014
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,7 +18,17 @@
 
 *   [Used and Abused -- CSS Inheritance and Our Misuse of the Cascade](http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/?utm_source=CSS-Weekly\&utm_campaign=Issue-127\&utm_medium=RSS), by Micah Godbolt (8/25/14)
 
-## [3. Awesome R](/content/qinwf/awesome-R/README.md)
+## [3. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### Erlang
+
+*   [Erlang 并发编程 (⭐32)](https://github.com/liancheng/cpie-cn) (《Concurrent Programming in Erlang (Part I)》中文版)
+
+### Scheme / Django
+
+*   [Scheme 入门教程](http://deathking.github.io/yast-cn/) (《Yet Another Scheme Tutorial》中文版)
+
+## [4. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Other Interpreters
 

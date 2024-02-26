@@ -39,16 +39,16 @@
 
 ### For Developers / Directory Navigation
 
-*   [rebound (⭐4k)](https://github.com/shobrook/rebound) - Instantly browse Stack Overflow results in your terminal when you get a compiler error
+*   [rebound (⭐4.1k)](https://github.com/shobrook/rebound) - Instantly browse Stack Overflow results in your terminal when you get a compiler error
 
 ### System Utilities / Directory Navigation
 
-*   [catcli (⭐188)](https://github.com/deadc0de6/catcli) -  The command line catalog tool for your offline data
-*   [logdissect (⭐131)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
+*   [catcli (⭐191)](https://github.com/deadc0de6/catcli) -  The command line catalog tool for your offline data
+*   [logdissect (⭐133)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 
 ### Downloading and Serving / Directory Navigation
 
-*   [HTTPLab (⭐3.9k)](https://github.com/gchaincl/httplab) - The interactive web server, let you inspect HTTP requests and forge responses.
+*   [HTTPLab (⭐4k)](https://github.com/gchaincl/httplab) - The interactive web server, let you inspect HTTP requests and forge responses.
 
 ## [5. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

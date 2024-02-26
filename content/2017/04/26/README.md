@@ -94,7 +94,7 @@
 
 ### Open-source sites / Lists
 
-*   [RTEI (⭐15)](https://github.com/okfn/rtei) – Right to Education Index website (OKFN).
+*   [RTEI (⭐16)](https://github.com/okfn/rtei) – Right to Education Index website (OKFN).
 
 ## [11. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 

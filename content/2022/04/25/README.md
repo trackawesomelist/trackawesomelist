@@ -16,15 +16,15 @@
 
 ### Apps / E-commerce
 
-*   [django-salesman (⭐342)](https://github.com/dinoperovic/django-salesman) - Headless e-commerce framework for Django with Wagtail modeladmin integration.
+*   [django-salesman (⭐354)](https://github.com/dinoperovic/django-salesman) - Headless e-commerce framework for Django with Wagtail modeladmin integration.
 
 ### Apps / Media
 
-*   [Wagtail CLIP (⭐11)](https://github.com/MattSegal/wagtail-clip) - A module for searching the contents of Wagtail images with natural language queries.
+*   [Wagtail CLIP (⭐12)](https://github.com/MattSegal/wagtail-clip) - A module for searching the contents of Wagtail images with natural language queries.
 
 ### Apps / Translations
 
-*   [Wagtail Localize (⭐195)](https://github.com/wagtail/wagtail-localize) - A translation plugin for the Wagtail CMS, allows pages or snippets to be translated within Wagtail's admin interface.
+*   [Wagtail Localize (⭐202)](https://github.com/wagtail/wagtail-localize) - A translation plugin for the Wagtail CMS, allows pages or snippets to be translated within Wagtail's admin interface.
 
 ### Tools / Templates & Starter Kits
 
@@ -32,7 +32,7 @@
 
 ### Open-source sites / Lists
 
-*   [Consumer Financial Protection Bureau (⭐239)](https://github.com/cfpb/consumerfinance.gov) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
+*   [Consumer Financial Protection Bureau (⭐241)](https://github.com/cfpb/consumerfinance.gov) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
 
 ## [3. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
 
@@ -123,13 +123,13 @@
 
 ### Community / Case study
 
-*   [Proposal (⭐70)](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
+*   [Proposal (⭐71)](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
 
 ## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [shuttle (⭐5.3k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust
+*   [shuttle (⭐5.3k)](https://github.com/shuttle-hq/shuttle) — A serverless platform.
 
 ### Development tools / Build system
 
@@ -145,7 +145,7 @@
 
 ### Templates / Vue 3
 
-*   [ViTauri (⭐53)](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
+*   [ViTauri (⭐55)](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
 
 ## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

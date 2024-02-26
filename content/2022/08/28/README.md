@@ -24,11 +24,11 @@
 
 ### Official plugins
 
-*   [Preferences (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/preferences) - Provides a simple key/value persistent store for lightweight data, ex Storage.
+*   [Preferences (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/preferences) - Provides a simple key/value persistent store for lightweight data, ex Storage.
 
 ### Community plugins
 
-*   [Electron (⭐283)](https://github.com/capacitor-community/electron) - Support for the Electron platform.
+*   [Electron (⭐294)](https://github.com/capacitor-community/electron) - Support for the Electron platform.
 
 ## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

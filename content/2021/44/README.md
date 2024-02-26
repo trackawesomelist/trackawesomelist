@@ -44,7 +44,7 @@
 
 ### Software / Document Management - E-books
 
-*   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metadata support. ([Demo](https://wiki.kavitareader.com/en/kavita-demo), [Source Code (⭐4.5k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET/Docker`
+*   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metadata support. ([Demo](https://wiki.kavitareader.com/en/kavita-demo), [Source Code (⭐4.6k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET/Docker`
 
 ## [7. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
@@ -574,7 +574,7 @@
 ### Libraries/Frameworks / Game Development
 
 *   [libktx/ktx (⭐1.3k)](https://github.com/libktx/ktx) - Kotlin utilities for LibGDX applications.
-*   [korlibs/KorGE (⭐2.1k)](https://github.com/korlibs/KorGE) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
+*   [korlibs/KorGE (⭐2.2k)](https://github.com/korlibs/KorGE) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
 
 ## [40. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
@@ -648,18 +648,18 @@
 
 ### Applications / System tools
 
-*   [uutils/coreutils (⭐16k)](https://github.com/uutils/coreutils) — A cross-platform Rust rewrite of the GNU coreutils \[[![CICD](https://github.com/uutils/coreutils/actions/workflows/CICD.yml/badge.svg)](https://github.com/uutils/coreutils/actions/workflows/CICD.yml)
+*   [uutils/coreutils (⭐16k)](https://github.com/uutils/coreutils) — A cross-platform rewrite of the GNU coreutils [![CICD](https://github.com/uutils/coreutils/actions/workflows/CICD.yml/badge.svg)](https://github.com/uutils/coreutils/actions/workflows/CICD.yml)
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-parser (⭐254)](https://github.com/stalwartlabs/mail-parser) \[[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-parser (⭐256)](https://github.com/stalwartlabs/mail-parser) \[[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
 
 ### Libraries / Game development
 
 *   bracket-lib (previously RLTK)
-    *   [bracket-lib (⭐1.4k)](https://github.com/amethyst/bracket-lib) \[[bracket-lib](https://crates.io/crates/bracket-lib)] - The Roguelike Toolkit (RLTK), implemented for Rust. [![Rust](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml/badge.svg)](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml)
+    *   [bracket-lib (⭐1.4k)](https://github.com/amethyst/bracket-lib) \[[bracket-lib](https://crates.io/crates/bracket-lib)] - The Roguelike Toolkit (RLTK). [![Rust](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml/badge.svg)](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml)
 *   Tcod-rs
-    *   [tomassedovic/tcod-rs (⭐230)](https://github.com/tomassedovic/tcod-rs) — Libtcod bindings for Rust.
+    *   [tomassedovic/tcod-rs (⭐229)](https://github.com/tomassedovic/tcod-rs) — Libtcod bindings.
     *   Warning: Not maintained anymore
 
 ### Registries / Web programming
@@ -727,16 +727,19 @@
 
 *   [Tidepools](http://tidepools.co) is being developed within the [Red Hook Mesh Network](http://oti.newamerica.net/blogposts/2013/case_study_red_hook_initiative_wifi_tidepools-78575), for addressing local, social incentives for mesh use. An Open Source, Collaborative, Mobile Mapping & Social Hub, Reflecting Community Needs & Culture through Custom Apps, Time-based Maps, & Data Feeds.
 
-## [54. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [54. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
 
-### Algorithms & Data Structures
+### Golang
 
-*   [Data Structures](https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf) - Aditya CSE (PDF)
+*   [Go 命令教程 (⭐3.5k)](https://github.com/hyper-carrot/go_command_tutorial)
 
-### Containers
+### Groovy
 
-*   [CI/CD for Monorepos: Effectively building, testing, and deploying code with monorepos (⭐82)](https://github.com/semaphoreci/book-monorepo-cicd) - Pablo Tomas Fernandez Zavalia, Marko Anastasov, SemaphoreCI (PDF, EPUB, Kindle)
-*   [CI/CD with Docker and Kubernetes Book (⭐190)](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
+*   [Groovy 教程](https://www.w3cschool.cn/groovy) - W3Cschool
+
+### HTML and CSS
+
+*   [Bootstrap 5 繁體中文手冊](https://bootstrap5.hexschool.com) - 六角學院
 
 ## [55. Public Apis](/content/public-apis/public-apis/week/README.md)
 

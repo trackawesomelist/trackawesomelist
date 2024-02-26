@@ -206,7 +206,7 @@
 
 ### Apps / Rich text editor extensions
 
-*   [WagtailDraftail (⭐22)](https://github.com/springload/wagtaildraftail) – Draft.js editor for Wagtail, built upon [Draftail (⭐598)](https://github.com/springload/draftail) and [draftjs\_exporter (⭐80)](https://github.com/springload/draftjs_exporter).
+*   [WagtailDraftail (⭐23)](https://github.com/springload/wagtaildraftail) – Draft.js editor for Wagtail, built upon [Draftail (⭐599)](https://github.com/springload/draftail) and [draftjs\_exporter (⭐80)](https://github.com/springload/draftjs_exporter).
 
 ### Resources / Lists
 
@@ -214,8 +214,8 @@
 
 ### Open-source sites / Lists
 
-*   [bakerydemo (⭐832)](https://github.com/wagtail/bakerydemo) – Next generation Wagtail demo, born in Reykjavík.
-*   [wagtaildemo (⭐284)](https://github.com/wagtail/wagtaildemo) – An example site implemented with Wagtail.
+*   [bakerydemo (⭐853)](https://github.com/wagtail/bakerydemo) – Next generation Wagtail demo, born in Reykjavík.
+*   [wagtaildemo (⭐283)](https://github.com/wagtail/wagtaildemo) – An example site implemented with Wagtail.
 
 ## [13. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -237,7 +237,7 @@
 
 ### Networking
 
-*   [Seasocks (⭐702)](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
+*   [Seasocks (⭐704)](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
 
 ## [16. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
@@ -667,7 +667,7 @@
 
 ### Applications / Directory Navigation
 
-*   [facebook-cli (⭐389)](https://github.com/specious/facebook-cli) - Facebook command line tool
+*   [facebook-cli (⭐394)](https://github.com/specious/facebook-cli) - Facebook command line tool
 
 ## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

@@ -140,7 +140,7 @@ Webpage: <http://hanahaus.com/>
 
 ### Documentation
 
-*   [bureaucrat (⭐356)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
+*   [bureaucrat (⭐359)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
 
 ### Examples and funny stuff
 
@@ -152,11 +152,11 @@ Webpage: <http://hanahaus.com/>
 
 ### ORM and Datamapping
 
-*   [mongodb (⭐559)](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
+*   [mongodb (⭐561)](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
 
 ### Protocols
 
-*   [riffed (⭐305)](https://github.com/pinterest/riffed) - Provides idiomatic Elixir bindings for Apache Thrift.
+*   [riffed (⭐307)](https://github.com/pinterest/riffed) - Provides idiomatic Elixir bindings for Apache Thrift.
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

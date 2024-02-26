@@ -27,7 +27,7 @@
 
 ### Other Tools / Telegram
 
-*   [BeVigil-CLI (⭐88)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
+*   [BeVigil-CLI (⭐97)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
 
 ## [3. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [nanika (⭐1)](https://github.com/justforuse/nanika-zsh-theme/) - Optimized variant of [robbyrussell (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell). Includes `git` status decorations.
+*   [nanika (⭐1)](https://github.com/justforuse/nanika-zsh-theme/) - Optimized variant of [robbyrussell (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell). Includes `git` status decorations.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -74,7 +74,7 @@
 
 *   [dkandalov/limited-wip (⭐105)](https://github.com/dkandalov/limited-wip) - Plugin to limit your work-in-progress.
 *   [dkandalov/pomodoro-tm (⭐130)](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer.
-*   [emedinaa/kotlin-mvvm (⭐514)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
+*   [emedinaa/kotlin-mvvm (⭐517)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
 
 ## [9. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
@@ -96,9 +96,9 @@
     *   [Delilah (⭐18)](https://github.com/SecurityTW/delilah) - Elasticsearch Honeypot written in Python (originally from Novetta).
     *   [ESPot (⭐25)](https://github.com/mycert/ESPot) - Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
     *   [ElasticPot](https://gitlab.com/bontchev/elasticpot) - An Elasticsearch Honeypot.
-    *   [Elastic honey (⭐177)](https://github.com/jordan-wright/elastichoney) - Simple Elasticsearch Honeypot.
+    *   [Elastic honey (⭐179)](https://github.com/jordan-wright/elastichoney) - Simple Elasticsearch Honeypot.
     *   [MongoDB-HoneyProxy (⭐86)](https://github.com/Plazmaz/MongoDB-HoneyProxy) - MongoDB honeypot proxy.
-    *   [NoSQLpot (⭐101)](https://github.com/torque59/nosqlpot) - Honeypot framework built on a NoSQL-style database.
+    *   [NoSQLpot (⭐102)](https://github.com/torque59/nosqlpot) - Honeypot framework built on a NoSQL-style database.
     *   [mysql-honeypotd (⭐27)](https://github.com/sjinks/mysql-honeypotd) - Low interaction MySQL honeypot written in C.
     *   [MysqlPot (⭐20)](https://github.com/schmalle/MysqlPot) - MySQL honeypot, still very early stage.
     *   [pghoney (⭐16)](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot.
@@ -106,7 +106,7 @@
     *   [RedisHoneyPot (⭐13)](https://github.com/cypwnpwnsocute/RedisHoneyPot) - High Interaction Honeypot Solution for Redis protocol.
 *   SIP
 
-    *   [SentryPeer (⭐140)](https://github.com/SentryPeer/SentryPeer) - Protect your SIP Servers from bad actors.
+    *   [SentryPeer (⭐143)](https://github.com/SentryPeer/SentryPeer) - Protect your SIP Servers from bad actors.
 
 ## [11. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
@@ -132,11 +132,11 @@
 
 ### Applications
 
-*   [fend (⭐430)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
+*   [fend (⭐446)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
 
 ### Development tools / Formatters
 
-*   [rustfmt (⭐5.6k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo
+*   [rustfmt (⭐5.7k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo
 
 ## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -148,7 +148,7 @@
 
 ### ⚙️ Middlewares / 🧬 Core
 
-*   [EnvVar (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - Expose environment variables with providing an optional config.
+*   [EnvVar (⭐30k)](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - Expose environment variables with providing an optional config.
 
 ## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

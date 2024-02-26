@@ -10,12 +10,12 @@
 
 ### Continuous Integration
 
-*   [go-test-coverage (⭐36)](https://github.com/vladopajic/go-test-coverage) - Tool and GitHub action which reports issues when test coverage is below set threshold.
+*   [go-test-coverage (⭐38)](https://github.com/vladopajic/go-test-coverage) - Tool and GitHub action which reports issues when test coverage is below set threshold.
 
 ### Caches
 
-*   [imcache (⭐106)](https://github.com/erni27/imcache) - A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
-*   [theine (⭐202)](https://github.com/Yiling-J/theine-go) - High performance, near optimal in-memory cache with proactive TTL expiration and generics.
+*   [imcache (⭐110)](https://github.com/erni27/imcache) - A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
+*   [theine (⭐205)](https://github.com/Yiling-J/theine-go) - High performance, near optimal in-memory cache with proactive TTL expiration and generics.
 
 ## [2. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 

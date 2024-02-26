@@ -10,11 +10,11 @@
 
 ### HTML Widgets
 
-*   [highcharter (⭐701)](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets
+*   [highcharter (⭐705)](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets
 
 ### Spatial
 
-*   [tigris (⭐308)](https://github.com/walkerke/tigris) - Download and use Census TIGER/Line shapefiles in R
+*   [tigris (⭐314)](https://github.com/walkerke/tigris) - Download and use Census TIGER/Line shapefiles in R
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -77,17 +77,17 @@
 
 ### Software / Backups
 
-*   [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code (⭐42k)](https://github.com/rclone/rclone)) `MIT` `Go`
+*   [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code (⭐43k)](https://github.com/rclone/rclone)) `MIT` `Go`
 
 ### Software / Editors
 
-*   [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor. ([Source Code (⭐23k)](https://github.com/zyedidia/micro)) `MIT` `Go`
+*   [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor. ([Source Code (⭐24k)](https://github.com/zyedidia/micro)) `MIT` `Go`
 
 ## [11. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
-*   [Ramda Adjunct (⭐671)](https://github.com/char0n/ramda-adjunct) is a community-maintained extension of Ramda.
+*   [Ramda Adjunct (⭐679)](https://github.com/char0n/ramda-adjunct) is a community-maintained extension of Ramda.
 
 ### Resources / Articles
 

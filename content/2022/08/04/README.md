@@ -35,7 +35,7 @@
 
 ### Miscellaneous
 
-*   [react-mouse-select (⭐34)](https://github.com/andreizanik/react-mouse-select) - [Demo](https://andreizanik.github.io/react-mouse-select/) A component that allows selecting DOM elements by moving the mouse
+*   [react-mouse-select (⭐35)](https://github.com/andreizanik/react-mouse-select) - [Demo](https://andreizanik.github.io/react-mouse-select/) A component that allows selecting DOM elements by moving the mouse
 
 ## [6. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [DePay](https://depay.com) - Accept Web3 Payments directly into your wallet. Peer-to-peer, free, self-hosted & open-source. ([Demo](https://depay.com/products/payments), [Source Code (⭐80)](https://github.com/depayfi/widgets)) `MIT` `Nodejs`
+*   [DePay](https://depay.com) - Accept Web3 Payments directly into your wallet. Peer-to-peer, free, self-hosted & open-source. ([Demo](https://depay.com/products/payments), [Source Code (⭐81)](https://github.com/depayfi/widgets)) `MIT` `Nodejs`
 
 ### Software / Software Development - IDE & Tools
 
@@ -115,11 +115,11 @@
 
 ### Caches
 
-*   [cachego (⭐345)](https://github.com/faabiosr/cachego) - Golang Cache component for multiple drivers.
+*   [cachego (⭐347)](https://github.com/faabiosr/cachego) - Golang Cache component for multiple drivers.
 
 ### Middlewares / Actual middlewares
 
-*   [echo-middleware (⭐13)](https://github.com/faabiosr/echo-middleware) - Middleware for Echo framework with logging and metrics.
+*   [echo-middleware (⭐14)](https://github.com/faabiosr/echo-middleware) - Middleware for Echo framework with logging and metrics.
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
@@ -139,7 +139,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-jspm (⭐57)](https://github.com/jspm/vite-plugin-jspm) - Resolves dependencies independently from CDN providers using import maps and es-module-shims.
+*   [vite-plugin-jspm (⭐58)](https://github.com/jspm/vite-plugin-jspm) - Resolves dependencies independently from CDN providers using import maps and es-module-shims.
 
 ## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

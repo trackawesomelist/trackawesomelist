@@ -55,12 +55,12 @@
 ### Applications / Emulators
 
 *   PlayStation 4
-    *   [Obliteration (⭐494)](https://github.com/obhq/obliteration) — Experimental PS4 emulator written in Rust for Windows, macOS and Linux [![CI](https://github.com/obhq/obliteration/actions/workflows/main.yml/badge.svg)](https://github.com/obhq/obliteration/actions/workflows/main.yml)
+    *   [Obliteration (⭐501)](https://github.com/obhq/obliteration) — Experimental PS4 emulator for Windows, macOS and Linux [![CI](https://github.com/obhq/obliteration/actions/workflows/main.yml/badge.svg)](https://github.com/obhq/obliteration/actions/workflows/main.yml)
 
 ### Libraries / Encoding
 
 *   rkyv
-    *   [rkyv/rkyv (⭐2.4k)](https://github.com/rkyv/rkyv) \[[rkyv](https://crates.io/crates/rkyv)] — rkyv (archive) is a zero-copy deserialization framework for Rust
+    *   [rkyv/rkyv (⭐2.5k)](https://github.com/rkyv/rkyv) \[[rkyv](https://crates.io/crates/rkyv)] — rkyv (archive) is a zero-copy deserialization framework
 
 ## [5. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
@@ -71,18 +71,18 @@
 ### Cordova plugins / Incompatible
 
 *   [`cordova-plugin-add-swift-support`](https://github.com/akofman/cordova-plugin-add-swift-support) (not needed, Capacitor has built in Swift support)
-*   [`cordova-plugin-admobpro`](https://github.com/floatinghotpot/cordova-admob-pro) ([see details (⭐10k)](https://github.com/ionic-team/capacitor/issues/1101))
-*   [`cordova-plugin-braintree`](https://github.com/Taracque/cordova-plugin-braintree) ([see details (⭐10k)](https://github.com/ionic-team/capacitor/issues/1415))
+*   [`cordova-plugin-admobpro`](https://github.com/floatinghotpot/cordova-admob-pro) ([see details (⭐11k)](https://github.com/ionic-team/capacitor/issues/1101))
+*   [`cordova-plugin-braintree`](https://github.com/Taracque/cordova-plugin-braintree) ([see details (⭐11k)](https://github.com/ionic-team/capacitor/issues/1415))
 *   [`cordova-plugin-code-push`](https://github.com/microsoft/code-push) ([see details (⭐4.3k)](https://github.com/microsoft/code-push/issues/615))
 *   [`cordova-plugin-compat`](https://github.com/apache/cordova-plugin-compat) (not needed)
 *   [`cordova-plugin-console`](https://github.com/apache/cordova-plugin-console) (not needed, Capacitor has its own)
 *   [`cordova-plugin-crosswalk-webview`](https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview) (Capacitor doesn't allow to change the webview)
-*   [`cordova-plugin-fcm`](https://github.com/fechanique/cordova-plugin-fcm) ([see details (⭐10k)](https://github.com/ionic-team/capacitor/issues/584))
-*   [`cordova-plugin-firebase`](https://github.com/arnesson/cordova-plugin-firebase) ([see details (⭐10k)](https://github.com/ionic-team/capacitor/issues/815))
+*   [`cordova-plugin-fcm`](https://github.com/fechanique/cordova-plugin-fcm) ([see details (⭐11k)](https://github.com/ionic-team/capacitor/issues/584))
+*   [`cordova-plugin-firebase`](https://github.com/arnesson/cordova-plugin-firebase) ([see details (⭐11k)](https://github.com/ionic-team/capacitor/issues/815))
 *   [`cordova-plugin-ionic-keyboard`](https://github.com/ionic-team/cordova-plugin-ionic-keyboard) (not needed, Capacitor has it's own)
 *   [`cordova-plugin-ionic-webview`](https://github.com/ionic-team/cordova-plugin-ionic-webview) (not needed, Capacitor uses WKWebView)
 *   [`cordova-plugin-music-controls`](https://github.com/homerours/cordova-music-controls-plugin) (causes build failures, skipped)
-*   [`cordova-plugin-qrscanner`](https://github.com/bitpay/cordova-plugin-qrscanner) ([see details (⭐10k)](https://github.com/ionic-team/capacitor/issues/1213))
+*   [`cordova-plugin-qrscanner`](https://github.com/bitpay/cordova-plugin-qrscanner) ([see details (⭐11k)](https://github.com/ionic-team/capacitor/issues/1213))
 *   [`cordova-plugin-splashscreen`](https://github.com/apache/cordova-plugin-splashscreen) (not needed, Capacitor has its own)
 *   [`cordova-plugin-statusbar`](https://github.com/apache/cordova-plugin-statusbar) (not needed, Capacitor has its own)
 *   [`cordova-plugin-wkwebview-engine`](https://github.com/apache/cordova-plugin-wkwebview-engine) (not needed, Capacitor uses WKWebView)
@@ -127,7 +127,7 @@
 
 ### Node.js / Community
 
-*   [vite-express (⭐399)](https://github.com/szymmis/vite-express) - Integration for Express web apps.
+*   [vite-express (⭐416)](https://github.com/szymmis/vite-express) - Integration for Express web apps.
 
 ## [10. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
@@ -147,7 +147,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ez-cmd (⭐1)](https://github.com/akgarhwal/ez-cmd) - Simplifies and streamlines common command-line tasks by providing easy-to-use shortcuts and aliases.
-*   [multi-evalcache (⭐0)](https://github.com/rwwiv/multi-evalcache) - Cache multiple eval loads to improve startup time, inspired by [mroth/evalcache (⭐162)](https://github.com/mroth/evalcache).
+*   [multi-evalcache (⭐0)](https://github.com/rwwiv/multi-evalcache) - Cache multiple eval loads to improve startup time, inspired by [mroth/evalcache (⭐164)](https://github.com/mroth/evalcache).
 
 ## [13. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 

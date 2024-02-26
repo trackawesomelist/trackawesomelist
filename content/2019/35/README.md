@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 02 - Sep 08, 2019
 
-45 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -129,25 +129,19 @@
 *   [aShop](https://ashop.co) - Effortless microsites for Amazon Sellers. Marketing tool that delivers branded store experience to bring more business and maximize profits.
 *   [Prisync](https://prisync.com/) - Price monitoring & tracking SaaS with dynamic pricing and automatching engine.
 
-## [15. Awesome Python](/content/vinta/awesome-python/week/README.md)
-
-### Date and Time
-
-*   [PyTime (⭐151)](https://github.com/shinux/PyTime) - An easy-to-use Python module which aims to operate date/time/datetime by string.
-
-## [16. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [15. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Articles
 
 *   [On Code Review](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c) Short article about tooling and personal elements of code review, from an ex-Facebook engineer.
 
-## [17. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [16. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Swift
 
 *   [*Pro Swift* by Paul Hudson](https://www.hackingwithswift.com/store/pro-swift)
 
-## [18. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [17. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
@@ -157,17 +151,17 @@
 
 *   [JqueryDataTablesServerSide (⭐219)](https://github.com/fingers10/JqueryDataTablesServerSide) - ASP.NET Core Server Side Processing library for Jquery DataTables with Multiple Column Filtering, Sorting and Pagination at database level with Excel Export and TagHelper support.
 
-## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [18. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Form Widgets / Other
 
 *   [analytics (⭐2.3k)](https://github.com/davidwells/analytics) - A lightweight, extendable analytics library designed to work with any third-party analytics provider to track page views, custom events, & identify users.
 
-## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Learning and Courses
 
-*   [OpenOLAT](https://www.openolat.com/?lang=en) - OpenOLAT is a web-based learning management system for teaching, education, assessment and communication. ([Demo](https://learn.olat.com), [Source Code (⭐275)](https://github.com/OpenOLAT/OpenOLAT)) `Apache-2.0` `Java`
+*   [OpenOLAT](https://www.openolat.com/?lang=en) - OpenOLAT is a web-based learning management system for teaching, education, assessment and communication. ([Demo](https://learn.olat.com), [Source Code (⭐279)](https://github.com/OpenOLAT/OpenOLAT)) `Apache-2.0` `Java`
 
 ### Software / Maps and Global Positioning System (GPS)
 
@@ -180,9 +174,9 @@
 
 ### Software / Proxy
 
-*   [sish (⭐3.6k)](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP tunnels to localhost using only SSH (serveo/ngrok alternative). `MIT` `Go/Docker`
+*   [sish (⭐3.7k)](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP tunnels to localhost using only SSH (serveo/ngrok alternative). `MIT` `Go/Docker`
 
-## [21. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [20. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
@@ -196,7 +190,7 @@
 
 *   [Firegento](https://packages.firegento.com/) - A Composer Repository providing Magento Modules.
 
-## [22. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
+## [21. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
 ### Profile Loaders
 
@@ -206,19 +200,19 @@
 
 *   [Jamie King](https://www.youtube.com/playlist?list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY) - Comprehensive tutorials about modern OpenGL and Qt.
 
-## [23. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+## [22. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Infrastructure / Transactions
 
 *   [Omid (⭐76)](https://github.com/apache/incubator-omid) - Transactional support for HBase.
 
-## [24. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [23. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
 *   [react-native-sortable-gridview ★4](https://github.com/ge6285790/react-native-sortable-gridview) - A React Native sortable and draggable Grid View Component.
 
-## [25. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [24. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Books / Algorithms and Data structures
 
@@ -237,7 +231,7 @@
     *   [by @amejiarosario (⭐7.4k)](https://github.com/amejiarosario/dsa.js)
     *   [by @zonayedpca (⭐98)](https://github.com/zonayedpca/AlgoDS.js)
 
-## [26. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [25. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
@@ -247,13 +241,13 @@
 
 *   [Peergos](https://peergos.org) - Your private, but social, space online. Store and edit documents and media. Share files or folders with friends.
 
-## [27. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [26. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### E-Books / Others
 
 *   [An Introduction to Building Applications with Blazor](https://www.amazon.com/Introduction-Building-Applications-Blazor-applications-ebook/dp/B07WPQTT6H) - August 24, 2019 - An Introduction to Building Applications with Blazor: How to get started creating applications using this exciting easy to use Microsoft C# framework
 
-## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [27. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / RSS
 
@@ -265,15 +259,15 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [nushell (⭐28k)](https://github.com/nushell/nushell) - nushell is a modern, GitHub-era shell written in Rust. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [nushell (⭐29k)](https://github.com/nushell/nushell) - nushell is a modern, GitHub-era shell written in Rust. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [29. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [28. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Engine
 
 *   [Gearpump (⭐765)](https://github.com/gearpump/gearpump) \[Scala] - lightweight real-time distributed streaming engine built on Akka.
 
-## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
@@ -284,13 +278,13 @@
 
 *   [AwaitToast (⭐143)](https://github.com/k-lpmg/AwaitToast) - 🍞 An async waiting toast with basic toast. Inspired by facebook posting toast.
 
-## [31. Tools](/content/lvwzhen/tools/week/README.md)
+## [30. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### Color
 
 *   [Image Color Picker](https://image-color.com)
 
-## [32. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [31. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Machine Learning / General Purpose Machine Learning
 
@@ -587,37 +581,37 @@
 *   [ONNX (⭐16k)](https://github.com/onnx/onnx) - Open Neural Network Exchange.
 *   [MMdnn (⭐5.8k)](https://github.com/Microsoft/MMdnn) -  A set of tools to help users inter-operate among different deep learning frameworks.
 
-## [33. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [32. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Design / Misc
 
 *   [Email Template Guide](https://blocksedit.com/email-template-guide/) - Using a modular email template system.
 
-## [34. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [33. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Language-related
 
 *   [Inlined records in constructors](https://www.lexifi.com/ocaml/inlined-records-constructors/)
 
-## [35. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [34. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Commercial WebServices / DSP
 
 *   [PagerDuty::Agent](https://metacpan.org/pod/PagerDuty::Agent) - A perl PagerDuty client
 
-## [36. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [35. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Machine Learning Libraries / Deep learning
 
 *   [ruby-dnn (⭐43)](https://github.com/unagiootoro/ruby-dnn) - Simple deep learning for Ruby.
 
-## [37. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
+## [36. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
 ### Case Studies / RFID NFC Tools
 
 *   [Binary Hardening in IoT products](https://cyber-itl.org/2019/08/26/iot-data-writeup.html)
 
-## [38. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [37. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Journals
 
@@ -633,7 +627,7 @@
     *   [Alsentzer et al Clinical BERT (⭐524)](https://github.com/EmilyAlsentzer/clinicalBERT) - [paper](https://www.aclweb.org/anthology/W19-1909/)
     *   [Huang et al ClinicalBERT (⭐265)](https://github.com/kexinhuang12345/clinicalBERT) - [paper](https://arxiv.org/abs/1904.05342)
 
-## [39. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [38. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Reliability
 
@@ -643,13 +637,7 @@
 
 *   [Backblaze Durability is 99.999999999% — And Why It Doesn’t Matter](https://www.backblaze.com/blog/cloud-storage-durability/)
 
-## [40. Awesome R](/content/qinwf/awesome-R/week/README.md)
-
-### Integrated Development Environments
-
-*   [Microsoft R](https://mran.microsoft.com/) - Revolution R would be offered free to academic users and commercial software would focus on big data, large scale multiprocessor functionality.
-
-## [41. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [39. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -663,13 +651,13 @@
 
 *   [Whereby](https://whereby.com) – Browser-based, plugin-less group video calls.
 
-## [42. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [40. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Media & Document Management
 
 *   [Laravel FFmpeg (⭐1.2k)](https://github.com/pascalbaljetmedia/laravel-ffmpeg) - This package provides an integration with FFmpeg for Laravel 5.8.
 
-## [43. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [41. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -684,7 +672,7 @@
 
 *   [Run Go lint checks on PR event (⭐10)](https://github.com/ArangoGutierrez/GoLinty-Action)
 
-## [44. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [42. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Conferences
 
@@ -694,7 +682,7 @@
 
 *   [Neuraxle - A general-purpose ML pipelining framework (⭐549)](https://github.com/Neuraxio/Neuraxle)
 
-## [45. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [43. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 

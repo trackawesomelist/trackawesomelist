@@ -30,7 +30,7 @@
 ### Router / Mouse Events
 
 *   [wouter (⭐5.9k)](https://github.com/molefrog/wouter) - A minimalist-friendly \~1.3KB routing library. Nothing else but hooks.
-*   [redux-first-history (⭐423)](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
+*   [redux-first-history (⭐426)](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
 
 ### Form Components / Color Picker
 
@@ -40,11 +40,11 @@
 
 ### Templating
 
-*   [temple (⭐456)](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
+*   [temple (⭐458)](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
 
 ### Text and Numbers
 
-*   [bitcoinex (⭐50)](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir.
+*   [bitcoinex (⭐51)](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir.
 
 ## [6. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 

@@ -93,7 +93,7 @@
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [JetBrains Rider (C#) (⭐310)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
+*   [JetBrains Rider (C#) (⭐319)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
 
 ## [13. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Eleventy Starter (⭐260)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
+*   🚀 [Eleventy Starter (⭐262)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
 
 ## [15. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
@@ -409,7 +409,7 @@
 
 ### Cloud Infrastructure and Management
 
-*   [k8s (⭐302)](https://github.com/coryodaniel/k8s) - Kubernetes Elixir client with CRD support, multi-cluster support, pluggable auth, and configurable middleware.
+*   [k8s (⭐304)](https://github.com/coryodaniel/k8s) - Kubernetes Elixir client with CRD support, multi-cluster support, pluggable auth, and configurable middleware.
 
 ## [41. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
@@ -574,7 +574,7 @@
 ### Libraries / Compression
 
 *   zip
-    *   [zip-rs/zip (⭐721)](https://github.com/zip-rs/zip) — read and write ZIP archives
+    *   [zip-rs/zip (⭐725)](https://github.com/zip-rs/zip) — read and write ZIP archives
 
 ## [50. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 

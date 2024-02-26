@@ -77,7 +77,7 @@
 
 ### Libraries / Cryptography
 
-*   [sfackler/rust-native-tls (⭐439)](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
+*   [sfackler/rust-native-tls (⭐442)](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
 
 ## [11. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -156,26 +156,26 @@
 
 ### Errors and Exception Handling
 
-*   [exceptional (⭐286)](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
+*   [exceptional (⭐290)](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
 *   [happy (⭐45)](https://github.com/vic/happy) - Happy path programming, alternative to elixir `with` form.
 
 ### Geolocation
 
-*   [geoip (⭐109)](https://github.com/navinpeiris/geoip) - Find geolocation for a given IP, hostname or `Plug.Conn`.
+*   [geoip (⭐111)](https://github.com/navinpeiris/geoip) - Find geolocation for a given IP, hostname or `Plug.Conn`.
 
 ### Images
 
-*   [thumbnex (⭐65)](https://github.com/talklittle/thumbnex) - Create thumbnails from images and video screenshots.
+*   [thumbnex (⭐67)](https://github.com/talklittle/thumbnex) - Create thumbnails from images and video screenshots.
 
 ### Instrumenting / Monitoring
 
-*   [elixometer (⭐825)](https://github.com/pinterest/elixometer) - A light Elixir wrapper around exometer.
-*   [erlang-metrics (⭐69)](https://github.com/benoitc/erlang-metrics) - A generic interface to different metrics systems in Erlang.
+*   [elixometer (⭐827)](https://github.com/pinterest/elixometer) - A light Elixir wrapper around exometer.
+*   [erlang-metrics (⭐70)](https://github.com/benoitc/erlang-metrics) - A generic interface to different metrics systems in Erlang.
 *   [exometer (⭐524)](https://github.com/Feuerlabs/exometer) - Basic measurement objects and probe behavior in Erlang.
-*   [folsom\_ddb (⭐5)](https://github.com/dalmatinerdb/folsom_ddb) - DalmatinerDB backend to store folsom metrics.
-*   [instream (⭐219)](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
+*   [folsom\_ddb (⭐6)](https://github.com/dalmatinerdb/folsom_ddb) - DalmatinerDB backend to store folsom metrics.
+*   [instream (⭐220)](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
 *   [instrumental (⭐10)](https://github.com/undeadlabs/instrumental-ex) - An Elixir client for [Instrumental](https://instrumentalapp.com/).
-*   [prometheus (⭐336)](https://github.com/deadtrickster/prometheus.erl) - [Prometheus.io](https://prometheus.io) monitoring system and time series database client in Erlang.
+*   [prometheus (⭐338)](https://github.com/deadtrickster/prometheus.erl) - [Prometheus.io](https://prometheus.io) monitoring system and time series database client in Erlang.
 
 ### Miscellaneous
 
@@ -183,7 +183,7 @@
 
 ### Natural Language Processing (NLP)
 
-*   [Paasaa (⭐111)](https://github.com/minibikini/paasaa) - Natural language detection for Elixir.
+*   [Paasaa (⭐112)](https://github.com/minibikini/paasaa) - Natural language detection for Elixir.
 
 ### ORM and Datamapping
 
@@ -207,7 +207,7 @@
 
 ### Utilities
 
-*   [retry (⭐428)](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
+*   [retry (⭐429)](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
 
 ### Validations
 

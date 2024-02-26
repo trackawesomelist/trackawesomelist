@@ -55,11 +55,11 @@
 
 ### Database Schema Migration
 
-*   [godfish (⭐6)](https://github.com/rafaelespinoza/godfish) - Database migration manager, works with native query language. Support for cassandra, mysql, postgres, sqlite3.
+*   [godfish (⭐7)](https://github.com/rafaelespinoza/godfish) - Database migration manager, works with native query language. Support for cassandra, mysql, postgres, sqlite3.
 
 ### File Handling
 
-*   [gofs (⭐391)](https://github.com/no-src/gofs) - A cross-platform real-time file synchronization tool out of the box.
+*   [gofs (⭐394)](https://github.com/no-src/gofs) - A cross-platform real-time file synchronization tool out of the box.
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -71,13 +71,13 @@
 
 ### Libraries / GUI
 
-*   [slint-ui/slint (⭐12k)](https://github.com/slint-ui/slint) [slint](https://crates.io/crates/slint) — [Slint](https://slint.dev/) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
+*   [slint-ui/slint (⭐13k)](https://github.com/slint-ui/slint) [slint](https://crates.io/crates/slint) — [Slint](https://slint.dev/) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### GUI
 
-*   [Slint (⭐12k)](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. \[GPL/Free/Proprietary] [website](https://slint.dev/)
+*   [Slint (⭐13k)](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. \[GPL/Free/Proprietary] [website](https://slint.dev/)
 
 ## [10. Awesome Slack](/content/matiassingers/awesome-slack/README.md)
 
@@ -336,7 +336,7 @@
 
 *   [flux (⭐0)](https://github.com/jmg-duarte/flux-zsh) - A no-nonsense minimalist theme with `git` status decorations.
 *   [linear (⭐4)](https://github.com/MrYazdan/zsh-linear-theme) - Reminiscent of Powerline. Includes segments with `git` status, Pythonvirtualenv, current directory and current time.
-*   [my (⭐0)](https://github.com/fabiendelpierre/my-zsh-theme/) - Variant of [kolo (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#kolo).
+*   [my (⭐0)](https://github.com/fabiendelpierre/my-zsh-theme/) - Variant of [kolo (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#kolo).
 
 ## [15. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

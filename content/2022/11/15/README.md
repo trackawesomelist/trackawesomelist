@@ -10,7 +10,7 @@
 
 ### Advanced Console UIs
 
-*   [bubbletea (⭐22k)](https://github.com/charmbracelet/bubbletea) - Go framework to build terminal apps, based on The Elm Architecture.
+*   [bubbletea (⭐23k)](https://github.com/charmbracelet/bubbletea) - Go framework to build terminal apps, based on The Elm Architecture.
 
 ## [2. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

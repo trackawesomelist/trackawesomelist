@@ -327,7 +327,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Gokapi (⭐877)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go/Docker`
+*   [Gokapi (⭐898)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go/Docker`
 
 ### Software / Inventory Management
 
@@ -341,7 +341,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Litepie Date picker (⭐371)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
+*   🧩 [Litepie Date picker (⭐370)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
 
 ## [26. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
@@ -469,15 +469,15 @@
 ### Programming Languages
 
 *   [C (⭐3.3k)](https://github.com/inputsh/awesome-c#readme)
-*   [D (⭐617)](https://github.com/dlang-community/awesome-d#readme)
+*   [D (⭐632)](https://github.com/dlang-community/awesome-d#readme)
 
 ### Front-End Development
 
-*   [PageSpeed Metrics (⭐662)](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
+*   [PageSpeed Metrics (⭐663)](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
 
 ### Development Environment
 
-*   [Fish (⭐3.7k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
+*   [Fish (⭐3.8k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
 *   [Alfred Workflows (⭐3k)](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
 
 ### Media
@@ -486,11 +486,11 @@
 
 ### Business
 
-*   [Developer-First Products (⭐703)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
+*   [Developer-First Products (⭐721)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 
 ### Work
 
-*   [Programming Interviews (⭐61k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
+*   [Programming Interviews (⭐64k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 
 ### Testing
 
@@ -500,7 +500,7 @@
 
 *   [Userscripts (⭐1.4k)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
 *   [Agriculture (⭐1.1k)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
-*   [Translations (⭐93)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
+*   [Translations (⭐104)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 
 ## [38. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -522,12 +522,12 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-cesium (⭐193)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
-*   [vite-plugin-mpa (⭐209)](https://github.com/IndexXuan/vite-plugin-mpa) - Out-of-box multi-page application (MPA) integration.
+*   [vite-plugin-cesium (⭐197)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
+*   [vite-plugin-mpa (⭐213)](https://github.com/IndexXuan/vite-plugin-mpa) - Out-of-box multi-page application (MPA) integration.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-aliases (⭐195)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
+*   [vite-aliases (⭐192)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
 
 ### Vue CLI / Community
 
@@ -850,14 +850,14 @@
 
 ### Miscellaneous
 
-*   [react-darkreader (⭐274)](https://github.com/Turkyden/react-darkreader) - A React Hook for adding a dark / night mode to your site inspired by darkreader.
+*   [react-darkreader (⭐275)](https://github.com/Turkyden/react-darkreader) - A React Hook for adding a dark / night mode to your site inspired by darkreader.
 
 ### Form Components / Rich Text Editor
 
 *   [edtr-io (⭐706)](https://github.com/edtr-io/edtr-io) - [demo](https://edtr.io/) - [docs](https://edtr.io/docs/getting-started) - WYSIWYG in-line web editor with plugins.
-*   [remirror (⭐2.5k)](https://github.com/remirror/remirror) - [demo](https://remirror.io/playground) - [docs](https://remirror.io/docs) - ProseMirror toolkit for React.
+*   [remirror (⭐2.6k)](https://github.com/remirror/remirror) - [demo](https://remirror.io/playground) - [docs](https://remirror.io/docs) - ProseMirror toolkit for React.
 *   [slate (⭐29k)](https://github.com/ianstormtaylor/slate) - [demo](http://slatejs.org/) - [docs](https://docs.slatejs.org/) - A completely customizable framework for building rich text editors.
-*   [smartblock (⭐303)](https://github.com/appleple/smartblock) - [demo](https://appleple.github.io/smartblock/) - [docs](https://appleple.github.io/smartblock/get-started) - Block based WYSIWYG editor based on ProseMirror.
+*   [smartblock (⭐302)](https://github.com/appleple/smartblock) - [demo](https://appleple.github.io/smartblock/) - [docs](https://appleple.github.io/smartblock/get-started) - Block based WYSIWYG editor based on ProseMirror.
 
 ### Meta Tags / Mouse Events
 

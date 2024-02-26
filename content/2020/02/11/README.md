@@ -107,7 +107,7 @@ Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [OTS](https://ots.fyi/) - One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser. ([Source Code (⭐374)](https://github.com/Luzifer/ots)) `Apache-2.0` `Go`
+*   [OTS](https://ots.fyi/) - One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser. ([Source Code (⭐380)](https://github.com/Luzifer/ots)) `Apache-2.0` `Go`
 
 ---
 

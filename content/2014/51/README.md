@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 22 - Dec 28, 2014
 
-15 awesome lists updated this week.
+14 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Natural Language Processing
 
-*   [Text (⭐584)](https://github.com/threedaymonk/text) - A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
+*   [Text (⭐585)](https://github.com/threedaymonk/text) - A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
 
 ### Queues and Messaging
 
@@ -50,13 +50,7 @@
 *   [FloatingLabel (⭐290)](https://github.com/hardik-trivedi/FloatingLabel) - FloatingLabel Allows you to create a blow kind of EditText. *Doesn't have Gradle or Maven Support.*
 *   [MaterialEditText (⭐6.1k)](https://github.com/rengwuxian/MaterialEditText) - Supporting Floating Labels, Single Line Ellipsis, Max/Min Characters, Helper Text and Error Text with Custom Colors.
 
-## [6. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
-
-### Table of Contents / Event
-
-*   [Elephant.io (⭐1.2k)](https://github.com/Wisembly/Elephant.io) - Yet another web socket library.
-
-## [7. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [6. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### General
 
@@ -76,7 +70,7 @@
 *   [BackboneConf 2013](https://www.youtube.com/playlist?list=PLlgxAbM67lYLJm9_Ub3gStXa2vjb51aUX) - Youtube playlist
 *   [BackboneConf 2014](https://www.youtube.com/playlist?list=PLlgxAbM67lYIGw8DnANC7VgREbzJRQged) - Youtube playlist
 
-## [8. Awesome Radio](/content/kyleterry/awesome-radio/week/README.md)
+## [7. Awesome Radio](/content/kyleterry/awesome-radio/week/README.md)
 
 ### CB / Links
 
@@ -130,7 +124,7 @@
 *   [Project 25 wikipedia](http://en.wikipedia.org/wiki/Project_25)
 *   [Trunked Radio wikipedia](http://en.wikipedia.org/wiki/Trunked_radio_system)
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -145,7 +139,7 @@
 
 *   [PCC](http://pcc.ludd.ltu.se/) - A very old C compiler. Supports C99.
 
-## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
@@ -157,19 +151,19 @@
 
 *   [meow (⭐3.3k)](https://github.com/sindresorhus/meow) - CLI app helper.
 
-## [11. Awesome Db](/content/numetriclabz/awesome-db/week/README.md)
+## [10. Awesome Db](/content/numetriclabz/awesome-db/week/README.md)
 
 ### Javascript
 
 *   [couchdb (⭐5.5k)](https://github.com/apache/couchdb) - Apache CouchDB™ is a database that uses JSON for documents,JavaScript for MapReduce indexes, and regular HTTP for its API \[website] (<http://couchdb.apache.org/>)
 
-## [12. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [11. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Articles / Bare metal / kernel development
 
 *   [Porting D Runtime to ARM](https://github.com/JinShil/D_Runtime_ARM_Cortex-M_study) - A study about porting a minimal D runtime to ARM Cortex-M preprocessors.
 
-## [13. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [12. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tutorials
 
@@ -243,13 +237,13 @@
 
 *   [SecTools](http://sectools.org/) - Top 125 Network Security Tools
 
-## [14. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [13. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Build-time transpilation / Brunch Plugins
 
 *   ES6 Module Transpiler: [es6-module-transpiler-brunch (⭐9)](https://github.com/gcollazo/es6-module-transpiler-brunch)
 
-## [15. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [14. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -259,7 +253,7 @@
 
 ### Authentication
 
-*   [oauth2 (⭐715)](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
+*   [oauth2 (⭐721)](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
 *   [oauth2ex (⭐57)](https://github.com/parroty/oauth2ex) - Another OAuth 2.0 client library for Elixir.
 
 ### Frameworks

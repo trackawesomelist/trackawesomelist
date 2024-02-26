@@ -1,12 +1,18 @@
 # Awesome List Updates on Dec 26, 2014
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [1. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### Python / Symfony
+
+*   [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
+
+## [2. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Image
 
@@ -18,13 +24,13 @@
 
 
 
-## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### WebSocket
 
 *   [Slanger (⭐1.7k)](https://github.com/stevegraham/slanger) - Open Pusher implementation compatible with Pusher libraries.
 
-## [3. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
+## [4. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
 ### Resources / Books
 

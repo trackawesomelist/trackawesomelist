@@ -17,7 +17,7 @@
 
 ### Crates / Utils
 
-*   [turf (⭐23)](https://github.com/myFavShrimp/turf) - Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules.
+*   [turf (⭐37)](https://github.com/myFavShrimp/turf) - Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules.
 
 ## [3. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
@@ -268,7 +268,6 @@
 
 ### Articles / Obsidian
 
-*   [How to Deliver More Software Projects on Time](https://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
 *   [Shipping is a Feature: Some Guiding Principles for People That Build Things](https://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/) - By [Michael Copeland](https://www.linkedin.com/in/mcopeland/).
 *   [Painless Functional Specifications – Part 1: Why Bother?](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/) - By [Joel Spolsky](https://www.joelonsoftware.com).
 *   [Painless Functional Specifications – Part 2: What’s a Spec?](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/) - By [Joel Spolsky](https://www.joelonsoftware.com).
@@ -289,8 +288,8 @@
 
 ### Applications / Blockchain
 
-*   [artemis (⭐1.9k)](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots in Rust.
-*   [svm-rs (⭐214)](https://github.com/alloy-rs/svm-rs) - Solidity-Compiler Version Manager.
+*   [artemis (⭐2k)](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots.
+*   [svm-rs (⭐216)](https://github.com/alloy-rs/svm-rs) - Solidity-Compiler Version Manager.
 
 ### Applications / Database
 
@@ -298,11 +297,11 @@
 
 ### Applications / Utilities
 
-*   [nix-community/nix-melt (⭐173)](https://github.com/nix-community/nix-melt) — A ranger-like flake.lock viewer [![build-badge](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml)
+*   [nix-community/nix-melt (⭐178)](https://github.com/nix-community/nix-melt) — A ranger-like flake.lock viewer [![build-badge](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml)
 
 ### Development tools / Deployment
 
-*   [MarcoIeni/release-plz (⭐527)](https://github.com/MarcoIeni/release-plz) \[[release-plz](https://crates.io/crates/release-plz)] — Release Rust crates from CI, with changelog generation and semver check. [![build badge](https://github.com/MarcoIeni/release-plz/workflows/CI/badge.svg)](https://github.com/MarcoIeni/release-plz/actions)
+*   [MarcoIeni/release-plz (⭐552)](https://github.com/MarcoIeni/release-plz) \[[release-plz](https://crates.io/crates/release-plz)] — Release crates from CI, with changelog generation and semver check. [![build badge](https://github.com/MarcoIeni/release-plz/workflows/CI/badge.svg)](https://github.com/MarcoIeni/release-plz/actions)
 
 ## [20. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
@@ -362,7 +361,7 @@
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [jc (⭐6.5k)](https://github.com/kellyjonbrazil/jc) - Convert command output, file-types, and common strings to JSON or YAML for easier use in scripts.
+*   [jc (⭐7.4k)](https://github.com/kellyjonbrazil/jc) - Convert command output, file-types, and common strings to JSON or YAML for easier use in scripts.
 
 ## [27. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
 
@@ -387,14 +386,14 @@
 
 ### Vue / Integrations
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue-jsx (⭐363)](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2 (⭐512)](https://github.com/vitejs/vite-plugin-vue2) - Official Vue 2 support.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue-jsx (⭐375)](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2 (⭐515)](https://github.com/vitejs/vite-plugin-vue2) - Official Vue 2 support.
 *   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2-jsx (⭐54)](https://github.com/vitejs/vite-plugin-vue2-jsx) - Official Vue 2 JSX support.
 
 ### React / Official
 
-*   [@vitejs/plugin-react (⭐450)](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react) - Official React support that uses Babel.
-*   [@vitejs/plugin-react-swc (⭐655)](https://github.com/vitejs/vite-plugin-react-swc) - Official React support that uses SWC.
+*   [@vitejs/plugin-react (⭐465)](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react) - Official React support that uses Babel.
+*   [@vitejs/plugin-react-swc (⭐677)](https://github.com/vitejs/vite-plugin-react-swc) - Official React support that uses SWC.
 
 ## [30. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -420,7 +419,7 @@
 
 ### Language Tools / Telegram
 
-*   see the [Awesome Translations list (⭐87)](https://github.com/mbiesiad/awesome-translations#tools)
+*   see the [Awesome Translations list (⭐104)](https://github.com/mbiesiad/awesome-translations#tools)
 
 ### Image Search / Telegram
 
@@ -477,7 +476,7 @@
 
 ### Web Frameworks
 
-*   [Don (⭐33)](https://github.com/abemedia/go-don) - A highly performant and simple to use API framework.
+*   [Don (⭐34)](https://github.com/abemedia/go-don) - A highly performant and simple to use API framework.
 *   [Pnutmux](https://gitlab.com/fruitygo/pnutmux) - Pnutmux is a powerful Go web framework that uses regex for matching and handling HTTP requests. It offers features such as CORS handling, structured logging, URL parameters extraction, middlewares, and concurrency limiting.
 
 ## [38. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
@@ -569,13 +568,13 @@
 
 ### Table of Contents / Streaming Application
 
-*   [Zilla (⭐452)](https://github.com/aklivity/zilla) \[Java] - Cross-platform, API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
+*   [Zilla (⭐457)](https://github.com/aklivity/zilla) \[Java] - Cross-platform, API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 
 ## [47. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Validations
 
-*   [goal (⭐49)](https://github.com/martinthenth/goal) - A parameter validation library for LiveViews and JSON/HTML controllers - based on Ecto.
+*   [goal (⭐50)](https://github.com/martinthenth/goal) - A parameter validation library for LiveViews and JSON/HTML controllers - based on Ecto.
 
 ### Editors
 
@@ -620,26 +619,26 @@
 
 ### Software / Miscellaneous
 
-*   [Jellyseerr (⭐2.4k)](https://github.com/Fallenbagel/jellyseerr) - Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of Overseerr). `MIT` `Docker/Nodejs`
-*   [penpot](https://penpot.app/) - A web based design and prototyping platform meant for cross-domain teams. ([Source Code (⭐25k)](https://github.com/penpot/penpot)) `MPL-2.0` `Docker`
+*   [Jellyseerr (⭐2.5k)](https://github.com/Fallenbagel/jellyseerr) - Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of Overseerr). `MIT` `Docker/Nodejs`
+*   [penpot](https://penpot.app/) - A web based design and prototyping platform meant for cross-domain teams. ([Source Code (⭐26k)](https://github.com/penpot/penpot)) `MPL-2.0` `Docker`
 
 ### Software / Money, Budgeting & Management
 
-*   [Bitcart](https://bitcart.ai) - A self-hosted cryptocurrencies payment processor and development platform. ([Demo](https://admin.bitcart.ai), [Source Code (⭐435)](https://github.com/bitcart/bitcart)) `MIT` `Docker/Python/Nodejs`
+*   [Bitcart](https://bitcart.ai) - A self-hosted cryptocurrencies payment processor and development platform. ([Demo](https://admin.bitcart.ai), [Source Code (⭐442)](https://github.com/bitcart/bitcart)) `MIT` `Docker/Python/Nodejs`
 *   [Kill Bill](https://killbill.io/) - Open-Source Subscription Billing & Payments Platform. Have access to real-time analytics and financial reports. ([Source Code (⭐4.3k)](https://github.com/killbill/killbill)) `Apache-2.0` `Java/Docker`
-*   [SolidInvoice](https://solidinvoice.co) - Open source invoicing and quote application. ([Source Code (⭐506)](https://github.com/SolidInvoice/SolidInvoice)) `MIT` `PHP`
+*   [SolidInvoice](https://solidinvoice.co) - Open source invoicing and quote application. ([Source Code (⭐510)](https://github.com/SolidInvoice/SolidInvoice)) `MIT` `PHP`
 
 ### Software / Pastebins
 
-*   [Pastefy](https://pastefy.app/) - Beautiful, simple and easy to deploy Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more. ([Source Code (⭐212)](https://github.com/interaapps/pastefy), [Clients](https://github.com/topics/pastefy-addon)) `MIT` `Docker/K8S/Java`
+*   [Pastefy](https://pastefy.app/) - Beautiful, simple and easy to deploy Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more. ([Source Code (⭐210)](https://github.com/interaapps/pastefy), [Clients](https://github.com/topics/pastefy-addon)) `MIT` `Docker/K8S/Java`
 
 ### Software / Personal Dashboards
 
-*   [envlinks (⭐20)](https://github.com/maxhollmann/envlinks) - A minimalist link dashboard showing links from environment variables. ([Demo](https://envlinks-demo.vercel.app/)) `MIT` `Docker`
+*   [envlinks (⭐23)](https://github.com/maxhollmann/envlinks) - A minimalist link dashboard showing links from environment variables. ([Demo](https://envlinks-demo.vercel.app/)) `MIT` `Docker`
 
 ### Software / Photo and Video Galleries
 
-*   [Nextcloud Memories](https://memories.gallery/) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app. ([Demo](https://demo.memories.gallery/apps/memories/), [Source Code (⭐1.9k)](https://github.com/pulsejet/memories)) `AGPL-3.0` `PHP`
+*   [Nextcloud Memories](https://memories.gallery/) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app. ([Demo](https://demo.memories.gallery/apps/memories/), [Source Code (⭐2k)](https://github.com/pulsejet/memories)) `AGPL-3.0` `PHP`
 
 ### Software / Software Development - Project Management
 
@@ -647,11 +646,11 @@
 
 ### Software / URL Shorteners
 
-*   [Lynx](https://getlynx.dev) - URL shortener with many functions such as multiple accounts, ShareX support and an attractive but simple interface. ([Demo](https://demo.getlynx.dev), [Source Code (⭐116)](https://github.com/Lynx-Shortener/Lynx)) `MIT` `Nodejs/Docker`
+*   [Lynx](https://getlynx.dev) - URL shortener with many functions such as multiple accounts, ShareX support and an attractive but simple interface. ([Demo](https://demo.getlynx.dev), [Source Code (⭐132)](https://github.com/Lynx-Shortener/Lynx)) `MIT` `Nodejs/Docker`
 
 ### Software / Wikis
 
-*   [AmuseWiki](https://amusewiki.org/) - Amusewiki is based on the Emacs Muse markup, remaining mostly compatible with the original implementation. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site. ([Demo](https://sandbox.amusewiki.org), [Source Code (⭐156)](https://github.com/melmothx/amusewiki)) `GPL-1.0` `Perl/Docker`
+*   [AmuseWiki](https://amusewiki.org/) - Amusewiki is based on the Emacs Muse markup, remaining mostly compatible with the original implementation. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site. ([Demo](https://sandbox.amusewiki.org), [Source Code (⭐157)](https://github.com/melmothx/amusewiki)) `GPL-1.0` `Perl/Docker`
 
 ### List of Licenses / Wikis
 
@@ -677,7 +676,7 @@
 
 ### Software / Distributed Filesystems
 
-*   [JuiceFS](https://juicefs.com/) - Distributed POSIX file system built on top of Redis and S3. ([Source Code (⭐9.3k)](https://github.com/juicedata/juicefs)) `Apache-2.0` `Go`
+*   [JuiceFS](https://juicefs.com/) - Distributed POSIX file system built on top of Redis and S3. ([Source Code (⭐9.4k)](https://github.com/juicedata/juicefs)) `Apache-2.0` `Go`
 
 ### Software / Metrics & Metric Collection
 
@@ -686,9 +685,9 @@
 *   [Diamond (⭐1.7k)](https://github.com/python-diamond/Diamond) - Daemon that collects system metrics and publishes them to Graphite (and others). `MIT` `Python`
 *   [Grafana](https://grafana.com/) - A Graphite & InfluxDB Dashboard and Graph Editor. ([Source Code (⭐59k)](https://github.com/grafana/grafana)) `AGPL-3.0` `Go`
 *   [Graphite](https://graphite.readthedocs.org/en/latest/) - Scalable graphing server. ([Source Code (⭐5.8k)](https://github.com/graphite-project/graphite-web)) `Apache-2.0` `Python`
-*   [RRDtool](https://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data. ([Source Code (⭐947)](https://github.com/oetiker/rrdtool-1.x)) `GPL-2.0` `C`
+*   [RRDtool](https://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data. ([Source Code (⭐950)](https://github.com/oetiker/rrdtool-1.x)) `GPL-2.0` `C`
 *   [Statsd (⭐17k)](https://github.com/etsy/statsd/) - Daemon that listens for statistics like counters and timers, sent over UDP or TCP, and sends aggregates to one or more pluggable backend services. `MIT` `Nodejs`
-*   [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - Gathers data from local collectors and pushes the data to OpenTSDB. ([Source Code (⭐511)](https://github.com/OpenTSDB/tcollector/)) `LGPL-3.0/GPL-3.0` `Python`
+*   [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - Gathers data from local collectors and pushes the data to OpenTSDB. ([Source Code (⭐512)](https://github.com/OpenTSDB/tcollector/)) `LGPL-3.0/GPL-3.0` `Python`
 *   [Telegraf (⭐14k)](https://github.com/influxdata/telegraf) - Plugin-driven server agent for collecting, processing, aggregating, and writing metrics. `MIT` `Go`
 
 ### Software / Monitoring
@@ -699,9 +698,9 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fast-alias-tips (⭐6)](https://github.com/decayofmind/zsh-fast-alias-tips) - Helps remember the aliases you defined and forgot about. Ported from [djui/alias-tips (⭐747)](https://github.com/djui/alias-tips). Active fork of [sei40kr/zsh-fast-alias-tips (⭐60)](https://github.com/sei40kr/zsh-fast-alias-tips).
-*   [iterm2-shell-integration (⭐41)](https://github.com/gnachman/iterm2-shell-integration) - Shell integration and utilities for iTerm2.
-*   [show-git-user (⭐2)](https://github.com/luisprgr/zsh-show-git-user) - When you need to work with multiple `git` users on the same machine this plugin will show which `git` user name is active in your prompt.
+*   [fast-alias-tips (⭐6)](https://github.com/decayofmind/zsh-fast-alias-tips) - Helps remember the aliases you defined and forgot about. Ported from [djui/alias-tips (⭐748)](https://github.com/djui/alias-tips). Active fork of [sei40kr/zsh-fast-alias-tips (⭐60)](https://github.com/sei40kr/zsh-fast-alias-tips).
+*   [iterm2-shell-integration (⭐43)](https://github.com/gnachman/iterm2-shell-integration) - Shell integration and utilities for iTerm2.
+*   [show-git-user (⭐3)](https://github.com/luisprgr/zsh-show-git-user) - When you need to work with multiple `git` users on the same machine this plugin will show which `git` user name is active in your prompt.
 *   [wsl (⭐1)](https://github.com/florentinl/omz-wsl) - Adds helper functions to make it easier to work in ZSH when running inside WSL.
 *   [zsh-watch (⭐1)](https://github.com/Thearas/zsh-watch) - Simple `watch` that supports alias and completion.
 

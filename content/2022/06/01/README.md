@@ -132,7 +132,7 @@
 
 ### Parsers/Encoders/Decoders
 
-*   [tokenizer (⭐75)](https://github.com/bzick/tokenizer) - Parse any string, slice or infinite buffer to any tokens.
+*   [tokenizer (⭐76)](https://github.com/bzick/tokenizer) - Parse any string, slice or infinite buffer to any tokens.
 
 ### Websites / Libraries for creating HTTP middlewares
 

@@ -10,7 +10,7 @@
 
 ### Task Queues
 
-*   [dramatiq (⭐3.6k)](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
+*   [dramatiq (⭐3.9k)](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 
 ## [2. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
 
@@ -156,7 +156,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [2D Destructible Objects (⭐363)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥 (Godot 3.x).
+*   [2D Destructible Objects (⭐364)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥 (Godot 3.x).
 *   [CRT Shader (⭐290)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters (Godot 3.x).
 
 ### Other / Godot version unknown
@@ -185,7 +185,7 @@
 
 ### Software / Photo and Video Galleries
 
-*   [LibrePhotos (⭐6.3k)](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. ([Clients](https://docs.librephotos.com/docs/user-guide/mobile/)) `MIT` `Python/Docker`
+*   [LibrePhotos (⭐6.4k)](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. ([Clients](https://docs.librephotos.com/docs/user-guide/mobile/)) `MIT` `Python/Docker`
 
 ## [21. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 

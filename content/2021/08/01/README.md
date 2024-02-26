@@ -38,7 +38,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail PDF View (⭐21)](https://github.com/donhauser/wagtail-pdf) - Render Wagtail pages and models as PDF document using Weasyprint or LaTeX.
+*   [Wagtail PDF View (⭐22)](https://github.com/donhauser/wagtail-pdf) - Render Wagtail pages and models as PDF document using Weasyprint or LaTeX.
 
 ## [6. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
@@ -56,13 +56,13 @@
 
 ### Crates / Utils
 
-*   [Yewdux (⭐308)](https://github.com/intendednull/yewdux) - Redux-like state containers for Yew apps.
+*   [Yewdux (⭐311)](https://github.com/intendednull/yewdux) - Redux-like state containers for Yew apps.
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Debug
 
-*   [DebugViewPP (⭐905)](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. \[Boost]
+*   [DebugViewPP (⭐915)](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. \[Boost]
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

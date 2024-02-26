@@ -220,7 +220,7 @@
 
 ### Machine Learning
 
-*   [anomalize (⭐334)](https://github.com/business-science/anomalize) - Tidy Anomaly Detection using Twitter's AnomalyDetection method.
+*   [anomalize (⭐335)](https://github.com/business-science/anomalize) - Tidy Anomaly Detection using Twitter's AnomalyDetection method.
 *   [L0Learn](https://cran.r-project.org/web/packages/L0Learn/index.html) - Fast algorithms for best subset selection
 
 ## [11. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
@@ -283,16 +283,16 @@
 
 ### Front-End Development
 
-*   [CSS (⭐4.7k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+*   [CSS (⭐4.8k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
     *   [Critical-Path Tools (⭐1.1k)](https://github.com/addyosmani/critical-path-css-tools#readme)
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
     *   [Must-Watch Talks (⭐4.6k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
     *   [Protips (⭐27k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐6.8k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Frameworks (⭐7k)](https://github.com/troxler/awesome-css-frameworks#readme)
 
 ### Gaming
 
-*   [PICO-8 (⭐2.4k)](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
+*   [PICO-8 (⭐2.5k)](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
 
 ## [14. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 

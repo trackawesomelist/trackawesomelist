@@ -44,7 +44,7 @@
 
 ### Utilities / General Tools
 
-*   [CapsLockNoDelay (⭐287)](https://github.com/gkpln3/CapsLockNoDelay) - Removes caps-lock key activation delay for fast typers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/gkpln3/CapsLockNoDelay)
+*   [CapsLockNoDelay (⭐292)](https://github.com/gkpln3/CapsLockNoDelay) - Removes caps-lock key activation delay for fast typers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/gkpln3/CapsLockNoDelay)
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Tools / Templates & Starter Kits
 
-*   [Wagtail Quickstart with docker (⭐2)](https://github.com/saevarom/wagtail-start-docker) - A template repository to get started quickly with the latest Wagtail in docker.
+*   [Wagtail Quickstart with docker (⭐3)](https://github.com/saevarom/wagtail-start-docker) - A template repository to get started quickly with the latest Wagtail in docker.
 
 ---
 

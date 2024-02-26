@@ -46,7 +46,7 @@
 
 ### 2D / Godot 3.2+
 
-*   [Portal 2D (⭐76)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
+*   [Portal 2D (⭐79)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
 
 ## [7. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
@@ -143,7 +143,7 @@
 
 ### Web Application Framework
 
-*   [Crow (⭐2.5k)](https://github.com/CrowCpp/Crow) - Crow is a C++ microframework for running web services. It uses routing similar to Python's Flask. \[BSD] [website](https://crowcpp.org)
+*   [Crow (⭐2.6k)](https://github.com/CrowCpp/Crow) - Crow is a C++ microframework for running web services. It uses routing similar to Python's Flask. \[BSD] [website](https://crowcpp.org)
 
 ## [17. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
@@ -299,7 +299,7 @@
 
 ### Software / Blogging Platforms
 
-*   [Haven](https://havenweb.org/) - Private blogging system with markdown editing and built in RSS reader. ([Demo](https://havenweb.org/demo.html), [Source Code (⭐575)](https://github.com/havenweb/haven)) `MIT` `Ruby`
+*   [Haven](https://havenweb.org/) - Private blogging system with markdown editing and built in RSS reader. ([Demo](https://havenweb.org/demo.html), [Source Code (⭐581)](https://github.com/havenweb/haven)) `MIT` `Ruby`
 
 ### Software / Booking and Scheduling
 
@@ -313,9 +313,9 @@
 ### Software / Media Streaming - Multimedia Streaming
 
 *   [Gerbera](https://gerbera.io/) - Gerbera is an UPnP Media Server. It allows you to stream your digital media throughout your home network and listen to/watch it on a variety of UPnP compatible devices. ([Source Code (⭐1.1k)](https://github.com/gerbera/gerbera)) `GPL-2.0` `Docker/deb/C++`
-*   [Jellyfin](https://jellyfin.org) - Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, and Kodi. ([Demo](https://demo.jellyfin.org/stable), [Source Code (⭐28k)](https://github.com/jellyfin/jellyfin), [Clients (⭐874)](https://github.com/awesome-jellyfin/awesome-jellyfin)) `GPL-2.0` `C#/deb/Docker`
+*   [Jellyfin](https://jellyfin.org) - Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, and Kodi. ([Demo](https://demo.jellyfin.org/stable), [Source Code (⭐28k)](https://github.com/jellyfin/jellyfin), [Clients (⭐951)](https://github.com/awesome-jellyfin/awesome-jellyfin)) `GPL-2.0` `C#/deb/Docker`
 *   [LBRY](https://lbry.com/) - Is a secure, open, and community-run digital marketplace that aims to replace Youtube and Amazon. ([Demo](https://lbry.tv/), [Source Code (⭐260)](https://github.com/lbryio/lbry.com), [Clients (⭐3.6k)](https://github.com/lbryio/lbry-desktop)) `MIT` `PHP`
-*   [MistServer](https://mistserver.org/) - Streaming media server that works well in any streaming environment. ([Source Code (⭐329)](https://github.com/DDVTECH/mistserver)) `AGPL-3.0` `C++`
+*   [MistServer](https://mistserver.org/) - Streaming media server that works well in any streaming environment. ([Source Code (⭐330)](https://github.com/DDVTECH/mistserver)) `AGPL-3.0` `C++`
 *   [NymphCast](http://nyanko.ws/nymphcast.php) - Turn your choice of Linux-capable hardware into an audio and video source for a television or powered speakers (alternative to Chromecast). ([Source Code (⭐2.3k)](https://github.com/MayaPosch/NymphCast)) `BSD-3-Clause` `C++`
 *   [Podify](https://www.podify.org/) - Allows you to download videos and audio from any source supported by youtube-dl and subscribe to and watch these downloads using your favorite podcast app. ([Source Code (⭐282)](https://github.com/podify-org/podify/)) `GPL-3.0` `Docker/Ruby`
 *   [ReadyMedia](https://sourceforge.net/projects/minidlna/) - Simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. Formerly known as MiniDLNA. ([Source Code](https://sourceforge.net/p/minidlna/git/ci/master/tree/)) `GPL-2.0` `C`
@@ -325,11 +325,11 @@
 
 *   [DreamFactory](https://www.dreamfactory.com/) - Turns any SQL/NoSQL/Structured data into Restful API. ([Source Code (⭐1.5k)](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache-2.0` `PHP/Docker/K8S`
 *   [form.io](https://form.io) - A REST API building platform that utilizes a drag & drop form builder, and is application framework agnostic. Contains open source and enterprise version. ([Demo](https://portal.form.io), [Source Code](https://github.com/formio)) `MIT` `Nodejs/Docker`
-*   [Fusio](https://www.fusio-project.org/) - Open-source API management platform which helps to build and manage REST APIs. ([Demo](https://fusio-project.org/demo), [Source Code (⭐1.6k)](https://github.com/apioo/fusio)) `AGPL-3.0` `PHP/Docker`
+*   [Fusio](https://www.fusio-project.org/) - Open-source API management platform which helps to build and manage REST APIs. ([Demo](https://fusio-project.org/demo), [Source Code (⭐1.7k)](https://github.com/apioo/fusio)) `AGPL-3.0` `PHP/Docker`
 *   [Hasura](https://hasura.io) - Fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. ([Source Code (⭐31k)](https://github.com/hasura/graphql-engine)) `Apache-2.0` `Haskell/Docker/K8S`
 *   [Kong](https://konghq.com/kong/) - The World's Most Popular Open Source Microservice API Gateway and Platform. ([Source Code (⭐37k)](https://github.com/Kong/kong)) `Apache-2.0` `Lua/Docker/K8S/deb`
 *   [Lura](https://luraproject.org/) - Open source High-Performance API Gateway. ([Source Code (⭐6k)](https://github.com/luraproject/lura)) `Apache-2.0` `Go`
-*   [Para](https://paraio.org) - Flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code (⭐507)](https://github.com/erudika/para)) `Apache-2.0` `Java/Docker`
+*   [Para](https://paraio.org) - Flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code (⭐506)](https://github.com/erudika/para)) `Apache-2.0` `Java/Docker`
 *   [Tyk](https://tyk.io) - Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. ([Source Code (⭐9.1k)](https://github.com/TykTechnologies/tyk)) `MPL-2.0` `Go/Docker/K8S`
 
 ### Software / Software Development - FaaS & Serverless
@@ -337,7 +337,7 @@
 *   [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code (⭐39k)](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `Docker`
 *   [LocalStack](https://localstack.cloud/) - LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation. ([Source Code (⭐51k)](https://github.com/localstack/localstack)) `Apache-2.0` `Python/Docker/K8S`
 *   [OpenFaaS](https://www.openfaas.com/) - Serverless Functions Made Simple for Docker & Kubernetes. ([Source Code (⭐24k)](https://github.com/openfaas/faas)) `MIT` `Go`
-*   [Trusted-CGI (⭐197)](https://github.com/reddec/trusted-cgi) - Lightweight self-hosted lambda/applications/cgi/serverless-functions platform. `MIT` `Go/deb/Docker`
+*   [Trusted-CGI (⭐202)](https://github.com/reddec/trusted-cgi) - Lightweight self-hosted lambda/applications/cgi/serverless-functions platform. `MIT` `Go/deb/Docker`
 
 ### Software / Software Development - IDE & Tools
 
@@ -346,7 +346,7 @@
 ### Software / Software Development - Localization
 
 *   [Accent](https://www.accent.reviews/) - Open-source, self-hosted, developer-oriented translation tool. ([Source Code (⭐1.1k)](https://github.com/mirego/accent)) `BSD-3-Clause` `Elixir/Docker`
-*   [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. ([Demo](https://demo.weblate.org), [Source Code (⭐4k)](https://github.com/WeblateOrg/weblate)) `GPL-3.0` `Python/Docker/K8S`
+*   [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. ([Demo](https://demo.weblate.org), [Source Code (⭐4.1k)](https://github.com/WeblateOrg/weblate)) `GPL-3.0` `Python/Docker/K8S`
 
 ## [36. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
@@ -363,7 +363,7 @@
 
 ### Libraries/Frameworks / Serialization
 
-*   [lectra-tech/koson (⭐86)](https://github.com/lectra-tech/koson) - A concise and lightweight Kotlin DSL to build JSON objects and render their String representations
+*   [lectra-tech/koson (⭐87)](https://github.com/lectra-tech/koson) - A concise and lightweight Kotlin DSL to build JSON objects and render their String representations
 
 ### Libraries/Frameworks / Misc
 

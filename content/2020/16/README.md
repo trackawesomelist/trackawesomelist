@@ -221,13 +221,13 @@ Language: English
 
 ### Applications / Utilities
 
-*   [nomino (⭐534)](https://github.com/yaa110/nomino) — Batch rename utility for developers
+*   [nomino (⭐536)](https://github.com/yaa110/nomino) — Batch rename utility for developers
 
 ## [17. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Visual Programming Languages
 
-*   [eternal (⭐491)](https://github.com/kousun12/eternal) \[Web] - Programs as graphs and graphs as compositional tools for creation
+*   [eternal (⭐503)](https://github.com/kousun12/eternal) \[Web] - Programs as graphs and graphs as compositional tools for creation
 
 ### Other / Other
 
@@ -360,7 +360,7 @@ Language: English
 
 ### 💖 Acknowledgement / Crypto or Blockchain relevant
 
-*   [Feed Readers @ Awesome-Selfhosted (⭐167k)](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
+*   [Feed Readers @ Awesome-Selfhosted (⭐169k)](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
 *   [Substats API](https://substats.spencerwoo.com/)
 
 ### TTRSS / Outline Processor Markup Language
@@ -405,7 +405,7 @@ Language: English
 
 ### specifically from (*a certain platform*) / Wechat Subscription Accounts (微信公众号)
 
-*   [Huginn (⭐40k)](https://github.com/huginn/huginn) <sup>[195](https://t.me/s/aboutrss/195), [528](https://t.me/s/aboutrss/528)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/huginn/huginn)
+*   [Huginn (⭐41k)](https://github.com/huginn/huginn) <sup>[195](https://t.me/s/aboutrss/195), [528](https://t.me/s/aboutrss/528)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/huginn/huginn)
 *   [瞅啥](http://www.gzhshoulu.wang/) <sup>[131](https://t.me/s/aboutrss/131)</sup>
 *   [WeRSS](https://werss.app/) <sup>[133](https://t.me/s/aboutrss/133), [195](https://t.me/s/aboutrss/195)</sup>
 *   [今天看啥](http://www.jintiankansha.me/) <sup>[195](https://t.me/s/aboutrss/195)</sup>
@@ -544,7 +544,7 @@ Language: English
 
 ### File Manipulation
 
-*   🍰 [Josegonzalez/Upload plugin (⭐552)](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
+*   🍰 [Josegonzalez/Upload plugin (⭐553)](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
 
 ## [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
@@ -664,7 +664,7 @@ Language: English
 
 ### Libraries
 
-*   [Nlohmann JSON (⭐32k)](https://github.com/nlohmann/json) - A C++11 header-only class.
+*   [Nlohmann JSON (⭐39k)](https://github.com/nlohmann/json) - A C++11 header-only class.
 
 ## [32. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 

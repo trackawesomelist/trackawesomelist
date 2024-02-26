@@ -10,7 +10,7 @@
 
 ### Libraries
 
-*   [Ramda Adjunct (⭐671)](https://github.com/char0n/ramda-adjunct) is a community-maintained extension of Ramda.
+*   [Ramda Adjunct (⭐679)](https://github.com/char0n/ramda-adjunct) is a community-maintained extension of Ramda.
 
 ### Resources / Articles
 

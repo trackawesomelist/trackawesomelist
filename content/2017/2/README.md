@@ -6,44 +6,50 @@
 
 
 
-## [1. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [1. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### 管理和监控
+
+*   [Puppet 2.7 Cookbook 中文版](https://www.gitbook.com/book/wizardforcel/puppet-27-cookbook/details)
+
+## [2. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Logging / Firmwares for ESP based Devices
 
 *   [mqtthandler (⭐19)](https://github.com/changyuheng/MQTTHandler) - A Python logging handler module for MQTT.
 
-## [2. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+## [3. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### Source Code Repos
 
 *   [Package Drone (⭐66)](https://github.com/eclipse/packagedrone) - A package manager repository for OSGi, Java and more
 
-## [3. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [4. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
 *   [commons-math](http://commons.apache.org/proper/commons-math) - Library of lightweight, self-contained mathematics and statistics components.
 
-## [4. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [5. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Web Framework & Template
 
 *   [Macchiato (⭐375)](https://github.com/macchiato-framework/macchiato-core) – It aims to provide an easy to use platform for Node.js.
 
-## [5. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [6. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Non-dedicated
 
 *   [cernan (⭐310)](https://github.com/postmates/cernan) - A telemetry and logging aggregation server
 
-## [6. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [7. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Tools
 
 *   [chromepet (⭐30)](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published.
 *   [chrome-ext-downloader (⭐48)](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / SDKs
 
@@ -56,7 +62,7 @@
     *   [Serverless Architecture using C# and AWS Amazon Gateway Api/Lambda](https://www.codeproject.com/Articles/1178781/Serverless-Architecture-using-Csharp-and-AWS-Amazo)
     *   [Using C# and .NET Core in Amazon Web Services (AWS) Lambda](https://aws.amazon.com/blogs/compute/announcing-c-sharp-support-for-aws-lambda/)
 
-## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Mad science
 
@@ -182,18 +188,18 @@
 
 *   [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension that linkifies dependencies in package.json, .js, .jsx, .coffee and .md files on GitHub.
 
-## [9. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [10. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Encryption
 
-*   [RbNaCl (⭐980)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
+*   [RbNaCl (⭐979)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 
 ### Natural Language Processing
 
 *   [Awesome NLP with Ruby (⭐1k)](https://github.com/arbox/nlp-with-ruby) - Awesome List for Practical Natural Language Processing done in Ruby.
 *   [Ruby Natural Language Processing Resources (⭐1.3k)](https://github.com/diasks2/ruby-nlp) - Collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software.
 
-## [10. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [11. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### Physical Web
 
@@ -210,7 +216,7 @@
 
 *   [iBeacon Scanner](https://play.google.com/store/apps/details?id=be.createweb.beaconscanner) & [code (⭐5)](https://github.com/eliaslecomte/ibeacon-scanner-app)
 
-## [11. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [12. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Open Source / Eclipse
 
@@ -231,7 +237,7 @@
 *   [WizToWar (⭐40)](https://github.com/twilio/wiztowar) - Build WARs from your Dropwizard apps
 *   [wizard-in-a-box (⭐30)](https://github.com/rvs-fluid-it/wizard-in-a-box) - deploy Dropwizard apps as a war
 
-## [12. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
+## [13. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
 ### More
 
@@ -243,7 +249,7 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/quicklook-pat.png)](https://github.com/pixelrowdies/quicklook-pat)
 
-## [13. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [14. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Review Articles / Archeological and Historical Networks
 
@@ -257,25 +263,25 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 *   [Cheat Sheet: Social Network Analysis for Humanists](https://cvcedhlab.hypotheses.org/106) - Basic notions to remember when assembling and manipulating network data.
 
-## [14. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [15. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Monitoring
 
 *   [pgbench](https://www.postgresql.org/docs/devel/static/pgbench.html) - Run a benchmark test on PostgreSQL.
 
-## [15. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [16. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Third-party APIs
 
-*   [awscr-signer (⭐21)](https://github.com/taylorfinnell/awscr-signer) - Sign HTTP::Request objects and generate presigned post forms
+*   [awscr-signer (⭐22)](https://github.com/taylorfinnell/awscr-signer) - Sign HTTP::Request objects and generate presigned post forms
 
-## [16. Awesome Standard](/content/standard/awesome-standard/week/README.md)
+## [17. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
 ### forks
 
 *   **[standard-own](https://npmjs.com/package/standard-own)** - standard but with more customization and individual rules.
 
-## [17. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [18. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### CSharp
 
@@ -285,17 +291,11 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 *   [Linkerd](https://linkerd.io/) - Resilient service mesh for cloud native apps.
 
-## [18. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [19. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Tips for Researchers / HTML+CSS+JS
 
 *   [Ten Simple Rules by PLoS One](http://collections.plos.org/ten-simple-rules): Series of quick "Ten Simple Rules" articles for research scientists to manage challenges in their careers. Number of articles are life-science specific, but rest the of articles are general enough for any researcher.
-
-## [19. Awesome Python](/content/vinta/awesome-python/week/README.md)
-
-### Implementations
-
-*   [Pyjion (⭐1.6k)](https://github.com/Microsoft/Pyjion) - A JIT for Python based upon CoreCLR.
 
 ## [20. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -600,11 +600,11 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 ### CSV
 
-*   [nimble\_csv (⭐728)](https://github.com/plataformatec/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir.
+*   [nimble\_csv (⭐736)](https://github.com/plataformatec/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir.
 
 ### Protocols
 
-*   [protox (⭐251)](https://github.com/ahamez/protox) - Elixir implementation for Protocol Buffers.
+*   [protox (⭐255)](https://github.com/ahamez/protox) - Elixir implementation for Protocol Buffers.
 
 ### Third Party APIs
 

@@ -32,8 +32,8 @@
 
 ### Table of Contents / Dependency Management Extras
 
-*   [Composer Merge Plugin (⭐908)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
-*   [Composer Require Checker (⭐830)](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
+*   [Composer Merge Plugin (⭐910)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
+*   [Composer Require Checker (⭐834)](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
 *   [Tooly (⭐101)](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in a project using Composer.
 
 ### Table of Contents / Scraping
@@ -54,7 +54,7 @@
 
 ### Table of Contents / Event
 
-*   [Pawl (⭐564)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
+*   [Pawl (⭐566)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
 
 ### Table of Contents / Database
 
@@ -66,10 +66,10 @@
 
 ### Table of Contents / Markup and CSS
 
-*   [Essence (⭐767)](https://github.com/essence/essence) - A library for extracting web media.
-*   [Embera (⭐325)](https://github.com/mpratt/Embera) - An Oembed consumer library.
-*   [Shiki PHP (⭐260)](https://github.com/spatie/shiki-php) - A [Shiki (⭐6.9k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
-*   [VObject (⭐557)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
+*   [Essence (⭐768)](https://github.com/essence/essence) - A library for extracting web media.
+*   [Embera (⭐324)](https://github.com/mpratt/Embera) - An Oembed consumer library.
+*   [Shiki PHP (⭐265)](https://github.com/spatie/shiki-php) - A [Shiki (⭐7.2k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
+*   [VObject (⭐559)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 
 ### Table of Contents / JSON
 
@@ -82,7 +82,7 @@
 
 ### Table of Contents / Caching and Locking
 
-*   [Lock (⭐915)](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
+*   [Lock (⭐916)](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
 
 ### Configuration / Miscellaneous
 

@@ -182,7 +182,7 @@
 
 ### Command-Line Productivity
 
-*   [CloudClip (⭐73)](https://github.com/skywind3000/CloudClip) - Your own clipboard in the cloud, copy and paste text with gist between different systems
+*   [CloudClip (⭐76)](https://github.com/skywind3000/CloudClip) - Your own clipboard in the cloud, copy and paste text with gist between different systems
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -266,7 +266,7 @@
 
 ### Contents / Utilities
 
-*   [ldap2pg (⭐165)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
+*   [ldap2pg (⭐181)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
 
 ## [17. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -413,7 +413,7 @@ git rebase --onto <new_base> <old_base>
 
 ### Apps / Security
 
-*   [wagtail-2fa (⭐81)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
+*   [wagtail-2fa (⭐82)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
 
 ### Resources / Articles
 
@@ -648,7 +648,7 @@ git rebase --onto <new_base> <old_base>
 
 ### CMS
 
-*   [Fae (⭐833)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
+*   [Fae (⭐836)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 30 - Oct 06, 2019
 
-59 awesome lists updated this week.
+58 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -139,10 +139,6 @@
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/playcanvas)
 
 ## [13. Awesome Json](/content/burningtree/awesome-json/week/README.md)
-
-### Applications
-
-*   [Visual JSON](https://apps.apple.com/app/id488709442) ([github (⭐298)](https://github.com/youknowone/VisualJSON)) - simple JSON pretty-viewer for Mac OS X.
 
 ### Frontend components
 
@@ -457,7 +453,7 @@
 
 ### CLI Builder
 
-*   [Optimist (⭐239)](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
+*   [Optimist (⭐243)](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
 
 ## [23. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
@@ -793,13 +789,7 @@
 *   [Simplify Android deobfuscator (⭐4.3k)](https://github.com/CalebFenton/simplify)
 *   [Andromeda (⭐686)](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
 
-## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### Payment and Billing Integration
-
-*   [currencystack.io](https://currencystack.io/) — Production-ready real-time exchange rates for 154 currencies.
-
-## [43. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [42. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Deep Learning / TensorFlow
 
@@ -821,13 +811,13 @@
 
 *   [sklearn-evaluation (⭐2)](https://github.com/edublancas/sklearn-evaluation) - Model evaluation made easy: plots, tables, and markdown reports. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
-## [44. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [43. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Documentation / Runner
 
 *   [codecrumbs (⭐2.7k)](https://github.com/Bogdan-Lyashenko/codecrumbs) is a visual tool for learning and documenting a codebase by putting breadcrumbs in source code.
 
-## [45. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
+## [44. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
 
 ### Spell Checking and Linting
 
@@ -840,7 +830,7 @@
 *   [write-good (⭐4.9k)](https://github.com/btford/write-good) - Naive linter for English
     prose.
 
-## [46. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [45. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / UI Helpers
 
@@ -860,7 +850,7 @@
 *   Meetup [GDG Sydney](https://www.meetup.com/gdgsydney)
 *   Twitter [Flutter Sydney](https://twitter.com/FlutterSydney)
 
-## [47. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [46. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -870,7 +860,7 @@
 
 *   [:octopus: React Native Boilerplate ★551 (⭐3.3k)](https://github.com/thecodingmachine/react-native-boilerplate) - React Native boilerplate that promotes a solid architecture via separation of concerns.
 
-## [48. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [47. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Legal text
 
@@ -913,7 +903,7 @@
 *   [Awesome: Security (⭐287k)](https://github.com/sindresorhus/awesome#security)
 *   [Awesome: Humane Tech (⭐3k)](https://github.com/humanetech-community/awesome-humane-tech#readme)
 
-## [49. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [48. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -949,19 +939,19 @@
 *   [Query Experiment Tracking Results From Weights & Biases (⭐57)](https://github.com/machine-learning-apps/wandb-action)
 *   [Run Parameterized Jupyter Notebooks (⭐49)](https://github.com/yaananth/run-notebook)
 
-## [50. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [49. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Windows Utilities / Web Exploitation Books
 
 *   [WinPwn (⭐3.1k)](https://github.com/SecureThisShit/WinPwn) - Internal penetration test script to perform local and domain reconnaissance, privilege escalation and exploitation.
 
-## [51. Awesome Ads](/content/cenoura/awesome-ads/week/README.md)
+## [50. Awesome Ads](/content/cenoura/awesome-ads/week/README.md)
 
 ### Google Ad Manager
 
 *   [Google Ad Manager Fundamentals](https://skillshop.exceedlms.com/student/path/17117-drive-advertising-revenue-with-google-ad-manager) - Google Academy videos about Ad Manager (you should login to see the videos).
 
-## [52. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [51. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Debugging / Profiling
 
@@ -983,13 +973,13 @@
 
 *   [modern-node (⭐242)](https://github.com/sheerun/modern-node) - Toolkit for creating node modules with Jest, Prettier, ESLint, and Standard.
 
-## [53. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [52. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
 *   [Working with Ghost and Next.js](https://ghost.org/docs/api/nextjs/)
 
-## [54. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [53. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Open source code
 
@@ -1003,63 +993,63 @@
 *   [PDPU Scheduler (⭐11)](https://github.com/nish17/scheduler) - It's a Google Assistant action for PDPU that tells you about which classes and labs you have today.
 *   [karaoke (⭐11)](https://github.com/amdcaruso/karaoke) - [Amanda Cavallaro](https://github.com/amdcaruso) - Conversational App to buid your own karaoke using GCP, YouTube API and Actions on Google.
 
-## [55. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [54. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
-*   [Actions on Google (⭐79)](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
+*   [Actions on Google (⭐81)](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
 
 ### Front-End Development
 
 *   [KnockoutJS (⭐96)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
-*   [Dojo Toolkit (⭐82)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
-*   [Ember (⭐188)](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
+*   [Dojo Toolkit (⭐83)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
+*   [Ember (⭐190)](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
 
 ### Back-End Development
 
 *   [Vagrant (⭐584)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
-*   [Pyramid (⭐539)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
-*   [Phalcon (⭐606)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
+*   [Pyramid (⭐542)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
+*   [Phalcon (⭐605)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
 *   [Dropwizard (⭐91)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
-*   [Lumen (⭐324)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
+*   [Lumen (⭐325)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
 *   [Serverless Framework (⭐2.1k)](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
 
 ### Gaming
 
-*   [Haxe Game Development (⭐357)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
+*   [Haxe Game Development (⭐363)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
 
 ### Security
 
-*   [GDPR (⭐148)](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
+*   [GDPR (⭐151)](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
 
 ### Business
 
-*   [Clean Tech (⭐399)](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
+*   [Clean Tech (⭐406)](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
 
 ### Miscellaneous
 
-*   [Cytodata (⭐65)](https://github.com/cytodata/awesome-cytodata#readme) - Image-based profiling of biological phenotypes for computational biologists.
-*   [Advertising (⭐99)](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
+*   [Cytodata (⭐68)](https://github.com/cytodata/awesome-cytodata#readme) - Image-based profiling of biological phenotypes for computational biologists.
+*   [Advertising (⭐104)](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
 
-## [56. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [55. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Integrations
 
 *   [@riotjs/custom-elements (⭐34)](https://github.com/riot/custom-elements) - Simple API to create vanilla custom elements with Riot.js.
 
-## [57. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [56. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Testing / Misc
 
 *   [testmail.app](https://testmail.app) - A fake SMTP server with unlimited mailboxes and a GraphQL API for automating end-to-end tests.
 
-## [58. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [57. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Database
 
 *   [DB4O-GPL ★8 (⭐28)](https://github.com/iboxdb/db4o-gpl) -  Object-Oriented Database, Embedded and Remote connections supported.
 
-## [59. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [58. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Research Papers
 

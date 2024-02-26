@@ -119,14 +119,14 @@
 
 ### Internationalization
 
-*   [utf8proc (⭐961)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. \[MIT]
+*   [utf8proc (⭐965)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. \[MIT]
 
 ## [13. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Data Manipulation
 
-*   [snakecase (⭐143)](https://github.com/Tazinho/snakecase) - Automatically parse and convert strings into cases like snake or camel among others.
-*   [DataExplorer (⭐483)](https://github.com/boxuancui/DataExplorer) - Fast exploratory data analysis with minimum code.
+*   [snakecase (⭐142)](https://github.com/Tazinho/snakecase) - Automatically parse and convert strings into cases like snake or camel among others.
+*   [DataExplorer (⭐487)](https://github.com/boxuancui/DataExplorer) - Fast exploratory data analysis with minimum code.
 
 ### Reproducible Research
 

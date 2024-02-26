@@ -60,7 +60,7 @@
 
 ### Bittorrent
 
-*   [bento (⭐88)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
+*   [bento (⭐92)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
 
 ### Email
 

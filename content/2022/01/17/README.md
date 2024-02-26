@@ -10,7 +10,7 @@
 
 ### Crates / Component Libraries
 
-*   [material-yew (⭐213)](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
+*   [material-yew (⭐214)](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
 
 ## [2. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Platforms
 
-*   [Node-RED (⭐401)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
+*   [Node-RED (⭐406)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
 
 ## [6. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Analytics, Events and Statistics
 
-*   [PostHog](https://posthog.com) - Full Product Analytics suite free for up to 1m tracked events per month
+*   [PostHog](https://posthog.com) - Full Product Analytics suite free for up to 1m tracked events per month. Also provides unlinited in-App Surveys with 250/month responses.
 
 ## [12. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot Radial Menu (⭐209)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
+*   [Godot Radial Menu (⭐213)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
 
 ## [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 

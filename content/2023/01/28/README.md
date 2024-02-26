@@ -54,7 +54,7 @@
 
 ### Applications / Video
 
-*   [vidmerger (⭐93)](https://github.com/TGotwig/vidmerger) — 📼 Merge video & audio files via CLI
+*   [vidmerger (⭐95)](https://github.com/TGotwig/vidmerger) — 📼 Merge video & audio files via CLI
 
 ### Libraries / Parsing
 
@@ -76,7 +76,7 @@
 
 ### Java / React
 
-*   [graphql-orchestrator-java (⭐65)](https://github.com/graph-quilt/graphql-orchestrator-java) GraphQL Orchestrator/Gateway library that supports Schema Stitching and Apollo Federation directives to combine schema from multiple GraphQL microservices into a single unified schema.
+*   [graphql-orchestrator-java (⭐66)](https://github.com/graph-quilt/graphql-orchestrator-java) GraphQL Orchestrator/Gateway library that supports Schema Stitching and Apollo Federation directives to combine schema from multiple GraphQL microservices into a single unified schema.
 
 ## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 

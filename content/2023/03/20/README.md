@@ -10,7 +10,7 @@
 
 ### Libraries/Packages/Scripts / Scala/Java
 
-*   [scala-polars for Scala and Java (⭐36)](https://github.com/chitralverma/scala-polars) - [Scala](https://scala-lang.org/) - [Java](https://www.java.com/fr/) `scala-polars` is a library for using Polars in Scala and Java projects by [@chitralverma](https://github.com/chitralverma).
+*   [scala-polars for Scala and Java (⭐40)](https://github.com/chitralverma/scala-polars) - [Scala](https://scala-lang.org/) - [Java](https://www.java.com/fr/) `scala-polars` is a library for using Polars in Scala and Java projects by [@chitralverma](https://github.com/chitralverma).
 
 ## [2. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -56,12 +56,12 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-clean (⭐11)](https://github.com/z-ti/vite-plugin-clean) - Remove or Clean your build folder(s).
+*   [vite-plugin-clean (⭐12)](https://github.com/z-ti/vite-plugin-clean) - Remove or Clean your build folder(s).
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-find-image-duplicates (⭐3)](https://github.com/wChenonly/vite-plugin-find-image-duplicates) - Find if there are duplicate images in your project when building it.
-*   [@froxz/vite-plugin-s3 (⭐17)](https://github.com/Froxz/vite-plugin-s3) - Allows you to upload files to S3.
+*   [vite-plugin-find-image-duplicates (⭐4)](https://github.com/wChenonly/vite-plugin-find-image-duplicates) - Find if there are duplicate images in your project when building it.
+*   [@froxz/vite-plugin-s3 (⭐20)](https://github.com/Froxz/vite-plugin-s3) - Allows you to upload files to S3.
 
 ## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 

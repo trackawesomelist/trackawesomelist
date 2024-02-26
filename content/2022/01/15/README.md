@@ -10,7 +10,7 @@
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [fork-handles/result4k (⭐167)](https://github.com/fork-handles/forkhandles/blob/trunk/result4k) - Result monad for type safe error handling in Kotlin
+*   [fork-handles/result4k (⭐170)](https://github.com/fork-handles/forkhandles/blob/trunk/result4k) - Result monad for type safe error handling in Kotlin
 
 ## [2. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Email Alias Services (Anonymous Forwarding)
 
-*   [SimpleLogin (⭐4.4k)](https://github.com/simple-login/app)
+*   [SimpleLogin (⭐4.5k)](https://github.com/simple-login/app)
 *   [AnonAddy (⭐2.8k)](https://github.com/anonaddy/anonaddy)
 
 ### Alternative Frontends
@@ -61,7 +61,7 @@
 
 ### Command-line tools
 
-*   [dsq (⭐2.8k)](https://github.com/multiprocessio/dsq) - Tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+*   [dsq (⭐3.5k)](https://github.com/multiprocessio/dsq) - Tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 
 ## [7. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 

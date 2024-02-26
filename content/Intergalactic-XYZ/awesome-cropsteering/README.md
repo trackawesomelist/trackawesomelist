@@ -4,6 +4,22 @@
 
 [ Daily / [Weekly](/content/Intergalactic-XYZ/awesome-cropsteering/week/README.md) / [Overview](/content/Intergalactic-XYZ/awesome-cropsteering/readme/README.md) ]
 
+## [Feb 23, 2024](/content/2024/02/23/README.md)
+
+### Components / Tasmota Configs
+
+*   [Adafruit](https://www.adafruit.com/category/946) - Adafruit ESP32 modules
+
+### DIY / Modular systems
+
+*   [SENTSOR Core ESP32-EMBED (⭐7)](https://github.com/adamalfath/sentsor-core-esp32embed) - all-in-one, super low power development board based on latest revision of ESP32 chip. BOM, easyEDA PCB blueprints
+
+### Crop Steering Guides / Modular systems
+
+*   [AGROWTEK Crop Steering Guide](https://static.intergalactic-xyz.com/cropsteering/files/AN_CropSteering.pdf)
+*   [Growlink Crop Steering E-Book V1.4](https://static.intergalactic-xyz.com/cropsteering/files/Growlink%20Crop%20Steering%20E-Book%20V1.4.pdf)
+*   [Some useful reading and links from Open Steering project](https://cropsteering.xyz/)
+
 ## [Feb 17, 2024](/content/2024/02/17/README.md)
 
 ### Node RED / Node RED flows
@@ -85,7 +101,7 @@
 ### Components / Tasmota Configs
 
 *   [Seed Studio](https://www.seeedstudio.com/) - various modules and components based on ESP32 and other MCU
-*   [LILYGO](https://www.lilygo.cc/) - varous modiles and components. Good relay boards based on ESP32.
+*   [LILYGO](https://www.lilygo.cc/) - varous modiles and components. Good relay boards based on ESP32
 
 ### Components / Sensors
 

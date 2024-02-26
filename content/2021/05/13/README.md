@@ -44,7 +44,7 @@
 
 ### Adapters / Server-side
 
-*   [Adonis (⭐244)](https://github.com/eidellev/inertiajs-adonisjs)
+*   [Adonis (⭐271)](https://github.com/eidellev/inertiajs-adonisjs)
 
 ## [6. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 

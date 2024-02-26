@@ -306,7 +306,6 @@
 
 ### Integrated Development Environments
 
-*   [Sublime Text + R-Box (⭐172)](http://github.com/randy3k/R-Box/) - Add-on package for Sublime Text 2/3.
 *   [StatET](http://www.walware.de/goto/statet) - An Eclipse based IDE for R.
 
 ## [10. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
@@ -434,7 +433,7 @@ A secure OAuth2 server implementation
 
 ### Databases
 
-*   [JSON Server (⭐64k)](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds.
+*   [JSON Server (⭐71k)](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds.
 
 ## [16. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
@@ -534,11 +533,11 @@ A secure OAuth2 server implementation
 
 ### CLI Builder
 
-*   [Commander (⭐783)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
+*   [Commander (⭐817)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
 
 ### DevOps Tools
 
-*   [Ruby-LXC (⭐126)](https://github.com/lxc/ruby-lxc) - Native ruby binding for Linux containers.
+*   [Ruby-LXC (⭐128)](https://github.com/lxc/ruby-lxc) - Native ruby binding for Linux containers.
 
 ### Profiler and Optimization
 

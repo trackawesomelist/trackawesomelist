@@ -158,12 +158,12 @@
 
 ### Table of Contents / URL
 
-*   [Purl (⭐912)](https://github.com/jwage/purl) - A URL manipulation library.
-*   [Uri (⭐990)](https://github.com/thephpleague/uri) - Another URL manipulation library.
+*   [Purl (⭐910)](https://github.com/jwage/purl) - A URL manipulation library.
+*   [Uri (⭐994)](https://github.com/thephpleague/uri) - Another URL manipulation library.
 
 ### Table of Contents / Email
 
-*   [Email Reply Parser (⭐624)](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
+*   [Email Reply Parser (⭐626)](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
 *   [Fetch (⭐501)](https://github.com/tedious/Fetch) - An IMAP library.
 *   [PHPMailer (⭐20k)](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
 
@@ -175,7 +175,7 @@
 ### Table of Contents / Imagery
 
 *   [Intervention Image (⭐14k)](https://github.com/Intervention/image) - Another image manipulation library.
-*   [PHP Image Workshop (⭐856)](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
+*   [PHP Image Workshop (⭐858)](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
 
 ### Table of Contents / Testing
 
@@ -204,11 +204,11 @@
 *   [PHP Parser (⭐16k)](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 *   [PHPLOC (⭐2.3k)](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
 *   [PHPQA (⭐559)](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
-*   [UBench (⭐567)](https://github.com/devster/ubench) - A simple micro-benchmark library.
+*   [UBench (⭐566)](https://github.com/devster/ubench) - A simple micro-benchmark library.
 
 ### Table of Contents / Architectural
 
-*   [RulerZ (⭐871)](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
+*   [RulerZ (⭐873)](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
 
 ### Table of Contents / Debugging and Profiling
 
@@ -223,7 +223,7 @@
 
 ### Table of Contents / Date and Time
 
-*   [Moment.php (⭐960)](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
+*   [Moment.php (⭐962)](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
 
 ### Table of Contents / Event
 
@@ -235,7 +235,7 @@
 
 ### Table of Contents / E-commerce
 
-*   [Money (⭐4.4k)](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
+*   [Money (⭐4.5k)](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
 *   [Shopware (⭐2.5k)](https://github.com/shopware/shopware) - Highly customizable e-commerce software
 
 ### Table of Contents / PDF
@@ -249,11 +249,11 @@
 ### Table of Contents / Migrations
 
 *   [Migrations (⭐40)](https://github.com/icomefromthenet/Migrations) - A migration management library.
-*   [PHPMig (⭐568)](https://github.com/davedevelopment/phpmig) - Another migration management library.
+*   [PHPMig (⭐567)](https://github.com/davedevelopment/phpmig) - Another migration management library.
 
 ### Table of Contents / Queue
 
-*   [BunnyPHP (⭐671)](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
+*   [BunnyPHP (⭐673)](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
 *   [Tarantool Queue (⭐63)](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
 *   [Thumper (⭐276)](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
 
@@ -289,7 +289,7 @@
 *   [Agent (⭐4.4k)](https://github.com/jenssegers/agent) - A PHP desktop/mobile user agent parser, based on Mobiledetect.
 *   [Mobile-Detect (⭐10k)](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
 *   [Patchwork UTF-8 (⭐79)](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
-*   [URLify (⭐668)](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
+*   [URLify (⭐669)](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
 *   [UUID (⭐12k)](https://github.com/ramsey/uuid) - A library for generating UUIDs.
 
 ### Table of Contents / Numbers

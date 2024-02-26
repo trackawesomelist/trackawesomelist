@@ -29,7 +29,7 @@
 
 ### Software / Groupware
 
-*   [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐1.1k)](https://github.com/cortezaproject/corteza)) `Apache-2.0` `Go`
+*   [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐1.2k)](https://github.com/cortezaproject/corteza)) `Apache-2.0` `Go`
 
 ## [5. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 

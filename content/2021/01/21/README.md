@@ -32,7 +32,7 @@
 
 ### Plugins and scripts / Godot version unknown
 
-*   [GDSerCommPlugin (⭐61)](https://github.com/NangiDev/GDSerCommPlugin) - A plugin to read Arduino serial input (needs custom engine modules).
+*   [GDSerCommPlugin (⭐62)](https://github.com/NangiDev/GDSerCommPlugin) - A plugin to read Arduino serial input (needs custom engine modules).
 
 ### Modules / Various Godot versions
 
@@ -49,9 +49,9 @@
 
 ### Database Drivers
 
-*   SQlite - [awesome-sqlite (⭐229)](https://github.com/planetopendata/awesome-sqlite)
-    *   [sqlite3](https://docs.python.org/3/library/sqlite3.html) - (Python standard library) SQlite interface compliant with DB-API 2.0
-    *   [SuperSQLite (⭐711)](https://github.com/plasticityai/supersqlite) - A supercharged SQLite library built on top of [apsw (⭐648)](https://github.com/rogerbinns/apsw).
+*   SQlite - [awesome-sqlite (⭐276)](https://github.com/planetopendata/awesome-sqlite)
+    *   [sqlite3](https://docs.python.org/3/library/sqlite3.html) - (Python standard library) SQlite interface compliant with DB-API 2.0.
+    *   [sqlite-utils (⭐1.4k)](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -277,7 +277,7 @@
 
 ### Software / DNS
 
-*   [blocky (⭐3.3k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go/Docker`
+*   [blocky (⭐3.4k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go/Docker`
 
 ## [10. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

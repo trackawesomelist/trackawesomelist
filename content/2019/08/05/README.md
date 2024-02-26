@@ -74,9 +74,9 @@
 ### Frameworks • Libraries • Ecosystems
 
 *   [nannou](http://nannou.cc/)
-    \[Cross-platform] - Open-source creative coding framework for the Rust language
+    \[Cross-platform] - Open-source creative coding framework for the Rust language.
 *   [thi.ng](http://thi.ng/)
-    \[Cross-platform] - Open source collection of computational design tools for the Clojure and ClojureScript languages
+    \[Cross-platform] - Open source collection of computational design tools for the Clojure and ClojureScript languages.
 
 ### Online
 

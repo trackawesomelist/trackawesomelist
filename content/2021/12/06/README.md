@@ -103,19 +103,18 @@
 
 ### International Mobile Number Verification API and SDK
 
-*   [numverify](https://numverify.com/) — Global phone number validation and lookup JSON API. 250 API requests/month
+*   [numverify](https://numverify.com/) — Global phone number validation and lookup JSON API. 100 API requests/month
 *   [veriphone](https://veriphone.io/) — Global phone number verification in a free, fast, reliable JSON API. 1000 requests/month
 
 ### Payment and Billing Integration
 
 *   [CurrencyApi](https://currencyapi.net/) — Live Currency Rates for Physical and Cryptocurrencies, delivered in JSON and XML. The free tier offers 1,250 API requests/month.
-*   [currencylayer](https://currencylayer.com/) — Reliable Exchange Rates and Currency Conversion for your Business, 1,000 API requests/month free
+*   [currencylayer](https://currencylayer.com/) — Reliable Exchange Rates and Currency Conversion for your Business, 100 API requests/month free.
 *   [FraudLabsPRO](https://www.fraudlabspro.com) — Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
 *   [MailPopin](https://mailpop.in) - Get the most of your Stripe notifications with contextualized information.
 *   [Nami ML](https://www.namiml.com/) - Complete platform for in-app purchases and subscriptions on iOS and Android, including no-code paywalls, CRM, and analytics.  Free for all base features to run an IAP business.
 *   [RevenueCat](https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $2.5k/mo in tracked revenue.
 *   [vatlayer](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
-*   [Freecurrencyapi.net](https://freecurrencyapi.net/) — Free currency conversion and exchange rate data API. 10 requests/hour without an API key, 50,000 requests per month when you register for free.
 
 ### Vagrant Related
 
@@ -159,7 +158,7 @@
 
 ### Libraries
 
-*   [fxts (⭐668)](https://github.com/marpple/FxTS) - Lazy evaluation and concurrency. +TS
+*   [fxts (⭐689)](https://github.com/marpple/FxTS) - Lazy evaluation and concurrency. +TS
 
 ---
 

@@ -39,7 +39,7 @@
 
 ### Queries
 
-*   [json-rel (⭐15)](https://github.com/slurmulon/json-where) - Transparent references in JSON.
+*   [json-rel (⭐16)](https://github.com/slurmulon/json-where) - Transparent references in JSON.
 
 ### JSON Schema Resources
 

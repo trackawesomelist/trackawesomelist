@@ -54,8 +54,8 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [sh-semver (⭐31)](https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
-*   [zunit (⭐184)](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
+*   [sh-semver (⭐30)](https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
+*   [zunit (⭐196)](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
 
 ## [7. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 

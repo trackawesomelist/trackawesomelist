@@ -26,7 +26,7 @@
 
 ### Applications / Directory Navigation
 
-*   [vl (⭐24)](https://github.com/ellisonleao/vl) - URL link checker on text documents
+*   [vl (⭐26)](https://github.com/ellisonleao/vl) - URL link checker on text documents
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

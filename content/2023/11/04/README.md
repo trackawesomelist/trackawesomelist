@@ -60,7 +60,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [cpacker/MemGPT (⭐7.6k)](https://github.com/cpacker/MemGPT): teaching LLMs memory management for unbounded context [\[demo page\]](https://memgpt.ai/) [\[arxiv\]](https://arxiv.org/abs/2310.08560)
+*   [cpacker/MemGPT (⭐7.9k)](https://github.com/cpacker/MemGPT): teaching LLMs memory management for unbounded context [\[demo page\]](https://memgpt.ai/) [\[arxiv\]](https://arxiv.org/abs/2310.08560)
 *   [\[2307.10169\] Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169): a systematic set of open problems and application successes of LLM area
 *   [Related resources from around the web | OpenAI Cookbook](https://cookbook.openai.com/articles/related_resources): tools and papers for improving outputs from GPT
 

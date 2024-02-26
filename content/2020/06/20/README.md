@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [captcha-image (⭐7)](https://github.com/tpkahlon/captcha-image) - Allows you to generate a random captcha image with options.
+*   [captcha-image (⭐8)](https://github.com/tpkahlon/captcha-image) - Allows you to generate a random captcha image with options.
 
 ## [2. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -146,7 +146,7 @@
 
 ### Front-End Development
 
-*   [Building Blocks for Web Apps (⭐133)](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
+*   [Building Blocks for Web Apps (⭐137)](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
 
 ## [16. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 

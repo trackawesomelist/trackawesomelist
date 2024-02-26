@@ -10,7 +10,7 @@
 
 ### HTML Widgets
 
-*   [dygraphs (⭐361)](https://github.com/rstudio/dygraphs) - Charting time-series data in R.
+*   [dygraphs (⭐360)](https://github.com/rstudio/dygraphs) - Charting time-series data in R.
 
 ## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

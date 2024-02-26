@@ -73,7 +73,7 @@
 ### WebAssembly
 
 *   [lumen (⭐3.5k)](https://github.com/lumen/lumen) - An alternative BEAM implementation, designed for WebAssembly.
-*   [wasmex (⭐464)](https://github.com/tessi/wasmex/) - Execute WebAssembly / WASM binaries from Elixir.
+*   [wasmex (⭐482)](https://github.com/tessi/wasmex/) - Execute WebAssembly / WASM binaries from Elixir.
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Miscellaneous
 
-*   [Veganism (⭐60)](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
+*   [Veganism (⭐62)](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
 
 ---
 

@@ -48,17 +48,17 @@
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [pgosar/ChatGDB (⭐888)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
+*   [pgosar/ChatGDB (⭐892)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [exa (zshell) (⭐25)](https://github.com/z-shell/zsh-exa) - replace `ls` with [ogham/exa (⭐23k)](https://github.com/ogham/exa).
+*   [exa (zshell) (⭐27)](https://github.com/z-shell/zsh-exa) - replace `ls` with [ogham/exa (⭐23k)](https://github.com/ogham/exa).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [gallifrey-war (⭐1)](https://github.com/cdubos-fr/gallifrey-war) - Inspired by [gallifrey (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#gallifrey). Includes decorators for `git` information, user\@host and current directory.
+*   [gallifrey-war (⭐1)](https://github.com/cdubos-fr/gallifrey-war) - Inspired by [gallifrey (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#gallifrey). Includes decorators for `git` information, user\@host and current directory.
 *   [t2colorful (⭐2)](https://github.com/AmirhosseinAbutalebi/t2colorful-oh.my.zsh) - Includes decorators for `git` information, current directory, last command exit status, and current time.
 
 ## [8. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)

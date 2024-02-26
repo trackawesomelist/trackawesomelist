@@ -103,13 +103,13 @@
 
 ### Translations and Internationalizations
 
-*   [linguist (⭐175)](https://github.com/change/linguist) - Elixir Internationalization library.
+*   [linguist (⭐176)](https://github.com/change/linguist) - Elixir Internationalization library.
 
 ## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Engine
 
-*   [HStreamDB (⭐670)](https://github.com/hstreamdb/hstream) \[Haskell] - The streaming database built for IoT data storage and real-time processing.
+*   [HStreamDB (⭐674)](https://github.com/hstreamdb/hstream) \[Haskell] - The streaming database built for IoT data storage and real-time processing.
 *   [Kuiper (⭐1.3k)](https://github.com/emqx/kuiper) \[Golang] - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
 
 ## [13. Awesome Iot](/content/HQarroum/awesome-iot/README.md)

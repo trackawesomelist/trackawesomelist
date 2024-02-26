@@ -30,7 +30,7 @@
 
 ### Applications and Platforms / Wealth
 
-*   [Firefly III (⭐11k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
+*   [Firefly III (⭐13k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -66,18 +66,18 @@
 
 ### GUI
 
-*   [MyGUI (⭐682)](https://github.com/MyGUI/mygui) - Fast, flexible and simple GUI. \[MIT]
+*   [MyGUI (⭐683)](https://github.com/MyGUI/mygui) - Fast, flexible and simple GUI. \[MIT]
 
 ### Serialization
 
-*   [zpp\_bits (⭐620)](https://github.com/eyalz800/zpp_bits) - Actually, the fastest modern **S**erialization library. Just check [this video](https://www.youtube.com/watch?v=G7-GQhCw8eE\&ab_channel=CppCon).
+*   [zpp\_bits (⭐626)](https://github.com/eyalz800/zpp_bits) - Actually, the fastest modern **S**erialization library. Just check [this video](https://www.youtube.com/watch?v=G7-GQhCw8eE\&ab_channel=CppCon).
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Peripherals
 
 *   Serial Port
-    *   [serialport/serialport-rs (⭐334)](https://github.com/serialport/serialport-rs) \[[serialport](https://crates.io/crates/serialport)] — A cross-platform library that provides access to a serial port
+    *   [serialport/serialport-rs (⭐339)](https://github.com/serialport/serialport-rs) \[[serialport](https://crates.io/crates/serialport)] — A cross-platform library that provides access to a serial port
 
 ## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

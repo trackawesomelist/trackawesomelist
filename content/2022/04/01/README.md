@@ -92,13 +92,13 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-qrcode (⭐116)](https://github.com/svitejs/vite-plugin-qrcode) - Show QR code on server start.
+*   [vite-plugin-qrcode (⭐120)](https://github.com/svitejs/vite-plugin-qrcode) - Show QR code on server start.
 
 ## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [Ansible (⭐1.1k)](https://github.com/ansible-community/awesome-ansible#readme) - A Python-based, open source IT configuration management and automation platform.
+*   [Ansible (⭐1.2k)](https://github.com/ansible-community/awesome-ansible#readme) - A Python-based, open source IT configuration management and automation platform.
 
 ## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -117,7 +117,7 @@
 
 ### Libraries / JavaScript
 
-*   [MapLibre GL JS](https://maplibre.org/projects/#js) - A map renderer with GPU-accelerated vector tile rendering. ([Source Code (⭐5.3k)](https://github.com/maplibre/maplibre-gl-js) / [See Related List](#related-awesome-maplibre))
+*   [MapLibre GL JS](https://maplibre.org/projects/#js) - A map renderer with GPU-accelerated vector tile rendering. ([Source Code (⭐5.4k)](https://github.com/maplibre/maplibre-gl-js) / [See Related List](#related-awesome-maplibre))
 
 ### Communities / Global Communities
 
@@ -127,7 +127,7 @@
 
 ### Related lists / Global Communities
 
-*   [awesome-maplibre (⭐250)](https://github.com/maplibre/awesome-maplibre#readme) - A collection of awesome things that use or support MapLibre! <span id="related-awesome-maplibre"/>
+*   [awesome-maplibre (⭐273)](https://github.com/maplibre/awesome-maplibre#readme) - A collection of awesome things that use or support MapLibre! <span id="related-awesome-maplibre"/>
 
 ---
 

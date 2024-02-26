@@ -39,7 +39,7 @@
 
 ### Learn
 
-*   [Hackathon (⭐66)](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
+*   [Hackathon (⭐72)](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Database Tools
 
-*   [Online Migrations (⭐551)](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production.
+*   [Online Migrations (⭐563)](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production.
 
 ### Feature Flippers and A/B Testing
 

@@ -16,8 +16,8 @@
 
 ### Libraries / Artificial Intelligence
 
-*   [innoave/genevo (⭐157)](https://github.com/innoave/genevo) — Execute genetic algorithm (GA) simulations in a customizable and extensible way.
-*   [m-decoster/RsGenetic (⭐76)](https://github.com/m-decoster/RsGenetic) — Genetic Algorithm library in Rust. In maintenance mode.
+*   [innoave/genevo (⭐158)](https://github.com/innoave/genevo) — Execute genetic algorithm (GA) simulations in a customizable and extensible way.
+*   [m-decoster/RsGenetic (⭐76)](https://github.com/m-decoster/RsGenetic) — Genetic Algorithm library. In maintenance mode.
 *   [autumnai/leaf (⭐5.5k)](https://github.com/autumnai/leaf) — Open Machine Intelligence framework.. Abandoned project. The most updated fork is [spearow/juice (⭐1.1k)](https://github.com/spearow/juice).
 
 ## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
@@ -130,11 +130,11 @@
 
 ### Artificial Intelligence
 
-*   [Genann (⭐1.7k)](https://github.com/codeplea/genann) - Simple neural network library in C. \[zlib]
+*   [Genann (⭐1.8k)](https://github.com/codeplea/genann) - Simple neural network library in C. \[zlib]
 
 ### Database
 
-*   [nanodbc (⭐307)](https://github.com/nanodbc/nanodbc) - A small C++ wrapper for the native C ODBC API. \[MIT]
+*   [nanodbc (⭐310)](https://github.com/nanodbc/nanodbc) - A small C++ wrapper for the native C ODBC API. \[MIT]
 *   [ODB](https://www.codesynthesis.com/products/odb/) - An open-source, cross-platform, and cross-database object-relational mapping (ORM) system for C++. \[GPLv2]
 
 ### Game Engine

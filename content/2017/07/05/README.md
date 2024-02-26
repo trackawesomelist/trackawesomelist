@@ -79,7 +79,7 @@ Wifi pw: `fermento`
 
 ### Chatting
 
-*   [alice (⭐109)](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
+*   [alice (⭐110)](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
 
 ### Encoding and Compression
 
@@ -87,7 +87,7 @@ Wifi pw: `fermento`
 
 ### HTTP
 
-*   [neuron (⭐322)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
+*   [neuron (⭐323)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
 
 ### Macros
 
@@ -99,7 +99,7 @@ Wifi pw: `fermento`
 
 ### Queue
 
-*   [que (⭐659)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
+*   [que (⭐660)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
 
 ### Static Page Generation
 
@@ -127,7 +127,7 @@ Wifi pw: `fermento`
 
 ### Contents / Distributions
 
-*   [PostgreSql.Binaries.Lite (⭐29)](https://github.com/mihasic/PostgreSql.Binaries.Lite) - Minimum set of Windows binaries of the PostgreSQL database. Also made available through NuGet.
+*   [PostgreSql.Binaries.Lite](https://github.com/mihasic/PostgreSql.Binaries.Lite) - Minimum set of Windows binaries of the PostgreSQL database. Also made available through NuGet.
 
 ## [10. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 

@@ -137,33 +137,29 @@
 
 *   InfluxDB in IoT world. [Part 1: Introduction](https://www.easyitblog.info/2017/11/10/influxdb-and-grafana-fighting-together-with-iot-data-attack/) | [Part 2: Hosting and scaling on AWS](https://www.easyitblog.info/2017/11/14/influxdb-in-iot-world-aws-part-2/) | [Part 3: Plotting graphs using Grafana](https://www.easyitblog.info/2017/11/26/influxdb-in-iot-world-making-it-production-ready-part-3/)
 
-## [8. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Graphics
+
+*   [DirectXTK (⭐2.5k)](https://github.com/Microsoft/DirectXTK) - A collection of helper classes for writing DirectX 11.x code in C++. \[MIT]
+
+## [9. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Websites
 
 *   [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting/) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Books
 
 *   [Front-end com Vue.js](https://www.casadocodigo.com.br/products/livro-frontend-vue) by Leonardo Vilarinho, Casa do Código. (November 2017)
 
-## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Accompanying Repos
 
 *   [aws-big-data-blog :fire::fire::fire: (⭐894)](https://github.com/awslabs/aws-big-data-blog) - Samples from the AWS Big Data Blog.
-
-## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-### CLI
-
-*   [jarro2783/cxxopts (⭐3.9k)](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. \[MIT]
-
-### Graphics
-
-*   [DirectXTK (⭐2.4k)](https://github.com/Microsoft/DirectXTK) - A collection of helper classes for writing DirectX 11.x code in C++. \[MIT]
 
 ## [12. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 

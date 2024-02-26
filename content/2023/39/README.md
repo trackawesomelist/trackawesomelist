@@ -163,7 +163,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [unplugin-auto-export (⭐11)](https://github.com/coderhyh/unplugin-auto-export) - Automates the maintenance of export statements in the index.ts file.
+*   [unplugin-auto-export (⭐12)](https://github.com/coderhyh/unplugin-auto-export) - Automates the maintenance of export statements in the index.ts file.
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -171,7 +171,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [unplugin-info (⭐64)](https://github.com/yjl9903/unplugin-info) - Export build information as a virutal module.
+*   [unplugin-info (⭐67)](https://github.com/yjl9903/unplugin-info) - Export build information as a virutal module.
 
 ## [11. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
@@ -325,11 +325,11 @@
 
 *   [mutwo](https://mutwo-org.github.io/) - a Python library for composition that outputs notation, MIDI or audio files and that provides a generalized model to describe time-based structures.
 *   [pyo](https://belangeo.github.io/pyo/) - a Python module to help digital signal processing script creation.
-*   [slippery chicken (⭐55)](https://github.com/mdedwards/slippery-chicken) - a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.
+*   [slippery chicken (⭐61)](https://github.com/mdedwards/slippery-chicken) - a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.
 
 ### Related lists
 
-*   [Awesome Audio DSP (⭐647)](https://github.com/BillyDM/awesome-audio-dsp) - A curated list of audio DSP and plugin development resources.
+*   [Awesome Audio DSP (⭐697)](https://github.com/BillyDM/awesome-audio-dsp) - A curated list of audio DSP and plugin development resources.
 
 ## [23. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
@@ -395,7 +395,7 @@
 
 ### Security Tools / Audio Record and Process
 
-*   [swiftGuard (⭐299)](https://github.com/Lennolium/swiftGuard) - Lightweight App that safeguards your System's USB Ports from any Unauthorized Access and performs various Counter-Measures. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Lennolium/swiftGuard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [swiftGuard (⭐293)](https://github.com/Lennolium/swiftGuard) - Lightweight App that safeguards your System's USB Ports from any Unauthorized Access and performs various Counter-Measures. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Lennolium/swiftGuard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Clipboard Tools
 
@@ -433,7 +433,7 @@
 
 ### Miscellaneous
 
-*   [Steam Deck (⭐127)](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
+*   [Steam Deck (⭐171)](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
 
 ## [31. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -460,12 +460,12 @@
 
 ### Software / Automation
 
-*   [Bolt](https://www.puppet.com/community/open-source/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable. ([Source Code (⭐473)](https://github.com/puppetlabs/bolt)) `Apache-2.0` `Ruby`
+*   [Bolt](https://www.puppet.com/community/open-source/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable. ([Source Code (⭐474)](https://github.com/puppetlabs/bolt)) `Apache-2.0` `Ruby`
 
 ### Software / Build and software organization tools
 
-*   [Environment Modules](https://cea-hpc.github.io/modules/) - Environment Modules provides for the dynamic modification of a user's environment via modulefiles. ([Source Code (⭐619)](https://github.com/cea-hpc/modules)) `GPL-2.0` `Tcl`
-*   [Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem. ([Source Code (⭐436)](https://github.com/TACC/Lmod)) `MIT` `Lua`
+*   [Environment Modules](https://cea-hpc.github.io/modules/) - Environment Modules provides for the dynamic modification of a user's environment via modulefiles. ([Source Code (⭐625)](https://github.com/cea-hpc/modules)) `GPL-2.0` `Tcl`
+*   [Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem. ([Source Code (⭐437)](https://github.com/TACC/Lmod)) `MIT` `Lua`
 
 ## [34. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 

@@ -11,7 +11,7 @@
 ### Customization / Directory Navigation
 
 *   [bashstrap (⭐1.6k)](https://github.com/barryclark/bashstrap) - A quick way to spruce up OSX terminal
-*   [liquidprompt (⭐4.3k)](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
+*   [liquidprompt (⭐4.4k)](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 
 ## [2. Tools](/content/lvwzhen/tools/README.md)
 
@@ -23,7 +23,7 @@
 
 ### HTML Manipulation
 
-*   [untangle (⭐596)](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
+*   [untangle (⭐608)](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
 
 ---
 

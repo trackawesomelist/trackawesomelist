@@ -30,7 +30,7 @@
 
 ### ORM and Datamapping
 
-*   [inquisitor (⭐168)](https://github.com/dockyard/inquisitor) - Composable query builder for Ecto.
+*   [inquisitor (⭐169)](https://github.com/dockyard/inquisitor) - Composable query builder for Ecto.
 *   [udpflux (⭐4)](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
 
 ## [4. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
@@ -75,7 +75,7 @@
 
 ### Command-Line Productivity
 
-*   [k alias (⭐18)](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
+*   [k alias (⭐19)](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
 
 ## [7. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 

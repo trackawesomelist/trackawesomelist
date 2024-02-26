@@ -458,7 +458,6 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
 *   [Generating Geometry: 1](http://codepen.io/mcdorli/post/generating-geometry-part-1-basics), [2](http://codepen.io/mcdorli/post/generating-geometry-part-2-going-3d), [3](http://codepen.io/mcdorli/post/generating-geometry-part-3-getting-spherical) - Beginner introduction on how to create geometry object.
-*   [Three.js sine animation](http://www.pshkvsky.com/gif2code/sine-animation-tutorial-three-js/) - Learn how to add sine waves to a circle with three.js. ([oF version](http://www.pshkvsky.com/gif2code/sinewaves-animation-tutorial-openframeworks/))
 *   [Into Vertex Shaders](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804) - Series of tutorials about WebGL, Three.js, and Three.bas.
 *   [The Spaces of WebGL](https://medium.com/@Zadvorsky/into-vertex-shaders-part-1-the-spaces-of-webgl-c70ded527841) - Brief overview over the different coordinate systems through out the 3D graphics pipeline.
 
@@ -479,7 +478,6 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Events / Other
 
-*   [Digital Design Days - OFFF](http://www.ddd.it/en) - 3 day event offering conferences, workshops, digital showcases & installations.
 *   [CODAME ART+TECH](http://codame.com/) - Projects and nonprofit events, to inspire through experience.
 
 ### Schools • Workshops / Other

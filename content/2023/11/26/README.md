@@ -22,7 +22,7 @@
 
 ### Libraries/Frameworks / Tools
 
-*   [typesafegithub/github-workflows-kt (⭐447)](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
+*   [typesafegithub/github-workflows-kt (⭐470)](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

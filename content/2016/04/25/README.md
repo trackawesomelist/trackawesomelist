@@ -82,8 +82,8 @@ This book is packed with practical recipes, designed to provide you with all the
 
 ### Natural Language Processing
 
-*   [Topic Models Resources (⭐224)](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
-*   [NLP for <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:"> (⭐29)](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
+*   [Topic Models Resources (⭐227)](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
+*   [NLP for <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:">](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
 
 ### Network Analysis
 
@@ -91,7 +91,7 @@ This book is packed with practical recipes, designed to provide you with all the
 
 ### Lists / Book/monograph Lists and Reviews
 
-*   [Natural Language Processing <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:"> (⭐29)](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
+*   [Natural Language Processing <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:">](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
 
 ## [10. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 

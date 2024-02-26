@@ -137,7 +137,7 @@ Webpage: <http://tartine.pt/>
 
 ### Machine Learning
 
-*   [crystal-fann (⭐80)](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
+*   [crystal-fann (⭐81)](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
 
 ### Web Frameworks
 
@@ -147,11 +147,11 @@ Webpage: <http://tartine.pt/>
 
 ### CLI
 
-*   [PDCurses (⭐962)](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. \[PublicDomain]
+*   [PDCurses (⭐964)](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. \[PublicDomain]
 
 ### Debug
 
-*   [utest.h (⭐727)](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. \[Unlicense]
+*   [utest.h (⭐739)](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. \[Unlicense]
 
 ### Internationalization
 
@@ -159,7 +159,7 @@ Webpage: <http://tartine.pt/>
 
 ### JSON
 
-*   [json.h (⭐647)](https://github.com/sheredom/json.h) - A simple one header/one source solution to parsing JSON in C and C++. \[Unlicense]
+*   [json.h (⭐655)](https://github.com/sheredom/json.h) - A simple one header/one source solution to parsing JSON in C and C++. \[Unlicense]
 
 ### Networking
 

@@ -153,7 +153,6 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 ### Web Hosting
 
 *   [RoseHosting](https://www.rosehosting.com) \[DISCOUNT] - RoseHosting offers education specific hosting as well as general shared and dedicated hosting.
-*   [NodeHost](https://nodehost.ca/education) \[FREE] - PHP hosting. 500MB Storage, 80GB Bandwidth, 1 Database, and 2 email accounts per site, 28 day backup history.
 
 ### Design and Photo Editing
 
@@ -280,12 +279,6 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 ### Web Hosting
 
 *   [Bip](https://bip.sh/students) \[DISCOUNT] - Static web hosting. Bip provides a 30% recurring discount per domain on your student account [on all plans](https://bip.sh/pricing).
-
-## [Oct 19, 2020](/content/2020/10/19/README.md)
-
-### Management Systems
-
-*   [Yellow Circle](https://yellowcircle.net) \[FREE] - Offers a free online sandbox for students and teachers at all levels to learn and practice IT, networking, and programming skills by creating and configuring virtual routers, virtual machines, and virtual firewalls, load-balancers, and storage devices.
 
 ## [Oct 01, 2020](/content/2020/10/01/README.md)
 

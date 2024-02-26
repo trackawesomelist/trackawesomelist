@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 27, 2020
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -78,13 +78,7 @@
 
 *   [crisp-react (⭐183)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
 
-## [12. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### Date and Time
-
-*   [Arrow](https://arrow.readthedocs.io/en/latest/) - A Python library that offers a sensible and human-friendly approach to creating, manipulating, formatting and converting dates, times and timestamps.
-
-## [13. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [12. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Fiction / Fantasy
 
@@ -116,7 +110,7 @@
 
 
 
-## [14. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [13. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Tools / DDoS Tools
 

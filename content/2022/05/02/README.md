@@ -22,17 +22,17 @@
 
 ### Software / Communication - SIP
 
-*   [Eqivo](https://eqivo.org/) - Eqivo implements an API layer on top of FreeSWITCH facilitating integration between web applications and voice/video-enabled endpoints such as traditional phone lines (PSTN), VoIP phones, webRTC clients etc. ([Source Code (⭐62)](https://github.com/rtckit/eqivo)) `MIT` `Docker/PHP`
+*   [Eqivo](https://eqivo.org/) - Eqivo implements an API layer on top of FreeSWITCH facilitating integration between web applications and voice/video-enabled endpoints such as traditional phone lines (PSTN), VoIP phones, webRTC clients etc. ([Source Code (⭐64)](https://github.com/rtckit/eqivo)) `MIT` `Docker/PHP`
 
 ### Software / Miscellaneous
 
-*   [Noisedash (⭐256)](https://github.com/kaythomas0/noisedash) - Self-hostable web tool for generating ambient noises/sounds using audio tools and user-uploadable samples. `AGPL-3.0` `Nodejs/Docker`
+*   [Noisedash (⭐259)](https://github.com/kaythomas0/noisedash) - Self-hostable web tool for generating ambient noises/sounds using audio tools and user-uploadable samples. `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Time Tracking
 
 *   [ActivityWatch](https://activitywatch.net) - An app that automatically tracks how you spend time on your devices. ([Source Code (⭐10k)](https://github.com/ActivityWatch/activitywatch)) `MPL-2.0` `Python`
-*   [Kimai](https://www.kimai.org/) - Kimai is a free & open source timetracker. It tracks work time and prints out a summary of your activities on demand. ([Demo](https://www.kimai.org/demo/), [Source Code (⭐2.6k)](https://github.com/kimai/kimai)) `MIT` `PHP`
-*   [TimeTagger](https://timetagger.app) - An open source time-tracker based on an interactive timeline and powerful reporting. ([Demo](https://timetagger.app/app/demo), [Source Code (⭐845)](https://github.com/almarklein/timetagger)) `GPL-3.0` `Python`
+*   [Kimai](https://www.kimai.org/) - Kimai is a free & open source timetracker. It tracks work time and prints out a summary of your activities on demand. ([Demo](https://www.kimai.org/demo/), [Source Code (⭐2.7k)](https://github.com/kimai/kimai)) `MIT` `PHP`
+*   [TimeTagger](https://timetagger.app) - An open source time-tracker based on an interactive timeline and powerful reporting. ([Demo](https://timetagger.app/app/demo), [Source Code (⭐857)](https://github.com/almarklein/timetagger)) `GPL-3.0` `Python`
 
 ## [4. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
@@ -56,7 +56,7 @@
 
 *   [hrsh7th/nvim-cmp (⭐6.6k)](https://github.com/hrsh7th/nvim-cmp) - A completion plugin written in Lua. New version of nvim-compe.
     *   [lukas-reineke/cmp-under-comparator (⭐151)](https://github.com/lukas-reineke/cmp-under-comparator) - A nvim-cmp function for better sorting.
-    *   [SergioRibera/cmp-dotenv (⭐24)](https://github.com/SergioRibera/cmp-dotenv) - Load environment variables from the shell or from your `.env` files.
+    *   [SergioRibera/cmp-dotenv (⭐30)](https://github.com/SergioRibera/cmp-dotenv) - Load environment variables from the shell or from your `.env` files.
 
 ### Session / Diagnostics
 
@@ -70,12 +70,12 @@
 
 ### Contents / Frameworks
 
-*   [Blaze (⭐108)](https://github.com/samply/blaze) - A FHIR Store with internal, fast CQL Evaluation Engine
-*   [Sushi (⭐98)](https://github.com/FHIR/sushi) - a reference implementation command-line interpreter/compiler for FHIR
+*   [Blaze (⭐125)](https://github.com/samply/blaze) - A FHIR Store with internal, fast CQL Evaluation Engine
+*   [Sushi (⭐119)](https://github.com/FHIR/sushi) - a reference implementation command-line interpreter/compiler for FHIR
 
 ### Contents / Integration
 
-*   [Google HCLS Data Harmonization (⭐153)](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization) - an engine that converts data of one structure to another
+*   [Google HCLS Data Harmonization (⭐186)](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization) - an engine that converts data of one structure to another
 
 ## [8. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 

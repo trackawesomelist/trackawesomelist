@@ -10,9 +10,9 @@
 
 ### Language Support
 
-*   [playwright-ruby-client (⭐237)](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
-*   [playwright-cr (⭐18)](https://github.com/naqvis/playwright-cr) - Playwright port for Crystal.
-*   [playwright-rust (⭐253)](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
+*   [playwright-ruby-client (⭐242)](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
+*   [playwright-cr (⭐19)](https://github.com/naqvis/playwright-cr) - Playwright port for Crystal.
+*   [playwright-rust (⭐258)](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Templates / React
 
-*   [vite-reactts-eslint-prettier (⭐452)](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
+*   [vite-reactts-eslint-prettier (⭐453)](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -119,7 +119,7 @@
 
 ### Audio
 
-*   [ni-media (⭐230)](https://github.com/NativeInstruments/ni-media) - C++ library for reading and writing audio files. \[MIT]
+*   [ni-media (⭐231)](https://github.com/NativeInstruments/ni-media) - C++ library for reading and writing audio files. \[MIT]
 
 ### JSON
 
@@ -159,7 +159,7 @@
 ### Tools / Community providers
 
 *   [Infracost (⭐10k)](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests.
-*   [terraform-graph-beautifier (⭐306)](https://github.com/pcasteran/terraform-graph-beautifier) - Command line tool allowing to convert the barely usable output of the terraform graph command to something more meaningful and explanatory.
+*   [terraform-graph-beautifier (⭐318)](https://github.com/pcasteran/terraform-graph-beautifier) - Command line tool allowing to convert the barely usable output of the terraform graph command to something more meaningful and explanatory.
 
 ## [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -196,7 +196,7 @@
 ### Libraries / Network programming
 
 *   message-io
-    *   [lemunozm/message-io (⭐998)](https://github.com/lemunozm/message-io) — Event-driven message library to build network applications easy and fast. Supports TCP, UDP and WebSockets. [![build badge](https://img.shields.io/github/workflow/status/lemunozm/message-io/message-io%20ci)](https://github.com/lemunozm/message-io/actions?query=workflow%3A%22message-io+ci%22)
+    *   [lemunozm/message-io (⭐1k)](https://github.com/lemunozm/message-io) — Event-driven message library to build network applications easy and fast. Supports TCP, UDP and WebSockets. [![build badge](https://img.shields.io/github/workflow/status/lemunozm/message-io/message-io%20ci)](https://github.com/lemunozm/message-io/actions?query=workflow%3A%22message-io+ci%22)
 
 ## [22. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
@@ -232,7 +232,7 @@
 
 *   [Bahmni](https://www.bahmni.org) - Electronic Medical Record and hospital system.
 *   [EHRBase](https://ehrbase.org) OpenEHR Clinical Data Repository.
-*   [EHRServer (⭐150)](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer.
+*   [EHRServer (⭐160)](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer.
 *   [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster Project.
 
 ### Contents / Specifications
@@ -241,7 +241,7 @@
 
 ### Contents / Imaging
 
-*   [OHIF (⭐2.5k)](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker.
+*   [OHIF (⭐2.8k)](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker.
 
 ### Contents / Dental
 
@@ -256,15 +256,11 @@
 
 *   [Archie (⭐47)](https://github.com/openehr/archie) - OpenEHR Library written in Java.
 *   [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
-*   [dicom (⭐834)](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in GoLang.
-*   [Fellow Oak DICOM (⭐929)](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono, and Unity.
-*   [FHIR protocol buffers (⭐732)](https://github.com/google/fhir) - A Google implementation of protocol buffers for FHIR.
-*   [php-fhir (⭐101)](https://github.com/dcarbone/php-fhir) - Tools for creating PHP classes from the HL7 FHIR Specification.
-*   [pynetdicom (⭐437)](https://github.com/pydicom/pynetdicom) - A Python implementation of the DICOM networking protocol.
-
-### Contents / Data
-
-*   [Inferno (⭐91)](https://github.com/onc-healthit/inferno) - Open source tool that tests whether patients can access their health data through a standard interface.
+*   [dicom (⭐874)](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in GoLang.
+*   [Fellow Oak DICOM (⭐993)](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono, and Unity.
+*   [FHIR protocol buffers (⭐771)](https://github.com/google/fhir) - A Google implementation of protocol buffers for FHIR.
+*   [php-fhir (⭐109)](https://github.com/dcarbone/php-fhir) - Tools for creating PHP classes from the HL7 FHIR Specification.
+*   [pynetdicom (⭐463)](https://github.com/pydicom/pynetdicom) - A Python implementation of the DICOM networking protocol.
 
 ### Contents / Machine learning
 
@@ -406,7 +402,7 @@
 
 ### Plugins
 
-*   🎨🧩 [CSS Variables (⭐191)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables.
+*   🎨🧩 [CSS Variables (⭐197)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables.
 
 ### Learning
 

@@ -23,7 +23,7 @@
 
 ### Software / Miscellaneous
 
-*   [AlertHub (⭐172)](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs/Docker`
+*   [AlertHub (⭐174)](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs/Docker`
 
 ## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

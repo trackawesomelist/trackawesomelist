@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 04 - Sep 10, 2017
 
-36 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -45,31 +45,25 @@
 
 *   [Shared TSLint & codelyzer rules by fulls1z3 (⭐173)](https://github.com/ng-seed/angular-tslint-rules)
 
-## [7. Awesome Python](/content/vinta/awesome-python/week/README.md)
-
-### Implementations
-
-*   [CPython (⭐54k)](https://github.com/python/cpython) - **Default, most widely used implementation of the Python programming language written in C.**
-
-## [8. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [7. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [Z](https://esolangs.org/wiki/Z) - Use only the letter z.
 
-## [9. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [8. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Color Palettes / Web App
 
 *   [Color Name List (⭐2.2k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
 
-## [10. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [9. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Testing Utils
 
 *   [Preact Test Utils (⭐8)](https://github.com/windyGex/preact-test-utils) - Mock react-test-utils enzyme in preact.
 
-## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards aggregators
 
@@ -77,7 +71,7 @@
 *   [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
 *   [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
 
-## [12. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [11. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### HTTP
 
@@ -87,7 +81,7 @@
 
 *   [crystal-base (⭐2)](https://github.com/ruivieira/crystal-base) - CentOS base docker image for Crystal development
 
-## [13. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
+## [12. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
 ### Stalled Development
 
@@ -107,13 +101,13 @@
     [Docs (⭐327)](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
     [Repo (⭐327)](https://github.com/justinhough/Centurion)
 
-## [14. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [13. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
 *   [Dynamorse (⭐43)](https://github.com/Streampunk/node-red-contrib-dynamorse-core) - IT swiss army knife - a Node-RED media pipeline builder, adding professional media processing nodes.
 
-## [15. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [14. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Introductions
 
@@ -126,19 +120,19 @@
 *   [static-land-recursion-schemes (⭐21)](https://github.com/JosephJNK/static-land-recursion-schemes) for JavaScript/Flow -
     Schemes for data structures written in the style of [flow-static-land (⭐415)](https://github.com/gcanti/flow-static-land).
 
-## [16. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [15. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Getting started
 
 *   [GTFS](https://developers.google.com/transit/gtfs/) - A GTFS feed is a group of text files that contains infrequently changing transit data, like stops, routes, trips, and other schedule data. Transit agencies typically update their GTFS feed every few months.
 
-## [17. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [16. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### DevTools / Other external resources
 
 *   [rails-dashboard (⭐145)](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
 
-## [18. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [17. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Systems
 
@@ -148,13 +142,13 @@
     *   [Lecture Videos](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x)
     *   [Readings](http://15445.courses.cs.cmu.edu/fall2017/schedule.html)
 
-## [19. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [18. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
 *   [Holographic Embeddings for Graph Completion and Link Prediction (⭐0)](https://github.com/laxatives/TensorFlow-TransX) - Implementation of [Holographic Embeddings of Knowledge Graphs](http://arxiv.org/abs/1510.04935)
 
-## [20. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [19. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### ReactJS
 
@@ -166,7 +160,7 @@
 
 
 
-## [21. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / U companies
 
@@ -180,7 +174,7 @@
 
 *   Rudolf Olah <https://neverfriday.com/blog/>
 
-## [22. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [21. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
@@ -198,26 +192,26 @@
 
 *   [DarkSkyCore (⭐55)](https://github.com/amweiss/dark-sky-core) - A .NET Standard wrapper for the [Dark Sky API](https://darksky.net/dev/docs).
 
-## [23. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [22. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### References / Firefox Specific Tools/Debugger
 
 *   [WebVR Spec](https://w3c.github.io/webvr/) - The official W3C WebVR spec (legacy).
     *   [How to read WebVR Specs](https://dassur.ma/things/reading-specs/)
 
-## [24. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [23. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Productivity
 
 *   [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Switch between application instances, fast.
 
-## [25. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [24. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Database
 
 *   [RedBean](https://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
 
-## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [25. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Route 53
 
@@ -227,7 +221,7 @@
 
 *   [microapps/MoonMail :fire::fire::fire::fire: (⭐1.9k)](https://github.com/microapps/MoonMail) - Shoot billions of emails using SES and Lambda.
 
-## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Code Quality
 
@@ -237,13 +231,13 @@
 
 *   [http2.pro](https://http2.pro) — HTTP/2 protocol readiness test and client HTTP/2 support detection API.
 
-## [28. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [27. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
 *   [Argh! (⭐1.2k)](https://github.com/adishavit/argh) - A minimalist, frustration-free, header-only argument handler. \[BSD]
 
-## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
@@ -253,13 +247,13 @@
 
 *   [CodeHub (⭐23k)](https://github.com/CodeHubApp/CodeHub) - CodeHub is the best way to browse and maintain your GitHub repositories on any iOS device!
 
-## [30. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [29. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Music, Radio and Podcasts / Others
 
 *   [Anime Openings](http://openings.moe/) - Free anime radio, listen or download anime opening and ending videos.
 
-## [31. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -277,7 +271,7 @@
 
 *   [vue-scrollmonitor (⭐43)](https://github.com/AlexandreBonaventure/vue-scrollmonitor) - A Vue plugin to watch visibility state of elements inside viewport with a wide range of browsers supported (use provide/inject so compat [vue@2.2.x](https://github.com/vuejs/awesome-vue/blob/master/README.md/mailto:vue@2.2.x))
 
-## [32. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [31. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Icons
 
@@ -287,13 +281,13 @@
 
 *   [Learn Sketch](https://www.sketchapp.com/learn/): Short videos and compiled invaluable resources to help you get started!
 
-## [33. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [32. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Starter Projects / Videos
 
 *   [Laravel Zero - Console application (⭐3.1k)](https://github.com/laravel-zero/laravel-zero)
 
-## [34. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [33. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Build tools
 
@@ -303,7 +297,7 @@
 
 *   [Vert.x GraphQL Utils (⭐22)](http://github.com/tibor-kocsis/vertx-graphql-utils) - A route handler and Vert.x compatible interfaces to handle GraphQL queries in Vert.x and Vert.x Web.
 
-## [35. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [34. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Lithuania 🇱🇹 / Vilnius
 
@@ -355,7 +349,7 @@ Webpage: <https://www.facebook.com/cafelinne/>
 | ---- | ----- | ------------------------------------------ | ---------- |
 | ✔    | Some  | Svartbäcksgatan 22, 75 332 Uppsala, Sweden | 8–22       |
 
-## [36. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [35. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Example Projects
 

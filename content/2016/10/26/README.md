@@ -120,12 +120,12 @@
 
 ### Frameworks
 
-*   [kitto (⭐949)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
+*   [kitto (⭐950)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
 
 ### Instrumenting / Monitoring
 
-*   [appsignal-elixir (⭐262)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
-*   [prometheus-phoenix (⭐68)](https://github.com/deadtrickster/prometheus-phoenix) - Phoenix instrumenter for prometheus.ex.
+*   [appsignal-elixir (⭐266)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
+*   [prometheus-phoenix (⭐69)](https://github.com/deadtrickster/prometheus-phoenix) - Phoenix instrumenter for prometheus.ex.
 *   [prometheus\_process\_collector (⭐47)](https://github.com/deadtrickster/prometheus_process_collector) - Prometheus collector which exports the current state of process metrics including cpu, memory, file descriptor usage and native threads count as well as the process start and up times.
 
 ### Macros
@@ -134,7 +134,7 @@
 
 ### Third Party APIs
 
-*   [darkskyx (⭐14)](https://github.com/techgaun/darkskyx) - A Darksky.com (formerly forecast.io) API client for Elixir.
+*   [darkskyx (⭐13)](https://github.com/techgaun/darkskyx) - A Darksky.com (formerly forecast.io) API client for Elixir.
 *   [elixirfm (⭐9)](https://github.com/jrichocean/Elixirfm) - Last.fm API wrapper for Elixir.
 *   [ex\_codeship (⭐0)](https://github.com/securingsincity/ex_codeship) - API Client for Codeship.
 

@@ -22,7 +22,7 @@
 
 *   [natecraddock/ziglua (⭐160)](https://github.com/natecraddock/ziglua) - Bindings for the Lua C API.
 
-### Web / HTTP
+### Web / Messaging
 
 *   [karlseguin/websocket.zig (⭐192)](https://github.com/karlseguin/websocket.zig) - A WebSocket implementation.
 
@@ -45,7 +45,7 @@
 *   [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge is a Python 3.6+ library for working with GTFS feeds using pandas DataFrames.
 *   [Pandana](https://udst.github.io/pandana/) - Urban network analysis library intended to help planners compute quick accessibility metrics or shortest paths. Additional Information: License: AGPL-3.0 License: Provider: UrbanSim Inc. (UDST).
 *   [UrbanSim (⭐461)](https://github.com/udst/urbansim) - UrbanSim is a platform for building statistical models of cities and regions. These models help forecast long-range patterns in real estate development, demographics, and related outcomes, under various policy scenarios. Information: License: BSD License: Provider: UrbanSim Inc. (UDST).
-*   [Pybikes (⭐524)](https://github.com/eskerda/pybikes) - Pybikes provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
+*   [Pybikes (⭐530)](https://github.com/eskerda/pybikes) - Pybikes provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
 *   [Leafmap (⭐2.8k)](https://github.com/giswqs/leafmap) - Leafmap is a free and open-source Python package that enables users to analyze and visualize geospatial data with minimal coding in a Jupyter environment. Leafmap's interactive GUI allows no code layer management and analysis including a powerful analytical backend (i.e., [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html)). Additional Information: [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
 *   [Prettymaps (⭐11k)](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data.
 *   [HerePy (⭐84)](https://github.com/abdullahselek/HerePy) - A library that provides a Python interface to HERE APIs.
@@ -109,7 +109,7 @@
 
 ### Applications / Utilities
 
-*   [mprocs (⭐1.1k)](https://github.com/pvolok/mprocs) — TUI for running multiple processes
+*   [mprocs (⭐1.2k)](https://github.com/pvolok/mprocs) — TUI for running multiple processes
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [TicketmasterMobileStudio/actions-on-google-kotlin (⭐118)](https://github.com/TicketmasterMobileStudio/actions-on-google-kotlin) - Port of official Node.js SDK to Kotlin. Complete with all features and tests and nearly identical API.
+*   [TicketmasterMobileStudio/actions-on-google-kotlin (⭐120)](https://github.com/TicketmasterMobileStudio/actions-on-google-kotlin) - Port of official Node.js SDK to Kotlin. Complete with all features and tests and nearly identical API.
 
 ### Android / Tools
 

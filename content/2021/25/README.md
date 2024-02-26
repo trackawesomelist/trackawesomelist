@@ -16,7 +16,7 @@
 
 ### External Links / Wikis
 
-*   [Awesome Sysadmin (⭐21k)](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
+*   [Awesome Sysadmin (⭐22k)](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
 
 ## [3. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Godot Polygon 2D Fracture (⭐266)](https://github.com/SoloByte/godot-polygon2d-fracture) - Two simple scripts for fracturing and cutting polygons.
+*   [Godot Polygon 2D Fracture (⭐272)](https://github.com/SoloByte/godot-polygon2d-fracture) - Two simple scripts for fracturing and cutting polygons.
 
 ### GDScript/C# editor support / Godot version unknown
 
@@ -163,7 +163,7 @@
 
 ### Graph
 
-*   [CXXGraph (⭐367)](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. \[AGPL-3.0]
+*   [CXXGraph (⭐373)](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. \[AGPL-3.0]
 
 ### Math
 
@@ -173,13 +173,13 @@
 
 ### Tools / Community providers
 
-*   [gaia (⭐887)](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻.
+*   [gaia (⭐905)](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻.
 
 ## [21. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### REST and API
 
-*   [MixerApi](https://mixerapi.com) - Streamline development of modern RESTful APIs for your team's CakePHP project.
+*   🍰 [MixerApi](https://mixerapi.com) - Streamline development of modern RESTful APIs for your team's CakePHP project.
 
 ### Development Environment
 
@@ -196,8 +196,8 @@
 ### Libraries / Command-line
 
 *   Data visualization
-    *   [nukesor/comfy-table (⭐826)](https://github.com/nukesor/comfy-table) \[[comfy-table](https://crates.io/crates/comfy-table)] — Beautiful dynamic tables for your cli tools. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions)
-    *   [zhiburt/tabled (⭐1.7k)](https://github.com/zhiburt/tabled) \[[tabled](https://crates.io/crates/tabled)] — An easy to use library for pretty print tables of Rust structs and enums. [![Build Status](https://github.com/zhiburt/tabled/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/tabled/actions)
+    *   [nukesor/comfy-table (⭐832)](https://github.com/nukesor/comfy-table) \[[comfy-table](https://crates.io/crates/comfy-table)] — Beautiful dynamic tables for your cli tools. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions)
+    *   [zhiburt/tabled (⭐1.8k)](https://github.com/zhiburt/tabled) \[[tabled](https://crates.io/crates/tabled)] — An easy to use library for pretty print tables of structs and enums. [![Build Status](https://github.com/zhiburt/tabled/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/tabled/actions)
 
 ## [24. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 

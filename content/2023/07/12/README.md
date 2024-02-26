@@ -52,9 +52,9 @@
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Reading and Writing Tools / Text Editors
+### Developer Tools / IDEs
 
-*   [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zed-industries/zed) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Command Line Tools
 
@@ -91,7 +91,7 @@
 
 ### 📁 Recipes / 🌱 Third Party
 
-*   [alpody/golang-fiber-realworld-example-app (⭐78)](https://github.com/alpody/golang-fiber-realworld-example-app) - Example real world backend API built with Fiber, Gorm, Swagger.
+*   [alpody/golang-fiber-realworld-example-app (⭐99)](https://github.com/alpody/golang-fiber-realworld-example-app) - Example real world backend API built with Fiber, Gorm, Swagger.
 
 ## [11. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 

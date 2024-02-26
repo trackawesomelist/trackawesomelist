@@ -10,7 +10,7 @@
 
 ### Software / Automation
 
-*   [Huginn (⭐40k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
+*   [Huginn (⭐41k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
 
 ## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 

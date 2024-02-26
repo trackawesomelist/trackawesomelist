@@ -20,7 +20,7 @@
 
 ### Feeds
 
-*   [atomex (⭐46)](https://github.com/Betree/atomex) - ATOM feed builder with a focus on standards compliance, security and extensibility.
+*   [atomex (⭐47)](https://github.com/Betree/atomex) - ATOM feed builder with a focus on standards compliance, security and extensibility.
 
 ### Validations
 

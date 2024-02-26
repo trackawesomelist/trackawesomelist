@@ -66,7 +66,7 @@
 
 ### Applications / System tools
 
-*   [GQL (⭐2.8k)](https://github.com/amrdeveloper/gql) — A SQL like query language to run on .git files.
+*   [GQL (⭐2.9k)](https://github.com/amrdeveloper/gql) — A SQL like query language to run on .git files.
 
 ### Applications / Utilities
 

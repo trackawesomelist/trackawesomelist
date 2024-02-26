@@ -85,7 +85,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-checker (⭐839)](https://github.com/fi3ework/vite-plugin-checker) - Fast run checkers (TypeScript/VLS/vue-tsc, etc.) in worker threads with overlay and terminal hint.
+*   [vite-plugin-checker (⭐851)](https://github.com/fi3ework/vite-plugin-checker) - Fast run checkers (TypeScript/VLS/vue-tsc, etc.) in worker threads with overlay and terminal hint.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -186,7 +186,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [ass (⭐562)](https://github.com/tycrek/ass) - The superior self-hosted ShareX server. For use with clients such as ShareX (Windows), Flameshot (Linux), & MagicCap (Linux, macOS). `ISC` `Nodejs/Docker`
+*   [ass (⭐573)](https://github.com/tycrek/ass) - The superior self-hosted ShareX server. For use with clients such as ShareX (Windows), Flameshot (Linux), & MagicCap (Linux, macOS). `ISC` `Nodejs/Docker`
 
 ### Software / Office Suites
 

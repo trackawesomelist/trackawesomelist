@@ -20,13 +20,9 @@
 
 ## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
-### Shells
-
-*   [yash](https://yash.osdn.jp/) - A POSIX-compliant command line shell with built-in support for completion and prediction based on command history
-
 ### Command-Line Productivity
 
-*   [funky (⭐631)](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
+*   [funky (⭐634)](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
 *   [navi (⭐14k)](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ### Command-Line Productivity / Directory Navigation

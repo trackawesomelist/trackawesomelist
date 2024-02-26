@@ -62,194 +62,136 @@
 
 ### Admin Panels
 
-*   [ajenti (⭐7.2k)](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
+*   [ajenti (⭐7.3k)](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
 *   [wooey (⭐2k)](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts.
+
+### Asynchronous Programming
+
+*   [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html) - (Python standard library) A high-level interface for asynchronously executing callables.
 
 ### Audio
 
 *   Audio
-    *   [audioread (⭐442)](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
-    *   [audioFlux (⭐1.8k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
-    *   [dejavu (⭐6.1k)](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
-    *   [kapre (⭐891)](https://github.com/keunwoochoi/kapre) - Keras Audio Preprocessors.
-    *   [librosa (⭐6k)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
-    *   [matchering (⭐986)](https://github.com/sergree/matchering) - A library for automated reference audio mastering.
+    *   [audioread (⭐468)](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
+    *   [audioFlux (⭐2k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
+    *   [dejavu (⭐6.3k)](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
+    *   [kapre (⭐905)](https://github.com/keunwoochoi/kapre) - Keras Audio Preprocessors.
+    *   [librosa (⭐6.5k)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
+    *   [matchering (⭐1.1k)](https://github.com/sergree/matchering) - A library for automated reference audio mastering.
     *   [mingus](http://bspaans.github.io/python-mingus/) - An advanced music theory and notation package with MIDI file and playback support.
-    *   [pyAudioAnalysis (⭐5.3k)](https://github.com/tyiannak/pyAudioAnalysis) - Audio feature extraction, classification, segmentation and applications.
-    *   [pydub (⭐7.4k)](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
-    *   [TimeSide (⭐351)](https://github.com/Parisson/TimeSide) - Open web audio processing framework.
+    *   [pyaudioanalysis (⭐5.6k)](https://github.com/tyiannak/pyAudioAnalysis) - Audio feature extraction, classification, segmentation and applications.
+    *   [pydub (⭐8.2k)](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
+    *   [timeside (⭐361)](https://github.com/Parisson/TimeSide) - Open web audio processing framework.
 *   Metadata
     *   [beets (⭐12k)](https://github.com/beetbox/beets) - A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
-    *   [eyeD3 (⭐479)](https://github.com/nicfit/eyeD3) - A tool for working with audio files, specifically MP3 files containing ID3 metadata.
-    *   [mutagen (⭐1.3k)](https://github.com/quodlibet/mutagen) - A Python module to handle audio metadata.
-    *   [tinytag (⭐606)](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
+    *   [eyed3 (⭐517)](https://github.com/nicfit/eyeD3) - A tool for working with audio files, specifically MP3 files containing ID3 metadata.
+    *   [mutagen (⭐1.4k)](https://github.com/quodlibet/mutagen) - A Python module to handle audio metadata.
+    *   [tinytag (⭐650)](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
 
 ### Authentication
 
 *   JWT
-    *   [pyjwt (⭐4.6k)](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python.
-    *   [python-jose (⭐1.3k)](https://github.com/mpdavis/python-jose/) - A JOSE implementation in Python.
-    *   [python-jwt (⭐213)](https://github.com/davedoesdev/python-jwt) - A module for generating and verifying JSON Web Tokens.
+    *   [pyjwt (⭐4.8k)](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python.
+    *   [python-jose (⭐1.4k)](https://github.com/mpdavis/python-jose/) - A JOSE implementation in Python.
 
 ### Build Tools
 
 *   [pybuilder (⭐1.6k)](https://github.com/pybuilder/pybuilder) - A continuous build tool written in pure Python.
 
-### Built-in Classes Enhancement
-
-*   [DottedDict (⭐168)](https://github.com/carlosescri/DottedDict) - A library that provides a method of accessing lists and dicts with a dotted path notation.
-
 ### CMS
 
-*   [feincms (⭐868)](https://github.com/feincms/feincms) - One of the most advanced Content Management Systems built on Django.
-*   [Kotti (⭐400)](https://github.com/Kotti/Kotti) - A high-level, Pythonic web application framework built on Pyramid.
-*   [mezzanine (⭐4.6k)](https://github.com/stephenmcd/mezzanine) - A powerful, consistent, and flexible content management platform.
-*   [plone](https://plone.org/) - A CMS built on top of the open source application server Zope.
-*   [quokka (⭐2.2k)](https://github.com/rochacbruno/quokka) - Flexible, extensible, small CMS powered by Flask and MongoDB.
+*   [feincms (⭐880)](https://github.com/feincms/feincms) - One of the most advanced Content Management Systems built on Django.
 
 ### Caching
 
-*   [beaker (⭐507)](https://github.com/bbangert/beaker) - A WSGI middleware for sessions and caching.
-*   [pylibmc (⭐470)](https://github.com/lericson/pylibmc) - A Python wrapper around the [libmemcached](https://libmemcached.org/libMemcached.html) interface.
-*   [python-diskcache](http://www.grantjenks.com/docs/diskcache/) - SQLite and file backed cache backend with faster lookups than memcached and redis.
+*   [beaker (⭐513)](https://github.com/bbangert/beaker) - A WSGI middleware for sessions and caching.
+*   [pylibmc (⭐477)](https://github.com/lericson/pylibmc) - A Python wrapper around the [libmemcached](https://libmemcached.org/libMemcached.html) interface.
 
 ### ChatOps Tools
 
-*   [errbot (⭐2.9k)](https://github.com/errbotio/errbot/) - The easiest and most popular chatbot to implement ChatOps.
+*   [errbot (⭐3k)](https://github.com/errbotio/errbot/) - The easiest and most popular chatbot to implement ChatOps.
 
-### Code Analysis
+### Configuration Files
 
-*   Code Formatters
-    *   [black (⭐33k)](https://github.com/python/black) - The uncompromising Python code formatter.
-    *   [isort (⭐5.9k)](https://github.com/timothycrosley/isort) - A Python utility / library to sort imports.
-    *   [yapf (⭐13k)](https://github.com/google/yapf) - Yet another Python code formatter from Google.
-
-### Command-line Tools
-
-*   CLI Enhancements
-    *   [httpie (⭐28k)](https://github.com/jakubroztocil/httpie) - A command line HTTP client, a user-friendly cURL replacement.
-    *   [iredis (⭐2.3k)](https://github.com/laixintao/iredis) - Redis CLI with autocompletion and syntax highlighting.
-    *   [kube-shell (⭐2.3k)](https://github.com/cloudnativelabs/kube-shell) - An integrated shell for working with the Kubernetes CLI.
-    *   [litecli (⭐1.8k)](https://github.com/dbcli/litecli) - SQLite CLI with autocompletion and syntax highlighting.
-    *   [mycli (⭐11k)](https://github.com/dbcli/mycli) - MySQL CLI with autocompletion and syntax highlighting.
-    *   [pgcli (⭐11k)](https://github.com/dbcli/pgcli) - PostgreSQL CLI with autocompletion and syntax highlighting.
-    *   [saws (⭐5.1k)](https://github.com/donnemartin/saws) - A Supercharged [aws-cli (⭐14k)](https://github.com/aws/aws-cli).
-
-### Compatibility
-
-*   [python-future](http://python-future.org/index.html) - The missing compatibility layer between Python 2 and Python 3.
-
-### Concurrency and Parallelism
-
-*   [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html) - (Python standard library) A high-level interface for asynchronously executing callables.
-*   [scoop (⭐595)](https://github.com/soravux/scoop) - Scalable Concurrent Operations in Python.
-
-### Configuration
-
-*   [configobj (⭐294)](https://github.com/DiffSK/configobj) - INI file parser with validation.
 *   [configparser](https://docs.python.org/3/library/configparser.html) - (Python standard library) INI file parser.
+*   [configobj (⭐306)](https://github.com/DiffSK/configobj) - INI file parser with validation.
 
 ### Cryptography
 
-*   [passlib](https://passlib.readthedocs.io/en/stable/) - Secure password storage/hashing library, very high level.
-*   [pynacl (⭐981)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
+*   [pynacl (⭐1k)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 
 ### Database
 
-*   [pickleDB (⭐791)](https://github.com/patx/pickledb) - A simple and lightweight key-value store for Python.
-*   [tinydb (⭐5.9k)](https://github.com/msiemens/tinydb) - A tiny, document-oriented database.
-*   [ZODB (⭐612)](https://github.com/zopefoundation/ZODB) - A native object database for Python. A key-value and object graph database.
-
-### Database Drivers
-
-*   Asynchronous Clients
-    *   [motor (⭐2.2k)](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
-
-### Debugging Tools
-
-*   Tracing
-    *   [lptrace (⭐692)](https://github.com/khamidou/lptrace) - [strace](http://man7.org/linux/man-pages/man1/strace.1.html) for Python programs.
-    *   [manhole (⭐341)](https://github.com/ionelmc/python-manhole) - Debugging UNIX socket connections and present the stacktraces for all threads and an interactive prompt.
-    *   [pyringe (⭐1.6k)](https://github.com/google/pyringe) - Debugger capable of attaching to and injecting code into Python processes.
-    *   [python-hunter (⭐738)](https://github.com/ionelmc/python-hunter) - A flexible code tracing toolkit.
+*   [pickleDB (⭐850)](https://github.com/patx/pickledb) - A simple and lightweight key-value store for Python.
+*   [tinydb (⭐6.4k)](https://github.com/msiemens/tinydb) - A tiny, document-oriented database.
 
 ### Deep Learning
 
-*   [caffe (⭐33k)](https://github.com/BVLC/caffe) - A fast open framework for deep learning..
-*   [keras (⭐59k)](https://github.com/keras-team/keras) - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
-*   [mxnet (⭐20k)](https://github.com/dmlc/mxnet) - A deep learning framework designed for both efficiency and flexibility.
-*   [pytorch (⭐69k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
-*   [SerpentAI (⭐6.5k)](https://github.com/SerpentAI/SerpentAI) - Game agent framework. Use any video game as a deep learning sandbox.
-*   [tensorflow (⭐176k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
+*   [keras (⭐60k)](https://github.com/keras-team/keras) - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
+*   [pytorch (⭐75k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+*   [tensorflow (⭐181k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 
 ### Distributed Computing
 
 *   Batch Processing
-    *   [dask (⭐11k)](https://github.com/dask/dask) - A flexible parallel computing library for analytic computing.
+    *   [dask (⭐12k)](https://github.com/dask/dask) - A flexible parallel computing library for analytic computing.
     *   [luigi (⭐17k)](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
-    *   [mrjob (⭐2.6k)](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services.
-    *   [PySpark](https://pypi.org/project/pyspark/) - [Apache Spark](https://spark.apache.org/) Python API.
-    *   [Ray (⭐27k)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
+    *   [PySpark (⭐38k)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/) Python API.
+    *   [Ray (⭐30k)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
 *   Stream Processing
-    *   [faust (⭐6.6k)](https://github.com/robinhood/faust) - A stream processing library, porting the ideas from [Kafka Streams](https://kafka.apache.org/documentation/streams/) to Python.
+    *   [faust (⭐6.7k)](https://github.com/robinhood/faust) - A stream processing library, porting the ideas from [Kafka Streams](https://kafka.apache.org/documentation/streams/) to Python.
     *   [streamparse (⭐1.5k)](https://github.com/Parsely/streamparse) - Run Python code against real-time streams of data via [Apache Storm](http://storm.apache.org/).
 
 ### Documentation
 
-*   [pdoc (⭐1.6k)](https://github.com/mitmproxy/pdoc) - Epydoc replacement to auto generate API documentation for Python libraries.
-*   [pycco (⭐826)](https://github.com/pycco-docs/pycco) - The literate-programming-style documentation generator.
-
-### Downloader
-
-*   [you-get](https://you-get.org/) - A YouTube/Youku/Niconico video downloader written in Python 3.
-*   [youtube-dl](https://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.
+*   [pdoc (⭐1.8k)](https://github.com/mitmproxy/pdoc) - Epydoc replacement to auto generate API documentation for Python libraries.
 
 ### Editor Plugins and IDEs
 
 *   Emacs
-    *   [elpy (⭐1.8k)](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment.
+    *   [elpy (⭐1.9k)](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment.
 *   IDE
     *   [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE by JetBrains. Has free community edition available.
-    *   [spyder (⭐7.7k)](https://github.com/spyder-ide/spyder) - Open Source Python IDE.
+    *   [spyder (⭐8k)](https://github.com/spyder-ide/spyder) - Open Source Python IDE.
 
 ### GUI Development
 
-*   [Gooey (⭐18k)](https://github.com/chriskiehl/Gooey) - Turn command line programs into a full GUI application with one line.
+*   [Gooey (⭐20k)](https://github.com/chriskiehl/Gooey) - Turn command line programs into a full GUI application with one line.
 
 ### Miscellaneous
 
-*   [boltons (⭐6.2k)](https://github.com/mahmoud/boltons) - A set of pure-Python utilities.
+*   [boltons (⭐6.4k)](https://github.com/mahmoud/boltons) - A set of pure-Python utilities.
 *   [tryton](http://www.tryton.org/) - A general purpose business framework.
 
 ### Natural Language Processing
 
 *   Chinese
-    *   [funNLP (⭐52k)](https://github.com/fighting41love/funNLP) - A collection of tools and datasets for Chinese NLP.
-    *   [jieba (⭐31k)](https://github.com/fxsjy/jieba) - The most popular Chinese text segmentation library.
-    *   [pkuseg-python (⭐6.2k)](https://github.com/lancopku/pkuseg-python) - A toolkit for Chinese word segmentation in various domains.
-    *   [snownlp (⭐6.1k)](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
+    *   [funNLP (⭐62k)](https://github.com/fighting41love/funNLP) - A collection of tools and datasets for Chinese NLP.
+    *   [jieba (⭐32k)](https://github.com/fxsjy/jieba) - The most popular Chinese text segmentation library.
+    *   [pkuseg-python (⭐6.4k)](https://github.com/lancopku/pkuseg-python) - A toolkit for Chinese word segmentation in various domains.
+    *   [snownlp (⭐6.3k)](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
 
 ### Network Virtualization
 
-*   [mininet (⭐4.9k)](https://github.com/mininet/mininet) - A popular network emulator and API written in Python.
-*   [napalm (⭐2.1k)](https://github.com/napalm-automation/napalm) - Cross-vendor API to manipulate network devices.
+*   [mininet (⭐5.1k)](https://github.com/mininet/mininet) - A popular network emulator and API written in Python.
+*   [napalm (⭐2.2k)](https://github.com/napalm-automation/napalm) - Cross-vendor API to manipulate network devices.
 
 ### ORM
 
 *   Relational Databases
     *   [Django Models](https://docs.djangoproject.com/en/dev/topics/db/models/) - The Django ORM.
     *   [SQLAlchemy](https://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper.
-        *   [awesome-sqlalchemy (⭐2.6k)](https://github.com/dahlia/awesome-sqlalchemy)
-    *   [dataset (⭐4.6k)](https://github.com/pudo/dataset) - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
+        *   [awesome-sqlalchemy (⭐2.7k)](https://github.com/dahlia/awesome-sqlalchemy)
+    *   [dataset (⭐4.7k)](https://github.com/pudo/dataset) - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
     *   [orator (⭐1.4k)](https://github.com/sdispater/orator) -  The Orator ORM provides a simple yet beautiful ActiveRecord implementation.
-    *   [orm (⭐1.7k)](https://github.com/encode/orm) - An async ORM.
-    *   [peewee (⭐10k)](https://github.com/coleifer/peewee) - A small, expressive ORM.
-    *   [pony (⭐3.3k)](https://github.com/ponyorm/pony/) - ORM that provides a generator-oriented interface to SQL.
-    *   [pydal (⭐454)](https://github.com/web2py/pydal/) - A pure Python Database Abstraction Layer.
+    *   [orm (⭐1.8k)](https://github.com/encode/orm) - An async ORM.
+    *   [peewee (⭐11k)](https://github.com/coleifer/peewee) - A small, expressive ORM.
+    *   [pony (⭐3.5k)](https://github.com/ponyorm/pony/) - ORM that provides a generator-oriented interface to SQL.
+    *   [pydal (⭐468)](https://github.com/web2py/pydal/) - A pure Python Database Abstraction Layer.
 
 ### Package Repositories
 
-*   [devpi (⭐713)](https://github.com/devpi/devpi) - PyPI server and packaging/testing/release tool.
+*   [devpi (⭐799)](https://github.com/devpi/devpi) - PyPI server and packaging/testing/release tool.
 
 ### Processes
 
@@ -257,38 +199,38 @@
 
 ### Recommender Systems
 
-*   [lightfm (⭐4.4k)](https://github.com/lyst/lightfm) - A Python implementation of a number of popular recommendation algorithms.
+*   [lightfm (⭐4.6k)](https://github.com/lyst/lightfm) - A Python implementation of a number of popular recommendation algorithms.
 *   [spotlight (⭐2.9k)](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch.
-*   [Surprise (⭐5.9k)](https://github.com/NicolasHug/Surprise) - A scikit for building and analyzing recommender systems.
-*   [tensorrec (⭐1.2k)](https://github.com/jfkirk/tensorrec) - A Recommendation Engine Framework in TensorFlow.
+*   [Surprise (⭐6.1k)](https://github.com/NicolasHug/Surprise) - A scikit for building and analyzing recommender systems.
+*   [tensorrec (⭐1.3k)](https://github.com/jfkirk/tensorrec) - A Recommendation Engine Framework in TensorFlow.
 
 ### Search
 
-*   [django-haystack (⭐3.4k)](https://github.com/django-haystack/django-haystack) - Modular search for Django.
-*   [pysolr (⭐641)](https://github.com/django-haystack/pysolr) - A lightweight Python wrapper for [Apache Solr](https://lucene.apache.org/solr/).
+*   [django-haystack (⭐3.5k)](https://github.com/django-haystack/django-haystack) - Modular search for Django.
+*   [pysolr (⭐658)](https://github.com/django-haystack/pysolr) - A lightweight Python wrapper for [Apache Solr](https://lucene.apache.org/solr/).
 *   [whoosh](http://whoosh.readthedocs.io/en/latest/) - A fast, pure Python search engine library.
 
 ### Serialization
 
-*   [marshmallow (⭐6.6k)](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
-*   [pysimdjson (⭐589)](https://github.com/TkTech/pysimdjson) - A Python bindings for [simdjson (⭐17k)](https://github.com/lemire/simdjson).
-*   [python-rapidjson (⭐481)](https://github.com/python-rapidjson/python-rapidjson) - A Python wrapper around [RapidJSON (⭐13k)](https://github.com/Tencent/rapidjson).
+*   [marshmallow (⭐6.8k)](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
+*   [pysimdjson (⭐625)](https://github.com/TkTech/pysimdjson) - A Python bindings for [simdjson (⭐18k)](https://github.com/lemire/simdjson).
+*   [python-rapidjson (⭐488)](https://github.com/python-rapidjson/python-rapidjson) - A Python wrapper around [RapidJSON (⭐14k)](https://github.com/Tencent/rapidjson).
 
 ### Specific Formats Processing
 
 *   PDF
-    *   [PDFMiner (⭐5k)](https://github.com/euske/pdfminer) - A tool for extracting information from PDF documents.
-    *   [PyPDF2 (⭐5.9k)](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
+    *   [PDFMiner (⭐5.2k)](https://github.com/euske/pdfminer) - A tool for extracting information from PDF documents.
+    *   [PyPDF2 (⭐7.1k)](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
     *   [ReportLab](https://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
 
 ### Static Site Generator
 
-*   [lektor (⭐3.7k)](https://github.com/lektor/lektor) - An easy to use static CMS and blog engine.
+*   [lektor (⭐3.8k)](https://github.com/lektor/lektor) - An easy to use static CMS and blog engine.
 *   [nikola (⭐2.5k)](https://github.com/getnikola/nikola) - A static website and blog generator.
 
 ### Tagging
 
-*   [django-taggit (⭐3.1k)](https://github.com/jazzband/django-taggit) - Simple tagging for Django.
+*   [django-taggit (⭐3.2k)](https://github.com/jazzband/django-taggit) - Simple tagging for Django.
 
 ### Template Engine
 
@@ -298,7 +240,7 @@
 
 *   Unique identifiers
     *   [hashids (⭐1.4k)](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
-    *   [shortuuid (⭐1.9k)](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
+    *   [shortuuid (⭐2k)](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 
 ### Video
 
@@ -308,23 +250,19 @@
 
 *   [django-compressor (⭐2.7k)](https://github.com/django-compressor/django-compressor) - Compresses linked and inline JavaScript or CSS into a single cached file.
 *   [django-pipeline (⭐1.5k)](https://github.com/jazzband/django-pipeline) - An asset packaging library for Django.
-*   [django-storages (⭐2.4k)](https://github.com/jschneier/django-storages) - A collection of custom storage back ends for Django.
+*   [django-storages (⭐2.6k)](https://github.com/jschneier/django-storages) - A collection of custom storage back ends for Django.
 *   [fanstatic](http://www.fanstatic.org/en/latest/) - Packages, optimizes, and serves static file dependencies as Python packages.
 *   [fileconveyor](http://wimleers.com/fileconveyor) - A daemon to detect and sync files to CDNs, S3 and FTP.
-*   [flask-assets (⭐439)](https://github.com/miracle2k/flask-assets) - Helps you integrate webassets into your Flask app.
-*   [webassets (⭐918)](https://github.com/miracle2k/webassets) - Bundles, optimizes, and manages unique cache-busting URLs for static resources.
+*   [flask-assets (⭐450)](https://github.com/miracle2k/flask-assets) - Helps you integrate webassets into your Flask app.
+*   [webassets (⭐919)](https://github.com/miracle2k/webassets) - Bundles, optimizes, and manages unique cache-busting URLs for static resources.
 
 ### Web Crawling
 
-*   [feedparser](https://pythonhosted.org/feedparser/) - Universal feed parser.
 *   [grab (⭐2.3k)](https://github.com/lorien/grab) - Site scraping framework.
-*   [MechanicalSoup (⭐4.4k)](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
-*   [robobrowser (⭐3.7k)](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
-*   [scrapy](https://scrapy.org/) - A fast high-level screen scraping and web crawling framework.
 
 ### WebSocket
 
-*   [autobahn-python (⭐2.4k)](https://github.com/crossbario/autobahn-python) - WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html).
+*   [autobahn-python (⭐2.5k)](https://github.com/crossbario/autobahn-python) - WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html).
 
 ## [6. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -911,12 +849,12 @@
 
 ### Machine Learning
 
-*   [anomalize (⭐334)](https://github.com/business-science/anomalize) - Tidy Anomaly Detection using Twitter's AnomalyDetection method.
+*   [anomalize (⭐335)](https://github.com/business-science/anomalize) - Tidy Anomaly Detection using Twitter's AnomalyDetection method.
 *   [L0Learn](https://cran.r-project.org/web/packages/L0Learn/index.html) - Fast algorithms for best subset selection
 
 ### Data Packages
 
-*   [gapminder (⭐276)](http://github.com/jennybc/gapminder) - Excerpt from the Gapminder dataset (data about countries through the past 50 years).
+*   [gapminder (⭐279)](http://github.com/jennybc/gapminder) - Excerpt from the Gapminder dataset (data about countries through the past 50 years).
 
 ## [31. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -1389,7 +1327,7 @@
 ### Hardware / Motor Controllers
 
 *   [grblShield (⭐131)](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
-*   [TinyG (⭐860)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
+*   [TinyG (⭐864)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
 *   [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC) - Raspberry Pi add-on board w/ stepper controllers and a microcontroller running grbl. Interfaces with the Pi's serial pins.
 
 ### Hardware / Accessories and Adapters
@@ -1407,31 +1345,31 @@
 *   [Chiplotle (⭐31)](https://github.com/drepetto/chiplotle) - Python library for generating HPGL and interfacing with serial plotters.
 *   [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) - HTML-based HPGL Reference.
 *   [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) - Scanned PDF manual that contains a full HPGL reference.
-*   [djipco/hpgl (⭐36)](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
+*   [djipco/hpgl (⭐37)](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
 *   [hp2xx](https://www.gnu.org/software/hp2xx) - GNU tool to convert HPGL into other vector and raster formats. Can also be used as a previewing in X11.
 *   [vec (⭐23)](https://github.com/anachrocomputer/vec) - Example C code for generating HPGL, with a turtle graphics interface.
 *   [d3-hpgl (⭐19)](https://github.com/aubergene/d3-hpgl) - An adapter for the HTML Canvas API so you can output HPGL using the popular [D3](https://d3js.org) library.
-*   [HPGL Viewer (⭐15)](https://github.com/drskullster/HPGLViewer) - An HPGL Viewer using JavaScript and HTML5 canvas.
+*   [HPGL Viewer (⭐16)](https://github.com/drskullster/HPGLViewer) - An HPGL Viewer using JavaScript and HTML5 canvas.
 *   [HPGL Sender (⭐9)](https://github.com/LgHS/hpgl-sender) - A web interface for previewing HPGL and sending it to your plotter.
 
 ### Software / G-code
 
-*   [grbl (⭐5.2k)](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
+*   [grbl (⭐5.3k)](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
 *   [cncjs (⭐2.1k)](https://github.com/cncjs/cncjs) - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
-*   [Universal-G-Code-Sender (⭐1.7k)](https://github.com/winder/Universal-G-Code-Sender) - Java-based grbl-compatible cross-platform G-code sender.
+*   [Universal-G-Code-Sender (⭐1.8k)](https://github.com/winder/Universal-G-Code-Sender) - Java-based grbl-compatible cross-platform G-code sender.
 *   [ChiliPeppr Hardware Fiddle](http://chilipeppr.com) - Modular web-based workspaces to visualize G-code and control hardware.
 
 ### Software / Plotter Control
 
 *   [axi (⭐266)](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
-*   [xy (⭐68)](https://github.com/fogleman/xy) - Utilities for the Makeblock XY Plotter Robot Kit.
+*   [xy (⭐69)](https://github.com/fogleman/xy) - Utilities for the Makeblock XY Plotter Robot Kit.
 *   [LaserGRBL (⭐1.1k)](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
-*   [PenPlotter (⭐113)](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware.
-*   [Makelangelo-firmware (⭐152)](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot.
+*   [PenPlotter (⭐114)](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware.
+*   [Makelangelo-firmware (⭐153)](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot.
 *   [RoboPaint (⭐124)](https://github.com/evil-mad/robopaint) - Software for the WaterColorBot.
 *   [AxiTurtle (⭐13)](https://github.com/ralphcrutzen/AxiTurtle) - Turtle graphics for AxiDraw in Processing.
-*   [GRBL-Plotter (⭐583)](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
-*   [saxi (⭐440)](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
+*   [GRBL-Plotter (⭐590)](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
+*   [saxi (⭐443)](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
 
 ### Software / Vector Creation
 
@@ -1439,16 +1377,16 @@
 *   [p5.js](https://p5js.org) - "JavaScript library that makes coding accessible for artists, designers, educators, and beginners".
 *   [Paper.js](http://paperjs.org) - "The Swiss Army Knife of Vector Graphics Scripting".
 *   [ln (⭐3.2k)](https://github.com/fogleman/ln) - Vector-based 3D renderer written in Go.
-*   [autotrace (⭐439)](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
-*   [stipplegen (⭐402)](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
-*   [SquiggleDraw (⭐306)](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
+*   [autotrace (⭐447)](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
+*   [stipplegen (⭐404)](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
+*   [SquiggleDraw (⭐308)](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
 *   [svgurt](https://svgurt.com) - Web-based PNG to SVG creative noodler.
 *   [maptrace (⭐122)](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images.
-*   [Drawbot\_image\_to\_gcode\_v2 (⭐151)](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots.
-*   [blackstripes (⭐91)](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing.
+*   [Drawbot\_image\_to\_gcode\_v2 (⭐155)](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots.
+*   [blackstripes (⭐92)](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing.
 *   [Ribbon (⭐239)](https://github.com/fogleman/ribbon) - Ribbon diagrams of proteins in written in Go.
 *   [penplot (⭐264)](https://github.com/mattdesl/penplot) - A development environment for plotter art in JavaScript.
-*   [penkit (⭐134)](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
+*   [penkit (⭐135)](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
 *   [generativeExamples (⭐61)](https://github.com/digitalcoleman/generativeExamples) - Example Processing code that generates plottable PDFs.
 *   [Let's make map](https://svg-exporter.netlify.com) - Web-based tool to export an SVG map from Mapzen tiles.
 *   [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - A generative line art web app.
@@ -1458,17 +1396,17 @@
 
 ### Software / Vector Utilities
 
-*   [svgsort (⭐242)](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up.
+*   [svgsort (⭐244)](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up.
 *   [svgo (⭐20k)](https://github.com/svg/svgo) - Node.js-based tool for optimizing SVG files.
 *   [Polargraph Optimizer (⭐57)](https://github.com/ezheidtmann/polargraph-optimizer) - Optimize drawing plan for a polargraph.
-*   [penkit-optimize (⭐134)](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time.
-*   [svg-crowbar (⭐840)](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document.
+*   [penkit-optimize (⭐135)](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time.
+*   [svg-crowbar (⭐839)](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document.
 
 ### Software / Fonts
 
 *   [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - Good information and links to other resources and fonts.
 *   [Hershey Vector Font](http://paulbourke.net/dataformats/hershey) - `.fnt` format of vector fonts from the 60s. Includes a good overview of the original data format of the fonts.
-*   [hershey-fonts (⭐50)](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
+*   [hershey-fonts (⭐52)](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -1617,29 +1555,29 @@
 
 ### Programming Languages
 
-*   [Q# (⭐149)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
+*   [Q# (⭐151)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
 
 ### Front-End Development
 
-*   [CSS (⭐4.7k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+*   [CSS (⭐4.8k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
     *   [Critical-Path Tools (⭐1.1k)](https://github.com/addyosmani/critical-path-css-tools#readme)
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
     *   [Must-Watch Talks (⭐4.6k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
     *   [Protips (⭐27k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐6.8k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Frameworks (⭐7k)](https://github.com/troxler/awesome-css-frameworks#readme)
 
 ### Gaming
 
-*   [PICO-8 (⭐2.4k)](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
-*   [Minecraft (⭐367)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+*   [PICO-8 (⭐2.5k)](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
+*   [Minecraft (⭐380)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
 
 ### Databases
 
-*   [NoSQL Guides (⭐233)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
+*   [NoSQL Guides (⭐238)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 
 ### Learn
 
-*   [CSS Learning (⭐3.2k)](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
+*   [CSS Learning (⭐3.3k)](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
 
 ### Decentralized Systems
 
@@ -1647,9 +1585,9 @@
 
 ### Miscellaneous
 
-*   [Board Games (⭐265)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
+*   [Board Games (⭐279)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
 *   [Scientific Computing (⭐1.2k)](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
-*   [Amazon Sellers (⭐271)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
+*   [Amazon Sellers (⭐277)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 
 ## [57. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -1721,7 +1659,7 @@
 
 ### Configuration
 
-*   [Sail (⭐507)](https://github.com/vinistock/sail) - A lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app.
+*   [Sail (⭐506)](https://github.com/vinistock/sail) - A lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app.
 
 ### Documentation
 
@@ -1741,11 +1679,11 @@
 
 ### Networking
 
-*   [Dnsruby (⭐193)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
+*   [Dnsruby (⭐195)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
 
 ### PDF
 
-*   [InvoicePrinter (⭐863)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
+*   [InvoicePrinter (⭐866)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
 
 ### Queues and Messaging
 

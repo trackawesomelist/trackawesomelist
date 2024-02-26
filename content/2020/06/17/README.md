@@ -105,7 +105,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Family Accounting Tool (⭐166)](https://github.com/nymanjens/facto) - Web-based finance management tool for partners with partially shared expenses. `Apache-2.0` `Scala`
+*   [Family Accounting Tool (⭐168)](https://github.com/nymanjens/facto) - Web-based finance management tool for partners with partially shared expenses. `Apache-2.0` `Scala`
 
 ### Software / Note-taking & Editors
 

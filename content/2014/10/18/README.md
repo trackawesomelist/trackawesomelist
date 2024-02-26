@@ -29,7 +29,7 @@
 
 ### Algorithms and Data structures
 
-*   [fsm (⭐354)](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
+*   [fsm (⭐356)](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
 *   [key2value (⭐7)](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
 *   [lfsr (⭐8)](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
 *   [trie (⭐130)](https://github.com/okeuday/trie) - Erlang Trie Implementation.
@@ -69,7 +69,7 @@
 
 ### Images
 
-*   [mogrify (⭐547)](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
+*   [mogrify (⭐551)](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
 
 ### Miscellaneous
 
@@ -92,13 +92,13 @@
 
 ### Statistics
 
-*   [statistics (⭐135)](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
+*   [statistics (⭐136)](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
 
 ### Text and Numbers
 
 *   [dicer (⭐4)](https://github.com/olhado/dicer) - A dice roller expression evaluator.
-*   [quickrand (⭐43)](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
-*   [uuid\_erl (⭐214)](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
+*   [quickrand (⭐42)](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
+*   [uuid\_erl (⭐213)](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
 
 ### Third Party APIs
 

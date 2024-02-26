@@ -11,7 +11,7 @@
 ### Data Formats
 
 *   [geoip2.cr (⭐15)](https://github.com/delef/geoip2.cr) - GeoIP2 reader
-*   [maxminddb.cr (⭐24)](https://github.com/delef/maxminddb.cr) - MaxMindDB reader
+*   [maxminddb.cr (⭐23)](https://github.com/delef/maxminddb.cr) - MaxMindDB reader
 
 ## [2. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Music Programming
 
-*   [Orca (⭐4.3k)](https://github.com/hundredrabbits/Orca) - live programming environment for music.
+*   [Orca (⭐4.4k)](https://github.com/hundredrabbits/Orca) - live programming environment for music.
 
 ## [5. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -341,13 +341,13 @@
 ### GDScript/C# editor support / Godot version unknown
 
 *   [Atom](https://atom.io/packages/lang-gdscript) - Syntax highlighting.
-*   [Geany (⭐20)](https://github.com/haimat/GDScript-Geany) - Syntax highlighting.
+*   [Geany (⭐21)](https://github.com/haimat/GDScript-Geany) - Syntax highlighting.
 *   [Gedit (⭐17)](https://github.com/haimat/GDScript-gedit) - Syntax highlighting.
 *   [Sublime Text (⭐67)](https://github.com/beefsack/GDScript-sublime) - Syntax highlighting.
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [base16-godot (⭐30)](https://github.com/Calinou/base16-godot) - All [base16 (⭐394)](https://github.com/chriskempson/base16) themes.
+*   [base16-godot (⭐30)](https://github.com/Calinou/base16-godot) - All [base16 (⭐411)](https://github.com/chriskempson/base16) themes.
 
 ## [29. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -377,7 +377,7 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_shortuuid (⭐28)](https://github.com/gpedic/ecto_shortuuid) - Ecto type which adds support for [ShortUUIDs (⭐39)](https://github.com/gpedic/ex_shortuuid).
+*   [ecto\_shortuuid (⭐27)](https://github.com/gpedic/ecto_shortuuid) - Ecto type which adds support for [ShortUUIDs (⭐41)](https://github.com/gpedic/ex_shortuuid).
 
 ## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -425,7 +425,7 @@
 
 ### Reading and Writing Tools / Markdown Tools
 
-*   [MarkText (⭐43k)](https://github.com/marktext/marktext) - Next generation markdown editor, running on platforms of MacOS Windows and Linux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/marktext/marktext) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MarkText (⭐44k)](https://github.com/marktext/marktext) - Next generation markdown editor, running on platforms of MacOS Windows and Linux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/marktext/marktext) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Reading and Writing Tools / Others
 
@@ -520,7 +520,7 @@
 *   [mpv](https://www.mpv.io/) - Free, open-source, and cross-platform media player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mpv-player/mpv) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MuseScore](https://musescore.org/) - Free, open-source music notation software. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/musescore/MuseScore) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Perian](http://perian.org/#download) - (**No longer under active development**) ~~Let QuickTime play all the common formats of free plug-ins~~. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MaddTheSane/perian)
-*   [Sonora (⭐936)](https://github.com/sonoramac/Sonora) -  Minimal, beautifully designed music player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/sonoramac/Sonora)
+*   [Sonora (⭐934)](https://github.com/sonoramac/Sonora) -  Minimal, beautifully designed music player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/sonoramac/Sonora)
 *   [Stringed 2](http://stringed.buenosapps.com/) - Music practice software designed to help users learn how to play their favorite songs.
 *   [Synfig Studio](http://synfig.org) - Synfig Studio is free, open-source 2D animation software. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/synfig/synfig) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [VLC](http://www.videolan.org/index.html) - Free, open-source, cross-platform multimedia player as well as framework that plays most multimedia files, DVDs, Audio CDs, VCDs and various streaming protocols. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/videolan/vlc)
@@ -552,7 +552,7 @@
 
 *   [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 *   [RescueTime](https://www.rescuetime.com/) - Personal analytics service that shows you how you spend your time and provides tools to help you be more productive.
-*   [skhd (⭐5.1k)](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/skhd)
+*   [skhd (⭐5.2k)](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/skhd)
 *   [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
 
 ### Utilities / Window Management

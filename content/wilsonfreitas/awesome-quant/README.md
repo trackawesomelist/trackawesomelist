@@ -6,6 +6,42 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 [ Daily / [Weekly](/content/wilsonfreitas/awesome-quant/week/README.md) / [Overview](/content/wilsonfreitas/awesome-quant/readme/README.md) ]
 
+## [Feb 23, 2024](/content/2024/02/23/README.md)
+
+### Python / Financial Instruments and Pricing
+
+*   [rateslib (⭐48)](https://github.com/attack68/rateslib) - A fixed income library for pricing bonds and bond futures, and derivatives such as IRS, cross-currency and FX swaps.
+
+### Python / Risk Analysis
+
+*   [empyrical-reloaded (⭐36)](https://github.com/stefan-jansen/empyrical-reloaded) - Common financial risk and performance metrics. [empyrical (⭐1.2k)](https://github.com/quantopian/empyrical) fork.
+*   [pyfolio-reloaded (⭐258)](https://github.com/stefan-jansen/pyfolio-reloaded) - Portfolio and risk analytics in Python. [pyfolio (⭐5.3k)](https://github.com/quantopian/pyfolio) fork.
+
+### R / Financial Instruments and Pricing
+
+*   [RQuantLib (⭐114)](https://github.com/eddelbuettel/rquantlib) - RQuantLib connects GNU R with QuantLib.
+
+### Java / FrameWorks
+
+*   [JQuantLib (⭐116)](https://github.com/frgomes/jquantlib) - JQuantLib is a free, open-source, comprehensive framework for quantitative finance, written in 100% Java.
+
+### Frameworks / Data Visualization
+
+*   [QuantLib (⭐4.7k)](https://github.com/lballabio/QuantLib) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
+    *   [JQuantLib (⭐116)](https://github.com/frgomes/jquantlib) - Java port.
+    *   [RQuantLib (⭐114)](https://github.com/eddelbuettel/rquantlib) - R port.
+    *   [QuantLibAddin](https://www.quantlib.org/quantlibaddin/) - Excel support.
+    *   [QuantLibXL](https://www.quantlib.org/quantlibxl/) - Excel support.
+    *   [QLNet (⭐360)](https://github.com/amaggiulli/qlnet) - .Net port.
+    *   [PyQL (⭐891)](https://github.com/enthought/pyql) - Python port.
+    *   [QuantLib.jl (⭐134)](https://github.com/pazzo83/QuantLib.jl) - Julia port.
+    *   [QuantLib-Python Documentation](https://quantlib-python-docs.readthedocs.io/) - Documentation for the Python bindings for the QuantLib library
+    *   [QuantLib with Automatic Differention enabled (⭐12)](https://github.com/auto-differentiation/quantlib-xad) - Integration of Automatic Differentiation with the QuantLib library
+
+### Reproducing Works, Training & Books / Data Visualization
+
+*   [book\_irds3 (⭐36)](https://github.com/attack68/book_irds3) - Code repository for Pricing and Trading Interest Rate Derivatives.
+
 ## [Feb 08, 2024](/content/2024/02/08/README.md)
 
 ### Python / Trading & Backtesting
@@ -438,19 +474,6 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
     *   [fExoticOptions](https://cran.r-project.org/web/packages/fExoticOptions/index.html) - Exotic Option Valuation.
     *   [fOptions](https://cran.r-project.org/web/packages/fOptions/index.html) - Pricing and Evaluating Basic Options.
     *   [fPortfolio](https://cran.r-project.org/web/packages/fPortfolio/index.html) - Portfolio Selection and Optimization.
-
-### Frameworks / Data Visualization
-
-*   [QuantLib](https://www.quantlib.org) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
-    *   [JQuantLib](http://www.jquantlib.org) - Java port.
-    *   [RQuantLib](http://dirk.eddelbuettel.com/code/rquantlib.html) - R port.
-    *   [QuantLibAddin](https://www.quantlib.org/quantlibaddin/) - Excel support.
-    *   [QuantLibXL](https://www.quantlib.org/quantlibxl/) - Excel support.
-    *   [QLNet (⭐360)](https://github.com/amaggiulli/qlnet) - .Net port.
-    *   [PyQL (⭐891)](https://github.com/enthought/pyql) - Python port.
-    *   [QuantLib.jl (⭐134)](https://github.com/pazzo83/QuantLib.jl) - Julia port.
-    *   [QuantLib-Python Documentation](https://quantlib-python-docs.readthedocs.io/) - Documentation for the Python bindings for the QuantLib library
-    *   [QuantLib with Automatic Differention enabled (⭐12)](https://github.com/auto-differentiation/quantlib-xad) - Integration of Automatic Differentiation with the QuantLib library
 
 ### Reproducing Works, Training & Books / Data Visualization
 
@@ -1060,10 +1083,6 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 *   [statsmodels](http://statsmodels.sourceforge.net) - Python module that allows users to explore data, estimate statistical models, and perform statistical tests.
 
-### R / Financial Instruments and Pricing
-
-*   [RQuantLib](http://dirk.eddelbuettel.com/code/rquantlib.html) - RQuantLib connects GNU R with QuantLib.
-
 ### R / Calendars
 
 *   [timeDate](https://cran.r-project.org/web/packages/timeDate/index.html) - Chronological and Calendar Objects
@@ -1071,10 +1090,6 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 ### Julia / FrameWorks
 
 *   [QuantLib.jl (⭐134)](https://github.com/pazzo83/QuantLib.jl) - Quantlib implementation in pure Julia.
-
-### Java / FrameWorks
-
-*   [JQuantLib](http://www.jquantlib.org) - JQuantLib is a free, open-source, comprehensive framework for quantitative finance, written in 100% Java.
 
 ### Reproducing Works, Training & Books / Data Visualization
 

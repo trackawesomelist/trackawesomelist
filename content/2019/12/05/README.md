@@ -29,7 +29,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐3.8k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP/Docker`
+*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐3.9k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP/Docker`
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

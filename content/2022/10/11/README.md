@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 11, 2022
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -37,13 +37,13 @@
 
 ### Android / Multiplatform
 
-*   [Reedyuk/blue-falcon (⭐293)](https://github.com/Reedyuk/blue-falcon) - A unified Bluetooth library for Android and iOS.
+*   [Reedyuk/blue-falcon (⭐295)](https://github.com/Reedyuk/blue-falcon) - A unified Bluetooth library for Android and iOS.
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Goroutines
 
-*   [go-actor (⭐97)](https://github.com/vladopajic/go-actor) - A tiny library for writing concurrent programs using actor model.
+*   [go-actor (⭐101)](https://github.com/vladopajic/go-actor) - A tiny library for writing concurrent programs using actor model.
 
 ## [7. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -59,12 +59,12 @@
 
 ### Templates / Electron
 
-*   [Vitron (⭐13)](https://github.com/tada5hi/vitron) - Build beautiful (win, linux, mac) desktop apps for modern web projects with vite and electron.
+*   [Vitron (⭐12)](https://github.com/tada5hi/vitron) - Build beautiful (win, linux, mac) desktop apps for modern web projects with vite and electron.
 
 ### Framework-agnostic Plugins / Helpers
 
 *   [vite-plugin-patch-env (⭐8)](https://github.com/KeJunMao/vite-plugin-patch-env) - Patch environment variables from the system into Vite.
-*   [vite-plugin-conditional-compile (⭐52)](https://github.com/KeJunMao/vite-plugin-conditional-compile) - Conditional compilation syntax based on environment variables.
+*   [vite-plugin-conditional-compile (⭐54)](https://github.com/KeJunMao/vite-plugin-conditional-compile) - Conditional compilation syntax based on environment variables.
 
 ## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -86,13 +86,13 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [activeWorkflow (⭐777)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents (using Rails 6.0).
+*   [activeWorkflow (⭐785)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents (using Rails 6.0).
 *   [airCasting (⭐59)](https://github.com/HabitatMap/AirCasting) - A platform for recording, mapping, and sharing health and environmental data using your smartphone (using Rails 6.1). - [:earth\_africa:](https://www.habitatmap.org/aircasting)
-*   [alaveteli (⭐375)](https://github.com/mysociety/alaveteli) - A platform for making public freedom of information requests - using Rails 7.0 - [:earth\_africa:](https://alaveteli.org)
-*   [api.rss (⭐344)](https://github.com/davidesantangelo/api.rss) - A RSS feed conversion (to API) app (using Rails 6.0).
-*   [autolab (⭐721)](https://github.com/autolab/Autolab) - A course management app (using Rails 6.0). - [:earth\_africa:](https://autolabproject.com/)
+*   [alaveteli (⭐378)](https://github.com/mysociety/alaveteli) - A platform for making public freedom of information requests - using Rails 7.0 - [:earth\_africa:](https://alaveteli.org)
+*   [api.rss (⭐345)](https://github.com/davidesantangelo/api.rss) - A RSS feed conversion (to API) app (using Rails 6.0).
+*   [autolab (⭐722)](https://github.com/autolab/Autolab) - A course management app (using Rails 6.0). - [:earth\_africa:](https://autolabproject.com/)
 *   [beatstream (⭐126)](https://github.com/Darep/Beatstream) - A music streaming app - using Rails 3.2
-*   [bike\_index (⭐257)](https://github.com/bikeindex/bike_index) - A bike registry tracking app (using Rails 6.0). - [:earth\_africa:](https://bikeindex.org)
+*   [bike\_index (⭐259)](https://github.com/bikeindex/bike_index) - A bike registry tracking app (using Rails 6.0). - [:earth\_africa:](https://bikeindex.org)
 *   [calagator (⭐428)](https://github.com/calagator/calagator) - A community calendaring app (using Rails 5.2).
 *   [campo (⭐443)](https://github.com/chloerei/campo) - A forum app (using Rails 4.1).
 *   [chatwoot (⭐18k)](https://github.com/chatwoot/chatwoot) - A simple and elegant live chat software (using Rails 6.1).
@@ -101,10 +101,10 @@
 *   [crabgrass-core](https://0xacab.org/liberate/crabgrass) - A collaboration platform for activist groups (using Rails 5.2).
 *   [crowdtiltOpen (⭐597)](https://github.com/Crowdtilt/CrowdtiltOpen) - A crowdfunding platform - using Rails 6.1
 *   [cw-ovp (⭐26)](https://github.com/x1wins/CW-OVP) - video packaging to \*.m3u8 for HLS (HTTP Live Streaming) with FFMPEG on website (using Rails 6.0).
-*   [danbooru (⭐2k)](https://github.com/danbooru/danbooru) - A taggable image board app (using Rails 7.0).
+*   [danbooru (⭐2.1k)](https://github.com/danbooru/danbooru) - A taggable image board app (using Rails 7.0).
 *   [dgidb (⭐93)](https://github.com/dgidb/dgidb) - A drug gene interaction platform - using Rails 6.0
 *   [diaspora (⭐13k)](https://github.com/diaspora/diaspora) - A social networking app - using Rails 6.1 - [:earth\_africa:](https://diasporafoundation.org)
-*   [discourse (⭐39k)](https://github.com/discourse/discourse) - A platform for community discussion (using Rails 7.0). - [:earth\_africa:](https://try.discourse.org/)
+*   [discourse (⭐40k)](https://github.com/discourse/discourse) - A platform for community discussion (using Rails 7.0). - [:earth\_africa:](https://try.discourse.org/)
 *   [ekylibre (⭐393)](https://github.com/ekylibre/ekylibre) - A farm management app (using Rails 5.0).
 *   [expertiza (⭐179)](https://github.com/expertiza/expertiza) - A learning material sharing app (using Rails 5.1).
 *   [fairmondo (⭐109)](https://github.com/fairmondo/fairmondo) - A marketplace app (using Rails 5.1). - [:earth\_africa:](https://www.fairmondo.de)
@@ -112,19 +112,19 @@
 *   [feedbin (⭐3.3k)](https://github.com/feedbin/feedbin) - A RSS reader app (using Rails 7.0). - [:earth\_africa:](https://feedbin.com)
 *   [forem (⭐21k)](https://github.com/forem/forem) - Social platform app specialized for web development (using Rails 7.0). - [:earth\_africa:](https://www.forem.com)
 *   [fromthepage (⭐166)](https://github.com/benwbrum/fromthepage) - A wiki-like app for crowdsourcing transcription of handwritten documents (using Rails 6.0). - [:earth\_africa:](https://www.fromthepage.com/)
-*   [gitlabhq (⭐23k)](https://github.com/gitlabhq/gitlabhq) - A code collaboration app (using Rails 6.1).
+*   [gitlabhq (⭐24k)](https://github.com/gitlabhq/gitlabhq) - A code collaboration app (using Rails 6.1).
 *   [growstuff (⭐415)](https://github.com/Growstuff/growstuff) - A data management app for food gardeners (using Rails 6.1). - [:earth\_africa:](https://www.growstuff.org/)
-*   [hackershare (⭐535)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers (using Rails 7.0). - [:earth\_africa:](https://hackershare.dev/en)
-*   [hitobito (⭐331)](https://github.com/hitobito/hitobito) - An event organization app (using Rails 6.1). - [:earth\_africa:](https://hitobito.com/en)
-*   [inaturalist (⭐607)](https://github.com/inaturalist/inaturalist) - A community app for nature and related stuff (using Rails 6.1). - [:earth\_africa:](https://www.inaturalist.org)
+*   [hackershare (⭐540)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers (using Rails 7.0). - [:earth\_africa:](https://hackershare.dev/en)
+*   [hitobito (⭐333)](https://github.com/hitobito/hitobito) - An event organization app (using Rails 6.1). - [:earth\_africa:](https://hitobito.com/en)
+*   [inaturalist (⭐609)](https://github.com/inaturalist/inaturalist) - A community app for nature and related stuff (using Rails 6.1). - [:earth\_africa:](https://www.inaturalist.org)
 *   [lobsters (⭐3.9k)](https://github.com/lobsters/lobsters) - A link aggregation app (using Rails 7.0). - [:earth\_africa:](https://lobste.rs)
 *   [loomio (⭐2.3k)](https://github.com/loomio/loomio) - A collaborative decision-making app (using Rails 6.1). - [:earth\_africa:](https://www.loomio.com/)
-*   [openFarm (⭐1.4k)](https://github.com/openfarmcc/OpenFarm) - A database for information about farming and gardening (using Rails 5.2). -
+*   [openFarm (⭐1.5k)](https://github.com/openfarmcc/OpenFarm) - A database for information about farming and gardening (using Rails 5.2). -
 *   [openproject (⭐7.9k)](https://github.com/opf/openproject) - A project management app (using Rails 7.0). - [:earth\_africa:](https://www.openproject.org)
 *   [openstreetmap-website (⭐2k)](https://github.com/openstreetmap/openstreetmap-website) - A map viewing app (using Rails 7.0). - [:earth\_africa:](https://www.openstreetmap.org)
 *   [otwarchive (⭐1.2k)](https://github.com/otwcode/otwarchive) - A social networking app for fans - using Rails 6.0 - [:earth\_africa:](https://archiveofourown.org)
-*   [passwordPusher (⭐1.5k)](https://github.com/pglombardo/PasswordPusher) - A password delivery app (using Rails 6.1). - [:earth\_africa:](https://pwpush.com)
-*   [planningalerts-app (⭐86)](https://github.com/openaustralia/planningalerts) - A planned applications tracking app (using Rails 6.1). - [:earth\_africa:](https://www.planningalerts.org.au)
+*   [passwordPusher (⭐1.6k)](https://github.com/pglombardo/PasswordPusher) - A password delivery app (using Rails 6.1). - [:earth\_africa:](https://pwpush.com)
+*   [planningalerts-app (⭐87)](https://github.com/openaustralia/planningalerts) - A planned applications tracking app (using Rails 6.1). - [:earth\_africa:](https://www.planningalerts.org.au)
 *   [popHealth (⭐126)](https://github.com/pophealth/popHealth) - A population health reporting app (using Rails 4.1).
 *   [publify (⭐1.8k)](https://github.com/publify/publify) - A blogging app (using Rails 6.1).
 *   [quant (⭐138)](https://github.com/jdjkelly/quant) - A personal health tracker (using Rails 4.1).
@@ -148,52 +148,29 @@
 
 *   [Auditing: Active Learning with Outcome-Dependent Query Costs](https://www.cs.bgu.ac.il/~sabatos/papers/SabatoSarwate13.pdf) - (NIPS) *Learns from a binary classifier paying only for negative labels.*
 
-## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Blockchain
-
-*   [chain.courses](https://web.archive.org/web/20220127020549/https://chain.courses/) - James Gan, Rishub Kumar *(:card\_file\_box: archived)*
-
-### Machine Learning
-
-*   [Foundations of Machine Learning, Second Edition](https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/Cover) - Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar
-
-### Mathematics
-
-*   [Category Theory for the Sciences](https://math.mit.edu/~dspivak/CT4S.pdf) - David I. Spivak (PDF)
-*   [Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) - Charles M. Grinstead, J. Laurie Snell (PDF)
-
-### Parallel Programming
-
-*   [High Performance Computing Training](https://hpc.llnl.gov/documentation/tutorials) (LLNL materials)
-
-### Security & Privacy
-
-*   [The Joy of Cryptography (2021)](https://joyofcryptography.com/pdf/book.pdf) - Mike Rosulek (PDF)
-
-## [15. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
+## [14. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 
 ### Software as a service:
 
 *   [CiviWiki](https://civi.wiki/) - An open-source, non-profit community, working to develop a democratic engagement web system.
 
-## [16. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [tchatche.rs (⭐156)](https://github.com/nag763/tchatchers) - A Websocket chat based application built in Yew and Axum.
+*   [tchatche.rs (⭐160)](https://github.com/nag763/tchatchers) - A Websocket chat based application built in Yew and Axum.
 
 ### Crates / Utils
 
-*   [Yew-Template (⭐37)](https://github.com/INSAgenda/yew-template) - A crate for separating HTML and Rust code when using Yew.
+*   [Yew-Template (⭐38)](https://github.com/INSAgenda/yew-template) - A crate for separating HTML and Rust code when using Yew.
 
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Clipboard Tools
 
 *   [Pure Paste](https://sindresorhus.com/pure-paste) - Paste as plain text by default. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1611378436)
 
-## [18. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [17. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Books / Visualization Tools
 

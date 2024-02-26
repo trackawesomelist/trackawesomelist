@@ -42,7 +42,7 @@
 
 ### CLI
 
-*   [PDCurses (⭐962)](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. \[PublicDomain]
+*   [PDCurses (⭐964)](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. \[PublicDomain]
 
 ## [7. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

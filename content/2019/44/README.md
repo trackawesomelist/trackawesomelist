@@ -30,19 +30,7 @@
 
 ### Serialization
 
-*   [ultrajson (⭐4.1k)](https://github.com/esnme/ultrajson) - A fast JSON decoder and encoder written in C with Python bindings.
-
-### Web Frameworks
-
-*   Synchronous
-    *   [Django](https://www.djangoproject.com/) - The most popular web framework in Python.
-        *   [awesome-django (⭐1.2k)](https://github.com/shahraizali/awesome-django)
-        *   [awesome-django (⭐7.2k)](https://github.com/wsvincent/awesome-django)
-    *   [Flask](http://flask.pocoo.org/) - A microframework for Python.
-        *   [awesome-flask (⭐11k)](https://github.com/humiaozuzu/awesome-flask)
-    *   [Pyramid](https://pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
-        *   [awesome-pyramid (⭐540)](https://github.com/uralbash/awesome-pyramid)
-    *   [Masonite (⭐2k)](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework.
+*   [ultrajson (⭐4.2k)](https://github.com/esnme/ultrajson) - A fast JSON decoder and encoder written in C with Python bindings.
 
 ## [4. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
@@ -154,7 +142,7 @@
 
 ### Other
 
-*   [Fragment (⭐165)](https://github.com/rezaali/fragment) \[Mac]- App to live code GLSL graphics.
+*   [Fragment (⭐166)](https://github.com/rezaali/fragment) \[Mac]- App to live code GLSL graphics.
 
 ## [14. Awesome Imba](/content/koolamusic/awesome-imba/week/README.md)
 
@@ -462,7 +450,7 @@
 
 ### Apps / Widgets
 
-*   [wagtail-leaflet-widget (⭐20)](https://github.com/icpac-igad/wagtail-leaflet-widget) - A Leaflet JS - OSM based wagtail geo-location widget.
+*   [wagtail-leaflet-widget (⭐21)](https://github.com/icpac-igad/wagtail-leaflet-widget) - A Leaflet JS - OSM based wagtail geo-location widget.
 
 ## [40. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
@@ -538,13 +526,9 @@
 
 *   [FHEM](https://fhem.de/fhem.html) - FHEM is used to automate common tasks in the household like switching lamps and heating. It can also be used to log events like temperature or power consumption. You can control it via web or smartphone frontends, telnet or TCP/IP directly. ([Source Code](https://svn.fhem.de/trac)) `GPL-3.0` `Perl`
 
-### Software / Miscellaneous
-
-*   [Journal (⭐350)](https://github.com/inoda/journal) - Simple journaling with encrypted entries and sharing capabilities. `MIT` `Ruby/Docker`
-
 ### Software / Money, Budgeting & Management
 
-*   [OnTrack (⭐765)](https://github.com/inoda/ontrack) - A simple app to track spend and set goals. `MIT` `Ruby/Nodejs`
+*   [OnTrack (⭐768)](https://github.com/inoda/ontrack) - A simple app to track spend and set goals. `MIT` `Ruby/Nodejs`
 
 ## [45. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -588,11 +572,11 @@
 
 ### Table of Contents / Navigation
 
-*   [Menu (⭐713)](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
+*   [Menu (⭐716)](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
 
 ### Table of Contents / Strings
 
-*   [Portable UTF-8 (⭐496)](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
+*   [Portable UTF-8 (⭐495)](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
 
 ## [49. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
@@ -716,7 +700,7 @@
 
 ### C bindings
 
-*   [clang.cr (⭐47)](https://github.com/crystal-lang/clang.cr) - Libclang bindings
+*   [clang.cr (⭐46)](https://github.com/crystal-lang/clang.cr) - Libclang bindings
 
 ### CLI Builders
 
@@ -3824,11 +3808,11 @@
 
 ### Applications / Text processing
 
-*   [phiresky/ripgrep-all (⭐6k)](https://github.com/phiresky/ripgrep-all) — ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+*   [phiresky/ripgrep-all (⭐6.1k)](https://github.com/phiresky/ripgrep-all) — ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
 ### Development tools / Web Servers
 
-*   [scriptisto (⭐444)](https://github.com/igor-petruk/scriptisto) A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
+*   [scriptisto (⭐581)](https://github.com/igor-petruk/scriptisto) A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
 
 ## [69. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 

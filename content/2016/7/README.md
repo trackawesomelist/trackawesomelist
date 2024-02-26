@@ -105,7 +105,7 @@
 
 ### Command-Line Productivity
 
-*   [k (⭐1.7k)](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
+*   [k (⭐1.8k)](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 
 ## [9. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -350,8 +350,8 @@
 
 ### Libraries
 
-*   [JSON-java (⭐4.2k)](https://github.com/stleary/JSON-java) - A reference implementation.
-*   [PL/JSON (⭐403)](https://github.com/pljson/pljson) - A generic JSON object written in PL/SQL.
+*   [JSON-java (⭐4.4k)](https://github.com/stleary/JSON-java) - A reference implementation.
+*   [PL/JSON (⭐429)](https://github.com/pljson/pljson) - A generic JSON object written in PL/SQL.
 
 ### JSON Schema Frontend components
 
@@ -361,15 +361,15 @@
 
 ### Authentication
 
-*   [goth (⭐269)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
+*   [goth (⭐271)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
 
 ### Examples and funny stuff
 
-*   [kaisuu (⭐68)](https://github.com/SebastianSzturo/kaisuu) - Watch Japan's Kanji Usage on Twitter in Realtime.
+*   [kaisuu (⭐67)](https://github.com/SebastianSzturo/kaisuu) - Watch Japan's Kanji Usage on Twitter in Realtime.
 
 ### Third Party APIs
 
-*   [stripity\_stripe (⭐886)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
+*   [stripity\_stripe (⭐902)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 
 ### Editors
 

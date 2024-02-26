@@ -48,7 +48,7 @@
 
 ### Android / Libraries
 
-*   [Blueprint (⭐88)](https://github.com/popovanton0/Blueprint) - 📐 A library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
+*   [Blueprint (⭐90)](https://github.com/popovanton0/Blueprint) - 📐 A library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Game Development
 
-*   [Raylib-cr (⭐60)](https://github.com/sol-vin/raylib-cr) - Direct bindings to [Raylib](https://raylib.com), which supports Linux, Windows, and Mac
+*   [Raylib-cr (⭐65)](https://github.com/sol-vin/raylib-cr) - Direct bindings to [Raylib](https://raylib.com), which supports Linux, Windows, and Mac
 
 ## [10. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
@@ -89,11 +89,10 @@
 *   [Navigation bar (⭐3)](https://github.com/Cap-go/capacitor-navigation-bar) - Set navigation bar color for android lolipop and higher.
 *   [Video Player IVS (⭐1)](https://github.com/Cap-go/ivs-player) - Native Ivs player for Capacitor app Android and IOS.
 *   [Home indicator (⭐0)](https://github.com/Cap-go/home-indicator) - Hide and show home button indicator in Capacitor app.
-*   [Naitve Purchases (⭐3)](https://github.com/Cap-go/native-purchases) - Manage IAP on capacitor with latest libs Android and IOS.
 
 ### Other plugins
 
-*   [Purchases (⭐104)](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
+*   [Purchases (⭐111)](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 
 ## [11. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -137,7 +136,7 @@
 
 ### Software / DNS - Control Panels & Domain Management
 
-*   [Atomia DNS (⭐358)](https://github.com/atomia/atomiadns/) - DNS management system. `ISC` `Perl`
+*   [Atomia DNS (⭐357)](https://github.com/atomia/atomiadns/) - DNS management system. `ISC` `Perl`
 
 ### Software / Monitoring
 

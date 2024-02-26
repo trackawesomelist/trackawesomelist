@@ -23,7 +23,7 @@
 
 ### Software / Miscellaneous
 
-*   [AlertHub (⭐172)](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs/Docker`
+*   [AlertHub (⭐174)](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs/Docker`
 
 ## [4. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -86,17 +86,13 @@
 
 ### Other Tools / Telegram
 
-*   [Orbit (⭐472)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
+*   [Orbit (⭐502)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 
 ## [12. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online Books
 
 *   [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) - A free book for when you really need to know how to do Bézier things.
-
-### Quick References • Cheatsheets / Other
-
-*   [Procedural Patterns And Noises](http://www.neilblevins.com/cg_education/procedural_noise/procedural_noise.html) - Collection of procedural patterns and procedural noises.
 
 ### Other / Other
 
@@ -228,7 +224,7 @@ Webpage: <https://yoghut.com/>
 
 ### Math
 
-*   [StatsLib (⭐490)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
+*   [StatsLib (⭐491)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
 
 ## [27. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 

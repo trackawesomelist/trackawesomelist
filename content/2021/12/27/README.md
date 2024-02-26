@@ -140,7 +140,7 @@
 
 ### Audio
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole (⭐8.8k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole (⭐9k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

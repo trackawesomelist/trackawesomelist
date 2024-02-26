@@ -49,7 +49,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [codecentric/hikaku (⭐193)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
+*   [codecentric/hikaku (⭐194)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
 
 ## [5. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Email
 
-*   [go-mail (⭐402)](https://github.com/wneessen/go-mail) - A simple Go library for sending mails in Go.
+*   [go-mail (⭐416)](https://github.com/wneessen/go-mail) - A simple Go library for sending mails in Go.
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

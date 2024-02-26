@@ -18,13 +18,13 @@
 
 ### Starters & Themes
 
-*   🚀 [Gatsby Starter + TypeScript (⭐78)](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby starter using Tailwind CSS and TypeScript.
+*   🚀 [Gatsby Starter + TypeScript (⭐77)](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby starter using Tailwind CSS and TypeScript.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Document Management
 
-*   [I, Librarian](https://i-librarian.net) - I, Librarian can organize PDF papers and office documents. It provides a lot of extra features for students and research groups both in industry and academia. ([Demo](https://i-librarian.net/demo/), [Source Code (⭐206)](https://github.com/mkucej/i-librarian-free)) `GPL-3.0` `PHP`
+*   [I, Librarian](https://i-librarian.net) - I, Librarian can organize PDF papers and office documents. It provides a lot of extra features for students and research groups both in industry and academia. ([Demo](https://i-librarian.net/demo/), [Source Code (⭐207)](https://github.com/mkucej/i-librarian-free)) `GPL-3.0` `PHP`
 
 ### Software / Password Managers
 

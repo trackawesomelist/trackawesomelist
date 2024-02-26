@@ -289,7 +289,7 @@
 
 ### Machine Learning
 
-*   [xgboost (⭐24k)](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
+*   [xgboost (⭐25k)](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
 
 ## [20. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -318,7 +318,7 @@
 
 ### Containers
 
-*   [Hopscotch map (⭐688)](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. \[MIT]
+*   [Hopscotch map (⭐690)](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. \[MIT]
 
 ## [24. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
@@ -514,15 +514,15 @@ Webpage: <http://www.fuglen.com/japanese/>
 
 ### Geolocation
 
-*   [topo (⭐140)](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
+*   [topo (⭐141)](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
 
 ### Languages
 
-*   [Monkey (⭐132)](https://github.com/fabrik42/writing_an_interpreter_in_elixir) - Elixir implementation of an interpreter and REPL for the js-like Monkey programming language.
+*   [Monkey (⭐134)](https://github.com/fabrik42/writing_an_interpreter_in_elixir) - Elixir implementation of an interpreter and REPL for the js-like Monkey programming language.
 
 ### Miscellaneous
 
-*   [gen\_task (⭐22)](https://github.com/Nebo15/gen_task) - Generic Task behavior that helps to encapsulate worker errors and recover from them in classic GenStage's.
+*   [gen\_task (⭐23)](https://github.com/Nebo15/gen_task) - Generic Task behavior that helps to encapsulate worker errors and recover from them in classic GenStage's.
 
 ### Screencasts
 

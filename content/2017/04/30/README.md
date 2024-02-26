@@ -52,7 +52,7 @@
 
 ### JSON Schema Validators
 
-*   [JSON Schema Toolkit (⭐29)](https://github.com/petrounias/json-schema-toolkit) - Programmatic building of JSON schemas (recursive field mappings) with validation, a Django JSON Field, and native PostgreSQL JSON type constraints.
+*   [JSON Schema Toolkit (⭐30)](https://github.com/petrounias/json-schema-toolkit) - Programmatic building of JSON schemas (recursive field mappings) with validation, a Django JSON Field, and native PostgreSQL JSON type constraints.
 
 ## [5. Awesome](/content/Awesome-Windows/Awesome/README.md)
 

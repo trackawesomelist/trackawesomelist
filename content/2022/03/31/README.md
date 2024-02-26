@@ -151,7 +151,7 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [ko (⭐6.9k)](https://github.com/google/ko) - Command line tool for building and deploying Go applications on Kubernetes
+*   [ko (⭐7k)](https://github.com/google/ko) - Command line tool for building and deploying Go applications on Kubernetes
 
 ## [9. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 

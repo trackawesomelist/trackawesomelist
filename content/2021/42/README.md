@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 18 - Oct 24, 2021
 
-66 awesome lists updated this week.
+65 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -90,8 +90,8 @@
 ### UI Libraries, Components & Templates
 
 *   📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
-*   📚 [tails-ui (⭐195)](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
-*   📚 [tails (⭐34)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
+*   📚 [tails-ui (⭐196)](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
+*   📚 [tails (⭐35)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
 *   📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 *   📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
 *   📁 [Material Tailwind Kit React](https://www.creative-tim.com/product/material-tailwind-kit-react) - Free Tailwind CSS and React UI kit.
@@ -265,35 +265,20 @@
 
 *   [TypeScript Jobs](https://typescriptjobs.dev)
 
-## [21. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Cloud Computing
-
-*   [Building Serverless Applications with Google Cloud Run](https://www.cockroachlabs.com/guides/oreilly-building-serverless-applications-with-google-cloud-run/) - Wietse Venema (PDF) (email address requested, not required)
-
-### Machine Learning
-
-*   [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/) - Danny Friedman (HTML, PDF, Jupyter Book)
-*   [Python Machine Learning Projects](https://www.digitalocean.com/community/books/python-machine-learning-projects-a-digitalocean-ebook) - Lisa Tagliaferri, Brian Boucheron, Michelle Morales, Ellie Birkbeck, Alvin Wan (PDF, EPUB, Kindle)
-
-### Operating Systems
-
-*   [Making Servers Work: A Practical Guide to Linux System Administration](https://www.digitalocean.com/community/books/sysadmin-ebook-making-servers-work) - Jamon Camisso (PDF, EPUB)
-
-## [22. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [21. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
 *   [AREG SDK (⭐194)](https://github.com/aregtech/areg-sdk) - AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where connected Things interact and provide services, as if they act like thin distributed servers.
 *   [Macchina.io (⭐509)](https://github.com/macchina-io/macchina.io) - macchina.io EDGE is a rich software framework for quickly building IoT device applications running on Linux-based devices. macchina.io EDGE implements a web-enabled, secure, modular and extensible JavaScript and C++ runtime environment and provides ready-to-use and industry proven software building blocks. These enable devices to talk to various sensors, other devices and cloud services, and to process, analyze and filter sensor data locally, at the edge device or within the local network.
 
-## [23. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [22. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### MOOCs
 
 *   [Introduction to Quantum Information Science](https://www.arturekert.org/iqis) - “Introduction to Quantum Information” by Professor Artur Ekert at the University of Oxford.
 
-## [24. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [23. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Courses
 
@@ -304,13 +289,13 @@
 
 *   [Neobotix](https://www.neobotix-robots.com/homepage) manufacturer of industrial, research and as well as custom mobile robots.
 
-## [25. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [24. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Others / Object detection and object tracking
 
 *   [ARHeadsetKit (⭐117)](https://github.com/philipturner/ARHeadsetKit) - Using $5 Google Cardboard to replicate Microsoft Hololens. Hosts the source code for research on [scene color reconstruction (⭐22)](https://github.com/philipturner/scene-color-reconstruction).
 
-## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -332,31 +317,31 @@
 
 *   [Platform9](https://platform9.com/) - Managed Kubernetes plane. The free plan offers management capabilities for up to 3 clusters & 20 nodes. Just so you know, you must provide cluster infrastructure by yourself.
 
-## [27. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [26. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Reverse Engineering
 
 *   [Decompiler.com](https://www.decompiler.com/) - Online APK and Java decompiler
 
-## [28. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [27. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Privilege Escalation Tools / Web application and resource analysis tools
 
 *   [GTFOBins](https://gtfobins.github.io/) - Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
 
-## [29. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [28. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
 *   [This Is the Future Of Remote Work In 2021](https://www.forbes.com/sites/carolinecastrillon/2021/12/27/this-is-the-future-of-remote-work-in-2021/?sh=500189961e1d)
 
-## [30. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [29. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### validation
 
 *   [check-geojson (⭐59)](https://github.com/placemark/check-geojson): alternative to geojsonhint
 
-## [31. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [30. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Tools / Collection View Layout
 
@@ -366,7 +351,7 @@
 
 *   [SpreadsheetView (⭐3.5k)](https://github.com/bannzai/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, Gantt chart or timetable as if you are using Excel.
 
-## [32. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [31. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Resources / Offical
 
@@ -377,13 +362,13 @@
 *   [Draw Interface (⭐10)](https://github.com/jesusgp22/directus-draw-interface) - Free draw interface for Directus app.
 *   [User-friendly file paths](https://gist.github.com/ToJans/fa18e2a7363edd24be6ad8dda2dd0232) - Use the folder and file module structure to reference to assets.
 
-## [33. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Media Streaming - Multimedia Streaming
 
-*   [SheetAble](https://sheetable.net) - Self-hosted music sheet organizing software for all music enthusiasts. Upload and organize your sheets for any kind of instrument. ([Source Code (⭐273)](https://github.com/SheetAble/SheetAble)) `AGPL-3.0` `Docker/Go`
+*   [SheetAble](https://sheetable.net) - Self-hosted music sheet organizing software for all music enthusiasts. Upload and organize your sheets for any kind of instrument. ([Source Code (⭐277)](https://github.com/SheetAble/SheetAble)) `AGPL-3.0` `Docker/Go`
 
-## [34. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+## [33. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
 - : [Adobe Spectrum](https://spectrum.adobe.com)
 
@@ -1772,25 +1757,25 @@
 
 
 
-## [35. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [34. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
 *   [tfmigrator (⭐35)](https://github.com/tfmigrator/cli) - Go library and CLI to migrate Terraform Configuration and State
 
-## [36. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [35. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### C bindings
 
 *   [augeas.cr (⭐7)](https://github.com/fernandes/augeas.cr) - Bindings for [Augeas](https://augeas.net/)
 
-## [37. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [36. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Free fonts / Collections
 
 *   [Fontshare](https://www.fontshare.com/) - A free fonts service launched by the Indian Type Foundry (ITF)
 
-## [38. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [37. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / OpenStreetMap
 
@@ -1804,7 +1789,7 @@
 
 *   [Repository and Open Science Access Portal (ROSA P)](https://rosap.ntl.bts.gov/welcome) - Provides access to a range of full-text current and historical documents from the National Transportation Library. Resources are available from all modes of transportation as well as related disciplines such as climate change research.
 
-## [39. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [38. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -1818,92 +1803,92 @@
 
 *   [gelguy/wilder.nvim (⭐1.2k)](https://github.com/gelguy/wilder.nvim) - A plugin for fuzzy command line autocompletion.
 
-## [40. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/week/README.md)
+## [39. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/week/README.md)
 
 ### Lighting / Lighting Software
 
 *   [LightFactory](https://www.lightfactory.net/) - PC Lighting Control software witch also is the backend of the NEO Console. `⚠ not free`.
 
-## [41. Awesome Frc](/content/andrewda/awesome-frc/week/README.md)
+## [40. Awesome Frc](/content/andrewda/awesome-frc/week/README.md)
 
 ### Vision
 
 *   [SERT Vision (⭐24)](https://github.com/SouthEugeneRoboticsTeam/vision) - A Jetson-powered OpenCV vision tracking solution, complete with status GUI and NetworkTable hooks.
 
-## [42. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Rust / General-Purpose Machine Learning
 
 *   [smartcore (⭐603)](https://github.com/smartcorelib/smartcore) - "The Most Advanced Machine Learning Library In Rust."
 *   [linfa (⭐3.2k)](https://github.com/rust-ml/linfa) - a comprehensive toolkit to build Machine Learning applications with Rust
 
-## [43. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [42. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Methodologies
 
 *   [Explaining Team Flow](https://www.youtube.com/watch?v=bhpQKA9XYcE) by **Michel Grootjans** \[14:30]
 
-## [44. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
+## [43. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
 
 ### Resources / Packages
 
 *   [web-monetized-video (⭐15)](https://github.com/Jasmin2895/web-monetized-video) - A web component with has play and pay policy and charges you for the amount of video watched. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
-*   [awesome-jsgames (⭐399)](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [awesome-jsgames (⭐472)](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [mediadisclosures (⭐0)](https://github.com/oofdere/mediadisclosures) - An open-source, always evolving, universal content rating system. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
-*   [web-monetization-demo (⭐1)](https://github.com/peter279k/web-monetization-demo) - This is a Web Monetization Demo ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
-*   [money-chat (⭐3)](https://github.com/dfoderick/money-chat) - Web Monetization chat app ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [web-monetization-demo (⭐2)](https://github.com/peter279k/web-monetization-demo) - This is a Web Monetization Demo ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [money-chat (⭐4)](https://github.com/dfoderick/money-chat) - Web Monetization chat app ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 
 ### Resources / Tutorials
 
 *   [Web Monetization like I'm 5](https://dev.to/hacksultan/web-monetization-like-i-m-5-1418) - Monetizing the web!
 
-## [45. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [44. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / Charting libraries
 
 *   [Vizzu (⭐1.6k)](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 
-## [46. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [45. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
-*   [vite-react-ts-starter (⭐122)](https://github.com/uchihamalolan/vite-react-ts) - React, TypeScript, Jest, ESLint, Prettier, TailwindCSS, Husky, Conventional Commits.
+*   [vite-react-ts-starter (⭐123)](https://github.com/uchihamalolan/vite-react-ts) - React, TypeScript, Jest, ESLint, Prettier, TailwindCSS, Husky, Conventional Commits.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-monaco-editor (⭐182)](https://github.com/vdesjs/vite-plugin-monaco-editor) - Monaco Editor integration.
+*   [vite-plugin-monaco-editor (⭐185)](https://github.com/vdesjs/vite-plugin-monaco-editor) - Monaco Editor integration.
 
-## [47. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [46. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Reproducing Works, Training & Books / Data Visualization
 
 *   [Python-for-Finance-Cookbook (⭐663)](https://github.com/PacktPublishing/Python-for-Finance-Cookbook) - Python for Finance Cookbook, published by Packt.
 *   [modelos\_vol\_derivativos (⭐54)](https://github.com/ysaporito/modelos_vol_derivativos) - "Modelos de Volatilidade para Derivativos" book's Jupyter notebooks
 
-## [48. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [47. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Dependency Management
 
 *   [Deepfence ThreatMapper (⭐4.5k)](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 
-## [49. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [48. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Observability
 
 *   [pixie (⭐5.1k)](https://github.com/pixie-io/pixie) - Observability for Kubernetes using eBPF. Features include protocol tracing, application profiling, and support for distributed bpftrace deployments.
 
-## [50. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [49. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Tooling
 
 *   [REVISE: REvealing VIsual biaSEs (⭐91)](https://github.com/princetonvisualai/revise-tool) - Automatically detect bias in visual data sets.
 
-## [51. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [50. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Mocks and Fakes
 
 *   [bluegroundltd/kfactory (⭐56)](https://github.com/bluegroundltd/kfactory) - Fixture factory in Kotlin
-*   [moove-it/fakeit (⭐530)](https://github.com/moove-it/fakeit) - Generates realistic fake data — like names, emails, dates, countries — to be used in your Android development environment.
+*   [moove-it/fakeit (⭐532)](https://github.com/moove-it/fakeit) - Generates realistic fake data — like names, emails, dates, countries — to be used in your Android development environment.
 
 ### Libraries/Frameworks / Functional Programming
 
@@ -1911,13 +1896,13 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [s1monw1/TLSLibrary (⭐75)](https://github.com/s1monw1/TLSLibrary) - Simple TlsLibrary written in Kotlin - Provides DSL for creating TLS connections
+*   [s1monw1/TLSLibrary (⭐76)](https://github.com/s1monw1/TLSLibrary) - Simple TlsLibrary written in Kotlin - Provides DSL for creating TLS connections
 
 ### Android / Tests
 
 *   [KakaoCup/Compose (⭐115)](https://github.com/KakaoCup/Compose) - Nice and simple DSL for Espresso Compose UI testing in Kotlin
 
-## [52. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+## [51. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### Resources
 
@@ -1954,7 +1939,7 @@
 ### Framework Extensions
 
 *   [FRAME](https://docs.substrate.io/v3/runtime/frame/) - A system for building Substrate runtimes.
-*   [ink! (⭐1.2k)](https://github.com/paritytech/ink) - Rust smart contract language for Substrate chains.
+*   [ink! (⭐1.3k)](https://github.com/paritytech/ink) - Rust smart contract language for Substrate chains.
 *   [Polkadot-JS](https://polkadot.js.org/) - Rich JavaScript API framework for front-end development.
 
 ### Client Libraries
@@ -1963,18 +1948,14 @@
 
 ### Mobile
 
-*   [Polkadot-Dart (⭐22)](https://github.com/Pocket4D/Polkadot-Dart) - Dart Substrate API.
-*   [PolkaWallet SDK (⭐17)](https://github.com/polkawallet-io/sdk) - Flutter SDK for Substrate-based App.
+*   [Polkadot-Dart (⭐21)](https://github.com/Pocket4D/Polkadot-Dart) - Dart Substrate API.
+*   [PolkaWallet SDK (⭐18)](https://github.com/polkawallet-io/sdk) - Flutter SDK for Substrate-based App.
 
 ### SCALE Codec
 
 *   [Scales (⭐7)](https://github.com/virto-network/scales) - Serializing SCALE using type information from a type registry.
 
-## [53. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
-
-### Admin Interface
-
-*   [Avo](https://avohq.io) - Avo is a next-generation framework that empowers developers and teams to create fantastic admin panels for Ruby on Rails projects in hours, not days or weeks. Fast, extendable, with a developer-friendly API, it just works out of the box.
+## [52. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Core Extensions
 
@@ -1992,7 +1973,7 @@
 
 *   [m2cgen (⭐2.7k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Ruby code with zero dependencies.
 
-## [54. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [53. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
@@ -2004,13 +1985,13 @@
 *   [vue-icomoon (⭐24)](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon.
 *   [vue-mars3d (⭐51)](https://github.com/marsgis/mars3d-vue-template) - Vue 2.x 3D earth visualization JS development platform.
 
-## [55. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [54. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Tools / Ironsworn
 
 *   [Fusake Play Aid](https://docs.google.com/document/d/191sfXfcrxars0CXgLNN54eCoQRsuPmyd5Qe-IS5Vlhg/view) - Microsoft Excel play-aid for solo Ironsworn play
 
-## [56. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [55. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Games
 
@@ -2024,14 +2005,14 @@
 
 *   [WordTester (⭐5)](https://github.com/KamilBugnoKrk/WordTester) - ![last commit](https://img.shields.io/github/last-commit/KamilBugnoKrk/WordTester) An application for learning foreign words using flashcards and spaced repetition.
 
-## [57. Awesome Imba](/content/koolamusic/awesome-imba/week/README.md)
+## [56. Awesome Imba](/content/koolamusic/awesome-imba/week/README.md)
 
 ### Resources / Toolkits and Frameworks
 
 *   [Formidable](https://www.formidablejs.org/) - Imba Framework for Rapid API Development.
 *   [Imba Shell (⭐13)](https://github.com/donaldp/imba-shell) - Interactive debugger and REPL for Imba.
 
-## [58. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [57. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -2100,13 +2081,13 @@
 | ------: | -------: | -----: |
 |   2 - 6 |      18+ | 20-30m |
 
-## [59. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [58. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Databases
 
 *   [Zover](http://www.mgc.ac.cn/cgi-bin/ZOVER/main.cgi) - A conglomeration of the previous bat ([DBatVir](https://github.com/ecohealthalliance/awesome-parasite/blob/master/README.md/www.mgc.ac.cn/DBatVir)) and rodent virus ([DRodVir](http://www.mgc.ac.cn/DRodVir/)) databases with the addition of mosquito- and tick- borne viruses. Database is described [here](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab862/6389491?login=true).
 
-## [60. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [59. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Dates and Time
 
@@ -2116,18 +2097,18 @@
 
 *   [What every software engineer should know about search](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d) - A better sourced article on the difficulty of implementing search engines.
 
-## [61. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [60. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Alert / Barcode
 
 *   [Toast-Swift (⭐365)](https://github.com/BastiaanJansen/Toast-Swift) - An easy to use library to create iOS 14 and newer style toasts.
 
-## [62. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [61. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
-*   [cantino/mcfly (⭐6.3k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
-*   [dalance/procs (⭐4.5k)](https://github.com/dalance/procs) — A modern replacement for 'ps' written by Rust [![Regression](https://github.com/dalance/procs/actions/workflows/regression.yml/badge.svg)](https://github.com/dalance/procs/actions/workflows/regression.yml)
+*   [cantino/mcfly (⭐6.4k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
+*   [dalance/procs (⭐4.6k)](https://github.com/dalance/procs) — A modern replacement for 'ps' [![Regression](https://github.com/dalance/procs/actions/workflows/regression.yml/badge.svg)](https://github.com/dalance/procs/actions/workflows/regression.yml)
 
 ### Applications / Web
 
@@ -2135,13 +2116,13 @@
 
 ### Libraries / Audio and Music
 
-*   [pdeljanov/Symphonia (⭐2k)](https://github.com/pdeljanov/Symphonia) — A pure Rust audio decoding and media demuxing library supporting AAC, FLAC, MP3, MP4, OGG, Vorbis, and WAV.
+*   [pdeljanov/Symphonia (⭐2k)](https://github.com/pdeljanov/Symphonia) — Audio decoding and media demuxing library supporting AAC, FLAC, MP3, MP4, OGG, Vorbis, and WAV.
 
 ### Libraries / Caching
 
-*   [al8n/stretto (⭐385)](https://github.com/al8n/stretto) - A high performance thread-safe memory-bound Rust cache [![build badge](https://github.com/al8n/stretto/actions/workflows/ci.yml/badge.svg)](https://github.com/al8n/stretto/actions/workflows/ci.yml)
+*   [al8n/stretto (⭐388)](https://github.com/al8n/stretto) - A high performance thread-safe memory-bound cache [![build badge](https://github.com/al8n/stretto/actions/workflows/ci.yml/badge.svg)](https://github.com/al8n/stretto/actions/workflows/ci.yml)
 
-## [63. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [62. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Animals
 
@@ -2743,7 +2724,7 @@
 
 
 
-## [64. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [63. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### Tools you'll need / Cloud-based options
 
@@ -2752,13 +2733,13 @@
 *   [markusschanta/awesome-jupyter, "Hosted Notebook Solutions" (⭐2.9k)](https://github.com/markusschanta/awesome-jupyter#hosted-notebook-solutions)
 *   [ml-tooling/best-of-jupyter, "Notebook Environments" (⭐538)](https://github.com/ml-tooling/best-of-jupyter)
 
-## [65. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [64. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
 *   [Open Chemistry](https://opencollective.com/open-chemistry) - Umbrella of multiple open source chemistry projects including Avogadro, cclib, DeepChem, MSDK, Open Babel, RDKit, and 3DMol.js.
 
-## [66. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [65. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Deep Learning Packages / Visualization Tools
 

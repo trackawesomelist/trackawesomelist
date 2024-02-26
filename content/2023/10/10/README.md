@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 10, 2023
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -117,7 +117,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-console-line (⭐1)](https://github.com/lq9958/vite-plugin-console-line) - Add **console.log()** file location and line number infomation in browser's console.
+*   [vite-plugin-console-line (⭐2)](https://github.com/lq9958/vite-plugin-console-line) - Add **console.log()** file location and line number infomation in browser's console.
 
 ## [5. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -138,12 +138,6 @@
 ### Deployment Hosting
 
 *   [DeployBot](https://deploybot.com/) - REST API to trigger deployments from GitHub, GitLab, and Bitbucket.
-
-## [8. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Mathematics
-
-*   [A Cool Brisk Walk Through Discrete Mathematics](http://stephendavies.org/brisk.pdf) - Stephen Davies (PDF)
 
 ---
 

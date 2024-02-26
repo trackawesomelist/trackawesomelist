@@ -30,7 +30,7 @@
 
 *   Github actions
     *   [icepuma/rust-action (⭐78)](https://github.com/icepuma/rust-action) — rust github action
-    *   [peaceiris/actions-mdbook (⭐273)](https://github.com/peaceiris/actions-mdbook) — GitHub Actions for mdBook
+    *   [peaceiris/actions-mdbook (⭐274)](https://github.com/peaceiris/actions-mdbook) — GitHub Actions for mdBook
 
 ### Libraries / Text search
 
@@ -95,7 +95,7 @@
 
 ### Authentication and Authorization
 
-*   🍰 [Tools:Passwordable (⭐337)](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior (⭐337)](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) for a DRY approach on password hashing.
+*   🍰 [Tools:Passwordable (⭐336)](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior (⭐336)](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) for a DRY approach on password hashing.
 
 ### Caching
 
@@ -103,7 +103,7 @@
 
 ### Miscellaneous
 
-*   🍰 [Tools plugin (⭐337)](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells and more.
+*   🍰 [Tools plugin (⭐336)](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells and more.
 
 ### Search
 
@@ -111,7 +111,7 @@
 
 ### SEO
 
-*   🍰 [Tools:Slugged (⭐337)](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
+*   🍰 [Tools:Slugged (⭐336)](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 05 - Sep 11, 2016
 
-39 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -174,9 +174,9 @@
 
 ### Contents / Language bindings
 
-*   Common Lisp: [Postmodern (⭐351)](https://github.com/marijnh/Postmodern)
+*   Common Lisp: [Postmodern (⭐372)](https://github.com/marijnh/Postmodern)
 *   Elixir: [postgrex (⭐1k)](https://github.com/elixir-ecto/postgrex)
-*   Rust: [rust-postgresql (⭐3k)](https://github.com/sfackler/rust-postgres), [pgx (⭐2.5k)](https://github.com/tcdi/pgx)
+*   Rust: [rust-postgresql (⭐3.2k)](https://github.com/sfackler/rust-postgres), [pgx (⭐3k)](https://github.com/tcdi/pgx)
 
 ## [20. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
@@ -426,13 +426,7 @@ Webpage: <http://www.deysbreeker.nl/>
 | ---- | ----- | ----------------------------------------------------------------------- | -------------------------------- |
 | ✔    | ✔     | [Weesperzijde 23, 1091 EC Amsterdam, Netherlands](http://goo.gl/qLPEjU) | Sun-Thu 8AM-1AM, Fri-Sat 8AM-2AM |
 
-## [35. Awesome Music](/content/ciconia/awesome-music/week/README.md)
-
-### Music Notation
-
-*   [i-score](http://www.i-score.org) - a software for interactive music notation, with DAW features.
-
-## [36. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [35. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Professional Groups / Research Groups (Other)
 
@@ -454,7 +448,7 @@ Webpage: <http://www.deysbreeker.nl/>
 
 *   [Periodic Table of Network Centrality](http://schochastics.net/sna/periodic.html) - Interactive periodic table of centrality indices.
 
-## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Configuration
 
@@ -471,19 +465,19 @@ Webpage: <http://www.deysbreeker.nl/>
 *   [edeliver (⭐2k)](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
 *   [exdm (⭐12)](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.
 *   [gatling (⭐500)](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
-*   [heroku-buildpack-elixir (⭐802)](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
+*   [heroku-buildpack-elixir (⭐803)](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
 
 ### Video
 
-*   [silent\_video (⭐19)](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
+*   [silent\_video (⭐20)](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
 
-## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
 *   [CImg](http://cimg.eu/) - A small, open source, C++ toolkit for image processing. \[Own LGPL or GPL]
 
-## [39. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [38. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Videos / OpenOffice
 

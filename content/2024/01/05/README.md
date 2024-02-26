@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 05, 2024
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,7 +20,7 @@
 
 ### Distributed Systems
 
-*   [trpc-go (⭐597)](https://github.com/trpc-group/trpc-go) - The Go language implementation of tRPC, which is a pluggable, high-performance RPC framework.
+*   [trpc-go (⭐606)](https://github.com/trpc-group/trpc-go) - The Go language implementation of tRPC, which is a pluggable, high-performance RPC framework.
 
 ### Security
 
@@ -115,7 +115,7 @@
 ### Table of Contents / Security
 
 *   [PHPSecLib](https://phpseclib.sourceforge.net) - A pure PHP secure communications library.
-*   [Zap (⭐64)](https://github.com/OWASP/www-project-zap) - An integrated penetration testing tool for web applications.
+*   [Zap (⭐65)](https://github.com/OWASP/www-project-zap) - An integrated penetration testing tool for web applications.
 
 ### Table of Contents / Code Quality
 
@@ -128,11 +128,11 @@
 ### Table of Contents / PDF
 
 *   [Browsershot (⭐4.6k)](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string.
-*   [Gotenberg (⭐156)](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
+*   [Gotenberg (⭐162)](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
 
 ### Table of Contents / Office
 
-*   [OpenSpout (⭐522)](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
+*   [OpenSpout (⭐542)](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
 
 ### Table of Contents / Authentication and Authorization
 
@@ -206,28 +206,22 @@
 
 ### File Explorer / Diagnostics
 
-*   [simonmclean/triptych.nvim (⭐57)](https://github.com/simonmclean/triptych.nvim) - A directory browser inspired by Ranger.
+*   [simonmclean/triptych.nvim (⭐87)](https://github.com/simonmclean/triptych.nvim) - A directory browser inspired by Ranger.
 
 ### Media / Diagnostics
 
-*   [hakonharnes/img-clip.nvim (⭐253)](https://github.com/hakonharnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
-*   [3rd/image.nvim (⭐516)](https://github.com/3rd/image.nvim) - Add image support through Kitty's graphics protocol or ueberzugpp.
+*   [hakonharnes/img-clip.nvim (⭐267)](https://github.com/hakonharnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
+*   [3rd/image.nvim (⭐541)](https://github.com/3rd/image.nvim) - Add image support through Kitty's graphics protocol or ueberzugpp.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [crispybaccoon/chaivim (⭐13)](https://github.com/crispybaccoon/chaivim) - Easily configurable distro with solid defaults and a cozy editor experience.
+*   [crispybaccoon/chaivim (⭐18)](https://github.com/crispybaccoon/chaivim) - Easily configurable distro with solid defaults and a cozy editor experience.
 
-## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Machine Learning
-
-*   [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org) - Benoit Liquet, Sarat Moka, Yoni Nazarathy
-
-## [14. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [tofuenv (⭐101)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv
+*   [tofuenv (⭐111)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv
 
 ---
 

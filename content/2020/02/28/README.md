@@ -157,7 +157,7 @@
 
 ### REST and API
 
-*   [Alt3/Swagger plugin (⭐62)](https://github.com/alt3/cakephp-swagger) - Swagger 2.0 documentation for your CakePHP APIs using swagger-php and swagger-ui.
+*   [Alt3/Swagger plugin (⭐64)](https://github.com/alt3/cakephp-swagger) - Swagger 2.0 documentation for your CakePHP APIs using swagger-php and swagger-ui.
 
 ---
 

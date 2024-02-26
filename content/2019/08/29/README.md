@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 29, 2019
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,7 +28,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [nushell (⭐28k)](https://github.com/nushell/nushell) - nushell is a modern, GitHub-era shell written in Rust. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [nushell (⭐29k)](https://github.com/nushell/nushell) - nushell is a modern, GitHub-era shell written in Rust. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [5. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
 
@@ -37,31 +37,25 @@
 *   [aShop](https://ashop.co) - Effortless microsites for Amazon Sellers. Marketing tool that delivers branded store experience to bring more business and maximize profits.
 *   [Prisync](https://prisync.com/) - Price monitoring & tracking SaaS with dynamic pricing and automatching engine.
 
-## [6. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### Date and Time
-
-*   [PyTime (⭐151)](https://github.com/shinux/PyTime) - An easy-to-use Python module which aims to operate date/time/datetime by string.
-
-## [7. Awesome Code Review](/content/joho/awesome-code-review/README.md)
+## [6. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
 ### Articles
 
 *   [On Code Review](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c) Short article about tooling and personal elements of code review, from an ex-Facebook engineer.
 
-## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [7. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Swift
 
 *   [*Pro Swift* by Paul Hudson](https://www.hackingwithswift.com/store/pro-swift)
 
-## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Static Analysis / Linting
 
 *   [Run Go lint checks on PR event (⭐10)](https://github.com/ArangoGutierrez/GoLinty-Action)
 
-## [10. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [9. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Setup a Packagist Mirror / IRC
 
@@ -71,7 +65,7 @@
 
 *   [Firegento](https://packages.firegento.com/) - A Composer Repository providing Magento Modules.
 
-## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Go / Natural Language Processing
 
@@ -112,7 +106,7 @@
 
 *   References for Go were mostly cut-and-pasted from [gopherdata (⭐844)](https://github.com/gopherdata/resources/tree/master/tooling)
 
-## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
@@ -122,17 +116,17 @@
 
 *   [JqueryDataTablesServerSide (⭐219)](https://github.com/fingers10/JqueryDataTablesServerSide) - ASP.NET Core Server Side Processing library for Jquery DataTables with Multiple Column Filtering, Sorting and Pagination at database level with Excel Export and TagHelper support.
 
-## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Form Widgets / Other
 
 *   [analytics (⭐2.3k)](https://github.com/davidwells/analytics) - A lightweight, extendable analytics library designed to work with any third-party analytics provider to track page views, custom events, & identify users.
 
-## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Learning and Courses
 
-*   [OpenOLAT](https://www.openolat.com/?lang=en) - OpenOLAT is a web-based learning management system for teaching, education, assessment and communication. ([Demo](https://learn.olat.com), [Source Code (⭐275)](https://github.com/OpenOLAT/OpenOLAT)) `Apache-2.0` `Java`
+*   [OpenOLAT](https://www.openolat.com/?lang=en) - OpenOLAT is a web-based learning management system for teaching, education, assessment and communication. ([Demo](https://learn.olat.com), [Source Code (⭐279)](https://github.com/OpenOLAT/OpenOLAT)) `Apache-2.0` `Java`
 
 ### Software / Miscellaneous
 
@@ -140,7 +134,7 @@
 
 ### Software / Proxy
 
-*   [sish (⭐3.6k)](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP tunnels to localhost using only SSH (serveo/ngrok alternative). `MIT` `Go/Docker`
+*   [sish (⭐3.7k)](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP tunnels to localhost using only SSH (serveo/ngrok alternative). `MIT` `Go/Docker`
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Content Management Systems
 
-*   [Sitecore (⭐62)](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
+*   [Sitecore (⭐66)](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
 
 ## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

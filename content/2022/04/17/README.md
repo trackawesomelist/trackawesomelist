@@ -10,7 +10,7 @@
 
 ### Software / Automation
 
-*   [ydl\_api\_ng (⭐98)](https://github.com/Totonyus/ydl_api_ng) - Simple youtube-dl REST API to launch downloads on a distant server. `GPL-3.0` `Python`
+*   [ydl\_api\_ng (⭐100)](https://github.com/Totonyus/ydl_api_ng) - Simple youtube-dl REST API to launch downloads on a distant server. `GPL-3.0` `Python`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -40,7 +40,7 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [kotlin-graphics/bullet (⭐40)](https://github.com/kotlin-graphics/bullet) - bullet port
+*   [kotlin-graphics/bullet (⭐41)](https://github.com/kotlin-graphics/bullet) - bullet port
 
 ## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

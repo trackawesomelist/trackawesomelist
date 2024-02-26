@@ -32,7 +32,7 @@
 
 ### JSON Schema Tools
 
-*   [Docson (⭐481)](https://github.com/lbovet/docson) - Documentation for your types.
+*   [Docson (⭐491)](https://github.com/lbovet/docson) - Documentation for your types.
 
 ## [5. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

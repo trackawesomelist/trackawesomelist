@@ -16,11 +16,11 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐557)](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
+*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐561)](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
 
 ### Software / Pastebins
 
-*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐170)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python/deb`
+*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐171)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python/deb`
 
 ## [3. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Assets
 
-*   [Sprockets (⭐912)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
+*   [Sprockets (⭐922)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
 
 ### Code Analysis and Metrics
 

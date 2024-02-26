@@ -25,7 +25,7 @@
 
 ### Libraries/Frameworks / Database
 
-*   [Litote/kmongo (⭐786)](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
+*   [Litote/kmongo (⭐787)](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
 
 ## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

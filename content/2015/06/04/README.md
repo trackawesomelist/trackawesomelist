@@ -35,7 +35,7 @@
 
 ### Ruby Libraries
 
-*   [Bitcoin-ruby (⭐908)](https://github.com/lian/bitcoin-ruby)
+*   [Bitcoin-ruby (⭐907)](https://github.com/lian/bitcoin-ruby)
 
 ### Python Libraries
 

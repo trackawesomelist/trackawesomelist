@@ -47,7 +47,7 @@
 
 ### Photoshop / Illustrator
 
-*   [Excalidraw (⭐68k)](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
+*   [Excalidraw (⭐69k)](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
 
 ## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 

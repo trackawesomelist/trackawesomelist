@@ -181,7 +181,7 @@
 
 ### REST and API
 
-*   [Alt3/Swagger plugin (⭐62)](https://github.com/alt3/cakephp-swagger) - Swagger 2.0 documentation for your CakePHP APIs using swagger-php and swagger-ui.
+*   [Alt3/Swagger plugin (⭐64)](https://github.com/alt3/cakephp-swagger) - Swagger 2.0 documentation for your CakePHP APIs using swagger-php and swagger-ui.
 
 ## [21. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -266,7 +266,7 @@
 
 ### Software / Document Management - E-books
 
-*   [Komga](https://komga.org) - Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader. ([Source Code (⭐3.1k)](https://github.com/gotson/komga)) `MIT` `Java/Docker`
+*   [Komga](https://komga.org) - Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader. ([Source Code (⭐3.2k)](https://github.com/gotson/komga)) `MIT` `Java/Docker`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
@@ -294,7 +294,7 @@
 
 ### Algorithms and Data structures
 
-*   [fzy (⭐43)](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
+*   [fzy (⭐44)](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
 
 ## [35. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
@@ -855,16 +855,16 @@
 
 ### Applications / Audio and Music
 
-*   [enginesound (⭐276)](https://github.com/DasEtwas/enginesound) — A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
-*   [Spotifyd (⭐9.4k)](https://github.com/Spotifyd/spotifyd) — An open source Spotify client running as a UNIX daemon. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
+*   [enginesound (⭐279)](https://github.com/DasEtwas/enginesound) — A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
+*   [Spotifyd (⭐9.5k)](https://github.com/Spotifyd/spotifyd) — An open source Spotify client running as a UNIX daemon. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
 
 ### Applications / Utilities
 
-*   [guoxbin/dtool (⭐356)](https://github.com/guoxbin/dtool) — A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.
+*   [guoxbin/dtool (⭐357)](https://github.com/guoxbin/dtool) — A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.
 
 ### Development tools / Profiling
 
-*   [bheisler/criterion.rs (⭐4k)](https://github.com/bheisler/criterion.rs) — Statistics-driven benchmarking library for Rust
+*   [bheisler/criterion.rs (⭐4k)](https://github.com/bheisler/criterion.rs) — Statistics-driven benchmarking library
 
 ## [54. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -947,19 +947,19 @@
 ### Command-Line Productivity
 
 *   [boom (⭐1.3k)](https://github.com/holman/boom) - Store links and snippets in the command line
-*   [cod (⭐493)](https://github.com/dim-an/cod) — A completion daemon for shell that learns when you invoke `--help` commands
+*   [cod (⭐508)](https://github.com/dim-an/cod) — A completion daemon for shell that learns when you invoke `--help` commands
 *   [dnote (⭐2.6k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface
 *   [foxy (⭐39)](https://github.com/s-p-k/foxy) - Plain text bookmarks for Firefox and surf browsers.
-*   [resh (⭐918)](https://github.com/curusarn/resh) - Contextual shell history for Zsh and Bash
+*   [resh (⭐954)](https://github.com/curusarn/resh) - Contextual shell history for Zsh and Bash
 *   [snips (⭐74)](https://github.com/srijanshetty/snips) - Command line tool to manage snippets of code.
 
 ### For Developers / Directory Navigation
 
-*   [mkdkr (⭐348)](https://github.com/rosineygp/mkdkr) - Makefile + Docker = CI Pipeline
+*   [mkdkr (⭐352)](https://github.com/rosineygp/mkdkr) - Makefile + Docker = CI Pipeline
 
 ### Downloading and Serving / Directory Navigation
 
-*   [bashhub-server (⭐289)](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub
+*   [bashhub-server (⭐294)](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub
 
 ## [62. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 

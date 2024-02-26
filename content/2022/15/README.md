@@ -38,7 +38,7 @@
 
 ### Development tools / Web Servers
 
-*   [git-cliff (⭐6.7k)](https://github.com/orhun/git-cliff) — A highly customizable Changelog Generator that follows Conventional Commit specifications ![https://github.com/orhun/git-cliff/actions](https://img.shields.io/github/actions/workflow/status/orhun/git-cliff/ci.yml?branch=main\&label=build)
+*   [git-cliff (⭐7k)](https://github.com/orhun/git-cliff) — A highly customizable Changelog Generator that follows Conventional Commit specifications ![https://github.com/orhun/git-cliff/actions](https://img.shields.io/github/actions/workflow/status/orhun/git-cliff/ci.yml?branch=main\&label=build)
 
 ## [5. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
@@ -136,7 +136,7 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [darkweak/souin (⭐501)](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
+*   [darkweak/souin (⭐580)](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
 
 ## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
@@ -359,11 +359,11 @@
 
 ### Changeset Tools / Web Services
 
-*   [achavi](https://overpass-api.de/achavi/) - Augmented change viewer. ([Source Code (⭐40)](https://github.com/nrenner/achavi/) / [Wiki](https://wiki.openstreetmap.org/wiki/Achavi))
+*   [achavi](https://overpass-api.de/achavi/) - Augmented change viewer. ([Source Code (⭐41)](https://github.com/nrenner/achavi/) / [Wiki](https://wiki.openstreetmap.org/wiki/Achavi))
 *   [Osm Change Viz](https://resultmaps.neis-one.org/osm-change-viz) - Changeset visualizer displaying information about added/modified/deleted elements in different panels.
 *   [changeset-map](http://osmlab.github.io/changeset-map/) - Map visualizing changes in selected changesets. Used in OsmCha. ([Source Code (⭐32)](https://github.com/osmlab/changeset-map))
 *   [OSM History Viewer](https://osmhv.openstreetmap.de/) - Changeset visualization. ([Source Code (⭐8)](https://github.com/osmrmhv/osmrmhv))
-*   [Who did it?](https://simon04.dev.openstreetmap.org/whodidit/) - Map highlighting recent edits per tile. Provides RSS feeds for watching changes in custom bounding boxes.  ([Source Code (⭐66)](https://github.com/simon04/whodidit) / [Wiki](https://wiki.openstreetmap.org/wiki/Quality_assurance#WhoDidIt))
+*   [Who did it?](https://simon04.dev.openstreetmap.org/whodidit/) - Map highlighting recent edits per tile. Provides RSS feeds for watching changes in custom bounding boxes.  ([Source Code (⭐67)](https://github.com/simon04/whodidit) / [Wiki](https://wiki.openstreetmap.org/wiki/Quality_assurance#WhoDidIt))
 *   [Osm Change Tiles](https://resultmaps.neis-one.org/osm-change-tiles) - Map highlighting recent edits per tile. Provides RSS feeds for watching changes in custom bounding boxes.
 *   [Analytic OSM Tracker (⭐38)](https://github.com/MichaelVL/osm-analytic-tracker)[^selfhosted-only] - Tracker for changesets in your region.
 *   [Suspicious OSM Changesets](https://resultmaps.neis-one.org/osm-suspicious) - Find suspicious OSM changesets.
@@ -464,7 +464,6 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [dam5s/aspen (⭐33)](https://github.com/dam5s/aspen) - Aspen is an RSpec and Spek inspired test runner for Kotlin.
 *   [permissions-dispatcher/kompile-testing (⭐70)](https://github.com/permissions-dispatcher/kompile-testing) - Testing tools for kotlinc and kapt.
 
 ### Libraries/Frameworks / Misc
@@ -474,7 +473,7 @@
 ### Libraries/Frameworks / Graphics
 
 *   [java-opengl-labs/learn-OpenGL (⭐36)](https://github.com/java-opengl-labs/learn-OpenGL) - port of <https://learnopengl.com/> tutorial (lwjgl)
-*   [kotlin-graphics/bullet (⭐40)](https://github.com/kotlin-graphics/bullet) - bullet port
+*   [kotlin-graphics/bullet (⭐41)](https://github.com/kotlin-graphics/bullet) - bullet port
 
 ## [30. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
@@ -526,11 +525,11 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [nodo (⭐10)](https://github.com/nicolodiamante/nodo) - This plugin helps you prevent `node_modules` directories from filling your iCloud storage by un-syncing the directory or can save even more space by removing all `node_modules` directories within the chosen root directory. This is particularly useful for cleaning up a project that has multiple `node_modules` trees
-*   [omz-git (⭐1)](https://github.com/aeons/omz-git) - [Oh-My-ZSH](https://ohmyz.sh/)'s [git (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) plugin re-packaged to be standalone.
+*   [omz-git (⭐1)](https://github.com/aeons/omz-git) - [Oh-My-ZSH](https://ohmyz.sh/)'s [git (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) plugin re-packaged to be standalone.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [biratime (⭐3)](https://github.com/vemonet/biratime) - Based on the [bira (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme, but displays the date instead of the username in the prompt.
+*   [biratime (⭐3)](https://github.com/vemonet/biratime) - Based on the [bira (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme, but displays the date instead of the username in the prompt.
 *   [ortiz (andres-ortizl) (⭐4)](https://github.com/andres-ortizl/ortiz-zsh-theme) - Fork of [eriner (⭐16)](https://github.com/zimfw/eriner) with decorations for the interval between commands and k8s context.
 
 ## [35. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
@@ -554,13 +553,13 @@
 
 ### Templates / React
 
-*   [chrome-extension-boilerplate-react-vite (⭐1.3k)](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - React + TypeScript + SASS + Prettier + ESLint + GitHub Actions + Chrome Extension Manifest v3.
-*   [vite-ant-design-pro (⭐95)](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
+*   [chrome-extension-boilerplate-react-vite (⭐1.4k)](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - React + TypeScript + SASS + Prettier + ESLint + GitHub Actions + Chrome Extension Manifest v3.
+*   [vite-ant-design-pro (⭐97)](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
 *   [vite-react-proste (⭐13)](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + SASS + Testing Library + `react-query` + ESLint + Stylelint + Prettier.
 
 ### Electron / Integrations
 
-*   [electron-vite (⭐2.1k)](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.
+*   [electron-vite (⭐2.2k)](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.
 
 ## [37. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
@@ -579,15 +578,15 @@
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
 
 *   [BetterDiscord](https://betterdiscord.app/) - A client modification for Discord, also you need to install a [DoNotTrack](https://betterdiscord.app/plugin/DoNotTrack) plugin to block trackers.
-*   [Kernel (⭐80)](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability, also you need to install a [Discord Utilities (⭐5)](https://github.com/slow/discord-utilities) package to block trackers.
+*   [Kernel (⭐79)](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability, also you need to install a [Discord Utilities (⭐5)](https://github.com/slow/discord-utilities) package to block trackers.
 *   [WebCord (⭐1.6k)](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord API-less client made with the Electron.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Aliucord (⭐3k)](https://github.com/Aliucord/Aliucord) - A modification for the Android Discord app that fully [disables the Discord Tracking (⭐3k)](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java).
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Aliucord (⭐3.1k)](https://github.com/Aliucord/Aliucord) - A modification for the Android Discord app that fully [disables the Discord Tracking (⭐3.1k)](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java).
 
 ## [38. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [ydl\_api\_ng (⭐98)](https://github.com/Totonyus/ydl_api_ng) - Simple youtube-dl REST API to launch downloads on a distant server. `GPL-3.0` `Python`
+*   [ydl\_api\_ng (⭐100)](https://github.com/Totonyus/ydl_api_ng) - Simple youtube-dl REST API to launch downloads on a distant server. `GPL-3.0` `Python`
 
 ### Software / Blogging Platforms
 
@@ -619,7 +618,7 @@
 
 ### Software / Ticketing
 
-*   [OTOBO](https://otobo.de/en/) - Flexible web-based ticketing system used for Customer Service, Help Desk, IT Service Management. ([Demo](https://otobo.de/en/open-source-ticketing-system/#demos), [Source Code (⭐217)](https://github.com/RotherOSS/otobo)) `GPL-3.0` `Perl/Docker`
+*   [OTOBO](https://otobo.de/en/) - Flexible web-based ticketing system used for Customer Service, Help Desk, IT Service Management. ([Demo](https://otobo.de/en/open-source-ticketing-system/#demos), [Source Code (⭐218)](https://github.com/RotherOSS/otobo)) `GPL-3.0` `Perl/Docker`
 *   [Roundup Issue Tracker](https://www.roundup-tracker.org/) - A simple-to-use and -install issue-tracking system with command-line, web, REST, XML-RPC, and e-mail interfaces. Designed with flexibility in mind - not just another bug tracker. ([Source Code](https://www.roundup-tracker.org/code.html)) `MIT/ZPL-2.0` `Python/Docker`
 
 ## [39. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
@@ -634,7 +633,7 @@
 
 ### Other Tools / Telegram
 
-*   [Sub3 Suite (⭐423)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
+*   [Sub3 Suite (⭐452)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
 
 ## [40. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -713,12 +712,12 @@
 
 ### Projects
 
-*   [Crabtyper (⭐188)](https://github.com/brancobruyneel/crabtyper) - A speedtyping web app written in Rust.
+*   [Crabtyper (⭐187)](https://github.com/brancobruyneel/crabtyper) - A speedtyping web app written in Rust.
 
 ### Templates
 
-*   [axum-yew-setup (⭐133)](https://github.com/rksm/axum-yew-setup) - A starter project that sets up Axum and Yew for full stack Rust web apps.
-*   [rust-yew-axum-tauri-desktop (⭐107)](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.
+*   [axum-yew-setup (⭐136)](https://github.com/rksm/axum-yew-setup) - A starter project that sets up Axum and Yew for full stack Rust web apps.
+*   [rust-yew-axum-tauri-desktop (⭐111)](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.
 
 ### Crates / Component Libraries
 

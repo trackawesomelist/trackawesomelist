@@ -27,7 +27,7 @@
 
 ### Authentication
 
-*   [oauth2 (⭐715)](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
+*   [oauth2 (⭐721)](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
 *   [oauth2ex (⭐57)](https://github.com/parroty/oauth2ex) - Another OAuth 2.0 client library for Elixir.
 
 ### Frameworks

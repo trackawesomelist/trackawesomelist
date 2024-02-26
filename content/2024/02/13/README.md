@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 13, 2024
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,31 +12,25 @@
 
 *   [PAL: Program-aided Language Models](https://proceedings.mlr.press/v202/gao23f) - ***ICML'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=14898051625978777315\&hl=en\&as_sdt=0,5)]. Paper presenting an approach that uses the LLM to read natural language problems and generate programs as the intermediate reasoning steps, but offloads the solution step to a runtime such as a Python interpreter. With PAL, decomposing the natural language problem into runnable steps remains the only learning task for the LLM, while solving is delegated to the interpreter.
 
-## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
-
-### Literate programming / Third-party APIs
-
-*   [papyrus (⭐27)](https:/github.com/tani/papyrus) - Papyrus makes your markdown executable with the reader macro of Common Lisp.[MIT](https://opensource.org/licenses/MIT)
-
-## [3. Awesome V](/content/vlang/awesome-v/README.md)
+## [2. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Web
 
 *   [Tiniest vWeb Server (⭐0)](https://github.com/davlgd/tws) - A < 1MB static hosting web server written in V, based on x.vweb. 🍃
 
-## [4. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [3. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Resources / Tutorials and Hints
 
 *   [Coq requirements in Common Criteria evaluations](https://inria.hal.science/hal-04452421) - Guide on how to write readable and reviewable Coq code in high assurance applications.
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Database
 
 *   [Reindexer (⭐750)](https://github.com/Restream/reindexer) - Embeddable, in-memory, document-oriented database with a high-level Query builder interface. \[Apache2] [website](https://reindexer.io/)
 
-## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Admin Interface
 
@@ -46,7 +40,7 @@
 
 *   [fast\_count (⭐205)](https://github.com/fatkodima/fast_count) - Quickly get a count estimation for large tables (>99% of accuracy for PostgreSQL).
 
-## [7. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md)
+## [6. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md)
 
 ### **AI/ML**
 
@@ -56,17 +50,13 @@
 
 *   [gardenAutomation (⭐384)](https://github.com/ledgardener/gardenAutomation) - Garden Automation toolkit by [LedGardener](https://ledgardener.com/category/builds/)
 
-### Node RED / Node RED flows
-
-*   [Home Automation Repository (⭐1)](https://github.com/Killerherts/nodeRed-HA-GrowingFunctions#installationhttps://github.com/Killerherts/nodeRed-HA-GrowingFunctions) - repository contains configuration files for a home automation system, including various sensors, inputs, and automation scripts
-
-## [8. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [7. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Manuals and Ephemera / Ephemera
 
 *   [Hewlett-Packard Journal Volume 33 Number 12 (1982)](https://archive.org/details/Hewlett-Packard_Journal_Vol._33_No._12_1982-12_Hewlett-Packard) - Multiple articles about the HP Model 7470A plotter.
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Plugin Manager
 
@@ -76,7 +66,7 @@
 
 *   [backdround/global-note.nvim (⭐1)](https://github.com/backdround/global-note.nvim) - One global note in a floating window.
 
-## [10. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [9. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Gems / Other external resources
 
@@ -84,4 +74,5 @@
 
 ---
 
+- Prev: [Feb 14, 2024](/content/2024/02/14/README.md)
 - Next: [Feb 12, 2024](/content/2024/02/12/README.md)

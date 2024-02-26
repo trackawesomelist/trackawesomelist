@@ -10,19 +10,19 @@
 
 ### Templates / Godot 3.2+
 
-*   [Godot FPS Template (⭐55)](https://github.com/MilkAndBanana01/godot-fps-template) - A free first person game template for the Godot Engine.
+*   [Godot FPS Template (⭐56)](https://github.com/MilkAndBanana01/godot-fps-template) - A free first person game template for the Godot Engine.
 
 ## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [vite-react-ts-minimal-template (⭐25)](https://github.com/alessandropisu/vite-react-ts-minimal-template) - React + TypeScript + Airbnb ESLint + Prettier + Husky.
+*   [vite-react-ts-minimal-template (⭐26)](https://github.com/alessandropisu/vite-react-ts-minimal-template) - React + TypeScript + Airbnb ESLint + Prettier + Husky.
 
 ## [3. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
-*   [functional.js (⭐219)](https://github.com/functionaljs/functional-js) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
+*   [functional.js (⭐220)](https://github.com/functionaljs/functional-js) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
 
 ## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 

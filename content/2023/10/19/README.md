@@ -33,7 +33,7 @@
 
 ### Templates / Vanilla
 
-*   [create-domco (⭐8)](https://github.com/rossrobino/domco) - Starter template for domco SSG.
+*   [create-domco (⭐11)](https://github.com/rossrobino/domco) - Starter template for domco SSG.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -203,19 +203,11 @@
 
 *   [LS\_COLORS (⭐2k)](https://github.com/trapd00r/LS_COLORS) - A collection of LS\_COLORS definitions.
 
-## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [14. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
 
-### Algorithms & Data Structures
+### Golang
 
-*   [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) - Jeff Erickson (PDF)
-
-### Artificial Intelligence
-
-*   [Artificial Intelligence and the Future for Teaching and Learning](https://www2.ed.gov/documents/ai-report/ai-report.pdf) - Office of Educational Technology (PDF)
-
-### Computer Science
-
-*   [Computer Science Class XI](https://cbseacademic.nic.in/web_material/doc/cs/1_Computer-Science-Python-Book-Class-XI.pdf) - CBSE (PDF)
+*   [Go Web 编程](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/) - astaxie
 
 ---
 

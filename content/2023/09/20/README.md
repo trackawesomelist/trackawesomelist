@@ -22,7 +22,7 @@
 
 ### Dependency Injection
 
-*   [gontainer (⭐20)](https://github.com/NVIDIA/gontainer) - A dependency injection service container for Go projects.
+*   [gontainer (⭐21)](https://github.com/NVIDIA/gontainer) - A dependency injection service container for Go projects.
 
 ## [4. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Natural Language Processing
 
-*   [CometLLM (⭐355)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
+*   [CometLLM (⭐362)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
 
 ## [9. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
 
@@ -119,12 +119,12 @@
 
 ### Get Started
 
-*   [create-awesome-node-app (⭐42)](https://github.com/Create-Node-App/create-node-app) - Scaffolding your project choosing between different templates.
+*   [create-awesome-node-app (⭐47)](https://github.com/Create-Node-App/create-node-app) - Scaffolding your project choosing between different templates.
 
 ### Templates / React
 
-*   [vite-react-ts-shadcn-starter (⭐24)](https://github.com/Quilljou/vite-react-ts-tailwind-starter) - Template for creating `React 18` SPA apps with `TypeScript`, `React Router`, `Tailwind CSS`, `Shadcn UI`, `React Query`, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `React-i18next`, `Transmart`.
-*   [template-tauri-vite-react-ts-tailwind (⭐3)](https://github.com/RoyRao2333/template-tauri-vite-react-ts-tailwind) - Template for Tauri + React + Typescript + TailwindCSS + Prettier + ESLint build-in.
+*   [vite-react-ts-shadcn-starter (⭐27)](https://github.com/Quilljou/vite-react-ts-tailwind-starter) - Template for creating `React 18` SPA apps with `TypeScript`, `React Router`, `Tailwind CSS`, `Shadcn UI`, `React Query`, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `React-i18next`, `Transmart`.
+*   [template-tauri-vite-react-ts-tailwind (⭐6)](https://github.com/RoyRao2333/template-tauri-vite-react-ts-tailwind) - Template for Tauri + React + Typescript + TailwindCSS + Prettier + ESLint build-in.
 
 ### Framework-agnostic Plugins / Integrations
 

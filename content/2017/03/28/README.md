@@ -10,15 +10,11 @@
 
 ### Command-line tools
 
-*   [jsoncat (⭐26)](https://github.com/pantuza/jsoncat) - Pretty-print Json in terminal with colors and adjusting tabs size.
+*   [jsoncat (⭐27)](https://github.com/pantuza/jsoncat) - Pretty-print Json in terminal with colors and adjusting tabs size.
 
 ### Transformations
 
 *   [json-sharp (⭐6)](https://github.com/globocom/json-sharp) - Javascript tool to process operations on pure JSON objects. (Javascript)
-
-### JSON Schema Validators
-
-*   [jsonschema (⭐3.9k)](https://github.com/Julian/jsonschema) - Python implementation of jsonschema.
 
 ## [2. Awesome R](/content/qinwf/awesome-R/README.md)
 

@@ -46,7 +46,7 @@
 
 ### Utilities
 
-*   [erlware\_commons (⭐218)](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
+*   [erlware\_commons (⭐217)](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
 
 ### Community
 

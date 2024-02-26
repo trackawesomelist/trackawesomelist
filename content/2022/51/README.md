@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 19 - Dec 25, 2022
 
-52 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -255,7 +255,7 @@
 
 ### Self-hosted
 
-*   [Memos (⭐23k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+*   [Memos (⭐25k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 
 ### Blogging platforms (Medium)
 
@@ -392,7 +392,7 @@
 
 ### Image Synthesis / Multi-agents
 
-*   [openai/point-e (⭐6.1k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
+*   [openai/point-e (⭐6.2k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
 
 ### Inbox: Stable Diffusion / Web UI for Stable Diffusion via Google Colab
 
@@ -483,7 +483,7 @@
 ### Open Source Rails Apps / Other external resources
 
 *   [blackCandy (⭐1.1k)](https://github.com/blackcandy-org/black_candy) - A music streaming app (using Rails 7.0).
-*   [dcaf\_case\_management (⭐84)](https://github.com/DARIAEngineering/dcaf_case_management) - A case management app (using Rails 7.0).
+*   [dcaf\_case\_management (⭐85)](https://github.com/DARIAEngineering/dcaf_case_management) - A case management app (using Rails 7.0).
 *   [eol (⭐58)](https://github.com/EOL/deprecated_eol) - An encyclopedia app - using Rails 3.2 - [:earth\_africa:](https://eol.org/)
 *   [mastodon (⭐45k)](https://github.com/mastodon/mastodon) - A microblogging app (using Rails 6.1). - [:earth\_africa:](https://mastodon.social/about)
 *   [postal (⭐14k)](https://github.com/postalserver/postal) - A mail delivery platform (using Rails 5.2).
@@ -492,9 +492,9 @@
 ### Gems / Other external resources
 
 *   [rails\_admin (⭐7.8k)](https://github.com/railsadminteam/rails_admin) - A gem to create & manage admin panel for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_admin)
-*   [rails\_semantic\_logger (⭐279)](https://github.com/reidmorrison/rails_semantic_logger) - A gem to provide alternative logging approach for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_semantic_logger)
+*   [rails\_semantic\_logger (⭐283)](https://github.com/reidmorrison/rails_semantic_logger) - A gem to provide alternative logging approach for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_semantic_logger)
 *   [ranked-model (⭐1.1k)](https://github.com/brendon/ranked-model) - A gem to handle sorting for rows. [:red\_circle:](https://rubygems.org/gems/ranked-model)
-*   [rubocop-rails (⭐759)](https://github.com/rubocop/rubocop-rails) - A code style checking tool. [:red\_circle:](https://rubygems.org/gems/rubocop-rails)
+*   [rubocop-rails (⭐762)](https://github.com/rubocop/rubocop-rails) - A code style checking tool. [:red\_circle:](https://rubygems.org/gems/rubocop-rails)
 *   [view\_component (⭐3.1k)](https://github.com/ViewComponent/view_component) - A gem to introduce view components. [:red\_circle:](https://rubygems.org/gems/view_component)
 
 ## [36. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
@@ -523,7 +523,7 @@
 
 ### Templates / React
 
-*   [react-xs-admin (⭐22)](https://github.com/jsxiaosi/react-xs-admin) - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
+*   [react-xs-admin (⭐24)](https://github.com/jsxiaosi/react-xs-admin) - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
 
 ### Templates / Solid
 
@@ -543,7 +543,7 @@
 
 ### Laravel / Community
 
-*   [Laravel Vite Plugin (⭐729)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
+*   [Laravel Vite Plugin (⭐739)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
 
 ## [40. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
@@ -563,8 +563,8 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [aws (⭐1)](https://github.com/chiemerieezechukwu/aws-zsh-theme) - Based on [robbyrussell (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell), with an extra decorator to show your `$AWS_PROFILE` when it is set.
-*   [pico (⭐0)](https://github.com/PicoGeyer/zsh-pico-prompt) - Simple prompt modified from [zap-prompt (⭐23)](https://github.com/zap-zsh/zap-prompt) with decorators for `git` information, user\@hostname and working directory.
+*   [aws (⭐1)](https://github.com/chiemerieezechukwu/aws-zsh-theme) - Based on [robbyrussell (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell), with an extra decorator to show your `$AWS_PROFILE` when it is set.
+*   [pico (⭐0)](https://github.com/PicoGeyer/zsh-pico-prompt) - Simple prompt modified from [zap-prompt (⭐24)](https://github.com/zap-zsh/zap-prompt) with decorators for `git` information, user\@hostname and working directory.
 *   [valuca (⭐0)](https://github.com/keyaedisa/Valuca) - Variant of [ducula (⭐35)](https://github.com/janjoswig/Ducula). Includes decorators for background job status, username, hostname, virtualenv, current directory, last command's exit code, `git` information and the current time.
 
 ## [42. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
@@ -648,19 +648,19 @@
 
 ### Social Networking
 
-*   [Retrospring (⭐171)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
+*   [Retrospring (⭐177)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
 
 ### Testing
 
 *   WebDrivers
-    *   [Ferrum (⭐1.5k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
+    *   [Ferrum (⭐1.6k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
     *   [Poltergeist (⭐2.5k)](https://github.com/teampoltergeist/poltergeist) - A PhantomJS driver for Capybara.
-    *   [Selenium WebDriver (⭐28k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
+    *   [Selenium WebDriver (⭐29k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
     *   [Watir (⭐1.5k)](https://github.com/watir/watir/) - Web application testing in Ruby.
 
 ### View components
 
-*   [Phlex (⭐988)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
+*   [Phlex (⭐1.1k)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
 
 ## [50. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -681,29 +681,15 @@
 
 ### Software / Communication - Video Conferencing
 
-*   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐163)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
+*   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐174)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [PufferPanel](https://www.pufferpanel.com/) - PufferPanel is an open source game server management panel, designed for both small networks and game server providers. ([Source Code (⭐1.1k)](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`
+*   [PufferPanel](https://www.pufferpanel.com/) - PufferPanel is an open source game server management panel, designed for both small networks and game server providers. ([Source Code (⭐1.2k)](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`
 
 ### Software / Miscellaneous
 
-*   [POMjs](https://password.oppetmoln.se/) - Random Password Generator. ([Source Code (⭐19)](https://github.com/joho1968/POMjs)) `GPL-2.0` `Javascript`
-
-## [52. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Data Science
-
-*   [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/) - Jeroen Janssens
-
-### IDE and editors
-
-*   [Vim Reference Guide](https://learnbyexample.github.io/vim_reference/) - Sundeep Agarwal
-
-### Misc
-
-*   [GNU GREP and RIPGREP](https://learnbyexample.github.io/learn_gnugrep_ripgrep/) - Sundeep Agarwal
+*   [POMjs](https://password.oppetmoln.se/) - Random Password Generator. ([Source Code (⭐20)](https://github.com/joho1968/POMjs)) `GPL-2.0` `Javascript`
 
 ---
 

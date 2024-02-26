@@ -41,7 +41,7 @@
 
 ### Software / Groupware
 
-*   [Group Office](https://www.group-office.com) - Group-Office is an enterprise CRM and groupware tool. Share projects, calendars, files and e-mail online with co-workers and clients. ([Source Code (⭐157)](https://github.com/Intermesh/groupoffice/)) `AGPL-3.0` `PHP`
+*   [Group Office](https://www.group-office.com) - Group-Office is an enterprise CRM and groupware tool. Share projects, calendars, files and e-mail online with co-workers and clients. ([Source Code (⭐162)](https://github.com/Intermesh/groupoffice/)) `AGPL-3.0` `PHP`
 
 ## [4. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -75,25 +75,25 @@
 
 ### Official plugins
 
-*   [App (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/app) - Handles high-level App state and events.
-*   [Screen Reader (⭐420)](https://github.com/ionic-team/capacitor-plugins/tree/main/screen-reader) - Provides access to TalkBack/VoiceOver/etc. and provides simple text-to-speech capabilities for visual accessibility.
+*   [App (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/app) - Handles high-level App state and events.
+*   [Screen Reader (⭐439)](https://github.com/ionic-team/capacitor-plugins/tree/main/screen-reader) - Provides access to TalkBack/VoiceOver/etc. and provides simple text-to-speech capabilities for visual accessibility.
 
 ### Community plugins
 
 *   Firebase
-    *   [Analytics (⭐147)](https://github.com/capacitor-community/firebase-analytics) - A native plugin for Firebase analytics.
-    *   [Crashlytics (⭐67)](https://github.com/capacitor-community/firebase-crashlytics) - Firebase Crashlytics.
-    *   [Fcm (⭐223)](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging features for Capacitor apps.
+    *   [Analytics (⭐152)](https://github.com/capacitor-community/firebase-analytics) - A native plugin for Firebase analytics.
+    *   [Crashlytics (⭐66)](https://github.com/capacitor-community/firebase-crashlytics) - Firebase Crashlytics.
+    *   [Fcm (⭐224)](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging features for Capacitor apps.
     *   [Remote config (⭐22)](https://github.com/capacitor-community/firebase-remote-config) - A native plugin for Firebase remote config.
-*   [Photoviewer (⭐43)](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with full-screen and sharing capabilities.
-*   [Privacy screen (⭐62)](https://github.com/capacitor-community/privacy-screen) - Protects your app from displaying a screenshot in recents screen/App Switcher.
-*   [Screen brightness (⭐15)](https://github.com/capacitor-community/screen-brightness) - Control screen brightness on iOS and android.
+*   [Photoviewer (⭐44)](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with full-screen and sharing capabilities.
+*   [Privacy screen (⭐66)](https://github.com/capacitor-community/privacy-screen) - Protects your app from displaying a screenshot in recents screen/App Switcher.
+*   [Screen brightness (⭐17)](https://github.com/capacitor-community/screen-brightness) - Control screen brightness on iOS and android.
 
 ### Other plugins
 
 *   [Intent (⭐8)](https://github.com/IT-MikeS/capacitor-intents) - Supports multiple broadcast receiving of intents, and sending out BroadcastIntents in Android.
-*   [Oauth2 (⭐204)](https://github.com/moberwasserlechner/capacitor-oauth2) - Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.
-*   [Video player (⭐91)](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
+*   [Oauth2 (⭐207)](https://github.com/moberwasserlechner/capacitor-oauth2) - Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.
+*   [Video player (⭐97)](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
 
 ## [8. Awesome Slim](/content/nekofar/awesome-slim/README.md)
 
@@ -131,17 +131,17 @@
 
 ### Gaming
 
-*   [Esports (⭐53)](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
+*   [Esports (⭐56)](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
 
 ### Testing
 
-*   [Gatling (⭐61)](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
+*   [Gatling (⭐62)](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 
 ## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Audio and Music
 
-*   [Glicol (⭐1.9k)](https://github.com/chaosprint/glicol) — Graph-oriented live coding language written in Rust for collaborative musicking in browsers.
+*   [Glicol (⭐1.9k)](https://github.com/chaosprint/glicol) — Graph-oriented live coding language, for collaborative musicking in browsers.
 
 ## [13. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

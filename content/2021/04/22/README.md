@@ -51,7 +51,7 @@
 ### Debugging
 
 *   [backtracer.cr (⭐15)](https://github.com/Sija/backtracer.cr) - Shard aiming to assist with parsing backtraces into a structured form
-*   [debug.cr (⭐93)](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
+*   [debug.cr (⭐94)](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
 
 ### Misc
 

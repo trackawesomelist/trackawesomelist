@@ -10,7 +10,7 @@
 
 ### Miscellaneous / React
 
-*   [goctopus (⭐82)](https://github.com/Escape-Technologies/goctopus) - an incredibly fast GraphQL discovery & fingerprinting toolbox.
+*   [goctopus (⭐85)](https://github.com/Escape-Technologies/goctopus) - an incredibly fast GraphQL discovery & fingerprinting toolbox.
 
 ### Posts / React
 
@@ -40,7 +40,7 @@
 
 ### Software / Miscellaneous
 
-*   [Flipt](https://flipt.io) - Feature flag solution with support for multiple data backends (alternative to LaunchDarkly). ([Demo](https://try.flipt.io), [Source Code (⭐3.1k)](https://github.com/flipt-io/flipt)) `GPL-3.0` `Docker/K8S/Go`
+*   [Flipt](https://flipt.io) - Feature flag solution with support for multiple data backends (alternative to LaunchDarkly). ([Demo](https://try.flipt.io), [Source Code (⭐3.2k)](https://github.com/flipt-io/flipt)) `GPL-3.0` `Docker/K8S/Go`
 
 ## [5. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 

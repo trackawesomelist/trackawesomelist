@@ -51,7 +51,7 @@
 
 ### Reflection
 
-*   [Refureku (⭐198)](https://github.com/jsoysouvanh/Refureku) - A C++17 runtime reflection and code generation library. \[MIT]
+*   [Refureku (⭐199)](https://github.com/jsoysouvanh/Refureku) - A C++17 runtime reflection and code generation library. \[MIT]
 
 ## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -79,17 +79,17 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-windicss (⭐850)](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
+*   [vite-plugin-windicss (⭐849)](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html (⭐499)](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
+*   [vite-plugin-html (⭐506)](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
 
 ## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
-*   [WooriDB (⭐124)](https://github.com/naomijub/wooridb) - General purpose time serial database inspired by Crux and Datomic.
+*   [WooriDB (⭐125)](https://github.com/naomijub/wooridb) - General purpose time serial database inspired by Crux and Datomic.
 
 ## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

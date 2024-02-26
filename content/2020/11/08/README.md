@@ -16,7 +16,7 @@
 
 ### Framework bindings / integrations / Mouse Events
 
-*   [react-lottie-player (⭐452)](https://github.com/mifi/react-lottie-player) - [demo](https://mifi.github.io/react-lottie-player/) - Declarative lottie animation player.
+*   [react-lottie-player (⭐457)](https://github.com/mifi/react-lottie-player) - [demo](https://mifi.github.io/react-lottie-player/) - Declarative lottie animation player.
 
 ## [3. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
 

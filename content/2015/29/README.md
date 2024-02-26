@@ -177,7 +177,7 @@
 ### Monitoring / Prometheus
 
 *   [Prometheus.io (⭐52k)](https://github.com/prometheus/prometheus) - An open-source service monitoring system and time series database.
-*   [HAProxy Exporter (⭐609)](https://github.com/prometheus/haproxy_exporter) - Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption.
+*   [HAProxy Exporter (⭐608)](https://github.com/prometheus/haproxy_exporter) - Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption.
 
 ## [16. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 

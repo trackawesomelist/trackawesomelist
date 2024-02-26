@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 29 - Aug 04, 2019
 
-52 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -27,7 +27,7 @@
 
 ### Tools / Static Analysis Tools
 
-*   [Androwarn (⭐461)](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviors developed by an Android application.
+*   [Androwarn (⭐462)](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviors developed by an Android application.
 
 ### Tools / Dynamic Analysis Tools
 
@@ -373,11 +373,11 @@
 
 ### Data Visualization
 
-*   [ApexCharts.rb (⭐468)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
+*   [ApexCharts.rb (⭐471)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
 
 ### Web Servers
 
-*   [Agoo (⭐861)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
+*   [Agoo (⭐874)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 
 ## [19. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -397,7 +397,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Dozer (⭐7.7k)](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Mortennn/Dozer)
+*   [Dozer (⭐7.8k)](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Mortennn/Dozer)
 
 ### Utilities / File Organization Tools
 
@@ -487,7 +487,6 @@
 ### Table of Contents / Debugging and Profiling
 
 *   [PHPSpy (⭐1.4k)](https://github.com/adsr/phpspy) - A low-overhead sampling profiler.
-*   [Tideways.io](https://tideways.com/) - Monitoring and profiling tool.
 
 ### Table of Contents / Event
 
@@ -690,7 +689,7 @@
 
 ### Software / Wikis
 
-*   [django-wiki (⭐1.7k)](https://github.com/django-wiki/django-wiki) - Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. ([Demo](https://demo.django-wiki.org/)) `GPL-3.0` `Python`
+*   [django-wiki (⭐1.8k)](https://github.com/django-wiki/django-wiki) - Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. ([Demo](https://demo.django-wiki.org/)) `GPL-3.0` `Python`
 
 ## [41. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
@@ -779,25 +778,31 @@
 *   [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Official Python extension
 *   [Sync settings](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Excellent extension for settings and extension sync of your VS code setup
 
-## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [46. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### HTML and CSS
+
+*   [HTML5 教程](http://www.w3school.com.cn/html5/index.asp)
+
+## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [Laravel File Manager (⭐1.1k)](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
 
-## [47. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
+## [48. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
 
 ### Data Science using Python / Various other helpful tools and resources
 
 *   [Spacy](https://spacy.io/) - Open source toolkit for working with text-based data.
 
-## [48. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [49. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Connectivity Maps
 
 *   [nperf Mobile coverage maps](https://www.nperf.com/en/map) - mobile coverage based on data collected from [nperf app](https://www.nperf.com/en/nperf-applications/).
 
-## [49. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [50. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Data Pipeline
 
@@ -810,7 +815,7 @@
 *   [trident-ml (⭐381)](https://github.com/pmerienne/trident-ml) \[Java] - realtime online machine learning library based on Trident.
 *   [yurita (⭐106)](https://github.com/paypal/yurita) \[Scala] - Anomaly detection framework built on Spark Structured Streaming from Paypal.
 
-## [50. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [51. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn
 
@@ -836,13 +841,13 @@
 *   [elmish-wasm (⭐17)](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
 *   [elm-serverless (⭐170)](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
 
-## [51. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [52. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Libraries
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [Vapor Mailgun Service (⭐103)](https://github.com/vapor-community/VaporMailgunService) – A service to be used with Vapor to send emails.
 
-## [52. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [53. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 

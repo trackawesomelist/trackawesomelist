@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/nix-community/awesome-nix/week/README.md) / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Feb 23, 2024](/content/2024/02/23/README.md)
+
+### Command-Line Tools / Discovery
+
+*   [nix-output-monitor (⭐561)](https://github.com/maralorn/nix-output-monitor) - A tool to produce useful graphs and statistics when building derivations.
+
 ## [Feb 14, 2024](/content/2024/02/14/README.md)
 
 ### Community / Webinterface

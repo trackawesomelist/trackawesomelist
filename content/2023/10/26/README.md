@@ -1,18 +1,12 @@
 # Awesome List Updates on Oct 26, 2023
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
-
-### Resources / Blog posts
-
-*   [Date and DateTime Manipulation in Polars ](https://www.confessionsofadataguy.com/date-and-datetime-manipulation-in-polar/) - A blog post that shows examples of doing a number of date and datetime manipulations in Polars (Python) by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐1)](https://github.com/danielbeach/PolarsDateTimeManipulation/tree/main).
-
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Logging
 
@@ -20,34 +14,34 @@
 
 ### Miscellaneous
 
-*   [faker-cxx (⭐165)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
+*   [faker-cxx (⭐173)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
 *   [inja (⭐1.5k)](https://github.com/pantor/inja) - A Template Engine for Modern C++. \[MIT]
 
-## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Blockchain
 
 *   [kubo (⭐16k)](https://github.com/ipfs/kubo) - A blockchain framework implemented in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol.
 
-## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Game
 
-*   [DotRecast (⭐312)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
+*   [DotRecast (⭐321)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Analytics, Events and Statistics
 
 *   [Trackingplan](https://www.trackingplan.com/) - Automatically detect digital analytics, marketing data and pixels issues, maintain up-to-date tracking plans, and foster seamless collaboration. Deploy it to your production environment with real traffic or add analytics coverage to your regression tests without writing code.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue3-ui-preloader (⭐2)](https://github.com/gbast0s/vue3-ui-preloader) - Vue3 Pre Loader components for vue.js projects with playground.
 
-## [7. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+## [6. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ### 3D
 
@@ -86,13 +80,13 @@
 
 *   [AI Excel Bot](https://aiexcelbot.com) - Write Excel and Google Sheets Formulas Faster With AI `#freemium`
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Other Tools
 
 *   [Aspect](https://aspect.bildhuus.com) - Photo organization application with support for peer-to-peer based synchronization across devices. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [9. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Strategy
 
@@ -154,7 +148,7 @@
 | ------: | -------: | ------: |
 |   2 - 6 |      12+ | 90-120m |
 
-## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Critical Views about Generative AI
 
@@ -169,13 +163,13 @@
 *   [Prompt Engineering Guide | Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/docs/intro)
 *   [Short Courses | Learn Generative AI from DeepLearning.AI](https://www.deeplearning.ai/short-courses/)
 
-## [11. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [10. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Form / Checkbox
 
 *   [Superforms](https://superforms.rocks) - SvelteKit library for handling server and client validation, and client-side display of forms.
 
-## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -185,13 +179,13 @@
 
 *   [ASP.NET Core updates in .NET 8 Release Candidate 2](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-rc-2/) - October 10, 2023 - This is the last release candidate that we plan to share before the final .NET 8 release later this year. Most of the planned features and changes for .NET 8 are part of this release candidate and are ready for you to try out.
 
-## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Deployment / Diagnostics
 
 *   [coffebar/transfer.nvim (⭐36)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
 
-## [14. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [13. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Testing / Zabbix
 

@@ -99,14 +99,14 @@
 
 ### Audio Tools
 
-*   [fre:ac (⭐1.1k)](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
-*   [Jack (⭐11)](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
-*   [K3b (⭐119)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
+*   [fre:ac (⭐1.2k)](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
+*   [Jack (⭐12)](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
+*   [K3b (⭐127)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
 *   [lltag (⭐30)](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
-*   [Rubyripper (⭐110)](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
-*   [split2flac (⭐250)](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
-*   [Whipper (⭐1k)](https://github.com/JoeLametta/whipper) - Python CD-DA ripper preferring accuracy over speed.
-*   [X Audio Copy (⭐3)](https://github.com/giorgiofranceschi/xaudiocopy) - GTK and GNOME application for ripping CD-Audio and encoding in lossy and lossless audio formats.
+*   [Rubyripper (⭐114)](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
+*   [split2flac (⭐249)](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
+*   [Whipper (⭐1.1k)](https://github.com/JoeLametta/whipper) - Python CD-DA ripper preferring accuracy over speed.
+*   [X Audio Copy (⭐4)](https://github.com/giorgiofranceschi/xaudiocopy) - GTK and GNOME application for ripping CD-Audio and encoding in lossy and lossless audio formats.
 
 ### Music Programming
 
@@ -163,11 +163,11 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐280)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs/Docker`
+*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐281)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs/Docker`
 
 ### Software / Resource Planning
 
-*   [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code (⭐357)](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Docker/Perl`
+*   [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code (⭐364)](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Docker/Perl`
 
 ### Software / Ticketing
 
@@ -513,7 +513,7 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 
 ### Gaming
 
-*   [Game Boy Development (⭐3.7k)](https://github.com/gbdev/awesome-gbdev#readme)
+*   [Game Boy Development (⭐3.8k)](https://github.com/gbdev/awesome-gbdev#readme)
 
 ## [44. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 

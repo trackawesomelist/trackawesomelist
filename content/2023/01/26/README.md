@@ -45,7 +45,7 @@
 
 ### Templates / React
 
-*   [vite-reactts18-chakra-jest-husky (⭐46)](https://github.com/The24thDS/vite-reactts18-chakra-jest-husky) - React 18, TypeScript, Chakra UI, Jest, ESLint, Prettier, Husky.
+*   [vite-reactts18-chakra-jest-husky (⭐47)](https://github.com/The24thDS/vite-reactts18-chakra-jest-husky) - React 18, TypeScript, Chakra UI, Jest, ESLint, Prettier, Husky.
 
 ## [4. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Image processing
 
-*   [Pluto (⭐62)](https://github.com/phenopolis/pluto) - A fast and convenient image processing library
+*   [Pluto (⭐64)](https://github.com/phenopolis/pluto) - A fast and convenient image processing library
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐3.4k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
+*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐3.5k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
 
 ### Software / Router
 

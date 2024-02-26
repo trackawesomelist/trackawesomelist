@@ -10,7 +10,7 @@
 
 ### Contents / Language bindings
 
-*   R: [RPostgreSQL (⭐61)](https://github.com/tomoakin/RPostgreSQL)
+*   R: [RPostgreSQL (⭐64)](https://github.com/tomoakin/RPostgreSQL)
 
 ## [2. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
@@ -171,15 +171,15 @@ Language: English
 
 ### Libraries and Frameworks
 
-*   [uppy (⭐27k)](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
+*   [uppy (⭐28k)](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Authentication
 
-*   [oauth2 (⭐797)](https://github.com/ramosbugs/oauth2-rs) — Extensible, strongly-typed Rust OAuth2 client library
-*   [oxide-auth (⭐607)](https://github.com/HeroicKatora/oxide-auth) — A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends [![Build Status](https://api.cirrus-ci.com/github/HeroicKatora/oxide-auth.svg?branch=master)](https://cirrus-ci.com/github/HeroicKatora/oxide-auth)
-*   [yup-oauth2 (⭐199)](https://github.com/dermesser/yup-oauth2) — An oauth2 client implementation providing the Device, Installed and Service Account flows
+*   [oauth2 (⭐803)](https://github.com/ramosbugs/oauth2-rs) — Extensible, strongly-typed OAuth2 client library
+*   [oxide-auth (⭐614)](https://github.com/HeroicKatora/oxide-auth) — A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends [![Build Status](https://api.cirrus-ci.com/github/HeroicKatora/oxide-auth.svg?branch=master)](https://cirrus-ci.com/github/HeroicKatora/oxide-auth)
+*   [yup-oauth2 (⭐201)](https://github.com/dermesser/yup-oauth2) — An oauth2 client implementation providing the Device, Installed and Service Account flows
 
 ## [7. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
@@ -355,7 +355,7 @@ Language: English
 
 ### Documentation
 
-*   [xcribe (⭐60)](https://github.com/brainn-co/xcribe) - Generate API documentation from tests using Swagger (OpenAPI) or API Blueprint specification.
+*   [xcribe (⭐59)](https://github.com/brainn-co/xcribe) - Generate API documentation from tests using Swagger (OpenAPI) or API Blueprint specification.
 
 ## [18. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
@@ -402,7 +402,7 @@ Language: English
 
 ### Developer Tools / Command Line Tools
 
-*   [eureka (⭐721)](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [eureka (⭐723)](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [22. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
@@ -445,8 +445,8 @@ Language: English
 
 ### Resources / Packages
 
-*   [Monetization (⭐4)](https://github.com/KNawm/monetization) - A wrapper around the Web Monetization API to monetize apps. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/dart.png)
-*   [react-webmonetization-meta (⭐3)](https://github.com/uchibeke/react-webmonetization-meta) - A Web Monetization meta tag manager for React. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
+*   [Monetization (⭐5)](https://github.com/KNawm/monetization) - A wrapper around the Web Monetization API to monetize apps. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/dart.png)
+*   [react-webmonetization-meta (⭐4)](https://github.com/uchibeke/react-webmonetization-meta) - A Web Monetization meta tag manager for React. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
 
 ## [28. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
@@ -458,14 +458,12 @@ Language: English
 
 ### Computer Vision
 
-*   [EasyOCR (⭐19k)](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported.
-*   [Kornia (⭐8.3k)](https://github.com/kornia/kornia/) - Open Source Differentiable Computer Vision Library for PyTorch.
-*   [pytesseract (⭐4.9k)](https://github.com/madmaze/pytesseract) - A wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
+*   [pytesseract (⭐5.4k)](https://github.com/madmaze/pytesseract) - A wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
 
 ### Logging
 
 *   [logbook](http://logbook.readthedocs.io/en/stable/) - Logging replacement for Python.
-*   [sentry-python (⭐1.6k)](https://github.com/getsentry/sentry-python) - Sentry SDK for Python.
+*   [sentry-python (⭐1.7k)](https://github.com/getsentry/sentry-python) - Sentry SDK for Python.
 
 ## [30. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
@@ -478,10 +476,6 @@ Language: English
 ### Translation Management
 
 *   [weblate.org](https://weblate.org/) — It's free for libre projects with up to 10,000 string sources for the free tier and Unlimited Self-hosted on-premises.
-
-### Email
-
-*   [Validator.Pizza](https://www.validator.pizza/) — Free API to detect disposable emails.
 
 ### Storage and Media Processing
 
@@ -545,7 +539,7 @@ Language: English
 
 ### Community
 
-*   [Terraform Bug Tracker (⭐40k)](https://github.com/hashicorp/terraform/issues)
+*   [Terraform Bug Tracker (⭐41k)](https://github.com/hashicorp/terraform/issues)
 *   [Terraform Community Modules](https://github.com/terraform-community-modules)
 *   [Terragrunt Reference Architecture (⭐362)](https://github.com/antonbabenko/terragrunt-reference-architecture)
 
@@ -582,22 +576,22 @@ Language: English
 *   [Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code)
 *   [Two Weeks with Terraform](https://charity.wtf/2016/02/23/two-weeks-with-terraform/) - Some hard-earned experience from using Terraform in the wild, and some operational wisdom.
 *   [Terraform: Beyond the Basics with AWS](https://aws.amazon.com/blogs/apn/terraform-beyond-the-basics-with-aws/) - Explanation of a demo using Terraform to provision a sample AWS architecture.
-*   [Terraform cost estimation (⭐652)](https://github.com/antonbabenko/terraform-cost-estimation) - Anonymized, secure, and free Terraform cost estimation based on Terraform plan (0.12+) or Terraform state (any version).
+*   [Terraform cost estimation (⭐656)](https://github.com/antonbabenko/terraform-cost-estimation) - Anonymized, secure, and free Terraform cost estimation based on Terraform plan (0.12+) or Terraform state (any version).
 
 ### Community Modules / Miscellaneous
 
 *   [rancher-terraform-digitalocean (⭐23)](https://github.com/lunagt/rancher-terraform-digitalocean) - Rancher server on digitalocean.
 *   [segmentio/stack (⭐2.1k)](https://github.com/segmentio/stack) - Configures production infrastructure with AWS, Docker, and ECS.
-*   [terraform-aws-atlantis (⭐496)](https://github.com/terraform-aws-modules/terraform-aws-atlantis) - Creates Terraform configurations for running [Atlantis](https://runatlantis.io) on AWS Fargate. Github, Gitlab, and BitBucket are supported.
-*   [terraform-aws-autoscaling (⭐277)](https://github.com/terraform-aws-modules/terraform-aws-autoscaling) - Creates Auto-Scaling Groups and Launch Configurations (verified module).
-*   [terraform-aws-ecr (⭐168)](https://github.com/cloudposse/terraform-aws-ecr) - Manages Docker container registries on AWS ECR.
+*   [terraform-aws-atlantis (⭐500)](https://github.com/terraform-aws-modules/terraform-aws-atlantis) - Creates Terraform configurations for running [Atlantis](https://runatlantis.io) on AWS Fargate. Github, Gitlab, and BitBucket are supported.
+*   [terraform-aws-autoscaling (⭐280)](https://github.com/terraform-aws-modules/terraform-aws-autoscaling) - Creates Auto-Scaling Groups and Launch Configurations (verified module).
+*   [terraform-aws-ecr (⭐169)](https://github.com/cloudposse/terraform-aws-ecr) - Manages Docker container registries on AWS ECR.
 *   [terraform-aws-efs (⭐79)](https://github.com/cloudposse/terraform-aws-efs) - Defines an EFS Filesystem.
 *   [terraform-aws-eks (⭐4k)](https://github.com/terraform-aws-modules/terraform-aws-eks) - Creates Elastic Kubernetes Service on AWS (very popular module).
 *   [terraform-aws-jenkins-ha-agents (⭐8)](https://github.com/neiman-marcus/terraform-aws-jenkins-ha-agents) - EC2 Based Jenkins deployment with HA (spot) agents. Runs on EFS for immutability. Fully customizable, with sensible defaults.
 *   [terraform-aws-key-pair (⭐147)](https://github.com/cloudposse/terraform-aws-key-pair) - Automatically Generate SSH Key Pairs (Public/Private Keys).
 *   [terraform-aws-modules](https://github.com/terraform-aws-modules) - Collection of Terraform AWS modules supported by the community (includes official AWS modules).
 *   [terraform-aws-postgresql-rds (⭐85)](https://github.com/azavea/terraform-aws-postgresql-rds) - Creates PostgreSQL on RDS.
-*   [terraform-aws-rds (⭐811)](https://github.com/terraform-aws-modules/terraform-aws-rds) - Creates RDS resources on AWS (verified module).
+*   [terraform-aws-rds (⭐817)](https://github.com/terraform-aws-modules/terraform-aws-rds) - Creates RDS resources on AWS (verified module).
 *   [terraform-aws-secure-baseline (⭐1.1k)](https://github.com/nozaq/terraform-aws-secure-baseline) - Set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations.
 *   [terraform-aws-security-group (⭐542)](https://github.com/terraform-aws-modules/terraform-aws-security-group) - Creates EC2-VPC security groups on AWS (verified module).
 *   [terraform-aws-ssh-bastion-service (⭐204)](https://github.com/joshuamkite/terraform-aws-ssh-bastion-service) - Terraform plan to deploy ssh bastion as a stateless service on AWS.
@@ -607,25 +601,25 @@ Language: English
 *   [terraform-azurerm-mysql (⭐2)](https://github.com/foreverXZC/terraform-azurerm-mysql) - Create MySql Database on Azure.
 *   [terraform-azurerm-redis (⭐1)](https://github.com/rahulkhengare/terraform-azurerm-redis) - Create Redis on Azure.
 *   [terraform-azurerm-sqlserver (⭐8)](https://github.com/metadevpro/terraform-azurerm-sqlserver-seed) - Create SQl Server Database on Azure.
-*   [terraform-ecs-jenkins (⭐104)](https://github.com/shuaibiyy/terraform-ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform.
-*   [terraform-google-project-factory (⭐796)](https://github.com/terraform-google-modules/terraform-google-project-factory) - Opinionated Google Cloud Platform project creation and configuration with Shared VPC, IAM, APIs, etc.
+*   [terraform-ecs-jenkins (⭐105)](https://github.com/shuaibiyy/terraform-ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform.
+*   [terraform-google-project-factory (⭐804)](https://github.com/terraform-google-modules/terraform-google-project-factory) - Opinionated Google Cloud Platform project creation and configuration with Shared VPC, IAM, APIs, etc.
 *   [terraform-static-website-s3-cloudfront (⭐37)](https://github.com/sjevs/terraform-static-website-s3-cloudfront) - Creates static websites on AWS S3 & Cloudfront based on variables.
 *   [tf\_aws\_bastion\_s3\_keys (⭐190)](https://github.com/terraform-community-modules/tf_aws_bastion_s3_keys) - Creates bastion hosts on AWS EC2.
 
 ### Self-Hosted Registries / Miscellaneous
 
-*   [anthology (⭐124)](https://github.com/erikvanbrakel/anthology) - Private Terraform registry implementation as an alternative to the official registry.
-*   [citizen (⭐591)](https://github.com/outsideris/citizen) - Private Terraform Module/Provider Registry
+*   [anthology (⭐127)](https://github.com/erikvanbrakel/anthology) - Private Terraform registry implementation as an alternative to the official registry.
+*   [citizen (⭐597)](https://github.com/outsideris/citizen) - Private Terraform Module/Provider Registry
 *   [terraform-simple-registry (⭐64)](https://github.com/apparentlymart/terraform-simple-registry) - Simple implementation of the Terraform registry protocols.
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-healthchecksio (⭐37)](https://github.com/kristofferahl/terraform-provider-healthchecksio) - Provider to manage healthchecks.io resources.
-*   [terraform-provider-keycloak (⭐548)](https://github.com/mrparkers/terraform-provider-keycloak) - Provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
+*   [terraform-provider-healthchecksio (⭐38)](https://github.com/kristofferahl/terraform-provider-healthchecksio) - Provider to manage healthchecks.io resources.
+*   [terraform-provider-keycloak (⭐553)](https://github.com/mrparkers/terraform-provider-keycloak) - Provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
 *   [terraform-provider-pingdom (⭐121)](https://github.com/russellcardullo/terraform-provider-pingdom) - Provider to manage Pingdom resources.
 *   [terraform-provider-secrethub (⭐49)](https://github.com/secrethub/terraform-provider-secrethub) - Provider for SecretHub.
-*   [terraform-provider-stripe (⭐238)](https://github.com/franckverrot/terraform-provider-stripe) - Provider for Stripe.
-*   [terraform-provider-uptimerobot (⭐121)](https://github.com/louy/terraform-provider-uptimerobot) - Provider to manage uptimerobot resources.
+*   [terraform-provider-stripe (⭐240)](https://github.com/franckverrot/terraform-provider-stripe) - Provider for Stripe.
+*   [terraform-provider-uptimerobot (⭐122)](https://github.com/louy/terraform-provider-uptimerobot) - Provider to manage uptimerobot resources.
 *   [terraform-provider-vaulted (⭐37)](https://github.com/sumup-oss/terraform-provider-vaulted) - Encrypted HashiCorp Vault secrets via Terraform that can be stored in SCM such as Git.
 
 ### Testing / Community providers
@@ -637,30 +631,30 @@ Language: English
 
 ### Tools / Community providers
 
-*   [AirIAM (⭐744)](https://github.com/bridgecrewio/AirIAM) - AirIAM is a tool for AWS IAM to least privilege Terraform execution framework.
-*   [atlantis (⭐6.9k)](https://github.com/runatlantis/atlantis) - Unified workflow for collaborating on Terraform through GitHub.
-*   [fogg (⭐283)](https://github.com/chanzuckerberg/fogg) - A tool for eliminating toil in managing terraform repositories.
-*   [former2 (⭐2k)](https://github.com/iann0036/former2) - Generate terraform configuration from your existing resources within your AWS account.
-*   [iam-policy-json-to-terraform (⭐737)](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws\_iam\_policy\_document
+*   [AirIAM (⭐749)](https://github.com/bridgecrewio/AirIAM) - AirIAM is a tool for AWS IAM to least privilege Terraform execution framework.
+*   [atlantis (⭐7.1k)](https://github.com/runatlantis/atlantis) - Unified workflow for collaborating on Terraform through GitHub.
+*   [fogg (⭐284)](https://github.com/chanzuckerberg/fogg) - A tool for eliminating toil in managing terraform repositories.
+*   [former2 (⭐2.1k)](https://github.com/iann0036/former2) - Generate terraform configuration from your existing resources within your AWS account.
+*   [iam-policy-json-to-terraform (⭐742)](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws\_iam\_policy\_document
 *   [k2tf (⭐1.1k)](https://github.com/sl1pm4t/k2tf) - Kubernetes YAML to Terraform HCL converter.
-*   [pre-commit-terraform (⭐2.8k)](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations (auto-format, validate, update docs).
+*   [pre-commit-terraform (⭐2.9k)](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations (auto-format, validate, update docs).
 *   [pretf (⭐102)](https://github.com/raymondbutcher/pretf) - drop-in Terraform wrapper that generates Terraform configuration with Python. See [pretf documentation](https://pretf.readthedocs.io/en/latest/)
 *   [python-terrafile (⭐37)](https://github.com/claranet/python-terrafile) - Systematically manage external modules from Github for use in Terraform.
 *   [ruby-terraform (⭐105)](https://github.com/infrablocks/ruby_terraform) - Simple Ruby wrapper for invoking terraform commands.
-*   [scratchrelaxtv (⭐27)](https://github.com/YakDriver/scratchrelaxtv) - Simple Python tool to help with module development - extract vars from `main.tf` to generate `variables.tf` and make module usage stub from `variables.tf`.
-*   [tads-boilerplate (⭐712)](https://github.com/Thomvaill/tads-boilerplate) - The power of Ansible and Terraform + the simplicity of Docker Swarm = Infrastructure as Code and DevOps best practices.
+*   [scratchrelaxtv (⭐28)](https://github.com/YakDriver/scratchrelaxtv) - Simple Python tool to help with module development - extract vars from `main.tf` to generate `variables.tf` and make module usage stub from `variables.tf`.
+*   [tads-boilerplate (⭐717)](https://github.com/Thomvaill/tads-boilerplate) - The power of Ansible and Terraform + the simplicity of Docker Swarm = Infrastructure as Code and DevOps best practices.
 *   [tau (⭐75)](https://github.com/avinor/tau) - Tau is a thin wrapper on top of terraform to manage multiple deployments, dependencies, and secrets.
 *   [terraboard (⭐1.9k)](https://github.com/camptocamp/terraboard) - Web dashboard to inspect Terraform States.
 *   [terraboot (⭐37)](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it.
 *   [terraform-provisioner (⭐13)](https://github.com/shuaibiyy/terraform-provisioner) - Tool for managing multiple provisions of the same Terraform scripts.
 *   [terraform-rake-tasks (⭐4)](https://github.com/gina-alaska/terraform-rake-tasks) - Shared Rake tasks for managing terraform plans.
 *   [terraforming (⭐4.3k)](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate). Similar to `terraformer`.
-*   [terragrunt (⭐7.4k)](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
+*   [terragrunt (⭐7.5k)](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
 *   [terrahelp (⭐377)](https://github.com/opencredo/terrahelp) - Command line utility aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 *   [tfenv (⭐4.2k)](https://github.com/tfutils/tfenv) - Terraform version manager inspired by rbenv.
-*   [tfscaffold (⭐232)](https://github.com/tfutils/tfscaffold) - Framework for controlling multi-environment multi-component terraform-managed AWS infrastructure.
-*   [tfschema (⭐285)](https://github.com/minamijoyo/tfschema) - Schema inspector for Terraform providers.
-*   [tfupdate (⭐487)](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform configurations.
+*   [tfscaffold (⭐236)](https://github.com/tfutils/tfscaffold) - Framework for controlling multi-environment multi-component terraform-managed AWS infrastructure.
+*   [tfschema (⭐287)](https://github.com/minamijoyo/tfschema) - Schema inspector for Terraform providers.
+*   [tfupdate (⭐497)](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform configurations.
 *   [tfwrapper (⭐8)](https://github.com/manheim/tfwrapper) - Rubygem providing rake tasks for running Hashicorp Terraform sanely.
 *   [xterrafile (⭐66)](https://github.com/devopsmakers/xterrafile) Systematically manage external modules from the module registry, git, or local directories for use in Terraform (written in Go).
 
@@ -693,7 +687,7 @@ Language: English
 
 ### Editor Plugins / IDE
 
-*   [Terraform-lsp (⭐570)](https://github.com/juliosueiras/terraform-lsp) (Language Server Protocol for Terraform)
+*   [Terraform-lsp (⭐572)](https://github.com/juliosueiras/terraform-lsp) (Language Server Protocol for Terraform)
 *   [Vim-Terraform (⭐1k)](https://github.com/hashivim/vim-terraform)
 *   [Vim-Terraform-Completion (⭐334)](https://github.com/juliosueiras/vim-terraform-completion)
 

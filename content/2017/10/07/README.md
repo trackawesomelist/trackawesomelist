@@ -42,11 +42,11 @@
 
 ### Artificial Intelligence
 
-*   [Kaldi (⭐13k)](https://github.com/kaldi-asr/kaldi) - Toolkit for speech recognition. \[Apache]
+*   [Kaldi (⭐14k)](https://github.com/kaldi-asr/kaldi) - Toolkit for speech recognition. \[Apache]
 
 ### Debug
 
-*   [fff (⭐687)](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. \[MIT]
+*   [fff (⭐692)](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. \[MIT]
 
 ### Articles
 
@@ -180,7 +180,7 @@
 ### Install tools
 
 *   [Squirrel (⭐7.1k)](https://github.com/squirrel/squirrel.windows) - Squirrel is both a set of tools and a library, to completely manage both installation and updating your desktop Windows application.
-*   [Chocolatey (⭐9.6k)](https://github.com/chocolatey/choco) - like `yum` or `apt-get`, but for Windows.
+*   [Chocolatey (⭐9.7k)](https://github.com/chocolatey/choco) - like `yum` or `apt-get`, but for Windows.
 
 ### Interoperability
 

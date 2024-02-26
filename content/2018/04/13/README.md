@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 13, 2018
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,19 +30,13 @@
 
 *   [CodeCombat (⭐7.8k)](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code
 
-## [5. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
-
-### Other
-
-*   [basil.js](http://basiljs.ch/) - Scripting (JS) in InDesign for designers and artists in the spirit of Processing.
-
-## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Software / Java
 
 *   [Mixer (⭐1)](https://github.com/keith-turner/mixer) - Prototype showing how to use [Apache Fluo](https://fluo.apache.org/) to continuously merge multiple large graphs into a single derived one.
 
-## [7. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
+## [6. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
 ### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
 

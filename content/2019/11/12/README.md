@@ -56,7 +56,7 @@
 
 ### Gaming
 
-*   [PlayCanvas (⭐227)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
+*   [PlayCanvas (⭐229)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 
 ## [8. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 

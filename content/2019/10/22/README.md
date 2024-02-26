@@ -47,7 +47,7 @@
 
 ### Software / Video Surveillance
 
-*   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐181)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
+*   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐182)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
 
 ## [8. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -142,7 +142,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Table of Contents / Event
 
-*   [PHP Defer (⭐272)](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
+*   [PHP Defer (⭐273)](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
 
 ## [19. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 

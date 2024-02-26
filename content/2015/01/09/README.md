@@ -24,7 +24,7 @@
 
 ### Build Tools
 
-*   [reaxt (⭐367)](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
+*   [reaxt (⭐366)](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
 
 ### Cryptography
 
@@ -38,7 +38,7 @@
 
 ### Framework Components
 
-*   [plug\_rails\_cookie\_session\_store (⭐96)](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
+*   [plug\_rails\_cookie\_session\_store (⭐95)](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
 *   [plugs (⭐19)](https://github.com/sugar-framework/plugs) - Collection of Plug middleware for web applications.
 *   [plugsnag (⭐66)](https://github.com/jarednorman/plugsnag) - Bugsnag notifier for Elixir's plug.
 

@@ -271,7 +271,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Table of Contents / Testing
 
-*   [PHP-Mock (⭐351)](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
+*   [PHP-Mock (⭐350)](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
 
 ### Table of Contents / Build Tools
 
@@ -279,13 +279,13 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Table of Contents / Task Runners
 
-*   [Robo (⭐2.6k)](https://github.com/consolidation/Robo) - A PHP Task runner with object-orientated configurations.
+*   [Robo (⭐2.7k)](https://github.com/consolidation/Robo) - A PHP Task runner with object-orientated configurations.
 
 ## [24. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Artificial Intelligence
 
-*   [simple\_bayes (⭐391)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+*   [simple\_bayes (⭐392)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 
 ### Authentication
 
@@ -309,7 +309,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Editors
 
-*   [elixir-tmbundle (⭐261)](https://github.com/elixir-lang/elixir-tmbundle) - A TextMate and SublimeText bundle for Elixir.
+*   [elixir-tmbundle (⭐262)](https://github.com/elixir-lang/elixir-tmbundle) - A TextMate and SublimeText bundle for Elixir.
 
 ## [25. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -752,7 +752,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### System Utilities / Directory Navigation
 
-*   [histstat (⭐92)](https://github.com/vesche/histstat) - History for netstat
+*   [histstat (⭐93)](https://github.com/vesche/histstat) - History for netstat
 
 ---
 

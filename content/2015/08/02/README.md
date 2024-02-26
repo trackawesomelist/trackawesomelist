@@ -41,7 +41,7 @@
 
 ### Contents / CLI
 
-*   [pgcli (⭐11k)](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
+*   [pgcli (⭐12k)](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 
 ## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

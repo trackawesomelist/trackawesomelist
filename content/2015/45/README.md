@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 09 - Nov 15, 2015
 
-27 awesome lists updated this week.
+28 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -35,7 +35,46 @@
 
 *   [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc) by **Steve Jobs** \[15:04]
 
-## [5. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [5. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### 操作系统
+
+*   [Linux工具快速教程 (⭐5.7k)](https://github.com/me115/linuxtools_rst)
+
+### C++
+
+*   [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
+*   [CGDB中文手册 (⭐265)](https://github.com/leeyiw/cgdb-manual-in-chinese)
+*   [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
+
+### Android
+
+*   [Android开发技术前线(android-tech-frontier) (⭐10k)](https://github.com/bboyfeiyu/android-tech-frontier)
+
+### Golang
+
+*   [Go 语言标准库 (⭐9.4k)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
+*   [Go语言博客实践 (⭐398)](https://github.com/achun/Go-Blog-In-Action)
+
+### iOS
+
+*   [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
+*   [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
+
+### Java
+
+*   [Apache Shiro 用户指南 (⭐472)](https://github.com/waylau/apache-shiro-1.2.x-reference)
+*   [Jersey 2.x 用户指南 (⭐245)](https://github.com/waylau/Jersey-2.x-User-Guide)
+*   [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
+*   [Netty 4.x 用户指南 (⭐2.3k)](https://github.com/waylau/netty-4-user-guide)
+*   [Netty 实战(精髓) (⭐1.8k)](https://github.com/waylau/essential-netty-in-action)
+*   [REST 实战 (⭐471)](https://github.com/waylau/rest-in-action)
+
+### JavaScript
+
+*   [javascript 的 12 个怪癖 (⭐263)](https://github.com/justjavac/12-javascript-quirks)
+
+## [6. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Keep You Computer Awake / LaTeX
 
@@ -69,7 +108,7 @@
 *   [QR Code Generator](https://www.unitag.io/qrcode): Adding a QR code to your poster can help you get more audience.
 *   [SHIELDS.io](http://shields.io/): Make a beautiful badge by yourself.
 
-## [6. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [7. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Resources for those already familiar with GitHub
 
@@ -80,37 +119,37 @@
 
 *   [Gitron](https://gitron.herokuapp.com) - A web game about GitHub based on Tron movies.
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
 *   [docopt.cpp (⭐1k)](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. \[MIT/Boost]
 
-## [8. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [9. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Another Information Sources / Technologies for security
 
 *   [doger.io](http://doger.io/)\
     This page is an attempt to document the ins and outs of containers on Linux. This is not just restricted to programmers looking to implement containers or use container like features in their own code but also Sysadmins and Users who want to get more of a handle on how containers work 'under the hood'.
 
-## [9. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [10. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / Java
 
 *   [Serenity](http://www.thucydides.info/) - It is an open source library for writing better quality automated acceptance tests faster. (Formerly Thucydides).
 
-## [10. Amas](/content/sindresorhus/amas/week/README.md)
+## [11. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Vadim Demedes (⭐2)](https://github.com/vdemedes/ama) - Node.js addict.
 *   [Raymond Clanan (⭐0)](https://github.com/rclanan/ama) - Freelance full stack developer at [Utopian Concept LLC](http://utopianconcept.com/).
 
-## [11. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [12. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Admin Interface
 
-*   [Administrate (⭐5.7k)](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard, by Thoughtbot.
+*   [Administrate (⭐5.8k)](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard, by Thoughtbot.
 
 ### API Builder and Discovery
 
@@ -118,7 +157,7 @@
 
 ### CLI Utilities
 
-*   [Pastel (⭐626)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
+*   [Pastel (⭐628)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
 
 ### Code Analysis and Metrics
 
@@ -131,7 +170,7 @@
 ### Natural Language Processing
 
 *   [Parslet](http://kschiess.github.io/parslet/) - A small Ruby library for constructing parsers in the PEG (Parsing Expression Grammar) fashion.
-*   [Treetop (⭐299)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
+*   [Treetop (⭐300)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
 
 ### Queues and Messaging
 
@@ -142,19 +181,19 @@
 
 *   [elastics (⭐101)](https://github.com/printercu/elastics-rb) - Simple ElasticSearch client with support for migrations and ActiveRecord integration.
 
-## [12. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [13. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Other Interesting Articles / Polyfills
 
 *   [Flexbox For Interfaces All The Way: Tracks Case Study](http://www.smashingmagazine.com/2015/11/flexbox-interfaces-tracks-case-study/?utm_source=html5weekly\&utm_medium=email)
 
-## [13. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [14. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Articles & Papers / Scala
 
 *   [Service Discovery in a Microservice Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/) - Overview of discovery and registration patterns.
 
-## [14. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [15. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Load tools
 
@@ -174,36 +213,36 @@
 
 *   [How NOT to Measure Latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU) - Gil Tene.
 
-## [15. Awesome Db](/content/numetriclabz/awesome-db/week/README.md)
+## [16. Awesome Db](/content/numetriclabz/awesome-db/week/README.md)
 
 ### JAVA
 
 *   [Titan (⭐5.2k)](https://github.com/thinkaurelius/titan) - Distributed Graph Database <http://titandb.io>
 
-## [16. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [17. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Maps / Third Party
 
 *   [mapmap.js (⭐108)](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps
 
-## [17. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [18. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
 *   [picotool (⭐353)](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
 
-## [18. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [19. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### UI / Paid Books
 
 *   [Dragula (⭐21k)](https://github.com/bevacqua/dragula) - Framework agnostic drag and drop library, supports jQuery integration.
 *   [X-editable (⭐6.5k)](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
 
-## [19. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [20. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
-*   [progress\_bar (⭐320)](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
+*   [progress\_bar (⭐321)](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
 
 ### Embedded Systems
 
@@ -213,7 +252,7 @@
 
 *   [toniq (⭐342)](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
 
-## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [21. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / J companies
 
@@ -231,7 +270,7 @@
 
 *   Dragan Gaic <http://www.gajotres.net/>
 
-## [21. Tips](/content/git-tips/tips/week/README.md)
+## [22. Tips](/content/git-tips/tips/week/README.md)
 
 ## Show the most recent tag on the current branch.
 
@@ -239,7 +278,7 @@
 git describe --tags --abbrev=0
 ```
 
-## [22. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [23. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -278,7 +317,7 @@ git describe --tags --abbrev=0
 
 *   [Adobe Stock](https://stock.adobe.com/) - Photos, Illustrations, Vectors.
 
-## [23. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [24. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Middlewares
 
@@ -289,7 +328,7 @@ git describe --tags --abbrev=0
 
 *   [Freeboard](http://freeboard.io/) - A real-time interactive dashboard and visualization creator implementing an intuitive drag & drop interface.
 
-## [24. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [25. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Mad science
 
@@ -353,14 +392,14 @@ git describe --tags --abbrev=0
 
 *   [Node.js blog](https://nodejs.org/en/blog/)
 
-## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [26. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
 *   [GMStepper (⭐922)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 *   [StarryStars (⭐174)](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
 
-## [26. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [27. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Blog posts
 
@@ -400,7 +439,7 @@ git describe --tags --abbrev=0
 *   [Erik Meijer](https://www.linkedin.com/pub/erik-meijer/0/5ba/924) - Former software architect for Microsoft, Functional Programming researcher, gives lectures on	FP, Software Design and Reactive programming.
 *   [Brian Beckman](https://www.linkedin.com/in/brianbeckman) - Former Microsoft Researcher, actual Software Engineer at Amazon. Contributed to implementing FP features to inumerous Microsoft technologies such as C#, LINQ and F#
 
-## [27. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [28. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Programming Languages / JavaScript
 

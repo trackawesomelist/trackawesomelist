@@ -141,7 +141,7 @@ Free
 
 ### Contents / Utilities
 
-*   [pg\_migrate (⭐27)](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
+*   [pg\_migrate (⭐29)](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
 
 ## [16. Tips](/content/git-tips/tips/week/README.md)
 
@@ -210,7 +210,7 @@ git checkout master@{yesterday}
 
 ### Table of Contents / Authentication and Authorization
 
-*   [Aura.Auth (⭐130)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
+*   [Aura.Auth (⭐131)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
 
 ### Table of Contents / Filtering and Validation
 
@@ -407,11 +407,11 @@ $ git config --global merge.tool meld
 
 ### Command Line Applications
 
-*   [tabula (⭐89)](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
+*   [tabula (⭐90)](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
 
 ### Testing
 
-*   [double (⭐45)](https://github.com/sonerdy/double) - Create stub dependencies for testing without overwriting global modules.
+*   [double (⭐47)](https://github.com/sonerdy/double) - Create stub dependencies for testing without overwriting global modules.
 
 ### Utilities
 

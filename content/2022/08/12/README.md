@@ -39,16 +39,60 @@
 
 *   [SubQuery](https://subquery.network) - Open, fast, flexible, and decentralised cross-chain data indexer for Algorand ([getting started guide](https://academy.subquery.network/quickstart/quickstart_chains/algorand.html)).
 
-## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [6. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
 
-### Misc
+### Assembly
 
-*   [PDQ: Pretty Darn Quick: An Agile, All-Purpose Methodology](https://leanpub.com/PDQ) - Jeff Franz-Lien *(Leanpub account or valid email requested)*
-*   [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap *(Leanpub account or valid email requested)*
+*   逆向工程权威指南 《Reverse Engineering for Beginners》 - Dennis Yurichev, Antiy Labs, Archer
+    *   [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.1](https://beginners.re/RE4B-CN-vol1.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF)
+    *   [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.2](https://beginners.re/RE4B-CN-vol2.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF)
 
-### Software Architecture
+### JavaScript
 
-*   [Practicing Domain-Driven Design - Part 1](https://leanpub.com/Practicing-DDD) - Scott Millett *(Leanpub account or valid email requested)*
+*   [你不知道的JavaScript (⭐175k)](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
+*   [JavaScript 原理](https://web.archive.org/web/20170112164945/http://typeof.net/s/jsmech/)
+
+### JavaScript / Backbone.js
+
+*   [Backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
+*   [Backbone.js入门教程第二版 (⭐951)](https://github.com/the5fire/backbonejs-learning-note)
+*   [Backbone.js中文文档](https://web.archive.org/web/20200916085144/https://www.html.cn/doc/backbone/) *(:card\_file\_box: archived)*
+
+### JavaScript / D3.js
+
+*   [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
+*   [官方API文档 (⭐107k)](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
+*   [Learning D3.JS](http://d3.decembercafe.org) - 十二月咖啡馆
+
+### JavaScript / Electron.js
+
+*   [Electron 中文文档](https://wizardforcel.gitbooks.io/electron-doc/content) - WizardForcel
+*   [Electron 中文文档](https://www.w3cschool.cn/electronmanual) - W3Cschool
+
+### JavaScript / ExtJS
+
+*   [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
+
+### JavaScript / jQuery
+
+*   [简单易懂的JQuery魔法](https://web.archive.org/web/20201127045453/http://www.nowamagic.net/librarys/books/contents/jquery) *(:card\_file\_box: archived)*
+*   [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
+
+### JavaScript / React.js
+
+*   [Learn React & Webpack by building the Hacker News front page (⭐411)](https://github.com/theJian/build-a-hn-front-page)
+*   [React-Bits 中文文档 (⭐663)](https://github.com/hateonion/react-bits-CN)
+*   [React webpack-cookbook (⭐272)](https://github.com/fakefish/react-webpack-cookbook)
+*   [React.js 入门教程](http://fraserxu.me/intro-to-react/)
+*   [React.js 中文文档](https://discountry.github.io/react/)
+
+### JavaScript / Vue.js
+
+*   [Vue3.0学习教程与实战案例](https://vue3.chengpeiquan.com) - chengpeiquan
+
+### JavaScript / Zepto.js
+
+*   [Zepto.js 中文文档](https://web.archive.org/web/20210303025214/https://www.css88.com/doc/zeptojs_api/) *(:card\_file\_box: archived)*
 
 ## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -66,17 +110,17 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-confluent (⭐104)](https://github.com/confluentinc/terraform-provider-confluent) - Provider for Confluent.
+*   [terraform-provider-confluent (⭐106)](https://github.com/confluentinc/terraform-provider-confluent) - Provider for Confluent.
 
 ## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
-*   [hot-lib-reloader (⭐482)](https://github.com/rksm/hot-lib-reloader-rs) — Hot reload Rust code [![build badge](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml)
+*   [hot-lib-reloader (⭐487)](https://github.com/rksm/hot-lib-reloader-rs) — Hot reload Rust code [![build badge](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml)
 
 ### Libraries / Virtualization
 
-*   [oxidecomputer/propolis (⭐145)](https://github.com/oxidecomputer/propolis) - Rust-based userspace program for illumos bhyve kernel modules
+*   [oxidecomputer/propolis (⭐154)](https://github.com/oxidecomputer/propolis) - Userspace program for illumos bhyve kernel modules
 
 ## [11. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 

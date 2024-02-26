@@ -52,13 +52,13 @@
 
 ### Crates / Components
 
-*   [yew-oauth2 (⭐38)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
+*   [yew-oauth2 (⭐42)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
 
 ## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Standard CLI
 
-*   [carapace-spec (⭐13)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
+*   [carapace-spec (⭐15)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
 
 ### Functional
 

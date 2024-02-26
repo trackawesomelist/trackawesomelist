@@ -18,7 +18,7 @@
 
 Allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
 
-Installs: 10000 | Stars: 3429 | Last update: 19 Nov 2023
+Installs: 10000 | Stars: 3430 | Last update: n/a
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -36,7 +36,7 @@ Installs: 10000 | Stars: 3429 | Last update: 19 Nov 2023
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [sujit-baniya/goravel (⭐11)](https://github.com/sujit-baniya/goravel) - Laravel similar boilerplate go Go with support for Gofiber or Gin.
+*   [sujit-baniya/goravel (⭐14)](https://github.com/sujit-baniya/goravel) - Laravel similar boilerplate go Go with support for Gofiber or Gin.
 
 ## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

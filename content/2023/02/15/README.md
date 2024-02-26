@@ -16,7 +16,7 @@
 
 ### Libraries / System
 
-*   [sorairolake/sysexits-rs (⭐19)](https://github.com/sorairolake/sysexits-rs) \[[sysexits](https://crates.io/crates/sysexits)] — The system exit codes as defined by [`<sysexits.h>`](https://manpages.ubuntu.com/manpages/lunar/man3/sysexits.h.3head.html). [![CI](https://github.com/sorairolake/sysexits-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/sysexits-rs/actions?query=workflow%3ACI)
+*   [sorairolake/sysexits-rs (⭐20)](https://github.com/sorairolake/sysexits-rs) \[[sysexits](https://crates.io/crates/sysexits)] — The system exit codes as defined by [`<sysexits.h>`](https://manpages.ubuntu.com/manpages/lunar/man3/sysexits.h.3head.html). [![CI](https://github.com/sorairolake/sysexits-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/sysexits-rs/actions?query=workflow%3ACI)
 
 ## [3. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 

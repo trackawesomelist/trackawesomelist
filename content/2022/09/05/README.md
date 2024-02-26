@@ -16,7 +16,7 @@
 
 ### Database Schema Migration
 
-*   [bytebase (⭐9.3k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
+*   [bytebase (⭐9.4k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 
 ## [3. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 

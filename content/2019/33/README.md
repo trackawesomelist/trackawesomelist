@@ -10,15 +10,15 @@
 
 ### Gaming
 
-*   [libGDX (⭐864)](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
+*   [libGDX (⭐878)](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
 
 ### Health and Social Science
 
-*   [Computational Neuroscience (⭐606)](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
+*   [Computational Neuroscience (⭐630)](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
 
 ### Miscellaneous
 
-*   [IRC (⭐807)](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
+*   [IRC (⭐822)](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
 
 ## [2. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -236,7 +236,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Sharry (⭐688)](https://github.com/eikek/sharry) - Share files easily over the internet between authenticated and anonymous users (both ways) with resumable up- and downloads. `GPL-3.0` `Scala/Java/deb/Docker`
+*   [Sharry (⭐707)](https://github.com/eikek/sharry) - Share files easily over the internet between authenticated and anonymous users (both ways) with resumable up- and downloads. `GPL-3.0` `Scala/Java/deb/Docker`
 
 ### Software / Proxy
 

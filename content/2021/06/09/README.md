@@ -10,7 +10,7 @@
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code (⭐305)](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Docker/Ruby`
+*   [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code (⭐304)](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Docker/Ruby`
 *   [juntagrico](https://juntagrico.org/) - Management platform for community gardens and vegetable cooperatives. ([Source Code (⭐43)](https://github.com/juntagrico/juntagrico)) `LGPL-3.0` `Python`
 *   [Local Food Nodes](https://localfoodnodes.org/) - Your open source platform for peoples driven local food markets and CSA. ([Source Code](https://gitlab.com/localfoodnodes/localfoodnodes)) `MIT` `PHP`
 
@@ -98,14 +98,14 @@
 
 ### Shells
 
-*   [ngs (⭐1.2k)](https://github.com/ngs-lang/ngs) - Fully featured scripting language created specifically for Ops. REPL is being developed.
+*   [ngs (⭐1.3k)](https://github.com/ngs-lang/ngs) - Fully featured scripting language created specifically for Ops. REPL is being developed.
 *   [powershell](https://docs.microsoft.com/en-us/powershell/scripting/overview) a cross-platform task automation and configuration management framework, consisting of a command-line shell and scripting language
 
 ### Command-Line Productivity
 
 *   [pass](https://www.passwordstore.org/) - Manage passwords from the command line with GPG encryption and optional git integration.
-*   [usql (⭐8.3k)](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
-*   [xplr (⭐3.6k)](https://github.com/sayanarijit/xplr) -  A hackable, minimal, fast TUI file explorer
+*   [usql (⭐8.4k)](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
+*   [xplr (⭐3.8k)](https://github.com/sayanarijit/xplr) -  A hackable, minimal, fast TUI file explorer
 
 ### Customization / Directory Navigation
 
@@ -113,7 +113,7 @@
 
 ### For Developers / Directory Navigation
 
-*   [just (⭐14k)](https://github.com/casey/just) - Task runner for saving and running project-specific commands.
+*   [just (⭐16k)](https://github.com/casey/just) - Task runner for saving and running project-specific commands.
 
 ### System Utilities / Directory Navigation
 
@@ -121,12 +121,12 @@
 
 ### Applications / Directory Navigation
 
-*   [pcalc (⭐504)](https://github.com/alt-romes/programmer-calculator) - Calculator made for programmers working with multiple number representations, sizes, and overall close to the bits.
+*   [pcalc (⭐520)](https://github.com/alt-romes/programmer-calculator) - Calculator made for programmers working with multiple number representations, sizes, and overall close to the bits.
 
 ### Shell Script Development / Directory Navigation
 
-*   [bashew (⭐220)](https://github.com/pforret/bashew) - bash script creator - from small stand-alone script to complex projects with CI/CD and testing
-*   [getoptions (⭐324)](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
+*   [bashew (⭐234)](https://github.com/pforret/bashew) - bash script creator - from small stand-alone script to complex projects with CI/CD and testing
+*   [getoptions (⭐352)](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
 *   [Shell Field Guide](https://raimonster.com/scripting-field-guide/)
 
 ## [12. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)

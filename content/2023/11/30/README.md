@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 30, 2023
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,15 +22,15 @@
 
 ### Game Engine
 
-*   [JNGL (⭐201)](https://github.com/jhasse/jngl/) - 2D library for Linux, Windows, macOS, Android, iOS, Xbox, the Nintendo Switch and the Web. \[zlib] [website](https://bixense.com/jngl/)
+*   [JNGL (⭐208)](https://github.com/jhasse/jngl/) - 2D library for Linux, Windows, macOS, Android, iOS, Xbox, the Nintendo Switch and the Web. \[zlib] [website](https://bixense.com/jngl/)
 
 ### JSON
 
-*   [Sonic-Cpp (⭐744)](https://github.com/bytedance/sonic-cpp) - A fast JSON serializing & deserializing library, accelerated by SIMD. \[Apache-2.0]
+*   [Sonic-Cpp (⭐747)](https://github.com/bytedance/sonic-cpp) - A fast JSON serializing & deserializing library, accelerated by SIMD. \[Apache-2.0]
 
 ### PDF
 
-*   [pdfio (⭐139)](https://github.com/michaelrsweet/pdfio) - A simple C library for reading and writing PDF files. \[Apache-2] [website](https://www.msweet.org/pdfio/)
+*   [pdfio (⭐140)](https://github.com/michaelrsweet/pdfio) - A simple C library for reading and writing PDF files. \[Apache-2] [website](https://www.msweet.org/pdfio/)
 
 ## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -106,11 +106,11 @@
 
 ### Courses and Educational Materials
 
-*   [udlbook/udlbook (⭐4.2k)](https://github.com/udlbook/udlbook?utm_source=alphasignalai.beehiiv.com\&utm_medium=newsletter\&utm_campaign=the-most-powerful-rag-chatbot): Understanding Deep Learning by Professor Simon J.D. Prince
+*   [udlbook/udlbook (⭐4.4k)](https://github.com/udlbook/udlbook?utm_source=alphasignalai.beehiiv.com\&utm_medium=newsletter\&utm_campaign=the-most-powerful-rag-chatbot): Understanding Deep Learning by Professor Simon J.D. Prince
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
-*   [weaviate/Verba (⭐1.7k)](https://github.com/weaviate/Verba): Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
+*   [weaviate/Verba (⭐1.8k)](https://github.com/weaviate/Verba): Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 
 ### LLM Evaluation / Multi-agents
 
@@ -204,14 +204,7 @@
 
 ### Software / Monitoring
 
-*   [openITCOCKPIT Community Edition](https://openitcockpit.io/) - Monitoring Suite featuring seamless integrations with Naemon, Checkmk, Grafana and more. ([Demo](https://demo.openitcockpit.io/), [Source Code (⭐241)](https://github.com/it-novum/openITCOCKPIT)) `GPL-3.0` `deb/Docker`
-
-## [17. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Graphics Programming
-
-*   [Computer Graphics from scratch](http://gabrielgambetta.com/computer-graphics-from-scratch) - Gabriel Gambetta *(:construction: in process)*
-*   [DirectX manual](http://user.xmission.com/~legalize/book/download/index.html) (draft)
+*   [openITCOCKPIT Community Edition](https://openitcockpit.io/) - Monitoring Suite featuring seamless integrations with Naemon, Checkmk, Grafana and more. ([Demo](https://demo.openitcockpit.io/), [Source Code (⭐243)](https://github.com/it-novum/openITCOCKPIT)) `GPL-3.0` `deb/Docker`
 
 ---
 

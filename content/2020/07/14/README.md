@@ -38,7 +38,7 @@
 
 ### Integrations
 
-*   [heroku-playwright-buildpack (⭐42)](https://github.com/mxschmitt/heroku-playwright-buildpack) - Heroku buildpack for running Playwright on a Heroku Dyno.
+*   [heroku-playwright-buildpack (⭐43)](https://github.com/mxschmitt/heroku-playwright-buildpack) - Heroku buildpack for running Playwright on a Heroku Dyno.
 
 ### Showcases
 

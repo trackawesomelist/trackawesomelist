@@ -82,7 +82,7 @@
 
 ### Miscellaneous
 
-*   [react-apple-signin-auth (⭐92)](https://github.com/A-Tokyo/react-apple-signin-auth) - Apple signin for React using the official Apple JS SDK.
+*   [react-apple-signin-auth (⭐93)](https://github.com/A-Tokyo/react-apple-signin-auth) - Apple signin for React using the official Apple JS SDK.
 
 ## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -291,12 +291,12 @@
 
 ### CLI Utils
 
-*   [coin (⭐7)](https://github.com/caian-org/coin) - Command-line application that performs currency conversion via the [Fixer API](https://fixer.io)
+*   [coin (⭐6)](https://github.com/caian-org/coin) - Command-line application that performs currency conversion via the [Fixer API](https://fixer.io)
 
 ### Debugging
 
 *   [backtracer.cr (⭐15)](https://github.com/Sija/backtracer.cr) - Shard aiming to assist with parsing backtraces into a structured form
-*   [debug.cr (⭐93)](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
+*   [debug.cr (⭐94)](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
 
 ### Misc
 
@@ -310,7 +310,7 @@
 
 ### Image Processing
 
-*   [SAIL (⭐270)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
+*   [SAIL (⭐273)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
 
 ## [36. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
@@ -351,7 +351,7 @@
 
 ### Resources / Packages
 
-*   [Tables for Laravel (⭐420)](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Provides a DataTable component with integration for [Laravel Query Builder (⭐3.7k)](https://github.com/spatie/laravel-query-builder).
+*   [Tables for Laravel (⭐431)](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Provides a DataTable component with integration for [Laravel Query Builder (⭐3.9k)](https://github.com/spatie/laravel-query-builder).
 
 ## [39. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 

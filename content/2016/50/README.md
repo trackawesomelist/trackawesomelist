@@ -100,18 +100,9 @@
 
 ## [13. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
-### Debugging Tools
-
-*   Profiler
-    *   [line\_profiler (⭐3.6k)](https://github.com/rkern/line_profiler) - Line-by-line profiling.
-    *   [memory\_profiler (⭐81)](https://github.com/fabianp/memory_profiler) - Monitor Memory usage of Python code.
-    *   [py-spy (⭐10k)](https://github.com/benfred/py-spy) - A sampling profiler for Python programs. Written in Rust.
-    *   [pyflame (⭐3k)](https://github.com/uber/pyflame) - A ptracing profiler For Python.
-    *   [vprof (⭐3.9k)](https://github.com/nvdv/vprof) - Visual Python profiler.
-
 ### Third-party APIs
 
-*   [boto3 (⭐8.2k)](https://github.com/boto/boto3) - Python interface to Amazon Web Services.
+*   [boto3 (⭐8.6k)](https://github.com/boto/boto3) - Python interface to Amazon Web Services.
 
 ## [14. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 

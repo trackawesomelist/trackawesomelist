@@ -51,7 +51,7 @@
 
 ### JSON
 
-*   [cJSON (⭐9.7k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
+*   [cJSON (⭐9.8k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
 *   [simdjson (⭐18k)](https://github.com/lemire/simdjson) - Extremely fast JSON library that can parse gigabytes of JSON per second. \[Apache-2.0]
 
 ## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)

@@ -93,7 +93,7 @@
 
 ### Math
 
-*   [GLM (⭐8.4k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
+*   [GLM (⭐8.5k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
 
 ## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -148,7 +148,7 @@
 
 ### Component Collections / Material Design
 
-*   [shards-react (⭐755)](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
+*   [shards-react (⭐753)](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
 
 ### Inspect / Lazy Load
 

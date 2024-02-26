@@ -10,11 +10,11 @@
 
 ### Table of Contents / Dependency Management Extras
 
-*   [Composer Patches (⭐1.4k)](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
+*   [Composer Patches (⭐1.5k)](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
 
 ### Table of Contents / Testing
 
-*   [PHP MySQL Engine (⭐542)](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
+*   [PHP MySQL Engine (⭐543)](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
 
 ### Configuration / PHP Websites
 

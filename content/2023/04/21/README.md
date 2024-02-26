@@ -33,7 +33,7 @@
 
 ### Machine Learning
 
-*   [ruby-openai (⭐2.1k)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
+*   [ruby-openai (⭐2.2k)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
 
 ## [5. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 

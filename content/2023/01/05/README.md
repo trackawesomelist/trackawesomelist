@@ -36,7 +36,7 @@
 
 ### Miscellaneous / React
 
-*   [graphql-shield-generator (⭐7)](https://github.com/omar-dulaimi/graphql-shield-generator) - Emits a GraphQL Shield from your GraphQL schema.
+*   [graphql-shield-generator (⭐8)](https://github.com/omar-dulaimi/graphql-shield-generator) - Emits a GraphQL Shield from your GraphQL schema.
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -76,7 +76,7 @@
 
 ### CLI Utils
 
-*   [hetzner-k3s (⭐1.2k)](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to quickly create and manage Kubernetes clusters in Hetzner Cloud
+*   [hetzner-k3s (⭐1.3k)](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to quickly create and manage Kubernetes clusters in Hetzner Cloud
 
 ## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Software / Automation
 
-*   [Automatisch](https://automatisch.io) - Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (alternative to Zapier). ([Source Code (⭐3.5k)](https://github.com/automatisch/automatisch)) `AGPL-3.0` `Docker`
+*   [Automatisch](https://automatisch.io) - Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (alternative to Zapier). ([Source Code (⭐3.7k)](https://github.com/automatisch/automatisch)) `AGPL-3.0` `Docker`
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

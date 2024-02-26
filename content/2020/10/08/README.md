@@ -45,13 +45,13 @@
 
 ### Software / Automation
 
-*   [MeTube (⭐2.5k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
+*   [MeTube (⭐2.6k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
 
 ## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Customization / Directory Navigation
 
-*   [powerlevel10k (⭐39k)](https://github.com/romkatv/powerlevel10k) - Super flexible awesome powerline ZSH theme
+*   [powerlevel10k (⭐42k)](https://github.com/romkatv/powerlevel10k) - Super flexible awesome powerline ZSH theme
 
 ### System Utilities / Directory Navigation
 
@@ -59,15 +59,15 @@
 
 ### Downloading and Serving / Directory Navigation
 
-*   [httpie (⭐30k)](https://github.com/httpie/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
+*   [httpie (⭐31k)](https://github.com/httpie/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
 
 ### Applications / Directory Navigation
 
-*   [kanban.bash (⭐854)](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity bash hackers (csv-based)
+*   [kanban.bash (⭐869)](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity bash hackers (csv-based)
 
 ### Shell Script Development / Directory Navigation
 
-*   [powscript (⭐147)](https://github.com/coderofsalvation/powscript) - bash transpiler written in bash (coffeescript for bash)
+*   [powscript (⭐149)](https://github.com/coderofsalvation/powscript) - bash transpiler written in bash (coffeescript for bash)
 *   [Bash Official Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 *   [The Linux Documentation Project: Bash Programming - Intro/How-to](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 *   [The Linux Documentation Project: Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
@@ -124,7 +124,6 @@
 
 ### Module Listings
 
-*   [SS Addons: Themes and Modules](https://addons.silverstripe.org) - The official module registry.
 *   [SSMods: Detailed Module Search](http://ssmods.com) - Alternative module search.
 *   [Most Used Modules](https://addons.silverstripe.org/add-ons?sort=relative) - Shows which modules are downloaded most.
 
@@ -134,14 +133,14 @@
 
 ### I18N (Internationalisation)
 
-*   [Fluent (⭐90)](https://github.com/tractorcow-farm/silverstripe-fluent) - Multi-language translate module for Silverstripe, without having to manage separate site trees.
+*   [Fluent (⭐91)](https://github.com/tractorcow-farm/silverstripe-fluent) - Multi-language translate module for Silverstripe, without having to manage separate site trees.
 *   [Autotranslate (⭐4)](https://github.com/bratiask/silverstripe-autotranslate) -  Creates automatic translations of fields using Google Translate API.
 
 ### Development Helpers
 
-*   [Debugbar (⭐53)](https://github.com/lekoala/silverstripe-debugbar/) -  Shows debugging statistics in your browser.
+*   [Debugbar (⭐55)](https://github.com/lekoala/silverstripe-debugbar/) -  Shows debugging statistics in your browser.
 *   [IdeAnnotator (⭐44)](https://github.com/silverleague/silverstripe-ideannotator) -  Auto-generates class annotations on dev/build.
-*   [Populate (⭐24)](https://github.com/dnadesign/silverstripe-populate) -  Populate your database through YAML files.
+*   [Populate (⭐26)](https://github.com/dnadesign/silverstripe-populate) -  Populate your database through YAML files.
 *   [Mock DataObjects (⭐18)](https://github.com/unclecheese/silverstripe-mock-dataobjects) -  Allows DataObjects to self-populate intelligently with fake data.
 *   [Version Truncator (⭐34)](https://github.com/axllent/silverstripe-version-truncator) - Automatically delete old SiteTree page versions.
 *   [UserSwitcher (⭐16)](https://github.com/sheadawson/silverstripe-userswitcher) - Adds a small form both in the frontend and backend to quickly login as any user.

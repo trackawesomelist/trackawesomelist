@@ -33,10 +33,10 @@
 
 ### Concurrency
 
-*   [Bolt (⭐367)](https://github.com/HSA-Libraries/Bolt) - A C++ template library optimized for GPUs. \[Apache2]
+*   [Bolt (⭐368)](https://github.com/HSA-Libraries/Bolt) - A C++ template library optimized for GPUs. \[Apache2]
 *   [Libclsph (⭐52)](https://github.com/libclsph/libclsph) - An OpenCL based GPU accelerated SPH fluid simulation library. \[MIT]
 *   [Thrust](http://thrust.github.io/) - A parallel algorithms library which resembles the C++ Standard Template Library (STL). \[Apache2]
-*   [VexCL (⭐693)](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA. \[MIT]
+*   [VexCL (⭐694)](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA. \[MIT]
 
 ### Database
 
@@ -194,15 +194,15 @@
 ### Code Analysis and Metrics
 
 *   [Brakeman (⭐6.8k)](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications.
-*   [Flay (⭐720)](https://github.com/seattlerb/flay) - Flay analyzes code for structural similarities. Differences in literal values, variable, class, method names, whitespace, programming style, braces vs do/end, etc are all ignored. Making this totally rad.
-*   [Flog (⭐888)](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
-*   [Rubycritic (⭐3.2k)](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter.
+*   [Flay (⭐723)](https://github.com/seattlerb/flay) - Flay analyzes code for structural similarities. Differences in literal values, variable, class, method names, whitespace, programming style, braces vs do/end, etc are all ignored. Making this totally rad.
+*   [Flog (⭐893)](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
+*   [Rubycritic (⭐3.3k)](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter.
 *   [SimpleCov (⭐4.7k)](https://github.com/colszowka/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites.
 
 ### Core Extensions
 
 *   [ActiveSupport (⭐54k)](https://github.com/rails/rails/tree/master/activesupport) - A collection of utility classes and standard library extensions.
-*   [Ruby Facets (⭐788)](https://github.com/rubyworks/facets) - The premiere collection of general purpose method extensions and standard additions for Ruby.
+*   [Ruby Facets (⭐789)](https://github.com/rubyworks/facets) - The premiere collection of general purpose method extensions and standard additions for Ruby.
 
 ### Dashboards
 
@@ -237,7 +237,7 @@
 
 ### HTTP Clients and tools
 
-*   [excon (⭐1.1k)](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
+*   [excon (⭐1.2k)](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
 *   [Patron (⭐542)](https://github.com/toland/patron) - Patron is a Ruby HTTP client library based on libcurl.
 *   [Savon (⭐2.1k)](https://github.com/savonrb/savon) - Savon is a SOAP client for the Ruby programming language.
 
@@ -251,18 +251,18 @@
 
 ### Logging
 
-*   [HttpLog (⭐770)](https://github.com/trusche/httplog) - Log outgoing HTTP requests.
+*   [HttpLog (⭐774)](https://github.com/trusche/httplog) - Log outgoing HTTP requests.
 *   [Logging (⭐527)](https://github.com/TwP/logging) - A flexible logging library for use in Ruby programs based on the design of Java's log4j library.
-*   [Lograge (⭐3.3k)](https://github.com/roidrage/lograge) - An attempt to tame Rails' default policy to log everything.
+*   [Lograge (⭐3.4k)](https://github.com/roidrage/lograge) - An attempt to tame Rails' default policy to log everything.
 
 ### PDF
 
-*   [Kitabu (⭐659)](https://github.com/fnando/kitabu) - A framework for creating e-books from Markdown/Textile text markup using Ruby.
-*   [RGhost (⭐185)](https://github.com/shairontoledo/rghost) - RGhost is a document creation and conversion API.
+*   [Kitabu (⭐660)](https://github.com/fnando/kitabu) - A framework for creating e-books from Markdown/Textile text markup using Ruby.
+*   [RGhost (⭐187)](https://github.com/shairontoledo/rghost) - RGhost is a document creation and conversion API.
 
 ### Processes
 
-*   [childprocess (⭐544)](https://github.com/jarib/childprocess) - Cross-platform ruby library for managing child processes.
+*   [childprocess (⭐560)](https://github.com/jarib/childprocess) - Cross-platform ruby library for managing child processes.
 
 ### Robotics
 
@@ -272,7 +272,7 @@
 
 *   [Feed normalizer (⭐134)](https://github.com/aasmith/feed-normalizer) - Extensible Ruby wrapper for Atom and RSS parsers.
 *   [Feedjira (⭐2.1k)](https://github.com/feedjira/feedjira) - A feed fetching and parsing library.
-*   [Simple rss (⭐223)](https://github.com/cardmagic/simple-rss) - A simple, flexible, extensible, and liberal RSS and Atom reader.
+*   [Simple rss (⭐224)](https://github.com/cardmagic/simple-rss) - A simple, flexible, extensible, and liberal RSS and Atom reader.
 
 ### Search
 
@@ -287,7 +287,7 @@
     *   [Fake Person (⭐116)](https://github.com/adamcooke/fake-person) - Uses some of the most popular given & surnames in the US & UK.
     *   [faker (⭐11k)](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers.
     *   [ffaker (⭐1.5k)](https://github.com/ffaker/ffaker) - A faster Faker, generates dummy data, rewrite of faker.
-    *   [Forgery (⭐793)](https://github.com/sevenwire/forgery) - Easy and customizable generation of forged data.
+    *   [Forgery (⭐794)](https://github.com/sevenwire/forgery) - Easy and customizable generation of forged data.
 
 ### Third-party APIs
 
@@ -295,7 +295,7 @@
 
 ### Web Crawling
 
-*   [LinkThumbnailer (⭐512)](https://github.com/gottfrois/link_thumbnailer) - Ruby gem that generates thumbnail images and videos from a given URL. Much like popular social website with link preview.
+*   [LinkThumbnailer (⭐511)](https://github.com/gottfrois/link_thumbnailer) - Ruby gem that generates thumbnail images and videos from a given URL. Much like popular social website with link preview.
 *   [Mechanize (⭐4.3k)](https://github.com/sparklemotion/mechanize) - Mechanize is a ruby library that makes automated web interaction easy.
 
 ---

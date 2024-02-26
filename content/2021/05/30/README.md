@@ -87,19 +87,6 @@
     *   [fOptions](https://cran.r-project.org/web/packages/fOptions/index.html) - Pricing and Evaluating Basic Options.
     *   [fPortfolio](https://cran.r-project.org/web/packages/fPortfolio/index.html) - Portfolio Selection and Optimization.
 
-### Frameworks / Data Visualization
-
-*   [QuantLib](https://www.quantlib.org) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
-    *   [JQuantLib](http://www.jquantlib.org) - Java port.
-    *   [RQuantLib](http://dirk.eddelbuettel.com/code/rquantlib.html) - R port.
-    *   [QuantLibAddin](https://www.quantlib.org/quantlibaddin/) - Excel support.
-    *   [QuantLibXL](https://www.quantlib.org/quantlibxl/) - Excel support.
-    *   [QLNet (⭐360)](https://github.com/amaggiulli/qlnet) - .Net port.
-    *   [PyQL (⭐891)](https://github.com/enthought/pyql) - Python port.
-    *   [QuantLib.jl (⭐134)](https://github.com/pazzo83/QuantLib.jl) - Julia port.
-    *   [QuantLib-Python Documentation](https://quantlib-python-docs.readthedocs.io/) - Documentation for the Python bindings for the QuantLib library
-    *   [QuantLib with Automatic Differention enabled (⭐12)](https://github.com/auto-differentiation/quantlib-xad) - Integration of Automatic Differentiation with the QuantLib library
-
 ### Reproducing Works, Training & Books / Data Visualization
 
 *   [MEDIUM\_NoteBook (⭐2k)](https://github.com/cerlymarco/MEDIUM_NoteBook) - Repository containing notebooks of [cerlymarco](https://github.com/cerlymarco)'s posts on Medium.

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 18, 2022
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -31,14 +31,14 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [risbow (⭐1)](https://github.com/waddupp00/risbow) - A [risto (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/risto.zsh-theme) inspired ZSH theme with a lolcat like rainbow effect.
-*   [robbyrussell-plus (⭐0)](https://github.com/jackjyq/robbyrussell-plus-zsh-theme) - Based on [robbyrussell (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme), adds a hostname decorator.
+*   [risbow (⭐1)](https://github.com/waddupp00/risbow) - A [risto (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/risto.zsh-theme) inspired ZSH theme with a lolcat like rainbow effect.
+*   [robbyrussell-plus (⭐0)](https://github.com/jackjyq/robbyrussell-plus-zsh-theme) - Based on [robbyrussell (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme), adds a hostname decorator.
 
 ## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Open Source / Community
 
-*   [Hathora (⭐534)](https://github.com/hathora/hathora) - Multiplayer game framework.
+*   [Hathora (⭐536)](https://github.com/hathora/hathora) - Multiplayer game framework.
 
 ## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [doyaaaaaken/kotlin-csv (⭐573)](https://github.com/doyaaaaaken/kotlin-csv) - A pure kotlin simple csv reader/writer.
+*   [doyaaaaaken/kotlin-csv (⭐576)](https://github.com/doyaaaaaken/kotlin-csv) - A pure kotlin simple csv reader/writer.
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -72,12 +72,12 @@
 
 ### Tools / Native Tools
 
-*   [Baremaps](https://www.baremaps.com/) - Open source pipeline for producing Mapbox vector tiles from OpenStreetMap with Postgis and Java. ([Source Code (⭐464)](https://github.com/baremaps/baremaps))
+*   [Baremaps](https://www.baremaps.com/) - Open source pipeline for producing Mapbox vector tiles from OpenStreetMap with Postgis and Java. ([Source Code (⭐468)](https://github.com/baremaps/baremaps))
 
 ### Tasking Managers / Web Services
 
 *   [HOT Tasking Manager](https://tasks.hotosm.org/) - Mapping tasks for supporting humanitarian missions in crisis areas.
-*   [NotesReview](https://ent8r.github.io/NotesReview/) - Interface for searching and resolving OSM notes. ([Source Code (⭐41)](https://github.com/ENT8R/NotesReview))
+*   [NotesReview](https://ent8r.github.io/NotesReview/) - Interface for searching and resolving OSM notes. ([Source Code (⭐42)](https://github.com/ENT8R/NotesReview))
 
 ### Maps / Web Maps
 
@@ -85,7 +85,7 @@
 
 ### Maps / Generators
 
-*   [MyOSMatic](https://print.get-map.org/new/) - Website for generating printable street maps from OSM data. ([Source Code (⭐63)](https://github.com/hholzgra/maposmatic/))
+*   [MyOSMatic](https://print.get-map.org/new/) - Website for generating printable street maps from OSM data. ([Source Code (⭐66)](https://github.com/hholzgra/maposmatic/))
 
 ### Maps / Map Styles
 
@@ -94,11 +94,11 @@
 ### Libraries / JavaScript
 
 *   [openstreetmap-tag-map (⭐7)](https://github.com/tanrax/openstreetmap-tag-map) - Tag for Riot.js to generate iframe-map from the country and region.
-*   [node-osmium (⭐135)](https://github.com/osmcode/node-osmium) - Node wrapper for libosmium for working with OpenStreetMap data.
+*   [node-osmium (⭐137)](https://github.com/osmcode/node-osmium) - Node wrapper for libosmium for working with OpenStreetMap data.
 
 ### Libraries / Python
 
-*   [overpass-wrapper (⭐340)](https://github.com/mvexel/overpass-api-python-wrapper) - Wrapper around the OpenStreetMap Overpass API.
+*   [overpass-wrapper (⭐344)](https://github.com/mvexel/overpass-api-python-wrapper) - Wrapper around the OpenStreetMap Overpass API.
 
 ### Public APIs / Java
 
@@ -137,19 +137,13 @@
 
 *   [Unsupervised Representaton Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) - ***ICLR'16***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=3321343160055675528\&hl=en\&as_sdt=0,5)].
 
-## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Networking
-
-*   [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
-
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Games
 
 *   [ttyperacer/terminal-typeracer](https://gitlab.com/ttyperacer/terminal-typeracer) - Single player typing test game written for the terminal
 
-## [13. GoBooks](/content/dariubs/GoBooks/README.md)
+## [12. GoBooks](/content/dariubs/GoBooks/README.md)
 
 ### 2021 - [Everyday Go](https://openfaas.gumroad.com/l/everyday-golang) / Why does this book look so different?
 

@@ -39,7 +39,7 @@
 
 ### JSON
 
-*   [cJSON (⭐9.7k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
+*   [cJSON (⭐9.8k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
 *   [simdjson (⭐18k)](https://github.com/lemire/simdjson) - Extremely fast JSON library that can parse gigabytes of JSON per second. \[Apache-2.0]
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
@@ -555,7 +555,7 @@
 
 ### HTTP
 
-*   [Crawly (⭐792)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
+*   [Crawly (⭐812)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
 *   [etag\_plug (⭐22)](https://github.com/sascha-wolf/etag_plug) - A simple to use shallow ETag plug.
 
 ## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
@@ -660,7 +660,7 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Rapidbay (⭐622)](https://github.com/hauxir/rapidbay/) - Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
+*   [Rapidbay (⭐656)](https://github.com/hauxir/rapidbay/) - Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
 
 ## [29. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 

@@ -104,16 +104,16 @@
 
 ### Actors
 
-*   [alf (⭐167)](https://github.com/antonmi/ALF) - Flow-based Application Layer Framework.
+*   [alf (⭐172)](https://github.com/antonmi/ALF) - Flow-based Application Layer Framework.
 
 ### Algorithms and Data structures
 
-*   [aja (⭐167)](https://github.com/sabiwara/aja) - High performance persistent vectors and ordered maps.
+*   [aja (⭐171)](https://github.com/sabiwara/aja) - High performance persistent vectors and ordered maps.
 *   [conrex (⭐54)](https://github.com/NAISorg/conrex) - An Elixir implementation of the CONREC algorithm for topographic or isochrone maps.
 
 ### Applications
 
-*   [Igthorn (⭐95)](https://github.com/cinderella-man/igthorn) - Cryptocurrecy trading platform / trading bot with admin panel.
+*   [Igthorn (⭐96)](https://github.com/cinderella-man/igthorn) - Cryptocurrecy trading platform / trading bot with admin panel.
 
 ### Artificial Intelligence
 
@@ -134,7 +134,7 @@
 
 ### Cryptography
 
-*   [nimble\_totp (⭐361)](https://github.com/dashbitco/nimble_totp) - Allows implementation of Time-based One-Time Passwords (TOTP) for 2FA.
+*   [nimble\_totp (⭐364)](https://github.com/dashbitco/nimble_totp) - Allows implementation of Time-based One-Time Passwords (TOTP) for 2FA.
 
 ### Debugging
 
@@ -146,8 +146,8 @@
 
 ### Games
 
-*   [pictionary (⭐23)](https://github.com/Arp-G/pictionary) - A multiplayer guessing and drawing game ([skribbl.io](https://skribbl.io/) clone).
-*   [rayex (⭐28)](https://github.com/shiryel/rayex) - Raylib bindings to Elixir for games programming.
+*   [pictionary (⭐24)](https://github.com/Arp-G/pictionary) - A multiplayer guessing and drawing game ([skribbl.io](https://skribbl.io/) clone).
+*   [rayex (⭐31)](https://github.com/shiryel/rayex) - Raylib bindings to Elixir for games programming.
 *   [Rovex (⭐10)](https://github.com/emadb/rovex) - An implementation of the Mars Rover kata in Elixir transformed in a basic multiplayer game.
 
 ### HTTP
@@ -156,7 +156,7 @@
 
 ### Instrumenting / Monitoring
 
-*   [prom\_ex (⭐544)](https://github.com/akoutmos/prom_ex) - Prometheus metrics and Grafana dashboards for all of your favorite Elixir libraries.
+*   [prom\_ex (⭐555)](https://github.com/akoutmos/prom_ex) - Prometheus metrics and Grafana dashboards for all of your favorite Elixir libraries.
 
 ### JSON
 
@@ -164,7 +164,7 @@
 
 ### Macros
 
-*   [typed\_struct (⭐697)](https://github.com/ejpcmac/typed_struct) - An Elixir library for defining structs with a type without writing boilerplate code.
+*   [typed\_struct (⭐702)](https://github.com/ejpcmac/typed_struct) - An Elixir library for defining structs with a type without writing boilerplate code.
 
 ### Miscellaneous
 
@@ -172,7 +172,7 @@
 
 ### Networking
 
-*   [Firezone (⭐5.8k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
+*   [Firezone (⭐6k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
 *   [sise (⭐0)](https://github.com/aytchell/sise) - A simple to use SSDP client.
 
 ### Protocols
@@ -185,7 +185,7 @@
 
 ### QUIC
 
-*   [quicer (⭐192)](https://github.com/emqx/quic) - QUIC protocol erlang library.
+*   [quicer (⭐194)](https://github.com/emqx/quic) - QUIC protocol erlang library.
 
 ### Release Management
 
@@ -193,12 +193,12 @@
 
 ### Search
 
-*   [elasticlunr (⭐182)](https://github.com/heywhy/ex_elasticlunr) - A small, full-text search library for use in the Elixir environment.
+*   [elasticlunr (⭐184)](https://github.com/heywhy/ex_elasticlunr) - A small, full-text search library for use in the Elixir environment.
 
 ### Testing
 
-*   [patch (⭐169)](https://github.com/ihumanable/patch) - Ergonomic Mocking for Elixir.
-*   [toxiproxy\_ex (⭐48)](https://github.com/Jcambass/toxiproxy_ex) - API client for the resilience testing tool Toxiproxy.
+*   [patch (⭐176)](https://github.com/ihumanable/patch) - Ergonomic Mocking for Elixir.
+*   [toxiproxy\_ex (⭐49)](https://github.com/Jcambass/toxiproxy_ex) - API client for the resilience testing tool Toxiproxy.
 
 ### Text and Numbers
 
@@ -335,16 +335,19 @@
 
 *   [midilib](https://www.lexaloffle.com/bbs/?cat=7#tag=midilib) - Custom SFX instruments
 
-## [25. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [25. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
 
 ### IDE and editors
 
-*   [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/emacs.html) - Free Software Foundation Inc. (HTML, PDF)
-*   [Learn Vim (the Smart Way) (⭐13k)](https://github.com/iggredible/Learn-Vim) - Igor Irianto (HTML) *(:construction: in process)*
-*   [Learn Vim For the Last Time](https://danielmiessler.com/study/vim/) - Daniel Miessler
-*   [VIM-GALORE - All things Vim! (⭐16k)](https://github.com/mhinz/vim-galore#readme) - Marco Hinz (HTML)
-*   [Vim Recipes](https://web.archive.org/web/20130302172911/http://vim.runpaint.org/vim-recipes.pdf) - Run Paint Run Run, Run Paint Press (PDF) *(:card\_file\_box: archived)*
-*   [Visual Studio 2019 Succinctly](https://www.syncfusion.com/ebooks/visual-studio-2019-succinctly) - Alessandro Del Sole (online, PDF)
+*   [大家來學 VIM](http://www.study-area.org/tips/vim/index.html) - Edward Lee
+*   [所需即所获：像 IDE 一样使用 vim (⭐9.3k)](https://github.com/yangyangwithgnu/use_vim_as_ide) - yangyangwithgnu
+*   [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
+*   [IntelliJ IDEA 简体中文专题教程 (⭐21k)](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - Judas.n
+*   [Vim中文文档 (⭐206)](https://github.com/vimcn/vimcdoc) - Vim 中文计划, Yian Willis
+
+### Android
+
+*   [Point-of-Android (⭐1.6k)](https://github.com/FX-Max/Point-of-Android)
 
 ## [26. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
@@ -415,12 +418,12 @@
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [go-generics (⭐48)](https://github.com/bobg/go-generics) - Generic slice, map, set, iterator, and goroutine utilities.
+*   [go-generics (⭐54)](https://github.com/bobg/go-generics) - Generic slice, map, set, iterator, and goroutine utilities.
 *   [quadtree (⭐32)](https://github.com/s0rg/quadtree) - Generic, zero-alloc, 100%-test covered quadtree.
 
 ### Relational Database Drivers
 
-*   [ydb-go-sdk (⭐119)](https://github.com/ydb-platform/ydb-go-sdk) - native and database/sql driver YDB (Yandex Database)
+*   [ydb-go-sdk (⭐121)](https://github.com/ydb-platform/ydb-go-sdk) - native and database/sql driver YDB (Yandex Database)
 
 ### Goroutines
 
@@ -429,7 +432,7 @@
 
 ### Messaging
 
-*   [Ratus (⭐96)](https://github.com/hyperonym/ratus) - Ratus is a RESTful asynchronous task queue server.
+*   [Ratus (⭐97)](https://github.com/hyperonym/ratus) - Ratus is a RESTful asynchronous task queue server.
 
 ### Scrapers
 
@@ -439,12 +442,12 @@
 
 *   [countries (⭐85)](https://github.com/pioz/countries) - All you need when you are working with countries in Go.
 *   [graterm (⭐27)](https://github.com/skovtunenko/graterm) - Provides primitives to perform ordered (sequential/concurrent) GRAceful TERMination (aka shutdown) in Go application.
-*   [remote-touchpad (⭐462)](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone.
-*   [scan (⭐56)](https://github.com/wroge/scan) - Scan sql rows into any type powered by generics.
+*   [remote-touchpad (⭐465)](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone.
+*   [scan (⭐59)](https://github.com/wroge/scan) - Scan sql rows into any type powered by generics.
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
-*   [asty (⭐68)](https://github.com/asty-org/asty) - Converts golang AST to JSON and JSON to AST.
+*   [asty (⭐69)](https://github.com/asty-org/asty) - Converts golang AST to JSON and JSON to AST.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
@@ -459,16 +462,16 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [NeonLink (⭐234)](https://github.com/AlexSciFier/neonlink) - Self-hosted bookmark service with unique design and simple installation with Docker. `MIT` `Docker`
+*   [NeonLink (⭐240)](https://github.com/AlexSciFier/neonlink) - Self-hosted bookmark service with unique design and simple installation with Docker. `MIT` `Docker`
 
 ### Software / Communication - Video Conferencing
 
-*   [MiroTalk P2P](https://p2p.mirotalk.com) - Simple, secure, fast real-time video conferences up to 4k and 60fps, compatible with all browsers and platforms. ([Demo](https://p2p.mirotalk.com/newcall), [Source Code (⭐2.3k)](https://github.com/miroslavpejic85/mirotalk)) `AGPL-3.0` `Nodejs/Docker`
-*   [MiroTalk SFU](https://sfu.mirotalk.com) - Simple, secure, scalable real-time video conferences up to 4k, compatible with all browsers and platforms. ([Demo](https://sfu.mirotalk.com/newroom), [Source Code (⭐1.6k)](https://github.com/miroslavpejic85/mirotalksfu)) `AGPL-3.0` `Nodejs/Docker`
+*   [MiroTalk P2P](https://p2p.mirotalk.com) - Simple, secure, fast real-time video conferences up to 4k and 60fps, compatible with all browsers and platforms. ([Demo](https://p2p.mirotalk.com/newcall), [Source Code (⭐2.4k)](https://github.com/miroslavpejic85/mirotalk)) `AGPL-3.0` `Nodejs/Docker`
+*   [MiroTalk SFU](https://sfu.mirotalk.com) - Simple, secure, scalable real-time video conferences up to 4k, compatible with all browsers and platforms. ([Demo](https://sfu.mirotalk.com/newroom), [Source Code (⭐1.7k)](https://github.com/miroslavpejic85/mirotalksfu)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / E-commerce
 
-*   [MedusaJs](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences. ([Demo](https://next.medusajs.com/), [Source Code (⭐21k)](https://github.com/medusajs/medusa)) `MIT` `Nodejs`
+*   [MedusaJs](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences. ([Demo](https://next.medusajs.com/), [Source Code (⭐22k)](https://github.com/medusajs/medusa)) `MIT` `Nodejs`
 
 ### Software / Internet of Things (IoT)
 
@@ -484,15 +487,15 @@
 
 ### Software / Software Development - FaaS & Serverless
 
-*   [Nhost](https://nhost.io/) - Firebase Alternative with GraphQL. Get a database and backend configured and ready in minutes. ([Source Code (⭐7.3k)](https://github.com/nhost/nhost)) `MIT` `Docker/Nodejs/Go`
+*   [Nhost](https://nhost.io/) - Firebase Alternative with GraphQL. Get a database and backend configured and ready in minutes. ([Source Code (⭐7.4k)](https://github.com/nhost/nhost)) `MIT` `Docker/Nodejs/Go`
 
 ### Software / Task Management & To-do Lists
 
-*   [Our Shopping List (⭐64)](https://github.com/nanawel/our-shopping-list) - Simple shared list application. Typical uses include shopping lists of course, and any other small todo-list that needs to be used collaboratively. ([Demo](https://osl.lanterne-rouge.info/)) `AGPL-3.0` `Docker`
+*   [Our Shopping List (⭐66)](https://github.com/nanawel/our-shopping-list) - Simple shared list application. Typical uses include shopping lists of course, and any other small todo-list that needs to be used collaboratively. ([Demo](https://osl.lanterne-rouge.info/)) `AGPL-3.0` `Docker`
 
 ### Software / URL Shorteners
 
-*   [Short{Paste} (⭐41)](https://github.com/adyanth/shortpaste) - A Go based URL shortener, pastebin and file uploader. `MIT` `Docker`
+*   [Short{Paste} (⭐43)](https://github.com/adyanth/shortpaste) - A Go based URL shortener, pastebin and file uploader. `MIT` `Docker`
 
 ## [31. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -524,7 +527,7 @@
 *   [mkarch (⭐4)](https://github.com/0xRZ/mkarch) - ZSH plugin that allows you to create archives using multiple different compression formats.
 *   [notenote (⭐3)](https://github.com/DrgnFireYellow/notenote/) - Makes it easy to take notes.
 *   [symfony (voronkovich) (⭐5)](https://github.com/voronkovich/symfony.plugin.zsh) - ZSH plugin for [Symfony](https://symfony.com/).
-*   [zman (⭐17)](https://github.com/mattmc3/zman) - Use [fzf (⭐57k)](https://github.com/junegunn/fzf) to quickly browse ZSH manuals.
+*   [zman (⭐17)](https://github.com/mattmc3/zman) - Use [fzf (⭐58k)](https://github.com/junegunn/fzf) to quickly browse ZSH manuals.
 *   [zoo (⭐2)](https://github.com/salamantos/zoo_sh) - Casual theme with animal emoji. Includes decorators for current directory, time and `git` status.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -663,7 +666,7 @@
 *   SoundHound - Has way too many [trackers](https://reports.exodus-privacy.eu.org/en/reports/com.melodis.midomiMusicIdentifier.freemium/latest/) for a music recognition app.
 *   Musicxmatch - The app [has trackers](https://reports.exodus-privacy.eu.org/en/reports/com.musixmatch.android.lyrify/latest/) and requires a dangerous amount of permissions.
 *   [SongRec (⭐1.2k)](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
-*   [SongID Telegram Bot (⭐75)](https://github.com/smcclennon/SongID) - A Telegram bot that can identify music in audio/video files you send it.
+*   [SongID Telegram Bot (⭐76)](https://github.com/smcclennon/SongID) - A Telegram bot that can identify music in audio/video files you send it.
 
 ### Video and Audio Conferencing
 
@@ -682,12 +685,12 @@
 
 ### Templates / React
 
-*   [viterjs-template (⭐32)](https://github.com/emre-cil/viterjs-template) - React + JavaScript + Redux + Material UI + Axios + ESLint + Prettier.
+*   [viterjs-template (⭐33)](https://github.com/emre-cil/viterjs-template) - React + JavaScript + Redux + Material UI + Axios + ESLint + Prettier.
 *   [vite-react-universal-template (⭐36)](https://github.com/laoer536/vite3.0-react18-TypeScript-router-dom6-mobx6-Eslint-prettier-template) - React18 + TypeScript + `react-router-dom` + Zustand + ESlint + Prettier + Stylelint + Husky + Docker, and APIs auto importing.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-zip-pack (⭐20)](https://github.com/7th-Cyborg/vite-plugin-zip-pack) - Pack distribution/build folder into a zip file.
+*   [vite-plugin-zip-pack (⭐22)](https://github.com/7th-Cyborg/vite-plugin-zip-pack) - Pack distribution/build folder into a zip file.
 
 ## [46. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 

@@ -38,7 +38,7 @@
 
 ### Software / Photo and Video Galleries
 
-*   [Chevereto](https://chevereto.com/) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐266)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP/Docker`
+*   [Chevereto](https://chevereto.com/) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐277)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP/Docker`
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Email
 
-*   [Queuemail.dev](https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month). Send asynchronously. Use several SMTP servers. Blacklists, Logging, Tracking, Webhooks, and more.
+*   [Queuemail.dev](https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month). Send asynchronously. Use several SMTP servers. Blocklists, Logging, Tracking, Webhooks, and more.
 
 ### Issue Tracking and Project Management
 

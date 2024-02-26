@@ -12,10 +12,6 @@
 
 *   [How to display Polars dataframes with itables](https://mwouts.github.io/itables/polars_dataframes.html) - A tutorial that explains how to display Polars dataframes with [itables](https://mwouts.github.io/itables/quick_start.html) by [@mwouts](https://github.com/mwouts).
 
-### Resources / Blog posts
-
-*   [Polars - modern data frame library ](https://dskrzypiec.dev/polars/) - A blog post that describes why Polars could be a better alternative to pandas, dplyr or data.table by [@DSkrzypiec](https://github.com/DSkrzypiec).
-
 ### Resources / Talks and videos
 
 *   [An opinionated introduction to Polars](https://www.dropbox.com/s/fphay3yav2b2rdq/2023_polars.pdf?dl=1) - Great Polars introduction slides from [@krlng](https://github.com/krlng) at PyCon 2023.
@@ -37,7 +33,7 @@
 
 ### Tools / Community providers
 
-*   [terraform-repl (⭐85)](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better interactive console experience.
+*   [terraform-repl (⭐86)](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better interactive console experience.
 
 ## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -156,9 +152,9 @@
 
 *   [Bind](https://www.isc.org/bind/) - Versatile, classic, complete name server software. ([Source Code](https://gitlab.isc.org/isc-projects/bind9)) `MPL-2.0` `C`
 *   [dnsmasq](https://www.thekelleys.org.uk/dnsmasq/doc.html) - Provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot. ([Source Code](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=tree)) `GPL-2.0` `C`
-*   [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code (⭐381)](https://github.com/NLnetLabs/nsd)) `BSD-3-Clause` `C`
+*   [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code (⭐393)](https://github.com/NLnetLabs/nsd)) `BSD-3-Clause` `C`
 *   [PowerDNS Authoritative Server](https://doc.powerdns.com/authoritative/) - Versatile nameserver which supports a large number of backends. ([Source Code (⭐3.3k)](https://github.com/PowerDNS/pdns)) `GPL-2.0` `C++`
-*   [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - Validating, recursive, and caching DNS resolver. ([Source Code (⭐2.6k)](https://github.com/NLnetLabs/unbound)) `BSD-3-Clause` `C`
+*   [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - Validating, recursive, and caching DNS resolver. ([Source Code (⭐2.7k)](https://github.com/NLnetLabs/unbound)) `BSD-3-Clause` `C`
 *   [Yadifa](https://www.yadifa.eu/) - Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. ([Source Code (⭐59)](https://github.com/yadifa/yadifa)) `BSD-3-Clause` `C`
 
 ## [10. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)

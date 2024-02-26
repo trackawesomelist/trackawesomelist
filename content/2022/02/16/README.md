@@ -32,15 +32,15 @@
 
 ### Tutorials and Blog Posts / How-To
 
-*   [Google Cloud Platform for 10$ a month using terraform (⭐37)](https://github.com/nufailtd/terraform-budget-gcp) - Shows how to use terraform to create a secure Google Kubernetes Cluster, Google Cloud Run Services and other infrastructure elements for less than [10$](https://nufailtd.github.io/budget-gcp/) a month.
+*   [Google Cloud Platform for 10$ a month using terraform (⭐38)](https://github.com/nufailtd/terraform-budget-gcp) - Shows how to use terraform to create a secure Google Kubernetes Cluster, Google Cloud Run Services and other infrastructure elements for less than [10$](https://nufailtd.github.io/budget-gcp/) a month.
 
 ### Self-Hosted Registries / Miscellaneous
 
-*   [terustry (⭐54)](https://github.com/veepee-oss/terustry) - Open Source terraform provider registry acting as a proxy for gitlab or github releases.
+*   [terustry (⭐55)](https://github.com/veepee-oss/terustry) - Open Source terraform provider registry acting as a proxy for gitlab or github releases.
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-openstack (⭐349)](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Plugin for OpenStack.
+*   [terraform-provider-openstack (⭐352)](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Plugin for OpenStack.
 
 ### Boilerplates / IDE
 
@@ -56,7 +56,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ddev (⭐1)](https://github.com/voronkovich/ddev.plugin.zsh) - A ZSH plugin for the [ddev (⭐2.2k)](https://github.com/drud/ddev) tool for setting up PHP development environments.
+*   [ddev (⭐1)](https://github.com/voronkovich/ddev.plugin.zsh) - A ZSH plugin for the [ddev (⭐2.3k)](https://github.com/drud/ddev) tool for setting up PHP development environments.
 
 ## [7. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [Kotlin/kotlinx.atomicfu (⭐786)](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin.
+*   [Kotlin/kotlinx.atomicfu (⭐789)](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin.
 
 ## [9. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
 

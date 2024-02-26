@@ -63,7 +63,7 @@
 
 ### Music Notation
 
-*   [OpenLilyLib (⭐113)](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
+*   [OpenLilyLib (⭐114)](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
 
 ## [5. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -124,7 +124,7 @@
 
 ### System Utilities / Directory Navigation
 
-*   [mtr (⭐2.4k)](https://github.com/traviscross/mtr) - The functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
+*   [mtr (⭐2.5k)](https://github.com/traviscross/mtr) - The functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
 
 ## [13. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
@@ -158,7 +158,7 @@
 
 ### Applications
 
-*   [Sprint Poker (⭐175)](https://github.com/elpassion/sprint-poker) - Online estimation tool for Agile teams, written using Elixir Lang, Phoenix Framework and React.
+*   [Sprint Poker (⭐174)](https://github.com/elpassion/sprint-poker) - Online estimation tool for Agile teams, written using Elixir Lang, Phoenix Framework and React.
 
 ### Images
 

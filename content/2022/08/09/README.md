@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 09, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -172,25 +172,93 @@
 ### Libraries / Network programming
 
 *   Raknet
-    *   [b23r0/rust-raknet (⭐208)](https://github.com/b23r0/rust-raknet) — RakNet Protocol implementation by Rust [![Build Status](https://img.shields.io/github/workflow/status/b23r0/rust-raknet/Rust)](https://github.com/b23r0/rust-raknet/actions/workflows/rust.yml)
+    *   [b23r0/rust-raknet (⭐209)](https://github.com/b23r0/rust-raknet) — RakNet Protocol implementation [![Build Status](https://img.shields.io/github/workflow/status/b23r0/rust-raknet/Rust)](https://github.com/b23r0/rust-raknet/actions/workflows/rust.yml)
 
-## [7. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [7. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### 操作系统
+
+*   [UNIX TOOLBOX](https://web.archive.org/web/20210812021003/cb.vu/unixtoolbox_zh_CN.xhtml) *(:card\_file\_box: archived)*
+
+### 管理和监控
+
+*   [Elasticsearch 权威指南（中文版）](https://web.archive.org/web/20200415002735/https://es.xiaoleilu.com/) *(:card\_file\_box: archived)*
+
+### 项目相关
+
+*   [selenium 中文文档](https://einverne.gitbook.io/selenium-doc/)
+
+### C
+
+*   [Beej's Guide to Network Programming 簡體中文版](https://beej-zhtw-gitbook.netdpi.net) - Brian "Beej Jorgensen" Hall, 廖亚伦译
+*   [Linux C 编程一站式学习](https://web.archive.org/web/20210514225440/http://docs.linuxtone.org/ebooks/C\&CPP/c/) *(:card\_file\_box: archived)*
+
+### C++
+
+*   [简单易懂的C魔法](https://web.archive.org/web/20210413213859/http://www.nowamagic.net/librarys/books/contents/c) *(:card\_file\_box: archived)*
+
+### Dart
+
+*   [Dart 语言导览](https://web.archive.org/web/20200415002731/dart.lidian.info/wiki/Language_Tour) *(:card\_file\_box: archived)*
+
+### Elixir
+
+*   [Elixir 编程语言教程](https://elixirschool.com/zh-hans) (Elixir School)
+
+### Golang
+
+*   [Revel 框架手册](https://web.archive.org/web/20190610030938/https://gorevel.cn/docs/manual/index.html) *(:card\_file\_box: archived)*
+
+### Java
+
+*   [阿里巴巴 Java 开发手册](https://raw.githubusercontent.com/alibaba/p3c/HEAD/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C\(%E9%BB%84%E5%B1%B1%E7%89%88\).pdf) (PDF)
+
+### JavaScript
+
+*   [Google JavaScript 代码风格指南](https://web.archive.org/web/20200415002735/bq69.com/blog/articles/script/868/google-javascript-style-guide.html) *(:card\_file\_box: archived)*
+
+### Lua / Zepto.js
+
+*   [Lua 5.3 参考手册](https://www.runoob.com/manual/lua53doc/)
+
+### PHP / Zepto.js
+
+*   [CodeIgniter 使用手冊](https://web.archive.org/web/20210624143822/https://codeigniter.org.tw/userguide3/) *(:card\_file\_box: archived)*
+*   [Phalcon7中文文档](https://web.archive.org/web/20220330065727/myleftstudio.com/) *(:card\_file\_box: archived)*
+
+### PHP / Symfony
+
+*   [Symfony 5 快速开发](https://web.archive.org/web/20210812222957/symfony.com/doc/current/the-fast-track/zh_CN/index.html) *(:card\_file\_box: archived)*
+
+### Python / Symfony
+
+*   [简明 Python 教程](https://web.archive.org/web/20200822010330/https://bop.mol.uno/) - Swaroop C H、沈洁元(翻译)、漠伦(翻译) *(:card\_file\_box: archived)*
+*   [Python之旅](https://web.archive.org/web/20191217091745/http://funhacks.net/explore-python/) - Ethan *(:card\_file\_box: archived)*
+
+### R / Django
+
+*   [用 R 构建 Shiny 应用程序](https://web.archive.org/web/20200220023703/yanping.me/shiny-tutorial/) (《Building 'Shiny' Applications with R》中文版) *(:card\_file\_box: archived)*
+
+### Ruby / Django
+
+*   [Ruby on Rails 指南](https://ruby-china.github.io/rails-guides/)
+
+## [8. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
 *   [jwave (⭐104)](https://github.com/ucl-bug/jwave) - A library for differentiable acoustic simulations <img src="https://img.shields.io/github/stars/ucl-bug/jwave?style=social" align="center">
 
-## [8. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
+## [9. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 
 ### Fundamental concepts
 
 *   [Responsive Design](https://web.dev/learn/design/) - Extensive information about all aspects of responsive design to make sites that look great and work well for everyone.
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [shaunsingh/moonlight.nvim (⭐173)](https://github.com/shaunsingh/moonlight.nvim) - Port of VSCode's Moonlight colorscheme, written in Lua with built-in support for native LSP, Tree-sitter and many more plugins.
 *   [rebelot/kanagawa.nvim (⭐3.3k)](https://github.com/rebelot/kanagawa.nvim) - Neovim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 
 ### Utility / Diagnostics
@@ -209,13 +277,13 @@
 *   [vi-tality/neovitality (⭐56)](https://github.com/vi-tality/neovitality) - A full-featured Neovim distribution, packaged with Nix Flake for easy installation and reproducibility.
 *   [cstsunfu/.sea.nvim (⭐134)](https://github.com/cstsunfu/.sea.nvim) - A modular Neovim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number).
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Communication / Email Clients
 
 *   [Skiff Mail](https://skiff.com/mail) - Encrypted & Decentralized Email -- available on web, iOS/Android, and macOS. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/skiff-org/skiff-mail)
 
-## [11. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [12. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Featured
 

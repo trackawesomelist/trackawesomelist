@@ -10,16 +10,16 @@
 
 ### Applications
 
-*   [JSONExport (⭐4.7k)](https://github.com/Ahmed-Ali/JSONExport) - convert a object to a class of one of the currently supported languages.
+*   [JSONExport (⭐4.8k)](https://github.com/Ahmed-Ali/JSONExport) - convert a object to a class of one of the currently supported languages.
 
 ### Supersets
 
-*   [HanSON (⭐150)](https://github.com/timjansen/hanson) - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
+*   [HanSON (⭐152)](https://github.com/timjansen/hanson) - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
 
 ### Related formats
 
 *   [CSON (⭐1.3k)](https://github.com/bevry/cson) - CoffeeScript-Object-Notation. JSON for CoffeeScript objects.
-*   [MSON (⭐875)](https://github.com/apiaryio/mson) - Markdown syntax compatible with describing JSON and JSON Schema.
+*   [MSON (⭐895)](https://github.com/apiaryio/mson) - Markdown syntax compatible with describing JSON and JSON Schema.
 *   [ArchieML](http://archieml.org/) - Structured text format optimized for human writability.
 
 ## [2. Awesome Answers](/content/cyberglot/awesome-answers/README.md)

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 03, 2016
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -148,12 +148,6 @@ git blame <file-name>
 ### Tools / Misc
 
 *   [Rollover](http://freshinbox.com/tools/rollover/) - Generates code for a Rollover Image that displays an alternative image when the email recipient hovers the cursor over the image.
-
-## [15. Awesome R](/content/qinwf/awesome-R/README.md)
-
-### R Development
-
-*   [modules (⭐4)](https://github.com/klmr/modules) - An alternative (Python style) module system for R.
 
 ---
 

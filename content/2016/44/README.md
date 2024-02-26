@@ -34,9 +34,9 @@
 
 ### Science
 
-*   [bcbio-nextgen (⭐940)](https://github.com/chapmanb/bcbio-nextgen) - Providing best-practice pipelines for fully automated high throughput sequencing analysis.
+*   [bcbio-nextgen (⭐966)](https://github.com/chapmanb/bcbio-nextgen) - Providing best-practice pipelines for fully automated high throughput sequencing analysis.
 *   [PyDy](http://www.pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.
-*   [Zipline (⭐16k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
+*   [Zipline (⭐17k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
 
 ## [6. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -347,7 +347,7 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 ### Applications
 
-*   [Fractalide (⭐845)](https://github.com/fractalide/fractalide) — Simple Rust Microservices
+*   [Fractalide (⭐847)](https://github.com/fractalide/fractalide) — Simple microservices
 
 ## [28. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -503,7 +503,7 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 ### Contents / High-Availability
 
-*   [BDR (⭐350)](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
+*   [BDR (⭐355)](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
 
 ### Contents / CLI
 
@@ -511,7 +511,7 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 ### Contents / Utilities
 
-*   [pgcmp (⭐39)](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
+*   [pgcmp (⭐41)](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
 
 ## [44. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -589,7 +589,7 @@ git blame -L <start>,<end>
 
 ### Errors and Exception Handling
 
-*   [sentry-elixir (⭐582)](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
+*   [sentry-elixir (⭐587)](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
 
 ### Instrumenting / Monitoring
 

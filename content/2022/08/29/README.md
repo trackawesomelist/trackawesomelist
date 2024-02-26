@@ -10,7 +10,7 @@
 
 ### Image Analysis / Telegram
 
-*   [ExifLooter (⭐324)](https://github.com/aydinnyunus/exiflooter)
+*   [ExifLooter (⭐388)](https://github.com/aydinnyunus/exiflooter)
 
 ## [2. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -358,7 +358,7 @@
 
 ### Software / Miscellaneous
 
-*   [Overseerr](https://overseerr.dev/) `⚠` - Overseerr is a free and open source software application for managing requests for your media library. It integrates with your existing services, such as Sonarr, Radarr, and Plex!. ([Source Code (⭐3.1k)](https://github.com/sct/overseerr)) `MIT` `Docker`
+*   [Overseerr](https://overseerr.dev/) `⚠` - Overseerr is a free and open source software application for managing requests for your media library. It integrates with your existing services, such as Sonarr, Radarr, and Plex!. ([Source Code (⭐3.2k)](https://github.com/sct/overseerr)) `MIT` `Docker`
 
 ## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -371,7 +371,7 @@
 
 ### Crates / Component Libraries
 
-*   [Yewprint (⭐442)](https://github.com/yewprint/yewprint) - Port of blueprintjs.com to Yew.
+*   [Yewprint (⭐443)](https://github.com/yewprint/yewprint) - Port of blueprintjs.com to Yew.
 
 ## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

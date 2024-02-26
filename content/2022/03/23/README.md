@@ -56,11 +56,11 @@
 
 ### Maps / Web Maps
 
-*   [Road Curvature](https://roadcurvature.com/map/) - Helps to find curvy roads for those who enjoy them. ([Source Code (⭐199)](https://github.com/adamfranco/curvature))
+*   [Road Curvature](https://roadcurvature.com/map/) - Helps to find curvy roads for those who enjoy them. ([Source Code (⭐202)](https://github.com/adamfranco/curvature))
 
 ### Maps / Map Games
 
-*   [Back Of Your Hand](https://backofyourhand.com/) - A web map game that tests your knowledge by having you find a street in a given area. ([Source Code (⭐74)](https://github.com/adam-lynch/back-of-your-hand))
+*   [Back Of Your Hand](https://backofyourhand.com/) - A web map game that tests your knowledge by having you find a street in a given area. ([Source Code (⭐76)](https://github.com/adam-lynch/back-of-your-hand))
 
 ## [8. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Miscellaneous / React
 
-*   [supertest-graphql (⭐30)](https://github.com/alexstrat/supertest-graphql) - Extends [supertest (⭐13k)](https://github.com/visionmedia/supertest) to easily test a GraphQL endpoint
+*   [supertest-graphql (⭐31)](https://github.com/alexstrat/supertest-graphql) - Extends [supertest (⭐13k)](https://github.com/visionmedia/supertest) to easily test a GraphQL endpoint
 
 ## [14. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

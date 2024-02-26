@@ -374,7 +374,13 @@
 *   [Stearns & Foster](http://www.stearnsandfoster.com)
 *   [Yale Environment 360](http://e360.yale.edu)
 
-## [11. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [11. Awesome Python](/content/vinta/awesome-python/week/README.md)
+
+### Science
+
+*   [QuTiP](http://qutip.org/) - Quantum Toolbox in Python.
+
+## [12. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Infinite Scroll
 
@@ -392,25 +398,25 @@
 
 *   [May I ask a Question](https://www.youtube.com/channel/UCyErLHzPqLAkL1F-SivFDcA)
 
-## [12. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [13. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Tutorials / Animation
 
 *   [Walking animation cycle in games](https://finalbossblues.com/walk-cycles-p1/)
 
-## [13. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
+## [14. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
 
 ### JavaScript
 
 *   [gif-extract-frames (⭐20)](https://github.com/transitive-bullshit/gif-extract-frames) - Extracts frames from GIFs including inter-frame coalescing.
 
-## [14. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [15. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Tweening
 
 *   [GoKit (⭐574)](https://github.com/prime31/GoKit) - An open source, lightweight tween library aimed at making tweening objects dead simple.
 
-## [15. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [16. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Functional programming
 
@@ -465,7 +471,7 @@
 
 *   [Node.js in Action](https://www.manning.com/books/node-js-in-action-second-edition)
 
-## [16. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [17. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Document Editors / Markdown
 
@@ -475,25 +481,25 @@
 
 *   [Daily Todo](https://dailytodo.org/) -  Simple todo list maker.
 
-## [17. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [18. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Packages and Libraries supporting salesforce
 
 *   [R.apex (⭐80)](https://github.com/Click-to-Cloud/R.apex/) - Functional library for Apex. This library, inspired by Ramda.js, offers a bunch of utility functions to manipulate Apex collections, as well as extensive support for functional programming.
 
-## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [19. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### App Store
 
 *   [merchantkit (⭐1.1k)](https://github.com/benjaminmayo/merchantkit) - A modern In-App Purchases management framework for iOS.
 
-## [19. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [20. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
 *   [Q-Space](http://qhumanity.org/index.php/our-projects/q-space/) - Queer and feminist maker space located in Beijing, China, providing a learning space and community actions for change.
 
-## [20. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [21. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Applications / Visualization
 
@@ -564,7 +570,7 @@
 
 *   [awesome-python-chemistry (⭐764)](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry.
 
-## [21. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [22. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Agency Tools
 
@@ -574,19 +580,19 @@
 
 *   [OrbCAD SQL Server to GTFS-realtime (⭐16)](https://github.com/CUTR-at-USF/HART-GTFS-realtimeGenerator/) - A Java-based command-line utility that extracts vehicle positions and trip updates information from an OrbCAD SQL Server and exports them to the GTFS-realtime TripUpdates and VehiclePositions formats.
 
-## [22. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [23. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Resources / Podcasts
 
 *   [Podcast.**init** Episode 58 - Wagtail with Tom Dyson](https://www.podcastinit.com/episode-58-wagtail-with-tom-dyson/) - In this episode Tom Dyson explains how Wagtail came to be created, what sets it apart from other options, and when you should implement it for your projects.
 
-## [23. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [24. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
 ### Resources / Articles
 
 *   [Can We Have an Honest Conversation About Advertisements?](https://www.theminimalists.com/ads/)
 
-## [24. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Tools / Community Chat Rooms
 
@@ -596,14 +602,14 @@
 
 *   [anne-key (⭐566)](https://github.com/ah-/anne-key): Alternate keyboard firmware for the Obins ANNE Pro
 
-## [25. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [26. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Apps / Third-party APIs
 
 *   [wiki-lang-detect (⭐30)](https://github.com/vseloved/wiki-lang-detect) -
     Text language identification using Wikipedia data. No license specified.
 
-## [26. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
+## [27. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
 
 ### SDKs/Tools
 
@@ -697,25 +703,25 @@
 
 *   [Alexa Easter Eggs](https://github.com/miguelmota/awesome-amazon-alexa/blob/master/README.md/EASTER_EGGS.md) - A list of Alexa easter eggs.
 
-## [27. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [28. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Kubernetes examples (⭐5.8k)](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
 
-## [28. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [29. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Database
 
 *   [uxss-db (⭐634)](https://github.com/Metnew/uxss-db) - Collection of UXSS CVEs with PoCs by [@Metnew](https://github.com/Metnew).
 
-## [29. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [30. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Utilities
 
 *   [Eloquent Filter (⭐1.5k)](https://github.com/Tucker-Eric/EloquentFilter) - Filter models and their Relationships
 
-## [30. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
+## [31. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
 ### Introduction / First Steps
 
@@ -726,13 +732,13 @@
 *   [Tutorials](https://eta-lang.org/docs/tutorials) - Eta tutorials.
 *   [Eta Cheatsheets](https://eta-lang.org/docs/cheatsheets) - Eta reference.
 
-## [31. Awesome Frege](/content/sfischer13/awesome-frege/week/README.md)
+## [32. Awesome Frege](/content/sfischer13/awesome-frege/week/README.md)
 
 ### Community / Social Media
 
 *   [reddit](https://www.reddit.com/r/frege/) - Frege subreddit.
 
-## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
@@ -742,19 +748,19 @@
 
 *   [RusticSOM (⭐31)](https://github.com/avinashshenoy97/RusticSOM) - A Rust library for Self Organising Maps (SOM).
 
-## [33. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [34. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Varia / Tutorials
 
 *   [The Small World of Psychopathology](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0027407) - Paper on how psychiatric symptoms connec to each other ([code, data and graphs](https://sites.google.com/site/dsmgraphs/Home/files)).
 
-## [34. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [35. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tutorials
 
 *   [Understanding the basics of Linux Binary Exploitation (⭐1.2k)](https://github.com/r0hi7/BinExp)
 
-## [35. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [36. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Games
 
@@ -769,25 +775,25 @@
 *   [mmstick/concurr (⭐102)](https://github.com/mmstick/concurr) — Alternative to GNU Parallel w/ a client-server architecture
 *   [mmstick/fontfinder (⭐273)](https://github.com/mmstick/fontfinder) — GTK3 application for previewing and installing Google's fonts
 
-## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Graphics
 
 *   [libigl (⭐4.3k)](https://github.com/libigl/libigl) - Simple C++ geometry processing library. \[MPL2]
-*   [NanoVG (⭐4.9k)](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. \[Zlib]
+*   [NanoVG (⭐5k)](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. \[Zlib]
 
 ### Build Systems
 
 *   [clib (⭐4.7k)](https://github.com/clibs/clib) - Package manager for the C programming language. \[MIT]
 
-## [37. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
+## [38. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
 ### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
 *   [简体中文 (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
 *   [正體中文 (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW)
 
-## [38. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [39. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Games / Web
 
@@ -801,7 +807,7 @@
 *   [PABI Logical (⭐3)](https://github.com/bichlepa/PABI-Logical/releases) - Remake of the amiga game Logical. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=33267), GitHub: [link (⭐3)](https://github.com/bichlepa/PABI-Logical)
 *   [Sudoku](https://autohotkey.com/boards/codeboxplus/download/77645-1) - Sudoku game and solver. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=15291)
 
-## [39. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [40. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Command Line Tools
 
@@ -828,7 +834,7 @@
 
 *   ['Libre' Software: Turning Fads into Institutions?](https://www.sciencedirect.com/science/article/pii/S0048733302000033) - Academic article presenting an economic analysis of libre software and its sustainability.
 
-## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -843,7 +849,7 @@
 *   [GenVue (⭐131)](https://github.com/herbat73/GenVue) - a hostable, web application that lets confidential users upload and share private files build on Vue.js, Vuetifyjs and NetCore WebAPI stack
 *   [vue-array (⭐15)](https://github.com/BlackHole1/vue-array) - Array object operation under Vue, Array object operation under Vue Use this package to manipulate the array. Vue can monitor the changes in the array
 
-## [41. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [42. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -853,25 +859,25 @@
 
 *   [Game Icons](http://game-icons.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) A growing collection of SVG icons aimed mostly at video games.
 
-## [42. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [43. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Libraries / JavaScript
 
 *   [mmarkdown (⭐75)](https://github.com/albinotonnina/mmarkdown) - Interpret mmd fenced code blocks in a markdown file and generate a cooler version of it.
 
-## [43. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [44. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Threat Intelligence / Forensics
 
 *   [MISP - Open Source Threat Intelligence Platform ](https://www.misp-project.org/) - MISP threat sharing platform is a free and open source software helping information sharing of threat intelligence including cyber security indicators.  A threat intelligence platform for gathering, sharing, storing and correlating Indicators of Compromise of targeted attacks, threat intelligence, financial fraud information, vulnerability information or even counter-terrorism information. The MISP project includes software, common libraries ([taxonomies](https://www.misp-project.org/taxonomies.html), [threat-actors and various malware](https://www.misp-project.org/galaxy.html)), an extensive data model to share new information using [objects](https://www.misp-project.org/objects.html) and default [feeds](https://www.misp-project.org/feeds/).
 
-## [44. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [45. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
 *   [atvjs (⭐308)](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
 
-## [45. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [46. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Data binding
 
@@ -899,13 +905,13 @@
 *   [Device Art Generator](https://developer.android.com/distribute/marketing-tools/device-art-generator) - Wraps app screenshots in real device artwork.
 *   [Pencil Project](https://pencil.evolus.vn/) - An open source prototyping software.
 
-## [46. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [47. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Miscellaneous
 
 *   [Slack Typing (⭐1.9k)](https://github.com/will/slacktyping) - A very good program that makes it so it says I'm typing when anyone else is typing.
 
-## [47. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [48. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Code Snippets
 
@@ -914,40 +920,6 @@
 ### SDK and API Clients
 
 *   [Getty Images API SDK (⭐10)](https://github.com/gettyimages/gettyimages-api_dotnet) - SDK for the Getty Images and iStock APIs
-
-## [48. Awesome Python](/content/vinta/awesome-python/week/README.md)
-
-### Command-line Interface Development
-
-*   Command-line Application Development
-    *   [cement](http://builtoncement.com/) - CLI Application Framework for Python.
-    *   [click](http://click.pocoo.org/dev/) - A package for creating beautiful command line interfaces in a composable way.
-    *   [cliff](https://docs.openstack.org/developer/cliff/) - A framework for creating command-line programs with multi-level commands.
-    *   [docopt](http://docopt.org/) - Pythonic command line arguments parser.
-    *   [python-fire (⭐25k)](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object.
-    *   [python-prompt-toolkit (⭐8.4k)](https://github.com/jonathanslenders/python-prompt-toolkit) - A library for building powerful interactive command lines.
-
-### Command-line Tools
-
-*   Productivity Tools
-    *   [copier (⭐1.1k)](https://github.com/pykong/copier) - A library and command-line utility for rendering projects templates.
-    *   [cookiecutter (⭐20k)](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates).
-    *   [doitlive (⭐3.3k)](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal.
-    *   [howdoi (⭐10k)](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
-    *   [Invoke (⭐4k)](https://github.com/pyinvoke/invoke#readme) - A tool for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
-    *   [PathPicker (⭐4.9k)](https://github.com/facebook/PathPicker) - Select files out of bash output.
-    *   [percol (⭐3.2k)](https://github.com/mooz/percol) - Adds flavor of interactive selection to the traditional pipe concept on UNIX.
-    *   [thefuck (⭐78k)](https://github.com/nvbn/thefuck) - Correcting your previous console command.
-    *   [tmuxp (⭐3.7k)](https://github.com/tony/tmuxp) - A [tmux (⭐29k)](https://github.com/tmux/tmux) session manager.
-    *   [try (⭐679)](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - it's never been easier.
-
-### GUI Development
-
-*   [PyGObject](https://wiki.gnome.org/Projects/PyGObject) - Python Bindings for GLib/GObject/GIO/GTK+ (GTK+3).
-
-### Science
-
-*   [QuTiP](http://qutip.org/) - Quantum Toolbox in Python.
 
 ---
 

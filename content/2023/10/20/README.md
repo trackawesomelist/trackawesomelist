@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 20, 2023
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,13 +17,13 @@
 
 ### Physics
 
-*   [PlayRho (⭐111)](https://github.com/louis-langholtz/PlayRho) - An interactive physics engine & library.  \[Zlib]
+*   [PlayRho (⭐110)](https://github.com/louis-langholtz/PlayRho) - An interactive physics engine & library.  \[Zlib]
 
 ## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
-*   [vacuum (⭐361)](https://github.com/daveshanley/vacuum) - An ultra-super-fast, lightweight OpenAPI linter and quality checking tool.
+*   [vacuum (⭐369)](https://github.com/daveshanley/vacuum) - An ultra-super-fast, lightweight OpenAPI linter and quality checking tool.
 
 ## [4. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
@@ -392,20 +392,13 @@
 
 *   [Sequin](https://sequin.io/) - Interface with third-party services using SQL.
 
-## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Computer Science
-
-*   [Computer Science Class XII](https://cbseacademic.nic.in/web_material/doc/cs/2_Computer_Science_Python_ClassXII.pdf) - CBSE (PDF)
-*   [Pull Requests and Code Review](https://scs.tl/book-pr) – Sebastien Castiel
-
-## [15. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [14. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Reverse Engineering
 
 *   [*Practical Reverse Engineering* by Bruce Dang, Alexandre Gazet, Elias Bachaalany, Sébastien Josse](https://www.wiley.com/en-ca/Practical+Reverse+Engineering%3A+x86%2C+x64%2C+ARM%2C+Windows+Kernel%2C+Reversing+Tools%2C+and+Obfuscation-p-9781118787250)
 
-## [16. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [15. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tutorials and Blog Posts / Beginner Guides
 

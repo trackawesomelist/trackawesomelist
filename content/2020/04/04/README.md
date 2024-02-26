@@ -126,7 +126,7 @@
 ### Machine Learning
 
 *   [mlr (⭐1.6k)](https://github.com/mlr-org/mlr) - Extensible framework for classification, regression, survival analysis and clustering \[DEPRECIATED]
-*   [mlr3 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐837)](https://github.com/mlr-org/mlr3) -  Next generation extensible framework for classification, regression, survival analysis and clustering
+*   [mlr3 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐863)](https://github.com/mlr-org/mlr3) -  Next generation extensible framework for classification, regression, survival analysis and clustering
 
 ---
 

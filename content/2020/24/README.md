@@ -38,7 +38,7 @@
 
 ### Command-Line Productivity
 
-*   [tldr (⭐687)](https://github.com/raylee/tldr-sh-client) - A fully-functional bash client for tldr, simplified and community-driven man pages
+*   [tldr (⭐697)](https://github.com/raylee/tldr-sh-client) - A fully-functional bash client for tldr, simplified and community-driven man pages
 
 ## [6. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Tools / Dynamic Analysis Tools
 
-*   [AndroPyTool (⭐312)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android app analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard, or VirusTotal analysis.
+*   [AndroPyTool (⭐314)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android app analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard, or VirusTotal analysis.
 
 ### Academic/Research/Publications/Books / Others
 
@@ -159,13 +159,8 @@
 *   SSH-style Deployment
     *   [cuisine (⭐1.3k)](https://github.com/sebastien/cuisine) - Chef-like functionality for Fabric.
     *   [fabric (⭐14k)](https://github.com/fabric/fabric) - A simple, Pythonic tool for remote execution and deployment.
-    *   [fabtools (⭐1.3k)](https://github.com/fabtools/fabtools) - Tools for writing awesome Fabric files.
 *   Monitoring
-    *   [psutil (⭐9.4k)](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module.
-*   Backup
-    *   [BorgBackup](https://www.borgbackup.org/) - A deduplicating archiver with compression and encryption.
-*   Others
-    *   [docker-compose](https://docs.docker.com/compose/) - Fast, isolated development environments using [Docker](https://www.docker.com/).
+    *   [psutil (⭐9.8k)](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module.
 
 ## [20. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
@@ -211,7 +206,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐847)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
+*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐857)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
 
 ## [26. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -282,7 +277,7 @@
 
 ### Applications
 
-*   [wezterm (⭐12k)](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer
+*   [wezterm (⭐13k)](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer
 
 ## [34. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
@@ -716,7 +711,7 @@
 
 ### Table of Contents / Testing
 
-*   [Infection (⭐1.9k)](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
+*   [Infection (⭐2k)](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
 
 ### Configuration / PHP Internals Reading
 
@@ -755,7 +750,7 @@
 
 ### Menu
 
-*   [hamburger-react (⭐862)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
+*   [hamburger-react (⭐873)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
 
 ### Chart
 
@@ -822,7 +817,7 @@
 
 ### Web Frameworks
 
-*   [Athena (⭐196)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
+*   [Athena (⭐199)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
 
 ### Official Documentation Translations
 
@@ -976,7 +971,7 @@
 
 ### Projects
 
-*   [Yew Fullstack Boilerplate (⭐57)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
+*   [Yew Fullstack Boilerplate (⭐58)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
 *   [Chord Quiz (⭐14)](https://github.com/Stigjb/chord-quiz) - Practice recognizing chords in this Rust/Yew/WebAssembly app.
 
 ---

@@ -335,6 +335,7 @@ A curated list of awesome things related to Ruby on Rails
 *   [lobsters (⭐3.9k)](https://github.com/lobsters/lobsters) - A link aggregation app (using Rails 7.0). - [:earth\_africa:](https://lobste.rs)
 *   [loomio (⭐2.3k)](https://github.com/loomio/loomio) - A collaborative decision-making app (using Rails 6.1). - [:earth\_africa:](https://www.loomio.com/)
 *   [mastodon (⭐45k)](https://github.com/mastodon/mastodon) - A microblogging app (using Rails 6.1). - [:earth\_africa:](https://mastodon.social/about)
+*   [multiwoven (⭐139)](https://github.com/Multiwoven/multiwoven)- The open-source reverse ETL, data activation platform for modern data teams. (using Rails 7.1.1) - [🌍](https://www.multiwoven.com/)
 *   [obl.ong (⭐15)](https://github.com/obl-ong/admin) - A multi-tenant subdomain control panel (using Rails 7.1) - [🌍](https://obl.ong)
 *   [obtvse2 (⭐262)](https://github.com/natew/obtvse2) - A blogging app (using Rails 4.0).
 *   [onebody (⭐1.4k)](https://github.com/seven1m/onebody) - A social networking app for churches - using Rails 5.1

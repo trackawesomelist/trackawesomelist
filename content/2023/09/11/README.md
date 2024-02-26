@@ -34,11 +34,11 @@
 
 ### Get Started
 
-*   [bati (⭐120)](https://github.com/batijs/bati) - Scaffolding a Vike project.
+*   [bati (⭐127)](https://github.com/batijs/bati) - Scaffolding a Vike project.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-node-polyfills (⭐176)](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - Polyfill Node's Core Modules for browser environments.
+*   [vite-plugin-node-polyfills (⭐192)](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - Polyfill Node's Core Modules for browser environments.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

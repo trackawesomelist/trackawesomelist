@@ -146,7 +146,7 @@
 ### Algorithms and Data structures
 
 *   [jumper (⭐12)](https://github.com/whitfin/jumper) - Jump consistent hash implementation in Elixir (without NIFs).
-*   [matrex (⭐476)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
+*   [matrex (⭐477)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
 
 ### Chatting
 
@@ -158,7 +158,7 @@
 
 ### Logging
 
-*   [quiet\_logger (⭐1)](https://github.com/Driftrock/quiet_logger/pull/1) - A simple plug to suppress health check logging (e.g.: when using Kubernetes).
+*   [quiet\_logger (⭐2)](https://github.com/Driftrock/quiet_logger/pull/1) - A simple plug to suppress health check logging (e.g.: when using Kubernetes).
 *   [youtrack\_logger\_backend (⭐3)](https://github.com/unifysell/youtrack_logger_backend) - A logger backend that will post messages to [YouTrack](https://www.jetbrains.com/youtrack/) (an issue tracker made by JetBrains).
 
 ### Static Page Generation
@@ -171,7 +171,7 @@
 
 ### Translations and Internationalizations
 
-*   [gettext (⭐428)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
+*   [gettext (⭐431)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
 
 ### Validations
 

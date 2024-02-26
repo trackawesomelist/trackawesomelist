@@ -16,7 +16,7 @@
 
 ### Unofficial Godot builds / Godot version unknown
 
-*   [Raspberry Pi 4 builds (⭐276)](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM builds of Godot Engine for the Raspberry Pi 4.
+*   [Raspberry Pi 4 builds (⭐275)](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM builds of Godot Engine for the Raspberry Pi 4.
 
 ## [3. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -73,7 +73,7 @@
 ### Tools / Static Analysis Tools
 
 *   [Quark-Engine (⭐1.2k)](https://github.com/quark-engine/quark-engine) - An Obfuscation-Neglect Android Malware Scoring System
-*   [One Step Decompiler (⭐230)](https://github.com/b-mueller/apkx) - Android APK Decompilation for the Lazy
+*   [One Step Decompiler (⭐233)](https://github.com/b-mueller/apkx) - Android APK Decompilation for the Lazy
 
 ## [7. Awesome R](/content/qinwf/awesome-R/README.md)
 

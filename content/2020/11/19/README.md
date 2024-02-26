@@ -69,7 +69,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail Trash (⭐33)](https://github.com/Frojd/wagtail-trash) - Will place pages in a trash can from where they can be restored instead of being permanently deleted.
+*   [Wagtail Trash (⭐35)](https://github.com/Frojd/wagtail-trash) - Will place pages in a trash can from where they can be restored instead of being permanently deleted.
 
 ## [10. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

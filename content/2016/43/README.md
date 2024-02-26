@@ -214,7 +214,7 @@
 
 ### PDF
 
-*   [HexaPDF (⭐1.1k)](https://github.com/gettalong/hexapdf) - A Versatile PDF Creation and Manipulation Library For Ruby.
+*   [HexaPDF (⭐1.2k)](https://github.com/gettalong/hexapdf) - A Versatile PDF Creation and Manipulation Library For Ruby.
 
 ## [21. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -256,7 +256,7 @@
 
 ## [24. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
-### Mac App Download Sites / Pirated software download site blacklist
+### Mac App Download Sites / Pirated software download site blocklist
 
 *   AppKed：~~`http://www.macbed.com`~~
 
@@ -372,13 +372,13 @@
 ### Frameworks
 
 *   [exelli (⭐16)](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar syntax goodies.
-*   [kitto (⭐949)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
+*   [kitto (⭐950)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
 
 ### Instrumenting / Monitoring
 
-*   [appsignal-elixir (⭐262)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
+*   [appsignal-elixir (⭐266)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
 *   [prometheus-ecto (⭐73)](https://github.com/deadtrickster/prometheus-ecto) - Ecto instrumenter for prometheus.ex.
-*   [prometheus-phoenix (⭐68)](https://github.com/deadtrickster/prometheus-phoenix) - Phoenix instrumenter for prometheus.ex.
+*   [prometheus-phoenix (⭐69)](https://github.com/deadtrickster/prometheus-phoenix) - Phoenix instrumenter for prometheus.ex.
 *   [prometheus\_process\_collector (⭐47)](https://github.com/deadtrickster/prometheus_process_collector) - Prometheus collector which exports the current state of process metrics including cpu, memory, file descriptor usage and native threads count as well as the process start and up times.
 
 ### Macros
@@ -395,7 +395,7 @@
 
 ### Third Party APIs
 
-*   [darkskyx (⭐14)](https://github.com/techgaun/darkskyx) - A Darksky.com (formerly forecast.io) API client for Elixir.
+*   [darkskyx (⭐13)](https://github.com/techgaun/darkskyx) - A Darksky.com (formerly forecast.io) API client for Elixir.
 *   [elixirfm (⭐9)](https://github.com/jrichocean/Elixirfm) - Last.fm API wrapper for Elixir.
 *   [ex\_codeship (⭐0)](https://github.com/securingsincity/ex_codeship) - API Client for Codeship.
 
@@ -405,7 +405,7 @@
 
 ### Editors
 
-*   [atom-elixir (⭐409)](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
+*   [atom-elixir (⭐408)](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
 *   [ElixirSublime (⭐366)](https://github.com/vishnevskiy/ElixirSublime) - Elixir plugin for SublimeText 3 that provides code completion and linting.
 
 ## [34. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)

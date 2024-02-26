@@ -29,40 +29,40 @@ A collection of Android security-related resources.
 5.  [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes. Not free
 6.  [App Detonator](https://appdetonator.run/) - Detonate APK binary to provide source code level details including app author, signature, build, and manifest information. 3 Analysis/day free quota.
 7.  [Pithus](https://beta.pithus.org/) - Open-Source APK analyzer. Still in Beta for the moment and limited to static analysis for the moment. Possible to hunt malware with Yara rules. More [here](https://beta.pithus.org/about/).
-8.  [Approver](https://approver.talos-sec.com/) - Approver  is a fully automated security analysis and risk assessment platform for Android and iOS apps. Not free.
-9.  [Oversecured](https://oversecured.com/) - Enterprise vulnerability scanner for Android and iOS apps, it offers app owners and developers the ability to secure each new version of a mobile app by integrating Oversecured into the development process. Not free.
-10. [AppSweep by Guardsquare](https://appsweep.guardsquare.com/) - Free, fast Android application security testing for developers
-11. [Koodous](https://koodous.com) - Performs static/dynamic malware analysis over a vast repository of Android samples and checks them against public and private Yara rules.
-12. [Immuniweb](https://www.immuniweb.com/mobile/). Does a "OWASP Mobile Top 10 Test", "Mobile App Privacy Check" and an application permissions test. Free tier is 4 tests per day incl. report after registration
-13. ~~[BitBaan](https://malab.bitbaan.com/)~~
-14. ~~[AVC UnDroid](http://undroid.av-comparatives.info/)~~
-15. ~~[AMAaaS](https://amaaas.com) - Free Android Malware Analysis Service. A bare-metal service features static and dynamic analysis for Android applications. A product of [MalwarePot](https://malwarepot.com/index.php/AMAaaS)~~.
-16. ~~[AppCritique](https://appcritique.boozallen.com) - Upload your Android APKs and receive comprehensive free security assessments~~
-17. ~~[NVISO ApkScan](https://apkscan.nviso.be/) - sunsetting on Oct 31, 2019~~
-18. ~~[Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)~~
-19. ~~[IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free~~
-20. ~~[Visual Threat](https://www.visualthreat.com/) - no longer an Android app analyzer~~
-21. ~~[Tracedroid](http://tracedroid.few.vu.nl/)~~
-22. ~~[habo](https://habo.qq.com/) - 10/day~~
-23. ~~[CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)~~
-24. ~~[SandDroid](http://sanddroid.xjtu.edu.cn/)~~
-25. ~~[Stowaway](http://www.android-permissions.org/)~~
-26. ~~[Anubis](http://anubis.iseclab.org/)~~
-27. ~~[Mobile app insight](http://www.mobile-app-insight.org)~~
-28. ~~[Mobile-Sandbox](http://mobile-sandbox.com)~~
-29. ~~[Ijiami](http://safe.ijiami.cn/)~~
-30. ~~[Comdroid](http://www.comdroid.org/)~~
-31. ~~[Android Sandbox](http://www.androidsandbox.net/)~~
-32. ~~[Foresafe](http://www.foresafe.com/scan)~~
-33. ~~[Dexter](https://dexter.dexlabs.org/)~~
-34. ~~[MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)~~
-35. ~~[Fireeye](https://fireeye.ijinshan.com/)- max 60MB 15/day~~
+8.  [Oversecured](https://oversecured.com/) - Enterprise vulnerability scanner for Android and iOS apps, it offers app owners and developers the ability to secure each new version of a mobile app by integrating Oversecured into the development process. Not free.
+9.  [AppSweep by Guardsquare](https://appsweep.guardsquare.com/) - Free, fast Android application security testing for developers
+10. [Koodous](https://koodous.com) - Performs static/dynamic malware analysis over a vast repository of Android samples and checks them against public and private Yara rules.
+11. [Immuniweb](https://www.immuniweb.com/mobile/). Does a "OWASP Mobile Top 10 Test", "Mobile App Privacy Check" and an application permissions test. Free tier is 4 tests per day incl. report after registration
+12. ~~[BitBaan](https://malab.bitbaan.com/)~~
+13. ~~[AVC UnDroid](http://undroid.av-comparatives.info/)~~
+14. ~~[AMAaaS](https://amaaas.com) - Free Android Malware Analysis Service. A bare-metal service features static and dynamic analysis for Android applications. A product of [MalwarePot](https://malwarepot.com/index.php/AMAaaS)~~.
+15. ~~[AppCritique](https://appcritique.boozallen.com) - Upload your Android APKs and receive comprehensive free security assessments~~
+16. ~~[NVISO ApkScan](https://apkscan.nviso.be/) - sunsetting on Oct 31, 2019~~
+17. ~~[Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)~~
+18. ~~[IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free~~
+19. ~~[Visual Threat](https://www.visualthreat.com/) - no longer an Android app analyzer~~
+20. ~~[Tracedroid](http://tracedroid.few.vu.nl/)~~
+21. ~~[habo](https://habo.qq.com/) - 10/day~~
+22. ~~[CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)~~
+23. ~~[SandDroid](http://sanddroid.xjtu.edu.cn/)~~
+24. ~~[Stowaway](http://www.android-permissions.org/)~~
+25. ~~[Anubis](http://anubis.iseclab.org/)~~
+26. ~~[Mobile app insight](http://www.mobile-app-insight.org)~~
+27. ~~[Mobile-Sandbox](http://mobile-sandbox.com)~~
+28. ~~[Ijiami](http://safe.ijiami.cn/)~~
+29. ~~[Comdroid](http://www.comdroid.org/)~~
+30. ~~[Android Sandbox](http://www.androidsandbox.net/)~~
+31. ~~[Foresafe](http://www.foresafe.com/scan)~~
+32. ~~[Dexter](https://dexter.dexlabs.org/)~~
+33. ~~[MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)~~
+34. ~~[Fireeye](https://fireeye.ijinshan.com/)- max 60MB 15/day~~
+35. ~~[approver](https://approver.talos-sec.com/) - Approver  is a fully automated security analysis and risk assessment platform for Android and iOS apps. Not free.~~
 
 ### Static Analysis Tools
 
-1.  [Androwarn (⭐461)](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviors developed by an Android application.
+1.  [Androwarn (⭐462)](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviors developed by an Android application.
 2.  [ApkAnalyser (⭐1k)](https://github.com/sonyxperiadev/ApkAnalyser)
-3.  [APKInspector (⭐813)](https://github.com/honeynet/apkinspector/)
+3.  [APKInspector (⭐816)](https://github.com/honeynet/apkinspector/)
 4.  [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
 5.  [DroidLegacy](https://bitbucket.org/srl/droidlegacy)
 6.  ~~[Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs)~~
@@ -76,14 +76,14 @@ A collection of Android security-related resources.
 14. [SPARTA](https://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](https://types.cs.washington.edu/checker-framework/)
 15. [ConDroid (⭐53)](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symbolic + concrete execution of the app
 16. [DroidRA (⭐48)](https://github.com/serval-snt-uni-lu/DroidRA)
-17. [RiskInDroid (⭐86)](https://github.com/ClaudiuGeorgiu/RiskInDroid) - A tool for calculating the risk of Android apps based on their permissions, with an online demo available.
+17. [RiskInDroid (⭐87)](https://github.com/ClaudiuGeorgiu/RiskInDroid) - A tool for calculating the risk of Android apps based on their permissions, with an online demo available.
 18. [SUPER (⭐413)](https://github.com/SUPERAndroidAnalyzer/super) - Secure, Unified, Powerful and Extensible Rust Android Analyzer
 19. [ClassyShark (⭐7.4k)](https://github.com/google/android-classyshark) - Standalone binary inspection tool which can browse any Android executable and show important info.
-20. [StaCoAn (⭐809)](https://github.com/vincentcox/StaCoAn) - Cross-platform tool which aids developers, bug-bounty hunters, and ethical hackers in performing static code analysis on mobile applications. This tool was created with a big focus on usability and graphical guidance in the user interface.
+20. [StaCoAn (⭐812)](https://github.com/vincentcox/StaCoAn) - Cross-platform tool which aids developers, bug-bounty hunters, and ethical hackers in performing static code analysis on mobile applications. This tool was created with a big focus on usability and graphical guidance in the user interface.
 21. [JAADAS (⭐340)](https://github.com/flankerhqd/JAADAS) - Joint intraprocedural and interprocedural program analysis tool to find vulnerabilities in Android apps, built on Soot and Scala
 22. [Quark-Engine (⭐1.2k)](https://github.com/quark-engine/quark-engine) - An Obfuscation-Neglect Android Malware Scoring System
-23. [One Step Decompiler (⭐230)](https://github.com/b-mueller/apkx) - Android APK Decompilation for the Lazy
-24. [APKLeaks (⭐4.4k)](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
+23. [One Step Decompiler (⭐233)](https://github.com/b-mueller/apkx) - Android APK Decompilation for the Lazy
+24. [APKLeaks (⭐4.5k)](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 25. [Mobile Audit (⭐189)](https://github.com/mpast/mobileAudit) - Web application for performing Static Analysis and detecting malware in Android APKs.
 26. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
 
@@ -101,33 +101,33 @@ A collection of Android security-related resources.
 3.  [House (⭐1.3k)](https://github.com/nccgroup/house)- House: A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
 4.  [Mobile-Security-Framework MobSF (⭐16k)](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework is an intelligent, all-in-one open-source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
 5.  [AppUse](https://appsec-labs.com/AppUse/) – custom build for penetration testing
-6.  [Droidbox (⭐724)](https://github.com/pjlantz/droidbox)
+6.  [Droidbox (⭐727)](https://github.com/pjlantz/droidbox)
 7.  [Drozer (⭐3.3k)](https://github.com/mwrlabs/drozer)
 8.  [Xposed](https://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053) - equivalent of doing Stub-based code injection but without any modifications to the binary
 9.  [Inspeckage (⭐2.7k)](https://github.com/ac-pm/Inspeckage) - Android Package Inspector - dynamic analysis with API hooks, start unexported activities, and more. (Xposed Module)
 10. [Android Hooker (⭐406)](https://github.com/AndroidHooker/hooker) - Dynamic Java code instrumentation (requires the Substrate Framework)
 11. [ProbeDroid (⭐194)](https://github.com/ZSShen/ProbeDroid) - Dynamic Java code instrumentation
 12. ~~[Android Tamer](https://androidtamer.com/) - Virtual / Live Platform for Android Security Professionals~~
-13. [DECAF (⭐760)](https://github.com/sycurelab/DECAF) - Dynamic Executable Code Analysis Framework based on QEMU (DroidScope is now an extension to DECAF)
-14. [CuckooDroid (⭐565)](https://github.com/idanr1986/cuckoo-droid) - Android extension for Cuckoo sandbox
+13. [DECAF (⭐764)](https://github.com/sycurelab/DECAF) - Dynamic Executable Code Analysis Framework based on QEMU (DroidScope is now an extension to DECAF)
+14. [CuckooDroid (⭐566)](https://github.com/idanr1986/cuckoo-droid) - Android extension for Cuckoo sandbox
 15. [Mem (⭐62)](https://github.com/MobileForensicsResearch/mem) - Memory analysis of Android (root required)
 16. [Crowdroid](http://www.ida.liu.se/labs/rtslab/publications/2011/spsm11-burguera.pdf) – unable to find the actual tool
 17. [AuditdAndroid (⭐44)](https://github.com/nwhusted/AuditdAndroid) – android port of auditd, not under active development anymore
 18. [Android Security Evaluation Framework](https://code.google.com/p/asef/) - not under active development anymore
 19. [Aurasium (⭐37)](https://github.com/xurubin/aurasium) – Practical security policy enforcement for Android apps via bytecode rewriting and in-place reference monitor.
-20. [Android Linux Kernel modules (⭐199)](https://github.com/strazzere/android-lkms)
+20. [Android Linux Kernel modules (⭐200)](https://github.com/strazzere/android-lkms)
 21. [Appie](https://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment. It is completely portable and can be carried on a USB stick or smartphone. This is a one-stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.
-22. [StaDynA (⭐19)](https://github.com/zyrikby/StaDynA) - a system supporting security app analysis in the presence of dynamic code update features (dynamic class loading and reflection). This tool combines static and dynamic analysis of Android applications in order to reveal the hidden/updated behavior and extend static analysis results with this information.
+22. [StaDynA (⭐20)](https://github.com/zyrikby/StaDynA) - a system supporting security app analysis in the presence of dynamic code update features (dynamic class loading and reflection). This tool combines static and dynamic analysis of Android applications in order to reveal the hidden/updated behavior and extend static analysis results with this information.
 23. [DroidAnalytics (⭐28)](https://github.com/zhengmin1989/DroidAnalytics) - incomplete
 24. [Vezir Project (⭐97)](https://github.com/oguzhantopgul/Vezir-Project) - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
-25. [MARA (⭐606)](https://github.com/xtiankisutsa/MARA_Framework) - Mobile Application Reverse Engineering and Analysis Framework
+25. [MARA (⭐609)](https://github.com/xtiankisutsa/MARA_Framework) - Mobile Application Reverse Engineering and Analysis Framework
 26. [Taintdroid](http://appanalysis.org) - requires AOSP compilation
 27. [ARTist](https://artist.cispa.saarland) - a flexible open-source instrumentation and hybrid analysis framework for Android apps and Android's Java middleware. It is based on the Android Runtime's (ART) compiler and modifies code during on-device compilation.
 28. [Android Malware Sandbox (⭐269)](https://github.com/Areizen/Android-Malware-Sandbox)
-29. [AndroPyTool (⭐312)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android app analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard, or VirusTotal analysis.
+29. [AndroPyTool (⭐314)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android app analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard, or VirusTotal analysis.
 30. [Runtime Mobile Security (RMS) (⭐2.4k)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
 31. [PAPIMonitor (⭐43)](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor (Python API Monitor for Android apps) is a Python tool based on Frida for monitoring user-select APIs during the app execution.
-32. [Android\_application\_analyzer (⭐139)](https://github.com/NotSoSecure/android_application_analyzer) - The tool is used to analyze the content of the Android application in local storage.
+32. [Android\_application\_analyzer (⭐141)](https://github.com/NotSoSecure/android_application_analyzer) - The tool is used to analyze the content of the Android application in local storage.
 33. ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (Linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
 34. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) not under active development anymore~~
 35. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
@@ -139,12 +139,12 @@ A collection of Android security-related resources.
 1.  [Smali/Baksmali (⭐6.2k)](https://github.com/JesusFreke/smali) – apk decompilation
 2.  [emacs syntax coloring for smali files (⭐30)](https://github.com/strazzere/Emacs-Smali)
 3.  [vim syntax coloring for smali files](http://codetastrophe.com/smali.vim)
-4.  [AndBug (⭐595)](https://github.com/swdunlop/AndBug)
+4.  [AndBug (⭐594)](https://github.com/swdunlop/AndBug)
 5.  [Androguard (⭐4.8k)](https://github.com/androguard/androguard) – powerful, integrates well with other tools
 6.  [Apktool](https://ibotpeaches.github.io/Apktool/) – really useful for compilation/decompilation (uses smali)
-7.  [Android Framework for Exploitation (⭐180)](https://github.com/appknox/AFE)
-8.  [Bypass signature and permission checks for IPCs (⭐80)](https://github.com/iSECPartners/Android-KillPermAndSigChecks)
-9.  [Android OpenDebug (⭐130)](https://github.com/iSECPartners/Android-OpenDebug) – make any application on the device debuggable (using cydia substrate).
+7.  [Android Framework for Exploitation (⭐179)](https://github.com/appknox/AFE)
+8.  [Bypass signature and permission checks for IPCs (⭐81)](https://github.com/iSECPartners/Android-KillPermAndSigChecks)
+9.  [Android OpenDebug (⭐128)](https://github.com/iSECPartners/Android-OpenDebug) – make any application on the device debuggable (using cydia substrate).
 10. [Dex2Jar (⭐12k)](https://github.com/pxb1988/dex2jar) - dex to jar converter
 11. [Enjarify (⭐2.7k)](https://github.com/google/enjarify) - dex to jar converter from Google
 12. [Dedexer](https://sourceforge.net/projects/dedexer/)
@@ -152,7 +152,7 @@ A collection of Android security-related resources.
 14. [Frida](https://www.frida.re/) - inject javascript to explore applications and a [GUI tool (⭐170)](https://github.com/antojoseph/diff-gui) for it
 15. [Indroid](https://bitbucket.org/aseemjakhar/indroid) – thread injection kit
 16. [IntentSniffer](https://www.nccgroup.com/us/our-research/intent-sniffer/)
-17. [Introspy (⭐461)](https://github.com/iSECPartners/Introspy-Android)
+17. [Introspy (⭐462)](https://github.com/iSECPartners/Introspy-Android)
 18. [Jad](https://varaneckas.com/jad/) - Java decompiler
 19. [JD-GUI (⭐13k)](https://github.com/java-decompiler/jd-gui) - Java decompiler
 20. [CFR](http://www.benf.org/other/cfr/) - Java decompiler
@@ -166,10 +166,10 @@ A collection of Android security-related resources.
 28. [Dwarf (⭐1.2k)](https://github.com/iGio90/Dwarf) - GUI for reverse engineering
 29. [Andromeda (⭐686)](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
 30. [apk-mitm (⭐3.3k)](https://github.com/shroudedcode/apk-mitm) - A CLI application that prepares Android APK files for HTTPS inspection
-31. [Noia (⭐94)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
+31. [Noia (⭐96)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
 32. [Obfuscapk (⭐1k)](https://github.com/ClaudiuGeorgiu/Obfuscapk) - Obfuscapk is a modular Python tool for obfuscating Android apps without needing their source code.
 33. [ARMANDroid (⭐9)](https://github.com/Mobile-IoT-Security-Lab/ARMANDroid) - ARMAND (Anti-Repackaging through Multi-patternAnti-tampering based on Native Detection) is a novel anti-tampering protection scheme that embeds logic bombs and AT detection nodes directly in the apk file without needing their source code.
-34. [MVT (Mobile Verification Toolkit) (⭐9.5k)](https://github.com/mvt-project/mvt) - a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices
+34. [MVT (Mobile Verification Toolkit) (⭐9.6k)](https://github.com/mvt-project/mvt) - a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices
 35. ~~[Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler~~
 36. ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
 37. ~~[ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror](https://github.com/yangbean9/ZjDroid)~~
@@ -197,21 +197,21 @@ A collection of Android security-related resources.
 3.  [Google Play crawler (Node) (⭐267)](https://github.com/dweinstein/node-google-play) - get app details and download apps from the official Google Play Store.
 4.  [Aptoide downloader (Node) (⭐22)](https://github.com/dweinstein/node-aptoide) - download apps from Aptoide third-party Android market
 5.  [Appland downloader (Node) (⭐15)](https://github.com/dweinstein/node-appland) - download apps from Appland third-party Android market
-6.  [Apkpure](https://apkpure.com/) - Online apk downloader. Provides also its own app for downloading.
-7.  [PlaystoreDownloader (⭐1.1k)](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - PlaystoreDownloader is a tool for downloading Android applications directly from the Google Play Store. After an initial (one-time) configuration, applications can be downloaded by specifying their package name.
-8.  [APK Downloader](https://apkcombo.com/apk-downloader/) Online Service to download APK from Playstore for specific Android Device Configuration
+6.  [PlaystoreDownloader (⭐1.1k)](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - PlaystoreDownloader is a tool for downloading Android applications directly from the Google Play Store. After an initial (one-time) configuration, applications can be downloaded by specifying their package name.
+7.  [APK Downloader](https://apkcombo.com/apk-downloader/) Online Service to download APK from Playstore for specific Android Device Configuration
+8.  ~~[Apkpure](https://apkpure.com/) - Online apk downloader. Provides also its own app for downloading.~~
 
 ### Misc Tools
 
 1.  [smalihook](http://androidcracking.blogspot.com/2011/03/original-smalihook-java-source.html)
 2.  [AXMLPrinter2](http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar) - to convert binary XML files to human-readable XML files
 3.  [adb autocomplete (⭐243)](https://github.com/mbrubeck/android-completion)
-4.  [mitmproxy (⭐33k)](https://github.com/mitmproxy/mitmproxy)
+4.  [mitmproxy (⭐34k)](https://github.com/mitmproxy/mitmproxy)
 5.  [dockerfile/androguard (⭐38)](https://github.com/dweinstein/dockerfile-androguard)
 6.  [Android Vulnerability Test Suite (⭐1k)](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
 7.  [AppMon (⭐1.5k)](https://github.com/dpnishant/appmon)- AppMon is an automated framework for monitoring and tampering with system API calls of native macOS, iOS, and Android apps. It is based on Frida.
-8.  [Internal Blue (⭐646)](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework based on Reverse Engineering of Broadcom Bluetooth Controllers
-9.  [Android Mobile Device Hardening (⭐182)](https://github.com/SecTheTech/AMDH) - AMDH scans and hardens the device's settings and lists harmful installed Apps based on permissions.
+8.  [Internal Blue (⭐649)](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework based on Reverse Engineering of Broadcom Bluetooth Controllers
+9.  [Android Mobile Device Hardening (⭐185)](https://github.com/SecTheTech/AMDH) - AMDH scans and hardens the device's settings and lists harmful installed Apps based on permissions.
 10. ~~[Android Device Security Database](https://www.android-device-security.org/client/datatable) - Database of security features of Android devices~~
 11. ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
 12. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
@@ -219,13 +219,13 @@ A collection of Android security-related resources.
 
 ### Vulnerable Applications for practice
 
-1.  [Damn Insecure Vulnerable Application (DIVA) (⭐889)](https://github.com/payatu/diva-android)
+1.  [Damn Insecure Vulnerable Application (DIVA) (⭐894)](https://github.com/payatu/diva-android)
 2.  [Vuldroid (⭐52)](https://github.com/jaiswalakshansh/Vuldroid)
 3.  [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html)
 4.  [GoatDroid (⭐235)](https://github.com/jackMannino/OWASP-GoatDroid-Project)
 5.  [Android InsecureBank (⭐1.2k)](https://github.com/dineshshetty/Android-InsecureBankv2)
-6.  [Insecureshop (⭐221)](https://github.com/optiv/insecureshop)
-7.  [Oversecured Vulnerable Android App (OVAA) (⭐579)](https://github.com/oversecured/ovaa)
+6.  [Insecureshop (⭐222)](https://github.com/optiv/insecureshop)
+7.  [Oversecured Vulnerable Android App (OVAA) (⭐583)](https://github.com/oversecured/ovaa)
 
 ## Academic/Research/Publications/Books
 
@@ -242,8 +242,8 @@ A collection of Android security-related resources.
 ### Others
 
 1.  [OWASP Mobile Security Testing Guide Manual (⭐11k)](https://github.com/OWASP/owasp-mstg)
-2.  [doridori/Android-Security-Reference (⭐876)](https://github.com/doridori/Android-Security-Reference)
-3.  [android app security checklist (⭐829)](https://github.com/b-mueller/android_app_security_checklist)
+2.  [doridori/Android-Security-Reference (⭐877)](https://github.com/doridori/Android-Security-Reference)
+3.  [android app security checklist (⭐830)](https://github.com/b-mueller/android_app_security_checklist)
 4.  [Mobile App Pentest Cheat Sheet (⭐4.3k)](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 5.  [Android Reverse Engineering 101 by Daniele Altomare (Web Archive link)](http://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/)
 6.  ~~[Mobile Security Reading Room](https://mobile-security.zeef.com) - A reading room that contains well-categorized technical reading material about mobile penetration testing, mobile malware, mobile forensics, and all kind of mobile security-related topics~~

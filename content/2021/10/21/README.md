@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 21, 2021
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -112,25 +112,19 @@
 
 *   [TypeScript Jobs](https://typescriptjobs.dev)
 
-## [9. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Machine Learning
-
-*   [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/) - Danny Friedman (HTML, PDF, Jupyter Book)
-
-## [10. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [9. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Frameworks
 
 *   [Macchina.io (⭐509)](https://github.com/macchina-io/macchina.io) - macchina.io EDGE is a rich software framework for quickly building IoT device applications running on Linux-based devices. macchina.io EDGE implements a web-enabled, secure, modular and extensible JavaScript and C++ runtime environment and provides ready-to-use and industry proven software building blocks. These enable devices to talk to various sensors, other devices and cloud services, and to process, analyze and filter sensor data locally, at the edge device or within the local network.
 
-## [11. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [10. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### MOOCs
 
 *   [Introduction to Quantum Information Science](https://www.arturekert.org/iqis) - “Introduction to Quantum Information” by Professor Artur Ekert at the University of Oxford.
 
-## [12. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+## [11. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
 ### Courses
 
@@ -141,31 +135,31 @@
 
 *   [Neobotix](https://www.neobotix-robots.com/homepage) manufacturer of industrial, research and as well as custom mobile robots.
 
-## [13. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [12. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Others / Object detection and object tracking
 
 *   [ARHeadsetKit (⭐117)](https://github.com/philipturner/ARHeadsetKit) - Using $5 Google Cardboard to replicate Microsoft Hololens. Hosts the source code for research on [scene color reconstruction (⭐22)](https://github.com/philipturner/scene-color-reconstruction).
 
-## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Command Line / Diagnostics
 
 *   [gelguy/wilder.nvim (⭐1.2k)](https://github.com/gelguy/wilder.nvim) - A plugin for fuzzy command line autocompletion.
 
-## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Docker Related
 
 *   [Platform9](https://platform9.com/) - Managed Kubernetes plane. The free plan offers management capabilities for up to 3 clusters & 20 nodes. Just so you know, you must provide cluster infrastructure by yourself.
 
-## [16. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [15. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Educational and Informational Resources / Literature Resources
 
 *   [Repository and Open Science Access Portal (ROSA P)](https://rosap.ntl.bts.gov/welcome) - Provides access to a range of full-text current and historical documents from the National Transportation Library. Resources are available from all modes of transportation as well as related disciplines such as climate change research.
 
-## [17. Public Apis](/content/public-apis/public-apis/README.md)
+## [16. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 

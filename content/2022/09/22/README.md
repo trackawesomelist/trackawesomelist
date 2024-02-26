@@ -107,17 +107,17 @@
 
 ### Health and Social Science
 
-*   [Biomedical Information Extraction (⭐287)](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
-*   [Diversity (⭐608)](https://github.com/folkswhocode/awesome-diversity#readme) - Creating a more inclusive and diverse tech community.
-*   [Empathy in Engineering (⭐514)](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
-*   [Healthcare (⭐2.3k)](https://github.com/kakoni/awesome-healthcare#readme) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
+*   [Biomedical Information Extraction (⭐294)](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
+*   [Diversity (⭐611)](https://github.com/folkswhocode/awesome-diversity#readme) - Creating a more inclusive and diverse tech community.
+*   [Empathy in Engineering (⭐519)](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
+*   [Healthcare (⭐2.4k)](https://github.com/kakoni/awesome-healthcare#readme) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
 *   [Humane Technology (⭐3k)](https://github.com/humanetech-community/awesome-humane-tech#readme) - Open source projects that help improve society.
-*   [Mental Health (⭐2.8k)](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
+*   [Mental Health (⭐2.9k)](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
 *   [Neuroscience (⭐1.2k)](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
 
 ### Miscellaneous
 
-*   [Scientific Writing (⭐634)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
+*   [Scientific Writing (⭐652)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 
 ## [10. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 
@@ -158,7 +158,7 @@
 
 ### Open Source / Community
 
-*   [Vituum (⭐264)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
+*   [Vituum (⭐273)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
 
 ---
 

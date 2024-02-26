@@ -127,7 +127,7 @@
 
 ### Logging
 
-*   [loguru (⭐15k)](https://github.com/Delgan/loguru) - Library which aims to bring enjoyable logging in Python.
+*   [loguru (⭐17k)](https://github.com/Delgan/loguru) - Library which aims to bring enjoyable logging in Python.
 
 ## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

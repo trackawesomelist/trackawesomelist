@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 03 - Feb 09, 2020
 
-62 awesome lists updated this week.
+61 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -411,7 +411,7 @@
 ### Platform / Other
 
 *   [CUBA Platform](https://www.cuba-platform.com/) - High-level framework for developing enterprise applications with a rich web interface, based on Spring, EclipseLink and Vaadin.
-*   [Light-4J (⭐3.6k)](https://github.com/networknt/light-4j/) - Fast, lightweight and productive microservices framework with built-in [security (⭐310)](https://github.com/networknt/light-oauth2/).
+*   [Light-4J (⭐3.6k)](https://github.com/networknt/light-4j/) - Fast, lightweight and productive microservices framework with built-in [security (⭐311)](https://github.com/networknt/light-oauth2/).
 *   [Orienteer (⭐228)](https://github.com/OrienteerBAP/Orienteer/) - Open-source business application platform for rapid configuration/development of CRM, ERP, LMS and other applications.
 *   [Spring](https://spring.io/projects/) - Provides many packages for dependency injection, aspect-oriented programming, security, etc.
 
@@ -451,7 +451,7 @@
 ### Testing / Asynchronous
 
 *   [Awaitility (⭐3.6k)](https://github.com/awaitility/awaitility) - DSL for synchronizing asynchronous operations.
-*   [REST Assured (⭐6.6k)](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
+*   [REST Assured (⭐6.7k)](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
 
 ### Testing / BDD
 
@@ -1243,7 +1243,7 @@
 
 ### Miscellaneous
 
-*   [pprint (⭐907)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
+*   [pprint (⭐906)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
 
 ## [30. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -1255,22 +1255,22 @@
 
 ### Applications
 
-*   [tiny (⭐931)](https://github.com/osa1/tiny) — A terminal IRC client
+*   [tiny (⭐941)](https://github.com/osa1/tiny) — A terminal IRC client
 
 ### Applications / System tools
 
-*   [dust (⭐7.2k)](https://github.com/bootandy/dust) — A more intuitive version of du
+*   [dust (⭐7.3k)](https://github.com/bootandy/dust) — A more intuitive version of du
 
 ### Applications / Utilities
 
-*   [tversteeg/emplace (⭐232)](https://github.com/tversteeg/emplace) — Synchronize installed packages on multiple machines
+*   [tversteeg/emplace (⭐235)](https://github.com/tversteeg/emplace) — Synchronize installed packages on multiple machines
 
 ### Libraries / Cryptography
 
-*   [dalek-cryptography/curve25519-dalek (⭐794)](https://github.com/dalek-cryptography/curve25519-dalek) — Pure Rust implementation of Curve25519 operations
-*   [dalek-cryptography/ed25519-dalek (⭐649)](https://github.com/dalek-cryptography/ed25519-dalek) — Pure Rust implementation of Ed25519 digital signatures
-*   [dalek-cryptography/x25519-dalek (⭐321)](https://github.com/dalek-cryptography/x25519-dalek) — Pure Rust implementation of X25519 key exchange
-*   [debris/tiny-keccak (⭐184)](https://github.com/debris/tiny-keccak) — Pure Rust implementation of the Keccak family (SHA3)
+*   [dalek-cryptography/curve25519-dalek (⭐802)](https://github.com/dalek-cryptography/curve25519-dalek) — Curve25519 operations
+*   [dalek-cryptography/ed25519-dalek (⭐652)](https://github.com/dalek-cryptography/ed25519-dalek) — Ed25519 digital signatures
+*   [dalek-cryptography/x25519-dalek (⭐321)](https://github.com/dalek-cryptography/x25519-dalek) — X25519 key exchange
+*   [debris/tiny-keccak (⭐185)](https://github.com/debris/tiny-keccak) — Keccak family (SHA3)
 
 ## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -1315,12 +1315,12 @@
 
 ### Platforms
 
-*   [ESP (⭐743)](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
+*   [ESP (⭐785)](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
 
 ### Events
 
-*   [Events in Italy (⭐146)](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
-*   [Events in the Netherlands (⭐57)](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
+*   [Events in Italy (⭐147)](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
+*   [Events in the Netherlands (⭐58)](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
 
 ## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -1462,12 +1462,12 @@
 
 ### Authentication and Authorization
 
-*   🍰 [CakeDC/Users plugin (⭐516)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
+*   🍰 [CakeDC/Users plugin (⭐518)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
 *   [Muffin/Tokenize plugin (⭐12)](https://github.com/UseMuffin/Tokenize) - Event driven behavior for easily generating single-use security tokens.
 
 ### Migration
 
-*   🍰 [Migrations plugin (⭐130)](https://github.com/cakephp/migrations) - (DB) Migration plugin.
+*   🍰 [Migrations plugin (⭐131)](https://github.com/cakephp/migrations) - (DB) Migration plugin.
 
 ### ORM / Database / Datamapping
 
@@ -1681,13 +1681,7 @@
 
 *   [react-universal-hooks (⭐186)](https://github.com/salvoravida/react-universal-hooks) - :tada: support react hooks everywhere (Functional or Class Component).
 
-## [60. Awesome Python](/content/vinta/awesome-python/week/README.md)
-
-### Date and Time
-
-*   [Arrow](https://arrow.readthedocs.io/en/latest/) - A Python library that offers a sensible and human-friendly approach to creating, manipulating, formatting and converting dates, times and timestamps.
-
-## [61. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [60. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Fiction / Fantasy
 
@@ -1719,7 +1713,7 @@
 
 
 
-## [62. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [61. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / DDoS Tools
 

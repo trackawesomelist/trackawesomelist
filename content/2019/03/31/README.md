@@ -16,7 +16,7 @@
 
 ### Contents / Extensions
 
-*   [pgRouting (⭐1k)](https://github.com/pgRouting/pgrouting) - pgRouting extends the PostGIS/PostgreSQL geospatial database to provide geospatial routing and other network analysis functionality.
+*   [pgRouting (⭐1.1k)](https://github.com/pgRouting/pgrouting) - pgRouting extends the PostGIS/PostgreSQL geospatial database to provide geospatial routing and other network analysis functionality.
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 

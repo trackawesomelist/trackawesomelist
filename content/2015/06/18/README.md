@@ -28,7 +28,7 @@
 
 ### Command-Line Productivity
 
-*   [thefuck (⭐80k)](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
+*   [thefuck (⭐81k)](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 
 ### Customization / Directory Navigation
 

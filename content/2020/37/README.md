@@ -20,11 +20,11 @@
 
 *   [ShellSpec (⭐807)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for POSIX shells.
 
-## [3. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [3. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
-### Newsletters / Collection View Layout
+### Mobile / Svelte
 
-*   [Mobile Developers Cafe](https://mobiledeveloperscafe.com) - A weekly newsletter for Mobile developers with loads of iOS content.
+*   [Mobile Developers Cafe](https://mobiledeveloperscafe.com). A weekly newsletter for Mobile Developers - iOS, Android, Flutter & React Native.
 
 ## [4. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -524,7 +524,7 @@
 
 ### Testing
 
-*   [definject (⭐55)](https://github.com/definject/definject) - Unobtrusive dependency injector for Elixir.
+*   [definject (⭐56)](https://github.com/definject/definject) - Unobtrusive dependency injector for Elixir.
 
 ## [44. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -924,11 +924,11 @@
 ### Game Development
 
 *   [crystal-chipmunk (⭐41)](https://github.com/oprypin/crystal-chipmunk) - Bindings to [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
-*   [crystal-imgui-sfml (⭐15)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐53k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
+*   [crystal-imgui-sfml (⭐15)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐54k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
 
 ### GUI Development
 
-*   [crystal-imgui (⭐62)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐53k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
+*   [crystal-imgui (⭐63)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐54k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
 
 ## [53. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -1063,7 +1063,7 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [gooey-react (⭐633)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
+*   [gooey-react (⭐636)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
 
 ## [63. Awesome Internships](/content/lodthe/awesome-internships/week/README.md)
 

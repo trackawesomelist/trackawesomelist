@@ -35,7 +35,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-ts-nameof (⭐17)](https://github.com/Shinigami92/vite-plugin-ts-nameof) - Ability to resolve [nameof (⭐484)](https://github.com/dsherret/ts-nameof) in TypeScript.
+*   [vite-plugin-ts-nameof (⭐17)](https://github.com/Shinigami92/vite-plugin-ts-nameof) - Ability to resolve [nameof (⭐486)](https://github.com/dsherret/ts-nameof) in TypeScript.
 
 ## [6. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -75,8 +75,8 @@
 
 ### Yaml
 
-*   [mini-yaml (⭐204)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
-*   [yaml-cpp (⭐4.6k)](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++. \[MIT]
+*   [mini-yaml (⭐201)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
+*   [yaml-cpp (⭐4.7k)](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++. \[MIT]
 
 ## [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 

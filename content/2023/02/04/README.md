@@ -40,7 +40,7 @@
 
 ### Utils
 
-*   [playwright-test-coverage (⭐60)](https://github.com/anishkny/playwright-test-coverage) - Plugin to collect code coverage from running Playwright tests.
+*   [playwright-test-coverage (⭐66)](https://github.com/anishkny/playwright-test-coverage) - Plugin to collect code coverage from running Playwright tests.
 
 ### Reporters
 
@@ -66,7 +66,7 @@
 
 ### Actors
 
-*   [poolex (⭐33)](https://github.com/general-CbIC/poolex) - Pure elixir pool manager.
+*   [poolex (⭐34)](https://github.com/general-CbIC/poolex) - Pure elixir pool manager.
 
 ## [9. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Gaming
 
-*   [ComputerCraft (⭐88)](https://github.com/tomodachi94/awesome-computercraft#readme) - Minecraft mod that adds programmable computers.
+*   [ComputerCraft (⭐94)](https://github.com/tomodachi94/awesome-computercraft#readme) - Minecraft mod that adds programmable computers.
 
 ## [13. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

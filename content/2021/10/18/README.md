@@ -73,7 +73,7 @@
 
 ### Applications / System tools
 
-*   [cantino/mcfly (⭐6.3k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
+*   [cantino/mcfly (⭐6.4k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 
 ### Applications / Web
 

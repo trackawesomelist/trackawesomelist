@@ -39,7 +39,7 @@
 ### Development tools / FFI
 
 *   C#
-    *   [csbindgen (⭐510)](https://github.com/Cysharp/csbindgen) - generates C# bindings for Rust source files
+    *   [csbindgen (⭐520)](https://github.com/Cysharp/csbindgen) - generates C# bindings for Rust source files
 
 ## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

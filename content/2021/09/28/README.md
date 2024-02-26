@@ -22,7 +22,7 @@
 
 ### Admin Interface
 
-*   [MotorAdmin (⭐649)](https://github.com/motor-admin/motor-admin-rails) - A low-code Admin panel and Business Intelligence Rails engine. No DSL - configurable from the UI.
+*   [MotorAdmin (⭐668)](https://github.com/motor-admin/motor-admin-rails) - A low-code Admin panel and Business Intelligence Rails engine. No DSL - configurable from the UI.
 
 ## [4. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Libraries / Domain driven design
 
-*   [serverlesstechnology/cqrs (⭐313)](https://github.com/serverlesstechnology/cqrs) \[[cqrs-es](https://crates.io/crates/cqrs-es)] — A framework for CQRS and event sourcing with [user guide](https://doc.rust-cqrs.org/)
+*   [serverlesstechnology/cqrs (⭐315)](https://github.com/serverlesstechnology/cqrs) \[[cqrs-es](https://crates.io/crates/cqrs-es)] — A framework for CQRS and event sourcing with [user guide](https://doc.rust-cqrs.org/)
 
 ## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -93,7 +93,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [OhMySMTP Templates (⭐196)](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
+*   📁 [OhMySMTP Templates (⭐198)](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
 
 ## [13. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 

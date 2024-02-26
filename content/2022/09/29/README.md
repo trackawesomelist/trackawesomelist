@@ -19,13 +19,13 @@
 
 ### GUI Development
 
-*   [GTK4.cr (⭐94)](https://github.com/hugopl/gtk4.cr) - Bindings for [GTK4](https://docs.gtk.org/gtk4/overview.html) with Crystalized API
+*   [GTK4.cr (⭐95)](https://github.com/hugopl/gtk4.cr) - Bindings for [GTK4](https://docs.gtk.org/gtk4/overview.html) with Crystalized API
 
 ## [2. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-panos (⭐80)](https://github.com/PaloAltoNetworks/terraform-provider-panos) - Provider for [Palo Alto Networks next-generation firewalls](https://www.paloaltonetworks.com/network-security).
+*   [terraform-provider-panos (⭐82)](https://github.com/PaloAltoNetworks/terraform-provider-panos) - Provider for [Palo Alto Networks next-generation firewalls](https://www.paloaltonetworks.com/network-security).
 
 ## [3. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [git-aliases (peterhurford) (⭐76)](https://github.com/peterhurford/git-aliases.zsh) - Creates a lot of useful aliases for combinations of commonly used `git` commands.
+*   [git-aliases (peterhurford) (⭐78)](https://github.com/peterhurford/git-aliases.zsh) - Creates a lot of useful aliases for combinations of commonly used `git` commands.
 *   [git-aliases (remino) (⭐0)](https://github.com/remino/omz-plugin-git-aliases) - Aliases all `git xyz` commands to `gxyz`. Also aliases `g` to `git`.
 *   [mysql-login (⭐0)](https://github.com/remino/omz-plugin-mysql-alias) - Adds alias for MySQL with login path.
 
@@ -84,11 +84,11 @@
 
 ### Libraries/Frameworks / API Clients
 
-*   [adamint/spotify-web-api-kotlin (⭐173)](https://github.com/adamint/spotify-web-api-kotlin) - Spotify Web API wrapper for Kotlin/Android, JVM, JS, and Native targets.
+*   [adamint/spotify-web-api-kotlin (⭐174)](https://github.com/adamint/spotify-web-api-kotlin) - Spotify Web API wrapper for Kotlin/Android, JVM, JS, and Native targets.
 
 ### Libraries/Frameworks / Logging
 
-*   [LighthouseGames/KmLogging (⭐56)](https://github.com/LighthouseGames/KmLogging) - Kotlin multiplatform logging. High performance, composable and simple to use.
+*   [LighthouseGames/KmLogging (⭐57)](https://github.com/LighthouseGames/KmLogging) - Kotlin multiplatform logging. High performance, composable and simple to use.
 
 ## [10. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -182,11 +182,11 @@
 
 ### Projects / Godot 3.2+
 
-*   [vpuppr (⭐660)](https://github.com/virtual-puppet-project/vpuppr) - A cross-platform VTuber application with mulitple tracking backends.
+*   [vpuppr (⭐667)](https://github.com/virtual-puppet-project/vpuppr) - A cross-platform VTuber application with mulitple tracking backends.
 
 ### Modules / Godot 3.2+
 
-*   [spout-gd (⭐21)](https://github.com/you-win/spout-gd) - Share OpenGL textures across Windows applications through your GPU using [Spout (⭐678)](https://github.com/leadedge/Spout2).
+*   [spout-gd (⭐22)](https://github.com/you-win/spout-gd) - Share OpenGL textures across Windows applications through your GPU using [Spout (⭐681)](https://github.com/leadedge/Spout2).
 
 ---
 

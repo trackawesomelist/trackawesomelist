@@ -72,13 +72,13 @@
 
 ### Environment Management
 
-*   [crenv (⭐237)](https://github.com/crenv/crenv) - Crystal version manager
+*   [crenv (⭐236)](https://github.com/crenv/crenv) - Crystal version manager
 
 ## [7. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Data Pipeline
 
-*   [RudderStack (⭐3.8k)](https://github.com/rudderlabs/rudder-server) \[Go] - an open source customer data infrastructure (segment, mparticle alternative).
+*   [RudderStack (⭐3.9k)](https://github.com/rudderlabs/rudder-server) \[Go] - an open source customer data infrastructure (segment, mparticle alternative).
 
 ## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

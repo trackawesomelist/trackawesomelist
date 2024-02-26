@@ -48,7 +48,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [surveyjs (⭐3.8k)](https://github.com/surveyjs/survey-library) - The advanced Survey and Form library
+*   [surveyjs (⭐3.9k)](https://github.com/surveyjs/survey-library) - The advanced Survey and Form library
 
 ## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -118,7 +118,7 @@
 
 ### Miscellaneous
 
-*   [Stacks (⭐3.2k)](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
+*   [Stacks (⭐3.3k)](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
 
 ## [19. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -214,11 +214,11 @@
 
 ### Cloud Infrastructure and Management
 
-*   [aws (⭐491)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
+*   [aws (⭐501)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
 
 ### Framework Components
 
-*   [phoenix\_meta\_tags (⭐28)](https://github.com/hlongvu/phoenix_meta_tags) - Generate meta tags for a website.
+*   [phoenix\_meta\_tags (⭐29)](https://github.com/hlongvu/phoenix_meta_tags) - Generate meta tags for a website.
 
 ### Games
 
@@ -230,7 +230,7 @@
 
 ### Office
 
-*   [elixlsx (⭐255)](https://github.com/xou/elixlsx) - A writer for XLSX files.
+*   [elixlsx (⭐258)](https://github.com/xou/elixlsx) - A writer for XLSX files.
 
 ### Security
 
@@ -304,7 +304,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [QS Ledger (⭐908)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
+*   [QS Ledger (⭐950)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
 
 ## [31. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -366,10 +366,10 @@ Webpage: <http://zeitgeistcoffee.com/>
 
 ### Applications / Blockchain
 
-*   [ChainX (⭐305)](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
+*   [ChainX (⭐307)](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
 *   [Grin (⭐5k)](https://github.com/mimblewimble/grin/) — Evolution of the MimbleWimble protocol
 *   [Nervos CKB (⭐1.1k)](https://github.com/nervosnetwork/ckb) — Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
-*   [Substrate (⭐8.3k)](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
+*   [Substrate (⭐8.3k)](https://github.com/paritytech/substrate) — Generic modular blockchain template.
 
 ## [37. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 

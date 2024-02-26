@@ -48,28 +48,28 @@
 
 ### Data Manipulation
 
-*   [lubridate (⭐706)](https://github.com/tidyverse/lubridate) - A set of functions to work with dates and times.
-*   [bigmemory (⭐123)](https://github.com/kaneplusplus/bigmemory) - Shared memory and memory-mapped matrices. The big\* packages provide additional tools including linear models ([biglm](http://cran.r-project.org/web/packages/biglm/index.html)) and Random Forests ([bigrf (⭐92)](https://github.com/aloysius-lim/bigrf)).
+*   [lubridate (⭐712)](https://github.com/tidyverse/lubridate) - A set of functions to work with dates and times.
+*   [bigmemory (⭐124)](https://github.com/kaneplusplus/bigmemory) - Shared memory and memory-mapped matrices. The big\* packages provide additional tools including linear models ([biglm](http://cran.r-project.org/web/packages/biglm/index.html)) and Random Forests ([bigrf (⭐92)](https://github.com/aloysius-lim/bigrf)).
 
 ### Graphic Displays
 
-*   [lattice (⭐67)](https://github.com/deepayan/lattice) - A powerful and elegant high-level data visualization system.
-*   [animation (⭐205)](https://github.com/yihui/animation) - A simple way to produce animated graphics in R, using [ImageMagick](http://imagemagick.org/).
-*   [waffle (⭐756)](https://github.com/hrbrmstr/waffle) -  🍁 Make waffle (square pie) charts in R.
-*   [dendextend (⭐147)](https://github.com/talgalili/dendextend) -  visualizing, adjusting and comparing trees of hierarchical clustering.
+*   [lattice (⭐68)](https://github.com/deepayan/lattice) - A powerful and elegant high-level data visualization system.
+*   [animation (⭐208)](https://github.com/yihui/animation) - A simple way to produce animated graphics in R, using [ImageMagick](http://imagemagick.org/).
+*   [waffle (⭐757)](https://github.com/hrbrmstr/waffle) -  🍁 Make waffle (square pie) charts in R.
+*   [dendextend (⭐148)](https://github.com/talgalili/dendextend) -  visualizing, adjusting and comparing trees of hierarchical clustering.
 
 ### HTML Widgets
 
-*   [heatmaply (⭐362)](https://github.com/talgalili/heatmaply) - Interactive heatmaps with D3.
-*   [d3heatmap (⭐237)](https://github.com/rstudio/d3heatmap) - Interactive heatmaps with D3 (no longer maintained).
+*   [heatmaply (⭐366)](https://github.com/talgalili/heatmaply) - Interactive heatmaps with D3.
+*   [d3heatmap (⭐236)](https://github.com/rstudio/d3heatmap) - Interactive heatmaps with D3 (no longer maintained).
 
 ### Reproducible Research
 
-*   [tinytex (⭐902)](https://github.com/yihui/tinytex) - A lightweight and easy-to-maintain LaTeX distribution
+*   [tinytex (⭐913)](https://github.com/yihui/tinytex) - A lightweight and easy-to-maintain LaTeX distribution
 
 ### Database Management
 
-*   [odbc (⭐376)](https://github.com/r-dbi/odbc) - Connect to ODBC databases (using the DBI interface)
+*   [odbc (⭐378)](https://github.com/r-dbi/odbc) - Connect to ODBC databases (using the DBI interface)
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

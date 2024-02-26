@@ -33,7 +33,7 @@
 
 ## [5. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
-### Zig development tools / HTTP
+### Zig development tools / Messaging
 
 *   [korandoru/setup-zig (⭐12)](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
 
@@ -80,7 +80,7 @@
 
 ### Compression
 
-*   [bzip3 (⭐610)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
+*   [bzip3 (⭐617)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
 
 ## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

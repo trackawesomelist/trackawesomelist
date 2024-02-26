@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 08, 2015
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,13 +10,7 @@
 
 ### Data generation
 
-*   [jsonymize (⭐14)](https://github.com/cameronhunter/jsonymize) - Reads data from standard input, anonymizes, then writes to standard output.
-
-### Schema Specifications
-
-*   [JSON Schema](http://json-schema.org/) - a JSON based format for defining the structure of JSON data.
-*   [Kwalify](http://www.kuwata-lab.com/kwalify/) - A parser, schema validator, and data binding tool
-*   [Rx](http://rx.codesimply.com/) - Simple, Extensible Schemata.
+*   [jsonymize (⭐17)](https://github.com/cameronhunter/jsonymize) - Reads data from standard input, anonymizes, then writes to standard output.
 
 ## [2. Es6 Tools](/content/addyosmani/es6-tools/README.md)
 
@@ -28,11 +22,11 @@
 
 ### Image Processing
 
-*   [Video++ (⭐713)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. \[MIT]
+*   [Video++ (⭐714)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. \[MIT]
 
 ### Math
 
-*   [QuantLib (⭐4.6k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
+*   [QuantLib (⭐4.7k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
 
 ## [4. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 
@@ -44,7 +38,13 @@
 
 *   [Can I parse XHTML with Regex?](http://stackoverflow.com/a/1732454)
 
-## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [5. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### 操作系统
+
+*   [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Database Tools
 
@@ -58,7 +58,7 @@
 
 *   [Slack ruby gem (⭐244)](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API.
 
-## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Testing
 

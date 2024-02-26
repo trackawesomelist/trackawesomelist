@@ -12,7 +12,7 @@
 
 *   [libsequence](http://molpopgen.github.io/libsequence/) - A C++ library for representing and analyzing population genetics data. \[GPL]
 *   [SeqAn](http://www.seqan.de/) - Algorithms and data structures for the analysis of sequences with the focus on biological data. \[BSD/3-clause]
-*   [Vcflib (⭐582)](https://github.com/ekg/vcflib) - A C++ library for parsing and manipulating VCF files. \[MIT]
+*   [Vcflib (⭐584)](https://github.com/ekg/vcflib) - A C++ library for parsing and manipulating VCF files. \[MIT]
 
 ### Image Processing
 
@@ -22,7 +22,7 @@
 
 *   [MOOS-IvP](http://moos-ivp.org) - A set of open source C++ modules for providing autonomy on robotic platforms, in particular autonomous marine vehicles.
 *   [MRPT](http://www.mrpt.org/) - Mobile Robot Programming Toolkit. \[BSD]
-*   [PCL (⭐9.2k)](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library is a standalone, large scale, open project for 2D/3D image and point cloud processing. \[BSD] [website](http://www.pointclouds.org/)
+*   [PCL (⭐9.3k)](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library is a standalone, large scale, open project for 2D/3D image and point cloud processing. \[BSD] [website](http://www.pointclouds.org/)
 *   [Robotics Library (RL)](http://www.roboticslibrary.org/) - A self-contained C++ library for robot kinematics, motion planning and control. \[BSD]
 *   [ROS](http://wiki.ros.org/) - Robot Operating System provides libraries and tools to help software developers create robot applications. \[BSD]
 

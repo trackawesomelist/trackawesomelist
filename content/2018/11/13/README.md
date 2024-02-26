@@ -74,7 +74,7 @@
 
 ### Web Application Framework
 
-*   [facil.io (⭐1.9k)](https://github.com/boazsegev/facil.io) - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. \[MIT] [website](http://facil.io)
+*   [facil.io (⭐2k)](https://github.com/boazsegev/facil.io) - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. \[MIT] [website](http://facil.io)
 
 ## [10. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

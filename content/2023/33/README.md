@@ -51,7 +51,6 @@
 
 ### Resources / API Specification
 
-*   [API Blueprint (⭐8.5k) (⭐8.6k)](https://github.com/apiaryio/api-blueprint) - A powerful high-level language for designing and documenting APIs that allows software engineers to easily collaborate and create efficient APIs.
 *   [GraphQL (⭐14k) (⭐14k)](https://github.com/graphql/graphql-spec) - A sophisticated query language and runtime for building efficient APIs that empowers engineers to retrieve data from existing systems with ease.
 
 ### Resources / Articles
@@ -86,28 +85,28 @@
 
 ### Libraries / Email
 
-*   [tweedegolf/mailcrab (⭐626)](https://github.com/tweedegolf/mailcrab) — Email test server for development.
+*   [tweedegolf/mailcrab (⭐629)](https://github.com/tweedegolf/mailcrab) — Email test server for development.
 
 ### Libraries / Filesystem
 
 *   Operations
-    *   [Camino (⭐349)](https://github.com/camino-rs/camino) \[[camino](https://crates.io/crates/camino)] - Like Rust's std::path::Path, but UTF-8.
-    *   [ParthJadhav/Rust\_Search (⭐112)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library built in Rust.
+    *   [Camino (⭐356)](https://github.com/camino-rs/camino) \[[camino](https://crates.io/crates/camino)] - Like Rust's std::path::Path, but UTF-8.
+    *   [ParthJadhav/Rust\_Search (⭐116)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library.
     *   [pop-os/dbus-udisks2 (⭐16)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
     *   [pop-os/sys-mount (⭐40)](https://github.com/pop-os/sys-mount) \[[sys-mount](https://crates.io/crates/sys-mount)] — High level abstraction for the `mount` / `umount2` system calls.
     *   [vitiral/path\_abs (⭐49)](https://github.com/vitiral/path_abs) \[[path\_abs](https://crates.io/crates/path_abs)] — Absolute serializable path types and associated methods.
-    *   [webdesus/fs\_extra (⭐224)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io
+    *   [webdesus/fs\_extra (⭐225)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io
 
 ## [7. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Aggregators & Dashboards
 
-*   [BiomarkerDash (⭐1)](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
+*   [BiomarkerDash (⭐10)](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
 
 ### Open Source Projects / Wealth
 
 *   [Timeliner (⭐3.5k)](https://github.com/mholt/timeliner) - A data aggregation and and timeline visualization tool.
-*   [TimelineBuilder (⭐45)](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
+*   [TimelineBuilder (⭐322)](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
 
 ## [8. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
@@ -129,13 +128,13 @@
 
 ### Maps / Web Maps
 
-*   [Streets GL (⭐496)](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2. ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
+*   [Streets GL (⭐523)](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2. ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
 
 ### Libraries / Python
 
-*   [overpy (⭐214)](https://github.com/DinoTools/python-overpy) - A Python wrapper to access the Overpass API.
+*   [overpy (⭐219)](https://github.com/DinoTools/python-overpy) - A Python wrapper to access the Overpass API.
 *   [overpassforge (⭐4)](https://github.com/Krafpy/Overpass-Forge) - A package to build Overpass queries from Python objects.
-*   [humanized\_opening\_hours (⭐24)](https://github.com/rezemika/humanized_opening_hours) - A package to parse the `opening_hours` tag.
+*   [humanized\_opening\_hours (⭐25)](https://github.com/rezemika/humanized_opening_hours) - A package to parse the `opening_hours` tag.
 
 ## [11. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -210,20 +209,20 @@
 
 ### [Aparajita plugins](https://github.com/aparajita?tab=repositories&q=capacitor)
 
-*   [Biometric Auth (⭐80)](https://github.com/aparajita/capacitor-biometric-auth) - Easy access to native biometric auth APIs on iOS and Android.
-*   [Dark Mode (⭐15)](https://github.com/aparajita/capacitor-dark-mode) - Universal, reliable dark mode support on the web, iOS and Android.
+*   [Biometric Auth (⭐96)](https://github.com/aparajita/capacitor-biometric-auth) - Easy access to native biometric auth APIs on iOS and Android.
+*   [Dark Mode (⭐18)](https://github.com/aparajita/capacitor-dark-mode) - Universal, reliable dark mode support on the web, iOS and Android.
 *   [Logger (⭐15)](https://github.com/aparajita/capacitor-logger) - Better logging for the web and native Ionic/Capacitor apps.
-*   [Secure Storage (⭐70)](https://github.com/aparajita/capacitor-secure-storage) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
+*   [Secure Storage (⭐79)](https://github.com/aparajita/capacitor-secure-storage) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
 
 ## [22. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Functional
 
-*   [go-functional (⭐265)](https://github.com/BooleanCat/go-functional) - Functional programming in Go using generics
+*   [go-functional (⭐272)](https://github.com/BooleanCat/go-functional) - Functional programming in Go using generics
 
 ### Utilities
 
-*   [go-qr (⭐12)](https://github.com/piglig/go-qr) - A native, high-quality and minimalistic QR code generator.
+*   [go-qr (⭐14)](https://github.com/piglig/go-qr) - A native, high-quality and minimalistic QR code generator.
 *   [yogo (⭐36)](https://github.com/antham/yogo) - Check yopmail mails from command line.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
@@ -243,17 +242,17 @@
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
-*   [a16z-infra/ai-town (⭐6k)](https://github.com/a16z-infra/AI-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
+*   [a16z-infra/ai-town (⭐6.1k)](https://github.com/a16z-infra/AI-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
 *   [AI Town](https://www.convex.dev/ai-town): a virtual town where AI characters live, chat and socialize.
-*   [joonspk-research/generative\_agents - Generative Agents (⭐14k)](https://github.com/joonspk-research/generative_agents): code for interactive simulacra of human behavior [\[arxiv\]](https://arxiv.org/abs/2304.03442)
+*   [joonspk-research/generative\_agents - Generative Agents (⭐15k)](https://github.com/joonspk-research/generative_agents): code for interactive simulacra of human behavior [\[arxiv\]](https://arxiv.org/abs/2304.03442)
 
 ### LLMOps / Multi-agents
 
-*   [LLM App (⭐1.6k)](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
+*   [LLM App (⭐1.8k)](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
 
 ### LangChain / Multi-agents
 
-*   [Embedchain (⭐7.4k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
+*   [Embedchain (⭐7.8k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
 
 ### Inbox: Text-to-speech (TTS) and avatars / Deforum
 
@@ -263,7 +262,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ask (⭐48)](https://github.com/Licheam/zsh-ask) - Serves as a ChatGPT API frontend, enabling you to interact with ChatGPT directly from the ZSH shell using only `cURL` and `jq`.
+*   [ask (⭐50)](https://github.com/Licheam/zsh-ask) - Serves as a ChatGPT API frontend, enabling you to interact with ChatGPT directly from the ZSH shell using only `cURL` and `jq`.
 *   [kubectlenv (⭐0)](https://github.com/rafalmasiarek/oh-my-zsh-kubectlenv-plugin) - Easily switch between multiple `kubectl` versions.
 
 ## [25. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
@@ -284,7 +283,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [goast (⭐56)](https://github.com/m-mizutani/goast) :warning: — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
+*   [goast (⭐56)](https://github.com/m-mizutani/goast) — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
 
 ### Other / [Other](#other-1)
 
@@ -337,15 +336,15 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [LinkWarden](https://linkwarden.app/) - A self-hosted bookmark + archive manager to store your useful links. ([Source Code (⭐4.1k)](https://github.com/linkwarden/linkwarden)) `MIT` `Docker/Nodejs`
+*   [LinkWarden](https://linkwarden.app/) - A self-hosted bookmark + archive manager to store your useful links. ([Source Code (⭐4.3k)](https://github.com/linkwarden/linkwarden)) `MIT` `Docker/Nodejs`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Kubek](https://kubek.seeroy.ru) - Web management panel for Minecraft servers. ([Source Code (⭐56)](https://github.com/seeroy/kubek-minecraft-dashboard)) `GPL-3.0` `Nodejs`
+*   [Kubek](https://kubek.seeroy.ru) - Web management panel for Minecraft servers. ([Source Code (⭐59)](https://github.com/seeroy/kubek-minecraft-dashboard)) `GPL-3.0` `Nodejs`
 
 ### Software / Recipe Management
 
-*   [Mealie](https://nightly.mealie.io/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Source Code (⭐4.3k)](https://github.com/mealie-recipes/mealie)) `MIT` `Python`
+*   [Mealie](https://nightly.mealie.io/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Source Code (⭐4.5k)](https://github.com/mealie-recipes/mealie)) `MIT` `Python`
 
 ## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -442,12 +441,12 @@
 
 ### Ballerina / React
 
-*   [graphql (⭐143)](https://github.com/ballerina-platform/module-ballerina-graphql) - Ballerina standard library for GraphQL. This library provides a GraphQL client and server implementations including builtin support for GraphQL subscriptions.
-*   [graphql CLI (⭐114)](https://github.com/ballerina-platform/graphql-tools) - A CLI tool to generate Ballerina code from GraphQL schema and GraphQL schema from Ballerina code. It also provides functionality to generate usage-specific GraphQL clients using GraphQL schemas and documents.
+*   [graphql (⭐144)](https://github.com/ballerina-platform/module-ballerina-graphql) - Ballerina standard library for GraphQL. This library provides a GraphQL client and server implementations including builtin support for GraphQL subscriptions.
+*   [graphql CLI (⭐115)](https://github.com/ballerina-platform/graphql-tools) - A CLI tool to generate Ballerina code from GraphQL schema and GraphQL schema from Ballerina code. It also provides functionality to generate usage-specific GraphQL clients using GraphQL schemas and documents.
 
 ### Ballerina Samples / React
 
-*   [Ballerina GraphQL Examples (⭐143)](https://github.com/ballerina-platform/module-ballerina-graphql/tree/master/examples)
+*   [Ballerina GraphQL Examples (⭐144)](https://github.com/ballerina-platform/module-ballerina-graphql/tree/master/examples)
 *   [Convert Weather REST API to GraphQL API (⭐3)](https://github.com/ThisaruGuruge/weather-rest-api-to-graphql)
 
 ### CMS / React
@@ -479,7 +478,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 ### Tools
 
 *   [Polkadot Vault](https://signer.parity.io/) (formerly Parity Signer) - Upcycle an unused mobile phone into an air-gapped hardware wallet.
-*   [Uptest Runtime upgrade tool (⭐5)](https://github.com/uptest-sc/uptest) - Uptest command line client and libuptest Rust library are two tools used for debugging storage changes and runtime upgrades.
+*   [Uptest Runtime upgrade tool (⭐6)](https://github.com/uptest-sc/uptest) - Uptest command line client and libuptest Rust library are two tools used for debugging storage changes and runtime upgrades.
 
 ## [37. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
@@ -530,7 +529,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [amrebada/go-modules (⭐10)](https://github.com/amrebada/go-modules) - Nest JS like structure for Go Fiber.
+*   [amrebada/go-modules (⭐11)](https://github.com/amrebada/go-modules) - Nest JS like structure for Go Fiber.
 
 ---
 

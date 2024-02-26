@@ -28,7 +28,7 @@
 
 ### Templates / React
 
-*   [vite-react-ts-tailwind-template (⭐13)](https://github.com/nrabhiram/vite-react-ts-tailwind-template) - React, TypeScript, ESLint, Prettier, Husky, Vitest for specs, and Tailwind + CSS Modules.
+*   [vite-react-ts-tailwind-template (⭐14)](https://github.com/nrabhiram/vite-react-ts-tailwind-template) - React, TypeScript, ESLint, Prettier, Husky, Vitest for specs, and Tailwind + CSS Modules.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

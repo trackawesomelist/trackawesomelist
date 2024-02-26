@@ -23,7 +23,7 @@
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [JetBrains Rider (C#) (⭐310)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
+*   [JetBrains Rider (C#) (⭐319)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
 
 ## [4. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 

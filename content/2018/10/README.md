@@ -46,7 +46,7 @@
 
 ### Tools / Static Analysis Tools
 
-*   [StaCoAn (⭐809)](https://github.com/vincentcox/StaCoAn) - Cross-platform tool which aids developers, bug-bounty hunters, and ethical hackers in performing static code analysis on mobile applications. This tool was created with a big focus on usability and graphical guidance in the user interface.
+*   [StaCoAn (⭐812)](https://github.com/vincentcox/StaCoAn) - Cross-platform tool which aids developers, bug-bounty hunters, and ethical hackers in performing static code analysis on mobile applications. This tool was created with a big focus on usability and graphical guidance in the user interface.
 
 ## [6. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
@@ -222,10 +222,6 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ## [18. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
-### Implementations
-
-*   [Grumpy (⭐11k)](https://github.com/google/grumpy) - More compiler than interpreter as more powerful CPython2.7 replacement (alpha).
-
 ### Web Content Extracting
 
 *   [toapi (⭐3.4k)](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
@@ -269,10 +265,10 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 ### Libraries / Command-line
 
 *   Progress
-    *   [a8m/pb (⭐572)](https://github.com/a8m/pb) \[[pbr](https://crates.io/crates/pbr)] — console progress bar for Rust
+    *   [a8m/pb (⭐571)](https://github.com/a8m/pb) \[[pbr](https://crates.io/crates/pbr)] — console progress bar
     *   [console-rs/indicatif (⭐4k)](https://github.com/console-rs/indicatif) \[[indicatif](https://crates.io/crates/indicatif)] — indicate progress to users
-    *   [etienne-napoleone/spinach (⭐87)](https://github.com/etienne-napoleone/spinach) \[[spinach](https://crates.io/crates/spinach)] — Practical spinner for Rust. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml)
-    *   [FGRibreau/spinners (⭐512)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] — 60+ elegant terminal spinners
+    *   [etienne-napoleone/spinach (⭐88)](https://github.com/etienne-napoleone/spinach) \[[spinach](https://crates.io/crates/spinach)] — Practical spinner. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml)
+    *   [FGRibreau/spinners (⭐516)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] — 60+ elegant terminal spinners
 
 ## [25. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
@@ -346,7 +342,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Contents / Optimization
 
-*   [pg\_web\_stats (⭐93)](https://github.com/kirs/pg_web_stats) - Web UI to view pg\_stat\_statements.
+*   [pg\_web\_stats (⭐92)](https://github.com/kirs/pg_web_stats) - Web UI to view pg\_stat\_statements.
 
 ## [31. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -747,15 +743,15 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Algorithms and Data structures
 
-*   [machinery (⭐499)](https://github.com/joaomdmoura/machinery) - A state machine library for structs in general, it integrates with Phoenix out of the box.
+*   [machinery (⭐504)](https://github.com/joaomdmoura/machinery) - A state machine library for structs in general, it integrates with Phoenix out of the box.
 
 ### HTML
 
 *   [floki (⭐2k)](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
-*   [html\_sanitize\_ex (⭐251)](https://github.com/rrrene/html_sanitize_ex) - HTML sanitizer for Elixir.
+*   [html\_sanitize\_ex (⭐257)](https://github.com/rrrene/html_sanitize_ex) - HTML sanitizer for Elixir.
 *   [modest\_ex (⭐32)](https://github.com/f34nk/modest_ex) - A library to do pipeable transformations on html strings with CSS selectors, e.g. find(), prepend(), append(), replace() etc.
 *   [myhtmlex (⭐14)](https://github.com/Overbryd/myhtmlex) - Elixir/Erlang bindings for lexborisov's myhtml.
-*   [readability (⭐207)](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
+*   [readability (⭐214)](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
 
 ### Miscellaneous
 

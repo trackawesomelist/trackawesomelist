@@ -141,9 +141,9 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 ## Game tools and libraries
 
-*   [hexops/mach (⭐2.5k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
-*   [michal-z/zig-gamedev (⭐1.8k)](https://github.com/michal-z/zig-gamedev) - DirectX 12 game development ecosystem.
-*   [floooh/sokol-zig (⭐251)](https://github.com/floooh/sokol-zig) - [Sokol (⭐5.5k)](https://github.com/floooh/sokol) bindings.
+*   [hexops/mach (⭐2.6k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
+*   [michal-z/zig-gamedev (⭐1.9k)](https://github.com/michal-z/zig-gamedev) - DirectX 12 game development ecosystem.
+*   [floooh/sokol-zig (⭐251)](https://github.com/floooh/sokol-zig) - [Sokol (⭐5.6k)](https://github.com/floooh/sokol) bindings.
 *   [TM35-Metronome/metronome (⭐44)](https://github.com/TM35-Metronome/metronome) - A set of tools for modifying and randomizing Pokémon games.
 *   [TM35-Metronome/tm35-nds (⭐10)](https://github.com/TM35-Metronome/tm35-nds) - A library for working with Nintendo DS roms.
 *   [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) - Simple and robust sudoku solver.
@@ -192,7 +192,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 *   [emekoi/log.zig (⭐19)](https://github.com/emekoi/log.zig) - A thread-safe logging library.
 *   [kprotty/zap (⭐375)](https://github.com/kprotty/zap) - A collection of libraries which provide interfaces over the system for writing high performance applications.
 *   [mlarouche/zigimg (⭐356)](https://github.com/mlarouche/zigimg) - Zig library for reading and writing different image formats.
-*   [ziglibs/known-folders (⭐188)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+*   [ziglibs/known-folders (⭐193)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 *   [SasLuca/zig-nanoid (⭐23)](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
 *   [kassane/libvlc-zig (⭐15)](https://github.com/kassane/libvlc-zig) - Bindings for libVLC media framework.
 *   [karlseguin/log.zig (⭐58)](https://github.com/karlseguin/log.zig) - Structured logging library.
@@ -221,6 +221,11 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 *   [axgdev/telegram\_echobot\_zig (⭐5)](https://github.com/axgdev/telegram_echobot_zig) - Telegram echo bot.
 *   [karlseguin/http.zig (⭐257)](https://github.com/karlseguin/http.zig) - HTTP/1.1 server.
 *   [zigzap/zap (⭐1.6k)](https://github.com/zigzap/zap) - blazingly fast, robust HTTP server.
+
+### Messaging
+
+*   [skunkwerks/zamqp (⭐4)](https://github.com/skunkwerks/zamqp) - AMQP client, based on rabbitmq-c.
+*   [nine-lives-later/zzmq (⭐1)](https://github.com/nine-lives-later/zzmq) - ZeroMQ library, based on CZMQ.
 
 ## Web
 
@@ -264,6 +269,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 *   [Himujjal/zig-json5 (⭐24)](https://github.com/Himujjal/zig-json5) - JSON5 parser resembling the `std.json` APIs.
 *   [chwayne/rem (⭐94)](https://github.com/chwayne/rem) - An HTML parsing library.
 *   [goto-bus-stop/ziguid (⭐7)](https://github.com/goto-bus-stop/ziguid) - GUID parsing/stringifying.
+*   [00JCIV00/cova (⭐68)](https://github.com/00JCIV00/cova) - Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library.
 *   [Hejsil/zig-clap (⭐649)](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library.
 *   [sam701/zig-cli (⭐121)](https://github.com/sam701/zig-cli) - Package for building command line apps.
 *   [kivikakk/libpcre.zig (⭐18)](https://github.com/kivikakk/libpcre.zig) - Bindings to libpcre for Perl-compatible regular expressions.
@@ -290,7 +296,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 *   [belse-de/zig-tut (⭐14)](https://github.com/belse-de/zig-tut) - A collection of small projects and tutorials to learn Zig.
 *   [Sobeston/ziglearn (⭐466)](https://github.com/Sobeston/ziglearn) - Zig learning resources.
 *   [zighelp/zighelp (⭐23)](https://github.com/zighelp/zighelp) - Get up to speed with Zig quickly (ziglearn fork).
-*   [ratfactor/ziglings (⭐3.9k)](https://github.com/ratfactor/ziglings) - Learn Zig by fixing tiny example programs.
+*   [ratfactor/ziglings (⭐4k)](https://github.com/ratfactor/ziglings) - Learn Zig by fixing tiny example programs.
 
 ## C/C++ libraries packaged for Zig
 
@@ -328,7 +334,7 @@ These C/C++ libraries were packaged to be used with the Zig build and packaging 
 *   [kassane/range-v3 (⭐0)](https://github.com/kassane/range-v3) - modern range library (C++14/17/20).
 *   [kassane/libzmq (⭐2)](https://github.com/kassane/libzmq) - ZeroMQ core engine in C++ library.
 *   [kassane/libsigcplusplus (⭐0)](https://github.com/kassane/libsigcplusplus) - Typesafe callback system for standard C++.
-*   [ggerganov/llama.cpp (⭐50k)](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++.
+*   [ggerganov/llama.cpp (⭐51k)](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++.
 
 ## Other
 

@@ -24,7 +24,7 @@
 
 ### Project Generators
 
-*   [libgen (⭐75)](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
+*   [libgen (⭐77)](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
 
 ## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

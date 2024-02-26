@@ -15,7 +15,7 @@
 
 ### Graph
 
-*   [Graaf (⭐74)](https://github.com/bobluppes/graaf) - A general-purpose lightweight C++20 graph library. \[MIT] [website](https://bobluppes.github.io/graaf/)
+*   [Graaf (⭐72)](https://github.com/bobluppes/graaf) - A general-purpose lightweight C++20 graph library. \[MIT] [website](https://bobluppes.github.io/graaf/)
 
 ## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Software / Miscellaneous
 
-*   [Loggit](https://loggit.net) - End-to-end encrypted and simple life tracking & logging. ([Demo](https://app.loggit.net), [Source Code (⭐19)](https://github.com/BrunoBernardino/loggit-web)) `AGPL-3.0` `Deno`
+*   [Loggit](https://loggit.net) - End-to-end encrypted and simple life tracking & logging. ([Demo](https://app.loggit.net), [Source Code (⭐21)](https://github.com/BrunoBernardino/loggit-web)) `AGPL-3.0` `Deno`
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

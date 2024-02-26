@@ -21,7 +21,7 @@
 ### Payment and Billing Integration
 
 *   [CoinMarketCap](https://coinmarketcap.com/api/) — Provides cryptocurrency market data including the latest crypto and fiat currency exchange rates. The free tier offers 10K call credits/month.
-*   [CoinGecko](https://www.coingecko.com/en/api) — Provides cryptocurrency market data including the latest crypto exchange rates and historical data. The free tier requires attribution.
+*   [CoinGecko](https://www.coingecko.com/en/api) — Provides cryptocurrency market data including the latest crypto exchange rates and historical data. The demo api comes with a stable rate limit of 30 calls/min and a monthly cap of 10,000 calls.
 
 ## [3. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -144,11 +144,11 @@
 
 ### Applications / Database
 
-*   [CozoDB (⭐2.9k)](https://github.com/cozodb/cozo) - A transactional, relational database that uses Datalog and focuses on graph data and algorithms. Time-travel-capable, and fast! [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/cozodb/cozo/build.yml?branch=main)](https://github.com/cozodb/cozo/actions/workflows/build.yml)
+*   [CozoDB (⭐3k)](https://github.com/cozodb/cozo) - A transactional, relational database that uses Datalog and focuses on graph data and algorithms. Time-travel-capable, and fast! [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/cozodb/cozo/build.yml?branch=main)](https://github.com/cozodb/cozo/actions/workflows/build.yml)
 
 ### Applications / System tools
 
-*   [j0ru/kickoff (⭐300)](https://github.com/j0ru/kickoff) - Fast and snappy wayland program launcher [![build](https://github.com/j0ru/kickoff/actions/workflows/ci.yml/badge.svg)](https://github.com/j0ru/kickoff/actions)
+*   [j0ru/kickoff (⭐305)](https://github.com/j0ru/kickoff) - Fast and snappy wayland program launcher [![build](https://github.com/j0ru/kickoff/actions/workflows/ci.yml/badge.svg)](https://github.com/j0ru/kickoff/actions)
 
 ## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -172,7 +172,7 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Takahē](https://jointakahe.org/) - Federated microblogging server. Mastodon, & ActivityPub compatible. ([Source Code (⭐1k)](https://github.com/jointakahe/takahe)) `BSD-3-Clause` `Docker`
+*   [Takahē](https://jointakahe.org/) - Federated microblogging server. Mastodon, & ActivityPub compatible. ([Source Code (⭐1.1k)](https://github.com/jointakahe/takahe)) `BSD-3-Clause` `Docker`
 
 ## [17. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 

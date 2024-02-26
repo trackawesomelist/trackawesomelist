@@ -60,7 +60,7 @@
 
 ### Software / Blogging Platforms
 
-*   [Mataroa](https://mataroa.blog/) - Mataroa is a naked blogging platform for minimalists. ([Source Code (⭐172)](https://github.com/mataroa-blog/mataroa)) `MIT` `Python`
+*   [Mataroa](https://mataroa.blog/) - Mataroa is a naked blogging platform for minimalists. ([Source Code (⭐175)](https://github.com/mataroa-blog/mataroa)) `MIT` `Python`
 
 ### Software / Learning and Courses
 
@@ -68,7 +68,7 @@
 
 ### Software / Search Engines
 
-*   [Websurfx (⭐506)](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
+*   [Websurfx (⭐528)](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
 
 ## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 

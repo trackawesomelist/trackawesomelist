@@ -1,18 +1,12 @@
 # Awesome List Updates on Sep 23, 2019
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Payment and Billing Integration
-
-*   [currencystack.io](https://currencystack.io/) — Production-ready real-time exchange rates for 154 currencies.
-
-## [2. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [1. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Reinforcement Learning / Others
 
@@ -30,13 +24,13 @@
 
 *   [sklearn-evaluation (⭐2)](https://github.com/edublancas/sklearn-evaluation) - Model evaluation made easy: plots, tables, and markdown reports. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
-## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Documentation / Runner
 
 *   [codecrumbs (⭐2.7k)](https://github.com/Bogdan-Lyashenko/codecrumbs) is a visual tool for learning and documenting a codebase by putting breadcrumbs in source code.
 
-## [4. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md)
+## [3. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md)
 
 ### Spell Checking and Linting
 
@@ -49,7 +43,7 @@
 *   [write-good (⭐4.9k)](https://github.com/btford/write-good) - Naive linter for English
     prose.
 
-## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / UI Helpers
 
@@ -59,13 +53,13 @@
 
 *   [Liquid Swipe (⭐1.1k)](https://github.com/iamSahdeep/liquid_swipe_flutter) - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
 
-## [6. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [5. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### UI
 
 *   [react-native-store-view ★19 (⭐29)](https://github.com/rh389/react-native-store-view) - Wraps SKStoreProductViewController for use in react-native projects
 
-## [7. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
+## [6. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
 ### Legal text
 
@@ -107,7 +101,7 @@
 *   [Privacy Respecting (⭐1.9k)](https://github.com/nikitavoloboev/privacy-respecting)
 *   [Awesome: Security (⭐287k)](https://github.com/sindresorhus/awesome#security)
 
-## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -117,19 +111,19 @@
 
 *   [Publish npm (pre)releases (⭐15)](https://github.com/epeli/npm-release/)
 
-## [9. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [8. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Windows Utilities / Web Exploitation Books
 
 *   [WinPwn (⭐3.1k)](https://github.com/SecureThisShit/WinPwn) - Internal penetration test script to perform local and domain reconnaissance, privilege escalation and exploitation.
 
-## [10. Awesome Ads](/content/cenoura/awesome-ads/README.md)
+## [9. Awesome Ads](/content/cenoura/awesome-ads/README.md)
 
 ### Google Ad Manager
 
 *   [Google Ad Manager Fundamentals](https://skillshop.exceedlms.com/student/path/17117-drive-advertising-revenue-with-google-ad-manager) - Google Academy videos about Ad Manager (you should login to see the videos).
 
-## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Static site generators
 
@@ -139,13 +133,13 @@
 
 *   [Build a real web app with no frameworks](https://frameworkless.js.org/course) - A set of video tutorials/livestreams to help you build and deploy a real, live web app using a handful of simple libraries and the core Node.js modules.
 
-## [12. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [11. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Articles
 
 *   [Working with Ghost and Next.js](https://ghost.org/docs/api/nextjs/)
 
-## [13. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
+## [12. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 
 ### Open source code
 
@@ -158,41 +152,41 @@
 *   [Smart Home sample (⭐823)](https://github.com/actions-on-google/smart-home-nodejs) - A sample of the Smart Home device control APIs in Actions on Google.
 *   [PDPU Scheduler (⭐11)](https://github.com/nish17/scheduler) - It's a Google Assistant action for PDPU that tells you about which classes and labs you have today.
 
-## [14. Awesome List](/content/sindresorhus/awesome/README.md)
+## [13. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
 *   [KnockoutJS (⭐96)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
-*   [Dojo Toolkit (⭐82)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
+*   [Dojo Toolkit (⭐83)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
 
 ### Back-End Development
 
 *   [Vagrant (⭐584)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
-*   [Pyramid (⭐539)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
-*   [Phalcon (⭐606)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
+*   [Pyramid (⭐542)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
+*   [Phalcon (⭐605)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
 *   [Dropwizard (⭐91)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
-*   [Lumen (⭐324)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
+*   [Lumen (⭐325)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
 *   [Serverless Framework (⭐2.1k)](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
 
-## [15. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Integrations
 
 *   [@riotjs/custom-elements (⭐34)](https://github.com/riot/custom-elements) - Simple API to create vanilla custom elements with Riot.js.
 
-## [16. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [15. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Testing / Misc
 
 *   [testmail.app](https://testmail.app) - A fake SMTP server with unlimited mailboxes and a GraphQL API for automating end-to-end tests.
 
-## [17. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
+## [16. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### Database
 
 *   [DB4O-GPL ★8 (⭐28)](https://github.com/iboxdb/db4o-gpl) -  Object-Oriented Database, Embedded and Remote connections supported.
 
-## [18. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [17. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Research Papers
 

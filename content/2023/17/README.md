@@ -43,7 +43,7 @@
 
 ### Music Programming
 
-*   [tuneflow-py (⭐861)](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
+*   [tuneflow-py (⭐904)](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
 
 ## [6. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Software / Personal Dashboards
 
-*   [LinkStack](https://linkstack.org/) - Link all your social media platforms easily accessible on one page, customizable through an intuitive, easy to use user/admin interface (alternative to Linktree and Manylink). ([Demo](https://linksta.cc/), [Source Code (⭐1.6k)](https://github.com/LinkStackOrg/LinkStack)) `AGPL-3.0` `PHP/Docker`
+*   [LinkStack](https://linkstack.org/) - Link all your social media platforms easily accessible on one page, customizable through an intuitive, easy to use user/admin interface (alternative to Linktree and Manylink). ([Demo](https://linksta.cc/), [Source Code (⭐1.7k)](https://github.com/LinkStackOrg/LinkStack)) `AGPL-3.0` `PHP/Docker`
 
 ## [12. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
@@ -380,17 +380,17 @@
 
 ### Large Language Models (LLMs)
 
-*   \[🔥🔥🔥] [Mooler0410/LLMsPracticalGuide (⭐7.9k)](https://github.com/Mooler0410/LLMsPracticalGuide): list of practical guide resources of LLMs based on the paper [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
+*   \[🔥🔥🔥] [Mooler0410/LLMsPracticalGuide (⭐8.1k)](https://github.com/Mooler0410/LLMsPracticalGuide): list of practical guide resources of LLMs based on the paper [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
 *   [hpcaitech/ColossalAI (⭐36k)](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
-*   [microsoft/LoRA (⭐8.1k)](https://github.com/microsoft/LoRA): Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"s
+*   [microsoft/LoRA (⭐8.3k)](https://github.com/microsoft/LoRA): Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"s
 
 ### Related Awesome Lists / Deforum
 
-*   [kyrolabs/awesome-langchain (⭐6.1k)](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
+*   [kyrolabs/awesome-langchain (⭐6.2k)](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
 
 ### Embeddings and Semantic Search / Prompt Engineering for Text-to-image
 
-*   [neuml/txtai (⭐6.3k)](https://github.com/neuml/txtai): semantic search and workflows powered by language models
+*   [neuml/txtai (⭐6.5k)](https://github.com/neuml/txtai): semantic search and workflows powered by language models
 
 ### Image Synthesis / Multi-agents
 
@@ -398,7 +398,7 @@
 
 ### Image Segmentation / Deforum
 
-*   [AudioGPT | arxiv](https://arxiv.org/abs/2304.12995): Understanding and Generating Speech, Music, Sound, and Talking Head [\[code\] (⭐9.6k)](https://github.com/AIGC-Audio/AudioGPT) [\[demo\]](https://huggingface.co/spaces/AIGC-Audio/AudioGPT)
+*   [AudioGPT | arxiv](https://arxiv.org/abs/2304.12995): Understanding and Generating Speech, Music, Sound, and Talking Head [\[code\] (⭐9.7k)](https://github.com/AIGC-Audio/AudioGPT) [\[demo\]](https://huggingface.co/spaces/AIGC-Audio/AudioGPT)
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
@@ -609,12 +609,12 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [autovenv (⭐2)](https://github.com/linnnus/autovenv) - Automatically activates Python virtual environments when entering their parent directory.
+*   [autovenv (⭐1)](https://github.com/linnnus/autovenv) - Automatically activates Python virtual environments when entering their parent directory.
 *   [todotxt (⭐0)](https://github.com/Neluji/omz-todotxt) - Adds aliases for [todo.sh (⭐24)](https://github.com/benignoc/alfred-todotxt/).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [git-profiles (⭐0)](https://github.com/baliestri/git-profiles.plugin.zsh) - Manages multiple git users in a single `.gitconfig` file.
+*   [git-profiles (⭐1)](https://github.com/baliestri/git-profiles.plugin.zsh) - Manages multiple git users in a single `.gitconfig` file.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -648,21 +648,21 @@
 
 ### HTML
 
-*   [meseeks (⭐303)](https://github.com/mischov/meeseeks#html) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
+*   [meseeks (⭐306)](https://github.com/mischov/meeseeks#html) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
 
 ### XML
 
-*   [meeseeks (⭐303)](https://github.com/mischov/meeseeks#xml) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
+*   [meeseeks (⭐306)](https://github.com/mischov/meeseeks#xml) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
 
 ## [33. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Logging
 
-*   [slog-formatter (⭐69)](https://github.com/samber/slog-formatter) - Common formatters for slog and helpers to build your own.
+*   [slog-formatter (⭐73)](https://github.com/samber/slog-formatter) - Common formatters for slog and helpers to build your own.
 
 ### Project Layout
 
-*   [go-module (⭐22)](https://github.com/octomation/go-module) - Template for a typical module written on Go.
+*   [go-module (⭐25)](https://github.com/octomation/go-module) - Template for a typical module written on Go.
 
 ## [34. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -718,16 +718,16 @@
 
 ### Gaming
 
-*   [GameMaker (⭐168)](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
+*   [GameMaker (⭐185)](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
 
 ### Learn
 
-*   [Certificates (⭐1.2k)](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
+*   [Certificates (⭐1.3k)](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
 
 ### Miscellaneous
 
-*   [GitHub Wiki (⭐144)](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) - Comprehensive documentation on GitHub beyond README.
-*   [Quarto (⭐1.3k)](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
+*   [GitHub Wiki (⭐165)](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) - Comprehensive documentation on GitHub beyond README.
+*   [Quarto (⭐1.4k)](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
 
 ## [38. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 

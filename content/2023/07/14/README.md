@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 14, 2023
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -40,7 +40,7 @@
 
 ### Libraries/Frameworks / Jetpack-Compose
 
-*   [mahozad/wavy-slider (⭐45)](https://github.com/mahozad/wavy-slider) - Multiplatform UI widget that recreates the Android 13 squiggly progress bar
+*   [mahozad/wavy-slider (⭐52)](https://github.com/mahozad/wavy-slider) - Multiplatform UI widget that recreates the Android 13 squiggly progress bar
 
 ## [5. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -68,13 +68,13 @@
 
 ### Geospatial Research and Mapping Tools / Telegram
 
-*   [SatIntel (⭐459)](https://github.com/ANG13T/SatIntel)
+*   [SatIntel (⭐516)](https://github.com/ANG13T/SatIntel)
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Web Application Framework
 
-*   [C++ wfrest (⭐762)](https://github.com/wfrest/wfrest) - C++ Web Framework REST API. \[Apache2]
+*   [C++ wfrest (⭐766)](https://github.com/wfrest/wfrest) - C++ Web Framework REST API. \[Apache2]
 
 ## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -86,13 +86,7 @@
 
 *   [elixir\_error\_message (⭐17)](https://github.com/MikaAK/elixir_error_message) - Simple error helpers to make errors in your system predictable and easy to render to JSON or in logs.
 
-## [11. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### Deep Learning
-
-*   [lightning (⭐24k)](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
-
-## [12. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [11. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Internet and Networking
 
@@ -110,7 +104,7 @@
 
 *   [Mission Center](https://missioncenter.io/) - Monitor your CPU, Memory, Disk, Network and GPU usage.
 
-## [13. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
+## [12. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 
 ### Academic
 
@@ -125,7 +119,7 @@
 
 *   [The Mindful Way](https://viewtube.io/watch?v=eFy-a9VaVvE) - BBC documentary about the life and function of a Buddhist monastery of the Forest Tradition in Thailand.
 
-## [14. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [13. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Command Line Tools
 

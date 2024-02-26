@@ -28,11 +28,11 @@
 
 ### E-Commerce and Payments
 
-*   [Workarea (⭐325)](https://github.com/workarea-commerce/workarea) - An extensible, high-performance eCommerce platform depended on by some of the world's top retailers.
+*   [Workarea (⭐326)](https://github.com/workarea-commerce/workarea) - An extensible, high-performance eCommerce platform depended on by some of the world's top retailers.
 
 ### Game Development and Graphics
 
-*   [Ruby 2D (⭐618)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
+*   [Ruby 2D (⭐621)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
 
 ## [4. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 

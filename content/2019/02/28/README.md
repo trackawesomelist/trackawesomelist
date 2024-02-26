@@ -68,7 +68,7 @@
 
 ### Data Packages
 
-*   [gapminder (⭐276)](http://github.com/jennybc/gapminder) - Excerpt from the Gapminder dataset (data about countries through the past 50 years).
+*   [gapminder (⭐279)](http://github.com/jennybc/gapminder) - Excerpt from the Gapminder dataset (data about countries through the past 50 years).
 
 ## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 

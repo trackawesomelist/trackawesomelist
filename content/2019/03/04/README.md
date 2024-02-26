@@ -15,18 +15,18 @@
 ### Machine Learning
 
 *   [AI4R (⭐712)](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
-*   [ruby-fann (⭐467)](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
+*   [ruby-fann (⭐469)](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
 
 ### Process Management and Monitoring
 
 *   [Foreman (⭐5.9k)](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
-*   [Procodile (⭐614)](https://github.com/adamcooke/procodile) - Run processes in the background (and foreground) on Mac & Linux from a Procfile.
+*   [Procodile (⭐613)](https://github.com/adamcooke/procodile) - Run processes in the background (and foreground) on Mac & Linux from a Procfile.
 
 ### Scientific
 
 *   Bindings
     *   [PyCall (⭐1k)](https://github.com/mrkn/pycall.rb) - Calling Python functions from the Ruby language.
-    *   [ruby-opencv (⭐813)](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
+    *   [ruby-opencv (⭐814)](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
 
 ## [2. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 

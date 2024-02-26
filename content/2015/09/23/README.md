@@ -60,7 +60,7 @@
 
 ### Table of Contents / Framework Extras
 
-*   [CakePHP CRUD (⭐373)](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
+*   [CakePHP CRUD (⭐374)](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
 
 ## [8. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

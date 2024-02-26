@@ -25,7 +25,7 @@
 ### Tools / Community providers
 
 *   [terraform-credentials-vault (⭐5)](https://github.com/oulman/terraform-credentials-vault) - A Terraform "credentials helper" plugin that allows providing credentials for Terraform-native services (private module registries, Terraform Cloud, etc) via environment variables.
-*   [terrastate (⭐74)](https://github.com/rohinivsenthil/terrastate) - Visual Studio Code extension to monitor/deploy/destroy Terraform resources in your workspace
+*   [terrastate (⭐75)](https://github.com/rohinivsenthil/terrastate) - Visual Studio Code extension to monitor/deploy/destroy Terraform resources in your workspace
 *   [tfvaultenv (⭐46)](https://github.com/oulman/tfvaultenv) - tfvaultenv reads secrets from HashiCorp Vault and outputs environment variables for various Terraform providers with those secrets.
 
 ## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
@@ -57,10 +57,10 @@
 ### Software / G-code
 
 *   [node-gcode (⭐32)](https://github.com/ryansturmer/node-gcode) - Node.js G-code interpreter and simulator.
-*   [svg2gcode (⭐53)](https://github.com/em/svg2gcode) - Node.js command line utility for converting SVG to G-code.
-*   [svg2gcode (⭐89)](https://github.com/vishpat/svg2gcode) - Python utility for fast SVG to G-code conversion.
+*   [svg2gcode (⭐54)](https://github.com/em/svg2gcode) - Node.js command line utility for converting SVG to G-code.
+*   [svg2gcode (⭐88)](https://github.com/vishpat/svg2gcode) - Python utility for fast SVG to G-code conversion.
 *   [jscut](http://jscut.org/) - A web-based utility for converting SVG to G-code.
-*   [gcodeplot (⭐156)](https://github.com/arpruss/gcodeplot) - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
+*   [gcodeplot (⭐159)](https://github.com/arpruss/gcodeplot) - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
 
 ## [8. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Tools - Editors & IDEs & Explorers / React
 
-*   [CraftQL (⭐106)](https://github.com/yamafaktory/craftql) - A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format.
+*   [CraftQL (⭐107)](https://github.com/yamafaktory/craftql) - A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format.
 
 ## [11. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Libraries / Image processing
 
-*   [rust-cv/cv (⭐704)](https://github.com/rust-cv/cv) — Rust CV is a project to implement computer vision algorithms, abstractions, and systems in Rust. #\[no\_std] is supported where possible. ![build badge](https://github.com/rust-cv/cv/workflows/tests/badge.svg)
+*   [rust-cv/cv (⭐712)](https://github.com/rust-cv/cv) — Implement computer vision algorithms, abstractions, and systems. `#[no_std]` is supported where possible. ![build badge](https://github.com/rust-cv/cv/workflows/tests/badge.svg)
 
 ## [16. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 

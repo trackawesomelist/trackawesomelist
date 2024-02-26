@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 29 - Jan 04, 2014
 
-14 awesome lists updated this week.
+15 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -44,7 +44,13 @@
 *   [NGINX Conference 2014 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXewvc6tjIGGFZ6DBKHEld3k)
 *   [NGINX User Summit 2014 - Lightning talks](https://www.youtube.com/playlist?list=PLGz_X9w9raXfTnRnI6Xl0LMhAKoTVVZv8)
 
-## [5. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [5. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### Python / Symfony
+
+*   [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
+
+## [6. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Resources / Books
 
@@ -55,13 +61,13 @@
 
 *   [31 days of canvas](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/)
 
-## [6. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [7. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### Tutorials and articles
 
 *   Backbone.js organizational patterns by Ben Eddy - [Part 1](http://www.foraker.com/backbone-js-organizational-patterns/), [Part 2](http://www.foraker.com/backbone-js-organizational-patterns-part-ii/)
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -99,7 +105,7 @@
 
 ### JSON
 
-*   [frozen (⭐685)](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++. \[GPL & GPL2]
+*   [frozen (⭐688)](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++. \[GPL & GPL2]
 *   [QJson (⭐281)](https://github.com/flavio/qjson) - A qt-based library that maps JSON data to QVariant objects. \[LGPL2]
 
 ### Math
@@ -132,7 +138,7 @@
 *   [Stage (⭐382)](https://github.com/rtv/Stage) - Mobile robot simulator. \[GPL2]
 *   [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. \[LGPL2]
 
-## [8. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [9. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authentication and OAuth
 
@@ -142,7 +148,7 @@
 
 *   [Slanger (⭐1.7k)](https://github.com/stevegraham/slanger) - Open Pusher implementation compatible with Pusher libraries.
 
-## [9. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [10. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### List / Grid
 
@@ -164,7 +170,7 @@
 
 
 
-## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### ES6 / Other
 
@@ -176,13 +182,13 @@
 *   [addyosmani/es6-tools (⭐4k)](https://github.com/addyosmani/es6-tools)
 *   [ericdouglas/ES6-Learning (⭐4.6k)](https://github.com/ericdouglas/ES6-Learning)
 
-## [11. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [12. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Validation
 
 *   [validator.dart (⭐65)](https://github.com/karan/validator.dart) - String validation and sanitization for Dart.
 
-## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [13. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -202,13 +208,13 @@
 *   [faust (⭐26)](https://github.com/jquadrin/faust) - Markov Text Generator for Elixir.
 *   [kitsune (⭐11)](https://github.com/edubkendo/kitsune) - An Elixir library for transforming the representation of data.
 
-## [13. Typography](/content/deanhume/typography/week/README.md)
+## [14. Typography](/content/deanhume/typography/week/README.md)
 
 ### Tools
 
 *   [A simple plugin to keep font-size in proportion with it's containers size (⭐39)](https://github.com/jkroso/flowtype)
 
-## [14. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [15. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Build And Release System
 

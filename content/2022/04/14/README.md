@@ -10,7 +10,7 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [darkweak/souin (⭐501)](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
+*   [darkweak/souin (⭐580)](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
 
 ## [2. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Electron / Integrations
 
-*   [electron-vite (⭐2.1k)](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.
+*   [electron-vite (⭐2.2k)](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -109,7 +109,7 @@
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
 
 *   [BetterDiscord](https://betterdiscord.app/) - A client modification for Discord, also you need to install a [DoNotTrack](https://betterdiscord.app/plugin/DoNotTrack) plugin to block trackers.
-*   [Kernel (⭐80)](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability, also you need to install a [Discord Utilities (⭐5)](https://github.com/slow/discord-utilities) package to block trackers.
+*   [Kernel (⭐79)](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability, also you need to install a [Discord Utilities (⭐5)](https://github.com/slow/discord-utilities) package to block trackers.
 
 ---
 

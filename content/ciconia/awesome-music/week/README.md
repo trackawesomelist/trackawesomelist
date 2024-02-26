@@ -6,6 +6,12 @@ Awesome Music Projects
 
 [ [Daily](/content/ciconia/awesome-music/README.md) / Weekly / [Overview](/content/ciconia/awesome-music/readme/README.md) ]
 
+## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
+
+### Music Notation
+
+*   [neoscore](https://neoscore.org/) - python library for notating music in a graphics-first paradigm.
+
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
 ### Free Music Scores
@@ -38,7 +44,7 @@ Awesome Music Projects
 
 *   [mutwo](https://mutwo-org.github.io/) - a Python library for composition that outputs notation, MIDI or audio files and that provides a generalized model to describe time-based structures.
 *   [pyo](https://belangeo.github.io/pyo/) - a Python module to help digital signal processing script creation.
-*   [slippery chicken (⭐59)](https://github.com/mdedwards/slippery-chicken) - a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.
+*   [slippery chicken (⭐61)](https://github.com/mdedwards/slippery-chicken) - a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.
 
 ### Related lists
 
@@ -65,7 +71,7 @@ Awesome Music Projects
 
 ### Audio Editing
 
-*   [Stargate DAW (⭐570)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
+*   [Stargate DAW (⭐578)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
@@ -266,12 +272,6 @@ Awesome Music Projects
 
 *   [Lyp (⭐70)](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
 
-## [Sep 05 - Sep 11, 2016](/content/2016/36/README.md)
-
-### Music Notation
-
-*   [i-score](http://www.i-score.org) - a software for interactive music notation, with DAW features.
-
 ## [Aug 29 - Sep 04, 2016](/content/2016/35/README.md)
 
 ### Music Programming
@@ -386,7 +386,7 @@ Awesome Music Projects
 *   [Lydown (⭐23)](https://github.com/ciconia/lydown) - a modern language for music notation, based on Lilypond.
 *   [MuseScore (⭐11k)](https://github.com/musescore/MuseScore) - free open-source music notation and composition software.
 *   [Python-ly](https://pypi.python.org/pypi/python-ly) - a tool and library for manipulating LilyPond files.
-*   [Verovio (⭐608)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
+*   [Verovio (⭐609)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
 *   [Vexflow (⭐3.7k)](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
 
 ### Music Programming

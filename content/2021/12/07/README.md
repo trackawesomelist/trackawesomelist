@@ -19,13 +19,7 @@
 
 *   ~~[CoinScanner.co](https://coinscanner.co/) — Gives you multiple trade routes from 1 crypto to another.~~
 
-## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
-
-### UI Libraries, Components & Templates
-
-*   📁 [Admin One Vue 3 (⭐1.8k)](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
-
-## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Package Managers
 
@@ -117,6 +111,12 @@
 *   [list.js (⭐11k)](https://github.com/javve/list.js) - Adds search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
     <https://listjs.com>
 *   [SJSJ (⭐2.3k)](https://github.com/KittyGiraudel/SJSJ) - Simplified JavaScript Jargon is a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words.
+
+## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+
+### UI Libraries, Components & Templates
+
+*   📁 [Admin One Vue 3 (⭐1.9k)](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
 
 ## [5. Awesome Acg](/content/soruly/awesome-acg/README.md)
 

@@ -28,7 +28,7 @@
 
 ### PDF
 
-*   [HexaPDF (⭐1.1k)](https://github.com/gettalong/hexapdf) - A Versatile PDF Creation and Manipulation Library For Ruby.
+*   [HexaPDF (⭐1.2k)](https://github.com/gettalong/hexapdf) - A Versatile PDF Creation and Manipulation Library For Ruby.
 
 ## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -108,11 +108,11 @@
 
 ### Editors
 
-*   [atom-elixir (⭐409)](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
+*   [atom-elixir (⭐408)](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
 
 ## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Mac App Download Sites / Pirated software download site blacklist
+### Mac App Download Sites / Pirated software download site blocklist
 
 *   AppKed：~~`http://www.macbed.com`~~
 

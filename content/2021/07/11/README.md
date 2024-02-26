@@ -23,11 +23,11 @@
 
 ### Software / Communication - SIP
 
-*   [SIPCAPTURE Homer](https://www.sipcapture.org/) - Troubleshooting and monitoring VoIP calls. ([Source Code (⭐1.4k)](https://github.com/sipcapture/homer)) `AGPL-3.0` `Nodejs/Go/Docker`
+*   [SIPCAPTURE Homer](https://www.sipcapture.org/) - Troubleshooting and monitoring VoIP calls. ([Source Code (⭐1.5k)](https://github.com/sipcapture/homer)) `AGPL-3.0` `Nodejs/Go/Docker`
 
 ### Software / Genealogy
 
-*   [GeneWeb](https://geneweb.tuxfamily.org/wiki/GeneWeb) - Genealogy software. It comes with a Web interface and can be used off-line or as a Web service. ([Demo](https://demo.geneweb.tuxfamily.org/gw7/), [Source Code (⭐277)](https://github.com/geneweb/geneweb)) `GPL-2.0` `OCaml`
+*   [GeneWeb](https://geneweb.tuxfamily.org/wiki/GeneWeb) - Genealogy software. It comes with a Web interface and can be used off-line or as a Web service. ([Demo](https://demo.geneweb.tuxfamily.org/gw7/), [Source Code (⭐278)](https://github.com/geneweb/geneweb)) `GPL-2.0` `OCaml`
 
 ### Software / Software Development - IDE & Tools
 

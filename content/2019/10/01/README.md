@@ -656,7 +656,7 @@
 
 ### Microsoft Windows
 
-*   [PyWin32 (⭐4.4k)](https://github.com/mhammond/pywin32) - Python Extensions for Windows.
+*   [PyWin32 (⭐4.7k)](https://github.com/mhammond/pywin32) - Python Extensions for Windows.
 
 ## [21. Awesome Qlik](/content/ambster-public/awesome-qlik/README.md)
 

@@ -59,7 +59,7 @@
 
 ### Implementations/Compilers
 
-*   [novika (⭐14)](https://github.com/novika-lang/novika) - A free-form, moldable, interpreted programming language
+*   [novika (⭐15)](https://github.com/novika-lang/novika) - A free-form, moldable, interpreted programming language
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 

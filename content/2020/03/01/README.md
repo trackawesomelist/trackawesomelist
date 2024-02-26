@@ -36,7 +36,7 @@
 
 ### Applications / Audio and Music
 
-*   [enginesound (⭐276)](https://github.com/DasEtwas/enginesound) — A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
+*   [enginesound (⭐279)](https://github.com/DasEtwas/enginesound) — A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
 
 ## [5. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 

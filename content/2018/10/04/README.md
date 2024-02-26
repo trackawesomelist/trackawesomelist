@@ -145,8 +145,8 @@
 
 ### Academic/Research/Publications/Books / Others
 
-*   [doridori/Android-Security-Reference (⭐876)](https://github.com/doridori/Android-Security-Reference)
-*   [android app security checklist (⭐829)](https://github.com/b-mueller/android_app_security_checklist)
+*   [doridori/Android-Security-Reference (⭐877)](https://github.com/doridori/Android-Security-Reference)
+*   [android app security checklist (⭐830)](https://github.com/b-mueller/android_app_security_checklist)
 *   [Mobile App Pentest Cheat Sheet (⭐4.3k)](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 
 ## [14. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)

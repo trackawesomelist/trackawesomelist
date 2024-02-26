@@ -33,7 +33,7 @@
 
 ### Computer Science
 
-*   [Cryptography (⭐5.1k)](https://github.com/sobolevn/awesome-cryptography#readme)
+*   [Cryptography (⭐5.2k)](https://github.com/sobolevn/awesome-cryptography#readme)
     *   [Papers (⭐1.6k)](https://github.com/pFarb/awesome-crypto-papers#readme) - Theory basics for using cryptography by non-cryptographers.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)

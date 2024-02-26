@@ -50,11 +50,11 @@
 
 ### JSON
 
-*   [taoJSON (⭐570)](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. \[MIT]
+*   [taoJSON (⭐571)](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. \[MIT]
 
 ### Math
 
-*   [linalg.h (⭐816)](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. \[Unlicense]
+*   [linalg.h (⭐822)](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. \[Unlicense]
 
 ## [8. Awesome React](/content/enaqx/awesome-react/README.md)
 
@@ -87,7 +87,7 @@
 ### Programming Languages
 
 *   [Scala (⭐8.9k)](https://github.com/lauris/awesome-scala#readme)
-    *   [Scala Native (⭐239)](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
+    *   [Scala Native (⭐242)](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
 
 ### Computer Science
 

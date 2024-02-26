@@ -73,7 +73,7 @@
 
 ### System Utilities / Directory Navigation
 
-*   [histstat (⭐92)](https://github.com/vesche/histstat) - History for netstat
+*   [histstat (⭐93)](https://github.com/vesche/histstat) - History for netstat
 
 ---
 

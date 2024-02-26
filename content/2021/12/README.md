@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 22 - Mar 28, 2021
 
-58 awesome lists updated this week.
+57 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -51,17 +51,17 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [MediaCMS](https://mediacms.io) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django/React, featuring a REST API. ([Source Code (⭐2.1k)](https://github.com/mediacms-io/mediacms)) `AGPL-3.0` `Python/Docker`
+*   [MediaCMS](https://mediacms.io) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django/React, featuring a REST API. ([Source Code (⭐2.2k)](https://github.com/mediacms-io/mediacms)) `AGPL-3.0` `Python/Docker`
 
 ## [7. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Svelte
 
-*   [svelte-vite-ssr (⭐54)](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
+*   [svelte-vite-ssr (⭐56)](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-radar (⭐107)](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader (with 7+ providers supported).
+*   [vite-plugin-radar (⭐110)](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader (with 7+ providers supported).
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -104,7 +104,7 @@
 
 ### Authentication and Authorization
 
-*   [ADmad/JwtAuth plugin (⭐165)](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens.
+*   [ADmad/JwtAuth plugin (⭐164)](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens.
 
 ### ORM / Database / Datamapping
 
@@ -120,7 +120,7 @@
 
 ### Templating
 
-*   🍰 [TwigView plugin (⭐12)](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
+*   🍰 [TwigView plugin (⭐13)](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
 
 ## [13. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -134,19 +134,13 @@
 
 *   [just](https://github/casey/just) - A task runner for conveniently saving and running project-specific commands. Similar to make, but much nicer
 
-## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
-
-### Editing Support / Diagnostics
-
-*   [AckslD/nvim-revJ.lua (⭐108)](https://github.com/AckslD/nvim-revJ.lua) - Neovim Lua plugin for doing the opposite of join-line (J) for arguments.
-
-## [16. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [15. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Books
 
 *   [Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007%2F978-3-030-61601-4) - Freely available quantum computing textbook aimed at high school students, undergraduate students and the general public.
 
-## [17. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [16. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Internationalization
 
@@ -164,37 +158,37 @@
 
 *   [Planet Xamarin](https://www.planetxamarin.com) - An aggregator of content from Xamarin Community members. Why subscribe individually when you can subscribe to one convenient RSS feed? If RSS isn't your thing, follow the [Twitter](https://twitter.com/PlanetXamarin) or [Facebook](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fplanetxamarin%2F) accounts which are automatically updated with the latest content from the community.
 
-## [18. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [17. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Cloud and storage
 
 *   [Golem Network](https://golem.network/) is an accessible, reliable, open access and censorship-resistant protocol, democratizing access to digital resources and connecting users through a flexible, open-source platform. With Golem Network users can connect with ease and pay each other for sharing their unused resources.
 
-## [19. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [18. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Libraries
 
 *   [Unistore (⭐2.9k)](https://github.com/developit/unistore) - 350b / 650b state container with component actions for Preact & React.
 
-## [20. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/week/README.md)
+## [19. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/week/README.md)
 
 ### Lighting / Lighting Software
 
 *   [ONYX](https://obsidiancontrol.com/onyx) - Modern lighting control system with alot of features.
 
-## [21. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [20. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Data Science Competitions / Book Deals (Affiliated) 🛍
 
 *   [Microprediction](https://www.microprediction.com/python-1)
 
-## [22. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [21. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
 *   [Using Next.js with FaunaDB: How to Query the Database from Your App](https://snipcart.com/blog/nextjs-faunadb)
 
-## [23. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [22. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs, and training materials / Community Chat Rooms
 
@@ -218,19 +212,19 @@
 
 *   [Internet of Streams](https://www.youtube.com/playlist?list=PLX44HkctSkTewrL9frlUz0yeKLKecebT1) A video series  by [@jamesmunns](https://github.com/jamesmunns) building a bare metal IoT Sensor Node Platform from (nearly) scratch in Rust
 
-## [24. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [23. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Visualization / Interactive plots
 
 *   [pyecharts (⭐14k)](https://github.com/pyecharts/pyecharts) - Migrated from [Echarts (⭐57k)](https://github.com/apache/echarts), a charting and visualization library, to Python's interactive visual drawing library.<img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pyecharts.png" alt="pyecharts"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/echarts.png" alt="echarts">
 
-## [25. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [24. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Papers and Articles
 
 *   [2021: Vision: NLG Can Help Humanise Data and AI](https://ehudreiter.com/2021/03/17/vision-nlg-can-help-humanise-data-and-ai/)
 
-## [26. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [25. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Education
 
@@ -257,7 +251,7 @@
 
 *   [Flutter Browser App (⭐369)](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile Browser App by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
-## [27. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [26. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
@@ -290,7 +284,7 @@
 *   [International Journal on Artificial Intelligence Tools](https://www.worldscientific.com/worldscinet/ijait)
 *   [Journal of Experimental and Theoretical Artificial Intelligence ](https://www.tandfonline.com/toc/teta20/current)
 
-## [28. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [27. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Books
 
@@ -307,7 +301,7 @@
 
 *   [visidata (⭐6.8k)](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
 
-## [29. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [28. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -326,7 +320,7 @@
 
 *   [Volar (⭐5.1k)](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
 
-## [30. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [29. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
@@ -336,13 +330,13 @@
 
 *   [tmux-copytk (⭐50)](https://github.com/CrispyConductor/tmux-copy-toolkit) - Multi utility rapid copy toolkit.
 
-## [31. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [30. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Model Training
 
 *   [Fairness On The Ground: Applying Algorithmic FairnessApproaches To Production Systems](https://scontent-amt2-1.xx.fbcdn.net/v/t39.8562-6/159714417_1180893265647073_4215201353052552221_n.pdf?_nc_cat=111\&ccb=1-3&_nc_sid=ae5e01&_nc_ohc=6WFnNMmyp68AX95bRHk&_nc_ht=scontent-amt2-1.xx\&oh=7a548f822e659b7bb2f58a511c30ee19\&oe=606F33AD)🎓
 
-## [32. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
+## [31. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
 
 ### [The Murderbot Diaries](https://www.goodreads.com/series/191900) (2017-) *by [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)* [4.3] / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength) (1945) *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)* [3.9]
 
@@ -351,26 +345,26 @@
 *   [Rogue Protocol](https://www.goodreads.com/book/show/35519101-rogue-protocol) \[4.4]
 *   [Exit Strategy](https://www.goodreads.com/book/show/35519109-exit-strategy) \[4.4]
 
-## [33. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [32. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Internet of things and sensor data
 
 *   [Ably](https://ably.com/) - Pub/sub messaging platform for IoT
 
-## [34. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [33. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Documentations / Skeumorphic Icons
 
 *   [GTK Documentation](https://docs.gtk.org) - Official GTK documentation.
 *   [GJS Guide](https://gjs.guide/) - Guide for GJS.
 
-## [35. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [34. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Stub packages
 
 *   [lxml-stubs (⭐34)](https://github.com/lxml/lxml-stubs) - Stubs for [lxml](https://lxml.de).
 
-## [36. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [35. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### UI Libraries
 
@@ -381,13 +375,13 @@
 
 *   [purescript-routing-duplex (⭐79)](https://github.com/natefaubion/purescript-routing-duplex) - Simple bidirectional parser/printers for your routing data types.
 
-## [37. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [36. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [Backprop (⭐240)](https://github.com/backprop-ai/backprop) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
 
-## [38. Awesome Xai](/content/altamiracorp/awesome-xai/week/README.md)
+## [37. Awesome Xai](/content/altamiracorp/awesome-xai/week/README.md)
 
 ### Papers / Interpretable Models
 
@@ -404,17 +398,17 @@
 
 *   [Debate: Interpretability is necessary for ML](https://www.youtube.com/watch?v=93Xv8vJ2acI) - A debate on whether interpretability is necessary for ML with Rich Caruana and Patrice Simard for and Kilian Weinberger and Yann LeCun against.
 
-## [39. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [38. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / CLI utils
 
 *   [chart (⭐60)](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies.
 
-## [40. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [39. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Automation
 
-*   [Runbook (⭐713)](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
+*   [Runbook (⭐716)](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
 
 ### Game Development and Graphics
 
@@ -427,9 +421,9 @@
 ### Machine Learning
 
 *   [TensorFlow (⭐361)](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
-*   [Torch.rb (⭐598)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
+*   [Torch.rb (⭐605)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
 
-## [41. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [40. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Developer Tools / Other Tools
 
@@ -439,13 +433,13 @@
 
 *   [Modern APIs with FastAPI and Python](https://training.talkpython.fm/courses/getting-started-with-fastapi) - A course designed to get you creating new APIs running in the cloud with FastAPI quickly.
 
-## [42. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [41. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### NMOS
 
 *   [AMWA NMOS Testing Tool](https://specs.amwa.tv/nmos-testing) - Automated test suites for the AMWA NMOS family of specifications, as used in the [JT-NM Tested](https://jt-nm.org/jt-nm_tested/) programme
 
-## [43. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [42. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Calendar
 
@@ -459,7 +453,7 @@
 
 *   [Ghost Rigger (⭐192)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) <!--stargazers:Float-like-a-dash-Sting-like-a-dart/GhostRigger--> - Ghost Rigger is a cyberpunk inspired puzzle game by [Iain Smith](https://github.com/b099l3) and [Julio Ernesto Rodríguez Cabañas](https://github.com/ernestoyaquello).
 
-## [44. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [43. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
@@ -469,7 +463,7 @@
 
 *   [Miro](https://miro.com) (fka Realtime Board) - Distributed permanent virtual whiteboard.
 
-## [45. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [44. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Learning
 
@@ -551,7 +545,7 @@
 
 *   [Discourse](https://discourse.nixos.org/) - The best place to get help and discuss Nix-related topics.
 
-## [46. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [45. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Arcade
 
@@ -561,19 +555,19 @@
 
 *   Pool Ball Classic - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.poolball), [iOS](https://apps.apple.com/us/app/pool-ball-classic/id1557034712) - Play 8 Ball Pool like you know and love on your mobile device featuring 3D graphics, realistic physics, and a challenging AI mode. By [Ignace Maes](https://ignacemaes.com/)
 
-## [47. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [46. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Research Papers
 
 *   [Citizen Science Data Show Temperature-Driven Declines in Riverine Sentinel Invertebrates](https://pubs.acs.org/doi/10.1021/acs.estlett.0c00206) Timothy J. Maguire, Scott O. C. Mundle. (2020)
 
-## [48. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
+## [47. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
 
 ### Community OSS projects
 
 *   [ghost-digitalocean (⭐21)](https://github.com/shiva-hack/ghost-digitalocean) - A DigitalOcean Storage adapter for Ghost.
 
-## [49. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [48. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Native Apps (open source)
 
@@ -587,7 +581,7 @@
 
 *   [Transport Operator Mobility-as-a-service Provider (TOMP)-API (⭐92)](https://github.com/TOMP-WG/TOMP-API) - Working group in the Netherlands with a goal to develop an API for use by Transport Operators and Mobility-as-a-service Providers for operator discovery, trip planning, end user interaction, booking, and payment.
 
-## [50. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [49. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
@@ -609,7 +603,7 @@
 
 *   [*Practical AI with Swift* by Mars Geldard, Jonathon Manning, Paris Buttfield-Addison, Tim Nugent](https://aiwithswift.com/book/)
 
-## [51. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [50. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Code Quality
 
@@ -678,7 +672,7 @@
 *   [Blynk](https://blynk.io) — A SaaS with API to control, build & evaluate IoT devices. Free Developer Plan with 5 devices, Free Cloud & data storage. Mobile Apps are also available.
 *   [Elementor](https://elementor.com) — WordPress website builder. Free plan available with 40+ Basic Widgets.
 
-## [52. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [51. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Cache
 
@@ -698,19 +692,19 @@
 *   [UpdatePackageInstaller (⭐5)](https://github.com/HedgehogDevelopment/UpdatePackageInstaller) - Installs update packages in Sitecore from the command line.
 *   [Sitecore Package Deployer (⭐36)](https://github.com/HedgehogDevelopment/SitecorePackageDeployer) - Uses a Sitecore Job to automatically deploy update packages from a file system folder on the Sitecore server.
 
-## [53. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [52. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Iteration
 
 *   [doplus (⭐8)](https://github.com/alessiostalla/doplus) – another extensible iteration library, similar to :for.
 
-## [54. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [53. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### General Section / Svelte
 
 *   [Docto Tech Life](https://doctolib.engineering/engineering-news-ruby-rails-react/). A weekly newsletter featuring the latest Rails + Javascript + software engineering content.
 
-## [55. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [54. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Framework Components
 
@@ -718,22 +712,22 @@
 
 ### Translations and Internationalizations
 
-*   [linguist (⭐175)](https://github.com/change/linguist) - Elixir Internationalization library.
+*   [linguist (⭐176)](https://github.com/change/linguist) - Elixir Internationalization library.
 
-## [56. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [55. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Engine
 
-*   [HStreamDB (⭐670)](https://github.com/hstreamdb/hstream) \[Haskell] - The streaming database built for IoT data storage and real-time processing.
+*   [HStreamDB (⭐674)](https://github.com/hstreamdb/hstream) \[Haskell] - The streaming database built for IoT data storage and real-time processing.
 *   [Kuiper (⭐1.3k)](https://github.com/emqx/kuiper) \[Golang] - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
 
-## [57. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [56. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Middlewares
 
 *   [NanoMQ (⭐1.2k)](https://github.com/nanomq/nanomq) - A lightweight and Blazing-fast MQTT Broker for IoT Edge platform.
 
-## [58. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [57. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Calendar
 

@@ -10,7 +10,7 @@
 
 ### Libraries
 
-*   [claire (⭐80)](https://github.com/robotlolita/claire) – A property-based testing library for clearly specifying code invariants and behaviour.
+*   [claire (⭐79)](https://github.com/robotlolita/claire) – A property-based testing library for clearly specifying code invariants and behaviour.
 
 ### Libraries / Data Structures
 
@@ -20,8 +20,8 @@
 
 ### Libraries / Algebraic Data Types
 
-*   [union-type (⭐477)](https://github.com/paldepind/union-type) – A small JavaScript library for defining and using union types.
-*   [freeky (⭐174)](https://github.com/DrBoolean/freeky) – A collection of Free monads.
+*   [union-type (⭐475)](https://github.com/paldepind/union-type) – A small JavaScript library for defining and using union types.
+*   [freeky (⭐175)](https://github.com/DrBoolean/freeky) – A collection of Free monads.
 
 ### Resources / Articles
 
@@ -51,7 +51,7 @@
 
 ### Third-party APIs
 
-*   [simple-slack-bot (⭐159)](https://github.com/kciter/simple-slack-bot) - You can easily make Slack Bot.
+*   [simple-slack-bot (⭐158)](https://github.com/kciter/simple-slack-bot) - You can easily make Slack Bot.
 
 ## [5. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
 

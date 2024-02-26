@@ -42,7 +42,7 @@
 
 ### Software / Monitoring
 
-*   [dashdot (⭐2k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.dev/)) `MIT` `Nodejs/Docker`
+*   [dashdot (⭐2.1k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.dev/)) `MIT` `Nodejs/Docker`
 
 ## [6. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Configuration
 
-*   [ini-cpp (⭐31)](https://github.com/SSARCandy/ini-cpp) - Single header only C++ version, with some handy read/write interface, extend from [inih (⭐2.2k)](https://github.com/benhoyt/inih). \[BSD-3-Clause] [website](https://ssarcandy.tw/ini-cpp/index.html)
+*   [ini-cpp (⭐31)](https://github.com/SSARCandy/ini-cpp) - Single header only C++ version, with some handy read/write interface, extend from [inih (⭐2.3k)](https://github.com/benhoyt/inih). \[BSD-3-Clause] [website](https://ssarcandy.tw/ini-cpp/index.html)
 
 ## [14. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
@@ -111,13 +111,13 @@
 
 ### Test / Lazy Load
 
-*   [playwright (⭐59k)](https://github.com/microsoft/playwright) enables reliable end-to-end testing for modern web apps.
+*   [playwright (⭐60k)](https://github.com/microsoft/playwright) enables reliable end-to-end testing for modern web apps.
 
 ## [16. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Community Modules / Miscellaneous
 
-*   [terraform-gce-atlantis (⭐25)](https://github.com/bschaatsbergen/terraform-gce-atlantis) - Creates Terraform configurations for running [Atlantis](https://runatlantis.io) on Google Compute Engine.
+*   [terraform-gce-atlantis (⭐27)](https://github.com/bschaatsbergen/terraform-gce-atlantis) - Creates Terraform configurations for running [Atlantis](https://runatlantis.io) on Google Compute Engine.
 
 ## [17. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
@@ -152,7 +152,7 @@
 
 ### Implementations/Compilers
 
-*   [novika (⭐14)](https://github.com/novika-lang/novika) - A free-form, moldable, interpreted programming language
+*   [novika (⭐15)](https://github.com/novika-lang/novika) - A free-form, moldable, interpreted programming language
 
 ## [22. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
@@ -163,7 +163,7 @@
 ### Development tools / FFI
 
 *   PHP
-    *   [phper-framework/phper (⭐236)](https://github.com/phper-framework/phper) — The framework that allows us to write PHP extensions using pure and safe Rust whenever possible
+    *   [phper-framework/phper (⭐237)](https://github.com/phper-framework/phper) — The framework that allows us to write PHP extensions using pure and safe Rust whenever possible
 
 ### Libraries / Game development
 
@@ -324,7 +324,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Shifter (⭐11)](https://github.com/TobySuch/Shifter) - A simple, self-hosted file-sharing web app, powered by Django. `MIT` `Docker`
+*   [Shifter (⭐13)](https://github.com/TobySuch/Shifter) - A simple, self-hosted file-sharing web app, powered by Django. `MIT` `Docker`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
@@ -332,7 +332,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [SwingMusic](https://swingmusic.vercel.app/) - Swing Music is a beautiful, self-hosted music player and streaming server for your local audio files. Like a cooler Spotify ... but bring your own music. ([Source Code (⭐508)](https://github.com/swing-opensource/swingmusic)) `MIT` `Python/Docker`
+*   [SwingMusic](https://swingmusic.vercel.app/) - Swing Music is a beautiful, self-hosted music player and streaming server for your local audio files. Like a cooler Spotify ... but bring your own music. ([Source Code (⭐529)](https://github.com/swing-opensource/swingmusic)) `MIT` `Python/Docker`
 
 ### Software / Self-hosting Solutions
 
@@ -340,7 +340,7 @@
 
 ### Software / URL Shorteners
 
-*   [Easyshortener (⭐75)](https://github.com/easypanel-community/easyshortener) - A simple URL shortener. `MIT` `PHP/Nodejs/Docker`
+*   [Easyshortener (⭐76)](https://github.com/easypanel-community/easyshortener) - A simple URL shortener. `MIT` `PHP/Nodejs/Docker`
 
 ## [35. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -481,7 +481,7 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [calma (⭐2)](https://github.com/luislve17/calma) - Minimalist theme that works well on dark backgrounds. Includes decorators for truncated current directory, `git` information, time, and for the exit status of last command.
-*   [gorchak (⭐0)](https://github.com/evgenygorchakov/oh-my-zsh-gorchak-theme/) - Inspired by \[robbyrussell([https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell))] and [af-magic (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#af-magic). Includes decorators for `git` information and Node.js version.
+*   [gorchak (⭐0)](https://github.com/evgenygorchakov/oh-my-zsh-gorchak-theme/) - Inspired by \[robbyrussell([https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell))] and [af-magic (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#af-magic). Includes decorators for `git` information and Node.js version.
 *   [warm-colours (⭐0)](https://github.com/BastionAtackDev/Warm-Colours.zsh-theme/) - Includes decorators for user\@host, current directory and datetime.
 
 ## [42. Awesome Kustomize](/content/aabouzaid/awesome-kustomize/week/README.md)
@@ -550,13 +550,13 @@
 
 *   [Free Dolly | The Databricks Blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm): open source, instruction-following LLM, fine-tuned on a human-generated instruction dataset licensed for research and commercial use
 *   [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852): paper with "a comprehensive survey of ChatGPT and GPT-4 and their prospective applications across diverse domains"
-*   [lm-sys/FastChat (⭐31k)](https://github.com/lm-sys/FastChat): The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" \[[demo](https://chat.lmsys.org/)]
+*   [lm-sys/FastChat (⭐32k)](https://github.com/lm-sys/FastChat): The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" \[[demo](https://chat.lmsys.org/)]
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
 *   [AgentGPT](https://agentgpt.reworkd.ai/): "assemble, configure, and deploy autonomous AI Agents in your browser"
-*   [yoheinakajima/babyagi (⭐18k)](https://github.com/yoheinakajima/babyagi): an AI-powered task management system that uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks
-*   [Torantulino/Auto-GPT (⭐157k)](https://github.com/Torantulino/Auto-GPT): "an experimental open-source attempt to make GPT-4 fully autonomous"
+*   [yoheinakajima/babyagi (⭐19k)](https://github.com/yoheinakajima/babyagi): an AI-powered task management system that uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks
+*   [Torantulino/Auto-GPT (⭐158k)](https://github.com/Torantulino/Auto-GPT): "an experimental open-source attempt to make GPT-4 fully autonomous"
 *   [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442): a paper that presents computational software agents that simulate believable human behavior
 *   [microsoft/JARVIS (⭐23k)](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community
 *   [HuggingGPT](https://arxiv.org/abs/2303.17580): Solving AI Tasks with ChatGPT and its Friends in HuggingFace
@@ -607,7 +607,7 @@
 
 ### Design and Product / Design Tools
 
-*   [Draw.io (⭐45k)](https://github.com/jgraph/drawio-desktop) Drawio is a diagramming and whiteboarding desktop app [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jgraph/drawio-desktop)
+*   [Draw.io (⭐46k)](https://github.com/jgraph/drawio-desktop) Drawio is a diagramming and whiteboarding desktop app [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jgraph/drawio-desktop)
 
 ### Design and Product / Screencapturing Software
 
@@ -615,7 +615,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Reminders MenuBar (⭐1.2k)](https://github.com/DamascenoRafael/reminders-menubar/) -  Simple macOS menu bar app to view and interact with reminders. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/DamascenoRafael/reminders-menubar/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Reminders MenuBar (⭐1.3k)](https://github.com/DamascenoRafael/reminders-menubar/) -  Simple macOS menu bar app to view and interact with reminders. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/DamascenoRafael/reminders-menubar/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [49. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
@@ -639,8 +639,8 @@
 
 ### JavaScript Libraries
 
-*   [noble-curves (⭐497)](https://github.com/paulmillr/noble-curves) — audited implementation of secp256k1 + schnorr in pure typescript
-*   [noble-secp256k1 (⭐652)](https://github.com/paulmillr/noble-secp256k1) — alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work
+*   [noble-curves (⭐535)](https://github.com/paulmillr/noble-curves) — audited implementation of secp256k1 + schnorr in pure typescript
+*   [noble-secp256k1 (⭐667)](https://github.com/paulmillr/noble-secp256k1) — alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work
 
 ## [51. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 

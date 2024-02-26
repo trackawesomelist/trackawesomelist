@@ -96,11 +96,11 @@
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [PufferPanel](https://www.pufferpanel.com/) - PufferPanel is an open source game server management panel, designed for both small networks and game server providers. ([Source Code (⭐1.1k)](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`
+*   [PufferPanel](https://www.pufferpanel.com/) - PufferPanel is an open source game server management panel, designed for both small networks and game server providers. ([Source Code (⭐1.2k)](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`
 
 ### Software / Miscellaneous
 
-*   [POMjs](https://password.oppetmoln.se/) - Random Password Generator. ([Source Code (⭐19)](https://github.com/joho1968/POMjs)) `GPL-2.0` `Javascript`
+*   [POMjs](https://password.oppetmoln.se/) - Random Password Generator. ([Source Code (⭐20)](https://github.com/joho1968/POMjs)) `GPL-2.0` `Javascript`
 
 ## [15. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 

@@ -42,7 +42,7 @@
 
 ### Documentation
 
-*   [xcribe (⭐60)](https://github.com/brainn-co/xcribe) - Generate API documentation from tests using Swagger (OpenAPI) or API Blueprint specification.
+*   [xcribe (⭐59)](https://github.com/brainn-co/xcribe) - Generate API documentation from tests using Swagger (OpenAPI) or API Blueprint specification.
 
 ## [6. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
@@ -68,7 +68,7 @@
 ### Logging
 
 *   [logbook](http://logbook.readthedocs.io/en/stable/) - Logging replacement for Python.
-*   [sentry-python (⭐1.6k)](https://github.com/getsentry/sentry-python) - Sentry SDK for Python.
+*   [sentry-python (⭐1.7k)](https://github.com/getsentry/sentry-python) - Sentry SDK for Python.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [eureka (⭐721)](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [eureka (⭐723)](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

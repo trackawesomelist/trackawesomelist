@@ -14,9 +14,9 @@
 
 ### Articles
 
-*   [CppCon 2023 Presentation Materials (⭐123)](https://github.com/CppCon/CppCon2023) - CppCon 2023 Presentation Materials.
-*   [CppCon 2022 Presentation Materials (⭐487)](https://github.com/CppCon/CppCon2022) - CppCon 2022 Presentation Materials.
-*   [CppCon 2021 Presentation Materials (⭐77)](https://github.com/CppCon/CppCon2021) - CppCon 2021 Presentation Materials.
+*   [CppCon 2023 Presentation Materials (⭐138)](https://github.com/CppCon/CppCon2023) - CppCon 2023 Presentation Materials.
+*   [CppCon 2022 Presentation Materials (⭐489)](https://github.com/CppCon/CppCon2022) - CppCon 2022 Presentation Materials.
+*   [CppCon 2021 Presentation Materials (⭐78)](https://github.com/CppCon/CppCon2021) - CppCon 2021 Presentation Materials.
 *   [C++Now 2023 Presentations (⭐74)](https://github.com/boostcon/cppnow_presentations_2023) - Presentation materials presented at C++Now 2023.
 *   [C++Now 2022 Presentations (⭐1)](https://github.com/boostcon/cppnow_presentations_2022) - Presentation materials presented at C++Now 2022.
 *   [C++Now 2021 Presentations (⭐2)](https://github.com/boostcon/cppnow_presentations_2021) - Presentation materials presented at C++Now 2021.
@@ -47,7 +47,7 @@
 
 ### Libraries / Scripting
 
-*   [3body-lang (⭐118)](https://github.com/rustq/3body-lang) - The Three Body Language written in Rust
+*   [3body-lang (⭐119)](https://github.com/rustq/3body-lang) - The Three Body Language
 
 ## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

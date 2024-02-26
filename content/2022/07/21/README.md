@@ -84,11 +84,11 @@
 
 ### Plugins for Minecraft
 
-*   [No-Chat-Reports (⭐912)](https://github.com/Aizistral-Studios/No-Chat-Reports) - A spigot plugin strips cryptographic signatures from player messages, but it breaks any chat plugin by design.
+*   [No-Chat-Reports (⭐914)](https://github.com/Aizistral-Studios/No-Chat-Reports) - A spigot plugin strips cryptographic signatures from player messages, but it breaks any chat plugin by design.
 
 ### Audio
 
-*   [Jetispot (⭐338)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
+*   [Jetispot (⭐339)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

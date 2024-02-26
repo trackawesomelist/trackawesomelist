@@ -16,10 +16,6 @@
 
 ## [2. Awesome Json](/content/burningtree/awesome-json/README.md)
 
-### Applications
-
-*   [Visual JSON](https://apps.apple.com/app/id488709442) ([github (⭐298)](https://github.com/youknowone/VisualJSON)) - simple JSON pretty-viewer for Mac OS X.
-
 ### Frontend components
 
 *   [react-jsonschema-form](https://rjsf-team.github.io/react-jsonschema-form/) - A React component for building Web forms from JSON Schema. (React)

@@ -135,33 +135,33 @@
 
 ### Other Tools / Telegram
 
-*   [CrowdSec (⭐7k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
+*   [CrowdSec (⭐7.5k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 
 ## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [ArchivesSpace](https://archivesspace.org/) - Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. ([Demo](https://archivesspace.org/application/sandbox), [Source Code (⭐315)](https://github.com/archivesspace/archivesspace)) `ECL-2.0` `Ruby`
+*   [ArchivesSpace](https://archivesspace.org/) - Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. ([Demo](https://archivesspace.org/application/sandbox), [Source Code (⭐319)](https://github.com/archivesspace/archivesspace)) `ECL-2.0` `Ruby`
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Hackershare (⭐535)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers. `MIT` `Ruby`
+*   [Hackershare (⭐540)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers. `MIT` `Ruby`
 *   [LinkAce](https://www.linkace.org/) - A bookmark archive with automatic backups to the Internet Archive, link monitoring, and a full REST API. Installation is done via Docker, or as a simple PHP application. ([Demo](https://demo.linkace.org/guest/links), [Source Code (⭐2.3k)](https://github.com/Kovah/LinkAce/)) `GPL-3.0` `Docker/PHP`
-*   [linkding (⭐4.5k)](https://github.com/sissbruecker/linkding) - Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi. `MIT` `Docker/Python/Nodejs`
+*   [linkding (⭐4.7k)](https://github.com/sissbruecker/linkding) - Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi. `MIT` `Docker/Python/Nodejs`
 
 ### Software / Remote Access
 
-*   [Firezone](https://www.firezone.dev/) - Self-hosted secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. ([Source Code (⭐5.9k)](https://github.com/firezone/firezone)) `Apache-2.0` `Elixir/Docker`
+*   [Firezone](https://www.firezone.dev/) - Self-hosted secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. ([Source Code (⭐6k)](https://github.com/firezone/firezone)) `Apache-2.0` `Elixir/Docker`
 *   [Guacamole](https://guacamole.apache.org) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. ([Source Code (⭐2.8k)](https://github.com/apache/guacamole-server)) `Apache-2.0` `Java/C`
 *   [ShellHub](https://www.shellhub.io) - ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. ([Source Code (⭐1.2k)](https://github.com/shellhub-io/shellhub)) `Apache-2.0` `Docker`
 *   [Sshwifty (⭐2k)](https://github.com/nirui/sshwifty) - Sshwifty is a SSH and Telnet connector made for the Web. ([Demo](https://sshwifty-demo.nirui.org)) `AGPL-3.0` `Go/Docker`
-*   [Warpgate (⭐3.1k)](https://github.com/warp-tech/warpgate) - Smart SSH and HTTPS bastion that works with any SSH client. `Apache-2.0` `Rust/Docker`
+*   [Warpgate (⭐3.2k)](https://github.com/warp-tech/warpgate) - Smart SSH and HTTPS bastion that works with any SSH client. `Apache-2.0` `Rust/Docker`
 
 ## [15. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Get Started
 
-*   [create-vite-app (⭐194)](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
+*   [create-vite-app (⭐200)](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
 
 ---
 

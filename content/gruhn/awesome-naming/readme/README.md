@@ -80,10 +80,10 @@ This is a curated list for when naming things is done right.
 ## Libraries and Frameworks
 
 *   [clooney (⭐1.4k)](https://github.com/GoogleChromeLabs/clooney) - A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney who is also an actor.
-*   [horcrux (⭐4.2k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
-*   [Puppeteer (⭐85k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [horcrux (⭐4.4k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
+*   [Puppeteer (⭐86k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 *   [Uglify (⭐13k)](https://github.com/mishoo/UglifyJS) - A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller.
-*   [uppy (⭐27k)](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
+*   [uppy (⭐28k)](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
 
 ## Machine Learning and Artificial Intelligence
 
@@ -99,7 +99,7 @@ This is a curated list for when naming things is done right.
 *   [Clojure](https://clojure.org/) - A functional language making extensive use of **closures** but with a **j** because it's running on the Java virtual machine.
 *   [C++](https://en.wikipedia.org/wiki/C%2B%2B#External_links) - Although C was certainly a bad name, C++ was quite clever. The iconic increment operator **++** indicates that **C++** is the successor.
 *   [Garbage Collector](https://en.m.wikipedia.org/wiki/Garbage_collection_\(computer_science\)) - Part of a program that attempts to find and reclaim garbage pieces of memory not used anymore.
-*   [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) - An evaluation stategy which suspends evaluation until it's absolutly necessary and then never does it again.
+*   [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) - An evaluation stategy which suspends evaluation until it's absolutely necessary and then never does it again.
 *   [Syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar) - Syntax that makes the language "sweeter" for human use. Usually a shorthand for common operations that can also be expressed in a more verbose form.
 
 ## User Interface Design

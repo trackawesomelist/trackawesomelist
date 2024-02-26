@@ -1,18 +1,12 @@
 # Awesome List Updates on Apr 14, 2017
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### HTTP Clients
-
-*   [httplib2 (⭐468)](https://github.com/httplib2/httplib2) - Comprehensive HTTP client library.
-
-## [2. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
+## [1. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
 ### Optical Character Recognition / Constituency Parsing
 
@@ -31,23 +25,19 @@
 *   [summarize (⭐205)](https://github.com/ssoper/summarize) -
     Ruby native wrapper for [Open Text Summarizer (⭐220)](https://github.com/neopunisher/Open-Text-Summarizer).
 
-## [3. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [2. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Projection Mapping • VJing
 
-*   [VirtualMapper (⭐225)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
+*   [VirtualMapper (⭐226)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
 
-### Articles • Tutorials / Shaders • OpenGL • WebGL
-
-*   [Sun and Black Cat](http://sunandblackcat.com/other.php?l=eng) - Articles on shaders and other computer graphics related topics.
-
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [BetterRename](http://www.publicspace.net/BetterRename/) - The most powerful and complete Mac file renaming application on the market. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/better-rename-11/id1501308038)
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
@@ -58,25 +48,25 @@
 
 *   [vue-js-modal (⭐4.3k)](https://github.com/euvl/vue-js-modal) - Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal with 0 dependencies.
 
-## [6. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
+## [5. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
 ### Resources / Blogs
 
 *   [The Neurocritic](http://neurocritic.blogspot.in/) - Often critical takes on the most sensationalistic recent findings in Human Brain Imaging, Cognitive Neuroscience, and Psychopharmacology.
 
-## [7. Awesome Sass](/content/Famolus/awesome-sass/README.md)
+## [6. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
 ### Tools / Miscellaneous
 
 *   [scss-lint (⭐3.6k)](https://github.com/brigade/scss-lint) - Configurable tool for writing clean and consistent SCSS. [(deprecated) (⭐3.6k)](https://github.com/brigade/scss-lint#notice-consider-other-tools-before-adopting-scss-lint)
 
-## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / Python SDK
 
 *   [boto3 :fire::fire::fire::fire::fire: (⭐8.1k)](https://github.com/boto/boto3)
 
-## [9. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [8. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Projects / Non-dedicated
 

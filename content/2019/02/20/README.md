@@ -16,11 +16,11 @@
 
 ### C bindings
 
-*   [ssh2.cr (⭐39)](https://github.com/spider-gazelle/ssh2.cr) - Bindings for libssh2 library
+*   [ssh2.cr (⭐41)](https://github.com/spider-gazelle/ssh2.cr) - Bindings for libssh2 library
 
 ### HTTP
 
-*   [http-params-serializable (⭐20)](https://github.com/vladfaust/http-params-serializable) - HTTP params (de)serialization, applicable to URL queries and URL-encoded forms
+*   [http-params-serializable (⭐21)](https://github.com/vladfaust/http-params-serializable) - HTTP params (de)serialization, applicable to URL queries and URL-encoded forms
 
 ## [3. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 

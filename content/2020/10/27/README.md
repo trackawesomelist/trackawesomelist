@@ -97,7 +97,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 ### Command-Line Productivity / Directory Navigation
 
-*   [zpyi (⭐100)](https://github.com/sakshamsharma/zpyi) - Python in Zsh - Easy python scripting in shell
+*   [zpyi (⭐101)](https://github.com/sakshamsharma/zpyi) - Python in Zsh - Easy python scripting in shell
 
 ## [10. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 

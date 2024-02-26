@@ -15,7 +15,7 @@
 
 ### Tools / Dynamic Analysis Tools
 
-*   [AndroPyTool (⭐312)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android app analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard, or VirusTotal analysis.
+*   [AndroPyTool (⭐314)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android app analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard, or VirusTotal analysis.
 
 ### Academic/Research/Publications/Books / Others
 

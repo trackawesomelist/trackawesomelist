@@ -14,18 +14,14 @@
 
 ### Contents / Libraries
 
-*   [fhir.js (⭐384)](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
-*   [Node HL7 (⭐50)](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
-*   [Ruby FHIR (⭐149)](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
-*   [Ruby HL7 (⭐96)](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
+*   [fhir.js (⭐411)](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
+*   [Node HL7 (⭐54)](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
+*   [Ruby FHIR (⭐154)](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
+*   [Ruby HL7 (⭐95)](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
 
 ### Contents / Applications
 
-*   [SMART Pediatric Growth Chart (⭐67)](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
-
-### Contents / Research
-
-*   [LabKey Server](https://www.labkey.org) - Platform for Translational Research.
+*   [SMART Pediatric Growth Chart (⭐66)](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
 
 ## [2. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 

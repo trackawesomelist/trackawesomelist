@@ -67,7 +67,7 @@
 
 ### ORM/ODM Extensions
 
-*   [crecto (⭐340)](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
+*   [crecto (⭐342)](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
 
 ## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 30, 2018
 
-31 awesome lists updated today.
+30 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -243,25 +243,19 @@
 
 *   [PeerTube](https://joinpeertube.org/en/) - Decentralized video streaming platform using P2P (BitTorrent) directly in the web browser. ([Source Code (⭐12k)](https://github.com/Chocobozzz/PeerTube)) `AGPL-3.0` `Nodejs`
 
-## [22. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
-
-### Events / Other
-
-*   [GROW](https://www.grow.paris/) - The Parisian rendez-vous for creative coders, GROW is about opening new possibilities in digital creation.
-
-## [23. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [22. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Organizations
 
 *   [Nvidia Deep Learning](https://developer.nvidia.com/deep-learning)
 
-## [24. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [23. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### Haskell / More
 
 *   [Haskell IDE engine](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server) - provides [language server (⭐2.4k)](https://github.com/haskell/haskell-ide-engine) for stack and cabal projects.
 
-## [25. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [24. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -299,7 +293,7 @@ Wifi pw: `ilovenicolau`
 | ---- | ----- | --------------------------------------------------------------------------------- | -------------------------------------------------- |
 | ask  | ✔     | [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00 |
 
-## [26. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [25. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Inter-process communication
 
@@ -310,7 +304,7 @@ Wifi pw: `ilovenicolau`
 *   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. \[Apache-2.0/MIT]
 *   [XMake](https://xmake.io/) - A C/C++ cross-platform build utility based on Lua. \[Apache]
 
-## [27. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [26. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
@@ -421,7 +415,7 @@ Wifi pw: `ilovenicolau`
 *   [gPodder](https://gpodder.github.io) / [gPodder Director](https://gpodder.net/) - (Multi-plataform Open Source and Podcast Directory)
 *   [RadioPublic](https://radiopublic.com/)
 
-## [28. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [27. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Papers / USENIX Security
 
@@ -447,19 +441,19 @@ Wifi pw: `ilovenicolau`
 
 *   [Ifuzzer: An evolutionary interpreter fuzzer using genetic programming, 2016](https://www.cs.vu.nl/~herbertb/download/papers/ifuzzer-esorics16.pdf)
 
-## [29. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [28. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / iOS
 
 *   [50 iOS Interview Questions And Answers Part 5](https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-5-de6241374a8f)
 
-## [30. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [29. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Books
 
 *   [Vue: Build & Deploy](https://leanpub.com/vue-book) by Daniel Schmitz, Leanpub. (September 2018)
 
-## [31. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [30. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 

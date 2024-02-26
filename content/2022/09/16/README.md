@@ -10,7 +10,7 @@
 
 ### Software / E-commerce
 
-*   [MedusaJs](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences. ([Demo](https://next.medusajs.com/), [Source Code (⭐21k)](https://github.com/medusajs/medusa)) `MIT` `Nodejs`
+*   [MedusaJs](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences. ([Demo](https://next.medusajs.com/), [Source Code (⭐22k)](https://github.com/medusajs/medusa)) `MIT` `Nodejs`
 
 ## [2. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 

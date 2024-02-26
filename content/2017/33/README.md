@@ -328,7 +328,7 @@
 
 ### Libraries / Parsing
 
-*   [pest-parser/pest (⭐4.2k)](https://github.com/pest-parser/pest) — The Elegant Parser
+*   [pest-parser/pest (⭐4.3k)](https://github.com/pest-parser/pest) — The Elegant Parser
 
 ## [25. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
@@ -587,11 +587,11 @@
 
 ### Algorithms and Data structures
 
-*   [ecto\_materialized\_path (⭐60)](https://github.com/asiniy/ecto_materialized_path) - Tree structure, hierarchy and ancestry for the ecto models.
+*   [ecto\_materialized\_path (⭐61)](https://github.com/asiniy/ecto_materialized_path) - Tree structure, hierarchy and ancestry for the ecto models.
 
 ### Debugging
 
-*   [ex\_debug\_toolbar (⭐406)](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
+*   [ex\_debug\_toolbar (⭐405)](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
 
 ### Deployment
 
@@ -600,7 +600,7 @@
 
 ### Eventhandling
 
-*   [event\_bus (⭐683)](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
+*   [event\_bus (⭐685)](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
 
 ### Macros
 

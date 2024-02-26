@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 20 - Oct 26, 2014
 
-8 awesome lists updated this week.
+9 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -91,11 +91,17 @@
 *   [Spotify Engineering Culture - Part 1](https://vimeo.com/85490944) by **Spotify Training & Development** \[13:12]
 *   [Adopting Continuous Delivery](http://vimeo.com/68320415) by **Jez Humble** \[47:22]
 
-## [4. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [4. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### CoffeeScript
+
+*   [CoffeeScript 编程风格指南 (⭐7)](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
+
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [fsm (⭐354)](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
+*   [fsm (⭐356)](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
 *   [key2value (⭐7)](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
 *   [lfsr (⭐8)](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
 *   [trie (⭐130)](https://github.com/okeuday/trie) - Erlang Trie Implementation.
@@ -136,7 +142,7 @@
 
 ### Images
 
-*   [mogrify (⭐547)](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
+*   [mogrify (⭐551)](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
 
 ### JSON
 
@@ -167,17 +173,17 @@
 
 ### Statistics
 
-*   [statistics (⭐135)](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
+*   [statistics (⭐136)](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
 
 ### Testing
 
-*   [meck (⭐797)](https://github.com/eproxus/meck) - A mocking library for Erlang.
+*   [meck (⭐801)](https://github.com/eproxus/meck) - A mocking library for Erlang.
 
 ### Text and Numbers
 
 *   [dicer (⭐4)](https://github.com/olhado/dicer) - A dice roller expression evaluator.
-*   [quickrand (⭐43)](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
-*   [uuid\_erl (⭐214)](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
+*   [quickrand (⭐42)](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
+*   [uuid\_erl (⭐213)](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
 
 ### Third Party APIs
 
@@ -205,7 +211,7 @@
 
 *   [30 Days of Elixir (⭐3k)](https://github.com/seven1m/30-days-of-elixir) - A walk through the Elixir language in 30 exercises.
 
-## [5. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [6. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authorization
 
@@ -213,9 +219,9 @@
 
 ### Performance Monitoring
 
-*   [Skylight (⭐305)](https://github.com/skylightio/skylight-ruby) - A smart profiler for your Rails apps that visualizes request performance.
+*   [Skylight (⭐308)](https://github.com/skylightio/skylight-ruby) - A smart profiler for your Rails apps that visualizes request performance.
 
-## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization
 
@@ -225,20 +231,20 @@
 
 *   [2lemetry](http://2lemetry.com/) - Platform for Internet of things.
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Biology
 
 *   [libsequence](http://molpopgen.github.io/libsequence/) - A C++ library for representing and analyzing population genetics data. \[GPL]
 *   [SeqAn](http://www.seqan.de/) - Algorithms and data structures for the analysis of sequences with the focus on biological data. \[BSD/3-clause]
-*   [Vcflib (⭐582)](https://github.com/ekg/vcflib) - A C++ library for parsing and manipulating VCF files. \[MIT]
+*   [Vcflib (⭐584)](https://github.com/ekg/vcflib) - A C++ library for parsing and manipulating VCF files. \[MIT]
 
 ### Cryptography
 
 *   [Botan](http://botan.randombit.net/) - A crypto library for C++. \[BSD-2]
 *   [GnuPG](https://www.gnupg.org/) - A complete and free implementation of the OpenPGP standard. \[GPL]
 *   [LibreSSL](http://www.libressl.org/) - A free version of the SSL/TLS protocol forked from OpenSSL in 2014. \[?]
-*   [LibTomCrypt (⭐1.4k)](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit. \[WTFPL]
+*   [LibTomCrypt (⭐1.5k)](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit. \[WTFPL]
 *   [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - A low-level cryptographic library. \[LGPL]
 
 ### Image Processing
@@ -253,7 +259,7 @@
 
 *   [MOOS-IvP](http://moos-ivp.org) - A set of open source C++ modules for providing autonomy on robotic platforms, in particular autonomous marine vehicles.
 *   [MRPT](http://www.mrpt.org/) - Mobile Robot Programming Toolkit. \[BSD]
-*   [PCL (⭐9.2k)](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library is a standalone, large scale, open project for 2D/3D image and point cloud processing. \[BSD] [website](http://www.pointclouds.org/)
+*   [PCL (⭐9.3k)](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library is a standalone, large scale, open project for 2D/3D image and point cloud processing. \[BSD] [website](http://www.pointclouds.org/)
 *   [Robotics Library (RL)](http://www.roboticslibrary.org/) - A self-contained C++ library for robot kinematics, motion planning and control. \[BSD]
 *   [ROS](http://wiki.ros.org/) - Robot Operating System provides libraries and tools to help software developers create robot applications. \[BSD]
 
@@ -273,7 +279,7 @@
 
 ### Build Systems
 
-*   [CPM (⭐736)](https://github.com/iauns/cpm) - A C++ Package Manager based on CMake and Git.
+*   [CPM (⭐735)](https://github.com/iauns/cpm) - A C++ Package Manager based on CMake and Git.
 *   [FASTBuild](http://www.fastbuild.org/docs/home.html) - High performance, open-source build system supporting highly scalable compilation, caching and network distribution.
 *   [tundra (⭐428)](https://github.com/deplinenoise/tundra) - High-performance code build system designed to give the best possible incremental build times even for very large software projects.
 *   [tup](http://gittup.org/tup/) - File-based build system that monitors in the background for changed files.
@@ -282,7 +288,7 @@
 
 *   [Clang Static Analyzer](http://clang-analyzer.llvm.org/index.html) - A source code analysis tool that finds bugs in C, C++, and Objective-C programs.
 
-## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### QA Tools / Runner
 

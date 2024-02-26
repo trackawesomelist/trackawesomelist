@@ -33,7 +33,7 @@
 
 ### Contents / Language bindings
 
-*   .Net/.Net Core: [Npgsql (⭐2.9k)](https://github.com/npgsql/npgsql)
+*   .Net/.Net Core: [Npgsql (⭐3.1k)](https://github.com/npgsql/npgsql)
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -45,19 +45,19 @@
 
 ### Command-Line Productivity
 
-*   [Buku (⭐5.9k)](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
+*   [Buku (⭐6k)](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
 *   [googler (⭐6k)](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
-*   [nnn (⭐17k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
+*   [nnn (⭐18k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [imgp (⭐983)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
+*   [imgp (⭐998)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Web Application Framework
 
-*   [lwan (⭐5.8k)](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server. \[GPL2]
+*   [lwan (⭐5.9k)](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server. \[GPL2]
 *   [Pistache](http://pistache.io/) - Pistache is a C++ REST framework written in pure C++11 with no external dependency. \[Apache2]
 
 ## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)

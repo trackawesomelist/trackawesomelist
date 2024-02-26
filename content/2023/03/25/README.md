@@ -27,17 +27,17 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Pingvin Share (⭐1.4k)](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing. ([Demo](https://pingvin-share.dev.eliasschneider.com)) `BSD-2-Clause` `Docker/Nodejs`
+*   [Pingvin Share (⭐1.5k)](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing. ([Demo](https://pingvin-share.dev.eliasschneider.com)) `BSD-2-Clause` `Docker/Nodejs`
 
 ### Software / Money, Budgeting & Management
 
-*   [Budget Zen](https://budgetzen.net) - End-to-end encrypted and simple expense manager. ([Demo](https://app.budgetzen.net), [Source Code (⭐53)](https://github.com/BrunoBernardino/budgetzen-web)) `AGPL-3.0` `Deno`
-*   [Lago](https://www.getlago.com/) - Open-source metering and usage-based billing. ([Source Code (⭐5.1k)](https://github.com/getlago/lago)) `AGPL-3.0` `Docker`
+*   [Budget Zen](https://budgetzen.net) - End-to-end encrypted and simple expense manager. ([Demo](https://app.budgetzen.net), [Source Code (⭐57)](https://github.com/BrunoBernardino/budgetzen-web)) `AGPL-3.0` `Deno`
+*   [Lago](https://www.getlago.com/) - Open-source metering and usage-based billing. ([Source Code (⭐5.2k)](https://github.com/getlago/lago)) `AGPL-3.0` `Docker`
 
 ### Software / Search Engines
 
 *   [Hound (⭐5.5k)](https://github.com/hound-search/hound) - Lightning fast code searching made easy. `MIT` `Go/Docker`
-*   [LibreX (⭐737)](https://github.com/hnhx/librex) `⚠` - Framework and javascript free privacy respecting meta search engine. `AGPL-3.0` `PHP/Docker`
+*   [LibreX (⭐742)](https://github.com/hnhx/librex) `⚠` - Framework and javascript free privacy respecting meta search engine. `AGPL-3.0` `PHP/Docker`
 
 ## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 

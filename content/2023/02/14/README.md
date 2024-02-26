@@ -10,13 +10,13 @@
 
 ### Applications / Productivity
 
-*   [illacloud/illa (⭐208)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder written with Rust.
+*   [illacloud/illa (⭐210)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder.
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Related Awesome Lists / Deforum
 
-*   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐90)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
+*   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐91)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 
 ## [3. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 

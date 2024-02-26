@@ -16,7 +16,7 @@
 
 *   [axgdev/telegram\_echobot\_zig (⭐5)](https://github.com/axgdev/telegram_echobot_zig) - Telegram echo bot.
 
-### Web / HTTP
+### Web / Messaging
 
 *   [batiati/mustache-zig (⭐89)](https://github.com/batiati/mustache-zig) - Mustache implementation.
 
@@ -289,7 +289,7 @@
 
 ### Tools - Miscellaneous / React
 
-*   [Typetta (⭐95)](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. Typetta is the perfect ORM for the GraphQL + NodeJS + Typescript stack.
+*   [Typetta (⭐96)](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. Typetta is the perfect ORM for the GraphQL + NodeJS + Typescript stack.
 
 ### Blogs - Security / React
 
@@ -322,7 +322,7 @@
 
 ### Tools / Community providers
 
-*   [atmos (⭐477)](https://github.com/cloudposse/atmos) - A universal tool that converts deep merged YAML to module inputs. :alien:
+*   [atmos (⭐499)](https://github.com/cloudposse/atmos) - A universal tool that converts deep merged YAML to module inputs. :alien:
 
 ## [21. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -488,7 +488,7 @@
 
 ### Go Tools / Libraries for creating HTTP middlewares
 
-*   [gotestdox (⭐79)](https://github.com/bitfield/gotestdox) - Show Go test results as readable sentences.
+*   [gotestdox (⭐80)](https://github.com/bitfield/gotestdox) - Show Go test results as readable sentences.
 
 ## [32. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -528,7 +528,7 @@
 
 ### Plugins
 
-*   🧬 [FormKit (⭐3.8k)](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
+*   🧬 [FormKit (⭐3.9k)](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
 
 ## [35. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -557,7 +557,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-live-reload (⭐77)](https://github.com/arnoson/vite-plugin-live-reload) - Live reloading.
+*   [vite-plugin-live-reload (⭐79)](https://github.com/arnoson/vite-plugin-live-reload) - Live reloading.
 *   [vite-plugin-simple-vconsole (⭐5)](https://github.com/venojs/vite-plugin-simple-vconsole) - A debug console view inside your app to make mobile debugging easier, for both SPA and MPA.
 *   [vite-plugin-file-mock (⭐7)](https://github.com/venojs/vite-plugin-file-mock) - File system based local mock plugin.
 
@@ -565,7 +565,7 @@
 
 ### Contents / Libraries
 
-*   [TorchXRayVision (⭐687)](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
+*   [TorchXRayVision (⭐797)](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
 
 ## [39. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
@@ -714,13 +714,13 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [evoasm/kasm (⭐40)](https://github.com/evoasm/kasm) - x64/x86-64 assembler and execution library
+*   [evoasm/kasm (⭐41)](https://github.com/evoasm/kasm) - x64/x86-64 assembler and execution library
 
 ## [53. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Other plugins
 
-*   [Print (⭐2)](https://github.com/leoruhland/capacitor-print) - Print the WebView.
+*   [Print (⭐4)](https://github.com/leoruhland/capacitor-print) - Print the WebView.
 
 ## [54. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

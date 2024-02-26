@@ -414,7 +414,7 @@
 ### IDE Plugins
 
 *   [VSCode Silverstripe](https://marketplace.visualstudio.com/items?itemName=adrian.silverstripe) - Syntax highlighting for Silverstripe template files in VSCode.
-*   [PHPStorm / Webstorm Live Templates (⭐3)](https://github.com/northcreation-agency/silverstripe-php-web-storm-live-templates) - Shortcuts for adding various Silverstripe specific code snippets.
+*   [PHPStorm / Webstorm Live Templates (⭐4)](https://github.com/northcreation-agency/silverstripe-php-web-storm-live-templates) - Shortcuts for adding various Silverstripe specific code snippets.
 
 ## [20. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 

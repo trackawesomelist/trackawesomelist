@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Feb 23, 2024](/content/2024/02/23/README.md)
+
+### Domain and IP Research / Telegram
+
+*   [TinyScan](https://www.tiny-scan.com) - Another powerful URL scan tool that provides comprehensive information about any given URL. Get insights into IP address, location, screenshots, technology stack, performance metrics, and more.
+
 ## [Feb 17, 2024](/content/2024/02/17/README.md)
 
 ### Real-Time Search, Social Media Search, and General Social Media Tools

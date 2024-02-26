@@ -595,7 +595,7 @@ git config --global help.autocorrect 1
 
 ### Table of Contents / Micro Framework Extras
 
-*   [Slim Skeleton (⭐1.5k)](https://github.com/slimphp/Slim-Skeleton) - A skeleton for Slim.
+*   [Slim Skeleton (⭐1.6k)](https://github.com/slimphp/Slim-Skeleton) - A skeleton for Slim.
 
 ### Table of Contents / Imagery
 
@@ -607,7 +607,7 @@ git config --global help.autocorrect 1
 
 ### Table of Contents / Asset Management
 
-*   [JShrink (⭐740)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
+*   [JShrink (⭐744)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
 
 ### Table of Contents / Geolocation
 
@@ -725,7 +725,7 @@ git config --global help.autocorrect 1
 
 ### Other Tools
 
-*   [git2r (⭐211)](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
+*   [git2r (⭐213)](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
 
 ## [23. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
@@ -991,13 +991,13 @@ git config --global help.autocorrect 1
 
 ### Command-Line Productivity
 
-*   [slugify (⭐293)](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
+*   [slugify (⭐298)](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
 
 ### Applications / Directory Navigation
 
 *   [fanyi (⭐1.3k)](https://github.com/afc163/fanyi) - Translate English to Chinese in terminal
 *   [hn-cli (⭐459)](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
-*   [whereami (⭐159)](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
+*   [whereami (⭐162)](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
 
 ## [38. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -1035,7 +1035,7 @@ git config --global help.autocorrect 1
 
 ### Framework Components
 
-*   [params (⭐326)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
+*   [params (⭐330)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
 *   [revision\_plate\_ex (⭐3)](https://github.com/KazuCocoa/revision_plate_ex) - Plug application and middleware that serves endpoint returns application's REVISION.
 
 ### Queue

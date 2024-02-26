@@ -55,7 +55,7 @@
 ### SCALE Codec
 
 *   [AssemblyScript (⭐18)](https://github.com/LimeChain/as-scale-codec) - Maintained by LimeChain.
-*   [Python (⭐52)](https://github.com/polkascan/py-scale-codec) - Maintained by Polkascan Foundation.
+*   [Python (⭐53)](https://github.com/polkascan/py-scale-codec) - Maintained by Polkascan Foundation.
 
 ## [7. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 
@@ -117,13 +117,13 @@
 
 ### Machine Learning
 
-*   [rumale (⭐719)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
+*   [rumale (⭐725)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
 
 ## [14. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Web Frameworks
 
-*   [grip (⭐267)](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
+*   [grip (⭐269)](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
 
 ## [15. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 

@@ -102,7 +102,7 @@
 
 ### Ebook
 
-*   [Bookshop (⭐7)](https://github.com/worlduniting/bookshop) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
+*   [Bookshop (⭐9)](https://github.com/worlduniting/bookshop) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
 
 ### File Upload
 

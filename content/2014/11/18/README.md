@@ -23,20 +23,20 @@
 
 ### Markdown
 
-*   [cmark (⭐93)](https://github.com/asaaki/cmark.ex) - Elixir NIF for CommonMark (in C), a parser following the CommonMark spec.
+*   [cmark (⭐94)](https://github.com/asaaki/cmark.ex) - Elixir NIF for CommonMark (in C), a parser following the CommonMark spec.
 
 ### Queue
 
-*   [work\_queue (⭐40)](https://github.com/pragdave/work_queue) - Simple implementation of the hungry-consumer model in Elixir.
+*   [work\_queue (⭐41)](https://github.com/pragdave/work_queue) - Simple implementation of the hungry-consumer model in Elixir.
 
 ### Testing
 
-*   [katt (⭐116)](https://github.com/for-GET/katt) - KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
+*   [katt (⭐117)](https://github.com/for-GET/katt) - KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
 *   [kovacs (⭐5)](https://github.com/antp/kovacs) - A simple ExUnit test runner.
 
 ### Text and Numbers
 
-*   [hashids (⭐272)](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
+*   [hashids (⭐274)](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
 
 ### Third Party APIs
 

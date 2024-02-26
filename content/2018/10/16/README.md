@@ -53,7 +53,7 @@
 
 ### Platforms
 
-*   [Home Assistant (⭐5.3k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
+*   [Home Assistant (⭐5.5k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

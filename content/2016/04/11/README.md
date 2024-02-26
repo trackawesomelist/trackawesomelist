@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 11, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -101,13 +101,21 @@
 *   [RSiena](http://r-forge.r-project.org/R/?group_id=461) - Simulation Investigation for Empirical Network Analysis; fits models to longitudinal network data.
 *   [visNetwork (⭐516)](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
 
-## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [6. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### Rust / Django
+
+*   [Rust 官方教程 (⭐1.7k)](https://github.com/KaiserY/rust-book-chinese)
+*   [Rust 语言学习笔记 (⭐143)](https://github.com/photino/rust-notes)
+*   [RustPrimer (⭐1.7k)](https://github.com/rustcc/RustPrimer)
+
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Debugging
 
 *   [observer\_cli (⭐1.3k)](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to helpe developers debug production systems.
 
-## [7. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [8. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### Tutorials
 

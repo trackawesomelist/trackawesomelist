@@ -35,16 +35,16 @@
 
 ### Command-Line Productivity / Directory Navigation
 
-*   [aliasme (⭐109)](https://github.com/Jintin/aliasme) - alias helper to change directory quickly
+*   [aliasme (⭐111)](https://github.com/Jintin/aliasme) - alias helper to change directory quickly
 *   [autojump (⭐16k)](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 *   [bashmarks (⭐1.8k)](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
-*   [bd (⭐909)](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
-*   [commacd (⭐354)](https://github.com/shyiko/commacd) - A faster way to move around in Bash
-*   [enhancd (⭐2.4k)](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
-*   [goto (⭐846)](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
+*   [bd (⭐918)](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
+*   [commacd (⭐357)](https://github.com/shyiko/commacd) - A faster way to move around in Bash
+*   [enhancd (⭐2.5k)](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
+*   [goto (⭐856)](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
 *   [jump (⭐1.7k)](https://github.com/gsamokovarov/jump) - Jump helps you navigate your file system faster by learning your habits.
 *   [lazy-cd (⭐20)](https://github.com/pedramamini/lazy-cd) - Simple bash commands for bookmarked navigation of the file system, complete with bash-completion.
-*   [up (⭐160)](https://github.com/shannonmoeller/up) - Ascend directories by name or count; for bash, zsh, and fish.
+*   [up (⭐164)](https://github.com/shannonmoeller/up) - Ascend directories by name or count; for bash, zsh, and fish.
 
 ## [6. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 

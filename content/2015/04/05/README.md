@@ -10,7 +10,7 @@
 
 ### Transformations
 
-*   [fanci (⭐29)](https://github.com/liip/fanci) - Extract, rename and transform JSON based on a template. (node.js)
+*   [fanci (⭐30)](https://github.com/liip/fanci) - Extract, rename and transform JSON based on a template. (node.js)
 
 ## [2. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

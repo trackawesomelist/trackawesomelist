@@ -40,7 +40,7 @@
 
 ### Design and Product / Design Tools
 
-*   [Draw.io (⭐45k)](https://github.com/jgraph/drawio-desktop) Drawio is a diagramming and whiteboarding desktop app [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jgraph/drawio-desktop)
+*   [Draw.io (⭐46k)](https://github.com/jgraph/drawio-desktop) Drawio is a diagramming and whiteboarding desktop app [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jgraph/drawio-desktop)
 
 ### Design and Product / Screencapturing Software
 
@@ -48,7 +48,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Reminders MenuBar (⭐1.2k)](https://github.com/DamascenoRafael/reminders-menubar/) -  Simple macOS menu bar app to view and interact with reminders. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/DamascenoRafael/reminders-menubar/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Reminders MenuBar (⭐1.3k)](https://github.com/DamascenoRafael/reminders-menubar/) -  Simple macOS menu bar app to view and interact with reminders. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/DamascenoRafael/reminders-menubar/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [4. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
@@ -102,8 +102,8 @@
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
 *   [AgentGPT](https://agentgpt.reworkd.ai/): "assemble, configure, and deploy autonomous AI Agents in your browser"
-*   [yoheinakajima/babyagi (⭐18k)](https://github.com/yoheinakajima/babyagi): an AI-powered task management system that uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks
-*   [Torantulino/Auto-GPT (⭐157k)](https://github.com/Torantulino/Auto-GPT): "an experimental open-source attempt to make GPT-4 fully autonomous"
+*   [yoheinakajima/babyagi (⭐19k)](https://github.com/yoheinakajima/babyagi): an AI-powered task management system that uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks
+*   [Torantulino/Auto-GPT (⭐158k)](https://github.com/Torantulino/Auto-GPT): "an experimental open-source attempt to make GPT-4 fully autonomous"
 *   [microsoft/JARVIS (⭐23k)](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community
 *   [HuggingGPT](https://arxiv.org/abs/2303.17580): Solving AI Tasks with ChatGPT and its Friends in HuggingFace
 
@@ -111,15 +111,15 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Shifter (⭐11)](https://github.com/TobySuch/Shifter) - A simple, self-hosted file-sharing web app, powered by Django. `MIT` `Docker`
+*   [Shifter (⭐13)](https://github.com/TobySuch/Shifter) - A simple, self-hosted file-sharing web app, powered by Django. `MIT` `Docker`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [SwingMusic](https://swingmusic.vercel.app/) - Swing Music is a beautiful, self-hosted music player and streaming server for your local audio files. Like a cooler Spotify ... but bring your own music. ([Source Code (⭐508)](https://github.com/swing-opensource/swingmusic)) `MIT` `Python/Docker`
+*   [SwingMusic](https://swingmusic.vercel.app/) - Swing Music is a beautiful, self-hosted music player and streaming server for your local audio files. Like a cooler Spotify ... but bring your own music. ([Source Code (⭐529)](https://github.com/swing-opensource/swingmusic)) `MIT` `Python/Docker`
 
 ### Software / URL Shorteners
 
-*   [Easyshortener (⭐75)](https://github.com/easypanel-community/easyshortener) - A simple URL shortener. `MIT` `PHP/Nodejs/Docker`
+*   [Easyshortener (⭐76)](https://github.com/easypanel-community/easyshortener) - A simple URL shortener. `MIT` `PHP/Nodejs/Docker`
 
 ## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

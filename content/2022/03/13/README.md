@@ -22,7 +22,7 @@
 
 *   [axgdev/telegram\_echobot\_zig (⭐5)](https://github.com/axgdev/telegram_echobot_zig) - Telegram echo bot.
 
-### Web / HTTP
+### Web / Messaging
 
 *   [batiati/mustache-zig (⭐89)](https://github.com/batiati/mustache-zig) - Mustache implementation.
 

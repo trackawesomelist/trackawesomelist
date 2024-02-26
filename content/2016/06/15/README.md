@@ -52,8 +52,8 @@
 
 ### Graphic Displays
 
-*   [ggfortify (⭐523)](https://github.com/sinhrks/ggfortify) - A unified interface to ggplot2 popular statistical packages using one line of code.
-*   [corrplot (⭐299)](https://github.com/taiyun/corrplot) - A graphical display of a correlation matrix or general matrix. It also contains some algorithms to do matrix reordering.
+*   [ggfortify (⭐524)](https://github.com/sinhrks/ggfortify) - A unified interface to ggplot2 popular statistical packages using one line of code.
+*   [corrplot (⭐302)](https://github.com/taiyun/corrplot) - A graphical display of a correlation matrix or general matrix. It also contains some algorithms to do matrix reordering.
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

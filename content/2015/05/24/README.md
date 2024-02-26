@@ -1,6 +1,6 @@
 # Awesome List Updates on May 24, 2015
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Books
 
-*   [cppbestpractices (⭐7.6k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
+*   [cppbestpractices (⭐7.7k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 
 ## [2. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -18,13 +18,7 @@
 
 *   [Leanote (⭐1.5k)](https://github.com/leanote/desktop-app) - Cloud notepad.
 
-## [3. Awesome Json](/content/burningtree/awesome-json/README.md)
-
-### Online tools
-
-*   [ObjGen](http://www.objgen.com/json) - Online live JSON generator.
-
-## [4. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
+## [3. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 
 ### Programming Languages / JavaScript
 

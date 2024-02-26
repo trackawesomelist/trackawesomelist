@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 15 - Dec 21, 2014
 
-13 awesome lists updated this week.
+12 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -98,13 +98,7 @@
 
 *   [awesome-algorithms (⭐17k)](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 
-## [10. Awesome Python](/content/vinta/awesome-python/week/README.md)
-
-### Newsletters
-
-*   [Pycoder's Weekly](http://pycoders.com/)
-
-## [11. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
+## [10. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
 ### Resources / OpenResty
 
@@ -119,17 +113,17 @@
 
 *   [Where Lua is Used](https://sites.google.com/site/marbux/home/where-lua-is-used) - A comprehensive list of stand-alone programs written in or extensible using Lua.
 
-## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [deap (⭐5.4k)](https://github.com/deap/deap) - Evolutionary algorithm framework.
 
-## [13. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [12. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Language API
 
-*   [V8 (⭐189)](https://github.com/jeroenooms/V8) - Embedded JavaScript Engine.
+*   [V8 (⭐188)](https://github.com/jeroenooms/V8) - Embedded JavaScript Engine.
 
 ---
 

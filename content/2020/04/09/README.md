@@ -89,7 +89,7 @@
 
 ### Command-Line Productivity
 
-*   [xxh (⭐4.7k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
+*   [xxh (⭐4.8k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
 
 ### System Utilities / Directory Navigation
 

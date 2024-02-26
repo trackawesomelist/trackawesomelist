@@ -70,7 +70,7 @@
 
 ### Programming Languages and Programming Language Theory
 
-*   [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) - An evaluation stategy which suspends evaluation until it's absolutly necessary and then never does it again.
+*   [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) - An evaluation stategy which suspends evaluation until it's absolutely necessary and then never does it again.
 
 ## [7. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

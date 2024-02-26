@@ -143,7 +143,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-optimizer (⭐30)](https://github.com/vite-plugin/vite-plugin-optimizer) - Manually Pre-Bundling.
+*   [vite-plugin-optimizer (⭐31)](https://github.com/vite-plugin/vite-plugin-optimizer) - Manually Pre-Bundling.
 *   [vite-plugin-esmodule (⭐24)](https://github.com/vite-plugin/vite-plugin-esmodule) - Build ES module to CommonJs module for Node.js.
 
 ---

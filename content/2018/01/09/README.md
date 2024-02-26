@@ -36,7 +36,7 @@
 
 ### Frameworks
 
-*   [FunctionalPlus (⭐1.9k)](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code. \[MIT]
+*   [FunctionalPlus (⭐2k)](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code. \[MIT]
 
 ### Artificial Intelligence
 
@@ -50,15 +50,15 @@
 
 ### Command Line Applications
 
-*   [ex\_prompt (⭐30)](https://github.com/behind-design/ex_prompt) - Helper package to add interactivity to your command line applications as easy as possible.
+*   [ex\_prompt (⭐29)](https://github.com/behind-design/ex_prompt) - Helper package to add interactivity to your command line applications as easy as possible.
 
 ### Cryptography
 
-*   [ntru\_elixir (⭐14)](https://github.com/alisinabh/ntru_elixir) - Elixir wrapper for libntru. A post quantum cryptography system.
+*   [ntru\_elixir (⭐15)](https://github.com/alisinabh/ntru_elixir) - Elixir wrapper for libntru. A post quantum cryptography system.
 
 ### Debugging
 
-*   [rexbug (⭐234)](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
+*   [rexbug (⭐237)](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
 
 ### Deployment
 
@@ -78,8 +78,8 @@
 
 ### Templating
 
-*   [calliope (⭐194)](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
-*   [slime (⭐358)](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
+*   [calliope (⭐196)](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
+*   [slime (⭐359)](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
 
 ### Text and Numbers
 
@@ -87,7 +87,7 @@
 
 ### Third Party APIs
 
-*   [gringotts (⭐472)](https://github.com/aviabird/gringotts) - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) from the Ruby world.
+*   [gringotts (⭐475)](https://github.com/aviabird/gringotts) - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) from the Ruby world.
 
 ### Books
 

@@ -6,6 +6,12 @@ a curated list of awesome streaming frameworks, applications, etc
 
 [ Daily / [Weekly](/content/manuzhang/awesome-streaming/week/README.md) / [Overview](/content/manuzhang/awesome-streaming/readme/README.md) ]
 
+## [Feb 22, 2024](/content/2024/02/22/README.md)
+
+### Table of Contents / Toolkit
+
+*   [Streamdal](https://streamdal.com) \[Go/Node.js/Python] - A tool to embed privacy controls in your application code to detect PII as it enters and leaves your systems, preventing it from reaching unintended data streams or pipelines.
+
 ## [Feb 16, 2024](/content/2024/02/16/README.md)
 
 ### Table of Contents / Toolkit
@@ -112,7 +118,7 @@ a curated list of awesome streaming frameworks, applications, etc
 
 ### Table of Contents / Data Pipeline
 
-*   [Redpanda (⭐8.4k)](https://github.com/redpanda-data/redpanda) \[C++] - Redpanda is Kafka compatible, ZooKeeper-free, JVM-free and source available.
+*   [Redpanda (⭐8.5k)](https://github.com/redpanda-data/redpanda) \[C++] - Redpanda is Kafka compatible, ZooKeeper-free, JVM-free and source available.
 
 ## [Feb 09, 2022](/content/2022/02/09/README.md)
 
@@ -392,7 +398,7 @@ a curated list of awesome streaming frameworks, applications, etc
 
 *   [akka (⭐13k)](https://github.com/akka/akka) \[Scala] - toolkit and runtime for building highly concurrent, distributed, and resilient message-driven application on the JVM.
 *   [pulsar (⭐1.9k)](https://github.com/quantmind/pulsar/) \[Python] - Actor based event driven concurrent framework for Python.
-*   [aeron (⭐6.9k)](https://github.com/real-logic/Aeron) \[Java/C++] - efficient reliable unicast and multicast message transport.
+*   [aeron (⭐7k)](https://github.com/real-logic/Aeron) \[Java/C++] - efficient reliable unicast and multicast message transport.
 *   [StreamFlow (⭐249)](https://github.com/lmco/streamflow) \[Java] - stream processing tool designed to help build and monitor processing workflows.
 *   [samza-luwak (⭐102)](https://github.com/romseygeek/samza-luwak) \[Java] - uses Luwak, a stored-query engine built on Lucene, to implement full-text search on streams.
 *   [Turbine (⭐831)](https://github.com/Netflix/Turbine) \[Java] - tool for aggregating streams of Server-Sent Event (SSE) JSON data into a single stream.

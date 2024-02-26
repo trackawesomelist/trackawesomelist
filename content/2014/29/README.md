@@ -149,6 +149,11 @@
 
 ## [4. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
+### 2017 / Book/monograph Lists and Reviews
+
+*   [awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness)
+*   [lists (⭐9.4k)](https://github.com/jnv/lists)
+
 ### Integrated Development Environments
 
 *   [Emacs + ESS](http://ess.r-project.org/) - Emacs Speaks Statistics is an add-on package for emacs text editors.
@@ -162,17 +167,17 @@
 
 *   [rgl](http://cran.r-project.org/web/packages/rgl/index.html) - 3D visualization device system for R.
 *   [extrafont (⭐306)](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
-*   [showtext (⭐464)](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
+*   [showtext (⭐466)](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
 
 ### Web Technologies and Services
 
 *   [RCurl](http://cran.r-project.org/web/packages/RCurl/index.html) - General network (HTTP/FTP/...) client interface for R.
-*   [httpuv (⭐220)](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
+*   [httpuv (⭐221)](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
 
 ### Database Management
 
 *   [RODBC](http://cran.r-project.org/web/packages/RODBC/) - ODBC database access for R.
-*   [DBI (⭐275)](https://github.com/rstats-db/DBI) - Defines a common interface between the R and database management systems.
+*   [DBI (⭐280)](https://github.com/rstats-db/DBI) - Defines a common interface between the R and database management systems.
 *   [RMySQL](http://cran.r-project.org/web/packages/RMySQL/) - R interface to the MySQL database.
 *   [ROracle](http://cran.r-project.org/web/packages/ROracle/index.html) - OCI based Oracle database interface for R.
 *   [RPostgreSQL](https://code.google.com/p/rpostgresql/) - R interface to the PostgreSQL database system.
@@ -223,10 +228,6 @@
 ### Websites / Manuals
 
 *   [R-project](http://www.r-project.org/) - The R Project for Statistical Computing.
-
-### 2017 / Book/monograph Lists and Reviews
-
-*   [lists (⭐9.3k)](https://github.com/jnv/lists)
 
 ## [5. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
@@ -331,7 +332,7 @@
 
 ### Downloader
 
-*   [s3cmd (⭐4.2k)](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
+*   [s3cmd (⭐4.4k)](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
 
 ## [9. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -360,13 +361,6 @@
 
 ## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
-### Other Awesome Projects
-
-*   [awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-*   [algorithms (⭐5.1k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
-*   [c-algorithms (⭐3.1k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
-*   [papers-we-love (⭐81k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-
 ### Concurrency
 
 *   [OpenCL](https://www.khronos.org/opencl/) - The open standard for parallel programming of heterogeneous systems.
@@ -392,6 +386,12 @@
 *   [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - by VoidRealms.
 *   [C++ Programming Tutorials from thenewboston](https://www.youtube.com/playlist?list=PLF541C2C1F671AEF6) - These are all of thenewboston's C++ programming tutorials.
 *   [C++ GUI with Qt Playlist](https://www.youtube.com/playlist?list=PLD0D54219E5F2544D) - Official Playlist for thenewboston C++ GUI with Qt tutorials.
+
+### Other Awesome Projects
+
+*   [algorithms (⭐5.1k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
+*   [c-algorithms (⭐3.1k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
+*   [papers-we-love (⭐82k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 ## [12. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -883,7 +883,7 @@
 
 ### Table of Contents / Strings
 
-*   [ANSI to HTML5 (⭐230)](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
+*   [ANSI to HTML5 (⭐231)](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
 
 ## [20. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 

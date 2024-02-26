@@ -112,7 +112,7 @@
 
 ### Applications / Directory Navigation
 
-*   [terjira (⭐845)](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
+*   [terjira (⭐858)](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
 
 ---
 

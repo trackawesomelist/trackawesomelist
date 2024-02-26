@@ -386,7 +386,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Trilium Notes (⭐24k)](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs/Docker/K8S`
+*   [Trilium Notes (⭐25k)](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs/Docker/K8S`
 
 ## [23. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -913,7 +913,7 @@
 
 ### CLI Utilities
 
-*   [Whirly (⭐320)](https://github.com/janlelis/whirly) - A simple, colorful and customizable terminal spinner library for Ruby.
+*   [Whirly (⭐324)](https://github.com/janlelis/whirly) - A simple, colorful and customizable terminal spinner library for Ruby.
 
 ### Cryptocurrencies and Blockchains
 
@@ -925,27 +925,27 @@
 
 ### HTTP Clients and tools
 
-*   [Sniffer (⭐568)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
+*   [Sniffer (⭐570)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
 
 ### Machine Learning
 
 *   [AI4R (⭐712)](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
-*   [ruby-fann (⭐467)](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
+*   [ruby-fann (⭐469)](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
 
 ### Process Management and Monitoring
 
 *   [Foreman (⭐5.9k)](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
-*   [Procodile (⭐614)](https://github.com/adamcooke/procodile) - Run processes in the background (and foreground) on Mac & Linux from a Procfile.
+*   [Procodile (⭐613)](https://github.com/adamcooke/procodile) - Run processes in the background (and foreground) on Mac & Linux from a Procfile.
 
 ### Scientific
 
 *   Bindings
     *   [PyCall (⭐1k)](https://github.com/mrkn/pycall.rb) - Calling Python functions from the Ruby language.
-    *   [ruby-opencv (⭐813)](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
+    *   [ruby-opencv (⭐814)](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
 
 ### Social Networking
 
-*   [Decidim (⭐1.3k)](https://github.com/decidim/decidim) - free open-source participatory democracy for cities and organizations
+*   [Decidim (⭐1.4k)](https://github.com/decidim/decidim) - free open-source participatory democracy for cities and organizations
 
 ## [48. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 

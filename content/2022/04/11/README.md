@@ -64,7 +64,7 @@
 
 ### Templates / React
 
-*   [chrome-extension-boilerplate-react-vite (⭐1.3k)](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - React + TypeScript + SASS + Prettier + ESLint + GitHub Actions + Chrome Extension Manifest v3.
+*   [chrome-extension-boilerplate-react-vite (⭐1.4k)](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - React + TypeScript + SASS + Prettier + ESLint + GitHub Actions + Chrome Extension Manifest v3.
 
 ## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -75,7 +75,7 @@
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
 
 *   [WebCord (⭐1.6k)](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord API-less client made with the Electron.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Aliucord (⭐3k)](https://github.com/Aliucord/Aliucord) - A modification for the Android Discord app that fully [disables the Discord Tracking (⭐3k)](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java).
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Aliucord (⭐3.1k)](https://github.com/Aliucord/Aliucord) - A modification for the Android Discord app that fully [disables the Discord Tracking (⭐3.1k)](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java).
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -101,13 +101,13 @@
 
 ### Software / Ticketing
 
-*   [OTOBO](https://otobo.de/en/) - Flexible web-based ticketing system used for Customer Service, Help Desk, IT Service Management. ([Demo](https://otobo.de/en/open-source-ticketing-system/#demos), [Source Code (⭐217)](https://github.com/RotherOSS/otobo)) `GPL-3.0` `Perl/Docker`
+*   [OTOBO](https://otobo.de/en/) - Flexible web-based ticketing system used for Customer Service, Help Desk, IT Service Management. ([Demo](https://otobo.de/en/open-source-ticketing-system/#demos), [Source Code (⭐218)](https://github.com/RotherOSS/otobo)) `GPL-3.0` `Perl/Docker`
 
 ## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Other Tools / Telegram
 
-*   [Sub3 Suite (⭐423)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
+*   [Sub3 Suite (⭐452)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
 
 ## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -148,7 +148,7 @@
 
 ### Templates
 
-*   [axum-yew-setup (⭐133)](https://github.com/rksm/axum-yew-setup) - A starter project that sets up Axum and Yew for full stack Rust web apps.
+*   [axum-yew-setup (⭐136)](https://github.com/rksm/axum-yew-setup) - A starter project that sets up Axum and Yew for full stack Rust web apps.
 
 ## [16. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

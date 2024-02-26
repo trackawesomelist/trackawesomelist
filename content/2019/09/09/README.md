@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 09, 2019
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -36,18 +36,7 @@
 
 *   [clj-kondo (⭐1.6k)](https://github.com/borkdude/clj-kondo)
 
-## [6. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### Code Analysis
-
-*   Code Linters
-    *   [flake8](https://pypi.org/project/flake8/) - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
-        *   [awesome-flake8-extensions (⭐1.1k)](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
-    *   [pylama (⭐1k)](https://github.com/klen/pylama) - A code audit tool for Python and JavaScript.
-    *   [pylint](https://www.pylint.org/) - A fully customizable source code analyzer.
-    *   [wemake-python-styleguide (⭐2.2k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever.
-
-## [7. Awesome Qa](/content/seriousran/awesome-qa/README.md)
+## [6. Awesome Qa](/content/seriousran/awesome-qa/README.md)
 
 ### ACL 2019
 
@@ -56,7 +45,7 @@
 *   [SemEval-2019 Task 10: Math Question Answering](https://www.aclweb.org/anthology/S19-2153), Mark Hopkins, et al., ACL-W 2019, Jun 2019.
 *   [Natural Questions: a Benchmark for Question Answering Research](https://ai.google/research/pubs/pub47761), Tom Kwiatkowski, et al., TACL 2019, Jan 2019.
 
-## [8. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+## [7. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ### Artificial Intelligence
 

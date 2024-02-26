@@ -228,7 +228,7 @@
 
 ### Software / Resource Planning
 
-*   [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code (⭐5.9k)](https://github.com/grocy/grocy)) `MIT` `PHP/Docker`
+*   [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code (⭐6k)](https://github.com/grocy/grocy)) `MIT` `PHP/Docker`
 
 ## [25. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -265,13 +265,9 @@
 
 ## [28. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
-### Shells
-
-*   [yash](https://yash.osdn.jp/) - A POSIX-compliant command line shell with built-in support for completion and prediction based on command history
-
 ### Command-Line Productivity
 
-*   [funky (⭐631)](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
+*   [funky (⭐634)](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
 *   [navi (⭐14k)](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ### Command-Line Productivity / Directory Navigation

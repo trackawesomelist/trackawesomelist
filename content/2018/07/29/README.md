@@ -26,7 +26,7 @@
 
 ### C++ Libraries
 
-*   [libwally-core (⭐262)](https://github.com/ElementsProject/libwally-core)
+*   [libwally-core (⭐268)](https://github.com/ElementsProject/libwally-core)
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

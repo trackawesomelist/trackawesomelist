@@ -198,7 +198,7 @@ git rev-parse --show-toplevel
 
 ### Third-party APIs
 
-*   [terjira (⭐853)](https://github.com/keepcosmos/terjira) - A command-line power tool for Jira.
+*   [terjira (⭐858)](https://github.com/keepcosmos/terjira) - A command-line power tool for Jira.
 
 ## [19. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
@@ -255,11 +255,11 @@ git rev-parse --show-toplevel
 
 ### System Utilities / Directory Navigation
 
-*   [ls++ (⭐498)](https://github.com/trapd00r/ls--) - Colorized ls on steroids
+*   [ls++ (⭐500)](https://github.com/trapd00r/ls--) - Colorized ls on steroids
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [xidel (⭐611)](https://github.com/benibela/xidel/) - Cli tool to filter, map and create HTML/XML/JSON data with (Turing-complete) XPath and XQuery.
+*   [xidel (⭐633)](https://github.com/benibela/xidel/) - Cli tool to filter, map and create HTML/XML/JSON data with (Turing-complete) XPath and XQuery.
 
 ## [25. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -293,11 +293,11 @@ git rev-parse --show-toplevel
 
 ### Date and Time
 
-*   [crontab (⭐86)](https://github.com/jshmrtn/crontab) - A Cron Expressions Parser, Composer & Date Candidate Finder.
+*   [crontab (⭐87)](https://github.com/jshmrtn/crontab) - A Cron Expressions Parser, Composer & Date Candidate Finder.
 
 ### ORM and Datamapping
 
-*   [Bolt.Sips (⭐253)](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir using the Bolt protocol.
+*   [Bolt.Sips (⭐256)](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir using the Bolt protocol.
 
 ### Testing
 

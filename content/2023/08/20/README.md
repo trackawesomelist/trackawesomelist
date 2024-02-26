@@ -10,13 +10,13 @@
 
 ### Libraries / Email
 
-*   [tweedegolf/mailcrab (⭐626)](https://github.com/tweedegolf/mailcrab) — Email test server for development.
+*   [tweedegolf/mailcrab (⭐629)](https://github.com/tweedegolf/mailcrab) — Email test server for development.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Kubek](https://kubek.seeroy.ru) - Web management panel for Minecraft servers. ([Source Code (⭐56)](https://github.com/seeroy/kubek-minecraft-dashboard)) `GPL-3.0` `Nodejs`
+*   [Kubek](https://kubek.seeroy.ru) - Web management panel for Minecraft servers. ([Source Code (⭐59)](https://github.com/seeroy/kubek-minecraft-dashboard)) `GPL-3.0` `Nodejs`
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -69,7 +69,6 @@
 
 ### Resources / API Specification
 
-*   [API Blueprint (⭐8.5k) (⭐8.6k)](https://github.com/apiaryio/api-blueprint) - A powerful high-level language for designing and documenting APIs that allows software engineers to easily collaborate and create efficient APIs.
 *   [GraphQL (⭐14k) (⭐14k)](https://github.com/graphql/graphql-spec) - A sophisticated query language and runtime for building efficient APIs that empowers engineers to retrieve data from existing systems with ease.
 
 ### Resources / Articles

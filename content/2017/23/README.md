@@ -132,7 +132,7 @@
 
 ### Web Technologies and Services
 
-*   [shinyjs (⭐714)](https://github.com/daattali/shinyjs) -  Easily improve the user interaction and user experience in your Shiny apps in seconds.
+*   [shinyjs (⭐718)](https://github.com/daattali/shinyjs) -  Easily improve the user interaction and user experience in your Shiny apps in seconds.
 
 ## [9. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
@@ -350,7 +350,7 @@ You'll discover the ins and outs of using the data-oriented R programming langua
 
 ### Contents / Utilities
 
-*   [pg-formatter (⭐71)](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier (Node.js).
+*   [pg-formatter (⭐76)](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier (Node.js).
 
 ## [34. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
@@ -390,8 +390,8 @@ You'll discover the ins and outs of using the data-oriented R programming langua
 
 ### Libraries
 
-*   [Javascript Parser Combinator (⭐137)](https://github.com/d-plaindoux/parsec) – Javascript parser combinator implementation inspired by the Haskell's Parsec
-*   [fun-task (⭐371)](https://github.com/rpominov/fun-task) – An abstraction for managing asynchronous code in JS. Tasks are similar to Promises with the key difference that Tasks can represent a computation while Promises can represent only the results of a computation. Ships with Flow type definitions.
+*   [Javascript Parser Combinator (⭐139)](https://github.com/d-plaindoux/parsec) – Javascript parser combinator implementation inspired by the Haskell's Parsec
+*   [fun-task (⭐372)](https://github.com/rpominov/fun-task) – An abstraction for managing asynchronous code in JS. Tasks are similar to Promises with the key difference that Tasks can represent a computation while Promises can represent only the results of a computation. Ships with Flow type definitions.
 *   [most (⭐3.5k)](https://github.com/cujojs/most) – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
 
 ### Functional Languages that Compile to JavaScript / Lenses
@@ -401,7 +401,7 @@ You'll discover the ins and outs of using the data-oriented R programming langua
 ### Programming Tools / Lenses
 
 *   [4.5 (⭐21)](https://github.com/TylorS/4.5) – A functional assertions library. If you prefer functional style APIs and practices in JavaScript, this library aims to solve this with functionally-oriented assertions that are lazy and monadic.
-*   [hm-def (⭐197)](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
+*   [hm-def (⭐196)](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
 
 ## [38. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 

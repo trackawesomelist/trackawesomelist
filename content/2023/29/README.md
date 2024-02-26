@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 17 - Jul 23, 2023
 
-54 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -67,17 +67,17 @@
 
 ### Tools / Community providers
 
-*   [terragrunt-atlantis-config (⭐524)](https://github.com/transcend-io/terragrunt-atlantis-config) - Generate Atlantis config for Terragrunt projects.
+*   [terragrunt-atlantis-config (⭐539)](https://github.com/transcend-io/terragrunt-atlantis-config) - Generate Atlantis config for Terragrunt projects.
 
 ### Self-hosted Terraform Platforms / IDE
 
-*   [cloud-concierge (⭐155)](https://github.com/dragondrop-cloud/cloud-concierge) - Open Source, codify unmanaged resources as Terraform, detect drift, and cloud cost and security analysis, delivered as a Pull Request.
+*   [cloud-concierge (⭐158)](https://github.com/dragondrop-cloud/cloud-concierge) - Open Source, codify unmanaged resources as Terraform, detect drift, and cloud cost and security analysis, delivered as a Pull Request.
 
 ## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
-*   [shoes (⭐136)](https://github.com/cfal/shoes) - A multi-protocol proxy server
+*   [shoes (⭐141)](https://github.com/cfal/shoes) - A multi-protocol proxy server
 
 ### Development tools / Embedded
 
@@ -119,7 +119,7 @@
 
 ### Wikipedia
 
-*   [Wikiless](https://wikiless.whateveritworks.org/) - A maintained fork of the free open source alternative Wikipedia front-end focused on privacy [Source Code (⭐129)](https://github.com/Metastem/wikiless). (Original instance: [wikiless.org](https://wikiless.org/), Wikiless repository has been removed by Codeberg, [follow news here](https://orenom.fi/))
+*   [Wikiless](https://wikiless.whateveritworks.org/) - A maintained fork of the free open source alternative Wikipedia front-end focused on privacy [Source Code (⭐128)](https://github.com/Metastem/wikiless). (Original instance: [wikiless.org](https://wikiless.org/), Wikiless repository has been removed by Codeberg, [follow news here](https://orenom.fi/))
 
 ### Utilities
 
@@ -178,7 +178,7 @@
 
 ### Photo / Image
 
-*   [zoom-image (⭐260)](https://github.com/willnguyen1312/zoom-image) - [demo](https://willnguyen1312.github.io/zoom-image/examples/react.html) - [docs](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic library to zoom image on the web
+*   [zoom-image (⭐264)](https://github.com/willnguyen1312/zoom-image) - [demo](https://willnguyen1312.github.io/zoom-image/examples/react.html) - [docs](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic library to zoom image on the web
 
 ## [22. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -219,11 +219,11 @@
 
 ### Libraries/Packages/Scripts / Python
 
-*   [Python package functime](https://docs.functime.ai/) - Machine learning Python package built on Polars for time-series predictions by [@neocortexdb](https://github.com/neocortexdb). According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !
+*   *   [Python package functime](https://docs.functime.ai/) - Machine learning Python package built on Polars for time-series predictions by [@neocortexdb](https://github.com/neocortexdb). According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !
 
 ### Libraries/Packages/Scripts / R
 
-*   [tidypolars for R (⭐113)](https://github.com/etiennebacher/tidypolars/) `tidypolars` package to use polars with tidyverse syntax.
+*   [tidypolars for R (⭐120)](https://github.com/etiennebacher/tidypolars/) `tidypolars` package to use polars with tidyverse syntax.
 
 ### Resources / Blog posts
 
@@ -238,23 +238,23 @@
 
 ### Related Awesome Lists / Telegram
 
-*   [awesome-anti-forensic (⭐522)](https://github.com/remiflavien1/awesome-anti-forensic) by @remiflavien1
-*   [awesome-ctf (⭐8.4k)](https://github.com/apsdehal/awesome-ctf) by @apsdehal
-*   [awesome-forensics (⭐3.1k)](https://github.com/Cugu/awesome-forensics) by @cugu
-*   [awesome-hacking (⭐11k)](https://github.com/carpedm20/awesome-hacking) by @carpedm20
-*   [awesome-honeypots (⭐7.3k)](https://github.com/paralax/awesome-honeypots) by @paralax
-*   [awesome-incident-response (⭐6.5k)](https://github.com/meirwah/awesome-incident-response) by @meirwah
-*   [awesome-lockpicking (⭐1.2k)](https://github.com/fabacab/awesome-lockpicking) by @fabacab
-*   [awesome-malware-analysis (⭐10k)](https://github.com/rshipp/awesome-malware-analysis) by @rshipp
-*   [awesome-pentest (⭐19k)](https://github.com/enaqx/awesome-pentest) by @enaqx
-*   [awesome-privacy (⭐4.8k)](https://github.com/Lissy93/awesome-privacy/) by @Lissy93
-*   [awesome-sec-talks (⭐3.8k)](https://github.com/PaulSec/awesome-sec-talks) by @PaulSec
-*   [awesome-security (⭐10k)](https://github.com/sbilly/awesome-security) by @sbilly
-*   [awesome-threat-intelligence (⭐6.5k)](https://github.com/hslatman/awesome-threat-intelligence) by @hslatman
-*   [infosec reference (⭐5.1k)](https://github.com/rmusser01/Infosec_Reference) by @rmusser01
-*   [personal-security-checklist (⭐13k)](https://github.com/Lissy93/personal-security-checklist) by @Lissy93
-*   [SecLists (⭐49k)](https://github.com/danielmiessler/SecLists) by @danielmiessler
-*   [security-list (⭐1.6k)](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
+*   [awesome-anti-forensic (⭐633)](https://github.com/remiflavien1/awesome-anti-forensic) by @remiflavien1
+*   [awesome-ctf (⭐8.9k)](https://github.com/apsdehal/awesome-ctf) by @apsdehal
+*   [awesome-forensics (⭐3.4k)](https://github.com/Cugu/awesome-forensics) by @cugu
+*   [awesome-hacking (⭐12k)](https://github.com/carpedm20/awesome-hacking) by @carpedm20
+*   [awesome-honeypots (⭐7.7k)](https://github.com/paralax/awesome-honeypots) by @paralax
+*   [awesome-incident-response (⭐6.9k)](https://github.com/meirwah/awesome-incident-response) by @meirwah
+*   [awesome-lockpicking (⭐1.3k)](https://github.com/fabacab/awesome-lockpicking) by @fabacab
+*   [awesome-malware-analysis (⭐11k)](https://github.com/rshipp/awesome-malware-analysis) by @rshipp
+*   [awesome-pentest (⭐20k)](https://github.com/enaqx/awesome-pentest) by @enaqx
+*   [awesome-privacy (⭐5.4k)](https://github.com/Lissy93/awesome-privacy/) by @Lissy93
+*   [awesome-sec-talks (⭐3.9k)](https://github.com/PaulSec/awesome-sec-talks) by @PaulSec
+*   [awesome-security (⭐11k)](https://github.com/sbilly/awesome-security) by @sbilly
+*   [awesome-threat-intelligence (⭐7k)](https://github.com/hslatman/awesome-threat-intelligence) by @hslatman
+*   [infosec reference (⭐5.3k)](https://github.com/rmusser01/Infosec_Reference) by @rmusser01
+*   [personal-security-checklist (⭐14k)](https://github.com/Lissy93/personal-security-checklist) by @Lissy93
+*   [SecLists (⭐52k)](https://github.com/danielmiessler/SecLists) by @danielmiessler
+*   [security-list (⭐1.7k)](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
 
 ## [28. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -339,17 +339,17 @@
 
 ### Testing
 
-*   [mneme (⭐58)](https://github.com/zachallaun/mneme) - Assertions that know how to update themselves, otherwise known as snapshot or approval testing.
+*   [mneme (⭐59)](https://github.com/zachallaun/mneme) - Assertions that know how to update themselves, otherwise known as snapshot or approval testing.
 
 ## [33. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Blockchain
 
-*   [cometbft (⭐465)](https://github.com/cometbft/cometbft) - A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm.
+*   [cometbft (⭐479)](https://github.com/cometbft/cometbft) - A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm.
 
 ### Goroutines
 
-*   [flowmatic (⭐228)](https://github.com/carlmjohnson/flowmatic) - Structured concurrency made easy.
+*   [flowmatic (⭐229)](https://github.com/carlmjohnson/flowmatic) - Structured concurrency made easy.
 
 ### Query Language
 
@@ -412,7 +412,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [microsoft/semantic-kernel (⭐16k)](https://github.com/microsoft/semantic-kernel): integrate cutting-edge LLM technology quickly and easily into your apps
+*   [microsoft/semantic-kernel (⭐17k)](https://github.com/microsoft/semantic-kernel): integrate cutting-edge LLM technology quickly and easily into your apps
 *   [CoPrompt](https://www.coprompt.io/login): platform for teams to use ChatGPT together
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
@@ -432,7 +432,7 @@
 
 ### Inbox: Text-to-speech (TTS) and avatars / Deforum
 
-*   [Shaunwei/RealChar (⭐5.6k)](https://github.com/Shaunwei/RealChar): AI Character/Companion in Realtime
+*   [Shaunwei/RealChar (⭐5.7k)](https://github.com/Shaunwei/RealChar): AI Character/Companion in Realtime
 *   [UneeQ Digital Humans](https://www.digitalhumans.com/): 3D character lib synced
 *   [AI Voice Generator](https://www.aivoicegenerator.org): free online AI-powered text-to-speech generator that creates voice overs with natural, realistic voices
 
@@ -449,7 +449,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Uguu (⭐723)](https://github.com/nokonoko/uguu) - Stores files and deletes after X amount of time. `MIT` `PHP`
+*   [Uguu (⭐732)](https://github.com/nokonoko/uguu) - Stores files and deletes after X amount of time. `MIT` `PHP`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
@@ -551,13 +551,13 @@
 
 ### Software / Plotter Control
 
-*   [Inkcut (⭐287)](https://github.com/inkcut/inkcut) - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
+*   [Inkcut (⭐291)](https://github.com/inkcut/inkcut) - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
 
 ## [46. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### 2D / Godot 3.2+
 
-*   [Pocket Broomball (⭐20)](https://github.com/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
+*   [Pocket Broomball (⭐22)](https://github.com/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
 
 ### 3D / Godot 3.2+
 
@@ -578,7 +578,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [docuseal (⭐4.5k)](https://github.com/docusealco/docuseal) - A platform to fill and sign digital documents (using Rails 7.0). - [:earth\_africa:](https://www.docuseal.co/)
+*   [docuseal (⭐4.7k)](https://github.com/docusealco/docuseal) - A platform to fill and sign digital documents (using Rails 7.0). - [:earth\_africa:](https://www.docuseal.co/)
 
 ## [49. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
@@ -639,48 +639,7 @@
 
 *   [Windows Docker Machine (⭐1k)](https://github.com/StefanScherer/windows-docker-machine) - Vagrant environment that creates a "Docker Machine" to work on your MacBook with Windows containers so that you can easily switch between Docker Desktop Linux containers and the Windows containers.
 
-## [53. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### 0 - Meta-Lists
-
-*   [Atariarchives.org](https://www.atariarchives.org) - Atariarchives.org makes books, information, and software for Atari and other classic computers available on the Web.
-*   [conceptf1.blogspot.com](https://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
-*   [Free Tech Books](https://www.freetechbooks.com)
-*   [IBM Redbooks](https://www.redbooks.ibm.com)
-*   [InfoQ Minibooks](https://www.infoq.com/minibooks/)
-*   [InTech: Computer and Information Science](https://www.intechopen.com/subjects/9)
-*   [O'Reilly's Open Books Project](https://www.oreilly.com/openbook/)
-*   [Red Gate Books](https://www.red-gate.com/hub/books/)
-*   [TechBeamers.com](https://www.techbeamers.com)
-*   [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
-*   [Tutorials Point](https://www.tutorialspoint.com)
-
-### Algorithms & Data Structures
-
-*   [Algorithmic Graph Theory](https://code.google.com/p/graphbook/) - David Joyner, Minh Van Nguyen, David Phillips (PDF)
-*   [Algorithms Course Materials](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
-*   [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](https://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
-*   [Matters Computational: Ideas, Algorithms, Source Code](https://www.jjj.de/fxt/fxtbook.pdf) - Jörg Arndt (PDF)
-*   [Open Data Structures: An Introduction](https://opendatastructures.org) - Pat Morin
-*   [Planning Algorithms](http://lavalle.pl/planning/) -  Steven M. LaValle
-*   [Text Algorithms](https://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) -  Maxime Crochemore, Wojciech Rytter (PDF)
-*   [The Algorithm Design Manual](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM) - Steven S. Skiena (HTML)
-*   [The Design of Approximation Algorithms](https://www.designofapproxalgs.com/book.pdf) - David P. Williamson, David B. Shmoys (PDF)
-*   [Think Complexity (2nd Edition)](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey
-
-### Cloud Computing
-
-*   [Kubernetes Hardening Guidance](https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF) - NSA, CISA (PDF)
-
-### Data Science
-
-*   [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) -  Melanie Walsh
-
-### Graphics Programming
-
-*   [Notes for a Computer Graphics Programming Course](https://dokumen.tips/documents/computer-grafics-notes.html) - Steve Cunningham (PDF)
-
-## [54. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [53. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Application Skeleton
 

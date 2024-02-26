@@ -10,19 +10,17 @@
 
 ### Resources / Tutorials & workshops
 
-*   [Fast String Processing with Polars — Scam Emails Dataset](https://towardsdatascience.com/fast-string-processing-with-polars-scam-emails-dataset-fcf7054a929a) - A tutorial using Polars to  implement a text processing pipeline process by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐36)](https://github.com/aruberts/tutorials/tree/main/metaflow/fraud_email).
+*   [Fast String Processing with Polars — Scam Emails Dataset](https://towardsdatascience.com/fast-string-processing-with-polars-scam-emails-dataset-fcf7054a929a) - A tutorial using Polars to  implement a text processing pipeline process by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐38)](https://github.com/aruberts/tutorials/tree/main/metaflow/fraud_email).
 
 ### Resources / Blog posts
 
-*   [Lightning-fast queries with Polars ](https://dev.to/astrojuanlu/lightning-fast-queries-with-polars-1bp3) - Another blog post that is a good introduction to Polars by [@astrojuanlu](https://github.com/astrojuanlu).
 *   [Polars – Laziness and SQL Context.](https://www.confessionsofadataguy.com/polars-laziness-and-sql-context/) - A blog post that presents two good reasons to adopt Polars :  Lazy and SQL Context by [@danielbeach](https://github.com/danielbeach).
-*   [Exploring Polars - The Lightning-Fast DataFrame Library in Python ](https://medium.com/@HeCanThink/exploring-polars-the-lightning-fast-dataframe-library-in-python-2d01aa332f70) - A blog post on the basics of Polars by [@mddas](https://github.com/mddas).
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Standard CLI
 
-*   [readline (⭐61)](https://github.com/reeflective/readline) Shell library with modern and easy to use UI features.
+*   [readline (⭐62)](https://github.com/reeflective/readline) Shell library with modern and easy to use UI features.
 
 ## [3. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -121,7 +119,7 @@
 
 ### Command-Line Productivity
 
-*   [broot (⭐9.3k)](https://github.com/Canop/broot) - A better way to navigate directories
+*   [broot (⭐9.8k)](https://github.com/Canop/broot) - A better way to navigate directories
 *   [tere (⭐1.6k)](https://github.com/mgunyho/tere) - A faster alternative to cd + ls
 
 ---

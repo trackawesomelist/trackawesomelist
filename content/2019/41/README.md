@@ -135,7 +135,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Homer (⭐8.3k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `Docker/K8S/Nodejs`
+*   [Homer (⭐8.4k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `Docker/K8S/Nodejs`
 
 ## [15. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -338,7 +338,7 @@
 
 ### Form Components / Date / Time picker
 
-*   [react-timezone-select (⭐190)](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
+*   [react-timezone-select (⭐194)](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
 
 ### Form Components / Input Types
 
@@ -346,7 +346,7 @@
 
 ### Device Input / Mouse Events
 
-*   [react-hook-mighty-mouse (⭐115)](https://github.com/mkosir/react-hook-mighty-mouse) - [demo](https://mkosir.github.io/react-hook-mighty-mouse) - Hook that tracks mouse events on selected element.
+*   [react-hook-mighty-mouse (⭐116)](https://github.com/mkosir/react-hook-mighty-mouse) - [demo](https://mkosir.github.io/react-hook-mighty-mouse) - Hook that tracks mouse events on selected element.
 
 ### Form Logic / Mouse Events
 
@@ -849,11 +849,11 @@
 
 ### Games
 
-*   [Binbo (⭐114)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
+*   [Binbo (⭐115)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
 
 ### Miscellaneous
 
-*   [Apex (⭐276)](https://github.com/bjro/apex) - Awesome Print for Elixir.
+*   [Apex (⭐275)](https://github.com/bjro/apex) - Awesome Print for Elixir.
 
 ## [56. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -884,7 +884,7 @@
 
 ### Email
 
-*   [Sender](https://www.sender.net) Up to 15 000 emails/month, up to 2,500 subscribers
+*   [Sender](https://www.sender.net) Up to 15,000 emails/month, up to 2,500 subscribers
 
 ## [61. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 

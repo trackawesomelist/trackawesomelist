@@ -95,7 +95,7 @@ git format-patch -M upstream..topic
 *   [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 *   [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 *   [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
-*   [Ledger (⭐4.7k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
+*   [Ledger (⭐5k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 
 ## [5. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
 
@@ -351,7 +351,7 @@ git format-patch -M upstream..topic
 
 ### Apps / Widgets
 
-*   [Wagtail-Geo-Widget (⭐128)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
+*   [Wagtail-Geo-Widget (⭐129)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
 
 ## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -371,11 +371,11 @@ git format-patch -M upstream..topic
 
 ### Command-line tools
 
-*   [gron (⭐12k)](https://github.com/tomnomnom/gron) - Convert a JSON file into discrete assignments that are greppable.
+*   [gron (⭐13k)](https://github.com/tomnomnom/gron) - Convert a JSON file into discrete assignments that are greppable.
 
 ### Libraries
 
-*   [circe (⭐2.3k)](https://github.com/circe/circe) - Yet another JSON library for Scala.
+*   [circe (⭐2.5k)](https://github.com/circe/circe) - Yet another JSON library for Scala.
 
 ## [17. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -628,7 +628,7 @@ git format-patch -M upstream..topic
 
 ### Coding Style Guides
 
-*   [Fundamental Ruby (⭐460)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
+*   [Fundamental Ruby (⭐463)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
 
 ## [38. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -698,16 +698,16 @@ git format-patch -M upstream..topic
 
 *   [Leaflet](http://rstudio.github.io/leaflet/) - One of the most popular JavaScript libraries interactive maps.
 *   [CRAN Task View: Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html)- Spatial Analysis related resources.
-*   [ggmap (⭐751)](https://github.com/dkahle/ggmap) -  Plotting maps in R with ggplot2.
-*   [REmap (⭐254)](https://github.com/Lchiffon/REmap) - R interface to the JavaScript library ECharts for interactive map data visualization.
+*   [ggmap (⭐755)](https://github.com/dkahle/ggmap) -  Plotting maps in R with ggplot2.
+*   [REmap (⭐255)](https://github.com/Lchiffon/REmap) - R interface to the JavaScript library ECharts for interactive map data visualization.
 *   [sp](https://edzer.github.io/sp/) - Classes and Methods for Spatial Data.
 *   [rgeos](https://cran.r-project.org/web/packages/rgeos/index.html) - Interface to Geometry Engine - Open Source
 *   [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html) - Bindings for the Geospatial Data Abstraction Library
 *   [maptools](https://cran.r-project.org/web/packages/maptools/index.html) - Tools for Reading and Handling Spatial Objects
-*   [gstat (⭐182)](https://github.com/edzer/gstat) - Spatial and spatio-temporal geostatistical modelling, prediction and simulation.
+*   [gstat (⭐185)](https://github.com/edzer/gstat) - Spatial and spatio-temporal geostatistical modelling, prediction and simulation.
 *   [spacetime (⭐69)](https://github.com/edzer/spacetime) - R classes and methods for spatio-temporal data.
 *   [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html) - Provides color schemes for maps
-*   [spatstat (⭐173)](https://github.com/spatstat/spatstat) - Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests
+*   [spatstat (⭐178)](https://github.com/spatstat/spatstat) - Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests
 *   [spdep](https://cran.r-project.org/web/packages/spdep/index.html) - Spatial Dependence: Weighting Schemes, Statistics and Models
 
 ### HTML Widgets

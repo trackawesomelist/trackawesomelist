@@ -78,7 +78,7 @@
 
 ### Database Drivers/Clients
 
-*   [rocksdb.cr (⭐36)](https://github.com/maiha/rocksdb.cr) - RocksDB client
+*   [rocksdb.cr (⭐37)](https://github.com/maiha/rocksdb.cr) - RocksDB client
 
 ## [3. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 

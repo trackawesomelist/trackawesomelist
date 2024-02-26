@@ -26,7 +26,7 @@
 
 ### Downloading and Serving / Directory Navigation
 
-*   [vesper (⭐201)](https://github.com/chris-rock/vesper) - 🍸Vesper is a HTTP framework for Bash/Unix Shell
+*   [vesper (⭐203)](https://github.com/chris-rock/vesper) - 🍸Vesper is a HTTP framework for Bash/Unix Shell
 
 ## [3. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
@@ -360,7 +360,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐3.8k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP/Docker`
+*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐3.9k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP/Docker`
 
 ## [26. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -444,7 +444,7 @@
 
 ### Database Tools
 
-*   [Database Consistency (⭐947)](https://github.com/djezzzl/database_consistency) - An easy way to check that application constraints and database constraints are in sync.
+*   [Database Consistency (⭐960)](https://github.com/djezzzl/database_consistency) - An easy way to check that application constraints and database constraints are in sync.
 
 ## [36. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 

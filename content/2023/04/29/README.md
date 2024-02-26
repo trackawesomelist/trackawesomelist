@@ -86,7 +86,7 @@
 
 ### Image Segmentation / Deforum
 
-*   [AudioGPT | arxiv](https://arxiv.org/abs/2304.12995): Understanding and Generating Speech, Music, Sound, and Talking Head [\[code\] (⭐9.6k)](https://github.com/AIGC-Audio/AudioGPT) [\[demo\]](https://huggingface.co/spaces/AIGC-Audio/AudioGPT)
+*   [AudioGPT | arxiv](https://arxiv.org/abs/2304.12995): Understanding and Generating Speech, Music, Sound, and Talking Head [\[code\] (⭐9.7k)](https://github.com/AIGC-Audio/AudioGPT) [\[demo\]](https://huggingface.co/spaces/AIGC-Audio/AudioGPT)
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

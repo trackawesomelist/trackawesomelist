@@ -146,15 +146,15 @@
 ### Customization / Directory Navigation
 
 *   [bullet-train-oh-my-zsh-theme (⭐2.8k)](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain\_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
-*   [mysql-colorize (⭐95)](https://github.com/zpm-zsh/mysql-colorize) -  Colorization for mysql comand-line client
+*   [mysql-colorize (⭐98)](https://github.com/zpm-zsh/mysql-colorize) -  Colorization for mysql comand-line client
 
 ### Shell Script Development / Directory Navigation
 
-*   [crash (⭐58)](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
+*   [crash (⭐60)](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
 
 ### Shell Script Development / See also
 
-*   [awesome-fish (⭐3.7k)](https://github.com/jorgebucaran/awsm.fish)
+*   [awesome-fish (⭐3.8k)](https://github.com/jorgebucaran/awsm.fish)
 *   [awesome-zsh (⭐14k)](https://github.com/unixorn/awesome-zsh-plugins)
 
 ## [8. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)

@@ -41,7 +41,7 @@
 ### Development tools / Formatters
 
 *   [dprint (⭐2.8k)](https://github.com/dprint/dprint) — A pluggable and configurable code formatting platform [![build badge](https://github.com/dprint/dprint/workflows/CI/badge.svg)](https://github.com/dprint/dprint/actions?query=workflow%3ACI)
-*   [Prettier Rust (⭐154)](https://github.com/jinxdash/prettier-plugin-rust) — An opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
+*   [Prettier Rust (⭐155)](https://github.com/jinxdash/prettier-plugin-rust) — An opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
 
 ## [7. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 15, 2022
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,17 +12,7 @@
 
 *   [ostralyan/scribe.nvim (⭐21)](https://github.com/ostralyan/scribe.nvim) - Take notes, easily.
 
-## [2. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Security & Privacy
-
-*   [Practical Cryptography for Developer](https://cryptobook.nakov.com) - Svetlin Nakov (GitBook) (:construction: *in process*)
-
-### Software Architecture
-
-*   [Designing Event-Driven Systems. Concepts and Patterns for Streaming Services with Apache Kafka](https://assets.confluent.io/m/7a91acf41502a75e/original/20180328-EB-Confluent_Designing_Event_Driven_Systems.pdf) - Ben Stopford (PDF)
-
-## [3. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [2. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Tutorials
 
@@ -184,21 +174,21 @@
 
 *   [Awesome Music Production (⭐863)](https://github.com/ad-si/awesome-music-production)
 
-## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fd (⭐3)](https://github.com/aubreypwd/zsh-plugin-fd) - Use [fzf (⭐57k)](https://github.com/junegunn/fzf) to browse directories.
-*   [plenv (⭐0)](https://github.com/TwoPizza9621536/zsh-plenv) - Plugin for the perl [plenv (⭐504)](https://github.com/tokuhirom/plenv) version manager based on jenv.
-*   [pyenv (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-pyenv) - Based on the oh-my-zsh [pyenv (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/pyenv) plugin with modifications from the rbenv and jenv plugins.
+*   [fd (⭐3)](https://github.com/aubreypwd/zsh-plugin-fd) - Use [fzf (⭐58k)](https://github.com/junegunn/fzf) to browse directories.
+*   [plenv (⭐0)](https://github.com/TwoPizza9621536/zsh-plenv) - Plugin for the perl [plenv (⭐505)](https://github.com/tokuhirom/plenv) version manager based on jenv.
+*   [pyenv (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-pyenv) - Based on the oh-my-zsh [pyenv (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/pyenv) plugin with modifications from the rbenv and jenv plugins.
 
-## [5. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+## [4. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### [Capawesome plugins](https://capawesome.io/)
 
 *   [Managed configuration (⭐5)](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
 
-## [6. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+## [5. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### App Releases / Board
 
@@ -216,25 +206,25 @@
 
 *   [Sorting Puzzle](https://www.dong.digital/sortingpuzzle/) - [Android](https://play.google.com/store/apps/details?id=digital.dong.sortingpuzzle), [iOS](https://apps.apple.com/app/sorting-puzzle/id1641001729) - Color sorting game reinvented: move and combine to solve puzzles. By [Dong Digital](https://www.dong.digital "Dong Digital").
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [nickhristov/krakdown (⭐13)](https://github.com/nickhristov/krakdown) - A native markdown parser written in Kotlin.
 
-## [8. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+## [7. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
 ### Websites
 
 *   CtrlAlt.cc - <https://ctrlalt.cc/>
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Managed Data Services
 
 *   [codehooks.io](https://codehooks.io/) — JavaScript serverless API/backend and database service with functions, Mongdb-ish queries, key/value lookups, a job system, and a message queue. One instance free per project, 5000 records, 5000 calls/month free, three developers included. No credit-card required.
 
-## [10. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+## [9. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 
 ### Examples
 

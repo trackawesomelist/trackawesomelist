@@ -28,7 +28,7 @@
 
 ### Plugins
 
-*   💼 [Fluid Type (⭐287)](https://github.com/davidhellmann/tailwindcss-fluid-type) - Adds fluid type (`font-size`) utilities.
+*   💼 [Fluid Type (⭐296)](https://github.com/davidhellmann/tailwindcss-fluid-type) - Adds fluid type (`font-size`) utilities.
 
 ## [5. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Platforms
 
-*   [Integration (⭐278)](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
+*   [Integration (⭐288)](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
 
 ## [7. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -112,7 +112,7 @@
 
 ### Component Collections / Material Design
 
-*   [refine (⭐20k)](https://github.com/pankod/refine) - [demo](https://example.refine.dev) - [docs](https://refine.dev/docs) - Build data-intensive applications in no time. It ships with Ant Design System, an enterprise-level UI toolkit.
+*   [refine (⭐22k)](https://github.com/pankod/refine) - [demo](https://example.refine.dev) - [docs](https://refine.dev/docs) - Build data-intensive applications in no time. It ships with Ant Design System, an enterprise-level UI toolkit.
 
 ---
 

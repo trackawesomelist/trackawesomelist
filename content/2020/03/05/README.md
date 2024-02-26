@@ -67,7 +67,7 @@
 
 ### UI Layout / Syntax Highlight
 
-*   [muuri-react (⭐334)](https://github.com/Paol-imi/muuri-react) - [demo](https://1czo5.csb.app/) - [docs](https://paol-imi.github.io/muuri-react) - Responsive, sortable, filterable and draggable grid layouts.
+*   [muuri-react (⭐335)](https://github.com/Paol-imi/muuri-react) - [demo](https://1czo5.csb.app/) - [docs](https://paol-imi.github.io/muuri-react) - Responsive, sortable, filterable and draggable grid layouts.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -148,7 +148,7 @@
 
 ### Related
 
-*   [StumbleUponAwesome (⭐314)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
+*   [StumbleUponAwesome (⭐324)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 
 ## [19. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -160,7 +160,7 @@
 
 ### Math
 
-*   [Klein (⭐714)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
+*   [Klein (⭐717)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
 
 ---
 

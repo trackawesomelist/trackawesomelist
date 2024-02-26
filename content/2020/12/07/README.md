@@ -39,11 +39,11 @@
 
 ### Community
 
-*   [Terraform PDF Doc (⭐60)](https://github.com/dohsimpson/terraform-doc-pdf) :skull:
+*   [Terraform PDF Doc (⭐61)](https://github.com/dohsimpson/terraform-doc-pdf) :skull:
 
 ### Tools / Community providers
 
-*   [astro (⭐429)](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command. :ghost:
+*   [astro (⭐431)](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command. :ghost:
 *   [blast radius (⭐1.9k)](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :skull:
 *   [json2hcl (⭐475)](https://github.com/kvz/json2hcl) - Convert JSON to HCL and vice versa. :ghost:
 *   [para (⭐56)](https://github.com/paraterraform/para) - The missing 3rd-party plugin manager and a "Swiss army knife" for Terraform/Terragrunt - just 1 tool to facilitate all workflows. :skull:
@@ -561,7 +561,7 @@
 
 ### Image processing
 
-*   [celestine (⭐88)](https://github.com/celestinecr/celestine) - Create SVG images using a DSL
+*   [celestine (⭐89)](https://github.com/celestinecr/celestine) - Create SVG images using a DSL
 
 ## [15. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 

@@ -67,7 +67,7 @@
 ### Concurrency
 
 *   [concurrentqueue (⭐8.6k)](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
-*   [readerwriterqueue (⭐3.3k)](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
+*   [readerwriterqueue (⭐3.4k)](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
 
 ### GUI
 

@@ -215,7 +215,7 @@
 *   [Intrigue Core (⭐1.3k)](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
 *   [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 *   [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
-*   [OsintStalker (⭐566)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
+*   [OsintStalker (⭐599)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 *   [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 
 ## [14. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
@@ -504,7 +504,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [Flow Dashboard (⭐1.6k)](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
+*   [Flow Dashboard (⭐1.7k)](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
 
 ## [31. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 

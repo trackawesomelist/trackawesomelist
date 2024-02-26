@@ -60,8 +60,8 @@
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-beep (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/beep) - System beeps on errors and warnings.
-*   [@rollup/plugin-inject (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/inject) - Scan modules for global variables and injects import statements where necessary.
+*   [@rollup/plugin-beep (⭐3.5k)](https://github.com/rollup/plugins/tree/master/packages/beep) - System beeps on errors and warnings.
+*   [@rollup/plugin-inject (⭐3.5k)](https://github.com/rollup/plugins/blob/master/packages/inject) - Scan modules for global variables and injects import statements where necessary.
 
 ## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

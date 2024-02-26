@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 10 - Oct 16, 2022
 
-59 awesome lists updated this week.
+58 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -133,7 +133,7 @@
 
 ### Libraries
 
-*   [ts-pattern (⭐9.4k)](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference. Pattern Matching is a code-branching technique coming from FP languages.
+*   [ts-pattern (⭐10k)](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference. Pattern Matching is a code-branching technique coming from FP languages.
 
 ### Libraries / Data Structures
 
@@ -144,7 +144,7 @@
 ### Applications / Emulators
 
 *   GameMaker
-    *   [OpenGMK (⭐246)](https://github.com/OpenGMK/OpenGMK) — OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
+    *   [OpenGMK (⭐252)](https://github.com/OpenGMK/OpenGMK) — OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
 
 ## [13. GoBooks](/content/dariubs/GoBooks/week/README.md)
 
@@ -181,7 +181,7 @@
 ### Inbox: Stable Diffusion / Multi-agents
 
 *   [NovelAI Improvements on Stable Diffusion | by NovelAI | Oct, 2022 | Medium](https://blog.novelai.net/novelai-improvements-on-stable-diffusion-e10d38db82ac)
-*   [ashawkey/stable-dreamfusion (⭐7.5k)](https://github.com/ashawkey/stable-dreamfusion): A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
+*   [ashawkey/stable-dreamfusion (⭐7.6k)](https://github.com/ashawkey/stable-dreamfusion): A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 
 ## [18. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -332,13 +332,13 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [activeWorkflow (⭐777)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents (using Rails 6.0).
+*   [activeWorkflow (⭐785)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents (using Rails 6.0).
 *   [airCasting (⭐59)](https://github.com/HabitatMap/AirCasting) - A platform for recording, mapping, and sharing health and environmental data using your smartphone (using Rails 6.1). - [:earth\_africa:](https://www.habitatmap.org/aircasting)
-*   [alaveteli (⭐375)](https://github.com/mysociety/alaveteli) - A platform for making public freedom of information requests - using Rails 7.0 - [:earth\_africa:](https://alaveteli.org)
-*   [api.rss (⭐344)](https://github.com/davidesantangelo/api.rss) - A RSS feed conversion (to API) app (using Rails 6.0).
-*   [autolab (⭐721)](https://github.com/autolab/Autolab) - A course management app (using Rails 6.0). - [:earth\_africa:](https://autolabproject.com/)
+*   [alaveteli (⭐378)](https://github.com/mysociety/alaveteli) - A platform for making public freedom of information requests - using Rails 7.0 - [:earth\_africa:](https://alaveteli.org)
+*   [api.rss (⭐345)](https://github.com/davidesantangelo/api.rss) - A RSS feed conversion (to API) app (using Rails 6.0).
+*   [autolab (⭐722)](https://github.com/autolab/Autolab) - A course management app (using Rails 6.0). - [:earth\_africa:](https://autolabproject.com/)
 *   [beatstream (⭐126)](https://github.com/Darep/Beatstream) - A music streaming app - using Rails 3.2
-*   [bike\_index (⭐257)](https://github.com/bikeindex/bike_index) - A bike registry tracking app (using Rails 6.0). - [:earth\_africa:](https://bikeindex.org)
+*   [bike\_index (⭐259)](https://github.com/bikeindex/bike_index) - A bike registry tracking app (using Rails 6.0). - [:earth\_africa:](https://bikeindex.org)
 *   [calagator (⭐428)](https://github.com/calagator/calagator) - A community calendaring app (using Rails 5.2).
 *   [campo (⭐443)](https://github.com/chloerei/campo) - A forum app (using Rails 4.1).
 *   [chatwoot (⭐18k)](https://github.com/chatwoot/chatwoot) - A simple and elegant live chat software (using Rails 6.1).
@@ -347,10 +347,10 @@
 *   [crabgrass-core](https://0xacab.org/liberate/crabgrass) - A collaboration platform for activist groups (using Rails 5.2).
 *   [crowdtiltOpen (⭐597)](https://github.com/Crowdtilt/CrowdtiltOpen) - A crowdfunding platform - using Rails 6.1
 *   [cw-ovp (⭐26)](https://github.com/x1wins/CW-OVP) - video packaging to \*.m3u8 for HLS (HTTP Live Streaming) with FFMPEG on website (using Rails 6.0).
-*   [danbooru (⭐2k)](https://github.com/danbooru/danbooru) - A taggable image board app (using Rails 7.0).
+*   [danbooru (⭐2.1k)](https://github.com/danbooru/danbooru) - A taggable image board app (using Rails 7.0).
 *   [dgidb (⭐93)](https://github.com/dgidb/dgidb) - A drug gene interaction platform - using Rails 6.0
 *   [diaspora (⭐13k)](https://github.com/diaspora/diaspora) - A social networking app - using Rails 6.1 - [:earth\_africa:](https://diasporafoundation.org)
-*   [discourse (⭐39k)](https://github.com/discourse/discourse) - A platform for community discussion (using Rails 7.0). - [:earth\_africa:](https://try.discourse.org/)
+*   [discourse (⭐40k)](https://github.com/discourse/discourse) - A platform for community discussion (using Rails 7.0). - [:earth\_africa:](https://try.discourse.org/)
 *   [ekylibre (⭐393)](https://github.com/ekylibre/ekylibre) - A farm management app (using Rails 5.0).
 *   [expertiza (⭐179)](https://github.com/expertiza/expertiza) - A learning material sharing app (using Rails 5.1).
 *   [fairmondo (⭐109)](https://github.com/fairmondo/fairmondo) - A marketplace app (using Rails 5.1). - [:earth\_africa:](https://www.fairmondo.de)
@@ -358,19 +358,19 @@
 *   [feedbin (⭐3.3k)](https://github.com/feedbin/feedbin) - A RSS reader app (using Rails 7.0). - [:earth\_africa:](https://feedbin.com)
 *   [forem (⭐21k)](https://github.com/forem/forem) - Social platform app specialized for web development (using Rails 7.0). - [:earth\_africa:](https://www.forem.com)
 *   [fromthepage (⭐166)](https://github.com/benwbrum/fromthepage) - A wiki-like app for crowdsourcing transcription of handwritten documents (using Rails 6.0). - [:earth\_africa:](https://www.fromthepage.com/)
-*   [gitlabhq (⭐23k)](https://github.com/gitlabhq/gitlabhq) - A code collaboration app (using Rails 6.1).
+*   [gitlabhq (⭐24k)](https://github.com/gitlabhq/gitlabhq) - A code collaboration app (using Rails 6.1).
 *   [growstuff (⭐415)](https://github.com/Growstuff/growstuff) - A data management app for food gardeners (using Rails 6.1). - [:earth\_africa:](https://www.growstuff.org/)
-*   [hackershare (⭐535)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers (using Rails 7.0). - [:earth\_africa:](https://hackershare.dev/en)
-*   [hitobito (⭐331)](https://github.com/hitobito/hitobito) - An event organization app (using Rails 6.1). - [:earth\_africa:](https://hitobito.com/en)
-*   [inaturalist (⭐607)](https://github.com/inaturalist/inaturalist) - A community app for nature and related stuff (using Rails 6.1). - [:earth\_africa:](https://www.inaturalist.org)
+*   [hackershare (⭐540)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers (using Rails 7.0). - [:earth\_africa:](https://hackershare.dev/en)
+*   [hitobito (⭐333)](https://github.com/hitobito/hitobito) - An event organization app (using Rails 6.1). - [:earth\_africa:](https://hitobito.com/en)
+*   [inaturalist (⭐609)](https://github.com/inaturalist/inaturalist) - A community app for nature and related stuff (using Rails 6.1). - [:earth\_africa:](https://www.inaturalist.org)
 *   [lobsters (⭐3.9k)](https://github.com/lobsters/lobsters) - A link aggregation app (using Rails 7.0). - [:earth\_africa:](https://lobste.rs)
 *   [loomio (⭐2.3k)](https://github.com/loomio/loomio) - A collaborative decision-making app (using Rails 6.1). - [:earth\_africa:](https://www.loomio.com/)
-*   [openFarm (⭐1.4k)](https://github.com/openfarmcc/OpenFarm) - A database for information about farming and gardening (using Rails 5.2). -
+*   [openFarm (⭐1.5k)](https://github.com/openfarmcc/OpenFarm) - A database for information about farming and gardening (using Rails 5.2). -
 *   [openproject (⭐7.9k)](https://github.com/opf/openproject) - A project management app (using Rails 7.0). - [:earth\_africa:](https://www.openproject.org)
 *   [openstreetmap-website (⭐2k)](https://github.com/openstreetmap/openstreetmap-website) - A map viewing app (using Rails 7.0). - [:earth\_africa:](https://www.openstreetmap.org)
 *   [otwarchive (⭐1.2k)](https://github.com/otwcode/otwarchive) - A social networking app for fans - using Rails 6.0 - [:earth\_africa:](https://archiveofourown.org)
-*   [passwordPusher (⭐1.5k)](https://github.com/pglombardo/PasswordPusher) - A password delivery app (using Rails 6.1). - [:earth\_africa:](https://pwpush.com)
-*   [planningalerts-app (⭐86)](https://github.com/openaustralia/planningalerts) - A planned applications tracking app (using Rails 6.1). - [:earth\_africa:](https://www.planningalerts.org.au)
+*   [passwordPusher (⭐1.6k)](https://github.com/pglombardo/PasswordPusher) - A password delivery app (using Rails 6.1). - [:earth\_africa:](https://pwpush.com)
+*   [planningalerts-app (⭐87)](https://github.com/openaustralia/planningalerts) - A planned applications tracking app (using Rails 6.1). - [:earth\_africa:](https://www.planningalerts.org.au)
 *   [popHealth (⭐126)](https://github.com/pophealth/popHealth) - A population health reporting app (using Rails 4.1).
 *   [publify (⭐1.8k)](https://github.com/publify/publify) - A blogging app (using Rails 6.1).
 *   [quant (⭐138)](https://github.com/jdjkelly/quant) - A personal health tracker (using Rails 4.1).
@@ -384,7 +384,7 @@
 
 ### Gems / Other external resources
 
-*   [rails-mermaid\_erd (⭐78)](https://github.com/koedame/rails-mermaid_erd) - A gem to interactively generate entity-relationship diagram in image or Markdown format. [:red\_circle:](https://rubygems.org/gems/rails-mermaid_erd)
+*   [rails-mermaid\_erd (⭐80)](https://github.com/koedame/rails-mermaid_erd) - A gem to interactively generate entity-relationship diagram in image or Markdown format. [:red\_circle:](https://rubygems.org/gems/rails-mermaid_erd)
 
 ## [32. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -409,13 +409,13 @@
 ### Projects
 
 *   [note-to-yew (⭐2)](https://github.com/oovm/note-to-yew) - Convert your markups into Yew macro online, which is also made by Yew.
-*   [yew-d3-example (⭐22)](https://github.com/ivanschuetz/yew-d3-example) - Showing a d3 chart with Yew.
+*   [yew-d3-example (⭐23)](https://github.com/ivanschuetz/yew-d3-example) - Showing a d3 chart with Yew.
 *   [zzhack (⭐319)](https://github.com/zzhack-stack/zzhack) - A personal blog, based on Rust & Yew, [Live Demo](https://www.zzhack.fun/).
-*   [tchatche.rs (⭐156)](https://github.com/nag763/tchatchers) - A Websocket chat based application built in Yew and Axum.
+*   [tchatche.rs (⭐160)](https://github.com/nag763/tchatchers) - A Websocket chat based application built in Yew and Axum.
 
 ### Crates / Utils
 
-*   [Yew-Template (⭐37)](https://github.com/INSAgenda/yew-template) - A crate for separating HTML and Rust code when using Yew.
+*   [Yew-Template (⭐38)](https://github.com/INSAgenda/yew-template) - A crate for separating HTML and Rust code when using Yew.
 
 ## [36. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -644,15 +644,15 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fd (⭐3)](https://github.com/aubreypwd/zsh-plugin-fd) - Use [fzf (⭐57k)](https://github.com/junegunn/fzf) to browse directories.
-*   [plenv (⭐0)](https://github.com/TwoPizza9621536/zsh-plenv) - Plugin for the perl [plenv (⭐504)](https://github.com/tokuhirom/plenv) version manager based on jenv.
-*   [pyenv (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-pyenv) - Based on the oh-my-zsh [pyenv (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/pyenv) plugin with modifications from the rbenv and jenv plugins.
+*   [fd (⭐3)](https://github.com/aubreypwd/zsh-plugin-fd) - Use [fzf (⭐58k)](https://github.com/junegunn/fzf) to browse directories.
+*   [plenv (⭐0)](https://github.com/TwoPizza9621536/zsh-plenv) - Plugin for the perl [plenv (⭐505)](https://github.com/tokuhirom/plenv) version manager based on jenv.
+*   [pyenv (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-pyenv) - Based on the oh-my-zsh [pyenv (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/pyenv) plugin with modifications from the rbenv and jenv plugins.
 *   [senv (⭐0)](https://github.com/joepvd/senv) - Report presence of sensitive environment variables in the prompt
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [lets-cli (⭐2)](https://github.com/lets-cli/lets-zsh-plugin) - Add autocompletion for [lets (⭐72)](https://github.com/lets-cli/lets) cli task runner.
-*   [ssh (sunlei) (⭐92)](https://github.com/sunlei/zsh-ssh) - Better host completion for `ssh`.
+*   [ssh (sunlei) (⭐98)](https://github.com/sunlei/zsh-ssh) - Better host completion for `ssh`.
 *   [ssh (zpm-zsh) (⭐18)](https://github.com/zpm-zsh/ssh) - Add host completion for `ssh`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -713,21 +713,21 @@
 ### Libraries/Frameworks / Misc
 
 *   [nickhristov/krakdown (⭐13)](https://github.com/nickhristov/krakdown) - A native markdown parser written in Kotlin.
-*   [cretz/asmble (⭐604)](https://github.com/cretz/asmble) - Compile WebAssembly to JVM and other WASM tools.
+*   [cretz/asmble (⭐607)](https://github.com/cretz/asmble) - Compile WebAssembly to JVM and other WASM tools.
 
 ### Projects / Android
 
 *   [deva666/NewsReader (⭐23)](https://github.com/deva666/NewsReader) - Android app for reading news
-*   [zt64/Hyperion (⭐554)](https://github.com/zt64/Hyperion) - An alternative YouTube front-end using modern Android architecture and Material 3
+*   [zt64/Hyperion (⭐555)](https://github.com/zt64/Hyperion) - An alternative YouTube front-end using modern Android architecture and Material 3
 
 ### Android / Libraries
 
 *   [skydoves/balloon (⭐3.5k)](https://github.com/skydoves/balloon) - A lightweight popup like tooltips, fully customizable with arrow and animations.
-*   [ChuckerTeam/chucker (⭐3.5k)](https://github.com/ChuckerTeam/chucker) - An on-device network inspection tool for Android.
+*   [ChuckerTeam/chucker (⭐3.6k)](https://github.com/ChuckerTeam/chucker) - An on-device network inspection tool for Android.
 
 ### Android / Multiplatform
 
-*   [Reedyuk/blue-falcon (⭐293)](https://github.com/Reedyuk/blue-falcon) - A unified Bluetooth library for Android and iOS.
+*   [Reedyuk/blue-falcon (⭐295)](https://github.com/Reedyuk/blue-falcon) - A unified Bluetooth library for Android and iOS.
 *   [cossacklabs/themis (⭐1.8k)](https://github.com/cossacklabs/themis) - Multi-language framework for solving typical data security tasks: storage and messaging encryption, authentication, works for 14 languages.
 
 ### Android / Boilerplate
@@ -738,7 +738,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [MetricFu (⭐620)](https://github.com/metricfu/metric_fu) :warning: — MetricFu is a set of tools to provide reports that show which parts of your code might need extra work.
+*   [MetricFu (⭐620)](https://github.com/metricfu/metric_fu) — MetricFu is a set of tools to provide reports that show which parts of your code might need extra work.
 
 ### Other / [Other](#other-1)
 
@@ -760,39 +760,39 @@
 
 ### Software / Automation
 
-*   [SiteInspector](https://www.getsiteinspector.com/) - Web-based tool for catching spelling errors, grammatical errors, broken links, and other errors on websites. ([Source Code (⭐363)](https://github.com/siteinspector/siteinspector)) `AGPL-3.0` `Docker`
+*   [SiteInspector](https://www.getsiteinspector.com/) - Web-based tool for catching spelling errors, grammatical errors, broken links, and other errors on websites. ([Source Code (⭐368)](https://github.com/siteinspector/siteinspector)) `AGPL-3.0` `Docker`
 
 ### Software / Software Development - Low Code
 
-*   [Motor Admin](https://www.getmotoradmin.com/) - No-code admin panel and business intelligence software - search, create, update, and delete data entries, create custom actions, and build reports. ([Source Code (⭐1.8k)](https://github.com/motor-admin/motor-admin)) `AGPL-3.0` `Ruby/Docker`
+*   [Motor Admin](https://www.getmotoradmin.com/) - No-code admin panel and business intelligence software - search, create, update, and delete data entries, create custom actions, and build reports. ([Source Code (⭐1.9k)](https://github.com/motor-admin/motor-admin)) `AGPL-3.0` `Ruby/Docker`
 
 ## [51. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Community plugins
 
-*   [File opener (⭐52)](https://github.com/capacitor-community/file-opener) - The plugin is able to open a file given the mimeType and the file uri.
+*   [File opener (⭐53)](https://github.com/capacitor-community/file-opener) - The plugin is able to open a file given the mimeType and the file uri.
 
 ### [Capgo plugins](https://capgo.app/)
 
-*   [Crisp (⭐6)](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
+*   [Crisp (⭐7)](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
 *   [Flash (⭐11)](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
 *   [Mute (⭐3)](https://github.com/Cap-go/capacitor-mute) - Detect silent mode and mute audio.
 *   [Native Geocoder (⭐18)](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
-*   [Screen recorder (⭐6)](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
-*   [In app Browser (⭐36)](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent and ability to clear cookie.
+*   [Screen recorder (⭐5)](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
+*   [In app Browser (⭐42)](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent and ability to clear cookie.
 
 ### [Capawesome plugins](https://capawesome.io/)
 
 *   [Background tasks (⭐51)](https://github.com/capawesome-team/capacitor-background-task) - A native plugin for running background tasks.
-*   [Badge (⭐70)](https://github.com/capawesome-team/capacitor-badge) - Access and update the badge number of the app icon.
+*   [Badge (⭐72)](https://github.com/capawesome-team/capacitor-badge) - Access and update the badge number of the app icon.
 *   Firebase
-    *   [Analytics (⭐304)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/analytics/README.md) - Firebase plugins for Capacitor. Supports Android, iOS and the web.
-    *   [App (⭐304)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/app/README.md) - Capacitor plugin for Firebase App.
-    *   [Auth (⭐304)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/authentication/README.md) - Handle the authentication on Native layer and propagate the token to the web view layer.
-    *   [Performance (⭐304)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/performance/README.md) - Capacitor plugin for Firebase Performance Monitoring.
-    *   [Crashlytics (⭐304)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Capacitor plugin for Firebase Crashlytics.
+    *   [Analytics (⭐324)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/analytics/README.md) - Firebase plugins for Capacitor. Supports Android, iOS and the web.
+    *   [App (⭐324)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/app/README.md) - Capacitor plugin for Firebase App.
+    *   [Auth (⭐324)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/authentication/README.md) - Handle the authentication on Native layer and propagate the token to the web view layer.
+    *   [Performance (⭐324)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/performance/README.md) - Capacitor plugin for Firebase Performance Monitoring.
+    *   [Crashlytics (⭐324)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Capacitor plugin for Firebase Crashlytics.
 *   [Screen orientation (⭐28)](https://github.com/capawesome-team/capacitor-screen-orientation) - Lock/unlock the screen orientation.
-*   [Native updates (⭐115)](https://github.com/capawesome-team/capacitor-app-update) - Capacitor plugin that assists with app updates.
+*   [Native updates (⭐116)](https://github.com/capawesome-team/capacitor-app-update) - Capacitor plugin that assists with app updates.
 *   [File picker (⭐63)](https://github.com/capawesome-team/capacitor-file-picker) - Capacitor plugin that allows the user to select a file.
 *   [Managed configuration (⭐5)](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
 *   [Photo editor (⭐9)](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
@@ -811,12 +811,12 @@
 
 ### Continuous Integration
 
-*   [gotestfmt (⭐451)](https://github.com/GoTestTools/gotestfmt) - go test output for humans.
-*   [woodpecker (⭐3.4k)](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
+*   [gotestfmt (⭐454)](https://github.com/GoTestTools/gotestfmt) - go test output for humans.
+*   [woodpecker (⭐3.5k)](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 
 ### Date and Time
 
-*   [go-anytime (⭐13)](https://github.com/ijt/go-anytime) - Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance.
+*   [go-anytime (⭐14)](https://github.com/ijt/go-anytime) - Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance.
 
 ### Distributed Systems
 
@@ -828,7 +828,7 @@
 
 ### Goroutines
 
-*   [go-actor (⭐97)](https://github.com/vladopajic/go-actor) - A tiny library for writing concurrent programs using actor model.
+*   [go-actor (⭐101)](https://github.com/vladopajic/go-actor) - A tiny library for writing concurrent programs using actor model.
 
 ### Utilities
 
@@ -843,7 +843,7 @@
 
 ### Templates / Electron
 
-*   [Vitron (⭐13)](https://github.com/tada5hi/vitron) - Build beautiful (win, linux, mac) desktop apps for modern web projects with vite and electron.
+*   [Vitron (⭐12)](https://github.com/tada5hi/vitron) - Build beautiful (win, linux, mac) desktop apps for modern web projects with vite and electron.
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -859,7 +859,7 @@
 *   [vite-plugin-mock-data (⭐51)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-mock-data) - Provides a simple way to mock data.
 *   [vite-plugin-reverse-proxy (⭐51)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-reverse-proxy) - Sometimes we have to redirect scripts on production environment to debug and solve problems, the plugin will transform the script to be served with the `text/javascript` MIME type to `module` MIME type.
 *   [vite-plugin-patch-env (⭐8)](https://github.com/KeJunMao/vite-plugin-patch-env) - Patch environment variables from the system into Vite.
-*   [vite-plugin-conditional-compile (⭐52)](https://github.com/KeJunMao/vite-plugin-conditional-compile) - Conditional compilation syntax based on environment variables.
+*   [vite-plugin-conditional-compile (⭐54)](https://github.com/KeJunMao/vite-plugin-conditional-compile) - Conditional compilation syntax based on environment variables.
 
 ## [55. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
@@ -1079,45 +1079,7 @@
 
 *   [ComputerCraft](https://computercraft.cc) - Adds computers based on Lua (5.2 and 5.3) into Minecraft.
 
-## [58. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Artificial Intelligence
-
-*   [Getting Started with Artificial Intelligence , 2nd Edition](https://www.ibm.com/downloads/cas/OJ6WX73V) - Tom Markiewicz, Josh Zheng (PDF)
-*   [Graph Representational Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) - William L. Hamilton
-
-### Blockchain
-
-*   [chain.courses](https://web.archive.org/web/20220127020549/https://chain.courses/) - James Gan, Rishub Kumar *(:card\_file\_box: archived)*
-
-### Compiler Design
-
-*   [Compiler Design in C (1990)](https://holub.com/goodies/compiler/compilerDesignInC.pdf) - Allen Holub, Prentice Hall (PDF)
-
-### Machine Learning
-
-*   [Foundations of Machine Learning, Second Edition](https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/Cover) - Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar
-
-### Mathematics
-
-*   [Category Theory for the Sciences](https://math.mit.edu/~dspivak/CT4S.pdf) - David I. Spivak (PDF)
-*   [Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) - Charles M. Grinstead, J. Laurie Snell (PDF)
-
-### Parallel Programming
-
-*   [High Performance Computing Training](https://hpc.llnl.gov/documentation/tutorials) (LLNL materials)
-*   [Introduction to Parallel Computing](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial) - Blaise Barney
-
-### Security & Privacy
-
-*   [Practical Cryptography for Developer](https://cryptobook.nakov.com) - Svetlin Nakov (GitBook) (:construction: *in process*)
-*   [The Joy of Cryptography (2021)](https://joyofcryptography.com/pdf/book.pdf) - Mike Rosulek (PDF)
-
-### Software Architecture
-
-*   [Designing Event-Driven Systems. Concepts and Patterns for Streaming Services with Apache Kafka](https://assets.confluent.io/m/7a91acf41502a75e/original/20180328-EB-Confluent_Designing_Event_Driven_Systems.pdf) - Ben Stopford (PDF)
-
-## [59. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [58. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### P2P
 

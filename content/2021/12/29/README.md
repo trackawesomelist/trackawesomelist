@@ -29,7 +29,7 @@
 
 ### Plugins
 
-*   🎨🧬 [Themer (⭐230)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
+*   🎨🧬 [Themer (⭐243)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

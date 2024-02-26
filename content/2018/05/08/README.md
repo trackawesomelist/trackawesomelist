@@ -10,7 +10,7 @@
 
 ### Applications / Directory Navigation
 
-*   [gcalcli (⭐3.1k)](https://github.com/insanum/gcalcli) - Google Calendar command line interface
+*   [gcalcli (⭐3.2k)](https://github.com/insanum/gcalcli) - Google Calendar command line interface
 
 ## [2. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 

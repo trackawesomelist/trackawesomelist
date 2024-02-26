@@ -216,7 +216,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Online Books
 
-*   [Computer Graphics from Scratch](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html) -  A raytracing and rasterization textbook that teaches you how OpenGL and DirectX works.
+*   [Computer Graphics from Scratch](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html) - A raytracing and rasterization textbook that teaches you how OpenGL and DirectX works.
 
 ### Math / Other
 

@@ -16,7 +16,7 @@
 
 ### Related lists
 
-*   [Awesome Audio DSP (⭐647)](https://github.com/BillyDM/awesome-audio-dsp) - A curated list of audio DSP and plugin development resources.
+*   [Awesome Audio DSP (⭐697)](https://github.com/BillyDM/awesome-audio-dsp) - A curated list of audio DSP and plugin development resources.
 
 ## [3. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Miscellaneous
 
-*   [Steam Deck (⭐127)](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
+*   [Steam Deck (⭐171)](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
 
 ## [11. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -118,12 +118,12 @@
 
 ### Software / Automation
 
-*   [Bolt](https://www.puppet.com/community/open-source/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable. ([Source Code (⭐473)](https://github.com/puppetlabs/bolt)) `Apache-2.0` `Ruby`
+*   [Bolt](https://www.puppet.com/community/open-source/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable. ([Source Code (⭐474)](https://github.com/puppetlabs/bolt)) `Apache-2.0` `Ruby`
 
 ### Software / Build and software organization tools
 
-*   [Environment Modules](https://cea-hpc.github.io/modules/) - Environment Modules provides for the dynamic modification of a user's environment via modulefiles. ([Source Code (⭐619)](https://github.com/cea-hpc/modules)) `GPL-2.0` `Tcl`
-*   [Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem. ([Source Code (⭐436)](https://github.com/TACC/Lmod)) `MIT` `Lua`
+*   [Environment Modules](https://cea-hpc.github.io/modules/) - Environment Modules provides for the dynamic modification of a user's environment via modulefiles. ([Source Code (⭐625)](https://github.com/cea-hpc/modules)) `GPL-2.0` `Tcl`
+*   [Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem. ([Source Code (⭐437)](https://github.com/TACC/Lmod)) `MIT` `Lua`
 
 ## [14. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 

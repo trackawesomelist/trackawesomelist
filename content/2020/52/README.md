@@ -77,17 +77,17 @@
 
 ### Data Formats
 
-*   [vroom (⭐598)](https://github.com/r-lib/vroom) - Fast reading of delimited files.
+*   [vroom (⭐603)](https://github.com/r-lib/vroom) - Fast reading of delimited files.
 *   [arrow <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://arrow.apache.org/docs/r/) - An interface to the Arrow C++ library.
 *   [feather <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐2.7k)](https://github.com/wesm/feather) - Fast, interoperable binary data frame storage for Python, R, and more powered by Apache Arrow.
 *   [fst <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/qinwf/awesome-R/blob/master/README.md/www.fstpackage.org/fst/) - Lightning Fast Serialization of Data Frames for R.
-*   [haven (⭐413)](https://github.com/hadley/haven) - Improved methods to import SPSS, Stata and SAS files in R.
-*   [jsonlite (⭐361)](https://github.com/jeroenooms/jsonlite) - A robust and quick way to parse JSON files in R.
-*   [qs (⭐360)](https://github.com/traversc/qs) - Quick serialization of R objects.
+*   [haven (⭐415)](https://github.com/hadley/haven) - Improved methods to import SPSS, Stata and SAS files in R.
+*   [jsonlite (⭐364)](https://github.com/jeroenooms/jsonlite) - A robust and quick way to parse JSON files in R.
+*   [qs (⭐363)](https://github.com/traversc/qs) - Quick serialization of R objects.
 *   [readxl <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://readxl.tidyverse.org/) - Read excel files (.xls and .xlsx) into R.
-*   [readr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐975)](https://github.com/hadley/readr) - A fast and friendly way to read tabular data into R.
-*   [rio (⭐579)](https://github.com/leeper/rio) - A Swiss-Army Knife for Data I/O.
-*   [readODS (⭐51)](https://github.com/chainsawriot/readODS/) - Read OpenDocument Spreadsheets into R as data.frames.
+*   [readr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐984)](https://github.com/hadley/readr) - A fast and friendly way to read tabular data into R.
+*   [rio (⭐580)](https://github.com/leeper/rio) - A Swiss-Army Knife for Data I/O.
+*   [readODS (⭐53)](https://github.com/chainsawriot/readODS/) - Read OpenDocument Spreadsheets into R as data.frames.
 *   [RcppTOML (⭐32)](https://github.com/eddelbuettel/rcpptoml) - Rcpp Bindings to C++ parser for TOML files.
 *   [writexl](https://docs.ropensci.org/writexl/) - Portable, light-weight data frame to xlsx exporter for R.
 *   [yaml (⭐152)](https://github.com/viking/r-yaml) - R package for converting objects to and from YAML.
@@ -114,7 +114,7 @@
 
 ### Notification
 
-*   [react-hot-toast (⭐8.8k)](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
+*   [react-hot-toast (⭐8.9k)](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
 
 ## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -206,17 +206,17 @@
 
 ### CLI
 
-*   [cpp-terminal (⭐431)](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. \[MIT]
+*   [cpp-terminal (⭐436)](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. \[MIT]
 *   [FTXUI (⭐5.8k)](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface. \[MIT]
 *   [imtui (⭐2.7k)](https://github.com/ggerganov/imtui) - Immediate Mode Text-based User Interface. \[MIT]
 
 ### Graphics
 
-*   [C-Turtle (⭐55)](https://github.com/walkerje/C-Turtle) - A C++11 header-only turtle graphics library acting as a CImg wrapper. \[MIT]
+*   [C-Turtle (⭐56)](https://github.com/walkerje/C-Turtle) - A C++11 header-only turtle graphics library acting as a CImg wrapper. \[MIT]
 
 ### Multimedia
 
-*   [libass (⭐841)](https://github.com/libass/libass) - Portable subtitle renderer for the ASS/SSA subtitle format. \[ISC]
+*   [libass (⭐848)](https://github.com/libass/libass) - Portable subtitle renderer for the ASS/SSA subtitle format. \[ISC]
 
 ### Networking
 
@@ -228,12 +228,12 @@
 
 ### Serialization
 
-*   [Bitsery (⭐941)](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library. \[MIT]
-*   [FastBinaryEncoding (⭐763)](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. \[MIT]
+*   [Bitsery (⭐957)](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library. \[MIT]
+*   [FastBinaryEncoding (⭐768)](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. \[MIT]
 
 ### Web Application Framework
 
-*   [oat++ (⭐7.2k)](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. \[Apache-2.0] [website](https://oatpp.io/)
+*   [oat++ (⭐7.3k)](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. \[Apache-2.0] [website](https://oatpp.io/)
 
 ### Online Compiler
 
@@ -462,7 +462,7 @@
 
 ### Projects
 
-*   [wasm-2048 (⭐151)](https://github.com/dev-family/wasm-2048) - 2048 game implemented with Rust and Yew and compiled to Wasm.
+*   [wasm-2048 (⭐150)](https://github.com/dev-family/wasm-2048) - 2048 game implemented with Rust and Yew and compiled to Wasm.
 
 ### Crates / Components
 
@@ -473,7 +473,7 @@
 
 ### Hardware
 
-*   [LIDAR (⭐708)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
+*   [LIDAR (⭐736)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
 
 ## [36. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
 

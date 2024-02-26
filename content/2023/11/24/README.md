@@ -16,7 +16,7 @@
 
 ### Miscellaneous
 
-*   [scnlib (⭐892)](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. \[Apache-2.0] [website](https://v1.scnlib.dev/)
+*   [scnlib (⭐895)](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. \[Apache-2.0] [website](https://v1.scnlib.dev/)
 
 ## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

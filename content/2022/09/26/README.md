@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 26, 2022
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -15,20 +15,14 @@
 *   [H2O Wave (⭐3.5k)](https://github.com/h2oai/wave) *(label: good first issue)* <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
 *   [Node Efficientnet (⭐244)](https://github.com/ntedgi/node-efficientnet) *(label: good first issue)* <br> EfficientNet Image Recognition model for Node JS ( written with tensorflow\.js ).
 
-## [2. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Networking
-
-*   [Linux IP Stacks Commentary](https://www.satchell.net/ipstacks/) - Stephen Satchell, H. B. J. Clifford (HTML) *(:construction: in process)*
-
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Network programming
 
 *   HTTP
-    *   [Hurl (⭐7.8k)](https://github.com/Orange-OpenSource/hurl) — Run and test HTTP requests with plain text and libcurl [![CI](https://github.com/Orange-OpenSource/hurl/workflows/CI/badge.svg)](https://github.com/Orange-OpenSource/hurl/actions)
+    *   [Hurl (⭐10k)](https://github.com/Orange-OpenSource/hurl) — Run and test HTTP requests with plain text and libcurl [![CI](https://github.com/Orange-OpenSource/hurl/workflows/CI/badge.svg)](https://github.com/Orange-OpenSource/hurl/actions)
 
-## [4. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
+## [3. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
 ### :trophy: Tutorials / :gear: Schema Visualization Tools
 
@@ -38,7 +32,7 @@
 
 *   [Neighborhood Pet Manager (⭐7)](https://github.com/AustinGil/npm)
 
-## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5) / Diagnostics
 
@@ -326,7 +320,7 @@
 *   [m00qek/plugin-template.nvim (⭐97)](https://github.com/m00qek/plugin-template.nvim) - A plugin template that setups test infrastructure and GitHub Actions.
 *   [ellisonleao/nvim-plugin-template (⭐184)](https://github.com/ellisonleao/nvim-plugin-template) - Another neovim plugin template, using GitHub's template feature.
 
-## [6. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [5. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Archives and primary sources / Global
 
@@ -340,13 +334,13 @@
 
 *   [National Archives](https://www.archives.gov/) - The official archives regarding veteran records, founding documents and presidential libraries of the United States.
 
-## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Articles / Others
 
 *   [WebAssembly Steals the ASP.NET Core Show in .NET 7 RC1](https://visualstudiomagazine.com/articles/2022/09/20/aspnet-core-updates.aspx) - September 20, 2022 - WebAssembly, the open source tech that makes client-side Blazor work, was the star of the ASP.NET Core show in the new [ASP.NET Core updates in .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-1/).
 
-## [8. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Command-Line Tools / Discovery
 
@@ -365,13 +359,13 @@
 
 *   [MyNixOS](https://mynixos.com/) - Graphical editor for Nix flakes. Create and manage configurations and modules for NixOS and Nix home-manager. Rather a Nix generator than a Nix editor, because it does not allow to import Nix files.
 
-## [9. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+## [8. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### Non-English Content / Simulation
 
 *   [Spanish (Español) (⭐874)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
 
-## [10. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [9. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### UI Libraries
 

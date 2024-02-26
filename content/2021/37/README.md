@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 13 - Sep 19, 2021
 
-63 awesome lists updated this week.
+64 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -80,7 +80,7 @@
 
 ### Username Check / Telegram
 
-*   [Snoop (⭐2.2k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
+*   [Snoop (⭐2.6k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
 
 ## [10. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
@@ -122,9 +122,8 @@
 
 ### Software / Communication - Email - Mail Delivery Agents
 
-*   [Cyrus IMAP](https://www.cyrusimap.org/) - Email (IMAP/POP3), contacts and calendar server. ([Source Code (⭐500)](https://github.com/cyrusimap/cyrus-imapd)) `BSD-3-Clause-Attribution` `C`
-*   [Dovecot](https://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind. ([Source Code (⭐871)](https://github.com/dovecot/core)) `MIT/LGPL-2.1` `C/deb`
-*   [MailForm (⭐95)](https://github.com/Feuerhamster/mailform) - Lightweight self-hosted email service for contact forms and more (alternative to Formspree and SendGrid). `Apache-2.0` `Nodejs/Docker`
+*   [Cyrus IMAP](https://www.cyrusimap.org/) - Email (IMAP/POP3), contacts and calendar server. ([Source Code (⭐502)](https://github.com/cyrusimap/cyrus-imapd)) `BSD-3-Clause-Attribution` `C`
+*   [Dovecot](https://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind. ([Source Code (⭐874)](https://github.com/dovecot/core)) `MIT/LGPL-2.1` `C/deb`
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
@@ -133,51 +132,51 @@
 ### Software / E-commerce
 
 *   [Aimeos](https://aimeos.org/) - Ultra fast, Open Source e-commerce framework for building custom online shops, market places and complex B2B applications scaling to billions of items with Laravel. ([Demo](https://demo.aimeos.org/), [Source Code (⭐3.6k)](https://github.com/aimeos/aimeos)) `LGPL-3.0/MIT` `PHP`
-*   [Bagisto](https://bagisto.com/en/) - Leading Laravel open source e-commerce framework with multi-inventory sources, taxation, localization, dropshipping and more exciting features. ([Demo](https://demo.bagisto.com/), [Source Code (⭐9.3k)](https://github.com/bagisto/bagisto)) `MIT` `PHP`
-*   [CoreShop](https://www.coreshop.org) - CoreShop is a e-commerce plugin for Pimcore. ([Source Code (⭐262)](https://github.com/coreshop/CoreShop)) `GPL-3.0` `PHP`
+*   [Bagisto](https://bagisto.com/en/) - Leading Laravel open source e-commerce framework with multi-inventory sources, taxation, localization, dropshipping and more exciting features. ([Demo](https://demo.bagisto.com/), [Source Code (⭐9.7k)](https://github.com/bagisto/bagisto)) `MIT` `PHP`
+*   [CoreShop](https://www.coreshop.org) - CoreShop is a e-commerce plugin for Pimcore. ([Source Code (⭐264)](https://github.com/coreshop/CoreShop)) `GPL-3.0` `PHP`
 *   [Drupal Commerce](https://drupalcommerce.org) - Drupal Commerce is a popular e-commerce module for Drupal CMS, with support for dozens of payment, shipping, and shopping related modules. ([Source Code](https://git.drupalcode.org/project/commerce)) `GPL-2.0` `PHP`
 *   [Microweber](https://microweber.com/) - Drag and Drop CMS and online shop. ([Demo](https://demo.microweber.org/), [Source Code (⭐2.9k)](https://github.com/microweber/microweber)) `Apache-2.0` `PHP`
 *   [OpenCart](https://www.opencart.com) - Free open source shopping cart solution. ([Source Code (⭐7.1k)](https://github.com/opencart/opencart)) `GPL-3.0` `PHP`
-*   [PrestaShop](https://www.prestashop.com/) - PrestaShop offers a free, open-source and fully scalable e-commerce solution. ([Demo](https://demo.prestashop.com/), [Source Code (⭐7.6k)](https://github.com/PrestaShop/PrestaShop)) `OSL-3.0` `PHP`
+*   [PrestaShop](https://www.prestashop.com/) - PrestaShop offers a free, open-source and fully scalable e-commerce solution. ([Demo](https://demo.prestashop.com/), [Source Code (⭐7.7k)](https://github.com/PrestaShop/PrestaShop)) `OSL-3.0` `PHP`
 *   [Pretix](https://pretix.eu/) - Django based ticket sales platform for events. ([Source Code](https://github.com/pretix)) `Apache-2.0` `Python`
-*   [Solidus](https://solidus.io/) - A free, open-source ecommerce platform that gives you complete control over your store. ([Demo](http://demo.solidus.io/), [Source Code (⭐4.8k)](https://github.com/solidusio/solidus)) `BSD-3-Clause` `Ruby/Docker`
+*   [Solidus](https://solidus.io/) - A free, open-source ecommerce platform that gives you complete control over your store. ([Demo](http://demo.solidus.io/), [Source Code (⭐4.9k)](https://github.com/solidusio/solidus)) `BSD-3-Clause` `Ruby/Docker`
 *   [Spree Commerce](https://spreecommerce.org) - Spree is a complete, modular & API-driven open source e-commerce solution for Ruby on Rails. ([Demo](https://new-ux.spreecommerce.org/), [Source Code (⭐13k)](https://github.com/spree/spree)) `BSD-3-Clause` `Ruby`
 *   [Sylius](https://sylius.com) - Symfony2 powered open source full-stack platform for eCommerce. ([Demo](https://sylius.com/try/), [Source Code (⭐7.6k)](https://github.com/Sylius/Sylius)) `MIT` `PHP`
-*   [Thelia](https://thelia.net/) - Thelia is an open source and flexible e-commerce solution. ([Demo](https://demo.thelia.net/), [Source Code (⭐824)](https://github.com/thelia/thelia)) `LGPL-3.0` `PHP`
+*   [Thelia](https://thelia.net/) - Thelia is an open source and flexible e-commerce solution. ([Demo](https://demo.thelia.net/), [Source Code (⭐826)](https://github.com/thelia/thelia)) `LGPL-3.0` `PHP`
 *   [WooCommerce](https://woocommerce.com/) - WordPress based e-commerce solution. ([Source Code (⭐8.9k)](https://github.com/woocommerce/woocommerce)) `GPL-3.0` `PHP`
 
 ### Software / Feed Readers
 
-*   [Feedpushr (⭐308)](https://github.com/ncarlier/feedpushr) - Powerful RSS aggregator, able to transform and send articles to many outputs. Single binary, extensible with plugins. `GPL-3.0` `Go/Docker`
-*   [Goeland (⭐150)](https://github.com/slurdge/goeland) - Reads RSS/Atom feeds and filter/digest them to create beautiful emails. `MIT` `Go`
-*   [RSS2EMail (⭐324)](https://github.com/rss2email/rss2email) - Fetches RSS/Atom-feeds and pushes new Content to any email-receiver, supports OPML. `GPL-2.0` `Python/deb`
+*   [Feedpushr (⭐311)](https://github.com/ncarlier/feedpushr) - Powerful RSS aggregator, able to transform and send articles to many outputs. Single binary, extensible with plugins. `GPL-3.0` `Go/Docker`
+*   [Goeland (⭐153)](https://github.com/slurdge/goeland) - Reads RSS/Atom feeds and filter/digest them to create beautiful emails. `MIT` `Go`
+*   [RSS2EMail (⭐334)](https://github.com/rss2email/rss2email) - Fetches RSS/Atom-feeds and pushes new Content to any email-receiver, supports OPML. `GPL-2.0` `Python/deb`
 
 ### Software / File Transfer - Object Storage & File Servers
 
-*   [SFTPGo (⭐7.6k)](https://github.com/drakkan/sftpgo) - Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. `AGPL-3.0` `Go/deb/Docker`
+*   [SFTPGo (⭐7.7k)](https://github.com/drakkan/sftpgo) - Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. `AGPL-3.0` `Go/deb/Docker`
 *   [Zenko CloudServer](https://www.zenko.io/cloudserver) - Zenko CloudServer, an open-source implementation of a server handling the Amazon S3 protocol. ([Source Code (⭐1.6k)](https://github.com/scality/cloudserver)) `Apache-2.0` `Docker/Nodejs`
 
 ### Software / Recipe Management
 
-*   [RecipeSage (⭐485)](https://github.com/julianpoy/recipesage) - A recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL. ([Demo](https://recipesage.com)) `AGPL-3.0` `Nodejs`
+*   [RecipeSage (⭐496)](https://github.com/julianpoy/recipesage) - A recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL. ([Demo](https://recipesage.com)) `AGPL-3.0` `Nodejs`
 
 ### Software / Self-hosting Solutions
 
-*   [Ansible-NAS (⭐2.8k)](https://github.com/DaveStephens/ansible-nas) - Build a full-featured home server with this playbook and an Ubuntu box. `MIT` `Ansible/Docker`
+*   [Ansible-NAS (⭐2.9k)](https://github.com/DaveStephens/ansible-nas) - Build a full-featured home server with this playbook and an Ubuntu box. `MIT` `Ansible/Docker`
 *   [Cloudbox](https://cloudbox.works) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server. ([Source Code (⭐2.3k)](https://github.com/Cloudbox/Cloudbox)) `GPL-3.0` `Shell/Ansible`
-*   [DietPi](https://dietpi.com/) - Minimal Debian OS optimized for single-board computers, which allows you to easily install and manage several services for selfhosting at home. ([Source Code (⭐4.3k)](https://github.com/MichaIng/DietPi)) `GPL-2.0` `Shell`
+*   [DietPi](https://dietpi.com/) - Minimal Debian OS optimized for single-board computers, which allows you to easily install and manage several services for selfhosting at home. ([Source Code (⭐4.4k)](https://github.com/MichaIng/DietPi)) `GPL-2.0` `Shell`
 *   [DockSTARTer](https://dockstarter.com/) - DockSTARTer helps you get started with home server apps running in Docker. ([Source Code (⭐2.1k)](https://github.com/GhostWriters/DockSTARTer)) `MIT` `Shell`
 *   [HomelabOS](https://homelabos.com) - Your very own offline-first privacy-centric open-source data-center. Deploy over 100 services with a few commands. ([Source Code](https://gitlab.com/NickBusey/HomelabOS)) `MIT` `Docker`
 *   [OpenMediaVault](https://www.openmediavault.org/) - OpenMediaVault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. ([Source Code (⭐4.4k)](https://github.com/openmediavault/openmediavault)) `GPL-3.0` `PHP`
 *   [Sandstorm](https://sandstorm.io/) - Personal server for running self-hosted apps easily and securely. ([Demo](https://demo.sandstorm.io/), [Source Code (⭐6.6k)](https://github.com/sandstorm-io/sandstorm)) `Apache-2.0` `C++/Shell`
-*   [Syncloud](https://syncloud.org/) - Your own online file storage, social network or email server. ([Source Code (⭐377)](https://github.com/syncloud/platform)) `GPL-3.0` `Go/Shell`
+*   [Syncloud](https://syncloud.org/) - Your own online file storage, social network or email server. ([Source Code (⭐380)](https://github.com/syncloud/platform)) `GPL-3.0` `Go/Shell`
 *   [UBOS](https://ubos.net/) - Linux distro that runs on indie boxes (personal servers and IoT devices). Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud, WordPress, etc., and other features. `GPL-3.0` `Perl`
-*   [xsrv](https://xsrv.readthedocs.io/) - Install and manage self-hosted services/applications, on your own server(s). ([Source Code (⭐276)](https://github.com/nodiscc/xsrv)) `GPL-3.0` `Ansible/Shell`
+*   [xsrv](https://xsrv.readthedocs.io/) - Install and manage self-hosted services/applications, on your own server(s). ([Source Code (⭐275)](https://github.com/nodiscc/xsrv)) `GPL-3.0` `Ansible/Shell`
 *   [YunoHost](https://yunohost.org/) - Server operating system aiming to make self-hosting accessible to everyone. ([Demo](https://yunohost.org/#/try), [Source Code](https://github.com/YunoHost)) `AGPL-3.0` `Python/Shell`
 
 ### Software / URL Shorteners
 
-*   [Blink](https://docs.blink.rest) - Easy-to-host, SSO-integrated, CDN-powered link shortener (+decoupled analytics) for teams. ([Source Code (⭐230)](https://github.com/JaneJeon/blink)) `AGPL-3.0` `Nodejs/Docker`
+*   [Blink](https://docs.blink.rest) - Easy-to-host, SSO-integrated, CDN-powered link shortener (+decoupled analytics) for teams. ([Source Code (⭐232)](https://github.com/JaneJeon/blink)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [17. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
@@ -207,15 +206,15 @@
 
 ### Platforms
 
-*   [Linux (⭐4k)](https://github.com/inputsh/awesome-linux#readme)
+*   [Linux (⭐4.1k)](https://github.com/inputsh/awesome-linux#readme)
     *   [Containers (⭐1.6k)](https://github.com/Friz-zy/awesome-linux-containers#readme)
-    *   [eBPF (⭐3.6k)](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
-    *   [Arch-based Projects (⭐374)](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
-    *   [AppImage (⭐341)](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
+    *   [eBPF (⭐3.7k)](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
+    *   [Arch-based Projects (⭐384)](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
+    *   [AppImage (⭐350)](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
 
 ### Miscellaneous
 
-*   [WebXR (⭐169)](https://github.com/msub2/awesome-webxr#readme) - Enables immersive virtual reality and augmented reality content on the web.
+*   [WebXR (⭐182)](https://github.com/msub2/awesome-webxr#readme) - Enables immersive virtual reality and augmented reality content on the web.
 
 ## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -237,7 +236,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [Pasteboard Viewer (⭐575)](https://github.com/sindresorhus/Pasteboard-Viewer) - Inspect the system pasteboards. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sindresorhus/Pasteboard-Viewer) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1499215709)
+*   [Pasteboard Viewer (⭐582)](https://github.com/sindresorhus/Pasteboard-Viewer) - Inspect the system pasteboards. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sindresorhus/Pasteboard-Viewer) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1499215709)
 
 ### Utilities / Productivity
 
@@ -345,7 +344,7 @@
 
 ### Projects / Godot 3.2+
 
-*   [Lorien (⭐4.4k)](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
+*   [Lorien (⭐4.5k)](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
 
 ## [31. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
@@ -888,12 +887,12 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-federation (⭐1.8k)](https://github.com/originjs/vite-plugin-federation) - Support Module Federation, Inspired by Webpack Module Federation feature.
-*   [vite-plugin-wasm-pack (⭐194)](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack (⭐5.7k)](https://github.com/rustwasm/wasm-pack), the simple way.
+*   [vite-plugin-federation (⭐1.9k)](https://github.com/originjs/vite-plugin-federation) - Support Module Federation, Inspired by Webpack Module Federation feature.
+*   [vite-plugin-wasm-pack (⭐198)](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack (⭐5.8k)](https://github.com/rustwasm/wasm-pack), the simple way.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-require (⭐49)](https://github.com/wangzongming/vite-plugin-require) - A Vite plugin that supports `require` by code transforming.
+*   [vite-plugin-require (⭐50)](https://github.com/wangzongming/vite-plugin-require) - A Vite plugin that supports `require` by code transforming.
 
 ## [41. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -1156,50 +1155,91 @@
 *   [BlazorWorker (⭐321)](https://github.com/Tewr/BlazorWorker) - ![stars](https://img.shields.io/github/stars/Tewr/BlazorWorker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Tewr/BlazorWorker?style=flat-square\&cacheSeconds=86400) Library for creating DotNet Web Worker threads/multithreading in Blazor. [Live demo](https://tewr.github.io/BlazorWorker).
 *   [Blazor.BrowserExtension (⭐299)](https://github.com/mingyaulee/Blazor.BrowserExtension) - ![stars](https://img.shields.io/github/stars/mingyaulee/Blazor.BrowserExtension?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mingyaulee/Blazor.BrowserExtension?style=flat-square\&cacheSeconds=86400) Develop browser extensions/addons with Blazor WebAssembly. Tested with Google Chrome, Mozilla Firefox and MS Edge.
 
-## [43. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [43. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### JavaScript / AngularJS
+
+*   [构建自己的AngularJS (⭐394)](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md) - Xu Fei (HTML)
+*   [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/) - Way Lau (HTML)
+*   [AngularJS入门教程 (⭐576)](https://github.com/zensh/AngularjsTutorial_cn) - Yan Qing, Hou Zhenyu, 速冻沙漠 (HTML) (:card\_file\_box: *archived*)
+
+### JavaScript / Node.js
+
+*   [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/) - 阿里团队
+*   [使用 Express + MongoDB 搭建多人博客 (⭐15k)](https://github.com/nswbmw/N-blog)
+*   [express.js 中文文档](http://expressjs.jser.us)
+*   [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
+*   [koa 中文文档 (⭐2.7k)](https://github.com/guo-yu/koa-guide)
+*   [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.com/package/learnyounode-zh-cn)
+*   [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
+*   [Node.js 包教不包会 (⭐17k)](https://github.com/alsotang/node-lessons)
+*   [Node.js Fullstack《從零到一的進撃》 (⭐330)](https://github.com/jollen/nodejs-fullstack-lessons)
+*   [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
+*   [Nodejs Wiki Book (⭐414)](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
+*   [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
+*   [The NodeJS 中文文档](https://www.gitbook.com/book/0532/nodejs/details) - 社区翻译
+
+### TypeScript / Django
+
+*   [TypeScript 教程](https://www.runoob.com/typescript/ts-tutorial.html) - runoob (HTML)
+*   [TypeScript 入门教程](https://www.runoob.com/w3cnote/getting-started-with-typescript.html) - runoob (HTML)
+*   [TypeScript 中文网](https://www.tslang.cn) (HTML)
+*   [TypeScript Deep Dive 中文版 (⭐6.4k)](https://github.com/jkchao/typescript-book-chinese) - 三毛 (HTML)
+*   [TypeScript Handbook（中文版）](https://www.runoob.com/manual/gitbook/TypeScript/_book/) - Patrick Zhong (HTML)
+
+### TypeScript / Angular
+
+*   [Angular 文档简介](https://angular.cn/docs) - Wang Zhicheng, Ye Zhimin, Yang Lin et al. (HTML)
+
+### TypeScript / Deno
+
+*   [Deno 钻研之术](https://deno-tutorial.js.org)
+*   [Deno进阶开发笔记](https://chenshenhai.com/deno_note) - 大深海
+
+## [44. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
 *   [PackageVersions Deprecated (⭐1.4k)](https://github.com/composer/package-versions-deprecated) - Is a fork of Ocramius/PackageVersions providing compatibility with Composer 1 and 2 on PHP 7+.
 
-## [44. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [45. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / *SSH*   keys / Authentication
 
 *   [HIBA (⭐324)](https://github.com/google/hiba) [![stars](https://img.shields.io/github/stars/google/hiba.svg?style=social\&label=stars)](https://github.com/google/hiba) - Central management of access to a fleet of machines without pushing authorized\_users files.
 
-## [45. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [46. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Version Control
 
 *   [Neptune](https://docs.neptune.ai/integrations-and-supported-tools/ide-and-notebooks/jupyter-lab-and-jupyter-notebook) - Version, manage and share notebook checkpoints in your projects.
 
-## [46. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [47. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
 *   [Beginner's guide to load testing with k6](https://link.medium.com/npI9sjDyyjb) - Introductory guide in several parts, helping you get started with k6.
 *   [Beautiful Load Testing With K6 and Docker Compose](https://medium.com/swlh/beautiful-load-testing-with-k6-and-docker-compose-4454edb3a2e3) - How to run load tests using the awesome combination of Docker Compose, K6, InfluxDB and Grafana.
 
-## [47. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [48. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Tools
 
 *   [greggd (⭐6)](https://github.com/olcf/greggd) - System daemon to compile and load eBPF programs into the kernel, and forward program output to socket for metric aggregation.
 
-## [48. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [49. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [Raspberry Pi Dashboard (⭐218)](https://github.com/femto-code/Raspberry-Pi-Dashboard) - Full-featured web-based dashboard interface to inspect and manage Raspberry Pi hardware and software, with no extra software required.
 
-## [49. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [50. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Arcade
 
 *   [OpenJazz (⭐235)](https://github.com/AlisterT/openjazz) - Free, open-source version of the classic Jazz Jackrabbit™ games.
 
-## [50. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [51. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Environment and Ecosystem Services
 
@@ -1213,19 +1253,19 @@
 
 *   [TFResource](https://tfresource.org/) - A collection of best practices for travel demand forecasting and travel survey methods.
 
-## [51. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [52. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
-*   [lfi (⭐230)](https://github.com/TomerAberbach/lfi) - A Lazy Functional Iteration Library Supporting Sync, Async, and Concurrent Iteration.
+*   [lfi (⭐232)](https://github.com/TomerAberbach/lfi) - A Lazy Functional Iteration Library Supporting Sync, Async, and Concurrent Iteration.
 
-## [52. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
+## [53. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
 
 ### Commercial courses / Devops
 
 *   [Scala Algorithms](https://www.scala-algorithms.com/) - a collection of nearly 100 algorithms in pure-functional Scala with test cases, explanations and a web-based IDE. Built with http4s & Scala.js.
 
-## [53. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [54. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Tools / Ironsworn
 
@@ -1236,7 +1276,7 @@
 *   [Herosworn](https://docs.google.com/document/d/1ttFFH8Ul7NlXhWw8vOr39YIx6FHcKuaC_Uueaf6f0B0/view) - Ironsworn for super heroes
 *   [Ironsworn Passions](https://docs.google.com/document/d/1ytKHeNLHOIE8JvL3-TUyIu_pDdP2oS69HbwKNxQ4DuA/view) - Character desires and prejudices
 
-## [54. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [55. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Articles
 
@@ -1252,7 +1292,7 @@
 
 *   [Ally.io](https://ally.io/)
 
-## [55. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [56. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Auth
 
@@ -1267,13 +1307,13 @@
 
 *   [Bunnybook (⭐239)](https://github.com/pietrobassi/bunnybook) - A tiny social network built with FastAPI, React+RxJs, Neo4j, PostgreSQL, and Redis.
 
-## [56. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [57. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Typing
 
 *   👍 [Coalton (⭐939)](https://github.com/coalton-lang/coalton/) - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
-## [57. Awesome Slim](/content/nekofar/awesome-slim/week/README.md)
+## [58. Awesome Slim](/content/nekofar/awesome-slim/week/README.md)
 
 ### Boilerplate
 
@@ -1311,19 +1351,19 @@
 *   [Slim Console (⭐26)](https://github.com/slimphp/Slim-Console) - Slim Framework Console.
 *   [Slim Flash (⭐142)](https://github.com/slimphp/Slim-Flash) - Slim Framework flash messages service provider.
 
-## [58. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [59. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Tools / Testing Tools
 
 *   [eslint-dashboard (⭐20)](https://github.com/fengzilong/eslint-dashboard) - Interactive ESLint workflow that lives in your terminal.
 
-## [59. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [60. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
 *   [Silverback (⭐226)](https://github.com/BEagle1984/silverback) - Framework to build event-driven applications (support for Kafka, RabbitMQ, MQTT).
 
-## [60. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [61. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Cloud management solutions
 
@@ -1337,7 +1377,7 @@
 
 *   [framer.com](https://www.framer.com/) - Framer helps you iterate and animate interface ideas for your next app, website, or product—starting with powerful layouts. For anyone validating Framer as a professional prototyping tool: unlimited viewers, up to 2 editors, and up to 3 projects.
 
-## [61. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [62. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Games
 
@@ -1345,11 +1385,11 @@
 
 ### Applications / Observability
 
-*   [vectordotdev/vector (⭐15k)](https://github.com/vectordotdev/vector) — A High-Performance, Logs, Metrics, & Events Router.
+*   [vectordotdev/vector (⭐16k)](https://github.com/vectordotdev/vector) — A High-Performance, Logs, Metrics, & Events Router.
 
 ### Applications / Operating systems
 
-*   [0x59616e/SteinsOS (⭐107)](https://github.com/0x59616e/SteinsOS)  — An OS for armv8-a architecture.
+*   [0x59616e/SteinsOS (⭐109)](https://github.com/0x59616e/SteinsOS) — An OS for armv8-a architecture.
 
 ### Applications / System tools
 
@@ -1358,17 +1398,17 @@
 ### Libraries / Network programming
 
 *   SSH
-    *   [alexcrichton/ssh2-rs (⭐443)](https://github.com/alexcrichton/ssh2-rs) — [libssh2](https://libssh2.org/) bindings
-    *   [Thrussh](https://pijul.org/thrussh) \[[thrussh](https://crates.io/crates/thrussh)] — an SSH library written from scratch in Rust, backed by [libsodium](https://doc.libsodium.org/)
+    *   [alexcrichton/ssh2-rs (⭐448)](https://github.com/alexcrichton/ssh2-rs) — [libssh2](https://libssh2.org/) bindings
+    *   [Thrussh](https://pijul.org/thrussh) \[[thrussh](https://crates.io/crates/thrussh)] — an SSH library, backed by [libsodium](https://doc.libsodium.org/)
 
-## [62. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [63. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Bindings
 
 *   [cairo-xlib (⭐0)](https://github.com/edadma/cairo-xlib) - Bindings for the [Cairo](https://www.cairographics.org/) 2D graphics [XLib Surfaces](https://www.cairographics.org/manual/cairo-XLib-Surfaces.html) with bindings for [XLib](https://www.x.org/releases/current/doc/libX11/libX11/libX11.html) as well.
 *   [libyaml (⭐0)](https://github.com/edadma/libyaml) - Bindings for the [LibYAML](https://pyyaml.org/wiki/LibYAML) C library for parsing [YAML](https://yaml.org/).
 
-## [63. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [64. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Art
 

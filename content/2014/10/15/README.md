@@ -19,7 +19,7 @@
 *   [Botan](http://botan.randombit.net/) - A crypto library for C++. \[BSD-2]
 *   [GnuPG](https://www.gnupg.org/) - A complete and free implementation of the OpenPGP standard. \[GPL]
 *   [LibreSSL](http://www.libressl.org/) - A free version of the SSL/TLS protocol forked from OpenSSL in 2014. \[?]
-*   [LibTomCrypt (⭐1.4k)](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit. \[WTFPL]
+*   [LibTomCrypt (⭐1.5k)](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit. \[WTFPL]
 *   [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - A low-level cryptographic library. \[LGPL]
 
 ### JSON
@@ -34,7 +34,7 @@
 
 ### Build Systems
 
-*   [CPM (⭐736)](https://github.com/iauns/cpm) - A C++ Package Manager based on CMake and Git.
+*   [CPM (⭐735)](https://github.com/iauns/cpm) - A C++ Package Manager based on CMake and Git.
 *   [FASTBuild](http://www.fastbuild.org/docs/home.html) - High performance, open-source build system supporting highly scalable compilation, caching and network distribution.
 
 ### Static Code Analysis

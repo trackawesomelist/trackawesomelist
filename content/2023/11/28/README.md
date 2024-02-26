@@ -10,7 +10,7 @@
 
 ### Internationalization
 
-*   [simdutf (⭐876)](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON, AVX-512. \[Apache-2/MIT]
+*   [simdutf (⭐887)](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON, AVX-512. \[Apache-2/MIT]
 
 ## [2. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [iusztinpaul/hands-on-llms (⭐1.8k)](https://github.com/iusztinpaul/hands-on-llms): learn about LLMs, LLMOps, and vector DBs for free by designing, training, and deploying a real-time financial advisor LLM system \~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴
+*   [iusztinpaul/hands-on-llms (⭐1.9k)](https://github.com/iusztinpaul/hands-on-llms): learn about LLMs, LLMOps, and vector DBs for free by designing, training, and deploying a real-time financial advisor LLM system \~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴
 
 ### LLM Evaluation / Multi-agents
 
@@ -50,7 +50,7 @@
 
 ### Frameworks • Libraries • Ecosystems
 
-*   [Lygia (⭐1.9k)](https://github.com/patriciogonzalezvivo/lygia) \[Cross-platform] - Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility
+*   [Lygia (⭐2.1k)](https://github.com/patriciogonzalezvivo/lygia) \[Cross-platform] - Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility.
 
 ### Sound Programming Languages
 

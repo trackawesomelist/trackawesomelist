@@ -26,7 +26,7 @@
 ### Text and Numbers
 
 *   [colors (⭐7)](https://github.com/lidashuang/colors) - Colors util written in Elixir.
-*   [decimal (⭐442)](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
+*   [decimal (⭐444)](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
 *   [inflex (⭐378)](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
 
 ### Third Party APIs
@@ -34,7 +34,7 @@
 *   [currently (⭐5)](https://github.com/chatgris/currently) - A tool to display cards currently assigns on Trello.
 *   [dpd\_client (⭐1)](https://github.com/knewter/dpd_client) - An API client for the DPD service.
 *   [dropbox (⭐13)](https://github.com/ammmir/elixir-dropbox) - Dropbox Core API client for Elixir.
-*   [facebook (⭐135)](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
+*   [facebook (⭐136)](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
 
 ---
 

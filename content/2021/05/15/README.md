@@ -22,7 +22,7 @@
 
 ### Authentication
 
-*   [guardian\_db (⭐354)](https://github.com/ueberauth/guardian_db) - An extension to Guardian that tracks tokens in your application's database to prevent playback. ([Docs](https://hexdocs.pm/guardian_db/readme.html)).
+*   [guardian\_db (⭐357)](https://github.com/ueberauth/guardian_db) - An extension to Guardian that tracks tokens in your application's database to prevent playback. ([Docs](https://hexdocs.pm/guardian_db/readme.html)).
 *   [guardian\_redis (⭐4)](https://github.com/alexfilatov/guardian_redis) - Redis repository for Guardian DB. ([Docs](https://hexdocs.pm/guardian_redis/readme.html)).
 
 ## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
@@ -49,17 +49,17 @@
 *   [sepatel/tekniq (⭐37)](https://github.com/sepatel/tekniq) - Full-feature HTTP DSL Framework, HTTP Client, JDBC DSL, Loading Cache and Configuration
 *   [danneu/kog (⭐43)](https://github.com/danneu/kog) - A web framework focused on simplicity, middleware, and functional composition
 *   [gimlet2/kottpd (⭐73)](https://github.com/gimlet2/kottpd) - REST framework in pure Kotlin, inspired by spark-java
-*   [brianmadden/krawler (⭐128)](https://github.com/brianmadden/krawler) - A web crawling framework written in Kotlin
-*   [alpas/alpas (⭐181)](https://github.com/alpas/alpas) - Kotlin web framework inspired by Laravel/Rails. Easy, elegant and productive.
+*   [brianmadden/krawler (⭐129)](https://github.com/brianmadden/krawler) - A web crawling framework written in Kotlin
+*   [alpas/alpas (⭐180)](https://github.com/alpas/alpas) - Kotlin web framework inspired by Laravel/Rails. Easy, elegant and productive.
 *   [vert-x3/vertx-lang-kotlin (⭐283)](https://github.com/vert-x3/vertx-lang-kotlin) - This module provides Kotlin language bindings including DSL and extension functions for vert.x 3
 *   [hypercube1024/firefly (⭐290)](https://github.com/hypercube1024/firefly) - An asynchronous web framework for rapid development of high-performance web application.
 *   [SeunAdelekan/Kanary (⭐327)](https://github.com/SeunAdelekan/Kanary) - A micro webframework for Kotlin
-*   [TinyMission/kara (⭐470)](https://github.com/TinyMission/kara) - Web framework written in Kotlin.
+*   [TinyMission/kara (⭐471)](https://github.com/TinyMission/kara) - Web framework written in Kotlin.
 *   [hhariri/wasabi (⭐504)](https://github.com/hhariri/wasabi) - An HTTP Framework built with Kotlin for the JVM.
 *   [kwebio/kweb-core (⭐944)](https://github.com/kwebio/kweb-core) - Build rich live-updating web apps in pure server-side Kotlin.
 *   [Kotlin/kotlinx.html (⭐1.5k)](https://github.com/Kotlin/kotlinx.html) - Kotlin DSL for HTML.
 *   [http4k/http4k](https://www.http4k.org) - Toolkit for serving and consuming HTTP services in a functional and consistent way.
-*   [tipsy/javalin (⭐6.9k)](https://github.com/tipsy/javalin) - A Simple REST API Library for Java/Kotlin.
+*   [tipsy/javalin (⭐7k)](https://github.com/tipsy/javalin) - A Simple REST API Library for Java/Kotlin.
 *   [ktorio/ktor](https://ktor.io/) - Web backend framework for Kotlin. Easy to use, fun and asynchronous.
 
 ### Libraries/Frameworks / Testing
@@ -71,7 +71,7 @@
 *   [willowtreeapps/opentest4k (⭐20)](https://github.com/willowtreeapps/opentest4k) - kotlin multiplatform implementation/bindings of opentest4j
 *   [mvysny/DynaTest (⭐22)](https://github.com/mvysny/DynaTest) - Write your tests in DSL way. Runs on JUnit5 Platform.
 *   [dmcg/konsent (⭐29)](https://github.com/dmcg/konsent) - An acceptance test library for Kotlin.
-*   [EranBoudjnah/RandomGenKt (⭐34)](https://github.com/EranBoudjnah/RandomGenKt) - Initialize instances of any class with generated data.
+*   [EranBoudjnah/RandomGenKt (⭐35)](https://github.com/EranBoudjnah/RandomGenKt) - Initialize instances of any class with generated data.
 *   [qwertukg/SeleniumBuilder (⭐54)](https://github.com/qwertukg/SeleniumBuilder) - DSL for Selenium 2.0. Provide a possibility to write tests in Kotlin builder style.
 *   [dmcg/minutest (⭐104)](https://github.com/dmcg/minutest) - Simple, Expressive, Extensible Testing for Kotlin on the JVM
 *   [karumi/KotlinSnapshot (⭐164)](https://github.com/karumi/KotlinSnapshot) - Verify your data with snapshot testing.
@@ -103,7 +103,7 @@
 *   [poetix/klenses (⭐47)](https://github.com/poetix/klenses) - Lenses for Kotlin.
 *   [beyondeye/Reduks (⭐111)](https://github.com/beyondeye/Reduks) - A "batteries included" port of Reduxjs for Kotlin+Android
 *   [brianegan/bansa (⭐443)](https://github.com/brianegan/bansa) - A state container for Kotlin & Java, inspired by Elm & Redux.
-*   [kittinunf/Result (⭐875)](https://github.com/kittinunf/Result) - The modelling for success/failure of operations in Kotlin.
+*   [kittinunf/Result (⭐876)](https://github.com/kittinunf/Result) - The modelling for success/failure of operations in Kotlin.
 *   [arrow-kt/arrow (⭐5.9k)](https://github.com/arrow-kt/arrow) - Functional companion to Kotlin's Standard Library.
 *   [ReactiveX/RxKotlin (⭐7k)](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin.
 
@@ -146,7 +146,7 @@
 
 ### Libraries/Frameworks / Http Clients
 
-*   [speekha/httpmocker (⭐177)](https://github.com/speekha/httpmocker) - Kotlin library to handle offline mode easily with OkHttp.
+*   [speekha/httpmocker (⭐176)](https://github.com/speekha/httpmocker) - Kotlin library to handle offline mode easily with OkHttp.
 *   [rybalkinsd/kohttp (⭐476)](https://github.com/rybalkinsd/kohttp) - Kotlin DSL-based HTTP client.
 *   [jkcclemens/khttp (⭐487)](https://github.com/jkcclemens/khttp) - Kotlin HTTP requests library.
 *   [kittinunf/Fuel (⭐4.5k)](https://github.com/kittinunf/Fuel) - The easiest HTTP networking library for Kotlin/Android.
@@ -159,7 +159,7 @@
 *   [vkostyukov/kotlin-sublime-package (⭐134)](https://github.com/vkostyukov/kotlin-sublime-package) - A Sublime Package for Kotlin.
 *   [ftomassetti/kanvas (⭐143)](https://github.com/ftomassetti/kanvas) - A truly hackable editor: simple, lightweight, understandable.
 *   [mathiasfrohlich/vscode-kotlin (⭐197)](https://github.com/mathiasfrohlich/vscode-kotlin) - Kotlin language support for VS Code.
-*   [udalov/kotlin-vim (⭐616)](https://github.com/udalov/kotlin-vim) - Kotlin Syntax Highlighter for Vim.
+*   [udalov/kotlin-vim (⭐618)](https://github.com/udalov/kotlin-vim) - Kotlin Syntax Highlighter for Vim.
 *   [fwcd/KotlinLanguageServer (⭐1.4k)](https://github.com/fwcd/KotlinLanguageServer) - Smart code completion, diagnostics and more for Kotlin using the Language Server Protocol. VS Code extension included.
 *   [JetBrains/intellij-community (⭐16k)](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition
 
@@ -175,8 +175,8 @@
 *   [vassilibykov/AdventKT (⭐17)](https://github.com/vassilibykov/AdventKT) - A Kotlin-based DSL for text adventures, with a partial replica of the classic Colossal Cave as an example.
 *   [KogeLabs/Ockero (⭐71)](https://github.com/KogeLabs/Ockero) - Ockero: Kotlin OpenGl Game Engine
 *   [icela/FriceEngine (⭐339)](https://github.com/icela/FriceEngine) - Make game developing easy again!
-*   [Hexworks/zircon (⭐733)](https://github.com/Hexworks/zircon) - An extensible text GUI library which targets multiple platforms and designed specifically for game developers, written in Kotlin.
-*   [AlmasB/FXGL (⭐4k)](https://github.com/AlmasB/FXGL) - JavaFX 8 Game Library written in Java + Kotlin
+*   [Hexworks/zircon (⭐736)](https://github.com/Hexworks/zircon) - An extensible text GUI library which targets multiple platforms and designed specifically for game developers, written in Kotlin.
+*   [AlmasB/FXGL (⭐4.1k)](https://github.com/AlmasB/FXGL) - JavaFX 8 Game Library written in Java + Kotlin
 
 ### Libraries/Frameworks / Misc
 
@@ -186,11 +186,11 @@
 *   [mplatvoet/progress (⭐20)](https://github.com/mplatvoet/progress) - Progress for Kotlin.
 *   [cesarferreira/kotlin-pluralizer (⭐49)](https://github.com/cesarferreira/kotlin-pluralizer) - Kotlin extension to pluralize and singularize strings.
 *   [debop/koda-time (⭐83)](https://github.com/debop/koda-time) - Joda Time Extensions in Kotlin. (From Java 8 use java.time instead)
-*   [just-ai/jaicf-kotlin (⭐235)](https://github.com/just-ai/jaicf-kotlin) - Kotlin framework for conversational voice assistants and chatbots development.
+*   [just-ai/jaicf-kotlin (⭐236)](https://github.com/just-ai/jaicf-kotlin) - Kotlin framework for conversational voice assistants and chatbots development.
 *   [oolong-kt/oolong](https://oolong-kt.org) - Elm inspired Model-View-Update (MVU) implementation for Kotlin multiplatform.
 *   [hotchemi/khronos (⭐326)](https://github.com/hotchemi/khronos) - An intuitive Date extensions in Kotlin.
-*   [pemistahl/lingua (⭐630)](https://github.com/pemistahl/lingua) - A language detection library suitable for long and short text alike
-*   [mplatvoet/kovenant (⭐656)](https://github.com/mplatvoet/kovenant) - Promises for Kotlin and Android
+*   [pemistahl/lingua (⭐636)](https://github.com/pemistahl/lingua) - A language detection library suitable for long and short text alike
+*   [mplatvoet/kovenant (⭐657)](https://github.com/mplatvoet/kovenant) - Promises for Kotlin and Android
 *   [MicroUtils/kotlin-logging (⭐2.4k)](https://github.com/MicroUtils/kotlin-logging) - Lightweight logging framework for Kotlin. Used as a wrapper for slf4j with Kotlin extensions.
 *   [ingokegel/jclasslib (⭐2.5k)](https://github.com/ingokegel/jclasslib) - jclasslib bytecode viewer is a tool that visualizes all aspects of compiled Java class files and the contained bytecode.
 *   [puniverse/quasar (⭐4.5k)](https://github.com/puniverse/quasar/tree/master/quasar-kotlin) - Fibers, Channels and Actors for the JVM.
@@ -198,15 +198,15 @@
 ### Libraries/Frameworks / Parsers
 
 *   [ParserKt/ParserKt (⭐11)](https://github.com/ParserKt/ParserKt) - Naive one-pass recursive descent, scannerless parser framework for Kotlin
-*   [fork-handles/parser4k (⭐167)](https://github.com/fork-handles/forkhandles/tree/trunk/parser4k) - Recursive descent parser combinator library
-*   [h0tk3y/better-parse (⭐405)](https://github.com/h0tk3y/better-parse) - A nice parser combinator library for Kotlin
+*   [fork-handles/parser4k (⭐170)](https://github.com/fork-handles/forkhandles/tree/trunk/parser4k) - Recursive descent parser combinator library
+*   [h0tk3y/better-parse (⭐406)](https://github.com/h0tk3y/better-parse) - A nice parser combinator library for Kotlin
 
 ### Libraries/Frameworks / Multiplatform
 
 *   [DetachHead/kotlinxpath (⭐4)](https://github.com/DetachHead/kotlinxpath) - A typesafe builder for Xpath with several useful helper functions that make Xpath easier to work with
-*   [davidepianca98/KMQTT (⭐127)](https://github.com/davidepianca98/KMQTT) - MQTT Broker library/executables for Kotlin multiplatform.
-*   [ionspin/kotlin-multiplatform-bignum (⭐300)](https://github.com/ionspin/kotlin-multiplatform-bignum) - Pure kotlin multiplatform arbitrary precision arithmetic library.
-*   [GitLiveApp/firebase-kotlin-sdk (⭐808)](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first Multiplatform SDK for Firebase supporting iOS, Android & Web
+*   [davidepianca98/KMQTT (⭐130)](https://github.com/davidepianca98/KMQTT) - MQTT Broker library/executables for Kotlin multiplatform.
+*   [ionspin/kotlin-multiplatform-bignum (⭐306)](https://github.com/ionspin/kotlin-multiplatform-bignum) - Pure kotlin multiplatform arbitrary precision arithmetic library.
+*   [GitLiveApp/firebase-kotlin-sdk (⭐818)](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first Multiplatform SDK for Firebase supporting iOS, Android & Web
 
 ### Libraries/Frameworks / Extensions
 
@@ -219,19 +219,19 @@
 *   [davidohana/kofiko-kotlin (⭐22)](https://github.com/davidohana/kofiko-kotlin) - Kofiko: Code-First configuration library. Lightweight, simple and minimal boilerplate.
 *   [ufoscout/properlty (⭐26)](https://github.com/ufoscout/properlty) - Simple configuration library with placeholders resolution and zero magic!
 *   [mariomac/kaconf (⭐59)](https://github.com/mariomac/kaconf) - KickAss Configuration. An annotation-based configuration system for Java and Kotlin
-*   [jdiazcano/cfg4k (⭐81)](https://github.com/jdiazcano/cfg4k) - Flexible and easy to use config library written in kotlin.
-*   [config4k/config4k (⭐265)](https://github.com/config4k/config4k) - A Kotlin wrapper for Typesafe Config
+*   [jdiazcano/cfg4k (⭐80)](https://github.com/jdiazcano/cfg4k) - Flexible and easy to use config library written in kotlin.
+*   [config4k/config4k (⭐266)](https://github.com/config4k/config4k) - A Kotlin wrapper for Typesafe Config
 *   [npryce/konfig (⭐276)](https://github.com/npryce/konfig) - A Type Safe Configuration API for Kotlin
 *   [cdimascio/dotenv-kotlin (⭐457)](https://github.com/cdimascio/dotenv-kotlin) - A zero-dependency module that loads environment variables from a .env file
-*   [sksamuel/hoplite (⭐834)](https://github.com/sksamuel/hoplite) - A library for loading configuration files into typesafe Kotlin data classes in a boilerplate-free way
+*   [sksamuel/hoplite (⭐835)](https://github.com/sksamuel/hoplite) - A library for loading configuration files into typesafe Kotlin data classes in a boilerplate-free way
 
 ### Libraries/Frameworks / Graphics
 
 *   [kotlin-graphics/ovr (⭐6)](https://github.com/kotlin-graphics/ovr) - Oculus binding
 *   [kotlin-graphics/uno-sdk (⭐24)](https://github.com/kotlin-graphics/uno-sdk) - Unofficial OpenGL SDK
-*   [data2viz/data2viz (⭐398)](https://github.com/data2viz/data2viz) - multiplatform dataviz library, d3js port
-*   [kotlin-graphics/imgui (⭐583)](https://github.com/kotlin-graphics/imgui) - jvm port of imgui
-*   [openrndr/openrndr (⭐807)](https://github.com/openrndr/openrndr) - OPENRNDR, a framework for creative coding in Kotlin. Accelerated 2D and 3D graphics, vector graphics, shaders and animation
+*   [data2viz/data2viz (⭐399)](https://github.com/data2viz/data2viz) - multiplatform dataviz library, d3js port
+*   [kotlin-graphics/imgui (⭐584)](https://github.com/kotlin-graphics/imgui) - jvm port of imgui
+*   [openrndr/openrndr (⭐808)](https://github.com/openrndr/openrndr) - OPENRNDR, a framework for creative coding in Kotlin. Accelerated 2D and 3D graphics, vector graphics, shaders and animation
 
 ## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 

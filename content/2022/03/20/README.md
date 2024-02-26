@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 20, 2022
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Applications / Web
 
-*   [cfal/tobaru (⭐151)](https://github.com/cfal/tobaru) - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
+*   [cfal/tobaru (⭐154)](https://github.com/cfal/tobaru) - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -177,15 +177,7 @@
 
 *   [chokidar-cli (⭐775)](https://github.com/open-cli-tools/chokidar-cli) - CLI to watch file system changes.
 
-## [6. Computer Science](/content/ossu/computer-science/README.md)
-
-### How to show your progress / Which programming languages should I use?
-
-*   `Doing`: cards with that label represent courses the student is currently doing.
-*   `Done`: cards with that label represent courses finished by the student.
-    Those cards should also have the link for at least one project/article built with the knowledge acquired in such a course.
-
-## [7. Awesome Go](/content/avelino/awesome-go/README.md)
+## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Networking
 
@@ -195,7 +187,7 @@
 
 *   [Know Go: Generics](https://bitfieldconsulting.com/books/generics) - A guide to understanding and using generics in Go.
 
-## [8. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+## [7. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :books: Literature / Documentation
 
@@ -263,7 +255,7 @@
 *   :newspaper: [Using entropy analysis to find encrypted and packed malware](https://ieeexplore.ieee.org/document/4140989) (March 2007)
 *   :notebook: [VMAttack: Deobfuscating virtualization-based packed binaries](https://dl.acm.org/doi/10.1145/3098954.3098995) (August 2017)  :star:
 
-## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Translation
 
@@ -306,7 +298,7 @@
 
 ### Reddit
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Dawn (⭐450)](https://github.com/Tunous/Dawn) - A gesture driven, open source reddit client for android
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Dawn (⭐451)](https://github.com/Tunous/Dawn) - A gesture driven, open source reddit client for android
 
 ### Teamworking Tools
 

@@ -68,23 +68,23 @@
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Sunshine](https://app.lizardbyte.dev/Sunshine/) - Remote game stream host for Moonlight with support up to 120 frames per second and 4K resolution. ([Source Code (⭐9.8k)](https://github.com/LizardByte/Sunshine)) `GPL-3.0` `C++/deb/Docker`
+*   [Sunshine](https://app.lizardbyte.dev/Sunshine/) - Remote game stream host for Moonlight with support up to 120 frames per second and 4K resolution. ([Source Code (⭐10k)](https://github.com/LizardByte/Sunshine)) `GPL-3.0` `C++/deb/Docker`
 
 ### Software / Miscellaneous
 
-*   [Fasten Health (⭐1.1k)](https://github.com/fastenhealth/fasten-onprem/) `⚠` - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics in the United States. `GPL-3.0` `Go/Docker`
+*   [Fasten Health (⭐1.2k)](https://github.com/fastenhealth/fasten-onprem/) `⚠` - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics in the United States. `GPL-3.0` `Go/Docker`
 
 ### Software / Pastebins
 
-*   [Hemmelig](https://hemmelig.app) - Share encrypted secrets cross organizations, or as private persons. ([Source Code (⭐594)](https://github.com/HemmeligOrg/Hemmelig.app)) `MIT` `Docker/Nodejs`
+*   [Hemmelig](https://hemmelig.app) - Share encrypted secrets cross organizations, or as private persons. ([Source Code (⭐600)](https://github.com/HemmeligOrg/Hemmelig.app)) `MIT` `Docker/Nodejs`
 
 ### Software / Software Development - API Management
 
-*   [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API. ([Source Code (⭐418)](https://github.com/exogee-technology/graphweaver)) `MIT` `Nodejs`
+*   [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API. ([Source Code (⭐421)](https://github.com/exogee-technology/graphweaver)) `MIT` `Nodejs`
 
 ### Software / Software Development - Project Management
 
-*   [rgit (⭐49)](https://github.com/w4/rgit) - An ultra-fast & lightweight cgit clone. ([Demo](https://git.inept.dev/)) `WTFPL` `Rust/Docker`
+*   [rgit (⭐55)](https://github.com/w4/rgit) - An ultra-fast & lightweight cgit clone. ([Demo](https://git.inept.dev/)) `WTFPL` `Rust/Docker`
 
 ### Software / Task Management & To-do Lists
 

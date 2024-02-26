@@ -23,7 +23,7 @@
 
 ### Security
 
-*   [teler-waf (⭐228)](https://github.com/kitabisa/teler-waf) - teler-waf is a Go HTTP middleware that provide teler IDS functionality to protect against web-based attacks and improve the security of Go-based web applications. It is highly configurable and easy to integrate into existing Go applications.
+*   [teler-waf (⭐231)](https://github.com/kitabisa/teler-waf) - teler-waf is a Go HTTP middleware that provide teler IDS functionality to protect against web-based attacks and improve the security of Go-based web applications. It is highly configurable and easy to integrate into existing Go applications.
 
 ## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -37,7 +37,7 @@
 
 *   [Snagit](https://www.techsmith.com/screen-capture.html) - Screen Capture and Recording Software. Simple and Powerful.
 
-### Mac App Download Sites / Pirated software download site blacklist
+### Mac App Download Sites / Pirated software download site blocklist
 
 *   Appstorrent：~~`http://appstorrent.ru/`~~
 
@@ -59,11 +59,11 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-auto-alias (⭐4)](https://github.com/jwyGithub/vite-plugin-auto-alias) - Automatically generate alias based on path.
+*   [vite-plugin-auto-alias (⭐5)](https://github.com/jwyGithub/vite-plugin-auto-alias) - Automatically generate alias based on path.
 
 ### Open Source / Community
 
-*   [Compiiile (⭐114)](https://github.com/AlbanCrepel/compiiile) - Preview or host folders containing Markdown files with full-text search and presentation slides.
+*   [Compiiile (⭐117)](https://github.com/AlbanCrepel/compiiile) - Preview or host folders containing Markdown files with full-text search and presentation slides.
 
 ## [8. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Image Segmentation / Deforum
 
-*   \[🔥] [dmarx/video-killed-the-radio-star (⭐172)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
+*   \[🔥] [dmarx/video-killed-the-radio-star (⭐179)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
 
 ### Artists and Artworks / Deforum
 

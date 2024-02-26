@@ -16,11 +16,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-cesium (⭐193)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
+*   [vite-plugin-cesium (⭐197)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-aliases (⭐195)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
+*   [vite-aliases (⭐192)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
 
 ## [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -119,15 +119,15 @@
 ### Programming Languages
 
 *   [C (⭐3.3k)](https://github.com/inputsh/awesome-c#readme)
-*   [D (⭐617)](https://github.com/dlang-community/awesome-d#readme)
+*   [D (⭐632)](https://github.com/dlang-community/awesome-d#readme)
 
 ### Front-End Development
 
-*   [PageSpeed Metrics (⭐662)](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
+*   [PageSpeed Metrics (⭐663)](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
 
 ### Development Environment
 
-*   [Fish (⭐3.7k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
+*   [Fish (⭐3.8k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
 *   [Alfred Workflows (⭐3k)](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
 
 ### Media
@@ -136,11 +136,11 @@
 
 ### Business
 
-*   [Developer-First Products (⭐703)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
+*   [Developer-First Products (⭐721)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 
 ### Work
 
-*   [Programming Interviews (⭐61k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
+*   [Programming Interviews (⭐64k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 
 ### Miscellaneous
 

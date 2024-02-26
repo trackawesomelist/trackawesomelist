@@ -171,7 +171,7 @@
 
 ### XML
 
-*   [sweet\_xml (⭐346)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
+*   [sweet\_xml (⭐351)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 
 ## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

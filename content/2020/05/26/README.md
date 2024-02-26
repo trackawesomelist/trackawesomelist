@@ -1,18 +1,24 @@
 # Awesome List Updates on May 26, 2020
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [1. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### Golang
+
+*   [Go 语法树入门 (⭐5.2k)](https://github.com/chai2010/go-ast-book)
+
+## [2. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### TextField & TextView / Collection View Layout
 
 *   [CHIOTPField (⭐268)](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
 
-## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [3. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / MQTT
 
@@ -20,39 +26,39 @@
 *   [sonoff-mqtt by davea (⭐57)](https://github.com/davea/sonoff-mqtt) - MicroPython scripts to control Sonoff/ESP8266 using MQTT.
 *   [micropython-thingspeak-mqtt-esp8266 (⭐26)](https://github.com/miketeachman/micropython-thingspeak-mqtt-esp8266) - Publish and Subscribe to ThingSpeak using MQTT with MicroPython running on ESP8266/ESP32 platforms.
 
-## [3. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Miscellaneous
 
 *   [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
-## [4. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### specifically from (*a certain platform*) / Links on social streams
 
 *   [Filter RSS](https://filterrss.com/) <sup>[377](https://t.me/s/aboutrss/377)</sup> : Create an RSS feed from all the links shared on your social streams.
 *   [Siftlink](http://siftlinks.com/) <sup>[628](https://t.me/s/aboutrss/628)</sup> : monitors your friend stream on Twitter, pulls out the links and creates an RSS feed for you
 
-## [5. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)
+## [6. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)
 
 ### Q/A
 
 *   [Q# tag on Stack Overflow](https://stackoverflow.com/questions/tagged/q%23)
 *   [Q# tag on Quantum Computing StackExchange](https://quantumcomputing.stackexchange.com/questions/tagged/q%23)
 
-## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Resources / Books
 
-*   [scriptum (⭐378)](https://github.com/kongware/scriptum/blob/master/README.md) - a no-frills functional programming library and a online course based on it
+*   [scriptum (⭐380)](https://github.com/kongware/scriptum/blob/master/README.md) - a no-frills functional programming library and a online course based on it
 
-## [7. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [8. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Neural Natural Language Generation
 
 *   [This Word Does Not Exist (⭐1k)](https://github.com/turtlesoupy/this-word-does-not-exist) - This is a project allows people to train a variant of GPT-2 that makes up words, definitions and examples from scratch.
 
-## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [9. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Accessibility
 
@@ -90,7 +96,7 @@
 *   [Styling and Theming Web Components](https://youtu.be/FM7ROEVPA4k) by [@justinfagnani](https://twitter.com/justinfagnani)
 *   [Web Components at Enterprise Scale](https://youtu.be/iFp-P2UJT_Y) by [@diervo](https://twitter.com/diervo)
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 

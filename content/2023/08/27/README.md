@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 27, 2023
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### C bindings
 
-*   [win32cr (⭐10)](https://github.com/mjblack/win32cr) - Bindings for Win32 API
+*   [win32cr (⭐12)](https://github.com/mjblack/win32cr) - Bindings for Win32 API
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -45,11 +45,11 @@
 ### Applications / Emulators
 
 *   Nintendo DS
-    *   [dust (⭐148)](https://github.com/kelpsyberry/dust) — A Nintendo DS emulator written in Rust
+    *   [dust (⭐150)](https://github.com/kelpsyberry/dust) — A Nintendo DS emulator
 
 ### Applications / Utilities
 
-*   [suckit (⭐671)](https://github.com/Skallwar/suckit) - Recursively visit and download a website's content to your disk. [![Crate](https://img.shields.io/crates/v/suckit.svg?logo=rust)](https://crates.io/crates/suckit) [![Build Status](https://github.com/Skallwar/suckit/workflows/Build%20and%20test/badge.svg)](https://github.com/Skallwar/suckit/blob/master/.github/workflows/build_and_test.yml)
+*   [suckit (⭐678)](https://github.com/Skallwar/suckit) - Recursively visit and download a website's content to your disk. [![Crate](https://img.shields.io/crates/v/suckit.svg?logo=rust)](https://crates.io/crates/suckit) [![Build Status](https://github.com/Skallwar/suckit/workflows/Build%20and%20test/badge.svg)](https://github.com/Skallwar/suckit/blob/master/.github/workflows/build_and_test.yml)
 
 ## [5. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -74,7 +74,26 @@
 
 *   [Simple Animation Blender (⭐4)](https://github.com/Red1C3/Simple-Animation-Blender) - A real-time 1D animation blender and player using Vulkan as graphical back end and ImGui for GUI. \[MIT]
 
-## [8. Nginx Resources](/content/fcambus/nginx-resources/README.md)
+## [8. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### 版本控制
+
+*   [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) - 廖雪峰
+
+### Java
+
+*   [Java 教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744)
+*   [Spring 2.0核心技术与最佳实践](https://michaelliao.github.io/download/pdf/Spring%202.0%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.pdf) (PDF)
+
+### JavaScript
+
+*   [JavaScript 教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1022910821149312)
+
+### Python / Symfony
+
+*   [Python教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1016959663602400)
+
+## [9. Nginx Resources](/content/fcambus/nginx-resources/README.md)
 
 ### Nginx + njs
 

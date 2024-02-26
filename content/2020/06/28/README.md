@@ -65,7 +65,7 @@
 
 ### Tools / Reverse Engineering
 
-*   [Noia (⭐94)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
+*   [Noia (⭐96)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
 
 ## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

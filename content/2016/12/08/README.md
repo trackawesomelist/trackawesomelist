@@ -80,7 +80,7 @@
 
 ### JSON Schema Tools
 
-*   [js-schema (⭐392)](https://github.com/molnarg/js-schema) - A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.
+*   [js-schema (⭐387)](https://github.com/molnarg/js-schema) - A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.
 
 ---
 

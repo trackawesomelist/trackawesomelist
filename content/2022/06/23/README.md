@@ -10,7 +10,7 @@
 
 ### Logging
 
-*   [slog (⭐322)](https://github.com/gookit/slog) - Lightweight, configurable, extensible logger for Go.
+*   [slog (⭐331)](https://github.com/gookit/slog) - Lightweight, configurable, extensible logger for Go.
 
 ### Third-party APIs
 
@@ -92,7 +92,7 @@
 
 ### Templates / Vue 3
 
-*   [vue3-vant-mobile (⭐509)](https://github.com/CharleeWa/vue3-vant-mobile) - Vite + Vue3 + Vant4 + Pinia + Vue-Router4 + TypeScript Mobile Template.
+*   [vue3-vant-mobile (⭐551)](https://github.com/CharleeWa/vue3-vant-mobile) - Vite + Vue3 + Vant4 + Pinia + Vue-Router4 + TypeScript Mobile Template.
 
 ## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Utilities / System Related Tools
 
-*   [Time Machine Inspector (⭐72)](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/probablykasper/time-machine-inspector) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Time Machine Inspector (⭐73)](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/probablykasper/time-machine-inspector) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---
 

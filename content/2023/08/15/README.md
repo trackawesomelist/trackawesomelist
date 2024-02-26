@@ -32,7 +32,7 @@
 
 ### Software / Recipe Management
 
-*   [Mealie](https://nightly.mealie.io/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Source Code (⭐4.3k)](https://github.com/mealie-recipes/mealie)) `MIT` `Python`
+*   [Mealie](https://nightly.mealie.io/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Source Code (⭐4.5k)](https://github.com/mealie-recipes/mealie)) `MIT` `Python`
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

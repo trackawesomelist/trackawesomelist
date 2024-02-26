@@ -100,8 +100,8 @@
 ### Open Source Projects / Wealth
 
 *   [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
-*   [Quantifier (⭐39)](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
-*   [Fluxtream (⭐148)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
+*   [Quantifier (⭐40)](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
+*   [Fluxtream (⭐150)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
 
 ## [6. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 

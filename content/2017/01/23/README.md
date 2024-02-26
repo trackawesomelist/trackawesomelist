@@ -29,7 +29,7 @@
 
 ### ORM and Datamapping
 
-*   [defql (⭐102)](https://github.com/fazibear/defql) - Create elixir functions with SQL as a body.
+*   [defql (⭐103)](https://github.com/fazibear/defql) - Create elixir functions with SQL as a body.
 
 ## [5. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -62,7 +62,7 @@ Free
 
 ### API Builder and Discovery
 
-*   [Spyke (⭐873)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
+*   [Spyke (⭐881)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 
 ### CLI Utilities
 
@@ -78,7 +78,7 @@ Free
 
 ### Database Tools
 
-*   [Polo (⭐761)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
+*   [Polo (⭐762)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
 
 ### Debugging Tools
 

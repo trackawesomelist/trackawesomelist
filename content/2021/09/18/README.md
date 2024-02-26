@@ -58,7 +58,7 @@
 
 ### Username Check / Telegram
 
-*   [Snoop (⭐2.2k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
+*   [Snoop (⭐2.6k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
 
 ## [10. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 

@@ -33,7 +33,7 @@
 
 ### Examples and funny stuff
 
-*   [real world example app (⭐888)](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) - Elixir / Phoenix implementation of [RealWorld.io](https://realworld.io/) backend specs - a Medium clone.
+*   [real world example app (⭐889)](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) - Elixir / Phoenix implementation of [RealWorld.io](https://realworld.io/) backend specs - a Medium clone.
 
 ## [5. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Contents / Imaging
 
-*   [Papaya (⭐494)](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer.
+*   [Papaya (⭐519)](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer.
 
 ## [8. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 

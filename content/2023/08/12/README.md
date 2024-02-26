@@ -16,7 +16,7 @@
 
 ### Applications / Utilities
 
-*   [mrjackwills/oxker (⭐363)](https://github.com/mrjackwills/oxker) \[[oxker](https://crates.io/crates/oxker)] - A simple tui to view & control docker containers.
+*   [mrjackwills/oxker (⭐378)](https://github.com/mrjackwills/oxker) \[[oxker](https://crates.io/crates/oxker)] - A simple tui to view & control docker containers.
 
 ## [3. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [heapbytes (⭐22)](https://github.com/heapbytes/heapbytes-zsh) - Includes decorators for current directory, tun0 ip if on a VPN, wlan ip when not on VPN and `git` information.
+*   [heapbytes (⭐28)](https://github.com/heapbytes/heapbytes-zsh) - Includes decorators for current directory, tun0 ip if on a VPN, wlan ip when not on VPN and `git` information.
 *   [lildragon (⭐0)](https://github.com/skippyr/lildragon) - Dragon-themed. Includes decorators for `git` status, current directory & username. Requires a font with emoji glyphs.
 
 ## [8. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)

@@ -12,7 +12,7 @@
 
 Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large screens. Also removes the truncating of file and directory names in the repository browser.
 
-Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
+Installs: 2000 | Stars: 131 | Last update: n/a
 
 ## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
@@ -70,11 +70,11 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 
 ### Applications / Blockchain
 
-*   [Holochain (⭐878)](https://github.com/holochain/holochain) — Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build. [![detect critical check failures](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml/badge.svg)](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml)
+*   [Holochain (⭐884)](https://github.com/holochain/holochain) — Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build. [![detect critical check failures](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml/badge.svg)](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml)
 
 ### Applications / System tools
 
-*   [pueue (⭐4.1k)](https://github.com/nukesor/pueue) — Manage your long running shell commands. [![GitHub Actions Workflow](https://github.com/nukesor/pueue/workflows/Test%20build/badge.svg?branch=master)](https://github.com/nukesor/pueue/actions)
+*   [pueue (⭐4.2k)](https://github.com/nukesor/pueue) — Manage your long running shell commands. [![GitHub Actions Workflow](https://github.com/nukesor/pueue/workflows/Test%20build/badge.svg?branch=master)](https://github.com/nukesor/pueue/actions)
 
 ### Libraries / Compression
 
@@ -85,7 +85,7 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 
 *   Generic
     *   [Geal/rust\_on\_mobile (⭐167)](https://github.com/Geal/rust_on_mobile)
-    *   [redbadger/crux (⭐1.3k)](https://github.com/redbadger/crux) \[[crux\_core](https://crates.io/crates/crux_core)] — Cross-platform app development in Rust. Crux helps you share your app's business logic and behavior across mobile (iOS/Android) and web — as a single reusable core built with Rust. [![Build status](https://img.shields.io/github/actions/workflow/status/redbadger/crux/build.yaml)](https://github.com/redbadger/crux/actions)
+    *   [redbadger/crux (⭐1.3k)](https://github.com/redbadger/crux) \[[crux\_core](https://crates.io/crates/crux_core)] — Cross-platform app development. Crux helps you share your app's business logic and behavior across mobile (iOS/Android) and web — as a single reusable core. [![Build status](https://img.shields.io/github/actions/workflow/status/redbadger/crux/build.yaml)](https://github.com/redbadger/crux/actions)
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -117,7 +117,7 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 *   [f-shortcuts (⭐5)](https://github.com/zpm-zsh/f-shortcuts) - Makes a shortcuts toolbar using `F1` to `F12` keys.
 *   [fancy-ctrl-z (⭐17)](https://github.com/mdumitru/fancy-ctrl-z) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of [oh-my-zsh](https://ohmyz.sh).
 *   [get-jquery (⭐1)](https://github.com/voronkovich/get-jquery.plugin.zsh) - Plugin for fast downloading the jQuery library from [code.jquery.com](https://code.jquery.com).
-*   [gimme (⭐2)](https://github.com/folixg/gimme-ohmyzsh-plugin) - Manage [Go](https://golang.org/) installations with [gimme (⭐693)](https://github.com/travis-ci/gimme/).
+*   [gimme (⭐2)](https://github.com/folixg/gimme-ohmyzsh-plugin) - Manage [Go](https://golang.org/) installations with [gimme (⭐694)](https://github.com/travis-ci/gimme/).
 *   [git-aliases (mdumitru) (⭐26)](https://github.com/mdumitru/git-aliases) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of [oh-my-zsh](https://ohmyz.sh).
 *   [git-is-clean (⭐1)](https://github.com/aubreypwd/zsh-plugin-git-is-clean) - This function will return true or false depending on if it finds out your `git` repo is dirty or not.
 *   [git-smart-commends-wrapper (⭐0)](https://github.com/jelek21/omz-git-smart-commands) - Wraps [git-smart-commands (⭐12)](https://github.com/seletskiy/zsh-git-smart-commands) to make it compatible with the [oh-my-zsh](https://ohmyz.sh) plugins system.
@@ -137,7 +137,7 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 *   [virtualenv-prompt (⭐36)](https://github.com/tonyseek/oh-my-zsh-virtualenv-prompt) - A fork of the virtualenv plugin from upstream [oh-my-zsh](https://ohmyz.sh/). Adds support for customizing the virtualenv prompt in [oh-my-zsh](https://ohmyz.sh) themes.
 *   [yadm (⭐9)](https://github.com/juanrgon/yadm-zsh) - Displays a warning if there are local [yadm](https://thelocehiliosan.github.io/yadm/) configuration changes.
 *   [yeoman (⭐40)](https://github.com/edouard-lopez/yeoman-zsh-plugin) - Edouard Lopez's [Yeoman](http://yeoman.io/) plugin for [oh-my-zsh](https://ohmyz.sh/), compatible with yeoman version ≥1.0 (includes options and command auto-completion).
-*   [zshmarks (⭐263)](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (by Todd Werth), a simple command line bookmarking plugin, for [oh-my-zsh](https://ohmyz.sh).
+*   [zshmarks (⭐265)](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (by Todd Werth), a simple command line bookmarking plugin, for [oh-my-zsh](https://ohmyz.sh).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -292,7 +292,7 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 *   [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x) - ***Cognitive Science***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=6689941517686043970\&hl=en\&as_sdt=0,5)]. Nicolas Fay's original paper on iconicity.
 *   [Iconicity: From sign to system in human communication and language](https://benjamins.com/catalog/pc.22.2.05fay) - ***Pragmatics & Cognition***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=8525760321117094567\&hl=en\&as_sdt=0,5)]. Nicolas Fay's account on the emergence of iconic language.
 *   [Graphical Language Games: Interactional Constraints on Representational Form](https://onlinelibrary.wiley.com/doi/full/10.1080/15326900701221363) - ***Cognitive Science***, 2007. \[[All Versions](https://scholar.google.com/scholar?cluster=280214578402050136\&hl=en\&as_sdt=0,5)]. The first paper introducing the graphical language game.
-*   [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf) - ***ACM SIG Graph***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=6676723059377806081\&hl=en\&as_sdt=0,5)]. \[[Project](http://sketchx.ai/pixelor)]. Rationality in feature sketching.
+*   [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf) - ***ACM SIGGraph'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=6676723059377806081\&hl=en\&as_sdt=0,5)]. \[[Project](http://sketchx.ai/pixelor)]. Rationality in feature sketching.
 *   [Pragmatic Inference and Visual Abstraction Enable Contextual Flexibility During Visual Communication](https://link.springer.com/article/10.1007/s42113-019-00058-7) - ***Computational Brain & Behavior***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17971107104483505071\&hl=en\&as_sdt=0,5)]. A computational account on the rational behavior in graphical language games.
 *   [Emergent Graphical Conventions in a Visual Communication Game](https://arxiv.org/abs/2111.14210) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=6476453985812346727\&hl=en\&as_sdt=0,5)]. A computational account on the emergence of iconic language.
 *   [Communicating artificial neural networks develop efficient color-naming systems](https://www.pnas.org/content/118/12/e2016569118) - ***Proceedings of the National Academy of Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1640459156303560508\&hl=en\&as_sdt=0,5)]. Simulating the emergence of code as the communication bottleneck in color learning task.

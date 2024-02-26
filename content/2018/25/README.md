@@ -289,7 +289,7 @@
 
 ### Software / Office Suites
 
-*   [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code (⭐4.1k)](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs/Docker`
+*   [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code (⭐4.2k)](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [27. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -445,8 +445,8 @@ Webpage: <http://ogniwo.org/>
 
 ### Applications / Directory Navigation
 
-*   [awless (⭐4.9k)](https://github.com/wallix/awless) - A powerful, innovative and small surface CLI to manage AWS.
-*   [ranger (⭐14k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
+*   [awless (⭐5k)](https://github.com/wallix/awless) - A powerful, innovative and small surface CLI to manage AWS.
+*   [ranger (⭐15k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 
 ## [41. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
@@ -458,7 +458,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Caching
 
-*   [nebulex (⭐1.1k)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
+*   [nebulex (⭐1.2k)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
 
 ### Third Party APIs
 
@@ -517,7 +517,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Converters
 
-*   [money (⭐29)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.6k)](https://github.com/RubyMoney/money))
+*   [money (⭐29)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.7k)](https://github.com/RubyMoney/money))
 
 ### Framework Components
 

@@ -76,7 +76,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [skrapeit/skrape.it (⭐729)](https://github.com/skrapeit/skrape.it) - A DSL-driven HTML/XML parser-library that enables meaningful testing of rendered HTML templates.
+*   [skrapeit/skrape.it (⭐737)](https://github.com/skrapeit/skrape.it) - A DSL-driven HTML/XML parser-library that enables meaningful testing of rendered HTML templates.
 
 ## [4. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
@@ -100,8 +100,8 @@
 
 ### Standard CLI
 
-*   [carapace (⭐155)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
-*   [carapace-bin (⭐526)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
+*   [carapace (⭐158)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+*   [carapace-bin (⭐551)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 
 ### Uncategorized
 

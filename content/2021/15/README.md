@@ -64,11 +64,11 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Darkwire.io (⭐849)](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat. `MIT` `Nodejs`
+*   [Darkwire.io (⭐854)](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat. `MIT` `Nodejs`
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [DebOps](https://docs.debops.org/) - Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. ([Source Code (⭐1.1k)](https://github.com/debops/debops)) `GPL-3.0` `Ansible/Python`
+*   [DebOps](https://docs.debops.org/) - Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. ([Source Code (⭐1.2k)](https://github.com/debops/debops)) `GPL-3.0` `Ansible/Python`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -76,7 +76,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [goploader (⭐264)](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant. `MIT` `Go`
+*   [goploader (⭐263)](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant. `MIT` `Go`
 
 ### Software / Personal Dashboards
 
@@ -92,7 +92,7 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Nullboard (⭐2.4k)](https://github.com/apankrat/nullboard) - Single-page minimalist kanban board; compact, highly readable and quick to use. `BSD-2-Clause` `Javascript`
+*   [Nullboard (⭐2.5k)](https://github.com/apankrat/nullboard) - Single-page minimalist kanban board; compact, highly readable and quick to use. `BSD-2-Clause` `Javascript`
 
 ## [10. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
@@ -478,9 +478,8 @@
 
 ### Browser Extensions
 
-*   [Discoverable JSON](https://chrome.google.com/webstore/detail/json-manipulator-json-to/pcakbljjigdafljigcpbmjllkbhlncjg) ([github (⭐3)](https://github.com/noitcudni/discoverable-json)) - Gron inspired Extension. Convert a JSON document into javascript expressions. Comes with filter, remove, find-and-replace capabilities.
 *   [JSONAce](https://apps.apple.com/us/story/id1377753262?id=com.acrogenesis.jsonace-56Q494QF3LL) ([github (⭐72)](https://github.com/acrogenesis/JSONAce)) - Formats & syntax highlights JSON viewed inside of the web browser using the ACE editor.
-*   [JSONView](https://apps.apple.com/us/story/id1377753262?id=com.acrogenesis.jsonview-56Q494QF3L) ([github (⭐295)](https://github.com/acrogenesis/jsonview-safari)) - A port of the JSONView Firefox extension that formats and syntax highlights JSON viewed inside of the browser
+*   [JSONView](https://apps.apple.com/us/story/id1377753262?id=com.acrogenesis.jsonview-56Q494QF3L) ([github (⭐293)](https://github.com/acrogenesis/jsonview-safari)) - A port of the JSONView Firefox extension that formats and syntax highlights JSON viewed inside of the browser
 
 ### Databases
 
@@ -492,13 +491,12 @@
 
 ### Data modeling
 
-*   [JSONModel (⭐6.8k)](https://github.com/jsonmodel/jsonmodel) - Magical Data Modelling Framework. (Objective-C)
+*   [JSONModel (⭐6.9k)](https://github.com/jsonmodel/jsonmodel) - Magical Data Modelling Framework. (Objective-C)
 
 ### Format Extensions
 
 *   [hal-json](https://stateless.group/hal_specification.html) - A set of conventions for expressing hyperlinks in either JSON or XML.
 *   [JSON Activity Streams](https://activitystrea.ms/) - A format for syndicating social activities around the web.
-*   [JSON Table Schema](https://frictionlessdata.io/table-schema/) - a simple schema for tabular data
 
 ### Frontend components
 
@@ -506,8 +504,7 @@
 
 ### Libraries
 
-*   [Jansson](https://digip.org/jansson/) - A C library for encoding, decoding and manipulating data.
-*   [SBJson (⭐3.8k)](https://github.com/SBJson/SBJson) - Parse one or more chunks of data.
+*   [SBJson (⭐3.7k)](https://github.com/SBJson/SBJson) - Parse one or more chunks of data.
 *   [jsonapi-consumer (⭐6)](https://github.com/OKTAYKIR/jsonapi-consumer) - Client framework for consuming JSONAPI based APIs on the [JSON API standard](https://jsonapi.org).
 
 ### Online tools
@@ -528,26 +525,22 @@
 
 ### Related formats
 
-*   [AXON (⭐21)](https://github.com/intellimath/pyaxon) - A simple text based format for interchanging of objects, documents and data. It tries to combine the best of JSON, XML and YAML.
+*   [AXON (⭐22)](https://github.com/intellimath/pyaxon) - A simple text based format for interchanging of objects, documents and data. It tries to combine the best of JSON, XML and YAML.
 
 ### Transformations
 
-*   [SassyJSON (⭐171)](https://github.com/KittyGiraudel/SassyJSON) - Sass-powered API. (Sass)
+*   [SassyJSON (⭐169)](https://github.com/KittyGiraudel/SassyJSON) - Sass-powered API. (Sass)
 
 ### Queries
 
-*   [dasel (⭐3.7k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐23k)](https://github.com/stedolan/jq) / [yq (⭐2k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
+*   [dasel (⭐4.7k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐28k)](https://github.com/jqlang/jq) / [yq (⭐2.4k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 *   [JMESPath](https://jmespath.org/) - A query language for JSON.
 *   [JSONiq](https://www.jsoniq.org/) - The JSON Query Language.
 *   [JSONata](https://jsonata.org/) - Query and transformation language used in Node-RED, supports function expressions.
 
-### JSON Schema Resources
-
-*   [JSON Schema Store](https://schemastore.org/json/) - A collection of popular schemas.
-
 ### JSON Schema Validators
 
-*   [ajv (⭐12k)](https://github.com/ajv-validator/ajv) - The fastest validator. Supports v5/6 proposals.
+*   [ajv (⭐13k)](https://github.com/ajv-validator/ajv) - The fastest validator. Supports v5/6 proposals.
 
 ## [43. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -583,7 +576,7 @@
 
 ### CLI Builder
 
-*   [Runfile (⭐29)](https://github.com/DannyBen/runfile) - Build command line applications per project with ease. Rake-inspired, Docopt inside.
+*   [Runfile (⭐34)](https://github.com/DannyBen/runfile) - Build command line applications per project with ease. Rake-inspired, Docopt inside.
 
 ### Core Extensions
 
@@ -601,11 +594,11 @@
 
 ### Decorators
 
-*   [ShowFor (⭐462)](https://github.com/heartcombo/show_for) - Quickly show a model information with I18n features. Like form\_for for displaying model data.
+*   [ShowFor (⭐461)](https://github.com/heartcombo/show_for) - Quickly show a model information with I18n features. Like form\_for for displaying model data.
 
 ### Email
 
-*   [MailForm (⭐878)](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
+*   [MailForm (⭐879)](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 
 ### Form Builder
 
@@ -621,7 +614,7 @@
 
 ### Process Management and Monitoring
 
-*   [RedisWebManager (⭐172)](https://github.com/OpenGems/redis_web_manager) - Web interface that allows you to manage easily your Redis instance (see keys, memory used, connected client, etc...).
+*   [RedisWebManager (⭐173)](https://github.com/OpenGems/redis_web_manager) - Web interface that allows you to manage easily your Redis instance (see keys, memory used, connected client, etc...).
 
 ### Search
 
@@ -870,17 +863,17 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 
 ### Contents / Imaging
 
-*   [Cornerstone (⭐1.9k)](https://github.com/cornerstonejs/cornerstone) - Open source project with a goal to deliver a complete web based medical imaging platform.
-*   [Drishti (⭐159)](https://github.com/nci/drishti/wiki) - Tomography and electron-microscopy data visualizer for both scientists and lay people.
+*   [Cornerstone (⭐2k)](https://github.com/cornerstonejs/cornerstone) - Open source project with a goal to deliver a complete web based medical imaging platform.
+*   [Drishti (⭐164)](https://github.com/nci/drishti/wiki) - Tomography and electron-microscopy data visualizer for both scientists and lay people.
 
 ### Contents / Frameworks
 
-*   [CareKit (⭐2.3k)](https://github.com/carekit-apple/CareKit/) - Open source software framework for creating apps that help people better understand and manage their health.
+*   [CareKit (⭐2.4k)](https://github.com/carekit-apple/CareKit/) - Open source software framework for creating apps that help people better understand and manage their health.
 
 ### Contents / Libraries
 
-*   [Evil-DICOM (⭐152)](https://github.com/rexcardan/Evil-DICOM) - C# DICOM Library.
-*   [Python SMART on FHIR client (⭐499)](https://github.com/smart-on-fhir/client-py) - Flexible Python client for FHIR servers supporting the SMART on FHIR protocol.
+*   [Evil-DICOM (⭐163)](https://github.com/rexcardan/Evil-DICOM) - C# DICOM Library.
+*   [Python SMART on FHIR client (⭐534)](https://github.com/smart-on-fhir/client-py) - Flexible Python client for FHIR servers supporting the SMART on FHIR protocol.
 
 ### Contents / Applications
 
@@ -888,7 +881,7 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 
 ### Contents / Datasets
 
-*   [Medical Data for Machine Learning (⭐5.5k)](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
+*   [Medical Data for Machine Learning (⭐5.7k)](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
 
 ## [56. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 

@@ -174,11 +174,11 @@
 
 ### Macros
 
-*   [pipes (⭐327)](https://github.com/batate/elixir-pipes) - Macros for more flexible composition with the Elixir Pipe operator.
+*   [pipes (⭐328)](https://github.com/batate/elixir-pipes) - Macros for more flexible composition with the Elixir Pipe operator.
 
 ### Markdown
 
-*   [cmark (⭐93)](https://github.com/asaaki/cmark.ex) - Elixir NIF for CommonMark (in C), a parser following the CommonMark spec.
+*   [cmark (⭐94)](https://github.com/asaaki/cmark.ex) - Elixir NIF for CommonMark (in C), a parser following the CommonMark spec.
 
 ### Miscellaneous
 
@@ -202,20 +202,20 @@
 ### Queue
 
 *   [exq (⭐1.5k)](https://github.com/akira/exq) - Job processing library for Elixir - compatible with Resque/Sidekiq.
-*   [work\_queue (⭐40)](https://github.com/pragdave/work_queue) - Simple implementation of the hungry-consumer model in Elixir.
+*   [work\_queue (⭐41)](https://github.com/pragdave/work_queue) - Simple implementation of the hungry-consumer model in Elixir.
 
 ### Testing
 
 *   [blitzy (⭐84)](https://github.com/benjamintanweihao/blitzy) - A simple HTTP load tester in Elixir.
-*   [katt (⭐116)](https://github.com/for-GET/katt) - KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
+*   [katt (⭐117)](https://github.com/for-GET/katt) - KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
 *   [kovacs (⭐5)](https://github.com/antp/kovacs) - A simple ExUnit test runner.
 *   [ponos (⭐157)](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
-*   [shouldi (⭐135)](https://github.com/batate/shouldi) - Elixir testing libraries with nested contexts, superior readability, and ease of use.
+*   [shouldi (⭐136)](https://github.com/batate/shouldi) - Elixir testing libraries with nested contexts, superior readability, and ease of use.
 
 ### Text and Numbers
 
 *   [elixilorem (⭐9)](https://github.com/mgamini/elixilorem) - Lorem Ipsum generator for Elixir.
-*   [hashids (⭐272)](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
+*   [hashids (⭐274)](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
 *   [ltsvex (⭐10)](https://github.com/ma2gedev/ltsvex) - LTSV parser implementation in Elixir.
 *   [pretty\_hex (⭐7)](https://github.com/polsab/pretty_hex) - A binary hex dumping library in Elixir.
 

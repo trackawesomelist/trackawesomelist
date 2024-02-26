@@ -53,11 +53,11 @@
 
 ### Artificial Intelligence
 
-*   [Kaldi (⭐13k)](https://github.com/kaldi-asr/kaldi) - Toolkit for speech recognition. \[Apache]
+*   [Kaldi (⭐14k)](https://github.com/kaldi-asr/kaldi) - Toolkit for speech recognition. \[Apache]
 
 ### Debug
 
-*   [fff (⭐687)](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. \[MIT]
+*   [fff (⭐692)](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. \[MIT]
 
 ### Articles
 
@@ -444,7 +444,7 @@
 ### Install tools
 
 *   [Squirrel (⭐7.1k)](https://github.com/squirrel/squirrel.windows) - Squirrel is both a set of tools and a library, to completely manage both installation and updating your desktop Windows application.
-*   [Chocolatey (⭐9.6k)](https://github.com/chocolatey/choco) - like `yum` or `apt-get`, but for Windows.
+*   [Chocolatey (⭐9.7k)](https://github.com/chocolatey/choco) - like `yum` or `apt-get`, but for Windows.
 
 ### Interoperability
 
@@ -2841,19 +2841,19 @@
 ### Documentation
 
 *   [Gollum (⭐13k)](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
-*   [RDoc (⭐811)](https://github.com/ruby/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
+*   [RDoc (⭐812)](https://github.com/ruby/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
 
 ### Networking
 
-*   [RubyDNS (⭐702)](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
+*   [RubyDNS (⭐704)](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
 
 ### State Machines
 
-*   [MicroMachine (⭐524)](https://github.com/soveran/micromachine) - A minimal finite state machine implementation in less than 50 lines of code.
+*   [MicroMachine (⭐523)](https://github.com/soveran/micromachine) - A minimal finite state machine implementation in less than 50 lines of code.
 
 ### View helpers
 
-*   [Bh (⭐833)](https://github.com/fullscreen/bh) - Bootstrap Helpers for Ruby.
+*   [Bh (⭐832)](https://github.com/fullscreen/bh) - Bootstrap Helpers for Ruby.
 *   [gon (⭐3k)](https://github.com/gazay/gon) - If you need to send some data to your js files and you don't want to do this with long way through views and parsing - use gon.
 *   [PluggableJs (⭐53)](https://github.com/peresleguine/pluggable_js) - Page-specific javascript for Rails applications with the ability of passing data from a controller.
 
@@ -2913,7 +2913,7 @@
 
 ### Examples and funny stuff
 
-*   [crystal-patterns (⭐292)](https://github.com/crystal-community/crystal-patterns) - Examples of GOF patters
+*   [crystal-patterns (⭐293)](https://github.com/crystal-community/crystal-patterns) - Examples of GOF patters
 
 ### Machine Learning
 

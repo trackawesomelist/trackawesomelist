@@ -157,7 +157,7 @@
 
 ### Libraries / GUI
 
-*   [emilk/egui (⭐18k)](https://github.com/emilk/egui) - Simple, fast, and highly portable immediate mode GUI library for Rust. egui runs on the web, natively, and in your favorite game engine. [![Build Status](https://github.com/emilk/egui/workflows/CI/badge.svg)](https://github.com/emilk/egui/actions?workflow=CI)
+*   [emilk/egui (⭐18k)](https://github.com/emilk/egui) - Simple, fast, and highly portable immediate mode GUI library. egui runs on the web, natively, and in your favorite game engine. [![Build Status](https://github.com/emilk/egui/workflows/CI/badge.svg)](https://github.com/emilk/egui/actions?workflow=CI)
 
 ## [12. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 

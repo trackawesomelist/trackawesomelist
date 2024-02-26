@@ -68,7 +68,7 @@
 
 ### Applications / Directory Navigation
 
-*   [whereami (⭐159)](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
+*   [whereami (⭐162)](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
 
 ## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

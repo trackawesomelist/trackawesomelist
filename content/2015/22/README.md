@@ -80,7 +80,7 @@
 
 ### Caching
 
-*   [locker (⭐153)](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
+*   [locker (⭐152)](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
 
 ### Command Line Applications
 
@@ -88,12 +88,12 @@
 
 ### Framework Components
 
-*   [phoenix\_pubsub\_redis (⭐172)](https://github.com/phoenixframework/phoenix_pubsub_redis) - The Redis PubSub adapter for the Phoenix framework.
+*   [phoenix\_pubsub\_redis (⭐173)](https://github.com/phoenixframework/phoenix_pubsub_redis) - The Redis PubSub adapter for the Phoenix framework.
 *   [scaffold (⭐7)](https://github.com/gausby/scaffold) - A mix task for creating new projects based on templates fetched from a Git-repo.
 
 ### Frameworks
 
-*   [trot (⭐412)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
+*   [trot (⭐413)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
 
 ### ORM and Datamapping
 
@@ -109,7 +109,7 @@
 
 ### Testing
 
-*   [proper (⭐873)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
+*   [proper (⭐877)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
 
 ### Text and Numbers
 
@@ -119,12 +119,12 @@
 
 *   [reddhl (⭐4)](https://github.com/MonkeyIsNull/reddhl) - An headline and link puller for Reddit and its various subreddits.
 *   [telephonist (⭐40)](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
-*   [tentacat (⭐435)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
+*   [tentacat (⭐436)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
 
 ### Utilities
 
 *   [ar2ecto (⭐13)](https://github.com/aforward/ar2ecto) - Ar2ecto is a set of mix tasks to help you migrate from ActiveRecord to Ecto.
-*   [erlware\_commons (⭐218)](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
+*   [erlware\_commons (⭐217)](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
 
 ### YAML
 
@@ -300,11 +300,11 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### Configuration
 
-*   [ENVied (⭐330)](https://github.com/eval/envied) - ensure presence and type of your app's ENV-variables
+*   [ENVied (⭐331)](https://github.com/eval/envied) - ensure presence and type of your app's ENV-variables
 
 ### DevOps Tools
 
-*   [SSHKey (⭐273)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
+*   [SSHKey (⭐275)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
 
 ### Error Handling
 
@@ -352,7 +352,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### JavaScript Libraries
 
-*   [Bitcoinjs-lib (⭐5.3k)](https://github.com/bitcoinjs/bitcoinjs-lib)
+*   [Bitcoinjs-lib (⭐5.4k)](https://github.com/bitcoinjs/bitcoinjs-lib)
 
 ## [23. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 

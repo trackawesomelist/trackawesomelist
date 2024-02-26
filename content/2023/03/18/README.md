@@ -10,7 +10,7 @@
 
 ### Authentication and OAuth
 
-*   [go-jose (⭐212)](https://github.com/go-jose/go-jose) - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
+*   [go-jose (⭐218)](https://github.com/go-jose/go-jose) - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
 
 ### NoSQL Database Drivers
 
@@ -52,7 +52,7 @@
 
 ### Core Extensions
 
-*   [MemoWise (⭐531)](https://github.com/panorama-ed/memo_wise) - Memoize any instance/class/module method, including support for frozen objects - rigorously tested and benchmarked on all Rubies - fast performance of memoized reads.
+*   [MemoWise (⭐532)](https://github.com/panorama-ed/memo_wise) - Memoize any instance/class/module method, including support for frozen objects - rigorously tested and benchmarked on all Rubies - fast performance of memoized reads.
 
 ## [5. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 

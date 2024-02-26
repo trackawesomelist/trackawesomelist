@@ -65,7 +65,7 @@
 
 ### Social Media Tools / Telegram
 
-*   [Telegram Nearby Map (⭐596)](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
+*   [Telegram Nearby Map (⭐894)](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
 
 ### Keywords Discovery and Research / Telegram
 

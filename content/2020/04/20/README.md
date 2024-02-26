@@ -52,7 +52,7 @@
 
 ### Photo / Image
 
-*   [react-imgix (⭐349)](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background!
+*   [react-imgix (⭐351)](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background!
 
 ## [4. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 

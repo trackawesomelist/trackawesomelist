@@ -10,7 +10,7 @@
 
 ### Transformations
 
-*   [json-transforms (⭐128)](https://github.com/ColinEberhardt/json-transforms) - A recursive, pattern-matching, approach to transforming JSON structures.
+*   [json-transforms (⭐136)](https://github.com/ColinEberhardt/json-transforms) - A recursive, pattern-matching, approach to transforming JSON structures.
 
 ## [2. Awesome Atom](/content/mehcode/awesome-atom/README.md)
 
@@ -43,12 +43,12 @@
 
 ### Behaviours and Interfaces
 
-*   [gen\_state\_machine (⭐290)](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen\_statem.
+*   [gen\_state\_machine (⭐295)](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen\_statem.
 
 ### Benchmarking
 
 *   [benchee (⭐1.3k)](https://github.com/PragTob/benchee) - Easy and extensible benchmarking in Elixir.
-*   [benchfella (⭐511)](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
+*   [benchfella (⭐512)](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
 *   [bmark (⭐70)](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
 
 ### Cryptography
@@ -61,7 +61,7 @@
 
 ### ORM and Datamapping
 
-*   [shards (⭐291)](https://github.com/cabol/shards) - Transparent and out-of-box Sharding support for Erlang/Elixir ETS tables.
+*   [shards (⭐292)](https://github.com/cabol/shards) - Transparent and out-of-box Sharding support for Erlang/Elixir ETS tables.
 
 ### Queue
 

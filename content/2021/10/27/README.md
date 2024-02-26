@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 27, 2021
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -53,19 +53,13 @@
 
 *   [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - Similar to this repo, a collection of resources of the Civic Tech Field Guide have been crowdsourced by civic tech practitioners from over 100 countries around the world.
 
-## [5. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Machine Learning
-
-*   [Approaching Almost Any Machine Learning Problem (⭐6.1k)](https://github.com/abhishekkrthakur/approachingalmost) - Abhishek Thakur (PDF)
-
-## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Icons
 
-*   [react-icomoon (⭐212)](https://github.com/aykutkardas/react-icomoon) - With react-icomoon you can easily use the icons you have selected or created in icomoon.
+*   [react-icomoon (⭐211)](https://github.com/aykutkardas/react-icomoon) - With react-icomoon you can easily use the icons you have selected or created in icomoon.
 
-## [7. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
+## [6. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
 ### Design Patterns / Scalability and Resilience
 
@@ -77,7 +71,7 @@
 
 *   [Sketchboard.io](https://sketchboard.io/) - Collaborative sketchboarding.
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Blockchain
 
@@ -375,13 +369,13 @@
 
 
 
-## [9. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [8. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Storage / Database
 
 *   [uSQLite (⭐71)](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
 
-## [10. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+## [9. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ### Functional Programming
 
@@ -391,13 +385,13 @@
 
 *   [decline (⭐564)](https://github.com/bkirwi/decline) - A composable command-line parser for Scala.
 
-## [11. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [10. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Starters & Themes
 
 *   🚀 [Vitailse (⭐141)](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
 
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Database
 
@@ -405,42 +399,42 @@
 
     *   [ArangoDB](https://arangodb.com)
         *   [Aragog](https://gitlab.com/qonfucius/aragog) \[[aragog](https://crates.io/crates/aragog)] - A Lightweight ArangoDB Object document, relational and graph mapper [![pipeline status](https://gitlab.com/qonfucius/aragog/badges/master/pipeline.svg)](https://gitlab.com/qonfucius/aragog/-/commits/master)
-        *   [Arangors (⭐127)](https://github.com/fMeow/arangors) \[[arangors](https://crates.io/crates/arangors)] - An ArangoDB driver for Rust
+        *   [Arangors (⭐127)](https://github.com/fMeow/arangors) \[[arangors](https://crates.io/crates/arangors)] - An ArangoDB driver
     *   [Cassandra](https://cassandra.apache.org/_/index.html) \[[cassandra](https://crates.io/keywords/cassandra), [cql](https://crates.io/keywords/cql)]
-        *   [AlexPikalov/cdrs (⭐343)](https://github.com/AlexPikalov/cdrs) \[[cdrs](https://crates.io/crates/cdrs)] — native client written in Rust
-        *   [krojew/cdrs-tokio (⭐119)](https://github.com/krojew/cdrs-tokio) [![build badge](https://github.com/krojew/cdrs-tokio/actions/workflows/rust.yml/badge.svg)](https://github.com/krojew/cdrs-tokio/actions)
-            *   \[[cassandra-protocol](https://crates.io/crates/cassandra-protocol)] - Cassandra protocol implementation in Rust
-            *   \[[cdrs-tokio](https://crates.io/crates/cdrs-tokio)] - production-ready async Apache Cassandra driver written in pure Rust
-        *   [Metaswitch/cassandra-rs (⭐114)](https://github.com/Metaswitch/cassandra-rs) —  bindings to the DataStax C/C++ client
+        *   [AlexPikalov/cdrs (⭐344)](https://github.com/AlexPikalov/cdrs) \[[cdrs](https://crates.io/crates/cdrs)] — native client
+        *   [krojew/cdrs-tokio (⭐122)](https://github.com/krojew/cdrs-tokio) [![build badge](https://github.com/krojew/cdrs-tokio/actions/workflows/rust.yml/badge.svg)](https://github.com/krojew/cdrs-tokio/actions)
+            *   \[[cassandra-protocol](https://crates.io/crates/cassandra-protocol)] - Cassandra protocol implementation.
+            *   \[[cdrs-tokio](https://crates.io/crates/cdrs-tokio)] - production-ready async Apache Cassandra driver
+        *   [Metaswitch/cassandra-rs (⭐117)](https://github.com/Metaswitch/cassandra-rs) —  bindings to the DataStax C/C++ client
     *   CouchDB \[[couchdb](https://crates.io/keywords/couchdb)]
-        *   [chill-rs/chill (⭐35)](https://github.com/chill-rs/chill) \[[couchdb](https://crates.io/crates/chill)] — A Rust client for the CouchDB REST API
+        *   [chill-rs/chill (⭐35)](https://github.com/chill-rs/chill) \[[couchdb](https://crates.io/crates/chill)] — Client for the CouchDB REST API
     *   [DynamoDB](https://aws.amazon.com/dynamodb/) \[[dynamodb](https://crates.io/keywords/dynamodb)]
         *   [softprops/dynomite (⭐211)](https://github.com/softprops/dynomite) - A library for strongly-typed and convenient interaction with `rusoto_dynamodb` [![build badge](https://github.com/softprops/dynomite/workflows/Main/badge.svg?branch=master)](https://github.com/softprops/dynomite/actions)
     *   Elasticsearch \[[elasticsearch](https://crates.io/keywords/elasticsearch)]
-        *   [benashford/rs-es (⭐220)](https://github.com/benashford/rs-es) \[[rs-es](https://crates.io/crates/rs-es)] — A Rust client for the [Elastic](https://www.elastic.co/) REST API
+        *   [benashford/rs-es (⭐220)](https://github.com/benashford/rs-es) \[[rs-es](https://crates.io/crates/rs-es)] — Client for the [Elastic](https://www.elastic.co/) REST API
         *   [elastic-rs/elastic (⭐253)](https://github.com/elastic-rs/elastic) \[[elastic](https://crates.io/crates/elastic)] — elastic is an efficient, modular API client for Elasticsearch written in Rust [![build badge](https://ci.appveyor.com/api/projects/status/csa78tcumdpnbur2?svg=true)](https://ci.appveyor.com/project/KodrAus/elastic)
     *   etcd
         *   [jimmycuadra/rust-etcd (⭐142)](https://github.com/jimmycuadra/rust-etcd) \[[etcd](https://crates.io/crates/etcd)] — A client library for CoreOS's etcd.
-        *   [lodrem/etcd-rs (⭐198)](https://github.com/lodrem/etcd-rs) — An asynchronous etcd client for rust [![CI](https://github.com/lodrem/etcd-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/lodrem/etcd-rs/actions/workflows/ci.yml)
+        *   [lodrem/etcd-rs (⭐196)](https://github.com/lodrem/etcd-rs) — An asynchronous etcd client [![CI](https://github.com/lodrem/etcd-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/lodrem/etcd-rs/actions/workflows/ci.yml)
     *   ForestDB
         *   [vhbit/sherwood (⭐9)](https://github.com/vhbit/sherwood) — [ForestDB (⭐1.3k)](https://github.com/couchbase/forestdb) bindings
     *   [InfluxDB](https://www.influxdata.com/)
         *   [driftluo/InfluxDBClient-rs (⭐81)](https://github.com/driftluo/InfluxDBClient-rs) — Synchronization interface
     *   LevelDB
-        *   [skade/leveldb (⭐182)](https://github.com/skade/leveldb) — [LevelDB (⭐35k)](https://github.com/google/leveldb) bindings
+        *   [skade/leveldb (⭐180)](https://github.com/skade/leveldb) — [LevelDB (⭐35k)](https://github.com/google/leveldb) bindings
     *   LMDB \[[lmdb](https://crates.io/keywords/lmdb)]
         *   [vhbit/lmdb-rs (⭐110)](https://github.com/vhbit/lmdb-rs) \[[lmdb-rs](https://crates.io/crates/lmdb-rs)] — [LMDB](https://www.symas.com/symas-embedded-database-lmdb) bindings
     *   MongoDB \[[mongodb](https://crates.io/keywords/mongodb)]
         *   [mongodb/mongo-rust-driver (⭐1.4k)](https://github.com/mongodb/mongo-rust-driver) \[[mongodb](https://crates.io/crates/mongodb)] — [MongoDB](https://www.mongodb.com/) bindings
     *   [PickleDB](https://pythonhosted.org/pickleDB/)
-        *   [seladb/pickledb-rs (⭐225)](https://github.com/seladb/pickledb-rs) — a lightweight and simple key-value store, heavily inspired by Python's PickleDB.
+        *   [seladb/pickledb-rs (⭐226)](https://github.com/seladb/pickledb-rs) — a lightweight and simple key-value store, heavily inspired by Python's PickleDB.
     *   [PoloDB](https://www.polodb.org/)
-        *   [PoloDB (⭐690)](https://github.com/PoloDB/PoloDB) - An embedded JSON-based database has API similar to MongoDB. ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/PoloDB/PoloDB/rust.yml)
+        *   [PoloDB (⭐707)](https://github.com/PoloDB/PoloDB) - An embedded JSON-based database has API similar to MongoDB. ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/PoloDB/PoloDB/rust.yml)
     *   [Redb](https://www.redb.org/)
-        *   [Redb (⭐2.7k)](https://github.com/cberner/redb) - An embedded key-value database written in pure Rust. It provides a similar interface to other embedded key-value stores such as rocksdb and lmdb. ![GitHub Workflow Status](https://github.com/cberner/redb/actions/workflows/ci.yml/badge.svg)
+        *   [Redb (⭐2.7k)](https://github.com/cberner/redb) - An embedded key-value database. It provides a similar interface to other embedded key-value stores such as rocksdb and lmdb. ![GitHub Workflow Status](https://github.com/cberner/redb/actions/workflows/ci.yml/badge.svg)
     *   Redis \[[redis](https://crates.io/keywords/redis)]
-        *   [aembke/fred (⭐289)](https://github.com/aembke/fred.rs) \[[fred](https://crates.io/crates/fred)] - A high level async [Redis](https://redis.io/) client for Rust with Tokio. [![CircleCI](https://circleci.com/gh/aembke/fred.rs/tree/main.svg?style=svg)](\[https://circleci.com/gh/aembke/fred.rs/tree/main]\(https://app.circleci.com/pipelines/github/aembke/fred.rs?branch=main\))
-        *   [redis-rs (⭐3.3k)](https://github.com/redis-rs/redis-rs) — [Redis](https://redis.io/) library in Rust [![Rust](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml)
+        *   [aembke/fred (⭐303)](https://github.com/aembke/fred.rs) \[[fred](https://crates.io/crates/fred)] - A high level async [Redis](https://redis.io/) client for Rust with Tokio. [![CircleCI](https://circleci.com/gh/aembke/fred.rs/tree/main.svg?style=svg)](\[https://circleci.com/gh/aembke/fred.rs/tree/main]\(https://app.circleci.com/pipelines/github/aembke/fred.rs?branch=main\))
+        *   [redis-rs (⭐3.3k)](https://github.com/redis-rs/redis-rs) — [Redis](https://redis.io/) library [![Rust](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml)
     *   [RocksDB](https://rocksdb.org/)
         *   [rust-rocksdb/rust-rocksdb (⭐1.7k)](https://github.com/rust-rocksdb/rust-rocksdb) — RocksDB bindings [![RocksDB CI](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml)
     *   [SurrealDB](https://surrealdb.com/)
@@ -448,10 +442,10 @@
     *   [UnQLite](https://unqlite.org/)
         *   [zitsen/unqlite.rs (⭐108)](https://github.com/zitsen/unqlite.rs) — UnQLite bindings
     *   [ZooKeeper](https://zookeeper.apache.org/)
-        *   [bonifaido/rust-zookeeper (⭐197)](https://github.com/bonifaido/rust-zookeeper) \[[zookeeper](https://crates.io/crates/zookeeper)] — A client library for Apache ZooKeeper.
-        *   [krojew/rust-zookeeper (⭐23)](https://github.com/krojew/rust-zookeeper) \[[zookeeper-async](https://crates.io/crates/zookeeper-async)] - Async Zookeeper client written 100% in Rust, based on tokio.  ![build status](https://github.com/krojew/rust-zookeeper/actions/workflows/rust.yml/badge.svg)
+        *   [bonifaido/rust-zookeeper (⭐198)](https://github.com/bonifaido/rust-zookeeper) \[[zookeeper](https://crates.io/crates/zookeeper)] — A client library for Apache ZooKeeper.
+        *   [krojew/rust-zookeeper (⭐23)](https://github.com/krojew/rust-zookeeper) \[[zookeeper-async](https://crates.io/crates/zookeeper-async)] - Async Zookeeper client, based on tokio.  ![build status](https://github.com/krojew/rust-zookeeper/actions/workflows/rust.yml/badge.svg)
 
-## [13. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [12. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Self-Hosted
 
@@ -462,7 +456,7 @@
 
 *   [Dim (⭐3.6k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 

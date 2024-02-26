@@ -41,13 +41,13 @@
 
 ### Official Resources
 
-*   [Awesome Vue (⭐70k)](https://github.com/vuejs/awesome-vue)
+*   [Awesome Vue (⭐71k)](https://github.com/vuejs/awesome-vue)
 
 ### Apps/Websites / Community
 
-*   [Icônes (⭐4.5k)](https://github.com/antfu/icones) - Icon explorer with instant search.
-*   [Awesome CN Café (⭐91)](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
-*   [Todo Example (⭐35)](https://github.com/beary/vite-example) - Todo app with routing and state management.
+*   [Icônes (⭐4.6k)](https://github.com/antfu/icones) - Icon explorer with instant search.
+*   [Awesome CN Café (⭐92)](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
+*   [Todo Example (⭐36)](https://github.com/beary/vite-example) - Todo app with routing and state management.
 
 ## [7. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
@@ -80,8 +80,8 @@
 
 ### Penetration Testing
 
-*   [setoolkit (⭐9.1k)](https://github.com/trustedsec/social-engineer-toolkit) - A toolkit for social engineering.
-*   [sqlmap (⭐27k)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
+*   [setoolkit (⭐9.9k)](https://github.com/trustedsec/social-engineer-toolkit) - A toolkit for social engineering.
+*   [sqlmap (⭐30k)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
 
 ## [10. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 

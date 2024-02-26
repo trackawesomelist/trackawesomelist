@@ -82,7 +82,7 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_psql\_extras (⭐347)](https://github.com/pawurb/ecto_psql_extras) - Ecto PostgreSQL database performance insights.
+*   [ecto\_psql\_extras (⭐349)](https://github.com/pawurb/ecto_psql_extras) - Ecto PostgreSQL database performance insights.
 
 ### Testing
 
@@ -152,7 +152,7 @@
 *   [GNU Health](https://www.gnuhealth.org) - Electronic Medical Record, Hospital Management, and Health Information System.
 *   [FreeMedForms EMR](https://freemedforms.com/fr/start) - Electronic Medical Record software.
 *   [LibreHealth EHR](https://librehealth.io/projects/lh-ehr/) - Clinically-focused Electronic Health Record System.
-*   [OpenClinic (⭐25)](https://github.com/jact/openclinic) - Medical Records System.
+*   [OpenClinic (⭐28)](https://github.com/jact/openclinic) - Medical Records System.
 *   [OpenEMR](https://www.open-emr.org) - Electronic Health Records and Medical Practice Management application.
 *   [OpenEyes](https://openeyes.apperta.org) - Electronic Medical Record application for ophthalmology.
 *   [OpenMRS](https://openmrs.org) - Enterprise Electronic Medical Record System platform.
@@ -181,7 +181,7 @@
 
 *   [FHIRBase](https://fhirbase.github.io) - Storage based on the FHIR Standard.
 *   [Opal](https://opal.openhealthcare.org.uk/) - Framework for building clinical applications.
-*   [Spark (⭐227)](https://github.com/FirelyTeam/spark) - Public domain FHIR server developed in C#.
+*   [Spark (⭐240)](https://github.com/FirelyTeam/spark) - Public domain FHIR server developed in C#.
 
 ### Contents / Libraries
 
@@ -189,17 +189,17 @@
 
 ### Contents / Integration
 
-*   [NextGen Connect Integration Engine (⭐737)](https://github.com/nextgenhealthcare/connect) - The swiss army knife of healthcare integration.
+*   [NextGen Connect Integration Engine (⭐810)](https://github.com/nextgenhealthcare/connect) - The swiss army knife of healthcare integration.
 
 ### Contents / Bioinformatics
 
-*   [Bcbio (⭐941)](https://github.com/bcbio/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
+*   [Bcbio (⭐965)](https://github.com/bcbio/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
 *   [Wregex](https://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix.
 
 ### Contents / Data
 
 *   [cTAKES](https://ctakes.apache.org/) - Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.
-*   [Snow Owl (⭐238)](https://github.com/b2ihealthcare/snow-owl) - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features.
+*   [Snow Owl (⭐244)](https://github.com/b2ihealthcare/snow-owl) - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features.
 
 ## [17. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -230,7 +230,7 @@
 
 ### Tooling / Frameworks
 
-*   [Trunk (⭐3k)](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust Wasm application to the web.
+*   [Trunk (⭐3.1k)](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust Wasm application to the web.
 
 ## [20. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

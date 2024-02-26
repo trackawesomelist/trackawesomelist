@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 11 - Apr 17, 2016
 
-32 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -49,7 +49,7 @@
 
 ### Command-Line Productivity
 
-*   [sman (⭐286)](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
+*   [sman (⭐287)](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
 
 ### Shell Script Development / Directory Navigation
 
@@ -147,11 +147,11 @@
 
 ### Authorization
 
-*   [AccessGranted (⭐769)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
+*   [AccessGranted (⭐770)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
 
 ### Caching
 
-*   [Readthis (⭐507)](https://github.com/sorentwo/readthis) - High performance, pooled, ActiveSupport compliant caching with Redis.
+*   [Readthis (⭐506)](https://github.com/sorentwo/readthis) - High performance, pooled, ActiveSupport compliant caching with Redis.
 
 ### CLI Builder
 
@@ -159,7 +159,7 @@
 
 ### Geolocation
 
-*   [rgeo (⭐985)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
+*   [rgeo (⭐990)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
 
 ### Git Tools
 
@@ -315,17 +315,13 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 ## [25. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
-### Integrated Development Environments
-
-*   [Nvim-R (⭐912)](https://github.com/jalvesaq/Nvim-R) - Neovim plugin for R.
-
 ### Lists / Book/monograph Lists and Reviews
 
 *   [ggplot2 Extensions](https://ggplot2-exts.github.io/ggiraph.html) - Showcases of ggplot2 extensions.
-*   [Books (⭐224)](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
+*   [Books (⭐226)](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
 *   [Network Analysis (⭐3.3k)](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
 *   [R Project Conferences](https://www.r-project.org/conferences.html) -  Information about useR! Conferences and DSC Conferences.
-*   [Topic Models (⭐224)](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
+*   [Topic Models (⭐227)](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
 
 ## [26. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -533,7 +529,15 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 *   [Three Hard Questions about Network Science](http://environmentalpolicy.ucdavis.edu/node/292).
 *   [What is Network Science?](http://journals.cambridge.org/repo_A88Sa8AHdt4SoI) - First editorial of the recent *Network Science* journal.
 
-## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [31. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### Rust / Django
+
+*   [Rust 官方教程 (⭐1.7k)](https://github.com/KaiserY/rust-book-chinese)
+*   [Rust 语言学习笔记 (⭐143)](https://github.com/photino/rust-notes)
+*   [RustPrimer (⭐1.7k)](https://github.com/rustcc/RustPrimer)
+
+## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -547,7 +551,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 *   [segseg (⭐5)](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
 
-## [32. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [33. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 

@@ -116,11 +116,11 @@
 
 ### Templates / React
 
-*   [Viterts (⭐33)](https://github.com/erdoganbulut/viterts/) - React + TypeScript + Redux + React Router + Jest + ESLint + Airbnb + Prettier + SASS.
+*   [Viterts (⭐32)](https://github.com/erdoganbulut/viterts/) - React + TypeScript + Redux + React Router + Jest + ESLint + Airbnb + Prettier + SASS.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-glsl (⭐269)](https://github.com/UstymUkhman/vite-plugin-glsl) - Import shader file chunks.
+*   [vite-plugin-glsl (⭐272)](https://github.com/UstymUkhman/vite-plugin-glsl) - Import shader file chunks.
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -128,7 +128,7 @@
 
 ### Apps/Websites / Community
 
-*   [pointer-lock-movement (⭐14)](https://github.com/zheeeng/pointer-lock-movement) - A pointer lock movement manager for customizing your own creative UI.
+*   [pointer-lock-movement (⭐15)](https://github.com/zheeeng/pointer-lock-movement) - A pointer lock movement manager for customizing your own creative UI.
 
 ---
 

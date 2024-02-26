@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 20, 2020
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -32,13 +32,7 @@
 | ------: | -------: | ---: |
 |   2 - 4 |       8+ |  15m |
 
-## [4. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### Compatibility
-
-*   [modernize (⭐317)](https://github.com/PyCQA/modernize) - Modernizes Python code for eventual Python 3 migration.
-
-## [5. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [4. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Startups and Business
 
@@ -112,13 +106,13 @@
 
 
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-toaster (⭐184)](https://github.com/MeForma/vue-toaster) - Vue.js toast notification plugin for Vue 3
 
-## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Free eBooks
 
@@ -128,13 +122,13 @@
 
 *   [João Rosa](https://joaorosa.io) - Personal blog about Domain-Driven Design, Visual Collaboration, leadership and organisational design. And other things in between. Curator of [Visual Collaboration Tools](https://leanpub.com/visualcollaborationtools/) and host of the [Software Crafts Podcast](https://www.softwarecraftspodcast.com/)
 
-## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [7. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
 *   [Raspberry Pi Imager](https://www.raspberrypi.org/blog/raspberry-pi-imager-imaging-utility/) - An easy way to install Raspberry Pi OS and other operating systems to an SD card ready to use with your Raspberry Pi
 
-## [9. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [8. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Documentation
 
@@ -144,25 +138,25 @@
 
 *   [GameBoy programming tutorial: Hello World!](https://peterwynroberts.wordpress.com/2014/05/11/gameboy-programming-tutorial-hello-world/) - Step by step tutorial.
 
-## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
 *   [NeumorphismKit (⭐45)](https://github.com/y-okudera/NeumorphismKit) - Neumorphism framework for UIKit.
 
-## [11. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
+## [10. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
 ### Websites
 
 *   [School of Haskell](https://www.schoolofhaskell.com/) - Learning Haskell.
 
-## [12. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [11. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### OS
 
 *   [The Drag and Drop Component Suite (⭐132)](https://github.com/landrix/The-Drag-and-Drop-Component-Suite-for-Delphi). `[Delphi]` VCL component library that enables your Delphi and C++Builder applications to support COM based drag and drop and integrate with the Windows clipboard.
 
-## [13. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [12. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Frameworks
 
@@ -180,13 +174,13 @@
 
 *   [PLClub Blog](https://www.seas.upenn.edu/~plclub/blog/)
 
-## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Note-taking & Editors
 
-*   [minimalist-web-notepad (⭐923)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
+*   [minimalist-web-notepad (⭐939)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
 
-## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### API
 

@@ -11,15 +11,15 @@
 ### Algorithms and Data structures
 
 *   [red\_black\_tree (⭐38)](https://github.com/SenecaSystems/red_black_tree) - Red-Black tree implementation in Elixir.
-*   [sorted\_set (⭐20)](https://github.com/SenecaSystems/sorted_set) - Sorted Sets for Elixir.
+*   [sorted\_set (⭐21)](https://github.com/SenecaSystems/sorted_set) - Sorted Sets for Elixir.
 
 ### Debugging
 
-*   [beaker (⭐282)](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
+*   [beaker (⭐281)](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
 
 ### Frameworks
 
-*   [rackla (⭐267)](https://github.com/AntonFagerberg/rackla) - API Gateways in Elixir.
+*   [rackla (⭐268)](https://github.com/AntonFagerberg/rackla) - API Gateways in Elixir.
 
 ### ORM and Datamapping
 

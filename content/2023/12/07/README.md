@@ -34,7 +34,7 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-elasticstack (⭐141)](https://github.com/elastic/terraform-provider-elasticstack) - Provider for Elasticsearch and Kibana.
+*   [terraform-provider-elasticstack (⭐144)](https://github.com/elastic/terraform-provider-elasticstack) - Provider for Elasticsearch and Kibana.
 
 ---
 

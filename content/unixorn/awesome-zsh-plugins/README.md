@@ -6,6 +6,28 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ Daily / [Weekly](/content/unixorn/awesome-zsh-plugins/week/README.md) / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Feb 26, 2024](/content/2024/02/26/README.md)
+
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [talosctl (⭐0)](https://github.com/RusMephist/talosctl-zsh-plugin) - Tab completion for [Talos Linux](https://www.talos.dev/v1.6/introduction/what-is-talos/).
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [sashimi (⭐0)](https://github.com/simonmader17/sashimi-zsh-theme) - Includes decorators for `git` status and the exit status of the last command run.
+
+## [Feb 24, 2024](/content/2024/02/24/README.md)
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [glider (⭐1)](https://github.com/MrRedacted/zsh-glider) - Based on [strug (⭐2)](https://github.com/triplepointfive/oh-my-zsh/blob/master/themes/strug.zsh-theme). Includes decorators for `git` status, username, hostname and current directory.
+
+## [Feb 20, 2024](/content/2024/02/20/README.md)
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [goldenprompt (⭐1)](https://github.com/Goldeneye128/goldenprompt) - A simple prompt that incorporates fish-like functionality and decorators for `git` status, current directory.
+
 ## [Feb 17, 2024](/content/2024/02/17/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -17,7 +39,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [chatGPT (⭐10)](https://github.com/mountaineerbr/shellChatGPT) - A command-line wrapper for OpenAI API for ChatGPT, DALL-E, and Whisper.
+*   [chatGPT (⭐17)](https://github.com/mountaineerbr/shellChatGPT) - A command-line wrapper for OpenAI API for ChatGPT, DALL-E, and Whisper.
 *   [eza (mohamedelashri) (⭐0)](https://github.com/MohamedElashri/eza-zsh) - Adds aliases for [eza (⭐5.5k)](https://github.com/eza-community/eza), a modern replacement for `ls`.
 
 ## [Feb 05, 2024](/content/2024/02/05/README.md)
@@ -81,7 +103,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [manpage-completion-generator (⭐18)](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generats ZSH completions from man pages. Requires [create\_manpage\_completions.py (⭐24k)](https://github.com/fish-shell/fish-shell/blob/master/share/tools/create_manpage_completions.py) which is installed by the fish shell
+*   [manpage-completion-generator (⭐17)](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generats ZSH completions from man pages. Requires [create\_manpage\_completions.py (⭐24k)](https://github.com/fish-shell/fish-shell/blob/master/share/tools/create_manpage_completions.py) which is installed by the fish shell
 
 ## [Jan 14, 2024](/content/2024/01/14/README.md)
 
@@ -1727,7 +1749,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [yup (⭐0)](https://github.com/redxtech/zsh-yup) - Adds helper function to upgrade all the dependencies in a `yarn`/`npm` project.
 *   [zellij (jaeheonji) (⭐6)](https://github.com/jaeheonji/zsh-zellij-plugin) - Provides an environment that uses [zellij (⭐16k)](https://github.com/zellij-org/zellij). Requires [tmux (⭐32k)](https://github.com/tmux/tmux).
 *   [zgen-compinit-tweak (⭐3)](https://github.com/seletskiy/zsh-zgen-compinit-tweak) - Make `compinit` run only once after all loading is done by [zgen (⭐1.5k)](https://github.com/tarjoilija/zgen).
-*   [zsh-in-docker (⭐788)](https://github.com/deluan/zsh-in-docker) - Automates ZSH + [oh-my-zsh](https://ohmyz.sh/) installation into development containers. Works with Alpine, Ubuntu, Debian, CentOS or Amazon Linux.
+*   [zsh-in-docker (⭐797)](https://github.com/deluan/zsh-in-docker) - Automates ZSH + [oh-my-zsh](https://ohmyz.sh/) installation into development containers. Works with Alpine, Ubuntu, Debian, CentOS or Amazon Linux.
 *   [zsh-not-vim (⭐4)](https://github.com/redxtech/zsh-not-vim) - Provides a function that automatically shames the user for forgetting they weren't in `vim`.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -3955,7 +3977,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Other Useful Lists / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [awesome-devenv (⭐2.7k)](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
-*   [awesome-sysadmin (⭐21k)](https://github.com/n1trux/awesome-sysadmin) - A curated list of awesome open source sysadmin resources.
+*   [awesome-sysadmin (⭐22k)](https://github.com/n1trux/awesome-sysadmin) - A curated list of awesome open source sysadmin resources.
 *   [Terminals Are Sexy (⭐12k)](https://github.com/k4m4/terminals-are-sexy) - A curated list for CLI lovers.
 
 ## [Nov 18, 2021](/content/2021/11/18/README.md)

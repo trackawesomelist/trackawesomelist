@@ -22,7 +22,7 @@
 
 ### Command-Line Productivity
 
-*   [fzf (⭐55k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+*   [fzf (⭐58k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 *   [marker (⭐2k)](https://github.com/pindexis/marker) - Bookmark your shell commands
 
 ### System Utilities / Directory Navigation
@@ -33,7 +33,7 @@
 
 ### Logging
 
-*   [metrix (⭐50)](https://github.com/rwdaigle/metrix) - Log custom app metrics to stdout for use by Librato and other downstream processors.
+*   [metrix (⭐49)](https://github.com/rwdaigle/metrix) - Log custom app metrics to stdout for use by Librato and other downstream processors.
 
 ### Third Party APIs
 

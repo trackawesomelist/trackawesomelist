@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 09, 2014
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,13 +18,7 @@
 
 *   [awesome-algorithms (⭐17k)](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 
-## [3. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### Newsletters
-
-*   [Pycoder's Weekly](http://pycoders.com/)
-
-## [4. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
+## [3. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
 
 ### Resources / OpenResty
 

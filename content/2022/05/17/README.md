@@ -17,7 +17,7 @@
 
 ### Tools
 
-*   [Polkadot PANIC (⭐39)](https://github.com/SimplyVC/panic_polkadot) - Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains.
+*   [Polkadot PANIC (⭐38)](https://github.com/SimplyVC/panic_polkadot) - Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains.
 
 ## [3. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 

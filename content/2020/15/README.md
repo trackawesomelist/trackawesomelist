@@ -333,7 +333,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Toutatis (⭐1.3k)](https://github.com/megadose/toutatis)
+*   [Toutatis (⭐1.5k)](https://github.com/megadose/toutatis)
 
 ## [9. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
@@ -346,7 +346,7 @@
 ### 2020
 
 *   [VSCode](https://code.visualstudio.com/) - [vscode-R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) + [vscode-r-lsp](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r-lsp) VSCode R Langauage Support
-*   [gt (⭐1.8k)](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R
+*   [gt (⭐1.9k)](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R
 
 ### Integrated Development Environments
 
@@ -482,15 +482,15 @@
 
 ### Integrations
 
-*   [jest-playwright (⭐516)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
+*   [jest-playwright (⭐517)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
 
 ### Showcases
 
-*   [playwright-jest-examples (⭐95)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
-*   [VS Code (⭐155k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
-*   [TypeScript (⭐96k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
-*   [Elastic APM JS agent (⭐266)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
-*   [Blockstack (⭐266)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
+*   [playwright-jest-examples (⭐96)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
+*   [VS Code (⭐156k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
+*   [TypeScript (⭐97k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
+*   [Elastic APM JS agent (⭐268)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
+*   [Blockstack (⭐273)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
 *   [xterm.js (⭐16k)](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
 
 ## [22. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
@@ -719,7 +719,7 @@
 
 ### Apps / Modeladmin
 
-*   [wagtail-admin-list-controls (⭐41)](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
+*   [wagtail-admin-list-controls (⭐42)](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
 
 ## [38. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -735,12 +735,12 @@
 
 ### Shells
 
-*   [nushell (⭐27k)](https://github.com/nushell/nushell) - A modern shell written in Rust
+*   [nushell (⭐29k)](https://github.com/nushell/nushell) - A modern shell written in Rust
 
 ### Command-Line Productivity
 
 *   [byobu](https://www.byobu.org) - Text-based window manager and terminal multiplexer
-*   [xxh (⭐4.7k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
+*   [xxh (⭐4.8k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
 
 ### System Utilities / Directory Navigation
 
@@ -748,9 +748,9 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bash-language-server (⭐1.8k)](https://github.com/bash-lsp/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
+*   [bash-language-server (⭐1.9k)](https://github.com/bash-lsp/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
 *   [critic.sh (⭐451)](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
-*   [esh (⭐195)](https://github.com/jirutka/esh) - A simple templating engine based on shell, implemented in \~290 lines of POSIX shell and awk.
+*   [esh (⭐198)](https://github.com/jirutka/esh) - A simple templating engine based on shell, implemented in \~290 lines of POSIX shell and awk.
 
 ## [40. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
@@ -901,24 +901,19 @@
 
 ### CMS
 
-*   [indico (⭐1.5k)](https://github.com/indico/indico) - A feature-rich event management system, made @ [CERN](https://en.wikipedia.org/wiki/CERN).
-
-### Computer Vision
-
-*   [SimpleCV (⭐2.6k)](https://github.com/sightmachine/SimpleCV) - An open source framework for building computer vision applications.
+*   [indico (⭐1.6k)](https://github.com/indico/indico) - A feature-rich event management system, made @ [CERN](https://en.wikipedia.org/wiki/CERN).
 
 ### Distribution
 
-*   [shiv (⭐1.6k)](https://github.com/linkedin/shiv) - A command line utility for building fully self-contained zipapps (PEP 441), but with all their dependencies included.
+*   [shiv (⭐1.7k)](https://github.com/linkedin/shiv) - A command line utility for building fully self-contained zipapps (PEP 441), but with all their dependencies included.
 
 ### Functional Programming
 
-*   [Coconut (⭐3.8k)](https://github.com/evhub/coconut) - A variant of Python built for simple, elegant, Pythonic functional programming.
-*   [more-itertools (⭐3.1k)](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
+*   [more-itertools (⭐3.4k)](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
 
 ### RPC Servers
 
-*   [RPyC (⭐1.4k)](https://github.com/tomerfiliba/rpyc) (Remote Python Call) - A transparent and symmetric RPC library for Python
+*   [RPyC (⭐1.5k)](https://github.com/tomerfiliba/rpyc) (Remote Python Call) - A transparent and symmetric RPC library for Python
 
 ## [45. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 

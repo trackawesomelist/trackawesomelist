@@ -75,7 +75,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [rebash (⭐72)](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
+*   [rebash (⭐73)](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Examples and funny stuff
 
-*   [oop (⭐298)](https://github.com/wojtekmach/oop) - OOP in Elixir.
+*   [oop (⭐300)](https://github.com/wojtekmach/oop) - OOP in Elixir.
 
 ## [7. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 

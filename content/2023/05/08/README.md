@@ -61,7 +61,7 @@
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [gventuri/pandas-ai (⭐9.6k)](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
+*   [gventuri/pandas-ai (⭐9.8k)](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [alias-maker (⭐4)](https://github.com/MefitHp/alias-maker) - Allows you to easily create and manage aliases from the command line.
+*   [alias-maker (⭐5)](https://github.com/MefitHp/alias-maker) - Allows you to easily create and manage aliases from the command line.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

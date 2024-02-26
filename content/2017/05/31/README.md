@@ -42,7 +42,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [Flow Dashboard (⭐1.6k)](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
+*   [Flow Dashboard (⭐1.7k)](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
 
 ## [6. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 

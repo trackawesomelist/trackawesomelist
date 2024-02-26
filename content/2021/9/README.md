@@ -113,7 +113,7 @@
 
 ### Back-End Development
 
-*   [IAM (⭐1.4k)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
+*   [IAM (⭐1.5k)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
 
 ## [7. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -250,7 +250,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-handlebars (⭐154)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
+*   [vite-plugin-handlebars (⭐157)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
 
 ## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
@@ -485,7 +485,7 @@
 
 ### Documentation
 
-*   [GitHub Changelog Generator (⭐7.2k)](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+*   [GitHub Changelog Generator (⭐7.3k)](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 
 ## [39. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
@@ -554,11 +554,11 @@
 ### Plugins and scripts / Godot 3.2+
 
 *   [Godot Gif Getter (⭐35)](https://github.com/you-win/godot-gif-getter) - An in-game utility for recording and saving GIFs (written in GDNative Rust).
-*   [Tree generator (⭐151)](https://github.com/Zylann/godot_tree_generator_plugin) - Tool for generating trees.
+*   [Tree generator (⭐152)](https://github.com/Zylann/godot_tree_generator_plugin) - Tool for generating trees.
 
 ### Modules / Godot 3.2+
 
-*   [Speech to Text (⭐28)](https://github.com/menip/godot_speech_to_text) - Captures the user's microphone input and converts it to text.
+*   [Speech to Text (⭐30)](https://github.com/menip/godot_speech_to_text) - Captures the user's microphone input and converts it to text.
 
 ## [48. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -639,7 +639,7 @@
 
 ### Software / Video Surveillance
 
-*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐532)](https://github.com/kerberos-io/agent)) `MIT` `Docker/K8S`
+*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐539)](https://github.com/kerberos-io/agent)) `MIT` `Docker/K8S`
 
 ## [56. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -667,7 +667,7 @@
 
 ### Tools / Community providers
 
-*   [regula (⭐911)](https://github.com/fugue/regula) - Evaluates Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security misconfigurations and compliance violations prior to deployment.
+*   [regula (⭐919)](https://github.com/fugue/regula) - Evaluates Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security misconfigurations and compliance violations prior to deployment.
 
 ## [60. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -685,7 +685,7 @@
 
 ### Tools
 
-*   🌍🔧💼 [Twind (⭐3.6k)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
+*   🌍🔧💼 [Twind (⭐3.7k)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
 
 ## [63. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
@@ -701,7 +701,7 @@
 *   Acme:
     *   [acmecrystal (⭐5)](https://github.com/ilanpillemer/acmecrystal) - Reformats crystal code in acme
 *   Emacs
-    *   [crystal-mode](https://melpa.org/#/crystal-mode) - Crystal language support for Emacs ([crystal-lang-tools/emacs-crystal-mode (⭐46)](https://github.com/crystal-lang-tools/emacs-crystal-mode))
+    *   [crystal-mode](https://melpa.org/#/crystal-mode) - Crystal language support for Emacs ([crystal-lang-tools/emacs-crystal-mode (⭐47)](https://github.com/crystal-lang-tools/emacs-crystal-mode))
 
 ## [65. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 

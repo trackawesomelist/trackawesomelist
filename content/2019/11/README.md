@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 18 - Mar 24, 2019
 
-47 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -129,7 +129,7 @@ Free
 
 ### Data Formats
 
-*   [BinData (⭐43)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
+*   [BinData (⭐47)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
 
 ## [14. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
@@ -468,7 +468,7 @@ Free
 
 ### Software / Communication - SIP
 
-*   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐687)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
+*   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐692)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
 
 ## [30. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -518,7 +518,7 @@ Free
 ### Networking
 
 *   [Restinio (⭐1.1k)](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
-*   [cpp-netlib/uri (⭐134)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[Boost]
+*   [cpp-netlib/uri (⭐135)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[Boost]
 *   [restclient-cpp (⭐1.5k)](https://github.com/mrtazz/restclient-cpp) - Simple REST client for C++. It wraps libcurl for HTTP requests. \[MIT]
 *   [uriparser (⭐304)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
 
@@ -591,13 +591,35 @@ Free
 
 *   [MQTT Explorer](https://thomasnordquist.github.io/MQTT-Explorer/) - Tool to visualize your MQTT topics in a topic hierarchy, a MQTT swiss-army knife.
 
-## [43. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [43. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### 操作系统
+
+*   [The Linux Command Line](http://billie66.github.io/TLCL/index.html)
+
+### C++
+
+*   [C/C++ Primer (⭐279)](https://github.com/andycai/cprimer) - andycai
+
+### Java
+
+*   [Spring Boot参考指南 (⭐4.5k)](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (:construction: *翻译中*)
+
+### JavaScript
+
+*   [ECMAScript 6 入门](http://es6.ruanyifeng.com) - 阮一峰
+
+### Python / Django
+
+*   [Django Girls 教程 (1.11)](https://tutorial.djangogirls.org/zh/) (HTML)
+
+## [44. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### People / Twitter
 
 *   [Sander Mak](https://twitter.com/Sander_Mak) - Java Champion, author.
 
-## [44. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [45. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Animation, Graphics & Video Playout
 
@@ -607,7 +629,7 @@ Free
 
 *   [Pi Audio Monitor (⭐127)](https://github.com/martim01/pam) - Audio Monitoring for Raspberry Pi, supports S/PDIF, AES3, AES67, Livewire and Ravenna.
 
-## [45. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [46. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Web
 
@@ -618,7 +640,7 @@ Free
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/npm)
 *   [Blog](https://blog.npmjs.org)
 
-## [46. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [47. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
@@ -626,7 +648,7 @@ Free
 *   [How to Test on Headless Emulators and Simulators with Appium](https://appiumpro.com/editions/58)
 *   [How to Automate Picker Wheel Controls](https://appiumpro.com/editions/59)
 
-## [47. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [48. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 

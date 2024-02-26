@@ -281,7 +281,7 @@
 
 ### Contents / Utilities
 
-*   [PGXN client (⭐114)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
+*   [PGXN client (⭐128)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
 
 ## [22. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -532,7 +532,7 @@
 
 ### Languages
 
-*   [Elchemy (⭐1.2k)](https://github.com/wende/elchemy) - Compiler allowing to translate Elm programming language code to Elixir.
+*   [Elchemy (⭐1.1k)](https://github.com/wende/elchemy) - Compiler allowing to translate Elm programming language code to Elixir.
 
 ## [44. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -1183,11 +1183,11 @@
 
 ### Programming Languages
 
-*   [OCaml (⭐2.6k)](https://github.com/ocaml-community/awesome-ocaml#readme)
+*   [OCaml (⭐2.7k)](https://github.com/ocaml-community/awesome-ocaml#readme)
 
 ### Front-End Development
 
-*   [Aurelia (⭐308)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
+*   [Aurelia (⭐307)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
 *   [Mobile Web Development (⭐1.2k)](https://github.com/myshov/awesome-mobile-web-development#readme) - Creating a great mobile web experience.
 
 ### Entertainment
@@ -1200,7 +1200,7 @@
 
 ### Hardware
 
-*   [Electronics (⭐5.2k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
+*   [Electronics (⭐5.4k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 
 ### Miscellaneous
 
@@ -1347,7 +1347,7 @@
 
 ### Apps / Widgets
 
-*   [wagtail-autocomplete (⭐112)](https://github.com/wagtail/wagtail-autocomplete) - Autocompleting choosers for `ForeignKey`, `ParentalKey`, and `ManyToMany` fields.
+*   [wagtail-autocomplete (⭐115)](https://github.com/wagtail/wagtail-autocomplete) - Autocompleting choosers for `ForeignKey`, `ParentalKey`, and `ManyToMany` fields.
 
 ### Apps / Testing
 
@@ -1355,9 +1355,9 @@
 
 ### Apps / Misc
 
-*   [Wagtail Cache (⭐76)](https://github.com/coderedcorp/wagtail-cache) - A simple page cache for Wagtail using the Django cache middleware.
+*   [Wagtail Cache (⭐75)](https://github.com/coderedcorp/wagtail-cache) - A simple page cache for Wagtail using the Django cache middleware.
 *   [Wagtail GraphQL (⭐38)](https://github.com/tr11/wagtail-graphql) - App to automatically add GraphQL support to a Wagtail website.
-*   [Wagtail Orderable (⭐60)](https://github.com/elton2048/wagtail-orderable) - Mixin support for drag-and-drop ordering in admin panel.
+*   [Wagtail Orderable (⭐61)](https://github.com/elton2048/wagtail-orderable) - Mixin support for drag-and-drop ordering in admin panel.
 
 ### Resources / Getting started
 

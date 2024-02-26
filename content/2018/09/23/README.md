@@ -36,7 +36,7 @@
 
 ### Software / Resource Planning
 
-*   [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code (⭐357)](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Docker/Perl`
+*   [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code (⭐364)](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Docker/Perl`
 
 ## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

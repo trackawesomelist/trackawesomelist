@@ -46,7 +46,7 @@
 
 *   [OCS Inventory NG](https://ocsinventory-ng.org/) - Asset management and deployment solution for all devices in your IT Department. ([Source Code](https://github.com/OCSInventory-NG)) `GPL-2.0` `PHP/Perl`
 *   [Ralph](https://ralph.allegro.tech/) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks. ([Demo (⭐2.1k)](https://github.com/allegro/ralph#live-demo), [Source Code (⭐2.1k)](https://github.com/allegro/ralph)) `Apache-2.0` `Python/Docker`
-*   [Snipe IT](https://snipeitapp.com/) - Asset & license management software. ([Source Code (⭐9.1k)](https://github.com/snipe/snipe-it)) `AGPL-3.0` `PHP`
+*   [Snipe IT](https://snipeitapp.com/) - Asset & license management software. ([Source Code (⭐9.2k)](https://github.com/snipe/snipe-it)) `AGPL-3.0` `PHP`
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Briefkasten (⭐677)](https://github.com/ndom91/briefkasten) - Modern app for saving and managing your own bookmarks. Includes a browser extension. ([Demo](https://briefkastenhq.com/auth/signin)) `MIT` `Nodejs/Docker`
+*   [Briefkasten (⭐687)](https://github.com/ndom91/briefkasten) - Modern app for saving and managing your own bookmarks. Includes a browser extension. ([Demo](https://briefkastenhq.com/auth/signin)) `MIT` `Nodejs/Docker`
 
 ### Software / File Transfer - Web-based File Managers
 
@@ -66,7 +66,7 @@
 
 ### Software / Games
 
-*   [Posio (⭐528)](https://github.com/abrenaut/posio) - Geography multiplayer game. `MIT` `Python`
+*   [Posio (⭐531)](https://github.com/abrenaut/posio) - Geography multiplayer game. `MIT` `Python`
 
 ## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -78,11 +78,11 @@
 
 ### Templates / React
 
-*   [vite-reactts18-eslint-tailwindcss (⭐21)](https://github.com/dserranoc/vite-reactts18-eslint-tailwindcss) - React 18 + TypeScript + ESLint + TailwindCSS.
+*   [vite-reactts18-eslint-tailwindcss (⭐22)](https://github.com/dserranoc/vite-reactts18-eslint-tailwindcss) - React 18 + TypeScript + ESLint + TailwindCSS.
 
 ### Open Source / Community
 
-*   [IslandJS (⭐412)](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
+*   [IslandJS (⭐417)](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
 
 ## [9. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -106,8 +106,8 @@
 
 ### Pastebin and Secret Sharing
 
-*   [Yopass (⭐1.5k)](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files.
-*   [PrivateBin (⭐5.6k)](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+*   [Yopass (⭐1.6k)](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files.
+*   [PrivateBin (⭐5.7k)](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
 ### Sonic the Hedgehog
 
@@ -128,9 +128,9 @@
 ### Libraries / Network programming
 
 *   IPNetwork
-    *   [achanda/ipnetwork (⭐111)](https://github.com/achanda/ipnetwork) — A library to work with IP networks in pure Rust
-    *   [candrew/netsim (⭐131)](https://github.com/canndrew/netsim) — A Rust library for network simulation and testing
-    *   [jesusprubio/online (⭐127)](https://github.com/jesusprubio/online) — Library to check your Internet connectivity [![CI](https://github.com/jesusprubio/online/actions/workflows/ci.yml/badge.svg)](https://github.com/jesusprubio/online/actions/workflows/ci.yml)
+    *   [achanda/ipnetwork (⭐113)](https://github.com/achanda/ipnetwork) — A library to work with IP networks
+    *   [candrew/netsim (⭐132)](https://github.com/canndrew/netsim) — A library for network simulation and testing
+    *   [jesusprubio/online (⭐129)](https://github.com/jesusprubio/online) — Library to check your Internet connectivity [![CI](https://github.com/jesusprubio/online/actions/workflows/ci.yml/badge.svg)](https://github.com/jesusprubio/online/actions/workflows/ci.yml)
 
 ## [13. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
@@ -160,12 +160,29 @@
 *   [How to render a YouTube vlog with Rust Yew fetch API (⭐2)](https://github.com/steadylearner/blog/blob/master/posts/Rust/How%20to%20render%20a%20YouTube%20vlog%20with%20%20Rust%20Yew%20fetch%20API.md)
 *   [How to render blog posts with Rust Yew mounted API (⭐2)](https://github.com/steadylearner/blog/tree/master/posts/Rust/How%20to%20render%20blog%20posts%20with%20Rust%20Yew%20mounted%20API.md)
 
-## [16. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [16. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
 
-### Version Control Systems
+### 版本控制
 
-*   [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/) - Ben Lynn, et al. (HTML, PDF, EPUB)
-*   [Git Reference](https://web.archive.org/web/20170602211147/http://gitref.org/) - The GitHub team *(:card\_file\_box: archived)*
+*   [沉浸式学 Git](https://web.archive.org/web/20191004044726/http://igit.linuxtoy.org:80/index.html) - Jim Weirich, `trl.:` 徐小东 a.k.a toy *(:card\_file\_box: archived)*
+*   [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/) - Nulab Inc.
+*   [Git - 简易指南](https://rogerdudler.github.io/git-guide/index.zh.html) - Roger Dudler, `trl.:` 罗杰·杜德勒 (HTML)
+*   [Git 参考手册](http://gitref.justjavac.com) - CHEN Yangjian
+*   [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) - Daniel Kummer, et al.
+*   [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) - Ben Lynn, `trl.:` 俊杰, 萌和江薇, et al. (HTML)
+*   [Github帮助文档 (⭐835)](https://github.com/waylau/github-help) - Way Lau
+*   [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/) - snowdream86
+*   [Got GitHub (⭐1.5k)](https://github.com/gotgit/gotgithub) - Jiang Xin, The GotGit community
+*   [GotGitHub](http://www.worldhello.net/gotgithub/index.html) - Jiang Xin, The GotGit community
+*   [HgInit (中文版)](https://zh-hginit.readthedocs.io/en/latest/) - The HgInit team, `trl.:` Brant Young
+*   [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial) - The Mercurial team
+*   [Pro Git](https://git-scm.com/book/zh/) - Scott Chacon, Ben Straub, `trl.:` Alan Wang, `trl.:` 啊咪咪小熊, et al. (HTML, PDF, EPUB)
+*   [Subversion 版本控制](http://svnbook.red-bean.com/nightly/zh/index.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato
+
+### Android
+
+*   [Google Material Design 正體中文版](https://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) - Tillonter, 陳世能, Sean Chen, et al.
+*   [Google Material Design 中文协同翻译 (⭐3.1k)](https://github.com/1sters/material_design_zh) - 1sters 极客实验室, 四勾 4J, IceskYsl, et al.
 
 ## [17. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

@@ -74,7 +74,7 @@
 
 ### Platforms
 
-*   [Cloudflare (⭐485)](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
+*   [Cloudflare (⭐501)](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
 
 ## [8. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Asynchronous Event Loop
 
-*   [promise-cpp (⭐634)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
+*   [promise-cpp (⭐635)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
 
 ### Font
 
@@ -131,7 +131,7 @@
 
 ### Memory Allocation
 
-*   [tgc (⭐901)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. \[BSD]
+*   [tgc (⭐903)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. \[BSD]
 
 ### Networking
 

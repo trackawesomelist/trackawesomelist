@@ -34,7 +34,7 @@
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-parser (⭐254)](https://github.com/stalwartlabs/mail-parser) \[[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-parser (⭐256)](https://github.com/stalwartlabs/mail-parser) \[[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
 
 ## [6. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -78,15 +78,19 @@
 
 *   [Tidepools](http://tidepools.co) is being developed within the [Red Hook Mesh Network](http://oti.newamerica.net/blogposts/2013/case_study_red_hook_initiative_wifi_tidepools-78575), for addressing local, social incentives for mesh use. An Open Source, Collaborative, Mobile Mapping & Social Hub, Reflecting Community Needs & Culture through Custom Apps, Time-based Maps, & Data Feeds.
 
-## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [12. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
 
-### Algorithms & Data Structures
+### Golang
 
-*   [Data Structures](https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf) - Aditya CSE (PDF)
+*   [Go 命令教程 (⭐3.5k)](https://github.com/hyper-carrot/go_command_tutorial)
 
-### Containers
+### Groovy
 
-*   [CI/CD with Docker and Kubernetes Book (⭐190)](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
+*   [Groovy 教程](https://www.w3cschool.cn/groovy) - W3Cschool
+
+### HTML and CSS
+
+*   [Bootstrap 5 繁體中文手冊](https://bootstrap5.hexschool.com) - 六角學院
 
 ## [13. Public Apis](/content/public-apis/public-apis/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 16, 2022
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -101,7 +101,7 @@
 
 ### Cryptography
 
-*   [HEhub (⭐83)](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. \[Apache2]
+*   [HEhub (⭐84)](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. \[Apache2]
 
 ### Integrated Development Environment
 
@@ -187,7 +187,7 @@
 
 ### Templates / Electron
 
-*   [Vutron (⭐168)](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
+*   [Vutron (⭐175)](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -195,19 +195,13 @@
 
 ### Framework-agnostic Plugins / Testing
 
-*   [cypress-vite (⭐73)](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
+*   [cypress-vite (⭐75)](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
 
 ## [17. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
 ### Table of Contents / Blog posts
 
 *   [Async Streams in C#](https://freecontent.manning.com/async-streams-in-c/)
-
-## [18. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Security & Privacy
-
-*   [Gray Hat Hacking: The Ethical Hacker's Handbook](https://pages.cs.wisc.edu/~ace/media/gray-hat-hacking.pdf) - Allen Harper, Jonathan Ness, Chris Eagle, Shon Harris, Gideon Lenkey, Terron Williams (PDF)
 
 ---
 

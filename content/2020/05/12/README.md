@@ -82,7 +82,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [Hakatime (⭐545)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
+*   [Hakatime (⭐554)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
 
 ## [11. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -124,7 +124,7 @@
 
 ### Hardware
 
-*   [Plotters (⭐933)](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
+*   [Plotters (⭐962)](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
 
 ## [16. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 

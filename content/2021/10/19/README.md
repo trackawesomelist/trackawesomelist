@@ -36,10 +36,10 @@
 ### Resources / Packages
 
 *   [web-monetized-video (⭐15)](https://github.com/Jasmin2895/web-monetized-video) - A web component with has play and pay policy and charges you for the amount of video watched. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
-*   [awesome-jsgames (⭐399)](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [awesome-jsgames (⭐472)](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [mediadisclosures (⭐0)](https://github.com/oofdere/mediadisclosures) - An open-source, always evolving, universal content rating system. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
-*   [web-monetization-demo (⭐1)](https://github.com/peter279k/web-monetization-demo) - This is a Web Monetization Demo ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
-*   [money-chat (⭐3)](https://github.com/dfoderick/money-chat) - Web Monetization chat app ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [web-monetization-demo (⭐2)](https://github.com/peter279k/web-monetization-demo) - This is a Web Monetization Demo ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [money-chat (⭐4)](https://github.com/dfoderick/money-chat) - Web Monetization chat app ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 
 ### Resources / Tutorials
 
@@ -145,7 +145,7 @@
 
 ### Templates / React
 
-*   [vite-react-ts-starter (⭐122)](https://github.com/uchihamalolan/vite-react-ts) - React, TypeScript, Jest, ESLint, Prettier, TailwindCSS, Husky, Conventional Commits.
+*   [vite-react-ts-starter (⭐123)](https://github.com/uchihamalolan/vite-react-ts) - React, TypeScript, Jest, ESLint, Prettier, TailwindCSS, Husky, Conventional Commits.
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -221,7 +221,7 @@
 ### Framework Extensions
 
 *   [FRAME](https://docs.substrate.io/v3/runtime/frame/) - A system for building Substrate runtimes.
-*   [ink! (⭐1.2k)](https://github.com/paritytech/ink) - Rust smart contract language for Substrate chains.
+*   [ink! (⭐1.3k)](https://github.com/paritytech/ink) - Rust smart contract language for Substrate chains.
 *   [Polkadot-JS](https://polkadot.js.org/) - Rich JavaScript API framework for front-end development.
 
 ### Client Libraries
@@ -230,8 +230,8 @@
 
 ### Mobile
 
-*   [Polkadot-Dart (⭐22)](https://github.com/Pocket4D/Polkadot-Dart) - Dart Substrate API.
-*   [PolkaWallet SDK (⭐17)](https://github.com/polkawallet-io/sdk) - Flutter SDK for Substrate-based App.
+*   [Polkadot-Dart (⭐21)](https://github.com/Pocket4D/Polkadot-Dart) - Dart Substrate API.
+*   [PolkaWallet SDK (⭐18)](https://github.com/polkawallet-io/sdk) - Flutter SDK for Substrate-based App.
 
 ### SCALE Codec
 
@@ -241,13 +241,9 @@
 
 ### Libraries / Caching
 
-*   [al8n/stretto (⭐385)](https://github.com/al8n/stretto) - A high performance thread-safe memory-bound Rust cache [![build badge](https://github.com/al8n/stretto/actions/workflows/ci.yml/badge.svg)](https://github.com/al8n/stretto/actions/workflows/ci.yml)
+*   [al8n/stretto (⭐388)](https://github.com/al8n/stretto) - A high performance thread-safe memory-bound cache [![build badge](https://github.com/al8n/stretto/actions/workflows/ci.yml/badge.svg)](https://github.com/al8n/stretto/actions/workflows/ci.yml)
 
 ## [19. Awesome Ruby](/content/markets/awesome-ruby/README.md)
-
-### Admin Interface
-
-*   [Avo](https://avohq.io) - Avo is a next-generation framework that empowers developers and teams to create fantastic admin panels for Ruby on Rails projects in hours, not days or weeks. Fast, extendable, with a developer-friendly API, it just works out of the box.
 
 ### Core Extensions
 

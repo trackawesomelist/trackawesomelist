@@ -29,7 +29,7 @@
 
 ### Libraries
 
-*   [jsoniter-scala (⭐540)](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of ultra-fast JSON codecs.
+*   [jsoniter-scala (⭐698)](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of ultra-fast JSON codecs.
 
 ## [3. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Playgrounds
 
-*   [Script Debugger (⭐30)](https://github.com/kallewoof/btcdeb)
+*   [Script Debugger (⭐31)](https://github.com/kallewoof/btcdeb)
 
 ## [4. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
@@ -277,8 +277,8 @@
 
 ### Related lists
 
-*   [Awesome Music Listening (⭐106)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
-*   [Awesome sheet music (⭐660)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
+*   [Awesome Music Listening (⭐107)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
+*   [Awesome sheet music (⭐694)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
 
 ## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -298,7 +298,7 @@
 
 ### Image Processing
 
-*   [ruby-vips (⭐804)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
+*   [ruby-vips (⭐809)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
 
 ## [24. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -529,7 +529,7 @@
 
 ### Text and Numbers
 
-*   [nanoid (⭐197)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
+*   [nanoid (⭐204)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
 
 ## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

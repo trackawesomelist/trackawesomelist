@@ -24,7 +24,7 @@
 ### Command-Line Productivity
 
 *   [pathpicker (⭐5k)](https://github.com/facebook/PathPicker) - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as argument to a command.
-*   [qfc (⭐566)](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
+*   [qfc (⭐569)](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 
 ---
 

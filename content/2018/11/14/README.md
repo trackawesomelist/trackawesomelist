@@ -40,7 +40,7 @@
 
 ### Networking
 
-*   [libpcap (⭐2.4k)](https://github.com/the-tcpdump-group/libpcap) - A portable C/C++ library for network traffic capture. \[BSD] [website](https://www.tcpdump.org/)
+*   [libpcap (⭐2.5k)](https://github.com/the-tcpdump-group/libpcap) - A portable C/C++ library for network traffic capture. \[BSD] [website](https://www.tcpdump.org/)
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

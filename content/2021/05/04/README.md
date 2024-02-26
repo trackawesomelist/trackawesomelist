@@ -96,7 +96,7 @@
 
 ### Authentication and Authorization
 
-*   🍰 [ADmad/SocialAuth plugin (⭐48)](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth (⭐543)](https://github.com/SocialConnect/auth) social sign on library.
+*   🍰 [ADmad/SocialAuth plugin (⭐48)](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth (⭐544)](https://github.com/SocialConnect/auth) social sign on library.
 
 ## [9. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 

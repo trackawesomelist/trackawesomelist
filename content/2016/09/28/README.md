@@ -56,7 +56,7 @@ A portable public domain password hashing framework for use in PHP applications.
 
 ### Instrumenting / Monitoring
 
-*   [prometheus.ex (⭐396)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
+*   [prometheus.ex (⭐398)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
 
 ## [5. Tips](/content/git-tips/tips/README.md)
 

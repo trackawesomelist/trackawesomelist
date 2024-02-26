@@ -10,7 +10,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [filebrowser](https://filebrowser.org/) - Web File Browser with a Material Design web interface. ([Source Code (⭐22k)](https://github.com/filebrowser/filebrowser)) `Apache-2.0` `Go`
+*   [filebrowser](https://filebrowser.org/) - Web File Browser with a Material Design web interface. ([Source Code (⭐23k)](https://github.com/filebrowser/filebrowser)) `Apache-2.0` `Go`
 
 ## [2. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 

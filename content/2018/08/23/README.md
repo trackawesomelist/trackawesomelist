@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 23, 2018
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -39,26 +39,20 @@
 
 *   [ember-cli-mirage-faker-codemod (⭐2)](https://github.com/caseywatts/ember-cli-mirage-faker-codemod) - This codemod is to help transition from importing faker through ember-cli-mirage, to instead import it directly from faker.
 
-## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
-
-### Frameworks • Libraries • Ecosystems
-
-*   [HYPE](http://www.hypeframework.org/) \[Cross-platform] - HYPE\_processing, is a collection of classes that performs heavy lifting tasks while using a minimal amount of code writing.
-
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
 *   [checkbot.io](https://www.checkbot.io/) — Browser extension that tests if your website follows 50+ SEO, speed and security best practices. Free tier for smaller websites.
 
-## [6. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
+## [5. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
 ### Message Queues
 
 *   [asyncio-nats (⭐608)](https://github.com/nats-io/asyncio-nats) - Client for the NATS messaging system.
 *   [aiokafka (⭐820)](https://github.com/aio-libs/aiokafka) - Client for Apache Kafka.
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Networking
 
@@ -68,7 +62,7 @@
 
 *   [Tulip Indicators](https://tulipindicators.org) - A C library of over 100 financial technical analysis indicators. \[LGPL]
 
-## [8. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
+## [7. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
 
 ### Libraries
 
@@ -83,7 +77,7 @@
 
 *   [ecthros/uncaptcha (⭐2.8k)](https://github.com/ecthros/uncaptcha) - Defeating Google's audio reCaptcha with 85% accuracy.
 
-## [9. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Resources / Videos
 

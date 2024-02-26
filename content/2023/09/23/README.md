@@ -49,7 +49,7 @@
 
 ### Software / Software Development - API Management
 
-*   [Hoppscotch Community Edition](https://hoppscotch.io) - A free, fast and beautiful API request builder. ([Source Code (⭐58k)](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Docker`
+*   [Hoppscotch Community Edition](https://hoppscotch.io) - A free, fast and beautiful API request builder. ([Source Code (⭐59k)](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Docker`
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

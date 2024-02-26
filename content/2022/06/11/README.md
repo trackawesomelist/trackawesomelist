@@ -26,7 +26,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Zipline (⭐867)](https://github.com/diced/zipline) - A lightweight, fast and reliable file sharing server that is commonly used with ShareX, offering a react-based Web UI and fast API. `MIT` `Docker/Nodejs`
+*   [Zipline (⭐903)](https://github.com/diced/zipline) - A lightweight, fast and reliable file sharing server that is commonly used with ShareX, offering a react-based Web UI and fast API. `MIT` `Docker/Nodejs`
 
 ### Software / Self-hosting Solutions
 
@@ -47,7 +47,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [robfletcher/strikt (⭐516)](https://github.com/robfletcher/strikt) - An assertion library for Kotlin
+*   [robfletcher/strikt (⭐519)](https://github.com/robfletcher/strikt) - An assertion library for Kotlin
 
 ## [6. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
@@ -70,9 +70,9 @@
 ### Libraries / Audio and Music
 
 *   [RustAudio](https://github.com/RustAudio)
-    *   [RustAudio/cpal (⭐2.3k)](https://github.com/RustAudio/cpal) - Low-level cross-platform audio I/O library in pure Rust. [![Actions Status](https://github.com/RustAudio/cpal/workflows/cpal/badge.svg?branch=master)](https://github.com/RustAudio/cpal/actions)
-    *   [RustAudio/rodio (⭐1.5k)](https://github.com/RustAudio/rodio) — A Rust audio playback library
-    *   [RustAudio/rust-portaudio (⭐353)](https://github.com/RustAudio/rust-portaudio) — PortAudio bindings
+    *   [RustAudio/cpal (⭐2.3k)](https://github.com/RustAudio/cpal) - Low-level cross-platform audio I/O library. [![Actions Status](https://github.com/RustAudio/cpal/workflows/cpal/badge.svg?branch=master)](https://github.com/RustAudio/cpal/actions)
+    *   [RustAudio/rodio (⭐1.5k)](https://github.com/RustAudio/rodio) — Audio playback library
+    *   [RustAudio/rust-portaudio (⭐356)](https://github.com/RustAudio/rust-portaudio) — PortAudio bindings
 
 ## [9. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -85,7 +85,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [pnpm (baliestri) (⭐6)](https://github.com/baliestri/pnpm.plugin.zsh) - Adds useful aliases for many common [pnpm](https://pnpm.io/) commands. Includes tab-completions.
-*   [pnpm (ntnyq) (⭐59)](https://github.com/ntnyq/omz-plugin-pnpm) - Adds useful aliases for common [pnpm](https://pnpm.io/) commands.
+*   [pnpm (ntnyq) (⭐60)](https://github.com/ntnyq/omz-plugin-pnpm) - Adds useful aliases for common [pnpm](https://pnpm.io/) commands.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

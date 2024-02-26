@@ -129,11 +129,11 @@
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [dasel (⭐4.6k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐27k)](https://github.com/stedolan/jq) / [yq (⭐2.3k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
+*   [dasel (⭐4.7k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐28k)](https://github.com/stedolan/jq) / [yq (⭐2.4k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 
 ### Applications / Directory Navigation
 
-*   [editly (⭐4.3k)](https://github.com/mifi/editly) - Command line video editor
+*   [editly (⭐4.5k)](https://github.com/mifi/editly) - Command line video editor
 
 ---
 

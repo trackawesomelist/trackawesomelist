@@ -16,11 +16,11 @@
 
 ### Applications / Audio and Music
 
-*   [Spotify Player (⭐973)](https://github.com/aome510/spotify-player) — A Spotify player in the terminal with full feature parity.
+*   [Spotify Player (⭐1k)](https://github.com/aome510/spotify-player) — A Spotify player in the terminal with full feature parity.
 
 ### Applications / Productivity
 
-*   [ast-grep (⭐5.1k)](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting. Written in Rust.
+*   [ast-grep (⭐5.3k)](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting.
 
 ### Libraries / Data structures
 
@@ -30,15 +30,15 @@
 
 ### Software / Automation
 
-*   [Mylar3](https://mylarcomics.com/) - Automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. ([Source Code (⭐901)](https://github.com/mylar3/mylar3)) `GPL-3.0` `Python/Docker`
+*   [Mylar3](https://mylarcomics.com/) - Automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. ([Source Code (⭐912)](https://github.com/mylar3/mylar3)) `GPL-3.0` `Python/Docker`
 
 ### Software / File Transfer - Object Storage & File Servers
 
-*   [ZOT OCI Registry](https://zotregistry.dev) - A production-ready vendor-neutral OCI-native container image registry. ([Demo](https://zothub.io), [Source Code (⭐619)](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
+*   [ZOT OCI Registry](https://zotregistry.dev) - A production-ready vendor-neutral OCI-native container image registry. ([Demo](https://zothub.io), [Source Code (⭐651)](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
 
 ### Software / Proxy
 
-*   [txtdot](https://txtdot.github.io/documentation/) - A HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts. ([Demo](https://txt.dc09.ru), [Source Code (⭐27)](https://github.com/TxtDot/txtdot)) `MIT` `Nodejs/Docker`
+*   [txtdot](https://txtdot.github.io/documentation/) - A HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts. ([Demo](https://txt.dc09.ru), [Source Code (⭐30)](https://github.com/TxtDot/txtdot)) `MIT` `Nodejs/Docker`
 
 ## [4. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Startup / Diagnostics
 
-*   [CWood-sdf/spaceport.nvim (⭐23)](https://github.com/CWood-sdf/spaceport.nvim) - The start screen that gets you to your projects blazingly fast.
+*   [CWood-sdf/spaceport.nvim (⭐27)](https://github.com/CWood-sdf/spaceport.nvim) - The start screen that gets you to your projects blazingly fast.
 
 ### Preconfigured Configuration / Diagnostics
 

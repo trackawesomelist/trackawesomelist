@@ -62,7 +62,7 @@
 
 ### Resources / Tools
 
-*   [Akita (⭐22)](https://github.com/esse-dev/akita) - A browser extension that gives you insight into your involvement with Web Monetization.
+*   [Akita (⭐23)](https://github.com/esse-dev/akita) - A browser extension that gives you insight into your involvement with Web Monetization.
 
     > Akita presents your top visited monetized sites, how much time you're spending on them, and how much you're contributing (or could contribute) to them.
 

@@ -10,13 +10,13 @@
 
 ### Resources / Packages
 
-*   [Resource Links (⭐245)](https://github.com/spatie/laravel-resource-links) - Laravel package for adding links to API resources.
+*   [Resource Links (⭐243)](https://github.com/spatie/laravel-resource-links) - Laravel package for adding links to API resources.
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### CRM
 
-*   [Hitobito (⭐325)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito (⭐334)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 

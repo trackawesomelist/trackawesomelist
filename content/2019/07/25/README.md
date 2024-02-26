@@ -53,7 +53,7 @@
 
 ### Web Servers
 
-*   [Agoo (⭐861)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
+*   [Agoo (⭐874)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 
 ## [3. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 

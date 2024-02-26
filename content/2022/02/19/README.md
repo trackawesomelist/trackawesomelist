@@ -58,7 +58,7 @@
 
 ### Chart
 
-*   [Flowchart React (⭐36)](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
+*   [Flowchart React (⭐37)](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
 
 ### Form Components / Toggle
 
@@ -88,10 +88,6 @@
 
 *   [FabForm](https://fabform.io/) - Form backend platform for intelligent developers. The free plan allows 250 form submissions per month. Friendly modern GUI. Integrates with Google Sheets, Airtable, Slack, Email, and others.
 
-### Analytics, Events and Statistics
-
-*   [indicative.com](https://indicative.com/) — Customer analytics platform to optimize customer engagement, increase conversion, and improve retention. Free up to 25M events/month, six months of data retention.
-
 ## [10. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Image Processing
@@ -103,7 +99,7 @@
 ### Development tools / Embedded
 
 *   Arduino
-    *   [avr-rust/ruduino (⭐675)](https://github.com/avr-rust/ruduino) Reusable components for the Arduino Uno.
+    *   [avr-rust/ruduino (⭐677)](https://github.com/avr-rust/ruduino) Reusable components for the Arduino Uno.
 
 ---
 

@@ -105,7 +105,7 @@
 
 ### Compression
 
-*   [bit7z (⭐536)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip shared libraries. \[MPL2]
+*   [bit7z (⭐542)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip shared libraries. \[MPL2]
 
 ## [7. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -163,7 +163,7 @@
 
 ### Tools / Templates & Starter Kits
 
-*   [Wagtail Pipit (⭐215)](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
+*   [Wagtail Pipit (⭐218)](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
 
 ## [12. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 

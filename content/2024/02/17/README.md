@@ -16,12 +16,12 @@
 
 ### Applications / System tools
 
-*   [qarmin/czkawka (⭐14k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
+*   [qarmin/czkawka (⭐15k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
 
 ### Libraries / Markup language
 
 *   CommonMark
-    *   [pulldown-cmark/pulldown-cmark (⭐1.9k)](https://github.com/pulldown-cmark/pulldown-cmark) — [CommonMark](https://commonmark.org/) parser in Rust
+    *   [pulldown-cmark/pulldown-cmark (⭐1.9k)](https://github.com/pulldown-cmark/pulldown-cmark) — [CommonMark](https://commonmark.org/) parser
 
 ## [3. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md)
 
@@ -143,4 +143,5 @@
 
 ---
 
+- Prev: [Feb 18, 2024](/content/2024/02/18/README.md)
 - Next: [Feb 16, 2024](/content/2024/02/16/README.md)

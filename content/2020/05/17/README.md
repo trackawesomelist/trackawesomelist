@@ -76,10 +76,10 @@
 
 ### Programming Languages
 
-*   [Python (⭐190k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
+*   [Python (⭐197k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
     *   [Asyncio (⭐4.3k)](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
     *   [Scientific Audio (⭐1.5k)](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
-    *   [CircuitPython (⭐581)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
+    *   [CircuitPython (⭐590)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
     *   [Data Science (⭐2.2k)](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
     *   [Typing (⭐1.5k)](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
     *   [MicroPython (⭐1.1k)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.

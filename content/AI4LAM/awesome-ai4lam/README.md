@@ -6,6 +6,12 @@ A list of awesome AI in libraries, archives, and museum collections from around 
 
 [ Daily / [Weekly](/content/AI4LAM/awesome-ai4lam/week/README.md) / [Overview](/content/AI4LAM/awesome-ai4lam/readme/README.md) ]
 
+## [Feb 23, 2024](/content/2024/02/23/README.md)
+
+### Datasets / Applications of Transformers, LLMs, and GPT
+
+*   [Open data collections from the National Library of Scotland](https://data.nls.uk/)
+
 ## [Feb 17, 2024](/content/2024/02/17/README.md)
 
 ### Learning Resources / Other "awesome" lists in AI and ML

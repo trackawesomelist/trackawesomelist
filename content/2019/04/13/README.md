@@ -10,7 +10,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [Filestash](https://www.filestash.app/) - A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive . ([Demo](https://demo.filestash.app/), [Source Code (⭐9k)](https://github.com/mickael-kerjean/filestash)) `AGPL-3.0` `Docker`
+*   [Filestash](https://www.filestash.app/) - A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive . ([Demo](https://demo.filestash.app/), [Source Code (⭐9.1k)](https://github.com/mickael-kerjean/filestash)) `AGPL-3.0` `Docker`
 
 ## [2. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 

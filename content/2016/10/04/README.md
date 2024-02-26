@@ -26,7 +26,7 @@
 
 ### Build Tools
 
-*   [rebar3\_auto (⭐50)](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
+*   [rebar3\_auto (⭐52)](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
 
 ### HTTP
 

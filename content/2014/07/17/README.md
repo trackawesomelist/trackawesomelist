@@ -10,7 +10,7 @@
 
 ### Downloader
 
-*   [s3cmd (⭐4.2k)](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
+*   [s3cmd (⭐4.4k)](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
 
 ## [2. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -65,7 +65,7 @@
 *   [algorithms (⭐5.1k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
 *   [c-algorithms (⭐3.1k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
 *   [awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-*   [papers-we-love (⭐81k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+*   [papers-we-love (⭐82k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

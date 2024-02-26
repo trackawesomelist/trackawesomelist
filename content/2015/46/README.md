@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 16 - Nov 22, 2015
 
-52 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -196,6 +196,10 @@
 
 ## [10. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
+### Libraries
+
+*   [Gson (⭐23k)](https://github.com/google/gson) - A Java library to convert JSON to Java objects and vice-versa.
+
 ### Command-line tools
 
 *   [json](http://trentm.com/json/) - A "json" command for massaging JSON on your Unix command line.
@@ -210,7 +214,7 @@
 
 ### JSON Schema Tools
 
-*   [JSON Schema + Faker (⭐2.9k)](https://github.com/json-schema-faker/json-schema-faker) - Fake your schemas.
+*   [JSON Schema + Faker (⭐3.2k)](https://github.com/json-schema-faker/json-schema-faker) - Fake your schemas.
 
 ## [11. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
@@ -679,7 +683,7 @@
 
 ### Biology
 
-*   [Wham (⭐98)](https://github.com/zeeev/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. \[MIT]
+*   [Wham (⭐99)](https://github.com/zeeev/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. \[MIT]
 
 ### Concurrency
 
@@ -692,7 +696,7 @@
 ### Game Engine
 
 *   [Allegro](http://liballeg.org/) - A cross-platform library mainly aimed for video games and multimedia programming. \[zlib]
-*   [Godot (⭐80k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
+*   [Godot (⭐81k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
 
 ### GUI
 
@@ -700,11 +704,11 @@
 
 ### Inter-process communication
 
-*   [simple-rpc-cpp (⭐36)](https://github.com/pearu/simple-rpc-cpp) - A simple RPC wrapper generator to C/C++ functions. \[BSD]
+*   [simple-rpc-cpp (⭐35)](https://github.com/pearu/simple-rpc-cpp) - A simple RPC wrapper generator to C/C++ functions. \[BSD]
 
 ### Machine Learning
 
-*   [Minerva (⭐688)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
+*   [Minerva (⭐689)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
 
 ### Web Application Framework
 
@@ -748,7 +752,7 @@
 
 ### Cloud Infrastructure and Management
 
-*   [sidetask (⭐69)](https://github.com/PSPDFKit-labs/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
+*   [sidetask (⭐70)](https://github.com/PSPDFKit-labs/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
 
 ### Examples and funny stuff
 
@@ -761,7 +765,7 @@
 
 ### JSON
 
-*   [jsonapi (⭐475)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
+*   [jsonapi (⭐478)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
 
 ### Miscellaneous
 
@@ -782,7 +786,7 @@
 
 ### Queue
 
-*   [honeydew (⭐716)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
+*   [honeydew (⭐717)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
 
 ### Third Party APIs
 
@@ -1185,10 +1189,6 @@
 
 ## [34. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
-### JSON / Field Validation
-
-*   [Gson (⭐22k)](https://github.com/google/gson) - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
-
 ### Charts
 
 *   [AChartEngine (⭐740)](https://github.com/ddanny/achartengine) - Charting Engine.
@@ -1241,20 +1241,41 @@
 *   [Bash Completion (⭐5)](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO.
 *   [Visual Studio Code (⭐40)](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
 
-## [38. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [38. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### HTML and CSS
+
+*   [CSS3 Tutorial 《CSS3 教程》 (⭐203)](https://github.com/waylau/css3-tutorial)
+*   [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
+*   [Sass Guidelines 中文](http://sass-guidelin.es/zh/)
+
+### JavaScript
+
+*   [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com)
+
+### Python / Symfony
+
+*   [Python 中文学习大本营](http://www.pythondoc.com)
+
+### R / Django
+
+*   [153分钟学会 R](http://cran.r-project.org/doc/contrib/Liu-FAQ.pdf) (PDF)
+*   [统计学与 R 读书笔记](http://cran.r-project.org/doc/contrib/Xu-Statistics_and_R.pdf) (PDF)
+
+## [39. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Geospatial
 
-*   [Georust](https://github.com/georust) — geospatial tools and libraries written in Rust
+*   [Georust](https://github.com/georust) — geospatial tools and libraries written
 
-## [39. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [40. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Infomation for people who are new to GitHub
 
 *   [Git-it (⭐1.9k)](https://github.com/jlord/git-it) -- :computer: :mortar\_board: A workshopper for learning Git and GitHub.
 *   [Classroom for GitHub](https://classroom.github.com) - Your course assignments on GitHub.
 
-## [40. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [41. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Clocks
 
@@ -1323,7 +1344,7 @@ $0.99
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses)
 
-## [41. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [42. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Programming Languages / Ruby
 
@@ -1342,7 +1363,7 @@ $0.99
 
 *   [Rise of the Transpilers](https://www.youtube.com/watch?v=DspYurD75Ns) By Jeremy Ashkenas
 
-## [42. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [43. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### JavaScript / Data Analysis / Data Visualization
 
@@ -1363,7 +1384,7 @@ $0.99
 *   [2012-paper-diginorm (⭐8)](https://github.com/dib-lab/2012-paper-diginorm)
 *   [Dive into Machine Learning  with Python Jupyter notebook and scikit-learn (⭐11k)](https://github.com/hangtwenty/dive-into-machine-learning) - "I learned Python by hacking first, and getting serious *later.* I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself."
 
-## [43. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [44. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Audio
 
@@ -1427,7 +1448,7 @@ $0.99
 *   [FormStack](https://www.formstack.com/) - Forms with A/B testing, partial submission, analytics, and integrations.
 *   [Sheetsu](https://sheetsu.com/) - POST and GET your data to Google Spreadsheet.
 
-## [44. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [45. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -1436,13 +1457,13 @@ $0.99
 *   [DevChat.tv](https://devchat.tv/) - We are programmers. House of Ruby Rogues, Javascript Jabber, IPhreaks, Freelancers' Show, Adventures in Angular and RailsClips.
 *   [Full Stack Radio](http://www.fullstackradio.com/) - A podcast for developers interested in building great software products.
 
-## [45. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [46. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Images / Gif Creation
 
 *   [ttystudio (⭐3.2k)](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
 
-## [46. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [47. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Tutorials
 
@@ -1457,7 +1478,7 @@ $0.99
 
 *   [Emotion Recognition API Demo - Microsoft](https://www.projectoxford.ai/demo/emotion#detection)
 
-## [47. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [48. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Caching
 
@@ -1469,16 +1490,16 @@ $0.99
 
 ### IRB
 
-*   [irbtools (⭐909)](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
+*   [irbtools (⭐911)](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
 *   [Pry (⭐6.7k)](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
 
-## [48. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [49. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Twitter accounts / Misc
 
 *   [Nadieh Bremer](https://twitter.com/NadiehBremer)
 
-## [49. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [50. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### TypeScript General Resources / Components
 
@@ -1489,13 +1510,13 @@ $0.99
 *   [ng2-play (⭐536)](https://github.com/pkozlowski-opensource/ng2-play) A minimal Angular2 playground using TypeScript and SystemJS loader
 *   [Spring Boot and Angular2 tutorial (⭐142)](https://github.com/springboot-angular2-tutorial/angular2-app) Angular2 practical example based on [Rails tutorial](https://www.railstutorial.org/).
 
-## [50. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [51. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Authentication & Authorization
 
 *   [Google2FA (⭐1.5k)](https://github.com/antonioribeiro/google2fa) - Google Two-Factor Authentication Module
 
-## [51. Amas](/content/sindresorhus/amas/week/README.md)
+## [52. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
@@ -1504,7 +1525,7 @@ $0.99
 *   [Arnaud Benard (⭐2)](https://github.com/arnaudbenard/ama) - Freelance JS developer and digital nomad.
 *   [Anthony Ramella (⭐1)](https://github.com/tonyynot/ama) - I went from zero to hired web developer in 5 months. I [blog](http://anthonyramella.com) about my experiences learning code and working as a junior developer.
 
-## [52. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [53. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 

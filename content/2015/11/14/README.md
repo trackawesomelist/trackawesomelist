@@ -406,11 +406,11 @@
 
 ### Libraries
 
-*   [Gson (⭐22k)](https://github.com/google/gson) - A Java library to convert JSON to Java objects and vice-versa.
+*   [Gson (⭐23k)](https://github.com/google/gson) - A Java library to convert JSON to Java objects and vice-versa.
 
 ### JSON Schema Tools
 
-*   [JSON Schema + Faker (⭐2.9k)](https://github.com/json-schema-faker/json-schema-faker) - Fake your schemas.
+*   [JSON Schema + Faker (⭐3.2k)](https://github.com/json-schema-faker/json-schema-faker) - Fake your schemas.
 
 ## [14. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 

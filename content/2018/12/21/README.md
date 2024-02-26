@@ -98,7 +98,7 @@
 
 ### Regular Expression
 
-*   [sregex (⭐611)](https://github.com/openresty/sregex) - A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams. \[BSD]
+*   [sregex (⭐612)](https://github.com/openresty/sregex) - A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams. \[BSD]
 
 ## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

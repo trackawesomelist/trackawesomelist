@@ -22,7 +22,7 @@
 
 ### Debug
 
-*   [doctest (⭐5.4k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
+*   [doctest (⭐5.5k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
 
 ## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
@@ -136,7 +136,7 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐679)](https://github.com/llogiq/flame) —
+    *   [llogiq/flame (⭐680)](https://github.com/llogiq/flame) —
     *   [mrhooray/torch (⭐129)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
 
 ### Libraries / Computation
@@ -855,7 +855,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Native Implemented Functions
 
-*   [hsnif (⭐25)](https://github.com/urbanserj/hsnif) - Tool that allows to write Erlang NIF libraries in Haskell.
+*   [hsnif (⭐26)](https://github.com/urbanserj/hsnif) - Tool that allows to write Erlang NIF libraries in Haskell.
 
 ### ORM and Datamapping
 

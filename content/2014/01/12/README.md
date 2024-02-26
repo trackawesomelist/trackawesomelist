@@ -18,7 +18,7 @@
 
 ### Configuration / Web Applications
 
-*   [MailCatcher (⭐6.1k)](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
+*   [MailCatcher (⭐6.2k)](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
 
 ## [2. Services Engineering](/content/mmcgrana/services-engineering/README.md)
 

@@ -89,8 +89,8 @@
 
 ### Game tools and libraries
 
-*   [michal-z/zig-gamedev (⭐1.8k)](https://github.com/michal-z/zig-gamedev) - DirectX 12 game development ecosystem.
-*   [floooh/sokol-zig (⭐251)](https://github.com/floooh/sokol-zig) - [Sokol (⭐5.5k)](https://github.com/floooh/sokol) bindings.
+*   [michal-z/zig-gamedev (⭐1.9k)](https://github.com/michal-z/zig-gamedev) - DirectX 12 game development ecosystem.
+*   [floooh/sokol-zig (⭐251)](https://github.com/floooh/sokol-zig) - [Sokol (⭐5.6k)](https://github.com/floooh/sokol) bindings.
 *   [TM35-Metronome/metronome (⭐44)](https://github.com/TM35-Metronome/metronome) - A set of tools for modifying and randomizing Pokémon games.
 *   [TM35-Metronome/tm35-nds (⭐10)](https://github.com/TM35-Metronome/tm35-nds) - A library for working with Nintendo DS roms.
 *   [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) - Simple and robust sudoku solver.
@@ -128,7 +128,7 @@
 *   [emekoi/log.zig (⭐19)](https://github.com/emekoi/log.zig) - A thread-safe logging library.
 *   [kprotty/zap (⭐375)](https://github.com/kprotty/zap) - A collection of libraries which provide interfaces over the system for writing high performance applications.
 *   [mlarouche/zigimg (⭐356)](https://github.com/mlarouche/zigimg) - Zig library for reading and writing different image formats.
-*   [ziglibs/known-folders (⭐188)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+*   [ziglibs/known-folders (⭐193)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 
 ### Network
 
@@ -145,7 +145,7 @@
 *   ~~[Vexu/routez (⭐239)](https://github.com/Vexu/routez) - HTTP server.~~
 *   [frmdstryr/zhp (⭐344)](https://github.com/frmdstryr/zhp) - Featureful HTTP server.
 
-### Web / HTTP
+### Web / Messaging
 
 *   [andrewrk/lua-in-the-browser (⭐30)](https://github.com/andrewrk/lua-in-the-browser) - Using Zig to build Lua for WebAssembly.
 *   [kivikakk/htmlentities.zig (⭐9)](https://github.com/kivikakk/htmlentities.zig) - HTML5 entity data.
@@ -156,14 +156,14 @@
 *   [zigwasm/wasmer-zig (⭐51)](https://github.com/zigwasm/wasmer-zig) - Bindings for the Wasmer WebAssembly runtime.
 *   [zigwasm/wasmtime-zig (⭐80)](https://github.com/zigwasm/wasmtime-zig) - Bindings of Wasmtime.
 
-### System tools / HTTP
+### System tools / Messaging
 
 *   [pbui-project/pbui-main (⭐88)](https://github.com/pbui-project/pbui-main) - BSD/Linux core utilities written in Zig.
 *   [hspak/brightnessztl (⭐5)](https://github.com/hspak/brightnessztl) - A CLI to control device backlight.
 *   [thejoshwolfe/hexdump-zip (⭐6)](https://github.com/thejoshwolfe/hexdump-zip) - Produce an annotated hexdump of a zipfile.
 *   [kubkon/zacho (⭐38)](https://github.com/kubkon/zacho) - Zig's Mach-O parser.
 
-### Zig development tools / HTTP
+### Zig development tools / Messaging
 
 *   [marler8997/zigup (⭐450)](https://github.com/marler8997/zigup) - Download and manage zig compilers.
 
@@ -216,7 +216,7 @@
 
 ### Resources / Examples
 
-*   [Ping CRM / Flask (⭐7)](https://github.com/j0ack/pingcrm-flask) - Demonstration application made with Flask and Vue.js.
+*   [Ping CRM / Flask (⭐8)](https://github.com/j0ack/pingcrm-flask) - Demonstration application made with Flask and Vue.js.
 
 ## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -256,7 +256,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-babel (⭐44)](https://github.com/owlsdepartment/vite-plugin-babel) - Babel integration for both build and server to support f.ex. decorators or class fields in pure JS/JSX files.
+*   [vite-plugin-babel (⭐45)](https://github.com/owlsdepartment/vite-plugin-babel) - Babel integration for both build and server to support f.ex. decorators or class fields in pure JS/JSX files.
 
 ## [11. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 

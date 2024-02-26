@@ -16,7 +16,7 @@
 
 ### Inspiration / Other
 
-*   [People You Should Follow on CodePen (⭐665)](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
+*   [People You Should Follow on CodePen (⭐676)](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

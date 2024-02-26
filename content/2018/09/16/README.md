@@ -10,7 +10,7 @@
 
 ### Robotics
 
-*   [PythonRobotics (⭐19k)](https://github.com/AtsushiSakai/PythonRobotics) - This is a compilation of various robotics algorithms with visualizations.
+*   [PythonRobotics (⭐21k)](https://github.com/AtsushiSakai/PythonRobotics) - This is a compilation of various robotics algorithms with visualizations.
 *   [rospy](http://wiki.ros.org/rospy) - This is a library for ROS (Robot Operating System).
 
 ## [2. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)

@@ -41,13 +41,13 @@
 
 ### CMS
 
-*   [Storytime (⭐753)](https://github.com/CultivateLabs/storytime) - Rails 4+ CMS and blogging engine, with a core focus on content.
+*   [Storytime (⭐754)](https://github.com/CultivateLabs/storytime) - Rails 4+ CMS and blogging engine, with a core focus on content.
 
 ### ORM/ODM Extensions
 
 *   Bit array
-    *   [ActiveFlag (⭐176)](https://github.com/kenn/active_flag) - Store up to 64 multiple flags in a single integer column with ActiveRecord.
-    *   [Bitfields (⭐221)](https://github.com/grosser/bitfields) - Save migrations and columns by storing multiple booleans in a single integer.
+    *   [ActiveFlag (⭐181)](https://github.com/kenn/active_flag) - Store up to 64 multiple flags in a single integer column with ActiveRecord.
+    *   [Bitfields (⭐224)](https://github.com/grosser/bitfields) - Save migrations and columns by storing multiple booleans in a single integer.
 
 ### Static Site Generation
 

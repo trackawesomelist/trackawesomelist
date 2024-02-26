@@ -16,7 +16,7 @@
 
 ### Authentication and OAuth
 
-*   [API Guard (⭐274)](https://github.com/Gokul595/api_guard) - JWT authentication solution for Rails APIs.
+*   [API Guard (⭐275)](https://github.com/Gokul595/api_guard) - JWT authentication solution for Rails APIs.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Explainability / Strong Machine Learning
 
-*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐878)](https://github.com/LAMDA-NJU/Deep-Forest)].
+*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐880)](https://github.com/LAMDA-NJU/Deep-Forest)].
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

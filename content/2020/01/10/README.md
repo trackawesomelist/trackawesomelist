@@ -10,7 +10,7 @@
 
 ### Table of Contents / Data Structure and Storage
 
-*   [JSON Machine (⭐971)](https://github.com/halaxa/json-machine) - Provides iteration over huge JSONs using simple `foreach`
+*   [JSON Machine (⭐977)](https://github.com/halaxa/json-machine) - Provides iteration over huge JSONs using simple `foreach`
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -312,7 +312,7 @@
 
 ### Form Components / Image Editing
 
-*   [react-easy-crop (⭐51)](https://github.com/ricardo-ch/react-easy-crop) - Component to crop/rotate images/videos with easy interactions. Touch friendly.
+*   [react-easy-crop (⭐52)](https://github.com/ricardo-ch/react-easy-crop) - Component to crop/rotate images/videos with easy interactions. Touch friendly.
 
 ## [13. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 01 - Jun 07, 2020
 
-61 awesome lists updated this week.
+62 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -73,11 +73,11 @@
 
 ### Networking
 
-*   [Real-Time Communications (⭐298)](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
+*   [Real-Time Communications (⭐308)](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
 
 ### Testing
 
-*   [Playwright (⭐577)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐621)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -323,7 +323,7 @@ Language: English
 
 ### Tools / Dynamic Analysis Tools
 
-*   [Droidbox (⭐724)](https://github.com/pjlantz/droidbox)
+*   [Droidbox (⭐727)](https://github.com/pjlantz/droidbox)
 
 ## [24. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
@@ -403,11 +403,11 @@ Language: English
 
 ### Framework Components
 
-*   [surface (⭐1.9k)](https://github.com/msaraiva/surface) - A server-side rendering component library for Phoenix.
+*   [surface (⭐2k)](https://github.com/msaraiva/surface) - A server-side rendering component library for Phoenix.
 
 ### Queue
 
-*   [broadway (⭐2.2k)](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
+*   [broadway (⭐2.3k)](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
 
 ## [30. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -517,7 +517,7 @@ Language: English
 ### Books
 
 *   [Synthèse d'images avec OpenGL (ES)](https://www.d-booker.fr/opengl/78-synthese-d-images.html) - Book in french, which covers OpenGL, OpenGL ES and WebGL.
-*   [Hands-On Music Generation with Magenta](https://alexandredubreuil.com/publications/2020-01-31-music-generation-with-magenta-deep-learning-in-music-generation/) - Design and use machine learning models for music generation using Magenta and make them interact with existing music creation tools
+*   [Hands-On Music Generation with Magenta](https://alexandredubreuil.com/publications/2020-01-31-music-generation-with-magenta-deep-learning-in-music-generation/) - Explore the role of deep learning in music generation and assisted music composition.
 
 ### Online Books
 
@@ -525,7 +525,7 @@ Language: English
 
 ### Web Programming • Libraries
 
-*   [OGL.js (⭐3.3k)](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL)
+*   [OGL.js (⭐3.4k)](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL).
 
 ### Schools • Workshops / Other
 
@@ -574,7 +574,13 @@ Language: English
 
 *   [Check bundlephobia (⭐46)](https://github.com/carlesnunez/check-my-bundlephobia) - Comments new and modified package size according to bundlephobia.io website and rejects PR on threshold surpassed.
 
-## [42. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [42. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### Golang
+
+*   [Go 语法树入门 (⭐5.2k)](https://github.com/chai2010/go-ast-book)
+
+## [43. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### TextField & TextView / Collection View Layout
 
@@ -584,7 +590,7 @@ Language: English
 
 *   [Verge (⭐584)](https://github.com/muukii/Verge) - Verge is a faster and scalable state management library for UIKit and SwiftUI
 
-## [43. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [44. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / MQTT
 
@@ -600,7 +606,7 @@ Language: English
 
 *   [esp32-backtrace (⭐20)](https://github.com/tve/esp32-backtrace) - ESP32 Exception Stack Backtrace Analyzer.
 
-## [44. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [45. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Datasets
 
@@ -610,7 +616,7 @@ Language: English
 
 *   [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
-## [45. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [46. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
@@ -635,48 +641,48 @@ Language: English
 
 *   [@spianslabs](https://twitter.com/spianslabs) <sup>[636](https://t.me/s/aboutrss/636)</sup>
 
-## [46. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
+## [47. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
 ### Q/A
 
 *   [Q# tag on Stack Overflow](https://stackoverflow.com/questions/tagged/q%23)
 *   [Q# tag on Quantum Computing StackExchange](https://quantumcomputing.stackexchange.com/questions/tagged/q%23)
 
-## [47. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [48. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
-*   [rubico (⭐254)](https://github.com/a-synchronous/rubico) - 🏞 \[a]synchronous functional syntax
+*   [rubico (⭐262)](https://github.com/a-synchronous/rubico) - 🏞 \[a]synchronous functional syntax
 
 ### Resources / Books
 
-*   [scriptum (⭐378)](https://github.com/kongware/scriptum/blob/master/README.md) - a no-frills functional programming library and a online course based on it
+*   [scriptum (⭐380)](https://github.com/kongware/scriptum/blob/master/README.md) - a no-frills functional programming library and a online course based on it
 
-## [48. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [49. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Neural Natural Language Generation
 
 *   [This Word Does Not Exist (⭐1k)](https://github.com/turtlesoupy/this-word-does-not-exist) - This is a project allows people to train a variant of GPT-2 that makes up words, definitions and examples from scratch.
 
-## [49. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [50. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Bots / Self-hosted
 
 *   [EveIRC (⭐8)](https://github.com/Inspyre-Technologies/EveIRC) - Extendable chat/channel/server-managenent service-providing bot. Using the [Cinch Framework (⭐1k)](https://github.com/cinchrb/cinch). `Ruby`
 
-## [50. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [51. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
 *   [react-native-hole-view ★6 (⭐210)](https://github.com/ibitcy/react-native-hole-view) - Component for cutting out click-through holes in any view. Perfect for making tutorial-like overlay
 
-## [51. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [52. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Frameworks :art: / Editor's Draft :black_nib:
 
 *   [Bonsai](https://www.bonsaicss.com/) - A complete Utility First CSS Framework for less than 50kb.
 
-## [52. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [53. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Jamstack Sites Showcase
 
@@ -694,25 +700,25 @@ Language: English
 
 *   [State of Jamstack 2020 report](https://kontent.ai/resources/state-of-jamstack-2020-report)
 
-## [53. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [54. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
 *   [Sorted colors](https://enes.in/sorted-colors/) - Sorted named CSS colors in a way that it shows related colors together.
 
-## [54. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [55. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
 *   [Context, Situation, Components, PaaS, Dead or Alive … it's all semantics isn't it?](https://blog.gardeviance.org/2014/02/context-situation-components-paas-dead.html) - tl;dr Caveat Emptor. Feb 4, 2014.
 
-## [55. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [56. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Tutorials
 
 *   [Video Tutorials](https://www.youtube.com/playlist?list=PLy57qL2R3Z6NlBQBEMnjVPT0iz320i4Ko) - YouTube playlist for short PlayCanvas tutorials.
 
-## [56. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [57. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Games
 
@@ -722,13 +728,13 @@ Language: English
 
 *   [DevExpress Blazor UI Components (⭐363)](https://github.com/DevExpress/RazorComponents) - ![stars](https://img.shields.io/github/stars/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=86400) A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms.
 
-## [57. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [58. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Web Frameworks
 
-*   [runcobo (⭐48)](https://github.com/runcobo/runcobo) - An api framework with simple, intuitive and consistent DSL, using jbuilder to render json
+*   [runcobo (⭐49)](https://github.com/runcobo/runcobo) - An api framework with simple, intuitive and consistent DSL, using jbuilder to render json
 
-## [58. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [59. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Cognitive Tools / Collections
 
@@ -768,7 +774,7 @@ Language: English
 *   [Marketing for Engineers (⭐13k)](https://github.com/LisaDziuba/Marketing-for-Engineers) - Lots of resources to help bootstrap your marketing activities and solve practical tasks.
 *   [How the biggest consumer apps got their first 1,000 users](https://www.lennyrachitsky.com/p/how-the-biggest-consumer-apps-got) - How the biggest apps out there started: from going to your user directly (both online and offline), creating FOMO and word-of-mouth, to build a community first and get press.
 
-## [59. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [60. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Accessibility
 
@@ -828,7 +834,7 @@ Language: English
 *   [Styling and Theming Web Components](https://youtu.be/FM7ROEVPA4k) by [@justinfagnani](https://twitter.com/justinfagnani)
 *   [Web Components at Enterprise Scale](https://youtu.be/iFp-P2UJT_Y) by [@diervo](https://twitter.com/diervo)
 
-## [60. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [61. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Automation
 
@@ -839,7 +845,7 @@ Language: English
 *   [deno\_cron (⭐100)](https://github.com/rbrahul/deno_cron) - A cron Job scheduler that allows you to write human readable cron syntax with tons of flexibility
 *   [rubico (⭐262)](https://github.com/richytong/rubico) - 🏞 \[a]synchronous function composition; it just works.
 
-## [61. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [62. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Blog Posts
 

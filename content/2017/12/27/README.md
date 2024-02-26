@@ -50,7 +50,7 @@
 
 ### Cryptocurrencies and Blockchains
 
-*   [Blockchain Lite (⭐212)](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
+*   [Blockchain Lite (⭐215)](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

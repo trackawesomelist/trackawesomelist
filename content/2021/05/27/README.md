@@ -88,7 +88,7 @@
 
 ### Tools / Community providers
 
-*   [yor (⭐747)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
+*   [yor (⭐759)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

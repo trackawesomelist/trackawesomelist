@@ -121,11 +121,11 @@
 ### Editable data grid / spreadsheet
 
 *   [AG Grid (⭐11k)](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
-*   [MUI X Data grid (⭐3.3k)](https://github.com/mui/mui-x) - [demo/docs](https://mui.com/x/react-data-grid/) - Fast and customizable data grid with advanced features for power users and complex use cases.
+*   [MUI X Data grid (⭐3.6k)](https://github.com/mui/mui-x) - [demo/docs](https://mui.com/x/react-data-grid/) - Fast and customizable data grid with advanced features for power users and complex use cases.
 
 ### Audio / Video
 
-*   [react-barcode-qrcode-scanner (⭐13)](https://github.com/xulihang/react-barcode-qrcode-scanner) - Barcode and QR code scanner component for React. It uses react-vision-camera to access the camera and Dynamsoft Barcode Reader to read barcodes.
+*   [react-barcode-qrcode-scanner (⭐14)](https://github.com/xulihang/react-barcode-qrcode-scanner) - Barcode and QR code scanner component for React. It uses react-vision-camera to access the camera and Dynamsoft Barcode Reader to read barcodes.
 
 ### Device Input / Keyboard Events
 

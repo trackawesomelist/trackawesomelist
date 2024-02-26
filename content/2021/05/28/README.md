@@ -60,7 +60,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [serpro69/kotlin-faker (⭐385)](https://github.com/serpro69/kotlin-faker) - Port of ruby faker gem written in kotlin
+*   [serpro69/kotlin-faker (⭐390)](https://github.com/serpro69/kotlin-faker) - Port of ruby faker gem written in kotlin
 
 ## [7. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 02, 2024
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -50,19 +50,13 @@
 
 ### Applications / Virtualization
 
-*   [kata-containers/kata-containers (⭐4.6k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
+*   [kata-containers/kata-containers (⭐4.7k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
 
 ## [8. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### Visual Analytics
 
 *   [Crawlbase](https://crawlbase.com/) \[FREE / CREDIT] Crawlbase, a web scraping and web crawling tool, is generously offering 5000 successful requests for free over a three-month period to students, who can take advantage of this opportunity by using the discount code 'SDNT2023'.
-
-## [9. Awesome Godot](/content/godotengine/awesome-godot/README.md)
-
-### Plugins and scripts / Various Godot versions
-
-*   [Godot Spin Button (⭐28)](https://github.com/nblackninja/godot-spin-button) - Horizontal Selector with extended options (Godot 4.x).
 
 ---
 

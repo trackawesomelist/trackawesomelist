@@ -102,15 +102,15 @@
 ### Applications / Emulators
 
 *   CHIP-8
-    *   [ColinEberhardt/wasm-rust-chip8 (⭐250)](https://github.com/ColinEberhardt/wasm-rust-chip8) — A WebAssembly CHIP-8 emulator written with Rust
-    *   [starrhorne/chip8-rust (⭐132)](https://github.com/starrhorne/chip8-rust) — Yet another rust chip8 emulator
+    *   [ColinEberhardt/wasm-rust-chip8 (⭐250)](https://github.com/ColinEberhardt/wasm-rust-chip8) — A WebAssembly CHIP-8 emulator.
+    *   [starrhorne/chip8-rust (⭐132)](https://github.com/starrhorne/chip8-rust) — chip8 emulator
 
 ### Development tools / IDEs
 
 *   [Visual Studio Code](https://code.visualstudio.com/)
     *   [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) - TOML support in vscode
     *   [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) — A LLDB extension
-    *   [crates (⭐218)](https://github.com/serayuzgur/crates) — crates is an extension for crates.io dependencies. [![build badge](https://img.shields.io/vscode-marketplace/v/serayuzgur.crates.svg)](https://github.com/serayuzgur/crates)
+    *   [crates (⭐220)](https://github.com/serayuzgur/crates) — crates is an extension for crates.io dependencies. [![build badge](https://img.shields.io/vscode-marketplace/v/serayuzgur.crates.svg)](https://github.com/serayuzgur/crates)
     *   [Prettier - Code formatter (Rust)](https://marketplace.visualstudio.com/items?itemName=jinxdash.prettier-rust) — Opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
     *   [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) — An alternative rust language server to the RLS
     *   [rust-lang/rls-vscode](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) — Rust support for Visual Studio Code (supports both RLS and rust-analyzer)

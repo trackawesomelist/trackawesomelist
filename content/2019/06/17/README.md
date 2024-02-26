@@ -49,10 +49,10 @@ Webpage: <http://zeitgeistcoffee.com/>
 
 ### Applications / Blockchain
 
-*   [ChainX (⭐305)](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
+*   [ChainX (⭐307)](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
 *   [Grin (⭐5k)](https://github.com/mimblewimble/grin/) — Evolution of the MimbleWimble protocol
 *   [Nervos CKB (⭐1.1k)](https://github.com/nervosnetwork/ckb) — Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
-*   [Substrate (⭐8.3k)](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
+*   [Substrate (⭐8.3k)](https://github.com/paritytech/substrate) — Generic modular blockchain template.
 
 ## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

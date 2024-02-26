@@ -44,7 +44,7 @@
 
 ### Community / Related Lists
 
-*   [lucasviola/Awesome Functional Programming (⭐911)](https://github.com/lucasviola/awesome-functional-programming) – Awesome resources on functional programming theory and learning materials.
+*   [lucasviola/Awesome Functional Programming (⭐924)](https://github.com/lucasviola/awesome-functional-programming) – Awesome resources on functional programming theory and learning materials.
 *   [xgrommx/Awesome Functional Programming (⭐3.4k)](https://github.com/xgrommx/awesome-functional-programming) – A ton of articles on functional programming, as well as a huge list of functional libraries for many programming languages.
 
 ## [7. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
@@ -69,7 +69,7 @@
 
 ### Table of Contents / Dependency Injection
 
-*   [Auryn (⭐727)](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
+*   [Auryn (⭐725)](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
 
 ## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

@@ -14,7 +14,7 @@
 
 ### Applications / Text processing
 
-*   [ruplacer (⭐398)](https://github.com/your-tools/ruplacer) — Find and replace text in source files [![Run tests](https://github.com/your-tools/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/your-tools/ruplacer/actions/workflows/test.yml)
+*   [ruplacer (⭐400)](https://github.com/your-tools/ruplacer) — Find and replace text in source files [![Run tests](https://github.com/your-tools/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/your-tools/ruplacer/actions/workflows/test.yml)
 
 ## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 

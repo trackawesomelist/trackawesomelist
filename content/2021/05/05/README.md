@@ -10,12 +10,12 @@
 
 ### Applications / Blockchain
 
-*   [Nimiq (⭐74)](https://github.com/nimiq/core-rs) — Rust implementation of Nimiq node
+*   [Nimiq (⭐74)](https://github.com/nimiq/core-rs) — Implementation of Nimiq node
 
 ### Applications / Database
 
 *   [Skytable (⭐2k)](https://github.com/skytable/skytable) — A multi-model NoSQL database ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/skytable/skytable/Tests?style=flat-square)
-*   [TerminusDB (⭐352)](https://github.com/terminusdb/terminusdb-store) - open source graph database and document store [![Build Status](https://github.com/terminusdb/terminusdb-store/workflows/Build/badge.svg?branch=master)](https://github.com/terminusdb/terminusdb-store/actions)
+*   [TerminusDB (⭐354)](https://github.com/terminusdb/terminusdb-store) - open source graph database and document store [![Build Status](https://github.com/terminusdb/terminusdb-store/workflows/Build/badge.svg?branch=master)](https://github.com/terminusdb/terminusdb-store/actions)
 
 ### Applications / System tools
 
@@ -30,13 +30,13 @@
 
 ### Libraries / Email
 
-*   [jdrouet/catapulte (⭐131)](https://github.com/jdrouet/catapulte) - A microservice to send emails using [MRML (⭐284)](https://github.com/jdrouet/mrml) templates.
-*   [jdrouet/jolimail (⭐131)](https://github.com/jdrouet/jolimail) - A web application to build [MRML (⭐284)](https://github.com/jdrouet/mrml) templates.
+*   [jdrouet/catapulte (⭐131)](https://github.com/jdrouet/catapulte) - A microservice to send emails using [MRML (⭐288)](https://github.com/jdrouet/mrml) templates.
+*   [jdrouet/jolimail (⭐131)](https://github.com/jdrouet/jolimail) - A web application to build [MRML (⭐288)](https://github.com/jdrouet/mrml) templates.
 
 ### Libraries / GUI
 
 *   [FLTK](https://www.fltk.org/)
-    *   [fltk-rs (⭐1.4k)](https://github.com/fltk-rs/fltk-rs) — FLTK Rust bindings [![Build](https://github.com/fltk-rs/fltk-rs/workflows/Build/badge.svg?branch=master)](https://github.com/fltk-rs/fltk-rs/actions)
+    *   [fltk-rs (⭐1.4k)](https://github.com/fltk-rs/fltk-rs) — FLTK bindings [![Build](https://github.com/fltk-rs/fltk-rs/workflows/Build/badge.svg?branch=master)](https://github.com/fltk-rs/fltk-rs/actions)
 
 ### Libraries / Network programming
 

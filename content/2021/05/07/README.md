@@ -118,27 +118,27 @@
 
 ### Adapters / Client-side
 
-*   💜 [Vue.js (⭐5.3k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-vue)
-*   💜 [React (⭐5.3k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-react)
-*   💜 [Svelte (⭐5.3k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-svelte)
+*   💜 [Vue.js (⭐5.6k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-vue)
+*   💜 [React (⭐5.6k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-react)
+*   💜 [Svelte (⭐5.6k)](https://github.com/inertiajs/inertia/tree/master/packages/inertia-svelte)
 
 ### Adapters / Server-side
 
-*   💜 [Laravel (⭐1.8k)](https://github.com/inertiajs/inertia-laravel)
-*   💜 [Rails (⭐295)](https://github.com/inertiajs/inertia-rails)
-*   [Statamic (⭐53)](https://github.com/hotmeteor/inertia-statamic)
+*   💜 [Laravel (⭐1.9k)](https://github.com/inertiajs/inertia-laravel)
+*   💜 [Rails (⭐350)](https://github.com/inertiajs/inertia-rails)
+*   [Statamic (⭐54)](https://github.com/hotmeteor/inertia-statamic)
 *   [ASP.NET Core (⭐59)](https://github.com/Nothing-Works/inertia-aspnetcore)
 *   [CakePHP (⭐35)](https://github.com/ishanvyas22/cakephp-inertiajs)
 *   [ColdBox (⭐4)](https://github.com/elpete/cbInertia)
-*   [Phoenix (⭐68)](https://github.com/devato/inertia_phoenix)
-*   [Symfony (⭐151)](https://github.com/rompetomp/inertia-bundle)
-*   [Yii2 (⭐54)](https://github.com/tbreuss/yii2-inertia)
+*   [Phoenix (⭐72)](https://github.com/devato/inertia_phoenix)
+*   [Symfony (⭐154)](https://github.com/rompetomp/inertia-bundle)
+*   [Yii2 (⭐57)](https://github.com/tbreuss/yii2-inertia)
 *   [Django (⭐90)](https://github.com/zodman/inertia-django)
 *   [Fiber (⭐11)](https://github.com/theArtechnology/fiber-inertia)
 *   [Node.js](https://github.com/jordankaerim/inertia-node)
-*   [Masonite (⭐21)](https://github.com/girardinsamuel/masonite-inertia)
-*   [WordPress (⭐130)](https://github.com/boxybird/wordpress-inertia-plugin)
-*   [Flask (⭐18)](https://github.com/j0ack/flask-inertia)
+*   [Masonite (⭐23)](https://github.com/girardinsamuel/masonite-inertia)
+*   [WordPress (⭐150)](https://github.com/boxybird/wordpress-inertia-plugin)
+*   [Flask (⭐23)](https://github.com/j0ack/flask-inertia)
 
 ## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 

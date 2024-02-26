@@ -108,15 +108,15 @@
 
 ### Date and Time
 
-*   [open\_hours (⭐43)](https://github.com/hopsor/open_hours) - Time calculations using business hours.
+*   [open\_hours (⭐46)](https://github.com/hopsor/open_hours) - Time calculations using business hours.
 
 ### Macros
 
-*   [crudry (⭐86)](https://github.com/gabrielpra1/crudry) - Crudry is an elixir library for DRYing CRUD of Phoenix Contexts and Absinthe Resolvers.
+*   [crudry (⭐87)](https://github.com/gabrielpra1/crudry) - Crudry is an elixir library for DRYing CRUD of Phoenix Contexts and Absinthe Resolvers.
 
 ### ORM and Datamapping
 
-*   [panoramix (⭐38)](https://github.com/gameanalytics/panoramix) - Apache Druid client for Elixir.
+*   [panoramix (⭐39)](https://github.com/gameanalytics/panoramix) - Apache Druid client for Elixir.
 
 ### Text and Numbers
 

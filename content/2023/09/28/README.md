@@ -141,7 +141,7 @@
 
 *   [mutwo](https://mutwo-org.github.io/) - a Python library for composition that outputs notation, MIDI or audio files and that provides a generalized model to describe time-based structures.
 *   [pyo](https://belangeo.github.io/pyo/) - a Python module to help digital signal processing script creation.
-*   [slippery chicken (⭐55)](https://github.com/mdedwards/slippery-chicken) - a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.
+*   [slippery chicken (⭐61)](https://github.com/mdedwards/slippery-chicken) - a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.
 
 ## [8. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 

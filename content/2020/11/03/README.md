@@ -38,13 +38,7 @@
 
 *   [HTMLCompressor](https://code.google.com/archive/p/htmlcompressor/) - HtmlCompressor is a small, fast, and very easy to use Java library that minifies given HTML or XML source by removing extra whitespaces, comments, and other unneeded characters without breaking the content structure. As a result page become smaller in size and load faster. A command-line version of the compressor is also available.
 
-## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
-
-### Configuration / Text Editors and IDEs
-
-*   [Apache NetBeans](https://netbeans.apache.org/) - An IDE with support for PHP and HTML5.
-
-## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [6. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Music / Third Party Hosts
 
@@ -54,23 +48,29 @@
 
 *   [betanin (⭐230)](https://github.com/sentriz/betanin) beets.io based man-in-the-middle of your torrent client and music player.
 
-## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Data Formats
 
 *   [Crystalizer (⭐40)](https://github.com/j8r/crystalizer) - (De)serialize any Crystal object; supporting JSON, YAML, and Byte formats out of the box
 
-## [9. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### JavaScript
 
 *   [HTPL Compiler (⭐9)](https://github.com/roveroniandrea/HTPLcompiler) - HTPL is a programming language based on HTML.
 
-## [10. Awesome Python](/content/vinta/awesome-python/README.md)
+## [9. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Functional Programming
 
-*   [returns (⭐2.8k)](https://github.com/dry-python/returns) - A set of type-safe monads, transformers, and composition utilities.
+*   [returns (⭐3.2k)](https://github.com/dry-python/returns) - A set of type-safe monads, transformers, and composition utilities.
+
+## [10. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### Python / Symfony
+
+*   [Python进阶](https://interpy.eastlakeside.com) - eastlakeside
 
 ## [11. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 

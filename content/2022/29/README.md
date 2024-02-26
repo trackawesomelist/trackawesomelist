@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 18 - Jul 24, 2022
 
-51 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,7 +28,7 @@
 
 ### Table of Contents / Strings
 
-*   [Portable ASCII (⭐474)](https://github.com/voku/portable-ascii) - A library to convert strings to ASCII.
+*   [Portable ASCII (⭐476)](https://github.com/voku/portable-ascii) - A library to convert strings to ASCII.
 
 ## [5. GoBooks](/content/dariubs/GoBooks/week/README.md)
 
@@ -76,7 +76,7 @@
 
 Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large screens. Also removes the truncating of file and directory names in the repository browser.
 
-Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
+Installs: 2000 | Stars: 131 | Last update: n/a
 
 ## [10. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
@@ -117,11 +117,11 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 
 ### Applications / Blockchain
 
-*   [Holochain (⭐878)](https://github.com/holochain/holochain) — Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build. [![detect critical check failures](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml/badge.svg)](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml)
+*   [Holochain (⭐884)](https://github.com/holochain/holochain) — Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build. [![detect critical check failures](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml/badge.svg)](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml)
 
 ### Applications / System tools
 
-*   [pueue (⭐4.1k)](https://github.com/nukesor/pueue) — Manage your long running shell commands. [![GitHub Actions Workflow](https://github.com/nukesor/pueue/workflows/Test%20build/badge.svg?branch=master)](https://github.com/nukesor/pueue/actions)
+*   [pueue (⭐4.2k)](https://github.com/nukesor/pueue) — Manage your long running shell commands. [![GitHub Actions Workflow](https://github.com/nukesor/pueue/workflows/Test%20build/badge.svg?branch=master)](https://github.com/nukesor/pueue/actions)
 
 ### Libraries / Compression
 
@@ -132,7 +132,7 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 
 *   Generic
     *   [Geal/rust\_on\_mobile (⭐167)](https://github.com/Geal/rust_on_mobile)
-    *   [redbadger/crux (⭐1.3k)](https://github.com/redbadger/crux) \[[crux\_core](https://crates.io/crates/crux_core)] — Cross-platform app development in Rust. Crux helps you share your app's business logic and behavior across mobile (iOS/Android) and web — as a single reusable core built with Rust. [![Build status](https://img.shields.io/github/actions/workflow/status/redbadger/crux/build.yaml)](https://github.com/redbadger/crux/actions)
+    *   [redbadger/crux (⭐1.3k)](https://github.com/redbadger/crux) \[[crux\_core](https://crates.io/crates/crux_core)] — Cross-platform app development. Crux helps you share your app's business logic and behavior across mobile (iOS/Android) and web — as a single reusable core. [![Build status](https://img.shields.io/github/actions/workflow/status/redbadger/crux/build.yaml)](https://github.com/redbadger/crux/actions)
 
 ## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -190,11 +190,11 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 
 ### Plugins for Minecraft
 
-*   [No-Chat-Reports (⭐912)](https://github.com/Aizistral-Studios/No-Chat-Reports) - A spigot plugin strips cryptographic signatures from player messages, but it breaks any chat plugin by design.
+*   [No-Chat-Reports (⭐914)](https://github.com/Aizistral-Studios/No-Chat-Reports) - A spigot plugin strips cryptographic signatures from player messages, but it breaks any chat plugin by design.
 
 ### Audio
 
-*   [Jetispot (⭐338)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
+*   [Jetispot (⭐339)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
 
 ## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -289,7 +289,7 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 *   [f-shortcuts (⭐5)](https://github.com/zpm-zsh/f-shortcuts) - Makes a shortcuts toolbar using `F1` to `F12` keys.
 *   [fancy-ctrl-z (⭐17)](https://github.com/mdumitru/fancy-ctrl-z) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of [oh-my-zsh](https://ohmyz.sh).
 *   [get-jquery (⭐1)](https://github.com/voronkovich/get-jquery.plugin.zsh) - Plugin for fast downloading the jQuery library from [code.jquery.com](https://code.jquery.com).
-*   [gimme (⭐2)](https://github.com/folixg/gimme-ohmyzsh-plugin) - Manage [Go](https://golang.org/) installations with [gimme (⭐693)](https://github.com/travis-ci/gimme/).
+*   [gimme (⭐2)](https://github.com/folixg/gimme-ohmyzsh-plugin) - Manage [Go](https://golang.org/) installations with [gimme (⭐694)](https://github.com/travis-ci/gimme/).
 *   [git-aliases (mdumitru) (⭐26)](https://github.com/mdumitru/git-aliases) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of [oh-my-zsh](https://ohmyz.sh).
 *   [git-is-clean (⭐1)](https://github.com/aubreypwd/zsh-plugin-git-is-clean) - This function will return true or false depending on if it finds out your `git` repo is dirty or not.
 *   [git-smart-commends-wrapper (⭐0)](https://github.com/jelek21/omz-git-smart-commands) - Wraps [git-smart-commands (⭐12)](https://github.com/seletskiy/zsh-git-smart-commands) to make it compatible with the [oh-my-zsh](https://ohmyz.sh) plugins system.
@@ -310,7 +310,7 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 *   [virtualenv-prompt (⭐36)](https://github.com/tonyseek/oh-my-zsh-virtualenv-prompt) - A fork of the virtualenv plugin from upstream [oh-my-zsh](https://ohmyz.sh/). Adds support for customizing the virtualenv prompt in [oh-my-zsh](https://ohmyz.sh) themes.
 *   [yadm (⭐9)](https://github.com/juanrgon/yadm-zsh) - Displays a warning if there are local [yadm](https://thelocehiliosan.github.io/yadm/) configuration changes.
 *   [yeoman (⭐40)](https://github.com/edouard-lopez/yeoman-zsh-plugin) - Edouard Lopez's [Yeoman](http://yeoman.io/) plugin for [oh-my-zsh](https://ohmyz.sh/), compatible with yeoman version ≥1.0 (includes options and command auto-completion).
-*   [zshmarks (⭐263)](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (by Todd Werth), a simple command line bookmarking plugin, for [oh-my-zsh](https://ohmyz.sh).
+*   [zshmarks (⭐265)](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (by Todd Werth), a simple command line bookmarking plugin, for [oh-my-zsh](https://ohmyz.sh).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -322,11 +322,11 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 
 ### Theory
 
-*   [AGI & CoCoSci (⭐216)](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
+*   [AGI & CoCoSci (⭐231)](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 
 ### Security
 
-*   [Cyber Security University (⭐1.1k)](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
+*   [Cyber Security University (⭐1.2k)](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
 *   [Hacking Spots (⭐1k)](https://github.com/daviddias/awesome-hacking-locations#readme)
 
 ## [28. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
@@ -380,19 +380,19 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 ### Templates / React
 
 *   [stravital (⭐26)](https://github.com/rizkimcitra/stravital) - TypeScript, Git Hooks, Commitizen, Lint Staged, TailwindCSS.
-*   [ViteRC (⭐43)](https://github.com/potreco/viterc) - React 18 + TypeScript + ESLint (Airbnb) + Prettier + Husky + Jest + Absolute imports + Commit linting.
+*   [ViteRC (⭐44)](https://github.com/potreco/viterc) - React 18 + TypeScript + ESLint (Airbnb) + Prettier + Husky + Jest + Absolute imports + Commit linting.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-importus (⭐22)](https://github.com/Geocld/vite-plugin-importus) - Modularly import plugin, compatible with antd, lodash, material-ui and so on.
+*   [vite-plugin-importus (⭐23)](https://github.com/Geocld/vite-plugin-importus) - Modularly import plugin, compatible with antd, lodash, material-ui and so on.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html-inject (⭐42)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
+*   [vite-plugin-html-inject (⭐43)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
 
 ### Symfony / Community
 
-*   [Vite Bundle (⭐176)](https://github.com/lhapaipai/vite-bundle) - Integration for Symfony.
+*   [Vite Bundle (⭐181)](https://github.com/lhapaipai/vite-bundle) - Integration for Symfony.
 
 ## [34. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -473,49 +473,14 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 ### Other plugins
 
 *   Google
-    *   [Auth (⭐230)](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Google auth plugin for Capacitor.
+    *   [Auth (⭐240)](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Google auth plugin for Capacitor.
     *   [Availability (⭐2)](https://github.com/cartona/capacitor-google-play-availability) - Verifies that Google Play services is installed and enabled, and request enabling Google Play services on device.
     *   [Fit (⭐21)](https://github.com/Ad-Scientiam/capacitor-google-fit) - Retrieve data from Google Fit.
     *   [MlKit Language (⭐3)](https://github.com/hemangsk/capacitor-mlkit-language) - Identify the language of a string of text.
     *   [MlKit Vision (⭐11)](https://github.com/trancee/capacitor-google-mlkit-vision/) - Detect faces in an image, identify key facial features, and get the contours of detected faces.
 *   [Playlist (⭐22)](https://github.com/phiamo/capacitor-plugin-playlist) - Native support for audio playlists, background support, and lock screen controls.
 
-## [39. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Misc
-
-*   [Front-End Developer Handbook 2016](https://frontendmasters.com/guides/front-end-handbook/2016/) - Cody Lindley (HTML)
-*   [Front-End Developer Handbook 2017](https://frontendmasters.com/guides/front-end-handbook/2017/) - Cody Lindley (HTML)
-*   [Front-End Developer Handbook 2018](https://frontendmasters.com/guides/front-end-handbook/2018/) - Cody Lindley (HTML)
-*   [Front-End Developer Handbook 2019](https://frontendmasters.com/guides/front-end-handbook/2019/) - Cody Lindley (HTML)
-
-### Security & Privacy
-
-*   [OWASP Testing Guide 4.2](https://owasp.org/www-project-web-security-testing-guide/v42/) - The OWASP® Foundation (HTML, [PDF (⭐6.3k)](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf))
-
-### Version Control Systems
-
-*   [A git Primer](https://danielmiessler.com/study/git/) - Daniel Miessler
-*   [Git cookbook](https://git.seveas.net/about.html) - Dennis Kaarsemaker (HTML)
-*   [Git From The Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - J. Wiegley
-*   [Git internals (⭐2.5k)](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) - Scott Chacon (PDF)
-*   [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507) - Richard E. Silverman
-*   [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) - Ryan Hodson (PDF, Kindle) (email address *requested*, not required)
-*   [Git Tutorial](https://www.tutorialspoint.com/git/) - Tutorials Point (HTML, PDF)
-*   [Git-Tutorial For-Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - HubSpot Product Team
-*   [Git Workflows](https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book) - Yan Pritzker *(:card\_file\_box: archived)*
-*   [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
-*   [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
-*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐380)](https://github.com/eonist/How-to-collaborate-on-github) - André J
-*   [Introduction to Git and Github](https://launchschool.com/books/git) - Launch School
-*   [Introduction to Git and GitHub eBook (⭐538)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
-*   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com) - Bryan O'Sullivan
-*   [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org) - Bryan O'Sullivan
-*   [Pro Git Reedited](https://leanpub.com/progitreedited/read) - Jon Forrest
-*   [Ry's Git Tutorial](https://web.archive.org/web/20161121145226/http://rypress.com:80/tutorials/git/index) - Ryan Hodson *(:card\_file\_box: archived)*
-*   [Version Control with Subversion](https://svnbook.red-bean.com/index.en.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato
-
-## [40. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [39. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -524,7 +489,7 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 
 ### Software / Communication - IRC
 
-*   [Quassel IRC](https://quassel-irc.org/) - Distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core. ([Source Code (⭐708)](https://github.com/quassel/quassel)) `GPL-2.0` `C++`
+*   [Quassel IRC](https://quassel-irc.org/) - Distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core. ([Source Code (⭐711)](https://github.com/quassel/quassel)) `GPL-2.0` `C++`
 
 ### Software / Communication - SIP
 
@@ -536,11 +501,11 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 
 ### Software / Conference Management
 
-*   [frab](https://frab.github.io/frab/) - Web-based conference planning and management system. It helps to collect submissions, to manage talks and speakers and to create a schedule. ([Source Code (⭐684)](https://github.com/frab/frab)) `MIT` `Ruby/Docker`
+*   [frab](https://frab.github.io/frab/) - Web-based conference planning and management system. It helps to collect submissions, to manage talks and speakers and to create a schedule. ([Source Code (⭐688)](https://github.com/frab/frab)) `MIT` `Ruby/Docker`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Roadiz](https://www.roadiz.io/) - Modern CMS based on a node system which can handle many types of services. ([Source Code (⭐371)](https://github.com/roadiz/roadiz)) `MIT` `PHP`
+*   [Roadiz](https://www.roadiz.io/) - Modern CMS based on a node system which can handle many types of services. ([Source Code (⭐372)](https://github.com/roadiz/roadiz)) `MIT` `PHP`
 
 ### Software / Document Management
 
@@ -548,7 +513,7 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 
 ### Software / Feed Readers
 
-*   [RSS-Bridge (⭐6.6k)](https://github.com/RSS-Bridge/rss-bridge) - Generate RSS/ATOM feeds for websites which don't have one. `Unlicense` `PHP/Docker`
+*   [RSS-Bridge (⭐6.7k)](https://github.com/RSS-Bridge/rss-bridge) - Generate RSS/ATOM feeds for websites which don't have one. `Unlicense` `PHP/Docker`
 
 ### Software / Internet of Things (IoT)
 
@@ -569,9 +534,9 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 
 ### Software / Pastebins
 
-*   [bin (⭐315)](https://github.com/w4/bin) - A paste bin that's actually minimalist. `WTFPL/0BSD` `Rust`
-*   [dpaste](https://dpaste.org/) - Simple pastebin with multiple text and code option, with short url result easy to remember. ([Source Code (⭐493)](https://github.com/DarrenOfficial/dpaste)) `MIT` `Docker/Django`
-*   [Wastebin (⭐159)](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust/Docker`
+*   [bin (⭐327)](https://github.com/w4/bin) - A paste bin that's actually minimalist. `WTFPL/0BSD` `Rust`
+*   [dpaste](https://dpaste.org/) - Simple pastebin with multiple text and code option, with short url result easy to remember. ([Source Code (⭐498)](https://github.com/DarrenOfficial/dpaste)) `MIT` `Docker/Django`
+*   [Wastebin (⭐167)](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust/Docker`
 
 ### Software / Software Development - FaaS & Serverless
 
@@ -579,13 +544,13 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 
 ### Software / Status / Uptime pages
 
-*   [Uptime Kuma (⭐45k)](https://github.com/louislam/uptime-kuma) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.kuma.pet)) `MIT` `Docker/Nodejs`
+*   [Uptime Kuma (⭐46k)](https://github.com/louislam/uptime-kuma) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.kuma.pet)) `MIT` `Docker/Nodejs`
 
 ### Software / URL Shorteners
 
-*   [Lstu (⭐200)](https://github.com/ldidry/lstu) - Lightweight URL shortener. `WTFPL` `Perl/Docker`
+*   [Lstu (⭐201)](https://github.com/ldidry/lstu) - Lightweight URL shortener. `WTFPL` `Perl/Docker`
 
-## [41. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [40. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -606,19 +571,19 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 *   [Steve Sanderson - Blazor, WASI and optimizing tomatoes](https://www.youtube.com/watch?v=1r3FwkUEte0) - July 17, 2022 - At NDC London we sat down with Steve Sanderson and talked about the origin story of Blazor, some of the upcoming things in .NET 7, and what Steve is working on right now. Duration: 35 minutes.
 *   [WASM Everywhere with Steve Sanderson](https://www.dotnetrocks.com/default.aspx?ShowNum=1801) - July 7, 2022 - WebAssembly is awesome - what else can you do with it? While at NDC London, Carl and Richard talked to Steve Sanderson about his work with WebAssembly, including Blazor. Steve talks about how WebAssembly continues to evolve adding WebAssembly System Integration. This opens the door to the idea that code in the WebAssembly can be run anywhere - any operating system, any language, using whatever compute is available. That gives an option to run code on the client, the server, and anywhere in between. Duration: 55 minutes.
 
-## [42. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [41. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
 *   [jupyterlab-tensorboard-pro (⭐62)](https://github.com/HFAiLab/jupyterlab_tensorboard_pro) - TensorBoard support for JupyterLab.
 
-## [43. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [42. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [vendelieu/telegram-bot (⭐111)](https://github.com/vendelieu/telegram-bot) - A lightweight, feature-rich wrapper for the Telegram Bot API
+*   [vendelieu/telegram-bot (⭐115)](https://github.com/vendelieu/telegram-bot) - A lightweight, feature-rich wrapper for the Telegram Bot API
 
-## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [43. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Major Cloud Providers
 
@@ -647,7 +612,7 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 
 *   [Idrive e2](https://www.idrive.com/e2/) - S3 compatibility object storage. 10 GB free storage and 10 GB download bandwidth per month.
 
-## [45. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [44. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Tools
 
@@ -657,7 +622,7 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 
 *   [nl\_NL (⭐7)](https://github.com/magento-l10n/language-nl_NL) 🇳🇱 - Dutch Language Package.
 
-## [46. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [45. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Changing the syntax
 
@@ -668,7 +633,7 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 
 *   [Portal (⭐28)](https://github.com/charJe/portal) - Portable websockets for Common Lisp, using usocket. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [47. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [46. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Courses & Books & Blogs
 
@@ -678,13 +643,13 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 
 *   [KLineChart (⭐1.8k)](https://github.com/liihuu/KLineChart) - Highly customizable professional lightweight financial charts
 
-## [48. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [47. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Germany
 
 *   [Computerarchiv Muenchen](http://computerarchiv-muenchen.de/) - South German Museum for History of Digital Development.
 
-## [49. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [48. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Paper Reading
 
@@ -848,7 +813,7 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 *   [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x) - ***Cognitive Science***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=6689941517686043970\&hl=en\&as_sdt=0,5)]. Nicolas Fay's original paper on iconicity.
 *   [Iconicity: From sign to system in human communication and language](https://benjamins.com/catalog/pc.22.2.05fay) - ***Pragmatics & Cognition***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=8525760321117094567\&hl=en\&as_sdt=0,5)]. Nicolas Fay's account on the emergence of iconic language.
 *   [Graphical Language Games: Interactional Constraints on Representational Form](https://onlinelibrary.wiley.com/doi/full/10.1080/15326900701221363) - ***Cognitive Science***, 2007. \[[All Versions](https://scholar.google.com/scholar?cluster=280214578402050136\&hl=en\&as_sdt=0,5)]. The first paper introducing the graphical language game.
-*   [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf) - ***ACM SIG Graph***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=6676723059377806081\&hl=en\&as_sdt=0,5)]. \[[Project](http://sketchx.ai/pixelor)]. Rationality in feature sketching.
+*   [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf) - ***ACM SIGGraph'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=6676723059377806081\&hl=en\&as_sdt=0,5)]. \[[Project](http://sketchx.ai/pixelor)]. Rationality in feature sketching.
 *   [Pragmatic Inference and Visual Abstraction Enable Contextual Flexibility During Visual Communication](https://link.springer.com/article/10.1007/s42113-019-00058-7) - ***Computational Brain & Behavior***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17971107104483505071\&hl=en\&as_sdt=0,5)]. A computational account on the rational behavior in graphical language games.
 *   [Emergent Graphical Conventions in a Visual Communication Game](https://arxiv.org/abs/2111.14210) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=6476453985812346727\&hl=en\&as_sdt=0,5)]. A computational account on the emergence of iconic language.
 *   [Communicating artificial neural networks develop efficient color-naming systems](https://www.pnas.org/content/118/12/e2016569118) - ***Proceedings of the National Academy of Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1640459156303560508\&hl=en\&as_sdt=0,5)]. Simulating the emergence of code as the communication bottleneck in color learning task.
@@ -944,7 +909,7 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 ### Explainability / Strong Machine Learning
 
 *   [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP](https://link.springer.com/article/10.1007/s10994-018-5707-3) - ***Machine Learning***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=17551060457946144913\&hl=en\&as_sdt=0,5)]. Stephen Muggleton's account of ultra-strong machine learning, which not only learns human understandable knowledge, but also improves human performance on the corresponding tasks.
-*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[Code (⭐593)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
+*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[Code (⭐597)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
 
 ### Explainability / Explainable Deep Learning
 
@@ -1152,7 +1117,7 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 *   [Curriculum Learning](https://dl.acm.org/doi/pdf/10.1145/1553374.1553380) - ***ICML'09***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=8740915934335425405\&hl=en\&as_sdt=0,5)]. The original paper applying the idea of curriculum learning to machine learning.
 *   [Inferring "Dark Matter" and "Dark Energy" from Videos](https://ieeexplore.ieee.org/document/6751387) - ***ICCV'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=3467068307444498624\&hl=en\&as_sdt=0,5)]. The original paper on latent state discovery from videos.
 
-## [50. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [49. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Official
 
@@ -1162,7 +1127,7 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 
 *   [Yew HTTP Starter (⭐4)](https://github.com/LeTurt333/yew_http_starter) - Yew template with a simple HTTP message & useful helper comments.
 
-## [51. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [50. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -1194,7 +1159,7 @@ Installs: 2000 | Stars: 131 | Last update: 24 Jul 2020
 ### Audio and Video Tools / File Sharing
 
 *   [FreeTube](https://freetubeapp.io/) - Open source desktop YouTube client built with privacy in mind. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/FreeTubeApp/FreeTube) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [MacYTDL (⭐370)](https://github.com/section83/MacYTDL) -  A macOS GUI front-end for the youtube-dl video downloader. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/section83/MacYTDL) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MacYTDL (⭐377)](https://github.com/section83/MacYTDL) -  A macOS GUI front-end for the youtube-dl video downloader. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/section83/MacYTDL) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Museeks](https://museeks.io) - A simple, clean and cross-platform music player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/martpie/museeks) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Nuclear](https://nuclear.js.org/) -  Streaming music player that finds free music for you. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nukeop/nuclear) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MusicBrainz Picard](https://picard.musicbrainz.org/) -  Cross-platform music tagger written in Python. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/metabrainz/picard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")

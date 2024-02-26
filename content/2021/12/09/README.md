@@ -30,7 +30,7 @@
 
 ### Game Development
 
-*   [MyECS (⭐16)](https://github.com/konovod/myecs) - A Sparse Entity Component System Framework for Crystal
+*   [MyECS (⭐17)](https://github.com/konovod/myecs) - A Sparse Entity Component System Framework for Crystal
 
 ## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -172,7 +172,7 @@
 
 ### Utilities / General Tools
 
-*   [Equinox (⭐964)](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203)
+*   [Equinox (⭐977)](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203)
 
 ---
 

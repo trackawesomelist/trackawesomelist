@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 17 - Oct 23, 2016
 
-49 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -421,13 +421,7 @@
 
 *   [Jayway Vue.js 2 workshop. Build an e-commerce site with vue-router, vuex and vue-resource (⭐320)](https://github.com/jayway/vue-js-workshop)
 
-## [35. Computer Science](/content/ossu/computer-science/week/README.md)
-
-### How to show your progress / Which programming languages should I use?
-
-*   `Main Curriculum`: cards with that label represent courses that are listed in our curriculum.
-
-## [36. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [35. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Security / Links
 
@@ -438,26 +432,26 @@
     *   [Architecting Containers Part 2: Why the User Space Matters](http://rhelblog.redhat.com/2015/09/17/architecting-containers-part-2-why-the-user-space-matters-2/)
     *   [Secure Your Containers with this One Weird Trick](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/)
 
-## [37. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [36. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### Websites
 
 *   [Jekyll Starter Kit (⭐146)](https://github.com/nirgn975/generator-jekyll-starter-kit) Jekyll Progressive Web App generator boilerplate.
 
-## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Docker Related
 
 *   [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
 *   [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
 
-## [39. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [38. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Boostnote (⭐17k)](https://github.com/BoostIO/Boostnote) - Markdown note & code snippet app for developers.
 
-## [40. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [39. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
@@ -471,7 +465,7 @@
 
 *   [TDSP-Utilities (⭐370)](https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (IDEAR) ; 2) Automated Modelling and Reporting (AMR).
 
-## [41. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [40. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### Bolt
 
@@ -494,7 +488,7 @@
 
 *   [Hardware Sizing Calculator](https://neo4j.com/hardware-sizing-calculator/)
 
-## [42. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [41. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Books
 
@@ -581,7 +575,7 @@
 *   [Software Engineering Radio Episode 225: Eric Evans on Domain-Driven Design at 10 Years](http://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/) - 13 May 2015.
 *   [Software Engineering Radio Episode 218: Udi Dahan on CQRS (Command Query Responsibility Segregation)](http://www.se-radio.net/2015/01/episode-218-udi-dahan-on-cqrs-command-query-responsibility-segregation/) - 30 January 2015.
 
-## [43. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [42. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -600,7 +594,7 @@
 
 *   [Susan J. Fowler](http://www.susanjfowler.com/blog/) - Various blog posts about SRE, Software Engineering and Microservices.
 
-## [44. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [43. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### Gaming
 
@@ -646,7 +640,7 @@
 
 *   [Public APIs (⭐565)](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
 
-## [45. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [44. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -660,7 +654,7 @@
 
 *   [The Android Arsenal](https://android-arsenal.com/) - Large list of android libraries
 
-## [46. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [45. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / Tools using the   *SSH*   protocol
 
@@ -704,7 +698,7 @@
 *   [01/14/2016](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0777) - Integer Overflow `CVE 2016 077[7-8]`.
 *   [Security/Guidelines/OpenSSH - MozillaWiki](https://wiki.mozilla.org/Security/Guidelines/OpenSSH) - `sshd\_config` for `6.7+`, `5.3`.
 
-## [47. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [46. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CLI
 
@@ -744,9 +738,9 @@
 
 ### Source Generator
 
-*   [Awesome Unity (⭐6.2k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
+*   [Awesome Unity (⭐6.3k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 
-## [48. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [47. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Object Detection
 
@@ -779,7 +773,7 @@
 *   Mixing Convolutional and Adversarial Networks
     *   Alec Radford, Luke Metz, Soumith Chintala, "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks", ICLR 2016. \[[Paper](http://arxiv.org/pdf/1511.06434.pdf)]
 
-## [49. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [48. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Authentication & Authorization
 

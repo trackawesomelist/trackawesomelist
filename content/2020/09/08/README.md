@@ -40,7 +40,7 @@
 
 ### Testing
 
-*   [definject (⭐55)](https://github.com/definject/definject) - Unobtrusive dependency injector for Elixir.
+*   [definject (⭐56)](https://github.com/definject/definject) - Unobtrusive dependency injector for Elixir.
 
 ## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -397,7 +397,7 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [gooey-react (⭐633)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
+*   [gooey-react (⭐636)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
 
 ## [14. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
@@ -429,11 +429,11 @@
 ### Game Development
 
 *   [crystal-chipmunk (⭐41)](https://github.com/oprypin/crystal-chipmunk) - Bindings to [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
-*   [crystal-imgui-sfml (⭐15)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐53k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
+*   [crystal-imgui-sfml (⭐15)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐54k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
 
 ### GUI Development
 
-*   [crystal-imgui (⭐62)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐53k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
+*   [crystal-imgui (⭐63)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐54k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
 
 ---
 

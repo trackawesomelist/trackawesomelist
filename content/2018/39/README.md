@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 24 - Sep 30, 2018
 
-54 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,8 +30,8 @@
 
 *   macOS - Operating system for Apple's Mac computers.
     *   [Screensavers (⭐3.8k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-    *   [Apps (⭐66k)](https://github.com/jaywcjlove/awesome-mac#readme)
-    *   [Open Source Apps (⭐38k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+    *   [Apps (⭐69k)](https://github.com/jaywcjlove/awesome-mac#readme)
+    *   [Open Source Apps (⭐39k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
@@ -188,14 +188,7 @@ Rename Index.txt to Index.html
 
 *   [TensorNets (⭐1k)](https://github.com/taehoonlee/tensornets) - 40+ Popular Computer Vision Models With Pre-trained Weights.
 
-## [22. Computer Science](/content/ossu/computer-science/week/README.md)
-
-### How to show your progress / Which programming languages should I use?
-
-*   Copy [this](https://trello.com/b/IScNSzsI/ossu-compsci) board to your personal account.
-    See how to copy a board [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
-
-## [23. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [22. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -233,7 +226,7 @@ Rename Index.txt to Index.html
 
 *   [Flutter Community](https://github.com/fluttercommunity) - Central place for community made packages
 
-## [24. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
+## [23. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
 
 ### Resources for inspiration / Sites
 
@@ -400,13 +393,13 @@ Rename Index.txt to Index.html
 *   [Futureproof Web Design Techniques. Interaction Design & Complex Animations](http://www.uxpin.com/curated-interaction-design-animations.html) by @UXPin.
 *   [CSS animations](http://cssanimationspocketguide.com/) by @valhead.
 
-## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [24. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [OxCC (⭐17)](https://github.com/jonlamb-gh/oxcc): A port of Open Source Car Control written in Rust
 
-## [26. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [25. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Visual Programming Languages
 
@@ -417,11 +410,7 @@ Rename Index.txt to Index.html
 *   [Three.js Basics](http://www.realtimerendering.com/basics3js/#1) - Introduction to Three.js by Eric Haines.
 *   [An Interactive Introduction to WebGL and three.js](https://www.cs.unm.edu/~angel/SIGGRAPH17/COURSE/s17_final.pdf) - Slides from the SIGGRAPH 2017 WebGL workshop.
 
-### Quick References • Cheatsheets / Other
-
-*   [Three.js Reference](https://www.udacity.com/wiki/cs291/threejs-reference) - Reference from the Udacity Interactive 3D Graphics course.
-
-## [27. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [26. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Europe / France 🇫🇷
 
@@ -443,7 +432,7 @@ Topics: Angular, JavaScript, Progressive Web Apps, Vue, React, Elasticsearch\
 Topics: JavaScript, Angular, Vue.js, Node.js, TypeScript, IoT\
 <https://twitter.com/AurelienLoyer>
 
-## [28. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [27. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Poland 🇵🇱 / Krakow
 
@@ -469,26 +458,26 @@ Webpage: <https://ironcladcoffee.com/>
 | ---------------------- | ----- | ------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | open, password on wall | ✔     | ❄️/♨️         | [1805 E Grace St, Richmond, VA 23223](https://goo.gl/maps/eXyASDqE7432) | Open Monday - Friday, 7:00am - 6:00pm Saturday 8:00am - 6:00pm Closed Sundays |
 
-## [29. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [28. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Miscellaneous / Development and testing
 
 *   [tmux-tail-f (⭐32)](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
 
-## [30. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [29. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Writing XPath Queries That Work](https://appiumpro.com/editions/35)
 *   [Using The 'nativeWebTap' Capability](https://appiumpro.com/editions/36)
 
-## [31. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [30. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Ember-Cli Articles
 
 *   [Ember-cli fingerprinting and dynamic assets](https://medium.com/@ruslanzavacky/ember-cli-fingerprinting-and-dynamic-assets-797a298d8dc6)
 
-## [32. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [31. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
@@ -502,7 +491,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 *   [Sublime Merge](https://www.sublimemerge.com/) -  Git client, from the makers of Sublime Text.
 
-## [33. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [32. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Modules
 
@@ -512,13 +501,13 @@ Webpage: <https://ironcladcoffee.com/>
 
 *   [cpp-template (⭐47)](https://github.com/joshpeterson/cpp-template) - A template C++ repository, using CMake and Catch. `[NO LICENSE]`
 
-## [34. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [33. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Elastic Container Service
 
 *   [ecs-refarch-continuous-deployment :fire::fire::fire: (⭐836)](https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for continuous deployment to ECS using CodePipeline.
 
-## [35. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [34. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Theory Teaching
 
@@ -526,37 +515,37 @@ Webpage: <https://ironcladcoffee.com/>
 *   [musictheory.net](https://www.musictheory.net) - Lessons and exercises
 *   [OpenMusicTheory](http://openmusictheory.com/) - a growing, online "textbook" for music theory and aural skills.
 
-## [36. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [35. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### DevOps
 
 *   [Volkswagen (⭐13k)](https://github.com/auchenberg/volkswagen) - 🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 
-## [37. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [36. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Docker
 
 *   [Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker (⭐33)](https://github.com/OpenPj/keycloak-docker-quickstart)
 
-## [38. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [37. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Angular
 
 *   [Angular 2 Interview Questions](https://www.onlineinterviewquestions.com/angular2-interview-questions/)
 
-## [39. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Community / Workflow
 
 *   [BuiltWithDot.Net](https://builtwithdot.net)
 
-## [40. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [39. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
 *   [AyeSpy (⭐190)](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
 
-## [41. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [40. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Documentation / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
@@ -567,20 +556,20 @@ Webpage: <https://ironcladcoffee.com/>
 *   [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Visual Studio Live Share enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building.
 *   [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc. A lot of its ideas are inspired by Markdown Preview Plus and RStudio Markdown.
 
-## [42. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [41. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Archive / Other Tools
 
 *   [LitElement To Do App](https://medium.com/@westbrook/litelement-to-do-app-1e08a31707a4)
 *   [LitElement with Rollup, Babel & Karma](https://43081j.com/2018/09/polymer-lit-with-rollup)
 
-## [43. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
+## [42. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
 ### Misc
 
 *   [Week in Ethereum](http://www.weekinethereum.com/) - A summary of everything happening in Ethereum each week.
 
-## [44. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
+## [43. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
 ### Introduction / Overview
 
@@ -612,7 +601,7 @@ Webpage: <https://ironcladcoffee.com/>
 *   [eta-todo (⭐16)](https://github.com/Jyothsnasrinivas/eta-todo) - Example of a Spock web application written in Eta.
 *   [eta-yesod-minimal (⭐5)](https://github.com/Jyothsnasrinivas/eta-yesod-minimal) - Example of a Yesod web application in Eta.
 
-## [45. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
+## [44. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
 ### Videos / Old recordings
 
@@ -670,7 +659,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 *   [MS-DOS (⭐17k)](https://github.com/Microsoft/MS-DOS) (1982, 1983) - Version 1.25 and 2.0
 
-## [46. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [45. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Frameworks
 
@@ -685,7 +674,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 *   [Torch7 Cheat sheet (⭐8.8k)](https://github.com/torch/torch7/wiki/Cheatsheet)
 
-## [47. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [46. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Examples and funny stuff
 
@@ -696,33 +685,33 @@ Webpage: <https://ironcladcoffee.com/>
 *   [Crystal for Rubyists](http://www.crystalforrubyists.com/) - Free book to bootstrap your Crystal journey
 *   [Programming Crystal](https://pragprog.com/book/crystal/programming-crystal) - PragProg book to start your Crystal journey
 
-## [48. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+## [47. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
 
 ### Code
 
 *   [ripple-python-lib (⭐24)](https://github.com/arsenlosenko/python-ripple-lib): Python implementation of JSON-RPC and Data API calls
 
-## [49. Amas](/content/sindresorhus/amas/week/README.md)
+## [48. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Riza Fahmi (⭐2)](https://github.com/rizafahmi/ama) - Developer, mentor, speaker. Curriculum Director, Co-Founder Hacktiv8 Coding Bootcamp.
 *   [Sergey Sova](https://github.com/sergeysova/ama) - Rust lover. Mentor. Freelancer. React developer.
 
-## [50. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
+## [49. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
 
 ### Tools / Third-Party Tools
 
 *   [Qompoter (⭐19)](https://github.com/Fylhan/qompoter) - Dependency manager for Qt / C++.
 
-## [51. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [50. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Privacy Respecting (⭐1.8k)](https://github.com/nikitavoloboev/privacy-respecting) - A curated list of privacy-respecting Services and Software.
 *   [user.js (⭐2.5k)](https://github.com/pyllyukko/user.js) - Configuration for Firefox to harden browser settings and make it more secure.
 
-## [52. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [51. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Chat
 
@@ -736,7 +725,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 *   [FlexiblePageControl (⭐790)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
 
-## [53. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [52. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Hardware / Opcodes
 
@@ -794,7 +783,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 *   [The Game Boy Archive - Salvage (⭐26)](https://github.com/gb-archive/salvage) - Historical archive of software, old articles, FAQs and various documents.
 
-## [54. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [53. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 

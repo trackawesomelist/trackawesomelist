@@ -10,7 +10,7 @@
 
 ### Community Modules / Miscellaneous
 
-*   [terraform-cloudflare-maintenance (⭐120)](https://github.com/adinhodovic/terraform-cloudflare-maintenance) - Module to create a Maintenance Page using Cloudflare Workers.
+*   [terraform-cloudflare-maintenance (⭐121)](https://github.com/adinhodovic/terraform-cloudflare-maintenance) - Module to create a Maintenance Page using Cloudflare Workers.
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 

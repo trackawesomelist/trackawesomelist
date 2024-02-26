@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 02, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -43,7 +43,7 @@
 
 ### Applications / System tools
 
-*   [uutils/coreutils (⭐16k)](https://github.com/uutils/coreutils) — A cross-platform Rust rewrite of the GNU coreutils \[[![CICD](https://github.com/uutils/coreutils/actions/workflows/CICD.yml/badge.svg)](https://github.com/uutils/coreutils/actions/workflows/CICD.yml)
+*   [uutils/coreutils (⭐16k)](https://github.com/uutils/coreutils) — A cross-platform rewrite of the GNU coreutils [![CICD](https://github.com/uutils/coreutils/actions/workflows/CICD.yml/badge.svg)](https://github.com/uutils/coreutils/actions/workflows/CICD.yml)
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -166,12 +166,6 @@
 ### Presentations / XML
 
 *   [Kitson P. Kelly - Deno, and The Future of JavaScript Runtimes - CityJS Conf 2020](https://www.youtube.com/watch?v=2eRyZpX4qvI)
-
-## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Containers
-
-*   [CI/CD for Monorepos: Effectively building, testing, and deploying code with monorepos (⭐82)](https://github.com/semaphoreci/book-monorepo-cicd) - Pablo Tomas Fernandez Zavalia, Marko Anastasov, SemaphoreCI (PDF, EPUB, Kindle)
 
 ---
 

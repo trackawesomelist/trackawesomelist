@@ -47,7 +47,7 @@
 
 ### Table of Contents / Dependency Injection
 
-*   [Container (⭐813)](https://github.com/thephpleague/container) - Another flexible dependency injection container.
+*   [Container (⭐816)](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 
 ### Table of Contents / Imagery
 
@@ -59,7 +59,7 @@
 
 ### Table of Contents / Authentication and Authorization
 
-*   [OAuth 1.0 Client (⭐949)](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
+*   [OAuth 1.0 Client (⭐952)](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
 *   [OAuth 2.0 Client (⭐3.6k)](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
 
 ## [4. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
@@ -187,7 +187,7 @@
 ### Scientific
 
 *   Classifiers
-    *   [classifier-reborn (⭐541)](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
+    *   [classifier-reborn (⭐544)](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
 
 ## [10. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
@@ -204,11 +204,11 @@
 
 ### Audio and Sounds
 
-*   [erlaudio (⭐25)](https://github.com/asonge/erlaudio) - Erlang PortAudio bindings.
+*   [erlaudio (⭐26)](https://github.com/asonge/erlaudio) - Erlang PortAudio bindings.
 
 ### Cryptography
 
-*   [cipher (⭐60)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
+*   [cipher (⭐59)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
 *   [exgpg (⭐18)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
 *   [pot (⭐232)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
 
@@ -218,7 +218,7 @@
 
 ### Email
 
-*   [gen\_smtp (⭐667)](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
+*   [gen\_smtp (⭐673)](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
 
 ### Examples and funny stuff
 
@@ -230,7 +230,7 @@
 
 ### Framework Components
 
-*   [addict (⭐649)](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
+*   [addict (⭐648)](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
 *   [plug\_heartbeat (⭐36)](https://github.com/whatyouhide/plug_heartbeat) - A plug for responding to heartbeat requests.
 *   [scrivener (⭐548)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
 
@@ -246,7 +246,7 @@
 
 *   [esqlite (⭐121)](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
 *   [sqlitex (⭐119)](https://github.com/mmmries/sqlitex) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
-*   [tds (⭐109)](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
+*   [tds (⭐110)](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
 *   [yar (⭐8)](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
 
 ### Templating
@@ -276,7 +276,7 @@
 
 ### Websites
 
-*   [Elixir Github Wiki (⭐22k)](https://github.com/elixir-lang/elixir/wiki) - The project's wiki, containing much useful information.
+*   [Elixir Github Wiki (⭐23k)](https://github.com/elixir-lang/elixir/wiki) - The project's wiki, containing much useful information.
 
 ## [12. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 

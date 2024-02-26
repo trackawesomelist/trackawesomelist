@@ -35,7 +35,7 @@
 
 ### Software / Automation
 
-*   [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code (⭐605)](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
+*   [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code (⭐613)](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
 
 ### Software / Communication - Email - Webmail Clients
 
@@ -43,7 +43,7 @@
 
 ### Software / Communication - XMPP - Servers
 
-*   [Metronome IM](https://metronome.im/) - Lightweight xmpp server with advanced microblogging features (fork of Prosody). ([Source Code (⭐167)](https://github.com/maranda/metronome)) `MIT` `Lua`
+*   [Metronome IM](https://metronome.im/) - Lightweight xmpp server with advanced microblogging features (fork of Prosody). ([Source Code (⭐168)](https://github.com/maranda/metronome)) `MIT` `Lua`
 
 ### Software / Content Management Systems (CMS)
 
@@ -55,11 +55,11 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [IFM (⭐321)](https://github.com/misterunknown/ifm) - Single script file manager. `MIT` `PHP`
+*   [IFM (⭐322)](https://github.com/misterunknown/ifm) - Single script file manager. `MIT` `PHP`
 
 ### Software / Learning and Courses
 
-*   [RELATE](https://documen.tician.de/relate/) - RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar. ([Source Code (⭐354)](https://github.com/inducer/relate)) `MIT` `Python`
+*   [RELATE](https://documen.tician.de/relate/) - RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar. ([Source Code (⭐357)](https://github.com/inducer/relate)) `MIT` `Python`
 
 ### Software / Media Streaming - Audio Streaming
 
@@ -71,11 +71,11 @@
 
 ### Software / Software Development - Project Management
 
-*   [Klaus (⭐662)](https://github.com/jonashaag/klaus) - Simple, easy-to-set-up Git web viewer that Just Works. `ISC` `Python/Docker`
+*   [Klaus (⭐666)](https://github.com/jonashaag/klaus) - Simple, easy-to-set-up Git web viewer that Just Works. `ISC` `Python/Docker`
 
 ### Software / Wikis
 
-*   [Pepperminty Wiki (⭐163)](https://github.com/sbrl/Pepperminty-Wiki) - Complete markdown-powered wiki contained in a single PHP file. ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)) `MPL-2.0` `PHP`
+*   [Pepperminty Wiki (⭐168)](https://github.com/sbrl/Pepperminty-Wiki) - Complete markdown-powered wiki contained in a single PHP file. ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)) `MPL-2.0` `PHP`
 
 ## [5. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -104,7 +104,7 @@
 
 ### C bindings
 
-*   [crystal-hunspell (⭐5)](https://github.com/mamantoha/crystal-hunspell) - Bindings for [Hunspell](https://hunspell.github.io/)
+*   [crystal-hunspell (⭐6)](https://github.com/mamantoha/crystal-hunspell) - Bindings for [Hunspell](https://hunspell.github.io/)
 
 ## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

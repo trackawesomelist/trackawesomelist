@@ -41,12 +41,12 @@
 ### Libraries
 
 *   [essential-json (⭐1)](https://github.com/arkanovicz/essential-json) - A lightweight Java library for serialization, parsing and manipulation with a clean and precise API.
-*   [dsl-json (⭐825)](https://github.com/ngs-doo/dsl-json) - A very fast streaming JSON library. Operates on byte arrays.
-*   [mjson (⭐75)](https://github.com/bolerio/mjson) - Lean JSON Library for Java, with a compact, elegant API.
+*   [dsl-json (⭐980)](https://github.com/ngs-doo/dsl-json) - A very fast streaming JSON library. Operates on byte arrays.
+*   [mjson (⭐81)](https://github.com/bolerio/mjson) - Lean JSON Library for Java, with a compact, elegant API.
 
 ### Testing
 
-*   [JSON Parsing Test Suite (⭐733)](https://github.com/nst/JSONTestSuite) - A very complete test suite and validation framework.
+*   [JSON Parsing Test Suite (⭐822)](https://github.com/nst/JSONTestSuite) - A very complete test suite and validation framework.
 
 ## [6. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

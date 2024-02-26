@@ -59,19 +59,7 @@
 
 ### Serialization
 
-*   [ultrajson (⭐4.1k)](https://github.com/esnme/ultrajson) - A fast JSON decoder and encoder written in C with Python bindings.
-
-### Web Frameworks
-
-*   Synchronous
-    *   [Django](https://www.djangoproject.com/) - The most popular web framework in Python.
-        *   [awesome-django (⭐1.2k)](https://github.com/shahraizali/awesome-django)
-        *   [awesome-django (⭐7.2k)](https://github.com/wsvincent/awesome-django)
-    *   [Flask](http://flask.pocoo.org/) - A microframework for Python.
-        *   [awesome-flask (⭐11k)](https://github.com/humiaozuzu/awesome-flask)
-    *   [Pyramid](https://pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
-        *   [awesome-pyramid (⭐540)](https://github.com/uralbash/awesome-pyramid)
-    *   [Masonite (⭐2k)](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework.
+*   [ultrajson (⭐4.2k)](https://github.com/esnme/ultrajson) - A fast JSON decoder and encoder written in C with Python bindings.
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

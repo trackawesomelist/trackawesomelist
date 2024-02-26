@@ -30,7 +30,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [sokomishalov/skraper (⭐220)](https://github.com/sokomishalov/skraper) - Kotlin/Java library, cli tool and telegram-bot for scraping posts and media from various sources with neither authorization nor full page rendering (Facebook, Instagram, Twitter, Youtube, Tiktok, Telegram, Twitch, Reddit, Pinterest, Flickr, Tumblr, etc.)
+*   [sokomishalov/skraper (⭐225)](https://github.com/sokomishalov/skraper) - Kotlin/Java library, cli tool and telegram-bot for scraping posts and media from various sources with neither authorization nor full page rendering (Facebook, Instagram, Twitter, Youtube, Tiktok, Telegram, Twitch, Reddit, Pinterest, Flickr, Tumblr, etc.)
 
 ### Libraries/Frameworks / Multiplatform
 
@@ -75,17 +75,17 @@
 
 ### JSON
 
-*   [marshmallow (⭐338)](https://github.com/PerimeterX/marshmallow) - Performant JSON unmarshalling for flexible use cases.
+*   [marshmallow (⭐341)](https://github.com/PerimeterX/marshmallow) - Performant JSON unmarshalling for flexible use cases.
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [vue-ts-starter (⭐55)](https://github.com/yugasun/vue-ts-starter) - Vue3 + TypeScript + Vite + Pinia.
+*   [vue-ts-starter (⭐58)](https://github.com/yugasun/vue-ts-starter) - Vue3 + TypeScript + Vite + Pinia.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-browser-sync (⭐41)](https://github.com/Applelo/vite-plugin-browser-sync) - BrowserSync.
+*   [vite-plugin-browser-sync (⭐45)](https://github.com/Applelo/vite-plugin-browser-sync) - BrowserSync.
 
 ## [9. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

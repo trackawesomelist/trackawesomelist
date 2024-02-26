@@ -22,7 +22,7 @@
 
 ### Physics
 
-*   [Quantum++ (⭐497)](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. \[MIT]
+*   [Quantum++ (⭐496)](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. \[MIT]
 
 ## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Databases
 
-*   [EJDB (⭐1.3k)](https://github.com/Softmotions/ejdb) - Embedded JSON Database engine published under MIT license. (C)
+*   [EJDB (⭐1.4k)](https://github.com/Softmotions/ejdb) - Embedded JSON Database engine published under MIT license. (C)
 
 ### Datasets
 
@@ -89,7 +89,7 @@
 
 ### Transformations
 
-*   [x2js (⭐961)](https://github.com/abdolence/x2js) - XML to JSON and vice versa javascript conversion functions. (Javascript)
+*   [x2js (⭐991)](https://github.com/abdolence/x2js) - XML to JSON and vice versa javascript conversion functions. (Javascript)
 
 ### Queries
 
@@ -103,16 +103,16 @@
 
 ### Platforms
 
-*   [KDE (⭐361)](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
+*   [KDE (⭐378)](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
 
 ### Computer Science
 
-*   [Empirical Software Engineering (⭐380)](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
+*   [Empirical Software Engineering (⭐394)](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
 
 ### Miscellaneous
 
-*   [Cheminformatics (⭐603)](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
-*   [Prisma (⭐566)](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
+*   [Cheminformatics (⭐621)](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
+*   [Prisma (⭐580)](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
 *   [Software Architecture (⭐2.1k)](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
 
 ---

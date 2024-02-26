@@ -2,29 +2,39 @@
 
 😎 Curated list of awesome OpenSteetMap-projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/osmlab/awesome-openstreetmap/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 osmlab/awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap) · ⭐ 527 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/osmlab/awesome-openstreetmap/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 osmlab/awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap) · ⭐ 535 · 🏷️ Miscellaneous
 
 [ [Daily](/content/osmlab/awesome-openstreetmap/README.md) / Weekly / [Overview](/content/osmlab/awesome-openstreetmap/readme/README.md) ]
+
+## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
+
+### Tools / Web Tools
+
+*   [Bellingcat OpenStreetMap search](https://osm-search.bellingcat.com/) - Web based tool to find geolocation leads by searching for proximate features on OpenStreetMap. ([Source Code (⭐84)](https://github.com/bellingcat/osm-search) / [Article](https://www.bellingcat.com/resources/how-tos/2023/05/08/finding-geolocation-leads-with-bellingcats-openstreetmap-search-tool/))
+
+### Additional Resources / Websites
+
+*   [WeeklyOSM](https://weeklyosm.eu/) - News and updates to inform the community about what is going on in the OSM Universe, from experienced mappers to new OSM members.
 
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
 ### Editors / Mobile Editors
 
-*   [OSM Go!](https://osmgo.com/) - OSM Go! is an Android application and a Progressive Web Applications (PWA) for contributing to OpenStreetMap. ([Android](https://play.google.com/store/apps/details?id=fr.dogeo.osmgo) / [Source Code (⭐97)](https://github.com/DoFabien/OsmGo) / [Wiki](https://wiki.openstreetmap.org/wiki/Osm_Go!))
+*   [OSM Go!](https://osmgo.com/) - OSM Go! is an Android application and a Progressive Web Applications (PWA) for contributing to OpenStreetMap. ([Android](https://play.google.com/store/apps/details?id=fr.dogeo.osmgo) / [Source Code (⭐99)](https://github.com/DoFabien/OsmGo) / [Wiki](https://wiki.openstreetmap.org/wiki/Osm_Go!))
 
 ### Libraries / Python
 
-*   [geodesk (⭐20)](https://github.com/clarisma/geodesk-py) - Fast and storage-efficient database for OpenStreetMap analysis.
+*   [geodesk (⭐32)](https://github.com/clarisma/geodesk-py) - Fast and storage-efficient database for OpenStreetMap analysis.
 
 ### Libraries / Java
 
-*   [GeoDesk (⭐127)](https://github.com/clarisma/geodesk) - Fast and storage-efficient database for OpenStreetMap analysis.
+*   [GeoDesk (⭐129)](https://github.com/clarisma/geodesk) - Fast and storage-efficient database for OpenStreetMap analysis.
 
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 
 ### Editors / Web Editors
 
-*   [Rapid](https://rapideditor.org/edit) - AI assisted versions of iD. ([Meta-Repo (⭐175)](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook) / [Editor Source Code (⭐415)](https://github.com/facebook/Rapid) / [Wiki](https://wiki.openstreetmap.org/wiki/RapiD))
+*   [Rapid](https://rapideditor.org/edit) - AI assisted versions of iD. ([Meta-Repo (⭐175)](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook) / [Editor Source Code (⭐432)](https://github.com/facebook/Rapid) / [Wiki](https://wiki.openstreetmap.org/wiki/RapiD))
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
@@ -36,13 +46,13 @@
 
 ### Maps / Web Maps
 
-*   [Streets GL (⭐496)](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2. ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
+*   [Streets GL (⭐523)](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2. ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
 
 ### Libraries / Python
 
-*   [overpy (⭐214)](https://github.com/DinoTools/python-overpy) - A Python wrapper to access the Overpass API.
+*   [overpy (⭐219)](https://github.com/DinoTools/python-overpy) - A Python wrapper to access the Overpass API.
 *   [overpassforge (⭐4)](https://github.com/Krafpy/Overpass-Forge) - A package to build Overpass queries from Python objects.
-*   [humanized\_opening\_hours (⭐24)](https://github.com/rezemika/humanized_opening_hours) - A package to parse the `opening_hours` tag.
+*   [humanized\_opening\_hours (⭐25)](https://github.com/rezemika/humanized_opening_hours) - A package to parse the `opening_hours` tag.
 
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
@@ -82,29 +92,29 @@
 
 ### Changeset Tools / Web Services
 
-*   [osmcha](https://osmcha.org) - Detector for suspicious changesets. ([Source Code (⭐114)](https://github.com/mapbox/osmcha-frontend) / [Wiki](https://wiki.openstreetmap.org/wiki/OSMCha))
+*   [osmcha](https://osmcha.org) - Detector for suspicious changesets. ([Source Code (⭐118)](https://github.com/mapbox/osmcha-frontend) / [Wiki](https://wiki.openstreetmap.org/wiki/OSMCha))
 
 ### Public APIs / Java
 
-*   [OSMCha API](https://osmcha.org/api-docs/) - Powerful API that allows to query and retrieve changeset information. ([Source Code (⭐32)](https://github.com/willemarcel/osmcha-django))
+*   [OSMCha API](https://osmcha.org/api-docs/) - Powerful API that allows to query and retrieve changeset information. ([Source Code (⭐33)](https://github.com/willemarcel/osmcha-django))
 
 ## [Sep 19 - Sep 25, 2022](/content/2022/38/README.md)
 
 ### Editors / Mobile Editors
 
-*   [GoMap!!](http://gomaposm.com) - Feature-rich mobile editor for iOS. ([iOS](https://apps.apple.com/app/id592990211) / [Source Code (⭐280)](https://github.com/bryceco/GoMap) / [Wiki](https://wiki.openstreetmap.org/wiki/Go_Map!!))
-*   [Every Door](https://every-door.app) - Every Door is an Android and iOS app that lets you create and edit objects in OpenStreetMap. It supports editing node and polygon features, and creating point features like shops, benches, and building entrances. ([Android](https://play.google.com/store/apps/details?id=info.zverev.ilya.every_door) / [iOS](https://apps.apple.com/app/id1621945342) / [Source Code (⭐334)](https://github.com/zverik/every_door) / [Wiki](https://wiki.openstreetmap.org/wiki/Every_Door))
+*   [GoMap!!](http://gomaposm.com) - Feature-rich mobile editor for iOS. ([iOS](https://apps.apple.com/app/id592990211) / [Source Code (⭐284)](https://github.com/bryceco/GoMap) / [Wiki](https://wiki.openstreetmap.org/wiki/Go_Map!!))
+*   [Every Door](https://every-door.app) - Every Door is an Android and iOS app that lets you create and edit objects in OpenStreetMap. It supports editing node and polygon features, and creating point features like shops, benches, and building entrances. ([Android](https://play.google.com/store/apps/details?id=info.zverev.ilya.every_door) / [iOS](https://apps.apple.com/app/id1621945342) / [Source Code (⭐340)](https://github.com/zverik/every_door) / [Wiki](https://wiki.openstreetmap.org/wiki/Every_Door))
 
 ## [Aug 29 - Sep 04, 2022](/content/2022/35/README.md)
 
 ### Editors / Native Editors
 
-*   [Merkaartor (⭐280)](https://github.com/openstreetmap/merkaartor) - An opensource OSM editor, written in C++ and Qt.
+*   [Merkaartor (⭐285)](https://github.com/openstreetmap/merkaartor) - An opensource OSM editor, written in C++ and Qt.
 
 ### Maps / Web Maps
 
 *   [OSM Landuse](https://osmlanduse.org) - OSM based landuse and landcover WebGIS application.
-*   [OsmAPP](https://osmapp.org) - A browsable map showing data and offering simple POI-editing capabilities. ([Source Code (⭐141)](https://github.com/zbycz/osmapp))
+*   [OsmAPP](https://osmapp.org) - A browsable map showing data and offering simple POI-editing capabilities. ([Source Code (⭐148)](https://github.com/zbycz/osmapp))
 *   [Tracesmap](https://tracesmap.com/) - A map allowing for planning routes on OsmCarto and OpenTopoMap-derived retina maps.
 
 ### Maps / Goal Tracking
@@ -113,7 +123,7 @@
 
 ### Libraries / Python
 
-*   [prettymapp (⭐2k)](https://github.com/chrieke/prettymapp) - Create beautiful maps from OpenStreetMap data.
+*   [prettymapp (⭐2.1k)](https://github.com/chrieke/prettymapp) - Create beautiful maps from OpenStreetMap data.
 
 ## [Jul 11 - Jul 17, 2022](/content/2022/28/README.md)
 
@@ -142,30 +152,30 @@
 
 ### Libraries / Java
 
-*   [OSM2World](http://osm2world.org) - OSM2World is a converter that creates three-dimensional models of the world from OpenStreetMap data. It can be used as a stand-alone tool, on a server or as a library in Java programs. ([Source Code (⭐502)](https://github.com/tordanik/OSM2World) / [Wiki](https://wiki.openstreetmap.org/wiki/OSM2World))
+*   [OSM2World](http://osm2world.org) - OSM2World is a converter that creates three-dimensional models of the world from OpenStreetMap data. It can be used as a stand-alone tool, on a server or as a library in Java programs. ([Source Code (⭐515)](https://github.com/tordanik/OSM2World) / [Wiki](https://wiki.openstreetmap.org/wiki/OSM2World))
 
 ## [May 30 - Jun 05, 2022](/content/2022/22/README.md)
 
 ### Maps / Map Games
 
-*   [PraxisMapper (⭐41)](https://github.com/drakewill-CRL/PraxisMapper) - GPS Game server, for making mobile games around exploring the real world.
+*   [PraxisMapper (⭐42)](https://github.com/drakewill-CRL/PraxisMapper) - GPS Game server, for making mobile games around exploring the real world.
 
 ## [May 23 - May 29, 2022](/content/2022/21/README.md)
 
 ### Editors / Mobile Editors
 
 *   [StreetComplete (⭐3.5k)](https://github.com/westnordost/StreetComplete) - App for improving OSM by answering simple questions. ([Android](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) / [Wiki](https://wiki.openstreetmap.org/wiki/StreetComplete))
-*   [Vespucci](https://vespucci.io/) - Advanced full-data-model editor for Android. ([Android](https://play.google.com/store/apps/details?id=de.blau.android) / [Source Code (⭐332)](https://github.com/MarcusWolschon/osmeditor4android) / [Wiki](https://wiki.openstreetmap.org/wiki/Vespucci))
+*   [Vespucci](https://vespucci.io/) - Advanced full-data-model editor for Android. ([Android](https://play.google.com/store/apps/details?id=de.blau.android) / [Source Code (⭐338)](https://github.com/MarcusWolschon/osmeditor4android) / [Wiki](https://wiki.openstreetmap.org/wiki/Vespucci))
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
 ### Changeset Tools / Web Services
 
-*   [achavi](https://overpass-api.de/achavi/) - Augmented change viewer. ([Source Code (⭐40)](https://github.com/nrenner/achavi/) / [Wiki](https://wiki.openstreetmap.org/wiki/Achavi))
+*   [achavi](https://overpass-api.de/achavi/) - Augmented change viewer. ([Source Code (⭐41)](https://github.com/nrenner/achavi/) / [Wiki](https://wiki.openstreetmap.org/wiki/Achavi))
 *   [Osm Change Viz](https://resultmaps.neis-one.org/osm-change-viz) - Changeset visualizer displaying information about added/modified/deleted elements in different panels.
 *   [changeset-map](http://osmlab.github.io/changeset-map/) - Map visualizing changes in selected changesets. Used in OsmCha. ([Source Code (⭐32)](https://github.com/osmlab/changeset-map))
 *   [OSM History Viewer](https://osmhv.openstreetmap.de/) - Changeset visualization. ([Source Code (⭐8)](https://github.com/osmrmhv/osmrmhv))
-*   [Who did it?](https://simon04.dev.openstreetmap.org/whodidit/) - Map highlighting recent edits per tile. Provides RSS feeds for watching changes in custom bounding boxes.  ([Source Code (⭐66)](https://github.com/simon04/whodidit) / [Wiki](https://wiki.openstreetmap.org/wiki/Quality_assurance#WhoDidIt))
+*   [Who did it?](https://simon04.dev.openstreetmap.org/whodidit/) - Map highlighting recent edits per tile. Provides RSS feeds for watching changes in custom bounding boxes.  ([Source Code (⭐67)](https://github.com/simon04/whodidit) / [Wiki](https://wiki.openstreetmap.org/wiki/Quality_assurance#WhoDidIt))
 *   [Osm Change Tiles](https://resultmaps.neis-one.org/osm-change-tiles) - Map highlighting recent edits per tile. Provides RSS feeds for watching changes in custom bounding boxes.
 *   [Analytic OSM Tracker (⭐38)](https://github.com/MichaelVL/osm-analytic-tracker)[^selfhosted-only] - Tracker for changesets in your region.
 *   [Suspicious OSM Changesets](https://resultmaps.neis-one.org/osm-suspicious) - Find suspicious OSM changesets.
@@ -181,11 +191,11 @@
 ### Editors / Web Editors
 
 *   [iD](http://www.openstreetmap.org/edit?editor=id) - JavaScript based editor for the web browser with a wide array of presets. ([Source Code (⭐3.2k)](https://github.com/openstreetmap/iD) / [Wiki](https://wiki.openstreetmap.org/wiki/ID))
-*   [Level0](http://level0.osmz.ru/) - Text based editor that's useful in specific corner cases. ([Source Code (⭐49)](https://github.com/zverik/level0) / [Wiki](https://wiki.openstreetmap.org/wiki/Level0))
+*   [Level0](http://level0.osmz.ru/) - Text based editor that's useful in specific corner cases. ([Source Code (⭐50)](https://github.com/zverik/level0) / [Wiki](https://wiki.openstreetmap.org/wiki/Level0))
 *   [OSMyBiz](https://osmybiz.osm.ch) - Website for managing informations about your business. ([Source Code](https://gitlab.com/geometalab/osmybiz) / [Wiki](https://wiki.openstreetmap.org/wiki/OSMyBiz))
-*   [OnOSM](https://www.onosm.org/) - Allows anyone to submit business information as a note for inclusion into OSM. ([Source Code (⭐69)](https://github.com/osmlab/onosm.org) / [Wiki](https://wiki.openstreetmap.org/wiki/Onosm.org))
+*   [OnOSM](https://www.onosm.org/) - Allows anyone to submit business information as a note for inclusion into OSM. ([Source Code (⭐70)](https://github.com/osmlab/onosm.org) / [Wiki](https://wiki.openstreetmap.org/wiki/Onosm.org))
 *   [Deriviste](https://osm.cycle.travel/deriviste/) - Provides a simple interface to add nodes to OpenStreetMap based on what you see in Mapillary street-level imagery. ([Source Code (⭐28)](https://github.com/systemed/deriviste) / [Wiki](https://wiki.openstreetmap.org/wiki/Deriviste))
-*   [Healthsites.io](https://healthsites.io/map) - An online editor focused on adding and improving data on global health facilities. ([Source Code (⭐136)](https://github.com/healthsites/healthsites/) / [Wiki](https://wiki.openstreetmap.org/wiki/Healthsites.io))
+*   [Healthsites.io](https://healthsites.io/map) - An online editor focused on adding and improving data on global health facilities. ([Source Code (⭐138)](https://github.com/healthsites/healthsites/) / [Wiki](https://wiki.openstreetmap.org/wiki/Healthsites.io))
 
 ### Editors / Native Editors
 
@@ -195,11 +205,11 @@
 ### Tools / Web Tools
 
 *   [OpenMapTiles](https://openmaptiles.org/) - Set of tools for self-hosted vector maps and map services with labels in more than 50 languages. ([Source Code](https://github.com/openmaptiles) / [Wiki](https://wiki.openstreetmap.org/wiki/OpenMapTiles))
-*   [OSMNames](http://osmnames.org/) - Geocoding tool ranking places according to the corresponding Wikipedia page popularity. ([Source Code (⭐330)](https://github.com/osmnames/osmnames) / [Wiki](https://wiki.openstreetmap.org/wiki/OSMNames))
-*   [overpass-turbo](http://overpass-turbo.eu) - Web based data mining tool for OpenStreetMap using Overpass API. ([Source Code (⭐778)](https://github.com/tyrasd/overpass-turbo) / [Wiki](https://wiki.openstreetmap.org/wiki/Overpass_turbo))
+*   [OSMNames](http://osmnames.org/) - Geocoding tool ranking places according to the corresponding Wikipedia page popularity. ([Source Code (⭐333)](https://github.com/osmnames/osmnames) / [Wiki](https://wiki.openstreetmap.org/wiki/OSMNames))
+*   [overpass-turbo](http://overpass-turbo.eu) - Web based data mining tool for OpenStreetMap using Overpass API. ([Source Code (⭐816)](https://github.com/tyrasd/overpass-turbo) / [Wiki](https://wiki.openstreetmap.org/wiki/Overpass_turbo))
 *   [hdyc](http://hdyc.neis-one.org) - Statistics viewer for contributions of any OSM user. ([Wiki](https://wiki.openstreetmap.org/wiki/How_did_you_contribute%3F)) <!-- markdown-link-check-disable-line -->
 *   [Osmose](https://osmose.openstreetmap.fr) - QA-tool for fixing problems detected in OpenStreetMap data. ([Source Code](https://github.com/osm-fr?q=osmose) / [Wiki](https://wiki.openstreetmap.org/wiki/Osmose))
-*   [taginfo](https://taginfo.openstreetmap.org/) - Website displaying information on tags and their usage. ([Source Code (⭐116)](https://github.com/taginfo/taginfo/) / [Wiki](https://wiki.openstreetmap.org/wiki/Taginfo))
+*   [taginfo](https://taginfo.openstreetmap.org/) - Website displaying information on tags and their usage. ([Source Code (⭐117)](https://github.com/taginfo/taginfo/) / [Wiki](https://wiki.openstreetmap.org/wiki/Taginfo))
 *   [ohsome Dashboard](https://ohsome.org/apps/dashboard/) - Tool for visualizing changes over a certain time period. ([Wiki](https://wiki.openstreetmap.org/wiki/Ohsome_Dashboard))
 
 ### Tools / Mobile Tools
@@ -208,7 +218,7 @@
 
 ### Tasking Managers / Web Services
 
-*   [MapRoulette](https://maproulette.org/) - Various challenges for making small edits to achive big tasks. ([Source Code (⭐107)](https://github.com/osmlab/maproulette3) / [Wiki](https://wiki.openstreetmap.org/wiki/MapRoulette))
+*   [MapRoulette](https://maproulette.org/) - Various challenges for making small edits to achive big tasks. ([Source Code (⭐110)](https://github.com/osmlab/maproulette3) / [Wiki](https://wiki.openstreetmap.org/wiki/MapRoulette))
 *   [Pic4Review](https://pic4review.pavie.info/#/) - Tool for adding objects to OSM by reviewing images. ([Source Code](https://framagit.org/Pic4Carto/Pic4Review) / [Wiki](https://wiki.openstreetmap.org/wiki/Pic4Review))
 *   [Map Complete](https://mapcomplete.osm.be/) - Tool for mapping in scoped tasks. ([Wiki](https://wiki.openstreetmap.org/wiki/MapComplete))
 *   [Damn Project](https://www.damn-project.org/) - Project for mapping by dividing big areas into small squares mappable by humans. ([Source Code](https://git.sr.ht/~qeef/damn-deploy) / [Wiki](https://wiki.openstreetmap.org/wiki/Divide_and_map._Now.))
@@ -220,35 +230,35 @@
 *   [indoor=](https://indoorequal.org) - Map for viewing indoor data from OpenStreetMap. ([Wiki](https://wiki.openstreetmap.org/wiki/Indoor%3D)) <!-- markdown-link-check-disable-line -->
 *   [Qwant Maps](https://www.qwant.com/maps) - Modern map with POI search and routing functionality. ([Wiki](https://wiki.openstreetmap.org/wiki/Qwant_Maps))
 *   [F4map Demo](https://demo.f4map.com/) - 3D rendering demo of OpenStreetMap data. ([Wiki](https://wiki.openstreetmap.org/wiki/F4_Map))
-*   [FacilMap](https://facilmap.org/) - Map with easy possibility to filter for POI types. ([Source Code (⭐225)](https://github.com/FacilMap/facilmap) / [Wiki](https://wiki.openstreetmap.org/wiki/FacilMap))
+*   [FacilMap](https://facilmap.org/) - Map with easy possibility to filter for POI types. ([Source Code (⭐234)](https://github.com/FacilMap/facilmap) / [Wiki](https://wiki.openstreetmap.org/wiki/FacilMap))
 *   [Straßenraumkarte Neukölln](https://supaplexosm.github.io/strassenraumkarte-neukoelln/?map=micromap) - High-detail micromap of the district "Neukölln" of Berlin, Germany. ([Wiki](https://wiki.openstreetmap.org/wiki/Micromapping#Stra.C3.9Fenraumkarte_Neuk.C3.B6lln))
 
 ### Maps / Mobile Maps
 
-*   [OsmAnd](https://osmand.net) - Map viewing and navigation (routing) application with offline functionality available for Android and iOS. (Android, iOS / [Source Code Android (⭐4.1k)](https://github.com/osmandapp/OsmAnd) / [Source Code iOS (⭐225)](https://github.com/osmandapp/OsmAnd-iOS) / [Wiki](https://wiki.openstreetmap.org/wiki/OsmAnd))
-*   [Organic Maps](https://organicmaps.app/) - A free offline maps app based on OSM. (Android, iOS / [Source Code (⭐7.9k)](https://github.com/organicmaps/organicmaps) / [Wiki](https://wiki.openstreetmap.org/wiki/Organic_Maps))
+*   [OsmAnd](https://osmand.net) - Map viewing and navigation (routing) application with offline functionality available for Android and iOS. (Android, iOS / [Source Code Android (⭐4.1k)](https://github.com/osmandapp/OsmAnd) / [Source Code iOS (⭐231)](https://github.com/osmandapp/OsmAnd-iOS) / [Wiki](https://wiki.openstreetmap.org/wiki/OsmAnd))
+*   [Organic Maps](https://organicmaps.app/) - A free offline maps app based on OSM. (Android, iOS / [Source Code (⭐8.1k)](https://github.com/organicmaps/organicmaps) / [Wiki](https://wiki.openstreetmap.org/wiki/Organic_Maps))
 *   [Magic Earth](https://www.magicearth.com/) - A free turn-by-turn navigation app. (Android, iOS / [Wiki](https://wiki.openstreetmap.org/wiki/Magic_Earth))
 
 ### Maps / Generators
 
-*   [Field Papers](http://fieldpapers.org/) - Generate maps for printing, annotate them, and manage your notes after. ([Source Code (⭐83)](https://github.com/fieldpapers/fieldpapers) / [Wiki](https://wiki.openstreetmap.org/wiki/Field_Papers))
+*   [Field Papers](http://fieldpapers.org/) - Generate maps for printing, annotate them, and manage your notes after. ([Source Code (⭐86)](https://github.com/fieldpapers/fieldpapers) / [Wiki](https://wiki.openstreetmap.org/wiki/Field_Papers))
 
 ### Libraries / C/C++
 
-*   [libosmium (⭐421)](https://github.com/osmcode/libosmium) - Fast and flexible C++ library for working with OpenStreetMap data. ([Wiki](https://wiki.openstreetmap.org/wiki/Osmium))
-*   [OSRM (⭐5.9k)](https://github.com/Project-OSRM/osrm-backend) -  Routing engine for use in C++ applications. ([Wiki](https://wiki.openstreetmap.org/wiki/Open_Source_Routing_Machine))
+*   [libosmium (⭐428)](https://github.com/osmcode/libosmium) - Fast and flexible C++ library for working with OpenStreetMap data. ([Wiki](https://wiki.openstreetmap.org/wiki/Osmium))
+*   [OSRM (⭐6k)](https://github.com/Project-OSRM/osrm-backend) -  Routing engine for use in C++ applications. ([Wiki](https://wiki.openstreetmap.org/wiki/Open_Source_Routing_Machine))
 *   [mapnik (⭐3.5k)](https://github.com/mapnik/mapnik) - Combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node. ([Wiki](https://wiki.openstreetmap.org/wiki/Mapnik))
 
 ### Libraries / JavaScript
 
 *   [Leaflet](https://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps. ([Source Code (⭐39k)](https://github.com/Leaflet/Leaflet) / [Wiki](https://wiki.openstreetmap.org/wiki/Leaflet))
 *   [OpenLayers](https://openlayers.org/) - A high-performance library for rendering raster and vector maps. ([Source Code (⭐11k)](https://github.com/openlayers/openlayers) / [Wiki](https://wiki.openstreetmap.org/wiki/OpenLayers))
-*   [MapLibre GL JS](https://maplibre.org/projects/#js) - A map renderer with GPU-accelerated vector tile rendering. ([Source Code (⭐5.3k)](https://github.com/maplibre/maplibre-gl-js) / [See Related List](#related-awesome-maplibre))
+*   [MapLibre GL JS](https://maplibre.org/projects/#js) - A map renderer with GPU-accelerated vector tile rendering. ([Source Code (⭐5.4k)](https://github.com/maplibre/maplibre-gl-js) / [See Related List](#related-awesome-maplibre))
 
 ### Libraries / Python
 
 *   [osmapi (⭐198)](https://github.com/metaodi/osmapi) - Python wrapper for the OpenStreetMap API. ([Wiki](https://wiki.openstreetmap.org/wiki/Osmapi_\(Python_library\)))
-*   [osmnx (⭐4.5k)](https://github.com/gboeing/osmnx) - Visualizer for street networks. ([Wiki](https://wiki.openstreetmap.org/wiki/OSMnx))
+*   [osmnx (⭐4.6k)](https://github.com/gboeing/osmnx) - Visualizer for street networks. ([Wiki](https://wiki.openstreetmap.org/wiki/OSMnx))
 
 ### Libraries / Java
 
@@ -257,7 +267,7 @@
 
 ### Public APIs / Java
 
-*   [overpass](http://overpass-api.de) - Read-only API that serves up custom selected parts of the OSM map data. ([Source Code (⭐633)](https://github.com/drolbr/Overpass-API) / [Wiki](https://wiki.openstreetmap.org/wiki/Overpass_API))
+*   [overpass](http://overpass-api.de) - Read-only API that serves up custom selected parts of the OSM map data. ([Source Code (⭐659)](https://github.com/drolbr/Overpass-API) / [Wiki](https://wiki.openstreetmap.org/wiki/Overpass_API))
 *   [planet.osm](http://planet.osm.org) - Minutely/weekly/yearly/full dumps of osm data. ([Wiki](https://wiki.openstreetmap.org/wiki/Planet.osm))
 *   [bbbike](https://extract.bbbike.org) - Custom extracts of areas from planet.osm. ([Wiki](https://wiki.openstreetmap.org/wiki/BBBike_@_World))
 
@@ -282,7 +292,7 @@
 
 ### Related lists / Global Communities
 
-*   [awesome-maplibre (⭐250)](https://github.com/maplibre/awesome-maplibre#readme) - A collection of awesome things that use or support MapLibre! <span id="related-awesome-maplibre"/>
+*   [awesome-maplibre (⭐273)](https://github.com/maplibre/awesome-maplibre#readme) - A collection of awesome things that use or support MapLibre! <span id="related-awesome-maplibre"/>
 
 ## [Mar 21 - Mar 27, 2022](/content/2022/12/README.md)
 
@@ -292,11 +302,11 @@
 
 ### Maps / Web Maps
 
-*   [Road Curvature](https://roadcurvature.com/map/) - Helps to find curvy roads for those who enjoy them. ([Source Code (⭐199)](https://github.com/adamfranco/curvature))
+*   [Road Curvature](https://roadcurvature.com/map/) - Helps to find curvy roads for those who enjoy them. ([Source Code (⭐202)](https://github.com/adamfranco/curvature))
 
 ### Maps / Map Games
 
-*   [Back Of Your Hand](https://backofyourhand.com/) - A web map game that tests your knowledge by having you find a street in a given area. ([Source Code (⭐74)](https://github.com/adam-lynch/back-of-your-hand))
+*   [Back Of Your Hand](https://backofyourhand.com/) - A web map game that tests your knowledge by having you find a street in a given area. ([Source Code (⭐76)](https://github.com/adam-lynch/back-of-your-hand))
 
 ### Video / Global
 
@@ -322,12 +332,12 @@
 
 ### Tools / Native Tools
 
-*   [Baremaps](https://www.baremaps.com/) - Open source pipeline for producing Mapbox vector tiles from OpenStreetMap with Postgis and Java. ([Source Code (⭐464)](https://github.com/baremaps/baremaps))
+*   [Baremaps](https://www.baremaps.com/) - Open source pipeline for producing Mapbox vector tiles from OpenStreetMap with Postgis and Java. ([Source Code (⭐468)](https://github.com/baremaps/baremaps))
 
 ### Tasking Managers / Web Services
 
 *   [HOT Tasking Manager](https://tasks.hotosm.org/) - Mapping tasks for supporting humanitarian missions in crisis areas.
-*   [NotesReview](https://ent8r.github.io/NotesReview/) - Interface for searching and resolving OSM notes. ([Source Code (⭐41)](https://github.com/ENT8R/NotesReview))
+*   [NotesReview](https://ent8r.github.io/NotesReview/) - Interface for searching and resolving OSM notes. ([Source Code (⭐42)](https://github.com/ENT8R/NotesReview))
 
 ### Maps / Web Maps
 
@@ -335,7 +345,7 @@
 
 ### Maps / Generators
 
-*   [MyOSMatic](https://print.get-map.org/new/) - Website for generating printable street maps from OSM data. ([Source Code (⭐63)](https://github.com/hholzgra/maposmatic/))
+*   [MyOSMatic](https://print.get-map.org/new/) - Website for generating printable street maps from OSM data. ([Source Code (⭐66)](https://github.com/hholzgra/maposmatic/))
 
 ### Maps / Map Styles
 
@@ -344,14 +354,14 @@
 ### Libraries / JavaScript
 
 *   [openstreetmap-tag-map (⭐7)](https://github.com/tanrax/openstreetmap-tag-map) - Tag for Riot.js to generate iframe-map from the country and region.
-*   [node-osmium (⭐135)](https://github.com/osmcode/node-osmium) - Node wrapper for libosmium for working with OpenStreetMap data.
-*   [node-mapnik (⭐523)](https://github.com/mapnik/node-mapnik) - Node wrapper for mapnik.
+*   [node-osmium (⭐137)](https://github.com/osmcode/node-osmium) - Node wrapper for libosmium for working with OpenStreetMap data.
+*   [node-mapnik (⭐526)](https://github.com/mapnik/node-mapnik) - Node wrapper for mapnik.
 
 ### Libraries / Python
 
-*   [overpass-wrapper (⭐340)](https://github.com/mvexel/overpass-api-python-wrapper) - Wrapper around the OpenStreetMap Overpass API.
-*   [osmcha (⭐39)](https://github.com/willemarcel/osmcha) - Python package to detect suspicious OSM changesets.
-*   [python-mapnik (⭐151)](https://github.com/mapnik/python-mapnik) - Python wrapper for mapnik.
+*   [overpass-wrapper (⭐344)](https://github.com/mvexel/overpass-api-python-wrapper) - Wrapper around the OpenStreetMap Overpass API.
+*   [osmcha (⭐40)](https://github.com/willemarcel/osmcha) - Python package to detect suspicious OSM changesets.
+*   [python-mapnik (⭐152)](https://github.com/mapnik/python-mapnik) - Python wrapper for mapnik.
 
 ### Public APIs / Java
 

@@ -34,12 +34,12 @@
 
 ### Contents / Libraries
 
-*   [FHIR .NET API (⭐735)](https://github.com/FirelyTeam/firely-net-sdk) - The official .NET API for HL7 FHIR.
-*   [HAPI FHIR (⭐1.7k)](https://github.com/hapifhir/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
+*   [FHIR .NET API (⭐782)](https://github.com/FirelyTeam/firely-net-sdk) - The official .NET API for HL7 FHIR.
+*   [HAPI FHIR (⭐1.9k)](https://github.com/hapifhir/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
 
 ### Contents / Asset Management
 
-*   [Tapirx (⭐26)](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
+*   [Tapirx (⭐28)](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
 
 ### Contents / Logistics
 

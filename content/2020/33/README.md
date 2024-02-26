@@ -222,7 +222,7 @@
 
 ### Apps / SEO and SMO
 
-*   [wagtail-meta-preview (⭐28)](https://github.com/rinti/wagtail-meta-preview) - Adds ability to get share previews for Facebook, Twitter and Google in the Wagtail admin.
+*   [wagtail-meta-preview (⭐27)](https://github.com/rinti/wagtail-meta-preview) - Adds ability to get share previews for Facebook, Twitter and Google in the Wagtail admin.
 
 ### Resources / Articles
 
@@ -324,7 +324,7 @@
 
 ### Libraries
 
-*   [simdjson (⭐16k)](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second.
+*   [simdjson (⭐18k)](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second.
 
 ## [29. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
@@ -425,11 +425,11 @@
 
 ### Software / Proxy
 
-*   [Nginx Proxy Manager](https://nginxproxymanager.com/) - Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination. ([Source Code (⭐17k)](https://github.com/NginxProxyManager/nginx-proxy-manager)) `MIT` `Nodejs/Docker`
+*   [Nginx Proxy Manager](https://nginxproxymanager.com/) - Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination. ([Source Code (⭐18k)](https://github.com/NginxProxyManager/nginx-proxy-manager)) `MIT` `Nodejs/Docker`
 
 ### Software / Task Management & To-do Lists
 
-*   [Planka](https://planka.app/) - Realtime kanban board for workgroups (alternative to Trello). ([Demo](https://plankanban.github.io/planka/#/), [Source Code (⭐3.6k)](https://github.com/plankanban/planka)) `AGPL-3.0` `Nodejs/Docker/K8S`
+*   [Planka](https://planka.app/) - Realtime kanban board for workgroups (alternative to Trello). ([Demo](https://plankanban.github.io/planka/#/), [Source Code (⭐3.7k)](https://github.com/plankanban/planka)) `AGPL-3.0` `Nodejs/Docker/K8S`
 
 ### Software / Wikis
 
@@ -461,7 +461,7 @@
 
 ### Containers
 
-*   [PGM-index (⭐734)](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. \[Apache2] [website](https://pgm.di.unipi.it)
+*   [PGM-index (⭐736)](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. \[Apache2] [website](https://pgm.di.unipi.it)
 
 ## [42. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -608,11 +608,11 @@
 
 ### GUI Development
 
-*   [DearPyGui (⭐11k)](https://github.com/RaylockLLC/DearPyGui/) - A Simple GPU accelerated Python GUI framework
+*   [DearPyGui (⭐12k)](https://github.com/RaylockLLC/DearPyGui/) - A Simple GPU accelerated Python GUI framework
 
 ### Job Scheduler
 
-*   [Prefect (⭐12k)](https://github.com/PrefectHQ/prefect) - A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.
+*   [Prefect (⭐14k)](https://github.com/PrefectHQ/prefect) - A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.
 
 ## [48. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 

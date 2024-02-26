@@ -73,7 +73,7 @@
 
 ### Tools / Market Crawlers
 
-*   [Apkpure](https://apkpure.com/) - Online apk downloader. Provides also its own app for downloading.
+*   ~~[Apkpure](https://apkpure.com/) - Online apk downloader. Provides also its own app for downloading.~~
 
 ---
 

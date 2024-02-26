@@ -187,7 +187,7 @@
 
 ### Databases
 
-*   [Kinto (⭐4.2k)](https://github.com/Kinto/kinto) - A lightweight JSON storage service with synchronisation and sharing abilities.
+*   [Kinto (⭐4.3k)](https://github.com/Kinto/kinto) - A lightweight JSON storage service with synchronisation and sharing abilities.
 
 ### Format Extensions
 
@@ -437,7 +437,7 @@
 
 ### Native Implemented Functions
 
-*   [Rustler (⭐4k)](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
+*   [Rustler (⭐4.1k)](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
 
 ### Protocols
 
@@ -453,7 +453,7 @@
 
 ### Libraries / Bioinformatics
 
-*   [Rust-Bio](https://github.com/rust-bio) — bioinformatics libraries in Rust.
+*   [Rust-Bio](https://github.com/rust-bio) — bioinformatics libraries.
 
 ## [33. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 

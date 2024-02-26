@@ -56,12 +56,12 @@
 
 ### Syntax
 
-*   [pipeR (⭐165)](https://github.com/renkun-ken/pipeR) - Multi-paradigm Pipeline Implementation.
-*   [lambda.r (⭐208)](https://github.com/zatonovo/lambda.r) - Functional programming and simple pattern matching in R.
+*   [pipeR (⭐162)](https://github.com/renkun-ken/pipeR) - Multi-paradigm Pipeline Implementation.
+*   [lambda.r (⭐210)](https://github.com/zatonovo/lambda.r) - Functional programming and simple pattern matching in R.
 
 ### Data Manipulation
 
-*   [rlist (⭐199)](https://github.com/renkun-ken/rlist) - A toolbox for non-tabular data manipulation with lists.
+*   [rlist (⭐198)](https://github.com/renkun-ken/rlist) - A toolbox for non-tabular data manipulation with lists.
 
 ### Database Management
 
@@ -95,7 +95,7 @@
 
 ### Miscellaneous
 
-*   [ex2ms (⭐180)](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
+*   [ex2ms (⭐181)](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
 *   [ex\_rated (⭐446)](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
 
 ### Text and Numbers

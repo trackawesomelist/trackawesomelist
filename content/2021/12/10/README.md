@@ -68,7 +68,7 @@
 
 ### Image Synthesis / Multi-agents
 
-*   [mikaelalafriz/lucid-sonic-dreams (⭐768)](https://github.com/mikaelalafriz/lucid-sonic-dreams): syncs GAN-generated visuals to music
+*   [mikaelalafriz/lucid-sonic-dreams (⭐769)](https://github.com/mikaelalafriz/lucid-sonic-dreams): syncs GAN-generated visuals to music
 
 ### Improving Google Colab experience / Deforum
 

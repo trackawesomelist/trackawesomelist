@@ -25,7 +25,7 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐679)](https://github.com/llogiq/flame) —
+    *   [llogiq/flame (⭐680)](https://github.com/llogiq/flame) —
     *   [mrhooray/torch (⭐129)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
 
 ## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)

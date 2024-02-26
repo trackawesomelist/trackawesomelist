@@ -36,7 +36,7 @@
 
 ### Tools / Dynamic Analysis Tools
 
-*   [Droidbox (⭐724)](https://github.com/pjlantz/droidbox)
+*   [Droidbox (⭐727)](https://github.com/pjlantz/droidbox)
 
 ## [3. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
@@ -100,11 +100,11 @@
 
 ### Framework Components
 
-*   [surface (⭐1.9k)](https://github.com/msaraiva/surface) - A server-side rendering component library for Phoenix.
+*   [surface (⭐2k)](https://github.com/msaraiva/surface) - A server-side rendering component library for Phoenix.
 
 ### Queue
 
-*   [broadway (⭐2.2k)](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
+*   [broadway (⭐2.3k)](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
 
 ## [10. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

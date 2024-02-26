@@ -55,12 +55,12 @@
 
 ### Utilities
 
-*   [Nigiri (⭐238)](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
-*   [hal (⭐135)](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
+*   [Nigiri (⭐245)](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
+*   [hal (⭐140)](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
 
 ### Blockchain API and Web services
 
-*   [Esplora (⭐858)](https://github.com/Blockstream/esplora) - Self-hosted blockchain explorer.
+*   [Esplora (⭐882)](https://github.com/Blockstream/esplora) - Self-hosted blockchain explorer.
 
 ### Blockchain Explorers
 
@@ -68,7 +68,7 @@
 
 ### Full nodes
 
-*   [btcd (⭐5.6k)](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.
+*   [btcd (⭐5.7k)](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.
 
 ## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Shell
 
-*   [xonsh (⭐7.1k)](https://github.com/xonsh/xonsh/) - A Python-powered, cross-platform, Unix-gazing shell language and command prompt.
+*   [xonsh (⭐7.8k)](https://github.com/xonsh/xonsh/) - A Python-powered, cross-platform, Unix-gazing shell language and command prompt.
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

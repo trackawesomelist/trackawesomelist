@@ -24,7 +24,7 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [LinkWarden](https://linkwarden.app/) - A self-hosted bookmark + archive manager to store your useful links. ([Source Code (⭐4.1k)](https://github.com/linkwarden/linkwarden)) `MIT` `Docker/Nodejs`
+*   [LinkWarden](https://linkwarden.app/) - A self-hosted bookmark + archive manager to store your useful links. ([Source Code (⭐4.3k)](https://github.com/linkwarden/linkwarden)) `MIT` `Docker/Nodejs`
 
 ## [4. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 

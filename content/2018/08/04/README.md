@@ -163,12 +163,12 @@
 ### Database Drivers
 
 *   NoSQL Databases
-    *   [cassandra-driver (⭐1.3k)](https://github.com/datastax/python-driver) - The Python Driver for Apache Cassandra.
-    *   [happybase (⭐603)](https://github.com/wbolster/happybase) - A developer-friendly library for Apache HBase.
-    *   [kafka-python (⭐5.2k)](https://github.com/dpkp/kafka-python) - The Python client for Apache Kafka.
-    *   [py2neo](https://py2neo.org/) - A client library and toolkit for working with Neo4j.
-    *   [pymongo (⭐3.9k)](https://github.com/mongodb/mongo-python-driver) - The official Python client for MongoDB.
-    *   [redis-py (⭐12k)](https://github.com/andymccurdy/redis-py) - The Python client for Redis.
+    *   [cassandra-driver (⭐1.4k)](https://github.com/datastax/python-driver) - The Python Driver for Apache Cassandra.
+    *   [happybase (⭐609)](https://github.com/python-happybase/happybase) - A developer-friendly library for Apache HBase.
+    *   [kafka-python (⭐5.5k)](https://github.com/dpkp/kafka-python) - The Python client for Apache Kafka.
+    *   [pymongo (⭐4k)](https://github.com/mongodb/mongo-python-driver) - The official Python client for MongoDB.
+    *   [motor (⭐2.3k)](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
+    *   [redis-py (⭐12k)](https://github.com/redis/redis-py) - The Python client for Redis.
 
 ---
 

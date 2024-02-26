@@ -52,7 +52,7 @@
 
 ### Front-End Development
 
-*   [Design systems (⭐640)](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
+*   [Design systems (⭐653)](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
 
 ## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-font-extractor-plugin (⭐2)](https://github.com/a3mitskevich/vite-font-extractor-plugin) - Utility that minification bundle fonts by glyphs.
+*   [vite-font-extractor-plugin (⭐3)](https://github.com/a3mitskevich/vite-font-extractor-plugin) - Utility that minification bundle fonts by glyphs.
 
 ## [3. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 

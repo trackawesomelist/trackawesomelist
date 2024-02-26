@@ -18,7 +18,7 @@
 
 ### Libraries/Frameworks / Data Science
 
-*   [Kotlin/kandy (⭐381)](https://github.com/Kotlin/kandy) - Kotlin plotting library
+*   [Kotlin/kandy (⭐394)](https://github.com/Kotlin/kandy) - Kotlin plotting library
 *   [Kotlin/KotlinDL (⭐1.4k)](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras.
 
 ### Kotlin WebAssembly / Official Links
@@ -27,7 +27,7 @@
 
 ### Kotlin WebAssembly / Examples
 
-*   [Kotlin/Wasm Examples (⭐399)](https://github.com/Kotlin/kotlin-wasm-examples) - Explore a variety of Kotlin/Wasm example projects, showcasing applications like Compose Multiplatform, browser DOM API, Node.js, and WASI integration.
+*   [Kotlin/Wasm Examples (⭐410)](https://github.com/Kotlin/kotlin-wasm-examples) - Explore a variety of Kotlin/Wasm example projects, showcasing applications like Compose Multiplatform, browser DOM API, Node.js, and WASI integration.
 
 ## [2. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
@@ -76,7 +76,7 @@
 ### Large Language Models (LLMs)
 
 *   [LLM Visualization](https://bbycroft.net/llm)
-*   [GoogleCloudPlatform/generative-ai (⭐4.6k)](https://github.com/GoogleCloudPlatform/generative-ai): Sample code and notebooks for Generative AI on Google Cloud
+*   [GoogleCloudPlatform/generative-ai (⭐4.8k)](https://github.com/GoogleCloudPlatform/generative-ai): Sample code and notebooks for Generative AI on Google Cloud
 
 ### Ethics, Philosophical questions and Discussions about Generative AI
 
@@ -102,11 +102,11 @@
 
 *   [\[2312.00752\] Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752): alternative to Transformer architecture.
 *   [Mamba: A shallow dive into a new architecture for LLMs | by Geronimo (@geronimo7) | Dec, 2023 | Medium](https://medium.com/@geronimo7/mamba-a-shallow-dive-into-a-new-architecture-for-llms-54c70ade5957)
-*   [Mamba-Chat (⭐602)](https://github.com/havenhq/mamba-chat): A chat LLM based on the state-space model architecture
+*   [Mamba-Chat (⭐655)](https://github.com/havenhq/mamba-chat): A chat LLM based on the state-space model architecture
 
 ### Running LLMs Locally / Prompt Engineering for Text-to-image
 
-*   [PowerInfer (⭐6.5k)](https://github.com/SJTU-IPADS/PowerInfer): a high-speed inference engine for deploying LLMs locally
+*   [PowerInfer (⭐6.6k)](https://github.com/SJTU-IPADS/PowerInfer): a high-speed inference engine for deploying LLMs locally
 
 ### Function Calling / Prompt Engineering for Text-to-image
 
@@ -160,19 +160,19 @@
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [shashikg/WhisperS2T (⭐55)](https://github.com/shashikg/WhisperS2T): An Optimized Speech-to-Text Pipeline for the Whisper Model
+*   [shashikg/WhisperS2T (⭐85)](https://github.com/shashikg/WhisperS2T): An Optimized Speech-to-Text Pipeline for the Whisper Model
 *   [CostGPT: Software Development Cost Calculator](https://costgpt.ai/): "find the cost, time and the best tech stack for any kind of software, tools that you want to build using the power of AI"
-*   [codefuse-ai/Awesome-Code-LLM (⭐439)](https://github.com/codefuse-ai/Awesome-Code-LLM): a curated list of language modeling researches for code and related datasets.
+*   [codefuse-ai/Awesome-Code-LLM (⭐482)](https://github.com/codefuse-ai/Awesome-Code-LLM): a curated list of language modeling researches for code and related datasets.
 
 ### Multimodal Embedding Space / Deforum
 
 *   [Ego-Exo4D](https://ai.meta.com/blog/ego-exo4d-video-learning-perception/): a foundational dataset by Meta for research on video learning and multimodal perception [Dataset Download](https://ego-exo4d-data.org/)
 *   [Carolina](https://sites.usp.br/corpuscarolina/corpus/): General Corpus of Contemporary Brazilian Portuguese with provenance and typology information - Corpus Geral do Português Brasileiro Contemporâneo
-*   [gabolsgabs/DALI (⭐321)](https://github.com/gabolsgabs/DALI): a large Dataset of synchronised Audio, LyrIcs and vocal notes
+*   [gabolsgabs/DALI (⭐323)](https://github.com/gabolsgabs/DALI): a large Dataset of synchronised Audio, LyrIcs and vocal notes
 
 ### Interesting GitHub Repositories / Deforum
 
-*   \[🔥] [Structured State Space for Sequence Modeling (S4) (⭐1.8k)](https://github.com/state-spaces/s4): Stole generation from the gods
+*   \[🔥] [Structured State Space for Sequence Modeling (S4) (⭐1.9k)](https://github.com/state-spaces/s4): Stole generation from the gods
 
 ### Auxiliary tools and concepts / Deforum
 
@@ -187,7 +187,7 @@
 ### Dimension reduction techniques / Deforum
 
 *   [Why you should use Topological Data Analysis over t-SNE or UMAP?](https://datarefiner.com/feed/why-tda)
-*   [YingfanWang/PaCMAP: PaCMAP: Large-scale Dimension Reduction Technique Preserving Both Global and Local Structure (⭐356)](https://github.com/YingfanWang/PaCMAP)
+*   [YingfanWang/PaCMAP: PaCMAP: Large-scale Dimension Reduction Technique Preserving Both Global and Local Structure (⭐368)](https://github.com/YingfanWang/PaCMAP)
 *   [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction](https://arxiv.org/abs/1802.03426)
 *   [Visualizing Data using t-SNE](https://jmlr.org/papers/v9/vandermaaten08a.html)
 
@@ -226,21 +226,21 @@
 
 ### Miscellaneous / React
 
-*   [WunderGraph Cosmo (⭐419)](https://github.com/wundergraph/cosmo) - The Open-Source GraphQL Federation Solution with Full Lifecycle API Management for (Federated) GraphQL. Schema Registry, composition checks, analytics, metrics, tracing and routing.
+*   [WunderGraph Cosmo (⭐438)](https://github.com/wundergraph/cosmo) - The Open-Source GraphQL Federation Solution with Full Lifecycle API Management for (Federated) GraphQL. Schema Registry, composition checks, analytics, metrics, tracing and routing.
 
 ### Go / React
 
-*   [graphql-go-tools (⭐609)](https://github.com/wundergraph/graphql-go-tools) - A graphQL Router / API Gateway framework written in Golang, focussing on correctness, extensibility, and high-performance. Supports Federation v1 & v2, Subscriptions & more.
+*   [graphql-go-tools (⭐616)](https://github.com/wundergraph/graphql-go-tools) - A graphQL Router / API Gateway framework written in Golang, focussing on correctness, extensibility, and high-performance. Supports Federation v1 & v2, Subscriptions & more.
 
 ## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [Stalwart Mail Server](https://stalw.art) - All-in-one mail server with JMAP, IMAP4, and SMTP support and a wide range of modern features. ([Source Code (⭐2.1k)](https://github.com/stalwartlabs/mail-server)) `AGPL-3.0` `Rust/Docker`
+*   [Stalwart Mail Server](https://stalw.art) - All-in-one mail server with JMAP, IMAP4, and SMTP support and a wide range of modern features. ([Source Code (⭐2.2k)](https://github.com/stalwartlabs/mail-server)) `AGPL-3.0` `Rust/Docker`
 
 ### Software / Database Management
 
-*   [Azimutt](https://azimutt.app) - Visual database exploration made for real world databases (big and messy). Explore your database schema as well as data, document them, extend them and even get analysis and guidelines. ([Demo](https://azimutt.app/gallery/gospeak), [Source Code (⭐875)](https://github.com/azimuttapp/azimutt)) `MIT` `Elixir/Nodejs/Docker`
+*   [Azimutt](https://azimutt.app) - Visual database exploration made for real world databases (big and messy). Explore your database schema as well as data, document them, extend them and even get analysis and guidelines. ([Demo](https://azimutt.app/gallery/gospeak), [Source Code (⭐901)](https://github.com/azimuttapp/azimutt)) `MIT` `Elixir/Nodejs/Docker`
 *   [WebDB](https://webdb.app) - Efficient database IDE. ([Demo](https://demo.webdb.app/), [Source Code](https://gitlab.com/web-db/app)) `AGPL-3.0` `Docker`
 
 ### Software / Groupware
@@ -330,7 +330,7 @@
 
 ### Software / Vector Creation
 
-*   [plotting-maps (⭐24)](https://github.com/piebro/plotting-maps) - A simple web tool to create OpenStreetMap SVG maps for plotting.
+*   [plotting-maps (⭐27)](https://github.com/piebro/plotting-maps) - A simple web tool to create OpenStreetMap SVG maps for plotting.
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -436,7 +436,7 @@
 
 ### Projects / Godot 4.0
 
-*   [GodSVG (⭐433)](https://github.com/MewPurPur/GodSVG) - Tool to create optimized Scalable Vector Graphics files.
+*   [GodSVG (⭐484)](https://github.com/MewPurPur/GodSVG) - Tool to create optimized Scalable Vector Graphics files.
 
 ## [30. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -464,19 +464,19 @@
 
 ### Plugins
 
-*   💙💼 [Container queries (⭐796)](https://github.com/tailwindlabs/tailwindcss-container-queries) - Provides utilities for container queries.
-*   🎨🧩 [Tailwind Elements (⭐12k)](https://github.com/mdbootstrap/TW-Elements/) - Extends Tailwind CSS with 500+ interactive components (datepickers, modals, forms, tables, darkmode).
-*   💼 [Full bleed background and borders (⭐44)](https://github.com/dgknca/tailwindcss-full-bleed) - Provides utilities for extended backgrounds and borders.
-*   💼 [Tailwind CSS 3D (⭐134)](https://github.com/sambauers/tailwindcss-3d) - Adds 3D `transform` utilities and animations.
-*   🧩 [Debug screens (⭐554)](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint).
+*   💙💼 [Container queries (⭐843)](https://github.com/tailwindlabs/tailwindcss-container-queries) - Provides utilities for container queries.
+*   🎨🧩 [Tailwind Elements (⭐13k)](https://github.com/mdbootstrap/TW-Elements/) - Extends Tailwind CSS with 500+ interactive components (datepickers, modals, forms, tables, darkmode).
+*   💼 [Full bleed background and borders (⭐45)](https://github.com/dgknca/tailwindcss-full-bleed) - Provides utilities for extended backgrounds and borders.
+*   💼 [Tailwind CSS 3D (⭐151)](https://github.com/sambauers/tailwindcss-3d) - Adds 3D `transform` utilities and animations.
+*   🧩 [Debug screens (⭐566)](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint).
 
 ### Tools
 
-*   💙💼 [Prettier plugin (⭐4.2k)](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - Official Tailwind CSS plugin for Prettier.
+*   💙💼 [Prettier plugin (⭐4.4k)](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - Official Tailwind CSS plugin for Prettier.
 *   🌍 [Typography playground](https://tailwind-typography-playground.vercel.app/) - Tool for trying different Google Fonts combinations with the Tailwind CSS typography plugin.
 *   🔼🌍 [Prefixer](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind classes' prefixer tool.
-*   💼 [Tails DevTools (⭐209)](https://github.com/vechai/tails-devtools) - All-in-one browser extension for Tailwind CSS.
-*   💼 [Impulse.dev (⭐436)](https://github.com/impulse-oss/impulse) – UI editor for Tailwind CSS and React that edits your code.
+*   💼 [Tails DevTools (⭐216)](https://github.com/vechai/tails-devtools) - All-in-one browser extension for Tailwind CSS.
+*   💼 [Impulse.dev (⭐442)](https://github.com/impulse-oss/impulse) – UI editor for Tailwind CSS and React that edits your code.
 *   🌍 [Static Tailwind](https://statictailwind.com) - The most used Tailwind classes, precompiled, with no build step.
 
 ### UI Libraries, Components & Templates
@@ -617,26 +617,26 @@
 
 ### Databases / Lazy Load
 
-*   [BCMS (⭐243)](https://github.com/bcms/cms) - API-based, open-source, self-hostable content management system for Gatsby, Nuxt and Next.
+*   [BCMS (⭐254)](https://github.com/bcms/cms) - API-based, open-source, self-hostable content management system for Gatsby, Nuxt and Next.
 
 ## [41. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [arco-admin (⭐18)](https://github.com/LIjiAngChen8/arco-admin) - `Vite` + `ArcoDesign` + `TypeScript` follows `ESM` standards, offering an out-of-the-box,standardized, feature-rich template for middle and back-office management systems.
+*   [arco-admin (⭐21)](https://github.com/LIjiAngChen8/arco-admin) - `Vite` + `ArcoDesign` + `TypeScript` follows `ESM` standards, offering an out-of-the-box,standardized, feature-rich template for middle and back-office management systems.
 
 ### Templates / React
 
 *   [gravity-ui-vite-template (⭐1)](https://github.com/gravity-ui/gravity-ui-vite-example) - Template with Gravity UI ecosystem (React, TypeScript, Gravity UI, Vite, Husky, ESLint, Prettier, Lint-staged).
-*   [vite-react-component-library-starter (⭐9)](https://github.com/rayyamhk/vite-react-component-library-starter) - A starter template for creating React component libraries with `TypeScript`, `Tailwind CSS`, `Storybook`, `Vitest`, `ESLint`, `Prettier`, `Husky`, and `GitHub Action`.
+*   [vite-react-component-library-starter (⭐11)](https://github.com/rayyamhk/vite-react-component-library-starter) - A starter template for creating React component libraries with `TypeScript`, `Tailwind CSS`, `Storybook`, `Vitest`, `ESLint`, `Prettier`, `Husky`, and `GitHub Action`.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-legacy-swc (⭐29)](https://github.com/CyanSalt/vite-plugin-legacy-swc) - Legacy browser support with SWC.
+*   [vite-plugin-legacy-swc (⭐32)](https://github.com/CyanSalt/vite-plugin-legacy-swc) - Legacy browser support with SWC.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-lqip (⭐19)](https://github.com/drwpow/vite-plugin-lqip) - Generate low quality image placeholders (LQIP).
+*   [vite-plugin-lqip (⭐23)](https://github.com/drwpow/vite-plugin-lqip) - Generate low quality image placeholders (LQIP).
 *   [vite-plugin-ms-clarity (⭐1)](https://github.com/KermanX/vite-plugin-ms-clarity) - Inject the Microsoft Clarity script to `index.html`.
 
 ### Framework-agnostic Plugins / Transformers
@@ -645,13 +645,13 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-ngrok (⭐4)](https://github.com/aphex/vite-plugin-ngrok) - Integration with Ngrok, allowing you to easily share your local development server.
+*   [vite-plugin-ngrok (⭐6)](https://github.com/aphex/vite-plugin-ngrok) - Integration with Ngrok, allowing you to easily share your local development server.
 *   [vite-plugin-docker (⭐1)](https://github.com/yracnet/vite-plugin-docker) - Docker utility based on Dockerode.
 *   [vite-plugin-api-routes (⭐20)](https://github.com/yracnet/vite-plugin-api-routes) - Generate route mapping for API Routes services from the directory tree.
 
 ### WordPress / Community
 
-*   [Kima (⭐3)](https://github.com/axelilali/kima) - Starter theme with Twig.
+*   [Kima (⭐6)](https://github.com/axelilali/kima) - Starter theme with Twig.
 
 ## [42. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -786,7 +786,7 @@
 *   [calc (sam-programs) (⭐3)](https://github.com/Sam-programs/zsh-calc) - Allows you to run math calculations with no prefixes.
 *   [kubecolor (devopstales) (⭐4)](https://github.com/devopstales/zsh-kubecolor) - Adds aliases for the `kubecolor` command.
 *   [kubeconfig-mgr (⭐6)](https://github.com/yhlooo/zsh-kubeconfig-mgr) - Makes managing multiple kubeconfig files easier.
-*   [llm-suggestions (⭐7)](https://github.com/stefanheule/zsh-llm-suggestions) - Type something in English at the prompt, hit a definable key, and it uses LLM to generate a command line for you.
+*   [llm-suggestions (⭐10)](https://github.com/stefanheule/zsh-llm-suggestions) - Type something in English at the prompt, hit a definable key, and it uses LLM to generate a command line for you.
 *   [multi-sshacc (⭐0)](https://github.com/harvey103565/git-multi-sshacc-asst) - Manages multiple `git` with different `ssh` keys per repo.
 *   [terminal-aliases (⭐11)](https://github.com/dvir-levy/terminal-aliases) - Adds convenience aliases for \[terraform] \[git] and more.
 

@@ -10,15 +10,15 @@
 
 ### Miscellaneous / React
 
-*   [graphqlgate (⭐56)](https://github.com/oslabs-beta/GraphQL-Gate) - A GraphQL rate-limiting library with query complexity analysis for Node.js
+*   [graphqlgate (⭐57)](https://github.com/oslabs-beta/GraphQL-Gate) - A GraphQL rate-limiting library with query complexity analysis for Node.js
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [completions (clarketm) (⭐55)](https://github.com/clarketm/zsh-completions) - This includes the zsh-users[completions (⭐6.4k)](https://github.com/zsh-users/zsh-completions), zchee's [completions (⭐104)](https://github.com/zchee/zsh-completions), nilsonholger's [osx-zsh-completions (⭐11)](https://github.com/nilsonholger/osx-zsh-completions) and various other custom completions.
+*   [completions (clarketm) (⭐56)](https://github.com/clarketm/zsh-completions) - This includes the zsh-users[completions (⭐6.5k)](https://github.com/zsh-users/zsh-completions), zchee's [completions (⭐104)](https://github.com/zchee/zsh-completions), nilsonholger's [osx-zsh-completions (⭐11)](https://github.com/nilsonholger/osx-zsh-completions) and various other custom completions.
 *   [completions (zchee) (⭐104)](https://github.com/zchee/zsh-completions) - Yet another collection of tab completions.
-*   [completions (zsh-users) (⭐6.4k)](https://github.com/zsh-users/zsh-completions) - A collection of extra completions for ZSH.
+*   [completions (zsh-users) (⭐6.5k)](https://github.com/zsh-users/zsh-completions) - A collection of extra completions for ZSH.
 *   [fzshell (⭐73)](https://github.com/mnowotnik/fzshell) - Fetches fuzzy completions from sources predefined by a user.
 *   [osx-zsh-completions (⭐11)](https://github.com/nilsonholger/osx-zsh-completions) - Tab completions for some macOS-specific commands like `launchctl`.
 
@@ -43,7 +43,7 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [godot-ply (⭐286)](https://github.com/jarneson/godot-ply) - In-editor box modelling for gray boxing or prototyping 3D levels.
+*   [godot-ply (⭐292)](https://github.com/jarneson/godot-ply) - In-editor box modelling for gray boxing or prototyping 3D levels.
 
 ## [6. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

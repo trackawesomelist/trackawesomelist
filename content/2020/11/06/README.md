@@ -64,7 +64,7 @@
 
 ### ORM and Datamapping
 
-*   [mongodb\_driver (⭐220)](https://github.com/zookzook/elixir-mongodb-driver) - Alternative driver for MongoDB with support for recent versions of MongoDB and comprehensive feature list.
+*   [mongodb\_driver (⭐229)](https://github.com/zookzook/elixir-mongodb-driver) - Alternative driver for MongoDB with support for recent versions of MongoDB and comprehensive feature list.
 
 ## [7. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 

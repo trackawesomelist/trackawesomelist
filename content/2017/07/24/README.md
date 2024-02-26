@@ -97,10 +97,6 @@
 
 *   [The magnificent 2d matrix](http://ncase.me/matrix/) - Interactive tool to better understand transformation matrices.
 
-### Events / Other
-
-*   [Curated Creative Events](http://events.thesupply.com/) - Hand-picked design, code, art, fashion and maker events.
-
 ---
 
 - Prev: [Jul 25, 2017](/content/2017/07/25/README.md)

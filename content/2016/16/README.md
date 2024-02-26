@@ -129,7 +129,7 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### WebSocket
 
-*   [Firehose (⭐726)](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
+*   [Firehose (⭐727)](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
 
 ## [13. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
@@ -209,7 +209,7 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Miscellaneous
 
-*   [exldap (⭐58)](https://github.com/jmerriweather/exldap) - A module for working with LDAP from Elixir.
+*   [exldap (⭐59)](https://github.com/jmerriweather/exldap) - A module for working with LDAP from Elixir.
 *   [phone (⭐105)](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
 
 ### Testing
@@ -252,14 +252,14 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Data Manipulation
 
-*   [fuzzyjoin (⭐650)](https://github.com/dgrtwo/fuzzyjoin) - Join tables together on inexact matching.
+*   [fuzzyjoin (⭐653)](https://github.com/dgrtwo/fuzzyjoin) - Join tables together on inexact matching.
 
 ### Other Interpreters
 
 *   [CXXR](https://www.cs.kent.ac.uk/projects/cxxr/) - Refactorising R into C++.
 *   [pqR](http://www.pqr-project.org/) - a "pretty quick" implementation of R
 *   [renjin](http://www.renjin.org/) - a JVM-based interpreter for R.
-*   [rho (⭐132)](https://github.com/rho-devel/rho) - Refactor the interpreter of the R language into a fully-compatible, efficient, VM for R.
+*   [rho (⭐134)](https://github.com/rho-devel/rho) - Refactor the interpreter of the R language into a fully-compatible, efficient, VM for R.
 *   [TERR](http://spotfire.tibco.com/discover-spotfire/what-does-spotfire-do/predictive-analytics/tibco-enterprise-runtime-for-r-terr) - TIBCO Enterprise Runtime for R.
 
 ## [26. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)

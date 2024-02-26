@@ -106,7 +106,7 @@
 
 ### Image processing
 
-*   [ffmpeg (⭐17)](https://github.com/spider-gazelle/ffmpeg) - FFmpeg bindings that works with StumpyPNG to extract frames
+*   [ffmpeg (⭐18)](https://github.com/spider-gazelle/ffmpeg) - FFmpeg bindings that works with StumpyPNG to extract frames
 
 ### Third-party APIs
 
@@ -126,11 +126,11 @@
 
 ### Libraries/Frameworks / Database
 
-*   [ctripcorp/SQLlin (⭐199)](https://github.com/ctripcorp/SQLlin) - A DSL SQLite library for Kotlin Multiplatform
+*   [ctripcorp/SQLlin (⭐208)](https://github.com/ctripcorp/SQLlin) - A DSL SQLite library for Kotlin Multiplatform
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [ctripcorp/mmkv-kotlin (⭐105)](https://github.com/ctripcorp/mmkv-kotlin) - The Kotlin Multiplatform wrapper for MMKV
+*   [ctripcorp/mmkv-kotlin (⭐106)](https://github.com/ctripcorp/mmkv-kotlin) - The Kotlin Multiplatform wrapper for MMKV
 
 ## [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
@@ -205,30 +205,30 @@
 
 ### Command-Line Productivity
 
-*   [arttime (⭐708)](https://github.com/reportaman/arttime) - Beauty of text art meets functionality of clock, timer, pomodoro++ time manager
-*   [await (⭐98)](https://github.com/slavaGanzin/await) - single binary that run list of commands in parallel and waits for their termination
-*   [lf (⭐6.5k)](https://github.com/gokcehan/lf) - Terminal file manager written in Go, inspired by ranger
+*   [arttime (⭐757)](https://github.com/reportaman/arttime) - Beauty of text art meets functionality of clock, timer, pomodoro++ time manager
+*   [await (⭐108)](https://github.com/slavaGanzin/await) - single binary that run list of commands in parallel and waits for their termination
+*   [lf (⭐6.9k)](https://github.com/gokcehan/lf) - Terminal file manager written in Go, inspired by ranger
 
 ### Customization / Directory Navigation
 
-*   [aphrodite-terminal-theme (⭐103)](https://github.com/win0err/aphrodite-terminal-theme) — Minimalistic Aphrodite theme (prompt) for sexy terminals that works in bash, fish and zsh
+*   [aphrodite-terminal-theme (⭐113)](https://github.com/win0err/aphrodite-terminal-theme) — Minimalistic Aphrodite theme (prompt) for sexy terminals that works in bash, fish and zsh
 
 ### For Developers / Directory Navigation
 
 *   [1Password SSH Agent](https://developer.1password.com/docs/ssh/) - Authenticate Git and SSH workflows with biometric unlock using 1Password
-*   [nve (⭐661)](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions.
+*   [nve (⭐688)](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions.
 *   [trunk](https://www.npmjs.com/package/@trunkio/launcher) - Blazingly fast meta code checker and formatter
-*   [vmn (⭐56)](https://github.com/final-israel/vmn) - git-based automatic versioning and state recovery solution agnostic to language or architecture
+*   [vmn (⭐58)](https://github.com/final-israel/vmn) - git-based automatic versioning and state recovery solution agnostic to language or architecture
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [dzr (⭐157)](https://github.com/yne/dzr) - Cross-platform Deezer.com audio player.
+*   [dzr (⭐161)](https://github.com/yne/dzr) - Cross-platform Deezer.com audio player.
 
 ## [18. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Geographic
 
-*   [H3 (⭐263)](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
+*   [H3 (⭐269)](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
 
 ## [19. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
 
@@ -246,7 +246,7 @@
 
 ### Miscellaneous
 
-*   [pspsdk (⭐782)](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
+*   [pspsdk (⭐788)](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
 
 ## [22. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
@@ -387,7 +387,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-tab-widgets (⭐3)](https://github.com/tom-power/fzf-tab-widgets) - Adds widgets for [fzf-tab (⭐2.5k)](https://github.com/Aloxaf/fzf-tab).
+*   [fzf-tab-widgets (⭐3)](https://github.com/tom-power/fzf-tab-widgets) - Adds widgets for [fzf-tab (⭐2.6k)](https://github.com/Aloxaf/fzf-tab).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -455,7 +455,7 @@
 
 ### Security
 
-*   [Password Cracking (⭐412)](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
+*   [Password Cracking (⭐430)](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
 
 ## [43. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
 

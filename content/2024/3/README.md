@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 15 - Jan 21, 2024
 
-41 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -46,7 +46,7 @@
 
 ### Table of Contents / API
 
-*   [PackageGenerator (⭐405)](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
+*   [PackageGenerator (⭐408)](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
 
 ## [6. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
@@ -76,23 +76,23 @@
 
 ### Software / Database Management
 
-*   [AdminerEvo](https://docs.adminerevo.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others (fork of Adminer). ([Source Code (⭐175)](https://github.com/adminerevo/adminerevo)) `Apache-2.0/GPL-2.0` `PHP`
+*   [AdminerEvo](https://docs.adminerevo.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others (fork of Adminer). ([Source Code (⭐198)](https://github.com/adminerevo/adminerevo)) `Apache-2.0/GPL-2.0` `PHP`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Chibisafe](https://chibisafe.moe) - File uploader service that aims to to be easy to use and set up. It accepts files, photos, documents, anything you imagine and gives you back a shareable link for you to send to others. ([Source Code (⭐1.3k)](https://github.com/chibisafe/chibisafe)) `MIT` `Docker/Nodejs`
+*   [Chibisafe](https://chibisafe.moe) - File uploader service that aims to to be easy to use and set up. It accepts files, photos, documents, anything you imagine and gives you back a shareable link for you to send to others. ([Source Code (⭐1.4k)](https://github.com/chibisafe/chibisafe)) `MIT` `Docker/Nodejs`
 
 ### Software / Genealogy
 
-*   [Gramps Web](https://www.grampsweb.org/) - Web app for collaborative genealogy, based on and interoperable with Gramps, the open source genealogy desktop application. ([Demo](https://gramps-project.github.io/gramps-web-api/), [Source Code (⭐60)](https://github.com/gramps-project/gramps-web-api)) `AGPL-3.0` `Docker`
+*   [Gramps Web](https://www.grampsweb.org/) - Web app for collaborative genealogy, based on and interoperable with Gramps, the open source genealogy desktop application. ([Demo](https://gramps-project.github.io/gramps-web-api/), [Source Code (⭐62)](https://github.com/gramps-project/gramps-web-api)) `AGPL-3.0` `Docker`
 
 ### Software / Groupware
 
-*   [Twenty](https://twenty.com) - A modern CRM offering the flexibility of open source, advanced features, and a sleek design. ([Source Code (⭐8.4k)](https://github.com/twentyhq/twenty)) `AGPL-3.0` `Docker`
+*   [Twenty](https://twenty.com) - A modern CRM offering the flexibility of open source, advanced features, and a sleek design. ([Source Code (⭐8.6k)](https://github.com/twentyhq/twenty)) `AGPL-3.0` `Docker`
 
 ### Software / Pastebins
 
-*   [ybFeed (⭐10)](https://github.com/ybizeul/ybFeed) - ybFeed is a personal micro feed where you can post snippets of text or images. `MIT` `Go/Nodejs/Docker`
+*   [ybFeed (⭐14)](https://github.com/ybizeul/ybFeed) - Personal micro feed where you can post snippets of text or images. `MIT` `Go/Nodejs/Docker`
 
 ## [9. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
@@ -122,27 +122,41 @@
 *   [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8097577445064259203\&hl=en\&as_sdt=0,5)]. An artificial intelligence system driven by GPT-4 that autonomously designs, plans and performs complex experiments by incorporating large language models empowered by tools such as internet and documentation search, code execution and experimental automation.
 *   [ChemCrow: Augmenting large-language models with chemistry tools](https://openreview.net/forum?id=wdGIL6lx3l) - ***NeurIPS AI for Science Workshop***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8711939262720486725\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://arxiv.org/abs/2304.05376)].
 
-## [12. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [12. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+
+### Community
+
+*   [OpenTofu Slack](https://opentofu.org/slack)
+*   [OpenTofu Twitter](https://twitter.com/opentofuorg)
+
+### Tools / Environment managers
+
+*   [tenv (⭐120)](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
+
+### Tools / CI
+
+*   [tf-via-pr-comments (⭐35)](https://github.com/devsectop/tf-via-pr-comments) - GitHub Action to run Terraform or OpenTofu CLI commands via PR comments.
+
+## [13. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
-*   Level Up Your Data Analysis with Polars: A Powerful DataFrame Library for Speed and Efficiency]\(<https://python.plainenglish.io/level-up-your-data-analysis-with-polars-a-powerful-dataframe-library-for-speed-and-efficiency-0b82c226c7f1>) - A blog post that describs the main features of Polars (with benchmarks) by [ravi-m](https://ravi-m.medium.com/).
 *   [polars’ Rgonomic Patterns](https://www.emilyriederer.com/post/py-rgo-polars/) - A blog post that deeps dive into some of the advanced data wrangling functionality in python’s Polars package by [@emilyriederer](https://github.com/emilyriederer).
 *   [Great Tables: The Polars DataFrame Styler of Your Dreams](https://posit-dev.github.io/great-tables/blog/polars-styling/) - A post that shows how Great Tables package uses polars expressions to make delightful tables by [@machow](https://github.com/machow).
 
-## [13. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [14. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Tools
 
 *   [Axolo](https://www.axolo.co) Github/GitLab Slack integration. Create one ephemeral channel per pull request/ merge request.
 
-## [14. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [15. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Privacy by Design - Guides for developers (art. 25)
 
 *   [Norwegian DPA - Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/data-protection-by-design-and-by-default/)
 
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Data Recovery Tools / File Sharing
 
@@ -151,15 +165,15 @@
 ### Utilities / Productivity
 
 *   [Hyperkey](https://hyperkey.app/) - Lets you convert the caps lock key or any modifier key to the hyper key, all four modifiers combined: ⌃⌥⌘⇧. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Keyboard Cowboy (⭐417)](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zenangst/KeyboardCowboy)
+*   [Keyboard Cowboy (⭐452)](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zenangst/KeyboardCowboy)
 
-## [16. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [17. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Talks
 
 *   [On behalf of mankind: thank you for sharing!](https://www.youtube.com/watch?v=HBS8sS138GE) - TEDx talk by Jerry de Vos
 
-## [17. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [18. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
 - Name: [Continuous](https://continuous.sh/)
 
@@ -177,13 +191,13 @@
 
 
 
-## [18. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [19. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Julia / FrameWorks
 
 *   [IncTA.jl (⭐6)](https://github.com/femtotrader/IncTA.jl) - Julia Incremental Technical Analysis Indicators
 
-## [19. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [20. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Gateway
 
@@ -199,7 +213,7 @@
 *   [Camunda (⭐3.7k) (⭐3.7k)](https://github.com/camunda/camunda-bpm-platform) - An open-source workflow and decision automation platform that helps you automate business processes and decisions in a flexible and scalable way.
 *   [Flowable (⭐7.1k) (⭐7.2k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
 
-## [20. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [21. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Generative AI history, maps, and definitions
 
@@ -217,14 +231,14 @@
 
 *   [Unlocking productivity and personalizing learning with AI | Microsoft EDU](https://educationblog.microsoft.com/en-us/2024/01/unlocking-productivity-and-personalizing-learning-with-ai)
 
-## [21. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [22. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Darkest Derelicts](https://jaderavens.itch.io/darkest-derelicts) - Rules for Starforged, inspired by The Expanse and Alien
 *   [Feats & Favors](https://satan-bouchuncoin.itch.io/feats-favors) - Faction and reputation system for Ironsworn and Starforged
 
-## [22. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
+## [23. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
 
 ### Learning Resources / Introductions to AI
 
@@ -261,7 +275,7 @@
 
 *   [Awesome Computer Vision (⭐19k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
 *   [Awesome Deep Learning for Natural Language Processing (NLP) (⭐1.2k)](https://github.com/brianspiering/awesome-dl4nlp#readme)
-*   [Awesome Generative AI (⭐4k)](https://github.com/steven2358/awesome-generative-ai#readme)
+*   [Awesome Generative AI (⭐4.1k)](https://github.com/steven2358/awesome-generative-ai#readme)
 *   [Awesome Jupyter GLAM (⭐19)](https://github.com/LibraryCarpentry/awesome-jupyter-glam#readme)
 *   [The NLP Index](https://index.quantumstat.com)
 
@@ -350,7 +364,7 @@
 
 *   [AI Magazine](https://onlinelibrary.wiley.com/loi/23719621)
 
-## [23. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [24. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Examples/Templates
 
@@ -358,13 +372,13 @@
 *   [Jahmilli/k6-example (⭐7)](https://github.com/Jahmilli/k6-example) - Starter template using Vite (Rollup) bundler to write k6 tests in TypeScript.
 *   [agilob/multiscenario-tests](https://b.agilob.net/programming/k6/multiscenario-tests/) - Running multiple scenarios at once.
 
-## [24. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [25. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Services & Platforms
 
 *   [Apillon](http://apillon.io/) - a Web3 development platform, offering IPFS gateways, IPFS file-pinning via Crust network and IPFS powered hosting services for websites and apps.
 
-## [25. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [26. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Official Resources
 
@@ -372,28 +386,28 @@
 
 ### Templates / Vue 3
 
-*   [materio-free-vuetify-nuxtjs-admin-template (⭐15)](https://github.com/themeselection/materio-vuetify-nuxtjs-admin-template-free) - Vuejs 3, Vite 5, Vuetify 3 & NuxtJS 3.
+*   [materio-free-vuetify-nuxtjs-admin-template (⭐18)](https://github.com/themeselection/materio-vuetify-nuxtjs-admin-template-free) - Vuejs 3, Vite 5, Vuetify 3 & NuxtJS 3.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-bundle-prefetch (⭐1)](https://github.com/dreambo8563/vite-plugin-bundle-prefetch) - Inject prefetch assets into `index.html`.
+*   [vite-plugin-bundle-prefetch (⭐5)](https://github.com/dreambo8563/vite-plugin-bundle-prefetch) - Inject prefetch assets into `index.html`.
 
-## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [HoNamDuong/hybrid.nvim (⭐38)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
+*   [HoNamDuong/hybrid.nvim (⭐45)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
 
 ### Utility / Diagnostics
 
 *   [echasnovski/mini.nvim#mini.notify (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-notify.md) - Module of `mini.nvim` to show one or more highlighted notifications in a single window. Provides maker of `vim.notify()` implementation and sets up automated LSP progress updates.
-*   [theKnightsOfRohan/csvlens.nvim (⭐16)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens (⭐1.9k)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
+*   [theKnightsOfRohan/csvlens.nvim (⭐22)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens (⭐2k)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 
 ### Code Runner / Diagnostics
 
-*   [pianocomposer321/officer.nvim (⭐13)](https://github.com/pianocomposer321/officer.nvim) - Like dispatch.vim but using overseer.nvim.
+*   [pianocomposer321/officer.nvim (⭐15)](https://github.com/pianocomposer321/officer.nvim) - Like dispatch.vim but using overseer.nvim.
 
-## [27. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [28. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :books: Literature / Documentation
 
@@ -453,11 +467,11 @@
 *   [VMHunt (⭐165)](https://github.com/s3team/VMHunt) - Set of tools for analyzing virtualized binary code ; now only supports 32 bit traces.
 *   [yarGen (⭐1.4k)](https://github.com/Neo23x0/yarGen) - Generator for YARA rules - The main principle is the creation of yara rules from strings found in malware files while removing all strings that also appear in goodware files.
 
-## [28. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [29. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compression
 
-*   [Rapidgzip (⭐294)](https://github.com/mxmlnkn/rapidgzip) - Gzip Decompression and Random Access for Modern Multi-Core Machines. \[Apache-2/MIT]
+*   [Rapidgzip (⭐298)](https://github.com/mxmlnkn/rapidgzip) - Gzip Decompression and Random Access for Modern Multi-Core Machines. \[Apache-2/MIT]
 
 ### Inter-process communication
 
@@ -467,50 +481,50 @@
 
 *   [SRELL](https://www.akenotsuki.com/misc/srell/en/) - Unicode-aware regular expression template library for C++. \[BSD]
 
-## [29. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [30. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Blockchain
 
-*   [beerus (⭐206)](https://github.com/eigerco/beerus) - Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ and powered by Rust 🦀 [![GitHub Workflow Status](https://github.com/eigerco/beerus/actions/workflows/test.yml/badge.svg)](https://github.com/eigerco/beerus/actions/workflows/test.yml)
+*   [beerus (⭐207)](https://github.com/eigerco/beerus) - Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ [![GitHub Workflow Status](https://github.com/eigerco/beerus/actions/workflows/test.yml/badge.svg)](https://github.com/eigerco/beerus/actions/workflows/test.yml)
 
 ### Applications / Database
 
-*   [Qrlew/qrlew (⭐20)](https://github.com/Qrlew/qrlew) \[[qrlew](https://crates.io/crates/qrlew)] - The SQL-to-SQL Differential Privacy layer [![Qrlew](https://github.com/Qrlew/qrlew/actions/workflows/ci.yml/badge.svg)](https://github.com/Qrlew/qrlew/actions) ![Crates.io Version](https://img.shields.io/crates/v/qrlew?logo=Rust)
+*   [Qrlew/qrlew (⭐22)](https://github.com/Qrlew/qrlew) \[[qrlew](https://crates.io/crates/qrlew)] - The SQL-to-SQL Differential Privacy layer [![Qrlew](https://github.com/Qrlew/qrlew/actions/workflows/ci.yml/badge.svg)](https://github.com/Qrlew/qrlew/actions) ![Crates.io Version](https://img.shields.io/crates/v/qrlew?logo=Rust)
 
 ### Applications / Graphics
 
-*   [wahn/rs\_pbrt (⭐789)](https://github.com/wahn/rs_pbrt) — Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code.
+*   [wahn/rs\_pbrt (⭐791)](https://github.com/wahn/rs_pbrt) — Implements a counterpart to the PBRT book's (3rd edition) C++ code.
 
 ### Applications / Security tools
 
-*   [arp-scan-rs (⭐63)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
+*   [arp-scan-rs (⭐67)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
 
 ### Libraries / Mobile
 
 *   Android / iOS
-    *   [owlmafia/rust\_android\_ios (⭐232)](https://github.com/owlmafia/rust_android_ios) — An example of using a shared Rust lib for Android and iOS using rust-swig and cbindgen respectively.
+    *   [owlmafia/rust\_android\_ios (⭐233)](https://github.com/owlmafia/rust_android_ios) — An example of using a shared lib for Android and iOS using rust-swig and cbindgen respectively.
 
-## [30. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [31. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
 *   [AutoGen (⭐20k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 
-## [31. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [32. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Editors / Mobile Editors
 
-*   [OSM Go!](https://osmgo.com/) - OSM Go! is an Android application and a Progressive Web Applications (PWA) for contributing to OpenStreetMap. ([Android](https://play.google.com/store/apps/details?id=fr.dogeo.osmgo) / [Source Code (⭐97)](https://github.com/DoFabien/OsmGo) / [Wiki](https://wiki.openstreetmap.org/wiki/Osm_Go!))
+*   [OSM Go!](https://osmgo.com/) - OSM Go! is an Android application and a Progressive Web Applications (PWA) for contributing to OpenStreetMap. ([Android](https://play.google.com/store/apps/details?id=fr.dogeo.osmgo) / [Source Code (⭐99)](https://github.com/DoFabien/OsmGo) / [Wiki](https://wiki.openstreetmap.org/wiki/Osm_Go!))
 
 ### Libraries / Python
 
-*   [geodesk (⭐20)](https://github.com/clarisma/geodesk-py) - Fast and storage-efficient database for OpenStreetMap analysis.
+*   [geodesk (⭐32)](https://github.com/clarisma/geodesk-py) - Fast and storage-efficient database for OpenStreetMap analysis.
 
 ### Libraries / Java
 
-*   [GeoDesk (⭐127)](https://github.com/clarisma/geodesk) - Fast and storage-efficient database for OpenStreetMap analysis.
+*   [GeoDesk (⭐129)](https://github.com/clarisma/geodesk) - Fast and storage-efficient database for OpenStreetMap analysis.
 
-## [32. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [33. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Hardware
 
@@ -577,7 +591,7 @@
 
 *   [PTNA](https://wiki.openstreetmap.org/wiki/Public_Transport_Network_Analysis) - Public Transit Nework Analysis is a open source system for finding and aggregating information about public transportation lines mapped in OSM.
 
-## [33. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [34. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Extensions / General Purpose
 
@@ -588,13 +602,13 @@
 
 *   [Cyanide (⭐162)](https://github.com/lefoy/cyanide-theme) — A minimal dark theme.
 
-## [34. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [gcloud (⭐3)](https://github.com/wintermi/zsh-gcloud) - Finds the installed gcloud sdk and sources the zsh file there, along with the zsh completions file.
 *   [sail (⭐0)](https://github.com/Razzaghnoori/Sailor/) - Adds convenience aliases for [sail](https://laravel.com/docs/10.x/sail).
-*   [zeza (⭐1)](https://github.com/duggum/zeza) - Manages and customizes [eza (⭐5k)](https://github.com/eza-community/eza), the very colorful `ls` replacement.
+*   [zeza (⭐1)](https://github.com/duggum/zeza) - Manages and customizes [eza (⭐5.5k)](https://github.com/eza-community/eza), the very colorful `ls` replacement.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -607,9 +621,9 @@
 
 ### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [manpage-completion-generator (⭐18)](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generats ZSH completions from man pages. Requires [create\_manpage\_completions.py (⭐24k)](https://github.com/fish-shell/fish-shell/blob/master/share/tools/create_manpage_completions.py) which is installed by the fish shell
+*   [manpage-completion-generator (⭐17)](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generats ZSH completions from man pages. Requires [create\_manpage\_completions.py (⭐24k)](https://github.com/fish-shell/fish-shell/blob/master/share/tools/create_manpage_completions.py) which is installed by the fish shell
 
-## [35. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
+## [36. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
 ### Tools / Ansible
 
@@ -621,13 +635,13 @@
 *   [A lesson in shortcuts](https://web.archive.org/web/20180827160401/https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp) -
     How the idea of "hidden" or "dot" files was born, by Rob Pike (originally posted on Google+).
 
-## [36. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [37. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Tutorials
 
 *   [DLang YouTube Tutorials from Mike Shah](https://www.youtube.com/playlist?list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV) - Series of tutorials covering basic to advanced features of the D programming language and standard library.
 
-## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -649,13 +663,13 @@
 
 *   [360Converter](https://www.360converter.com/) - Free tier useful website to convert: Video to Text && Audio to Text && Speech to Text && Real-time Audio to Text && YouTube Video to Text && add Video Subtitle. Maybe it will be helpful in a short video conversion or in a short youtube tutorial:)
 
-## [38. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [39. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Software / HPGL
 
 *   [Chiplotle3 (⭐4)](https://github.com/cyprienh/chiplotle3) - Chiplotle fork updated for Python 3.x compatibility.
 
-## [39. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [40. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Golem
 
@@ -679,7 +693,7 @@
 
 *   [Yacat](https://docs.golem.network/docs/creators/python/tutorials/task-example-2-hashcat) - Hashcat password-recovery step-by-step.
 
-## [40. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [41. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Interpreters/Compilers
 
@@ -689,7 +703,7 @@
 
 *   [v-nodejs-addon (⭐2)](https://github.com/fanlia/v-nodejs-addon) - An demo of how to create a Node.js addon with V.
 
-## [41. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [42. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Registry / Other
 

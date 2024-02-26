@@ -10,19 +10,19 @@
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [Godot syntax themes (⭐304)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
+*   [Godot syntax themes (⭐310)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Search Engines
 
-*   [sist2 (⭐680)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
+*   [sist2 (⭐699)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
 
 ## [3. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Utils
 
-*   [Moon (⭐197)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
+*   [Moon (⭐200)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 
 ## [4. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Command-line tools
 
-*   [oj (⭐522)](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
+*   [oj (⭐767)](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
 
 ### Format Extensions
 
@@ -42,8 +42,8 @@
 
 ### Libraries
 
-*   [ojc (⭐27)](https://github.com/ohler55/ojc) - A fast JSON parser.
-*   [ojg (⭐522)](https://github.com/ohler55/ojg) - A collection of high performance JSON processing and generating tool.
+*   [ojc (⭐34)](https://github.com/ohler55/ojc) - A fast JSON parser.
+*   [ojg (⭐767)](https://github.com/ohler55/ojg) - A collection of high performance JSON processing and generating tool.
 
 ## [6. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
@@ -126,9 +126,9 @@
 
 ### Applications
 
-*   [asm-cli-rust (⭐289)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
-*   [denoland/deno (⭐92k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
-*   [kytan (⭐442)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
+*   [asm-cli-rust (⭐290)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell.
+*   [denoland/deno (⭐92k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8 and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
+*   [kytan (⭐447)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
 *   [linkerd/linkerd2-proxy (⭐1.9k)](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
 *   [rx (⭐3k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
 

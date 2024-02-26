@@ -22,11 +22,11 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [exa (zshell) (⭐25)](https://github.com/z-shell/zsh-exa) - replace `ls` with [ogham/exa (⭐23k)](https://github.com/ogham/exa).
+*   [exa (zshell) (⭐27)](https://github.com/z-shell/zsh-exa) - replace `ls` with [ogham/exa (⭐23k)](https://github.com/ogham/exa).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [gallifrey-war (⭐1)](https://github.com/cdubos-fr/gallifrey-war) - Inspired by [gallifrey (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#gallifrey). Includes decorators for `git` information, user\@host and current directory.
+*   [gallifrey-war (⭐1)](https://github.com/cdubos-fr/gallifrey-war) - Inspired by [gallifrey (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#gallifrey). Includes decorators for `git` information, user\@host and current directory.
 *   [t2colorful (⭐2)](https://github.com/AmirhosseinAbutalebi/t2colorful-oh.my.zsh) - Includes decorators for `git` information, current directory, last command exit status, and current time.
 
 ## [4. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
@@ -43,7 +43,7 @@
 
 ### Ruby Libraries
 
-*   [bitcoinrb (⭐51)](https://github.com/chaintope/bitcoinrb) - Ruby bitcoin library including script interpreter.
+*   [bitcoinrb (⭐52)](https://github.com/chaintope/bitcoinrb) - Ruby bitcoin library including script interpreter.
 *   [bech32rb (⭐16)](https://github.com/azuchi/bech32rb) - Bech32 and Bech32m encode/decode library.
 *   [bip-schnorrrb (⭐7)](https://github.com/chaintope/bip-schnorrrb) - Schnorr signature library for Bitcoin.
 
@@ -64,7 +64,7 @@
 
 ### Audio Editing
 
-*   [Stargate DAW (⭐518)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
+*   [Stargate DAW (⭐578)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 
 ## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -101,7 +101,7 @@
 ### Libraries / Encoding
 
 *   [FlatBuffers](https://flatbuffers.dev/)
-    *   [frol/flatc-rust (⭐98)](https://github.com/frol/flatc-rust) — FlatBuffers compiler (flatc) integration for Cargo build scripts
+    *   [frol/flatc-rust (⭐99)](https://github.com/frol/flatc-rust) — FlatBuffers compiler (flatc) integration for Cargo build scripts
 
 ### Libraries / Text processing
 
@@ -172,7 +172,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [Trendyol/stove4k (⭐94)](https://github.com/Trendyol/stove4k) - The easiest way of writing e2e tests for your back-end API with all physical dependencies in Kotlin.
+*   [Trendyol/stove4k (⭐95)](https://github.com/Trendyol/stove4k) - The easiest way of writing e2e tests for your back-end API with all physical dependencies in Kotlin.
 
 ## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
@@ -204,11 +204,11 @@
 
 ### Software / Booking and Scheduling
 
-*   [Seatsurfing](https://seatsurfing.app/) - Webbased app to book seats, desks and rooms for offices. ([Demo](https://seatsurfing.app/get-started/), [Source Code (⭐65)](https://github.com/seatsurfing/backend)) `GPL-3.0` `Docker`
+*   [Seatsurfing](https://seatsurfing.app/) - Webbased app to book seats, desks and rooms for offices. ([Demo](https://seatsurfing.app/get-started/), [Source Code (⭐71)](https://github.com/seatsurfing/backend)) `GPL-3.0` `Docker`
 
 ### Software / Money, Budgeting & Management
 
-*   [Actual](https://actualbudget.github.io/docs/) - Actual is a local-first personal finance tool based on zero-sum budgeting. It support synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code (⭐2.3k)](https://github.com/actualbudget/actual-server)) `MIT` `Nodejs/Docker`
+*   [Actual](https://actualbudget.github.io/docs/) - Actual is a local-first personal finance tool based on zero-sum budgeting. It support synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code (⭐2.4k)](https://github.com/actualbudget/actual-server)) `MIT` `Nodejs/Docker`
 
 ## [25. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -294,7 +294,7 @@
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [pgosar/ChatGDB (⭐888)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
+*   [pgosar/ChatGDB (⭐892)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
 *   [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
 
 ## [31. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
@@ -313,7 +313,7 @@
 
 ### Projects
 
-*   [Spaceman (⭐357)](https://github.com/eliaperantoni/spaceman) - Spaceman is a cross-platform gRPC client designed to be pleasant to use and pretty to look at.
+*   [Spaceman (⭐359)](https://github.com/eliaperantoni/spaceman) - Spaceman is a cross-platform gRPC client designed to be pleasant to use and pretty to look at.
 
 ## [34. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -325,7 +325,7 @@
 
 ### Software / Web
 
-*   [Algernon](https://algernon.roboticoverlords.org/) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. ([Source Code (⭐2.5k)](https://github.com/xyproto/algernon)) `BSD-3-Clause` `Go`
+*   [Algernon](https://algernon.roboticoverlords.org/) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. ([Source Code (⭐2.6k)](https://github.com/xyproto/algernon)) `BSD-3-Clause` `Go`
 *   [Apache HTTP Server](https://httpd.apache.org/) - Secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards. ([Source Code](https://svn.apache.org/viewvc/httpd/httpd/branches/2.4.x/)) `Apache-2.0` `C`
 *   [HAProxy](https://www.haproxy.org/) - Very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. ([Source Code](https://git.haproxy.org/?p=haproxy.git;a=tree)) `GPL-2.0` `C`
 *   [Lighttpd](https://www.lighttpd.net/) - Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. ([Source Code](https://git.lighttpd.net/lighttpd/lighttpd1.4)) `BSD-3-Clause` `C`
@@ -408,7 +408,7 @@
 ### Utilities / System Related Tools
 
 *   [Sloth](https://sveinbjorn.org/sloth/) - Shows all open files, directories, sockets, pipes and devices in use by all running processes. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sveinbjornt/Sloth/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [SwiftQuit (⭐191)](https://github.com/onebadidea/swiftquit/) - Enables automatic quitting of macOS apps when closing their windows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/onebadidea/swiftquit) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [SwiftQuit (⭐201)](https://github.com/onebadidea/swiftquit/) - Enables automatic quitting of macOS apps when closing their windows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/onebadidea/swiftquit) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [40. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
@@ -427,15 +427,15 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [unplugin-config (⭐10)](https://github.com/kirklin/unplugin-config) - Configuration file generator for web apps, allowing external customization of global variables without repackaging.
+*   [unplugin-config (⭐11)](https://github.com/kirklin/unplugin-config) - Configuration file generator for web apps, allowing external customization of global variables without repackaging.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-vitepress-auto-sidebar (⭐45)](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - Automatically generates sidebar data by scanning directories, based on vitepress.
+*   [vite-plugin-vitepress-auto-sidebar (⭐47)](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - Automatically generates sidebar data by scanning directories, based on vitepress.
 
 ### Django / Community
 
-*   [django-vite-plugin (⭐67)](https://github.com/protibimbok/django-vite-plugin) - Integration for Django applications including vite plugin.
+*   [django-vite-plugin (⭐72)](https://github.com/protibimbok/django-vite-plugin) - Integration for Django applications including vite plugin.
 
 ## [43. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 

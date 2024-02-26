@@ -229,8 +229,8 @@
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [Emacs (⭐276)](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
-*   [Vim (⭐419)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
+*   [Emacs (⭐277)](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
+*   [Vim (⭐422)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
 
 ## [13. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -377,7 +377,7 @@
 
 ### Image Processing
 
-*   [ImageProcessing (⭐813)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
+*   [ImageProcessing (⭐818)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
 
 ## [21. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
@@ -700,7 +700,7 @@
 
 ### Python Libraries
 
-*   [bitcoin\_tools (⭐274)](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.
+*   [bitcoin\_tools (⭐280)](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.
 *   [oogway (⭐10)](https://github.com/merwane/oogway) - A secure Bitcoin utility library for Python.
 
 ## [52. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)

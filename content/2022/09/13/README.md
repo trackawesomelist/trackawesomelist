@@ -46,16 +46,15 @@
 
 *   [midilib](https://www.lexaloffle.com/bbs/?cat=7#tag=midilib) - Custom SFX instruments
 
-## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [6. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
 
 ### IDE and editors
 
-*   [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/emacs.html) - Free Software Foundation Inc. (HTML, PDF)
-*   [Learn Vim (the Smart Way) (⭐13k)](https://github.com/iggredible/Learn-Vim) - Igor Irianto (HTML) *(:construction: in process)*
-*   [Learn Vim For the Last Time](https://danielmiessler.com/study/vim/) - Daniel Miessler
-*   [VIM-GALORE - All things Vim! (⭐16k)](https://github.com/mhinz/vim-galore#readme) - Marco Hinz (HTML)
-*   [Vim Recipes](https://web.archive.org/web/20130302172911/http://vim.runpaint.org/vim-recipes.pdf) - Run Paint Run Run, Run Paint Press (PDF) *(:card\_file\_box: archived)*
-*   [Visual Studio 2019 Succinctly](https://www.syncfusion.com/ebooks/visual-studio-2019-succinctly) - Alessandro Del Sole (online, PDF)
+*   [大家來學 VIM](http://www.study-area.org/tips/vim/index.html) - Edward Lee
+*   [所需即所获：像 IDE 一样使用 vim (⭐9.3k)](https://github.com/yangyangwithgnu/use_vim_as_ide) - yangyangwithgnu
+*   [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
+*   [IntelliJ IDEA 简体中文专题教程 (⭐21k)](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - Judas.n
+*   [Vim中文文档 (⭐206)](https://github.com/vimcn/vimcdoc) - Vim 中文计划, Yian Willis
 
 ## [7. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -89,7 +88,7 @@
 
 ### Utilities
 
-*   [remote-touchpad (⭐462)](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone.
+*   [remote-touchpad (⭐465)](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 

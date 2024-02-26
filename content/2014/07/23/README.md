@@ -10,7 +10,7 @@
 
 ### Table of Contents / Passwords
 
-*   [Zxcvbn PHP (⭐809)](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
+*   [Zxcvbn PHP (⭐808)](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
 
 ## [2. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 

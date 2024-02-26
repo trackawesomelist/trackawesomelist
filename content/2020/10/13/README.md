@@ -1,37 +1,31 @@
 # Awesome List Updates on Oct 13, 2020
 
-23 awesome lists updated today.
+22 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
-
-### Frameworks • Libraries • Ecosystems
-
-*   [Godot (⭐78k)](https://github.com/godotengine/godot) \[Cross-platform] - Open source game engine, that can also be used for all sorts of things.
-
-## [2. Awesome List](/content/sindresorhus/awesome/README.md)
+## [1. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Business
 
-*   [Social Enterprise (⭐73)](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
+*   [Social Enterprise (⭐77)](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Miscellaneous
 
-*   [2FAuth (⭐1.3k)](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP/Docker`
+*   [2FAuth (⭐1.4k)](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP/Docker`
 
-## [4. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
+## [3. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
 ### Politics
 
 *   [US Damn Removal](https://www.change.org/t/dam-removal-en-us) - [70 percent of the dams in the United States](https://www.ussdams.org/our-news/americas-aging-dams-in-need-of-repair/) are now more than 50 years old, with almost 2,000 of them rated as "high-hazard". About [1,000 dams have failed](https://apnews.com/75b1cd657f3e4fa3be6adaf968eb7df4) over the past four decades, killing 34 people, and now many are no longer adequate to handle the intense rainfall and floods of a changing climate.
     With dams causing wild salmon populations to go extinct, their only benefit is hydropower, yet dams are woefully inefficient by modern standards. For example, the Tugalo Dam in Georgia destroyed 597 acres of temperate rainforest to produce 45 Megawatts, which is the equivalent of 7,500 homes adding 6kw rooftop solar panels. We should tear down these dams as soon as possible, be that when their contract runs out or sooner, instead of wasting tax-payer money operating them or trying to revive them. [More on Last Week Tonight](https://www.youtube.com/watch?v=Wpzvaqypav8).
 
-## [5. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [4. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Tooling
 
@@ -41,43 +35,43 @@
 *   [LiFT (⭐159)](https://github.com/linkedin/LiFT) - Linkedin fairness toolkit.
 *   [Model Card Toolkit (⭐314)](https://github.com/tensorflow/model-card-toolkit) - Streamlines and automates the generation of model cards; for model documentation.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 
 *   [DJ Checkup](https://djcheckup.com) — Scan your Django site for security flaws with this free, automated checkup tool. Forked from the Pony Checkup site.
 
-## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Tools
 
 *   [webcomponents.dev](https://webcomponents.dev) - Component IDE for web platform developers.
 
-## [8. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [7. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### Dead
 
 *   [Younity](http://getyounity.com/) is a "personal cloud" that lets users share their files between their devices, without uploading them to one centralised server.
 
-## [9. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
+## [8. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
 ### Books / Uncategorized
 
 *   [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/) - This book covers the process of building a Shiny application that will later be sent to production. Authors: Colin Fay, Sébastien Rochette, Vincent Guyader, Cervan Girard.
 
-## [10. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [9. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### People Doing Open Source Work / Hardware related
 
 *   [Adam King](https://github.com/sponsors/notadamking) - RLTrader, Tensortrade and other trading related projects.
 
-## [11. Awesome Video](/content/krzemienski/awesome-video/README.md)
+## [10. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
 ### DRM / Dolby
 
 *   [The Hitchhiker's Guide to DRM](https://ottverse.com/hitchhikers-guide-to-drm-2/)  - A gentle guide to the world of Digital Rights Management. It includes a technology overview of AES, EME, CDM, CENC, Keys, and then explores popular DRM technologies such as Google Widevine, Apple FairPlay, Microsoft PlayReady, and finally, Multi-DRM.
 
-## [12. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [11. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Official Resources
 
@@ -135,38 +129,38 @@
 
 *   [vim-svelte (⭐303)](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
 
-## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [12. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Social Media
 
 *   [kirc (⭐508)](https://github.com/mcpcpc/kirc) - Tiny IRC client.
 
-## [14. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
+## [13. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
 ### Canvas / Examples
 
 *   [Particles.js](http://codepen.io/VincentGarreau/full/pnlso/) \[[show me the code](http://codepen.io/VincentGarreau/pen/pnlso)] • Beautiful particles created using canvas.
 *   [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/) • Amazing example about line movement and animation.
 
-## [15. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [14. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Toolchains
 
 *   [toolchains (⭐77)](https://github.com/mosra/toolchains) - For cross-compiling with CMake. They are meant to be mainly used on ArchLinux. `[NO LICENSE]`
 
-## [16. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
+## [15. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### Cloud Services / Desktop GUI Automation (non-browser-centric)
 
 *   [LambdaTest](https://www.lambdatest.com/selenium-automation) - Test your website for cross browser compatibility on 2000+ real browsers & OS. Get Free Trial.
 
-## [17. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [16. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Gesture
 
 *   [Tactile (⭐716)](https://github.com/delba/Tactile) - A safer and more idiomatic way to respond to gestures and control events.
 
-## [18. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [17. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Deep Learning / TensorFlow
 
@@ -179,13 +173,13 @@
 *   [Caffe (⭐34k)](https://github.com/BVLC/caffe) - A fast open framework for deep learning.
 *   [nnabla (⭐2.6k)](https://github.com/sony/nnabla) - Neural Network Libraries by Sony.
 
-## [19. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
+## [18. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### IOC/DI
 
 *   [DryIoc (⭐889)](https://github.com/dadhi/DryIoc) - Fast, small, full-featured IoC Container for .NET.
 
-## [20. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [19. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Chart
 
@@ -195,7 +189,7 @@
 
 *   [react-functional-select (⭐191)](https://github.com/based-ghost/react-functional-select) - [demo](https://based-ghost.github.io/react-functional-select/) - Micro-sized & micro-optimized select component for React.js.
 
-## [21. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [20. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Admin
 
@@ -205,13 +199,13 @@
 
 *   [django-check-seo (⭐135)](https://github.com/kapt-labs/django-check-seo) - Check SEO of pages.
 
-## [22. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
 *   [Gooba](https://goobapp.com/) - Writing app and task manager with a simple and interactive design.
 
-## [23. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [22. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Third-party Apps Plugins / Design Tooling
 

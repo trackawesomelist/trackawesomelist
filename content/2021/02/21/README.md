@@ -22,22 +22,22 @@
 
 ### Feature Flags and Toggles
 
-*   [ConfigCat (⭐14)](https://github.com/configcat/elixir-sdk) - Elixir SDK for ConfigCat hosted feature flag service.
+*   [ConfigCat (⭐15)](https://github.com/configcat/elixir-sdk) - Elixir SDK for ConfigCat hosted feature flag service.
 
 ### Testing
 
-*   [mix\_test\_interactive (⭐63)](https://github.com/influxdata/mix_test_interactive) - Interactive test runner for mix test with watch mode.
+*   [mix\_test\_interactive (⭐65)](https://github.com/influxdata/mix_test_interactive) - Interactive test runner for mix test with watch mode.
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Anima (⭐570)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
+*   [Anima (⭐572)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
 
 ### Plugins and scripts / Godot 3.2+
 
 *   [Godot GamePad (⭐111)](https://github.com/ACB-prgm/Godot_GamePad) - Allows players to use their mobile devices as controllers.
-*   [SmartShape2D (⭐977)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
+*   [SmartShape2D (⭐990)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
 
 ### Modules / Godot 4.0
 

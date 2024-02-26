@@ -10,7 +10,7 @@
 
 ### Tools - Security / React
 
-*   [GraphCrawler - The all-in-one GraphQL Security toolkit (⭐276)](https://github.com/gsmith257-cyber/GraphCrawler) - The all-in-one automated penetration tester toolkit for GraphQL, written in Python
+*   [GraphCrawler - The all-in-one GraphQL Security toolkit (⭐277)](https://github.com/gsmith257-cyber/GraphCrawler) - The all-in-one automated penetration tester toolkit for GraphQL, written in Python
 
 ## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 
@@ -93,20 +93,20 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 ### Software / Monitoring
 
-*   [Scrutiny (⭐4k)](https://github.com/AnalogJ/scrutiny) - Web UI for hard drive S.M.A.R.T monitoring, historical trends & real-world failure thresholds. `MIT` `Go`
+*   [Scrutiny (⭐4.1k)](https://github.com/AnalogJ/scrutiny) - Web UI for hard drive S.M.A.R.T monitoring, historical trends & real-world failure thresholds. `MIT` `Go`
 
 ## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [Rust Audio (⭐47)](https://github.com/austintheriot/audio) - Realtime audio processing / synthesis using Rust/WASM in the browser, [Live Demo](https://austintheriot.github.io/audio/).
+*   [Rust Audio (⭐49)](https://github.com/austintheriot/audio) - Realtime audio processing / synthesis using Rust/WASM in the browser, [Live Demo](https://austintheriot.github.io/audio/).
 
 ## [15. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-multi-pages (⭐17)](https://github.com/Miofly/vite-plugin-multi-pages) - Multi Pages Support，can build src/pages anyPage，can set prefixName.
-*   [vite-plugin-html-template-mpa (⭐15)](https://github.com/Miofly/vite-plugin-html-template-mpa) - Multi Pages Common template support.
+*   [vite-plugin-html-template-mpa (⭐16)](https://github.com/Miofly/vite-plugin-html-template-mpa) - Multi Pages Common template support.
 *   [vite-plugin-vconsole-mpa (⭐5)](https://github.com/Miofly/vite-plugin-vconsole-mpa) - Multi Pages Vconsole supports，simple config.
 
 ---

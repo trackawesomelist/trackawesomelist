@@ -37,7 +37,7 @@ Where hackers and security experts come to train.
 
 ### Contents / CLI
 
-*   [psql2csv (⭐173)](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
+*   [psql2csv (⭐179)](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
 
 ## [6. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 

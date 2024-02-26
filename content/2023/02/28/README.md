@@ -20,13 +20,13 @@
 
 ### Libraries / Caching
 
-*   [zkat/cacache-rs (⭐425)](https://github.com/zkat/cacache-rs) - A high-performance, concurrent, content-addressable disk cache, optimized for async APIs [![build badge](https://github.com/zkat/cacache-rs/workflows/CI/badge.svg)](https://github.com/zkat/cacache-rs/actions/workflows/ci.yml)
+*   [zkat/cacache-rs (⭐439)](https://github.com/zkat/cacache-rs) - A high-performance, concurrent, content-addressable disk cache, optimized for async APIs [![build badge](https://github.com/zkat/cacache-rs/workflows/CI/badge.svg)](https://github.com/zkat/cacache-rs/actions/workflows/ci.yml)
 
 ### Libraries / Network programming
 
 *   gRPC
-    *   [hyperium/tonic (⭐8.5k)](https://github.com/hyperium/tonic) — A native gRPC client & server implementation with async/await support [![Crates.io](https://img.shields.io/crates/v/tonic)](https://crates.io/crates/tonic)
-    *   [tikv/grpc-rs (⭐1.8k)](https://github.com/tikv/grpc-rs) — The gRPC library for Rust built on C Core library and futures
+    *   [hyperium/tonic (⭐8.6k)](https://github.com/hyperium/tonic) — A native gRPC client & server implementation with async/await support [![Crates.io](https://img.shields.io/crates/v/tonic)](https://crates.io/crates/tonic)
+    *   [tikv/grpc-rs (⭐1.8k)](https://github.com/tikv/grpc-rs) — The gRPC library built on C Core library and futures
 
 ## [3. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Templates / Electron
 
-*   [vite-plugin-doubleshot (⭐92)](https://github.com/Doubleshotjs/doubleshot/tree/main/packages/plugin-vite) - For building Node.js backend or Electron main process.
+*   [vite-plugin-doubleshot (⭐94)](https://github.com/Doubleshotjs/doubleshot/tree/main/packages/plugin-vite) - For building Node.js backend or Electron main process.
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -66,7 +66,7 @@
 
 ### Vue / Transformers
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-preview (⭐33)](https://github.com/liting-yes/vite-plugin-vue-preview) - Code preview for Vue SFC in Markdown, supports online editing.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-preview (⭐34)](https://github.com/liting-yes/vite-plugin-vue-preview) - Code preview for Vue SFC in Markdown, supports online editing.
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

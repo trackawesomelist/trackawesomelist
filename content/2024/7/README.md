@@ -1,18 +1,56 @@
 # Awesome List Updates on Feb 12 - Feb 18, 2024
 
-45 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
+## [1. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+
+### Tooling / Frameworks
+
+*   [yew-fmt (⭐11)](https://github.com/schvv31n/yew-fmt) - A configurable extension to `rustfmt` for formatting Yew HTML.
+
+## [2. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+
+### Shells
+
+*   [yash (⭐265)](https://github.com/magicant/yash) - A POSIX-compliant command line shell with built-in support for completion and prediction based on command history
+
+### Command-Line Productivity
+
+*   [ok-sh (⭐79)](https://github.com/secretGeek/ok-bash) - Do you work on many different projects? And in each project, are there commands you use that are specific to that project? You need a .ok file.
+
+### Downloading and Serving / Directory Navigation
+
+*   [Kapow! (⭐585)](https://github.com/BBVA/kapow) - If you can script it, you can HTTP it.
+
+### Shell Script Development / See also
+
+*   [awesome-bash (⭐7k)](https://github.com/awesome-lists/awesome-bash)
+
+## [3. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+
+### Contents / Optimization
+
+*   [Metis](https://www.metisdata.io/product/troubleshooting) - Metis provides observability and performance tuning for SQL databases including PostgreSQL. (Commercial Software)
+
+### Resources / Blogs
+
+*   [Metis Blog](https://www.metisdata.io/blog) - Set of posts on PostgreSQL, SQL databases, performance, and tuning.
+
+### Resources / Books
+
+*   [PostgreSQL Mistakes and How to Avoid Them](https://www.manning.com/books/postgresql-mistakes-and-how-to-avoid-them)
+
+## [4. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
 
 ### Learning Resources / Other "awesome" lists in AI and ML
 
 *   [Awesome LLM (⭐12k)](https://github.com/Hannibal046/Awesome-LLM#readme)
 
-## [2. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [5. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Real-Time Search, Social Media Search, and General Social Media Tools
 
@@ -59,27 +97,27 @@
 *   [OSINT-Tool](https://www.osint-tool.com/) - A browser extension that gives you access to a suite of OSINT utilities (Dehashed, Epieos, Domaintools, Exif data, Reverse image search, etc) directly on any webpage you visit.
 *   [Discoshell (⭐76)](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
 
-## [3. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [PureEval (⭐27)](https://github.com/PureEval/PureEval) - A powerful JavaScript functional programming toolset, including utility functions and abstract data structures.
 *   [context-fp (⭐1)](https://github.com/darky/context-fp) - Microscopic functional programming context aka dependency injection. +TS
 
-## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [classic (⭐0)](https://github.com/freakinu/classic-zsh-theme) - A classic unix theme with decorators for username, host, current directory and `git` status.
 *   [frontcube (⭐0)](https://github.com/ronitkrshah/frontcube/) - Requires a nerd font. Based on the official [Frontcube (⭐4)](https://github.com/ornicar/oh-my-zsh/blob/master/themes/frontcube.zsh-theme) theme. Includes decorators for `git` status and current directory.
 
-## [5. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [8. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Pastebin and Secret Sharing
 
 *   [NoPaste (⭐323)](https://github.com/bokub/nopaste) - Open Source pastebin alternative that works with no database, and no back-end code. Instead, the data is compressed and stored entirely in the link that you share, nowhere else.
 
-## [6. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [9. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Content Management Systems (CMS)
 
@@ -98,90 +136,13 @@
 
 *   [Apache NetBeans](https://netbeans.apache.org/front/main/index.html) - An IDE with support for PHP and HTML5.
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐196)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐60)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
-### Projects / Web
-
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
-
-### Projects / Build tools
-
-*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
-*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
-
-### Projects / Misc
-
-*   [kpspemu/kpspemu (⭐71)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
-*   [chrislo27/RhythmHeavenRemixEditor (⭐427)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-*   [JetBrains/kotlin-examples (⭐3.2k)](https://github.com/JetBrains/kotlin-examples) - Various examples for Kotlin.
-
-### Projects / Android
-
-*   [skydoves/githubfollows (⭐294)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐155)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐34)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Android / Tests
-
-*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-
-### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐85)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐238)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐565)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐318)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
-
-## [8. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [10. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
 *   [Dotfyle](https://dotfyle.com) - Discover and share Neovim plugins
 
-## [9. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [11. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Blockchain API and Web services
 
@@ -191,13 +152,13 @@
 
 *   [@lopp / Lightning Developers](https://twitter.com/i/lists/981976067551490048) - Software developers with experience working on LN implementations / applications.
 
-## [10. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Toolkit
 
 *   [Apache Pekko (⭐944)](https://github.com/apache/incubator-pekko) \[Scala, Java] - Fork of Akka 2.6.x, prior to the Akka project's adoption of the Business Source License.
 
-## [11. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [13. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
@@ -207,7 +168,7 @@
 
 *   [Polars and time zones: everything you need to know | PyData Global 2023](https://www.youtube.com/watch?v=DFQFAwt_0VY) ⏳ 29 min - A video that  shows how to use Polars effectively for time series analysis involving different time zones by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
-## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Critical Views about Generative AI
 
@@ -222,42 +183,38 @@
 
 *   [Sora](https://openai.com/sora): OpenAI's text-to-video model [\[technical report\]](https://openai.com/research/video-generation-models-as-world-simulators)
 
-## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [15. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [PHPArkitect (⭐649)](https://github.com/phparkitect/arkitect) — PHPArkitect helps you to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow. You can express the constraint that you want to enforce, in simple and readable PHP code.
 
-### Multiple languages / [Other](#other-1)
-
-*   [Betterscan.io](https://betterscan.io) — Betterscan.io - Betterscan.io checks your code and infra (various Git repositories supported, cloud stacks, CLI, Web Interface platform, integrationss available) for security and quality issues. Code Scanning/SAST/Linting using many tools/Scanners deduplicated with One Report (AI optional). Free to use in noncommerical way, commercial requires license.
-
-## [14. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [16. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Utils
 
 *   [POMWright (⭐14)](https://github.com/DyHex/POMWright) - POMWright is a TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.
 
-## [15. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [17. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Other sources
 
 *   [SpeedChecker Insights](https://insights.speedchecker.com/) - Periodic country-level reports on mobile internet speeds, latency, and coverage
 *   [Cloudflare Radar](https://radar.cloudflare.com/) - Invaluable resource on internet traffic, security, routing, outages, DNS, and more.
 
-## [16. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [18. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Free Music Scores
 
 *   [Lavender Blue Open-Scores (⭐10)](https://github.com/madrisan/open-scores) - open scores for piano encoded using lilypond.
 
-## [17. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [19. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Integrations
 
 *   [Panora](https://panora.dev) - Easy, flexible API to add customer-facing integrations to your SaaS product. [![Panora](https://img.shields.io/github/stars/panoratech/panora?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/panoratech/panora)
 
-## [18. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [20. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2024
 
@@ -269,19 +226,19 @@
 
 *   [Online Fairness Auditing through Iterative Refinement](https://dl.acm.org/doi/pdf/10.1145/3580305.3599454) - (KDD) *Provides an adaptive process that automates the inference of probabilistic guarantees associated with estimating fairness metrics.*
 
-## [19. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [21. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Literate programming / Third-party APIs
 
 *   [papyrus (⭐27)](https://github.com/tani/papyrus) - Papyrus makes your markdown executable with the reader macro of Common Lisp.[MIT](https://opensource.org/licenses/MIT)
 
-## [20. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [22. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### Visual Analytics
 
 *   [CARTO](https://docs.carto.com/faqs/carto-for-education#how-can-i-get-a-student-account-in-carto) \[FREE / DISCOUNT] - Free account upgrades with increased database storage, real time data, Location Data Services Credits, and premium features for 2 years.
 
-## [21. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [23. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
@@ -307,29 +264,22 @@
 
 *   [LabKey Server](https://www.labkey.com/products-services/labkey-server/) - Platform for Translational Research.
 
-## [22. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [24. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Tools / Templates & Starter Kits
 
 *   [State Design System (DSFR) starter (⭐18)](https://github.com/numerique-gouv/content-manager) - Wagtail template and starter kit from the French government.
 
-## [23. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
-
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐114) (⭐113)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐795) (⭐794)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
+## [25. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Design
 
 *   [Dredd (⭐4.1k) (⭐4.1k)](https://github.com/apiaryio/dredd) - Validate API description docs against backend implementation using this language-agnostic CLI tool.
-*   [OpenAPI Diff (⭐726) (⭐722)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
 *   [OpenAPI Generator (⭐19k) (⭐19k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
 *   [OpenAPI Style Validator (⭐189) (⭐189)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
 
 ### Projects / API Documentation
 
-*   [OpenAPI Explorer (⭐261) (⭐261)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
 *   [Redoc (⭐22k) (⭐22k)](https://github.com/Redocly/redoc) - An open-source tool for generating documentation from OpenAPI (fka Swagger) definitions, with customizable themes, language support, and branding.
 
 ### Projects / API Gateway
@@ -344,25 +294,7 @@
     *   [kcat (⭐5.1k) (⭐5.2k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
     *   [MQTT Explorer (⭐2.6k) (⭐2.7k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
     *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
-    *   [Service Bus Explorer (⭐1.8k) (⭐1.9k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
-*   Mocking tools
-    *   [Imposter (⭐330) (⭐328)](https://github.com/outofcoffee/imposter) - Mock server for REST APIs, OpenAPI (and Swagger) specifications, SOAP web services (and WSDL files), Salesforce and HBase APIs.
-    *   [Microcks (⭐1.1k) (⭐1.1k)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
-    *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
-    *   [Mockoon (⭐5.6k) (⭐5.7k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
-    *   [MockServer (⭐4.3k) (⭐4.4k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
-    *   [Mocky (⭐1.9k) (⭐2k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
-    *   [Prism (⭐3.8k) (⭐3.9k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
-    *   [WireMock (⭐5.9k) (⭐6k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
-
-### Projects / Data Mapping Solution
-
-*   [AltasMap (⭐174) (⭐174)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
-*   [JSLT (⭐598) (⭐596)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
-
-### Projects / Integration Frameworks
-
-*   [Frank!Framework (⭐91) (⭐90)](https://github.com/frankframework/frankframework) - A Low-Code Java-based messaging framework to connect your system and application data, that is completely configurable through XML configurations.
+    *   [Service Bus Explorer (⭐1.9k) (⭐1.9k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
 
 ### Projects / Messaging
 
@@ -373,21 +305,13 @@
 *   [API Blueprint (⭐8.6k) (⭐8.6k)](https://github.com/apiaryio/api-blueprint) - A powerful high-level language for designing and documenting APIs that allows software engineers to easily collaborate and create efficient APIs.
 *   [AsyncAPI (⭐3.7k) (⭐3.7k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
 
-### Resources / Data Formats
-
-*   [YAML (⭐295) (⭐293)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
-
-### Resources / Standard APIs
-
-*   [Standard Webhooks (⭐989) (⭐983)](https://github.com/standard-webhooks/standard-webhooks) - Open source tools and guidelines for sending webhooks easily, securely, and reliably.
-
-## [24. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [26. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Community / Webinterface
 
 *   [NixCon](https://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
 
-## [25. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [27. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
@@ -407,7 +331,7 @@
 *   [Stock Trading (⭐19)](https://github.com/shi-rudo/awesome-stock-trading#readme) - Purchase and sale of equities of publicly traded companies with the aim of generating profits.
 *   [Astrophotography (⭐27)](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
 
-## [26. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [28. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### 2D / Godot 4.2
 
@@ -421,7 +345,7 @@
 
 *   [Godot Spin Button (⭐31)](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options (Godot 4.x).
 
-## [27. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [29. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Web
 
@@ -432,19 +356,19 @@
 
 *   [mongodb (⭐40)](https://github.com/vlang/mongo) - MongoDB driver for V.
 
-## [28. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [30. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Resources / Tutorials and Hints
 
 *   [Coq requirements in Common Criteria evaluations](https://inria.hal.science/hal-04452421) - Guide on how to write readable and reviewable Coq code in high assurance applications.
 
-## [29. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [31. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
 *   [Reindexer (⭐750)](https://github.com/Restream/reindexer) - Embeddable, in-memory, document-oriented database with a high-level Query builder interface. \[Apache2] [website](https://reindexer.io/)
 
-## [30. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [32. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Admin Interface
 
@@ -454,19 +378,19 @@
 
 *   [fast\_count (⭐205)](https://github.com/fatkodima/fast_count) - Quickly get a count estimation for large tables (>99% of accuracy for PostgreSQL).
 
-## [31. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [33. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Manuals and Ephemera / Ephemera
 
 *   [Hewlett-Packard Journal Volume 33 Number 12 (1982)](https://archive.org/details/Hewlett-Packard_Journal_Vol._33_No._12_1982-12_Hewlett-Packard) - Multiple articles about the HP Model 7470A plotter.
 
-## [32. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [34. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Gems / Other external resources
 
 *   [alba (⭐838)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby, and TruffleRuby. [:red\_circle:](https://rubygems.org/gems/alba)
 
-## [33. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/week/README.md)
+## [35. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/week/README.md)
 
 ### **AI/ML**
 
@@ -530,7 +454,7 @@
 ### Components / Tasmota Configs
 
 *   [Seed Studio](https://www.seeedstudio.com/) - various modules and components based on ESP32 and other MCU
-*   [LILYGO](https://www.lilygo.cc/) - varous modiles and components. Good relay boards based on ESP32.
+*   [LILYGO](https://www.lilygo.cc/) - varous modiles and components. Good relay boards based on ESP32
 
 ### Components / Sensors
 
@@ -600,7 +524,7 @@
 *   [Awesome Open Hardware (⭐322)](https://github.com/delftopenhardware/awesome-open-hardware)
 *   [Awesome Raspberry Pi (⭐12k)](https://github.com/thibmaek/awesome-raspberry-pi)
 
-## [34. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [36. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 
@@ -608,11 +532,11 @@
 *   [Latent Programmer: Discrete Latent Codes for Program Synthesis](https://proceedings.mlr.press/v139/hong21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9789877360194738968\&hl=en\&as_sdt=0,5)]. Paper introducing the Latent Programmer, a program synthesis method that first predicts a discrete latent code from input/output examples, and then generates the program in the target language.
 *   [PAL: Program-aided Language Models](https://proceedings.mlr.press/v202/gao23f) - ***ICML'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=14898051625978777315\&hl=en\&as_sdt=0,5)]. Paper presenting an approach that uses the LLM to read natural language problems and generate programs as the intermediate reasoning steps, but offloads the solution step to a runtime such as a Python interpreter. With PAL, decomposing the natural language problem into runnable steps remains the only learning task for the LLM, while solving is delegated to the interpreter.
 
-## [35. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [37. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
-*   [qarmin/czkawka (⭐14k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
+*   [qarmin/czkawka (⭐15k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
 
 ### Development tools / Web Servers
 
@@ -621,9 +545,9 @@
 ### Libraries / Markup language
 
 *   CommonMark
-    *   [pulldown-cmark/pulldown-cmark (⭐1.9k)](https://github.com/pulldown-cmark/pulldown-cmark) — [CommonMark](https://commonmark.org/) parser in Rust
+    *   [pulldown-cmark/pulldown-cmark (⭐1.9k)](https://github.com/pulldown-cmark/pulldown-cmark) — [CommonMark](https://commonmark.org/) parser
 
-## [36. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [38. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
@@ -636,13 +560,13 @@
 
 *   [ApexCharts](https://opencollective.com/apexchartsjs) - JavaScript charts library.
 
-## [37. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [39. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Politics
 
 *   [OpenPrecincts](https://gerrymander.princeton.edu/) - OpenPrecincts is a data and software resource to open the redistricting process to all citizens and ensure that district boundaries are fair for all voters.
 
-## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [40. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### PaaS
 
@@ -652,7 +576,15 @@
 
 *   [Singlebase.cloud](https://singlebase.cloud) — SinglebaseCloud is an AI-powered all-in-one backend platform to accelerate app development. It offers tools like Vector DB, Relational Document DB, Auth, Search, and Storage, aiming to simplify backend development. Free/Starter Plan offers Relational Document DB, Auth, Search, Storage.
 
-## [39. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
+### Data Visualization on Maps
+
+*   [nominatim.org](https://nominatim.org/) — OpenStreetMap's free geocoding service, providing global address search functionality and reverse geocoding capabilities.
+
+### Analytics, Events and Statistics
+
+*   [Yandex.Datalens](https://datalens.yandex.com/) — Yandex Cloud data visualization and analysis service. The service is provided free of charge. No restrictions on the number of users and requests.
+
+## [41. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
 ### Featured On
 
@@ -669,7 +601,7 @@
 *   [Core Kubernetes](https://www.manning.com/books/core-kubernetes) by [Chris Love](https://github.com/chrislovecnm)
 *   [Road to Kubernetes](https://www.manning.com/books/road-to-kubernetes) by [Justin Mitchel](https://github.com/jmitchel3)
 
-## [40. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [42. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -687,15 +619,15 @@
 
 *   [vite-plugin-react-rich-svg (⭐2)](https://github.com/iGoodie/vite-plugin-react-rich-svg) - Seamless SVG loader with versatile import options; such as DataURI, SVGR Component and Raw HTML Code.
 
-## [41. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [43. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Tools / Community Chat Rooms
 
 *   [svd-generator](https://codeberg.org/weathered-steel/svd-generator) CLI tool to parse flattened device tree files, and create a SVD file. - ![crates.io](https://img.shields.io/crates/v/svd-generator.svg)
 
-## [42. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [44. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
-### Zig development tools / HTTP
+### Zig development tools / Messaging
 
 *   [weskoerber/zvm (⭐2)](https://github.com/weskoerber/zvm) - POSIX-compliant bash script to manage multiple active Zig versions.
 
@@ -703,7 +635,7 @@
 
 *   [weskoerber/kewpie (⭐0)](https://github.com/weskoerber/kewpie) - A simple query string parser.
 
-## [43. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [45. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Constraint Satisfaction Problem Solver / Text-Based User Interfaces
 
@@ -717,7 +649,7 @@
 
 *   [Selfie (⭐25)](https://github.com/diffplug/selfie) - Snapshot testing (inline and on disk).
 
-## [44. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [46. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CMS
 
@@ -735,7 +667,7 @@
 
 *   [EFCore.Visualizer](https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer) - View Entity Framework Core query plan directly in Visual Studio.
 
-## [45. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [47. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
@@ -759,4 +691,5 @@
 
 ---
 
+- Prev: [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
 - Next: [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)

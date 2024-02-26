@@ -41,7 +41,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [goast (⭐56)](https://github.com/m-mizutani/goast) :warning: — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
+*   [goast (⭐56)](https://github.com/m-mizutani/goast) — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
 
 ### Multiple languages / [Other](#other-1)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 18 - Jan 24, 2021
 
-53 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -150,7 +150,7 @@
 ### Libraries / GUI
 
 *   [ImGui (⭐54k)](https://github.com/ocornut/imgui)
-    *   [imgui-rs (⭐2.5k)](https://github.com/imgui-rs/imgui-rs) — Rust bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
+    *   [imgui-rs (⭐2.5k)](https://github.com/imgui-rs/imgui-rs) — Bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
 
 ## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -158,7 +158,222 @@
 
 *   [nbgitpuller (⭐183)](https://github.com/jupyterhub/nbgitpuller) - Sync a git repository one-way to a local path.
 
-## [6. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [6. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### 版本控制
+
+*   [Git-Cheat-Sheet (⭐1.2k)](https://github.com/flyhigher139/Git-Cheat-Sheet) - flyhigher139
+*   [Pro Git 第二版 中文版](https://bingohuang.gitbooks.io/progit2/content) - Bingo Huang
+
+### 编程艺术
+
+*   [编程入门指南](http://www.kancloud.cn/kancloud/intro-to-prog/52592)
+*   [程序员编程艺术 (⭐21k)](https://github.com/julycoding/The-Art-Of-Programming-by-July)
+*   [每个程序员都应该了解的内存知识 (第一部分)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1)
+
+### 编译原理
+
+*   [《计算机程序的结构和解释》公开课 翻译项目 (⭐11k)](https://github.com/DeathKing/Learning-SICP)
+
+### 操作系统
+
+*   [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
+*   [理解Linux进程 (⭐988)](https://github.com/tobegit3hub/understand_linux_process)
+*   [命令行的艺术 (⭐144k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+*   [鸟哥的 Linux 私房菜 服务器架设篇](http://cn.linux.vbird.org/linux_server/)
+*   [鸟哥的 Linux 私房菜 基础学习篇](http://cn.linux.vbird.org/linux_basic/linux_basic.php)
+*   [嵌入式 Linux 知识库 (eLinux.org 中文版)](https://tinylab.gitbooks.io/elinux/content/zh/)
+*   [Docker中文指南 (⭐2.7k)](https://github.com/widuu/chinese_docker)
+*   [Linux Documentation (中文版)](https://tinylab.gitbooks.io/linux-doc/content/zh-cn/)
+*   [Linux Guide for Complete Beginners](http://happypeter.github.io/LGCB/book/)
+
+### 程序员杂谈
+
+*   [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
+
+### 大数据
+
+*   [面向程序员的数据挖掘指南](http://dataminingguide.books.yourtion.com)
+*   [数据挖掘中经典的算法实现和详细的注释 (⭐3.8k)](https://github.com/linyiqun/DataMiningAlgorithm)
+*   [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
+
+### 分布式系统
+
+*   [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf) (PDF)
+
+### 软件开发方法
+
+*   [傻瓜函数编程 (⭐1.8k)](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn) (《Functional Programming For The Rest of Us》中文版)
+*   [硝烟中的 Scrum 和 XP](http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches)
+
+### 计算机图形学
+
+*   [LearnOpenGL CN](https://learnopengl-cn.github.io)
+*   [OpenGL 教程 (⭐798)](https://github.com/zilongshanren/opengl-tutorials)
+
+### 其它
+
+*   [深入理解并行编程](http://ifeve.com/perfbook/)
+*   [SAN 管理入门系列](https://community.emc.com/docs/DOC-16067)
+*   [Sketch 中文手册](http://sketchcn.com/sketch-chinese-user-manual.html#introduce)
+
+### 项目相关
+
+*   [编码规范 (⭐4.6k)](https://github.com/ecomfe/spec)
+*   [开源软件架构](http://www.ituring.com.cn/book/1143)
+*   [让开发自动化系列专栏](https://wizardforcel.gitbooks.io/ibm-j-ap)
+*   [追求代码质量](https://wizardforcel.gitbooks.io/ibm-j-cq)
+
+### 在线教育
+
+*   [51CTO学院](http://edu.51cto.com)
+*   [黑马程序员](http://yun.itheima.com)
+*   [汇智网](http://www.hubwiz.com)
+*   [极客学院](http://www.jikexueyuan.com)
+*   [计蒜客](http://www.jisuanke.com)
+*   [慕课网](http://www.imooc.com/course/list)
+*   [Codecademy](https://www.codecademy.com/?locale_code=zh)
+*   [CodeSchool](https://www.codeschool.com)
+*   [Coursera](https://www.coursera.org/courses?orderby=upcoming\&lngs=zh)
+*   [Learn X in Y minutes](https://learnxinyminutes.com)
+*   [shiyanlou](https://www.shiyanlou.com)
+*   [TeamTreeHouse](https://teamtreehouse.com)
+*   [Udacity](https://www.udacity.com)
+*   [xuetangX](https://www.xuetangx.com)
+
+### 正则表达式
+
+*   [正则表达式-菜鸟教程](http://www.runoob.com/regexp/regexp-tutorial.html)
+*   [正则表达式30分钟入门教程](https://web.archive.org/web/20161119141236/http://deerchao.net:80/tutorials/regex/regex.htm)
+
+### 智能系统
+
+*   [一步步搭建物联网系统 (⭐2.2k)](https://github.com/phodal/designiot)
+
+### Web
+
+*   [浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
+*   [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
+*   [前端开发体系建设日记 (⭐23k)](https://github.com/fouber/blog/issues/2)
+*   [前端资源分享（二） (⭐520)](https://github.com/hacke2/hacke2.github.io/issues/3)
+*   [前端资源分享（一） (⭐520)](https://github.com/hacke2/hacke2.github.io/issues/1)
+*   [移动前端开发收藏夹 (⭐1.7k)](https://github.com/hoosin/mobile-web-favorites)
+*   [移动Web前端知识库 (⭐9.6k)](https://github.com/AlloyTeam/Mars)
+*   [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
+*   [Chrome 开发者工具中文手册 (⭐2.3k)](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
+*   [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
+*   [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
+*   [Growth: 全栈增长工程师指南 (⭐7.7k)](https://github.com/phodal/growth-ebook)
+*   [Grunt中文文档](http://www.gruntjs.net)
+*   [Gulp 入门指南 (⭐1.8k)](https://github.com/nimojs/gulp-book)
+*   [gulp中文文档](http://www.gulpjs.com.cn/docs/)
+*   [HTTP 接口设计指北 (⭐2.5k)](https://github.com/bolasblack/http-api-guide)
+*   [JSON风格指南 (⭐1.4k)](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
+
+### WEB服务器
+
+*   [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
+*   [Nginx教程从入门到精通](http://www.ttlsa.com/nginx/nginx-stu-pdf/) - 运维生存时间 (PDF)
+*   [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) - 淘宝团队
+
+### AWK
+
+*   [awk中文指南](http://awk.readthedocs.org/en/latest/index.html)
+
+### C
+
+*   [新概念 C 语言教程 (⭐466)](https://github.com/limingth/NCCL)
+
+### C++
+
+*   [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
+*   [C++ 并发编程指南 (⭐5.1k)](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
+
+### CoffeeScript
+
+*   [CoffeeScript 编码风格指南 (⭐45)](https://github.com/geekplux/coffeescript-style-guide)
+*   [CoffeeScript 中文](http://coffee-script.org)
+
+### Elixir
+
+*   [Elixir Getting Started 中文翻译 (⭐120)](https://github.com/Ljzn/ElixrGettingStartedChinese)
+
+### Golang
+
+*   [学习Go语言](http://mikespook.com/learning-go/)
+*   [Go 编程基础 (⭐8.9k)](https://github.com/Unknwon/go-fundamental-programming)
+*   [Go 入门指南 (⭐34k)](https://github.com/Unknwon/the-way-to-go_ZH_CN) (《The Way to Go》中文版)
+*   [Go 语言实战笔记 (⭐259)](https://github.com/rujews/go-in-action-notes)
+*   [Go 指南](https://tour.go-zh.org/list) (《A Tour of Go》中文版)
+
+### HTML and CSS
+
+*   [前端代码规范](http://alloyteam.github.io/CodeGuide/) - 腾讯AlloyTeam团队
+*   [通用 CSS 笔记、建议与指导 (⭐645)](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
+*   [学习CSS布局](http://zh.learnlayout.com)
+
+### iOS
+
+*   [网易斯坦福大学公开课：iOS 7应用开发字幕文件 (⭐293)](https://github.com/jkyin/Subtitle)
+
+### Java
+
+*   [用jersey构建REST服务 (⭐169)](https://github.com/waylau/RestDemo)
+*   [Java 编码规范 (⭐204)](https://github.com/waylau/java-code-conventions)
+*   [Java Servlet 3.1 规范 (⭐163)](https://github.com/waylau/servlet-3.1-specification)
+
+### JavaScript
+
+*   [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html) - kangax、为之漫笔(翻译) (原始地址无法打开，所以此处地址为justjavac博客上的备份)
+*   [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) - 开源中国
+*   [《JavaScript 模式》 (⭐342)](https://github.com/jayli/javascript-patterns) (《JavaScript patterns》译本)
+*   [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
+
+### LaTeX / Zepto.js
+
+*   [一份不太简短的 LaTeX2ε 介绍](http://ctan.org/pkg/lshort-zh-cn)
+
+### Markdown / Zepto.js
+
+*   [Markdown 語法說明](https://markdown.tw)
+
+### NoSQL / Zepto.js
+
+*   [带有详细注释的 Redis 2.6 代码 (⭐2.3k)](https://github.com/huangz1990/annotated_redis_source)
+*   [带有详细注释的 Redis 3.0 代码 (⭐9.8k)](https://github.com/huangz1990/redis-3.0-annotated)
+
+### PHP / Zepto.js
+
+*   [PHP中文手册](http://php.net/manual/zh/)
+
+### Python / Symfony
+
+*   [深入 Python 3 (⭐26)](https://github.com/jiechic/diveintopython3)
+*   [Python Cookbook第三版](http://python3-cookbook.readthedocs.io/zh_CN/latest/) - David Beazley、Brian K.Jones、熊能(翻译)
+
+### R / Django
+
+*   [R 导论](http://cran.r-project.org/doc/contrib/Ding-R-intro_cn.pdf) (《An Introduction to R》中文版) (PDF)
+
+### Ruby / Django
+
+*   [笨方法学 Ruby](http://lrthw.github.io)
+*   [Ruby 风格指南 (⭐124)](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
+
+### Rust / Django
+
+*   [通过例子学习 Rust (⭐130)](https://github.com/rustcc/rust-by-example/)
+
+### Shell / Django
+
+*   [Shell 编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
+*   [shell-book](http://me.52fhy.com/shell-book/)
+
+### Visual Prolog / Deno
+
+*   [Visual Prolog 7初学指南](http://wiki.visual-prolog.com/index.php?title=A_Beginners_Guide_to_Visual_Prolog_in_Chinese)
+
+## [7. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Models and Projects / JAX
 
@@ -189,13 +404,13 @@
 *   [Understanding Autodiff with JAX by Srihari Radhakrishna](https://www.radx.in/jax.html) - Understand how autodiff works using JAX.
 *   [From PyTorch to JAX: towards neural net frameworks that purify stateful code by Sabrina J. Mielke](https://sjmielke.com/jax-purify.htm) - Showcases how to go from a PyTorch-like style of coding to a more Functional-style of coding.
 
-## [7. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [8. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Projects / Boilerplate
 
 *   [launchr (⭐224)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
 
-## [8. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
+## [9. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
 ### Topic Areas / Comprehensive R Tutorials
 
@@ -207,7 +422,7 @@
 
 *   [Data Science in Education Using R](https://datascienceineducation.com/) - This book is primarily about learning to use R as a tool for data science in education. Authors: Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez.
 
-## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [10. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
@@ -217,7 +432,7 @@
 
 *   🎓 [Typographic defaults in Tailwind CSS](https://www.themes.dev/blog/typographic-defaults-in-tailwind-css/)
 
-## [10. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [11. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Simulators / Object detection and object tracking
 
@@ -238,13 +453,13 @@
 *   [Awesome SLAM datasets :octocat: (⭐1.5k)](https://github.com/youngguncho/awesome-slam-datasets#readme)
 *   [Awesome vehicle security and car hacking :octocat: (⭐2.7k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
-## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [12. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Node.js management
 
 *   [fnm (⭐14k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
 
-## [12. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [13. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -254,7 +469,7 @@
 
 *   [97 Things Every SRE Should Know](https://www.oreilly.com/library/view/97-things-every/9781492081487/)
 
-## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### HTTP
 
@@ -264,13 +479,13 @@
 
 *   [Quickenshtein (⭐265)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
 
-## [14. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [15. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
 *   [Introduction to Quantum Computing](https://home.cern/news/announcement/computing/online-introductory-lectures-quantum-computing-6-november) - Online introductory lectures on quantum computing by CERN (European Organization for Nuclear Research).
 
-## [15. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
+## [16. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
 ### Projects / Smart Home and IoT
 
@@ -284,13 +499,13 @@
 
 *   [CanAirIO SensorLib (⭐25)](https://github.com/kike-canaries/canairio_sensorlib#canairio-air-quality-sensors-library) - ESP32/8266 library with auto-configuration of multiple PM2.5, CO2 and environment sensors.
 
-## [16. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [17. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Blog posts and opinions
 
 *   [Contributing to Prometheus](https://atibhiagrawal.medium.com/contributing-to-prometheus-2bf35bd28256) - Contributing to Prometheus by Atibhi Agrawal.
 
-## [17. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [18. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Interactivity
 
@@ -300,15 +515,15 @@
 
 *   [iRobot](https://www.irobot.de/) - Manufacturer of vacuuming and mopping robots.
 
-## [18. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [19. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Database Drivers
 
-*   SQlite - [awesome-sqlite (⭐229)](https://github.com/planetopendata/awesome-sqlite)
-    *   [sqlite3](https://docs.python.org/3/library/sqlite3.html) - (Python standard library) SQlite interface compliant with DB-API 2.0
-    *   [SuperSQLite (⭐711)](https://github.com/plasticityai/supersqlite) - A supercharged SQLite library built on top of [apsw (⭐648)](https://github.com/rogerbinns/apsw).
+*   SQlite - [awesome-sqlite (⭐276)](https://github.com/planetopendata/awesome-sqlite)
+    *   [sqlite3](https://docs.python.org/3/library/sqlite3.html) - (Python standard library) SQlite interface compliant with DB-API 2.0.
+    *   [sqlite-utils (⭐1.4k)](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases.
 
-## [19. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [20. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Audio
 
@@ -519,19 +734,19 @@
 *   [guide.encode.moe (⭐133)](https://github.com/Irrational-Encoding-Wizardry/guide.encode.moe) - A anime RIPPER manual. \[English]
 *   [notify.moe (⭐331)](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available. \[English]
 
-## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [21. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / DNS
 
-*   [blocky (⭐3.3k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go/Docker`
+*   [blocky (⭐3.4k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go/Docker`
 
-## [21. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [22. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Tools
 
 *   [Keycloak Pulumi (⭐28)](https://github.com/pulumi/pulumi-keycloak)
 
-## [22. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [23. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Evaluation
 
@@ -541,13 +756,13 @@
 
 *   [2020: The Curious Case of Neural Text Degeneration](https://openreview.net/forum?id=rygGQyrFvH)
 
-## [23. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Natural Language Processing
 
 *   [Rasa (⭐18k)](https://github.com/RasaHQ/rasa) - A "machine learning framework to automate text-and voice-based conversations."
 
-## [24. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [25. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### 2D / Godot 3.2+
 
@@ -559,7 +774,7 @@
 
 ### Plugins and scripts / Godot version unknown
 
-*   [GDSerCommPlugin (⭐61)](https://github.com/NangiDev/GDSerCommPlugin) - A plugin to read Arduino serial input (needs custom engine modules).
+*   [GDSerCommPlugin (⭐62)](https://github.com/NangiDev/GDSerCommPlugin) - A plugin to read Arduino serial input (needs custom engine modules).
 
 ### Modules / Various Godot versions
 
@@ -574,7 +789,7 @@
 *   [godotcord (⭐52)](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
 *   [godot-apple-id (⭐32)](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
 *   [Godot-Slicer (⭐110)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐1.7k)](https://github.com/DavidArayan/ezy-slice) for Godot.
-*   [Goost (⭐453)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
+*   [Goost (⭐456)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
 *   [PortAudio (⭐13)](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use [PortAudio](http://www.portaudio.com).
 
 ### Modules / Godot 3.1
@@ -601,13 +816,13 @@
 
 *   [gd2cs.py (⭐73)](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
 
-## [25. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
+## [26. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
 
 ### Forms and Templates
 
 *   [ostrio:templatehelpers (⭐34)](https://github.com/VeliovGroup/Meteor-Template-helpers) - Utility helpers for your Blaze templates.
 
-## [26. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [27. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Infrastructure as Code Analysis / Containers
 
@@ -617,17 +832,17 @@
 
 *   [Regula (⭐908)](https://github.com/fugue/regula) - *Fugue* - Evaluate Terraform infrastructure-as-code for potential security misconfigurations and compliance violations prior to deployment.
 
-## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
-*   [phx\_gen\_auth (⭐782)](https://github.com/aaronrenner/phx_gen_auth) - An authentication system generator for Phoenix 1.5 applications.
+*   [phx\_gen\_auth (⭐780)](https://github.com/aaronrenner/phx_gen_auth) - An authentication system generator for Phoenix 1.5 applications.
 
 ### Security
 
-*   [Ockam (⭐4.2k)](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
+*   [Ockam (⭐4.3k)](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
 
-## [28. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [29. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tutorials
 
@@ -649,38 +864,38 @@
 
 *   [tmux 2: Productive Mouse-Free Development](https://pragprog.com/book/bhtmux2/tmux-2/)
 
-## [29. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+## [30. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### Libraries for driving the protocol (or a layer above)
 
 *   Java: [jvppeteer (⭐468)](https://github.com/fanyong920/jvppeteer)  - Headless Chrome For Java
 *   Go: [Rod (⭐2.9k)](https://github.com/go-rod/rod)
 
-## [30. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [31. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [embassy (⭐0)](https://github.com/akiles/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
 
-## [31. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [32. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Resources / Packages
 
-*   [Resource Links (⭐245)](https://github.com/spatie/laravel-resource-links) - Laravel package for adding links to API resources.
+*   [Resource Links (⭐243)](https://github.com/spatie/laravel-resource-links) - Laravel package for adding links to API resources.
 
-## [32. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [33. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CRM
 
-*   [Hitobito (⭐325)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito (⭐334)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
-## [33. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [34. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Sitemap generator for NextJS & StrAPI (⭐6)](https://github.com/stovv/next-strapi-sitemap) - 🦾 An additional server on express that runs alongside nextjs and regenerates sitemap ( with index sitemap ) and robots.txt files on request from STR API.
 
-## [34. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [35. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Tools / Custom Time Series
 
@@ -692,13 +907,13 @@
 *   [Cassandra Nagios (⭐5)](https://github.com/causes/cassandra-nagios) - Perl Based scripts to get metrics for monitoring using Jolokia.
 *   [Cassandra StatD Agent (⭐13)](https://github.com/lookout/cassandra-statsd-agent) - Java Agent for Cassandra integration with StatsD.
 
-## [35. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [36. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
 
 *   Fiddy - <https://fiddy.co>
 
-## [36. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Code Search and Browsing
 
@@ -735,14 +950,14 @@
 
 *   [GraphComment](https://graphcomment.com/) - GraphComment is a comments platform that helps you build an active community from the website’s audience.
 
-## [37. Amas](/content/sindresorhus/amas/week/README.md)
+## [38. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Sindre Sorhus (⭐128)](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://avajs.dev), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io).
 *   [Lali Akhil Raj](https://github.com/Lalisfeed/ama) - Creating stuff for web & AI.
 
-## [38. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [39. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Utils & Infra / Navigation Demos
 
@@ -752,19 +967,19 @@
 
 *   [fetch ★10 (⭐28)](https://github.com/react-native-community/fetch) - A fetch API polyfill for React Native with text streaming support.
 
-## [39. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [40. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Algorithms, Containers and Protocols / Apache License
 
 *   [az3 (⭐6)](https://github.com/Componolit/AZ3) - Ada binding for Z3.
 
-## [40. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [41. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Social Networks
 
 *   [GNU/consensus](https://gnu.org/consensus) is a GNU project to coordinate development efforts of free software for social networking. It recommends using the [AGPLv3+ license](https://gnu.org/licenses/agpl) and aims to inform free software developers about interesting projects and perspectives for a decentralized, freedom-respecting, and privacy-respecting online social networking environment. The GNU/consensus promotes convergence towards the use of the extensible [GNUnet Social API](https://gnunet.org/design-social-messaging-system).
 
-## [41. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [42. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Databases / ORMs
 
@@ -775,7 +990,7 @@
 
 *   [Deploy a Dockerized FastAPI App to Google Cloud Platform](https://towardsdatascience.com/deploy-a-dockerized-fastapi-app-to-google-cloud-platform-24f72266c7ef) - A short guide to deploying a Dockerized Python app to Google Cloud Platform using Cloud Run and a SQL instance.
 
-## [42. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [43. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Books
 
@@ -819,7 +1034,7 @@
 
 
 
-## [43. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [44. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Demo
 
@@ -838,7 +1053,7 @@
 *   [Speak 3 starter template (⭐0)](https://github.com/Mitya88/SitecoreSpeak3StarterProject) - Speak 3 starter template generated with Angular CLI version 1.2.7.
 *   [Sitecore Speak UI Library (⭐2)](https://github.com/Mitya88/SitecoreSpeakUILibrary) - Speak 3 components generated with Angular CLI version 1.2.7.
 
-## [44. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [45. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Unity SDK
 
@@ -852,31 +1067,31 @@
 
 *   [jordanpotti/AWSBucketDump :fire::fire::fire::fire: (⭐1.2k)](https://github.com/jordanpotti/AWSBucketDump) - Security Tool to Look For Interesting Files in S3 Buckets.
 
-## [45. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [46. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Window Management
 
 *   [IntelliDock](https://mightymac.app/intellidock/) - Hides the Dock, Automatically.
 
-## [46. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [47. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
 *   [Security Onion](http://blog.securityonion.net/) - Security Onion is a Linux distro for intrusion detection, network security monitoring, and log management. It's based on Ubuntu and contains Snort, Suricata, Zeek, OSSEC, Sguil, Squert, Snorby, ELSA, Xplico, NetworkMiner, and many other security tools. The easy-to-use Setup wizard allows you to build an army of distributed sensors for your enterprise in minutes!
 
-## [47. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
+## [48. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
 
 ### C Sharp
 
 *   [Code Hero](http://www.codehero.org) - A first-person coding puzzle platformer that equips you with a code ray that casts C# at your target.
 
-## [48. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [49. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Blog Posts & Talks / Multi-accounts setup
 
 *   [Custom Resources with AWS CDK](https://medium.com/cyberark-engineering/custom-resources-with-aws-cdk-d9a8fad6b673?source=friends_link\&sk=549fcf9d998bbea304bdd8d834aca9e6) - By Roy Ben-Yosef.
 
-## [49. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [50. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Database
 
@@ -887,7 +1102,7 @@
 
 *   [lmgrep (⭐188)](https://github.com/dainiusjocas/lucene-grep)
 
-## [50. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [51. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -898,7 +1113,7 @@
 *   [Second Career Devs](https://secondcareerdevs.com/) - Each episode of the Second Career Devs podcast focuses on a guest who became a software engineer after a previous career.
 *   [The Hackersploit Podcast](https://www.listennotes.com/podcasts/the-hackersploit-podcast-alexis-rwTafnO1K9c/) - The HackerSploit podcast is aimed at educating anyone interested in Infosec, Hacking or Cybersecurity.
 
-## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [52. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -908,7 +1123,7 @@
 
 *   [v-fetch (⭐6)](https://github.com/shaynekasai/v-fetch) - Vue.js directive to make AJAX requests.
 
-## [52. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [53. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Frameworks and Stacks
 
@@ -926,15 +1141,15 @@
 
 *   [PyQtGraph (⭐3.2k)](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications.
 
-## [53. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [54. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Gaming
 
-*   [Games of Coding (⭐1.7k)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
+*   [Games of Coding (⭐1.8k)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
 
 ### Miscellaneous
 
-*   [Web Monetization (⭐275)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
+*   [Web Monetization (⭐278)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
 
 ---
 

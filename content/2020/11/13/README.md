@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 13, 2020
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -31,39 +31,33 @@
 
 *   [Wardley Maps for Jupyter Notebooks (ipywardley) (⭐19)](https://github.com/anjackson/ipywardley) - A plugin for generating Wardley maps in Jupyter Notebooks.
 
-## [5. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### Enterprise Application Integrations
-
-*   [Zato](https://zato.io) - ESB, SOA, REST, APIs and Cloud Integrations in Python.
-
-## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💙 [Forms (⭐3.7k)](https://github.com/tailwindlabs/tailwindcss-forms) - Adds better default styles to form elements.
+*   💙 [Forms (⭐3.8k)](https://github.com/tailwindlabs/tailwindcss-forms) - Adds better default styles to form elements.
 *   🛑🧩💙 [Custom Forms (⭐1.6k)](https://github.com/tailwindlabs/tailwindcss-custom-forms) - Adds better default styles to form elements.
-*   🛑💙💼 [Aspect Ratio (⭐891)](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - Adds composable aspect ratio utilities.
+*   🛑💙💼 [Aspect Ratio (⭐900)](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - Adds composable aspect ratio utilities.
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Pagination / Barcode
 
 *   [iPages (⭐168)](https://github.com/benjaminsage/iPages) - Quickly implement swipable page views in SwiftUI 📝.
 
-## [8. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [7. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Recruitment / Hiring Process
 
 *   [A Good Tech Resume](https://thetechresume.com/A_Good_Tech_Resume.pdf) - A compilation of advices and example, but containing a good description of a typical hiring pipeline.
 
-## [9. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [8. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Metrics Monitor / Meetups
 
 *   [Bytes Matter Real User Monitoring](https://www.bytesmatter.io) - Full featured Real User Monitoring solution. Free tier for smaller sites. Includes monitoring for Google's Core Web Vitals.
 
-## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [9. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Development Environment / Debugging and Tracing
 
@@ -74,25 +68,25 @@
 
 *   [fields-ignition (⭐48)](https://github.com/azazdeaz/fields-ignition) - Generate random crop fields for Ignition Gazebo.
 
-## [11. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [10. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Papers and Articles
 
 *   [2020: Evaluating the state-of-the-art of End-to-End Natural Language Generation: The E2E NLG challenge](https://www.sciencedirect.com/science/article/pii/S0885230819300919)
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [object-visualizer (⭐218)](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme.
 
-## [13. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [12. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Games
 
 *   [SwiftFortuneWheel (⭐310)](https://github.com/sh-khashimov/SwiftFortuneWheel) - A cross-platform framework for games like a Wheel of Fortune.
 
-## [14. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [13. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Large Source Code Examples
 
@@ -108,7 +102,7 @@
 *   [WHY3](https://gitlab.inria.fr/why3/why3) - platform for deductive program verification
 *   [xen-api (⭐337)](https://github.com/xapi-project/xen-api) - management stack that configures and controls Xen-enabled hosts and resource pools, and co-ordinates resources within the pool.
 
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / IDEs
 

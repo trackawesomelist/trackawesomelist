@@ -10,7 +10,7 @@
 
 ### Data Generators
 
-*   [faker (⭐141)](https://github.com/askn/faker) - A library for generating fake data
+*   [faker (⭐142)](https://github.com/askn/faker) - A library for generating fake data
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Macros
 
-*   [ok\_jose (⭐98)](https://github.com/vic/ok_jose) - Pipe elixir functions that match `{:ok,_}`, `{:error,_}` tuples or custom patterns.
+*   [ok\_jose (⭐100)](https://github.com/vic/ok_jose) - Pipe elixir functions that match `{:ok,_}`, `{:error,_}` tuples or custom patterns.
 
 ## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 

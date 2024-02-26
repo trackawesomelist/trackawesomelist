@@ -26,7 +26,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-imagemin (⭐8)](https://github.com/vHeemstra/vite-plugin-imagemin) - Optimize and compress your image assets and optionally create WebP/AVIF.
+*   [vite-plugin-imagemin (⭐11)](https://github.com/vHeemstra/vite-plugin-imagemin) - Optimize and compress your image assets and optionally create WebP/AVIF.
 
 ## [4. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 

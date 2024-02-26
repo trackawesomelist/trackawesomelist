@@ -71,13 +71,13 @@
 
 ### Audio
 
-*   [Verovio (⭐608)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
+*   [Verovio (⭐609)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
 
 ## [8. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Command-line tools
 
-*   [json-dotenv (⭐6)](https://github.com/decryptus/json-dotenv) - Manipulate and extract envfiles in json format.
+*   [json-dotenv (⭐8)](https://github.com/decryptus/json-dotenv) - Manipulate and extract envfiles in json format.
 
 ### Online tools
 

@@ -29,7 +29,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot SQLite (⭐656)](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project (Godot 3.2+).
+*   [Godot SQLite (⭐672)](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project (Godot 3.2+).
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Related Awesome Lists / Deforum
 
-*   [margaretmz/awesome-ai-art-design (⭐26)](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
+*   [margaretmz/awesome-ai-art-design (⭐28)](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
 *   [justinpinkney/awesome-pretrained-stylegan2 (⭐1.2k)](https://github.com/justinpinkney/awesome-pretrained-stylegan2): A collection of pre-trained StyleGAN 2 models to download
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
@@ -158,7 +158,7 @@
 
 ### Reading and Writing Tools / Journaling
 
-*   [linked (⭐811)](https://github.com/lostdesign/linked) - Link your thoughts to days, distraction free. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
+*   [linked (⭐822)](https://github.com/lostdesign/linked) - Link your thoughts to days, distraction free. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 
 ### Audio and Video Tools / File Sharing
 

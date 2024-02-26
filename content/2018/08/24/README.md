@@ -1,30 +1,24 @@
 # Awesome List Updates on Aug 24, 2018
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Computer Science](/content/ossu/computer-science/README.md)
-
-### How to show your progress / Which programming languages should I use?
-
-*   `Extra Resources`: cards with that label represent courses that were added by the student.
-
-## [2. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
+## [1. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 
 ### Blogs
 
 *   [Healthy Enough](http://healthyenough.net/) - Helping you become as fit and healthy as possible.
 
-## [3. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [2. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Remote Code Execution
 
 *   [Remote Code Execution on a Facebook server](https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/) - Written by [@blaklis\_](https://twitter.com/blaklis_).
 
-## [4. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [3. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Articles
 
@@ -44,38 +38,38 @@
 
 *   [talking-with-cars (⭐103)](https://github.com/P1kachu/talking-with-cars) - CAN related scripts, and scripts to use a car as a gamepad
 
-## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [4. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Plugins / IRC
 
 *   [Imposter-Plugin (⭐125)](https://github.com/typisttech/imposter-plugin) - Wrapping all composer vendor packages inside your own namespace. Intended for WordPress plugins.
 
-## [6. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [5. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Resources / Blogs
 
 *   [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/) - Blog with in-depth examples of practical application of cheminformatics.
 
-## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Utilities / Game Engine resources
 
 *   [FlutterIcon](http://fluttericon.com/) <!--stargazers:ilikerobots/polyicon--> - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots)
 
-## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Post-Mortem
 
 *   [Post-mortems to the rescue](https://increment.com/documentation/post-mortems-to-the-rescue/)
 *   [Postmortem Action Items: Plan the Work and Work the Plan](https://ai.google/research/pubs/pub45906)
 
-## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### C bindings
 
 *   [syslog.cr (⭐10)](https://github.com/chris-huxtable/syslog.cr) - Bindings for `syslog`
 
-## [10. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [9. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Code Analysis and Linters
 
@@ -106,7 +100,7 @@
 
 *   [owl (⭐1.1k)](https://github.com/owlbarn/owl) - OCaml numerical library: dense and sparse matrix, linear algebra, regressions, maths and stats functions.
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
@@ -116,7 +110,7 @@
 
 *   [querybuilder (⭐2.8k)](https://github.com/sqlkata/querybuilder) - SqlKata Query Builder is a powerful Sql Query Builder written in C#.
 
-## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / .NET SDK
 

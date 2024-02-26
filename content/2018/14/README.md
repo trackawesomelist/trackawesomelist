@@ -73,15 +73,15 @@
 
 ### Command-Line Productivity
 
-*   [q (⭐65)](https://github.com/cal2195/q) - Vim like macro registers for your Bash and Zsh Shell
+*   [q (⭐67)](https://github.com/cal2195/q) - Vim like macro registers for your Bash and Zsh Shell
 
 ### For Developers / Directory Navigation
 
-*   [licins (⭐22)](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
+*   [licins (⭐23)](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
 
 ### System Utilities / Directory Navigation
 
-*   [progress (⭐7.9k)](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
+*   [progress (⭐8.1k)](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
 *   [stronghold (⭐1k)](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
 *   [xiringuito (⭐1.1k)](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 
@@ -91,7 +91,7 @@
 
 ### Games / Directory Navigation
 
-*   [piu-piu (⭐712)](https://github.com/vaniacer/piu-piu-SH) - Horizontal scroller game in bash with multiplayer mode!
+*   [piu-piu (⭐721)](https://github.com/vaniacer/piu-piu-SH) - Horizontal scroller game in bash with multiplayer mode!
 
 ### Shell Script Development / Directory Navigation
 
@@ -111,7 +111,7 @@
 
 ### ORM/ODM Extensions
 
-*   [granite (⭐292)](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
+*   [granite (⭐293)](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
 
 ## [11. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -355,7 +355,7 @@
 
 ### Debug
 
-*   [Nanotimer (⭐121)](https://github.com/mattreecebentley/plf_nanotimer) - A simple low-overhead cross-platform timer class for benchmarking. \[zLib] [website](http://www.plflib.org/nanotimer.htm)
+*   [Nanotimer (⭐123)](https://github.com/mattreecebentley/plf_nanotimer) - A simple low-overhead cross-platform timer class for benchmarking. \[zLib] [website](http://www.plflib.org/nanotimer.htm)
 
 ### Sorting
 
@@ -375,7 +375,7 @@
 ### Interactive Interpreter
 
 *   [Jupyter Notebook (IPython)](https://jupyter.org) - A rich toolkit to help you make the most out of using Python interactively.
-    *   [awesome-jupyter (⭐3.4k)](https://github.com/markusschanta/awesome-jupyter)
+    *   [awesome-jupyter (⭐3.7k)](https://github.com/markusschanta/awesome-jupyter)
 
 ## [25. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 

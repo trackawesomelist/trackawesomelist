@@ -35,7 +35,7 @@
 
 ### Icons
 
-*   [react-open-doodles (⭐61)](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
+*   [react-open-doodles (⭐63)](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -136,7 +136,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Software / Vector Utilities
 
-*   [vpype (⭐629)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
+*   [vpype (⭐639)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 
 ### Software / Fonts
 
