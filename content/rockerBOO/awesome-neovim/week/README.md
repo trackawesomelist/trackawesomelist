@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
+### Programming Languages Support / Diagnostics
+
+*   [dmmulroy/ts-error-translator.nvim (⭐39)](https://github.com/dmmulroy/ts-error-translator.nvim) - A port of Matt Pocock's ts-error-translator for VSCode for turning messy and confusing TypeScript errors into plain English.
+
 ### Markdown and LaTeX / Diagnostics
 
 *   [Myzel394/easytables.nvim (⭐34)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables with a live preview and useful helpers.

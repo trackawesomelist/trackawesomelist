@@ -12,6 +12,16 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Dittto.ai](https://dittto.ai): Fix your hero copy with an AI trained on top SaaS websites.
 
+### Prompt Engineering / Prompt Optimizers
+
+*   \[🔥🔥🔥] [stanfordnlp/dspy (⭐6.9k)](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming — not prompting — foundation models
+*   [vaibkumr/prompt-optimizer (⭐201)](https://github.com/vaibkumr/prompt-optimizer): Minimize LLM token complexity to save API costs and model computations.
+*   [PromptPerfect](https://promptperfect.jina.ai/): "Optimize Your Prompts to Perfection"
+
+### Auxiliary tools and concepts / Deforum
+
+*   [Inline Help](https://inlinehelp.com): Answer customer questions before they ask
+
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
 
 ### Courses and Educational Materials
@@ -79,12 +89,15 @@ A curated list of Generative AI tools, works, models, and references
 ### Large Language Models (LLMs)
 
 *   [rasbt/LLMs-from-scratch (⭐9.4k)](https://github.com/rasbt/LLMs-from-scratch): Implementing a ChatGPT-like LLM from scratch, step by step
-*   \[🔥🔥🔥] [LLMLingua](https://llmlingua.com/): Designing a Language for LLMs via **Prompt Compression**
 
 ### Online Tools and Applications
 
 *   [Documind.chat](https://documind.chat): Chat with PDF using AI. Documind is a powerful chat with pdf tool that lets you ask questions from your pdf documents.
 *   [Snowpixel](https://snowpixel.app): Generate Images/Videos/Animations/Audio/Music/3D Objects with Text and/or Image. Upload your own data to create custom models.
+
+### Prompt Engineering / Prompt Optimizers
+
+*   \[🔥🔥🔥] [LLMLingua](https://llmlingua.com/): Designing a Language for LLMs via **Prompt Compression**
 
 ### Auxiliary tools and concepts / Deforum
 

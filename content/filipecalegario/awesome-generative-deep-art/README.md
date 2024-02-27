@@ -6,6 +6,18 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Feb 27, 2024](/content/2024/02/27/README.md)
+
+### Prompt Engineering / Prompt Optimizers
+
+*   \[🔥🔥🔥] [stanfordnlp/dspy (⭐6.9k)](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming — not prompting — foundation models
+*   [vaibkumr/prompt-optimizer (⭐201)](https://github.com/vaibkumr/prompt-optimizer): Minimize LLM token complexity to save API costs and model computations.
+*   [PromptPerfect](https://promptperfect.jina.ai/): "Optimize Your Prompts to Perfection"
+
+### Auxiliary tools and concepts / Deforum
+
+*   [Inline Help](https://inlinehelp.com): Answer customer questions before they ask
+
 ## [Feb 26, 2024](/content/2024/02/26/README.md)
 
 ### Online Tools and Applications
@@ -86,7 +98,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Feb 03, 2024](/content/2024/02/03/README.md)
 
-### Large Language Models (LLMs)
+### Prompt Engineering / Prompt Optimizers
 
 *   \[🔥🔥🔥] [LLMLingua](https://llmlingua.com/): Designing a Language for LLMs via **Prompt Compression**
 

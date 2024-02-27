@@ -1,14 +1,28 @@
 # Track Awesome Job Boards Updates Daily
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 924 · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 1.1K · 🏷️ Work
 
 [ Daily / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
+
+## [Feb 27, 2024](/content/2024/02/27/README.md)
+
+### Artificial Intelligence (AI)
+
+*   [AI Jobs Dev](https://aijobs.dev) - Discover companies looking to hire AI, ML, Data Science & Big Data engineers and connect with them
+
+### Big Data
+
+*   [AiJobsTracker](https://aijobs.18offers.com/) - Live aggregator of 400+ AI-first companies's job boards, updated daily
+
+### Programming / Aggregator
+
+*   [androiddev.careers](https://androiddev.careers/) – Job board for Android developers
 
 ## [Jan 05, 2024](/content/2024/01/05/README.md)
 
 ### Programming / Rust
 
-*   [Rust Jobs](https://www.rustjobs.com)
+*   [Rust Jobs](https://www.rustjobs.com) - A job board dedicated to the Rust programming language
 
 ### Remote / Aggregator
 
@@ -18,13 +32,13 @@
 
 ### Big Data
 
-*   [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs.
+*   [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs
 
 ## [Aug 22, 2023](/content/2023/08/22/README.md)
 
 ### Various / United Kingdom
 
-*   [ClimateTechList](https://www.climatetechlist.com/) - climate tech / green energy jobs for software engineers, PMs, & other tech professionals, live aggregator of 600 companies' job boards, updated daily.
+*   [ClimateTechList](https://www.climatetechlist.com/) - Comprehensive aggregator of 30,000+ job openings from 1,000 climate tech/clean energy companies' job boards, updated daily
 
 ## [Aug 03, 2023](/content/2023/08/03/README.md)
 
@@ -52,7 +66,7 @@
 
 ### Blockchain
 
-*   [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs.
+*   [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs
 
 ### Tech / Aggregator
 
@@ -81,10 +95,6 @@
 ### Remote / Aggregator
 
 *   [MarketRemotely](https://marketremotely.com/) - Remote marketing jobs from all over the internet
-
-### Various / United Kingdom
-
-*   [Privacy-First Jobs](https://privacyfirstjobs.com/) – Jobs in privacy-first companies and organisations.
 
 ## [Jan 11, 2023](/content/2023/01/11/README.md)
 
@@ -130,7 +140,7 @@
 
 ### Blockchain
 
-*   [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week.
+*   [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week
 
 ## [Oct 28, 2022](/content/2022/10/28/README.md)
 
@@ -146,8 +156,8 @@
 
 ### Blockchain
 
-*   [Crypto Jobs](https://www.cryptojobs.co/) - CryptoJobs.co is the web's fastest growing crypto jobs discovery platform.
-*   [Remote Web3 Jobs](https://remote3.co) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free.
+*   [Crypto Jobs](https://www.cryptojobs.co/) - CryptoJobs.co is the web's fastest growing crypto jobs discovery platform
+*   [Remote Web3 Jobs](https://remote3.co) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free
 
 ### Programming / JavaScript
 
@@ -184,11 +194,11 @@
 
 ### Programming / Go
 
-*   [Golang Works](https://golang.works-hub.com/) - Local and remote Golang opportunities, articles and open-source.
+*   [Golang Works](https://golang.works-hub.com/) - Local and remote Golang opportunities, articles and open-source
 
 ### Programming / JavaScript
 
-*   [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source.
+*   [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source
 
 ## [Jan 26, 2022](/content/2022/01/26/README.md)
 
@@ -222,7 +232,7 @@
 
 ### Programming / Rust
 
-*   [Rust Jobs](https://rustjobs.dev)
+*   [Rust Jobs](https://rustjobs.dev) - The go-to hiring platform for Rust engineering talent
 
 ### Remote / TypeScript
 
@@ -275,7 +285,7 @@
 
 ### DevOps
 
-*   [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies.
+*   [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies
 
 ## [Dec 14, 2020](/content/2020/12/14/README.md)
 
@@ -323,7 +333,7 @@
 
 ### Design
 
-*   [Authentic Jobs](https://authenticjobs.com/) - "The leading job board for designers, hackers, and creative pros."
+*   [Authentic Jobs](https://authenticjobs.com/) - The leading job board for designers, hackers, and creative pros
 
 ### Growth Hacking
 
@@ -365,7 +375,7 @@
 
 ### Tech / United Kingdom
 
-*   [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking and real-time job vacancy statistics.
+*   [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking, and real-time job vacancy statistics
 
 ## [Sep 29, 2019](/content/2019/09/29/README.md)
 
@@ -435,7 +445,7 @@
 
 ### Blockchain
 
-*   [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
+*   [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs
 
 ## [Jul 03, 2017](/content/2017/07/03/README.md)
 

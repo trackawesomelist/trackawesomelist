@@ -6,6 +6,13 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 [ [Daily](/content/ziadoz/awesome-php/README.md) / Weekly / [Overview](/content/ziadoz/awesome-php/readme/README.md) ]
 
+## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
+
+### Configuration / PHP Conferences
+
+*   [Laracon EU](https://www.youtube.com/@LaraconEU) - Laracon EU is a 2-day event for people who are interested in learning Laravel and related technologies, or who want to share their knowledge with others.
+*   [PHP\[TEK\]](https://tek.phparch.com/) - The longest-running web developer conference in the United States that has a focus on the PHP programming language.
+
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
 
 ### Table of Contents / Error Tracking and Monitoring Services
@@ -787,10 +794,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Configuration / Virtual Machines
 
 *   [Hack](https://hacklang.org/) - A programming language for HHVM.
-
-### Configuration / PHP Videos
-
-*   [Taking PHP Seriously](https://www.infoq.com/presentations/php-history/) - A talk outlining PHP's strengths by Keith Adams of Facebook.
 
 ## [May 13 - May 19, 2019](/content/2019/19/README.md)
 
@@ -1679,7 +1682,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## [Aug 03 - Aug 09, 2015](/content/2015/31/README.md)
 
-### Configuration / PHP Videos
+### Configuration / PHP Conferences
 
 *   [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
 

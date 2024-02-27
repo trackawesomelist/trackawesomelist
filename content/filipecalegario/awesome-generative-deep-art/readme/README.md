@@ -25,6 +25,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Text](#text)
     *   [Large Language Models (LLMs)](#large-language-models-llms)
         *   [Prompt Engineering](#prompt-engineering)
+            *   [Prompt Optimizers](#prompt-optimizers)
             *   [Prompt Engineering for Text-to-text](#prompt-engineering-for-text-to-text)
             *   [Prompt Engineering for Text-to-image](#prompt-engineering-for-text-to-image)
         *   [Mamba](#mamba)
@@ -422,6 +423,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Large Language Models (LLMs)
 
+*   [stanfordnlp/dspy (⭐6.9k)](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming — not prompting — foundation models
 *   [Groq](https://groq.com/): service focused on fast inference speed, providing API access to Llama 2 70B-4K and Mixtral 8x7B-32K
 *   \[🔥🔥🔥] [LLMLingua](https://llmlingua.com/): Designing a Language for LLMs via **Prompt Compression**
 *   [rasbt/LLMs-from-scratch (⭐9.4k)](https://github.com/rasbt/LLMs-from-scratch): Implementing a ChatGPT-like LLM from scratch, step by step
@@ -499,6 +501,13 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   \[🔥🔥🔥] [Prompt Engineering Guide](https://www.promptingguide.ai/): a project by DAIR.AI that intends to educate researchers and practitioners about prompt engineering
 *   [the Book](https://fedhoneypot.notion.site/25fdbdb69e9e44c6877d79e18336fe05?v=1d2bf4143680451986fd2836a04afbf4): collection of prompts and hints of prompt engineering
 *   [dair-ai/Prompt-Engineering-Guide (⭐42k)](https://github.com/dair-ai/Prompt-Engineering-Guide): Guide and resources for prompt engineering
+
+#### Prompt Optimizers
+
+*   \[🔥🔥🔥] [stanfordnlp/dspy (⭐6.9k)](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming — not prompting — foundation models
+*   [vaibkumr/prompt-optimizer (⭐201)](https://github.com/vaibkumr/prompt-optimizer): Minimize LLM token complexity to save API costs and model computations.
+*   [PromptPerfect](https://promptperfect.jina.ai/): "Optimize Your Prompts to Perfection"
+*   \[🔥🔥🔥] [LLMLingua](https://llmlingua.com/): Designing a Language for LLMs via **Prompt Compression**
 
 #### Prompt Engineering for Text-to-text
 
@@ -1182,6 +1191,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Auxiliary tools and concepts
 
+*   [Inline Help](https://inlinehelp.com): Answer customer questions before they ask
 *   [LinkActions](https://linkactions.com): AI Internal Links Assistant
 *   [Marblism](https://marblism.com): Generate a SaaS boilerplate from a prompt
 *   [SiteSpeakAI](https://sitespeak.ai): Automate your customer support with AI
