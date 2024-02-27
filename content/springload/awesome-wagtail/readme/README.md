@@ -13,7 +13,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 > A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 > [Wagtail](https://wagtail.org/) is a Python CMS powered by Django, focusing on flexibility and user experience.
 
-*You might also like [Awesome Django (⭐8.1k)](https://github.com/wsvincent/awesome-django) and [Awesome Python (⭐197k)](https://github.com/vinta/awesome-python). :snake:*
+*You might also like [Awesome Django (⭐8.2k)](https://github.com/wsvincent/awesome-django) and [Awesome Python (⭐199k)](https://github.com/vinta/awesome-python). :snake:*
 
 ## Contents
 
@@ -94,6 +94,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 *   [wagtail-generic-chooser (⭐117)](https://github.com/wagtail/wagtail-generic-chooser) - provides base classes for building chooser popups and form widgets for the Wagtail admin, matching the look and feel of Wagtail's built-in choosers for pages, documents, snippets and images.
 *   [wagtail-multi-upload (⭐17)](https://github.com/spapas/wagtail-multi-upload) - allows uploading of multiple related images for a page.
 *   [wagtail-color-panel (⭐45)](https://github.com/marteinn/wagtail-color-panel) - Introduces panels for selecting colors in Wagtail.
+*   [Wagtail Ace Editor (⭐0)](https://github.com/Nigel2392/wagtail_ace_editor) - An IDE-like code editor right in your Wagtail admin.
 
 ### StreamField
 
@@ -223,6 +224,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 *   [Wagtail Secret Sharing (⭐5)](https://github.com/vicktornl/wagtail-secret-sharing) - Keep sensitive information out of your chat logs and email via a secure sharing protocol
 *   [Wagtail Cache Invalidator (⭐4)](https://github.com/vicktornl/wagtail-cache-invalidator) - Invalidate and purge (frontend) cache via an user-friendly interface in the Wagtail CMS.
 *   [Wagtail Headless Preview (⭐114)](https://github.com/torchbox/wagtail-headless-preview) -  Previews for headless Wagtail setups
+*   [Wagtail Word (⭐0)](https://github.com/Nigel2392/wagtail_word) - A way to upload your word (.docx, .doc) documents as pages to Wagtail.
 
 ## Tools
 

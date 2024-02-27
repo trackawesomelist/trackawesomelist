@@ -6,6 +6,16 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 [ [Daily](/content/springload/awesome-wagtail/README.md) / Weekly / [Overview](/content/springload/awesome-wagtail/readme/README.md) ]
 
+## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
+
+### Apps / Widgets
+
+*   [Wagtail Ace Editor (⭐0)](https://github.com/Nigel2392/wagtail_ace_editor) - An IDE-like code editor right in your Wagtail admin.
+
+### Apps / Misc
+
+*   [Wagtail Word (⭐0)](https://github.com/Nigel2392/wagtail_word) - A way to upload your word (.docx, .doc) documents as pages to Wagtail.
+
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
 ### Tools / Templates & Starter Kits

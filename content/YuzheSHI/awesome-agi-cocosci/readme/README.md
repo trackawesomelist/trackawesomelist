@@ -61,6 +61,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
         *   [Design Theory](#design-theory)
         *   [Design Practises](#design-practises)
         *   [Domain Specified Applications](#domain-specified-applications)
+        *   [DSL Program Synthesis](#dsl-program-synthesis)
     *   [Problem Solving](#problem-solving)
         *   [Human-Level Problem Solving](#human-level-problem-solving)
         *   [Planning](#planning)
@@ -804,6 +805,12 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 *   [iContractML 2.0: A domain-specific language for modeling and deploying smart contracts onto multiple blockchain platforms](https://www.sciencedirect.com/science/article/pii/S0950584921002081) - ***Information and Software Technology***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=1548144959305241494\&hl=en\&as_sdt=0,5)]. A reference model and platform agnostic language for smart contracts.
 
 *   [Infinite Photorealistic Worlds Using Procedural Generation](https://openaccess.thecvf.com/content/CVPR2023/html/Raistrick_Infinite_Photorealistic_Worlds_Using_Procedural_Generation_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11620922717915489091\&hl=en\&as_sdt=0,5)]. \[[Website](https://infinigen.org/)]. \[[Supplementary Text](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Raistrick_Infinite_Photorealistic_Worlds_CVPR_2023_supplemental.pdf)]. This paper introduces Infinigen, a procedural generator of photorealistic 3D scenes of the natural world. Infinigen is entirely procedural: every asset, from shape to texture, is generated from scratch via randomized mathematical rules, using no external source and allowing infinite variation and composition.
+
+\*[Back to Top](#c)
+
+#### DSL Program Synthesis
+
+*   [pix2code: Generating Code from a Graphical User Interface Screenshot](https://dl.acm.org/doi/abs/10.1145/3220134.3220135) - ***ACM SIGCHI Symposium on Engineering Interactive Computing Systems***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=8296741513177971931\&as_sdt=0,5)]. \[[Code (⭐12k)](https://github.com/tonybeltramelli/pix2code)]. \[[Website](https://uizard.io/research/)]. This paper shows that deep learning methods can be leveraged to train a model end-to-end to automatically reverse engineer user interfaces and generate code from a single input image with over 77% of accuracy for three different platforms (i.e. iOS, Android and web-based technologies).
 
 \*[Back to Top](#c)
 

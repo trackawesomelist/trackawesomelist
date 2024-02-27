@@ -2,33 +2,53 @@
 
 Wardley maps community hub. Useful Wardley mapping resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/wardley-maps-community/awesome-wardley-maps/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) · ⭐ 600 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/wardley-maps-community/awesome-wardley-maps/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) · ⭐ 619 · 🏷️ Business
 
 [ [Daily](/content/wardley-maps-community/awesome-wardley-maps/README.md) / Weekly / [Overview](/content/wardley-maps-community/awesome-wardley-maps/readme/README.md) ]
 
+## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
+
+### AI
+
+*   [Learn about Wardley Maps using Claude](https://claude-chatbot.streamlit.app/) - An AI Application using Claude to help learn Wardley Maps
+*   [Learn about Wardley Maps using OpenAI](https://learnwardleymapping.streamlit.app/) - Streamlit and OpenAI application to learn Wardley Maps.
+*   [Learn about Wardley Maps using OpenAI Assistants](https://learnwardleymapping-gpt.streamlit.app/) - OpenAI Assistant application to help learn Wardley Maps.
+*   [Learn about Wardley Maps using MEMGPT](\(https://stmemgptv2.streamlit.app/\)) - Experimental Streamlit AI Assistant bot tuned on Wardley Mapping. Using MemGPT this AI Assistant has memory is divided into three parts: recall memory, core memory, and archival memory. Full source code and data provided in the [GitHub repo (⭐8)](https://github.com/tractorjuice/STMemGPT). Recall Memory: This is my short-term memory where I keep recent interactions. Core Memory: This is where I store key details about my persona and about you, the user. This gives me a 'personality' and allows for more personalized conversation. Archival Memory: This is my long-term memory where I store information that doesn't fit into core memory but is essential to remember. It's infinite in size, and I usually page through it to find answers to your questions. These parts work together to help the AI Assistant remember prior engagements, learn from them, and refer back when needed.
+
+### Development
+
+*   [Convert WM format to Many](https://wm2many.streamlit.app/) - A simple streamlit app to convert the OnlineWardleyMaps OWM format to JSON, TOML, JSON Graph and Cypher text.
+*   [Exploring Prompt Engineering using Wardley Maps](https://medium.com/prompt-engineering) - A series of blog posts about AI, Python and Wardley Mapping.
+
+### Development / ChatGPT
+
+*   [Wardley Map Analyst](https://chat.openai.com/g/g-Cic0bH5CF-wardley-map-analyst) - Analyzes and visualizes Wardley Maps from text
+*   [Learn Wardley Mapping](https://chat.openai.com/g/g-sg6zS89Hi-learn-wardley-mapping) - I guide you in learning and applying Wardley Maps.
+*   [Introduction to Wardley Mapping](https://chat.openai.com/g/g-v6OW6JOQ7-introduction-to-wardley-mapping) - A quick introduction to Wardley Mapping
+*   [Wardley Map Syntax Expert](https://chat.openai.com/g/g-6vfuL6SXd-wardley-map-syntax-expert) - Expert in analyzing and fixing Wardley Map syntax
+
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
-### Tools & Scripts / AI
+### AI
 
-*   [Learn about Wardley Maps](\(https://stmemgptv2.streamlit.app/\)) - Experimental Streamlit AI Assistant bot tuned on Wardley Mapping. Using MemGPT this AI Assistant has memory is divided into three parts: recall memory, core memory, and archival memory. Full source code and data provided in the [GitHub repo (⭐8)](https://github.com/tractorjuice/STMemGPT). Recall Memory: This is my short-term memory where I keep recent interactions. Core Memory: This is where I store key details about my persona and about you, the user. This gives me a 'personality' and allows for more personalized conversation. Archival Memory: This is my long-term memory where I store information that doesn't fit into core memory but is essential to remember. It's infinite in size, and I usually page through it to find answers to your questions. These parts work together to help the AI Assistant remember prior engagements, learn from them, and refer back when needed.
 *   [Learn Wardley Mapping Bot](https://learnwardleymapping.streamlit.app/) - Learn Wardley Mapping by chatting to a specially configured bot.
 
-### Tools & Scripts / Development
+### Development
 
 *   [Join the Wardley AI Development Group on X/Twitter](https://twitter.com/i/communities/1670015410542985218)
 
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
-### Tools & Scripts / AI
+### AI
 
 *   [Chat with Wardley YouTube content](https://wardleygpt.streamlit.app/) - Have a chat with all of Simon's YouTube content.
 
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
-### Tools & Scripts / AI
+### AI
 
-*   [Q\&A with Simon's Book](https://wardley-book-chat.streamlit.app/) - Ask Simon's book anything. Have a chat with the book.
-*   [Research Map Chat](https://wardleyresearchchat.streamlit.app/) - Have an AI chat with Simon's Research 2022 Wardley Maps.
+*   [Q\&A with Simon's Book](https://wardley-book-chat.streamlit.app/) - Have a chat with the book Ask Simon's book anything.
+*   [Research Map Chat](https://wardleyresearchchat.streamlit.app/) - Have an AI chat with Simon's Research Wardley Maps that are available on GitHub.
 
 ## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
 
@@ -38,7 +58,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
-### Tools & Scripts / Development
+### Development
 
 *   [An Exploration into Wardley Mapping Language Code](https://medium.com/@mcraddock/an-exploration-into-wardley-mapping-language-mode-aa87763a8b17) - Create your own Wardley Mapping code editor in two easy steps.
 
@@ -49,13 +69,9 @@ Wardley maps community hub. Useful Wardley mapping resources
 *   [How to Build a YouTube Video Query AI Model on Wardley Mapping with Python and OpenAI](https://medium.com/prompt-engineering/how-to-build-a-youtube-video-query-ai-model-with-python-and-openai-5b4b26cf9411) - Blog post on how to create a question & answer application AI app using OpenAI, Streamlit and Python. Full source code provided.
 *   [How to Create a Powerful Chatbot in Minutes with Streamlit and OpenAI GPT-3.5](https://medium.com/prompt-engineering/how-to-create-a-powerful-chatbot-in-minutes-with-streamlit-and-openai-gpt-3-5-7954e8e05db0) - Blog post on how to create a Wardley Map chatbot using OpenAI, Streamlit and Python. Full source code provided.
 
-### Tools & Scripts / AI
+### AI
 
-*   [Chat with your Map](https://chatwithwardleymap.streamlit.app/) - Chat to your Wardley Map. It pulls your Wardley Map from OnlineWardleyMaps or GitHub and you can have an AI chat with your map. It creates structured output that can be downloaded and used within documents. It highlights key responses that you can follow up.
-
-### Tools & Scripts / Development
-
-*   [Convert WM format to JSON](https://wm2json.streamlit.app/) - A simple streamlit app to convert the OnlineWardleyMaps OWM format to JSON.
+*   [Chat with your Map](https://chatwithwardleymap.streamlit.app/) - Chat to your Wardley Map. It pulls your Wardley Map from OnlineWardleyMaps or GitHub and you can have an AI chat with your map. It's also got a syntax checker built in. It creates structured output that can be downloaded and used within documents. It highlights key responses that you can follow up.
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
@@ -79,7 +95,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
-### Apps / Mapping
+### Mapping
 
 *   [wardleyToGo](https://owulveryck.github.io/wardleyToGo/demo/) is a SDK to do map-as-code **and** a high level language (`wtg`) to express map-as-data. The set of tools allows an easy integration of the map in CI, and the online demo allows to desing maps online.
 
@@ -109,7 +125,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ## [Mar 21 - Mar 27, 2022](/content/2022/12/README.md)
 
-### Apps / Mapping
+### Mapping
 
 *   [Excalidraw](https://excalidraw.com) - Online diagram tool creates quick and easy, handdrawn diagrams and maps. keyboard shortcut '0', browse libraries and Add the "Wardley Maps Symbols" lib.
 *   [Flowchart fun](https://flowchart.fun) - text based tool to generate quick flowcharts. Excellent way to quickly create a Value Chain - very useful in conversation or during a meeting.
@@ -122,7 +138,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ## [Oct 04 - Oct 10, 2021](/content/2021/40/README.md)
 
-### Apps / Mapping
+### Mapping
 
 *   [Glamorous Toolkit](https://gtoolkit.com) - A moldable and programmable environment in which Wardley Maps can be intertwinned with knowledge management and multi language notebooks. Follow [@feenkcom](https://twitter.com/feenkcom) to learn more.
 
@@ -145,7 +161,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 *   [Value Chains](https://design4services.com/concepts/value-chains/) - Porter Value Chain Analysis, Wardley Value Chain Analysis and Value Mapping by Tim Manning. Jul 17, 2018.
 
-### Events / Doctrine Assessement
+### Events / ChatGPT
 
 *   [Map Camp 2021](https://www.mapcamp.co.uk/) - A virtual event on October 13, 2021.
 
@@ -169,11 +185,11 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ## [Jun 07 - Jun 13, 2021](/content/2021/23/README.md)
 
-### Apps / Mapping
+### Mapping
 
 *   [Mapkeep](https://mapkeep.com/) - Multiplayer Wardley Maps at a click of a button. Collaborate on your maps with others. Host your maps for free. For updates, you can follow [@mapkeep on Mastodon](https://mastodon.social/@mapkeep), [@mapkeep on X](https://twitter.com/mapkeep), [mapkeep on LinkedIn](https://www.linkedin.com/company/mapkeep), subscribe to the [YouTube Channel](https://www.youtube.com/@mapkeep), or subscribe to the [News and Updates blog](https://blog.mapkeep.com/).
 
-### Templates / Mapping
+### Mapping / ChatGPT
 
 *   [Google Slides Mapping Template](https://docs.google.com/presentation/d/11_7D5KAgEUY3FxKg0K2whpwnC4jZOrS_TO2bpD5PV5A/edit#slide=id.g1aa7821e59_2_0) - Template for Google Slides.
 
@@ -203,7 +219,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ## [Dec 28 - Jan 03, 2020](/content/2020/52/README.md)
 
-### Workshops / Doctrine Assessement
+### Workshops / ChatGPT
 
 *   [Workshop Building Block - New Year's Eve Party (⭐15)](https://github.com/LeadingEdgeForum/faciliator-pack/blob/main/WorkshopBuildingBlock-NewYearsEveParty.md) - Help workshop participants gain confidence in mapping in a business-neutral environment.
 
@@ -213,22 +229,22 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 *   [Broaden the scope of the SUT](https://jlottosen.wordpress.com/2019/04/20/broaden-the-scope-of-sut/) - Understanding how test strategies are based on the underlying landscape. Apr 19, 2019
 
-### Apps / Mapping
+### Mapping
 
-*   [OnlineWardleyMaps (⭐207)](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
+*   [OnlineWardleyMaps (⭐220)](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 
 ## [Nov 16 - Nov 22, 2020](/content/2020/46/README.md)
 
-### Apps / Mapping
+### Mapping
 
 *   [Wardley Maps for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=damonsk.vscode-wardley-maps) - Render and edit Wardley maps within Visual Studio Code. This VSCode extention leverages the engine from OnlineWardleyMaps.com. Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 *   [Wardley Maps for Jupyter Notebooks (ipywardley) (⭐19)](https://github.com/anjackson/ipywardley) - A plugin for generating Wardley maps in Jupyter Notebooks.
 
-### Templates / Development
+### Templates / ChatGPT
 
 *   [Wardley Mapping Tools and Techniques](https://hiredthought.com/2017/10/11/wardley-mapping-tools-and-techniques/) - A semi-serious reflection on the problem space of tools for mapping, and an overview of all sorts of mapping tools and techniques.
 
-### Templates / Mapping
+### Mapping / ChatGPT
 
 *   [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) - How-to guide with animations and a collection of open source Wardley map icons.
 *   [Office 365 Wardley Mapping Templates](https://blogs.endjin.com/2020/03/office365-wardley-mapping-templates/) - Templates for Microsoft Visio and PowerPoint.
@@ -238,11 +254,11 @@ Wardley maps community hub. Useful Wardley mapping resources
 *   [Wardley Maps in LaTeX (⭐4)](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - Figures 8 and 11 from the book by Simon Wardley to demonstrate drawing Wardley maps in LaTeX.
 *   [yEd Palette (⭐12)](https://github.com/colugo/yed-wardley) - Wardley maps palette for yEd.
 
-### Templates / Doctrine Assessement
+### Doctrine Assessement / ChatGPT
 
 *   [Doctrine Grid Tool](https://justin.stach.uk/doctrine_grid_tool) - Based on Google Forms and Google Sheets.
 
-### Events / Doctrine Assessement
+### Events / ChatGPT
 
 *   [Map Camp 2020](https://leadingedgeforum.com/research/map-camp-2020/) - A free all-day online event on October 13, 2020.
 
@@ -272,10 +288,6 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ## [Sep 21 - Sep 27, 2020](/content/2020/38/README.md)
 
-### Courses
-
-*   [GCATI](https://gcati.org/community/wardley-mapping-community) - Globally recognised Wardley mapping training and certifications; Awareness, Foundation, Practitioner, Strategy Development Workshop and Wardley Mapping BattleCamp.
-
 ### Maps in the Wild
 
 *   [How to use Wardley Mapping to understand how you deliver customer value](https://medium.com/@stephanwillemse/how-to-use-wardley-mapping-to-understand-how-you-deliver-customer-value-43abdad264cf) - Sep 15, 2020.
@@ -294,7 +306,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 ### Reading
 
 *   [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - Creative Commons book by [Simon Wardley](https://twitter.com/swardley).
-    *   E-book - PDF and Kindle [downloads (⭐278)](https://github.com/andrewharmellaw/wardley-maps-book/releases).
+    *   E-book - PDF and Kindle [downloads (⭐284)](https://github.com/andrewharmellaw/wardley-maps-book/releases).
     *   Audiobook - MP3 [downloads](https://feststelltaste.github.io/wardley-maps-audiobook/).
     *   [Spanish Translation](https://mapasdewardley.com/estrategia/el-libro-de-simon-wardley/) - Mapas de Wardley. El uso de la inteligencia topográfica en la estrategia empresarial.
 *   [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) - Sun Tzu, Boyd & Wardley on situational awareness, OODA "Loops" and Wardley mapping by [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy)/[Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
@@ -306,7 +318,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ## [Jul 13 - Jul 19, 2020](/content/2020/28/README.md)
 
-### Apps / Mapping
+### Mapping
 
 *   [Go-Wardley (⭐30)](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
 
@@ -349,7 +361,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 *   [On user needs and listening to customers](https://blog.gardeviance.org/2016/04/on-user-needs-and-listening-to-customers.html) - Simon Wardley focuses on one of the most important parts of mapping - the anchor. April 11, 2016.
 *   [Simon Wardley's 100-day Corporate get fit plan](https://www.cio.com/article/3526767/simon-wardley-s-100-day-corporate-get-fit-plan.html) - For the newly-appointed executive, to help get you into a position from which you can start to learn and talk about strategy. Aug 21, 2015.
 
-### Meetups / Doctrine Assessement
+### Meetups / ChatGPT
 
 *   Australia
     *   [Melbourne](https://www.meetup.com/Wardley-Mapping-Online-Meetup-AEST-AEDT-timezone/)
@@ -392,11 +404,11 @@ Wardley maps community hub. Useful Wardley mapping resources
 *   [The power of situational awareness for digital government](https://www.computerweekly.com/opinion/The-power-of-situational-awareness-for-digital-government) - Part 2 Mark Thompson outlines a digital vision to make government a more cohesive, integrated organisation. Oct 9, 2015.
 *   [Time to get mapping - how a blind government can develop sight](https://www.computerweekly.com/opinion/Time-to-get-mapping-how-a-blind-government-can-develop-sight) - Part 1 Mark Thompson outlines a digital vision to make government a more cohesive, integrated organisation. Oct 9, 2015.
 
-### Apps / Mapping
+### Mapping
 
 *   [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - Note MapScript is built on Observable. Read their [Terms of Service](https://observablehq.com/terms-of-service). MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
 
-### Meetups / Doctrine Assessement
+### Meetups / ChatGPT
 
 *   Europe
     *   Belgium
@@ -467,9 +479,9 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ## [Jan 27 - Feb 02, 2020](/content/2020/4/README.md)
 
-### Workshops / Doctrine Assessement
+### Workshops / ChatGPT
 
-*   [Wardley Maps Battle Camp (⭐43)](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
+*   [Wardley Maps Battle Camp (⭐45)](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
 
 ## [Jan 20 - Jan 26, 2020](/content/2020/3/README.md)
 
@@ -511,9 +523,9 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 *   [Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
 
-### Apps / Doctrine Assessement
+### Doctrine Assessement
 
-*   [Doctrine (⭐50)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
+*   [Doctrine (⭐51)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
 
 ## [Dec 02 - Dec 08, 2019](/content/2019/48/README.md)
 
@@ -521,7 +533,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 *   [LearnWardleyMapping.com](https://learnwardleymapping.com/) - Video chapter summaries of Simon Wardley's book, 15-minute introductory course, and a quick reference.
 
-### Events / Doctrine Assessement
+### Events / ChatGPT
 
 *   [Map Camp](https://www.map-camp.com/) - Follow Map Camp on [Twitter](https://twitter.com/map_camp) and [LinkedIn](https://www.linkedin.com/company/map-camp/).
 
