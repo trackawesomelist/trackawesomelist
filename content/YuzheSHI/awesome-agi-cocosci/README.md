@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Feb 28, 2024](/content/2024/02/28/README.md)
+
+### Domain Specific Language / Design Practises
+
+*   [Communicating Natural Programs to Humans and Machines](https://proceedings.neurips.cc/paper_files/paper/2022/hash/182aed0379591ebd1d655b2bdc152075-Abstract-Datasets_and_Benchmarks.html) - ***NeurIPS'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=13381039702346039142\&as_sdt=0,5)]. While humans readily generate and interpret instructions in a general language, computer systems are shackled to a narrow domain-specific language that they can precisely execute. This makes building intelligent systems that can generalize to novel situations such as ARC difficult. Human-generated instructions are referred as \`natural programs'. While they resemble computer programs, they are distinct in two ways: First, they contain a wide range of primitives; Second, they frequently leverage communicative strategies beyond directly executable codes.
+
 ## [Feb 27, 2024](/content/2024/02/27/README.md)
 
 ### Domain Specific Language / DSL Program Synthesis
