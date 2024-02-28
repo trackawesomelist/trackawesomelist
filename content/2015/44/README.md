@@ -564,7 +564,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### JSON
 
-*   [JSONNeverDie (⭐453)](https://github.com/johnlui/JSONNeverDie) - Auto reflection tool from JSON to Model, user friendly JSON encoder / decoder, aims to never die.
+*   [JSONNeverDie (⭐452)](https://github.com/johnlui/JSONNeverDie) - Auto reflection tool from JSON to Model, user friendly JSON encoder / decoder, aims to never die.
 
 ### Localization / Barcode
 
@@ -632,21 +632,21 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### Packages / Mad science
 
-*   [turf (⭐8.5k)](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
+*   [turf (⭐8.7k)](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
 
 ### Packages / Filesystem
 
-*   [find-up (⭐561)](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
-*   [load-json-file (⭐236)](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file.
-*   [write-json-file (⭐209)](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
+*   [find-up (⭐565)](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
+*   [load-json-file (⭐238)](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file.
+*   [write-json-file (⭐210)](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
 
 ### Packages / Streams
 
-*   [get-stream (⭐328)](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
+*   [get-stream (⭐330)](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
 
 ### Packages / Parsing
 
-*   [parse-json (⭐330)](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
+*   [parse-json (⭐333)](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 
 ### Packages / Testing
 

@@ -145,11 +145,11 @@
 
 *   [empty-trash (⭐132)](https://github.com/sindresorhus/empty-trash) - Empty the trash.
 *   [is-online (⭐1.2k)](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
-*   [public-ip (⭐990)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
+*   [public-ip (⭐994)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
 
 ### Packages / Command-line utilities
 
-*   [meow (⭐3.3k)](https://github.com/sindresorhus/meow) - CLI app helper.
+*   [meow (⭐3.5k)](https://github.com/sindresorhus/meow) - CLI app helper.
 
 ## [10. Awesome Db](/content/numetriclabz/awesome-db/week/README.md)
 

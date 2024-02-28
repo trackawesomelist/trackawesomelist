@@ -443,7 +443,7 @@
 
 ### Packages / Data validation
 
-*   [property-validator (⭐157)](https://github.com/nettofarah/property-validator) - Easy property validation for Express.
+*   [property-validator (⭐158)](https://github.com/nettofarah/property-validator) - Easy property validation for Express.
 
 ## [41. Amas](/content/sindresorhus/amas/week/README.md)
 

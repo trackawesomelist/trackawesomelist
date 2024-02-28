@@ -56,10 +56,6 @@
 
 *   [HTTP](https://httpwg.org/specs/) - A widely used protocol that facilitates communication between web servers and clients. HTTP enables the transfer of data over the internet, making it possible for web applications to function seamlessly.
 
-### Resources / Structure and Validation
-
-*   [JSON Schema (⭐2.9k) (⭐3k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
-
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI

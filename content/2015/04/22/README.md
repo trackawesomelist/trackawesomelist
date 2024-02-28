@@ -16,7 +16,7 @@
 
 ### Packages / Mad science
 
-*   [webcat (⭐437)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
+*   [webcat (⭐438)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 
 ### Packages / Command-line apps
 
@@ -24,12 +24,12 @@
 
 ### Packages / Text
 
-*   [camelcase (⭐658)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
+*   [camelcase (⭐659)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 
 ### Resources / Miscellaneous
 
 *   [node-module-boilerplate (⭐719)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
-*   [generator-nm (⭐743)](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
+*   [generator-nm (⭐741)](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 
 ## [3. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)
 

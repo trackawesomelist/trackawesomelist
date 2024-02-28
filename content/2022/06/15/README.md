@@ -184,7 +184,7 @@
 
 ### Images / Barcode
 
-*   [Harbeth (⭐380)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.
+*   [Harbeth (⭐415)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.
 
 ## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

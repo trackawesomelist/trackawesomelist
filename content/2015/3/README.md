@@ -243,7 +243,7 @@
 
 ### Packages / Weird
 
-*   [cat-names (⭐261)](https://github.com/sindresorhus/cat-names) - Get popular cat names.
+*   [cat-names (⭐262)](https://github.com/sindresorhus/cat-names) - Get popular cat names.
 *   [dog-names (⭐125)](https://github.com/sindresorhus/dog-names) - Get popular dog names.
 
 ## [8. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)

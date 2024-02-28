@@ -251,7 +251,7 @@ Free
 
 ### Cache
 
-*   [Cachyr (⭐125)](https://github.com/nrkno/yr-cachyr) - A small key-value data cache for iOS, macOS and tvOS.
+*   [Cachyr (⭐124)](https://github.com/nrkno/yr-cachyr) - A small key-value data cache for iOS, macOS and tvOS.
 
 ## [30. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -637,7 +637,7 @@ Free
 
 ### Packages / Filesystem
 
-*   [tempy (⭐407)](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
+*   [tempy (⭐409)](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
 
 ### Packages / Security
 
@@ -645,7 +645,7 @@ Free
 
 ### Packages / Miscellaneous
 
-*   [open (⭐3k)](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
+*   [open (⭐3.1k)](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
 
 ## [49. Awesome List](/content/sindresorhus/awesome/week/README.md)
 

@@ -60,7 +60,7 @@
 
 ### Utility / Barcode
 
-*   [Lumos (⭐151)](https://github.com/sushinoya/Lumos) - An easy-to-use API for Objective-C runtime functions.
+*   [Lumos (⭐152)](https://github.com/sushinoya/Lumos) - An easy-to-use API for Objective-C runtime functions.
 
 ## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

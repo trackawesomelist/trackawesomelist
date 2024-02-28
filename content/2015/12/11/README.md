@@ -94,7 +94,7 @@
 
 ### XML
 
-*   [AEXML (⭐979)](https://github.com/tadija/AEXML) - xml wrapper.
+*   [AEXML (⭐983)](https://github.com/tadija/AEXML) - xml wrapper.
 
 ### Images / Barcode
 

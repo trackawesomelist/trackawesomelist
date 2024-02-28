@@ -40,10 +40,10 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Allen Downey’s Data Science Course (⭐41)](https://github.com/AllenDowney/DataScience) - Code for Data Science at Olin College, Spring 2014.
+*   [Allen Downey’s Data Science Course (⭐42)](https://github.com/AllenDowney/DataScience) - Code for Data Science at Olin College, Spring 2014.
 *   [Allen Downey’s Think Bayes Code (⭐1.6k)](https://github.com/AllenDowney/ThinkBayes) - Code repository for Think Bayes.
-*   [Allen Downey’s Think Complexity Code (⭐95)](https://github.com/AllenDowney/ThinkComplexity) - Code for Allen Downey's book Think Complexity.
-*   [Allen Downey’s Think OS Code (⭐535)](https://github.com/AllenDowney/ThinkOS) - Text and supporting code for Think OS: A Brief Introduction to Operating Systems.
+*   [Allen Downey’s Think Complexity Code (⭐96)](https://github.com/AllenDowney/ThinkComplexity) - Code for Allen Downey's book Think Complexity.
+*   [Allen Downey’s Think OS Code (⭐537)](https://github.com/AllenDowney/ThinkOS) - Text and supporting code for Think OS: A Brief Introduction to Operating Systems.
 
 ## [3. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
@@ -469,7 +469,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ### Packages / Text
 
-*   [i18n-node (⭐3k)](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
+*   [i18n-node (⭐3.1k)](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
 
 ### Packages / Math
 
@@ -477,7 +477,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ### Packages / Compression
 
-*   [tar-stream (⭐389)](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs (⭐345)](https://github.com/mafintosh/tar-fs).
+*   [tar-stream (⭐393)](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs (⭐348)](https://github.com/mafintosh/tar-fs).
 
 ## [23. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 

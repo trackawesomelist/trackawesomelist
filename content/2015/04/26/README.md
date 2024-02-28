@@ -17,7 +17,7 @@
 
 ### Packages / Data validation
 
-*   [is-my-json-valid (⭐954)](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
+*   [is-my-json-valid (⭐955)](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
 
 ## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

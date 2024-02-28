@@ -28,7 +28,7 @@
 
 ### Keyboard / Barcode
 
-*   [ISEmojiView (⭐486)](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
+*   [ISEmojiView (⭐496)](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
 
 ## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -58,7 +58,7 @@
 ### Python / General-Purpose Machine Learning
 
 *   [Shapash (⭐2.6k)](https://github.com/MAIF/shapash) : Shapash is a Python library that provides several types of visualization that display explicit labels that everyone can understand.
-*   [Eurybia (⭐196)](https://github.com/MAIF/eurybia): Eurybia monitors data and model drift over time and securizes model deployment with data validation.
+*   [Eurybia (⭐197)](https://github.com/MAIF/eurybia): Eurybia monitors data and model drift over time and securizes model deployment with data validation.
 *   [Colossal-AI (⭐36k)](https://github.com/hpcaitech/ColossalAI): An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
 
 ## [9. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)

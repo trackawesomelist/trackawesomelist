@@ -58,9 +58,9 @@
 
 *   [Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
 
-### Apps / Doctrine Assessement
+### Doctrine Assessement
 
-*   [Doctrine (⭐50)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
+*   [Doctrine (⭐51)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
 
 ## [5. Awesome](/content/Awesome-Windows/Awesome/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Packages / Command-line apps
 
-*   [mobicon (⭐108)](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
+*   [mobicon (⭐109)](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
 
 ## [3. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 

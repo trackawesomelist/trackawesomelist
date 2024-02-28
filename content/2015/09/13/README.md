@@ -10,7 +10,7 @@
 
 ### Resources / Cheatsheets
 
-*   [Stream FAQs (⭐191)](https://github.com/stephenplusplus/stream-faqs) - Answering common questions about streams, covering pagination, events, and more.
+*   [Stream FAQs (⭐194)](https://github.com/stephenplusplus/stream-faqs) - Answering common questions about streams, covering pagination, events, and more.
 
 ## [2. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 

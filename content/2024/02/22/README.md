@@ -11,7 +11,6 @@
 ### Tools / Wrappers
 
 *   [Atmos (⭐499)](https://github.com/cloudposse/atmos) - Orchestration tool that keeps environment configuration DRY.
-*   [Terragrunt](https://terragrunt.gruntwork.io/) - Keep your configurations DRY, work with multiple modules, and manage remote state.
 
 ### Tools / Providers
 

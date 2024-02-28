@@ -10,7 +10,7 @@
 
 ### Extensions
 
-*   [next-mdx-blog (⭐71)](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
+*   [next-mdx-blog (⭐72)](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -80,11 +80,11 @@
 
 ### UI / Barcode
 
-*   [DockProgress (⭐1.1k)](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon.
+*   [DockProgress (⭐1.2k)](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon.
 
 ### Walkthrough / Barcode
 
-*   [OnboardKit (⭐508)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
+*   [OnboardKit (⭐516)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
 
 ## [9. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 

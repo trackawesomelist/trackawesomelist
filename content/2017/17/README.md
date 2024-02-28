@@ -174,7 +174,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Bowtie (⭐762)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
+*   [Bowtie (⭐763)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
 
 ## [14. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 

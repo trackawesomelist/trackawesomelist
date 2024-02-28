@@ -1014,7 +1014,7 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [YCML (⭐117)](https://github.com/yconst/YCML) - A Machine Learning framework for Objective-C and Swift (OS X / iOS).
+*   [YCML (⭐116)](https://github.com/yconst/YCML) - A Machine Learning framework for Objective-C and Swift (OS X / iOS).
 *   [PredictionBuilder (⭐110)](https://github.com/denissimon/prediction-builder) - A library for machine learning that builds predictions using a linear regression.
 
 ## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)

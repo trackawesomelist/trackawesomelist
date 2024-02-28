@@ -866,7 +866,7 @@
 
 ### Packages / Command-line apps
 
-*   [npkill (⭐7.7k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
+*   [npkill (⭐7.8k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
 
 ## [58. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Blockchain
 
-*   [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week.
+*   [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week
 
 ## [2. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 

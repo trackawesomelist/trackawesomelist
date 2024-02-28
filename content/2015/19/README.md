@@ -23,7 +23,7 @@
 
 ### Audio
 
-*   [AudioPlayer (⭐706)](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
+*   [AudioPlayer (⭐708)](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
 
 ## [4. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 

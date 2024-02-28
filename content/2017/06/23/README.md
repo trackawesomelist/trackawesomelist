@@ -112,7 +112,7 @@
 
 ### Version Manager / Barcode
 
-*   [Siren (⭐4.1k)](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
+*   [Siren (⭐4.2k)](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
 
 ---
 

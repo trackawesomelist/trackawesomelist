@@ -65,10 +65,6 @@
 
 *   [MarketRemotely](https://marketremotely.com/) - Remote marketing jobs from all over the internet
 
-### Various / United Kingdom
-
-*   [Privacy-First Jobs](https://privacyfirstjobs.com/) – Jobs in privacy-first companies and organisations.
-
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio

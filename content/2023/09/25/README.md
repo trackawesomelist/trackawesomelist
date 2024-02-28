@@ -86,7 +86,7 @@
 
 ### Examples
 
-*   [antoinezanardi/werewolves-assistant-api-next (⭐16)](https://github.com/antoinezanardi/werewolves-assistant-api-next#readme) - Project logo. Badges. Concise description. TOC for easy navigation. Simple install instructions and various sections. Clean project with code coverage, CI, and many other features.
+*   [antoinezanardi/werewolves-assistant-api-next (⭐22)](https://github.com/antoinezanardi/werewolves-assistant-api-next#readme) - Project logo. Badges. Concise description. TOC for easy navigation. Simple install instructions and various sections. Clean project with code coverage, CI, and many other features.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

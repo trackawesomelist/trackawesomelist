@@ -470,7 +470,7 @@ git commit -m "submodule updated"
 
 ### Python / General-Purpose Machine Learning
 
-*   [BentoML (⭐6.2k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
+*   [BentoML (⭐6.3k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
 *   [numpy-ML (⭐14k)](https://github.com/ddbourgin/numpy-ml): Reference implementations of ML models written in numpy
 
 ## [38. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
@@ -603,7 +603,7 @@ git commit -m "submodule updated"
 
 ### Extensions
 
-*   [Next UserAgent (⭐325)](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
+*   [Next UserAgent](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
 
 ## [46. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 

@@ -50,7 +50,7 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [vollib (⭐586)](https://github.com/vollib/vollib) - vollib is a python library for calculating option prices, implied volatility and greeks.
+*   [vollib (⭐591)](https://github.com/vollib/vollib) - vollib is a python library for calculating option prices, implied volatility and greeks.
 
 ### Python / Time Series
 
@@ -66,7 +66,7 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Derman Papers (⭐316)](https://github.com/MarcosCarreira/DermanPapers) - Notebooks that replicate original quantitative finance papers from Emanuel Derman.
+*   [Derman Papers (⭐318)](https://github.com/MarcosCarreira/DermanPapers) - Notebooks that replicate original quantitative finance papers from Emanuel Derman.
 *   [volatility-trading (⭐1.4k)](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading.
 
 ## [8. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)

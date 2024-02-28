@@ -24,7 +24,13 @@
 
 *   [Official Coq Zulip chat](https://coq.zulipchat.com)
 
-## [2. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [2. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+
+### Reactive Programming
+
+*   [Verge (⭐584)](https://github.com/muukii/Verge) - Verge is a faster and scalable state management library for UIKit and SwiftUI
+
+## [3. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Other Articles & Tutorials
 
@@ -35,13 +41,13 @@
 
 *   [Snaake! (⭐74)](https://github.com/lucasnlm/snaake-flutter) - A simple casual snake game. By [lucasnlm](https://github.com/lucasnlm)
 
-## [3. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [4. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### VSCode Extensions / Apache License
 
 *   [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada (⭐211)](https://github.com/AdaCore/ada_language_server).
 
-## [4. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [5. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
 - Name: [RazorOps](https://razorops.com/)
 
@@ -59,7 +65,7 @@
 
 
 
-## [5. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [6. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### TDD/BDD
 
@@ -69,7 +75,7 @@
 
 *   [VSMac-CodeDistribution (⭐9)](https://github.com/ademanuele/VSMac-CodeDistribution) - A Visual Studio for Mac extension that visualises code distribution between projects. Particularly useful for Xamarin projects to understand the amount of code shared between platforms.
 
-## [6. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [7. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Networking
 
@@ -79,13 +85,13 @@
 
 *   [Playwright (⭐621)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Search
 
 *   [pagedart.com](https://pagedart.com/) - AI search as a service the free tier includes 1,000 Documents and 50,000 searches. Larger free decks are possible for worthwhile projects.
 
-## [8. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
+## [9. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
 
 ### Numbers
 
@@ -93,13 +99,13 @@
 *   [is-finite (⭐18)](https://github.com/sindresorhus/is-finite) - [`Number.isFinite`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isFinite)
 *   [is-integer (⭐12)](https://github.com/parshap/js-is-integer) - [`Number.isInteger`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isInteger)
 
-## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [10. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Changes
 
 *   [yuniql (⭐405)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
 
-## [10. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
+## [11. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
 ### Programming Languages / C
 
@@ -124,7 +130,7 @@
 *   [Think DSP (⭐3k)](https://github.com/AllenDowney/ThinkDSP) ([Site](https://greenteapress.com/wp/think-dsp/), cc-nc) - introduction to Digital Signal Processing in Python
 *   [Python re(gex)? (⭐1.3k)](https://github.com/learnbyexample/py_regular_expressions) ([Site (⭐1.3k)](https://github.com/learnbyexample/py_regular_expressions/blob/master/py_regex.md), cc-nc-sa) - step by step guide to learning Python regular expressions
 
-## [11. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
+## [12. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
 ### Editors and IDEs
 
@@ -134,7 +140,7 @@
 
 *   [WSLab (⭐994)](https://github.com/microsoft/WSLab) - Windows Server rapid lab deployment scripts.
 
-## [12. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [13. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Newsletters
 
@@ -142,7 +148,7 @@
 *   [SRE Weekly](https://sreweekly.com/) - Weekly Site Reliability Newsletter.
 *   [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) - Weekly systems engineering and operations news and insights from industry insiders.
 
-## [13. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
+## [14. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
 
 ### Windows
 
@@ -197,7 +203,7 @@ Language: English, français, Deutsch, italiano, polski, español, Nederlands \ 
 Notable Channels: `#tech-talk`, `#coding-cave`, `#system-installation`, `#software-installation,` `#desktop-environment`, `#hardware-drivers`, `#networking`, `#programming` \
 Language: English
 
-## [14. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [15. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / a11y
 
@@ -217,13 +223,7 @@ Language: English
 
 *   [An ember integration for building visual programming editors with blockly. (⭐4)](https://github.com/Program-AR/ember-blockly)
 
-## [15. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
-
-### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
-
-*   [Tottem (⭐972)](https://github.com/poulainv/tottem)
-*   [Tomorrow](https://www.tomorrowapp.io/)
-*   [Predict Covid](https://predictcovid.com/)
+## [16. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :books: Docs
 
@@ -274,20 +274,25 @@ Language: English
 *   [Slack](https://slack.prisma.io/)
 *   [Twitter](https://twitter.com/prisma)
 
-## [16. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
+
+*   [Tomorrow](https://www.tomorrowapp.io/)
+*   [Predict Covid](https://predictcovid.com/)
+
+## [17. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Asset Management
 
 *   [Symfony Asset (⭐3.1k)](https://github.com/symfony/asset) - Manages URL generation and versioning of web assets.
 *   [Symfony Encore (⭐2.2k)](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing and compiling assets built around Webpack.
 
-## [17. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [18. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### :dollar: Paid Courses / Chrome Extensions
 
 *   [Angular with TypeScript](https://www.manning.com/livevideo/angular-for-java-developers-typescript/) (Manning)
 
-## [18. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [19. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Manufacturers
 
@@ -295,37 +300,37 @@ Language: English
     *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UCnLpB5QxlQUexi40vM12mNQ)
     *   [GitHub organization :octocat:](https://github.com/Livox-SDK)
 
-## [19. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [20. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Tools
 
 *   [Enigma Signal Meter (⭐23)](https://github.com/shaxxx/Signalmeter2) - Align your satellite dish by reading signal from satellite receiver by [Krkadoni](https://krkadoni.com)
 
-## [20. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [21. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Cloud platform security / Security Orchestration, Automation, and Response (SOAR)
 
 *   [Falco](https://falco.org/) - Behavioral activity monitor designed to detect anomalous activity in containerized applications, hosts, and network packet flows by auditing the Linux kernel and enriched by runtime data such as Kubernetes metrics.
 
-## [21. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
+## [22. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
 ### ☤ Universal GUI Apps / Physical Coin Wallets
 
 *   [**DeBank**](https://debank.com/) - DeFi wallet, view assets and debts in Ethereum DeFi projects.
 
-## [22. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [23. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Board support crates / 1BitSquared
 
 *   [`onebitsy`](https://crates.io/crates/onebitsy) - Board support crate for the [1bitsy](https://1bitsy.org/) STM32F4-based board - ![crates.io](https://img.shields.io/crates/v/onebitsy.svg)
 
-## [23. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [24. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Dynamic Analysis Tools
 
 *   [Droidbox (⭐727)](https://github.com/pjlantz/droidbox)
 
-## [24. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [25. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
@@ -339,13 +344,13 @@ Language: English
 
 *   [MyPaint](https://opencollective.com/mypaint) - Painting and drawing program that works nicely with pressure-sensitive tablets, and its dynamic brush engine library.
 
-## [25. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [26. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Validators / Ruby
 
 *   [GTFSVTOR (⭐26)](https://github.com/mecatran/gtfsvtor) - An open-source GTFS validator implemented in Java licensed under GPLv3 maintained by [Mecatran](https://www.mecatran.com/).
 
-## [26. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [27. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -361,7 +366,7 @@ Language: English
 
 *   [GitJournal (⭐3k)](https://github.com/GitJournal/GitJournal) <!--stargazers:GitJournal/GitJournal--> - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda)
 
-## [27. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [28. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
@@ -392,14 +397,14 @@ Language: English
 *   [AVA (⭐228)](https://github.com/avajs/eslint-plugin-ava) - Linting rules for AVA.
 *   [Cucumber (⭐7)](https://github.com/darrinholst/eslint-plugin-cucumber) - Linting rules for Cucumber.
 
-## [28. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [29. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### secure tools
 
 *   [Deepfence Enterprise](https://deepfence.io) - Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless.
 *   [Deepfence Threat Mapper (⭐2.3k)](https://github.com/deepfence/ThreatMapper) - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 
-## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Framework Components
 
@@ -409,7 +414,7 @@ Language: English
 
 *   [broadway (⭐2.3k)](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
 
-## [30. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [31. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Development Tools
 
@@ -419,13 +424,13 @@ Language: English
 
 *   [Quantum Computing: An Applied Approach](https://www.springer.com/gp/book/9783030239213) - A hands on introduction into quantum computing that explains the foundations of quantum computing to the mathematics behind quantum systems.
 
-## [31. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [32. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Client libraries
 
 *   [ros2\_rust (⭐613)](https://github.com/ros2-rust/ros2_rust) - Rust bindings for ROS2. ![ros2\_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
 
-## [32. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [33. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
@@ -435,7 +440,7 @@ Language: English
 *   [toggl-box (⭐7)](https://github.com/tobimori/toggl-box) - Update a pinned gist to contain your weekly Toggl time tracking stats
 *   [youtube-box (⭐8)](https://github.com/SinaKhalili/youtube-box) - Update a pinned gist to show your latest YouTube videos
 
-## [33. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [34. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Talks
 
@@ -445,7 +450,11 @@ Language: English
 
 *   [oidc-bash-client (⭐90)](https://github.com/please-openit/oidc-bash-client)
 
-## [34. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [35. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+
+### Apps
+
+*   [Tottem (⭐969)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
 
 ### Essentials
 
@@ -454,9 +463,9 @@ Language: English
 
 ### Extensions
 
-*   [next-connect (⭐1.5k)](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
+*   [next-connect (⭐1.6k)](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
 
-## [35. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [36. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Codecs
 
@@ -476,13 +485,17 @@ Language: English
 
 *   [Gqrx SDR](https://gqrx.dk/) - An open source software defined radio receiver (SDR).
 
-## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+
+### TextField / Barcode
+
+*   [CHIOTPField (⭐271)](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
 
 ### Video / Barcode
 
 *   [MobilePlayer (⭐3k)](https://github.com/sahin/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
 
-## [37. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [38. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Games & Comics
 
@@ -512,7 +525,7 @@ Language: English
 
 
 
-## [38. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [39. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Books
 
@@ -536,7 +549,7 @@ Language: English
 *   [jsdo.it-archives (⭐11)](https://github.com/cx20/jsdo.it-archives) - Compilation of WebGL experiments including comparisons on WebGL frameworks and physics engine (oimo.js, cannon.js, ammo.js)
 *   [WebAudio Weekly](https://www.webaudioweekly.com/) - Newsletter to know everything about the WebAudio API
 
-## [39. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [40. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Resources / Blogs
 
@@ -548,7 +561,7 @@ Language: English
 *   [MolSSI Molecular Software Database](https://molssi.org/software-search/)
     ＊[Pages created by Tobias Kind, PhD](https://fiehnlab.ucdavis.edu/staff/kind/metabolomics)
 
-## [40. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [41. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Kinesis
 
@@ -562,7 +575,7 @@ Language: English
 
 *   [k1LoW/awspec :fire::fire::fire::fire: (⭐1.2k)](https://github.com/k1LoW/awspec) - RSpec tests your resources.
 
-## [41. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [42. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -574,21 +587,11 @@ Language: English
 
 *   [Check bundlephobia (⭐46)](https://github.com/carlesnunez/check-my-bundlephobia) - Comments new and modified package size according to bundlephobia.io website and rejects PR on threshold surpassed.
 
-## [42. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+## [43. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
 
 ### Golang
 
 *   [Go 语法树入门 (⭐5.2k)](https://github.com/chai2010/go-ast-book)
-
-## [43. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
-
-### TextField & TextView / Collection View Layout
-
-*   [CHIOTPField (⭐268)](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
-
-### Reactive Programming
-
-*   [Verge (⭐584)](https://github.com/muukii/Verge) - Verge is a faster and scalable state management library for UIKit and SwiftUI
 
 ## [44. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 

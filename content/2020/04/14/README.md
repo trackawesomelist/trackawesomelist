@@ -77,7 +77,7 @@
 
 ### Packages / Miscellaneous
 
-*   [patch-package (⭐9.6k)](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
+*   [patch-package (⭐9.8k)](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
 
 ## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

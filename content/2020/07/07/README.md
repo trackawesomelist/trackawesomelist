@@ -259,6 +259,15 @@
 
 ## [13. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
+### Audio
+
+*   [FDWaveformView (⭐1.2k)](https://github.com/fulldecent/FDWaveformView) - An easy way to display an audio waveform in your app.
+*   [FDSoundActivatedRecorder (⭐284)](https://github.com/fulldecent/FDSoundActivatedRecorder) - Start recording when the user speaks.
+
+### UITableView / Barcode
+
+*   [FDTextFieldTableViewCell (⭐26)](https://github.com/fulldecent/FDTextFieldTableViewCell) - Adds a UITextField to the cell and places it correctly.
+
 ### Games
 
 *   [FDChessboardView (⭐77)](https://github.com/fulldecent/FDChessboardView) - A view controller for chess boards
@@ -272,15 +281,6 @@
 *   [FDBarGauge (⭐26)](https://github.com/fulldecent/FDBarGauge) - Simulate the level indicator on an audio mixing board
 
 ## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
-
-### Audio
-
-*   [FDSoundActivatedRecorder (⭐283)](https://github.com/fulldecent/FDSoundActivatedRecorder) - Start recording when the user speaks.
-*   [FDWaveformView (⭐1.2k)](https://github.com/fulldecent/FDWaveformView) - An easy way to display an audio waveform in your app, including animation.
-
-### Form & Settings
-
-*   [FDTextFieldTableViewCell (⭐26)](https://github.com/fulldecent/FDTextFieldTableViewCell) - Adds a UITextField to the cell and places it correctly.
 
 ### Project setup / Collection View Layout
 

@@ -46,7 +46,7 @@
 
 ### Alert / Barcode
 
-*   [GSMessage (⭐709)](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
+*   [GSMessage (⭐707)](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
 
 ---
 

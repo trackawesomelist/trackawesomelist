@@ -505,7 +505,7 @@
 
 ### Tools
 
-*   [GitHub Readme Stats (⭐61k)](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
+*   [GitHub Readme Stats (⭐63k)](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
 
 ## [13. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -567,7 +567,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [dtaidistance (⭐987)](https://github.com/wannesm/dtaidistance) - High performance library for time series distances (DTW) and time series clustering.
+*   [dtaidistance (⭐998)](https://github.com/wannesm/dtaidistance) - High performance library for time series distances (DTW) and time series clustering.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 

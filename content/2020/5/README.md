@@ -51,7 +51,7 @@
 
 ### Examples
 
-*   [React Parallax Tilt (⭐824)](https://github.com/mkosir/react-parallax-tilt#readme) - GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
+*   [React Parallax Tilt (⭐869)](https://github.com/mkosir/react-parallax-tilt#readme) - GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
 
 ## [8. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
@@ -1324,13 +1324,17 @@
 
 ## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
+### Localization / Barcode
+
+*   [CrowdinSDK (⭐113)](https://github.com/crowdin/mobile-sdk-ios) - Delivers all new translations from Crowdin project to the application immediately.
+
 ### Layout / Barcode
 
 *   [CGLayout (⭐44)](https://github.com/k-o-d-e-n/CGLayout) :penguin: - Powerful autolayout framework, that can manage UIView(NSView), CALayer, not rendered views and etc. Provides placeholders.
 
 ### UICollectionView / Barcode
 
-*   [ASCollectionView (⭐372)](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
+*   [ASCollectionView (⭐371)](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
 
 ## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -1563,10 +1567,6 @@
 *   [Automated Whitebox Fuzz Testing, 2008](https://www.ndss-symposium.org/wp-content/uploads/2017/09/Automated-Whitebox-Fuzz-Testing-paper-Patrice-Godefroid.pdf)
 
 ## [49. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
-
-### Localization
-
-*   [CrowdinSDK (⭐113)](https://github.com/crowdin/mobile-sdk-ios) - Crowdin iOS SDK delivers all new translations from Crowdin project to the application immediately.
 
 ### Logging
 

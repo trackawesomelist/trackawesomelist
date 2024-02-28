@@ -133,7 +133,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Evidently (⭐4.3k)](https://github.com/evidentlyai/evidently): Interactive reports to analyze machine learning models during validation or production monitoring.
+*   [Evidently (⭐4.4k)](https://github.com/evidentlyai/evidently): Interactive reports to analyze machine learning models during validation or production monitoring.
 
 ## [10. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 

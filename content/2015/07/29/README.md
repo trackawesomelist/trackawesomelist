@@ -32,7 +32,7 @@ git ls-files --others -i --exclude-standard
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
-### Configuration / PHP Videos
+### Configuration / PHP Conferences
 
 *   [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
 

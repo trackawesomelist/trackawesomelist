@@ -16,7 +16,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [zvt (⭐2.8k)](https://github.com/zvtvz/zvt) - the project using sql,pandas to provide an uniform and extendable way to record data,computing factors,select securites, backtesting,realtime trading and it could show all of them in clearly charts in realtime.
+*   [zvt (⭐2.9k)](https://github.com/zvtvz/zvt) - the project using sql,pandas to provide an uniform and extendable way to record data,computing factors,select securites, backtesting,realtime trading and it could show all of them in clearly charts in realtime.
 
 ## [3. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
@@ -58,11 +58,11 @@
 
 ### Packages / Image
 
-*   [qrcode (⭐7k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
+*   [qrcode (⭐7.1k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
 
 ### Packages / Job queues
 
-*   [better-queue (⭐472)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
+*   [better-queue (⭐478)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
 
 ### Packages / Node.js management
 
@@ -161,11 +161,11 @@
 
 ### UI / Barcode
 
-*   [MultiSlider (⭐409)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
+*   [MultiSlider (⭐435)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
 
 ### Button / Barcode
 
-*   [RadioGroup (⭐190)](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
+*   [RadioGroup (⭐191)](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
 
 ## [19. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 

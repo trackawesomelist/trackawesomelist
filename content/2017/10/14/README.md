@@ -77,7 +77,7 @@
 
 ### UI / Barcode
 
-*   [SwiftyUI (⭐340)](https://github.com/haoking/SwiftyUI) - High performance and lightweight UIView, UIImage, UIImageView, UIlabel, UIButton and more.
+*   [SwiftyUI (⭐341)](https://github.com/haoking/SwiftyUI) - High performance and lightweight UIView, UIImage, UIImageView, UIlabel, UIButton and more.
 
 ## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

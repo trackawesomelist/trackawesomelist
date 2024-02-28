@@ -202,7 +202,7 @@
 
 ### Tools
 
-*   [user-statistician (⭐63)](https://github.com/cicirello/user-statistician) - A GitHub Action that generates SVG of detailed GitHub user activity for profile readmes.
+*   [user-statistician (⭐71)](https://github.com/cicirello/user-statistician) - A GitHub Action that generates SVG of detailed GitHub user activity for profile readmes.
 
 ## [18. Awesome Plone](/content/collective/awesome-plone/week/README.md)
 

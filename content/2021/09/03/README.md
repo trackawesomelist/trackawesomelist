@@ -63,7 +63,7 @@
 
 ## [8. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
-### Events / Doctrine Assessement
+### Events / ChatGPT
 
 *   [Map Camp 2021](https://www.mapcamp.co.uk/) - A virtual event on October 13, 2021.
 

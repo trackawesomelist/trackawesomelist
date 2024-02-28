@@ -66,7 +66,7 @@
 
 *   [AiJobsTracker](https://aijobs.18offers.com/) - Live aggregator of 400+ AI-first companies's job boards, updated daily
 
-### Programming / Aggregator
+### Programming / Mobile
 
 *   [androiddev.careers](https://androiddev.careers/) – Job board for Android developers
 
@@ -142,4 +142,5 @@
 
 ---
 
+- Prev: [Feb 28, 2024](/content/2024/02/28/README.md)
 - Next: [Feb 26, 2024](/content/2024/02/26/README.md)

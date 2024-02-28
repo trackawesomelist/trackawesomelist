@@ -609,11 +609,11 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Analytics
 
-*   [Umbrella (⭐611)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
+*   [Umbrella (⭐613)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
 
 ### XML
 
-*   [SwiftyXML (⭐100)](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
+*   [SwiftyXML (⭐101)](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
 
 ### Date
 
@@ -621,11 +621,11 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Images / Barcode
 
-*   [FlexibleImage (⭐824)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
+*   [FlexibleImage (⭐823)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
 
 ### Auto Layout / Barcode
 
-*   [Cupcake (⭐286)](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
+*   [Cupcake (⭐288)](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
 
 ### Logging / Barcode
 
@@ -641,7 +641,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Calendar / Barcode
 
-*   [Workaholic (⭐115)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
+*   [Workaholic (⭐118)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
 
 ### Menu / Barcode
 
@@ -649,7 +649,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Template / Barcode
 
-*   [SwiftCssParser (⭐278)](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
+*   [SwiftCssParser (⭐277)](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
 
 ### TextField / Barcode
 
@@ -657,7 +657,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Version Manager / Barcode
 
-*   [Siren (⭐4.1k)](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
+*   [Siren (⭐4.2k)](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
 
 ## [42. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 

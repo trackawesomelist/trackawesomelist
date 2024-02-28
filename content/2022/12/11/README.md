@@ -161,11 +161,11 @@
 
 ### Camera
 
-*   [MediaPicker (⭐207)](https://github.com/exyte/mediapicker) - SwiftUI customizable media picker - supports camera and gallery with albums
+*   [MediaPicker (⭐241)](https://github.com/exyte/mediapicker) - SwiftUI customizable media picker - supports camera and gallery with albums
 
 ### Transition / Barcode
 
-*   [LiquidSwipe (⭐427)](https://github.com/exyte/LiquidSwipe) - Liquid navigation animation
+*   [LiquidSwipe (⭐454)](https://github.com/exyte/LiquidSwipe) - Liquid navigation animation
 
 ## [15. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -956,7 +956,7 @@
 
 ### Applications
 
-*   [FileLove (⭐45)](https://github.com/midzer/filelove): Minimal p2p file transfer right in the browser, using WebTorrent.
+*   [FileLove (⭐52)](https://github.com/midzer/filelove): Minimal p2p file transfer right in the browser, using WebTorrent.
 
 ## [68. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

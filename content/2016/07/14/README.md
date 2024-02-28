@@ -22,11 +22,11 @@
 
 ### Cache
 
-*   [Cache (⭐2.8k)](https://github.com/hyperoslo/Cache) - Nothing but Cache.
+*   [Cache (⭐2.9k)](https://github.com/hyperoslo/Cache) - Nothing but Cache.
 
 ### HUD / Barcode
 
-*   [KRProgressHUD (⭐661)](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
+*   [KRProgressHUD (⭐674)](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
 *   [PKHUD (⭐3.8k)](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
 
 ## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)

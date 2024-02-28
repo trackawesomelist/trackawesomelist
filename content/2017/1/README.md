@@ -265,7 +265,7 @@ git rev-parse --show-toplevel
 
 ### Go / Natural Language Processing
 
-*   [snowball (⭐42)](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
+*   [snowball (⭐43)](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
 
 ## [26. Vim Galore](/content/mhinz/vim-galore/week/README.md)
 

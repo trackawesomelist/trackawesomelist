@@ -168,7 +168,7 @@
 
 ### Analytics
 
-*   [Tracker Aggregator (⭐21)](https://github.com/kafejo/Tracker-Aggregator) - Versatile analytics abstraction layer.
+*   [Tracker Aggregator (⭐22)](https://github.com/kafejo/Tracker-Aggregator) - Versatile analytics abstraction layer.
 
 ## [16. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -203,8 +203,8 @@
 
 ### Blockchain
 
-*   [Crypto Jobs](https://www.cryptojobs.co/) - CryptoJobs.co is the web's fastest growing crypto jobs discovery platform.
-*   [Remote Web3 Jobs](https://remote3.co) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free.
+*   [Crypto Jobs](https://www.cryptojobs.co/) - CryptoJobs.co is the web's fastest growing crypto jobs discovery platform
+*   [Remote Web3 Jobs](https://remote3.co) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free
 
 ### Programming / JavaScript
 

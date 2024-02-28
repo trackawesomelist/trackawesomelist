@@ -166,8 +166,8 @@
 
 ### Community
 
-*   [GitHub (⭐113k)](https://github.com/vercel/next.js)
-*   [GitHub discussions for Next.js (⭐113k)](https://github.com/vercel/next.js/discussions)
+*   [GitHub (⭐119k)](https://github.com/vercel/next.js)
+*   [GitHub discussions for Next.js (⭐119k)](https://github.com/vercel/next.js/discussions)
 
 ### Articles
 
@@ -175,7 +175,7 @@
 
 ### Extensions
 
-*   [Next-Pkg (⭐65)](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg (⭐24k)](https://github.com/vercel/pkg) support.
+*   [Next-Pkg (⭐66)](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg (⭐24k)](https://github.com/vercel/pkg) support.
 
 ## [12. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -781,7 +781,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Python / General-Purpose Machine Learning
 
-*   [OPFython (⭐31)](https://github.com/gugarosa/opfython) - A Python-inspired implementation of the Optimum-Path Forest classifier.
+*   [OPFython (⭐32)](https://github.com/gugarosa/opfython) - A Python-inspired implementation of the Optimum-Path Forest classifier.
 
 ## [54. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 15 - Jun 21, 2020
 
-72 awesome lists updated this week.
+71 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -719,13 +719,17 @@
 
 ## [58. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
+### Layout / Barcode
+
+*   [Grid (⭐1.6k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
+
 ### Keyboard / Barcode
 
-*   [KeyboardShortcuts (⭐1.5k)](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.
+*   [KeyboardShortcuts (⭐1.6k)](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.
 
 ### Mock / Barcode
 
-*   [Mocker (⭐998)](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
+*   [Mocker (⭐1k)](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
 
 ## [59. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
@@ -789,19 +793,13 @@
 
 *   [Scapy (⭐9.8k)](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
 
-## [65. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
-
-### Layout
-
-*   [Grid (⭐1.6k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
-
-## [66. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [65. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
 *   [vulkan (⭐134)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
 
-## [67. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [66. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Dependency Injection
 
@@ -823,13 +821,13 @@
 
 *   [Crank (⭐50)](https://github.com/arktisklada/crank) - A Procfile-based application manager (like Foreman)
 
-## [68. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [67. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
 *   [steam-box (⭐143)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
 
-## [69. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [68. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### IDE and Code Editing
 
@@ -951,13 +949,13 @@
 *   [HazeOver](https://hazeover.com/github-students.html) \[FREE] - Get focused while working on your projects or studying with HazeOver for Mac.Free app license, including minor updates.
 *   [Github Campus Experts](https://apply.githubcampus.expert/) \[FREE] - GitHub Campus Experts are students who build technical communities on campus, with training and support from GitHub.Apply to become part of the program while you’re a student.
 
-## [70. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [69. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Web
 
 *   🔧 [Typesaurus (⭐348)](https://github.com/kossnocorp/typesaurus) - Type-safe TypeScript-first ODM for Firestore.
 
-## [71. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [70. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Data Sources
 
@@ -965,9 +963,9 @@
 
 ### Python / Visualization
 
-*   [D-Tale (⭐4.4k)](https://github.com/man-group/dtale) - Visualizer for pandas dataframes and xarray datasets.
+*   [D-Tale (⭐4.5k)](https://github.com/man-group/dtale) - Visualizer for pandas dataframes and xarray datasets.
 
-## [72. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [71. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 

@@ -26,7 +26,7 @@
 
 ### UITableView / Barcode
 
-*   [SelectionList (⭐115)](https://github.com/yonat/SelectionList) - Simple single-selection or multiple-selection checklist, based on UITableView.
+*   [SelectionList (⭐116)](https://github.com/yonat/SelectionList) - Simple single-selection or multiple-selection checklist, based on UITableView.
 
 ## [4. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 

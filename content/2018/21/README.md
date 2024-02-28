@@ -330,12 +330,12 @@
 
 ### Animation
 
-*   [Poi (⭐65)](https://github.com/HideakiTouhara/Poi) - Poi makes you use card UI like tinder UI .You can use it like tableview method.
-*   [TheAnimation (⭐221)](https://github.com/marty-suzuki/TheAnimation) - Type-safe CAAnimation wrapper. It makes preventing to set wrong type values.
+*   [Poi (⭐66)](https://github.com/HideakiTouhara/Poi) - Poi makes you use card UI like tinder UI .You can use it like tableview method.
+*   [TheAnimation (⭐224)](https://github.com/marty-suzuki/TheAnimation) - Type-safe CAAnimation wrapper. It makes preventing to set wrong type values.
 
 ### Date
 
-*   [NVDate (⭐177)](https://github.com/novalagung/nvdate) - Date extension library.
+*   [NVDate (⭐176)](https://github.com/novalagung/nvdate) - Date extension library.
 
 ### UI / Barcode
 
@@ -343,7 +343,7 @@
 
 ### Alert / Barcode
 
-*   [SwiftEntryKit (⭐6.4k)](https://github.com/huri000/SwiftEntryKit) - A simple and versatile pop-up presenter.
+*   [SwiftEntryKit (⭐6.5k)](https://github.com/huri000/SwiftEntryKit) - A simple and versatile pop-up presenter.
 
 ## [27. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 

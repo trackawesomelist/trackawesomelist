@@ -40,7 +40,7 @@
 
 ### Packages / Command-line apps
 
-*   [jscpd (⭐3.3k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
+*   [jscpd (⭐4.4k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
 
 ## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

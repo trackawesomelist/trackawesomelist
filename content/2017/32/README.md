@@ -338,7 +338,7 @@ Webpage: <http://www.26grados.com/>
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyTorch (⭐74k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+*   [PyTorch (⭐76k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## [28. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
@@ -392,7 +392,7 @@ git push -u origin <branch_name>
 
 ### Tab / Barcode
 
-*   [HHTabBarView (⭐149)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
+*   [HHTabBarView (⭐152)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
 
 ## [34. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 

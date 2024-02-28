@@ -46,11 +46,11 @@
 
 ### Styling / Barcode
 
-*   [Themes (⭐240)](https://github.com/onmyway133/EasyTheme) - Theme management.
+*   [Themes (⭐241)](https://github.com/onmyway133/EasyTheme) - Theme management.
 
 ### Video / Barcode
 
-*   [Swifty360Player (⭐165)](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer.
+*   [Swifty360Player (⭐170)](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

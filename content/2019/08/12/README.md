@@ -50,7 +50,7 @@
 
 ### Extensions
 
-*   [next-session (⭐328)](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
+*   [next-session (⭐334)](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
 
 ## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

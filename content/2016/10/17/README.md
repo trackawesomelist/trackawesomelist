@@ -20,7 +20,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Suiron (⭐705)](https://github.com/kendricktan/suiron/) - Machine Learning for RC Cars.
+*   [Suiron (⭐706)](https://github.com/kendricktan/suiron/) - Machine Learning for RC Cars.
 
 ## [3. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
 

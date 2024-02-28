@@ -18,7 +18,7 @@
 
 Allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
 
-Installs: 10000 | Stars: 3430 | Last update: n/a
+Installs: 10000 | Stars: 3428 | Last update: n/a
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

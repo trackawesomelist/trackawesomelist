@@ -49,7 +49,7 @@
 
 ### Boilerplates
 
-*   [NextJS Chargebee Subscription (⭐11)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
+*   [NextJS Chargebee Subscription (⭐13)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 
 ## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 

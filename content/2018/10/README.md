@@ -545,7 +545,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [xgboost-node (⭐36)](https://github.com/nuanio/xgboost-node) - Run XGBoost model and make predictions in Node.js.
+*   [xgboost-node (⭐37)](https://github.com/nuanio/xgboost-node) - Run XGBoost model and make predictions in Node.js.
 
 ## [42. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
@@ -714,7 +714,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Packages / Security
 
-*   [upash (⭐525)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
+*   [upash (⭐529)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
 
 ## [47. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
@@ -804,7 +804,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### R / Time Series
 
-*   [tibbletime (⭐180)](https://github.com/business-science/tibbletime) - Built on top of the tidyverse, tibbletime is an extension that allows for the creation of time aware tibbles through the setting of a time index.
+*   [tibbletime (⭐179)](https://github.com/business-science/tibbletime) - Built on top of the tidyverse, tibbletime is an extension that allows for the creation of time aware tibbles through the setting of a time index.
 
 ## [57. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 

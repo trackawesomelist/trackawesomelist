@@ -112,7 +112,7 @@
 
 ### Packages / Email
 
-*   [emailjs (⭐2.1k)](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server.
+*   [emailjs (⭐2.2k)](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server.
 
 ## [12. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 

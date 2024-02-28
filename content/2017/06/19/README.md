@@ -36,7 +36,7 @@
 
 ### Auto Layout / Barcode
 
-*   [Cupcake (⭐286)](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
+*   [Cupcake (⭐288)](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
 
 ### Logging / Barcode
 
@@ -48,7 +48,7 @@
 
 ### Calendar / Barcode
 
-*   [Workaholic (⭐115)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
+*   [Workaholic (⭐118)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
 
 ## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

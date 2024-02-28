@@ -160,11 +160,11 @@
 
 ### Python / Reinforcement Learning
 
-*   [DI-engine (⭐2.7k)](https://github.com/opendilab/DI-engine) - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
+*   [DI-engine (⭐2.4k)](https://github.com/opendilab/DI-engine) - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
 
 ### Tools / Misc
 
-*   [milvus](https://milvus.io) – Milvus is [open source (⭐25k)](https://github.com/milvus-io/milvus) vector database for production AI, written in Go and C++, scalable and blazing fast for billions of embedding vectors.
+*   [milvus](https://milvus.io) – Milvus is [open source (⭐26k)](https://github.com/milvus-io/milvus) vector database for production AI, written in Go and C++, scalable and blazing fast for billions of embedding vectors.
 
 ## [17. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -639,11 +639,11 @@
 
 ### Packages / Command-line utilities
 
-*   [zx (⭐39k)](https://github.com/google/zx) - Write shell scripts JavaScript.
+*   [zx (⭐40k)](https://github.com/google/zx) - Write shell scripts JavaScript.
 
 ### Packages / Job queues
 
-*   [bullmq (⭐4.7k)](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
+*   [bullmq (⭐4.9k)](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
 
 ## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

@@ -23,14 +23,14 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 ### Packages / URL
 
-*   [normalize-url (⭐810)](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
+*   [normalize-url (⭐813)](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
 *   [speakingurl (⭐1.1k)](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration.
-*   [linkify-it (⭐629)](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
-*   [url-pattern (⭐574)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings.
+*   [linkify-it (⭐636)](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
+*   [url-pattern (⭐573)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings.
 
 ### Resources / Cheatsheets
 
-*   [Stream FAQs (⭐191)](https://github.com/stephenplusplus/stream-faqs) - Answering common questions about streams, covering pagination, events, and more.
+*   [Stream FAQs (⭐194)](https://github.com/stephenplusplus/stream-faqs) - Answering common questions about streams, covering pagination, events, and more.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 

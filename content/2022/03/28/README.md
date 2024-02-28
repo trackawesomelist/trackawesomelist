@@ -136,7 +136,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [TA-Lib (⭐8.7k)](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (<http://ta-lib.org/>).
+*   [TA-Lib (⭐8.8k)](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (<http://ta-lib.org/>).
 *   [zipline (⭐17k)](https://github.com/quantopian/zipline) - Pythonic algorithmic trading library.
 
 ### Python / Data Sources
@@ -147,7 +147,7 @@
 ### R / Numerical Libraries & Data Structures
 
 *   [xts (⭐215)](https://github.com/joshuaulrich/xts) - eXtensible Time Series: Provide for uniform handling of R's different time-based data classes by extending zoo, maximizing native format information preservation and allowing for user level customization and extension, while simplifying cross-class interoperability.
-*   [data.table (⭐3.4k)](https://github.com/Rdatatable/data.table) - Extension of data.frame: Fast aggregation of large data (e.g. 100GB in RAM), fast ordered joins, fast add/modify/delete of columns by group using no copies at all, list columns and a fast file reader (fread). Offers a natural and flexible syntax, for faster development.
+*   [data.table (⭐3.5k)](https://github.com/Rdatatable/data.table) - Extension of data.frame: Fast aggregation of large data (e.g. 100GB in RAM), fast ordered joins, fast add/modify/delete of columns by group using no copies at all, list columns and a fast file reader (fread). Offers a natural and flexible syntax, for faster development.
 
 ### R / Data Sources
 
@@ -161,19 +161,19 @@
 
 ### R / Financial Instruments and Pricing
 
-*   [portfolio (⭐14)](https://github.com/dgerlanc/portfolio) - Analysing equity portfolios.
+*   [portfolio (⭐15)](https://github.com/dgerlanc/portfolio) - Analysing equity portfolios.
 *   [credule (⭐5)](https://github.com/blenezet/credule) - Credit Default Swap Functions.
-*   [PortfolioAnalytics (⭐71)](https://github.com/braverock/PortfolioAnalytics) - Portfolio Analysis, Including Numerical Methods for Optimizationof Portfolios.
-*   [fmbasics (⭐10)](https://github.com/imanuelcostigan/fmbasics) - Financial Market Building Blocks.
-*   [R-fixedincome (⭐43)](https://github.com/wilsonfreitas/R-fixedincome) - Fixed income tools for R.
+*   [PortfolioAnalytics (⭐72)](https://github.com/braverock/PortfolioAnalytics) - Portfolio Analysis, Including Numerical Methods for Optimizationof Portfolios.
+*   [fmbasics (⭐11)](https://github.com/imanuelcostigan/fmbasics) - Financial Market Building Blocks.
+*   [R-fixedincome (⭐45)](https://github.com/wilsonfreitas/R-fixedincome) - Fixed income tools for R.
 
 ### R / Trading
 
-*   [TTR (⭐314)](https://github.com/joshuaulrich/TTR) - Technical Trading Rules.
+*   [TTR (⭐318)](https://github.com/joshuaulrich/TTR) - Technical Trading Rules.
 
 ### R / Risk Analysis
 
-*   [PerformanceAnalytics (⭐201)](https://github.com/braverock/PerformanceAnalytics) - Econometric tools for performance and risk analysis.
+*   [PerformanceAnalytics (⭐203)](https://github.com/braverock/PerformanceAnalytics) - Econometric tools for performance and risk analysis.
 
 ### R / Time Series
 
@@ -190,7 +190,7 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Machine-Learning-for-Asset-Managers (⭐402)](https://github.com/emoen/Machine-Learning-for-Asset-Managers) - Implementation of code snippets, exercises and application to live data from Machine Learning for Asset Managers (Elements in Quantitative Finance) written by Prof. Marcos López de Prado.
+*   [Machine-Learning-for-Asset-Managers (⭐407)](https://github.com/emoen/Machine-Learning-for-Asset-Managers) - Implementation of code snippets, exercises and application to live data from Machine Learning for Asset Managers (Elements in Quantitative Finance) written by Prof. Marcos López de Prado.
 
 ---
 

@@ -290,7 +290,7 @@
 ### Projects / API Testing
 
 *   MQ clients
-    *   [JMSToolBox (⭐189) (⭐188)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
+    *   [JMSToolBox (⭐189) (⭐189)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
     *   [kcat (⭐5.1k) (⭐5.2k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
     *   [MQTT Explorer (⭐2.6k) (⭐2.7k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
     *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
@@ -298,7 +298,7 @@
 
 ### Projects / Messaging
 
-*   [Apache Qpid (⭐56) (⭐55)](https://github.com/apache/qpid-broker-j) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
+*   [Apache Qpid (⭐56) (⭐56)](https://github.com/apache/qpid-broker-j) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
 
 ### Resources / API Specification
 
@@ -394,7 +394,7 @@
 
 ### **AI/ML**
 
-*   [OpenWeedLocator (⭐271)](https://github.com/geezacoleman/OpenWeedLocator) - Opensource hardware and software weed detector that uses entirely off-the-shelf componentry, very simple green-detection algorithms (with capacity to upgrade to in-crop detection) and 3D printable parts
+*   [OpenWeedLocator (⭐284)](https://github.com/geezacoleman/OpenWeedLocator) - Opensource hardware and software weed detector that uses entirely off-the-shelf componentry, very simple green-detection algorithms (with capacity to upgrade to in-crop detection) and 3D printable parts
 *   [Plant disease (⭐33)](https://github.com/morenoh149/plantdisease) - Predictive model for cannabis sickness. One source identifies 30 types of cannabis ailments.
 
 ### **Grow Automation**
@@ -423,7 +423,7 @@
 
 ### Home Assistant / Node RED plugins
 
-*   [Home Assistant (⭐67k)](https://github.com/home-assistant/core) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts
+*   [Home Assistant (⭐68k)](https://github.com/home-assistant/core) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts
 
 ### Home Assistant / Home Assistant Automation
 
@@ -431,16 +431,16 @@
 
 ### **Facility management** / Home Assistant UI
 
-*   [OpenTHC (⭐6)](https://github.com/openthc/docker) - OpenTHC is an environment of web-based applications focused on helping Cannabis/Hemp and Organic Horticulture industry participants meet their regulatory requirements
+*   [OpenTHC (⭐7)](https://github.com/openthc/docker) - OpenTHC is an environment of web-based applications focused on helping Cannabis/Hemp and Organic Horticulture industry participants meet their regulatory requirements
 
 ### **Irrigation** / Home Assistant UI
 
-*   [OpenSprinkler AVR/RPI/BBB Firmware (⭐436)](https://github.com/OpenSprinkler/OpenSprinkler-Firmware) - This is a unified OpenSprinkler firmware for Arduino, and Linux-based OpenSprinklers such as OpenSprinkler Pi
+*   [OpenSprinkler AVR/RPI/BBB Firmware (⭐439)](https://github.com/OpenSprinkler/OpenSprinkler-Firmware) - This is a unified OpenSprinkler firmware for Arduino, and Linux-based OpenSprinklers such as OpenSprinkler Pi
 *   [OpenMinder (⭐33)](https://github.com/autogrow/openminder) -  Allows anyone to build a device that can monitor the rootzone of their plants to make the most optimum use of water and fertigation ingredients to ensure a happy plant. This is done by measuring the water going into the plants on the irrigation side, as well as coming out on the runoff side, thus allowing comparisons
 
 ### ESPHome / Home Assistant UI
 
-*   [ESPHome (⭐7.1k)](https://github.com/esphome/esphome) - ESPHome is a system to control your microcontrollers by simple yet powerful configuration files and control them remotely through Home Automation systems
+*   [ESPHome (⭐7.2k)](https://github.com/esphome/esphome) - ESPHome is a system to control your microcontrollers by simple yet powerful configuration files and control them remotely through Home Automation systems
 *   [PLF10 (⭐24)](https://github.com/KaufHA/PLF10/tree/main) - KAUF Power Monitoring Smart Plug (PLF10)
 
 ### ESPHome / ESPHome Configs
@@ -471,7 +471,7 @@
 
 ### DIY / Modular systems
 
-*   [OpenSprinkler Hardware (⭐58)](https://github.com/OpenSprinkler/OpenSprinkler-Hardware) - OpenSprinkler Hardware Design files, made in EagleCAD software
+*   [OpenSprinkler Hardware (⭐59)](https://github.com/OpenSprinkler/OpenSprinkler-Hardware) - OpenSprinkler Hardware Design files, made in EagleCAD software
 
 ### **Metrics and Logging** / Modular systems
 
@@ -485,7 +485,7 @@
 
 ### **MQTT** / Modular systems
 
-*   [Mosquitto (⭐8.1k)](https://github.com/eclipse/mosquitto) - Mosquitto is an open source implementation of a server for version 5.0, 3.1.1, and 3.1 of the MQTT protocol
+*   [Mosquitto (⭐8.2k)](https://github.com/eclipse/mosquitto) - Mosquitto is an open source implementation of a server for version 5.0, 3.1.1, and 3.1 of the MQTT protocol
 *   [EMQX (⭐13k)](https://github.com/emqx/emqx) - EMQX is the world's most scalable open-source MQTT broker with a high performance that connects 100M+ IoT devices in 1 cluster, while maintaining 1M message per second throughput and sub-millisecond latency.
 
 ### **Relay and power control** / Modular systems
@@ -504,7 +504,7 @@
 
 ### Visualization Libraries / Modular systems
 
-*   [Giraffe (⭐176)](https://github.com/influxdata/giraffe) - A React-based visualization library powering the data visualizations in the InfluxDB 2.0 UI
+*   [Giraffe (⭐177)](https://github.com/influxdata/giraffe) - A React-based visualization library powering the data visualizations in the InfluxDB 2.0 UI
 *   [D3.js (⭐107k)](https://github.com/d3/d3) - D3 (or D3.js) is a free, open-source JavaScript library for visualizing data. Its low-level approach built on web standards offers unparalleled flexibility in authoring dynamic, data-driven graphics
 
 ### **Zigbee** / Modular systems
@@ -513,15 +513,15 @@
 
 ### **Other Awesome Lists** / Modular systems
 
-*   [Awesome Agriculture (⭐1.1k)](https://github.com/brycejohnston/awesome-agriculture)
-*   [Awesome ESP (⭐785)](https://github.com/agucova/awesome-esp)
+*   [Awesome Agriculture (⭐1.2k)](https://github.com/brycejohnston/awesome-agriculture)
+*   [Awesome ESP (⭐817)](https://github.com/agucova/awesome-esp)
 *   [Awesome Home Assistant (⭐5.5k)](https://github.com/frenck/awesome-home-assistant)
-*   [Awesome InfluxDB (⭐790)](https://github.com/mark-rushakoff/awesome-influxdb)
+*   [Awesome InfluxDB (⭐791)](https://github.com/mark-rushakoff/awesome-influxdb)
 *   [Awesome IoT (⭐3k)](https://github.com/HQarroum/awesome-iot)
-*   [Awesome IoT & Hybrid (⭐534)](https://github.com/weblancaster/awesome-IoT-hybrid)
-*   [Awesome Open IoT (⭐596)](https://github.com/Agile-IoT/awesome-open-iot)
-*   [Awesome MQTT (⭐2k)](https://github.com/hobbyquaker/awesome-mqtt)
-*   [Awesome Open Hardware (⭐322)](https://github.com/delftopenhardware/awesome-open-hardware)
+*   [Awesome IoT & Hybrid (⭐538)](https://github.com/weblancaster/awesome-IoT-hybrid)
+*   [Awesome Open IoT (⭐600)](https://github.com/Agile-IoT/awesome-open-iot)
+*   [Awesome MQTT (⭐2.1k)](https://github.com/hobbyquaker/awesome-mqtt)
+*   [Awesome Open Hardware (⭐326)](https://github.com/delftopenhardware/awesome-open-hardware)
 *   [Awesome Raspberry Pi (⭐12k)](https://github.com/thibmaek/awesome-raspberry-pi)
 
 ## [36. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)

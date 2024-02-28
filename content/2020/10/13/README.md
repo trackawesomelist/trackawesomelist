@@ -158,7 +158,7 @@
 
 ### Gesture
 
-*   [Tactile (⭐716)](https://github.com/delba/Tactile) - A safer and more idiomatic way to respond to gestures and control events.
+*   [Tactile (⭐713)](https://github.com/delba/Tactile) - A safer and more idiomatic way to respond to gestures and control events.
 
 ## [17. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 

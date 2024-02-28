@@ -46,25 +46,21 @@
 
 *   [Laravel Views (⭐493)](https://github.com/Gustavinho/laravel-views) - Laravel package to create beautiful common views like data tables using the TALL stack.
 
-## [7. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
-
-### Websites
-
-*   Emoji Launch - <https://emojilaunch.com/>
-*   Springwise - <https://www.springwise.com/spotted/>
-*   Web App Rater - <https://webapprater.com/submit-your-web-application-for-review-html>
-
-## [8. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
-
-### Courses
-
-*   [GCATI](https://gcati.org/community/wardley-mapping-community) - Globally recognised Wardley mapping training and certifications; Awareness, Foundation, Practitioner, Strategy Development Workshop and Wardley Mapping BattleCamp.
+## [7. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Maps in the Wild
 
 *   [How to use Wardley Mapping to understand how you deliver customer value](https://medium.com/@stephanwillemse/how-to-use-wardley-mapping-to-understand-how-you-deliver-customer-value-43abdad264cf) - Sep 15, 2020.
 *   [The What, The Why and Some How of Wardley Mapping](https://www.infoq.com/presentations/interview-wardley-maps/) - A conversation with Simon Wardley. Aug 4, 2020.
 *   [Estratégia com Wardley Maps](https://targetteal.com/pt/blog/estrategia-wardley-maps/) - Jun 7, 2020.
+
+## [8. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   Emoji Launch - <https://emojilaunch.com/>
+*   Springwise - <https://www.springwise.com/spotted/>
+*   Web App Rater - <https://webapprater.com/submit-your-web-application-for-review-html>
 
 ## [9. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 

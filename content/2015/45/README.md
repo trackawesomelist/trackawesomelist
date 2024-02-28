@@ -332,11 +332,11 @@ git describe --tags --abbrev=0
 
 ### Packages / Mad science
 
-*   [ipfs (⭐7.4k)](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
+*   [ipfs (⭐7.5k)](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
 
 ### Packages / Command-line apps
 
-*   [Jsome (⭐240)](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
+*   [Jsome (⭐241)](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
 
 ### Packages / Command-line utilities
 
@@ -382,7 +382,7 @@ git describe --tags --abbrev=0
 
 ### Packages / Miscellaneous
 
-*   [nodegit (⭐5.5k)](https://github.com/nodegit/nodegit) - Native bindings to Git.
+*   [nodegit (⭐5.6k)](https://github.com/nodegit/nodegit) - Native bindings to Git.
 
 ### Resources / Articles
 
@@ -396,7 +396,7 @@ git describe --tags --abbrev=0
 
 ### UI / Barcode
 
-*   [GMStepper (⭐922)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
+*   [GMStepper (⭐923)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 *   [StarryStars (⭐174)](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
 
 ## [27. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 08, 2020
 
-23 awesome lists updated today.
+22 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -65,9 +65,13 @@
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
+### Layout / Barcode
+
+*   [Grid (⭐1.6k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
+
 ### Keyboard / Barcode
 
-*   [KeyboardShortcuts (⭐1.5k)](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.
+*   [KeyboardShortcuts (⭐1.6k)](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.
 
 ## [10. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -119,31 +123,25 @@
 
 *   [Scapy (⭐9.8k)](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
 
-## [16. Awesome Ios](/content/vsouza/awesome-ios/README.md)
-
-### Layout
-
-*   [Grid (⭐1.6k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
-
-## [17. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [16. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Bindings
 
 *   [vulkan (⭐134)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
 
-## [18. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [17. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Official Documentation Translations
 
 *   [Crank (⭐50)](https://github.com/arktisklada/crank) - A Procfile-based application manager (like Foreman)
 
-## [19. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
+## [18. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
 *   [steam-box (⭐143)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
 
-## [20. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [19. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### IDE and Code Editing
 
@@ -265,19 +263,19 @@
 *   [HazeOver](https://hazeover.com/github-students.html) \[FREE] - Get focused while working on your projects or studying with HazeOver for Mac.Free app license, including minor updates.
 *   [Github Campus Experts](https://apply.githubcampus.expert/) \[FREE] - GitHub Campus Experts are students who build technical communities on campus, with training and support from GitHub.Apply to become part of the program while you’re a student.
 
-## [21. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [20. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Web
 
 *   🔧 [Typesaurus (⭐348)](https://github.com/kossnocorp/typesaurus) - Type-safe TypeScript-first ODM for Firestore.
 
-## [22. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+## [21. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Visualization
 
-*   [D-Tale (⭐4.4k)](https://github.com/man-group/dtale) - Visualizer for pandas dataframes and xarray datasets.
+*   [D-Tale (⭐4.5k)](https://github.com/man-group/dtale) - Visualizer for pandas dataframes and xarray datasets.
 
-## [23. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [22. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 

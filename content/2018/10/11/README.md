@@ -26,7 +26,7 @@
 
 ### Patterns
 
-*   [Viperit (⭐507)](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.
+*   [Viperit (⭐508)](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.
 
 ## [4. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 

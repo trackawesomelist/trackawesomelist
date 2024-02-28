@@ -49,7 +49,7 @@
 
 ### Extensions
 
-*   [Next universal language detector (⭐81)](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
+*   [Next universal language detector (⭐85)](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
 
 ## [6. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 

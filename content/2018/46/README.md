@@ -448,7 +448,7 @@
 
 ### Boilerplates
 
-*   [Nextron (⭐3.1k)](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
+*   [Nextron (⭐3.4k)](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
 
 ## [38. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -530,11 +530,11 @@
 
 ### Alert / Barcode
 
-*   [ALRT (⭐97)](https://github.com/mshrwtnb/alrt) - An easier constructor for UIAlertController. Present an alert from anywhere.
+*   [ALRT (⭐96)](https://github.com/mshrwtnb/alrt) - An easier constructor for UIAlertController. Present an alert from anywhere.
 
 ### Transition / Barcode
 
-*   [ImageTransition (⭐214)](https://github.com/shtnkgm/ImageTransition) - ImageTransition is a library for smooth animation of images during transitions.
+*   [ImageTransition (⭐218)](https://github.com/shtnkgm/ImageTransition) - ImageTransition is a library for smooth animation of images during transitions.
 *   [Jelly (⭐2.4k)](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions with just a few lines of code.
 
 ### UICollectionView / Barcode
@@ -543,7 +543,7 @@
 
 ### Utility / Barcode
 
-*   [WeakableSelf (⭐76)](https://github.com/vincent-pradeilles/weakable-self) - A micro-framework to encapsulate \[weak self] and guard statements within closures.
+*   [WeakableSelf (⭐77)](https://github.com/vincent-pradeilles/weakable-self) - A micro-framework to encapsulate \[weak self] and guard statements within closures.
 
 ## [46. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 

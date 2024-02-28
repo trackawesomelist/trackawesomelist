@@ -53,7 +53,7 @@
 
 ### Extensions
 
-*   [next-i18next (⭐4.9k)](https://github.com/isaachinman/next-i18next) - The easiest way to translate your NextJs apps.
+*   [next-i18next (⭐5.2k)](https://github.com/isaachinman/next-i18next) - The easiest way to translate your NextJs apps.
 
 ## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

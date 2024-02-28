@@ -90,7 +90,7 @@
 
 ### Packages / Command-line apps
 
-*   [mobisplash (⭐68)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
+*   [mobisplash (⭐69)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
 
 ### Resources / Community
 

@@ -88,7 +88,7 @@
 
 ### Creating GIFs
 
-*   [vhs (⭐12k)](https://github.com/charmbracelet/vhs) - **FREE** - Generate beautiful terminal gifs with a simple scripting language
+*   [vhs (⭐13k)](https://github.com/charmbracelet/vhs) - **FREE** - Generate beautiful terminal gifs with a simple scripting language
 
 ## [12. Awesome List](/content/sindresorhus/awesome/README.md)
 

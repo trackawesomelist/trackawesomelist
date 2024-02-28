@@ -26,7 +26,7 @@
 
 ### Packages / Miscellaneous
 
-*   [nodegit (⭐5.5k)](https://github.com/nodegit/nodegit) - Native bindings to Git.
+*   [nodegit (⭐5.6k)](https://github.com/nodegit/nodegit) - Native bindings to Git.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

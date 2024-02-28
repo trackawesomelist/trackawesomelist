@@ -16,7 +16,7 @@
 
 ### JSON
 
-*   [Sextant (⭐42)](https://github.com/KittyMac/Sextant) :penguin: - High performance JSONPath queries
+*   [Sextant (⭐44)](https://github.com/KittyMac/Sextant) :penguin: - High performance JSONPath queries
 
 ## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

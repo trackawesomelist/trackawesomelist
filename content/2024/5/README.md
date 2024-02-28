@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 29 - Feb 04, 2024
 
-31 awesome lists updated this week.
+32 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -211,12 +211,15 @@
 ### Large Language Models (LLMs)
 
 *   [rasbt/LLMs-from-scratch (⭐9.4k)](https://github.com/rasbt/LLMs-from-scratch): Implementing a ChatGPT-like LLM from scratch, step by step
-*   \[🔥🔥🔥] [LLMLingua](https://llmlingua.com/): Designing a Language for LLMs via **Prompt Compression**
 
 ### Online Tools and Applications
 
 *   [Documind.chat](https://documind.chat): Chat with PDF using AI. Documind is a powerful chat with pdf tool that lets you ask questions from your pdf documents.
 *   [Snowpixel](https://snowpixel.app): Generate Images/Videos/Animations/Audio/Music/3D Objects with Text and/or Image. Upload your own data to create custom models.
+
+### Prompt Engineering / Prompt Optimizers
+
+*   \[🔥🔥🔥] [LLMLingua](https://llmlingua.com/): Designing a Language for LLMs via **Prompt Compression**
 
 ### Auxiliary tools and concepts / Deforum
 
@@ -268,7 +271,46 @@
 
 *   [MusicXML Player (⭐22)](https://github.com/infojunkie/musicxml-player) - A TypeScript component that loads and plays MusicXML files in the browser using Web Audio and Web MIDI.
 
-## [26. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [26. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/week/README.md)
+
+### Contents / Task Management
+
+*   **[Trello](https://trello.com)** - [review](https://productivity.directory/trello) - A visual tool for organizing your work and life.
+*   **[Todoist](https://todoist.com)** - [review](https://productivity.directory/todoist) - A simple yet powerful to-do list app.
+*   **[Asana](https://asana.com)** - [review](https://productivity.directory/asana) - Project management tool for teams.
+*   **[Microsoft To Do](https://todo.microsoft.com)** - [review](https://productivity.directory/microsoft-todo) - Task management tool by Microsoft.
+
+### Contents / Time Tracking
+
+*   **[Toggl](https://toggl.com)** - [review](https://productivity.directory/toggl) - Easy time tracking for any project.
+*   **[RescueTime](https://www.rescuetime.com)** - [review](https://productivity.directory/rescuetime) - Automatic time-tracking software.
+*   **[Clockify](https://clockify.me)** -[review](https://productivity.directory/clockify) - Free time tracker and timesheet app for teams.
+
+### Contents / Note Taking
+
+*   **[Evernote](https://evernote.com)** - [review](https://productivity.directory/evernote) - Note-taking, organizing, and archiving.
+*   **[Notion](https://www.notion.so)** - [review](https://productivity.directory/notion) - All-in-one workspace for notes, tasks, wikis, and databases.
+*   **[Joplin](https://joplinapp.org)** - [review](https://productivity.directory/joplin) - Note-taking, to-do app.
+
+### Contents / Collaboration
+
+*   **[Slack](https://slack.com)** - [review](https://productivity.directory/slack) - Messaging app for teams.
+*   **[Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software)** - [review](https://productivity.directory/microsoft-teams) - Unified communication and collaboration platform.
+*   **[Zoom](https://zoom.us)** - [review](https://productivity.directory/zoom) - Video conferencing and web conferencing service.
+
+### Contents / Project Management
+
+*   **[Jira](https://www.atlassian.com/software/jira)** - [review](https://productivity.directory/jira) - Issue and project tracking for software teams.
+*   **[Monday.com](https://monday.com)** - [review](https://productivity.directory/mondaydotcom) - Work operating system for teams.
+*   **[Basecamp](https://basecamp.com)** - [review](https://productivity.directory/basecamp) - Real-time communication tool for teams.
+
+### Contents / Calendar and Scheduling
+
+*   **[Google Calendar](https://calendar.google.com)** - [review](https://productivity.directory/google-Calendar) - Time management and scheduling tool.
+*   **[Calendly](https://calendly.com)** - [review](https://productivity.directory/calendly) - Automated scheduling software.
+*   **[Fantastical](https://flexibits.com/fantastical)** - [review](https://productivity.directory/fantastical) - Calendar app with natural language event creation.
+
+## [27. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Other Xcode / Collection View Layout
 
@@ -282,20 +324,20 @@
 
 *   [SwiftLee](https://www.avanderlee.com/) - A weekly blog about Swift, iOS and Xcode Tips and Tricks.
 
-## [27. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [28. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Python / Svelte
 
 *   [PyCoder's Weekly](https://pycoders.com/). A free, weekly email newsletter for those interested in Python development and various topics around Python and the communi‍‍‍ty.
 *   [The Real Python Newsletter](https://realpython.com/newsletter/). Weekly programming and career tips for Python developers, including short & sweet "Python Tricks" code snippets.
 
-## [28. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [29. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
 *   [QuestSystem (⭐28)](https://github.com/ShomyKohai/quest-system) - A simple and extensible quest manager and creator (Godot 4.x).
 
-## [29. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [30. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -317,7 +359,7 @@
 
 *   [NeoLand](https://neoland.dev) - A beautifully crafted website for Neovim resources.
 
-## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [31. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -329,7 +371,7 @@
 
 *   [ssh-config-suggestions (⭐0)](https://github.com/yngc0der/zsh-ssh-config-suggestions)- Loads completions for `ssh` from `~/.ssh/config`.
 
-## [31. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [32. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Workflow
 

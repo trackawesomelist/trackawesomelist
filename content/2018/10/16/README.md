@@ -26,7 +26,7 @@
 
 ### Streaming / Barcode
 
-*   [HaishinKit (⭐2.6k)](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
+*   [HaishinKit (⭐2.7k)](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Apps
 
-*   [Urteile & Gesetze (⭐16)](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
+*   [Urteile & Gesetze (⭐15)](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
 
 ## [13. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

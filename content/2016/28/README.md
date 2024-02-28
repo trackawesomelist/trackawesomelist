@@ -329,15 +329,15 @@ git shortlog
 
 ### Cache
 
-*   [Cache (⭐2.8k)](https://github.com/hyperoslo/Cache) - Nothing but Cache.
+*   [Cache (⭐2.9k)](https://github.com/hyperoslo/Cache) - Nothing but Cache.
 
 ### Dependency Injection
 
-*   [Dip (⭐962)](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
+*   [Dip (⭐970)](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
 
 ### Device
 
-*   [Device.swift (⭐220)](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
+*   [Device.swift (⭐221)](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
 
 ### Bluetooth
 
@@ -350,7 +350,7 @@ git shortlog
 
 ### PDF / Barcode
 
-*   [SimplePDF (⭐243)](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
+*   [SimplePDF (⭐248)](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
 
 ### Streaming / Barcode
 
@@ -358,17 +358,17 @@ git shortlog
 
 ### HUD / Barcode
 
-*   [KRProgressHUD (⭐661)](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
+*   [KRProgressHUD (⭐674)](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
 *   [PKHUD (⭐3.8k)](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
 
 ### Utility / Barcode
 
-*   [Solar (⭐538)](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
+*   [Solar (⭐545)](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
 
 ### Version Manager / Barcode
 
-*   [AppVersionMonitor (⭐258)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
-*   [Version Tracker Swift (⭐85)](https://github.com/tbaranes/VersionTrackerSwift) - Versions tracker for your iOS, OS X, and tvOS app.
+*   [AppVersionMonitor (⭐259)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
+*   [Version Tracker Swift (⭐86)](https://github.com/tbaranes/VersionTrackerSwift) - Versions tracker for your iOS, OS X, and tvOS app.
 
 ## [28. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 

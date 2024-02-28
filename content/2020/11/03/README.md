@@ -30,7 +30,7 @@
 
 ### Python / Factor Analysis
 
-*   [Spectre (⭐516)](https://github.com/Heerozh/spectre) - GPU-accelerated Factors analysis library and Backtester
+*   [Spectre (⭐518)](https://github.com/Heerozh/spectre) - GPU-accelerated Factors analysis library and Backtester
 
 ## [5. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 

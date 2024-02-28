@@ -151,7 +151,7 @@
 
 ## [16. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
-### Apps / Mapping
+### Mapping
 
 *   [Glamorous Toolkit](https://gtoolkit.com) - A moldable and programmable environment in which Wardley Maps can be intertwinned with knowledge management and multi language notebooks. Follow [@feenkcom](https://twitter.com/feenkcom) to learn more.
 

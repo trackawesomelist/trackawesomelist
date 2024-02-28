@@ -211,7 +211,7 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [gorse (⭐7.8k)](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
+*   [gorse (⭐7.9k)](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
 
 ### Python / General-Purpose Machine Learning
 
@@ -3792,11 +3792,11 @@
 
 ### Misc
 
-*   [CodableWrappers (⭐482)](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
+*   [CodableWrappers (⭐536)](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
 
 ### Mock / Barcode
 
-*   [MockSwift (⭐86)](https://github.com/leoture/MockSwift) - Mock Framework that uses the power of property wrappers.
+*   [MockSwift (⭐87)](https://github.com/leoture/MockSwift) - Mock Framework that uses the power of property wrappers.
 
 ## [67. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 

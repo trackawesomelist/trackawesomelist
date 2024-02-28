@@ -100,7 +100,7 @@
 
 ### Scala / Natural Language Processing
 
-*   [Montague (⭐55)](https://github.com/Workday/upshot-montague) - Montague is a semantic parsing library for Scala with an easy-to-use DSL.
+*   [Montague (⭐58)](https://github.com/Workday/upshot-montague) - Montague is a semantic parsing library for Scala with an easy-to-use DSL.
 
 ## [9. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 

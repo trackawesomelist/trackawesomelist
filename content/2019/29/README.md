@@ -315,11 +315,11 @@
 
 ### Style Guides
 
-*   [Airbnb (⭐2.1k)](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
+*   [Airbnb (⭐2.2k)](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
 
 ### Mock / Barcode
 
-*   [AutoMockable (⭐42)](https://github.com/vincent-pradeilles/AutoMocker) - A framework that leverages the type system to let you easily create mocked instances of your data types.
+*   [AutoMockable (⭐43)](https://github.com/vincent-pradeilles/AutoMocker) - A framework that leverages the type system to let you easily create mocked instances of your data types.
 
 ## [11. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 

@@ -134,7 +134,7 @@
 
 ### Packages / Parsing
 
-*   [Chevrotain (⭐2.3k)](https://github.com/Chevrotain/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript.
+*   [Chevrotain (⭐2.4k)](https://github.com/Chevrotain/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript.
 
 ## [18. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -608,7 +608,7 @@
 
 ### Python / Visualization
 
-*   [finvizfinance (⭐379)](https://github.com/lit26/finvizfinance) - Finviz analysis python library.
+*   [finvizfinance (⭐387)](https://github.com/lit26/finvizfinance) - Finviz analysis python library.
 
 ### R / Time Series
 

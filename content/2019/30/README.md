@@ -286,7 +286,43 @@
 
 *   [The Green Meal (⭐84)](https://github.com/VincentCordobes/the-green-meal) - Next.js, PostgreSQL demo app written in TypeScript.
 
-## [16. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
+## [16. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+
+### Table of Contents / HTTP
+
+*   [Symfony HTTP Client (⭐1.8k)](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
+
+### Table of Contents / Scraping
+
+*   [Symfony Panther (⭐2.9k)](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
+
+### Table of Contents / Debugging and Profiling
+
+*   [PHPSpy (⭐1.4k)](https://github.com/adsr/phpspy) - A low-overhead sampling profiler.
+
+### Table of Contents / Event
+
+*   [Swoole (⭐18k)](https://github.com/swoole/swoole-src) - An event-driven asynchronous and concurrent networking communication framework with high performance for PHP written in C.
+*   [Workerman (⭐11k)](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
+
+### Table of Contents / Office
+
+*   [PHPSpreadsheet (⭐13k)](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel).
+
+### Table of Contents / Serverless
+
+*   [Bref](https://bref.sh/) - Serverless PHP on AWS Lambda.
+
+### Configuration / Serverless
+
+*   [PHP Dotenv (⭐13k)](https://github.com/vlucas/phpdotenv) - Parse and load environment variables from `.env` files.
+*   [Symfony Dotenv (⭐3.7k)](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
+
+### Configuration / Virtual Machines
+
+*   [Hack](https://hacklang.org/) - A programming language for HHVM.
+
+## [17. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
 ### Software Tools / Analysis Frameworks
 
@@ -326,7 +362,7 @@
 *   [Pwning the Dlink 850L routers and abusing the MyDlink Cloud protocol](https://pierrekim.github.io/blog/2017-09-08-dlink-850l-mydlink-cloud-0days-vulnerabilities.html)
 *   [PWN Xerox Printers (...again)](https://www.fkie.fraunhofer.de/content/dam/fkie/de/documents/xerox_phaser_6700_white_paper.pdf)
 
-## [17. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [18. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
@@ -357,7 +393,7 @@
 
 *   [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 
-## [18. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [19. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Cloud
 
@@ -379,13 +415,13 @@
 
 *   [Agoo (⭐874)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 
-## [19. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [20. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Support / IRC
 
 *   IRC channels are on `irc.freenode.org`: [#composer](https://webchat.freenode.net/#composer) for users and [#composer-dev](https://webchat.freenode.net/#composer-dev) for development.
 
-## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
@@ -407,13 +443,13 @@
 
 *   [QSpace](https://qspace.awehunt.com) - A clean and efficient Multi-view File Manager. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/id1469774098)
 
-## [21. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [22. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Testing / Scala
 
 *   [Hoverfly (⭐2.3k)](https://github.com/spectolabs/hoverfly) - Lightweight service virtualization/API simulation tool for developers and testers.
 
-## [22. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [23. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Miscellaneous
 
@@ -427,7 +463,7 @@
 *   [Awesome Graph Embedding (⭐4.5k)](https://github.com/benedekrozemberczki/awesome-graph-embedding) - Curated list of articles related to deep learning scientific research on graph structured data at the graph level.
 *   [Awesome Network Embedding (⭐2.4k)](https://github.com/chihming/awesome-network-embedding) - Curated list of articles related to deep learning scientific research on graph structured data at the node level.
 
-## [23. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
+## [24. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
 ### Community / Youtube and Livestreams
 
@@ -445,7 +481,7 @@
 
 
 
-## [24. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [25. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### Tutorials
 
@@ -462,57 +498,17 @@
 *   [Dash DataTable Component](https://dash.plot.ly/datatable) - Interactive table that supports rich styling, conditional formatting, editing, sorting, filtering, and more.
 *   [Dash DAQ Components](https://dash.plot.ly/dash-daq) - Set of controls that make it simpler to integrate data acquisition and controls into your Dash applications.
 
-## [25. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [26. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Component Libraries
 
 *   [react-bootstrap (⭐22k)](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 
-## [26. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [27. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Tables / Paid Books
 
 *   [jquery.table-shrinker (⭐29)](https://github.com/VagnerDomingues/jquery.table-shrinker) - make HTML Table responsive across all devices, the right way!
-
-## [27. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
-
-### Table of Contents / HTTP
-
-*   [Symfony HTTP Client (⭐1.8k)](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
-
-### Table of Contents / Scraping
-
-*   [Symfony Panther (⭐2.9k)](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
-
-### Table of Contents / Debugging and Profiling
-
-*   [PHPSpy (⭐1.4k)](https://github.com/adsr/phpspy) - A low-overhead sampling profiler.
-
-### Table of Contents / Event
-
-*   [Swoole (⭐18k)](https://github.com/swoole/swoole-src) - An event-driven asynchronous and concurrent networking communication framework with high performance for PHP written in C.
-*   [Workerman (⭐11k)](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
-
-### Table of Contents / Office
-
-*   [PHPSpreadsheet (⭐13k)](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel).
-
-### Table of Contents / Serverless
-
-*   [Bref](https://bref.sh/) - Serverless PHP on AWS Lambda.
-
-### Configuration / Serverless
-
-*   [PHP Dotenv (⭐13k)](https://github.com/vlucas/phpdotenv) - Parse and load environment variables from `.env` files.
-*   [Symfony Dotenv (⭐3.7k)](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
-
-### Configuration / Virtual Machines
-
-*   [Hack](https://hacklang.org/) - A programming language for HHVM.
-
-### Configuration / PHP Videos
-
-*   [Taking PHP Seriously](https://www.infoq.com/presentations/php-history/) - A talk outlining PHP's strengths by Keith Adams of Facebook.
 
 ## [28. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 

@@ -24,10 +24,10 @@
 
 ## [3. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
-### Tools & Scripts / AI
+### AI
 
-*   [Q\&A with Simon's Book](https://wardley-book-chat.streamlit.app/) - Ask Simon's book anything. Have a chat with the book.
-*   [Research Map Chat](https://wardleyresearchchat.streamlit.app/) - Have an AI chat with Simon's Research 2022 Wardley Maps.
+*   [Q\&A with Simon's Book](https://wardley-book-chat.streamlit.app/) - Have a chat with the book Ask Simon's book anything.
+*   [Research Map Chat](https://wardleyresearchchat.streamlit.app/) - Have an AI chat with Simon's Research Wardley Maps that are available on GitHub.
 
 ## [4. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 

@@ -716,7 +716,7 @@ Webpage: <http://www.denizlihs.org/>
 
 ### C++ / Speech Recognition
 
-*   [Kaldi (⭐13k)](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
+*   [Kaldi (⭐14k)](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
 
 ### Java / General-Purpose Machine Learning
 

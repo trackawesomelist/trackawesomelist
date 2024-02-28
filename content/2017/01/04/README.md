@@ -64,7 +64,7 @@
 
 ### Go / Natural Language Processing
 
-*   [snowball (⭐42)](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
+*   [snowball (⭐43)](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
 
 ## [9. Vim Galore](/content/mhinz/vim-galore/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Text / Barcode
 
-*   [Notepad (⭐851)](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
+*   [Notepad (⭐860)](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

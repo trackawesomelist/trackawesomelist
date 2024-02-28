@@ -16,7 +16,7 @@
 
 ### Packages / Miscellaneous
 
-*   [wild-wild-path (⭐703)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
+*   [wild-wild-path (⭐710)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
 
 ## [3. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 

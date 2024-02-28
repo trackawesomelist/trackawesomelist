@@ -133,7 +133,7 @@
 
 ### Packages / Documentation
 
-*   [Docusaurus (⭐50k)](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
+*   [Docusaurus (⭐52k)](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
 
 ## [9. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 

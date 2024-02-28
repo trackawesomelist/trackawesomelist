@@ -102,7 +102,7 @@
 
 ### Text / Barcode
 
-*   [TextBuilder (⭐210)](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
+*   [TextBuilder (⭐218)](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
 
 ## [9. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 

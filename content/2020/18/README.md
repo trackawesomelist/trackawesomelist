@@ -18,7 +18,7 @@
 
 ### Elixir/Erlang / Data Visualization
 
-*   [Workbench (⭐107)](https://github.com/fremantle-industries/workbench) - From Idea to Execution - Manage your trading operation across a globally distributed cluster
+*   [Workbench (⭐108)](https://github.com/fremantle-industries/workbench) - From Idea to Execution - Manage your trading operation across a globally distributed cluster
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -1189,7 +1189,7 @@
 
 ### Images / Barcode
 
-*   [ImgixSwift (⭐24)](https://github.com/imgix/imgix-swift) - Easily update image urls to be fast and responsive.
+*   [ImgixSwift (⭐25)](https://github.com/imgix/imgix-swift) - Easily update image urls to be fast and responsive.
 *   [SwiftWebImage (⭐44)](https://github.com/geekaurora/SwiftWebImage) - 🚀SwiftUI Image downloader with performant LRU mem/disk cache.
 
 ### Quality / Barcode

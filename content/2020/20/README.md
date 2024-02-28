@@ -1,6 +1,6 @@
 # Awesome List Updates on May 18 - May 24, 2020
 
-71 awesome lists updated this week.
+72 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -2368,17 +2368,19 @@ Free
 
 *   [ItemMarket](https://item.market/) - Decentralised platform where everyone can tokenize, sell and buy somebody's in-game items in the form of tokens. ([read more](https://medium.com/wavesprotocol/item-market-is-launched-cabefe915c04))
 
-## [55. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [55. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
-### Logging
+### Logging / Barcode
 
-*   [Gedatsu (⭐530)](https://github.com/bannzai/gedatsu) - Provide readable format about AutoLayout error console log.
+*   [Gedatsu (⭐531)](https://github.com/bannzai/gedatsu) - Provide readable format about AutoLayout error console log.
+
+## [56. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Analytics
 
 *   [Sentry](https://sentry.io/) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
-## [56. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [57. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
@@ -2422,7 +2424,7 @@ Free
 *   [Self Hosted (⭐169k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
 *   [Homematic (⭐181)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
 
-## [57. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [58. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Streaming Sites / Free Indexers
 
@@ -2432,7 +2434,7 @@ Free
 
 *   [BlockTheSpot (⭐6.3k)](https://github.com/mrpond/BlockTheSpot) Video, audio & banner AdBlock/skip for Spotify
 
-## [58. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [59. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / PHP Videos
 
@@ -2550,13 +2552,13 @@ Free
 
 *   [PeachPie (⭐2.3k)](https://github.com/peachpiecompiler/peachpie) - PHP compiler and runtime for .NET and .NET Core.
 
-## [59. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [60. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### macOS-based defenses / Overlay and Virtual Private Networks (VPNs)
 
 *   [BlockBlock](https://objective-see.com/products/blockblock.html) - Monitors common persistence locations and alerts whenever a persistent component is added, which helps to detect and prevent malware installation.
 
-## [60. Awesome Wp Cli](/content/schlessera/awesome-wp-cli/week/README.md)
+## [61. Awesome Wp Cli](/content/schlessera/awesome-wp-cli/week/README.md)
 
 ### Third-party packages / Package discovery
 
@@ -2570,7 +2572,7 @@ Free
 
 *   [Siteground Webinar: Learn How WP-CLI Can Make Your Life Easier](https://www.youtube.com/watch?v=DlxbRYpZdQg) - Practical examples on how you can improve your workflows with WP-CLI.
 
-## [61. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [62. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -2581,7 +2583,7 @@ Free
 *   [Nadieh Bremer](https://shop.visualcinnamon.com/collections/pen-plotter-prints)
 *   [Michelle Chandra](https://www.dirtalleydesign.com/)
 
-## [62. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [63. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Command Line Tools
 
@@ -2591,7 +2593,7 @@ Free
 
 *   [vim](https://www.vim.org/) - Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. ([GNU GPL compatible](https://vimhelp.org/uganda.txt.html#license))
 
-## [63. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [64. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Learning / University Course Archives
 
@@ -2603,7 +2605,7 @@ Free
 
 *   [Robert Feranec](https://www.youtube.com/user/matarofe) - 100+ Hardware design tips and tricks. Videos about Schematic design and PCB layout.
 
-## [64. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [65. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Table
 
@@ -2613,7 +2615,7 @@ Free
 
 *   [mdbootstrap (⭐1.4k)](https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design) - React Bootstrap with Material Design
 
-## [65. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [66. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Cloud Storage & File Sharing
 
@@ -2654,13 +2656,13 @@ Free
 
 
 
-## [66. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [67. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Resources / Articles
 
 *   [How to Create and Manage Menus of Wagtail application](https://www.accordbox.com/blog/wagtail-tutorial-12-how-create-and-manage-menus-wagtail-application/)
 
-## [67. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [68. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Codelabs
 
@@ -2693,7 +2695,7 @@ Free
 
 *   [Styling Accessibility: A Web Components Approach](https://medium.com/@cfscorreia/styling-accessibility-a-web-components-approach-dc2aa8123eb2)
 
-## [68. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [69. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### OAuth
 
@@ -2707,7 +2709,7 @@ Free
 
 *   [How we abused Slack's TURN servers to gain access to internal services](https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/) - Written by [@sandrogauci](https://twitter.com/sandrogauci).
 
-## [69. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [70. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -2780,7 +2782,7 @@ Free
 *   [Yourcast Bot](https://t.me/yourcastbot) <sup>[592](https://t.me/s/aboutrss/592)</sup>
 *   [Podcastly](https://t.me/podcastly_bot) <sup>[592](https://t.me/s/aboutrss/592)</sup>
 
-## [70. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [71. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Assorted
 
@@ -2849,7 +2851,7 @@ Free
 
 *   [React Native Now](https://reactnativenow.com)
 
-## [71. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [72. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / CloudFormation
 

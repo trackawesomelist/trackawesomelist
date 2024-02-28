@@ -34,7 +34,7 @@
 
 ### Boilerplates
 
-*   [superplate (⭐2.6k)](https://github.com/pankod/superplate) - superplate creates Next.js app in seconds with TypeScript, styled-components, SWR, Storybook, and 35+ plugin.
+*   [superplate (⭐2.7k)](https://github.com/pankod/superplate) - superplate creates Next.js app in seconds with TypeScript, styled-components, SWR, Storybook, and 35+ plugin.
 
 ## [6. Awesome Xai](/content/altamiracorp/awesome-xai/README.md)
 

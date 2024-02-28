@@ -236,7 +236,7 @@
 
 ### Big Data
 
-*   [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs.
+*   [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs
 
 ## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

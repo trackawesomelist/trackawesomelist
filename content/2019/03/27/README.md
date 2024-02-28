@@ -87,7 +87,7 @@ Topics: Angular, Web Components, Frontend Architecture, Microservices, Monorepos
 
 ### Python / General-Purpose Machine Learning
 
-*   [StellarGraph (⭐2.8k)](https://github.com/stellargraph/stellargraph): Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
+*   [StellarGraph (⭐2.9k)](https://github.com/stellargraph/stellargraph): Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
 
 ## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

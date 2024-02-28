@@ -10,7 +10,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [MiraiML (⭐26)](https://github.com/arthurpaulino/miraiml): An asynchronous engine for continuous & autonomous machine learning, built for real-time usage.
+*   [MiraiML (⭐27)](https://github.com/arthurpaulino/miraiml): An asynchronous engine for continuous & autonomous machine learning, built for real-time usage.
 
 ## [2. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 

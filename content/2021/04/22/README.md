@@ -61,7 +61,7 @@
 
 ### Packages / Parsing
 
-*   [Chevrotain (⭐2.3k)](https://github.com/Chevrotain/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript.
+*   [Chevrotain (⭐2.4k)](https://github.com/Chevrotain/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript.
 
 ## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

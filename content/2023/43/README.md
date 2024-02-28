@@ -119,11 +119,11 @@
 
 ### Alert / Barcode
 
-*   [MijickPopupView (⭐472)](https://github.com/Mijick/PopupView) - Present any popup in no time. Keep your code clean.
+*   [MijickPopupView (⭐620)](https://github.com/Mijick/PopupView) - Present any popup in no time. Keep your code clean.
 
 ### Transition / Barcode
 
-*   [MijickNavigattie (⭐53)](https://github.com/Mijick/Navigattie) - Easy navigation with SwiftUI.
+*   [MijickNavigattie (⭐92)](https://github.com/Mijick/Navigattie) - Easy navigation with SwiftUI.
 
 ## [10. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -182,7 +182,7 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Quant-Finance-With-Python-Code (⭐42)](https://github.com/lingyixu/Quant-Finance-With-Python-Code) - Repo for code examples in Quantitative Finance with Python by Chris Kelliher
+*   [Quant-Finance-With-Python-Code (⭐43)](https://github.com/lingyixu/Quant-Finance-With-Python-Code) - Repo for code examples in Quantitative Finance with Python by Chris Kelliher
 
 ## [17. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
@@ -264,11 +264,11 @@
 
 ## [24. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 
-### [Le Git Graph (⭐2.5k)](https://github.com/NirmalScaria/le-git-graph) <a href="https://chrome.google.com/webstore/detail/le-git-graph-commits-grap/joggkdfebigddmaagckekihhfncdobff"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/le-git-graph-github-git-graph/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [Le Git Graph (⭐2.6k)](https://github.com/NirmalScaria/le-git-graph) <a href="https://chrome.google.com/webstore/detail/le-git-graph-commits-grap/joggkdfebigddmaagckekihhfncdobff"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/le-git-graph-github-git-graph/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Browser extension to add git graph to GitHub website.
 
-Installs: 425 | Stars: 2549 | Last update: 1 Jan 2024
+Installs: 421 | Stars: 2561 | Last update: 1 Jan 2024
 
 ## [25. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 

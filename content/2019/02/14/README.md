@@ -93,7 +93,7 @@
 
 ### Camera
 
-*   [CameraKit-iOS (⭐653)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next project.
+*   [CameraKit-iOS (⭐661)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next project.
 
 ## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

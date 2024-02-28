@@ -10,7 +10,7 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [ml.js (⭐2.4k)](https://github.com/mljs/ml) - Machine learning and numerical analysis tools for Node.js and the Browser!
+*   [ml.js (⭐2.5k)](https://github.com/mljs/ml) - Machine learning and numerical analysis tools for Node.js and the Browser!
 
 ## [2. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 

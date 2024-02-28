@@ -84,7 +84,7 @@
 
 ### C / General-Purpose Machine Learning
 
-*   [libonnx (⭐535)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
+*   [libonnx (⭐540)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
 
 ## [12. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 

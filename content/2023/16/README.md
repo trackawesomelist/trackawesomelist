@@ -342,7 +342,7 @@
 
 ### Applications
 
-*   [Nostr (⭐8.4k)](https://github.com/nostr-protocol/nostr) - A decentralized social network with a chance of working. A simple, open protocol that enables a truly censorship-resistant and global social network (<https://nostr.com/>)
+*   [Nostr (⭐9.3k)](https://github.com/nostr-protocol/nostr) - A decentralized social network with a chance of working. A simple, open protocol that enables a truly censorship-resistant and global social network (<https://nostr.com/>)
 
 ## [31. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 

@@ -261,7 +261,7 @@ Webpage: <http://hanahaus.com/>
 ### Rust / General-Purpose Machine Learning
 
 *   [deeplearn-rs (⭐208)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
-*   [rustlearn (⭐602)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
+*   [rustlearn (⭐604)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
 
 ## [20. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
@@ -497,7 +497,7 @@ git name-rev --name-only <SHA-1>
 ### UITableView / Barcode
 
 *   [folding-cell (⭐10k)](https://github.com/Ramotion/folding-cell) - Folding cell transition.
-*   [PullToRefreshSwift (⭐537)](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
+*   [PullToRefreshSwift (⭐538)](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
 
 ## [35. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 

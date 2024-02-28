@@ -414,7 +414,7 @@
 
 ### Alert / Barcode
 
-*   [SwiftOverlays (⭐629)](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
+*   [SwiftOverlays (⭐628)](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
 
 ## [3. Awesome Dojo](/content/petk/awesome-dojo/README.md)
 

@@ -74,7 +74,7 @@
 
 ### Tools / Misc
 
-*   [Ambrosia (⭐106)](https://github.com/reactorsh/ambrosia) - Ambrosia helps you clean up your LLM datasets using *other* LLMs.
+*   [Ambrosia (⭐108)](https://github.com/reactorsh/ambrosia) - Ambrosia helps you clean up your LLM datasets using *other* LLMs.
 
 ## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

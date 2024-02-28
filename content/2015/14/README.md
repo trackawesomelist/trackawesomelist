@@ -163,7 +163,7 @@
 
 ### UI / Barcode
 
-*   [KMPlaceholderTextView (⭐803)](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
+*   [KMPlaceholderTextView (⭐802)](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
 
 ## [10. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -264,11 +264,11 @@
 
 ### Packages / Filesystem
 
-*   [istextorbinary (⭐139)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
+*   [istextorbinary (⭐141)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 
 ### Packages / Network
 
-*   [getmac (⭐339)](https://github.com/bevry/getmac) - Get the computer MAC address.
+*   [getmac (⭐345)](https://github.com/bevry/getmac) - Get the computer MAC address.
 
 ## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 

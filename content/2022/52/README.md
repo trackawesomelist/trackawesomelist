@@ -116,11 +116,11 @@
 
 ### Misc
 
-*   [BetterCodable (⭐1.6k)](https://github.com/marksands/BetterCodable) - Level up your `Codable` structs through property wrappers. The goal of these property wrappers is to avoid implementing a custom `init(from decoder: Decoder)` throws and suffer through boilerplate.
+*   [BetterCodable (⭐1.7k)](https://github.com/marksands/BetterCodable) - Level up your `Codable` structs through property wrappers. The goal of these property wrappers is to avoid implementing a custom `init(from decoder: Decoder)` throws and suffer through boilerplate.
 
 ### Utility / Barcode
 
-*   [Periphery (⭐4.5k)](https://github.com/peripheryapp/periphery) - A tool to identify unused code in Swift projects.
+*   [Periphery (⭐4.7k)](https://github.com/peripheryapp/periphery) - A tool to identify unused code in Swift projects.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 

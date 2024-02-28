@@ -35,22 +35,22 @@
 
 ### Packages / Streams
 
-*   [duplexify (⭐188)](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
-*   [pumpify (⭐252)](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
-*   [peek-stream (⭐55)](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it.
+*   [duplexify (⭐189)](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
+*   [pumpify (⭐254)](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
+*   [peek-stream (⭐56)](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it.
 
 ### Packages / Natural language processing
 
-*   [leven (⭐697)](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
+*   [leven (⭐702)](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 
 ### Packages / Process management
 
-*   [node-mac (⭐528)](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
-*   [node-linux (⭐416)](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
+*   [node-mac (⭐529)](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
+*   [node-linux (⭐417)](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
 
 ### Packages / Miscellaneous
 
-*   [strip-bom (⭐106)](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
+*   [strip-bom (⭐107)](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
 
 ## [5. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 

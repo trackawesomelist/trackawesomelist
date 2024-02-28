@@ -61,7 +61,7 @@
 
 ### Examples
 
-*   [ajeetdsouza/zoxide (⭐12k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
+*   [ajeetdsouza/zoxide (⭐13k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
 
 ## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

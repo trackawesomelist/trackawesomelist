@@ -20,7 +20,7 @@
 
 ### Python / Computer Vision
 
-*   [Scikit-Image (⭐5.7k)](https://github.com/scikit-image/scikit-image) - A collection of algorithms for image processing in Python.
+*   [Scikit-Image (⭐5.8k)](https://github.com/scikit-image/scikit-image) - A collection of algorithms for image processing in Python.
 
 ## [3. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 

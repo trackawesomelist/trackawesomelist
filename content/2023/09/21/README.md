@@ -16,7 +16,7 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [Kelly-Criterion (⭐81)](https://github.com/deltaray-io/kelly-criterion) - Kelly Criterion implemented in Python to size portfolios based on J. L. Kelly Jr's formula.
+*   [Kelly-Criterion (⭐83)](https://github.com/deltaray-io/kelly-criterion) - Kelly Criterion implemented in Python to size portfolios based on J. L. Kelly Jr's formula.
 
 ### Python / Trading & Backtesting
 

@@ -634,7 +634,7 @@
 
 ### Localization / Barcode
 
-*   [Locheck (⭐89)](https://github.com/Asana/locheck) - Validate .strings and .stringsdict files for errors
+*   [Locheck (⭐91)](https://github.com/Asana/locheck) - Validate .strings and .stringsdict files for errors
 
 ## [55. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

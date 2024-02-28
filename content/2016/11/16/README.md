@@ -20,7 +20,7 @@
 
 ### Button / Barcode
 
-*   [LTHRadioButton (⭐369)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
+*   [LTHRadioButton (⭐370)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
 
 ## [3. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 

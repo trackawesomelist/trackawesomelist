@@ -338,11 +338,11 @@
 *   [The power of situational awareness for digital government](https://www.computerweekly.com/opinion/The-power-of-situational-awareness-for-digital-government) - Part 2 Mark Thompson outlines a digital vision to make government a more cohesive, integrated organisation. Oct 9, 2015.
 *   [Time to get mapping - how a blind government can develop sight](https://www.computerweekly.com/opinion/Time-to-get-mapping-how-a-blind-government-can-develop-sight) - Part 1 Mark Thompson outlines a digital vision to make government a more cohesive, integrated organisation. Oct 9, 2015.
 
-### Apps / Mapping
+### Mapping
 
 *   [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - Note MapScript is built on Observable. Read their [Terms of Service](https://observablehq.com/terms-of-service). MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
 
-### Meetups / Doctrine Assessement
+### Meetups / ChatGPT
 
 *   Europe
     *   Belgium
@@ -459,7 +459,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Python / General-Purpose Machine Learning
 
-*   [Lightwood (⭐394)](https://github.com/mindsdb/lightwood) - A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with objective to build predictive models with one line of code.
+*   [Lightwood (⭐405)](https://github.com/mindsdb/lightwood) - A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with objective to build predictive models with one line of code.
 
 ## [43. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 

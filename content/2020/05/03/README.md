@@ -18,7 +18,7 @@
 
 ### Elixir/Erlang / Data Visualization
 
-*   [Workbench (⭐107)](https://github.com/fremantle-industries/workbench) - From Idea to Execution - Manage your trading operation across a globally distributed cluster
+*   [Workbench (⭐108)](https://github.com/fremantle-industries/workbench) - From Idea to Execution - Manage your trading operation across a globally distributed cluster
 
 ## [3. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 

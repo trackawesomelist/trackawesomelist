@@ -86,7 +86,7 @@
 
 ### Boilerplates
 
-*   [Nextron (⭐3.1k)](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
+*   [Nextron (⭐3.4k)](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
 
 ## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

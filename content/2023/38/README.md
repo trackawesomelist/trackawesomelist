@@ -66,10 +66,10 @@
 
 ### Packages / Cross-platform integration
 
-*   [napi-rs (⭐5k)](https://github.com/napi-rs/napi-rs) - Framework for building compiled Node.js add-ons in Rust via Node-API.
-*   [Neon (⭐7.6k)](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
+*   [napi-rs (⭐5.2k)](https://github.com/napi-rs/napi-rs) - Framework for building compiled Node.js add-ons in Rust via Node-API.
+*   [Neon (⭐7.7k)](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 *   [Edge.js (⭐5.4k)](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in the same process on Windows, macOS, and Linux.
-*   [DotNetJS (⭐610)](https://github.com/Elringus/DotNetJS) - Consume .NET libraries in Node.js using this .NET interoperability layer.
+*   [DotNetJS (⭐622)](https://github.com/Elringus/DotNetJS) - Consume .NET libraries in Node.js using this .NET interoperability layer.
 
 ## [9. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Utility / Barcode
 
-*   [SwiftAutoGUI (⭐25)](https://github.com/NakaokaRei/SwiftAutoGUI) - Used to programmatically control the mouse & keyboard. A library for manipulating macOS with Swift.
+*   [SwiftAutoGUI (⭐28)](https://github.com/NakaokaRei/SwiftAutoGUI) - Used to programmatically control the mouse & keyboard. A library for manipulating macOS with Swift.
 
 ## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
@@ -164,7 +164,7 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [Kelly-Criterion (⭐81)](https://github.com/deltaray-io/kelly-criterion) - Kelly Criterion implemented in Python to size portfolios based on J. L. Kelly Jr's formula.
+*   [Kelly-Criterion (⭐83)](https://github.com/deltaray-io/kelly-criterion) - Kelly Criterion implemented in Python to size portfolios based on J. L. Kelly Jr's formula.
 
 ### Python / Trading & Backtesting
 

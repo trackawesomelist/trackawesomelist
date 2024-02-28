@@ -22,7 +22,7 @@
 
 ### Apps
 
-*   [StorageBox (⭐10)](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
+*   [StorageBox (⭐19)](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

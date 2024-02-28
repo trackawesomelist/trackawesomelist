@@ -29,7 +29,7 @@
 
 ### Transition / Barcode
 
-*   [PanSlip (⭐103)](https://github.com/k-lpmg/PanSlip) - Use PanGesture to dismiss view on UIViewController and UIView.
+*   [PanSlip (⭐104)](https://github.com/k-lpmg/PanSlip) - Use PanGesture to dismiss view on UIViewController and UIView.
 
 ## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

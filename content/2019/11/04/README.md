@@ -28,7 +28,7 @@
 
 ### Boilerplates
 
-*   [Nitro 🚀 (⭐263)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
+*   [Nitro 🚀 (⭐267)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
 
 ## [5. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 

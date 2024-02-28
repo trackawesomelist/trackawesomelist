@@ -173,7 +173,7 @@
 
 ### Utility / Barcode
 
-*   [Percentage (⭐266)](https://github.com/sindresorhus/Percentage) - Make percentages more readable and type-safe.
+*   [Percentage (⭐267)](https://github.com/sindresorhus/Percentage) - Make percentages more readable and type-safe.
 
 ## [16. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 

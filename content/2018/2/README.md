@@ -369,7 +369,7 @@
 
 ### UI / Barcode
 
-*   [Fluid Slider (⭐1.9k)](https://github.com/Ramotion/fluid-slider) - A slider widget with a popup bubble displaying the precise value selected.
+*   [Fluid Slider (⭐2k)](https://github.com/Ramotion/fluid-slider) - A slider widget with a popup bubble displaying the precise value selected.
 
 ## [21. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 

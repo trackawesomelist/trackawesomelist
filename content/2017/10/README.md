@@ -708,7 +708,7 @@
 
 *   [onoff (⭐1.2k)](https://github.com/fivdi/onoff) - GPIO access and interrupt detection.
 *   [spi-device (⭐116)](https://github.com/fivdi/spi-device) - SPI serial bus access.
-*   [pigpio (⭐928)](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
+*   [pigpio (⭐934)](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
 
 ### Resources / Community
 

@@ -191,7 +191,7 @@
 
 ### Packages / Functional programming
 
-*   [lodash (⭐58k)](https://github.com/lodash/lodash) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
+*   [lodash (⭐59k)](https://github.com/lodash/lodash) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
 *   [RxJS (⭐30k)](https://github.com/reactivex/rxjs) - Functional reactive library for transforming, composing, and querying various kinds of data.
 
 ### Packages / Build tools
@@ -218,11 +218,11 @@
 
 ### Packages / Security
 
-*   [rate-limiter-flexible (⭐2.7k)](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
+*   [rate-limiter-flexible (⭐2.8k)](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
 
 ### Packages / Miscellaneous
 
-*   [node-video-lib (⭐343)](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
+*   [node-video-lib (⭐345)](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
 
 ### Resources / Tutorials
 
@@ -234,7 +234,7 @@
 
 ### Resources / Cheatsheets
 
-*   [Strong Node.js (⭐490)](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
+*   [Strong Node.js (⭐493)](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 

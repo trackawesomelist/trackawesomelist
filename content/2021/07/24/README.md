@@ -23,7 +23,7 @@
 
 ### Examples
 
-*   [L0garithmic/FastColabCopy (⭐23)](https://github.com/L0garithmic/FastColabCopy#readme) - Project logo. Minimalist description. Badges. GIF demo. About The Project. How To Use. Examples. Credits. Additional Examples.
+*   [L0garithmic/FastColabCopy (⭐25)](https://github.com/L0garithmic/FastColabCopy#readme) - Project logo. Minimalist description. Badges. GIF demo. About The Project. How To Use. Examples. Credits. Additional Examples.
 
 ## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 

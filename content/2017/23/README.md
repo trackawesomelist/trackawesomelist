@@ -208,16 +208,16 @@ Lite Version (Free) and Full Version ($3)
 
 ### Keychain / Barcode
 
-*   [keychain-swift (⭐2.6k)](https://github.com/evgenyneu/keychain-swift) - Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.
+*   [keychain-swift (⭐2.7k)](https://github.com/evgenyneu/keychain-swift) - Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.
 
 ### UI / Barcode
 
-*   [Dodo (⭐874)](https://github.com/evgenyneu/Dodo) - A message bar for iOS.
-*   [SectionedSlider (⭐364)](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
+*   [Dodo (⭐873)](https://github.com/evgenyneu/Dodo) - A message bar for iOS.
+*   [SectionedSlider (⭐365)](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
 
 ### Menu / Barcode
 
-*   [FanMenu (⭐723)](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
+*   [FanMenu (⭐726)](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
 
 ## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -344,7 +344,7 @@ You'll discover the ins and outs of using the data-oriented R programming langua
 
 ### Packages / Real-time
 
-*   [Kalm (⭐204)](https://github.com/kalm/kalm.js) - Low-level socket router and middleware framework.
+*   [Kalm (⭐206)](https://github.com/kalm/kalm.js) - Low-level socket router and middleware framework.
 
 ## [33. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 

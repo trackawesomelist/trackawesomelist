@@ -2115,7 +2115,7 @@
 
 ### Testing / Barcode
 
-*   [Nimble (⭐4.7k)](https://github.com/Quick/Nimble) - A matcher framework.
+*   [Nimble (⭐4.8k)](https://github.com/Quick/Nimble) - A matcher framework.
 
 ### Alert / Barcode
 

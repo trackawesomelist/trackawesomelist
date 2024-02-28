@@ -14,7 +14,7 @@
 
 ### Walkthrough / Barcode
 
-*   [Gecco (⭐14)](https://github.com/xai3/Gecco) - Spotlight view for iOS.
+*   [Gecco (⭐15)](https://github.com/xai3/Gecco) - Spotlight view for iOS.
 
 ## [2. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 

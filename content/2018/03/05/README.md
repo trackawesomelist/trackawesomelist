@@ -84,7 +84,7 @@
 
 ### Packages / Security
 
-*   [upash (⭐525)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
+*   [upash (⭐529)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
 
 ## [4. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
@@ -158,7 +158,7 @@
 
 ### R / Time Series
 
-*   [tibbletime (⭐180)](https://github.com/business-science/tibbletime) - Built on top of the tidyverse, tibbletime is an extension that allows for the creation of time aware tibbles through the setting of a time index.
+*   [tibbletime (⭐179)](https://github.com/business-science/tibbletime) - Built on top of the tidyverse, tibbletime is an extension that allows for the creation of time aware tibbles through the setting of a time index.
 
 ## [14. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

@@ -110,7 +110,7 @@
 
 ### Misc
 
-*   [SwiftKit (⭐824)](https://github.com/SvenTiigi/SwiftKit) - Start your next Open-Source Swift Framework 📦.
+*   [SwiftKit (⭐826)](https://github.com/SvenTiigi/SwiftKit) - Start your next Open-Source Swift Framework 📦.
 
 ### Animation
 
@@ -118,7 +118,7 @@
 
 ### Bots
 
-*   [Telegram Bot SDK (⭐369)](https://github.com/rapierorg/telegram-bot-swift) :penguin: - Unofficial SDK.
+*   [Telegram Bot SDK (⭐371)](https://github.com/rapierorg/telegram-bot-swift) :penguin: - Unofficial SDK.
 
 ### Keychain / Barcode
 
@@ -301,7 +301,7 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [TensorFlow Scala (⭐931)](https://github.com/eaplatanios/tensorflow_scala) -   Strongly-typed Scala API for TensorFlow.
+*   [TensorFlow Scala (⭐932)](https://github.com/eaplatanios/tensorflow_scala) -   Strongly-typed Scala API for TensorFlow.
 
 ## [31. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -438,7 +438,7 @@
 
 ### Packages / Command-line apps
 
-*   [npm-name (⭐166)](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm.
+*   [npm-name (⭐167)](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm.
 
 ### Packages / Date
 
@@ -446,7 +446,7 @@
 
 ### Packages / Job queues
 
-*   [RedisSMQ (⭐557)](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
+*   [RedisSMQ (⭐565)](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
 
 ### Packages / Natural language processing
 

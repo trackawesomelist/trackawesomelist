@@ -51,7 +51,7 @@
 
 ### Mathematical Physics / Stochastic processes
 
-*   [Theoretical Computer Science (⭐562)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+*   [Theoretical Computer Science (⭐566)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

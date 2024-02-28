@@ -10,7 +10,7 @@
 
 ### Extensions
 
-*   [Next PurgeCSS (⭐134)](https://github.com/lucleray/next-purgecss) - Easily integrate [Purgecss](https://www.purgecss.com/), which helps you remove unused CSS from your bundle.
+*   [Next PurgeCSS (⭐133)](https://github.com/lucleray/next-purgecss) - Easily integrate [Purgecss](https://www.purgecss.com/), which helps you remove unused CSS from your bundle.
 
 ### Books
 
@@ -44,13 +44,13 @@
 
 ### Packages / Testing
 
-*   [Playwright (⭐58k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
+*   [Playwright (⭐60k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
 
 ### Packages / Miscellaneous
 
-*   [basic-ftp (⭐627)](https://github.com/patrickjuchli/basic-ftp) - FTP/FTPS client.
+*   [basic-ftp (⭐635)](https://github.com/patrickjuchli/basic-ftp) - FTP/FTPS client.
 *   [cashify (⭐399)](https://github.com/xxczaki/cashify) - Currency conversion.
-*   [genepi (⭐72)](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
+*   [genepi (⭐75)](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
 
 ### Resources / Tools
 
@@ -186,7 +186,7 @@
 
 ### Applications
 
-*   [Cabal (⭐797)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
+*   [Cabal (⭐818)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
 
 ### Related Lists
 
@@ -224,7 +224,7 @@
 
 ### Utility / Barcode
 
-*   [PrivacyFlash Pro (⭐150)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your Swift iOS app from its code.
+*   [PrivacyFlash Pro (⭐153)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your Swift iOS app from its code.
 
 ## [22. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 

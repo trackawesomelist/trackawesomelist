@@ -121,7 +121,7 @@
 
 ### Boilerplates
 
-*   [NextJS Redux-Wrapper Material-UI (⭐128)](https://github.com/joaopaulomoraes/nextjs-with-redux-and-material-ui) - 🤓 A boilerplate NextJS with Redux and Material UI.
+*   [NextJS Redux-Wrapper Material-UI (⭐130)](https://github.com/joaopaulomoraes/nextjs-with-redux-and-material-ui) - 🤓 A boilerplate NextJS with Redux and Material UI.
 
 ## [5. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 

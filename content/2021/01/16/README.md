@@ -30,7 +30,7 @@
 
 ### R / Time Series
 
-*   [matrixprofile (⭐349)](https://github.com/matrix-profile-foundation/matrixprofile) - Time series data mining library built on top of the novel Matrix Profile data structure and algorithms.
+*   [matrixprofile (⭐352)](https://github.com/matrix-profile-foundation/matrixprofile) - Time series data mining library built on top of the novel Matrix Profile data structure and algorithms.
 
 ## [5. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 

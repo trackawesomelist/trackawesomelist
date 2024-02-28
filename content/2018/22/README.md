@@ -759,7 +759,7 @@
 
 ### Utility / Barcode
 
-*   [WhatsNewKit (⭐3.5k)](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
+*   [WhatsNewKit (⭐3.6k)](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
 
 ## [32. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 

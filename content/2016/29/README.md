@@ -293,7 +293,7 @@
 
 ### Network / Barcode
 
-*   [Heimdallr.swift (⭐634)](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
+*   [Heimdallr.swift (⭐636)](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
 
 ### UI / Barcode
 

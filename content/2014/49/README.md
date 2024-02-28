@@ -26,7 +26,7 @@
 
 ### R / General-Purpose Machine Learning
 
-*   [Machine Learning For Hackers (⭐3.6k)](https://github.com/johnmyleswhite/ML_for_Hackers)
+*   [Machine Learning For Hackers (⭐3.7k)](https://github.com/johnmyleswhite/ML_for_Hackers)
 
 ## [4. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
@@ -313,7 +313,7 @@
 
 ### Packages / Command-line apps
 
-*   [browser-run (⭐433)](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
+*   [browser-run (⭐434)](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
 
 ### Packages / Command-line utilities
 

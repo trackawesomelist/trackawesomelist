@@ -10,7 +10,7 @@
 
 ### Images / Barcode
 
-*   [ImgixSwift (⭐24)](https://github.com/imgix/imgix-swift) - Easily update image urls to be fast and responsive.
+*   [ImgixSwift (⭐25)](https://github.com/imgix/imgix-swift) - Easily update image urls to be fast and responsive.
 
 ## [2. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

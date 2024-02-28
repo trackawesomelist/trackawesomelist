@@ -265,7 +265,7 @@
 
 ### Applications
 
-*   [Berty (⭐6.8k)](https://github.com/berty/berty): secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
+*   [Berty (⭐7.2k)](https://github.com/berty/berty): secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
 
 ## [24. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
@@ -570,9 +570,13 @@
 
 ## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
+### UI / Barcode
+
+*   [ActivityIndicatorView (⭐1.3k)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
+
 ### CSV
 
-*   [CodableCSV (⭐413)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
+*   [CodableCSV (⭐428)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
 *   [CSVParser (⭐85)](https://github.com/Nero5023/CSVParser) :penguin: - Fast parser for CSV.
 
 ## [29. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
@@ -869,28 +873,7 @@
 
 *   🔌 [Firecoil (⭐40)](https://github.com/rosariopfernandes/firecoil) - Load images from GCS in your Android app using the image loading library Coil.
 
-## [35. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
-
-### Communication / Writing
-
-*   [Technical Writing Courses](https://developers.google.com/tech-writing) - This collection of courses and learning resources aims to improve your technical documentation. Learn how to plan and author technical documents. You can also learn about the role of technical writers in a company.
-
-## [36. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
-
-### Hosted Notebook Solutions
-
-*   [Google Cloud AI Platform Notebooks](https://cloud.google.com/ai-platform-notebooks) - Managed JupyterLab notebook instances configured with GPU-enabled machine learning frameworks on Google Cloud Platform.
-*   [Google Cloud Dataproc Jupyter component](https://cloud.google.com/dataproc/docs/concepts/components/jupyter) - Jupyter and JupyterLab for Apache Spark using Google Cloud Dataproc.
-
-### Articles/Guides/Tutorials
-
-*   [How to Grow Neat Software Architecture out of Jupyter Notebooks (⭐520)](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Article and [video](https://www.youtube.com/watch?v=K4QN27IKr0g) about growing a neat software architecture from notebooks.
-
-## [37. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
-
-### Activity Indicator
-
-*   [ActivityIndicatorView (⭐1.3k)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
+## [35. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Menu
 
@@ -903,6 +886,23 @@
 ### User Consent / Collection View Layout
 
 *   [PrivacyFlash Pro (⭐152)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code
+
+## [36. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+
+### Communication / Writing
+
+*   [Technical Writing Courses](https://developers.google.com/tech-writing) - This collection of courses and learning resources aims to improve your technical documentation. Learn how to plan and author technical documents. You can also learn about the role of technical writers in a company.
+
+## [37. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+
+### Hosted Notebook Solutions
+
+*   [Google Cloud AI Platform Notebooks](https://cloud.google.com/ai-platform-notebooks) - Managed JupyterLab notebook instances configured with GPU-enabled machine learning frameworks on Google Cloud Platform.
+*   [Google Cloud Dataproc Jupyter component](https://cloud.google.com/dataproc/docs/concepts/components/jupyter) - Jupyter and JupyterLab for Apache Spark using Google Cloud Dataproc.
+
+### Articles/Guides/Tutorials
+
+*   [How to Grow Neat Software Architecture out of Jupyter Notebooks (⭐520)](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Article and [video](https://www.youtube.com/watch?v=K4QN27IKr0g) about growing a neat software architecture from notebooks.
 
 ## [38. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 

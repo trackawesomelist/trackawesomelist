@@ -17,7 +17,7 @@
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [YCML (⭐117)](https://github.com/yconst/YCML) - A Machine Learning framework for Objective-C and Swift (OS X / iOS).
+*   [YCML (⭐116)](https://github.com/yconst/YCML) - A Machine Learning framework for Objective-C and Swift (OS X / iOS).
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

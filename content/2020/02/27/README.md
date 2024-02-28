@@ -42,7 +42,7 @@
 
 ### Extensions
 
-*   [Next PWA (⭐3.3k)](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js with workbox
+*   [Next PWA (⭐3.5k)](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js with workbox
 
 ## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 

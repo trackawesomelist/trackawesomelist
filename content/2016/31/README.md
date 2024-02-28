@@ -73,11 +73,11 @@
 
 ### Elixir / General-Purpose Machine Learning
 
-*   [Simple Bayes (⭐391)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+*   [Simple Bayes (⭐392)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 
 ### Elixir / Natural Language Processing
 
-*   [Stemmer (⭐148)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
+*   [Stemmer (⭐149)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
 
 ## [12. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -253,7 +253,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 ### Packages / Weird
 
-*   [nerds (⭐107)](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
+*   [nerds (⭐108)](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
 
 ### Resources / Miscellaneous
 
@@ -354,7 +354,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 ### TextField / Barcode
 
-*   [PasswordTextField (⭐308)](https://github.com/PiXeL16/PasswordTextField) - A custom TextField with a switchable icon which shows or hides the password and enforces good password policies.
+*   [PasswordTextField (⭐309)](https://github.com/PiXeL16/PasswordTextField) - A custom TextField with a switchable icon which shows or hides the password and enforces good password policies.
 
 ### Transition / Barcode
 

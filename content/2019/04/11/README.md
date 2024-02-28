@@ -10,7 +10,7 @@
 
 ### Dependency Managers
 
-*   [Accio (⭐651)](https://github.com/JamitLabs/Accio) - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.
+*   [Accio (⭐657)](https://github.com/JamitLabs/Accio) - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.
 
 ## [2. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 

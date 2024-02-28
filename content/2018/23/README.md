@@ -711,11 +711,11 @@
 
 ### Cache
 
-*   [Carlos (⭐641)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
+*   [Carlos (⭐642)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
 
 ### UI / Barcode
 
-*   [Family (⭐250)](https://github.com/zenangst/Family) - A child view controller framework that makes setting up your parent controllers as easy as pie.
+*   [Family (⭐249)](https://github.com/zenangst/Family) - A child view controller framework that makes setting up your parent controllers as easy as pie.
 
 ### Alert / Barcode
 
@@ -723,7 +723,7 @@
 
 ### Utility / Barcode
 
-*   [Differific (⭐124)](https://github.com/zenangst/Differific) - A fast and convenient diffing framework.
+*   [Differific (⭐123)](https://github.com/zenangst/Differific) - A fast and convenient diffing framework.
 
 ## [53. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
 

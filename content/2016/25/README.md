@@ -103,7 +103,7 @@
 
 ### Math / Barcode
 
-*   [SigmaSwiftStatistics (⭐682)](https://github.com/evgenyneu/SigmaSwiftStatistics) - A collection of functions for statistical calculation.
+*   [SigmaSwiftStatistics (⭐687)](https://github.com/evgenyneu/SigmaSwiftStatistics) - A collection of functions for statistical calculation.
 
 ## [10. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
@@ -301,11 +301,11 @@ Webpage: [www.brewlabcoffee.co.uk](http://www.brewlabcoffee.co.uk)
 
 ### Python / Financial Instruments and Pricing
 
-*   [vollib (⭐586)](https://github.com/vollib/vollib) - vollib is a python library for calculating option prices, implied volatility and greeks.
+*   [vollib (⭐591)](https://github.com/vollib/vollib) - vollib is a python library for calculating option prices, implied volatility and greeks.
 
 ### Python / Trading & Backtesting
 
-*   [pybacktest (⭐778)](https://github.com/ematvey/pybacktest) - Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier.
+*   [pybacktest (⭐780)](https://github.com/ematvey/pybacktest) - Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier.
 
 ### Python / Time Series
 
@@ -321,7 +321,7 @@ Webpage: [www.brewlabcoffee.co.uk](http://www.brewlabcoffee.co.uk)
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Derman Papers (⭐316)](https://github.com/MarcosCarreira/DermanPapers) - Notebooks that replicate original quantitative finance papers from Emanuel Derman.
+*   [Derman Papers (⭐318)](https://github.com/MarcosCarreira/DermanPapers) - Notebooks that replicate original quantitative finance papers from Emanuel Derman.
 *   [volatility-trading (⭐1.4k)](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading.
 
 ## [18. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
@@ -447,7 +447,7 @@ git remote add <remote-nickname> <remote-url>
 
 ### Python / Data Analysis / Data Visualization
 
-*   [SOMPY (⭐525)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
+*   [SOMPY (⭐528)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
 *   [HDBScan (⭐93)](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
 
 ## [24. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)

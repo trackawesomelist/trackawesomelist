@@ -229,7 +229,7 @@
 
 ### Packages / Real-time
 
-*   [Primus (⭐4.4k)](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
+*   [Primus (⭐4.5k)](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 
 ## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

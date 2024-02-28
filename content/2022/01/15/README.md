@@ -6,13 +6,24 @@
 
 
 
-## [1. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [1. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Third-Party owned
+
+*   [Riseup](https://riseup.net/en/about-us) - Online communication tools for people and groups working on liberatory social change.
+
+### Email Alias Services (Anonymous Forwarding)
+
+*   [SimpleLogin (⭐4.5k)](https://github.com/simple-login/app)
+*   [AnonAddy (⭐2.8k)](https://github.com/anonaddy/anonaddy)
+
+## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Functional Programming
 
 *   [fork-handles/result4k (⭐170)](https://github.com/fork-handles/forkhandles/blob/trunk/result4k) - Result monad for type safe error handling in Kotlin
 
-## [2. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
+## [3. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
 ### Installation
 
@@ -24,26 +35,11 @@
 
 *   [iglass](https://www.npmjs.com/package/iglass-nodes) - Interaction with [iGlass Automation](https://iglass.international) blocks.
 
-## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
-
-### Third-Party owned
-
-*   [Riseup](https://riseup.net/en/about-us) - Online communication tools for people and groups working on liberatory social change.
-
-### Email Alias Services (Anonymous Forwarding)
-
-*   [SimpleLogin (⭐4.5k)](https://github.com/simple-login/app)
-*   [AnonAddy (⭐2.8k)](https://github.com/anonaddy/anonaddy)
-
-### Alternative Frontends
-
-*   [Kizie](https://kizie.co) - Cleaner, better and privacy focussed Twitter client for Web.
-
 ## [4. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
-*   [ipfs-pinner (⭐47)](https://github.com/wabarc/ipfs-pinner): A toolkit helps upload files to IPFS pinning services such as Infura, Pinata, NFT.Storage and Web3.Storage.
+*   [ipfs-pinner (⭐54)](https://github.com/wabarc/ipfs-pinner): A toolkit helps upload files to IPFS pinning services such as Infura, Pinata, NFT.Storage and Web3.Storage.
 
 ## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

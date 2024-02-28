@@ -110,7 +110,7 @@
 
 ### Tab / Barcode
 
-*   [ESTabBarController (⭐5k)](https://github.com/eggswift/ESTabBarController) - A highly customizable TabBarController component, which is inherited from UITabBarController.
+*   [ESTabBarController (⭐5.1k)](https://github.com/eggswift/ESTabBarController) - A highly customizable TabBarController component, which is inherited from UITabBarController.
 
 ---
 

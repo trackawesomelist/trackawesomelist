@@ -22,7 +22,7 @@
 
 ### Text / Barcode
 
-*   [TextBuilder (⭐210)](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
+*   [TextBuilder (⭐218)](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
 
 ## [4. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
@@ -984,7 +984,7 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 ### Python / Trading & Backtesting
 
 *   [rqalpha (⭐5.1k)](https://github.com/ricequant/rqalpha) - A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities.
-*   [FinRL-Library (⭐8.7k)](https://github.com/AI4Finance-LLC/FinRL-Library) - A Deep Reinforcement Learning Library for Automated Trading in Quantitative Finance. NeurIPS 2020.
+*   [FinRL-Library (⭐8.8k)](https://github.com/AI4Finance-LLC/FinRL-Library) - A Deep Reinforcement Learning Library for Automated Trading in Quantitative Finance. NeurIPS 2020.
 *   [bulbea (⭐1.9k)](https://github.com/achillesrasquinha/bulbea) - Deep Learning based Python Library for Stock Market Prediction and Modelling.
 *   [ib\_nope (⭐27)](https://github.com/ajhpark/ib_nope) - Automated trading system for NOPE strategy over IBKR TWS.
 *   [OctoBot (⭐2.6k)](https://github.com/Drakkar-Software/OctoBot) - Open source cryptocurrency trading bot for high frequency, arbitrage, TA and social trading with an advanced web interface.
@@ -992,7 +992,7 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 
 ### Python / Risk Analysis
 
-*   [universal-portfolios (⭐695)](https://github.com/Marigold/universal-portfolios) - Collection of algorithms for online portfolio selection.
+*   [universal-portfolios (⭐698)](https://github.com/Marigold/universal-portfolios) - Collection of algorithms for online portfolio selection.
 *   [FinQuant (⭐1.2k)](https://github.com/fmilthaler/FinQuant) - A program for financial portfolio management, analysis and optimisation.
 
 ### Python / Data Sources
@@ -1001,7 +1001,7 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 
 ### Python / Visualization
 
-*   [finplot (⭐809)](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python.
+*   [finplot (⭐811)](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python.
 
 ### JavaScript / FrameWorks
 

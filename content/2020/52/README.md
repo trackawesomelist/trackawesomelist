@@ -71,7 +71,7 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [go-featureprocessing (⭐106)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
+*   [go-featureprocessing (⭐108)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
 
 ## [6. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -442,7 +442,7 @@
 
 ## [31. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
-### Workshops / Doctrine Assessement
+### Workshops / ChatGPT
 
 *   [Workshop Building Block - New Year's Eve Party (⭐15)](https://github.com/LeadingEdgeForum/faciliator-pack/blob/main/WorkshopBuildingBlock-NewYearsEveParty.md) - Help workshop participants gain confidence in mapping in a business-neutral environment.
 

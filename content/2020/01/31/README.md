@@ -46,7 +46,7 @@
 
 ### Localization / Barcode
 
-*   [CrowdinSDK (⭐109)](https://github.com/crowdin/mobile-sdk-ios) - Delivers all new translations from Crowdin project to the application immediately.
+*   [CrowdinSDK (⭐113)](https://github.com/crowdin/mobile-sdk-ios) - Delivers all new translations from Crowdin project to the application immediately.
 
 ## [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

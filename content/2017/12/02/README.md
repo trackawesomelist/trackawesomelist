@@ -21,11 +21,11 @@
 
 ### Images / Barcode
 
-*   [FacebookImagePicker (⭐234)](https://github.com/floriangbh/FacebookImagePicker) - Facebook album photo picker.
+*   [FacebookImagePicker (⭐236)](https://github.com/floriangbh/FacebookImagePicker) - Facebook album photo picker.
 
 ### Utility / Barcode
 
-*   [OpenSourceController (⭐51)](https://github.com/floriangbh/OpenSourceController) - The simplest way to display the librarie's licences used in your application.
+*   [OpenSourceController (⭐52)](https://github.com/floriangbh/OpenSourceController) - The simplest way to display the librarie's licences used in your application.
 
 ## [3. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 

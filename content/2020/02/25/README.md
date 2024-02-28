@@ -29,11 +29,11 @@
 ### Python / Trading & Backtesting
 
 *   [quantstats (⭐4k)](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
-*   [Quantdom (⭐682)](https://github.com/constverum/Quantdom) - Python-based framework for backtesting trading strategies & analyzing financial markets \[GUI :neckbeard:]
+*   [Quantdom (⭐684)](https://github.com/constverum/Quantdom) - Python-based framework for backtesting trading strategies & analyzing financial markets \[GUI :neckbeard:]
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Quantitative-Notebooks (⭐891)](https://github.com/LongOnly/Quantitative-Notebooks) - Educational notebooks on quantitative finance, algorithmic trading, financial modelling and investment strategy
+*   [Quantitative-Notebooks (⭐897)](https://github.com/LongOnly/Quantitative-Notebooks) - Educational notebooks on quantitative finance, algorithmic trading, financial modelling and investment strategy
 
 ## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 

@@ -104,7 +104,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [DeepDow (⭐797)](https://github.com/jankrepl/deepdow) - Portfolio optimization with deep learning
+*   [DeepDow (⭐804)](https://github.com/jankrepl/deepdow) - Portfolio optimization with deep learning
 
 ### Python / Data Sources
 

@@ -153,7 +153,7 @@
 
 ### Extensions
 
-*   [Next Cookie (⭐190)](https://github.com/tokuda109/next-cookie) - Cookie serializer and deserializer library for Next.js.
+*   [Next Cookie](https://github.com/tokuda109/next-cookie) - Cookie serializer and deserializer library for Next.js.
 
 ## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 

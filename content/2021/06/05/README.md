@@ -22,7 +22,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [FEDOT (⭐582)](https://github.com/nccr-itmo/FEDOT): An AutoML framework for the automated design of composite modelling pipelines. It can handle classification, regression, and time series forecasting tasks on different types of data (including multi-modal datasets).
+*   [FEDOT (⭐590)](https://github.com/nccr-itmo/FEDOT): An AutoML framework for the automated design of composite modelling pipelines. It can handle classification, regression, and time series forecasting tasks on different types of data (including multi-modal datasets).
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

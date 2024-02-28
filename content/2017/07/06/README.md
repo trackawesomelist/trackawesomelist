@@ -259,7 +259,7 @@
 
 ### ZIP
 
-*   [Zip Foundation (⭐2.1k)](https://github.com/weichsel/ZIPFoundation) - A library to create, read and modify ZIP archive files.
+*   [Zip Foundation (⭐2.2k)](https://github.com/weichsel/ZIPFoundation) - A library to create, read and modify ZIP archive files.
 
 ### Bluetooth
 

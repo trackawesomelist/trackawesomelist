@@ -518,7 +518,7 @@
 
 ### Concurrency
 
-*   [Throttler (⭐91)](https://github.com/boraseoksoon/Throttler) - Throttle massive number of asynchronous inputs in a single drop of one line API.
+*   [Throttler (⭐104)](https://github.com/boraseoksoon/Throttler) - Throttle massive number of asynchronous inputs in a single drop of one line API.
 
 ## [43. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 

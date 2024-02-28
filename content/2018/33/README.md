@@ -300,11 +300,11 @@
 
 ### Python / Natural Language Processing
 
-*   [Snips NLU (⭐3.8k)](https://github.com/snipsco/snips-nlu) - Natural Language Understanding library for intent classification and entity extraction
+*   [Snips NLU (⭐3.9k)](https://github.com/snipsco/snips-nlu) - Natural Language Understanding library for intent classification and entity extraction
 
 ### Python / General-Purpose Machine Learning
 
-*   [keras (⭐60k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐180k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.8k)](https://github.com/Theano/Theano).
+*   [keras (⭐60k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐181k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.8k)](https://github.com/Theano/Theano).
 
 ## [24. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -328,8 +328,8 @@
 
 ### Boilerplates
 
-*   [NextJS TypeScript Starter Kit (⭐343)](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS, Styled-jsx, Redux, PostCSS, configurable SEO
-*   [Typescript Monorepo Next Example (⭐43)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
+*   [NextJS TypeScript Starter Kit (⭐342)](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS, Styled-jsx, Redux, PostCSS, configurable SEO
+*   [Typescript Monorepo Next Example (⭐44)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
 
 ## [28. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -352,7 +352,7 @@
 
 ### Third party Guides
 
-*   [swift-tips (⭐968)](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles.
+*   [swift-tips (⭐977)](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles.
 
 ### Other Awesome Lists
 
@@ -368,11 +368,11 @@
 
 ### Colors
 
-*   [UIGradient (⭐260)](https://github.com/dqhieu/UIGradient) - A simple and powerful library for using gradient layer, image, color.
+*   [UIGradient (⭐259)](https://github.com/dqhieu/UIGradient) - A simple and powerful library for using gradient layer, image, color.
 
 ### Command Line
 
-*   [LineNoise (⭐130)](https://github.com/andybest/linenoise-swift) :penguin: - A zero-dependency replacement for readline.
+*   [LineNoise (⭐136)](https://github.com/andybest/linenoise-swift) :penguin: - A zero-dependency replacement for readline.
 
 ### JSON
 
@@ -380,16 +380,16 @@
 
 ### Key Value Store
 
-*   [Default (⭐473)](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support.
+*   [Default (⭐472)](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support.
 
 ### Other Data
 
-*   [Disk (⭐3k)](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data.
+*   [Disk (⭐3.1k)](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data.
 
 ### Dependency Injection
 
 *   [Deli (⭐135)](https://github.com/kawoou/Deli) - Deli is an easy-to-use Dependency Injection(DI).
-*   [Weaver (⭐723)](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework.
+*   [Weaver (⭐732)](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework.
 
 ### Images / Barcode
 
@@ -401,7 +401,7 @@
 
 ### Network / Barcode
 
-*   [MultiPeer (⭐215)](https://github.com/dingwilson/MultiPeer) - A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices.
+*   [MultiPeer (⭐224)](https://github.com/dingwilson/MultiPeer) - A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices.
 
 ### Cards / Barcode
 
@@ -417,12 +417,12 @@
 
 ### UITableView / Barcode
 
-*   [ExpandableCell (⭐761)](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate.
-*   [SwiftyComments (⭐223)](https://github.com/tsucres/SwiftyComments) - Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.
+*   [ExpandableCell (⭐760)](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate.
+*   [SwiftyComments (⭐224)](https://github.com/tsucres/SwiftyComments) - Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.
 
 ### Utility / Barcode
 
-*   [Vaccine (⭐303)](https://github.com/zenangst/Vaccine) - Make your apps immune to recompile-decease.
+*   [Vaccine (⭐302)](https://github.com/zenangst/Vaccine) - Make your apps immune to recompile-decease.
 
 ### Validation / Barcode
 

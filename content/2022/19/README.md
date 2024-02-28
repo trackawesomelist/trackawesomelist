@@ -152,7 +152,7 @@
 
 ### JavaScript / FrameWorks
 
-*   [ccxt (⭐30k)](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges.
+*   [ccxt (⭐31k)](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges.
 
 ## [14. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -241,7 +241,7 @@
 
 ### Calendar / Barcode
 
-*   [KVKCalendar (⭐463)](https://github.com/kvyatkovskys/KVKCalendar) - A most fully customization calendar for Apple platforms 📅
+*   [KVKCalendar (⭐484)](https://github.com/kvyatkovskys/KVKCalendar) - A most fully customization calendar for Apple platforms 📅
 
 ## [25. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 

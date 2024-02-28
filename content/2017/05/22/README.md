@@ -36,7 +36,7 @@
 
 ### Go / Natural Language Processing
 
-*   [word-embedding (⭐436)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
+*   [word-embedding (⭐437)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
 
 ## [6. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

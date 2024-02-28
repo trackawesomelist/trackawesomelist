@@ -63,7 +63,7 @@
 ### Python / Trading & Backtesting
 
 *   [Eiten (⭐2.7k)](https://github.com/tradytics/eiten) - Eiten is an open source toolkit by Tradytics that implements various statistical and algorithmic investing strategies such as Eigen Portfolios, Minimum Variance Portfolios, Maximum Sharpe Ratio Portfolios, and Genetic Algorithms based Portfolios.
-*   [Stock-Prediction-Models (⭐7.2k)](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations.
+*   [Stock-Prediction-Models (⭐7.3k)](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

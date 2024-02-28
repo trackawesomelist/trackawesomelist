@@ -512,7 +512,7 @@ Notes:
 
 ### Animation
 
-*   [ViewAnimator (⭐7.1k)](https://github.com/marcosgriselli/ViewAnimator) - Brings your UI to life with just one line.
+*   [ViewAnimator (⭐7.2k)](https://github.com/marcosgriselli/ViewAnimator) - Brings your UI to life with just one line.
 
 ### Dependency Injection
 
@@ -524,7 +524,7 @@ Notes:
 
 ### UI / Barcode
 
-*   [SwiftyUI (⭐340)](https://github.com/haoking/SwiftyUI) - High performance and lightweight UIView, UIImage, UIImageView, UIlabel, UIButton and more.
+*   [SwiftyUI (⭐341)](https://github.com/haoking/SwiftyUI) - High performance and lightweight UIView, UIImage, UIImageView, UIlabel, UIButton and more.
 
 ### Utility / Barcode
 

@@ -113,7 +113,7 @@
 
 ### Augmented Reality
 
-*   [ARKit-Navigation (⭐302)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
+*   [ARKit-Navigation (⭐311)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
 
 ## [12. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 

@@ -112,7 +112,7 @@
 
 ### Chart
 
-*   [SwiftUICharts (⭐746)](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.
+*   [SwiftUICharts (⭐781)](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -142,15 +142,11 @@
 
 ### Google Colaboratory
 
-*   [swift-colab (⭐93)](https://github.com/philipturner/swift-colab) - Run Swift in a browser.
-
-### Misc
-
-*   [xcbeautify (⭐784)](https://github.com/tuist/xcbeautify) - Little beautifier tool for xcodebuild.
+*   [swift-colab (⭐100)](https://github.com/philipturner/swift-colab) - Run Swift in a browser.
 
 ### Location / Barcode
 
-*   [AsyncLocationKit (⭐157)](https://github.com/AsyncSwift/AsyncLocationKit) - Wrapper for Apple CoreLocation framework with Modern Concurrency Swift (async/await).
+*   [AsyncLocationKit (⭐166)](https://github.com/AsyncSwift/AsyncLocationKit) - Wrapper for Apple CoreLocation framework with Modern Concurrency Swift (async/await).
 *   [STLocationRequest (⭐639)](https://github.com/SvenTiigi/STLocationRequest) - An elegant and simple 3D Flyover Location Request Screen.
 
 ## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)

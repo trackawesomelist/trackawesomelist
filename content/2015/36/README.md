@@ -810,7 +810,6 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 *   [A Concise Introduction to Numerical Analysis](http://www.ima.umn.edu/~arnold/597.00-01/nabook.pdf) - Douglas N. Arnold (University of Minnesota)
 *   [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) - L. Ridgway Scott
-*   [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
 
 ## [24. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 

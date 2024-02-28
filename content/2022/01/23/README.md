@@ -147,20 +147,20 @@
 
 ### Packages / HTTP
 
-*   [undici (⭐5.3k)](https://github.com/nodejs/undici) - High performance HTTP client written from scratch with zero dependencies.
+*   [undici (⭐5.6k)](https://github.com/nodejs/undici) - High performance HTTP client written from scratch with zero dependencies.
 *   [ky-universal (⭐664)](https://github.com/sindresorhus/ky-universal) - Universal HTTP client based on Fetch.
-*   [purest (⭐543)](https://github.com/simov/purest) - REST client.
+*   [purest (⭐545)](https://github.com/simov/purest) - REST client.
 
 ### Packages / Debugging / Profiling
 
-*   [dats (⭐79)](https://github.com/immobiliare/dats) - Minimalistic and zero-dependencies [StatsD (⭐17k)](https://github.com/statsd/statsd) client.
+*   [dats (⭐80)](https://github.com/immobiliare/dats) - Minimalistic and zero-dependencies [StatsD (⭐17k)](https://github.com/statsd/statsd) client.
 
 ### Packages / Web frameworks
 
-*   [Fastify (⭐29k)](https://github.com/fastify/fastify) - Fast and low overhead web framework.
-*   [Nuxt.js (⭐49k)](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
+*   [Fastify (⭐30k)](https://github.com/fastify/fastify) - Fast and low overhead web framework.
+*   [Nuxt.js (⭐51k)](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
 *   [AdonisJs (⭐15k)](https://github.com/adonisjs/core) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
-*   [Moleculer (⭐5.9k)](https://github.com/moleculerjs/moleculer) - Fast & powerful microservices framework.
+*   [Moleculer (⭐6k)](https://github.com/moleculerjs/moleculer) - Fast & powerful microservices framework.
 
 ### Packages / Streams
 
@@ -168,7 +168,7 @@
 
 ### Packages / Parsing
 
-*   [@parcel/css (⭐5.3k)](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
+*   [@parcel/css (⭐5.5k)](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
 
 ### Packages / Minifiers
 

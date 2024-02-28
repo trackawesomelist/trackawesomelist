@@ -30,7 +30,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Couler (⭐867)](https://github.com/couler-proj/couler) - Unified interface for constructing and managing machine learning workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
+*   [Couler (⭐871)](https://github.com/couler-proj/couler) - Unified interface for constructing and managing machine learning workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
 
 ## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
 

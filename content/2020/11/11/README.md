@@ -16,7 +16,7 @@
 
 ### Packages / Miscellaneous
 
-*   [editly (⭐4.4k)](https://github.com/mifi/editly) - Declarative video editing API.
+*   [editly (⭐4.5k)](https://github.com/mifi/editly) - Declarative video editing API.
 
 ## [3. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

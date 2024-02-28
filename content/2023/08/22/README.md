@@ -10,7 +10,7 @@
 
 ### Various / United Kingdom
 
-*   [ClimateTechList](https://www.climatetechlist.com/) - climate tech / green energy jobs for software engineers, PMs, & other tech professionals, live aggregator of 600 companies' job boards, updated daily.
+*   [ClimateTechList](https://www.climatetechlist.com/) - Comprehensive aggregator of 30,000+ job openings from 1,000 climate tech/clean energy companies' job boards, updated daily
 
 ## [2. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

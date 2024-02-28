@@ -881,7 +881,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Other Awesome Lists
 
-*   [open-source-ios-apps (⭐37k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
+*   [open-source-ios-apps (⭐38k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
 
 ### API
 
@@ -894,7 +894,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Other Data
 
-*   [EVCloudKitDao (⭐644)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
+*   [EVCloudKitDao (⭐643)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
 
 ### Auto Layout / Barcode
 
@@ -902,15 +902,15 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Logging / Barcode
 
-*   [WatchdogInspector (⭐514)](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
+*   [WatchdogInspector (⭐515)](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
 
 ### HTML / Barcode
 
-*   [Fuzi (⭐1k)](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support.
+*   [Fuzi (⭐1.1k)](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support.
 
 ### Menu / Barcode
 
-*   [MenuItemKit (⭐851)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
+*   [MenuItemKit (⭐850)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 
 ### Utility / Barcode
 

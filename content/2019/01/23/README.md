@@ -60,7 +60,7 @@
 
 ### Boilerplates
 
-*   [NextJS Headless CMS Powered Blog Starter (⭐140)](https://github.com/ButterCMS/react-cms-blog-with-next-js)
+*   [NextJS Headless CMS Powered Blog Starter (⭐139)](https://github.com/ButterCMS/react-cms-blog-with-next-js)
 
 ## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 

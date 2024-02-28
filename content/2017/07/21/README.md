@@ -66,11 +66,11 @@
 
 ### Fonts
 
-*   [Inkwell (⭐152)](https://github.com/ninjaprox/Inkwell) - An inkwell to use custom fonts on the fly.
+*   [Inkwell (⭐153)](https://github.com/ninjaprox/Inkwell) - An inkwell to use custom fonts on the fly.
 
 ### UI / Barcode
 
-*   [InstantSearch iOS (⭐588)](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
+*   [InstantSearch iOS (⭐590)](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
 
 ## [7. Magictools](/content/ellisonleao/magictools/README.md)
 

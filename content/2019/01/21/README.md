@@ -75,11 +75,11 @@
 
 ### Events
 
-*   [Tomorrowland (⭐116)](https://github.com/lilyball/Tomorrowland) - Lightweight Promises.
+*   [Tomorrowland (⭐118)](https://github.com/lilyball/Tomorrowland) - Lightweight Promises.
 
 ### Utility / Barcode
 
-*   [TSAO (⭐138)](https://github.com/lilyball/swift-tsao) - Type-Safe Associated Objects.
+*   [TSAO (⭐140)](https://github.com/lilyball/swift-tsao) - Type-Safe Associated Objects.
 
 ## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

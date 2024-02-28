@@ -16,7 +16,7 @@
 
 ### Transition / Barcode
 
-*   [NavigationTransitions (⭐496)](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
+*   [NavigationTransitions (⭐625)](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
 
 ## [3. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
@@ -73,12 +73,12 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [OpenMetricLearning (⭐721)](https://github.com/OML-Team/open-metric-learning) - A PyTorch-based framework to train and validate the models producing high-quality embeddings.
+*   [OpenMetricLearning (⭐738)](https://github.com/OML-Team/open-metric-learning) - A PyTorch-based framework to train and validate the models producing high-quality embeddings.
 *   [SKBEL (⭐20)](https://github.com/robinthibaut/skbel): A Python library for Bayesian Evidential Learning (BEL) in order to estimate the uncertainty of a prediction.
 
 ### Tools / Misc
 
-*   [DockerDL (⭐56)](https://github.com/matifali/dockerdl) - Ready to use deeplearning docker images.
+*   [DockerDL (⭐57)](https://github.com/matifali/dockerdl) - Ready to use deeplearning docker images.
 
 ## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 

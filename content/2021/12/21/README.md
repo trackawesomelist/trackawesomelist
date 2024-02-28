@@ -109,11 +109,11 @@
 
 *   [OpenOwnership Register](https://register.openownership.org/)
 
-## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [14. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
-### Other Parsing
+### SVG / Barcode
 
-*   [SVGView (⭐502)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
+*   [SVGView (⭐515)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
 
 ## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

@@ -209,7 +209,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [ThunderGBM (⭐684)](https://github.com/Xtra-Computing/thundergbm) - A fast library for GBDTs and Random Forests on GPUs.
+*   [ThunderGBM (⭐685)](https://github.com/Xtra-Computing/thundergbm) - A fast library for GBDTs and Random Forests on GPUs.
 
 ## [8. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 

@@ -89,7 +89,7 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [gorse (⭐7.8k)](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
+*   [gorse (⭐7.9k)](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
 
 ## [13. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 

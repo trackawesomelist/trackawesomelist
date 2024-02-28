@@ -50,7 +50,7 @@
 
 ### Boilerplates
 
-*   [csprance/next-smrt (⭐55)](https://github.com/csprance/next-smrt) - A minimal boilerplate with redux, styled-components, material-ui and typescript with a custom express server.
+*   [csprance/next-smrt (⭐54)](https://github.com/csprance/next-smrt) - A minimal boilerplate with redux, styled-components, material-ui and typescript with a custom express server.
 
 ## [8. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Auto Layout / Barcode
 
-*   [DeviceLayout (⭐169)](https://github.com/cruisediary/DeviceLayout) - AutoLayout can be set differently for each device.
+*   [DeviceLayout (⭐168)](https://github.com/cruisediary/DeviceLayout) - AutoLayout can be set differently for each device.
 
 ---
 

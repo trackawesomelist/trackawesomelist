@@ -16,7 +16,7 @@
 
 ### Logging / Barcode
 
-*   [AEConsole (⭐148)](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
+*   [AEConsole (⭐149)](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
 
 ## [3. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 

@@ -54,7 +54,7 @@
 
 ### Blockchain
 
-*   [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs.
+*   [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs
 
 ### Tech / Aggregator
 
@@ -281,24 +281,24 @@
 
 ### Apps
 
-*   [Taxonomy (⭐16k)](https://github.com/shadcn/taxonomy) - An example app built using Next.js 13 server components.
-*   [shadcn/ui (⭐33k)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
+*   [Taxonomy (⭐17k)](https://github.com/shadcn/taxonomy) - An example app built using Next.js 13 server components.
+*   [shadcn/ui (⭐50k)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 
 ## [27. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
-*   [Fred (⭐908)](https://github.com/hyphanet/fred): Freenet REference Daemon. Also: freenetproject.org
+*   [Fred (⭐974)](https://github.com/hyphanet/fred): Freenet REference Daemon. Also: freenetproject.org
 *   [Keet](https://keet.io): Peer to peer video & chat. Private & encrypted. Share huge files instantly.
-*   [Netsukuku (⭐145)](https://github.com/Netsukuku/netsukuku): Netsukuku is an alternative to the internet; it will have all of the features of the internet, such as websites, instant messaging, file transfers, DNS, etc. It functions as a mesh network or a p2p net system that generates and sustains itself autonomously. It is designed to handle an unlimited number of nodes with minimal CPU and memory resources.
-*   [NNTPChan (⭐48)](https://github.com/majestrate/nntpchan): NNTP based decentralized imageboard.
+*   [Netsukuku (⭐144)](https://github.com/Netsukuku/netsukuku): Netsukuku is an alternative to the internet; it will have all of the features of the internet, such as websites, instant messaging, file transfers, DNS, etc. It functions as a mesh network or a p2p net system that generates and sustains itself autonomously. It is designed to handle an unlimited number of nodes with minimal CPU and memory resources.
+*   [NNTPChan (⭐52)](https://github.com/majestrate/nntpchan): NNTP based decentralized imageboard.
 *   [SecuShare](https://secushare.org): A research project. Consider that it basically consists of a new Internet stack combined with a full-fledged distributed scalability alternative to cloud technology. Source code: <https://gnunet.org/git/gnunet.git>
 
 ### Other
 
 *   [Hyphanet](https://hyphanet.org): Hyphanet is a peer-to-peer platform for censorship-resistant and privacy-respecting publishing and communication. The original Freenet.
 *   [GNUnet](https://gnunet.org): GNUnet is a network protocol stack for building secure, distributed, and privacy-preserving applications. The Internet of tomorrow needs GNUnet today.
-*   [Gun (⭐17k)](https://github.com/amark/gun): A cybersecurity protocol for syncing decentralized graph data; GUN is an ecosystem of tools that let you build community run and encrypted applications - like an Open Source Firebase or a Decentralized Dropbox.
+*   [Gun (⭐18k)](https://github.com/amark/gun): A cybersecurity protocol for syncing decentralized graph data; GUN is an ecosystem of tools that let you build community run and encrypted applications - like an Open Source Firebase or a Decentralized Dropbox.
 
 ## [28. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 

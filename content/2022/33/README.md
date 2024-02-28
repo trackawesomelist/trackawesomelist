@@ -179,7 +179,7 @@
 
 ### UI / Barcode
 
-*   [Popovers (⭐1.6k)](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
+*   [Popovers (⭐1.8k)](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 
 ## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 

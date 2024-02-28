@@ -91,7 +91,7 @@
 
 ### Key Value Store
 
-*   [Defaults (⭐1.6k)](https://github.com/sindresorhus/Defaults) - Strongly-typed UserDefaults with support for Codable and key observation.
+*   [Defaults (⭐1.8k)](https://github.com/sindresorhus/Defaults) - Strongly-typed UserDefaults with support for Codable and key observation.
 
 ## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

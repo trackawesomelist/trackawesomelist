@@ -137,7 +137,7 @@
 
 ### Scroll Bars / Barcode
 
-*   [DMScrollBar (⭐22)](https://github.com/batanus/DMScrollBar) - Best in class customizable ScrollBar for any type of ScrollView with Decelerating, Bounce & Rubber band mechanisms and many many more.
+*   [DMScrollBar (⭐26)](https://github.com/batanus/DMScrollBar) - Best in class customizable ScrollBar for any type of ScrollView with Decelerating, Bounce & Rubber band mechanisms and many many more.
 
 ## [16. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
 

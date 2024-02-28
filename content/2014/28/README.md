@@ -320,7 +320,7 @@
 
 ### Packages / Command-line apps
 
-*   [cpy (⭐418)](https://github.com/sindresorhus/cpy) - Copy files.
+*   [cpy (⭐420)](https://github.com/sindresorhus/cpy) - Copy files.
 
 ### Packages / Filesystem
 
@@ -329,20 +329,20 @@
 
 ### Packages / Real-time
 
-*   [Primus (⭐4.4k)](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
+*   [Primus (⭐4.5k)](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 
 ### Packages / Image
 
-*   [sharp (⭐27k)](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
+*   [sharp (⭐28k)](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
 *   [image-type (⭐357)](https://github.com/sindresorhus/image-type) - Detect the type of an image.
 *   [gm (⭐6.9k)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
 
 ### Packages / Text
 
 *   [iconv-lite (⭐3k)](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
-*   [escape-string-regexp (⭐565)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
+*   [escape-string-regexp (⭐569)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
 *   [indent-string (⭐110)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
-*   [strip-indent (⭐131)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
+*   [strip-indent (⭐132)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
 
 ### Packages / Parsing
 
@@ -350,13 +350,13 @@
 
 ### Packages / Humanize
 
-*   [pretty-bytes (⭐1k)](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
-*   [pretty-ms (⭐942)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
+*   [pretty-bytes (⭐1.1k)](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
+*   [pretty-ms (⭐992)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
 *   [pretty-error (⭐1.5k)](https://github.com/AriaMinaei/pretty-error) - Errors with less clutter.
 
 ### Packages / Network
 
-*   [get-port (⭐834)](https://github.com/sindresorhus/get-port) - Get an available port.
+*   [get-port (⭐842)](https://github.com/sindresorhus/get-port) - Get an available port.
 
 ### Packages / Node.js management
 
@@ -364,12 +364,12 @@
 
 ### Packages / Weird
 
-*   [superb (⭐395)](https://github.com/sindresorhus/superb) - Get superb like words.
+*   [superb (⭐394)](https://github.com/sindresorhus/superb) - Get superb like words.
 *   [cool-ascii-faces (⭐1.8k)](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
 
 ### Packages / Miscellaneous
 
-*   [cheerio (⭐27k)](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+*   [cheerio (⭐28k)](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 
 ### Resources / Tutorials
 

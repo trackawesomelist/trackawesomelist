@@ -79,7 +79,7 @@
 
 ### Apps
 
-*   [Gank (⭐129)](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
+*   [Gank (⭐131)](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 
 ## [12. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

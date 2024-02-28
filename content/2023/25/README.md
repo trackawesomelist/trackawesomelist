@@ -284,7 +284,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Aim (⭐4.5k)](https://github.com/aimhubio/aim) -> An easy-to-use & supercharged open-source AI metadata tracker.
+*   [Aim (⭐4.6k)](https://github.com/aimhubio/aim) -> An easy-to-use & supercharged open-source AI metadata tracker.
 
 ## [23. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
@@ -318,11 +318,11 @@
 
 ### Packages / Build tools
 
-*   [Vite (⭐62k)](https://github.com/vitejs/vite) - Front-end build tool with hot module replacement and static asset bundling.
+*   [Vite (⭐63k)](https://github.com/vitejs/vite) - Front-end build tool with hot module replacement and static asset bundling.
 
 ### Packages / Hardware
 
-*   [modbus-serial (⭐568)](https://github.com/yaacov/node-modbus-serial) - A pure JavaScript implementation of MODBUS-RTU (serial and TCP).
+*   [modbus-serial (⭐580)](https://github.com/yaacov/node-modbus-serial) - A pure JavaScript implementation of MODBUS-RTU (serial and TCP).
 
 ### Resources / Courses
 

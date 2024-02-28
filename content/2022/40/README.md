@@ -201,7 +201,7 @@ Installs: 4000 | Stars: 960 | Last update: n/a
 
 ### Applications
 
-*   [FilePizza ☠️ (⭐4.1k)](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
+*   [FilePizza ☠️ (⭐4.2k)](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
 
 ## [18. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
@@ -254,7 +254,7 @@ Installs: 4000 | Stars: 960 | Last update: n/a
 ### Email
 
 *   [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
-*   [Tutanota](https://tutanota.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage. Which is also partially [open source (⭐5.6k)](https://github.com/tutao/tutanota), so you can self-host.
+*   [Tutanota](https://tutanota.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage. Which is also partially [open source (⭐5.7k)](https://github.com/tutao/tutanota), so you can self-host.
 
 ### Managed Data Services
 
@@ -587,7 +587,7 @@ Installs: 4000 | Stars: 960 | Last update: n/a
 
 ### Python / General-Purpose Machine Learning
 
-*   [einops (⭐7.6k)](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others).
+*   [einops (⭐7.7k)](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others).
 
 ## [47. Awesome V](/content/vlang/awesome-v/week/README.md)
 
@@ -836,7 +836,7 @@ Installs: 4000 | Stars: 960 | Last update: n/a
 
 ### App Store
 
-*   [AppReview (⭐74)](https://github.com/mezhevikin/AppReview) - A tiny library to request review on the AppStore via SKStoreReviewController.
+*   [AppReview (⭐91)](https://github.com/mezhevikin/AppReview) - A tiny library to request review on the AppStore via SKStoreReviewController.
 
 ## [51. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 

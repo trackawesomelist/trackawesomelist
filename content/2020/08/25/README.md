@@ -35,7 +35,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [Pandas TA (⭐4.4k)](https://github.com/twopirllc/pandas-ta) - Pandas TA is an easy to use Python 3 Pandas Extension with 115+ Indicators. Easily build Custom Strategies.
+*   [Pandas TA (⭐4.5k)](https://github.com/twopirllc/pandas-ta) - Pandas TA is an easy to use Python 3 Pandas Extension with 115+ Indicators. Easily build Custom Strategies.
 
 ## [6. Colorful](/content/Siddharth11/Colorful/README.md)
 
@@ -150,7 +150,7 @@
 
 ### UI / Barcode
 
-*   [BetterSafariView (⭐487)](https://github.com/stleamist/BetterSafariView) - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
+*   [BetterSafariView (⭐520)](https://github.com/stleamist/BetterSafariView) - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
 
 ## [19. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

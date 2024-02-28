@@ -10,7 +10,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [skfolio (⭐747)](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn. It provides a unified interface and sklearn compatible tools to build, tune and cross-validate portfolio models.
+*   [skfolio (⭐801)](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn. It provides a unified interface and sklearn compatible tools to build, tune and cross-validate portfolio models.
 
 ## [2. Awesome Django](/content/wsvincent/awesome-django/README.md)
 

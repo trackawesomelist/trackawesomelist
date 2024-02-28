@@ -526,7 +526,7 @@
 
 ### Images / Barcode
 
-*   [ATGMediaBrowser (⭐209)](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
+*   [ATGMediaBrowser (⭐211)](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
 
 ## [34. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 

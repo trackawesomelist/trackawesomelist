@@ -10,7 +10,7 @@
 
 ### Auto Layout / Barcode
 
-*   [HypeUI (⭐116)](https://github.com/hyperconnect/HypeUI) - 🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit
+*   [HypeUI (⭐121)](https://github.com/hyperconnect/HypeUI) - 🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit
 
 ## [2. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 

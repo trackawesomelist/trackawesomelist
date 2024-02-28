@@ -10,7 +10,7 @@
 
 ### API
 
-*   [Swiftkube (⭐109)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
+*   [Swiftkube (⭐115)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
 
 ## [2. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 

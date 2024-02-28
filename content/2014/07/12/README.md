@@ -16,9 +16,9 @@
 ### Packages / Text
 
 *   [iconv-lite (⭐3k)](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
-*   [escape-string-regexp (⭐565)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
+*   [escape-string-regexp (⭐569)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
 *   [indent-string (⭐110)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
-*   [strip-indent (⭐131)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
+*   [strip-indent (⭐132)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
 
 ### Packages / Parsing
 
@@ -30,11 +30,11 @@
 
 ### Packages / Network
 
-*   [get-port (⭐834)](https://github.com/sindresorhus/get-port) - Get an available port.
+*   [get-port (⭐842)](https://github.com/sindresorhus/get-port) - Get an available port.
 
 ### Packages / Weird
 
-*   [superb (⭐395)](https://github.com/sindresorhus/superb) - Get superb like words.
+*   [superb (⭐394)](https://github.com/sindresorhus/superb) - Get superb like words.
 *   [cool-ascii-faces (⭐1.8k)](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
 
 ## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)

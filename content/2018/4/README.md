@@ -326,7 +326,7 @@
 
 ### App Store
 
-*   [InAppPurchase (⭐288)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
+*   [InAppPurchase (⭐286)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
 
 ### JSON
 
@@ -334,7 +334,7 @@
 
 ### Device
 
-*   [Thingy (⭐60)](https://github.com/bojan/Thingy) - A modern device detection and querying library.
+*   [Thingy (⭐59)](https://github.com/bojan/Thingy) - A modern device detection and querying library.
 
 ### Cryptography / Barcode
 

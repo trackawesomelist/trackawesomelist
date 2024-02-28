@@ -46,7 +46,7 @@
 
 ### Examples
 
-*   [priyavrat-misra/xrays-and-gradcam (⭐40)](https://github.com/priyavrat-misra/xrays-and-gradcam#readme) - TOC for easy navigation. Clear introduction of what the project does. Complete list of all files in the repo and what their function is. Usage section. Clean and concise tables.
+*   [priyavrat-misra/xrays-and-gradcam (⭐44)](https://github.com/priyavrat-misra/xrays-and-gradcam#readme) - TOC for easy navigation. Clear introduction of what the project does. Complete list of all files in the repo and what their function is. Usage section. Clean and concise tables.
 
 ## [8. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 

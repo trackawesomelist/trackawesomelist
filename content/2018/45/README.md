@@ -251,7 +251,7 @@
 
 ### Packages / Filesystem
 
-*   [move-file (⭐198)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
+*   [move-file (⭐194)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
 
 ## [22. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
@@ -297,7 +297,7 @@
 
 ### Elixir / General-Purpose Machine Learning
 
-*   [emel (⭐94)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in Elixir.
+*   [emel (⭐96)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in Elixir.
 
 ### Python / General-Purpose Machine Learning
 
@@ -554,7 +554,7 @@
 
 ### Button / Barcode
 
-*   [AHDownloadButton (⭐478)](https://github.com/amerhukic/AHDownloadButton) - Customizable download button with progress and transition animations. It is based on Apple's App Store download button.
+*   [AHDownloadButton (⭐477)](https://github.com/amerhukic/AHDownloadButton) - Customizable download button with progress and transition animations. It is based on Apple's App Store download button.
 
 ### Menu / Barcode
 
@@ -562,7 +562,7 @@
 
 ### UICollectionView / Barcode
 
-*   [UICollectionViewSplitLayout (⭐240)](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
+*   [UICollectionViewSplitLayout (⭐241)](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
 
 ### Walkthrough / Barcode
 

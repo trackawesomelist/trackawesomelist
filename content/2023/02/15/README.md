@@ -64,7 +64,7 @@
 
 ### AI
 
-*   [OpenAI (⭐1.1k)](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
+*   [OpenAI (⭐1.5k)](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
 
 ## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

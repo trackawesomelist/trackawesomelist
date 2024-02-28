@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 15 - Jul 21, 2019
 
-47 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,9 +10,9 @@
 
 ### Applications
 
-*   [croc (⭐23k)](https://github.com/schollz/croc): Easily and securely send files and folders from one computer to another in command line.
+*   [croc (⭐26k)](https://github.com/schollz/croc): Easily and securely send files and folders from one computer to another in command line.
 *   [norcal](https://github.com/substack/norcal): P2P command-line calendar in Node.js. Can sync, link, embed, and edit offline.
-*   [twtxt (⭐40)](https://github.com/getwtxt/getwtxt): Decentralized microblogging platform "for hackers" based on text files. The user is "followed" and "mentioned" by referencing the URL to their twtxt.txt file and a nickname.
+*   [twtxt (⭐42)](https://github.com/getwtxt/getwtxt): Decentralized microblogging platform "for hackers" based on text files. The user is "followed" and "mentioned" by referencing the URL to their twtxt.txt file and a nickname.
 
 ## [2. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -128,13 +128,7 @@
 
 *   [Remote People](https://remotepeople.io/)
 
-## [12. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
-
-### Table of Contents / Repos
-
-*   [Bow (⭐642)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
-
-## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [12. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Books
 
@@ -148,7 +142,7 @@
 
 *   [text-meme (⭐100)](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 
-## [14. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [13. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn
 
@@ -221,7 +215,7 @@
 *   [Elm in the spring](https://www.elminthespring.org/)
 *   [Oslo Elm day](https://osloelmday.no/)
 
-## [15. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [14. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Automation
 
@@ -231,7 +225,7 @@
 
 *   [Rekall](http://www.rekall-forensic.com/) - Advanced forensic and incident response framework.
 
-## [16. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [15. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Containerization
 
@@ -262,43 +256,47 @@
 
 *   [rctf-list (⭐30)](https://github.com/aliasrobotics/RCTF) - A list of Robotics CTF (RCTF) scenarios.
 
-## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Examples and funny stuff
 
 *   [coderplanets.com (⭐221)](https://github.com/coderplanets/coderplanets_server) - GraphQL api for coderplanets.com built with Phoenix 1.4 and Absinthe.
 
-## [18. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [17. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Mockup
 
 *   [BrowserFrame](https://browserframe.com/) is the easiest way to wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes. Great for landing pages and mockups.
 
-## [19. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [18. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### JavaScript
 
 *   [Popup Trombone](https://matthewrayfield.com/goodies/popup-trombone/) - A trombone you play by resizing a pop-up window. 🎺
 
-## [20. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [19. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Continuous Integration
 
 *   [Distributing beta builds with Fastlane on Android and iOS (⭐3.3k)](https://github.com/thecodingmachine/react-native-boilerplate/blob/master/docs/beta%20builds.md)
 
-## [21. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [20. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Static Analyzers / Social Engineering Tools
 
 *   [cwe\_checker (⭐1k)](https://github.com/fkie-cad/cwe_checker) - Suite of tools built atop the Binary Analysis Platform (BAP) to heuristically detect CWEs in compiled binaries and firmware.
 
-## [22. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [21. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [Stratux (⭐1k)](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
 
-## [23. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+
+### Utility / Barcode
+
+*   [Bow (⭐643)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming.
 
 ### Misc
 
@@ -310,38 +308,38 @@
 
 ### Text / Barcode
 
-*   [Texstyle (⭐79)](https://github.com/rosberry/texstyle) - Texstyle allows you to format attributed strings easily.
+*   [Texstyle (⭐78)](https://github.com/rosberry/texstyle) - Texstyle allows you to format attributed strings easily.
 
 ### UI / Barcode
 
-*   [ResizingTokenField (⭐105)](https://github.com/tadejr/ResizingTokenField) - A UICollectionView-based token field which provides intrinsic content height.
+*   [ResizingTokenField (⭐106)](https://github.com/tadejr/ResizingTokenField) - A UICollectionView-based token field which provides intrinsic content height.
 
 ### TextField / Barcode
 
-*   [VKPinCodeView (⭐96)](https://github.com/Sunspension/VKPinCodeView) - Simple and elegant UI component for input PIN.
+*   [VKPinCodeView (⭐95)](https://github.com/Sunspension/VKPinCodeView) - Simple and elegant UI component for input PIN.
 
 ### UITableView / Barcode
 
-*   [SelectionList (⭐115)](https://github.com/yonat/SelectionList) - Simple single-selection or multiple-selection checklist, based on UITableView.
+*   [SelectionList (⭐116)](https://github.com/yonat/SelectionList) - Simple single-selection or multiple-selection checklist, based on UITableView.
 
-## [24. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [23. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
 *   [Firefox GNOME Theme (⭐3.1k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
 
-## [25. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [24. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Indicators
 
-*   [pandas\_talib (⭐700)](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators.
+*   [pandas\_talib (⭐698)](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators.
 
 ### Python / Trading & Backtesting
 
-*   [ta (⭐3.9k)](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas (Python)
-*   [pyqstrat (⭐342)](https://github.com/abbass2/pyqstrat) - A fast, extensible, transparent python library for backtesting quantitative strategies.
+*   [ta (⭐4k)](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas (Python)
+*   [pyqstrat (⭐343)](https://github.com/abbass2/pyqstrat) - A fast, extensible, transparent python library for backtesting quantitative strategies.
 *   [NowTrade (⭐97)](https://github.com/edouardpoitras/NowTrade) - Python library for backtesting technical/mechanical strategies in the stock and currency markets.
-*   [pinkfish (⭐255)](https://github.com/fja05680/pinkfish) - A backtester and spreadsheet library for security analysis.
+*   [pinkfish (⭐254)](https://github.com/fja05680/pinkfish) - A backtester and spreadsheet library for security analysis.
 *   [aat (⭐11)](https://github.com/timkpaine/aat) - Async Algorithmic Trading Engine
 *   [Backtesting.py](https://kernc.github.io/backtesting.py/) - Backtest trading strategies in Python
 *   [catalyst (⭐2.5k)](https://github.com/enigmampc/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
@@ -350,13 +348,13 @@
 
 *   [Strata](http://strata.opengamma.io/) - Modern open-source analytics and market risk library designed and written in Java.
 
-## [26. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [25. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Other Languages / Others
 
 *   [DevApps.be's podcast #44](http://devapps.be/podcast/blazor-webassembly/) - \[French] DevApps.be's podcast #44: "Blazor et WebAssembly vont-ils tuer JavaScript ?".
 
-## [27. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [26. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Books
 
@@ -406,7 +404,7 @@
 *   [A Review of Machine Learning Applications in Fuzzing, 2019](https://arxiv.org/abs/1906.11133)
 *   [Evolutionary Fuzzing of Android OS Vendor System Services, 2019](https://arxiv.org/abs/1906.00621)
 
-## [28. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
+## [27. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
 ### [git-profile](https://github.com/dm3ch/git-profile-manager)
 
@@ -428,7 +426,7 @@
     work
     home
 
-## [29. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [28. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Babel
 
@@ -438,7 +436,7 @@
 
 *   [Productive Frontend Test Driven Development That Actually Works](https://www.youtube.com/watch?v=63Ya91f8W-8)
 
-## [30. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [29. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Posts
 
@@ -448,7 +446,7 @@
 
 *   [Intro To Accessibility](https://www.youtube.com/watch?v=qQj4JLfQvtI) - By Eric Bailey.
 
-## [31. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [30. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Applications
 
@@ -459,26 +457,26 @@
 *   [Coding, Fast And Slow: Developers And The Psychology Of Overconfidence](https://medium.com/better-programming/coding-fast-and-slow-developers-and-the-psychology-of-overconfidence-433388e7aec0) - By Dan Milstein.
 *   [Intro To Meditation For Coders](https://dev.to/256hz/intro-to-meditation-for-coders-1p6f) - By Abe Dolinger.
 
-## [32. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [31. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [Check All](https://chrispederick.com/work/web-developer/) - "Select All" is often not available. Why not bring your own?
 *   [recheck-web (⭐262)](https://github.com/retest/recheck-web) - Open Source change comparison tool with local Golden Masters, git-like ignore syntax and "unbreakable selenium" tests.
 
-## [33. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [32. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Component Libraries
 
 *   [Clever components (⭐195)](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
 
-## [34. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [33. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Miscellaneous
 
 *   [Vaadin Directory](https://vaadin.com/directory) - Publish, discuss and rate web components
 
-## [35. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [34. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Platforms
 
@@ -506,7 +504,7 @@
 *   [Cloud Native Computing Foundation](https://www.cncf.io/) - The Cloud Native Computing Foundation builds sustainable ecosystems and fosters a community around a constellation of high-quality projects that orchestrate containers as part of a microservices architecture.
 *   [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/) - Interactive landscape of cloud native technologies.
 
-## [36. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+## [35. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
 
 ### Ionic Fundamentals
 
@@ -556,7 +554,7 @@
 *   [Translation in Ionic 4 - Internationalization and localization (⭐6)](https://github.com/enappd/ionic4-i18n) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
 *   [Ionic 4 Free chat themes](https://store.enappd.com/product/free-chat-themes-ionic4/) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
 
-## [37. Awesome Qlik](/content/ambster-public/awesome-qlik/week/README.md)
+## [36. Awesome Qlik](/content/ambster-public/awesome-qlik/week/README.md)
 
 ### Official Resources and Documentation
 
@@ -578,7 +576,7 @@
 *   [trueChart](https://www.truechart.com)
 *   [VizLib](https://www.vizlib.com)
 
-## [38. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [37. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
@@ -594,7 +592,7 @@
 
 *   [Play!](https://www.patreon.com/jpd002) - PS2 emulator.
 
-## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debug
 
@@ -616,13 +614,13 @@
 
 *   [C++Now 2019 Presentations (⭐89)](https://github.com/boostcon/cppnow_presentations_2019) - Presentation materials presented at C++Now 2019.
 
-## [40. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [39. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Realtime Convertors / Ruby
 
 *   [gtfs-realtime-translators (⭐18)](https://github.com/Intersection/gtfs-realtime-translators) - A Python-based tool to translate custom arrival API formats to GTFS-realtime.  As of July 2019 it supports LA Metro and SEPTA.
 
-## [41. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [40. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
@@ -646,13 +644,13 @@
 
 *   [Poli (⭐1.9k)](https://github.com/shzlw/poli) - An easy-to-use SQL reporting application built for SQL lovers.
 
-## [42. Amas](/content/sindresorhus/amas/week/README.md)
+## [41. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Chris Otto (⭐0)](https://github.com/chrisotto6/ama) - Test Engineer, creator of [VSCodeFitNesse](https://marketplace.visualstudio.com/items?itemName=chrisotto.vscodefitnesse) and [blogger](https://www.chrisotto.tech).
 
-## [43. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [42. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Sticky Headers
 
@@ -672,7 +670,7 @@
 
 *   Meetup [São Paulo](https://www.meetup.com/flutter-sp)
 
-## [44. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [43. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### CLOS extensions
 
@@ -682,7 +680,7 @@
 
 *   [sanity-clause (⭐46)](https://github.com/fisxoj/sanity-clause) - a data serialization/contract library for Common Lisp. Schemas can be property lists or class-based, allowing to check slots' types during `make-instance`. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [45. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [44. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### SQL-like processing
 
@@ -692,7 +690,7 @@
 
 *   Graph Classification [awesome-graph-classification (⭐4.6k)](https://github.com/benedekrozemberczki/awesome-graph-classification).
 
-## [46. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [45. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Concurrency
 
@@ -700,7 +698,7 @@
     *   [Lwt](http://ocsigen.org/lwt/) — A cooperative threads library for OCaml.
     *   [Async](https://opensource.janestreet.com/async/) — A monadic concurrence library to go with the Core library.
 
-## [47. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [46. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Photo and Video Galleries
 

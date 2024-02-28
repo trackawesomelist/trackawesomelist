@@ -116,7 +116,7 @@
 
 ### Layout / Barcode
 
-*   [AnimatedTabBar (⭐198)](https://github.com/exyte/AnimatedTabBar) - A tabbar with a number of preset animations.
+*   [AnimatedTabBar (⭐244)](https://github.com/exyte/AnimatedTabBar) - A tabbar with a number of preset animations.
 
 ## [9. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 

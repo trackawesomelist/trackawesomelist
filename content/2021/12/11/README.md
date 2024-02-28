@@ -48,7 +48,7 @@
 
 ### Examples
 
-*   [zenml-io/zenml (⭐3.2k)](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst feature list. Quickstart example.
+*   [zenml-io/zenml (⭐3.5k)](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst feature list. Quickstart example.
 
 ## [6. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 

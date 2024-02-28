@@ -331,7 +331,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [oneDNN (⭐3.3k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications.
+*   [oneDNN (⭐3.4k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications.
 
 ## [21. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
@@ -542,7 +542,7 @@
 
 ### UI / Barcode
 
-*   [BottomSheet (⭐210)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
+*   [BottomSheet (⭐242)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
 
 ## [39. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 

@@ -216,7 +216,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [freqtrade (⭐24k)](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
+*   [freqtrade (⭐25k)](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 
 ## [23. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -338,7 +338,17 @@
 
 *   [scala-native-loop (⭐46)](https://github.com/scala-native/scala-native-loop) - Event loop and async-oriented IO for Scala Native
 
-## [34. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
+## [34. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+
+### Core Data
+
+*   [CloudCore (⭐141)](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
+
+### Security
+
+*   [Vault](https://github.com/passlock/Vault) - Safe place for your encryption keys.
+
+## [35. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
 
 ### Videos / Italian Cuisine
 
@@ -349,13 +359,13 @@
 *   [Peaceful Cuisine](https://www.youtube.com/user/ryoya1983) - Asian cooking, relaxing and beautiful
 *   [Asian at Home](https://www.youtube.com/user/SeonkyoungLongest) - She talks too much but the food looks great
 
-## [35. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [36. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Open-source host-it-yourself:
 
 *   [Spoke (⭐186)](https://github.com/Elizabeth-Warren/Spoke) - Text-distribution tool for organizations to mobilize supporters and members into action. Spoke allows you to upload phone numbers, customize scripts and assign volunteers to communicate with supporters while allowing organizations to manage the process.
 
-## [36. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [37. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Other / Other Resources
 
@@ -363,7 +373,7 @@
     of various information focused on malware persistence: detection (techniques),
     response, pitfalls and the log collection (tools).
 
-## [37. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [38. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Free eBooks
 
@@ -394,13 +404,13 @@
 
 *   [Marten (⭐2.5k)](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .Net Applications.
 
-## [38. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [39. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Behavior and Decision / Vector Map
 
 *   [FlexBE](https://flexbe.github.io/) - Graphical editor for hierarchical state machines, based on ROS's smach.
 
-## [39. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [40. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Go / General-Purpose Machine Learning
 
@@ -408,15 +418,15 @@
 
 ### Go / Reinforcement learning
 
-*   [gold (⭐331)](https://github.com/aunum/gold) - A reinforcement learning library.
+*   [gold (⭐333)](https://github.com/aunum/gold) - A reinforcement learning library.
 
-## [40. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [41. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Groovy / More
 
 *   [VsCode Groovy Lint](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint) - Groovy lint, format, prettify and auto-fix
 
-## [41. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [42. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Tools / Misc
 
@@ -426,7 +436,7 @@
 
 *   [SimpleLogin (⭐3.9k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
 
-## [42. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
+## [43. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
 ### Software Tools / Analysis Frameworks
 
@@ -473,20 +483,6 @@
 *   [Hackaday](https://hackaday.com)
 *   [jcjc's Hack The World](https://jcjc-dev.com/)
 *   [Quarkslab](https://blog.quarkslab.com/)
-
-## [43. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
-
-### Debugging
-
-*   [Playbook (⭐1.1k)](https://github.com/playbook-ui/playbook-ios) - A library for isolated developing UI components and automatically snapshots of them.
-
-### Core Data
-
-*   [CloudCore (⭐141)](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
-
-### Security
-
-*   [Vault](https://github.com/passlock/Vault) - Safe place for your encryption keys.
 
 ## [44. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -585,13 +581,17 @@
 
 ## [52. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
+### Utility / Barcode
+
+*   [Playbook (⭐1.1k)](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically snapshots of them.
+
 ### Concurrency
 
-*   [SwiftCoroutine (⭐827)](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
+*   [SwiftCoroutine (⭐830)](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
 
 ### Core Data
 
-*   [CloudCore (⭐142)](https://github.com/deeje/CloudCore/) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, and more.
+*   [CloudCore (⭐143)](https://github.com/deeje/CloudCore/) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, and more.
 
 ## [53. Awesome List](/content/sindresorhus/awesome/week/README.md)
 

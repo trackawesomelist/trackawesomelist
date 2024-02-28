@@ -589,7 +589,7 @@
 
 ### CBOR
 
-*   [CBORCoding (⭐29)](https://github.com/SomeRandomiOSDev/CBORCoding) :penguin: - Easy CBOR encoding and decoding for iOS, macOS, tvOS and watchOS.
+*   [CBORCoding (⭐43)](https://github.com/SomeRandomiOSDev/CBORCoding) :penguin: - Easy CBOR encoding and decoding for iOS, macOS, tvOS and watchOS.
 
 ## [53. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 

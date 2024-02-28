@@ -350,7 +350,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 ### Math / Barcode
 
-*   [DDMathParser (⭐841)](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
+*   [DDMathParser (⭐844)](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
 
 ### Testing / Barcode
 
@@ -359,7 +359,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 ### UI / Barcode
 
 *   [AMScrollingNavbar (⭐6.1k)](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
-*   [NVActivityIndicatorView (⭐10k)](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations.
+*   [NVActivityIndicatorView (⭐11k)](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations.
 
 ## [28. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
 

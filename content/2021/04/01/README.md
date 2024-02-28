@@ -46,27 +46,27 @@
 
 ### Images / Barcode
 
-*   [Brightroom (⭐3k)](https://github.com/muukii/Brightroom) - An image editor and engine using CoreImage.
+*   [Brightroom (⭐3.1k)](https://github.com/muukii/Brightroom) - An image editor and engine using CoreImage.
 
 ### Network / Barcode
 
-*   [CodyFire (⭐251)](https://github.com/CodyFlame/CodyFire) - Powerful Codable API requests builder and manager for iOS. Based on Alamofire.
+*   [CodyFire (⭐256)](https://github.com/CodyFlame/CodyFire) - Powerful Codable API requests builder and manager for iOS. Based on Alamofire.
 
 ### Alert / Barcode
 
-*   [SPAlert (⭐2.1k)](https://github.com/ivanvorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
+*   [SPAlert (⭐2.2k)](https://github.com/ivanvorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
 
 ### Button / Barcode
 
-*   [IGStoryButtonKit (⭐36)](https://github.com/KaoruMuta/IGStoryButtonKit) - Easy-to-use button with rich animation inspired by instagram stories.
+*   [IGStoryButtonKit (⭐35)](https://github.com/KaoruMuta/IGStoryButtonKit) - Easy-to-use button with rich animation inspired by instagram stories.
 
 ### Permissions / Barcode
 
-*   [SPPermission (⭐5.4k)](https://github.com/ivanvorobei/SPPermissions) - Simple request permission with native UI and interactive animation.
+*   [SPPermission (⭐5.5k)](https://github.com/ivanvorobei/SPPermissions) - Simple request permission with native UI and interactive animation.
 
 ### Transition / Barcode
 
-*   [SPLarkController (⭐974)](https://github.com/ivanvorobei/SPLarkController) - Custom transition between two controller. Translate to top.
+*   [SPLarkController (⭐980)](https://github.com/ivanvorobei/SPLarkController) - Custom transition between two controller. Translate to top.
 *   [SPStorkController (⭐2.7k)](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Customisable height.
 
 ## [4. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)

@@ -14,7 +14,7 @@
 
 ### Quality / Barcode
 
-*   [SwiftCop (⭐542)](https://github.com/andresinaka/SwiftCop) - A validation library which inspired by the clarity of Ruby On Rails Active Record validations.
+*   [SwiftCop (⭐541)](https://github.com/andresinaka/SwiftCop) - A validation library which inspired by the clarity of Ruby On Rails Active Record validations.
 
 ## [2. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
 

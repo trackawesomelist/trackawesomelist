@@ -47,7 +47,7 @@
 
 ### Images / Barcode
 
-*   [ZImageCropper (⭐228)](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
+*   [ZImageCropper (⭐229)](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
 
 ## [7. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 

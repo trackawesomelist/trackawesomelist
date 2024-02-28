@@ -84,7 +84,7 @@
 
 ### Extensions
 
-*   [next-auth (⭐19k)](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
+*   [next-auth (⭐21k)](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
 
 ---
 

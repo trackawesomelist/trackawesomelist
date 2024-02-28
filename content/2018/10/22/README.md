@@ -36,7 +36,7 @@
 
 ### System / Barcode
 
-*   [LaunchAtLogin (⭐1.4k)](https://github.com/sindresorhus/LaunchAtLogin) - Easily add 'Launch at Login' functionality to your sandboxed macOS app.
+*   [LaunchAtLogin (⭐1.5k)](https://github.com/sindresorhus/LaunchAtLogin) - Easily add 'Launch at Login' functionality to your sandboxed macOS app.
 
 ### Testing / Barcode
 
@@ -45,7 +45,7 @@
 
 ### UI / Barcode
 
-*   [Preferences (⭐1.3k)](https://github.com/sindresorhus/Preferences) - Add a preferences window to your macOS app in minutes.
+*   [Preferences (⭐1.4k)](https://github.com/sindresorhus/Preferences) - Add a preferences window to your macOS app in minutes.
 
 ## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

@@ -103,7 +103,7 @@
 
 ### Creating GIFs
 
-*   [vhs (⭐12k)](https://github.com/charmbracelet/vhs) - **FREE** - Generate beautiful terminal gifs with a simple scripting language
+*   [vhs (⭐13k)](https://github.com/charmbracelet/vhs) - **FREE** - Generate beautiful terminal gifs with a simple scripting language
 
 ## [14. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
@@ -990,7 +990,7 @@
 
 ### Applications
 
-*   [Meshenger (⭐437)](https://github.com/meshenger-app/meshenger-android): Voice/Video Android phone App that works on the local LAN and does not need Internet access/servers/accounts.
+*   [Meshenger (⭐544)](https://github.com/meshenger-app/meshenger-android): Voice/Video Android phone App that works on the local LAN and does not need Internet access/servers/accounts.
 *   [Qaul](https://qaul.net/): Internet independent wireless mesh communication App. Uses interlinked P2P mesh via BLE, Wifi & Internet-overlay.
 
 ## [48. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)

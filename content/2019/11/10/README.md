@@ -28,7 +28,7 @@
 
 ### Boilerplates
 
-*   [Next Graphql Apollo Typescript\_Boostrap - Pobocha (⭐85)](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) - React + GraphQL + Next.js + Apollo + Scss + Typescript + Prettier & EsLint boilerplate
+*   [Next Graphql Apollo Typescript\_Boostrap - Pobocha (⭐84)](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) - React + GraphQL + Next.js + Apollo + Scss + Typescript + Prettier & EsLint boilerplate
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

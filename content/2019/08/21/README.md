@@ -86,7 +86,7 @@
 
 ### UI / Barcode
 
-*   [MultiSelectSegmentedControl (⭐298)](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
+*   [MultiSelectSegmentedControl (⭐297)](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
 
 ## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

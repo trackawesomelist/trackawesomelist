@@ -212,7 +212,7 @@
 
 ### Animation
 
-*   [ChainPageCollectionView (⭐782)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
+*   [ChainPageCollectionView (⭐784)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
 
 ---
 

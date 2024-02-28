@@ -63,8 +63,8 @@
 
 ### Python / Trading & Backtesting
 
-*   [fast-trade (⭐318)](https://github.com/jrmeier/fast-trade) - Low code backtesting library utilizing pandas and technical analysis indicators.
-*   [Lean (⭐8.4k)](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#).
+*   [fast-trade (⭐321)](https://github.com/jrmeier/fast-trade) - Low code backtesting library utilizing pandas and technical analysis indicators.
+*   [Lean (⭐8.5k)](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#).
 
 ### Java / FrameWorks
 

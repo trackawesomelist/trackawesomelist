@@ -333,7 +333,7 @@
 
 ### Dependency Injection
 
-*   [Locatable (⭐116)](https://github.com/vincent-pradeilles/locatable) - A micro-framework that leverages Property Wrappers to implement the Service Locator pattern.
+*   [Locatable (⭐117)](https://github.com/vincent-pradeilles/locatable) - A micro-framework that leverages Property Wrappers to implement the Service Locator pattern.
 
 ### Messaging Protocol / Barcode
 
@@ -341,11 +341,11 @@
 
 ### Text / Barcode
 
-*   [Tagging (⭐117)](https://github.com/k-lpmg/Tagging) - A TextView that provides easy to use tagging feature for Mention or Hashtag.
+*   [Tagging (⭐118)](https://github.com/k-lpmg/Tagging) - A TextView that provides easy to use tagging feature for Mention or Hashtag.
 
 ### Transition / Barcode
 
-*   [PanSlip (⭐103)](https://github.com/k-lpmg/PanSlip) - Use PanGesture to dismiss view on UIViewController and UIView.
+*   [PanSlip (⭐104)](https://github.com/k-lpmg/PanSlip) - Use PanGesture to dismiss view on UIViewController and UIView.
 *   [SamuraiTransition (⭐276)](https://github.com/hachinobu/SamuraiTransition) - Swift based library providing a collection of ViewController transitions featuring a number of neat cutting animations.
 
 ## [35. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)

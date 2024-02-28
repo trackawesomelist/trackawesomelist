@@ -14,7 +14,7 @@
 
 ### Images / Barcode
 
-*   [AlamofireImage (⭐3.9k)](https://github.com/Alamofire/AlamofireImage) - AlamofireImage is an image component library for Alamofire.
+*   [AlamofireImage (⭐4k)](https://github.com/Alamofire/AlamofireImage) - AlamofireImage is an image component library for Alamofire.
 
 ### UI / Barcode
 
@@ -60,7 +60,7 @@
 
 ### Packages / Filesystem
 
-*   [pkg-dir (⭐227)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
+*   [pkg-dir (⭐228)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 
 ## [4. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 

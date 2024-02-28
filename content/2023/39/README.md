@@ -207,8 +207,8 @@
 
 ### Extensions
 
-*   [next-google-tag-manager (⭐32)](https://github.com/XD2Sketch/next-google-tag-manager) – Easily add Google Tag Manager to Next 13 and up.
-*   [next-api-decorators (⭐379)](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
+*   [next-google-tag-manager (⭐44)](https://github.com/XD2Sketch/next-google-tag-manager) – Easily add Google Tag Manager to Next 13 and up.
+*   [next-api-decorators (⭐391)](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
 
 ### Projects(Beginner level)
 
@@ -411,7 +411,7 @@
 
 ### Examples
 
-*   [antoinezanardi/werewolves-assistant-api-next (⭐16)](https://github.com/antoinezanardi/werewolves-assistant-api-next#readme) - Project logo. Badges. Concise description. TOC for easy navigation. Simple install instructions and various sections. Clean project with code coverage, CI, and many other features.
+*   [antoinezanardi/werewolves-assistant-api-next (⭐22)](https://github.com/antoinezanardi/werewolves-assistant-api-next#readme) - Project logo. Badges. Concise description. TOC for easy navigation. Simple install instructions and various sections. Clean project with code coverage, CI, and many other features.
 
 ## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 

@@ -86,7 +86,7 @@
 
 ### Colors
 
-*   [SwiftHEXColors (⭐689)](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
+*   [SwiftHEXColors (⭐690)](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
 
 ### JSON
 
@@ -94,7 +94,7 @@
 
 ### XML
 
-*   [AEXML (⭐979)](https://github.com/tadija/AEXML) - xml wrapper.
+*   [AEXML (⭐983)](https://github.com/tadija/AEXML) - xml wrapper.
 
 ### Images / Barcode
 
@@ -107,7 +107,7 @@
 ### UI / Barcode
 
 *   [BreakOutToRefresh (⭐2.5k)](https://github.com/dasdom/BreakOutToRefresh) - A playable pull to refresh view using SpriteKit.
-*   [FloatRatingView (⭐545)](https://github.com/glenyi/FloatRatingView) - Floating rating system.
+*   [FloatRatingView (⭐547)](https://github.com/glenyi/FloatRatingView) - Floating rating system.
 
 ### Menu / Barcode
 
@@ -121,7 +121,7 @@
 
 ### Utility / Barcode
 
-*   [Swiftx (⭐218)](https://github.com/typelift/Swiftx) - Functional data types and functions for any project.
+*   [Swiftx (⭐216)](https://github.com/typelift/Swiftx) - Functional data types and functions for any project.
 
 ## [10. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 

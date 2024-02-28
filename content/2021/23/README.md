@@ -46,7 +46,7 @@
 
 ### Tools
 
-*   [Amazing GitHub Template (⭐382)](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE\_OF\_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
+*   [Amazing GitHub Template (⭐413)](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE\_OF\_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -370,11 +370,11 @@
 
 ## [38. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
-### Apps / Mapping
+### Mapping
 
 *   [Mapkeep](https://mapkeep.com/) - Multiplayer Wardley Maps at a click of a button. Collaborate on your maps with others. Host your maps for free. For updates, you can follow [@mapkeep on Mastodon](https://mastodon.social/@mapkeep), [@mapkeep on X](https://twitter.com/mapkeep), [mapkeep on LinkedIn](https://www.linkedin.com/company/mapkeep), subscribe to the [YouTube Channel](https://www.youtube.com/@mapkeep), or subscribe to the [News and Updates blog](https://blog.mapkeep.com/).
 
-### Templates / Mapping
+### Mapping / ChatGPT
 
 *   [Google Slides Mapping Template](https://docs.google.com/presentation/d/11_7D5KAgEUY3FxKg0K2whpwnC4jZOrS_TO2bpD5PV5A/edit#slide=id.g1aa7821e59_2_0) - Template for Google Slides.
 

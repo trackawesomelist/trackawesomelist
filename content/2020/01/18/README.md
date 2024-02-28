@@ -93,7 +93,7 @@
 
 ### XML
 
-*   [XMLMapper (⭐109)](https://github.com/gcharita/XMLMapper) - A simple way to map XML to Objects.
+*   [XMLMapper (⭐110)](https://github.com/gcharita/XMLMapper) - A simple way to map XML to Objects.
 
 ### Quality / Barcode
 

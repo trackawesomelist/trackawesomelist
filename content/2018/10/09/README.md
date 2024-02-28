@@ -92,7 +92,7 @@
 
 ### Cryptography / Barcode
 
-*   [JOSESwift (⭐178)](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK.
+*   [JOSESwift (⭐184)](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK.
 
 ### Menu / Barcode
 
@@ -140,7 +140,7 @@
 
 ### R / Numerical Libraries & Data Structures
 
-*   [sparseEigen (⭐10)](https://github.com/dppalomar/sparseEigen) - Sparse pricipal component analysis.
+*   [sparseEigen (⭐11)](https://github.com/dppalomar/sparseEigen) - Sparse pricipal component analysis.
 
 ---
 

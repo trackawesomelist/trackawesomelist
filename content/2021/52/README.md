@@ -253,9 +253,9 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [RexMex (⭐274)](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
-*   [ChemicalX (⭐687)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
-*   [Deepchecks (⭐3.2k)](https://github.com/deepchecks/deepchecks): Validation & testing of machine learning models and data during model development, deployment, and production. This includes checks and suites related to various types of issues, such as model performance, data integrity, distribution mismatches, and more.
+*   [RexMex (⭐275)](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
+*   [ChemicalX (⭐690)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
+*   [Deepchecks (⭐3.3k)](https://github.com/deepchecks/deepchecks): Validation & testing of machine learning models and data during model development, deployment, and production. This includes checks and suites related to various types of issues, such as model performance, data integrity, distribution mismatches, and more.
 
 ## [24. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -267,7 +267,7 @@
 
 ### UI / Barcode
 
-*   [ProgressIndicatorView (⭐174)](https://github.com/exyte/ProgressIndicatorView) - A progress indicator view library written in SwiftUI.
+*   [ProgressIndicatorView (⭐198)](https://github.com/exyte/ProgressIndicatorView) - A progress indicator view library written in SwiftUI.
 
 ## [26. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
@@ -662,11 +662,11 @@
 ### Python / Trading & Backtesting
 
 *   [tda-api (⭐1.2k)](https://github.com/alexgolec/tda-api) - Gather data and trade equities, options, and ETFs via TDAmeritrade.
-*   [vectorbt (⭐3.5k)](https://github.com/polakowo/vectorbt) - Find your trading edge, using a powerful toolkit for backtesting, algorithmic trading, and research.
+*   [vectorbt (⭐3.6k)](https://github.com/polakowo/vectorbt) - Find your trading edge, using a powerful toolkit for backtesting, algorithmic trading, and research.
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [QuantFinanceBook (⭐319)](https://github.com/LechGrzelak/QuantFinanceBook) - Quantitative Finance book.
+*   [QuantFinanceBook (⭐325)](https://github.com/LechGrzelak/QuantFinanceBook) - Quantitative Finance book.
 
 ## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 

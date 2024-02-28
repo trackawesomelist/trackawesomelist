@@ -8,7 +8,7 @@
 
 ## [1. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Large Language Models (LLMs)
+### Prompt Engineering / Prompt Optimizers
 
 *   \[🔥🔥🔥] [LLMLingua](https://llmlingua.com/): Designing a Language for LLMs via **Prompt Compression**
 

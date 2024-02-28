@@ -248,16 +248,16 @@
 
 ### Packages / Mad science
 
-*   [BitcoinJS (⭐5.3k)](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library.
+*   [BitcoinJS (⭐5.4k)](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library.
 *   [Bitcore (⭐4.7k)](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
 *   [NodeOS (⭐6.9k)](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm.
-*   [Cytoscape.js (⭐9.5k)](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
-*   [isomorphic-git (⭐7.1k)](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
+*   [Cytoscape.js (⭐9.7k)](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
+*   [isomorphic-git (⭐7.2k)](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
 
 ### Packages / Command-line apps
 
-*   [gh-home (⭐190)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
-*   [npm-home (⭐190)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
+*   [gh-home (⭐193)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
+*   [npm-home (⭐194)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
 *   [trash (⭐2.5k)](https://github.com/sindresorhus/trash) - Safer alternative to `rm`.
 
 ### Packages / Functional programming
@@ -270,8 +270,8 @@
 *   [yargs (⭐11k)](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
 *   [get-stdin (⭐333)](https://github.com/sindresorhus/get-stdin) - Easier stdin.
 *   [Ink (⭐25k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
-*   [terminal-link (⭐599)](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal.
-*   [terminal-image (⭐941)](https://github.com/sindresorhus/terminal-image) - Display images in the terminal.
+*   [terminal-link (⭐603)](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal.
+*   [terminal-image (⭐948)](https://github.com/sindresorhus/terminal-image) - Display images in the terminal.
 *   [Inquirer.js (⭐19k)](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
 *   [sudo-block (⭐98)](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions.
 
@@ -292,11 +292,11 @@
 
 *   Promises
     *   [pify (⭐1.5k)](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
-    *   [delay (⭐593)](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
+    *   [delay (⭐597)](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
     *   [promise-memoize (⭐58)](https://github.com/nodeca/promise-memoize) - Memoize promise-returning functions, with expire and prefetch.
     *   [valvelet (⭐38)](https://github.com/lpinca/valvelet) - Limit the execution rate of a promise-returning function.
-    *   [p-map (⭐1.1k)](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
-    *   [More… (⭐4.4k)](https://github.com/sindresorhus/promise-fun)
+    *   [p-map (⭐1.2k)](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
+    *   [More… (⭐4.5k)](https://github.com/sindresorhus/promise-fun)
 *   Streams
     *   [Highland.js (⭐3.4k)](https://github.com/caolan/highland) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 
@@ -316,7 +316,7 @@
 
 ### Packages / Testing
 
-*   [WebdriverIO (⭐8.4k)](https://github.com/webdriverio/webdriverio) - Automated testing based on the WebDriver protocol.
+*   [WebdriverIO (⭐8.7k)](https://github.com/webdriverio/webdriverio) - Automated testing based on the WebDriver protocol.
 
 ### Packages / Benchmarking
 
@@ -333,7 +333,7 @@
 ### Packages / Content management systems
 
 *   [ApostropheCMS (⭐4.2k)](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
-*   [Strapi (⭐58k)](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
+*   [Strapi (⭐59k)](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
 
 ### Packages / Forum
 

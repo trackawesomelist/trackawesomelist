@@ -22,7 +22,7 @@
 
 ### Elixir/Erlang / Data Visualization
 
-*   [Tai (⭐444)](https://github.com/fremantle-capital/tai) - Open Source composable, real time, market data and trade execution toolkit.
+*   [Tai (⭐445)](https://github.com/fremantle-capital/tai) - Open Source composable, real time, market data and trade execution toolkit.
 
 ## [4. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 

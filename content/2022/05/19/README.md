@@ -224,7 +224,7 @@
 
 ### Tools / Misc
 
-*   [Qdrant](https://qdrant.tech) – Qdrant is [open source (⭐15k)](https://github.com/qdrant/qdrant) vector similarity search engine with extended filtering support, written in Rust.
+*   [Qdrant](https://qdrant.tech) – Qdrant is [open source (⭐16k)](https://github.com/qdrant/qdrant) vector similarity search engine with extended filtering support, written in Rust.
 
 ## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -236,7 +236,7 @@
 
 ### Utility / Barcode
 
-*   [SwiftBoost (⭐183)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
+*   [SwiftBoost (⭐189)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
 
 ## [17. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 

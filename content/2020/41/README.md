@@ -23,11 +23,11 @@
     *   [Waterline (⭐5.4k)](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
     *   [OpenRecord (⭐486)](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
     *   [pg-promise (⭐3.4k)](https://github.com/vitaly-t/pg-promise) - PostgreSQL framework for native SQL using promises.
-    *   [slonik (⭐4.2k)](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detailed logging and assertions.
-    *   [Objection.js (⭐7.1k)](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex.
+    *   [slonik (⭐4.3k)](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detailed logging and assertions.
+    *   [Objection.js (⭐7.2k)](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex.
     *   [TypeORM (⭐33k)](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
-    *   [MikroORM (⭐6.7k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
-    *   [Prisma (⭐35k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
+    *   [MikroORM (⭐7k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
+    *   [Prisma (⭐36k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
 
 ## [3. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
 

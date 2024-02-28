@@ -179,15 +179,15 @@
 
 ### Animation
 
-*   [Comets (⭐607)](https://github.com/cruisediary/Comets) - Animating Particles.
+*   [Comets (⭐608)](https://github.com/cruisediary/Comets) - Animating Particles.
 
 ### Audio
 
-*   [Soundable (⭐94)](https://github.com/ThXou/Soundable) - Soundable allows you to play sounds, single and in sequence, in a very easy way.
+*   [Soundable (⭐93)](https://github.com/ThXou/Soundable) - Soundable allows you to play sounds, single and in sequence, in a very easy way.
 
 ### Colors
 
-*   [SwiftGen-Colors (⭐8.9k)](https://github.com/SwiftGen/SwiftGen#uicolor) - A tool to auto-generate `enums` for your `UIColor` constants.
+*   [SwiftGen-Colors (⭐9k)](https://github.com/SwiftGen/SwiftGen#uicolor) - A tool to auto-generate `enums` for your `UIColor` constants.
 
 ### JSON
 
@@ -196,7 +196,7 @@
 
 ### Dependency Injection
 
-*   [Pure (⭐367)](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
+*   [Pure (⭐372)](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
 
 ### Events
 
@@ -210,7 +210,7 @@
 
 ### Layout / Barcode
 
-*   [PinLayout (⭐2.2k)](https://github.com/layoutBox/PinLayout) - Fast Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. \[iOS/macOS/tvOS]
+*   [PinLayout (⭐2.3k)](https://github.com/layoutBox/PinLayout) - Fast Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. \[iOS/macOS/tvOS]
 
 ### Network / Barcode
 
@@ -222,7 +222,7 @@
 
 ### Cryptography / Barcode
 
-*   [SCrypto (⭐39)](https://github.com/sgl0v/scrypto) - Elegant interface to access the CommonCrypto routines.
+*   [SCrypto (⭐38)](https://github.com/sgl0v/scrypto) - Elegant interface to access the CommonCrypto routines.
 
 ### Switch / Barcode
 
@@ -239,13 +239,13 @@
 ### Utility / Barcode
 
 *   [DifferenceKit (⭐3.4k)](https://github.com/ra1028/DifferenceKit) - 💻 A fast and flexible O(n) difference algorithm framework.
-*   [FluentQuery (⭐147)](https://github.com/MihaelIsaev/FluentQuery) :penguin: - Powerful and easy to use Query Builder.
-*   [SwifterSwift (⭐13k)](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native extensions to boost your productivity.
+*   [FluentQuery (⭐148)](https://github.com/MihaelIsaev/FluentQuery) :penguin: - Powerful and easy to use Query Builder.
+*   [SwifterSwift (⭐14k)](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native extensions to boost your productivity.
 *   [ZamzamKit (⭐268)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 
 ### Video / Barcode
 
-*   [SwiftFFmpeg (⭐444)](https://github.com/sunlubo/SwiftFFmpeg) - A wrapper for the FFmpeg C API.
+*   [SwiftFFmpeg (⭐470)](https://github.com/sunlubo/SwiftFFmpeg) - A wrapper for the FFmpeg C API.
 
 ## [14. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 

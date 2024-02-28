@@ -16,7 +16,7 @@
 
 ### UITableView / Barcode
 
-*   [QuickTableViewController (⭐546)](https://github.com/bcylin/QuickTableViewController) - A simple way to create a UITableView for settings.
+*   [QuickTableViewController (⭐551)](https://github.com/bcylin/QuickTableViewController) - A simple way to create a UITableView for settings.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

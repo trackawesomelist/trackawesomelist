@@ -34,10 +34,10 @@
 
 ### Packages / Cross-platform integration
 
-*   [napi-rs (⭐5k)](https://github.com/napi-rs/napi-rs) - Framework for building compiled Node.js add-ons in Rust via Node-API.
-*   [Neon (⭐7.6k)](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
+*   [napi-rs (⭐5.2k)](https://github.com/napi-rs/napi-rs) - Framework for building compiled Node.js add-ons in Rust via Node-API.
+*   [Neon (⭐7.7k)](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 *   [Edge.js (⭐5.4k)](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in the same process on Windows, macOS, and Linux.
-*   [DotNetJS (⭐610)](https://github.com/Elringus/DotNetJS) - Consume .NET libraries in Node.js using this .NET interoperability layer.
+*   [DotNetJS (⭐622)](https://github.com/Elringus/DotNetJS) - Consume .NET libraries in Node.js using this .NET interoperability layer.
 
 ## [6. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 

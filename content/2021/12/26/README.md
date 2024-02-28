@@ -41,7 +41,7 @@
 
 ### Tab / Barcode
 
-*   [CardTabBar (⭐199)](https://github.com/yusadogru/CardTabBar) - Adding animation to iOS tabbar items.
+*   [CardTabBar (⭐206)](https://github.com/yusadogru/CardTabBar) - Adding animation to iOS tabbar items.
 
 ## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

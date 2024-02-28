@@ -18,7 +18,7 @@
 
 ### Video / Barcode
 
-*   [PlayerView (⭐130)](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
+*   [PlayerView (⭐131)](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
 
 ## [3. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 

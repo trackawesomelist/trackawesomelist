@@ -10,7 +10,7 @@
 
 ### Apps
 
-*   [CourseLit (⭐449)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
+*   [CourseLit (⭐512)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
 
 ## [2. Awesome List](/content/sindresorhus/awesome/README.md)
 

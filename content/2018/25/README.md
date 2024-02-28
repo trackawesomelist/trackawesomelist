@@ -355,11 +355,11 @@
 
 ### Packages / Command-line utilities
 
-*   [cli-table3 (⭐480)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
+*   [cli-table3 (⭐486)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
 
 ### Packages / Content management systems
 
-*   [KeystoneJS (⭐8.6k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
+*   [KeystoneJS (⭐8.7k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 
 ## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -373,7 +373,7 @@
 
 ### Utility / Barcode
 
-*   [swift-protobuf (⭐4.3k)](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
+*   [swift-protobuf (⭐4.4k)](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
 
 ## [33. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 

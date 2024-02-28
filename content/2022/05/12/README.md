@@ -16,7 +16,7 @@
 
 ### JavaScript / FrameWorks
 
-*   [ccxt (⭐30k)](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges.
+*   [ccxt (⭐31k)](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges.
 
 ## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

@@ -32,7 +32,7 @@
 
 ### R / General-Purpose Machine Learning
 
-*   [Machine Learning For Hackers (⭐3.6k)](https://github.com/johnmyleswhite/ML_for_Hackers)
+*   [Machine Learning For Hackers (⭐3.7k)](https://github.com/johnmyleswhite/ML_for_Hackers)
 
 ## [5. Es6 Tools](/content/addyosmani/es6-tools/README.md)
 

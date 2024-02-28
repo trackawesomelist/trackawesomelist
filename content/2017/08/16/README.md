@@ -135,7 +135,7 @@
 
 ### Date
 
-*   [AnyDate (⭐188)](https://github.com/Kawoou/AnyDate) - Date & Time API inspired from Java 8 DateTime API.
+*   [AnyDate (⭐190)](https://github.com/Kawoou/AnyDate) - Date & Time API inspired from Java 8 DateTime API.
 
 ## [11. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

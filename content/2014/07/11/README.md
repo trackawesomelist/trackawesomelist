@@ -90,7 +90,7 @@
 
 ### Packages / Command-line apps
 
-*   [cpy (⭐418)](https://github.com/sindresorhus/cpy) - Copy files.
+*   [cpy (⭐420)](https://github.com/sindresorhus/cpy) - Copy files.
 
 ### Packages / Filesystem
 
@@ -99,12 +99,12 @@
 
 ### Packages / Image
 
-*   [sharp (⭐27k)](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
+*   [sharp (⭐28k)](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
 
 ### Packages / Humanize
 
-*   [pretty-bytes (⭐1k)](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
-*   [pretty-ms (⭐942)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
+*   [pretty-bytes (⭐1.1k)](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
+*   [pretty-ms (⭐992)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
 
 ### Packages / Node.js management
 
@@ -112,7 +112,7 @@
 
 ### Packages / Miscellaneous
 
-*   [cheerio (⭐27k)](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+*   [cheerio (⭐28k)](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 
 ### Resources / Tutorials
 

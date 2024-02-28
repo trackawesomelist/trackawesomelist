@@ -59,7 +59,7 @@
 
 ### Creating GIFs
 
-*   [ScreenToGif (⭐21k)](https://github.com/NickeManarin/ScreenToGif/) - **FREE** - Open source, customizable UI and easily editable GIFs, easy to get started.
+*   [ScreenToGif (⭐22k)](https://github.com/NickeManarin/ScreenToGif/) - **FREE** - Open source, customizable UI and easily editable GIFs, easy to get started.
 
 ## [7. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 

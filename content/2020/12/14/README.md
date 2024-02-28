@@ -24,7 +24,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [OPFython (⭐31)](https://github.com/gugarosa/opfython) - A Python-inspired implementation of the Optimum-Path Forest classifier.
+*   [OPFython (⭐32)](https://github.com/gugarosa/opfython) - A Python-inspired implementation of the Optimum-Path Forest classifier.
 
 ## [3. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 

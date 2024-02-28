@@ -115,7 +115,7 @@
 
 ## [14. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
-### Configuration / PHP Videos
+### Configuration / PHP Conferences
 
 *   [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
 
@@ -393,11 +393,11 @@ git worktree add --detach <path> HEAD
 
 ### Java / General-Purpose Machine Learning
 
-*   [H2O (⭐6.6k)](https://github.com/h2oai/h2o-3) - ML engine that supports distributed learning on Hadoop, Spark or your laptop via APIs in R, Python, Scala, REST/JSON.
+*   [H2O (⭐6.7k)](https://github.com/h2oai/h2o-3) - ML engine that supports distributed learning on Hadoop, Spark or your laptop via APIs in R, Python, Scala, REST/JSON.
 
 ### Scala / General-Purpose Machine Learning
 
-*   [H2O Sparkling Water (⭐956)](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
+*   [H2O Sparkling Water (⭐954)](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
 
 ---
 

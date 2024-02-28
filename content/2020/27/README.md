@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 06 - Jul 12, 2020
 
-61 awesome lists updated this week.
+60 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -40,7 +40,7 @@
 
 ### Design
 
-*   [Authentic Jobs](https://authenticjobs.com/) - "The leading job board for designers, hackers, and creative pros."
+*   [Authentic Jobs](https://authenticjobs.com/) - The leading job board for designers, hackers, and creative pros
 
 ### Growth Hacking
 
@@ -531,19 +531,13 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 *   [Building a Backend for React with Next.js, Prisma 2, and PostgreSQL](https://www.youtube.com/watch?v=Bqacj0iOL68)
 
-## [35. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
-
-### Other Testing
-
-*   [Mockingbird (⭐194)](https://github.com/Farfetch/mockingbird) - Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.
-
-## [36. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [35. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Tools
 
 *   [webextension-manifest-loader (⭐7)](https://github.com/jsmnbom/webextension-manifest-loader) - Webpack loader that loads browser tailored manifest.json. It also imports all importable properties, allowing you to have 'manifest.json' as your only webpack entry point.
 
-## [37. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [36. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Databases / ODMs
 
@@ -591,32 +585,32 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 *   [redis-streams-fastapi-chat (⭐180)](https://github.com/leonh/redis-streams-fastapi-chat) - A simple Redis Streams backed chat app using Websockets, Asyncio and FastAPI/Starlette.
 *   [TermPair (⭐1.6k)](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 
-## [38. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+## [37. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
 
 ### Open Source Projects
 
 *   [Ionic 5 Social Network Starter (⭐160)](https://github.com/thenaim/ion-tk-social-network) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
 
-## [39. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [38. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Books
 
 *   [Serverless Machine Learning](https://www.manning.com/books/serverless-machine-learning-in-action) - a book for machine learning engineers on how to train and deploy machine learning systems on public clouds like AWS, Azure, and GCP, using a code-oriented approach.
 
-## [40. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [39. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Interviewing
 
 *   [Codility](https://www.codility.com/) - Online platform that offers sponsored challenges
 
-## [41. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [40. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Articles
 
 *   [Better Living Through ChatOps](https://medium.com/ibm-garage/better-living-through-chatops-df66872893e7) - The benefits ChatOps offers in managing a virtual war room.
 *   [Making a Virtual War Room — the Journey to ChatOps](https://medium.com/ibm-garage/making-a-virtual-war-room-the-journey-to-chatops-eaaecd83873c) - Creating a virtual war room, step by step.
 
-## [42. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [41. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### CLOS extensions
 
@@ -626,7 +620,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 *   [Geany-lisp (⭐11)](https://github.com/jasom/geany-lisp) is an experimental lisp mode for the [Geany](https://geany.org/) editor.
 
-## [43. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [42. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Manufacturers
 
@@ -636,7 +630,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
     *   [Vimeo channel :red\_circle:](https://vimeo.com/luminartech)
     *   [GitHub organization :octocat:](https://github.com/luminartech)
 
-## [44. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [43. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Blogs
 
@@ -646,26 +640,26 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 *   [eShopOnWeb (⭐9.6k)](https://github.com/dotnet-architecture/eShopOnWeb) - Full ASP.NET Core 3.1 reference application from Microsoft showing monolithic deployment architecture
 
-## [45. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [44. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Science and Data analysis
 
 *   [alea (⭐12)](https://github.com/nin93/alea) - Repeatable sampling, CDF and other utilities to work with probability distributions
 
-## [46. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [45. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Misc / Official resources
 
 *   [LIRC](http://lirc.org) - A package that allows you to decode and send infra-red signals of many (but not all) commonly used remote controls.
 *   [awesome-smarttv (⭐115)](https://github.com/linuxenko/awesome-smarttv) - Another list of Smart TV resources. Discovered after this one was already done :roll\_eyes:.
 
-## [47. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [46. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Browser Noise: Web Audio Tutorials](https://www.youtube.com/playlist?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr) - Playlist of video tutorials by Dan Tramte, hosted on the Audio Programmer YouTube channel.
 
-## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -787,18 +781,18 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 *   [Cookiecutter-Django-Vue (⭐581)](https://github.com/vchaptsev/cookiecutter-django-vue) - Django+VueJS+Docker customizable project generator with a large number of settings/integrations
 
-## [49. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [48. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Next.js Static Blog](https://www.cosmicjs.com/apps/nextjs-static-blog) - Next.js static blog powered by the Cosmic Headless CMS
-*   [Devii (⭐495)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
+*   [Devii (⭐496)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
 
 ### Extensions
 
-*   [next-auth (⭐19k)](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
+*   [next-auth (⭐21k)](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
 
-## [50. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [49. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -813,7 +807,11 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 *   [keycloak-config-cli: Configuration as Code for Keycloak (⭐618)](https://github.com/adorsys/keycloak-config-cli)
 
-## [51. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [50. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+
+### Mock / Barcode
+
+*   [Mockingbird (⭐194)](https://github.com/Farfetch/mockingbird) - Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.
 
 ### Events
 
@@ -821,13 +819,13 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Calendar / Barcode
 
-*   [ElegantCalendar (⭐737)](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
+*   [ElegantCalendar (⭐788)](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
 
 ### Label / Barcode
 
 *   [Atributika (⭐1.3k)](https://github.com/psharanda/Atributika) - TConvert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement.
 
-## [52. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [51. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Assorted
 
@@ -837,19 +835,19 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 *   [react-native-360-image-viewer ★100 (⭐41)](https://github.com/phuochau/react-native-360-image-viewer) - The component helps to simulate 360 degrees image from multiple images.
 
-## [53. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [52. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Visual programming
 
 *   [Honeycode](https://www.honeycode.aws/) - Build a better way to work.
 
-## [54. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [53. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Tools
 
 *   [Jagnik (⭐35)](https://github.com/bipin000/jagnik) - Simple elegant Photo Text Editing tool in flutter by [Bipin Chandra Tripathi](https://github.com/bipin000)
 
-## [55. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [54. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Authentication
 
@@ -872,7 +870,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 *   [DevOps and Docker Support for .NET Core Blazor Applications](https://www.udemy.com/course/devops-and-docker-support-for-net-core-blazor/?ranMID=39197\&ranEAID=w6JuN00t%2Fzo\&ranSiteID=w6JuN00t_zo-Kv09UYco3AqwmZkipiMIXw\&utm_source=aff-campaign\&LSNPUBID=w6JuN00t%2Fzo\&utm_medium=udemyads) - June 2020 - DevOps and Docker Support for .NET Core Blazor Applications, on Udemy. This Docker Support Course with DevOps concepts using ASP.NET Core Blazor will teach you Dockerisation of Blazor Apps.
 
-## [56. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [55. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Widgets
 
@@ -882,13 +880,13 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 *   [Wagtail Simple Captcha (⭐2)](https://github.com/acarasimon96/wagtail-django-simple-captcha) - A self-hosted alternative to Wagtail ReCaptcha that easily integrates a [django-simple-captcha (⭐1.4k)](https://github.com/mbi/django-simple-captcha) field into the Wagtail form builder.
 
-## [57. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [56. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / VPN
 
 *   [Nebula (⭐13k)](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security. `MIT` `Go`
 
-## [58. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
+## [57. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
 ### Commandline Productivity
 
@@ -955,7 +953,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 *   [PoshBot (⭐492)](https://github.com/poshbotio/PoshBot) - Powershell-based bot framework.
 *   [PoShKeePass (⭐216)](https://github.com/PSKeePass/PoShKeePass) - Module for working with [KeePass](https://keepass.info) databases.
 
-## [59. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [58. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Architecture and Design
 
@@ -973,7 +971,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 *   [global\_racetrajectory\_optimization (⭐293)](https://github.com/TUMFTM/global_racetrajectory_optimization) - This repository contains multiple approaches for generating global racetrajectories.
 
-## [60. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [59. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Component Libraries
 
@@ -983,7 +981,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 *   [Shadow DOM: off the beaten track](https://docs.google.com/presentation/d/1wi74YiTLtLSfgjyccKm5LxYp9k8aeJda0AekWV5mqJI/edit?usp=sharing) by [@serhiikulykov](https://twitter.com/serhiikulykov)
 
-## [61. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [60. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Personal Dashboards
 

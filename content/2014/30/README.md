@@ -166,7 +166,7 @@
 
 ### Packages / Text
 
-*   [detect-indent (⭐191)](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
+*   [detect-indent (⭐192)](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
 
 ### Packages / Parsing
 

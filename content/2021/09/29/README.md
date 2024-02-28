@@ -35,7 +35,7 @@
 
 ### UI / Barcode
 
-*   [HPParallaxHeader (⭐47)](https://github.com/ngochiencse/HPParallaxHeader) - Simple parallax header for UIScrollView.
+*   [HPParallaxHeader (⭐52)](https://github.com/ngochiencse/HPParallaxHeader) - Simple parallax header for UIScrollView.
 
 ## [6. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 

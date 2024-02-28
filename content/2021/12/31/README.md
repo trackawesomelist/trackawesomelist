@@ -17,7 +17,7 @@
 ### Python / Trading & Backtesting
 
 *   [tda-api (⭐1.2k)](https://github.com/alexgolec/tda-api) - Gather data and trade equities, options, and ETFs via TDAmeritrade.
-*   [vectorbt (⭐3.5k)](https://github.com/polakowo/vectorbt) - Find your trading edge, using a powerful toolkit for backtesting, algorithmic trading, and research.
+*   [vectorbt (⭐3.6k)](https://github.com/polakowo/vectorbt) - Find your trading edge, using a powerful toolkit for backtesting, algorithmic trading, and research.
 
 ## [3. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

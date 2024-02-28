@@ -39,7 +39,7 @@
 
 ### TextField / Barcode
 
-*   [SkyFloatingLabelTextField (⭐4k)](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of "Float Label Pattern".
+*   [SkyFloatingLabelTextField (⭐4.1k)](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of "Float Label Pattern".
 
 ## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Python / Numerical Libraries & Data Structures
 
-*   [ArcticDB (⭐949)](https://github.com/man-group/ArcticDB) - High performance datastore for time series and tick data.
+*   [ArcticDB (⭐975)](https://github.com/man-group/ArcticDB) - High performance datastore for time series and tick data.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 

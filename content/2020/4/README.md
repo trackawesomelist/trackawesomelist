@@ -241,7 +241,7 @@
 
 ### Python / Natural Language Processing
 
-*   [PySS3 (⭐329)](https://github.com/sergioburdisso/pyss3) - Python package that implements a novel white-box machine learning model for text classification, called SS3. Since SS3 has the ability to visually explain its rationale, this package also comes with easy-to-use interactive visualizations tools ([online demos](http://tworld.io/ss3/)).
+*   [PySS3 (⭐330)](https://github.com/sergioburdisso/pyss3) - Python package that implements a novel white-box machine learning model for text classification, called SS3. Since SS3 has the ability to visually explain its rationale, this package also comes with easy-to-use interactive visualizations tools ([online demos](http://tworld.io/ss3/)).
 
 ## [22. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -800,9 +800,9 @@ And run this to remove the attributes:
 
 ## [67. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
-### Workshops / Doctrine Assessement
+### Workshops / ChatGPT
 
-*   [Wardley Maps Battle Camp (⭐43)](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
+*   [Wardley Maps Battle Camp (⭐45)](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
 
 ## [68. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 

@@ -261,7 +261,7 @@ git update-index --no-assume-unchanged <file_name>
 
 ### Python / Computer Vision
 
-*   [Scikit-Image (⭐5.7k)](https://github.com/scikit-image/scikit-image) - A collection of algorithms for image processing in Python.
+*   [Scikit-Image (⭐5.8k)](https://github.com/scikit-image/scikit-image) - A collection of algorithms for image processing in Python.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -496,7 +496,7 @@ git update-index --no-assume-unchanged <file_name>
 
 ### Alert / Barcode
 
-*   [GSMessage (⭐709)](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
+*   [GSMessage (⭐707)](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
 
 ---
 

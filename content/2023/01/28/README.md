@@ -22,7 +22,7 @@
 
 ### Extensions
 
-*   [UseSIWE (⭐21)](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
+*   [UseSIWE (⭐24)](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

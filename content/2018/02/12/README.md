@@ -40,7 +40,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Parris (⭐318)](https://github.com/jgreenemi/Parris) - Parris, the automated infrastructure setup tool for machine learning algorithms.
+*   [Parris (⭐317)](https://github.com/jgreenemi/Parris) - Parris, the automated infrastructure setup tool for machine learning algorithms.
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

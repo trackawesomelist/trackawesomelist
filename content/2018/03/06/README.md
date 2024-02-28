@@ -226,7 +226,7 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [xgboost-node (⭐36)](https://github.com/nuanio/xgboost-node) - Run XGBoost model and make predictions in Node.js.
+*   [xgboost-node (⭐37)](https://github.com/nuanio/xgboost-node) - Run XGBoost model and make predictions in Node.js.
 
 ## [15. Awesome C](/content/inputsh/awesome-c/README.md)
 

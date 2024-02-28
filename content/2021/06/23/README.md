@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [Cryptor (⭐29)](https://github.com/cpl/cryptor): Overlay P2P network that values your privacy and anonymity above all else. Packages and some clients included.
+*   [Cryptor (⭐31)](https://github.com/cpl/cryptor): Overlay P2P network that values your privacy and anonymity above all else. Packages and some clients included.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 

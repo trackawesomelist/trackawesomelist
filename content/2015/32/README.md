@@ -466,7 +466,7 @@ git stash push --include-untracked
 
 ### Utility / Barcode
 
-*   [R.swift (⭐9.3k)](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
+*   [R.swift (⭐9.4k)](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
 
 ## [26. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 

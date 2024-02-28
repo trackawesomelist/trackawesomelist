@@ -25,7 +25,7 @@
 
 ### Calendar / Barcode
 
-*   [ElegantCalendar (⭐737)](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
+*   [ElegantCalendar (⭐788)](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
 
 ### Label / Barcode
 

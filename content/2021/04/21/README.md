@@ -46,7 +46,7 @@
 
 ### Python / Visualization
 
-*   [finvizfinance (⭐379)](https://github.com/lit26/finvizfinance) - Finviz analysis python library.
+*   [finvizfinance (⭐387)](https://github.com/lit26/finvizfinance) - Finviz analysis python library.
 
 ### Golang / Data Visualization
 

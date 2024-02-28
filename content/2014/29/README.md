@@ -149,11 +149,6 @@
 
 ## [4. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
-### 2017 / Book/monograph Lists and Reviews
-
-*   [awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness)
-*   [lists (⭐9.4k)](https://github.com/jnv/lists)
-
 ### Integrated Development Environments
 
 *   [Emacs + ESS](http://ess.r-project.org/) - Emacs Speaks Statistics is an add-on package for emacs text editors.
@@ -228,6 +223,10 @@
 ### Websites / Manuals
 
 *   [R-project](http://www.r-project.org/) - The R Project for Statistical Computing.
+
+### 2017 / Book/monograph Lists and Reviews
+
+*   [lists (⭐9.4k)](https://github.com/jnv/lists)
 
 ## [5. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
@@ -361,6 +360,13 @@
 
 ## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
+### Other Awesome Projects
+
+*   [awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
+*   [algorithms (⭐5.1k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
+*   [c-algorithms (⭐3.1k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
+*   [papers-we-love (⭐82k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+
 ### Concurrency
 
 *   [OpenCL](https://www.khronos.org/opencl/) - The open standard for parallel programming of heterogeneous systems.
@@ -386,12 +392,6 @@
 *   [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - by VoidRealms.
 *   [C++ Programming Tutorials from thenewboston](https://www.youtube.com/playlist?list=PLF541C2C1F671AEF6) - These are all of thenewboston's C++ programming tutorials.
 *   [C++ GUI with Qt Playlist](https://www.youtube.com/playlist?list=PLD0D54219E5F2544D) - Official Playlist for thenewboston C++ GUI with Qt tutorials.
-
-### Other Awesome Projects
-
-*   [algorithms (⭐5.1k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
-*   [c-algorithms (⭐3.1k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
-*   [papers-we-love (⭐82k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 ## [12. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -753,7 +753,7 @@
 ### Julia / General-Purpose Machine Learning
 
 *   [PGM (⭐52)](https://github.com/JuliaStats/PGM.jl) - A Julia framework for probabilistic graphical models.
-*   [Clustering (⭐335)](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
+*   [Clustering (⭐340)](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
 
 ### Julia / Data Analysis / Data Visualization
 
@@ -761,7 +761,7 @@
 
 ### Julia / Misc Stuff / Presentations
 
-*   [DSP (⭐349)](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
+*   [DSP (⭐359)](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
 
 ### Lua / General-Purpose Machine Learning
 
@@ -798,7 +798,7 @@
 
 ### .NET / Natural Language Processing
 
-*   [Stanford.NLP for .NET (⭐584)](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
+*   [Stanford.NLP for .NET (⭐586)](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
 
 ### Python / Computer Vision
 
@@ -807,7 +807,7 @@
 ### Python / Natural Language Processing
 
 *   [SnowNLP (⭐6.3k)](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
-*   [Rosetta (⭐205)](https://github.com/columbia-applied-data-science/rosetta) - Text processing tools and wrappers (e.g. Vowpal Wabbit)
+*   [Rosetta (⭐206)](https://github.com/columbia-applied-data-science/rosetta) - Text processing tools and wrappers (e.g. Vowpal Wabbit)
 
 ### Python / General-Purpose Machine Learning
 
@@ -825,7 +825,7 @@
 *   [PyMC (⭐8k)](https://github.com/pymc-devs/pymc) - Markov Chain Monte Carlo sampling toolkit.
 *   [zipline (⭐17k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
 *   [SymPy (⭐12k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
-*   [statsmodels (⭐9.2k)](https://github.com/statsmodels/statsmodels) - Statistical modelling and econometrics in Python.
+*   [statsmodels (⭐9.3k)](https://github.com/statsmodels/statsmodels) - Statistical modelling and econometrics in Python.
 *   [Kartograph.py (⭐1k)](https://github.com/kartograph/kartograph.py) - Rendering beautiful SVG maps in Python.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
@@ -847,12 +847,12 @@
 
 ### Ruby / General-Purpose Machine Learning
 
-*   [CardMagic-Classifier (⭐656)](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
+*   [CardMagic-Classifier (⭐657)](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
 
 ### Ruby / Data Analysis / Data Visualization
 
 *   [SciRuby](http://sciruby.com/)
-*   [Bioruby (⭐374)](https://github.com/bioruby/bioruby)
+*   [Bioruby (⭐375)](https://github.com/bioruby/bioruby)
 
 ### Ruby / Misc
 
@@ -862,7 +862,7 @@
 
 *   [ScalaNLP](http://www.scalanlp.org/) - ScalaNLP is a suite of machine learning and numerical computing libraries.
 *   [Breeze (⭐3.4k)](https://github.com/scalanlp/breeze) - Breeze is a numerical processing library for Scala.
-*   [FACTORIE (⭐553)](https://github.com/factorie/factorie) - FACTORIE is a toolkit for deployable probabilistic modelling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs, estimating parameters and performing inference.
+*   [FACTORIE (⭐554)](https://github.com/factorie/factorie) - FACTORIE is a toolkit for deployable probabilistic modelling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs, estimating parameters and performing inference.
 
 ### Scala / Data Analysis / Data Visualization
 
@@ -870,14 +870,14 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [adam (⭐965)](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
-*   [bioscala (⭐106)](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
+*   [adam (⭐966)](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
+*   [bioscala (⭐107)](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
 *   [BIDMach (⭐913)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 *   [Figaro (⭐755)](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
 
 ### Credits / Misc
 
-*   Some of the python libraries were cut-and-pasted from [vinta (⭐196k)](https://github.com/vinta/awesome-python)
+*   Some of the python libraries were cut-and-pasted from [vinta (⭐197k)](https://github.com/vinta/awesome-python)
 
 ## [19. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 

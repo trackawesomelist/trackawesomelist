@@ -40,7 +40,7 @@
 
 ### UITableView / Barcode
 
-*   [SwiftyComments (⭐223)](https://github.com/tsucres/SwiftyComments) - Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.
+*   [SwiftyComments (⭐224)](https://github.com/tsucres/SwiftyComments) - Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.
 
 ## [4. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Python / Natural Language Processing
 
-*   [Snips NLU (⭐3.8k)](https://github.com/snipsco/snips-nlu) - Natural Language Understanding library for intent classification and entity extraction
+*   [Snips NLU (⭐3.9k)](https://github.com/snipsco/snips-nlu) - Natural Language Understanding library for intent classification and entity extraction
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

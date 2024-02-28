@@ -16,7 +16,7 @@
 
 ### Date
 
-*   [NVDate (⭐177)](https://github.com/novalagung/nvdate) - Date extension library.
+*   [NVDate (⭐176)](https://github.com/novalagung/nvdate) - Date extension library.
 
 ## [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

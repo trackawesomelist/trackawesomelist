@@ -41,7 +41,7 @@
 
 ### Apps
 
-*   [Twitter Clone (⭐134)](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with Next.js + T3 Stack + NextAuth + Supabase + Prisma.
+*   [Twitter Clone (⭐159)](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with Next.js + T3 Stack + NextAuth + Supabase + Prisma.
 
 ## [7. Awesome Gpt3](/content/elyase/awesome-gpt3/week/README.md)
 

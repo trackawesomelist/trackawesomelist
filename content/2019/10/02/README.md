@@ -20,7 +20,7 @@
 
 ### Tech / United Kingdom
 
-*   [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking and real-time job vacancy statistics.
+*   [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking, and real-time job vacancy statistics
 
 ## [3. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
 
@@ -234,7 +234,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Boilerplates
 
-*   [nextjs-mongodb-app (⭐1.4k)](https://github.com/hoangvvo/nextjs-mongodb-app) - Full-fledged app made with Next.JS and MongoDB, with authentication and much more (Next.js 9, MongoDB)
+*   [nextjs-mongodb-app (⭐1.5k)](https://github.com/hoangvvo/nextjs-mongodb-app) - Full-fledged app made with Next.JS and MongoDB, with authentication and much more (Next.js 9, MongoDB)
 
 ## [16. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 

@@ -64,7 +64,7 @@
 
 *   [Practical Introduction to Wardley Mapping](https://leanpub.com/practicalintroductiontowardleymapping) - A step-by-step guide to creating and using Wardley Maps by [E. Alex Hudson](https://twitter.com/ealexhudson). PDF/iPad/Kindle.
 
-### Meetups / Doctrine Assessement
+### Meetups / ChatGPT
 
 *   Australia
     *   [Melbourne](https://www.meetup.com/Wardley-Mapping-Online-Meetup-AEST-AEDT-timezone/)

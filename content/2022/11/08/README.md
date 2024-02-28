@@ -18,7 +18,7 @@
 
 ### Network / Barcode
 
-*   [RxNetworks (⭐192)](https://github.com/yangKJ/RxNetworks) - Network API With RxSwift + Moya + HandyJSON + Plugins.
+*   [RxNetworks (⭐193)](https://github.com/yangKJ/RxNetworks) - Network API With RxSwift + Moya + HandyJSON + Plugins.
 
 ## [2. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 

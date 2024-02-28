@@ -96,15 +96,15 @@
 
 ### Packages / Hardware
 
-*   [gps (⭐241)](https://github.com/infusion/GPS.js) - NMEA parser for handling GPS receivers.
+*   [gps (⭐243)](https://github.com/infusion/GPS.js) - NMEA parser for handling GPS receivers.
 
 ### Packages / Web frameworks
 
-*   [Nest (⭐62k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
+*   [Nest (⭐63k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
 
 ### Packages / Text
 
-*   [i18next (⭐7.2k)](https://github.com/i18next/i18next) - Internationalization framework.
+*   [i18next (⭐7.3k)](https://github.com/i18next/i18next) - Internationalization framework.
 
 ### Packages / Math
 
@@ -112,15 +112,15 @@
 
 ### Packages / Parsing
 
-*   [fast-xml-parser (⭐2.2k)](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate and parse XML.
+*   [fast-xml-parser (⭐2.3k)](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate and parse XML.
 
 ### Packages / Network
 
-*   [netcat (⭐397)](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
+*   [netcat (⭐400)](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
 
 ### Packages / Authorization
 
-*   [CASL (⭐5.3k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
+*   [CASL (⭐5.4k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
 
 ### Packages / Job queues
 
@@ -128,7 +128,7 @@
 
 ### Packages / Serialization
 
-*   [snappy (⭐479)](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
+*   [snappy (⭐480)](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
 *   [compactr (⭐100)](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
 
 ### Packages / Miscellaneous

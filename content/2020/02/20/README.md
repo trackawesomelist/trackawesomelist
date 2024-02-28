@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [Cabal (⭐797)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
+*   [Cabal (⭐818)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
 
 ### Related Lists
 
@@ -78,7 +78,7 @@
 
 ### Utility / Barcode
 
-*   [PrivacyFlash Pro (⭐150)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your Swift iOS app from its code.
+*   [PrivacyFlash Pro (⭐153)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your Swift iOS app from its code.
 
 ## [9. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 

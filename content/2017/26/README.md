@@ -208,7 +208,7 @@
 
 ### Swift / General-Purpose Machine Learning
 
-*   [Perfect TensorFlow (⭐167)](https://github.com/PerfectlySoft/Perfect-TensorFlow) - Swift Language Bindings of TensorFlow. Using native TensorFlow models on both macOS / Linux.
+*   [Perfect TensorFlow (⭐166)](https://github.com/PerfectlySoft/Perfect-TensorFlow) - Swift Language Bindings of TensorFlow. Using native TensorFlow models on both macOS / Linux.
 
 ## [27. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 

@@ -72,7 +72,7 @@
 
 ### DevOps
 
-*   [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies.
+*   [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies
 
 ## [10. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Other Free Resources
 
-*   [github.com — FOSS for Dev (⭐973)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
+*   [github.com — FOSS for Dev (⭐982)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
 *   [RedHat for Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL, OpenShift, CodeReady, etc. exclusively for developers. Individual plan only. Free e-books are also offered for reference.
 
 ## [13. Awesome Security](/content/sbilly/awesome-security/README.md)

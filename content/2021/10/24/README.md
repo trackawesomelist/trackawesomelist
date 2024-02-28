@@ -96,7 +96,7 @@
 
 ### Utility / Barcode
 
-*   [Rugby (⭐606)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
+*   [Rugby (⭐638)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

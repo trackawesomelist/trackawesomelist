@@ -10,11 +10,11 @@
 
 ### JavaScript / FrameWorks
 
-*   [IndicatorTS (⭐196)](https://github.com/cinar/indicatorts) - Indicator is a TypeScript module providing various stock technical analysis indicators, strategies, and a backtest framework for trading.
+*   [IndicatorTS (⭐203)](https://github.com/cinar/indicatorts) - Indicator is a TypeScript module providing various stock technical analysis indicators, strategies, and a backtest framework for trading.
 
 ### Golang / Data Visualization
 
-*   [IndicatorGo (⭐351)](https://github.com/cinar/indicator) - IndicatorGo is a Golang module providing various stock technical analysis indicators, strategies, and a backtest framework for trading.
+*   [IndicatorGo (⭐357)](https://github.com/cinar/indicator) - IndicatorGo is a Golang module providing various stock technical analysis indicators, strategies, and a backtest framework for trading.
 
 ## [2. Magictools](/content/ellisonleao/magictools/README.md)
 

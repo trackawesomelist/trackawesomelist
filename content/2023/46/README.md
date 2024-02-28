@@ -403,7 +403,7 @@
 
 ### Date
 
-*   [TypedDate (⭐18)](https://github.com/Ryu0118/swift-typed-date) - Enhancing Date handling by enabling type-level customization of date components
+*   [TypedDate (⭐19)](https://github.com/Ryu0118/swift-typed-date) - Enhancing Date handling by enabling type-level customization of date components
 
 ## [38. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -566,7 +566,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [hftbacktest (⭐779)](https://github.com/nkaz001/hftbacktest) - A high-frequency trading and market-making backtesting tool accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books.
+*   [hftbacktest (⭐817)](https://github.com/nkaz001/hftbacktest) - A high-frequency trading and market-making backtesting tool accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books.
 
 ## [51. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 25, 2019
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -138,13 +138,7 @@
 
 *   [jquery.table-shrinker (⭐29)](https://github.com/VagnerDomingues/jquery.table-shrinker) - make HTML Table responsive across all devices, the right way!
 
-## [11. Awesome Php](/content/ziadoz/awesome-php/README.md)
-
-### Configuration / PHP Videos
-
-*   [Taking PHP Seriously](https://www.infoq.com/presentations/php-history/) - A talk outlining PHP's strengths by Keith Adams of Facebook.
-
-## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### General
 
@@ -154,7 +148,7 @@
 
 *   [SpecFlow (⭐2.1k)](https://github.com/techtalk/SpecFlow) - Pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio.
 
-## [13. Awesome Purescript](/content/passy/awesome-purescript/README.md)
+## [12. Awesome Purescript](/content/passy/awesome-purescript/README.md)
 
 ### Components
 

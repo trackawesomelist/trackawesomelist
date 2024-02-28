@@ -59,7 +59,7 @@
 
 ### Testing / Barcode
 
-*   [UI Testing Cheat Sheet (⭐2.1k)](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet) - Answers to common "How do I test this with UI Testing?" questions with a working example app.
+*   [UI Testing Cheat Sheet (⭐2.2k)](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet) - Answers to common "How do I test this with UI Testing?" questions with a working example app.
 
 ## [6. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
 

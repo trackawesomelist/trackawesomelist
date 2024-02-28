@@ -469,7 +469,7 @@
 
 ### Video / Barcode
 
-*   [Kitsunebi (⭐258)](https://github.com/noppefoxwolf/Kitsunebi) - Overlay alpha channel video animation player view using OpenGLES.
+*   [Kitsunebi (⭐257)](https://github.com/noppefoxwolf/Kitsunebi) - Overlay alpha channel video animation player view using OpenGLES.
 
 ## [10. Bots](/content/hackerkid/bots/README.md)
 

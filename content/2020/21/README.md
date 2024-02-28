@@ -723,11 +723,11 @@
 *   [CIRpy](http://cirpy.readthedocs.org/) - Python wrapper for the [NCI Chemical Identifier Resolver (CIR)](https://cactus.nci.nih.gov/chemical/structure).
 *   [chemminetools (⭐36)](https://github.com/girke-lab/chemminetools) - Open source web framework for small molecule analysis based on Django.
 
-## [47. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [47. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
-### Typescript Project Starters
+### Boilerplates
 
-*   [The Knests Stack (⭐307)](https://github.com/tudorconstantin/knests/) - Full stack boilerplate (hackathon starter) with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
+*   [The Knests Stack (⭐311)](https://github.com/tudorconstantin/knests/) - Full stack boilerplate/hackathon starter with: PostgreSQL, Knex.js, NestJS, Next.js (obviously), GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
 
 ## [48. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -828,7 +828,7 @@
 *   [On user needs and listening to customers](https://blog.gardeviance.org/2016/04/on-user-needs-and-listening-to-customers.html) - Simon Wardley focuses on one of the most important parts of mapping - the anchor. April 11, 2016.
 *   [Simon Wardley's 100-day Corporate get fit plan](https://www.cio.com/article/3526767/simon-wardley-s-100-day-corporate-get-fit-plan.html) - For the newly-appointed executive, to help get you into a position from which you can start to learn and talk about strategy. Aug 21, 2015.
 
-### Meetups / Doctrine Assessement
+### Meetups / ChatGPT
 
 *   Australia
     *   [Melbourne](https://www.meetup.com/Wardley-Mapping-Online-Meetup-AEST-AEDT-timezone/)
@@ -903,7 +903,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Little Ball of Fur (⭐684)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
+*   [Little Ball of Fur (⭐688)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
 
 ### .NET / General-Purpose Machine Learning
 

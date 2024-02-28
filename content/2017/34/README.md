@@ -296,7 +296,7 @@
 
 ### AI
 
-*   [CoreML-Models (⭐6k)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
+*   [CoreML-Models (⭐6.1k)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 
 ### Events
 
@@ -304,7 +304,7 @@
 
 ### Images / Barcode
 
-*   [ZImageCropper (⭐228)](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
+*   [ZImageCropper (⭐229)](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
 
 ### UITableView / Barcode
 

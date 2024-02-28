@@ -358,7 +358,7 @@
 
 ### Text / Barcode
 
-*   [Regex by sindresorhus (⭐320)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
+*   [Regex by sindresorhus (⭐324)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
 ## [37. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 

@@ -48,7 +48,7 @@
 
 ### Blockchain
 
-*   [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
+*   [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs
 
 ## [8. Awesome Framer](/content/podo/awesome-framer/README.md)
 

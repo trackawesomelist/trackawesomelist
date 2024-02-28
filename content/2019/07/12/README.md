@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 12, 2019
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,21 +14,25 @@
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
+### Utility / Barcode
+
+*   [Bow (⭐643)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming.
+
 ### Misc
 
 *   [Swiftbrew (⭐145)](https://github.com/swiftbrew/Swiftbrew) - Homebrew for Swift packages.
 
 ### Text / Barcode
 
-*   [Texstyle (⭐79)](https://github.com/rosberry/texstyle) - Texstyle allows you to format attributed strings easily.
+*   [Texstyle (⭐78)](https://github.com/rosberry/texstyle) - Texstyle allows you to format attributed strings easily.
 
 ### UI / Barcode
 
-*   [ResizingTokenField (⭐105)](https://github.com/tadejr/ResizingTokenField) - A UICollectionView-based token field which provides intrinsic content height.
+*   [ResizingTokenField (⭐106)](https://github.com/tadejr/ResizingTokenField) - A UICollectionView-based token field which provides intrinsic content height.
 
 ### TextField / Barcode
 
-*   [VKPinCodeView (⭐96)](https://github.com/Sunspension/VKPinCodeView) - Simple and elegant UI component for input PIN.
+*   [VKPinCodeView (⭐95)](https://github.com/Sunspension/VKPinCodeView) - Simple and elegant UI component for input PIN.
 
 ## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -36,13 +40,7 @@
 
 *   [Remote People](https://remotepeople.io/)
 
-## [4. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
-
-### Table of Contents / Repos
-
-*   [Bow (⭐642)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
-
-## [5. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [4. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Containerization
 
@@ -69,13 +67,13 @@
 
 *   [rctf-list (⭐30)](https://github.com/aliasrobotics/RCTF) - A list of Robotics CTF (RCTF) scenarios.
 
-## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Books
 
 *   [foy (⭐240)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 
-## [7. Awesome Qlik](/content/ambster-public/awesome-qlik/README.md)
+## [6. Awesome Qlik](/content/ambster-public/awesome-qlik/README.md)
 
 ### Official Resources and Documentation
 
@@ -87,7 +85,7 @@
 *   [QlikView Cookbook](https://qlikviewcookbook.com/) - A technical 'how-to' blog for QlikView developers, by Rob Wunderlich.
 *   [Quick Intelligence](https://www.quickintelligence.co.uk/blog/) - A blog where a skilled team of Qlik developers lead by Steve Dark, providing tips on working in Qlik Sense and QlikView.
 
-## [8. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Learn
 

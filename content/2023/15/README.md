@@ -294,7 +294,7 @@
 
 ### Animation
 
-*   [CocoaSprings (⭐63)](https://github.com/MacPaw/CocoaSprings) - Interactive spring animations for iOS/macOS.
+*   [CocoaSprings (⭐71)](https://github.com/MacPaw/CocoaSprings) - Interactive spring animations for iOS/macOS.
 
 ### UITableView / Barcode
 
@@ -302,7 +302,7 @@
 
 ### Walkthrough / Barcode
 
-*   [Gecco (⭐14)](https://github.com/xai3/Gecco) - Spotlight view for iOS.
+*   [Gecco (⭐15)](https://github.com/xai3/Gecco) - Spotlight view for iOS.
 
 ## [32. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -381,12 +381,12 @@
 
 ### Python / Natural Language Processing
 
-*   [Haystack (⭐12k)](https://github.com/deepset-ai/haystack) - A framework for building industrial-strength applications with Transformer models and LLMs.
+*   [Haystack (⭐13k)](https://github.com/deepset-ai/haystack) - A framework for building industrial-strength applications with Transformer models and LLMs.
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyBroker (⭐1.4k)](https://github.com/edtechre/pybroker) - Algorithmic Trading with Machine Learning.
-*   [Frouros (⭐140)](https://github.com/IFCA/frouros): Frouros is an open source Python library for drift detection in machine learning systems.
+*   [PyBroker (⭐1.5k)](https://github.com/edtechre/pybroker) - Algorithmic Trading with Machine Learning.
+*   [Frouros (⭐152)](https://github.com/IFCA/frouros): Frouros is an open source Python library for drift detection in machine learning systems.
 
 ### Books / Misc
 

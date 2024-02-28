@@ -10,12 +10,12 @@
 
 ### Packages / Command-line apps
 
-*   [pjs (⭐417)](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
+*   [pjs (⭐419)](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
 *   [license-checker (⭐1.6k)](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 
 ### Packages / Node.js management
 
-*   [nvm for Windows (⭐32k)](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
+*   [nvm for Windows (⭐34k)](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
 
 ## [2. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
 

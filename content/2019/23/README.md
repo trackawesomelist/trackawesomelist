@@ -436,7 +436,7 @@ Free (Open Source)
 
 ### Realm
 
-*   [Unrealm (⭐530)](https://github.com/arturdev/Unrealm) - Unrealm enables you to easily store Swift native Classes, Structs and Enums into Realm.
+*   [Unrealm (⭐533)](https://github.com/arturdev/Unrealm) - Unrealm enables you to easily store Swift native Classes, Structs and Enums into Realm.
 
 ### Events
 
@@ -627,7 +627,7 @@ Free (Open Source)
 
 ### Python / Neural Networks
 
-*   [nn\_builder (⭐164)](https://github.com/p-christ/nn_builder) - nn\_builder is a python package that lets you build neural networks in 1 line
+*   [nn\_builder (⭐162)](https://github.com/p-christ/nn_builder) - nn\_builder is a python package that lets you build neural networks in 1 line
 
 ## [36. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 

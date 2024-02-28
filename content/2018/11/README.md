@@ -14,7 +14,7 @@
 
 ### Layout / Barcode
 
-*   [LayoutLess (⭐433)](https://github.com/DeclarativeHub/Layoutless) - Write less UI Code.
+*   [LayoutLess (⭐431)](https://github.com/DeclarativeHub/Layoutless) - Write less UI Code.
 
 ### Maps / Barcode
 
@@ -26,7 +26,7 @@
 
 ### UICollectionView / Barcode
 
-*   [Blueprints (⭐990)](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
+*   [Blueprints (⭐992)](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
 
 ### Utility / Barcode
 
@@ -381,7 +381,7 @@ Donationware
 
 ### Packages / HTTP
 
-*   [gotql (⭐402)](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got (⭐14k)](https://github.com/sindresorhus/got).
+*   [gotql (⭐403)](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got (⭐14k)](https://github.com/sindresorhus/got).
 
 ### Packages / Job queues
 

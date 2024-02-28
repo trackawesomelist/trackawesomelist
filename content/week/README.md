@@ -398,6 +398,18 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [pix2code: Generating Code from a Graphical User Interface Screenshot](https://dl.acm.org/doi/abs/10.1145/3220134.3220135) - ***ACM SIGCHI Symposium on Engineering Interactive Computing Systems***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=8296741513177971931\&as_sdt=0,5)]. \[[Code (⭐12k)](https://github.com/tonybeltramelli/pix2code)]. \[[Website](https://uizard.io/research/)]. This paper shows that deep learning methods can be leveraged to train a model end-to-end to automatically reverse engineer user interfaces and generate code from a single input image with over 77% of accuracy for three different platforms (i.e. iOS, Android and web-based technologies).
 
+#### [31. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/README.md)
+
+##### Contents / Pomodoro Timer Apps
+
+*   **[Pomodor](https://pomodor.app)** - [review](https://productivity.directory/pomodor) - Simple and effective web-based Pomodoro timer.
+*   **[MarinaraTimer](https://marinaratimer.com)** - [review](https://productivity.directory/marinaratimer) - Shareable and customizable Pomodoro timer for teams and individuals.
+*   **[Be Focused](https://xwavesoft.com/be-focused-pro-mac-os-x.html)** - [review](https://productivity.directory/be-focused) - Focus timer for Apple users, integrating across devices.
+*   **[Session](https://www.stayinsession.com)** - [review](https://productivity.directory/session) - Feature-rich Pomodoro app for macOS and iOS users.
+*   **[Toggl Track](https://toggl.com/track)** - [review](https://productivity.directory/toggl-track) - Time-tracking app with Pomodoro features for professionals.
+*   **[Focus Booster](https://www.focusboosterapp.com)** - [review](https://productivity.directory/focus-booster) - Pomodoro app with detailed productivity reporting.
+*   **[TomatoTimer](https://tomato-timer.com)** - [review](https://productivity.directory/tomato-timer) - Free and simple Pomodoro timer for web users.
+
 ---
 
 - Next: [Feb 19 - Feb 25, 2024](&#x2F;content&#x2F;2024&#x2F;8&#x2F;README.md)
@@ -1062,6 +1074,10 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md) - ([Source ⭐ 1.9K, 📝 21&#x2F;11&#x2F;28 ](https://github.com/XamSome/awesome-xamarin)) - A collection of interesting libraries/tools for Xamarin mobile projects 
 - [Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/README.md) - ([Source ⭐ 36K, 📝 16&#x2F;08&#x2F;02 ](https://github.com/dypsilon/frontend-dev-bookmarks)) - Manually curated collection of resources for frontend web developers.
 - [Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md) - ([Source ⭐ 37K, 📝 23&#x2F;11&#x2F;03 ](https://github.com/serhii-londar/open-source-mac-os-apps)) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+
+### Productivity Tools
+
+- [Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/README.md) - ([Source ⭐ 27, 📝 02&#x2F;26 ](https://github.com/ProductivityDirectory/awesome-productivity-tools)) - My Awesome list of productivity tools and products
 
 ### Programming Languages
 

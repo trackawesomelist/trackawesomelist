@@ -307,7 +307,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ggfortify (⭐526)](https://github.com/sinhrks/ggfortify) - Unified interface to ggplot2 popular R packages.
+*   [ggfortify (⭐524)](https://github.com/sinhrks/ggfortify) - Unified interface to ggplot2 popular R packages.
 
 ## [27. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
 
@@ -393,7 +393,7 @@
 
 ### Key Value Store
 
-*   [Zephyr (⭐899)](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
+*   [Zephyr (⭐911)](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
 
 ## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 

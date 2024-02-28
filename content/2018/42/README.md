@@ -639,7 +639,7 @@ Topics: Accessibility\
 
 ### Apps
 
-*   [Urteile & Gesetze (⭐16)](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
+*   [Urteile & Gesetze (⭐15)](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
 
 ## [51. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -1579,15 +1579,15 @@ Topics: Accessibility\
 
 ### Key Value Store
 
-*   [Defaults (⭐1.6k)](https://github.com/sindresorhus/Defaults) - Strongly-typed UserDefaults with support for Codable and key observation.
+*   [Defaults (⭐1.8k)](https://github.com/sindresorhus/Defaults) - Strongly-typed UserDefaults with support for Codable and key observation.
 
 ### Streaming / Barcode
 
-*   [HaishinKit (⭐2.6k)](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
+*   [HaishinKit (⭐2.7k)](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
 
 ### Video / Barcode
 
-*   [Kitsunebi (⭐258)](https://github.com/noppefoxwolf/Kitsunebi) - Overlay alpha channel video animation player view using OpenGLES.
+*   [Kitsunebi (⭐257)](https://github.com/noppefoxwolf/Kitsunebi) - Overlay alpha channel video animation player view using OpenGLES.
 
 ## [66. Bots](/content/hackerkid/bots/week/README.md)
 

@@ -97,11 +97,11 @@
 
 ### UI / Barcode
 
-*   [MultiSlider (⭐409)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
+*   [MultiSlider (⭐435)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
 
 ### Button / Barcode
 
-*   [RadioGroup (⭐190)](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
+*   [RadioGroup (⭐191)](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
 
 ## [11. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 

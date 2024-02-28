@@ -46,7 +46,7 @@
 
 ### UICollectionView / Barcode
 
-*   [UICollectionViewSplitLayout (⭐240)](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
+*   [UICollectionViewSplitLayout (⭐241)](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
 
 ## [7. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 

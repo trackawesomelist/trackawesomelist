@@ -323,7 +323,7 @@ git log --first-parent
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Dora (⭐633)](https://github.com/nathanepstein/dora) - Tools for exploratory data analysis in Python.
+*   [Dora (⭐637)](https://github.com/nathanepstein/dora) - Tools for exploratory data analysis in Python.
 *   [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for python.
 
 ## [26. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)

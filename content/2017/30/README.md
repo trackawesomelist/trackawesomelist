@@ -790,8 +790,8 @@
 
 ### Animation
 
-*   [ChainPageCollectionView (⭐782)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
-*   [Gemini (⭐3.1k)](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework.
+*   [ChainPageCollectionView (⭐784)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
+*   [Gemini (⭐3.2k)](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework.
 
 ### Network / Barcode
 

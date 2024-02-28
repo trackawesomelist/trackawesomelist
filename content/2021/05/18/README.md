@@ -77,7 +77,7 @@
 
 ### Tools
 
-*   [READMINE (⭐43)](https://github.com/mhucka/readmine) - A thorough, clear and self-describing README file template for software projects; copy it and edit it as needed.
+*   [READMINE (⭐49)](https://github.com/mhucka/readmine) - A thorough, clear and self-describing README file template for software projects; copy it and edit it as needed.
 
 ## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

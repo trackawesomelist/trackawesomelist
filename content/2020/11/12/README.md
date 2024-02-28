@@ -50,11 +50,11 @@
 
 
 
-## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [6. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
-### Social Networks
+### Applications
 
-*   [Mobilizon](https://joinmobilizon.org/) is a federated tool that helps you find, create and organise events.
+*   [Mobilizon](https://joinmobilizon.org/): A federated tool that helps you find, create and organise events.
 
 ---
 

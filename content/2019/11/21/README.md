@@ -70,23 +70,23 @@
 
 ### Audio
 
-*   [ModernAVPlayer (⭐276)](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence AVPlayer to resume playback after bad network connection even in background mode.
+*   [ModernAVPlayer (⭐277)](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence AVPlayer to resume playback after bad network connection even in background mode.
 
 ### Device
 
-*   [Deviice (⭐62)](https://github.com/andrealufino/Deviice) - Swift library to easily check the current device and some more info about it.
+*   [Deviice (⭐66)](https://github.com/andrealufino/Deviice) - Swift library to easily check the current device and some more info about it.
 
 ### Fonts
 
-*   [SYSymbol (⭐185)](https://github.com/Nirma/SFSymbol) - All the SFSymbols at your fingertips.
+*   [SYSymbol (⭐188)](https://github.com/Nirma/SFSymbol) - All the SFSymbols at your fingertips.
 
 ### Localization / Barcode
 
-*   [Translatio (⭐20)](https://github.com/andrealufino/Translatio) - Super lightweight library that helps you to localize strings, even directly in storyboards.
+*   [Translatio (⭐19)](https://github.com/andrealufino/Translatio) - Super lightweight library that helps you to localize strings, even directly in storyboards.
 
 ### Text / Barcode
 
-*   [OEMentions (⭐48)](https://github.com/omar14/OEMentions) - An easy way to add mentions to uitextview like Facebook and Instagram.
+*   [OEMentions (⭐51)](https://github.com/omar14/OEMentions) - An easy way to add mentions to uitextview like Facebook and Instagram.
 
 ---
 

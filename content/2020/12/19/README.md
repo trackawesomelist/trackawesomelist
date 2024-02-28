@@ -26,8 +26,8 @@
 
 ### Community
 
-*   [GitHub (⭐113k)](https://github.com/vercel/next.js)
-*   [GitHub discussions for Next.js (⭐113k)](https://github.com/vercel/next.js/discussions)
+*   [GitHub (⭐119k)](https://github.com/vercel/next.js)
+*   [GitHub discussions for Next.js (⭐119k)](https://github.com/vercel/next.js/discussions)
 
 ### Articles
 
@@ -35,7 +35,7 @@
 
 ### Extensions
 
-*   [Next-Pkg (⭐65)](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg (⭐24k)](https://github.com/vercel/pkg) support.
+*   [Next-Pkg (⭐66)](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg (⭐24k)](https://github.com/vercel/pkg) support.
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 

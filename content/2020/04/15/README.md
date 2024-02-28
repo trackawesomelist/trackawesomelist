@@ -70,7 +70,7 @@
 
 ### Ruby / General-Purpose Machine Learning
 
-*   [rumale (⭐724)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
+*   [rumale (⭐725)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
 
 ## [10. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

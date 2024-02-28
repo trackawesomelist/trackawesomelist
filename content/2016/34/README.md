@@ -538,7 +538,7 @@ Free
 
 ### Kit / Barcode
 
-*   [C4iOS (⭐977)](https://github.com/C4Labs/C4iOS) - Harnesses the power of native iOS programming with a simplified API.
+*   [C4iOS (⭐975)](https://github.com/C4Labs/C4iOS) - Harnesses the power of native iOS programming with a simplified API.
 
 ## [35. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 

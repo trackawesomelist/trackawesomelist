@@ -28,11 +28,11 @@
 
 ### Transition / Barcode
 
-*   [ImageTransition (⭐214)](https://github.com/shtnkgm/ImageTransition) - ImageTransition is a library for smooth animation of images during transitions.
+*   [ImageTransition (⭐218)](https://github.com/shtnkgm/ImageTransition) - ImageTransition is a library for smooth animation of images during transitions.
 
 ### Utility / Barcode
 
-*   [WeakableSelf (⭐76)](https://github.com/vincent-pradeilles/weakable-self) - A micro-framework to encapsulate \[weak self] and guard statements within closures.
+*   [WeakableSelf (⭐77)](https://github.com/vincent-pradeilles/weakable-self) - A micro-framework to encapsulate \[weak self] and guard statements within closures.
 
 ## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

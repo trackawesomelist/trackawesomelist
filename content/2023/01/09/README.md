@@ -104,7 +104,7 @@
 
 ### Boilerplates
 
-*   [Next-Fire-Auth (⭐4)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
+*   [Next-Fire-Auth (⭐5)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
 
 ## [5. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 

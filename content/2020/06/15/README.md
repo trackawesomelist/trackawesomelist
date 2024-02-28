@@ -75,7 +75,7 @@
 
 ### Extensions
 
-*   [next-img (⭐245)](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
+*   [next-img (⭐272)](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
 
 ## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

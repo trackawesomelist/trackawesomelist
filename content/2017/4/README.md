@@ -607,7 +607,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 ### Applications
 
 *   [Bitmessage](https://bitmessage.org): P2P communications protocol used to send encrypted messages to another person or to many subscribers.
-*   [Dat desktop app (⭐649)](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
+*   [Dat desktop app (⭐652)](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
 *   [I2P](https://geti2p.net): Anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other.
 *   [MaidSafe](https://maidsafe.net): Decentralized internet and app infrastructure which rewards users for participating in the network.
 *   [Neocities](https://neocities.org): Geocities-style websites, but decentralized.
@@ -622,10 +622,10 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 ### Related Lists
 
-*   [https://github.com/kgryte/awesome-peer-to-peer (⭐2.2k)](https://github.com/kgryte/awesome-peer-to-peer)
-*   [https://github.com/retrohacker/awesome-p2p (⭐142)](https://github.com/retrohacker/awesome-p2p)
-*   [https://github.com/Kikobeats/awesome-network-js (⭐537)](https://github.com/Kikobeats/awesome-network-js)
-*   [https://github.com/steve-vincent/awesome-decentralized (⭐191)](https://github.com/steve-vincent/awesome-decentralized)
+*   [https://github.com/kgryte/awesome-peer-to-peer (⭐2.3k)](https://github.com/kgryte/awesome-peer-to-peer)
+*   [https://github.com/retrohacker/awesome-p2p (⭐144)](https://github.com/retrohacker/awesome-p2p)
+*   [https://github.com/Kikobeats/awesome-network-js (⭐547)](https://github.com/Kikobeats/awesome-network-js)
+*   [https://github.com/steve-vincent/awesome-decentralized (⭐192)](https://github.com/steve-vincent/awesome-decentralized)
 *   [https://github.com/gdamdam/awesome-decentralized-web (⭐1.6k)](https://github.com/gdamdam/awesome-decentralized-web)
 *   <https://redecentralize.github.io/alternative-internet>
 

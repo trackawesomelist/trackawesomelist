@@ -69,7 +69,7 @@
 
 ### Packages / Command-line utilities
 
-*   [cli-table3 (⭐480)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
+*   [cli-table3 (⭐486)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
 
 ## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

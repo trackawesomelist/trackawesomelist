@@ -81,7 +81,7 @@
 
 ### Python / Calendars
 
-*   [exchange\_calendars (⭐356)](https://github.com/gerrymanoim/exchange_calendars) - Stock Exchange Trading Calendars.
+*   [exchange\_calendars (⭐362)](https://github.com/gerrymanoim/exchange_calendars) - Stock Exchange Trading Calendars.
 
 ## [7. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -152,7 +152,7 @@
 
 ### Python / Reinforcement Learning
 
-*   [Maze (⭐253)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
+*   [Maze (⭐254)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 
 ## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

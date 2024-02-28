@@ -66,7 +66,7 @@
 
 ### Misc
 
-*   [CodableWrappers (⭐482)](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
+*   [CodableWrappers (⭐536)](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
 
 ## [6. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 

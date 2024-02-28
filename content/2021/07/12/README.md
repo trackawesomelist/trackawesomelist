@@ -32,7 +32,7 @@
 
 ### Testing / Barcode
 
-*   [Mussel (⭐70)](https://github.com/UrbanCompass/Mussel) - A framework for easily testing Push Notifications, Universal Links and Routing in XCUITests.
+*   [Mussel (⭐72)](https://github.com/UrbanCompass/Mussel) - A framework for easily testing Push Notifications, Universal Links and Routing in XCUITests.
 
 ## [3. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 

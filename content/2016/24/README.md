@@ -242,7 +242,7 @@
 
 ### Blur / Barcode
 
-*   [VisualEffectView (⭐1k)](https://github.com/efremidze/VisualEffectView) - UIVisualEffectView subclass with tint color.
+*   [VisualEffectView (⭐1.1k)](https://github.com/efremidze/VisualEffectView) - UIVisualEffectView subclass with tint color.
 
 ## [18. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 

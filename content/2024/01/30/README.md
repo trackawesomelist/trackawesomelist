@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 30, 2024
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -68,7 +68,16 @@
 
 *   [drybalka/clean.nvim (⭐23)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
 
-## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [8. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/README.md)
+
+### Contents / Task Management
+
+*   **[Trello](https://trello.com)** - [review](https://productivity.directory/trello) - A visual tool for organizing your work and life.
+*   **[Todoist](https://todoist.com)** - [review](https://productivity.directory/todoist) - A simple yet powerful to-do list app.
+*   **[Asana](https://asana.com)** - [review](https://productivity.directory/asana) - Project management tool for teams.
+*   **[Microsoft To Do](https://todo.microsoft.com)** - [review](https://productivity.directory/microsoft-todo) - Task management tool by Microsoft.
+
+## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Other Xcode / Collection View Layout
 

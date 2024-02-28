@@ -19,7 +19,7 @@
 
 ### Packages / Network
 
-*   [DHCP (⭐291)](https://github.com/infusion/node-dhcp) - DHCP client and server.
+*   [DHCP (⭐292)](https://github.com/infusion/node-dhcp) - DHCP client and server.
 
 ## [3. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
@@ -450,15 +450,15 @@
 
 ### Authentication
 
-*   [LoginKit (⭐660)](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
+*   [LoginKit (⭐665)](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
 
 ### Chat
 
-*   [MessageKit (⭐5.8k)](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
+*   [MessageKit (⭐5.9k)](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
 
 ### Fonts
 
-*   [Inkwell (⭐152)](https://github.com/ninjaprox/Inkwell) - An inkwell to use custom fonts on the fly.
+*   [Inkwell (⭐153)](https://github.com/ninjaprox/Inkwell) - An inkwell to use custom fonts on the fly.
 
 ### Images / Barcode
 
@@ -467,7 +467,7 @@
 ### UI / Barcode
 
 *   [DeckTransition (⭐2.2k)](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS 10 Apple Music now playing transition.
-*   [InstantSearch iOS (⭐588)](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
+*   [InstantSearch iOS (⭐590)](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
 
 ### UITableView / Barcode
 
@@ -581,7 +581,7 @@
 
 ### Boilerplates
 
-*   [Next Simple Starter (⭐920)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
+*   [Next Simple Starter (⭐927)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
 *   [NextJS Starter (⭐1.4k)](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
 *   [RAN! (⭐2.2k)](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
 *   [Next Simple Blog (⭐557)](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
@@ -589,17 +589,17 @@
 ### Apps
 
 *   [NextJS GOT (⭐32)](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
-*   [Relate (⭐331)](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
-*   [Password (⭐113)](https://github.com/dotcypress/password) - One password, right way.
-*   [Next Todos (⭐122)](https://github.com/lipp/next-todos) - Todo list written in Next.js.
-*   [Hacker News (⭐44)](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
+*   [Relate (⭐332)](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
+*   [Password (⭐114)](https://github.com/dotcypress/password) - One password, right way.
+*   [Next Todos (⭐124)](https://github.com/lipp/next-todos) - Todo list written in Next.js.
+*   [Hacker News (⭐45)](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
 *   [Jet Chat (⭐9)](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo.
-*   [Nextgram (⭐49)](https://github.com/arunoda/nextgram) - Sample Next.js v2 app for showing off its capabilities.
-*   [Rauchg Blog (⭐1k)](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
+*   [Nextgram (⭐50)](https://github.com/arunoda/nextgram) - Sample Next.js v2 app for showing off its capabilities.
+*   [Rauchg Blog (⭐1.1k)](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
 *   [Next JPH (⭐34)](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js.
-*   [Mailto (⭐181)](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
+*   [Mailto (⭐186)](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
 *   [Plate (⭐49)](https://github.com/knipferrc/plate) - The task management app to rule them all.
-*   [Dashboard (⭐1.2k)](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
+*   [Dashboard (⭐1.3k)](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 *   [Trello Resume (⭐16)](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
 
 ## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)

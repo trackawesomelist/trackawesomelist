@@ -216,7 +216,7 @@
 
 ### Cache
 
-*   [Cachyr (⭐125)](https://github.com/nrkno/yr-cachyr) - A small key-value data cache for iOS, macOS and tvOS.
+*   [Cachyr (⭐124)](https://github.com/nrkno/yr-cachyr) - A small key-value data cache for iOS, macOS and tvOS.
 
 ## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

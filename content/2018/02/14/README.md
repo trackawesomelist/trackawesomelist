@@ -18,7 +18,7 @@
 
 ### Packages / Command-line apps
 
-*   [XO (⭐7.4k)](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
+*   [XO (⭐7.5k)](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
 
 ## [3. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -60,8 +60,8 @@
 
 ### Extensions
 
-*   [Next Plugin Graphql (⭐55)](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
-*   [Next With Apollo (⭐767)](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
+*   [Next Plugin Graphql (⭐56)](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
+*   [Next With Apollo (⭐765)](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
 
 ---
 

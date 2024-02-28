@@ -129,7 +129,7 @@
 
 ### Packages / Command-line utilities
 
-*   [listr2 (⭐420)](https://github.com/listr2/listr2) - Terminal task list.
+*   [listr2 (⭐442)](https://github.com/listr2/listr2) - Terminal task list.
 
 ## [9. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 

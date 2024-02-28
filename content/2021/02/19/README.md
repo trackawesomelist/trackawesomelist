@@ -35,7 +35,7 @@
 
 ### UI / Barcode
 
-*   [BulletinBoard (⭐5.3k)](https://github.com/alexisakers/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
+*   [BulletinBoard (⭐5.4k)](https://github.com/alexisakers/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
 *   [Wallet](https://github.com/russ-stamant/Wallet) - A replica of the Apple's Wallet interface. Add, delete or present your cards and passes.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)

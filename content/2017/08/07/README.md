@@ -10,7 +10,7 @@
 
 ### Tab / Barcode
 
-*   [HHTabBarView (⭐149)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
+*   [HHTabBarView (⭐152)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
 
 ## [2. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 

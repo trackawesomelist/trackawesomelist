@@ -63,7 +63,7 @@
 ### UITableView / Barcode
 
 *   [folding-cell (⭐10k)](https://github.com/Ramotion/folding-cell) - Folding cell transition.
-*   [PullToRefreshSwift (⭐537)](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
+*   [PullToRefreshSwift (⭐538)](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
 
 ## [10. Awesome Music](/content/ciconia/awesome-music/README.md)
 

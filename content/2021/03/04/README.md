@@ -57,7 +57,7 @@
 
 ### Applications
 
-*   [Hardbin (⭐240)](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
+*   [Hardbin (⭐248)](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
 
 ### Other
 

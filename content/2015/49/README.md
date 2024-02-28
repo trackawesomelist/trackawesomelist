@@ -75,7 +75,7 @@
 
 ### Testing / Barcode
 
-*   [Erik (⭐564)](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
+*   [Erik (⭐577)](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
 
 ## [11. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 

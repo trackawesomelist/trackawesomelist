@@ -149,7 +149,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### UI / Barcode
 
-*   [CircularProgress (⭐545)](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app.
+*   [CircularProgress (⭐548)](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app.
 
 ## [12. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

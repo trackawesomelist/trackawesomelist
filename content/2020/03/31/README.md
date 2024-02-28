@@ -12,7 +12,13 @@
 
 *   [VsCode Groovy Lint](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint) - Groovy lint, format, prettify and auto-fix
 
-## [2. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+
+### Utility / Barcode
+
+*   [Playbook (⭐1.1k)](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically snapshots of them.
+
+## [3. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Tools / Misc
 
@@ -22,7 +28,7 @@
 
 *   [SimpleLogin (⭐3.9k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
 
-## [3. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
+## [4. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
 ### Software Tools / Analysis Frameworks
 
@@ -69,12 +75,6 @@
 *   [Hackaday](https://hackaday.com)
 *   [jcjc's Hack The World](https://jcjc-dev.com/)
 *   [Quarkslab](https://blog.quarkslab.com/)
-
-## [4. Awesome Ios](/content/vsouza/awesome-ios/README.md)
-
-### Debugging
-
-*   [Playbook (⭐1.1k)](https://github.com/playbook-ui/playbook-ios) - A library for isolated developing UI components and automatically snapshots of them.
 
 ## [5. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

@@ -508,15 +508,15 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Audio
 
-*   [voice-overlay-ios (⭐526)](https://github.com/algolia/voice-overlay-ios) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
+*   [voice-overlay-ios (⭐535)](https://github.com/algolia/voice-overlay-ios) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
 
 ### Auto Layout / Barcode
 
-*   [DeviceLayout (⭐169)](https://github.com/cruisediary/DeviceLayout) - AutoLayout can be set differently for each device.
+*   [DeviceLayout (⭐168)](https://github.com/cruisediary/DeviceLayout) - AutoLayout can be set differently for each device.
 
 ### Alert / Barcode
 
-*   [Sheet (⭐333)](https://github.com/ParkGwangBeom/Sheet) - Actionsheet with navigation features such as the Flipboard App.
+*   [Sheet (⭐335)](https://github.com/ParkGwangBeom/Sheet) - Actionsheet with navigation features such as the Flipboard App.
 
 ## [42. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -1633,7 +1633,7 @@ Topics: ReasonML, React, Software Philosophy\
 
 ### Boilerplates
 
-*   [csprance/next-smrt (⭐55)](https://github.com/csprance/next-smrt) - A minimal boilerplate with redux, styled-components, material-ui and typescript with a custom express server.
+*   [csprance/next-smrt (⭐54)](https://github.com/csprance/next-smrt) - A minimal boilerplate with redux, styled-components, material-ui and typescript with a custom express server.
 
 ## [80. Amas](/content/sindresorhus/amas/week/README.md)
 

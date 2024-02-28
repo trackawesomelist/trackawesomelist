@@ -82,7 +82,7 @@
 
 ### Applications
 
-*   [DB3 Network (⭐283)](https://github.com/dbpunk-labs/db3): Decentralized Firebase Firestore Alternative
+*   [DB3 Network (⭐331)](https://github.com/dbpunk-labs/db3): Decentralized Firebase Firestore Alternative
 
 ## [7. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 

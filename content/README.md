@@ -428,6 +428,18 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Do Llamas Work in English? On the Latent Language of Multilingual Transformers](https://arxiv.org/abs/2402.10588) - 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=5847238732288003106\&hl=en\&as_sdt=0,5)]. A preliminary work empirically showing that the intermediate embeddings of multilingual Transformers (1) start far away from output token embeddings; (2) already allow for decoding a semantically correct next token in the middle layers, but give higher probability to its version in English than in the input language; (3) finally move into an input-language-specific region of the embedding space. Also, the embedding of abstract concept space lies closer to English than to other languages.
 
+#### [13. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/README.md)
+
+##### Contents / Pomodoro Timer Apps
+
+*   **[Pomodor](https://pomodor.app)** - [review](https://productivity.directory/pomodor) - Simple and effective web-based Pomodoro timer.
+*   **[MarinaraTimer](https://marinaratimer.com)** - [review](https://productivity.directory/marinaratimer) - Shareable and customizable Pomodoro timer for teams and individuals.
+*   **[Be Focused](https://xwavesoft.com/be-focused-pro-mac-os-x.html)** - [review](https://productivity.directory/be-focused) - Focus timer for Apple users, integrating across devices.
+*   **[Session](https://www.stayinsession.com)** - [review](https://productivity.directory/session) - Feature-rich Pomodoro app for macOS and iOS users.
+*   **[Toggl Track](https://toggl.com/track)** - [review](https://productivity.directory/toggl-track) - Time-tracking app with Pomodoro features for professionals.
+*   **[Focus Booster](https://www.focusboosterapp.com)** - [review](https://productivity.directory/focus-booster) - Pomodoro app with detailed productivity reporting.
+*   **[TomatoTimer](https://tomato-timer.com)** - [review](https://productivity.directory/tomato-timer) - Free and simple Pomodoro timer for web users.
+
 ---
 
 - Next: [Feb 25, 2024](&#x2F;content&#x2F;2024&#x2F;02&#x2F;25&#x2F;README.md)
@@ -1092,6 +1104,10 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md) - ([Source ⭐ 1.9K, 📝 21&#x2F;11&#x2F;28 ](https://github.com/XamSome/awesome-xamarin)) - A collection of interesting libraries/tools for Xamarin mobile projects 
 - [Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/README.md) - ([Source ⭐ 36K, 📝 16&#x2F;08&#x2F;02 ](https://github.com/dypsilon/frontend-dev-bookmarks)) - Manually curated collection of resources for frontend web developers.
 - [Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md) - ([Source ⭐ 37K, 📝 23&#x2F;11&#x2F;03 ](https://github.com/serhii-londar/open-source-mac-os-apps)) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+
+### Productivity Tools
+
+- [Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/README.md) - ([Source ⭐ 27, 📝 02&#x2F;26 ](https://github.com/ProductivityDirectory/awesome-productivity-tools)) - My Awesome list of productivity tools and products
 
 ### Programming Languages
 

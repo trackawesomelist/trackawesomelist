@@ -90,8 +90,8 @@
 
 ### Packages / Command-line apps
 
-*   [cash-cli (⭐223)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
-*   [discharge (⭐544)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
+*   [cash-cli (⭐224)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
+*   [discharge (⭐552)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 
 ### Packages / Debugging / Profiling
 
@@ -99,11 +99,11 @@
 
 ### Packages / Command-line utilities
 
-*   [Cliffy (⭐337)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
+*   [Cliffy (⭐345)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
 
 ### Packages / Real-time
 
-*   [rpc-websockets (⭐539)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
+*   [rpc-websockets (⭐557)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
 
 ### Packages / Security
 
@@ -913,7 +913,7 @@
 
 ### R / Numerical Libraries & Data Structures
 
-*   [sparseEigen (⭐10)](https://github.com/dppalomar/sparseEigen) - Sparse pricipal component analysis.
+*   [sparseEigen (⭐11)](https://github.com/dppalomar/sparseEigen) - Sparse pricipal component analysis.
 
 ## [44. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -982,11 +982,11 @@
 ### Patterns
 
 *   [CleanArchitectureRxSwift (⭐3.8k)](https://github.com/sergdort/CleanArchitectureRxSwift) - Example of Clean Architecture of iOS app using RxSwift.
-*   [Viperit (⭐507)](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.
+*   [Viperit (⭐508)](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.
 
 ### Cryptography / Barcode
 
-*   [JOSESwift (⭐178)](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK.
+*   [JOSESwift (⭐184)](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK.
 
 ### Menu / Barcode
 
@@ -994,7 +994,7 @@
 
 ### Utility / Barcode
 
-*   [Lumos (⭐151)](https://github.com/sushinoya/Lumos) - An easy-to-use API for Objective-C runtime functions.
+*   [Lumos (⭐152)](https://github.com/sushinoya/Lumos) - An easy-to-use API for Objective-C runtime functions.
 
 ## [52. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 

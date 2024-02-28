@@ -10,7 +10,7 @@
 
 ### TextField / Barcode
 
-*   [iTextField ⌨️ (⭐99)](https://github.com/benjaminsage/iTextField) - A fully-wrapped `UITextField` that works entirely in SwiftUI 🦅.
+*   [iTextField ⌨️ (⭐102)](https://github.com/benjaminsage/iTextField) - A fully-wrapped `UITextField` that works entirely in SwiftUI 🦅.
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

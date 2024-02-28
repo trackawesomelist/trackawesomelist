@@ -207,7 +207,7 @@
 
 ### Animation
 
-*   [Gemini (⭐3.1k)](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework.
+*   [Gemini (⭐3.2k)](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework.
 
 ## [12. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 

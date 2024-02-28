@@ -500,7 +500,7 @@
 
 ### Packages / Weird
 
-*   [superheroes (⭐236)](https://github.com/sindresorhus/superheroes) - Get superhero names.
+*   [superheroes (⭐234)](https://github.com/sindresorhus/superheroes) - Get superhero names.
 *   [supervillains (⭐117)](https://github.com/sindresorhus/supervillains) - Get supervillain names.
 
 ## [20. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)

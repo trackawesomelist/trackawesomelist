@@ -301,7 +301,7 @@
 
 ### Packages / Command-line utilities
 
-*   [listr2 (⭐420)](https://github.com/listr2/listr2) - Terminal task list.
+*   [listr2 (⭐442)](https://github.com/listr2/listr2) - Terminal task list.
 
 ## [21. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -377,7 +377,7 @@
 
 ### Apps
 
-*   [StorageBox (⭐10)](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
+*   [StorageBox (⭐19)](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 
 ## [26. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
@@ -420,7 +420,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [OctoBot Script (⭐14)](https://github.com/Drakkar-Software/OctoBot-Script) - A quant framework to create cryptocurrencies strategies - from backtesting to optimisation to livetrading.
+*   [OctoBot Script (⭐15)](https://github.com/Drakkar-Software/OctoBot-Script) - A quant framework to create cryptocurrencies strategies - from backtesting to optimisation to livetrading.
 
 ### Reproducing Works, Training & Books / Data Visualization
 
@@ -1423,7 +1423,7 @@
 
 ## [63. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
-### Tools & Scripts / AI
+### AI
 
 *   [Chat with Wardley YouTube content](https://wardleygpt.streamlit.app/) - Have a chat with all of Simon's YouTube content.
 

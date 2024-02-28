@@ -30,7 +30,7 @@
 
 ### Utility / Barcode
 
-*   [Swiftx (⭐218)](https://github.com/typelift/Swiftx) - Functional data types and functions for any project.
+*   [Swiftx (⭐216)](https://github.com/typelift/Swiftx) - Functional data types and functions for any project.
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

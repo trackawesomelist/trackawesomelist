@@ -52,7 +52,7 @@
 
 ### Menu / Barcode
 
-*   [Parchment (⭐3.2k)](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu, built on UICollectionView.
+*   [Parchment (⭐3.3k)](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu, built on UICollectionView.
 
 ## [7. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/README.md)
 

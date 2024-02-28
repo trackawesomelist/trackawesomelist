@@ -64,7 +64,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [hftbacktest (⭐779)](https://github.com/nkaz001/hftbacktest) - A high-frequency trading and market-making backtesting tool accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books.
+*   [hftbacktest (⭐817)](https://github.com/nkaz001/hftbacktest) - A high-frequency trading and market-making backtesting tool accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books.
 
 ## [9. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 

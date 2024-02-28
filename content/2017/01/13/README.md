@@ -72,7 +72,7 @@
 
 ### Packages / HTTP
 
-*   [http-fake-backend (⭐309)](https://github.com/micromata/http-fake-backend) - Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.
+*   [http-fake-backend (⭐308)](https://github.com/micromata/http-fake-backend) - Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.
 
 ### Packages / Web frameworks
 

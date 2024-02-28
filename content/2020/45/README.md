@@ -10,7 +10,7 @@
 
 ### TextField / Barcode
 
-*   [iTextField ⌨️ (⭐99)](https://github.com/benjaminsage/iTextField) - A fully-wrapped `UITextField` that works entirely in SwiftUI 🦅.
+*   [iTextField ⌨️ (⭐102)](https://github.com/benjaminsage/iTextField) - A fully-wrapped `UITextField` that works entirely in SwiftUI 🦅.
 
 ## [2. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
 
@@ -436,7 +436,7 @@
 
 ### Python / Factor Analysis
 
-*   [Spectre (⭐516)](https://github.com/Heerozh/spectre) - GPU-accelerated Factors analysis library and Backtester
+*   [Spectre (⭐518)](https://github.com/Heerozh/spectre) - GPU-accelerated Factors analysis library and Backtester
 
 ## [47. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 

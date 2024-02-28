@@ -77,7 +77,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [freqtrade (⭐24k)](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
+*   [freqtrade (⭐25k)](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 
 ## [11. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

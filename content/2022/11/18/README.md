@@ -16,7 +16,7 @@
 
 ### Extensions
 
-*   [Next-Sitemap (⭐2.8k)](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for Next.js
+*   [Next-Sitemap (⭐3k)](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for Next.js
 
 ## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 

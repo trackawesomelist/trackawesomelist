@@ -16,7 +16,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [zvt (⭐2.8k)](https://github.com/zvtvz/zvt) - the project using sql,pandas to provide an uniform and extendable way to record data,computing factors,select securites, backtesting,realtime trading and it could show all of them in clearly charts in realtime.
+*   [zvt (⭐2.9k)](https://github.com/zvtvz/zvt) - the project using sql,pandas to provide an uniform and extendable way to record data,computing factors,select securites, backtesting,realtime trading and it could show all of them in clearly charts in realtime.
 
 ## [3. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
 

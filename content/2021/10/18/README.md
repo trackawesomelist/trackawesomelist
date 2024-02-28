@@ -67,7 +67,7 @@
 
 ### Alert / Barcode
 
-*   [Toast-Swift (⭐365)](https://github.com/BastiaanJansen/Toast-Swift) - An easy to use library to create iOS 14 and newer style toasts.
+*   [Toast-Swift (⭐434)](https://github.com/BastiaanJansen/Toast-Swift) - An easy to use library to create iOS 14 and newer style toasts.
 
 ## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 

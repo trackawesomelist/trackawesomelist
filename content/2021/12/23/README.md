@@ -61,7 +61,7 @@
 
 ### Python / Risk Analysis
 
-*   [Riskfolio-Lib (⭐2.5k)](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio Optimization and Quantitative Strategic Asset Allocation in Python.
+*   [Riskfolio-Lib (⭐2.6k)](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio Optimization and Quantitative Strategic Asset Allocation in Python.
 
 ## [5. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 

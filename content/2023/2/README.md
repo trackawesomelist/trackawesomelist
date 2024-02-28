@@ -99,7 +99,7 @@
 
 ### Applications
 
-*   [DB3 Network (⭐283)](https://github.com/dbpunk-labs/db3): Decentralized Firebase Firestore Alternative
+*   [DB3 Network (⭐331)](https://github.com/dbpunk-labs/db3): Decentralized Firebase Firestore Alternative
 
 ## [10. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
@@ -1366,8 +1366,8 @@
 ### Boilerplates
 
 *   [Hydrogen](https://statichunt.com/themes/nextjs-hydrogen) - Hydrogen is a Nextjs blog starter template build with tailwindCss and MDX supports. It has all necessary MDX shortcodes out of the box.
-*   [Next-Fire-Auth (⭐4)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
-*   [NextJS Chargebee Subscription (⭐11)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
+*   [Next-Fire-Auth (⭐5)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
+*   [NextJS Chargebee Subscription (⭐13)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 
 ## [47. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 

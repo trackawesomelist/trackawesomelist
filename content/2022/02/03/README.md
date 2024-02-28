@@ -155,11 +155,11 @@
 
 ### Programming / Go
 
-*   [Golang Works](https://golang.works-hub.com/) - Local and remote Golang opportunities, articles and open-source.
+*   [Golang Works](https://golang.works-hub.com/) - Local and remote Golang opportunities, articles and open-source
 
 ### Programming / JavaScript
 
-*   [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source.
+*   [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source
 
 ## [7. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
 

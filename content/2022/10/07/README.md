@@ -100,7 +100,7 @@ Installs: 4000 | Stars: 960 | Last update: n/a
 
 ### Applications
 
-*   [FilePizza ☠️ (⭐4.1k)](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
+*   [FilePizza ☠️ (⭐4.2k)](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
 
 ## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 

@@ -28,7 +28,7 @@
 
 ### Extensions
 
-*   [Destack for Next.js (⭐1.1k)](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
+*   [Destack for Next.js (⭐1.3k)](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

@@ -76,7 +76,7 @@
 
 ### Device
 
-*   [Thingy (⭐60)](https://github.com/bojan/Thingy) - A modern device detection and querying library.
+*   [Thingy (⭐59)](https://github.com/bojan/Thingy) - A modern device detection and querying library.
 
 ### Cryptography / Barcode
 

@@ -10,11 +10,11 @@
 
 ### Third party Guides
 
-*   [Conferences.digital (⭐766)](https://github.com/zagahr/Conferences.digital) - Watch conference videos in a native macOS app.
+*   [Conferences.digital (⭐764)](https://github.com/zagahr/Conferences.digital) - Watch conference videos in a native macOS app.
 
 ### UI / Barcode
 
-*   [Doric Design System Foundation (⭐95)](https://github.com/jayeshk/Doric) - Protocol oriented, type safe, scalable design system foundation framework for iOS.
+*   [Doric Design System Foundation (⭐96)](https://github.com/jayeshk/Doric) - Protocol oriented, type safe, scalable design system foundation framework for iOS.
 
 ## [2. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 

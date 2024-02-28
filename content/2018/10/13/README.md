@@ -135,8 +135,8 @@
 
 ### Packages / Command-line apps
 
-*   [cash-cli (⭐223)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
-*   [discharge (⭐544)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
+*   [cash-cli (⭐224)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
+*   [discharge (⭐552)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 
 ### Packages / Debugging / Profiling
 
@@ -144,11 +144,11 @@
 
 ### Packages / Command-line utilities
 
-*   [Cliffy (⭐337)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
+*   [Cliffy (⭐345)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
 
 ### Packages / Real-time
 
-*   [rpc-websockets (⭐539)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
+*   [rpc-websockets (⭐557)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
 
 ### Packages / Security
 

@@ -343,7 +343,7 @@
 
 ### Python / Data Sources
 
-*   [yahooquery (⭐704)](https://github.com/dpguthrie/yahooquery) - Python interface for retrieving data through unofficial Yahoo Finance API.
+*   [yahooquery (⭐709)](https://github.com/dpguthrie/yahooquery) - Python interface for retrieving data through unofficial Yahoo Finance API.
 
 ## [18. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -653,7 +653,7 @@
 
 ### Extensions
 
-*   [Next universal language detector (⭐81)](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
+*   [Next universal language detector (⭐85)](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
 
 ## [47. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 

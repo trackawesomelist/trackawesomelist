@@ -147,7 +147,7 @@
 
 ### Misc
 
-*   [Surmagic (⭐297)](https://github.com/gurhub/surmagic) - Create XCFrameworks with ease! A Command Line Tool to create XCFramework for multiple platforms at one shot! iOS, Mac Catalyst, tvOS, macOS, and watchOS.
+*   [Surmagic (⭐305)](https://github.com/gurhub/surmagic) - Create XCFrameworks with ease! A Command Line Tool to create XCFramework for multiple platforms at one shot! iOS, Mac Catalyst, tvOS, macOS, and watchOS.
 
 ## [10. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 

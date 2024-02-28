@@ -16,7 +16,7 @@
 
 ### Examples
 
-*   [chroline/well\_app (⭐60)](https://github.com/chroline/well_app#readme) - Features attention-grabbing project thumbnail with clean badges, as well as download information and quick navigation links. Organized into multiple descriptive sections, each of which have a title with a yellow emoji. Includes details about the project itself, as well as the technologies used and how to contribute.
+*   [chroline/well\_app (⭐68)](https://github.com/chroline/well_app#readme) - Features attention-grabbing project thumbnail with clean badges, as well as download information and quick navigation links. Organized into multiple descriptive sections, each of which have a title with a yellow emoji. Includes details about the project itself, as well as the technologies used and how to contribute.
 
 ## [3. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -332,7 +332,7 @@
 
 ### Extensions
 
-*   [Destack for Next.js (⭐1.1k)](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
+*   [Destack for Next.js (⭐1.3k)](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
 
 ## [35. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -694,7 +694,7 @@
 
 ### Applications
 
-*   [Vdo.Ninja (⭐2.2k)](https://github.com/steveseguin/vdo.ninja): 100% free; no downloads; no personal data collection; no sign-in, cutting edge Peer-to-Peer forwarding technology that offers privacy and ultra-low latency
+*   [Vdo.Ninja (⭐2.5k)](https://github.com/steveseguin/vdo.ninja): 100% free; no downloads; no personal data collection; no sign-in, cutting edge Peer-to-Peer forwarding technology that offers privacy and ultra-low latency
 
 ## [53. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 

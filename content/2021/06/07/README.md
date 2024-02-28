@@ -20,11 +20,11 @@
 
 ## [3. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
-### Apps / Mapping
+### Mapping
 
 *   [Mapkeep](https://mapkeep.com/) - Multiplayer Wardley Maps at a click of a button. Collaborate on your maps with others. Host your maps for free. For updates, you can follow [@mapkeep on Mastodon](https://mastodon.social/@mapkeep), [@mapkeep on X](https://twitter.com/mapkeep), [mapkeep on LinkedIn](https://www.linkedin.com/company/mapkeep), subscribe to the [YouTube Channel](https://www.youtube.com/@mapkeep), or subscribe to the [News and Updates blog](https://blog.mapkeep.com/).
 
-### Templates / Mapping
+### Mapping / ChatGPT
 
 *   [Google Slides Mapping Template](https://docs.google.com/presentation/d/11_7D5KAgEUY3FxKg0K2whpwnC4jZOrS_TO2bpD5PV5A/edit#slide=id.g1aa7821e59_2_0) - Template for Google Slides.
 

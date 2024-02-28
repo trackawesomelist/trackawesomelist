@@ -65,7 +65,7 @@
 
 ### Applications
 
-*   [Databag (⭐255)](https://github.com/balzack/databag): Self-hosted lightweight federated messenger for the decentralized web. Lightweight, public-private key based identity, end-to-end encryption.
+*   [Databag (⭐666)](https://github.com/balzack/databag): Self-hosted lightweight federated messenger for the decentralized web. Lightweight, public-private key based identity, end-to-end encryption.
 
 ## [3. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 

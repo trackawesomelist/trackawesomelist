@@ -83,7 +83,7 @@
 
 ### Utility / Barcode
 
-*   [swift-protobuf (⭐4.3k)](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
+*   [swift-protobuf (⭐4.4k)](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
 
 ## [13. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

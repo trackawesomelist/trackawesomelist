@@ -135,7 +135,7 @@
 
 ### UICollectionView / Barcode
 
-*   [ASCollectionView (⭐372)](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
+*   [ASCollectionView (⭐371)](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
 
 ## [11. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

@@ -39,7 +39,7 @@
 
 ### Button / Barcode
 
-*   [AHDownloadButton (⭐478)](https://github.com/amerhukic/AHDownloadButton) - Customizable download button with progress and transition animations. It is based on Apple's App Store download button.
+*   [AHDownloadButton (⭐477)](https://github.com/amerhukic/AHDownloadButton) - Customizable download button with progress and transition animations. It is based on Apple's App Store download button.
 
 ## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

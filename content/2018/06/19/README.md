@@ -52,7 +52,7 @@
 
 ### Packages / Content management systems
 
-*   [KeystoneJS (⭐8.6k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
+*   [KeystoneJS (⭐8.7k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

@@ -171,7 +171,7 @@
 
 ### Chart
 
-*   [FLCharts (⭐259)](https://github.com/francescoleoni98/FLCharts) - Easy to use and highly customizable charts library for iOS.
+*   [FLCharts (⭐261)](https://github.com/francescoleoni98/FLCharts) - Easy to use and highly customizable charts library for iOS.
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [OctoBot Script (⭐14)](https://github.com/Drakkar-Software/OctoBot-Script) - A quant framework to create cryptocurrencies strategies - from backtesting to optimisation to livetrading.
+*   [OctoBot Script (⭐15)](https://github.com/Drakkar-Software/OctoBot-Script) - A quant framework to create cryptocurrencies strategies - from backtesting to optimisation to livetrading.
 
 ### Reproducing Works, Training & Books / Data Visualization
 
@@ -690,7 +690,7 @@
 
 ## [39. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
-### Tools & Scripts / AI
+### AI
 
 *   [Chat with Wardley YouTube content](https://wardleygpt.streamlit.app/) - Have a chat with all of Simon's YouTube content.
 

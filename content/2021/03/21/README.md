@@ -36,7 +36,7 @@
 
 ### Python / Natural Language Processing
 
-*   [DL Translate (⭐382)](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library between 50 languages, built with `transformers`.
+*   [DL Translate (⭐388)](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library between 50 languages, built with `transformers`.
 
 ## [5. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

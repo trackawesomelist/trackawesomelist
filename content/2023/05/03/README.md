@@ -40,7 +40,7 @@
 
 ### Managed Data Services
 
-*   [Neon](https://neon.tech/) — Managed PostgreSQL, ten branches, 3 GB of storage per branch, no limit on Active time for the primary department compute, 100 hours of Active time per month (total) for non-primary branch compute.
+*   [Neon](https://neon.tech/) — Managed PostgreSQL, 0.5 GB of storage (total), 1 Project ,10 branches, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total) for non-primary branch compute.
 
 ## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 

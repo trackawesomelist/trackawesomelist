@@ -105,7 +105,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Aim (⭐4.5k)](https://github.com/aimhubio/aim) -> An easy-to-use & supercharged open-source AI metadata tracker.
+*   [Aim (⭐4.6k)](https://github.com/aimhubio/aim) -> An easy-to-use & supercharged open-source AI metadata tracker.
 
 ## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 

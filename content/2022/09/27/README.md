@@ -69,7 +69,7 @@ Installs: 2000 | Stars: 346 | Last update: n/a
 
 ### Tools / Misc
 
-*   [txtai (⭐6k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
+*   [txtai (⭐6.5k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
 
 ## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 

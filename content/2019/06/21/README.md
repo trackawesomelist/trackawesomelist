@@ -48,7 +48,7 @@
 
 ### Dependency Injection
 
-*   [Locatable (⭐116)](https://github.com/vincent-pradeilles/locatable) - A micro-framework that leverages Property Wrappers to implement the Service Locator pattern.
+*   [Locatable (⭐117)](https://github.com/vincent-pradeilles/locatable) - A micro-framework that leverages Property Wrappers to implement the Service Locator pattern.
 
 ### Messaging Protocol / Barcode
 
@@ -56,7 +56,7 @@
 
 ### Text / Barcode
 
-*   [Tagging (⭐117)](https://github.com/k-lpmg/Tagging) - A TextView that provides easy to use tagging feature for Mention or Hashtag.
+*   [Tagging (⭐118)](https://github.com/k-lpmg/Tagging) - A TextView that provides easy to use tagging feature for Mention or Hashtag.
 
 ### Transition / Barcode
 

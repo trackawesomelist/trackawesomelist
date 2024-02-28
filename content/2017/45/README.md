@@ -267,7 +267,7 @@
 
 ### Images / Barcode
 
-*   [AXPhotoViewer (⭐631)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
+*   [AXPhotoViewer (⭐636)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
 
 ### UI / Barcode
 
@@ -362,7 +362,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [xRBM (⭐54)](https://github.com/omimo/xRBM) - A library for Restricted Boltzmann Machine (RBM) and its conditional variants in Tensorflow.
+*   [xRBM (⭐56)](https://github.com/omimo/xRBM) - A library for Restricted Boltzmann Machine (RBM) and its conditional variants in Tensorflow.
 
 ## [33. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 

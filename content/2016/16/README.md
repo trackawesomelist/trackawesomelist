@@ -246,7 +246,7 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Video / Barcode
 
-*   [PlayerView (⭐130)](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
+*   [PlayerView (⭐131)](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
 
 ## [25. Awesome R](/content/qinwf/awesome-R/week/README.md)
 

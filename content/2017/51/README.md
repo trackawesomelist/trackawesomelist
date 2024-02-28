@@ -45,7 +45,7 @@
 
 ### UI / Barcode
 
-*   [CountryPickerView (⭐476)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
+*   [CountryPickerView (⭐491)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
 
 ## [7. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -118,7 +118,7 @@
 
 ### CSharp / Data Visualization
 
-*   [QuantConnect (⭐8.4k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
+*   [QuantConnect (⭐8.5k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
 
 ## [17. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -338,7 +338,7 @@
 
 ### Go / Natural Language Processing
 
-*   [sentences (⭐401)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
+*   [sentences (⭐409)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
 ## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 

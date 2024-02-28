@@ -60,7 +60,7 @@
 
 ### Extensions
 
-*   [Terraform For Next.js (⭐51)](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
+*   [Terraform For Next.js (⭐52)](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

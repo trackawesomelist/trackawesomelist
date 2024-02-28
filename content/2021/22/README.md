@@ -636,11 +636,11 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Python / Risk Analysis
 
-*   [Empyrial (⭐842)](https://github.com/ssantoshp/Empyrial) - Portfolio's risk and performance analytics and returns predictions.
+*   [Empyrial (⭐847)](https://github.com/ssantoshp/Empyrial) - Portfolio's risk and performance analytics and returns predictions.
 
 ### Python / Calendars
 
-*   [exchange\_calendars (⭐356)](https://github.com/gerrymanoim/exchange_calendars) - Stock Exchange Trading Calendars.
+*   [exchange\_calendars (⭐362)](https://github.com/gerrymanoim/exchange_calendars) - Stock Exchange Trading Calendars.
 
 ## [55. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -727,11 +727,11 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Python / General-Purpose Machine Learning
 
-*   [FEDOT (⭐582)](https://github.com/nccr-itmo/FEDOT): An AutoML framework for the automated design of composite modelling pipelines. It can handle classification, regression, and time series forecasting tasks on different types of data (including multi-modal datasets).
+*   [FEDOT (⭐590)](https://github.com/nccr-itmo/FEDOT): An AutoML framework for the automated design of composite modelling pipelines. It can handle classification, regression, and time series forecasting tasks on different types of data (including multi-modal datasets).
 
 ### Python / Reinforcement Learning
 
-*   [Maze (⭐253)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
+*   [Maze (⭐254)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 
 ## [60. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 

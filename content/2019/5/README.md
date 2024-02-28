@@ -171,7 +171,7 @@
 
 ### Calendar / Barcode
 
-*   [CalendarView (⭐571)](https://github.com/mmick66/CalendarView) - Calendar Component, It features both vertical and horizontal layout (and scrolling) and the display of native calendar events.
+*   [CalendarView (⭐582)](https://github.com/mmick66/CalendarView) - Calendar Component, It features both vertical and horizontal layout (and scrolling) and the display of native calendar events.
 
 ### UITableView / Barcode
 
@@ -419,7 +419,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [ThunderGBM (⭐684)](https://github.com/Xtra-Computing/thundergbm) - A fast library for GBDTs and Random Forests on GPUs.
+*   [ThunderGBM (⭐685)](https://github.com/Xtra-Computing/thundergbm) - A fast library for GBDTs and Random Forests on GPUs.
 
 ## [25. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Utility / Barcode
 
-*   [SwiftyUtils (⭐543)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
+*   [SwiftyUtils (⭐546)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
 
 ## [2. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 

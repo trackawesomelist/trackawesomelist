@@ -271,7 +271,7 @@
 
 ### UI / Barcode
 
-*   [FlexibleHeader (⭐70)](https://github.com/k-lpmg/FlexibleHeader) - A container view that responds to scrolling of UIScrollView.
+*   [FlexibleHeader (⭐71)](https://github.com/k-lpmg/FlexibleHeader) - A container view that responds to scrolling of UIScrollView.
 *   [OverlayContainer (⭐1.1k)](https://github.com/applidium/OverlayContainer) - OverlayContainer makes it easier to develop overlay based interfaces, such as the one presented in the Apple Maps or Stocks apps.
 
 ### Alert / Barcode
@@ -686,35 +686,35 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Neuraxle (⭐594)](https://github.com/Neuraxio/Neuraxle): A framework providing the right abstractions to ease research, development, and deployment of your ML pipelines.
+*   [Neuraxle (⭐595)](https://github.com/Neuraxio/Neuraxle): A framework providing the right abstractions to ease research, development, and deployment of your ML pipelines.
 
 ### Go / Natural Language Processing
 
-*   [go-ngram (⭐111)](https://github.com/Lazin/go-ngram) - In-memory n-gram index with compression. *\[Deprecated]*
+*   [go-ngram (⭐112)](https://github.com/Lazin/go-ngram) - In-memory n-gram index with compression. *\[Deprecated]*
 *   [paicehusk (⭐29)](https://github.com/Rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm. *\[Deprecated]*
-*   [go-porterstemmer (⭐189)](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming algorithm. **\[Deprecated]**
+*   [go-porterstemmer (⭐190)](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming algorithm. **\[Deprecated]**
 
 ### Go / General-Purpose Machine Learning
 
 *   [birdland (⭐45)](https://github.com/rlouf/birdland) - A recommendation library in Go.
-*   [leaves (⭐399)](https://github.com/dmitryikh/leaves) - A pure Go implementation of the prediction part of GBRTs, including XGBoost and LightGBM.
+*   [leaves (⭐402)](https://github.com/dmitryikh/leaves) - A pure Go implementation of the prediction part of GBRTs, including XGBoost and LightGBM.
 *   [go-ml-transpiler](https://github.com/znly/go-ml-transpiler) - An open source Go transpiler for machine learning models.
 *   [golearn (⭐9.1k)](https://github.com/sjwhitworth/golearn) - Machine learning for Go.
 *   [goml (⭐1.5k)](https://github.com/cdipaolo/goml) - Machine learning library written in pure Go.
-*   [gorgonia (⭐5.2k)](https://github.com/gorgonia/gorgonia) - Deep learning in Go.
+*   [gorgonia (⭐5.3k)](https://github.com/gorgonia/gorgonia) - Deep learning in Go.
 *   [therfoo (⭐18)](https://github.com/therfoo/therfoo) - An embedded deep learning library for Go.
 *   [neat (⭐69)](https://github.com/jinyeom/neat) - Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (NEAT). **\[Deprecated]**
-*   [GoNN (⭐356)](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN. **\[Deprecated]**
+*   [GoNN (⭐357)](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN. **\[Deprecated]**
 *   [go-dnn (⭐5)](https://github.com/sudachen/go-dnn) - Deep Neural Networks for Golang (powered by MXNet)
 
 ### Go / Spatial analysis and geometry
 
-*   [go-geom (⭐748)](https://github.com/twpayne/go-geom) - Go library to handle geometries.
+*   [go-geom (⭐761)](https://github.com/twpayne/go-geom) - Go library to handle geometries.
 *   [gogeo (⭐1.6k)](https://github.com/golang/geo) - Spherical geometry in Go.
 
 ### Go / Data Analysis / Data Visualization
 
-*   [gota (⭐2.8k)](https://github.com/go-gota/gota) - Dataframes.
+*   [gota (⭐2.9k)](https://github.com/go-gota/gota) - Dataframes.
 *   [gonum/mat](https://godoc.org/gonum.org/v1/gonum/mat) - A linear algebra package for Go.
 *   [gonum/optimize](https://godoc.org/gonum.org/v1/gonum/optimize) - Implementations of optimization algorithms.
 *   [gonum/plot](https://godoc.org/gonum.org/v1/plot) - A plotting library.
@@ -726,7 +726,7 @@
 
 ### Credits / Misc
 
-*   References for Go were mostly cut-and-pasted from [gopherdata (⭐844)](https://github.com/gopherdata/resources/tree/master/tooling)
+*   References for Go were mostly cut-and-pasted from [gopherdata (⭐850)](https://github.com/gopherdata/resources/tree/master/tooling)
 
 ---
 

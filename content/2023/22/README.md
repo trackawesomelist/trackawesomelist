@@ -268,7 +268,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Tools / Misc
 
-*   [Ambrosia (⭐106)](https://github.com/reactorsh/ambrosia) - Ambrosia helps you clean up your LLM datasets using *other* LLMs.
+*   [Ambrosia (⭐108)](https://github.com/reactorsh/ambrosia) - Ambrosia helps you clean up your LLM datasets using *other* LLMs.
 
 ## [29. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 

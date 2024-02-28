@@ -125,7 +125,7 @@
 
 ### Python / Visualization
 
-*   [finplot (⭐809)](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python.
+*   [finplot (⭐811)](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python.
 
 ## [9. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 

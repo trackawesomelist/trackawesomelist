@@ -118,15 +118,15 @@
 
 ### Packages / Command-line utilities
 
-*   [terminal-size (⭐135)](https://github.com/sindresorhus/terminal-size) - Reliably get the terminal window size.
+*   [terminal-size (⭐136)](https://github.com/sindresorhus/terminal-size) - Reliably get the terminal window size.
 
 ### Packages / Image
 
-*   [image-dimensions (⭐325)](https://github.com/sindresorhus/image-dimensions) - Get the dimensions of an image.
+*   [image-dimensions (⭐341)](https://github.com/sindresorhus/image-dimensions) - Get the dimensions of an image.
 
 ### Packages / Miscellaneous
 
-*   [uint8array-extras (⭐167)](https://github.com/sindresorhus/uint8array-extras) - Useful utilities for working with Uint8Array and Buffer.
+*   [uint8array-extras (⭐183)](https://github.com/sindresorhus/uint8array-extras) - Useful utilities for working with Uint8Array and Buffer.
 
 ## [8. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 

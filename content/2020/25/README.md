@@ -632,15 +632,15 @@ Language: English
 
 ### Other Awesome Lists
 
-*   [open-source-mac-os-apps (⭐37k)](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
+*   [open-source-mac-os-apps (⭐39k)](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
 
 ### AI
 
-*   [DL4S (⭐96)](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
+*   [DL4S (⭐99)](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
 
 ### UI / Barcode
 
-*   [ContainerController (⭐442)](https://github.com/mrustaa/ContainerController) - UI Component. This is a copy swipe-panel from app: Apple Maps, Stocks
+*   [ContainerController (⭐461)](https://github.com/mrustaa/ContainerController) - UI Component. This is a copy swipe-panel from app: Apple Maps, Stocks
 
 ## [48. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
@@ -900,7 +900,7 @@ Language: English
 
 ### Extensions
 
-*   [next-img (⭐245)](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
+*   [next-img (⭐272)](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
 
 ## [63. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 

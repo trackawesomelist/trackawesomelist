@@ -10,7 +10,7 @@
 
 ### Calendar / Barcode
 
-*   [KVKCalendar (⭐463)](https://github.com/kvyatkovskys/KVKCalendar) - A most fully customization calendar for Apple platforms 📅
+*   [KVKCalendar (⭐484)](https://github.com/kvyatkovskys/KVKCalendar) - A most fully customization calendar for Apple platforms 📅
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

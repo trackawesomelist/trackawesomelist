@@ -100,7 +100,7 @@
 ### Packages / Mad science
 
 *   [webtorrent (⭐29k)](https://github.com/webtorrent/webtorrent) - Streaming torrent client for Node.js and the browser.
-*   [PDFKit (⭐9.2k)](https://github.com/foliojs/pdfkit) - PDF generation library.
+*   [PDFKit (⭐9.4k)](https://github.com/foliojs/pdfkit) - PDF generation library.
 *   [xlsx (⭐34k)](https://github.com/SheetJS/sheetjs) - Pure JS Excel spreadsheet reader and writer.
 
 ### Packages / Command-line apps
@@ -109,7 +109,7 @@
 *   [pen (⭐328)](https://github.com/hatashiro/pen) - Live Markdown preview in the browser from your favorite editor.
 *   [trymodule (⭐1.1k)](https://github.com/victorb/trymodule) - Try out npm packages in the terminal.
 *   [themer (⭐5.3k)](https://github.com/themerdev/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more.
-*   [taskbook (⭐8.8k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
+*   [taskbook (⭐8.9k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 
 ### Packages / Functional programming
 
@@ -126,7 +126,7 @@
 
 ### Packages / Logging
 
-*   [consola (⭐5.1k)](https://github.com/unjs/consola) - Console logger.
+*   [consola (⭐5.4k)](https://github.com/unjs/consola) - Console logger.
 
 ### Packages / Command-line utilities
 
@@ -138,7 +138,7 @@
 
 ### Packages / Hardware
 
-*   [serialport (⭐5.6k)](https://github.com/serialport/node-serialport) - Access serial ports for reading and writing.
+*   [serialport (⭐5.7k)](https://github.com/serialport/node-serialport) - Access serial ports for reading and writing.
 *   [usb (⭐1.5k)](https://github.com/node-usb/node-usb) - USB library.
 
 ### Packages / Templating
@@ -147,7 +147,7 @@
 
 ### Packages / Web frameworks
 
-*   [Next.js (⭐116k)](https://github.com/vercel/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
+*   [Next.js (⭐119k)](https://github.com/vercel/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
 *   [Micro (⭐11k)](https://github.com/vercel/micro) - Minimalistic microservice framework with an async approach.
 *   [LoopBack (⭐4.7k)](https://github.com/loopbackio/loopback-next) - Powerful framework for creating REST APIs and easily connecting to backend data sources.
 *   [TypeGraphQL (⭐7.9k)](https://github.com/MichalLytek/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators.
@@ -156,42 +156,42 @@
 
 ### Packages / Documentation
 
-*   [JSDoc (⭐14k)](https://github.com/jsdoc/jsdoc) - API documentation generator similar to JavaDoc or PHPDoc.
+*   [JSDoc (⭐15k)](https://github.com/jsdoc/jsdoc) - API documentation generator similar to JavaDoc or PHPDoc.
 
 ### Packages / Filesystem
 
-*   [proper-lockfile (⭐224)](https://github.com/moxystudio/node-proper-lockfile) - Inter-process and inter-machine lockfile utility.
+*   [proper-lockfile (⭐225)](https://github.com/moxystudio/node-proper-lockfile) - Inter-process and inter-machine lockfile utility.
 
 ### Packages / Real-time
 
-*   [µWebSockets (⭐16k)](https://github.com/uNetworking/uWebSockets) - Highly scalable WebSocket server & client library.
+*   [µWebSockets (⭐17k)](https://github.com/uNetworking/uWebSockets) - Highly scalable WebSocket server & client library.
 *   [Aedes (⭐1.7k)](https://github.com/moscajs/aedes) - Barebone MQTT server that can run on any stream server.
 
 ### Packages / URL
 
-*   [humanize-url (⭐244)](https://github.com/sindresorhus/humanize-url) - Humanize a URL: <https://sindresorhus.com> → sindresorhus.com.
+*   [humanize-url (⭐245)](https://github.com/sindresorhus/humanize-url) - Humanize a URL: <https://sindresorhus.com> → sindresorhus.com.
 
 ### Packages / Data validation
 
-*   [joi (⭐20k)](https://github.com/sideway/joi) - Object schema description language and validator for JavaScript objects.
-*   [schema-inspector (⭐501)](https://github.com/schema-inspector/schema-inspector) - JSON API sanitization and validation.
+*   [joi (⭐21k)](https://github.com/sideway/joi) - Object schema description language and validator for JavaScript objects.
+*   [schema-inspector (⭐502)](https://github.com/schema-inspector/schema-inspector) - JSON API sanitization and validation.
 *   [ajv (⭐13k)](https://github.com/ajv-validator/ajv) - The fastest JSON Schema validator. Supports v5, v6 and v7 proposals.
 
 ### Packages / Parsing
 
-*   [remark (⭐7k)](https://github.com/remarkjs/remark) - Markdown processor powered by plugins.
+*   [remark (⭐7.1k)](https://github.com/remarkjs/remark) - Markdown processor powered by plugins.
 *   [x-ray (⭐5.8k)](https://github.com/matthewmueller/x-ray) - Web scraping utility.
 *   [nearley (⭐3.5k)](https://github.com/kach/nearley) - Simple, fast, powerful parsing for JavaScript.
 *   [google-libphonenumber (⭐1.3k)](https://github.com/ruimarinho/google-libphonenumber) - Parse, format, store and validate phone numbers.
 
 ### Packages / Humanize
 
-*   [ms (⭐4.8k)](https://github.com/vercel/ms) - Tiny millisecond conversion utility.
+*   [ms (⭐4.9k)](https://github.com/vercel/ms) - Tiny millisecond conversion utility.
 
 ### Packages / Database
 
 *   Query builder
-    *   [Knex (⭐18k)](https://github.com/knex/knex) - Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
+    *   [Knex (⭐19k)](https://github.com/knex/knex) - Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 
 ### Packages / Testing
 
@@ -214,7 +214,7 @@
 
 ### Packages / Job queues
 
-*   [agenda (⭐9.1k)](https://github.com/agenda/agenda) - MongoDB-backed job scheduling.
+*   [agenda (⭐9.2k)](https://github.com/agenda/agenda) - MongoDB-backed job scheduling.
 *   [node-resque (⭐1.3k)](https://github.com/actionhero/node-resque) - Redis-backed job queue.
 
 ### Packages / Natural language processing
@@ -232,7 +232,7 @@
 ### Packages / Content management systems
 
 *   [Factor (⭐1.4k)](https://github.com/FactorJS/factor) - Vue.js dashboard framework and headless CMS.
-*   [AdminBro (⭐7.6k)](https://github.com/SoftwareBrothers/adminjs) - Auto-generated admin panel with CRUD for all your resources.
+*   [AdminBro (⭐7.8k)](https://github.com/SoftwareBrothers/adminjs) - Auto-generated admin panel with CRUD for all your resources.
 
 ### Packages / Serialization
 
@@ -244,7 +244,7 @@
 
 ### Resources / Tutorials
 
-*   [Node.js Best Practices (⭐94k)](https://github.com/goldbergyoni/nodebestpractices) - Summary and curation of the top-ranked content on Node.js best practices, available in multiple languages.
+*   [Node.js Best Practices (⭐95k)](https://github.com/goldbergyoni/nodebestpractices) - Summary and curation of the top-ranked content on Node.js best practices, available in multiple languages.
 *   [Portable Node.js guide (⭐1.4k)](https://github.com/ehmicky/cross-platform-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
 
 ### Resources / Newsletters
@@ -284,7 +284,7 @@
 ### Resources / Miscellaneous
 
 *   [nodebots](https://nodebots.io) - Robots powered by JavaScript.
-*   [Module Requests & Ideas (⭐541)](https://github.com/sindresorhus/project-ideas) - Request a JavaScript module you wish existed or get ideas for modules.
+*   [Module Requests & Ideas (⭐540)](https://github.com/sindresorhus/project-ideas) - Request a JavaScript module you wish existed or get ideas for modules.
 
 ## [13. Public Apis](/content/public-apis/public-apis/README.md)
 

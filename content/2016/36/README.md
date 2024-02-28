@@ -221,7 +221,7 @@
 
 ### Learn to Learn
 
-*   [Understanding Mathematics (⭐992)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐996)](https://github.com/nelson-brochado/understanding-math)
 
 ## [24. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 

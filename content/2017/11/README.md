@@ -315,7 +315,7 @@
 
 ### Packages / Parsing
 
-*   [xlsx-populate (⭐908)](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
+*   [xlsx-populate (⭐917)](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
 
 ## [27. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 

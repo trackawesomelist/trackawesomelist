@@ -206,9 +206,9 @@
 
 *   [Broaden the scope of the SUT](https://jlottosen.wordpress.com/2019/04/20/broaden-the-scope-of-sut/) - Understanding how test strategies are based on the underlying landscape. Apr 19, 2019
 
-### Apps / Mapping
+### Mapping
 
-*   [OnlineWardleyMaps (⭐207)](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
+*   [OnlineWardleyMaps (⭐220)](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 
 ## [24. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 

@@ -676,7 +676,7 @@ Language: English
 
 ### Ruby / General-Purpose Machine Learning
 
-*   [rumale (⭐724)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
+*   [rumale (⭐725)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
 
 ## [34. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -1126,11 +1126,11 @@ Language: English
 
 ### Packages / Documentation
 
-*   [Docusaurus (⭐50k)](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
+*   [Docusaurus (⭐52k)](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
 
 ### Packages / Miscellaneous
 
-*   [patch-package (⭐9.6k)](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
+*   [patch-package (⭐9.8k)](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
 
 ## [59. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 

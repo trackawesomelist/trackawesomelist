@@ -40,7 +40,7 @@
 
 ### Concurrency
 
-*   [SwiftCoroutine (⭐827)](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
+*   [SwiftCoroutine (⭐830)](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 

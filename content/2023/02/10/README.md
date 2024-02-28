@@ -39,7 +39,7 @@
 
 ### Quality / Barcode
 
-*   [L10nLint (⭐38)](https://github.com/s2mr/L10nLint) - A linter tool for Localizable.strings.
+*   [L10nLint (⭐41)](https://github.com/s2mr/L10nLint) - A linter tool for Localizable.strings.
 
 ## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 

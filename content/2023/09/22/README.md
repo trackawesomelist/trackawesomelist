@@ -74,7 +74,7 @@
 
 ### Utility / Barcode
 
-*   [SwiftAutoGUI (⭐25)](https://github.com/NakaokaRei/SwiftAutoGUI) - Used to programmatically control the mouse & keyboard. A library for manipulating macOS with Swift.
+*   [SwiftAutoGUI (⭐28)](https://github.com/NakaokaRei/SwiftAutoGUI) - Used to programmatically control the mouse & keyboard. A library for manipulating macOS with Swift.
 
 ## [6. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 

@@ -212,7 +212,7 @@
 
 ### Scala / Data Analysis / Data Visualization
 
-*   [Hydrosphere Mist (⭐325)](https://github.com/Hydrospheredata/mist) - a service for deployment Apache Spark MLLib machine learning models as realtime, batch or reactive web services.
+*   [Hydrosphere Mist (⭐326)](https://github.com/Hydrospheredata/mist) - a service for deployment Apache Spark MLLib machine learning models as realtime, batch or reactive web services.
 
 ## [14. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 

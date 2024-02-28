@@ -353,8 +353,8 @@ git blame <file-name>
 
 ### Packages / Command-line apps
 
-*   [jscpd (⭐3.3k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
-*   [atmo (⭐816)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
+*   [jscpd (⭐4.4k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
+*   [atmo (⭐818)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 
 ## [35. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -499,7 +499,7 @@ git blame <file-name>
 
 ### Images / Barcode
 
-*   [Moa (⭐333)](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
+*   [Moa (⭐334)](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
 
 ### Utility / Barcode
 

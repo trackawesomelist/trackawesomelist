@@ -192,7 +192,7 @@
 
 ### Packages / Command-line apps
 
-*   [XO (⭐7.4k)](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
+*   [XO (⭐7.5k)](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
 
 ## [25. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -238,8 +238,8 @@
 
 ### Extensions
 
-*   [Next Plugin Graphql (⭐55)](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
-*   [Next With Apollo (⭐767)](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
+*   [Next Plugin Graphql (⭐56)](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
+*   [Next With Apollo (⭐765)](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
 
 ## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -341,7 +341,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Parris (⭐318)](https://github.com/jgreenemi/Parris) - Parris, the automated infrastructure setup tool for machine learning algorithms.
+*   [Parris (⭐317)](https://github.com/jgreenemi/Parris) - Parris, the automated infrastructure setup tool for machine learning algorithms.
 
 ## [41. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

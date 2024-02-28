@@ -279,7 +279,7 @@
 
 ### Auto Layout / Barcode
 
-*   [Swiftstraints (⭐119)](https://github.com/Skyvive/Swiftstraints) - Powerful auto-layout framework that lets you write constraints in one line of code.
+*   [Swiftstraints (⭐121)](https://github.com/Skyvive/Swiftstraints) - Powerful auto-layout framework that lets you write constraints in one line of code.
 
 ### Testing / Barcode
 

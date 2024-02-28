@@ -2934,7 +2934,7 @@
 
 ### Augmented Reality
 
-*   [ARKit-Navigation (⭐302)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
+*   [ARKit-Navigation (⭐311)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
 
 ### Date
 
@@ -2946,7 +2946,7 @@
 
 ### Testing / Barcode
 
-*   [Nimble (⭐4.7k)](https://github.com/Quick/Nimble) - A matcher framework.
+*   [Nimble (⭐4.8k)](https://github.com/Quick/Nimble) - A matcher framework.
 
 ### Alert / Barcode
 

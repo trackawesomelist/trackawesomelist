@@ -27,7 +27,7 @@
 
 ## [4. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
-### Apps / Mapping
+### Mapping
 
 *   [Wardley Maps for Jupyter Notebooks (ipywardley) (⭐19)](https://github.com/anjackson/ipywardley) - A plugin for generating Wardley maps in Jupyter Notebooks.
 
@@ -43,7 +43,7 @@
 
 ### Pagination / Barcode
 
-*   [iPages (⭐168)](https://github.com/benjaminsage/iPages) - Quickly implement swipable page views in SwiftUI 📝.
+*   [iPages (⭐171)](https://github.com/benjaminsage/iPages) - Quickly implement swipable page views in SwiftUI 📝.
 
 ## [7. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 

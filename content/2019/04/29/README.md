@@ -52,7 +52,7 @@
 
 ### Packages / Command-line apps
 
-*   [npm-name (⭐166)](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm.
+*   [npm-name (⭐167)](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm.
 
 ### Packages / Date
 
@@ -60,7 +60,7 @@
 
 ### Packages / Job queues
 
-*   [RedisSMQ (⭐557)](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
+*   [RedisSMQ (⭐565)](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
 
 ### Packages / Natural language processing
 

@@ -10,7 +10,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [oneDNN (⭐3.3k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications.
+*   [oneDNN (⭐3.4k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications.
 
 ## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 

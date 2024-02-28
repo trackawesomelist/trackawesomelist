@@ -72,13 +72,9 @@
 
 *   [swift-algorithm-club (⭐28k)](https://github.com/kodecocodes/swift-algorithm-club) - Algorithms and data structures, with explanations.
 
-### Chart
-
-*   [SwiftCharts (⭐2.5k)](https://github.com/ivanschuetz/SwiftCharts) - Highly customizable charts for iOS.
-
 ### MongoDB
 
-*   [MongoKitten (⭐677)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
+*   [MongoKitten (⭐688)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
 
 ### Realm
 
@@ -86,11 +82,11 @@
 
 ### Documentation
 
-*   [SourceDocs (⭐364)](https://github.com/SourceDocs/SourceDocs) - Generate Markdown reference documentation that lives with your code.
+*   [SourceDocs (⭐370)](https://github.com/SourceDocs/SourceDocs) - Generate Markdown reference documentation that lives with your code.
 
 ### Events
 
-*   [OneWay (⭐64)](https://github.com/DevYeom/OneWay) - State management with unidirectional data flow.
+*   [OneWay (⭐72)](https://github.com/DevYeom/OneWay) - State management with unidirectional data flow.
 
 ### Fonts
 

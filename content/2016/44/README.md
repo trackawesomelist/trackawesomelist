@@ -417,13 +417,13 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 ### API
 
-*   [SwiftlySalesforce (⭐133)](https://github.com/mike4aday/SwiftlySalesforce) - Framework for rapid development of native iOS apps that integrate with Salesforce.
+*   [SwiftlySalesforce (⭐134)](https://github.com/mike4aday/SwiftlySalesforce) - Framework for rapid development of native iOS apps that integrate with Salesforce.
 
 ### Core Data
 
 *   [CoreStore (⭐3.9k)](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle Core Data.
 *   [DataKernel (⭐17)](https://github.com/mrdekk/DataKernel) - DataKernel is a minimalistic wrapper around Core Data stack to ease persistence operations. No external dependencies.
-*   [Graph (⭐874)](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for Core Data.
+*   [Graph (⭐873)](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for Core Data.
 *   [QueryKit (⭐1.5k)](https://github.com/QueryKit/QueryKit) - An easy way to play with Core Data filtering.
 
 ### Gesture
@@ -432,11 +432,11 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 ### UI / Barcode
 
-*   [AECoreDataUI (⭐303)](https://github.com/tadija/AERecord) - Core Data driven UI.
+*   [AECoreDataUI (⭐302)](https://github.com/tadija/AERecord) - Core Data driven UI.
 
 ### TextField / Barcode
 
-*   [SkyFloatingLabelTextField (⭐4k)](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of "Float Label Pattern".
+*   [SkyFloatingLabelTextField (⭐4.1k)](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of "Float Label Pattern".
 
 ## [34. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 

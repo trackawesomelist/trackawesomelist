@@ -62,7 +62,7 @@
 
 ### Applications
 
-*   [Vdo.Ninja (⭐2.2k)](https://github.com/steveseguin/vdo.ninja): 100% free; no downloads; no personal data collection; no sign-in, cutting edge Peer-to-Peer forwarding technology that offers privacy and ultra-low latency
+*   [Vdo.Ninja (⭐2.5k)](https://github.com/steveseguin/vdo.ninja): 100% free; no downloads; no personal data collection; no sign-in, cutting edge Peer-to-Peer forwarding technology that offers privacy and ultra-low latency
 
 ## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 

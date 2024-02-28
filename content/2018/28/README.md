@@ -182,7 +182,7 @@ Webpage: <https://yoghut.com/>
 
 ### Animation
 
-*   [Sica (⭐1.1k)](https://github.com/cats-oss/Sica) - Simple Interface Core Animation. Run type-safe animation sequencially or parallelly.
+*   [Sica (⭐1k)](https://github.com/cats-oss/Sica) - Simple Interface Core Animation. Run type-safe animation sequencially or parallelly.
 
 ### TextField / Barcode
 
@@ -198,7 +198,7 @@ Webpage: <https://yoghut.com/>
 
 ### Extensions
 
-*   [Next SEO (⭐6.9k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
+*   [Next SEO (⭐7.2k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
 
 ## [24. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 

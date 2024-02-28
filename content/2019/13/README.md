@@ -61,7 +61,7 @@
 
 ### Device
 
-*   [DeviceKit (⭐4.2k)](https://github.com/devicekit/DeviceKit) - DeviceKit is a value-type replacement of UIDevice.
+*   [DeviceKit (⭐4.3k)](https://github.com/devicekit/DeviceKit) - DeviceKit is a value-type replacement of UIDevice.
 
 ### Styling / Barcode
 
@@ -70,7 +70,7 @@
 ### Text / Barcode
 
 *   [BonMot (⭐3.5k)](https://github.com/Rightpoint/BonMot) - Beautiful, easy attributed strings for iOS.
-*   [VEditorKit (⭐480)](https://github.com/GeekTree0101/VEditorKit) - Lightweight and Powerful Editor Kit.
+*   [VEditorKit (⭐485)](https://github.com/GeekTree0101/VEditorKit) - Lightweight and Powerful Editor Kit.
 
 ### Label / Barcode
 
@@ -815,7 +815,7 @@ Topics: Chrome DevTools, Performance\
 
 ### Python / General-Purpose Machine Learning
 
-*   [StellarGraph (⭐2.8k)](https://github.com/stellargraph/stellargraph): Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
+*   [StellarGraph (⭐2.9k)](https://github.com/stellargraph/stellargraph): Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
 
 ## [30. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 

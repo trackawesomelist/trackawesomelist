@@ -67,7 +67,7 @@
 
 ## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
-### Apps / Mapping
+### Mapping
 
 *   [Go-Wardley (⭐30)](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
 

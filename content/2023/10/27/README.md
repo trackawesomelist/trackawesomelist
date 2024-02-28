@@ -53,7 +53,7 @@
 
 ### Alert / Barcode
 
-*   [MijickPopupView (⭐472)](https://github.com/Mijick/PopupView) - Present any popup in no time. Keep your code clean.
+*   [MijickPopupView (⭐620)](https://github.com/Mijick/PopupView) - Present any popup in no time. Keep your code clean.
 
 ## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

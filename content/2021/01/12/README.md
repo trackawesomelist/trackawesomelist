@@ -48,7 +48,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Gradio (⭐26k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
+*   [Gradio (⭐27k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
 
 ## [7. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 

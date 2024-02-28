@@ -62,10 +62,6 @@
 
 ## [7. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
-### Artificial Intelligence (AI)
-
-*   [thrive](https://thriveml.com) - Jobs at Top AI Companies and Startups
-
 ### Finance
 
 *   [OpenQuant](https://openquant.co) - Find the best jobs in Quantitative Finance

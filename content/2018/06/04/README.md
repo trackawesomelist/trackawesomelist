@@ -32,11 +32,11 @@
 
 ### UI / Barcode
 
-*   [Family (⭐250)](https://github.com/zenangst/Family) - A child view controller framework that makes setting up your parent controllers as easy as pie.
+*   [Family (⭐249)](https://github.com/zenangst/Family) - A child view controller framework that makes setting up your parent controllers as easy as pie.
 
 ### Utility / Barcode
 
-*   [Differific (⭐124)](https://github.com/zenangst/Differific) - A fast and convenient diffing framework.
+*   [Differific (⭐123)](https://github.com/zenangst/Differific) - A fast and convenient diffing framework.
 
 ## [5. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/README.md)
 

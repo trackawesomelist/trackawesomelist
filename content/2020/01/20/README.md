@@ -119,9 +119,9 @@
 
 ## [16. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
-### Workshops / Doctrine Assessement
+### Workshops / ChatGPT
 
-*   [Wardley Maps Battle Camp (⭐43)](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
+*   [Wardley Maps Battle Camp (⭐45)](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
 
 ## [17. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

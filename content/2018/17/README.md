@@ -206,7 +206,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Network / Barcode
 
-*   [Dots (⭐39)](https://github.com/iAmrSalman/Dots) - Lightweight Concurrent Networking Framework.
+*   [Dots (⭐38)](https://github.com/iAmrSalman/Dots) - Lightweight Concurrent Networking Framework.
 
 ### Menu / Barcode
 

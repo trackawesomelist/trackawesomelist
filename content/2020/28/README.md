@@ -408,8 +408,8 @@ Language: English
 
 ### Examples
 
-*   [kopach/karma-sabarivka-reporter (⭐49)](https://github.com/kopach/karma-sabarivka-reporter#readme) - Project logo. Useful badges, clear readme with screenshots for quick demo. Concise ToC.
-*   [Stack-in-a-box/triumphmayflowerclub.com (⭐5)](https://github.com/Stack-in-a-box/triumphmayflowerclub.com#readme) - Stands-out because, while only a simple website, it is presented as a very open project for lesser-experienced developers to cut their teeth on, with a friendly, inclusive tone and accessible set-up instructions. Includes many common elements found in other beautiful READMEs.
+*   [kopach/karma-sabarivka-reporter (⭐50)](https://github.com/kopach/karma-sabarivka-reporter#readme) - Project logo. Useful badges, clear readme with screenshots for quick demo. Concise ToC.
+*   [Stack-in-a-box/triumphmayflowerclub.com (⭐6)](https://github.com/Stack-in-a-box/triumphmayflowerclub.com#readme) - Stands-out because, while only a simple website, it is presented as a very open project for lesser-experienced developers to cut their teeth on, with a friendly, inclusive tone and accessible set-up instructions. Includes many common elements found in other beautiful READMEs.
 
 ## [23. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
@@ -485,7 +485,7 @@ Language: English
 
 *   [Responsively App](https://responsively.app) - A free dev tool for faster and more precise responsive web application development.
 *   [SceneLab](https://scenelab.io) - Online mockup graphics editor with an ever-expanding collection of free design templates
-*   [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin, and more (free and open source at [https://github.com/xlayers/xlayers (⭐811)](https://github.com/xlayers/xlayers))
+*   [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin, and more (free and open source at [https://github.com/xlayers/xlayers (⭐813)](https://github.com/xlayers/xlayers))
 
 ## [32. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
@@ -729,6 +729,15 @@ Language: English
 
 ## [42. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
+### Audio
+
+*   [FDWaveformView (⭐1.2k)](https://github.com/fulldecent/FDWaveformView) - An easy way to display an audio waveform in your app.
+*   [FDSoundActivatedRecorder (⭐284)](https://github.com/fulldecent/FDSoundActivatedRecorder) - Start recording when the user speaks.
+
+### UITableView / Barcode
+
+*   [FDTextFieldTableViewCell (⭐26)](https://github.com/fulldecent/FDTextFieldTableViewCell) - Adds a UITextField to the cell and places it correctly.
+
 ### Games
 
 *   [FDChessboardView (⭐77)](https://github.com/fulldecent/FDChessboardView) - A view controller for chess boards
@@ -742,15 +751,6 @@ Language: English
 *   [FDBarGauge (⭐26)](https://github.com/fulldecent/FDBarGauge) - Simulate the level indicator on an audio mixing board
 
 ## [43. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
-
-### Audio
-
-*   [FDSoundActivatedRecorder (⭐283)](https://github.com/fulldecent/FDSoundActivatedRecorder) - Start recording when the user speaks.
-*   [FDWaveformView (⭐1.2k)](https://github.com/fulldecent/FDWaveformView) - An easy way to display an audio waveform in your app, including animation.
-
-### Form & Settings
-
-*   [FDTextFieldTableViewCell (⭐26)](https://github.com/fulldecent/FDTextFieldTableViewCell) - Adds a UITextField to the cell and places it correctly.
 
 ### Project setup / Collection View Layout
 
@@ -829,7 +829,7 @@ Language: English
 
 ## [52. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
-### Apps / Mapping
+### Mapping
 
 *   [Go-Wardley (⭐30)](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
 

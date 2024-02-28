@@ -34,7 +34,7 @@
 
 ### Augmented Reality
 
-*   [ARHeadsetKit (⭐114)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.
+*   [ARHeadsetKit (⭐123)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.
 
 ## [6. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 

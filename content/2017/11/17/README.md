@@ -48,7 +48,7 @@
 
 ### Packages / HTTP
 
-*   [cacheable-request (⭐280)](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
+*   [cacheable-request (⭐281)](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
 
 ## [6. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 

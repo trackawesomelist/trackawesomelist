@@ -238,10 +238,6 @@
 
 *   [MarketRemotely](https://marketremotely.com/) - Remote marketing jobs from all over the internet
 
-### Various / United Kingdom
-
-*   [Privacy-First Jobs](https://privacyfirstjobs.com/) – Jobs in privacy-first companies and organisations.
-
 ## [24. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Crates / Component Libraries

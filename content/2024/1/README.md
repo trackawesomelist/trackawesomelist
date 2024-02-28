@@ -95,12 +95,11 @@
 
 ## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
-### Tools & Scripts / AI
+### AI
 
-*   [Learn about Wardley Maps](\(https://stmemgptv2.streamlit.app/\)) - Experimental Streamlit AI Assistant bot tuned on Wardley Mapping. Using MemGPT this AI Assistant has memory is divided into three parts: recall memory, core memory, and archival memory. Full source code and data provided in the [GitHub repo (⭐8)](https://github.com/tractorjuice/STMemGPT). Recall Memory: This is my short-term memory where I keep recent interactions. Core Memory: This is where I store key details about my persona and about you, the user. This gives me a 'personality' and allows for more personalized conversation. Archival Memory: This is my long-term memory where I store information that doesn't fit into core memory but is essential to remember. It's infinite in size, and I usually page through it to find answers to your questions. These parts work together to help the AI Assistant remember prior engagements, learn from them, and refer back when needed.
 *   [Learn Wardley Mapping Bot](https://learnwardleymapping.streamlit.app/) - Learn Wardley Mapping by chatting to a specially configured bot.
 
-### Tools & Scripts / Development
+### Development
 
 *   [Join the Wardley AI Development Group on X/Twitter](https://twitter.com/i/communities/1670015410542985218)
 
@@ -108,7 +107,7 @@
 
 ### Programming / Rust
 
-*   [Rust Jobs](https://www.rustjobs.com)
+*   [Rust Jobs](https://www.rustjobs.com) - A job board dedicated to the Rust programming language
 
 ### Remote / Aggregator
 
@@ -423,7 +422,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [skfolio (⭐747)](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn. It provides a unified interface and sklearn compatible tools to build, tune and cross-validate portfolio models.
+*   [skfolio (⭐801)](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn. It provides a unified interface and sklearn compatible tools to build, tune and cross-validate portfolio models.
 
 ## [32. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 

@@ -34,7 +34,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [einops (⭐7.6k)](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others).
+*   [einops (⭐7.7k)](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others).
 
 ## [6. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -297,7 +297,7 @@
 
 ### App Store
 
-*   [AppReview (⭐74)](https://github.com/mezhevikin/AppReview) - A tiny library to request review on the AppStore via SKStoreReviewController.
+*   [AppReview (⭐91)](https://github.com/mezhevikin/AppReview) - A tiny library to request review on the AppStore via SKStoreReviewController.
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

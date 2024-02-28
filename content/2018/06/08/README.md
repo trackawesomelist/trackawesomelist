@@ -75,7 +75,7 @@
 
 ### Cache
 
-*   [Carlos (⭐641)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
+*   [Carlos (⭐642)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
 
 ## [7. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 

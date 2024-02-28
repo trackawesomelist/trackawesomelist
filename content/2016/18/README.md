@@ -484,7 +484,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 ### Utility / Barcode
 
-*   [SwiftyUtils (⭐543)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
+*   [SwiftyUtils (⭐546)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
 
 ## [37. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 

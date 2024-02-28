@@ -16,7 +16,7 @@
 
 ### Python / Data Sources
 
-*   [yahooquery (⭐704)](https://github.com/dpguthrie/yahooquery) - Python interface for retrieving data through unofficial Yahoo Finance API.
+*   [yahooquery (⭐709)](https://github.com/dpguthrie/yahooquery) - Python interface for retrieving data through unofficial Yahoo Finance API.
 
 ## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

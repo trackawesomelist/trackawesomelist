@@ -81,7 +81,7 @@
 
 ### Packages / Filesystem
 
-*   [tempy (⭐407)](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
+*   [tempy (⭐409)](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
 
 ### Packages / Security
 
@@ -89,7 +89,7 @@
 
 ### Packages / Miscellaneous
 
-*   [open (⭐3k)](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
+*   [open (⭐3.1k)](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
 
 ## [11. Awesome List](/content/sindresorhus/awesome/README.md)
 

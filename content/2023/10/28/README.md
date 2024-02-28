@@ -68,7 +68,7 @@
 
 ### Transition / Barcode
 
-*   [MijickNavigattie (⭐53)](https://github.com/Mijick/Navigattie) - Easy navigation with SwiftUI.
+*   [MijickNavigattie (⭐92)](https://github.com/Mijick/Navigattie) - Easy navigation with SwiftUI.
 
 ## [6. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 

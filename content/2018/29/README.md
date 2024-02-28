@@ -404,7 +404,7 @@
 
 ### Network / Barcode
 
-*   [Wormholy (⭐2.2k)](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard 🧙‍.
+*   [Wormholy (⭐2.3k)](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard 🧙‍.
 
 ## [34. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 

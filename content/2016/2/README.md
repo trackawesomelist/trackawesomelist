@@ -547,8 +547,8 @@ git commit --amend --reset-author --no-edit
 
 ### Packages / Command-line apps
 
-*   [mobisplash (⭐68)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
-*   [diff2html-cli (⭐476)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
+*   [mobisplash (⭐69)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
+*   [diff2html-cli (⭐483)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
 
 ### Resources / Community
 

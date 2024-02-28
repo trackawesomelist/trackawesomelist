@@ -74,11 +74,11 @@
 
 ### Alert / Barcode
 
-*   [CFNotify (⭐494)](https://github.com/JT501/CFNotify) - A customizable framework to create draggable alert views.
+*   [CFNotify (⭐495)](https://github.com/JT501/CFNotify) - A customizable framework to create draggable alert views.
 
 ### Button / Barcode
 
-*   [FloatingButton (⭐923)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
+*   [FloatingButton (⭐1k)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
 
 ### Walkthrough / Barcode
 

@@ -44,7 +44,7 @@
 
 ### UI / Barcode
 
-*   [CapturePreventionKit (⭐24)](https://github.com/Jaesung-Jung/CapturePreventionKit) - Provides `Label` and `ImageView` for `screen capture prevention`.
+*   [CapturePreventionKit (⭐25)](https://github.com/Jaesung-Jung/CapturePreventionKit) - Provides `Label` and `ImageView` for `screen capture prevention`.
 
 ## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 

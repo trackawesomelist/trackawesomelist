@@ -80,7 +80,7 @@
 
 ### Converters
 
-*   [Zolang (⭐143)](https://github.com/Zolang/Zolang) :penguin: - A DSL for generating code in multiple programming languages.
+*   [Zolang (⭐144)](https://github.com/Zolang/Zolang) :penguin: - A DSL for generating code in multiple programming languages.
 
 ### Patterns
 
@@ -88,11 +88,11 @@
 
 ### Animation
 
-*   [Elephant (⭐131)](https://github.com/s2mr/Elephant) - Elegant SVG animation kit.
+*   [Elephant (⭐134)](https://github.com/s2mr/Elephant) - Elegant SVG animation kit.
 
 ### API
 
-*   [GitHubAPI (⭐81)](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
+*   [GitHubAPI (⭐83)](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
 
 ### Multi Database
 
@@ -100,15 +100,15 @@
 
 ### XML
 
-*   [XMLCoder (⭐746)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
+*   [XMLCoder (⭐763)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
 
 ### Images / Barcode
 
-*   [FMPhotoPicker (⭐709)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
+*   [FMPhotoPicker (⭐734)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
 
 ### Layout / Barcode
 
-*   [BrickKit (⭐606)](https://github.com/wayfair-archive/brickkit-ios) - Create complex and responsive layouts in a simple way.
+*   [BrickKit (⭐604)](https://github.com/wayfair-archive/brickkit-ios) - Create complex and responsive layouts in a simple way.
 
 ### Testing / Barcode
 
@@ -117,15 +117,15 @@
 ### UI / Barcode
 
 *   [Material Components for iOS (⭐4.7k)](https://github.com/material-components/material-components-ios) - Modular and customizable Material Design UI components.
-*   [YMTreeMap (⭐127)](https://github.com/yahoo/YMTreeMap) - Treemap / Heatmap layout engine, based on Squarified.
+*   [YMTreeMap (⭐128)](https://github.com/yahoo/YMTreeMap) - Treemap / Heatmap layout engine, based on Squarified.
 
 ### UITableView / Barcode
 
-*   [OKTableViewLiaison (⭐84)](https://github.com/okcupid/OKTableViewLiaison) - Framework to help you better manage UITableViews.
+*   [OKTableViewLiaison (⭐85)](https://github.com/okcupid/OKTableViewLiaison) - Framework to help you better manage UITableViews.
 
 ### Serverless / Barcode
 
-*   [Azure Functions for Swift (⭐86)](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
+*   [Azure Functions for Swift (⭐88)](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
 
 ## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
 

@@ -113,11 +113,11 @@
 
 ### Packages / Command-line utilities
 
-*   [zx (⭐39k)](https://github.com/google/zx) - Write shell scripts JavaScript.
+*   [zx (⭐40k)](https://github.com/google/zx) - Write shell scripts JavaScript.
 
 ### Packages / Job queues
 
-*   [bullmq (⭐4.7k)](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
+*   [bullmq (⭐4.9k)](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

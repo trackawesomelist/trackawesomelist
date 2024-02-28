@@ -42,7 +42,7 @@
 
 ## [6. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
-### Workshops / Doctrine Assessement
+### Workshops / ChatGPT
 
 *   [Workshop Building Block - New Year's Eve Party (⭐15)](https://github.com/LeadingEdgeForum/faciliator-pack/blob/main/WorkshopBuildingBlock-NewYearsEveParty.md) - Help workshop participants gain confidence in mapping in a business-neutral environment.
 

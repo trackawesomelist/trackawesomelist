@@ -2940,7 +2940,7 @@
 
 ### Mock / Barcode
 
-*   [MockSwift (⭐86)](https://github.com/leoture/MockSwift) - Mock Framework that uses the power of property wrappers.
+*   [MockSwift (⭐87)](https://github.com/leoture/MockSwift) - Mock Framework that uses the power of property wrappers.
 
 ## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

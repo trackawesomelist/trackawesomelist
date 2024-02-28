@@ -22,8 +22,8 @@
 
 ### Blockchain
 
-*   [Crypto Jobs](https://www.cryptojobs.co/) - CryptoJobs.co is the web's fastest growing crypto jobs discovery platform.
-*   [Remote Web3 Jobs](https://remote3.co) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free.
+*   [Crypto Jobs](https://www.cryptojobs.co/) - CryptoJobs.co is the web's fastest growing crypto jobs discovery platform
+*   [Remote Web3 Jobs](https://remote3.co) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free
 
 ### Programming / JavaScript
 

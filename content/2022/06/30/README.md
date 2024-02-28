@@ -55,7 +55,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [dirty\_cat (⭐7)](https://github.com/dirty-cat/dirty_cat) - facilitates machine-learning on dirty, non-curated categories. It provides transformers and encoders robust to morphological variants, such as typos.
+*   [dirty\_cat (⭐8)](https://github.com/dirty-cat/dirty_cat) - facilitates machine-learning on dirty, non-curated categories. It provides transformers and encoders robust to morphological variants, such as typos.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

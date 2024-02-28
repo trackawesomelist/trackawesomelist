@@ -27,7 +27,7 @@
 
 ### Applications
 
-*   [ipfs-pinner (⭐47)](https://github.com/wabarc/ipfs-pinner): A toolkit helps upload files to IPFS pinning services such as Infura, Pinata, NFT.Storage and Web3.Storage.
+*   [ipfs-pinner (⭐54)](https://github.com/wabarc/ipfs-pinner): A toolkit helps upload files to IPFS pinning services such as Infura, Pinata, NFT.Storage and Web3.Storage.
 
 ## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -1201,7 +1201,7 @@
 
 ### Tools
 
-*   [GitHub Readme Stats (⭐61k)](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
+*   [GitHub Readme Stats (⭐63k)](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
 
 ## [44. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -1271,7 +1271,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [dtaidistance (⭐987)](https://github.com/wannesm/dtaidistance) - High performance library for time series distances (DTW) and time series clustering.
+*   [dtaidistance (⭐998)](https://github.com/wannesm/dtaidistance) - High performance library for time series distances (DTW) and time series clustering.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -1430,10 +1430,6 @@
 
 *   [Budget Zen](https://budgetzen.net) - Simple and Encrypted Budget Management.
 
-### Alternative Frontends
-
-*   [Kizie](https://kizie.co) - Cleaner, better and privacy focussed Twitter client for Web.
-
 ## [54. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Books
@@ -1458,21 +1454,20 @@
 
 ### Google Colaboratory
 
-*   [swift-colab (⭐93)](https://github.com/philipturner/swift-colab) - Run Swift in a browser.
+*   [swift-colab (⭐100)](https://github.com/philipturner/swift-colab) - Run Swift in a browser.
 
 ### Misc
 
-*   [Surmagic (⭐297)](https://github.com/gurhub/surmagic) - Create XCFrameworks with ease! A Command Line Tool to create XCFramework for multiple platforms at one shot! iOS, Mac Catalyst, tvOS, macOS, and watchOS.
-*   [xcbeautify (⭐784)](https://github.com/tuist/xcbeautify) - Little beautifier tool for xcodebuild.
+*   [Surmagic (⭐305)](https://github.com/gurhub/surmagic) - Create XCFrameworks with ease! A Command Line Tool to create XCFramework for multiple platforms at one shot! iOS, Mac Catalyst, tvOS, macOS, and watchOS.
 
 ### Location / Barcode
 
-*   [AsyncLocationKit (⭐157)](https://github.com/AsyncSwift/AsyncLocationKit) - Wrapper for Apple CoreLocation framework with Modern Concurrency Swift (async/await).
+*   [AsyncLocationKit (⭐166)](https://github.com/AsyncSwift/AsyncLocationKit) - Wrapper for Apple CoreLocation framework with Modern Concurrency Swift (async/await).
 *   [STLocationRequest (⭐639)](https://github.com/SvenTiigi/STLocationRequest) - An elegant and simple 3D Flyover Location Request Screen.
 
 ### Video / Barcode
 
-*   [YiVideoEditor (⭐108)](https://github.com/coderyi/YiVideoEditor) - a library for rotating, cropping, adding layers (watermark) and as well as adding audio (music) to the videos.
+*   [YiVideoEditor (⭐114)](https://github.com/coderyi/YiVideoEditor) - a library for rotating, cropping, adding layers (watermark) and as well as adding audio (music) to the videos.
 
 ## [57. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 

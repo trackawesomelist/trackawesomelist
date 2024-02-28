@@ -24,7 +24,7 @@
 
 ### Packages / Data validation
 
-*   [Superstruct (⭐6.7k)](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
+*   [Superstruct (⭐6.8k)](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
 
 ## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

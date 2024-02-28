@@ -648,7 +648,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Extensions
 
-*   [next-mdx-blog (⭐71)](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
+*   [next-mdx-blog (⭐72)](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
 
 ## [48. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -787,11 +787,11 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Images / Barcode
 
-*   [Rough (⭐99)](https://github.com/bakhtiyork/Rough) - Rough lets you draw in a sketchy, hand-drawn-like, style.
+*   [Rough (⭐98)](https://github.com/bakhtiyork/Rough) - Rough lets you draw in a sketchy, hand-drawn-like, style.
 
 ### System / Barcode
 
-*   [LaunchAtLogin (⭐1.4k)](https://github.com/sindresorhus/LaunchAtLogin) - Easily add 'Launch at Login' functionality to your sandboxed macOS app.
+*   [LaunchAtLogin (⭐1.5k)](https://github.com/sindresorhus/LaunchAtLogin) - Easily add 'Launch at Login' functionality to your sandboxed macOS app.
 
 ### Testing / Barcode
 
@@ -800,13 +800,13 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### UI / Barcode
 
-*   [CircularProgress (⭐545)](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app.
-*   [DockProgress (⭐1.1k)](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon.
-*   [Preferences (⭐1.3k)](https://github.com/sindresorhus/Preferences) - Add a preferences window to your macOS app in minutes.
+*   [CircularProgress (⭐548)](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app.
+*   [DockProgress (⭐1.2k)](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon.
+*   [Preferences (⭐1.4k)](https://github.com/sindresorhus/Preferences) - Add a preferences window to your macOS app in minutes.
 
 ### Walkthrough / Barcode
 
-*   [OnboardKit (⭐508)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
+*   [OnboardKit (⭐516)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
 
 ## [62. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 

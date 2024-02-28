@@ -285,7 +285,7 @@
 
 *   [Value Chains](https://design4services.com/concepts/value-chains/) - Porter Value Chain Analysis, Wardley Value Chain Analysis and Value Mapping by Tim Manning. Jul 17, 2018.
 
-### Events / Doctrine Assessement
+### Events / ChatGPT
 
 *   [Map Camp 2021](https://www.mapcamp.co.uk/) - A virtual event on October 13, 2021.
 
@@ -603,7 +603,7 @@
 ### Tools / Misc
 
 *   More tools to improve the ML lifecycle: [Catalyst (⭐3.2k)](https://github.com/catalyst-team/catalyst), [PachydermIO](https://www.pachyderm.io/). The following are GitHub-alike and targeting teams [Weights & Biases](https://www.wandb.com/), [Neptune.ai](https://neptune.ai/), [Comet.ml](https://www.comet.ml/), [Valohai.ai](https://valohai.com/), [DAGsHub](https://DAGsHub.com/).
-*   [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate is an [open source (⭐8.6k)](https://github.com/semi-technologies/weaviate) vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.
+*   [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate is an [open source (⭐8.9k)](https://github.com/semi-technologies/weaviate) vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.
 
 ## [29. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 

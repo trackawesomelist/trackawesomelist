@@ -51,7 +51,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Polyaxon (⭐3.4k)](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
+*   [Polyaxon (⭐3.5k)](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

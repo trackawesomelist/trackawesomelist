@@ -35,7 +35,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Deepchecks (⭐3.2k)](https://github.com/deepchecks/deepchecks): Validation & testing of machine learning models and data during model development, deployment, and production. This includes checks and suites related to various types of issues, such as model performance, data integrity, distribution mismatches, and more.
+*   [Deepchecks (⭐3.3k)](https://github.com/deepchecks/deepchecks): Validation & testing of machine learning models and data during model development, deployment, and production. This includes checks and suites related to various types of issues, such as model performance, data integrity, distribution mismatches, and more.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -47,7 +47,7 @@
 
 ### UI / Barcode
 
-*   [ProgressIndicatorView (⭐174)](https://github.com/exyte/ProgressIndicatorView) - A progress indicator view library written in SwiftUI.
+*   [ProgressIndicatorView (⭐198)](https://github.com/exyte/ProgressIndicatorView) - A progress indicator view library written in SwiftUI.
 
 ## [8. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 

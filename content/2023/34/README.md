@@ -465,11 +465,11 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 ### Big Data
 
-*   [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs.
+*   [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs
 
 ### Various / United Kingdom
 
-*   [ClimateTechList](https://www.climatetechlist.com/) - climate tech / green energy jobs for software engineers, PMs, & other tech professionals, live aggregator of 600 companies' job boards, updated daily.
+*   [ClimateTechList](https://www.climatetechlist.com/) - Comprehensive aggregator of 30,000+ job openings from 1,000 climate tech/clean energy companies' job boards, updated daily
 
 ## [26. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -569,10 +569,6 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 ### Resources / Protocols
 
 *   [HTTP](https://httpwg.org/specs/) - A widely used protocol that facilitates communication between web servers and clients. HTTP enables the transfer of data over the internet, making it possible for web applications to function seamlessly.
-
-### Resources / Structure and Validation
-
-*   [JSON Schema (⭐2.9k) (⭐3k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
 ## [36. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 

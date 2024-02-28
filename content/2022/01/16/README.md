@@ -10,7 +10,7 @@
 
 ### Video / Barcode
 
-*   [YiVideoEditor (⭐108)](https://github.com/coderyi/YiVideoEditor) - a library for rotating, cropping, adding layers (watermark) and as well as adding audio (music) to the videos.
+*   [YiVideoEditor (⭐114)](https://github.com/coderyi/YiVideoEditor) - a library for rotating, cropping, adding layers (watermark) and as well as adding audio (music) to the videos.
 
 ## [2. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

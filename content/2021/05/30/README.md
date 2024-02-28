@@ -61,7 +61,7 @@
 
 ### Python / Indicators
 
-*   [Tulipy (⭐89)](https://github.com/cirla/tulipy) - Financial Technical Analysis Indicator Library (Python bindings for [tulipindicators (⭐783)](https://github.com/TulipCharts/tulipindicators))
+*   [Tulipy (⭐89)](https://github.com/cirla/tulipy) - Financial Technical Analysis Indicator Library (Python bindings for [tulipindicators (⭐787)](https://github.com/TulipCharts/tulipindicators))
 
 ### Python / Trading & Backtesting
 
@@ -70,7 +70,7 @@
 
 ### Python / Time Series
 
-*   [tsmoothie (⭐683)](https://github.com/cerlymarco/tsmoothie) - A python library for time-series smoothing and outlier detection in a vectorized way.
+*   [tsmoothie (⭐691)](https://github.com/cerlymarco/tsmoothie) - A python library for time-series smoothing and outlier detection in a vectorized way.
 
 ### Python / Data Sources
 

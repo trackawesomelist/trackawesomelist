@@ -10,7 +10,7 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Quant-Finance-With-Python-Code (⭐42)](https://github.com/lingyixu/Quant-Finance-With-Python-Code) - Repo for code examples in Quantitative Finance with Python by Chris Kelliher
+*   [Quant-Finance-With-Python-Code (⭐43)](https://github.com/lingyixu/Quant-Finance-With-Python-Code) - Repo for code examples in Quantitative Finance with Python by Chris Kelliher
 
 ## [2. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 

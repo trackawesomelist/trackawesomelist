@@ -10,11 +10,11 @@
 
 ### Command Line
 
-*   [Swift Argument Parser (⭐3.1k)](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
+*   [Swift Argument Parser (⭐3.2k)](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
 
 ### Cards / Barcode
 
-*   [CardNavigation (⭐44)](https://github.com/james01/CardNavigation) - A navigation controller that displays its view controllers as an interactive stack of cards.
+*   [CardNavigation (⭐45)](https://github.com/james01/CardNavigation) - A navigation controller that displays its view controllers as an interactive stack of cards.
 
 ## [2. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
@@ -457,7 +457,7 @@
 
 ### Packages / Node.js management
 
-*   [fnm (⭐14k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
+*   [fnm (⭐15k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
 
 ## [13. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

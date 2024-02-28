@@ -82,7 +82,7 @@
 
 ### Packages / Text
 
-*   [i18n-node (⭐3k)](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
+*   [i18n-node (⭐3.1k)](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
 
 ### Packages / Math
 

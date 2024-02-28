@@ -940,10 +940,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [Budget Zen](https://budgetzen.net) - Simple and Encrypted Budget Management.
 
-### Alternative Frontends
-
-*   [Kizie](https://kizie.co) - Cleaner, better and privacy focussed Twitter client for Web.
-
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
 
 ### 2FA
@@ -1135,7 +1131,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   LastPass
 *   Dashlane
 *   [Bitwarden](https://bitwarden.com) - An open source cloud based password manager.
-    *   [vaultwarden (⭐31k)](https://github.com/dani-garcia/vaultwarden/) - Unofficial Bitwarden compatible self-hosted server, formerly known as bitwarden\_rs.
+    *   [vaultwarden (⭐32k)](https://github.com/dani-garcia/vaultwarden/) - Unofficial Bitwarden compatible self-hosted server, formerly known as bitwarden\_rs.
 *   [KeepassXC](https://keepassxc.org/) - Securely store passwords using industry standard encryption, no sync just storage.
     *   [KeepassDX](https://www.keepassdx.com/) for Android.
     *   [Strongbox](https://strongboxsafe.com/) for iOS.

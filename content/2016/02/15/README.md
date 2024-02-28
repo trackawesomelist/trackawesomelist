@@ -56,7 +56,7 @@
 
 ### Packages / Data validation
 
-*   [property-validator (⭐157)](https://github.com/nettofarah/property-validator) - Easy property validation for Express.
+*   [property-validator (⭐158)](https://github.com/nettofarah/property-validator) - Easy property validation for Express.
 
 ## [6. Amas](/content/sindresorhus/amas/README.md)
 

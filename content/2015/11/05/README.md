@@ -52,7 +52,7 @@
 
 ### Packages / Mad science
 
-*   [ipfs (⭐7.4k)](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
+*   [ipfs (⭐7.5k)](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
 
 ### Packages / Command-line utilities
 

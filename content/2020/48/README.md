@@ -473,7 +473,7 @@
 
 ### API
 
-*   [Swiftkube (⭐109)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
+*   [Swiftkube (⭐115)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
 
 ## [41. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
@@ -573,7 +573,7 @@
 
 ### Packages / Data validation
 
-*   [Superstruct (⭐6.7k)](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
+*   [Superstruct (⭐6.8k)](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
 
 ## [53. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -1173,7 +1173,7 @@
 
 ### C / General-Purpose Machine Learning
 
-*   [libonnx (⭐535)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
+*   [libonnx (⭐540)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
 
 ## [69. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 

@@ -24,9 +24,9 @@
 *   API clients
     *   [Advanced REST Client (⭐1.3k) (⭐1.4k)](https://github.com/advanced-rest-client/arc-electron) - An open-source API tool designed for testing and debugging RESTful web services.
     *   [curl (⭐33k) (⭐33k)](https://github.com/curl/curl) - Command-line tool for transferring data with URLs over various protocols.
-    *   [curlie (⭐2.5k) (⭐2.5k)](https://github.com/rs/curlie) - Frontend to curl with the ease of use of httpie without compromising on performance and features.
+    *   [curlie (⭐2.5k) (⭐2.6k)](https://github.com/rs/curlie) - Frontend to curl with the ease of use of httpie without compromising on performance and features.
     *   [HTTPie (⭐31k) (⭐31k)](https://github.com/httpie/httpie) - User-friendly command-line HTTP client that simplifies HTTP request/response inspection and manipulation.
-    *   [Insomnia (⭐32k) (⭐32k)](https://github.com/Kong/insomnia) - Cross-platform HTTP and GraphQL client designed to make API testing and debugging easier.
+    *   [Insomnia (⭐32k) (⭐33k)](https://github.com/Kong/insomnia) - Cross-platform HTTP and GraphQL client designed to make API testing and debugging easier.
     *   [Postman](https://www.postman.com/product/api-client/) - Comprehensive tool for simplifying API development and testing processes with features such as making HTTP requests, generating mock servers, and creating API documentation.
     *   [resty (⭐2.6k) (⭐2.6k)](https://github.com/micha/resty) - A Lua framework for building HTTP clients that provides a shell interface for interacting with REST services.
     *   [SoapUI (⭐1.4k) (⭐1.5k)](https://github.com/SmartBear/soapui) - Open-source web service testing application designed for testing SOAP and REST web services.
@@ -354,12 +354,12 @@
 
 ### Python / Natural Language Processing
 
-*   [Neofuzz (⭐12)](https://github.com/x-tabdeveloping/neofuzz) - Blazing fast, lightweight and customizable fuzzy and semantic text search in Python with fuzzywuzzy/thefuzz compatible API.
+*   [Neofuzz (⭐16)](https://github.com/x-tabdeveloping/neofuzz) - Blazing fast, lightweight and customizable fuzzy and semantic text search in Python with fuzzywuzzy/thefuzz compatible API.
 
 ### Python / General-Purpose Machine Learning
 
 *   [tweetopic](https://centre-for-humanities-computing.github.io/tweetopic/) - Blazing fast short-text-topic-modelling for Python.
-*   [topicwizard (⭐52)](https://github.com/x-tabdeveloping/topic-wizard) - Interactive topic model visualization/interpretation framework.
+*   [topicwizard (⭐81)](https://github.com/x-tabdeveloping/topic-wizard) - Interactive topic model visualization/interpretation framework.
 
 ## [32. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
@@ -371,40 +371,40 @@
 
 *   [OpenBB Terminal (⭐26k)](https://github.com/OpenBB-finance/OpenBBTerminal) - Terminal for investment research for everyone.
 *   [pypme (⭐7)](https://github.com/ymyke/pypme) - PME (Public Market Equivalent) calculation.
-*   [AbsBox (⭐19)](https://github.com/yellowbean/AbsBox) - A Python based library to model cashflow for structured product like Asset-backed securities (ABS) and Mortgage-backed securities (MBS).
-*   [Intrinsic-Value-Calculator (⭐3)](https://github.com/akashaero/Intrinsic-Value-Calculator) - A Python tool for quick calculations of a stock's fair value using Discounted Cash Flow analysis.
+*   [AbsBox (⭐20)](https://github.com/yellowbean/AbsBox) - A Python based library to model cashflow for structured product like Asset-backed securities (ABS) and Mortgage-backed securities (MBS).
+*   [Intrinsic-Value-Calculator (⭐4)](https://github.com/akashaero/Intrinsic-Value-Calculator) - A Python tool for quick calculations of a stock's fair value using Discounted Cash Flow analysis.
 
 ### Python / Trading & Backtesting
 
-*   [basana (⭐317)](https://github.com/gbeced/basana) - A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies.
+*   [basana (⭐336)](https://github.com/gbeced/basana) - A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies.
 *   [pysystemtrade (⭐2.3k)](https://github.com/robcarver17/pysystemtrade) - pysystemtrade is the open source version of Robert Carver's backtesting and trading engine that implements systems according to the framework outlined in his book "Systematic Trading", which is further developed on his [blog](https://qoppac.blogspot.com/).
-*   [pytrendseries (⭐91)](https://github.com/rafa-rod/pytrendseries) - Detect trend in time series, drawdown, drawdown within a constant look-back window , maximum drawdown, time underwater.
-*   [PyLOB (⭐162)](https://github.com/DrAshBooth/PyLOB) - Fully functioning fast Limit Order Book written in Python.
+*   [pytrendseries (⭐92)](https://github.com/rafa-rod/pytrendseries) - Detect trend in time series, drawdown, drawdown within a constant look-back window , maximum drawdown, time underwater.
+*   [PyLOB (⭐165)](https://github.com/DrAshBooth/PyLOB) - Fully functioning fast Limit Order Book written in Python.
 *   [PyBroker (⭐1.5k)](https://github.com/edtechre/pybroker) - Algorithmic Trading with Machine Learning.
 
 ### Python / Data Sources
 
-*   [market-prices (⭐70)](https://github.com/maread99/market_prices) - Create meaningful OHLCV datasets from knowledge of [exchange-calendars (⭐356)](https://github.com/gerrymanoim/exchange_calendars) (works out-the-box with data from Yahoo Finance).
+*   [market-prices (⭐72)](https://github.com/maread99/market_prices) - Create meaningful OHLCV datasets from knowledge of [exchange-calendars (⭐362)](https://github.com/gerrymanoim/exchange_calendars) (works out-the-box with data from Yahoo Finance).
 *   [tardis-python (⭐102)](https://github.com/tardis-dev/tardis-python) - Python interface for Tardis.dev high frequency crypto market data
 *   [lake-api (⭐18)](https://github.com/crypto-lake/lake-api) - Python interface for Crypto Lake high frequency crypto market data
-*   [tessa (⭐31)](https://github.com/ymyke/tessa) - simple, hassle-free access to price information of financial assets (currently based on yfinance and pycoingecko), including search and a symbol class.
+*   [tessa (⭐34)](https://github.com/ymyke/tessa) - simple, hassle-free access to price information of financial assets (currently based on yfinance and pycoingecko), including search and a symbol class.
 *   [pandaSDMX (⭐124)](https://github.com/dr-leo/pandaSDMX) - Python package that implements SDMX 2.1 (ISO 17369:2013), a format for exchange of statistical data and metadata used by national statistical agencies, central banks, and international organisations.
-*   [cif (⭐47)](https://github.com/LenkaV/CIF) - Python package that include few composite indicators, which summarize multidimensional relationships between individual economic indicators.
-*   [finagg (⭐294)](https://github.com/theOGognf/finagg) - finagg is a Python package that provides implementations of popular and free financial APIs, tools for aggregating historical data from those APIs into SQL databases, and tools for transforming aggregated data into features useful for analysis and AI/ML.
+*   [cif (⭐48)](https://github.com/LenkaV/CIF) - Python package that include few composite indicators, which summarize multidimensional relationships between individual economic indicators.
+*   [finagg (⭐333)](https://github.com/theOGognf/finagg) - finagg is a Python package that provides implementations of popular and free financial APIs, tools for aggregating historical data from those APIs into SQL databases, and tools for transforming aggregated data into features useful for analysis and AI/ML.
 
 ### Python / Visualization
 
-*   [market-analy (⭐28)](https://github.com/maread99/market_analy) - Analysis and interactive charting using [market-prices (⭐70)](https://github.com/maread99/market_prices) and bqplot.
+*   [market-analy (⭐28)](https://github.com/maread99/market_analy) - Analysis and interactive charting using [market-prices (⭐72)](https://github.com/maread99/market_prices) and bqplot.
 
 ### R / Data Sources
 
-*   [rb3 (⭐66)](https://github.com/ropensci/rb3) - A bunch of downloaders and parsers for data delivered from B3.
-*   [simfinapi (⭐16)](https://github.com/matthiasgomolka/simfinapi) - Makes 'SimFin' data (<https://simfin.com/>) easily accessible in R.
+*   [rb3 (⭐67)](https://github.com/ropensci/rb3) - A bunch of downloaders and parsers for data delivered from B3.
+*   [simfinapi (⭐17)](https://github.com/matthiasgomolka/simfinapi) - Makes 'SimFin' data (<https://simfin.com/>) easily accessible in R.
 
 ### Julia / FrameWorks
 
 *   [DataFrames.jl (⭐1.7k)](https://github.com/JuliaData/DataFrames.jl) - In-memory tabular data in Julia
-*   [TSFrames.jl (⭐84)](https://github.com/xKDR/TSFrames.jl) - Handle timeseries data on top of the powerful and mature DataFrames.jl
+*   [TSFrames.jl (⭐86)](https://github.com/xKDR/TSFrames.jl) - Handle timeseries data on top of the powerful and mature DataFrames.jl
 
 ### JavaScript / FrameWorks
 
@@ -412,22 +412,22 @@
 
 ### Rust / Data Visualization
 
-*   [Barter (⭐541)](https://github.com/barter-rs/barter-rs) - Open-source Rust framework for building event-driven live-trading & backtesting systems
-*   [LFEST (⭐39)](https://github.com/MathisWellmann/lfest-rs) - Simulated perpetual futures exchange to trade your strategy against.
-*   [TradeAggregation (⭐44)](https://github.com/MathisWellmann/trade_aggregation-rs) - Aggregate trades into user-defined candles using information driven rules.
-*   [SlidingFeatures (⭐29)](https://github.com/MathisWellmann/sliding_features-rs) - Chainable tree-like sliding windows for signal processing and technical analysis.
-*   [RustQuant (⭐738)](https://github.com/avhz/RustQuant) - Quantitative finance library written in Rust.
+*   [Barter (⭐561)](https://github.com/barter-rs/barter-rs) - Open-source Rust framework for building event-driven live-trading & backtesting systems
+*   [LFEST (⭐40)](https://github.com/MathisWellmann/lfest-rs) - Simulated perpetual futures exchange to trade your strategy against.
+*   [TradeAggregation (⭐48)](https://github.com/MathisWellmann/trade_aggregation-rs) - Aggregate trades into user-defined candles using information driven rules.
+*   [SlidingFeatures (⭐30)](https://github.com/MathisWellmann/sliding_features-rs) - Chainable tree-like sliding windows for signal processing and technical analysis.
+*   [RustQuant (⭐766)](https://github.com/avhz/RustQuant) - Quantitative finance library written in Rust.
 
 ### Reproducing Works, Training & Books / Data Visualization
 
 *   [Value Investing Studies (⭐77)](https://github.com/euclidjda/value-investing-studies) - A collection of data analysis studies that examine the performance and characteristics of value investing over long periods of time.
 *   [Machine Learning Asset Management (⭐1.6k)](https://github.com/firmai/machine-learning-asset-management) - Machine Learning in Asset Management (by @firmai).
 *   [Deep Learning Machine Learning Stock (⭐1.1k)](https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock) - Deep Learning and Machine Learning stocks represent a promising long-term or short-term opportunity for investors and traders.
-*   [Technical Analysis and Feature Engineering (⭐43)](https://github.com/jo-cho/Technical_Analysis_and_Feature_Engineering) - Feature Engineering and Feature Importance of Machine Learning in Financial Market.
+*   [Technical Analysis and Feature Engineering (⭐92)](https://github.com/jo-cho/Technical_Analysis_and_Feature_Engineering) - Feature Engineering and Feature Importance of Machine Learning in Financial Market.
 *   [Differential Machine Learning and Axes that matter by Brian Huge and Antoine Savine (⭐131)](https://github.com/differential-machine-learning/notebooks) - Implement, demonstrate, reproduce and extend the results of the Risk articles 'Differential Machine Learning' (2020) and 'PCA with a Difference' (2021) by Huge and Savine, and cover implementation details left out from the papers.
 *   [systematictradingexamples (⭐265)](https://github.com/robcarver17/systematictradingexamples) - Examples of code related to book [Systematic Trading](https://github.com/wilsonfreitas/awesome-quant/blob/master/README.md/www.systematictrading.org) and [blog](http://qoppac.blogspot.com)
-*   [pysystemtrade\_examples (⭐155)](https://github.com/robcarver17/pysystemtrade_examples) - Examples using pysystemtrade for Robert Carver's [blog](http://qoppac.blogspot.com).
-*   [ML\_Finance\_Codes (⭐977)](https://github.com/mfrdixon/ML_Finance_Codes) - Machine Learning in Finance: From Theory to Practice Book
+*   [pysystemtrade\_examples (⭐156)](https://github.com/robcarver17/pysystemtrade_examples) - Examples using pysystemtrade for Robert Carver's [blog](http://qoppac.blogspot.com).
+*   [ML\_Finance\_Codes (⭐983)](https://github.com/mfrdixon/ML_Finance_Codes) - Machine Learning in Finance: From Theory to Practice Book
 *   [Hands-On Machine Learning for Algorithmic Trading (⭐1.2k)](https://github.com/packtpublishing/hands-on-machine-learning-for-algorithmic-trading) - Hands-On Machine Learning for Algorithmic Trading, published by Packt
 *   [financialnoob-misc (⭐24)](https://github.com/financialnoob/misc) - Codes from @financialnoob's posts
 
