@@ -4,6 +4,12 @@
 
 [ Daily / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
 
+## [Feb 28, 2024](/content/2024/02/28/README.md)
+
+### Artificial Intelligence (AI)
+
+*   [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
+
 ## [Feb 27, 2024](/content/2024/02/27/README.md)
 
 ### Artificial Intelligence (AI)
@@ -14,7 +20,7 @@
 
 *   [AiJobsTracker](https://aijobs.18offers.com/) - Live aggregator of 400+ AI-first companies's job boards, updated daily
 
-### Programming / Aggregator
+### Programming / Mobile
 
 *   [androiddev.careers](https://androiddev.careers/) – Job board for Android developers
 
@@ -103,10 +109,6 @@
 *   [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
 
 ## [Jan 07, 2023](/content/2023/01/07/README.md)
-
-### Artificial Intelligence (AI)
-
-*   [thrive](https://thriveml.com) - Jobs at Top AI Companies and Startups
 
 ### Finance
 

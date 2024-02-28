@@ -1384,7 +1384,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [youtube-dl (⭐2)](https://github.com/joow/youtube-dl) - Simple plugin for [youtube-dl](https://youtube-dl.org/).
 *   [yup (⭐0)](https://github.com/redxtech/zsh-yup) - Adds helper function to upgrade all the dependencies in a `yarn`/`npm` project.
 *   [z.lua (⭐2.9k)](https://github.com/skywind3000/z.lua) - A command line tool which helps you navigate faster by learning your habits. An alternative to [z.sh (⭐16k)](https://github.com/rupa/z) with Windows and posix shells support and various improvements. 10x faster than fasd and autojump, 3x faster than [z.sh (⭐16k)](https://github.com/rupa/z).
-*   [zabb (⭐32)](https://github.com/Mellbourn/zabb) - `zabb` is a command that tries to figure out the shortest memorable abbreviation of a directory that is usable by [z (⭐13k)](https://github.com/ajeetdsouza/zoxide) to unambiguously jump to that directory.
+*   [zabb (⭐32)](https://github.com/Mellbourn/zabb) - `zabb` is a command that tries to figure out the shortest memorable abbreviation of a directory that is usable by [z (⭐16k)](https://github.com/ajeetdsouza/zoxide) to unambiguously jump to that directory.
 *   [zabrze (⭐26)](https://github.com/Ryooooooga/zabrze) - A ZSH abbreviation expansion plugin.
 *   [zautoload (⭐3)](https://github.com/Doc0x1/zautoload) - Autoloader for ZSH config files.
 *   [zaw (⭐552)](https://github.com/zsh-users/zaw) - ZSH anything.el-like widget.
@@ -1427,7 +1427,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [znotify (⭐0)](https://github.com/rudeigerc/znotify) - A simple plugin for sending notifications to other services.
 *   [znvm (⭐1)](https://github.com/Ajnasz/znvm) - A [Node.js](https://nodejs.org) version manager for ZSH similar to [nvm.sh (⭐74k)](https://github.com/nvm-sh/nvm) but faster.
 *   [zoo (⭐2)](https://github.com/salamantos/zoo_sh) - Casual theme with animal emoji. Includes decorators for current directory, time and `git` status.
-*   [zoxide (⭐13k)](https://github.com/ajeetdsouza/zoxide) - A fast alternative to `cd` that learns your habits.
+*   [zoxide (⭐16k)](https://github.com/ajeetdsouza/zoxide) - A fast alternative to `cd` that learns your habits.
 *   [zplug-blame (⭐0)](https://github.com/jkcdarunday/zplug-blame) - A [zplug (⭐5.6k)](https://github.com/zplug/zplug)-specific plugin that displays how long each of your plugins took to load.
 *   [zpy (⭐48)](https://github.com/AndydeCleyre/zpy) - Manage Python Environments, dependencies, and isolated app installations, with a ZSH frontend to [pip-tools (⭐7.3k)](https://github.com/jazzband/pip-tools).
 *   [zredis-cmd (⭐4)](https://github.com/z-shell/zredis-cmd) - Utilizes variable sharing done by [zredis (⭐1)](https://github.com/zdharma-continuum/zredis) plugin to implement remote command execution.
@@ -2017,6 +2017,7 @@ If you're using [Antigen (⭐7.8k)](https://github.com/zsh-users/antigen), you c
 *   [iamskok (⭐3)](https://github.com/iamskok/iamskok.zsh-theme) - Works well on a dark background.
 *   [iay (⭐6)](https://github.com/aaqaishtyaq/iay) - A `{ba,z}sh` prompt written in Rust. Includes decorations for the current directory and `git` status.
 *   [ice (⭐1)](https://github.com/Lenart12/ice.zsh-theme) - Very lightly modified [bureau (⭐33)](https://github.com/isqua/bureau) theme combined with [bira (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme).
+*   [ichirei (⭐0)](https://github.com/ichirei/ichirei.zsh-theme) - Colorful. Includes decorators for `git` status, time & current directory. Requires a Nerd Font.
 *   [icicle (⭐2)](https://github.com/JamesConlan96/Icicle) - Includes `git` status decorations, and whether running as root.
 *   [igeek (⭐39)](https://github.com/Saleh7/igeek-zsh-theme) - Displays system information when starting a new terminal session.
 *   [iggy (⭐12)](https://github.com/eugenk/zsh-prompt-iggy) - A super happy awesome Powerline-style, `git`-aware **prezto only** theme.
@@ -2339,7 +2340,7 @@ If you're using [Antigen (⭐7.8k)](https://github.com/zsh-users/antigen), you c
 *   [ramiel (⭐0)](https://github.com/aknackd/zsh-themes) - Fork of the [node (⭐67)](https://github.com/skuridin/oh-my-zsh-node-theme).
 *   [random-emoji-robbyrussell (⭐2)](https://github.com/parwatcodes/random-emoji-robbyrussell) - Based on [random-emoji](https://gist.github.com/oshybystyi/2c30543cd48b2c9ecab0) and `robbyrussell` themes.
 *   [random-emoji](https://gist.github.com/oshybystyi/2c30543cd48b2c9ecab0) - Random emoji.
-*   [ranger-zoxide (⭐5)](https://github.com/fdw/ranger-zoxide) - Adds [zoxide (⭐13k)](https://github.com/ajeetdsouza/zoxide) support to the [ranger (⭐15k)](https://github.com/ranger/ranger) console file manager.
+*   [ranger-zoxide (⭐5)](https://github.com/fdw/ranger-zoxide) - Adds [zoxide (⭐16k)](https://github.com/ajeetdsouza/zoxide) support to the [ranger (⭐15k)](https://github.com/ranger/ranger) console file manager.
 *   [raspberrysh (⭐0)](https://github.com/MaxMalinowski/raspberrysh) - Includes `git`, python, time, current host and path decorations.
 *   [raytek (⭐0)](https://github.com/Raytek/raytek-zsh-theme) - Simple and colorful theme with `git` status decorations.
 *   [raz (⭐2)](https://github.com/razman786/ohmyzsh-theme-raz) - Minimal prompt, includes `git` status decorations.

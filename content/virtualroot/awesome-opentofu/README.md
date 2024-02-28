@@ -6,12 +6,30 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 [ Daily / [Weekly](/content/virtualroot/awesome-opentofu/week/README.md) / [Overview](/content/virtualroot/awesome-opentofu/readme/README.md) ]
 
+## [Feb 28, 2024](/content/2024/02/28/README.md)
+
+### Tools / Wrappers
+
+*   [Terragrunt (⭐7.5k)](https://github.com/gruntwork-io/terragrunt) - Keep your configurations DRY, work with multiple modules, and manage remote state.
+
+### Tools / Tests
+
+*   [Terratest (⭐7.3k)](https://github.com/gruntwork-io/terratest) - Go library that makes it easier to write automated tests for your infrastructure code.
+
+### Tools / Platforms
+
+*   [terrakube (⭐372)](https://github.com/AzBuilder/terrakube) - Open-source platform with private registry, remote state, custom flows, scheduled workspaces, and visual states.
+
+### Tools / Registry
+
+*   [hermitcrab (⭐12)](https://github.com/seal-io/hermitcrab) - Registry network mirroring service.
+*   [terrac (⭐24)](https://github.com/haoliangyu/terrac) - Minimal private module registry.
+
 ## [Feb 22, 2024](/content/2024/02/22/README.md)
 
 ### Tools / Wrappers
 
 *   [Atmos (⭐499)](https://github.com/cloudposse/atmos) - Orchestration tool that keeps environment configuration DRY.
-*   [Terragrunt](https://terragrunt.gruntwork.io/) - Keep your configurations DRY, work with multiple modules, and manage remote state.
 
 ### Tools / Providers
 
@@ -35,10 +53,6 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 *   [pre-commit-opentofu (⭐17)](https://github.com/tofuutils/pre-commit-opentofu) - Git pre-commit hooks plugin.
 
-### Tools / Tests
-
-*   [Terratest](https://terratest.gruntwork.io/) - Go library that makes it easier to write automated tests for your infrastructure code.
-
 ### Tools / State
 
 *   [tfmigrate (⭐1k)](https://github.com/minamijoyo/tfmigrate) - State migration tool.
@@ -46,7 +60,6 @@ A curated list of OpenTofu tools, resources, and related projects.
 ### Tools / Platforms
 
 *   [digger (⭐2.6k)](https://github.com/diggerhq/digger) - Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
-*   [terrakube](https://terrakube.org/) - Open-source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces, and visual states that is compatible with OpenTofu.
 *   [walrus (⭐333)](https://github.com/seal-io/walrus) - Walrus is an open-source application management platform based on IaC tools including OpenTofu, Terraform and others.
 
 ### Tools / Registry

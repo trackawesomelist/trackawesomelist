@@ -9,12 +9,13 @@
 ### Artificial Intelligence (AI)
 
 *   [AI Jobs Dev](https://aijobs.dev) - Discover companies looking to hire AI, ML, Data Science & Big Data engineers and connect with them
+*   [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
 
 ### Big Data
 
 *   [AiJobsTracker](https://aijobs.18offers.com/) - Live aggregator of 400+ AI-first companies's job boards, updated daily
 
-### Programming / Aggregator
+### Programming / Mobile
 
 *   [androiddev.careers](https://androiddev.careers/) – Job board for Android developers
 
@@ -101,10 +102,6 @@
 *   [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
-
-### Artificial Intelligence (AI)
-
-*   [thrive](https://thriveml.com) - Jobs at Top AI Companies and Startups
 
 ### Finance
 

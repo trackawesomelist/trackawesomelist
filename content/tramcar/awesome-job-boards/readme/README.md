@@ -35,7 +35,7 @@ A curated list of awesome niche job boards.
 *   [AI Jobs Dev](https://aijobs.dev) - Discover companies looking to hire AI, ML, Data Science & Big Data engineers and connect with them
 *   [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 *   [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
-*   [thrive](https://thriveml.com) - Jobs at Top AI Companies and Startups
+*   [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
 *   [AI Jobs Board](https://aijobsboard.net) - Jobs in AI/ML
 
 ## Big Data
@@ -107,7 +107,6 @@ A curated list of awesome niche job boards.
 *   [findwork.dev](https://findwork.dev/)
 *   [Levels.fyi](https://www.levels.fyi/jobs)
 *   [Dev Employ](https://devemploy.com/) - Hand-picked developer jobs
-*   [androiddev.careers](https://androiddev.careers/) – Job board for Android developers
 
 ### Clojure
 
@@ -135,6 +134,10 @@ A curated list of awesome niche job boards.
 *   [Svelte Jobs](https://sveltejobs.com/)
 *   [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source
 *   [JSJobbs](https://jsjobbs.com/)
+
+### Mobile
+
+*   [androiddev.careers](https://androiddev.careers/) – Job board for Android developers
 
 ### Perl
 

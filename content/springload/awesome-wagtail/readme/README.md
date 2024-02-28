@@ -35,6 +35,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
     *   [Forms](#forms)
     *   [Testing](#testing)
     *   [Modeladmin](#modeladmin)
+    *   [Asynchronous (tasks)](#asynchronous-tasks)
     *   [Misc](#misc)
 *   [Tools](#tools)
     *   [Templates & Starter Kits](#templates--starter-kits)
@@ -197,6 +198,10 @@ A curated list of awesome packages, articles, and other cool resources from the 
 *   [wagtail-admin-list-controls (⭐42)](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
 *   [wagtail-rangefilter (⭐11)](https://github.com/wunderweiss/wagtail-rangefilter) - Integrates django-admin-rangefilter into Wagtail's ModelAdmin.
 *   [wagtail-treemodeladmin (⭐42)](https://github.com/cfpb/wagtail-treemodeladmin) - Page explorer-like navigation of Django model relationships using ModelAdmin.
+
+### Asynchronous (tasks)
+
+*   [Wagtail Celery Beat (⭐0)](https://github.com/Nigel2392/wagtail_celery_beat) - A way to manage your Django Celery Beat tasks inside of the Wagtail admin.
 
 ### Misc
 

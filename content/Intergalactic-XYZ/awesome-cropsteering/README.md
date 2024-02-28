@@ -1,8 +1,16 @@
 # Track Awesome Cropsteering Updates Daily
 
+Curated by IXYZ list of OpenSource projects in indoor/outdoor agriculture automation, crop steering and cannabis cultivation
+
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Intergalactic-XYZ/awesome-cropsteering/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Intergalactic-XYZ/awesome-cropsteering](https://github.com/Intergalactic-XYZ/awesome-cropsteering) · ⭐ 0 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/Intergalactic-XYZ/awesome-cropsteering/week/README.md) / [Overview](/content/Intergalactic-XYZ/awesome-cropsteering/readme/README.md) ]
+
+## [Feb 28, 2024](/content/2024/02/28/README.md)
+
+### **Grow Automation**
+
+*   [Potnanny (⭐0)](https://github.com/potnanny/application) - Potnanny turns your Raspberry Pi into powerful grow-room automation system using inexpensive, off-the-shelf Bluetooth sensors, power outlets, and other devices
 
 ## [Feb 23, 2024](/content/2024/02/23/README.md)
 
@@ -52,7 +60,7 @@
 
 ### **AI/ML**
 
-*   [OpenWeedLocator (⭐271)](https://github.com/geezacoleman/OpenWeedLocator) - Opensource hardware and software weed detector that uses entirely off-the-shelf componentry, very simple green-detection algorithms (with capacity to upgrade to in-crop detection) and 3D printable parts
+*   [OpenWeedLocator (⭐284)](https://github.com/geezacoleman/OpenWeedLocator) - Opensource hardware and software weed detector that uses entirely off-the-shelf componentry, very simple green-detection algorithms (with capacity to upgrade to in-crop detection) and 3D printable parts
 
 ### **Grow Automation**
 
@@ -75,7 +83,7 @@
 
 ### Home Assistant / Node RED plugins
 
-*   [Home Assistant (⭐67k)](https://github.com/home-assistant/core) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts
+*   [Home Assistant (⭐68k)](https://github.com/home-assistant/core) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts
 
 ### Home Assistant / Home Assistant Automation
 
@@ -83,16 +91,16 @@
 
 ### **Facility management** / Home Assistant UI
 
-*   [OpenTHC (⭐6)](https://github.com/openthc/docker) - OpenTHC is an environment of web-based applications focused on helping Cannabis/Hemp and Organic Horticulture industry participants meet their regulatory requirements
+*   [OpenTHC (⭐7)](https://github.com/openthc/docker) - OpenTHC is an environment of web-based applications focused on helping Cannabis/Hemp and Organic Horticulture industry participants meet their regulatory requirements
 
 ### **Irrigation** / Home Assistant UI
 
-*   [OpenSprinkler AVR/RPI/BBB Firmware (⭐436)](https://github.com/OpenSprinkler/OpenSprinkler-Firmware) - This is a unified OpenSprinkler firmware for Arduino, and Linux-based OpenSprinklers such as OpenSprinkler Pi
+*   [OpenSprinkler AVR/RPI/BBB Firmware (⭐439)](https://github.com/OpenSprinkler/OpenSprinkler-Firmware) - This is a unified OpenSprinkler firmware for Arduino, and Linux-based OpenSprinklers such as OpenSprinkler Pi
 *   [OpenMinder (⭐33)](https://github.com/autogrow/openminder) -  Allows anyone to build a device that can monitor the rootzone of their plants to make the most optimum use of water and fertigation ingredients to ensure a happy plant. This is done by measuring the water going into the plants on the irrigation side, as well as coming out on the runoff side, thus allowing comparisons
 
 ### ESPHome / Home Assistant UI
 
-*   [ESPHome (⭐7.1k)](https://github.com/esphome/esphome) - ESPHome is a system to control your microcontrollers by simple yet powerful configuration files and control them remotely through Home Automation systems
+*   [ESPHome (⭐7.2k)](https://github.com/esphome/esphome) - ESPHome is a system to control your microcontrollers by simple yet powerful configuration files and control them remotely through Home Automation systems
 
 ### Tasmota / ESPHome Configs
 
@@ -118,7 +126,7 @@
 
 ### DIY / Modular systems
 
-*   [OpenSprinkler Hardware (⭐58)](https://github.com/OpenSprinkler/OpenSprinkler-Hardware) - OpenSprinkler Hardware Design files, made in EagleCAD software
+*   [OpenSprinkler Hardware (⭐59)](https://github.com/OpenSprinkler/OpenSprinkler-Hardware) - OpenSprinkler Hardware Design files, made in EagleCAD software
 
 ### **Metrics and Logging** / Modular systems
 
@@ -131,7 +139,7 @@
 
 ### **MQTT** / Modular systems
 
-*   [Mosquitto (⭐8.1k)](https://github.com/eclipse/mosquitto) - Mosquitto is an open source implementation of a server for version 5.0, 3.1.1, and 3.1 of the MQTT protocol
+*   [Mosquitto (⭐8.2k)](https://github.com/eclipse/mosquitto) - Mosquitto is an open source implementation of a server for version 5.0, 3.1.1, and 3.1 of the MQTT protocol
 *   [EMQX (⭐13k)](https://github.com/emqx/emqx) - EMQX is the world's most scalable open-source MQTT broker with a high performance that connects 100M+ IoT devices in 1 cluster, while maintaining 1M message per second throughput and sub-millisecond latency.
 
 ### **Relay and power control** / Modular systems
@@ -150,7 +158,7 @@
 
 ### Visualization Libraries / Modular systems
 
-*   [Giraffe (⭐176)](https://github.com/influxdata/giraffe) - A React-based visualization library powering the data visualizations in the InfluxDB 2.0 UI
+*   [Giraffe (⭐177)](https://github.com/influxdata/giraffe) - A React-based visualization library powering the data visualizations in the InfluxDB 2.0 UI
 *   [D3.js (⭐107k)](https://github.com/d3/d3) - D3 (or D3.js) is a free, open-source JavaScript library for visualizing data. Its low-level approach built on web standards offers unparalleled flexibility in authoring dynamic, data-driven graphics
 
 ### **Zigbee** / Modular systems
@@ -159,13 +167,13 @@
 
 ### **Other Awesome Lists** / Modular systems
 
-*   [Awesome Agriculture (⭐1.1k)](https://github.com/brycejohnston/awesome-agriculture)
-*   [Awesome ESP (⭐785)](https://github.com/agucova/awesome-esp)
+*   [Awesome Agriculture (⭐1.2k)](https://github.com/brycejohnston/awesome-agriculture)
+*   [Awesome ESP (⭐817)](https://github.com/agucova/awesome-esp)
 *   [Awesome Home Assistant (⭐5.5k)](https://github.com/frenck/awesome-home-assistant)
-*   [Awesome InfluxDB (⭐790)](https://github.com/mark-rushakoff/awesome-influxdb)
+*   [Awesome InfluxDB (⭐791)](https://github.com/mark-rushakoff/awesome-influxdb)
 *   [Awesome IoT (⭐3k)](https://github.com/HQarroum/awesome-iot)
-*   [Awesome IoT & Hybrid (⭐534)](https://github.com/weblancaster/awesome-IoT-hybrid)
-*   [Awesome Open IoT (⭐596)](https://github.com/Agile-IoT/awesome-open-iot)
-*   [Awesome MQTT (⭐2k)](https://github.com/hobbyquaker/awesome-mqtt)
-*   [Awesome Open Hardware (⭐322)](https://github.com/delftopenhardware/awesome-open-hardware)
+*   [Awesome IoT & Hybrid (⭐538)](https://github.com/weblancaster/awesome-IoT-hybrid)
+*   [Awesome Open IoT (⭐600)](https://github.com/Agile-IoT/awesome-open-iot)
+*   [Awesome MQTT (⭐2.1k)](https://github.com/hobbyquaker/awesome-mqtt)
+*   [Awesome Open Hardware (⭐326)](https://github.com/delftopenhardware/awesome-open-hardware)
 *   [Awesome Raspberry Pi (⭐12k)](https://github.com/thibmaek/awesome-raspberry-pi)

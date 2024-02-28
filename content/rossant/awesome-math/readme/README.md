@@ -98,7 +98,7 @@ A curated list of awesome mathematics resources.
 
 ## Learn to Learn
 
-*   [Understanding Mathematics (⭐992)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐996)](https://github.com/nelson-brochado/understanding-math)
 
 ## Youtube Series
 
@@ -164,7 +164,7 @@ A curated list of awesome mathematics resources.
 *   [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 *   [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 *   [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
-*   [Free Mathematics Books (⭐311k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐313k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 *   [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
 
 ## Magazines
@@ -573,7 +573,7 @@ A curated list of awesome mathematics resources.
 *   [A Concise Introduction to Numerical Analysis](http://www.ima.umn.edu/~arnold/597.00-01/nabook.pdf) - Douglas N. Arnold (University of Minnesota)
 *   [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) - L. Ridgway Scott
 *   [Lectures In Basic Computational Numerical Analysis](https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1000\&context=math_textbooks) - J. M. McDonough (University of Kentucky)
-*   [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
+*   [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](https://user.math.uni-bremen.de/schmi/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
 *   [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/nm/) - Douglas Wilhelm Harder
 
 ## Signal processing
@@ -609,7 +609,7 @@ A curated list of awesome mathematics resources.
 
 # Related Awesome Lists
 
-*   [Theoretical Computer Science (⭐562)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+*   [Theoretical Computer Science (⭐566)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 # License
 

@@ -6,6 +6,12 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 [ Daily / [Weekly](/content/springload/awesome-wagtail/week/README.md) / [Overview](/content/springload/awesome-wagtail/readme/README.md) ]
 
+## [Feb 28, 2024](/content/2024/02/28/README.md)
+
+### Apps / Asynchronous (tasks)
+
+*   [Wagtail Celery Beat (⭐0)](https://github.com/Nigel2392/wagtail_celery_beat) - A way to manage your Django Celery Beat tasks inside of the Wagtail admin.
+
 ## [Feb 27, 2024](/content/2024/02/27/README.md)
 
 ### Apps / Widgets

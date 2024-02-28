@@ -6,6 +6,12 @@ A curated list of awesome mathematics resources
 
 [ Daily / [Weekly](/content/rossant/awesome-math/week/README.md) / [Overview](/content/rossant/awesome-math/readme/README.md) ]
 
+## [Feb 28, 2024](/content/2024/02/28/README.md)
+
+### Numerical Analysis / Stochastic processes
+
+*   [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](https://user.math.uni-bremen.de/schmi/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
+
 ## [Feb 08, 2024](/content/2024/02/08/README.md)
 
 ### Numerical Analysis / Stochastic processes
@@ -96,7 +102,7 @@ A curated list of awesome mathematics resources
 
 ### Mathematical Physics / Stochastic processes
 
-*   [Theoretical Computer Science (⭐562)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+*   [Theoretical Computer Science (⭐566)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 ## [Feb 18, 2022](/content/2022/02/18/README.md)
 
@@ -143,7 +149,7 @@ A curated list of awesome mathematics resources
 
 ### Books
 
-*   [Free Mathematics Books (⭐311k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐313k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## [Aug 19, 2021](/content/2021/08/19/README.md)
 
@@ -761,7 +767,7 @@ A curated list of awesome mathematics resources
 
 ### Learn to Learn
 
-*   [Understanding Mathematics (⭐992)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐996)](https://github.com/nelson-brochado/understanding-math)
 
 ## [Aug 09, 2016](/content/2016/08/09/README.md)
 
@@ -958,7 +964,6 @@ A curated list of awesome mathematics resources
 
 *   [A Concise Introduction to Numerical Analysis](http://www.ima.umn.edu/~arnold/597.00-01/nabook.pdf) - Douglas N. Arnold (University of Minnesota)
 *   [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) - L. Ridgway Scott
-*   [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
 
 ## [Aug 31, 2015](/content/2015/08/31/README.md)
 

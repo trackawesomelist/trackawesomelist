@@ -35,12 +35,12 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ## Official
 
-*   [OpenTofu repository](https://github.com/opentofu/opentofu) 🎉
+*   [OpenTofu repository (⭐19k)](https://github.com/opentofu/opentofu) 🎉
 *   [Fork announcement](https://opentofu.org/announcement)
-*   [Official registry](https://github.com/opentofu/registry)
-*   [Weekly Updates](https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md#weekly-updates)
+*   [Official registry (⭐112)](https://github.com/opentofu/registry)
+*   [Weekly Updates (⭐19k)](https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md#weekly-updates)
 *   [Office Hours](https://www.youtube.com/watch?v=aEoMzUza6Ok\&list=PLnVotLM2QsyhCc1_8PA7fbVF-ixt4_XAY)
-*   [Technical Steering Committee Updates](https://github.com/opentofu/opentofu/blob/main/TSC_SUMMARY.md#technical-steering-committee-tsc-summary)
+*   [Technical Steering Committee Updates (⭐19k)](https://github.com/opentofu/opentofu/blob/main/TSC_SUMMARY.md#technical-steering-committee-tsc-summary)
 
 ## Community
 
@@ -61,61 +61,63 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Environment managers
 
-*   [asdf-opentofu](https://github.com/virtualroot/asdf-opentofu) - OpenTofu plugin for asdf version manager.
-*   [tenv](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
-*   [tfswitcher](https://github.com/ASleepyCat/tfswitcher) - Terraform and OpenTofu version switcher written in Rust.
-*   [tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv.
+*   [asdf-opentofu (⭐14)](https://github.com/virtualroot/asdf-opentofu) - OpenTofu plugin for asdf version manager.
+*   [tenv (⭐120)](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
+*   [tfswitcher (⭐2)](https://github.com/ASleepyCat/tfswitcher) - Terraform and OpenTofu version switcher written in Rust.
+*   [tofuenv (⭐111)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv.
 
 ### Wrappers
 
 *Simplify your OpenTofu workflows with a thin wrapper.*
 
-*   [Atmos](https://github.com/cloudposse/atmos) - Orchestration tool that keeps environment configuration DRY.
-*   [Terragrunt](https://terragrunt.gruntwork.io/) - Keep your configurations DRY, work with multiple modules, and manage remote state.
-*   [Terramate](https://github.com/terramate-io/terramate) - Automation, orchestration and code generation for OpenTofu, Terraform, Kubernetes, and others.
-*   [easy\_infra](https://github.com/SeisoLLC/easy_infra) - Docker container to simplify and secure the use of infrastructure as code.
-*   [tfam](https://github.com/Ant0wan/tfam) - Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
-*   [tfexe](https://github.com/Ant0wan/tfexe) - Rust-powered wrapper for seamless execution of tfswitch and Terraform/OpenTofu with version control.
-*   [tfwrapper](https://github.com/claranet/tfwrapper) - Python wrapper that aims to simplify OpenTofu usage and enforce best practices.
+*   [Atmos (⭐499)](https://github.com/cloudposse/atmos) - Orchestration tool that keeps environment configuration DRY.
+*   [Terragrunt (⭐7.5k)](https://github.com/gruntwork-io/terragrunt) - Keep your configurations DRY, work with multiple modules, and manage remote state.
+*   [Terramate (⭐2.9k)](https://github.com/terramate-io/terramate) - Automation, orchestration and code generation for OpenTofu, Terraform, Kubernetes, and others.
+*   [easy\_infra (⭐65)](https://github.com/SeisoLLC/easy_infra) - Docker container to simplify and secure the use of infrastructure as code.
+*   [tfam (⭐20)](https://github.com/Ant0wan/tfam) - Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
+*   [tfexe (⭐2)](https://github.com/Ant0wan/tfexe) - Rust-powered wrapper for seamless execution of tfswitch and Terraform/OpenTofu with version control.
+*   [tfwrapper (⭐123)](https://github.com/claranet/tfwrapper) - Python wrapper that aims to simplify OpenTofu usage and enforce best practices.
 
 ### CI
 
-*   [pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - Git pre-commit hooks plugin.
-*   [setup-opentofu](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
-*   [terraform-github-actions](https://github.com/dflook/terraform-github-actions) - GitHub Actions for OpenTofu.
-*   [tf-via-pr-comments](https://github.com/devsectop/tf-via-pr-comments) - GitHub Action to run Terraform or OpenTofu CLI commands via PR comments.
+*   [pre-commit-opentofu (⭐17)](https://github.com/tofuutils/pre-commit-opentofu) - Git pre-commit hooks plugin.
+*   [setup-opentofu (⭐54)](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
+*   [terraform-github-actions (⭐647)](https://github.com/dflook/terraform-github-actions) - GitHub Actions for OpenTofu.
+*   [tf-via-pr-comments (⭐35)](https://github.com/devsectop/tf-via-pr-comments) - GitHub Action to run Terraform or OpenTofu CLI commands via PR comments.
 
 ### Tests
 
-*   [Terratest](https://terratest.gruntwork.io/) - Go library that makes it easier to write automated tests for your infrastructure code.
+*   [Terratest (⭐7.3k)](https://github.com/gruntwork-io/terratest) - Go library that makes it easier to write automated tests for your infrastructure code.
 
 ### State
 
 *Analize and manipulate OpenTofu's state.*
 
-*   [tfmigrate](https://github.com/minamijoyo/tfmigrate) - State migration tool.
+*   [tfmigrate (⭐1k)](https://github.com/minamijoyo/tfmigrate) - State migration tool.
 
 ### Providers
 
 *Inspect and interact with OpenTofu providers.*
 
-*   [tfschema](https://github.com/minamijoyo/tfschema) - Schema inspector for providers.
+*   [tfschema (⭐287)](https://github.com/minamijoyo/tfschema) - Schema inspector for providers.
 
 ### Platforms
 
 *Alternatives to Terraform Cloud.*
 
-*   [digger](https://github.com/diggerhq/digger) - Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
-*   [terrakube](https://terrakube.org/) - Open-source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces, and visual states that is compatible with OpenTofu.
-*   [walrus](https://github.com/seal-io/walrus) - Walrus is an open-source application management platform based on IaC tools including OpenTofu, Terraform and others.
+*   [digger (⭐2.6k)](https://github.com/diggerhq/digger) - Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
+*   [terrakube (⭐372)](https://github.com/AzBuilder/terrakube) - Open-source platform with private registry, remote state, custom flows, scheduled workspaces, and visual states.
+*   [walrus (⭐333)](https://github.com/seal-io/walrus) - Walrus is an open-source application management platform based on IaC tools including OpenTofu, Terraform and others.
 
 ### Registry
 
-*   [boring-registry](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with Terraform and OpenTofu.
+*   [boring-registry (⭐141)](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with Terraform and OpenTofu.
+*   [hermitcrab (⭐12)](https://github.com/seal-io/hermitcrab) - Registry network mirroring service.
+*   [terrac (⭐24)](https://github.com/haoliangyu/terrac) - Minimal private module registry.
 
 ### Helpers
 
-*   [terratag](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
+*   [terratag (⭐866)](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
 
 ## Learning
 

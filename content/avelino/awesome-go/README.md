@@ -6,6 +6,20 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Feb 28, 2024](/content/2024/02/28/README.md)
+
+### Security
+
+*   [autocert](https://pkg.go.dev/golang.org/x/crypto/acme/autocert) - Auto provision Let's Encrypt certificates and start a TLS server.
+
+### Code Analysis / Libraries for creating HTTP middlewares
+
+*   [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports) - Tool to fix (add, remove) your Go imports automatically.
+
+### Websites / Libraries for creating HTTP middlewares
+
+*   [pkg.go.dev](https://pkg.go.dev/) - Documentation for open source Go packages.
+
 ## [Feb 26, 2024](/content/2024/02/26/README.md)
 
 ### Blockchain
@@ -1947,7 +1961,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [bafi (⭐92)](https://github.com/mmalcek/bafi) - Universal JSON, BSON, YAML, XML translator to ANY format using templates.
 *   [bbConvert (⭐8)](https://github.com/CalebQ42/bbConvert) - Converts bbCode to HTML that allows you to add support for custom bbCode tags.
 *   [blackfriday (⭐5.3k)](https://github.com/russross/blackfriday) - Markdown processor in Go.
-*   [github\_flavored\_markdown](https://godoc.org/github.com/shurcooL/github_flavored_markdown) - GitHub Flavored Markdown renderer (using blackfriday) with fenced code block highlighting, clickable header anchor links.
 *   [go-output-format (⭐13)](https://github.com/drewstinnett/go-output-format) - Output go structures into multiple formats (YAML/JSON/etc) in your command line app.
 *   [go-toml (⭐1.6k)](https://github.com/pelletier/go-toml) - Go library for the TOML format with query support and handy cli tools.
 *   [goq (⭐251)](https://github.com/andrewstuart/goq) - Declarative unmarshalling of HTML using struct tags with jQuery syntax (uses GoQuery).
@@ -2663,7 +2676,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [pathtype (⭐13)](https://github.com/jonchun/pathtype) - Treat paths as their own type instead of using strings.
 *   [pdfcpu (⭐5.9k)](https://github.com/pdfcpu/pdfcpu) - PDF processor.
 *   [skywalker (⭐96)](https://github.com/dixonwille/skywalker) - Package to allow one to concurrently go through a filesystem with ease.
-*   [tarfs (⭐59)](https://github.com/posener/tarfs) - Implementation of the [`FileSystem` interface](https://godoc.org/github.com/kr/fs#FileSystem) for tar files.
 *   [todotxt (⭐20)](https://github.com/1set/todotxt) - Go library for Gina Trapani's [*todo.txt*](http://todotxt.org/) files, supports parsing and manipulating of task lists in the [*todo.txt* format](https://github.com/todotxt/todo.txt).
 *   [vfs (⭐267)](https://github.com/C2FO/vfs) - A pluggable, extensible, and opinionated set of filesystem functionality for Go across a number of filesystem types such as os, S3, and GCS.
 
@@ -3451,7 +3463,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [age (⭐15k)](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 *   [argon2-hashing (⭐20)](https://github.com/andskur/argon2-hashing) - light wrapper around Go's argon2 package that closely mirrors with Go's standard library Bcrypt and simple-scrypt package.
 *   [argon2pw (⭐90)](https://github.com/raja/argon2pw) - Argon2 password hash generation with constant-time password comparison.
-*   [autocert](https://godoc.org/golang.org/x/crypto/acme/autocert) - Auto provision Let's Encrypt certificates and start a TLS server.
 *   [BadActor (⭐320)](https://github.com/jaredfolkins/badactor) - In-memory, application-driven jailer built in the spirit of fail2ban.
 *   [Cameradar (⭐3.8k)](https://github.com/Ullaakut/cameradar) - Tool and library to remotely hack RTSP streams from surveillance cameras.
 *   [certificates (⭐36)](https://github.com/mvmaasakkers/certificates) - An opinionated tool for generating tls certificates.
@@ -3615,7 +3626,6 @@ A curated list of awesome Go frameworks, libraries and software
     *   [testcontainers-go (⭐2.8k)](https://github.com/testcontainers/testcontainers-go) - A Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
     *   [testfixtures (⭐1k)](https://github.com/go-testfixtures/testfixtures) - A helper for Rails' like test fixtures to test database applications.
     *   [Testify (⭐22k)](https://github.com/stretchr/testify) - Sacred extension to the standard go testing package.
-    *   [testmd](https://godoc.org/github.com/tvastar/test/cmd/testmd) - Convert markdown snippets into testable go code.
     *   [testsql (⭐17)](https://github.com/zhulongcheng/testsql) - Generate test data from SQL files before testing and clear it after finished.
     *   [testza (⭐416)](https://github.com/MarvinJWendt/testza) - Full-featured test framework with nice colorized output.
     *   [trial (⭐6)](https://github.com/jgroeneveld/trial) - Quick and easy extendable assertions without introducing much boilerplate.
@@ -4100,7 +4110,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-mod-outdated (⭐645)](https://github.com/psampaz/go-mod-outdated) - An easy way to find outdated dependencies of your Go projects.
 *   [go-outdated (⭐44)](https://github.com/firstrow/go-outdated) - Console application that displays outdated packages.
 *   [goast-viewer (⭐746)](https://github.com/yuroyoro/goast-viewer) - Web based Golang AST visualizer.
-*   [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) - Tool to fix (add, remove) your Go imports automatically.
 *   [golang-ifood-sdk (⭐11)](https://github.com/arxdsilva/golang-ifood-sdk) - iFood API SDK.
 *   [golines (⭐790)](https://github.com/segmentio/golines) - Formatter that automatically shortens long lines in Go code.
 *   [GoPlantUML (⭐1.6k)](https://github.com/jfeliu007/goplantuml) - Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them.
@@ -4476,7 +4485,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Go Report Card](https://goreportcard.com) - A report card for your Go package.
 *   [go.dev](https://go.dev/) - A hub for Go developers.
 *   [gocryforhelp (⭐41)](https://github.com/ninedraft/gocryforhelp) - Collection of Go projects that needs help. Good place to start your open-source way in Go.
-*   [godoc.org](https://godoc.org/) - Documentation for open source Go packages.
 *   [Golang Flow](https://golangflow.io) - Post Updates, News, Packages and more.
 *   [Golang News](https://golangnews.com) - Links and news about Go programming.
 *   [Golang Resources](https://golangresources.com) - A curation of the best articles, exercises, talks and videos to learn Go.
@@ -4485,7 +4493,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Google Plus Community](https://plus.google.com/communities/114112804251407510571) - The Google+ community for #golang enthusiasts.
 *   [Gopher Community Chat](https://invite.slack.golangbridge.org) - Join Our New Slack Community For Gophers ([Understand how it came](https://blog.gopheracademy.com/gophers-slack-community/)).
 *   [Gophercises](https://gophercises.com/) - Free coding exercises for budding gophers.
-*   [gowalker.org](https://gowalker.org) - Go Project API documentation.
 *   [json2go](https://m-zajac.github.io/json2go) - Advanced JSON to Go struct conversion - online tool.
 *   [Learn Go Programming](https://blog.learngoprogramming.com) - Learn Go concepts with illustrations.
 *   [Made with Golang](https://madewithgolang.com/?ref=awesome-go)

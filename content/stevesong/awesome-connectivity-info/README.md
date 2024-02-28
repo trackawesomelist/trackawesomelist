@@ -6,6 +6,12 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 
 [ Daily / [Weekly](/content/stevesong/awesome-connectivity-info/week/README.md) / [Overview](/content/stevesong/awesome-connectivity-info/readme/README.md) ]
 
+## [Feb 28, 2024](/content/2024/02/28/README.md)
+
+### Connectivity Maps
+
+*   [Africa Telecoms Map 2024](https://africa-map-2024.telegeography.com/) - Telegeography's 2024 map of African telecoms including undersea cables, international bandwidth, and cloud data centres.
+
 ## [Feb 17, 2024](/content/2024/02/17/README.md)
 
 ### Other sources

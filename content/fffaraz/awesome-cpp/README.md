@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Feb 28, 2024](/content/2024/02/28/README.md)
+
+### Image Processing
+
+*   [OpenJPEG (⭐927)](https://github.com/uclouvain/openjpeg) - an open-source JPEG 2000 codec written in C language.  \[BSD-2-Clause]
+
 ## [Feb 25, 2024](/content/2024/02/25/README.md)
 
 ### Image Processing
