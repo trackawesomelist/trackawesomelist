@@ -6,6 +6,12 @@ A curated list of awesome system integration software and resources.
 
 [ Daily / [Weekly](/content/stn1slv/awesome-integration/week/README.md) / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
+## [Feb 29, 2024](/content/2024/02/29/README.md)
+
+### Projects / API Documentation
+
+*   [SpectaQL (⭐1k) (⭐1k)](https://github.com/anvilco/spectaql) - A Node.js library that generates static documentation for a GraphQL schema from various sources, including live endpoint, query result, and SDL files.
+
 ## [Feb 28, 2024](/content/2024/02/28/README.md)
 
 ### Projects / API Management

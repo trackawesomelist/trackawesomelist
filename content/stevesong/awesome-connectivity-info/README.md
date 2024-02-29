@@ -6,6 +6,16 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 
 [ Daily / [Weekly](/content/stevesong/awesome-connectivity-info/week/README.md) / [Overview](/content/stevesong/awesome-connectivity-info/readme/README.md) ]
 
+## [Feb 29, 2024](/content/2024/02/29/README.md)
+
+### Connectivity Maps
+
+*   [ITU Disaster Connectivity Map](https://dcm.itu.int/) - a map to assist disaster first responders in determining the status of telecommunications network infrastructure, coverage, and performance.
+
+### Other sources
+
+*   [ITU Data Hub](https://datahub.itu.int/) - a revamp of the ITU World ICT/Telecommunication Indicators Database (WTID), now free for non-commercial use
+
 ## [Feb 28, 2024](/content/2024/02/28/README.md)
 
 ### Connectivity Maps

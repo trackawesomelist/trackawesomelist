@@ -299,6 +299,7 @@
 *   [新概念 C 语言教程 (⭐466)](https://github.com/limingth/NCCL)
 *   [Beej's Guide to Network Programming 簡體中文版](https://beej-zhtw-gitbook.netdpi.net) - Brian "Beej Jorgensen" Hall, 廖亚伦译
 *   [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
+*   [C 语言入门教程](https://www.dotcpp.com/course/c/)
 *   [Linux C 编程一站式学习](https://web.archive.org/web/20210514225440/http://docs.linuxtone.org/ebooks/C\&CPP/c/) *(:card\_file\_box: archived)*
 
 ### <a id="csharp"></a>C\#

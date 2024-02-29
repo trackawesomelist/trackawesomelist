@@ -6,6 +6,13 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Feb 29, 2024](/content/2024/02/29/README.md)
+
+### Small Language Models
+
+*   [\[2402.17764\] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764)
+*   [mbzuai-oryx/MobiLlama (⭐219)](https://github.com/mbzuai-oryx/MobiLlama): Small Language Model tailored for edge devices
+
 ## [Feb 27, 2024](/content/2024/02/27/README.md)
 
 ### Prompt Engineering / Prompt Optimizers

@@ -8,6 +8,10 @@
 
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
+### C
+
+*   [C 语言入门教程](https://www.dotcpp.com/course/c/)
+
 ### Rust / Django
 
 *   [Rust 宏小册](https://zjp-cn.github.io/tlborm/)

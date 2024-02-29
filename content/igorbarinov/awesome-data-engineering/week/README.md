@@ -6,6 +6,12 @@ A curated list of data engineering tools for software developers
 
 [ [Daily](/content/igorbarinov/awesome-data-engineering/README.md) / Weekly / [Overview](/content/igorbarinov/awesome-data-engineering/readme/README.md) ]
 
+## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
+
+### Workflow
+
+*   [SuprSend](https://www.suprsend.com/products/workflows) - Create automated workflows and logic using API's for your notification service. Add templates, batching, preferences, inapp inbox with workflows to trigger notifications directly from your data warehouse.
+
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
 
 ### Workflow

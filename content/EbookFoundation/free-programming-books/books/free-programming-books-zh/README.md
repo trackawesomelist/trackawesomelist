@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/readme/README.md) ]
 
+## [Feb 29, 2024](/content/2024/02/29/README.md)
+
+### C
+
+*   [C 语言入门教程](https://www.dotcpp.com/course/c/)
+
 ## [Feb 26, 2024](/content/2024/02/26/README.md)
 
 ### Rust / Django

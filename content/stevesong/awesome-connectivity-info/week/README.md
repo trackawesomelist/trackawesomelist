@@ -11,6 +11,11 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 ### Connectivity Maps
 
 *   [Africa Telecoms Map 2024](https://africa-map-2024.telegeography.com/) - Telegeography's 2024 map of African telecoms including undersea cables, international bandwidth, and cloud data centres.
+*   [ITU Disaster Connectivity Map](https://dcm.itu.int/) - a map to assist disaster first responders in determining the status of telecommunications network infrastructure, coverage, and performance.
+
+### Other sources
+
+*   [ITU Data Hub](https://datahub.itu.int/) - a revamp of the ITU World ICT/Telecommunication Indicators Database (WTID), now free for non-commercial use
 
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
