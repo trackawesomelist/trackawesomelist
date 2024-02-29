@@ -75,6 +75,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-starter-markup-template (⭐26)](https://github.com/Grinch3214/vite-starter-markup-template) - Starter template for Markup.
 *   [create-domco (⭐11)](https://github.com/rossrobino/domco) - Starter template for domco SSG.
 *   [vite-vanilla-library-template (⭐8)](https://github.com/hywax/vite-vanilla-library-template) - Starter template TypeScript, ESLint, Vitest, Husky, Conventional Commits, GitHub actions.
+*   [vite-alpine-template (⭐0)](https://github.com/dvd101x/vite-alpine) - Starter template for Alpine.
 
 #### Vue 3
 
@@ -353,6 +354,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-plugin-legacy-swc (⭐32)](https://github.com/CyanSalt/vite-plugin-legacy-swc) - Legacy browser support with SWC.
 *   [vite-plugin-biome (⭐6)](https://github.com/skrulling/vite-plugin-biome) - Biome linter.
 *   [vite-plugin-oxlint (⭐0)](https://github.com/52-entertainment/vite-plugin-oxlint) - Oxlint linter.
+*   [@tomjs/vite-plugin-electron (⭐1)](https://github.com/tomjs/vite-plugin-electron) - Easily develop Electron applications.
 
 #### Loaders
 
@@ -459,7 +461,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-plugin-public-typescript (⭐7)](https://github.com/hemengke1997/vite-plugin-public-typescript) - Inject Typescript into `index.html`.
 *   [unplugin-generate-component-name (⭐14)](https://github.com/CCherry07/unplugin-generate-component-name) - Automatically generate component's name.
 *   [@laynezh/vite-plugin-lib-assets (⭐46)](https://github.com/laynezh/vite-plugin-lib-assets) - Extracts resource files referenced in `library mode` instead of embedded them as base64.
-*   [css-media-splitter/vite-plugin (⭐3)](https://github.com/levchak0910/css-media-splitter) - Extracts all `@media` At-rules into a dedicated `.css` files and download it only when matches the media query.
+*   [css-media-splitter/vite-plugin (⭐23)](https://github.com/levchak0910/css-media-splitter) - Extracts all `@media` At-rules into a dedicated `.css` files and download it only when matches the media query.
 
 #### Helpers
 
@@ -624,7 +626,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Loaders
 
 *   [vite-plugin-svgr (⭐444)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
-*   [vite-plugin-react-rich-svg (⭐2)](https://github.com/iGoodie/vite-plugin-react-rich-svg) - Seamless SVG loader with versatile import options; such as DataURI, SVGR Component and Raw HTML Code.
+*   [vite-plugin-react-rich-svg (⭐4)](https://github.com/iGoodie/vite-plugin-react-rich-svg) - Seamless SVG loader with versatile import options; such as DataURI, SVGR Component and Raw HTML Code.
 
 #### Transformers
 
@@ -877,6 +879,11 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### ASP.NET Core
 
 *   [Vite.AspNetCore (⭐159)](https://github.com/Eptagone/Vite.AspNetCore) - Integration with ASP.NET Core projects.
+
+### Drupal
+
+*   [Vite module](https://git.drupalcode.org/project/vite) - Backend integration for Drupal.
+*   [vite-plugin-twig-drupal (⭐7)](https://github.com/larowlan/vite-plugin-twig-drupal) - Support for Twig with includes/embeds and Drupal specific twig features.
 
 ## Migrations
 

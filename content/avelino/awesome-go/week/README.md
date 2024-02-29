@@ -16,6 +16,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [go-datebin (⭐3)](https://github.com/deatil/go-datebin) - A simple datetime parse pkg.
 
+### Financial
+
+*   [swift](https://code.pfad.fr/swift/) - Offline validity check of IBAN (International Bank Account Number) and retrieval of BIC (for some countries).
+
 ### JSON
 
 *   [gabs (⭐3.3k)](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go.
@@ -2599,7 +2603,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [app (⭐7.6k)](https://github.com/murlokswarm/app) - Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress.
 *   [fyne (⭐23k)](https://github.com/fyne-io/fyne) - Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android.
-*   [go-astilectron (⭐4.9k)](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron).
 *   [go-gtk](https://mattn.github.io/go-gtk/) - Go bindings for GTK.
 *   [go-sciter (⭐2.6k)](https://github.com/sciter-sdk/go-sciter) - Go bindings for Sciter: the Embeddable HTML/CSS/script engine for modern desktop UI development. Cross platform.
 *   [gotk3 (⭐2k)](https://github.com/gotk3/gotk3) - Go bindings for GTK3.
