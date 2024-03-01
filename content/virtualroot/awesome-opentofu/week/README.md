@@ -8,6 +8,10 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
+### Features
+
+*   [End-to-end encryption for state files](https://youtu.be/rR4IbhlRSkI) 🚧
+
 ### Tools / Wrappers
 
 *   [Terragrunt (⭐7.5k)](https://github.com/gruntwork-io/terragrunt) - Keep your configurations DRY, work with multiple modules, and manage remote state.
@@ -157,7 +161,6 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Features
 
-*   [End-to-end encryption for state files](https://twitter.com/OpenTofuOrg/status/1696597790661677207) 🚧
 *   [OCI-compliant registry support](https://twitter.com/OpenTofuOrg/status/1696913055576387599) 🚧
 
 ### Media / Helpers

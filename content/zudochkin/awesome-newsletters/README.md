@@ -6,6 +6,12 @@ A list of amazing Newsletters
 
 [ Daily / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 
+## [Mar 01, 2024](/content/2024/03/01/README.md)
+
+### Technology in General / Svelte
+
+*   [TechTok Today](https://techtok.today). Daily summarised and curated news in technology (as newsletter and in-website stories) picked from the most popular sources and fresh engineering blogs articles from leading tech companies.
+
 ## [Feb 21, 2024](/content/2024/02/21/README.md)
 
 ### Security / Svelte

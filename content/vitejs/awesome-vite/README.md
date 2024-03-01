@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Mar 01, 2024](/content/2024/03/01/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [@tomjs/vite-plugin-vscode (⭐2)](https://github.com/tomjs/vite-plugin-vscode) - Easily use web frameworks to develop `VSCode Extension`'s `Webview`, and support `HMR` and `Debug`.
+
 ## [Feb 29, 2024](/content/2024/02/29/README.md)
 
 ### Templates / Vanilla
@@ -14,7 +20,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@tomjs/vite-plugin-electron (⭐1)](https://github.com/tomjs/vite-plugin-electron) - Easily develop Electron applications.
+*   [@tomjs/vite-plugin-electron (⭐1)](https://github.com/tomjs/vite-plugin-electron) - Easily develop `Electron` applications.
 
 ### Drupal / Community
 

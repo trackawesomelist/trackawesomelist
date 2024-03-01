@@ -354,7 +354,8 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-plugin-legacy-swc (⭐32)](https://github.com/CyanSalt/vite-plugin-legacy-swc) - Legacy browser support with SWC.
 *   [vite-plugin-biome (⭐6)](https://github.com/skrulling/vite-plugin-biome) - Biome linter.
 *   [vite-plugin-oxlint (⭐0)](https://github.com/52-entertainment/vite-plugin-oxlint) - Oxlint linter.
-*   [@tomjs/vite-plugin-electron (⭐1)](https://github.com/tomjs/vite-plugin-electron) - Easily develop Electron applications.
+*   [@tomjs/vite-plugin-electron (⭐1)](https://github.com/tomjs/vite-plugin-electron) - Easily develop `Electron` applications.
+*   [@tomjs/vite-plugin-vscode (⭐2)](https://github.com/tomjs/vite-plugin-vscode) - Easily use web frameworks to develop `VSCode Extension`'s `Webview`, and support `HMR` and `Debug`.
 
 #### Loaders
 

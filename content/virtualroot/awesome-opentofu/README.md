@@ -6,6 +6,12 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 [ Daily / [Weekly](/content/virtualroot/awesome-opentofu/week/README.md) / [Overview](/content/virtualroot/awesome-opentofu/readme/README.md) ]
 
+## [Mar 01, 2024](/content/2024/03/01/README.md)
+
+### Features
+
+*   [End-to-end encryption for state files](https://youtu.be/rR4IbhlRSkI) 🚧
+
 ## [Feb 28, 2024](/content/2024/02/28/README.md)
 
 ### Tools / Wrappers
@@ -169,7 +175,6 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Features
 
-*   [End-to-end encryption for state files](https://twitter.com/OpenTofuOrg/status/1696597790661677207) 🚧
 *   [OCI-compliant registry support](https://twitter.com/OpenTofuOrg/status/1696913055576387599) 🚧
 
 ### Media / Helpers
