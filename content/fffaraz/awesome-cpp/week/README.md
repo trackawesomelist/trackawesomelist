@@ -16,6 +16,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [Xalan C (⭐26)](https://github.com/apache/xalan-c) - A library and a command line program to transform XML documents using a stylesheet that conforms to XSLT 1.0 standards. \[Apache-2.0] [website](https://xalan.apache.org/)
 
+### Miscellaneous
+
+*   [CRCpp (⭐281)](https://github.com/d-bahr/CRCpp) - Easy to use and fast C++ CRC library. \[BSD-3-Clause]
+
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
 
 ### CLI

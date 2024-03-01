@@ -101,6 +101,10 @@
 
 *   [Xalan C (⭐26)](https://github.com/apache/xalan-c) - A library and a command line program to transform XML documents using a stylesheet that conforms to XSLT 1.0 standards. \[Apache-2.0] [website](https://xalan.apache.org/)
 
+### Miscellaneous
+
+*   [CRCpp (⭐281)](https://github.com/d-bahr/CRCpp) - Easy to use and fast C++ CRC library. \[BSD-3-Clause]
+
 ## [12. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
@@ -415,6 +419,10 @@
 ### Libraries/Frameworks / Misc
 
 *   [seljabali/java-time-fun (⭐32)](https://github.com/seljabali/java-time-fun) - java.time Kotlin extension functions library.
+
+### Libraries/Frameworks / Data Science
+
+*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
 
 ### Libraries/Frameworks / Logging
 

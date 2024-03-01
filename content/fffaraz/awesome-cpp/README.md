@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Mar 01, 2024](/content/2024/03/01/README.md)
+
+### Miscellaneous
+
+*   [CRCpp (⭐281)](https://github.com/d-bahr/CRCpp) - Easy to use and fast C++ CRC library. \[BSD-3-Clause]
+
 ## [Feb 29, 2024](/content/2024/02/29/README.md)
 
 ### XML
