@@ -6,6 +6,27 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 [ Daily / [Weekly](/content/virtualroot/awesome-opentofu/week/README.md) / [Overview](/content/virtualroot/awesome-opentofu/readme/README.md) ]
 
+## [Mar 02, 2024](/content/2024/03/02/README.md)
+
+### Features
+
+*   [Provider-defined functions](https://www.youtube.com/shorts/4aHZjDz2VWg) 🚧
+
+### Tools / Wrappers
+
+*   [tf (⭐59)](https://github.com/dex4er/tf) - Less verbose and more friendly command outputs.
+
+### Tools / Registry
+
+*   [GitLab Module Registry](https://docs.gitlab.com/ee/user/packages/terraform_module_registry/) - Use GitLab projects as a private registry for terraform modules.
+*   [terralist (⭐265)](https://github.com/terralist/terralist) - Private registry for providers and modules.
+*   [citizen (⭐597)](https://github.com/outsideris/citizen) - Private registry for modules and providers with support for multiple databases and storages.
+*   [petra (⭐34)](https://github.com/devoteamgcloud/petra) - Private registry manager using Google Cloud Storage.
+*   [tapir (⭐133)](https://github.com/PacoVK/tapir) - Private registry for modules and providers with an UI.
+*   [terraform-registry (⭐72)](https://github.com/nrkno/terraform-registry) - Modules registry with authentication and support for multiple backends.
+*   [terrareg (⭐218)](https://github.com/MatthewJohn/terrareg) - Open-source modules registry with UI, optional Git integration and deep analysis.
+*   [terustry (⭐55)](https://github.com/veepee-oss/terustry) - Proxy registry for providers.
+
 ## [Mar 01, 2024](/content/2024/03/01/README.md)
 
 ### Features
@@ -28,8 +49,8 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / Registry
 
-*   [hermitcrab (⭐12)](https://github.com/seal-io/hermitcrab) - Registry network mirroring service.
-*   [terrac (⭐24)](https://github.com/haoliangyu/terrac) - Minimal private module registry.
+*   [hermitcrab (⭐12)](https://github.com/seal-io/hermitcrab) - Registry network mirroring service compatible with OpenTofu.
+*   [terrac (⭐24)](https://github.com/haoliangyu/terrac) - Minimal private module registry compatible with OpenTofu.
 
 ## [Feb 22, 2024](/content/2024/02/22/README.md)
 
@@ -70,7 +91,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / Registry
 
-*   [boring-registry (⭐141)](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with Terraform and OpenTofu.
+*   [boring-registry (⭐141)](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with OpenTofu.
 
 ### Tools / Helpers
 
