@@ -6,6 +6,13 @@ A curated list of awesome mathematics resources
 
 [ Daily / [Weekly](/content/rossant/awesome-math/week/README.md) / [Overview](/content/rossant/awesome-math/readme/README.md) ]
 
+## [Mar 02, 2024](/content/2024/03/02/README.md)
+
+### Analysis / Functional Analysis
+
+*   [An Introduction to Functional Analysis](https://www.math.uwaterloo.ca/~lwmarcou/notes/pmath453.pdf) - Laurent W. Marcoux (University of Waterloo)
+*   [Functional Analysis Lecture Notes](https://archive.org/details/TB_Ward___Functional_analysis_lecture_notes) - T.B. Ward (University of East Anglia)
+
 ## [Feb 28, 2024](/content/2024/02/28/README.md)
 
 ### Numerical Analysis / Stochastic processes
@@ -936,7 +943,6 @@ A curated list of awesome mathematics resources
 
 ### Analysis / Functional Analysis
 
-*   [Functional Analysis Lecture Notes](http://www.math.hkbu.edu.hk/~zeng/Teaching/math3680/FAnotes.pdf) - T.B. Ward (University of East Anglia)
 *   [Functional Analysis](http://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf) - Alexander C. R. Belton
 
 ### Probability and Statistics / Probability Theory
@@ -1032,7 +1038,6 @@ A curated list of awesome mathematics resources
 
 ### Analysis / Functional Analysis
 
-*   [An Introduction to Functional Analysis](http://www.math.uwaterloo.ca/~lwmarcou/Preprints/LinearAnalysis.pdf) - Laurent W. Marcoux (University of Waterloo)
 *   [Functional Analysis: Lecture Notes](http://users.math.msu.edu/users/jeffrey/920/920notes.pdf) - Jeff Schenker (Michigan State University)
 *   [Topics in Real and Functional Analysis](https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf) - Gerald Teschl
 *   [Functional Analysis](http://www2.math.ou.edu/~cremling/teaching/lecturenotes/fa-new/LN-I.pdf) - Christian Remling

@@ -1,48 +1,68 @@
 # Awesome List Updates on Feb 26 - Mar 03, 2024
 
-40 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [1. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+
+### Sensors / Air Quality
+
+*   [micropython-SNGCJA5 (⭐0)](https://github.com/aleppax/micropython-SNGCJA5) - MicroPython driver for Panasonic SN-GCJA5 particulate matter (PM) sensor.
+
+### Storage / Configuration file
+
+*   [uPyftsConf (⭐1)](https://github.com/aleppax/upyftsconf) - MicroPython Far Too Simple Config File. Single file library that writes configurations to itself.
+
+### Utilities / SRAM
+
+*   [micropython-hexdump (⭐2)](https://github.com/mattytrentini/micropython-hexdump) - An implementation of Hexdump for MicroPython.
+
+## [2. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+
+### Other
+
+*   [Hydra](https://computer-dictionary-online.org/definitions-h/hydra-code) - A bug that, when an attempt to fix is made, introduces multiple new bugs. It's a bug that cannot be fixed.
+
+## [3. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Utilities
 
 *   [Moussam (⭐57)](https://github.com/amit9838/mousam) - Weather application with 7 days forecast from Open-Meteo.com.
 
-## [2. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [4. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Class Based
 
 *   [WebCell (⭐175)](https://github.com/EasyWebApp/WebCell) - Web Components engine based on VDOM, JSX, MobX & TypeScript.
 
-## [3. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Technology in General / Svelte
 
 *   [TechTok Today](https://techtok.today). Daily summarised and curated news in technology (as newsletter and in-website stories) picked from the most popular sources and fresh engineering blogs articles from leading tech companies.
 
-## [4. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [6. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Java / Git
 
 *   [Google Tink (⭐68)](https://github.com/tink-crypto/tink-java) - A small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks.
 
-## [5. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [7. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Chatbots
 
 *   [Gemini](https://gemini.google.com) - *[reviews](https://altern.ai/product/gemini)* - An experimental AI chatbot by Google, powered by the LaMDA model.
 
-## [6. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [8. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Related Events / 2005
 
 *   [Regulatable ML Workshop (RegML'23)](https://regulatableml.github.io/)
 
-## [7. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [9. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
@@ -52,7 +72,7 @@
 
 *   [alosaur (⭐808)](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many ES Decorators.
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Feed Readers
 
@@ -66,25 +86,25 @@
 
 *   [Chhoto URL (⭐2)](https://github.com/SinTan1729/chhoto-url) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). `MIT` `Rust/Docker`
 
-## [9. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [11. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Workflow
 
 *   [SuprSend](https://www.suprsend.com/products/workflows) - Create automated workflows and logic using API's for your notification service. Add templates, batching, preferences, inapp inbox with workflows to trigger notifications directly from your data warehouse.
 
-## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [12. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Content management systems
 
 *   [Graphweaver (⭐421)](https://github.com/exogee-technology/graphweaver) - CMS and headless GraphQL API.
 
-## [11. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [13. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Start UI \[web\] (⭐1.3k)](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
 
-## [12. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [14. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Features
 
@@ -117,13 +137,18 @@
 *   [terrareg (⭐218)](https://github.com/MatthewJohn/terrareg) - Open-source modules registry with UI, optional Git integration and deep analysis.
 *   [terustry (⭐55)](https://github.com/veepee-oss/terustry) - Proxy registry for providers.
 
-## [13. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [15. Awesome Math](/content/rossant/awesome-math/week/README.md)
+
+### Analysis / Functional Analysis
+
+*   [An Introduction to Functional Analysis](https://www.math.uwaterloo.ca/~lwmarcou/notes/pmath453.pdf) - Laurent W. Marcoux (University of Waterloo)
+*   [Functional Analysis Lecture Notes](https://archive.org/details/TB_Ward___Functional_analysis_lecture_notes) - T.B. Ward (University of East Anglia)
 
 ### Numerical Analysis / Stochastic processes
 
 *   [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](https://user.math.uni-bremen.de/schmi/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
 
-## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
@@ -137,7 +162,7 @@
 
 *   [CRCpp (⭐281)](https://github.com/d-bahr/CRCpp) - Easy to use and fast C++ CRC library. \[BSD-3-Clause]
 
-## [15. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [17. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -201,7 +226,7 @@
 
 *   [JSON Schema (⭐3k) (⭐3k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [16. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [18. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Connectivity Maps
 
@@ -212,19 +237,19 @@
 
 *   [ITU Data Hub](https://datahub.itu.int/) - a revamp of the ITU World ICT/Telecommunication Indicators Database (WTID), now free for non-commercial use
 
-## [17. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/week/README.md)
+## [19. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/week/README.md)
 
 ### **Grow Automation**
 
 *   [Potnanny (⭐0)](https://github.com/potnanny/application) - Potnanny turns your Raspberry Pi into powerful grow-room automation system using inexpensive, off-the-shelf Bluetooth sensors, power outlets, and other devices
 
-## [18. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [20. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Hidden Lake (⭐167)](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake) is an anonymous network with theoretical provability to a global observer. It is based on the problem of queues.
 
-## [19. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [21. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
@@ -232,7 +257,7 @@
 *   [polars-upgrade (⭐29)](https://github.com/MarcoGorelli/polars-upgrade) - Python package that automatically upgrades your Polars code so it's compatible with future versions by [@MarcoGorelli](https://github.com/MarcoGorelli).
 *   [polars-fuzzy-match (⭐5)](https://github.com/bnm3k/polars-fuzzy-match) - Python package for fuzzy matching with Polars, i.e. matching text elements that are similar but not exactly identical by [@bnm3k](https://github.com/bnm3k).
 
-## [20. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [22. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Widgets
 
@@ -246,7 +271,7 @@
 
 *   [Wagtail Word (⭐0)](https://github.com/Nigel2392/wagtail_word) - A way to upload your word (.docx, .doc) documents as pages to Wagtail.
 
-## [21. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [23. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### AI
 
@@ -267,13 +292,13 @@
 *   [Introduction to Wardley Mapping](https://chat.openai.com/g/g-v6OW6JOQ7-introduction-to-wardley-mapping) - A quick introduction to Wardley Mapping
 *   [Wardley Map Syntax Expert](https://chat.openai.com/g/g-6vfuL6SXd-wardley-map-syntax-expert) - Expert in analyzing and fixing Wardley Map syntax
 
-## [22. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [24. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Julia / FrameWorks
 
 *   [Lucky.jl (⭐1)](https://github.com/oliviermilla/Lucky.jl) - Modular, asynchronous trading engine in pure Julia.
 
-## [23. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [25. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Artificial Intelligence (AI)
 
@@ -288,14 +313,14 @@
 
 *   [androiddev.careers](https://androiddev.careers/) – Job board for Android developers
 
-## [24. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [26. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / PHP Conferences
 
 *   [Laracon EU](https://www.youtube.com/@LaraconEU) - Laracon EU is a 2-day event for people who are interested in learning Laravel and related technologies, or who want to share their knowledge with others.
 *   [PHP\[TEK\]](https://tek.phparch.com/) - The longest-running web developer conference in the United States that has a focus on the PHP programming language.
 
-## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Misc
 
@@ -313,13 +338,13 @@
 
 *   [EZSwiftExtensions (⭐3k)](https://github.com/Esqarrouth/EZSwiftExtensions) - How standard types and classes were supposed to work.
 
-## [26. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [28. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [IgorAntun/node-chat (⭐752)](https://github.com/IgorAntun/node-chat#readme) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
 
-## [27. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [29. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Rust / General-Purpose Machine Learning
 
@@ -340,13 +365,13 @@
 
 *   [Chroma](https://www.trychroma.com/) - Chroma - the AI-native open-source embedding database
 
-## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Design Inspiration
 
 *   [Lapa Ninja](https://www.lapa.ninja/) - \[Landing page / UI KIts / Web screenshots] Lapa Ninja is a gallery featuring the best 6025 landing page examples, free books for designers and free UI kits from around the web.
 
-## [29. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [31. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vanilla
 
@@ -366,13 +391,13 @@
 *   [Vite module](https://git.drupalcode.org/project/vite) - Backend integration for Drupal.
 *   [vite-plugin-twig-drupal (⭐7)](https://github.com/larowlan/vite-plugin-twig-drupal) - Support for Twig with includes/embeds and Drupal specific twig features.
 
-## [30. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [32. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Testing
 
 *   [Apidog](https://apidog.com/) - GUI tool for API mocking, testing (scenario testing, functional testing, performance testing, etc.).
 
-## [31. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/week/README.md)
+## [33. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/week/README.md)
 
 ### Contents / Pomodoro Timer Apps
 
@@ -384,7 +409,11 @@
 *   **[Focus Booster](https://www.focusboosterapp.com)** - [review](https://productivity.directory/focus-booster) - Pomodoro app with detailed productivity reporting.
 *   **[TomatoTimer](https://tomato-timer.com)** - [review](https://productivity.directory/tomato-timer) - Free and simple Pomodoro timer for web users.
 
-## [32. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+### Contents / AI Tools
+
+*   **[Motion App](https://usemotion.com)** - [reviews](https://productivity.directory/motion) - [blog post](https://blog.productivity.directory/motion-app-review-a-deep-dive-into-the-ai-powered-productivity-app-78081e8107f7) - Automation for connecting apps and services.
+
+## [34. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Human Concept Representation
 
@@ -406,7 +435,7 @@
 
 *   [HCI Research as Problem-Solving](https://dl.acm.org/doi/10.1145/2858036.2858283) - ***ACM SIGCHI'16***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=3206201064123443333\&as_sdt=0,5)]. This essay contributes a meta-scientific account of human-computer interaction (HCI) research as problem-solving. We build on the philosophy of Larry Laudan, who develops problem and solution as the foundational concepts of science. We argue that most HCI research is about three main types of problem: empirical, conceptual, and constructive.
 
-## [33. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [35. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Blockchain
 
@@ -452,7 +481,7 @@
 
 *   [Understanding Go in a visual way](https://dev.to/aurelievache/series/26234) - Learn Go visually
 
-## [34. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [36. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
@@ -537,7 +566,7 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [35. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [37. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Online Tools and Applications
 
@@ -558,13 +587,13 @@
 
 *   [Inline Help](https://inlinehelp.com): Answer customer questions before they ask
 
-## [36. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [38. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Planning Data Specifications / Transportation
 
 *   [OpenDrive](https://www.asam.net/standards/detail/opendrive/) - The data that is stored in an ASAM OpenDRIVE file describes the geometry of roads, lanes and objects, such as roadmarks on the road, as well as features along the roads, like signals.
 
-## [37. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [39. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### PlayCanvas
 
@@ -574,7 +603,7 @@
 
 *   [playcanvas-rest-api-tools (⭐19)](https://github.com/playcanvas/playcanvas-rest-api-tools) - CLI tools built on the PlayCanvas REST API.
 
-## [38. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [40. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Programming Languages Support / Diagnostics
 
@@ -605,7 +634,7 @@
 
 *   [kawre/leetcode.nvim (⭐420)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
 
-## [39. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [41. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -616,7 +645,7 @@
 *   [ichirei (⭐0)](https://github.com/ichirei/ichirei.zsh-theme) - Colorful. Includes decorators for `git` status, time & current directory. Requires a Nerd Font.
 *   [sashimi (⭐0)](https://github.com/simonmader17/sashimi-zsh-theme) - Includes decorators for `git` status and the exit status of the last command run.
 
-## [40. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+## [42. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
 
 ### C
 

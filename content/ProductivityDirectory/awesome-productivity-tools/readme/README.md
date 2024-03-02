@@ -12,6 +12,10 @@ My Awesome list of productivity tools and products
 
 A curated list of awesome productivity tools and products to help you stay organized, focused, and efficient. Feel free to suggest additions to this list!
 
+### related links
+
+[Productivity Apps](https://productivity.directory) - [Productivity Hacks](https://productivity.directory/notes/hacks) - [Productivity Blog](https://blog.productivity.directory)
+
 ## Contents
 
 *   [Task Management](#task-management)
@@ -24,6 +28,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 *   [Mind Mapping](#mind-mapping)
 *   [Focus Tools](#focus-tools)
 *   [File Organization](#file-organization)
+*   [AI Tools](#ai-tools)
 *   [Miscellaneous](#miscellaneous)
 
 ### Task Management
@@ -98,6 +103,12 @@ A curated list of awesome productivity tools and products to help you stay organ
 1.  **[IFTTT](https://ifttt.com)** - Automation for connecting apps and services.
 2.  **[Zapier](https://zapier.com)** - Automation for busy people.
 3.  **[Trello Power-Ups](https://trello.com/power-ups)** - Enhancements for Trello.
+
+### AI Tools
+
+*A much more compelete list of **[AI Tools for Productivity](https://productivity.directory/category/ai)***
+
+*   **[Motion App](https://usemotion.com)** - [reviews](https://productivity.directory/motion) - [blog post](https://blog.productivity.directory/motion-app-review-a-deep-dive-into-the-ai-powered-productivity-app-78081e8107f7) - Automation for connecting apps and services.
 
 ***
 

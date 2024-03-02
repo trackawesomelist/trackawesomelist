@@ -1,12 +1,45 @@
 # Awesome List Updates on Mar 02, 2024
 
-4 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
+## [1. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/README.md)
+
+### Contents / AI Tools
+
+*   **[Motion App](https://usemotion.com)** - [reviews](https://productivity.directory/motion) - [blog post](https://blog.productivity.directory/motion-app-review-a-deep-dive-into-the-ai-powered-productivity-app-78081e8107f7) - Automation for connecting apps and services.
+
+## [2. Awesome Math](/content/rossant/awesome-math/README.md)
+
+### Analysis / Functional Analysis
+
+*   [An Introduction to Functional Analysis](https://www.math.uwaterloo.ca/~lwmarcou/notes/pmath453.pdf) - Laurent W. Marcoux (University of Waterloo)
+*   [Functional Analysis Lecture Notes](https://archive.org/details/TB_Ward___Functional_analysis_lecture_notes) - T.B. Ward (University of East Anglia)
+
+## [3. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+
+### Sensors / Air Quality
+
+*   [micropython-SNGCJA5 (⭐0)](https://github.com/aleppax/micropython-SNGCJA5) - MicroPython driver for Panasonic SN-GCJA5 particulate matter (PM) sensor.
+
+### Storage / Configuration file
+
+*   [uPyftsConf (⭐1)](https://github.com/aleppax/upyftsconf) - MicroPython Far Too Simple Config File. Single file library that writes configurations to itself.
+
+### Utilities / SRAM
+
+*   [micropython-hexdump (⭐2)](https://github.com/mattytrentini/micropython-hexdump) - An implementation of Hexdump for MicroPython.
+
+## [4. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+
+### Other
+
+*   [Hydra](https://computer-dictionary-online.org/definitions-h/hydra-code) - A bug that, when an attempt to fix is made, introduces multiple new bugs. It's a bug that cannot be fixed.
+
+## [5. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
 ### Features
 
@@ -27,19 +60,19 @@
 *   [terrareg (⭐218)](https://github.com/MatthewJohn/terrareg) - Open-source modules registry with UI, optional Git integration and deep analysis.
 *   [terustry (⭐55)](https://github.com/veepee-oss/terustry) - Proxy registry for providers.
 
-## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Science Logology / Science of Science
 
 *   [HCI Research as Problem-Solving](https://dl.acm.org/doi/10.1145/2858036.2858283) - ***ACM SIGCHI'16***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=3206201064123443333\&as_sdt=0,5)]. This essay contributes a meta-scientific account of human-computer interaction (HCI) research as problem-solving. We build on the philosophy of Larry Laudan, who develops problem and solution as the foundational concepts of science. We argue that most HCI research is about three main types of problem: empirical, conceptual, and constructive.
 
-## [3. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [7. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Utilities
 
 *   [Moussam (⭐57)](https://github.com/amit9838/mousam) - Weather application with 7 days forecast from Open-Meteo.com.
 
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Search / Diagnostics
 

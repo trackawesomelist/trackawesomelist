@@ -6,6 +6,12 @@ A curated list for when naming things is done right.
 
 [ Daily / [Weekly](/content/gruhn/awesome-naming/week/README.md) / [Overview](/content/gruhn/awesome-naming/readme/README.md) ]
 
+## [Mar 02, 2024](/content/2024/03/02/README.md)
+
+### Other
+
+*   [Hydra](https://computer-dictionary-online.org/definitions-h/hydra-code) - A bug that, when an attempt to fix is made, introduces multiple new bugs. It's a bug that cannot be fixed.
+
 ## [Nov 04, 2023](/content/2023/11/04/README.md)
 
 ### Programming Languages and Programming Language Theory

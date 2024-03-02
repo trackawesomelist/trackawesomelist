@@ -6,6 +6,12 @@ My Awesome list of productivity tools and products
 
 [ Daily / [Weekly](/content/ProductivityDirectory/awesome-productivity-tools/week/README.md) / [Overview](/content/ProductivityDirectory/awesome-productivity-tools/readme/README.md) ]
 
+## [Mar 02, 2024](/content/2024/03/02/README.md)
+
+### Contents / AI Tools
+
+*   **[Motion App](https://usemotion.com)** - [reviews](https://productivity.directory/motion) - [blog post](https://blog.productivity.directory/motion-app-review-a-deep-dive-into-the-ai-powered-productivity-app-78081e8107f7) - Automation for connecting apps and services.
+
 ## [Feb 26, 2024](/content/2024/02/26/README.md)
 
 ### Contents / Pomodoro Timer Apps

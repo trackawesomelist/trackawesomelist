@@ -18,6 +18,10 @@ My Awesome list of productivity tools and products
 *   **[Focus Booster](https://www.focusboosterapp.com)** - [review](https://productivity.directory/focus-booster) - Pomodoro app with detailed productivity reporting.
 *   **[TomatoTimer](https://tomato-timer.com)** - [review](https://productivity.directory/tomato-timer) - Free and simple Pomodoro timer for web users.
 
+### Contents / AI Tools
+
+*   **[Motion App](https://usemotion.com)** - [reviews](https://productivity.directory/motion) - [blog post](https://blog.productivity.directory/motion-app-review-a-deep-dive-into-the-ai-powered-productivity-app-78081e8107f7) - Automation for connecting apps and services.
+
 ## [Jan 29 - Feb 04, 2024](/content/2024/5/README.md)
 
 ### Contents / Task Management
