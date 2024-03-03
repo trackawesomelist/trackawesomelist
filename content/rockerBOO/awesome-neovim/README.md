@@ -6,6 +6,20 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Mar 03, 2024](/content/2024/03/03/README.md)
+
+### Color / Diagnostics
+
+*   [rasulomaroff/reactive.nvim (⭐106)](https://github.com/rasulomaroff/reactive.nvim) - Set global and window-specific highlights or trigger callbacks when modes/operators change or windows are switched.
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [samharju/synthweave.nvim (⭐11)](https://github.com/samharju/synthweave.nvim) - Synthwave '84 colorscheme port.
+
+### Terminal Integration / Diagnostics
+
+*   [samharju/yeet.nvim (⭐6)](https://github.com/samharju/yeet.nvim) - Run shell commands in terminal buffers or tmux panes.
+
 ## [Mar 02, 2024](/content/2024/03/02/README.md)
 
 ### Search / Diagnostics
@@ -81,7 +95,7 @@ Collections of awesome neovim plugins.
 
 ### OS-specific / Diagnostics
 
-*   [massix/termux.nvim (⭐1)](https://github.com/massix/termux.nvim) - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
+*   [massix/termux.nvim (⭐6)](https://github.com/massix/termux.nvim) - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
 
 ## [Feb 13, 2024](/content/2024/02/13/README.md)
 
@@ -151,7 +165,7 @@ Collections of awesome neovim plugins.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [drybalka/clean.nvim (⭐23)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
+*   [drybalka/clean.nvim (⭐27)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
 
 ## [Jan 29, 2024](/content/2024/01/29/README.md)
 
@@ -209,11 +223,11 @@ Collections of awesome neovim plugins.
 
 ### Startup / Diagnostics
 
-*   [CWood-sdf/spaceport.nvim (⭐27)](https://github.com/CWood-sdf/spaceport.nvim) - The start screen that gets you to your projects blazingly fast.
+*   [CWood-sdf/spaceport.nvim (⭐42)](https://github.com/CWood-sdf/spaceport.nvim) - The start screen that gets you to your projects blazingly fast.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [Cris-lml007/NeoPlus (⭐3)](https://github.com/Cris-lml007/NeoPlus) - NeoPlus is a free, open source IDE with tools that works on Neovim.
+*   [Cris-lml007/NeoPlus (⭐6)](https://github.com/Cris-lml007/NeoPlus) - NeoPlus is a free, open source IDE with tools that works on Neovim.
 
 ## [Jan 12, 2024](/content/2024/01/12/README.md)
 
@@ -288,7 +302,7 @@ Collections of awesome neovim plugins.
 
 ### Keybinding / Diagnostics
 
-*   [tris203/hawtkeys.nvim (⭐162)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
+*   [tris203/hawtkeys.nvim (⭐167)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
 
 ## [Dec 28, 2023](/content/2023/12/28/README.md)
 

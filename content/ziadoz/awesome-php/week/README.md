@@ -8,10 +8,19 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
+### Configuration / PHP Books
+
+*   [Mastering Object-Orientated PHP](https://masteringobjectorientedphp.com/) - A book about object-orientated PHP by Brandon Savage.
+*   [PHP Cookbook](https://www.oreilly.com/library/view/php-cookbook/9781098121310/) - This cookbook provides code recipes to help you resolve a variety of coding issues.
+
 ### Configuration / PHP Conferences
 
 *   [Laracon EU](https://www.youtube.com/@LaraconEU) - Laracon EU is a 2-day event for people who are interested in learning Laravel and related technologies, or who want to share their knowledge with others.
 *   [PHP\[TEK\]](https://tek.phparch.com/) - The longest-running web developer conference in the United States that has a focus on the PHP programming language.
+
+### Configuration / PHP Podcasts
+
+*   [Mostly Technical](https://mostlytechnical.com/) - Hosted by Ian Landsman and Aaron Francis, Mostly Technical is a lively discussion on Laravel, business, and an eclectic mix of related topics.
 
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
 
@@ -28,16 +37,16 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Content Management Systems (CMS)
 
-*   [WordPress (⭐18k)](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
+*   [WordPress (⭐19k)](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
 
 ### Table of Contents / Event
 
-*   [Elephant.io (⭐59)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
+*   [Elephant.io (⭐65)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 
 ### Configuration / Development Environment
 
 *   [DDEV (⭐2.3k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
-*   [Docksal (⭐663)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
+*   [Docksal (⭐665)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
 
 ### Configuration / Text Editors and IDEs
 
@@ -153,21 +162,17 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [Puppet](https://www.puppet.com) - A server automation framework and application.
 
-### Configuration / PHP Books
-
-*   [Mastering Object-Orientated PHP](https://brandonsavage.net) - A book about object-orientated PHP by Brandon Savage.
-
 ### Configuration / PHP Podcasts
 
-*   [The Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
 *   [Laravel News Podcast](https://podcast.laravel-news.com/) - The Laravel News Podcast brings you all the latest news and events related to the Laravel PHP Framework.
-*   [The PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
-*   [The Laracasts Snippet](https://laracasts.simplecast.com) - The Laracasts snippet, each episode, offers a single thought on some aspect of web development.
-*   [php\[podcast\] episodes from php\[architect\]](https://www.phparch.com/podcast/) - The official podcast of php\[architect] the industry's leading tech magazine and publisher focused on PHP and web development.
-*   [Over Engineered](https://overengineered.fm/) - A podcast in mini-series where we explore unimportant programming questions in extreme detail.
-*   [PHPUgly](https://www.phpugly.com/) - The ramblings of a few overworked PHP Developers.
 *   [No Compromises](https://show.nocompromises.io/) - Two seasoned salty programming veterans talk best practices based on years of working with Laravel SaaS teams.
 *   [North Meets South Web Podcast](https://www.northmeetssouth.audio/) - Jacob Bennett and Michael Dyrynda conquer a 14.5 hour time difference to talk about life as web developers.
+*   [Over Engineered](https://overengineered.fm/) - A podcast in mini-series where we explore unimportant programming questions in extreme detail.
+*   [php\[podcast\] episodes from php\[architect\]](https://www.phparch.com/podcast/) - The official podcast of php\[architect] the industry's leading tech magazine and publisher focused on PHP and web development.
+*   [PHPUgly](https://www.phpugly.com/) - The ramblings of a few overworked PHP Developers.
+*   [The Laracasts Snippet](https://laracasts.simplecast.com) - The Laracasts snippet, each episode, offers a single thought on some aspect of web development.
+*   [The Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
+*   [The PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 
 ## [Jul 18 - Jul 24, 2022](/content/2022/29/README.md)
 
@@ -273,7 +278,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Configuration / PHP Websites
 
 *   [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/tag/php-annotated-monthly/) - A monthly digest of PHP news.
-*   [PHP Weekly](https://www.phpweekly.com/archive.html) - A weekly PHP newsletter.
 
 ### Configuration / PHP Newsletters
 
@@ -461,10 +465,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Configuration / Web Applications
 
 *   [DBV (⭐1.7k)](https://github.com/victorstanciu/dbv) - A database version control application.
-
-### Configuration / PHP Books
-
-*   [Modern PHP New Features and Good Practices](https://www.oreilly.com/library/view/~/9781491905173/) - A book about new PHP features and best practices by Josh Lockhart.
 
 ## [Sep 28 - Oct 04, 2020](/content/2020/39/README.md)
 
@@ -1528,7 +1528,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Configuration / PHP Books
 
 *   [Signaling PHP](https://leanpub.com/signalingphp) - A book about catching PCNTL signals in CLI scripts by Cal Evans.
-*   [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - A book about building testing PHP applications by Chris Hartjes.
 *   [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) - This book covers parsing and validating XML documents, leveraging XPath expressions, and working with namespaces as well as how to create and modify XML files programmatically.
 
 ### Configuration / PHP Videos
@@ -1613,10 +1612,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [PHPPowerPoint (⭐1.3k)](https://github.com/PHPOffice/PHPPresentation) - A library for working with Microsoft PowerPoint Presentations.
 
-### Table of Contents / Command Line
-
-*   [Boris (⭐2.2k)](https://github.com/borisrepl/boris) - A tiny PHP REPL.
-
 ### Table of Contents / Caching and Locking
 
 *   [Stash (⭐952)](https://github.com/tedious/Stash) - Another library for caching.
@@ -1637,10 +1632,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
 *   [phpMyAdmin (⭐6.9k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
-
-### Configuration / PHP Books
-
-*   [PHP 7 Upgrade Guide](https://leanpub.com/php7) - An ebook covering all of the features and changes in PHP 7 by Colin O'Dell.
 
 ## [Dec 21 - Dec 27, 2015](/content/2015/51/README.md)
 

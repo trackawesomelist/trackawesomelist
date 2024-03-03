@@ -174,7 +174,7 @@ Please see [CONTRIBUTING (⭐30k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Moodle](https://moodle.org/) - An open-source learning platform.
 *   [Pico CMS](https://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
 *   [Statamic](https://statamic.com/) - Build beautiful, easy-to-manage websites.
-*   [WordPress (⭐18k)](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
+*   [WordPress (⭐19k)](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
 
 ### Components
 
@@ -570,7 +570,7 @@ Please see [CONTRIBUTING (⭐30k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Amp (⭐4.1k)](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
 *   [Broadway (⭐1.5k)](https://github.com/broadway/broadway) - An event source and CQRS library.
 *   [CakePHP Event (⭐22)](https://github.com/cakephp/event) - An event dispatcher library.
-*   [Elephant.io (⭐59)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
+*   [Elephant.io (⭐65)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 *   [Evenement (⭐1.2k)](https://github.com/igorw/evenement) - An event dispatcher library.
 *   [Event (⭐1.5k)](https://github.com/thephpleague/event) - An event library with a focus on domain events.
 *   [Fast CGI Client (⭐546)](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket.
@@ -683,7 +683,6 @@ Libraries to help manage database schemas and migrations.
 *Libraries related to the command line.*
 
 *   [Aura.Cli (⭐104)](https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
-*   [Boris (⭐2.2k)](https://github.com/borisrepl/boris) - A tiny PHP REPL.
 *   [Cilex (⭐622)](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
 *   [CLI Menu (⭐1.9k)](https://github.com/php-school/cli-menu) - A library for building CLI menus.
 *   [CLIFramework (⭐434)](https://github.com/c9s/CLIFramework) - A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
@@ -926,7 +925,7 @@ Libraries to help manage database schemas and migrations.
 *   [DDEV (⭐2.3k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
 *   [Docker](https://www.docker.com/) - A containerization platform.
 *   [Docker PHP Extension Installer (⭐3.8k)](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
-*   [Docksal (⭐663)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
+*   [Docksal (⭐665)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
 *   [Expose (⭐4.1k)](https://github.com/beyondcode/expose) - An open-source PHP tunneling service.
 *   [Lando](https://lando.dev/) - Push-button development environments.
 *   [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
@@ -992,7 +991,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *   [PHP The Right Way](https://phptherightway.com/) - A PHP best practice quick reference guide.
 *   [PHP UG](https://php.ug) - A website to help people locate their nearest PHP user group (UG).
 *   [PHP Watch](https://php.watch/) - PHP articles, news, upcoming changes, RFCs and more.
-*   [PHP Weekly](https://www.phpweekly.com/archive.html) - A weekly PHP newsletter.
 *   [Unit Testing Tips](https://testing-tips.sarvendev.com/) - Unit Testing Tips by examples in PHP.
 
 ### PHP Books
@@ -1002,14 +1000,12 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *   [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Real examples written in PHP showcasing DDD Architectural Styles.
 *   [Functional Programming in PHP](https://www.functionalphp.com/) - This book will show you how to leverage these new PHP5.3+ features by understanding functional programming principles
 *   [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
-*   [Mastering Object-Orientated PHP](https://brandonsavage.net) - A book about object-orientated PHP by Brandon Savage.
-*   [Modern PHP New Features and Good Practices](https://www.oreilly.com/library/view/~/9781491905173/) - A book about new PHP features and best practices by Josh Lockhart.
+*   [Mastering Object-Orientated PHP](https://masteringobjectorientedphp.com/) - A book about object-orientated PHP by Brandon Savage.
+*   [PHP Cookbook](https://www.oreilly.com/library/view/php-cookbook/9781098121310/) - This cookbook provides code recipes to help you resolve a variety of coding issues.
 *   [Modernizing Legacy Applications in PHP](https://leanpub.com/mlaphp) - A book about modernizing legacy PHP applications by Paul M. Jones.
-*   [PHP 7 Upgrade Guide](https://leanpub.com/php7) - An ebook covering all of the features and changes in PHP 7 by Colin O'Dell.
 *   [Scaling PHP Applications](https://www.scalingphpbook.com) - An ebook about scaling PHP applications by Steve Corona.
 *   [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) - A book about common security terms and practices for PHP by Chris Cornutt.
 *   [Signaling PHP](https://leanpub.com/signalingphp) - A book about catching PCNTL signals in CLI scripts by Cal Evans.
-*   [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - A book about building testing PHP applications by Chris Hartjes.
 *   [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) - This book covers parsing and validating XML documents, leveraging XPath expressions, and working with namespaces as well as how to create and modify XML files programmatically.
 
 ### PHP Videos
@@ -1033,18 +1029,19 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 *Podcasts with a focus on PHP topics.*
 
-*   [The Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
 *   [Laravel News Podcast](https://podcast.laravel-news.com/) - The Laravel News Podcast brings you all the latest news and events related to the Laravel PHP Framework.
-*   [PHP Internals News](https://phpinternals.news) - A podcast about PHP internals.
-*   [The PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
-*   [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
-*   [Voices of the ElePHPant](https://voicesoftheelephpant.com/) - Interviews with the people who make the PHP community special.
-*   [The Laracasts Snippet](https://laracasts.simplecast.com) - The Laracasts snippet, each episode, offers a single thought on some aspect of web development.
-*   [php\[podcast\] episodes from php\[architect\]](https://www.phparch.com/podcast/) - The official podcast of php\[architect] the industry's leading tech magazine and publisher focused on PHP and web development.
-*   [Over Engineered](https://overengineered.fm/) - A podcast in mini-series where we explore unimportant programming questions in extreme detail.
-*   [PHPUgly](https://www.phpugly.com/) - The ramblings of a few overworked PHP Developers.
+*   [Mostly Technical](https://mostlytechnical.com/) - Hosted by Ian Landsman and Aaron Francis, Mostly Technical is a lively discussion on Laravel, business, and an eclectic mix of related topics.
 *   [No Compromises](https://show.nocompromises.io/) - Two seasoned salty programming veterans talk best practices based on years of working with Laravel SaaS teams.
 *   [North Meets South Web Podcast](https://www.northmeetssouth.audio/) - Jacob Bennett and Michael Dyrynda conquer a 14.5 hour time difference to talk about life as web developers.
+*   [Over Engineered](https://overengineered.fm/) - A podcast in mini-series where we explore unimportant programming questions in extreme detail.
+*   [PHP Internals News](https://phpinternals.news) - A podcast about PHP internals.
+*   [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
+*   [php\[podcast\] episodes from php\[architect\]](https://www.phparch.com/podcast/) - The official podcast of php\[architect] the industry's leading tech magazine and publisher focused on PHP and web development.
+*   [PHPUgly](https://www.phpugly.com/) - The ramblings of a few overworked PHP Developers.
+*   [The Laracasts Snippet](https://laracasts.simplecast.com) - The Laracasts snippet, each episode, offers a single thought on some aspect of web development.
+*   [The Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
+*   [The PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
+*   [Voices of the ElePHPant](https://voicesoftheelephpant.com/) - Interviews with the people who make the PHP community special.
 
 ### PHP Newsletters
 
