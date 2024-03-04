@@ -394,19 +394,15 @@ Please see [CONTRIBUTING (⭐30k)](https://github.com/ziadoz/awesome-php/blob/ma
 
 *   [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium (⭐12k)](https://github.com/jedisct1/libsodium).
 *   [HTML Purifier (⭐2.9k)](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
-*   [IniScan (⭐1.5k)](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
 *   [Optimus (⭐1.3k)](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
+*   [OWASP](https://owasp.org/) - Explore the world of cyber security.
 *   [PHPGGC (⭐3k)](https://github.com/ambionics/phpggc) - A library of PHP unserializable payloads along with a tool to generate them.
 *   [PHP Encryption (⭐3.7k)](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
-*   [PHP SSH (⭐358)](https://github.com/Herzult/php-ssh) - An experimental object-orientated SSH wrapper library.
 *   [PHPSecLib](https://phpseclib.sourceforge.net) - A pure PHP secure communications library.
 *   [random\_compat (⭐8.1k)](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
-*   [RandomLib (⭐840)](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
 *   [Symfony Security Monitoring](https://security.symfony.com/) - A web tool to check your Composer dependencies for security advisories, previously known as "SensioLabs Security Check".
 *   [SQLMap (⭐30k)](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
-*   [TCrypto (⭐60)](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
-*   [VAddy](https://vaddy.net/) - A continuous security testing platform for web applications.
-*   [Zap (⭐65)](https://github.com/OWASP/www-project-zap) - An integrated penetration testing tool for web applications.
+*   [Zap (⭐12k)](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
 
 ### Passwords
 

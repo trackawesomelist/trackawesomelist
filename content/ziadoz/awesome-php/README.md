@@ -6,6 +6,13 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 [ Daily / [Weekly](/content/ziadoz/awesome-php/week/README.md) / [Overview](/content/ziadoz/awesome-php/readme/README.md) ]
 
+## [Mar 04, 2024](/content/2024/03/04/README.md)
+
+### Table of Contents / Security
+
+*   [OWASP](https://owasp.org/) - Explore the world of cyber security.
+*   [Zap (⭐12k)](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
+
 ## [Mar 03, 2024](/content/2024/03/03/README.md)
 
 ### Configuration / PHP Books
@@ -141,7 +148,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Security
 
 *   [PHPSecLib](https://phpseclib.sourceforge.net) - A pure PHP secure communications library.
-*   [Zap (⭐65)](https://github.com/OWASP/www-project-zap) - An integrated penetration testing tool for web applications.
 
 ### Table of Contents / Code Quality
 
@@ -1328,10 +1334,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## [Aug 09, 2016](/content/2016/08/09/README.md)
 
-### Table of Contents / Security
-
-*   [VAddy](https://vaddy.net/) - A continuous security testing platform for web applications.
-
 ### Table of Contents / Build Tools
 
 *   [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.
@@ -1435,11 +1437,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Security
 
 *   [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium (⭐12k)](https://github.com/jedisct1/libsodium).
-*   [IniScan (⭐1.5k)](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
 *   [Optimus (⭐1.3k)](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
 *   [PHP Encryption (⭐3.7k)](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
-*   [RandomLib (⭐840)](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
-*   [TCrypto (⭐60)](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 
 ### Table of Contents / Passwords
 
@@ -2048,12 +2047,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Markup and CSS
 
 *   [HTML5 PHP (⭐1.4k)](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
-
-## [May 30, 2013](/content/2013/05/30/README.md)
-
-### Table of Contents / Security
-
-*   [PHP SSH (⭐358)](https://github.com/Herzult/php-ssh) - An experimental object-orientated SSH wrapper library.
 
 ## [May 09, 2013](/content/2013/05/09/README.md)
 
