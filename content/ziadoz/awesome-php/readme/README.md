@@ -400,6 +400,7 @@ Please see [CONTRIBUTING (⭐30k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [PHP Encryption (⭐3.7k)](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
 *   [PHPSecLib](https://phpseclib.sourceforge.net) - A pure PHP secure communications library.
 *   [random\_compat (⭐8.1k)](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
+*   [Roave Security Advisories (⭐2.6k)](https://github.com/Roave/SecurityAdvisories) - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
 *   [Symfony Security Monitoring](https://security.symfony.com/) - A web tool to check your Composer dependencies for security advisories, previously known as "SensioLabs Security Check".
 *   [SQLMap (⭐30k)](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
 *   [Zap (⭐12k)](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.

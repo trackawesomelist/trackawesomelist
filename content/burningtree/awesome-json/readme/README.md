@@ -12,7 +12,7 @@ A curated list of awesome JSON libraries and resources.
 
 A curated list of awesome JSON libraries and resources.
 
-Inspired by the [awesome (⭐289k)](https://github.com/sindresorhus/awesome) list.
+Inspired by the [awesome (⭐291k)](https://github.com/sindresorhus/awesome) list.
 
 *   [Awesome JSON](#awesome-json)
     *   [Applications](#applications)
@@ -91,6 +91,8 @@ Inspired by the [awesome (⭐289k)](https://github.com/sindresorhus/awesome) lis
 *   [jo (⭐4.6k)](https://github.com/jpmens/jo) - A small utility to create JSON objects
 *   [jsoncat (⭐27)](https://github.com/pantuza/jsoncat) - Pretty-print Json in terminal with colors and adjusting tabs size.
 *   [jq (⭐28k)](https://github.com/jqlang/jq) - A lightweight and flexible command-line JSON processor.
+    *   [jaq (⭐2.4k)](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity. Written in Rust.
+    *   [gojq (⭐3k)](https://github.com/itchyny/gojq) - Pure Go implementation of jq. A bit faster and more portable.
 *   [livejq (⭐10)](https://github.com/kunalsin9h/livejq) - An alternative `jq` implementation in rust for continuous parsing without crashing on invalid JSON
 *   [json](http://trentm.com/json/) - A "json" command for massaging JSON on your Unix command line.
 *   [json-search (⭐4)](https://github.com/cosmo-ray/json-search) - A small tool to search for objects/values in json files.
@@ -103,7 +105,7 @@ Inspired by the [awesome (⭐289k)](https://github.com/sindresorhus/awesome) lis
 *   [jiq (⭐899)](https://github.com/fiatjaf/jiq) - It's `jid` with `jq`. You can drill down interactively by using `jq` filtering queries.
 *   [jv (⭐117)](https://github.com/maxzender/jv) - jv (for jsonviewer) helps you view your JSON.
 *   [jl (⭐473)](https://github.com/chrisdone/jl) - Functional sed for JSON.
-*   [oj (⭐767)](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
+*   [oj (⭐768)](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
 *   [visidata (⭐7.3k)](https://github.com/saulpw/visidata) - A terminal spreadsheet-like tool for interactively exploring data.
 *   [jc (⭐7.4k)](https://github.com/kellyjonbrazil/jc) - Converts the output of many CLI tools, file-types, and common strings into JSON
 *   [logdy (⭐166)](https://github.com/logdyhq/logdy-core) - jq, tail, less, grep and awk merged together and available in a clean web UI.
@@ -217,7 +219,7 @@ Inspired by the [awesome (⭐289k)](https://github.com/sindresorhus/awesome) lis
 
 **Go**
 
-*   [ojg (⭐767)](https://github.com/ohler55/ojg) - A collection of high performance JSON processing and generating tool.
+*   [ojg (⭐768)](https://github.com/ohler55/ojg) - A collection of high performance JSON processing and generating tool.
 
 **Haskell**
 
@@ -233,7 +235,7 @@ Inspired by the [awesome (⭐289k)](https://github.com/sindresorhus/awesome) lis
 *   [Jackson (⭐8.7k)](https://github.com/FasterXML/jackson) - A multi-purpose Java library for processing JSON data format.
 *   [moshi (⭐9.4k)](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 *   [essential-json (⭐1)](https://github.com/arkanovicz/essential-json) - A lightweight Java library for serialization, parsing and manipulation with a clean and precise API.
-*   [dsl-json (⭐980)](https://github.com/ngs-doo/dsl-json) - A very fast streaming JSON library. Operates on byte arrays.
+*   [dsl-json (⭐981)](https://github.com/ngs-doo/dsl-json) - A very fast streaming JSON library. Operates on byte arrays.
 *   [mjson (⭐81)](https://github.com/bolerio/mjson) - Lean JSON Library for Java, with a compact, elegant API.
 
 **Javascript**
@@ -242,6 +244,7 @@ Inspired by the [awesome (⭐289k)](https://github.com/sindresorhus/awesome) lis
 *   [JSON 3](https://bestiejs.github.io/json3/) - A modern implementation.
 *   [oboe.js (⭐4.7k)](https://github.com/jimhigson/oboe.js) - A streaming approach, speeds up web applications by providing parsed objects before the response completes.
 *   [FracturedJsonJs](https://www.npmjs.com/package/fracturedjsonjs) - A JSON formatter that produces human-readable but fairly compact output.
+*   [JsonHilo (⭐25)](https://github.com/xtao-org/jsonhilo) - Minimal lossless parse event streaming, akin to SAX.
 
 **Objective-C**
 
@@ -383,7 +386,7 @@ Inspired by the [awesome (⭐289k)](https://github.com/sindresorhus/awesome) lis
 
 *   [JSON Test](http://www.jsontest.com/) - Testing platform for services utilizing JavaScript Object Notation (JSON).
 *   [JSONassert (⭐960)](https://github.com/skyscreamer/JSONassert) - Write JSON unit tests in less code. Great for testing REST interfaces. (Java)
-*   [JsonUnit (⭐845)](https://github.com/lukas-krecan/JsonUnit) - A library that simplifies JSON comparison in unit tests. It's strongly inspired by XmlUnit.
+*   [JsonUnit (⭐847)](https://github.com/lukas-krecan/JsonUnit) - A library that simplifies JSON comparison in unit tests. It's strongly inspired by XmlUnit.
 *   [JSON Parsing Test Suite (⭐822)](https://github.com/nst/JSONTestSuite) - A very complete test suite and validation framework.
 
 ## Text Editor Plugins
@@ -402,7 +405,7 @@ Inspired by the [awesome (⭐289k)](https://github.com/sindresorhus/awesome) lis
 
 **Neovim**
 
-*   [nvim-jqx (⭐263)](https://github.com/gennaro-tedesco/nvim-jqx) - Browse and query json files in neovim from the quickfix window. (Lua)
+*   [nvim-jqx (⭐268)](https://github.com/gennaro-tedesco/nvim-jqx) - Browse and query json files in neovim from the quickfix window. (Lua)
 
 ## Transformations
 
@@ -431,7 +434,7 @@ Inspired by the [awesome (⭐289k)](https://github.com/sindresorhus/awesome) lis
 
 ## Queries
 
-*   [dasel (⭐4.7k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐28k)](https://github.com/jqlang/jq) / [yq (⭐2.4k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
+*   [dasel (⭐4.8k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐28k)](https://github.com/jqlang/jq) / [yq (⭐2.4k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 *   [JMESPath](https://jmespath.org/) - A query language for JSON.
 *   [JSON Mask (⭐859)](https://github.com/nemtsov/json-mask) - Tiny language and engine for selecting specific parts of a JS object, hiding the rest. (Javascript)
 *   [JSONiq](https://www.jsoniq.org/) - The JSON Query Language.

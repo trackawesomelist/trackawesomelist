@@ -11,6 +11,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Security
 
 *   [OWASP](https://owasp.org/) - Explore the world of cyber security.
+*   [Roave Security Advisories (⭐2.6k)](https://github.com/Roave/SecurityAdvisories) - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
 *   [Zap (⭐12k)](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
 
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
