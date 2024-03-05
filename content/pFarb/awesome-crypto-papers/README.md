@@ -2,9 +2,28 @@
 
 A curated list of cryptography papers, articles, tutorials and howtos.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) · ⭐ 1.5K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) · ⭐ 1.6K · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/pFarb/awesome-crypto-papers/week/README.md) / [Overview](/content/pFarb/awesome-crypto-papers/readme/README.md) ]
+
+## [Mar 05, 2024](/content/2024/03/05/README.md)
+
+### Specific topics / Secret key cryptography
+
+*   [Cache Attacks and Countermeasures: the Case of AES](https://eprint.iacr.org/2005/271.pdf) - Side channel attacks on AES, another view, by Dag Arne Osvik, Adi Shamir and Eran Tromer.
+
+### Specific topics / Cryptanalysis
+
+*   [Cryptanalysis of block ciphers and protocols](https://web.archive.org/web/20220929023539/http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi/2006/PHD/PHD-2006-04) - By Elad Pinhas Barkan.
+
+### Specific topics / Public key cryptography: General and DLP
+
+*   [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://people.csail.mit.edu/rivest/Rsapaper.pdf) -  Original paper introducing RSA algorithm.
+*   [On the Security of Public Key Protocols](https://web.archive.org/web/20230902163042/https://www.cs.huji.ac.il/~dolev/pubs/dolev-yao-ieee-01056650.pdf) - Dolev-Yao model is a formal model, used to prove properties of interactive cryptographic protocols.
+
+### Specific topics / Zero Knowledge Proofs
+
+*   [How to construct zero-knowledge proof systems for NP](https://www.wisdom.weizmann.ac.il/~oded/gmw1.html) - Classic paper by Goldreich,  Micali and Wigderson.
 
 ## [Aug 02, 2023](/content/2023/08/02/README.md)
 
@@ -15,18 +34,6 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 ### Specific topics / Public key cryptography: Elliptic-curve crypto
 
 *   [Recommendations for Discrete Logarithm-Based Cryptography: Elliptic Curve Domain Parameters (NIST SP 800-186)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-186.pdf) - Official NIST guide how securely implement elliptic curves. It also includes math shortcuts, optimizations and possible security risk of wrong algorithm implementation. [(February 2023)](https://csrc.nist.gov/pubs/sp/800/186/final)
-
-## [May 02, 2023](/content/2023/05/02/README.md)
-
-### Specific topics / Public key cryptography: General and DLP
-
-*   [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://web.williams.edu/Mathematics/lg5/302/RSA.pdf) -  Original paper introducing RSA algorithm.
-
-## [Feb 27, 2023](/content/2023/02/27/README.md)
-
-### Specific topics / Cryptanalysis
-
-*   [Cryptanalysis of block ciphers and protocols](https://web.archive.org/http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi/2006/PHD/PHD-2006-04) - By Elad Pinhas Barkan.
 
 ## [Jan 16, 2023](/content/2023/01/16/README.md)
 
@@ -115,7 +122,7 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 
 ### Specific topics / Public key cryptography: General and DLP
 
-*   [How to Share a Secret (⭐6)](https://github.com/arupmondal-cs/Crypto-Research/blob/master/Secret%20Sharing/shamirturing.pdf) - A safe method for sharing secrets.
+*   [How to Share a Secret (⭐8)](https://github.com/arupmondal-cs/Crypto-Research/blob/master/Secret%20Sharing/shamirturing.pdf) - A safe method for sharing secrets.
 
 ## [Jan 05, 2022](/content/2022/01/05/README.md)
 
@@ -243,7 +250,6 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 *   [List of proposed operation modes of AES](http://csrc.nist.gov/groups/ST/toolkit/BCM/modes_development.html) - Maintained by NIST.
 *   [Stick figure guide to AES](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html) - If stuff above was a bit hard or you're looking for a good laugh.
 *   [Cache timing attacks on AES](http://cr.yp.to/antiforgery/cachetiming-20050414.pdf) - Example of designing great practical attack on cipher implementation, by Daniel J. Bernstein.
-*   [Cache Attacks and Countermeasures: the Case of AES](http://cs.tau.ac.il/~tromer/papers/cache.pdf) - Side channel attacks on AES, another view, by Dag Arne Osvik, Adi Shamir and Eran Tromer.
 *   [Salsa20 family of stream ciphers](https://cr.yp.to/snuffle/salsafamily-20071225.pdf) - Broad explanation of Salsa20 security cipher by Daniel J. Bernstein.
 *   [AES submission document on Rijndael](https://csrc.nist.gov/csrc/media/projects/cryptographic-standards-and-guidelines/documents/aes-development/rijndael-ammended.pdf#page=1) - Original Rijndael proposal by Joan Daemen and Vincent Rijmen.
 
@@ -270,7 +276,6 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 
 ### Specific topics / Zero Knowledge Proofs
 
-*   [How to construct zero-knowledge proof systems for NP](http://www.wisdom.weizmann.ac.il/~oded/gmw1.html) - Classic paper by Goldreich,  Micali and Wigderson.
 *   [Proofs that yield nothing but their validity and a Methodology of Cryptographic protocol design](http://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/GMW86/GMW86.pdf) - By Goldreich,  Micali and Wigderson, a relative to the above.
 *   [A Survey of Zero-Knowledge Proofs with Applications to Cryptography](http://www.austinmohr.com/work/files/zkp.pdf) - Great intro on original ZKP protocols.
 
@@ -305,10 +310,6 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 *   [FIPS 197](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf) - AES FIPS document.
 *   [New Features of Latin Dances: Analysis of Salsa, ChaCha, and Rumba](https://eprint.iacr.org/2007/472.pdf) - Analysis of Salsa20 family of ciphers, by Jean-Philippe Aumasson et al.
 *   [ChaCha20-Poly1305 Cipher Suites for Transport Layer Security (TLS)](https://tools.ietf.org/html/draft-ietf-tls-chacha20-poly1305-04) - IETF Draft of ciphersuite family, by Adam Langley et al.
-
-### Specific topics / Public key cryptography: General and DLP
-
-*   [On the Security of Public Key Protocols ](http://www.cs.huji.ac.il/~dolev/pubs/dolev-yao-ieee-01056650.pdf) - Dolev-Yao model is a formal model, used to prove properties of interactive cryptographic protocols.
 
 ### Specific topics / Public key cryptography: Elliptic-curve crypto
 

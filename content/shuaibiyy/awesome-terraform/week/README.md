@@ -6,6 +6,16 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 [ [Daily](/content/shuaibiyy/awesome-terraform/README.md) / Weekly / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
+
+### Books
+
+*   [IaC starting with Terraform (Korean)](https://product.kyobobook.co.kr/detail/S000202478097)
+
+### Tutorials and Blog Posts / Miscellaneous
+
+*   [Sharing data between Terraform configurations](https://web.archive.org/web/20230927082422/https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) - Illustrates how to use remote state to share data between Terraform configurations.
+
 ## [Jan 29 - Feb 04, 2024](/content/2024/5/README.md)
 
 ### Books
@@ -92,7 +102,7 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 *   [tfmask (⭐198)](https://github.com/cloudposse-archives/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
 *   [tgf (⭐95)](https://github.com/coveooss/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
 
-### Managed Terraform Platforms / IDE
+### Managed Terraform Platforms :heavy_dollar_sign: / IDE
 
 *   [Scalr](https://www.scalr.com/) - Alternative to Terraform Enterprise with OPA integration, organizational structure, custom hooks, native integrations with other DevOps platforms, and centralized reporting. :heavy\_dollar\_sign:
 *   [env0](https://www.env0.com/) - Alternative to Terraform Cloud/Enterprise with OPA integration, custom flows and Terragrunt support :heavy\_dollar\_sign:
@@ -216,10 +226,6 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 ## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
 
-### Books
-
-*   [IaC starting with Terraform(Korean)](https://product.kyobobook.co.kr/detail/S000202478097)
-
 ### Tools / Community providers
 
 *   [tfmake (⭐13)](https://github.com/tfmake/tfmake) - Automating Terraform with the power of make.
@@ -336,7 +342,7 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
-### Managed Terraform Platforms / IDE
+### Managed Terraform Platforms :heavy_dollar_sign: / IDE
 
 *   [Terrateam](https://terrateam.io) - Terraform GitOps with cost estimation, static analysis, access controls, drift detection, and custom workflows. :heavy\_dollar\_sign:
 
@@ -398,7 +404,7 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 *   [tf-init-booster (⭐7)](https://github.com/hayorov/terraform-init-booster) - A Pre-terraform routine that speedups terraform modules download for bulky blueprints.
 *   [tf-summarize (⭐436)](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan
 
-### Managed Terraform Platforms / IDE
+### Managed Terraform Platforms :heavy_dollar_sign: / IDE
 
 *   [Brainboard](https://www.brainboard.co) - Visually Design, Deploy & Manage modern cloud infrastructures starting from any Cloud Provider - AWS, GCP, Azure :heavy\_dollar\_sign:
 
@@ -449,7 +455,7 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 *   [tfedit (⭐89)](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
 
-### Managed Terraform Platforms / IDE
+### Managed Terraform Platforms :heavy_dollar_sign: / IDE
 
 *   [Spacelift](https://spacelift.io/) - Alternative to Terraform Cloud/Enterprise. Collaborative Infrastructure Delivery Platform for Terraform :heavy\_dollar\_sign:
 
@@ -651,7 +657,7 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 ### Tools / Community providers
 
-*   [Shisho (⭐365)](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
+*   [Shisho (⭐366)](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
 
 ## [Aug 16 - Aug 22, 2021](/content/2021/33/README.md)
 
@@ -773,7 +779,7 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 ### Tools / Community providers
 
-*   [Checkov (⭐6.3k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
+*   [Checkov (⭐6.4k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
 *   [TerraDepot (⭐65)](https://github.com/derBroBro/TerraDepot) Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.
 *   [Terraform-Visual (⭐566)](https://github.com/hieven/terraform-visual) - A simple but powerful tool to visualize Terraform plan.
 *   [terratag (⭐866)](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.
@@ -869,7 +875,6 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 ### Tutorials and Blog Posts / Miscellaneous
 
-*   [Sharing data between Terraform configurations](https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) - Illustrates how to use remote state to share data between Terraform configurations.
 *   [The Segment AWS Stack](https://segment.com/blog/the-segment-aws-stack/) - Shows the behind the scenes of the infrastructure powered by Terraform that solved [The Million Dollar Engineering Problem](https://segment.com/blog/the-million-dollar-eng-problem/) at [Segment](https://segment.com/).
 *   [Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code)
 *   [Two Weeks with Terraform](https://charity.wtf/2016/02/23/two-weeks-with-terraform/) - Some hard-earned experience from using Terraform in the wild, and some operational wisdom.
@@ -913,7 +918,7 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 ### Providers / Vendor supported providers
 
 *   [terraform-provider-healthchecksio (⭐38)](https://github.com/kristofferahl/terraform-provider-healthchecksio) - Provider to manage healthchecks.io resources.
-*   [terraform-provider-keycloak (⭐553)](https://github.com/mrparkers/terraform-provider-keycloak) - Provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
+*   [terraform-provider-keycloak (⭐562)](https://github.com/mrparkers/terraform-provider-keycloak) - Provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
 *   [terraform-provider-pingdom (⭐121)](https://github.com/russellcardullo/terraform-provider-pingdom) - Provider to manage Pingdom resources.
 *   [terraform-provider-secrethub (⭐49)](https://github.com/secrethub/terraform-provider-secrethub) - Provider for SecretHub.
 *   [terraform-provider-stripe (⭐240)](https://github.com/franckverrot/terraform-provider-stripe) - Provider for Stripe.
@@ -940,7 +945,7 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 *   [python-terrafile (⭐37)](https://github.com/claranet/python-terrafile) - Systematically manage external modules from Github for use in Terraform.
 *   [ruby-terraform (⭐105)](https://github.com/infrablocks/ruby_terraform) - Simple Ruby wrapper for invoking terraform commands.
 *   [scratchrelaxtv (⭐28)](https://github.com/YakDriver/scratchrelaxtv) - Simple Python tool to help with module development - extract vars from `main.tf` to generate `variables.tf` and make module usage stub from `variables.tf`.
-*   [tads-boilerplate (⭐717)](https://github.com/Thomvaill/tads-boilerplate) - The power of Ansible and Terraform + the simplicity of Docker Swarm = Infrastructure as Code and DevOps best practices.
+*   [tads-boilerplate (⭐718)](https://github.com/Thomvaill/tads-boilerplate) - The power of Ansible and Terraform + the simplicity of Docker Swarm = Infrastructure as Code and DevOps best practices.
 *   [tau (⭐75)](https://github.com/avinor/tau) - Tau is a thin wrapper on top of terraform to manage multiple deployments, dependencies, and secrets.
 *   [terraboard (⭐1.9k)](https://github.com/camptocamp/terraboard) - Web dashboard to inspect Terraform States.
 *   [terraboot (⭐37)](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it.

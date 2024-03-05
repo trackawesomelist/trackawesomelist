@@ -32,7 +32,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
     *   [Google Cloud](#google-cloud)
     *   [Miscellaneous](#miscellaneous)
 *   [Community Modules](#community-modules)
-*   [Self-hosted Registries](#self-hosted-registries)
+*   [Self-Hosted Registries](#self-hosted-registries)
 *   [Managed Registries](#managed-registries)
 *   [Providers](#providers)
     *   [Hashicorp supported providers](#hashicorp-supported-providers)
@@ -45,7 +45,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 *   [Libraries](#libraries)
 *   [Boilerplates](#boilerplates)
 *   [Self-hosted Terraform Platforms](#self-hosted-terraform-platforms)
-*   [Managed Terraform Platforms :heavy\_dollar\_sign:](#managed-terraform-platforms)
+*   [Managed Terraform Platforms :heavy\_dollar\_sign:](#managed-terraform-platforms-heavy_dollar_sign)
 *   [Terraform Enterprise Tooling](#terraform-enterprise-tooling)
 *   [Videos](#videos)
 *   [Editor Plugins](#editor-plugins)
@@ -86,16 +86,16 @@ Terraform enables you to safely and predictably create, change, and improve prod
 *   [Deep-Dive Terraform on Azure](https://link.springer.com/book/10.1007/978-1-4842-7328-9)
 *   [Getting Started with Terraform, 2nd ed.](https://www.amazon.com/Getting-Started-Terraform-production-infrastructure/dp/1788623533/)
 *   [HashiCorp Infrastructure Automation Certification Guide](https://www.amazon.com/HashiCorp-Infrastructure-Automation-Certification-Guide-ebook/dp/B092KM7LXC/)
+*   [IaC starting with Terraform (Korean)](https://product.kyobobook.co.kr/detail/S000202478097)
 *   [Infrastructure as Code](http://shop.oreilly.com/product/0636920039297.do)
 *   [Patterns and Practices for Infrastructure as Code: With examples in Python and Terraform](https://www.manning.com/books/infrastructure-as-code-patterns-and-practices)
 *   [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook (⭐1.9k)](https://github.com/antonbabenko/terraform-best-practices)
 *   [Terraform Cookbook](https://www.amazon.com/Terraform-Cookbook-Efficiently-Infrastructure-platforms/dp/1800207557)
+*   [Terraform for Ops e-book](https://www.terraformforops.com)
 *   [Terraform in Action](https://www.manning.com/books/terraform-in-action)
+*   [Terraform in Depth](https://www.manning.com/books/terraform-in-depth)
 *   [Terraform: Up & Running, 3rd ed.](https://www.terraformupandrunning.com/)
 *   [The Terraform Book](https://terraformbook.com/)
-*   [IaC starting with Terraform(Korean)](https://product.kyobobook.co.kr/detail/S000202478097)
-*   [Terraform for Ops e-book](https://www.terraformforops.com)
-*   [Terraform in Depth](https://www.manning.com/books/terraform-in-depth)
 
 ## Tutorials and Blog Posts
 
@@ -154,7 +154,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 ### Miscellaneous
 
-*   [Sharing data between Terraform configurations](https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) - Illustrates how to use remote state to share data between Terraform configurations.
+*   [Sharing data between Terraform configurations](https://web.archive.org/web/20230927082422/https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) - Illustrates how to use remote state to share data between Terraform configurations.
 *   [The Segment AWS Stack](https://segment.com/blog/the-segment-aws-stack/) - Shows the behind the scenes of the infrastructure powered by Terraform that solved [The Million Dollar Engineering Problem](https://segment.com/blog/the-million-dollar-eng-problem/) at [Segment](https://segment.com/).
 *   [Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code)
 *   [Two Weeks with Terraform](https://charity.wtf/2016/02/23/two-weeks-with-terraform/) - Some hard-earned experience from using Terraform in the wild, and some operational wisdom.
@@ -276,7 +276,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [terraform-provider-ibm (⭐328)](https://github.com/IBM-Cloud/terraform-provider-ibm) - Provider for IBM Cloud.
 *   [terraform-provider-iterative (⭐288)](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin built with machine learning in mind.
 *   [terraform-provider-k8s (⭐135)](https://github.com/banzaicloud/terraform-provider-k8s) - Simple Kubernetes Provider, works with any manifest.
-*   [terraform-provider-keycloak (⭐553)](https://github.com/mrparkers/terraform-provider-keycloak) - Provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
+*   [terraform-provider-keycloak (⭐562)](https://github.com/mrparkers/terraform-provider-keycloak) - Provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
 *   [terraform-provider-linode (⭐71)](https://github.com/btobolaski/terraform-provider-linode) - Provider for Linode.
 *   [terraform-provider-openstack (⭐352)](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Plugin for OpenStack.
 *   [terraform-provider-panos (⭐82)](https://github.com/PaloAltoNetworks/terraform-provider-panos) - Provider for [Palo Alto Networks next-generation firewalls](https://www.paloaltonetworks.com/network-security).
@@ -322,7 +322,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [blast radius (⭐1.9k)](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :skull:
 *   [burrito](https://padok-team.github.io/burrito/) - Burrito is a TACoS (Terraform Automation Collaboration Software) Kubernetes Operator.
 *   [cfnctl (⭐129)](https://github.com/rogerwelin/cfnctl) - Cfnctl brings the Terraform cli experience to AWS Cloudformation.
-*   [Checkov (⭐6.3k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
+*   [Checkov (⭐6.4k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
 *   [Coder](https://coder.com/) - Coder provisions software development environments on your infrastructure via Terraform.
 *   [coretech/terrafile (⭐140)](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go).
 *   [driftctl (⭐2.4k)](https://github.com/snyk/driftctl) - Detect, track, and alert on infrastructure drift
@@ -360,10 +360,10 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [scenery (⭐368)](https://github.com/dmlittle/scenery) - Another Terraform plan output prettifier. :ghost:
 *   [scratchrelaxtv (⭐28)](https://github.com/YakDriver/scratchrelaxtv) - Simple Python tool to help with module development - extract vars from `main.tf` to generate `variables.tf` and make module usage stub from `variables.tf`.
 *   [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform. [Read more (⭐653)](https://github.com/antonbabenko/serverless.tf).
-*   [Shisho (⭐365)](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
+*   [Shisho (⭐366)](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
 *   [stacks (⭐137)](https://github.com/cisco-open/stacks) - Stacks, the Terraform code pre-processor
 *   [Styra Declarative Authorization Service (DAS)](https://www.styra.com/terraform-cloud-config-management-with-styra-das-and-open-policy-agent) - Provides a managed [Open Policy Agent (OPA)](https://www.openpolicyagent.org) platform for Application and Infrastructure use cases, including Terraform, Terraform Cloud, and Kubernetes. Enforce policy guardrails during development, in CI/CD pipelines, and at deploy time. Styra DAS Free provides multiple systems and users, policy impact analysis, decision logging and replay, and access to Styra's Terraform policy library.
-*   [tads-boilerplate (⭐717)](https://github.com/Thomvaill/tads-boilerplate) - The power of Ansible and Terraform + the simplicity of Docker Swarm = Infrastructure as Code and DevOps best practices.
+*   [tads-boilerplate (⭐718)](https://github.com/Thomvaill/tads-boilerplate) - The power of Ansible and Terraform + the simplicity of Docker Swarm = Infrastructure as Code and DevOps best practices.
 *   [tau (⭐75)](https://github.com/avinor/tau) - Tau is a thin wrapper on top of terraform to manage multiple deployments, dependencies, and secrets.
 *   [terraboard (⭐1.9k)](https://github.com/camptocamp/terraboard) - Web dashboard to inspect Terraform States.
 *   [terraboot (⭐37)](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it.
@@ -477,7 +477,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [cloud-concierge (⭐158)](https://github.com/dragondrop-cloud/cloud-concierge) - Open Source, codify unmanaged resources as Terraform, detect drift, and cloud cost and security analysis, delivered as a Pull Request.
 *   [Stack-Lifecycle-Deployment (⭐208)](https://github.com/D10S0VSkY-OSS/Stack-Lifecycle-Deployment) - OpenSource solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud.
 
-## Managed Terraform Platforms
+## Managed Terraform Platforms :heavy\_dollar\_sign:
 
 *   [Scalr](https://www.scalr.com/) - Alternative to Terraform Enterprise with OPA integration, organizational structure, custom hooks, native integrations with other DevOps platforms, and centralized reporting. :heavy\_dollar\_sign:
 *   [env0](https://www.env0.com/) - Alternative to Terraform Cloud/Enterprise with OPA integration, custom flows and Terragrunt support :heavy\_dollar\_sign:
