@@ -570,6 +570,7 @@ See also [A comparison of operating systems written in Rust (⭐630)](https://gi
 
 ### Web Servers
 
+*   [cloudflare/pingora (⭐15k)](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 *   [emanuele-em/proxelar (⭐329)](https://github.com/emanuele-em/proxelar) — A MITM Proxy 🦀! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities [![Rust](https://github.com/emanuele-em/proxelar/actions/workflows/rust.yml/badge.svg)](https://github.com/emanuele-em/proxelar/actions/workflows/rust.yml)
 *   [mu-arch/skyfolder (⭐99)](https://github.com/mu-arch/skyfolder) - 🪂 Beautiful HTTP/Bittorrent server without the hassle. Secure - GUI - Pretty - Fast
 *   [mufeedvh/binserve (⭐931)](https://github.com/mufeedvh/binserve) — A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code [![build badge](https://github.com/mufeedvh/binserve/workflows/CICD/badge.svg?branch=master)](https://github.com/mufeedvh/binserve/actions)

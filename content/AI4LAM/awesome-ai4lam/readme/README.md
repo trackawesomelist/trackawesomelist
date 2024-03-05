@@ -2,7 +2,7 @@
 
 A list of awesome AI in libraries, archives, and museum collections from around the world 🕶️
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/AI4LAM/awesome-ai4lam/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AI4LAM/awesome-ai4lam](https://github.com/AI4LAM/awesome-ai4lam) · ⭐ 23 · 🏷️ Library systems
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/AI4LAM/awesome-ai4lam/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AI4LAM/awesome-ai4lam](https://github.com/AI4LAM/awesome-ai4lam) · ⭐ 25 · 🏷️ Library systems
 
 [ [Daily](/content/AI4LAM/awesome-ai4lam/README.md) / [Weekly](/content/AI4LAM/awesome-ai4lam/week/README.md) / Overview ]
 
@@ -36,9 +36,11 @@ A curated list of resources, projects, and tools for using Artificial Intelligen
     *   [Search and retrieval](#search-and-retrieval)
     *   [Applications of Transformers, LLMs, and GPT](#applications-of-transformers-llms-and-gpt)
 *   [Datasets](#datasets)
+    *   [Datasets available on Hugging Face](#datasets-available-on-hugging-face)
+    *   [Datasets available elsewhere](#datasets-available-elsewhere)
 *   [Projects, Initiatives, and Case Studies](#projects-initiatives-and-case-studies)
     *   [Project lists & directories](#project-lists--directories)
-    *   [Projects by AI4LAM community members](#projects-by-ai4lam-community-members)
+    *   [Select individual projects](#select-individual-projects)
 *   [Policies and recommendations](#policies-and-recommendations)
     *   [Statements by organizations and government bodies](#statements-by-organizations-and-government-bodies)
     *   [Surveys of policies and recommendations](#surveys-of-policies-and-recommendations)
@@ -83,12 +85,12 @@ Please note: the appearance of a resource on this list does not constitute an of
 ### Natural language processing
 
 *   [A Code-First Introduction to NLP](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) – by Rachel Thomas of fast.ai
-*   [NLP course](https://lena-voita.github.io/nlp_course.html) and associated [GitHub repo (⭐9.2k)](https://github.com/yandexdataschool/nlp_course#readme) – by Elena Voita
+*   [NLP course](https://lena-voita.github.io/nlp_course.html) and associated [GitHub repo (⭐9.3k)](https://github.com/yandexdataschool/nlp_course#readme) – by Elena Voita
 *   [NLP accelerated class](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw) – by Machine Learning University
 *   [Overview of deep learning techniques applied to NLP (2018)](https://nlpoverview.com/index.html)
 *   [Deep Learning for NLP](https://machinelearningmastery.com/category/natural-language-processing/) – from Machine Learning Mastery
-*   [Hands-on NLTK Tutorial (⭐535)](https://github.com/hb20007/hands-on-nltk-tutorial#readme)
-*   [NLP in Python - Quickstart Guide (⭐557)](https://github.com/NirantK/NLP_Quickbook#readme)
+*   [Hands-on NLTK Tutorial (⭐537)](https://github.com/hb20007/hands-on-nltk-tutorial#readme)
+*   [NLP in Python - Quickstart Guide (⭐558)](https://github.com/NirantK/NLP_Quickbook#readme)
 *   [Deep Learning for NLP With Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html)
 
 ### Generative AI
@@ -103,7 +105,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 *   [Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118), by Google
 *   [Generative AI for Beginners - A Course](https://microsoft.github.io/generative-ai-for-beginners/#/), by Microsoft
 *   [Understanding LLMs – A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
-*   [Large Language Model Course (⭐23k)](https://github.com/mlabonne/llm-course#readme)
+*   [Large Language Model Course (⭐25k)](https://github.com/mlabonne/llm-course#readme)
 *   [A Generative AI Primer](https://nationalcentreforai.jiscinvolve.org/wp/2023/10/16/generative-ai-primer/), by the UK's National Centre for AI
 
 ### AI in galleries, libraries, archives and museums
@@ -113,24 +115,24 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Other "awesome" lists in AI and ML
 
-*   [Awesome Computer Vision (⭐19k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
+*   [Awesome Computer Vision (⭐20k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
 *   [Awesome Deep Learning for Natural Language Processing (NLP) (⭐1.2k)](https://github.com/brianspiering/awesome-dl4nlp#readme)
 *   [Awesome Deep Learning (⭐22k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
 *   [Awesome Deep Learning Resources (⭐1.6k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 *   [Awesome Deep Vision (⭐11k)](https://github.com/kjw0612/awesome-deep-vision#readme)
 *   [Awesome Document Understanding (⭐1k)](https://github.com/tstanislawek/awesome-document-understanding#readme)
-*   [Awesome Generative AI (⭐4.1k)](https://github.com/steven2358/awesome-generative-ai#readme)
+*   [Awesome Generative AI (⭐4.2k)](https://github.com/steven2358/awesome-generative-ai#readme)
 *   [Awesome Image Classification (⭐2.7k)](https://github.com/weiaicunzai/awesome-image-classification#readme)
 *   [Awesome Jupyter GLAM (⭐19)](https://github.com/LibraryCarpentry/awesome-jupyter-glam#readme)
-*   [Awesome LLM (⭐12k)](https://github.com/Hannibal046/Awesome-LLM#readme)
+*   [Awesome LLM (⭐13k)](https://github.com/Hannibal046/Awesome-LLM#readme)
 *   [Awesome Machine Learning (⭐63k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
 *   [Awesome Machine Learning & Deep Learning Tutorials (⭐15k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
-*   [Awesome Natural Language Generation (⭐434)](https://github.com/accelerated-text/awesome-nlg#readme)
+*   [Awesome Natural Language Generation (⭐433)](https://github.com/accelerated-text/awesome-nlg#readme)
 *   [Awesome NLP (⭐16k)](https://github.com/keon/awesome-nlp#readme)
-*   [Awesome Production Machine Learning (⭐15k)](https://github.com/EthicalML/awesome-production-machine-learning#readme)
+*   [Awesome Production Machine Learning (⭐16k)](https://github.com/EthicalML/awesome-production-machine-learning#readme)
 *   [Awesome Software Engineering for Machine Learning (⭐1.2k)](https://github.com/SE-ML/awesome-seml#readme)
 *   [Awesome Visual Transformer (⭐3.2k)](https://github.com/dk-liang/Awesome-Visual-Transformer#readme)
-*   [Awesome XAI (⭐113)](https://github.com/altamiracorp/awesome-xai#readme)
+*   [Awesome XAI (⭐116)](https://github.com/altamiracorp/awesome-xai#readme)
 *   [The NLP Index](https://index.quantumstat.com)
 
 ## Tools and Frameworks<a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
@@ -141,10 +143,10 @@ Note: datasets for training and testing are listed in a [separate section](#data
 
 *   [Callico](https://teklia.com/blog/open-sourcing-callico/) – open-source web platform for document annotation
 *   [Distributed Annotation 'n' Enrichment (DANE) (⭐2)](https://github.com/CLARIAH/DANE#readme) – compute task assignment & file storage for automatic annotation of content ([CLARIAH](https://www.clariah.nl/about-clariah), Norway)
-*   [HTRFLOW demo](https://huggingface.co/spaces/Riksarkivet/htr_demo) and associated [GitHub repo (⭐22)](https://github.com/Swedish-National-Archives-AI-lab/htrflow_app) – explore AI models for Handwritten Text Recogntion (Swedish National Archives)
+*   [HTRFLOW demo](https://huggingface.co/spaces/Riksarkivet/htr_demo) and associated [GitHub repo (⭐23)](https://github.com/Swedish-National-Archives-AI-lab/htrflow_app) – explore AI models for Handwritten Text Recogntion (Swedish National Archives)
 *   [Label Studio](https://labelstud.io) – data labeling platform to fine-tune LLMs, prepare training data, or validate AI models
 *   [OCR correction](https://bnl.public.lu/en.html) – OCR correction tools (Bibliothèque nationale, Luxembourg)
-*   [Surya (⭐4.1k)](https://github.com/VikParuchuri/surya#readme) – multilingual document OCR toolkit with line-level text detection
+*   [Surya (⭐4.9k)](https://github.com/VikParuchuri/surya#readme) – multilingual document OCR toolkit with line-level text detection
 *   [Text models from the National Library of Sweden](https://huggingface.co/KBLab) – available on Hugging Face
 *   [Transkribus](https://readcoop.eu/transkribus/) – transcription, recognition, & searching of historical documents
 
@@ -154,7 +156,8 @@ Note: datasets for training and testing are listed in a [separate section](#data
 *   [Annotorious](https://annotorious.github.io) – JavaScript image annotation library
 *   [Audiovisual Metadata Platform (AMP)](https://uisapp2.iu.edu/confluence-prd/display/AMP/AMP%3A+Audiovisual+Metadata+Platform) – generation of metadata for discovery & use of digital audio & video collections (Indiana U., USA)
 *   [CAMPI](https://kilthub.cmu.edu/articles/preprint/CAMPI_Computer-Aided_Metadata_Generation_for_Photo_archives_Initiative/12791807) – Computer-Aided Metadata Generation for Photo archives Initiative (Carnegie Mellonw U., USA)
-*   [inaFaceAnalyzer (⭐14)](https://github.com/ina-foss/inaFaceAnalyzer#readme) – Python toolbox for face-based description of gender representation in media (Institut National de l'Audiovisuel, France)
+*   [ELAN](https://archive.mpi.nl/tla/elan) – addS textual annotations to audio and/or video recordings (Max Planck Institute for Psycholinguistics, The Netherlands)
+*   [inaFaceAnalyzer (⭐15)](https://github.com/ina-foss/inaFaceAnalyzer#readme) – Python toolbox for face-based description of gender representation in media (Institut National de l'Audiovisuel, France)
 *   [Newspaper Navigator](https://labs.loc.gov/work/experiments/newspaper-navigator/) – explore visual & textual content in the *Chronicling America* digitized newspaper collection (Library of Congress, USA)
 *   [Oodi](https://medium.com/headai-customer-stories/customer-story-oodi-1d1ef2554bb6) – virtual information assistant (Helsinki Central Library)
 *   [ReTV](https://retv-project.eu) – video analysis & summarization (Modul Univesrity, Austria)
@@ -176,20 +179,34 @@ Note: datasets for training and testing are listed in a [separate section](#data
 
 *   [BERTopic](https://maartengr.github.io/BERTopic/index.html) – topic modeling technique that leverages Transformers and c-TF-IDF
 *   [Chatbot for Luxembourgish newspapers](https://chat.eluxemburgensia.lu/login?next=/) – uses ChatGPT and understands French, German and English (Bibliothèque nationale de Luxembourg)
-*   [Norwegian Transformer Model (NoTraM) (⭐103)](https://github.com/NBAiLab/notram#readme) – transformer model for Norwegian and Nordic languages (National Library of Norway)
-*   [Swedish BERT (⭐134)](https://github.com/Kungbib/swedish-bert-models#readme) – BERT model for the Swedish language (Royal Library of Sweden)
+*   [Norwegian Transformer Model (NoTraM) (⭐105)](https://github.com/NBAiLab/notram#readme) – transformer model for Norwegian and Nordic languages (National Library of Norway)
+*   [Swedish BERT (⭐135)](https://github.com/Kungbib/swedish-bert-models#readme) – BERT model for the Swedish language (Royal Library of Sweden)
 *   [Visual AI](https://www.robots.ox.ac.uk/~vgg/projects/visualai/index.html) – open-world interpretable visual transformer (UK)
 
 ## Datasets<a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
 
-*   [Datasets from the National Library of Sweden](https://huggingface.co/KBLab) – available on Hugging Face
-*   [Gensim datasets (⭐927)](https://github.com/piskvorky/gensim-data#readme) – repository of datasets for unstructured text processing
-*   [HTR datasets in Zenodo](https://zenodo.org/search?q=metadata.subjects.subject%3A%22handwritten%20text%20recognition%22\&l=list\&p=1\&s=10\&sort=bestmatch) – based on subject search in Zenodo
+### Datasets available on Hugging Face
+
+There are many (G)LAM-related datasets on Hugging Face. The following links will perform live searches directly in Hugging Face for datasets tagged with the given terms:
+
+*   [Full-text search for "handwritten text recognition"](https://huggingface.co/search/full-text?q=handwritten%20text%20recognition\&type=dataset)
+*   [Full-text search for "optical text recognition"](https://huggingface.co/search/full-text?q=optical%20character%20recognition\&type=dataset)
+*   [Datasets tagged "summarization"](https://huggingface.co/datasets?task_categories=task_categories%3Asummarization\&type=dataset)
+*   [Datasets tagged "feature extraction"](https://huggingface.co/datasets?task_categories=task_categories%3Afeature-extraction\&type=dataset)
+*   [Datasets tagged "image classification"](https://huggingface.co/datasets?task_categories=task_categories%3Aimage-classification\&type=dataset\&type=dataset)
+*   [Datasets tagged "video classification"](https://huggingface.co/datasets?task_categories=task_categories%3Avideo-classification\&type=dataset)
+*   [Datasets tagged "text classification"](https://huggingface.co/datasets?task_categories=task_categories%3Atext-classification\&type=dataset)
+*   [Datasets tagged "audio classification"](https://huggingface.co/datasets?task_categories=task_categories%3Aaudio-classification\&type=dataset)
+
+### Datasets available elsewhere
+
+*   [Gensim datasets (⭐929)](https://github.com/piskvorky/gensim-data#readme) – repository of datasets for unstructured text processing
+*   [HTR datasets in Zenodo](https://zenodo.org/search?q=metadata.subjects.subject%3A%22handwritten%20text%20recognition%22\&l=list\&p=1\&s=10\&sort=bestmatch) – subject search in Zenodo
 *   [HTR-United](https://htr-united.github.io) – datasets for training transcription or segmentation models
 *   [Kaggle datasets](https://www.kaggle.com/datasets)
 *   [nlp-datasets (⭐5.6k)](https://github.com/niderhoff/nlp-datasets#readme) – free/public domain datasets with text data for use in NLP
-*   [Open data collections from the National Library of Scotland](https://data.nls.uk/)
 *   [Open Library data dumps](https://openlibrary.org/developers/dumps) – from the Internet Archive
+*   [Open data collections from the National Library of Scotland](https://data.nls.uk/)
 *   [Registry of Open Data on AWS](https://registry.opendata.aws) – datasets tagged by topic
 
 ## Projects, Initiatives, and Case Studies<a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
@@ -200,11 +217,16 @@ Note: datasets for training and testing are listed in a [separate section](#data
 *   [List of Artificial Intelligence (AI) initiatives in museums](https://docs.google.com/spreadsheets/d/1A7IVnucQZ0ICxYSOCjqQ1oV3xGgNzDKtIYGrk6smV7w/edit#gid=0) – compiled in 2021 by Elena Villaespesa, Oonagh Murphy and Kate Nadel for the [Museums+AI Network](https://themuseumsai.network) project.
 *   [Projects in AI Registry (PAIR)](https://libraries.ou.edu/content/project-highlight-projects-ai-registry-pair) – registry of AI projects in higher education (U. Oklahoma Libraries, USA)
 
-### Projects by AI4LAM community members
+### Select individual projects
 
+*   [Argilla prompt-collective](https://huggingface.co/spaces/DIBT/prompt-collective) – crowdsourcing effort to rank 50,000 prompts, on Hugging Face
+*   [BigLAM](https://huggingface.co/biglam) – BigScience Libraries, Archives and Museums on Hugging Face
 *   [Living with Machines](https://livingwithmachines.ac.uk) – Turing Institute & British Library
 *   [Machine Learning with Archive Collections](https://blog.archiveshub.jisc.ac.uk/2022/02/28/machine-learning-with-archive-collections/)
+*   [Nasjonalbiblioteket AI Lab](https://huggingface.co/NbAiLab) – National Library of Norway on Hugging Face
+*   [KBLab](https://huggingface.co/KBLab) – National Library of Sweden on Hugging Face
 *   [Vatican Manuscripts](https://www.youtube.com/watch?v=8khPUtwaVaw) – machine transcription in the Vatican Secret Archive
+*   [PleIAs](https://huggingface.co/PleIAs) – French organization training LLMs with an open science approach
 
 ## Policies and recommendations<a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
 
@@ -284,7 +306,7 @@ The AI4LAM community's home page is [https://ai4lam.org](https://ai4lam.org/). T
 
 ## Contributions
 
-Your help and participation in enhancing this awesome list are very much welcome! Please use the [issue ticket system (⭐23)](https://github.com/AI4LAM/awesome-ai4lam/issues) to request additions or changes, or to make other contributions to this repository. For more information, please visit the [guidelines for contributing](https://github.com/AI4LAM/awesome-ai4lam/blob/main/README.md/CONTRIBUTING.md).
+Your help and participation in enhancing this awesome list are very much welcome! Please use the [issue ticket system (⭐25)](https://github.com/AI4LAM/awesome-ai4lam/issues) to request additions or changes, or to make other contributions to this repository. For more information, please visit the [guidelines for contributing](https://github.com/AI4LAM/awesome-ai4lam/blob/main/README.md/CONTRIBUTING.md).
 
 <p align="center">
 <a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5">

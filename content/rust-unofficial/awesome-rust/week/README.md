@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
+### Applications / Web Servers
+
+*   [cloudflare/pingora (⭐15k)](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+
 ### Libraries / Graphics
 
 *   PDF

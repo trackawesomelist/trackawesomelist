@@ -1,12 +1,66 @@
 # Awesome List Updates on Mar 05, 2024
 
-10 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [1. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
+
+### Tools and Frameworks / Audio and video analysis, transcription, and labeling
+
+*   [ELAN](https://archive.mpi.nl/tla/elan) – addS textual annotations to audio and/or video recordings (Max Planck Institute for Psycholinguistics, The Netherlands)
+
+### Datasets / Datasets available on Hugging Face
+
+*   [Full-text search for "handwritten text recognition"](https://huggingface.co/search/full-text?q=handwritten%20text%20recognition\&type=dataset)
+*   [Full-text search for "optical text recognition"](https://huggingface.co/search/full-text?q=optical%20character%20recognition\&type=dataset)
+*   [Datasets tagged "summarization"](https://huggingface.co/datasets?task_categories=task_categories%3Asummarization\&type=dataset)
+*   [Datasets tagged "feature extraction"](https://huggingface.co/datasets?task_categories=task_categories%3Afeature-extraction\&type=dataset)
+*   [Datasets tagged "image classification"](https://huggingface.co/datasets?task_categories=task_categories%3Aimage-classification\&type=dataset\&type=dataset)
+*   [Datasets tagged "video classification"](https://huggingface.co/datasets?task_categories=task_categories%3Avideo-classification\&type=dataset)
+*   [Datasets tagged "text classification"](https://huggingface.co/datasets?task_categories=task_categories%3Atext-classification\&type=dataset)
+*   [Datasets tagged "audio classification"](https://huggingface.co/datasets?task_categories=task_categories%3Aaudio-classification\&type=dataset)
+
+### Projects, Initiatives, and Case Studies / Select individual projects
+
+*   [Argilla prompt-collective](https://huggingface.co/spaces/DIBT/prompt-collective) – crowdsourcing effort to rank 50,000 prompts, on Hugging Face
+*   [BigLAM](https://huggingface.co/biglam) – BigScience Libraries, Archives and Museums on Hugging Face
+*   [Nasjonalbiblioteket AI Lab](https://huggingface.co/NbAiLab) – National Library of Norway on Hugging Face
+*   [KBLab](https://huggingface.co/KBLab) – National Library of Sweden on Hugging Face
+*   [PleIAs](https://huggingface.co/PleIAs) – French organization training LLMs with an open science approach
+
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
+
+*   [Large Language Models for Software Engineering: A
+    Systematic Literature Review](https://arxiv.org/abs/2308.10620) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10466731638053452642\&as_sdt=0,5)]. A systematic literature review on LLM4SE, with a particular focus on understanding how LLMs can be exploited to optimize processes and outcomes.
+
+## [3. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+
+### Projects / User Interfaces
+
+*   [opam-switch-mode (⭐5)](https://github.com/ProofGeneral/opam-switch-mode) - IDE extension for Proof General to locally change or reset the opam switch from a menu or using a command.
+
+## [4. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+
+### Static type checkers
+
+*   [basedpyright (⭐13)](https://github.com/detachhead/basedpyright) - Pyright fork with improvements to VSCode support and various other fixes.
+
+## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Tools / Playground
+
+*   [itertools-ts (⭐39)](https://github.com/Smoren/itertools-ts) - Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
+
+## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Web Servers
+
+*   [cloudflare/pingora (⭐15k)](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 
 ### Libraries / Graphics
 
@@ -17,7 +71,7 @@
     *   [kaj/rust-pdf (⭐139)](https://github.com/kaj/rust-pdf) —
     *   [WASM-PDF (⭐457)](https://github.com/jussiniinikoski/wasm-pdf) – Generates PDF files with JavaScript and WASM (WebAssembly)
 
-## [2. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Resources / Learning
 
@@ -31,7 +85,7 @@
 
 *   [System Manager (⭐443)](https://github.com/numtide/system-manager) - A non-NixOS Linux system configuration tool built on Nix.
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -53,7 +107,7 @@
 
 *   [bluefireoly/SimpleKotlinMail (⭐60)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
 
-## [4. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -67,25 +121,25 @@
 
 *   [Awakari](https://awakari.com/login.html)
 
-## [5. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [10. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Standout Projects
 
 *   [The Escape Artist](https://esc.art/) - An award-winning escape room game by Paradowski Creative set inside the mind of an artist, with an overarching narrative about the creative process.
 
-## [6. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [11. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Godot 4.2+
 
 *   [LimboAI (⭐335)](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
 
-## [7. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [12. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
 *   [Supabase](https://www.supabase.com) - Fully managed Postgres with read replicas, point-in-time-recovery, support packages, browser based GUI, and a generous free tier.
 
-## [8. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
+## [13. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
 ### Specific topics / Secret key cryptography
 
@@ -104,7 +158,7 @@
 
 *   [How to construct zero-knowledge proof systems for NP](https://www.wisdom.weizmann.ac.il/~oded/gmw1.html) - Classic paper by Goldreich,  Micali and Wigderson.
 
-## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [14. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Books
 
@@ -114,7 +168,7 @@
 
 *   [Sharing data between Terraform configurations](https://web.archive.org/web/20230927082422/https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) - Illustrates how to use remote state to share data between Terraform configurations.
 
-## [10. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [15. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Gems / Other external resources
 

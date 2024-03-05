@@ -12,6 +12,11 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Learning to Infer Graphics Programs from Hand-Drawn Images](https://proceedings.neurips.cc/paper/2018/hash/6788076842014c83cedadbe6b0ba0314-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=14065112485794121024\&as_sdt=0,5)]. The method learns a model that uses program synthesis techniques to recover a graphics program from drawing primitives. These programs have constructs like variable bindings, iterative loops, or simple kinds of conditionals. With a graphics program in hand, we can correct errors made by the deep network and extrapolate drawings.
 
+### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
+
+*   [Large Language Models for Software Engineering: A
+    Systematic Literature Review](https://arxiv.org/abs/2308.10620) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10466731638053452642\&as_sdt=0,5)]. A systematic literature review on LLM4SE, with a particular focus on understanding how LLMs can be exploited to optimize processes and outcomes.
+
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
 ### Concepts / Human Concept Representation

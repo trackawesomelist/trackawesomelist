@@ -6,6 +6,13 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Mar 05, 2024](/content/2024/03/05/README.md)
+
+### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
+
+*   [Large Language Models for Software Engineering: A
+    Systematic Literature Review](https://arxiv.org/abs/2308.10620) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10466731638053452642\&as_sdt=0,5)]. A systematic literature review on LLM4SE, with a particular focus on understanding how LLMs can be exploited to optimize processes and outcomes.
+
 ## [Mar 04, 2024](/content/2024/03/04/README.md)
 
 ### Domain Specific Language / DSL Program Synthesis
