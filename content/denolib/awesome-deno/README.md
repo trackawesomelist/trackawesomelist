@@ -6,6 +6,12 @@ Curated list of awesome things related to Deno
 
 [ Daily / [Weekly](/content/denolib/awesome-deno/week/README.md) / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 
+## [Mar 06, 2024](/content/2024/03/06/README.md)
+
+### Modules / Social Platform APIs
+
+*   [MTKruto (⭐38)](https://github.com/MTKruto/MTKruto) - Deno-first, cross-runtime client library for Telegram's MTProto API.
+
 ## [Feb 29, 2024](/content/2024/02/29/README.md)
 
 ### Modules / Utils
@@ -370,12 +376,6 @@ Curated list of awesome things related to Deno
 
 *   [faster (⭐29)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
 
-## [Mar 04, 2022](/content/2022/03/04/README.md)
-
-### Resources in Other Languages / Kurdish (Central)
-
-*   [deno.land](https://denoland-ckb.deno.dev/)
-
 ## [Feb 20, 2022](/content/2022/02/20/README.md)
 
 ### Modules / CLI utils
@@ -392,7 +392,7 @@ Curated list of awesome things related to Deno
 
 ### Resources in Other Languages / Kurdish (Central)
 
-*   [A short introduction to Deno](https://devs.krd/about-deno).
+*   [A short introduction to Deno](https://devs.krd/about-deno)
 
 ## [Jan 31, 2022](/content/2022/01/31/README.md)
 
