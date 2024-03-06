@@ -204,6 +204,7 @@ See [Vivraan/godot-lang-support (⭐295)](https://github.com/Vivraan/godot-lang-
 
 *   [2D Day/Night Cycle (⭐299)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D (Godot 3.x).
 *   [2D Destructible Objects (⭐369)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥 (Godot 3.x).
+*   [3D Auto Collision Generator (⭐4)](https://github.com/ThGnommy/godot_3d_auto_collision_generator) - Generate collision for multiple 3D objects in one click (Godot 4.x).
 *   [AgonesSDK (⭐50)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐5.7k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
 *   [Anima (⭐575)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
 *   [Aseprite Wizard (⭐635)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
@@ -216,7 +217,7 @@ See [Vivraan/godot-lang-support (⭐295)](https://github.com/Vivraan/godot-lang-
 *   [Escoria (⭐737)](https://github.com/godotengine/escoria) - Point & click adventure game framework (Godot 2.1, 3.2+).
 *   [Fast Fourier Transform (FFT) (⭐22)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript (Godot 4.x).
 *   [GdUnit3 (⭐297)](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework (Godot 3.x).
-*   [GdUnit4 (⭐333)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework (Godot 4.x).
+*   [GdUnit4 (⭐346)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework (Godot 4.x).
 *   [GodotNotificationCenter (⭐59)](https://github.com/didier-v/GodotNotificationCenter) - A notification center (Godot 3.x).
 *   [GodotPhoenixChannels (⭐256)](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework (Godot 3.\*).
 *   [Godot Radial Menu (⭐216)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.

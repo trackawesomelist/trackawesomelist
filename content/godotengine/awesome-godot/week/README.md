@@ -8,6 +8,10 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
+### Plugins and scripts / Various Godot versions
+
+*   [3D Auto Collision Generator (⭐4)](https://github.com/ThGnommy/godot_3d_auto_collision_generator) - Generate collision for multiple 3D objects in one click (Godot 4.x).
+
 ### Plugins and scripts / Godot 4.2+
 
 *   [LimboAI (⭐335)](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
@@ -16,7 +20,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Plugins and scripts / Various Godot versions
 
-*   [GdUnit4 (⭐333)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework (Godot 4.x).
+*   [GdUnit4 (⭐346)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework (Godot 4.x).
 
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 

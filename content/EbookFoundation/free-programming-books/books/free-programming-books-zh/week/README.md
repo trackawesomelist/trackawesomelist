@@ -6,6 +6,12 @@
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/readme/README.md) ]
 
+## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
+
+### C
+
+*   [C 语言教程](https://wangdoc.com/clang/)
+
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
 ### C
@@ -356,7 +362,7 @@
 
 *   [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
 *   [理解Linux进程 (⭐988)](https://github.com/tobegit3hub/understand_linux_process)
-*   [命令行的艺术 (⭐144k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+*   [命令行的艺术 (⭐146k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 *   [鸟哥的 Linux 私房菜 服务器架设篇](http://cn.linux.vbird.org/linux_server/)
 *   [鸟哥的 Linux 私房菜 基础学习篇](http://cn.linux.vbird.org/linux_basic/linux_basic.php)
 *   [嵌入式 Linux 知识库 (eLinux.org 中文版)](https://tinylab.gitbooks.io/elinux/content/zh/)

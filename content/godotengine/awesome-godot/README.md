@@ -6,6 +6,12 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ Daily / [Weekly](/content/godotengine/awesome-godot/week/README.md) / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Mar 06, 2024](/content/2024/03/06/README.md)
+
+### Plugins and scripts / Various Godot versions
+
+*   [3D Auto Collision Generator (⭐4)](https://github.com/ThGnommy/godot_3d_auto_collision_generator) - Generate collision for multiple 3D objects in one click (Godot 4.x).
+
 ## [Mar 05, 2024](/content/2024/03/05/README.md)
 
 ### Plugins and scripts / Godot 4.2+
@@ -16,7 +22,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Plugins and scripts / Various Godot versions
 
-*   [GdUnit4 (⭐333)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework (Godot 4.x).
+*   [GdUnit4 (⭐346)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework (Godot 4.x).
 
 ## [Feb 17, 2024](/content/2024/02/17/README.md)
 
