@@ -640,6 +640,7 @@
 *   [通过例子学习 Rust (⭐130)](https://github.com/rustcc/rust-by-example/)
 *   [Rust 官方教程 (⭐1.7k)](https://github.com/KaiserY/rust-book-chinese)
 *   [Rust 宏小册](https://zjp-cn.github.io/tlborm/)
+*   [Rust 语言圣经](https://course.rs)
 *   [Rust 语言学习笔记 (⭐143)](https://github.com/photino/rust-notes)
 *   [RustPrimer (⭐1.7k)](https://github.com/rustcc/RustPrimer)
 *   [Tour of Rust](https://tourofrust.com/00_zh-cn.html)

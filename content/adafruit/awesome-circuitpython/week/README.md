@@ -2,9 +2,23 @@
 
 A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/adafruit/awesome-circuitpython/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 adafruit/awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) · ⭐ 590 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/adafruit/awesome-circuitpython/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 adafruit/awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) · ⭐ 596 · 🏷️ Programming Languages
 
 [ [Daily](/content/adafruit/awesome-circuitpython/README.md) / Weekly / [Overview](/content/adafruit/awesome-circuitpython/readme/README.md) ]
+
+## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
+
+### Frameworks
+
+*   The CircuitPython Online IDE [Version 1](https://urfdvw.github.io/CircuitPython-online-IDE/) and [Version 2](https://urfdvw.github.io/CircuitPython-online-IDE2/) - A browser based IDE for CircuitPython by River Wang
+
+### Newsletter
+
+*   [Adafruit Daily, Python for Microcontrollers](https://www.adafruitdaily.com/) - A weekly newsletter on MicroPython, CircuitPython, and Python on single-board computers (SBC). A spam-free list.
+
+### Swag
+
+*   [CircuitPython 9 release poster](https://www.adafruit.com/product/5873) - CircuitPython release version 9 poster.
 
 ## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
 
@@ -24,10 +38,6 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
 
-### Frameworks
-
-*   [CircuitPython Online IDE](https://urfdvw.github.io/CircuitPython-online-IDE/) - A browser based IDE for CircuitPython by River Wang
-
 ### Events
 
 *   [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - The weekly Adafruit Show-and-tell program often has CircuitPython-related projects on display.
@@ -46,7 +56,7 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 
 ### Code
 
-*   [Tod Kurt's CircuitPython Tips and Tricks (⭐543)](https://github.com/todbot/circuitpython-tricks) - A collection of tips and tricks for CircuitPython. Also available as an Adafruit [Learn Guide](https://learn.adafruit.com/todbot-circuitpython-tricks?view=all).
+*   [Tod Kurt's CircuitPython Tips and Tricks (⭐548)](https://github.com/todbot/circuitpython-tricks) - A collection of tips and tricks for CircuitPython. Also available as an Adafruit [Learn Guide](https://learn.adafruit.com/todbot-circuitpython-tricks?view=all).
 
 ### Frameworks
 
@@ -69,7 +79,7 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 ### Code
 
 *   CircuitPython Board Software Versions: Select per board at [CircuitPython.org](https://circuitpython.org/downloads). The source for each is also on [GitHub (⭐3.8k)](https://github.com/adafruit/circuitpython/releases).
-*   [Awesome List for the RP2040 Macropad (⭐208)](https://github.com/prcutler/awesome-macropad) - A list of awesome Macropad applications, macros, 3D printed plans, and more.
+*   [Awesome List for the RP2040 Macropad (⭐214)](https://github.com/prcutler/awesome-macropad) - A list of awesome Macropad applications, macros, 3D printed plans, and more.
 
 ### Hardware
 
@@ -103,7 +113,7 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 ### Code
 
 *   [CircuitPython API Reference](https://circuitpython.readthedocs.io/en/latest/README.html) - A list of functions and documentation available for CircuitPython.
-*   [CircuitPython Community Libraries (⭐147)](https://github.com/adafruit/CircuitPython_Community_Bundle/blob/main/circuitpython_community_library_list.md) - CircuitPython Community Libraries. There are over 45+ libraries available.
+*   [CircuitPython Community Libraries (⭐150)](https://github.com/adafruit/CircuitPython_Community_Bundle/blob/main/circuitpython_community_library_list.md) - CircuitPython Community Libraries. There are over 45+ libraries available.
 
 ### News
 
@@ -144,7 +154,7 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 
 ### Contributing / Contribution Workflow Overview
 
-*   Fork [this repository (⭐590)](https://github.com/adafruit/awesome-circuitpython) on GitHub.
+*   Fork [this repository (⭐596)](https://github.com/adafruit/awesome-circuitpython) on GitHub.
 *   Merge adafruit or main.
 
 ## [Nov 22 - Nov 28, 2021](/content/2021/47/README.md)
@@ -316,7 +326,7 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 
 ### Code
 
-*   [Adafruit CircuitPython Libraries (⭐795)](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 150+ libraries available. More on Libraries on [CircuitPython.org](https://circuitpython.org/libraries).
+*   [Adafruit CircuitPython Libraries (⭐802)](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 150+ libraries available. More on Libraries on [CircuitPython.org](https://circuitpython.org/libraries).
 
 ### Frameworks
 
@@ -398,8 +408,7 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 
 ### Newsletter
 
-*   [Adafruit Daily, Python for microcontrollers](https://www.adafruitdaily.com/) - A weekly newsletter on MicroPython and CircuitPython, a spam-free list.
-*   [Contribute to newsletter (⭐56)](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter.
+*   [Contribute to newsletter (⭐57)](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter.
 
 ### News
 

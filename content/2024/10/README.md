@@ -1,31 +1,92 @@
 # Awesome List Updates on Mar 04 - Mar 10, 2024
 
-31 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [1. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+
+### Related Awesome Lists / Deep Learning
+
+*   [Workflow Automation Softwares](https://productivity.directory/category/workflow-automation) - - Curated List of Workflow Automation Apps And Tools
+
+## [2. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+
+### Courses
+
+*   [Introduction to Artificial Intelligence (AI)](https://www.notion.so/owainlewis/Introduction-to-Artificial-Intelligence-AI-ef59b363654542e597ba46a19d129882?pvs=4) - A high-level introduction to AI from IBM on Coursera
+*   [Introduction to Generative AI](https://www.coursera.org/learn/introduction-to-generative-ai) - A beginner-level introduction to Generative AI from Google on Coursera
+
+## [3. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+
+### IO / IO-Expander
+
+*   [micropython-mcp230xx (⭐0)](https://github.com/dsiggi/micropython-mcp230xx) - Driver for MCP23017 and MCP23008 GPIO expanders, extended with interrupt handling.
+
+### Sensors / Distance Ultrasonic
+
+*   [micropython-grove-ultrasonic-ranger (⭐0)](https://github.com/mores/TheMissingLink/tree/main/Seeed_MicroPython_UltrasonicRanger) - Driver for SeeedStudio's Grove Ultrasonic Ranger.
+
+## [4. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+
+### Frameworks
+
+*   The CircuitPython Online IDE [Version 1](https://urfdvw.github.io/CircuitPython-online-IDE/) and [Version 2](https://urfdvw.github.io/CircuitPython-online-IDE2/) - A browser based IDE for CircuitPython by River Wang
+
+### Newsletter
+
+*   [Adafruit Daily, Python for Microcontrollers](https://www.adafruitdaily.com/) - A weekly newsletter on MicroPython, CircuitPython, and Python on single-board computers (SBC). A spam-free list.
+
+### Swag
+
+*   [CircuitPython 9 release poster](https://www.adafruit.com/product/5873) - CircuitPython release version 9 poster.
+
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Bookmarks and Link Sharing
+
+*   [Grimoire](https://grimoire.pro) - Bookmark manager with a modern UI, automatic content & metadata extraction, categorization, filtering, and more. It has fully documented REST API, and Docker image for easy deployment. ([Source Code (⭐1.3k)](https://github.com/goniszewski/grimoire)) `MIT` `Nodejs/Docker`
+
+### Software / Polls and Events
+
+*   [gathio](https://gath.io/) - Self-destructing, shareable, no-registration event pages. ([Demo](https://gath.io/), [Source Code (⭐247)](https://github.com/lowercasename/gathio)) `GPL-3.0` `Nodejs/Docker`
+
+### Software / Software Development - Project Management
+
+*   [Huly](https://huly.io) - All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion). ([Demo](https://app.huly.io), [Source Code (⭐1.6k)](https://github.com/hcengineering/platform)) `EPL-2.0` `Docker/K8S/Nodejs`
+
+## [6. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+
+### Software / HPGL
+
+*   [processing2hpgl (⭐0)](https://github.com/awdriggs/processing2hpgl) - A Processing library that allows for direct communication with HPGL pen plotters from within a Processing sketch.
+
+### Software / Fonts
+
+*   [hf2gcode (⭐44)](https://github.com/Andy1978/hf2gcode) - Generates G-code from text with a Hershey font.
+
+## [7. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
 *   [Groupby in Polars](https://python.plainenglish.io/groupby-in-polars-986ef08321ce) - A post that explains how to Learn how to do group data using Polars by [Alexandre Petit](https://medium.com/@alexandthedataworld).
 *   [DuckDB vs Polars - Thunderdome.](https://dataengineeringcentral.substack.com/p/duckdb-vs-polars-thunderdome) - A blog post that compares Polars and DuckDB with the use of 16 GB of data on a machine of only 4 GB by [@danielbeach](https://github.com/danielbeach).
 
-## [2. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [8. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Social Platform APIs
 
 *   [MTKruto (⭐38)](https://github.com/MTKruto/MTKruto) - Deno-first, cross-runtime client library for Telegram's MTProto API.
 
-## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Golang / Diagnostics
 
 *   [yanskun/gotests.nvim (⭐11)](https://github.com/yanskun/gotests.nvim) - Make Go tests easy with [gotests (⭐4.8k)](https://github.com/cweill/gotests).
 
-## [4. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [10. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -83,7 +144,7 @@
 *   [NDJSON (⭐620) (⭐619)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐301) (⭐297)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [11. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Software for Creating APIs
 
@@ -102,13 +163,13 @@
 *   \[[r-transit](https://github.com/r-transit)]\(<https://r-transit.github.io/>) - Collection of tools for GTFS in R.
 *   [tidytransit](https://github.com/r-gtfs/tidytransit) - Use tidytransit to map transit stops and routes, calculate travel times and transit frequencies, and validate transit feeds. tidytransit reads the General Transit Feed Specification into tidyverse and simple features data frames.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
 *   [btunnel](https://www.btunnel.in/) — Expose localhost and local tcp server to the internet. Free plan includes file server, custom http request and response headers, basic auth protection and 1 hour tunnel timeout.
 
-## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [13. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Blockchain Explorers
 
@@ -147,13 +208,17 @@
 *   [Pipeline-UI (⭐30)](https://github.com/headline-design/pipeline-ui) - A React.js based component library for rapid deployment of Algorand Dapps.
 *   [AlgoTables](https://algotables.github.io/) - A suite of tools designed to aid everyday hodlers of ALGO who participate in the Algorand ecosystem.
 
-## [8. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+## [14. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
 
 ### C
 
 *   [C 语言教程](https://wangdoc.com/clang/)
 
-## [9. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
+### Rust / Django
+
+*   [Rust 语言圣经](https://course.rs)
+
+## [15. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
 
 ### Tools and Frameworks / Audio and video analysis, transcription, and labeling
 
@@ -178,25 +243,25 @@
 *   [KBLab](https://huggingface.co/KBLab) – National Library of Sweden on Hugging Face
 *   [PleIAs](https://huggingface.co/PleIAs) – French organization training LLMs with an open science approach
 
-## [10. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [16. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / User Interfaces
 
 *   [opam-switch-mode (⭐5)](https://github.com/ProofGeneral/opam-switch-mode) - IDE extension for Proof General to locally change or reset the opam switch from a menu or using a command.
 
-## [11. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [17. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Static type checkers
 
 *   [basedpyright (⭐13)](https://github.com/detachhead/basedpyright) - Pyright fork with improvements to VSCode support and various other fixes.
 
-## [12. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [18. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Tools / Playground
 
 *   [itertools-ts (⭐39)](https://github.com/Smoren/itertools-ts) - Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
 
-## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [19. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Web Servers
 
@@ -211,7 +276,7 @@
     *   [kaj/rust-pdf (⭐139)](https://github.com/kaj/rust-pdf) —
     *   [WASM-PDF (⭐457)](https://github.com/jussiniinikoski/wasm-pdf) – Generates PDF files with JavaScript and WASM (WebAssembly)
 
-## [14. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [20. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Learning
 
@@ -225,7 +290,7 @@
 
 *   [System Manager (⭐443)](https://github.com/numtide/system-manager) - A non-NixOS Linux system configuration tool built on Nix.
 
-## [15. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [21. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -239,13 +304,13 @@
 
 *   [Awakari](https://awakari.com/login.html)
 
-## [16. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [22. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Standout Projects
 
 *   [The Escape Artist](https://esc.art/) - An award-winning escape room game by Paradowski Creative set inside the mind of an artist, with an overarching narrative about the creative process.
 
-## [17. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [23. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
@@ -255,13 +320,13 @@
 
 *   [LimboAI (⭐335)](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
 
-## [18. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [24. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
 *   [Supabase](https://www.supabase.com) - Fully managed Postgres with read replicas, point-in-time-recovery, support packages, browser based GUI, and a generous free tier.
 
-## [19. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+## [25. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Specific topics / Secret key cryptography
 
@@ -280,7 +345,7 @@
 
 *   [How to construct zero-knowledge proof systems for NP](https://www.wisdom.weizmann.ac.il/~oded/gmw1.html) - Classic paper by Goldreich,  Micali and Wigderson.
 
-## [20. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [26. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Books
 
@@ -290,13 +355,13 @@
 
 *   [Sharing data between Terraform configurations](https://web.archive.org/web/20230927082422/https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) - Illustrates how to use remote state to share data between Terraform configurations.
 
-## [21. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [27. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Gems / Other external resources
 
 *   [rabarber (⭐59)](https://github.com/enjaku4/rabarber) - A gem to handle role-based authorization. [:red\_circle:](https://rubygems.org/gems/rabarber)
 
-## [22. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [28. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Tables
 
@@ -306,30 +371,31 @@
 
 *   [jupyter-stack-trace (⭐3)](https://github.com/teticio/jupyter-stack-trace) - Click on the stack trace to open the respective file or a Google search.
 
-## [23. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [29. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Libraries
 
 *   [JsonHilo (⭐25)](https://github.com/xtao-org/jsonhilo) - Minimal lossless parse event streaming, akin to SAX.
 
-## [24. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [30. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [DeepSource](https://deepsource.com) :copyright: — In-depth static analysis to find issues in verticals of bug risks, security, anti-patterns, performance, documentation and style. Native integrations with GitHub, GitLab and Bitbucket. Less than 5% false positives.
 
-## [25. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [31. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / DSL Program Synthesis
 
 *   [Learning to Infer Graphics Programs from Hand-Drawn Images](https://proceedings.neurips.cc/paper/2018/hash/6788076842014c83cedadbe6b0ba0314-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=14065112485794121024\&as_sdt=0,5)]. The method learns a model that uses program synthesis techniques to recover a graphics program from drawing primitives. These programs have constructs like variable bindings, iterative loops, or simple kinds of conditionals. With a graphics program in hand, we can correct errors made by the deep network and extrapolate drawings.
+*   [babble: Learning Better Abstractions with E-Graphs and Anti-unification](https://dl.acm.org/doi/abs/10.1145/3571207) - ***POPL'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=7935064016901049715\&as_sdt=0,5)]. This paper proposes library learning modulo theory (LLMT), a new library learning algorithm that additionally takes as input an equational theory for a given problem domain. LLMT uses e-graphs and equality saturation to compactly represent the space of programs equivalent modulo the theory, and uses a novel e-graph anti-unification technique to find common patterns in the corpus more directly and efficiently.
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 
 *   [Large Language Models for Software Engineering: A
     Systematic Literature Review](https://arxiv.org/abs/2308.10620) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10466731638053452642\&as_sdt=0,5)]. A systematic literature review on LLM4SE, with a particular focus on understanding how LLMs can be exploited to optimize processes and outcomes.
 
-## [26. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [32. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Security
 
@@ -337,7 +403,7 @@
 *   [Roave Security Advisories (⭐2.6k)](https://github.com/Roave/SecurityAdvisories) - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
 *   [Zap (⭐12k)](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
 
-## [27. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -347,7 +413,7 @@
 
 *   [frozen (⭐1.2k)](https://github.com/serge-sans-paille/frozen) - a header-only, constexpr alternative to gperf for C++14 users. \[Apache-2.0]
 
-## [28. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [34. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Continuous Integration
 
@@ -361,13 +427,17 @@
 
 *   [go-lambda-cleanup (⭐86)](https://github.com/karl-cardenas-coding/go-lambda-cleanup) - A CLI for removing unused or previous versions of AWS Lambdas.
 
-## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [35. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [DevHub](https://wangchujiang.com/DevHub/) - A feature-rich offline application, meticulously crafted to support developers in their daily tasks.  ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/devhub/id6476452351)
 
-## [30. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [36. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Libraries/Frameworks / Data Science
+
+*   [timefoldai/timefold-solver](https://timefold.ai) - AI solver to optimize scheduling of vehicle routes, employees, maintenance, jobs, etc.
 
 ### Libraries/Frameworks / Logging
 
@@ -381,7 +451,7 @@
 
 *   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
 
-## [31. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
+## [37. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
 
 ### Tools
 

@@ -2,7 +2,7 @@
 
 A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/owainlewis/awesome-artificial-intelligence/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) · ⭐ 7.1K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/owainlewis/awesome-artificial-intelligence/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) · ⭐ 8.9K · 🏷️ Theory
 
 [ [Daily](/content/owainlewis/awesome-artificial-intelligence/README.md) / [Weekly](/content/owainlewis/awesome-artificial-intelligence/week/README.md) / Overview ]
 
@@ -12,7 +12,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 
-Contributions most welcome.
+Contributions are most welcome.
 
 ![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
 
@@ -34,18 +34,20 @@ Contributions most welcome.
 
 ## Courses
 
+*   [Introduction to Artificial Intelligence (AI)](https://www.notion.so/owainlewis/Introduction-to-Artificial-Intelligence-AI-ef59b363654542e597ba46a19d129882?pvs=4) - A high-level introduction to AI from IBM on Coursera
+*   [Introduction to Generative AI](https://www.coursera.org/learn/introduction-to-generative-ai) - A beginner-level introduction to Generative AI from Google on Coursera
 *   [CS50’s Intro to Artificial Intelligence](https://cs50.harvard.edu/ai/2020) - This course explores the concepts and algorithms at the foundation of modern artificial intelligence
-*   [MIT: Intro to Deep Learning](https://introtodeeplearning.com) - A seven day bootcamp designed in MIT to introduce deep learning methods and applications
-*   [Deep Blueberry: Deep Learning book](https://mithi.github.io/deep-blueberry) - A free five-weekend plan to self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more
+*   [MIT: Intro to Deep Learning](https://introtodeeplearning.com) - A seven-day bootcamp designed in MIT to introduce deep learning methods and applications
+*   [Deep Blueberry: Deep Learning book](https://mithi.github.io/deep-blueberry) - A free five-weekend plan for self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more
 *   [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) - A free deep reinforcement learning course by OpenAI
 *   [MIT Artificial Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - MIT AI Course
 *   [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion?a_aid=algmotion\&a_bid=5d7bc0ba) - Beginner's course to learn deep learning and neural networks without frameworks.
 *   [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271) - Learn the Fundamentals of AI. Course run by Peter Norvig
 *   [EdX Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VMeIsmSsVkg) - The course will introduce the basic ideas and techniques underlying the design of intelligent computer systems
-*   [Artificial Intelligence For Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics) - This class will teach you basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics
+*   [Artificial Intelligence For Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics) - This class will teach you basic methods in Artificial Intelligence, including probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics
 *   [Machine Learning](https://class.coursera.org/ml-008) - Basic machine learning algorithms for supervised and unsupervised learning
-*   [Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) - An Introductory course to the world of Deep Learning using TensorFlow.
-*   [Stanford Statistical Learning](http://online.stanford.edu/course/statistical-learning-winter-2014) - Introductory course on machine learning focusing on: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines.
+*   [Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) - An Introductory course to Deep Learning using TensorFlow.
+*   [Stanford Statistical Learning](http://online.stanford.edu/course/statistical-learning-winter-2014) - Introductory course on machine learning focusing on linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines.
 *   [Knowledge Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) - Georgia Tech's course on Artificial Intelligence focussing on Symbolic AI.
 *   [Deep RL Bootcamp Lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures) - Deep Reinforcement Bootcamp Lectures - August 2017
 *   [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course/ml-intro) Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.
@@ -61,7 +63,7 @@ Contributions most welcome.
 *   [On Intelligence](http://www.amazon.com/Jeff-Hawkins/e/B001KHNZ7C/ref=sr_ntt_srch_lnk_11?qid=1435480927\&sr=8-11) - Hawkins develops a powerful theory of how the human brain works, explaining why computers are not intelligent and how, based on this new theory, we can finally build intelligent machines. Also audio version available from audible.com
 *   [How To Create A Mind](http://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/ref=pd_sim_14_3?ie=UTF8\&refRID=0QY72H7NGRYH79R7S3K7) - Kurzweil discusses how the brain works, how the mind emerges, brain-computer interfaces, and the implications of vastly increasing the powers of our intelligence to address the world’s problems
 *   [Deep Learning](http://www.deeplearningbook.org/) - Goodfellow, Bengio and Courville's introduction to a broad range of topics in deep learning, covering mathematical and conceptual background, deep learning techniques used in industry, and research perspectives.
-*   [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/\~hastie/ElemStatLearn/) - Hastie and Tibshirani cover a broad range of topics, from supervised learning (prediction) to unsupervised learning including neural networks, support vector machines, classification trees and boosting---the first comprehensive treatment of this topic in any book.
+*   [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/) - Hastie and Tibshirani cover a broad range of topics, from supervised learning (prediction) to unsupervised learning including neural networks, support vector machines, classification trees and boosting---the first comprehensive treatment of this topic in any book.
 *   [Deep Learning and the Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go) - Deep Learning and the Game of Go teaches you how to apply the power of deep learning to complex human-flavored reasoning tasks by building a Go-playing AI. After exposing you to the foundations of machine and deep learning, you'll use Python to build a bot and then teach it the rules of the game.
 *   [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search) -  Deep Learning for Search teaches you how to leverage neural networks, NLP, and deep learning techniques to improve search performance.
 *   [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch) -  PyTorch puts these superpowers in your hands, providing a comfortable Python experience that gets you started quickly and then grows with you as you—and your deep learning skills—become more sophisticated. Deep Learning with PyTorch will make that journey engaging and fun.
@@ -107,7 +109,7 @@ Contributions most welcome.
 ## Free Content
 
 *   [Foundations Of Computational Agents](http://artint.info/html/ArtInt.html) - This book is published by Cambridge University Press, 2010
-*   [The Quest For Artificial Intelligence](http://ai.stanford.edu/\~nilsson/QAI/qai.pdf) - This book traces the history of the subject, from the early dreams of eighteenth-century (and earlier) pioneers to the more successful work of today's AI engineers.
+*   [The Quest For Artificial Intelligence](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - This book traces the history of the subject, from the early dreams of eighteenth-century (and earlier) pioneers to the more successful work of today's AI engineers.
 *   [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) - This course provides a broad introduction to machine learning and statistical pattern recognition.
 *   [Computers and Thought: A practical Introduction to Artificial Intelligence](http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/) - The book covers computer simulation of human activities, such as problem solving and natural language understanding; computer vision; AI tools and techniques; an introduction to AI programming; symbolic and neural network models of cognition; the nature of mind and intelligence; and the social implications of AI and cognitive science.
 *   [Society of Mind](http://aurellem.org/society-of-mind/index.html) - Marvin Minsky's seminal work on how our mind works. Lot of Symbolic AI concepts have been derived from this basis.
@@ -121,10 +123,10 @@ Contributions most welcome.
 
 ## Code
 
-*   [ExplainX (⭐320)](https://github.com/explainX/explainx)- ExplainX is a fast, light-weight, and scalable explainable AI framework for data scientists to explain any black-box model to business stakeholders.
+*   [ExplainX (⭐380)](https://github.com/explainX/explainx)- ExplainX is a fast, light-weight, and scalable explainable AI framework for data scientists to explain any black-box model to business stakeholders.
 *   [AIMACode](https://github.com/aimacode) - Source code for "Artificial Intelligence: A Modern Approach" in Common Lisp, Java, Python. More to come.
 *   [FANN](http://leenissen.dk/fann/wp/) - Fast Artificial Neural Network Library, native for C
-*   [FARGonautica (⭐87)](https://github.com/Alex-Linhares/FARGonautica) - Source code of Douglas Hosftadter's Fluid Concepts and Creative Analogies Ph.D. projects.
+*   [FARGonautica (⭐107)](https://github.com/Alex-Linhares/FARGonautica) - Source code of Douglas Hosftadter's Fluid Concepts and Creative Analogies Ph.D. projects.
 
 ## Videos
 
@@ -147,19 +149,19 @@ Contributions most welcome.
 *   [Getting Started with Deep Learning and Python](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
 *   [Machine Learning Mastery](http://machinelearningmastery.com/)
 *   [Deep Learning.net](https://web.archive.org/web/20201114013453/http://deeplearning.net/) - Aggregation site for DL resources
-*   [Awesome Machine Learning (⭐56k)](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
+*   [Awesome Machine Learning (⭐63k)](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
 *   [FastML](http://fastml.com/)
-*   [Awesome Deep Learning Resources (⭐1.5k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning
+*   [Awesome Deep Learning Resources (⭐1.6k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning
 *   [Professional and In-Depth Machine Learning Video Courses](https://freecoursesite.com/?s=Machine+Learning+Data+Science) - A collection of free professional and in depth Machine Learning and Data Science video tutorials and courses
 *   [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) - A collection of free professional and in depth Artificial Intelligence video tutorials and courses
 *   [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in depth Deep Learning video tutorials and courses
 *   [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introductory level machine learning crash course
-*   [Awesome Graph Classification (⭐4.5k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Learning from graph structured data
-*   [Awesome Community Detection (⭐2k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Clustering graph structured data
-*   [Awesome Decision Tree Papers (⭐2k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - Decision tree papers from machine learning conferences
-*   [Awesome Gradient Boosting Papers (⭐814)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences
-*   [Awesome Fraud Detection Papers (⭐1.2k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences
-*   [Awesome Neural Art (⭐72)](https://github.com/crypdick/awesome-neural-art) - Creating art and manipulating images using deep neural networks.
+*   [Awesome Graph Classification (⭐4.7k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Learning from graph structured data
+*   [Awesome Community Detection (⭐2.3k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Clustering graph structured data
+*   [Awesome Decision Tree Papers (⭐2.3k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - Decision tree papers from machine learning conferences
+*   [Awesome Gradient Boosting Papers (⭐975)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences
+*   [Awesome Fraud Detection Papers (⭐1.5k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences
+*   [Awesome Neural Art (⭐87)](https://github.com/crypdick/awesome-neural-art) - Creating art and manipulating images using deep neural networks.
 
 ## Organizations
 
@@ -189,7 +191,7 @@ Contributions most welcome.
 *   [Automated Software Engineering](http://www.springer.com/journal/10515)
 *   [Autonomous Agents and Multi-Agent Systems](http://www.springer.com/journal/10458)
 *   [Computational and Mathematical Organization Theory ](http://www.springer.com/journal/10588)
-*   [Computational Intelligence](http://www.blackwellpublishing.com/content/BPL_Images/New_Journal_Samples/coin0824-7935\~17\~4/C.PDF)
+*   [Computational Intelligence](http://www.blackwellpublishing.com/content/BPL_Images/New_Journal_Samples/coin0824-7935~17~4/C.PDF)
 *   [Electronic Transactions on Artificial Intelligence](https://dblp.org/db/journals/etai/index.html)
 *   [Evolutionary Intelligence](http://www.springer.com/journal/12065)
 *   [EXPERT—IEEE Intelligent Systems](http://ieeexplore.ieee.org/servlet/opac?punumber=9670)

@@ -12,6 +12,10 @@
 
 *   [C 语言教程](https://wangdoc.com/clang/)
 
+### Rust / Django
+
+*   [Rust 语言圣经](https://course.rs)
+
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
 ### C

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/readme/README.md) ]
 
+## [Mar 07, 2024](/content/2024/03/07/README.md)
+
+### Rust / Django
+
+*   [Rust 语言圣经](https://course.rs)
+
 ## [Mar 06, 2024](/content/2024/03/06/README.md)
 
 ### C

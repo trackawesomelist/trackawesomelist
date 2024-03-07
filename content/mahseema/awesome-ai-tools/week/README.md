@@ -6,6 +6,12 @@ A curated list of Artificial Intelligence Top Tools
 
 [ [Daily](/content/mahseema/awesome-ai-tools/README.md) / Weekly / [Overview](/content/mahseema/awesome-ai-tools/readme/README.md) ]
 
+## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
+
+### Related Awesome Lists / Deep Learning
+
+*   [Workflow Automation Softwares](https://productivity.directory/category/workflow-automation) - - Curated List of Workflow Automation Apps And Tools
+
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
 ### Text / Chatbots

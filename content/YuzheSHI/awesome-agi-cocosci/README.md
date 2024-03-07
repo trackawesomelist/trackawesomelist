@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Mar 07, 2024](/content/2024/03/07/README.md)
+
+### Domain Specific Language / DSL Program Synthesis
+
+*   [babble: Learning Better Abstractions with E-Graphs and Anti-unification](https://dl.acm.org/doi/abs/10.1145/3571207) - ***POPL'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=7935064016901049715\&as_sdt=0,5)]. This paper proposes library learning modulo theory (LLMT), a new library learning algorithm that additionally takes as input an equational theory for a given problem domain. LLMT uses e-graphs and equality saturation to compactly represent the space of programs equivalent modulo the theory, and uses a novel e-graph anti-unification technique to find common patterns in the corpus more directly and efficiently.
+
 ## [Mar 05, 2024](/content/2024/03/05/README.md)
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase

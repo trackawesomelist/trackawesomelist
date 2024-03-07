@@ -6,6 +6,16 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 [ [Daily](/content/mcauser/awesome-micropython/README.md) / Weekly / [Overview](/content/mcauser/awesome-micropython/readme/README.md) ]
 
+## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
+
+### IO / IO-Expander
+
+*   [micropython-mcp230xx (⭐0)](https://github.com/dsiggi/micropython-mcp230xx) - Driver for MCP23017 and MCP23008 GPIO expanders, extended with interrupt handling.
+
+### Sensors / Distance Ultrasonic
+
+*   [micropython-grove-ultrasonic-ranger (⭐0)](https://github.com/mores/TheMissingLink/tree/main/Seeed_MicroPython_UltrasonicRanger) - Driver for SeeedStudio's Grove Ultrasonic Ranger.
+
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
 ### Sensors / Air Quality
