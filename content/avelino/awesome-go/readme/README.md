@@ -2247,7 +2247,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 ## Server Applications
 
 *   [algernon (⭐2.6k)](https://github.com/xyproto/algernon) - HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber.
-*   [Caddy (⭐52k)](https://github.com/caddyserver/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
+*   [Caddy (⭐53k)](https://github.com/caddyserver/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
 *   [consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
 *   [cortex-tenant (⭐91)](https://github.com/blind-oracle/cortex-tenant) - Prometheus remote write proxy that adds add Cortex tenant ID header based on metric labels.
 *   [devd (⭐3.4k)](https://github.com/cortesi/devd) - Local webserver for developers.
@@ -2904,7 +2904,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Confetti Framework](https://confetti-framework.github.io/docs/) - Confetti is a Go web application framework with an expressive, elegant syntax. Confetti combines the elegance of Laravel and the simplicity of Go.
 *   [Don (⭐34)](https://github.com/abemedia/go-don) - A highly performant and simple to use API framework.
 *   [Echo (⭐28k)](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
-*   [Fiber (⭐30k)](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
+*   [Fiber (⭐31k)](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
 *   [Fireball (⭐59)](https://github.com/zpatrick/fireball) - More "natural" feeling web framework.
 *   [Flamingo (⭐420)](https://github.com/i-love-flamingo/flamingo) - Framework for pluggable web projects. Including a concept for modules and offering features for DI, Configareas, i18n, template engines, graphql, observability, security, events, routing & reverse routing etc.
 *   [Flamingo Commerce (⭐472)](https://github.com/i-love-flamingo/flamingo-commerce) - Providing e-commerce features using clean architecture like DDD and ports and adapters, that you can use to build flexible e-commerce applications.
@@ -2917,7 +2917,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Goa (⭐5.4k)](https://github.com/goadesign/goa) - Goa provides a holistic approach for developing remote APIs and microservices in Go.
 *   [goa (⭐49)](https://github.com/goa-go/goa) - goa is just like koajs for golang, it is a flexible, light, high-performance and extensible web framework based on middleware.
 *   [GoFr (⭐708)](https://github.com/gofr-dev/gofr) - Gofr is an opinionated microservice development framework.
-*   [GoFrame (⭐11k)](https://github.com/gogf/gf) - GoFrame is a modular, full-featured and production-ready application development framework of golang.
+*   [GoFrame (⭐11k)](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 *   [golamb (⭐6)](https://github.com/twharmon/golamb) - Golamb makes it easier to write API endpoints for use with AWS Lambda and API Gateway.
 *   [Golax (⭐75)](https://github.com/fulldump/golax) - A non Sinatra fast HTTP framework with support for Google custom methods, deep interceptors, recursion and more.
 *   [Golf (⭐270)](https://github.com/dinever/golf) - Golf is a fast, simple and lightweight micro-web framework for Go. It comes with powerful features and has no dependencies other than the Go Standard Library.
@@ -3318,7 +3318,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [restic (⭐23k)](https://github.com/restic/restic) - De-duplicating backup program.
 *   [sake (⭐634)](https://github.com/alajmo/sake) - sake is a command runner for local and remote hosts.
 *   [scc (⭐5.7k)](https://github.com/boyter/scc) - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
-*   [Seaweed File System (⭐20k)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
+*   [Seaweed File System (⭐21k)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
 *   [shell2http (⭐1.2k)](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).
 *   [Snitch (⭐17)](https://github.com/lucasgomide/snitch) - Simple way to notify your team and many tools when someone has deployed any application via Tsuru.
 *   [Stack Up (⭐2.5k)](https://github.com/pressly/sup) - Stack Up, a super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
@@ -3395,6 +3395,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Effective Go: Elegant, efficient, and testable code](https://www.manning.com/books/effective-go) - Unlock Go’s unique perspective on program design, and start writing simple, maintainable, and testable Go code.
 *   [For the Love of Go](https://bitfieldconsulting.com/books/love) - An introductory book for Go beginners.
 *   [Go Faster](https://leanpub.com/gofaster) - This book seeks to shorten your learning curve and help you become a proficient Go programmer, faster.
+*   [Go in Practice, Second Edition](https://www.manning.com/books/go-in-practice-second-edition)  - Your practical guide on the ins-and-outs of Go development, covering the standard library and the most important tools from Go’s powerful ecosystem.
 *   [Know Go: Generics](https://bitfieldconsulting.com/books/generics) - A guide to understanding and using generics in Go.
 *   [Lets-Go](https://lets-go.alexedwards.net) - A step-by-step guide to creating fast, secure and maintanable web applications with Go.
 *   [Lets-Go-Further](https://lets-go-further.alexedwards.net) - Advanced patterns for building APIs and web applications in Go.

@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [yanskun/gotests.nvim (⭐11)](https://github.com/yanskun/gotests.nvim) - Make Go tests easy with [gotests (⭐4.8k)](https://github.com/cweill/gotests).
 
+### Keybinding / Diagnostics
+
+*   [nvimtools/hydra.nvim (⭐43)](https://github.com/nvimtools/hydra.nvim) - Create custom submodes and menus. Port of Emacs Hydra. Maintained fork of anuvyklack/hydra.nvim.
+
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
 ### Programming Languages Support / Diagnostics
@@ -76,7 +80,7 @@ Collections of awesome neovim plugins.
 
 ### Terminal Integration / Diagnostics
 
-*   [2KAbhishek/termim.nvim (⭐20)](https://github.com/2KAbhishek/termim.nvim/) - Neovim Terminal, Improved.
+*   [2KAbhishek/termim.nvim (⭐29)](https://github.com/2KAbhishek/termim.nvim/) - Neovim Terminal, Improved.
 
 ### Editing Support / Diagnostics
 
@@ -108,7 +112,7 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [marilari88/twoslash-queries.nvim (⭐105)](https://github.com/marilari88/twoslash-queries.nvim) - Provide inline virtual text displaying TypeScript types for the inspected variables.
+*   [marilari88/twoslash-queries.nvim (⭐107)](https://github.com/marilari88/twoslash-queries.nvim) - Provide inline virtual text displaying TypeScript types for the inspected variables.
 
 ### Programming Languages Support / Diagnostics
 
@@ -116,7 +120,7 @@ Collections of awesome neovim plugins.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [Nedra1998/nvim-mdlink (⭐12)](https://github.com/Nedra1998/nvim-mdlink) - Simplify creating and following markdown links.
+*   [Nedra1998/nvim-mdlink (⭐15)](https://github.com/Nedra1998/nvim-mdlink) - Simplify creating and following markdown links.
 
 ### Language / Diagnostics
 
@@ -124,7 +128,7 @@ Collections of awesome neovim plugins.
 
 ### Marks / Diagnostics
 
-*   [LintaoAmons/bookmarks.nvim (⭐32)](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful.
+*   [LintaoAmons/bookmarks.nvim (⭐37)](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful.
 
 ## [Jan 29 - Feb 04, 2024](/content/2024/5/README.md)
 
@@ -204,11 +208,11 @@ Collections of awesome neovim plugins.
 
 ### Snippet / Diagnostics
 
-*   [chrisgrieser/nvim-scissors (⭐214)](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
+*   [chrisgrieser/nvim-scissors (⭐219)](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
 
 ### File Explorer / Diagnostics
 
-*   [simonmclean/triptych.nvim (⭐87)](https://github.com/simonmclean/triptych.nvim) - A directory browser inspired by Ranger.
+*   [simonmclean/triptych.nvim (⭐90)](https://github.com/simonmclean/triptych.nvim) - A directory browser inspired by Ranger.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -216,20 +220,20 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme Switchers / Diagnostics
 
-*   [CWood-sdf/pineapple (⭐33)](https://github.com/CWood-sdf/pineapple) - Install any colorscheme in your config without leaving your terminal. Collects every colorscheme on the internet and allows you to preview them all before installing.
+*   [CWood-sdf/pineapple (⭐35)](https://github.com/CWood-sdf/pineapple) - Install any colorscheme in your config without leaving your terminal. Collects every colorscheme on the internet and allows you to preview them all before installing.
 
 ### Media / Diagnostics
 
-*   [hakonharnes/img-clip.nvim (⭐267)](https://github.com/hakonharnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
-*   [3rd/image.nvim (⭐541)](https://github.com/3rd/image.nvim) - Add image support through Kitty's graphics protocol or ueberzugpp.
+*   [hakonharnes/img-clip.nvim (⭐281)](https://github.com/hakonharnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
+*   [3rd/image.nvim (⭐560)](https://github.com/3rd/image.nvim) - Add image support through Kitty's graphics protocol or ueberzugpp.
 
 ### Debugging / Diagnostics
 
-*   [chrisgrieser/nvim-chainsaw (⭐65)](https://github.com/chrisgrieser/nvim-chainsaw) - Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.
+*   [chrisgrieser/nvim-chainsaw (⭐68)](https://github.com/chrisgrieser/nvim-chainsaw) - Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [pgosar/CyberNvim (⭐276)](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.
+*   [pgosar/CyberNvim (⭐281)](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.
 *   [crispybaccoon/chaivim (⭐18)](https://github.com/crispybaccoon/chaivim) - Easily configurable distro with solid defaults and a cozy editor experience.
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
@@ -1856,7 +1860,6 @@ Collections of awesome neovim plugins.
 *   [LionC/nest.nvim (⭐227)](https://github.com/LionC/nest.nvim) - Lua utility to map keys concisely using cascading trees. Also allows binding Lua functions to keys.
 *   [LinArcX/telescope-command-palette.nvim (⭐269)](https://github.com/LinArcX/telescope-command-palette.nvim) - Lua plugin to create key-bindings and watch them with telescope.
 *   [slugbyte/unruly-worker (⭐28)](https://github.com/slugbyte/unruly-worker) - A ridiculously fun alternative keymap for the workman keyboard layout with Neovim features like LSP support, built and configured with Lua.
-*   [anuvyklack/hydra.nvim (⭐972)](https://github.com/anuvyklack/hydra.nvim) - Create custom submodes and menus. Port of Emacs Hydra.
 *   [anuvyklack/keymap-amend.nvim (⭐55)](https://github.com/anuvyklack/keymap-amend.nvim) - Amend the existing keymap.
 *   [max397574/better-escape.nvim (⭐477)](https://github.com/max397574/better-escape.nvim) - Create shortcuts to escape insert mode without getting delay.
 

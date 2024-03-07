@@ -6,6 +6,12 @@ A collection of android security related resources
 
 [ Daily / [Weekly](/content/ashishb/android-security-awesome/week/README.md) / [Overview](/content/ashishb/android-security-awesome/readme/README.md) ]
 
+## [Mar 07, 2024](/content/2024/03/07/README.md)
+
+### Tools / Reverse Engineering
+
+*   [Dexmod (⭐13)](https://github.com/google/dexmod) - tool to exemplify patching Dalvik bytecode in a DEX (Dalvik Executable) file, and assist in the static analysis of Android applications.
+
 ## [Feb 24, 2024](/content/2024/02/24/README.md)
 
 ### Tools / Online Analyzers
@@ -76,7 +82,7 @@ A collection of android security related resources
 
 ## [Oct 20, 2021](/content/2021/10/20/README.md)
 
-### Tools / Reverse Engineering
+### Tools / Dynamic Analysis Tools
 
 *   [Decompiler.com](https://www.decompiler.com/) - Online APK and Java decompiler
 
@@ -409,7 +415,6 @@ A collection of android security related resources
 *   [APKInspector (⭐816)](https://github.com/honeynet/apkinspector/)
 *   [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
 *   [DroidLegacy](https://bitbucket.org/srl/droidlegacy)
-*   ~~[Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs)~~
 *   [FlowDroid](https://blogs.uni-paderborn.de/sse/tools/flowdroid/)
 *   [Android Decompiler](https://www.pnfsoftware.com/) – not free
 *   [Amandroid](http://amandroid.sireum.org/)
@@ -421,6 +426,7 @@ A collection of android security related resources
 *   [RiskInDroid (⭐87)](https://github.com/ClaudiuGeorgiu/RiskInDroid) - A tool for calculating the risk of Android apps based on their permissions, with an online demo available.
 *   [SUPER (⭐413)](https://github.com/SUPERAndroidAnalyzer/super) - Secure, Unified, Powerful and Extensible Rust Android Analyzer
 *   [ClassyShark (⭐7.4k)](https://github.com/google/android-classyshark) - Standalone binary inspection tool which can browse any Android executable and show important info.
+*   ~~[Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs)~~
 
 ### Tools / App Vulnerability Scanners
 
@@ -436,7 +442,6 @@ A collection of android security related resources
 *   [Inspeckage (⭐2.7k)](https://github.com/ac-pm/Inspeckage) - Android Package Inspector - dynamic analysis with API hooks, start unexported activities, and more. (Xposed Module)
 *   [Android Hooker (⭐406)](https://github.com/AndroidHooker/hooker) - Dynamic Java code instrumentation (requires the Substrate Framework)
 *   [ProbeDroid (⭐194)](https://github.com/ZSShen/ProbeDroid) - Dynamic Java code instrumentation
-*   ~~[Android Tamer](https://androidtamer.com/) - Virtual / Live Platform for Android Security Professionals~~
 *   [DECAF (⭐764)](https://github.com/sycurelab/DECAF) - Dynamic Executable Code Analysis Framework based on QEMU (DroidScope is now an extension to DECAF)
 *   [CuckooDroid (⭐566)](https://github.com/idanr1986/cuckoo-droid) - Android extension for Cuckoo sandbox
 *   [Mem (⭐62)](https://github.com/MobileForensicsResearch/mem) - Memory analysis of Android (root required)
@@ -449,6 +454,7 @@ A collection of android security related resources
 *   [DroidAnalytics (⭐28)](https://github.com/zhengmin1989/DroidAnalytics) - incomplete
 *   [Vezir Project (⭐97)](https://github.com/oguzhantopgul/Vezir-Project) - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
 *   [MARA (⭐609)](https://github.com/xtiankisutsa/MARA_Framework) - Mobile Application Reverse Engineering and Analysis Framework
+*   ~~[Android Tamer](https://androidtamer.com/) - Virtual / Live Platform for Android Security Professionals~~
 
 ### Tools / Reverse Engineering
 

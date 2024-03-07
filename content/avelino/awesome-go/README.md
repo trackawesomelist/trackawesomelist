@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Mar 07, 2024](/content/2024/03/07/README.md)
+
+### E-books for purchase / Libraries for creating HTTP middlewares
+
+*   [Go in Practice, Second Edition](https://www.manning.com/books/go-in-practice-second-edition)  - Your practical guide on the ins-and-outs of Go development, covering the standard library and the most important tools from Go’s powerful ecosystem.
+
 ## [Mar 04, 2024](/content/2024/03/04/README.md)
 
 ### Continuous Integration
@@ -605,7 +611,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Web Frameworks
 
-*   [GoFrame (⭐11k)](https://github.com/gogf/gf) - GoFrame is a modular, full-featured and production-ready application development framework of golang.
+*   [GoFrame (⭐11k)](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 *   [REST Layer (⭐1.2k)](https://github.com/rs/rest-layer) - Framework to build REST/GraphQL API on top of databases with mostly configuration over code.
 
 ### Code Analysis / Libraries for creating HTTP middlewares
@@ -3532,7 +3538,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Server Applications
 
 *   [algernon (⭐2.6k)](https://github.com/xyproto/algernon) - HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber.
-*   [Caddy (⭐52k)](https://github.com/caddyserver/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
+*   [Caddy (⭐53k)](https://github.com/caddyserver/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
 *   [consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
 *   [cortex-tenant (⭐91)](https://github.com/blind-oracle/cortex-tenant) - Prometheus remote write proxy that adds add Cortex tenant ID header based on metric labels.
 *   [devd (⭐3.4k)](https://github.com/cortesi/devd) - Local webserver for developers.
@@ -3989,7 +3995,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Banjo (⭐22)](https://github.com/nsheremet/banjo) - Very simple and fast web framework for Go.
 *   [Buffalo](https://gobuffalo.io) - Bringing the productivity of Rails to Go!
 *   [Echo (⭐28k)](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
-*   [Fiber (⭐30k)](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
+*   [Fiber (⭐31k)](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
 *   [Fireball (⭐59)](https://github.com/zpatrick/fireball) - More "natural" feeling web framework.
 *   [Flamingo (⭐420)](https://github.com/i-love-flamingo/flamingo) - Framework for pluggable web projects. Including a concept for modules and offering features for DI, Configareas, i18n, template engines, graphql, observability, security, events, routing & reverse routing etc.
 *   [Flamingo Commerce (⭐472)](https://github.com/i-love-flamingo/flamingo-commerce) - Providing e-commerce features using clean architecture like DDD and ports and adapters, that you can use to build flexible e-commerce applications.
@@ -4311,7 +4317,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [protoncheck (⭐5)](https://github.com/servusdei2018/protoncheck) - ProtonMail module for waybar/polybar/yabar/i3blocks.
 *   [restic (⭐23k)](https://github.com/restic/restic) - De-duplicating backup program.
 *   [scc (⭐5.7k)](https://github.com/boyter/scc) - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
-*   [Seaweed File System (⭐20k)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
+*   [Seaweed File System (⭐21k)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
 *   [shell2http (⭐1.2k)](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).
 *   [Snitch (⭐17)](https://github.com/lucasgomide/snitch) - Simple way to notify your team and many tools when someone has deployed any application via Tsuru.
 *   [Stack Up (⭐2.5k)](https://github.com/pressly/sup) - Stack Up, a super simple deployment tool - just Unix - think of it like 'make' for a network of servers.

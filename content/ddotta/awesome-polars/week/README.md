@@ -8,10 +8,15 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
+### Libraries/Packages/Scripts / Python
+
+*   [Polars for Identifiers and Standard Format Strings (⭐4)](https://github.com/abstractqqq/polars_istr) - Python package forProcessing IBAN, ISINs, URLs and other standard format data in Polars by [@abstractqqq](https://github.com/abstractqqq).
+
 ### Resources / Blog posts
 
 *   [Groupby in Polars](https://python.plainenglish.io/groupby-in-polars-986ef08321ce) - A post that explains how to Learn how to do group data using Polars by [Alexandre Petit](https://medium.com/@alexandthedataworld).
 *   [DuckDB vs Polars - Thunderdome.](https://dataengineeringcentral.substack.com/p/duckdb-vs-polars-thunderdome) - A blog post that compares Polars and DuckDB with the use of 16 GB of data on a machine of only 4 GB by [@danielbeach](https://github.com/danielbeach).
+*   [How moving from Pandas to Polars made me write better code without writing better code](https://dev.to/check/how-moving-from-pandas-to-polars-made-me-write-better-code-without-writing-better-code-52bl) - A post that describs the process of "Polarification" of code written with Pandas by [@duvenagep](https://github.com/duvenagep).
 
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 

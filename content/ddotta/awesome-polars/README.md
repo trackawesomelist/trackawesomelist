@@ -6,6 +6,16 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Mar 07, 2024](/content/2024/03/07/README.md)
+
+### Libraries/Packages/Scripts / Python
+
+*   [Polars for Identifiers and Standard Format Strings (⭐4)](https://github.com/abstractqqq/polars_istr) - Python package forProcessing IBAN, ISINs, URLs and other standard format data in Polars by [@abstractqqq](https://github.com/abstractqqq).
+
+### Resources / Blog posts
+
+*   [How moving from Pandas to Polars made me write better code without writing better code](https://dev.to/check/how-moving-from-pandas-to-polars-made-me-write-better-code-without-writing-better-code-52bl) - A post that describs the process of "Polarification" of code written with Pandas by [@duvenagep](https://github.com/duvenagep).
+
 ## [Mar 06, 2024](/content/2024/03/06/README.md)
 
 ### Resources / Blog posts

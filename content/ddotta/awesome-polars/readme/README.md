@@ -86,6 +86,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 *   [Narwhals (⭐10)](https://github.com/MarcoGorelli/narwhals) - Python files that provides an extremely lightweight compatibility layer between Polars, Pandas, cuDF, and Modin by [@MarcoGorelli](https://github.com/MarcoGorelli).
 *   [polars-upgrade (⭐29)](https://github.com/MarcoGorelli/polars-upgrade) - Python package that automatically upgrades your Polars code so it's compatible with future versions by [@MarcoGorelli](https://github.com/MarcoGorelli).
 *   [polars-fuzzy-match (⭐5)](https://github.com/bnm3k/polars-fuzzy-match) - Python package for fuzzy matching with Polars, i.e. matching text elements that are similar but not exactly identical by [@bnm3k](https://github.com/bnm3k).
+*   [Polars for Identifiers and Standard Format Strings (⭐4)](https://github.com/abstractqqq/polars_istr) - Python package forProcessing IBAN, ISINs, URLs and other standard format data in Polars by [@abstractqqq](https://github.com/abstractqqq).
 
 ### Rust
 
@@ -206,6 +207,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 *   [Data Statistics in Polars](https://python.plainenglish.io/data-statistics-in-polars-8268be9843c5) - A post that explains how to extract insightful information from your data in Polars by [Alexandre Petit](https://medium.com/@alexandthedataworld).
 *   [Groupby in Polars](https://python.plainenglish.io/groupby-in-polars-986ef08321ce) - A post that explains how to Learn how to do group data using Polars by [Alexandre Petit](https://medium.com/@alexandthedataworld).
 *   [DuckDB vs Polars - Thunderdome.](https://dataengineeringcentral.substack.com/p/duckdb-vs-polars-thunderdome) - A blog post that compares Polars and DuckDB with the use of 16 GB of data on a machine of only 4 GB by [@danielbeach](https://github.com/danielbeach).
+*   [How moving from Pandas to Polars made me write better code without writing better code](https://dev.to/check/how-moving-from-pandas-to-polars-made-me-write-better-code-without-writing-better-code-52bl) - A post that describs the process of "Polarification" of code written with Pandas by [@duvenagep](https://github.com/duvenagep).
 
 ### Talks and videos
 
