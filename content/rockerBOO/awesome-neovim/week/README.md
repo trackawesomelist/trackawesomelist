@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
+### (requires Neovim 0.5)
+
+*   [LukasPietzschmann/boo.nvim (⭐0)](https://github.com/LukasPietzschmann/boo.nvim) - Quickly pop-up some LSP-powered information of the thing your cursor is on.
+
 ### Golang / Diagnostics
 
 *   [yanskun/gotests.nvim (⭐11)](https://github.com/yanskun/gotests.nvim) - Make Go tests easy with [gotests (⭐4.8k)](https://github.com/cweill/gotests).
@@ -76,7 +80,7 @@ Collections of awesome neovim plugins.
 
 ### Note Taking / Diagnostics
 
-*   [2KAbhishek/tdo.nvim (⭐22)](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
+*   [2KAbhishek/tdo.nvim (⭐30)](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
 
 ### Terminal Integration / Diagnostics
 

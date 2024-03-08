@@ -166,6 +166,7 @@ Collections of awesome neovim plugins.
 *   [stevanmilic/nvim-lspimport (⭐37)](https://github.com/stevanmilic/nvim-lspimport) - Automatically resolves imports for undefined terms. Useful with `pyright` language server.
 *   [jmbuhr/otter.nvim (⭐293)](https://github.com/jmbuhr/otter.nvim) - Provides LSP features and a nvim-cmp completion source for languages embedded in other documents.
 *   [lopi-py/luau-lsp.nvim (⭐27)](https://github.com/lopi-py/luau-lsp.nvim) - A luau-lsp extension to improve your experience.
+*   [LukasPietzschmann/boo.nvim (⭐0)](https://github.com/LukasPietzschmann/boo.nvim) - Quickly pop-up some LSP-powered information of the thing your cursor is on.
 
 #### LSP Installer
 
@@ -680,7 +681,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [ada0l/obsidian/ (⭐31)](https://github.com/ada0l/obsidian) - Base Obsidian functionality.
 *   [gsuuon/note.nvim (⭐40)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
 *   [backdround/global-note.nvim (⭐67)](https://github.com/backdround/global-note.nvim) - One global note in a floating window.
-*   [2KAbhishek/tdo.nvim (⭐22)](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
+*   [2KAbhishek/tdo.nvim (⭐30)](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
 
 ## Utility
 

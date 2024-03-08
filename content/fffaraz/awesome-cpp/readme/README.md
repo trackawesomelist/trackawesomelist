@@ -1205,6 +1205,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [pprint (⭐906)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
 *   [pspsdk (⭐788)](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
 *   [QtVerbalExpressions (⭐60)](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. \[MIT]
+*   [RaipdFuzz (⭐195)](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. \[MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
 *   [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. \[GPL2/Proprietary]
 *   [scnlib (⭐895)](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. \[Apache-2.0] [website](https://v1.scnlib.dev/)
 *   [Scintilla](http://scintilla.org/) - A free source code editing component. \[MIT]
