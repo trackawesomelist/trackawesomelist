@@ -58,7 +58,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Importality (⭐243)](https://github.com/nklbdev/godot-4-importality) - raster graphics and animations importers: Aseprite, Krita, Pencil2D, Piskel, Pixelorama and others (Godot 4.x).
+*   [Importality (⭐250)](https://github.com/nklbdev/godot-4-importality) - raster graphics and animations importers: Aseprite, Krita, Pencil2D, Piskel, Pixelorama and others (Godot 4.x).
 
 ## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

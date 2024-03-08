@@ -50,11 +50,11 @@
 
 ### Productivity and Time
 
-*   [Errands (⭐181)](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Errands (⭐200)](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 
 ### Graphics
 
-*   [ASCII Draw (⭐100)](https://github.com/Nokse22/ascii-draw) - Draw graphs and more using only characters.
+*   [ASCII Draw (⭐105)](https://github.com/Nokse22/ascii-draw) - Draw graphs and more using only characters.
 
 ### Utilities
 
@@ -62,7 +62,7 @@
 
 ### Development and Design
 
-*   [Forge Sparks (⭐47)](https://github.com/rafaelmardojai/forge-sparks) - Git forge (GitHub, Gitea, Forgejo) desktop notification application. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Forge Sparks (⭐50)](https://github.com/rafaelmardojai/forge-sparks) - Git forge (GitHub, Gitea, Forgejo) desktop notification application. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems and context menus.
 
 ## [4. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
@@ -81,7 +81,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [luacheck (⭐311)](https://github.com/lunarmodules/luacheck) — A tool for linting and static analysis of Lua code.
+*   [luacheck (⭐316)](https://github.com/lunarmodules/luacheck) — A tool for linting and static analysis of Lua code.
 *   [fta](https://ftaproject.dev/) — Rust-based static analysis for TypeScript projects
 
 ## [7. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
@@ -242,16 +242,16 @@
 
 ### Tools / Agents
 
-*   [Elasticsearch Agent (⭐15)](https://github.com/onepointconsulting/elasticsearch-agent): ElasticSearch agent based on ElasticSearch, LangChain and GPT 4 ![GitHub Repo stars](https://img.shields.io/github/stars/onepointconsulting/elasticsearch-agent?style=social)
+*   [Elasticsearch Agent (⭐19)](https://github.com/onepointconsulting/elasticsearch-agent): ElasticSearch agent based on ElasticSearch, LangChain and GPT 4 ![GitHub Repo stars](https://img.shields.io/github/stars/onepointconsulting/elasticsearch-agent?style=social)
 
 ### Open Source Projects / Knowledge Management
 
-*   [Repochat (⭐185)](https://github.com/pnkvalavala/repochat): Chatbot assistant enabling GitHub repository interaction using LLMs with Retrieval Augmented Generation ![GitHub Repo stars](https://img.shields.io/github/stars/pnkvalavala/repochat?style=social)
-*   [SolidGPT (⭐1.8k)](https://github.com/AI-Citizen/SolidGPT): Chat everything with your code repository, ask repository level code questions, and discuss your requirements ![GitHub Repo stars](https://img.shields.io/github/stars/AI-Citizen/SolidGPT?style=social)
+*   [Repochat (⭐198)](https://github.com/pnkvalavala/repochat): Chatbot assistant enabling GitHub repository interaction using LLMs with Retrieval Augmented Generation ![GitHub Repo stars](https://img.shields.io/github/stars/pnkvalavala/repochat?style=social)
+*   [SolidGPT (⭐1.9k)](https://github.com/AI-Citizen/SolidGPT): Chat everything with your code repository, ask repository level code questions, and discuss your requirements ![GitHub Repo stars](https://img.shields.io/github/stars/AI-Citizen/SolidGPT?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [XAgent (⭐6.4k)](https://github.com/OpenBMB/XAgent): An Autonomous LLM Agent for Complex Task Solving ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social)
+*   [XAgent (⭐7.1k)](https://github.com/OpenBMB/XAgent): An Autonomous LLM Agent for Complex Task Solving ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social)
 
 ## [23. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
@@ -268,13 +268,13 @@
 
 Browser extension to add git graph to GitHub website.
 
-Installs: 421 | Stars: 2561 | Last update: 1 Jan 2024
+Installs: 431 | Stars: 2616 | Last update: 1 Jan 2024
 
 ## [25. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Other Development Tools / Wallets
 
-*   [use-wallet-js (⭐7)](https://github.com/TxnLab/use-wallet-js) - TypeScript library for integrating Algorand wallets into decentralized applications.
+*   [use-wallet-js (⭐10)](https://github.com/TxnLab/use-wallet-js) - TypeScript library for integrating Algorand wallets into decentralized applications.
 
 ## [26. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -326,23 +326,23 @@ Installs: 421 | Stars: 2561 | Last update: 1 Jan 2024
 
 ### (requires Neovim 0.5)
 
-*   [mrcjkb/rustaceanvim (⭐595)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
+*   [mrcjkb/rustaceanvim (⭐706)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
 
 ### Deployment / Diagnostics
 
-*   [coffebar/transfer.nvim (⭐36)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
+*   [coffebar/transfer.nvim (⭐40)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
 
 ### Motion / Diagnostics
 
-*   [smoka7/hop.nvim (⭐222)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
+*   [smoka7/hop.nvim (⭐241)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
 
 ### Indent / Diagnostics
 
-*   [VidocqH/auto-indent.nvim (⭐56)](https://github.com/VidocqH/auto-indent.nvim) - Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode.
+*   [VidocqH/auto-indent.nvim (⭐60)](https://github.com/VidocqH/auto-indent.nvim) - Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [mrcjkb/kickstart-nix.nvim (⭐56)](https://github.com/mrcjkb/kickstart-nix.nvim) - A simple [Nix flake](https://nixos.wiki/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations.
+*   [mrcjkb/kickstart-nix.nvim (⭐66)](https://github.com/mrcjkb/kickstart-nix.nvim) - A simple [Nix flake](https://nixos.wiki/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations.
 
 ## [32. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
@@ -782,7 +782,7 @@ Installs: 421 | Stars: 2561 | Last update: 1 Jan 2024
 
 ### Software / Software Development - Low Code
 
-*   [Dashpress (⭐590)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
+*   [Dashpress (⭐663)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -826,12 +826,12 @@ Installs: 421 | Stars: 2561 | Last update: 1 Jan 2024
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [colorize-functions (⭐2)](https://github.com/Freed-Wu/zsh-colorize-functions) - Colorizes functions for ZSH.
-*   [help (⭐3)](https://github.com/Freed-Wu/zsh-help) - Colorizes the output of commands run with `--help`.
+*   [help (⭐2)](https://github.com/Freed-Wu/zsh-help) - Colorizes the output of commands run with `--help`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [backbone (⭐2)](https://github.com/lmllrjr/backbone-zsh-prompt) - A bare minimum single file prompt, fast as a roadrunner MEEP! MEEP. Includes `git` status and current directory decorations.
-*   [ultima (⭐65)](https://github.com/egorlem/ultima.zsh-theme) - Minimalist, includes `git` status and current directory decorators.
+*   [ultima (⭐69)](https://github.com/egorlem/ultima.zsh-theme) - Minimalist, includes `git` status and current directory decorators.
 
 ---
 

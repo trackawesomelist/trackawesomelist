@@ -78,13 +78,13 @@
 
 Lists repositories that are similar to the one being viewed
 
-Installs: 37 | Stars: 45 | Last update: 10 Aug 2022
+Installs: 38 | Stars: 45 | Last update: 10 Aug 2022
 
 ## [9. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### IDEs / Visual Studio
 
-*   [Algorand Visual Studio Extension (⭐18)](https://github.com/FrankSzendzielarz/AlgorandVisualStudio) - Visual Studio extensions for C# TEAL compilation and Algorand Smart Contract development.
+*   [Algorand Visual Studio Extension (⭐19)](https://github.com/FrankSzendzielarz/AlgorandVisualStudio) - Visual Studio extensions for C# TEAL compilation and Algorand Smart Contract development.
 
 ---
 

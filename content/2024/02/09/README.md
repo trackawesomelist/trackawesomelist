@@ -50,10 +50,10 @@
 
 ### Third-Party Packages / Internationalisation (i18n)
 
-*   [django-localflavor (⭐787)](https://github.com/django/django-localflavor) - A collection of functionality that is useful for particular countries or cultures. Previously a part of the Django core.
+*   [django-localflavor (⭐793)](https://github.com/django/django-localflavor) - A collection of functionality that is useful for particular countries or cultures. Previously a part of the Django core.
 *   [django-modeltrans (⭐48)](https://github.com/zostera/django-modeltrans) - Translate Django model fields in a JSONField.
 *   [django-modeltranslations (⭐1.3k)](https://github.com/deschler/django-modeltranslation) -  Translates Django models using a registration approach.
-*   [django-rosetta (⭐983)](https://github.com/mbi/django-rosetta) - Rosetta provides a UI to read and write your project's gettext catalogs within the Django Admin.
+*   [django-rosetta (⭐989)](https://github.com/mbi/django-rosetta) - Rosetta provides a UI to read and write your project's gettext catalogs within the Django Admin.
 
 ## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Base Tools / Other
 
-*   [SparkView (⭐5)](https://github.com/beyondssl/sparkview-container) - Access VMs, desktops, servers or applications anytime and from anywhere, without complex and costly client roll-outs or user management.
+*   [SparkView (⭐6)](https://github.com/beyondssl/sparkview-container) - Access VMs, desktops, servers or applications anytime and from anywhere, without complex and costly client roll-outs or user management.
 
 ---
 

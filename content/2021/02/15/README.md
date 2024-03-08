@@ -38,7 +38,7 @@
 
 ### Demos / Godot 3.2+
 
-*   [Godot experiments (⭐544)](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
+*   [Godot experiments (⭐560)](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

@@ -228,7 +228,7 @@
 
 ### Rust / Git
 
-*   [proteus (⭐415)](https://github.com/wireapp/proteus) - Axolotl protocol implementation, without header keys, in Rust.
+*   [proteus (⭐417)](https://github.com/wireapp/proteus) - Axolotl protocol implementation, without header keys, in Rust.
 
 ## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 

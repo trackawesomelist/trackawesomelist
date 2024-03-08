@@ -52,11 +52,11 @@
 
 ### Software / Password Managers
 
-*   [Passky](https://passky.org) - Simple, modern and open source password manager with website, browser extension, android and desktop application. ([Demo](https://vault.passky.org), [Source Code (⭐145)](https://github.com/Rabbit-Company/Passky-Server)) `GPL-3.0` `PHP`
+*   [Passky](https://passky.org) - Simple, modern and open source password manager with website, browser extension, android and desktop application. ([Demo](https://vault.passky.org), [Source Code (⭐148)](https://github.com/Rabbit-Company/Passky-Server)) `GPL-3.0` `PHP`
 
 ### Software / Photo and Video Galleries
 
-*   [Damselfly](https://damselfly.info) - Fast server-based photo management system for large collections of images. Includes face detection, face & object recognition, powerful search, and EXIF Keyword tagging. Runs on Linux, MacOS and Windows. ([Source Code (⭐1.2k)](https://github.com/webreaper/damselfly)) `GPL-3.0` `Docker/C#/.NET`
+*   [Damselfly](https://damselfly.info) - Fast server-based photo management system for large collections of images. Includes face detection, face & object recognition, powerful search, and EXIF Keyword tagging. Runs on Linux, MacOS and Windows. ([Source Code (⭐1.3k)](https://github.com/webreaper/damselfly)) `GPL-3.0` `Docker/C#/.NET`
 
 ## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -74,13 +74,13 @@
 
 ### Programming Languages / Scala
 
-*   [sbt-derivation (⭐53)](https://github.com/zaninime/sbt-derivation) - mkDerivation for sbt, similar to buildGoModule.
+*   [sbt-derivation (⭐54)](https://github.com/zaninime/sbt-derivation) - mkDerivation for sbt, similar to buildGoModule.
 
 ## [10. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Logging
 
-*   [DRF-API-Logger (⭐283)](https://github.com/vishalanandl177/DRF-API-Logger) - An API Logger for your Django Rest Framework project.
+*   [DRF-API-Logger (⭐284)](https://github.com/vishalanandl177/DRF-API-Logger) - An API Logger for your Django Rest Framework project.
 
 ## [11. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -701,7 +701,7 @@
 
 ### Generic ZSH
 
-*   [ZSH Unplugged (⭐286)](https://github.com/mattmc3/zsh_unplugged) - Good resource if you want to eliminate using a framework but still easily use plugins.
+*   [ZSH Unplugged (⭐290)](https://github.com/mattmc3/zsh_unplugged) - Good resource if you want to eliminate using a framework but still easily use plugins.
 
 ## [19. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 

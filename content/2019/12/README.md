@@ -557,7 +557,7 @@
 
 ### Integrations
 
-*   [remount (⭐673)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
+*   [remount (⭐675)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 
 ## [25. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 

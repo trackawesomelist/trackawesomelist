@@ -11,7 +11,7 @@
 ### Developer Tools
 
 *   **Code coverage**:
-    *   [Bisect\_ppx (⭐295)](https://github.com/aantron/bisect_ppx)
+    *   [Bisect\_ppx (⭐296)](https://github.com/aantron/bisect_ppx)
 
 ## [2. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 

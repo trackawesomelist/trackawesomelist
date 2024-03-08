@@ -849,13 +849,13 @@
 
 ### Large Source Code Examples
 
-*   [Dark (⭐1.5k)](https://github.com/darklang/dark) - a combined language, editor, and infrastructure to make it easy to build backends
+*   [Dark (⭐1.6k)](https://github.com/darklang/dark) - a combined language, editor, and infrastructure to make it easy to build backends
 *   [Oni2 (⭐7.7k)](https://github.com/onivim/oni2) - Native, lightweight modal code editor.
 
 ### Project Starter Templates
 
-*   [spin (⭐295)](https://github.com/tmattio/spin) - Reason and Ocaml project generator
-*   [modern-ocaml (⭐66)](https://github.com/Khady/modern-ocaml) - Template for an ocaml project with modern tooling
+*   [spin (⭐296)](https://github.com/tmattio/spin) - Reason and Ocaml project generator
+*   [modern-ocaml (⭐67)](https://github.com/Khady/modern-ocaml) - Template for an ocaml project with modern tooling
 
 ## [17. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 

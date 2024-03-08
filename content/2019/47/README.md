@@ -75,6 +75,10 @@
 
 ## [11. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
+### Libraries / Chrome Extensions
+
+*   :octocat: [prelude.ts (⭐375)](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators.
+
 ### Typescript Project Starters
 
 *   :octocat: [Next-Postgres-With-Typescript (⭐19)](https://github.com/brandontle/next-postgres-with-typescript) - Forum-like fullstack web app boilerplate with Next.js 7.0.2 + Sequelize 4/Postgres + Typescript + Redux + Passport Local Auth + Emotion
@@ -89,7 +93,7 @@
 
 ### Badges / Chrome Extensions
 
-*   [TypeScript Badges (⭐44)](https://github.com/ellerbrock/typescript-badges/)
+*   [TypeScript Badges (⭐45)](https://github.com/ellerbrock/typescript-badges/)
     [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/awesome/typescript125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/code/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/love/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/)
 
 ## [12. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
@@ -547,14 +551,6 @@
 
 ## [44. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
-### Libraries / Data Structures
-
-*   [prelude.ts (⭐375)](https://github.com/emmanueltouzery/prelude.ts) - Immutable persistent collections, functional constructs such as Option and Either, and combinators. Implemented in Typescript but supports javascript too.  +CT, +TS.
-*   [Immer (⭐27k)](https://github.com/mweststrate/immer) – Immer is a tiny package for immutable state based on copy-on-write mechanism. +TS.
-*   [DerivableJS (⭐514)](https://github.com/ds300/derivablejs) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related. +TS.
-*   [collectable (⭐269)](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications. +TS.
-*   [TSTL (⭐573)](https://github.com/samchon/tstl) - C++ STL (Standard Template Library) is implemented in TypeScript. STL Containers, iterators, algorithms and functors, that following functional programming rule, are provided. +TS.
-
 ### Libraries
 
 *   [Ramda (⭐23k)](https://github.com/ramda/ramda) – A practical functional library for JavaScript that is designed specifically for a functional programming style. A style that makes it easy to create functional pipelines and never mutates user data. +TS.
@@ -574,6 +570,13 @@
 *   [Ferrum (⭐507)](https://github.com/adobe/ferrum) – Iterator library with support for objects as iterables, lazy evaulation and`pipe()`; implements Traits (from Rust)/Type Classes (from Haskell) in JS. -TS.
 *   [iter-tools (⭐162)](https://github.com/iter-tools/iter-tools) - a rich toolset for working with iterables, both sync and async. +TS.
 *   [remeda](https://remedajs.com/) A function library roughly subsetting Ramda, but written in Typescript and thus more type-friendly. +TS.
+
+### Libraries / Data Structures
+
+*   [Immer (⭐27k)](https://github.com/mweststrate/immer) – Immer is a tiny package for immutable state based on copy-on-write mechanism. +TS.
+*   [DerivableJS (⭐514)](https://github.com/ds300/derivablejs) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related. +TS.
+*   [collectable (⭐269)](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications. +TS.
+*   [TSTL (⭐573)](https://github.com/samchon/tstl) - C++ STL (Standard Template Library) is implemented in TypeScript. STL Containers, iterators, algorithms and functors, that following functional programming rule, are provided. +TS.
 
 ### Libraries / Algebraic Data Types
 

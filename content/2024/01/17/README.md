@@ -67,7 +67,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [HoNamDuong/hybrid.nvim (⭐45)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
+*   [HoNamDuong/hybrid.nvim (⭐48)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
 
 ## [10. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zeza (⭐1)](https://github.com/duggum/zeza) - Manages and customizes [eza (⭐5.5k)](https://github.com/eza-community/eza), the very colorful `ls` replacement.
+*   [zeza (⭐1)](https://github.com/duggum/zeza) - Manages and customizes [eza (⭐6k)](https://github.com/eza-community/eza), the very colorful `ls` replacement.
 
 ## [17. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 

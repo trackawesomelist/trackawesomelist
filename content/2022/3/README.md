@@ -41,7 +41,7 @@
 
 ### Software / Groupware
 
-*   [Group Office](https://www.group-office.com) - Group-Office is an enterprise CRM and groupware tool. Share projects, calendars, files and e-mail online with co-workers and clients. ([Source Code (⭐162)](https://github.com/Intermesh/groupoffice/)) `AGPL-3.0` `PHP`
+*   [Group Office](https://www.group-office.com) - Group-Office is an enterprise CRM and groupware tool. Share projects, calendars, files and e-mail online with co-workers and clients. ([Source Code (⭐161)](https://github.com/Intermesh/groupoffice/)) `AGPL-3.0` `PHP`
 
 ## [4. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -260,8 +260,8 @@
 
 ### OCaml / Git
 
-*   [Digestif (⭐81)](https://github.com/mirage/digestif) - is a toolbox that implements various cryptographic primitives in C and OCaml.
-*   [ocaml-tls (⭐282)](https://github.com/mirleft/ocaml-tls) - TLS in pure OCaml.
+*   [Digestif (⭐84)](https://github.com/mirage/digestif) - is a toolbox that implements various cryptographic primitives in C and OCaml.
+*   [ocaml-tls (⭐285)](https://github.com/mirleft/ocaml-tls) - TLS in pure OCaml.
 
 ## [23. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -739,16 +739,16 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Mofiqul/dracula.nvim (⭐504)](https://github.com/Mofiqul/dracula.nvim) - Dracula colorscheme for neovim written in Lua.
+*   [Mofiqul/dracula.nvim (⭐512)](https://github.com/Mofiqul/dracula.nvim) - Dracula colorscheme for neovim written in Lua.
 
 ### Motion / Diagnostics
 
-*   [rlane/pounce.nvim (⭐318)](https://github.com/rlane/pounce.nvim) - An EasyMotion-like plugin for quick cursor movement using fuzzy search.
+*   [rlane/pounce.nvim (⭐317)](https://github.com/rlane/pounce.nvim) - An EasyMotion-like plugin for quick cursor movement using fuzzy search.
 
 ### Competitive Programming / Diagnostics
 
-*   [p00f/cphelper.nvim (⭐115)](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming written in Lua.
-*   [xeluxee/competitest.nvim (⭐306)](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
+*   [p00f/cphelper.nvim (⭐117)](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming written in Lua.
+*   [xeluxee/competitest.nvim (⭐315)](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
 
 ## [41. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -776,7 +776,7 @@
 
 ### Algorand Request for Comments / Wallets
 
-*   [ARC3 (⭐120)](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - Official Algorand Standard Asset Parameters Conventions for Fungible and Non-Fungible Tokens.
+*   [ARC3 (⭐121)](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - Official Algorand Standard Asset Parameters Conventions for Fungible and Non-Fungible Tokens.
 *   [ARC69 (⭐36)](https://github.com/algokittens/arc69) - Unofficial Algorand Standart Asset Parameters Convention popular in Algorand NFT community, inspired by [Open Sea's metadata standards](https://docs.opensea.io/docs/metadata-standards) and [EIP-1155 (⭐12k)](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema), created by [@algokittens](https://twitter.com/AlgoKittens).
 
 ## [45. Public Apis](/content/public-apis/public-apis/week/README.md)
@@ -1161,7 +1161,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot Radial Menu (⭐213)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
+*   [Godot Radial Menu (⭐216)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
 
 ## [67. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
@@ -1176,7 +1176,7 @@
 
 ### Communications / IR
 
-*   [pico-ir (⭐10)](https://github.com/bartoszadamczyk/pico-ir) - IR library for Raspberry Pi Pico.
+*   [pico-ir (⭐11)](https://github.com/bartoszadamczyk/pico-ir) - IR library for Raspberry Pi Pico.
 
 ### Frameworks / SRAM
 

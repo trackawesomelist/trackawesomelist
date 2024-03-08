@@ -48,7 +48,7 @@
 
 ### Android / Libraries
 
-*   [Blueprint (⭐90)](https://github.com/popovanton0/Blueprint) - 📐 A library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
+*   [Blueprint (⭐92)](https://github.com/popovanton0/Blueprint) - 📐 A library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -72,8 +72,8 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Rivet (⭐2k)](https://github.com/Ironclad/rivet): An IDE for creating complex AI agents and prompt chaining, and embedding it in your application. ![GitHub Repo stars](https://img.shields.io/github/stars/Ironclad/rivet?style=social)
-*   [RestGPT (⭐1.1k)](https://github.com/Yifan-Song793/RestGPT): An LLM-based autonomous agent controlling real-world applications via RESTful APIs ![GitHub Repo stars](https://img.shields.io/github/stars/Yifan-Song793/RestGPT?style=social)
+*   [Rivet (⭐2.2k)](https://github.com/Ironclad/rivet): An IDE for creating complex AI agents and prompt chaining, and embedding it in your application. ![GitHub Repo stars](https://img.shields.io/github/stars/Ironclad/rivet?style=social)
+*   [RestGPT (⭐1.2k)](https://github.com/Yifan-Song793/RestGPT): An LLM-based autonomous agent controlling real-world applications via RESTful APIs ![GitHub Repo stars](https://img.shields.io/github/stars/Yifan-Song793/RestGPT?style=social)
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ribru17/bamboo.nvim (⭐199)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
+*   [ribru17/bamboo.nvim (⭐202)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
 
 ## [14. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

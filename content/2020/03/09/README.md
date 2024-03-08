@@ -22,7 +22,7 @@
 
 ### Other / Godot version unknown
 
-*   [godot-gdscript-toolkit (⭐714)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
+*   [godot-gdscript-toolkit (⭐738)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
 
 ## [4. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 

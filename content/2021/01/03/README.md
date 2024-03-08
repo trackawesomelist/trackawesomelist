@@ -22,7 +22,7 @@
 
 ### Auditing / Logging
 
-*   🍰 [AuditStash plugin (⭐74)](https://github.com/lorenzo/audit-stash) - Flexible and rock solid audit log tracking.
+*   🍰 [AuditStash plugin (⭐75)](https://github.com/lorenzo/audit-stash) - Flexible and rock solid audit log tracking.
 
 ### Debugging
 

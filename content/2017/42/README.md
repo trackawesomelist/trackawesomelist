@@ -631,7 +631,7 @@
 *   :octocat: [ionic (⭐50k)](https://github.com/ionic-team/ionic) - An open-source mobile app development framework build in TypeScript
 *   :octocat: [Stencil (⭐12k)](https://github.com/ionic-team/stencil) - a tool for building modern Web Components
 *   :octocat: [redux-zero (⭐2k)](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux
-*   :octocat: [wretch (⭐4.3k)](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
+*   :octocat: [wretch (⭐4.4k)](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
 
 ## [45. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 

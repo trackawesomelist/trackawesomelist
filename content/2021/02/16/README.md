@@ -10,7 +10,7 @@
 
 ### Types / Playground
 
-*   [typetype (⭐371)](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
+*   [typetype (⭐406)](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
 
 ## [2. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

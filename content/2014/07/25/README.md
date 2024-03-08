@@ -63,7 +63,7 @@
 
 ### Application Libraries
 
-*   [Batteries Included (⭐505)](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
+*   [Batteries Included (⭐509)](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
 
 ### Developer Tools
 

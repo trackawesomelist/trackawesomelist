@@ -204,7 +204,7 @@
 
 ### Backports and improvements
 
-*   [typed-ast (⭐224)](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments.
+*   [typed-ast (⭐226)](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments.
 *   [typing-extensions (⭐1.5k)](https://github.com/python/typing/tree/master/typing_extensions) - Backported and experimental type hints.
 
 ## [22. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
@@ -528,7 +528,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [OnTrack (⭐768)](https://github.com/inoda/ontrack) - A simple app to track spend and set goals. `MIT` `Ruby/Nodejs`
+*   [OnTrack (⭐767)](https://github.com/inoda/ontrack) - A simple app to track spend and set goals. `MIT` `Ruby/Nodejs`
 
 ## [45. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

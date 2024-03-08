@@ -66,7 +66,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [sleek (⭐80)](https://github.com/nrempel/sleek) — Sleek is a CLI tool for formatting SQL.  It helps you maintain a consistent style across your SQL code, enhancing readability and productivity. The heavy lifting is done by the sqlformat crate.
+*   [sleek (⭐83)](https://github.com/nrempel/sleek) — Sleek is a CLI tool for formatting SQL.  It helps you maintain a consistent style across your SQL code, enhancing readability and productivity. The heavy lifting is done by the sqlformat crate.
 
 ## [10. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Installation Media / Discovery
 
-*   [nix-installer (⭐1.3k)](https://github.com/DeterminateSystems/nix-installer) - Opinonated alternative to the official Nix install scripts.
+*   [nix-installer (⭐1.4k)](https://github.com/DeterminateSystems/nix-installer) - Opinonated alternative to the official Nix install scripts.
 
 ## [18. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -158,7 +158,7 @@
 
 ### Applications / Payments
 
-*   [hyperswitch (⭐9.2k)](https://github.com/juspay/hyperswitch) — An open source payments orchestrator that lets you connect with multiple payment processors and route payment traffic effortlessly, all with a single API integration ![GitHub last commit](https://img.shields.io/github/last-commit/juspay/hyperswitch?style=flat-square)
+*   [hyperswitch (⭐9.3k)](https://github.com/juspay/hyperswitch) — An open source payments orchestrator that lets you connect with multiple payment processors and route payment traffic effortlessly, all with a single API integration ![GitHub last commit](https://img.shields.io/github/last-commit/juspay/hyperswitch?style=flat-square)
 
 ### Development tools / FFI
 
@@ -175,7 +175,7 @@
 ### Libraries/Frameworks / Misc
 
 *   [lpicanco/krate](https://lpicanco.github.io/krate) - Krate is a rate limiter library designed specifically for Kotlin applications. In memory, Redis and Caffeine support.
-*   [kryptokrona/kryptokrona-kotlin-sdk (⭐47)](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
+*   [kryptokrona/kryptokrona-kotlin-sdk (⭐48)](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 
 ## [24. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
@@ -213,7 +213,7 @@
 
 ### Marks / Diagnostics
 
-*   [tomasky/bookmarks.nvim (⭐96)](https://github.com/tomasky/bookmarks.nvim) - Bookmarks with global file storage, written in Lua.
+*   [tomasky/bookmarks.nvim (⭐101)](https://github.com/tomasky/bookmarks.nvim) - Bookmarks with global file storage, written in Lua.
 
 ### Utility / Diagnostics
 
@@ -221,11 +221,11 @@
 
 ### Terminal Integration / Diagnostics
 
-*   [chomosuke/term-edit.nvim (⭐168)](https://github.com/chomosuke/term-edit.nvim) - Allowing you to edit your command in the terminal just like any other buffer.
+*   [chomosuke/term-edit.nvim (⭐169)](https://github.com/chomosuke/term-edit.nvim) - Allowing you to edit your command in the terminal just like any other buffer.
 
 ### Git / Diagnostics
 
-*   [aaronhallaert/advanced-git-search.nvim (⭐243)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit content, message and author with Telescope.
+*   [aaronhallaert/advanced-git-search.nvim (⭐249)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit content, message and author with Telescope.
 
 ### Editing Support / Diagnostics
 
@@ -274,10 +274,6 @@
 
 *   [subtopia-js (⭐8)](https://github.com/subtopia-algo/subtopia-js) - Subtopia JavaScript SDK providing convenient interfaces to interact with Subtopia platform.
 
-### Other Development Tools / Smart Contracts
-
-*   [ceal](https://github.com/dragmz/ceal) - A C-like language for Algorand smart contracts by @dragmz.
-
 ### Subscription Management / Wallets
 
 *   [Subtopia](https://subtopia.io/) - Decentralized subscription management platform for dApp creators and platform on Algorand. Manage and own your subscription infrastructure, setup flexible plans, discounts and get paid in Algo or any ASA token. Created by @aorumbayev.
@@ -324,15 +320,15 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Shifter (⭐13)](https://github.com/TobySuch/Shifter) - A simple, self-hosted file-sharing web app, powered by Django. `MIT` `Docker`
+*   [Shifter (⭐14)](https://github.com/TobySuch/Shifter) - A simple, self-hosted file-sharing web app, powered by Django. `MIT` `Docker`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [EasyWI](https://easy-wi.com) - Easy-Wi is a Web-interface that allows you to manage server daemons like gameservers. In addition it provides you with a CMS which includes a fully automated game- and voiceserver lending service. ([Source Code (⭐211)](https://github.com/easy-wi/developer/)) `GPL-3.0` `PHP/Shell`
+*   [EasyWI](https://easy-wi.com) - Easy-Wi is a Web-interface that allows you to manage server daemons like gameservers. In addition it provides you with a CMS which includes a fully automated game- and voiceserver lending service. ([Source Code (⭐213)](https://github.com/easy-wi/developer/)) `GPL-3.0` `PHP/Shell`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [SwingMusic](https://swingmusic.vercel.app/) - Swing Music is a beautiful, self-hosted music player and streaming server for your local audio files. Like a cooler Spotify ... but bring your own music. ([Source Code (⭐529)](https://github.com/swing-opensource/swingmusic)) `MIT` `Python/Docker`
+*   [SwingMusic](https://swingmusic.vercel.app/) - Swing Music is a beautiful, self-hosted music player and streaming server for your local audio files. Like a cooler Spotify ... but bring your own music. ([Source Code (⭐551)](https://github.com/swing-opensource/swingmusic)) `MIT` `Python/Docker`
 
 ### Software / Self-hosting Solutions
 
@@ -340,7 +336,7 @@
 
 ### Software / URL Shorteners
 
-*   [Easyshortener (⭐76)](https://github.com/easypanel-community/easyshortener) - A simple URL shortener. `MIT` `PHP/Nodejs/Docker`
+*   [Easyshortener (⭐78)](https://github.com/easypanel-community/easyshortener) - A simple URL shortener. `MIT` `PHP/Nodejs/Docker`
 
 ## [35. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -603,7 +599,7 @@
 
 ### Developer Tools / Databases
 
-*   [SurrealDB (⭐24k)](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/surrealdb/surrealdb)
+*   [SurrealDB (⭐25k)](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/surrealdb/surrealdb)
 
 ### Design and Product / Design Tools
 

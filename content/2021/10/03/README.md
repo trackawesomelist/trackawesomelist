@@ -22,7 +22,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [FAE (⭐836)](https://github.com/wearefine/fae/) - A modern CMS developed by FINE (using Rails 5.2)
+*   [FAE (⭐837)](https://github.com/wearefine/fae/) - A modern CMS developed by FINE (using Rails 5.2)
 
 ## [4. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Snippet / Diagnostics
 
-*   [dcampos/nvim-snippy (⭐279)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.7k)](https://github.com/honza/vim-snippets).
+*   [dcampos/nvim-snippy (⭐281)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.7k)](https://github.com/honza/vim-snippets).
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

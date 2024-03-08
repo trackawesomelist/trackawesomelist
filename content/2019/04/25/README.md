@@ -84,9 +84,9 @@
     *   [OPAM](http://opam.ocamlpro.com/) – A flexible Git-friendly package manager with multiple compiler support.
     *   [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
     *   [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows (deprecated since 2021).
-    *   [Diskuv OCaml (⭐59)](https://github.com/diskuv/dkml-installer-ocaml#readme) - Diskuv OCaml distribution for Windows.
+    *   [Diskuv OCaml (⭐60)](https://github.com/diskuv/dkml-installer-ocaml#readme) - Diskuv OCaml distribution for Windows.
     *   [makorel (⭐8)](https://github.com/sagotch/makorel) – Release OPAM packages easily.
-    *   [esy (⭐835)](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
+    *   [esy (⭐837)](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
 
 ## [8. Bots](/content/hackerkid/bots/README.md)
 

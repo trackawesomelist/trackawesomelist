@@ -59,7 +59,7 @@
 
 ### Syntax / Diagnostics
 
-*   [nvim-treesitter/nvim-treesitter-textobjects (⭐1.7k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - Create your own textobjects using tree-sitter queries.
+*   [nvim-treesitter/nvim-treesitter-textobjects (⭐1.8k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - Create your own textobjects using tree-sitter queries.
 
 ## [8. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [RetroShare](https://retroshare.cc) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source Code (⭐1.6k)](https://github.com/RetroShare/RetroShare)) `GPL-2.0` `C++`
+*   [RetroShare](https://retroshare.cc) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source Code (⭐1.7k)](https://github.com/RetroShare/RetroShare)) `GPL-2.0` `C++`
 
 ## [10. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Animations / Checkbox
 
-*   [svelte-typewriter (⭐212)](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
+*   [svelte-typewriter](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
 
 ## [14. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 

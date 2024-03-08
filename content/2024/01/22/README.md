@@ -64,11 +64,11 @@
 
 ### IDE integrations
 
-*   [denops-docker.vim (⭐77)](https://github.com/skanehira/denops-docker.vim) - Manage docker containers and images in Vim. By [@skanehira](https://github.com/skanehira)
+*   [denops-docker.vim (⭐78)](https://github.com/skanehira/denops-docker.vim) - Manage docker containers and images in Vim. By [@skanehira](https://github.com/skanehira)
 
 ### Web / Other
 
-*   [Mafl (⭐68)](https://github.com/hywax/mafl) - Minimalistic flexible homepage by [@hywax](https://github.com/hywax/)
+*   [Mafl (⭐96)](https://github.com/hywax/mafl) - Minimalistic flexible homepage by [@hywax](https://github.com/hywax/)
 
 ---
 

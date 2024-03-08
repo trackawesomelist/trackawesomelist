@@ -55,8 +55,8 @@
     *   [dispatch (⭐47)](https://github.com/inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
     *   [Lambda Soup (⭐371)](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
     *   [Markup.ml (⭐146)](https://github.com/aantron/markup.ml) - Error-recovering streaming HTML5 and XML parsers, serializers.
-    *   [gen\_js\_api (⭐176)](https://github.com/LexiFi/gen_js_api) - gen\_js\_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
-    *   [routes (⭐134)](https://github.com/anuragsoni/routes) - Typed routes for OCaml/ReasonML web applications.
+    *   [gen\_js\_api (⭐177)](https://github.com/LexiFi/gen_js_api) - gen\_js\_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
+    *   [routes (⭐136)](https://github.com/anuragsoni/routes) - Typed routes for OCaml/ReasonML web applications.
 
 ## [3. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 

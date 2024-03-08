@@ -53,7 +53,7 @@
 
 ### Resources in Other Languages / Kurdish (Central)
 
-*   [A short introduction to Deno](https://devs.krd/about-deno).
+*   [A short introduction to Deno](https://devs.krd/about-deno)
 
 ## [7. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

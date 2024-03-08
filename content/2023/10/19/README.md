@@ -43,7 +43,7 @@
 
 ### Code Runner / Diagnostics
 
-*   [dasupradyumna/launch.nvim (⭐36)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
+*   [dasupradyumna/launch.nvim (⭐42)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
 
 ## [6. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
 

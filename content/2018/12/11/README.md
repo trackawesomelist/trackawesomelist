@@ -41,7 +41,7 @@
 
 ### Games / Apache License
 
-*   [co-terminal-apps (⭐26)](https://github.com/fastrgv/CoTerminalApps) - Retro Games that run in a terminal on any platform.
+*   [co-terminal-apps (⭐27)](https://github.com/fastrgv/CoTerminalApps) - Retro Games that run in a terminal on any platform.
 
 ## [3. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
 

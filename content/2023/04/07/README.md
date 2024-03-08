@@ -53,7 +53,7 @@
 
 ### Statusline / Diagnostics
 
-*   [freddiehaddad/feline.nvim (⭐221)](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
+*   [freddiehaddad/feline.nvim (⭐226)](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
 
 ## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

@@ -241,8 +241,8 @@ Webpage: <http://tartine.pt/>
 
 ### Icons / Homogeneous Icons
 
-*   [Numix Circle (⭐848)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
-*   [Numix Square (⭐156)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
+*   [Numix Circle (⭐856)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
+*   [Numix Square (⭐158)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
 
 ## [28. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 

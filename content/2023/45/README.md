@@ -35,9 +35,9 @@
 ### Third-Party Packages / Templates
 
 *   [curlylint](https://www.curlylint.org/) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid.
-*   [django-components (⭐845)](https://github.com/EmilStenstrom/django-components/) - A way to create simple reusable template components in Django.
-*   [django-template-partials (⭐287)](https://github.com/carltongibson/django-template-partials/) - Reusable named inline partials for the Django Template Language.
-*   [djhtml (⭐510)](https://github.com/rtts/djhtml) - Django/Jinja template indenter.
+*   [django-components (⭐871)](https://github.com/EmilStenstrom/django-components/) - A way to create simple reusable template components in Django.
+*   [django-template-partials (⭐299)](https://github.com/carltongibson/django-template-partials/) - Reusable named inline partials for the Django Template Language.
+*   [djhtml (⭐521)](https://github.com/rtts/djhtml) - Django/Jinja template indenter.
 *   [djlint](https://www.djlint.com/) - Lint & Format HTML Templates.
 *   [slippers](https://mitchel.me/slippers/) - Build reusable components in Django without writing a single line of Python.
 *   [JinjaX](https://jinjax.scaletti.dev/) - Super components powers for your Jinja templates.
@@ -184,12 +184,12 @@
 
 ### Projects / User Interfaces
 
-*   [VsCoq (⭐294)](https://github.com/coq-community/vscoq) - Language server and extension for the Visual Studio Code and VSCodium editors.
-*   [VsCoq Legacy (⭐294)](https://github.com/coq-community/vscoq/tree/vscoq1) - Backwards-compatible extension for the Visual Studio Code and VSCodium editors using Coq's legacy XML protocol.
+*   [VsCoq (⭐303)](https://github.com/coq-community/vscoq) - Language server and extension for the Visual Studio Code and VSCodium editors.
+*   [VsCoq Legacy (⭐303)](https://github.com/coq-community/vscoq/tree/vscoq1) - Backwards-compatible extension for the Visual Studio Code and VSCodium editors using Coq's legacy XML protocol.
 
 ### Projects / Verified Software
 
-*   [WasmCert-Coq (⭐86)](https://github.com/WasmCert/WasmCert-Coq/) - Formalization in Coq of the WebAssembly (aka Wasm) 1.0 specification.
+*   [WasmCert-Coq (⭐87)](https://github.com/WasmCert/WasmCert-Coq/) - Formalization in Coq of the WebAssembly (aka Wasm) 1.0 specification.
 
 ### Resources / Blogs
 
@@ -265,7 +265,7 @@
 
 ### Development / Discovery
 
-*   [Snowfall Lib (⭐212)](https://github.com/snowfallorg/lib) - A library that makes it easy to manage your Nix flake by imposing an opinionated file structure.
+*   [Snowfall Lib (⭐235)](https://github.com/snowfallorg/lib) - A library that makes it easy to manage your Nix flake by imposing an opinionated file structure.
 
 ## [24. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
@@ -338,7 +338,7 @@
 
 ### Software / Document Management
 
-*   [DocKing](https://docking.shipsaas.tech) - Document management service/microservice that handles templates and renders them in PDF format, all in one place. ([Demo](https://docking-demo.shipsaas.tech/console), [Source Code (⭐123)](https://github.com/shipsaas/docking)) `MIT` `PHP/Nodejs/Docker`
+*   [DocKing](https://docking.shipsaas.tech) - Document management service/microservice that handles templates and renders them in PDF format, all in one place. ([Demo](https://docking-demo.shipsaas.tech/console), [Source Code (⭐145)](https://github.com/shipsaas/docking)) `MIT` `PHP/Nodejs/Docker`
 
 ### Software / Groupware
 
@@ -350,11 +350,11 @@
 
 ### Software / Miscellaneous
 
-*   [Flyimg](https://flyimg.io) - Resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system. ([Demo](https://demo.flyimg.io), [Source Code (⭐877)](https://github.com/flyimg/flyimg)) `MIT` `Docker`
+*   [Flyimg](https://flyimg.io) - Resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system. ([Demo](https://demo.flyimg.io), [Source Code (⭐891)](https://github.com/flyimg/flyimg)) `MIT` `Docker`
 
 ### Software / Self-hosting Solutions
 
-*   [StartOS](https://start9.com) - Browser-based, graphical Operating System (OS) that makes running a personal server as easy as running a personal computer. ([Source Code (⭐669)](https://github.com/Start9Labs/start-os)) `MIT` `Rust`
+*   [StartOS](https://start9.com) - Browser-based, graphical Operating System (OS) that makes running a personal server as easy as running a personal computer. ([Source Code (⭐691)](https://github.com/Start9Labs/start-os)) `MIT` `Rust`
 
 ## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -397,15 +397,15 @@
 
 ### Project / Diagnostics
 
-*   [SalOrak/whaler.nvim (⭐40)](https://github.com/SalOrak/whaler.nvim) - Telescope extension to move between directories blazingly fast.
+*   [SalOrak/whaler.nvim (⭐42)](https://github.com/SalOrak/whaler.nvim) - Telescope extension to move between directories blazingly fast.
 
 ### Startup / Diagnostics
 
-*   [TobinPalmer/Tip.nvim (⭐45)](https://github.com/TobinPalmer/Tip.nvim) - Get a simple tip when you launch Neovim.
+*   [TobinPalmer/Tip.nvim (⭐51)](https://github.com/TobinPalmer/Tip.nvim) - Get a simple tip when you launch Neovim.
 
 ### Motion / Diagnostics
 
-*   [xiaoshihou514/squirrel.nvim (⭐12)](https://github.com/xiaoshihou514/squirrel.nvim) - Quickly jump between tree-sitter nodes.
+*   [xiaoshihou514/squirrel.nvim (⭐13)](https://github.com/xiaoshihou514/squirrel.nvim) - Quickly jump between tree-sitter nodes.
 
 ## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -528,7 +528,7 @@
 
 ### GTFS Libraries / Python
 
-*   [gtfs\_functions (⭐83)](https://github.com/Bondify/gtfs_functions) - Python package with useful functions to create geo-spatial visualizations from GTFS feeds.
+*   [gtfs\_functions (⭐84)](https://github.com/Bondify/gtfs_functions) - Python package with useful functions to create geo-spatial visualizations from GTFS feeds.
 
 ## [38. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
@@ -595,12 +595,12 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [Fastify (⭐29k)](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
+*   :octocat: [Fastify (⭐30k)](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 *   :octocat: [Hono](https://hono.dev/) - Hono is a small, simple, and ultrafast web framework for the Edges. It works on any JavaScript runtime
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [SuperJSON (⭐3.2k)](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more
+*   :octocat: [SuperJSON (⭐3.4k)](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more
 
 ## [45. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 

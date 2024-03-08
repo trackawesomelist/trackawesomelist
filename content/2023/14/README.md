@@ -22,7 +22,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [exa (zshell) (⭐27)](https://github.com/z-shell/zsh-exa) - replace `ls` with [ogham/exa (⭐23k)](https://github.com/ogham/exa).
+*   [exa (zshell) (⭐28)](https://github.com/z-shell/zsh-exa) - replace `ls` with [ogham/exa (⭐23k)](https://github.com/ogham/exa).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -134,7 +134,7 @@
 
 ### Third-Party Packages / Models
 
-*   [django-simple-history (⭐2k)](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from the admin.
+*   [django-simple-history (⭐2.1k)](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from the admin.
 
 ## [16. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -178,15 +178,15 @@
 
 ### Statusline / Diagnostics
 
-*   [freddiehaddad/feline.nvim (⭐221)](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
+*   [freddiehaddad/feline.nvim (⭐226)](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
 
 ### Debugging / Diagnostics
 
-*   [t-troebst/perfanno.nvim (⭐158)](https://github.com/t-troebst/perfanno.nvim) - Annotate your code with callgraph profiling data. Native support for perf, flamegraph and the LuaJit profiler.
+*   [t-troebst/perfanno.nvim (⭐160)](https://github.com/t-troebst/perfanno.nvim) - Annotate your code with callgraph profiling data. Native support for perf, flamegraph and the LuaJit profiler.
 
 ### Scrollbar / Diagnostics
 
-*   [lewis6991/satellite.nvim (⭐447)](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar.
+*   [lewis6991/satellite.nvim (⭐455)](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar.
 
 ## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -204,11 +204,11 @@
 
 ### Software / Booking and Scheduling
 
-*   [Seatsurfing](https://seatsurfing.app/) - Webbased app to book seats, desks and rooms for offices. ([Demo](https://seatsurfing.app/get-started/), [Source Code (⭐71)](https://github.com/seatsurfing/backend)) `GPL-3.0` `Docker`
+*   [Seatsurfing](https://seatsurfing.app/) - Webbased app to book seats, desks and rooms for offices. ([Demo](https://seatsurfing.app/get-started/), [Source Code (⭐74)](https://github.com/seatsurfing/backend)) `GPL-3.0` `Docker`
 
 ### Software / Money, Budgeting & Management
 
-*   [Actual](https://actualbudget.github.io/docs/) - Actual is a local-first personal finance tool based on zero-sum budgeting. It support synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code (⭐2.4k)](https://github.com/actualbudget/actual-server)) `MIT` `Nodejs/Docker`
+*   [Actual](https://actualbudget.github.io/docs/) - Actual is a local-first personal finance tool based on zero-sum budgeting. It support synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code (⭐2.5k)](https://github.com/actualbudget/actual-server)) `MIT` `Nodejs/Docker`
 
 ## [25. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -241,12 +241,11 @@
 
 ### Tutorials
 
-*   [WalletConnect Quickstart](https://developer.algorand.org/docs/get-details/walletconnect/) - Overview and quick start guide to WalletConnect protocol.
 *   [Stateless session management with the Pera wallet](https://developer.algorand.org/tutorials/stateless-session-management-with-the-pera-wallet/) - Pera Wallet connection example with Nextjs and Redux.
 
 ### Other Development Tools / Smart Contracts
 
-*   [TEALScript (⭐45)](https://github.com/algorand-devrel/TEALScript) - Enables Algorand smart contract development with native TypeScript syntax, tooling, and IDE support.
+*   [TEALScript (⭐46)](https://github.com/algorand-devrel/TEALScript) - Enables Algorand smart contract development with native TypeScript syntax, tooling, and IDE support.
 
 ## [29. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 

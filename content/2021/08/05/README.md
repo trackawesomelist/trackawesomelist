@@ -43,7 +43,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [jakewvincent/texmagic.nvim (⭐53)](https://github.com/jakewvincent/texmagic.nvim) - Enhance the lspconfig settings for Texlab by defining any number of custom LaTeX build engines and selecting them with magic comments.
+*   [jakewvincent/texmagic.nvim (⭐54)](https://github.com/jakewvincent/texmagic.nvim) - Enhance the lspconfig settings for Texlab by defining any number of custom LaTeX build engines and selecting them with magic comments.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

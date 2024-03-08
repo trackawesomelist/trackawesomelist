@@ -79,7 +79,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Developer Tools / Developer Utilities
 
-*   [Dash](https://kapeli.com/dash) - Awesome API documentation browser and code snippet manager.
+*   [Dash](https://kapeli.com/dash) - Awesome API documentation browser and code snippet manager. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Clipboard Tools
 

@@ -42,7 +42,7 @@
 
 ### Misc / Apache License
 
-*   [whitakers-words (⭐255)](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
+*   [whitakers-words (⭐261)](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
 
 ## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 

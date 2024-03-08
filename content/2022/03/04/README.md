@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 04, 2022
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -129,13 +129,7 @@
 
 *   [redislabs](https://redislabs.com/try-free/) - Free 30MB redis instance
 
-## [9. Awesome Deno](/content/denolib/awesome-deno/README.md)
-
-### Resources in Other Languages / Kurdish (Central)
-
-*   [deno.land](https://denoland-ckb.deno.dev/)
-
-## [10. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [9. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
@@ -145,13 +139,13 @@
     *   [jax-resnet (⭐98)](https://github.com/n2cholas/jax-resnet/) - Implementations and checkpoints for ResNet variants in Flax. <img src="https://img.shields.io/github/stars/n2cholas/jax-resnet?style=social" align="center">
     *   [Parallax (⭐157)](https://github.com/srush/parallax) - Immutable Torch Modules for JAX. <img src="https://img.shields.io/github/stars/srush/parallax?style=social" align="center">
 
-## [11. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [10. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Security
 
 *   [DJ Checkup](https://djcheckup.com) - Runs several checks on your deployed Django site to check for common security mistakes.
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### System 1 & System 2 / Dual-Coding Theory
 
@@ -161,7 +155,7 @@
 
 *   [Combining Logical Abduction and Statistical Induction: Discovering Written Primitives with Human Knowledge](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai17lasin.pdf) - ***AAAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=14477085725208589393\&hl=en\&as_sdt=0,5)].
 
-## [13. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
+## [12. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
 ### Explore another notebook / What just happened?
 
@@ -179,13 +173,13 @@
     *   [Review: Andrew Ng's Machine Learning Course](https://towardsdatascience.com/review-andrew-ngs-machine-learning-course-b905aafdb7d9)
     *   [The user reviews on Coursera](https://www.coursera.org/learn/machine-learning/reviews)
 
-## [14. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
+## [13. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
 ### Reset and Normalize / Editor's Draft :black_nib:
 
 *   [CSS Checker (⭐536)](https://github.com/ruilisi/css-checker) - Find and Reduce Similar & Duplicated CSS Scripts.
 
-## [15. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [14. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / Reddit
 

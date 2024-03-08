@@ -22,7 +22,7 @@
 
 ### GTFS Converters / Ruby
 
-*   [NeTEx-to-GTFS Converter Java (⭐4)](https://github.com/entur/netex-gtfs-converter-java) - Converts NeTEX datasets into GTFS datasets. The input NeTEx datasets are required to follow the Nordic NeTEx Profile.
+*   [NeTEx-to-GTFS Converter Java (⭐6)](https://github.com/entur/netex-gtfs-converter-java) - Converts NeTEX datasets into GTFS datasets. The input NeTEx datasets are required to follow the Nordic NeTEx Profile.
 
 ## [3. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
@@ -117,7 +117,6 @@
 ### Configuration / PHP Websites
 
 *   [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/tag/php-annotated-monthly/) - A monthly digest of PHP news.
-*   [PHP Weekly](https://www.phpweekly.com/archive.html) - A weekly PHP newsletter.
 
 ### Configuration / PHP Newsletters
 
@@ -174,7 +173,7 @@
 
 ### Libraries/Frameworks / Validation
 
-*   [konform-kt/konform (⭐608)](https://github.com/konform-kt/konform) - Multiplatform validations for Kotlin data classes
+*   [konform-kt/konform (⭐609)](https://github.com/konform-kt/konform) - Multiplatform validations for Kotlin data classes
 
 ### Libraries/Frameworks / Misc
 

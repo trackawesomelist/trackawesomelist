@@ -63,7 +63,7 @@
 
 ### Migration
 
-*   🍰 [Upgrade app (extended) (⭐22)](https://github.com/dereuromark/upgrade) - An extended upgrade app for 3.x=>4.x and some 5.x snippets.
+*   🍰 [Upgrade app (extended) (⭐23)](https://github.com/dereuromark/upgrade) - An extended upgrade app for 3.x=>4.x and some 5.x snippets.
 
 ## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

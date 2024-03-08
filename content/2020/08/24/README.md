@@ -42,15 +42,15 @@
 
 ### Component Libraries
 
-*   [Warp View (⭐7)](https://github.com/senx/warpview) - Collection of charting web components for Warp 10.
+*   [Warp View (⭐8)](https://github.com/senx/warpview) - Collection of charting web components for Warp 10.
 
 ### Design Systems
 
-*   [Lyne Components (⭐30)](https://github.com/lyne-design-system/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
+*   [Lyne Components (⭐31)](https://github.com/lyne-design-system/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
 
 ### Class Based
 
-*   [Panel (⭐267)](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
+*   [Panel (⭐270)](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
 
 ## [6. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 

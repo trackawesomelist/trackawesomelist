@@ -16,7 +16,7 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Kanbana (⭐62)](https://github.com/SrGMC/kanbana) - Create boards to track users and projects from flat markdown files (fork of Crepido). `MIT` `Nodejs`
+*   [Kanbana (⭐63)](https://github.com/SrGMC/kanbana) - Create boards to track users and projects from flat markdown files (fork of Crepido). `MIT` `Nodejs`
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 

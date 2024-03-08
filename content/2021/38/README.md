@@ -40,17 +40,17 @@
 
 ### Third-Party Packages / Editors
 
-*   [django-business-logic (⭐198)](https://github.com/dgk/django-business-logic) - Visual DSL framework for Django.
-*   [django-quill-editor (⭐180)](https://github.com/LeeHanYeong/django-quill-editor) - Makes Quill.js easy to use on Django Forms and admin sites.
+*   [django-business-logic (⭐200)](https://github.com/dgk/django-business-logic) - Visual DSL framework for Django.
+*   [django-quill-editor (⭐181)](https://github.com/LeeHanYeong/django-quill-editor) - Makes Quill.js easy to use on Django Forms and admin sites.
 *   [django-tinymce (⭐1.2k)](https://github.com/jazzband/django-tinymce) - TinyMCE integration for Django.
 
 ### Third-Party Packages / Forms
 
-*   [django-shapeshifter (⭐171)](https://github.com/kennethlove/django-shapeshifter) - A class-based view to handle multiple forms in one view.
+*   [django-shapeshifter (⭐172)](https://github.com/kennethlove/django-shapeshifter) - A class-based view to handle multiple forms in one view.
 
 ### Third-Party Packages / Search
 
-*   [django-admin-search (⭐72)](https://github.com/shinneider/django-admin-search) - Modal filter for django admin.
+*   [django-admin-search (⭐73)](https://github.com/shinneider/django-admin-search) - Modal filter for django admin.
 
 ### Resources / Community
 
@@ -548,7 +548,7 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 ### Software / Communication - IRC
 
-*   [UnrealIRCd](https://www.unrealircd.org/) - Modular, advanced and highly configurable IRC server written in C for Linux, BSD, Windows, and macOS. ([Source Code (⭐393)](https://github.com/unrealircd/unrealircd)) `GPL-2.0` `C`
+*   [UnrealIRCd](https://www.unrealircd.org/) - Modular, advanced and highly configurable IRC server written in C for Linux, BSD, Windows, and macOS. ([Source Code (⭐395)](https://github.com/unrealircd/unrealircd)) `GPL-2.0` `C`
 
 ### Software / Media Streaming - Video Streaming
 

@@ -30,11 +30,11 @@
 ### Programming Languages / PHP
 
 *   [composer-plugin-nixify (⭐14)](https://github.com/stephank/composer-plugin-nixify) - Composer plugin to help with Nix packaging.
-*   [nix-shell (⭐124)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
+*   [nix-shell (⭐126)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
 
 ### NixOS Modules / Zig
 
-*   [base16.nix (⭐137)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐411)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
+*   [base16.nix (⭐145)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐424)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

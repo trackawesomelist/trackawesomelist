@@ -135,7 +135,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Homer (⭐8.4k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `Docker/K8S/Nodejs`
+*   [Homer (⭐8.5k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `Docker/K8S/Nodejs`
 
 ## [15. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -246,16 +246,16 @@
 
 ### JupyterLab Extensions
 
-*   [code\_formatter (⭐735)](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
-*   [nb\_black (⭐355)](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black (⭐33k)](https://github.com/psf/black).
-*   [python-bytecode (⭐60)](https://github.com/jtpio/jupyterlab-python-bytecode) - Explore CPython Bytecode in JupyterLab.
-*   [quickopen (⭐76)](https://github.com/parente/jupyterlab-quickopen) - Quickly open a file in JupyterLab by typing part of its name.
-*   [sidecar (⭐227)](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
-*   [sql (⭐396)](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
-*   [system-monitor (⭐293)](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
-*   [theme-darcula (⭐185)](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
+*   [code\_formatter (⭐789)](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
+*   [nb\_black (⭐360)](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black (⭐37k)](https://github.com/psf/black).
+*   [python-bytecode (⭐61)](https://github.com/jtpio/jupyterlab-python-bytecode) - Explore CPython Bytecode in JupyterLab.
+*   [quickopen (⭐75)](https://github.com/parente/jupyterlab-quickopen) - Quickly open a file in JupyterLab by typing part of its name.
+*   [sidecar (⭐239)](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
+*   [sql (⭐405)](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
+*   [system-monitor (⭐294)](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
+*   [theme-darcula (⭐200)](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
 *   [topbar (⭐5)](https://github.com/jtpio/jupyterlab-topbar) - Top Bar extension for JupyterLab.
-*   [vim (⭐949)](https://github.com/jwkvam/jupyterlab-vim) - Vim notebook cell bindings.
+*   [vim (⭐960)](https://github.com/jwkvam/jupyterlab-vim) - Vim notebook cell bindings.
 
 ## [25. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -859,8 +859,8 @@
 
 ### Dynamic type checkers
 
-*   [pydantic (⭐16k)](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
-*   [typeguard (⭐1.3k)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
+*   [pydantic (⭐18k)](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
+*   [typeguard (⭐1.4k)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
 
 ## [57. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -1096,7 +1096,7 @@
 
 ### Utilities / Window Management
 
-*   [yabai (⭐20k)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/yabai/wiki)
+*   [yabai (⭐21k)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/yabai/wiki)
 
 ### Utilities / System Related Tools
 

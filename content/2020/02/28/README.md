@@ -121,7 +121,7 @@
 
 ### Web / Playground
 
-*   :octocat: [Tridactyl (⭐4.7k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
+*   :octocat: [Tridactyl (⭐4.8k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
 
 ## [16. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 

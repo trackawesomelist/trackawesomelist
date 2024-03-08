@@ -34,7 +34,7 @@
 
 ### Mathematics / Waveform Generator
 
-*   [uMath (⭐16)](https://github.com/albaEDA/uMath) - Computer Algebra for microcontrollers.
+*   [uMath (⭐17)](https://github.com/albaEDA/uMath) - Computer Algebra for microcontrollers.
 
 ### Sensors / Temperature Digital
 
@@ -57,11 +57,11 @@
 ### IDEs / SRAM
 
 *   [BIPES](https://bipes.net.br/ide/) - Web-based IDE for MicroPython with file manager, editor, code generation from blocks, IoT dashboard and Serial/USB/Bluetooth/WebREPL console on the web browser. Source: <https://github.com/BIPES>.
-*   [ESP32-MPY-Jama (⭐356)](https://github.com/jczic/ESP32-MPY-Jama) - Tool for managing Espressif ESP32 microcontrollers with MicroPython.
+*   [ESP32-MPY-Jama (⭐361)](https://github.com/jczic/ESP32-MPY-Jama) - Tool for managing Espressif ESP32 microcontrollers with MicroPython.
 
 ### Logging / SRAM
 
-*   [micropython-ulogger (⭐31)](https://github.com/whales-chen/micropython-ulogger) - Lightweight log module customized for MicroPython.
+*   [micropython-ulogger (⭐33)](https://github.com/whales-chen/micropython-ulogger) - Lightweight log module customized for MicroPython.
 
 ### Shells / On Host
 
@@ -94,7 +94,7 @@
 
 ### Applets / Design Tooling
 
-*   [RunCat (⭐363)](https://github.com/win0err/gnome-runcat) — The cat tells you the CPU usage by running speed.
+*   [RunCat (⭐366)](https://github.com/win0err/gnome-runcat) — The cat tells you the CPU usage by running speed.
 
 ## [5. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Software / Software Development - API Management
 
-*   [Yaade](https://docs.yaade.io/) - Yaade is an open-source, self-hosted, collaborative API development environment. ([Source Code (⭐1.3k)](https://github.com/EsperoTech/yaade)) `MIT` `Docker`
+*   [Yaade](https://docs.yaade.io/) - Yaade is an open-source, self-hosted, collaborative API development environment. ([Source Code (⭐1.4k)](https://github.com/EsperoTech/yaade)) `MIT` `Docker`
 
 ### Software / Software Development - FaaS & Serverless
 

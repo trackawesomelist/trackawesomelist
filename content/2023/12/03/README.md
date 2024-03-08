@@ -10,11 +10,11 @@
 
 ### Project / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.visits (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-visits.md) - Module of `mini.nvim` to persistently track and reuse file system visits. Allows listing "recent"/"frequent"/"frecent" visits, adding/removing labels to visits and other data.
+*   [echasnovski/mini.nvim#mini.visits (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-visits.md) - Module of `mini.nvim` to persistently track and reuse file system visits. Allows listing "recent"/"frequent"/"frecent" visits, adding/removing labels to visits and other data.
 
 ### Split and Window / Diagnostics
 
-*   [mrjones2014/smart-splits.nvim (⭐609)](https://github.com/mrjones2014/smart-splits.nvim) - Smart, seamless, directional navigation and resizing of splits.
+*   [mrjones2014/smart-splits.nvim (⭐631)](https://github.com/mrjones2014/smart-splits.nvim) - Smart, seamless, directional navigation and resizing of splits.
 
 ## [2. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
 

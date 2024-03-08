@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 05, 2019
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [MikroORM (⭐6.7k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
+*   :octocat: [MikroORM (⭐7k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
 
 ## [2. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
 
@@ -81,25 +81,23 @@
 
 *   [metabase/connection-pool (⭐14)](https://github.com/metabase/connection-pool)
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
-
-### Tools / Misc
-
-*   [ML Workspace (⭐3.3k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code).
-
-## [9. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [8. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Quantum Computing / Synthetic Data
 
 *   [PennyLane (⭐1.9k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
 
-## [10. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [9. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+
+### Runtimes/Frontends
+
+*   [ML Workspace (⭐3.3k)](https://github.com/ml-tooling/ml-workspace) - Docker image that includes Jupyter(Lab) and various packages for data science/machine learning.
 
 ### Hosted Notebook Solutions
 
 *   [Deepnote](https://www.deepnote.com) - Jupyter-compatible data science notebook with real-time collaboration, versioning and easy deployment.
 
-## [11. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [10. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Testing / Individual Podcast episodes
 

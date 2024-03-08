@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 17, 2023
 
-39 awesome lists updated today.
+38 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Text / Chatbots
 
-*   [Phind](https://www.phind.com/) - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
+*   [Phind](https://www.phind.com/) - *[reviews](https://altern.ai/product/phind)* - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
 
 ## [2. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
@@ -43,26 +43,26 @@
 
 ### LangChain Framework
 
-*   [LangServe (⭐1.1k)](https://github.com/langchain-ai/langserve): LangServe helps developers deploy LangChain runnables and chains as a REST API. ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langserve?style=social)
+*   [LangServe (⭐1.4k)](https://github.com/langchain-ai/langserve): LangServe helps developers deploy LangChain runnables and chains as a REST API. ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langserve?style=social)
 
 ### Tools / Agents
 
-*   [waggledance.ai (⭐130)](https://github.com/agi-merge/waggle-dance): An opinionated, concurrent system of AI Agents. It implements Plan-Validate-Solve with data and tools for general goal-solving. ![GitHub Repo stars](https://img.shields.io/github/stars/agi-merge/waggle-dance?style=social)
+*   [waggledance.ai (⭐150)](https://github.com/agi-merge/waggle-dance): An opinionated, concurrent system of AI Agents. It implements Plan-Validate-Solve with data and tools for general goal-solving. ![GitHub Repo stars](https://img.shields.io/github/stars/agi-merge/waggle-dance?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Lobe Chat (⭐14k)](https://github.com/lobehub/lobe-chat) An open-source, extensible (Function Calling), high-performance chatbot framework ![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)
-*   [Funcchain (⭐173)](https://github.com/shroominic/funcchain): write prompts, pythonic ![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/funcchain?style=social)
+*   [Lobe Chat (⭐22k)](https://github.com/lobehub/lobe-chat) An open-source, extensible (Function Calling), high-performance chatbot framework ![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)
+*   [Funcchain (⭐270)](https://github.com/shroominic/funcchain): write prompts, pythonic ![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/funcchain?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Magentic (⭐1.4k)](https://github.com/jackmpcollins/magentic): Seamlessly integrate LLMs as Python functions ![GitHub Repo stars](https://img.shields.io/github/stars/jackmpcollins/magentic?style=social)
-*   [Autogen (⭐19k)](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications.
-*   [Flappy (⭐276)](https://github.com/pleisto/flappy): Production-Ready LLM Agent SDK for Every Developer ![Github Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social)
+*   [Magentic (⭐1.5k)](https://github.com/jackmpcollins/magentic): Seamlessly integrate LLMs as Python functions ![GitHub Repo stars](https://img.shields.io/github/stars/jackmpcollins/magentic?style=social)
+*   [Autogen (⭐23k)](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications.
+*   [Flappy (⭐294)](https://github.com/pleisto/flappy): Production-Ready LLM Agent SDK for Every Developer ![Github Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social)
 
 ### Complement to this list / Videos Playlists
 
-*   [Awesome Language Agents (⭐466)](https://github.com/ysymyth/awesome-language-agents): List of language agents based on paper "Cognitive Architectures for Language Agents" ![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=social): ⚡️Open-source LangChain-like AI knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, Google Gemini, HuggingFace, OpenRouter, ChatGLM and local models ![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=social)
+*   [Awesome Language Agents (⭐541)](https://github.com/ysymyth/awesome-language-agents): List of language agents based on paper "Cognitive Architectures for Language Agents" ![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=social): ⚡️Open-source LangChain-like AI knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, Google Gemini, HuggingFace, OpenRouter, ChatGLM and local models ![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=social)
 
 ## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -136,7 +136,7 @@
 
 ### no-std crates / WIP
 
-*   [ethercrab (⭐169)](https://github.com/ethercrab-rs/ethercrab): A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - ![crates.io](https://img.shields.io/crates/v/ethercrab.svg)
+*   [ethercrab (⭐172)](https://github.com/ethercrab-rs/ethercrab): A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - ![crates.io](https://img.shields.io/crates/v/ethercrab.svg)
 
 ## [11. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -148,7 +148,7 @@
 
 ### Projects / User Interfaces
 
-*   [Waterproof editor (⭐28)](https://github.com/impermeable/waterproof) - Educational environment for writing mathematical proofs in interactive notebooks.
+*   [Waterproof editor (⭐30)](https://github.com/impermeable/waterproof) - Educational environment for writing mathematical proofs in interactive notebooks.
 
 ### Projects / Package and Build Management
 
@@ -158,37 +158,31 @@
 
 *   [Waterproof proof language (⭐25)](https://github.com/impermeable/coq-waterproof) - Plugin providing a language for writing proof scripts in a style that resembles non-mechanized mathematical proof.
 
-## [13. Awesome Ada](/content/ohenley/awesome-ada/README.md)
-
-### OS and Kernels / Apache License
-
-*   [ironclad](https://ironclad.cx/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐60)](https://github.com/streaksu/Gloire).
-
-## [14. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [13. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### C bindings
 
 *   [v4l2.cr (⭐5)](https://github.com/spider-gazelle/v4l2.cr) - Bindings for [Video4Linux2](https://en.wikipedia.org/wiki/Video4Linux)
 
-## [15. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/README.md)
+## [14. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/README.md)
 
 ### Online Community
 
 *   [Exercism's Common Lisp track](https://exercism.org/tracks/common-lisp) - An excellent way to learn the language through practice, have your code reviewed, and to discuss solutions with other people.
 
-## [16. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [15. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Utils / Third-party APIs
 
 *   ⭐ [lparallel (⭐11)](https://github.com/sharplispers/lparallel) - A library for parallel programming. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). Originally on [lmj/lparallel (⭐239)](https://github.com/lmj/lparallel).
 
-## [17. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [16. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### End-user applications / XML
 
 *   [tshare (⭐90)](https://github.com/trikko/tshare) - fast file sharing from cli, using transfer.sh
 
-## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Concurrency
 
@@ -218,7 +212,7 @@
 *   [libenvpp (⭐112)](https://github.com/ph3at/libenvpp) - A modern C++ library for type-safe environment variable parsing. \[Apache-2.0]
 *   [StringZilla (⭐1.1k)](https://github.com/ashvardanian/StringZilla) - the Godzilla of string libraries, splitting, sorting, and shuffling large textual datasets faster than you can say "Tokyo Tower". \[Apache-2.0]
 
-## [19. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [18. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Actors
 
@@ -232,7 +226,7 @@
 
 *   [Async Elixir (⭐127)](https://github.com/Arp-G/async-elixir) - Dive into Elixir's world of concurrency and processes with this interactive Livebook.
 
-## [20. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [19. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### HTML/XML Parsing
 
@@ -242,7 +236,7 @@
 
 *   [ruby-clock (⭐76)](https://github.com/jjb/ruby-clock) - A job scheduler which runs jobs each in their own thread in a persistent process.
 
-## [21. Awesome Go](/content/avelino/awesome-go/README.md)
+## [20. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -324,7 +318,7 @@
 
 *   [Go with the domain](https://threedots.tech/go-with-the-domain/) - A book showing how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 
-## [22. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [21. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
@@ -361,7 +355,7 @@
 
 *   [idletea/tokio-socketcan (⭐34)](https://github.com/idletea/tokio-socketcan) \[[tokio-socketcan](https://crates.io/crates/tokio-socketcan)] — Linux SocketCAN support for tokio based on the socketcan crate
 
-## [23. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [22. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Computer Vision / Others
 
@@ -393,25 +387,25 @@
 
 *   [treelite (⭐688)](https://github.com/dmlc/treelite) - Universal model exchange and serialization format for decision tree forests.
 
-## [24. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [23. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
 *   [Verticalize (⭐299)](https://github.com/laurentpayot/verticalize) - Super lightweight function that looks and behaves like a pipe operator.
 
-## [25. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [24. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / Messaging
 
 *   [Apache Kafka (⭐26k) (⭐27k)](https://github.com/apache/kafka) - A distributed messaging system designed for high-throughput and fault-tolerance. Enables real-time data processing and stream processing applications with its distributed architecture and efficient data storage.
 
-## [26. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [25. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Models
 
 *   [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/) (October, 2023)
 
-## [27. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [26. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 
@@ -443,25 +437,25 @@
 *   [Kriptonio](https://kriptonio.com/) - Pinning service & Web3 Platform for building Web3 apps.
 *   [Spheron](https://spheron.network) - Spheron offers IPFS pinning service and dedicated gateways.
 
-## [28. Awesome List](/content/sindresorhus/awesome/README.md)
+## [27. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Theory
 
 *   [Complex Systems (⭐125)](https://github.com/sellisd/awesome-complexity#readme) - The scientific field studying systems with multiple interacting parts and emergent properties.
 
-## [29. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [28. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
 *   [monorepo-template-react (⭐52)](https://github.com/stormkit-io/monorepo-template-react) - React + Typescript template for SSR, SPG, SPA and API provision.
 
-## [30. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [29. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Miscellaneous / Svelte
 
 *   [Obsidian Rocks](https://obsidian.rocks/). Obsidian (the private and flexible writing app that adapts to the way you think) tips and tricks.
 
-## [31. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+## [30. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ### Gift Ideas
 
@@ -478,13 +472,13 @@
 *   [Write-a-card](https://write-a-card.co/) - Content generation for greeting cards. `#paid`
 *   [Your GiftWhisperer](https://yourgiftwhisperer.com/) - Discover the perfect personlized Gift! `#free`
 
-## [32. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [31. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Utilities
 
 *   [warcdb (⭐380)](https://github.com/florents-Tselai/warcdb) - A command line utility (Python) for importing WARC files into a SQLite database. *(Stable)*
 
-## [33. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [32. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Strategy
 
@@ -657,38 +651,38 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        6 | 30-35m |
 
-## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [oxfist/night-owl.nvim (⭐144)](https://github.com/oxfist/night-owl.nvim) - A [Night Owl colorscheme port from VSCode (⭐2.8k)](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens.
+*   [oxfist/night-owl.nvim (⭐152)](https://github.com/oxfist/night-owl.nvim) - A [Night Owl colorscheme port from VSCode (⭐2.8k)](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens.
 
-## [35. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [34. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Plugins
 
 *   [tmux-spotify-playlists (⭐20)](https://github.com/danjeltahko/spotify-tmux) Another Spotify plugin, but for saving and playing your favorite playlists
 
-## [36. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [history-sync (vitobotta) (⭐15)](https://github.com/vitobotta/zsh-history-sync/) - Syncs your ZSH history across computers using a `git` private repository. Uses `openssl` to encrypt the history.
-*   [history-sync (wulfgarpro) (⭐223)](https://github.com/wulfgarpro/history-sync) - An [oh-my-zsh](https://ohmyz.sh/) plugin for [GPG](https://www.gnupg.org/) encrypted, Internet synchronized ZSH history using `git`.
+*   [history-sync (vitobotta) (⭐16)](https://github.com/vitobotta/zsh-history-sync/) - Syncs your ZSH history across computers using a `git` private repository. Uses `openssl` to encrypt the history.
+*   [history-sync (wulfgarpro) (⭐224)](https://github.com/wulfgarpro/history-sync) - An [oh-my-zsh](https://ohmyz.sh/) plugin for [GPG](https://www.gnupg.org/) encrypted, Internet synchronized ZSH history using `git`.
 
-## [37. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+## [36. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Shell Script Development
 
 *   [bashunit (⭐198)](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts.
 
-## [38. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [37. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### IDE
 
 *   [Querybook (⭐1.6k)](https://github.com/pinterest/querybook) - Querybook is a Pinterest open-source Big Data Querying UI, combining collocated table metadata and a simple notebook IDE interface.
 
-## [39. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [38. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### AI
 

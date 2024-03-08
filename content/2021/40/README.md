@@ -38,7 +38,7 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [jvgrootveld/telescope-zoxide (⭐241)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐13k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐254)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐16k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -357,7 +357,7 @@ Free (Open Source)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [obs-websocket-gd (⭐69)](https://github.com/you-win/obs-websocket-gd) - Script and editor plugin to control Open Broadcaster Software from Godot via obs-websocket (Godot 3.x).
+*   [obs-websocket-gd (⭐72)](https://github.com/you-win/obs-websocket-gd) - Script and editor plugin to control Open Broadcaster Software from Godot via obs-websocket (Godot 3.x).
 
 ## [28. Awesome](/content/craftcms/awesome/week/README.md)
 
@@ -401,7 +401,7 @@ Free (Open Source)
 
 ### Modules / Utils
 
-*   [optionals (⭐169)](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
+*   [optionals (⭐171)](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
 
 ## [34. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
 
@@ -541,7 +541,7 @@ Free (Open Source)
 
 ### Libraries/Frameworks / Configuration
 
-*   [uchuhimo/konf (⭐305)](https://github.com/uchuhimo/konf) - A type-safe cascading configuration library for Kotlin/Java, supporting most configuration formats
+*   [uchuhimo/konf (⭐304)](https://github.com/uchuhimo/konf) - A type-safe cascading configuration library for Kotlin/Java, supporting most configuration formats
 
 ## [48. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 

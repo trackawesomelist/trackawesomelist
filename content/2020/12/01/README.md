@@ -10,7 +10,7 @@
 
 ### GTFS Libraries / JavaScript
 
-*   [Node-GTFS (⭐416)](https://github.com/BlinkTagInc/node-gtfs) - Loads transit data from GTFS files, unzips it and stores it to a SQLite database. Provides some methods to query for agencies, routes, stops and times.
+*   [Node-GTFS (⭐418)](https://github.com/BlinkTagInc/node-gtfs) - Loads transit data from GTFS files, unzips it and stores it to a SQLite database. Provides some methods to query for agencies, routes, stops and times.
 
 ## [2. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
 

@@ -849,7 +849,7 @@
 
 ### Validation / Playground
 
-*   [typia (⭐3.7k)](https://github.com/samchon/typia) - 20,000x times faster runtime validator using pure TypeScript type. Only one line required like `typia.assert<T>(input)`. Also, supports 200x faster JSON serialization, and Protocol Buffer features. 🚀 (see also <https://typia.io/docs>)
+*   [typia (⭐3.9k)](https://github.com/samchon/typia) - 20,000x times faster runtime validator using pure TypeScript type. Only one line required like `typia.assert<T>(input)`. Also, supports 200x faster JSON serialization, and Protocol Buffer features. 🚀 (see also <https://typia.io/docs>)
 
 ## [14. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

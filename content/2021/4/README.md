@@ -156,7 +156,7 @@
 
 ### Libraries/Frameworks / I/O
 
-*   [agcom/knio2 (⭐2)](https://github.com/agcom/knio2) - Kotlinx coroutines extensions for Java NIO.2
+*   [agcom/knio2 (⭐3)](https://github.com/agcom/knio2) - Kotlinx coroutines extensions for Java NIO.2
 
 ## [14. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -665,11 +665,11 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Plugins and scripts / Various Godot versions
 
-*   [HTerrain (⭐1.5k)](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass (Godot 3.x, 4.x).
+*   [HTerrain (⭐1.6k)](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass (Godot 3.x, 4.x).
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [CSG Mesh Exporter (.OBJ) (⭐49)](https://github.com/mohammedzero43/CSGExport-Godot) - Export CSG nodes to OBJ meshes to improve editing performance.
+*   [CSG Mesh Exporter (.OBJ) (⭐50)](https://github.com/mohammedzero43/CSGExport-Godot) - Export CSG nodes to OBJ meshes to improve editing performance.
 
 ### Websites / Godot version unknown
 

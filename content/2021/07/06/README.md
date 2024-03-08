@@ -186,7 +186,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [ass (⭐573)](https://github.com/tycrek/ass) - The superior self-hosted ShareX server. For use with clients such as ShareX (Windows), Flameshot (Linux), & MagicCap (Linux, macOS). `ISC` `Nodejs/Docker`
+*   [ass (⭐579)](https://github.com/tycrek/ass) - The superior self-hosted ShareX server. For use with clients such as ShareX (Windows), Flameshot (Linux), & MagicCap (Linux, macOS). `ISC` `Nodejs/Docker`
 
 ### Software / Office Suites
 

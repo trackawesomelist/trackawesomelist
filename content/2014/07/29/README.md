@@ -16,7 +16,7 @@
 
 ### General
 
-*   [camlPDF (⭐193)](https://github.com/johnwhitington/camlpdf) – OCaml library for reading, writing and modifying PDF files.
+*   [camlPDF (⭐194)](https://github.com/johnwhitington/camlpdf) – OCaml library for reading, writing and modifying PDF files.
 
 ## [3. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 

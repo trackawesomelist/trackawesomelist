@@ -80,7 +80,7 @@
 
 ### Software / Automation
 
-*   [Apache Airflow](https://airflow.apache.org/) - Airflow is a platform to programmatically author, schedule, and monitor workflows. ([Source Code (⭐33k)](https://github.com/apache/airflow/)) `Apache-2.0` `Python/Docker`
+*   [Apache Airflow](https://airflow.apache.org/) - Airflow is a platform to programmatically author, schedule, and monitor workflows. ([Source Code (⭐34k)](https://github.com/apache/airflow/)) `Apache-2.0` `Python/Docker`
 
 ### Software / Miscellaneous
 
@@ -88,7 +88,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Bigcapital](https://bigcapital.ly) - A self-hosted financial accounting and inventory management software for small to medium businesses. ([Source Code (⭐1.9k)](https://github.com/bigcapitalhq/bigcapital)) `AGPL-3.0` `Docker`
+*   [Bigcapital](https://bigcapital.ly) - A self-hosted financial accounting and inventory management software for small to medium businesses. ([Source Code (⭐2k)](https://github.com/bigcapitalhq/bigcapital)) `AGPL-3.0` `Docker`
 
 ## [10. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 

@@ -136,7 +136,7 @@
 
 ### Learning
 
-*   [Awesome Graph Classification (⭐4.5k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Learning from graph structured data
+*   [Awesome Graph Classification (⭐4.7k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Learning from graph structured data
 
 ### Journals
 

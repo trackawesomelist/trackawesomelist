@@ -324,7 +324,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [doyaaaaaken/kotlin-csv (⭐576)](https://github.com/doyaaaaaken/kotlin-csv) - A pure kotlin simple csv reader/writer.
+*   [doyaaaaaken/kotlin-csv (⭐581)](https://github.com/doyaaaaaken/kotlin-csv) - A pure kotlin simple csv reader/writer.
 
 ## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -575,7 +575,7 @@
 
 ### Showcases / XML
 
-*   [Edrys (⭐284)](https://github.com/edrys-org/edrys) - Remote Teaching Software
+*   [Edrys (⭐287)](https://github.com/edrys-org/edrys) - Remote Teaching Software
 
 ## [24. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -891,11 +891,11 @@
 
 ### Utility / Diagnostics
 
-*   [rgroli/other.nvim (⭐305)](https://github.com/rgroli/other.nvim) - Open alternative files for the current buffer.
+*   [rgroli/other.nvim (⭐308)](https://github.com/rgroli/other.nvim) - Open alternative files for the current buffer.
 
 ### Editing Support / Diagnostics
 
-*   [bennypowers/nvim-regexplainer (⭐580)](https://github.com/bennypowers/nvim-regexplainer) - Explain the regular expression under the cursor.
+*   [bennypowers/nvim-regexplainer (⭐585)](https://github.com/bennypowers/nvim-regexplainer) - Explain the regular expression under the cursor.
 
 ### Preconfigured Configuration / Diagnostics
 
@@ -1148,7 +1148,7 @@
 *   [risbow (⭐1)](https://github.com/waddupp00/risbow) - A [risto (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/risto.zsh-theme) inspired ZSH theme with a lolcat like rainbow effect.
 *   [robbyrussell-plus (⭐0)](https://github.com/jackjyq/robbyrussell-plus-zsh-theme) - Based on [robbyrussell (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme), adds a hostname decorator.
 *   [temeraf (⭐1)](https://github.com/filiptoma/temeraf-zsh) - Minimalist theme with decorations for `git` status, timestamps and last exit status.
-*   [voidy (⭐0)](https://github.com/rwejdling/voidy) - Borrows elements from [lambda (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) and [robbyrussell (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) themes and adds the active [aws-vault (⭐8k)](https://github.com/99designs/aws-vault) profile to the right side of the prompt.
+*   [voidy (⭐0)](https://github.com/rwejdling/voidy) - Borrows elements from [lambda (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) and [robbyrussell (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) themes and adds the active [aws-vault (⭐8.1k)](https://github.com/99designs/aws-vault) profile to the right side of the prompt.
 *   [yuyuko (⭐1)](https://github.com/hylwxqwq/yuyuko.zsh-theme) - Fork of [ys (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme), inspired by [yuyuko.vim (⭐26)](https://github.com/hylwxqwq/yuyuko.vim).
 
 ## [47. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)

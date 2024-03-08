@@ -34,7 +34,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [olivercederborg/poimandres.nvim (⭐254)](https://github.com/olivercederborg/poimandres.nvim) - Neovim port of [poimandres VSCode theme (⭐284)](https://github.com/drcmda/poimandres-theme) with Tree-sitter support, written in Lua.
+*   [olivercederborg/poimandres.nvim (⭐270)](https://github.com/olivercederborg/poimandres.nvim) - Neovim port of [poimandres VSCode theme (⭐305)](https://github.com/drcmda/poimandres-theme) with Tree-sitter support, written in Lua.
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 

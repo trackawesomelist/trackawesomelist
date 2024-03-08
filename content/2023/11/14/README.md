@@ -10,11 +10,11 @@
 
 ### Stub packages
 
-*   [python-phonenumbers-stubs (⭐0)](https://github.com/AA-Turner/python-phonenumbers-stubs) - Stubs for [phonenumbers (⭐3.3k)](https://github.com/daviddrysdale/python-phonenumbers).
+*   [python-phonenumbers-stubs (⭐1)](https://github.com/AA-Turner/python-phonenumbers-stubs) - Stubs for [phonenumbers (⭐3.4k)](https://github.com/daviddrysdale/python-phonenumbers).
 
 ### Additional types
 
-*   [useful-types (⭐41)](https://github.com/hauntsaninja/useful_types) - Collection of useful protocols and type aliases.
+*   [useful-types (⭐62)](https://github.com/hauntsaninja/useful_types) - Collection of useful protocols and type aliases.
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [nsk90/kstatemachine (⭐283)](https://github.com/nsk90/kstatemachine) - KStateMachine is a Kotlin DSL library for creating state machines and statecharts.
+*   [nsk90/kstatemachine (⭐298)](https://github.com/nsk90/kstatemachine) - KStateMachine is a Kotlin DSL library for creating state machines and statecharts.
 
 ## [8. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Software / Automation
 
-*   [Kestra](https://kestra.io) - Event-driven, language-agnostic platform to create, schedule, and monitor workflows. In code. Coordinate data pipelines and tasks such as ETL and ELT. ([Source Code (⭐5.3k)](https://github.com/kestra-io/kestra)) `Apache-2.0` `Docker`
+*   [Kestra](https://kestra.io) - Event-driven, language-agnostic platform to create, schedule, and monitor workflows. In code. Coordinate data pipelines and tasks such as ETL and ELT. ([Source Code (⭐5.4k)](https://github.com/kestra-io/kestra)) `Apache-2.0` `Docker`
 
 ### Software / Learning and Courses
 
@@ -107,7 +107,7 @@
 
 ### Software / Wikis
 
-*   [Otter Wiki (⭐103)](https://github.com/redimp/otterwiki) - Simple, easy to use wiki software using markdown. `MIT` `Docker`
+*   [Otter Wiki (⭐114)](https://github.com/redimp/otterwiki) - Simple, easy to use wiki software using markdown. `MIT` `Docker`
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

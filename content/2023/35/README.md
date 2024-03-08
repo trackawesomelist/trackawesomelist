@@ -100,15 +100,15 @@
 
 ### Terminal / CLI tools
 
-*   [decompose (⭐64)](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments. By [@s0rg](https://github.com/s0rg)
+*   [decompose (⭐69)](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments. By [@s0rg](https://github.com/s0rg)
 
 ## [9. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LLFn (⭐88)](https://github.com/orgexyz/LLFn): A light-weight framework for creating applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/orgexyz/LLFn?style=social)
-*   [Lagent (⭐593)](https://github.com/InternLM/lagent): A lightweight framework for building LLM-based agents ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/lagent?style=social)
-*   [Embedbase (⭐456)](https://github.com/different-ai/embedbase): The native Software 3.0 stack for building AI-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/different-ai/embedbase?style=social)
+*   [LLFn (⭐87)](https://github.com/orgexyz/LLFn): A light-weight framework for creating applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/orgexyz/LLFn?style=social)
+*   [Lagent (⭐748)](https://github.com/InternLM/lagent): A lightweight framework for building LLM-based agents ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/lagent?style=social)
+*   [Embedbase (⭐467)](https://github.com/different-ai/embedbase): The native Software 3.0 stack for building AI-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/different-ai/embedbase?style=social)
 
 ## [10. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
@@ -452,7 +452,7 @@
 ### Software / Miscellaneous
 
 *   [Cerbos](https://cerbos.dev) - A self-hosted, open source user authorization layer for your applications. ([Demo](https://play.cerbos.dev), [Source Code (⭐2.3k)](https://github.com/cerbos/cerbos)) `Apache-2.0` `Go/deb/Docker/K8S`
-*   [Watcharr (⭐69)](https://github.com/sbondCo/Watcharr) - A free and open source content watch list. Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. ([Demo](https://beta.watcharr.app/)) `MIT` `Docker`
+*   [Watcharr (⭐100)](https://github.com/sbondCo/Watcharr) - A free and open source content watch list. Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. ([Demo](https://beta.watcharr.app/)) `MIT` `Docker`
 
 ### Software / Software Development - Project Management
 
@@ -507,7 +507,7 @@
 
 ### Projects / Frameworks
 
-*   [SSProve (⭐45)](https://github.com/SSProve/ssprove) - Framework for modular cryptographic proofs based on the Mathematical Components library.
+*   [SSProve (⭐46)](https://github.com/SSProve/ssprove) - Framework for modular cryptographic proofs based on the Mathematical Components library.
 
 ## [31. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
@@ -825,11 +825,11 @@
 
 ### Register / Diagnostics
 
-*   [desdic/macrothis.nvim (⭐14)](https://github.com/desdic/macrothis.nvim) - Save and load macros/registers.
+*   [desdic/macrothis.nvim (⭐15)](https://github.com/desdic/macrothis.nvim) - Save and load macros/registers.
 
 ### Note Taking / Diagnostics
 
-*   [IlyasYOY/obs.nvim (⭐50)](https://github.com/IlyasYOY/obs.nvim) - Your Obsidian notes at the speed of thought.
+*   [IlyasYOY/obs.nvim (⭐54)](https://github.com/IlyasYOY/obs.nvim) - Your Obsidian notes at the speed of thought.
 
 ### Code Runner / Diagnostics
 
@@ -861,7 +861,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [SignalVisualizer (⭐148)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock (Godot 4.x).
+*   [SignalVisualizer (⭐151)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock (Godot 4.x).
 
 ## [40. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 

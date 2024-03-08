@@ -31,7 +31,7 @@
 
 ### Languages / JavaScript & TypeScript
 
-*   [js-algorand-sdk (⭐271)](https://github.com/algorand/js-algorand-sdk) - The Algorand JavaScript SDK & Examples.
+*   [js-algorand-sdk (⭐275)](https://github.com/algorand/js-algorand-sdk) - The Algorand JavaScript SDK & Examples.
 
 ### Languages / .NET
 
@@ -39,19 +39,15 @@
 
 ### Languages / Rust
 
-*   [rust-algorand-sdk (⭐62)](https://github.com/manuelmauro/algonaut) - Rust Algorand SDK.
+*   [rust-algorand-sdk (⭐63)](https://github.com/manuelmauro/algonaut) - Rust Algorand SDK.
 
 ### Languages / Swift
 
-*   [swift-algorand-sdk (⭐18)](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
+*   [swift-algorand-sdk (⭐19)](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
 
 ### Nodes & Consensus Participation / Wallets
 
 *   [Algorand - The Undocumented Docs (⭐5)](https://github.com/AlgoChads/algorand-undoc-docs) - Dev Notes for Archival Node, Indexer Setup (and more).
-
-### Name Services / Wallets
-
-*   [Algorand Name Service](https://algonameservice.com/home) - ANS is a decentralized naming service. An Algorand smart contract stores names and governs the naming policy.
 
 ### Projects / Wallets
 
@@ -80,7 +76,7 @@
 
 ### C++ / Git
 
-*   [=nil; Crypto3 (⭐57)](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
+*   [=nil; Crypto3 (⭐64)](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
 
 ## [5. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -90,7 +86,7 @@
 
 ### Stub packages
 
-*   [celery-types (⭐51)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐23k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐612)](https://github.com/celery/django-celery-results), [ampq (⭐297)](https://github.com/celery/py-amqp), [kombu (⭐2.6k)](https://github.com/celery/kombu), [billiard (⭐383)](https://github.com/celery/billiard), [vine (⭐115)](https://github.com/celery/vine) and [ephem (⭐670)](https://github.com/brandon-rhodes/pyephem).
+*   [celery-types (⭐59)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐23k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐640)](https://github.com/celery/django-celery-results), [ampq (⭐301)](https://github.com/celery/py-amqp), [kombu (⭐2.7k)](https://github.com/celery/kombu), [billiard (⭐394)](https://github.com/celery/billiard), [vine (⭐118)](https://github.com/celery/vine) and [ephem (⭐718)](https://github.com/brandon-rhodes/pyephem).
 
 ### Articles / Third-party articles
 

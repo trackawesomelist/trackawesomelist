@@ -80,7 +80,7 @@
 ### Plugins and scripts / Various Godot versions
 
 *   [Dialogue Manager (⭐1.6k)](https://github.com/nathanhoad/godot_dialogue_manager) - A simple but powerful text based branching dialogue editor and runtime (Godot 3.x, 4.x).
-*   [Input Helper (⭐562)](https://github.com/nathanhoad/godot_input_helper) - A helper for detecting input devices and remapping controls (Godot 3.x, 4.x).
+*   [Input Helper (⭐577)](https://github.com/nathanhoad/godot_input_helper) - A helper for detecting input devices and remapping controls (Godot 3.x, 4.x).
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [infer-types (⭐65)](https://github.com/orsinium-labs/infer-types) - CLI tool to automatically infer and add type annotations into Python code.
+*   [infer-types (⭐72)](https://github.com/orsinium-labs/infer-types) - CLI tool to automatically infer and add type annotations into Python code.
 
 ## [11. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 

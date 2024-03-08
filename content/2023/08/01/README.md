@@ -10,7 +10,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LLMFlow (⭐560)](https://github.com/stoyan-stoyanov/llmflows): Simple, Explicit and Transparent LLM Apps ![GitHub Repo stars](https://img.shields.io/github/stars/stoyan-stoyanov/llmflows?style=social)
+*   [LLMFlow (⭐594)](https://github.com/stoyan-stoyanov/llmflows): Simple, Explicit and Transparent LLM Apps ![GitHub Repo stars](https://img.shields.io/github/stars/stoyan-stoyanov/llmflows?style=social)
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Tools / Playground
 
-*   [sqlx-ts (⭐115)](https://github.com/JasonShin/sqlx-ts) - SQLx-ts is a CLI application featuring compile-time checked queries without a DSL and generates types against SQLs to keep your code type-safe
+*   [sqlx-ts (⭐127)](https://github.com/JasonShin/sqlx-ts) - SQLx-ts is a CLI application featuring compile-time checked queries without a DSL and generates types against SQLs to keep your code type-safe
 
 ## [7. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 

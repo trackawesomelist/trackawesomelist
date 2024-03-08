@@ -215,19 +215,19 @@
 ### React Firebase starter [↗](https://awesomestacks.dev/react-firebase-starter) / Resources
 
 *   [GraphQL](https://graphql.org/) - [🛠](https://stackshare.io/graphql) - [🐙 (⭐20k)](https://github.com/graphql/graphql-js) - A query language for APIs and a runtime for fulfilling those queries with your existing data.
-*   [Material UI](https://material-ui.com/) - [🛠️](https://stackshare.io/material-ui) - [🐙 (⭐90k)](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design.
+*   [Material UI](https://material-ui.com/) - [🛠️](https://stackshare.io/material-ui) - [🐙 (⭐91k)](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design.
 *   [Relay](https://facebook.github.io/relay/) - [🛠️](https://stackshare.io/relay) - [🐙 (⭐18k)](https://github.com/facebook/relay) - A JavaScript framework for building data-driven React applications.
 *   [react-firebase-starter (⭐4.5k)](https://github.com/kriasoft/react-firebase-starter)
 
 ### MEVN: Mongo Express Vue Node [↗](https://awesomestacks.dev/mevn-mongo-express-vue-node) / Resources
 
 *   [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙 (⭐63k)](https://github.com/expressjs/express) - A minimal and flexible Node.js web application framework.
-*   [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐101k)](https://github.com/nodejs/node) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐102k)](https://github.com/nodejs/node) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 *   [Welcome to Vue-Express-Mongo BoilerPlate](http://vemapp.moleculer.services/)
 
 ### React starter kit [↗](https://awesomestacks.dev/react-starter-kit) / Resources
 
-*   [Node.js](https://nodejs.org/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐101k)](https://github.com/nodejs/node) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Node.js](https://nodejs.org/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐102k)](https://github.com/nodejs/node) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
 *   [react-starter-kit (⭐22k)](https://github.com/kriasoft/react-starter-kit)
 
 ### vue-starter [↗](https://awesomestacks.dev/vue-starter) / Resources
@@ -237,7 +237,7 @@
 
 ### Vue Enterprise Boilerplate [↗](https://awesomestacks.dev/vue-enterprise-boilerplate) / Resources
 
-*   [vue-enterprise-boilerplate (⭐7.7k)](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
+*   [vue-enterprise-boilerplate (⭐7.8k)](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
 
 ### Rock Solid Modern Rails [↗](https://awesomestacks.dev/rock-solid-modern-rails) / Resources
 

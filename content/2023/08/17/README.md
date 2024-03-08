@@ -41,11 +41,11 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [goast (⭐56)](https://github.com/m-mizutani/goast) — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
+*   [goast (⭐56)](https://github.com/m-mizutani/goast) :warning: — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
 
 ### Multiple languages / [Other](#other-1)
 
-*   [oxc (⭐7.7k)](https://github.com/web-infra-dev/oxc) — The Oxidation Compiler is creating a suite of high-performance tools for the JavaScript / TypeScript language re-written in Rust.
+*   [oxc (⭐8k)](https://github.com/web-infra-dev/oxc) — The Oxidation Compiler is creating a suite of high-performance tools for the JavaScript / TypeScript language re-written in Rust.
 
 ## [7. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Tools / Services
 
-*   [Llama2 Embedding Server (⭐769)](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service): Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social)
+*   [Llama2 Embedding Server (⭐827)](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service): Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social)
 
 ## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

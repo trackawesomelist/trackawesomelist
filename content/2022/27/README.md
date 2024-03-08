@@ -26,16 +26,16 @@
 
 ### Deployment Tools / Discovery
 
-*   [Nixery (⭐1.6k)](https://github.com/tazjin/nixery) - A Docker-compatible container registry which builds images ad-hoc via Nix.
+*   [Nixery (⭐1.7k)](https://github.com/tazjin/nixery) - A Docker-compatible container registry which builds images ad-hoc via Nix.
 
 ### Command-Line Tools / Discovery
 
-*   [comma (⭐885)](https://github.com/nix-community/comma) - Quickly run any binary; wraps together `nix run` and `nix-index`.
-*   [nix-diff (⭐287)](https://github.com/Gabriella439/nix-diff) - A tool to explain why two Nix derivations differ.
+*   [comma (⭐898)](https://github.com/nix-community/comma) - Quickly run any binary; wraps together `nix run` and `nix-index`.
+*   [nix-diff (⭐298)](https://github.com/Gabriella439/nix-diff) - A tool to explain why two Nix derivations differ.
 
 ### Development / Discovery
 
-*   [lorri (⭐568)](https://github.com/nix-community/lorri/) - A much better `nix-shell` for development that augments direnv.
+*   [lorri (⭐576)](https://github.com/nix-community/lorri/) - A much better `nix-shell` for development that augments direnv.
 
 ### Programming Languages / Elm
 
@@ -43,12 +43,12 @@
 
 ### Programming Languages / Node.js
 
-*   [Napalm (⭐98)](https://github.com/nix-community/napalm) - Support for building npm packages in Nix with a lightweight npm registry.
-*   [npmlock2nix (⭐121)](https://github.com/nix-community/npmlock2nix) - Generate Nix expressions from a `package-lock.json` (in-memory), primarily for web projects.
+*   [Napalm (⭐99)](https://github.com/nix-community/napalm) - Support for building npm packages in Nix with a lightweight npm registry.
+*   [npmlock2nix (⭐122)](https://github.com/nix-community/npmlock2nix) - Generate Nix expressions from a `package-lock.json` (in-memory), primarily for web projects.
 
 ### Programming Languages / Rust
 
-*   [cargo2nix (⭐283)](https://github.com/cargo2nix/cargo2nix) - Granular caching, development shell, Nix & Rust integration.
+*   [cargo2nix (⭐299)](https://github.com/cargo2nix/cargo2nix) - Granular caching, development shell, Nix & Rust integration.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
@@ -250,7 +250,7 @@
 
 ### Other Development Tools / Smart Contracts
 
-*   [beaker (⭐99)](https://github.com/algorand-devrel/beaker) - A tool for smart contract development on the Algorand blockchain. Inspired by `flask`.
+*   [beaker (⭐98)](https://github.com/algorand-devrel/beaker) - A tool for smart contract development on the Algorand blockchain. Inspired by `flask`.
 
 ### Projects / Wallets
 
@@ -298,7 +298,7 @@
 
 ### Zinit (né zplugin)
 
-*   [BlaCk-Void-Zsh (⭐327)](https://github.com/black7375/BlaCk-Void-Zsh) - :crystal\_ball: Awesome, customizable Zsh Starter Kit :stars::stars:. Includes powerline, [fzf (⭐58k)](https://github.com/junegunn/fzf) integration, Weather and image viewing in some terminals.
+*   [BlaCk-Void-Zsh (⭐328)](https://github.com/black7375/BlaCk-Void-Zsh) - :crystal\_ball: Awesome, customizable Zsh Starter Kit :stars::stars:. Includes powerline, [fzf (⭐58k)](https://github.com/junegunn/fzf) integration, Weather and image viewing in some terminals.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -307,7 +307,7 @@
 *   [git-worktree (⭐21)](https://github.com/alexiszamanidis/zsh-git-worktree) - Wraps some `git worktree` operations for simplicity and productivity. Includes [fzf (⭐58k)](https://github.com/junegunn/fzf) tooling.
 *   [last-working-directory (⭐7)](https://github.com/mdumitru/last-working-dir) - Broken out copy of the version in [oh-my-zsh](http://ohmyz.sh/). Keeps track of the last used working directory and automatically jumps into it for new shells.
 *   [media-sync (⭐0)](https://github.com/redxtech/zsh-media-sync) - A plugin to facilitate copying media between two `rclone` locations.
-*   [mysql-colorize (⭐98)](https://github.com/zpm-zsh/mysql-colorize) - Adds color for `mysql` tables.
+*   [mysql-colorize (⭐99)](https://github.com/zpm-zsh/mysql-colorize) - Adds color for `mysql` tables.
 *   [mysql (⭐17)](https://github.com/voronkovich/mysql.plugin.zsh) - Adds some functions for dealing with `mysql`.
 *   [node-path (⭐3)](https://github.com/andyrichardson/zsh-node-path) - Automatically adds the `npm` bin of your current directory to your `$PATH`.
 *   [nodenv (c-uo) (⭐0)](https://github.com/C-uo/zsh-nodenv) - Looks for `nodenv` in your working directory and loads it when found.
@@ -317,16 +317,16 @@
 *   [project (gko) (⭐19)](https://github.com/gko/project) - Create node/python/ruby projects both locally and on GitHub (private or public repository).
 *   [rbenv (meroje) (⭐2)](https://github.com/Meroje/zsh-rbenv) - Inspired by [https://github.com/lukechilds/zsh-nvm/ (⭐2.1k)](https://github.com/lukechilds/zsh-nvm/), makes it easier to work with ruby `rbenv` environments.
 *   [session-sauce (⭐28)](https://github.com/ChrisPenner/session-sauce) - An [fzf (⭐58k)](https://github.com/junegunn/fzf) interface for tmux session creation and management for all your projects.
-*   [zpy (⭐48)](https://github.com/AndydeCleyre/zpy) - Manage Python Environments, dependencies, and isolated app installations, with a ZSH frontend to [pip-tools (⭐7.3k)](https://github.com/jazzband/pip-tools).
+*   [zpy (⭐48)](https://github.com/AndydeCleyre/zpy) - Manage Python Environments, dependencies, and isolated app installations, with a ZSH frontend to [pip-tools (⭐7.4k)](https://github.com/jazzband/pip-tools).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [aws\_manager completions (⭐2)](https://github.com/EslamElHusseiny/aws_manager_plugin) - Add completions for the `aws_manager` CLI.
 *   [brew-services (⭐19)](https://github.com/vasyharan/zsh-brew-services) - Completion plugin for [homebrew](https://brew.sh) services.
 *   [cabal (d12frosted) (⭐0)](https://github.com/d12frosted/cabal.plugin.zsh) - Adds autocompletion for cabal.
-*   [carapace (⭐158)](https://github.com/rsteube/carapace) - Completion generator for Bash, Elvish, Fish, Oil, Powershell, Xonsh and ZSH. Note - this does not automatically generate completions as needed, you have to explicitly run it to generate completions for a command.
-*   [cargo (⭐25)](https://github.com/MenkeTechnologies/zsh-cargo-completion) - All the functionality of the original oh-my-zsh cargo completion, with additional support for remote crates via `cargo search` in `cargo add`.
-*   [kubectl-fzf (⭐426)](https://github.com/bonnefoa/kubectl-fzf) - Fast and powerful [fzf (⭐58k)](https://github.com/junegunn/fzf)-powered autocompletion for `kubectl`.
+*   [carapace (⭐170)](https://github.com/rsteube/carapace) - Completion generator for Bash, Elvish, Fish, Oil, Powershell, Xonsh and ZSH. Note - this does not automatically generate completions as needed, you have to explicitly run it to generate completions for a command.
+*   [cargo (⭐26)](https://github.com/MenkeTechnologies/zsh-cargo-completion) - All the functionality of the original oh-my-zsh cargo completion, with additional support for remote crates via `cargo search` in `cargo add`.
+*   [kubectl-fzf (⭐428)](https://github.com/bonnefoa/kubectl-fzf) - Fast and powerful [fzf (⭐58k)](https://github.com/junegunn/fzf)-powered autocompletion for `kubectl`.
 *   [kubectl-plugin (⭐12)](https://github.com/MartinSimango/kubectl-plugin_completion) - Generates `kubectl` completion scripts to extend the `kubectl` auto complete functionality to accomodate for plugin sub-commands.
 *   [rancher (⭐9)](https://github.com/go/rancher-zsh-completion) - Add completions for the Rancher CLI.
 *   [test-kitchen (⭐7)](https://github.com/pelletiermaxime/test-kitchen-zsh-plugin) - Add completions for [Test Kitchen (⭐1.9k)](https://github.com/test-kitchen/test-kitchen)).
@@ -618,15 +618,15 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [LiveStreamDVR (⭐278)](https://github.com/MrBrax/LiveStreamDVR) `⚠` - An automatic Twitch recorder capable of capturing live streams, chat messages and stream metadata. `MIT` `Python/Nodejs/Docker`
+*   [LiveStreamDVR (⭐282)](https://github.com/MrBrax/LiveStreamDVR) `⚠` - An automatic Twitch recorder capable of capturing live streams, chat messages and stream metadata. `MIT` `Python/Nodejs/Docker`
 
 ### Software / Calendar & Contacts
 
-*   [Xandikos (⭐360)](https://github.com/jelmer/xandikos) - Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. `GPL-3.0` `Python/deb`
+*   [Xandikos (⭐367)](https://github.com/jelmer/xandikos) - Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. `GPL-3.0` `Python/deb`
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Shhh (⭐356)](https://github.com/smallwat3r/shhh) - Keep secrets out of emails or chat logs, share them using secure links with passphrase and expiration dates. `MIT` `Python`
+*   [Shhh (⭐357)](https://github.com/smallwat3r/shhh) - Keep secrets out of emails or chat logs, share them using secure links with passphrase and expiration dates. `MIT` `Python`
 *   [Zulip](https://zulip.org) - Zulip is a powerful, open source group chat application. ([Source Code (⭐19k)](https://github.com/zulip/zulip)) `Apache-2.0` `Python`
 
 ### Software / Communication - IRC
@@ -639,7 +639,7 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [cmyflix (⭐158)](https://github.com/farfalleflickan/cmyflix) `⚠` - Self-hosted, super lightweight Netflix alternative. `AGPL-3.0` `C`
+*   [cmyflix (⭐160)](https://github.com/farfalleflickan/cmyflix) `⚠` - Self-hosted, super lightweight Netflix alternative. `AGPL-3.0` `C`
 
 ### Software / Miscellaneous
 
@@ -716,16 +716,16 @@
 
 ### Utility / Diagnostics
 
-*   [xiyaowong/link-visitor.nvim (⭐45)](https://github.com/xiyaowong/link-visitor.nvim) - Let me help you open the links.
-*   [sitiom/nvim-numbertoggle (⭐122)](https://github.com/sitiom/nvim-numbertoggle) - Neovim plugin to automatically toggle between relative and absolute line numbers.
+*   [xiyaowong/link-visitor.nvim (⭐46)](https://github.com/xiyaowong/link-visitor.nvim) - Let me help you open the links.
+*   [sitiom/nvim-numbertoggle (⭐125)](https://github.com/sitiom/nvim-numbertoggle) - Neovim plugin to automatically toggle between relative and absolute line numbers.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [kkharji/sqlite.lua (⭐427)](https://github.com/kkharji/sqlite.lua) - SQLite/LuaJIT binding for Lua and Neovim.
+*   [kkharji/sqlite.lua (⭐430)](https://github.com/kkharji/sqlite.lua) - SQLite/LuaJIT binding for Lua and Neovim.
 
 ### Session / Diagnostics
 
-*   [olimorris/persisted.nvim (⭐351)](https://github.com/olimorris/persisted.nvim) - Simple session management with git branching, autosave/autoload and Telescope support.
+*   [olimorris/persisted.nvim (⭐355)](https://github.com/olimorris/persisted.nvim) - Simple session management with git branching, autosave/autoload and Telescope support.
 
 ## [45. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 

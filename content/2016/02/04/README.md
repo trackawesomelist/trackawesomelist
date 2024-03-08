@@ -40,7 +40,7 @@
 
 ### Standalone apps / Playground
 
-*   :octocat: [Visual Studio Code (⭐154k)](https://github.com/Microsoft/vscode) - Multiplatform IDE.
+*   :octocat: [Visual Studio Code (⭐157k)](https://github.com/Microsoft/vscode) - Multiplatform IDE.
 
 ## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

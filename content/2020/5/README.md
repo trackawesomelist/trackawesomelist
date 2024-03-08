@@ -1471,7 +1471,7 @@
 
 ### Migration
 
-*   🍰 [Migrations plugin (⭐131)](https://github.com/cakephp/migrations) - (DB) Migration plugin.
+*   🍰 [Migrations plugin (⭐132)](https://github.com/cakephp/migrations) - (DB) Migration plugin.
 
 ### ORM / Database / Datamapping
 
@@ -1479,7 +1479,7 @@
 
 ### REST and API
 
-*   🍰 [CakeDC/Api plugin (⭐60)](https://github.com/CakeDC/cakephp-api) - All-in-one solution to provide a complete API. It includes versioning, renderers, CRUD, authentication, extensions (paginate, filter, HATEOAS), and much more.
+*   🍰 [CakeDC/Api plugin (⭐61)](https://github.com/CakeDC/cakephp-api) - All-in-one solution to provide a complete API. It includes versioning, renderers, CRUD, authentication, extensions (paginate, filter, HATEOAS), and much more.
 
 ## [44. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 

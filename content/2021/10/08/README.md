@@ -108,7 +108,7 @@
 
 ### Libraries/Frameworks / Configuration
 
-*   [uchuhimo/konf (⭐305)](https://github.com/uchuhimo/konf) - A type-safe cascading configuration library for Kotlin/Java, supporting most configuration formats
+*   [uchuhimo/konf (⭐304)](https://github.com/uchuhimo/konf) - A type-safe cascading configuration library for Kotlin/Java, supporting most configuration formats
 
 ## [11. Awesome Security](/content/sbilly/awesome-security/README.md)
 

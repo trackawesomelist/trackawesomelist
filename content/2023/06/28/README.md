@@ -148,7 +148,7 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 ### Programming Languages / [Other](#other-1)
 
-*   [Regal (⭐195)](https://github.com/styrainc/regal) — Regal is a linter for the policy language Rego. Regal aims to catch bugs and mistakes in policy code, while at the same time helping people learn the language, best practices and idiomatic constructs.
+*   [Regal (⭐203)](https://github.com/styrainc/regal) — Regal is a linter for the policy language Rego. Regal aims to catch bugs and mistakes in policy code, while at the same time helping people learn the language, best practices and idiomatic constructs.
 
 ---
 

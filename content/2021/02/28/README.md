@@ -63,7 +63,7 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Oblecto (⭐158)](https://github.com/robinp7720/Oblecto) `⚠` - Media server for Movies and TV Shows with a responsive Vue.js frontend. It has robust transcoding support as well as federation capabilities to share your library with your friends. `AGPL-3.0` `Nodejs`
+*   [Oblecto (⭐160)](https://github.com/robinp7720/Oblecto) `⚠` - Media server for Movies and TV Shows with a responsive Vue.js frontend. It has robust transcoding support as well as federation capabilities to share your library with your friends. `AGPL-3.0` `Nodejs`
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

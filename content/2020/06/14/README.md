@@ -28,7 +28,7 @@
 
 ### Third-Party Packages / Admin
 
-*   [impostor (⭐149)](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
+*   [impostor (⭐150)](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
 
 ## [5. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 

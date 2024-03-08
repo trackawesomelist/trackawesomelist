@@ -34,7 +34,7 @@
 
 ### Third-Party Packages / Files/Images
 
-*   [django-pictures (⭐191)](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
+*   [django-pictures (⭐199)](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
 
 ---
 

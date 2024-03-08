@@ -64,7 +64,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Darkwire.io (⭐854)](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat. `MIT` `Nodejs`
+*   [Darkwire.io (⭐861)](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat. `MIT` `Nodejs`
 
 ### Software / Communication - Email - Complete Solutions
 
@@ -76,7 +76,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [goploader (⭐263)](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant. `MIT` `Go`
+*   [goploader (⭐266)](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant. `MIT` `Go`
 
 ### Software / Personal Dashboards
 
@@ -343,7 +343,7 @@
 
 ### Installation Media / Discovery
 
-*   [nixos-up (⭐204)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
+*   [nixos-up (⭐206)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
 
 ## [29. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
@@ -533,7 +533,7 @@
 
 ### Queries
 
-*   [dasel (⭐4.7k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐28k)](https://github.com/jqlang/jq) / [yq (⭐2.4k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
+*   [dasel (⭐4.8k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐28k)](https://github.com/jqlang/jq) / [yq (⭐2.4k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 *   [JMESPath](https://jmespath.org/) - A query language for JSON.
 *   [JSONiq](https://www.jsoniq.org/) - The JSON Query Language.
 *   [JSONata](https://jsonata.org/) - Query and transformation language used in Node-RED, supports function expressions.
@@ -814,8 +814,8 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [RRethy/nvim-base16 (⭐442)](https://github.com/RRethy/nvim-base16) - Neovim plugin for building base16 colorschemes. Includes support for Treesitter and LSP highlight groups.
-*   [fenetikm/falcon (⭐688)](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
+*   [RRethy/nvim-base16 (⭐445)](https://github.com/RRethy/nvim-base16) - Neovim plugin for building base16 colorschemes. Includes support for Treesitter and LSP highlight groups.
+*   [fenetikm/falcon (⭐692)](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
 
 ## [51. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 

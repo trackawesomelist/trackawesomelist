@@ -584,6 +584,55 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [How moving from Pandas to Polars made me write better code without writing better code](https://dev.to/check/how-moving-from-pandas-to-polars-made-me-write-better-code-without-writing-better-code-52bl) - A post that describs the process of "Polarification" of code written with Pandas by [@duvenagep](https://github.com/duvenagep).
 *   [Revisiting a Classic Cheminformatics Paper with Polars: The Wiener Index](https://bertiewooster.github.io/2023/03/10/Revisiting-a-Classic-Cheminformatics-Paper-The-Wiener-Index.html) - A science blog post that uses Polars to track the information for the molecules in DataFrames by [@bertiewooster](https://github.com/bertiewooster).
 
+#### [45. Awesome Distraction Blocker](/content/stan8086/awesome-distraction-blocker/README.md)
+
+##### Apps and Tools / Windows
+
+*   [FocusWriter](https://gottcode.org/focuswriter/) - A distraction-free writing environment.
+*   [Cold Turkey](https://getcoldturkey.com/) - [Review](https://productivity.directory/cold-turkey) - Block distracting websites and applications.
+
+##### Apps and Tools / MacOS
+
+*   [SelfControl](https://selfcontrolapp.com/) - [Review](https://productivity.directory/selfcontrol) - A free and open-source application for Mac OS X that lets you block your own access to distracting websites.
+*   [HeyFocus](https://heyfocus.com/) - [Review](https://productivity.directory/heyfocus) - Block websites and applications to improve productivity.
+
+##### Apps and Tools / Linux
+
+*   [LeechBlock NG (⭐547)](https://github.com/proginosko/LeechBlockNG) - A simple productivity tool designed to block distracting websites.
+
+##### Apps and Tools / Browser Extensions
+
+*   [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji) - [Review](https://productivity.directory/stayfocusd) - Increase your productivity by limiting the amount of time spent on time-wasting websites.
+*   [Freedom](https://freedom.to/) - [Review](https://productivity.directory/freedom) - Block distractions on all of your devices.
+
+##### Apps and Tools / Mobile Apps
+
+*   [Forest](https://www.forestapp.cc/) - [Review](https://productivity.directory/forest) - Stay focused, be present, and turn your focused moments into a lovely forest.
+*   [Offtime](http://offtime.co/) - Disconnect from smartphone overuse.
+
+##### Articles and Guides / Mobile Apps
+
+*   [How to Block Distracting Websites: 3 Methods to Increase Productivity](https://example.com)
+*   [10 Tips for Reducing Distractions and Increasing Focus](https://example.com)
+
+##### Research Papers / Mobile Apps
+
+*   [Understanding and Developing Tools for Attention Management in Technology-Intensive Workplaces](https://example.com)
+
+##### Communities / Mobile Apps
+
+*   [Productivity Directory](https://productivity.directory/) - A directory for productivity tools and apps
+*   [Productivity Blog](https://blog.productivity.directory/) - Top blog on Productivity
+*   [r/productivity](https://www.reddit.com/r/productivity/) - The subreddit dedicated to productivity hacks and tips.
+*   [Focusmate Community](https://www.focusmate.com/community) - A virtual co-working community to increase accountability and focus.
+
+##### Contribution Guidelines / Mobile Apps
+
+*   Search previous suggestions before making a new one, as yours may be a duplicate.
+*   Suggested resources should be of high quality and well-documented.
+*   Comments on why the resource is worthwhile are encouraged.
+*   Make an individual pull request for each suggestion.
+
 ---
 
 - Next: [Feb 26 - Mar 03, 2024](&#x2F;content&#x2F;2024&#x2F;9&#x2F;README.md)
@@ -1078,6 +1127,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Ddd](/content/heynickc/awesome-ddd/README.md) - ([Source ⭐ 10K, 📝 01&#x2F;05 ](https://github.com/heynickc/awesome-ddd)) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 - [Awesome Design Principles](/content/robinstickel/awesome-design-principles/README.md) - ([Source ⭐ 446, 📝 21&#x2F;01&#x2F;09 ](https://github.com/robinstickel/awesome-design-principles)) - ✨ A curated list of awesome design principles
 - [Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md) - ([Source ⭐ 532, 📝 21&#x2F;06&#x2F;21 ](https://github.com/mislavcimpersak/awesome-dev-fun)) - A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.
+- [Awesome Distraction Blocker](/content/stan8086/awesome-distraction-blocker/README.md) - ([Source ⭐ 11, 📝 03&#x2F;08 ](https://github.com/stan8086/awesome-distraction-blocker)) - A curated list of top productivity distraction blocker apps
 - [Awesome Dtrace](/content/xen0l/awesome-dtrace/README.md) - ([Source ⭐ 141, 📝 17&#x2F;07&#x2F;21 ](https://github.com/xen0l/awesome-dtrace)) - A curated list of awesome DTrace books, articles, videos, tools and resources.
 - [Awesome Earth](/content/philsturgeon/awesome-earth/README.md) - ([Source ⭐ 1.3K, 📝 01&#x2F;11 ](https://github.com/philsturgeon/awesome-earth)) - "What can I do about the climate crisis?" Here are 326 things you can do.
 - [Awesome Economics](/content/antontarasenko/awesome-economics/README.md) - ([Source ⭐ 1K, 📝 23&#x2F;03&#x2F;14 ](https://github.com/antontarasenko/awesome-economics)) - A curated collection of links for economists

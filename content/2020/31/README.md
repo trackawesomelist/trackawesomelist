@@ -20,7 +20,7 @@
 
 ### Software / Password Managers
 
-*   [PassWall (⭐738)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Docker`
+*   [PassWall (⭐736)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Docker`
 
 ## [3. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
@@ -201,7 +201,7 @@
 
 ### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [Awesome ML/AI RSS feed (⭐120)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed) <sup>[736](https://t.me/s/aboutrss/736)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed)
+*   [Awesome ML/AI RSS feed (⭐130)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed) <sup>[736](https://t.me/s/aboutrss/736)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed)
 
 ### Telegram Groups / Channels / Crypto or Blockchain relevant
 
@@ -458,17 +458,17 @@
 *   [django-rest-framework (⭐27k)](https://github.com/encode/django-rest-framework) - Web APIs for Django.
 *   [django-cors-headers (⭐5.2k)](https://github.com/adamchainz/django-cors-headers) - If your back-end and front-end are on different servers, you need this.
 *   [dj-rest-auth (⭐1.5k)](https://github.com/jazzband/dj-rest-auth) - Authentication for Django Rest Framework.
-*   [django-rest-knox (⭐1k)](https://github.com/James1345/django-rest-knox) - Authentication Module for django-rest-auth.
+*   [django-rest-knox (⭐1.1k)](https://github.com/James1345/django-rest-knox) - Authentication Module for django-rest-auth.
 *   [djoser (⭐2.4k)](https://github.com/sunscrapers/djoser) - REST implementation of Django auth.
 *   [djaq (⭐70)](https://github.com/paul-wolf/djaq) - An instant remote API to Django models with a powerful query language.
-*   [django-rest-framework-simplejwt (⭐3.7k)](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF.
+*   [django-rest-framework-simplejwt (⭐3.8k)](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF.
 *   [django-webpack-loader (⭐2.5k)](https://github.com/owais/django-webpack-loader) - Transparently use webpack with Django.
 *   [drf-yasg (⭐3.3k)](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
 *   [graphene-django (⭐4.2k)](https://github.com/graphql-python/graphene-django) - GraphQL for Django.
 
 ### Projects / Boilerplate
 
-*   [cookiecutter-vue-django (⭐176)](https://github.com/ilikerobots/cookiecutter-vue-django) - Django + Vue starter project fusing Vue SFCs & Django Templates.
+*   [cookiecutter-vue-django (⭐177)](https://github.com/ilikerobots/cookiecutter-vue-django) - Django + Vue starter project fusing Vue SFCs & Django Templates.
 
 ## [36. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -697,7 +697,7 @@
 
 ### Tools / XML
 
-*   [denofn-selfhosted (⭐28)](https://github.com/denofn/denofn-selfhosted) - Self-hosted Deno functions, made with Deno and Docker.
+*   [denofn-selfhosted (⭐29)](https://github.com/denofn/denofn-selfhosted) - Self-hosted Deno functions, made with Deno and Docker.
 
 ## [48. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 

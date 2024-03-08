@@ -50,7 +50,7 @@
 *   [gawk --lint](https://www.gnu.org/software/gawk/manual/html_node/Options.html) — Warns about constructs that are dubious or nonportable to other awk implementations.
 *   [Astrée](https://www.absint.com/astree/index.htm) :copyright: — Astrée automatically proves the absence of runtime errors and invalid con­current behavior in C/C++ applications. It is sound for floating-point computations, very fast, and exceptionally precise. The analyzer also checks for MISRA/CERT/CWE/Adaptive Autosar coding rules and supports qualification for ISO 26262, DO-178C level A, and other safety standards. Jenkins and Eclipse plugins are available.
 *   [.NET Analyzers](https://github.com/DotNetAnalyzers) — An organization for the development of analyzers (diagnostics and code fixes) using the .NET Compiler Platform.
-*   [clj-kondo (⭐1.6k)](https://github.com/borkdude/clj-kondo) — A linter for Clojure code that sparks joy. It informs you about potential errors while you are typing.
+*   [clj-kondo (⭐1.7k)](https://github.com/borkdude/clj-kondo) — A linter for Clojure code that sparks joy. It informs you about potential errors while you are typing.
 *   [ameba](https://crystal-ameba.github.io) — A static code analysis tool for Crystal.
 *   [Dart Code Metrics](https://pub.dev/packages/dart_code_metrics) — Additional linter for Dart. Reports code metrics, checks for anti-patterns and provides additional rules for Dart analyzer.
 *   [Fix Insight](https://www.tmssoftware.com/site/fixinsight.asp) :copyright: — A free IDE Plugin for static code analysis. A *Pro* edition includes a command line tool for automation purposes.
@@ -59,22 +59,22 @@
 
 ### Other / [Other](#other-1)
 
-*   [dawnscanner (⭐723)](https://github.com/thesp0nge/dawnscanner) — A static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
+*   [dawnscanner (⭐724)](https://github.com/thesp0nge/dawnscanner) — A static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
 *   [Angular ESLint (⭐1.5k)](https://github.com/angular-eslint/angular-eslint#readme) — Linter for Angular projects
 *   [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
 *   [AzSK](https://azsk.azurewebsites.net/) — Secure DevOps kit for Azure (AzSK) provides security IntelliSense, Security Verification Tests (SVTs), CICD scan vulnerabilities, compliance issues, and infrastructure misconfiguration in your infrastructure-as-code. Supports Azure via ARM.
 *   [Twiggy](https://rustwasm.github.io/twiggy) — Analyzes a binary's call graph to profile code size. The goal is to slim down wasm binary size.
-*   [checkmake (⭐969)](https://github.com/mrtazz/checkmake) — Linter / Analyzer for Makefiles.
+*   [checkmake (⭐976)](https://github.com/mrtazz/checkmake) — Linter / Analyzer for Makefiles.
 *   [metadata-json-lint (⭐28)](https://github.com/voxpupuli/metadata-json-lint) — Tool to check the validity of Puppet metadata.json files.
 *   [deno\_lint (⭐1.5k)](https://github.com/denoland/deno_lint) — Official linter for Deno.
-*   [oelint-adv (⭐47)](https://github.com/priv-kweihmann/oelint-adv) — Linter for bitbake recipes used in open-embedded and YOCTO
-*   [gherkin-lint (⭐165)](https://github.com/vsiakka/gherkin-lint) — A linter for the Gherkin-Syntax written in Javascript.
+*   [oelint-adv (⭐49)](https://github.com/priv-kweihmann/oelint-adv) — Linter for bitbake recipes used in open-embedded and YOCTO
+*   [gherkin-lint (⭐168)](https://github.com/vsiakka/gherkin-lint) — A linter for the Gherkin-Syntax written in Javascript.
 *   [HTML-Validate](https://html-validate.org/) — Offline HTML5 validator.
-*   [chart-testing (⭐1.1k)](https://github.com/helm/chart-testing) — ct is the the tool for testing Helm charts.  It is meant to be used for linting and testing pull requests.  It automatically detects charts changed against the target branch.
+*   [chart-testing (⭐1.2k)](https://github.com/helm/chart-testing) — ct is the the tool for testing Helm charts.  It is meant to be used for linting and testing pull requests.  It automatically detects charts changed against the target branch.
 *   [ChkTeX](http://www.nongnu.org/chktex) — A linter for LaTex which catches some typographic errors LaTeX oversees.
 *   [markdownlint (⭐4.3k)](https://github.com/DavidAnson/markdownlint) — Node.js -based style checker and lint tool for Markdown/CommonMark files.
 *   [Android Lint](http://tools.android.com/tips/lint) — Run static analysis on Android projects.
-*   [deadnix (⭐361)](https://github.com/astro/deadnix) — Scan Nix files for dead code (unused variable bindings)
+*   [deadnix (⭐369)](https://github.com/astro/deadnix) — Scan Nix files for dead code (unused variable bindings)
 *   [lintian](https://lintian.debian.org) — Static analysis tool for Debian packages.
 *   [buf](https://buf.build) — Provides a CLI linter that enforces good API design choices and structure
 *   [mythril (⭐3.7k)](https://github.com/ConsenSys/mythril) — A symbolic execution framework with batteries included, can be used to find and exploit vulnerabilities in smart contracts automatically.
@@ -90,14 +90,14 @@
 *   [go-tools (⭐5.8k)](https://github.com/dominikh/go-tools) — A collection of tools and libraries for working with Go code, including linters and static analysis
 *   [linters (⭐339)](https://github.com/mcandre/linters) — An introduction to static code analysis
 *   [OWASP Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) — List of tools maintained by the Open Web Application Security Project
-*   [php-static-analysis-tools (⭐2.7k)](https://github.com/exakat/php-static-analysis-tools) — A reviewed list of useful PHP static analysis tools
+*   [php-static-analysis-tools (⭐2.8k)](https://github.com/exakat/php-static-analysis-tools) — A reviewed list of useful PHP static analysis tools
 *   [Wikipedia](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) — A list of tools for static code analysis.
 
 ## [5. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Internationalisation / Checkbox
 
-*   [@tolgee/svelte (⭐208)](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
+*   [@tolgee/svelte (⭐210)](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
 
 ## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 

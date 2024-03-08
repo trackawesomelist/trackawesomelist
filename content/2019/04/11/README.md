@@ -50,10 +50,10 @@
 
 ### Visualization
 
-*   [ipytree (⭐116)](https://github.com/QuantStack/ipytree/) - Tree UI element for Jupyter.
-*   [xleaflet (⭐78)](https://github.com/QuantStack/xleaflet) - C++ Backend for ipyleaflet.
+*   [ipytree (⭐124)](https://github.com/QuantStack/ipytree/) - Tree UI element for Jupyter.
+*   [xleaflet (⭐83)](https://github.com/QuantStack/xleaflet) - C++ Backend for ipyleaflet.
 *   [xwebrtc (⭐14)](https://github.com/QuantStack/xwebrtc) - C++ Backend for ipywebrtc.
-*   [xwidgets (⭐133)](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
+*   [xwidgets (⭐135)](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
 
 ## [8. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
@@ -89,7 +89,7 @@
 
 *   [Vue Router](https://router.vuejs.org/) - [🐙 (⭐19k)](https://github.com/vuejs/vue-router) - Vue Router is the official router for Vue.js.
 *   [Vue CLI](https://cli.vuejs.org/) - [🐙 (⭐30k)](https://github.com/vuejs/vue-cli) - An approachable core library that focuses on the view layer only.
-*   [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙 (⭐110k)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+*   [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙 (⭐111k)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
 *   [electron-builder](https://www.electron.build) - [🐙 (⭐13k)](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box.
 *   [Vuex](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 (⭐60k)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
 *   [Vue.js & Electron: The easy way. – Mikeal](https://medium.com/@mikeal/vue-js-electron-the-easy-way-adc3ca09234a)

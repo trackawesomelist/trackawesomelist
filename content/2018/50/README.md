@@ -290,7 +290,7 @@
 
 ### Games / Apache License
 
-*   [co-terminal-apps (⭐26)](https://github.com/fastrgv/CoTerminalApps) - Retro Games that run in a terminal on any platform.
+*   [co-terminal-apps (⭐27)](https://github.com/fastrgv/CoTerminalApps) - Retro Games that run in a terminal on any platform.
 
 ### Components / Apache License
 

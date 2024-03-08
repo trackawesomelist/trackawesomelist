@@ -10,7 +10,7 @@
 
 ### Projects / Boilerplate
 
-*   [launchr (⭐224)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
+*   [launchr (⭐225)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
 
 ## [2. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 

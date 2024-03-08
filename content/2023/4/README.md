@@ -54,7 +54,7 @@
 
 ### Language / Diagnostics
 
-*   [niuiic/translate.nvim (⭐30)](https://github.com/niuiic/translate.nvim) - Invoke any translation engine via shell command.
+*   [niuiic/translate.nvim (⭐31)](https://github.com/niuiic/translate.nvim) - Invoke any translation engine via shell command.
 
 ## [9. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
@@ -124,7 +124,7 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Wwise (⭐233)](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
+*   [Wwise (⭐235)](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
 
 ## [17. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -320,7 +320,7 @@
 
 ### Mathematics / Waveform Generator
 
-*   [uMath (⭐16)](https://github.com/albaEDA/uMath) - Computer Algebra for microcontrollers.
+*   [uMath (⭐17)](https://github.com/albaEDA/uMath) - Computer Algebra for microcontrollers.
 
 ### Sensors / Temperature Digital
 
@@ -343,11 +343,11 @@
 ### IDEs / SRAM
 
 *   [BIPES](https://bipes.net.br/ide/) - Web-based IDE for MicroPython with file manager, editor, code generation from blocks, IoT dashboard and Serial/USB/Bluetooth/WebREPL console on the web browser. Source: <https://github.com/BIPES>.
-*   [ESP32-MPY-Jama (⭐356)](https://github.com/jczic/ESP32-MPY-Jama) - Tool for managing Espressif ESP32 microcontrollers with MicroPython.
+*   [ESP32-MPY-Jama (⭐361)](https://github.com/jczic/ESP32-MPY-Jama) - Tool for managing Espressif ESP32 microcontrollers with MicroPython.
 
 ### Logging / SRAM
 
-*   [micropython-ulogger (⭐31)](https://github.com/whales-chen/micropython-ulogger) - Lightweight log module customized for MicroPython.
+*   [micropython-ulogger (⭐33)](https://github.com/whales-chen/micropython-ulogger) - Lightweight log module customized for MicroPython.
 
 ### Shells / On Host
 
@@ -413,22 +413,22 @@
 
 ### Software / Document Management
 
-*   [Paperless-ngx](https://docs.paperless-ngx.com/) - Scan, index, and archive all of your paper documents with an improved interface (fork of Paperless). ([Demo](https://demo.paperless-ngx.com/), [Source Code (⭐15k)](https://github.com/paperless-ngx/paperless-ngx)) `GPL-3.0` `Python/Docker`
+*   [Paperless-ngx](https://docs.paperless-ngx.com/) - Scan, index, and archive all of your paper documents with an improved interface (fork of Paperless). ([Demo](https://demo.paperless-ngx.com/), [Source Code (⭐16k)](https://github.com/paperless-ngx/paperless-ngx)) `GPL-3.0` `Python/Docker`
 
 ### Software / E-commerce
 
 *   [Magento Open Source (⭐11k)](https://github.com/magento/magento2) - Leading provider of open omnichannel innovation. `OSL-3.0` `PHP`
 *   [Mailchimp Open Commerce](https://mailchimp.com/developer/open-commerce/) - Customizable, real-time reactive, Javascript commerce platform (formerly Reaction Commerce). ([Source Code (⭐12k)](https://github.com/reactioncommerce/reaction)) `GPL-3.0` `Nodejs`
 *   [Open Source POS (⭐3.2k)](https://github.com/opensourcepos/opensourcepos) - Open Source Point of Sale is a web based point of sale system. `MIT` `PHP`
-*   [OXID eShop](https://oxidforge.org/en/) - OXID eShop is a flexible open source e-commerce software with a wide range of functionalities. ([Source Code (⭐218)](https://github.com/OXID-eSales/oxideshop_ce)) `GPL-3.0` `PHP`
+*   [OXID eShop](https://oxidforge.org/en/) - OXID eShop is a flexible open source e-commerce software with a wide range of functionalities. ([Source Code (⭐234)](https://github.com/OXID-eSales/oxideshop_ce)) `GPL-3.0` `PHP`
 
 ### Software / Feed Readers
 
-*   [Kriss Feed (⭐276)](https://github.com/tontof/kriss_feed) - Simple and smart (or stupid) feed reader. `CC0-1.0` `PHP`
+*   [Kriss Feed (⭐277)](https://github.com/tontof/kriss_feed) - Simple and smart (or stupid) feed reader. `CC0-1.0` `PHP`
 
 ### Software / Software Development - API Management
 
-*   [Yaade](https://docs.yaade.io/) - Yaade is an open-source, self-hosted, collaborative API development environment. ([Source Code (⭐1.3k)](https://github.com/EsperoTech/yaade)) `MIT` `Docker`
+*   [Yaade](https://docs.yaade.io/) - Yaade is an open-source, self-hosted, collaborative API development environment. ([Source Code (⭐1.4k)](https://github.com/EsperoTech/yaade)) `MIT` `Docker`
 
 ### Software / Software Development - FaaS & Serverless
 
@@ -622,7 +622,7 @@
 
 ### Multimedia
 
-*   [Easy Effects (⭐5.6k)](https://github.com/wwmm/easyeffects) -  Audio effects for PipeWire applications .
+*   [Easy Effects (⭐5.7k)](https://github.com/wwmm/easyeffects) -  Audio effects for PipeWire applications .
 
 ### System and Customization
 
@@ -630,7 +630,7 @@
 
 ### Applets / Design Tooling
 
-*   [RunCat (⭐363)](https://github.com/win0err/gnome-runcat) — The cat tells you the CPU usage by running speed.
+*   [RunCat (⭐366)](https://github.com/win0err/gnome-runcat) — The cat tells you the CPU usage by running speed.
 
 ## [46. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -695,7 +695,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ez-cmd (⭐1)](https://github.com/akgarhwal/ez-cmd) - Simplifies and streamlines common command-line tasks by providing easy-to-use shortcuts and aliases.
-*   [multi-evalcache (⭐0)](https://github.com/rwwiv/multi-evalcache) - Cache multiple eval loads to improve startup time, inspired by [mroth/evalcache (⭐164)](https://github.com/mroth/evalcache).
+*   [multi-evalcache (⭐0)](https://github.com/rwwiv/multi-evalcache) - Cache multiple eval loads to improve startup time, inspired by [mroth/evalcache (⭐167)](https://github.com/mroth/evalcache).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

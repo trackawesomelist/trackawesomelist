@@ -37,7 +37,7 @@
 
 ### Utility / Diagnostics
 
-*   [figsoda/nix-develop.nvim (⭐46)](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting Neovim.
+*   [figsoda/nix-develop.nvim (⭐49)](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting Neovim.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Modules / Various Godot versions
 
-*   [godot-luaAPI (⭐278)](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua (Godot 3.2+, 4.0).
+*   [godot-luaAPI (⭐294)](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua (Godot 3.2+, 4.0).
 
 ## [7. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Learning Resources / Natural language processing
 
-*   [NLP course](https://lena-voita.github.io/nlp_course.html) and associated [GitHub repo (⭐9.2k)](https://github.com/yandexdataschool/nlp_course#readme) – by Elena Voita
+*   [NLP course](https://lena-voita.github.io/nlp_course.html) and associated [GitHub repo (⭐9.3k)](https://github.com/yandexdataschool/nlp_course#readme) – by Elena Voita
 *   [NLP accelerated class](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw) – by Machine Learning University
 *   [Overview of deep learning techniques applied to NLP (2018)](https://nlpoverview.com/index.html)
 *   [Deep Learning for NLP](https://machinelearningmastery.com/category/natural-language-processing/) – from Machine Learning Mastery

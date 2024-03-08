@@ -51,11 +51,11 @@
 
 ### Software / Communication - Video Conferencing
 
-*   [Galene](https://galene.org/) - Galène (or Galene) is a videoconference server (an “SFU”) that is easy to deploy and that requires moderate server resources. ([Source Code (⭐836)](https://github.com/jech/galene)) `MIT` `Go`
+*   [Galene](https://galene.org/) - Galène (or Galene) is a videoconference server (an “SFU”) that is easy to deploy and that requires moderate server resources. ([Source Code (⭐841)](https://github.com/jech/galene)) `MIT` `Go`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Audiobookshelf](https://www.audiobookshelf.org/) - Fully open-source self-hosted audiobook and podcast server. It streams all audio formats, keeps and syncs progress across devices. Comes with open-source apps for Android and iOS. ([Source Code (⭐4.7k)](https://github.com/advplyr/audiobookshelf), [Clients (⭐820)](https://github.com/advplyr/audiobookshelf-app)) `GPL-3.0` `Docker/deb/Nodejs`
+*   [Audiobookshelf](https://www.audiobookshelf.org/) - Fully open-source self-hosted audiobook and podcast server. It streams all audio formats, keeps and syncs progress across devices. Comes with open-source apps for Android and iOS. ([Source Code (⭐4.8k)](https://github.com/advplyr/audiobookshelf), [Clients (⭐868)](https://github.com/advplyr/audiobookshelf-app)) `GPL-3.0` `Docker/deb/Nodejs`
 
 ### Software / Media Streaming - Video Streaming
 
@@ -68,7 +68,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [Coder](https://coder.com/) - Remote development machines on your own infrastructure. ([Source Code (⭐6.3k)](https://github.com/coder/coder)) `AGPL-3.0` `Go/Docker/K8S/deb`
+*   [Coder](https://coder.com/) - Remote development machines on your own infrastructure. ([Source Code (⭐6.5k)](https://github.com/coder/coder)) `AGPL-3.0` `Go/Docker/K8S/deb`
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

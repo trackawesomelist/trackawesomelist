@@ -36,10 +36,6 @@
 
 *   [PHPPowerPoint (⭐1.3k)](https://github.com/PHPOffice/PHPPresentation) - A library for working with Microsoft PowerPoint Presentations.
 
-### Table of Contents / Command Line
-
-*   [Boris (⭐2.2k)](https://github.com/borisrepl/boris) - A tiny PHP REPL.
-
 ### Table of Contents / Caching and Locking
 
 *   [Stash (⭐952)](https://github.com/tedious/Stash) - Another library for caching.
@@ -59,10 +55,6 @@
 ### Configuration / Web Applications
 
 *   [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
-
-### Configuration / PHP Books
-
-*   [PHP 7 Upgrade Guide](https://leanpub.com/php7) - An ebook covering all of the features and changes in PHP 7 by Colin O'Dell.
 
 ## [3. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 

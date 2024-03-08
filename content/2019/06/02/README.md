@@ -40,7 +40,7 @@
 
 ### Development tools / Web Servers
 
-*   [Module Linker (⭐248)](https://github.com/fiatjaf/module-linker) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
+*   [Module Linker (⭐249)](https://github.com/fiatjaf/module-linker) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
 
 ## [5. Awesome React](/content/enaqx/awesome-react/README.md)
 

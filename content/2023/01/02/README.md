@@ -22,17 +22,17 @@
 
 ### Virtualisation / Discovery
 
-*   [extra-container (⭐173)](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers from the command line.
-*   [microvm (⭐860)](https://github.com/astro/microvm.nix) - NixOS-based MicroVMs.
+*   [extra-container (⭐174)](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers from the command line.
+*   [microvm (⭐898)](https://github.com/astro/microvm.nix) - NixOS-based MicroVMs.
 
 ### Command-Line Tools / Discovery
 
-*   [nurl (⭐331)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
+*   [nurl (⭐341)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
 
 ### Development / Discovery
 
-*   [nil (⭐975)](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
-*   [nix-update (⭐331)](https://github.com/Mic92/nix-update) - Update versions/source hashes of nix packages.
+*   [nil (⭐1k)](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
+*   [nix-update (⭐354)](https://github.com/Mic92/nix-update) - Update versions/source hashes of nix packages.
 
 ## [4. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 

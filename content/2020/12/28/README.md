@@ -107,7 +107,7 @@
 
 ### Other Awesomes / Ephemera
 
-*   [awesome-3d-engines-for-plotters (⭐73)](https://github.com/msurguy/awesome-3d-engines-for-plotters)
+*   [awesome-3d-engines-for-plotters (⭐76)](https://github.com/msurguy/awesome-3d-engines-for-plotters)
 
 ---
 

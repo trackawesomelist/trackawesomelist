@@ -416,25 +416,21 @@
 
 ## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Blockchain Explorers
-
-*   [Algoscan](https://algoscan.app/) - Algoscan is a Blockchain Explorer and Analytics Platform. Built on top of the Algorand Network.
-
 ### Languages / Dart
 
 *   [dart-algorand-sdk](https://pub.dev/packages/algorand_dart) - Dart Algorand SDK.
 
 ### Languages / .NET
 
-*   [unity-algorand-sdk (⭐31)](https://github.com/CareBoo/unity-algorand-sdk) - An Algorand SDK for Unity. Use the Algorand blockchain in your video game.
+*   [unity-algorand-sdk (⭐30)](https://github.com/CareBoo/unity-algorand-sdk) - An Algorand SDK for Unity. Use the Algorand blockchain in your video game.
 
 ### Projects / Wallets
 
-*   [galvanity (⭐8)](https://github.com/shmutalov/galvanity) - Galvanity is Algorand vanity address generator written in Go.
+*   [galvanity (⭐9)](https://github.com/shmutalov/galvanity) - Galvanity is Algorand vanity address generator written in Go.
 
 ### NFT Marketplaces / Wallets
 
-*   [AlgoMart (⭐182)](https://github.com/deptagency/algomart) - Opensource NFT marketplace whitelabel solution.
+*   [AlgoMart (⭐181)](https://github.com/deptagency/algomart) - Opensource NFT marketplace whitelabel solution.
 *   [ALGOxNFT](https://algoxnft.com/listings/live) - NFT gallery and marketplace.
 *   [Dartroom](https://dartroom.xyz/overview) - Decentralized NFT explorer, minting and trading.
 *   [Alchemon](https://alchemon.net/) - Monster-collecting NFT card game.
@@ -459,7 +455,7 @@
 
 ### Specific topics / Public key cryptography: General and DLP
 
-*   [How to Share a Secret (⭐6)](https://github.com/arupmondal-cs/Crypto-Research/blob/master/Secret%20Sharing/shamirturing.pdf) - A safe method for sharing secrets.
+*   [How to Share a Secret (⭐8)](https://github.com/arupmondal-cs/Crypto-Research/blob/master/Secret%20Sharing/shamirturing.pdf) - A safe method for sharing secrets.
 
 ## [10. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 

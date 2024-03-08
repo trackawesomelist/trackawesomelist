@@ -10,7 +10,7 @@
 
 ### Development / Discovery
 
-*   [pre-commit-hooks.nix (⭐406)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
+*   [pre-commit-hooks.nix (⭐417)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 
 ## [2. Public Apis](/content/public-apis/public-apis/README.md)
 

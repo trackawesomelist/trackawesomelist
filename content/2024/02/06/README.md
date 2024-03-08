@@ -29,7 +29,7 @@
 
 ### Marks / Diagnostics
 
-*   [LintaoAmons/bookmarks.nvim (⭐32)](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful.
+*   [LintaoAmons/bookmarks.nvim (⭐37)](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful.
 
 ## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -61,9 +61,9 @@
 
 *   [Introduction to AI for GLAM](https://carpentries-incubator.github.io/machine-learning-librarians-archivists/) – by Library Carpentries
 
-### Datasets / Applications of Transformers, LLMs, and GPT
+### Datasets / Datasets available elsewhere
 
-*   [HTR datasets in Zenodo](https://zenodo.org/search?q=metadata.subjects.subject%3A%22handwritten%20text%20recognition%22\&l=list\&p=1\&s=10\&sort=bestmatch) – based on subject search in Zenodo
+*   [HTR datasets in Zenodo](https://zenodo.org/search?q=metadata.subjects.subject%3A%22handwritten%20text%20recognition%22\&l=list\&p=1\&s=10\&sort=bestmatch) – subject search in Zenodo
 
 ### Conferences and Workshops / Upcoming Conferences and Workshops
 

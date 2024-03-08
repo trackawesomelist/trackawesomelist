@@ -41,11 +41,11 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [prelude.ts (⭐374)](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators.
+*   :octocat: [prelude.ts (⭐375)](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators.
 
 ### Badges / Chrome Extensions
 
-*   [TypeScript Badges (⭐44)](https://github.com/ellerbrock/typescript-badges/)
+*   [TypeScript Badges (⭐45)](https://github.com/ellerbrock/typescript-badges/)
     [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/awesome/typescript125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/code/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/love/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/)
 
 ## [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)

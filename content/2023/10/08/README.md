@@ -23,7 +23,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [Flaxoos/flax-ktor-plugins (⭐27)](https://github.com/Flaxoos/flax-ktor-plugins) - A Ktor plugins repository for servers and clients, including a kafka client plugin, circuit breaker and more
+*   [Flaxoos/flax-ktor-plugins (⭐28)](https://github.com/Flaxoos/flax-ktor-plugins) - A Ktor plugins repository for servers and clients, including a kafka client plugin, circuit breaker and more
 
 ## [4. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Utility / Diagnostics
 
-*   [VidocqH/data-viewer.nvim (⭐64)](https://github.com/VidocqH/data-viewer.nvim) - Provide a simple table view to inspect data files such as `csv`, `tsv`.
+*   [VidocqH/data-viewer.nvim (⭐68)](https://github.com/VidocqH/data-viewer.nvim) - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 
 ---
 

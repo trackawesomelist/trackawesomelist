@@ -91,7 +91,7 @@
 
 ### Python / Git
 
-*   [ecdsa (⭐874)](https://github.com/tlsfuzzer/python-ecdsa) - An easy-to-use implementation of ECC with support for ECDSA and ECDH.
+*   [ecdsa (⭐880)](https://github.com/tlsfuzzer/python-ecdsa) - An easy-to-use implementation of ECC with support for ECDSA and ECDH.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 

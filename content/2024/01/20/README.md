@@ -39,7 +39,7 @@
 
 ### Office
 
-*   [RNote (⭐4.9k)](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
+*   [RNote (⭐5k)](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 
 ### Scientific Tooling
 
@@ -51,7 +51,7 @@
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Thunderbird GNOME Theme (⭐221)](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
+*   [Thunderbird GNOME Theme (⭐226)](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -69,7 +69,7 @@
 
 *   [Callico](https://teklia.com/blog/open-sourcing-callico/) – open-source web platform for document annotation
 *   [Distributed Annotation 'n' Enrichment (DANE) (⭐2)](https://github.com/CLARIAH/DANE#readme) – compute task assignment & file storage for automatic annotation of content ([CLARIAH](https://www.clariah.nl/about-clariah), Norway)
-*   [HTRFLOW demo](https://huggingface.co/spaces/Riksarkivet/htr_demo) and associated [GitHub repo (⭐22)](https://github.com/Swedish-National-Archives-AI-lab/htrflow_app) – explore AI models for Handwritten Text Recogntion (Swedish National Archives)
+*   [HTRFLOW demo](https://huggingface.co/spaces/Riksarkivet/htr_demo) and associated [GitHub repo (⭐23)](https://github.com/Swedish-National-Archives-AI-lab/htrflow_app) – explore AI models for Handwritten Text Recogntion (Swedish National Archives)
 *   [Label Studio](https://labelstud.io) – data labeling platform to fine-tune LLMs, prepare training data, or validate AI models
 *   [OCR correction](https://bnl.public.lu/en.html) – OCR correction tools (Bibliothèque nationale, Luxembourg)
 *   [Text models from the National Library of Sweden](https://huggingface.co/KBLab) – available on Hugging Face
@@ -80,7 +80,7 @@
 *   [Acoustic models from the National Library of Sweden](https://huggingface.co/KBLab) – available on Hugging Face
 *   [Audiovisual Metadata Platform (AMP)](https://uisapp2.iu.edu/confluence-prd/display/AMP/AMP%3A+Audiovisual+Metadata+Platform) – generation of metadata for discovery & use of digital audio & video collections (Indiana U., USA)
 *   [CAMPI](https://kilthub.cmu.edu/articles/preprint/CAMPI_Computer-Aided_Metadata_Generation_for_Photo_archives_Initiative/12791807) – Computer-Aided Metadata Generation for Photo archives Initiative (Carnegie Mellonw U., USA)
-*   [inaFaceAnalyzer (⭐14)](https://github.com/ina-foss/inaFaceAnalyzer#readme) – Python toolbox for face-based description of gender representation in media (Institut National de l'Audiovisuel, France)
+*   [inaFaceAnalyzer (⭐15)](https://github.com/ina-foss/inaFaceAnalyzer#readme) – Python toolbox for face-based description of gender representation in media (Institut National de l'Audiovisuel, France)
 *   [Newspaper Navigator](https://labs.loc.gov/work/experiments/newspaper-navigator/) – explore visual & textual content in the *Chronicling America* digitized newspaper collection (Library of Congress, USA)
 *   [Oodi](https://medium.com/headai-customer-stories/customer-story-oodi-1d1ef2554bb6) – virtual information assistant (Helsinki Central Library)
 *   [ReTV](https://retv-project.eu) – video analysis & summarization (Modul Univesrity, Austria)
@@ -100,14 +100,13 @@
 
 *   [BERTopic](https://maartengr.github.io/BERTopic/index.html) – topic modeling technique that leverages Transformers and c-TF-IDF
 *   [Chatbot for Luxembourgish newspapers](https://chat.eluxemburgensia.lu/login?next=/) – uses ChatGPT and understands French, German and English (Bibliothèque nationale de Luxembourg)
-*   [Norwegian Transformer Model (NoTraM) (⭐103)](https://github.com/NBAiLab/notram#readme) – transformer model for Norwegian and Nordic languages (National Library of Norway)
-*   [Swedish BERT (⭐134)](https://github.com/Kungbib/swedish-bert-models#readme) – BERT model for the Swedish language (Royal Library of Sweden)
+*   [Norwegian Transformer Model (NoTraM) (⭐105)](https://github.com/NBAiLab/notram#readme) – transformer model for Norwegian and Nordic languages (National Library of Norway)
+*   [Swedish BERT (⭐135)](https://github.com/Kungbib/swedish-bert-models#readme) – BERT model for the Swedish language (Royal Library of Sweden)
 *   [Visual AI](https://www.robots.ox.ac.uk/~vgg/projects/visualai/index.html) – open-world interpretable visual transformer (UK)
 
-### Datasets / Applications of Transformers, LLMs, and GPT
+### Datasets / Datasets available elsewhere
 
-*   [Datasets from the National Library of Sweden](https://huggingface.co/KBLab) – available on Hugging Face
-*   [Gensim datasets (⭐927)](https://github.com/piskvorky/gensim-data#readme) – repository of datasets for unstructured text processing
+*   [Gensim datasets (⭐929)](https://github.com/piskvorky/gensim-data#readme) – repository of datasets for unstructured text processing
 *   [HTR-United](https://htr-united.github.io) – datasets for training transcription or segmentation models
 *   [Kaggle datasets](https://www.kaggle.com/datasets)
 *   [nlp-datasets (⭐5.6k)](https://github.com/niderhoff/nlp-datasets#readme) – free/public domain datasets with text data for use in NLP
@@ -119,7 +118,7 @@
 *   [List of Artificial Intelligence (AI) initiatives in museums](https://docs.google.com/spreadsheets/d/1A7IVnucQZ0ICxYSOCjqQ1oV3xGgNzDKtIYGrk6smV7w/edit#gid=0) – compiled in 2021 by Elena Villaespesa, Oonagh Murphy and Kate Nadel for the [Museums+AI Network](https://themuseumsai.network) project.
 *   [Projects in AI Registry (PAIR)](https://libraries.ou.edu/content/project-highlight-projects-ai-registry-pair) – registry of AI projects in higher education (U. Oklahoma Libraries, USA)
 
-### Projects, Initiatives, and Case Studies / Projects by AI4LAM community members
+### Projects, Initiatives, and Case Studies / Select individual projects
 
 *   [Vatican Manuscripts](https://www.youtube.com/watch?v=8khPUtwaVaw) – machine transcription in the Vatican Secret Archive
 

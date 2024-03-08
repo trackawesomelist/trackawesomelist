@@ -366,14 +366,14 @@
 
 ### Developer Tools
 
-*   [Jupyter (⭐275)](https://github.com/akabe/ocaml-jupyter) – An OCaml kernel for the Jupyter notebook.
-*   [utop (⭐814)](https://github.com/ocaml-community/utop) – Universal toplevel for OCaml with support for multiline edition, history, real-time and context-sensitive completion, colors, and more.
-*   [ocamlformat (⭐588)](https://github.com/ocaml-ppx/ocamlformat) - A command-line tool to format OCaml code.
+*   [Jupyter (⭐276)](https://github.com/akabe/ocaml-jupyter) – An OCaml kernel for the Jupyter notebook.
+*   [utop (⭐819)](https://github.com/ocaml-community/utop) – Universal toplevel for OCaml with support for multiline edition, history, real-time and context-sensitive completion, colors, and more.
+*   [ocamlformat (⭐593)](https://github.com/ocaml-ppx/ocamlformat) - A command-line tool to format OCaml code.
 *   **Foreign Function Interface**:
-    *   [ctypes (⭐354)](https://github.com/ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
+    *   [ctypes (⭐357)](https://github.com/ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
     *   [ocaml-main-program-in-c (⭐16)](https://github.com/johnwhitington/ocaml-main-program-in-c) – Example build system for making mixed C/Ocaml binaries where the main program is in C.
     *   [Modular foreign function bindings](http://openmirage.org/blog/modular-foreign-function-bindings)
-    *   [Py.ml (⭐168)](https://github.com/thierry-martinez/pyml) - OCaml bindings for Python.
+    *   [Py.ml (⭐170)](https://github.com/thierry-martinez/pyml) - OCaml bindings for Python.
 
 ### Messaging
 
@@ -381,7 +381,7 @@
 
 ### Questions
 
-*   [owl (⭐1.1k)](https://github.com/owlbarn/owl) - OCaml numerical library: dense and sparse matrix, linear algebra, regressions, maths and stats functions.
+*   [owl (⭐1.2k)](https://github.com/owlbarn/owl) - OCaml numerical library: dense and sparse matrix, linear algebra, regressions, maths and stats functions.
 
 ## [18. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 

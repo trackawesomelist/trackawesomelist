@@ -101,7 +101,7 @@
 
 ### AI
 
-*   [MicroMLP (⭐168)](https://github.com/jczic/MicroMLP) - A micro neural network multilayer perceptron for MicroPython (used on ESP32 and Pycom modules).
+*   [MicroMLP (⭐169)](https://github.com/jczic/MicroMLP) - A micro neural network multilayer perceptron for MicroPython (used on ESP32 and Pycom modules).
 
 ### Audio
 
@@ -115,7 +115,7 @@
 
 ### Communications / FTP
 
-*   [micropython-ftplib (⭐29)](https://github.com/SpotlightKid/micropython-ftplib) - An FTP client library for MicroPython.
+*   [micropython-ftplib (⭐30)](https://github.com/SpotlightKid/micropython-ftplib) - An FTP client library for MicroPython.
 *   [FTP-Server-for-ESP8266-ESP32-and-PYBD (⭐142)](https://github.com/robert-hh/FTP-Server-for-ESP8266-ESP32-and-PYBD) - Small FTP server for ESP8266/ESP32/Pyboard on the MicroPython platform.
 *   [MicroFTPServer (⭐35)](https://github.com/cpopp/MicroFTPServer) - Minimal FTP Server that can run on an ESP8266 with MicroPython.
 
@@ -131,23 +131,23 @@
 
 *   [microhomie (⭐79)](https://github.com/microhomie/microhomie) - MicroPython implementation of the Homie MQTT convention for IoT.
 *   [uPyEcho (⭐52)](https://github.com/lemariva/uPyEcho) - Emulated Belkin WeMo device that works with Amazon Echo (Alexa) using MicroPython on an ESP32.
-*   [SonosRemote (⭐52)](https://github.com/foosel/SonosRemote) - A remote for Sonos installations running on an ESP8266 and using Sonos HTTP API.
+*   [SonosRemote (⭐53)](https://github.com/foosel/SonosRemote) - A remote for Sonos installations running on an ESP8266 and using Sonos HTTP API.
 
 ### Communications / IR
 
-*   [micropython\_ir (⭐202)](https://github.com/peterhinch/micropython_ir) - Nonblocking device drivers to receive from IR remotes and for IR "blaster" apps.
-*   [micropython-amg88xx (⭐16)](https://github.com/peterhinch/micropython-amg88xx) - Driver for Grid-EYE thermal infrared array sensor (Adafruit 3538).
-*   [micropython-ys-irtm (⭐25)](https://github.com/mcauser/micropython-ys-irtm) - MicroPython examples for YS-IRTM 5V NEC Infrared UART transceivers.
-*   [esp8266\_ir (⭐49)](https://github.com/ruoyu0088/esp8266_ir) - Control IR signal by WebSocket.
+*   [micropython\_ir (⭐208)](https://github.com/peterhinch/micropython_ir) - Nonblocking device drivers to receive from IR remotes and for IR "blaster" apps.
+*   [micropython-amg88xx (⭐17)](https://github.com/peterhinch/micropython-amg88xx) - Driver for Grid-EYE thermal infrared array sensor (Adafruit 3538).
+*   [micropython-ys-irtm (⭐24)](https://github.com/mcauser/micropython-ys-irtm) - MicroPython examples for YS-IRTM 5V NEC Infrared UART transceivers.
+*   [esp8266\_ir (⭐48)](https://github.com/ruoyu0088/esp8266_ir) - Control IR signal by WebSocket.
 
 ### Communications / LoRaWAN
 
-*   [uPyLoRaWAN (⭐207)](https://github.com/lemariva/uPyLoRaWAN) - ESP32 using MicroPython meets LoRa and LoRaWAN.
+*   [uPyLoRaWAN (⭐208)](https://github.com/lemariva/uPyLoRaWAN) - ESP32 using MicroPython meets LoRa and LoRaWAN.
 
 ### Communications / MQTT
 
-*   [micropython-mqtt (⭐497)](https://github.com/peterhinch/micropython-mqtt) - A 'resilient' asynchronous MQTT client: recovers from WiFi and broker outages.
-*   [pysmartnode (⭐110)](https://github.com/kevinkk525/pysmartnode) -  MicroPython Smart Home framework.
+*   [micropython-mqtt (⭐509)](https://github.com/peterhinch/micropython-mqtt) - A 'resilient' asynchronous MQTT client: recovers from WiFi and broker outages.
+*   [pysmartnode (⭐112)](https://github.com/kevinkk525/pysmartnode) -  MicroPython Smart Home framework.
 *   [umqtt\_aws\_iot (⭐18)](https://github.com/juwul/umqtt_aws_iot) - Publish UMQTT messages with MicroPython to AWS IoT.
 *   [micropython-sonoff-switch (⭐10)](https://github.com/kfricke/micropython-sonoff-switch) - Implements an MQTT-controllable switch for the iTead Sonoff Switch using MicroPython.
 *   [uMQTT (⭐9)](https://github.com/andrewmk/uMQTT) - MQTT publish for MicroPython on the WiPy board.
@@ -160,16 +160,16 @@
 
 ### Communications / Radio
 
-*   [micropython\_remote (⭐58)](https://github.com/peterhinch/micropython_remote) - Capture and replay 433MHz remote control codes. Control remote switched power adaptors.
+*   [micropython\_remote (⭐60)](https://github.com/peterhinch/micropython_remote) - Capture and replay 433MHz remote control codes. Control remote switched power adaptors.
 *   [micropython-ys-rf34t (⭐9)](https://github.com/mcauser/micropython-ys-rf34t) - MicroPython examples using YS-RF34T 433MHz ASK/OOK UART transceivers.
 
 ### Communications / Serial
 
-*   [mpy-miniterm (⭐21)](https://github.com/jeffmakes/mpy-miniterm) - Tool for seamless serial debug and file synchronisation with MicroPython devices via the serial REPL.
+*   [mpy-miniterm (⭐20)](https://github.com/jeffmakes/mpy-miniterm) - Tool for seamless serial debug and file synchronisation with MicroPython devices via the serial REPL.
 
 ### Communications / SMTP
 
-*   [uMail (⭐69)](https://github.com/shawwwn/uMail) - A lightweight, scalable SMTP client for sending email in MicroPython.
+*   [uMail (⭐70)](https://github.com/shawwwn/uMail) - A lightweight, scalable SMTP client for sending email in MicroPython.
 
 ### Communications / Telnet
 
@@ -177,15 +177,15 @@
 
 ### Communications / Web
 
-*   [MicroWebSrv (⭐621)](https://github.com/jczic/MicroWebSrv) - A micro HTTP web server that supports WebSockets, HTML/Python language templating and routing handlers, for MicroPython (used on Pycom modules & ESP32).
-*   [MicroWebSrv2 (⭐607)](https://github.com/jczic/MicroWebSrv2) - The last micro web server for IoTs (MicroPython) or large servers (CPython), that supports WebSocket, routes, template engine and with really optimized architecture (mem allocations, async I/Os).
-*   [tinyweb (⭐226)](https://github.com/belyalov/tinyweb) - Simple and lightweight HTTP async server for MicroPython.
-*   [upy-websocket-server (⭐72)](https://github.com/BetaRavener/upy-websocket-server) - MicroPython (ESP8266) WebSocket server implementation.
-*   [micropython-captive-portal (⭐48)](https://github.com/amora-labs/micropython-captive-portal) - A captive portal demo for MicroPython.
+*   [MicroWebSrv (⭐625)](https://github.com/jczic/MicroWebSrv) - A micro HTTP web server that supports WebSockets, HTML/Python language templating and routing handlers, for MicroPython (used on Pycom modules & ESP32).
+*   [MicroWebSrv2 (⭐609)](https://github.com/jczic/MicroWebSrv2) - The last micro web server for IoTs (MicroPython) or large servers (CPython), that supports WebSocket, routes, template engine and with really optimized architecture (mem allocations, async I/Os).
+*   [tinyweb (⭐228)](https://github.com/belyalov/tinyweb) - Simple and lightweight HTTP async server for MicroPython.
+*   [upy-websocket-server (⭐73)](https://github.com/BetaRavener/upy-websocket-server) - MicroPython (ESP8266) WebSocket server implementation.
+*   [micropython-captive-portal (⭐49)](https://github.com/amora-labs/micropython-captive-portal) - A captive portal demo for MicroPython.
 *   [uPyPortal (⭐40)](https://github.com/lemariva/uPyPortal) - A captive portal for MicroPython using ESP32 (Wemos).
 *   [ESP8266WebServer (⭐51)](https://github.com/codemee/ESP8266WebServer) - ESP8266 web server for MicroPython.
-*   [microCoAPy (⭐50)](https://github.com/insighio/microCoAPy) - A mini client/server implementation of CoAP (Constrained Application Protocol) into MicroPython.
-*   [micropyserver (⭐82)](https://github.com/troublegum/micropyserver) - MicroPyServer is a simple HTTP server for MicroPython projects.
+*   [microCoAPy (⭐54)](https://github.com/insighio/microCoAPy) - A mini client/server implementation of CoAP (Constrained Application Protocol) into MicroPython.
+*   [micropyserver (⭐84)](https://github.com/troublegum/micropyserver) - MicroPyServer is a simple HTTP server for MicroPython projects.
 *   [MicroRESTCli (⭐29)](https://github.com/jczic/MicroRESTCli) - A micro JSON REST web client based on MicroWebCli for MicroPython (used on Pycom modules & ESP32).
 *   [micropython-noggin (⭐18)](https://github.com/larsks/micropython-noggin) - A very simple web server for MicroPython.
 
@@ -195,7 +195,7 @@
 
 ### Communications / Zigbee
 
-*   [ZbPy (⭐43)](https://github.com/osresearch/ZbPy) - MicroPython IEEE802.15.4 / Zigbee parser.
+*   [ZbPy (⭐44)](https://github.com/osresearch/ZbPy) - MicroPython IEEE802.15.4 / Zigbee parser.
 
 ### Display / E-Paper
 
@@ -203,7 +203,7 @@
 
 ### Display / LCD Character
 
-*   [micropython-lcd (⭐18)](https://github.com/wjdp/micropython-lcd) - Class for controlling the HD44780 from a MicroPython Pyboard.
+*   [micropython-lcd (⭐19)](https://github.com/wjdp/micropython-lcd) - Class for controlling the HD44780 from a MicroPython Pyboard.
 
 ### Display / LCD Graphic
 
@@ -212,8 +212,8 @@
 ### Display / LCD TFT
 
 *   [micropython-ili9341 (⭐136)](https://github.com/rdagger/micropython-ili9341) - MicroPython ILI9341 display & XPT2046 touch screen driver.
-*   [st7789\_mpy (⭐165)](https://github.com/devbis/st7789_mpy) - Fast pure-C driver for MicroPython that can handle display modules on ST7789 chip.
-*   [micropython-ili9341 (⭐112)](https://github.com/jeffmer/micropython-ili9341) - MicroPython Driver for ILI9341 display.
+*   [st7789\_mpy (⭐167)](https://github.com/devbis/st7789_mpy) - Fast pure-C driver for MicroPython that can handle display modules on ST7789 chip.
+*   [micropython-ili9341 (⭐114)](https://github.com/jeffmer/micropython-ili9341) - MicroPython Driver for ILI9341 display.
 *   [micropython-ili9341 (⭐13)](https://github.com/tkurbad/micropython-ili9341) - ILI9341 TFT driver for MicroPython on ESP32.
 
 ### Display / LED Matrix
@@ -223,7 +223,7 @@
 ### IO / ADC
 
 *   [ADS7818 (⭐0)](https://github.com/robert-hh/ADS7818) - Python class interfacing the ADS7818 AD-converter.
-*   [micropython-ads1219 (⭐5)](https://github.com/miketeachman/micropython-ads1219) - MicroPython module for the Texas Instruments ADS1219 ADC.
+*   [micropython-ads1219 (⭐4)](https://github.com/miketeachman/micropython-ads1219) - MicroPython module for the Texas Instruments ADS1219 ADC.
 
 ### IO / GPIO
 
@@ -231,17 +231,17 @@
 
 ### IO / IO-Expander
 
-*   [micropython-mcp23017 (⭐52)](https://github.com/mcauser/micropython-mcp23017) - MicroPython driver for MCP23017 16-bit I/O Expander.
-*   [micropython-pcf8574 (⭐29)](https://github.com/mcauser/micropython-pcf8574) - MicroPython driver for PCF8574 8-Bit I2C I/O Expander with Interrupt.
+*   [micropython-mcp23017 (⭐53)](https://github.com/mcauser/micropython-mcp23017) - MicroPython driver for MCP23017 16-bit I/O Expander.
+*   [micropython-pcf8574 (⭐30)](https://github.com/mcauser/micropython-pcf8574) - MicroPython driver for PCF8574 8-Bit I2C I/O Expander with Interrupt.
 *   [micropython-pcf8575 (⭐15)](https://github.com/mcauser/micropython-pcf8575) - MicroPython driver for PCF8575 16-Bit I2C I/O Expander with Interrupt.
 
 ### IO / Rotary Encoder
 
-*   [micropython-rotary (⭐238)](https://github.com/miketeachman/micropython-rotary) - MicroPython module to read a rotary encoder.
+*   [micropython-rotary (⭐243)](https://github.com/miketeachman/micropython-rotary) - MicroPython module to read a rotary encoder.
 
 ### Mathematics / Waveform Generator
 
-*   [micropython-fourier (⭐72)](https://github.com/peterhinch/micropython-fourier) - Fast Fourier transform in MicroPython's inline ARM assembler.
+*   [micropython-fourier (⭐73)](https://github.com/peterhinch/micropython-fourier) - Fast Fourier transform in MicroPython's inline ARM assembler.
 *   [ulinalg (⭐31)](https://github.com/jalawson/ulinalg) - Small size matrix handling module with a few linear algebra operations specifically for MicroPython (Python 3).
 
 ### Motion / Stepper
@@ -256,8 +256,8 @@
 
 ### Sensors / Barometer
 
-*   [BME280 (⭐92)](https://github.com/robert-hh/BME280) - MicroPython driver for the BME280 sensor, target platform Pycom devices.
-*   [micropython-bmp280 (⭐77)](https://github.com/dafvid/micropython-bmp280) - Module for the BMP280 sensor.
+*   [BME280 (⭐93)](https://github.com/robert-hh/BME280) - MicroPython driver for the BME280 sensor, target platform Pycom devices.
+*   [micropython-bmp280 (⭐80)](https://github.com/dafvid/micropython-bmp280) - Module for the BMP280 sensor.
 
 ### Sensors / Camera
 
@@ -265,7 +265,7 @@
 
 ### Sensors / Compass
 
-*   [QMC5883 (⭐9)](https://github.com/robert-hh/QMC5883) - Python class for the QMC5883 Three-Axis Digital Compass IC.
+*   [QMC5883 (⭐10)](https://github.com/robert-hh/QMC5883) - Python class for the QMC5883 Three-Axis Digital Compass IC.
 
 ### Sensors / Energy
 
@@ -340,11 +340,11 @@
 
 ### Real-time / Real-time Operating System (RTOS)
 
-*   [FreeRTOS-rust (⭐293)](https://github.com/lobaro/FreeRTOS-rust) Rust interface for FreeRTOS with Rust entry point and build support crate.
+*   [FreeRTOS-rust (⭐301)](https://github.com/lobaro/FreeRTOS-rust) Rust interface for FreeRTOS with Rust entry point and build support crate.
 
 ### Driver crates / WIP
 
-*   [lvgl (⭐563)](https://github.com/rafaelcaricio/lvgl-rs) - no\_std [LittleVGL (⭐14k)](https://github.com/littlevgl/lvgl) port - ![crates.io](https://img.shields.io/crates/v/lvgl.svg)
+*   [lvgl (⭐576)](https://github.com/rafaelcaricio/lvgl-rs) - no\_std [LittleVGL (⭐15k)](https://github.com/littlevgl/lvgl) port - ![crates.io](https://img.shields.io/crates/v/lvgl.svg)
 
 ## [17. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -479,11 +479,11 @@
 
 ### Typescript Project Starters
 
-*   [typescript-express-starter (⭐2.4k)](https://github.com/ljlm0402/typescript-express-starter) - Quick and Easy TypeScript Express Starter.
+*   [typescript-express-starter (⭐2.5k)](https://github.com/ljlm0402/typescript-express-starter) - Quick and Easy TypeScript Express Starter.
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [ts-audio (⭐305)](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
+*   :octocat: [ts-audio (⭐306)](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
 
 ## [32. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
 
@@ -566,11 +566,11 @@
 
 *   [clone (⭐4)](https://github.com/ekaragodin/clone) - A simple utility for the convenient clone.
 *   [denoinit (⭐30)](https://github.com/syumai/deno-libs/tree/master/denoinit) - Denoinit generates useful files for Deno project.
-*   [denoliver (⭐98)](https://github.com/joakimunge/denoliver) - A simple, dependency free file server with live reload.
+*   [denoliver (⭐97)](https://github.com/joakimunge/denoliver) - A simple, dependency free file server with live reload.
 *   [denoversion (⭐7)](https://github.com/lucascaro/denoversion) - SemVer and git version management for Deno.
 *   [denox (⭐138)](https://github.com/BentoumiTech/denox) - Like packages.json scripts, but for Deno with permissions support.
-*   [udd (⭐318)](https://github.com/hayd/deno-udd) - Update Deno dependencies: updates import statements to their latest published version.
-*   [velociraptor (⭐682)](https://github.com/umbopepato/velociraptor) - An npm-style script runner for Deno.
+*   [udd (⭐320)](https://github.com/hayd/deno-udd) - Update Deno dependencies: updates import statements to their latest published version.
+*   [velociraptor (⭐683)](https://github.com/umbopepato/velociraptor) - An npm-style script runner for Deno.
 
 ### Articles / XML
 
@@ -2346,7 +2346,7 @@ Free
 
 ### Software / Software Development - IDE & Tools
 
-*   [Hakatime (⭐554)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
+*   [Hakatime (⭐562)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
 
 ## [54. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
@@ -2713,7 +2713,7 @@ Free
 
 ### Apps / Outline Processor Markup Language
 
-*   [FeedMe (⭐993)](https://github.com/seazon/FeedMe/) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.seazon.feedme)
+*   [FeedMe (⭐1k)](https://github.com/seazon/FeedMe/) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.seazon.feedme)
 
 ### RSSHub / Outline Processor Markup Language
 

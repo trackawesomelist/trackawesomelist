@@ -81,14 +81,14 @@
 
 ### Motion / Diagnostics
 
-*   [rlane/pounce.nvim (⭐318)](https://github.com/rlane/pounce.nvim) - An EasyMotion-like plugin for quick cursor movement using fuzzy search.
+*   [rlane/pounce.nvim (⭐317)](https://github.com/rlane/pounce.nvim) - An EasyMotion-like plugin for quick cursor movement using fuzzy search.
 
 ## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### OCaml / Git
 
-*   [Digestif (⭐81)](https://github.com/mirage/digestif) - is a toolbox that implements various cryptographic primitives in C and OCaml.
-*   [ocaml-tls (⭐282)](https://github.com/mirleft/ocaml-tls) - TLS in pure OCaml.
+*   [Digestif (⭐84)](https://github.com/mirage/digestif) - is a toolbox that implements various cryptographic primitives in C and OCaml.
+*   [ocaml-tls (⭐285)](https://github.com/mirleft/ocaml-tls) - TLS in pure OCaml.
 
 ## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

@@ -119,7 +119,7 @@
 
 ### Installation Media / Discovery
 
-*   [nixos-up (⭐204)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
+*   [nixos-up (⭐206)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
 
 ## [8. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 

@@ -74,14 +74,14 @@
 
 ### Other / [Other](#other-1)
 
-*   [promformat (⭐30)](https://github.com/facetoe/promformat) — Promformat is a PromQL formatter written in Python.
+*   [promformat (⭐31)](https://github.com/facetoe/promformat) — Promformat is a PromQL formatter written in Python.
 *   [promval (⭐3)](https://github.com/facetoe/promval) — PromQL validator written in Python. It can be used to validate that PromQL expressions are written as expected.
 
 ## [9. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
-*   [somleng (⭐55)](https://github.com/somleng/somleng) - An Open Source Communications-Platform-as-a-Service (CPaaS) and Telco-as-a-service (TaaS). (using Rails 7.1). - [:earth\_africa:](https://www.somleng.org)
+*   [somleng (⭐57)](https://github.com/somleng/somleng) - An Open Source Communications-Platform-as-a-Service (CPaaS) and Telco-as-a-service (TaaS). (using Rails 7.1). - [:earth\_africa:](https://www.somleng.org)
 
 ## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Miscellaneous / Checkbox
 
-*   [svelte-stepper (⭐87)](https://github.com/efstajas/svelte-stepper) - A Svelte component for building animated step flows.
+*   [svelte-stepper (⭐119)](https://github.com/efstajas/svelte-stepper) - A Svelte component for building animated step flows.
 
 ## [12. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Software / Miscellaneous
 
-*   [Bracket](https://evroon.github.io/bracket) - Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. ([Demo](https://www.bracketapp.nl/demo), [Source Code (⭐81)](https://github.com/evroon/bracket)) `AGPL-3.0` `Docker/Nodejs`
+*   [Bracket](https://evroon.github.io/bracket) - Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. ([Demo](https://www.bracketapp.nl/demo), [Source Code (⭐98)](https://github.com/evroon/bracket)) `AGPL-3.0` `Docker/Nodejs`
 *   [Digiface](https://ladigitale.dev/digiface/) - Create avatars using the Avataaars library (documentation in French). ([Demo](https://ladigitale.dev/digiface/), [Source Code](https://codeberg.org/ladigitale/digiface)) `AGPL-3.0` `Nodejs`
 
 ### Software / Software Development - Project Management

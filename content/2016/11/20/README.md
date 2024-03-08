@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 20, 2016
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -111,13 +111,7 @@
 
 *   [electron-pdf-window (⭐274)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
 
-## [6. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
-
-### Online Courses
-
-*   [Introduction to Functional Programming in OCaml](https://www.fun-mooc.fr/courses/parisdiderot/56002S02/session02/about).
-
-## [7. Awesome Drupal](/content/nirgn975/awesome-drupal/README.md)
+## [6. Awesome Drupal](/content/nirgn975/awesome-drupal/README.md)
 
 ### Modules
 
@@ -131,14 +125,14 @@
 
 *   [Solr Script (⭐4)](https://github.com/RoySegall/solr-script) - Handy script to install Apache Solr.
 
-## [8. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
+## [7. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 
 ### Object Detection
 
 *   PVANET [\[Paper\]](https://arxiv.org/pdf/1608.08021) [\[Code\] (⭐654)](https://github.com/sanghoon/pva-faster-rcnn)
     *   Kye-Hyeon Kim, Sanghoon Hong, Byungseok Roh, Yeongjae Cheon, Minje Park, PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection, arXiv:1608.08021
 
-## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Books
 
@@ -157,7 +151,7 @@
 *   [Generator.x](https://www.flickr.com/groups/generatorx/) - Flickr group about generative strategies in art & design.
 *   [Generative Art](https://www.flickr.com/groups/generativeart/) - Flickr group about generative art.
 
-## [10. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [9. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### (Use in) other programming languages / Web
 

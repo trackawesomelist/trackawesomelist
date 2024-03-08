@@ -10,7 +10,7 @@
 
 ### Swift / Git
 
-*   [IDZSwiftCommonCrypto (⭐474)](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Wrapper for Apple's [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) library written in Swift.
+*   [IDZSwiftCommonCrypto (⭐476)](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Wrapper for Apple's [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) library written in Swift.
 
 ## [2. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 

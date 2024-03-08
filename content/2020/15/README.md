@@ -1038,11 +1038,11 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [Kapitsa (⭐10)](https://github.com/gitjeff05/kapitsa) - CLI to search local Jupyter notebooks.
+*   [Kapitsa (⭐11)](https://github.com/gitjeff05/kapitsa) - CLI to search local Jupyter notebooks.
 
 ### JupyterLab Extensions
 
-*   [debugger (⭐555)](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files.
+*   [debugger (⭐560)](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files.
 
 ## [57. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 

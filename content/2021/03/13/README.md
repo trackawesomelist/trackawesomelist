@@ -38,7 +38,7 @@
 ### Standalone apps / Playground
 
 *   :octocat: [alm (⭐3k)](https://github.com/alm-tools/alm) - A next generation IDE just for TypeScript written in TypeScript + React
-*   :octocat: [SnowFS (⭐1.2k)](https://github.com/snowtrack/snowfs) - a fast, scalable version control file storage for graphic files
+*   :octocat: [SnowFS (⭐1.3k)](https://github.com/snowtrack/snowfs) - a fast, scalable version control file storage for graphic files
 
 ## [3. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
@@ -66,8 +66,8 @@
 
 ### Tools / Linters
 
-*   [flake8-typing-imports (⭐47)](https://github.com/asottile/flake8-typing-imports) - Plugin which checks that typing imports are properly guarded.
-*   [flake8-typing-only-imports (⭐103)](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 plugin that helps identify which imports to put into type-checking blocks, and how to adjust your type annotations once imports are moved.
+*   [flake8-typing-imports (⭐48)](https://github.com/asottile/flake8-typing-imports) - Plugin which checks that typing imports are properly guarded.
+*   [flake8-typing-only-imports (⭐107)](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 plugin that helps identify which imports to put into type-checking blocks, and how to adjust your type annotations once imports are moved.
 
 ## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

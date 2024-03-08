@@ -32,7 +32,7 @@
 
 ### Software / Blogging Platforms
 
-*   [Serendipity](https://docs.s9y.org/) - Serendipity (s9y) is a highly extensible and customizable PHP blog engine using Smarty templating. ([Source Code (⭐191)](https://github.com/s9y/serendipity)) `BSD-3-Clause` `PHP`
+*   [Serendipity](https://docs.s9y.org/) - Serendipity (s9y) is a highly extensible and customizable PHP blog engine using Smarty templating. ([Source Code (⭐194)](https://github.com/s9y/serendipity)) `BSD-3-Clause` `PHP`
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

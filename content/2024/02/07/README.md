@@ -36,12 +36,12 @@
 *   [Awesome Image Classification (⭐2.7k)](https://github.com/weiaicunzai/awesome-image-classification#readme)
 *   [Awesome Machine Learning (⭐63k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
 *   [Awesome Machine Learning & Deep Learning Tutorials (⭐15k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
-*   [Awesome Natural Language Generation (⭐434)](https://github.com/accelerated-text/awesome-nlg#readme)
+*   [Awesome Natural Language Generation (⭐433)](https://github.com/accelerated-text/awesome-nlg#readme)
 *   [Awesome NLP (⭐16k)](https://github.com/keon/awesome-nlp#readme)
-*   [Awesome Production Machine Learning (⭐15k)](https://github.com/EthicalML/awesome-production-machine-learning#readme)
+*   [Awesome Production Machine Learning (⭐16k)](https://github.com/EthicalML/awesome-production-machine-learning#readme)
 *   [Awesome Software Engineering for Machine Learning (⭐1.2k)](https://github.com/SE-ML/awesome-seml#readme)
 *   [Awesome Visual Transformer (⭐3.2k)](https://github.com/dk-liang/Awesome-Visual-Transformer#readme)
-*   [Awesome XAI (⭐113)](https://github.com/altamiracorp/awesome-xai#readme)
+*   [Awesome XAI (⭐116)](https://github.com/altamiracorp/awesome-xai#readme)
 
 ---
 

@@ -348,7 +348,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [gonic (⭐1.3k)](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go/Docker`
+*   [gonic (⭐1.4k)](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go/Docker`
 
 ### Software / Money, Budgeting & Management
 

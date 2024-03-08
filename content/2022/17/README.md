@@ -10,7 +10,7 @@
 
 ### NixOS Modules / Zig
 
-*   [Stylix (⭐512)](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS.
+*   [Stylix (⭐546)](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS.
 
 ## [2. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
@@ -141,10 +141,6 @@
 *   [gitter-ada](https://gitter.im/ada-lang/Lobby) - Ada channel at Gitter.
 *   [libera-chat-ada](https://libera.chat/) - Ada channel at IRC.
 *   [matrix-ada](https://matrix.to/#/#ada-lang_Lobby:gitter.im) - Ada room at Gitter via Matrix.
-
-### News and Resources
-
-*   [ada-planet](https://www.laeran.pl/adaplanet/i/) - News Aggregator from the Ada programming language world. ([RSS feed via Matrix](https://matrix.to/#/#ada-lang:matrix.org))
 
 ## [17. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
@@ -336,7 +332,7 @@
 
 ### zgenom
 
-*   [zsh-quickstart-kit (⭐718)](https://github.com/unixorn/zsh-quickstart-kit) - A simple quickstart for using ZSH with [zgenom (⭐318)](https://github.com/jandamm/zgenom). This automatically configures ZSH to use [zgenom (⭐318)](https://github.com/jandamm/zgenom) to load a curated (but easily customizable) collection of plugins and periodically automatically update itself, the plugins, and the quickstart kit itself.
+*   [zsh-quickstart-kit (⭐722)](https://github.com/unixorn/zsh-quickstart-kit) - A simple quickstart for using ZSH with [zgenom (⭐322)](https://github.com/jandamm/zgenom). This automatically configures ZSH to use [zgenom (⭐322)](https://github.com/jandamm/zgenom) to load a curated (but easily customizable) collection of plugins and periodically automatically update itself, the plugins, and the quickstart kit itself.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -345,13 +341,13 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [npm-scripts-autocomplete (⭐71)](https://github.com/grigorii-zander/zsh-npm-scripts-autocomplete) - Shows autocomplete suggestions from scripts found in the current directory's `package.json`. Works with `npm` and `yarn`.
+*   [npm-scripts-autocomplete (⭐72)](https://github.com/grigorii-zander/zsh-npm-scripts-autocomplete) - Shows autocomplete suggestions from scripts found in the current directory's `package.json`. Works with `npm` and `yarn`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [bref (⭐3)](https://github.com/mpostaire/bref-zsh-prompt) - A simple prompt. It includes decorators to display `git` status asynchronously, a notification if the `ssh` session is remote, the battery level and the number of background jobs.
 *   [daily-emoji (⭐1)](https://github.com/huytran-wq/zsh-daily-emoji-theme/) - Shows random emoji at the beginning of each command depending on the day of the week.
-*   [igeek (⭐39)](https://github.com/Saleh7/igeek-zsh-theme) - Displays system information when starting a new terminal session.
+*   [igeek (⭐38)](https://github.com/Saleh7/igeek-zsh-theme) - Displays system information when starting a new terminal session.
 *   [winline (⭐2)](https://github.com/khuei/winline) - Async version of Greg Hurrell's [prompt (⭐1.1k)](https://github.com/wincent/wincent/blob/master/aspects/dotfiles/files/.zshrc). Includes decorators for `git` status, duration of last command, current directory, nested shells, root status.
 *   [zen (⭐12)](https://github.com/cybardev/zen.zsh) - A minimalist theme for `*NIX` systems. Includes decorators for execution time of last command run, curreent directory and vcs status information.
 *   [zshify (⭐1)](https://github.com/nrjdalal/zshify) - A minimalistic, one command installation to customize your prompt. Requires [npx](https://docs.npmjs.com/getting-started/installing-npm-packages-locally).
@@ -671,20 +667,20 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [frabjous/knap (⭐299)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
+*   [frabjous/knap (⭐303)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
 
 ### Fennel / Diagnostics
 
-*   [udayvir-singh/tangerine.nvim (⭐177)](https://github.com/udayvir-singh/tangerine.nvim) - Sweet :tangerine: Fennel integration, aims to be as fast as possible.
-*   [udayvir-singh/hibiscus.nvim (⭐99)](https://github.com/udayvir-singh/hibiscus.nvim) - Flavored :hibiscus: Fennel macro library.
+*   [udayvir-singh/tangerine.nvim (⭐181)](https://github.com/udayvir-singh/tangerine.nvim) - Sweet :tangerine: Fennel integration, aims to be as fast as possible.
+*   [udayvir-singh/hibiscus.nvim (⭐100)](https://github.com/udayvir-singh/hibiscus.nvim) - Flavored :hibiscus: Fennel macro library.
 
 ### Treesitter Based / Diagnostics
 
-*   [ziontee113/syntax-tree-surfer (⭐441)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
+*   [ziontee113/syntax-tree-surfer (⭐449)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
 
 ### Scrolling / Diagnostics
 
-*   [declancm/cinnamon.nvim (⭐279)](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for any movement command.
+*   [declancm/cinnamon.nvim (⭐284)](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for any movement command.
 
 ---
 

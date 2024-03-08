@@ -44,8 +44,8 @@ git switch -c <branch-name>
 
 ### Third-Party Packages / Security
 
-*   [django-csp (⭐504)](https://github.com/mozilla/django-csp) - Adds [Content-Security-Policy](http://www.w3.org/TR/CSP/) headers to Django.
-*   [django-feature-policy (⭐89)](https://github.com/adamchainz/django-feature-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
+*   [django-csp (⭐508)](https://github.com/mozilla/django-csp) - Adds [Content-Security-Policy](http://www.w3.org/TR/CSP/) headers to Django.
+*   [django-feature-policy (⭐91)](https://github.com/adamchainz/django-feature-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -81,7 +81,7 @@ git switch -c <branch-name>
 
 ### Component Libraries
 
-*   [Shoelace (⭐11k)](https://github.com/shoelace-style/shoelace) - A forward-thinking library of web components.
+*   [Shoelace (⭐12k)](https://github.com/shoelace-style/shoelace) - A forward-thinking library of web components.
 
 ## [8. Awesome](/content/craftcms/awesome/README.md)
 

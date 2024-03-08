@@ -90,7 +90,7 @@ Topics: PHP, JavaScript, React, Vue.js, PWAs, Testing, Open Source, Performance\
 
 ### Awesome TypeScript Essential Resources
 
-*   :octocat: [Clean Code concepts adapted for TypeScript (⭐8.7k)](https://github.com/labs42io/clean-code-typescript)
+*   :octocat: [Clean Code concepts adapted for TypeScript (⭐8.9k)](https://github.com/labs42io/clean-code-typescript)
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

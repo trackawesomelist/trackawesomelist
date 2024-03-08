@@ -37,11 +37,11 @@
 
 ### Cloud Data Warehousing / Playground
 
-*   [DDB-Table (⭐130)](https://github.com/neuledge/ddb-table) Strongly typed querys and tables for AWS DynamoDB
+*   [DDB-Table (⭐132)](https://github.com/neuledge/ddb-table) Strongly typed querys and tables for AWS DynamoDB
 
 ### Validation / Playground
 
-*   [computed-types (⭐361)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
+*   [computed-types (⭐364)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 
 ## [4. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -402,7 +402,7 @@
 
 ### Driver crates / WIP
 
-*   [ublox-cellular-rs (⭐17)](https://github.com/BlackbirdHQ/ublox-cellular-rs) - Serial - Cellular driver for the full Ublox cellular serial based family
+*   [ublox-cellular-rs (⭐18)](https://github.com/BlackbirdHQ/ublox-cellular-rs) - Serial - Cellular driver for the full Ublox cellular serial based family
 
 ## [18. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -425,7 +425,7 @@
 
 ### 🔱 Workflow Automation / 酷Q Plugin
 
-*   [feedpushr (⭐311)](https://github.com/ncarlier/feedpushr) <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ncarlier/feedpushr)
+*   [feedpushr (⭐315)](https://github.com/ncarlier/feedpushr) <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ncarlier/feedpushr)
 
 ### specifically from (*a certain platform*) / Instagram
 
@@ -443,7 +443,7 @@
 ### Society / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [一些法律相关信息的 RSS 订阅地址](https://blackwinmin.github.io/posts/law_rss/) <sup>[681](https://t.me/s/aboutrss/681)</sup>
-*   [品葱精选 (⭐4)](https://github.com/Project-Gutenberg/Pincong) <sup>[685](https://t.me/s/aboutrss/685)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Project-Gutenberg/Pincong)
+*   [品葱精选 (⭐5)](https://github.com/Project-Gutenberg/Pincong) <sup>[685](https://t.me/s/aboutrss/685)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Project-Gutenberg/Pincong)
 
 ### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
@@ -457,7 +457,7 @@
 ### Turn YouTube into Podcast / Crypto or Blockchain relevant
 
 *   [Listenbox](https://listenbox.app) <sup>[683](https://t.me/s/aboutrss/683)</sup>
-*   [YouCast (⭐234)](https://github.com/i3arnon/YouCast) <sup>[684](https://t.me/s/aboutrss/684)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/i3arnon/YouCast)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [YouCast (⭐236)](https://github.com/i3arnon/YouCast) <sup>[684](https://t.me/s/aboutrss/684)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/i3arnon/YouCast)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ## [19. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
@@ -753,7 +753,7 @@ Language: English
 
 ### Third-Party Packages / Models
 
-*   [django-polymorphic (⭐1.5k)](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
+*   [django-polymorphic (⭐1.6k)](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
 
 ## [28. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -994,17 +994,17 @@ Language: English
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [Godot syntax themes (⭐310)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
+*   [Godot syntax themes (⭐316)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 
 ## [38. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Password Managers
 
-*   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐4.2k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP/deb/K8S/Docker`
+*   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐4.3k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP/deb/K8S/Docker`
 
 ### Software / Search Engines
 
-*   [sist2 (⭐699)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
+*   [sist2 (⭐708)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
 
 ## [39. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
@@ -1022,7 +1022,7 @@ Language: English
 
 ### Command-line tools
 
-*   [oj (⭐767)](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
+*   [oj (⭐768)](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
 
 ### Format Extensions
 
@@ -1031,7 +1031,7 @@ Language: English
 ### Libraries
 
 *   [ojc (⭐34)](https://github.com/ohler55/ojc) - A fast JSON parser.
-*   [ojg (⭐767)](https://github.com/ohler55/ojg) - A collection of high performance JSON processing and generating tool.
+*   [ojg (⭐768)](https://github.com/ohler55/ojg) - A collection of high performance JSON processing and generating tool.
 
 ## [42. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
@@ -1303,7 +1303,7 @@ Language: English
 
 ### Python / Git
 
-*   [django-cryptography (⭐351)](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
+*   [django-cryptography (⭐356)](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
 
 ### Web-sites / Git
 

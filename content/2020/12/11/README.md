@@ -51,7 +51,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [DailyTxT (⭐169)](https://github.com/PhiTux/DailyTxT) - Encrypted diary Web application to save your personal memories of each day. Includes a search function and encrypted file upload. `MIT` `Docker`
+*   [DailyTxT (⭐171)](https://github.com/PhiTux/DailyTxT) - Encrypted diary Web application to save your personal memories of each day. Includes a search function and encrypted file upload. `MIT` `Docker`
 
 ## [6. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 

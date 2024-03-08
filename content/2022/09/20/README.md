@@ -163,11 +163,11 @@
 
 ### Color / Diagnostics
 
-*   [uga-rosa/ccc.nvim (⭐606)](https://github.com/uga-rosa/ccc.nvim) - Super powerful color picker / colorizer plugin.
+*   [uga-rosa/ccc.nvim (⭐619)](https://github.com/uga-rosa/ccc.nvim) - Super powerful color picker / colorizer plugin.
 
 ### Motion / Diagnostics
 
-*   [gen740/SmoothCursor.nvim (⭐303)](https://github.com/gen740/SmoothCursor.nvim) - Add fancy sub-cursor to signcolumn to show your scroll or jump direction.
+*   [gen740/SmoothCursor.nvim (⭐316)](https://github.com/gen740/SmoothCursor.nvim) - Add fancy sub-cursor to signcolumn to show your scroll or jump direction.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

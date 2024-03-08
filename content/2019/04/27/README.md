@@ -68,7 +68,7 @@
 
 ### User Interface
 
-*   [ocaml-linenoise (⭐48)](https://github.com/ocaml-community/ocaml-linenoise) - Self-contained OCaml bindings to linenoise; easy high-level readline functionality in OCaml.
+*   [ocaml-linenoise (⭐49)](https://github.com/ocaml-community/ocaml-linenoise) - Self-contained OCaml bindings to linenoise; easy high-level readline functionality in OCaml.
 
 ---
 

@@ -38,7 +38,7 @@
 
 ### DevOps / Apache License
 
-*   [powerjoular (⭐38)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
+*   [powerjoular (⭐42)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

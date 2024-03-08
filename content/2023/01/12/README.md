@@ -65,7 +65,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [KotUniL (⭐97)](https://github.com/vsirotin/si-units) - KotUniL: Kotlin function and objects for working with SI units like meter, second, as well as currencies and general units like percent.
+*   [KotUniL (⭐98)](https://github.com/vsirotin/si-units) - KotUniL: Kotlin function and objects for working with SI units like meter, second, as well as currencies and general units like percent.
 
 ## [9. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 

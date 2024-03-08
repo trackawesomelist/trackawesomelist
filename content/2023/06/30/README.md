@@ -33,7 +33,7 @@
 ### Resources / Learning
 
 *   [Nix - A One Pager](https://code.tvl.fyi/about/nix/nix-1p) - A one page introduction to the Nix language.
-*   [NixOS & Flakes Book (⭐1.2k)](https://github.com/ryan4yin/nixos-and-flakes-book) - An unofficial and opinionated NixOS & Flakes book for beginners.
+*   [NixOS & Flakes Book (⭐1.3k)](https://github.com/ryan4yin/nixos-and-flakes-book) - An unofficial and opinionated NixOS & Flakes book for beginners.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

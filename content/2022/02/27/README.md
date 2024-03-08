@@ -37,7 +37,7 @@
 
 ### JupyterLab Extensions
 
-*   [stickyland (⭐445)](https://github.com/xiaohk/stickyland) - Break the linear presentation of notebooks with sticky cells.
+*   [stickyland (⭐489)](https://github.com/xiaohk/stickyland) - Break the linear presentation of notebooks with sticky cells.
 
 ### Hosted Notebook Solutions
 

@@ -114,7 +114,7 @@
 *   [rotary-encoder-hal](https://crates.io/crates/rotary-encoder-hal) - GPIO - A rotary encoder driver using `embedded-hal` - [Intro blog post](https://leshow.github.io/post/rotary_encoder_hal/) - ![crates.io](https://img.shields.io/crates/v/rotary-encoder-hal.svg)
 *   [SGP30](https://crates.io/crates/sgp30) - I2C - Gas sensor - [Intro blog post](https://blog.dbrgn.ch/2018/4/1/rust-sgp30-driver/) - ![crates.io](https://img.shields.io/crates/v/sgp30.svg)
 *   [SH1106](https://crates.io/crates/sh1106) - I2C - Monochrome OLED display controller - [Intro post](https://wapl.es/electronics/rust/2019/02/13/sh1106-driver.html) ![crates.io](https://img.shields.io/crates/v/sh1106.svg)
-*   [shared-bus (⭐123)](https://github.com/Rahix/shared-bus) - I2C - utility driver for sharing a bus between multiple devices - [Intro post](https://blog.rahix.de/001-shared-bus/) ![crates.io](https://img.shields.io/crates/v/shared-bus.svg)
+*   [shared-bus (⭐124)](https://github.com/Rahix/shared-bus) - I2C - utility driver for sharing a bus between multiple devices - [Intro post](https://blog.rahix.de/001-shared-bus/) ![crates.io](https://img.shields.io/crates/v/shared-bus.svg)
 *   [shift-register-driver](https://crates.io/crates/shift-register-driver) - GPIO - Shift register - [Intro blog post](https://www.joshmcguigan.com/blog/shift-register-driver/) - ![crates.io](https://img.shields.io/crates/v/shift-register-driver.svg)
 *   [Si4703](https://crates.io/crates/si4703) - I2C - FM radio turner (receiver) driver  - [Intro blog post](https://blog.eldruin.com/si4703-fm-radio-receiver-driver-in-rust/) - ![crates.io](https://img.shields.io/crates/v/si4703.svg)
 *   [SSD1306](https://crates.io/crates/ssd1306) - I2C/SPI - OLED display controller - [Intro blog post](https://wapl.es/electronics/rust/2018/04/30/ssd1306-driver.html) - ![crates.io](https://img.shields.io/crates/v/ssd1306.svg)
@@ -146,12 +146,12 @@
 *   [HD44780-driver](https://crates.io/crates/hd44780-driver) - GPIO - LCD controller - ![crates.io](https://img.shields.io/crates/v/hd44780-driver.svg)
 *   [HD44780 (⭐12)](http://github.com/kunerd/clerk) - Parallel port - LCD controller
 *   [HM11](https://crates.io/crates/hm11) - USART - HM-11 bluetooth module AT configuration crate - ![crates.io](https://img.shields.io/crates/v/hm11.svg)
-*   [hub75 (⭐11)](https://github.com/david-sawatzke/hub75-rs) - A driver for rgb led matrices with the hub75 interface  - ![crates.io](https://img.shields.io/crates/v/hub75.svg)
+*   [hub75 (⭐14)](https://github.com/david-sawatzke/hub75-rs) - A driver for rgb led matrices with the hub75 interface  - ![crates.io](https://img.shields.io/crates/v/hub75.svg)
 *   [hzgrow-r502](https://crates.io/crates/hzgrow-r502) - UART capacitive fingerprint reader - ![crates.io](https://img.shields.io/crates/v/hzgrow-r502.svg)
 *   [iAQ-Core (⭐3)](https://github.com/eldruin/iaq-core-rs) - I2C - iAQ-Core-C/iAQ-Core-P Gas and VOC sensor driver for monitoring indoor air quality.
 *   [ILI9341 (⭐56)](https://github.com/yuri91/ili9341-rs) - SPI - TFT LCD display
 *   [INA260](https://crates.io/crates/ina260) - I2C - power monitor - ![crates.io](https://img.shields.io/crates/v/ina260.svg)
-*   [LM75](https://crates.io/crates/lm75) - I2C - Temperature sensor and thermal watchdog - ![crates.io](https://img.shields.io/crates/v/lm75.svg)
+*   [LM75](https://crates.io/crates/lm75) - I2C - Temperature sensor and thermal watchdog (also compatible with LM75A, LM75B, LM75C, AT30TS75A, DS1775, DS75, DS7505, G751, MAX7500/1/2/3/4, MAX6625, MCP9800/1/2/3, STDS75, TCN75, PCT2075) - ![crates.io](https://img.shields.io/crates/v/lm75.svg)
 *   [LS010B7DH01 (⭐6)](https://github.com/byronwasti/ls010b7dh01) - SPI - Memory LCD
 *   [LSM303C](https://crates.io/crates/lsm303c) - A platform agnostic driver to interface with the LSM303C (accelerometer + compass) ![crates.io](https://img.shields.io/crates/v/lsm303c.svg)
 *   [MAG3110 (⭐1)](https://github.com/therealprof/mag3110) - I2C - Magnetometer
@@ -183,7 +183,7 @@
 *   [SSD1675](https://crates.io/crates/ssd1675) - SPI - Tri-color ePaper display controller - ![crates.io](https://img.shields.io/crates/v/ssd1675.svg)
 *   [st7032i (⭐2)](https://github.com/dotcypress/st7032i) - I2C - Dot Matrix LCD Controller driver (Sitronix ST7032i or similar). - ![crates.io](https://img.shields.io/crates/v/st7032i.svg)
 *   [ST7735-lcd](https://crates.io/crates/st7735-lcd) - SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix ![crates.io](https://img.shields.io/crates/v/st7735-lcd.svg)
-*   [stm32-eth (⭐136)](https://github.com/stm32-rs/stm32-eth) - MCU - Ethernet
+*   [stm32-eth (⭐137)](https://github.com/stm32-rs/stm32-eth) - MCU - Ethernet
 *   [SX1278 (⭐11)](https://github.com/susu/sx1278) - SPI - Long range (LoRa) transceiver
 *   [SX1509 (⭐1)](https://github.com/wez/sx1509) - I2C - IO Expander / Keypad driver
 *   [TCS3472](https://crates.io/crates/tcs3472) - I2C - RGB color light sensor - ![crates.io](https://img.shields.io/crates/v/tcs3472.svg)
@@ -204,7 +204,7 @@
 *   [bluetooth-hci](https://crates.io/crates/bluetooth-hci): device-independent Bluetooth Host-Controller Interface implementation. ![crates.io](https://img.shields.io/crates/v/bluetooth-hci.svg)
 *   [bounded-registers](https://crates.io/crates/bounded-registers) A high-assurance memory-mapped register code generation and interaction library. `bounded-registers` provides a Tock-like API for MMIO registers with the addition of type-based bounds checking. - ![crates.io](https://img.shields.io/crates/v/bounded-registers.svg)
 *   [combine](https://crates.io/crates/combine): parser combinator library - ![crates.io](https://img.shields.io/crates/v/combine.svg)
-*   [console-traits (⭐3)](https://github.com/thejpster/console-traits): Describes a basic text console. Used by [menu (⭐42)](https://github.com/thejpster/menu) and implemented by [vga-framebuffer (⭐31)](https://github.com/thejpster/vga-framebuffer-rs). ![crates.io](https://img.shields.io/crates/v/console-tratis.svg)
+*   [console-traits (⭐3)](https://github.com/thejpster/console-traits): Describes a basic text console. Used by [menu (⭐43)](https://github.com/thejpster/menu) and implemented by [vga-framebuffer (⭐31)](https://github.com/thejpster/vga-framebuffer-rs). ![crates.io](https://img.shields.io/crates/v/console-tratis.svg)
 *   [`cmim`](https://crates.io/crates/cmim), or Cortex-M Interrupt Move: A crate for Cortex-M devices to move data to interrupt context, without needing a critical section to access the data within an interrupt, and to remove the need for the "mutex dance" - ![crates.io](https://img.shields.io/crates/v/cmim.svg)
 *   [dcmimu](https://crates.io/crates/dcmimu): An algorithm for fusing low-cost triaxial MEMS gyroscope and accelerometer measurements ![crates.io](https://img.shields.io/crates/v/dcmimu.svg)
 *   [gcode (⭐86)](https://github.com/Michael-F-Bryan/gcode-rs): A gcode parser for no-std applications - [![crates.io](https://img.shields.io/crates/v/gcode.svg)](https://crates.io/crates/gcode)
@@ -213,14 +213,14 @@
 *   [infrared](https://crates.io/crates/infrared): infrared remote control library for embedded rust - ![crates.io](https://img.shields.io/crates/v/infrared.svg)
 *   [intrusive-collections](https://crates.io/crates/intrusive-collections): intrusive (non-allocating) singly/doubly linked lists and red-black trees - ![crates.io](https://img.shields.io/crates/v/intrusive-collections.svg)
 *   [managed](https://crates.io/crates/managed): provides `ManagedSlice`, `ManagedMap` backed by either their std counterparts or fixed-size buffers for `#![no_std]`. - ![crates.io](https://img.shields.io/crates/v/managed.svg)
-*   [menu (⭐42)](https://github.com/thejpster/menu): A basic command-line interface library. Has nested menus and basic help functionality. ![crates.io](https://img.shields.io/crates/v/menu.svg)
-*   [micromath (⭐374)](https://github.com/NeoBirth/micromath): Embedded Rust math library featuring fast, safe floating point approximations for common arithmetic operations, 2D and 3D vector types, and statistical analysis - ![crates.io](https://img.shields.io/crates/v/micromath.svg)
+*   [menu (⭐43)](https://github.com/thejpster/menu): A basic command-line interface library. Has nested menus and basic help functionality. ![crates.io](https://img.shields.io/crates/v/menu.svg)
+*   [micromath (⭐378)](https://github.com/NeoBirth/micromath): Embedded Rust math library featuring fast, safe floating point approximations for common arithmetic operations, 2D and 3D vector types, and statistical analysis - ![crates.io](https://img.shields.io/crates/v/micromath.svg)
 *   [nalgebra](https://crates.io/crates/nalgebra): general-purpose and low-dimensional linear algebra library - ![crates.io](https://img.shields.io/crates/v/nalgebra.svg)
 *   [nom](https://crates.io/crates/nom): parser combinator framework - ![crates.io](https://img.shields.io/crates/v/nom.svg)
 *   [null-terminated](https://crates.io/crates/null-terminated): generic null-terminated arrays - ![crates.io](https://img.shields.io/crates/v/null-terminated.svg)
 *   [num-format](https://crates.io/crates/num-format): Crate for producing string representations of numbers, formatted according to international standards, e.g. "1,000,000" for US English - ![crates.io](https://img.shields.io/crates/v/num-format.svg)
 *   [`panic-persist`](https://crates.io/crates/panic-persist): A panic handler crate inspired by `panic-ramdump` that logs panic messages to a region of RAM defined by the user, allowing for discovery of panic messages post-mortem using normal program control flow. - ![crates.io](https://img.shields.io/crates/v/panic-persist.svg)
-*   [pc-keyboard (⭐92)](https://github.com/thejpster/pc-keyboard): A PS/2 keyboard protocol driver. Transport (bit-banging or SPI) agnostic, but can convert Set 2 Scancodes into Unicode. ![crates.io](https://img.shields.io/crates/v/pc-keyboard.svg)
+*   [pc-keyboard (⭐93)](https://github.com/thejpster/pc-keyboard): A PS/2 keyboard protocol driver. Transport (bit-banging or SPI) agnostic, but can convert Set 2 Scancodes into Unicode. ![crates.io](https://img.shields.io/crates/v/pc-keyboard.svg)
 *   [qei](https://crates.io/crates/qei) : A qei wrapper that allows you to extend your qei timers from a 16-bit integer to a 64-bit integer. - ![crates.io](https://img.shields.io/crates/v/qei.svg)
 *   [qemu-exit](https://crates.io/crates/qemu-exit): Quit a running QEMU session with user-defined exit code. Useful for unit or integration tests using QEMU. - ![crates.io](https://img.shields.io/crates/v/qemu-exit.svg)
 *   [register-rs (⭐48)](https://github.com/rust-embedded/register-rs): Unified interface for MMIO and CPU registers. Provides type-safe bitfield manipulation. `register-rs` is Tock registers with added support for CPU register definitions using the same API as for the MMIO registers. This enables homogeneous interfaces to registers of all kinds. - ![crates.io](https://img.shields.io/crates/v/register.svg)
@@ -234,7 +234,7 @@
 
 ### Utilities
 
-*   [GPaste (⭐723)](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
+*   [GPaste (⭐731)](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
 
 ## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -356,7 +356,7 @@
 
 ### Projects / Frameworks
 
-*   [Fiat (⭐143)](https://github.com/mit-plv/fiat) - Mostly automated synthesis of correct-by-construction programs.
+*   [Fiat (⭐145)](https://github.com/mit-plv/fiat) - Mostly automated synthesis of correct-by-construction programs.
 *   [Iris](https://iris-project.org) - Higher-order concurrent separation logic framework.
 *   [Verdi (⭐570)](https://github.com/uwplse/verdi) - Framework for formally verifying distributed systems implementations.
 *   [VST](https://vst.cs.princeton.edu) - Toolchain for verifying C code inside Coq in a higher-order concurrent, impredicative separation logic that is sound w\.r.t. the Clight language of the CompCert compiler.
@@ -364,43 +364,43 @@
 ### Projects / User Interfaces
 
 *   [CoqIDE](https://coq.inria.fr/refman/practical-tools/coqide.html) - Standalone graphical tool for interacting with Coq.
-*   [Coqtail (⭐246)](https://github.com/whonore/Coqtail) - Interface for Coq based on the Vim text editor.
-*   [Company-Coq (⭐343)](https://github.com/cpitclaudel/company-coq) - IDE extensions for Proof General's Coq mode.
+*   [Coqtail (⭐251)](https://github.com/whonore/Coqtail) - Interface for Coq based on the Vim text editor.
+*   [Company-Coq (⭐344)](https://github.com/cpitclaudel/company-coq) - IDE extensions for Proof General's Coq mode.
 *   [jsCoq (⭐5)](https://github.com/ejgallego/jscoq) - Port of Coq to JavaScript, which enables running Coq projects in a browser.
 
 ### Projects / Libraries
 
 *   [Coq-std++](https://gitlab.mpi-sws.org/iris/stdpp) - Extended alternative standard library for Coq.
 *   [ExtLib (⭐122)](https://github.com/coq-community/coq-ext-lib) - Collection of theories and plugins that may be useful in other Coq developments.
-*   [FCSL-PCM (⭐23)](https://github.com/imdea-software/fcsl-pcm) - Formalization of partial commutative monoids as used in verification of pointer-manipulating programs.
+*   [FCSL-PCM (⭐24)](https://github.com/imdea-software/fcsl-pcm) - Formalization of partial commutative monoids as used in verification of pointer-manipulating programs.
 *   [Paco](http://plv.mpi-sws.org/paco/) - Library for parameterized coinduction.
 *   [Relation Algebra (⭐41)](https://github.com/damien-pous/relation-algebra) - Modular formalization of algebras with heterogeneous binary relations as models.
 
 ### Projects / Plugins
 
-*   [CoqHammer (⭐199)](https://github.com/lukaszcz/coqhammer) - General-purpose automated reasoning hammer tool that combines learning from previous proofs with the translation of problems to automated provers and the reconstruction of found proofs.
-*   [Equations (⭐204)](https://github.com/mattam82/Coq-Equations) - Function definition package for Coq.
-*   [MetaCoq (⭐330)](https://github.com/MetaCoq/metacoq) - Project formalizing Coq in Coq and providing tools for manipulating Coq terms and developing certified plugins.
+*   [CoqHammer (⭐202)](https://github.com/lukaszcz/coqhammer) - General-purpose automated reasoning hammer tool that combines learning from previous proofs with the translation of problems to automated provers and the reconstruction of found proofs.
+*   [Equations (⭐205)](https://github.com/mattam82/Coq-Equations) - Function definition package for Coq.
+*   [MetaCoq (⭐333)](https://github.com/MetaCoq/metacoq) - Project formalizing Coq in Coq and providing tools for manipulating Coq terms and developing certified plugins.
 *   [Paramcoq (⭐44)](https://github.com/coq-community/paramcoq) - Plugin to generate parametricity translations of Coq terms.
-*   [QuickChick (⭐237)](https://github.com/QuickChick/QuickChick) - Plugin for randomized property-based testing.
+*   [QuickChick (⭐238)](https://github.com/QuickChick/QuickChick) - Plugin for randomized property-based testing.
 *   [Unicoq (⭐49)](https://github.com/unicoq/unicoq) - Plugin that replaces the existing unification algorithm with an enhanced one.
 
 ### Projects / Tools
 
-*   [CoqOfOCaml (⭐232)](https://github.com/clarus/coq-of-ocaml) - Tool for generating idiomatic Coq from OCaml code.
+*   [CoqOfOCaml (⭐235)](https://github.com/clarus/coq-of-ocaml) - Tool for generating idiomatic Coq from OCaml code.
 
 ### Projects / Type Theory and Mathematics
 
 *   [CoRN (⭐108)](https://github.com/coq-community/corn) - Library of constructive real analysis and algebra.
-*   [GeoCoq (⭐163)](https://github.com/GeoCoq/GeoCoq) - Formalization of geometry based on Tarski's axiom system.
+*   [GeoCoq (⭐164)](https://github.com/GeoCoq/GeoCoq) - Formalization of geometry based on Tarski's axiom system.
 *   [Math Classes (⭐158)](https://github.com/coq-community/math-classes) - Abstract interfaces for mathematical structures based on type classes.
 *   [Odd Order Theorem (⭐24)](https://github.com/math-comp/odd-order) - Formal proof of the Odd Order Theorem, a landmark result of finite group theory.
-*   [UniMath (⭐898)](https://github.com/UniMath/UniMath) - Library which aims to formalize a substantial body of mathematics using the univalent point of view.
+*   [UniMath (⭐901)](https://github.com/UniMath/UniMath) - Library which aims to formalize a substantial body of mathematics using the univalent point of view.
 
 ### Projects / Verified Software
 
 *   [CompCert](http://compcert.inria.fr) - High-assurance compiler for almost all of the C language (ISO C99), generating efficient code for the PowerPC, ARM, RISC-V and x86 processors.
-*   [Fiat-Crypto (⭐659)](https://github.com/mit-plv/fiat-crypto) - Cryptographic primitive code generation.
+*   [Fiat-Crypto (⭐673)](https://github.com/mit-plv/fiat-crypto) - Cryptographic primitive code generation.
 *   [lambda-rust](https://gitlab.mpi-sws.org/iris/lambda-rust) - Formal model of a Rust core language and type system, a logical relation for the type system, and safety proofs for some Rust libraries.
 *   [Verdi Raft (⭐177)](https://github.com/uwplse/verdi-raft) - Implementation of the Raft distributed consensus protocol, verified in Coq using the Verdi framework.
 
@@ -731,7 +731,7 @@ Topics: React, Forms, CSS Grid\
 
 ### Debugging
 
-*   🍰 [DebugKit plugin (⭐853)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
+*   🍰 [DebugKit plugin (⭐854)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 
 ### Email
 
@@ -739,7 +739,7 @@ Topics: React, Forms, CSS Grid\
 
 ### Miscellaneous
 
-*   🍰 [Ajax plugin (⭐56)](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
+*   🍰 [Ajax plugin (⭐57)](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
 *   [CakeImpersonate plugin (⭐7)](https://github.com/jomweb/CakeImpersonate) - A component that stores the current authentication session and creates new session for impersonating Users. User can revert back to original authentication sessions without the need to re-login.
 
 ### Navigation
@@ -748,11 +748,11 @@ Topics: React, Forms, CSS Grid\
 
 ### Search
 
-*   🍰 [Search plugin (⭐167)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
+*   🍰 [Search plugin (⭐169)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
 
 ### Security
 
-*   🍰 [Captcha plugin (⭐9)](https://github.com/dereuromark/cakephp-captcha) - Simple, unobtrusive and extendable captcha solution providing by default an image based math captcha.
+*   🍰 [Captcha plugin (⭐10)](https://github.com/dereuromark/cakephp-captcha) - Simple, unobtrusive and extendable captcha solution providing by default an image based math captcha.
 
 ### Templating
 

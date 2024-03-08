@@ -18,13 +18,13 @@
 
 Allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
 
-Installs: 10000 | Stars: 3428 | Last update: n/a
+Installs: 10000 | Stars: 3432 | Last update: n/a
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Scrollbar / Diagnostics
 
-*   [gorbit99/codewindow.nvim (⭐380)](https://github.com/gorbit99/codewindow.nvim) - Minimap plugin, that is closely integrated with treesitter and the builtin LSP to display more information to the user.
+*   [gorbit99/codewindow.nvim (⭐387)](https://github.com/gorbit99/codewindow.nvim) - Minimap plugin, that is closely integrated with treesitter and the builtin LSP to display more information to the user.
 
 ## [4. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 

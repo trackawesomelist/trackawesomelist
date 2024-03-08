@@ -100,7 +100,7 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Godot Polygon 2D Fracture (⭐272)](https://github.com/SoloByte/godot-polygon2d-fracture) - Two simple scripts for fracturing and cutting polygons.
+*   [Godot Polygon 2D Fracture (⭐276)](https://github.com/SoloByte/godot-polygon2d-fracture) - Two simple scripts for fracturing and cutting polygons.
 
 ### GDScript/C# editor support / Godot version unknown
 
@@ -439,12 +439,12 @@
 
 ### Visualization
 
-*   [ipychart (⭐79)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
+*   [ipychart (⭐95)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
 
 ### Rendering/Publishing/Conversion
 
-*   [Ganimede (⭐4)](https://github.com/manugraj/ganimede) - Store, version, edit and execute notebooks in sandboxes and integrate them directly via REST interfaces.
-*   [Voila (⭐4.9k)](https://github.com/QuantStack/voila) - Rendering of live Jupyter Notebooks with interactive widgets, allowing dashboarding based on Jupyter Notebooks.
+*   [Ganimede (⭐5)](https://github.com/manugraj/ganimede) - Store, version, edit and execute notebooks in sandboxes and integrate them directly via REST interfaces.
+*   [Voila (⭐5.1k)](https://github.com/QuantStack/voila) - Rendering of live Jupyter Notebooks with interactive widgets, allowing dashboarding based on Jupyter Notebooks.
 
 ## [49. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 

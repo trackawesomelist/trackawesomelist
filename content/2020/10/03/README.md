@@ -10,7 +10,7 @@
 
 ### Software / Resource Planning
 
-*   [Dolibarr](https://www.dolibarr.org/) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). ([Demo](https://www.dolibarr.org/onlinedemo.php), [Source Code (⭐4.7k)](https://github.com/Dolibarr/dolibarr)) `GPL-3.0` `PHP/deb`
+*   [Dolibarr](https://www.dolibarr.org/) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). ([Demo](https://www.dolibarr.org/onlinedemo.php), [Source Code (⭐4.8k)](https://github.com/Dolibarr/dolibarr)) `GPL-3.0` `PHP/deb`
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -94,7 +94,7 @@
 
 ### ORM / Database / Datamapping
 
-*   [Itosho/EasyQuery plugin (⭐25)](https://github.com/itosho/easy-query) - Behavior for easily generating some complicated queries like (bulk) insert/upsert etc.
+*   🍰 [Itosho/EasyQuery plugin (⭐25)](https://github.com/itosho/easy-query) - Behavior for easily generating some complicated queries like (bulk) insert/upsert etc.
 
 ## [8. Learn to Program](/content/karlhorky/learn-to-program/README.md)
 
@@ -322,7 +322,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Testing
 
-*   [willowtreeapps/assertk (⭐703)](https://github.com/willowtreeapps/assertk) - assertions for kotlin inspired by assertj
+*   [willowtreeapps/assertk (⭐711)](https://github.com/willowtreeapps/assertk) - assertions for kotlin inspired by assertj
 
 ### Libraries/Frameworks / Dependency Injection
 
@@ -347,7 +347,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Libraries/Frameworks / Database
 
 *   [shyiko/levelkt (⭐14)](https://github.com/shyiko/levelkt) - LevelDB client for Kotlin and/or Java 8+.
-*   [SubiyaCryolite/jds (⭐21)](https://github.com/SubiyaCryolite/jds) - Jenesis Data Store: a dynamic, cross platform, high performance, ORM data-mapper. Designed to assist in rapid development and data mining.
+*   [SubiyaCryolite/jds (⭐22)](https://github.com/SubiyaCryolite/jds) - Jenesis Data Store: a dynamic, cross platform, high performance, ORM data-mapper. Designed to assist in rapid development and data mining.
 *   [fluidsonic/fluid-mongo (⭐31)](https://github.com/fluidsonic/fluid-mongo) - Coroutine support for MongoDB built on top of the official Reactive Streams Java Driver
 
 ### Libraries/Frameworks / Tools
@@ -359,7 +359,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Libraries/Frameworks / Compiler Plugins
 
 *   [aafanasev/sekret (⭐108)](https://github.com/aafanasev/sekret) - Kotlin compiler plugin to exclude secret properties from toString() of Data class
-*   [AhmedMourad0/no-copy (⭐150)](https://github.com/AhmedMourad0/no-copy) - A Kotlin compiler plugin that performs 'copy-erasure' on data classes.
+*   [AhmedMourad0/no-copy (⭐151)](https://github.com/AhmedMourad0/no-copy) - A Kotlin compiler plugin that performs 'copy-erasure' on data classes.
 
 ### Libraries/Frameworks / Continuous Integration
 
@@ -387,8 +387,8 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Extensions
 
-*   [hankdavidson/ktime (⭐25)](https://github.com/hankdavidson/ktime) - Extensions to the java8 time library
-*   [LukasForst/katlib (⭐78)](https://github.com/LukasForst/katlib) - A collection of Kotlin extension functions and utilities.
+*   [hankdavidson/ktime (⭐26)](https://github.com/hankdavidson/ktime) - Extensions to the java8 time library
+*   [LukasForst/katlib (⭐80)](https://github.com/LukasForst/katlib) - A collection of Kotlin extension functions and utilities.
 
 ### Libraries/Frameworks / Graphics
 
@@ -399,12 +399,12 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Libraries/Frameworks / Data Science
 
 *   [Kotlin for Data Science](https://kotlinlang.org/docs/reference/data-science-overview.html) - Kotlin for Data Science overview page
-*   [kiegroup/optaplanner](https://www.optaplanner.org/compatibility/kotlin.html) - Constraint solving AI for planning and scheduling problems.
 *   [breandan/kotlingrad (⭐504)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
+*   [kiegroup/optaplanner](https://www.optaplanner.org/compatibility/kotlin.html) - Constraint solving AI for planning and scheduling problems.
 
 ### Libraries/Frameworks / Command Line Interface
 
-*   [leprosus/kotlin-cli (⭐37)](https://github.com/leprosus/kotlin-cli) - Kotlin-CLI - command line interface options parser for Kotlin.
+*   [leprosus/kotlin-cli (⭐38)](https://github.com/leprosus/kotlin-cli) - Kotlin-CLI - command line interface options parser for Kotlin.
 *   [jimschubert/kopper (⭐39)](https://github.com/jimschubert/kopper) - A simple Kotlin option parser
 
 ### Projects / Web
@@ -430,7 +430,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Kotlin Native / Projects
 
 *   [perses-games/konan-sfml (⭐18)](https://github.com/perses-games/konan-sfml) - Kotlin native with SFML example
-*   [JetBrains/kotlinconf-spinner (⭐621)](https://github.com/JetBrains/kotlinconf-spinner) - Simple spinner-like game intended to demonstrate capabilities of Kotlin/Native software stack.
+*   [JetBrains/kotlinconf-spinner (⭐623)](https://github.com/JetBrains/kotlinconf-spinner) - Simple spinner-like game intended to demonstrate capabilities of Kotlin/Native software stack.
 
 ---
 

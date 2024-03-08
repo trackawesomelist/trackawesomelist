@@ -48,8 +48,8 @@
 
 ### Neovim Lua Development / Diagnostics
 
-*   [folke/neodev.nvim (⭐1.7k)](https://github.com/folke/neodev.nvim) - Dev setup for init.lua and plugin development with full signature help, docs and completion for the Neovim Lua API.
-*   [nvim-neorocks/luarocks-tag-release (⭐36)](https://github.com/nvim-neorocks/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
+*   [folke/neodev.nvim (⭐1.8k)](https://github.com/folke/neodev.nvim) - Dev setup for init.lua and plugin development with full signature help, docs and completion for the Neovim Lua API.
+*   [nvim-neorocks/luarocks-tag-release (⭐38)](https://github.com/nvim-neorocks/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
 
 ## [6. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 

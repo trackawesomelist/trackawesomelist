@@ -60,7 +60,7 @@
 
 ### Software / G-code
 
-*   [gcode-generative-for-processing (⭐25)](https://github.com/o0morgan0o/gcode-generative-for-processing) - Processing library, aiming to create gcode from simple shapes. (Designed for usage with the Creality CR10)
+*   [gcode-generative-for-processing (⭐26)](https://github.com/o0morgan0o/gcode-generative-for-processing) - Processing library, aiming to create gcode from simple shapes. (Designed for usage with the Creality CR10)
 
 ## [7. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -228,7 +228,7 @@
 
 ### Software / Resource Planning
 
-*   [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code (⭐6k)](https://github.com/grocy/grocy)) `MIT` `PHP/Docker`
+*   [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code (⭐6.1k)](https://github.com/grocy/grocy)) `MIT` `PHP/Docker`
 
 ## [25. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 

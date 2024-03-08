@@ -138,7 +138,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Tools / Playground
 
-*   [typed-install (⭐99)](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
+*   [typed-install (⭐100)](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
 
 ## [14. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -272,7 +272,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### GTFS Based Visualizations
 
-*   [Mapnificent](https://www.mapnificent.net/) - Shows areas you can reach with public transport in a given time. Open-source [on GitHub (⭐368)](https://github.com/mapnificent/mapnificent), live at <https://www.mapnificent.net/>.
+*   [Mapnificent](https://www.mapnificent.net/) - Shows areas you can reach with public transport in a given time. Open-source [on GitHub (⭐369)](https://github.com/mapnificent/mapnificent), live at <https://www.mapnificent.net/>.
 
 ## [24. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 

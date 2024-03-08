@@ -28,11 +28,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [vxpm/ferris.nvim (⭐76)](https://github.com/vxpm/ferris.nvim) - Interact with Rust-Analyzer's LSP extensions.
+*   [vxpm/ferris.nvim (⭐79)](https://github.com/vxpm/ferris.nvim) - Interact with Rust-Analyzer's LSP extensions.
 
 ### Terminal Integration / Diagnostics
 
-*   [niuiic/terminal.nvim (⭐12)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
+*   [niuiic/terminal.nvim (⭐13)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
 
 ## [5. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 

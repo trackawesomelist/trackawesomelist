@@ -50,7 +50,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [mfussenegger/nvim-jdtls (⭐846)](https://github.com/mfussenegger/nvim-jdtls) - Extensions for the built-in LSP support for eclipse.jdt.ls.
+*   [mfussenegger/nvim-jdtls (⭐870)](https://github.com/mfussenegger/nvim-jdtls) - Extensions for the built-in LSP support for eclipse.jdt.ls.
 
 ## [5. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 

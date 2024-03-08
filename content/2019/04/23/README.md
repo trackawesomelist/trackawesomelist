@@ -11,7 +11,7 @@
 ### Vue SPA with Laravel [↗](https://awesomestacks.dev/vue-spa-with-laravel) / Resources
 
 *   [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙 (⭐43k)](https://github.com/babel/babel) - compiler for writing next generation JavaScript; Babel will turn your ES6+ code into ES5 friendly code, so you can start using it right now without waiting for browser support.
-*   [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙 (⭐206k)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
+*   [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙 (⭐207k)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
 *   [Sass](https://sass-lang.com) - [🛠️](https://stackshare.io/sass) - [🐙 (⭐15k)](https://github.com/sass/sass) - Sass is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
 *   [Laravel Mix](https://laravel.com/docs/5.8/mix) - [🐙 (⭐5.2k)](https://github.com/JeffreyWay/laravel-mix) - A build tool built on top of webpack, to easily compile any front end assets. (secret: works with or without Laravel)
 *   [Building a Vue SPA with Laravel](https://laravel-news.com/using-vue-router-laravel)

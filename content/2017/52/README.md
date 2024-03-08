@@ -302,7 +302,7 @@ Topics: Node, JavaScript, Automation\
 
 *   [Healthchecks](https://healthchecks.io/) - Django app which listens for pings and sends alerts when pings are late. ([Source Code (⭐7.1k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
 *   [pyLoad](https://pyload.net/) - Lightweight, customizable and remotely manageable downloader for 1-click-hosting sites like rapidshare.com or uploaded.to. ([Source Code (⭐3.1k)](https://github.com/pyload/pyload)) `GPL-3.0` `Python`
-*   [Radarr](https://radarr.video/) - Radarr is an independent fork of Sonarr reworked for automatically downloading movies via Usenet and BitTorrent, à la Couchpotato. ([Source Code (⭐8.8k)](https://github.com/Radarr/Radarr)) `GPL-3.0` `C#/Docker`
+*   [Radarr](https://radarr.video/) - Radarr is an independent fork of Sonarr reworked for automatically downloading movies via Usenet and BitTorrent, à la Couchpotato. ([Source Code (⭐8.9k)](https://github.com/Radarr/Radarr)) `GPL-3.0` `C#/Docker`
 
 ### Software / Blogging Platforms
 
@@ -315,8 +315,8 @@ Topics: Node, JavaScript, Automation\
 ### Software / Communication - Custom Communication Systems
 
 *   [GNUnet](https://gnunet.org/) - Free software framework for decentralized, peer-to-peer networking. ([Source Code](https://gnunet.org/git/)) `GPL-3.0` `C`
-*   [Hawkpost](https://hawkpost.co) - HawkPost is a web app that lets you create unique links that you can share with a person that desires to send you important information but doesn't know how to encrypt it. The message is encrypted in their browser and sent to your email address. ([Source Code (⭐941)](https://github.com/whitesmith/hawkpost)) `MIT` `Python/Docker`
-*   [Mibew](https://mibew.org) - Mibew Messenger is an open-source live support application written in PHP and MySQL. It enables one-on-one chat assistance in real-time directly from your website. ([Demo](https://mibew.org/demo2), [Source Code (⭐465)](https://github.com/Mibew/mibew)) `Apache-2.0` `PHP`
+*   [Hawkpost](https://hawkpost.co) - HawkPost is a web app that lets you create unique links that you can share with a person that desires to send you important information but doesn't know how to encrypt it. The message is encrypted in their browser and sent to your email address. ([Source Code (⭐943)](https://github.com/whitesmith/hawkpost)) `MIT` `Python/Docker`
+*   [Mibew](https://mibew.org) - Mibew Messenger is an open-source live support application written in PHP and MySQL. It enables one-on-one chat assistance in real-time directly from your website. ([Demo](https://mibew.org/demo2), [Source Code (⭐466)](https://github.com/Mibew/mibew)) `Apache-2.0` `PHP`
 *   [Rocket.Chat](https://rocket.chat/) - Teamchat solution similar to Gitter.im or Slack. ([Source Code (⭐38k)](https://github.com/RocketChat/Rocket.Chat)) `MIT` `Nodejs/Docker/K8S`
 
 ### Software / Communication - Email - Mail Transfer Agents
@@ -329,12 +329,12 @@ Topics: Node, JavaScript, Automation\
 
 ### Software / Communication - SIP
 
-*   [FreeSWITCH](https://freeswitch.org/) - Scalable open source cross-platform telephony platform. ([Source Code (⭐2.8k)](https://github.com/signalwire/freeswitch)) `MPL-2.0` `C`
+*   [FreeSWITCH](https://freeswitch.org/) - Scalable open source cross-platform telephony platform. ([Source Code (⭐2.9k)](https://github.com/signalwire/freeswitch)) `MPL-2.0` `C`
 
 ### Software / Communication - Social Networks and Forums
 
 *   [Loomio](https://www.loomio.org/) - Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. ([Source Code (⭐2.3k)](https://github.com/loomio/loomio)) `AGPL-3.0` `Docker`
-*   [Mastodon](https://joinmastodon.org/) - Federated microblogging server. ([Source Code (⭐45k)](https://github.com/mastodon/mastodon), [Clients (⭐12)](https://github.com/hyperupcall/awesome-mastodon)) `AGPL-3.0` `Ruby`
+*   [Mastodon](https://joinmastodon.org/) - Federated microblogging server. ([Source Code (⭐46k)](https://github.com/mastodon/mastodon), [Clients (⭐14)](https://github.com/hyperupcall/awesome-mastodon)) `AGPL-3.0` `Ruby`
 *   [OSSN](https://www.opensource-socialnetwork.org/) - Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who share similar professional or personal interests. ([Source Code (⭐1k)](https://github.com/opensource-socialnetwork/opensource-socialnetwork)) `GPL-2.0` `PHP`
 *   [phpBB](https://www.phpbb.com/) - Flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website. ([Source Code (⭐1.8k)](https://github.com/phpbb/phpbb)) `GPL-2.0` `PHP`
 
@@ -351,12 +351,12 @@ Topics: Node, JavaScript, Automation\
 ### Software / Document Management - Integrated Library Systems (ILS)
 
 *   [Evergreen](https://evergreen-ils.org) - Highly-scalable software for libraries that helps library patrons find library materials, and helps libraries manage, catalog, and circulate those materials. ([Source Code (⭐119)](https://github.com/evergreen-library-system/Evergreen)) `GPL-2.0` `PLpgSQL`
-*   [Koha](https://koha-community.org/) - Enterprise-class ILS with modules for acquisitions, circulation, cataloging, label printing, offline circulation for when Internet access is not available, and much more. ([Demo](https://koha-community.org/demo/), [Source Code (⭐451)](https://github.com/Koha-Community/Koha)) `GPL-3.0` `Perl`
+*   [Koha](https://koha-community.org/) - Enterprise-class ILS with modules for acquisitions, circulation, cataloging, label printing, offline circulation for when Internet access is not available, and much more. ([Demo](https://koha-community.org/demo/), [Source Code (⭐458)](https://github.com/Koha-Community/Koha)) `GPL-3.0` `Perl`
 
 ### Software / Feed Readers
 
 *   [CommaFeed](https://www.commafeed.com/) - Google Reader inspired self-hosted RSS reader. ([Source Code (⭐2.4k)](https://github.com/Athou/commafeed)) `Apache-2.0` `Java/Docker`
-*   [RSS Monster (⭐418)](https://github.com/pietheinstrengholt/rssmonster) - An easy to use web-based RSS aggregator and reader compatible with the Fever API (alternative to Google Reader). `MIT` `PHP`
+*   [RSS Monster (⭐420)](https://github.com/pietheinstrengholt/rssmonster) - An easy to use web-based RSS aggregator and reader compatible with the Fever API (alternative to Google Reader). `MIT` `PHP`
 
 ### Software / File Transfer & Synchronization
 
@@ -366,7 +366,7 @@ Topics: Node, JavaScript, Automation\
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Files Sharing (⭐148)](https://github.com/axeloz/filesharing) - Open Source and self-hosted files sharing application based on unique and temporary links. `GPL-3.0` `PHP/Docker`
+*   [Files Sharing (⭐156)](https://github.com/axeloz/filesharing) - Open Source and self-hosted files sharing application based on unique and temporary links. `GPL-3.0` `PHP/Docker`
 
 ### Software / Groupware
 
@@ -374,11 +374,11 @@ Topics: Node, JavaScript, Automation\
 
 ### Software / Human Resources Management (HRM)
 
-*   [admidio](https://www.admidio.org/) - Admidio is a free open source user management system for websites of organizations and groups. The system has a flexible role model so that it’s possible to reflect the structure and permissions of your organization. ([Demo](https://www.admidio.org/demo/), [Source Code (⭐277)](https://github.com/Admidio/admidio)) `GPL-2.0` `PHP/Docker`
+*   [admidio](https://www.admidio.org/) - Admidio is a free open source user management system for websites of organizations and groups. The system has a flexible role model so that it’s possible to reflect the structure and permissions of your organization. ([Demo](https://www.admidio.org/demo/), [Source Code (⭐280)](https://github.com/Admidio/admidio)) `GPL-2.0` `PHP/Docker`
 
 ### Software / Inventory Management
 
-*   [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. ([Source Code (⭐408)](https://github.com/inventaire/inventaire)) `AGPL-3.0` `Nodejs`
+*   [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. ([Source Code (⭐412)](https://github.com/inventaire/inventaire)) `AGPL-3.0` `Nodejs`
 
 ### Software / Media Streaming - Video Streaming
 
@@ -398,7 +398,7 @@ Topics: Node, JavaScript, Automation\
 
 ### Software / Photo and Video Galleries
 
-*   [sigal (⭐845)](https://github.com/saimn/sigal) - Yet another simple static gallery generator. `MIT` `Python`
+*   [sigal (⭐846)](https://github.com/saimn/sigal) - Yet another simple static gallery generator. `MIT` `Python`
 
 ### Software / Proxy
 

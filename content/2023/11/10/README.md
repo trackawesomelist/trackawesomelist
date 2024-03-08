@@ -90,7 +90,7 @@
 
 ### GTFS Libraries / Python
 
-*   [gtfs\_functions (⭐83)](https://github.com/Bondify/gtfs_functions) - Python package with useful functions to create geo-spatial visualizations from GTFS feeds.
+*   [gtfs\_functions (⭐84)](https://github.com/Bondify/gtfs_functions) - Python package with useful functions to create geo-spatial visualizations from GTFS feeds.
 
 ## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

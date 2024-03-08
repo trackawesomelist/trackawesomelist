@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 21 - Nov 27, 2016
 
-44 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -491,19 +491,13 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 *   [notie (⭐6.3k)](https://github.com/jaredreich/notie) - Simple notifications and inputs with no dependencies.
 
-## [32. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
-
-### Java / Git
-
-*   [keywhiz (⭐2.6k)](https://github.com/square/keywhiz) - A system for distributing and managing secrets.
-
-## [33. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [32. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Resources / Books
 
 *   [Express in Action](https://www.manning.com/books/express-in-action)
 
-## [34. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [33. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
@@ -681,7 +675,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 
 
-## [35. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [34. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Libraries Audio
 
@@ -692,43 +686,43 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 *   [Peaks.js](https://www.npmjs.com/package/peaks.js) - Modular client-side JavaScript component designed for the display of and interaction with audio waveform material in the browser.
 
-## [36. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [35. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CMS
 
 *   [PushType](http://www.pushtype.org/) - A next generation, open source content management system for Ruby on Rails.
 
-## [37. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [36. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / R companies
 
 *   RapidAPI <http://blog.rapidapi.com/>
 
-## [38. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [37. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Frameworks and libraries / Slack
 
 *   [Cog](https://operable.io/) (Any language)
 
-## [39. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [38. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Videos / Video tutorials
 
 *   [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - Live coding videos on youtube.
 
-## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
 *   [mbedTLS (⭐4.8k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
 
-## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [40. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
 *   [HGCircularSlider (⭐2.5k)](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
 
-## [42. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [41. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Micro Frameworks
 
@@ -738,14 +732,14 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 *   [UnifiedArchive (⭐272)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 
-## [43. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [42. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Projects using choo
 
 *   [enviar (⭐34)](https://github.com/timwis/enviar) - Chat interface for SMS / text messages.
 *   [kaktus (⭐0)](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB.
 
-## [44. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [43. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Settings
 

@@ -35,7 +35,7 @@
 
 ### Tools / Registry
 
-*   [boring-registry (⭐141)](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with Terraform and OpenTofu.
+*   [boring-registry (⭐141)](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with OpenTofu.
 
 ### Tools / Helpers
 
@@ -81,6 +81,8 @@
 ### Command-line tools
 
 *   [jq (⭐28k)](https://github.com/jqlang/jq) - A lightweight and flexible command-line JSON processor.
+    *   [jaq (⭐2.4k)](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity. Written in Rust.
+    *   [gojq (⭐3k)](https://github.com/itchyny/gojq) - Pure Go implementation of jq. A bit faster and more portable.
 *   [livejq (⭐10)](https://github.com/kunalsin9h/livejq) - An alternative `jq` implementation in rust for continuous parsing without crashing on invalid JSON
 *   [json-search (⭐4)](https://github.com/cosmo-ray/json-search) - A small tool to search for objects/values in json files.
 *   [jshon](https://web.archive.org/web/20240206155217/http://kmkeen.com/jshon/) - A parser designed for maximum convenience within the shell.
@@ -194,11 +196,11 @@
 
 ### Note Taking / Diagnostics
 
-*   [2KAbhishek/tdo.nvim (⭐22)](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
+*   [2KAbhishek/tdo.nvim (⭐30)](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
 
 ### Terminal Integration / Diagnostics
 
-*   [2KAbhishek/termim.nvim (⭐20)](https://github.com/2KAbhishek/termim.nvim/) - Neovim Terminal, Improved.
+*   [2KAbhishek/termim.nvim (⭐29)](https://github.com/2KAbhishek/termim.nvim/) - Neovim Terminal, Improved.
 
 ## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

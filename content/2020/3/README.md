@@ -419,9 +419,10 @@
 
 *   **Libraries**
     *   [Ocaml-sklearn (⭐31)](https://github.com/lehy/ocaml-sklearn) scikit-learn for OCaml.
-    *   [Owl](https://ocaml.xyz/) - Scientific library with neural networks, algoritmic differentiation and ONNX support.
+    *   [Owl](https://ocaml.xyz/) - Scientific library with neural networks, algorithmic differentiation and ONNX support.
     *   [Object detection convolutional neural network with OCaml (based on Owl) (⭐17)](https://github.com/owlbarn/owl_mask_rcnn).
-    *   [PyTorch bindings (⭐396)](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
+    *   [PyTorch bindings (⭐397)](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
+    *   [Ocaml-NN (⭐3)](https://github.com/ck090/ocaml-nn/tree/main) - Fully functional monadic implementation of a Neural Network (FCNNs) in OCaml
 *   **Articles**
     *   [Deep Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/deep-learning-experiments-in-ocaml/).
     *   [Transfer Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/of-pythons-and-camels/).
@@ -1028,7 +1029,7 @@
 *   [AAC Tactics (⭐29)](https://github.com/coq-community/aac-tactics) - Tactics for rewriting universally quantified equations, modulo associativity and commutativity of some operator.
 *   [Gappa](https://gitlab.inria.fr/gappa/coq) - Tactic for discharging goals about floating-point arithmetic and round-off errors.
 *   [Mtac2 (⭐51)](https://github.com/Mtac2/Mtac2) - Plugin adding typed tactics for backward reasoning.
-*   [SMTCoq (⭐147)](https://github.com/smtcoq/smtcoq) - Tool that checks proof witnesses coming from external SAT and SMT solvers.
+*   [SMTCoq (⭐148)](https://github.com/smtcoq/smtcoq) - Tool that checks proof witnesses coming from external SAT and SMT solvers.
 
 ### Projects / Tools
 
@@ -1038,8 +1039,8 @@
 
 ### Projects / Type Theory and Mathematics
 
-*   [Analysis (⭐174)](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components.
-*   [Category Theory in Coq (⭐726)](https://github.com/jwiegley/category-theory) - Axiom-free formalization of category theory.
+*   [Analysis (⭐176)](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components.
+*   [Category Theory in Coq (⭐729)](https://github.com/jwiegley/category-theory) - Axiom-free formalization of category theory.
 *   [Coquelicot](https://gitlab.inria.fr/coquelicot/coquelicot) - Formalization of classical real analysis compatible with the standard library and focusing on usability.
 *   [Mathematical Components](http://math-comp.github.io) - Formalization of mathematical theories, focusing in particular on group theory.
 
@@ -1049,7 +1050,7 @@
 
 ### Resources / Community
 
-*   [Mathematical Components wiki (⭐531)](https://github.com/math-comp/math-comp/wiki)
+*   [Mathematical Components wiki (⭐536)](https://github.com/math-comp/math-comp/wiki)
 
 ### Resources / Books
 
@@ -1065,7 +1066,7 @@
 *   [Coq in a Hurry](http://cel.archives-ouvertes.fr/inria-00001173) - Introduction to how Coq can be used to define logical concepts and functions and reason about them.
 *   [Lemma Overloading (⭐26)](https://github.com/coq-community/lemma-overloading) - Demonstration of design patterns for programming and proving with canonical structures.
 *   [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) - Basics of using Coq to write formal proofs.
-*   [Tricks in Coq (⭐470)](https://github.com/tchajed/coq-tricks) - Tips, tricks, and features that are hard to discover.
+*   [Tricks in Coq (⭐471)](https://github.com/tchajed/coq-tricks) - Tips, tricks, and features that are hard to discover.
 
 ## [74. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
 

@@ -1047,7 +1047,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐848)](https://g
 
 *   [cargo-audit](https://rustsec.org) — Audit Cargo.lock for crates with security vulnerabilities reported to the [RustSec Advisory Database (⭐823)](https://github.com/RustSec/advisory-db/).
 
-*   [cargo-bloat (⭐2.1k)](https://github.com/RazrFalcon/cargo-bloat) :warning: — Find out what takes most of the space in your executable. supports ELF (Linux, BSD), Mach-O (macOS) and PE (Windows) binaries.
+*   [cargo-bloat (⭐2.1k)](https://github.com/RazrFalcon/cargo-bloat) — Find out what takes most of the space in your executable. supports ELF (Linux, BSD), Mach-O (macOS) and PE (Windows) binaries.
 
 *   [cargo-breaking (⭐111)](https://github.com/iomentum/cargo-breaking) — cargo-breaking compares a crate's public API between two different branches, shows what changed, and suggests the next version according to semver.
 
@@ -1532,7 +1532,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐848)](https://g
 
 *   [bloaty (⭐4.5k)](https://github.com/google/bloaty) — Ever wondered what's making your binary big? Bloaty McBloatface will show you a size profile of the binary so you can understand what's taking up space inside. Bloaty performs a deep analysis of the binary. Using custom ELF, DWARF, and Mach-O parsers,  Bloaty aims to accurately attribute every byte of the binary to the symbol or compileunit that produced it.  It will even disassemble the binary looking for references to anonymous data. F
 
-*   [cargo-bloat (⭐2.1k)](https://github.com/RazrFalcon/cargo-bloat) :warning: — Find out what takes most of the space in your executable. supports ELF (Linux, BSD), Mach-O (macOS) and PE (Windows) binaries.
+*   [cargo-bloat (⭐2.1k)](https://github.com/RazrFalcon/cargo-bloat) — Find out what takes most of the space in your executable. supports ELF (Linux, BSD), Mach-O (macOS) and PE (Windows) binaries.
 
 *   [cwe\_checker (⭐1k)](https://github.com/fkie-cad/cwe_checker) — cwe\_checker finds vulnerable patterns in binary executables.
 

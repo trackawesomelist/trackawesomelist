@@ -95,20 +95,20 @@
 
 ### Plugins / Git
 
-*   [git-crypt (⭐7.7k)](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
+*   [git-crypt (⭐7.9k)](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
 
 ### C / Git
 
-*   [OpenSSL (⭐23k)](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
+*   [OpenSSL (⭐24k)](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
 *   [PolarSSL](https://tls.mbed.org/) - PolarSSL makes it trivially easy for developers to include cryptographic and SSL/TLS capabilities in their (embedded) products, facilitating this functionality with a minimal coding footprint.
 
 ### C++ / Git
 
-*   [cryptopp (⭐4.3k)](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
+*   [cryptopp (⭐4.4k)](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
 
 ### C-sharp / Git
 
-*   [SecurityDriven.Inferno (⭐566)](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto done right.
+*   [SecurityDriven.Inferno (⭐565)](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto done right.
 
 ### Go / Git
 
@@ -117,7 +117,7 @@
 ### JavaScript / Git
 
 *   [crypto-js (⭐15k)](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
-*   [rusha (⭐275)](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
+*   [rusha (⭐276)](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
 
 ### Julia / Git
 

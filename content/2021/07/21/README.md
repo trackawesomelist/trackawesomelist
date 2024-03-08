@@ -118,7 +118,7 @@
 
 ### Integrations / Mypy plugins
 
-*   [nbQA (⭐898)](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
+*   [nbQA (⭐944)](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

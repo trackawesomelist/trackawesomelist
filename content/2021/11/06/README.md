@@ -90,7 +90,7 @@
 
 ### Software / Document Management - E-books
 
-*   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metadata support. ([Demo](https://wiki.kavitareader.com/en/kavita-demo), [Source Code (⭐4.6k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET/Docker`
+*   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metadata support. ([Demo](https://wiki.kavitareader.com/en/kavita-demo), [Source Code (⭐4.8k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET/Docker`
 
 ## [8. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
 

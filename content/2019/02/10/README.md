@@ -10,7 +10,7 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [pfaedle (⭐166)](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for GTFS using OpenStreetMap data
+*   [pfaedle (⭐177)](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for GTFS using OpenStreetMap data
 
 ## [2. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 

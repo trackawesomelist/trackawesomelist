@@ -62,7 +62,7 @@
 
 ### Multimedia
 
-*   [Clapper (⭐643)](https://github.com/Rafostar/clapper) - Simple and modern media player.
+*   [Clapper (⭐649)](https://github.com/Rafostar/clapper) - Simple and modern media player.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

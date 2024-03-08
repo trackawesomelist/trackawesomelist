@@ -188,7 +188,7 @@
 *   [AAC Tactics (⭐29)](https://github.com/coq-community/aac-tactics) - Tactics for rewriting universally quantified equations, modulo associativity and commutativity of some operator.
 *   [Gappa](https://gitlab.inria.fr/gappa/coq) - Tactic for discharging goals about floating-point arithmetic and round-off errors.
 *   [Mtac2 (⭐51)](https://github.com/Mtac2/Mtac2) - Plugin adding typed tactics for backward reasoning.
-*   [SMTCoq (⭐147)](https://github.com/smtcoq/smtcoq) - Tool that checks proof witnesses coming from external SAT and SMT solvers.
+*   [SMTCoq (⭐148)](https://github.com/smtcoq/smtcoq) - Tool that checks proof witnesses coming from external SAT and SMT solvers.
 
 ### Projects / Tools
 
@@ -196,7 +196,7 @@
 
 ### Projects / Type Theory and Mathematics
 
-*   [Category Theory in Coq (⭐726)](https://github.com/jwiegley/category-theory) - Axiom-free formalization of category theory.
+*   [Category Theory in Coq (⭐729)](https://github.com/jwiegley/category-theory) - Axiom-free formalization of category theory.
 *   [Mathematical Components](http://math-comp.github.io) - Formalization of mathematical theories, focusing in particular on group theory.
 
 ### Projects / Verified Software
@@ -205,14 +205,14 @@
 
 ### Resources / Community
 
-*   [Mathematical Components wiki (⭐531)](https://github.com/math-comp/math-comp/wiki)
+*   [Mathematical Components wiki (⭐536)](https://github.com/math-comp/math-comp/wiki)
 
 ### Resources / Tutorials and Hints
 
 *   [Coq in a Hurry](http://cel.archives-ouvertes.fr/inria-00001173) - Introduction to how Coq can be used to define logical concepts and functions and reason about them.
 *   [Lemma Overloading (⭐26)](https://github.com/coq-community/lemma-overloading) - Demonstration of design patterns for programming and proving with canonical structures.
 *   [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) - Basics of using Coq to write formal proofs.
-*   [Tricks in Coq (⭐470)](https://github.com/tchajed/coq-tricks) - Tips, tricks, and features that are hard to discover.
+*   [Tricks in Coq (⭐471)](https://github.com/tchajed/coq-tricks) - Tips, tricks, and features that are hard to discover.
 
 ## [15. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
 

@@ -91,7 +91,7 @@
 
 ### Software / Automation
 
-*   [MetaTube (⭐263)](https://github.com/JVT038/MetaTube) `⚠` - A Web GUI to automatically download music from YouTube add metadata from Spotify, Deezer or Musicbrainz. `GPL-3.0` `Python`
+*   [MetaTube (⭐273)](https://github.com/JVT038/MetaTube) `⚠` - A Web GUI to automatically download music from YouTube add metadata from Spotify, Deezer or Musicbrainz. `GPL-3.0` `Python`
 
 ### Software / Feed Readers
 
@@ -99,11 +99,11 @@
 
 ### Software / Internet of Things (IoT)
 
-*   [SIP Irrigation Control](https://dan-in-ca.github.io/SIP/) - Open source software for sprinkler/irrigation control. ([Source Code (⭐341)](https://github.com/Dan-in-CA/SIP)) `GPL-3.0` `Python`
+*   [SIP Irrigation Control](https://dan-in-ca.github.io/SIP/) - Open source software for sprinkler/irrigation control. ([Source Code (⭐342)](https://github.com/Dan-in-CA/SIP)) `GPL-3.0` `Python`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Supysonic (⭐253)](https://github.com/spl0k/supysonic) - Python implementation of the Subsonic server API. `AGPL-3.0` `Python/deb`
+*   [Supysonic (⭐255)](https://github.com/spl0k/supysonic) - Python implementation of the Subsonic server API. `AGPL-3.0` `Python/deb`
 
 ### Software / Media Streaming - Multimedia Streaming
 
@@ -115,7 +115,7 @@
 
 ### Software / Pastebins
 
-*   [wantguns/bin (⭐167)](https://github.com/wantguns/bin) - Minimal pastebin for both textual and binary files shipped in a single statically linked binary. ([Demo](https://basedbin.fly.dev)) `GPL-3.0` `Rust/Docker`
+*   [wantguns/bin (⭐170)](https://github.com/wantguns/bin) - Minimal pastebin for both textual and binary files shipped in a single statically linked binary. ([Demo](https://basedbin.fly.dev)) `GPL-3.0` `Rust/Docker`
 
 ## [12. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
@@ -321,7 +321,7 @@
 
 ### Tools / XML
 
-*   [denoflow (⭐259)](https://github.com/denoflow/denoflow) - Configuration as code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes
+*   [denoflow (⭐260)](https://github.com/denoflow/denoflow) - Configuration as code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes
 
 ## [32. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -337,7 +337,7 @@
 
 ### Libraries/Frameworks / Jetpack-Compose
 
-*   [CuriousNikhil/k5-compose (⭐206)](https://github.com/CuriousNikhil/k5-compose) - K5-compose is a sketchy port of p5.js for Jetpack Compose Desktop
+*   [CuriousNikhil/k5-compose (⭐207)](https://github.com/CuriousNikhil/k5-compose) - K5-compose is a sketchy port of p5.js for Jetpack Compose Desktop
 
 ## [33. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -456,7 +456,7 @@
 
 ### C++ / Git
 
-*   [=nil; Crypto3 (⭐57)](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
+*   [=nil; Crypto3 (⭐64)](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
 
 ## [38. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -466,7 +466,7 @@
 
 ### Stub packages
 
-*   [celery-types (⭐51)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐23k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐612)](https://github.com/celery/django-celery-results), [ampq (⭐297)](https://github.com/celery/py-amqp), [kombu (⭐2.6k)](https://github.com/celery/kombu), [billiard (⭐383)](https://github.com/celery/billiard), [vine (⭐115)](https://github.com/celery/vine) and [ephem (⭐670)](https://github.com/brandon-rhodes/pyephem).
+*   [celery-types (⭐59)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐23k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐640)](https://github.com/celery/django-celery-results), [ampq (⭐301)](https://github.com/celery/py-amqp), [kombu (⭐2.7k)](https://github.com/celery/kombu), [billiard (⭐394)](https://github.com/celery/billiard), [vine (⭐118)](https://github.com/celery/vine) and [ephem (⭐718)](https://github.com/brandon-rhodes/pyephem).
 
 ### Articles / Third-party articles
 
@@ -549,12 +549,7 @@
 
 ### Blockchain Explorers
 
-*   [Goalseeker](https://goalseeker.purestake.io/algorand/mainnet) - Algorand blockchain explorer built by [PureStake](https://www.purestake.com/).
 *   [NFTExplorer](https://www.nftexplorer.app/) - Algorand Standard Asset (ASA) explorer built by [@TomassoAE](https://twitter.com/TommasoAE) and [JoshLmao](https://twitter.com/JoshLmao).
-
-### Portfolio Trackers
-
-*   [Algogator.Finance](https://algogator.finance/) - Track or search assets, rewards, yield farming, transactions, and NFTs on the Algorand blockchain anywhere and anytime. Built by [@TeamAlgogator](https://twitter.com/TeamAlgogator).
 
 ### Tutorials
 
@@ -565,7 +560,7 @@
 
 ### Languages / JavaScript & TypeScript
 
-*   [js-algorand-sdk (⭐271)](https://github.com/algorand/js-algorand-sdk) - The Algorand JavaScript SDK & Examples.
+*   [js-algorand-sdk (⭐275)](https://github.com/algorand/js-algorand-sdk) - The Algorand JavaScript SDK & Examples.
 
 ### Languages / .NET
 
@@ -573,11 +568,11 @@
 
 ### Languages / Rust
 
-*   [rust-algorand-sdk (⭐62)](https://github.com/manuelmauro/algonaut) - Rust Algorand SDK.
+*   [rust-algorand-sdk (⭐63)](https://github.com/manuelmauro/algonaut) - Rust Algorand SDK.
 
 ### Languages / Swift
 
-*   [swift-algorand-sdk (⭐18)](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
+*   [swift-algorand-sdk (⭐19)](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
 
 ### IDEs / VSCode
 
@@ -586,10 +581,6 @@
 ### Nodes & Consensus Participation / Wallets
 
 *   [Algorand - The Undocumented Docs (⭐5)](https://github.com/AlgoChads/algorand-undoc-docs) - Dev Notes for Archival Node, Indexer Setup (and more).
-
-### Name Services / Wallets
-
-*   [Algorand Name Service](https://algonameservice.com/home) - ANS is a decentralized naming service. An Algorand smart contract stores names and governs the naming policy.
 
 ### Projects / Wallets
 
@@ -661,7 +652,7 @@
 
 ### Third-Party Packages / Testing
 
-*   [django-pattern-library (⭐317)](https://github.com/torchbox/django-pattern-library) - Pattern library generator for Django templates, to help testing of UI components.
+*   [django-pattern-library (⭐323)](https://github.com/torchbox/django-pattern-library) - Pattern library generator for Django templates, to help testing of UI components.
 
 ## [52. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 

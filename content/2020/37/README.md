@@ -123,7 +123,7 @@
 
 ### Software / Calendar & Contacts
 
-*   [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code (⭐238)](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
+*   [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code (⭐239)](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
 
 ## [7. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -316,7 +316,7 @@
 
 ### Projects / Libraries
 
-*   [TLC (⭐33)](https://github.com/charguer/tlc) - Non-constructive alternative to Coq's standard library.
+*   [TLC (⭐34)](https://github.com/charguer/tlc) - Non-constructive alternative to Coq's standard library.
 
 ### Projects / Tools
 
@@ -327,7 +327,7 @@
 *   [Completeness and Decidability of Modal Logic Calculi (⭐8)](https://github.com/coq-community/comp-dec-modal) - Soundness, completeness, and decidability for the logics K, K\*, CTL, and PDL.
 *   [CoqPrime (⭐35)](https://github.com/thery/coqprime) - Library for certifying primality using Pocklington and Elliptic Curve certificates.
 *   [Finmap (⭐46)](https://github.com/math-comp/finmap) - Extension of Mathematical Components with finite maps, sets, and multisets.
-*   [Gaia (⭐24)](https://github.com/coq-community/gaia) - Implementation of books from Bourbaki's Elements of Mathematics, including set theory and number theory.
+*   [Gaia (⭐25)](https://github.com/coq-community/gaia) - Implementation of books from Bourbaki's Elements of Mathematics, including set theory and number theory.
 
 ### Resources / Community
 
@@ -530,7 +530,7 @@
 
 ### Component Libraries
 
-*   [Joomla UI custom elements (⭐33)](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
+*   [Joomla UI custom elements (⭐32)](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
 
 ## [45. Awesome Ibmcloud](/content/victorshinya/awesome-ibmcloud/week/README.md)
 

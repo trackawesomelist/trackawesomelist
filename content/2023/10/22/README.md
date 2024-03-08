@@ -55,7 +55,7 @@
 
 ### Concepts / AI Concept Representation
 
-*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐7.6k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
+*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐7.7k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -91,17 +91,17 @@
 
 ### Types / Playground
 
-*   [string-ts (⭐1k)](https://github.com/gustavoguichard/string-ts) - Strongly-typed string functions for all
+*   [string-ts (⭐1.1k)](https://github.com/gustavoguichard/string-ts) - Strongly-typed string functions for all
 
 ### Validation / Playground
 
-*   [valibot (⭐4.3k)](https://github.com/fabian-hiller/valibot) - Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies.
+*   [valibot (⭐4.9k)](https://github.com/fabian-hiller/valibot) - Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies.
 
 ## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [select-with-lf (⭐3)](https://github.com/chmouel/zsh-select-with-lf) - Lets user select files or a directory using [lf (⭐6.9k)](https://github.com/gokcehan/lf).
+*   [select-with-lf (⭐4)](https://github.com/chmouel/zsh-select-with-lf) - Lets user select files or a directory using [lf (⭐7k)](https://github.com/gokcehan/lf).
 
 ## [13. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

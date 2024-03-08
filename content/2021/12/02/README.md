@@ -122,7 +122,7 @@
 
 ### Software / Polls and Events
 
-*   [ClearFlask](https://clearflask.com) - Community-feedback tool for managing incoming feedback and prioritizing a public roadmap (alternative to Canny, UserVoice, Upvoty). ([Demo](https://product.clearflask.com), [Source Code (⭐243)](https://github.com/clearflask/clearflask)) `AGPL-3.0` `Docker`
+*   [ClearFlask](https://clearflask.com) - Community-feedback tool for managing incoming feedback and prioritizing a public roadmap (alternative to Canny, UserVoice, Upvoty). ([Demo](https://product.clearflask.com), [Source Code (⭐249)](https://github.com/clearflask/clearflask)) `AGPL-3.0` `Docker`
 
 ### Software / Software Development - Project Management
 
@@ -145,7 +145,7 @@
 
 ### Contributing / Contribution Workflow Overview
 
-*   Fork [this repository (⭐590)](https://github.com/adafruit/awesome-circuitpython) on GitHub.
+*   Fork [this repository (⭐596)](https://github.com/adafruit/awesome-circuitpython) on GitHub.
 *   Merge adafruit or main.
 
 ## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
@@ -164,7 +164,7 @@
 
 ### Tools / Linters
 
-*   [flake8-type-checking (⭐103)](https://github.com/snok/flake8-type-checking) - Plugin to help you guard any type-annotation-only import correctly.
+*   [flake8-type-checking (⭐107)](https://github.com/snok/flake8-type-checking) - Plugin to help you guard any type-annotation-only import correctly.
 
 ## [12. Tools](/content/lvwzhen/tools/README.md)
 

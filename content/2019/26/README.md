@@ -109,7 +109,7 @@
 
 ### Contents / Utilities
 
-*   [pg\_insights (⭐292)](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
+*   [pg\_insights (⭐294)](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
 
 ## [14. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -225,7 +225,7 @@
 
 ### Functional
 
-*   [atomico (⭐1k)](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
+*   [atomico (⭐1.1k)](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
 *   [haunted (⭐2.6k)](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 
 ## [28. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)

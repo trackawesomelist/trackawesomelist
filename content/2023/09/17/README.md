@@ -10,7 +10,7 @@
 
 ### Utility / Diagnostics
 
-*   [LintaoAmons/scratch.nvim (⭐165)](https://github.com/LintaoAmons/scratch.nvim) - Create and manage scratch files.
+*   [LintaoAmons/scratch.nvim (⭐172)](https://github.com/LintaoAmons/scratch.nvim) - Create and manage scratch files.
 
 ## [2. Awesome V](/content/vlang/awesome-v/README.md)
 

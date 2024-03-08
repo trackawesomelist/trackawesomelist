@@ -47,13 +47,13 @@
 
 ### Modules / Webview
 
-*   [Astrodon (⭐929)](https://github.com/astrodon/astrodon) - Modular framework for building native multi-platform apps with Deno and webview.
+*   [Astrodon (⭐928)](https://github.com/astrodon/astrodon) - Modular framework for building native multi-platform apps with Deno and webview.
 
 ## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / General
 
-*   [django-data-browser (⭐283)](https://github.com/tolomea/django-data-browser) - Interactive, user-friendly database explorer.
+*   [django-data-browser (⭐296)](https://github.com/tolomea/django-data-browser) - Interactive, user-friendly database explorer.
 
 ### Resources / Books
 

@@ -58,7 +58,7 @@
 
 ### Projects / Boilerplate
 
-*   [cookiecutter-vue-django (⭐176)](https://github.com/ilikerobots/cookiecutter-vue-django) - Django + Vue starter project fusing Vue SFCs & Django Templates.
+*   [cookiecutter-vue-django (⭐177)](https://github.com/ilikerobots/cookiecutter-vue-django) - Django + Vue starter project fusing Vue SFCs & Django Templates.
 
 ## [8. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

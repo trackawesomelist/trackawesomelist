@@ -28,7 +28,7 @@
 
 ### Other Development Tools / Docker
 
-*   [Algorand Sandbox Dev (⭐15)](https://github.com/MakerXStudio/algorand-sandbox-dev) - Docker Hub image for faster local development and CI/CD usage.
+*   [Algorand Sandbox Dev (⭐15)](https://github.com/MakerXStudio/algorand-sandbox-dev) - Docker Hub image for faster local development and CI/CD usage. (Archived on Jan 2, 2024)
 
 ## [5. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

@@ -8,7 +8,7 @@
 
 ## [1. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
-### Tools / Reverse Engineering
+### Tools / Dynamic Analysis Tools
 
 *   [Decompiler.com](https://www.decompiler.com/) - Online APK and Java decompiler
 
@@ -56,7 +56,7 @@
 
 ### Software / Media Streaming - Multimedia Streaming
 
-*   [SheetAble](https://sheetable.net) - Self-hosted music sheet organizing software for all music enthusiasts. Upload and organize your sheets for any kind of instrument. ([Source Code (⭐277)](https://github.com/SheetAble/SheetAble)) `AGPL-3.0` `Docker/Go`
+*   [SheetAble](https://sheetable.net) - Self-hosted music sheet organizing software for all music enthusiasts. Upload and organize your sheets for any kind of instrument. ([Source Code (⭐281)](https://github.com/SheetAble/SheetAble)) `AGPL-3.0` `Docker/Go`
 
 ## [9. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
 
@@ -1583,7 +1583,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [olimorris/onedarkpro.nvim (⭐642)](https://github.com/olimorris/onedarkpro.nvim) - Atom's iconic One Dark theme. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with light and dark variants.
+*   [olimorris/onedarkpro.nvim (⭐658)](https://github.com/olimorris/onedarkpro.nvim) - Atom's iconic One Dark theme. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with light and dark variants.
 
 ---
 

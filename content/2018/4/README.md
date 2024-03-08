@@ -271,7 +271,7 @@
 
 ### Cursors / Skeumorphic Icons
 
-*   [Bibata (⭐1.5k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+*   [Bibata (⭐1.6k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
 *   [Capitaine Cursors (⭐1k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ## [31. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)

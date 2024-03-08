@@ -402,7 +402,7 @@
 
 ### Runtimes / Apache License
 
-*   [cortex-gnat-rts (⭐59)](https://github.com/simonjwright/cortex-gnat-rts) - This package includes GNAT Ada Run Time Systems (RTSs) based on FreeRTOS and targeted at boards with Cortex-M0, M3, -M4, -M4F MCUs.
+*   [cortex-gnat-rts (⭐60)](https://github.com/simonjwright/cortex-gnat-rts) - This package includes GNAT Ada Run Time Systems (RTSs) based on FreeRTOS and targeted at boards with Cortex-M0, M3, -M4, -M4F MCUs.
 
 ### Unit Test, Testing / Apache License
 

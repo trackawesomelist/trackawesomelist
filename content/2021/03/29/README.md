@@ -74,7 +74,7 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [jut (⭐173)](https://github.com/kracekumar/jut) - CLI to nicely display notebooks in the terminal.
+*   [jut (⭐175)](https://github.com/kracekumar/jut) - CLI to nicely display notebooks in the terminal.
 
 ## [10. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 

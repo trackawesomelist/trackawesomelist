@@ -72,7 +72,7 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [iamcco/markdown-preview.nvim (⭐5.7k)](https://github.com/iamcco/markdown-preview.nvim) - Preview markdown on your modern browser with synchronised scrolling and flexible configuration.
+*   [iamcco/markdown-preview.nvim (⭐5.8k)](https://github.com/iamcco/markdown-preview.nvim) - Preview markdown on your modern browser with synchronised scrolling and flexible configuration.
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

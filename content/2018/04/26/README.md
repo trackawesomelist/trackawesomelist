@@ -39,7 +39,7 @@
 
 ### Tools / Playground
 
-*   [typed-install (⭐99)](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
+*   [typed-install (⭐100)](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
 
 ## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 

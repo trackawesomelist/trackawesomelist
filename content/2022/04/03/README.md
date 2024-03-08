@@ -10,7 +10,7 @@
 
 ### Projects / Wallets
 
-*   [algofractals (⭐2)](https://github.com/aorumbayev/algofractals) - Mint randomly generated mandelbrot fractals with embedded ARC69 tags.
+*   [algofractals (⭐2)](https://github.com/aorumbayev/algofractals) - Mint randomly generated mandelbrot fractals with embedded ARC69 tags. (Archived on Dec 31, 2023)
 
 ## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 

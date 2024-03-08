@@ -134,7 +134,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Importality (⭐243)](https://github.com/nklbdev/godot-4-importality) - raster graphics and animations importers: Aseprite, Krita, Pencil2D, Piskel, Pixelorama and others (Godot 4.x).
+*   [Importality (⭐250)](https://github.com/nklbdev/godot-4-importality) - raster graphics and animations importers: Aseprite, Krita, Pencil2D, Piskel, Pixelorama and others (Godot 4.x).
 
 ## [13. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -154,17 +154,11 @@
 
 *   [xpanes (⭐1.8k)](https://github.com/greymd/tmux-xpanes) Awesome tmux-based terminal divider
 
-## [16. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
-
-### API / Samples
-
-*   [Graphweaver (⭐418)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
-
-## [17. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [16. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Low-code
 
-*   [Flowise (⭐19k)](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
+*   [Flowise (⭐22k)](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
 
 ### Tools / Platforms
 
@@ -172,27 +166,33 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Ax (⭐1k)](https://github.com/axilla-io/ax): A comprehensive AI framework for TypeScript ![GitHub Repo stars](https://img.shields.io/github/stars/axilla-io/ax?style=social)
-*   [TextAI (⭐5.7k)](https://github.com/neuml/txtai): 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/neuml/txtai?style=social)
-*   [AgentFlow (⭐244)](https://github.com/simonmesmith/agentflow): About Complex LLM Workflows from Simple JSON. ![GitHub Repo stars](https://img.shields.io/github/stars/simonmesmith/agentflow?style=social)
+*   [Ax (⭐1.1k)](https://github.com/axilla-io/ax): A comprehensive AI framework for TypeScript ![GitHub Repo stars](https://img.shields.io/github/stars/axilla-io/ax?style=social)
+*   [TextAI (⭐6.5k)](https://github.com/neuml/txtai): 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/neuml/txtai?style=social)
+*   [AgentFlow (⭐256)](https://github.com/simonmesmith/agentflow): About Complex LLM Workflows from Simple JSON. ![GitHub Repo stars](https://img.shields.io/github/stars/simonmesmith/agentflow?style=social)
 
-## [18. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [17. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Captchas
 
 *   [mCaptcha](http://mcaptcha.org/) ([repo (⭐1.5k)](https://github.com/mCaptcha/mCaptcha)) - An open-source CAPTCHA system with seamless UX.  mCaptcha uses SHA256 based proof-of-work (PoW) to rate limit users.
 
-## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Gaming Software / System Related Tools
 
 *   [Ryujinx](https://ryujinx.org/) - The Open-source Nintendo Switch Emulator [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Ryujinx/Ryujinx)
 
-## [20. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [19. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### IDE and Code Editing
 
 *   [GitHub Codespaces](https://www.github.com/codespaces/)\[FREE] - An online IDE for GitHub that provides a complete dev environment with a single click. Free personal plan subscription for as long as you are a student via [Github Student Developer Pack](https://education.github.com/pack).
+
+## [20. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### CMS / Playground
+
+*   [Graphweaver (⭐428)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
 
 ## [21. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -243,7 +243,7 @@
 
 ### AI
 
-*   [emlearn-micropython (⭐27)](https://github.com/emlearn/emlearn-micropython) - Efficient Machine Learning engine for MicroPython.
+*   [emlearn-micropython (⭐29)](https://github.com/emlearn/emlearn-micropython) - Efficient Machine Learning engine for MicroPython.
 
 ### Sensors / Motion Inertial
 
@@ -273,7 +273,7 @@
 
 ### Software / Miscellaneous
 
-*   [Loggit](https://loggit.net) - End-to-end encrypted and simple life tracking & logging. ([Demo](https://app.loggit.net), [Source Code (⭐21)](https://github.com/BrunoBernardino/loggit-web)) `AGPL-3.0` `Deno`
+*   [Loggit](https://loggit.net) - End-to-end encrypted and simple life tracking & logging. ([Demo](https://app.loggit.net), [Source Code (⭐25)](https://github.com/BrunoBernardino/loggit-web)) `AGPL-3.0` `Deno`
 
 ## [29. Awesome Kustomize](/content/aabouzaid/awesome-kustomize/week/README.md)
 
@@ -370,12 +370,12 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zplug-blame (⭐0)](https://github.com/jkcdarunday/zplug-blame) - A [zplug (⭐5.6k)](https://github.com/zplug/zplug)-specific plugin that displays how long each of your plugins took to load.
+*   [zplug-blame (⭐0)](https://github.com/jkcdarunday/zplug-blame) - A [zplug (⭐5.7k)](https://github.com/zplug/zplug)-specific plugin that displays how long each of your plugins took to load.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [chaos (⭐1)](https://github.com/kusamaxi/chaos-zsh) - Inspired by dogenpunk and smt themes, optimized for `git` users and Python developers. Includes decorators for `git` status, python virtual environment, background jobs, error status of last command, user\@hostname and current directory. Requires a font with emoji.
-*   [heapbytes (⭐28)](https://github.com/heapbytes/heapbytes-zsh) - Includes decorators for current directory, tun0 ip if on a VPN, wlan ip when not on VPN and `git` information.
+*   [heapbytes (⭐30)](https://github.com/heapbytes/heapbytes-zsh) - Includes decorators for current directory, tun0 ip if on a VPN, wlan ip when not on VPN and `git` information.
 *   [lildragon (⭐0)](https://github.com/skippyr/lildragon) - Dragon-themed. Includes decorators for `git` status, current directory & username. Requires a font with emoji glyphs.
 *   [xbira (⭐0)](https://github.com/ITAxReal/xbira) - Based on [bira (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), includes decorators for `git` status, user\@hostname, exit status of last command run and the current directory.
 

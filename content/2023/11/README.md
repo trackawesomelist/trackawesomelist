@@ -134,7 +134,7 @@
 
 ### Software / Photo and Video Galleries
 
-*   [SPIS (⭐69)](https://github.com/gbbirkisson/spis) - A simple, lightweight and fast media server with decent mobile support. `GPL-3.0` `Docker/Rust`
+*   [SPIS (⭐72)](https://github.com/gbbirkisson/spis) - A simple, lightweight and fast media server with decent mobile support. `GPL-3.0` `Docker/Rust`
 
 ## [15. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -248,13 +248,13 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Neuledge (⭐236)](https://github.com/neuledge/engine-js) - Neuledge is a universal language for databases that provides state-of-the-art tools for data modeling, business logic representation, and schema validation.
+*   :octocat: [Neuledge (⭐237)](https://github.com/neuledge/engine-js) - Neuledge is a universal language for databases that provides state-of-the-art tools for data modeling, business logic representation, and schema validation.
 
 ## [26. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Languages / Go
 
-*   [conduit (⭐30)](https://github.com/algorand/conduit) - Algorand's data pipeline framework.
+*   [conduit (⭐33)](https://github.com/algorand/conduit) - Algorand's data pipeline framework.
 
 ## [27. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
@@ -606,7 +606,7 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [aofxta (⭐0)](https://github.com/aofxta/aofxta.zsh-theme/) - Includes decorators for last command's execution time, `git` information, current directory and current time.
-*   [avoleo (⭐0)](https://github.com/flameleo11/avoleo-zsh-theme) - Features a date and time prompt for each command, as well as a command number in history. In addition, it uses special symbols '⠾' and '⡶' to display `git` information if applicable in the current path. It also supports custom colors based on the Gnome-Terminal default color palette.
+*   [avoleo (⭐1)](https://github.com/flameleo11/avoleo-zsh-theme) - Features a date and time prompt for each command, as well as a command number in history. In addition, it uses special symbols '⠾' and '⡶' to display `git` information if applicable in the current path. It also supports custom colors based on the Gnome-Terminal default color palette.
 *   [cybensis (⭐0)](https://github.com/cybensis/cybensis-zsh-theme) - Based on [af-magic (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme). Includes decorators for `git` information, `hg` information, and python virtualenv.
 *   [kali-like (⭐6)](https://github.com/clamy54/kali-like-zsh-theme) - Inspired by the Kali Linux default ZSH theme. Includes decorators for user\@host, current directory and `git` information.
 *   [rkj-logik (⭐0)](https://github.com/logik93/rkj-logik.zsh-theme) - Based on omz's [rkj (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/rkj.zsh-theme). Includes decorators for user\@host, current directory, time & date.
@@ -653,7 +653,7 @@
 
 ### Audio
 
-*   [micropython-dfplayer (⭐8)](https://github.com/redoxcode/micropython-dfplayer) - Library to control the DFPlayer mini MP3 player module.
+*   [micropython-dfplayer (⭐9)](https://github.com/redoxcode/micropython-dfplayer) - Library to control the DFPlayer mini MP3 player module.
 
 ### Communications / RC receiver
 
@@ -661,7 +661,7 @@
 
 ### Display / LCD Character
 
-*   [micropython-i2c-lcd (⭐14)](https://github.com/brainelectronics/micropython-i2c-lcd) - MicroPython package to control HD44780 LCD displays 1602 and 2004 via I2C.
+*   [micropython-i2c-lcd (⭐15)](https://github.com/brainelectronics/micropython-i2c-lcd) - MicroPython package to control HD44780 LCD displays 1602 and 2004 via I2C.
 
 ### Motion / Servo
 

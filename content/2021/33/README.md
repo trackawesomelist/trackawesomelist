@@ -33,10 +33,10 @@
 ### Networking
 
 *   **HTTP Tools**:
-    *   [ocaml-cohttp (⭐669)](https://github.com/mirage/ocaml-cohttp) – Very lightweight HTTP server using Lwt or Async.
-    *   [ocurl (⭐57)](https://github.com/ygrek/ocurl) – OCaml bindings to libcurl.
-    *   [httpaf (⭐529)](https://github.com/inhabitedtype/httpaf) – A high performance, memory efficient, and scalable web server written in OCaml.
-    *   [piaf (⭐171)](https://github.com/anmonteiro/piaf) - Client/server library for HTTP/1.X / HTTP/2 written entirely in OCaml.
+    *   [ocaml-cohttp (⭐674)](https://github.com/mirage/ocaml-cohttp) – Very lightweight HTTP server using Lwt or Async.
+    *   [ocurl (⭐59)](https://github.com/ygrek/ocurl) – OCaml bindings to libcurl.
+    *   [httpaf (⭐530)](https://github.com/inhabitedtype/httpaf) – A high performance, memory efficient, and scalable web server written in OCaml.
+    *   [piaf (⭐174)](https://github.com/anmonteiro/piaf) - Client/server library for HTTP/1.X / HTTP/2 written entirely in OCaml.
 
 ### Utilities
 
@@ -59,7 +59,7 @@
 
 ### Resources / Books
 
-*   [Modeling and Proving in Computational Type Theory (⭐68)](https://github.com/uds-psl/MPCTT) - Book covering topics in computational logic using Coq, including foundations, canonical case studies, and practical programming.
+*   [Modeling and Proving in Computational Type Theory (⭐70)](https://github.com/uds-psl/MPCTT) - Book covering topics in computational logic using Coq, including foundations, canonical case studies, and practical programming.
 
 ## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -226,7 +226,7 @@
 
 ### JupyterLab Extensions
 
-*   [tabnine (⭐32)](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI auto completer extension.
+*   [tabnine (⭐34)](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI auto completer extension.
 
 ## [23. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -368,7 +368,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Aseprite Wizard (⭐617)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
+*   [Aseprite Wizard (⭐635)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
 
 ## [41. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
@@ -386,7 +386,7 @@
 
 ### Java / Git
 
-*   [Password4j (⭐309)](https://github.com/Password4j/password4j) - A Java user-friendly cryptographic library for hashing and checking passwords with different Key derivation functions (KDFs) and Cryptographic hash functions (CHFs).
+*   [Password4j (⭐321)](https://github.com/Password4j/password4j) - A Java user-friendly cryptographic library for hashing and checking passwords with different Key derivation functions (KDFs) and Cryptographic hash functions (CHFs).
 
 ## [44. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
 

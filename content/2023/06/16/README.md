@@ -16,7 +16,7 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [MindGeniusAI (⭐86)](https://github.com/xianjianlf2/MindGeniusAI): Auto generate MindMap with ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)
+*   [MindGeniusAI (⭐98)](https://github.com/xianjianlf2/MindGeniusAI): Auto generate MindMap with ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)
 
 ## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Routers / Checkbox
 
-*   [Elegua (⭐65)](https://github.com/howesteve/elegua) - Small (< 180LoC), fast, easy, full featured SPA router
+*   [Elegua (⭐64)](https://github.com/howesteve/elegua) - Small (< 180LoC), fast, easy, full featured SPA router
 
 ## [7. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 

@@ -24,7 +24,7 @@
 
 ### Software / URL Shorteners
 
-*   [Blink](https://docs.blink.rest) - Easy-to-host, SSO-integrated, CDN-powered link shortener (+decoupled analytics) for teams. ([Source Code (⭐232)](https://github.com/JaneJeon/blink)) `AGPL-3.0` `Nodejs/Docker`
+*   [Blink](https://docs.blink.rest) - Easy-to-host, SSO-integrated, CDN-powered link shortener (+decoupled analytics) for teams. ([Source Code (⭐239)](https://github.com/JaneJeon/blink)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Modules / Image
 
-*   [ImageScript (⭐561)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐570)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

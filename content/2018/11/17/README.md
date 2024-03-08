@@ -32,7 +32,7 @@
 
 ### Other / Godot version unknown
 
-*   [godot-ci (⭐563)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
+*   [godot-ci (⭐573)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
 
 ## [4. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -76,27 +76,26 @@
 ### Tools
 
 *   [PapaParse](https://www.papaparse.com) - A powerful in-browser CSV parser.
-*   [d3-dsv (⭐403)](https://github.com/d3/d3-dsv) - d3.js parser and formatter module for delimiter-separated values.
-*   [CSVKit](http://csvkit.readthedocs.org/en/0.7.3/) - CSV utilities that includes csvsql / csvgrep / csvstat and more.
-*   [XSV (⭐9.5k)](https://github.com/BurntSushi/xsv) - A fast CSV command-line toolkit written in Rust.
+*   [d3-dsv (⭐418)](https://github.com/d3/d3-dsv) - d3.js parser and formatter module for delimiter-separated values.
+*   [XSV (⭐9.9k)](https://github.com/BurntSushi/xsv) - A fast CSV command-line toolkit written in Rust.
 *   [sed (gnu tool)](https://www.gnu.org/software/sed/manual/sed.html) - Stream editor.
 *   [gawk (gnu tool)](https://www.gnu.org/software/gawk/manual/gawk.html) - Text processing and data extraction using [awk](http://pubs.opengroup.org/onlinepubs/009695399/utilities/awk.html).
 *   [awk by example (⭐10k)](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#default-field-separation) - Comprehensive examples of using awk.
 *   [Miller](http://johnkerl.org/miller/doc/) - Like sed / awk / cut / join / sort etc for name-indexed data such as CSV.
-*   [CSVGet (⭐47)](http://github.com/fizx/csvget/tree/master) - Get structured data from sites as CSV.
+*   [CSVGet (⭐46)](http://github.com/fizx/csvget/tree/master) - Get structured data from sites as CSV.
 *   [CSVfix](https://code.google.com/p/csvfix/) - A tool for manipulating CSV data.
 *   [Tad](https://www.tadviewer.com) - A fast free cross-platform CSV viewer.
 *   [Nvd3-tags](http://blog.tryolabs.com/2015/02/27/nvd3-tags-a-tiny-library-for-making-charts-from-csv-data/) - A tiny library for making charts from csv data.
 *   [CSV Tools](https://onlinecsvtools.com/) - A collection of useful CSV utilities.
-*   [graph-cli (⭐759)](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data.
+*   [graph-cli (⭐772)](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data.
 *   [CSV to SQL](http://www.convertcsv.com/csv-to-sql.htm) - Online tool to create insert/update/delete etc from CSV data.
 *   [C#: kbCSV (⭐77)](https://github.com/kentcb/KBCsv/blob/master/README.md) - An efficient, easy to use .NET parsing and writing library for CSV.
-*   [csvprintf (⭐37)](https://github.com/archiecobbs/csvprintf) - UNIX command line utility for parsing and formatting output based on CSV files.
+*   [csvprintf (⭐38)](https://github.com/archiecobbs/csvprintf) - UNIX command line utility for parsing and formatting output based on CSV files.
 *   [Mockaroo](https://www.mockaroo.com/) - Random data generator for CSV / JSON / SQL / Excel.
 
 ### Tools / Repair or Validate CSV
 
-*   [Csvlint.go (⭐175)](https://github.com/Clever/csvlint) - Command line tool for validating CSV files against RFC 4180.
+*   [Csvlint.go (⭐181)](https://github.com/Clever/csvlint) - Command line tool for validating CSV files against RFC 4180.
 
 ### Generate Table Schema / Treat CSV as SQL
 
@@ -124,7 +123,7 @@
 *   [US Data.gov](https://catalog.data.gov/dataset?res_format=CSV) - 18789+ CSV datasets.
 *   [Australian Government Open Data](https://data.gov.au/dataset?res_format=CSV) - 2715+ CSV datasets.
 *   [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.
-*   [awesome-public-datasets (⭐56k)](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains.
+*   [awesome-public-datasets (⭐58k)](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains.
 
 ### Conferences / CSV <-> JSON
 
@@ -141,7 +140,7 @@
 
 ### META: Other similar lists / CSV <-> JSON
 
-*   [structured-text-tools (⭐6.7k)](https://github.com/dbohdan/structured-text-tools) - List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc.
+*   [structured-text-tools (⭐6.8k)](https://github.com/dbohdan/structured-text-tools) - List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc.
 *   [META-META](https://raw.githubusercontent.com/secretGeek/AwesomeCSV/master/awesomecsv.csv) - **This list as CSV**.
 *   [META-META-META](https://nimbletext.com/Live/-971009575/) - A NimbleText pattern that produces this markdown page from this list as a CSV.
 

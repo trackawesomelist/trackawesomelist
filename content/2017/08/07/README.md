@@ -48,7 +48,7 @@
 ### Web / Playground
 
 *   :octocat: [excaliburjs/Excalibur (⭐1.5k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
-*   :octocat: [Bobril (⭐361)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
+*   :octocat: [Bobril (⭐360)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
 
 ### :dollar: Paid Courses / Chrome Extensions
 

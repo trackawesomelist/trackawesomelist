@@ -34,7 +34,7 @@
 
 ### Scala / Git
 
-*   [scrypto (⭐198)](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
+*   [scrypto (⭐202)](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
 
 ## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

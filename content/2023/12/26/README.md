@@ -14,11 +14,11 @@
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [divyanshupundir/mavlink-kotlin (⭐35)](https://github.com/divyanshupundir/mavlink-kotlin) - A modern MAVLink library for Kotlin Multiplatform.
+*   [divyanshupundir/mavlink-kotlin (⭐37)](https://github.com/divyanshupundir/mavlink-kotlin) - A modern MAVLink library for Kotlin Multiplatform.
 
 ### Libraries/Frameworks / Data Science
 
-*   [Kotlin/kandy (⭐394)](https://github.com/Kotlin/kandy) - Kotlin plotting library
+*   [Kotlin/kandy (⭐415)](https://github.com/Kotlin/kandy) - Kotlin plotting library
 *   [Kotlin/KotlinDL (⭐1.4k)](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras.
 
 ### Kotlin WebAssembly / Official Links
@@ -27,7 +27,7 @@
 
 ### Kotlin WebAssembly / Examples
 
-*   [Kotlin/Wasm Examples (⭐410)](https://github.com/Kotlin/kotlin-wasm-examples) - Explore a variety of Kotlin/Wasm example projects, showcasing applications like Compose Multiplatform, browser DOM API, Node.js, and WASI integration.
+*   [Kotlin/Wasm Examples (⭐417)](https://github.com/Kotlin/kotlin-wasm-examples) - Explore a variety of Kotlin/Wasm example projects, showcasing applications like Compose Multiplatform, browser DOM API, Node.js, and WASI integration.
 
 ## [2. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
@@ -236,11 +236,11 @@
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [Stalwart Mail Server](https://stalw.art) - All-in-one mail server with JMAP, IMAP4, and SMTP support and a wide range of modern features. ([Source Code (⭐2.2k)](https://github.com/stalwartlabs/mail-server)) `AGPL-3.0` `Rust/Docker`
+*   [Stalwart Mail Server](https://stalw.art) - All-in-one mail server with JMAP, IMAP4, and SMTP support and a wide range of modern features. ([Source Code (⭐2.3k)](https://github.com/stalwartlabs/mail-server)) `AGPL-3.0` `Rust/Docker`
 
 ### Software / Database Management
 
-*   [Azimutt](https://azimutt.app) - Visual database exploration made for real world databases (big and messy). Explore your database schema as well as data, document them, extend them and even get analysis and guidelines. ([Demo](https://azimutt.app/gallery/gospeak), [Source Code (⭐901)](https://github.com/azimuttapp/azimutt)) `MIT` `Elixir/Nodejs/Docker`
+*   [Azimutt](https://azimutt.app) - Visual database exploration made for real world databases (big and messy). Explore your database schema as well as data, document them, extend them and even get analysis and guidelines. ([Demo](https://azimutt.app/gallery/gospeak), [Source Code (⭐926)](https://github.com/azimuttapp/azimutt)) `MIT` `Elixir/Nodejs/Docker`
 *   [WebDB](https://webdb.app) - Efficient database IDE. ([Demo](https://demo.webdb.app/), [Source Code](https://gitlab.com/web-db/app)) `AGPL-3.0` `Docker`
 
 ### Software / Groupware
@@ -330,7 +330,7 @@
 
 ### Software / Vector Creation
 
-*   [plotting-maps (⭐27)](https://github.com/piebro/plotting-maps) - A simple web tool to create OpenStreetMap SVG maps for plotting.
+*   [plotting-maps (⭐28)](https://github.com/piebro/plotting-maps) - A simple web tool to create OpenStreetMap SVG maps for plotting.
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -436,7 +436,7 @@
 
 ### Projects / Godot 4.0
 
-*   [GodSVG (⭐484)](https://github.com/MewPurPur/GodSVG) - Tool to create optimized Scalable Vector Graphics files.
+*   [GodSVG (⭐735)](https://github.com/MewPurPur/GodSVG) - Tool to create optimized Scalable Vector Graphics files.
 
 ## [30. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -611,7 +611,7 @@
 
 ### Component Libraries
 
-*   [AnywhereUI (⭐23)](https://github.com/adaleks/anywhere-ui) - Collection of rich web components that includes framework bindings. Created with StencilJS.
+*   [AnywhereUI (⭐24)](https://github.com/adaleks/anywhere-ui) - Collection of rich web components that includes framework bindings. Created with StencilJS.
 
 ## [40. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -673,7 +673,7 @@
 
 ### Acknowledgements / Chrome Extensions
 
-*   2023 - ⚒ Thank you Hamza ( @Hamza12700 <https://github.com/Hamza12700> ) for [more than 15 merged pull requests (⭐4.3k)](https://github.com/dzharii/awesome-typescript/pulls?q=is%3Apr+author%3AHamza12700+is%3Aclosed). Great contribution to keeping this list up-to-date with modern TypeScript projects. **Contributor of the year 2023**.
+*   2023 - ⚒ Thank you Hamza ( @Hamza12700 <https://github.com/Hamza12700> ) for [more than 15 merged pull requests (⭐4.4k)](https://github.com/dzharii/awesome-typescript/pulls?q=is%3Apr+author%3AHamza12700+is%3Aclosed). Great contribution to keeping this list up-to-date with modern TypeScript projects. **Contributor of the year 2023**.
 
 ## [43. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -697,19 +697,19 @@
 
 ### Plugin Manager
 
-*   [nvim-neorocks/rocks.nvim (⭐131)](https://github.com/nvim-neorocks/rocks.nvim) - A modern approach to plugin management using Luarocks, inspired by Cargo.
+*   [nvim-neorocks/rocks.nvim (⭐145)](https://github.com/nvim-neorocks/rocks.nvim) - A modern approach to plugin management using Luarocks, inspired by Cargo.
 
 ### (requires Neovim 0.5)
 
-*   [jmbuhr/otter.nvim (⭐265)](https://github.com/jmbuhr/otter.nvim) - Provides LSP features and a nvim-cmp completion source for languages embedded in other documents.
+*   [jmbuhr/otter.nvim (⭐293)](https://github.com/jmbuhr/otter.nvim) - Provides LSP features and a nvim-cmp completion source for languages embedded in other documents.
 
 ### Completion / Diagnostics
 
-*   [Exafunction/codeium.nvim (⭐404)](https://github.com/Exafunction/codeium.nvim) - Free, ultrafast Copilot alternative.
+*   [Exafunction/codeium.nvim (⭐436)](https://github.com/Exafunction/codeium.nvim) - Free, ultrafast Copilot alternative.
 
 ### Programming Languages Support / Diagnostics
 
-*   [quarto-dev/quarto-nvim (⭐230)](https://github.com/quarto-dev/quarto-nvim) - Tools for working with [Quarto](https://quarto.org/) documents.
+*   [quarto-dev/quarto-nvim (⭐237)](https://github.com/quarto-dev/quarto-nvim) - Tools for working with [Quarto](https://quarto.org/) documents.
 
 ### Markdown and LaTeX / Diagnostics
 
@@ -717,37 +717,37 @@
 
 ### Search / Diagnostics
 
-*   [FabianWirth/search.nvim (⭐114)](https://github.com/FabianWirth/search.nvim) - Tabs for different Telescope pickers.
-*   [backdround/improved-search.nvim (⭐49)](https://github.com/backdround/improved-search.nvim) - Add search abilities.
+*   [FabianWirth/search.nvim (⭐118)](https://github.com/FabianWirth/search.nvim) - Tabs for different Telescope pickers.
+*   [backdround/improved-search.nvim (⭐52)](https://github.com/backdround/improved-search.nvim) - Add search abilities.
 
 ### File Explorer / Diagnostics
 
-*   [rolv-apneseth/tfm.nvim (⭐38)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi (⭐6.1k)](https://github.com/sxyazi/yazi)).
+*   [rolv-apneseth/tfm.nvim (⭐48)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi (⭐6.7k)](https://github.com/sxyazi/yazi)).
 
 ### Icon / Diagnostics
 
-*   [2KAbhishek/nerdy.nvim (⭐69)](https://github.com/2KAbhishek/nerdy.nvim/) - Find and insert the latest nerd font glyphs.
+*   [2KAbhishek/nerdy.nvim (⭐78)](https://github.com/2KAbhishek/nerdy.nvim/) - Find and insert the latest nerd font glyphs.
 
 ### Utility / Diagnostics
 
-*   [mateuszwieloch/automkdir.nvim (⭐9)](https://github.com/mateuszwieloch/automkdir.nvim) - Automatically create non-existent parent directories when writing a file.
+*   [mateuszwieloch/automkdir.nvim (⭐10)](https://github.com/mateuszwieloch/automkdir.nvim) - Automatically create non-existent parent directories when writing a file.
 *   [ragnarok22/whereami.nvim (⭐14)](https://github.com/ragnarok22/whereami.nvim) - Test your VPN by getting you current location.
-*   [ariel-frischer/bmessages.nvim (⭐32)](https://github.com/ariel-frischer/bmessages.nvim) - Replace the default :messages window with a configurable, auto-updating buffer.
-*   [LintaoAmons/easy-commands.nvim (⭐56)](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands.
-*   [backdround/tabscope.nvim (⭐30)](https://github.com/backdround/tabscope.nvim) - Make tab-local buffers.
+*   [ariel-frischer/bmessages.nvim (⭐33)](https://github.com/ariel-frischer/bmessages.nvim) - Replace the default :messages window with a configurable, auto-updating buffer.
+*   [LintaoAmons/easy-commands.nvim (⭐60)](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands.
+*   [backdround/tabscope.nvim (⭐34)](https://github.com/backdround/tabscope.nvim) - Make tab-local buffers.
 
 ### Git / Diagnostics
 
-*   [2KAbhishek/co-author.nvim (⭐18)](https://github.com/2KAbhishek/co-author.nvim) - Quickly add co-authors to commits.
+*   [2KAbhishek/co-author.nvim (⭐19)](https://github.com/2KAbhishek/co-author.nvim) - Quickly add co-authors to commits.
 
 ### Motion / Diagnostics
 
-*   [backdround/neowords.nvim (⭐45)](https://github.com/backdround/neowords.nvim) - Hops by any type of words. It gives fine control over `w`, `e`, `b`, `ge` movements.
-*   [backdround/improved-ft.nvim (⭐32)](https://github.com/backdround/improved-ft.nvim) - Improve default `f`/`t` abilities.
+*   [backdround/neowords.nvim (⭐48)](https://github.com/backdround/neowords.nvim) - Hops by any type of words. It gives fine control over `w`, `e`, `b`, `ge` movements.
+*   [backdround/improved-ft.nvim (⭐33)](https://github.com/backdround/improved-ft.nvim) - Improve default `f`/`t` abilities.
 
 ### Keybinding / Diagnostics
 
-*   [FeiyouG/commander.nvim (⭐321)](https://github.com/FeiyouG/commander.nvim) - Create and manage keybindings and commands in a more organized manner and search them quickly through Telescope.
+*   [FeiyouG/commander.nvim (⭐324)](https://github.com/FeiyouG/commander.nvim) - Create and manage keybindings and commands in a more organized manner and search them quickly through Telescope.
 
 ### Editing Support / Diagnostics
 
@@ -755,7 +755,7 @@
 
 ### Split and Window / Diagnostics
 
-*   [altermo/nxwm (⭐143)](https://github.com/altermo/nxwm) - X11 window manager.
+*   [altermo/nxwm (⭐144)](https://github.com/altermo/nxwm) - X11 window manager.
 
 ## [45. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
@@ -782,7 +782,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [autoenv (⭐5.5k)](https://github.com/hyperupcall/autoenv) - Directory-based environments.
-*   [calc (arzzen) (⭐128)](https://github.com/arzzen/calc.plugin.zsh) - A calculator for ZSH.
+*   [calc (arzzen) (⭐129)](https://github.com/arzzen/calc.plugin.zsh) - A calculator for ZSH.
 *   [calc (sam-programs) (⭐3)](https://github.com/Sam-programs/zsh-calc) - Allows you to run math calculations with no prefixes.
 *   [kubecolor (devopstales) (⭐4)](https://github.com/devopstales/zsh-kubecolor) - Adds aliases for the `kubecolor` command.
 *   [kubeconfig-mgr (⭐6)](https://github.com/yhlooo/zsh-kubeconfig-mgr) - Makes managing multiple kubeconfig files easier.

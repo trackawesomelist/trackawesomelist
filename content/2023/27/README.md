@@ -10,7 +10,7 @@
 
 ### Static type checkers
 
-*   [basedmypy (⭐51)](https://github.com/KotlinIsland/basedmypy) - Based static typing with baseline functionality.
+*   [basedmypy (⭐73)](https://github.com/KotlinIsland/basedmypy) - Based static typing with baseline functionality.
 
 ## [2. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
 
@@ -398,7 +398,7 @@
 
 ### RSS services powered by utilizing Obsidian / Outline Processor Markup Language
 
-*   [Obsidian-RSS (⭐314)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
+*   [Obsidian-RSS (⭐328)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
 
 ### RSSHub / Outline Processor Markup Language
 
@@ -574,7 +574,7 @@
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [Sympa](https://www.sympa.community/) - Mailing list manager. ([Source Code (⭐222)](https://github.com/sympa-community/sympa)) `GPL-2.0` `Perl`
+*   [Sympa](https://www.sympa.community/) - Mailing list manager. ([Source Code (⭐225)](https://github.com/sympa-community/sympa)) `GPL-2.0` `Perl`
 
 ### Software / Miscellaneous
 
@@ -582,22 +582,22 @@
 
 ### Software / Pastebins
 
-*   [YABin (⭐108)](https://github.com/Yureien/YABin) - A pastebin that contains plentiful features while remaining simple. Supports optional E2E encryption, a client-side CLI app, syntax highlighting, minimalistic UI, APIs, keyboard shortcuts, and more. It can even be run in serverless environments. ([Demo](https://bin.sohamsen.me/)) `MIT` `Nodejs/Docker`
+*   [YABin (⭐112)](https://github.com/Yureien/YABin) - A pastebin that contains plentiful features while remaining simple. Supports optional E2E encryption, a client-side CLI app, syntax highlighting, minimalistic UI, APIs, keyboard shortcuts, and more. It can even be run in serverless environments. ([Demo](https://bin.sohamsen.me/)) `MIT` `Nodejs/Docker`
 
 ### Software / Proxy
 
-*   [Koblas (⭐48)](https://github.com/ynuwenhof/koblas) - Lightweight SOCKS5 proxy server. `MIT` `Rust/Docker`
+*   [Koblas (⭐51)](https://github.com/ynuwenhof/koblas) - Lightweight SOCKS5 proxy server. `MIT` `Rust/Docker`
 
 ### Software / Remote Access
 
-*   [httprd (⭐52)](https://github.com/bitrate16/httprd) - Single-script remote desktop via web browser. `GPL-3.0` `Python`
+*   [httprd (⭐54)](https://github.com/bitrate16/httprd) - Single-script remote desktop via web browser. `GPL-3.0` `Python`
 
 ## [31. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [zootedb0t/citruszest.nvim (⭐79)](https://github.com/zootedb0t/citruszest.nvim) - A colorscheme that features a combination of bright and juicy colors reminiscent of various citrus fruits, with LSP and Tree-sitter support.
-*   [2nthony/vitesse.nvim (⭐39)](https://github.com/2nthony/vitesse.nvim) - Vitesse theme Lua port.
+*   [zootedb0t/citruszest.nvim (⭐84)](https://github.com/zootedb0t/citruszest.nvim) - A colorscheme that features a combination of bright and juicy colors reminiscent of various citrus fruits, with LSP and Tree-sitter support.
+*   [2nthony/vitesse.nvim (⭐41)](https://github.com/2nthony/vitesse.nvim) - Vitesse theme Lua port.
 
 ## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -640,11 +640,11 @@
 
 ### AI
 
-*   [upython-chat-gpt (⭐16)](https://github.com/karlsoderby/upython-chat-gpt) - ChatGPT for MicroPython.
+*   [upython-chat-gpt (⭐17)](https://github.com/karlsoderby/upython-chat-gpt) - ChatGPT for MicroPython.
 
 ### Communications / APIs
 
-*   [micropython-linenotify (⭐5)](https://github.com/PerfecXX/micropython-linenotify) - MicroPython library for sending notifications to Line Notify with ESP8266 and ESP32.
+*   [micropython-linenotify (⭐6)](https://github.com/PerfecXX/micropython-linenotify) - MicroPython library for sending notifications to Line Notify with ESP8266 and ESP32.
 
 ### Communications / ESP-NOW
 
@@ -660,7 +660,7 @@
 
 ### Communications / WiFi
 
-*   [micropython-wifi\_manager (⭐45)](https://github.com/ferreira-igor/micropython-wifi_manager) - WiFi Manager for ESP8266 and ESP32 using MicroPython.
+*   [micropython-wifi\_manager (⭐47)](https://github.com/ferreira-igor/micropython-wifi_manager) - WiFi Manager for ESP8266 and ESP32 using MicroPython.
 
 ### Sensors / Accelerometer Digital
 
@@ -686,26 +686,26 @@
 
 ### Nodes & Consensus Participation / Wallets
 
-*   [AlgoRun (⭐26)](https://github.com/algorandfoundation/algorun) - Simple CLI utility for setting up and starting Algorand MainNet participation node.
+*   [AlgoRun (⭐27)](https://github.com/algorandfoundation/algorun) - Simple CLI utility for setting up and starting Algorand MainNet participation node.
 
 ## [38. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Services
 
-*   [AilingBot (⭐45)](https://github.com/ericzhang-cn/ailingbot): Quickly integrate applications built on Langchain into IM such as Slack, WeChat Work, Feishu, DingTalk.
+*   [AilingBot (⭐53)](https://github.com/ericzhang-cn/ailingbot): Quickly integrate applications built on Langchain into IM such as Slack, WeChat Work, Feishu, DingTalk.
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Autonomous HR Chatbot (⭐247)](https://github.com/stepanogil/autonomous-hr-chatbot) An autonomous HR agent that can answer user queries using tools ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)
-*   [GPT Migrate (⭐6.5k)](https://github.com/0xpayne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
+*   [Autonomous HR Chatbot (⭐269)](https://github.com/stepanogil/autonomous-hr-chatbot) An autonomous HR agent that can answer user queries using tools ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)
+*   [GPT Migrate (⭐6.8k)](https://github.com/0xpayne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
 
 ### Tools / Agents
 
-*   [BlockAGI (⭐235)](https://github.com/blockpipe/blockagi): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social)
+*   [BlockAGI (⭐252)](https://github.com/blockpipe/blockagi): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social)
 
 ### Open Source Projects / Knowledge Management
 
-*   [DataChad (⭐284)](https://github.com/gustavz/DataChad): A streamlit app that lets you chat with any data source. Supporting both OpenAI and local mode with GPT4All. ![GitHub Repo stars](https://img.shields.io/github/stars/gustavz/DataChad?style=social)
+*   [DataChad (⭐295)](https://github.com/gustavz/DataChad): A streamlit app that lets you chat with any data source. Supporting both OpenAI and local mode with GPT4All. ![GitHub Repo stars](https://img.shields.io/github/stars/gustavz/DataChad?style=social)
 
 ### Learn / Videos Playlists
 
@@ -713,14 +713,14 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Outlines (⭐3.8k)](https://github.com/normal-computing/outlines): Fast and reliable neural text generation. ![GitHub Repo stars](https://img.shields.io/github/stars/normal-computing/outlines?style=social)
-*   [AI Utils (⭐654)](https://github.com/lgrammel/ai-utils.js): TypeScript-first library for building AI apps, chatbots, and agents. ![GitHub Repo stars](https://img.shields.io/github/stars/lgrammel/ai-utils.js?style=social)
+*   [Outlines (⭐4.8k)](https://github.com/normal-computing/outlines): Fast and reliable neural text generation. ![GitHub Repo stars](https://img.shields.io/github/stars/normal-computing/outlines?style=social)
+*   [AI Utils (⭐781)](https://github.com/lgrammel/ai-utils.js): TypeScript-first library for building AI apps, chatbots, and agents. ![GitHub Repo stars](https://img.shields.io/github/stars/lgrammel/ai-utils.js?style=social)
 
 ## [39. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Database
 
-*   [dongoose (⭐17)](https://github.com/roonie007/dongoose) - A simple and easy to use ORM for Deno KV.
+*   [dongoose (⭐18)](https://github.com/roonie007/dongoose) - A simple and easy to use ORM for Deno KV.
 
 ### Modules / Web utils
 
@@ -802,7 +802,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf (unixorn) (⭐237)](https://github.com/unixorn/fzf-zsh-plugin/) - Enables [fzf (⭐58k)](https://github.com/junegunn/fzf) history and file searches.
+*   [fzf (unixorn) (⭐242)](https://github.com/unixorn/fzf-zsh-plugin/) - Enables [fzf (⭐58k)](https://github.com/junegunn/fzf) history and file searches.
 *   [fzf-tools (⭐7)](https://github.com/happycod3r/fzf-tools) - Provides functions, aliases and key-bindings for commands such as `alias`, `find`, `ls`, `man`, `printenv` that are designed to enhance your command-line workflow by making them to default to filtering through [fzf (⭐58k)](https://github.com/junegunn/fzf), allowing you to quickly find files, search & run commands from history, run scripts of many supported types, browse `git` commits, and more.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -811,7 +811,7 @@
 *   [bira (⭐1)](https://github.com/zimfw/bira) - Fork of Oh-My-ZSH [bira (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme. Includes decorators for working directory, username\@host, `git` status information, Python [venv](https://docs.python.org/3/library/venv.html) and a status code when the last command had an error.
 *   [nostalgia (⭐0)](https://github.com/skippyr/nostalgia) - Minimalist theme inspired by Windows CMD prompt. Includes decorators for user\@hostname, `git` status, current directory and python virtualenv.
 *   [riverside (⭐0)](https://github.com/skippyr/riverside) - A more portable descendent of [River Dreams (⭐2)](https://github.com/skippyr/river_dreams) inspired by robbyrussell and kafeitu. Includes decorators for `git` status, user\@hostname, current directory and the current python virtual environment.
-*   [zunder (⭐1)](https://github.com/Warbacon/zunder-prompt) - Simple and fast ZSH prompt based on [gitstatus (⭐1.6k)](https://github.com/romkatv/gitstatus).
+*   [zunder (⭐2)](https://github.com/Warbacon/zunder-prompt) - Simple and fast ZSH prompt based on [gitstatus (⭐1.6k)](https://github.com/romkatv/gitstatus).
 
 ---
 

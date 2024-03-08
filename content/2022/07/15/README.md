@@ -106,7 +106,7 @@
 
 ### Go / Git
 
-*   [kyber (⭐582)](https://github.com/dedis/kyber) - Advanced crypto library for the Go language.
+*   [kyber (⭐590)](https://github.com/dedis/kyber) - Advanced crypto library for the Go language.
 
 ## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

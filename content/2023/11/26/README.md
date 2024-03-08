@@ -10,7 +10,7 @@
 
 ### Frameworks / Apache License
 
-*   [adamant (⭐21)](https://github.com/lasp/adamant) - A component-based, model-driven framework for constructing reliable and reusable real-time software.
+*   [adamant (⭐26)](https://github.com/lasp/adamant) - A component-based, model-driven framework for constructing reliable and reusable real-time software.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Libraries/Frameworks / Tools
 
-*   [typesafegithub/github-workflows-kt (⭐470)](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
+*   [typesafegithub/github-workflows-kt (⭐476)](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -34,11 +34,11 @@
 
 ### Completion / Diagnostics
 
-*   [nvimdev/epo.nvim (⭐96)](https://github.com/nvimdev/epo.nvim) - Blazingly fast, minimal LSP auto-completion and snippet engine.
+*   [nvimdev/epo.nvim (⭐102)](https://github.com/nvimdev/epo.nvim) - Blazingly fast, minimal LSP auto-completion and snippet engine.
 
 ### Formatting / Diagnostics
 
-*   [nvimdev/guard.nvim (⭐399)](https://github.com/nvimdev/guard.nvim) - Minimalist async formatting and linting plugin.
+*   [nvimdev/guard.nvim (⭐401)](https://github.com/nvimdev/guard.nvim) - Minimalist async formatting and linting plugin.
 
 ---
 

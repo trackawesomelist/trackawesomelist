@@ -36,7 +36,7 @@
 
 ### NixOS Modules / Zig
 
-*   [NixVim (⭐805)](https://github.com/nix-community/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
+*   [NixVim (⭐975)](https://github.com/nix-community/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

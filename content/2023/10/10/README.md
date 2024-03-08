@@ -131,7 +131,7 @@
 
 ### Search / Diagnostics
 
-*   [nvimdev/hlsearch.nvim (⭐55)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
+*   [nvimdev/hlsearch.nvim (⭐59)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
 
 ## [7. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

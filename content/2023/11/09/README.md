@@ -50,12 +50,12 @@
 
 ### Projects / User Interfaces
 
-*   [VsCoq (⭐294)](https://github.com/coq-community/vscoq) - Language server and extension for the Visual Studio Code and VSCodium editors.
-*   [VsCoq Legacy (⭐294)](https://github.com/coq-community/vscoq/tree/vscoq1) - Backwards-compatible extension for the Visual Studio Code and VSCodium editors using Coq's legacy XML protocol.
+*   [VsCoq (⭐303)](https://github.com/coq-community/vscoq) - Language server and extension for the Visual Studio Code and VSCodium editors.
+*   [VsCoq Legacy (⭐303)](https://github.com/coq-community/vscoq/tree/vscoq1) - Backwards-compatible extension for the Visual Studio Code and VSCodium editors using Coq's legacy XML protocol.
 
 ### Projects / Verified Software
 
-*   [WasmCert-Coq (⭐86)](https://github.com/WasmCert/WasmCert-Coq/) - Formalization in Coq of the WebAssembly (aka Wasm) 1.0 specification.
+*   [WasmCert-Coq (⭐87)](https://github.com/WasmCert/WasmCert-Coq/) - Formalization in Coq of the WebAssembly (aka Wasm) 1.0 specification.
 
 ### Resources / Blogs
 
@@ -111,7 +111,7 @@
 
 ### Software / Self-hosting Solutions
 
-*   [StartOS](https://start9.com) - Browser-based, graphical Operating System (OS) that makes running a personal server as easy as running a personal computer. ([Source Code (⭐669)](https://github.com/Start9Labs/start-os)) `MIT` `Rust`
+*   [StartOS](https://start9.com) - Browser-based, graphical Operating System (OS) that makes running a personal server as easy as running a personal computer. ([Source Code (⭐691)](https://github.com/Start9Labs/start-os)) `MIT` `Rust`
 
 ## [12. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
@@ -134,14 +134,14 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [Fastify (⭐29k)](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
+*   :octocat: [Fastify (⭐30k)](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 *   :octocat: [Hono](https://hono.dev/) - Hono is a small, simple, and ultrafast web framework for the Edges. It works on any JavaScript runtime
 
 ## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Motion / Diagnostics
 
-*   [xiaoshihou514/squirrel.nvim (⭐12)](https://github.com/xiaoshihou514/squirrel.nvim) - Quickly jump between tree-sitter nodes.
+*   [xiaoshihou514/squirrel.nvim (⭐13)](https://github.com/xiaoshihou514/squirrel.nvim) - Quickly jump between tree-sitter nodes.
 
 ---
 

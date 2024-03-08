@@ -39,7 +39,7 @@
 
 ### Project / Diagnostics
 
-*   [natecraddock/workspaces.nvim (⭐236)](https://github.com/natecraddock/workspaces.nvim) - Manage workspace directories.
+*   [natecraddock/workspaces.nvim (⭐240)](https://github.com/natecraddock/workspaces.nvim) - Manage workspace directories.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

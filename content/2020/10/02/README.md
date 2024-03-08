@@ -208,7 +208,7 @@
 
 ### Third-Party Packages / Views
 
-*   [django-easy-audit (⭐634)](https://github.com/soynatan/django-easy-audit) - Keep track of user actions.
+*   [django-easy-audit (⭐643)](https://github.com/soynatan/django-easy-audit) - Keep track of user actions.
 
 ### Projects / Boilerplate
 

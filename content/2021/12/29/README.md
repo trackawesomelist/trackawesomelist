@@ -87,7 +87,7 @@
 
 ### Command-Line Tools / Discovery
 
-*   [nix-alien (⭐352)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
+*   [nix-alien (⭐367)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
 
 ## [12. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 

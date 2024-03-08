@@ -20,12 +20,12 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [Mercury (⭐3.4k)](https://github.com/mljar/mercury) - Convert notebooks into web applications.
+*   [Mercury (⭐3.7k)](https://github.com/mljar/mercury) - Convert notebooks into web applications.
 *   [nbconvert](https://nbconvert.readthedocs.io) - Convert notebooks to other formats.
 
 ### JupyterLab Extensions
 
-*   [lineapy (⭐620)](https://github.com/LineaLabs/lineapy) - Extension for transforming messy Jupyter notebooks to production-ready pipelines with two lines of code.
+*   [lineapy (⭐650)](https://github.com/LineaLabs/lineapy) - Extension for transforming messy Jupyter notebooks to production-ready pipelines with two lines of code.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -48,7 +48,6 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ribbon (⭐0)](https://github.com/pyjamafish/ribbon-prompt) - Reminiscent of powerline. Includes Python `virtualenv` decorator.
-*   [snazzy (⭐0)](https://github.com/Gary-Ash/SnazzyPrompt) - A powerline-style prompt. Includes segments for current working directory, error status of the last command, `git` status information, hostname and username. Requires `libgit2`.
 
 ## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

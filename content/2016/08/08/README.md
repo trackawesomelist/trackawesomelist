@@ -16,7 +16,7 @@
 
 ### Similar lists / Videos
 
-*   [Awesome Open (⭐75)](https://github.com/paulhendricks/awesome-open):
+*   [Awesome Open (⭐76)](https://github.com/paulhendricks/awesome-open):
     A curated list of organizations, projects and initiatives that maintain open codebases and datasets
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)

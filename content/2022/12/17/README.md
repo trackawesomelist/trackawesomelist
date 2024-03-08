@@ -55,13 +55,13 @@
 
 ### REST and API
 
-*   🍰 [CRUD plugin (⭐373)](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production-ready code.
+*   🍰 [CRUD plugin (⭐374)](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production-ready code.
 
 ## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Deployment Tools / Discovery
 
-*   [Nixinate (⭐188)](https://github.com/MatthewCroughan/nixinate) - A Nix flake library to provide app outputs for managing existing NixOS hosts over SSH.
+*   [Nixinate (⭐197)](https://github.com/MatthewCroughan/nixinate) - A Nix flake library to provide app outputs for managing existing NixOS hosts over SSH.
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -83,17 +83,17 @@
 
 ### 2D / Godot 3.2+
 
-*   [Falling Square (⭐15)](https://github.com/EmilienLeroy/FallingSquare) - A simple mobile game to test your reflex.
+*   [Falling Square (⭐16)](https://github.com/EmilienLeroy/FallingSquare) - A simple mobile game to test your reflex.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Yazeed1s/oh-lucy.nvim (⭐170)](https://github.com/yazeed1s/oh-lucy.nvim) - Two tree-sitter supported colorschemes, inspired by oh-lucy in vscode.
+*   [Yazeed1s/oh-lucy.nvim (⭐176)](https://github.com/yazeed1s/oh-lucy.nvim) - Two tree-sitter supported colorschemes, inspired by oh-lucy in vscode.
 
 ### Editing Support / Diagnostics
 
-*   [shortcuts/no-neck-pain.nvim (⭐357)](https://github.com/shortcuts/no-neck-pain.nvim) - Center the currently focused buffer to the middle of your terminal.
+*   [shortcuts/no-neck-pain.nvim (⭐366)](https://github.com/shortcuts/no-neck-pain.nvim) - Center the currently focused buffer to the middle of your terminal.
 
 ---
 

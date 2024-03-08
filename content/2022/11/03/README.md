@@ -29,10 +29,6 @@
 
 ## [4. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
-### Frameworks
-
-*   [CircuitPython Online IDE](https://urfdvw.github.io/CircuitPython-online-IDE/) - A browser based IDE for CircuitPython by River Wang
-
 ### Events
 
 *   [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - The weekly Adafruit Show-and-tell program often has CircuitPython-related projects on display.

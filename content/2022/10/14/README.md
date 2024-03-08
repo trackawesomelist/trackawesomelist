@@ -10,11 +10,11 @@
 
 ### Templates / Godot 3.5+
 
-*   [bendn's Godot Template (⭐35)](https://github.com/bend-n/godot-template) - Game template using the [gpm (⭐8)](https://github.com/you-win/godot-package-manager), with itch.io pushing and builds automated. Starter CLI included.
+*   [bendn's Godot Template (⭐36)](https://github.com/bend-n/godot-template) - Game template using the [gpm (⭐8)](https://github.com/you-win/godot-package-manager), with itch.io pushing and builds automated. Starter CLI included.
 
 ### Unofficial Godot builds / Godot version unknown
 
-*   [bend-n's 2D builds (⭐18)](https://github.com/bend-n/godot-builds) - Godot builds [optimized for size](https://docs.godotengine.org/en/stable/development/compiling/optimizing_for_size.html) with [these modules disabled (⭐18)](https://github.com/bend-n/godot-builds/blob/main/.github/2d-build-modules.py). Also includes misc non breaking patches.
+*   [bend-n's 2D builds (⭐19)](https://github.com/bend-n/godot-builds) - Godot builds [optimized for size](https://docs.godotengine.org/en/stable/development/compiling/optimizing_for_size.html) with [these modules disabled (⭐19)](https://github.com/bend-n/godot-builds/blob/main/.github/2d-build-modules.py). Also includes misc non breaking patches.
 
 ### Other / Godot version unknown
 
@@ -51,11 +51,11 @@
 ### Media / Diagnostics
 
 *   [samodostal/image.nvim (⭐165)](https://github.com/samodostal/image.nvim) - Image Viewer as ASCII Art.
-*   [adelarsq/image\_preview.nvim (⭐90)](https://github.com/adelarsq/image_preview.nvim) - Image preview based on terminal's Image Protocol support.
+*   [adelarsq/image\_preview.nvim (⭐91)](https://github.com/adelarsq/image_preview.nvim) - Image preview based on terminal's Image Protocol support.
 
 ### Game / Diagnostics
 
-*   [rktjmp/shenzhen-solitaire.nvim (⭐42)](https://github.com/rktjmp/shenzhen-solitaire.nvim) - Shenzhen I/O Solitaire port.
+*   [rktjmp/shenzhen-solitaire.nvim (⭐43)](https://github.com/rktjmp/shenzhen-solitaire.nvim) - Shenzhen I/O Solitaire port.
 
 ## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

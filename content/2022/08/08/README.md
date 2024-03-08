@@ -30,7 +30,7 @@
 
 ### Software / Automation
 
-*   [Tube Archivist](https://www.tubearchivist.com/) `⚠` - Your self hosted YouTube media server: Subscribe, download, index, search and play your favorite videos. ([Source Code (⭐3.8k)](https://github.com/tubearchivist/tubearchivist)) `GPL-3.0` `Python/Docker`
+*   [Tube Archivist](https://www.tubearchivist.com/) `⚠` - Your self hosted YouTube media server: Subscribe, download, index, search and play your favorite videos. ([Source Code (⭐3.9k)](https://github.com/tubearchivist/tubearchivist)) `GPL-3.0` `Python/Docker`
 
 ### Software / Bookmarks and Link Sharing
 
@@ -38,7 +38,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Databag (⭐666)](https://github.com/balzack/databag) - Federated, end-to-end encrypted messaging service for the web, iOS, and Android, supporting text, photos, video, and WebRTC video and audio calls. ([Demo](https://databag.coredb.org/#/create)) `Apache-2.0` `Docker`
+*   [Databag (⭐682)](https://github.com/balzack/databag) - Federated, end-to-end encrypted messaging service for the web, iOS, and Android, supporting text, photos, video, and WebRTC video and audio calls. ([Demo](https://databag.coredb.org/#/create)) `Apache-2.0` `Docker`
 
 ### Software / Communication - SIP
 
@@ -46,20 +46,20 @@
 
 ### Software / Feed Readers
 
-*   [Yarr (⭐2.4k)](https://github.com/nkanaev/yarr) - Yarr (yet another rss reader) is a web-based feed aggregator which can be used both as a desktop application and a personal self-hosted server. `MIT` `Go`
+*   [Yarr (⭐2.5k)](https://github.com/nkanaev/yarr) - Yarr (yet another rss reader) is a web-based feed aggregator which can be used both as a desktop application and a personal self-hosted server. `MIT` `Go`
 
 ### Software / Miscellaneous
 
-*   [DOMJudge](https://www.domjudge.org/) - A system for running a programming contest, like the ICPC regional and world championship programming contests. ([Demo](https://www.domjudge.org/demo), [Source Code (⭐669)](https://github.com/DOMjudge/domjudge)) `GPL-2.0/BSD-3-Clause/MIT` `PHP`
+*   [DOMJudge](https://www.domjudge.org/) - A system for running a programming contest, like the ICPC regional and world championship programming contests. ([Demo](https://www.domjudge.org/demo), [Source Code (⭐671)](https://github.com/DOMjudge/domjudge)) `GPL-2.0/BSD-3-Clause/MIT` `PHP`
 
 ### Software / Photo and Video Galleries
 
-*   [This week in past (⭐49)](https://github.com/RouHim/this-week-in-past) - Aggregates images taken this week, from previous years and presents them on a web page with a simple slideshow. `MIT` `Docker/Rust`
+*   [This week in past (⭐55)](https://github.com/RouHim/this-week-in-past) - Aggregates images taken this week, from previous years and presents them on a web page with a simple slideshow. `MIT` `Docker/Rust`
 *   [Thumbor](http://thumbor.org/) - A smart imaging service and enables on-demand cropping, resizing, applying filters and optimizing images. ([Source Code (⭐9.8k)](https://github.com/thumbor/thumbor)) `MIT` `Python/Docker`
 
 ### Software / Search Engines
 
-*   [Manticore Search (⭐7.8k)](https://github.com/manticoresoftware/manticoresearch/) - Full-text search and data analytics, with fast response time for small, medium and big data (alternative to Elasticsearch). `GPL-2.0` `Docker/deb/C++`
+*   [Manticore Search (⭐8k)](https://github.com/manticoresoftware/manticoresearch/) - Full-text search and data analytics, with fast response time for small, medium and big data (alternative to Elasticsearch). `GPL-2.0` `Docker/deb/C++`
 
 ### Software / Software Development - Project Management
 

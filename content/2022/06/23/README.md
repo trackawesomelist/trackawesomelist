@@ -46,12 +46,12 @@
 
 ### Motion / Diagnostics
 
-*   [edluffy/specs.nvim (⭐426)](https://github.com/edluffy/specs.nvim) - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
-*   [abecodes/tabout.nvim (⭐641)](https://github.com/abecodes/tabout.nvim) - Jump out of brackets, quotes, objects, etc.
+*   [edluffy/specs.nvim (⭐427)](https://github.com/edluffy/specs.nvim) - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
+*   [abecodes/tabout.nvim (⭐649)](https://github.com/abecodes/tabout.nvim) - Jump out of brackets, quotes, objects, etc.
 
 ### Treesitter Based / Diagnostics
 
-*   [mfussenegger/nvim-ts-hint-textobject (⭐386)](https://github.com/mfussenegger/nvim-ts-hint-textobject) - Region selection with hints on the AST nodes of a document powered by Treesitter.
+*   [mfussenegger/nvim-ts-hint-textobject (⭐387)](https://github.com/mfussenegger/nvim-ts-hint-textobject) - Region selection with hints on the AST nodes of a document powered by Treesitter.
 
 ## [6. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐281)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs/Docker`
+*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐282)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs/Docker`
 
 ### Software / Ticketing
 
@@ -115,7 +115,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [io-ts (⭐6.5k)](https://github.com/gcanti/io-ts) - Type validation at runtime
+*   :octocat: [io-ts (⭐6.6k)](https://github.com/gcanti/io-ts) - Type validation at runtime
 *   :octocat: [fast-check (⭐4k)](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
 
 ---

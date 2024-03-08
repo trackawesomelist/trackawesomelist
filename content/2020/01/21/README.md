@@ -48,7 +48,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Audioserve (⭐651)](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
+*   [Audioserve (⭐652)](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
 
 ## [7. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 

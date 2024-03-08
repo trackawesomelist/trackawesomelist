@@ -92,7 +92,7 @@
 
 ### Routers / Checkbox
 
-*   [Elegua (⭐65)](https://github.com/howesteve/elegua) - Small (< 180LoC), fast, easy, full featured SPA router
+*   [Elegua (⭐64)](https://github.com/howesteve/elegua) - Small (< 180LoC), fast, easy, full featured SPA router
 
 ## [10. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
@@ -157,7 +157,7 @@
 
 ### Projects / User Interfaces
 
-*   [Coq LSP (⭐121)](https://github.com/ejgallego/coq-lsp) - Language server and extension for the Visual Studio Code and VSCodium editors with custom document checking engine.
+*   [Coq LSP (⭐126)](https://github.com/ejgallego/coq-lsp) - Language server and extension for the Visual Studio Code and VSCodium editors with custom document checking engine.
 
 ### Projects / Type Theory and Mathematics
 
@@ -218,11 +218,11 @@
 
 ### Code Generation / SRAM
 
-*   [micropython-stubs (⭐102)](https://github.com/Josverl/micropython-stubs) - Stubs of most MicroPython ports, boards and versions to make writing code that much simpler.
+*   [micropython-stubs (⭐105)](https://github.com/Josverl/micropython-stubs) - Stubs of most MicroPython ports, boards and versions to make writing code that much simpler.
 
 ### Shells / Jupyter
 
-*   [micropython-magic (⭐12)](https://github.com/josverl/micropython-magic) - MicroPython integrated into Jupyter notebooks.
+*   [micropython-magic (⭐13)](https://github.com/josverl/micropython-magic) - MicroPython integrated into Jupyter notebooks.
 
 ## [21. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
@@ -330,11 +330,11 @@
 
 ### Books
 
-*   :books: [The Concise TypeScript Book (Free and Open Source) (⭐7.8k)](https://github.com/gibbok/typescript-book) by Simone Poggiali
+*   :books: [The Concise TypeScript Book (Free and Open Source) (⭐8.2k)](https://github.com/gibbok/typescript-book) by Simone Poggiali
 
 ### Validation / Playground
 
-*   [dto-classes (⭐69)](https://github.com/rsinger86/dto-classes) - Developer-friendly parsing, validation & serialization. Static types by default. Uses properties for field schemas, not decorators.
+*   [dto-classes (⭐72)](https://github.com/rsinger86/dto-classes) - Developer-friendly parsing, validation & serialization. Static types by default. Uses properties for field schemas, not decorators.
 
 ## [30. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
@@ -376,11 +376,11 @@
 
 ### Snippet / Diagnostics
 
-*   [TobinPalmer/rayso.nvim (⭐65)](https://github.com/TobinPalmer/rayso.nvim) - Create code snippets in Neovim using [ray.so](https://ray.so).
+*   [TobinPalmer/rayso.nvim (⭐67)](https://github.com/TobinPalmer/rayso.nvim) - Create code snippets in Neovim using [ray.so](https://ray.so).
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [dasupradyumna/midnight.nvim (⭐147)](https://github.com/dasupradyumna/midnight.nvim) - A modern black Neovim theme with comfortable color contrast for a pleasant visual experience, with LSP and Tree-sitter support.
+*   [dasupradyumna/midnight.nvim (⭐151)](https://github.com/dasupradyumna/midnight.nvim) - A modern black Neovim theme with comfortable color contrast for a pleasant visual experience, with LSP and Tree-sitter support.
 
 ## [34. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -413,13 +413,13 @@
 
 ### Tools / Services
 
-*   [Langchain Decorators (⭐203)](https://github.com/ju-bezdek/langchain-decorators): a layer on the top of LangChain that provides syntactic sugar 🍭 for writing custom langchain prompts and chains ![GitHub Repo stars](https://img.shields.io/github/stars/ju-bezdek/langchain-decorators?style=social)
+*   [Langchain Decorators (⭐217)](https://github.com/ju-bezdek/langchain-decorators): a layer on the top of LangChain that provides syntactic sugar 🍭 for writing custom langchain prompts and chains ![GitHub Repo stars](https://img.shields.io/github/stars/ju-bezdek/langchain-decorators?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Dialoqbase (⭐955)](https://github.com/n4ze3m/dialoqbase): web application that allows you to create custom chatbots with your own knowledge base ![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social)
+*   [Dialoqbase (⭐1.3k)](https://github.com/n4ze3m/dialoqbase): web application that allows you to create custom chatbots with your own knowledge base ![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social)
 *   [CSV-AI 🧠](https://python.langchain.com/en/latest/modules/indexes/document_loaders/examples/snowflake.html): CSV-AI is the ultimate app powered by LangChain that allows you to unlock hidden insights in your CSV files.
-*   [MindGeniusAI (⭐86)](https://github.com/xianjianlf2/MindGeniusAI): Auto generate MindMap with ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)
+*   [MindGeniusAI (⭐98)](https://github.com/xianjianlf2/MindGeniusAI): Auto generate MindMap with ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)
 
 ## [37. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -431,7 +431,7 @@
 
 ### Projects / Desktop
 
-*   [krud-dev/ostara (⭐288)](https://github.com/krud-dev/ostara) - A desktop application that provides various features to monitor and interact with Spring Boot Applications via Actuator.
+*   [krud-dev/ostara (⭐290)](https://github.com/krud-dev/ostara) - A desktop application that provides various features to monitor and interact with Spring Boot Applications via Actuator.
 
 ## [39. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -450,7 +450,7 @@
 *   [bouni (⭐0)](https://github.com/Bouni/bouni-zsh-theme) - Includes decorators for user\@host, current directory, active python virtualenv, and `git` status.
 *   [brisa (⭐2)](https://github.com/ambrisolla/oh-my-zsh-brisa-theme) - Multiline theme based on [fino-time (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/fino-time.zsh-theme). Includes decorations for username, host, current directory, and `git` status.
 *   [coolmelon (⭐0)](https://github.com/omkarpai/coolmelon-zsh-theme/) - Includes decorators for user\@host, time, current directory, node version and `git` information.
-*   [hex (⭐0)](https://github.com/hectorBrown/hex-zsh) - Heavily based on [bira (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#bira), and [gruvbox (⭐97)](https://github.com/sbugzu/gruvbox-zsh), which in turn is based on [agnoster](https://gist.github.com/agnoster/3712874). Includes decorators for current directory, `git` status information, active python virtualenv, exit status of the last command run. Requires a Powerline-compatible font.
+*   [hex (⭐0)](https://github.com/hectorBrown/hex-zsh) - Heavily based on [bira (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#bira), and [gruvbox (⭐101)](https://github.com/sbugzu/gruvbox-zsh), which in turn is based on [agnoster](https://gist.github.com/agnoster/3712874). Includes decorators for current directory, `git` status information, active python virtualenv, exit status of the last command run. Requires a Powerline-compatible font.
 *   [hoffish (⭐0)](https://github.com/emilHof/hoffish-zsh-theme) - If the [agnoster (⭐3.9k)](https://github.com/agnoster/agnoster-zsh-theme) theme and [fish](https://fishshell.com/) shell had a ZSH theme for a child. Includes decorators for `git` status, trimmed path to current directory, root status, exit status of the last command run and the active python virtualenv. Requires a Powerline font and the [zsh-autosuggestions (⭐29k)](https://github.com/zsh-users/zsh-autosuggestions) and [shrink-path (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/shrink-path/shrink-path.plugin.zsh) plugins.
 *   [july (⭐0)](https://github.com/skippyr/july) - Minimalist prompt. Includes decorators for user, host and current directory.
 *   [nablaman (⭐0)](https://github.com/kokkonisd/nablaman-zsh-theme) - Similar to [powerlevel10k (⭐42k)](https://github.com/romkatv/powerlevel10k). Includes decorators for the last command's exit status, user\@hostname, `git` status and the current directory. Works best with a dark terminal theme.
@@ -574,7 +574,7 @@
 ### Apps / Outline Processor Markup Language
 
 *   [RSS 阅读器](https://logspot.hocgin.top/addone-rss-reader) <sup>[1312](https://t.me/s/aboutrss/1312)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/bfdoopgbjcacghflbbdikollnphobemo)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [MeRead (⭐340)](https://github.com/gvenusleo/meread) <sup>[1314](https://t.me/s/aboutrss/1314)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://github.com/gvenusleo/MeRead/releases)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/gvenusleo/meread)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [MeRead (⭐347)](https://github.com/gvenusleo/meread) <sup>[1314](https://t.me/s/aboutrss/1314)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://github.com/gvenusleo/MeRead/releases)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/gvenusleo/meread)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Feedy](https://krillapps.com/feedy/) [![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://itunes.apple.com/app/feedy-rss-client/id588288104)
 
 ### Hosted Readers / Outline Processor Markup Language
@@ -593,7 +593,7 @@
 ### Other Apps / Outline Processor Markup Language
 
 *   Android Launcher
-    *   [Posidon launcher (⭐285)](https://github.com/lposidon/posidonLauncher) <sup>[806](https://t.me/s/aboutrss/806)</sup> : a minimal, one page homescreen with a vertical scrolling feed [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=posidon.launcher)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lposidon/posidonLauncher)
+    *   [Posidon launcher (⭐284)](https://github.com/lposidon/posidonLauncher) <sup>[806](https://t.me/s/aboutrss/806)</sup> : a minimal, one page homescreen with a vertical scrolling feed [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=posidon.launcher)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lposidon/posidonLauncher)
     *   [Stario Launcher](https://www.producthunt.com/products/stario-launcher) <sup>[1297](https://t.me/s/aboutrss/1297)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.stario.launcher)
 *   [Legado](https://gedoor.github.io/) <sup>[1319](https://t.me/s/aboutrss/1319)</sup>: A Book Reader [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/gedoor/legado)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Mastofeeder](https://mastofeeder.com/) <sup>[1327](https://t.me/s/aboutrss/1327)</sup>: Using Mastodon as a RSS Reader [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/jehna/mastofeeder)
@@ -621,7 +621,7 @@
 
 ### specifically from (*a certain platform*) / Telegram
 
-*   [tg-archive (⭐690)](https://github.com/knadh/tg-archive) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/knadh/tg-archive)
+*   [tg-archive (⭐701)](https://github.com/knadh/tg-archive) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/knadh/tg-archive)
 
 ### RSS2MAIL / Docsify
 
@@ -701,11 +701,11 @@
 
 ### Software / Analytics
 
-*   [PoeticMetric](https://www.poeticmetric.com) - Free as in freedom, open source, privacy-first and regulation-compliant web analytics tool. ([Demo](https://www.poeticmetric.com/s?d=www.poeticmetric.com), [Source Code (⭐195)](https://github.com/th0th/poeticmetric)) `AGPL-3.0` `Docker`
+*   [PoeticMetric](https://www.poeticmetric.com) - Free as in freedom, open source, privacy-first and regulation-compliant web analytics tool. ([Demo](https://www.poeticmetric.com/s?d=www.poeticmetric.com), [Source Code (⭐200)](https://github.com/th0th/poeticmetric)) `AGPL-3.0` `Docker`
 
 ### Software / Automation
 
-*   [YoutubeDL-Server (⭐191)](https://github.com/nbr23/youtube-dl-server) - Web and REST interface for downloading videos onto a server. `MIT` `Python/Docker`
+*   [YoutubeDL-Server (⭐193)](https://github.com/nbr23/youtube-dl-server) - Web and REST interface for downloading videos onto a server. `MIT` `Python/Docker`
 
 ### Software / Bookmarks and Link Sharing
 
@@ -713,19 +713,19 @@
 
 ### Software / Database Management
 
-*   [Limbas](https://www.limbas.com/en/) - Limbas is a database framework for creating database-driven business applications. As a graphical database frontend, it enables the efficient processing of data stocks and the flexible development of comfortable database applications. ([Source Code (⭐41)](https://github.com/limbas/limbas)) `GPL-2.0` `PHP`
+*   [Limbas](https://www.limbas.com/en/) - Limbas is a database framework for creating database-driven business applications. As a graphical database frontend, it enables the efficient processing of data stocks and the flexible development of comfortable database applications. ([Source Code (⭐42)](https://github.com/limbas/limbas)) `GPL-2.0` `PHP`
 
 ### Software / Games
 
-*   [Romm (⭐900)](https://github.com/zurdi15/romm) `⚠` - RomM (Rom Manager) is a web based retro roms manager integrated with IGDB. `GPL-3.0` `Docker`
+*   [Romm (⭐926)](https://github.com/zurdi15/romm) `⚠` - RomM (Rom Manager) is a web based retro roms manager integrated with IGDB. `GPL-3.0` `Docker`
 
 ### Software / Polls and Events
 
-*   [Input](https://getinput.co) - A privacy-focused, no-code, open-source form builder designed for simplicity and brand consistency. ([Source Code (⭐108)](https://github.com/deck9/input)) `AGPL-3.0` `PHP/Nodejs/Docker`
+*   [Input](https://getinput.co) - A privacy-focused, no-code, open-source form builder designed for simplicity and brand consistency. ([Source Code (⭐119)](https://github.com/deck9/input)) `AGPL-3.0` `PHP/Nodejs/Docker`
 
 ### Software / URL Shorteners
 
-*   [Just Short It! (⭐15)](https://github.com/miawinter98/just-short-it) - A KISS, single-user URL shortener that runs in just one container. `MIT` `Docker`
+*   [Just Short It! (⭐16)](https://github.com/miawinter98/just-short-it) - A KISS, single-user URL shortener that runs in just one container. `MIT` `Docker`
 
 ### External Links / Wikis
 
@@ -739,7 +739,6 @@
 
 ### DeFi Platforms / Wallets
 
-*   [aramid.finance/](https://www.aramid.finance/) - A Decentralized Cross-Chain Protocol supporitng Algorand, Polygon, Ethereum and other EVM chains.
 *   [stabilitas.finance](https://stabilitas.finance/) - Stable and secure digital assets for various purposes such as purchases, remittances and as a store of value.
 *   [vestige.fi](https://vestige.fi/) - A decentralized ecosystem of tools primary used as a tool to track and trend Algorand Standard Assets and Liquidity Pools across the ecosystem. The platform also provides a decentralized swap and a launchpad platform.
 

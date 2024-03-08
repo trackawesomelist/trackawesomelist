@@ -1050,7 +1050,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### Quality / Barcode
 
 *   [SwiftCop (⭐541)](https://github.com/andresinaka/SwiftCop) - A validation library which inspired by the clarity of Ruby On Rails Active Record validations.
-*   [SwiftFormat (⭐7.3k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
+*   [SwiftFormat (⭐7.4k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 
 ## [Oct 07 - Oct 13, 2019](/content/2019/40/README.md)
 

@@ -178,7 +178,6 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### Analysis / Functional Analysis
 
-*   [Functional Analysis Lecture Notes](http://www.math.hkbu.edu.hk/~zeng/Teaching/math3680/FAnotes.pdf) - T.B. Ward (University of East Anglia)
 *   [Functional Analysis](http://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf) - Alexander C. R. Belton
 
 ### Probability and Statistics / Probability Theory

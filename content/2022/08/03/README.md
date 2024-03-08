@@ -22,11 +22,11 @@
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code (⭐693)](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
+*   [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code (⭐698)](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
 
 ### Software / Communication - Video Conferencing
 
-*   [plugNmeet](https://www.plugnmeet.org/) - Scalable, High Performance, Open source web conferencing system. ([Demo](https://demo.plugnmeet.com/login.html), [Source Code (⭐196)](https://github.com/mynaparrot/plugNmeet-server)) `MIT` `Docker/Go`
+*   [plugNmeet](https://www.plugnmeet.org/) - Scalable, High Performance, Open source web conferencing system. ([Demo](https://demo.plugnmeet.com/login.html), [Source Code (⭐209)](https://github.com/mynaparrot/plugNmeet-server)) `MIT` `Docker/Go`
 
 ### Software / Community-Supported Agriculture (CSA)
 
@@ -42,7 +42,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [XBackBone](https://xbackbone.app/) - A simple, fast and lightweight file manager with instant sharing tools integration, like ShareX (a free and open-source screenshot utility for Windows). ([Source Code (⭐915)](https://github.com/SergiX44/XBackBone)) `AGPL-3.0` `PHP/Docker`
+*   [XBackBone](https://xbackbone.app/) - A simple, fast and lightweight file manager with instant sharing tools integration, like ShareX (a free and open-source screenshot utility for Windows). ([Source Code (⭐925)](https://github.com/SergiX44/XBackBone)) `AGPL-3.0` `PHP/Docker`
 
 ### Software / File Transfer - Web-based File Managers
 
@@ -50,7 +50,7 @@
 
 ### Software / Miscellaneous
 
-*   [Libre Translate](https://libretranslate.com/) - Free and Open Source Machine Translation API, entirely self-hosted. ([Source Code (⭐6.1k)](https://github.com/LibreTranslate/LibreTranslate)) `AGPL-3.0` `Docker/Python`
+*   [Libre Translate](https://libretranslate.com/) - Free and Open Source Machine Translation API, entirely self-hosted. ([Source Code (⭐6.3k)](https://github.com/LibreTranslate/LibreTranslate)) `AGPL-3.0` `Docker/Python`
 
 ## [4. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 

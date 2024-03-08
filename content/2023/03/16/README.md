@@ -81,7 +81,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Neuledge (⭐236)](https://github.com/neuledge/engine-js) - Neuledge is a universal language for databases that provides state-of-the-art tools for data modeling, business logic representation, and schema validation.
+*   :octocat: [Neuledge (⭐237)](https://github.com/neuledge/engine-js) - Neuledge is a universal language for databases that provides state-of-the-art tools for data modeling, business logic representation, and schema validation.
 
 ## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Languages / Go
 
-*   [conduit (⭐30)](https://github.com/algorand/conduit) - Algorand's data pipeline framework.
+*   [conduit (⭐33)](https://github.com/algorand/conduit) - Algorand's data pipeline framework.
 
 ---
 

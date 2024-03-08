@@ -94,12 +94,7 @@
 
 ### Languages / Python
 
-*   [tinyman-py-sdk (⭐117)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
-*   [algofi-py-sdk](https://github.com/Algofiorg/algofi-py-sdk) - Algofi Python SDK.
-
-### Languages / JavaScript & TypeScript
-
-*   [algofi-js-sdk](https://github.com/Algofiorg/algofi-js-sdk) - Algofi JavaScript SDK.
+*   [tinyman-py-sdk (⭐118)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
 
 ### Name Services / Wallets
 

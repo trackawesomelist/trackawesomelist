@@ -42,7 +42,7 @@
 
 ### CI/CD / Other
 
-*   [dockcheck (⭐648)](https://github.com/mag37/dockcheck) - A script checking updates for docker images without pulling then auto-update selected/all containers. With notifications, pruning and more.
+*   [dockcheck (⭐674)](https://github.com/mag37/dockcheck) - A script checking updates for docker images without pulling then auto-update selected/all containers. With notifications, pruning and more.
 
 ---
 

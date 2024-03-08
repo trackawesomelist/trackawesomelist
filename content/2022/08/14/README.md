@@ -56,19 +56,19 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Mofiqul/adwaita.nvim (⭐197)](https://github.com/Mofiqul/adwaita.nvim) - Colorscheme based on GNOME Adwaita syntax with support for popular plugins.
+*   [Mofiqul/adwaita.nvim (⭐196)](https://github.com/Mofiqul/adwaita.nvim) - Colorscheme based on GNOME Adwaita syntax with support for popular plugins.
 
 ### Debugging / Diagnostics
 
-*   [andrewferrier/debugprint.nvim (⭐211)](https://github.com/andrewferrier/debugprint.nvim) - Debugging the print() way.
+*   [andrewferrier/debugprint.nvim (⭐216)](https://github.com/andrewferrier/debugprint.nvim) - Debugging the print() way.
 
 ### Dependency Management / Diagnostics
 
-*   [Saecki/crates.nvim (⭐700)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
+*   [Saecki/crates.nvim (⭐722)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 
 ### Git / Diagnostics
 
-*   [akinsho/git-conflict.nvim (⭐711)](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts.
+*   [akinsho/git-conflict.nvim (⭐730)](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts.
 
 ### Editing Support / Diagnostics
 
@@ -84,12 +84,12 @@
 
 ### Development / Discovery
 
-*   [dream2nix (⭐785)](https://github.com/nix-community/dream2nix) - A framework for automatically converting packages from other build systems to Nix.
-*   [rnix-lsp (⭐696)](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
+*   [dream2nix (⭐809)](https://github.com/nix-community/dream2nix) - A framework for automatically converting packages from other build systems to Nix.
+*   [rnix-lsp (⭐700)](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
 
 ### Programming Languages / Rust
 
-*   [crane (⭐674)](https://github.com/ipetkov/crane) - A Nix library for building Cargo projects with incremental artifact caching.
+*   [crane (⭐690)](https://github.com/ipetkov/crane) - A Nix library for building Cargo projects with incremental artifact caching.
 
 ---
 

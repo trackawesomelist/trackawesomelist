@@ -223,7 +223,7 @@
 
 ### Visualization
 
-*   [lux (⭐4.7k)](https://github.com/lux-org/lux) - Recommends a set of visualizations whenever a dataframe is printed in a notebook.
+*   [lux (⭐4.9k)](https://github.com/lux-org/lux) - Recommends a set of visualizations whenever a dataframe is printed in a notebook.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

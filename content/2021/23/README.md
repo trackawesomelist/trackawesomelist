@@ -180,9 +180,9 @@
 
 *   [Conveyal's gtfs-validator (⭐37)](https://github.com/conveyal/gtfs-validator) - A Java-based GTFS validator based on the OneBusAway GTFS Modules, runs in Java and is faster than the Google provided one.
 *   [Conveyal's gtfs-lib (⭐68)](https://github.com/conveyal/gtfs-lib/) - Conveyal's successor to their own [gtfs-validator (⭐37)](https://github.com/conveyal/gtfs-validator), a Java-based library for loading and saving GTFS feeds of arbitrary size with disk-backed storage.
-*   [Google's feedValidator (⭐674)](https://github.com/google/transitfeed/wiki/FeedValidator) - Google-supported Python-based GTFS validator.
-*   [gtfs-validator-api (⭐2)](https://github.com/cal-itp/gtfs-validator-api) - This Python package is a thin wrapper around [MobilityData/gtfs-validator (⭐238)](https://github.com/MobilityData/gtfs-validator) that handles intermediate files produced and finds gtfs-validator's output file so it can be given a specific name or returned as a string.
-*   [MobilityData's gtfs-validator (⭐238)](https://github.com/MobilityData/gtfs-validator) - A open-source GTFS validator canonically following the GTFS spec implemented in Java licensed under Apache v2.0 maintained by [MobilityData](https://mobilitydata.org/).
+*   [Google's feedValidator (⭐676)](https://github.com/google/transitfeed/wiki/FeedValidator) - Google-supported Python-based GTFS validator.
+*   [gtfs-validator-api (⭐2)](https://github.com/cal-itp/gtfs-validator-api) - This Python package is a thin wrapper around [MobilityData/gtfs-validator (⭐242)](https://github.com/MobilityData/gtfs-validator) that handles intermediate files produced and finds gtfs-validator's output file so it can be given a specific name or returned as a string.
+*   [MobilityData's gtfs-validator (⭐242)](https://github.com/MobilityData/gtfs-validator) - A open-source GTFS validator canonically following the GTFS spec implemented in Java licensed under Apache v2.0 maintained by [MobilityData](https://mobilitydata.org/).
 *   [Reflect GTFS Validator (hosted by Foursquare ITP)](https://reflect.foursquareitp.com) - Transit schedule and GTFS validation platform by [Foursquare ITP](https://www.foursquareitp.com) that includes a free, web-based GTFS validator based on [gtfs-lib (⭐68)](https://github.com/conveyal/gtfs-lib/).
 
 ## [22. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
@@ -212,7 +212,7 @@
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code (⭐304)](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Docker/Ruby`
+*   [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code (⭐305)](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Docker/Ruby`
 *   [juntagrico](https://juntagrico.org/) - Management platform for community gardens and vegetable cooperatives. ([Source Code (⭐43)](https://github.com/juntagrico/juntagrico)) `LGPL-3.0` `Python`
 *   [Local Food Nodes](https://localfoodnodes.org/) - Your open source platform for peoples driven local food markets and CSA. ([Source Code](https://gitlab.com/localfoodnodes/localfoodnodes)) `MIT` `PHP`
 
@@ -755,7 +755,7 @@
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [michaelbull/kotlin-result (⭐898)](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations - inspired by Elm, Rust, & Haskell.
+*   [michaelbull/kotlin-result (⭐904)](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations - inspired by Elm, Rust, & Haskell.
 
 ### Libraries/Frameworks / Database
 
@@ -810,7 +810,7 @@
 
 ### Plugin Manager
 
-*   [NTBBloodbath/cheovim (⭐318)](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
+*   [NTBBloodbath/cheovim (⭐320)](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
 
 ### Markdown and LaTeX / Diagnostics
 
@@ -819,7 +819,7 @@
 
 ### Snippet / Diagnostics
 
-*   [L3MON4D3/LuaSnip (⭐2.7k)](https://github.com/L3MON4D3/LuaSnip) - A snippet engine written in Lua.
+*   [L3MON4D3/LuaSnip (⭐2.8k)](https://github.com/L3MON4D3/LuaSnip) - A snippet engine written in Lua.
 
 ### Color / Diagnostics
 
@@ -829,23 +829,23 @@
 
 *   [sainnhe/gruvbox-material (⭐1.6k)](https://github.com/sainnhe/gruvbox-material) - Gruvbox modification with softer contrast and Tree-sitter support.
 *   [sainnhe/everforest (⭐2.4k)](https://github.com/sainnhe/everforest) - A green based colorscheme designed to be warm, soft and easy on the eyes.
-*   [NTBBloodbath/doom-one.nvim (⭐177)](https://github.com/NTBBloodbath/doom-one.nvim) - Lua port of doom-emacs' doom-one.
+*   [NTBBloodbath/doom-one.nvim (⭐181)](https://github.com/NTBBloodbath/doom-one.nvim) - Lua port of doom-emacs' doom-one.
 
 ### Utility / Diagnostics
 
-*   [jghauser/mkdir.nvim (⭐203)](https://github.com/jghauser/mkdir.nvim) - Automatically create missing directories when saving files.
+*   [jghauser/mkdir.nvim (⭐204)](https://github.com/jghauser/mkdir.nvim) - Automatically create missing directories when saving files.
 
 ### Debugging / Diagnostics
 
-*   [rcarriga/nvim-dap-ui (⭐2k)](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap.
+*   [rcarriga/nvim-dap-ui (⭐2.1k)](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap.
 
 ### Git / Diagnostics
 
-*   [sindrets/diffview.nvim (⭐3k)](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
+*   [sindrets/diffview.nvim (⭐3.2k)](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 
 ### Editing Support / Diagnostics
 
-*   [nacro90/numb.nvim (⭐549)](https://github.com/nacro90/numb.nvim) - Peek lines in a non-obtrusive way.
+*   [nacro90/numb.nvim (⭐546)](https://github.com/nacro90/numb.nvim) - Peek lines in a non-obtrusive way.
 
 ### Formatting / Diagnostics
 

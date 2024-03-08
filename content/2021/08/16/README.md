@@ -22,7 +22,7 @@
 
 ### Java / Git
 
-*   [Password4j (⭐309)](https://github.com/Password4j/password4j) - A Java user-friendly cryptographic library for hashing and checking passwords with different Key derivation functions (KDFs) and Cryptographic hash functions (CHFs).
+*   [Password4j (⭐321)](https://github.com/Password4j/password4j) - A Java user-friendly cryptographic library for hashing and checking passwords with different Key derivation functions (KDFs) and Cryptographic hash functions (CHFs).
 
 ## [4. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/README.md)
 

@@ -10,23 +10,23 @@
 
 ### Ports to other languages
 
-*   [Langchain Go (⭐1.8k)](https://github.com/tmc/langchaingo): Golang Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social)
+*   [Langchain Go (⭐2.3k)](https://github.com/tmc/langchaingo): Golang Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social)
 
 ### Tools / Services
 
-*   [Auto Evaluator (⭐668)](https://github.com/langchain-ai/auto-evaluator): Langchain auto evaluator ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/auto-evaluator?style=social)
+*   [Auto Evaluator (⭐687)](https://github.com/langchain-ai/auto-evaluator): Langchain auto evaluator ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/auto-evaluator?style=social)
 
 ### Tools / Agents
 
-*   [SkyAGI (⭐715)](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
+*   [SkyAGI (⭐723)](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [AudioGPT (⭐9.5k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
+*   [AudioGPT (⭐9.7k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [llm-chain (⭐925)](https://github.com/sobelio/llm-chain): is a powerful rust crate for building chains in LLMs allowing you to summarise text and complete complex tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/sobelio/llm-chain?style=social)
+*   [llm-chain (⭐1.1k)](https://github.com/sobelio/llm-chain): is a powerful rust crate for building chains in LLMs allowing you to summarise text and complete complex tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/sobelio/llm-chain?style=social)
 
 ## [2. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
@@ -79,7 +79,7 @@
 
 ### File Explorer / Diagnostics
 
-*   [kelly-lin/ranger.nvim (⭐115)](https://github.com/kelly-lin/ranger.nvim) - [Ranger (⭐15k)](https://github.com/ranger/ranger) integration for neovim.
+*   [kelly-lin/ranger.nvim (⭐117)](https://github.com/kelly-lin/ranger.nvim) - [Ranger (⭐15k)](https://github.com/ranger/ranger) integration for neovim.
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Development Environment / Other
 
-*   [Rust Universal Compiler (⭐24)](https://github.com/Peco602/rust-universal-compiler) - Container solution to compile Rust projects for Linux, macOS and Windows. By [@Peco602](https://github.com/Peco602)
+*   [Rust Universal Compiler (⭐25)](https://github.com/Peco602/rust-universal-compiler) - Container solution to compile Rust projects for Linux, macOS and Windows. By [@Peco602](https://github.com/Peco602)
 
 ---
 

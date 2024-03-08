@@ -21,7 +21,7 @@
 
 ## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Managed Terraform Platforms / IDE
+### Managed Terraform Platforms :heavy_dollar_sign: / IDE
 
 *   [Terrateam](https://terrateam.io) - Terraform GitOps with cost estimation, static analysis, access controls, drift detection, and custom workflows. :heavy\_dollar\_sign:
 

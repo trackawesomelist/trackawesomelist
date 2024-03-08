@@ -10,8 +10,8 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Outlines (⭐3.8k)](https://github.com/normal-computing/outlines): Fast and reliable neural text generation. ![GitHub Repo stars](https://img.shields.io/github/stars/normal-computing/outlines?style=social)
-*   [AI Utils (⭐654)](https://github.com/lgrammel/ai-utils.js): TypeScript-first library for building AI apps, chatbots, and agents. ![GitHub Repo stars](https://img.shields.io/github/stars/lgrammel/ai-utils.js?style=social)
+*   [Outlines (⭐4.8k)](https://github.com/normal-computing/outlines): Fast and reliable neural text generation. ![GitHub Repo stars](https://img.shields.io/github/stars/normal-computing/outlines?style=social)
+*   [AI Utils (⭐781)](https://github.com/lgrammel/ai-utils.js): TypeScript-first library for building AI apps, chatbots, and agents. ![GitHub Repo stars](https://img.shields.io/github/stars/lgrammel/ai-utils.js?style=social)
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

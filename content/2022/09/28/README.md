@@ -59,7 +59,7 @@
 
 ### Software / Automation
 
-*   [tubesync (⭐1.5k)](https://github.com/meeb/tubesync) `⚠` - Syncs YouTube channels and playlists to a locally hosted media server. `AGPL-3.0` `Docker/Python`
+*   [tubesync (⭐1.6k)](https://github.com/meeb/tubesync) `⚠` - Syncs YouTube channels and playlists to a locally hosted media server. `AGPL-3.0` `Docker/Python`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -67,11 +67,11 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Maloja (⭐887)](https://github.com/krateng/maloja) - Self-hosted music scrobble database (alternative to Last.fm). ([Demo](https://maloja.krateng.ch/)) `GPL-3.0` `Python/Docker`
+*   [Maloja (⭐897)](https://github.com/krateng/maloja) - Self-hosted music scrobble database (alternative to Last.fm). ([Demo](https://maloja.krateng.ch/)) `GPL-3.0` `Python/Docker`
 
 ### Software / Recipe Management
 
-*   [KitchenOwl](https://tombursch.github.io/kitchenowl/) - A cross-platform shopping list, recipe storage, expense tracker, and meal planner following the material design language. ([Source Code (⭐890)](https://github.com/TomBursch/kitchenowl)) `AGPL-3.0` `Docker/deb`
+*   [KitchenOwl](https://tombursch.github.io/kitchenowl/) - A cross-platform shopping list, recipe storage, expense tracker, and meal planner following the material design language. ([Source Code (⭐924)](https://github.com/TomBursch/kitchenowl)) `AGPL-3.0` `Docker/deb`
 
 ### Software / Software Development - API Management
 
@@ -81,7 +81,7 @@
 
 ### Resources / Course Material
 
-*   [Lectures on Software Foundations (⭐87)](https://github.com/clarksmr/sf-lectures) - Material on the Software Foundations series of textbooks, including a series of YouTube videos.
+*   [Lectures on Software Foundations (⭐91)](https://github.com/clarksmr/sf-lectures) - Material on the Software Foundations series of textbooks, including a series of YouTube videos.
 
 ## [10. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 

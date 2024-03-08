@@ -382,7 +382,7 @@
 
 ### Driver crates / Other
 
-*   [dht-sensor](https://crates.io/crates/dht-sensor) - 1-Wire - DHT11/DHT22 temperature/humidity sensor driver - [github (⭐21)](https://github.com/michaelbeaumont/dht-sensor) - ![crates.io](https://img.shields.io/crates/v/dht-sensor.svg)
+*   [dht-sensor](https://crates.io/crates/dht-sensor) - 1-Wire - DHT11/DHT22 temperature/humidity sensor driver - [github (⭐22)](https://github.com/michaelbeaumont/dht-sensor) - ![crates.io](https://img.shields.io/crates/v/dht-sensor.svg)
 
 ## [35. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -425,11 +425,11 @@
 
 ### Software / Proxy
 
-*   [Nginx Proxy Manager](https://nginxproxymanager.com/) - Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination. ([Source Code (⭐18k)](https://github.com/NginxProxyManager/nginx-proxy-manager)) `MIT` `Nodejs/Docker`
+*   [Nginx Proxy Manager](https://nginxproxymanager.com/) - Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination. ([Source Code (⭐19k)](https://github.com/NginxProxyManager/nginx-proxy-manager)) `MIT` `Nodejs/Docker`
 
 ### Software / Task Management & To-do Lists
 
-*   [Planka](https://planka.app/) - Realtime kanban board for workgroups (alternative to Trello). ([Demo](https://plankanban.github.io/planka/#/), [Source Code (⭐3.7k)](https://github.com/plankanban/planka)) `AGPL-3.0` `Nodejs/Docker/K8S`
+*   [Planka](https://planka.app/) - Realtime kanban board for workgroups (alternative to Trello). ([Demo](https://plankanban.github.io/planka/#/), [Source Code (⭐3.8k)](https://github.com/plankanban/planka)) `AGPL-3.0` `Nodejs/Docker/K8S`
 
 ### Software / Wikis
 

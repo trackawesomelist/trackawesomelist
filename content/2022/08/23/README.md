@@ -54,7 +54,7 @@ Installs: 2000 | Stars: 279 | Last update: n/a
 
 ### Libraries/Frameworks / Cryptography
 
-*   [ionspin/kotlin-multiplatform-libsodium (⭐72)](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Kotlin multiplatform wrapper for Libsodium cryptographic library.
+*   [ionspin/kotlin-multiplatform-libsodium (⭐73)](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Kotlin multiplatform wrapper for Libsodium cryptographic library.
 
 ## [7. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
@@ -90,7 +90,7 @@ Installs: 2000 | Stars: 279 | Last update: n/a
 
 ### Editing Support / Diagnostics
 
-*   [m4xshen/autoclose.nvim (⭐378)](https://github.com/m4xshen/autoclose.nvim) - A minimalist autoclose plugin written in Lua.
+*   [m4xshen/autoclose.nvim (⭐391)](https://github.com/m4xshen/autoclose.nvim) - A minimalist autoclose plugin written in Lua.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

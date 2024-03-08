@@ -40,7 +40,7 @@
 
 ### Libraries/Frameworks / Jetpack-Compose
 
-*   [mahozad/wavy-slider (⭐52)](https://github.com/mahozad/wavy-slider) - Multiplatform UI widget that recreates the Android 13 squiggly progress bar
+*   [mahozad/wavy-slider (⭐67)](https://github.com/mahozad/wavy-slider) - Multiplatform UI widget that recreates the Android 13 squiggly progress bar
 
 ## [5. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -90,11 +90,11 @@
 
 ### Internet and Networking
 
-*   [Parabolic (⭐550)](https://github.com/NickvisionApps/Parabolic) - `yt-dlp` graphical fronted.
+*   [Parabolic (⭐568)](https://github.com/NickvisionApps/Parabolic) - `yt-dlp` graphical fronted.
 
 ### Office
 
-*   [Paper Clip (⭐42)](https://github.com/Diego-Ivan/Paper-Clip) - PDF metadata editor.
+*   [Paper Clip (⭐44)](https://github.com/Diego-Ivan/Paper-Clip) - PDF metadata editor.
 
 ### Multimedia
 

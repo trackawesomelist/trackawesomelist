@@ -42,7 +42,7 @@
 
 ### Software / Analytics
 
-*   [Mixpost](https://mixpost.app/) - Self-hosted social media management software. Easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite, Buffer, and other social media tools). ([Source Code (⭐45)](https://github.com/inovector/MixpostApp)) `MIT` `PHP/Docker`
+*   [Mixpost](https://mixpost.app/) - Self-hosted social media management software. Easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite, Buffer, and other social media tools). ([Source Code (⭐50)](https://github.com/inovector/MixpostApp)) `MIT` `PHP/Docker`
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Prerequisites
 
-*   [Spacemono (⭐347)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
+*   [Spacemono (⭐350)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -70,11 +70,11 @@
 
 ### Open Source Projects / Knowledge Management
 
-*   [Second Brain AI Agent (⭐106)](https://github.com/flepied/second-brain-agent): A streamlit app dialog with your second brain notes using OpenAI and ChromaDB locally. ![GitHub Repo stars](https://img.shields.io/github/stars/flepied/second-brain-agent?style=social)
+*   [Second Brain AI Agent (⭐123)](https://github.com/flepied/second-brain-agent): A streamlit app dialog with your second brain notes using OpenAI and ChromaDB locally. ![GitHub Repo stars](https://img.shields.io/github/stars/flepied/second-brain-agent?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [MetaGPT (⭐33k)](https://github.com/geekan/MetaGPT): The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
+*   [MetaGPT (⭐34k)](https://github.com/geekan/MetaGPT): The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 
 ## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 

@@ -144,7 +144,7 @@
 *   [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web component for creating documentation from OpenAPI Specification.
 *   [`<shader-doodle>`](https://github.com/halvves/shader-doodle) - Web component for writing and rendering shaders.
 *   [`<trix-editor>`](https://github.com/basecamp/trix) - Rich text editor custom element for everyday writing.
-*   [`<web-vitals>`](https://github.com/stefanjudis/web-vitals-element) - Bring [web vitals (⭐6.8k)](https://github.com/GoogleChrome/web-vitals) quickly into your page using custom elements.
+*   [`<web-vitals>`](https://github.com/stefanjudis/web-vitals-element) - Bring [web vitals (⭐7k)](https://github.com/GoogleChrome/web-vitals) quickly into your page using custom elements.
 
 ## [18. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

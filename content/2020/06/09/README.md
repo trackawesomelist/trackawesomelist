@@ -10,16 +10,16 @@
 
 ### GTFS Analysis Tools / Ruby
 
-*   [GTFS Kit (⭐23)](https://github.com/mrcagney/gtfs_kit) - A Python 3.6+ tool kit for analyzing General Transit Feed Specification (GTFS) data. Supersedes [GTFSTK](https://github.com/araichev/gtfstk).
+*   [GTFS Kit (⭐27)](https://github.com/mrcagney/gtfs_kit) - A Python 3.6+ tool kit for analyzing General Transit Feed Specification (GTFS) data. Supersedes [GTFSTK](https://github.com/araichev/gtfstk).
 *   [Busbuzzard (⭐9)](https://github.com/bmander/busbuzzard) - Inference of probabilistic schedules from empirical data about transit vehicles.
 
 ### GTFS Libraries / Python
 
-*   [GTFSTK](https://github.com/araichev/gtfstk) - A Python 3 toolkit for analyzing GTFS data in memory. Uses Pandas and Shapely for speed. Superseded by [GTFS Kit (⭐23)](https://github.com/mrcagney/gtfs_kit).
+*   [GTFSTK](https://github.com/araichev/gtfstk) - A Python 3 toolkit for analyzing GTFS data in memory. Uses Pandas and Shapely for speed. Superseded by [GTFS Kit (⭐27)](https://github.com/mrcagney/gtfs_kit).
 
 ### GTFS Realtime Utilities / Ruby
 
-*   [gtfs-rt-admin (⭐6)](https://github.com/conveyal/gtfs-rt-admin) - An admin tool for managing GTFS-RT service alerts (JavaScript and Java).
+*   [gtfs-rt-admin (⭐7)](https://github.com/conveyal/gtfs-rt-admin) - An admin tool for managing GTFS-RT service alerts (JavaScript and Java).
 
 ## [2. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Testing Solutions
 
-*   [shadow-automation-selenium (⭐96)](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
+*   [shadow-automation-selenium (⭐97)](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
 
 ## [8. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 

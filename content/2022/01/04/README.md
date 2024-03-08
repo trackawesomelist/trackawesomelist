@@ -81,15 +81,9 @@
 ### Blockchain Bridges / Wallets
 
 *   [Algomint](https://algomint.io/) - Centralized BTC and ETH bridge to Algorand.
-*   [QUIGON](https://bridge.quigon.com/) - Centralized cross-chain NFT bridge.
-
-### Oracles / Wallets
-
-*   [Algoracle](https://www.algoracle.ai/) - Decentralized oracle networks that connect the Algorand blockchain with the real world.
 
 ### Projects / Wallets
 
-*   [Algodesk](https://www.algodesk.io/) - Create, configure and manage your Assets on Algorand Blockchain.
 *   [minter (⭐11)](https://github.com/algofishexe/minter) - Bulk mint Algorand NFTs following the ARC-69 community standard. Written in Node.js by [@fish.exe](https://twitter.com/AlgofishExe).
 
 ## [7. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)

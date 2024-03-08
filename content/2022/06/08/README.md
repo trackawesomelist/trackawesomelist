@@ -59,7 +59,7 @@
 ### Software / Content Management Systems (CMS)
 
 *   [Apostrophe](https://apostrophecms.com/) - CMS with a focus on extensible in-context editing tools. ([Demo](https://apostrophecms.com/demo), [Source Code (⭐4.2k)](https://github.com/apostrophecms/apostrophe)) `MIT` `Nodejs`
-*   [KeystoneJS](https://keystonejs.com/) - CMS and Web Application Platform. ([Source Code (⭐8.7k)](https://github.com/keystonejs/keystone)) `MIT` `Nodejs`
+*   [KeystoneJS](https://keystonejs.com/) - CMS and Web Application Platform. ([Source Code (⭐8.8k)](https://github.com/keystonejs/keystone)) `MIT` `Nodejs`
 
 ### Software / Self-hosting Solutions
 

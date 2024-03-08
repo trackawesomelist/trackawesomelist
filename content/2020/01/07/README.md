@@ -129,7 +129,7 @@
 
 ### Search
 
-*   🍰 [Search plugin (⭐167)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
+*   🍰 [Search plugin (⭐169)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

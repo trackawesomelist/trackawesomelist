@@ -35,7 +35,7 @@
 
 ### Miscellaneous
 
-*   🍰 [Ajax plugin (⭐56)](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
+*   🍰 [Ajax plugin (⭐57)](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
 
 ### Templating
 

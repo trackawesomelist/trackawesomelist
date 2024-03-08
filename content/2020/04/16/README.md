@@ -55,7 +55,7 @@
 
 ### Visualization
 
-*   [pd-replicator (⭐10)](https://github.com/scwilkinson/pd-replicator) - Copy a pandas DataFrame to the clipboard with one click.
+*   [pd-replicator (⭐11)](https://github.com/scwilkinson/pd-replicator) - Copy a pandas DataFrame to the clipboard with one click.
 
 ## [6. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
 

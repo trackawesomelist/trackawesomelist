@@ -606,7 +606,7 @@ Wifi pw: `fermento`
 
 ### Learning
 
-*   [Awesome Deep Learning Resources (⭐1.5k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning
+*   [Awesome Deep Learning Resources (⭐1.6k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning
 
 ## [36. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 

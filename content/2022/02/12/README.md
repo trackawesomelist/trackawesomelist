@@ -21,8 +21,8 @@
 
 ### Stub packages
 
-*   [boto3-stubs](https://vemel.github.io/boto3_stubs_docs/) - Stubs for [boto3 (⭐8.4k)](https://github.com/boto/boto3).
-*   [types-aiobotocore](https://vemel.github.io/types_aiobotocore_docs/) - Stubs for [aiobotocore (⭐1k)](https://github.com/aio-libs/aiobotocore).
+*   [boto3-stubs](https://vemel.github.io/boto3_stubs_docs/) - Stubs for [boto3 (⭐8.6k)](https://github.com/boto/boto3).
+*   [types-aiobotocore](https://vemel.github.io/types_aiobotocore_docs/) - Stubs for [aiobotocore (⭐1.1k)](https://github.com/aio-libs/aiobotocore).
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

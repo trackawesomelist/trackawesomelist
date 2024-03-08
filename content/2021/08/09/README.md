@@ -56,7 +56,7 @@
 
 ### Types / Playground
 
-*   [@tool-belt/type-predicates (⭐53)](https://github.com/tool-belt/type-predicates) - Type Predicates, Assertion Functions and Utilities.
+*   [@tool-belt/type-predicates (⭐54)](https://github.com/tool-belt/type-predicates) - Type Predicates, Assertion Functions and Utilities.
 
 ## [6. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 

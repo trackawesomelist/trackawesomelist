@@ -187,7 +187,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Kalimdor.js (⭐535)](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
+*   :octocat: [Kalimdor.js (⭐536)](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
 
 ## [16. Awesome List](/content/sindresorhus/awesome/week/README.md)
 

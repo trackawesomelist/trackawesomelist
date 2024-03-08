@@ -1,6 +1,6 @@
 # Awesome List Updates on May 30, 2022
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -92,20 +92,14 @@
 
 *   [SRE vs. DevOps: What’s the Difference Between Them?](https://spacelift.io/blog/sre-vs-devops)
 
-## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
-
-### Projects / Wallets
-
-*   [Pipeline-UI](https://www.pipeline-ui.com/) - A React.js based component library for rapid deployment of Algorand Dapps.
-
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Embedded
 
 *   Espressif
     *   [esp-rs](https://github.com/esp-rs) home to a number of community projects enabling the use of the Rust programming language on various SoCs and modules produced by Espressif Systems.
 
-## [13. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+## [12. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### UI
 

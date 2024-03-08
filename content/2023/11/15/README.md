@@ -66,7 +66,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [hedyhli/outline.nvim (⭐214)](https://github.com/hedyhli/outline.nvim) - A significantly enhanced and refactored fork of `symbols-outline.nvim`.
+*   [hedyhli/outline.nvim (⭐245)](https://github.com/hedyhli/outline.nvim) - A significantly enhanced and refactored fork of `symbols-outline.nvim`.
 
 ## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

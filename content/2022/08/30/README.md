@@ -48,7 +48,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [insanusmokrassar/TelegramBotAPI (⭐305)](https://github.com/insanusmokrassar/TelegramBotAPI) - Kotlin Multiplatform library for type-safe work with Telegram Bot API
+*   [insanusmokrassar/TelegramBotAPI (⭐308)](https://github.com/insanusmokrassar/TelegramBotAPI) - Kotlin Multiplatform library for type-safe work with Telegram Bot API
 
 ## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Color / Diagnostics
 
-*   [nvim-colortils/colortils.nvim (⭐324)](https://github.com/nvim-colortils/colortils.nvim) - A plugin providing utils to work with colors (picker, conversion) inside Neovim.
+*   [nvim-colortils/colortils.nvim (⭐328)](https://github.com/nvim-colortils/colortils.nvim) - A plugin providing utils to work with colors (picker, conversion) inside Neovim.
 
 ### Neovim Lua Development / Diagnostics
 

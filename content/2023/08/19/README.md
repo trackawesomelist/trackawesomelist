@@ -24,7 +24,7 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [LinkWarden](https://linkwarden.app/) - A self-hosted bookmark + archive manager to store your useful links. ([Source Code (⭐4.3k)](https://github.com/linkwarden/linkwarden)) `MIT` `Docker/Nodejs`
+*   [LinkWarden](https://linkwarden.app/) - A self-hosted bookmark + archive manager to store your useful links. ([Source Code (⭐4.6k)](https://github.com/linkwarden/linkwarden)) `MIT` `Docker/Nodejs`
 
 ## [4. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
@@ -40,15 +40,15 @@
 
 ### Media / Diagnostics
 
-*   [niuiic/code-shot.nvim (⭐45)](https://github.com/niuiic/code-shot.nvim) - Take a picture of the code.
+*   [niuiic/code-shot.nvim (⭐47)](https://github.com/niuiic/code-shot.nvim) - Take a picture of the code.
 
 ### Git / Diagnostics
 
-*   [9seconds/repolink.nvim (⭐12)](https://github.com/9seconds/repolink.nvim) - Generate shareable HTTP permalinks for various Git web frontends.
+*   [9seconds/repolink.nvim (⭐13)](https://github.com/9seconds/repolink.nvim) - Generate shareable HTTP permalinks for various Git web frontends.
 
 ### Comment / Diagnostics
 
-*   [Zeioth/dooku.nvim (⭐24)](https://github.com/Zeioth/dooku.nvim) - Generate and open your HTML code documentation.
+*   [Zeioth/dooku.nvim (⭐27)](https://github.com/Zeioth/dooku.nvim) - Generate and open your HTML code documentation.
 
 ---
 

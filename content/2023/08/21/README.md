@@ -10,13 +10,13 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [SimpleAIChat (⭐3.1k)](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity. ![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)
+*   [SimpleAIChat (⭐3.3k)](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity. ![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)
 
 ## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### JupyterLab Extensions
 
-*   [jupyter-ai (⭐1.8k)](https://github.com/jupyterlab/jupyter-ai) - Work with generative AIs (wide range of models supported) as a conversational assistant in JupyterLab.
+*   [jupyter-ai (⭐2.7k)](https://github.com/jupyterlab/jupyter-ai) - Work with generative AIs (wide range of models supported) as a conversational assistant in JupyterLab.
 
 ## [3. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [airpods-battery (⭐1)](https://github.com/A-delta/zsh-airpods-battery/) - Looks for AirPods via Bluetooth and puts their battery charge state into `$RPROMPT`.
+*   [airpods-battery (⭐3)](https://github.com/A-delta/zsh-airpods-battery/) - Looks for AirPods via Bluetooth and puts their battery charge state into `$RPROMPT`.
 
 ---
 

@@ -123,11 +123,11 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [axkirillov/easypick.nvim (⭐326)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
+*   [axkirillov/easypick.nvim (⭐327)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
 
 ### Session / Diagnostics
 
-*   [gennaro-tedesco/nvim-possession (⭐162)](https://github.com/gennaro-tedesco/nvim-possession) - The no-nonsense session manager.
+*   [gennaro-tedesco/nvim-possession (⭐173)](https://github.com/gennaro-tedesco/nvim-possession) - The no-nonsense session manager.
 
 ---
 

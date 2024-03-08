@@ -17,7 +17,7 @@
 ### Courses
 
 *   [Deep Learning](http://www.deeplearningbook.org/) - Goodfellow, Bengio and Courville's introduction to a broad range of topics in deep learning, covering mathematical and conceptual background, deep learning techniques used in industry, and research perspectives.
-*   [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/\~hastie/ElemStatLearn/) - Hastie and Tibshirani cover a broad range of topics, from supervised learning (prediction) to unsupervised learning including neural networks, support vector machines, classification trees and boosting---the first comprehensive treatment of this topic in any book.
+*   [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/) - Hastie and Tibshirani cover a broad range of topics, from supervised learning (prediction) to unsupervised learning including neural networks, support vector machines, classification trees and boosting---the first comprehensive treatment of this topic in any book.
 
 ## [3. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 

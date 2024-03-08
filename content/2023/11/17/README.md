@@ -10,7 +10,7 @@
 
 ### Firmware projects / WIP
 
-*   [LuLuu (⭐5)](https://github.com/fu5ha/luluu): Firmware for a custom RP2040-based display controller that streams animated images from a microSD card to a small LCD display.
+*   [LuLuu (⭐6)](https://github.com/fu5ha/luluu): Firmware for a custom RP2040-based display controller that streams animated images from a microSD card to a small LCD display.
 
 ## [2. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -63,10 +63,6 @@
 
 ## [6. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
-### Component Libraries
-
-*   [TrendChart Elements (⭐12)](https://github.com/WebLogin/trendchart-elements) - Components to generate simple charts representing trends.
-
 ### Standalone Components
 
 *   [`<editor-container>`](https://github.com/toeverything/blocksuite) - Block based editor, designed for general-purpose collaborative applications.
@@ -77,13 +73,14 @@
 
 ## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
+### Component Libraries
+
+*   [TrendChart Elements (⭐22)](https://github.com/WebLogin/trendchart-elements) - Components to generate simple, light and responsive charts.
+*   [LDRS (⭐1.3k)](https://github.com/GriffinJohnston/ldrs) - Lightweight, customizable loading animations/spinners.
+
 ### Components
 
 *   [`<qr-code>`](https://github.com/bitjson/qr-code) – Web component for rendering customizable, animate-able, SVG-based QR codes.
-
-### Component Libraries
-
-*   [LDRS (⭐1.2k)](https://github.com/GriffinJohnston/ldrs) - Lightweight, customizable loading animations/spinners.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -117,7 +114,7 @@
 
 ### Serialization
 
-*   [atdgen (⭐288)](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
+*   [atdgen (⭐294)](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
 
 ## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

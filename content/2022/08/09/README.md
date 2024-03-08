@@ -267,15 +267,15 @@
 
 ### Editing Support / Diagnostics
 
-*   [Pocco81/TrueZen.nvim (⭐911)](https://github.com/Pocco81/TrueZen.nvim) - Clean and elegant distraction-free writing.
-*   [Pocco81/HighStr.nvim (⭐277)](https://github.com/Pocco81/HighStr.nvim) - Highlight visual selections like in a normal document editor!
-*   [Pocco81/AutoSave.nvim (⭐527)](https://github.com/Pocco81/AutoSave.nvim) - Save your work before the world collapses or you type :qa!
+*   [Pocco81/TrueZen.nvim (⭐914)](https://github.com/Pocco81/TrueZen.nvim) - Clean and elegant distraction-free writing.
+*   [Pocco81/HighStr.nvim (⭐280)](https://github.com/Pocco81/HighStr.nvim) - Highlight visual selections like in a normal document editor!
+*   [Pocco81/AutoSave.nvim (⭐552)](https://github.com/Pocco81/AutoSave.nvim) - Save your work before the world collapses or you type :qa!
 
 ### Preconfigured Configuration / Diagnostics
 
 *   [Abstract-IDE/Abstract (⭐177)](https://github.com/Abstract-IDE/Abstract) - Abstract, The Neovim configuration to achieve the power of Modern IDE.
 *   [vi-tality/neovitality (⭐56)](https://github.com/vi-tality/neovitality) - A full-featured Neovim distribution, packaged with Nix Flake for easy installation and reproducibility.
-*   [cstsunfu/.sea.nvim (⭐134)](https://github.com/cstsunfu/.sea.nvim) - A modular Neovim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number).
+*   [cstsunfu/.sea.nvim (⭐135)](https://github.com/cstsunfu/.sea.nvim) - A modular Neovim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number).
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

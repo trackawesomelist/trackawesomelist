@@ -34,10 +34,6 @@
 
 *   [DBV (⭐1.7k)](https://github.com/victorstanciu/dbv) - A database version control application.
 
-### Configuration / PHP Books
-
-*   [Modern PHP New Features and Good Practices](https://www.oreilly.com/library/view/~/9781491905173/) - A book about new PHP features and best practices by Josh Lockhart.
-
 ## [3. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Maps in the Wild

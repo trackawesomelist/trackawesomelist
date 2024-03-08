@@ -40,7 +40,7 @@
 
 ### Utility / Diagnostics
 
-*   [axieax/urlview.nvim (⭐203)](https://github.com/axieax/urlview.nvim) - Browse all URLs in the current buffer.
+*   [axieax/urlview.nvim (⭐205)](https://github.com/axieax/urlview.nvim) - Browse all URLs in the current buffer.
 
 ## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 

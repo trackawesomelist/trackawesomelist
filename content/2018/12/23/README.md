@@ -116,7 +116,7 @@
 
 ### Types / Playground
 
-*   [typescript-conditional-types (⭐44)](https://github.com/LeDDGroup/typescript-conditional-types) - Helpers for typescript generic types
+*   [typescript-conditional-types (⭐45)](https://github.com/LeDDGroup/typescript-conditional-types) - Helpers for typescript generic types
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

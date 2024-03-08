@@ -95,22 +95,22 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-grappelli (⭐3.5k)](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the admin.
+*   [django-grappelli (⭐3.6k)](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the admin.
 *   [django-hijack (⭐1.4k)](https://github.com/arteria/django-hijack) - Admins can log in and work on behalf of other users without having to know their credentials.
 *   [django-import-export (⭐2.8k)](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
-*   [django-admin-honeypot (⭐987)](https://github.com/dmpayton/django-admin-honeypot) - Configure a honeypot to see who's trying to hack your site.
-*   [django-loginas (⭐363)](https://github.com/skorokithakis/django-loginas) - "Log in as user" for the Django admin.
+*   [django-admin-honeypot (⭐990)](https://github.com/dmpayton/django-admin-honeypot) - Configure a honeypot to see who's trying to hack your site.
+*   [django-loginas (⭐364)](https://github.com/skorokithakis/django-loginas) - "Log in as user" for the Django admin.
 
 ### Third-Party Packages / Async
 
-*   [channels (⭐5.8k)](https://github.com/django/channels/) - Async support for Django.
-*   [starlette (⭐9.1k)](https://github.com/encode/starlette) - ASGI framework.
+*   [channels (⭐5.9k)](https://github.com/django/channels/) - Async support for Django.
+*   [starlette (⭐9.2k)](https://github.com/encode/starlette) - ASGI framework.
 
 ### Third-Party Packages / Commands
 
-*   [django-extensions (⭐6.3k)](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`.
-*   [django-click (⭐233)](https://github.com/GaretJax/django-click) - Write Django management commands using the click CLI library.
-*   [django-dbbackup (⭐852)](https://github.com/django-dbbackup/django-dbbackup) - Management commands to help backup and restore your project database and media files.
+*   [django-extensions (⭐6.4k)](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`.
+*   [django-click (⭐236)](https://github.com/GaretJax/django-click) - Write Django management commands using the [click CLI library](https://click.palletsprojects.com).
+*   [django-dbbackup (⭐870)](https://github.com/django-dbbackup/django-dbbackup) - Management commands to help backup and restore your project database and media files.
 
 ### Third-Party Packages / Configuration
 
@@ -122,15 +122,15 @@
 ### Third-Party Packages / Content Management Systems
 
 *   [mezzanine (⭐4.7k)](https://github.com/stephenmcd/mezzanine) - CMS framework.
-*   [django-cms (⭐9.7k)](https://github.com/divio/django-cms) - CMS for Django.
-*   [puput (⭐590)](https://github.com/APSL/puput) - Blog app features with Wagtail.
+*   [django-cms (⭐9.8k)](https://github.com/divio/django-cms) - CMS for Django.
+*   [puput (⭐591)](https://github.com/APSL/puput) - Blog app features with Wagtail.
 
 ### Third-Party Packages / ECommerce
 
 *   [saleor (⭐20k)](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform.
 *   [django-shop (⭐3.1k)](https://github.com/awesto/django-shop) - Django-based shop system.
 *   [shuup (⭐2.1k)](https://github.com/shuup/shuup) - Django E-Commerce Platform.
-*   [django-oscar (⭐6k)](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django.
+*   [django-oscar (⭐6.1k)](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django.
 
 ### Third-Party Packages / Files/Images
 
@@ -140,7 +140,7 @@
 
 *   [django-crispy-forms (⭐4.9k)](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms.
 *   [django-widget-tweaks (⭐2k)](https://github.com/jazzband/django-widget-tweaks) - Tweak form field rendering in templates.
-*   [django-autocomplete-light (⭐1.7k)](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
+*   [django-autocomplete-light (⭐1.8k)](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
 
 ### Third-Party Packages / Model Fields
 
@@ -150,16 +150,16 @@
 
 ### Third-Party Packages / Models
 
-*   [django-lifecycle (⭐1.2k)](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals.
+*   [django-lifecycle (⭐1.3k)](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals.
 *   [django-taggit (⭐3.2k)](https://github.com/jazzband/django-taggit/) - Simple model tags.
-*   [django-reversion (⭐2.9k)](https://github.com/etianen/django-reversion) - Version control for model instances.
+*   [django-reversion (⭐3k)](https://github.com/etianen/django-reversion) - Version control for model instances.
 
 ### Third-Party Packages / Performance
 
 *   [django-perf-rec](https://cur.at/GHUO6cn?m=web) - Keep detailed records of the performance of your Django code.
 *   [New Relic](https://newrelic.com/python/django) - Time middleware, views, and SQL queries.
 *   [Scout](https://docs.scoutapm.com/#django) - Time middleware, template rendering, and SQL queries with automatic N+1 detection.
-*   [django-query-profiler (⭐129)](https://github.com/django-query-profiler/django-query-profiler) - Django query profiler to help resolve N+1 queries.
+*   [django-query-profiler (⭐131)](https://github.com/django-query-profiler/django-query-profiler) - Django query profiler to help resolve N+1 queries.
 *   [py-spy (⭐12k)](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
 
 ### Third-Party Packages / Search
@@ -185,22 +185,22 @@
 
 *   [django-debug-toolbar (⭐7.8k)](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses.
 *   [pytest-django (⭐1.3k)](https://github.com/pytest-dev/pytest-django) - Use pytest features in Django.
-*   [django-test-migrations (⭐475)](https://github.com/wemake-services/django-test-migrations) - Test django schema and data migrations, including migrations' order.
-*   [django-test-plus (⭐593)](https://github.com/revsys/django-test-plus/) - Useful additions to Django's default TestCase.
-*   [factory-boy (⭐3.3k)](https://github.com/FactoryBoy/factory_boy) - Test fixtures replacement.
-*   [django-waffle (⭐1k)](https://github.com/django-waffle/django-waffle) - A feature flipper for Django.
-*   [model-bakery (⭐754)](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project).
-*   [django-fakery (⭐108)](https://github.com/fcurella/django-fakery) - An easy-to-use implementation of Creation Methods for Django, backed by Faker.
+*   [django-test-migrations (⭐485)](https://github.com/wemake-services/django-test-migrations) - Test django schema and data migrations, including migrations' order.
+*   [django-test-plus (⭐596)](https://github.com/revsys/django-test-plus/) - Useful additions to Django's default TestCase.
+*   [factory-boy (⭐3.4k)](https://github.com/FactoryBoy/factory_boy) - Test fixtures replacement.
+*   [django-waffle (⭐1.1k)](https://github.com/django-waffle/django-waffle) - A feature flipper for Django.
+*   [model-bakery (⭐760)](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project).
+*   [django-fakery (⭐109)](https://github.com/fcurella/django-fakery) - An easy-to-use implementation of Creation Methods for Django, backed by Faker.
 
 ### Third-Party Packages / URLs
 
 *   [dj-database-url (⭐1.4k)](https://github.com/jacobian/dj-database-url) - Database URLs.
 *   [urlman (⭐116)](https://github.com/andrewgodwin/urlman) - A nicer way to do URLs for Django models.
-*   [django-robots (⭐449)](https://github.com/jazzband/django-robots) - This is a basic Django application to manage robots.txt files following the robots exclusion protocol, complementing the Django Sitemap contrib app.
+*   [django-robots (⭐451)](https://github.com/jazzband/django-robots) - This is a basic Django application to manage robots.txt files following the robots exclusion protocol, complementing the Django Sitemap contrib app.
 
 ### Third-Party Packages / Users
 
-*   [django-allauth (⭐8.6k)](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth.
+*   [django-allauth (⭐8.7k)](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth.
 *   [django-organizations (⭐1.2k)](https://github.com/bennylope/django-organizations/) - Multi-user accounts for Django projects.
 *   [django-cas-ng (⭐367)](https://github.com/django-cas-ng/django-cas-ng) - Django-cas-ng is Django CAS (Central Authentication Service) 1.0/2.0/3.0 client library to support SSO (Single Sign On) and Single Logout (SLO).
 
@@ -214,11 +214,11 @@
 ### Python Packages / Views
 
 *   [bleach (⭐2.6k)](https://github.com/mozilla/bleach) - Sanitize your inputs/forms.
-*   [black (⭐36k)](https://github.com/psf/black) - Uncompromising Python code formatter.
+*   [black (⭐37k)](https://github.com/psf/black) - Uncompromising Python code formatter.
 *   [coveragepy (⭐2.8k)](https://github.com/nedbat/coveragepy) - Code coverage measurement.
 *   [huey (⭐4.8k)](https://github.com/coleifer/huey) - A little task queue for Python.
-*   [nplusone (⭐973)](https://github.com/jmcarp/nplusone) - Auto-detect n+1 queries.
-*   [pillow (⭐11k)](https://github.com/python-pillow/Pillow) - Python Imaging Library.
+*   [nplusone (⭐976)](https://github.com/jmcarp/nplusone) - Auto-detect n+1 queries.
+*   [pillow (⭐12k)](https://github.com/python-pillow/Pillow) - Python Imaging Library.
 *   [pytest (⭐11k)](https://github.com/pytest-dev/pytest/) - Testing framework.
 *   [python-slugify (⭐1.4k)](https://github.com/un33k/python-slugify) - Returns unicode slugs.
 *   [sentry-python (⭐1.7k)](https://github.com/getsentry/sentry-python) - Error reporting SDK.
@@ -227,7 +227,7 @@
 
 *   [Documentation](https://docs.djangoproject.com/en/dev/) - Comprehensive documentation for all Django versions.
 *   [Polls Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/) - Build a polls tutorial while learning Django internals.
-*   [Source Code (⭐75k)](https://github.com/django/django/) - Hosted on GitHub.
+*   [Source Code (⭐76k)](https://github.com/django/django/) - Hosted on GitHub.
 
 ### Resources / Community
 
@@ -239,10 +239,10 @@
 
 ### Projects / Open Source Projects
 
-*   [pythonic-news (⭐483)](https://github.com/sebst/pythonic-news) - Hacker News clone.
+*   [pythonic-news (⭐484)](https://github.com/sebst/pythonic-news) - Hacker News clone.
 *   [Zulip (⭐19k)](https://github.com/zulip/zulip/) - Open-source team chat.
-*   [Django-CRM (⭐1.7k)](https://github.com/MicroPyramid/Django-CRM/) - Open Source Python CRM based on Django.
-*   [django-job-portal (⭐476)](https://github.com/manjurulhoque/django-job-portal) - Job portal application using Django.
+*   [Django-CRM (⭐1.8k)](https://github.com/MicroPyramid/Django-CRM/) - Open Source Python CRM based on Django.
+*   [django-job-portal (⭐486)](https://github.com/manjurulhoque/django-job-portal) - Job portal application using Django.
 *   [Built with Django](https://builtwithdjango.com) - Curated list of awesome Django projects.
 
 ### Wagtail / Wagtail Resources
@@ -289,10 +289,10 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Validation / Playground
 
-*   [zod (⭐28k)](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
+*   [zod (⭐29k)](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
 *   [runtypes (⭐2.5k)](https://github.com/pelotom/runtypes) - Runtime validation for static types
 *   [ow (⭐3.8k)](https://github.com/sindresorhus/ow) - Function argument validation for humans
-*   [superstruct (⭐6.7k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
+*   [superstruct (⭐6.8k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
 
 ## [16. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
 
@@ -372,7 +372,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Apps / Outline Processor Markup Language
 
-*   [Livemarks (⭐211)](https://github.com/nt1m/livemarks/) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/livemarks/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nt1m/livemarks/)
+*   [Livemarks (⭐214)](https://github.com/nt1m/livemarks/) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/livemarks/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nt1m/livemarks/)
 *   [CubeRSS Reader](https://www.cube-soft.jp/cuberssreader/) <sup>[700](https://t.me/s/aboutrss/700)</sup> [![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://www.cube-soft.jp/cuberssreader/confirm.php)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/cube-soft/Cube.Net)
 *   [Drop Feeds (⭐18)](https://github.com/dauphine-dev/drop-feeds) <sup>[701](https://t.me/s/aboutrss/701)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/drop-feeds/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/dauphine-dev/drop-feeds)
 
@@ -985,7 +985,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Software / Personal Dashboards
 
-*   [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code (⭐125)](https://github.com/ashwin-pc/hiccup)) `MIT` `Javascript/Docker`
+*   [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code (⭐127)](https://github.com/ashwin-pc/hiccup)) `MIT` `Javascript/Docker`
 
 ### Software / Software Development - Project Management
 

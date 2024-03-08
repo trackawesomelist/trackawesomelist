@@ -28,7 +28,7 @@
 
 ### Contents / Utilities
 
-*   [pgmigrate (⭐601)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
+*   [pgmigrate (⭐603)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
 
 ## [4. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 

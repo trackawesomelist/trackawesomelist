@@ -127,7 +127,7 @@
 
 ### Communications / DNS
 
-*   [MicroDNSSrv (⭐66)](https://github.com/jczic/MicroDNSSrv) - A micro DNS server for MicroPython to simply respond to A queries on multi-domains with or without wildcards (used on Pycom modules & ESP32).
+*   [MicroDNSSrv (⭐67)](https://github.com/jczic/MicroDNSSrv) - A micro DNS server for MicroPython to simply respond to A queries on multi-domains with or without wildcards (used on Pycom modules & ESP32).
 
 ### Communications / IoT
 
@@ -149,12 +149,12 @@
 
 ### Communications / Web
 
-*   [uwebsockets (⭐173)](https://github.com/danni/uwebsockets) - MicroPython WebSocket implementation for ESP8266.
+*   [uwebsockets (⭐172)](https://github.com/danni/uwebsockets) - MicroPython WebSocket implementation for ESP8266.
 *   [microdot (⭐1.3k)](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for MicroPython.
 
 ### Display / LCD TFT
 
-*   [st7789py\_mpy (⭐65)](https://github.com/devbis/st7789py_mpy) - Slow MicroPython driver for 240x240 ST7789 display without CS pin from AliExpress, written in MicroPython.
+*   [st7789py\_mpy (⭐66)](https://github.com/devbis/st7789py_mpy) - Slow MicroPython driver for 240x240 ST7789 display without CS pin from AliExpress, written in MicroPython.
 
 ### Display / LED Segment
 
@@ -167,7 +167,7 @@
 
 ### IO / ADC
 
-*   [micropython-hx711 (⭐70)](https://github.com/SergeyPiskunov/micropython-hx711) - MicroPython driver for HX711 24-Bit Analog-to-Digital Converter.
+*   [micropython-hx711 (⭐72)](https://github.com/SergeyPiskunov/micropython-hx711) - MicroPython driver for HX711 24-Bit Analog-to-Digital Converter.
 
 ### IO / GPIO
 
@@ -183,7 +183,7 @@
 
 ### Mathematics / Waveform Generator
 
-*   [micropython-ulab (⭐378)](https://github.com/v923z/micropython-ulab) - A NumPy-like fast vector module for MicroPython.
+*   [micropython-ulab (⭐383)](https://github.com/v923z/micropython-ulab) - A NumPy-like fast vector module for MicroPython.
 *   [micropython-mtx](https://gitlab.com/nickoala/micropython-mtx) - Fast Matrix Multiplication and Linear Solver on MicroPython.
 *   [micropython-vec](https://gitlab.com/nickoala/micropython-vec) - Vector Operations on MicroPython.
 
@@ -197,7 +197,7 @@
 
 ### Scheduling / Touch Resistive
 
-*   [micropython-mcron (⭐33)](https://github.com/fizista/micropython-mcron) - MicroCRON is a time-based task scheduling program for MicroPython.
+*   [micropython-mcron (⭐34)](https://github.com/fizista/micropython-mcron) - MicroCRON is a time-based task scheduling program for MicroPython.
 
 ### Storage / Database
 
@@ -205,17 +205,17 @@
 
 ### Code Generation / SRAM
 
-*   [micropy-cli (⭐296)](https://github.com/BradenM/micropy-cli) - Micropy CLI is a project management/generation tool for writing MicroPython code in modern IDEs such as Visual Studio Code.
-*   [micropython-stubber (⭐145)](https://github.com/Josverl/micropython-stubber) - Generate and use stubs for different MicroPython firmwares to use with Visual Studio Code or any IDE and linter.
+*   [micropy-cli (⭐298)](https://github.com/BradenM/micropy-cli) - Micropy CLI is a project management/generation tool for writing MicroPython code in modern IDEs such as Visual Studio Code.
+*   [micropython-stubber (⭐148)](https://github.com/Josverl/micropython-stubber) - Generate and use stubs for different MicroPython firmwares to use with Visual Studio Code or any IDE and linter.
 
 ### Shells / On Device
 
 *   [upy-shell (⭐37)](https://github.com/dhylands/upy-shell) - A simple command line-based shell for MicroPython.
-*   [Micropython-Editor (⭐206)](https://github.com/robert-hh/Micropython-Editor) - Small on-board editor for Pyboard, WiPy, ESP8266, ESP32, PyCom and Adafruit devices written in Python.
+*   [Micropython-Editor (⭐207)](https://github.com/robert-hh/Micropython-Editor) - Small on-board editor for Pyboard, WiPy, ESP8266, ESP32, PyCom and Adafruit devices written in Python.
 
 ### Shells / On Host
 
-*   [rshell (⭐873)](https://github.com/dhylands/rshell) - Copy or sync files to boards, enter REPL from your terminal.
+*   [rshell (⭐876)](https://github.com/dhylands/rshell) - Copy or sync files to boards, enter REPL from your terminal.
 *   [mpfshell (⭐392)](https://github.com/wendlers/mpfshell) - A simple shell-based file explorer for ESP8266 and WiPy.
 
 ## [11. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
@@ -480,11 +480,11 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [Geo2tz (⭐60)](https://github.com/noandrea/geo2tz) - Get the timezone from geo coordinates (lat, lon). `MIT` `Go/Docker`
+*   [Geo2tz (⭐61)](https://github.com/noandrea/geo2tz) - Get the timezone from geo coordinates (lat, lon). `MIT` `Go/Docker`
 
 ### Software / Task Management & To-do Lists
 
-*   [Task Keeper (⭐43)](https://github.com/nymanjens/piga) - List editor for power users, backed by a self-hosted server. `Apache-2.0` `Scala`
+*   [Task Keeper (⭐46)](https://github.com/nymanjens/piga) - List editor for power users, backed by a self-hosted server. `Apache-2.0` `Scala`
 
 ## [34. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
@@ -649,7 +649,7 @@
 
 ### Other Apps / Outline Processor Markup Language
 
-*   [VSCode-RSS (⭐158)](https://github.com/luyuhuang/vscode-rss) <sup>[572](https://t.me/s/aboutrss/572), [618](https://t.me/s/aboutrss/618)</sup> : An RSS reader embedded in Visual Studio Code [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/luyuhuang/vscode-rss)
+*   [VSCode-RSS (⭐159)](https://github.com/luyuhuang/vscode-rss) <sup>[572](https://t.me/s/aboutrss/572), [618](https://t.me/s/aboutrss/618)</sup> : An RSS reader embedded in Visual Studio Code [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/luyuhuang/vscode-rss)
 
 ### RSSHub / Outline Processor Markup Language
 
@@ -723,11 +723,11 @@
 *   [CIRpy](http://cirpy.readthedocs.org/) - Python wrapper for the [NCI Chemical Identifier Resolver (CIR)](https://cactus.nci.nih.gov/chemical/structure).
 *   [chemminetools (⭐36)](https://github.com/girke-lab/chemminetools) - Open source web framework for small molecule analysis based on Django.
 
-## [47. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [47. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
-### Boilerplates
+### Typescript Project Starters
 
-*   [The Knests Stack (⭐311)](https://github.com/tudorconstantin/knests/) - Full stack boilerplate/hackathon starter with: PostgreSQL, Knex.js, NestJS, Next.js (obviously), GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
+*   [The Knests Stack (⭐311)](https://github.com/tudorconstantin/knests/) - Full stack boilerplate (hackathon starter) with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
 
 ## [48. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -749,36 +749,36 @@
 
 ### Component Libraries
 
-*   [Brightspace UI core (⭐48)](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
-*   [Clever components (⭐195)](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
-*   [DataFormsJS (⭐173)](https://github.com/dataformsjs/dataformsjs) - Standalone Components for SPA routing, displaying data from web services, and more.
-*   [Elix (⭐790)](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
-*   [Lion Web Components (⭐1.6k)](https://github.com/ing-bank/lion) - Set of highly performant, accessible and flexible Web Components.
-*   [LRNWebComponents (⭐230)](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.
-*   [Microsoft Graph Toolkit (⭐858)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
+*   [Brightspace UI core (⭐51)](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
+*   [Clever components (⭐198)](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
+*   [DataFormsJS (⭐177)](https://github.com/dataformsjs/dataformsjs) - Standalone Components for SPA routing, displaying data from web services, and more.
+*   [Elix (⭐800)](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
+*   [Lion Web Components (⭐1.7k)](https://github.com/ing-bank/lion) - Set of highly performant, accessible and flexible Web Components.
+*   [LRNWebComponents (⭐235)](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.
+*   [Microsoft Graph Toolkit (⭐880)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
 *   [Nuxeo Elements (⭐27)](https://github.com/nuxeo/nuxeo-elements) - Components for building web applications with Nuxeo using Web Components.
 *   [Tradeshift Elements (⭐14)](https://github.com/Tradeshift/elements) - Reusable Tradeshift UI Components as Web Components.
 *   [Wired Elements (⭐9.6k)](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
-*   [Wokwi Elements (⭐150)](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
+*   [Wokwi Elements (⭐154)](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
 
 ### Design Systems
 
-*   [Calcite Components (⭐246)](https://github.com/Esri/calcite-components) - Shared Web Components for Esri's Calcite design framework.
+*   [Calcite Components (⭐252)](https://github.com/Esri/calcite-components) - Shared Web Components for Esri's Calcite design framework.
 *   [Helix UI (⭐56)](https://github.com/HelixDesignSystem/helix-ui) - Web Component library for the Helix Design System.
 *   [NuML | NUDE Elements (⭐336)](https://github.com/tenphi/numl) - HTML Framework and Design System based on Web Components and runtime CSS generation.
-*   [PatternFly Elements (⭐364)](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
+*   [PatternFly Elements (⭐370)](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
 *   [Spectrum Web Components (⭐1.1k)](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with Web Components.
 *   [UI5 Web Components (⭐1.4k)](https://github.com/SAP/ui5-webcomponents) - Set of reusable UI elements implementing SAP Fiori Design Guidelines.
 *   [Zooplus web components (⭐45)](https://github.com/zooplus/zoo-web-components) - Set of web components that implement Z+ shop style guide.
 
 ### Class Based
 
-*   [DNA (⭐32)](https://github.com/chialab/dna) - Progressive Web Components library.
-*   [Tonic (⭐825)](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
+*   [DNA (⭐37)](https://github.com/chialab/dna) - Progressive Web Components library.
+*   [Tonic (⭐837)](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
 
 ### Integrations
 
-*   [preact-custom-element (⭐333)](https://github.com/preactjs/preact-custom-element) - Generate/register a custom element from a preact component.
+*   [preact-custom-element (⭐336)](https://github.com/preactjs/preact-custom-element) - Generate/register a custom element from a preact component.
 
 ### Benchmarks
 
@@ -841,15 +841,15 @@
 
 ### GTFS Libraries / C
 
-*   [CGTFS (⭐6)](https://github.com/rakhack/cgtfs) - C library for reading static GTFS feeds. Supports reading unpacked feeds into application memory or into SQLite databases.
-*   [RRRR Rapid Real-time Routing (⭐158)](https://github.com/bliksemlabs/rrrr) - RRRR (usually pronounced R4) is a C-language implementation of the RAPTOR public transit routing algorithm.
+*   [CGTFS (⭐7)](https://github.com/rakhack/cgtfs) - C library for reading static GTFS feeds. Supports reading unpacked feeds into application memory or into SQLite databases.
+*   [RRRR Rapid Real-time Routing (⭐159)](https://github.com/bliksemlabs/rrrr) - RRRR (usually pronounced R4) is a C-language implementation of the RAPTOR public transit routing algorithm.
 
 ### GTFS Libraries / Python
 
-*   [ESRI public-transit-tools (⭐164)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS (license for ArcGIS required).
-*   [gtfsdb (⭐147)](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
+*   [ESRI public-transit-tools (⭐162)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS (license for ArcGIS required).
+*   [gtfsdb (⭐148)](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
 *   [gtfsman (⭐21)](https://github.com/geops/gtfsman) - Repository-like tool in Python to manage and update a huge number of GTFS feeds.
-*   [gtfspy (⭐147)](https://github.com/CxAalto/gtfspy) - Public transport network analysis and travel time computations using Python3. Compatible with Postgres/PostGIS, Oracle, MySQL, and SQLite. Used by [gtfspy-webviz (⭐47)](https://github.com/CxAalto/gtfspy-webviz).
+*   [gtfspy (⭐150)](https://github.com/CxAalto/gtfspy) - Public transport network analysis and travel time computations using Python3. Compatible with Postgres/PostGIS, Oracle, MySQL, and SQLite. Used by [gtfspy-webviz (⭐47)](https://github.com/CxAalto/gtfspy-webviz).
 *   [Make GTFS (⭐1)](https://github.com/mrcagney/make_gtfs) - A Python library to make GTFS feeds from basic route information.
 *   [Mapzen GTFS (⭐29)](https://github.com/transitland/mapzen-gtfs) - A Python GTFS library that supports reading individual GTFS tables, or constructing a graph to represent each agency in a feed.
 *   [multigtfs (⭐50)](https://github.com/tulsawebdevs/django-multi-gtfs) - A Django application to import and export GTFS.
@@ -864,11 +864,11 @@
 
 ### GTFS Libraries / PostgreSQL
 
-*   [gtfs-schema (⭐30)](https://github.com/tyleragreen/gtfs-schema) - PostgreSQL schema for GTFS feeds.
+*   [gtfs-schema (⭐31)](https://github.com/tyleragreen/gtfs-schema) - PostgreSQL schema for GTFS feeds.
 
 ### GTFS Libraries / Ruby
 
-*   [GTFS-viz (⭐85)](https://github.com/vasile/GTFS-viz) - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the [Transit Map (⭐352)](https://github.com/vasile/transit-map) web application)
+*   [GTFS-viz (⭐85)](https://github.com/vasile/GTFS-viz) - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the [Transit Map (⭐351)](https://github.com/vasile/transit-map) web application)
 
 ## [52. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -1031,13 +1031,13 @@
 *   [ensure (⭐3)](https://github.com/eankeen/ensure) - Ensure you are running a minimum version of Deno, Typescript, or V8.
 *   [invert-kv (⭐3)](https://github.com/denorg/invert-kv) - Invert key-value pairs in Deno.
 *   [online (⭐7)](https://github.com/denorg/online) - Check if you're currently online in Deno.
-*   [qrcode (⭐42)](https://github.com/denorg/qrcode) - QR code image generator for Deno.
+*   [qrcode (⭐43)](https://github.com/denorg/qrcode) - QR code image generator for Deno.
 *   [recursive-readdir (⭐10)](https://github.com/denorg/recursive-readdir) - Recursively read directories in Deno.
 
 ### Modules / Web utils
 
 *   [status (⭐15)](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.
-*   [up (⭐12)](https://github.com/denorg/up) - Check if a website is up in Deno.
+*   [up (⭐13)](https://github.com/denorg/up) - Check if a website is up in Deno.
 *   [youtube-deno (⭐43)](https://github.com/akshgpt7/youtube-deno) - A Deno client library for the YouTube Data API for any interaction with YouTube.
 
 ### Tools / XML
@@ -1045,7 +1045,7 @@
 *   [dedep (⭐67)](https://github.com/egoist/dedep) - Manage dependency versions.
 *   [denon (⭐1.1k)](https://github.com/denosaurs/denon) - A daemon script runner, like nodemon. Built in and for Deno.
 *   [packer-provisioner-deno (⭐4)](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
-*   [starter (⭐26)](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
+*   [starter (⭐27)](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
 
 ### Articles / XML
 
@@ -1054,7 +1054,7 @@
 
 ### Resources in Other Languages / Chinese
 
-*   [Deno 手册 (⭐298)](https://github.com/Nugine/deno-manual-cn/)
+*   [Deno 手册 (⭐297)](https://github.com/Nugine/deno-manual-cn/)
 
 ### Resources in Other Languages / Indonesian
 

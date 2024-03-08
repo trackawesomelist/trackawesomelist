@@ -266,7 +266,7 @@
 
 ### Git / Diagnostics
 
-*   [tanvirtin/vgit.nvim (⭐554)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
+*   [tanvirtin/vgit.nvim (⭐557)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
 
 ---
 

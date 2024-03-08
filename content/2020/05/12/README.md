@@ -82,7 +82,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [Hakatime (⭐554)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
+*   [Hakatime (⭐562)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
 
 ## [11. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 

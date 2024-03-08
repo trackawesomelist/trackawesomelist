@@ -21,7 +21,7 @@
 
 ## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
-### Managed Terraform Platforms / IDE
+### Managed Terraform Platforms :heavy_dollar_sign: / IDE
 
 *   [Terrateam](https://terrateam.io) - Terraform GitOps with cost estimation, static analysis, access controls, drift detection, and custom workflows. :heavy\_dollar\_sign:
 
@@ -148,7 +148,7 @@
 
 ### Modules / Utils
 
-*   [locale-kit](https://deno.land/x/localekit) ([GitHub (⭐6)](https://github.com/locale-kit/locale-kit)) - A internationalisation/localisation/translation (i18n/l10n/t9n) library with a wrapper for Fresh and support for plurals and dynamic replacement.
+*   [locale-kit](https://deno.land/x/localekit) ([GitHub (⭐7)](https://github.com/locale-kit/locale-kit)) - A internationalisation/localisation/translation (i18n/l10n/t9n) library with a wrapper for Fresh and support for plurals and dynamic replacement.
 
 ## [15. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -202,11 +202,11 @@
 
 ### Web / Playground
 
-*   :octocat: [Flowbite (⭐6.3k)](https://github.com/themesberg/flowbite) - Open-source component library built on top of Tailwind CSS featuring interactive UI components built with TypeScript
+*   :octocat: [Flowbite (⭐6.7k)](https://github.com/themesberg/flowbite) - Open-source component library built on top of Tailwind CSS featuring interactive UI components built with TypeScript
 
 ### Web/ReactJS / Playground
 
-*   :octocat: [Flowbite React (⭐1.5k)](https://github.com/themesberg/flowbite-react) - Open-source component library based on React, TypeScript, and Tailwind CSS
+*   :octocat: [Flowbite React (⭐1.6k)](https://github.com/themesberg/flowbite-react) - Open-source component library based on React, TypeScript, and Tailwind CSS
 
 ## [21. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -321,7 +321,7 @@
 
 ### Projects / Frameworks
 
-*   [Hoare Type Theory (⭐64)](https://github.com/imdea-software/htt/) - A shallow embedding of sequential separation logic formulated as a type theory.
+*   [Hoare Type Theory (⭐65)](https://github.com/imdea-software/htt/) - A shallow embedding of sequential separation logic formulated as a type theory.
 
 ### Projects / Puzzles and Games
 
@@ -388,7 +388,7 @@
 
 ### Shells / On Host
 
-*   [mpbridge (⭐36)](https://github.com/AmirHmZz/mpbridge) - A file system bridge to synchronize and manage files on a device running MicroPython.
+*   [mpbridge (⭐37)](https://github.com/AmirHmZz/mpbridge) - A file system bridge to synchronize and manage files on a device running MicroPython.
 
 ## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -440,7 +440,7 @@
 
 ### Runtimes/Frontends
 
-*   [JupyterLab Desktop (⭐3k)](https://github.com/jupyterlab/jupyterlab-desktop) - A desktop application for JupyterLab, based on Electron.
+*   [JupyterLab Desktop (⭐3.3k)](https://github.com/jupyterlab/jupyterlab-desktop) - A desktop application for JupyterLab, based on Electron.
 
 ## [45. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
@@ -700,19 +700,19 @@
 *   [Enhance](https://enhance.dev/docs/) - Web standards-based HTML framework for building lightweight web applications.
 *   [luna-js (⭐5)](https://github.com/webtides/luna-js) - SSR framework that makes working with the WebComponents standard a breeze.
 *   [Rocket](https://rocket.modern-web.dev) - Modern web setup for static sites with a sprinkle of JavaScript.
-*   [Web Components Compiler (⭐61)](https://github.com/ProjectEvergreen/wcc) - Compiler to make server-side rendering of native web components easier.
-*   [WebC (⭐1.2k)](https://github.com/11ty/webc) - Framework-independent standalone HTML serializer for generating markup for web components.
+*   [Web Components Compiler (⭐66)](https://github.com/ProjectEvergreen/wcc) - Compiler to make server-side rendering of native web components easier.
+*   [WebC (⭐1.3k)](https://github.com/11ty/webc) - Framework-independent standalone HTML serializer for generating markup for web components.
 
 ### Testing Solutions
 
-*   [capybara-shadowdom (⭐12)](https://github.com/yuki24/capybara-shadowdom) - Ruby gem that adds basic support for the Shadow DOM to Capybara.
+*   [capybara-shadowdom (⭐13)](https://github.com/yuki24/capybara-shadowdom) - Ruby gem that adds basic support for the Shadow DOM to Capybara.
 *   [Cypress component tests for Lit](https://dev.to/simonireilly/cypress-component-tests-for-lit-elements-web-components-45oj) - How to run component tests for a Lit web component with Cypress.
-*   [cypress-lit (⭐22)](https://github.com/simonireilly/cypress-lit) - Test your Lit elements and native web components in Cypress with all the modern browsers.
+*   [cypress-lit (⭐24)](https://github.com/simonireilly/cypress-lit) - Test your Lit elements and native web components in Cypress with all the modern browsers.
 *   [Developing Components: Testing](https://open-wc.org/guides/developing-components/testing/) - Using @web/test-runner for testing web components in a real browser.
 *   [How To Automate Shadow DOM In Selenium WebDriver](https://www.lambdatest.com/blog/shadow-dom-in-selenium/) - Locating Shadow DOM elements using Selenium WebDriver in a Maven project.
 *   [Native Automation support for Shadow DOM](https://staleelement.medium.com/native-automation-support-for-shadow-dom-with-webdriverio-and-cypress-chapter-3-26249a589f5e) - Shadow DOM and open-source testing frameworks.
 *   [Open Web Components: Testing](https://open-wc.org/docs/testing/testing-package/) - Opinionated package that combines and configures testing libraries.
-*   [query-selector-shadow-dom (⭐216)](https://github.com/webdriverio/query-selector-shadow-dom) - querySelector that can pierce Shadow DOM roots, useful for automated testing.
+*   [query-selector-shadow-dom (⭐218)](https://github.com/webdriverio/query-selector-shadow-dom) - querySelector that can pierce Shadow DOM roots, useful for automated testing.
 *   [Testing Shadow DOM elements in Selenium](https://reflect.run/articles/testing-shadow-dom-elements-in-selenium/) - In Selenium 4, there is now a way to access Shadow DOM nodes.
 *   [Test web components with Playwright](https://alexbilson.dev/plants/technology/test-web-components-with-playwright/) - So you’ve created a native web component or two. How do you test them in popular browsers?
 *   [W3C Webdriver conquering automation of Shadow DOM](https://staleelement.medium.com/w3c-webdriver-conquering-automation-of-shadow-dom-chapter-2-d92c7fe9e74c) - Shadow DOM tree and its interaction with the W3C Webdriver.
@@ -766,17 +766,17 @@
 
 ### Virtualisation / Discovery
 
-*   [extra-container (⭐173)](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers from the command line.
-*   [microvm (⭐860)](https://github.com/astro/microvm.nix) - NixOS-based MicroVMs.
+*   [extra-container (⭐174)](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers from the command line.
+*   [microvm (⭐898)](https://github.com/astro/microvm.nix) - NixOS-based MicroVMs.
 
 ### Command-Line Tools / Discovery
 
-*   [nurl (⭐331)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
+*   [nurl (⭐341)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
 
 ### Development / Discovery
 
-*   [nil (⭐975)](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
-*   [nix-update (⭐331)](https://github.com/Mic92/nix-update) - Update versions/source hashes of nix packages.
+*   [nil (⭐1k)](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
+*   [nix-update (⭐354)](https://github.com/Mic92/nix-update) - Update versions/source hashes of nix packages.
 
 ## [56. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
@@ -810,15 +810,15 @@
 
 ### Syntax / Diagnostics
 
-*   [LhKipp/nvim-nu (⭐116)](https://github.com/LhKipp/nvim-nu) - Basic editor support for the nushell language.
+*   [LhKipp/nvim-nu (⭐119)](https://github.com/LhKipp/nvim-nu) - Basic editor support for the nushell language.
 
 ### File Explorer / Diagnostics
 
-*   [stevearc/oil.nvim (⭐2.2k)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
+*   [stevearc/oil.nvim (⭐2.3k)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
 
 ### Note Taking / Diagnostics
 
-*   [RutaTang/quicknote.nvim (⭐96)](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
+*   [RutaTang/quicknote.nvim (⭐100)](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
 
 ### Terminal Integration / Diagnostics
 

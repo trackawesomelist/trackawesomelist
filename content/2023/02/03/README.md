@@ -267,7 +267,7 @@
 
 ### 3D / Godot 3.2+
 
-*   [Tanks of Freedom II (⭐135)](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
+*   [Tanks of Freedom II (⭐154)](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
 
 ## [22. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 

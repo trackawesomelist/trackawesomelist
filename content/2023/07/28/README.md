@@ -56,7 +56,7 @@
 
 ### Nodes & Consensus Participation / Wallets
 
-*   [AlloCTRL (⭐12)](https://github.com/AlgoNode/alloctrl) - A simple, open source, dashboard to help managing your node and participation keys safely, from your local machine.
+*   [AlloCTRL (⭐13)](https://github.com/AlgoNode/alloctrl) - A simple, open source, dashboard to help managing your node and participation keys safely, from your local machine.
 
 ---
 

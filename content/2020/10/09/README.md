@@ -22,7 +22,7 @@
 
 ### Kotlin JavaScript / Integration
 
-*   [Kotlin/dukat (⭐531)](https://github.com/Kotlin/dukat) - Converter of <any kind of declarations> to Kotlin external declarations
+*   [Kotlin/dukat (⭐535)](https://github.com/Kotlin/dukat) - Converter of <any kind of declarations> to Kotlin external declarations
 
 ## [3. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
@@ -217,7 +217,7 @@
 
 ### Applications / Web Servers
 
-*   [svenstaro/miniserve (⭐5.4k)](https://github.com/svenstaro/miniserve) — A small, self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP [![build badge](https://github.com/svenstaro/miniserve/workflows/CI/badge.svg?branch=master)](https://github.com/svenstaro/miniserve/actions)
+*   [svenstaro/miniserve (⭐5.5k)](https://github.com/svenstaro/miniserve) — A small, self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP [![build badge](https://github.com/svenstaro/miniserve/workflows/CI/badge.svg?branch=master)](https://github.com/svenstaro/miniserve/actions)
 
 ### Development tools / Web Servers
 
@@ -434,15 +434,10 @@
 
 *   OpenGL \[[opengl](https://crates.io/keywords/opengl)]
     *   [brendanzab/gl-rs (⭐667)](https://github.com/brendanzab/gl-rs) —
-    *   [glium/glium (⭐3.3k)](https://github.com/glium/glium) — safe OpenGL wrapper.
+    *   [glium/glium (⭐3.4k)](https://github.com/glium/glium) — safe OpenGL wrapper.
     *   [glutin](https://crates.io/crates/glutin) — Alternative to [GLFW](https://www.glfw.org/)
     *   [Kiss3d](http://kiss3d.org) — draw simple geometric figures and play with them with one-liners
     *   [PistonDevelopers/glfw-rs (⭐619)](https://github.com/PistonDevelopers/glfw-rs) —
-*   PDF
-    *   [fschutt/printpdf (⭐741)](https://github.com/fschutt/printpdf) — PDF writing library
-    *   [J-F-Liu/lopdf (⭐1.4k)](https://github.com/J-F-Liu/lopdf) — PDF document manipulation
-    *   [kaj/rust-pdf (⭐139)](https://github.com/kaj/rust-pdf) —
-    *   [WASM-PDF (⭐457)](https://github.com/jussiniinikoski/wasm-pdf) – Generates PDF files with JavaScript and WASM (WebAssembly)
 *   [Vulkan](https://www.vulkan.org/) \[[vulkan](https://crates.io/keywords/vulkan)]
     *   [erupt](https://gitlab.com/Friz64/erupt) \[[erupt](https://crates.io/crates/erupt)] — [![build badge](https://gitlab.com/Friz64/erupt/badges/main/pipeline.svg)](https://gitlab.com/Friz64/erupt/-/pipelines)
     *   [vulkano (⭐4.2k)](https://github.com/vulkano-rs/vulkano) \[[vulkano](https://crates.io/crates/vulkano)] —

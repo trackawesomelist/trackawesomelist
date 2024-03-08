@@ -73,7 +73,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [jwstegemann/fritz2 (⭐585)](https://github.com/jwstegemann/fritz2) - small lib to build reactive web-apps in pure Kotlin based on Flows
+*   [jwstegemann/fritz2 (⭐587)](https://github.com/jwstegemann/fritz2) - small lib to build reactive web-apps in pure Kotlin based on Flows
 
 ## [11. Awesome Security](/content/sbilly/awesome-security/README.md)
 

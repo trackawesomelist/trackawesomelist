@@ -46,7 +46,7 @@
 
 ### Tools / Agents
 
-*   [Voyager (⭐4.7k)](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
+*   [Voyager (⭐5k)](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
 
 ## [5. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
@@ -58,13 +58,13 @@
 
 ### Third-Party Packages / Editors
 
-*   [django-prose (⭐156)](https://github.com/withlogicco/django-prose) - A light weight editor to content creation.
+*   [django-prose (⭐161)](https://github.com/withlogicco/django-prose) - A light weight editor to content creation.
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Analytics
 
-*   [Netron](https://netron.app/) - Visualizer for neural network and machine learning models. ([Source Code (⭐25k)](https://github.com/lutzroeder/netron)) `MIT` `Python/Nodejs`
+*   [Netron](https://netron.app/) - Visualizer for neural network and machine learning models. ([Source Code (⭐26k)](https://github.com/lutzroeder/netron)) `MIT` `Python/Nodejs`
 
 ### Software / Miscellaneous
 
@@ -72,7 +72,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Starbase 80 (⭐156)](https://github.com/notclickable-jordan/starbase-80) - A simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file. `MIT` `Docker`
+*   [Starbase 80 (⭐167)](https://github.com/notclickable-jordan/starbase-80) - A simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file. `MIT` `Docker`
 
 ## [8. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Validation / Playground
 
-*   [fta (⭐48)](https://github.com/sgb-io/fta) - Rust-based static analysis to monitor code quality
+*   [fta (⭐60)](https://github.com/sgb-io/fta) - Rust-based static analysis to monitor code quality
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

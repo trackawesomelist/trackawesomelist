@@ -10,7 +10,7 @@
 
 ### Community
 
-*   [German Open Transport Meetup (⭐38)](https://github.com/transportkollektiv/meetup/wiki) - You can participate in a [biweekly](https://hackmd.okfn.de/opentransportmeetup#) meetup of the German-speaking open transport community.
+*   [German Open Transport Meetup (⭐40)](https://github.com/transportkollektiv/meetup/wiki) - You can participate in a [biweekly](https://hackmd.okfn.de/opentransportmeetup#) meetup of the German-speaking open transport community.
 
 ## [2. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 

@@ -20,7 +20,7 @@
 
 ### Installation Media / Discovery
 
-*   [nix-installer (⭐1.3k)](https://github.com/DeterminateSystems/nix-installer) - Opinonated alternative to the official Nix install scripts.
+*   [nix-installer (⭐1.4k)](https://github.com/DeterminateSystems/nix-installer) - Opinonated alternative to the official Nix install scripts.
 
 ## [3. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -94,7 +94,7 @@
 ### Libraries/Frameworks / Misc
 
 *   [lpicanco/krate](https://lpicanco.github.io/krate) - Krate is a rate limiter library designed specifically for Kotlin applications. In memory, Redis and Caffeine support.
-*   [kryptokrona/kryptokrona-kotlin-sdk (⭐47)](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
+*   [kryptokrona/kryptokrona-kotlin-sdk (⭐48)](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 
 ## [11. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -150,7 +150,7 @@
 
 ### Git / Diagnostics
 
-*   [aaronhallaert/advanced-git-search.nvim (⭐243)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit content, message and author with Telescope.
+*   [aaronhallaert/advanced-git-search.nvim (⭐249)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit content, message and author with Telescope.
 
 ### Editing Support / Diagnostics
 

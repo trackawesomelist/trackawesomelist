@@ -20,11 +20,11 @@
 
 ### Visualization
 
-*   [itk-jupyter-widgets (⭐539)](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive widgets to visualize images in 2D and 3D.
+*   [itk-jupyter-widgets (⭐569)](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive widgets to visualize images in 2D and 3D.
 
 ### Testing
 
-*   [ipytest (⭐269)](https://github.com/chmp/ipytest) - Test runner for running unit tests from within a notebook.
+*   [ipytest (⭐280)](https://github.com/chmp/ipytest) - Test runner for running unit tests from within a notebook.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

@@ -25,10 +25,6 @@
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
-### Table of Contents / Security
-
-*   [VAddy](https://vaddy.net/) - A continuous security testing platform for web applications.
-
 ### Table of Contents / Build Tools
 
 *   [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.

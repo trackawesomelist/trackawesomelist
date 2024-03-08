@@ -72,9 +72,9 @@
 
 ### Projects / Idea Plugins
 
-*   [dkandalov/limited-wip (⭐105)](https://github.com/dkandalov/limited-wip) - Plugin to limit your work-in-progress.
-*   [dkandalov/pomodoro-tm (⭐130)](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer.
-*   [emedinaa/kotlin-mvvm (⭐517)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
+*   [dkandalov/limited-wip (⭐107)](https://github.com/dkandalov/limited-wip) - Plugin to limit your work-in-progress.
+*   [dkandalov/pomodoro-tm (⭐131)](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer.
+*   [emedinaa/kotlin-mvvm (⭐518)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
 
 ## [9. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 

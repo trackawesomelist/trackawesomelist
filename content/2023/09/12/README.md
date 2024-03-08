@@ -10,7 +10,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Promptfoo (⭐1.6k)](https://github.com/promptfoo/promptfoo): Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
+*   [Promptfoo (⭐2.1k)](https://github.com/promptfoo/promptfoo): Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Plugin Manager
 
-*   [lewis6991/pckr.nvim (⭐193)](https://github.com/lewis6991/pckr.nvim) - Spiritual successor of `wbthomason/packer.nvim`.
+*   [lewis6991/pckr.nvim (⭐195)](https://github.com/lewis6991/pckr.nvim) - Spiritual successor of `wbthomason/packer.nvim`.
 
 ## [6. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
 

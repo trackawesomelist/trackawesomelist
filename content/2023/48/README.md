@@ -1944,7 +1944,7 @@
 
 ### Development / Discovery
 
-*   [templates (⭐19)](https://github.com/nix-community/templates) - Project templates for many languages using Nix flakes.
+*   [templates (⭐23)](https://github.com/nix-community/templates) - Project templates for many languages using Nix flakes.
 
 ## [20. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -2086,29 +2086,29 @@
 
 ### Programming Languages Support / Diagnostics
 
-*   [chomosuke/typst-preview.nvim (⭐91)](https://github.com/chomosuke/typst-preview.nvim) - Preview typst documents in the browser, instant update on each keystroke, and cross jump between code and preview.
+*   [chomosuke/typst-preview.nvim (⭐103)](https://github.com/chomosuke/typst-preview.nvim) - Preview typst documents in the browser, instant update on each keystroke, and cross jump between code and preview.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [tadmccorkle/markdown.nvim (⭐41)](https://github.com/tadmccorkle/markdown.nvim) - Configurable tools for markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more.
+*   [tadmccorkle/markdown.nvim (⭐48)](https://github.com/tadmccorkle/markdown.nvim) - Configurable tools for markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more.
 
 ### Project / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.visits (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-visits.md) - Module of `mini.nvim` to persistently track and reuse file system visits. Allows listing "recent"/"frequent"/"frecent" visits, adding/removing labels to visits and other data.
+*   [echasnovski/mini.nvim#mini.visits (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-visits.md) - Module of `mini.nvim` to persistently track and reuse file system visits. Allows listing "recent"/"frequent"/"frecent" visits, adding/removing labels to visits and other data.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [alexmozaidze/palenight.nvim (⭐10)](https://github.com/alexmozaidze/palenight.nvim) - Palenight colorscheme supporting Tree-sitter, LSP *(including semantic tokens)* and lots of plugins.
+*   [alexmozaidze/palenight.nvim (⭐12)](https://github.com/alexmozaidze/palenight.nvim) - Palenight colorscheme supporting Tree-sitter, LSP *(including semantic tokens)* and lots of plugins.
 
 ### Utility / Diagnostics
 
-*   [yutkat/confirm-quit.nvim (⭐18)](https://github.com/yutkat/confirm-quit.nvim) - Confirm before quitting Neovim.
-*   [bgaillard/readonly.nvim (⭐8)](https://github.com/bgaillard/readonly.nvim) - Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
-*   [GCBallesteros/jupytext.nvim (⭐38)](https://github.com/GCBallesteros/jupytext.nvim) - Edit jupyter notebooks without leaving Neovim.
+*   [yutkat/confirm-quit.nvim (⭐19)](https://github.com/yutkat/confirm-quit.nvim) - Confirm before quitting Neovim.
+*   [bgaillard/readonly.nvim (⭐10)](https://github.com/bgaillard/readonly.nvim) - Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
+*   [GCBallesteros/jupytext.nvim (⭐42)](https://github.com/GCBallesteros/jupytext.nvim) - Edit jupyter notebooks without leaving Neovim.
 
 ### Split and Window / Diagnostics
 
-*   [mrjones2014/smart-splits.nvim (⭐609)](https://github.com/mrjones2014/smart-splits.nvim) - Smart, seamless, directional navigation and resizing of splits.
+*   [mrjones2014/smart-splits.nvim (⭐631)](https://github.com/mrjones2014/smart-splits.nvim) - Smart, seamless, directional navigation and resizing of splits.
 
 ## [26. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
@@ -2213,7 +2213,7 @@
 
 ### Terminal / Terminal UI
 
-*   [oxker (⭐363)](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers. Written in [Rust](https://www.rust-lang.org/), making heavy use of [ratatui (⭐6.3k)](https://github.com/tui-rs-revival/ratatui) & [Bollard (⭐671)](https://github.com/fussybeaver/bollard), by [@mrjackwills](https://github.com/mrjackwills)
+*   [oxker (⭐378)](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers. Written in [Rust](https://www.rust-lang.org/), making heavy use of [ratatui (⭐6.8k)](https://github.com/tui-rs-revival/ratatui) & [Bollard (⭐681)](https://github.com/fussybeaver/bollard), by [@mrjackwills](https://github.com/mrjackwills)
 
 ## [36. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
@@ -2280,7 +2280,7 @@
 
 ### CLI and REPL
 
-*   [Taze (⭐1.9k)](https://github.com/antfu/taze) A modern cli tool that keeps your dependencies fresh
+*   [Taze (⭐2.1k)](https://github.com/antfu/taze) A modern cli tool that keeps your dependencies fresh
 
 ### Build Systems / Playground
 
@@ -2327,16 +2327,16 @@
 ### Libraries/Frameworks / Misc
 
 *   [jillesvangurp/querylight (⭐5)](https://github.com/jillesvangurp/querylight) - In memory search engine for simple in app search. Implements tf/idf and a some basic queries, tokenizers and analyzers.
-*   [jillesvangurp/geogeometry (⭐122)](https://github.com/jillesvangurp/geogeometry) - GeoGeometry is a set of algorithms and functions for manipulating geo hashes and geometric shapes with geo coordinates
+*   [jillesvangurp/geogeometry (⭐123)](https://github.com/jillesvangurp/geogeometry) - GeoGeometry is a set of algorithms and functions for manipulating geo hashes and geometric shapes with geo coordinates
 
 ### Libraries/Frameworks / API Clients
 
+*   [jillesvangurp/kt-search (⭐81)](https://github.com/jillesvangurp/kt-search) - Kotlin multiplatform library for Elasticsearch and Opensearch
 *   [formation-res/overpass-kotlin-client (⭐1)](https://github.com/formation-res/overpass-kotlin-client) - A simple client for overpass that uses ktor-client and kotlinx.serialization for parsing JSON responses.
-*   [jillesvangurp/kt-search (⭐79)](https://github.com/jillesvangurp/kt-search) - Kotlin multiplatform library for Elasticsearch and Opensearch
 
 ### Libraries/Frameworks / Internationalisation and Localization
 
-*   [formation-res/fluent-kotlin (⭐9)](https://github.com/formation-res/fluent-kotlin) - Kotlin multi platdform localization for js and jvm based on project fluent.
+*   [formation-res/fluent-kotlin (⭐10)](https://github.com/formation-res/fluent-kotlin) - Kotlin multi platdform localization for js and jvm based on project fluent.
 
 ### Projects / Web
 
@@ -2354,7 +2354,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [mikochi (⭐129)](https://github.com/zer0tonin/Mikochi) - Browse remote folders, upload files, delete, rename, download and stream files to VLC/mpv. `MIT` `Go/Docker/K8S`
+*   [mikochi (⭐133)](https://github.com/zer0tonin/Mikochi) - Browse remote folders, upload files, delete, rename, download and stream files to VLC/mpv. `MIT` `Go/Docker/K8S`
 
 ### Software / Knowledge Management Tools
 

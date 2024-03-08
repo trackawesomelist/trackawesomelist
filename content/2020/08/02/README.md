@@ -26,7 +26,7 @@
 
 ### Software / Password Managers
 
-*   [PassWall (⭐738)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Docker`
+*   [PassWall (⭐736)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Docker`
 
 ## [4. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 

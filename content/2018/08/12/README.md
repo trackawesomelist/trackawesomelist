@@ -93,7 +93,7 @@
 
 ### Visualization
 
-*   [pyecharts (⭐14k)](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts (⭐56k)](https://github.com/apache/incubator-echarts) visualization library.
+*   [pyecharts (⭐14k)](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts (⭐58k)](https://github.com/apache/incubator-echarts) visualization library.
 
 ## [10. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 

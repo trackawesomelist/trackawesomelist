@@ -10,7 +10,7 @@
 
 ### Open Source Projects / Knowledge Management
 
-*   [examor (⭐977)](https://github.com/codeacme17/examor): A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written. ![GitHub Repo stars](https://img.shields.io/github/stars/codeacme17/examor?style=social)
+*   [examor (⭐996)](https://github.com/codeacme17/examor): A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written. ![GitHub Repo stars](https://img.shields.io/github/stars/codeacme17/examor?style=social)
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.operators (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-operators.md) - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
+*   [echasnovski/mini.nvim#mini.operators (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-operators.md) - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
 
 ## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 

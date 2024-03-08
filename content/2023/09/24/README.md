@@ -52,8 +52,8 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [eza (clavelm) (⭐0)](https://github.com/clavelm/eza-omz-plugin) - Replaces `ls` with [eza-community/eza (⭐5.5k)](https://github.com/eza-community/eza).
-*   [eza (z-shell) (⭐27)](https://github.com/z-shell/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐5.5k)](https://github.com/eza-community/eza).
+*   [eza (clavelm) (⭐0)](https://github.com/clavelm/eza-omz-plugin) - Replaces `ls` with [eza-community/eza (⭐6k)](https://github.com/eza-community/eza).
+*   [eza (z-shell) (⭐28)](https://github.com/z-shell/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐6k)](https://github.com/eza-community/eza).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

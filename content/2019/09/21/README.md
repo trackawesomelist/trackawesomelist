@@ -50,12 +50,12 @@
 
 ### Office
 
-*   [Foliate (⭐4.8k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
+*   [Foliate (⭐4.9k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
 *   [Marker (⭐817)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 
 ### Productivity and Time
 
-*   [GTimeLog (⭐234)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
+*   [GTimeLog (⭐236)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 *   [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 *   [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
 
@@ -69,7 +69,7 @@
 
 ### Gaming
 
-*   [Lutris (⭐7.2k)](https://github.com/lutris/lutris) - Open Source gaming platform.
+*   [Lutris (⭐7.3k)](https://github.com/lutris/lutris) - Open Source gaming platform.
 
 ### System and Customization
 
@@ -105,7 +105,7 @@
 
 ### Icons / Upstream Style
 
-*   [GNOME++ (⭐154)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
+*   [GNOME++ (⭐159)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
 *   [Pop! (⭐190)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
 
 ### Cursors / Skeumorphic Icons

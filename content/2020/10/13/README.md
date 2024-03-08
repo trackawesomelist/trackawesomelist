@@ -16,7 +16,7 @@
 
 ### Software / Miscellaneous
 
-*   [2FAuth (⭐1.4k)](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP/Docker`
+*   [2FAuth (⭐1.5k)](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP/Docker`
 
 ## [3. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
@@ -77,7 +77,7 @@
 
 *   [Official Guide](https://svelte.dev/tutorial)
 *   [API Reference](https://svelte.dev/docs)
-*   [GitHub Repo (⭐75k)](https://github.com/sveltejs/svelte)
+*   [GitHub Repo (⭐76k)](https://github.com/sveltejs/svelte)
 
 ### Community
 
@@ -111,7 +111,7 @@
 
 ### Calendar
 
-*   [svelte-calendar (⭐529)](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
+*   [svelte-calendar (⭐527)](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
 
 ### Docs / Checkbox
 
@@ -127,7 +127,7 @@
 
 ### Editors / Vim
 
-*   [vim-svelte (⭐303)](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
+*   [vim-svelte (⭐307)](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
 
 ## [12. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -193,11 +193,11 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-admin-env-notice (⭐295)](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`.
+*   [django-admin-env-notice (⭐298)](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`.
 
 ### Third-Party Packages / Search Engine Optimisation
 
-*   [django-check-seo (⭐135)](https://github.com/kapt-labs/django-check-seo) - Check SEO of pages.
+*   [django-check-seo (⭐142)](https://github.com/kapt-labs/django-check-seo) - Check SEO of pages.
 
 ## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -209,11 +209,11 @@
 
 ### Third-party Apps Plugins / Design Tooling
 
-*   [Nautilus Terminal (⭐307)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
+*   [Nautilus Terminal (⭐309)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
 
 ### Windows / Design Tooling
 
-*   [Coverflow Alt-Tab (⭐346)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
+*   [Coverflow Alt-Tab (⭐345)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
 
 ### Audio / Design Tooling
 

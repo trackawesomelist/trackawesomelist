@@ -97,11 +97,11 @@
 
 ### Libraries/Frameworks / Database
 
-*   [ctripcorp/SQLlin (⭐208)](https://github.com/ctripcorp/SQLlin) - A DSL SQLite library for Kotlin Multiplatform
+*   [ctripcorp/SQLlin (⭐211)](https://github.com/ctripcorp/SQLlin) - A DSL SQLite library for Kotlin Multiplatform
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [ctripcorp/mmkv-kotlin (⭐106)](https://github.com/ctripcorp/mmkv-kotlin) - The Kotlin Multiplatform wrapper for MMKV
+*   [ctripcorp/mmkv-kotlin (⭐107)](https://github.com/ctripcorp/mmkv-kotlin) - The Kotlin Multiplatform wrapper for MMKV
 
 ## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
@@ -139,11 +139,11 @@
 
 ### Completion / Diagnostics
 
-*   [zbirenbaum/copilot.lua (⭐2k)](https://github.com/zbirenbaum/copilot.lua) - Fully featured Lua replacement for [GitHub/copilot.vim (⭐7.1k)](https://github.com/github/copilot.vim).
+*   [zbirenbaum/copilot.lua (⭐2.1k)](https://github.com/zbirenbaum/copilot.lua) - Fully featured Lua replacement for [GitHub/copilot.vim (⭐7.2k)](https://github.com/github/copilot.vim).
 
 ### Project / Diagnostics
 
-*   [pluffie/neoproj (⭐58)](https://github.com/pluffie/neoproj) - Small yet powerful project (and session) manager.
+*   [pluffie/neoproj (⭐60)](https://github.com/pluffie/neoproj) - Small yet powerful project (and session) manager.
 
 ### Keybinding / Diagnostics
 

@@ -199,7 +199,7 @@
 ### Studies
 
 *   [SvelteScaling](https://svelte-scaling.acmion.com/) - Does Svelte Scale?
-*   [Will it Scale? (⭐169)](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point.
+*   [Will it Scale? (⭐170)](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point.
 
 ### Scaffold / Checkbox
 

@@ -398,7 +398,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   :octocat: [RxJS (⭐30k)](https://github.com/ReactiveX/RxJS) - A reactive programming library for JavaScript.
 *   :octocat: [xstream (⭐2.4k)](https://github.com/staltz/xstream) - An extremely intuitive, small, and fast functional reactive stream library for JavaScript.
-*   :octocat: [TypeMoq (⭐426)](https://github.com/florinn/typemoq) - A simple mocking library for TypeScript.
+*   :octocat: [TypeMoq (⭐427)](https://github.com/florinn/typemoq) - A simple mocking library for TypeScript.
 *   :octocat: [InversifyJS (⭐11k)](https://github.com/inversify/InversifyJS/) -  powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
 
 ## [34. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)

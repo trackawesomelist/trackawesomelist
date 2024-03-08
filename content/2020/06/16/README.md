@@ -51,7 +51,7 @@
 
 ### Other multimodal data formats / Ruby
 
-*   [OMX: The Open Matrix data file format (⭐45)](https://github.com/osPlanning/omx) - A structured collection of two-dimensional array objects and associated metadata, for possible use in the transportation modeling industry.
+*   [OMX: The Open Matrix data file format (⭐46)](https://github.com/osPlanning/omx) - A structured collection of two-dimensional array objects and associated metadata, for possible use in the transportation modeling industry.
 
 ## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

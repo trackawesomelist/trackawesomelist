@@ -28,7 +28,7 @@
 
 ### Vue Enterprise Boilerplate [↗](https://awesomestacks.dev/vue-enterprise-boilerplate) / Resources
 
-*   [vue-enterprise-boilerplate (⭐7.7k)](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
+*   [vue-enterprise-boilerplate (⭐7.8k)](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
 
 ### MEVN: Mongo Express Vue Node [↗](https://awesomestacks.dev/mevn-mongo-express-vue-node) / Resources
 

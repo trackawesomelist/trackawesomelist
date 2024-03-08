@@ -22,7 +22,7 @@
 
 ### Runtimes/Frontends
 
-*   [JupyterLab Desktop (⭐3k)](https://github.com/jupyterlab/jupyterlab-desktop) - A desktop application for JupyterLab, based on Electron.
+*   [JupyterLab Desktop (⭐3.3k)](https://github.com/jupyterlab/jupyterlab-desktop) - A desktop application for JupyterLab, based on Electron.
 
 ## [4. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -185,7 +185,7 @@
 
 ### File Explorer / Diagnostics
 
-*   [stevearc/oil.nvim (⭐2.2k)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
+*   [stevearc/oil.nvim (⭐2.3k)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
 
 ## [13. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 

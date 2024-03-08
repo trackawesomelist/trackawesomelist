@@ -55,7 +55,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Plugins and scripts / Various Godot versions
 
-*   [HTerrain (⭐1.5k)](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass (Godot 3.x, 4.x).
+*   [HTerrain (⭐1.6k)](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass (Godot 3.x, 4.x).
 
 ## [3. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 

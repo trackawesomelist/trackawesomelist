@@ -34,7 +34,7 @@ Installs: 70000 | Stars: n/a | Last update: n/a
 
 ### Other Development Tools / Wallets
 
-*   [use-wallet (⭐66)](https://github.com/txnlab/use-wallet) - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
+*   [use-wallet (⭐70)](https://github.com/txnlab/use-wallet) - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -52,7 +52,7 @@ Installs: 70000 | Stars: n/a | Last update: n/a
 
 ### Libraries/Frameworks / Game Development
 
-*   [littlektframework/littlekt (⭐253)](https://github.com/littlektframework/littlekt) - A Kotlin multiplatform 2D game development framework based on OpenGL that is inspired by libGDX and KorGE. Current platforms: JVM, Web, and Android.
+*   [littlektframework/littlekt (⭐257)](https://github.com/littlektframework/littlekt) - A Kotlin multiplatform 2D game development framework based on OpenGL that is inspired by libGDX and KorGE. Current platforms: JVM, Web, and Android.
 
 ### Projects / Examples
 

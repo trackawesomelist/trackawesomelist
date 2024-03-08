@@ -914,7 +914,7 @@
 
 ### Collaboration/Education
 
-*   [IllumiDesk (⭐40)](https://github.com/IllumiDesk/illumidesk) - Docker-based JupyterHub + LTI + nbgrader distribution for education.
+*   [IllumiDesk (⭐41)](https://github.com/IllumiDesk/illumidesk) - Docker-based JupyterHub + LTI + nbgrader distribution for education.
 
 ## [13. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

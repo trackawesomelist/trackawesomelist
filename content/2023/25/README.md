@@ -140,7 +140,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [Kotlin/kotlinx-benchmark (⭐436)](https://github.com/Kotlin/kotlinx-benchmark) - A powerful library for benchmarking in Kotlin.
+*   [Kotlin/kotlinx-benchmark (⭐438)](https://github.com/Kotlin/kotlinx-benchmark) - A powerful library for benchmarking in Kotlin.
 
 ## [11. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
@@ -383,11 +383,11 @@
 
 ### Development / Discovery
 
-*   [nixd (⭐536)](https://github.com/nix-community/nixd) - Nix language server, based on Nix libraries.
+*   [nixd (⭐564)](https://github.com/nix-community/nixd) - Nix language server, based on Nix libraries.
 
 ### Overlays / Webinterface
 
-*   [chaotic-nyx (⭐132)](https://github.com/chaotic-cx/nyx) - Daily bumped bleeding edge packages like `mesa_git` & others that aren't yet in Nixpkgs. Created by the makers of [Chaotic-AUR](https://github.com/chaotic-aur/).
+*   [chaotic-nyx (⭐147)](https://github.com/chaotic-cx/nyx) - Daily bumped bleeding edge packages like `mesa_git` & others that aren't yet in Nixpkgs. Created by the makers of [Chaotic-AUR](https://github.com/chaotic-aur/).
 
 ## [35. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -399,11 +399,11 @@
 
 ### Software / Automation
 
-*   [Apache Airflow](https://airflow.apache.org/) - Airflow is a platform to programmatically author, schedule, and monitor workflows. ([Source Code (⭐33k)](https://github.com/apache/airflow/)) `Apache-2.0` `Python/Docker`
+*   [Apache Airflow](https://airflow.apache.org/) - Airflow is a platform to programmatically author, schedule, and monitor workflows. ([Source Code (⭐34k)](https://github.com/apache/airflow/)) `Apache-2.0` `Python/Docker`
 
 ### Software / Calendar & Contacts
 
-*   [Manage My Damn Life](https://intri.in/manage-my-damn-life/) - Manage my Damn Life (MMDL) is a self-hosted front end for managing your CalDAV tasks and calendars. ([Source Code (⭐90)](https://github.com/intri-in/manage-my-damn-life-nextjs)) `GPL-3.0` `Nodejs/Docker`
+*   [Manage My Damn Life](https://intri.in/manage-my-damn-life/) - Manage my Damn Life (MMDL) is a self-hosted front end for managing your CalDAV tasks and calendars. ([Source Code (⭐96)](https://github.com/intri-in/manage-my-damn-life-nextjs)) `GPL-3.0` `Nodejs/Docker`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -419,7 +419,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Bigcapital](https://bigcapital.ly) - A self-hosted financial accounting and inventory management software for small to medium businesses. ([Source Code (⭐1.9k)](https://github.com/bigcapitalhq/bigcapital)) `AGPL-3.0` `Docker`
+*   [Bigcapital](https://bigcapital.ly) - A self-hosted financial accounting and inventory management software for small to medium businesses. ([Source Code (⭐2k)](https://github.com/bigcapitalhq/bigcapital)) `AGPL-3.0` `Docker`
 
 ## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -431,20 +431,20 @@
 
 ### (requires Neovim 0.5)
 
-*   [chrisgrieser/nvim-dr-lsp (⭐21)](https://github.com/chrisgrieser/nvim-dr-lsp) - Status line component showing the number of LSP definition and reference of the token under the cursor.
+*   [chrisgrieser/nvim-dr-lsp (⭐22)](https://github.com/chrisgrieser/nvim-dr-lsp) - Status line component showing the number of LSP definition and reference of the token under the cursor.
 
 ### File Explorer / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.files (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-files.md) - Module of `mini.nvim` providing file explorer with column view capable of manipulating file system by editing text. Can create/delete/rename/copy/move files/directories inside and across directories.
+*   [echasnovski/mini.nvim#mini.files (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-files.md) - Module of `mini.nvim` providing file explorer with column view capable of manipulating file system by editing text. Can create/delete/rename/copy/move files/directories inside and across directories.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [sonjiku/yawnc.nvim (⭐7)](https://github.com/sonjiku/yawnc.nvim) - Theming using pywal, with a Base16 twist.
-*   [sekke276/dark\_flat.nvim (⭐33)](https://github.com/sekke276/dark_flat.nvim) - A Neovim colorscheme written in Lua ported from Dark Flat iTerm2 theme, with LSP and Tree-sitter support.
+*   [sonjiku/yawnc.nvim (⭐8)](https://github.com/sonjiku/yawnc.nvim) - Theming using pywal, with a Base16 twist.
+*   [sekke276/dark\_flat.nvim (⭐34)](https://github.com/sekke276/dark_flat.nvim) - A Neovim colorscheme written in Lua ported from Dark Flat iTerm2 theme, with LSP and Tree-sitter support.
 
 ### Git / Diagnostics
 
-*   [linrongbin16/gitlinker.nvim (⭐70)](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of "ruifm's gitlinker", refactored with bug fixes, alias-host, `/blame` url support and other enhancements.
+*   [linrongbin16/gitlinker.nvim (⭐79)](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of "ruifm's gitlinker", refactored with bug fixes, alias-host, `/blame` url support and other enhancements.
 
 ### Formatting / Diagnostics
 

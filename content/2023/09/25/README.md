@@ -112,7 +112,7 @@
 
 ### Cursorline / Diagnostics
 
-*   [sontungexpt/stcursorword (⭐39)](https://github.com/sontungexpt/stcursorword) - Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
+*   [sontungexpt/stcursorword (⭐41)](https://github.com/sontungexpt/stcursorword) - Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
 
 ## [13. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [vint (⭐688)](https://github.com/Kuniwak/vint) — Fast and Highly Extensible Vim script Language Lint implemented by Python.
+*   [vint (⭐689)](https://github.com/Kuniwak/vint) — Fast and Highly Extensible Vim script Language Lint implemented by Python.
 
 ## [3. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 

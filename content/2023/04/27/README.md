@@ -20,14 +20,14 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [nyngwang/nvimgelion (⭐86)](https://github.com/nyngwang/nvimgelion) - Neon Genesis Evangelion but for Vimmers.
+*   [nyngwang/nvimgelion (⭐87)](https://github.com/nyngwang/nvimgelion) - Neon Genesis Evangelion but for Vimmers.
 
 ## [3. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### System and Customization
 
 *   [GDM Settings](https://gdm-settings.github.io) - A settings app for GDM (GNOME's Login Screen a.k.a GNOME Display Manager).
-*   [AdwSteamGtk (⭐133)](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam (⭐973)](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
+*   [AdwSteamGtk (⭐140)](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam (⭐984)](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
 
 ## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

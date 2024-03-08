@@ -42,7 +42,7 @@
 
 ### Web / Playground
 
-*   :octocat: [feednext.io (⭐286)](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
+*   :octocat: [feednext.io (⭐297)](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
 
 ## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

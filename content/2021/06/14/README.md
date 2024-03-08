@@ -87,8 +87,8 @@
 ### Programming Languages / PHP
 
 *   [composer2nix (⭐89)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
-*   [composition-c4 (⭐8)](https://github.com/fossar/composition-c4) - Support for building composer packages from a `composer.lock` (using IFD).
-*   [nix-phps (⭐44)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
+*   [composition-c4 (⭐9)](https://github.com/fossar/composition-c4) - Support for building composer packages from a `composer.lock` (using IFD).
+*   [nix-phps (⭐45)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -152,13 +152,13 @@
 
 ### Crowdsourced transit data
 
-*   [GTFS-Hub (⭐23)](https://github.com/mfdz/gtfs-hub) - Community tested, probably quality/content enhanced, partially merged or filtered GTFS-feeds of (currently German) transport agencies. Maintained by [MITFAHR|DE|ZENTRALE](https://github.com/mfdz).
+*   [GTFS-Hub (⭐25)](https://github.com/mfdz/gtfs-hub) - Community tested, probably quality/content enhanced, partially merged or filtered GTFS-feeds of (currently German) transport agencies. Maintained by [MITFAHR|DE|ZENTRALE](https://github.com/mfdz).
 
 ## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [hexagonkt/hexagon (⭐542)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
+*   [hexagonkt/hexagon (⭐544)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

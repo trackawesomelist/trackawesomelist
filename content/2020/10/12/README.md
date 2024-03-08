@@ -30,7 +30,7 @@
 
 ### GraphCMS React + Apollo [↗](https://awesomestacks.dev/graph-cms-react-apollo) / Resources
 
-*   [GraphCMS starter blog with React & Apollo Client (⭐584)](https://github.com/GraphCMS/graphcms-examples/tree/master/with-reactjs)
+*   [GraphCMS starter blog with React & Apollo Client (⭐596)](https://github.com/GraphCMS/graphcms-examples/tree/master/with-reactjs)
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 

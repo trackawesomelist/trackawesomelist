@@ -38,7 +38,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Homer (⭐8.4k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `Docker/K8S/Nodejs`
+*   [Homer (⭐8.5k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `Docker/K8S/Nodejs`
 
 ## [5. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 

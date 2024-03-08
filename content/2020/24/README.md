@@ -172,7 +172,7 @@
 
 ### Third-Party Packages / Admin
 
-*   [impostor (⭐149)](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
+*   [impostor (⭐150)](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
 
 ### Projects / Boilerplate
 
@@ -206,7 +206,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐857)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
+*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐875)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
 
 ## [26. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -494,16 +494,16 @@
 
 ### GTFS Analysis Tools / Ruby
 
-*   [GTFS Kit (⭐23)](https://github.com/mrcagney/gtfs_kit) - A Python 3.6+ tool kit for analyzing General Transit Feed Specification (GTFS) data. Supersedes [GTFSTK](https://github.com/araichev/gtfstk).
+*   [GTFS Kit (⭐27)](https://github.com/mrcagney/gtfs_kit) - A Python 3.6+ tool kit for analyzing General Transit Feed Specification (GTFS) data. Supersedes [GTFSTK](https://github.com/araichev/gtfstk).
 *   [Busbuzzard (⭐9)](https://github.com/bmander/busbuzzard) - Inference of probabilistic schedules from empirical data about transit vehicles.
 
 ### GTFS Libraries / Python
 
-*   [GTFSTK](https://github.com/araichev/gtfstk) - A Python 3 toolkit for analyzing GTFS data in memory. Uses Pandas and Shapely for speed. Superseded by [GTFS Kit (⭐23)](https://github.com/mrcagney/gtfs_kit).
+*   [GTFSTK](https://github.com/araichev/gtfstk) - A Python 3 toolkit for analyzing GTFS data in memory. Uses Pandas and Shapely for speed. Superseded by [GTFS Kit (⭐27)](https://github.com/mrcagney/gtfs_kit).
 
 ### GTFS Realtime Utilities / Ruby
 
-*   [gtfs-rt-admin (⭐6)](https://github.com/conveyal/gtfs-rt-admin) - An admin tool for managing GTFS-RT service alerts (JavaScript and Java).
+*   [gtfs-rt-admin (⭐7)](https://github.com/conveyal/gtfs-rt-admin) - An admin tool for managing GTFS-RT service alerts (JavaScript and Java).
 
 ## [42. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -658,7 +658,7 @@
 
 ### Component Libraries
 
-*   [Blaze UI Atoms (⭐1.6k)](https://github.com/BlazeSoftware/atoms) - Set of web components powered by Blaze CSS.
+*   [Blaze UI Atoms (⭐1.5k)](https://github.com/BlazeSoftware/atoms) - Set of web components powered by Blaze CSS.
 
 ### Benchmarks
 
@@ -666,7 +666,7 @@
 
 ### Testing Solutions
 
-*   [shadow-automation-selenium (⭐96)](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
+*   [shadow-automation-selenium (⭐97)](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
 
 ### History / 2012
 

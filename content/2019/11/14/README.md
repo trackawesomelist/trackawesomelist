@@ -37,7 +37,7 @@
 
 ### Projects / Boilerplate
 
-*   [django-project-template (⭐698)](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
+*   [django-project-template (⭐700)](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

@@ -28,7 +28,7 @@
 
 *   [joshuto (⭐3.1k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
 *   [xplr (⭐3.8k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-*   [yazi (⭐6.1k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
+*   [yazi (⭐6.7k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
 
 ### Applications / Graphics
 
@@ -151,7 +151,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [obl.ong (⭐15)](https://github.com/obl-ong/admin) - A multi-tenant subdomain control panel (using Rails 7.1) - [🌍](https://obl.ong)
+*   [obl.ong (⭐19)](https://github.com/obl-ong/admin) - A multi-tenant subdomain control panel (using Rails 7.1) - [🌍](https://obl.ong)
 
 ## [10. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
 
@@ -279,7 +279,22 @@
 
 ### Text / Chatbots
 
-*   [Tiledesk](https://tiledesk.com/) - Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.
+*   [AICamp](https://aicamp.so/) - *[reviews](#)* - ChatGPT for Teams
+*   [Tiledesk](https://tiledesk.com/) - *[reviews](https://altern.ai/product/tiledesk)* - Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.
+
+### Text / Writing assistants
+
+*   [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
+
+### Other / Music
+
+*   [FairyTailAI](https://fairytailai.com/) - Personalized bedtime story generator
+*   [PromptPal](https://promptpal.net) - Search for prompts and bots, then use them with your favorite AI. All in one place.
+*   [Shotstack Workflows](https://shotstack.io/product/workflows/) - No-code, automation workflow tool for building Generative AI media applications.
+*   [Aispect](https://aispect.io/?ref=mahseema-awesome-ai-tools) - New way to experience events.
+*   [PressPulse AI](https://www.presspulse.ai/?ref=mahseema-awesome-ai-tools) - Get personalized media coverage leads every morning.
+*   [GummySearch](https://gummysearch.com/?ref=mahseema-awesome-ai-tools) - AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
+*   [Taplio](https://taplio.com/?ref=mahseema-awesome-ai-tools) - The all-in-one, AI-powered LinkedIn tool.
 
 ### Text / Productivity
 
@@ -303,14 +318,6 @@
 ### Image / Services
 
 *   [StockPhotoAI.net](https://www.stockphotoai.net/?ref=mahseema-awesome-ai-tools) - Great stock photos, made for you.
-
-### Other / Music
-
-*   [Shotstack Workflows](https://shotstack.io/product/workflows/) - No-code, automation workflow tool for building Generative AI media applications.
-*   [Aispect](https://aispect.io/?ref=mahseema-awesome-ai-tools) - New way to experience events.
-*   [PressPulse AI](https://www.presspulse.ai/?ref=mahseema-awesome-ai-tools) - Get personalized media coverage leads every morning.
-*   [GummySearch](https://gummysearch.com/?ref=mahseema-awesome-ai-tools) - AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
-*   [Taplio](https://taplio.com/?ref=mahseema-awesome-ai-tools) - The all-in-one, AI-powered LinkedIn tool.
 
 ## [13. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
@@ -338,18 +345,18 @@
 
 ### Tools / Services
 
-*   [ChatAbstractions (⭐46)](https://github.com/andrewnguonly/ChatAbstractions): LangChain chat model abstractions for dynamic failover, load balancing, chaos engineering, and more! ![GitHub Repo stars](https://img.shields.io/github/stars/andrewnguonly/ChatAbstractions?style=social)
+*   [ChatAbstractions (⭐65)](https://github.com/andrewnguonly/ChatAbstractions): LangChain chat model abstractions for dynamic failover, load balancing, chaos engineering, and more! ![GitHub Repo stars](https://img.shields.io/github/stars/andrewnguonly/ChatAbstractions?style=social)
 
 ### Tools / Agents
 
-*   [CrewAI (⭐497)](https://github.com/joaomdmoura/crewai): Cutting-edge framework for orchestrating role-playing, autonomous AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewai?style=social)
+*   [CrewAI (⭐9.2k)](https://github.com/joaomdmoura/crewai): Cutting-edge framework for orchestrating role-playing, autonomous AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewai?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Agency (⭐312)](https://github.com/neurocult/agency): 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach ![GitHub Repo stars](https://img.shields.io/github/stars/neurocult/agency?style=social)
-*   [TaskWeaver (⭐2.6k)](https://github.com/microsoft/TaskWeaver): A code-first agent framework for seamlessly planning and executing data analytics tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TaskWeaver?style=social)
-*   [MicroAgent (⭐565)](https://github.com/aymenfurter/microagents): Agents Capable of Self-Editing Their Prompts / Python Code ![GitHub Repo stars](https://img.shields.io/github/stars/aymenfurter/microagents?style=social)
-*   *   [Casibase (⭐1.5k)](https://github.com/casibase/casibase?utm_source=tldrwebdev):
+*   [Agency (⭐353)](https://github.com/neurocult/agency): 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach ![GitHub Repo stars](https://img.shields.io/github/stars/neurocult/agency?style=social)
+*   [TaskWeaver (⭐4.3k)](https://github.com/microsoft/TaskWeaver): A code-first agent framework for seamlessly planning and executing data analytics tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TaskWeaver?style=social)
+*   [MicroAgent (⭐677)](https://github.com/aymenfurter/microagents): Agents Capable of Self-Editing Their Prompts / Python Code ![GitHub Repo stars](https://img.shields.io/github/stars/aymenfurter/microagents?style=social)
+*   *   [Casibase (⭐1.6k)](https://github.com/casibase/casibase?utm_source=tldrwebdev):
 
 ## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -466,7 +473,7 @@
 ### Driver crates / WIP
 
 *   [MS5637](https://crates.io/crates/ms5637) - no\_std I2C driver for the MS5637 temperature and pressure sensor ![crates.io](https://img.shields.io/crates/v/ms5637.svg)
-*   [HX711 (⭐3)](https://github.com/DaneSlattery/hx711) - GPIO - An interrupt-based driver for the HX711 Load Cell Amplifier IC. no-std.
+*   [HX711 (⭐4)](https://github.com/DaneSlattery/hx711) - GPIO - An interrupt-based driver for the HX711 Load Cell Amplifier IC. no-std.
 
 ## [23. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -504,7 +511,7 @@
 
 ### Communication / Apache License
 
-*   [ada-enet (⭐18)](https://github.com/stcarrez/ada-enet) - Embedded network stack (Ethernet driver, IPv4, UDP, DNS, DHCP, NTP) for STM32F746 or STM32F769.
+*   [ada-enet (⭐19)](https://github.com/stcarrez/ada-enet) - Embedded network stack (Ethernet driver, IPv4, UDP, DNS, DHCP, NTP) for STM32F746 or STM32F769.
 
 ### Libraries / Apache License
 
@@ -652,7 +659,7 @@
 
 ### Email
 
-*   [Maddy (⭐4.5k)](https://github.com/foxcpp/maddy) - All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server
+*   [Maddy (⭐4.6k)](https://github.com/foxcpp/maddy) - All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server
 
 ### Error Handling
 
@@ -690,17 +697,17 @@
 
 ### Mathematics / Waveform Generator
 
-*   [Sun and Moon (⭐407)](https://github.com/peterhinch/micropython-samples/blob/master/astronomy/README.md) - Determine Sun and Moon rise and set times, Moon phases.
+*   [Sun and Moon (⭐412)](https://github.com/peterhinch/micropython-samples/blob/master/astronomy/README.md) - Determine Sun and Moon rise and set times, Moon phases.
 
 ## [31. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / General
 
-*   [django-nh3 (⭐15)](https://github.com/marksweb/django-nh3) - Django integration with for nh3 and is an alternative for django-bleach.
+*   [django-nh3 (⭐14)](https://github.com/marksweb/django-nh3) - Django integration with for nh3 and is an alternative for django-bleach.
 
 ### Third-Party Packages / Search
 
-*   [django-elasticsearch-dsl (⭐990)](https://github.com/django-es/django-elasticsearch-dsl) - Elasticsearch DSL integration for Django.
+*   [django-elasticsearch-dsl (⭐993)](https://github.com/django-es/django-elasticsearch-dsl) - Elasticsearch DSL integration for Django.
 
 ## [32. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
 
@@ -744,20 +751,20 @@
 
 ### Development / Discovery
 
-*   [flakelight (⭐113)](https://github.com/nix-community/flakelight) - A modular flake framework aiming to minimize boilerplate.
-*   [services-flake (⭐75)](https://github.com/juspay/services-flake) - A NixOS-like service configuration framework for Nix flakes.
+*   [flakelight (⭐124)](https://github.com/nix-community/flakelight) - A modular flake framework aiming to minimize boilerplate.
+*   [services-flake (⭐89)](https://github.com/juspay/services-flake) - A NixOS-like service configuration framework for Nix flakes.
 
 ## [36. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Automation
 
-*   [swissknife (⭐6)](https://github.com/fakoua/SwissKnife) - SwissKnife - Deno Swiss Knife tools for Windows.
+*   [swissknife (⭐7)](https://github.com/fakoua/SwissKnife) - SwissKnife - Deno Swiss Knife tools for Windows.
 
 ## [37. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Productivity and Time
 
-*   [Planify (⭐2.6k)](https://github.com/alainm23/planify) - Project and task manager with Todoist support.
+*   [Planify (⭐2.7k)](https://github.com/alainm23/planify) - Project and task manager with Todoist support.
 
 ### Internet and Networking
 
@@ -768,8 +775,8 @@
 
 ### Multimedia
 
-*   [Decibels (⭐51)](https://github.com/vixalien/decibels) - Simple music player with waveform view. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-*   [Aviator (⭐120)](https://github.com/gianni-rosato/aviator) - Utility for encoding with SVT-AV1 & Opus.
+*   [Decibels (⭐52)](https://github.com/vixalien/decibels) - Simple music player with waveform view. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Aviator (⭐122)](https://github.com/gianni-rosato/aviator) - Utility for encoding with SVT-AV1 & Opus.
 *   [G4Music](https://flathub.org/apps/com.github.neithern.g4music) - Play your music elegantly.
 *   [Monophony](https://flathub.org/fr/apps/io.gitlab.zehkira.Monophony) - Stream music from YouTube.
 
@@ -780,13 +787,13 @@
 ### System and Customization
 
 *   [Bottles (⭐5.7k)](https://github.com/bottlesdevs/Bottles) - Wine environments manager to run Windows software and games.
-*   [BoxBuddy (⭐80)](https://github.com/Dvlv/BoxBuddyRS) - Graphical Distrobox manager.
-*   [Pods (⭐645)](https://github.com/marhkb/pods) - Podman containers manager.
+*   [BoxBuddy (⭐100)](https://github.com/Dvlv/BoxBuddyRS) - Graphical Distrobox manager.
+*   [Pods (⭐653)](https://github.com/marhkb/pods) - Podman containers manager.
 
 ### Utilities
 
-*   [Kooha (⭐1.9k)](https://github.com/SeaDve/Kooha) - Elegantly record your screen.
-*   [Lan Mouse (⭐549)](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch)
+*   [Kooha (⭐2k)](https://github.com/SeaDve/Kooha) - Elegantly record your screen.
+*   [Lan Mouse (⭐582)](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch).
 
 ## [38. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -846,11 +853,11 @@
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [divyanshupundir/mavlink-kotlin (⭐35)](https://github.com/divyanshupundir/mavlink-kotlin) - A modern MAVLink library for Kotlin Multiplatform.
+*   [divyanshupundir/mavlink-kotlin (⭐37)](https://github.com/divyanshupundir/mavlink-kotlin) - A modern MAVLink library for Kotlin Multiplatform.
 
 ### Libraries/Frameworks / Data Science
 
-*   [Kotlin/kandy (⭐394)](https://github.com/Kotlin/kandy) - Kotlin plotting library
+*   [Kotlin/kandy (⭐415)](https://github.com/Kotlin/kandy) - Kotlin plotting library
 *   [Kotlin/KotlinDL (⭐1.4k)](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras.
 
 ### Kotlin WebAssembly / Official Links
@@ -859,7 +866,7 @@
 
 ### Kotlin WebAssembly / Examples
 
-*   [Kotlin/Wasm Examples (⭐410)](https://github.com/Kotlin/kotlin-wasm-examples) - Explore a variety of Kotlin/Wasm example projects, showcasing applications like Compose Multiplatform, browser DOM API, Node.js, and WASI integration.
+*   [Kotlin/Wasm Examples (⭐417)](https://github.com/Kotlin/kotlin-wasm-examples) - Explore a variety of Kotlin/Wasm example projects, showcasing applications like Compose Multiplatform, browser DOM API, Node.js, and WASI integration.
 
 ## [43. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
@@ -900,25 +907,6 @@
 *   [Practical Services Monitoring with Prometheus and Docker](https://web.archive.org/web/20221206045124/https://airtame.engineering/practical-services-monitoring-with-prometheus-and-docker-30abd3cf9603?gi=b81b1156b4d9) - Practical services monitoring with Prometheus and Docker by Simon KP.
 
 ## [48. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
-
-### Text-related Generative Tools / Multi-agents
-
-*   [AICamp](https://aicamp.so/): ChatGPT for Teams
-*   [Yomu](https://www.yomu.ai): AI writing assistant for students and academics
-*   [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=filipecalegario-awesome-generative-ai): Forget about frustrating formulas in Google Sheets.
-*   [Elephas](https://elephas.app/?ref=filipecalegario-awesome-generative-ai): Personal AI writing assistant for the Mac.
-*   [Lemmy](https://lemmy.co/?ref=filipecalegario-awesome-generative-ai): Autonomous AI Assistant for Work.
-
-### Auxiliary tools and concepts / Deforum
-
-*   [PromptPal](https://promptpal.net): Search for prompts and bots, then use them with your favourite AI. All in one place.
-*   [FairyTailAI](https://fairytailai.com/): Personalized bedtime story generator
-*   [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=filipecalegario-awesome-generative-ai): Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
-*   [Aispect](https://aispect.io/?ref=filipecalegario-awesome-generative-ai): New way to experience events.
-*   [SiteGPT](https://sitegpt.ai/?ref=filipecalegario-awesome-generative-ai): Make AI your expert customer support agent.
-*   [PressPulse AI](https://www.presspulse.ai/?ref=filipecalegario-awesome-generative-ai): Get personalized media coverage leads every morning.
-*   [GPTHelp.ai](https://gpthelp.ai/?ref=filipecalegario-awesome-generative-ai): ChatGPT for your website / AI customer support chatbot.
-*   [Taplio](https://taplio.com/?ref=filipecalegario-awesome-generative-ai): The all-in-one, AI-powered LinkedIn tool.
 
 ### Generative AI history, maps, and definitions
 
@@ -982,6 +970,12 @@
 
 *   [\[2310.04451\] AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](https://arxiv.org/abs/2310.04451)
 
+### Text-related Generative Tools / Multi-agents
+
+*   [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=filipecalegario-awesome-generative-ai): Forget about frustrating formulas in Google Sheets.
+*   [Elephas](https://elephas.app/?ref=filipecalegario-awesome-generative-ai): Personal AI writing assistant for the Mac.
+*   [Lemmy](https://lemmy.co/?ref=filipecalegario-awesome-generative-ai): Autonomous AI Assistant for Work.
+
 ### AI Tools for Research / Multi-agents
 
 *   [GummySearch](https://gummysearch.com/?ref=filipecalegario-awesome-generative-ai): AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
@@ -1016,6 +1010,15 @@
 ### Interesting GitHub Repositories / Deforum
 
 *   \[🔥] [Structured State Space for Sequence Modeling (S4) (⭐1.9k)](https://github.com/state-spaces/s4): Stole generation from the gods
+
+### Auxiliary tools and concepts / Deforum
+
+*   [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=filipecalegario-awesome-generative-ai): Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
+*   [Aispect](https://aispect.io/?ref=filipecalegario-awesome-generative-ai): New way to experience events.
+*   [SiteGPT](https://sitegpt.ai/?ref=filipecalegario-awesome-generative-ai): Make AI your expert customer support agent.
+*   [PressPulse AI](https://www.presspulse.ai/?ref=filipecalegario-awesome-generative-ai): Get personalized media coverage leads every morning.
+*   [GPTHelp.ai](https://gpthelp.ai/?ref=filipecalegario-awesome-generative-ai): ChatGPT for your website / AI customer support chatbot.
+*   [Taplio](https://taplio.com/?ref=filipecalegario-awesome-generative-ai): The all-in-one, AI-powered LinkedIn tool.
 
 ### Dimension reduction techniques / Deforum
 
@@ -1069,11 +1072,11 @@
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [Stalwart Mail Server](https://stalw.art) - All-in-one mail server with JMAP, IMAP4, and SMTP support and a wide range of modern features. ([Source Code (⭐2.2k)](https://github.com/stalwartlabs/mail-server)) `AGPL-3.0` `Rust/Docker`
+*   [Stalwart Mail Server](https://stalw.art) - All-in-one mail server with JMAP, IMAP4, and SMTP support and a wide range of modern features. ([Source Code (⭐2.3k)](https://github.com/stalwartlabs/mail-server)) `AGPL-3.0` `Rust/Docker`
 
 ### Software / Database Management
 
-*   [Azimutt](https://azimutt.app) - Visual database exploration made for real world databases (big and messy). Explore your database schema as well as data, document them, extend them and even get analysis and guidelines. ([Demo](https://azimutt.app/gallery/gospeak), [Source Code (⭐901)](https://github.com/azimuttapp/azimutt)) `MIT` `Elixir/Nodejs/Docker`
+*   [Azimutt](https://azimutt.app) - Visual database exploration made for real world databases (big and messy). Explore your database schema as well as data, document them, extend them and even get analysis and guidelines. ([Demo](https://azimutt.app/gallery/gospeak), [Source Code (⭐926)](https://github.com/azimuttapp/azimutt)) `MIT` `Elixir/Nodejs/Docker`
 *   [WebDB](https://webdb.app) - Efficient database IDE. ([Demo](https://demo.webdb.app/), [Source Code](https://gitlab.com/web-db/app)) `AGPL-3.0` `Docker`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
@@ -1175,7 +1178,7 @@
 
 ### Software / Vector Creation
 
-*   [plotting-maps (⭐27)](https://github.com/piebro/plotting-maps) - A simple web tool to create OpenStreetMap SVG maps for plotting.
+*   [plotting-maps (⭐28)](https://github.com/piebro/plotting-maps) - A simple web tool to create OpenStreetMap SVG maps for plotting.
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -1281,7 +1284,7 @@
 
 ### Projects / Godot 4.0
 
-*   [GodSVG (⭐484)](https://github.com/MewPurPur/GodSVG) - Tool to create optimized Scalable Vector Graphics files.
+*   [GodSVG (⭐735)](https://github.com/MewPurPur/GodSVG) - Tool to create optimized Scalable Vector Graphics files.
 
 ## [71. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
@@ -1461,7 +1464,7 @@
 
 ### Component Libraries
 
-*   [AnywhereUI (⭐23)](https://github.com/adaleks/anywhere-ui) - Collection of rich web components that includes framework bindings. Created with StencilJS.
+*   [AnywhereUI (⭐24)](https://github.com/adaleks/anywhere-ui) - Collection of rich web components that includes framework bindings. Created with StencilJS.
 
 ## [81. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -1532,7 +1535,7 @@
 
 ### Acknowledgements / Chrome Extensions
 
-*   2023 - ⚒ Thank you Hamza ( @Hamza12700 <https://github.com/Hamza12700> ) for [more than 15 merged pull requests (⭐4.3k)](https://github.com/dzharii/awesome-typescript/pulls?q=is%3Apr+author%3AHamza12700+is%3Aclosed). Great contribution to keeping this list up-to-date with modern TypeScript projects. **Contributor of the year 2023**.
+*   2023 - ⚒ Thank you Hamza ( @Hamza12700 <https://github.com/Hamza12700> ) for [more than 15 merged pull requests (⭐4.4k)](https://github.com/dzharii/awesome-typescript/pulls?q=is%3Apr+author%3AHamza12700+is%3Aclosed). Great contribution to keeping this list up-to-date with modern TypeScript projects. **Contributor of the year 2023**.
 
 ## [84. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -1556,19 +1559,19 @@
 
 ### Plugin Manager
 
-*   [nvim-neorocks/rocks.nvim (⭐131)](https://github.com/nvim-neorocks/rocks.nvim) - A modern approach to plugin management using Luarocks, inspired by Cargo.
+*   [nvim-neorocks/rocks.nvim (⭐145)](https://github.com/nvim-neorocks/rocks.nvim) - A modern approach to plugin management using Luarocks, inspired by Cargo.
 
 ### (requires Neovim 0.5)
 
-*   [jmbuhr/otter.nvim (⭐265)](https://github.com/jmbuhr/otter.nvim) - Provides LSP features and a nvim-cmp completion source for languages embedded in other documents.
+*   [jmbuhr/otter.nvim (⭐293)](https://github.com/jmbuhr/otter.nvim) - Provides LSP features and a nvim-cmp completion source for languages embedded in other documents.
 
 ### Completion / Diagnostics
 
-*   [Exafunction/codeium.nvim (⭐404)](https://github.com/Exafunction/codeium.nvim) - Free, ultrafast Copilot alternative.
+*   [Exafunction/codeium.nvim (⭐436)](https://github.com/Exafunction/codeium.nvim) - Free, ultrafast Copilot alternative.
 
 ### Programming Languages Support / Diagnostics
 
-*   [quarto-dev/quarto-nvim (⭐230)](https://github.com/quarto-dev/quarto-nvim) - Tools for working with [Quarto](https://quarto.org/) documents.
+*   [quarto-dev/quarto-nvim (⭐237)](https://github.com/quarto-dev/quarto-nvim) - Tools for working with [Quarto](https://quarto.org/) documents.
 
 ### Markdown and LaTeX / Diagnostics
 
@@ -1576,38 +1579,38 @@
 
 ### Search / Diagnostics
 
-*   [FabianWirth/search.nvim (⭐114)](https://github.com/FabianWirth/search.nvim) - Tabs for different Telescope pickers.
-*   [backdround/improved-search.nvim (⭐49)](https://github.com/backdround/improved-search.nvim) - Add search abilities.
+*   [FabianWirth/search.nvim (⭐118)](https://github.com/FabianWirth/search.nvim) - Tabs for different Telescope pickers.
+*   [backdround/improved-search.nvim (⭐52)](https://github.com/backdround/improved-search.nvim) - Add search abilities.
 
 ### File Explorer / Diagnostics
 
-*   [rolv-apneseth/tfm.nvim (⭐38)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi (⭐6.1k)](https://github.com/sxyazi/yazi)).
+*   [rolv-apneseth/tfm.nvim (⭐48)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi (⭐6.7k)](https://github.com/sxyazi/yazi)).
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [scottmckendry/cyberdream.nvim (⭐94)](https://github.com/scottmckendry/cyberdream.nvim) - A high-contrast, futuristic & vibrant coloursheme.
+*   [scottmckendry/cyberdream.nvim (⭐114)](https://github.com/scottmckendry/cyberdream.nvim) - A high-contrast, futuristic & vibrant coloursheme.
 
 ### Icon / Diagnostics
 
-*   [2KAbhishek/nerdy.nvim (⭐69)](https://github.com/2KAbhishek/nerdy.nvim/) - Find and insert the latest nerd font glyphs.
+*   [2KAbhishek/nerdy.nvim (⭐78)](https://github.com/2KAbhishek/nerdy.nvim/) - Find and insert the latest nerd font glyphs.
 
 ### Utility / Diagnostics
 
-*   [mateuszwieloch/automkdir.nvim (⭐9)](https://github.com/mateuszwieloch/automkdir.nvim) - Automatically create non-existent parent directories when writing a file.
+*   [mateuszwieloch/automkdir.nvim (⭐10)](https://github.com/mateuszwieloch/automkdir.nvim) - Automatically create non-existent parent directories when writing a file.
 *   [ragnarok22/whereami.nvim (⭐14)](https://github.com/ragnarok22/whereami.nvim) - Test your VPN by getting you current location.
-*   [ariel-frischer/bmessages.nvim (⭐32)](https://github.com/ariel-frischer/bmessages.nvim) - Replace the default :messages window with a configurable, auto-updating buffer.
-*   [LintaoAmons/easy-commands.nvim (⭐56)](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands.
-*   [backdround/tabscope.nvim (⭐30)](https://github.com/backdround/tabscope.nvim) - Make tab-local buffers.
+*   [ariel-frischer/bmessages.nvim (⭐33)](https://github.com/ariel-frischer/bmessages.nvim) - Replace the default :messages window with a configurable, auto-updating buffer.
+*   [LintaoAmons/easy-commands.nvim (⭐60)](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands.
+*   [backdround/tabscope.nvim (⭐34)](https://github.com/backdround/tabscope.nvim) - Make tab-local buffers.
 *   [linrongbin16/gentags.nvim (⭐10)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
 
 ### Git / Diagnostics
 
-*   [2KAbhishek/co-author.nvim (⭐18)](https://github.com/2KAbhishek/co-author.nvim) - Quickly add co-authors to commits.
+*   [2KAbhishek/co-author.nvim (⭐19)](https://github.com/2KAbhishek/co-author.nvim) - Quickly add co-authors to commits.
 
 ### Motion / Diagnostics
 
-*   [backdround/neowords.nvim (⭐45)](https://github.com/backdround/neowords.nvim) - Hops by any type of words. It gives fine control over `w`, `e`, `b`, `ge` movements.
-*   [backdround/improved-ft.nvim (⭐32)](https://github.com/backdround/improved-ft.nvim) - Improve default `f`/`t` abilities.
+*   [backdround/neowords.nvim (⭐48)](https://github.com/backdround/neowords.nvim) - Hops by any type of words. It gives fine control over `w`, `e`, `b`, `ge` movements.
+*   [backdround/improved-ft.nvim (⭐33)](https://github.com/backdround/improved-ft.nvim) - Improve default `f`/`t` abilities.
 
 ### Treesitter Based / Diagnostics
 
@@ -1615,8 +1618,8 @@
 
 ### Keybinding / Diagnostics
 
-*   [FeiyouG/commander.nvim (⭐321)](https://github.com/FeiyouG/commander.nvim) - Create and manage keybindings and commands in a more organized manner and search them quickly through Telescope.
-*   [tris203/hawtkeys.nvim (⭐162)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
+*   [FeiyouG/commander.nvim (⭐324)](https://github.com/FeiyouG/commander.nvim) - Create and manage keybindings and commands in a more organized manner and search them quickly through Telescope.
+*   [tris203/hawtkeys.nvim (⭐167)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
 
 ### Scrolling / Diagnostics
 
@@ -1628,7 +1631,7 @@
 
 ### Split and Window / Diagnostics
 
-*   [altermo/nxwm (⭐143)](https://github.com/altermo/nxwm) - X11 window manager.
+*   [altermo/nxwm (⭐144)](https://github.com/altermo/nxwm) - X11 window manager.
 
 ## [86. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
@@ -1655,7 +1658,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [autoenv (⭐5.5k)](https://github.com/hyperupcall/autoenv) - Directory-based environments.
-*   [calc (arzzen) (⭐128)](https://github.com/arzzen/calc.plugin.zsh) - A calculator for ZSH.
+*   [calc (arzzen) (⭐129)](https://github.com/arzzen/calc.plugin.zsh) - A calculator for ZSH.
 *   [calc (sam-programs) (⭐3)](https://github.com/Sam-programs/zsh-calc) - Allows you to run math calculations with no prefixes.
 *   [kubecolor (devopstales) (⭐4)](https://github.com/devopstales/zsh-kubecolor) - Adds aliases for the `kubecolor` command.
 *   [kubeconfig-mgr (⭐6)](https://github.com/yhlooo/zsh-kubeconfig-mgr) - Makes managing multiple kubeconfig files easier.
@@ -1699,7 +1702,7 @@
 
 ### Other / [Other](#other-1)
 
-*   [shisho (⭐365)](https://github.com/flatt-security/shisho) — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
+*   [shisho (⭐366)](https://github.com/flatt-security/shisho) :warning: — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
 *   [larastan (⭐5.1k)](https://github.com/larastan/larastan) — Adds static analysis to Laravel improving developer productivity and code quality. It is a wrapper around PHPStan.
 
 ## [91. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
@@ -1719,7 +1722,7 @@
 *   [chicken-sodium (⭐3)](https://github.com/caolan/chicken-sodium) - Bindings to libsodium crypto library for Chicken Scheme.
 *   [crypto-tools](https://wiki.call-cc.org/eggref/5/crypto-tools) - Useful cryptographic primitives for Chicken Scheme.
 *   [guile-gnutls](https://gitlab.com/gnutls/guile/) - GnuTLS bindings for GNU Guile.
-*   [guile-ssh (⭐54)](https://github.com/artyom-poptsov/guile-ssh) - libssh bindings for GNU Guile.
+*   [guile-ssh (⭐55)](https://github.com/artyom-poptsov/guile-ssh) - libssh bindings for GNU Guile.
 
 ---
 

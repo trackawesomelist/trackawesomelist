@@ -22,7 +22,7 @@
 
 ### Command-Line Tools / Discovery
 
-*   [deadnix (⭐361)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
+*   [deadnix (⭐369)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

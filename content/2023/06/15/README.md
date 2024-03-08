@@ -22,7 +22,7 @@
 
 ### Projects / User Interfaces
 
-*   [Coq LSP (⭐121)](https://github.com/ejgallego/coq-lsp) - Language server and extension for the Visual Studio Code and VSCodium editors with custom document checking engine.
+*   [Coq LSP (⭐126)](https://github.com/ejgallego/coq-lsp) - Language server and extension for the Visual Studio Code and VSCodium editors with custom document checking engine.
 
 ### Projects / Type Theory and Mathematics
 
@@ -44,11 +44,11 @@
 
 ### Software / Analytics
 
-*   [PoeticMetric](https://www.poeticmetric.com) - Free as in freedom, open source, privacy-first and regulation-compliant web analytics tool. ([Demo](https://www.poeticmetric.com/s?d=www.poeticmetric.com), [Source Code (⭐195)](https://github.com/th0th/poeticmetric)) `AGPL-3.0` `Docker`
+*   [PoeticMetric](https://www.poeticmetric.com) - Free as in freedom, open source, privacy-first and regulation-compliant web analytics tool. ([Demo](https://www.poeticmetric.com/s?d=www.poeticmetric.com), [Source Code (⭐200)](https://github.com/th0th/poeticmetric)) `AGPL-3.0` `Docker`
 
 ### Software / Polls and Events
 
-*   [Input](https://getinput.co) - A privacy-focused, no-code, open-source form builder designed for simplicity and brand consistency. ([Source Code (⭐108)](https://github.com/deck9/input)) `AGPL-3.0` `PHP/Nodejs/Docker`
+*   [Input](https://getinput.co) - A privacy-focused, no-code, open-source form builder designed for simplicity and brand consistency. ([Source Code (⭐119)](https://github.com/deck9/input)) `AGPL-3.0` `PHP/Nodejs/Docker`
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

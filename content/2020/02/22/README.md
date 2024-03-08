@@ -36,11 +36,11 @@
 
 ### JupyterLab Extensions
 
-*   [shortcutui (⭐55)](https://github.com/jupyterlab/jupyterlab-shortcutui) - An extension for managing keyboard shortcuts.
+*   [shortcutui (⭐54)](https://github.com/jupyterlab/jupyterlab-shortcutui) - An extension for managing keyboard shortcuts.
 
 ### Testing
 
-*   [treon (⭐288)](https://github.com/ReviewNB/treon) - Easy-to-use test framework for Jupyter Notebooks.
+*   [treon (⭐293)](https://github.com/ReviewNB/treon) - Easy-to-use test framework for Jupyter Notebooks.
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

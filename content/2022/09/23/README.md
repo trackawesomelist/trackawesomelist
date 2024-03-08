@@ -34,7 +34,7 @@
 
 ### Formatting / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.align (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-align.md) - Module of `mini.nvim` for aligning text interactively (with or without instant preview).
+*   [echasnovski/mini.nvim#mini.align (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-align.md) - Module of `mini.nvim` for aligning text interactively (with or without instant preview).
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 

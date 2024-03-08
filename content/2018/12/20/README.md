@@ -10,7 +10,7 @@
 
 ### Communications / GPS
 
-*   [micropyGPS (⭐330)](https://github.com/inmcm/micropyGPS) - Full featured GPS NMEA sentence parser.
+*   [micropyGPS (⭐331)](https://github.com/inmcm/micropyGPS) - Full featured GPS NMEA sentence parser.
 
 ### Communications / IR
 
@@ -18,7 +18,7 @@
 
 ### Communications / Radio
 
-*   [micropython-radio (⭐51)](https://github.com/peterhinch/micropython-radio) - Protocols for nRF24L01 2.4GHz radio modules.
+*   [micropython-radio (⭐52)](https://github.com/peterhinch/micropython-radio) - Protocols for nRF24L01 2.4GHz radio modules.
 
 ### Communications / RFID
 
@@ -27,21 +27,21 @@
 ### Display / LCD Character
 
 *   [Grove\_RGB\_LCD (⭐3)](https://github.com/dda/MicroPython/blob/master/Grove_RGB_LCD.py) - Driver for SeeedStudio's Grove RGB LCD.
-*   [micropython-i2c-lcd (⭐24)](https://github.com/Bucknalla/micropython-i2c-lcd) - Driver for I2C 2x16 LCD Screens.
-*   [python\_lcd (⭐289)](https://github.com/dhylands/python_lcd) - Driver for HD44780-compatible dot matrix LCDs.
+*   [micropython-i2c-lcd (⭐26)](https://github.com/Bucknalla/micropython-i2c-lcd) - Driver for I2C 2x16 LCD Screens.
+*   [python\_lcd (⭐292)](https://github.com/dhylands/python_lcd) - Driver for HD44780-compatible dot matrix LCDs.
 
 ### Display / LCD Graphic
 
-*   [micropython-pcd8544 (⭐61)](https://github.com/mcauser/micropython-pcd8544) - Driver for Nokia 5110 PCD8544 84x48 LCD modules.
+*   [micropython-pcd8544 (⭐63)](https://github.com/mcauser/micropython-pcd8544) - Driver for Nokia 5110 PCD8544 84x48 LCD modules.
 *   [micropython-st7920 (⭐11)](https://github.com/ShrimpingIt/micropython-st7920) - Library for simple graphic primitives on ST7920 128x64 monochrome LCD panel using ESP8266 and SPI.
 *   [MicroPython\_PCD8544 (⭐3)](https://github.com/AnthonyKNorman/MicroPython_PCD8544) - ESP8266 driver for Nokia 5110 PCD8544.
 
 ### Display / LCD TFT
 
-*   [MicroPython-ST7735 (⭐156)](https://github.com/boochow/MicroPython-ST7735) - ESP32 version of GuyCarvers's ST7735 TFT LCD driver.
+*   [MicroPython-ST7735 (⭐162)](https://github.com/boochow/MicroPython-ST7735) - ESP32 version of GuyCarvers's ST7735 TFT LCD driver.
 *   [micropython-st7735 (⭐24)](https://github.com/hosaka/micropython-st7735) - Driver for ST7735 TFT LCDs.
 *   [MicroPython\_ST7735 (⭐23)](https://github.com/AnthonyKNorman/MicroPython_ST7735) - Driver for ST7735 128x128 TFT.
-*   [ST7735 (⭐126)](https://github.com/GuyCarver/MicroPython/blob/master/lib/ST7735.py) - Driver for ST7735 TFT LCDs.
+*   [ST7735 (⭐129)](https://github.com/GuyCarver/MicroPython/blob/master/lib/ST7735.py) - Driver for ST7735 TFT LCDs.
 
 ### Display / LED Matrix
 
@@ -49,7 +49,7 @@
 
 ### Display / LED Segment
 
-*   [micropython-tm1637 (⭐169)](https://github.com/mcauser/micropython-tm1637) - Driver for TM1637 quad 7-segment LED modules.
+*   [micropython-tm1637 (⭐170)](https://github.com/mcauser/micropython-tm1637) - Driver for TM1637 quad 7-segment LED modules.
 
 ### Display / LEDs
 
@@ -108,7 +108,7 @@
 
 *   [jbcrypt](http://www.mindrot.org/projects/jBCrypt/) - jBCrypt is an implementation the OpenBSD Blowfish password hashing
     algorithm.
-*   [Keycloak (⭐18k)](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services.
+*   [Keycloak (⭐19k)](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services.
 *   [Project Kalium](http://abstractj.github.io/kalium/) - Java binding to the Networking and Cryptography (NaCl) library with the awesomeness of libsodium.
 
 ## [5. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
@@ -182,7 +182,7 @@
 
 *   [adacore-video-tutorials](https://www.youtube.com/playlist?list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o) - AdaCore University Video Tutorials.
 *   [simple-games](https://drive.google.com/file/d/1hdLc9nZzTnBDcN9qJeDlJm1F9IL91Lvi/view) - Learning Ada 2012 by writing simple games.
-*   [spark-by-example (⭐149)](https://github.com/tofgarion/spark-by-example) - Collection of verified functions and data types in SPARK.
+*   [spark-by-example (⭐150)](https://github.com/tofgarion/spark-by-example) - Collection of verified functions and data types in SPARK.
 
 ### Specialties
 
@@ -213,7 +213,7 @@
 
 *   [gprbuild (⭐62)](https://github.com/AdaCore/gprbuild) - Adacore multi-language software build tool.
 *   [ravenadm (⭐18)](https://github.com/jrmarino/ravenadm) - Administration tool for Ravenports <http://www.ravenports.com>.
-*   [synth (⭐244)](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools).
+*   [synth (⭐245)](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools).
 
 ### Continuous Integration / Apache License
 
@@ -221,7 +221,7 @@
 
 ### Runtimes / Apache License
 
-*   [bb-runtimes (⭐57)](https://github.com/AdaCore/bb-runtimes) - GNAT bare metal board support package (BSP).
+*   [bb-runtimes (⭐59)](https://github.com/AdaCore/bb-runtimes) - GNAT bare metal board support package (BSP).
 *   [avr-ada](https://sourceforge.net/projects/avr-ada) - GNAT for 8-bit AVR microcontrollers.
 
 ### OS and Kernels / Apache License
@@ -232,7 +232,7 @@
 ### Games / Apache License
 
 *   [unity-ada-tetris](https://blog.adacore.com/unity-ada) - Tetris, in Ada, for the Unity game engine.
-*   [tictactoe (⭐2)](https://github.com/AdaCore/tictactoe) - A tictactoe game written and proven in SPARK/Ada.
+*   [tictactoe (⭐3)](https://github.com/AdaCore/tictactoe) - A tictactoe game written and proven in SPARK/Ada.
 *   [ada-gate (⭐18)](https://github.com/fastrgv/AdaGate) - AdaGate is a first-person 3D sokoban puzzle game within a Stargate / Portal fantasy setting for Windows, OS-X and Linux.
 *   [rufas-cube (⭐4)](https://github.com/fastrgv/RufasCube) - RufasCube is a puzzle game for Windows, OS-X and GNU Linux (it looks like a rubic cube but it's a slider, not a twister).
 *   [ada-venture (⭐13)](https://github.com/fastrgv/AdaVenture) - AdaVenture is a kid-friendly retro point\&click game with mazes, dragons, bats & snakes.
@@ -240,8 +240,8 @@
 
 ### Components / Apache License
 
-*   [gnatcoll-core (⭐42)](https://github.com/AdaCore/gnatcoll-core) - This is the core module of the GNAT Components Collection.
-*   [gnatcoll-bindings (⭐10)](https://github.com/AdaCore/gnatcoll-bindings) - This is the bindings module of the GNAT Components Collection.
+*   [gnatcoll-core (⭐43)](https://github.com/AdaCore/gnatcoll-core) - This is the core module of the GNAT Components Collection.
+*   [gnatcoll-bindings (⭐12)](https://github.com/AdaCore/gnatcoll-bindings) - This is the bindings module of the GNAT Components Collection.
 *   [gnatcoll-db (⭐10)](https://github.com/AdaCore/gnatcoll-db) - This is the DB module of the GNAT Components Collection.
 
 ### Distributed / Apache License
@@ -258,8 +258,8 @@
 
 ### Verification / Apache License
 
-*   [gnat-coverage (⭐29)](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage.
-*   [spark-2014 (⭐228)](https://github.com/AdaCore/spark2014/) - SPARK formal verification toolset.
+*   [gnat-coverage (⭐30)](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage.
+*   [spark-2014 (⭐233)](https://github.com/AdaCore/spark2014/) - SPARK formal verification toolset.
 
 ### Generation / Apache License
 
@@ -274,7 +274,7 @@
 ### Algorithms, Containers and Protocols / Apache License
 
 *   [ada-traits-containers (⭐27)](https://github.com/AdaCore/ada-traits-containers) - Generic Ada Library for Algorithms and Containers.
-*   [pragmarc (⭐26)](https://github.com/jrcarter/PragmARC) - PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering.
+*   [pragmarc (⭐27)](https://github.com/jrcarter/PragmARC) - PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering.
 *   [ada-id (⭐15)](https://github.com/anthony-arnold/AdaID) - Simple Ada library for generating UUIDs.
 *   [ada-ga (⭐2)](https://github.com/frett27/Ada-GA) - Genetic Algorithm Implementation for Ada.
 *   [ada-sodoku (⭐5)](https://github.com/frett27/Ada-Sodoku) - Small Library for Sodoku grid solving / finding.
@@ -292,7 +292,7 @@
 
 ### Format Readers, Writers and Checkers / Apache License
 
-*   [ada-yaml (⭐35)](https://github.com/yaml/AdaYaml) - Experimental YAML 1.3 implementation in Ada.
+*   [ada-yaml (⭐36)](https://github.com/yaml/AdaYaml) - Experimental YAML 1.3 implementation in Ada.
 *   [json-ada (⭐38)](https://github.com/onox/json-ada) - An Ada 2012 library for parsing JSON.
 *   [jwx (⭐16)](https://github.com/Componolit/jwx) - A formally verified JSON library in SPARK.
 *   [xmlada (⭐21)](https://github.com/AdaCore/xmlada) - The XML/Ada toolkit.
@@ -327,8 +327,8 @@
 
 ### Drivers / Apache License
 
-*   [ada-drivers-library (⭐220)](https://github.com/AdaCore/Ada_Drivers_Library) - Ada drivers for various MCU and sensors.
-*   [dw1000 (⭐11)](https://github.com/damaki/DW1000) - Ada/SPARK driver for the DecaWave DW1000 ultra-wideband (UWB) radio chip.
+*   [ada-drivers-library (⭐223)](https://github.com/AdaCore/Ada_Drivers_Library) - Ada drivers for various MCU and sensors.
+*   [dw1000 (⭐12)](https://github.com/damaki/DW1000) - Ada/SPARK driver for the DecaWave DW1000 ultra-wideband (UWB) radio chip.
 *   [evb1000 (⭐0)](https://github.com/damaki/EVB1000) - Ada/SPARK drivers to control the on-board peripherals of the DecaWave EVB1000 evaluation board.
 
 ### Controllers / Apache License

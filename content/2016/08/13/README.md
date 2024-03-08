@@ -44,7 +44,7 @@
 ### Standalone / Hash functions
 
 *   [Bcrypt](http://bcrypt.sourceforge.net/) - Cross-platform file encryption utility.
-*   [certbot (⭐30k)](https://github.com/certbot/certbot) - Previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
+*   [certbot (⭐31k)](https://github.com/certbot/certbot) - Previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
 *   [gpg](https://www.gnupg.org/) - Complete and free implementation of the OpenPGP standard. It allows to encrypt and sign your data and communication, features a versatile key management system. GnuPG is a command line tool with features for easy integration with other applications.
 
 ### Plugins / Git
@@ -55,14 +55,14 @@
 
 *   [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - Cryptographic library developed as a separated module of GnuPG.
 *   [libsodium (⭐12k)](https://github.com/jedisct1/libsodium) - Modern and easy-to-use crypto library.
-*   [libtomcrypt (⭐1.4k)](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit.
+*   [libtomcrypt (⭐1.5k)](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit.
 *   [NaCl](https://nacl.cr.yp.to/) - High-speed library for network communication, encryption, decryption, signatures, etc.
 *   [wolfSSL (⭐2.1k)](https://github.com/wolfSSL/wolfssl) - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
 
 ### C++ / Git
 
 *   [Botan](https://botan.randombit.net/) - Cryptography library written in `C++20`.
-*   [HElib (⭐2)](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
+*   [HElib (⭐3)](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
 *   [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - Low-level cryptographic library.
 *   [s2n (⭐4.4k)](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols.
 
@@ -98,17 +98,17 @@
 ### Java / Git
 
 *   [Flexiprovider](http://www.flexiprovider.de/) - Powerful toolkit for the Java Cryptography Architecture.
-*   [scrypt (⭐424)](https://github.com/wg/scrypt) - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
+*   [scrypt (⭐425)](https://github.com/wg/scrypt) - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
 
 ### Julia / Git
 
 *   [Crypto.jl (⭐9)](https://github.com/danielsuo/Crypto.jl) - Library that wraps OpenSSL, but also has pure Julia implementations for reference.
 *   [MbedTLS.jl (⭐40)](https://github.com/JuliaWeb/MbedTLS.jl) - Wrapper around the mbed TLS and cryptography C libary.
-*   [SHA.jl (⭐45)](https://github.com/staticfloat/SHA.jl) - Performant, 100% native-julia SHA1, SHA2-{224,256,384,512} implementation.
+*   [SHA.jl (⭐46)](https://github.com/staticfloat/SHA.jl) - Performant, 100% native-julia SHA1, SHA2-{224,256,384,512} implementation.
 
 ### Lua / Git
 
-*   [lua-lockbox (⭐338)](https://github.com/somesocks/lua-lockbox) - Collection of cryptographic primitives written in pure Lua.
+*   [lua-lockbox (⭐341)](https://github.com/somesocks/lua-lockbox) - Collection of cryptographic primitives written in pure Lua.
 
 ### PHP / Git
 
@@ -117,7 +117,7 @@
 
 ### Python / Git
 
-*   [charm (⭐506)](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
+*   [charm (⭐513)](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
 *   [cryptography](https://cryptography.io/en/latest/) - Python library which exposes cryptographic recipes and primitives.
 *   [cryptopy](https://sourceforge.net/projects/cryptopy/) - Pure python implementation of cryptographic algorithms and applications.
 *   [paramiko](http://www.paramiko.org/) - Python implementation of the SSHv2 protocol, providing both client and server functionality.
@@ -133,7 +133,7 @@
 
 ### Rust / Git
 
-*   [rust-crypto (⭐1.3k)](https://github.com/DaGenix/rust-crypto) - Mostly pure-Rust implementation of various cryptographic algorithms.
+*   [rust-crypto (⭐1.4k)](https://github.com/DaGenix/rust-crypto) - Mostly pure-Rust implementation of various cryptographic algorithms.
 
 ### Swift / Git
 

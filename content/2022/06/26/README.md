@@ -37,7 +37,7 @@
 
 *   [tfedit (⭐89)](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
 
-### Managed Terraform Platforms / IDE
+### Managed Terraform Platforms :heavy_dollar_sign: / IDE
 
 *   [Spacelift](https://spacelift.io/) - Alternative to Terraform Cloud/Enterprise. Collaborative Infrastructure Delivery Platform for Terraform :heavy\_dollar\_sign:
 

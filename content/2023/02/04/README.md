@@ -24,11 +24,11 @@
 ### Colorscheme Switchers / Diagnostics
 
 *   [4e554c4c/darkman.nvim (⭐17)](https://github.com/4e554c4c/darkman.nvim) - Follow the system dark-mode setting on Linux.
-*   [f-person/auto-dark-mode.nvim (⭐187)](https://github.com/f-person/auto-dark-mode.nvim) - Follow the system appearance on macOS.
+*   [f-person/auto-dark-mode.nvim (⭐194)](https://github.com/f-person/auto-dark-mode.nvim) - Follow the system appearance on macOS.
 
 ### Cursorline / Diagnostics
 
-*   [mawkler/modicator.nvim (⭐262)](https://github.com/mawkler/modicator.nvim) - Cursor line number mode indicator. Changes the `CursorLineNr` highlight based on Vim mode.
+*   [mawkler/modicator.nvim (⭐264)](https://github.com/mawkler/modicator.nvim) - Cursor line number mode indicator. Changes the `CursorLineNr` highlight based on Vim mode.
 
 ## [4. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

@@ -37,11 +37,11 @@
 
 ### Cloud Data Warehousing / Playground
 
-*   [DDB-Table (⭐130)](https://github.com/neuledge/ddb-table) Strongly typed querys and tables for AWS DynamoDB
+*   [DDB-Table (⭐132)](https://github.com/neuledge/ddb-table) Strongly typed querys and tables for AWS DynamoDB
 
 ### Validation / Playground
 
-*   [computed-types (⭐361)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
+*   [computed-types (⭐364)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

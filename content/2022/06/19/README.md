@@ -34,7 +34,7 @@
 
 ### Development / Engines
 
-*   [Ethereal Engine (⭐671)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
+*   [Ethereal Engine (⭐684)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

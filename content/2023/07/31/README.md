@@ -72,22 +72,22 @@
 
 ### Ports to other languages
 
-*   [LangChainJSDotNet (⭐23)](https://github.com/iassafc/LangChainJSDotNet): Use the official LangChain.js library in .NET ![GitHub Repo stars](https://img.shields.io/github/stars/iassafc/LangChainJSDotNet?style=social)
+*   [LangChainJSDotNet (⭐28)](https://github.com/iassafc/LangChainJSDotNet): Use the official LangChain.js library in .NET ![GitHub Repo stars](https://img.shields.io/github/stars/iassafc/LangChainJSDotNet?style=social)
 
 ### Open Source Projects / Knowledge Management
 
-*   [Chaindesk (⭐2.7k)](https://github.com/gmpetrov/databerry): The no-code platform for semantic search and documents retrieval ![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)
+*   [Chaindesk (⭐2.8k)](https://github.com/gmpetrov/databerry): The no-code platform for semantic search and documents retrieval ![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Code Interpreter API (⭐3.5k)](https://github.com/shroominic/codeinterpreter-api): About Open source implementation of the ChatGPT Code Interpreter ![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/codeinterpreter-api?style=social)
+*   [Code Interpreter API (⭐3.6k)](https://github.com/shroominic/codeinterpreter-api): About Open source implementation of the ChatGPT Code Interpreter ![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/codeinterpreter-api?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Autochain (⭐1.6k)](https://github.com/Forethought-Technologies/AutoChain): Build lightweight, extensible, and testable LLM Agents with AutoChain. ![GitHub Repo stars](https://img.shields.io/github/stars/Forethought-Technologies/AutoChain?style=social)
-*   [TypeChat (⭐7.2k)](https://github.com/microsoft/TypeChat): TypeChat is a library that makes it easy to build natural language interfaces using types. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TypeChat?style=social)
-*   [Marvin (⭐4k)](https://github.com/PrefectHQ/marvin): ✨ Build AI interfaces that spark joy ![GitHub Repo stars](https://img.shields.io/github/stars/PrefectHQ/marvin?style=social)
-*   [LMQL (⭐2.9k)](https://github.com/eth-sri/lmql): A programming language for large language models. ![GitHub Repo stars](https://img.shields.io/github/stars/eth-sri/lmql?style=social)
+*   [Autochain (⭐1.7k)](https://github.com/Forethought-Technologies/AutoChain): Build lightweight, extensible, and testable LLM Agents with AutoChain. ![GitHub Repo stars](https://img.shields.io/github/stars/Forethought-Technologies/AutoChain?style=social)
+*   [TypeChat (⭐7.5k)](https://github.com/microsoft/TypeChat): TypeChat is a library that makes it easy to build natural language interfaces using types. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TypeChat?style=social)
+*   [Marvin (⭐4.5k)](https://github.com/PrefectHQ/marvin): ✨ Build AI interfaces that spark joy ![GitHub Repo stars](https://img.shields.io/github/stars/PrefectHQ/marvin?style=social)
+*   [LMQL (⭐3.1k)](https://github.com/eth-sri/lmql): A programming language for large language models. ![GitHub Repo stars](https://img.shields.io/github/stars/eth-sri/lmql?style=social)
 
 ## [6. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 

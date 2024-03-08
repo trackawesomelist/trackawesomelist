@@ -62,7 +62,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [npm-scripts-autocomplete (⭐71)](https://github.com/grigorii-zander/zsh-npm-scripts-autocomplete) - Shows autocomplete suggestions from scripts found in the current directory's `package.json`. Works with `npm` and `yarn`.
+*   [npm-scripts-autocomplete (⭐72)](https://github.com/grigorii-zander/zsh-npm-scripts-autocomplete) - Shows autocomplete suggestions from scripts found in the current directory's `package.json`. Works with `npm` and `yarn`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -119,12 +119,12 @@
 
 ### Fennel / Diagnostics
 
-*   [udayvir-singh/tangerine.nvim (⭐177)](https://github.com/udayvir-singh/tangerine.nvim) - Sweet :tangerine: Fennel integration, aims to be as fast as possible.
-*   [udayvir-singh/hibiscus.nvim (⭐99)](https://github.com/udayvir-singh/hibiscus.nvim) - Flavored :hibiscus: Fennel macro library.
+*   [udayvir-singh/tangerine.nvim (⭐181)](https://github.com/udayvir-singh/tangerine.nvim) - Sweet :tangerine: Fennel integration, aims to be as fast as possible.
+*   [udayvir-singh/hibiscus.nvim (⭐100)](https://github.com/udayvir-singh/hibiscus.nvim) - Flavored :hibiscus: Fennel macro library.
 
 ### Scrolling / Diagnostics
 
-*   [declancm/cinnamon.nvim (⭐279)](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for any movement command.
+*   [declancm/cinnamon.nvim (⭐284)](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for any movement command.
 
 ## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

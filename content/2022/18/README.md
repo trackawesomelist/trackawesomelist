@@ -94,7 +94,7 @@
 
 ### Avatars
 
-*   [Exokit Avatars (⭐66)](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here (⭐6)](https://github.com/msub2/avatars).
+*   [Exokit Avatars (⭐67)](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here (⭐6)](https://github.com/msub2/avatars).
 
 ### Companies and Cooperatives / Reddit
 
@@ -122,7 +122,7 @@
 
 ### Command-Line Tools / Discovery
 
-*   [alejandra (⭐575)](https://github.com/kamadorueda/alejandra) - An opinionated Nix code formatter optimized for speed and consistency.
+*   [alejandra (⭐617)](https://github.com/kamadorueda/alejandra) - An opinionated Nix code formatter optimized for speed and consistency.
 
 ## [11. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
@@ -501,7 +501,7 @@
 ### Libraries/Frameworks / Testing
 
 *   [codecentric/hikaku (⭐194)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
-*   [robstoll/atrium (⭐495)](https://github.com/robstoll/atrium) - Multiplatform assertion library for Kotlin supporting i18n.
+*   [robstoll/atrium (⭐501)](https://github.com/robstoll/atrium) - Multiplatform assertion library for Kotlin supporting i18n.
 
 ## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -552,7 +552,7 @@
 
 ### Other multimodal data formats / Ruby
 
-*   [General Bikeshare Feed Specification (GBFS) (⭐749)](https://github.com/NABSA/gbfs) - Open data standard for real-time bikeshare information developed by members of the [North American Bikeshare Association (NABSA)](http://nabsa.net/).
+*   [General Bikeshare Feed Specification (GBFS) (⭐754)](https://github.com/NABSA/gbfs) - Open data standard for real-time bikeshare information developed by members of the [North American Bikeshare Association (NABSA)](http://nabsa.net/).
     *   [gbfs-validator (⭐15)](https://github.com/PierrickP/gbfs-validator) - 3rd party tool to validate GBFS feeds.
     *   [gbfs R package (⭐0)](https://github.com/ds-civic-data/gbfs) - Functions to interface with GBFS feeds in R, allowing users to save and accumulate tidy .rds datasets for specified cities/bikeshare programs.
     *   [GBFS Documentation Platform](https://gbfs.mobilitydata.org/) - Documentation platform for the General Bikeshare Feed Specification, maintaned by [MobilityData](https://mobilitydata.org/). View the GBFS specification, change proposals, policy guides, and technical tools.
@@ -573,7 +573,7 @@
 
 ### Runtimes/Frontends
 
-*   [voila (⭐4.9k)](https://github.com/voila-dashboards/voila) - Notebooks as interactive standalone web applications.
+*   [voila (⭐5.1k)](https://github.com/voila-dashboards/voila) - Notebooks as interactive standalone web applications.
 
 ### Collaboration/Education
 
@@ -581,45 +581,45 @@
 
 ### Visualization
 
-*   [ipycytoscape (⭐237)](https://github.com/cytoscape/ipycytoscape) - Widget for interactive graph visualization in Jupyter using cytoscape.js. <!--lint disable double-link-->
-*   [ipydagred3 (⭐60)](https://github.com/timkpaine/ipydagred3) - [ipywidgets (⭐2.9k)](https://github.com/jupyter-widgets/ipywidgets) library for drawing directed acyclic graphs in jupyterlab using dagre-d3.  <!--lint enable double-link-->
+*   [ipycytoscape (⭐257)](https://github.com/cytoscape/ipycytoscape) - Widget for interactive graph visualization in Jupyter using cytoscape.js. <!--lint disable double-link-->
+*   [ipydagred3 (⭐67)](https://github.com/timkpaine/ipydagred3) - [ipywidgets (⭐3k)](https://github.com/jupyter-widgets/ipywidgets) library for drawing directed acyclic graphs in jupyterlab using dagre-d3.  <!--lint enable double-link-->
 *   [IPySigma (⭐16)](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter notebooks.
 *   [ipyvolume (⭐1.9k)](https://github.com/maartenbreddels/ipyvolume) - 3D plotting for Python in Jupyter based on widgets and WebGL.
-*   [ipywebrtc (⭐229)](https://github.com/maartenbreddels/ipywebrtc) - Video/Audio streaming in Jupyter. <!--lint disable double-link-->
-*   [ipywidgets (⭐2.9k)](https://github.com/jupyter-widgets/ipywidgets) - UI widgets for Jupyter.  <!--lint enable double-link-->
-*   [jupyter-manim (⭐188)](https://github.com/krassowski/jupyter-manim) - Display [manim (⭐53k)](https://github.com/3b1b/manim) (Mathematical Animation Engine) videos or GIFs in Jupyter notebooks.
-*   [Perspective (⭐6.6k)](https://github.com/finos/perspective) - Data visualization and analytics component, especially for large/streaming datasets.
-*   [tributary (⭐12)](https://github.com/timkpaine/tributary) - Python data streams with Jupyter support.
+*   [ipywebrtc (⭐230)](https://github.com/maartenbreddels/ipywebrtc) - Video/Audio streaming in Jupyter. <!--lint disable double-link-->
+*   [ipywidgets (⭐3k)](https://github.com/jupyter-widgets/ipywidgets) - UI widgets for Jupyter.  <!--lint enable double-link-->
+*   [jupyter-manim (⭐190)](https://github.com/krassowski/jupyter-manim) - Display [manim (⭐57k)](https://github.com/3b1b/manim) (Mathematical Animation Engine) videos or GIFs in Jupyter notebooks.
+*   [Perspective (⭐7.3k)](https://github.com/finos/perspective) - Data visualization and analytics component, especially for large/streaming datasets.
+*   [tributary (⭐19)](https://github.com/timkpaine/tributary) - Python data streams with Jupyter support.
 
 ### Tables
 
-*   [ipyregulartable (⭐92)](https://github.com/jpmorganchase/ipyregulartable) - High performance, editable, stylable datagrids in Jupyter.
-*   [ipysheet (⭐521)](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter.
+*   [ipyregulartable (⭐97)](https://github.com/jpmorganchase/ipyregulartable) - High performance, editable, stylable datagrids in Jupyter.
+*   [ipysheet (⭐534)](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter.
 
 ### Rendering/Publishing/Conversion
 
-*   [jupyterlab\_nbconvert\_nocode (⭐14)](https://github.com/timkpaine/jupyterlab_nbconvert_nocode) - NBConvert exporters for PDF/HTML export without code cells.
+*   [jupyterlab\_nbconvert\_nocode (⭐17)](https://github.com/timkpaine/jupyterlab_nbconvert_nocode) - NBConvert exporters for PDF/HTML export without code cells.
 
 ### Version Control
 
-*   [databooks (⭐99)](https://github.com/datarootsio/databooks) - A command-line utility that eases versioning and sharing of notebooks.
+*   [databooks (⭐102)](https://github.com/datarootsio/databooks) - A command-line utility that eases versioning and sharing of notebooks.
 
 ### JupyterLab Extensions
 
-*   [jupyter-fs (⭐156)](https://github.com/jpmorganchase/jupyter-fs) - A filesystem-like content manager for multiple backends in Jupyter.
-*   [jupyter-notify (⭐575)](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion. <!--lint disable double-link-->
-*   [jupyterlab-executor (⭐7)](https://github.com/gavincyi/jupyterlab-executor) - Extension to execute scripts from the Jupyterlab file browser. <!--lint disable double-link-->
-*   [jupyterlab-kyso (⭐1)](https://github.com/kyso-io/jupyterlab-extension) - Extension to publish notebooks to the [Kyso](https://kyso.io) platform from Jupyterlab. <!--lint enable double-link-->
-*   [jupyterlab-notifications (⭐49)](https://github.com/mwakaba2/jupyterlab-notifications) - Customizable notebook cell completion browser notifications for JupyterLab.
-*   [jupyterlab\_autoversion (⭐63)](https://github.com/timkpaine/jupyterlab_autoversion) - Automatically version notebooks in JupyterLab.
-*   [jupyterlab\_commands (⭐45)](https://github.com/timkpaine/jupyterlab_commands) - Add arbitrary python commands to the JupyterLab command palette.
-*   [jupyterlab\_iframe (⭐99)](https://github.com/timkpaine/jupyterlab_iframe) - View HTML as an embedded iframe in JupyterLab.
-*   [jupyterlab\_miami\_nights (⭐93)](https://github.com/timkpaine/jupyterlab_miami_nights) - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night themes.
+*   [jupyter-fs (⭐175)](https://github.com/jpmorganchase/jupyter-fs) - A filesystem-like content manager for multiple backends in Jupyter.
+*   [jupyter-notify (⭐578)](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion. <!--lint disable double-link-->
+*   [jupyterlab-executor (⭐13)](https://github.com/gavincyi/jupyterlab-executor) - Extension to execute scripts from the Jupyterlab file browser. <!--lint disable double-link-->
+*   [jupyterlab-kyso (⭐2)](https://github.com/kyso-io/jupyterlab-extension) - Extension to publish notebooks to the [Kyso](https://kyso.io) platform from Jupyterlab. <!--lint enable double-link-->
+*   [jupyterlab-notifications (⭐51)](https://github.com/mwakaba2/jupyterlab-notifications) - Customizable notebook cell completion browser notifications for JupyterLab.
+*   [jupyterlab\_autoversion (⭐71)](https://github.com/timkpaine/jupyterlab_autoversion) - Automatically version notebooks in JupyterLab.
+*   [jupyterlab\_commands (⭐49)](https://github.com/timkpaine/jupyterlab_commands) - Add arbitrary python commands to the JupyterLab command palette.
+*   [jupyterlab\_iframe (⭐101)](https://github.com/timkpaine/jupyterlab_iframe) - View HTML as an embedded iframe in JupyterLab.
+*   [jupyterlab\_miami\_nights (⭐108)](https://github.com/timkpaine/jupyterlab_miami_nights) - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night themes.
 
 ### Testing
 
-*   [nbcelltests (⭐79)](https://github.com/jpmorganchase/nbcelltests) - Cell-by-cell testing for notebooks in Jupyter.
-*   [sphinxcontrib-jupyter (⭐72)](https://github.com/QuantEcon/sphinxcontrib-jupyter) - Sphinx extension for generating Jupyter notebooks.
+*   [nbcelltests (⭐81)](https://github.com/jpmorganchase/nbcelltests) - Cell-by-cell testing for notebooks in Jupyter.
+*   [sphinxcontrib-jupyter (⭐74)](https://github.com/QuantEcon/sphinxcontrib-jupyter) - Sphinx extension for generating Jupyter notebooks.
 
 ### Hosted Notebook Solutions
 
@@ -633,9 +633,9 @@
 
 ### Articles/Guides/Tutorials
 
-*   [JupyterLab - Your Personal Data Science Workbench (⭐16)](https://github.com/markusschanta/talks/tree/master/2018-03%20-%20JupyterLab%20-%20Full%20Stack%20Quants) - Talk about JupyterLab at Full Stack Quants London.
-*   [List of Jupyter notebooks (⭐14k)](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
-*   [List of Jupyter notebooks II (⭐2k)](https://github.com/jupyter-naas/awesome-notebooks)
+*   [JupyterLab - Your Personal Data Science Workbench (⭐15)](https://github.com/markusschanta/talks/tree/master/2018-03%20-%20JupyterLab%20-%20Full%20Stack%20Quants) - Talk about JupyterLab at Full Stack Quants London.
+*   [List of Jupyter notebooks (⭐15k)](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+*   [List of Jupyter notebooks II (⭐2.2k)](https://github.com/jupyter-naas/awesome-notebooks)
 *   [The Littlest JupyterHub](https://the-littlest-jupyterhub.readthedocs.io/en/latest/) - JupyterHub distribution for 1-50 users on a single server; more lightweight than the Zero to JupyterHub setup.
 
 ## [43. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
@@ -696,7 +696,7 @@
 ### universally from / multiple sources
 
 *   [RSSHub](https://docs.rsshub.app/) <sup>[300](https://t.me/s/aboutrss/300), [352](https://t.me/s/aboutrss/352), [405](https://t.me/s/aboutrss/405), [422](https://t.me/s/aboutrss/422), [428](https://t.me/s/aboutrss/428), [443](https://t.me/s/aboutrss/443), [471](https://t.me/s/aboutrss/471), [474](https://t.me/s/aboutrss/474), [610](https://t.me/s/aboutrss/610), [800](https://t.me/s/aboutrss/800), [836](https://t.me/aboutrss/836), [892](https://t.me/aboutrss/892), [962](https://t.me/aboutrss/962), [982](https://t.me/s/aboutrss/982), [983](https://t.me/s/aboutrss/983), [1038](https://t.me/s/aboutrss/1038), [1040](https://t.me/s/aboutrss/1040), [1091](https://t.me/s/aboutrss/1091)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/DIYgod/RSSHub)
-    *   [RSSbot (⭐31)](https://github.com/yindaheng98/RSSBot): connecting RSS feed generated by RSSHub and TTRSS <sup>[1337](https://t.me/s/aboutrss/1337)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yindaheng98/RSSBot)
+    *   [RSSbot (⭐32)](https://github.com/yindaheng98/RSSBot): connecting RSS feed generated by RSSHub and TTRSS <sup>[1337](https://t.me/s/aboutrss/1337)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yindaheng98/RSSBot)
 
 ### universally from / webpage/html
 
@@ -716,7 +716,7 @@
 
 ### specifically from (*a certain platform*) / Wechat Subscription Accounts (微信公众号)
 
-*   [Liuli (⭐851)](https://github.com/liuli-io/liuli) <sup>[1167](https://t.me/s/aboutrss/1167)</sup>
+*   [Liuli (⭐856)](https://github.com/liuli-io/liuli) <sup>[1167](https://t.me/s/aboutrss/1167)</sup>
 
 ### RSS2KINDLE / Docsify
 
@@ -774,26 +774,26 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [ntfy](https://ntfy.sh/) - Push notifications to phone or desktop using HTTP PUT/POST, with Android app, CLI and web app, similar to Pushover and Gotify. ([Demo](https://ntfy.sh/app), [Source Code (⭐16k)](https://github.com/binwiederhier/ntfy), [Clients (⭐431)](https://github.com/binwiederhier/ntfy-android)) `Apache-2.0/GPL-2.0` `Go/Docker/K8S`
-*   [Typebot](https://typebot.io) - Conversational app builder (alternative to Typeform or Landbot). ([Source Code (⭐4.4k)](https://github.com/baptisteArno/typebot.io)) `AGPL-3.0` `Docker`
+*   [ntfy](https://ntfy.sh/) - Push notifications to phone or desktop using HTTP PUT/POST, with Android app, CLI and web app, similar to Pushover and Gotify. ([Demo](https://ntfy.sh/app), [Source Code (⭐16k)](https://github.com/binwiederhier/ntfy), [Clients (⭐440)](https://github.com/binwiederhier/ntfy-android)) `Apache-2.0/GPL-2.0` `Go/Docker/K8S`
+*   [Typebot](https://typebot.io) - Conversational app builder (alternative to Typeform or Landbot). ([Source Code (⭐4.5k)](https://github.com/baptisteArno/typebot.io)) `AGPL-3.0` `Docker`
 
 ### Software / Communication - SIP
 
-*   [Eqivo](https://eqivo.org/) - Eqivo implements an API layer on top of FreeSWITCH facilitating integration between web applications and voice/video-enabled endpoints such as traditional phone lines (PSTN), VoIP phones, webRTC clients etc. ([Source Code (⭐64)](https://github.com/rtckit/eqivo)) `MIT` `Docker/PHP`
+*   [Eqivo](https://eqivo.org/) - Eqivo implements an API layer on top of FreeSWITCH facilitating integration between web applications and voice/video-enabled endpoints such as traditional phone lines (PSTN), VoIP phones, webRTC clients etc. ([Source Code (⭐66)](https://github.com/rtckit/eqivo)) `MIT` `Docker/PHP`
 
 ### Software / Miscellaneous
 
-*   [Noisedash (⭐259)](https://github.com/kaythomas0/noisedash) - Self-hostable web tool for generating ambient noises/sounds using audio tools and user-uploadable samples. `AGPL-3.0` `Nodejs/Docker`
+*   [Noisedash (⭐260)](https://github.com/kaythomas0/noisedash) - Self-hostable web tool for generating ambient noises/sounds using audio tools and user-uploadable samples. `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Pastebins
 
-*   [paaster](https://paaster.io) - Paaster is a secure by default end-to-end encrypted pastebin built with the objective of simplicity. ([Source Code (⭐391)](https://github.com/WardPearce/paaster)) `GPL-3.0` `Docker`
+*   [paaster](https://paaster.io) - Paaster is a secure by default end-to-end encrypted pastebin built with the objective of simplicity. ([Source Code (⭐395)](https://github.com/WardPearce/paaster)) `GPL-3.0` `Docker`
 
 ### Software / Time Tracking
 
 *   [ActivityWatch](https://activitywatch.net) - An app that automatically tracks how you spend time on your devices. ([Source Code (⭐10k)](https://github.com/ActivityWatch/activitywatch)) `MPL-2.0` `Python`
-*   [Kimai](https://www.kimai.org/) - Kimai is a free & open source timetracker. It tracks work time and prints out a summary of your activities on demand. ([Demo](https://www.kimai.org/demo/), [Source Code (⭐2.7k)](https://github.com/kimai/kimai)) `MIT` `PHP`
-*   [TimeTagger](https://timetagger.app) - An open source time-tracker based on an interactive timeline and powerful reporting. ([Demo](https://timetagger.app/app/demo), [Source Code (⭐857)](https://github.com/almarklein/timetagger)) `GPL-3.0` `Python`
+*   [Kimai](https://www.kimai.org/) - Kimai is a free & open source timetracker. It tracks work time and prints out a summary of your activities on demand. ([Demo](https://www.kimai.org/demo/), [Source Code (⭐2.7k)](https://github.com/kimai/kimai)) `AGPL-3.0` `PHP`
+*   [TimeTagger](https://timetagger.app) - An open source time-tracker based on an interactive timeline and powerful reporting. ([Demo](https://timetagger.app/app/demo), [Source Code (⭐866)](https://github.com/almarklein/timetagger)) `GPL-3.0` `Python`
 
 ## [48. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
@@ -815,9 +815,9 @@
 
 ### Completion / Diagnostics
 
-*   [hrsh7th/nvim-cmp (⭐6.6k)](https://github.com/hrsh7th/nvim-cmp) - A completion plugin written in Lua. New version of nvim-compe.
-    *   [lukas-reineke/cmp-under-comparator (⭐151)](https://github.com/lukas-reineke/cmp-under-comparator) - A nvim-cmp function for better sorting.
-    *   [SergioRibera/cmp-dotenv (⭐30)](https://github.com/SergioRibera/cmp-dotenv) - Load environment variables from the shell or from your `.env` files.
+*   [hrsh7th/nvim-cmp (⭐6.7k)](https://github.com/hrsh7th/nvim-cmp) - A completion plugin written in Lua. New version of nvim-compe.
+    *   [lukas-reineke/cmp-under-comparator (⭐155)](https://github.com/lukas-reineke/cmp-under-comparator) - A nvim-cmp function for better sorting.
+    *   [SergioRibera/cmp-dotenv (⭐32)](https://github.com/SergioRibera/cmp-dotenv) - Load environment variables from the shell or from your `.env` files.
 
 ### Markdown and LaTeX / Diagnostics
 
@@ -825,7 +825,7 @@
 
 ### Session / Diagnostics
 
-*   [Shatur/neovim-session-manager (⭐431)](https://github.com/Shatur/neovim-session-manager) - A simple wrapper around :mksession.
+*   [Shatur/neovim-session-manager (⭐438)](https://github.com/Shatur/neovim-session-manager) - A simple wrapper around :mksession.
 
 ### Preconfigured Configuration / Diagnostics
 

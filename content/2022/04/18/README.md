@@ -10,7 +10,7 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [AntialiasedLine2D (⭐109)](https://github.com/godot-extended-libraries/godot-antialiased-line2d) - Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (GLES3 + GLES2, all platforms).
+*   [AntialiasedLine2D (⭐111)](https://github.com/godot-extended-libraries/godot-antialiased-line2d) - Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (GLES3 + GLES2, all platforms).
 *   [Godot VirtualJoystick (⭐11)](https://github.com/mcunha-br/Godot_VirtualJoystick) - A simple vitual joystick for mobile devices.
 
 ## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
@@ -56,8 +56,8 @@
 
 ### (requires Neovim 0.5)
 
-*   [onsails/lspkind.nvim (⭐1.2k)](https://github.com/onsails/lspkind.nvim) - The plugin adds vscode-like icons to Neovim LSP completions.
-*   [scalameta/nvim-metals (⭐410)](https://github.com/scalameta/nvim-metals) - Neovim plugin for Metals, the Scala language server, using Neovim's builtin LSP.
+*   [onsails/lspkind.nvim (⭐1.3k)](https://github.com/onsails/lspkind.nvim) - The plugin adds vscode-like icons to Neovim LSP completions.
+*   [scalameta/nvim-metals (⭐416)](https://github.com/scalameta/nvim-metals) - Neovim plugin for Metals, the Scala language server, using Neovim's builtin LSP.
 
 ## [7. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 

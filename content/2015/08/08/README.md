@@ -22,7 +22,7 @@
 
 *   [Overcast](https://overcast.fm) - An elegant podcast tracker for iOS and the web
 *   [AntennaPod](http://antennapod.org) - (Android and Open Source)
-*   [Soundwaves (⭐142)](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
+*   [Soundwaves (⭐139)](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
 *   [DoggCatcher](http://www.doggcatcher.com) - Android Podcast player
 
 ## [3. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)

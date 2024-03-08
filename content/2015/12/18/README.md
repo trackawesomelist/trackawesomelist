@@ -50,7 +50,7 @@
 
 ### Libs
 
-*   [Capcake (⭐113)](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano.
+*   [Capcake (⭐114)](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano.
 *   [Chronos (⭐1.3k)](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
 *   [Composer Installers (⭐1.4k)](https://github.com/composer/installers) - A multi framework Composer library installer.
 *   [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.

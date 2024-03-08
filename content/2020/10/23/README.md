@@ -16,7 +16,7 @@
 
 ### Third-Party Packages / Content Management Systems
 
-*   [feincms (⭐880)](https://github.com/feincms/feincms) - An extensible Django-based CMS.
+*   [feincms (⭐886)](https://github.com/feincms/feincms) - An extensible Django-based CMS.
 
 ## [3. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 

@@ -21,7 +21,7 @@
 
 ### Other / [Other](#other-1)
 
-*   [promformat (⭐30)](https://github.com/facetoe/promformat) — Promformat is a PromQL formatter written in Python.
+*   [promformat (⭐31)](https://github.com/facetoe/promformat) — Promformat is a PromQL formatter written in Python.
 *   [promval (⭐3)](https://github.com/facetoe/promval) — PromQL validator written in Python. It can be used to validate that PromQL expressions are written as expected.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)

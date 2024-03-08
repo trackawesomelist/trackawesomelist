@@ -182,7 +182,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [smjonas/inc-rename.nvim (⭐467)](https://github.com/smjonas/inc-rename.nvim) - Provides an incremental LSP rename command based on Neovim's command-preview feature.
+*   [smjonas/inc-rename.nvim (⭐482)](https://github.com/smjonas/inc-rename.nvim) - Provides an incremental LSP rename command based on Neovim's command-preview feature.
 
 ### Preconfigured Configuration / Diagnostics
 

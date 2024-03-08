@@ -55,7 +55,7 @@
 ### Science / Apache License
 
 *   [units-of-measurement](http://www.dmitry-kazakov.de/ada/units.htm) - Library to manage units of measurement with dimension checking.
-*   [si\_units (⭐6)](https://github.com/HeisenbugLtd/si_units) - Utility library to pretty print physical values in proper metric units.
+*   [si\_units (⭐8)](https://github.com/HeisenbugLtd/si_units) - Utility library to pretty print physical values in proper metric units.
 
 ## [6. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -103,8 +103,8 @@
 
 ### Editing Support / Diagnostics
 
-*   [HiPhish/rainbow-delimiters.nvim (⭐334)](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters with Tree-sitter.
-*   [00sapo/visual.nvim (⭐176)](https://github.com/00sapo/visual.nvim) - Provides keybindings for creating a Kakoune/Helix-like experience: first select and then choose the editing command.
+*   [HiPhish/rainbow-delimiters.nvim (⭐349)](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters with Tree-sitter.
+*   [00sapo/visual.nvim (⭐179)](https://github.com/00sapo/visual.nvim) - Provides keybindings for creating a Kakoune/Helix-like experience: first select and then choose the editing command.
 
 ## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 

@@ -68,7 +68,7 @@
 
 ### Development / Discovery
 
-*   [Snowfall Lib (⭐212)](https://github.com/snowfallorg/lib) - A library that makes it easy to manage your Nix flake by imposing an opinionated file structure.
+*   [Snowfall Lib (⭐235)](https://github.com/snowfallorg/lib) - A library that makes it easy to manage your Nix flake by imposing an opinionated file structure.
 
 ## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Software / Document Management
 
-*   [DocKing](https://docking.shipsaas.tech) - Document management service/microservice that handles templates and renders them in PDF format, all in one place. ([Demo](https://docking-demo.shipsaas.tech/console), [Source Code (⭐123)](https://github.com/shipsaas/docking)) `MIT` `PHP/Nodejs/Docker`
+*   [DocKing](https://docking.shipsaas.tech) - Document management service/microservice that handles templates and renders them in PDF format, all in one place. ([Demo](https://docking-demo.shipsaas.tech/console), [Source Code (⭐145)](https://github.com/shipsaas/docking)) `MIT` `PHP/Nodejs/Docker`
 
 ### Software / Groupware
 
@@ -114,7 +114,7 @@
 
 ### Software / Miscellaneous
 
-*   [Flyimg](https://flyimg.io) - Resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system. ([Demo](https://demo.flyimg.io), [Source Code (⭐877)](https://github.com/flyimg/flyimg)) `MIT` `Docker`
+*   [Flyimg](https://flyimg.io) - Resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system. ([Demo](https://demo.flyimg.io), [Source Code (⭐891)](https://github.com/flyimg/flyimg)) `MIT` `Docker`
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -137,7 +137,7 @@
 
 ### Project / Diagnostics
 
-*   [SalOrak/whaler.nvim (⭐40)](https://github.com/SalOrak/whaler.nvim) - Telescope extension to move between directories blazingly fast.
+*   [SalOrak/whaler.nvim (⭐42)](https://github.com/SalOrak/whaler.nvim) - Telescope extension to move between directories blazingly fast.
 
 ## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

@@ -23,7 +23,7 @@
 
 ### Resources / Learning
 
-*   [Nix Notes (⭐49)](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
+*   [Nix Notes (⭐50)](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
 
 ## [4. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -57,7 +57,7 @@
 *   [excel-writer (⭐7)](https://github.com/zertovitch/excel-writer) - Create Excel files with basic formats.
 *   [generic-image-decoder (⭐14)](https://github.com/zertovitch/gid) - Multi-format image decoder library for Ada.
 *   [ada-pdf-writer (⭐14)](https://github.com/zertovitch/ada-pdf-writer) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG).
-*   [ada-bar-codes (⭐12)](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.
+*   [ada-bar-codes (⭐13)](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.
 
 ### Office / Apache License
 

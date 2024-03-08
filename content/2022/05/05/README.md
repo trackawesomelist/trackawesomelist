@@ -39,7 +39,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [robstoll/atrium (⭐495)](https://github.com/robstoll/atrium) - Multiplatform assertion library for Kotlin supporting i18n.
+*   [robstoll/atrium (⭐501)](https://github.com/robstoll/atrium) - Multiplatform assertion library for Kotlin supporting i18n.
 
 ## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -128,7 +128,7 @@
 
 ### Runtimes/Frontends
 
-*   [voila (⭐4.9k)](https://github.com/voila-dashboards/voila) - Notebooks as interactive standalone web applications.
+*   [voila (⭐5.1k)](https://github.com/voila-dashboards/voila) - Notebooks as interactive standalone web applications.
 
 ### Collaboration/Education
 
@@ -136,32 +136,32 @@
 
 ### Visualization
 
-*   [ipycytoscape (⭐237)](https://github.com/cytoscape/ipycytoscape) - Widget for interactive graph visualization in Jupyter using cytoscape.js. <!--lint disable double-link-->
-*   [ipydagred3 (⭐60)](https://github.com/timkpaine/ipydagred3) - [ipywidgets (⭐2.9k)](https://github.com/jupyter-widgets/ipywidgets) library for drawing directed acyclic graphs in jupyterlab using dagre-d3.  <!--lint enable double-link-->
+*   [ipycytoscape (⭐257)](https://github.com/cytoscape/ipycytoscape) - Widget for interactive graph visualization in Jupyter using cytoscape.js. <!--lint disable double-link-->
+*   [ipydagred3 (⭐67)](https://github.com/timkpaine/ipydagred3) - [ipywidgets (⭐3k)](https://github.com/jupyter-widgets/ipywidgets) library for drawing directed acyclic graphs in jupyterlab using dagre-d3.  <!--lint enable double-link-->
 *   [IPySigma (⭐16)](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter notebooks.
 *   [ipyvolume (⭐1.9k)](https://github.com/maartenbreddels/ipyvolume) - 3D plotting for Python in Jupyter based on widgets and WebGL.
-*   [ipywebrtc (⭐229)](https://github.com/maartenbreddels/ipywebrtc) - Video/Audio streaming in Jupyter. <!--lint disable double-link-->
-*   [ipywidgets (⭐2.9k)](https://github.com/jupyter-widgets/ipywidgets) - UI widgets for Jupyter.  <!--lint enable double-link-->
-*   [jupyter-manim (⭐188)](https://github.com/krassowski/jupyter-manim) - Display [manim (⭐53k)](https://github.com/3b1b/manim) (Mathematical Animation Engine) videos or GIFs in Jupyter notebooks.
-*   [tributary (⭐12)](https://github.com/timkpaine/tributary) - Python data streams with Jupyter support.
+*   [ipywebrtc (⭐230)](https://github.com/maartenbreddels/ipywebrtc) - Video/Audio streaming in Jupyter. <!--lint disable double-link-->
+*   [ipywidgets (⭐3k)](https://github.com/jupyter-widgets/ipywidgets) - UI widgets for Jupyter.  <!--lint enable double-link-->
+*   [jupyter-manim (⭐190)](https://github.com/krassowski/jupyter-manim) - Display [manim (⭐57k)](https://github.com/3b1b/manim) (Mathematical Animation Engine) videos or GIFs in Jupyter notebooks.
+*   [tributary (⭐19)](https://github.com/timkpaine/tributary) - Python data streams with Jupyter support.
 
 ### Tables
 
-*   [ipysheet (⭐521)](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter.
+*   [ipysheet (⭐534)](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter.
 
 ### Version Control
 
-*   [databooks (⭐99)](https://github.com/datarootsio/databooks) - A command-line utility that eases versioning and sharing of notebooks.
+*   [databooks (⭐102)](https://github.com/datarootsio/databooks) - A command-line utility that eases versioning and sharing of notebooks.
 
 ### JupyterLab Extensions
 
-*   [jupyter-fs (⭐156)](https://github.com/jpmorganchase/jupyter-fs) - A filesystem-like content manager for multiple backends in Jupyter.
-*   [jupyter-notify (⭐575)](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion. <!--lint disable double-link-->
-*   [jupyterlab-executor (⭐7)](https://github.com/gavincyi/jupyterlab-executor) - Extension to execute scripts from the Jupyterlab file browser. <!--lint disable double-link-->
-*   [jupyterlab-kyso (⭐1)](https://github.com/kyso-io/jupyterlab-extension) - Extension to publish notebooks to the [Kyso](https://kyso.io) platform from Jupyterlab. <!--lint enable double-link-->
-*   [jupyterlab-notifications (⭐49)](https://github.com/mwakaba2/jupyterlab-notifications) - Customizable notebook cell completion browser notifications for JupyterLab.
-*   [jupyterlab\_iframe (⭐99)](https://github.com/timkpaine/jupyterlab_iframe) - View HTML as an embedded iframe in JupyterLab.
-*   [jupyterlab\_miami\_nights (⭐93)](https://github.com/timkpaine/jupyterlab_miami_nights) - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night themes.
+*   [jupyter-fs (⭐175)](https://github.com/jpmorganchase/jupyter-fs) - A filesystem-like content manager for multiple backends in Jupyter.
+*   [jupyter-notify (⭐578)](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion. <!--lint disable double-link-->
+*   [jupyterlab-executor (⭐13)](https://github.com/gavincyi/jupyterlab-executor) - Extension to execute scripts from the Jupyterlab file browser. <!--lint disable double-link-->
+*   [jupyterlab-kyso (⭐2)](https://github.com/kyso-io/jupyterlab-extension) - Extension to publish notebooks to the [Kyso](https://kyso.io) platform from Jupyterlab. <!--lint enable double-link-->
+*   [jupyterlab-notifications (⭐51)](https://github.com/mwakaba2/jupyterlab-notifications) - Customizable notebook cell completion browser notifications for JupyterLab.
+*   [jupyterlab\_iframe (⭐101)](https://github.com/timkpaine/jupyterlab_iframe) - View HTML as an embedded iframe in JupyterLab.
+*   [jupyterlab\_miami\_nights (⭐108)](https://github.com/timkpaine/jupyterlab_miami_nights) - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night themes.
 
 ### Hosted Notebook Solutions
 
@@ -175,9 +175,9 @@
 
 ### Articles/Guides/Tutorials
 
-*   [JupyterLab - Your Personal Data Science Workbench (⭐16)](https://github.com/markusschanta/talks/tree/master/2018-03%20-%20JupyterLab%20-%20Full%20Stack%20Quants) - Talk about JupyterLab at Full Stack Quants London.
-*   [List of Jupyter notebooks (⭐14k)](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
-*   [List of Jupyter notebooks II (⭐2k)](https://github.com/jupyter-naas/awesome-notebooks)
+*   [JupyterLab - Your Personal Data Science Workbench (⭐15)](https://github.com/markusschanta/talks/tree/master/2018-03%20-%20JupyterLab%20-%20Full%20Stack%20Quants) - Talk about JupyterLab at Full Stack Quants London.
+*   [List of Jupyter notebooks (⭐15k)](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+*   [List of Jupyter notebooks II (⭐2.2k)](https://github.com/jupyter-naas/awesome-notebooks)
 *   [The Littlest JupyterHub](https://the-littlest-jupyterhub.readthedocs.io/en/latest/) - JupyterHub distribution for 1-50 users on a single server; more lightweight than the Zero to JupyterHub setup.
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)

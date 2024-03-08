@@ -1,24 +1,73 @@
 # Awesome List Updates on Mar 08, 2024
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+## [1. Awesome Distraction Blocker](/content/stan8086/awesome-distraction-blocker/README.md)
+
+### Apps and Tools / Windows
+
+*   [FocusWriter](https://gottcode.org/focuswriter/) - A distraction-free writing environment.
+*   [Cold Turkey](https://getcoldturkey.com/) - [Review](https://productivity.directory/cold-turkey) - Block distracting websites and applications.
+
+### Apps and Tools / MacOS
+
+*   [SelfControl](https://selfcontrolapp.com/) - [Review](https://productivity.directory/selfcontrol) - A free and open-source application for Mac OS X that lets you block your own access to distracting websites.
+*   [HeyFocus](https://heyfocus.com/) - [Review](https://productivity.directory/heyfocus) - Block websites and applications to improve productivity.
+
+### Apps and Tools / Linux
+
+*   [LeechBlock NG (⭐547)](https://github.com/proginosko/LeechBlockNG) - A simple productivity tool designed to block distracting websites.
+
+### Apps and Tools / Browser Extensions
+
+*   [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji) - [Review](https://productivity.directory/stayfocusd) - Increase your productivity by limiting the amount of time spent on time-wasting websites.
+*   [Freedom](https://freedom.to/) - [Review](https://productivity.directory/freedom) - Block distractions on all of your devices.
+
+### Apps and Tools / Mobile Apps
+
+*   [Forest](https://www.forestapp.cc/) - [Review](https://productivity.directory/forest) - Stay focused, be present, and turn your focused moments into a lovely forest.
+*   [Offtime](http://offtime.co/) - Disconnect from smartphone overuse.
+
+### Articles and Guides / Mobile Apps
+
+*   [How to Block Distracting Websites: 3 Methods to Increase Productivity](https://example.com)
+*   [10 Tips for Reducing Distractions and Increasing Focus](https://example.com)
+
+### Research Papers / Mobile Apps
+
+*   [Understanding and Developing Tools for Attention Management in Technology-Intensive Workplaces](https://example.com)
+
+### Communities / Mobile Apps
+
+*   [Productivity Directory](https://productivity.directory/) - A directory for productivity tools and apps
+*   [Productivity Blog](https://blog.productivity.directory/) - Top blog on Productivity
+*   [r/productivity](https://www.reddit.com/r/productivity/) - The subreddit dedicated to productivity hacks and tips.
+*   [Focusmate Community](https://www.focusmate.com/community) - A virtual co-working community to increase accountability and focus.
+
+### Contribution Guidelines / Mobile Apps
+
+*   Search previous suggestions before making a new one, as yours may be a duplicate.
+*   Suggested resources should be of high quality and well-documented.
+*   Comments on why the resource is worthwhile are encouraged.
+*   Make an individual pull request for each suggestion.
+
+## [2. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Resources / Blog posts
 
 *   [Revisiting a Classic Cheminformatics Paper with Polars: The Wiener Index](https://bertiewooster.github.io/2023/03/10/Revisiting-a-Classic-Cheminformatics-Paper-The-Wiener-Index.html) - A science blog post that uses Polars to track the information for the molecules in DataFrames by [@bertiewooster](https://github.com/bertiewooster).
 
-## [2. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+## [3. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Tools / Services
 
 *   [MindSQL (⭐28)](https://github.com/Mindinventory/MindSQL) - A python package for Txt-to-SQL with self hosting functionalities and RESTful APIs compatible with proprietary as well as open source LLM.![GitHub Repo stars](https://img.shields.io/github/stars/mindinventory/mindsql?style=social)
 
-## [3. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [4. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Tutorials
 
@@ -37,7 +86,7 @@
 
 *   \[svelte-document] - Create documents (PDFs), resumes, or presentations entirely in Svelte.
 
-## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Abduction / Applications in AI
 
@@ -47,19 +96,19 @@
 
 *   [How Domain Experts Use an Embedded DSL](https://dl.acm.org/doi/abs/10.1145/3622851) - ***OOPSLA'23***, 2023. This work conducts a thematic analysis identified five key themes, including: the interaction between the eDSL and the host language has significant and sometimes unexpected impacts on eDSL user experience, and users preferentially engage with domain-specific communities and code templates rather than host language resources.
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Miscellaneous
 
 *   [RaipdFuzz (⭐195)](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. \[MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
 
-## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [7. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Commands
 
 *   [django-typer (⭐37)](https://github.com/bckohan/django-typer) - Write Django management commands using the [Typer CLI library](https://typer.tiangolo.com).
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -73,7 +122,7 @@
 
 *   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
 
-## [8. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
+## [9. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
 ### Graphweaver - GraphQL API Over Multiple Datasources [↗](https://awesomestacks.dev/graphweaver-graphql-api-over-multiple-datasources) / Resources
 
@@ -81,13 +130,13 @@
 *   [AWS Cognito](https://aws.amazon.com/cognito) - Pre-built integration with AWS Cognito.
 *   [Connect to a datasource](https://graphweaver.com/docs/connect-to-a-data-source)
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
 *   [LukasPietzschmann/boo.nvim (⭐0)](https://github.com/LukasPietzschmann/boo.nvim) - Quickly pop-up some LSP-powered information of the thing your cursor is on.
 
-## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

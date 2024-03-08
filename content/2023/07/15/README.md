@@ -108,7 +108,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [creativenull/efmls-configs-nvim (⭐235)](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver to work with builtin LSP.
+*   [creativenull/efmls-configs-nvim (⭐239)](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver to work with builtin LSP.
 
 ## [15. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

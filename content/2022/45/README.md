@@ -70,7 +70,7 @@
 
 ### Third-Party Packages / Performance
 
-*   [pyinstrument (⭐5.9k)](https://github.com/joerick/pyinstrument) - Call stack profiler for Python, Django, Flask, FastAPI.
+*   [pyinstrument (⭐6k)](https://github.com/joerick/pyinstrument) - Call stack profiler for Python, Django, Flask, FastAPI.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Chirpy](https://chirpy.dev) - Chirpy is an open-source, privacy-friendly and customizable Disqus (comment system) alternate. ([Demo](https://chirpy.dev/play), [Source Code (⭐509)](https://github.com/devrsi0n/chirpy)) `AGPL-3.0` `Docker/Nodejs`
+*   [Chirpy](https://chirpy.dev) - Chirpy is an open-source, privacy-friendly and customizable Disqus (comment system) alternate. ([Demo](https://chirpy.dev/play), [Source Code (⭐510)](https://github.com/devrsi0n/chirpy)) `AGPL-3.0` `Docker/Nodejs`
 
 ### Software / Pastebins
 
@@ -197,13 +197,13 @@
 
 ### DevOps / Discovery
 
-*   [Standard (⭐338)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
+*   [Standard (⭐345)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
 
 ## [22. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
-*   [genv (⭐17)](https://github.com/run-ai/jupyterlab_genv) - Extension for managing GPU environments in JupyterLab.
+*   [genv (⭐18)](https://github.com/run-ai/jupyterlab_genv) - Extension for managing GPU environments in JupyterLab.
 
 ## [23. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
@@ -310,13 +310,13 @@
 
 Lists repositories that are similar to the one being viewed
 
-Installs: 37 | Stars: 45 | Last update: 10 Aug 2022
+Installs: 38 | Stars: 45 | Last update: 10 Aug 2022
 
 ## [33. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### IDEs / Visual Studio
 
-*   [Algorand Visual Studio Extension (⭐18)](https://github.com/FrankSzendzielarz/AlgorandVisualStudio) - Visual Studio extensions for C# TEAL compilation and Algorand Smart Contract development.
+*   [Algorand Visual Studio Extension (⭐19)](https://github.com/FrankSzendzielarz/AlgorandVisualStudio) - Visual Studio extensions for C# TEAL compilation and Algorand Smart Contract development.
 
 ## [34. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
@@ -364,9 +364,9 @@ Installs: 37 | Stars: 45 | Last update: 10 Aug 2022
 
 ### Design Systems
 
-*   [Astro Space UX Design System (⭐78)](https://github.com/RocketCommunicationsInc/astro) - Set of components to build rich space app experiences with established interaction patterns.
+*   [Astro Space UX Design System (⭐81)](https://github.com/RocketCommunicationsInc/astro) - Set of components to build rich space app experiences with established interaction patterns.
 *   [Auro Design System](https://auro.alaskaair.com) - Alaska Airlines design system to innovate on ideas and collaborate on the future.
-*   [FAST Components (⭐8.8k)](https://github.com/microsoft/fast/tree/master/packages/web-components) - Library of Web Components based on the FAST design language.
+*   [FAST Components (⭐8.9k)](https://github.com/microsoft/fast/tree/master/packages/web-components) - Library of Web Components based on the FAST design language.
 *   [Nord](https://nordhealth.design) - Nordhealth’s design system for products, digital experiences and brand.
 *   [U-M Library Design System](https://design-system.lib.umich.edu) - University of Michigan Library Design System.
 
@@ -423,7 +423,7 @@ Installs: 37 | Stars: 45 | Last update: 10 Aug 2022
 
 ### Modules / Web framework
 
-*   [danet (⭐176)](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
+*   [danet (⭐188)](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
 
 ## [44. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -443,11 +443,11 @@ Installs: 37 | Stars: 45 | Last update: 10 Aug 2022
 
 ### (requires Neovim 0.5)
 
-*   [ranjithshegde/ccls.nvim (⭐60)](https://github.com/ranjithshegde/ccls.nvim) - Use off-spec extensions of ccls LSP and browse AST.
+*   [ranjithshegde/ccls.nvim (⭐62)](https://github.com/ranjithshegde/ccls.nvim) - Use off-spec extensions of ccls LSP and browse AST.
 
 ### Programming Languages Support / Diagnostics
 
-*   [Julian/lean.nvim (⭐186)](https://github.com/Julian/lean.nvim) - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
+*   [Julian/lean.nvim (⭐193)](https://github.com/Julian/lean.nvim) - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
 
 ### Golang / Diagnostics
 
@@ -459,15 +459,15 @@ Installs: 37 | Stars: 45 | Last update: 10 Aug 2022
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [bluz71/vim-nightfly-colors (⭐737)](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight colorscheme with modern Neovim support including Tree-sitter.
+*   [bluz71/vim-nightfly-colors (⭐747)](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight colorscheme with modern Neovim support including Tree-sitter.
 
 ### Bars and Lines / Diagnostics
 
-*   [utilyre/barbecue.nvim (⭐606)](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar.
+*   [utilyre/barbecue.nvim (⭐621)](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar.
 
 ### Code Runner / Diagnostics
 
-*   [hkupty/iron.nvim (⭐847)](https://github.com/hkupty/iron.nvim) - Interactive REPLs of over 30 languages embedded.
+*   [hkupty/iron.nvim (⭐852)](https://github.com/hkupty/iron.nvim) - Interactive REPLs of over 30 languages embedded.
 
 ### Neovim Lua Development / Diagnostics
 
@@ -475,30 +475,30 @@ Installs: 37 | Stars: 45 | Last update: 10 Aug 2022
 
 ### Editing Support / Diagnostics
 
-*   [Wansmer/treesj (⭐776)](https://github.com/Wansmer/treesj) - Splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc. Using Tree-Sitter. Inspired by greatest splitjoin.vim.
+*   [Wansmer/treesj (⭐789)](https://github.com/Wansmer/treesj) - Splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc. Using Tree-Sitter. Inspired by greatest splitjoin.vim.
 
 ### Split and Window / Diagnostics
 
-*   [nvim-zh/colorful-winsep.nvim (⭐328)](https://github.com/nvim-zh/colorful-winsep.nvim) - A configurable color split line.
+*   [nvim-zh/colorful-winsep.nvim (⭐339)](https://github.com/nvim-zh/colorful-winsep.nvim) - A configurable color split line.
 
 ## [47. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bat (⭐5)](https://github.com/fdellwing/zsh-bat) - Adds some helper aliases for [bat (⭐45k)](https://github.com/sharkdp/bat) users.
+*   [bat (⭐4)](https://github.com/fdellwing/zsh-bat) - Adds some helper aliases for [bat (⭐46k)](https://github.com/sharkdp/bat) users.
 *   [bepoptimist (⭐1)](https://github.com/sheoak/zsh-bepoptimist/) - Remaps vi-mode for the French bépo keyboard.
 *   [shell-fns (⭐1)](https://github.com/Hdoc1509/shell-fns) - Includes `git`, `neovim`, `npm`, `pip` extended functionality.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [yarn-extra-completion (⭐38)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐453)](https://github.com/lukechilds/zsh-better-npm-completion).
-*   [yt-dlp (⭐5)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐66k)](https://github.com/yt-dlp/yt-dlp).
+*   [yarn-extra-completion (⭐37)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐451)](https://github.com/lukechilds/zsh-better-npm-completion).
+*   [yt-dlp (⭐5)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐67k)](https://github.com/yt-dlp/yt-dlp).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [air (⭐0)](https://github.com/Ivan-Kuzmichev/air) - Minimalist theme with `git` status decorations.
 *   [funkydrac (⭐2)](https://github.com/warshanks/funkydrac) - Multiple Dracula-themed omz themes based on [funky (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme) and an [oh-my-posh (⭐14k)](https://github.com/JanDeDobbeleer/oh-my-posh) theme based on [alien (⭐14k)](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json)
-*   [happy-coding (⭐1)](https://github.com/lexhuismans/happy-coding/) - Stripped down version of [passion (⭐241)](https://github.com/ChesterYue/ohmyzsh-theme-passion). Includes decorators for time, `git` branch, last command execution time and last command exit status.
+*   [happy-coding (⭐1)](https://github.com/lexhuismans/happy-coding/) - Stripped down version of [passion (⭐245)](https://github.com/ChesterYue/ohmyzsh-theme-passion). Includes decorators for time, `git` branch, last command execution time and last command exit status.
 *   [shrug (⭐4)](https://github.com/to-var/shrug-zsh-theme) - Inspired by [beer-theme (⭐3)](https://github.com/tcnksm/oh-my-zsh-beer-theme), includes `git` status and current directory decorations.
 *   [ys (⭐0)](https://github.com/cristiancavalli/ys-zsh-custom-theme) - Clean, simple, compatible and meaningful theme meant for dark backgrounds.
 

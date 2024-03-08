@@ -52,7 +52,7 @@
 
 ### Project / Diagnostics
 
-*   [LintaoAmons/cd-project.nvim (⭐41)](https://github.com/LintaoAmons/cd-project.nvim) - All you need is just an easier way to `cd` to another project directory.
+*   [LintaoAmons/cd-project.nvim (⭐46)](https://github.com/LintaoAmons/cd-project.nvim) - All you need is just an easier way to `cd` to another project directory.
 
 ## [6. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
 

@@ -215,11 +215,11 @@
 ### Internationalization
 
 *   [Camomile (⭐124)](https://github.com/yoriyuki/Camomile/) — A Unicode library for OCaml.
-*   [ocaml-m17n (⭐51)](https://github.com/whitequark/ocaml-m17n) — Multilingualization for OCaml source code. Allows using Unicode identifiers in OCaml source code.
+*   [ocaml-m17n (⭐52)](https://github.com/whitequark/ocaml-m17n) — Multilingualization for OCaml source code. Allows using Unicode identifiers in OCaml source code.
 *   [Uucd (⭐16)](https://github.com/dbuenzli/uucd) — Unicode character database decoder for OCaml.
 *   [Uucp (⭐20)](https://github.com/dbuenzli/uucp) — Unicode character properties for OCaml.
 *   [Uunf (⭐21)](https://github.com/dbuenzli/uunf) — Unicode text normalization for OCaml.
-*   [Uuseg (⭐21)](https://github.com/dbuenzli/uuseg) — Unicode text segmentation for OCaml.
+*   [Uuseg (⭐23)](https://github.com/dbuenzli/uuseg) — Unicode text segmentation for OCaml.
 *   [Uutf (⭐29)](https://github.com/dbuenzli/uutf) — Non-blocking streaming Unicode codec for OCaml.
 
 ## [14. Awesome React Native](/content/jondot/awesome-react-native/README.md)

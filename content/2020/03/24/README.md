@@ -37,7 +37,7 @@
 
 ### Articles/Guides/Tutorials
 
-*   [How to Grow Neat Software Architecture out of Jupyter Notebooks (⭐520)](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Article and [video](https://www.youtube.com/watch?v=K4QN27IKr0g) about growing a neat software architecture from notebooks.
+*   [How to Grow Neat Software Architecture out of Jupyter Notebooks (⭐521)](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Article and [video](https://www.youtube.com/watch?v=K4QN27IKr0g) about growing a neat software architecture from notebooks.
 
 ## [5. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 

@@ -14,7 +14,7 @@
 
 ### C / Git
 
-*   [libVES.c (⭐33)](https://github.com/vesvault/libVES.c) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
+*   [libVES.c (⭐34)](https://github.com/vesvault/libVES.c) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
 
 ### JavaScript / Git
 

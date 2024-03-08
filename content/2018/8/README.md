@@ -697,8 +697,8 @@
 
 ### Types / Playground
 
-*   [utility-types (⭐5.2k)](https://github.com/piotrwitek/utility-types) - Utility Types for TypeScript (provide compatibility with Flow's Utility Types)
-*   [elm-ts (⭐299)](https://github.com/gcanti/elm-ts) - Port of Elm architecture to TypeScript featuring fp-ts, io-ts, rxjs5 and React
+*   [utility-types (⭐5.3k)](https://github.com/piotrwitek/utility-types) - Utility Types for TypeScript (provide compatibility with Flow's Utility Types)
+*   [elm-ts (⭐301)](https://github.com/gcanti/elm-ts) - Port of Elm architecture to TypeScript featuring fp-ts, io-ts, rxjs5 and React
 
 ## [44. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 

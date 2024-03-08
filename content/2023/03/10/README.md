@@ -20,7 +20,7 @@
 
 ### Programming Languages / Ruby
 
-*   [ruby-nix (⭐92)](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Nix.
+*   [ruby-nix (⭐94)](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Nix.
 
 ## [3. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.splitjoin (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-splitjoin.md) - Module of `mini.nvim` to split and join arguments. Has customizable pre and post hooks. Works inside comments.
+*   [echasnovski/mini.nvim#mini.splitjoin (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-splitjoin.md) - Module of `mini.nvim` to split and join arguments. Has customizable pre and post hooks. Works inside comments.
 
 ## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

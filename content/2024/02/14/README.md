@@ -85,15 +85,6 @@
 *   [Spring Cloud Gateway (⭐4.3k) (⭐4.3k)](https://github.com/spring-cloud/spring-cloud-gateway) - An API Gateway built on top of the Spring ecosystem, providing advanced routing and filtering features for Spring applications.
 *   [Tyk API Gateway (⭐9.1k) (⭐9.1k)](https://github.com/TykTechnologies/tyk) - An open source Enterprise API Gateway that supports REST, GraphQL, TCP, and gRPC protocols. It provides advanced API management features such as rate limiting, access control, and analytics.
 
-### Projects / API Testing
-
-*   MQ clients
-    *   [JMSToolBox (⭐189) (⭐189)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
-    *   [kcat (⭐5.1k) (⭐5.2k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
-    *   [MQTT Explorer (⭐2.6k) (⭐2.7k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
-    *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
-    *   [Service Bus Explorer (⭐1.9k) (⭐1.9k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
-
 ### Projects / Messaging
 
 *   [Apache Qpid (⭐56) (⭐56)](https://github.com/apache/qpid-broker-j) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
@@ -133,7 +124,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot Spin Button (⭐31)](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options (Godot 4.x).
+*   [Godot Spin Button (⭐34)](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options (Godot 4.x).
 
 ---
 

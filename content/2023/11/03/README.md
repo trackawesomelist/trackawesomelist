@@ -115,7 +115,7 @@
 
 ### Tools / Playground
 
-*   [biome (⭐6.8k)](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second
+*   [biome (⭐9.1k)](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second
 
 ---
 

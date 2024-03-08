@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 21 - Mar 27, 2022
 
-55 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,11 +28,11 @@
 
 ### Software / Database Management
 
-*   [CloudBeaver](https://cloudbeaver.io/) - Self-hosted management of databases, supports PostgreSQL, MySQL, SQLite and more. A web/hosted version of DBeaver. ([Source Code (⭐2.8k)](https://github.com/dbeaver/cloudbeaver)) `Apache-2.0` `Docker`
+*   [CloudBeaver](https://cloudbeaver.io/) - Self-hosted management of databases, supports PostgreSQL, MySQL, SQLite and more. A web/hosted version of DBeaver. ([Source Code (⭐2.9k)](https://github.com/dbeaver/cloudbeaver)) `Apache-2.0` `Docker`
 
 ### Software / Miscellaneous
 
-*   [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code (⭐451)](https://github.com/benjaminjonard/koillection)) `MIT` `Docker/PHP`
+*   [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code (⭐464)](https://github.com/benjaminjonard/koillection)) `MIT` `Docker/PHP`
 
 ## [5. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
@@ -117,11 +117,11 @@
 
 ### Syntax / Diagnostics
 
-*   [m-demare/hlargs.nvim (⭐413)](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter.
+*   [m-demare/hlargs.nvim (⭐417)](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter.
 
 ### Utility / Diagnostics
 
-*   [toppair/reach.nvim (⭐222)](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher.
+*   [toppair/reach.nvim (⭐224)](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher.
 
 ### Preconfigured Configuration / Diagnostics
 
@@ -139,20 +139,14 @@
 
 *   [Community Help Board (⭐25k)](https://github.com/directus/directus/discussions/categories/q-a)
 
-## [17. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
-
-### Crash Courses
-
-*   [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x) - PyTeal crash course video lectures.
-
-## [18. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [17. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Mapping
 
 *   [Excalidraw](https://excalidraw.com) - Online diagram tool creates quick and easy, handdrawn diagrams and maps. keyboard shortcut '0', browse libraries and Add the "Wardley Maps Symbols" lib.
 *   [Flowchart fun](https://flowchart.fun) - text based tool to generate quick flowcharts. Excellent way to quickly create a Value Chain - very useful in conversation or during a meeting.
 
-## [19. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
+## [18. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
 
 ### IoT
 
@@ -190,7 +184,7 @@
 
 *   [seedlink2taos\_py (⭐10)](https://github.com/schenton/seedlink2taos_py) - A Python program that fetches seismic waveform data from IRIS and writes to TDengine database.
 
-## [20. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [19. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Office
 
@@ -200,19 +194,19 @@
 
 *   [VS Code (⭐148k)](https://github.com/microsoft/vscode) - A source-code editor made by Microsoft ([MIT (⭐148k)](https://github.com/microsoft/vscode/blob/main/LICENSE.txt))
 
-## [21. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [20. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Data Visualization and Mission Control / Annotation
 
 *   [3d-annotation-tool (⭐63)](https://github.com/StrayRobots/3d-annotation-tool) - Lightweight tool to annotate point clouds with bounding boxes, rectangles, keypoints and more.
 
-## [22. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [21. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [Towhee](https://towhee.io) - A Python module that encode unstructured data into embeddings.
 
-## [23. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [22. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / CLI utils
 
@@ -222,7 +216,7 @@
 
 *   [vscode-deno-starter (⭐2)](https://github.com/twilsoft/vscode-deno-starter) - VS Code project boilerplate to get started with Deno.
 
-## [24. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [23. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Libraries
 
@@ -243,13 +237,13 @@
 *   [MicroPython Official Documentation](https://docs.micropython.org/) - For various ports, including quick reference, general information, examples and tutorials.
 *   [MicroPython Newsletter](https://micropython.org/newsletter) - Subscribe to the MicroPython newsletter for news and announcements including new features and new products.
 
-## [25. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [24. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### i18n / Third-party APIs
 
 *   [translate (⭐8)](https://github.com/dkochmanski/translate) - seamless language localization. LLGPL.
 
-## [26. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [25. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Drawing
 
@@ -263,7 +257,7 @@
 
 *   [AppleCake (⭐19)](https://github.com/EngineerSmith/AppleCake) - Profiling library for LÖVE, with detailed profiling and thread support.
 
-## [27. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [26. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -281,37 +275,37 @@
 
 *   [vue-component-starter (⭐9)](https://github.com/peterroe/vue-component-starter) - A template to help you create vue3.x component.
 
-## [28. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [27. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Papers and Articles
 
 *   [2022: Repairing the Cracked Foundation: A Survey of Obstacles in Evaluation Practices for Generated Text](https://arxiv.org/abs/2202.06935)
 
-## [29. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [28. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
 *   [tmux-packet-loss (⭐9)](https://github.com/jaclu/tmux-packet-loss) - Displays packet loss % if at or above the specified threshold level
 
-## [30. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [29. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Templates
 
 *   [yew-template-for-github-io (⭐26)](https://github.com/Ja-sonYun/yew-template-for-github-io) - Directly deployable Template of yew project for github.io, using tailwind and webpack for css, trunk for build and serve.
 
-## [31. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [30. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Miscellaneous / React
 
 *   [supertest-graphql (⭐31)](https://github.com/alexstrat/supertest-graphql) - Extends [supertest (⭐13k)](https://github.com/visionmedia/supertest) to easily test a GraphQL endpoint
 
-## [32. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [31. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Planning Data Specifications / Built Environment
 
 *   [IFC](https://technical.buildingsmart.org/standards/ifc/) - IFC is a standardized, digital description of the built environment, including buildings and civil infrastructure. It is an open, international standard (ISO 16739-1:2018).
 
-## [33. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [32. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Text Modes / Apache License
 
@@ -321,25 +315,25 @@
 
 *   [ews (⭐11)](https://github.com/simonjwright/ews) - Embedded Web Server is a web server construction kit, designed for embedded applications using the GNAT Ada compiler.
 
-## [34. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [33. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Apps
 
 *   [DDraceNetwork (⭐435)](https://github.com/ddnet/ddnet/) - Cooperative 2D platformer with optional [Vulkan backend (⭐435)](https://github.com/ddnet/ddnet/blob/master/src/engine/client/backend/vulkan/backend_vulkan.cpp). - [zlib (⭐435)](https://github.com/ddnet/ddnet/blob/master/license.txt) [website](https://ddnet.tw/)
 
-## [35. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [34. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Misc
 
 *   [Getstream](https://getstream.io) - Stream powers Chat Messaging and Activity Feeds for billions of global end-users across thousands of different apps.
 
-## [36. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [35. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [USB Proxy (⭐115)](https://github.com/AristoChen/usb-proxy) - A USB man-in-the-middle project that allow users to monitor and modify USB packets flow between host and device.
 
-## [37. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [36. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Bit Sets
 
@@ -374,7 +368,7 @@
 *   [dusupay-sdk-go (⭐3)](https://github.com/Kachit/dusupay-sdk-go) - Unofficial Dusupay payment gateway API Client for Go
 *   [newsapi-go (⭐6)](https://github.com/jellydator/newsapi-go) - Go client for [NewsAPI](https://newsapi.org/).
 
-## [38. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
+## [37. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
 
 ### Starter apps and CLIs
 
@@ -391,27 +385,27 @@
 *   [awesome-semantic-segmentation (⭐10k)](https://github.com/mrgloom/awesome-semantic-segmentation) - Networks by architecture (semantic segmentation, instance aware segmentation, etc.), RNN, GANS, datasets, and more.
 *   [awesome-vector-tiles (⭐2.1k)](https://github.com/mapbox/awesome-vector-tiles) - Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps and command line tools, CLI utilities, servers, etc.
 
-## [39. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [38. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### DevOps / Discovery
 
-*   [Makes (⭐382)](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
+*   [Makes (⭐390)](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
 
 ### NixOS Modules / Zig
 
-*   [Home Manager (⭐5.4k)](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
+*   [Home Manager (⭐5.6k)](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
 
-## [40. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [39. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Sample GTFS and GTFS Realtime datasets used for software testing
 
-*   [transitfeed unit tests (⭐674)](https://github.com/google/transitfeed/tree/master/tests/data) - Test data created for the original Google [Python GTFS validator (⭐674)](https://github.com/google/transitfeed/wiki/FeedValidator).
+*   [transitfeed unit tests (⭐676)](https://github.com/google/transitfeed/tree/master/tests/data) - Test data created for the original Google [Python GTFS validator (⭐676)](https://github.com/google/transitfeed/wiki/FeedValidator).
 *   [Transitland GTFS and GTFS Realtime unit tests (⭐24)](https://github.com/interline-io/transitland-lib) - For testing the [transitland-lib (⭐24)](https://github.com/interline-io/transitland-lib) library that handles GTFS and GTFS Realtime parsing and validation for Transitland:
     *   [GTFS - "bad entities" at the single row level (⭐24)](https://github.com/interline-io/transitland-lib/tree/master/test/data/bad-entities)
     *   [GTFS - validation errors that that involve entities in one or more files (⭐24)](https://github.com/interline-io/transitland-lib/tree/master/test/data/validator/errors)
     *   [GTFS - best practices (⭐24)](https://github.com/interline-io/transitland-lib/tree/master/test/data/validator/best-practices)
     *   [GTFS Realtime - JSON test cases that are turned into PB contents (⭐6)](https://github.com/interline-io/transitland-server/tree/main/test/data/rt)
-*   [gtfs-realtime-validator unit tests (⭐32)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/) - Some [GTFS datasets (zip files) (⭐32)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/resources) are included and a large number of GTFS RT messages are defined [programmatically in Java (⭐32)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/java/edu/usf/cutr/gtfsrtvalidator/lib/test/rules) via the gtfs-realtime-bindings library.
+*   [gtfs-realtime-validator unit tests (⭐33)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/) - Some [GTFS datasets (zip files) (⭐33)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/resources) are included and a large number of GTFS RT messages are defined [programmatically in Java (⭐33)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/java/edu/usf/cutr/gtfsrtvalidator/lib/test/rules) via the gtfs-realtime-bindings library.
 *   [OpenTripPlanner unit tests (⭐2k)](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test) - Some [GTFS datasets (⭐2k)](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test/resources/gtfs) are defined for the unit tests ([GtfsTest (⭐2k)](https://github.com/opentripplanner/OpenTripPlanner/blob/dev-2.x/src/test/java/org/opentripplanner/GtfsTest.java) and [mmri folder (⭐2k)](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test/java/org/opentripplanner/mmri)).
 
 ### GTFS Based Visualizations
@@ -420,15 +414,15 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [gtfs-blocks-to-transfers (⭐4)](https://github.com/TransitApp/GTFS-blocks-to-transfers) - A Python tool to convert GTFS blocks, defined by setting [trip.block\_id (⭐496)](https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md#example-blocks-and-service-day) into a series of [trip-to-trip transfers (proposal) (⭐496)](https://github.com/google/transit/pull/303).
-*   [GTFS Editor (⭐133)](https://github.com/conveyal/gtfs-editor) - A (self-hosted) web-based GTFS editing framework. (Note: this project has been deprecated in favor of [IBI Data Tools (⭐108)](https://github.com/ibi-group/datatools-ui).)
+*   [gtfs-blocks-to-transfers (⭐4)](https://github.com/TransitApp/GTFS-blocks-to-transfers) - A Python tool to convert GTFS blocks, defined by setting [trip.block\_id (⭐502)](https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md#example-blocks-and-service-day) into a series of [trip-to-trip transfers (proposal) (⭐502)](https://github.com/google/transit/pull/303).
+*   [GTFS Editor (⭐133)](https://github.com/conveyal/gtfs-editor) - A (self-hosted) web-based GTFS editing framework. (Note: this project has been deprecated in favor of [IBI Data Tools (⭐110)](https://github.com/ibi-group/datatools-ui).)
 *   [GTFS Editor for Vagrant (⭐6)](https://github.com/laidig/vagrant-gtfs-editor) - Quickly set up the GTFS editor (above) using [Vagrant](https://www.vagrantup.com/)
 
 ### Academic papers / Ruby
 
 *   [Aemmer et al. - "Measurement and classification of transit delays using GTFS-RT data"](https://link.springer.com/article/10.1007/s12469-022-00291-7) - Presents a method for extracting transit performance metrics from a General Transit Feed Specification’s Real-Time (GTFS-RT) component and aggregating them to roadway segments. Used with [Transit Vis (⭐10)](https://github.com/zackAemmer/transit_vis), viewable [here](https://www.transitvis.com/).
 
-## [41. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
+## [40. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
 
 ### CSS in a nutshell
 
@@ -447,7 +441,7 @@
 
 *   [CSS Transitions and Transforms for Beginners](https://robots.thoughtbot.com/transitions-and-transforms) - An introduction to CSS transitions and CSS (2D) transforms.
 
-## [42. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [41. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
@@ -458,13 +452,13 @@
 *   [playwright-dotnet (⭐2.2k)](https://github.com/microsoft/playwright-dotnet) - Official Playwright port to .NET.
 *   [playwright-perl (⭐21)](https://github.com/teodesian/playwright-perl) - Playwright port for Perl.
 
-## [43. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [42. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Domain and IP Research / Telegram
 
 *   [Threat Jammer](https://threatjammer.com) - Risk scoring service from curated threat intelligence data.
 
-## [44. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [43. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Tasking Managers / Web Services
 
@@ -488,13 +482,13 @@
 *   [OpenStreetMap Poland YouTube Channel](https://www.youtube.com/channel/UCH4PSBSafxZ-YWg8RCRbHjA)
 *   [OpenStreetMap US YouTube Channel](https://www.youtube.com/channel/UCQpS2iHNVR-_6nAxt87nwCw)
 
-## [45. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [44. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bitwarden (kalsowerus) (⭐10)](https://github.com/kalsowerus/zsh-bitwarden) - Opens a [fzf (⭐58k)](https://github.com/junegunn/fzf) widget containing your [Bitwarden](https://bitwarden.com/) vault items. Upon selecting an item either the username or password will be either written into the shell or copied into the clipboard. Requires `fzf`, `jq` and `bitwarden`.
+*   [bitwarden (kalsowerus) (⭐11)](https://github.com/kalsowerus/zsh-bitwarden) - Opens a [fzf (⭐58k)](https://github.com/junegunn/fzf) widget containing your [Bitwarden](https://bitwarden.com/) vault items. Upon selecting an item either the username or password will be either written into the shell or copied into the clipboard. Requires `fzf`, `jq` and `bitwarden`.
 *   [bw (⭐4)](https://github.com/begris/bw-zsh-plugin) - Provides formatting options and easy access to credentials stored in [Bitwarden](https://bitwarden.com) via the Bitwarden [CLI](https://bitwarden.com/download/). The plugin tries to retrieve a valid session before each action, therefore an explicit login is not nescessary beforehand.
-*   [lacrimae (⭐0)](https://github.com/caIamity/lacrimae) - Prints a line from a collection of chants.
+*   [lacrimae (⭐1)](https://github.com/caIamity/lacrimae) - Prints a line from a collection of chants.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -508,14 +502,14 @@
 *   [rounded (⭐2)](https://github.com/daniilty/rounded-zsh-theme) - Includes current directory and `git` status decorations.
 *   [wormwood (⭐1)](https://github.com/ann-kilzer/annkilzer.zsh-theme) - Includes decorators for last command exit status, current directory and `git` status.
 
-## [46. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [45. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Farside](https://farside.link/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/benbusby/farside) - A smart redirecting gateway for various frontend services.
 *   [LibMedium](https://libmedium.batsense.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/realaravinth/libmedium) - Privacy-focused, high-performance front end for Medium.com written in Rust.
 
-## [47. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+## [46. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### IDE
 
@@ -546,13 +540,13 @@
 *   [Mailcow Email Server](https://mailcow.email/) - Fully feature email server (for avarage use cases @lmtr0 recommends this one)
 *   [WildDuck Email Server](https://wildduck.email/) - nodejs application to send emails (built for scale (needs more hand work to make it work)
 
-## [48. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
+## [47. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
 
 ### Tutorials / Books
 
 *   [Write your dissertation in RMarkdown](https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/) - Step-by-step guide on creating a complex pdf document, including text, figures, references, images, formatting, and more.
 
-## [49. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [48. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Conferences / Monograph
 
@@ -563,14 +557,14 @@
 *   [Simons Institute. Machine Learning Research Pod](https://simons.berkeley.edu/research-pods/machine-learning-research-pod).
 *   [Harvard Machine Learning Foundations Group](https://mltheory.org/).
 
-## [50. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [49. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / BPM
 
 *   [Genpack Cora SeQuence](https://www.genpact.com/cora/sequence) - A tool for orchestrating business processes, driving business agility and improving cost efficiency.
 *   [Red Hat Process Automation Manager](https://www.redhat.com/en/technologies/jboss-middleware/process-automation-manager) - Application development platform that enables developers and business experts to create cloud-native applications that automate business operations.
 
-## [51. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [50. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -589,7 +583,7 @@
 
 *   [geojs.io](https://www.geojs.io/) - Highly available REST/JSON/JSONP IP Geolocation lookup API.
 
-## [52. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [51. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Privacy by Design - Guides for developers (art. 25)
 
@@ -607,7 +601,7 @@
 
 *   [European web analytics services](https://european-alternatives.eu/category/web-analytics-services)
 
-## [53. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [52. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Databases
 
@@ -624,7 +618,7 @@
 
 *   [Session](https://getsession.org/) - Extreme focus on privacy and anonymity. Blockchain technology.
 
-## [54. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [53. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Courses
 
@@ -652,7 +646,7 @@
 
 *   [Broaden the Vision: Geo-Diverse Visual Commonsense Reasoning](https://aclanthology.org/2021.emnlp-main.162/) - ***EMNLP'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=12305856131717604775\&hl=en\&as_sdt=0,5)].
 
-## [55. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [54. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 

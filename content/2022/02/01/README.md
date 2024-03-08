@@ -16,7 +16,7 @@
 
 ### Grid
 
-*   [svelte-flex (⭐73)](https://github.com/himynameisdave/svelte-flex) - A simple and reusable flexbox component for Svelte.
+*   [svelte-flex (⭐74)](https://github.com/himynameisdave/svelte-flex) - A simple and reusable flexbox component for Svelte.
 
 ### Miscellaneous / Checkbox
 
@@ -100,7 +100,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tiagovla/tokyodark.nvim (⭐394)](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in Lua (Neovim >= 0.5) and above.
+*   [tiagovla/tokyodark.nvim (⭐407)](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in Lua (Neovim >= 0.5) and above.
 
 ## [7. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

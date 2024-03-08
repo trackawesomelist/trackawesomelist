@@ -85,7 +85,7 @@ Language: English, 中文
 
 ### Libraries/Frameworks / I/O
 
-*   [agcom/knio2 (⭐2)](https://github.com/agcom/knio2) - Kotlinx coroutines extensions for Java NIO.2
+*   [agcom/knio2 (⭐3)](https://github.com/agcom/knio2) - Kotlinx coroutines extensions for Java NIO.2
 
 ## [8. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 

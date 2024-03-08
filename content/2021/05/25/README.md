@@ -22,8 +22,8 @@
 
 ### Programming Languages / Haskell
 
-*   [nix-haskell-mode (⭐25)](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
-*   [nixkell (⭐78)](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
+*   [nix-haskell-mode (⭐26)](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
+*   [nixkell (⭐80)](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
 
 ### Community / Webinterface
 
@@ -40,7 +40,7 @@
 
 ### Starters/Boilerplates / Other external resources
 
-*   [rails\_api\_base (⭐413)](https://github.com/rootstrap/rails_api_base) - Rails 6 boilerplate project for JSON RESTful APIs.
+*   [rails\_api\_base (⭐422)](https://github.com/rootstrap/rails_api_base) - Rails 6 boilerplate project for JSON RESTful APIs.
 *   [rails\_hotwire\_base (⭐73)](https://github.com/rootstrap/rails_hotwire_base) - Rails 6 boilerplate project with Hotwire for full-stack applications with a modern SPA-like experience.
 
 ## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)

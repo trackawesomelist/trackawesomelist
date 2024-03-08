@@ -60,7 +60,7 @@
 *   [svg2gcode (⭐54)](https://github.com/em/svg2gcode) - Node.js command line utility for converting SVG to G-code.
 *   [svg2gcode (⭐88)](https://github.com/vishpat/svg2gcode) - Python utility for fast SVG to G-code conversion.
 *   [jscut](http://jscut.org/) - A web-based utility for converting SVG to G-code.
-*   [gcodeplot (⭐159)](https://github.com/arpruss/gcodeplot) - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
+*   [gcodeplot (⭐158)](https://github.com/arpruss/gcodeplot) - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
 
 ## [8. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 

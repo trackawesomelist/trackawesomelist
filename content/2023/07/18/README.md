@@ -16,17 +16,17 @@
 
 ### Software / Plotter Control
 
-*   [Inkcut (⭐291)](https://github.com/inkcut/inkcut) - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
+*   [Inkcut (⭐296)](https://github.com/inkcut/inkcut) - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
 
 ## [3. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### 2D / Godot 3.2+
 
-*   [Pocket Broomball (⭐22)](https://github.com/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
+*   [Pocket Broomball (⭐21)](https://github.com/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
 
 ### 3D / Godot 3.2+
 
-*   [Ball2Box (⭐27)](https://github.com/dulvui/ball2box) - Shoot the ball into the box, available for iOS, Android and html5.
+*   [Ball2Box (⭐28)](https://github.com/dulvui/ball2box) - Shoot the ball into the box, available for iOS, Android and html5.
 
 ## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

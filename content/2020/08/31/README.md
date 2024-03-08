@@ -54,7 +54,7 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [nbflow (⭐155)](https://github.com/jhamrick/nbflow) - One-button reproducible workflows with Jupyter and Scons.
+*   [nbflow (⭐157)](https://github.com/jhamrick/nbflow) - One-button reproducible workflows with Jupyter and Scons.
 *   [nbinteract](https://www.nbinteract.com) - Create interactive webpages from Jupyter notebooks.
 
 ## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)

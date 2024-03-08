@@ -29,7 +29,7 @@
 ### Code
 
 *   CircuitPython Board Software Versions: Select per board at [CircuitPython.org](https://circuitpython.org/downloads). The source for each is also on [GitHub (⭐3.8k)](https://github.com/adafruit/circuitpython/releases).
-*   [Awesome List for the RP2040 Macropad (⭐208)](https://github.com/prcutler/awesome-macropad) - A list of awesome Macropad applications, macros, 3D printed plans, and more.
+*   [Awesome List for the RP2040 Macropad (⭐214)](https://github.com/prcutler/awesome-macropad) - A list of awesome Macropad applications, macros, 3D printed plans, and more.
 
 ### Hardware
 

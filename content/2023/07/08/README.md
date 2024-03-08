@@ -10,7 +10,7 @@
 
 ### Tools / Agents
 
-*   [BlockAGI (⭐235)](https://github.com/blockpipe/blockagi): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social)
+*   [BlockAGI (⭐252)](https://github.com/blockpipe/blockagi): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social)
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Static type checkers
 
-*   [basedmypy (⭐51)](https://github.com/KotlinIsland/basedmypy) - Based static typing with baseline functionality.
+*   [basedmypy (⭐73)](https://github.com/KotlinIsland/basedmypy) - Based static typing with baseline functionality.
 
 ## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -228,7 +228,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [2nthony/vitesse.nvim (⭐39)](https://github.com/2nthony/vitesse.nvim) - Vitesse theme Lua port.
+*   [2nthony/vitesse.nvim (⭐41)](https://github.com/2nthony/vitesse.nvim) - Vitesse theme Lua port.
 
 ## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
@@ -310,7 +310,7 @@
 
 ### RSS services powered by utilizing Obsidian / Outline Processor Markup Language
 
-*   [Obsidian-RSS (⭐314)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
+*   [Obsidian-RSS (⭐328)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
 
 ### RSS2Podcast / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 

@@ -156,7 +156,7 @@
 
 ### Collaboration/Education
 
-*   [nbgitpuller (⭐183)](https://github.com/jupyterhub/nbgitpuller) - Sync a git repository one-way to a local path.
+*   [nbgitpuller (⭐200)](https://github.com/jupyterhub/nbgitpuller) - Sync a git repository one-way to a local path.
 
 ## [6. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
 
@@ -179,7 +179,7 @@
 
 *   [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
 *   [理解Linux进程 (⭐988)](https://github.com/tobegit3hub/understand_linux_process)
-*   [命令行的艺术 (⭐144k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+*   [命令行的艺术 (⭐146k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 *   [鸟哥的 Linux 私房菜 服务器架设篇](http://cn.linux.vbird.org/linux_server/)
 *   [鸟哥的 Linux 私房菜 基础学习篇](http://cn.linux.vbird.org/linux_basic/linux_basic.php)
 *   [嵌入式 Linux 知识库 (eLinux.org 中文版)](https://tinylab.gitbooks.io/elinux/content/zh/)
@@ -408,7 +408,7 @@
 
 ### Projects / Boilerplate
 
-*   [launchr (⭐224)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
+*   [launchr (⭐225)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
 
 ## [9. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
@@ -770,7 +770,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [2D Day/Night Cycle (⭐297)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D (Godot 3.x).
+*   [2D Day/Night Cycle (⭐299)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D (Godot 3.x).
 
 ### Plugins and scripts / Godot version unknown
 
@@ -779,7 +779,7 @@
 ### Modules / Various Godot versions
 
 *   [Entity Spell System (⭐137)](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs (Godot 3.2, 4.0).
-*   [godot-anl (⭐107)](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library (⭐76)](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
+*   [godot-anl (⭐108)](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library (⭐77)](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
 *   [godot-python (⭐1.7k)](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
 *   [godot-voxel (⭐2.2k)](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds (Godot 3.1+).
 *   [Gdnet for Godot 3 (⭐122)](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
@@ -788,8 +788,8 @@
 
 *   [godotcord (⭐52)](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
 *   [godot-apple-id (⭐32)](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
-*   [Godot-Slicer (⭐110)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐1.7k)](https://github.com/DavidArayan/ezy-slice) for Godot.
-*   [Goost (⭐456)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
+*   [Godot-Slicer (⭐109)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐1.7k)](https://github.com/DavidArayan/ezy-slice) for Godot.
+*   [Goost (⭐457)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
 *   [PortAudio (⭐13)](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use [PortAudio](http://www.portaudio.com).
 
 ### Modules / Godot 3.1
@@ -799,7 +799,7 @@
 ### Modules / Godot version unknown
 
 *   [godot-enet-better (⭐92)](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
-*   [Head tracking using OpenCV (⭐43)](https://github.com/antarktikali/godot-opencv-gpu-perspective)
+*   [Head tracking using OpenCV (⭐44)](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 *   [Open Adaptive Music Library (⭐58)](https://github.com/oamldev/oamlGodotModule)
 *   [NativeDialogs (⭐22)](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot.
 *   [RawPacker (⭐22)](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
@@ -814,7 +814,7 @@
 
 ### Other / Godot version unknown
 
-*   [gd2cs.py (⭐73)](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
+*   [gd2cs.py (⭐74)](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
 
 ## [26. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
 

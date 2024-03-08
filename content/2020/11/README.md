@@ -607,7 +607,7 @@
 
 ### Other / Godot version unknown
 
-*   [godot-gdscript-toolkit (⭐714)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
+*   [godot-gdscript-toolkit (⭐738)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
 
 ## [42. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
@@ -659,7 +659,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [IBI Data Tools (⭐108)](https://github.com/ibi-group/datatools-ui) - A web application that handles GTFS editing, validating, quality checking, and deploying to OpenTripPlanner. (Combines and builds upon the functionality of the deprecated [Gtfs Data Manager (⭐24)](https://github.com/conveyal/gtfs-data-manager) and [GTFS Editor (⭐133)](https://github.com/conveyal/gtfs-editor).)
+*   [IBI Data Tools (⭐110)](https://github.com/ibi-group/datatools-ui) - A web application that handles GTFS editing, validating, quality checking, and deploying to OpenTripPlanner. (Combines and builds upon the functionality of the deprecated [Gtfs Data Manager (⭐24)](https://github.com/conveyal/gtfs-data-manager) and [GTFS Editor (⭐133)](https://github.com/conveyal/gtfs-editor).)
 
 ## [45. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 

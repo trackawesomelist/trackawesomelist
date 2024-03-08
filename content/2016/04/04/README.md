@@ -187,11 +187,8 @@
 ### Table of Contents / Security
 
 *   [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium (⭐12k)](https://github.com/jedisct1/libsodium).
-*   [IniScan (⭐1.5k)](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
 *   [Optimus (⭐1.3k)](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
 *   [PHP Encryption (⭐3.7k)](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
-*   [RandomLib (⭐840)](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
-*   [TCrypto (⭐60)](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 
 ### Table of Contents / Passwords
 
@@ -354,7 +351,6 @@
 ### Configuration / PHP Books
 
 *   [Signaling PHP](https://leanpub.com/signalingphp) - A book about catching PCNTL signals in CLI scripts by Cal Evans.
-*   [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - A book about building testing PHP applications by Chris Hartjes.
 *   [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) - This book covers parsing and validating XML documents, leveraging XPath expressions, and working with namespaces as well as how to create and modify XML files programmatically.
 
 ### Configuration / PHP Videos

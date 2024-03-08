@@ -10,7 +10,7 @@
 
 ### Software / Database Management
 
-*   [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data, easy import and export and database management. ([Demo](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants), [Source Code (⭐8.7k)](https://github.com/simonw/datasette)) `Apache-2.0` `Python/Docker`
+*   [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data, easy import and export and database management. ([Demo](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants), [Source Code (⭐8.8k)](https://github.com/simonw/datasette)) `Apache-2.0` `Python/Docker`
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Languages / JavaScript & TypeScript
 
-*   [perawallet-connect (⭐58)](https://github.com/perawallet/connect) - JavaScript SDK for integrating Pera Wallet to web applications.
+*   [perawallet-connect (⭐61)](https://github.com/perawallet/connect) - JavaScript SDK for integrating Pera Wallet to web applications.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 

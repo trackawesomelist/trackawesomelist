@@ -22,11 +22,11 @@
 
 ### Modules / Utils
 
-*   [evt (⭐442)](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
+*   [evt (⭐444)](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
 
 ### Tools / XML
 
-*   [denoify (⭐914)](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
+*   [denoify (⭐916)](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 
 ## [4. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 

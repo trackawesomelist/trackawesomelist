@@ -27,7 +27,7 @@
 
 ### Third-Party Packages / Editors
 
-*   [django-ace (⭐129)](https://github.com/django-ace/django-ace) - ACE integration for Django.
+*   [django-ace (⭐131)](https://github.com/django-ace/django-ace) - ACE integration for Django.
 
 ## [4. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -83,12 +83,11 @@
 
 ### Text / Chatbots
 
-*   [ChatGPT](https://chat.openai.com/chat) - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
-*   [Bing Chat](https://www.bing.com/chat) - A conversational AI language model powered by Microsoft Bing.
-*   [Bard](https://bard.google.com) - An experimental AI chatbot by Google, powered by the LaMDA model.
-*   [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
-*   [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
-*   [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
+*   [ChatGPT](https://chat.openai.com/chat) - *[reviews](https://altern.ai/product/chatgpt)* - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
+*   [Bing Chat](https://www.bing.com/chat) - *[reviews](https://altern.ai/product/bing_chat)* - A conversational AI language model powered by Microsoft Bing.
+*   [Character.AI](https://character.ai/) - *[reviews](https://altern.ai/product/character-ai)* - Character.AI lets you create characters and chat to them.
+*   [ChatPDF](https://www.chatpdf.com/) - *[reviews](https://altern.ai/product/chatpdf)* - Chat with any PDF.
+*   [ChatSonic](https://writesonic.com/chat) - *[reviews](https://altern.ai/product/chatsonic)* - An AI-powered assistant that enables text and image creation.
 
 ### Text / Search engines
 
@@ -100,7 +99,7 @@
 ### Text / Local search engines
 
 *   [privateGPT (⭐48k)](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs.
-*   [quivr (⭐28k)](https://github.com/StanGirard/quivr) - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
+*   [quivr (⭐29k)](https://github.com/StanGirard/quivr) - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
 
 ### Text / Writing assistants
 
@@ -132,9 +131,9 @@
 *   [ShareGPT](https://sharegpt.com/) - Share your ChatGPT conversations and explore conversations shared by others.
 *   [Merlin](https://merlin.foyer.work/) - ChatGPT Plus extension on all websites.
 *   [ChatGPT Writer](https://chatgptwriter.ai/) - Generate entire emails and messages using ChatGPT AI.
-*   [ChatGPT for Jupyter (⭐296)](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - Add various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
+*   [ChatGPT for Jupyter (⭐299)](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - Add various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
 *   [editGPT](https://www.editgpt.app/) - Easily proofread, edit, and track changes to your content in chatGPT.
-*   [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [Source code (⭐24k)](https://github.com/mckaywrigley/chatbot-ui).
+*   [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [Source code (⭐25k)](https://github.com/mckaywrigley/chatbot-ui).
 *   [Forefront](https://www.forefront.ai/) - A Better ChatGPT Experience.
 
 ### Text / Productivity
@@ -169,7 +168,7 @@
 *   [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 *   [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 *   [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
-*   [gpt4all (⭐61k)](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories, and dialogue.
+*   [gpt4all (⭐62k)](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories, and dialogue.
 *   [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
 *   [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
 *   [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine-tune LLM, CV, and tabular models.
@@ -186,7 +185,7 @@
 *   [Debuild](https://debuild.app/) - AI-powered low-code tool for web apps.
 *   [AI2sql](https://www.ai2sql.io/) - With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
 *   [CodiumAI](https://www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you stay confident when you push.
-*   [PR-Agent (⭐3.4k)](https://github.com/Codium-ai/pr-agent) - AI-powered tool for automated PR analysis, feedback, suggestions, and more.
+*   [PR-Agent (⭐3.6k)](https://github.com/Codium-ai/pr-agent) - AI-powered tool for automated PR analysis, feedback, suggestions, and more.
 *   [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
 *   [TurboPilot (⭐3.8k)](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone that uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
 *   [GPT-Code UI (⭐3.4k)](https://github.com/ricklamers/gpt-code-ui) - An open-source implementation of OpenAI's ChatGPT Code interpreter.
@@ -199,7 +198,7 @@
 *   [Midjourney](https://www.midjourney.com/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 *   [Imagen](https://imagen.research.google/) - Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
 *   [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.
-*   [DragGAN (⭐34k)](https://github.com/XingangPan/DragGAN) - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
+*   [DragGAN (⭐35k)](https://github.com/XingangPan/DragGAN) - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
     -[Canva](https://www.canva.com/) - Generate and Edit your Pictures with the help of AI
 
 ### Image / Services
@@ -247,7 +246,7 @@
 *   [DiffusionDB](https://diffusiondb.com/) - A list of all public apps, developer tools, guides and plugins for Stable Diffusion. [Airtable version](https://airtable.com/shr0HlBwbw3nZ8Ht3/tblxOCylXV8ynh7ti).
 *   [PublicPrompts](https://publicprompts.art/) - A collection of free prompts for Stable Diffusion.
 *   [Stableboost](https://stableboost.ai/) - Stableboost is a Stable Diffusion WebUI that lets you quickly generate a lot of images so you can find the perfect ones.
-*   [Hugging Face Diffusion Models Course (⭐3k)](https://github.com/huggingface/diffusion-models-class) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
+*   [Hugging Face Diffusion Models Course (⭐3.1k)](https://github.com/huggingface/diffusion-models-class) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
 
 ### Video / Stable Diffusion resources
 
@@ -267,7 +266,7 @@
 *   [podcast.ai](https://podcast.ai/) - A podcast that is entirely generated by artificial intelligence, powered by Play.ht text-to-voice AI.
 *   [VALL-E X](https://vallex-demo.github.io/) - A cross-lingual neural codec language model for cross-lingual speech synthesis.
 *   [TorToiSe (⭐11k)](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
-*   [Bark (⭐30k)](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
+*   [Bark (⭐31k)](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
 
 ### Phone Calls / Music
 
@@ -392,7 +391,7 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 ### (requires Neovim 0.5) / Diagnostics
 
-*   [piersolenski/wtf.nvim (⭐266)](https://github.com/piersolenski/wtf.nvim) - AI powered diagnostic debugging, helps explain complex errors and offers custom tailored solutions.
+*   [piersolenski/wtf.nvim (⭐274)](https://github.com/piersolenski/wtf.nvim) - AI powered diagnostic debugging, helps explain complex errors and offers custom tailored solutions.
 
 ### AI / Diagnostics
 
@@ -400,16 +399,16 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [askfiy/visual\_studio\_code (⭐136)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
-*   [Verf/deepwhite.nvim (⭐60)](https://github.com/Verf/deepwhite.nvim) - A light colorscheme inspired by [flatwhite-syntax (⭐151)](https://github.com/biletskyy/flatwhite-syntax) and [elegant-emacs (⭐1.3k)](https://github.com/rougier/elegant-emacs).
+*   [askfiy/visual\_studio\_code (⭐140)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
+*   [Verf/deepwhite.nvim (⭐60)](https://github.com/Verf/deepwhite.nvim) - A light colorscheme inspired by [flatwhite-syntax (⭐153)](https://github.com/biletskyy/flatwhite-syntax) and [elegant-emacs (⭐1.3k)](https://github.com/rougier/elegant-emacs).
 
 ### Utility / Diagnostics
 
-*   [GCBallesteros/NotebookNavigator.nvim (⭐112)](https://github.com/GCBallesteros/NotebookNavigator.nvim) - Navigate and execute code cells.
+*   [GCBallesteros/NotebookNavigator.nvim (⭐117)](https://github.com/GCBallesteros/NotebookNavigator.nvim) - Navigate and execute code cells.
 
 ### Formatting / Diagnostics
 
-*   [stevearc/conform.nvim (⭐1.6k)](https://github.com/stevearc/conform.nvim) - A lightweight formatting engine that plays nice with LSP.
+*   [stevearc/conform.nvim (⭐1.8k)](https://github.com/stevearc/conform.nvim) - A lightweight formatting engine that plays nice with LSP.
 
 ## [20. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
@@ -439,7 +438,7 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Sunshine](https://app.lizardbyte.dev/Sunshine/) - Remote game stream host for Moonlight with support up to 120 frames per second and 4K resolution. ([Source Code (⭐10k)](https://github.com/LizardByte/Sunshine)) `GPL-3.0` `C++/deb/Docker`
+*   [Sunshine](https://app.lizardbyte.dev/Sunshine/) - Remote game stream host for Moonlight with support up to 120 frames per second and 4K resolution. ([Source Code (⭐11k)](https://github.com/LizardByte/Sunshine)) `GPL-3.0` `C++/deb/Docker`
 
 ### Software / Miscellaneous
 
@@ -447,19 +446,19 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 ### Software / Pastebins
 
-*   [Hemmelig](https://hemmelig.app) - Share encrypted secrets cross organizations, or as private persons. ([Source Code (⭐600)](https://github.com/HemmeligOrg/Hemmelig.app)) `MIT` `Docker/Nodejs`
+*   [Hemmelig](https://hemmelig.app) - Share encrypted secrets cross organizations, or as private persons. ([Source Code (⭐616)](https://github.com/HemmeligOrg/Hemmelig.app)) `MIT` `Docker/Nodejs`
 
 ### Software / Software Development - API Management
 
-*   [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API. ([Source Code (⭐421)](https://github.com/exogee-technology/graphweaver)) `MIT` `Nodejs`
+*   [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API. ([Source Code (⭐428)](https://github.com/exogee-technology/graphweaver)) `MIT` `Nodejs`
 
 ### Software / Software Development - Project Management
 
-*   [rgit (⭐55)](https://github.com/w4/rgit) - An ultra-fast & lightweight cgit clone. ([Demo](https://git.inept.dev/)) `WTFPL` `Rust/Docker`
+*   [rgit (⭐61)](https://github.com/w4/rgit) - An ultra-fast & lightweight cgit clone. ([Demo](https://git.inept.dev/)) `WTFPL` `Rust/Docker`
 
 ### Software / Task Management & To-do Lists
 
-*   [AppFlowy](https://appflowy.io/) - With AppFlowy, you can build detailed lists of to-do’s for different projects while tracking the status of each one. Open Source Notion Alternative. ([Source Code (⭐46k)](https://github.com/AppFlowy-IO/appflowy)) `AGPL-3.0` `Rust/Dart/Docker`
+*   [AppFlowy](https://appflowy.io/) - With AppFlowy, you can build detailed lists of to-do’s for different projects while tracking the status of each one. Open Source Notion Alternative. ([Source Code (⭐47k)](https://github.com/AppFlowy-IO/appflowy)) `AGPL-3.0` `Rust/Dart/Docker`
 
 ## [25. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -479,7 +478,7 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 ### Tools / XML
 
-*   [entype (⭐1)](https://github.com/bcheidemann/entype) - A CLI tool used to generate type definitions for serialised data, currently supporting JSON to Rust and TypeScript.
+*   [entype (⭐2)](https://github.com/bcheidemann/entype) - A CLI tool used to generate type definitions for serialised data, currently supporting JSON to Rust and TypeScript.
 
 ## [27. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -523,14 +522,14 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [SimpleAIChat (⭐3.1k)](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity. ![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)
-*   [LLMStack (⭐754)](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data. ![GitHub Repo stars](https://img.shields.io/github/stars/trypromptly/LLMStack?style=social)
+*   [SimpleAIChat (⭐3.3k)](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity. ![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)
+*   [LLMStack (⭐951)](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data. ![GitHub Repo stars](https://img.shields.io/github/stars/trypromptly/LLMStack?style=social)
 
 ## [32. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
-*   [jupyter-ai (⭐1.8k)](https://github.com/jupyterlab/jupyter-ai) - Work with generative AIs (wide range of models supported) as a conversational assistant in JupyterLab.
+*   [jupyter-ai (⭐2.7k)](https://github.com/jupyterlab/jupyter-ai) - Work with generative AIs (wide range of models supported) as a conversational assistant in JupyterLab.
 
 ## [33. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -592,7 +591,7 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [airpods-battery (⭐1)](https://github.com/A-delta/zsh-airpods-battery/) - Looks for AirPods via Bluetooth and puts their battery charge state into `$RPROMPT`.
+*   [airpods-battery (⭐3)](https://github.com/A-delta/zsh-airpods-battery/) - Looks for AirPods via Bluetooth and puts their battery charge state into `$RPROMPT`.
 
 ---
 

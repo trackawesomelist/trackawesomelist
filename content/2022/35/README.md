@@ -166,7 +166,7 @@
 ### Applications / Database
 
 *   [RisingWaveLabs/RisingWave (⭐6k)](https://github.com/RisingWaveLabs/risingwave) - the next-generation streaming database in the cloud [![CI](https://github.com/RisingWaveLabs/risingwave/actions/workflows/main.yml/badge.svg)](https://github.com/RisingWaveLabs/risingwave/actions/workflows/main.yml/badge.svg?branch=main)
-*   [SurrealDB (⭐24k)](https://github.com/surrealdb/surrealdb) — A scalable, distributed, document-graph database [![Build Status](https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration/main)](https://github.com/surrealdb/surrealdb/actions)
+*   [SurrealDB (⭐25k)](https://github.com/surrealdb/surrealdb) — A scalable, distributed, document-graph database [![Build Status](https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration/main)](https://github.com/surrealdb/surrealdb/actions)
 
 ### Applications / System tools
 
@@ -241,23 +241,23 @@
 ### Plugins and scripts / Various Godot versions
 
 *   [Dialogue Manager (⭐1.6k)](https://github.com/nathanhoad/godot_dialogue_manager) - A simple but powerful text based branching dialogue editor and runtime (Godot 3.x, 4.x).
-*   [Input Helper (⭐562)](https://github.com/nathanhoad/godot_input_helper) - A helper for detecting input devices and remapping controls (Godot 3.x, 4.x).
+*   [Input Helper (⭐577)](https://github.com/nathanhoad/godot_input_helper) - A helper for detecting input devices and remapping controls (Godot 3.x, 4.x).
 
 ## [27. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Backports and improvements
 
-*   [future-typing (⭐16)](https://github.com/PrettyWood/future-typing) - Backport for type hinting generics in standard collections and union types as `X | Y`.
+*   [future-typing (⭐17)](https://github.com/PrettyWood/future-typing) - Backport for type hinting generics in standard collections and union types as `X | Y`.
 
 ### Tools / Working with types
 
-*   [mypy-baseline (⭐37)](https://github.com/orsinium-labs/mypy-baseline) - Integrate mypy with existing codebase. A CLI tool that filters out existing type errors and reports only new ones.
-*   [retype (⭐134)](https://github.com/ambv/retype) - Another tool to apply stubs to code.
-*   [typesplainer (⭐79)](https://github.com/wasi-master/typesplainer) - A Python type explainer.
+*   [mypy-baseline (⭐42)](https://github.com/orsinium-labs/mypy-baseline) - Integrate mypy with existing codebase. A CLI tool that filters out existing type errors and reports only new ones.
+*   [retype (⭐139)](https://github.com/ambv/retype) - Another tool to apply stubs to code.
+*   [typesplainer (⭐82)](https://github.com/wasi-master/typesplainer) - A Python type explainer.
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [infer-types (⭐65)](https://github.com/orsinium-labs/infer-types) - CLI tool to automatically infer and add type annotations into Python code.
+*   [infer-types (⭐72)](https://github.com/orsinium-labs/infer-types) - CLI tool to automatically infer and add type annotations into Python code.
 
 ## [28. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
@@ -338,7 +338,7 @@
 ### Libraries/Frameworks / Misc
 
 *   [pearxteam/kasechange (⭐81)](https://github.com/pearxteam/kasechange) - Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case
-*   [insanusmokrassar/TelegramBotAPI (⭐305)](https://github.com/insanusmokrassar/TelegramBotAPI) - Kotlin Multiplatform library for type-safe work with Telegram Bot API
+*   [insanusmokrassar/TelegramBotAPI (⭐308)](https://github.com/insanusmokrassar/TelegramBotAPI) - Kotlin Multiplatform library for type-safe work with Telegram Bot API
 
 ## [38. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
@@ -380,40 +380,40 @@
 
 ### Completion / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.completion (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-completion.md) - Module of `mini.nvim` for asynchronous two-stage completion. Supports showing completion item info and independent function signature.
+*   [echasnovski/mini.nvim#mini.completion (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-completion.md) - Module of `mini.nvim` for asynchronous two-stage completion. Supports showing completion item info and independent function signature.
 
 ### Syntax / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.surround (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-surround.md) - Module of `mini.nvim` for working with text surroundings (add, delete, replace, find, highlight). Supports dot-repeat, different search methods, "last"/"next" extended mappings, tree-sitter integration, and more.
+*   [echasnovski/mini.nvim#mini.surround (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-surround.md) - Module of `mini.nvim` for working with text surroundings (add, delete, replace, find, highlight). Supports dot-repeat, different search methods, "last"/"next" extended mappings, tree-sitter integration, and more.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.fuzzy (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-fuzzy.md) - Module of `mini.nvim` with functions to perform fuzzy matching of one string to others along with fast Telescope sorter.
+*   [echasnovski/mini.nvim#mini.fuzzy (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-fuzzy.md) - Module of `mini.nvim` with functions to perform fuzzy matching of one string to others along with fast Telescope sorter.
 
 ### Color / Diagnostics
 
-*   [nvim-colortils/colortils.nvim (⭐324)](https://github.com/nvim-colortils/colortils.nvim) - A plugin providing utils to work with colors (picker, conversion) inside Neovim.
+*   [nvim-colortils/colortils.nvim (⭐328)](https://github.com/nvim-colortils/colortils.nvim) - A plugin providing utils to work with colors (picker, conversion) inside Neovim.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.doc (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-doc.md) - Module of `mini.nvim` for generation of help files from EmmyLua-like annotations. Allows flexible customization of output via hook functions.
-*   [echasnovski/mini.nvim#mini.test (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-test.md) - Module of `mini.nvim` with framework for writing extensive Neovim plugin tests. Supports hierarchical tests, hooks, parametrization, filtering, screen tests, "busted-style" emulation, customizable reporters, and more.
+*   [echasnovski/mini.nvim#mini.doc (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-doc.md) - Module of `mini.nvim` for generation of help files from EmmyLua-like annotations. Allows flexible customization of output via hook functions.
+*   [echasnovski/mini.nvim#mini.test (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-test.md) - Module of `mini.nvim` with framework for writing extensive Neovim plugin tests. Supports hierarchical tests, hooks, parametrization, filtering, screen tests, "busted-style" emulation, customizable reporters, and more.
 *   [ray-x/guihua.lua (⭐141)](https://github.com/ray-x/guihua.lua) - A Lua UI library. Includes a fzy search bar, list view and tree view modules.
 
 ### Motion / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.jump (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-jump.md) - Module of `mini.nvim` for smarter jumping to a single character.
-*   [echasnovski/mini.nvim#mini.jump2d (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-jump2d.md) - Module of `mini.nvim` for smarter jumping within visible lines via iterative label filtering. Supports custom jump targets (spots), labels, hooks, allowed windows and lines, and more.
+*   [echasnovski/mini.nvim#mini.jump (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-jump.md) - Module of `mini.nvim` for smarter jumping to a single character.
+*   [echasnovski/mini.nvim#mini.jump2d (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-jump2d.md) - Module of `mini.nvim` for smarter jumping within visible lines via iterative label filtering. Supports custom jump targets (spots), labels, hooks, allowed windows and lines, and more.
 
 ### Editing Support / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.pairs (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pairs.md) - Module of `mini.nvim` for autopairs which has minimal defaults and functionality to do per-key mapping.
-*   [echasnovski/mini.nvim#mini.trailspace (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-trailspace.md) - Module of `mini.nvim` for automatic highlighting of trailing whitespace with functionality to remove it.
-*   [echasnovski/mini.nvim#mini.ai (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-ai.md) - Module of `mini.nvim` for extending and creating `a`/`i` textobjects. It enhances some builtin textobjects, creates extensive set of new ones (like `a*`, `a<Space>`, `a?`, and more), and allows user to create their own (via Lua patterns or functions). Supports dot-repeat, different search methods, consecutive application, and more.
+*   [echasnovski/mini.nvim#mini.pairs (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pairs.md) - Module of `mini.nvim` for autopairs which has minimal defaults and functionality to do per-key mapping.
+*   [echasnovski/mini.nvim#mini.trailspace (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-trailspace.md) - Module of `mini.nvim` for automatic highlighting of trailing whitespace with functionality to remove it.
+*   [echasnovski/mini.nvim#mini.ai (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-ai.md) - Module of `mini.nvim` for extending and creating `a`/`i` textobjects. It enhances some builtin textobjects, creates extensive set of new ones (like `a*`, `a<Space>`, `a?`, and more), and allows user to create their own (via Lua patterns or functions). Supports dot-repeat, different search methods, consecutive application, and more.
 
 ### Session / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.sessions (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-sessions.md) - Module of `mini.nvim` for session management (read, write, delete).
+*   [echasnovski/mini.nvim#mini.sessions (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-sessions.md) - Module of `mini.nvim` for session management (read, write, delete).
 
 ## [42. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -862,11 +862,11 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Ganymede (⭐339)](https://github.com/Zibbp/ganymede) `⚠` - Twitch VOD and Live Stream archiving platform. Includes a rendered chat for each archive. `GPL-3.0` `Docker`
+*   [Ganymede (⭐344)](https://github.com/Zibbp/ganymede) `⚠` - Twitch VOD and Live Stream archiving platform. Includes a rendered chat for each archive. `GPL-3.0` `Docker`
 
 ### Software / Communication - Custom Communication Systems
 
-*   [LeapChat](https://www.leapchat.org/) - Ephemeral, encrypted, in-browser chat rooms. ([Source Code (⭐174)](https://github.com/cryptag/leapchat)) `AGPL-3.0` `Docker/Nodejs/Shell`
+*   [LeapChat](https://www.leapchat.org/) - Ephemeral, encrypted, in-browser chat rooms. ([Source Code (⭐176)](https://github.com/cryptag/leapchat)) `AGPL-3.0` `Docker/Nodejs/Shell`
 
 ### Software / Communication - Video Conferencing
 
@@ -874,7 +874,7 @@
 
 ### Software / Human Resources Management (HRM)
 
-*   [OrangeHRM](https://www.orangehrm.com/) - OrangeHRM is a comprehensive HRM system that captures all the essential functionalities required for any enterprise. ([Demo](https://opensource-demo.orangehrmlive.com/), [Source Code (⭐692)](https://github.com/orangehrm/orangehrm)) `GPL-2.0` `PHP`
+*   [OrangeHRM](https://www.orangehrm.com/) - OrangeHRM is a comprehensive HRM system that captures all the essential functionalities required for any enterprise. ([Demo](https://opensource-demo.orangehrmlive.com/), [Source Code (⭐701)](https://github.com/orangehrm/orangehrm)) `GPL-2.0` `PHP`
 
 ### Software / Internet of Things (IoT)
 
@@ -882,24 +882,20 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Navidrome Music Server](https://www.navidrome.org) - Modern Music Server and Streamer, compatible with Subsonic/Airsonic. ([Demo](https://www.navidrome.org/demo), [Source Code (⭐9.1k)](https://github.com/navidrome/navidrome), [Clients](https://www.navidrome.org/docs/overview/#apps)) `GPL-3.0` `Docker/Go`
+*   [Navidrome Music Server](https://www.navidrome.org) - Modern Music Server and Streamer, compatible with Subsonic/Airsonic. ([Demo](https://www.navidrome.org/demo), [Source Code (⭐9.4k)](https://github.com/navidrome/navidrome), [Clients](https://www.navidrome.org/docs/overview/#apps)) `GPL-3.0` `Docker/Go`
 
 ### Software / Miscellaneous
 
 *   [Overseerr](https://overseerr.dev/) `⚠` - Overseerr is a free and open source software application for managing requests for your media library. It integrates with your existing services, such as Sonarr, Radarr, and Plex!. ([Source Code (⭐3.2k)](https://github.com/sct/overseerr)) `MIT` `Docker`
 *   [WeTTY](https://butlerx.github.io/wetty/#/) - Terminal in browser over http/https. ([Source Code (⭐4k)](https://github.com/butlerx/wetty)) `MIT` `Docker/Nodejs`
 
-### Software / Pastebins
-
-*   [Hasty Paste](https://enchantedcode.co.uk/hasty-paste/) - A place to quickly paste some text and share it. Mostly used for sharing debug logs and such to help developers provide tech support. The project aims to be both fast and minimal. ([Source Code (⭐183)](https://github.com/enchant97/hasty-paste)) `AGPL-3.0` `Docker/Python`
-
 ### Software / Resource Planning
 
-*   [farmOS](https://farmos.org/) - Web-based farm record keeping application. ([Demo](https://farmos-demo.rootedsolutions.io/), [Source Code (⭐879)](https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP/Docker`
+*   [farmOS](https://farmos.org/) - Web-based farm record keeping application. ([Demo](https://farmos-demo.rootedsolutions.io/), [Source Code (⭐890)](https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP/Docker`
 
 ### Software / Search Engines
 
-*   [Fess](https://fess.codelibs.org/) - Fess is a very powerful and easily deployable Enterprise Search Server. ([Demo](https://search.n2sm.co.jp/), [Source Code (⭐942)](https://github.com/codelibs/fess)) `Apache-2.0` `Java/Docker`
+*   [Fess](https://fess.codelibs.org/) - Fess is a very powerful and easily deployable Enterprise Search Server. ([Demo](https://search.n2sm.co.jp/), [Source Code (⭐949)](https://github.com/codelibs/fess)) `Apache-2.0` `Java/Docker`
 
 ### Software / Status / Uptime pages
 
@@ -909,7 +905,7 @@
 
 ### Driver crates / Other
 
-*   [ST7789](http://crates.io/crates/st7789) - SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix used in the PineTime watch - [github (⭐42)](https://github.com/almindor/st7789) - ![crates.io](https://img.shields.io/crates/v/st7789.svg)
+*   [ST7789](http://crates.io/crates/st7789) - SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix used in the PineTime watch - [github (⭐43)](https://github.com/almindor/st7789) - ![crates.io](https://img.shields.io/crates/v/st7789.svg)
 *   [ST7565](http://crates.io/crates/st7565) - SPI - An embedded-graphics compatible driver for LCD displays based on the ST7565 chip - [github (⭐4)](https://github.com/Finomnis/st7565) - ![crates.io](https://img.shields.io/crates/v/st7565.svg)
 
 ## [57. Awesome Yew](/content/jetli/awesome-yew/week/README.md)

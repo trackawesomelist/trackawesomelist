@@ -65,7 +65,7 @@
 
 ### Applications / System tools
 
-*   [eza-community/eza (⭐5.5k)](https://github.com/eza-community/eza) — A replacement for 'ls'
+*   [eza-community/eza (⭐6k)](https://github.com/eza-community/eza) — A replacement for 'ls'
 
 ## [9. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Orchestrator (⭐266)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games (Godot 4.x).
+*   [Orchestrator (⭐519)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games (Godot 4.x).
 
 ## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

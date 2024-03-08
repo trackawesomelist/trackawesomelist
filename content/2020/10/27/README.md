@@ -17,7 +17,7 @@
 
 ### Version Control
 
-*   [nbQA (⭐851)](https://github.com/nbQA-dev/nbQA) - Run any standard Python code quality tool on a Jupyter Notebook, from the command-line or via pre-commit.
+*   [nbQA (⭐944)](https://github.com/nbQA-dev/nbQA) - Run any standard Python code quality tool on a Jupyter Notebook, from the command-line or via pre-commit.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

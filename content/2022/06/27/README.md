@@ -32,11 +32,11 @@
 
 ### Color / Diagnostics
 
-*   [ziontee113/color-picker.nvim (⭐253)](https://github.com/ziontee113/color-picker.nvim) - Plugin that lets users choose & modify RGB/HSL/HEX colors inside Neovim.
+*   [ziontee113/color-picker.nvim (⭐255)](https://github.com/ziontee113/color-picker.nvim) - Plugin that lets users choose & modify RGB/HSL/HEX colors inside Neovim.
 
 ### Formatting / Diagnostics
 
-*   [mcauley-penney/tidy.nvim (⭐98)](https://github.com/mcauley-penney/tidy.nvim) - Clear trailing whitespace and empty lines at end of file on every save.
+*   [mcauley-penney/tidy.nvim (⭐99)](https://github.com/mcauley-penney/tidy.nvim) - Clear trailing whitespace and empty lines at end of file on every save.
 
 ## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -1117,7 +1117,7 @@
 
 ### GTFS Analysis Tools / Ruby
 
-*   [tidytransit (⭐131)](https://github.com/r-transit/tidytransit) - An R package to read GTFS data into tibbles and simple features dataframes to map transit stops and routes, calculate travel times and transit frequencies, and validate transit feeds.
+*   [tidytransit (⭐135)](https://github.com/r-transit/tidytransit) - An R package to read GTFS data into tibbles and simple features dataframes to map transit stops and routes, calculate travel times and transit frequencies, and validate transit feeds.
 
 ## [10. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 

@@ -51,7 +51,7 @@
 
 ### Domain-Specific Projects
 
-*   [Jupylet (⭐201)](https://github.com/nir/jupylet) - Create 2D and 3D games, graphics, live music and sound interactively in a Jupyter notebook.
+*   [Jupylet (⭐217)](https://github.com/nir/jupylet) - Create 2D and 3D games, graphics, live music and sound interactively in a Jupyter notebook.
 
 ## [7. Magictools](/content/ellisonleao/magictools/README.md)
 

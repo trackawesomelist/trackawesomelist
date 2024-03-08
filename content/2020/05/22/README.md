@@ -168,24 +168,24 @@
 
 ### Component Libraries
 
-*   [Brightspace UI core (⭐48)](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
-*   [Clever components (⭐195)](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
-*   [DataFormsJS (⭐173)](https://github.com/dataformsjs/dataformsjs) - Standalone Components for SPA routing, displaying data from web services, and more.
-*   [Elix (⭐790)](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
-*   [Lion Web Components (⭐1.6k)](https://github.com/ing-bank/lion) - Set of highly performant, accessible and flexible Web Components.
-*   [LRNWebComponents (⭐230)](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.
-*   [Microsoft Graph Toolkit (⭐858)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
+*   [Brightspace UI core (⭐51)](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
+*   [Clever components (⭐198)](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
+*   [DataFormsJS (⭐177)](https://github.com/dataformsjs/dataformsjs) - Standalone Components for SPA routing, displaying data from web services, and more.
+*   [Elix (⭐800)](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
+*   [Lion Web Components (⭐1.7k)](https://github.com/ing-bank/lion) - Set of highly performant, accessible and flexible Web Components.
+*   [LRNWebComponents (⭐235)](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.
+*   [Microsoft Graph Toolkit (⭐880)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
 *   [Nuxeo Elements (⭐27)](https://github.com/nuxeo/nuxeo-elements) - Components for building web applications with Nuxeo using Web Components.
 *   [Tradeshift Elements (⭐14)](https://github.com/Tradeshift/elements) - Reusable Tradeshift UI Components as Web Components.
 *   [Wired Elements (⭐9.6k)](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
-*   [Wokwi Elements (⭐150)](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
+*   [Wokwi Elements (⭐154)](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
 
 ### Design Systems
 
-*   [Calcite Components (⭐246)](https://github.com/Esri/calcite-components) - Shared Web Components for Esri's Calcite design framework.
+*   [Calcite Components (⭐252)](https://github.com/Esri/calcite-components) - Shared Web Components for Esri's Calcite design framework.
 *   [Helix UI (⭐56)](https://github.com/HelixDesignSystem/helix-ui) - Web Component library for the Helix Design System.
 *   [NuML | NUDE Elements (⭐336)](https://github.com/tenphi/numl) - HTML Framework and Design System based on Web Components and runtime CSS generation.
-*   [PatternFly Elements (⭐364)](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
+*   [PatternFly Elements (⭐370)](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
 *   [Spectrum Web Components (⭐1.1k)](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with Web Components.
 *   [UI5 Web Components (⭐1.4k)](https://github.com/SAP/ui5-webcomponents) - Set of reusable UI elements implementing SAP Fiori Design Guidelines.
 *   [Zooplus web components (⭐45)](https://github.com/zooplus/zoo-web-components) - Set of web components that implement Z+ shop style guide.

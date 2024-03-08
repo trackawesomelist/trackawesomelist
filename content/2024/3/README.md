@@ -28,7 +28,7 @@
 
 ### Office
 
-*   [RNote (⭐4.9k)](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
+*   [RNote (⭐5k)](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 
 ### Scientific Tooling
 
@@ -40,7 +40,7 @@
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Thunderbird GNOME Theme (⭐221)](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
+*   [Thunderbird GNOME Theme (⭐226)](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -98,18 +98,18 @@
 
 ### Third-Party Packages / Users
 
-*   [django-guest-user (⭐65)](https://github.com/julianwachholz/django-guest-user) - Allow visitors to use your site like a regular user and register later.
+*   [django-guest-user (⭐68)](https://github.com/julianwachholz/django-guest-user) - Allow visitors to use your site like a regular user and register later.
 
 ### Projects / Boilerplate
 
-*   [Falco (⭐232)](https://github.com/tobi-de/falco) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
+*   [Falco (⭐271)](https://github.com/tobi-de/falco) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
 
 ## [10. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 
-*   [Melt UI (⭐2.5k)](https://github.com/melt-ui/melt-ui) - A collection of accessible, reusable, and composable headless component builders and utilities.
-*   [Radix Svelte (⭐464)](https://github.com/radix-svelte/radix-svelte) - An unofficial community-led Svelte port of Radix UI Primitives
+*   [Melt UI (⭐2.7k)](https://github.com/melt-ui/melt-ui) - A collection of accessible, reusable, and composable headless component builders and utilities.
+*   [Radix Svelte (⭐465)](https://github.com/radix-svelte/radix-svelte) - An unofficial community-led Svelte port of Radix UI Primitives
 
 ## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -251,12 +251,12 @@
 ### Learning Resources / Natural language processing
 
 *   [A Code-First Introduction to NLP](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) – by Rachel Thomas of fast.ai
-*   [NLP course](https://lena-voita.github.io/nlp_course.html) and associated [GitHub repo (⭐9.2k)](https://github.com/yandexdataschool/nlp_course#readme) – by Elena Voita
+*   [NLP course](https://lena-voita.github.io/nlp_course.html) and associated [GitHub repo (⭐9.3k)](https://github.com/yandexdataschool/nlp_course#readme) – by Elena Voita
 *   [NLP accelerated class](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw) – by Machine Learning University
 *   [Overview of deep learning techniques applied to NLP (2018)](https://nlpoverview.com/index.html)
 *   [Deep Learning for NLP](https://machinelearningmastery.com/category/natural-language-processing/) – from Machine Learning Mastery
-*   [Hands-on NLTK Tutorial (⭐535)](https://github.com/hb20007/hands-on-nltk-tutorial#readme)
-*   [NLP in Python - Quickstart Guide (⭐557)](https://github.com/NirantK/NLP_Quickbook#readme)
+*   [Hands-on NLTK Tutorial (⭐537)](https://github.com/hb20007/hands-on-nltk-tutorial#readme)
+*   [NLP in Python - Quickstart Guide (⭐558)](https://github.com/NirantK/NLP_Quickbook#readme)
 *   [Deep Learning for NLP With Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html)
 
 ### Learning Resources / Generative AI
@@ -264,13 +264,13 @@
 *   [A Very Gentle Introduction to LLMs without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e) – by Mark Riedl
 *   [A brief introduction to GenAI](https://docs.google.com/presentation/d/1X3VpadTOsUe2neFts24pURy3nNQ2k64k4d3MEqHlEgk/edit#slide=id.g25b6aed46c6_0_492) – by U. Michigan MIDAS
 *   [Understanding LLMs – A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
-*   [Large Language Model Course (⭐23k)](https://github.com/mlabonne/llm-course#readme)
+*   [Large Language Model Course (⭐25k)](https://github.com/mlabonne/llm-course#readme)
 
 ### Learning Resources / Other "awesome" lists in AI and ML
 
-*   [Awesome Computer Vision (⭐19k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
+*   [Awesome Computer Vision (⭐20k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
 *   [Awesome Deep Learning for Natural Language Processing (NLP) (⭐1.2k)](https://github.com/brianspiering/awesome-dl4nlp#readme)
-*   [Awesome Generative AI (⭐4.1k)](https://github.com/steven2358/awesome-generative-ai#readme)
+*   [Awesome Generative AI (⭐4.2k)](https://github.com/steven2358/awesome-generative-ai#readme)
 *   [Awesome Jupyter GLAM (⭐19)](https://github.com/LibraryCarpentry/awesome-jupyter-glam#readme)
 *   [The NLP Index](https://index.quantumstat.com)
 
@@ -278,10 +278,10 @@
 
 *   [Callico](https://teklia.com/blog/open-sourcing-callico/) – open-source web platform for document annotation
 *   [Distributed Annotation 'n' Enrichment (DANE) (⭐2)](https://github.com/CLARIAH/DANE#readme) – compute task assignment & file storage for automatic annotation of content ([CLARIAH](https://www.clariah.nl/about-clariah), Norway)
-*   [HTRFLOW demo](https://huggingface.co/spaces/Riksarkivet/htr_demo) and associated [GitHub repo (⭐22)](https://github.com/Swedish-National-Archives-AI-lab/htrflow_app) – explore AI models for Handwritten Text Recogntion (Swedish National Archives)
+*   [HTRFLOW demo](https://huggingface.co/spaces/Riksarkivet/htr_demo) and associated [GitHub repo (⭐23)](https://github.com/Swedish-National-Archives-AI-lab/htrflow_app) – explore AI models for Handwritten Text Recogntion (Swedish National Archives)
 *   [Label Studio](https://labelstud.io) – data labeling platform to fine-tune LLMs, prepare training data, or validate AI models
 *   [OCR correction](https://bnl.public.lu/en.html) – OCR correction tools (Bibliothèque nationale, Luxembourg)
-*   [Surya (⭐4.1k)](https://github.com/VikParuchuri/surya#readme) – multilingual document OCR toolkit with line-level text detection
+*   [Surya (⭐4.9k)](https://github.com/VikParuchuri/surya#readme) – multilingual document OCR toolkit with line-level text detection
 *   [Text models from the National Library of Sweden](https://huggingface.co/KBLab) – available on Hugging Face
 *   [Transkribus](https://readcoop.eu/transkribus/) – transcription, recognition, & searching of historical documents
 
@@ -290,7 +290,7 @@
 *   [Acoustic models from the National Library of Sweden](https://huggingface.co/KBLab) – available on Hugging Face
 *   [Audiovisual Metadata Platform (AMP)](https://uisapp2.iu.edu/confluence-prd/display/AMP/AMP%3A+Audiovisual+Metadata+Platform) – generation of metadata for discovery & use of digital audio & video collections (Indiana U., USA)
 *   [CAMPI](https://kilthub.cmu.edu/articles/preprint/CAMPI_Computer-Aided_Metadata_Generation_for_Photo_archives_Initiative/12791807) – Computer-Aided Metadata Generation for Photo archives Initiative (Carnegie Mellonw U., USA)
-*   [inaFaceAnalyzer (⭐14)](https://github.com/ina-foss/inaFaceAnalyzer#readme) – Python toolbox for face-based description of gender representation in media (Institut National de l'Audiovisuel, France)
+*   [inaFaceAnalyzer (⭐15)](https://github.com/ina-foss/inaFaceAnalyzer#readme) – Python toolbox for face-based description of gender representation in media (Institut National de l'Audiovisuel, France)
 *   [Newspaper Navigator](https://labs.loc.gov/work/experiments/newspaper-navigator/) – explore visual & textual content in the *Chronicling America* digitized newspaper collection (Library of Congress, USA)
 *   [Oodi](https://medium.com/headai-customer-stories/customer-story-oodi-1d1ef2554bb6) – virtual information assistant (Helsinki Central Library)
 *   [ReTV](https://retv-project.eu) – video analysis & summarization (Modul Univesrity, Austria)
@@ -311,14 +311,13 @@
 
 *   [BERTopic](https://maartengr.github.io/BERTopic/index.html) – topic modeling technique that leverages Transformers and c-TF-IDF
 *   [Chatbot for Luxembourgish newspapers](https://chat.eluxemburgensia.lu/login?next=/) – uses ChatGPT and understands French, German and English (Bibliothèque nationale de Luxembourg)
-*   [Norwegian Transformer Model (NoTraM) (⭐103)](https://github.com/NBAiLab/notram#readme) – transformer model for Norwegian and Nordic languages (National Library of Norway)
-*   [Swedish BERT (⭐134)](https://github.com/Kungbib/swedish-bert-models#readme) – BERT model for the Swedish language (Royal Library of Sweden)
+*   [Norwegian Transformer Model (NoTraM) (⭐105)](https://github.com/NBAiLab/notram#readme) – transformer model for Norwegian and Nordic languages (National Library of Norway)
+*   [Swedish BERT (⭐135)](https://github.com/Kungbib/swedish-bert-models#readme) – BERT model for the Swedish language (Royal Library of Sweden)
 *   [Visual AI](https://www.robots.ox.ac.uk/~vgg/projects/visualai/index.html) – open-world interpretable visual transformer (UK)
 
-### Datasets / Applications of Transformers, LLMs, and GPT
+### Datasets / Datasets available elsewhere
 
-*   [Datasets from the National Library of Sweden](https://huggingface.co/KBLab) – available on Hugging Face
-*   [Gensim datasets (⭐927)](https://github.com/piskvorky/gensim-data#readme) – repository of datasets for unstructured text processing
+*   [Gensim datasets (⭐929)](https://github.com/piskvorky/gensim-data#readme) – repository of datasets for unstructured text processing
 *   [HTR-United](https://htr-united.github.io) – datasets for training transcription or segmentation models
 *   [Kaggle datasets](https://www.kaggle.com/datasets)
 *   [nlp-datasets (⭐5.6k)](https://github.com/niderhoff/nlp-datasets#readme) – free/public domain datasets with text data for use in NLP
@@ -330,7 +329,7 @@
 *   [List of Artificial Intelligence (AI) initiatives in museums](https://docs.google.com/spreadsheets/d/1A7IVnucQZ0ICxYSOCjqQ1oV3xGgNzDKtIYGrk6smV7w/edit#gid=0) – compiled in 2021 by Elena Villaespesa, Oonagh Murphy and Kate Nadel for the [Museums+AI Network](https://themuseumsai.network) project.
 *   [Projects in AI Registry (PAIR)](https://libraries.ou.edu/content/project-highlight-projects-ai-registry-pair) – registry of AI projects in higher education (U. Oklahoma Libraries, USA)
 
-### Projects, Initiatives, and Case Studies / Projects by AI4LAM community members
+### Projects, Initiatives, and Case Studies / Select individual projects
 
 *   [Living with Machines](https://livingwithmachines.ac.uk) – Turing Institute & British Library
 *   [Machine Learning with Archive Collections](https://blog.archiveshub.jisc.ac.uk/2022/02/28/machine-learning-with-archive-collections/)
@@ -391,12 +390,12 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [HoNamDuong/hybrid.nvim (⭐45)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
+*   [HoNamDuong/hybrid.nvim (⭐48)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
 
 ### Utility / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.notify (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-notify.md) - Module of `mini.nvim` to show one or more highlighted notifications in a single window. Provides maker of `vim.notify()` implementation and sets up automated LSP progress updates.
-*   [theKnightsOfRohan/csvlens.nvim (⭐22)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens (⭐2k)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
+*   [echasnovski/mini.nvim#mini.notify (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-notify.md) - Module of `mini.nvim` to show one or more highlighted notifications in a single window. Provides maker of `vim.notify()` implementation and sets up automated LSP progress updates.
+*   [theKnightsOfRohan/csvlens.nvim (⭐23)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens (⭐2k)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 
 ### Code Runner / Diagnostics
 
@@ -523,7 +522,7 @@
 
 ### Hardware
 
-*   [Train departure Display (⭐214)](https://github.com/chrisys/train-departure-display) - A replica, near real-time, miniature UK railway station train departure sign based upon a Raspberry Pi Zer0.
+*   [Train departure Display (⭐215)](https://github.com/chrisys/train-departure-display) - A replica, near real-time, miniature UK railway station train departure sign based upon a Raspberry Pi Zer0.
 
 ### Transit Map Creation
 
@@ -603,7 +602,7 @@
 
 *   [gcloud (⭐3)](https://github.com/wintermi/zsh-gcloud) - Finds the installed gcloud sdk and sources the zsh file there, along with the zsh completions file.
 *   [sail (⭐0)](https://github.com/Razzaghnoori/Sailor/) - Adds convenience aliases for [sail](https://laravel.com/docs/10.x/sail).
-*   [zeza (⭐1)](https://github.com/duggum/zeza) - Manages and customizes [eza (⭐5.5k)](https://github.com/eza-community/eza), the very colorful `ls` replacement.
+*   [zeza (⭐1)](https://github.com/duggum/zeza) - Manages and customizes [eza (⭐6k)](https://github.com/eza-community/eza), the very colorful `ls` replacement.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -707,7 +706,7 @@
 
 ### CI/CD / Other
 
-*   [dockcheck (⭐648)](https://github.com/mag37/dockcheck) - A script checking updates for docker images without pulling then auto-update selected/all containers. With notifications, pruning and more.
+*   [dockcheck (⭐674)](https://github.com/mag37/dockcheck) - A script checking updates for docker images without pulling then auto-update selected/all containers. With notifications, pruning and more.
 
 ---
 

@@ -305,9 +305,9 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### C / Git
 
-*   [RHash (⭐522)](https://github.com/rhash/RHash) - Great utility for computing hash sums.
+*   [RHash (⭐528)](https://github.com/rhash/RHash) - Great utility for computing hash sums.
 *   [tiny-AES128-C (⭐3.9k)](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
-*   [xxHash (⭐8k)](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
+*   [xxHash (⭐8.2k)](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
 
 ### C-sharp / Git
 
@@ -326,15 +326,15 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Delphi / Git
 
-*   [DelphiEncryptionCompendium (⭐233)](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) - Cryptographic library for Delphi.
+*   [DelphiEncryptionCompendium (⭐238)](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) - Cryptographic library for Delphi.
 *   [LockBox](https://sourceforge.net/projects/tplockbox/) - LockBox 3 is a Delphi library for cryptography.
-*   [SynCrypto (⭐760)](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) - Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed.
+*   [SynCrypto (⭐763)](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) - Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed.
 *   [TForge](https://bitbucket.org/sergworks/tforge) - TForge is open-source crypto library written in Delphi, compatible with FPC.
 
 ### Elixir / Git
 
-*   [cipher (⭐60)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
-*   [cloak (⭐530)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
+*   [cipher (⭐59)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
+*   [cloak (⭐532)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
 *   [comeonin (⭐1.3k)](https://github.com/elixircnx/comeonin) - Password authorization (bcrypt) library for Elixir.
 *   [elixir\_tea (⭐2)](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
 *   [exgpg (⭐18)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
@@ -358,8 +358,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 *   [Apache Shiro](http://shiro.apache.org/) - Performs authentication, authorization, cryptography and session management.
 *   [Bouncy Castle](https://www.bouncycastle.org/java.html) - All-purpose cryptographic library. JCA provider, wide range of functions from basic helpers to PGP/SMIME operations.
-*   [Google Keyczar (⭐1.1k)](https://github.com/google/keyczar) - Easy to use, yet safe encryption framework with key versioning.
-*   [pac4j (⭐2.3k)](https://github.com/pac4j/pac4j) - Security engine.
+*   [pac4j (⭐2.4k)](https://github.com/pac4j/pac4j) - Security engine.
 
 ### Lua / Git
 
@@ -381,17 +380,17 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Ruby / Git
 
-*   [RbNaCl (⭐980)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
+*   [RbNaCl (⭐978)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 
 ### Rust / Git
 
-*   [cryptoballot (⭐218)](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
-*   [octavo (⭐139)](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
-*   [ring (⭐3.4k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
+*   [cryptoballot (⭐219)](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
+*   [octavo (⭐140)](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
+*   [ring (⭐3.5k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
 *   [rust-openssl (⭐1.3k)](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
-*   [sodiumoxide (⭐639)](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
-*   [suruga (⭐122)](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
-*   [webpki (⭐440)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
+*   [sodiumoxide (⭐638)](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
+*   [suruga (⭐123)](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
+*   [webpki (⭐449)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
 
 ### Swift / Git
 

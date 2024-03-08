@@ -77,8 +77,8 @@
 
 ### Projects / Open Source Projects
 
-*   [Newspaper app with custom user model, full user auth (⭐1k)](https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments)
-*   [Image Sharing Blog (⭐65)](https://github.com/MeNsaaH/soMedia)
+*   [Newspaper app with custom user model, full user auth (⭐1.1k)](https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments)
+*   [Image Sharing Blog (⭐69)](https://github.com/MeNsaaH/soMedia)
 
 ### Django REST Framework / DRF Resources
 

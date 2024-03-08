@@ -24,25 +24,25 @@
 
 ### Third-Party Packages / Configuration
 
-*   [django-extra-settings (⭐438)](https://github.com/fabiocaccamo/django-extra-settings) - Config and manage typed extra settings using just the django admin.
+*   [django-extra-settings (⭐455)](https://github.com/fabiocaccamo/django-extra-settings) - Config and manage typed extra settings using just the django admin.
 
 ### Third-Party Packages / General
 
-*   [django-maintenance-mode (⭐430)](https://github.com/fabiocaccamo/django-maintenance-mode) - Shows a 503 error page when maintenance-mode is on.
+*   [django-maintenance-mode (⭐436)](https://github.com/fabiocaccamo/django-maintenance-mode) - Shows a 503 error page when maintenance-mode is on.
 *   [django-freeze (⭐92)](https://github.com/fabiocaccamo/django-freeze) - Convert your dynamic django site to a static one with one line of code.
 
 ### Third-Party Packages / Model Fields
 
-*   [django-any-urlfield (⭐43)](https://github.com/edoburu/django-any-urlfield) - An improved URL selector to choose between internal models and external URLs.
-*   [django-colorfield (⭐535)](https://github.com/fabiocaccamo/django-colorfield) - Color field for django models with a nice color-picker widget.
+*   [django-any-urlfield (⭐44)](https://github.com/edoburu/django-any-urlfield) - An improved URL selector to choose between internal models and external URLs.
+*   [django-colorfield (⭐545)](https://github.com/fabiocaccamo/django-colorfield) - Color field for django models with a nice color-picker widget.
 
 ### Third-Party Packages / Models
 
-*   [django-treenode (⭐554)](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree based stuff.
+*   [django-treenode (⭐571)](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree based stuff.
 
 ### Third-Party Packages / URLs
 
-*   [django-redirects (⭐61)](https://github.com/fabiocaccamo/django-redirects) - Redirects as they should be, with full control.
+*   [django-redirects (⭐62)](https://github.com/fabiocaccamo/django-redirects) - Redirects as they should be, with full control.
 
 ## [3. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -141,12 +141,12 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [ArchivesSpace](https://archivesspace.org/) - Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. ([Demo](https://archivesspace.org/application/sandbox), [Source Code (⭐319)](https://github.com/archivesspace/archivesspace)) `ECL-2.0` `Ruby`
+*   [ArchivesSpace](https://archivesspace.org/) - Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. ([Demo](https://archivesspace.org/application/sandbox), [Source Code (⭐321)](https://github.com/archivesspace/archivesspace)) `ECL-2.0` `Ruby`
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Hackershare (⭐540)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers. `MIT` `Ruby`
-*   [LinkAce](https://www.linkace.org/) - A bookmark archive with automatic backups to the Internet Archive, link monitoring, and a full REST API. Installation is done via Docker, or as a simple PHP application. ([Demo](https://demo.linkace.org/guest/links), [Source Code (⭐2.3k)](https://github.com/Kovah/LinkAce/)) `GPL-3.0` `Docker/PHP`
+*   [Hackershare (⭐544)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers. `MIT` `Ruby`
+*   [LinkAce](https://www.linkace.org/) - A bookmark archive with automatic backups to the Internet Archive, link monitoring, and a full REST API. Installation is done via Docker, or as a simple PHP application. ([Demo](https://demo.linkace.org/guest/links), [Source Code (⭐2.4k)](https://github.com/Kovah/LinkAce/)) `GPL-3.0` `Docker/PHP`
 *   [linkding (⭐4.7k)](https://github.com/sissbruecker/linkding) - Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi. `MIT` `Docker/Python/Nodejs`
 
 ### Software / Remote Access

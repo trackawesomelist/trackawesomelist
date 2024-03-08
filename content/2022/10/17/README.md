@@ -124,7 +124,7 @@
 
 ### Terminal Integration / Diagnostics
 
-*   [samjwill/nvim-unception (⭐195)](https://github.com/samjwill/nvim-unception) - Automatic unnesting of Neovim sessions started from terminal buffers.
+*   [samjwill/nvim-unception (⭐199)](https://github.com/samjwill/nvim-unception) - Automatic unnesting of Neovim sessions started from terminal buffers.
 
 ## [13. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 

@@ -71,11 +71,11 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [svrana/neosolarized.nvim (⭐144)](https://github.com/svrana/neosolarized.nvim) - Dark solarized colorscheme using colorbuddy for easy customization.
+*   [svrana/neosolarized.nvim (⭐147)](https://github.com/svrana/neosolarized.nvim) - Dark solarized colorscheme using colorbuddy for easy customization.
 
 ### Editing Support / Diagnostics
 
-*   [altermo/ultimate-autopair.nvim (⭐377)](https://github.com/altermo/ultimate-autopair.nvim) - Autopair with extensions.
+*   [altermo/ultimate-autopair.nvim (⭐389)](https://github.com/altermo/ultimate-autopair.nvim) - Autopair with extensions.
 
 ---
 

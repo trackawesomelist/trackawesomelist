@@ -57,7 +57,7 @@
 
 ### GTFS Based Visualizations
 
-*   [gtfspy-webviz (⭐47)](https://github.com/CxAalto/gtfspy-webviz) - Web application for animation and visualization of GTFS data using [gtfspy (⭐147)](https://github.com/CxAalto/gtfspy).
+*   [gtfspy-webviz (⭐47)](https://github.com/CxAalto/gtfspy-webviz) - Web application for animation and visualization of GTFS data using [gtfspy (⭐150)](https://github.com/CxAalto/gtfspy).
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 

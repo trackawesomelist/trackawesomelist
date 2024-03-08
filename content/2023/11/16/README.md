@@ -86,7 +86,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [SonarDelphi (⭐55)](https://github.com/integrated-application-development/sonar-delphi) — Delphi static analyzer for the SonarQube code quality platform.
+*   [SonarDelphi (⭐58)](https://github.com/integrated-application-development/sonar-delphi) — Delphi static analyzer for the SonarQube code quality platform.
 
 ## [13. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

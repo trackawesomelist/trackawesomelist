@@ -114,7 +114,6 @@
 ### Table of Contents / Security
 
 *   [PHPSecLib](https://phpseclib.sourceforge.net) - A pure PHP secure communications library.
-*   [Zap (⭐65)](https://github.com/OWASP/www-project-zap) - An integrated penetration testing tool for web applications.
 
 ### Table of Contents / Code Quality
 
@@ -145,21 +144,17 @@
 
 *   [Puppet](https://www.puppet.com) - A server automation framework and application.
 
-### Configuration / PHP Books
-
-*   [Mastering Object-Orientated PHP](https://brandonsavage.net) - A book about object-orientated PHP by Brandon Savage.
-
 ### Configuration / PHP Podcasts
 
-*   [The Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
 *   [Laravel News Podcast](https://podcast.laravel-news.com/) - The Laravel News Podcast brings you all the latest news and events related to the Laravel PHP Framework.
-*   [The PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
-*   [The Laracasts Snippet](https://laracasts.simplecast.com) - The Laracasts snippet, each episode, offers a single thought on some aspect of web development.
-*   [php\[podcast\] episodes from php\[architect\]](https://www.phparch.com/podcast/) - The official podcast of php\[architect] the industry's leading tech magazine and publisher focused on PHP and web development.
-*   [Over Engineered](https://overengineered.fm/) - A podcast in mini-series where we explore unimportant programming questions in extreme detail.
-*   [PHPUgly](https://www.phpugly.com/) - The ramblings of a few overworked PHP Developers.
 *   [No Compromises](https://show.nocompromises.io/) - Two seasoned salty programming veterans talk best practices based on years of working with Laravel SaaS teams.
 *   [North Meets South Web Podcast](https://www.northmeetssouth.audio/) - Jacob Bennett and Michael Dyrynda conquer a 14.5 hour time difference to talk about life as web developers.
+*   [Over Engineered](https://overengineered.fm/) - A podcast in mini-series where we explore unimportant programming questions in extreme detail.
+*   [php\[podcast\] episodes from php\[architect\]](https://www.phparch.com/podcast/) - The official podcast of php\[architect] the industry's leading tech magazine and publisher focused on PHP and web development.
+*   [PHPUgly](https://www.phpugly.com/) - The ramblings of a few overworked PHP Developers.
+*   [The Laracasts Snippet](https://laracasts.simplecast.com) - The Laracasts snippet, each episode, offers a single thought on some aspect of web development.
+*   [The Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
+*   [The PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 
 ## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -205,12 +200,12 @@
 
 ### File Explorer / Diagnostics
 
-*   [simonmclean/triptych.nvim (⭐87)](https://github.com/simonmclean/triptych.nvim) - A directory browser inspired by Ranger.
+*   [simonmclean/triptych.nvim (⭐90)](https://github.com/simonmclean/triptych.nvim) - A directory browser inspired by Ranger.
 
 ### Media / Diagnostics
 
-*   [hakonharnes/img-clip.nvim (⭐267)](https://github.com/hakonharnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
-*   [3rd/image.nvim (⭐541)](https://github.com/3rd/image.nvim) - Add image support through Kitty's graphics protocol or ueberzugpp.
+*   [hakonharnes/img-clip.nvim (⭐281)](https://github.com/hakonharnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
+*   [3rd/image.nvim (⭐560)](https://github.com/3rd/image.nvim) - Add image support through Kitty's graphics protocol or ueberzugpp.
 
 ### Preconfigured Configuration / Diagnostics
 

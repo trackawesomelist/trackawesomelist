@@ -32,7 +32,7 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [Ploomber (⭐3.1k)](https://github.com/ploomber/ploomber) - Run a collection of notebooks and scripts in a reproducible manner using a `pipeline.yaml` file.
+*   [Ploomber (⭐3.3k)](https://github.com/ploomber/ploomber) - Run a collection of notebooks and scripts in a reproducible manner using a `pipeline.yaml` file.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

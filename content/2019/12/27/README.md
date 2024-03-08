@@ -22,17 +22,17 @@
 
 ### Asset Management
 
-*   🍰 [AssetCompress plugin (⭐367)](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
+*   🍰 [AssetCompress plugin (⭐368)](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
 
 ### Authentication and Authorization
 
-*   🍰 [Authentication plugin (⭐112)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
-*   🍰 [Authorization plugin (⭐71)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
-*   🍰 [TinyAuth plugin (⭐127)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role based (single/multi) authorization as very light-weight approach.
+*   🍰 [Authentication plugin (⭐113)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
+*   🍰 [Authorization plugin (⭐72)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
+*   🍰 [TinyAuth plugin (⭐128)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role based (single/multi) authorization as very light-weight approach.
 
 ### Code Analysis
 
-*   🍰 [IdeHelper plugin (⭐177)](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
+*   🍰 [IdeHelper plugin (⭐179)](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
 
 ### I18n
 
@@ -60,7 +60,7 @@
 
 ### Security
 
-*   🍰 [Muffin/Throttle plugin (⭐61)](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
+*   🍰 [Muffin/Throttle plugin (⭐62)](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
 
 ### SEO
 
@@ -68,9 +68,9 @@
 
 ### Templating
 
-*   🍰 [Bake plugin (⭐105)](https://github.com/cakephp/bake) - Provides code generation functionality.
-*   🍰 [BootstrapUI plugin (⭐336)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 4/5 integration.
-*   🍰 [CsvView plugin (⭐174)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
+*   🍰 [Bake plugin (⭐106)](https://github.com/cakephp/bake) - Provides code generation functionality.
+*   🍰 [BootstrapUI plugin (⭐337)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 4/5 integration.
+*   🍰 [CsvView plugin (⭐175)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 
 ## [4. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 

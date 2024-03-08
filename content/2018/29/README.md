@@ -101,7 +101,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [substitute.js (⭐196)](https://github.com/ffMathy/FluffySpoon.JavaScript.Testing) - A fluent mocking library for TypeScript ported from NSubstitute.
+*   :octocat: [substitute.js (⭐198)](https://github.com/ffMathy/FluffySpoon.JavaScript.Testing) - A fluent mocking library for TypeScript ported from NSubstitute.
 
 ## [12. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 

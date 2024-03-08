@@ -10,13 +10,13 @@
 
 ### Code Analysis and Linters
 
-*   [coq-of-ocaml (⭐232)](https://github.com/formal-land/coq-of-ocaml) - Translator from OCaml to Coq to formally verify OCaml code.
+*   [coq-of-ocaml (⭐235)](https://github.com/formal-land/coq-of-ocaml) - Translator from OCaml to Coq to formally verify OCaml code.
 
 ## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Runtimes/Frontends
 
-*   [Panel (⭐3k)](https://github.com/holoviz/panel) - Notebooks as static files or interactive and standalone server-/client-side (via pyodide) apps.
+*   [Panel (⭐3.9k)](https://github.com/holoviz/panel) - Notebooks as static files or interactive and standalone server-/client-side (via pyodide) apps.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 

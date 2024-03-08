@@ -116,7 +116,7 @@
 
 ### Project / Diagnostics
 
-*   [nyngwang/suave.lua (⭐59)](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation.
+*   [nyngwang/suave.lua (⭐61)](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation.
 
 ### Cursorline / Diagnostics
 
@@ -124,7 +124,7 @@
 
 ### Terminal Integration / Diagnostics
 
-*   [nyngwang/NeoTerm.lua (⭐66)](https://github.com/nyngwang/NeoTerm.lua) - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
+*   [nyngwang/NeoTerm.lua (⭐65)](https://github.com/nyngwang/NeoTerm.lua) - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
 
 ### Quickfix / Diagnostics
 

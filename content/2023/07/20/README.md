@@ -38,7 +38,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [nvimdev/zephyr-nvim (⭐319)](https://github.com/nvimdev/zephyr-nvim) - A dark colorscheme with Tree-sitter support.
+*   [nvimdev/zephyr-nvim (⭐322)](https://github.com/nvimdev/zephyr-nvim) - A dark colorscheme with Tree-sitter support.
 
 ### Startup / Diagnostics
 
@@ -46,7 +46,7 @@
 
 ### Formatting / Diagnostics
 
-*   [elentok/format-on-save.nvim (⭐137)](https://github.com/elentok/format-on-save.nvim) - A synchronous formatter that combines LSP and non-LSP formatting (e.g. shfmt, stylua, prettier), focused specifically on format-on-save.
+*   [elentok/format-on-save.nvim (⭐142)](https://github.com/elentok/format-on-save.nvim) - A synchronous formatter that combines LSP and non-LSP formatting (e.g. shfmt, stylua, prettier), focused specifically on format-on-save.
 
 ## [6. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
@@ -87,7 +87,7 @@
 
 ### OS and Kernels / Apache License
 
-*   [hirtos (⭐18)](https://github.com/jgrivera67/HiRTOS) - A high-integrity RTOS written in SPARK Ada.
+*   [hirtos (⭐21)](https://github.com/jgrivera67/HiRTOS) - A high-integrity RTOS written in SPARK Ada.
 
 ## [12. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 

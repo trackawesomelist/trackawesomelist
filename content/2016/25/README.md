@@ -386,21 +386,21 @@ git remote add <remote-nickname> <remote-url>
 
 ### Plugins / Git
 
-*   [git-crypt (⭐7.7k)](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
+*   [git-crypt (⭐7.9k)](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
 
 ### C / Git
 
 *   [crypto-algorithms (⭐1.7k)](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
-*   [OpenSSL (⭐23k)](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
+*   [OpenSSL (⭐24k)](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
 *   [PolarSSL](https://tls.mbed.org/) - PolarSSL makes it trivially easy for developers to include cryptographic and SSL/TLS capabilities in their (embedded) products, facilitating this functionality with a minimal coding footprint.
 
 ### C++ / Git
 
-*   [cryptopp (⭐4.3k)](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
+*   [cryptopp (⭐4.4k)](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
 
 ### C-sharp / Git
 
-*   [SecurityDriven.Inferno (⭐566)](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto done right.
+*   [SecurityDriven.Inferno (⭐565)](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto done right.
 
 ### Go / Git
 
@@ -412,14 +412,14 @@ git remote add <remote-nickname> <remote-url>
 
 ### JavaScript / Git
 
-*   [asmCrypto (⭐661)](https://github.com/vibornoff/asmcrypto.js/) - JavaScript implementation of popular cryptographic utilities with performance in mind.
+*   [asmCrypto (⭐660)](https://github.com/vibornoff/asmcrypto.js/) - JavaScript implementation of popular cryptographic utilities with performance in mind.
 *   [cifre (⭐121)](https://github.com/openpeer/cifre) - Fast crypto toolkit for modern client-side JavaScript.
 *   [closure-library (⭐4.8k)](https://github.com/google/closure-library/tree/master/closure/goog/crypt) - Google's common JavaScript library.
 *   [crypto-js (⭐15k)](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
-*   [libsodium.js (⭐915)](https://github.com/jedisct1/libsodium.js) - libsodium compiled to pure JavaScript, with convenient wrappers.
+*   [libsodium.js (⭐929)](https://github.com/jedisct1/libsodium.js) - libsodium compiled to pure JavaScript, with convenient wrappers.
 *   [OpenPGP.js (⭐5.5k)](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript.
-*   [rusha (⭐275)](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
-*   [URSA (⭐619)](https://github.com/quartzjer/ursa) - RSA public/private key OpenSSL bindings for Node.
+*   [rusha (⭐276)](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
+*   [URSA (⭐621)](https://github.com/quartzjer/ursa) - RSA public/private key OpenSSL bindings for Node.
 
 ### Julia / Git
 
@@ -432,7 +432,7 @@ git remote add <remote-nickname> <remote-url>
 
 ### Scala / Git
 
-*   [scrypto (⭐198)](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
+*   [scrypto (⭐202)](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
 
 ### Web-sites / Git
 

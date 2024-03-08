@@ -33,7 +33,7 @@
 
 ### Third-Party Packages / Editors
 
-*   [django-summernote (⭐988)](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
+*   [django-summernote (⭐992)](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
 
 ## [3. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Software / Automation
 
-*   [MeTube (⭐2.6k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
+*   [MeTube (⭐3k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
 
 ## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -201,7 +201,7 @@
 
 ### Clojure / Git
 
-*   [secrets.clj (⭐88)](https://github.com/lk-geimfari/secrets.clj) - A Clojure library designed to generate cryptographically strong random numbers suitable for managing data such as passwords, account authentication, security tokens, and related secrets.
+*   [secrets.clj (⭐87)](https://github.com/lk-geimfari/secrets.clj) - A Clojure library designed to generate cryptographically strong random numbers suitable for managing data such as passwords, account authentication, security tokens, and related secrets.
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

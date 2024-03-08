@@ -10,7 +10,7 @@
 
 ### Communications / APIs
 
-*   [micropython-linenotify (⭐5)](https://github.com/PerfecXX/micropython-linenotify) - MicroPython library for sending notifications to Line Notify with ESP8266 and ESP32.
+*   [micropython-linenotify (⭐6)](https://github.com/PerfecXX/micropython-linenotify) - MicroPython library for sending notifications to Line Notify with ESP8266 and ESP32.
 
 ### Communications / ESP-NOW
 
@@ -138,19 +138,19 @@
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [Sympa](https://www.sympa.community/) - Mailing list manager. ([Source Code (⭐222)](https://github.com/sympa-community/sympa)) `GPL-2.0` `Perl`
+*   [Sympa](https://www.sympa.community/) - Mailing list manager. ([Source Code (⭐225)](https://github.com/sympa-community/sympa)) `GPL-2.0` `Perl`
 
 ## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [zootedb0t/citruszest.nvim (⭐79)](https://github.com/zootedb0t/citruszest.nvim) - A colorscheme that features a combination of bright and juicy colors reminiscent of various citrus fruits, with LSP and Tree-sitter support.
+*   [zootedb0t/citruszest.nvim (⭐84)](https://github.com/zootedb0t/citruszest.nvim) - A colorscheme that features a combination of bright and juicy colors reminiscent of various citrus fruits, with LSP and Tree-sitter support.
 
 ## [16. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf (unixorn) (⭐237)](https://github.com/unixorn/fzf-zsh-plugin/) - Enables [fzf (⭐58k)](https://github.com/junegunn/fzf) history and file searches.
+*   [fzf (unixorn) (⭐242)](https://github.com/unixorn/fzf-zsh-plugin/) - Enables [fzf (⭐58k)](https://github.com/junegunn/fzf) history and file searches.
 
 ## [17. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

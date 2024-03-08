@@ -749,10 +749,6 @@
 
 ## [38. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### GTFS Libraries / R
-
-*   [trread (⭐9)](https://github.com/r-gtfs/trread) - A transit (GTFS) file reader for R.
-
 ### SIRI / Ruby
 
 *   [SIRI 2.0 Autodoc](https://laidig.github.io/siri-20-java/doc/) - Automatically generated documentation from the (incredibly well) annotated SIRI 2.0 Schema Definition.
@@ -813,11 +809,11 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [musikcube](https://musikcube.com/) - Streaming audio server with Linux/macOS/Windows/Android clients. ([Source Code (⭐3.9k)](https://github.com/clangen/musikcube)) `BSD-3-Clause` `C++/deb`
+*   [musikcube](https://musikcube.com/) - Streaming audio server with Linux/macOS/Windows/Android clients. ([Source Code (⭐4k)](https://github.com/clangen/musikcube)) `BSD-3-Clause` `C++/deb`
 
 ### Software / Ticketing
 
-*   [Request Tracker](https://www.bestpractical.com/rt/) - An enterprise-grade issue tracking system. ([Source Code (⭐832)](https://github.com/bestpractical/rt)) `GPL-2.0` `Perl`
+*   [Request Tracker](https://www.bestpractical.com/rt/) - An enterprise-grade issue tracking system. ([Source Code (⭐835)](https://github.com/bestpractical/rt)) `GPL-2.0` `Perl`
 
 ---
 

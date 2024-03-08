@@ -22,7 +22,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [nyoom-engineering/oxocarbon.nvim (⭐878)](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
+*   [nyoom-engineering/oxocarbon.nvim (⭐894)](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
 
 ## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -46,11 +46,11 @@
 
 ### Deployment Tools / Discovery
 
-*   [bento (⭐186)](https://github.com/rapenne-s/bento/) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
+*   [bento (⭐191)](https://github.com/rapenne-s/bento/) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
 
 ### Programming Languages / Clojure
 
-*   [clj-nix (⭐126)](https://github.com/jlesquembre/clj-nix) - Nix helper functions for Clojure projects.
+*   [clj-nix (⭐127)](https://github.com/jlesquembre/clj-nix) - Nix helper functions for Clojure projects.
 
 ## [8. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
@@ -85,15 +85,15 @@
 
 ### Software / Communication - Email - Mail Transfer Agents
 
-*   [DragonFly (⭐216)](https://github.com/corecode/dma) - A small MTA for home and office use. Works on Linux and FreeBSD. `BSD-3-Clause` `C`
+*   [DragonFly (⭐220)](https://github.com/corecode/dma) - A small MTA for home and office use. Works on Linux and FreeBSD. `BSD-3-Clause` `C`
 
 ### Software / Games
 
-*   [Red Eclipse 2](https://redeclipse.net) - A FOSS Arena First-Person Shooter Similar to Unreal Tournament. ([Source Code (⭐380)](https://github.com/redeclipse/base)) `Zlib/MIT/CC-BY-SA-4.0` `C/C++/deb`
+*   [Red Eclipse 2](https://redeclipse.net) - A FOSS Arena First-Person Shooter Similar to Unreal Tournament. ([Source Code (⭐378)](https://github.com/redeclipse/base)) `Zlib/MIT/CC-BY-SA-4.0` `C/C++/deb`
 
 ### Software / Software Development - Testing
 
-*   [Bencher](https://bencher.dev/) - Bencher is a suite of continuous benchmarking tools designed to catch performance regressions in CI. ([Source Code (⭐285)](https://github.com/bencherdev/bencher)) `MIT/Apache-2.0` `Rust`
+*   [Bencher](https://bencher.dev/) - Bencher is a suite of continuous benchmarking tools designed to catch performance regressions in CI. ([Source Code (⭐292)](https://github.com/bencherdev/bencher)) `MIT/Apache-2.0` `Rust`
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -112,7 +112,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [autoflake (⭐840)](https://github.com/PyCQA/autoflake) — Autoflake removes unused imports and unused variables from Python code.
+*   [autoflake (⭐846)](https://github.com/PyCQA/autoflake) — Autoflake removes unused imports and unused variables from Python code.
 
 ## [14. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 

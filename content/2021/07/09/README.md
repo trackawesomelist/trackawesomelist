@@ -32,21 +32,21 @@
 ### Software / Blogging Platforms
 
 *   [Known](https://withknown.com/) - A collaborative social publishing platform. ([Source Code (⭐1k)](https://github.com/idno/known)) `Apache-2.0` `PHP`
-*   [WriteFreely](https://writefreely.org) - Writing software for starting a minimalist, federated blog — or an entire community. ([Source Code (⭐4k)](https://github.com/writefreely/writefreely)) `AGPL-3.0` `Go`
+*   [WriteFreely](https://writefreely.org) - Writing software for starting a minimalist, federated blog — or an entire community. ([Source Code (⭐4.1k)](https://github.com/writefreely/writefreely)) `AGPL-3.0` `Go`
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Shiori (⭐8.4k)](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go. `MIT` `Go/Docker`
+*   [Shiori (⭐8.5k)](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go. `MIT` `Go/Docker`
 
 ### Software / Communication - Custom Communication Systems
 
-*   [PushBits (⭐277)](https://github.com/pushbits/server) - Self-hosted notification server for relaying push notifications via Matrix, similar to PushBullet and Gotify. `ISC` `Go`
+*   [PushBits (⭐288)](https://github.com/pushbits/server) - Self-hosted notification server for relaying push notifications via Matrix, similar to PushBullet and Gotify. `ISC` `Go`
 
 ### Software / Communication - Social Networks and Forums
 
 *   [FlaskBB](https://flaskbb.org/) - FlaskBB is forum software written in Python using the microframework Flask. You can easily create new topics, posts and send other users private messages. It also includes basic administration and moderation tools. ([Source Code (⭐2.5k)](https://github.com/flaskbb/flaskbb)) `BSD-3-Clause` `Python`
 *   [Lemmy](https://join-lemmy.org/) - A link aggregator / reddit clone for the fediverse (alternative to Reddit). ([Source Code (⭐13k)](https://github.com/LemmyNet/lemmy)) `AGPL-3.0` `Docker/Rust`
-*   [Misskey](https://misskey.io/) - Decentralized app-like microblogging server/SNS for the Fediverse, using the ActivityPub protocol like GNU social and Mastodon. ([Source Code (⭐9.1k)](https://github.com/misskey-dev/misskey)) `AGPL-3.0` `Nodejs/Docker`
+*   [Misskey](https://misskey.io/) - Decentralized app-like microblogging server/SNS for the Fediverse, using the ActivityPub protocol like GNU social and Mastodon. ([Source Code (⭐9.3k)](https://github.com/misskey-dev/misskey)) `AGPL-3.0` `Nodejs/Docker`
 *   [remark42](https://remark42.com/) - A lightweight and simple comment engine, which doesn't spy on users. It can be embedded into blogs, articles or any other place where readers add comments. ([Demo](https://remark42.com/demo/), [Source Code (⭐4.6k)](https://github.com/umputun/remark42)) `MIT` `Docker/Go`
 
 ### Software / Communication - XMPP - Web Clients
@@ -55,8 +55,8 @@
 
 ### Software / Feed Readers
 
-*   [Leed (⭐202)](https://github.com/LeedRSS/Leed) - Leed (for Light Feed) is a Free and minimalist RSS aggregator. `AGPL-3.0` `PHP`
-*   [Miniflux](https://miniflux.app/) - Miniflux is a minimalist and open source news reader, written in Go and PostgreSQL. ([Source Code (⭐5.9k)](https://github.com/miniflux/v2)) `Apache-2.0` `Go/deb/Docker`
+*   [Leed (⭐204)](https://github.com/LeedRSS/Leed) - Leed (for Light Feed) is a Free and minimalist RSS aggregator. `AGPL-3.0` `PHP`
+*   [Miniflux](https://miniflux.app/) - Miniflux is a minimalist and open source news reader, written in Go and PostgreSQL. ([Source Code (⭐6k)](https://github.com/miniflux/v2)) `Apache-2.0` `Go/deb/Docker`
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
@@ -65,7 +65,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [PictShare](https://www.pictshare.net/) - PictShare is a multi lingual, open source image hosting service with a simple resizing and upload API. ([Source Code (⭐789)](https://github.com/HaschekSolutions/pictshare)) `Apache-2.0` `PHP/Docker`
+*   [PictShare](https://www.pictshare.net/) - PictShare is a multi lingual, open source image hosting service with a simple resizing and upload API. ([Source Code (⭐794)](https://github.com/HaschekSolutions/pictshare)) `Apache-2.0` `PHP/Docker`
 
 ### Software / File Transfer - Web-based File Managers
 
@@ -74,12 +74,12 @@
 
 ### Software / Human Resources Management (HRM)
 
-*   [TimeOff.Management](https://timeoff.management) - Simple yet powerful absence management software for small and medium size business. ([Demo](https://app.timeoff.management), [Source Code (⭐891)](https://github.com/timeoff-management/timeoff-management-application)) `MIT` `Nodejs`
+*   [TimeOff.Management](https://timeoff.management) - Simple yet powerful absence management software for small and medium size business. ([Demo](https://app.timeoff.management), [Source Code (⭐892)](https://github.com/timeoff-management/timeoff-management-application)) `MIT` `Nodejs`
 
 ### Software / Internet of Things (IoT)
 
 *   [Gladys](https://gladysassistant.com/) - Gladys is a privacy-first, open-source home assistant. ([Source Code (⭐2.5k)](https://github.com/GladysAssistant/Gladys)) `Apache-2.0` `Nodejs/Docker`
-*   [Home Assistant](https://home-assistant.io/) - Open-source home automation platform. ([Demo](https://home-assistant.io/demo/), [Source Code (⭐67k)](https://github.com/home-assistant/core)) `Apache-2.0` `Python/Docker`
+*   [Home Assistant](https://home-assistant.io/) - Open-source home automation platform. ([Demo](https://home-assistant.io/demo/), [Source Code (⭐68k)](https://github.com/home-assistant/core)) `Apache-2.0` `Python/Docker`
 
 ### Software / Maps and Global Positioning System (GPS)
 
@@ -87,7 +87,7 @@
 
 ### Software / Miscellaneous
 
-*   [Anchr](https://anchr.io) - Anchr is a toolbox for tiny tasks on the internet, including bookmark collections, URL shortening and (encrypted) image uploads. ([Source Code (⭐233)](https://github.com/muety/anchr)) `GPL-3.0` `Nodejs`
+*   [Anchr](https://anchr.io) - Anchr is a toolbox for tiny tasks on the internet, including bookmark collections, URL shortening and (encrypted) image uploads. ([Source Code (⭐237)](https://github.com/muety/anchr)) `GPL-3.0` `Nodejs`
 *   [Ombi](https://ombi.io/) - A content request system for Plex/Emby, connects to SickRage, CouchPotato, Sonarr, with a growing feature set. ([Demo](https://app.ombi.io/), [Source Code (⭐3.5k)](https://github.com/Ombi-app/Ombi)) `GPL-2.0` `C#/deb`
 
 ### Software / Password Managers
@@ -100,11 +100,11 @@
 
 ### Software / Proxy
 
-*   [imgproxy](https://imgproxy.net/) - Fast and secure standalone server for resizing and converting remote images. It works great when you need to resize multiple images on the fly without preparing a ton of cached resized images or re-doing it every time the design changes. ([Source Code (⭐8k)](https://github.com/imgproxy/imgproxy)) `MIT` `Go/Docker/K8S`
+*   [imgproxy](https://imgproxy.net/) - Fast and secure standalone server for resizing and converting remote images. It works great when you need to resize multiple images on the fly without preparing a ton of cached resized images or re-doing it every time the design changes. ([Source Code (⭐8.1k)](https://github.com/imgproxy/imgproxy)) `MIT` `Go/Docker/K8S`
 
 ### Software / Software Development - IDE & Tools
 
-*   [Judge0 CE](https://judge0.com) - Open source API to compile and run source code. ([Source Code (⭐1.9k)](https://github.com/judge0/judge0)) `GPL-3.0` `Docker`
+*   [Judge0 CE](https://judge0.com) - Open source API to compile and run source code. ([Source Code (⭐2k)](https://github.com/judge0/judge0)) `GPL-3.0` `Docker`
 *   [Wakapi](https://wakapi.dev/) - Tracking tool for coding statistics, compatible with WakaTime. ([Source Code (⭐2.1k)](https://github.com/muety/wakapi)) `GPL-3.0` `Go/Docker`
 
 ### Software / Software Development - Project Management
@@ -117,7 +117,7 @@
 
 ### Software / Wikis
 
-*   [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion. ([Demo](https://www.bookstackapp.com/#demo), [Source Code (⭐13k)](https://github.com/BookStackApp/BookStack)) `MIT` `PHP/Docker`
+*   [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion. ([Demo](https://www.bookstackapp.com/#demo), [Source Code (⭐14k)](https://github.com/BookStackApp/BookStack)) `MIT` `PHP/Docker`
 
 ### External Links / Wikis
 

@@ -28,7 +28,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Soketi](https://soketi.app/) - Simple, fast, and resilient open-source WebSockets server (drop-in alternative to Pusher). ([Source Code (⭐4.3k)](https://github.com/soketi/soketi)) `MIT` `Nodejs/Docker/K8S`
+*   [Soketi](https://soketi.app/) - Simple, fast, and resilient open-source WebSockets server (drop-in alternative to Pusher). ([Source Code (⭐4.4k)](https://github.com/soketi/soketi)) `MIT` `Nodejs/Docker/K8S`
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

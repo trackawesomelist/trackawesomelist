@@ -66,8 +66,8 @@
 
 ### Editing Support / Diagnostics
 
-*   [gbprod/substitute.nvim (⭐397)](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operator motions to quickly replace and exchange text.
-*   [gbprod/yanky.nvim (⭐658)](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities.
+*   [gbprod/substitute.nvim (⭐407)](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operator motions to quickly replace and exchange text.
+*   [gbprod/yanky.nvim (⭐670)](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities.
 
 ## [10. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 

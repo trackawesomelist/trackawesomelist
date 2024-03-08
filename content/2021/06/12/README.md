@@ -26,11 +26,11 @@
 
 ### Plugin Manager
 
-*   [NTBBloodbath/cheovim (⭐318)](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
+*   [NTBBloodbath/cheovim (⭐320)](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [NTBBloodbath/doom-one.nvim (⭐177)](https://github.com/NTBBloodbath/doom-one.nvim) - Lua port of doom-emacs' doom-one.
+*   [NTBBloodbath/doom-one.nvim (⭐181)](https://github.com/NTBBloodbath/doom-one.nvim) - Lua port of doom-emacs' doom-one.
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

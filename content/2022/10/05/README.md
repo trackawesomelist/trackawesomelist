@@ -29,7 +29,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ddc (⭐23)](https://github.com/Shougo/ddc-zsh) - Adds tab completions for [ddc (⭐635)](https://github.com/Shougo/ddc.vim).
+*   [ddc (⭐23)](https://github.com/Shougo/ddc-zsh) - Adds tab completions for [ddc (⭐637)](https://github.com/Shougo/ddc.vim).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -72,7 +72,7 @@
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [PyTypes (⭐8)](https://github.com/pvs-hd-tea/PyTypes) - Infer Types by Python Tracing.
+*   [PyTypes (⭐10)](https://github.com/pvs-hd-tea/PyTypes) - Infer Types by Python Tracing.
 
 ## [9. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 

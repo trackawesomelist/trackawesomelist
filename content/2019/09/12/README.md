@@ -10,7 +10,7 @@
 
 ### Deployment Tools / Discovery
 
-*   [morph (⭐686)](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
+*   [morph (⭐702)](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
 *   [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
@@ -40,7 +40,7 @@
 
 ### Learning
 
-*   [Awesome Neural Art (⭐72)](https://github.com/crypdick/awesome-neural-art) - Creating art and manipulating images using deep neural networks.
+*   [Awesome Neural Art (⭐87)](https://github.com/crypdick/awesome-neural-art) - Creating art and manipulating images using deep neural networks.
 
 ## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

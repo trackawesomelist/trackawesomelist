@@ -98,11 +98,11 @@
 
 ### Algorithms, Containers and Protocols / Apache License
 
-*   [ada-language-server (⭐211)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
+*   [ada-language-server (⭐216)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 
 ### Simulation / Apache License
 
-*   [ghdl (⭐2.1k)](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
+*   [ghdl (⭐2.2k)](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
 
 ## [7. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 

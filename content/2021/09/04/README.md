@@ -48,7 +48,7 @@
 
 ### System and Customization
 
-*   [Dynamic Gnome Wallpapers (⭐297)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
+*   [Dynamic Gnome Wallpapers (⭐306)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
 
 ---
 

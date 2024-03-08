@@ -81,7 +81,7 @@ Donationware
 
 ### Typescript Project Starters
 
-*   [typescript-starter (⭐3.4k)](https://github.com/bitjson/typescript-starter) – A CLI to quickly generate and configure new libraries and Node.js projects
+*   [typescript-starter (⭐3.5k)](https://github.com/bitjson/typescript-starter) – A CLI to quickly generate and configure new libraries and Node.js projects
 
 ---
 

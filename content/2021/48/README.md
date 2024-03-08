@@ -237,7 +237,7 @@
 
 ### Software / Polls and Events
 
-*   [ClearFlask](https://clearflask.com) - Community-feedback tool for managing incoming feedback and prioritizing a public roadmap (alternative to Canny, UserVoice, Upvoty). ([Demo](https://product.clearflask.com), [Source Code (⭐243)](https://github.com/clearflask/clearflask)) `AGPL-3.0` `Docker`
+*   [ClearFlask](https://clearflask.com) - Community-feedback tool for managing incoming feedback and prioritizing a public roadmap (alternative to Canny, UserVoice, Upvoty). ([Demo](https://product.clearflask.com), [Source Code (⭐249)](https://github.com/clearflask/clearflask)) `AGPL-3.0` `Docker`
 
 ### Software / Software Development - Project Management
 
@@ -260,7 +260,7 @@
 
 ### Tools / Linters
 
-*   [flake8-type-checking (⭐103)](https://github.com/snok/flake8-type-checking) - Plugin to help you guard any type-annotation-only import correctly.
+*   [flake8-type-checking (⭐107)](https://github.com/snok/flake8-type-checking) - Plugin to help you guard any type-annotation-only import correctly.
 
 ## [18. Tools](/content/lvwzhen/tools/week/README.md)
 
@@ -308,7 +308,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [rmagatti/goto-preview (⭐677)](https://github.com/rmagatti/goto-preview) - Previewing native LSP's goto definition calls in floating windows.
+*   [rmagatti/goto-preview (⭐694)](https://github.com/rmagatti/goto-preview) - Previewing native LSP's goto definition calls in floating windows.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -316,12 +316,12 @@
 
 ### Utility / Diagnostics
 
-*   [sudormrfbin/cheatsheet.nvim (⭐608)](https://github.com/sudormrfbin/cheatsheet.nvim) - Searchable cheatsheet.
-*   [stevearc/dressing.nvim (⭐1.4k)](https://github.com/stevearc/dressing.nvim) - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
+*   [sudormrfbin/cheatsheet.nvim (⭐612)](https://github.com/sudormrfbin/cheatsheet.nvim) - Searchable cheatsheet.
+*   [stevearc/dressing.nvim (⭐1.5k)](https://github.com/stevearc/dressing.nvim) - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
 
 ### Editing Support / Diagnostics
 
-*   [ethanholz/nvim-lastplace (⭐292)](https://github.com/ethanholz/nvim-lastplace) - Reopen files at your last edit position.
+*   [ethanholz/nvim-lastplace (⭐296)](https://github.com/ethanholz/nvim-lastplace) - Reopen files at your last edit position.
 
 ## [25. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -519,7 +519,7 @@
 
 ### Contributing / Contribution Workflow Overview
 
-*   Fork [this repository (⭐590)](https://github.com/adafruit/awesome-circuitpython) on GitHub.
+*   Fork [this repository (⭐596)](https://github.com/adafruit/awesome-circuitpython) on GitHub.
 *   Merge adafruit or main.
 
 ## [40. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
@@ -536,7 +536,7 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [JetBrains/skiko (⭐1.6k)](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
+*   [JetBrains/skiko (⭐1.7k)](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
 
 ### Projects / Web
 

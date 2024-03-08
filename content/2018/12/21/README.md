@@ -140,7 +140,7 @@
 
 ### Communications / RFID
 
-*   [micropython-wiegand (⭐24)](https://github.com/pjz/micropython-wiegand) - Wiegand protocol reader.
+*   [micropython-wiegand (⭐25)](https://github.com/pjz/micropython-wiegand) - Wiegand protocol reader.
 
 ### Communications / RTC
 
@@ -153,7 +153,7 @@
 
 ### Display / E-Paper
 
-*   [micropython-waveshare-epaper (⭐288)](https://github.com/mcauser/micropython-waveshare-epaper) - Drivers for various Waveshare ePaper modules.
+*   [micropython-waveshare-epaper (⭐293)](https://github.com/mcauser/micropython-waveshare-epaper) - Drivers for various Waveshare ePaper modules.
 
 ### Display / LCD Character
 
@@ -172,7 +172,7 @@
 
 ### Display / LED Matrix
 
-*   [micropython-ht1632c (⭐6)](https://github.com/vrialland/micropython-ht1632c) - Driver for HT1632C 32x16 bicolor LED matrix.
+*   [micropython-ht1632c (⭐7)](https://github.com/vrialland/micropython-ht1632c) - Driver for HT1632C 32x16 bicolor LED matrix.
 *   [micropython-matrix8x8 (⭐14)](https://github.com/JanBednarik/micropython-matrix8x8) - Driver for Adafruit 8x8 LED Matrix display with HT16K33 backpack.
 *   [micropython-wemos-led-matrix-shield (⭐8)](https://github.com/mactijn/micropython-wemos-led-matrix-shield) - Driver for Wemos D1 Mini Matrix LED shield, using TM1640 chip.
 *   [micropython-wemos-led-matrix (⭐1)](https://github.com/mattytrentini/micropython-wemos-led-matrix) - Driver for Wemos D1 Mini Matrix LED shield, using TM1640 chip.
@@ -190,7 +190,7 @@
 
 *   [micropython-morsecode (⭐6)](https://github.com/mampersat/micropython-morsecode) - Blink an LED with Morse Coded message.
 *   [micropython-ws2812-7seg (⭐1)](https://github.com/HubertD/micropython-ws2812-7seg) - 7-segment display using WS2812 RGB LEDs.
-*   [micropython-ws2812 (⭐182)](https://github.com/JanBednarik/micropython-ws2812) - Driver for WS2812 RGB LEDs.
+*   [micropython-ws2812 (⭐183)](https://github.com/JanBednarik/micropython-ws2812) - Driver for WS2812 RGB LEDs.
 
 ### Display / OLED
 
@@ -203,7 +203,7 @@
 
 ### IO / DAC
 
-*   [micropython-mcp4725 (⭐8)](https://github.com/wayoda/micropython-mcp4725) - Driver for the MCP4725 I2C DAC.
+*   [micropython-mcp4725 (⭐9)](https://github.com/wayoda/micropython-mcp4725) - Driver for the MCP4725 I2C DAC.
 
 ### IO / IO-Expander
 
@@ -219,7 +219,7 @@
 
 ### Motion / DC Motor
 
-*   [L298N (⭐126)](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - Driver for the L298N dual H-bridge motor controller.
+*   [L298N (⭐129)](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - Driver for the L298N dual H-bridge motor controller.
 
 ### Motion / Stepper
 
@@ -244,7 +244,7 @@
 
 ### Sensors / Camera
 
-*   [micropython-ov2640 (⭐104)](https://github.com/namato/micropython-ov2640) - MicroPython class for OV2640 camera.
+*   [micropython-ov2640 (⭐103)](https://github.com/namato/micropython-ov2640) - MicroPython class for OV2640 camera.
 
 ### Sensors / Energy
 
@@ -266,9 +266,9 @@
 *   [micropython-bmx055 (⭐5)](https://github.com/micropython-IMU/micropython-bmx055) - Driver for Bosch BMX055 IMU sensor.
 *   [micropython-bno055 (⭐4)](https://github.com/deshipu/micropython-bno055) - Bosch Sensortec BNO055 9DOF IMU sensor, I2C interface.
 *   [micropython-lsm9ds0 (⭐4)](https://github.com/micropython-IMU/micropython-lsm9ds0) - LSM9DS0 g-force linear acceleration, Gauss magnetic and DPS angular rate sensors.
-*   [micropython-mpu9250 (⭐128)](https://github.com/tuupola/micropython-mpu9250) - I2C driver for MPU9250 9-axis motion tracking device.
+*   [micropython-mpu9250 (⭐130)](https://github.com/tuupola/micropython-mpu9250) - I2C driver for MPU9250 9-axis motion tracking device.
 *   [micropython-mpu9x50 (⭐246)](https://github.com/micropython-IMU/micropython-mpu9x50) - Driver for the InvenSense MPU9250 inertial measurement unit.
-*   [MPU6050-ESP8266-MicroPython (⭐83)](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
+*   [MPU6050-ESP8266-MicroPython (⭐84)](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 *   [py-mpu6050 (⭐81)](https://github.com/larsks/py-mpu6050) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 
 ### Sensors / Soil Moisture
@@ -288,7 +288,7 @@
 *   [micropython-hdc1008 (⭐4)](https://github.com/kfricke/micropython-hdc1008) - Driver for the Texas Instruments HDC1008 humidity and temperature sensor.
 *   [micropython-mcp9808 (⭐6)](https://github.com/kfricke/micropython-mcp9808) - Driver for the Microchip MCP9808 temperature sensor.
 *   [micropython-mpl115a2 (⭐2)](https://github.com/khoulihan/micropython-mpl115a2) - Pyboard driver for the MPL115A2 barometric pressure sensor.
-*   [micropython-sht30 (⭐40)](https://github.com/rsc1975/micropython-sht30) - Driver for SHT30 temperature and humidity sensor.
+*   [micropython-sht30 (⭐41)](https://github.com/rsc1975/micropython-sht30) - Driver for SHT30 temperature and humidity sensor.
 *   [micropython-sht31 (⭐21)](https://github.com/kfricke/micropython-sht31) - Driver for the SHT31 temperature and humidity sensor.
 *   [micropython-Si7005 (⭐1)](https://github.com/Smrtokvitek/micropython-Si7005) - Driver for Si7005 relative humidity and temperature sensor.
 *   [micropython-si7021 (⭐14)](https://github.com/chrisbalmer/micropython-si7021) - SI7021 Temperature and humidity sensor, I2C interface.
@@ -303,7 +303,7 @@
 
 ### Sensors / Touch Capacitive
 
-*   [micropython-mpr121 (⭐14)](https://github.com/mcauser/micropython-mpr121) - Driver for MPR121 capacitive touch keypads and breakout boards.
+*   [micropython-mpr121 (⭐16)](https://github.com/mcauser/micropython-mpr121) - Driver for MPR121 capacitive touch keypads and breakout boards.
 *   [micropython-ttp223 (⭐8)](https://github.com/mcauser/micropython-ttp223) - Examples using TTP223 capacitive touch module.
 
 ---

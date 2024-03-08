@@ -128,12 +128,12 @@
 
 ### Audio
 
-*   [micropython-buzzer (⭐14)](https://github.com/fruch/micropython-buzzer) - Play Nokia compose and mid files on buzzers.
+*   [micropython-buzzer (⭐15)](https://github.com/fruch/micropython-buzzer) - Play Nokia compose and mid files on buzzers.
 
 ### Communications / APIs
 
 *   [micropython\_pushbullet (⭐3)](https://github.com/gsampallo/micropython_pushbullet) - Simple example of how to use PushBullet with MicroPython on ESP8266.
-*   [esp32-youtube-display (⭐16)](https://github.com/alvarowolfx/esp32-youtube-display) - Display YouTube metrics using Google API and MicroPython.
+*   [esp32-youtube-display (⭐17)](https://github.com/alvarowolfx/esp32-youtube-display) - Display YouTube metrics using Google API and MicroPython.
 *   [micropython-spotify-web-api (⭐15)](https://github.com/tltx/micropython-spotify-web-api) - A library for using Spotify's web API from a IoT device with MicroPython.
 
 ### Communications / Bluetooth
@@ -147,7 +147,7 @@
 
 ### Communications / FTP
 
-*   [micropython-uaioftp (⭐3)](https://github.com/cwyark/micropython-uaioftp) - Lightweight FTP library for MicroPython.
+*   [micropython-uaioftp (⭐2)](https://github.com/cwyark/micropython-uaioftp) - Lightweight FTP library for MicroPython.
 
 ### Communications / GSM
 
@@ -167,7 +167,7 @@
 
 ### Communications / WiFi
 
-*   [WiFiManager (⭐326)](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - MicroPython.
+*   [WiFiManager (⭐329)](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - MicroPython.
 
 ### Display / LCD Character
 
@@ -220,7 +220,7 @@
 
 ### Sensors / Motion Inertial
 
-*   [flight\_controller (⭐63)](https://github.com/wagnerc4/flight_controller) - MicroPython flight controller.
+*   [flight\_controller (⭐65)](https://github.com/wagnerc4/flight_controller) - MicroPython flight controller.
 *   [micropython-mpu9250](https://gitlab.com/nnayo/micropython-mpu9250) - MicroPython MPU-9250 (MPU-6500 + AK8963) I2C driver.
 
 ### Sensors / Pressure

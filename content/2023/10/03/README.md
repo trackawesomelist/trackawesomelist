@@ -26,7 +26,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Note Mark](https://notemark.docs.enchantedcode.co.uk/) - A minimal web-based Markdown notes app. ([Source Code (⭐206)](https://github.com/enchant97/note-mark)) `AGPL-3.0` `Docker`
+*   [Note Mark](https://notemark.docs.enchantedcode.co.uk/) - A minimal web-based Markdown notes app. ([Source Code (⭐209)](https://github.com/enchant97/note-mark)) `AGPL-3.0` `Docker`
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -65,11 +65,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [hinell/lsp-timeout.nvim (⭐162)](https://github.com/hinell/lsp-timeout.nvim) - Automatically start/stop idle/unused LSP servers; keeps RAM usage low.
+*   [hinell/lsp-timeout.nvim (⭐171)](https://github.com/hinell/lsp-timeout.nvim) - Automatically start/stop idle/unused LSP servers; keeps RAM usage low.
 
 ### AI / Diagnostics
 
-*   [dense-analysis/neural (⭐383)](https://github.com/dense-analysis/neural) - Integrate LLMs for generating code, interacting with chat bots, and more.
+*   [dense-analysis/neural (⭐388)](https://github.com/dense-analysis/neural) - Integrate LLMs for generating code, interacting with chat bots, and more.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -78,7 +78,7 @@
 ### Editing Support / Diagnostics
 
 *   [hinell/duplicate.nvim (⭐14)](https://github.com/hinell/duplicate.nvim) - Duplicate lines & blocks of lines easily; undo & unfolding support; full OOP.
-*   [hinell/move.nvim (⭐8)](https://github.com/hinell/move.nvim) - Move chunks of text around; fork of [fedepujol/move.nvim (⭐289)](https://github.com/fedepujol/move.nvim).
+*   [hinell/move.nvim (⭐8)](https://github.com/hinell/move.nvim) - Move chunks of text around; fork of [fedepujol/move.nvim (⭐293)](https://github.com/fedepujol/move.nvim).
 
 ---
 

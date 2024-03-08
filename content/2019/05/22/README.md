@@ -20,7 +20,7 @@
 
 ### Visualization
 
-*   [tqdm (⭐25k)](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and iterables.
+*   [tqdm (⭐27k)](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and iterables.
 
 ## [3. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 

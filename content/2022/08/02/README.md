@@ -54,7 +54,7 @@
 
 ### Container Composition
 
-*   [ctk (⭐279)](https://github.com/ctk-hq/ctk) :construction: - Visual composer for container based workloads. By [@corpulent](https://github.com/corpulent)
+*   [ctk (⭐276)](https://github.com/ctk-hq/ctk) :construction: - Visual composer for container based workloads. By [@corpulent](https://github.com/corpulent)
 
 ## [9. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 

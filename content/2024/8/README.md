@@ -68,7 +68,7 @@
 
 ## [8. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
 
-### Datasets / Applications of Transformers, LLMs, and GPT
+### Datasets / Datasets available elsewhere
 
 *   [Open data collections from the National Library of Scotland](https://data.nls.uk/)
 
@@ -83,6 +83,13 @@
 *   [Remaker-Ai](https://remaker.ai/en) - All-in-one tool leveraging the capabilities of artificial intelligence. Craft and produce diverse content formats, spanning text, images, and beyond.`#free`
 
 ## [10. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+
+### Other / Music
+
+*   [Architecture Helper](https://architecturehelper.com) - Analyze any building architecture, and generate your own custom styles, in seconds.
+*   [GradGPT](https://www.gradgpt.com/) - AI tools to simplify college applications. Review applications, draft essays, find universities and requirements and more.
+*   [Code to Flow](https://codetoflow.com) - Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
+*   [AI-Flow](https://ai-flow.net/) - Connect multiple AI models easily.
 
 ### Text / Search engines
 
@@ -105,12 +112,6 @@
 ### Phone Calls / Animation
 
 *   [AICaller.io](https://aicaller.io/?ref=v) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
-
-### Other / Music
-
-*   [GradGPT](https://www.gradgpt.com/) - AI tools to simplify college applications. Review applications, draft essays, find universities and requirements and more.
-*   [Code to Flow](https://codetoflow.com) - Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
-*   [AI-Flow](https://ai-flow.net/) - Connect multiple AI models easily.
 
 ## [11. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
@@ -184,7 +185,7 @@
 
 ### Communications / Non-Verbal Communication
 
-*   [AI Nüshu: An Exploration of Language Emergence in Sisterhood Through the Lens of Computational Linguistics](https://dl.acm.org/doi/abs/10.1145/3610591.3616427) - ***ACM SIGGraph Asia'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=6849286654402017109\&hl=en\&as_sdt=0,5)]. By continually observing their environment and communicating, AI agents trained in the Chinese dictionary and the Nüshu corpus collaborate towards creating a standard writing system to encode Chinese.
+*   [AI Nüshu: An Exploration of Language Emergence in Sisterhood Through the Lens of Computational Linguistics](https://dl.acm.org/doi/abs/10.1145/3610591.3616427) - ***ACM SIGGRAPH Asia'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=6849286654402017109\&hl=en\&as_sdt=0,5)]. By continually observing their environment and communicating, AI agents trained in the Chinese dictionary and the Nüshu corpus collaborate towards creating a standard writing system to encode Chinese.
 *   [Toward understanding the importance of gesture in distributed scientific collaboration](https://link.springer.com/article/10.1007/s10115-006-0062-2) - ***Knowledge and Information Systems***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=3145646721897130511\&as_sdt=0,5)].
 
 ### Domain Specific Language / Design Theory
@@ -384,14 +385,6 @@
 
 ## [23. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
-### Data Validation
-
-*   [jsonschema (⭐4.4k)](https://github.com/python-jsonschema/jsonschema) - An implementation of [JSON Schema](http://json-schema.org/) for Python.
-*   [cerberus (⭐3.1k)](https://github.com/pyeve/cerberus) - A lightweight and extensible data validation library.
-*   [colander (⭐439)](https://github.com/Pylons/colander) - Validating and deserializing data obtained via XML, JSON, an HTML form post.
-*   [schematics (⭐2.6k)](https://github.com/schematics/schematics) - Data Structure Validation.
-*   [pydantic (⭐18k)](https://github.com/pydantic/pydantic) - Data validation using Python type hints.
-
 ### Admin Panels
 
 *   [django-grappelli (⭐3.5k)](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface.
@@ -501,6 +494,13 @@
 *   [aws-sdk-pandas (⭐3.7k)](https://github.com/aws/aws-sdk-pandas) - Pandas on AWS.
 *   [datasette (⭐8.7k)](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
 *   [optimus (⭐1.4k)](https://github.com/hi-primus/optimus) - Agile Data Science Workflows made easy with PySpark.
+
+### Data Validation
+
+*   [cerberus (⭐3.1k)](https://github.com/pyeve/cerberus) - A lightweight and extensible data validation library.
+*   [colander (⭐439)](https://github.com/Pylons/colander) - Validating and deserializing data obtained via XML, JSON, an HTML form post.
+*   [schematics (⭐2.6k)](https://github.com/schematics/schematics) - Data Structure Validation.
+*   [pydantic (⭐18k)](https://github.com/pydantic/pydantic) - Data validation using Python type hints.
 
 ### Data Visualization
 
@@ -673,10 +673,6 @@
 
 ## [25. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
-### Projects / API Management
-
-*   [WSO2 API Manager (⭐796) (⭐796)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
-
 ### Projects / API Gateway
 
 *   [Kong API Gateway (⭐37k) (⭐37k)](https://github.com/Kong/kong) - A cloud-native, platform-agnostic, and scalable API Gateway that supports plugins for easy integration with third-party services.
@@ -696,10 +692,6 @@
 ### Projects / Data Mapping Solution
 
 *   [JSLT (⭐600) (⭐600)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
-
-### Projects / Integration Frameworks
-
-*   [Frank!Framework (⭐94) (⭐94)](https://github.com/frankframework/frankframework) - A Low-Code Java-based messaging framework to connect your system and application data, that is completely configurable through XML configurations.
 
 ### Projects / Messaging
 
@@ -773,18 +765,17 @@
 
 ## [32. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
+### Courses and Educational Materials
+
+*   [DataCamp's Become a Generative AI Developer series](https://www.datacamp.com/ai-code-alongs): 9 code-alongs on building chatbots using LangChain and the OpenAI and Pinecone APIs, and working with the Hugging Face ecosystem. Free, for a limited time only.
+
 ### Online Tools and Applications
 
-*   [Architecture Helper](https://architecturehelper.com): Analyze any building architecture, and generate your own custom styles, in seconds.
 *   [SEOByAI](https://seoby.ai): Rank Faster on Google with FREE AI SEO Tools
 *   [SinglebaseCloud](https://singlebase.cloud): AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.
 *   [TrollyAI](https://trolly.ai/): Create professional SEO articles, 2x faster
 *   [WebscrapeAI](https://webscrapeai.com/): Scrape any website without code using AI
 *   [Yona.ai](https://yona.ai): Create deeply personalized AI chatbots from your own conversations, your stories, your data. You can harness the power of your chat history to build an AI companion for a nostalgic trip down memory lane, whimsical fantasies, or any other unique purpose.
-
-### Courses and Educational Materials
-
-*   [DataCamp's Become a Generative AI Developer series](https://www.datacamp.com/ai-code-alongs): 9 code-alongs on building chatbots using LangChain and the OpenAI and Pinecone APIs, and working with the Hugging Face ecosystem. Free, for a limited time only.
 
 ### Large Language Models (LLMs)
 
@@ -931,7 +922,7 @@
 
 ### Tools / Registry
 
-*   [boring-registry (⭐141)](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with Terraform and OpenTofu.
+*   [boring-registry (⭐141)](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with OpenTofu.
 
 ### Tools / Helpers
 
@@ -956,6 +947,11 @@
 
 ## [43. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
+### JSON Schema Validators
+
+*   [jsonschema (⭐4.4k)](https://github.com/python-jsonschema/jsonschema) - Python implementation of jsonschema.
+*   [Ruby JSON Schema Validator (⭐1.5k)](https://github.com/voxpupuli/json-schema) - validating against a JSON schema conforming to JSON Schema Draft 4.
+
 ### Applications
 
 *   [Dadroit JSON Viewer](https://dadroit.com) - Very fast JSON Viewer, supporting huge (multi gigabytes) files, JSON log (JSON-Lines and ndjson).
@@ -977,6 +973,8 @@
 ### Command-line tools
 
 *   [jq (⭐28k)](https://github.com/jqlang/jq) - A lightweight and flexible command-line JSON processor.
+    *   [jaq (⭐2.4k)](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity. Written in Rust.
+    *   [gojq (⭐3k)](https://github.com/itchyny/gojq) - Pure Go implementation of jq. A bit faster and more portable.
 *   [livejq (⭐10)](https://github.com/kunalsin9h/livejq) - An alternative `jq` implementation in rust for continuous parsing without crashing on invalid JSON
 *   [json-search (⭐4)](https://github.com/cosmo-ray/json-search) - A small tool to search for objects/values in json files.
 *   [jshon](https://web.archive.org/web/20240206155217/http://kmkeen.com/jshon/) - A parser designed for maximum convenience within the shell.
@@ -1040,10 +1038,6 @@
 
 *   [JSON Schema Store](https://www.schemastore.org/json/) - A collection of popular schemas.
 *   [Awesome JSON Schema (⭐91)](https://github.com/sourcemeta/awesome-jsonschema) - A curated list of awesome JSON Schema resources, tutorials, tools, and more.
-
-### JSON Schema Validators
-
-*   [Ruby JSON Schema Validator (⭐1.5k)](https://github.com/voxpupuli/json-schema) - validating against a JSON schema conforming to JSON Schema Draft 4.
 
 ## [44. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -1186,7 +1180,7 @@
 
 ### Register / Diagnostics
 
-*   [kr40/nvim-macros (⭐26)](https://github.com/kr40/nvim-macros) - Easy way to save and load Macros, with backup and formatting options.
+*   [kr40/nvim-macros (⭐29)](https://github.com/kr40/nvim-macros) - Easy way to save and load Macros, with backup and formatting options.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -1194,21 +1188,21 @@
 
 ### Note Taking / Diagnostics
 
-*   [2KAbhishek/tdo.nvim (⭐22)](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
+*   [2KAbhishek/tdo.nvim (⭐30)](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
 
 ### Terminal Integration / Diagnostics
 
-*   [2KAbhishek/termim.nvim (⭐20)](https://github.com/2KAbhishek/termim.nvim/) - Neovim Terminal, Improved.
+*   [2KAbhishek/termim.nvim (⭐29)](https://github.com/2KAbhishek/termim.nvim/) - Neovim Terminal, Improved.
 
 ### Editing Support / Diagnostics
 
-*   [AckslD/nvim-trevJ.lua (⭐148)](https://github.com/AckslD/nvim-trevJ.lua) - Does the opposite of join-line (J) for arguments, powered by Tree-sitter.
+*   [AckslD/nvim-trevJ.lua (⭐159)](https://github.com/AckslD/nvim-trevJ.lua) - Does the opposite of join-line (J) for arguments, powered by Tree-sitter.
 
 ## [57. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [GdUnit4 (⭐333)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework (Godot 4.x).
+*   [GdUnit4 (⭐346)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework (Godot 4.x).
 
 ## [58. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 

@@ -27,7 +27,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Dashy (⭐14k)](https://github.com/lissy93/dashy) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/)) `MIT` `Nodejs/Docker`
+*   [Dashy (⭐15k)](https://github.com/lissy93/dashy) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/)) `MIT` `Nodejs/Docker`
 
 ## [4. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Projects / Package and Build Management
 
-*   [Coq Platform (⭐167)](https://github.com/coq/platform) - Curated collection of packages to support Coq use in industry, education, and research.
+*   [Coq Platform (⭐171)](https://github.com/coq/platform) - Curated collection of packages to support Coq use in industry, education, and research.
 
 ### Projects / Verified Software
 
@@ -170,7 +170,7 @@
 
 ### Programming Languages / Rust
 
-*   [nix-cargo-integration (⭐162)](https://github.com/yusdacra/nix-cargo-integration) - A library that allows easy and effortless integration for Cargo projects.
+*   [nix-cargo-integration (⭐164)](https://github.com/yusdacra/nix-cargo-integration) - A library that allows easy and effortless integration for Cargo projects.
 
 ## [19. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
@@ -288,7 +288,7 @@
 
 ### Native Apps (open source)
 
-*   OneBusAway Apps - [Android](https://play.google.com/store/apps/details?id=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [Fire Phone](http://www.amazon.com/gp/mas/dl/android?p=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [iOS](https://itunes.apple.com/us/app/onebusaway/id329380089)  [*(source code)*](https://github.com/OneBusAway/onebusaway-ios), [Windows Phone](https://www.microsoft.com/en-us/store/apps/onebusaway/9nblggh0cbd9) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows-phone), [Windows 8](https://www.microsoft.com/en-us/store/apps/onebusaway/9wzdncrdm5pc) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows8), [Google Glass GDK (⭐440)](https://github.com/OneBusAway/onebusaway-android/pull/219) [*(source code)*](https://github.com/OneBusAway/onebusaway-android/pull/219), [Alexa skill](https://www.amazon.com/OneBusAway/dp/B01ELVUYCW/) [*(source code)*](https://github.com/OneBusAway/onebusaway-alexa)
+*   OneBusAway Apps - [Android](https://play.google.com/store/apps/details?id=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [Fire Phone](http://www.amazon.com/gp/mas/dl/android?p=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [iOS](https://itunes.apple.com/us/app/onebusaway/id329380089)  [*(source code)*](https://github.com/OneBusAway/onebusaway-ios), [Windows Phone](https://www.microsoft.com/en-us/store/apps/onebusaway/9nblggh0cbd9) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows-phone), [Windows 8](https://www.microsoft.com/en-us/store/apps/onebusaway/9wzdncrdm5pc) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows8), [Google Glass GDK (⭐452)](https://github.com/OneBusAway/onebusaway-android/pull/219) [*(source code)*](https://github.com/OneBusAway/onebusaway-android/pull/219), [Alexa skill](https://www.amazon.com/OneBusAway/dp/B01ELVUYCW/) [*(source code)*](https://github.com/OneBusAway/onebusaway-alexa)
 *   [Trufi App (⭐3)](https://github.com/trufi-association/trufi-app) - A cross-platform Flutter app that uses [OpenTripPlanner](http://www.opentripplanner.org/)
 *   [MACS Transit Android App (⭐9)](https://github.com/yeSpud/MACSTransitApp) - A bus tracker app for Android devices for the MACS Transit system in Fairbanks, Alaska. Uses RouteMatch APIs.
 
@@ -381,7 +381,7 @@
 
 ### Communications / Compression
 
-*   [ufastlz (⭐10)](https://github.com/dmazzella/ufastlz) - MicroPython wrapper for FastLZ, a lightning-fast lossless compression library.
+*   [ufastlz (⭐11)](https://github.com/dmazzella/ufastlz) - MicroPython wrapper for FastLZ, a lightning-fast lossless compression library.
 
 ### Sensors / Distance Laser
 
@@ -389,7 +389,7 @@
 
 ### Storage / Database
 
-*   [uSQLite (⭐71)](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
+*   [uSQLite (⭐77)](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
 
 ## [38. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -444,7 +444,7 @@
     *   [RocksDB](https://rocksdb.org/)
         *   [rust-rocksdb/rust-rocksdb (⭐1.7k)](https://github.com/rust-rocksdb/rust-rocksdb) — RocksDB bindings [![RocksDB CI](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml)
     *   [SurrealDB](https://surrealdb.com/)
-        *   [surrealdb/surrealdb (⭐24k)](https://github.com/surrealdb/surrealdb) — SurrealDB embedded document-graph database
+        *   [surrealdb/surrealdb (⭐25k)](https://github.com/surrealdb/surrealdb) — SurrealDB embedded document-graph database
     *   [UnQLite](https://unqlite.org/)
         *   [zitsen/unqlite.rs (⭐108)](https://github.com/zitsen/unqlite.rs) — UnQLite bindings
     *   [ZooKeeper](https://zookeeper.apache.org/)
@@ -611,7 +611,7 @@
 
 ### Notification
 
-*   [@zerodevx/svelte-toast (⭐739)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
+*   [@zerodevx/svelte-toast (⭐748)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
 
 ## [56. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -623,9 +623,9 @@
 
 ### (requires Neovim 0.5)
 
-*   [neovim/nvim-lspconfig (⭐9k)](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the LSP client.
-*   [gfanto/fzf-lsp.nvim (⭐205)](https://github.com/gfanto/fzf-lsp.nvim) - Enable the power of FZF fuzzy search for the Neovim built in LSP.
-*   [b0o/SchemaStore.nvim (⭐581)](https://github.com/b0o/SchemaStore.nvim) - Provide access to the [SchemaStore (⭐2.7k)](https://github.com/SchemaStore/schemastore) catalog.
+*   [neovim/nvim-lspconfig (⭐9.1k)](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the LSP client.
+*   [gfanto/fzf-lsp.nvim (⭐215)](https://github.com/gfanto/fzf-lsp.nvim) - Enable the power of FZF fuzzy search for the Neovim built in LSP.
+*   [b0o/SchemaStore.nvim (⭐595)](https://github.com/b0o/SchemaStore.nvim) - Provide access to the [SchemaStore (⭐2.8k)](https://github.com/SchemaStore/schemastore) catalog.
 
 ### Completion / Diagnostics
 
@@ -633,7 +633,7 @@
 
 ### Programming Languages Support / Diagnostics
 
-*   [nanotee/sqls.nvim (⭐155)](https://github.com/nanotee/sqls.nvim) - SQL database connection plugin + LSP client.
+*   [nanotee/sqls.nvim (⭐157)](https://github.com/nanotee/sqls.nvim) - SQL database connection plugin + LSP client.
 
 ### Markdown and LaTeX / Diagnostics
 
@@ -641,7 +641,7 @@
 
 ### Syntax / Diagnostics
 
-*   [nvim-treesitter/nvim-treesitter (⭐8.8k)](https://github.com/nvim-treesitter/nvim-treesitter) - Neovim Treesitter configurations and abstraction layer.
+*   [nvim-treesitter/nvim-treesitter (⭐9k)](https://github.com/nvim-treesitter/nvim-treesitter) - Neovim Treesitter configurations and abstraction layer.
 
 ### Snippet / Diagnostics
 
@@ -649,34 +649,34 @@
 
 ### Register / Diagnostics
 
-*   [acksld/nvim-neoclip.lua (⭐818)](https://github.com/AckslD/nvim-neoclip.lua) - Clipboard manager Neovim plugin with telescope integration.
+*   [acksld/nvim-neoclip.lua (⭐828)](https://github.com/AckslD/nvim-neoclip.lua) - Clipboard manager Neovim plugin with telescope integration.
 
 ### Fuzzy Finder / Diagnostics
 
 *   [nvim-telescope/telescope.nvim (⭐13k)](https://github.com/nvim-telescope/telescope.nvim) - Telescope.nvim is a highly [extendable (⭐13k)](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions) fuzzy finder over lists. Built on the latest awesome features from Neovim core. Telescope is centered around modularity, allowing for easy customization.
-*   [ibhagwan/fzf-lua (⭐1.5k)](https://github.com/ibhagwan/fzf-lua) - The Lua version of `fzf.vim`, high-performance and fully async, supports `nvim-web-devicons`, git indicators, LSP, quickfix/location lists and more. Also supports [`skim`](https://github.com/lotabout/skim) as its fzf binary.
+*   [ibhagwan/fzf-lua (⭐1.6k)](https://github.com/ibhagwan/fzf-lua) - The Lua version of `fzf.vim`, high-performance and fully async, supports `nvim-web-devicons`, git indicators, LSP, quickfix/location lists and more. Also supports [`skim`](https://github.com/lotabout/skim) as its fzf binary.
 
 ### Color / Diagnostics
 
-*   [xiyaowong/nvim-transparent (⭐640)](https://github.com/xiyaowong/nvim-transparent) - Make your Neovim transparent.
+*   [xiyaowong/nvim-transparent (⭐651)](https://github.com/xiyaowong/nvim-transparent) - Make your Neovim transparent.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Mofiqul/vscode.nvim (⭐577)](https://github.com/Mofiqul/vscode.nvim) - A Lua port of vim-code-dark colorscheme with vscode light and dark theme.
-*   [marko-cerovac/material.nvim (⭐874)](https://github.com/marko-cerovac/material.nvim) - Material.nvim is a highly configurable colorscheme written in Lua and based on the material palette.
+*   [Mofiqul/vscode.nvim (⭐586)](https://github.com/Mofiqul/vscode.nvim) - A Lua port of vim-code-dark colorscheme with vscode light and dark theme.
+*   [marko-cerovac/material.nvim (⭐883)](https://github.com/marko-cerovac/material.nvim) - Material.nvim is a highly configurable colorscheme written in Lua and based on the material palette.
 *   [mhartington/oceanic-next (⭐1.1k)](https://github.com/mhartington/oceanic-next) - Oceanic Next theme.
 *   [bkegley/gloombuddy (⭐47)](https://github.com/bkegley/gloombuddy) - Gloom inspired theme.
 *   [Th3Whit3Wolf/one-nvim (⭐102)](https://github.com/Th3Whit3Wolf/one-nvim) - An Atom One inspired dark and light colorscheme.
-*   [PHSix/nvim-hybrid (⭐24)](https://github.com/PHSix/nvim-hybrid) - A Neovim colorscheme write in Lua.
-*   [Th3Whit3Wolf/space-nvim (⭐40)](https://github.com/Th3Whit3Wolf/space-nvim) - A spacemacs inspired dark and light colorscheme.
-*   [ishan9299/nvim-solarized-lua (⭐165)](https://github.com/ishan9299/nvim-solarized-lua) - Solarized colorscheme in Lua (Neovim >= 0.5).
+*   [PHSix/nvim-hybrid (⭐27)](https://github.com/PHSix/nvim-hybrid) - A Neovim colorscheme write in Lua.
+*   [Th3Whit3Wolf/space-nvim (⭐41)](https://github.com/Th3Whit3Wolf/space-nvim) - A spacemacs inspired dark and light colorscheme.
+*   [ishan9299/nvim-solarized-lua (⭐163)](https://github.com/ishan9299/nvim-solarized-lua) - Solarized colorscheme in Lua (Neovim >= 0.5).
 *   [navarasu/onedark.nvim (⭐1.3k)](https://github.com/navarasu/onedark.nvim) - A One Dark Theme (Neovim >= 0.5) written in Lua based on Atom's One Dark Theme.
-*   [nxvu699134/vn-night.nvim (⭐41)](https://github.com/nxvu699134/vn-night.nvim) - A dark Neovim colorscheme written in Lua. Support built-in LSP and Tree-sitter.
+*   [nxvu699134/vn-night.nvim (⭐42)](https://github.com/nxvu699134/vn-night.nvim) - A dark Neovim colorscheme written in Lua. Support built-in LSP and Tree-sitter.
 *   [adisen99/codeschool.nvim (⭐38)](https://github.com/adisen99/codeschool.nvim) - Codeschool colorscheme written in Lua with Tree-sitter and built-in lsp support.
 *   [projekt0n/github-nvim-theme (⭐1.9k)](https://github.com/projekt0n/github-nvim-theme) - A GitHub theme, kitty, alacritty written in Lua. Support built-in LSP and Tree-sitter.
-*   [FrenzyExists/aquarium-vim (⭐255)](https://github.com/FrenzyExists/aquarium-vim) - A dark, yet vibrant colorscheme.
-*   [adisen99/apprentice.nvim (⭐40)](https://github.com/adisen99/apprentice.nvim) - Colorscheme written in Lua based on the [Apprentice (⭐865)](https://github.com/romainl/Apprentice) color pattete with Tree-sitter and built-in lsp support.
-*   [rmehri01/onenord.nvim (⭐455)](https://github.com/rmehri01/onenord.nvim) - A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
+*   [FrenzyExists/aquarium-vim (⭐258)](https://github.com/FrenzyExists/aquarium-vim) - A dark, yet vibrant colorscheme.
+*   [adisen99/apprentice.nvim (⭐40)](https://github.com/adisen99/apprentice.nvim) - Colorscheme written in Lua based on the [Apprentice (⭐866)](https://github.com/romainl/Apprentice) color pattete with Tree-sitter and built-in lsp support.
+*   [rmehri01/onenord.nvim (⭐457)](https://github.com/rmehri01/onenord.nvim) - A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
 
 ### Lua Colorscheme / Diagnostics
 
@@ -685,17 +685,17 @@
 
 ### Utility / Diagnostics
 
-*   [code-biscuits/nvim-biscuits (⭐194)](https://github.com/code-biscuits/nvim-biscuits) - A Neovim port of Assorted Biscuits. Ends up with more supported languages too.
+*   [code-biscuits/nvim-biscuits (⭐206)](https://github.com/code-biscuits/nvim-biscuits) - A Neovim port of Assorted Biscuits. Ends up with more supported languages too.
 *   [saifulapm/chartoggle.nvim (⭐36)](https://github.com/saifulapm/chartoggle.nvim) - Toggle any character at end of line.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [svermeulen/vimpeccable (⭐359)](https://github.com/svermeulen/vimpeccable) - Commands to help write your .vimrc in Lua or any Lua based language.
-*   [rafcamlet/nvim-luapad (⭐503)](https://github.com/rafcamlet/nvim-luapad) - Interactive real time Neovim scratchpad for embedded Lua engine - Type and watch!.
+*   [svermeulen/vimpeccable (⭐357)](https://github.com/svermeulen/vimpeccable) - Commands to help write your .vimrc in Lua or any Lua based language.
+*   [rafcamlet/nvim-luapad (⭐505)](https://github.com/rafcamlet/nvim-luapad) - Interactive real time Neovim scratchpad for embedded Lua engine - Type and watch!.
 *   [nvim-lua/plenary.nvim (⭐2.2k)](https://github.com/nvim-lua/plenary.nvim) - Plenary: full; complete; entire; absolute; unqualified. All the Lua functions I don't want to write twice.
 *   [tjdevries/vlog.nvim (⭐112)](https://github.com/tjdevries/vlog.nvim) - Single file, no dependency, easy copy & paste log file to add to your Neovim Lua plugins.
 *   [bfredl/nvim-luadev (⭐271)](https://github.com/bfredl/nvim-luadev) - REPL/debug console Lua plugins. The `:Luadev` command will open an scratch window which will show output from executing Lua code.
-*   [jbyuki/one-small-step-for-vimkind (⭐313)](https://github.com/jbyuki/one-small-step-for-vimkind) - An adapter for the Neovim Lua language. It allows you to debug any Lua code running in a Neovim instance (A Lua plugin that can debug Neovim Lua plugins).
+*   [jbyuki/one-small-step-for-vimkind (⭐318)](https://github.com/jbyuki/one-small-step-for-vimkind) - An adapter for the Neovim Lua language. It allows you to debug any Lua code running in a Neovim instance (A Lua plugin that can debug Neovim Lua plugins).
 
 ### Scrolling / Diagnostics
 
@@ -784,7 +784,7 @@
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [arrow-kt/arrow-meta (⭐382)](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler.
+*   [arrow-kt/arrow-meta (⭐385)](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler.
 
 ## [65. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
@@ -828,7 +828,7 @@
 
 ### Third-Party Packages / Full-stack frameworks
 
-*   [iommi (⭐593)](https://github.com/TriOptima/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
+*   [iommi (⭐620)](https://github.com/TriOptima/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
 
 ## [69. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

@@ -8,7 +8,7 @@
 
 ## [1. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
 
-### Datasets / Applications of Transformers, LLMs, and GPT
+### Datasets / Datasets available elsewhere
 
 *   [Open data collections from the National Library of Scotland](https://data.nls.uk/)
 
@@ -23,6 +23,13 @@
 *   [Remaker-Ai](https://remaker.ai/en) - All-in-one tool leveraging the capabilities of artificial intelligence. Craft and produce diverse content formats, spanning text, images, and beyond.`#free`
 
 ## [3. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
+
+### Other / Music
+
+*   [Architecture Helper](https://architecturehelper.com) - Analyze any building architecture, and generate your own custom styles, in seconds.
+*   [GradGPT](https://www.gradgpt.com/) - AI tools to simplify college applications. Review applications, draft essays, find universities and requirements and more.
+*   [Code to Flow](https://codetoflow.com) - Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
+*   [AI-Flow](https://ai-flow.net/) - Connect multiple AI models easily.
 
 ### Text / Search engines
 
@@ -45,12 +52,6 @@
 ### Phone Calls / Animation
 
 *   [AICaller.io](https://aicaller.io/?ref=v) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
-
-### Other / Music
-
-*   [GradGPT](https://www.gradgpt.com/) - AI tools to simplify college applications. Review applications, draft essays, find universities and requirements and more.
-*   [Code to Flow](https://codetoflow.com) - Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
-*   [AI-Flow](https://ai-flow.net/) - Connect multiple AI models easily.
 
 ## [4. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
@@ -124,7 +125,7 @@
 
 ### Communications / Non-Verbal Communication
 
-*   [AI Nüshu: An Exploration of Language Emergence in Sisterhood Through the Lens of Computational Linguistics](https://dl.acm.org/doi/abs/10.1145/3610591.3616427) - ***ACM SIGGraph Asia'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=6849286654402017109\&hl=en\&as_sdt=0,5)]. By continually observing their environment and communicating, AI agents trained in the Chinese dictionary and the Nüshu corpus collaborate towards creating a standard writing system to encode Chinese.
+*   [AI Nüshu: An Exploration of Language Emergence in Sisterhood Through the Lens of Computational Linguistics](https://dl.acm.org/doi/abs/10.1145/3610591.3616427) - ***ACM SIGGRAPH Asia'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=6849286654402017109\&hl=en\&as_sdt=0,5)]. By continually observing their environment and communicating, AI agents trained in the Chinese dictionary and the Nüshu corpus collaborate towards creating a standard writing system to encode Chinese.
 
 ### Domain Specific Language / Design Theory
 
@@ -591,10 +592,6 @@
 
 ## [18. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
-### Projects / API Management
-
-*   [WSO2 API Manager (⭐796) (⭐796)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
-
 ### Projects / API Gateway
 
 *   [Kong API Gateway (⭐37k) (⭐37k)](https://github.com/Kong/kong) - A cloud-native, platform-agnostic, and scalable API Gateway that supports plugins for easy integration with third-party services.
@@ -614,10 +611,6 @@
 ### Projects / Data Mapping Solution
 
 *   [JSLT (⭐600) (⭐600)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
-
-### Projects / Integration Frameworks
-
-*   [Frank!Framework (⭐94) (⭐94)](https://github.com/frankframework/frankframework) - A Low-Code Java-based messaging framework to connect your system and application data, that is completely configurable through XML configurations.
 
 ### Projects / Messaging
 
@@ -691,17 +684,16 @@
 
 ## [25. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
+### Courses and Educational Materials
+
+*   [DataCamp's Become a Generative AI Developer series](https://www.datacamp.com/ai-code-alongs): 9 code-alongs on building chatbots using LangChain and the OpenAI and Pinecone APIs, and working with the Hugging Face ecosystem. Free, for a limited time only.
+
 ### Online Tools and Applications
 
-*   [Architecture Helper](https://architecturehelper.com): Analyze any building architecture, and generate your own custom styles, in seconds.
 *   [SinglebaseCloud](https://singlebase.cloud): AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.
 *   [TrollyAI](https://trolly.ai/): Create professional SEO articles, 2x faster
 *   [WebscrapeAI](https://webscrapeai.com/): Scrape any website without code using AI
 *   [Yona.ai](https://yona.ai): Create deeply personalized AI chatbots from your own conversations, your stories, your data. You can harness the power of your chat history to build an AI companion for a nostalgic trip down memory lane, whimsical fantasies, or any other unique purpose.
-
-### Courses and Educational Materials
-
-*   [DataCamp's Become a Generative AI Developer series](https://www.datacamp.com/ai-code-alongs): 9 code-alongs on building chatbots using LangChain and the OpenAI and Pinecone APIs, and working with the Hugging Face ecosystem. Free, for a limited time only.
 
 ### Large Language Models (LLMs)
 

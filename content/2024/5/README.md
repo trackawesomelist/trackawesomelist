@@ -36,16 +36,16 @@
 
 ### Web / Other
 
-*   [dockemon (⭐505)](https://github.com/ProductiveOps/dokemon) - Docker Container Management GUI by [@productiveops](https://github.com/ProductiveOps)
-*   [dockge (⭐7.1k)](https://github.com/louislam/dockge) - easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager by [@louislam](https://github.com/louislam).
+*   [dockemon (⭐532)](https://github.com/ProductiveOps/dokemon) - Docker Container Management GUI by [@productiveops](https://github.com/ProductiveOps)
+*   [dockge (⭐7.9k)](https://github.com/louislam/dockge) - easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager by [@louislam](https://github.com/louislam).
 
 ### CI/CD / Other
 
-*   [Gantry (⭐12)](https://github.com/shizunge/gantry) - Automatically update selected Docker swarm services.
+*   [Gantry (⭐16)](https://github.com/shizunge/gantry) - Automatically update selected Docker swarm services.
 
 ### Garbage Collection / Other
 
-*   [Docuum (⭐539)](https://github.com/stepchowfun/docuum) - Least recently used (LRU) eviction of Docker images by [@stepchowfun](https://github.com/stepchowfun)
+*   [Docuum (⭐545)](https://github.com/stepchowfun/docuum) - Least recently used (LRU) eviction of Docker images by [@stepchowfun](https://github.com/stepchowfun)
 
 ## [6. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
@@ -167,11 +167,11 @@
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [L-Briand/KTM (⭐13)](https://github.com/L-Briand/KTM) - Mustache templating in kotlin multiplatform
+*   [L-Briand/KTM (⭐14)](https://github.com/L-Briand/KTM) - Mustache templating in kotlin multiplatform
 
 ### Libraries/Frameworks / Cryptography
 
-*   [appmattus/crypto (⭐73)](https://github.com/appmattus/crypto) - A collection of Kotlin Multiplatform Mobile cryptographic hashing functions.
+*   [appmattus/crypto (⭐74)](https://github.com/appmattus/crypto) - A collection of Kotlin Multiplatform Mobile cryptographic hashing functions.
 
 ## [18. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
@@ -335,25 +335,25 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [QuestSystem (⭐28)](https://github.com/ShomyKohai/quest-system) - A simple and extensible quest manager and creator (Godot 4.x).
+*   [QuestSystem (⭐51)](https://github.com/ShomyKohai/quest-system) - A simple and extensible quest manager and creator (Godot 4.x).
 
 ## [30. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [soulis-1256/eagle.nvim (⭐123)](https://github.com/soulis-1256/eagle.nvim) - Mouse-hover LSP hints.
+*   [soulis-1256/eagle.nvim (⭐147)](https://github.com/soulis-1256/eagle.nvim) - Mouse-hover LSP hints.
 
 ### AI / Diagnostics
 
-*   [kiddos/gemini.nvim (⭐12)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
+*   [kiddos/gemini.nvim (⭐14)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [sontungexpt/witch (⭐13)](https://github.com/sontungexpt/witch) - The primary stinvim distro colorscheme includes the default feature of dimming inactive windows, along with various other customization options for users.
+*   [sontungexpt/witch (⭐14)](https://github.com/sontungexpt/witch) - The primary stinvim distro colorscheme includes the default feature of dimming inactive windows, along with various other customization options for users.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [drybalka/clean.nvim (⭐23)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
+*   [drybalka/clean.nvim (⭐27)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
 
 ### Resource / Diagnostics
 

@@ -10,13 +10,13 @@
 
 ### Frameworks / Apache License
 
-*   [adamant (⭐21)](https://github.com/lasp/adamant) - A component-based, model-driven framework for constructing reliable and reusable real-time software.
+*   [adamant (⭐26)](https://github.com/lasp/adamant) - A component-based, model-driven framework for constructing reliable and reusable real-time software.
 
 ## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Tools
 
-*   [typesafegithub/github-workflows-kt (⭐470)](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
+*   [typesafegithub/github-workflows-kt (⭐476)](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
 
 ## [3. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -120,7 +120,7 @@
 
 ### Software / Communication - Email - Mail Transfer Agents
 
-*   [OpenTrashmail (⭐447)](https://github.com/HaschekSolutions/opentrashmail) - Complete trashmail solution that exposes an SMTP server and has a web interface to manage received emails. Works with multiple and wildcard domains and is fully file based (no database needed). Includes RSS feeds and JSON API. `Apache-2.0` `Python/PHP/Docker`
+*   [OpenTrashmail (⭐455)](https://github.com/HaschekSolutions/opentrashmail) - Complete trashmail solution that exposes an SMTP server and has a web interface to manage received emails. Works with multiple and wildcard domains and is fully file based (no database needed). Includes RSS feeds and JSON API. `Apache-2.0` `Python/PHP/Docker`
 
 ### Software / Groupware
 
@@ -285,12 +285,12 @@
 
 ### Completion / Diagnostics
 
-*   [nvimdev/epo.nvim (⭐96)](https://github.com/nvimdev/epo.nvim) - Blazingly fast, minimal LSP auto-completion and snippet engine.
+*   [nvimdev/epo.nvim (⭐102)](https://github.com/nvimdev/epo.nvim) - Blazingly fast, minimal LSP auto-completion and snippet engine.
 
 ### AI / Diagnostics
 
-*   [jpmcb/nvim-llama (⭐171)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
-*   [David-Kunz/gen.nvim (⭐578)](https://github.com/David-Kunz/gen.nvim) - Generate text using LLMs (via Ollama) with customizable prompts.
+*   [jpmcb/nvim-llama (⭐182)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
+*   [David-Kunz/gen.nvim (⭐671)](https://github.com/David-Kunz/gen.nvim) - Generate text using LLMs (via Ollama) with customizable prompts.
 
 ### Markdown and LaTeX / Diagnostics
 
@@ -298,24 +298,24 @@
 
 ### Syntax / Diagnostics
 
-*   [IndianBoy42/tree-sitter-just (⭐94)](https://github.com/IndianBoy42/tree-sitter-just) - Treesitter grammar for [Justfiles (⭐16k)](https://github.com/casey/just).
+*   [IndianBoy42/tree-sitter-just (⭐98)](https://github.com/IndianBoy42/tree-sitter-just) - Treesitter grammar for [Justfiles (⭐16k)](https://github.com/casey/just).
 
 ### Snippet / Diagnostics
 
 *   [rafamadriz/friendly-snippets (⭐1.5k)](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
-*   [cvigilv/esqueleto.nvim (⭐91)](https://github.com/cvigilv/esqueleto.nvim) - Simple templates to use when creating new files.
+*   [cvigilv/esqueleto.nvim (⭐92)](https://github.com/cvigilv/esqueleto.nvim) - Simple templates to use when creating new files.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [fdschmidt93/telescope-egrepify.nvim (⭐67)](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Telescope plugin for better `rg` flags in `live_grep`.
+*   [fdschmidt93/telescope-egrepify.nvim (⭐71)](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Telescope plugin for better `rg` flags in `live_grep`.
 
 ### Colorscheme Switchers / Diagnostics
 
-*   [linrongbin16/colorbox.nvim (⭐19)](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into your Neovim player! It collects all the most popular colorschemes, installs them, and allows you to play them with multiple playback settings.
+*   [linrongbin16/colorbox.nvim (⭐20)](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into your Neovim player! It collects all the most popular colorschemes, installs them, and allows you to play them with multiple playback settings.
 
 ### Debugging / Diagnostics
 
-*   [theHamsta/nvim-dap-virtual-text (⭐688)](https://github.com/theHamsta/nvim-dap-virtual-text) - Virtual text support for nvim-dap.
+*   [theHamsta/nvim-dap-virtual-text (⭐700)](https://github.com/theHamsta/nvim-dap-virtual-text) - Virtual text support for nvim-dap.
 
 ### Code Runner / Diagnostics
 
@@ -323,18 +323,18 @@
 
 ### Motion / Diagnostics
 
-*   [ggandor/flit.nvim (⭐318)](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap.
-*   [ggandor/leap-spooky.nvim (⭐258)](https://github.com/ggandor/leap-spooky.nvim) - Spooky (Leap) actions at a distance.
+*   [ggandor/flit.nvim (⭐324)](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap.
+*   [ggandor/leap-spooky.nvim (⭐264)](https://github.com/ggandor/leap-spooky.nvim) - Spooky (Leap) actions at a distance.
 
 ### Editing Support / Diagnostics
 
-*   [nat-418/boole.nvim (⭐118)](https://github.com/nat-418/boole.nvim) - Toggle booleans and common string values.
-*   [cshuaimin/ssr.nvim (⭐808)](https://github.com/cshuaimin/ssr.nvim) - Treesitter-based structural search and replace.
-*   [Jxstxs/conceal.nvim (⭐56)](https://github.com/Jxstxs/conceal.nvim) - Use Tree-sitter to conceal common boilerplate code.
+*   [nat-418/boole.nvim (⭐133)](https://github.com/nat-418/boole.nvim) - Toggle booleans and common string values.
+*   [cshuaimin/ssr.nvim (⭐823)](https://github.com/cshuaimin/ssr.nvim) - Treesitter-based structural search and replace.
+*   [Jxstxs/conceal.nvim (⭐57)](https://github.com/Jxstxs/conceal.nvim) - Use Tree-sitter to conceal common boilerplate code.
 
 ### Formatting / Diagnostics
 
-*   [nvimdev/guard.nvim (⭐399)](https://github.com/nvimdev/guard.nvim) - Minimalist async formatting and linting plugin.
+*   [nvimdev/guard.nvim (⭐401)](https://github.com/nvimdev/guard.nvim) - Minimalist async formatting and linting plugin.
 
 ## [25. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 

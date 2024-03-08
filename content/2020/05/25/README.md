@@ -88,19 +88,19 @@
 
 ### Component Libraries
 
-*   [Apollo Elements (⭐408)](https://github.com/apollo-elements/apollo-elements) - Custom elements for using Apollo GraphQL with various web components libraries.
+*   [Apollo Elements (⭐413)](https://github.com/apollo-elements/apollo-elements) - Custom elements for using Apollo GraphQL with various web components libraries.
 *   [Blackstone UI (⭐76)](https://github.com/kjantzer/bui) - Web components for creating interfaces by Blackstone Publishing.
 
 ### Starter Kits
 
-*   [custom-element-boilerplate (⭐155)](https://github.com/github/custom-element-boilerplate) - Boilerplate for creating a custom element.
-*   [hello-web-components (⭐23)](https://github.com/fernandopasik/hello-web-components) - Simple starter hello world web component written in TypeScript.
+*   [custom-element-boilerplate (⭐157)](https://github.com/github/custom-element-boilerplate) - Boilerplate for creating a custom element.
+*   [hello-web-components (⭐25)](https://github.com/fernandopasik/hello-web-components) - Simple starter hello world web component written in TypeScript.
 
 ## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
-*   [deno\_cron (⭐100)](https://github.com/rbrahul/deno_cron) - A cron Job scheduler that allows you to write human readable cron syntax with tons of flexibility
+*   [deno\_cron (⭐99)](https://github.com/rbrahul/deno_cron) - A cron Job scheduler that allows you to write human readable cron syntax with tons of flexibility
 *   [rubico (⭐262)](https://github.com/richytong/rubico) - 🏞 \[a]synchronous function composition; it just works.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)

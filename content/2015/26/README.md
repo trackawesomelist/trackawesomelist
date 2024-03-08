@@ -27,7 +27,7 @@
 
 ### Courses
 
-*   [Artificial Intelligence For Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics) - This class will teach you basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics
+*   [Artificial Intelligence For Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics) - This class will teach you basic methods in Artificial Intelligence, including probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics
 *   [Paradigms Of Artificial Intelligence Programming: Case Studies in Common Lisp](http://www.amazon.com/exec/obidos/ASIN/1558601910) - Paradigms of AI Programming is the first text to teach advanced Common Lisp techniques in the context of building major AI systems
 *   [The Cambridge Handbook Of Artificial Intelligence](http://www.amazon.com/Cambridge-Handbook-Artificial-Intelligence/dp/0521691915) - Written for non-specialists, it covers the discipline's foundations, major theories, and principal research areas, plus related topics such as artificial life
 *   [On Intelligence](http://www.amazon.com/Jeff-Hawkins/e/B001KHNZ7C/ref=sr_ntt_srch_lnk_11?qid=1435480927\&sr=8-11) - Hawkins develops a powerful theory of how the human brain works, explaining why computers are not intelligent and how, based on this new theory, we can finally build intelligent machines. Also audio version available from audible.com
@@ -44,7 +44,7 @@
 ### Free Content
 
 *   [Foundations Of Computational Agents](http://artint.info/html/ArtInt.html) - This book is published by Cambridge University Press, 2010
-*   [The Quest For Artificial Intelligence](http://ai.stanford.edu/\~nilsson/QAI/qai.pdf) - This book traces the history of the subject, from the early dreams of eighteenth-century (and earlier) pioneers to the more successful work of today's AI engineers.
+*   [The Quest For Artificial Intelligence](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - This book traces the history of the subject, from the early dreams of eighteenth-century (and earlier) pioneers to the more successful work of today's AI engineers.
 
 ### Videos
 

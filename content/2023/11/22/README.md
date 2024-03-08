@@ -36,11 +36,11 @@
 
 ### Snippet / Diagnostics
 
-*   [cvigilv/esqueleto.nvim (⭐91)](https://github.com/cvigilv/esqueleto.nvim) - Simple templates to use when creating new files.
+*   [cvigilv/esqueleto.nvim (⭐92)](https://github.com/cvigilv/esqueleto.nvim) - Simple templates to use when creating new files.
 
 ### Debugging / Diagnostics
 
-*   [theHamsta/nvim-dap-virtual-text (⭐688)](https://github.com/theHamsta/nvim-dap-virtual-text) - Virtual text support for nvim-dap.
+*   [theHamsta/nvim-dap-virtual-text (⭐700)](https://github.com/theHamsta/nvim-dap-virtual-text) - Virtual text support for nvim-dap.
 
 ### Code Runner / Diagnostics
 
@@ -81,7 +81,7 @@
 
 ### Software / Communication - Email - Mail Transfer Agents
 
-*   [OpenTrashmail (⭐447)](https://github.com/HaschekSolutions/opentrashmail) - Complete trashmail solution that exposes an SMTP server and has a web interface to manage received emails. Works with multiple and wildcard domains and is fully file based (no database needed). Includes RSS feeds and JSON API. `Apache-2.0` `Python/PHP/Docker`
+*   [OpenTrashmail (⭐455)](https://github.com/HaschekSolutions/opentrashmail) - Complete trashmail solution that exposes an SMTP server and has a web interface to manage received emails. Works with multiple and wildcard domains and is fully file based (no database needed). Includes RSS feeds and JSON API. `Apache-2.0` `Python/PHP/Docker`
 
 ### Software / Groupware
 

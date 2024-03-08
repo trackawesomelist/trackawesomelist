@@ -594,7 +594,7 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [camspiers/snap (⭐436)](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
+*   [camspiers/snap (⭐440)](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
 
 ### Neovim Lua Development / Diagnostics
 
@@ -624,7 +624,7 @@
 
 ### Integrations / Mypy plugins
 
-*   [nbQA (⭐898)](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
+*   [nbQA (⭐944)](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
 
 ## [30. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -712,7 +712,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot SQLite (⭐672)](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project (Godot 3.2+).
+*   [Godot SQLite (⭐694)](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project (Godot 3.2+).
 
 ## [39. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 

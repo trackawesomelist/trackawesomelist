@@ -98,45 +98,45 @@
 
 ### Dynamic type checkers
 
-*   [pytypes (⭐193)](https://github.com/Stewori/pytypes) - Provides a rich set of utilities for runtime typechecking.
+*   [pytypes (⭐195)](https://github.com/Stewori/pytypes) - Provides a rich set of utilities for runtime typechecking.
 
 ### Stub packages
 
 *   [botostubs (⭐95)](https://github.com/jeshan/botostubs) - Gives you code assistance for any boto3 API in any IDE.
-*   [PyQt5-stubs (⭐66)](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
-*   [sqlalchemy-stubs (⭐552)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐8k)](https://github.com/sqlalchemy/sqlalchemy).
+*   [PyQt5-stubs (⭐69)](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
+*   [sqlalchemy-stubs (⭐555)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐8.5k)](https://github.com/sqlalchemy/sqlalchemy).
 
 ### Backports and improvements
 
-*   [typing-utils (⭐10)](https://github.com/bojiang/typing_utils) - Backport 3.8+ runtime typing utils(for eg: get\_origin) & add issubtype & more.
+*   [typing-utils (⭐11)](https://github.com/bojiang/typing_utils) - Backport 3.8+ runtime typing utils(for eg: get\_origin) & add issubtype & more.
 
 ### Tools / Linters
 
-*   [flake8-pyi (⭐68)](https://github.com/ambv/flake8-pyi) - Plugin for Flake8 that provides specializations for type hinting stub files.
+*   [flake8-pyi (⭐70)](https://github.com/ambv/flake8-pyi) - Plugin for Flake8 that provides specializations for type hinting stub files.
 
 ### Tools / Testing
 
-*   [pytest-mypy (⭐233)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
+*   [pytest-mypy (⭐237)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
 
 ### Tools / Working with types
 
-*   [merge-pyi (⭐4.4k)](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - Part of pytype toolchain, applies stub files onto source code.
+*   [merge-pyi (⭐4.5k)](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - Part of pytype toolchain, applies stub files onto source code.
 *   [mypy-silent (⭐13)](https://github.com/whtsky/mypy-silent/) - Silence mypy by adding or removing code comments.
 
 ### Tools / Helper tools to add annotations to existing code
 
 *   [pytest-annotate (⭐108)](https://github.com/kensho-technologies/pytest-annotate) - Pyannotate plugin for pytest.
 *   [pytest-monkeytype (⭐39)](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
-*   [typilus (⭐52)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐40)](https://github.com/typilus/typilus-action)
+*   [typilus (⭐56)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐40)](https://github.com/typilus/typilus-action)
 
 ### Tools / Mypy plugins
 
 *   [loguru-mypy (⭐15)](https://github.com/kornicameister/loguru-mypy) - Plugin for [loguru (⭐17k)](https://github.com/Delgan/loguru) support.
-*   [pynamodb-mypy (⭐4)](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB (⭐2.3k)](https://github.com/pynamodb/PynamoDB) support.
+*   [pynamodb-mypy (⭐4)](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB (⭐2.4k)](https://github.com/pynamodb/PynamoDB) support.
 
 ### Integrations / Mypy plugins
 
-*   [emacs-flycheck-mypy (⭐37)](https://github.com/lbolla/emacs-flycheck-mypy) - Mypy integration for Emacs.
+*   [emacs-flycheck-mypy (⭐38)](https://github.com/lbolla/emacs-flycheck-mypy) - Mypy integration for Emacs.
 *   [linter-mypy](https://atom.io/packages/linter-mypy) - Mypy integration for Atom.
 
 ### Articles / Third-party articles

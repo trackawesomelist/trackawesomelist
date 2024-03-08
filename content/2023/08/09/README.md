@@ -14,7 +14,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Ax (⭐1k)](https://github.com/axilla-io/ax): A comprehensive AI framework for TypeScript ![GitHub Repo stars](https://img.shields.io/github/stars/axilla-io/ax?style=social)
+*   [Ax (⭐1.1k)](https://github.com/axilla-io/ax): A comprehensive AI framework for TypeScript ![GitHub Repo stars](https://img.shields.io/github/stars/axilla-io/ax?style=social)
 
 ## [2. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -38,13 +38,13 @@
 
 ### CMS / Playground
 
-*   [Graphweaver (⭐408)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
+*   [Graphweaver (⭐428)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
 
 ## [6. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### AI
 
-*   [emlearn-micropython (⭐27)](https://github.com/emlearn/emlearn-micropython) - Efficient Machine Learning engine for MicroPython.
+*   [emlearn-micropython (⭐29)](https://github.com/emlearn/emlearn-micropython) - Efficient Machine Learning engine for MicroPython.
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

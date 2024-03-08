@@ -71,10 +71,10 @@
 
 ### Examples
 
-*   [generic-components (⭐540)](https://github.com/thepassle/generic-components) - Collection of generic web components with a focus on accessibility, and ease of use.
-*   [howto-components (⭐858)](https://github.com/GoogleChromeLabs/howto-components) - Collection of web components that implement common web UI patterns.
+*   [generic-components (⭐548)](https://github.com/thepassle/generic-components) - Collection of generic web components with a focus on accessibility, and ease of use.
+*   [howto-components (⭐860)](https://github.com/GoogleChromeLabs/howto-components) - Collection of web components that implement common web UI patterns.
 *   [vanilla-retro-js (⭐14)](https://github.com/martine-dowden/vanilla-retro-js) - Vanilla JS UI component library of HTML deprecated tags.
-*   [web-components-examples (⭐2.8k)](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
+*   [web-components-examples (⭐2.9k)](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
 
 ### Architecture
 

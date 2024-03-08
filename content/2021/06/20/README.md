@@ -26,7 +26,7 @@
 
 ### Utility / Diagnostics
 
-*   [matbme/JABS.nvim (⭐270)](https://github.com/matbme/JABS.nvim) - Pretty and minimal buffer switcher window.
+*   [matbme/JABS.nvim (⭐271)](https://github.com/matbme/JABS.nvim) - Pretty and minimal buffer switcher window.
 
 ## [4. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 

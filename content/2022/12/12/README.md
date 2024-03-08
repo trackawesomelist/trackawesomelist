@@ -47,7 +47,7 @@
 
 ### Marks / Diagnostics
 
-*   [cbochs/grapple.nvim (⭐254)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
+*   [cbochs/grapple.nvim (⭐277)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
 
 ## [4. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 

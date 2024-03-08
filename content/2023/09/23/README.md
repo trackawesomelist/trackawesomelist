@@ -88,7 +88,7 @@
 
 ### (requires Neovim 0.5) / Diagnostics
 
-*   [chrisgrieser/nvim-rulebook (⭐58)](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
+*   [chrisgrieser/nvim-rulebook (⭐61)](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
 
 ## [13. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

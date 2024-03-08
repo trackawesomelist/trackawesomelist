@@ -14,7 +14,7 @@
 
 ### Third-Party Packages / Models
 
-*   [django-simple-history (⭐2k)](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from the admin.
+*   [django-simple-history (⭐2.1k)](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from the admin.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

@@ -214,15 +214,15 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Element](https://element.io) - Fully-featured Matrix client for Web, iOS & Android. ([Source Code (⭐10k)](https://github.com/vector-im/element-web)) `Apache-2.0` `Nodejs`
+*   [Element](https://element.io) - Fully-featured Matrix client for Web, iOS & Android. ([Source Code (⭐11k)](https://github.com/vector-im/element-web)) `Apache-2.0` `Nodejs`
 
 ### Software / Communication - Email - Mail Transfer Agents
 
-*   [Haraka](https://haraka.github.io/) - High-performance, pluginable SMTP server written in Javascript. ([Source Code (⭐4.7k)](https://github.com/haraka/Haraka)) `MIT` `Nodejs`
+*   [Haraka](https://haraka.github.io/) - High-performance, pluginable SMTP server written in Javascript. ([Source Code (⭐4.8k)](https://github.com/haraka/Haraka)) `MIT` `Nodejs`
 
 ### Software / Communication - IRC
 
-*   [Glowing Bear (⭐929)](https://github.com/glowing-bear/glowing-bear) - A web frontend for WeeChat. ([Demo](https://www.glowing-bear.org)) `GPL-3.0` `Nodejs`
+*   [Glowing Bear (⭐930)](https://github.com/glowing-bear/glowing-bear) - A web frontend for WeeChat. ([Demo](https://www.glowing-bear.org)) `GPL-3.0` `Nodejs`
 
 ### Software / Communication - SIP
 
@@ -230,7 +230,7 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Enigma 1/2 BBS](https://nuskooler.github.io/enigma-bbs/) - Enigma 1/2 is a modern, multi-platform BBS engine with unlimited "callers" and legacy DOS door game support. ([Demo](https://l33t.codes/xibalba-bbs/), [Source Code (⭐512)](https://github.com/NuSkooler/enigma-bbs)) `BSD-2-Clause` `Shell/Docker/Nodejs`
+*   [Enigma 1/2 BBS](https://nuskooler.github.io/enigma-bbs/) - Enigma 1/2 is a modern, multi-platform BBS engine with unlimited "callers" and legacy DOS door game support. ([Demo](https://l33t.codes/xibalba-bbs/), [Source Code (⭐514)](https://github.com/NuSkooler/enigma-bbs)) `BSD-2-Clause` `Shell/Docker/Nodejs`
 
 ### Software / Software Development - Low Code
 
@@ -338,7 +338,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [olivercederborg/poimandres.nvim (⭐254)](https://github.com/olivercederborg/poimandres.nvim) - Neovim port of [poimandres VSCode theme (⭐284)](https://github.com/drcmda/poimandres-theme) with Tree-sitter support, written in Lua.
+*   [olivercederborg/poimandres.nvim (⭐270)](https://github.com/olivercederborg/poimandres.nvim) - Neovim port of [poimandres VSCode theme (⭐305)](https://github.com/drcmda/poimandres-theme) with Tree-sitter support, written in Lua.
 
 ### Debugging / Diagnostics
 

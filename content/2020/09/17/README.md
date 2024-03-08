@@ -10,7 +10,7 @@
 
 ### Tools / Linters
 
-*   [flake8-annotations (⭐148)](https://github.com/sco1/flake8-annotations) - Plugin for flake8 to check for presence of type annotations in function definitions.
+*   [flake8-annotations (⭐152)](https://github.com/sco1/flake8-annotations) - Plugin for flake8 to check for presence of type annotations in function definitions.
 
 ## [2. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
@@ -23,7 +23,7 @@
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [JetBrains Rider (C#) (⭐319)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
+*   [JetBrains Rider (C#) (⭐326)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
 
 ## [4. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 

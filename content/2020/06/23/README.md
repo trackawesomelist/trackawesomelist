@@ -10,13 +10,13 @@
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [Godot syntax themes (⭐310)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
+*   [Godot syntax themes (⭐316)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Search Engines
 
-*   [sist2 (⭐699)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
+*   [sist2 (⭐708)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
 
 ## [3. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Command-line tools
 
-*   [oj (⭐767)](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
+*   [oj (⭐768)](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
 
 ### Format Extensions
 
@@ -43,7 +43,7 @@
 ### Libraries
 
 *   [ojc (⭐34)](https://github.com/ohler55/ojc) - A fast JSON parser.
-*   [ojg (⭐767)](https://github.com/ohler55/ojg) - A collection of high performance JSON processing and generating tool.
+*   [ojg (⭐768)](https://github.com/ohler55/ojg) - A collection of high performance JSON processing and generating tool.
 
 ## [6. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 

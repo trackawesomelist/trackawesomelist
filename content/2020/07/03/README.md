@@ -20,10 +20,10 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Validation / Playground
 
-*   [zod (⭐28k)](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
+*   [zod (⭐29k)](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
 *   [runtypes (⭐2.5k)](https://github.com/pelotom/runtypes) - Runtime validation for static types
 *   [ow (⭐3.8k)](https://github.com/sindresorhus/ow) - Function argument validation for humans
-*   [superstruct (⭐6.7k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
+*   [superstruct (⭐6.8k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
 
 ## [3. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
 
@@ -90,7 +90,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Software / Personal Dashboards
 
-*   [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code (⭐125)](https://github.com/ashwin-pc/hiccup)) `MIT` `Javascript/Docker`
+*   [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code (⭐127)](https://github.com/ashwin-pc/hiccup)) `MIT` `Javascript/Docker`
 
 ## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -148,7 +148,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Apps / Outline Processor Markup Language
 
-*   [Livemarks (⭐211)](https://github.com/nt1m/livemarks/) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/livemarks/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nt1m/livemarks/)
+*   [Livemarks (⭐214)](https://github.com/nt1m/livemarks/) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/livemarks/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nt1m/livemarks/)
 *   [CubeRSS Reader](https://www.cube-soft.jp/cuberssreader/) <sup>[700](https://t.me/s/aboutrss/700)</sup> [![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://www.cube-soft.jp/cuberssreader/confirm.php)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/cube-soft/Cube.Net)
 *   [Drop Feeds (⭐18)](https://github.com/dauphine-dev/drop-feeds) <sup>[701](https://t.me/s/aboutrss/701)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/drop-feeds/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/dauphine-dev/drop-feeds)
 

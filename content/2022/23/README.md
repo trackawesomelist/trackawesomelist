@@ -65,7 +65,7 @@
 
 ### Rust / Git
 
-*   [orion (⭐530)](https://github.com/orion-rs/orion) - is a cryptography library written in pure Rust. It aims to provide easy and usable crypto while trying to minimize the use of unsafe code.
+*   [orion (⭐535)](https://github.com/orion-rs/orion) - is a cryptography library written in pure Rust. It aims to provide easy and usable crypto while trying to minimize the use of unsafe code.
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -158,13 +158,13 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [robfletcher/strikt (⭐519)](https://github.com/robfletcher/strikt) - An assertion library for Kotlin
-*   [tschuchortdev/kotlin-compile-testing (⭐619)](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
+*   [robfletcher/strikt (⭐521)](https://github.com/robfletcher/strikt) - An assertion library for Kotlin
+*   [tschuchortdev/kotlin-compile-testing (⭐622)](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
 
 ### Libraries/Frameworks / Misc
 
 *   [InsanusMokrassar/KSLog (⭐9)](https://github.com/InsanusMokrassar/KSLog) - Fully customizable and lightweight logging library for Kotlin
-*   [charleskorn/kaml (⭐443)](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization
+*   [charleskorn/kaml (⭐449)](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization
 
 ## [19. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -354,11 +354,11 @@
 ### Software / Content Management Systems (CMS)
 
 *   [Apostrophe](https://apostrophecms.com/) - CMS with a focus on extensible in-context editing tools. ([Demo](https://apostrophecms.com/demo), [Source Code (⭐4.2k)](https://github.com/apostrophecms/apostrophe)) `MIT` `Nodejs`
-*   [KeystoneJS](https://keystonejs.com/) - CMS and Web Application Platform. ([Source Code (⭐8.7k)](https://github.com/keystonejs/keystone)) `MIT` `Nodejs`
+*   [KeystoneJS](https://keystonejs.com/) - CMS and Web Application Platform. ([Source Code (⭐8.8k)](https://github.com/keystonejs/keystone)) `MIT` `Nodejs`
 
 ### Software / Document Management - E-books
 
-*   [Stump](https://www.stumpapp.dev) - A fast, free and open source comics, manga and digital book server with OPDS support. ([Source Code (⭐698)](https://github.com/stumpapp/stump)) `MIT` `Rust`
+*   [Stump](https://www.stumpapp.dev) - A fast, free and open source comics, manga and digital book server with OPDS support. ([Source Code (⭐714)](https://github.com/stumpapp/stump)) `MIT` `Rust`
 
 ### Software / File Transfer & Synchronization
 
@@ -366,14 +366,14 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Zipline (⭐903)](https://github.com/diced/zipline) - A lightweight, fast and reliable file sharing server that is commonly used with ShareX, offering a react-based Web UI and fast API. `MIT` `Docker/Nodejs`
+*   [Zipline (⭐952)](https://github.com/diced/zipline) - A lightweight, fast and reliable file sharing server that is commonly used with ShareX, offering a react-based Web UI and fast API. `MIT` `Docker/Nodejs`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [ARRCON (⭐139)](https://github.com/radj307/ARRCON) - Terminal-based RCON client compatible with any game servers using the Source RCON Protocol. `GPL-3.0` `C++`
+*   [ARRCON (⭐146)](https://github.com/radj307/ARRCON) - Terminal-based RCON client compatible with any game servers using the Source RCON Protocol. `GPL-3.0` `C++`
 *   [LinuxGSM](https://linuxgsm.com/) - CLI tool for deployment and management of dedicated game servers on Linux: more than 120 games are supported. ([Source Code (⭐4.1k)](https://github.com/GameServerManagers/LinuxGSM)) `MIT` `Shell`
-*   [Pterodactyl](https://pterodactyl.io/) - Management panel for game servers, with an intuitive UI for end users. ([Source Code (⭐5.8k)](https://github.com/pterodactyl/panel)) `MIT` `PHP`
-*   [RconCli (⭐381)](https://github.com/gorcon/rcon-cli) - CLI for executing queries on a remote Valve Source dedicated server using the RCON Protocol. `MIT` `Go`
+*   [Pterodactyl](https://pterodactyl.io/) - Management panel for game servers, with an intuitive UI for end users. ([Source Code (⭐5.9k)](https://github.com/pterodactyl/panel)) `MIT` `PHP`
+*   [RconCli (⭐397)](https://github.com/gorcon/rcon-cli) - CLI for executing queries on a remote Valve Source dedicated server using the RCON Protocol. `MIT` `Go`
 
 ### Software / Pastebins
 
@@ -381,8 +381,8 @@
 
 ### Software / Self-hosting Solutions
 
-*   [LibreServer](https://libreserver.org/) - Home server configuration based on Debian. ([Source Code (⭐23)](https://github.com/bashrc2/libreserver)) `AGPL-3.0` `Shell`
-*   [Mars Server (⭐64)](https://github.com/borjapazr/mars-server) - Managed home server with Docker, Docker Compose, Make and Bash. `MIT` `Docker`
+*   [LibreServer](https://libreserver.org/) - Home server configuration based on Debian. ([Source Code (⭐25)](https://github.com/bashrc2/libreserver)) `AGPL-3.0` `Shell`
+*   [Mars Server (⭐68)](https://github.com/borjapazr/mars-server) - Managed home server with Docker, Docker Compose, Make and Bash. `MIT` `Docker`
 *   [NextCloudPi (⭐2.3k)](https://github.com/nextcloud/nextcloudpi) - Nextcloud preinstalled and preconfigured, with a text and web management interface and all the tools needed to self host private data. With installation images for Raspberry Pi, Odroid, Rock64, Docker, and a curl installer for Armbian/Debian. `GPL-2.0` `Shell/PHP`
 
 ### Software / Software Development - Localization
@@ -440,7 +440,7 @@
 
 ### Software / Plotter Control
 
-*   [axidraw (⭐413)](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
+*   [axidraw (⭐415)](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
 *   [Line-us Inkscape Plugin (⭐7)](https://github.com/Line-us/Inkscape-Plugin) - Sends drawings to the Line-us plotter directly from Inkscape.
 *   [Line-us API Examples (⭐108)](https://github.com/Line-us/Line-us-Programming) - Example code for the Line-us plotter's G-code-based API.
 *   [@beardicus/line-us (⭐26)](https://github.com/beardicus/line-us) - JavaScript library for controlling the Line-us machine from Node or the browser.
@@ -471,9 +471,9 @@
 
 ### Modules / Game engine
 
-*   [caviar (⭐140)](https://github.com/load1n9/caviar) - ⚡ Blazing fast, modern, Game Engine powered by WebGPU for Deno and the browser
+*   [caviar (⭐142)](https://github.com/load1n9/caviar) - ⚡ Blazing fast, modern, Game Engine powered by WebGPU for Deno and the browser
 *   [neko (⭐46)](https://github.com/load1n9/neko) - 🐈 caviar's twin frame buffer deno module with a framebuffer canvas implementation
-*   [sdl2 (⭐124)](https://github.com/littledivy/deno_sdl2) - SDL2 module for Deno
+*   [sdl2 (⭐125)](https://github.com/littledivy/deno_sdl2) - SDL2 module for Deno
 
 ## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -549,7 +549,7 @@
 *   [fastcache (⭐23)](https://github.com/QuarticCat/zsh-fastcache) - Caches command output to improve shell startup time.
 *   [fzf (gimbo) (⭐0)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf (⭐58k)](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
 *   [pnpm (baliestri) (⭐6)](https://github.com/baliestri/pnpm.plugin.zsh) - Adds useful aliases for many common [pnpm](https://pnpm.io/) commands. Includes tab-completions.
-*   [pnpm (ntnyq) (⭐60)](https://github.com/ntnyq/omz-plugin-pnpm) - Adds useful aliases for common [pnpm](https://pnpm.io/) commands.
+*   [pnpm (ntnyq) (⭐62)](https://github.com/ntnyq/omz-plugin-pnpm) - Adds useful aliases for common [pnpm](https://pnpm.io/) commands.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -699,11 +699,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [smjonas/inc-rename.nvim (⭐467)](https://github.com/smjonas/inc-rename.nvim) - Provides an incremental LSP rename command based on Neovim's command-preview feature.
+*   [smjonas/inc-rename.nvim (⭐482)](https://github.com/smjonas/inc-rename.nvim) - Provides an incremental LSP rename command based on Neovim's command-preview feature.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ldelossa/vimdark (⭐69)](https://github.com/ldelossa/vimdark) - A minimal Vim theme for night time. Loosely based on vim-monotonic and chrome's dark reader extension. A light theme is included as well for the day time.
+*   [ldelossa/vimdark (⭐70)](https://github.com/ldelossa/vimdark) - A minimal Vim theme for night time. Loosely based on vim-monotonic and chrome's dark reader extension. A light theme is included as well for the day time.
 
 ### Editing Support / Diagnostics
 

@@ -52,13 +52,13 @@
 
 ### Tools / Playground
 
-*   [OXC (⭐5.9k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
+*   [OXC (⭐8k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
 
 ## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Rust / Git
 
-*   [botan-rs (⭐22)](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
+*   [botan-rs (⭐25)](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
 
 ## [8. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
@@ -70,12 +70,12 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Agentlabs (⭐330)](https://github.com/agentlabs-inc/agentlabs): Universal AI Agent Frontend. Build your backend we handle the rest. ![GitHub Repo stars](https://img.shields.io/github/stars/agentlabs-inc/agentlabs?style=social)
-*   [axflow (⭐1k)](https://github.com/axflow/axflow): The TypeScript framework for AI development ![GitHub Repo stars](https://img.shields.io/github/stars/axflow/axflow?style=social)
-*   [bondai (⭐122)](https://github.com/krohling/bondai): AI-powered assistant with a lightweight, versatile API for seamless integration into your own applications ![GitHub Repo stars](https://img.shields.io/github/stars/krohling/bondai?style=social)
+*   [Agentlabs (⭐360)](https://github.com/agentlabs-inc/agentlabs): Universal AI Agent Frontend. Build your backend we handle the rest. ![GitHub Repo stars](https://img.shields.io/github/stars/agentlabs-inc/agentlabs?style=social)
+*   [axflow (⭐1.1k)](https://github.com/axflow/axflow): The TypeScript framework for AI development ![GitHub Repo stars](https://img.shields.io/github/stars/axflow/axflow?style=social)
+*   [bondai (⭐151)](https://github.com/krohling/bondai): AI-powered assistant with a lightweight, versatile API for seamless integration into your own applications ![GitHub Repo stars](https://img.shields.io/github/stars/krohling/bondai?style=social)
 *   [Chidori (⭐1.2k)](https://github.com/ThousandBirdsInc/chidori): A reactive runtime for building durable AI agents ![GitHub Repo stars](https://img.shields.io/github/stars/ThousandBirdsInc/chidori?style=social)
-*   [Langroid (⭐739)](https://github.com/langroid/langroid): an intuitive, lightweight, extensible and principled Python framework to easily build LLM-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langroid/langroid?style=social)
-*   [Langstream (⭐330)](https://github.com/rogeriochaves/langstream): Build robust LLM applications with true composability 🔗 ![GitHub Repo stars](https://img.shields.io/github/stars/rogeriochaves/langstream?style=social)
+*   [Langroid (⭐1.2k)](https://github.com/langroid/langroid): an intuitive, lightweight, extensible and principled Python framework to easily build LLM-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langroid/langroid?style=social)
+*   [Langstream (⭐352)](https://github.com/rogeriochaves/langstream): Build robust LLM applications with true composability 🔗 ![GitHub Repo stars](https://img.shields.io/github/stars/rogeriochaves/langstream?style=social)
 
 ## [10. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

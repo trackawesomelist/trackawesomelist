@@ -22,7 +22,7 @@
 
 ### JupyterLab Extensions
 
-*   [jupyterlab\_templates (⭐348)](https://github.com/jpmorganchase/jupyterlab_templates) - Notebook templates in JupyterLab.
+*   [jupyterlab\_templates (⭐362)](https://github.com/jpmorganchase/jupyterlab_templates) - Notebook templates in JupyterLab.
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 

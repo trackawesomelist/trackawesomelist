@@ -141,7 +141,7 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [jvgrootveld/telescope-zoxide (⭐241)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐13k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐254)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐16k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [15. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

@@ -34,7 +34,7 @@
 
 ### Modules / Image
 
-*   [ImageScript (⭐561)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐570)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ## [5. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -123,7 +123,7 @@
 ### Software / Communication - Email - Mail Delivery Agents
 
 *   [Cyrus IMAP](https://www.cyrusimap.org/) - Email (IMAP/POP3), contacts and calendar server. ([Source Code (⭐502)](https://github.com/cyrusimap/cyrus-imapd)) `BSD-3-Clause-Attribution` `C`
-*   [Dovecot](https://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind. ([Source Code (⭐874)](https://github.com/dovecot/core)) `MIT/LGPL-2.1` `C/deb`
+*   [Dovecot](https://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind. ([Source Code (⭐879)](https://github.com/dovecot/core)) `MIT/LGPL-2.1` `C/deb`
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
@@ -132,33 +132,33 @@
 ### Software / E-commerce
 
 *   [Aimeos](https://aimeos.org/) - Ultra fast, Open Source e-commerce framework for building custom online shops, market places and complex B2B applications scaling to billions of items with Laravel. ([Demo](https://demo.aimeos.org/), [Source Code (⭐3.6k)](https://github.com/aimeos/aimeos)) `LGPL-3.0/MIT` `PHP`
-*   [Bagisto](https://bagisto.com/en/) - Leading Laravel open source e-commerce framework with multi-inventory sources, taxation, localization, dropshipping and more exciting features. ([Demo](https://demo.bagisto.com/), [Source Code (⭐9.7k)](https://github.com/bagisto/bagisto)) `MIT` `PHP`
-*   [CoreShop](https://www.coreshop.org) - CoreShop is a e-commerce plugin for Pimcore. ([Source Code (⭐264)](https://github.com/coreshop/CoreShop)) `GPL-3.0` `PHP`
+*   [Bagisto](https://bagisto.com/en/) - Leading Laravel open source e-commerce framework with multi-inventory sources, taxation, localization, dropshipping and more exciting features. ([Demo](https://demo.bagisto.com/), [Source Code (⭐9.9k)](https://github.com/bagisto/bagisto)) `MIT` `PHP`
+*   [CoreShop](https://www.coreshop.org) - CoreShop is a e-commerce plugin for Pimcore. ([Source Code (⭐265)](https://github.com/coreshop/CoreShop)) `GPL-3.0` `PHP`
 *   [Drupal Commerce](https://drupalcommerce.org) - Drupal Commerce is a popular e-commerce module for Drupal CMS, with support for dozens of payment, shipping, and shopping related modules. ([Source Code](https://git.drupalcode.org/project/commerce)) `GPL-2.0` `PHP`
 *   [Microweber](https://microweber.com/) - Drag and Drop CMS and online shop. ([Demo](https://demo.microweber.org/), [Source Code (⭐2.9k)](https://github.com/microweber/microweber)) `Apache-2.0` `PHP`
-*   [OpenCart](https://www.opencart.com) - Free open source shopping cart solution. ([Source Code (⭐7.1k)](https://github.com/opencart/opencart)) `GPL-3.0` `PHP`
+*   [OpenCart](https://www.opencart.com) - Free open source shopping cart solution. ([Source Code (⭐7.2k)](https://github.com/opencart/opencart)) `GPL-3.0` `PHP`
 *   [PrestaShop](https://www.prestashop.com/) - PrestaShop offers a free, open-source and fully scalable e-commerce solution. ([Demo](https://demo.prestashop.com/), [Source Code (⭐7.7k)](https://github.com/PrestaShop/PrestaShop)) `OSL-3.0` `PHP`
 *   [Pretix](https://pretix.eu/) - Django based ticket sales platform for events. ([Source Code](https://github.com/pretix)) `Apache-2.0` `Python`
 *   [Solidus](https://solidus.io/) - A free, open-source ecommerce platform that gives you complete control over your store. ([Demo](http://demo.solidus.io/), [Source Code (⭐4.9k)](https://github.com/solidusio/solidus)) `BSD-3-Clause` `Ruby/Docker`
 *   [Spree Commerce](https://spreecommerce.org) - Spree is a complete, modular & API-driven open source e-commerce solution for Ruby on Rails. ([Demo](https://new-ux.spreecommerce.org/), [Source Code (⭐13k)](https://github.com/spree/spree)) `BSD-3-Clause` `Ruby`
 *   [Sylius](https://sylius.com) - Symfony2 powered open source full-stack platform for eCommerce. ([Demo](https://sylius.com/try/), [Source Code (⭐7.6k)](https://github.com/Sylius/Sylius)) `MIT` `PHP`
-*   [Thelia](https://thelia.net/) - Thelia is an open source and flexible e-commerce solution. ([Demo](https://demo.thelia.net/), [Source Code (⭐826)](https://github.com/thelia/thelia)) `LGPL-3.0` `PHP`
-*   [WooCommerce](https://woocommerce.com/) - WordPress based e-commerce solution. ([Source Code (⭐8.9k)](https://github.com/woocommerce/woocommerce)) `GPL-3.0` `PHP`
+*   [Thelia](https://thelia.net/) - Thelia is an open source and flexible e-commerce solution. ([Demo](https://demo.thelia.net/), [Source Code (⭐827)](https://github.com/thelia/thelia)) `LGPL-3.0` `PHP`
+*   [WooCommerce](https://woocommerce.com/) - WordPress based e-commerce solution. ([Source Code (⭐9k)](https://github.com/woocommerce/woocommerce)) `GPL-3.0` `PHP`
 
 ### Software / Feed Readers
 
-*   [Feedpushr (⭐311)](https://github.com/ncarlier/feedpushr) - Powerful RSS aggregator, able to transform and send articles to many outputs. Single binary, extensible with plugins. `GPL-3.0` `Go/Docker`
-*   [Goeland (⭐153)](https://github.com/slurdge/goeland) - Reads RSS/Atom feeds and filter/digest them to create beautiful emails. `MIT` `Go`
-*   [RSS2EMail (⭐334)](https://github.com/rss2email/rss2email) - Fetches RSS/Atom-feeds and pushes new Content to any email-receiver, supports OPML. `GPL-2.0` `Python/deb`
+*   [Feedpushr (⭐315)](https://github.com/ncarlier/feedpushr) - Powerful RSS aggregator, able to transform and send articles to many outputs. Single binary, extensible with plugins. `GPL-3.0` `Go/Docker`
+*   [Goeland (⭐157)](https://github.com/slurdge/goeland) - Reads RSS/Atom feeds and filter/digest them to create beautiful emails. `MIT` `Go`
+*   [RSS2EMail (⭐339)](https://github.com/rss2email/rss2email) - Fetches RSS/Atom-feeds and pushes new Content to any email-receiver, supports OPML. `GPL-2.0` `Python/deb`
 
 ### Software / File Transfer - Object Storage & File Servers
 
-*   [SFTPGo (⭐7.7k)](https://github.com/drakkan/sftpgo) - Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. `AGPL-3.0` `Go/deb/Docker`
+*   [SFTPGo (⭐7.8k)](https://github.com/drakkan/sftpgo) - Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. `AGPL-3.0` `Go/deb/Docker`
 *   [Zenko CloudServer](https://www.zenko.io/cloudserver) - Zenko CloudServer, an open-source implementation of a server handling the Amazon S3 protocol. ([Source Code (⭐1.6k)](https://github.com/scality/cloudserver)) `Apache-2.0` `Docker/Nodejs`
 
 ### Software / Recipe Management
 
-*   [RecipeSage (⭐496)](https://github.com/julianpoy/recipesage) - A recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL. ([Demo](https://recipesage.com)) `AGPL-3.0` `Nodejs`
+*   [RecipeSage (⭐511)](https://github.com/julianpoy/recipesage) - A recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL. ([Demo](https://recipesage.com)) `AGPL-3.0` `Nodejs`
 
 ### Software / Self-hosting Solutions
 
@@ -167,16 +167,16 @@
 *   [DietPi](https://dietpi.com/) - Minimal Debian OS optimized for single-board computers, which allows you to easily install and manage several services for selfhosting at home. ([Source Code (⭐4.4k)](https://github.com/MichaIng/DietPi)) `GPL-2.0` `Shell`
 *   [DockSTARTer](https://dockstarter.com/) - DockSTARTer helps you get started with home server apps running in Docker. ([Source Code (⭐2.1k)](https://github.com/GhostWriters/DockSTARTer)) `MIT` `Shell`
 *   [HomelabOS](https://homelabos.com) - Your very own offline-first privacy-centric open-source data-center. Deploy over 100 services with a few commands. ([Source Code](https://gitlab.com/NickBusey/HomelabOS)) `MIT` `Docker`
-*   [OpenMediaVault](https://www.openmediavault.org/) - OpenMediaVault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. ([Source Code (⭐4.4k)](https://github.com/openmediavault/openmediavault)) `GPL-3.0` `PHP`
+*   [OpenMediaVault](https://www.openmediavault.org/) - OpenMediaVault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. ([Source Code (⭐4.5k)](https://github.com/openmediavault/openmediavault)) `GPL-3.0` `PHP`
 *   [Sandstorm](https://sandstorm.io/) - Personal server for running self-hosted apps easily and securely. ([Demo](https://demo.sandstorm.io/), [Source Code (⭐6.6k)](https://github.com/sandstorm-io/sandstorm)) `Apache-2.0` `C++/Shell`
-*   [Syncloud](https://syncloud.org/) - Your own online file storage, social network or email server. ([Source Code (⭐380)](https://github.com/syncloud/platform)) `GPL-3.0` `Go/Shell`
+*   [Syncloud](https://syncloud.org/) - Your own online file storage, social network or email server. ([Source Code (⭐382)](https://github.com/syncloud/platform)) `GPL-3.0` `Go/Shell`
 *   [UBOS](https://ubos.net/) - Linux distro that runs on indie boxes (personal servers and IoT devices). Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud, WordPress, etc., and other features. `GPL-3.0` `Perl`
-*   [xsrv](https://xsrv.readthedocs.io/) - Install and manage self-hosted services/applications, on your own server(s). ([Source Code (⭐275)](https://github.com/nodiscc/xsrv)) `GPL-3.0` `Ansible/Shell`
+*   [xsrv](https://xsrv.readthedocs.io/) - Install and manage self-hosted services/applications, on your own server(s). ([Source Code (⭐280)](https://github.com/nodiscc/xsrv)) `GPL-3.0` `Ansible/Shell`
 *   [YunoHost](https://yunohost.org/) - Server operating system aiming to make self-hosting accessible to everyone. ([Demo](https://yunohost.org/#/try), [Source Code](https://github.com/YunoHost)) `AGPL-3.0` `Python/Shell`
 
 ### Software / URL Shorteners
 
-*   [Blink](https://docs.blink.rest) - Easy-to-host, SSO-integrated, CDN-powered link shortener (+decoupled analytics) for teams. ([Source Code (⭐232)](https://github.com/JaneJeon/blink)) `AGPL-3.0` `Nodejs/Docker`
+*   [Blink](https://docs.blink.rest) - Easy-to-host, SSO-integrated, CDN-powered link shortener (+decoupled analytics) for teams. ([Source Code (⭐239)](https://github.com/JaneJeon/blink)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [17. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
@@ -344,7 +344,7 @@
 
 ### Projects / Godot 3.2+
 
-*   [Lorien (⭐4.5k)](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
+*   [Lorien (⭐4.8k)](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
 
 ## [31. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
@@ -422,7 +422,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [kvrohit/substrata.nvim (⭐112)](https://github.com/kvrohit/substrata.nvim) - A cold, dark color scheme written in Lua ported from [arzg/vim-substrata (⭐192)](https://github.com/arzg/vim-substrata) theme.
+*   [kvrohit/substrata.nvim (⭐115)](https://github.com/kvrohit/substrata.nvim) - A cold, dark color scheme written in Lua ported from [arzg/vim-substrata (⭐192)](https://github.com/arzg/vim-substrata) theme.
 
 ## [35. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
@@ -454,26 +454,26 @@
 ### Audio
 
 *   [micropython-jq6500 (⭐18)](https://github.com/rdagger/micropython-jq6500) - Driver for JQ6500 UART MP3 modules.
-*   [micropython-buzzer (⭐14)](https://github.com/fruch/micropython-buzzer) - Play Nokia compose and mid files on buzzers.
-*   [micropython-i2s-examples (⭐174)](https://github.com/miketeachman/micropython-i2s-examples) - Examples for I2S support on microcontrollers that run MicroPython.
-*   [micropython-osc (⭐58)](https://github.com/SpotlightKid/micropython-osc) - A minimal OSC client and server library for MicroPython.
+*   [micropython-buzzer (⭐15)](https://github.com/fruch/micropython-buzzer) - Play Nokia compose and mid files on buzzers.
+*   [micropython-i2s-examples (⭐179)](https://github.com/miketeachman/micropython-i2s-examples) - Examples for I2S support on microcontrollers that run MicroPython.
+*   [micropython-osc (⭐59)](https://github.com/SpotlightKid/micropython-osc) - A minimal OSC client and server library for MicroPython.
 
 ### Communications / APIs
 
-*   [micropython-utelegram (⭐73)](https://github.com/jordiprats/micropython-utelegram) - Telegram API wrapper for MicroPython.
+*   [micropython-utelegram (⭐75)](https://github.com/jordiprats/micropython-utelegram) - Telegram API wrapper for MicroPython.
 *   [uEagle (⭐4)](https://github.com/jcalbert/uEagle) - MicroPython Rainforest EAGLE client.
 *   [micropython-youtube-api (⭐13)](https://github.com/UnexpectedMaker/micropython-youtube-api) - YouTube API in MicroPython.
 *   [micropython\_esp8266\_tweetbot (⭐9)](https://github.com/ayoko/micropython_esp8266_tweetbot) - Tweet bot for MicroPython v1.8.4 (ESP8266).
 *   [telegram-upy (⭐40)](https://github.com/gabrielebarola/telegram-upy) - Telegram API wrapper for MicroPython.
 *   [micropython-thingspeak (⭐13)](https://github.com/radeklat/micropython-thingspeak) - Library for sending data to thingspeak.com from IoT devices running MicroPython (such as ESP8266).
 *   [micropython\_pushbullet (⭐3)](https://github.com/gsampallo/micropython_pushbullet) - Simple example of how to use PushBullet with MicroPython on ESP8266.
-*   [esp32-youtube-display (⭐16)](https://github.com/alvarowolfx/esp32-youtube-display) - Display YouTube metrics using Google API and MicroPython.
+*   [esp32-youtube-display (⭐17)](https://github.com/alvarowolfx/esp32-youtube-display) - Display YouTube metrics using Google API and MicroPython.
 *   [micropython-spotify-web-api (⭐15)](https://github.com/tltx/micropython-spotify-web-api) - A library for using Spotify's web API from a IoT device with MicroPython.
 
 ### Communications / Bluetooth
 
 *   [uble (⭐79)](https://github.com/dmazzella/uble) - Lightweight Bluetooth Low Energy driver written in pure Python for MicroPython.
-*   [MicroPythonBLEHID (⭐174)](https://github.com/Heerkog/MicroPythonBLEHID) - Human Interface Device (HID) over Bluetooth Low Energy (BLE) GATT library for MicroPython.
+*   [MicroPythonBLEHID (⭐178)](https://github.com/Heerkog/MicroPythonBLEHID) - Human Interface Device (HID) over Bluetooth Low Energy (BLE) GATT library for MicroPython.
 *   [upyble (⭐17)](https://github.com/Carglglz/upyble) - Command line tool for Bluetooth Low Energy MicroPython devices.
 
 ### Communications / CAN
@@ -492,13 +492,13 @@
 
 ### Communications / DNS
 
-*   [tinydns (⭐29)](https://github.com/belyalov/tinydns) - Very simple DNS async server for MicroPython.
-*   [micropython-captiveportal (⭐15)](https://github.com/metachris/micropython-captiveportal) -  Minimal async captive portal for MicroPython (compatible with uasyncio v3/MicroPython 1.13+ as well as earlier versions).
+*   [tinydns (⭐30)](https://github.com/belyalov/tinydns) - Very simple DNS async server for MicroPython.
+*   [micropython-captiveportal (⭐17)](https://github.com/metachris/micropython-captiveportal) -  Minimal async captive portal for MicroPython (compatible with uasyncio v3/MicroPython 1.13+ as well as earlier versions).
 *   [Micropython-DNSServer-Captive-Portal (⭐15)](https://github.com/p-doyle/Micropython-DNSServer-Captive-Portal) - MicroPython WiFi AP Captive Portal with DNS and Web Server.
 
 ### Communications / FTP
 
-*   [micropython-uaioftp (⭐3)](https://github.com/cwyark/micropython-uaioftp) - Lightweight FTP library for MicroPython.
+*   [micropython-uaioftp (⭐2)](https://github.com/cwyark/micropython-uaioftp) - Lightweight FTP library for MicroPython.
 
 ### Communications / GSM
 
@@ -511,7 +511,7 @@
 *   [iot-core-micropython (⭐52)](https://github.com/GoogleCloudPlatform/iot-core-micropython) - Use MicroPython to connect to Google Cloud IoT Core.
 *   [SmartUPy (⭐13)](https://github.com/lemariva/SmartUPy) - Controlling "Tuya-type" smart power outlets using MicroPython.
 *   [aws-iot-GET-POST-loop (⭐17)](https://github.com/manningt/aws-iot-GET-POST-loop) - MicroPython code which uses the AWS IoT REST API to GET/POST device state info.
-*   [sensor-mqtt-homeassistant (⭐11)](https://github.com/DougWilkinson/sensor-mqtt-homeassistant) - An ESP8266/ESP32 MicroPython-based sensor platform for GPIO, DHT, analog, LED and more. Includes remote updates for .py code from web server and MQTT/Home Assistant integration.
+*   [sensor-mqtt-homeassistant (⭐13)](https://github.com/DougWilkinson/sensor-mqtt-homeassistant) - An ESP8266/ESP32 MicroPython-based sensor platform for GPIO, DHT, analog, LED and more. Includes remote updates for .py code from web server and MQTT/Home Assistant integration.
 
 ### Communications / IR
 
@@ -519,11 +519,11 @@
 
 ### Communications / LoRaWAN
 
-*   [SX127x\_driver\_for\_MicroPython\_on\_ESP8266 (⭐134)](https://github.com/Wei1234c/SX127x_driver_for_MicroPython_on_ESP8266) - SX127x (LoRa transceiver) driver for (Micro)Python on ESP8266/ESP32/Raspberry Pi.
+*   [SX127x\_driver\_for\_MicroPython\_on\_ESP8266 (⭐136)](https://github.com/Wei1234c/SX127x_driver_for_MicroPython_on_ESP8266) - SX127x (LoRa transceiver) driver for (Micro)Python on ESP8266/ESP32/Raspberry Pi.
 *   [LightLora\_MicroPython (⭐21)](https://github.com/MZachmann/LightLora_MicroPython) - Lightweight Interrupt-driven Semtech SX127x Library for MicroPython.
 *   [sx127x\_esp (⭐10)](https://github.com/azorg/sx127x_esp) - Connect Ra-01 module base on LoRaTM sx127x chip to ESP8266/ESP32 under MicroPython.
 *   [nanoserver (⭐6)](https://github.com/gradoj/nanoserver) - MicroPython embedded LoRaWAN server.
-*   [micropySX126X (⭐71)](https://github.com/ehong-tl/micropySX126X) - Semtech SX126X LoRa driver for MicroPython and CircuitPython.
+*   [micropySX126X (⭐73)](https://github.com/ehong-tl/micropySX126X) - Semtech SX126X LoRa driver for MicroPython and CircuitPython.
 
 ### Communications / Modbus
 
@@ -534,14 +534,14 @@
 ### Communications / MQTT
 
 *   [micropython-mqtt (⭐31)](https://github.com/chrismoorhouse/micropython-mqtt) - Async MQTT library with auto reconnect for MicroPython devices such as the ESP32 or Pycom devices.
-*   [micropython-adafruit-mqtt-esp8266 (⭐55)](https://github.com/miketeachman/micropython-adafruit-mqtt-esp8266) - Using MQTT to Publish/Subscribe to Adafruit IO. MicroPython/CircuitPython implementation on ESP8266/ESP32.
+*   [micropython-adafruit-mqtt-esp8266 (⭐56)](https://github.com/miketeachman/micropython-adafruit-mqtt-esp8266) - Using MQTT to Publish/Subscribe to Adafruit IO. MicroPython/CircuitPython implementation on ESP8266/ESP32.
 *   [MicropythonCayenneMQTTClient (⭐5)](https://github.com/uraich/MicropythonCayenneMQTTClient) - A port of the Python Cayenne MQTT Client to MicroPython.
 *   [mqtt\_upython (⭐0)](https://github.com/matbgn/mqtt_upython) - MQTT Client using MicroPython on ESP8266.
 
 ### Communications / NFC
 
 *   [micropython-nfc (⭐10)](https://github.com/rolandvs/micropython-nfc) - Using NFC with MicroPython.
-*   [NFC\_PN532\_SPI (⭐30)](https://github.com/Carglglz/NFC_PN532_SPI) - Partial port of Adafruit CircuitPython to MicroPython of PN532 NFC/RFID control library (SPI).
+*   [NFC\_PN532\_SPI (⭐31)](https://github.com/Carglglz/NFC_PN532_SPI) - Partial port of Adafruit CircuitPython to MicroPython of PN532 NFC/RFID control library (SPI).
 
 ### Communications / OneWire
 
@@ -553,9 +553,9 @@
 
 ### Communications / OTA
 
-*   [micropython-ota-updater (⭐342)](https://github.com/rdehuyss/micropython-ota-updater) - OTA Updater for MicroPython.
-*   [Micropython-ESP32-OTA (⭐13)](https://github.com/AkhileshThorat/Micropython-ESP32-OTA) - MicroPython updater based on rdehuyss/micropython-ota-updater.
-*   [senko (⭐80)](https://github.com/RangerDigital/senko) - Simplest OTA update solution for your MicroPython projects.
+*   [micropython-ota-updater (⭐346)](https://github.com/rdehuyss/micropython-ota-updater) - OTA Updater for MicroPython.
+*   [Micropython-ESP32-OTA (⭐14)](https://github.com/AkhileshThorat/Micropython-ESP32-OTA) - MicroPython updater based on rdehuyss/micropython-ota-updater.
+*   [senko (⭐82)](https://github.com/RangerDigital/senko) - Simplest OTA update solution for your MicroPython projects.
 
 ### Communications / Radio
 
@@ -574,7 +574,7 @@
 
 ### Communications / RTC
 
-*   [micropython-ds1302-rtc (⭐37)](https://github.com/omarbenhamid/micropython-ds1302-rtc) - DS1302 RTC Clock driver for MicroPython.
+*   [micropython-ds1302-rtc (⭐38)](https://github.com/omarbenhamid/micropython-ds1302-rtc) - DS1302 RTC Clock driver for MicroPython.
 *   [DS3231micro (⭐15)](https://github.com/notUnique/DS3231micro) - MicroPython library for DS3231.
 
 ### Communications / Serial
@@ -584,8 +584,8 @@
 ### Communications / Serialization
 
 *   [micropython-msgpack (⭐25)](https://github.com/peterhinch/micropython-msgpack) - MessagePack serialisation library optimised for MicroPython.
-*   [micropython-uprotobuf (⭐19)](https://github.com/jazzycamel/micropython-uprotobuf) - A lightweight implementation of Google's Protocol Buffers (protobuf) for MicroPython.
-*   [minipb (⭐48)](https://github.com/dogtopus/minipb) - Mini Protobuf {de}serializer in pure Python.
+*   [micropython-uprotobuf (⭐20)](https://github.com/jazzycamel/micropython-uprotobuf) - A lightweight implementation of Google's Protocol Buffers (protobuf) for MicroPython.
+*   [minipb (⭐50)](https://github.com/dogtopus/minipb) - Mini Protobuf {de}serializer in pure Python.
 
 ### Communications / SOCKS
 
@@ -608,7 +608,7 @@
 
 ### Communications / WiFi
 
-*   [WiFiManager (⭐326)](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - MicroPython.
+*   [WiFiManager (⭐329)](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - MicroPython.
 
 ### Display / E-Paper
 
@@ -618,14 +618,14 @@
 
 ### Display / Fonts
 
-*   [micropython-font-to-py (⭐343)](https://github.com/peterhinch/micropython-font-to-py) - A Python 3 utility to convert fonts to Python source capable of being frozen as bytecode.
-*   [ssd1306big (⭐18)](https://github.com/nickpmulder/ssd1306big) - A font for MicroPython on 128x64 pixel SSD1306 OLED display.
+*   [micropython-font-to-py (⭐346)](https://github.com/peterhinch/micropython-font-to-py) - A Python 3 utility to convert fonts to Python source capable of being frozen as bytecode.
+*   [ssd1306big (⭐19)](https://github.com/nickpmulder/ssd1306big) - A font for MicroPython on 128x64 pixel SSD1306 OLED display.
 
 ### Display / Graphics
 
-*   [micropython-stage (⭐30)](https://github.com/python-ugame/micropython-stage) - A MicroPython port of the Stage game library.
-*   [micropython-png (⭐9)](https://github.com/Ratfink/micropython-png) - Derivative of PyPNG for use with MicroPython.
-*   [mpy-img-decoder (⭐27)](https://github.com/remixer-dec/mpy-img-decoder) - PNG and JPEG decoder / parser / renderer in pure MicroPython.
+*   [micropython-stage (⭐31)](https://github.com/python-ugame/micropython-stage) - A MicroPython port of the Stage game library.
+*   [micropython-png (⭐10)](https://github.com/Ratfink/micropython-png) - Derivative of PyPNG for use with MicroPython.
+*   [mpy-img-decoder (⭐28)](https://github.com/remixer-dec/mpy-img-decoder) - PNG and JPEG decoder / parser / renderer in pure MicroPython.
 *   [micropython-oled-progressbars (⭐12)](https://github.com/follower46/micropython-oled-progressbars) - A collection of progress bars for use with ESP8266 and ESP32 on OLED displays.
 *   [microplot (⭐19)](https://github.com/romilly/microplot) - Simple MicroPython plotting package.
 
@@ -639,11 +639,11 @@
 
 ### Display / LCD TFT
 
-*   [st7789\_mpy (⭐456)](https://github.com/russhughes/st7789_mpy) - Fast MicroPython driver for ST7789 display module written in C.
-*   [st7789py\_mpy (⭐106)](https://github.com/russhughes/st7789py_mpy) - Driver for 320x240, 240x240 and 135x240 ST7789 displays written in MicroPython.
+*   [st7789\_mpy (⭐463)](https://github.com/russhughes/st7789_mpy) - Fast MicroPython driver for ST7789 display module written in C.
+*   [st7789py\_mpy (⭐109)](https://github.com/russhughes/st7789py_mpy) - Driver for 320x240, 240x240 and 135x240 ST7789 displays written in MicroPython.
 *   [ili9342c\_mpy (⭐43)](https://github.com/russhughes/ili9342c_mpy) - ILI9342C Fast 'C' Driver for MicroPython (M5Stack Core).
-*   [gc9a01py (⭐32)](https://github.com/russhughes/gc9a01py) - GC9A01 Display driver in MicroPython.
-*   [gc9a01\_mpy (⭐95)](https://github.com/russhughes/gc9a01_mpy) - Fast MicroPython driver for GC9A01 display modules written in C.
+*   [gc9a01py (⭐34)](https://github.com/russhughes/gc9a01py) - GC9A01 Display driver in MicroPython.
+*   [gc9a01\_mpy (⭐101)](https://github.com/russhughes/gc9a01_mpy) - Fast MicroPython driver for GC9A01 display modules written in C.
 *   [st7735-esp8266-micropython (⭐27)](https://github.com/cheungbx/st7735-esp8266-micropython) - An ESP8266 MicroPython library for ST7735 160x80, 128x128, 128x160 TFT LCD displays.
 *   [TTGO-ST7789-MicroPython (⭐16)](https://github.com/schumixmd/TTGO-ST7789-MicroPython) - MicroPython ST7789 display driver for TTGO T-Display ESP32 CP2104 WiFi Bluetooth Module 1.14 Inch LCD.
 *   [st7735\_micropython (⭐1)](https://github.com/cheungbx/st7735_micropython) - ST7735 MicroPython drivers for 80x160, 128x128, 128x160 for ESP8266.
@@ -663,7 +663,7 @@
 
 ### Display / Printer
 
-*   [micropython-thermal-printer (⭐20)](https://github.com/ayoy/micropython-thermal-printer) - The MicroPython port of Python Thermal Printer by Adafruit.
+*   [micropython-thermal-printer (⭐21)](https://github.com/ayoy/micropython-thermal-printer) - The MicroPython port of Python Thermal Printer by Adafruit.
 
 ### IO / Keyboard
 
@@ -683,7 +683,7 @@
 ### IO / Rotary Encoder
 
 *   [encoderLib (⭐8)](https://github.com/BramRausch/encoderLib) - MicroPython library to handle a rotary encoder.
-*   [rotary-encoder (⭐25)](https://github.com/gurgleapps/rotary-encoder) - MicroPython code to drive a KY-040 rotary encoder.
+*   [rotary-encoder (⭐26)](https://github.com/gurgleapps/rotary-encoder) - MicroPython code to drive a KY-040 rotary encoder.
 *   [micropython-encoder-knob (⭐2)](https://github.com/infinite-tree/micropython-encoder-knob) - A very simple lightweight encoder knob library with button support.
 
 ### IO / Shift Registers
@@ -699,7 +699,7 @@
 
 ### Mathematics / Waveform Generator
 
-*   [MicroPython\_Statistics (⭐12)](https://github.com/rcolistete/MicroPython_Statistics) - Statistics module for MicroPython.
+*   [MicroPython\_Statistics (⭐13)](https://github.com/rcolistete/MicroPython_Statistics) - Statistics module for MicroPython.
 
 ### Motion / DC Motor
 
@@ -730,7 +730,7 @@
 ### Sensors / Biometric
 
 *   [micropython-fingerprint (⭐15)](https://github.com/chrisb2/micropython-fingerprint) - MicroPython library for reading Grow and ZhianTec fingerprint sensors.
-*   [MAX30102-MicroPython-driver (⭐47)](https://github.com/n-elia/MAX30102-MicroPython-driver) - A MAX30102 driver ported to MicroPython. It should also work for MAX30105.
+*   [MAX30102-MicroPython-driver (⭐48)](https://github.com/n-elia/MAX30102-MicroPython-driver) - A MAX30102 driver ported to MicroPython. It should also work for MAX30105.
 
 ### Sensors / Camera
 
@@ -756,7 +756,7 @@
 ### Sensors / Distance Laser
 
 *   [VL53L0X (⭐28)](https://github.com/uceeatz/VL53L0X) - MicroPython Library for LiDAR Sensor VL53L0X.
-*   [vl53l1x\_pico (⭐10)](https://github.com/drakxtwo/vl53l1x_pico) - MicroPython driver for the VL53L1X ToF sensor.
+*   [vl53l1x\_pico (⭐11)](https://github.com/drakxtwo/vl53l1x_pico) - MicroPython driver for the VL53L1X ToF sensor.
 *   [tf-luna-micropython (⭐10)](https://github.com/davmoz/tf-luna-micropython) - A simple MicroPython I2C library for TF-Luna LiDAR Module.
 
 ### Sensors / Distance Ultrasonic
@@ -769,7 +769,7 @@
 
 ### Sensors / Energy
 
-*   [micropython-p1meter (⭐18)](https://github.com/Josverl/micropython-p1meter) - A ESP32 sensor to read a p1 electricity meter and publish this to MQTT and Home Assistant, written in MicroPython.
+*   [micropython-p1meter (⭐20)](https://github.com/Josverl/micropython-p1meter) - A ESP32 sensor to read a p1 electricity meter and publish this to MQTT and Home Assistant, written in MicroPython.
 *   [esp32-solar2 (⭐0)](https://github.com/octopusengine/esp32-solar2) - Simple solar regulator - MicroPython project.
 
 ### Sensors / Gaseous
@@ -785,10 +785,10 @@
 ### Sensors / Motion Inertial
 
 *   [micropython-fusion (⭐307)](https://github.com/micropython-IMU/micropython-fusion) - Sensor fusion calculates heading, pitch and roll from the outputs of motion tracking devices.
-*   [flight\_controller (⭐63)](https://github.com/wagnerc4/flight_controller) - MicroPython flight controller.
+*   [flight\_controller (⭐65)](https://github.com/wagnerc4/flight_controller) - MicroPython flight controller.
 *   [micropython-mpu6050-mqtt-streamer (⭐8)](https://github.com/mozanunal/micropython-mpu6050-mqtt-streamer) - Stream data from MPU6050 to MQTT server using MicroPython on ESP8266.
 *   [upy-motion (⭐13)](https://github.com/OneMadGypsy/upy-motion) - A simple MPU6050 driver written in MicroPython.
-*   [micropython-bno08x-rvc (⭐3)](https://github.com/rdagger/micropython-bno08x-rvc) - MicroPython library for BNO08x.
+*   [micropython-bno08x-rvc (⭐4)](https://github.com/rdagger/micropython-bno08x-rvc) - MicroPython library for BNO08x.
 *   [micropython-mpu9250](https://gitlab.com/nnayo/micropython-mpu9250) - MicroPython MPU-9250 (MPU-6500 + AK8963) I2C driver.
 
 ### Sensors / Pressure
@@ -815,7 +815,7 @@
 
 ### Sensors / Temperature Digital
 
-*   [BME680-Micropython (⭐25)](https://github.com/robert-hh/BME680-Micropython) - MicroPython driver for the BME680 sensor.
+*   [BME680-Micropython (⭐27)](https://github.com/robert-hh/BME680-Micropython) - MicroPython driver for the BME680 sensor.
 *   [htu21d-esp8266 (⭐5)](https://github.com/julianhille/htu21d-esp8266) - This is a MicroPython module / class to measure data from the HTU21D.
 *   [esp-sht3x-micropython (⭐5)](https://github.com/HAIZAKURA/esp-sht3x-micropython) - A SHT3x (SHT30/31/35) library for ESP8266/ESP32 with MicroPython.
 *   [sht25-micropython](https://gitlab.com/miceuz/sht25-micropython) - MicroPython implementation of API of SHT25 humidity and temperature sensor.
@@ -824,7 +824,7 @@
 
 ### Sensors / Touch Capacitive
 
-*   [micropython-TTP229-BSF (⭐13)](https://github.com/alankrantas/micropython-TTP229-BSF) - MicroPython ESP8266/ESP32 driver for TTP229-BSF 16-key capacitive keypad in serial interface mode.
+*   [micropython-TTP229-BSF (⭐14)](https://github.com/alankrantas/micropython-TTP229-BSF) - MicroPython ESP8266/ESP32 driver for TTP229-BSF 16-key capacitive keypad in serial interface mode.
 *   [uFT6336U (⭐3)](https://github.com/fantasticdonkey/uFT6336U) - MicroPython I2C driver for the Focus LCDs FT6336U capacitive touch panel controller IC.
 
 ### Scheduling / Touch Resistive
@@ -875,7 +875,7 @@
 
 ### Shells / On Host
 
-*   [ampy (⭐687)](https://github.com/scientifichackers/ampy) - Utility to interact with a MicroPython board over a serial connection.
+*   [ampy (⭐689)](https://github.com/scientifichackers/ampy) - Utility to interact with a MicroPython board over a serial connection.
 
 ## [39. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 

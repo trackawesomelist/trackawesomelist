@@ -46,7 +46,7 @@
 
 ### Component Libraries
 
-*   [Joomla UI custom elements (⭐33)](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
+*   [Joomla UI custom elements (⭐32)](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
 
 ## [8. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 

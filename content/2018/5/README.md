@@ -81,7 +81,7 @@
 
 ### Code
 
-*   [FARGonautica (⭐87)](https://github.com/Alex-Linhares/FARGonautica) - Source code of Douglas Hosftadter's Fluid Concepts and Creative Analogies Ph.D. projects.
+*   [FARGonautica (⭐107)](https://github.com/Alex-Linhares/FARGonautica) - Source code of Douglas Hosftadter's Fluid Concepts and Creative Analogies Ph.D. projects.
 
 ## [10. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 

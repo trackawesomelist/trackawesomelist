@@ -105,7 +105,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Family Accounting Tool (⭐168)](https://github.com/nymanjens/facto) - Web-based finance management tool for partners with partially shared expenses. `Apache-2.0` `Scala`
+*   [Family Accounting Tool (⭐171)](https://github.com/nymanjens/facto) - Web-based finance management tool for partners with partially shared expenses. `Apache-2.0` `Scala`
 
 ### Software / Note-taking & Editors
 
@@ -130,7 +130,7 @@
 
 ### Tools / XML
 
-*   [trex (⭐740)](https://github.com/crewdevio/Trex) - Package management like npm for deno.
+*   [trex (⭐739)](https://github.com/crewdevio/Trex) - Package management like npm for deno.
 
 ### Resources in Other Languages / Spanish
 

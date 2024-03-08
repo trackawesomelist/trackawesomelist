@@ -94,7 +94,7 @@
 
 *   [MDSveX (⭐2.1k)](https://github.com/pngwn/MDsveX) - Preprocessor for MDX markdown.
 *   [svelte-preprocess-less (⭐13)](https://github.com/ls-age/svelte-preprocess-less) - Preprocessor for less.
-*   [modular-css (⭐281)](https://github.com/tivac/modular-css/tree/main/packages/svelte) - Preprocessor support for modular-css.
+*   [modular-css (⭐284)](https://github.com/tivac/modular-css/tree/main/packages/svelte) - Preprocessor support for modular-css.
 *   [svelte-preprocess-sass (⭐92)](https://github.com/ls-age/svelte-preprocess-sass) - Preprocessor for sass.
 
 ### UI Libraries
@@ -104,7 +104,7 @@
 
 ### Table
 
-*   [svelte-table (⭐477)](https://github.com/dasDaniel/svelte-table) - A table implementation that allows sorting and filtering.
+*   [svelte-table (⭐484)](https://github.com/dasDaniel/svelte-table) - A table implementation that allows sorting and filtering.
 
 ### Notification
 
@@ -112,27 +112,27 @@
 
 ### Icons
 
-*   [svelte-fa (⭐379)](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 component.
-*   [svelte-icons (⭐282)](https://github.com/AnxiousDarkly/svelte-icons) - Icon components.
+*   [svelte-fa (⭐385)](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 component.
+*   [svelte-icons (⭐286)](https://github.com/AnxiousDarkly/svelte-icons) - Icon components.
 
 ### Calendar
 
-*   [svelte-fullcalendar (⭐198)](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
+*   [svelte-fullcalendar (⭐199)](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
 
 ### Maps
 
-*   [svelte-googlemaps (⭐70)](https://github.com/beyonk-adventures/svelte-googlemaps) - Google Maps component.
-*   [svelte-mapbox (⭐331)](https://github.com/beyonk-adventures/svelte-mapbox) - MapBox map and autocomplete components.
+*   [svelte-googlemaps (⭐71)](https://github.com/beyonk-adventures/svelte-googlemaps) - Google Maps component.
+*   [svelte-mapbox (⭐332)](https://github.com/beyonk-adventures/svelte-mapbox) - MapBox map and autocomplete components.
 *   [leaflet-svelte (⭐51)](https://github.com/anoram/leaflet-svelte) - Svelte wrapper for Leaflet.
 
 ### Form / Checkbox
 
-*   [svelte-checkbox (⭐76)](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable).
+*   [svelte-checkbox (⭐77)](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable).
 *   [svelte-toggle (⭐22)](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling.
 
 ### Lint / Checkbox
 
-*   [prettier-plugin-svelte (⭐671)](https://github.com/sveltejs/prettier-plugin-svelte) - Format your components using prettier.
+*   [prettier-plugin-svelte (⭐684)](https://github.com/sveltejs/prettier-plugin-svelte) - Format your components using prettier.
 *   [svelte-check](https://www.npmjs.com/package/svelte-check) - Check your code.
 
 ### Docs / Checkbox
@@ -141,7 +141,7 @@
 
 ### Test / Checkbox
 
-*   [svelte-jester (⭐125)](https://github.com/mihar-22/svelte-jester) - A Jest transformer to compile your components before importing them into tests.
+*   [svelte-jester (⭐127)](https://github.com/mihar-22/svelte-jester) - A Jest transformer to compile your components before importing them into tests.
 
 ### Editors / Visual Studio Code
 
@@ -158,8 +158,8 @@
 
 ### Editors / Vim
 
-*   [vim-svelte-plugin (⭐125)](https://github.com/leafOfTree/vim-svelte-plugin) - Syntax highlighting and support for Vim.
-*   [coc-svelte (⭐176)](https://github.com/coc-extensions/coc-svelte) - Syntax highlighting and support for (Neo)Vim.
+*   [vim-svelte-plugin (⭐126)](https://github.com/leafOfTree/vim-svelte-plugin) - Syntax highlighting and support for Vim.
+*   [coc-svelte (⭐177)](https://github.com/coc-extensions/coc-svelte) - Syntax highlighting and support for (Neo)Vim.
 
 ### Editors / JetBrains
 

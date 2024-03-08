@@ -152,7 +152,7 @@
 
 ### C / Git
 
-*   [libkcapi (⭐145)](https://github.com/smuellerDD/libkcapi) - Linux Kernel Crypto API User Space Interface Library.
+*   [libkcapi (⭐151)](https://github.com/smuellerDD/libkcapi) - Linux Kernel Crypto API User Space Interface Library.
 *   [nettle (⭐54)](https://github.com/gnutls/nettle) - is a cryptographic library that is designed to fit easily in more or less any context: In crypto toolkits for object-oriented languages (C++, Python, Pike, ...), in applications like LSH or GNUPG, or even in kernel space.
 
 ## [8. Awesome Golem](/content/golemfactory/awesome-golem/README.md)

@@ -42,8 +42,8 @@
 
 ### Version Control
 
-*   [git (⭐1.3k)](https://github.com/jupyterlab/jupyterlab-git) - Extension for git integration.
-*   [nbdime (⭐2.5k)](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
+*   [git (⭐1.4k)](https://github.com/jupyterlab/jupyterlab-git) - Extension for git integration.
+*   [nbdime (⭐2.6k)](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 *   [ReviewNB](https://www.reviewnb.com/) - Code reviews for Jupyter Notebooks.
 
 ## [6. Awesome Coq](/content/coq-community/awesome-coq/README.md)
@@ -62,7 +62,7 @@
 
 ### Resources / Tutorials and Hints
 
-*   [Coq'Art Exercises and Tutorials (⭐99)](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book, including additional tutorials.
+*   [Coq'Art Exercises and Tutorials (⭐101)](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book, including additional tutorials.
 
 ## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

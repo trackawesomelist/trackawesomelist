@@ -17,13 +17,13 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [QuestSystem (⭐28)](https://github.com/ShomyKohai/quest-system) - A simple and extensible quest manager and creator (Godot 4.x).
+*   [QuestSystem (⭐51)](https://github.com/ShomyKohai/quest-system) - A simple and extensible quest manager and creator (Godot 4.x).
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### AI / Diagnostics
 
-*   [kiddos/gemini.nvim (⭐12)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
+*   [kiddos/gemini.nvim (⭐14)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

@@ -164,7 +164,7 @@
 
 ### Projects / Tools
 
-*   [Ott (⭐322)](https://github.com/ott-lang/ott) - Tool for writing definitions of programming languages and calculi that can be translated to Coq.
+*   [Ott (⭐323)](https://github.com/ott-lang/ott) - Tool for writing definitions of programming languages and calculi that can be translated to Coq.
 
 ### Projects / Type Theory and Mathematics
 
@@ -178,7 +178,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [minimalist-web-notepad (⭐939)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
+*   [minimalist-web-notepad (⭐949)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

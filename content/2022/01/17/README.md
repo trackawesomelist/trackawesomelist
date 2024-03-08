@@ -122,7 +122,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot Radial Menu (⭐213)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
+*   [Godot Radial Menu (⭐216)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
 
 ## [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -137,7 +137,7 @@
 
 ### Communications / IR
 
-*   [pico-ir (⭐10)](https://github.com/bartoszadamczyk/pico-ir) - IR library for Raspberry Pi Pico.
+*   [pico-ir (⭐11)](https://github.com/bartoszadamczyk/pico-ir) - IR library for Raspberry Pi Pico.
 
 ### Frameworks / SRAM
 

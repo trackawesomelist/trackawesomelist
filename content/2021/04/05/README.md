@@ -61,7 +61,7 @@
 
 ### UI Libraries
 
-*   [svelte-chota (⭐289)](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
+*   [svelte-chota (⭐288)](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

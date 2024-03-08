@@ -143,7 +143,7 @@
 
 ### TTRSS / Outline Processor Markup Language
 
-*   [ttrss-theme-rsshub (⭐89)](https://github.com/DIYgod/ttrss-theme-rsshub) <sup>[302](https://t.me/s/aboutrss/302)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/DIYgod/ttrss-theme-rsshub)
+*   [ttrss-theme-rsshub (⭐90)](https://github.com/DIYgod/ttrss-theme-rsshub) <sup>[302](https://t.me/s/aboutrss/302)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/DIYgod/ttrss-theme-rsshub)
 *   [Pink-Feedly Theme for Tiny Tiny RSS](https://t.me/s/realSpencerWoo/85) <sup>[439](https://t.me/s/aboutrss/439)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://gist.github.com/spencerwooo/60d15d83737542f11845bcc4742f9510#gistcomment-3158254)
 
 ### Telegram / Telegram RSS bots
@@ -176,7 +176,7 @@
 ### universally from / newsletter/mail
 
 *   Reading Newsletters with RSS Reader <sup>[426](https://t.me/s/aboutrss/426)</sup>
-*   [mail2rss (⭐49)](https://github.com/lengthmin/mail2rss) <sup>[517](https://t.me/s/aboutrss/517)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lengthmin/mail2rss)
+*   [mail2rss (⭐50)](https://github.com/lengthmin/mail2rss) <sup>[517](https://t.me/s/aboutrss/517)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lengthmin/mail2rss)
 
 ### specifically from (*a certain platform*) / Weibo (微博)
 

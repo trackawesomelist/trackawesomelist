@@ -42,11 +42,11 @@
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [L-Briand/KTM (⭐13)](https://github.com/L-Briand/KTM) - Mustache templating in kotlin multiplatform
+*   [L-Briand/KTM (⭐14)](https://github.com/L-Briand/KTM) - Mustache templating in kotlin multiplatform
 
 ### Libraries/Frameworks / Cryptography
 
-*   [appmattus/crypto (⭐73)](https://github.com/appmattus/crypto) - A collection of Kotlin Multiplatform Mobile cryptographic hashing functions.
+*   [appmattus/crypto (⭐74)](https://github.com/appmattus/crypto) - A collection of Kotlin Multiplatform Mobile cryptographic hashing functions.
 
 ## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 

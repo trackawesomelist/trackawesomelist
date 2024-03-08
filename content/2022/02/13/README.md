@@ -108,7 +108,7 @@
 
 ### Crash Courses
 
-*   [Algorand School (⭐73)](https://github.com/cusma/algorand-school) - Algorand School crash course slide deck.
+*   [Algorand School (⭐75)](https://github.com/cusma/algorand-school) - Algorand School crash course slide deck.
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -118,13 +118,13 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [ripgrep (rg) (⭐43k)](https://github.com/BurntSushi/ripgrep) - Very fast text searching tool similar to (but faster than) ack, ag or grep ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ripgrep (rg) (⭐44k)](https://github.com/BurntSushi/ripgrep) - Very fast text searching tool similar to (but faster than) ack, ag or grep ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [10. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Verified Software
 
-*   [Jasmin (⭐204)](https://github.com/jasmin-lang/jasmin) - Formalized language and verified compiler for high-assurance and high-speed cryptography.
+*   [Jasmin (⭐210)](https://github.com/jasmin-lang/jasmin) - Formalized language and verified compiler for high-assurance and high-speed cryptography.
 
 ## [11. Awesome List](/content/sindresorhus/awesome/README.md)
 

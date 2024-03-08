@@ -22,7 +22,7 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [static-GTFS-manager (⭐140)](https://github.com/WRI-Cities/static-GTFS-manager) - A (self-hosted) browser-based user interface for creating, editing, exporting static GTFS (see [related post](https://groups.google.com/forum/#!topic/transit-developers/GFz5rTJTB0I)).  Live demo [here](https://static-gtfs-manager.herokuapp.com/).
+*   [static-GTFS-manager (⭐141)](https://github.com/WRI-Cities/static-GTFS-manager) - A (self-hosted) browser-based user interface for creating, editing, exporting static GTFS (see [related post](https://groups.google.com/forum/#!topic/transit-developers/GFz5rTJTB0I)).  Live demo [here](https://static-gtfs-manager.herokuapp.com/).
 
 ## [4. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

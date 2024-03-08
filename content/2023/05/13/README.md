@@ -22,27 +22,27 @@
 
 ### Programming Languages Support / Diagnostics
 
-*   [dmmulroy/tsc.nvim (⭐259)](https://github.com/dmmulroy/tsc.nvim) - Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (TSC) with results loaded into a quickfix list.
+*   [dmmulroy/tsc.nvim (⭐279)](https://github.com/dmmulroy/tsc.nvim) - Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (TSC) with results loaded into a quickfix list.
 
 ## [4. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Tools / Agents
 
-*   [AgentGPT (⭐28k)](https://github.com/reworkd/AgentGPT): AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
+*   [AgentGPT (⭐29k)](https://github.com/reworkd/AgentGPT): AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
 *   [BabyAGI UI (⭐1.2k)](https://github.com/miurla/babyagi-ui): Make it easier to run and develop with babyagi in a web app, like a ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/miurla/babyagi-ui?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [SmartPilot (⭐41)](https://github.com/jaredkirby/SmartPilot): A Python program leveraging OpenAI's language models to generate, analyze, and select the best answer to a given question ![GitHub Repo stars](https://img.shields.io/github/stars/jaredkirby/SmartPilot?style=social)
+*   [SmartPilot (⭐40)](https://github.com/jaredkirby/SmartPilot): A Python program leveraging OpenAI's language models to generate, analyze, and select the best answer to a given question ![GitHub Repo stars](https://img.shields.io/github/stars/jaredkirby/SmartPilot?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents): Provides a natural language API on top of transformers
-*   [LLM Agents (⭐830)](https://github.com/mpaepper/llm_agents): Build agents which are controlled by LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/mpaepper/llm_agents?style=social)
+*   [LLM Agents (⭐860)](https://github.com/mpaepper/llm_agents): Build agents which are controlled by LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/mpaepper/llm_agents?style=social)
 
 ### Complement to this list / Videos Playlists
 
-*   [Open LLMs (⭐9k)](https://github.com/eugeneyan/open-llms): A list of open LLMs available for commercial use ![GitHub Repo stars](https://img.shields.io/github/stars/eugeneyan/open-llms?style=social)
+*   [Open LLMs (⭐9.7k)](https://github.com/eugeneyan/open-llms): A list of open LLMs available for commercial use ![GitHub Repo stars](https://img.shields.io/github/stars/eugeneyan/open-llms?style=social)
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

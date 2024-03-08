@@ -80,9 +80,10 @@
 
 *   **Libraries**
     *   [Ocaml-sklearn (⭐31)](https://github.com/lehy/ocaml-sklearn) scikit-learn for OCaml.
-    *   [Owl](https://ocaml.xyz/) - Scientific library with neural networks, algoritmic differentiation and ONNX support.
+    *   [Owl](https://ocaml.xyz/) - Scientific library with neural networks, algorithmic differentiation and ONNX support.
     *   [Object detection convolutional neural network with OCaml (based on Owl) (⭐17)](https://github.com/owlbarn/owl_mask_rcnn).
-    *   [PyTorch bindings (⭐396)](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
+    *   [PyTorch bindings (⭐397)](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
+    *   [Ocaml-NN (⭐3)](https://github.com/ck090/ocaml-nn/tree/main) - Fully functional monadic implementation of a Neural Network (FCNNs) in OCaml
 
 ## [9. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 

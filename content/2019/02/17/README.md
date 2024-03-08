@@ -10,7 +10,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Gotify](https://gotify.net/) - Self-hosted notification server with Android and CLI clients, similar to PushBullet. ([Source Code (⭐9.8k)](https://github.com/gotify/server), [Clients (⭐780)](https://github.com/gotify/android)) `MIT` `Go/Docker`
+*   [Gotify](https://gotify.net/) - Self-hosted notification server with Android and CLI clients, similar to PushBullet. ([Source Code (⭐9.9k)](https://github.com/gotify/server), [Clients (⭐790)](https://github.com/gotify/android)) `MIT` `Go/Docker`
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

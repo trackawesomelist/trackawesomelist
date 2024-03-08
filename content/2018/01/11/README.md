@@ -11,11 +11,11 @@
 ### Software / Automation
 
 *   [Headphones (⭐3.3k)](https://github.com/rembo10/headphones) - Automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole. `GPL-3.0` `Python`
-*   [Sonarr](https://sonarr.tv/) - Automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available. ([Source Code (⭐9.7k)](https://github.com/Sonarr/Sonarr)) `GPL-3.0` `C#/Docker`
+*   [Sonarr](https://sonarr.tv/) - Automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available. ([Source Code (⭐9.8k)](https://github.com/Sonarr/Sonarr)) `GPL-3.0` `C#/Docker`
 
 ### Software / Blogging Platforms
 
-*   [Antville](https://antville.org) - Free, open source project aimed at the development of a high performance, feature rich weblog hosting software. ([Source Code (⭐73)](https://github.com/antville/antville)) `Apache-2.0` `Javascript`
+*   [Antville](https://antville.org) - Free, open source project aimed at the development of a high performance, feature rich weblog hosting software. ([Source Code (⭐74)](https://github.com/antville/antville)) `Apache-2.0` `Javascript`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -37,12 +37,12 @@
 
 ### Software / Communication - XMPP - Web Clients
 
-*   [JSXC](https://jsxc.org) - Real-time XMPP web chat application with video calls, file transfer and encrypted communication. There are also versions for Nextcloud/Owncloud and SOGo. ([Source Code (⭐701)](https://github.com/jsxc/jsxc)) `MIT` `Javascript`
+*   [JSXC](https://jsxc.org) - Real-time XMPP web chat application with video calls, file transfer and encrypted communication. There are also versions for Nextcloud/Owncloud and SOGo. ([Source Code (⭐706)](https://github.com/jsxc/jsxc)) `MIT` `Javascript`
 
 ### Software / Content Management Systems (CMS)
 
-*   [REDAXO](https://www.redaxo.org) - Simple, flexible and useful content management system (documentation only available in German). ([Source Code (⭐315)](https://github.com/redaxo/redaxo)) `MIT` `PHP/Docker`
-*   [TYPO3](https://typo3.org/) - Powerful and advanced CMS with a large community. ([Source Code (⭐994)](https://github.com/TYPO3/typo3)) `GPL-2.0` `PHP`
+*   [REDAXO](https://www.redaxo.org) - Simple, flexible and useful content management system (documentation only available in German). ([Source Code (⭐316)](https://github.com/redaxo/redaxo)) `MIT` `PHP/Docker`
+*   [TYPO3](https://typo3.org/) - Powerful and advanced CMS with a large community. ([Source Code (⭐993)](https://github.com/TYPO3/typo3)) `GPL-2.0` `PHP`
 
 ### Software / Feed Readers
 
@@ -58,7 +58,7 @@
 
 ### Software / Miscellaneous
 
-*   [DomainMOD](https://domainmod.org) - Application to manage your domains and other internet assets in a central location. DomainMOD includes a Data Warehouse framework that allows you to import your WHM/cPanel web server data so that you can view, export, and report on your data. ([Demo](https://demo.domainmod.org), [Source Code (⭐432)](https://github.com/domainmod/domainmod)) `GPL-3.0` `PHP`
+*   [DomainMOD](https://domainmod.org) - Application to manage your domains and other internet assets in a central location. DomainMOD includes a Data Warehouse framework that allows you to import your WHM/cPanel web server data so that you can view, export, and report on your data. ([Demo](https://demo.domainmod.org), [Source Code (⭐434)](https://github.com/domainmod/domainmod)) `GPL-3.0` `PHP`
 *   [google-webfonts-helper (⭐12k)](https://github.com/majodev/google-webfonts-helper) `⚠` - Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets. ([Demo](https://gwfh.mranftl.com/fonts)) `MIT` `Nodejs`
 
 ### Software / Money, Budgeting & Management
@@ -75,7 +75,7 @@
 
 ### Software / Pastebins
 
-*   [Sup3rS3cretMes5age (⭐443)](https://github.com/algolia/sup3rS3cretMes5age) - Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
+*   [Sup3rS3cretMes5age (⭐445)](https://github.com/algolia/sup3rS3cretMes5age) - Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
 
 ### Software / Software Development - Project Management
 
@@ -87,7 +87,7 @@
 
 ### Software / Wikis
 
-*   [Dokuwiki](https://www.dokuwiki.org/DokuWiki) - Easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain text files, therefore no database is required. ([Source Code (⭐3.9k)](https://github.com/dokuwiki/dokuwiki)) `GPL-2.0` `PHP`
+*   [Dokuwiki](https://www.dokuwiki.org/DokuWiki) - Easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain text files, therefore no database is required. ([Source Code (⭐4k)](https://github.com/dokuwiki/dokuwiki)) `GPL-2.0` `PHP`
 *   [Gitit (⭐2.1k)](https://github.com/jgm/gitit) - Wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. `GPL-2.0` `Haskell`
 *   [Gollum (⭐13k)](https://github.com/gollum/gollum) - Simple, Git-powered wiki with a sweet API and local frontend. `MIT` `Ruby`
 

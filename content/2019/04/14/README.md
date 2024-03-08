@@ -34,7 +34,7 @@
 
 *   [Jest](https://jestjs.io/) - [🛠️](https://stackshare.io/jest) - [🐙 (⭐43k)](https://github.com/facebook/jest) - A comprehensive, delightful JavaScript testing solution.
 *   [stylelint](https://stylelint.io/) - [🛠️](https://stackshare.io/stylelint) - [🐙 (⭐11k)](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
-*   [wemake-vue-template (⭐731)](https://github.com/wemake-services/wemake-vue-template)
+*   [wemake-vue-template (⭐732)](https://github.com/wemake-services/wemake-vue-template)
 
 ## [5. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 

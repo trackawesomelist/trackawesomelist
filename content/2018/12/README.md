@@ -266,7 +266,7 @@
 
 ### Contents / Utilities
 
-*   [ldap2pg (⭐181)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
+*   [ldap2pg (⭐182)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
 
 ## [17. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 

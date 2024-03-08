@@ -43,7 +43,7 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [godot-ply (⭐292)](https://github.com/jarneson/godot-ply) - In-editor box modelling for gray boxing or prototyping 3D levels.
+*   [godot-ply (⭐295)](https://github.com/jarneson/godot-ply) - In-editor box modelling for gray boxing or prototyping 3D levels.
 
 ## [6. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

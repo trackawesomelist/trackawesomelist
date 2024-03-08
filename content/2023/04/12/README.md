@@ -36,7 +36,7 @@
 
 ### Developer Tools / Databases
 
-*   [SurrealDB (⭐24k)](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/surrealdb/surrealdb)
+*   [SurrealDB (⭐25k)](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/surrealdb/surrealdb)
 
 ### Design and Product / Design Tools
 
@@ -111,15 +111,15 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Shifter (⭐13)](https://github.com/TobySuch/Shifter) - A simple, self-hosted file-sharing web app, powered by Django. `MIT` `Docker`
+*   [Shifter (⭐14)](https://github.com/TobySuch/Shifter) - A simple, self-hosted file-sharing web app, powered by Django. `MIT` `Docker`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [SwingMusic](https://swingmusic.vercel.app/) - Swing Music is a beautiful, self-hosted music player and streaming server for your local audio files. Like a cooler Spotify ... but bring your own music. ([Source Code (⭐529)](https://github.com/swing-opensource/swingmusic)) `MIT` `Python/Docker`
+*   [SwingMusic](https://swingmusic.vercel.app/) - Swing Music is a beautiful, self-hosted music player and streaming server for your local audio files. Like a cooler Spotify ... but bring your own music. ([Source Code (⭐551)](https://github.com/swing-opensource/swingmusic)) `MIT` `Python/Docker`
 
 ### Software / URL Shorteners
 
-*   [Easyshortener (⭐76)](https://github.com/easypanel-community/easyshortener) - A simple URL shortener. `MIT` `PHP/Nodejs/Docker`
+*   [Easyshortener (⭐78)](https://github.com/easypanel-community/easyshortener) - A simple URL shortener. `MIT` `PHP/Nodejs/Docker`
 
 ## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

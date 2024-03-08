@@ -19,7 +19,7 @@
 
 ### Software / Internet of Things (IoT)
 
-*   [Domoticz](https://www.domoticz.com/) - Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. ([Source Code (⭐3.4k)](https://github.com/domoticz/domoticz), [Clients (⭐100)](https://github.com/domoticz/domoticz-android)) `GPL-3.0` `C/C++/Docker/Shell`
+*   [Domoticz](https://www.domoticz.com/) - Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. ([Source Code (⭐3.4k)](https://github.com/domoticz/domoticz), [Clients (⭐101)](https://github.com/domoticz/domoticz-android)) `GPL-3.0` `C/C++/Docker/Shell`
 
 ### Software / Software Development - Project Management
 
@@ -35,7 +35,7 @@
 
 ### Serialization
 
-*   [yojson (⭐303)](https://github.com/ocaml-community/yojson) — An optimized parsing and printing library for the JSON format.
+*   [yojson (⭐306)](https://github.com/ocaml-community/yojson) — An optimized parsing and printing library for the JSON format.
 
 ## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

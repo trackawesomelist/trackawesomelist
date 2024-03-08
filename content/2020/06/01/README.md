@@ -82,7 +82,7 @@
 
 ### Tools / Testing
 
-*   [pytest-mypy-testing (⭐24)](https://github.com/davidfritzsche/pytest-mypy-testing) - Pytest plugin to test mypy static type analysis.
+*   [pytest-mypy-testing (⭐26)](https://github.com/davidfritzsche/pytest-mypy-testing) - Pytest plugin to test mypy static type analysis.
 
 ## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -245,7 +245,7 @@ Language: English
 
 ### Tools / XML
 
-*   [vscode-deno (⭐1.4k)](https://github.com/denoland/vscode_deno) - VS Code extension that provides Deno support using the `TypeScript Deno language service plugin`.
+*   [vscode-deno (⭐1.5k)](https://github.com/denoland/vscode_deno) - VS Code extension that provides Deno support using the `TypeScript Deno language service plugin`.
 
 ## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

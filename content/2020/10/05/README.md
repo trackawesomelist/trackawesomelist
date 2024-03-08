@@ -154,7 +154,7 @@
 
 ### Third-Party Packages / Forms
 
-*   [django-floppyforms (⭐831)](https://github.com/jazzband/django-floppyforms) - Full control of form rendering.
+*   [django-floppyforms (⭐835)](https://github.com/jazzband/django-floppyforms) - Full control of form rendering.
 
 ---
 

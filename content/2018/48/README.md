@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 26 - Dec 02, 2018
 
-55 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -112,7 +112,7 @@
 ### HAL implementation crates / Silicon Labs
 
 *   [`tomu-hal`](https://github.com/fudanchii/imtomu-rs)
-    *   HAL implementation targeted for [Tomu](https://tomu.im/) USB board with EFM32HG309F64 ARMv6-M core. Has support to configure [tomu bootloader (⭐71)](https://github.com/im-tomu/tomu-bootloader) directly from an application via the `toboot_config` macro.
+    *   HAL implementation targeted for [Tomu](https://tomu.im/) USB board with EFM32HG309F64 ARMv6-M core. Has support to configure [tomu bootloader (⭐70)](https://github.com/im-tomu/tomu-bootloader) directly from an application via the `toboot_config` macro.
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -144,7 +144,7 @@
 
 ### Class Based
 
-*   [slim.js (⭐987)](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
+*   [slim.js (⭐996)](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
 
 ### History / 2018
 
@@ -288,6 +288,7 @@
 
 ### Courses
 
+*   [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) In this liveVideo course, machine learning expert Oliver Zeigermann teaches you the basics of deep learning.
 *   [Fusion in Action](https://www.manning.com/books/fusion-in-action) -  Fusion in Action teaches you to build a full-featured data analytics pipeline, including document and data search and distributed data clustering.
 
 ## [20. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
@@ -318,13 +319,7 @@
 
 *   [Twitter SRE Weekly](https://twitter.com/SREWeekly) - The Official Twitter Account of SRE Weekly Newsletter.
 
-## [24. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
-
-### Table of Contents / Videos and Lectures
-
-*   [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) By Oliver Zeigermann
-
-## [25. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [24. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Hypervisors
 
@@ -338,7 +333,7 @@
 *   [firecracker (⭐22k)](https://github.com/firecracker-microvm/firecracker)\
     Firecracker runs workloads in lightweight virtual machines, called microVMs, which combine the security and isolation properties provided by hardware virtualization technology with the speed and flexibility of containers.
 
-## [26. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [25. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Elements / Head
 
@@ -349,13 +344,13 @@
 *   [Intro to PWAs](https://developers.google.com/web/progressive-web-apps/)
 *   [An Extensive Guide To Progressive Web Applications](https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/)
 
-## [27. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [26. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Resources & Others / Others
 
 *   [Calcy IV](https://play.google.com/store/apps/details?id=tesmath.calcy) - One-tap stats and level calculation on Pokémon GO (Android).
 
-## [28. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
+## [27. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
 
 ### Calculator apps: / Android
 
@@ -365,19 +360,19 @@
 
 *   [x48 (⭐28)](https://github.com/gwenhael-le-moine/x48) - Emulate the HP48GX/SX, one of the best engineering calculators ever.
 
-## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [28. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
 *   [PsiTransfer (⭐1.4k)](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution with robust up-/download-resume and password protection. `BSD-2-Clause` `Nodejs`
 
-## [30. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [29. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [How to Automate Siri Voice Commands Using Appium](https://appiumpro.com/editions/45)
 
-## [31. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
+## [30. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
 ### Protocols
 
@@ -393,7 +388,7 @@
     *   [FFG vs CBC Comparison](https://ethereum.stackexchange.com/questions/31797/casper-ffg-vs-casper-ghost-cbc/31814#31814) - A Stack Exchange comparison of FFG and CBC.
 *   [Sharding (⭐15k)](https://github.com/ethereum/wiki/wiki/Sharding-introduction-R\&D-compendium) - Partitioning computational resources so that nodes do not have to process the entire blockchain.
 
-## [32. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [31. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -405,7 +400,7 @@
 
 *   [taskbook (⭐8.9k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 
-## [33. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
+## [32. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
 
 ### Contents / Build tools | Package managers
 
@@ -414,7 +409,7 @@
 *   [Elba (⭐187)](https://github.com/elba/elba) - A package manager for Idris
 *   [idream (⭐22)](https://github.com/idream-build/idream) - A simple build system for Idris
 
-## [34. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [33. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 
@@ -425,7 +420,7 @@
 
 *   [Debugging Our Feelings: Cognitive Behavioural Therapy For Developers - Peers Conference 2018](https://vimeo.com/253833709) - By Jamie Strachan.
 
-## [35. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [34. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
@@ -435,33 +430,33 @@
 
 *   [Outplanr](https://www.outplanr.com/) - Project and task management tool.
 
-## [36. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [35. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Log Analysis Tools
 
 *   [Lorg (⭐207)](https://github.com/jensvoid/lorg) - Tool for advanced HTTPD logfile security analysis and forensics.
 *   [Logdissect (⭐133)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 
-## [37. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
+## [36. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
 
 ### API for Food services / Only available for French market
 
 *   [node-dominos-france](https://github.com/jzarca01/node-dominos-france.git) - Une API pour l'app Promos de Domino's Pizza.
 *   [node-kebab (⭐1)](https://github.com/jzarca01/node-kebab) - Un wrapper d'API pour kebab-frites.info .
 
-## [38. Awesome C](/content/inputsh/awesome-c/week/README.md)
+## [37. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
 ### Networking and Internet / Language Standards
 
 *   [MQTT-C (⭐544)](https://github.com/LiamBindle/MQTT-C) - Portable MQTT C client for embedded systems and PCs alike. [`MIT`](https://raw.githubusercontent.com/LiamBindle/MQTT-C/master/LICENSE)
 
-## [39. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [38. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Utilities
 
 *   [Secure Headers (⭐424)](https://github.com/BePsvPT/secure-headers) - Add security related headers to HTTP response
 
-## [40. Awesome](/content/craftcms/awesome/week/README.md)
+## [39. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Articles / Craft 3
 
@@ -491,7 +486,7 @@
 *   [Samuelsohn](http://samuelsohn.com)
 *   [Visit Victoria: Corporate](https://corporate.visitvictoria.com)
 
-## [41. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [40. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Games
 
@@ -540,7 +535,7 @@
 *   cute
     *   [mattgathu/cute (⭐329)](https://github.com/mattgathu/cute) — Macro for Python-esque list comprehensions.
 
-## [42. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [41. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Algorithms / Transform Encryption
 
@@ -557,7 +552,7 @@
 ### Rust / Git
 
 *   [dalek cryptography](https://github.com/dalek-cryptography/) - Fast yet safe mid-level API for ECC, Bulletproofs, and more.
-*   [recrypt (⭐139)](https://github.com/IronCoreLabs/recrypt-rs) - A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.
+*   [recrypt (⭐140)](https://github.com/IronCoreLabs/recrypt-rs) - A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.
 
 ### Scala / Git
 
@@ -567,7 +562,7 @@
 
 *   [Salty Hash](https://blog.ironcorelabs.com) - Covers topics on encryption, data control, privacy, and security.
 
-## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [42. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
@@ -577,7 +572,7 @@
 
 *   [vue-displacement-slideshow (⭐207)](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
 
-## [44. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [43. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### General Libraries
 
@@ -589,7 +584,7 @@
 *   [Delphi Library Helper (⭐19)](https://github.com/littleearth/delphi-library-helper) Tool to assist Delphi developers configuring library folders.
 *   [Mobile Image Creator (⭐7)](https://github.com/littleearth/mobile-image-creator) Creating Icons and Launcher Images for Delphi Mobile Applications (Firemonkey). This is a fork of Mobile Gfx created by [Thomas Grubb of RiverSoftAVG](http://riversoftavg.com/blogs/index.php/2014/02/03/creating-icons-and-launchers-for-delphi-mobile-applications/).
 
-## [45. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [44. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -599,7 +594,7 @@
 
 *   [react-native-deep-link ★36 (⭐146)](https://github.com/Starotitorov/react-native-deep-link) - React Native library to handle deep links
 
-## [46. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [45. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -609,7 +604,7 @@
 
 *   [A Counterintuitive Way To Increase Diversity In Tech](https://medium.com/@rachelnabors/a-counterintuitive-way-to-increase-diversity-in-tech-31aea2ce6a50) - By Rachel Nabors.
 
-## [47. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [46. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anime
 
@@ -681,7 +676,7 @@
 
 
 
-## [48. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [47. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Proxy and VPN Tools / Audio Record and Process
 
@@ -691,7 +686,7 @@
 
 *   [Bitwarden](https://bitwarden.com) - Open source password management tool for Mac OS, iOS and browsers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bitwarden) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [49. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [48. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Internationalization
 
@@ -701,7 +696,7 @@
 
 *   [Artistic Style](http://astyle.sourceforge.net/) - A tool to format C/C++/C#/Obj-C/Java code. Also known as astyle.
 
-## [50. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [49. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Userscripts
 
@@ -774,7 +769,7 @@
 
 *   [Snahp.it](https://discord.gg/ypyKZCj) Official Discord server for snahp.it.
 
-## [51. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [50. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Science and Data Analysis
 
@@ -784,27 +779,27 @@
 
 *   [vim-iced (Vim) (⭐505)](https://github.com/liquidz/vim-iced)
 
-## [52. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [51. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [dotnet-tools (⭐1.5k)](https://github.com/natemcmaster/dotnet-tools) - A list of tool extensions for .NET Core Command Line (dotnet CLI).
     *   [LibMan CLI (⭐422)](https://github.com/aspnet/LibraryManager) - Client-side content manager for web apps.
 
-## [53. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [52. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / Libraries
 
 *   [Hearth (⭐26)](https://github.com/jembi/hearth) - A fast FHIR-compliant server focused on longitudinal data stores.
 
-## [54. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [53. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Development
 
 *   [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action) - Book that teaches you practical use and deployment of OAuth 2 from the perspectives of a client, an authorization server, and a resource server.
 *   [OWASP ZAP Node API (⭐38)](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
 
-## [55. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [54. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Pomodoro / Enterprise Git Service
 

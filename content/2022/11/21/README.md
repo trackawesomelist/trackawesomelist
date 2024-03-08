@@ -55,7 +55,7 @@
 
 ### Types / Playground
 
-*   [ts-toolbelt (⭐6.2k)](https://github.com/millsp/ts-toolbelt) - Large collection of type utilities for TypeScript
+*   [ts-toolbelt (⭐6.4k)](https://github.com/millsp/ts-toolbelt) - Large collection of type utilities for TypeScript
 
 ## [8. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

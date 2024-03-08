@@ -83,7 +83,7 @@
 
 ### universally from / multiple sources
 
-*   [RSS Worker (⭐182)](https://github.com/yllhwa/RSSWorker) <sup>[1379](https://t.me/s/aboutrss/1379)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yllhwa/RSSWorker)
+*   [RSS Worker (⭐347)](https://github.com/yllhwa/RSSWorker) <sup>[1379](https://t.me/s/aboutrss/1379)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yllhwa/RSSWorker)
 *   [VeRSSion](https://verssion.one/) <sup>[1396](https://t.me/s/aboutrss/1396)</sup>
 
 ### universally from / webpage/html
@@ -108,7 +108,7 @@
 
 ### Generating Blog's statistics via RSS feed / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [EndofYear (⭐69)](https://github.com/7Wate/EndOfYear) <sup>[1384](https://t.me/s/aboutrss/1384)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/7Wate/EndOfYear)
+*   [EndofYear (⭐68)](https://github.com/7Wate/EndOfYear) <sup>[1384](https://t.me/s/aboutrss/1384)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/7Wate/EndOfYear)
 
 ### Turn Podcast/MP3 into Video via Podcast Feed / Crypto or Blockchain relevant
 
@@ -159,18 +159,18 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [HoloPlay](https://app.holoplay.io) `⚠` - Web app using Invidious API for listening to Youtube audio sources. ([Source Code (⭐54)](https://github.com/stephane-r/holoplay-pwa)) `MIT` `Nodejs/Docker`
+*   [HoloPlay](https://app.holoplay.io) `⚠` - Web app using Invidious API for listening to Youtube audio sources. ([Source Code (⭐60)](https://github.com/stephane-r/holoplay-pwa)) `MIT` `Nodejs/Docker`
 
 ### Software / Software Development - FaaS & Serverless
 
-*   [CASE](https://case.app) - Lightweight BaaS (Backend As A Service) requiring minimal coding, with database, admin panel, API, and Javascript SDK. ([Source Code (⭐172)](https://github.com/casejs/case)) `MIT` `Nodejs`
+*   [CASE](https://case.app) - Lightweight BaaS (Backend As A Service) requiring minimal coding, with database, admin panel, API, and Javascript SDK. ([Source Code (⭐183)](https://github.com/casejs/case)) `MIT` `Nodejs`
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [chatGPT (⭐17)](https://github.com/mountaineerbr/shellChatGPT) - A command-line wrapper for OpenAI API for ChatGPT, DALL-E, and Whisper.
-*   [eza (mohamedelashri) (⭐0)](https://github.com/MohamedElashri/eza-zsh) - Adds aliases for [eza (⭐5.5k)](https://github.com/eza-community/eza), a modern replacement for `ls`.
+*   [eza (mohamedelashri) (⭐0)](https://github.com/MohamedElashri/eza-zsh) - Adds aliases for [eza (⭐6k)](https://github.com/eza-community/eza), a modern replacement for `ls`.
 
 ## [11. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

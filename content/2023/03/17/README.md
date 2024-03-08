@@ -98,7 +98,7 @@
 
 ### Software / Photo and Video Galleries
 
-*   [SPIS (⭐69)](https://github.com/gbbirkisson/spis) - A simple, lightweight and fast media server with decent mobile support. `GPL-3.0` `Docker/Rust`
+*   [SPIS (⭐72)](https://github.com/gbbirkisson/spis) - A simple, lightweight and fast media server with decent mobile support. `GPL-3.0` `Docker/Rust`
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

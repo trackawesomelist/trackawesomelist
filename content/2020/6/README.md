@@ -131,7 +131,7 @@
 
 ### Projects / Tools
 
-*   [Cosette (⭐645)](https://github.com/uwdb/Cosette) - Automated solver for reasoning about SQL query equivalences.
+*   [Cosette (⭐651)](https://github.com/uwdb/Cosette) - Automated solver for reasoning about SQL query equivalences.
 
 ### Resources / Community
 
@@ -520,13 +520,13 @@
 
 ### Offline / Other (Plugins || Cross-platform || OSS || Free)
 
-*   [Typescript tooling for Neovim (⭐619)](https://github.com/mhartington/nvim-typescript) is a language service plugin for typescript for Neovim.
+*   [Typescript tooling for Neovim (⭐617)](https://github.com/mhartington/nvim-typescript) is a language service plugin for typescript for Neovim.
 
 ## [50. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - IRC
 
-*   [Kiwi IRC](https://kiwiirc.com/) - Responsive web IRC client with theming support. ([Demo](https://kiwiirc.com/nextclient/), [Source Code (⭐814)](https://github.com/kiwiirc/kiwiirc)) `Apache-2.0` `Nodejs`
+*   [Kiwi IRC](https://kiwiirc.com/) - Responsive web IRC client with theming support. ([Demo](https://kiwiirc.com/nextclient/), [Source Code (⭐817)](https://github.com/kiwiirc/kiwiirc)) `Apache-2.0` `Nodejs`
 
 ### Software / Conference Management
 
@@ -550,7 +550,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code (⭐426)](https://github.com/Atheos/Atheos)) `MIT` `PHP/Docker`
+*   [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code (⭐429)](https://github.com/Atheos/Atheos)) `MIT` `PHP/Docker`
 
 ### Software / Ticketing
 
@@ -574,7 +574,7 @@
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [IntelliJ IDEA (⭐146)](https://github.com/exigow/intellij-gdscript) - Syntax highlighting and autocompletion.
+*   [IntelliJ IDEA (⭐147)](https://github.com/exigow/intellij-gdscript) - Syntax highlighting and autocompletion.
 
 ## [53. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
@@ -737,7 +737,7 @@
 
 ### Authentication and Authorization
 
-*   🍰 [TwoFactorAuth plugin (⭐36)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth (⭐992)](https://github.com/RobThree/TwoFactorAuth) library.
+*   🍰 [TwoFactorAuth plugin (⭐36)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth (⭐1k)](https://github.com/RobThree/TwoFactorAuth) library.
 
 ## [63. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -846,7 +846,7 @@
 *   [usbd-serial](http://crates.io/crates/usbd-serial) - USB CDC-ACM class (serial) implementation - [github (⭐99)](https://github.com/mvirkkunen/usbd-serial) - ![crates.io](https://img.shields.io/crates/v/usbd-serial.svg)
 *   [usbd-hid](http://crates.io/crates/usbd-hid) - USB HID class implementation - [github (⭐73)](https://github.com/twitchyliquid64/usbd-hid) - ![crates.io](https://img.shields.io/crates/v/usbd-hid.svg)
 *   [usbd-hid-device](http://crates.io/crates/usbd-hid-device) - USB HID class implementation without `unsafe` - [github (⭐12)](https://github.com/agalakhov/usbd-hid-device) - ![crates.io](https://img.shields.io/crates/v/usbd-hid-device.svg)
-*   [usbd-midi](http://crates.io/crates/usbd-midi) - USB MIDI class implementation - [github (⭐37)](https://github.com/btrepp/usbd-midi) - ![crates.io](https://img.shields.io/crates/v/usbd-midi.svg)
+*   [usbd-midi](http://crates.io/crates/usbd-midi) - USB MIDI class implementation - [github (⭐38)](https://github.com/btrepp/usbd-midi) - ![crates.io](https://img.shields.io/crates/v/usbd-midi.svg)
 *   [usbd-webusb](http://crates.io/crates/usbd-webusb) - USB webUSB class implementation - [github (⭐17)](https://github.com/redpfire/usbd-webusb) - ![crates.io](https://img.shields.io/crates/v/usbd-webusb.svg)
 
 ### Driver crates / WIP

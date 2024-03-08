@@ -115,7 +115,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 ### (requires Neovim 0.5)
 
-*   [roobert/action-hints.nvim (⭐51)](https://github.com/roobert/action-hints.nvim) - Show information about the word under the cursor in the statusline or as virtual text.
+*   [roobert/action-hints.nvim (⭐54)](https://github.com/roobert/action-hints.nvim) - Show information about the word under the cursor in the statusline or as virtual text.
 *   [roobert/hoversplit.nvim (⭐37)](https://github.com/roobert/hoversplit.nvim) - Automatically updated documentation and information about code symbols in a split window.
 
 ### Programming Languages Support / Diagnostics
@@ -124,11 +124,11 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 ### Web Development / Diagnostics
 
-*   [roobert/tailwindcss-colorizer-cmp.nvim (⭐265)](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim) - Add vscode-style TailwindCSS completion to nvim-cmp.
+*   [roobert/tailwindcss-colorizer-cmp.nvim (⭐270)](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim) - Add vscode-style TailwindCSS completion to nvim-cmp.
 
 ### Syntax / Diagnostics
 
-*   [roobert/surround-ui.nvim (⭐52)](https://github.com/roobert/surround-ui.nvim) - Helper or training aid for kylechui/nvim-surround.
+*   [roobert/surround-ui.nvim (⭐53)](https://github.com/roobert/surround-ui.nvim) - Helper or training aid for kylechui/nvim-surround.
 
 ### Tabline / Diagnostics
 

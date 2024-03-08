@@ -69,7 +69,7 @@
 
 ### Shells / On Host
 
-*   [mpbridge (⭐36)](https://github.com/AmirHmZz/mpbridge) - A file system bridge to synchronize and manage files on a device running MicroPython.
+*   [mpbridge (⭐37)](https://github.com/AmirHmZz/mpbridge) - A file system bridge to synchronize and manage files on a device running MicroPython.
 
 ## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -94,8 +94,8 @@
 *   [Enhance](https://enhance.dev/docs/) - Web standards-based HTML framework for building lightweight web applications.
 *   [luna-js (⭐5)](https://github.com/webtides/luna-js) - SSR framework that makes working with the WebComponents standard a breeze.
 *   [Rocket](https://rocket.modern-web.dev) - Modern web setup for static sites with a sprinkle of JavaScript.
-*   [Web Components Compiler (⭐61)](https://github.com/ProjectEvergreen/wcc) - Compiler to make server-side rendering of native web components easier.
-*   [WebC (⭐1.2k)](https://github.com/11ty/webc) - Framework-independent standalone HTML serializer for generating markup for web components.
+*   [Web Components Compiler (⭐66)](https://github.com/ProjectEvergreen/wcc) - Compiler to make server-side rendering of native web components easier.
+*   [WebC (⭐1.3k)](https://github.com/11ty/webc) - Framework-independent standalone HTML serializer for generating markup for web components.
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Note Taking / Diagnostics
 
-*   [RutaTang/quicknote.nvim (⭐96)](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
+*   [RutaTang/quicknote.nvim (⭐100)](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
 
 ### Terminal Integration / Diagnostics
 

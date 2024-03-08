@@ -65,7 +65,7 @@
 
 ### Metrics
 
-*   [prometheus (⭐49)](https://github.com/mirage/prometheus) – OCaml client library for Prometheus monitoring.
+*   [prometheus (⭐48)](https://github.com/mirage/prometheus) – OCaml client library for Prometheus monitoring.
 
 ## [9. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 

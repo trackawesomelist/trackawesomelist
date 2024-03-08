@@ -105,10 +105,10 @@
 *   [django-rest-framework (⭐27k)](https://github.com/encode/django-rest-framework) - Web APIs for Django.
 *   [django-cors-headers (⭐5.2k)](https://github.com/adamchainz/django-cors-headers) - If your back-end and front-end are on different servers, you need this.
 *   [dj-rest-auth (⭐1.5k)](https://github.com/jazzband/dj-rest-auth) - Authentication for Django Rest Framework.
-*   [django-rest-knox (⭐1k)](https://github.com/James1345/django-rest-knox) - Authentication Module for django-rest-auth.
+*   [django-rest-knox (⭐1.1k)](https://github.com/James1345/django-rest-knox) - Authentication Module for django-rest-auth.
 *   [djoser (⭐2.4k)](https://github.com/sunscrapers/djoser) - REST implementation of Django auth.
 *   [djaq (⭐70)](https://github.com/paul-wolf/djaq) - An instant remote API to Django models with a powerful query language.
-*   [django-rest-framework-simplejwt (⭐3.7k)](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF.
+*   [django-rest-framework-simplejwt (⭐3.8k)](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF.
 *   [django-webpack-loader (⭐2.5k)](https://github.com/owais/django-webpack-loader) - Transparently use webpack with Django.
 *   [drf-yasg (⭐3.3k)](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
 *   [graphene-django (⭐4.2k)](https://github.com/graphql-python/graphene-django) - GraphQL for Django.

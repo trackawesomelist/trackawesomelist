@@ -116,8 +116,8 @@
 
 ### Dynamic type checkers
 
-*   [pydantic (⭐16k)](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
-*   [typeguard (⭐1.3k)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
+*   [pydantic (⭐18k)](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
+*   [typeguard (⭐1.4k)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
 
 ## [13. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 

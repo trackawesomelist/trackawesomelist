@@ -22,11 +22,11 @@
 
 ### Web Apps (open source)
 
-*   [Tiramisu Transit (⭐3)](https://github.com/CMU-RERC-APT/tiramisu3-pr) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. No longer maintained.
+*   [Tiramisu Transit (⭐4)](https://github.com/CMU-RERC-APT/tiramisu3-pr) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. No longer maintained.
 
 ### Native Apps (open source)
 
-*   [Tiramisu Transit (⭐3)](https://github.com/CMU-RERC-APT/tiramisu3-pr#mobile-app-client) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. Written using Ionic framework. No longer maintained.
+*   [Tiramisu Transit (⭐4)](https://github.com/CMU-RERC-APT/tiramisu3-pr#mobile-app-client) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. Written using Ionic framework. No longer maintained.
 
 ## [4. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 

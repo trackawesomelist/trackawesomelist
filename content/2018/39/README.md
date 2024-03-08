@@ -397,7 +397,7 @@ Rename Index.txt to Index.html
 
 ### no-std crates / WIP
 
-*   [OxCC (⭐17)](https://github.com/jonlamb-gh/oxcc): A port of Open Source Car Control written in Rust
+*   [OxCC (⭐18)](https://github.com/jonlamb-gh/oxcc): A port of Open Source Car Control written in Rust
 
 ## [25. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 

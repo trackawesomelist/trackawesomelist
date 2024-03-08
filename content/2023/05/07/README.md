@@ -18,7 +18,7 @@
 
 View and create Linear tickets from any GitHub PR or issue.
 
-Installs: 7 | Stars: 20 | Last update: 30 Jan 2024
+Installs: 6 | Stars: 20 | Last update: 30 Jan 2024
 
 ## [3. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 

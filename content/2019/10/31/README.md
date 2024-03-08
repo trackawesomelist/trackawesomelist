@@ -28,7 +28,7 @@
 
 ### Backports and improvements
 
-*   [typed-ast (⭐224)](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments.
+*   [typed-ast (⭐226)](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments.
 *   [typing-extensions (⭐1.5k)](https://github.com/python/typing/tree/master/typing_extensions) - Backported and experimental type hints.
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)

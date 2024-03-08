@@ -161,11 +161,11 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [frabjous/knap (⭐299)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
+*   [frabjous/knap (⭐303)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
 
 ### Treesitter Based / Diagnostics
 
-*   [ziontee113/syntax-tree-surfer (⭐441)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
+*   [ziontee113/syntax-tree-surfer (⭐449)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
 
 ---
 

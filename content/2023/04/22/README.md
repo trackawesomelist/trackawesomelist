@@ -88,7 +88,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [Ahoo-Wang/Simba (⭐14)](https://github.com/Ahoo-Wang/Simba) - Distributed lock service
+*   [Ahoo-Wang/Simba (⭐15)](https://github.com/Ahoo-Wang/Simba) - Distributed lock service
 
 ## [9. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Webarchive (⭐75)](https://github.com/derfenix/webarchive) - Lightweight self-hosted *wayback machine* that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
+*   [Webarchive (⭐77)](https://github.com/derfenix/webarchive) - Lightweight self-hosted *wayback machine* that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
 
 ## [11. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
@@ -167,7 +167,7 @@
 
 ### Bars and Lines / Diagnostics
 
-*   [luukvbaal/statuscol.nvim (⭐405)](https://github.com/luukvbaal/statuscol.nvim) - Configurable 'statuscolumn' with builtin segments and click handlers.
+*   [luukvbaal/statuscol.nvim (⭐417)](https://github.com/luukvbaal/statuscol.nvim) - Configurable 'statuscolumn' with builtin segments and click handlers.
 
 ## [15. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 

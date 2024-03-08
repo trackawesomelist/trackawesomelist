@@ -354,7 +354,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [LeapChat](https://www.leapchat.org/) - Ephemeral, encrypted, in-browser chat rooms. ([Source Code (⭐174)](https://github.com/cryptag/leapchat)) `AGPL-3.0` `Docker/Nodejs/Shell`
+*   [LeapChat](https://www.leapchat.org/) - Ephemeral, encrypted, in-browser chat rooms. ([Source Code (⭐176)](https://github.com/cryptag/leapchat)) `AGPL-3.0` `Docker/Nodejs/Shell`
 
 ### Software / Miscellaneous
 
@@ -364,7 +364,7 @@
 
 ### Driver crates / Other
 
-*   [ST7789](http://crates.io/crates/st7789) - SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix used in the PineTime watch - [github (⭐42)](https://github.com/almindor/st7789) - ![crates.io](https://img.shields.io/crates/v/st7789.svg)
+*   [ST7789](http://crates.io/crates/st7789) - SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix used in the PineTime watch - [github (⭐43)](https://github.com/almindor/st7789) - ![crates.io](https://img.shields.io/crates/v/st7789.svg)
 *   [ST7565](http://crates.io/crates/st7565) - SPI - An embedded-graphics compatible driver for LCD displays based on the ST7565 chip - [github (⭐4)](https://github.com/Finomnis/st7565) - ![crates.io](https://img.shields.io/crates/v/st7565.svg)
 
 ## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)

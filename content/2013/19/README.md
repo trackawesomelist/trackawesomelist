@@ -14,5 +14,5 @@
 
 ---
 
-- Prev: [Jun 03 - Jun 09, 2013](/content/2013/22/README.md)
+- Prev: [Jun 10 - Jun 16, 2013](/content/2013/23/README.md)
 - Next: [Apr 22 - Apr 28, 2013](/content/2013/16/README.md)

@@ -28,15 +28,15 @@
 
 *   [bcrypt-Node.js](https://github.com/shaneGirish/bcrypt-Node.js) - Native implementation of bcrypt for Node.js.
 *   [cryptico (⭐1.2k)](https://github.com/wwwtyro/cryptico) - Easy-to-use encryption system utilizing RSA and AES for JavaScript.
-*   [cryptojs (⭐318)](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for Node.js.
+*   [cryptojs (⭐320)](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for Node.js.
 *   [forge (⭐4.9k)](https://github.com/digitalbazaar/forge) - Native implementation of TLS in JavaScript and tools to write crypto-based and network-heavy webapps.
 *   [IronNode](https://docs.ironcorelabs.com/ironnode-sdk/overview) - Transform encryption library, a variant of proxy re-encryption, for encrypting to users or groups, and easily adding strong data controls to Node.js apps.
-*   [js-nacl (⭐488)](https://github.com/tonyg/js-nacl) - Pure-JavaScript High-level API to Emscripten-compiled libsodium routines.
-*   [jsencrypt (⭐6.4k)](https://github.com/travist/jsencrypt) - JavaScript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
-*   [JShashes (⭐707)](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for Node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
+*   [js-nacl (⭐491)](https://github.com/tonyg/js-nacl) - Pure-JavaScript High-level API to Emscripten-compiled libsodium routines.
+*   [jsencrypt (⭐6.5k)](https://github.com/travist/jsencrypt) - JavaScript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
+*   [JShashes (⭐708)](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for Node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
 *   [jsThemis (⭐1.8k)](https://github.com/cossacklabs/themis/wiki/Nodejs-Howto) - JavaScript wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 *   [milagro-crypto-js (⭐16)](https://github.com/apache/incubator-milagro-crypto-js) - MCJS is a standards compliant JavaScript cryptographic library with no external dependencies except for the random seed source. Compatible for Node.js and browser. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3, Pairing-Based Cryptography and New Hope.
-*   [node.bcrypt.js (⭐7.2k)](https://github.com/ncb000gt/node.bcrypt.js) - bcrypt for Node.js.
+*   [node.bcrypt.js (⭐7.3k)](https://github.com/ncb000gt/node.bcrypt.js) - bcrypt for Node.js.
 *   [sjcl (⭐7.1k)](https://github.com/bitwiseshiftleft/sjcl) - Stanford JavaScript Crypto Library.
 
 ### Objective-C / Git
@@ -45,8 +45,8 @@
 
 ### Swift / Git
 
-*   [OpenSSL (⭐40)](https://github.com/Zewo/OpenSSL) - Swift OpenSSL for macOS and Linux.
-*   [Swift-Sodium (⭐502)](https://github.com/jedisct1/swift-sodium) - Swift interface to the Sodium library for common crypto operations for iOS and macOS.
+*   [OpenSSL (⭐39)](https://github.com/Zewo/OpenSSL) - Swift OpenSSL for macOS and Linux.
+*   [Swift-Sodium (⭐505)](https://github.com/jedisct1/swift-sodium) - Swift interface to the Sodium library for common crypto operations for iOS and macOS.
 *   [SwiftThemis (⭐1.8k)](https://github.com/cossacklabs/themis/wiki/Swift-Howto) - Swift wrapper on Themis for iOS and macOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ## [4. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)

@@ -60,7 +60,7 @@
 
 ### Software / Blogging Platforms
 
-*   [Mataroa](https://mataroa.blog/) - Mataroa is a naked blogging platform for minimalists. ([Source Code (⭐175)](https://github.com/mataroa-blog/mataroa)) `MIT` `Python`
+*   [Mataroa](https://mataroa.blog/) - Mataroa is a naked blogging platform for minimalists. ([Source Code (⭐178)](https://github.com/mataroa-blog/mataroa)) `MIT` `Python`
 
 ### Software / Learning and Courses
 
@@ -68,7 +68,7 @@
 
 ### Software / Search Engines
 
-*   [Websurfx (⭐528)](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
+*   [Websurfx (⭐548)](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
 
 ## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -92,11 +92,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [Wansmer/symbol-usage.nvim (⭐162)](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols.
+*   [Wansmer/symbol-usage.nvim (⭐175)](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols.
 
 ### Utility / Diagnostics
 
-*   [luckasRanarison/nvim-devdocs (⭐210)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
+*   [luckasRanarison/nvim-devdocs (⭐215)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
 
 ### Editing Support / Diagnostics
 
@@ -104,7 +104,7 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [chrisgrieser/nvim-kickstart-python (⭐79)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
+*   [chrisgrieser/nvim-kickstart-python (⭐84)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
 
 ---
 

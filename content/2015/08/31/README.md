@@ -47,7 +47,7 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [bus-router (⭐34)](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM (⭐5.9k)](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
+*   [bus-router (⭐34)](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM (⭐6k)](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
 
 ## [5. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -116,7 +116,6 @@
 
 ### Analysis / Functional Analysis
 
-*   [An Introduction to Functional Analysis](http://www.math.uwaterloo.ca/~lwmarcou/Preprints/LinearAnalysis.pdf) - Laurent W. Marcoux (University of Waterloo)
 *   [Functional Analysis: Lecture Notes](http://users.math.msu.edu/users/jeffrey/920/920notes.pdf) - Jeff Schenker (Michigan State University)
 *   [Topics in Real and Functional Analysis](https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf) - Gerald Teschl
 *   [Functional Analysis](http://www2.math.ou.edu/~cremling/teaching/lecturenotes/fa-new/LN-I.pdf) - Christian Remling

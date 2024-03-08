@@ -40,7 +40,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LLMStack (⭐754)](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data. ![GitHub Repo stars](https://img.shields.io/github/stars/trypromptly/LLMStack?style=social)
+*   [LLMStack (⭐951)](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data. ![GitHub Repo stars](https://img.shields.io/github/stars/trypromptly/LLMStack?style=social)
 
 ## [6. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
@@ -72,7 +72,7 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [askfiy/visual\_studio\_code (⭐136)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
+*   [askfiy/visual\_studio\_code (⭐140)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
 
 ---
 

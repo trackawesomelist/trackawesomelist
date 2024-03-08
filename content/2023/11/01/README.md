@@ -16,7 +16,7 @@
 
 ### Books, blogs, and training materials / Community Chat Rooms
 
-*   [Tweede golf's workshop](https://workshop.tweede.golf) - A full workshop about Rust and embedded Rust. The embedded parts use the nRF52840-DK and a LIS3DH breakout board. ([github source (⭐4)](https://github.com/tweedegolf/rust-workshop))
+*   [Tweede golf's workshop](https://workshop.tweede.golf) - A full workshop about Rust and embedded Rust. The embedded parts use the nRF52840-DK and a LIS3DH breakout board. ([github source (⭐5)](https://github.com/tweedegolf/rust-workshop))
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -170,11 +170,11 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Programming Languages / [Other](#other-1)
 
-*   [Dataflow Framework (⭐964)](https://github.com/typetools/checker-framework) — An industrial-strength dataflow framework for Java. The Dataflow Framework is used in the Checker Framework, Google’s Error Prone, Uber’s NullAway, Meta’s Nullsafe, and in other contexts. It is distributed with the Checker Framework.
+*   [Dataflow Framework (⭐973)](https://github.com/typetools/checker-framework) — An industrial-strength dataflow framework for Java. The Dataflow Framework is used in the Checker Framework, Google’s Error Prone, Uber’s NullAway, Meta’s Nullsafe, and in other contexts. It is distributed with the Checker Framework.
 
 ### Other / [Other](#other-1)
 
-*   [kani (⭐1.7k)](https://github.com/model-checking/kani) — The Kani Rust Verifier is a bit-precise model checker for Rust.  Kani is particularly useful for verifying unsafe code blocks in Rust,  where the "unsafe superpowers" are unchecked by the compiler. Kani verifies:
+*   [kani (⭐1.8k)](https://github.com/model-checking/kani) — The Kani Rust Verifier is a bit-precise model checker for Rust.  Kani is particularly useful for verifying unsafe code blocks in Rust,  where the "unsafe superpowers" are unchecked by the compiler. Kani verifies:
 *   Memory safety (e.g., null pointer dereferences) \* User-specified assertions (i.e., assert!(...)) \* The absence of panics (e.g., unwrap() on None values) \* The absence of some types of unexpected behavior (e.g., arithmetic overflows)
 *   [vale](https://vale.sh) — A syntax-aware linter for prose built with speed and extensibility in mind.
 

@@ -34,7 +34,7 @@
 
 ### Scrollbar / Diagnostics
 
-*   [lewis6991/satellite.nvim (⭐447)](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar.
+*   [lewis6991/satellite.nvim (⭐455)](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -69,11 +69,11 @@
 
 ### Software / Booking and Scheduling
 
-*   [Seatsurfing](https://seatsurfing.app/) - Webbased app to book seats, desks and rooms for offices. ([Demo](https://seatsurfing.app/get-started/), [Source Code (⭐71)](https://github.com/seatsurfing/backend)) `GPL-3.0` `Docker`
+*   [Seatsurfing](https://seatsurfing.app/) - Webbased app to book seats, desks and rooms for offices. ([Demo](https://seatsurfing.app/get-started/), [Source Code (⭐74)](https://github.com/seatsurfing/backend)) `GPL-3.0` `Docker`
 
 ### Software / Money, Budgeting & Management
 
-*   [Actual](https://actualbudget.github.io/docs/) - Actual is a local-first personal finance tool based on zero-sum budgeting. It support synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code (⭐2.4k)](https://github.com/actualbudget/actual-server)) `MIT` `Nodejs/Docker`
+*   [Actual](https://actualbudget.github.io/docs/) - Actual is a local-first personal finance tool based on zero-sum budgeting. It support synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code (⭐2.5k)](https://github.com/actualbudget/actual-server)) `MIT` `Nodejs/Docker`
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -89,7 +89,6 @@
 
 ### Tutorials
 
-*   [WalletConnect Quickstart](https://developer.algorand.org/docs/get-details/walletconnect/) - Overview and quick start guide to WalletConnect protocol.
 *   [Stateless session management with the Pera wallet](https://developer.algorand.org/tutorials/stateless-session-management-with-the-pera-wallet/) - Pera Wallet connection example with Nextjs and Redux.
 
 ## [13. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)

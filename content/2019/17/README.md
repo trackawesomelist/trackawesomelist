@@ -354,7 +354,7 @@
 
 ### no-std crates / WIP
 
-*   [Rubble (⭐394)](https://github.com/jonas-schievink/rubble): A pure-Rust embedded BLE stack ![crates.io](https://img.shields.io/crates/v/rubble.svg)
+*   [Rubble (⭐393)](https://github.com/jonas-schievink/rubble): A pure-Rust embedded BLE stack ![crates.io](https://img.shields.io/crates/v/rubble.svg)
 
 ## [20. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -444,7 +444,7 @@
 
 ### User Interface
 
-*   [ocaml-linenoise (⭐48)](https://github.com/ocaml-community/ocaml-linenoise) - Self-contained OCaml bindings to linenoise; easy high-level readline functionality in OCaml.
+*   [ocaml-linenoise (⭐49)](https://github.com/ocaml-community/ocaml-linenoise) - Self-contained OCaml bindings to linenoise; easy high-level readline functionality in OCaml.
 
 ### Package Management
 
@@ -452,9 +452,9 @@
     *   [OPAM](http://opam.ocamlpro.com/) – A flexible Git-friendly package manager with multiple compiler support.
     *   [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
     *   [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows (deprecated since 2021).
-    *   [Diskuv OCaml (⭐59)](https://github.com/diskuv/dkml-installer-ocaml#readme) - Diskuv OCaml distribution for Windows.
+    *   [Diskuv OCaml (⭐60)](https://github.com/diskuv/dkml-installer-ocaml#readme) - Diskuv OCaml distribution for Windows.
     *   [makorel (⭐8)](https://github.com/sagotch/makorel) – Release OPAM packages easily.
-    *   [esy (⭐835)](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
+    *   [esy (⭐837)](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
 
 ## [28. Bots](/content/hackerkid/bots/week/README.md)
 
@@ -618,7 +618,7 @@
 ### Vue SPA with Laravel [↗](https://awesomestacks.dev/vue-spa-with-laravel) / Resources
 
 *   [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙 (⭐43k)](https://github.com/babel/babel) - compiler for writing next generation JavaScript; Babel will turn your ES6+ code into ES5 friendly code, so you can start using it right now without waiting for browser support.
-*   [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙 (⭐206k)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
+*   [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙 (⭐207k)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
 *   [Sass](https://sass-lang.com) - [🛠️](https://stackshare.io/sass) - [🐙 (⭐15k)](https://github.com/sass/sass) - Sass is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
 *   [Laravel Mix](https://laravel.com/docs/5.8/mix) - [🐙 (⭐5.2k)](https://github.com/JeffreyWay/laravel-mix) - A build tool built on top of webpack, to easily compile any front end assets. (secret: works with or without Laravel)
 *   [Building a Vue SPA with Laravel](https://laravel-news.com/using-vue-router-laravel)

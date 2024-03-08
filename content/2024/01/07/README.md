@@ -22,7 +22,7 @@
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Obsidian Adwaita Theme (⭐88)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
+*   [Obsidian Adwaita Theme (⭐89)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
 
 ## [4. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 

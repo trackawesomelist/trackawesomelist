@@ -99,9 +99,9 @@
 
 ### Modules / Various Godot versions
 
-*   [godot-box2d (⭐226)](https://github.com/appsinacup/godot-box2d) - A [Box2D (⭐7.1k)](https://github.com/erincatto/box2d) physics server for Godot (Godot 4.2).
-*   [godot-jolt (⭐1.4k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐5k)](https://github.com/jrouwe/JoltPhysics) (Godot 4.2).
-*   [godot-rapier-2d (⭐79)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐3.2k)](https://github.com/dimforge/rapier) physics server for Godot (Godot 4.2).
+*   [godot-box2d (⭐238)](https://github.com/appsinacup/godot-box2d) - A [Box2D (⭐7.2k)](https://github.com/erincatto/box2d) physics server for Godot (Godot 4.2).
+*   [godot-jolt (⭐1.5k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐5k)](https://github.com/jrouwe/JoltPhysics) (Godot 4.2).
+*   [godot-rapier-2d (⭐81)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐3.4k)](https://github.com/dimforge/rapier) physics server for Godot (Godot 4.2).
 
 ## [8. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 

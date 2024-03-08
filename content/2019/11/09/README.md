@@ -16,11 +16,11 @@
 
 ### Software / Automation
 
-*   [nefarious (⭐892)](https://github.com/lardbit/nefarious) - Web application that automates downloading Movies and TV Shows. `GPL-3.0` `Python`
+*   [nefarious (⭐904)](https://github.com/lardbit/nefarious) - Web application that automates downloading Movies and TV Shows. `GPL-3.0` `Python`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Misago](https://misago-project.org/) - Misago is fully featured modern forum application that is fast, scalable and responsive. ([Source Code (⭐2.4k)](https://github.com/rafalp/Misago)) `GPL-2.0` `Docker`
+*   [Misago](https://misago-project.org/) - Misago is fully featured modern forum application that is fast, scalable and responsive. ([Source Code (⭐2.5k)](https://github.com/rafalp/Misago)) `GPL-2.0` `Docker`
 
 ## [3. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 

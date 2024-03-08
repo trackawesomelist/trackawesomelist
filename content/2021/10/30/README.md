@@ -42,7 +42,7 @@
 
 ### Notification
 
-*   [@zerodevx/svelte-toast (⭐739)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
+*   [@zerodevx/svelte-toast (⭐748)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
 
 ## [5. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 

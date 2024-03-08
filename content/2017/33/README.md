@@ -368,7 +368,7 @@
 
 ### Graphics
 
-*   [Coulr (⭐33)](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
+*   [Coulr (⭐35)](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
 
 ### System and Customization
 
@@ -390,11 +390,11 @@
 
 ### Icons / Homogeneous Icons
 
-*   [Obsidian (⭐178)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
+*   [Obsidian (⭐179)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
 
 ### Icons / Skeumorphic Icons
 
-*   [Elementary XFCE (⭐262)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
+*   [Elementary XFCE (⭐265)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ### Documentations / Skeumorphic Icons
 

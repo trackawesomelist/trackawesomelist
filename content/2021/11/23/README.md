@@ -58,7 +58,7 @@
 
 ### Tools / XML
 
-*   [pre-commit-deno (⭐5)](https://github.com/nozaq/pre-commit-deno) - pre-commit git hooks for Deno projects.
+*   [pre-commit-deno (⭐6)](https://github.com/nozaq/pre-commit-deno) - pre-commit git hooks for Deno projects.
 
 ### Presentations / XML
 

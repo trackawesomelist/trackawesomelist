@@ -34,7 +34,7 @@
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [IntelliJ IDEA (⭐146)](https://github.com/exigow/intellij-gdscript) - Syntax highlighting and autocompletion.
+*   [IntelliJ IDEA (⭐147)](https://github.com/exigow/intellij-gdscript) - Syntax highlighting and autocompletion.
 
 ## [5. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Authentication and Authorization
 
-*   🍰 [TwoFactorAuth plugin (⭐36)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth (⭐992)](https://github.com/RobThree/TwoFactorAuth) library.
+*   🍰 [TwoFactorAuth plugin (⭐36)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth (⭐1k)](https://github.com/RobThree/TwoFactorAuth) library.
 
 ## [15. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 

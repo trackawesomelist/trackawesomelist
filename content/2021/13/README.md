@@ -58,7 +58,7 @@
 
 ### Multimedia
 
-*   [Clapper (⭐643)](https://github.com/Rafostar/clapper) - Simple and modern media player.
+*   [Clapper (⭐649)](https://github.com/Rafostar/clapper) - Simple and modern media player.
 
 ## [9. Awesome V](/content/vlang/awesome-v/week/README.md)
 
@@ -315,11 +315,11 @@
 
 ### Deployment Tools / Discovery
 
-*   [Colmena (⭐861)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
+*   [Colmena (⭐901)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
 
 ### Development / Discovery
 
-*   [pre-commit-hooks.nix (⭐406)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
+*   [pre-commit-hooks.nix (⭐417)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 
 ### Programming Languages / Arduino
 
@@ -573,7 +573,7 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [jut (⭐173)](https://github.com/kracekumar/jut) - CLI to nicely display notebooks in the terminal.
+*   [jut (⭐175)](https://github.com/kracekumar/jut) - CLI to nicely display notebooks in the terminal.
 
 ## [60. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 

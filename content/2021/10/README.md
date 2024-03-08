@@ -124,8 +124,8 @@
 
 ### Tools / Linters
 
-*   [flake8-typing-imports (⭐47)](https://github.com/asottile/flake8-typing-imports) - Plugin which checks that typing imports are properly guarded.
-*   [flake8-typing-only-imports (⭐103)](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 plugin that helps identify which imports to put into type-checking blocks, and how to adjust your type annotations once imports are moved.
+*   [flake8-typing-imports (⭐48)](https://github.com/asottile/flake8-typing-imports) - Plugin which checks that typing imports are properly guarded.
+*   [flake8-typing-only-imports (⭐107)](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 plugin that helps identify which imports to put into type-checking blocks, and how to adjust your type annotations once imports are moved.
 
 ## [11. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
@@ -327,15 +327,15 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Gokapi (⭐898)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go/Docker`
+*   [Gokapi (⭐918)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go/Docker`
 
 ### Software / Inventory Management
 
-*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Demo](https://inventree.org/demo), [Source Code (⭐3.4k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
+*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Demo](https://inventree.org/demo), [Source Code (⭐3.6k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
 
 ### Software / Note-taking & Editors
 
-*   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar (alternative to Evernote). ([Source Code (⭐41k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
+*   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar (alternative to Evernote). ([Source Code (⭐42k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
 
 ## [25. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -425,7 +425,7 @@
 ### Standalone apps / Playground
 
 *   :octocat: [alm (⭐3k)](https://github.com/alm-tools/alm) - A next generation IDE just for TypeScript written in TypeScript + React
-*   :octocat: [SnowFS (⭐1.2k)](https://github.com/snowtrack/snowfs) - a fast, scalable version control file storage for graphic files
+*   :octocat: [SnowFS (⭐1.3k)](https://github.com/snowtrack/snowfs) - a fast, scalable version control file storage for graphic files
 
 ### Libraries / Chrome Extensions
 

@@ -83,7 +83,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [rmehri01/onenord.nvim (⭐455)](https://github.com/rmehri01/onenord.nvim) - A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
+*   [rmehri01/onenord.nvim (⭐457)](https://github.com/rmehri01/onenord.nvim) - A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
 
 ### Utility / Diagnostics
 

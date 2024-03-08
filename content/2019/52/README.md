@@ -29,7 +29,7 @@
 ### Libraries
 
 *   [essential-json (⭐1)](https://github.com/arkanovicz/essential-json) - A lightweight Java library for serialization, parsing and manipulation with a clean and precise API.
-*   [dsl-json (⭐980)](https://github.com/ngs-doo/dsl-json) - A very fast streaming JSON library. Operates on byte arrays.
+*   [dsl-json (⭐981)](https://github.com/ngs-doo/dsl-json) - A very fast streaming JSON library. Operates on byte arrays.
 *   [mjson (⭐81)](https://github.com/bolerio/mjson) - Lean JSON Library for Java, with a compact, elegant API.
 
 ### Testing
@@ -189,21 +189,21 @@
 
 ### Asset Management
 
-*   🍰 [AssetCompress plugin (⭐367)](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
+*   🍰 [AssetCompress plugin (⭐368)](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
 
 ### Auditing / Logging
 
-*   🍰 [DatabaseLog plugin (⭐42)](https://github.com/dereuromark/CakePHP-DatabaseLog) - Simple and stand-alone logging to database instead of files.
+*   🍰 [DatabaseLog plugin (⭐43)](https://github.com/dereuromark/CakePHP-DatabaseLog) - Simple and stand-alone logging to database instead of files.
 
 ### Authentication and Authorization
 
-*   🍰 [Authentication plugin (⭐112)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
-*   🍰 [Authorization plugin (⭐71)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
-*   🍰 [TinyAuth plugin (⭐127)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role based (single/multi) authorization as very light-weight approach.
+*   🍰 [Authentication plugin (⭐113)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
+*   🍰 [Authorization plugin (⭐72)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
+*   🍰 [TinyAuth plugin (⭐128)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role based (single/multi) authorization as very light-weight approach.
 
 ### Code Analysis
 
-*   🍰 [IdeHelper plugin (⭐177)](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
+*   🍰 [IdeHelper plugin (⭐179)](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
 *   🍰 [TestHelper plugin (⭐7)](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
 
 ### Queue
@@ -224,7 +224,7 @@
 
 ### Migration
 
-*   🍰 [Upgrade app (⭐108)](https://github.com/cakephp/upgrade) - Official upgrade app for 3.x=>4.x and 4.x=>5.x.
+*   🍰 [Upgrade app (⭐109)](https://github.com/cakephp/upgrade) - Official upgrade app for 3.x=>4.x and 4.x=>5.x.
 
 ### Miscellaneous
 
@@ -245,7 +245,7 @@
 
 ### Security
 
-*   🍰 [Muffin/Throttle plugin (⭐61)](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
+*   🍰 [Muffin/Throttle plugin (⭐62)](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
 
 ### SEO
 
@@ -253,9 +253,9 @@
 
 ### Templating
 
-*   🍰 [Bake plugin (⭐105)](https://github.com/cakephp/bake) - Provides code generation functionality.
-*   🍰 [BootstrapUI plugin (⭐336)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 4/5 integration.
-*   🍰 [CsvView plugin (⭐174)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
+*   🍰 [Bake plugin (⭐106)](https://github.com/cakephp/bake) - Provides code generation functionality.
+*   🍰 [BootstrapUI plugin (⭐337)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 4/5 integration.
+*   🍰 [CsvView plugin (⭐175)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 
 ## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -450,7 +450,7 @@
 
 ### BaaS
 
-*   [onesignal.com](https://onesignal.com/) — Unlimited free push notifications
+*   [onesignal.com](https://onesignal.com/) — Unlimited free push notifications. 10,000 email sends per month, with unlimited contacts and access to Auto Warm Up.
 *   [paraio.com](https://paraio.com) — Backend service API with flexible authentication, full-text search and caching. Free for one app, 1GB of app data.
 *   [progress.com](https://www.progress.com/kinvey) — Mobile backend, starter plan has unlimited requests/second, with 1 GB of data storage. Enterprise application support
 *   [pushbots.com](https://pushbots.com/) — Push notification service. Free for up to 1.5 million pushes/month
@@ -630,8 +630,8 @@
     *   [dispatch (⭐47)](https://github.com/inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
     *   [Lambda Soup (⭐371)](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
     *   [Markup.ml (⭐146)](https://github.com/aantron/markup.ml) - Error-recovering streaming HTML5 and XML parsers, serializers.
-    *   [gen\_js\_api (⭐176)](https://github.com/LexiFi/gen_js_api) - gen\_js\_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
-    *   [routes (⭐134)](https://github.com/anuragsoni/routes) - Typed routes for OCaml/ReasonML web applications.
+    *   [gen\_js\_api (⭐177)](https://github.com/LexiFi/gen_js_api) - gen\_js\_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
+    *   [routes (⭐136)](https://github.com/anuragsoni/routes) - Typed routes for OCaml/ReasonML web applications.
 
 ## [20. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 

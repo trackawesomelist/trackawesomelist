@@ -51,10 +51,10 @@
 ### Cryptography / Apache License
 
 *   [fletcher (⭐0)](https://github.com/darkestkhan/fletcher) - Trivial implementation of fletcher\_16 checksum computation algorithm.
-*   [base58-ada (⭐4)](https://github.com/MichaelAllenHardeman/base58_ada) - Base58 encoding and decoding in Ada.
+*   [base58-ada (⭐3)](https://github.com/MichaelAllenHardeman/base58_ada) - Base58 encoding and decoding in Ada.
 *   [libsparkcrypto (⭐27)](https://github.com/Componolit/libsparkcrypto) - A cryptographic library implemented in SPARK.
 *   [sip-hash (⭐1)](https://github.com/grim7reaper/SipHash) - A pure Ada implementation of the SipHash PRF.
-*   [libkeccak (⭐32)](https://github.com/damaki/libkeccak) - A SPARK implementation of the Keccak family of sponge functions and related constructions.
+*   [libkeccak (⭐33)](https://github.com/damaki/libkeccak) - A SPARK implementation of the Keccak family of sponge functions and related constructions.
 *   [ascon-spark (⭐3)](https://github.com/jhumphry/Ascon_SPARK) - Ada/SPARK implementation of the Ascon Authenticated Encryption with Additional Data Algorithm.
 *   [spark-sip-hash (⭐5)](https://github.com/jhumphry/SPARK_SipHash) - Ada/SPARK implementation of the SipHash keyed hash function.
 *   [spark-norx (⭐8)](https://github.com/jhumphry/SPARK_NORX) - Ada/SPARK implementation of the NORX Authenticated Encryption with Additional Data Algorithm.

@@ -22,7 +22,7 @@
 
 *   [pluralith](https://www.pluralith.com/) - Terraform state visualization and automated generation of infrastructure documentation. :heavy\_dollar\_sign:
 
-### Managed Terraform Platforms / IDE
+### Managed Terraform Platforms :heavy_dollar_sign: / IDE
 
 *   [Brainboard](https://www.brainboard.co) - Visually Design, Deploy & Manage modern cloud infrastructures starting from any Cloud Provider - AWS, GCP, Azure :heavy\_dollar\_sign:
 
@@ -30,15 +30,15 @@
 
 ### Command-Line Tools / Discovery
 
-*   [manix (⭐312)](https://github.com/mlvzk/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
+*   [manix (⭐318)](https://github.com/mlvzk/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
 
 ### Development / Discovery
 
-*   [flake.parts (⭐518)](https://github.com/hercules-ci/flake-parts) - Minimal Nix modules framework for Flakes: split your flakes into modules and get things done with community modules.
+*   [flake.parts (⭐536)](https://github.com/hercules-ci/flake-parts) - Minimal Nix modules framework for Flakes: split your flakes into modules and get things done with community modules.
 
 ### Programming Languages / Haskell
 
-*   [haskell-flake (⭐109)](https://github.com/srid/haskell-flake) - A `flake-parts` Nix module for Haskell development.
+*   [haskell-flake (⭐113)](https://github.com/srid/haskell-flake) - A `flake-parts` Nix module for Haskell development.
 
 ## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Briefkasten (⭐687)](https://github.com/ndom91/briefkasten) - Modern app for saving and managing your own bookmarks. Includes a browser extension. ([Demo](https://briefkastenhq.com/auth/signin)) `MIT` `Nodejs/Docker`
+*   [Briefkasten (⭐695)](https://github.com/ndom91/briefkasten) - Modern app for saving and managing your own bookmarks. Includes a browser extension. ([Demo](https://briefkastenhq.com/auth/signin)) `MIT` `Nodejs/Docker`
 
 ### Software / File Transfer - Web-based File Managers
 
@@ -66,7 +66,7 @@
 
 ### Software / Games
 
-*   [Posio (⭐531)](https://github.com/abrenaut/posio) - Geography multiplayer game. `MIT` `Python`
+*   [Posio (⭐535)](https://github.com/abrenaut/posio) - Geography multiplayer game. `MIT` `Python`
 
 ## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

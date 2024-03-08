@@ -51,13 +51,13 @@
 
 ### Third-Party Packages / Editors
 
-*   [django-business-logic (⭐198)](https://github.com/dgk/django-business-logic) - Visual DSL framework for Django.
-*   [django-quill-editor (⭐180)](https://github.com/LeeHanYeong/django-quill-editor) - Makes Quill.js easy to use on Django Forms and admin sites.
+*   [django-business-logic (⭐200)](https://github.com/dgk/django-business-logic) - Visual DSL framework for Django.
+*   [django-quill-editor (⭐181)](https://github.com/LeeHanYeong/django-quill-editor) - Makes Quill.js easy to use on Django Forms and admin sites.
 *   [django-tinymce (⭐1.2k)](https://github.com/jazzband/django-tinymce) - TinyMCE integration for Django.
 
 ### Third-Party Packages / Forms
 
-*   [django-shapeshifter (⭐171)](https://github.com/kennethlove/django-shapeshifter) - A class-based view to handle multiple forms in one view.
+*   [django-shapeshifter (⭐172)](https://github.com/kennethlove/django-shapeshifter) - A class-based view to handle multiple forms in one view.
 
 ### Resources / Community
 

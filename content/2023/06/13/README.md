@@ -73,7 +73,7 @@
 
 ### Validation / Playground
 
-*   [dto-classes (⭐69)](https://github.com/rsinger86/dto-classes) - Developer-friendly parsing, validation & serialization. Static types by default. Uses properties for field schemas, not decorators.
+*   [dto-classes (⭐72)](https://github.com/rsinger86/dto-classes) - Developer-friendly parsing, validation & serialization. Static types by default. Uses properties for field schemas, not decorators.
 
 ## [5. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
@@ -98,11 +98,11 @@
 
 ### Snippet / Diagnostics
 
-*   [TobinPalmer/rayso.nvim (⭐65)](https://github.com/TobinPalmer/rayso.nvim) - Create code snippets in Neovim using [ray.so](https://ray.so).
+*   [TobinPalmer/rayso.nvim (⭐67)](https://github.com/TobinPalmer/rayso.nvim) - Create code snippets in Neovim using [ray.so](https://ray.so).
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [dasupradyumna/midnight.nvim (⭐147)](https://github.com/dasupradyumna/midnight.nvim) - A modern black Neovim theme with comfortable color contrast for a pleasant visual experience, with LSP and Tree-sitter support.
+*   [dasupradyumna/midnight.nvim (⭐151)](https://github.com/dasupradyumna/midnight.nvim) - A modern black Neovim theme with comfortable color contrast for a pleasant visual experience, with LSP and Tree-sitter support.
 
 ## [9. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

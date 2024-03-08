@@ -45,13 +45,13 @@
 
 ### Official Resources
 
-*   [Changelog (⭐75k)](https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md)
+*   [Changelog (⭐76k)](https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md)
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing Support / Diagnostics
 
-*   [okuuva/auto-save.nvim (⭐75)](https://github.com/okuuva/auto-save.nvim) - Automatically saves your work as often as needed and as seldom as possible. Customizable with smart defaults. Maintained fork of Pocco81/auto-save.nvim.
+*   [okuuva/auto-save.nvim (⭐79)](https://github.com/okuuva/auto-save.nvim) - Automatically saves your work as often as needed and as seldom as possible. Customizable with smart defaults. Maintained fork of Pocco81/auto-save.nvim.
 
 ---
 

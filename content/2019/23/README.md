@@ -509,11 +509,11 @@ Free (Open Source)
 
 ### Strapi CMS with Gatsby [↗](https://awesomestacks.dev/strapi-cms-with-gatsby) / Resources
 
-*   [Strapi CMS](https://strapi.io) - [🐙 (⭐58k)](https://github.com/strapi/strapi) - Strapi is the Headless CMS developers love.
+*   [Strapi CMS](https://strapi.io) - [🐙 (⭐59k)](https://github.com/strapi/strapi) - Strapi is the Headless CMS developers love.
 
 ### Rock Solid Modern Rails [↗](https://awesomestacks.dev/rock-solid-modern-rails) / Resources
 
-*   [Rails](https://rubyonrails.org/) - [🛠](https://stackshare.io/rails) - [🐙 (⭐54k)](https://github.com/rails/rails) - An established web app framework with a focus on simplicity and productivity.
+*   [Rails](https://rubyonrails.org/) - [🛠](https://stackshare.io/rails) - [🐙 (⭐55k)](https://github.com/rails/rails) - An established web app framework with a focus on simplicity and productivity.
 *   [GraphQL Ruby](https://graphql-ruby.org/) - [🛠](https://stackshare.io/graphql-ruby) - [🐙 (⭐5.3k)](https://github.com/rmosolgo/graphql-ruby) - Ruby server implementation of the GraphQL specification.
 *   [Apollo Client](https://dev.apollodata.com/) - [🛠](https://stackshare.io/apollo) - [🐙 (⭐19k)](https://github.com/apollographql/apollo-client) - A powerfully extensible GraphQL JavaScript client.
 *   [Heroku](https://heroku.com) - [🛠️](https://stackshare.io/heroku) Developer friendly web app infrastructure provider with seamless Ruby/Rails support.
@@ -529,7 +529,7 @@ Free (Open Source)
 
 ### GCP Kubernetes Stack [↗](https://awesomestacks.dev/gcp-kubernetes-stack) / Resources
 
-*   [Kubernetes](https://kubernetes.io/) - [🐙 (⭐104k)](https://github.com/kubernetes/kubernetes) - [🛠](https://stackshare.io/kubernetes) - Production-Grade Container Scheduling and Management.
+*   [Kubernetes](https://kubernetes.io/) - [🐙 (⭐105k)](https://github.com/kubernetes/kubernetes) - [🛠](https://stackshare.io/kubernetes) - Production-Grade Container Scheduling and Management.
 
 ### Rails Monitoring Stack [↗](https://awesomestacks.dev/rails-monitoring-stack) / Resources
 
@@ -544,17 +544,17 @@ Free (Open Source)
 
 ### Streaming Analytics with Kafka, Spark, and Cassandra [↗](https://awesomestacks.dev/streaming-analytics-with-kafka-spark-and-cassandra) / Resources
 
-*   [Kafka](http://kafka.apache.org/) - [🛠](https://stackshare.io/kafka) - [🐙 (⭐26k)](https://github.com/apache/kafka) - Distributed, fault tolerant, high throughput pub-sub messaging system.
-*   [Apache Spark](https://spark.apache.org) - [🛠](https://stackshare.io/spark) - [🐙 (⭐37k)](https://github.com/apache/spark) - Fast and general engine for large-scale data processing.
-*   [Cassandra](http://cassandra.apache.org) - [🛠](https://stackshare.io/cassandra) - [🐙 (⭐8.3k)](https://github.com/apache/cassandra) - Highly-scalable partitioned row store.
+*   [Kafka](http://kafka.apache.org/) - [🛠](https://stackshare.io/kafka) - [🐙 (⭐27k)](https://github.com/apache/kafka) - Distributed, fault tolerant, high throughput pub-sub messaging system.
+*   [Apache Spark](https://spark.apache.org) - [🛠](https://stackshare.io/spark) - [🐙 (⭐38k)](https://github.com/apache/spark) - Fast and general engine for large-scale data processing.
+*   [Cassandra](http://cassandra.apache.org) - [🛠](https://stackshare.io/cassandra) - [🐙 (⭐8.4k)](https://github.com/apache/cassandra) - Highly-scalable partitioned row store.
 
 ### Self-Hosted Devops and Collaboration [↗](https://awesomestacks.dev/self-hosted-devops-and-collaboration) / Resources
 
 *   [Zulip](https://zulipchat.com) - [🛠](https://stackshare.io/zulip) - [🐙 (⭐19k)](https://github.com/zulip/zulip) - Powerful open source team chat.
-*   [Hubot](https://hubot.github.com) - [🛠](https://stackshare.io/hubot) - [🐙 (⭐16k)](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
+*   [Hubot](https://hubot.github.com) - [🛠](https://stackshare.io/hubot) - [🐙 (⭐17k)](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 *   [Sentry](https://sentry.io) - [🛠](https://stackshare.io/sentry) - [🐙 (⭐36k)](https://github.com/getsentry/sentry) - Cross-platform application monitoring, with a focus on error reporting.
 *   [Taiga.io](https://taiga.io) - [🛠](https://stackshare.io/taiga) - [🐙](https://github.com/taigaio) - Project management web application with scrum in mind.
-*   [Metabase](https://www.metabase.com/) - [🛠](https://stackshare.io/metabase) - [🐙 (⭐35k)](https://github.com/metabase/metabase) - An open-source business intelligence tool.
+*   [Metabase](https://www.metabase.com/) - [🛠](https://stackshare.io/metabase) - [🐙 (⭐36k)](https://github.com/metabase/metabase) - An open-source business intelligence tool.
 
 ### React Native with Expo and Hasura [↗](https://awesomestacks.dev/react-native-with-expo-and-hasura) / Resources
 

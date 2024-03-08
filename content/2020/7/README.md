@@ -613,7 +613,7 @@
 ### Driver crates / Other
 
 *   [ADXL355](https://crates.io/crates/adxl355) - SPI - 3-axis accelerometer - [Intro blog post](https://jitter.company/blog/2020/02/14/adxl355-embedded-hal-driver-crate/) - ![crates.io](https://img.shields.io/crates/v/adxl355.svg)
-*   [SHTCx](http://crates.io/crates/shtcx) - I2C - Temperature / humidity sensors - [github (⭐11)](https://github.com/dbrgn/shtcx-rs) - ![crates.io](https://img.shields.io/crates/v/shtcx.svg)
+*   [SHTCx](http://crates.io/crates/shtcx) - I2C - Temperature / humidity sensors - [github (⭐12)](https://github.com/dbrgn/shtcx-rs) - ![crates.io](https://img.shields.io/crates/v/shtcx.svg)
 
 ## [42. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
@@ -763,7 +763,7 @@ Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [OTS](https://ots.fyi/) - One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser. ([Source Code (⭐380)](https://github.com/Luzifer/ots)) `Apache-2.0` `Go`
+*   [OTS](https://ots.fyi/) - One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser. ([Source Code (⭐388)](https://github.com/Luzifer/ots)) `Apache-2.0` `Go`
 
 ### Software / Task Management & To-do Lists
 

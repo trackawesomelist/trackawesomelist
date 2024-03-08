@@ -97,11 +97,11 @@
 
 ### Software / Note-taking & Editors
 
-*   [Livebook](https://livebook.dev) - Realtime collaborative notebook app based on Markdown that supports running Elixir code snippets, TeX and Mermaid Diagrams. Easily deployed using Docker or Elixir. ([Source Code (⭐4.2k)](https://github.com/livebook-dev/livebook)) `Apache-2.0` `Elixir/Docker`
+*   [Livebook](https://livebook.dev) - Realtime collaborative notebook app based on Markdown that supports running Elixir code snippets, TeX and Mermaid Diagrams. Easily deployed using Docker or Elixir. ([Source Code (⭐4.3k)](https://github.com/livebook-dev/livebook)) `Apache-2.0` `Elixir/Docker`
 
 ### Software / Ticketing
 
-*   [OTOBO](https://otobo.de/en/) - Flexible web-based ticketing system used for Customer Service, Help Desk, IT Service Management. ([Demo](https://otobo.de/en/open-source-ticketing-system/#demos), [Source Code (⭐218)](https://github.com/RotherOSS/otobo)) `GPL-3.0` `Perl/Docker`
+*   [OTOBO](https://otobo.de/en/) - Flexible web-based ticketing system used for Customer Service, Help Desk, IT Service Management. ([Demo](https://otobo.de/en/open-source-ticketing-system/#demos), [Source Code (⭐222)](https://github.com/RotherOSS/otobo)) `GPL-3.0` `Perl/Docker`
 
 ## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

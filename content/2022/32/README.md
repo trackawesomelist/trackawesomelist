@@ -31,12 +31,12 @@
 
 ### Development / Discovery
 
-*   [dream2nix (⭐785)](https://github.com/nix-community/dream2nix) - A framework for automatically converting packages from other build systems to Nix.
-*   [rnix-lsp (⭐696)](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
+*   [dream2nix (⭐809)](https://github.com/nix-community/dream2nix) - A framework for automatically converting packages from other build systems to Nix.
+*   [rnix-lsp (⭐700)](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
 
 ### Programming Languages / Rust
 
-*   [crane (⭐674)](https://github.com/ipetkov/crane) - A Nix library for building Cargo projects with incremental artifact caching.
+*   [crane (⭐690)](https://github.com/ipetkov/crane) - A Nix library for building Cargo projects with incremental artifact caching.
 
 ## [5. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
@@ -52,7 +52,7 @@
 
 ### RSS Extensions / Outline Processor Markup Language
 
-*   [Podcast Index: the "podcast" namespace (⭐348)](https://github.com/Podcastindex-org/podcast-namespace) <sup>[865](https://t.me/s/aboutrss/865), [1235](https://t.me/s/aboutrss/1235), [1236](https://t.me/s/aboutrss/1236)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Podcastindex-org/podcast-namespace)
+*   [Podcast Index: the "podcast" namespace (⭐352)](https://github.com/Podcastindex-org/podcast-namespace) <sup>[865](https://t.me/s/aboutrss/865), [1235](https://t.me/s/aboutrss/1235), [1236](https://t.me/s/aboutrss/1236)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Podcastindex-org/podcast-namespace)
 *   [source namespace](http://source.scripting.com/#1653758422000) <sup>[1240](https://t.me/s/aboutrss/1240)</sup>: Markdown in RSS supported.
 
 ### Apps / Outline Processor Markup Language
@@ -72,8 +72,8 @@
 
 *   [Miniflux](https://miniflux.app/index.html) <sup>[369](https://t.me/s/aboutrss/369), [428](https://t.me/s/aboutrss/428), [831](https://t.me/s/aboutrss/831), [858](https://t.me/s/aboutrss/858), [982](https://t.me/s/aboutrss/982), [983](https://t.me/s/aboutrss/983)</sup> [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://miniflux.app/hosting.html)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/miniflux/miniflux)
     *   [docker-miniflux-postgresql (⭐22)](https://github.com/fengkx/docker-miniflux-postgresql) <sup>[607](https://t.me/s/aboutrss/607)</sup>: docker of miniflux RSS Reader with PostgreSQL in docker-compose [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/fengkx/docker-miniflux-postgresql)
-    *   [Awesome Miniflux (⭐25)](https://github.com/hirusi/awesome-miniflux) <sup>[858](https://t.me/s/aboutrss/858)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/hirusi/awesome-miniflux)
-    *   [Miniflux Indexer (⭐12)](https://github.com/QuantumGhost/miniflux-indexer) <sup>[1022](https://t.me/s/aboutrss/1022)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/QuantumGhost/miniflux-indexer)
+    *   [Awesome Miniflux (⭐26)](https://github.com/hirusi/awesome-miniflux) <sup>[858](https://t.me/s/aboutrss/858)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/hirusi/awesome-miniflux)
+    *   [Miniflux Indexer (⭐13)](https://github.com/QuantumGhost/miniflux-indexer) <sup>[1022](https://t.me/s/aboutrss/1022)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/QuantumGhost/miniflux-indexer)
     *   [Reading for RSS](https://apps.apple.com/app/reading-for-rss/id1611939852) <sup>[1219](https://t.me/s/aboutrss/1219)</sup> [![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/reading-for-rss/id1611939852)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
     *   [Inoreader to Miniflux/v2 GitHub Gist](https://gist.github.com/douo/3e37bc863c5af9cbf393fe8724be6bb4) <sup>[1323](https://t.me/s/aboutrss/1323)</sup>
 
@@ -244,7 +244,7 @@
 
 ### Learning
 
-*   [Awesome Graph Classification (⭐4.5k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Learning from graph structured data
+*   [Awesome Graph Classification (⭐4.7k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Learning from graph structured data
 
 ### Journals
 
@@ -445,7 +445,7 @@
 
 ### Third-Party Packages / Configuration
 
-*   [django-extra-settings (⭐438)](https://github.com/fabiocaccamo/django-extra-settings) - Config and manage typed extra settings using just the django admin.
+*   [django-extra-settings (⭐455)](https://github.com/fabiocaccamo/django-extra-settings) - Config and manage typed extra settings using just the django admin.
 
 ### Third-Party Packages / Files/Images
 
@@ -453,21 +453,21 @@
 
 ### Third-Party Packages / General
 
-*   [django-maintenance-mode (⭐430)](https://github.com/fabiocaccamo/django-maintenance-mode) - Shows a 503 error page when maintenance-mode is on.
+*   [django-maintenance-mode (⭐436)](https://github.com/fabiocaccamo/django-maintenance-mode) - Shows a 503 error page when maintenance-mode is on.
 *   [django-freeze (⭐92)](https://github.com/fabiocaccamo/django-freeze) - Convert your dynamic django site to a static one with one line of code.
 
 ### Third-Party Packages / Model Fields
 
-*   [django-any-urlfield (⭐43)](https://github.com/edoburu/django-any-urlfield) - An improved URL selector to choose between internal models and external URLs.
-*   [django-colorfield (⭐535)](https://github.com/fabiocaccamo/django-colorfield) - Color field for django models with a nice color-picker widget.
+*   [django-any-urlfield (⭐44)](https://github.com/edoburu/django-any-urlfield) - An improved URL selector to choose between internal models and external URLs.
+*   [django-colorfield (⭐545)](https://github.com/fabiocaccamo/django-colorfield) - Color field for django models with a nice color-picker widget.
 
 ### Third-Party Packages / Models
 
-*   [django-treenode (⭐554)](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree based stuff.
+*   [django-treenode (⭐571)](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree based stuff.
 
 ### Third-Party Packages / URLs
 
-*   [django-redirects (⭐61)](https://github.com/fabiocaccamo/django-redirects) - Redirects as they should be, with full control.
+*   [django-redirects (⭐62)](https://github.com/fabiocaccamo/django-redirects) - Redirects as they should be, with full control.
 
 ## [36. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
@@ -873,12 +873,12 @@
 ### Color / Diagnostics
 
 *   [lcheylus/overlength.nvim (⭐42)](https://github.com/lcheylus/overlength.nvim) - A small plugin to highlight too long lines.
-*   [brenoprata10/nvim-highlight-colors (⭐233)](https://github.com/brenoprata10/nvim-highlight-colors) - A plugin to highlight colors with Neovim.
+*   [brenoprata10/nvim-highlight-colors (⭐238)](https://github.com/brenoprata10/nvim-highlight-colors) - A plugin to highlight colors with Neovim.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [rebelot/kanagawa.nvim (⭐3.3k)](https://github.com/rebelot/kanagawa.nvim) - Neovim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
-*   [Mofiqul/adwaita.nvim (⭐197)](https://github.com/Mofiqul/adwaita.nvim) - Colorscheme based on GNOME Adwaita syntax with support for popular plugins.
+*   [Mofiqul/adwaita.nvim (⭐196)](https://github.com/Mofiqul/adwaita.nvim) - Colorscheme based on GNOME Adwaita syntax with support for popular plugins.
 
 ### Utility / Diagnostics
 
@@ -886,7 +886,7 @@
 
 ### Debugging / Diagnostics
 
-*   [andrewferrier/debugprint.nvim (⭐211)](https://github.com/andrewferrier/debugprint.nvim) - Debugging the print() way.
+*   [andrewferrier/debugprint.nvim (⭐216)](https://github.com/andrewferrier/debugprint.nvim) - Debugging the print() way.
 
 ### Neovim Lua Development / Diagnostics
 
@@ -894,24 +894,24 @@
 
 ### Dependency Management / Diagnostics
 
-*   [Saecki/crates.nvim (⭐700)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
+*   [Saecki/crates.nvim (⭐722)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 
 ### Git / Diagnostics
 
-*   [akinsho/git-conflict.nvim (⭐711)](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts.
+*   [akinsho/git-conflict.nvim (⭐730)](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts.
 
 ### Editing Support / Diagnostics
 
-*   [Pocco81/TrueZen.nvim (⭐911)](https://github.com/Pocco81/TrueZen.nvim) - Clean and elegant distraction-free writing.
-*   [Pocco81/HighStr.nvim (⭐277)](https://github.com/Pocco81/HighStr.nvim) - Highlight visual selections like in a normal document editor!
-*   [Pocco81/AutoSave.nvim (⭐527)](https://github.com/Pocco81/AutoSave.nvim) - Save your work before the world collapses or you type :qa!
+*   [Pocco81/TrueZen.nvim (⭐914)](https://github.com/Pocco81/TrueZen.nvim) - Clean and elegant distraction-free writing.
+*   [Pocco81/HighStr.nvim (⭐280)](https://github.com/Pocco81/HighStr.nvim) - Highlight visual selections like in a normal document editor!
+*   [Pocco81/AutoSave.nvim (⭐552)](https://github.com/Pocco81/AutoSave.nvim) - Save your work before the world collapses or you type :qa!
 *   [gbprod/stay-in-place.nvim (⭐80)](https://github.com/gbprod/stay-in-place.nvim) - Neovim plugin that prevent cursor from moving when using shift and filter actions.
 
 ### Preconfigured Configuration / Diagnostics
 
 *   [Abstract-IDE/Abstract (⭐177)](https://github.com/Abstract-IDE/Abstract) - Abstract, The Neovim configuration to achieve the power of Modern IDE.
 *   [vi-tality/neovitality (⭐56)](https://github.com/vi-tality/neovitality) - A full-featured Neovim distribution, packaged with Nix Flake for easy installation and reproducibility.
-*   [cstsunfu/.sea.nvim (⭐134)](https://github.com/cstsunfu/.sea.nvim) - A modular Neovim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number).
+*   [cstsunfu/.sea.nvim (⭐135)](https://github.com/cstsunfu/.sea.nvim) - A modular Neovim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number).
 
 ## [54. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -964,23 +964,23 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [ArchivesSpace](https://archivesspace.org/) - Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. ([Demo](https://archivesspace.org/application/sandbox), [Source Code (⭐319)](https://github.com/archivesspace/archivesspace)) `ECL-2.0` `Ruby`
-*   [Omeka S](https://omeka.org/s/) - Omeka S is a web publication system for universities, galleries, libraries, archives, and museums. It consists of a local network of independently curated exhibits sharing a collaboratively built pool of items, media, and their metadata. ([Source Code (⭐374)](https://github.com/omeka/omeka-s)) `GPL-3.0` `Nodejs`
+*   [ArchivesSpace](https://archivesspace.org/) - Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. ([Demo](https://archivesspace.org/application/sandbox), [Source Code (⭐321)](https://github.com/archivesspace/archivesspace)) `ECL-2.0` `Ruby`
+*   [Omeka S](https://omeka.org/s/) - Omeka S is a web publication system for universities, galleries, libraries, archives, and museums. It consists of a local network of independently curated exhibits sharing a collaboratively built pool of items, media, and their metadata. ([Source Code (⭐376)](https://github.com/omeka/omeka-s)) `GPL-3.0` `Nodejs`
 
 ### Software / Automation
 
-*   [Tube Archivist](https://www.tubearchivist.com/) `⚠` - Your self hosted YouTube media server: Subscribe, download, index, search and play your favorite videos. ([Source Code (⭐3.8k)](https://github.com/tubearchivist/tubearchivist)) `GPL-3.0` `Python/Docker`
+*   [Tube Archivist](https://www.tubearchivist.com/) `⚠` - Your self hosted YouTube media server: Subscribe, download, index, search and play your favorite videos. ([Source Code (⭐3.9k)](https://github.com/tubearchivist/tubearchivist)) `GPL-3.0` `Python/Docker`
 
 ### Software / Bookmarks and Link Sharing
 
 *   [Buku (⭐6k)](https://github.com/jarun/Buku) - A powerful bookmark manager and a personal textual mini-web. `GPL-3.0` `Python/deb`
-*   [Hackershare (⭐540)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers. `MIT` `Ruby`
-*   [LinkAce](https://www.linkace.org/) - A bookmark archive with automatic backups to the Internet Archive, link monitoring, and a full REST API. Installation is done via Docker, or as a simple PHP application. ([Demo](https://demo.linkace.org/guest/links), [Source Code (⭐2.3k)](https://github.com/Kovah/LinkAce/)) `GPL-3.0` `Docker/PHP`
+*   [Hackershare (⭐544)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers. `MIT` `Ruby`
+*   [LinkAce](https://www.linkace.org/) - A bookmark archive with automatic backups to the Internet Archive, link monitoring, and a full REST API. Installation is done via Docker, or as a simple PHP application. ([Demo](https://demo.linkace.org/guest/links), [Source Code (⭐2.4k)](https://github.com/Kovah/LinkAce/)) `GPL-3.0` `Docker/PHP`
 *   [linkding (⭐4.7k)](https://github.com/sissbruecker/linkding) - Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi. `MIT` `Docker/Python/Nodejs`
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Databag (⭐666)](https://github.com/balzack/databag) - Federated, end-to-end encrypted messaging service for the web, iOS, and Android, supporting text, photos, video, and WebRTC video and audio calls. ([Demo](https://databag.coredb.org/#/create)) `Apache-2.0` `Docker`
+*   [Databag (⭐682)](https://github.com/balzack/databag) - Federated, end-to-end encrypted messaging service for the web, iOS, and Android, supporting text, photos, video, and WebRTC video and audio calls. ([Demo](https://databag.coredb.org/#/create)) `Apache-2.0` `Docker`
 
 ### Software / Communication - SIP
 
@@ -988,7 +988,7 @@
 
 ### Software / Feed Readers
 
-*   [Yarr (⭐2.4k)](https://github.com/nkanaev/yarr) - Yarr (yet another rss reader) is a web-based feed aggregator which can be used both as a desktop application and a personal self-hosted server. `MIT` `Go`
+*   [Yarr (⭐2.5k)](https://github.com/nkanaev/yarr) - Yarr (yet another rss reader) is a web-based feed aggregator which can be used both as a desktop application and a personal self-hosted server. `MIT` `Go`
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
@@ -997,14 +997,14 @@
 ### Software / Miscellaneous
 
 *   [asciinema (⭐2.2k)](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts. ([Demo](https://asciinema.org/)) `Apache-2.0` `Elixir/Docker`
-*   [DOMJudge](https://www.domjudge.org/) - A system for running a programming contest, like the ICPC regional and world championship programming contests. ([Demo](https://www.domjudge.org/demo), [Source Code (⭐669)](https://github.com/DOMjudge/domjudge)) `GPL-2.0/BSD-3-Clause/MIT` `PHP`
-*   [Neko](https://neko.m1k1o.net) - A self hosted virtual browser (rabb.it clone) that runs in Docker. ([Source Code (⭐4.9k)](https://github.com/m1k1o/neko)) `Apache-2.0` `Docker/Go`
+*   [DOMJudge](https://www.domjudge.org/) - A system for running a programming contest, like the ICPC regional and world championship programming contests. ([Demo](https://www.domjudge.org/demo), [Source Code (⭐671)](https://github.com/DOMjudge/domjudge)) `GPL-2.0/BSD-3-Clause/MIT` `PHP`
+*   [Neko](https://neko.m1k1o.net) - A self hosted virtual browser (rabb.it clone) that runs in Docker. ([Source Code (⭐5k)](https://github.com/m1k1o/neko)) `Apache-2.0` `Docker/Go`
 *   [Teleport](https://goteleport.com/) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases. ([Source Code (⭐16k)](https://github.com/gravitational/teleport)) `Apache-2.0` `Go/Docker/K8S`
-*   [TeslaMate (⭐5k)](https://github.com/adriankumpf/teslamate) - A powerful data logger for Tesla vehicles. `MIT` `Elixir/Docker`
+*   [TeslaMate (⭐5.1k)](https://github.com/adriankumpf/teslamate) - A powerful data logger for Tesla vehicles. `MIT` `Elixir/Docker`
 
 ### Software / Photo and Video Galleries
 
-*   [This week in past (⭐49)](https://github.com/RouHim/this-week-in-past) - Aggregates images taken this week, from previous years and presents them on a web page with a simple slideshow. `MIT` `Docker/Rust`
+*   [This week in past (⭐55)](https://github.com/RouHim/this-week-in-past) - Aggregates images taken this week, from previous years and presents them on a web page with a simple slideshow. `MIT` `Docker/Rust`
 *   [Thumbor](http://thumbor.org/) - A smart imaging service and enables on-demand cropping, resizing, applying filters and optimizing images. ([Source Code (⭐9.8k)](https://github.com/thumbor/thumbor)) `MIT` `Python/Docker`
 
 ### Software / Remote Access
@@ -1017,7 +1017,7 @@
 
 ### Software / Search Engines
 
-*   [Manticore Search (⭐7.8k)](https://github.com/manticoresoftware/manticoresearch/) - Full-text search and data analytics, with fast response time for small, medium and big data (alternative to Elasticsearch). `GPL-2.0` `Docker/deb/C++`
+*   [Manticore Search (⭐8k)](https://github.com/manticoresoftware/manticoresearch/) - Full-text search and data analytics, with fast response time for small, medium and big data (alternative to Elasticsearch). `GPL-2.0` `Docker/deb/C++`
 
 ### Software / Software Development - Project Management
 

@@ -171,7 +171,7 @@
 
 ### Serverless Stack with React on AWS [↗](https://awesomestacks.dev/serverless-stack-with-react-on-aws) / Resources
 
-*   [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 (⭐101k)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+*   [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 (⭐102k)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 
 ### Rails Monitoring Stack [↗](https://awesomestacks.dev/rails-monitoring-stack) / Resources
 

@@ -83,12 +83,12 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [tadmccorkle/markdown.nvim (⭐41)](https://github.com/tadmccorkle/markdown.nvim) - Configurable tools for markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more.
+*   [tadmccorkle/markdown.nvim (⭐48)](https://github.com/tadmccorkle/markdown.nvim) - Configurable tools for markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more.
 
 ### Utility / Diagnostics
 
-*   [yutkat/confirm-quit.nvim (⭐18)](https://github.com/yutkat/confirm-quit.nvim) - Confirm before quitting Neovim.
-*   [bgaillard/readonly.nvim (⭐8)](https://github.com/bgaillard/readonly.nvim) - Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
+*   [yutkat/confirm-quit.nvim (⭐19)](https://github.com/yutkat/confirm-quit.nvim) - Confirm before quitting Neovim.
+*   [bgaillard/readonly.nvim (⭐10)](https://github.com/bgaillard/readonly.nvim) - Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
 
 ## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 

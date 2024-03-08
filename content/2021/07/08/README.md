@@ -39,11 +39,11 @@
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [ACP Admin](https://acp-admin.ch/) - CSA administration. Manage members, subscriptions, deliveries, drop-off locations, member participation, invoices and emails (documentation in French). ([Source Code (⭐31)](https://github.com/acp-admin/acp-admin/)) `MIT` `Ruby`
+*   [ACP Admin](https://acp-admin.ch/) - CSA administration. Manage members, subscriptions, deliveries, drop-off locations, member participation, invoices and emails (documentation in French). ([Source Code (⭐32)](https://github.com/acp-admin/acp-admin/)) `MIT` `Ruby`
 
 ### Software / Groupware
 
-*   [Tracim (⭐197)](https://github.com/tracim/tracim) - Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. `AGPL-3.0/LGPL-3.0/MIT` `Python`
+*   [Tracim (⭐198)](https://github.com/tracim/tracim) - Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. `AGPL-3.0/LGPL-3.0/MIT` `Python`
 
 ## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
 

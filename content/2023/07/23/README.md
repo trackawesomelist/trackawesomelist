@@ -34,11 +34,11 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [richardbizik/nvim-toc (⭐27)](https://github.com/richardbizik/nvim-toc) - Easily generate table of contents for markdown files.
+*   [richardbizik/nvim-toc (⭐29)](https://github.com/richardbizik/nvim-toc) - Easily generate table of contents for markdown files.
 
 ### Quickfix / Diagnostics
 
-*   [ashfinal/qfview.nvim (⭐42)](https://github.com/ashfinal/qfview.nvim) - Pretty quickfix/location view with consistent path-shorten and folding.
+*   [ashfinal/qfview.nvim (⭐43)](https://github.com/ashfinal/qfview.nvim) - Pretty quickfix/location view with consistent path-shorten and folding.
 
 ## [6. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 

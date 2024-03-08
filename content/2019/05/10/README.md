@@ -93,12 +93,12 @@
 
 ### Types / Playground
 
-*   [typesync (⭐1.4k)](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
+*   [typesync (⭐1.5k)](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
 *   [type-fest (⭐13k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 
 ### Web / Playground
 
-*   :octocat: [armour/vue-typescript-admin-template (⭐5.3k)](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
+*   :octocat: [armour/vue-typescript-admin-template (⭐5.4k)](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
 
 ## [9. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

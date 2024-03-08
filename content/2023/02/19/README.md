@@ -104,7 +104,7 @@
 
 ### Software / Automation
 
-*   [Matchering (⭐1.1k)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering (alternative to LANDR, eMastered, and MajorDecibel). `GPL-3.0` `Docker`
+*   [Matchering (⭐1.2k)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering (alternative to LANDR, eMastered, and MajorDecibel). `GPL-3.0` `Docker`
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -150,7 +150,7 @@
 
 ### Remote Development / Diagnostics
 
-*   [miversen33/netman.nvim (⭐301)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
+*   [miversen33/netman.nvim (⭐311)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
 
 ## [20. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -176,7 +176,7 @@
 
 ### Base Tools / Other
 
-*   [dockerize (⭐176)](https://github.com/powerman/dockerize) - Utility to simplify running applications in docker containers by [@jwilder](https://github.com/jwilder), [@powerman](https://github.com/powerman)
+*   [dockerize (⭐178)](https://github.com/powerman/dockerize) - Utility to simplify running applications in docker containers by [@jwilder](https://github.com/jwilder), [@powerman](https://github.com/powerman)
 
 ---
 

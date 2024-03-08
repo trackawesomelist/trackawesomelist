@@ -44,11 +44,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [stevanmilic/nvim-lspimport (⭐35)](https://github.com/stevanmilic/nvim-lspimport) - Automatically resolves imports for undefined terms. Useful with `pyright` language server.
+*   [stevanmilic/nvim-lspimport (⭐37)](https://github.com/stevanmilic/nvim-lspimport) - Automatically resolves imports for undefined terms. Useful with `pyright` language server.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Tsuzat/NeoSolarized.nvim (⭐132)](https://github.com/Tsuzat/NeoSolarized.nvim) - NeoSolarized colorscheme with full transparency.
+*   [Tsuzat/NeoSolarized.nvim (⭐141)](https://github.com/Tsuzat/NeoSolarized.nvim) - NeoSolarized colorscheme with full transparency.
 
 ## [7. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
 
@@ -86,7 +86,7 @@
 
 *   [exa (zap-zsh) (⭐16)](https://github.com/zap-zsh/exa) - Overrides common commands to use exa instead.
 *   [exa-ls (zpm-zsh) (⭐92)](https://github.com/zpm-zsh/ls) - Zsh plugin for ls.
-*   [eza (twopizza9621536) (⭐2)](https://github.com/twopizza9621536/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐5.5k)](https://github.com/eza-community/eza).
+*   [eza (twopizza9621536) (⭐2)](https://github.com/twopizza9621536/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐6k)](https://github.com/eza-community/eza).
 *   [run-scripts (⭐3)](https://github.com/Aireck2/zsh-run-scripts) - Runs scripts from `package.json`.
 
 ## [12. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)

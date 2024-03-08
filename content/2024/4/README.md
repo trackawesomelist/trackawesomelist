@@ -141,7 +141,7 @@
 
 ### Software / Groupware
 
-*   [Tine](https://www.tine-groupware.de/) - Software for digital collaboration in companies and organizations. From powerful groupware functionalities to clever add-ons, tine combines everything to make daily team collaboration easier. ([Source Code (⭐7)](https://github.com/tine-groupware/tine)) `AGPL-3.0` `Docker`
+*   [Tine](https://www.tine-groupware.de/) - Software for digital collaboration in companies and organizations. From powerful groupware functionalities to clever add-ons, tine combines everything to make daily team collaboration easier. ([Source Code (⭐9)](https://github.com/tine-groupware/tine)) `AGPL-3.0` `Docker`
 
 ## [15. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
@@ -163,11 +163,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [lopi-py/luau-lsp.nvim (⭐26)](https://github.com/lopi-py/luau-lsp.nvim) - A luau-lsp extension to improve your experience.
+*   [lopi-py/luau-lsp.nvim (⭐27)](https://github.com/lopi-py/luau-lsp.nvim) - A luau-lsp extension to improve your experience.
 
 ### AI / Diagnostics
 
-*   [gsuuon/model.nvim (⭐220)](https://github.com/gsuuon/model.nvim) - Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
+*   [gsuuon/model.nvim (⭐230)](https://github.com/gsuuon/model.nvim) - Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
 
 ### Marks / Diagnostics
 
@@ -175,7 +175,7 @@
 
 ### Project / Diagnostics
 
-*   [LintaoAmons/cd-project.nvim (⭐41)](https://github.com/LintaoAmons/cd-project.nvim) - All you need is just an easier way to `cd` to another project directory.
+*   [LintaoAmons/cd-project.nvim (⭐46)](https://github.com/LintaoAmons/cd-project.nvim) - All you need is just an easier way to `cd` to another project directory.
 
 ## [18. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -216,7 +216,7 @@
 
 ### Third-Party Packages / APIs
 
-*   [django-webhook (⭐92)](https://github.com/danihodovic/django-webhook) - A plug-and-play Django app for sending outgoing webhooks on model changes.
+*   [django-webhook (⭐117)](https://github.com/danihodovic/django-webhook) - A plug-and-play Django app for sending outgoing webhooks on model changes.
 
 ### Hosting / PaaS (Platforms-as-a-Service)
 
@@ -342,11 +342,11 @@
 
 ### IDE integrations
 
-*   [denops-docker.vim (⭐77)](https://github.com/skanehira/denops-docker.vim) - Manage docker containers and images in Vim. By [@skanehira](https://github.com/skanehira)
+*   [denops-docker.vim (⭐78)](https://github.com/skanehira/denops-docker.vim) - Manage docker containers and images in Vim. By [@skanehira](https://github.com/skanehira)
 
 ### Web / Other
 
-*   [Mafl (⭐68)](https://github.com/hywax/mafl) - Minimalistic flexible homepage by [@hywax](https://github.com/hywax/)
+*   [Mafl (⭐96)](https://github.com/hywax/mafl) - Minimalistic flexible homepage by [@hywax](https://github.com/hywax/)
 
 ---
 

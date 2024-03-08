@@ -71,7 +71,7 @@
 
 ### zgenom
 
-*   [zsh-quickstart-kit (⭐718)](https://github.com/unixorn/zsh-quickstart-kit) - A simple quickstart for using ZSH with [zgenom (⭐318)](https://github.com/jandamm/zgenom). This automatically configures ZSH to use [zgenom (⭐318)](https://github.com/jandamm/zgenom) to load a curated (but easily customizable) collection of plugins and periodically automatically update itself, the plugins, and the quickstart kit itself.
+*   [zsh-quickstart-kit (⭐722)](https://github.com/unixorn/zsh-quickstart-kit) - A simple quickstart for using ZSH with [zgenom (⭐322)](https://github.com/jandamm/zgenom). This automatically configures ZSH to use [zgenom (⭐322)](https://github.com/jandamm/zgenom) to load a curated (but easily customizable) collection of plugins and periodically automatically update itself, the plugins, and the quickstart kit itself.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

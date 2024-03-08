@@ -48,15 +48,15 @@
 
 ### (requires Neovim 0.5)
 
-*   [rmagatti/goto-preview (⭐677)](https://github.com/rmagatti/goto-preview) - Previewing native LSP's goto definition calls in floating windows.
+*   [rmagatti/goto-preview (⭐694)](https://github.com/rmagatti/goto-preview) - Previewing native LSP's goto definition calls in floating windows.
 
 ### Utility / Diagnostics
 
-*   [sudormrfbin/cheatsheet.nvim (⭐608)](https://github.com/sudormrfbin/cheatsheet.nvim) - Searchable cheatsheet.
+*   [sudormrfbin/cheatsheet.nvim (⭐612)](https://github.com/sudormrfbin/cheatsheet.nvim) - Searchable cheatsheet.
 
 ### Editing Support / Diagnostics
 
-*   [ethanholz/nvim-lastplace (⭐292)](https://github.com/ethanholz/nvim-lastplace) - Reopen files at your last edit position.
+*   [ethanholz/nvim-lastplace (⭐296)](https://github.com/ethanholz/nvim-lastplace) - Reopen files at your last edit position.
 
 ## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

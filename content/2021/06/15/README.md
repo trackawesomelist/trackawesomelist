@@ -102,7 +102,7 @@
 
 ### Visualization
 
-*   [Evidently (⭐3.8k)](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
+*   [Evidently (⭐4.4k)](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 
 ## [7. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

@@ -208,12 +208,12 @@
 
 ### Regular Expressions
 
-*   [Re (⭐220)](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str, etc.).
+*   [Re (⭐221)](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str, etc.).
 *   [ocaml-pcre (⭐29)](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
 
 ### Serialization
 
-*   [sexplib (⭐142)](https://github.com/janestreet/sexplib) – A S-expression parser and printer
+*   [sexplib (⭐143)](https://github.com/janestreet/sexplib) – A S-expression parser and printer
 
 ## [13. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 

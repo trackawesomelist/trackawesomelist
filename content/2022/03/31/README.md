@@ -95,7 +95,7 @@
 ### Other Development Tools / Testing
 
 *   [graviton (⭐18)](https://github.com/algorand/graviton) - Algorand's TEAL blackbox testing toolkit.
-*   [tealer (⭐61)](https://github.com/crytic/tealer) - Static TEAL analyser with a set of vulnerability detectors for quick contracts reviews.
+*   [tealer (⭐62)](https://github.com/crytic/tealer) - Static TEAL analyser with a set of vulnerability detectors for quick contracts reviews.
 
 ## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Web/ReactJS / Playground
 
-*   :octocat: [Materio Free MUI React NextJS Typescript Admin Template (⭐1.1k)](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. Made With Typecript & JavaScript.
+*   :octocat: [Materio Free MUI React NextJS Typescript Admin Template (⭐1.3k)](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. Made With Typecript & JavaScript.
 
 ## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 

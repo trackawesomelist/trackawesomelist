@@ -28,7 +28,7 @@
 
 ### Skeleton
 
-*   [App template (⭐360)](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
+*   [App template (⭐362)](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 

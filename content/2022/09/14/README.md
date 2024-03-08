@@ -10,7 +10,7 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [NeonLink (⭐240)](https://github.com/AlexSciFier/neonlink) - Self-hosted bookmark service with unique design and simple installation with Docker. `MIT` `Docker`
+*   [NeonLink (⭐242)](https://github.com/AlexSciFier/neonlink) - Self-hosted bookmark service with unique design and simple installation with Docker. `MIT` `Docker`
 
 ### Software / Internet of Things (IoT)
 
@@ -22,7 +22,7 @@
 
 ### Software / Self-hosting Solutions
 
-*   [CasaOS](https://www.casaos.io/) - A simple, easy-to-use, elegant open-source Home Cloud system. ([Source Code (⭐20k)](https://github.com/IceWhaleTech/CasaOS)) `Apache-2.0` `Go/Docker`
+*   [CasaOS](https://www.casaos.io/) - A simple, easy-to-use, elegant open-source Home Cloud system. ([Source Code (⭐21k)](https://github.com/IceWhaleTech/CasaOS)) `Apache-2.0` `Go/Docker`
 
 ### Software / Software Development - FaaS & Serverless
 
@@ -30,11 +30,11 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Our Shopping List (⭐66)](https://github.com/nanawel/our-shopping-list) - Simple shared list application. Typical uses include shopping lists of course, and any other small todo-list that needs to be used collaboratively. ([Demo](https://osl.lanterne-rouge.info/)) `AGPL-3.0` `Docker`
+*   [Our Shopping List (⭐70)](https://github.com/nanawel/our-shopping-list) - Simple shared list application. Typical uses include shopping lists of course, and any other small todo-list that needs to be used collaboratively. ([Demo](https://osl.lanterne-rouge.info/)) `AGPL-3.0` `Docker`
 
 ### Software / URL Shorteners
 
-*   [Short{Paste} (⭐43)](https://github.com/adyanth/shortpaste) - A Go based URL shortener, pastebin and file uploader. `MIT` `Docker`
+*   [Short{Paste} (⭐45)](https://github.com/adyanth/shortpaste) - A Go based URL shortener, pastebin and file uploader. `MIT` `Docker`
 
 ## [2. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
@@ -47,39 +47,39 @@
 ### Register / Diagnostics
 
 *   [gennaro-tedesco/nvim-peekup (⭐273)](https://github.com/gennaro-tedesco/nvim-peekup) - Dynamically interact with Vim registers.
-*   [tversteeg/registers.nvim (⭐578)](https://github.com/tversteeg/registers.nvim) - Non-obtrusive minimal preview of Vim registers.
+*   [tversteeg/registers.nvim (⭐579)](https://github.com/tversteeg/registers.nvim) - Non-obtrusive minimal preview of Vim registers.
 
 ### Marks / Diagnostics
 
-*   [chentoast/marks.nvim (⭐692)](https://github.com/chentoast/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
+*   [chentoast/marks.nvim (⭐701)](https://github.com/chentoast/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [mcchrish/zenbones.nvim (⭐549)](https://github.com/mcchrish/zenbones.nvim) - A collection of Vim/Neovim colorschemes designed to highlight code using contrasts and font variations.
+*   [mcchrish/zenbones.nvim (⭐558)](https://github.com/mcchrish/zenbones.nvim) - A collection of Vim/Neovim colorschemes designed to highlight code using contrasts and font variations.
 
 ### Utility / Diagnostics
 
-*   [kazhala/close-buffers.nvim (⭐140)](https://github.com/kazhala/close-buffers.nvim) - Delete multiple Vim buffers based on different conditions.
-*   [CosmicNvim/cosmic-ui (⭐158)](https://github.com/CosmicNvim/cosmic-ui) - Cosmic-UI is a simple wrapper around specific Vim functionality. Built in order to provide a quick and easy way to create a Cosmic UI experience with Neovim!
+*   [kazhala/close-buffers.nvim (⭐141)](https://github.com/kazhala/close-buffers.nvim) - Delete multiple Vim buffers based on different conditions.
+*   [CosmicNvim/cosmic-ui (⭐160)](https://github.com/CosmicNvim/cosmic-ui) - Cosmic-UI is a simple wrapper around specific Vim functionality. Built in order to provide a quick and easy way to create a Cosmic UI experience with Neovim!
 
 ### Debugging / Diagnostics
 
-*   [Pocco81/DAPInstall.nvim (⭐394)](https://github.com/Pocco81/DAPInstall.nvim) - Manage several debuggers for nvim-dap.
+*   [Pocco81/DAPInstall.nvim (⭐396)](https://github.com/Pocco81/DAPInstall.nvim) - Manage several debuggers for nvim-dap.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [nvim-lua/popup.nvim (⭐344)](https://github.com/nvim-lua/popup.nvim) - An implementation of the Popup API from Vim.
+*   [nvim-lua/popup.nvim (⭐345)](https://github.com/nvim-lua/popup.nvim) - An implementation of the Popup API from Vim.
 
 ### Preconfigured Configuration / Diagnostics
 
 *   [SpaceVim/SpaceVim](https://spacevim.org) - A community-driven modular Vim/Neovim distribution, like spacemacs but for Vim/Neovim.
-*   [hackorum/VapourNvim (⭐522)](https://github.com/hackorum/VapourNvim) - A Neovim config for THE ULTIMATE Vim IDE-like experience.
+*   [hackorum/VapourNvim (⭐523)](https://github.com/hackorum/VapourNvim) - A Neovim config for THE ULTIMATE Vim IDE-like experience.
 
 ### Vim / Diagnostics
 
 *   [Vimawesome](https://vimawesome.com/) - Showcases various plugins for Vim and has a [neovim tag](https://vimawesome.com/?q=tag:neovim) for other plugins targeting Neovim.
 *   [awesome-vim (⭐1.9k)](https://github.com/akrawchyk/awesome-vim#tools) - Short list of Vim plugins and helpful guides.
-*   [vim-plugin-list (⭐82)](https://github.com/altermo/vim-plugin-list) - List of Vim and Neovim plugins.
+*   [vim-plugin-list (⭐83)](https://github.com/altermo/vim-plugin-list) - List of Vim and Neovim plugins.
 
 ## [4. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 

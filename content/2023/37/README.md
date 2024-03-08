@@ -95,7 +95,7 @@
 
 ### Applications / System tools
 
-*   [eza-community/eza (⭐5.5k)](https://github.com/eza-community/eza) — A replacement for 'ls'
+*   [eza-community/eza (⭐6k)](https://github.com/eza-community/eza) — A replacement for 'ls'
 
 ## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Orchestrator (⭐266)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games (Godot 4.x).
+*   [Orchestrator (⭐519)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games (Godot 4.x).
 
 ## [13. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
@@ -8197,7 +8197,7 @@
 
 ### Android / Libraries
 
-*   [Blueprint (⭐90)](https://github.com/popovanton0/Blueprint) - 📐 A library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
+*   [Blueprint (⭐92)](https://github.com/popovanton0/Blueprint) - 📐 A library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
 
 ## [22. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -8286,9 +8286,9 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Rivet (⭐2k)](https://github.com/Ironclad/rivet): An IDE for creating complex AI agents and prompt chaining, and embedding it in your application. ![GitHub Repo stars](https://img.shields.io/github/stars/Ironclad/rivet?style=social)
-*   [Promptfoo (⭐1.6k)](https://github.com/promptfoo/promptfoo): Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
-*   [RestGPT (⭐1.1k)](https://github.com/Yifan-Song793/RestGPT): An LLM-based autonomous agent controlling real-world applications via RESTful APIs ![GitHub Repo stars](https://img.shields.io/github/stars/Yifan-Song793/RestGPT?style=social)
+*   [Rivet (⭐2.2k)](https://github.com/Ironclad/rivet): An IDE for creating complex AI agents and prompt chaining, and embedding it in your application. ![GitHub Repo stars](https://img.shields.io/github/stars/Ironclad/rivet?style=social)
+*   [Promptfoo (⭐2.1k)](https://github.com/promptfoo/promptfoo): Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
+*   [RestGPT (⭐1.2k)](https://github.com/Yifan-Song793/RestGPT): An LLM-based autonomous agent controlling real-world applications via RESTful APIs ![GitHub Repo stars](https://img.shields.io/github/stars/Yifan-Song793/RestGPT?style=social)
 
 ## [29. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -8379,7 +8379,7 @@
 
 ### Resources / Course Material
 
-*   [Program Logics (⭐33)](https://github.com/xavierleroy/cdf-program-logics) - Companion Coq sources for a course on program logics at Collège de France.
+*   [Program Logics (⭐34)](https://github.com/xavierleroy/cdf-program-logics) - Companion Coq sources for a course on program logics at Collège de France.
 
 ## [40. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -8408,16 +8408,16 @@
 
 ### Plugin Manager
 
-*   [lewis6991/pckr.nvim (⭐193)](https://github.com/lewis6991/pckr.nvim) - Spiritual successor of `wbthomason/packer.nvim`.
+*   [lewis6991/pckr.nvim (⭐195)](https://github.com/lewis6991/pckr.nvim) - Spiritual successor of `wbthomason/packer.nvim`.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [judaew/ronny.nvim (⭐15)](https://github.com/judaew/ronny.nvim) - A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg.
-*   [ribru17/bamboo.nvim (⭐199)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
+*   [ribru17/bamboo.nvim (⭐202)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
 
 ### Utility / Diagnostics
 
-*   [LintaoAmons/scratch.nvim (⭐165)](https://github.com/LintaoAmons/scratch.nvim) - Create and manage scratch files.
+*   [LintaoAmons/scratch.nvim (⭐172)](https://github.com/LintaoAmons/scratch.nvim) - Create and manage scratch files.
 
 ## [44. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 

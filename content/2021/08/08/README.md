@@ -28,7 +28,7 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [godot-ink (⭐480)](https://github.com/paulloz/godot-ink) - A C# (Mono) plugin to integrate stories writen in [ink (⭐3.8k)](https://github.com/inkle/ink), a scripting language for writing interactive narrative.
+*   [godot-ink (⭐486)](https://github.com/paulloz/godot-ink) - A C# (Mono) plugin to integrate stories writen in [ink (⭐3.8k)](https://github.com/inkle/ink), a scripting language for writing interactive narrative.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Dependency Management / Diagnostics
 
-*   [vuki656/package-info.nvim (⭐407)](https://github.com/vuki656/package-info.nvim) - Display latest package version as virtual text in package.json.
+*   [vuki656/package-info.nvim (⭐419)](https://github.com/vuki656/package-info.nvim) - Display latest package version as virtual text in package.json.
 
 ## [7. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Applications / System tools
 
-*   [nickgerace/gfold (⭐267)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
+*   [nickgerace/gfold (⭐266)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
 
 ### Applications / Text editors
 
@@ -78,7 +78,7 @@
 
 *   [raftario/licensor (⭐188)](https://github.com/raftario/licensor) — write licenses to stdout [![GitHub Actions](https://github.com/raftario/licensor/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/raftario/licensor/actions/workflows/build.yml)
 *   [rustdesk/rustdesk (⭐60k)](https://github.com/rustdesk/rustdesk) — A remote desktop software, great alternative to TeamViewer and AnyDesk.
-*   [vaultwarden (⭐31k)](https://github.com/dani-garcia/vaultwarden#readme) [![Build](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml/badge.svg)](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml) — Alternative implementation of the Bitwarden server API written in Rust
+*   [vaultwarden (⭐32k)](https://github.com/dani-garcia/vaultwarden#readme) [![Build](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml/badge.svg)](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml) — Alternative implementation of the Bitwarden server API written in Rust
 
 ### Development tools / FFI
 

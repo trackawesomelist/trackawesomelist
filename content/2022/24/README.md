@@ -28,7 +28,7 @@
 
 ### Development / Engines
 
-*   [Ethereal Engine (⭐671)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
+*   [Ethereal Engine (⭐684)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 ## [5. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
@@ -552,14 +552,14 @@
 
 ### Books, blogs, and training materials / Community Chat Rooms
 
-*   [Ferrous Systems' Embedded Training Courses: 2020-current edition (⭐236)](https://github.com/ferrous-systems/embedded-trainings-2020) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by [Ferrous Systems](https://ferrous-systems.com) to corporate customers.
+*   [Ferrous Systems' Embedded Training Courses: 2020-current edition (⭐237)](https://github.com/ferrous-systems/embedded-trainings-2020) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by [Ferrous Systems](https://ferrous-systems.com) to corporate customers.
 
 ### no-std crates / WIP
 
-*   [drogue-device (⭐170)](https://github.com/drogue-iot/drogue-device): A distribution of tools and examples for building embedded applications in Rust.
-*   [ector (⭐29)](https://github.com/drogue-iot/ector): An async actor framework for embedded, based on embassy.
+*   [drogue-device (⭐173)](https://github.com/drogue-iot/drogue-device): A distribution of tools and examples for building embedded applications in Rust.
+*   [ector (⭐32)](https://github.com/drogue-iot/ector): An async actor framework for embedded, based on embassy.
 *   [embedded-update (⭐15)](https://github.com/drogue-iot/embedded-update): Pluggable firmware update protocol for embedded devices.
-*   [embedded-tls (⭐143)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
+*   [embedded-tls (⭐152)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
 
 ### Old books, blogs, and training materials / WIP
 
@@ -600,11 +600,11 @@
 ### Modules / Database
 
 *   [cotton (⭐136)](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
-*   [dangoDB (⭐118)](https://github.com/oslabs-beta/dangoDB) - A MongoDB ODM for Deno.
-*   [deno\_mongo (⭐507)](https://github.com/denodrivers/deno_mongo) - MongoDB database driver.
+*   [dangoDB (⭐121)](https://github.com/oslabs-beta/dangoDB) - A MongoDB ODM for Deno.
+*   [deno\_mongo (⭐505)](https://github.com/denodrivers/deno_mongo) - MongoDB database driver.
 *   [deno\_mysql (⭐255)](https://github.com/denodrivers/mysql) - MySQL database driver.
 *   [maxminddb (⭐8)](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
-*   [redis (⭐450)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
+*   [redis (⭐448)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 
 ## [38. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
@@ -716,7 +716,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [diod (⭐113)](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
+*   :octocat: [diod (⭐116)](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
 
 ## [50. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 

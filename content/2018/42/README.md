@@ -132,7 +132,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐9.4k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
+*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐9.5k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
 
 ## [10. Awesome Math](/content/rossant/awesome-math/week/README.md)
 

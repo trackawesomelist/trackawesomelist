@@ -12,25 +12,31 @@
 
 *   [Pufferfish (⭐151)](https://github.com/nickeb96/puffer-fish) - Text Expansions for Fish
 
-## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [2. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+
+### Nodes & Consensus Participation / Wallets
+
+*   [Algorand Node UI (⭐27)](https://github.com/algorand/node-ui) - Terminal UI for remote Algorand node management.
+
+## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Starters & Themes
 
 *   🚀 [Vite + Lit + Tailwind Starter (⭐25)](https://github.com/running-grass/starter-lit-with-tailwind) - Boilerplate using Vite, Lit and Tailwind CSS.
 
-## [3. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [4. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Ungoogled Chromium (⭐15k)](https://github.com/ungoogled-software/ungoogled-chromium) - Chromium without Google integration, enhancing privacy, control, transparency
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
 *   [css-gradient.com](https://www.css-gradient.com/) - Free tool to quickly generate custom cross-browser CSS gradients. In RGB and HEX format.
 
-## [5. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
+## [6. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Resources / Packages
 
@@ -38,27 +44,17 @@
 *   [Flash (⭐20)](https://github.com/igerslike/inertia-flash) - Laravel package for sharing properties from anywhere.
 *   [Dry requests (⭐206)](https://github.com/dive-be/laravel-dry-requests) - Generic Laravel package for real-time form validation.
 
-## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### 2D/3D Rendering engines / Modal, Toast & Notifications
 
 *   [Blazor.Sidepanel (⭐33)](https://github.com/Append-IT/Blazor.Sidepanel) - ![GitHub stars](https://img.shields.io/github/stars/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=86400) A powerful and customizable Sidepanel implementation for Blazor applications.
 
-## [7. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [8. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Web Applications
 
 *   [Healthchecks](https://healthchecks.io/) - Cron job monitoring service. ([BSD 3-clause (⭐6.3k)](https://github.com/healthchecks/healthchecks/blob/master/LICENSE))
-
-## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
-
-### Blockchain Explorers
-
-*   [Dappflow](https://explorer.dappflow.org/) - Algorand Private Network Explorer (supports Sandbox in `localhost`).
-
-### Nodes & Consensus Participation / Wallets
-
-*   [Algorand Node UI (⭐27)](https://github.com/algorand/node-ui) - Terminal UI for remote Algorand node management.
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -116,13 +112,13 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Typetta (⭐94)](https://github.com/twinlogix/typetta) - Typescript ORM for Node.js that uses GraphQL as schema definition language | Supports all main SQL databases and MongoDB.
+*   :octocat: [Typetta (⭐96)](https://github.com/twinlogix/typetta) - Typescript ORM for Node.js that uses GraphQL as schema definition language | Supports all main SQL databases and MongoDB.
 
 ## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Formatting / Diagnostics
 
-*   [cappyzawa/trim.nvim (⭐89)](https://github.com/cappyzawa/trim.nvim) - This plugin trims trailing whitespace and lines.
+*   [cappyzawa/trim.nvim (⭐90)](https://github.com/cappyzawa/trim.nvim) - This plugin trims trailing whitespace and lines.
 
 ## [18. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 

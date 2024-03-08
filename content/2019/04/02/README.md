@@ -39,17 +39,17 @@
 ### React Firebase starter [↗](https://awesomestacks.dev/react-firebase-starter) / Resources
 
 *   [GraphQL](https://graphql.org/) - [🛠](https://stackshare.io/graphql) - [🐙 (⭐20k)](https://github.com/graphql/graphql-js) - A query language for APIs and a runtime for fulfilling those queries with your existing data.
-*   [Material UI](https://material-ui.com/) - [🛠️](https://stackshare.io/material-ui) - [🐙 (⭐90k)](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design.
+*   [Material UI](https://material-ui.com/) - [🛠️](https://stackshare.io/material-ui) - [🐙 (⭐91k)](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design.
 *   [Relay](https://facebook.github.io/relay/) - [🛠️](https://stackshare.io/relay) - [🐙 (⭐18k)](https://github.com/facebook/relay) - A JavaScript framework for building data-driven React applications.
 
 ### MEVN: Mongo Express Vue Node [↗](https://awesomestacks.dev/mevn-mongo-express-vue-node) / Resources
 
 *   [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙 (⭐63k)](https://github.com/expressjs/express) - A minimal and flexible Node.js web application framework.
-*   [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐101k)](https://github.com/nodejs/node) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐102k)](https://github.com/nodejs/node) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ### React starter kit [↗](https://awesomestacks.dev/react-starter-kit) / Resources
 
-*   [Node.js](https://nodejs.org/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐101k)](https://github.com/nodejs/node) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Node.js](https://nodejs.org/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐102k)](https://github.com/nodejs/node) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ### vue-starter [↗](https://awesomestacks.dev/vue-starter) / Resources
 

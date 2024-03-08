@@ -10,7 +10,7 @@
 
 ### VSCode Extensions / Apache License
 
-*   [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada (⭐211)](https://github.com/AdaCore/ada_language_server).
+*   [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada (⭐216)](https://github.com/AdaCore/ada_language_server).
 
 ## [2. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Modules / Automation
 
-*   [autopilot (⭐479)](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
+*   [autopilot (⭐481)](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

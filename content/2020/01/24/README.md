@@ -142,7 +142,7 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Alfresco Community Edition](https://www.alfresco.com/products/community/download) - The open source Enterprise Content Management software that handles any type of content, allowing users to easily share and collaborate on content. ([Source Code (⭐111)](https://github.com/Alfresco/alfresco-community-repo)) `LGPL-3.0` `Java`
+*   [Alfresco Community Edition](https://www.alfresco.com/products/community/download) - The open source Enterprise Content Management software that handles any type of content, allowing users to easily share and collaborate on content. ([Source Code (⭐114)](https://github.com/Alfresco/alfresco-community-repo)) `LGPL-3.0` `Java`
 
 ## [16. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
 

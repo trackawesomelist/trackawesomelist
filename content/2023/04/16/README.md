@@ -37,7 +37,7 @@
 
 ### Marks / Diagnostics
 
-*   [tomasky/bookmarks.nvim (⭐96)](https://github.com/tomasky/bookmarks.nvim) - Bookmarks with global file storage, written in Lua.
+*   [tomasky/bookmarks.nvim (⭐101)](https://github.com/tomasky/bookmarks.nvim) - Bookmarks with global file storage, written in Lua.
 
 ### Utility / Diagnostics
 

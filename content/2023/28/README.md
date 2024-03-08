@@ -177,11 +177,11 @@
 
 ### Internet and Networking
 
-*   [Parabolic (⭐550)](https://github.com/NickvisionApps/Parabolic) - `yt-dlp` graphical fronted.
+*   [Parabolic (⭐568)](https://github.com/NickvisionApps/Parabolic) - `yt-dlp` graphical fronted.
 
 ### Office
 
-*   [Paper Clip (⭐42)](https://github.com/Diego-Ivan/Paper-Clip) - PDF metadata editor.
+*   [Paper Clip (⭐44)](https://github.com/Diego-Ivan/Paper-Clip) - PDF metadata editor.
 
 ### Multimedia
 
@@ -392,12 +392,12 @@
 
 ### Libraries/Frameworks / Multiplatform
 
+*   [Ashampoo/kim (⭐135)](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata
 *   [Ashampoo/xmpcore (⭐14)](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK
-*   [Ashampoo/kim (⭐131)](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata
 
 ### Libraries/Frameworks / Jetpack-Compose
 
-*   [mahozad/wavy-slider (⭐52)](https://github.com/mahozad/wavy-slider) - Multiplatform UI widget that recreates the Android 13 squiggly progress bar
+*   [mahozad/wavy-slider (⭐67)](https://github.com/mahozad/wavy-slider) - Multiplatform UI widget that recreates the Android 13 squiggly progress bar
 
 ## [38. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
@@ -420,7 +420,7 @@
 
 ### Notification
 
-*   [svelte-sonner (⭐443)](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte.
+*   [svelte-sonner (⭐480)](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte.
 
 ### Internationalisation / Checkbox
 
@@ -430,16 +430,16 @@
 
 ### (requires Neovim 0.5)
 
-*   [creativenull/efmls-configs-nvim (⭐235)](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver to work with builtin LSP.
-*   [creativenull/diagnosticls-configs-nvim (⭐88)](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of linters and formatters configured for diagnostic-languageserver to work with builtin LSP.
+*   [creativenull/efmls-configs-nvim (⭐239)](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver to work with builtin LSP.
+*   [creativenull/diagnosticls-configs-nvim (⭐89)](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of linters and formatters configured for diagnostic-languageserver to work with builtin LSP.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [xero/miasma.nvim (⭐107)](https://github.com/xero/miasma.nvim) - A dark pastel color scheme inspired by the woods. Built using lush and supports Tree-sitter, diagnostics, CMP, Git-Signs, Telescope, Which-key, Lazy, and more.
+*   [xero/miasma.nvim (⭐112)](https://github.com/xero/miasma.nvim) - A dark pastel color scheme inspired by the woods. Built using lush and supports Tree-sitter, diagnostics, CMP, Git-Signs, Telescope, Which-key, Lazy, and more.
 
 ### Tabline / Diagnostics
 
-*   [tomiis4/BufferTabs.nvim (⭐60)](https://github.com/tomiis4/BufferTabs.nvim) - Simple and Fancy tabline.
+*   [tomiis4/BufferTabs.nvim (⭐61)](https://github.com/tomiis4/BufferTabs.nvim) - Simple and Fancy tabline.
 
 ### Debugging / Diagnostics
 
@@ -447,7 +447,7 @@
 
 ### Fennel / Diagnostics
 
-*   [Olical/nfnl (⭐143)](https://github.com/Olical/nfnl) - Streamlined successor to Aniseed, compiling Fennel to Lua on file write.
+*   [Olical/nfnl (⭐154)](https://github.com/Olical/nfnl) - Streamlined successor to Aniseed, compiling Fennel to Lua on file write.
 
 ## [41. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
@@ -503,7 +503,7 @@
 
 ### Display / Fonts
 
-*   [packed-font (⭐4)](https://github.com/mark-gladding/packed-font) -  Memory efficient MicroPython fonts for the Pico Pi and SSD1306 OLED Display.
+*   [packed-font (⭐5)](https://github.com/mark-gladding/packed-font) -  Memory efficient MicroPython fonts for the Pico Pi and SSD1306 OLED Display.
 
 ### IO / ADC
 
@@ -519,7 +519,7 @@
 
 ### IDEs / SRAM
 
-*   [uPIDE (⭐17)](https://github.com/harbaum/upide) - µPIDE is a simple IDE for MicroPython.
+*   [uPIDE (⭐18)](https://github.com/harbaum/upide) - µPIDE is a simple IDE for MicroPython.
 
 ## [47. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
@@ -543,12 +543,12 @@
 
 ### Software / Analytics
 
-*   [Mixpost](https://mixpost.app/) - Self-hosted social media management software. Easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite, Buffer, and other social media tools). ([Source Code (⭐45)](https://github.com/inovector/MixpostApp)) `MIT` `PHP/Docker`
-*   [Socioboard (⭐980)](https://github.com/socioboard/Socioboard-5.0) `⚠` - Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. `GPL-3.0` `Nodejs`
+*   [Mixpost](https://mixpost.app/) - Self-hosted social media management software. Easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite, Buffer, and other social media tools). ([Source Code (⭐50)](https://github.com/inovector/MixpostApp)) `MIT` `PHP/Docker`
+*   [Socioboard (⭐988)](https://github.com/socioboard/Socioboard-5.0) `⚠` - Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. `GPL-3.0` `Nodejs`
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Hyphanet](https://hyphanet.org/) - Anonymously share files, browse and publish *freesites* (web sites accessible only through Hyphanet) and chat on forums. ([Source Code (⭐974)](https://github.com/hyphanet/fred)) `GPL-2.0` `Java`
+*   [Hyphanet](https://hyphanet.org/) - Anonymously share files, browse and publish *freesites* (web sites accessible only through Hyphanet) and chat on forums. ([Source Code (⭐979)](https://github.com/hyphanet/fred)) `GPL-2.0` `Java`
 
 ### Software / Database Management
 
@@ -560,23 +560,23 @@
 
 ### Software / File Transfer - Object Storage & File Servers
 
-*   [SeaweedFS (⭐20k)](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is an open source distributed file system supporting WebDAV, S3 API, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity. `Apache-2.0` `Go`
+*   [SeaweedFS (⭐21k)](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is an open source distributed file system supporting WebDAV, S3 API, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity. `Apache-2.0` `Go`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Picsur (⭐550)](https://github.com/CaramelFur/Picsur) - A simple imaging hosting playtfom that allows you to easily host, edit, and share images. `GPL-3.0` `Docker`
+*   [Picsur (⭐575)](https://github.com/CaramelFur/Picsur) - A simple imaging hosting playtfom that allows you to easily host, edit, and share images. `GPL-3.0` `Docker`
 
 ### Software / Internet of Things (IoT)
 
-*   [FlowForge](https://flowforge.com/) - FlowForge allows companies to deploy Node-RED applications in a reliable, scalable and secure manner. The FlowForge platform provides DevOps capabilities for Node-RED development teams. ([Source Code (⭐208)](https://github.com/flowforge/flowforge)) `Apache-2.0` `Nodejs/Docker/K8S`
+*   [FlowForge](https://flowforge.com/) - FlowForge allows companies to deploy Node-RED applications in a reliable, scalable and secure manner. The FlowForge platform provides DevOps capabilities for Node-RED development teams. ([Source Code (⭐211)](https://github.com/flowforge/flowforge)) `Apache-2.0` `Nodejs/Docker/K8S`
 
 ### Software / Knowledge Management Tools
 
-*   [Atomic Server (⭐679)](https://github.com/atomicdata-dev/atomic-server) - Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. ([Demo](https://atomicdata.dev/)) `MIT` `Docker/Rust`
+*   [Atomic Server (⭐701)](https://github.com/atomicdata-dev/atomic-server) - Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. ([Demo](https://atomicdata.dev/)) `MIT` `Docker/Rust`
 
 ### Software / Money, Budgeting & Management
 
-*   [HyperSwitch](https://hyperswitch.io/) `⚠` - HyperSwitch is an Open Source Financial Switch to make payments Fast, Reliable and Affordable. It lets you connect with multiple payment processors and route traffic effortlessly, all with a single API integration. ([Source Code (⭐9.2k)](https://github.com/juspay/hyperswitch)) `Apache-2.0` `Docker/Rust`
+*   [HyperSwitch](https://hyperswitch.io/) `⚠` - HyperSwitch is an Open Source Financial Switch to make payments Fast, Reliable and Affordable. It lets you connect with multiple payment processors and route traffic effortlessly, all with a single API integration. ([Source Code (⭐9.3k)](https://github.com/juspay/hyperswitch)) `Apache-2.0` `Docker/Rust`
 
 ### Software / Personal Dashboards
 
@@ -584,8 +584,8 @@
 
 ### Software / Photo and Video Galleries
 
-*   [Chevereto](https://chevereto.com/) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐277)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP/Docker`
-*   [Immich](https://immich.app/) - Self-hosted photo and video backup solution directly from your mobile phone. ([Source Code (⭐26k)](https://github.com/immich-app/immich)) `MIT` `Docker`
+*   [Chevereto](https://chevereto.com/) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐300)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP/Docker`
+*   [Immich](https://immich.app/) - Self-hosted photo and video backup solution directly from your mobile phone. ([Source Code (⭐27k)](https://github.com/immich-app/immich)) `MIT` `Docker`
 
 ## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -619,7 +619,7 @@
 
 ### Prerequisites
 
-*   [Spacemono (⭐347)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
+*   [Spacemono (⭐350)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -629,11 +629,11 @@
 
 ### Open Source Projects / Knowledge Management
 
-*   [Second Brain AI Agent (⭐106)](https://github.com/flepied/second-brain-agent): A streamlit app dialog with your second brain notes using OpenAI and ChromaDB locally. ![GitHub Repo stars](https://img.shields.io/github/stars/flepied/second-brain-agent?style=social)
+*   [Second Brain AI Agent (⭐123)](https://github.com/flepied/second-brain-agent): A streamlit app dialog with your second brain notes using OpenAI and ChromaDB locally. ![GitHub Repo stars](https://img.shields.io/github/stars/flepied/second-brain-agent?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [MetaGPT (⭐33k)](https://github.com/geekan/MetaGPT): The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
+*   [MetaGPT (⭐34k)](https://github.com/geekan/MetaGPT): The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 *   [Hyv (⭐17)](https://github.com/failfa-st/hyv): Probably the easiest way to use any AI Model in Node.js and create complex interactions with ease. ![GitHub Repo stars](https://img.shields.io/github/stars/failfa-st/hyv?style=social)
 
 ## [53. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)

@@ -198,7 +198,6 @@
 *   [APKInspector (⭐816)](https://github.com/honeynet/apkinspector/)
 *   [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
 *   [DroidLegacy](https://bitbucket.org/srl/droidlegacy)
-*   ~~[Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs)~~
 *   [FlowDroid](https://blogs.uni-paderborn.de/sse/tools/flowdroid/)
 *   [Android Decompiler](https://www.pnfsoftware.com/) – not free
 *   [Amandroid](http://amandroid.sireum.org/)
@@ -210,6 +209,7 @@
 *   [RiskInDroid (⭐87)](https://github.com/ClaudiuGeorgiu/RiskInDroid) - A tool for calculating the risk of Android apps based on their permissions, with an online demo available.
 *   [SUPER (⭐413)](https://github.com/SUPERAndroidAnalyzer/super) - Secure, Unified, Powerful and Extensible Rust Android Analyzer
 *   [ClassyShark (⭐7.4k)](https://github.com/google/android-classyshark) - Standalone binary inspection tool which can browse any Android executable and show important info.
+*   ~~[Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs)~~
 
 ### Tools / App Vulnerability Scanners
 
@@ -225,7 +225,6 @@
 *   [Inspeckage (⭐2.7k)](https://github.com/ac-pm/Inspeckage) - Android Package Inspector - dynamic analysis with API hooks, start unexported activities, and more. (Xposed Module)
 *   [Android Hooker (⭐406)](https://github.com/AndroidHooker/hooker) - Dynamic Java code instrumentation (requires the Substrate Framework)
 *   [ProbeDroid (⭐194)](https://github.com/ZSShen/ProbeDroid) - Dynamic Java code instrumentation
-*   ~~[Android Tamer](https://androidtamer.com/) - Virtual / Live Platform for Android Security Professionals~~
 *   [DECAF (⭐764)](https://github.com/sycurelab/DECAF) - Dynamic Executable Code Analysis Framework based on QEMU (DroidScope is now an extension to DECAF)
 *   [CuckooDroid (⭐566)](https://github.com/idanr1986/cuckoo-droid) - Android extension for Cuckoo sandbox
 *   [Mem (⭐62)](https://github.com/MobileForensicsResearch/mem) - Memory analysis of Android (root required)
@@ -238,6 +237,7 @@
 *   [DroidAnalytics (⭐28)](https://github.com/zhengmin1989/DroidAnalytics) - incomplete
 *   [Vezir Project (⭐97)](https://github.com/oguzhantopgul/Vezir-Project) - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
 *   [MARA (⭐609)](https://github.com/xtiankisutsa/MARA_Framework) - Mobile Application Reverse Engineering and Analysis Framework
+*   ~~[Android Tamer](https://androidtamer.com/) - Virtual / Live Platform for Android Security Professionals~~
 
 ### Tools / Reverse Engineering
 
@@ -384,7 +384,7 @@
 
 ### Python / Git
 
-*   [Privy (⭐240)](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data.
+*   [Privy (⭐243)](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data.
 
 ## [28. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -420,10 +420,6 @@
 *   [FIPS 197](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf) - AES FIPS document.
 *   [New Features of Latin Dances: Analysis of Salsa, ChaCha, and Rumba](https://eprint.iacr.org/2007/472.pdf) - Analysis of Salsa20 family of ciphers, by Jean-Philippe Aumasson et al.
 *   [ChaCha20-Poly1305 Cipher Suites for Transport Layer Security (TLS)](https://tools.ietf.org/html/draft-ietf-tls-chacha20-poly1305-04) - IETF Draft of ciphersuite family, by Adam Langley et al.
-
-### Specific topics / Public key cryptography: General and DLP
-
-*   [On the Security of Public Key Protocols ](http://www.cs.huji.ac.il/~dolev/pubs/dolev-yao-ieee-01056650.pdf) - Dolev-Yao model is a formal model, used to prove properties of interactive cryptographic protocols.
 
 ### Specific topics / Public key cryptography: Elliptic-curve crypto
 

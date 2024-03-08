@@ -20,7 +20,7 @@
 
 ### Firmware projects / WIP
 
-*   [μLA (⭐569)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
+*   [μLA (⭐582)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
 
 ## [3. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 

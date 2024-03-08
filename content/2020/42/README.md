@@ -30,7 +30,7 @@
 
 *   [轻芒杂志<strike>（草稿版）</strike>](http://qingmang.me/beta/) <sup>[741](https://t.me/s/aboutrss/741), [743](https://t.me/s/aboutrss/743), [809](https://t.me/s/aboutrss/809), [812](https://t.me/s/aboutrss/812), [828](https://t.me/s/aboutrss/828)</sup> ![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)
 *   RSS Savvy <sup>[811](https://t.me/s/aboutrss/811)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.savvysaurus.rsssavvy)
-*   [NiceFeed (⭐95)](https://github.com/joshuacerdenia/NiceFeed) <sup>[843](https://t.me/s/aboutrss/843)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.joshuacerdenia.android.nicefeed\&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joshuacerdenia/NiceFeed)
+*   [NiceFeed (⭐96)](https://github.com/joshuacerdenia/NiceFeed) <sup>[843](https://t.me/s/aboutrss/843)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.joshuacerdenia.android.nicefeed\&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joshuacerdenia/NiceFeed)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -1326,7 +1326,7 @@
 
 ### Software / Miscellaneous
 
-*   [2FAuth (⭐1.4k)](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP/Docker`
+*   [2FAuth (⭐1.5k)](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP/Docker`
 
 ## [57. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
@@ -1385,7 +1385,7 @@
 
 *   [Official Guide](https://svelte.dev/tutorial)
 *   [API Reference](https://svelte.dev/docs)
-*   [GitHub Repo (⭐75k)](https://github.com/sveltejs/svelte)
+*   [GitHub Repo (⭐76k)](https://github.com/sveltejs/svelte)
 
 ### Community
 
@@ -1419,7 +1419,7 @@
 
 ### Calendar
 
-*   [svelte-calendar (⭐529)](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
+*   [svelte-calendar (⭐527)](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
 
 ### Docs / Checkbox
 
@@ -1435,7 +1435,7 @@
 
 ### Editors / Vim
 
-*   [vim-svelte (⭐303)](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
+*   [vim-svelte (⭐307)](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
 
 ## [65. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
@@ -1491,11 +1491,11 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-admin-env-notice (⭐295)](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`.
+*   [django-admin-env-notice (⭐298)](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`.
 
 ### Third-Party Packages / Search Engine Optimisation
 
-*   [django-check-seo (⭐135)](https://github.com/kapt-labs/django-check-seo) - Check SEO of pages.
+*   [django-check-seo (⭐142)](https://github.com/kapt-labs/django-check-seo) - Check SEO of pages.
 
 ## [73. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -1511,11 +1511,11 @@
 
 ### Third-party Apps Plugins / Design Tooling
 
-*   [Nautilus Terminal (⭐307)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
+*   [Nautilus Terminal (⭐309)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
 
 ### Windows / Design Tooling
 
-*   [Coverflow Alt-Tab (⭐346)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
+*   [Coverflow Alt-Tab (⭐345)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
 
 ### Audio / Design Tooling
 
@@ -1608,7 +1608,7 @@
 
 ### GraphCMS React + Apollo [↗](https://awesomestacks.dev/graph-cms-react-apollo) / Resources
 
-*   [GraphCMS starter blog with React & Apollo Client (⭐584)](https://github.com/GraphCMS/graphcms-examples/tree/master/with-reactjs)
+*   [GraphCMS starter blog with React & Apollo Client (⭐596)](https://github.com/GraphCMS/graphcms-examples/tree/master/with-reactjs)
 
 ## [77. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 

@@ -28,7 +28,7 @@
 
 ### JupyterLab Extensions
 
-*   [lsp (⭐63)](https://github.com/krassowski/jupyterlab-lsp) - IDE-like features (code navigation, hover suggestions, linters, diagnostics, kernel-less autocompletion etc.)
+*   [lsp (⭐87)](https://github.com/krassowski/jupyterlab-lsp) - IDE-like features (code navigation, hover suggestions, linters, diagnostics, kernel-less autocompletion etc.)
 
 ## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

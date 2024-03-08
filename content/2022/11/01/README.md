@@ -40,7 +40,7 @@
 
 ### Modules / Web framework
 
-*   [wren (⭐75)](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
+*   [wren (⭐76)](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

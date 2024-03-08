@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 25, 2022
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -44,7 +44,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [lacrimae (⭐0)](https://github.com/caIamity/lacrimae) - Prints a line from a collection of chants.
+*   [lacrimae (⭐1)](https://github.com/caIamity/lacrimae) - Prints a line from a collection of chants.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -100,11 +100,11 @@
 
 ### Syntax / Diagnostics
 
-*   [m-demare/hlargs.nvim (⭐413)](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter.
+*   [m-demare/hlargs.nvim (⭐417)](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter.
 
 ### Utility / Diagnostics
 
-*   [toppair/reach.nvim (⭐222)](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher.
+*   [toppair/reach.nvim (⭐224)](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher.
 
 ## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -127,12 +127,6 @@
 ### Resources / Offical
 
 *   [Community Help Board (⭐25k)](https://github.com/directus/directus/discussions/categories/q-a)
-
-## [14. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
-
-### Crash Courses
-
-*   [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x) - PyTeal crash course video lectures.
 
 ---
 

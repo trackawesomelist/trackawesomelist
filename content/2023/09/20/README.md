@@ -48,11 +48,11 @@
 
 ### Utility / Diagnostics
 
-*   [sontungexpt/url-open (⭐44)](https://github.com/sontungexpt/url-open) - Open URLs under the cursor and create highlight effects for them.
+*   [sontungexpt/url-open (⭐51)](https://github.com/sontungexpt/url-open) - Open URLs under the cursor and create highlight effects for them.
 
 ### Terminal Integration / Diagnostics
 
-*   [willothy/wezterm.nvim (⭐106)](https://github.com/willothy/wezterm.nvim) - Functions for interacting with Wezterm.
+*   [willothy/wezterm.nvim (⭐116)](https://github.com/willothy/wezterm.nvim) - Functions for interacting with Wezterm.
 
 ## [8. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -70,11 +70,11 @@
 
 ### Learn / Notebooks
 
-*   [Large Language Models Course (⭐279)](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) ![GitHub Repo stars](https://img.shields.io/github/stars/peremartra/Large-Language-Model-Notebooks-Course?style=social)
+*   [Large Language Models Course (⭐513)](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) ![GitHub Repo stars](https://img.shields.io/github/stars/peremartra/Large-Language-Model-Notebooks-Course?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LangStream (⭐307)](https://github.com/LangStream/langstream): Framework for building and running event-driven LLM applications using no-code and Python (including LangChain-based) agents. ![GitHub Repo stars](https://img.shields.io/github/stars/LangStream/langstream?style=social)
+*   [LangStream (⭐333)](https://github.com/LangStream/langstream): Framework for building and running event-driven LLM applications using no-code and Python (including LangChain-based) agents. ![GitHub Repo stars](https://img.shields.io/github/stars/LangStream/langstream?style=social)
 
 ## [11. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
@@ -102,10 +102,6 @@
 ### Design and UI
 
 *   [Float UI](https://floatui.com/) - free web development tool for quickly creating modern, responsive websites with sleek design, even for non-designers.
-
-### Other Free Resources
-
-*   [Buff.tools](https://buff.tools/) - An all-in-one digital toolbox featuring Web, SEO, AI, Domain Management, unit conversion, calculators, and Image Manipulation Tools.
 
 ## [14. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 

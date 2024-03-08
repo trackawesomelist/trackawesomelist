@@ -22,7 +22,7 @@
 
 ### Code Analysis
 
-*   🍰 [CakeDC/PHPStan (⭐25)](https://github.com/CakeDC/cakephp-phpstan) - A PHPStan extension to resolve CakePHP magic around getter return types for the static analyzer.
+*   🍰 [CakeDC/PHPStan (⭐27)](https://github.com/CakeDC/cakephp-phpstan) - A PHPStan extension to resolve CakePHP magic around getter return types for the static analyzer.
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

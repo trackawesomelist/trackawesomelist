@@ -120,7 +120,7 @@
 
 *   [Getting Started with Deep Learning and Python](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
 *   [Machine Learning Mastery](http://machinelearningmastery.com/)
-*   [Awesome Machine Learning (⭐56k)](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
+*   [Awesome Machine Learning (⭐63k)](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
 *   [FastML](http://fastml.com/)
 
 ### Organizations

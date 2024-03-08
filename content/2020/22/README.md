@@ -10,11 +10,11 @@
 
 ### Projects / Libraries
 
-*   [Coq record update (⭐40)](https://github.com/tchajed/coq-record-update) - Library which provides a generic way to update Coq record fields.
+*   [Coq record update (⭐41)](https://github.com/tchajed/coq-record-update) - Library which provides a generic way to update Coq record fields.
 
 ### Projects / Plugins
 
-*   [Hierarchy Builder (⭐87)](https://github.com/math-comp/hierarchy-builder) - Collection of commands for declaring Coq hierarchies based on packed classes.
+*   [Hierarchy Builder (⭐88)](https://github.com/math-comp/hierarchy-builder) - Collection of commands for declaring Coq hierarchies based on packed classes.
 
 ### Projects / Type Theory and Mathematics
 
@@ -45,7 +45,7 @@
 
 ### VSCode Extensions / Apache License
 
-*   [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada (⭐211)](https://github.com/AdaCore/ada_language_server).
+*   [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada (⭐216)](https://github.com/AdaCore/ada_language_server).
 
 ## [5. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
@@ -790,10 +790,10 @@ Language: English
 
 ### Examples
 
-*   [generic-components (⭐540)](https://github.com/thepassle/generic-components) - Collection of generic web components with a focus on accessibility, and ease of use.
-*   [howto-components (⭐858)](https://github.com/GoogleChromeLabs/howto-components) - Collection of web components that implement common web UI patterns.
+*   [generic-components (⭐548)](https://github.com/thepassle/generic-components) - Collection of generic web components with a focus on accessibility, and ease of use.
+*   [howto-components (⭐860)](https://github.com/GoogleChromeLabs/howto-components) - Collection of web components that implement common web UI patterns.
 *   [vanilla-retro-js (⭐14)](https://github.com/martine-dowden/vanilla-retro-js) - Vanilla JS UI component library of HTML deprecated tags.
-*   [web-components-examples (⭐2.8k)](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
+*   [web-components-examples (⭐2.9k)](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
 
 ### Architecture
 
@@ -811,20 +811,20 @@ Language: English
 
 ### Component Libraries
 
-*   [Apollo Elements (⭐408)](https://github.com/apollo-elements/apollo-elements) - Custom elements for using Apollo GraphQL with various web components libraries.
+*   [Apollo Elements (⭐413)](https://github.com/apollo-elements/apollo-elements) - Custom elements for using Apollo GraphQL with various web components libraries.
 *   [Blackstone UI (⭐76)](https://github.com/kjantzer/bui) - Web components for creating interfaces by Blackstone Publishing.
-*   [elements-sk (⭐28)](https://github.com/google/elements-sk) - Collection of custom elements for "a la carte" web development.
+*   [elements-sk (⭐29)](https://github.com/google/elements-sk) - Collection of custom elements for "a la carte" web development.
 *   [Lume (⭐1.2k)](https://github.com/lume/lume) - Custom elements for defining 2D or 3D scenes rendered with CSS3D or WebGL.
 
 ### Design Systems
 
-*   [Bolt Design System (⭐289)](https://github.com/boltdesignsystem/bolt) - Twig and Web Component-powered UI components, reusable visual styles and tooling.
-*   [Crayons (⭐179)](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
+*   [Bolt Design System (⭐288)](https://github.com/boltdesignsystem/bolt) - Twig and Web Component-powered UI components, reusable visual styles and tooling.
+*   [Crayons (⭐189)](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
 
 ### Starter Kits
 
-*   [custom-element-boilerplate (⭐155)](https://github.com/github/custom-element-boilerplate) - Boilerplate for creating a custom element.
-*   [hello-web-components (⭐23)](https://github.com/fernandopasik/hello-web-components) - Simple starter hello world web component written in TypeScript.
+*   [custom-element-boilerplate (⭐157)](https://github.com/github/custom-element-boilerplate) - Boilerplate for creating a custom element.
+*   [hello-web-components (⭐25)](https://github.com/fernandopasik/hello-web-components) - Simple starter hello world web component written in TypeScript.
 *   [nutmeg (⭐115)](https://github.com/abraham/nutmeg) - Build, test, and publish vanilla Web Components with a little spice.
 
 ### Podcasts
@@ -841,11 +841,11 @@ Language: English
 
 ### Modules / Automation
 
-*   [autopilot (⭐479)](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
+*   [autopilot (⭐481)](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
 
 ### Modules / Utils
 
-*   [deno\_cron (⭐100)](https://github.com/rbrahul/deno_cron) - A cron Job scheduler that allows you to write human readable cron syntax with tons of flexibility
+*   [deno\_cron (⭐99)](https://github.com/rbrahul/deno_cron) - A cron Job scheduler that allows you to write human readable cron syntax with tons of flexibility
 *   [rubico (⭐262)](https://github.com/richytong/rubico) - 🏞 \[a]synchronous function composition; it just works.
 
 ## [62. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)

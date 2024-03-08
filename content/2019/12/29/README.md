@@ -41,7 +41,7 @@
 ### Libraries
 
 *   [essential-json (⭐1)](https://github.com/arkanovicz/essential-json) - A lightweight Java library for serialization, parsing and manipulation with a clean and precise API.
-*   [dsl-json (⭐980)](https://github.com/ngs-doo/dsl-json) - A very fast streaming JSON library. Operates on byte arrays.
+*   [dsl-json (⭐981)](https://github.com/ngs-doo/dsl-json) - A very fast streaming JSON library. Operates on byte arrays.
 *   [mjson (⭐81)](https://github.com/bolerio/mjson) - Lean JSON Library for Java, with a compact, elegant API.
 
 ### Testing
@@ -52,7 +52,7 @@
 
 ### Auditing / Logging
 
-*   🍰 [DatabaseLog plugin (⭐42)](https://github.com/dereuromark/CakePHP-DatabaseLog) - Simple and stand-alone logging to database instead of files.
+*   🍰 [DatabaseLog plugin (⭐43)](https://github.com/dereuromark/CakePHP-DatabaseLog) - Simple and stand-alone logging to database instead of files.
 
 ### Code Analysis
 
@@ -60,7 +60,7 @@
 
 ### Migration
 
-*   🍰 [Upgrade app (⭐108)](https://github.com/cakephp/upgrade) - Official upgrade app for 3.x=>4.x and 4.x=>5.x.
+*   🍰 [Upgrade app (⭐109)](https://github.com/cakephp/upgrade) - Official upgrade app for 3.x=>4.x and 4.x=>5.x.
 
 ### Miscellaneous
 

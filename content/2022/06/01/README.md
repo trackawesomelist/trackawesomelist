@@ -153,7 +153,7 @@
 
 ### Projects / Frameworks
 
-*   [ConCert (⭐105)](https://github.com/AU-COBRA/ConCert) - Framework for smart contract testing and verification featuring a code extraction pipeline to several smart contract languages.
+*   [ConCert (⭐106)](https://github.com/AU-COBRA/ConCert) - Framework for smart contract testing and verification featuring a code extraction pipeline to several smart contract languages.
 
 ## [12. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

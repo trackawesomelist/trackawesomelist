@@ -151,7 +151,7 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [Kapitsa (⭐10)](https://github.com/gitjeff05/kapitsa) - CLI to search local Jupyter notebooks.
+*   [Kapitsa (⭐11)](https://github.com/gitjeff05/kapitsa) - CLI to search local Jupyter notebooks.
 
 ## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

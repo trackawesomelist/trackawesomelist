@@ -44,7 +44,7 @@
 
 ### Software / Automation
 
-*   [YoutubeDL-Server (⭐191)](https://github.com/nbr23/youtube-dl-server) - Web and REST interface for downloading videos onto a server. `MIT` `Python/Docker`
+*   [YoutubeDL-Server (⭐193)](https://github.com/nbr23/youtube-dl-server) - Web and REST interface for downloading videos onto a server. `MIT` `Python/Docker`
 
 ### Software / Bookmarks and Link Sharing
 
@@ -52,7 +52,7 @@
 
 ### Software / Database Management
 
-*   [Limbas](https://www.limbas.com/en/) - Limbas is a database framework for creating database-driven business applications. As a graphical database frontend, it enables the efficient processing of data stocks and the flexible development of comfortable database applications. ([Source Code (⭐41)](https://github.com/limbas/limbas)) `GPL-2.0` `PHP`
+*   [Limbas](https://www.limbas.com/en/) - Limbas is a database framework for creating database-driven business applications. As a graphical database frontend, it enables the efficient processing of data stocks and the flexible development of comfortable database applications. ([Source Code (⭐42)](https://github.com/limbas/limbas)) `GPL-2.0` `PHP`
 
 ## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 

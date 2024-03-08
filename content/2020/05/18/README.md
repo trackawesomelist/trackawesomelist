@@ -10,8 +10,8 @@
 
 ### Class Based
 
-*   [DNA (⭐32)](https://github.com/chialab/dna) - Progressive Web Components library.
-*   [Tonic (⭐825)](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
+*   [DNA (⭐37)](https://github.com/chialab/dna) - Progressive Web Components library.
+*   [Tonic (⭐837)](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
 
 ### Tutorials
 
@@ -33,15 +33,15 @@
 
 ### GTFS Libraries / C
 
-*   [CGTFS (⭐6)](https://github.com/rakhack/cgtfs) - C library for reading static GTFS feeds. Supports reading unpacked feeds into application memory or into SQLite databases.
-*   [RRRR Rapid Real-time Routing (⭐158)](https://github.com/bliksemlabs/rrrr) - RRRR (usually pronounced R4) is a C-language implementation of the RAPTOR public transit routing algorithm.
+*   [CGTFS (⭐7)](https://github.com/rakhack/cgtfs) - C library for reading static GTFS feeds. Supports reading unpacked feeds into application memory or into SQLite databases.
+*   [RRRR Rapid Real-time Routing (⭐159)](https://github.com/bliksemlabs/rrrr) - RRRR (usually pronounced R4) is a C-language implementation of the RAPTOR public transit routing algorithm.
 
 ### GTFS Libraries / Python
 
-*   [ESRI public-transit-tools (⭐164)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS (license for ArcGIS required).
-*   [gtfsdb (⭐147)](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
+*   [ESRI public-transit-tools (⭐162)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS (license for ArcGIS required).
+*   [gtfsdb (⭐148)](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
 *   [gtfsman (⭐21)](https://github.com/geops/gtfsman) - Repository-like tool in Python to manage and update a huge number of GTFS feeds.
-*   [gtfspy (⭐147)](https://github.com/CxAalto/gtfspy) - Public transport network analysis and travel time computations using Python3. Compatible with Postgres/PostGIS, Oracle, MySQL, and SQLite. Used by [gtfspy-webviz (⭐47)](https://github.com/CxAalto/gtfspy-webviz).
+*   [gtfspy (⭐150)](https://github.com/CxAalto/gtfspy) - Public transport network analysis and travel time computations using Python3. Compatible with Postgres/PostGIS, Oracle, MySQL, and SQLite. Used by [gtfspy-webviz (⭐47)](https://github.com/CxAalto/gtfspy-webviz).
 *   [Make GTFS (⭐1)](https://github.com/mrcagney/make_gtfs) - A Python library to make GTFS feeds from basic route information.
 *   [Mapzen GTFS (⭐29)](https://github.com/transitland/mapzen-gtfs) - A Python GTFS library that supports reading individual GTFS tables, or constructing a graph to represent each agency in a feed.
 *   [multigtfs (⭐50)](https://github.com/tulsawebdevs/django-multi-gtfs) - A Django application to import and export GTFS.
@@ -56,11 +56,11 @@
 
 ### GTFS Libraries / PostgreSQL
 
-*   [gtfs-schema (⭐30)](https://github.com/tyleragreen/gtfs-schema) - PostgreSQL schema for GTFS feeds.
+*   [gtfs-schema (⭐31)](https://github.com/tyleragreen/gtfs-schema) - PostgreSQL schema for GTFS feeds.
 
 ### GTFS Libraries / Ruby
 
-*   [GTFS-viz (⭐85)](https://github.com/vasile/GTFS-viz) - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the [Transit Map (⭐352)](https://github.com/vasile/transit-map) web application)
+*   [GTFS-viz (⭐85)](https://github.com/vasile/GTFS-viz) - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the [Transit Map (⭐351)](https://github.com/vasile/transit-map) web application)
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -186,19 +186,19 @@
 *   [deno-context (⭐6)](https://github.com/code-hex/deno-context) - Propagate deadlines, a cancellation and other request-scoped values to multiple promise. The behaviour is like Go's context.
 *   [invert-kv (⭐3)](https://github.com/denorg/invert-kv) - Invert key-value pairs in Deno.
 *   [online (⭐7)](https://github.com/denorg/online) - Check if you're currently online in Deno.
-*   [qrcode (⭐42)](https://github.com/denorg/qrcode) - QR code image generator for Deno.
+*   [qrcode (⭐43)](https://github.com/denorg/qrcode) - QR code image generator for Deno.
 *   [recursive-readdir (⭐10)](https://github.com/denorg/recursive-readdir) - Recursively read directories in Deno.
 
 ### Modules / Web utils
 
 *   [status (⭐15)](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.
-*   [up (⭐12)](https://github.com/denorg/up) - Check if a website is up in Deno.
+*   [up (⭐13)](https://github.com/denorg/up) - Check if a website is up in Deno.
 
 ### Tools / XML
 
 *   [dedep (⭐67)](https://github.com/egoist/dedep) - Manage dependency versions.
 *   [packer-provisioner-deno (⭐4)](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
-*   [starter (⭐26)](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
+*   [starter (⭐27)](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
 
 ### Articles / XML
 
@@ -206,7 +206,7 @@
 
 ### Resources in Other Languages / Chinese
 
-*   [Deno 手册 (⭐298)](https://github.com/Nugine/deno-manual-cn/)
+*   [Deno 手册 (⭐297)](https://github.com/Nugine/deno-manual-cn/)
 
 ## [18. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 

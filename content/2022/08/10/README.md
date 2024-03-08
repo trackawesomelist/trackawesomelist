@@ -68,14 +68,14 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Omeka S](https://omeka.org/s/) - Omeka S is a web publication system for universities, galleries, libraries, archives, and museums. It consists of a local network of independently curated exhibits sharing a collaboratively built pool of items, media, and their metadata. ([Source Code (⭐374)](https://github.com/omeka/omeka-s)) `GPL-3.0` `Nodejs`
+*   [Omeka S](https://omeka.org/s/) - Omeka S is a web publication system for universities, galleries, libraries, archives, and museums. It consists of a local network of independently curated exhibits sharing a collaboratively built pool of items, media, and their metadata. ([Source Code (⭐376)](https://github.com/omeka/omeka-s)) `GPL-3.0` `Nodejs`
 
 ### Software / Miscellaneous
 
 *   [asciinema (⭐2.2k)](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts. ([Demo](https://asciinema.org/)) `Apache-2.0` `Elixir/Docker`
-*   [Neko](https://neko.m1k1o.net) - A self hosted virtual browser (rabb.it clone) that runs in Docker. ([Source Code (⭐4.9k)](https://github.com/m1k1o/neko)) `Apache-2.0` `Docker/Go`
+*   [Neko](https://neko.m1k1o.net) - A self hosted virtual browser (rabb.it clone) that runs in Docker. ([Source Code (⭐5k)](https://github.com/m1k1o/neko)) `Apache-2.0` `Docker/Go`
 *   [Teleport](https://goteleport.com/) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases. ([Source Code (⭐16k)](https://github.com/gravitational/teleport)) `Apache-2.0` `Go/Docker/K8S`
-*   [TeslaMate (⭐5k)](https://github.com/adriankumpf/teslamate) - A powerful data logger for Tesla vehicles. `MIT` `Elixir/Docker`
+*   [TeslaMate (⭐5.1k)](https://github.com/adriankumpf/teslamate) - A powerful data logger for Tesla vehicles. `MIT` `Elixir/Docker`
 
 ## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 

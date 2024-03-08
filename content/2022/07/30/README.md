@@ -18,7 +18,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [keaising/im-select.nvim (⭐116)](https://github.com/keaising/im-select.nvim) - Switching and restoring input method automatically depends on Neovim's edit mode.
+*   [keaising/im-select.nvim (⭐118)](https://github.com/keaising/im-select.nvim) - Switching and restoring input method automatically depends on Neovim's edit mode.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

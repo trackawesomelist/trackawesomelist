@@ -490,8 +490,7 @@
 
 ### Newsletter
 
-*   [Adafruit Daily, Python for microcontrollers](https://www.adafruitdaily.com/) - A weekly newsletter on MicroPython and CircuitPython, a spam-free list.
-*   [Contribute to newsletter (⭐56)](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter.
+*   [Contribute to newsletter (⭐57)](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter.
 
 ### News
 

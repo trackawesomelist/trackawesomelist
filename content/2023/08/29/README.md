@@ -78,7 +78,7 @@
 
 ### Note Taking / Diagnostics
 
-*   [IlyasYOY/obs.nvim (⭐50)](https://github.com/IlyasYOY/obs.nvim) - Your Obsidian notes at the speed of thought.
+*   [IlyasYOY/obs.nvim (⭐54)](https://github.com/IlyasYOY/obs.nvim) - Your Obsidian notes at the speed of thought.
 
 ## [9. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
 

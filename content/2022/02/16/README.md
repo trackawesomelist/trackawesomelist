@@ -22,7 +22,7 @@
 
 ### GTFS Analysis Tools / Ruby
 
-*   [R5: Rapid Realistic Routing on Real-world and Reimagined networks (⭐255)](https://github.com/conveyal/r5) - A Java-based routing engine developed by Conveyal for multimodal (transit/bike/walk/car) networks. It currently plans many trips over a time window for scenario planning and analytics purposes. A related R wrapper package ([r5r (⭐168)](https://github.com/ipeaGIT/r5r/)) is developed independently by IPEA. See also the performance comparison from Higgins et al. (2022), linked below.
+*   [R5: Rapid Realistic Routing on Real-world and Reimagined networks (⭐261)](https://github.com/conveyal/r5) - A Java-based routing engine developed by Conveyal for multimodal (transit/bike/walk/car) networks. It currently plans many trips over a time window for scenario planning and analytics purposes. A related R wrapper package ([r5r (⭐170)](https://github.com/ipeaGIT/r5r/)) is developed independently by IPEA. See also the performance comparison from Higgins et al. (2022), linked below.
 
 ### Academic papers / Ruby
 
@@ -68,7 +68,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [Kotlin/kotlinx.atomicfu (⭐789)](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin.
+*   [Kotlin/kotlinx.atomicfu (⭐798)](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin.
 
 ## [9. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
 
@@ -120,7 +120,7 @@
 *   [Learning Networks from Random Walk-Based Node Similarities](https://arxiv.org/pdf/1801.07386) - (NIPS) *Reversing graphs by observing some random walk commute times.*
 *   [Identifying the Machine Learning Family from Black-Box Models](https://rd.springer.com/chapter/10.1007/978-3-030-00374-6_6) - (CAEPIA) *Determines which kind of machine learning model is behind the returned predictions.*
 *   [Stealing Neural Networks via Timing Side Channels](https://arxiv.org/pdf/1812.11720.pdf) - (arXiv) *Stealing/approximating a model through timing attacks usin queries.*
-*   [Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data](https://arxiv.org/abs/1806.05476) - (IJCNN)  [(Code) (⭐23)](https://github.com/jeiks/Stealing_DL_Models) *Stealing black-box models (CNNs) knowledge by querying them with random natural images (ImageNet and Microsoft-COCO).*
+*   [Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data](https://arxiv.org/abs/1806.05476) - (IJCNN)  [(Code) (⭐24)](https://github.com/jeiks/Stealing_DL_Models) *Stealing black-box models (CNNs) knowledge by querying them with random natural images (ImageNet and Microsoft-COCO).*
 
 ### Papers / 2017
 
@@ -171,7 +171,7 @@
 
 ### Marks / Diagnostics
 
-*   [ThePrimeagen/harpoon (⭐4.9k)](https://github.com/ThePrimeagen/harpoon) - A per project, auto updating and editable marks utility for fast file navigation.
+*   [ThePrimeagen/harpoon (⭐5.1k)](https://github.com/ThePrimeagen/harpoon) - A per project, auto updating and editable marks utility for fast file navigation.
 
 ## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

@@ -72,7 +72,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [chrsm/paramount-ng.nvim (⭐15)](https://github.com/chrsm/paramount-ng.nvim) - A dark color scheme written using Lush. Treesitter supported.
+*   [chrsm/paramount-ng.nvim (⭐17)](https://github.com/chrsm/paramount-ng.nvim) - A dark color scheme written using Lush. Treesitter supported.
 
 ### Editing Support / Diagnostics
 

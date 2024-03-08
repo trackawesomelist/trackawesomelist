@@ -157,7 +157,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [rockyzhang24/arctic.nvim (⭐127)](https://github.com/rockyzhang24/arctic.nvim) - A Neovim colorscheme ported from VSCode Dark+ theme with the strict and precise color picking for both the editor and UI.
+*   [rockyzhang24/arctic.nvim (⭐131)](https://github.com/rockyzhang24/arctic.nvim) - A Neovim colorscheme ported from VSCode Dark+ theme with the strict and precise color picking for both the editor and UI.
 
 ## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

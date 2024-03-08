@@ -111,7 +111,7 @@
 
 ### Table
 
-*   [svelte-simple-datatables (⭐265)](https://github.com/vincjo/svelte-simple-datatables) - A Datatable component for Svelte
+*   [svelte-simple-datatables (⭐267)](https://github.com/vincjo/svelte-simple-datatables) - A Datatable component for Svelte
 
 ## [15. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -235,7 +235,7 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-related-admin (⭐64)](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list\_displays accross foreign key relationships.
+*   [django-related-admin (⭐65)](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list\_displays accross foreign key relationships.
 
 ## [27. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
@@ -331,7 +331,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [2D Destructible Objects (⭐364)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥 (Godot 3.x).
+*   [2D Destructible Objects (⭐369)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥 (Godot 3.x).
 *   [CRT Shader (⭐290)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters (Godot 3.x).
 
 ### Plugins and scripts / Godot 3.2+
@@ -340,7 +340,7 @@
 
 ### Other / Godot version unknown
 
-*   [RetroPie Godot Game Engine "Emulator" (⭐82)](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
+*   [RetroPie Godot Game Engine "Emulator" (⭐84)](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
 
 ## [36. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
@@ -1018,9 +1018,9 @@ Language: English \ <br>
 
 ### (requires Neovim 0.5)
 
-*   [nvim-lua/lsp-status.nvim (⭐615)](https://github.com/nvim-lua/lsp-status.nvim) - This is a plugin/library for generating statusline components from the built-in LSP client.
-*   [RishabhRD/nvim-lsputils (⭐437)](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions.
-*   [kosayoda/nvim-lightbulb (⭐720)](https://github.com/kosayoda/nvim-lightbulb) - The plugin shows a lightbulb in the sign column whenever a `textDocument/codeAction` is available at the current cursor position.
+*   [nvim-lua/lsp-status.nvim (⭐617)](https://github.com/nvim-lua/lsp-status.nvim) - This is a plugin/library for generating statusline components from the built-in LSP client.
+*   [RishabhRD/nvim-lsputils (⭐436)](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions.
+*   [kosayoda/nvim-lightbulb (⭐719)](https://github.com/kosayoda/nvim-lightbulb) - The plugin shows a lightbulb in the sign column whenever a `textDocument/codeAction` is available at the current cursor position.
 
 ### (requires Neovim 0.5) / LSP Installer
 
@@ -1029,12 +1029,12 @@ Language: English \ <br>
 
 ### Fuzzy Finder / Diagnostics
 
-*   [vijaymarupudi/nvim-fzf (⭐311)](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using FZF (Neovim >= 0.5). Allows for full asynchronicity for UI speed and usability.
+*   [vijaymarupudi/nvim-fzf (⭐313)](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using FZF (Neovim >= 0.5). Allows for full asynchronicity for UI speed and usability.
 
 ### Editing Support / Diagnostics
 
 *   [windwp/nvim-autopairs (⭐2.7k)](https://github.com/windwp/nvim-autopairs) - A minimalist autopairs written by Lua.
-*   [monaqa/dial.nvim (⭐688)](https://github.com/monaqa/dial.nvim) - Extended increment/decrement.
+*   [monaqa/dial.nvim (⭐693)](https://github.com/monaqa/dial.nvim) - Extended increment/decrement.
 
 ## [47. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 

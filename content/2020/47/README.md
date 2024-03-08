@@ -196,7 +196,7 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 ### Domain-Specific Projects
 
-*   [Jupylet (⭐201)](https://github.com/nir/jupylet) - Create 2D and 3D games, graphics, live music and sound interactively in a Jupyter notebook.
+*   [Jupylet (⭐217)](https://github.com/nir/jupylet) - Create 2D and 3D games, graphics, live music and sound interactively in a Jupyter notebook.
 
 ## [21. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -473,7 +473,7 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 ### Migration
 
-*   🍰 [Upgrade app (extended) (⭐22)](https://github.com/dereuromark/upgrade) - An extended upgrade app for 3.x=>4.x and some 5.x snippets.
+*   🍰 [Upgrade app (extended) (⭐23)](https://github.com/dereuromark/upgrade) - An extended upgrade app for 3.x=>4.x and some 5.x snippets.
 
 ### Development Environment
 

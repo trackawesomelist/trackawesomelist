@@ -50,7 +50,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [OnTrack (⭐768)](https://github.com/inoda/ontrack) - A simple app to track spend and set goals. `MIT` `Ruby/Nodejs`
+*   [OnTrack (⭐767)](https://github.com/inoda/ontrack) - A simple app to track spend and set goals. `MIT` `Ruby/Nodejs`
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

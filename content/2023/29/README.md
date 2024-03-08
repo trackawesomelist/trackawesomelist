@@ -40,7 +40,7 @@
 
 ### Official Resources
 
-*   [Changelog (⭐75k)](https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md)
+*   [Changelog (⭐76k)](https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md)
 
 ## [7. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -301,17 +301,17 @@
 ### Driver crates / Other
 
 *   [BMA400](https://crates.io/crates/bma400) - I2C/SPI - Bosch 12-bit 3-axis accelerometer - [github (⭐2)](https://github.com/cfrenette/bma400-rs) ![crates.io](https://img.shields.io/crates/v/bma400.svg)
-*   [FUSB302B (⭐10)](https://github.com/fmckeogh/usb-pd-rs) - I2C - Programmable USB Type‐C Controller with USB Power Delivery - [github (⭐10)](https://github.com/fmckeogh/usb-pd-rs)
+*   [FUSB302B (⭐12)](https://github.com/fmckeogh/usb-pd-rs) - I2C - Programmable USB Type‐C Controller with USB Power Delivery - [github (⭐12)](https://github.com/fmckeogh/usb-pd-rs)
 *   [i2c-multiplexer](https://crates.io/crates/i2c-multiplexer) - I2C - An I2C Multiplexer library that supports the PCA9546 and TCA9546A chips - [github (⭐2)](https://github.com/FloppyDisck/i2c-multiplexer) - ![crates.io](https://img.shields.io/crates/v/i2c-multiplexer.svg)
 *   [SHT31-rs](https://crates.io/crates/sht31) - I2C - Fully supported SHT temperature / humidity sensors - [github (⭐5)](https://github.com/FloppyDisck/SHT31-rs) - ![crates.io](https://img.shields.io/crates/v/sht31.svg)
 
 ### no-std crates / WIP
 
-*   [usb-pd (⭐10)](https://github.com/fmckeogh/usb-pd-rs): USB-PD library, supports using the FUSB302B as a Sink driver, with Source functionality planned.
+*   [usb-pd (⭐12)](https://github.com/fmckeogh/usb-pd-rs): USB-PD library, supports using the FUSB302B as a Sink driver, with Source functionality planned.
 
 ### Firmware projects / WIP
 
-*   [Stabilizer (⭐87)](https://github.com/quartiq/stabilizer): Firmware for a DSP tool used in quantum physics experimentation, includes telemetry via MQTT and run-time configuration
+*   [Stabilizer (⭐89)](https://github.com/quartiq/stabilizer): Firmware for a DSP tool used in quantum physics experimentation, includes telemetry via MQTT and run-time configuration
 *   [Booster (⭐8)](https://github.com/quartiq/booster): Firmware for an RF power amplifier, including telemetry via MQTT and run-time configuration
 *   [Thermostat EEM (⭐7)](https://github.com/quartiq/thermostat-eem): Firmware for a multi-channel temperature controller used in physics experiments
 *   [Card/IO ECG (⭐23)](https://github.com/card-io-ecg/card-io-fw): Firmware for a business-card-sized ECG device with Wifi connectivity
@@ -320,12 +320,12 @@
 
 ### OS and Kernels / Apache License
 
-*   [hirtos (⭐18)](https://github.com/jgrivera67/HiRTOS) - A high-integrity RTOS written in SPARK Ada.
+*   [hirtos (⭐21)](https://github.com/jgrivera67/HiRTOS) - A high-integrity RTOS written in SPARK Ada.
 
 ### Science / Apache License
 
 *   [units-of-measurement](http://www.dmitry-kazakov.de/ada/units.htm) - Library to manage units of measurement with dimension checking.
-*   [si\_units (⭐6)](https://github.com/HeisenbugLtd/si_units) - Utility library to pretty print physical values in proper metric units.
+*   [si\_units (⭐8)](https://github.com/HeisenbugLtd/si_units) - Utility library to pretty print physical values in proper metric units.
 
 ### Sound / Apache License
 
@@ -333,7 +333,7 @@
 
 ### Frameworks / Apache License
 
-*   [SweetAda (⭐28)](https://github.com/gabriele-galeotti/SweetAda) - A lightweight development framework whose purpose is the implementation of Ada-based software systems. It supports a plethora or CPU architectures and development boards.
+*   [SweetAda (⭐29)](https://github.com/gabriele-galeotti/SweetAda) - A lightweight development framework whose purpose is the implementation of Ada-based software systems. It supports a plethora or CPU architectures and development boards.
 
 ## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -377,7 +377,7 @@
 
 ### Third-Party Packages / Full-stack frameworks
 
-*   [ReactPy (⭐7.5k)](https://github.com/reactive-python/reactpy) - It's React, but in Python. Insert dynamically rendered Python into Django templates using the [ReactPy-Django module (⭐276)](https://github.com/reactive-python/reactpy-django).
+*   [ReactPy (⭐7.6k)](https://github.com/reactive-python/reactpy) - It's React, but in Python. Insert dynamically rendered Python into Django templates using the [ReactPy-Django module (⭐289)](https://github.com/reactive-python/reactpy-django).
 
 ## [36. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
 
@@ -449,7 +449,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Uguu (⭐732)](https://github.com/nokonoko/uguu) - Stores files and deletes after X amount of time. `MIT` `PHP`
+*   [Uguu (⭐739)](https://github.com/nokonoko/uguu) - Stores files and deletes after X amount of time. `MIT` `PHP`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
@@ -551,17 +551,17 @@
 
 ### Software / Plotter Control
 
-*   [Inkcut (⭐291)](https://github.com/inkcut/inkcut) - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
+*   [Inkcut (⭐296)](https://github.com/inkcut/inkcut) - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
 
 ## [46. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### 2D / Godot 3.2+
 
-*   [Pocket Broomball (⭐22)](https://github.com/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
+*   [Pocket Broomball (⭐21)](https://github.com/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
 
 ### 3D / Godot 3.2+
 
-*   [Ball2Box (⭐27)](https://github.com/dulvui/ball2box) - Shoot the ball into the box, available for iOS, Android and html5.
+*   [Ball2Box (⭐28)](https://github.com/dulvui/ball2box) - Shoot the ball into the box, available for iOS, Android and html5.
 
 ## [47. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -588,12 +588,12 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [richardbizik/nvim-toc (⭐27)](https://github.com/richardbizik/nvim-toc) - Easily generate table of contents for markdown files.
+*   [richardbizik/nvim-toc (⭐29)](https://github.com/richardbizik/nvim-toc) - Easily generate table of contents for markdown files.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [nvimdev/zephyr-nvim (⭐319)](https://github.com/nvimdev/zephyr-nvim) - A dark colorscheme with Tree-sitter support.
-*   [AlexvZyl/nordic.nvim (⭐500)](https://github.com/AlexvZyl/nordic.nvim) - Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.
+*   [nvimdev/zephyr-nvim (⭐322)](https://github.com/nvimdev/zephyr-nvim) - A dark colorscheme with Tree-sitter support.
+*   [AlexvZyl/nordic.nvim (⭐525)](https://github.com/AlexvZyl/nordic.nvim) - Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.
 
 ### Startup / Diagnostics
 
@@ -601,18 +601,18 @@
 
 ### Quickfix / Diagnostics
 
-*   [ashfinal/qfview.nvim (⭐42)](https://github.com/ashfinal/qfview.nvim) - Pretty quickfix/location view with consistent path-shorten and folding.
+*   [ashfinal/qfview.nvim (⭐43)](https://github.com/ashfinal/qfview.nvim) - Pretty quickfix/location view with consistent path-shorten and folding.
 
 ### Editing Support / Diagnostics
 
-*   [HiPhish/rainbow-delimiters.nvim (⭐334)](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters with Tree-sitter.
-*   [okuuva/auto-save.nvim (⭐75)](https://github.com/okuuva/auto-save.nvim) - Automatically saves your work as often as needed and as seldom as possible. Customizable with smart defaults. Maintained fork of Pocco81/auto-save.nvim.
-*   [00sapo/visual.nvim (⭐176)](https://github.com/00sapo/visual.nvim) - Provides keybindings for creating a Kakoune/Helix-like experience: first select and then choose the editing command.
+*   [HiPhish/rainbow-delimiters.nvim (⭐349)](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters with Tree-sitter.
+*   [okuuva/auto-save.nvim (⭐79)](https://github.com/okuuva/auto-save.nvim) - Automatically saves your work as often as needed and as seldom as possible. Customizable with smart defaults. Maintained fork of Pocco81/auto-save.nvim.
+*   [00sapo/visual.nvim (⭐179)](https://github.com/00sapo/visual.nvim) - Provides keybindings for creating a Kakoune/Helix-like experience: first select and then choose the editing command.
 
 ### Formatting / Diagnostics
 
 *   [niuiic/format.nvim (⭐34)](https://github.com/niuiic/format.nvim) - An asynchronous, multitasking, and highly configurable formatting plugin.
-*   [elentok/format-on-save.nvim (⭐137)](https://github.com/elentok/format-on-save.nvim) - A synchronous formatter that combines LSP and non-LSP formatting (e.g. shfmt, stylua, prettier), focused specifically on format-on-save.
+*   [elentok/format-on-save.nvim (⭐142)](https://github.com/elentok/format-on-save.nvim) - A synchronous formatter that combines LSP and non-LSP formatting (e.g. shfmt, stylua, prettier), focused specifically on format-on-save.
 
 ## [50. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
@@ -625,9 +625,9 @@
 ### JavaScript / Git
 
 *   noble - high-security, easily auditable set of contained cryptographic libraries and tools. Zero dependencies each.
-    *   [noble-ciphers (⭐94)](https://github.com/paulmillr/noble-ciphers) — cryptographic ciphers, including AES-SIV, Salsa20, ChaCha, Poly1305 and FF1
-    *   [noble-curves (⭐497)](https://github.com/paulmillr/noble-curves) — elliptic curve cryptography, including Weierstrass, Edwards, Montgomery curves, pairings, hash-to-curve, poseidon hash, schnorr, secp256k1, ed25519, ed448, p521, bn254, bls12-381 and others. Also 4kb [noble-secp256k1 (⭐652)](https://github.com/paulmillr/noble-secp256k1), [noble-ed25519 (⭐360)](https://github.com/paulmillr/noble-ed25519)
-    *   [noble-hashes (⭐396)](https://github.com/paulmillr/noble-hashes) — SHA2, SHA3, RIPEMD, BLAKE2/3, HMAC, HKDF, PBKDF2 & Scrypt
+    *   [noble-ciphers (⭐124)](https://github.com/paulmillr/noble-ciphers) — cryptographic ciphers, including AES-SIV, Salsa20, ChaCha, Poly1305 and FF1
+    *   [noble-curves (⭐535)](https://github.com/paulmillr/noble-curves) — elliptic curve cryptography, including Weierstrass, Edwards, Montgomery curves, pairings, hash-to-curve, poseidon hash, schnorr, secp256k1, ed25519, ed448, p521, bn254, bls12-381 and others. Also 4kb [noble-secp256k1 (⭐667)](https://github.com/paulmillr/noble-secp256k1), [noble-ed25519 (⭐367)](https://github.com/paulmillr/noble-ed25519)
+    *   [noble-hashes (⭐440)](https://github.com/paulmillr/noble-hashes) — SHA2, SHA3, RIPEMD, BLAKE2/3, HMAC, HKDF, PBKDF2 & Scrypt
 
 ### Web-sites / Git
 

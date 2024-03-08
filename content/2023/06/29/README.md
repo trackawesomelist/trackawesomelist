@@ -33,11 +33,11 @@
 
 ### Colorscheme Switchers / Diagnostics
 
-*   [zaldih/themery.nvim (⭐92)](https://github.com/zaldih/themery.nvim) - A new way to change the colorscheme on the fly like in vscode.
+*   [zaldih/themery.nvim (⭐94)](https://github.com/zaldih/themery.nvim) - A new way to change the colorscheme on the fly like in vscode.
 
 ### Motion / Diagnostics
 
-*   [folke/flash.nvim (⭐1.7k)](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration.
+*   [folke/flash.nvim (⭐1.8k)](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration.
 
 ## [5. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Open Source Projects / Knowledge Management
 
-*   [ChatFiles (⭐3k)](https://github.com/guangzhengli/ChatFiles): Upload your document and then chat with it. Powered by GPT / Embedding / TS / NextJS. ![GitHub Repo stars](https://img.shields.io/github/stars/guangzhengli/ChatFiles?style=social)
+*   [ChatFiles (⭐3.1k)](https://github.com/guangzhengli/ChatFiles): Upload your document and then chat with it. Powered by GPT / Embedding / TS / NextJS. ![GitHub Repo stars](https://img.shields.io/github/stars/guangzhengli/ChatFiles?style=social)
 
 ## [8. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -86,15 +86,15 @@
 
 ### Communications / FTP
 
-*   [FtpTiny-Micropython (⭐7)](https://github.com/MZachmann/FtpTiny-Micropython) - Really small FTP server that runs in a thread.
+*   [FtpTiny-Micropython (⭐8)](https://github.com/MZachmann/FtpTiny-Micropython) - Really small FTP server that runs in a thread.
 
 ### Communications / HTTP
 
-*   [mrequests (⭐38)](https://github.com/SpotlightKid/mrequests) - A HTTP client module (not only) for MicroPython with an API similar to requests.
+*   [mrequests (⭐40)](https://github.com/SpotlightKid/mrequests) - A HTTP client module (not only) for MicroPython with an API similar to requests.
 
 ### Communications / IoT
 
-*   [micropython-ha-mqtt-device (⭐6)](https://github.com/agners/micropython-ha-mqtt-device) - MicroPython module which allows creating Entites for HomeAssistant using MQTT Discovery.
+*   [micropython-ha-mqtt-device (⭐7)](https://github.com/agners/micropython-ha-mqtt-device) - MicroPython module which allows creating Entites for HomeAssistant using MQTT Discovery.
 *   [ESP8266-Home-Assistant-Smart-Socket (⭐2)](https://github.com/AnthonyKNorman/ESP8266-Home-Assistant-Smart-Socket) - This MicroPython project is to hack a Hyleton313 cheap WiFi smart socket.
 *   [ESP8266-Home-Assistant-RGB-Bulb (⭐3)](https://github.com/AnthonyKNorman/ESP8266-Home-Assistant-RGB-Bulb) - This MicroPython project is to hack a TYWE3S board in a cheap WiFi RGB Bulb.
 *   [uPyIoT (⭐5)](https://github.com/lemariva/uPyIoT) - Connect an M5Stack ATOM running MicroPython to the Google Cloud Platform (GCP) to collect air-quality variables obtained from reading sensors.
@@ -106,7 +106,7 @@
 ### Communications / LoRa
 
 *   [loraE22 (⭐9)](https://github.com/matthias-bs/loraE22) - A MicroPython class for the Ebyte E22 Series LoRa modules.
-*   [micropython-lora (⭐25)](https://github.com/wybiral/micropython-lora) - MicroPython library for controlling a Semtech SX127x LoRa module over SPI.
+*   [micropython-lora (⭐26)](https://github.com/wybiral/micropython-lora) - MicroPython library for controlling a Semtech SX127x LoRa module over SPI.
 *   [micropython-aiolora (⭐2)](https://github.com/wybiral/micropython-aiolora) - MicroPython library for controlling a Semtech SX127x LoRa module with asyncio API.
 *   [micropython-rylr (⭐3)](https://github.com/wybiral/micropython-rylr) - MicroPython library for controlling Reyax LoRa modules (RYLR896, RYLR406).
 *   [silvergeko\_rfm9x (⭐1)](https://github.com/scopelemanuele/silvergeko_rfm9x) - Porting to MicroPython of adafruit\_rfm9x.py library.
@@ -134,7 +134,7 @@
 *   [PCF8563\_PythonLibrary (⭐7)](https://github.com/lewisxhe/PCF8563_PythonLibrary) - MicroPython library for NXP PCF8563 Real-time clock/calendar.
 *   [DS3231 (⭐0)](https://github.com/octaprog7/DS3231) - MicroPython module for the DS3231 clock from Maxim Integrated.
 *   [DS1307 (⭐0)](https://github.com/peter-l5/DS1307) - MicroPython driver for the DS1307 real time clock.
-*   [micropython-DS3231-AT24C32 (⭐21)](https://github.com/pangopi/micropython-DS3231-AT24C32) - MicroPython driver for DS3231 RTC.
+*   [micropython-DS3231-AT24C32 (⭐22)](https://github.com/pangopi/micropython-DS3231-AT24C32) - MicroPython driver for DS3231 RTC.
 
 ### Communications / Serial
 
@@ -180,10 +180,10 @@
 ### Display / LCD TFT
 
 *   [st7789s3\_esp\_lcd (⭐14)](https://github.com/russhughes/st7789s3_esp_lcd) - Fast ESP\_LCD based MicroPython driver for the TTGO T-Display-S3 st7789 display written in C.
-*   [s3lcd (⭐40)](https://github.com/russhughes/s3lcd) - ESP\_LCD based MicroPython driver for ESP32-S3 Devices with ST7789 or compatible displays.
+*   [s3lcd (⭐44)](https://github.com/russhughes/s3lcd) - ESP\_LCD based MicroPython driver for ESP32-S3 Devices with ST7789 or compatible displays.
 *   [thmi\_py (⭐5)](https://github.com/russhughes/thmi_py) - MicroPython display driver for the LILYGO T-HMI written in Python.
 *   [wt32sc01py (⭐11)](https://github.com/russhughes/wt32sc01py) - WT32SC01 Plus MicroPython Display Driver.
-*   [st7789s3\_mpy (⭐42)](https://github.com/russhughes/st7789s3_mpy) - MicroPython display driver for the TTGO T-Display-S3 ST7789 written in C.
+*   [st7789s3\_mpy (⭐44)](https://github.com/russhughes/st7789s3_mpy) - MicroPython display driver for the TTGO T-Display-S3 ST7789 written in C.
 *   [t-display-s3 (⭐11)](https://github.com/russhughes/t-display-s3) - MicroPython display driver for the TTGO T-Display-S3 ST7789 written in Python.
 *   [mp-ili9341 (⭐1)](https://github.com/tkurbad/mp-ili9341) - MicroPython Driver for ILI9341 TFT Display.
 *   [lvgl\_esp32\_gc9a01 (⭐8)](https://github.com/minyiky/lvgl_esp32_gc9a01) - Driver for displays using the GC901 driver for use with LVGL MicroPython.
@@ -194,7 +194,7 @@
 
 ### Display / OLED
 
-*   [micropython-ssd1322 (⭐10)](https://github.com/rdagger/micropython-ssd1322) - MicroPython display driver for SSD1322 grayscale OLED.
+*   [micropython-ssd1322 (⭐11)](https://github.com/rdagger/micropython-ssd1322) - MicroPython display driver for SSD1322 grayscale OLED.
 
 ### IO / ADC
 
@@ -279,7 +279,7 @@
 ### Sensors / Gaseous
 
 *   [MicroPython\_AGS02MA (⭐0)](https://github.com/jposada202020/MicroPython_AGS02MA) - MicroPython Driver for the AGS02MA TVOC sensor.
-*   [SCD4x (⭐3)](https://github.com/octaprog7/SCD4x) - MicroPython module for work with SCD4x (SCD40, SCD41) low power CO2, temperature & humidity electroacoustic sensor from Sensirion.
+*   [SCD4x (⭐4)](https://github.com/octaprog7/SCD4x) - MicroPython module for work with SCD4x (SCD40, SCD41) low power CO2, temperature & humidity electroacoustic sensor from Sensirion.
 *   [ens160 (⭐0)](https://github.com/octaprog7/ens160) - MicroPython module for work with ENS160 Digital Metal-Oxide Multi-Gas Sensor.
 
 ### Sensors / Humidity
@@ -301,7 +301,7 @@
 
 ### Sensors / Motion Inertial
 
-*   [MicroPython\_ICM20948 (⭐4)](https://github.com/jposada202020/MicroPython_ICM20948) - MicroPython Driver for the TDK ICM20948 Accelerometer/Gyro Sensor.
+*   [MicroPython\_ICM20948 (⭐6)](https://github.com/jposada202020/MicroPython_ICM20948) - MicroPython Driver for the TDK ICM20948 Accelerometer/Gyro Sensor.
 *   [MicroPython\_BMI160 (⭐0)](https://github.com/jposada202020/MicroPython_BMI160) - MicroPython Driver for the Bosch BMI160 Accelerometer/Gyro Sensor.
 *   [micropython-mpu6050 (⭐2)](https://github.com/wybiral/micropython-mpu6050) - MicroPython library for reading from MPU-6050 accelerometer and gyroscope modules.
 
@@ -325,7 +325,7 @@
 ### Sensors / Temperature Digital
 
 *   [MicroPython\_HTU31D (⭐1)](https://github.com/jposada202020/MicroPython_HTU31D) - MicroPython library for TE HTU31D temperature and humidity sensors.
-*   [MicroPython\_SHTC3 (⭐2)](https://github.com/jposada202020/MicroPython_SHTC3) - MicroPython Driver for the Sensirion SHTC3 Temperature and Humidity Sensor.
+*   [MicroPython\_SHTC3 (⭐3)](https://github.com/jposada202020/MicroPython_SHTC3) - MicroPython Driver for the Sensirion SHTC3 Temperature and Humidity Sensor.
 *   [MicroPython\_TMP117 (⭐0)](https://github.com/jposada202020/MicroPython_TMP117) - MicroPython Driver for the TMP117 Temperature Sensor.
 *   [MicroPython\_SI7021 (⭐0)](https://github.com/jposada202020/MicroPython_SI7021) - MicroPython Library for the Temperature and Humidity SI7021 Sensor.
 *   [MicroPython\_ADT7410 (⭐0)](https://github.com/jposada202020/MicroPython_ADT7410) - MicroPython Driver for the Analog Devices ADT7410 Temperature Sensor.
@@ -333,7 +333,7 @@
 *   [MicroPython\_HS3003 (⭐0)](https://github.com/jposada202020/MicroPython_HS3003) - MicroPython Driver for the Renesas HS3003 Temperature and Humidity Sensor.
 *   [MicroPython\_STTS22H (⭐0)](https://github.com/jposada202020/MicroPython_STTS22H) - MicroPython Driver for the STTS22H Temperature Sensor.
 *   [MicroPython\_HTU21DF (⭐0)](https://github.com/jposada202020/MicroPython_HTU21DF) - MicroPython HTU21D-F Temperature & Humidity driver.
-*   [MicroPython\_SHT4X (⭐4)](https://github.com/jposada202020/MicroPython_SHT4X) - MicroPython Driver fot the Sensirion Temperature and Humidity SHT40 and SHT45 Sensor.
+*   [MicroPython\_SHT4X (⭐5)](https://github.com/jposada202020/MicroPython_SHT4X) - MicroPython Driver fot the Sensirion Temperature and Humidity SHT40 and SHT45 Sensor.
 *   [MicroPython\_SHT20 (⭐0)](https://github.com/jposada202020/MicroPython_SHT20) - MicroPython Driver for the Sensirion SHT20 Temperature Sensor.
 *   [MicroPython\_MCP9808 (⭐0)](https://github.com/jposada202020/MicroPython_MCP9808) - MicroPython Driver for the Microchip MCP9808 Temperature Sensor.
 *   [MicroPython\_HDC1080 (⭐1)](https://github.com/jposada202020/MicroPython_HDC1080) - MicroPython driver for the TI HDC1080 Temperature and Humidity sensor.
@@ -394,7 +394,7 @@
 
 ### Software / Software Development - FaaS & Serverless
 
-*   [Kubero](https://www.kubero.dev/) - A self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps. ([Demo](https://demo.kubero.dev/), [Source Code (⭐1.8k)](https://github.com/kubero-dev/kubero)) `GPL-3.0` `K8S/Nodejs/Go`
+*   [Kubero](https://www.kubero.dev/) - A self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps. ([Demo](https://demo.kubero.dev/), [Source Code (⭐1.9k)](https://github.com/kubero-dev/kubero)) `GPL-3.0` `K8S/Nodejs/Go`
 
 ## [11. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 

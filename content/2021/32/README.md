@@ -184,23 +184,23 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [kdheepak/panvimdoc (⭐215)](https://github.com/kdheepak/panvimdoc) - A pandoc to vimdoc GitHub action.
+*   [kdheepak/panvimdoc (⭐220)](https://github.com/kdheepak/panvimdoc) - A pandoc to vimdoc GitHub action.
 
 ### Syntax / Diagnostics
 
-*   [RRethy/nvim-treesitter-textsubjects (⭐447)](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*.
+*   [RRethy/nvim-treesitter-textsubjects (⭐451)](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [rose-pine/neovim (⭐1.7k)](https://github.com/rose-pine/neovim) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
+*   [rose-pine/neovim (⭐1.8k)](https://github.com/rose-pine/neovim) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ### Utility / Diagnostics
 
-*   [rktjmp/paperplanes.nvim (⭐86)](https://github.com/rktjmp/paperplanes.nvim) - Post selections or buffers to online paste bins.
+*   [rktjmp/paperplanes.nvim (⭐85)](https://github.com/rktjmp/paperplanes.nvim) - Post selections or buffers to online paste bins.
 
 ### Fennel / Diagnostics
 
-*   [rktjmp/hotpot.nvim (⭐317)](https://github.com/rktjmp/hotpot.nvim) - Seamless, transparent Fennel inside Neovim.
+*   [rktjmp/hotpot.nvim (⭐321)](https://github.com/rktjmp/hotpot.nvim) - Seamless, transparent Fennel inside Neovim.
 
 ### Editing Support / Diagnostics
 
@@ -228,7 +228,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [aPureBase/KGraphQL (⭐289)](https://github.com/aPureBase/KGraphQL) - A GraphQL implementation written in Kotlin
+*   [aPureBase/KGraphQL (⭐290)](https://github.com/aPureBase/KGraphQL) - A GraphQL implementation written in Kotlin
 
 ## [24. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
@@ -302,7 +302,7 @@
 ### Demos / Godot 3.2+
 
 *   [Godot Demo Projects (⭐4.8k)](https://github.com/godotengine/godot-demo-projects) - Official Godot demo projects (everything except the TPS demo).
-*   [TPS Demo (⭐867)](https://github.com/godotengine/tps-demo) - Official Godot third person shooter (TPS) demo with high quality graphics.
+*   [TPS Demo (⭐871)](https://github.com/godotengine/tps-demo) - Official Godot third person shooter (TPS) demo with high quality graphics.
 
 ### Plugins and scripts / Various Godot versions
 
@@ -311,7 +311,7 @@
 ### Plugins and scripts / Godot 3.2+
 
 *   [GodotDiscordSDK (⭐53)](https://github.com/LennyPhoenix/GodotDiscordSDK) - A GDNative wrapper for the Discord Game SDK, adding support for its functionality in GDScript without recompiling the engine (as opposed to something like godotcord which is a custom engine module).
-*   [Voxel-Core (⭐425)](https://github.com/ClarkThyLord/Voxel-Core) - GDScript voxel plugin for creating, importing and editing voxel content in-engine and in-game.
+*   [Voxel-Core (⭐428)](https://github.com/ClarkThyLord/Voxel-Core) - GDScript voxel plugin for creating, importing and editing voxel content in-engine and in-game.
 
 ### Websites / Godot version unknown
 
@@ -381,7 +381,7 @@
 
 ### Projects / Frameworks
 
-*   [Q\*cert (⭐53)](https://github.com/querycert/qcert) - Platform for implementing and verifying query compilers.
+*   [Q\*cert (⭐54)](https://github.com/querycert/qcert) - Platform for implementing and verifying query compilers.
 
 ### Projects / Libraries
 
@@ -389,25 +389,25 @@
 
 ### Projects / Package and Build Management
 
-*   [Coq Nix Toolbox (⭐30)](https://github.com/coq-community/coq-nix-toolbox) - Nix helper scripts to automate local builds and continuous integration for Coq.
+*   [Coq Nix Toolbox (⭐31)](https://github.com/coq-community/coq-nix-toolbox) - Nix helper scripts to automate local builds and continuous integration for Coq.
 *   [coq-community Templates (⭐12)](https://github.com/coq-community/templates) - Templates for generating configuration files for Coq projects.
 *   [Docker-Coq GitHub Action](https://github.com/marketplace/actions/docker-coq-action) - GitHub container action that can be used with Docker-Coq or Docker-MathComp.
 
 ### Projects / Plugins
 
-*   [Coq-Elpi (⭐117)](https://github.com/LPCIC/coq-elpi) - Extension framework based on λProlog providing an extensive API to implement commands and tactics.
+*   [Coq-Elpi (⭐120)](https://github.com/LPCIC/coq-elpi) - Extension framework based on λProlog providing an extensive API to implement commands and tactics.
 
 ### Projects / Tools
 
-*   [Alectryon (⭐212)](https://github.com/cpitclaudel/alectryon) - Collection of tools for writing technical documents that mix Coq code and prose.
+*   [Alectryon (⭐213)](https://github.com/cpitclaudel/alectryon) - Collection of tools for writing technical documents that mix Coq code and prose.
 *   [Autosubst 2 (⭐15)](https://github.com/uds-psl/autosubst2) - Tool that generates Coq code for handling binders in syntax, such as for renaming and substitutions.
 *   [coq-scripts (⭐8)](https://github.com/JasonGross/coq-scripts) - Scripts for dealing with Coq files, including tabulating proof times.
-*   [SerAPI (⭐120)](https://github.com/ejgallego/coq-serapi) - Tools and OCaml library for (de)serialization of Coq code to and from JSON and S-expressions.
+*   [SerAPI (⭐122)](https://github.com/ejgallego/coq-serapi) - Tools and OCaml library for (de)serialization of Coq code to and from JSON and S-expressions.
 
 ### Projects / Verified Software
 
 *   [Ceramist (⭐121)](https://github.com/certichain/ceramist) - Verified hash-based approximate membership structures such as Bloom filters.
-*   [RISC-V Specification in Coq (⭐94)](https://github.com/mit-plv/riscv-coq) - Definition of the RISC-V processor instruction set architecture and extensions.
+*   [RISC-V Specification in Coq (⭐99)](https://github.com/mit-plv/riscv-coq) - Definition of the RISC-V processor instruction set architecture and extensions.
 *   [Vélus](http://velus.inria.fr) - Verified compiler for a Lustre/Scade-like dataflow synchronous language.
 
 ### Resources / Tutorials and Hints
@@ -519,7 +519,7 @@
 ### GTFS Validators / Ruby
 
 *   [gtfstidy (⭐105)](https://github.com/patrickbr/gtfstidy) - A Go-based tool to tidy and validate GTFS feeds.
-*   [Transit App's gtfs-fares-v2-validator (⭐5)](https://github.com/TransitApp/gtfs-fares-v2-validator) - A Python tool that validators GTFS-Fares-v2 data based on the [draft specification](https://docs.google.com/document/d/19j-f-wZ5C_kYXmkLBye1g42U-kvfSVgYLkkG5oyBauY/edit#).
+*   [Transit App's gtfs-fares-v2-validator (⭐6)](https://github.com/TransitApp/gtfs-fares-v2-validator) - A Python tool that validators GTFS-Fares-v2 data based on the [draft specification](https://docs.google.com/document/d/19j-f-wZ5C_kYXmkLBye1g42U-kvfSVgYLkkG5oyBauY/edit#).
 
 ## [42. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -688,7 +688,7 @@
 
 ### Types / Playground
 
-*   [@tool-belt/type-predicates (⭐53)](https://github.com/tool-belt/type-predicates) - Type Predicates, Assertion Functions and Utilities.
+*   [@tool-belt/type-predicates (⭐54)](https://github.com/tool-belt/type-predicates) - Type Predicates, Assertion Functions and Utilities.
 
 ## [52. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 

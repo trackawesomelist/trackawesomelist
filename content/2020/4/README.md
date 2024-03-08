@@ -309,7 +309,7 @@
 
 ### JupyterLab Extensions
 
-*   [lsp (⭐63)](https://github.com/krassowski/jupyterlab-lsp) - IDE-like features (code navigation, hover suggestions, linters, diagnostics, kernel-less autocompletion etc.)
+*   [lsp (⭐87)](https://github.com/krassowski/jupyterlab-lsp) - IDE-like features (code navigation, hover suggestions, linters, diagnostics, kernel-less autocompletion etc.)
 
 ## [33. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
@@ -431,11 +431,11 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Alfresco Community Edition](https://www.alfresco.com/products/community/download) - The open source Enterprise Content Management software that handles any type of content, allowing users to easily share and collaborate on content. ([Source Code (⭐111)](https://github.com/Alfresco/alfresco-community-repo)) `LGPL-3.0` `Java`
+*   [Alfresco Community Edition](https://www.alfresco.com/products/community/download) - The open source Enterprise Content Management software that handles any type of content, allowing users to easily share and collaborate on content. ([Source Code (⭐114)](https://github.com/Alfresco/alfresco-community-repo)) `LGPL-3.0` `Java`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Audioserve (⭐651)](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
+*   [Audioserve (⭐652)](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
 
 ## [43. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -736,7 +736,7 @@ And run this to remove the attributes:
 
 ### Stub packages
 
-*   [wsgitypes (⭐2)](https://github.com/shabbyrobe/wsgitypes) - Typing for WSGI application implementers. These are not stub files, they're interfaces you mark support for to help typecheck WSGI conformance.
+*   [wsgitypes (⭐1)](https://github.com/shabbyrobe/wsgitypes) - Typing for WSGI application implementers. These are not stub files, they're interfaces you mark support for to help typecheck WSGI conformance.
 
 ## [64. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -756,7 +756,7 @@ And run this to remove the attributes:
 
 ### Applications
 
-*   [alacritty (⭐51k)](https://github.com/alacritty/alacritty) — A cross-platform, GPU enhanced terminal emulator
+*   [alacritty (⭐52k)](https://github.com/alacritty/alacritty) — A cross-platform, GPU enhanced terminal emulator
 
 ### Applications / Emulators
 

@@ -10,7 +10,7 @@
 
 ### Tools / Agents
 
-*   [DuetGPT (⭐150)](https://github.com/kristoferlund/duet-gpt): A conversational semi-autonomous developer assistant, AI pair programming without the copypasta. ![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)
+*   [DuetGPT (⭐153)](https://github.com/kristoferlund/duet-gpt): A conversational semi-autonomous developer assistant, AI pair programming without the copypasta. ![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)
 
 ## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -561,7 +561,7 @@
 
 ### Web Frameworks
 
-*   [GoFrame (⭐11k)](https://github.com/gogf/gf) - GoFrame is a modular, full-featured and production-ready application development framework of golang.
+*   [GoFrame (⭐11k)](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 *   [REST Layer (⭐1.2k)](https://github.com/rs/rest-layer) - Framework to build REST/GraphQL API on top of databases with mostly configuration over code.
 
 ### Code Analysis / Libraries for creating HTTP middlewares
@@ -641,16 +641,16 @@
 
 ### Communications / Cryptography
 
-*   [ucryptography (⭐2)](https://github.com/dmazzella/ucryptography) - Lightweight porting of pyca/cryptography to MicroPython based on ARM Mbed TLS.
+*   [ucryptography (⭐3)](https://github.com/dmazzella/ucryptography) - Lightweight porting of pyca/cryptography to MicroPython based on ARM Mbed TLS.
 *   [mprsa (⭐4)](https://github.com/git-n-pissed/mprsa) - A MicroPython module for creating, importing, and exporting RSA keys in DER and PEM formats with PKCS#1, PKCS#8, and X.509/SPKI structures, and signing/verifying and encryption/decryption using blinding and SHA-1 and SHA-256 hashing algorithms.
 
 ### Communications / RTC
 
-*   [micropython-ds1307 (⭐1)](https://github.com/brainelectronics/micropython-ds1307) - MicroPython driver for DS1307 RTC.
+*   [micropython-ds1307 (⭐2)](https://github.com/brainelectronics/micropython-ds1307) - MicroPython driver for DS1307 RTC.
 
 ### Display / OLED
 
-*   [SH1107 (⭐14)](https://github.com/peter-l5/SH1107) - Driver for SH1107 OLED displays (128x128 and 128x64 pixels).
+*   [SH1107 (⭐15)](https://github.com/peter-l5/SH1107) - Driver for SH1107 OLED displays (128x128 and 128x64 pixels).
 
 ### IO / Rotary Encoder
 
@@ -672,11 +672,11 @@
 
 ### Third-Party Packages / General
 
-*   [Weblate (⭐4k)](https://github.com/WeblateOrg/weblate) - Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries.
+*   [Weblate (⭐4.1k)](https://github.com/WeblateOrg/weblate) - Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries.
 
 ### Projects / Boilerplate
 
-*   [django-docker-template (⭐138)](https://github.com/amerkurev/django-docker-template) - Dockerized Django with Postgres, Gunicorn, and Traefik (with auto renew Let's Encrypt).
+*   [django-docker-template (⭐142)](https://github.com/amerkurev/django-docker-template) - Dockerized Django with Postgres, Gunicorn, and Traefik (with auto renew Let's Encrypt).
 
 ## [39. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
@@ -786,14 +786,14 @@
 
 ### Installation Media / Discovery
 
-*   [nixos-infect (⭐1k)](https://github.com/elitak/nixos-infect) - Replace a running non-NixOS Linux host with NixOS.
+*   [nixos-infect (⭐1.1k)](https://github.com/elitak/nixos-infect) - Replace a running non-NixOS Linux host with NixOS.
 
 ### Development / Discovery
 
-*   [Devbox (⭐6.9k)](https://github.com/jetpack-io/devbox) - Instant, portable, and predictable development environments.
-*   [flox (⭐616)](https://github.com/flox/flox) - Manage and share development environments, package projects, and publish artifacts anywhere.
-*   [haumea (⭐212)](https://github.com/nix-community/haumea) - Filesystem-based module system for the Nix language similar to traditional programming languages, with support for file hierarchy and visibility.
-*   [namaka (⭐89)](https://github.com/nix-community/namaka) - Snapshot testing for Nix based on haumea.
+*   [Devbox (⭐7k)](https://github.com/jetpack-io/devbox) - Instant, portable, and predictable development environments.
+*   [flox (⭐636)](https://github.com/flox/flox) - Manage and share development environments, package projects, and publish artifacts anywhere.
+*   [haumea (⭐219)](https://github.com/nix-community/haumea) - Filesystem-based module system for the Nix language similar to traditional programming languages, with support for file hierarchy and visibility.
+*   [namaka (⭐91)](https://github.com/nix-community/namaka) - Snapshot testing for Nix based on haumea.
 
 ## [45. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
@@ -847,7 +847,7 @@
 
 ### System and Customization
 
-*   [Flatseal (⭐968)](https://github.com/tchx84/Flatseal) - Flatpak permission manager.
+*   [Flatseal (⭐983)](https://github.com/tchx84/Flatseal) - Flatpak permission manager.
 
 ## [50. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -880,7 +880,7 @@
 
 ### Audio and Video Tools / File Sharing
 
-*   [Jellyfin (⭐28k)](https://github.com/jellyfin/jellyfin) - The Free Software Media System. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://jellyfin.org) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Jellyfin (⭐29k)](https://github.com/jellyfin/jellyfin) - The Free Software Media System. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://jellyfin.org) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Browsers / Audio Record and Process
 
@@ -941,7 +941,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [Ahoo-Wang/Wow (⭐116)](https://github.com/Ahoo-Wang/Wow) - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
+*   [Ahoo-Wang/Wow (⭐119)](https://github.com/Ahoo-Wang/Wow) - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
 
 ### Libraries/Frameworks / Validation
 
@@ -1004,23 +1004,23 @@
 
 ### Software / Note-taking & Editors
 
-*   [flatnotes (⭐842)](https://github.com/dullage/flatnotes) - A self-hosted, database-less note-taking web app that utilises a flat folder of markdown files for storage. ([Demo](https://demo.flatnotes.io)) `MIT` `Docker`
+*   [flatnotes (⭐881)](https://github.com/dullage/flatnotes) - A self-hosted, database-less note-taking web app that utilises a flat folder of markdown files for storage. ([Demo](https://demo.flatnotes.io)) `MIT` `Docker`
 
 ### Software / Personal Dashboards
 
-*   [Homarr](https://homarr.dev) - Sleek, modern dashboard with many integrations and web-based config. ([Demo](https://demo.homarr.dev), [Source Code (⭐4.6k)](https://github.com/ajnart/homarr)) `MIT` `Docker/Nodejs`
+*   [Homarr](https://homarr.dev) - Sleek, modern dashboard with many integrations and web-based config. ([Demo](https://demo.homarr.dev), [Source Code (⭐4.8k)](https://github.com/ajnart/homarr)) `MIT` `Docker/Nodejs`
 
 ### Software / Task Management & To-do Lists
 
-*   [Tasks.md (⭐326)](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, file based task management board that supports Markdown syntax. `MIT` `Docker`
+*   [Tasks.md (⭐353)](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, file based task management board that supports Markdown syntax. `MIT` `Docker`
 
 ### Software / URL Shorteners
 
-*   [Pastr (⭐21)](https://github.com/hossainalhaidari/pastr) - Super-minimal URL shortener and paste tool that uses a flat-file storage and has no dependencies. ([Demo](https://alhai.de)) `MIT` `Go/Docker`
+*   [Pastr (⭐20)](https://github.com/hossainalhaidari/pastr) - Super-minimal URL shortener and paste tool that uses a flat-file storage and has no dependencies. ([Demo](https://alhai.de)) `MIT` `Go/Docker`
 
 ### Software / Wikis
 
-*   [Mycorrhiza Wiki](https://mycorrhiza.wiki/) - Filesystem and git-based wiki engine written in Go using Mycomarkup as its primary markup language. ([Source Code (⭐202)](https://github.com/bouncepaw/mycorrhiza/)) `AGPL-3.0` `Go`
+*   [Mycorrhiza Wiki](https://mycorrhiza.wiki/) - Filesystem and git-based wiki engine written in Go using Mycomarkup as its primary markup language. ([Source Code (⭐204)](https://github.com/bouncepaw/mycorrhiza/)) `AGPL-3.0` `Go`
 
 ## [63. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 

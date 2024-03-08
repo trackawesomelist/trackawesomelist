@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 01 - Jan 07, 2024
 
-44 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Obsidian Adwaita Theme (⭐88)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
+*   [Obsidian Adwaita Theme (⭐89)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -29,9 +29,9 @@
 
 ### Modules / Various Godot versions
 
-*   [godot-box2d (⭐226)](https://github.com/appsinacup/godot-box2d) - A [Box2D (⭐7.1k)](https://github.com/erincatto/box2d) physics server for Godot (Godot 4.2).
-*   [godot-jolt (⭐1.4k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐5k)](https://github.com/jrouwe/JoltPhysics) (Godot 4.2).
-*   [godot-rapier-2d (⭐79)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐3.2k)](https://github.com/dimforge/rapier) physics server for Godot (Godot 4.2).
+*   [godot-box2d (⭐238)](https://github.com/appsinacup/godot-box2d) - A [Box2D (⭐7.2k)](https://github.com/erincatto/box2d) physics server for Godot (Godot 4.2).
+*   [godot-jolt (⭐1.5k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐5k)](https://github.com/jrouwe/JoltPhysics) (Godot 4.2).
+*   [godot-rapier-2d (⭐81)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐3.4k)](https://github.com/dimforge/rapier) physics server for Godot (Godot 4.2).
 
 ## [5. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
@@ -144,7 +144,6 @@
 ### Table of Contents / Security
 
 *   [PHPSecLib](https://phpseclib.sourceforge.net) - A pure PHP secure communications library.
-*   [Zap (⭐65)](https://github.com/OWASP/www-project-zap) - An integrated penetration testing tool for web applications.
 
 ### Table of Contents / Code Quality
 
@@ -179,21 +178,17 @@
 
 *   [Puppet](https://www.puppet.com) - A server automation framework and application.
 
-### Configuration / PHP Books
-
-*   [Mastering Object-Orientated PHP](https://brandonsavage.net) - A book about object-orientated PHP by Brandon Savage.
-
 ### Configuration / PHP Podcasts
 
-*   [The Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
 *   [Laravel News Podcast](https://podcast.laravel-news.com/) - The Laravel News Podcast brings you all the latest news and events related to the Laravel PHP Framework.
-*   [The PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
-*   [The Laracasts Snippet](https://laracasts.simplecast.com) - The Laracasts snippet, each episode, offers a single thought on some aspect of web development.
-*   [php\[podcast\] episodes from php\[architect\]](https://www.phparch.com/podcast/) - The official podcast of php\[architect] the industry's leading tech magazine and publisher focused on PHP and web development.
-*   [Over Engineered](https://overengineered.fm/) - A podcast in mini-series where we explore unimportant programming questions in extreme detail.
-*   [PHPUgly](https://www.phpugly.com/) - The ramblings of a few overworked PHP Developers.
 *   [No Compromises](https://show.nocompromises.io/) - Two seasoned salty programming veterans talk best practices based on years of working with Laravel SaaS teams.
 *   [North Meets South Web Podcast](https://www.northmeetssouth.audio/) - Jacob Bennett and Michael Dyrynda conquer a 14.5 hour time difference to talk about life as web developers.
+*   [Over Engineered](https://overengineered.fm/) - A podcast in mini-series where we explore unimportant programming questions in extreme detail.
+*   [php\[podcast\] episodes from php\[architect\]](https://www.phparch.com/podcast/) - The official podcast of php\[architect] the industry's leading tech magazine and publisher focused on PHP and web development.
+*   [PHPUgly](https://www.phpugly.com/) - The ramblings of a few overworked PHP Developers.
+*   [The Laracasts Snippet](https://laracasts.simplecast.com) - The Laracasts snippet, each episode, offers a single thought on some aspect of web development.
+*   [The Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
+*   [The PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 
 ## [12. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -235,25 +230,19 @@
 
 *   [Call of Duty: Gunsmith](https://playcanv.as/p/XPWoTZ4F/) - Promotional 3D experience themed on Call of Duty.
 
-## [16. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
-
-### Tools / Environment managers
-
-*   [tofuenv (⭐111)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv.
-
-## [17. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [16. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### CI/CD / Other
 
 *   [Tekton CD](https://tekton.dev/) - A cloud-native pipeline resource.
 
-## [18. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [17. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Emacs / Third-party APIs
 
 *   [sly-overlay](https://git.sr.ht/~fosskers/sly-overlay) - an extension for Sly that enables the overlay of Common Lisp evaluation results directly into the buffer in the spirit of CIDER (Clojure), Eros (Emacs Lisp) and the Lem editor.
 
-## [19. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [18. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### HTTP
 
@@ -269,7 +258,7 @@
 
 *   [Syncfusion .NET PDF Framework](https://www.syncfusion.com/document-processing/pdf-framework/net)  - A high-performance .NET PDF framework with no Adobe dependencies. Create, read, and edit PDF files seamlessly. Utilize PDF viewer controls for easy viewing, reviewing, and printing. Effortlessly convert HTML, Word, Excel, PowerPoint files, and images to PDF with powerful conversion APIs. **\[$]** **\[[Free for Individuals and Small Businesses](https://www.syncfusion.com/products/communitylicense)]**
 
-## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Miscellaneous
 
@@ -279,14 +268,14 @@
 
 *   [Laravel Simple Password Manager (⭐1)](https://github.com/milenmk/Laravel-Simple-Password-Manager) - Simple Password manager. `GPL-3.0` `PHP`
 
-## [21. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [20. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Tools / Templates & Starter Kits
 
 *   [cookiecutter-wagtail-vix (⭐24)](https://github.com/engineervix/cookiecutter-wagtail-vix) - A matteries-included, reusable project skeleton to serve as a starting point for a Wagtail project.
 *   [Wagtail Quickstart with docker (⭐3)](https://github.com/saevarom/wagtail-start-docker) - A template repository to get started quickly with the latest Wagtail in docker.
 
-## [22. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [21. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Rust / React
 
@@ -296,7 +285,7 @@
 
 *   [Tailcall](https://tailcall.run/docs/getting_started/configuration)
 
-## [23. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [22. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Simulators / Analog and Mixed Signal Circuit Simulators
 
@@ -354,7 +343,7 @@
 *   [GrabCad](https://grabcad.com/library/electronic-components-1) - Community supported database of 3D models with a large number of electronic component models.
 *   [3D ContentCentral](https://www.3dcontentcentral.com) - Website dedicated to 3D models of parts (requires login).
 
-## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [23. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -364,14 +353,14 @@
 
 *   [vue3-slot-calendar (⭐483)](https://github.com/icai/vue3-calendar) - A vue 3 calendar, datepicker component which supported lunar or date event, bootstrap style.
 
-## [25. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [24. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Android Keyboard
 
 *   [OpenBoard (⭐2.4k)](https://github.com/openboard-team/openboard) - OpenBoard is a 100% foss keyboard based on AOSP, with no dependency on Google binaries, that respects your privacy.
     *   [OpenBoard upgrade (⭐945)](https://github.com/Helium314/openboard) - A fork of OpenBoard with many additional features and improvements. Releases are in a beta state.
 
-## [26. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [25. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Reference
 
@@ -381,7 +370,7 @@
 
 *   [vtk-ada](https://r3fowwcolhrzycn2yzlzzw.on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 port to VTK 8.1 (Visualization Toolkit).
 
-## [27. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [26. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Physics
 
@@ -395,48 +384,44 @@
 
 *   [C++ Team Blog](https://devblogs.microsoft.com/cppblog/) - Dev blog from the Microsoft Visual C++ team
 
-## [28. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
-
-### Projects / API Gateway
-
-*   [Traefik (⭐46k) (⭐47k)](https://github.com/traefik/traefik) - A modern, open-source API Gateway that is designed to handle dynamic container environments such as Kubernetes, Docker Swarm, and Mesos. It provides load balancing, SSL/TLS termination, rate limiting, circuit breaking, and more.
+## [27. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / Workflow engine
 
 *   [Conductor (⭐12k) (⭐13k)](https://github.com/Netflix/conductor) - A cloud-based orchestration engine designed to run and manage workflows in a microservices architecture.
 
-## [29. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [28. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Databases
 
 *   [Interaction Web Data (iwdb)](https://iwdb.nceas.ucsb.edu/resources.html#host_parasite) - Collation of fish host and parasites datasets from several Canadain liminological sites, including information on prevalence and intensity. Part of a larger database of species interactions in food webs and plant relationships originally developed in 2003 by NCEAS and is now hosted by the Department of Ecology at the University of São Paulo, Brazil.
 *   [Web of Life](https://www.web-of-life.es/) -  An aggregated resource and graphical user interface for easily visualizing and downloading data on ecological networks, including host-parasite interactions. As of January 2024, the host-parasite communities are exclusively gleaned from [Hadfield et al. 2013](https://www.journals.uchicago.edu/doi/full/10.1086/674445) whose original data files are provided on [Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.jf3tj).
 
-## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [Doczilla](https://www.doczilla.app/) — SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code. The free plan allows 250 documents month.
 
-## [31. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [30. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Trading & Backtesting
 
 *   [skfolio (⭐801)](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn. It provides a unified interface and sklearn compatible tools to build, tune and cross-validate portfolio models.
 
-## [32. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [31. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Configuration
 
-*   [django-classy-settings (⭐29)](https://github.com/funkybob/django-classy-settings) - Class based settings to keep your environments in order, with easy access to typed environment variables.
+*   [django-classy-settings (⭐31)](https://github.com/funkybob/django-classy-settings) - Class based settings to keep your environments in order, with easy access to typed environment variables.
 
-## [33. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [32. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools
 
 *   [`prisma-markdown` - Markdown generator, including ERD and descriptions](https://github.com/samchon/prisma-markdown)
 
-## [34. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [33. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### FPS
 
@@ -446,7 +431,7 @@
 
 *   [Abyss Engine (⭐390)](https://github.com/AbyssEngine/AbyssEngine) - Abyss Engine is a game engine designed to run games similar to 2000's style ARPGs such as Diablo II.
 
-## [35. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [34. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Online Tools:
 
@@ -456,13 +441,13 @@
 
 
 
-## [36. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [35. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### Visual Analytics
 
 *   [Crawlbase](https://crawlbase.com/) \[FREE / CREDIT] Crawlbase, a web scraping and web crawling tool, is generously offering 5000 successful requests for free over a three-month period to students, who can take advantage of this opportunity by using the discount code 'SDNT2023'.
 
-## [37. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [36. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Blockchain
 
@@ -484,7 +469,7 @@
 
 *   [iggy-rs/iggy (⭐1.5k)](https://github.com/iggy-rs/iggy) \[[iggy](https://crates.io/crates/iggy)] — Persistent message streaming platform, supporting QUIC, TCP and HTTP transport protocols [![CI](https://github.com/iggy-rs/iggy/actions/workflows/test.yml/badge.svg)](https://github.com/iggy-rs/iggy/actions/workflows/test.yml)
 
-## [38. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [37. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Design Theory
 
@@ -503,13 +488,13 @@
 
 *   [Phy-Q as a measure for physical reasoning intelligence](https://www.nature.com/articles/s42256-022-00583-4) - ***Nature Machine Intelligence***, 2023. \[[NMI Challenge](https://www.nature.com/articles/s42256-019-0072-x)]. An interactive benchmark for AI physical reasoning.
 
-## [39. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [38. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Blogs
 
 *   [Thomas Letan’s articles about OCaml](https://soap.coffee/~lthms/tags/ocaml.html)
 
-## [40. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [39. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Virtualization
 
@@ -535,51 +520,55 @@
 
 *   [Whisky](https://getwhisky.app/) - Wine wrapper that supports GPTK (Game Porting Toolkit) [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Whisky-App/Whisky)
 
-## [41. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [40. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Snippet / Diagnostics
 
-*   [chrisgrieser/nvim-scissors (⭐214)](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
+*   [chrisgrieser/nvim-scissors (⭐219)](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
 
 ### File Explorer / Diagnostics
 
-*   [simonmclean/triptych.nvim (⭐87)](https://github.com/simonmclean/triptych.nvim) - A directory browser inspired by Ranger.
+*   [simonmclean/triptych.nvim (⭐90)](https://github.com/simonmclean/triptych.nvim) - A directory browser inspired by Ranger.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [crispybaccoon/evergarden (⭐22)](https://github.com/crispybaccoon/evergarden) - A comfy Neovim colorscheme for cozy morning coding.
+*   [crispybaccoon/evergarden (⭐23)](https://github.com/crispybaccoon/evergarden) - A comfy Neovim colorscheme for cozy morning coding.
 
 ### Colorscheme Switchers / Diagnostics
 
-*   [CWood-sdf/pineapple (⭐33)](https://github.com/CWood-sdf/pineapple) - Install any colorscheme in your config without leaving your terminal. Collects every colorscheme on the internet and allows you to preview them all before installing.
+*   [CWood-sdf/pineapple (⭐35)](https://github.com/CWood-sdf/pineapple) - Install any colorscheme in your config without leaving your terminal. Collects every colorscheme on the internet and allows you to preview them all before installing.
 
 ### Media / Diagnostics
 
-*   [hakonharnes/img-clip.nvim (⭐267)](https://github.com/hakonharnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
-*   [3rd/image.nvim (⭐541)](https://github.com/3rd/image.nvim) - Add image support through Kitty's graphics protocol or ueberzugpp.
+*   [hakonharnes/img-clip.nvim (⭐281)](https://github.com/hakonharnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
+*   [3rd/image.nvim (⭐560)](https://github.com/3rd/image.nvim) - Add image support through Kitty's graphics protocol or ueberzugpp.
 
 ### Debugging / Diagnostics
 
-*   [chrisgrieser/nvim-chainsaw (⭐65)](https://github.com/chrisgrieser/nvim-chainsaw) - Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.
+*   [chrisgrieser/nvim-chainsaw (⭐68)](https://github.com/chrisgrieser/nvim-chainsaw) - Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [pgosar/CyberNvim (⭐276)](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.
+*   [pgosar/CyberNvim (⭐281)](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.
 *   [crispybaccoon/chaivim (⭐18)](https://github.com/crispybaccoon/chaivim) - Easily configurable distro with solid defaults and a cozy editor experience.
 
-## [42. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [41. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Blockchain Explorers
 
-*   [Allo](https://allo.info) - Allo is a blockchain explorer for all of Algorand created by [Nodely](https://algonode.io) team.
+*   [Allo](https://allo.info) - Allo is a blockchain explorer for all of Algorand created by Nodely.
 
-## [43. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [42. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Scheme / Git
 
 *   [industria](https://gitlab.com/weinholt/industria) - Motley assortment of cryptographic primitives, OpenSSH, DNS.
 
-## [44. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [43. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+
+### Tools / Community providers
+
+*   [tofuenv (⭐111)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv
 
 ### Books
 

@@ -93,7 +93,7 @@
 
 ### Text / Chatbots
 
-*   [Tiledesk](https://tiledesk.com/) - Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.
+*   [Tiledesk](https://tiledesk.com/) - *[reviews](https://altern.ai/product/tiledesk)* - Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.
 
 ### Text / Writing assistants
 
@@ -157,18 +157,18 @@
 
 ### Tools / Services
 
-*   [ChatAbstractions (⭐46)](https://github.com/andrewnguonly/ChatAbstractions): LangChain chat model abstractions for dynamic failover, load balancing, chaos engineering, and more! ![GitHub Repo stars](https://img.shields.io/github/stars/andrewnguonly/ChatAbstractions?style=social)
+*   [ChatAbstractions (⭐65)](https://github.com/andrewnguonly/ChatAbstractions): LangChain chat model abstractions for dynamic failover, load balancing, chaos engineering, and more! ![GitHub Repo stars](https://img.shields.io/github/stars/andrewnguonly/ChatAbstractions?style=social)
 
 ### Tools / Agents
 
-*   [CrewAI (⭐497)](https://github.com/joaomdmoura/crewai): Cutting-edge framework for orchestrating role-playing, autonomous AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewai?style=social)
+*   [CrewAI (⭐9.2k)](https://github.com/joaomdmoura/crewai): Cutting-edge framework for orchestrating role-playing, autonomous AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewai?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Agency (⭐312)](https://github.com/neurocult/agency): 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach ![GitHub Repo stars](https://img.shields.io/github/stars/neurocult/agency?style=social)
-*   [TaskWeaver (⭐2.6k)](https://github.com/microsoft/TaskWeaver): A code-first agent framework for seamlessly planning and executing data analytics tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TaskWeaver?style=social)
-*   [MicroAgent (⭐565)](https://github.com/aymenfurter/microagents): Agents Capable of Self-Editing Their Prompts / Python Code ![GitHub Repo stars](https://img.shields.io/github/stars/aymenfurter/microagents?style=social)
-*   *   [Casibase (⭐1.5k)](https://github.com/casibase/casibase?utm_source=tldrwebdev):
+*   [Agency (⭐353)](https://github.com/neurocult/agency): 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach ![GitHub Repo stars](https://img.shields.io/github/stars/neurocult/agency?style=social)
+*   [TaskWeaver (⭐4.3k)](https://github.com/microsoft/TaskWeaver): A code-first agent framework for seamlessly planning and executing data analytics tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TaskWeaver?style=social)
+*   [MicroAgent (⭐677)](https://github.com/aymenfurter/microagents): Agents Capable of Self-Editing Their Prompts / Python Code ![GitHub Repo stars](https://img.shields.io/github/stars/aymenfurter/microagents?style=social)
+*   *   [Casibase (⭐1.6k)](https://github.com/casibase/casibase?utm_source=tldrwebdev):
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -282,7 +282,7 @@
 ### Driver crates / WIP
 
 *   [MS5637](https://crates.io/crates/ms5637) - no\_std I2C driver for the MS5637 temperature and pressure sensor ![crates.io](https://img.shields.io/crates/v/ms5637.svg)
-*   [HX711 (⭐3)](https://github.com/DaneSlattery/hx711) - GPIO - An interrupt-based driver for the HX711 Load Cell Amplifier IC. no-std.
+*   [HX711 (⭐4)](https://github.com/DaneSlattery/hx711) - GPIO - An interrupt-based driver for the HX711 Load Cell Amplifier IC. no-std.
 
 ## [14. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -423,7 +423,7 @@
 
 ### Email
 
-*   [Maddy (⭐4.5k)](https://github.com/foxcpp/maddy) - All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server
+*   [Maddy (⭐4.6k)](https://github.com/foxcpp/maddy) - All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server
 
 ### Error Handling
 
@@ -461,17 +461,17 @@
 
 ### Mathematics / Waveform Generator
 
-*   [Sun and Moon (⭐407)](https://github.com/peterhinch/micropython-samples/blob/master/astronomy/README.md) - Determine Sun and Moon rise and set times, Moon phases.
+*   [Sun and Moon (⭐412)](https://github.com/peterhinch/micropython-samples/blob/master/astronomy/README.md) - Determine Sun and Moon rise and set times, Moon phases.
 
 ## [22. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / General
 
-*   [django-nh3 (⭐15)](https://github.com/marksweb/django-nh3) - Django integration with for nh3 and is an alternative for django-bleach.
+*   [django-nh3 (⭐14)](https://github.com/marksweb/django-nh3) - Django integration with for nh3 and is an alternative for django-bleach.
 
 ### Third-Party Packages / Search
 
-*   [django-elasticsearch-dsl (⭐990)](https://github.com/django-es/django-elasticsearch-dsl) - Elasticsearch DSL integration for Django.
+*   [django-elasticsearch-dsl (⭐993)](https://github.com/django-es/django-elasticsearch-dsl) - Elasticsearch DSL integration for Django.
 
 ## [23. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 
@@ -514,20 +514,20 @@
 
 ### Development / Discovery
 
-*   [flakelight (⭐113)](https://github.com/nix-community/flakelight) - A modular flake framework aiming to minimize boilerplate.
-*   [services-flake (⭐75)](https://github.com/juspay/services-flake) - A NixOS-like service configuration framework for Nix flakes.
+*   [flakelight (⭐124)](https://github.com/nix-community/flakelight) - A modular flake framework aiming to minimize boilerplate.
+*   [services-flake (⭐89)](https://github.com/juspay/services-flake) - A NixOS-like service configuration framework for Nix flakes.
 
 ## [27. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Automation
 
-*   [swissknife (⭐6)](https://github.com/fakoua/SwissKnife) - SwissKnife - Deno Swiss Knife tools for Windows.
+*   [swissknife (⭐7)](https://github.com/fakoua/SwissKnife) - SwissKnife - Deno Swiss Knife tools for Windows.
 
 ## [28. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Productivity and Time
 
-*   [Planify (⭐2.6k)](https://github.com/alainm23/planify) - Project and task manager with Todoist support.
+*   [Planify (⭐2.7k)](https://github.com/alainm23/planify) - Project and task manager with Todoist support.
 
 ### Internet and Networking
 
@@ -538,8 +538,8 @@
 
 ### Multimedia
 
-*   [Decibels (⭐51)](https://github.com/vixalien/decibels) - Simple music player with waveform view. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-*   [Aviator (⭐120)](https://github.com/gianni-rosato/aviator) - Utility for encoding with SVT-AV1 & Opus.
+*   [Decibels (⭐52)](https://github.com/vixalien/decibels) - Simple music player with waveform view. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Aviator (⭐122)](https://github.com/gianni-rosato/aviator) - Utility for encoding with SVT-AV1 & Opus.
 *   [G4Music](https://flathub.org/apps/com.github.neithern.g4music) - Play your music elegantly.
 *   [Monophony](https://flathub.org/fr/apps/io.gitlab.zehkira.Monophony) - Stream music from YouTube.
 
@@ -549,7 +549,7 @@
 
 ### Utilities
 
-*   [Kooha (⭐1.9k)](https://github.com/SeaDve/Kooha) - Elegantly record your screen.
+*   [Kooha (⭐2k)](https://github.com/SeaDve/Kooha) - Elegantly record your screen.
 
 ## [29. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 

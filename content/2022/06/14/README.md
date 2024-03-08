@@ -21,7 +21,7 @@
 
 ### Books, blogs, and training materials / Community Chat Rooms
 
-*   [Ferrous Systems' Embedded Training Courses: 2020-current edition (⭐236)](https://github.com/ferrous-systems/embedded-trainings-2020) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by [Ferrous Systems](https://ferrous-systems.com) to corporate customers.
+*   [Ferrous Systems' Embedded Training Courses: 2020-current edition (⭐237)](https://github.com/ferrous-systems/embedded-trainings-2020) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by [Ferrous Systems](https://ferrous-systems.com) to corporate customers.
 
 ### Old books, blogs, and training materials / WIP
 
@@ -44,11 +44,11 @@
 ### Modules / Database
 
 *   [cotton (⭐136)](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
-*   [dangoDB (⭐118)](https://github.com/oslabs-beta/dangoDB) - A MongoDB ODM for Deno.
-*   [deno\_mongo (⭐507)](https://github.com/denodrivers/deno_mongo) - MongoDB database driver.
+*   [dangoDB (⭐121)](https://github.com/oslabs-beta/dangoDB) - A MongoDB ODM for Deno.
+*   [deno\_mongo (⭐505)](https://github.com/denodrivers/deno_mongo) - MongoDB database driver.
 *   [deno\_mysql (⭐255)](https://github.com/denodrivers/mysql) - MySQL database driver.
 *   [maxminddb (⭐8)](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
-*   [redis (⭐450)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
+*   [redis (⭐448)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 
 ## [6. Awesome K6](/content/grafana/awesome-k6/README.md)
 

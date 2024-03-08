@@ -294,7 +294,7 @@
 
 ### Resources / Tutorials
 
-*   [postgresDBSamples (⭐395)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
+*   [postgresDBSamples (⭐397)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
 
 ## [26. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
@@ -335,7 +335,7 @@
 
 ### Objective-C / Git
 
-*   [ObjectivePGP (⭐645)](https://github.com/krzyzanowskim/ObjectivePGP) - ObjectivePGP is an implementation of OpenPGP protocol for iOS and macOS. OpenPGP is the most widely used email encryption standard.
+*   [ObjectivePGP (⭐651)](https://github.com/krzyzanowskim/ObjectivePGP) - ObjectivePGP is an implementation of OpenPGP protocol for iOS and macOS. OpenPGP is the most widely used email encryption standard.
 
 ## [31. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 

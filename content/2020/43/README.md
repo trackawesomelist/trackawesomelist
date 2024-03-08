@@ -261,13 +261,13 @@
 
 ### Large Source Code Examples
 
-*   [Dark (⭐1.5k)](https://github.com/darklang/dark) - a combined language, editor, and infrastructure to make it easy to build backends
+*   [Dark (⭐1.6k)](https://github.com/darklang/dark) - a combined language, editor, and infrastructure to make it easy to build backends
 *   [Oni2 (⭐7.7k)](https://github.com/onivim/oni2) - Native, lightweight modal code editor.
 
 ### Project Starter Templates
 
-*   [spin (⭐295)](https://github.com/tmattio/spin) - Reason and Ocaml project generator
-*   [modern-ocaml (⭐66)](https://github.com/Khady/modern-ocaml) - Template for an ocaml project with modern tooling
+*   [spin (⭐296)](https://github.com/tmattio/spin) - Reason and Ocaml project generator
+*   [modern-ocaml (⭐67)](https://github.com/Khady/modern-ocaml) - Template for an ocaml project with modern tooling
 
 ## [11. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
@@ -321,7 +321,7 @@
 
 ### Third-Party Packages / Content Management Systems
 
-*   [feincms (⭐880)](https://github.com/feincms/feincms) - An extensible Django-based CMS.
+*   [feincms (⭐886)](https://github.com/feincms/feincms) - An extensible Django-based CMS.
 
 ## [18. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
@@ -387,10 +387,6 @@
 ### Configuration / Web Applications
 
 *   [DBV (⭐1.7k)](https://github.com/victorstanciu/dbv) - A database version control application.
-
-### Configuration / PHP Books
-
-*   [Modern PHP New Features and Good Practices](https://www.oreilly.com/library/view/~/9781491905173/) - A book about new PHP features and best practices by Josh Lockhart.
 
 ## [23. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
@@ -999,7 +995,7 @@
 
 ### Projects / Tools
 
-*   [Ott (⭐322)](https://github.com/ott-lang/ott) - Tool for writing definitions of programming languages and calculi that can be translated to Coq.
+*   [Ott (⭐323)](https://github.com/ott-lang/ott) - Tool for writing definitions of programming languages and calculi that can be translated to Coq.
 
 ### Projects / Type Theory and Mathematics
 
@@ -1013,7 +1009,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [minimalist-web-notepad (⭐939)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
+*   [minimalist-web-notepad (⭐949)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
 *   [Oddmuse](https://oddmuse.org/) - A simple wiki engine written in Perl. No database required. ([Source Code (⭐70)](https://github.com/kensanata/oddmuse)) `GPL-3.0` `Perl`
 
 ## [62. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)

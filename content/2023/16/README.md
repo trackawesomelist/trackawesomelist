@@ -109,7 +109,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [Ahoo-Wang/Simba (⭐14)](https://github.com/Ahoo-Wang/Simba) - Distributed lock service
+*   [Ahoo-Wang/Simba (⭐15)](https://github.com/Ahoo-Wang/Simba) - Distributed lock service
 
 ## [12. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Webarchive (⭐75)](https://github.com/derfenix/webarchive) - Lightweight self-hosted *wayback machine* that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
+*   [Webarchive (⭐77)](https://github.com/derfenix/webarchive) - Lightweight self-hosted *wayback machine* that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
 
 ## [14. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
@@ -557,7 +557,7 @@
 ### GTFS Merge Tools / Ruby
 
 *   [onebusaway-gtfs-merge-cli](http://developer.onebusaway.org/modules/onebusaway-gtfs-modules/1.3.94/onebusaway-gtfs-merge-cli.html) - A command line tool for merging GTFS feeds. Info provided at the link on how the tool detects and merges duplicate IDs.
-*   [Transitfeed merge function (⭐674)](https://github.com/google/transitfeed/wiki/Merge) - A Python library with a function to merge two different GTFS feeds.
+*   [Transitfeed merge function (⭐676)](https://github.com/google/transitfeed/wiki/Merge) - A Python library with a function to merge two different GTFS feeds.
 
 ## [44. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
@@ -761,20 +761,20 @@
 
 ### Color / Diagnostics
 
-*   [Mr-LLLLL/interestingwords.nvim (⭐31)](https://github.com/Mr-LLLLL/interestingwords.nvim) - Highlight multiple word same time and navigate word under cursor with scrolling smoothly, display search count in virualtext.
+*   [Mr-LLLLL/interestingwords.nvim (⭐32)](https://github.com/Mr-LLLLL/interestingwords.nvim) - Highlight multiple word same time and navigate word under cursor with scrolling smoothly, display search count in virualtext.
 
 ### Colorscheme Creation / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.colors (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-colors.md) - Module of `mini.nvim` to tweak and save any color scheme. Also can animate transition and convert between some color spaces.
+*   [echasnovski/mini.nvim#mini.colors (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-colors.md) - Module of `mini.nvim` to tweak and save any color scheme. Also can animate transition and convert between some color spaces.
 
 ### Bars and Lines / Diagnostics
 
-*   [luukvbaal/statuscol.nvim (⭐405)](https://github.com/luukvbaal/statuscol.nvim) - Configurable 'statuscolumn' with builtin segments and click handlers.
+*   [luukvbaal/statuscol.nvim (⭐417)](https://github.com/luukvbaal/statuscol.nvim) - Configurable 'statuscolumn' with builtin segments and click handlers.
 
 ### Utility / Diagnostics
 
-*   [hbac.nvim (⭐146)](https://github.com/axkirillov/hbac.nvim) - Automatically close buffers you are not working on.
-*   [ecthelionvi/NeoComposer.nvim (⭐346)](https://github.com/ecthelionvi/NeoComposer.nvim) - Simplify macro management, enhance productivity, and create harmonious workflows.
+*   [hbac.nvim (⭐151)](https://github.com/axkirillov/hbac.nvim) - Automatically close buffers you are not working on.
+*   [ecthelionvi/NeoComposer.nvim (⭐359)](https://github.com/ecthelionvi/NeoComposer.nvim) - Simplify macro management, enhance productivity, and create harmonious workflows.
 
 ### Formatting / Diagnostics
 
@@ -831,13 +831,13 @@
 
 ### Tools / Community Chat Rooms
 
-*   [espflash (⭐411)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - ![crates.io](https://img.shields.io/crates/v/espflash.svg)
-*   [espup (⭐177)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - ![crates.io](https://img.shields.io/crates/v/espup.svg)
+*   [espflash (⭐422)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - ![crates.io](https://img.shields.io/crates/v/espflash.svg)
+*   [espup (⭐184)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - ![crates.io](https://img.shields.io/crates/v/espup.svg)
 
 ### Real-time / Real-time tools
 
 *   [RTIC v1.0](https://rtic.rs/1/book/en/) Real-Time Interrupt-driven Concurrency — A concurrency framework for building real-time systems:
-    *   [cortex-m rtic (⭐1.5k)](https://github.com/rtic-rs/cortex-m-rtic) RTIC framework for ARM Cortex-M microcontrollers
+    *   [cortex-m rtic (⭐1.6k)](https://github.com/rtic-rs/cortex-m-rtic) RTIC framework for ARM Cortex-M microcontrollers
     *   [msp430 rtfm (⭐11)](https://github.com/japaric/msp430-rtfm) RTFM framework for MSP430 MCUs
 
 ### Peripheral Access Crates / Espressif
@@ -846,19 +846,19 @@
 
 ### Firmware projects / WIP
 
-*   [μLA (⭐569)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
+*   [μLA (⭐582)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
 
 ## [55. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Programming Languages / OCaml
 
-*   [opam2nix (⭐92)](https://github.com/timbertson/opam2nix) - Generate Nix expressions from opam packages.
+*   [opam2nix (⭐93)](https://github.com/timbertson/opam2nix) - Generate Nix expressions from opam packages.
 
 ## [56. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Gaming
 
-*   [Cartridges (⭐466)](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Cartridges (⭐482)](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 
 ## [57. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 

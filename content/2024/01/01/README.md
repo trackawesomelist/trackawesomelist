@@ -38,13 +38,13 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [crispybaccoon/evergarden (⭐22)](https://github.com/crispybaccoon/evergarden) - A comfy Neovim colorscheme for cozy morning coding.
+*   [crispybaccoon/evergarden (⭐23)](https://github.com/crispybaccoon/evergarden) - A comfy Neovim colorscheme for cozy morning coding.
 
 ## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Blockchain Explorers
 
-*   [Allo](https://allo.info) - Allo is a blockchain explorer for all of Algorand created by [Nodely](https://algonode.io) team.
+*   [Allo](https://allo.info) - Allo is a blockchain explorer for all of Algorand created by Nodely.
 
 ## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

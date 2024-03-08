@@ -373,7 +373,7 @@
 
 ### Storage / Database
 
-*   [uSQLite (⭐71)](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
+*   [uSQLite (⭐77)](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
 
 ## [9. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
@@ -438,7 +438,7 @@
     *   [RocksDB](https://rocksdb.org/)
         *   [rust-rocksdb/rust-rocksdb (⭐1.7k)](https://github.com/rust-rocksdb/rust-rocksdb) — RocksDB bindings [![RocksDB CI](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml)
     *   [SurrealDB](https://surrealdb.com/)
-        *   [surrealdb/surrealdb (⭐24k)](https://github.com/surrealdb/surrealdb) — SurrealDB embedded document-graph database
+        *   [surrealdb/surrealdb (⭐25k)](https://github.com/surrealdb/surrealdb) — SurrealDB embedded document-graph database
     *   [UnQLite](https://unqlite.org/)
         *   [zitsen/unqlite.rs (⭐108)](https://github.com/zitsen/unqlite.rs) — UnQLite bindings
     *   [ZooKeeper](https://zookeeper.apache.org/)

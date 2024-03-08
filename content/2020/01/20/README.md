@@ -89,7 +89,7 @@
 
 ### Stub packages
 
-*   [wsgitypes (⭐2)](https://github.com/shabbyrobe/wsgitypes) - Typing for WSGI application implementers. These are not stub files, they're interfaces you mark support for to help typecheck WSGI conformance.
+*   [wsgitypes (⭐1)](https://github.com/shabbyrobe/wsgitypes) - Typing for WSGI application implementers. These are not stub files, they're interfaces you mark support for to help typecheck WSGI conformance.
 
 ## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Applications
 
-*   [alacritty (⭐51k)](https://github.com/alacritty/alacritty) — A cross-platform, GPU enhanced terminal emulator
+*   [alacritty (⭐52k)](https://github.com/alacritty/alacritty) — A cross-platform, GPU enhanced terminal emulator
 
 ### Libraries / Text search
 

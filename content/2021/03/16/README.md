@@ -23,7 +23,7 @@
 
 ### GTFS Analysis Tools / Ruby
 
-*   [ESRI ArcGIS Public Transit Tools (GTFS) (⭐164)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS
+*   [ESRI ArcGIS Public Transit Tools (GTFS) (⭐162)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS
 
 ## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 

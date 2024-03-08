@@ -89,7 +89,7 @@
 
 ### Firmware projects / WIP
 
-*   [LuLuu (⭐5)](https://github.com/fu5ha/luluu): Firmware for a custom RP2040-based display controller that streams animated images from a microSD card to a small LCD display.
+*   [LuLuu (⭐6)](https://github.com/fu5ha/luluu): Firmware for a custom RP2040-based display controller that streams animated images from a microSD card to a small LCD display.
 
 ## [12. Awesome V](/content/vlang/awesome-v/week/README.md)
 
@@ -118,10 +118,6 @@
 
 ## [15. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
-### Component Libraries
-
-*   [TrendChart Elements (⭐12)](https://github.com/WebLogin/trendchart-elements) - Components to generate simple charts representing trends.
-
 ### Standalone Components
 
 *   [`<editor-container>`](https://github.com/toeverything/blocksuite) - Block based editor, designed for general-purpose collaborative applications.
@@ -132,13 +128,14 @@
 
 ## [16. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
+### Component Libraries
+
+*   [TrendChart Elements (⭐22)](https://github.com/WebLogin/trendchart-elements) - Components to generate simple, light and responsive charts.
+*   [LDRS (⭐1.3k)](https://github.com/GriffinJohnston/ldrs) - Lightweight, customizable loading animations/spinners.
+
 ### Components
 
 *   [`<qr-code>`](https://github.com/bitjson/qr-code) – Web component for rendering customizable, animate-able, SVG-based QR codes.
-
-### Component Libraries
-
-*   [LDRS (⭐1.2k)](https://github.com/GriffinJohnston/ldrs) - Lightweight, customizable loading animations/spinners.
 
 ## [17. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
@@ -166,7 +163,7 @@
 
 ### Serialization
 
-*   [atdgen (⭐288)](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
+*   [atdgen (⭐294)](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
 
 ## [19. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
@@ -235,7 +232,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [SonarDelphi (⭐55)](https://github.com/integrated-application-development/sonar-delphi) — Delphi static analyzer for the SonarQube code quality platform.
+*   [SonarDelphi (⭐58)](https://github.com/integrated-application-development/sonar-delphi) — Delphi static analyzer for the SonarQube code quality platform.
 
 ## [27. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -279,11 +276,11 @@
 
 ### Stub packages
 
-*   [python-phonenumbers-stubs (⭐0)](https://github.com/AA-Turner/python-phonenumbers-stubs) - Stubs for [phonenumbers (⭐3.3k)](https://github.com/daviddrysdale/python-phonenumbers).
+*   [python-phonenumbers-stubs (⭐1)](https://github.com/AA-Turner/python-phonenumbers-stubs) - Stubs for [phonenumbers (⭐3.4k)](https://github.com/daviddrysdale/python-phonenumbers).
 
 ### Additional types
 
-*   [useful-types (⭐41)](https://github.com/hauntsaninja/useful_types) - Collection of useful protocols and type aliases.
+*   [useful-types (⭐62)](https://github.com/hauntsaninja/useful_types) - Collection of useful protocols and type aliases.
 
 ## [33. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -409,7 +406,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [nsk90/kstatemachine (⭐283)](https://github.com/nsk90/kstatemachine) - KStateMachine is a Kotlin DSL library for creating state machines and statecharts.
+*   [nsk90/kstatemachine (⭐298)](https://github.com/nsk90/kstatemachine) - KStateMachine is a Kotlin DSL library for creating state machines and statecharts.
 
 ## [39. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
@@ -426,12 +423,12 @@
 
 ### Software / Automation
 
-*   [Kestra](https://kestra.io) - Event-driven, language-agnostic platform to create, schedule, and monitor workflows. In code. Coordinate data pipelines and tasks such as ETL and ELT. ([Source Code (⭐5.3k)](https://github.com/kestra-io/kestra)) `Apache-2.0` `Docker`
+*   [Kestra](https://kestra.io) - Event-driven, language-agnostic platform to create, schedule, and monitor workflows. In code. Coordinate data pipelines and tasks such as ETL and ELT. ([Source Code (⭐5.4k)](https://github.com/kestra-io/kestra)) `Apache-2.0` `Docker`
 
 ### Software / Bookmarks and Link Sharing
 
 *   [Digibunch](https://ladigitale.dev/digibunch/#/) - Create bunches of links to share with your learners or colleagues. ([Demo](https://ladigitale.dev/digibunch/#/b/5f67b12092b60), [Source Code](https://codeberg.org/ladigitale/digibunch)) `AGPL-3.0` `Nodejs/PHP`
-*   [Slash (⭐899)](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. `GPL-3.0` `Docker`
+*   [Slash (⭐990)](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. `GPL-3.0` `Docker`
 
 ### Software / Document Management
 
@@ -439,15 +436,15 @@
 
 ### Software / Document Management - E-books
 
-*   [Librum](https://librumreader.com) - A modern e-book reader and library manager that supports most major book formats, runs on all devices and offers great tools to boost productivity. ([Source Code (⭐3.2k)](https://github.com/Librum-Reader/Librum)) `GPL-3.0` `C++`
+*   [Librum](https://librumreader.com) - A modern e-book reader and library manager that supports most major book formats, runs on all devices and offers great tools to boost productivity. ([Source Code (⭐3.3k)](https://github.com/Librum-Reader/Librum)) `GPL-3.0` `C++`
 
 ### Software / Games
 
-*   [Suroi](https://suroi.io/) - An open-source 2D battle royale game inspired by surviv.io. ([Demo](https://suroi.io/), [Source Code (⭐128)](https://github.com/HasangerGames/suroi)) `GPL-3.0` `Nodejs`
+*   [Suroi](https://suroi.io/) - An open-source 2D battle royale game inspired by surviv.io. ([Demo](https://suroi.io/), [Source Code (⭐144)](https://github.com/HasangerGames/suroi)) `GPL-3.0` `Nodejs`
 
 ### Software / Inventory Management
 
-*   [Homebox Inventory](https://hay-kot.github.io/homebox/) - An inventory and organization system built for the home user with a focus on simplicity and ease of use. ([Demo](https://homebox.fly.dev/), [Source Code (⭐2.1k)](https://github.com/hay-kot/homebox)) `AGPL-3.0` `Docker`
+*   [Homebox Inventory](https://hay-kot.github.io/homebox/) - An inventory and organization system built for the home user with a focus on simplicity and ease of use. ([Demo](https://homebox.fly.dev/), [Source Code (⭐2.2k)](https://github.com/hay-kot/homebox)) `AGPL-3.0` `Docker`
 
 ### Software / Learning and Courses
 
@@ -456,7 +453,7 @@
 ### Software / Miscellaneous
 
 *   [Digiview](https://ladigitale.dev/digiview/) `⚠` - View YouTube videos in a distraction-free interface (documentation in French). ([Demo](https://ladigitale.dev/digiview/), [Source Code](https://codeberg.org/ladigitale/digiview)) `AGPL-3.0` `Nodejs/PHP`
-*   [ESMira](https://esmira.kl.ac.at) - Run longitudinal studies (ESM, AA, EMA) with data collection and communication with participants being completely anonymous. ([Demo](https://demo-esmira.kl.ac.at/#admin,username:demo,password:demodemodemo), [Source Code (⭐7)](https://github.com/KL-Psychological-Methodology/ESMira)) `AGPL-3.0` `PHP`
+*   [ESMira](https://esmira.kl.ac.at) - Run longitudinal studies (ESM, AA, EMA) with data collection and communication with participants being completely anonymous. ([Demo](https://demo-esmira.kl.ac.at/#admin,username:demo,password:demodemodemo), [Source Code (⭐9)](https://github.com/KL-Psychological-Methodology/ESMira)) `AGPL-3.0` `PHP`
 *   [LanguageTool](https://languagetool.org/) - Proofread more than 20 languages. It finds many errors that a simple spell checker cannot detect. ([Source Code (⭐11k)](https://github.com/languagetool-org/languagetool), [Clients](https://languagetool.org/insights/post/product-windows-app/)) `LGPL-2.1` `Java/Docker`
 
 ### Software / Video Surveillance
@@ -465,7 +462,7 @@
 
 ### Software / Wikis
 
-*   [Otter Wiki (⭐103)](https://github.com/redimp/otterwiki) - Simple, easy to use wiki software using markdown. `MIT` `Docker`
+*   [Otter Wiki (⭐114)](https://github.com/redimp/otterwiki) - Simple, easy to use wiki software using markdown. `MIT` `Docker`
 
 ## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -533,16 +530,16 @@
 
 ### (requires Neovim 0.5)
 
-*   [hedyhli/outline.nvim (⭐214)](https://github.com/hedyhli/outline.nvim) - A significantly enhanced and refactored fork of `symbols-outline.nvim`.
-*   [stevanmilic/nvim-lspimport (⭐35)](https://github.com/stevanmilic/nvim-lspimport) - Automatically resolves imports for undefined terms. Useful with `pyright` language server.
+*   [hedyhli/outline.nvim (⭐245)](https://github.com/hedyhli/outline.nvim) - A significantly enhanced and refactored fork of `symbols-outline.nvim`.
+*   [stevanmilic/nvim-lspimport (⭐37)](https://github.com/stevanmilic/nvim-lspimport) - Automatically resolves imports for undefined terms. Useful with `pyright` language server.
 
 ### Programming Languages Support / Diagnostics
 
-*   [simaxme/java.nvim (⭐16)](https://github.com/simaxme/java.nvim) - Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in nvim-tree).
+*   [simaxme/java.nvim (⭐15)](https://github.com/simaxme/java.nvim) - Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in nvim-tree).
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Tsuzat/NeoSolarized.nvim (⭐132)](https://github.com/Tsuzat/NeoSolarized.nvim) - NeoSolarized colorscheme with full transparency.
+*   [Tsuzat/NeoSolarized.nvim (⭐141)](https://github.com/Tsuzat/NeoSolarized.nvim) - NeoSolarized colorscheme with full transparency.
 
 ### Lua Colorscheme / Diagnostics
 
@@ -588,10 +585,10 @@
 
 *   [exa (zap-zsh) (⭐16)](https://github.com/zap-zsh/exa) - Overrides common commands to use exa instead.
 *   [exa-ls (zpm-zsh) (⭐92)](https://github.com/zpm-zsh/ls) - Zsh plugin for ls.
-*   [eza (twopizza9621536) (⭐2)](https://github.com/twopizza9621536/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐5.5k)](https://github.com/eza-community/eza).
-*   [no-ps2 (⭐7)](https://github.com/romkatv/zsh-no-ps2) - When this plugin is used, Enter inserts a newline if the typed command is incomplete. No PS2!
+*   [eza (twopizza9621536) (⭐2)](https://github.com/twopizza9621536/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐6k)](https://github.com/eza-community/eza).
+*   [no-ps2 (⭐9)](https://github.com/romkatv/zsh-no-ps2) - When this plugin is used, Enter inserts a newline if the typed command is incomplete. No PS2!
 *   [run-scripts (⭐3)](https://github.com/Aireck2/zsh-run-scripts) - Runs scripts from `package.json`.
-*   [zsh-expand (⭐24)](https://github.com/MenkeTechnologies/zsh-expand) - Expands regular aliases, global aliases and incorrect spellings and phrases with the spacebar key. Native expansions such as globs, command/process substitution, `=command expansion`, history expansion and `$parameters` are also expanded by default but can be turned off.
+*   [zsh-expand (⭐25)](https://github.com/MenkeTechnologies/zsh-expand) - Expands regular aliases, global aliases and incorrect spellings and phrases with the spacebar key. Native expansions such as globs, command/process substitution, `=command expansion`, history expansion and `$parameters` are also expanded by default but can be turned off.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

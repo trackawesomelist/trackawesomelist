@@ -59,7 +59,7 @@
 
 ### Languages / Ruby
 
-*   [TEALrb (⭐8)](https://github.com/joe-p/TEALrb) - A Ruby DSL for writing Algorand smart contracts.
+*   [TEALrb (⭐8)](https://github.com/joe-p/TEALrb) - A Ruby DSL for writing Algorand smart contracts. (Archived on Jan 22, 2023)
 
 ## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

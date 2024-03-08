@@ -17,7 +17,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [soulis-1256/eagle.nvim (⭐123)](https://github.com/soulis-1256/eagle.nvim) - Mouse-hover LSP hints.
+*   [soulis-1256/eagle.nvim (⭐147)](https://github.com/soulis-1256/eagle.nvim) - Mouse-hover LSP hints.
 
 ## [3. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -39,11 +39,11 @@
 
 ### CI/CD / Other
 
-*   [Gantry (⭐12)](https://github.com/shizunge/gantry) - Automatically update selected Docker swarm services.
+*   [Gantry (⭐16)](https://github.com/shizunge/gantry) - Automatically update selected Docker swarm services.
 
 ### Garbage Collection / Other
 
-*   [Docuum (⭐539)](https://github.com/stepchowfun/docuum) - Least recently used (LRU) eviction of Docker images by [@stepchowfun](https://github.com/stepchowfun)
+*   [Docuum (⭐545)](https://github.com/stepchowfun/docuum) - Least recently used (LRU) eviction of Docker images by [@stepchowfun](https://github.com/stepchowfun)
 
 ---
 

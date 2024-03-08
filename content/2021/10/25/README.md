@@ -16,7 +16,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [b0o/SchemaStore.nvim (⭐581)](https://github.com/b0o/SchemaStore.nvim) - Provide access to the [SchemaStore (⭐2.7k)](https://github.com/SchemaStore/schemastore) catalog.
+*   [b0o/SchemaStore.nvim (⭐595)](https://github.com/b0o/SchemaStore.nvim) - Provide access to the [SchemaStore (⭐2.8k)](https://github.com/SchemaStore/schemastore) catalog.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [arrow-kt/arrow-meta (⭐382)](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler.
+*   [arrow-kt/arrow-meta (⭐385)](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler.
 
 ## [10. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Third-Party Packages / Full-stack frameworks
 
-*   [iommi (⭐593)](https://github.com/TriOptima/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
+*   [iommi (⭐620)](https://github.com/TriOptima/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

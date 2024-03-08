@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 28, 2022
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,13 +30,7 @@
 
 *   [Vexip UI (⭐1.4k)](https://github.com/qmhc/vexip-ui) - A Vue 3 UI Library, Highly customizable property values, Full TypeScript, Performance should be good.
 
-## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
-
-### Projects / Wallets
-
-*   [AlgoTables (⭐4)](https://github.com/algotables/algotables.github.io) - A suite of tools designed to aid everyday hodlers of ALGO who participate in the Algorand ecosystem.
-
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
@@ -46,7 +40,7 @@
 
 *   [elmah.io](https://elmah.io/) — Error logging and uptime monitoring for web developers. Free Small Business subscription for open-source projects.
 
-## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Podcasts
 
@@ -56,13 +50,13 @@
 *   [On Call Nightmares (retired)](https://podcasts.apple.com/us/podcast/on-call-nightmares-podcast/id1447430839)
 *   [Making of the SRE Omelette](https://open.spotify.com/show/1KxLVUduNdDRAiOw8BB32J)
 
-## [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### CLI Builder
 
 *   [dry-cli (⭐317)](https://github.com/dry-rb/dry-cli) - General purpose Command Line Interface (CLI) framework for Ruby.
 
-## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Games
 
@@ -76,19 +70,19 @@
 
 *   [czg (⭐769)](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 
-## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [9. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Libraries / Python
 
 *   [ODMantic (⭐848)](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
 
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [lmburns/kimbox (⭐64)](https://github.com/lmburns/kimbox) - A colorscheme with a dark background, and vibrant foreground that is centered around the color brown. A modification of [Kimbie Dark](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus).
+*   [lmburns/kimbox (⭐66)](https://github.com/lmburns/kimbox) - A colorscheme with a dark background, and vibrant foreground that is centered around the color brown. A modification of [Kimbie Dark](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus).
 
-## [12. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [11. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 

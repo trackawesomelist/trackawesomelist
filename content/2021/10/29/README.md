@@ -16,7 +16,7 @@
 
 ### Projects / Package and Build Management
 
-*   [Coq Platform (⭐167)](https://github.com/coq/platform) - Curated collection of packages to support Coq use in industry, education, and research.
+*   [Coq Platform (⭐171)](https://github.com/coq/platform) - Curated collection of packages to support Coq use in industry, education, and research.
 
 ### Projects / Verified Software
 
@@ -96,7 +96,7 @@
 
 ### Programming Languages / Rust
 
-*   [nix-cargo-integration (⭐162)](https://github.com/yusdacra/nix-cargo-integration) - A library that allows easy and effortless integration for Cargo projects.
+*   [nix-cargo-integration (⭐164)](https://github.com/yusdacra/nix-cargo-integration) - A library that allows easy and effortless integration for Cargo projects.
 
 ## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

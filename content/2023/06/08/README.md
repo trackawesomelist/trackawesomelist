@@ -26,7 +26,7 @@
 
 ### Command-Line Tools / Discovery
 
-*   [nix-melt (⭐173)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
+*   [nix-melt (⭐178)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

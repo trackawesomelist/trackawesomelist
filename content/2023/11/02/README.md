@@ -47,11 +47,11 @@
 
 ### Search / Diagnostics
 
-*   [mangelozzi/rgflow.nvim (⭐61)](https://github.com/mangelozzi/rgflow.nvim) - Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI.
+*   [mangelozzi/rgflow.nvim (⭐62)](https://github.com/mangelozzi/rgflow.nvim) - Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [miikanissi/modus-themes.nvim (⭐89)](https://github.com/miikanissi/modus-themes.nvim) - Accessible theme, conforming with the highest standard for color contrast (WCAG AAA).
+*   [miikanissi/modus-themes.nvim (⭐97)](https://github.com/miikanissi/modus-themes.nvim) - Accessible theme, conforming with the highest standard for color contrast (WCAG AAA).
 
 ## [6. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 

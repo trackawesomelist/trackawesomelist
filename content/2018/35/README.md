@@ -273,13 +273,13 @@
     *   Externally managed plugins e.g., [oh-my-zsh (⭐167k)](https://github.com/ohmyzsh/ohmyzsh) and [prezto (⭐14k)](https://github.com/sorin-ionescu/prezto) plugins/themes
     *   Binary artifacts on [GitHub Releases](https://help.github.com/articles/about-releases/)
     *   Local plugins
-    *   etc. (you can add your [own sources (⭐5.6k)](https://github.com/zplug/zplug/blob/master/doc/guide/External-Sources.md)!)
+    *   etc. (you can add your [own sources (⭐5.7k)](https://github.com/zplug/zplug/blob/master/doc/guide/External-Sources.md)!)
 *   Super-fast parallel installation/update
 *   Support for lazy-loading
 *   Branch/tag/commit support
 *   Post-update, post-load hooks
-*   Interactive interface ([fzf (⭐58k)](https://github.com/junegunn/fzf), [peco (⭐7.5k)](https://github.com/peco/peco), [zaw (⭐552)](https://github.com/zsh-users/zaw), and so on)
-*   Cache mechanism for reducing [the startup time (⭐5.6k)](https://github.com/zplug/zplug#vs)
+*   Interactive interface ([fzf (⭐58k)](https://github.com/junegunn/fzf), [peco (⭐7.5k)](https://github.com/peco/peco), [zaw (⭐559)](https://github.com/zsh-users/zaw), and so on)
+*   Cache mechanism for reducing [the startup time (⭐5.7k)](https://github.com/zplug/zplug#vs)
 
 ## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -370,17 +370,17 @@
 
 ### Visualization
 
-*   [jupyter-gmaps (⭐754)](https://github.com/pbugnion/gmaps) - Interactive visualization library for Google Maps in Jupyter notebooks.
+*   [jupyter-gmaps (⭐761)](https://github.com/pbugnion/gmaps) - Interactive visualization library for Google Maps in Jupyter notebooks.
 
 ### JupyterLab Extensions
 
-*   [celltags (⭐112)](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags.
-*   [drawio (⭐573)](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
-*   [google-drive (⭐394)](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
-*   [latex (⭐563)](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
-*   [toc (⭐726)](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
+*   [celltags (⭐111)](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags.
+*   [drawio (⭐587)](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
+*   [google-drive (⭐398)](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
+*   [latex (⭐598)](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
+*   [toc (⭐724)](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
 *   [variableinspector (⭐1k)](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values.
-*   [voyager (⭐291)](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
+*   [voyager (⭐293)](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
 
 ## [22. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 

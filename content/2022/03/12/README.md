@@ -18,7 +18,7 @@
 
 ### Utility / Diagnostics
 
-*   [jghauser/fold-cycle.nvim (⭐69)](https://github.com/jghauser/fold-cycle.nvim) - Cycle folds open or closed.
+*   [jghauser/fold-cycle.nvim (⭐71)](https://github.com/jghauser/fold-cycle.nvim) - Cycle folds open or closed.
 
 ## [3. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
 
@@ -53,13 +53,13 @@
 
 ### Projects / Type Theory and Mathematics
 
-*   [Four Color Theorem (⭐144)](https://github.com/coq-community/fourcolor) - Formal proof of the Four Color Theorem, a landmark result of graph theory.
+*   [Four Color Theorem (⭐146)](https://github.com/coq-community/fourcolor) - Formal proof of the Four Color Theorem, a landmark result of graph theory.
 
 ## [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Web framework
 
-*   [faster (⭐28)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
+*   [faster (⭐29)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

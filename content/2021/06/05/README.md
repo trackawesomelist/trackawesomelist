@@ -104,7 +104,7 @@
 
 ### DevOps / Apache License
 
-*   [septum (⭐363)](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
+*   [septum (⭐366)](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
 
 ## [15. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

@@ -100,7 +100,7 @@
 
 ### Development / Discovery
 
-*   [templates (⭐19)](https://github.com/nix-community/templates) - Project templates for many languages using Nix flakes.
+*   [templates (⭐23)](https://github.com/nix-community/templates) - Project templates for many languages using Nix flakes.
 
 ## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -198,7 +198,7 @@
 
 ### Utility / Diagnostics
 
-*   [GCBallesteros/jupytext.nvim (⭐38)](https://github.com/GCBallesteros/jupytext.nvim) - Edit jupyter notebooks without leaving Neovim.
+*   [GCBallesteros/jupytext.nvim (⭐42)](https://github.com/GCBallesteros/jupytext.nvim) - Edit jupyter notebooks without leaving Neovim.
 
 ## [16. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

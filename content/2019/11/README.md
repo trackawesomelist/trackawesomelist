@@ -432,7 +432,7 @@ Free
 ### Tools / Community Chat Rooms
 
 *   [xargo (⭐1.1k)](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries — build Rust runtime for your embedded system.
-    *   xargo is great, but since it's in maintenance mode, [cargo-xbuild (⭐252)](https://github.com/rust-osdev/cargo-xbuild) is catching up as its intended replacement.
+    *   xargo is great, but since it's in maintenance mode, [cargo-xbuild (⭐255)](https://github.com/rust-osdev/cargo-xbuild) is catching up as its intended replacement.
 
 ### HAL implementation crates / STMicroelectronics
 
@@ -468,7 +468,7 @@ Free
 
 ### Software / Communication - SIP
 
-*   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐692)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
+*   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐699)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
 
 ## [30. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -557,7 +557,7 @@ Free
 
 ### Runtimes/Frontends
 
-*   [JupyterWith (⭐488)](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
+*   [JupyterWith (⭐580)](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
 
 ## [39. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 

@@ -1258,10 +1258,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
 *   [Tutanota](https://tutanota.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage. Which is also partially [open source (⭐5.7k)](https://github.com/tutao/tutanota), so you can self-host.
 
-### Managed Data Services
-
-*   [Planetscale](https://planetscale.com/) - PlanetScale is a MySQL-compatible, serverless database platform powered by Vitess, one database for free with 1 Production branch and 1 Development branch, 5GB storage, 1 Billion rows read/mo per database, and 10 Million rows written/mo per database.
-
 ### Storage and Media Processing
 
 *   [AndroidFileHost](https://androidfilehost.com/) - Free file-sharing platform with unlimited speed, bandwidth, file count, download count, etc. It is mainly aimed for Android dev-related files like APK build, custom ROM & modifications, etc. But seems to accept any other files as well.
@@ -4080,7 +4076,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### BaaS
 
-*   [onesignal.com](https://onesignal.com/) — Unlimited free push notifications
+*   [onesignal.com](https://onesignal.com/) — Unlimited free push notifications. 10,000 email sends per month, with unlimited contacts and access to Auto Warm Up.
 *   [paraio.com](https://paraio.com) — Backend service API with flexible authentication, full-text search and caching. Free for one app, 1GB of app data.
 *   [progress.com](https://www.progress.com/kinvey) — Mobile backend, starter plan has unlimited requests/second, with 1 GB of data storage. Enterprise application support
 *   [pushbots.com](https://pushbots.com/) — Push notification service. Free for up to 1.5 million pushes/month

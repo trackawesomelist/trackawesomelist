@@ -71,11 +71,11 @@
 
 ### AI / Diagnostics
 
-*   [jpmcb/nvim-llama (⭐171)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
+*   [jpmcb/nvim-llama (⭐182)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
 
 ### Syntax / Diagnostics
 
-*   [IndianBoy42/tree-sitter-just (⭐94)](https://github.com/IndianBoy42/tree-sitter-just) - Treesitter grammar for [Justfiles (⭐16k)](https://github.com/casey/just).
+*   [IndianBoy42/tree-sitter-just (⭐98)](https://github.com/IndianBoy42/tree-sitter-just) - Treesitter grammar for [Justfiles (⭐16k)](https://github.com/casey/just).
 
 ### Snippet / Diagnostics
 
@@ -83,7 +83,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [nat-418/boole.nvim (⭐118)](https://github.com/nat-418/boole.nvim) - Toggle booleans and common string values.
+*   [nat-418/boole.nvim (⭐133)](https://github.com/nat-418/boole.nvim) - Toggle booleans and common string values.
 
 ## [5. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
 

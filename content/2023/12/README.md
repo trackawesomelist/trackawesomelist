@@ -18,10 +18,10 @@
 
 *   dvm
     *   [asdf-community/asdf-deno](https://github.com/asdf-community/asdf-deno.git) - Deno plugin for [asdf](https://asdf-vm.com/)
-    *   [justjavac/dvm (⭐614)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
+    *   [justjavac/dvm (⭐616)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
     *   [axetroy/dvm (⭐167)](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
     *   [dvm.cmd (⭐2)](https://github.com/MarkTiedemann/dvm.cmd) - Deno Version Manager for Windows. Written as a single batch file.
-    *   [ghosind/dvm (⭐29)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
+    *   [ghosind/dvm (⭐30)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
 
 ## [3. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
@@ -61,12 +61,12 @@
 ### Software / Money, Budgeting & Management
 
 *   [Budget Zen](https://budgetzen.net) - End-to-end encrypted and simple expense manager. ([Demo](https://app.budgetzen.net), [Source Code (⭐57)](https://github.com/BrunoBernardino/budgetzen-web)) `AGPL-3.0` `Deno`
-*   [Lago](https://www.getlago.com/) - Open-source metering and usage-based billing. ([Source Code (⭐5.2k)](https://github.com/getlago/lago)) `AGPL-3.0` `Docker`
+*   [Lago](https://www.getlago.com/) - Open-source metering and usage-based billing. ([Source Code (⭐5.3k)](https://github.com/getlago/lago)) `AGPL-3.0` `Docker`
 
 ### Software / Search Engines
 
 *   [Hound (⭐5.5k)](https://github.com/hound-search/hound) - Lightning fast code searching made easy. `MIT` `Go/Docker`
-*   [LibreX (⭐742)](https://github.com/hnhx/librex) `⚠` - Framework and javascript free privacy respecting meta search engine. `AGPL-3.0` `PHP/Docker`
+*   [LibreX (⭐748)](https://github.com/hnhx/librex) `⚠` - Framework and javascript free privacy respecting meta search engine. `AGPL-3.0` `PHP/Docker`
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -161,7 +161,7 @@
 
 ### Other / [Other](#other-1)
 
-*   [Credential Digger (⭐289)](https://github.com/SAP/credential-digger) — Credential Digger is a GitHub scanning tool that identifies hardcoded credentials (Passwords, API Keys, Secret Keys, Tokens, personal information, etc),  and filtering the false positive data through a machine learning model called [Password Model](https://huggingface.co/SAPOSS/password-model). This scanner is able to detect passwords and non structured tokens with a low false positive rate.
+*   [Credential Digger (⭐290)](https://github.com/SAP/credential-digger) — Credential Digger is a GitHub scanning tool that identifies hardcoded credentials (Passwords, API Keys, Secret Keys, Tokens, personal information, etc),  and filtering the false positive data through a machine learning model called [Password Model](https://huggingface.co/SAPOSS/password-model). This scanner is able to detect passwords and non structured tokens with a low false positive rate.
 
 ## [19. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
@@ -190,11 +190,11 @@
 
 ### CI/CD / Other
 
-*   [Jaypore CI (⭐34)](https://github.com/theSage21/jaypore_ci) - Simple, very flexible, powerful CI / CD / automation system configured in Python. Offline and local first.
+*   [Jaypore CI (⭐35)](https://github.com/theSage21/jaypore_ci) - Simple, very flexible, powerful CI / CD / automation system configured in Python. Offline and local first.
 
 ### Testing / Other
 
-*   [Kurtosis (⭐206)](https://github.com/kurtosis-tech/kurtosis) - A composable build system for multi-container test environments that provides developers with: a powerful Python-like SDK for environment configuration, a compile-time validator to verify environment behavior & setup, and a runtime for environment execution, monitoring, & debugging capabilities. By [Kurtosis](https://www.kurtosis.com/)
+*   [Kurtosis (⭐239)](https://github.com/kurtosis-tech/kurtosis) - A composable build system for multi-container test environments that provides developers with: a powerful Python-like SDK for environment configuration, a compile-time validator to verify environment behavior & setup, and a runtime for environment execution, monitoring, & debugging capabilities. By [Kurtosis](https://www.kurtosis.com/)
 
 ## [22. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
@@ -212,12 +212,12 @@
 
 ### Libraries/Frameworks / Database
 
-*   [komapper/komapper (⭐250)](https://github.com/komapper/komapper) - Komapper is an ORM library for server-side Kotlin with JDBC and R2DBC support.
+*   [komapper/komapper (⭐255)](https://github.com/komapper/komapper) - Komapper is an ORM library for server-side Kotlin with JDBC and R2DBC support.
 
 ### Libraries/Frameworks / API Clients
 
+*   [MoviebaseApp/tmdb-api (⭐179)](https://github.com/MoviebaseApp/tmdb-api) - Modern powerful TMDB API to fetch movies and TV shows for Kotlin Multiplatform.
 *   [MoviebaseApp/trakt-api (⭐39)](https://github.com/MoviebaseApp/trakt-api) - Modern powerful Trakt API to track, discover and share your movies & TV shows.
-*   [MoviebaseApp/tmdb-api (⭐178)](https://github.com/MoviebaseApp/tmdb-api) - Modern powerful TMDB API to fetch movies and TV shows for Kotlin Multiplatform.
 
 ## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -256,7 +256,7 @@
 
 ### Domain-Specific Projects
 
-*   [xontrib-jupyter (⭐17)](https://github.com/xonsh/xontrib-jupyter) - Jupyter kernel for xonsh, a Python-powered, cross-platform, Unix-gazing shell language.
+*   [xontrib-jupyter (⭐25)](https://github.com/xonsh/xontrib-jupyter) - Jupyter kernel for xonsh, a Python-powered, cross-platform, Unix-gazing shell language.
 
 ## [29. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
@@ -319,7 +319,7 @@
 
 ### Projects / Godot 4.0
 
-*   [Clipboard Narrator (⭐30)](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
+*   [Clipboard Narrator (⭐34)](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
 
 ## [34. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -439,7 +439,7 @@
 
 ### Tools / Playground
 
-*   [dep-tree (⭐27)](https://github.com/gabotechs/dep-tree) - Render your project's file dependency tree and/or validate it against your own rules.
+*   [dep-tree (⭐1k)](https://github.com/gabotechs/dep-tree) - Render your project's file dependency tree and/or validate it against your own rules.
 
 ### :free: Free Courses / Chrome Extensions
 
@@ -453,7 +453,7 @@
 
 ### Startup / Diagnostics
 
-*   [willothy/veil.nvim (⭐119)](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizable startup / dashboard plugin.
+*   [willothy/veil.nvim (⭐121)](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizable startup / dashboard plugin.
 
 ### Utility / Diagnostics
 
@@ -461,21 +461,21 @@
 
 ### Code Runner / Diagnostics
 
-*   [MarcHamamji/runner.nvim (⭐39)](https://github.com/MarcHamamji/runner.nvim) - A customizable Lua code runner.
+*   [MarcHamamji/runner.nvim (⭐40)](https://github.com/MarcHamamji/runner.nvim) - A customizable Lua code runner.
 
 ### Motion / Diagnostics
 
-*   [chrisgrieser/nvim-spider (⭐412)](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation.
+*   [chrisgrieser/nvim-spider (⭐430)](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation.
 
 ### Keybinding / Diagnostics
 
-*   [Wansmer/langmapper.nvim (⭐92)](https://github.com/Wansmer/langmapper.nvim) - Auto translating your mappings for non-English input methods.
+*   [Wansmer/langmapper.nvim (⭐95)](https://github.com/Wansmer/langmapper.nvim) - Auto translating your mappings for non-English input methods.
 
 ### Game / Diagnostics
 
 *   [Eandrju/cellular-automaton.nvim (⭐1.7k)](https://github.com/Eandrju/cellular-automaton.nvim) - It lets you execute aesthetically pleasing, cellular automaton animations based on the content of Neovim buffer.
-*   [alanfortlink/blackjack.nvim (⭐49)](https://github.com/alanfortlink/blackjack.nvim) - Classic Black Jack game.
-*   [jim-fx/sudoku.nvim (⭐56)](https://github.com/jim-fx/sudoku.nvim) - Classic sudoku puzzle.
+*   [alanfortlink/blackjack.nvim (⭐50)](https://github.com/alanfortlink/blackjack.nvim) - Classic Black Jack game.
+*   [jim-fx/sudoku.nvim (⭐58)](https://github.com/jim-fx/sudoku.nvim) - Classic sudoku puzzle.
 
 ## [47. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 

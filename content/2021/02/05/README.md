@@ -69,7 +69,7 @@ Language: English
 
 ### Table
 
-*   [svelte-simple-datatables (⭐265)](https://github.com/vincjo/svelte-simple-datatables) - A Datatable component for Svelte
+*   [svelte-simple-datatables (⭐267)](https://github.com/vincjo/svelte-simple-datatables) - A Datatable component for Svelte
 
 ## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

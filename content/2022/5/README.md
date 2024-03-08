@@ -35,7 +35,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [skrapeit/skrape.it (⭐737)](https://github.com/skrapeit/skrape.it) - A DSL-driven HTML/XML parser-library that enables meaningful testing of rendered HTML templates.
+*   [skrapeit/skrape.it (⭐740)](https://github.com/skrapeit/skrape.it) - A DSL-driven HTML/XML parser-library that enables meaningful testing of rendered HTML templates.
 
 ## [6. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -170,8 +170,8 @@
 
 *   [argparse (⭐584)](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
 *   [argv (⭐40)](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
-*   [carapace (⭐158)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
-*   [carapace-bin (⭐551)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
+*   [carapace (⭐170)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+*   [carapace-bin (⭐568)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 *   [cli (⭐716)](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
 *   [cli (⭐125)](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
 *   [climax (⭐213)](https://github.com/tucnak/climax) - Alternative CLI with "human face", in spirit of Go command.
@@ -725,7 +725,6 @@
 
 *   [app (⭐7.6k)](https://github.com/murlokswarm/app) - Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress.
 *   [fyne (⭐23k)](https://github.com/fyne-io/fyne) - Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android.
-*   [go-astilectron (⭐4.9k)](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron).
 *   [go-gtk](https://mattn.github.io/go-gtk/) - Go bindings for GTK.
 *   [go-sciter (⭐2.6k)](https://github.com/sciter-sdk/go-sciter) - Go bindings for Sciter: the Embeddable HTML/CSS/script engine for modern desktop UI development. Cross platform.
 *   [gotk3 (⭐2k)](https://github.com/gotk3/gotk3) - Go bindings for GTK3.
@@ -1199,7 +1198,6 @@
 *   [netpoll (⭐3.8k)](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
 *   [NFF-Go (⭐1.3k)](https://github.com/intel-go/nff-go) - Framework for rapid development of performant network functions for cloud and bare-metal (former YANFF).
 *   [packet (⭐78)](https://github.com/aerogo/packet) - Send packets over TCP and UDP. It can buffer messages and hot-swap connections if needed.
-*   [panoptes-stream (⭐41)](https://github.com/yahoo/panoptes-stream) - A cloud native distributed streaming network telemetry (gNMI, Juniper JTI and Cisco MDT).
 *   [peerdiscovery (⭐621)](https://github.com/schollz/peerdiscovery) - Pure Go library for cross-platform local peer discovery using UDP multicast.
 *   [portproxy (⭐53)](https://github.com/aybabtme/portproxy) - Simple TCP proxy which adds CORS support to API's which don't support it.
 *   [publicip (⭐27)](https://github.com/polera/publicip) - Package publicip returns your public facing IPv4 address (internet egress).
@@ -1419,7 +1417,7 @@
 ### Server Applications
 
 *   [algernon (⭐2.6k)](https://github.com/xyproto/algernon) - HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber.
-*   [Caddy (⭐52k)](https://github.com/caddyserver/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
+*   [Caddy (⭐53k)](https://github.com/caddyserver/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
 *   [consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
 *   [cortex-tenant (⭐91)](https://github.com/blind-oracle/cortex-tenant) - Prometheus remote write proxy that adds add Cortex tenant ID header based on metric labels.
 *   [devd (⭐3.4k)](https://github.com/cortesi/devd) - Local webserver for developers.
@@ -1443,7 +1441,7 @@
 *   [psql-streamer (⭐57)](https://github.com/blind-oracle/psql-streamer) - Stream database events from PostgreSQL to Kafka.
 *   [riemann-relay (⭐2)](https://github.com/blind-oracle/riemann-relay) - Relay to load-balance Riemann events and/or convert them to Carbon.
 *   [RoadRunner (⭐7.6k)](https://github.com/spiral/roadrunner) - High-performance PHP application server, load-balancer and process manager.
-*   [SFTPGo (⭐7.7k)](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.
+*   [SFTPGo (⭐7.8k)](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.
 *   [simple-jwt-provider (⭐38)](https://github.com/leberKleber/simple-jwt-provider) - Simple and lightweight provider which exhibits JWTs, supports login, password-reset (via mail) and user management.
 *   [Trickster (⭐1.9k)](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy cache and time series accelerator.
 
@@ -1877,7 +1875,7 @@
 *   [Banjo (⭐22)](https://github.com/nsheremet/banjo) - Very simple and fast web framework for Go.
 *   [Buffalo](https://gobuffalo.io) - Bringing the productivity of Rails to Go!
 *   [Echo (⭐28k)](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
-*   [Fiber (⭐30k)](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
+*   [Fiber (⭐31k)](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
 *   [Fireball (⭐59)](https://github.com/zpatrick/fireball) - More "natural" feeling web framework.
 *   [Flamingo (⭐420)](https://github.com/i-love-flamingo/flamingo) - Framework for pluggable web projects. Including a concept for modules and offering features for DI, Configareas, i18n, template engines, graphql, observability, security, events, routing & reverse routing etc.
 *   [Flamingo Commerce (⭐472)](https://github.com/i-love-flamingo/flamingo-commerce) - Providing e-commerce features using clean architecture like DDD and ports and adapters, that you can use to build flexible e-commerce applications.
@@ -2199,9 +2197,8 @@
 *   [protoncheck (⭐5)](https://github.com/servusdei2018/protoncheck) - ProtonMail module for waybar/polybar/yabar/i3blocks.
 *   [restic (⭐23k)](https://github.com/restic/restic) - De-duplicating backup program.
 *   [scc (⭐5.7k)](https://github.com/boyter/scc) - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
-*   [Seaweed File System (⭐20k)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
+*   [Seaweed File System (⭐21k)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
 *   [shell2http (⭐1.2k)](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).
-*   [snap (⭐1.8k)](https://github.com/intelsdi-x/snap) - Powerful telemetry framework.
 *   [Snitch (⭐17)](https://github.com/lucasgomide/snitch) - Simple way to notify your team and many tools when someone has deployed any application via Tsuru.
 *   [Stack Up (⭐2.5k)](https://github.com/pressly/sup) - Stack Up, a super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
 *   [syncthing](https://syncthing.net/) - Open, decentralized file synchronization tool and protocol.
@@ -2809,7 +2806,7 @@
 *   [gawk --lint](https://www.gnu.org/software/gawk/manual/html_node/Options.html) — Warns about constructs that are dubious or nonportable to other awk implementations.
 *   [Astrée](https://www.absint.com/astree/index.htm) :copyright: — Astrée automatically proves the absence of runtime errors and invalid con­current behavior in C/C++ applications. It is sound for floating-point computations, very fast, and exceptionally precise. The analyzer also checks for MISRA/CERT/CWE/Adaptive Autosar coding rules and supports qualification for ISO 26262, DO-178C level A, and other safety standards. Jenkins and Eclipse plugins are available.
 *   [.NET Analyzers](https://github.com/DotNetAnalyzers) — An organization for the development of analyzers (diagnostics and code fixes) using the .NET Compiler Platform.
-*   [clj-kondo (⭐1.6k)](https://github.com/borkdude/clj-kondo) — A linter for Clojure code that sparks joy. It informs you about potential errors while you are typing.
+*   [clj-kondo (⭐1.7k)](https://github.com/borkdude/clj-kondo) — A linter for Clojure code that sparks joy. It informs you about potential errors while you are typing.
 *   [ameba](https://crystal-ameba.github.io) — A static code analysis tool for Crystal.
 *   [Dart Code Metrics](https://pub.dev/packages/dart_code_metrics) — Additional linter for Dart. Reports code metrics, checks for anti-patterns and provides additional rules for Dart analyzer.
 *   [Fix Insight](https://www.tmssoftware.com/site/fixinsight.asp) :copyright: — A free IDE Plugin for static code analysis. A *Pro* edition includes a command line tool for automation purposes.
@@ -2818,22 +2815,22 @@
 
 ### Other / [Other](#other-1)
 
-*   [dawnscanner (⭐723)](https://github.com/thesp0nge/dawnscanner) — A static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
+*   [dawnscanner (⭐724)](https://github.com/thesp0nge/dawnscanner) — A static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
 *   [Angular ESLint (⭐1.5k)](https://github.com/angular-eslint/angular-eslint#readme) — Linter for Angular projects
 *   [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
 *   [AzSK](https://azsk.azurewebsites.net/) — Secure DevOps kit for Azure (AzSK) provides security IntelliSense, Security Verification Tests (SVTs), CICD scan vulnerabilities, compliance issues, and infrastructure misconfiguration in your infrastructure-as-code. Supports Azure via ARM.
 *   [Twiggy](https://rustwasm.github.io/twiggy) — Analyzes a binary's call graph to profile code size. The goal is to slim down wasm binary size.
-*   [checkmake (⭐969)](https://github.com/mrtazz/checkmake) — Linter / Analyzer for Makefiles.
+*   [checkmake (⭐976)](https://github.com/mrtazz/checkmake) — Linter / Analyzer for Makefiles.
 *   [metadata-json-lint (⭐28)](https://github.com/voxpupuli/metadata-json-lint) — Tool to check the validity of Puppet metadata.json files.
 *   [deno\_lint (⭐1.5k)](https://github.com/denoland/deno_lint) — Official linter for Deno.
-*   [oelint-adv (⭐47)](https://github.com/priv-kweihmann/oelint-adv) — Linter for bitbake recipes used in open-embedded and YOCTO
-*   [gherkin-lint (⭐165)](https://github.com/vsiakka/gherkin-lint) — A linter for the Gherkin-Syntax written in Javascript.
+*   [oelint-adv (⭐49)](https://github.com/priv-kweihmann/oelint-adv) — Linter for bitbake recipes used in open-embedded and YOCTO
+*   [gherkin-lint (⭐168)](https://github.com/vsiakka/gherkin-lint) — A linter for the Gherkin-Syntax written in Javascript.
 *   [HTML-Validate](https://html-validate.org/) — Offline HTML5 validator.
-*   [chart-testing (⭐1.1k)](https://github.com/helm/chart-testing) — ct is the the tool for testing Helm charts.  It is meant to be used for linting and testing pull requests.  It automatically detects charts changed against the target branch.
+*   [chart-testing (⭐1.2k)](https://github.com/helm/chart-testing) — ct is the the tool for testing Helm charts.  It is meant to be used for linting and testing pull requests.  It automatically detects charts changed against the target branch.
 *   [ChkTeX](http://www.nongnu.org/chktex) — A linter for LaTex which catches some typographic errors LaTeX oversees.
 *   [markdownlint (⭐4.3k)](https://github.com/DavidAnson/markdownlint) — Node.js -based style checker and lint tool for Markdown/CommonMark files.
 *   [Android Lint](http://tools.android.com/tips/lint) — Run static analysis on Android projects.
-*   [deadnix (⭐361)](https://github.com/astro/deadnix) — Scan Nix files for dead code (unused variable bindings)
+*   [deadnix (⭐369)](https://github.com/astro/deadnix) — Scan Nix files for dead code (unused variable bindings)
 *   [lintian](https://lintian.debian.org) — Static analysis tool for Debian packages.
 *   [buf](https://buf.build) — Provides a CLI linter that enforces good API design choices and structure
 *   [mythril (⭐3.7k)](https://github.com/ConsenSys/mythril) — A symbolic execution framework with batteries included, can be used to find and exploit vulnerabilities in smart contracts automatically.
@@ -2849,7 +2846,7 @@
 *   [go-tools (⭐5.8k)](https://github.com/dominikh/go-tools) — A collection of tools and libraries for working with Go code, including linters and static analysis
 *   [linters (⭐339)](https://github.com/mcandre/linters) — An introduction to static code analysis
 *   [OWASP Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) — List of tools maintained by the Open Web Application Security Project
-*   [php-static-analysis-tools (⭐2.7k)](https://github.com/exakat/php-static-analysis-tools) — A reviewed list of useful PHP static analysis tools
+*   [php-static-analysis-tools (⭐2.8k)](https://github.com/exakat/php-static-analysis-tools) — A reviewed list of useful PHP static analysis tools
 *   [Wikipedia](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) — A list of tools for static code analysis.
 
 ## [28. Awesome Security](/content/sbilly/awesome-security/week/README.md)
@@ -3071,7 +3068,7 @@
 
 ### Grid
 
-*   [svelte-flex (⭐73)](https://github.com/himynameisdave/svelte-flex) - A simple and reusable flexbox component for Svelte.
+*   [svelte-flex (⭐74)](https://github.com/himynameisdave/svelte-flex) - A simple and reusable flexbox component for Svelte.
 
 ### Miscellaneous / Checkbox
 
@@ -3079,7 +3076,7 @@
 
 ### Internationalisation / Checkbox
 
-*   [@tolgee/svelte (⭐208)](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
+*   [@tolgee/svelte (⭐210)](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
 
 ## [36. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
@@ -3127,7 +3124,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tiagovla/tokyodark.nvim (⭐394)](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in Lua (Neovim >= 0.5) and above.
+*   [tiagovla/tokyodark.nvim (⭐407)](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in Lua (Neovim >= 0.5) and above.
 
 ## [39. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
@@ -3176,7 +3173,7 @@
 
 *   [reach](https://docs.reach.sh) - A domain-specific language for building cross chain decentralized applications (DApps).
 *   [aqua-compiler (⭐2)](https://github.com/optio-labs/aqua-compiler) - An expressive high level language for the Algorand block chain that compiles to TEAL code.
-*   [algoml (⭐24)](https://github.com/petitnau/algoml) - A domain-specific language for specifying Algorand smart contracts, which compiles into TEAL scripts.
+*   [algoml (⭐25)](https://github.com/petitnau/algoml) - A domain-specific language for specifying Algorand smart contracts, which compiles into TEAL scripts.
 
 ## [46. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -3226,7 +3223,7 @@
 
 ### Resources in Other Languages / Kurdish (Central)
 
-*   [A short introduction to Deno](https://devs.krd/about-deno).
+*   [A short introduction to Deno](https://devs.krd/about-deno)
 
 ## [50. Public Apis](/content/public-apis/public-apis/week/README.md)
 

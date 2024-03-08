@@ -54,7 +54,7 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Twitter Agent (⭐85)](https://github.com/ahmedbesbes/twitter-agent/): Scrape tweets, summarize them and chat with them in an interactive terminal. ![GitHub Repo stars](https://img.shields.io/github/stars/ahmedbesbes/twitter-agent?style=social)
+*   [Twitter Agent (⭐91)](https://github.com/ahmedbesbes/twitter-agent/): Scrape tweets, summarize them and chat with them in an interactive terminal. ![GitHub Repo stars](https://img.shields.io/github/stars/ahmedbesbes/twitter-agent?style=social)
 
 ## [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -73,16 +73,16 @@
 ### Software / Communication - Custom Communication Systems
 
 *   [Dendrite](https://matrix-org.github.io/dendrite/) - Second-generation Matrix homeserver written in Go. It intends to provide an efficient, reliable and scalable alternative to Synapse. ([Source Code (⭐5.3k)](https://github.com/matrix-org/dendrite)) `Apache-2.0` `Go`
-*   [Synapse](https://matrix-org.github.io/synapse/latest/) - Server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication. ([Source Code (⭐430)](https://github.com/element-hq/synapse)) `Apache-2.0` `Python/deb`
+*   [Synapse](https://matrix-org.github.io/synapse/latest/) - Server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication. ([Source Code (⭐503)](https://github.com/element-hq/synapse)) `Apache-2.0` `Python/deb`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Lodestone (⭐618)](https://github.com/Lodestone-Team/lodestone) - A free, open source server hosting tool for Minecraft and other multiplayers. `AGPL-3.0` `Docker/Rust`
+*   [Lodestone (⭐623)](https://github.com/Lodestone-Team/lodestone) - A free, open source server hosting tool for Minecraft and other multiplayers. `AGPL-3.0` `Docker/Rust`
 *   [SourceBans++](https://sbpp.github.io/) - Admin, ban, and communication management system for games running on the Source engine. ([Source Code (⭐316)](https://github.com/sbpp/sourcebans-pp)) `CC-BY-SA-4.0` `PHP`
 
 ### Software / Miscellaneous
 
-*   [Mere Medical](https://meremedical.co/) `⚠` - With Mere Medical, you can finally manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first. ([Demo](https://demo.meremedical.co), [Source Code (⭐37)](https://github.com/cfu288/mere-medical)) `GPL-3.0` `Docker/Nodejs`
+*   [Mere Medical](https://meremedical.co/) `⚠` - With Mere Medical, you can finally manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first. ([Demo](https://demo.meremedical.co), [Source Code (⭐41)](https://github.com/cfu288/mere-medical)) `GPL-3.0` `Docker/Nodejs`
 
 ## [11. Magictools](/content/ellisonleao/magictools/README.md)
 

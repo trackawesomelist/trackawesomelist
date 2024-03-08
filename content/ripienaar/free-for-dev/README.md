@@ -1551,12 +1551,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Wdrfree SVG](https://wdrfree.com/free-svg) - Black and White Free SVG Cut files.
 
-## [Oct 07, 2022](/content/2022/10/07/README.md)
-
-### Managed Data Services
-
-*   [Planetscale](https://planetscale.com/) - PlanetScale is a MySQL-compatible, serverless database platform powered by Vitess, one database for free with 1 Production branch and 1 Development branch, 5GB storage, 1 Billion rows read/mo per database, and 10 Million rows written/mo per database.
-
 ## [Oct 06, 2022](/content/2022/10/06/README.md)
 
 ### APIs, Data, and ML
@@ -5036,7 +5030,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### BaaS
 
-*   [onesignal.com](https://onesignal.com/) — Unlimited free push notifications
+*   [onesignal.com](https://onesignal.com/) — Unlimited free push notifications. 10,000 email sends per month, with unlimited contacts and access to Auto Warm Up.
 *   [paraio.com](https://paraio.com) — Backend service API with flexible authentication, full-text search and caching. Free for one app, 1GB of app data.
 *   [progress.com](https://www.progress.com/kinvey) — Mobile backend, starter plan has unlimited requests/second, with 1 GB of data storage. Enterprise application support
 *   [pushbots.com](https://pushbots.com/) — Push notification service. Free for up to 1.5 million pushes/month

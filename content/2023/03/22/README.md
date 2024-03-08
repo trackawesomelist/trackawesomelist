@@ -22,12 +22,12 @@
 
 ### Libraries/Frameworks / Database
 
-*   [komapper/komapper (⭐250)](https://github.com/komapper/komapper) - Komapper is an ORM library for server-side Kotlin with JDBC and R2DBC support.
+*   [komapper/komapper (⭐255)](https://github.com/komapper/komapper) - Komapper is an ORM library for server-side Kotlin with JDBC and R2DBC support.
 
 ### Libraries/Frameworks / API Clients
 
+*   [MoviebaseApp/tmdb-api (⭐179)](https://github.com/MoviebaseApp/tmdb-api) - Modern powerful TMDB API to fetch movies and TV shows for Kotlin Multiplatform.
 *   [MoviebaseApp/trakt-api (⭐39)](https://github.com/MoviebaseApp/trakt-api) - Modern powerful Trakt API to track, discover and share your movies & TV shows.
-*   [MoviebaseApp/tmdb-api (⭐178)](https://github.com/MoviebaseApp/tmdb-api) - Modern powerful TMDB API to fetch movies and TV shows for Kotlin Multiplatform.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Tools / Playground
 
-*   [dep-tree (⭐27)](https://github.com/gabotechs/dep-tree) - Render your project's file dependency tree and/or validate it against your own rules.
+*   [dep-tree (⭐1k)](https://github.com/gabotechs/dep-tree) - Render your project's file dependency tree and/or validate it against your own rules.
 
 ## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 

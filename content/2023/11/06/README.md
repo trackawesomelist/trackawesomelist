@@ -51,7 +51,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [SuperJSON (⭐3.2k)](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more
+*   :octocat: [SuperJSON (⭐3.4k)](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more
 
 ## [7. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 

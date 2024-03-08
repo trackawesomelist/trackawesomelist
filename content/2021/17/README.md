@@ -329,7 +329,7 @@
 
 ### Visualization
 
-*   [lux (⭐4.7k)](https://github.com/lux-org/lux) - Recommends a set of visualizations whenever a dataframe is printed in a notebook.
+*   [lux (⭐4.9k)](https://github.com/lux-org/lux) - Recommends a set of visualizations whenever a dataframe is printed in a notebook.
 
 ## [20. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -410,7 +410,7 @@
 
 ### Software / Genealogy
 
-*   [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\&ged=demo), [Source Code (⭐340)](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
+*   [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\&ged=demo), [Source Code (⭐355)](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
 
 ## [27. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 

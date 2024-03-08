@@ -48,7 +48,7 @@
 
 ### Language / Diagnostics
 
-*   [niuiic/translate.nvim (⭐30)](https://github.com/niuiic/translate.nvim) - Invoke any translation engine via shell command.
+*   [niuiic/translate.nvim (⭐31)](https://github.com/niuiic/translate.nvim) - Invoke any translation engine via shell command.
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 

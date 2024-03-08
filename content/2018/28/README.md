@@ -23,7 +23,7 @@
 
 ### Software / Miscellaneous
 
-*   [AlertHub (⭐174)](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs/Docker`
+*   [AlertHub (⭐176)](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs/Docker`
 
 ## [4. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -299,7 +299,7 @@ Webpage: <https://yoghut.com/>
 
 ### Board support crates / Texas Instruments
 
-*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐42)](https://github.com/thejpster/menu), [vga-framebuffer (⭐31)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐92)](https://github.com/thejpster/pc-keyboard).
+*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐43)](https://github.com/thejpster/menu), [vga-framebuffer (⭐31)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐93)](https://github.com/thejpster/pc-keyboard).
 
 ## [34. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 

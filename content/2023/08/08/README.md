@@ -47,13 +47,13 @@
 
 ### Software / Miscellaneous
 
-*   [Loggit](https://loggit.net) - End-to-end encrypted and simple life tracking & logging. ([Demo](https://app.loggit.net), [Source Code (⭐21)](https://github.com/BrunoBernardino/loggit-web)) `AGPL-3.0` `Deno`
+*   [Loggit](https://loggit.net) - End-to-end encrypted and simple life tracking & logging. ([Demo](https://app.loggit.net), [Source Code (⭐25)](https://github.com/BrunoBernardino/loggit-web)) `AGPL-3.0` `Deno`
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zplug-blame (⭐0)](https://github.com/jkcdarunday/zplug-blame) - A [zplug (⭐5.6k)](https://github.com/zplug/zplug)-specific plugin that displays how long each of your plugins took to load.
+*   [zplug-blame (⭐0)](https://github.com/jkcdarunday/zplug-blame) - A [zplug (⭐5.7k)](https://github.com/zplug/zplug)-specific plugin that displays how long each of your plugins took to load.
 
 ---
 

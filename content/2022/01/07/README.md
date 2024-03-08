@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 07, 2022
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -108,15 +108,9 @@
 
 ### Overlays / Webinterface
 
-*   [nixpkgs-firefox-darwin (⭐32)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
+*   [nixpkgs-firefox-darwin (⭐34)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
 
-## [12. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
-
-### Projects / Wallets
-
-*   [Algocurator](https://www.algocurator.com/home) - The Biggest Unofficial One-Stop Hub for Algorand.
-
-## [13. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+## [12. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ### Projects
 
@@ -178,7 +172,7 @@
 *   [Awesome Open Electronics (⭐482)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
 *   [Awesome Open (⭐75)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
 
-## [14. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [13. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
@@ -194,7 +188,7 @@
 *   [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
 *   [Working Nomads](https://www.workingnomads.co/jobs)
 
-## [15. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 

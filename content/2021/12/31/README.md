@@ -47,7 +47,7 @@
 
 ### Deployment Tools / Discovery
 
-*   [deploy-rs (⭐1k)](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
+*   [deploy-rs (⭐1.1k)](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 
 ## [8. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -76,8 +76,8 @@
 
 ### Rust / Git
 
-*   [BLAKE3 (⭐4.4k)](https://github.com/BLAKE3-team/BLAKE3) - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
-*   [rage (⭐2.1k)](https://github.com/str4d/rage) - is a simple, modern, and secure file encryption tool, using the age format.
+*   [BLAKE3 (⭐4.5k)](https://github.com/BLAKE3-team/BLAKE3) - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
+*   [rage (⭐2.2k)](https://github.com/str4d/rage) - is a simple, modern, and secure file encryption tool, using the age format.
 
 ## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

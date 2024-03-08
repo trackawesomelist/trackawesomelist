@@ -124,7 +124,7 @@
 
 ### Integrations
 
-*   [preact-custom-element (⭐333)](https://github.com/preactjs/preact-custom-element) - Generate/register a custom element from a preact component.
+*   [preact-custom-element (⭐336)](https://github.com/preactjs/preact-custom-element) - Generate/register a custom element from a preact component.
 
 ### Benchmarks
 

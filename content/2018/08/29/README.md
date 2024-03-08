@@ -16,10 +16,10 @@
 
 ### JupyterLab Extensions
 
-*   [celltags (⭐112)](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags.
-*   [google-drive (⭐394)](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
-*   [toc (⭐726)](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
-*   [voyager (⭐291)](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
+*   [celltags (⭐111)](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags.
+*   [google-drive (⭐398)](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
+*   [toc (⭐724)](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
+*   [voyager (⭐293)](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
 
 ## [3. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 

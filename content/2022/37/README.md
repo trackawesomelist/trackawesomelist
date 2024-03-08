@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 12 - Sep 18, 2022
 
-47 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -50,7 +50,7 @@
 
 ### Driver crates / Other
 
-*   [usbd-human-interface-device (⭐89)](https://github.com/dlkj/usbd-human-interface-device) - Batteries included embedded USB HID library for `usb-device`. Includes concrete Keyboard (boot and NKRO), Mouse and Consumer Control implementations as well as support for building your own HID classes - [github (⭐89)](https://github.com/dlkj/usbd-human-interface-device) - ![crates.io](https://img.shields.io/crates/v/usbd-human-interface-device.svg)
+*   [usbd-human-interface-device (⭐93)](https://github.com/dlkj/usbd-human-interface-device) - Batteries included embedded USB HID library for `usb-device`. Includes concrete Keyboard (boot and NKRO), Mouse and Consumer Control implementations as well as support for building your own HID classes - [github (⭐93)](https://github.com/dlkj/usbd-human-interface-device) - ![crates.io](https://img.shields.io/crates/v/usbd-human-interface-device.svg)
 
 ## [6. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
 
@@ -70,19 +70,13 @@
 
 *   [Storage Space 13](https://js13kgames.com/entries/storage-space-13) - Fun VR game and winner of js13k WebXR category.
 
-## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
-
-### Other Development Tools / Smart Contracts
-
-*   [tealish (⭐87)](https://github.com/Hipo/tealish) - Tealish is a readable language for the Algorand Virtual Machine. It enables developers to write TEAL in a procedural style optimized for readability.
-
-## [9. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [8. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### MOOC's
 
 *   [Stanford Artificial Intelligence Professional Program](https://online.stanford.edu/programs/artificial-intelligence-professional-program)
 
-## [10. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [9. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### C#
 
@@ -94,13 +88,13 @@
 
 
 
-## [11. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [10. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
 *   [ipfs-encrypted-share (⭐22)](https://github.com/whs/ipfs-encrypted-share) - Easy to use encrypted file uploader.
 
-## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [11. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Actors
 
@@ -224,89 +218,89 @@
 *   [Elixir Online Courses list - Classpert](https://classpert.com/elixir-programming) - A list of Elixir Online Courses (some are free) from Classpert Online Course Search.
 *   [ElixirLibs](https://elixirlibs.com) - A curated list of Elixir libraries.
 
-## [13. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [12. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Community / Talk
 
 *   [Functional Programming Slack channel](https://fpslack.com/) – Community with a friendly channel for JavaScript as well as many other channels about functional programming in general.
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Scaffold
 
 *   [Vitectron (⭐13)](https://github.com/hyroge/vite-vue-electron) - Powerful & Modern Vue Desktop Application Template with TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
 
-## [15. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [14. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Run Elm / Outdated Boilerplates
 
 *   [Elm Watch (⭐122)](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
 
-## [16. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [15. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Books / Obsidian
 
 *   [Shape Up](https://basecamp.com/shapeup) - By Ryan Singer.
 
-## [17. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [16. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Biomedical Text Sources / Other models
 
 *   [CORD-19 (⭐126)](https://github.com/allenai/cord19) - A corpus of scholarly manuscripts concerning COVID-19. Articles are primarily from PubMed Central and preprint servers, though the set also includes metadata on papers without full-text availability.
 
-## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Register / Diagnostics
 
 *   [gennaro-tedesco/nvim-peekup (⭐273)](https://github.com/gennaro-tedesco/nvim-peekup) - Dynamically interact with Vim registers.
-*   [tversteeg/registers.nvim (⭐578)](https://github.com/tversteeg/registers.nvim) - Non-obtrusive minimal preview of Vim registers.
+*   [tversteeg/registers.nvim (⭐579)](https://github.com/tversteeg/registers.nvim) - Non-obtrusive minimal preview of Vim registers.
 
 ### Marks / Diagnostics
 
-*   [chentoast/marks.nvim (⭐692)](https://github.com/chentoast/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
+*   [chentoast/marks.nvim (⭐701)](https://github.com/chentoast/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [mcchrish/zenbones.nvim (⭐549)](https://github.com/mcchrish/zenbones.nvim) - A collection of Vim/Neovim colorschemes designed to highlight code using contrasts and font variations.
+*   [mcchrish/zenbones.nvim (⭐558)](https://github.com/mcchrish/zenbones.nvim) - A collection of Vim/Neovim colorschemes designed to highlight code using contrasts and font variations.
 
 ### Utility / Diagnostics
 
-*   [kazhala/close-buffers.nvim (⭐140)](https://github.com/kazhala/close-buffers.nvim) - Delete multiple Vim buffers based on different conditions.
-*   [CosmicNvim/cosmic-ui (⭐158)](https://github.com/CosmicNvim/cosmic-ui) - Cosmic-UI is a simple wrapper around specific Vim functionality. Built in order to provide a quick and easy way to create a Cosmic UI experience with Neovim!
+*   [kazhala/close-buffers.nvim (⭐141)](https://github.com/kazhala/close-buffers.nvim) - Delete multiple Vim buffers based on different conditions.
+*   [CosmicNvim/cosmic-ui (⭐160)](https://github.com/CosmicNvim/cosmic-ui) - Cosmic-UI is a simple wrapper around specific Vim functionality. Built in order to provide a quick and easy way to create a Cosmic UI experience with Neovim!
 
 ### Debugging / Diagnostics
 
-*   [Pocco81/DAPInstall.nvim (⭐394)](https://github.com/Pocco81/DAPInstall.nvim) - Manage several debuggers for nvim-dap.
+*   [Pocco81/DAPInstall.nvim (⭐396)](https://github.com/Pocco81/DAPInstall.nvim) - Manage several debuggers for nvim-dap.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [nvim-lua/popup.nvim (⭐344)](https://github.com/nvim-lua/popup.nvim) - An implementation of the Popup API from Vim.
+*   [nvim-lua/popup.nvim (⭐345)](https://github.com/nvim-lua/popup.nvim) - An implementation of the Popup API from Vim.
 *   [anuvyklack/animation.nvim (⭐36)](https://github.com/anuvyklack/animation.nvim) - Create animations.
 
 ### Preconfigured Configuration / Diagnostics
 
 *   [SpaceVim/SpaceVim](https://spacevim.org) - A community-driven modular Vim/Neovim distribution, like spacemacs but for Vim/Neovim.
-*   [hackorum/VapourNvim (⭐522)](https://github.com/hackorum/VapourNvim) - A Neovim config for THE ULTIMATE Vim IDE-like experience.
+*   [hackorum/VapourNvim (⭐523)](https://github.com/hackorum/VapourNvim) - A Neovim config for THE ULTIMATE Vim IDE-like experience.
 
 ### Vim / Diagnostics
 
 *   [Vimawesome](https://vimawesome.com/) - Showcases various plugins for Vim and has a [neovim tag](https://vimawesome.com/?q=tag:neovim) for other plugins targeting Neovim.
 *   [awesome-vim (⭐1.9k)](https://github.com/akrawchyk/awesome-vim#tools) - Short list of Vim plugins and helpful guides.
-*   [vim-plugin-list (⭐82)](https://github.com/altermo/vim-plugin-list) - List of Vim and Neovim plugins.
+*   [vim-plugin-list (⭐83)](https://github.com/altermo/vim-plugin-list) - List of Vim and Neovim plugins.
 
-## [19. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [18. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Policy enforcement
 
 *   [Regula](https://regula.dev/) - Checks infrastructure as code templates (Terraform, CloudFormation, K8s manifests) for AWS, Azure, Google Cloud, and Kubernetes security and compliance using Open Policy Agent/Rego.
 
-## [20. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [19. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Charts
 
 *   [ember-highcharts (⭐140)](https://github.com/ahmadsoe/ember-highcharts) - A Highcharts, HighStock and HighMaps components for ember-cli.
 
-## [21. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [20. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage consumption tools / Desktop integration
 
@@ -316,26 +310,26 @@
 
 *   [Zenwalk GNU Linux](http://www.zenwalk.org/) - Is "AppImage ready" and distributes some applications in AppImage format.
 
-## [22. Awesome Funny Markov](/content/sublimino/awesome-funny-markov/week/README.md)
+## [21. Awesome Funny Markov](/content/sublimino/awesome-funny-markov/week/README.md)
 
 ### Web and Tech
 
 *   [Phaker News](http://namuol.github.io/phaker-news/) - Another spin on Hacker News.
 *   [Your Swimsuit Jumped Over Its Own Weathercock, You Liar!](https://patchydollgames.itch.io/yourswimsuit) - A dating sim about the futility of dating sims.
 
-## [23. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [22. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Books
 
 *   [F# in Action](https://www.manning.com/books/f-sharp-in-action) - Book about practical F# development skills needed to create professional applications.
 
-## [24. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [23. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Assets
 
 *   [midilib](https://www.lexaloffle.com/bbs/?cat=7#tag=midilib) - Custom SFX instruments
 
-## [25. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+## [24. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
 
 ### IDE and editors
 
@@ -349,13 +343,13 @@
 
 *   [Point-of-Android (⭐1.6k)](https://github.com/FX-Max/Point-of-Android)
 
-## [26. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [25. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Plugins & Libraries
 
 *   [leap (⭐37)](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 
-## [27. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [26. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Specialty Search Engines
 
@@ -404,13 +398,13 @@
 
 *   [KeePass Password Safe](http://keepass.info) - is a free and open-source password manager that uses the most secure encryption algorithms to safegard your passwords.
 
-## [28. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [27. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### Automation and Robotics
 
 *   [Fields2Cover (⭐222)](https://github.com/Fields2Cover/Fields2Cover) - Robust and efficient coverage paths for autonomous agricultural vehicles.
 
-## [29. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [28. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Standard CLI
 
@@ -458,11 +452,11 @@
 *   [Games With Go](https://www.youtube.com/watch?v=9D4yH7e_ea8\&list=PLDZujg-VgQlZUy1iCqBbe5faZLMkA3g2x) - A video series teaching programming and game development.
 *   [GopherCoding](https://gophercoding.com/) - Collection of code snippets and tutorials to help tackle every day issues.
 
-## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
-*   [NeonLink (⭐240)](https://github.com/AlexSciFier/neonlink) - Self-hosted bookmark service with unique design and simple installation with Docker. `MIT` `Docker`
+*   [NeonLink (⭐242)](https://github.com/AlexSciFier/neonlink) - Self-hosted bookmark service with unique design and simple installation with Docker. `MIT` `Docker`
 
 ### Software / Communication - Video Conferencing
 
@@ -483,7 +477,7 @@
 
 ### Software / Self-hosting Solutions
 
-*   [CasaOS](https://www.casaos.io/) - A simple, easy-to-use, elegant open-source Home Cloud system. ([Source Code (⭐20k)](https://github.com/IceWhaleTech/CasaOS)) `Apache-2.0` `Go/Docker`
+*   [CasaOS](https://www.casaos.io/) - A simple, easy-to-use, elegant open-source Home Cloud system. ([Source Code (⭐21k)](https://github.com/IceWhaleTech/CasaOS)) `Apache-2.0` `Go/Docker`
 
 ### Software / Software Development - FaaS & Serverless
 
@@ -491,13 +485,13 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Our Shopping List (⭐66)](https://github.com/nanawel/our-shopping-list) - Simple shared list application. Typical uses include shopping lists of course, and any other small todo-list that needs to be used collaboratively. ([Demo](https://osl.lanterne-rouge.info/)) `AGPL-3.0` `Docker`
+*   [Our Shopping List (⭐70)](https://github.com/nanawel/our-shopping-list) - Simple shared list application. Typical uses include shopping lists of course, and any other small todo-list that needs to be used collaboratively. ([Demo](https://osl.lanterne-rouge.info/)) `AGPL-3.0` `Docker`
 
 ### Software / URL Shorteners
 
-*   [Short{Paste} (⭐43)](https://github.com/adyanth/shortpaste) - A Go based URL shortener, pastebin and file uploader. `MIT` `Docker`
+*   [Short{Paste} (⭐45)](https://github.com/adyanth/shortpaste) - A Go based URL shortener, pastebin and file uploader. `MIT` `Docker`
 
-## [31. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [30. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Housing
 
@@ -507,7 +501,7 @@
 
 *   [RAPT](https://rapt-fema.hub.arcgis.com/pages/data) - The Resilience Analysis & Planning Tool (RAPT) gives everyone easy access to important community data and analysis tools related to community resilience. The community resilience indicators in the RAPT were pulled from the Community Resilience Indicator Analysis (CRIA).
 
-## [32. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [31. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Online services
 
@@ -518,7 +512,7 @@
 *   [UI Visual Regression Testing with Micoo](https://mikuu.medium.com/ui-visual-regression-testing-with-micoo-12c7a4a036b9) - Introduction about how to do visual regression testing with Micoo service
 *   [Poor man's visual regression testing](https://idkshite.com/posts/compare-visual-changes) - Improved manual visual regression testing with the PerfectPixel chrome plugin.
 
-## [33. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [32. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -538,13 +532,13 @@
 
 *   [cravend (⭐0)](https://github.com/cravend/theme) - Includes `hostname` decorator (only in active `ssh` sessions) and `git` status decorations.
 
-## [34. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [33. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [RationalityFrontline/kevent (⭐12)](https://github.com/RationalityFrontline/kevent) - A powerful in-process event dispatcher based on Kotlin and Coroutines.
 
-## [35. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [34. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Bayesian Induction
 
@@ -567,20 +561,20 @@
 
 *   [Synthesizing theories of human language with Bayesian program induction](http://cap.csail.mit.edu/sites/default/files/research-pdfs/Synthesizing%20theories%20of%20human%20language%20with%20Bayesian%20program%20induction.pdf) - ***Nature Communications***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=8603772394100237159\&hl=en\&as_sdt=0,5)].
 
-## [36. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [35. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Automation / Conversion
 
 *   [postman2jmx (⭐162)](https://github.com/Loadium/postman2jmx) - Postman collection to JMeter jmx file converter.
 *   [convert-postman-jmeter (⭐10)](https://github.com/sercheo87/convert-postman-jmeter) - Convert Postman projects to JMeter.
 
-## [37. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
+## [36. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
 ### Libraries
 
 *   [morphologica (⭐187)](https://github.com/ABRG-Models/morphologica) - OpenGL graphics engine for data visualization, especially of numerical simulations.
 
-## [38. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [37. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Prompt Engineering / Prompt Engineering for Text-to-image
 
@@ -608,32 +602,32 @@
 *   [Adobe should make a boring app for prompt engineers (Interconnected)](https://interconnected.org/home/2022/06/02/dalle)
 *   [\[2206.00169\] Discovering the Hidden Vocabulary of DALLE-2](https://arxiv.org/abs/2206.00169)
 
-## [39. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [38. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### 📖 Articles / 🌱 Third Party
 
 *   [Blazing Fast Unit Tests - Fiber/fasthttp/http Internals](https://medium.com/trendyol-tech/golang-blazing-fast-unit-tests-fiber-fasthttp-http-internals-and-optimizing-http-server-tests-bbd1fe7b944b)
 
-## [40. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [39. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Packages
 
 *   [ava-postgres (⭐3)](https://github.com/seamapi/ava-postgres) - get a fresh Postgres database for every test
 
-## [41. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
+## [40. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
 
 ### Exit Intent Popup
 
 *   [Embedery](https://www.embedery.com) - Popups to engage visitors.
 
-## [42. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [41. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Gaming Software / System Related Tools
 
 *   [Porting Kit](http://portingkit.com/) - Install Windows® Games inside your Mac. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [RPCS3](https://rpcs3.net) - The Open-source PlayStation 3 Emulator [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/RPCS3/rpcs3)
 
-## [43. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [42. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -645,7 +639,7 @@
 
 *   [ASP.NET Core updates in .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-1/) - September 14, 2022 - .NET 7 Release Candidate 1 (RC1) is now available and includes many great new improvements to ASP.NET Core.
 
-## [44. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [43. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Media Streaming Platforms
 
@@ -681,7 +675,7 @@
 *   [Mirotalk P2P](https://p2p.mirotalk.com/) - Free WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
 *   [PeerCalls](https://peercalls.com/) - Group peer to peer video calls for everyone written in Go and TypeScript.
 
-## [45. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [44. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
@@ -692,13 +686,13 @@
 
 *   [vite-plugin-zip-pack (⭐22)](https://github.com/7th-Cyborg/vite-plugin-zip-pack) - Pack distribution/build folder into a zip file.
 
-## [46. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [45. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debug
 
 *   [nanobench (⭐1.3k)](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20. \[MIT] [website](https://nanobench.ankerl.com)
 
-## [47. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [46. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 

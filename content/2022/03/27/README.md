@@ -34,11 +34,11 @@
 
 ### Software / Database Management
 
-*   [CloudBeaver](https://cloudbeaver.io/) - Self-hosted management of databases, supports PostgreSQL, MySQL, SQLite and more. A web/hosted version of DBeaver. ([Source Code (⭐2.8k)](https://github.com/dbeaver/cloudbeaver)) `Apache-2.0` `Docker`
+*   [CloudBeaver](https://cloudbeaver.io/) - Self-hosted management of databases, supports PostgreSQL, MySQL, SQLite and more. A web/hosted version of DBeaver. ([Source Code (⭐2.9k)](https://github.com/dbeaver/cloudbeaver)) `Apache-2.0` `Docker`
 
 ### Software / Miscellaneous
 
-*   [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code (⭐451)](https://github.com/benjaminjonard/koillection)) `MIT` `Docker/PHP`
+*   [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code (⭐464)](https://github.com/benjaminjonard/koillection)) `MIT` `Docker/PHP`
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

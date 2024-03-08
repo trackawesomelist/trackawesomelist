@@ -60,7 +60,7 @@
 
 ### Misc / Apache License
 
-*   [whitakers-words (⭐255)](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
+*   [whitakers-words (⭐261)](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
 
 ## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
@@ -212,11 +212,11 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [miniserve (⭐5.4k)](https://github.com/svenstaro/miniserve) - CLI tool to serve files and dirs over HTTP. `MIT` `Rust`
+*   [miniserve (⭐5.5k)](https://github.com/svenstaro/miniserve) - CLI tool to serve files and dirs over HTTP. `MIT` `Rust`
 
 ### Software / Wikis
 
-*   [Wikmd (⭐279)](https://github.com/Linbreux/wikmd) - Modern and simple file based wiki that uses Markdown and Git. `MIT` `Python/Docker`
+*   [Wikmd (⭐284)](https://github.com/Linbreux/wikmd) - Modern and simple file based wiki that uses Markdown and Git. `MIT` `Python/Docker`
 
 ## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -287,16 +287,16 @@
 ### 3rd party GTFS URL directories
 
 *   [~~OpenMobilityData~~ (Deprecated)](https://openmobilitydata.org/) - List of GTFS and [GTFS-RT](https://openmobilitydata.org/search?q=gtfsrt) feeds. [Archives and validates](https://openmobilitydata.org/p/capital-metro/24) the GTFS feeds and allows you to preview both [GTFS](https://openmobilitydata.org/p/capital-metro/24/latest) and [GTFS-RT](https://openmobilitydata.org/p/capital-metro/495) through the browser. Formerly TransitFeeds.com. [MobilityData announced](https://database.mobilitydata.org/#h.u71vp6xgkckf) it is end-of-life as of early 2022 with a shutdown date to be determined.
-*   [The Mobility Database](https://database.mobilitydata.org/) - JSON and CSV files [on GitHub (⭐222)](https://github.com/MobilityData/mobility-database-catalogs) that is a repository of 1300+ mobility datasets across the world. Contains contents of OpenMobilityData/TransitFeeds.com.
+*   [The Mobility Database](https://database.mobilitydata.org/) - JSON and CSV files [on GitHub (⭐234)](https://github.com/MobilityData/mobility-database-catalogs) that is a repository of 1300+ mobility datasets across the world. Contains contents of OpenMobilityData/TransitFeeds.com.
 *   [Transitland](https://transit.land/) - Community editable list of many transit agency GTFS datasets. Also provides an API to access the data as JSON/GeoJSON and a playground to try out the data.
 
 ### Web Apps (open source)
 
-*   [Tiramisu Transit (⭐3)](https://github.com/CMU-RERC-APT/tiramisu3-pr) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. No longer maintained.
+*   [Tiramisu Transit (⭐4)](https://github.com/CMU-RERC-APT/tiramisu3-pr) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. No longer maintained.
 
 ### Native Apps (open source)
 
-*   [Tiramisu Transit (⭐3)](https://github.com/CMU-RERC-APT/tiramisu3-pr#mobile-app-client) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. Written using Ionic framework. No longer maintained.
+*   [Tiramisu Transit (⭐4)](https://github.com/CMU-RERC-APT/tiramisu3-pr#mobile-app-client) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. Written using Ionic framework. No longer maintained.
 
 ## [31. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
@@ -318,8 +318,8 @@
 
 ### Editing Support / Diagnostics
 
-*   [gbprod/substitute.nvim (⭐397)](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operator motions to quickly replace and exchange text.
-*   [gbprod/yanky.nvim (⭐658)](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities.
+*   [gbprod/substitute.nvim (⭐407)](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operator motions to quickly replace and exchange text.
+*   [gbprod/yanky.nvim (⭐670)](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities.
 
 ## [34. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 

@@ -66,7 +66,7 @@
 
 ### Plugins and scripts / Godot 4.2+
 
-*   [AnimatedShape2D (⭐25)](https://github.com/Goutte/godot-addon-animated-shape-2d) - Animate a CollisionShape2D along with the frames of an AnimatedSprite2D.
+*   [AnimatedShape2D (⭐29)](https://github.com/Goutte/godot-addon-animated-shape-2d) - Animate a CollisionShape2D along with the frames of an AnimatedSprite2D.
 
 ## [6. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
@@ -283,7 +283,7 @@
 *   [tfmask (⭐198)](https://github.com/cloudposse-archives/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
 *   [tgf (⭐95)](https://github.com/coveooss/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
 
-### Managed Terraform Platforms / IDE
+### Managed Terraform Platforms :heavy_dollar_sign: / IDE
 
 *   [Scalr](https://www.scalr.com/) - Alternative to Terraform Enterprise with OPA integration, organizational structure, custom hooks, native integrations with other DevOps platforms, and centralized reporting. :heavy\_dollar\_sign:
 *   [env0](https://www.env0.com/) - Alternative to Terraform Cloud/Enterprise with OPA integration, custom flows and Terragrunt support :heavy\_dollar\_sign:
@@ -354,6 +354,14 @@
 
 ## [28. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
+### Text / Academia
+
+*   [Sourcely](https://www.sourcely.net/) - Academic Citation Finding Tool with AI
+
+### Image / Services
+
+*   [Room Reinvented](https://roomreinvented.com) - Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
+
 ### Text / Writing assistants
 
 *   [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
@@ -404,7 +412,21 @@
 *   [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow.
 *   [ParaglideJS](https://inlang.com/m/gerre34r) - Synchronous, typesafe and lightweight i18n library.
 
-## [33. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [33. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### Generative AI history, maps, and definitions
+
+*   [The Four Wars of the AI Stack (Dec 2023 Recap)](https://www.latent.space/p/dec-2023): "recap of top items for the AI Engineer from Dec 2023" ("The Data Wars, The War of the GPU Rich/Poor, The Multimodality War, The RAG/Ops War")
+
+### Critical Views about Generative AI
+
+*   [Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum](https://spectrum.ieee.org/midjourney-copyright): "Experiments with Midjourney and DALL-E 3 show a copyright minefield"
+
+### Auxiliary tools and concepts / Deforum
+
+*   [SiteSpeakAI](https://sitespeak.ai): Automate your customer support with AI
+
+## [34. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Loaders
 
@@ -424,7 +446,7 @@
 
 *   [vite-manifest-parser (⭐2)](https://github.com/sullay/vite-manifest-parser) - Parses manifest.json to generate HTML script and link tags.
 
-## [34. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [35. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Code Editors:
 
@@ -432,13 +454,13 @@
 
 
 
-## [35. Awesome Spanish Nlp](/content/dav009/awesome-spanish-nlp/week/README.md)
+## [36. Awesome Spanish Nlp](/content/dav009/awesome-spanish-nlp/week/README.md)
 
 ### Corpora / Corpora
 
 *   [OSCAR or Open Super-large Crawled ALMAnaCH coRpus Spanish subset](https://traces1.inria.fr/oscar/)
 
-## [36. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [37. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
@@ -452,7 +474,7 @@
 
 *   [qase (⭐42)](https://github.com/qase-tms/qase-javascript/tree/master/qase-playwright) - Playwright Qase Reporter, send test executions to [qase](https://qase.io/).
 
-## [37. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [38. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Design
 
@@ -462,44 +484,21 @@
 
 *   [Swagger UI (⭐25k) (⭐25k)](https://github.com/swagger-api/swagger-ui) - An intuitive tool for exploring and interacting with APIs, with API specification visualization, endpoint exploration, and built-in interactive console.
 
-### Projects / BRE
-
-*   [OpenL Tablets (⭐138) (⭐138)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
-
 ### Projects / Messaging
 
 *   [BlazingMQ (⭐2.4k) (⭐2.4k)](https://github.com/bloomberg/blazingmq) - A distributed message queueing platform with a focus on efficiency, reliability, and a rich feature set for modern-day workflows.
 
 ### Projects / Workflow engine
 
-*   [Apache Airflow (⭐33k) (⭐33k)](https://github.com/apache/airflow) - A platform that allows you to create, schedule, and monitor workflows programmatically, making it easier to manage and automate complex data pipelines.
-*   [StackStorm (⭐5.8k) (⭐5.8k)](https://github.com/StackStorm/st2) - A robust automation engine that provides sensors, triggers, rules, workflows, and actions to help you automate and orchestrate complex workflows and applications.
+*   [Apache Airflow (⭐33k) (⭐34k)](https://github.com/apache/airflow) - A platform that allows you to create, schedule, and monitor workflows programmatically, making it easier to manage and automate complex data pipelines.
+*   [StackStorm (⭐5.8k) (⭐5.9k)](https://github.com/StackStorm/st2) - A robust automation engine that provides sensors, triggers, rules, workflows, and actions to help you automate and orchestrate complex workflows and applications.
 
-## [38. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [39. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Adwaita for Steam (⭐973)](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
+*   [Adwaita for Steam (⭐984)](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
 *   [Adwaita theme for VS Code (⭐124)](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
-
-## [39. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
-
-### AI Tools for Research / Multi-agents
-
-*   [Sourcely](https://www.sourcely.net/): Academic Citation Finding Tool with AI
-
-### Auxiliary tools and concepts / Deforum
-
-*   [Room Reinvented](https://roomreinvented.com): Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
-*   [SiteSpeakAI](https://sitespeak.ai): Automate your customer support with AI
-
-### Generative AI history, maps, and definitions
-
-*   [The Four Wars of the AI Stack (Dec 2023 Recap)](https://www.latent.space/p/dec-2023): "recap of top items for the AI Engineer from Dec 2023" ("The Data Wars, The War of the GPU Rich/Poor, The Multimodality War, The RAG/Ops War")
-
-### Critical Views about Generative AI
-
-*   [Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum](https://spectrum.ieee.org/midjourney-copyright): "Experiments with Midjourney and DALL-E 3 show a copyright minefield"
 
 ## [40. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
@@ -583,11 +582,11 @@
 
 ### Software / Automation
 
-*   [Mylar3](https://mylarcomics.com/) - Automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. ([Source Code (⭐912)](https://github.com/mylar3/mylar3)) `GPL-3.0` `Python/Docker`
+*   [Mylar3](https://mylarcomics.com/) - Automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. ([Source Code (⭐925)](https://github.com/mylar3/mylar3)) `GPL-3.0` `Python/Docker`
 
 ### Software / File Transfer - Object Storage & File Servers
 
-*   [ZOT OCI Registry](https://zotregistry.dev) - A production-ready vendor-neutral OCI-native container image registry. ([Demo](https://zothub.io), [Source Code (⭐651)](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
+*   [ZOT OCI Registry](https://zotregistry.dev) - A production-ready vendor-neutral OCI-native container image registry. ([Demo](https://zothub.io), [Source Code (⭐665)](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
 
 ### Software / Miscellaneous
 
@@ -595,11 +594,11 @@
 
 ### Software / Proxy
 
-*   [txtdot](https://txtdot.github.io/documentation/) - A HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts. ([Demo](https://txt.dc09.ru), [Source Code (⭐30)](https://github.com/TxtDot/txtdot)) `MIT` `Nodejs/Docker`
+*   [txtdot](https://txtdot.github.io/documentation/) - A HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts. ([Demo](https://txt.dc09.ru), [Source Code (⭐86)](https://github.com/TxtDot/txtdot)) `MIT` `Nodejs/Docker`
 
 ### Software / Wikis
 
-*   [WikiDocs](http://wikidocs.it) - A databaseless markdown flat-file wiki engine. ([Demo](https://demo.wikidocs.it), [Source Code (⭐145)](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
+*   [WikiDocs](http://wikidocs.it) - A databaseless markdown flat-file wiki engine. ([Demo](https://demo.wikidocs.it), [Source Code (⭐149)](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
 
 ## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -615,20 +614,20 @@
 
 ### PHP / Diagnostics
 
-*   [ta-tikoma/php.easy.nvim (⭐5)](https://github.com/ta-tikoma/php.easy.nvim) - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
+*   [ta-tikoma/php.easy.nvim (⭐6)](https://github.com/ta-tikoma/php.easy.nvim) - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
 
 ### Startup / Diagnostics
 
-*   [CWood-sdf/spaceport.nvim (⭐27)](https://github.com/CWood-sdf/spaceport.nvim) - The start screen that gets you to your projects blazingly fast.
+*   [CWood-sdf/spaceport.nvim (⭐42)](https://github.com/CWood-sdf/spaceport.nvim) - The start screen that gets you to your projects blazingly fast.
 
 ### Editing Support / Diagnostics
 
 *   [gregorias/coerce.nvim (⭐53)](https://github.com/gregorias/coerce.nvim) - Change keyword case.
-*   [johmsalas/text-case.nvim (⭐337)](https://github.com/johmsalas/text-case.nvim) - Text case changes via keybindings and custom substitute command with Telescope and LSP support.
+*   [johmsalas/text-case.nvim (⭐344)](https://github.com/johmsalas/text-case.nvim) - Text case changes via keybindings and custom substitute command with Telescope and LSP support.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [Cris-lml007/NeoPlus (⭐3)](https://github.com/Cris-lml007/NeoPlus) - NeoPlus is a free, open source IDE with tools that works on Neovim.
+*   [Cris-lml007/NeoPlus (⭐6)](https://github.com/Cris-lml007/NeoPlus) - NeoPlus is a free, open source IDE with tools that works on Neovim.
 
 ---
 

@@ -364,7 +364,7 @@
 
 ### Miscellaneous
 
-*   [bruck (⭐487)](https://github.com/Heydon/bruck) - Prototyping system built with web components and the Houdini Paint API.
+*   [bruck (⭐512)](https://github.com/Heydon/bruck) - Prototyping system built with web components and the Houdini Paint API.
 *   [webcomponents.org](http://webcomponents.org/) - Discuss & share web components.
 
 ## [20. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)

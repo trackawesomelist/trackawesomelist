@@ -87,10 +87,10 @@
 
 ### Learning
 
-*   [Awesome Community Detection (⭐2k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Clustering graph structured data
-*   [Awesome Decision Tree Papers (⭐2k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - Decision tree papers from machine learning conferences
-*   [Awesome Gradient Boosting Papers (⭐814)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences
-*   [Awesome Fraud Detection Papers (⭐1.2k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences
+*   [Awesome Community Detection (⭐2.3k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Clustering graph structured data
+*   [Awesome Decision Tree Papers (⭐2.3k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - Decision tree papers from machine learning conferences
+*   [Awesome Gradient Boosting Papers (⭐975)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences
+*   [Awesome Fraud Detection Papers (⭐1.5k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences
 
 ## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

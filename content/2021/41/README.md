@@ -288,7 +288,7 @@
 
 ### Tools / Community Chat Rooms
 
-*   [embedded-hal-compat (⭐11)](https://github.com/ryankurte/embedded-hal-compat), a compatibility layer to provide interoperability between `v0.2.x` and `v1.x.x` hal implementations and drivers
+*   [embedded-hal-compat (⭐13)](https://github.com/ryankurte/embedded-hal-compat), a compatibility layer to provide interoperability between `v0.2.x` and `v1.x.x` hal implementations and drivers
 
 ## [28. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -502,7 +502,7 @@
 
 ### Contents / Utilities
 
-*   [pgMonitor (⭐484)](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
+*   [pgMonitor (⭐496)](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 

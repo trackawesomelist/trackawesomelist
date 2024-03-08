@@ -72,7 +72,7 @@
 
 ### Software / Ticketing
 
-*   [Request Tracker](https://www.bestpractical.com/rt/) - An enterprise-grade issue tracking system. ([Source Code (⭐832)](https://github.com/bestpractical/rt)) `GPL-2.0` `Perl`
+*   [Request Tracker](https://www.bestpractical.com/rt/) - An enterprise-grade issue tracking system. ([Source Code (⭐835)](https://github.com/bestpractical/rt)) `GPL-2.0` `Perl`
 
 ---
 

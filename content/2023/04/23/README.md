@@ -45,7 +45,7 @@
 
 ### Utility / Diagnostics
 
-*   [ecthelionvi/NeoComposer.nvim (⭐346)](https://github.com/ecthelionvi/NeoComposer.nvim) - Simplify macro management, enhance productivity, and create harmonious workflows.
+*   [ecthelionvi/NeoComposer.nvim (⭐359)](https://github.com/ecthelionvi/NeoComposer.nvim) - Simplify macro management, enhance productivity, and create harmonious workflows.
 
 ## [7. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
 

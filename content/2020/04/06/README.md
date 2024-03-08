@@ -54,7 +54,7 @@
 
 ### JupyterLab Extensions
 
-*   [debugger (⭐555)](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files.
+*   [debugger (⭐560)](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files.
 
 ## [8. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 

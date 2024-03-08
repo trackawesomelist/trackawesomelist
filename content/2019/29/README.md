@@ -414,7 +414,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Tools
 
-*   [web-component-analyzer (⭐482)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
+*   [web-component-analyzer (⭐490)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
 
 ## [19. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -708,7 +708,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Runtime / Playground
 
-*   [typescript-is (⭐946)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
+*   [typescript-is (⭐948)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 
 ## [38. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -801,7 +801,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Software / Content Management Systems (CMS)
 
-*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐313)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
+*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐316)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
 
 ## [45. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

@@ -256,10 +256,6 @@ Installs: 4000 | Stars: 960 | Last update: n/a
 *   [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
 *   [Tutanota](https://tutanota.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage. Which is also partially [open source (⭐5.7k)](https://github.com/tutao/tutanota), so you can self-host.
 
-### Managed Data Services
-
-*   [Planetscale](https://planetscale.com/) - PlanetScale is a MySQL-compatible, serverless database platform powered by Vitess, one database for free with 1 Production branch and 1 Development branch, 5GB storage, 1 Billion rows read/mo per database, and 10 Million rows written/mo per database.
-
 ### Storage and Media Processing
 
 *   [AndroidFileHost](https://androidfilehost.com/) - Free file-sharing platform with unlimited speed, bandwidth, file count, download count, etc. It is mainly aimed for Android dev-related files like APK build, custom ROM & modifications, etc. But seems to accept any other files as well.
@@ -472,7 +468,7 @@ Installs: 4000 | Stars: 960 | Last update: n/a
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [PyTypes (⭐8)](https://github.com/pvs-hd-tea/PyTypes) - Infer Types by Python Tracing.
+*   [PyTypes (⭐10)](https://github.com/pvs-hd-tea/PyTypes) - Infer Types by Python Tracing.
 
 ## [39. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
@@ -491,7 +487,7 @@ Installs: 4000 | Stars: 960 | Last update: n/a
 
 ### Other / [Other](#other-1)
 
-*   [htmlbeautifier (⭐310)](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
+*   [htmlbeautifier (⭐314)](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
 *   [LunaSec](https://www.lunasec.io) — Open Source AppSec platform that automatically notifies you the next time vulnerabilities like Log4Shell or node-ipc happen. Track your dependencies and builds in a centralized service.
 *   [Rezilion](https://www.rezilion.com/) :copyright: — Discovers vulnerabilities for all components in your environment, filters out 85% non-exploitable vulnerabilities and creates a  remediation plan and open tickets to upgrade components that violate your security policy and/or patch automatically in CI.
 
@@ -842,11 +838,11 @@ Installs: 4000 | Stars: 960 | Last update: n/a
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ray-x/starry.nvim (⭐189)](https://github.com/ray-x/starry.nvim) - A collection of modern Neovim colorschemes: material, moonlight, dracula (blood), monokai, mariana, emerald, earlysummer, middlenight\_blue, darksolar.
+*   [ray-x/starry.nvim (⭐196)](https://github.com/ray-x/starry.nvim) - A collection of modern Neovim colorschemes: material, moonlight, dracula (blood), monokai, mariana, emerald, earlysummer, middlenight\_blue, darksolar.
 
 ### Note Taking / Diagnostics
 
-*   [jghauser/papis.nvim (⭐124)](https://github.com/jghauser/papis.nvim) - Manage your bibliography from within your favourite editor.
+*   [jghauser/papis.nvim (⭐129)](https://github.com/jghauser/papis.nvim) - Manage your bibliography from within your favourite editor.
 
 ### Utility / Diagnostics
 
@@ -854,7 +850,7 @@ Installs: 4000 | Stars: 960 | Last update: n/a
 
 ### Code Runner / Diagnostics
 
-*   [Shatur/neovim-tasks (⭐89)](https://github.com/Shatur/neovim-tasks) - A stateful task manager focused on integration with build systems.
+*   [Shatur/neovim-tasks (⭐90)](https://github.com/Shatur/neovim-tasks) - A stateful task manager focused on integration with build systems.
 
 ## [52. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
@@ -947,8 +943,8 @@ Installs: 4000 | Stars: 960 | Last update: n/a
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [conda (⭐335)](https://github.com/conda-incubator/conda-zsh-completion) - ZSH tab completion for [conda](http://conda.pydata.org/).
-*   [ddc (⭐23)](https://github.com/Shougo/ddc-zsh) - Adds tab completions for [ddc (⭐635)](https://github.com/Shougo/ddc.vim).
+*   [conda (⭐340)](https://github.com/conda-incubator/conda-zsh-completion) - ZSH tab completion for [conda](http://conda.pydata.org/).
+*   [ddc (⭐23)](https://github.com/Shougo/ddc-zsh) - Adds tab completions for [ddc (⭐637)](https://github.com/Shougo/ddc.vim).
 *   [symfony-complete (⭐2)](https://github.com/voronkovich/symfony-complete.plugin.zsh) - Universal completion for [Symfony](https://symfony.com/doc/current/components/console.html) based CLI applications: `composer`, `php-cs-fix`, `bin/console`, `artisan`, `php-cs-fixer` and etc. This supports autocompletion for subcommands and GNU-style options (`--help`)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only

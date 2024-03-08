@@ -8,6 +8,14 @@
 
 ## [1. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
 
+### Text / Academia
+
+*   [Sourcely](https://www.sourcely.net/) - Academic Citation Finding Tool with AI
+
+### Image / Services
+
+*   [Room Reinvented](https://roomreinvented.com) - Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
+
 ### Text / Writing assistants
 
 *   [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
@@ -46,7 +54,13 @@
 *   [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow.
 *   [ParaglideJS](https://inlang.com/m/gerre34r) - Synchronous, typesafe and lightweight i18n library.
 
-## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Critical Views about Generative AI
+
+*   [Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum](https://spectrum.ieee.org/midjourney-copyright): "Experiments with Midjourney and DALL-E 3 show a copyright minefield"
+
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Loaders
 
@@ -61,7 +75,7 @@
 
 *   [vite-manifest-parser (⭐2)](https://github.com/sullay/vite-manifest-parser) - Parses manifest.json to generate HTML script and link tags.
 
-## [7. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+## [8. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ### Code Editors:
 
@@ -69,56 +83,42 @@
 
 
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### PHP / Diagnostics
 
-*   [ta-tikoma/php.easy.nvim (⭐5)](https://github.com/ta-tikoma/php.easy.nvim) - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
+*   [ta-tikoma/php.easy.nvim (⭐6)](https://github.com/ta-tikoma/php.easy.nvim) - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
 
-## [9. Awesome Spanish Nlp](/content/dav009/awesome-spanish-nlp/README.md)
+## [10. Awesome Spanish Nlp](/content/dav009/awesome-spanish-nlp/README.md)
 
 ### Corpora / Corpora
 
 *   [OSCAR or Open Super-large Crawled ALMAnaCH coRpus Spanish subset](https://traces1.inria.fr/oscar/)
 
-## [10. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+## [11. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Integrations
 
 *   [@guidepup/playwright (⭐33)](https://github.com/guidepup/guidepup-playwright) - VoiceOver and NVDA screen reader driver integration for Playwright.
 
-## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Scripting
 
 *   [LuaBridge3 (⭐189)](https://github.com/kunitoki/LuaBridge3) - A lightweight, dependency-free library for binding Lua, LuaJIT, Luau and Ravi to C++. \[MIT]
 
-## [12. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [13. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / Messaging
 
 *   [BlazingMQ (⭐2.4k) (⭐2.4k)](https://github.com/bloomberg/blazingmq) - A distributed message queueing platform with a focus on efficiency, reliability, and a rich feature set for modern-day workflows.
 
-## [13. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [14. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Adwaita for Steam (⭐973)](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
+*   [Adwaita for Steam (⭐984)](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
 *   [Adwaita theme for VS Code (⭐124)](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
-
-## [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
-
-### AI Tools for Research / Multi-agents
-
-*   [Sourcely](https://www.sourcely.net/): Academic Citation Finding Tool with AI
-
-### Auxiliary tools and concepts / Deforum
-
-*   [Room Reinvented](https://roomreinvented.com): Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
-
-### Critical Views about Generative AI
-
-*   [Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum](https://spectrum.ieee.org/midjourney-copyright): "Experiments with Midjourney and DALL-E 3 show a copyright minefield"
 
 ---
 

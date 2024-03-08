@@ -151,7 +151,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Showcases / XML
 
-*   [GitHub Profile Trophy (⭐4.4k)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
+*   [GitHub Profile Trophy (⭐4.5k)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 
 ## [17. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 

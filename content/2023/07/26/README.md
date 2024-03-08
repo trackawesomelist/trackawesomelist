@@ -24,11 +24,11 @@
 
 ### Note Taking / Diagnostics
 
-*   [serenevoid/kiwi.nvim (⭐130)](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki with necessary features.
+*   [serenevoid/kiwi.nvim (⭐139)](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki with necessary features.
 
 ### Utility / Diagnostics
 
-*   [gaborvecsei/usage-tracker.nvim (⭐66)](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your Neovim usage and visualize statistics easily.
+*   [gaborvecsei/usage-tracker.nvim (⭐70)](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your Neovim usage and visualize statistics easily.
 
 ## [4. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Shells / On Host
 
-*   [mpr (⭐7)](https://github.com/bulletmark/mpr) - Wrapper for MicroPython mpremote tool.
+*   [mpr (⭐9)](https://github.com/bulletmark/mpr) - Wrapper for MicroPython mpremote tool.
 
 ## [6. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 

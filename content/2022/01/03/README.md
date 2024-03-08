@@ -55,7 +55,7 @@
 
 ### Wallets
 
-*   [AlgoSigner (⭐92)](https://github.com/PureStake/algosigner) - Browser plugin Web Wallet and JS library for signing transactions in the browser.
+*   [AlgoSigner (⭐91)](https://github.com/PureStake/algosigner) - Browser plugin Web Wallet and JS library for signing transactions in the browser.
 
 ### Tutorials
 
@@ -66,11 +66,11 @@
 ### Languages / Go
 
 *   [go-algorand (⭐1.3k)](https://github.com/algorand/go-algorand) - Algorand's official implementation in Go.
-*   [go-algorand-sdk (⭐179)](https://github.com/algorand/go-algorand-sdk) - The Algorand Golang SDK.
+*   [go-algorand-sdk (⭐182)](https://github.com/algorand/go-algorand-sdk) - The Algorand Golang SDK.
 
 ### Languages / Python
 
-*   [py-algorand-sdk (⭐244)](https://github.com/algorand/py-algorand-sdk) - The Algorand Python SDK.
+*   [py-algorand-sdk (⭐247)](https://github.com/algorand/py-algorand-sdk) - The Algorand Python SDK.
 
 ### Languages / Java
 
@@ -78,25 +78,24 @@
 
 ### Languages / .NET
 
-*   [dotnet-algorand-sdk (⭐39)](https://github.com/RileyGe/dotnet-algorand-sdk) - Algorand .NET SDK created by [@RileyGe](https://github.com/RileyGe).
+*   [dotnet-algorand-sdk (⭐38)](https://github.com/RileyGe/dotnet-algorand-sdk) - Algorand .NET SDK created by [@RileyGe](https://github.com/RileyGe).
 
 ### Languages / Swift
 
-*   [algorand-wallet (⭐172)](https://github.com/algorand/algorand-wallet) - Algorand wallet official implementation in Swift.
+*   [algorand-wallet (⭐175)](https://github.com/algorand/algorand-wallet) - Algorand wallet official implementation in Swift.
 
 ### Other Development Tools / Smart Contracts
 
-*   [pyteal (⭐273)](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
+*   [pyteal (⭐271)](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
 
 ### DeFi Platforms / Wallets
 
 *   [Tinyman](https://tinyman.org/) - A decentralized trading protocol, AMM and platform.
-*   [Algofi](https://www.algofi.org/) - Decentralized lending market and stablecoin on the Algorand blockchain.
 
 ### Projects / Wallets
 
 *   [arc3.xyz (⭐22)](https://github.com/barnjamin/arc3.xyz) - Dapp that can be used to mint ARC3 compliant NFTs.
-*   [Auction Demo (⭐59)](https://github.com/algorand/auction-demo) - On-chain NFT auction using smart contracts.
+*   [Auction Demo (⭐58)](https://github.com/algorand/auction-demo) - On-chain NFT auction using smart contracts.
 *   [Algorand Session Wallet (⭐16)](https://github.com/barnjamin/algorand-session-wallet) - Session wallet to allow persisted wallet connections across multiple wallets.
 *   [WalletConnect Example DApp (⭐21)](https://github.com/algorand/walletconnect-example-dapp) - Algorand WalletConnect demo.
 *   [TinyBar App](https://tinybar.app) - A tiny macOS menu bar app for tracking ASA prices from TinyMan.

@@ -10,7 +10,7 @@
 
 ### Command-Line Tools / Discovery
 
-*   [nixfmt (⭐487)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
+*   [nixfmt (⭐510)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
 
 ### Development / Discovery
 
@@ -18,8 +18,8 @@
 
 ### Programming Languages / Haskell
 
-*   [cabal2nix (⭐341)](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
-*   [haskell.nix (⭐512)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
+*   [cabal2nix (⭐348)](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
+*   [haskell.nix (⭐516)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
 
 ### Overlays / Webinterface
 
@@ -55,11 +55,11 @@
 
 ### GTFS Libraries / PostgreSQL
 
-*   [gtfs-via-postgres (⭐64)](https://github.com/derhuerst/gtfs-via-postgres) – Yet another tool to process GTFS using PostgreSQL.
+*   [gtfs-via-postgres (⭐66)](https://github.com/derhuerst/gtfs-via-postgres) – Yet another tool to process GTFS using PostgreSQL.
 
 ### Other multimodal data formats / Ruby
 
-*   [Transport Operator Mobility-as-a-service Provider (TOMP)-API (⭐92)](https://github.com/TOMP-WG/TOMP-API) - Working group in the Netherlands with a goal to develop an API for use by Transport Operators and Mobility-as-a-service Providers for operator discovery, trip planning, end user interaction, booking, and payment.
+*   [Transport Operator Mobility-as-a-service Provider (TOMP)-API (⭐93)](https://github.com/TOMP-WG/TOMP-API) - Working group in the Netherlands with a goal to develop an API for use by Transport Operators and Mobility-as-a-service Providers for operator discovery, trip planning, end user interaction, booking, and payment.
 
 ## [6. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

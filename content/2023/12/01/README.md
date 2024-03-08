@@ -10,7 +10,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [alexmozaidze/palenight.nvim (⭐10)](https://github.com/alexmozaidze/palenight.nvim) - Palenight colorscheme supporting Tree-sitter, LSP *(including semantic tokens)* and lots of plugins.
+*   [alexmozaidze/palenight.nvim (⭐12)](https://github.com/alexmozaidze/palenight.nvim) - Palenight colorscheme supporting Tree-sitter, LSP *(including semantic tokens)* and lots of plugins.
 
 ## [2. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [WingmanAI (⭐415)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
+*   [WingmanAI (⭐416)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Calendar
 
-*   [date-picker-svelte (⭐264)](https://github.com/probablykasper/date-picker-svelte) - A date and time picker for Svelte with clean UX.
+*   [date-picker-svelte (⭐273)](https://github.com/probablykasper/date-picker-svelte) - A date and time picker for Svelte with clean UX.
 
 ## [7. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 

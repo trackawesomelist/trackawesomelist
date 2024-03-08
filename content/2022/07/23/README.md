@@ -41,7 +41,7 @@
 
 ### UI Libraries
 
-*   [ionic-svelte (⭐688)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
+*   [ionic-svelte (⭐696)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 
 ## [6. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
 

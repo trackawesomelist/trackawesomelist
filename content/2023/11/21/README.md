@@ -80,7 +80,7 @@
 
 ### AI / Diagnostics
 
-*   [David-Kunz/gen.nvim (⭐578)](https://github.com/David-Kunz/gen.nvim) - Generate text using LLMs (via Ollama) with customizable prompts.
+*   [David-Kunz/gen.nvim (⭐671)](https://github.com/David-Kunz/gen.nvim) - Generate text using LLMs (via Ollama) with customizable prompts.
 
 ### Markdown and LaTeX / Diagnostics
 
@@ -88,20 +88,20 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [fdschmidt93/telescope-egrepify.nvim (⭐67)](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Telescope plugin for better `rg` flags in `live_grep`.
+*   [fdschmidt93/telescope-egrepify.nvim (⭐71)](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Telescope plugin for better `rg` flags in `live_grep`.
 
 ### Colorscheme Switchers / Diagnostics
 
-*   [linrongbin16/colorbox.nvim (⭐19)](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into your Neovim player! It collects all the most popular colorschemes, installs them, and allows you to play them with multiple playback settings.
+*   [linrongbin16/colorbox.nvim (⭐20)](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into your Neovim player! It collects all the most popular colorschemes, installs them, and allows you to play them with multiple playback settings.
 
 ### Motion / Diagnostics
 
-*   [ggandor/flit.nvim (⭐318)](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap.
-*   [ggandor/leap-spooky.nvim (⭐258)](https://github.com/ggandor/leap-spooky.nvim) - Spooky (Leap) actions at a distance.
+*   [ggandor/flit.nvim (⭐324)](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap.
+*   [ggandor/leap-spooky.nvim (⭐264)](https://github.com/ggandor/leap-spooky.nvim) - Spooky (Leap) actions at a distance.
 
 ### Editing Support / Diagnostics
 
-*   [cshuaimin/ssr.nvim (⭐808)](https://github.com/cshuaimin/ssr.nvim) - Treesitter-based structural search and replace.
+*   [cshuaimin/ssr.nvim (⭐823)](https://github.com/cshuaimin/ssr.nvim) - Treesitter-based structural search and replace.
 
 ---
 

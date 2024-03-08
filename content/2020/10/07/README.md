@@ -184,7 +184,7 @@
 
 ### Generation / Apache License
 
-*   [record-flux (⭐96)](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
+*   [record-flux (⭐98)](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
 
 ### Math / Apache License
 
@@ -194,7 +194,7 @@
 
 *   [threefish (⭐5)](https://github.com/jrcarter/Threefish) - Ada Implementation of the Threefish-256 Encryption Algorithm.
 *   [ada-crypto-library (⭐85)](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86\_64 hardware architecture.
-*   [spark-nacl (⭐100)](https://github.com/rod-chapman/SPARKNaCl) - SPARK 2014 re-implementation of the TweetNaCl crypto library.
+*   [spark-nacl (⭐104)](https://github.com/rod-chapman/SPARKNaCl) - SPARK 2014 re-implementation of the TweetNaCl crypto library.
 *   [libsodium-ada (⭐8)](https://github.com/jrmarino/libsodium-ada) - A secure cryptographic library (libsodium for Ada).
 *   [ada-libsecret (⭐2)](https://github.com/stcarrez/ada-libsecret) - Ada Binding for the libsecret library.
 
@@ -204,7 +204,7 @@
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Apache License
 
-*   [libadalang (⭐137)](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
+*   [libadalang (⭐140)](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
 
 ### Networking and Communication Middleware / Apache License
 
@@ -223,7 +223,7 @@
 
 *   [orka (⭐54)](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012.
 *   [adagl (⭐9)](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WASM/WebGL).
-*   [sdlada (⭐101)](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
+*   [sdlada (⭐103)](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
 *   [ada-nanovg (⭐1)](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG.
 *   [free-type-ada (⭐1)](https://github.com/flyx/FreeTypeAda) - FreeType binding for Ada 2005.
 
@@ -262,7 +262,7 @@
 
 ### Windows and .NET / Apache License
 
-*   [win32ada (⭐15)](https://github.com/AdaCore/win32ada) - Ada API to the Windows library.
+*   [win32ada (⭐16)](https://github.com/AdaCore/win32ada) - Ada API to the Windows library.
 *   [ada-net-framework (⭐5)](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings to the Microsoft NetFramework Api.
 *   [ada-winrt (⭐11)](https://github.com/Alex-Gamper/Ada-WinRT) - Ada bindings for the Microsft WinRT Api.
 *   [ada-win32 (⭐4)](https://github.com/Alex-Gamper/Ada-Win32) - Ada bindings for the Microsoft Win32 Api.

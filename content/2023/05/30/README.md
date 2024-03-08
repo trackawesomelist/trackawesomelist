@@ -26,13 +26,13 @@
 
 ### Display / Fonts
 
-*   [framebuf2 (⭐5)](https://github.com/peter-l5/framebuf2) - MicroPython FrameBuffer extension: larger and rotated font, triangles and circles.
+*   [framebuf2 (⭐6)](https://github.com/peter-l5/framebuf2) - MicroPython FrameBuffer extension: larger and rotated font, triangles and circles.
 
 ## [4. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Static type checkers
 
-*   [pylyzer (⭐1.1k)](https://github.com/mtshiba/pylyzer/) - A fast static code analyzer & language server for Python, written in Rust.
+*   [pylyzer (⭐1.3k)](https://github.com/mtshiba/pylyzer/) - A fast static code analyzer & language server for Python, written in Rust.
 
 ## [5. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
@@ -44,9 +44,9 @@
 
 ### Tables
 
-*   [buckaroo (⭐20)](https://github.com/paddymul/buckaroo) - GUI Data Wrangling tool for Jupyter and pandas.
-*   [ipyaggrid (⭐28)](https://github.com/widgetti/ipyaggrid) -  The power of ag-Grid in Jupyter.
-*   [ipydatagrid (⭐413)](https://github.com/bloomberg/ipydatagrid) - Fast datagrid widget for Jupyter.
+*   [buckaroo (⭐96)](https://github.com/paddymul/buckaroo) - GUI Data Wrangling tool for Jupyter and pandas.
+*   [ipyaggrid (⭐49)](https://github.com/widgetti/ipyaggrid) -  The power of ag-Grid in Jupyter.
+*   [ipydatagrid (⭐483)](https://github.com/bloomberg/ipydatagrid) - Fast datagrid widget for Jupyter.
 
 ## [7. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -112,8 +112,8 @@
 
 *   [cmd-time (⭐1)](https://github.com/TomfromBerlin/zsh-cmd-time) - Collects the execution time of commands and exports the result to a variable that can be used elsewhere. It is similar to the built-in [REPORTTIME](http://zsh.sourceforge.net/Doc/Release/Parameters.html) function, but it is also slightly different. Unlike when you set `REPORTTIME`, it considers user and sytem time, not just CPU time.
 *   [coffee-time (⭐1)](https://github.com/gakimball/zsh-coffee-time) - Adds the `caf` alias, which runs `caffeinate -dims`. The extra flags keep everything awake: the system, the drive, and the display.
-*   [gpt (⭐9)](https://github.com/antonjs/zsh-gpt) - Enable querying ChatGPT from the command line.
-*   [macos-theme (⭐0)](https://github.com/gakimball/zsh-macos-theme) - Adds the theme command, which toggles between light and dark mode in macOS. Requires [lux (⭐30)](https://github.com/pndurette/zsh-lux) plugin.
+*   [gpt (⭐10)](https://github.com/antonjs/zsh-gpt) - Enable querying ChatGPT from the command line.
+*   [macos-theme (⭐0)](https://github.com/gakimball/zsh-macos-theme) - Adds the theme command, which toggles between light and dark mode in macOS. Requires [lux (⭐32)](https://github.com/pndurette/zsh-lux) plugin.
 
 ## [12. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

@@ -46,10 +46,6 @@
 
 ## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Books
-
-*   [IaC starting with Terraform(Korean)](https://product.kyobobook.co.kr/detail/S000202478097)
-
 ### Tools / Community providers
 
 *   [tftui (⭐828)](https://github.com/idoavrah/terraform-tui) - A textual user interface for Terraform state.

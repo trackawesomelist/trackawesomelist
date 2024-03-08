@@ -41,7 +41,7 @@
 
 ### Software / Groupware
 
-*   [Group Office](https://www.group-office.com) - Group-Office is an enterprise CRM and groupware tool. Share projects, calendars, files and e-mail online with co-workers and clients. ([Source Code (⭐162)](https://github.com/Intermesh/groupoffice/)) `AGPL-3.0` `PHP`
+*   [Group Office](https://www.group-office.com) - Group-Office is an enterprise CRM and groupware tool. Share projects, calendars, files and e-mail online with co-workers and clients. ([Source Code (⭐161)](https://github.com/Intermesh/groupoffice/)) `AGPL-3.0` `PHP`
 
 ## [4. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -106,8 +106,8 @@
 
 ### Competitive Programming / Diagnostics
 
-*   [p00f/cphelper.nvim (⭐115)](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming written in Lua.
-*   [xeluxee/competitest.nvim (⭐306)](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
+*   [p00f/cphelper.nvim (⭐117)](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming written in Lua.
+*   [xeluxee/competitest.nvim (⭐315)](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
 
 ## [10. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 

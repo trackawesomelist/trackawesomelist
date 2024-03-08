@@ -110,7 +110,7 @@
 
 ### Types / Playground
 
-*   [typescript-conditional-types (⭐44)](https://github.com/LeDDGroup/typescript-conditional-types) - Helpers for typescript generic types
+*   [typescript-conditional-types (⭐45)](https://github.com/LeDDGroup/typescript-conditional-types) - Helpers for typescript generic types
 
 ## [7. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -249,7 +249,7 @@
 
 ### Communications / GPS
 
-*   [micropyGPS (⭐330)](https://github.com/inmcm/micropyGPS) - Full featured GPS NMEA sentence parser.
+*   [micropyGPS (⭐331)](https://github.com/inmcm/micropyGPS) - Full featured GPS NMEA sentence parser.
 *   [micropython-gnssl76l (⭐4)](https://github.com/tuupola/micropython-gnssl76l) - MicroPython I2C driver for Quectel GNSS L76-L (GPS).
 
 ### Communications / IR
@@ -259,12 +259,12 @@
 
 ### Communications / Radio
 
-*   [micropython-radio (⭐51)](https://github.com/peterhinch/micropython-radio) - Protocols for nRF24L01 2.4GHz radio modules.
+*   [micropython-radio (⭐52)](https://github.com/peterhinch/micropython-radio) - Protocols for nRF24L01 2.4GHz radio modules.
 
 ### Communications / RFID
 
 *   [micropython-mfrc522 (⭐156)](https://github.com/wendlers/micropython-mfrc522) - Driver for NXP MFRC522 RFID reader/writer.
-*   [micropython-wiegand (⭐24)](https://github.com/pjz/micropython-wiegand) - Wiegand protocol reader.
+*   [micropython-wiegand (⭐25)](https://github.com/pjz/micropython-wiegand) - Wiegand protocol reader.
 
 ### Communications / RTC
 
@@ -277,21 +277,21 @@
 
 ### Display / E-Paper
 
-*   [micropython-waveshare-epaper (⭐288)](https://github.com/mcauser/micropython-waveshare-epaper) - Drivers for various Waveshare ePaper modules.
+*   [micropython-waveshare-epaper (⭐293)](https://github.com/mcauser/micropython-waveshare-epaper) - Drivers for various Waveshare ePaper modules.
 
 ### Display / LCD Character
 
 *   [Grove\_RGB\_LCD (⭐3)](https://github.com/dda/MicroPython/blob/master/Grove_RGB_LCD.py) - Driver for SeeedStudio's Grove RGB LCD.
 *   [lcdi2c (⭐4)](https://github.com/slothyrulez/lcdi2c) - Driver for HD44780-compatible dot matrix LCDs.
 *   [micropython-charlcd (⭐13)](https://github.com/rdagger/micropython-charlcd) - Driver for HD44780-compatible LCDs.
-*   [micropython-i2c-lcd (⭐24)](https://github.com/Bucknalla/micropython-i2c-lcd) - Driver for I2C 2x16 LCD Screens.
+*   [micropython-i2c-lcd (⭐26)](https://github.com/Bucknalla/micropython-i2c-lcd) - Driver for I2C 2x16 LCD Screens.
 *   [pyboard-LCD-character-display (⭐1)](https://github.com/scitoast/pyboard-LCD-character-display) - Pyboar driver for HDD44780-compatible 1602 LCDs.
-*   [python\_lcd (⭐289)](https://github.com/dhylands/python_lcd) - Driver for HD44780-compatible dot matrix LCDs.
+*   [python\_lcd (⭐292)](https://github.com/dhylands/python_lcd) - Driver for HD44780-compatible dot matrix LCDs.
 
 ### Display / LCD Graphic
 
 *   [micropython-lcd-AQM1248A (⭐0)](https://github.com/forester3/micropython-lcd-AQM1248A) - ESP8266 driver for AQM1248A graphic LCD.
-*   [micropython-pcd8544 (⭐61)](https://github.com/mcauser/micropython-pcd8544) - Driver for Nokia 5110 PCD8544 84x48 LCD modules.
+*   [micropython-pcd8544 (⭐63)](https://github.com/mcauser/micropython-pcd8544) - Driver for Nokia 5110 PCD8544 84x48 LCD modules.
 *   [micropython-st7565 (⭐11)](https://github.com/nquest/micropython-st7565) - Driver for ST7565 128x64 LCDs.
 *   [micropython-st7920 (⭐11)](https://github.com/ShrimpingIt/micropython-st7920) - Library for simple graphic primitives on ST7920 128x64 monochrome LCD panel using ESP8266 and SPI.
 *   [MicroPython\_PCD8544 (⭐3)](https://github.com/AnthonyKNorman/MicroPython_PCD8544) - ESP8266 driver for Nokia 5110 PCD8544.
@@ -299,14 +299,14 @@
 ### Display / LCD TFT
 
 *   [micropython-ili934x (⭐17)](https://github.com/tuupola/micropython-ili934x) - SPI driver for ILI934X series based TFT / LCD displays.
-*   [MicroPython-ST7735 (⭐156)](https://github.com/boochow/MicroPython-ST7735) - ESP32 version of GuyCarvers's ST7735 TFT LCD driver.
+*   [MicroPython-ST7735 (⭐162)](https://github.com/boochow/MicroPython-ST7735) - ESP32 version of GuyCarvers's ST7735 TFT LCD driver.
 *   [micropython-st7735 (⭐24)](https://github.com/hosaka/micropython-st7735) - Driver for ST7735 TFT LCDs.
 *   [MicroPython\_ST7735 (⭐23)](https://github.com/AnthonyKNorman/MicroPython_ST7735) - Driver for ST7735 128x128 TFT.
-*   [ST7735 (⭐126)](https://github.com/GuyCarver/MicroPython/blob/master/lib/ST7735.py) - Driver for ST7735 TFT LCDs.
+*   [ST7735 (⭐129)](https://github.com/GuyCarver/MicroPython/blob/master/lib/ST7735.py) - Driver for ST7735 TFT LCDs.
 
 ### Display / LED Matrix
 
-*   [micropython-ht1632c (⭐6)](https://github.com/vrialland/micropython-ht1632c) - Driver for HT1632C 32x16 bicolor LED matrix.
+*   [micropython-ht1632c (⭐7)](https://github.com/vrialland/micropython-ht1632c) - Driver for HT1632C 32x16 bicolor LED matrix.
 *   [micropython-matrix8x8 (⭐14)](https://github.com/JanBednarik/micropython-matrix8x8) - Driver for Adafruit 8x8 LED Matrix display with HT16K33 backpack.
 *   [micropython-max7219 (⭐167)](https://github.com/mcauser/micropython-max7219) - Driver for MAX7219 8x8 LED matrix modules.
 *   [micropython-wemos-led-matrix-shield (⭐8)](https://github.com/mactijn/micropython-wemos-led-matrix-shield) - Driver for Wemos D1 Mini Matrix LED shield, using TM1640 chip.
@@ -318,7 +318,7 @@
 *   [max7219\_8digit (⭐22)](https://github.com/pdwerryhouse/max7219_8digit) - Driver for MAX7219 8-digit 7-segment LED modules.
 *   [micropython-max7219 (⭐4)](https://github.com/JulienBacquart/micropython-max7219) - Driver for MAX7219 8-digit 7-segment LED modules.
 *   [micropython-my9221 (⭐6)](https://github.com/mcauser/micropython-my9221) - Driver for MY9221 10-segment LED bar graph modules.
-*   [micropython-tm1637 (⭐169)](https://github.com/mcauser/micropython-tm1637) - Driver for TM1637 quad 7-segment LED modules.
+*   [micropython-tm1637 (⭐170)](https://github.com/mcauser/micropython-tm1637) - Driver for TM1637 quad 7-segment LED modules.
 *   [micropython-tm1638 (⭐26)](https://github.com/mcauser/micropython-tm1638) - Driver for TM1638 dual quad 7-segment LED modules with switches.
 *   [micropython-tm1640 (⭐13)](https://github.com/mcauser/micropython-tm1640) - Driver for TM1740 8x8 LED matrix modules.
 
@@ -327,7 +327,7 @@
 *   [micropython-morsecode (⭐6)](https://github.com/mampersat/micropython-morsecode) - Blink an LED with Morse Coded message.
 *   [micropython-p9813 (⭐6)](https://github.com/mcauser/micropython-p9813) - Driver for P9813 RGB LED used in SeeedStudio's Grove chainable RGB LED.
 *   [micropython-ws2812-7seg (⭐1)](https://github.com/HubertD/micropython-ws2812-7seg) - 7-segment display using WS2812 RGB LEDs.
-*   [micropython-ws2812 (⭐182)](https://github.com/JanBednarik/micropython-ws2812) - Driver for WS2812 RGB LEDs.
+*   [micropython-ws2812 (⭐183)](https://github.com/JanBednarik/micropython-ws2812) - Driver for WS2812 RGB LEDs.
 *   [tlc5940-micropython (⭐5)](https://github.com/oysols/tlc5940-micropython) - Driver for TLC5940 16 channel LED driver.
 
 ### Display / OLED
@@ -345,7 +345,7 @@
 
 ### IO / DAC
 
-*   [micropython-mcp4725 (⭐8)](https://github.com/wayoda/micropython-mcp4725) - Driver for the MCP4725 I2C DAC.
+*   [micropython-mcp4725 (⭐9)](https://github.com/wayoda/micropython-mcp4725) - Driver for the MCP4725 I2C DAC.
 
 ### IO / IO-Expander
 
@@ -361,7 +361,7 @@
 
 ### Motion / DC Motor
 
-*   [L298N (⭐126)](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - Driver for the L298N dual H-bridge motor controller.
+*   [L298N (⭐129)](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - Driver for the L298N dual H-bridge motor controller.
 
 ### Motion / Stepper
 
@@ -387,7 +387,7 @@
 
 ### Sensors / Camera
 
-*   [micropython-ov2640 (⭐104)](https://github.com/namato/micropython-ov2640) - MicroPython class for OV2640 camera.
+*   [micropython-ov2640 (⭐103)](https://github.com/namato/micropython-ov2640) - MicroPython class for OV2640 camera.
 
 ### Sensors / Compass
 
@@ -422,9 +422,9 @@
 *   [micropython-bmx055 (⭐5)](https://github.com/micropython-IMU/micropython-bmx055) - Driver for Bosch BMX055 IMU sensor.
 *   [micropython-bno055 (⭐4)](https://github.com/deshipu/micropython-bno055) - Bosch Sensortec BNO055 9DOF IMU sensor, I2C interface.
 *   [micropython-lsm9ds0 (⭐4)](https://github.com/micropython-IMU/micropython-lsm9ds0) - LSM9DS0 g-force linear acceleration, Gauss magnetic and DPS angular rate sensors.
-*   [micropython-mpu9250 (⭐128)](https://github.com/tuupola/micropython-mpu9250) - I2C driver for MPU9250 9-axis motion tracking device.
+*   [micropython-mpu9250 (⭐130)](https://github.com/tuupola/micropython-mpu9250) - I2C driver for MPU9250 9-axis motion tracking device.
 *   [micropython-mpu9x50 (⭐246)](https://github.com/micropython-IMU/micropython-mpu9x50) - Driver for the InvenSense MPU9250 inertial measurement unit.
-*   [MPU6050-ESP8266-MicroPython (⭐83)](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
+*   [MPU6050-ESP8266-MicroPython (⭐84)](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 *   [py-mpu6050 (⭐81)](https://github.com/larsks/py-mpu6050) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 
 ### Sensors / Soil Moisture
@@ -444,7 +444,7 @@
 *   [micropython-hdc1008 (⭐4)](https://github.com/kfricke/micropython-hdc1008) - Driver for the Texas Instruments HDC1008 humidity and temperature sensor.
 *   [micropython-mcp9808 (⭐6)](https://github.com/kfricke/micropython-mcp9808) - Driver for the Microchip MCP9808 temperature sensor.
 *   [micropython-mpl115a2 (⭐2)](https://github.com/khoulihan/micropython-mpl115a2) - Pyboard driver for the MPL115A2 barometric pressure sensor.
-*   [micropython-sht30 (⭐40)](https://github.com/rsc1975/micropython-sht30) - Driver for SHT30 temperature and humidity sensor.
+*   [micropython-sht30 (⭐41)](https://github.com/rsc1975/micropython-sht30) - Driver for SHT30 temperature and humidity sensor.
 *   [micropython-sht31 (⭐21)](https://github.com/kfricke/micropython-sht31) - Driver for the SHT31 temperature and humidity sensor.
 *   [micropython-Si7005 (⭐1)](https://github.com/Smrtokvitek/micropython-Si7005) - Driver for Si7005 relative humidity and temperature sensor.
 *   [micropython-si7021 (⭐14)](https://github.com/chrisbalmer/micropython-si7021) - SI7021 Temperature and humidity sensor, I2C interface.
@@ -459,7 +459,7 @@
 
 ### Sensors / Touch Capacitive
 
-*   [micropython-mpr121 (⭐14)](https://github.com/mcauser/micropython-mpr121) - Driver for MPR121 capacitive touch keypads and breakout boards.
+*   [micropython-mpr121 (⭐16)](https://github.com/mcauser/micropython-mpr121) - Driver for MPR121 capacitive touch keypads and breakout boards.
 *   [micropython-ttp223 (⭐8)](https://github.com/mcauser/micropython-ttp223) - Examples using TTP223 capacitive touch module.
 
 ### Resources / SRAM
@@ -490,7 +490,7 @@
 
 *   [jbcrypt](http://www.mindrot.org/projects/jBCrypt/) - jBCrypt is an implementation the OpenBSD Blowfish password hashing
     algorithm.
-*   [Keycloak (⭐18k)](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services.
+*   [Keycloak (⭐19k)](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services.
 *   [Project Kalium](http://abstractj.github.io/kalium/) - Java binding to the Networking and Cryptography (NaCl) library with the awesomeness of libsodium.
 
 ## [23. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
@@ -552,7 +552,7 @@
 
 *   [adacore-video-tutorials](https://www.youtube.com/playlist?list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o) - AdaCore University Video Tutorials.
 *   [simple-games](https://drive.google.com/file/d/1hdLc9nZzTnBDcN9qJeDlJm1F9IL91Lvi/view) - Learning Ada 2012 by writing simple games.
-*   [spark-by-example (⭐149)](https://github.com/tofgarion/spark-by-example) - Collection of verified functions and data types in SPARK.
+*   [spark-by-example (⭐150)](https://github.com/tofgarion/spark-by-example) - Collection of verified functions and data types in SPARK.
 
 ### Specialties
 
@@ -583,7 +583,7 @@
 
 *   [gprbuild (⭐62)](https://github.com/AdaCore/gprbuild) - Adacore multi-language software build tool.
 *   [ravenadm (⭐18)](https://github.com/jrmarino/ravenadm) - Administration tool for Ravenports <http://www.ravenports.com>.
-*   [synth (⭐244)](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools).
+*   [synth (⭐245)](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools).
 
 ### Continuous Integration / Apache License
 
@@ -591,7 +591,7 @@
 
 ### Runtimes / Apache License
 
-*   [bb-runtimes (⭐57)](https://github.com/AdaCore/bb-runtimes) - GNAT bare metal board support package (BSP).
+*   [bb-runtimes (⭐59)](https://github.com/AdaCore/bb-runtimes) - GNAT bare metal board support package (BSP).
 *   [avr-ada](https://sourceforge.net/projects/avr-ada) - GNAT for 8-bit AVR microcontrollers.
 
 ### OS and Kernels / Apache License
@@ -602,7 +602,7 @@
 ### Games / Apache License
 
 *   [unity-ada-tetris](https://blog.adacore.com/unity-ada) - Tetris, in Ada, for the Unity game engine.
-*   [tictactoe (⭐2)](https://github.com/AdaCore/tictactoe) - A tictactoe game written and proven in SPARK/Ada.
+*   [tictactoe (⭐3)](https://github.com/AdaCore/tictactoe) - A tictactoe game written and proven in SPARK/Ada.
 *   [ada-gate (⭐18)](https://github.com/fastrgv/AdaGate) - AdaGate is a first-person 3D sokoban puzzle game within a Stargate / Portal fantasy setting for Windows, OS-X and Linux.
 *   [rufas-cube (⭐4)](https://github.com/fastrgv/RufasCube) - RufasCube is a puzzle game for Windows, OS-X and GNU Linux (it looks like a rubic cube but it's a slider, not a twister).
 *   [ada-venture (⭐13)](https://github.com/fastrgv/AdaVenture) - AdaVenture is a kid-friendly retro point\&click game with mazes, dragons, bats & snakes.
@@ -610,8 +610,8 @@
 
 ### Components / Apache License
 
-*   [gnatcoll-core (⭐42)](https://github.com/AdaCore/gnatcoll-core) - This is the core module of the GNAT Components Collection.
-*   [gnatcoll-bindings (⭐10)](https://github.com/AdaCore/gnatcoll-bindings) - This is the bindings module of the GNAT Components Collection.
+*   [gnatcoll-core (⭐43)](https://github.com/AdaCore/gnatcoll-core) - This is the core module of the GNAT Components Collection.
+*   [gnatcoll-bindings (⭐12)](https://github.com/AdaCore/gnatcoll-bindings) - This is the bindings module of the GNAT Components Collection.
 *   [gnatcoll-db (⭐10)](https://github.com/AdaCore/gnatcoll-db) - This is the DB module of the GNAT Components Collection.
 
 ### Distributed / Apache License
@@ -628,8 +628,8 @@
 
 ### Verification / Apache License
 
-*   [gnat-coverage (⭐29)](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage.
-*   [spark-2014 (⭐228)](https://github.com/AdaCore/spark2014/) - SPARK formal verification toolset.
+*   [gnat-coverage (⭐30)](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage.
+*   [spark-2014 (⭐233)](https://github.com/AdaCore/spark2014/) - SPARK formal verification toolset.
 
 ### Generation / Apache License
 
@@ -644,7 +644,7 @@
 ### Algorithms, Containers and Protocols / Apache License
 
 *   [ada-traits-containers (⭐27)](https://github.com/AdaCore/ada-traits-containers) - Generic Ada Library for Algorithms and Containers.
-*   [pragmarc (⭐26)](https://github.com/jrcarter/PragmARC) - PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering.
+*   [pragmarc (⭐27)](https://github.com/jrcarter/PragmARC) - PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering.
 *   [ada-id (⭐15)](https://github.com/anthony-arnold/AdaID) - Simple Ada library for generating UUIDs.
 *   [ada-ga (⭐2)](https://github.com/frett27/Ada-GA) - Genetic Algorithm Implementation for Ada.
 *   [ada-sodoku (⭐5)](https://github.com/frett27/Ada-Sodoku) - Small Library for Sodoku grid solving / finding.
@@ -666,7 +666,7 @@
 
 ### Format Readers, Writers and Checkers / Apache License
 
-*   [ada-yaml (⭐35)](https://github.com/yaml/AdaYaml) - Experimental YAML 1.3 implementation in Ada.
+*   [ada-yaml (⭐36)](https://github.com/yaml/AdaYaml) - Experimental YAML 1.3 implementation in Ada.
 *   [json-ada (⭐38)](https://github.com/onox/json-ada) - An Ada 2012 library for parsing JSON.
 *   [jwx (⭐16)](https://github.com/Componolit/jwx) - A formally verified JSON library in SPARK.
 *   [xmlada (⭐21)](https://github.com/AdaCore/xmlada) - The XML/Ada toolkit.
@@ -701,8 +701,8 @@
 
 ### Drivers / Apache License
 
-*   [ada-drivers-library (⭐220)](https://github.com/AdaCore/Ada_Drivers_Library) - Ada drivers for various MCU and sensors.
-*   [dw1000 (⭐11)](https://github.com/damaki/DW1000) - Ada/SPARK driver for the DecaWave DW1000 ultra-wideband (UWB) radio chip.
+*   [ada-drivers-library (⭐223)](https://github.com/AdaCore/Ada_Drivers_Library) - Ada drivers for various MCU and sensors.
+*   [dw1000 (⭐12)](https://github.com/damaki/DW1000) - Ada/SPARK driver for the DecaWave DW1000 ultra-wideband (UWB) radio chip.
 *   [evb1000 (⭐0)](https://github.com/damaki/EVB1000) - Ada/SPARK drivers to control the on-board peripherals of the DecaWave EVB1000 evaluation board.
 
 ### Controllers / Apache License

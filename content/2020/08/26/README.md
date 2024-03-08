@@ -60,7 +60,7 @@
 
 ### Code
 
-*   [ExplainX (⭐320)](https://github.com/explainX/explainx)- ExplainX is a fast, light-weight, and scalable explainable AI framework for data scientists to explain any black-box model to business stakeholders.
+*   [ExplainX (⭐380)](https://github.com/explainX/explainx)- ExplainX is a fast, light-weight, and scalable explainable AI framework for data scientists to explain any black-box model to business stakeholders.
 
 ## [10. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 

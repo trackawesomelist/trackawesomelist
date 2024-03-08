@@ -96,7 +96,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [MetricFu (⭐620)](https://github.com/metricfu/metric_fu) — MetricFu is a set of tools to provide reports that show which parts of your code might need extra work.
+*   [MetricFu (⭐621)](https://github.com/metricfu/metric_fu) :warning: — MetricFu is a set of tools to provide reports that show which parts of your code might need extra work.
 
 ### Other / [Other](#other-1)
 
@@ -118,7 +118,7 @@
 
 ### Software / Automation
 
-*   [SiteInspector](https://www.getsiteinspector.com/) - Web-based tool for catching spelling errors, grammatical errors, broken links, and other errors on websites. ([Source Code (⭐368)](https://github.com/siteinspector/siteinspector)) `AGPL-3.0` `Docker`
+*   [SiteInspector](https://www.getsiteinspector.com/) - Web-based tool for catching spelling errors, grammatical errors, broken links, and other errors on websites. ([Source Code (⭐380)](https://github.com/siteinspector/siteinspector)) `AGPL-3.0` `Docker`
 
 ### Software / Software Development - Low Code
 

@@ -135,15 +135,15 @@
 
 ### Tabline / Diagnostics
 
-*   [willothy/nvim-cokeline (⭐460)](https://github.com/willothy/nvim-cokeline) - A bufferline for people with addictive personalities.
+*   [willothy/nvim-cokeline (⭐469)](https://github.com/willothy/nvim-cokeline) - A bufferline for people with addictive personalities.
 
 ### Terminal Integration / Diagnostics
 
-*   [mikesmithgh/kitty-scrollback.nvim (⭐260)](https://github.com/mikesmithgh/kitty-scrollback.nvim) - Open your Kitty scrollback buffer. Ameowzing.
+*   [mikesmithgh/kitty-scrollback.nvim (⭐277)](https://github.com/mikesmithgh/kitty-scrollback.nvim) - Open your Kitty scrollback buffer. Ameowzing.
 
 ### Git / Diagnostics
 
-*   [chrisgrieser/nvim-tinygit (⭐81)](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble git client.
+*   [chrisgrieser/nvim-tinygit (⭐93)](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble git client.
 
 ---
 

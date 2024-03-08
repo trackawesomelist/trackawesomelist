@@ -366,8 +366,8 @@
 
 ### Courses
 
-*   [MIT: Intro to Deep Learning](https://introtodeeplearning.com) - A seven day bootcamp designed in MIT to introduce deep learning methods and applications
-*   [Deep Blueberry: Deep Learning book](https://mithi.github.io/deep-blueberry) - A free five-weekend plan to self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more
+*   [MIT: Intro to Deep Learning](https://introtodeeplearning.com) - A seven-day bootcamp designed in MIT to introduce deep learning methods and applications
+*   [Deep Blueberry: Deep Learning book](https://mithi.github.io/deep-blueberry) - A free five-weekend plan for self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more
 *   [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) - A free deep reinforcement learning course by OpenAI
 *   [Real-World Natural Language Processing](https://www.manning.com/books/real-world-natural-language-processing) - Early access book on how to create practical NLP applications using Python.
 *   [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - Early access book that introduces the most valuable machine learning techniques.
@@ -382,7 +382,7 @@
 *   [AI Magazine](http://www.aaai.org/Magazine/magazine.php)
 *   [Artificial Intelligence for Engineering Design, Analysis and Manufacturing](http://journals.cambridge.org/action/displayJournal?jid=AIE)
 *   [Artificial Intelligence](http://www.elsevier.com/locate/artint)
-*   [Computational Intelligence](http://www.blackwellpublishing.com/content/BPL_Images/New_Journal_Samples/coin0824-7935\~17\~4/C.PDF)
+*   [Computational Intelligence](http://www.blackwellpublishing.com/content/BPL_Images/New_Journal_Samples/coin0824-7935~17~4/C.PDF)
 *   [EXPERT—IEEE Intelligent Systems](http://ieeexplore.ieee.org/servlet/opac?punumber=9670)
 *   [IEEE Transactions Automation Science and Engineering](http://www.ieee-ras.org/publications/t-ase)
 *   [Journal of Artificial Intelligence Research](http://www.cs.washington.edu/research/)

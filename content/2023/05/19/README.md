@@ -1,6 +1,6 @@
 # Awesome List Updates on May 19, 2023
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -33,11 +33,11 @@
 
 ### Tools / Services
 
-*   [Lanarky (⭐890)](https://github.com/ajndkr/lanarky): 🚢 Ship production-ready LLM projects with FastAPI ![GitHub Repo stars](https://img.shields.io/github/stars/ajndkr/lanarky?style=social)
+*   [Lanarky (⭐919)](https://github.com/ajndkr/lanarky): 🚢 Ship production-ready LLM projects with FastAPI ![GitHub Repo stars](https://img.shields.io/github/stars/ajndkr/lanarky?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Chat with Scanned Documents (⭐1)](https://github.com/tony-xlh/Chat-with-Scanned-Documents): A demo chatting with documents scanned with Dynamic Web TWAIN.
+*   [Chat with Scanned Documents (⭐2)](https://github.com/tony-xlh/Chat-with-Scanned-Documents): A demo chatting with documents scanned with Dynamic Web TWAIN.
 
 ### Learn / Notebooks
 
@@ -134,7 +134,7 @@
 
 ### Utility / Diagnostics
 
-*   [RutaTang/compter.nvim (⭐22)](https://github.com/RutaTang/compter.nvim) - Power and extend the ability of `<C-a>` and `<C-x>` with customized patterns.
+*   [RutaTang/compter.nvim (⭐24)](https://github.com/RutaTang/compter.nvim) - Power and extend the ability of `<C-a>` and `<C-x>` with customized patterns.
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -145,7 +145,7 @@
 *   [bob (⭐2)](https://github.com/wintermi/zsh-bob) - Plugin for [bob (⭐1.1k)](https://github.com/MordechaiHadad/bob) a cross-platform and easy-to-use Neovim version manager.
 *   [fnm (dominik-schwabe) (⭐14)](https://github.com/dominik-schwabe/zsh-fnm) - Installs and loads the [Fast Node Manager (fnm) (⭐15k)](https://github.com/Schniz/fnm) if it is missing.
 *   [fnm (wintermi) (⭐2)](https://github.com/wintermi/zsh-fnm) - Helper plugin for the fast and simple Node.js version manager [fnm (⭐15k)](https://github.com/Schniz/fnm).
-*   [vivid (⭐6)](https://github.com/ryanccn/vivid-zsh) - Make it easier to use `LSCOLORS` with [vivid (⭐1.5k)](https://github.com/sharkdp/vivid).
+*   [vivid (⭐7)](https://github.com/ryanccn/vivid-zsh) - Make it easier to use `LSCOLORS` with [vivid (⭐1.5k)](https://github.com/sharkdp/vivid).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -156,13 +156,7 @@
 *   [firefoxic (⭐0)](https://github.com/firefoxic/firefoxic-zsh-theme/) - Fork of [Bureau (⭐33)](https://github.com/isqua/bureau) with tweaks to the node and `git` decorators.
 *   [renanborgez (⭐2)](https://github.com/renanborgez/ohmyzsh-theme-renanborgez) - Works well on dark backgrounds. Includes decorators for `nvm` and `git` information.
 
-## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
-
-### Nodes & Consensus Participation / Wallets
-
-*   [AlgoNode](https://algonode.io) - Free Node/Indexer APIs, Node running FAQ, Node/Indexer daily snapshots.
-
-## [12. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
+## [11. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 
 ### Apps / Stacks Web Applications
 
@@ -243,13 +237,13 @@
 
 *   [YouTube](https://www.youtube.com/c/Blockstack) - Stacks ecosystem YouTube.
 
-## [13. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [12. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Research Papers
 
 *   [Automated machine learning: AI-driven decision making in business analytics](https://www.sciencedirect.com/science/article/pii/S2667305323000133) Marc Schmitt. (2023)
 
-## [14. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
+## [13. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### 🚧 Boilerplates / 🌱 Third Party
 

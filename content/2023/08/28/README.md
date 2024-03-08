@@ -10,7 +10,7 @@
 
 ### Projects / Frameworks
 
-*   [SSProve (⭐45)](https://github.com/SSProve/ssprove) - Framework for modular cryptographic proofs based on the Mathematical Components library.
+*   [SSProve (⭐46)](https://github.com/SSProve/ssprove) - Framework for modular cryptographic proofs based on the Mathematical Components library.
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Register / Diagnostics
 
-*   [desdic/macrothis.nvim (⭐14)](https://github.com/desdic/macrothis.nvim) - Save and load macros/registers.
+*   [desdic/macrothis.nvim (⭐15)](https://github.com/desdic/macrothis.nvim) - Save and load macros/registers.
 
 ### Code Runner / Diagnostics
 
@@ -84,7 +84,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [SignalVisualizer (⭐148)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock (Godot 4.x).
+*   [SignalVisualizer (⭐151)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock (Godot 4.x).
 
 ## [11. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 

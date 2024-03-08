@@ -262,7 +262,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ask (⭐50)](https://github.com/Licheam/zsh-ask) - Serves as a ChatGPT API frontend, enabling you to interact with ChatGPT directly from the ZSH shell using only `cURL` and `jq`.
+*   [ask (⭐54)](https://github.com/Licheam/zsh-ask) - Serves as a ChatGPT API frontend, enabling you to interact with ChatGPT directly from the ZSH shell using only `cURL` and `jq`.
 *   [kubectlenv (⭐0)](https://github.com/rafalmasiarek/oh-my-zsh-kubectlenv-plugin) - Easily switch between multiple `kubectl` versions.
 
 ## [25. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
@@ -283,7 +283,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [goast (⭐56)](https://github.com/m-mizutani/goast) — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
+*   [goast (⭐56)](https://github.com/m-mizutani/goast) :warning: — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
 
 ### Other / [Other](#other-1)
 
@@ -292,21 +292,21 @@
 
 ### Multiple languages / [Other](#other-1)
 
-*   [oxc (⭐7.7k)](https://github.com/web-infra-dev/oxc) — The Oxidation Compiler is creating a suite of high-performance tools for the JavaScript / TypeScript language re-written in Rust.
+*   [oxc (⭐8k)](https://github.com/web-infra-dev/oxc) — The Oxidation Compiler is creating a suite of high-performance tools for the JavaScript / TypeScript language re-written in Rust.
 
 ## [27. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Ports to other languages
 
-*   [LangChainDart (⭐190)](https://github.com/davidmigloz/langchain_dart): Build powerful LLM-based Dart/Flutter applications. ![GitHub Repo stars](https://img.shields.io/github/stars/davidmigloz/langchain_dart?style=social)
+*   [LangChainDart (⭐256)](https://github.com/davidmigloz/langchain_dart): Build powerful LLM-based Dart/Flutter applications. ![GitHub Repo stars](https://img.shields.io/github/stars/davidmigloz/langchain_dart?style=social)
 
 ### Tools / Services
 
-*   [Llama2 Embedding Server (⭐769)](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service): Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social)
+*   [Llama2 Embedding Server (⭐827)](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service): Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social)
 
 ### Open Source Projects / Knowledge Management
 
-*   [examor (⭐977)](https://github.com/codeacme17/examor): A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written. ![GitHub Repo stars](https://img.shields.io/github/stars/codeacme17/examor?style=social)
+*   [examor (⭐996)](https://github.com/codeacme17/examor): A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written. ![GitHub Repo stars](https://img.shields.io/github/stars/codeacme17/examor?style=social)
 
 ## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -336,15 +336,15 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [LinkWarden](https://linkwarden.app/) - A self-hosted bookmark + archive manager to store your useful links. ([Source Code (⭐4.3k)](https://github.com/linkwarden/linkwarden)) `MIT` `Docker/Nodejs`
+*   [LinkWarden](https://linkwarden.app/) - A self-hosted bookmark + archive manager to store your useful links. ([Source Code (⭐4.6k)](https://github.com/linkwarden/linkwarden)) `MIT` `Docker/Nodejs`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Kubek](https://kubek.seeroy.ru) - Web management panel for Minecraft servers. ([Source Code (⭐59)](https://github.com/seeroy/kubek-minecraft-dashboard)) `GPL-3.0` `Nodejs`
+*   [Kubek](https://kubek.seeroy.ru) - Web management panel for Minecraft servers. ([Source Code (⭐66)](https://github.com/seeroy/kubek-minecraft-dashboard)) `GPL-3.0` `Nodejs`
 
 ### Software / Recipe Management
 
-*   [Mealie](https://nightly.mealie.io/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Source Code (⭐4.5k)](https://github.com/mealie-recipes/mealie)) `MIT` `Python`
+*   [Mealie](https://nightly.mealie.io/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Source Code (⭐4.6k)](https://github.com/mealie-recipes/mealie)) `MIT` `Python`
 
 ## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -484,7 +484,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 ### (requires Neovim 0.5)
 
-*   [roobert/action-hints.nvim (⭐51)](https://github.com/roobert/action-hints.nvim) - Show information about the word under the cursor in the statusline or as virtual text.
+*   [roobert/action-hints.nvim (⭐54)](https://github.com/roobert/action-hints.nvim) - Show information about the word under the cursor in the statusline or as virtual text.
 *   [roobert/hoversplit.nvim (⭐37)](https://github.com/roobert/hoversplit.nvim) - Automatically updated documentation and information about code symbols in a split window.
 
 ### Programming Languages Support / Diagnostics
@@ -494,11 +494,11 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 ### Web Development / Diagnostics
 
-*   [roobert/tailwindcss-colorizer-cmp.nvim (⭐265)](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim) - Add vscode-style TailwindCSS completion to nvim-cmp.
+*   [roobert/tailwindcss-colorizer-cmp.nvim (⭐270)](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim) - Add vscode-style TailwindCSS completion to nvim-cmp.
 
 ### Syntax / Diagnostics
 
-*   [roobert/surround-ui.nvim (⭐52)](https://github.com/roobert/surround-ui.nvim) - Helper or training aid for kylechui/nvim-surround.
+*   [roobert/surround-ui.nvim (⭐53)](https://github.com/roobert/surround-ui.nvim) - Helper or training aid for kylechui/nvim-surround.
 
 ### Tabline / Diagnostics
 
@@ -507,11 +507,11 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 ### Media / Diagnostics
 
-*   [niuiic/code-shot.nvim (⭐45)](https://github.com/niuiic/code-shot.nvim) - Take a picture of the code.
+*   [niuiic/code-shot.nvim (⭐47)](https://github.com/niuiic/code-shot.nvim) - Take a picture of the code.
 
 ### Git / Diagnostics
 
-*   [9seconds/repolink.nvim (⭐12)](https://github.com/9seconds/repolink.nvim) - Generate shareable HTTP permalinks for various Git web frontends.
+*   [9seconds/repolink.nvim (⭐13)](https://github.com/9seconds/repolink.nvim) - Generate shareable HTTP permalinks for various Git web frontends.
 
 ### Motion / Diagnostics
 
@@ -519,11 +519,11 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 ### Editing Support / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.operators (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-operators.md) - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
+*   [echasnovski/mini.nvim#mini.operators (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-operators.md) - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
 
 ### Comment / Diagnostics
 
-*   [Zeioth/dooku.nvim (⭐24)](https://github.com/Zeioth/dooku.nvim) - Generate and open your HTML code documentation.
+*   [Zeioth/dooku.nvim (⭐27)](https://github.com/Zeioth/dooku.nvim) - Generate and open your HTML code documentation.
 
 ## [38. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 

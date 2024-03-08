@@ -73,27 +73,27 @@
 
 ### Motion / Diagnostics
 
-*   [woosaaahh/sj.nvim (⭐115)](https://github.com/woosaaahh/sj.nvim) - Search based navigation combined with quick jump features.
+*   [woosaaahh/sj.nvim (⭐118)](https://github.com/woosaaahh/sj.nvim) - Search based navigation combined with quick jump features.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [pmwmedia/tinylog (⭐647)](https://github.com/pmwmedia/tinylog) - Lightweight logging framework with native logging API for Kotlin.
+*   [pmwmedia/tinylog (⭐648)](https://github.com/pmwmedia/tinylog) - Lightweight logging framework with native logging API for Kotlin.
 
 ### Android / Libraries
 
-*   [MarcinMoskala/KotlinPreferences (⭐51)](https://github.com/MarcinMoskala/KotlinPreferences) - Android Library to make SharedPreferences usage easier.
-*   [TouK/bubble (⭐99)](https://github.com/TouK/bubble) - Screen orientation detector for android
-*   [MarcinMoskala/PreferenceHolder (⭐155)](https://github.com/MarcinMoskala/PreferenceHolder) - SharedPreference usage made fun in Kotlin
-*   [MarcinMoskala/ActivityStarter (⭐429)](https://github.com/MarcinMoskala/ActivityStarter) - Simple Android Library, that provides easy way to start the Activities with arguments.
-*   [mcxiaoke/kotlin-koi (⭐515)](https://github.com/mcxiaoke/kotlin-koi) - Koi, a lightweight kotlin library for Android Development.
-*   [chibatching/Kotpref (⭐696)](https://github.com/chibatching/Kotpref) - Kotpref - Android SharedPreferences delegation library for Kotlin
-*   [pawegio/KAndroid (⭐894)](https://github.com/pawegio/KAndroid) - Kotlin library for Android
+*   [MarcinMoskala/ActivityStarter (⭐429)](https://github.com/MarcinMoskala/ActivityStarter)
+*   [MarcinMoskala/KotlinPreferences (⭐51)](https://github.com/MarcinMoskala/KotlinPreferences)
+*   [MarcinMoskala/PreferenceHolder (⭐155)](https://github.com/MarcinMoskala/PreferenceHolder)
+*   [pawegio/KAndroid (⭐893)](https://github.com/pawegio/KAndroid)
+*   [chibatching/Kotpref (⭐696)](https://github.com/chibatching/Kotpref)
+*   [TouK/bubble (⭐99)](https://github.com/TouK/bubble)
+*   [mcxiaoke/kotlin-koi (⭐514)](https://github.com/mcxiaoke/kotlin-koi)
 
 ### Android / Frameworks
 
-*   [0xe1f/ararat (⭐30)](https://github.com/0xe1f/ararat) - Crossword library for Android
+*   [0xe1f/ararat (⭐30)](https://github.com/0xe1f/ararat)
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

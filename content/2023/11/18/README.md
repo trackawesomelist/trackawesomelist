@@ -31,7 +31,7 @@
 ### Software / Bookmarks and Link Sharing
 
 *   [Digibunch](https://ladigitale.dev/digibunch/#/) - Create bunches of links to share with your learners or colleagues. ([Demo](https://ladigitale.dev/digibunch/#/b/5f67b12092b60), [Source Code](https://codeberg.org/ladigitale/digibunch)) `AGPL-3.0` `Nodejs/PHP`
-*   [Slash (⭐899)](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. `GPL-3.0` `Docker`
+*   [Slash (⭐990)](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. `GPL-3.0` `Docker`
 
 ### Software / Document Management
 
@@ -39,20 +39,20 @@
 
 ### Software / Document Management - E-books
 
-*   [Librum](https://librumreader.com) - A modern e-book reader and library manager that supports most major book formats, runs on all devices and offers great tools to boost productivity. ([Source Code (⭐3.2k)](https://github.com/Librum-Reader/Librum)) `GPL-3.0` `C++`
+*   [Librum](https://librumreader.com) - A modern e-book reader and library manager that supports most major book formats, runs on all devices and offers great tools to boost productivity. ([Source Code (⭐3.3k)](https://github.com/Librum-Reader/Librum)) `GPL-3.0` `C++`
 
 ### Software / Games
 
-*   [Suroi](https://suroi.io/) - An open-source 2D battle royale game inspired by surviv.io. ([Demo](https://suroi.io/), [Source Code (⭐128)](https://github.com/HasangerGames/suroi)) `GPL-3.0` `Nodejs`
+*   [Suroi](https://suroi.io/) - An open-source 2D battle royale game inspired by surviv.io. ([Demo](https://suroi.io/), [Source Code (⭐144)](https://github.com/HasangerGames/suroi)) `GPL-3.0` `Nodejs`
 
 ### Software / Inventory Management
 
-*   [Homebox Inventory](https://hay-kot.github.io/homebox/) - An inventory and organization system built for the home user with a focus on simplicity and ease of use. ([Demo](https://homebox.fly.dev/), [Source Code (⭐2.1k)](https://github.com/hay-kot/homebox)) `AGPL-3.0` `Docker`
+*   [Homebox Inventory](https://hay-kot.github.io/homebox/) - An inventory and organization system built for the home user with a focus on simplicity and ease of use. ([Demo](https://homebox.fly.dev/), [Source Code (⭐2.2k)](https://github.com/hay-kot/homebox)) `AGPL-3.0` `Docker`
 
 ### Software / Miscellaneous
 
 *   [Digiview](https://ladigitale.dev/digiview/) `⚠` - View YouTube videos in a distraction-free interface (documentation in French). ([Demo](https://ladigitale.dev/digiview/), [Source Code](https://codeberg.org/ladigitale/digiview)) `AGPL-3.0` `Nodejs/PHP`
-*   [ESMira](https://esmira.kl.ac.at) - Run longitudinal studies (ESM, AA, EMA) with data collection and communication with participants being completely anonymous. ([Demo](https://demo-esmira.kl.ac.at/#admin,username:demo,password:demodemodemo), [Source Code (⭐7)](https://github.com/KL-Psychological-Methodology/ESMira)) `AGPL-3.0` `PHP`
+*   [ESMira](https://esmira.kl.ac.at) - Run longitudinal studies (ESM, AA, EMA) with data collection and communication with participants being completely anonymous. ([Demo](https://demo-esmira.kl.ac.at/#admin,username:demo,password:demodemodemo), [Source Code (⭐9)](https://github.com/KL-Psychological-Methodology/ESMira)) `AGPL-3.0` `PHP`
 *   [LanguageTool](https://languagetool.org/) - Proofread more than 20 languages. It finds many errors that a simple spell checker cannot detect. ([Source Code (⭐11k)](https://github.com/languagetool-org/languagetool), [Clients](https://languagetool.org/insights/post/product-windows-app/)) `LGPL-2.1` `Java/Docker`
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
@@ -89,7 +89,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [no-ps2 (⭐7)](https://github.com/romkatv/zsh-no-ps2) - When this plugin is used, Enter inserts a newline if the typed command is incomplete. No PS2!
+*   [no-ps2 (⭐9)](https://github.com/romkatv/zsh-no-ps2) - When this plugin is used, Enter inserts a newline if the typed command is incomplete. No PS2!
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

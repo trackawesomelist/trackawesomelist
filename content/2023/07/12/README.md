@@ -40,7 +40,7 @@
 
 ### Display / Fonts
 
-*   [packed-font (⭐4)](https://github.com/mark-gladding/packed-font) -  Memory efficient MicroPython fonts for the Pico Pi and SSD1306 OLED Display.
+*   [packed-font (⭐5)](https://github.com/mark-gladding/packed-font) -  Memory efficient MicroPython fonts for the Pico Pi and SSD1306 OLED Display.
 
 ### Motion / Servo
 
@@ -48,7 +48,7 @@
 
 ### IDEs / SRAM
 
-*   [uPIDE (⭐17)](https://github.com/harbaum/upide) - µPIDE is a simple IDE for MicroPython.
+*   [uPIDE (⭐18)](https://github.com/harbaum/upide) - µPIDE is a simple IDE for MicroPython.
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

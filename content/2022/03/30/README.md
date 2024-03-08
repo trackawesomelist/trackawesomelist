@@ -159,7 +159,7 @@
 
 ### Phone Numbers
 
-*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐676)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.3k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.3k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐550)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.5k)](https://github.com/giggsey/libphonenumber-for-php).
+*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐697)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.3k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.4k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐549)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.6k)](https://github.com/giggsey/libphonenumber-for-php).
 
 ### Software Engineering
 

@@ -343,7 +343,7 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 
 ### Haskell / Git
 
-*   [scrypt (⭐17)](https://github.com/informatikr/scrypt) - Haskell bindings to Colin Percival's scrypt implementation.
+*   [scrypt (⭐16)](https://github.com/informatikr/scrypt) - Haskell bindings to Colin Percival's scrypt implementation.
 
 ### Python / Git
 

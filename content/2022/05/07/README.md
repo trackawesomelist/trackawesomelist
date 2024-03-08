@@ -14,7 +14,7 @@
 
 ### Avatars
 
-*   [Exokit Avatars (⭐66)](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here (⭐6)](https://github.com/msub2/avatars).
+*   [Exokit Avatars (⭐67)](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here (⭐6)](https://github.com/msub2/avatars).
 
 ### Companies and Cooperatives / Reddit
 
@@ -55,7 +55,7 @@
 
 ### Command-Line Tools / Discovery
 
-*   [alejandra (⭐575)](https://github.com/kamadorueda/alejandra) - An opinionated Nix code formatter optimized for speed and consistency.
+*   [alejandra (⭐617)](https://github.com/kamadorueda/alejandra) - An opinionated Nix code formatter optimized for speed and consistency.
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 

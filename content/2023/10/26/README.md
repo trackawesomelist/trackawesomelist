@@ -183,7 +183,7 @@
 
 ### Deployment / Diagnostics
 
-*   [coffebar/transfer.nvim (⭐36)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
+*   [coffebar/transfer.nvim (⭐40)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
 
 ## [13. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 

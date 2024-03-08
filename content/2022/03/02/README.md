@@ -10,7 +10,7 @@
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [autotyping (⭐167)](https://github.com/JelleZijlstra/autotyping) - Automatically add simple return type annotations for functions (bool, None, Optional).
+*   [autotyping (⭐185)](https://github.com/JelleZijlstra/autotyping) - Automatically add simple return type annotations for functions (bool, None, Optional).
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Sample GTFS and GTFS Realtime datasets used for software testing
 
-*   [sample-gtfs-feed (⭐8)](https://github.com/public-transport/sample-gtfs-feed) - An imaginary GTFS data set used for testing.
+*   [sample-gtfs-feed (⭐9)](https://github.com/public-transport/sample-gtfs-feed) - An imaginary GTFS data set used for testing.
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -71,13 +71,13 @@
 
 ### Libraries / GUI
 
-*   [slint-ui/slint (⭐13k)](https://github.com/slint-ui/slint) [slint](https://crates.io/crates/slint) — [Slint](https://slint.dev/) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
+*   [slint-ui/slint (⭐14k)](https://github.com/slint-ui/slint) [slint](https://crates.io/crates/slint) — [Slint](https://slint.dev/) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### GUI
 
-*   [Slint (⭐13k)](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. \[GPL/Free/Proprietary] [website](https://slint.dev/)
+*   [Slint (⭐14k)](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. \[GPL/Free/Proprietary] [website](https://slint.dev/)
 
 ## [10. Awesome Slack](/content/matiassingers/awesome-slack/README.md)
 

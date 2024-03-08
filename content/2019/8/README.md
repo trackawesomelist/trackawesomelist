@@ -14,8 +14,8 @@
 
 ### Shells, Interpreters and Emulators / Apache License
 
-*   [gsh (⭐95)](https://github.com/AdaCore/gsh) - GSH is non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
-*   [gnatcoll-scripts-shell (⭐42)](https://github.com/AdaCore/gnatcoll-core/blob/master/src/gnatcoll-scripts-shell.ads) - GNATCOLL.Scripts.Shell is a simple embeddable scripting language, part of GNATCOLL Core.
+*   [gsh (⭐97)](https://github.com/AdaCore/gsh) - GSH is non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
+*   [gnatcoll-scripts-shell (⭐43)](https://github.com/AdaCore/gnatcoll-core/blob/master/src/gnatcoll-scripts-shell.ads) - GNATCOLL.Scripts.Shell is a simple embeddable scripting language, part of GNATCOLL Core.
 
 ### Programming Languages / Apache License
 
@@ -492,7 +492,7 @@
 ### Algorithms and Data Structures
 
 *   [Decompress (⭐115)](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib.
-*   [Ke (⭐48)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
+*   [Ke (⭐49)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
 *   [Duff (⭐21)](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
 
 ## [46. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)

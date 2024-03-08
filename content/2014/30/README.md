@@ -44,15 +44,15 @@
 
 ### Algorithms and Data Structures
 
-*   [OCamlgraph (⭐214)](https://github.com/backtracking/ocamlgraph) – A generic graph library for OCaml.
+*   [OCamlgraph (⭐219)](https://github.com/backtracking/ocamlgraph) – A generic graph library for OCaml.
 
 ### Application Libraries
 
-*   [Batteries Included (⭐505)](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
-*   [Cmdliner (⭐259)](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
+*   [Batteries Included (⭐509)](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
+*   [Cmdliner (⭐272)](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
 *   [React](http://erratique.ch/software/react) – React is an OCaml module for functional reactive programming (FRP). It provides support for programs with time-varying values, declarative events, and signals.
-*   [easy-format (⭐42)](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
-*   [ocaml-rpc (⭐93)](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
+*   [easy-format (⭐41)](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
+*   [ocaml-rpc (⭐94)](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
 
 ### Books
 
@@ -110,7 +110,7 @@
 
 ### Security and Cryptography
 
-*   [ocaml-tls (⭐284)](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
+*   [ocaml-tls (⭐285)](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
 
 ### Serialization
 
@@ -123,7 +123,7 @@
 
 *   [Mirage OS (⭐2.4k)](https://github.com/mirage/mirage) – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
 *   [ocaml-fat (⭐26)](https://github.com/mirage/ocaml-fat) – Read and write FAT-format filesystems from OCaml.
-*   [ocaml-git (⭐357)](https://github.com/mirage/ocaml-git) – Pure OCaml low-level git bindings.
+*   [ocaml-git (⭐358)](https://github.com/mirage/ocaml-git) – Pure OCaml low-level git bindings.
 *   [ocaml-vchan (⭐46)](https://github.com/mirage/ocaml-vchan) – Pure OCaml implementation of the "vchan" shared-memory communication protocol.
 
 ### Testing
@@ -133,7 +133,7 @@
 ### Web Development
 
 *   **Open Source Projects**:
-    *   [Cumulus (⭐47)](https://github.com/Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen
+    *   [Cumulus (⭐48)](https://github.com/Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen
 
 ## [5. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 

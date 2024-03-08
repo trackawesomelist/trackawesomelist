@@ -225,11 +225,11 @@
 
 ### Software / Automation
 
-*   [Matchering (⭐1.1k)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering (alternative to LANDR, eMastered, and MajorDecibel). `GPL-3.0` `Docker`
+*   [Matchering (⭐1.2k)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering (alternative to LANDR, eMastered, and MajorDecibel). `GPL-3.0` `Docker`
 
 ### Software / Miscellaneous
 
-*   [mosparo](https://mosparo.io/) - The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. ([Source Code (⭐124)](https://github.com/mosparo/mosparo)) `MIT` `PHP`
+*   [mosparo](https://mosparo.io/) - The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. ([Source Code (⭐128)](https://github.com/mosparo/mosparo)) `MIT` `PHP`
 
 ## [24. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -367,7 +367,7 @@
 
 ### DevOps / Apache License
 
-*   [powerjoular (⭐38)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
+*   [powerjoular (⭐42)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
 
 ## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -482,11 +482,11 @@
 
 ### Utility / Diagnostics
 
-*   [figsoda/nix-develop.nvim (⭐46)](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting Neovim.
+*   [figsoda/nix-develop.nvim (⭐49)](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting Neovim.
 
 ### Remote Development / Diagnostics
 
-*   [miversen33/netman.nvim (⭐301)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
+*   [miversen33/netman.nvim (⭐311)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
 
 ### Preconfigured Configuration / Diagnostics
 
@@ -522,7 +522,7 @@
 
 ### Modules / Various Godot versions
 
-*   [godot-luaAPI (⭐278)](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua (Godot 3.2+, 4.0).
+*   [godot-luaAPI (⭐294)](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua (Godot 3.2+, 4.0).
 
 ## [49. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
@@ -541,7 +541,7 @@
 
 ### Base Tools / Other
 
-*   [dockerize (⭐176)](https://github.com/powerman/dockerize) - Utility to simplify running applications in docker containers by [@jwilder](https://github.com/jwilder), [@powerman](https://github.com/powerman)
+*   [dockerize (⭐178)](https://github.com/powerman/dockerize) - Utility to simplify running applications in docker containers by [@jwilder](https://github.com/jwilder), [@powerman](https://github.com/powerman)
 
 ---
 

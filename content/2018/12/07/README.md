@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 07, 2018
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -81,31 +81,25 @@
 *   [muchrooms/zheye (⭐779)](https://github.com/muchrooms/zheye) - Chinese captcha recognition program for handstand character of zhihu.
 *   [aaronshan/12306-captcha (⭐274)](https://github.com/aaronshan/12306-captcha) - Recognize 12306 captcha with deep learning.
 
-## [5. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
-
-### Tools
-
-*   [Ron's CSV Editor](https://www.ronsplace.eu/products/ronseditor) - Handles big files, does miraculous things. A timeless editor for a timeless format.
-
-## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Graphics
 
 *   [Veldrid (⭐2.4k)](https://github.com/mellinoe/veldrid) - A low-level, portable graphics and compute library for .NET
 
-## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### History / 2014
 
 *   [Mozilla and Web Components: Update](https://hacks.mozilla.org/2014/12/mozilla-and-web-components/)
 
-## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Universal Seed Projects / Components
 
 *   [angular-universal-heroku-starter (⭐23)](https://github.com/Alex61NN5/angular-universal-heroku-starter) - Angular 7 Universal Starter Kit with Server-Side Rendering (SSR) and easy deployment to Heroku
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 

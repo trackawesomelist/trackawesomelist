@@ -16,7 +16,7 @@
 
 ### Database Schema Migration
 
-*   [bytebase (⭐9.4k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
+*   [bytebase (⭐9.5k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 
 ## [3. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-admin-sortable2 (⭐682)](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
+*   [django-admin-sortable2 (⭐689)](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
 
 ### Third-Party Packages / Forms
 

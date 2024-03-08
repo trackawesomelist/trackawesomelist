@@ -42,7 +42,7 @@
 
 ### GTFS Converters / Ruby
 
-*   [GTFS-OSM-Sync (⭐88)](https://github.com/CUTR-at-USF/gtfs-osm-sync) - A Java tool for synchronizing data in GTFS format with [OpenStreetMap.org](http://www.openstreetmap.org/).
+*   [GTFS-OSM-Sync (⭐89)](https://github.com/CUTR-at-USF/gtfs-osm-sync) - A Java tool for synchronizing data in GTFS format with [OpenStreetMap.org](http://www.openstreetmap.org/).
 
 ## [6. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 

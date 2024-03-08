@@ -34,7 +34,7 @@
 
 ### Development tools / Web Servers
 
-*   [Module Linker (⭐248)](https://github.com/fiatjaf/module-linker) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
+*   [Module Linker (⭐249)](https://github.com/fiatjaf/module-linker) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
 
 ## [4. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -201,7 +201,7 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [static-GTFS-manager (⭐140)](https://github.com/WRI-Cities/static-GTFS-manager) - A (self-hosted) browser-based user interface for creating, editing, exporting static GTFS (see [related post](https://groups.google.com/forum/#!topic/transit-developers/GFz5rTJTB0I)).  Live demo [here](https://static-gtfs-manager.herokuapp.com/).
+*   [static-GTFS-manager (⭐141)](https://github.com/WRI-Cities/static-GTFS-manager) - A (self-hosted) browser-based user interface for creating, editing, exporting static GTFS (see [related post](https://groups.google.com/forum/#!topic/transit-developers/GFz5rTJTB0I)).  Live demo [here](https://static-gtfs-manager.herokuapp.com/).
 
 ## [24. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -319,10 +319,10 @@
 
 ### Learning
 
-*   [Awesome Community Detection (⭐2k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Clustering graph structured data
-*   [Awesome Decision Tree Papers (⭐2k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - Decision tree papers from machine learning conferences
-*   [Awesome Gradient Boosting Papers (⭐814)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences
-*   [Awesome Fraud Detection Papers (⭐1.2k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences
+*   [Awesome Community Detection (⭐2.3k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Clustering graph structured data
+*   [Awesome Decision Tree Papers (⭐2.3k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - Decision tree papers from machine learning conferences
+*   [Awesome Gradient Boosting Papers (⭐975)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences
+*   [Awesome Fraud Detection Papers (⭐1.5k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences
 
 ## [38. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 

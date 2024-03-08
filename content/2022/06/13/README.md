@@ -77,7 +77,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [diod (⭐113)](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
+*   :octocat: [diod (⭐116)](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
 
 ## [10. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 

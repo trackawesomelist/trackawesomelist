@@ -10,7 +10,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [sonjiku/yawnc.nvim (⭐7)](https://github.com/sonjiku/yawnc.nvim) - Theming using pywal, with a Base16 twist.
+*   [sonjiku/yawnc.nvim (⭐8)](https://github.com/sonjiku/yawnc.nvim) - Theming using pywal, with a Base16 twist.
 
 ## [2. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/README.md)
 

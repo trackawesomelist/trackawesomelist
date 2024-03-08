@@ -85,7 +85,7 @@
 ### Algorithms and Data Structures
 
 *   [Decompress (⭐115)](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib.
-*   [Ke (⭐48)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
+*   [Ke (⭐49)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
 *   [Duff (⭐21)](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
 
 ## [8. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)

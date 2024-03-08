@@ -28,7 +28,7 @@
 
 ### Database
 
-*   [Reindexer (⭐750)](https://github.com/Restream/reindexer) - Embeddable, in-memory, document-oriented database with a high-level Query builder interface. \[Apache2] [website](https://reindexer.io/)
+*   [Reindexer (⭐751)](https://github.com/Restream/reindexer) - Embeddable, in-memory, document-oriented database with a high-level Query builder interface. \[Apache2] [website](https://reindexer.io/)
 
 ## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -60,17 +60,17 @@
 
 ### Plugin Manager
 
-*   [echasnovski/mini.nvim#mini.deps (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-deps.md) - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
+*   [echasnovski/mini.nvim#mini.deps (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-deps.md) - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
 
 ### Note Taking / Diagnostics
 
-*   [backdround/global-note.nvim (⭐1)](https://github.com/backdround/global-note.nvim) - One global note in a floating window.
+*   [backdround/global-note.nvim (⭐67)](https://github.com/backdround/global-note.nvim) - One global note in a floating window.
 
 ## [9. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Gems / Other external resources
 
-*   [alba (⭐838)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby, and TruffleRuby. [:red\_circle:](https://rubygems.org/gems/alba)
+*   [alba (⭐843)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby, and TruffleRuby. [:red\_circle:](https://rubygems.org/gems/alba)
 
 ---
 

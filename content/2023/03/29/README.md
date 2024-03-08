@@ -22,7 +22,7 @@
 
 ### Awesome TypeScript Essential Resources
 
-*   :octocat: [DefinitelyTyped/DefinitelyTyped (⭐46k)](https://github.com/DefinitelyTyped/DefinitelyTyped) the repository for high quality TypeScript type definitions maintained by Boris Yankov and thousands of contributors
+*   :octocat: [DefinitelyTyped/DefinitelyTyped (⭐47k)](https://github.com/DefinitelyTyped/DefinitelyTyped) the repository for high quality TypeScript type definitions maintained by Boris Yankov and thousands of contributors
 
 ### Mobile / Playground
 
@@ -30,13 +30,13 @@
 
 ### Web / Playground
 
-*   :octocat: [Treehouse (⭐120)](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
+*   :octocat: [Treehouse (⭐126)](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Email - Mail Transfer Agents
 
-*   [Stalwart SMTP](https://stalw.art/smtp) - Modern SMTP server designed with a focus on security, speed, and extensive configurability. ([Source Code (⭐423)](https://github.com/stalwartlabs/smtp-server)) `AGPL-3.0` `Rust`
+*   [Stalwart SMTP](https://stalw.art/smtp) - Modern SMTP server designed with a focus on security, speed, and extensive configurability. ([Source Code (⭐433)](https://github.com/stalwartlabs/smtp-server)) `AGPL-3.0` `Rust`
 
 ### Software / Database Management
 
@@ -44,7 +44,7 @@
 
 ### Software / Manufacturing
 
-*   [VanDAM (⭐409)](https://github.com/Floppy/van_dam) - Digital asset manager for 3d print files; STL, OBJ, 3MF and more. `MIT` `Docker`
+*   [VanDAM (⭐432)](https://github.com/Floppy/van_dam) - Digital asset manager for 3d print files; STL, OBJ, 3MF and more. `MIT` `Docker`
 
 ### Software / Self-hosting Solutions
 

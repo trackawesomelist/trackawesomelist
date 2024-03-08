@@ -261,13 +261,13 @@
     *   Externally managed plugins e.g., [oh-my-zsh (⭐167k)](https://github.com/ohmyzsh/ohmyzsh) and [prezto (⭐14k)](https://github.com/sorin-ionescu/prezto) plugins/themes
     *   Binary artifacts on [GitHub Releases](https://help.github.com/articles/about-releases/)
     *   Local plugins
-    *   etc. (you can add your [own sources (⭐5.6k)](https://github.com/zplug/zplug/blob/master/doc/guide/External-Sources.md)!)
+    *   etc. (you can add your [own sources (⭐5.7k)](https://github.com/zplug/zplug/blob/master/doc/guide/External-Sources.md)!)
 *   Super-fast parallel installation/update
 *   Support for lazy-loading
 *   Branch/tag/commit support
 *   Post-update, post-load hooks
-*   Interactive interface ([fzf (⭐58k)](https://github.com/junegunn/fzf), [peco (⭐7.5k)](https://github.com/peco/peco), [zaw (⭐552)](https://github.com/zsh-users/zaw), and so on)
-*   Cache mechanism for reducing [the startup time (⭐5.6k)](https://github.com/zplug/zplug#vs)
+*   Interactive interface ([fzf (⭐58k)](https://github.com/junegunn/fzf), [peco (⭐7.5k)](https://github.com/peco/peco), [zaw (⭐559)](https://github.com/zsh-users/zaw), and so on)
+*   Cache mechanism for reducing [the startup time (⭐5.7k)](https://github.com/zplug/zplug#vs)
 
 ## [6. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

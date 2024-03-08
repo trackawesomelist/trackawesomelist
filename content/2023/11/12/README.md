@@ -41,9 +41,9 @@
 ### Third-Party Packages / Templates
 
 *   [curlylint](https://www.curlylint.org/) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid.
-*   [django-components (⭐845)](https://github.com/EmilStenstrom/django-components/) - A way to create simple reusable template components in Django.
-*   [django-template-partials (⭐287)](https://github.com/carltongibson/django-template-partials/) - Reusable named inline partials for the Django Template Language.
-*   [djhtml (⭐510)](https://github.com/rtts/djhtml) - Django/Jinja template indenter.
+*   [django-components (⭐871)](https://github.com/EmilStenstrom/django-components/) - A way to create simple reusable template components in Django.
+*   [django-template-partials (⭐299)](https://github.com/carltongibson/django-template-partials/) - Reusable named inline partials for the Django Template Language.
+*   [djhtml (⭐521)](https://github.com/rtts/djhtml) - Django/Jinja template indenter.
 *   [djlint](https://www.djlint.com/) - Lint & Format HTML Templates.
 *   [slippers](https://mitchel.me/slippers/) - Build reusable components in Django without writing a single line of Python.
 *   [JinjaX](https://jinjax.scaletti.dev/) - Super components powers for your Jinja templates.
@@ -80,7 +80,7 @@
 
 ### Startup / Diagnostics
 
-*   [TobinPalmer/Tip.nvim (⭐45)](https://github.com/TobinPalmer/Tip.nvim) - Get a simple tip when you launch Neovim.
+*   [TobinPalmer/Tip.nvim (⭐51)](https://github.com/TobinPalmer/Tip.nvim) - Get a simple tip when you launch Neovim.
 
 ## [7. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

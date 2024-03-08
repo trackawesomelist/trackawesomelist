@@ -10,7 +10,7 @@
 
 ### Modules / CLI utils
 
-*   [tui (⭐239)](https://github.com/Im-Beast/deno_tui) - Module which allows easy creation of Terminal User Interfaces.
+*   [tui (⭐243)](https://github.com/Im-Beast/deno_tui) - Module which allows easy creation of Terminal User Interfaces.
 
 ## [2. Tools](/content/lvwzhen/tools/week/README.md)
 
@@ -34,13 +34,9 @@
 
 ## [4. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
-### Registry / Other
-
-*   [Alin.io](https://alin.io) - Build and Distribute container based applications. By [@tigranbs](https://github.com/tigranbs)
-
 ### Wrappers / Other
 
-*   [Preevy (⭐1.9k)](https://github.com/livecycle/preevy) - Preview environments for Docker and Docker Compose projects. Test your changes and get feedback from devs and non-devs (Product/Design) by deploying pull requests to the your cloud provider as part of your CI pipeline.
+*   [Preevy (⭐2k)](https://github.com/livecycle/preevy) - Preview environments for Docker and Docker Compose projects. Test your changes and get feedback from devs and non-devs (Product/Design) by deploying pull requests to the your cloud provider as part of your CI pipeline.
 
 ## [5. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
@@ -130,11 +126,11 @@
 
 ### Productivity and Time
 
-*   [Teleprompter (⭐23)](https://github.com/Nokse22/teleprompter) - Simple application to read scrolling text from your screen.
+*   [Teleprompter (⭐24)](https://github.com/Nokse22/teleprompter) - Simple application to read scrolling text from your screen.
 
 ### Icons / Upstream Style
 
-*   [MoreWaita (⭐405)](https://github.com/somepaulo/MoreWaita) - An Adwaita-style icon theme for Gnome Shell.
+*   [MoreWaita (⭐416)](https://github.com/somepaulo/MoreWaita) - An Adwaita-style icon theme for Gnome Shell.
 
 ## [14. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -158,7 +154,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [FOSSBilling](https://fossbilling.org/) - Free and open source hosting and billing automation. Integrates with WHM, CWP, cPanel and HestiaCP. Full API and easily extensible. ([Demo](https://fossbilling.org/demo), [Source Code (⭐637)](https://github.com/FOSSBilling/FOSSBilling)) `Apache-2.0` `PHP/Docker`
+*   [FOSSBilling](https://fossbilling.org/) - Free and open source hosting and billing automation. Integrates with WHM, CWP, cPanel and HestiaCP. Full API and easily extensible. ([Demo](https://fossbilling.org/demo), [Source Code (⭐652)](https://github.com/FOSSBilling/FOSSBilling)) `Apache-2.0` `PHP/Docker`
 
 ### Software / Remote Access
 
@@ -342,7 +338,7 @@
 ### AlgoKit Templates / Official
 
 *   [algokit-react-frontend-template (⭐3)](https://github.com/algorandfoundation/algokit-react-frontend-template) - Official AlgoKit React frontend template provides a production-ready baseline for developing and deploying React frontend applications with Algorand dependencies integrated. Also serves as a reference for template builders on implementing standalone algokit frontend templates.
-*   [algokit-fullstack-template (⭐4)](https://github.com/algorandfoundation/algokit-fullstack-template) - Official AlgoKit fullstack template provides a production-ready baseline for developing and deploying fullstack applications with Algorand dependencies integrated. Also serves as a reference for template builders on how to combine standalone algokit templates under one full stack template project.
+*   [algokit-fullstack-template (⭐5)](https://github.com/algorandfoundation/algokit-fullstack-template) - Official AlgoKit fullstack template provides a production-ready baseline for developing and deploying fullstack applications with Algorand dependencies integrated. Also serves as a reference for template builders on how to combine standalone algokit templates under one full stack template project.
 
 ## [36. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
@@ -400,7 +396,7 @@
 
 ### Tools / Playground
 
-*   [sqlx-ts (⭐115)](https://github.com/JasonShin/sqlx-ts) - SQLx-ts is a CLI application featuring compile-time checked queries without a DSL and generates types against SQLs to keep your code type-safe
+*   [sqlx-ts (⭐127)](https://github.com/JasonShin/sqlx-ts) - SQLx-ts is a CLI application featuring compile-time checked queries without a DSL and generates types against SQLs to keep your code type-safe
 
 ## [42. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
@@ -548,7 +544,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [aznhe21/actions-preview.nvim (⭐239)](https://github.com/aznhe21/actions-preview.nvim) - Fully customizable previewer for LSP code actions.
+*   [aznhe21/actions-preview.nvim (⭐250)](https://github.com/aznhe21/actions-preview.nvim) - Fully customizable previewer for LSP code actions.
 
 ### Fuzzy Finder / Diagnostics
 
@@ -560,29 +556,29 @@
 
 ### Keybinding / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.clue (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-clue.md) - Module of `mini.nvim` to show next key clues. Has opt-in triggers, shows next key information after customizable delay, allows hydra-like submodes, and more.
+*   [echasnovski/mini.nvim#mini.clue (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-clue.md) - Module of `mini.nvim` to show next key clues. Has opt-in triggers, shows next key information after customizable delay, allows hydra-like submodes, and more.
 
 ## [49. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Ports to other languages
 
-*   [LangChainJSDotNet (⭐23)](https://github.com/iassafc/LangChainJSDotNet): Use the official LangChain.js library in .NET ![GitHub Repo stars](https://img.shields.io/github/stars/iassafc/LangChainJSDotNet?style=social)
+*   [LangChainJSDotNet (⭐28)](https://github.com/iassafc/LangChainJSDotNet): Use the official LangChain.js library in .NET ![GitHub Repo stars](https://img.shields.io/github/stars/iassafc/LangChainJSDotNet?style=social)
 
 ### Open Source Projects / Knowledge Management
 
-*   [Chaindesk (⭐2.7k)](https://github.com/gmpetrov/databerry): The no-code platform for semantic search and documents retrieval ![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)
+*   [Chaindesk (⭐2.8k)](https://github.com/gmpetrov/databerry): The no-code platform for semantic search and documents retrieval ![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Code Interpreter API (⭐3.5k)](https://github.com/shroominic/codeinterpreter-api): About Open source implementation of the ChatGPT Code Interpreter ![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/codeinterpreter-api?style=social)
+*   [Code Interpreter API (⭐3.6k)](https://github.com/shroominic/codeinterpreter-api): About Open source implementation of the ChatGPT Code Interpreter ![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/codeinterpreter-api?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Autochain (⭐1.6k)](https://github.com/Forethought-Technologies/AutoChain): Build lightweight, extensible, and testable LLM Agents with AutoChain. ![GitHub Repo stars](https://img.shields.io/github/stars/Forethought-Technologies/AutoChain?style=social)
-*   [TypeChat (⭐7.2k)](https://github.com/microsoft/TypeChat): TypeChat is a library that makes it easy to build natural language interfaces using types. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TypeChat?style=social)
-*   [Marvin (⭐4k)](https://github.com/PrefectHQ/marvin): ✨ Build AI interfaces that spark joy ![GitHub Repo stars](https://img.shields.io/github/stars/PrefectHQ/marvin?style=social)
-*   [LMQL (⭐2.9k)](https://github.com/eth-sri/lmql): A programming language for large language models. ![GitHub Repo stars](https://img.shields.io/github/stars/eth-sri/lmql?style=social)
-*   [LLMFlow (⭐560)](https://github.com/stoyan-stoyanov/llmflows): Simple, Explicit and Transparent LLM Apps ![GitHub Repo stars](https://img.shields.io/github/stars/stoyan-stoyanov/llmflows?style=social)
+*   [Autochain (⭐1.7k)](https://github.com/Forethought-Technologies/AutoChain): Build lightweight, extensible, and testable LLM Agents with AutoChain. ![GitHub Repo stars](https://img.shields.io/github/stars/Forethought-Technologies/AutoChain?style=social)
+*   [TypeChat (⭐7.5k)](https://github.com/microsoft/TypeChat): TypeChat is a library that makes it easy to build natural language interfaces using types. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TypeChat?style=social)
+*   [Marvin (⭐4.5k)](https://github.com/PrefectHQ/marvin): ✨ Build AI interfaces that spark joy ![GitHub Repo stars](https://img.shields.io/github/stars/PrefectHQ/marvin?style=social)
+*   [LMQL (⭐3.1k)](https://github.com/eth-sri/lmql): A programming language for large language models. ![GitHub Repo stars](https://img.shields.io/github/stars/eth-sri/lmql?style=social)
+*   [LLMFlow (⭐594)](https://github.com/stoyan-stoyanov/llmflows): Simple, Explicit and Transparent LLM Apps ![GitHub Repo stars](https://img.shields.io/github/stars/stoyan-stoyanov/llmflows?style=social)
 
 ## [50. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 

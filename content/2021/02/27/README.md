@@ -100,7 +100,7 @@
 
 ### Software / Pastebins
 
-*   [FlashPaper (⭐283)](https://github.com/AndrewPaglusch/FlashPaper) - A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ([Demo](https://flashpaper.io)) `MIT` `Docker/PHP`
+*   [FlashPaper (⭐309)](https://github.com/AndrewPaglusch/FlashPaper) - A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ([Demo](https://flashpaper.io)) `MIT` `Docker/PHP`
 
 ## [9. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 

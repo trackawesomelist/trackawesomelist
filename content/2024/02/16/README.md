@@ -39,11 +39,11 @@
 
 ### Table of Contents / Content Management Systems (CMS)
 
-*   [WordPress (⭐18k)](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
+*   [WordPress (⭐19k)](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
 
 ### Table of Contents / Event
 
-*   [Elephant.io (⭐59)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
+*   [Elephant.io (⭐65)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 
 ### Configuration / Text Editors and IDEs
 
@@ -65,7 +65,7 @@
 
 ### OS-specific / Diagnostics
 
-*   [massix/termux.nvim (⭐1)](https://github.com/massix/termux.nvim) - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
+*   [massix/termux.nvim (⭐6)](https://github.com/massix/termux.nvim) - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
 
 ## [9. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 

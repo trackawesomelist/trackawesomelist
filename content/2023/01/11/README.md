@@ -140,16 +140,16 @@
 
 ### Search / Diagnostics
 
-*   [s1n7ax/nvim-search-and-replace (⭐61)](https://github.com/s1n7ax/nvim-search-and-replace) - Search and replace in multiple files at the same time from the current working directory.
-*   [roobert/search-replace.nvim (⭐193)](https://github.com/roobert/search-replace.nvim) - Builds on the native search and replace experience.
+*   [s1n7ax/nvim-search-and-replace (⭐63)](https://github.com/s1n7ax/nvim-search-and-replace) - Search and replace in multiple files at the same time from the current working directory.
+*   [roobert/search-replace.nvim (⭐195)](https://github.com/roobert/search-replace.nvim) - Builds on the native search and replace experience.
 
 ### File Explorer / Diagnostics
 
-*   [dinhhuy258/sfm.nvim (⭐51)](https://github.com/dinhhuy258/sfm.nvim) - An alternative to Nvim-tree designed to be extensible and minimalist.
+*   [dinhhuy258/sfm.nvim (⭐50)](https://github.com/dinhhuy258/sfm.nvim) - An alternative to Nvim-tree designed to be extensible and minimalist.
 
 ### Utility / Diagnostics
 
-*   [j-morano/buffer\_manager.nvim (⭐175)](https://github.com/j-morano/buffer_manager.nvim) - Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window.
+*   [j-morano/buffer\_manager.nvim (⭐184)](https://github.com/j-morano/buffer_manager.nvim) - Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window.
 
 ### Editing Support / Diagnostics
 
@@ -163,7 +163,7 @@
 
 ### CLI
 
-*   [AlgoKit CLI (⭐139)](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network. Official tooling maintained by the Algorand Foundation.
+*   [AlgoKit CLI (⭐141)](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network. Official tooling maintained by the Algorand Foundation.
 
 ---
 

@@ -102,7 +102,7 @@
 
 ### Projects / Type Theory and Mathematics
 
-*   [Analysis (⭐174)](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components.
+*   [Analysis (⭐176)](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components.
 *   [Coquelicot](https://gitlab.inria.fr/coquelicot/coquelicot) - Formalization of classical real analysis compatible with the standard library and focusing on usability.
 
 ## [11. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)

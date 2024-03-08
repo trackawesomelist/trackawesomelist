@@ -627,10 +627,10 @@
 
 ### Visualization
 
-*   [ipytree (⭐116)](https://github.com/QuantStack/ipytree/) - Tree UI element for Jupyter.
-*   [xleaflet (⭐78)](https://github.com/QuantStack/xleaflet) - C++ Backend for ipyleaflet.
+*   [ipytree (⭐124)](https://github.com/QuantStack/ipytree/) - Tree UI element for Jupyter.
+*   [xleaflet (⭐83)](https://github.com/QuantStack/xleaflet) - C++ Backend for ipyleaflet.
 *   [xwebrtc (⭐14)](https://github.com/QuantStack/xwebrtc) - C++ Backend for ipywebrtc.
-*   [xwidgets (⭐133)](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
+*   [xwidgets (⭐135)](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
 
 ## [24. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
@@ -861,21 +861,20 @@
 
 ### Electron React Boilerplate [↗](https://awesomestacks.dev/electron-react-boilerplate) / Resources
 
-*   [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 (⭐217k)](https://github.com/facebook/react) - React components can be used on the client and server side.
+*   [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 (⭐220k)](https://github.com/facebook/react) - React components can be used on the client and server side.
 *   [Redux](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 (⭐60k)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
 *   [Electron React Boilerplate website](https://electron-react-boilerplate.js.org/)
 
 ### Victor Hugo boilerplate [↗](https://awesomestacks.dev/victor-hugo-boilerplate) / Resources
 
 *   [Webpack](https://webpack.js.org/) - [🛠️](https://stackshare.io/webpack) - [🐙 (⭐64k)](https://github.com/webpack/webpack) - A static module bundler for modern JavaScript applications.
-*   [Hugo](https://gohugo.io/) - [🛠](https://stackshare.io/hugo_2)- [🐙 (⭐71k)](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+*   [Hugo](https://gohugo.io/) - [🛠](https://stackshare.io/hugo_2)- [🐙 (⭐72k)](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 *   [netlify-templates/victor-hugo (⭐1.5k)](https://github.com/netlify-templates/victor-hugo)
 
 ### Serverless Stack with React on AWS [↗](https://awesomestacks.dev/serverless-stack-with-react-on-aws) / Resources
 
-*   [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 (⭐101k)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+*   [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 (⭐102k)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 *   [Serverless Framework](https://serverless.com/) - [🛠️](https://stackshare.io/serverless) - [🐙 (⭐46k)](https://github.com/serverless/serverless) - A toolkit for building serverless applications.
-*   [AWS Lambda](https://aws.amazon.com/lambda) - [🛠️](https://stackshare.io/aws-lambda) - A compute service that runs your code in response to events.
 *   [DynamoDB](http://aws.amazon.com/dynamodb/) - [🛠️](https://stackshare.io/amazon-dynamodb) - Fully managed NoSQL database service.
 *   [Amazon Cognito](https://aws.amazon.com/cognito/) - [🛠️](https://stackshare.io/amazon-cognito) - Securely manage and synchronize app data for your users across their mobile devices.
 *   [serverless-stack.com](https://serverless-stack.com/)
@@ -884,13 +883,13 @@
 
 *   [Jest](https://jestjs.io/) - [🛠️](https://stackshare.io/jest) - [🐙 (⭐43k)](https://github.com/facebook/jest) - A comprehensive, delightful JavaScript testing solution.
 *   [stylelint](https://stylelint.io/) - [🛠️](https://stackshare.io/stylelint) - [🐙 (⭐11k)](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
-*   [wemake-vue-template (⭐731)](https://github.com/wemake-services/wemake-vue-template)
+*   [wemake-vue-template (⭐732)](https://github.com/wemake-services/wemake-vue-template)
 
 ### Vue with Electron [↗](https://awesomestacks.dev/vue-with-electron) / Resources
 
 *   [Vue Router](https://router.vuejs.org/) - [🐙 (⭐19k)](https://github.com/vuejs/vue-router) - Vue Router is the official router for Vue.js.
 *   [Vue CLI](https://cli.vuejs.org/) - [🐙 (⭐30k)](https://github.com/vuejs/vue-cli) - An approachable core library that focuses on the view layer only.
-*   [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙 (⭐110k)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+*   [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙 (⭐111k)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
 *   [electron-builder](https://www.electron.build) - [🐙 (⭐13k)](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box.
 *   [Vuex](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 (⭐60k)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
 *   [Vue.js & Electron: The easy way. – Mikeal](https://medium.com/@mikeal/vue-js-electron-the-easy-way-adc3ca09234a)
@@ -920,11 +919,15 @@
 ### Algolia site search [↗](https://awesomestacks.dev/algolia-site-search) / Resources
 
 *   [Algolia](https://algolia.com/) - [🛠](https://stackshare.io/algolia) - Hosted search API, free up to 10,000 records.
-*   [DocSearch](https://community.algolia.com/docsearch) - [🐙 (⭐290)](https://github.com/algolia/docsearch-scraper) - Crawls a website and uploads it to an index.
-*   [gatsby-plugin-algolia](https://www.gatsbyjs.org/packages/gatsby-plugin-algolia/) - [🐙 (⭐179)](https://github.com/algolia/gatsby-plugin-algolia) - Use GraphQL to specify Gatsby object to index with Algolia (beta).
-*   [hugo-algolia (⭐46)](https://github.com/replicatedhq/hugo-algolia) - [🐙 (⭐46)](https://github.com/replicatedhq/hugo-algolia) - Generate and send indices from Hugo static sites for use with Algolia.
-*   [instantsearch.js](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) - [🐙 (⭐3.4k)](https://github.com/algolia/instantsearch.js) - JavaScript library for building performant and instant search experiences.
+*   [DocSearch](https://community.algolia.com/docsearch) - [🐙 (⭐293)](https://github.com/algolia/docsearch-scraper) - Crawls a website and uploads it to an index.
+*   [gatsby-plugin-algolia](https://www.gatsbyjs.org/packages/gatsby-plugin-algolia/) - [🐙 (⭐178)](https://github.com/algolia/gatsby-plugin-algolia) - Use GraphQL to specify Gatsby object to index with Algolia (beta).
+*   [hugo-algolia (⭐47)](https://github.com/replicatedhq/hugo-algolia) - [🐙 (⭐47)](https://github.com/replicatedhq/hugo-algolia) - Generate and send indices from Hugo static sites for use with Algolia.
+*   [instantsearch.js](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) - [🐙 (⭐3.5k)](https://github.com/algolia/instantsearch.js) - JavaScript library for building performant and instant search experiences.
 *   [Static site search with Hugo + Algolia](https://forestry.io/blog/search-with-algolia-in-hugo/)
+
+### Graphweaver - GraphQL API Over Multiple Datasources [↗](https://awesomestacks.dev/graphweaver-graphql-api-over-multiple-datasources) / Resources
+
+*   [AWS Lambda](https://aws.amazon.com/lambda) - [🛠️](https://stackshare.io/aws-lambda) - Deployable as a single JS bundle to lambda.
 
 ### Workflow Automation with GitHub, Jira and Jenkins [↗](https://awesomestacks.dev/workflow-automation-with-git-hub-jira-and-jenkins) / Resources
 
@@ -938,11 +941,11 @@
 
 ### Ethereum DApp [↗](https://awesomestacks.dev/ethereum-d-app) / Resources
 
-*   [Solidity](https://solidity.readthedocs.io) - [🐙 (⭐21k)](https://github.com/ethereum/solidity) - Solidity is an object-oriented, high-level language for implementing smart contracts.
+*   [Solidity](https://solidity.readthedocs.io) - [🐙 (⭐22k)](https://github.com/ethereum/solidity) - Solidity is an object-oriented, high-level language for implementing smart contracts.
 *   [web3.js](https://web3js.readthedocs.io) - [🐙 (⭐18k)](https://github.com/ethereum/web3.js) - Ethereum JavaScript API.
 *   [Truffle](https://truffleframework.com/truffle) - [🐙 (⭐14k)](https://github.com/trufflesuite/truffle) - A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM).
 *   [Ganache](https://truffleframework.com/ganache) - [🐙 (⭐2.6k)](https://github.com/trufflesuite/ganache) - Personal blockchain for Ethereum development.
-*   [drizzle](https://truffleframework.com/drizzle) - [🐙 (⭐911)](https://github.com/trufflesuite/drizzle) - A collection of front-end libraries that make writing dapp user interfaces easier and more predictable.
+*   [drizzle](https://truffleframework.com/drizzle) - [🐙 (⭐910)](https://github.com/trufflesuite/drizzle) - A collection of front-end libraries that make writing dapp user interfaces easier and more predictable.
 
 ### Rails Monitoring Stack [↗](https://awesomestacks.dev/rails-monitoring-stack) / Resources
 
@@ -950,8 +953,8 @@
 
 ### React Native with Expo and Hasura [↗](https://awesomestacks.dev/react-native-with-expo-and-hasura) / Resources
 
-*   [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙 (⭐113k)](https://github.com/facebook/react-native) - Build native mobile apps using JavaScript and React.
-*   [Expo](https://expo.io/) - [🛠️](https://stackshare.io/expo) - [🐙 (⭐25k)](https://github.com/expo/expo) - Build, deploy, and quickly iterate on native iOS and Android apps from the same JavaScript codebase.
+*   [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙 (⭐115k)](https://github.com/facebook/react-native) - Build native mobile apps using JavaScript and React.
+*   [Expo](https://expo.io/) - [🛠️](https://stackshare.io/expo) - [🐙 (⭐28k)](https://github.com/expo/expo) - Build, deploy, and quickly iterate on native iOS and Android apps from the same JavaScript codebase.
 *   [Digital Ocean](https://www.digitalocean.com/) - [🛠️](https://stackshare.io/digitalocean) - [🐙](https://github.com/digitalocean/) - Deploy an SSD cloud server in less than 55 seconds with a dedicated IP and root access.
 *   [Auth0](https://auth0.com/) - [🛠️](https://stackshare.io/auth0) - A universal authentication & authorization platform for web, mobile and legacy applications.
 *   [Tutorial: Fullstack React Native with GraphQL and Authentication](https://blog.hasura.io/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a/)
@@ -1070,7 +1073,7 @@
     *   [cargo-web](https://crates.io/crates/cargo-web) — A Cargo subcommand for the client-side Web
     *   [leptos (⭐14k)](https://github.com/leptos-rs/leptos) — Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
     *   [sauron (⭐1.9k)](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture.
-    *   [seed](https://seed-rs.org/) — A framework for creating web apps
+    *   [seed (⭐3.8k)](https://github.com/seed-rs/seed) — A framework for creating web apps
     *   [stdweb](https://crates.io/crates/stdweb) — A standard library for the client-side Web
     *   [yew](https://crates.io/crates/yew) — A framework for making client web apps
 

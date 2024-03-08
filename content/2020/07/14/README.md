@@ -71,7 +71,7 @@
 
 ### Class Based
 
-*   [FAST Element (⭐8.8k)](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-element) - Lightweight library for building performant, memory-efficient, standards-compliant Web Components.
+*   [FAST Element (⭐8.9k)](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-element) - Lightweight library for building performant, memory-efficient, standards-compliant Web Components.
 
 ### Integrations
 

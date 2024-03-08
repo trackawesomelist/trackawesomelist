@@ -16,18 +16,18 @@
 
 ### Third-Party Packages / Users
 
-*   [django-guest-user (⭐65)](https://github.com/julianwachholz/django-guest-user) - Allow visitors to use your site like a regular user and register later.
+*   [django-guest-user (⭐68)](https://github.com/julianwachholz/django-guest-user) - Allow visitors to use your site like a regular user and register later.
 
 ### Projects / Boilerplate
 
-*   [Falco (⭐232)](https://github.com/tobi-de/falco) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
+*   [Falco (⭐271)](https://github.com/tobi-de/falco) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
 
 ## [3. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### UI Libraries
 
-*   [Melt UI (⭐2.5k)](https://github.com/melt-ui/melt-ui) - A collection of accessible, reusable, and composable headless component builders and utilities.
-*   [Radix Svelte (⭐464)](https://github.com/radix-svelte/radix-svelte) - An unofficial community-led Svelte port of Radix UI Primitives
+*   [Melt UI (⭐2.7k)](https://github.com/melt-ui/melt-ui) - A collection of accessible, reusable, and composable headless component builders and utilities.
+*   [Radix Svelte (⭐465)](https://github.com/radix-svelte/radix-svelte) - An unofficial community-led Svelte port of Radix UI Primitives
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -59,27 +59,27 @@
 ### Learning Resources / Natural language processing
 
 *   [A Code-First Introduction to NLP](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) – by Rachel Thomas of fast.ai
-*   [Hands-on NLTK Tutorial (⭐535)](https://github.com/hb20007/hands-on-nltk-tutorial#readme)
-*   [NLP in Python - Quickstart Guide (⭐557)](https://github.com/NirantK/NLP_Quickbook#readme)
+*   [Hands-on NLTK Tutorial (⭐537)](https://github.com/hb20007/hands-on-nltk-tutorial#readme)
+*   [NLP in Python - Quickstart Guide (⭐558)](https://github.com/NirantK/NLP_Quickbook#readme)
 *   [Deep Learning for NLP With Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html)
 
 ### Learning Resources / Generative AI
 
-*   [Large Language Model Course (⭐23k)](https://github.com/mlabonne/llm-course#readme)
+*   [Large Language Model Course (⭐25k)](https://github.com/mlabonne/llm-course#readme)
 
 ### Learning Resources / Other "awesome" lists in AI and ML
 
-*   [Awesome Computer Vision (⭐19k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
+*   [Awesome Computer Vision (⭐20k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
 *   [Awesome Deep Learning for Natural Language Processing (NLP) (⭐1.2k)](https://github.com/brianspiering/awesome-dl4nlp#readme)
-*   [Awesome Generative AI (⭐4.1k)](https://github.com/steven2358/awesome-generative-ai#readme)
+*   [Awesome Generative AI (⭐4.2k)](https://github.com/steven2358/awesome-generative-ai#readme)
 *   [Awesome Jupyter GLAM (⭐19)](https://github.com/LibraryCarpentry/awesome-jupyter-glam#readme)
 *   [The NLP Index](https://index.quantumstat.com)
 
 ### Tools and Frameworks / Document analysis, transcription, and labeling
 
-*   [Surya (⭐4.1k)](https://github.com/VikParuchuri/surya#readme) – multilingual document OCR toolkit with line-level text detection
+*   [Surya (⭐4.9k)](https://github.com/VikParuchuri/surya#readme) – multilingual document OCR toolkit with line-level text detection
 
-### Projects, Initiatives, and Case Studies / Projects by AI4LAM community members
+### Projects, Initiatives, and Case Studies / Select individual projects
 
 *   [Living with Machines](https://livingwithmachines.ac.uk) – Turing Institute & British Library
 *   [Machine Learning with Archive Collections](https://blog.archiveshub.jisc.ac.uk/2022/02/28/machine-learning-with-archive-collections/)

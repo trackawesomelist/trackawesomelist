@@ -117,7 +117,7 @@
 
 ### Formatting / Diagnostics
 
-*   [gpanders/editorconfig.nvim (⭐316)](https://github.com/gpanders/editorconfig.nvim) - An EditorConfig plugin written in Fennel.
+*   [gpanders/editorconfig.nvim (⭐315)](https://github.com/gpanders/editorconfig.nvim) - An EditorConfig plugin written in Fennel.
 
 ## [11. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 

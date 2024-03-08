@@ -63,9 +63,9 @@
 
     *   [Rust Programming Language](https://www.rust-lang.org/) - Originally written in OCaml before bootstrapping.
 
-    *   [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo (⭐139)](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
+    *   [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo (⭐142)](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
 
-    *   [tis-interpreter (⭐560)](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
+    *   [tis-interpreter (⭐561)](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
 
     *   [Reason](http://facebook.github.io/reason/) - Friendly syntax & toolchain for OCaml by Facebook.
 
@@ -104,7 +104,7 @@
 
 ### Messaging
 
-*   [capnp-ocaml (⭐95)](https://github.com/capnproto/capnp-ocaml) – OCaml code generator plugin for the Cap'n Proto serialization framework.
+*   [capnp-ocaml (⭐96)](https://github.com/capnproto/capnp-ocaml) – OCaml code generator plugin for the Cap'n Proto serialization framework.
 
 ### Metaprogramming
 
@@ -123,15 +123,15 @@
     *   [obuild (⭐54)](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
     *   [ocaml-makefile (⭐74)](https://github.com/mmottl/ocaml-makefile) — Easy to use Makefile for small to medium-sized OCaml-projects.
     *   [topkg (⭐69)](https://github.com/dbuenzli/topkg) — OPAM-aware packaging system using ocamlbuild.
-    *   [Bazel (⭐38)](https://github.com/jin/rules_ocaml) - OCaml rules for [Bazel](https://bazel.build/), Google's multi-language and platform build tool.
+    *   [Bazel (⭐37)](https://github.com/jin/rules_ocaml) - OCaml rules for [Bazel](https://bazel.build/), Google's multi-language and platform build tool.
 
 ### Parallelism
 
 *   **Articles**:
     *   [What is the state of OCaml's parallelization abilities?](https://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
-    *   [Parallel programming in multicore OCaml (⭐271)](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
+    *   [Parallel programming in multicore OCaml (⭐273)](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
     *   [Parallelism programming](https://v2.ocaml.org/releases/5.0/htmlman/parallelism.html) from the officiel OCaml manual
-    *   [Awesome multicore OCaml (⭐134)](https://github.com/ocaml-multicore/awesome-multicore-ocaml). A compilation of resources
+    *   [Awesome multicore OCaml (⭐136)](https://github.com/ocaml-multicore/awesome-multicore-ocaml). A compilation of resources
 
 ### Questions
 

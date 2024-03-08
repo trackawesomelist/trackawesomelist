@@ -22,7 +22,7 @@
 
 ### Software / Groupware
 
-*   [Tine](https://www.tine-groupware.de/) - Software for digital collaboration in companies and organizations. From powerful groupware functionalities to clever add-ons, tine combines everything to make daily team collaboration easier. ([Source Code (⭐7)](https://github.com/tine-groupware/tine)) `AGPL-3.0` `Docker`
+*   [Tine](https://www.tine-groupware.de/) - Software for digital collaboration in companies and organizations. From powerful groupware functionalities to clever add-ons, tine combines everything to make daily team collaboration easier. ([Source Code (⭐9)](https://github.com/tine-groupware/tine)) `AGPL-3.0` `Docker`
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -52,7 +52,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [lopi-py/luau-lsp.nvim (⭐26)](https://github.com/lopi-py/luau-lsp.nvim) - A luau-lsp extension to improve your experience.
+*   [lopi-py/luau-lsp.nvim (⭐27)](https://github.com/lopi-py/luau-lsp.nvim) - A luau-lsp extension to improve your experience.
 
 ## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

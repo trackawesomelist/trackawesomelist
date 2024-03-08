@@ -461,7 +461,7 @@
 
 ### Applications / Web Servers
 
-*   [svenstaro/miniserve (⭐5.4k)](https://github.com/svenstaro/miniserve) — A small, self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP [![build badge](https://github.com/svenstaro/miniserve/workflows/CI/badge.svg?branch=master)](https://github.com/svenstaro/miniserve/actions)
+*   [svenstaro/miniserve (⭐5.5k)](https://github.com/svenstaro/miniserve) — A small, self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP [![build badge](https://github.com/svenstaro/miniserve/workflows/CI/badge.svg?branch=master)](https://github.com/svenstaro/miniserve/actions)
 
 ### Development tools / Web Servers
 
@@ -678,15 +678,10 @@
 
 *   OpenGL \[[opengl](https://crates.io/keywords/opengl)]
     *   [brendanzab/gl-rs (⭐667)](https://github.com/brendanzab/gl-rs) —
-    *   [glium/glium (⭐3.3k)](https://github.com/glium/glium) — safe OpenGL wrapper.
+    *   [glium/glium (⭐3.4k)](https://github.com/glium/glium) — safe OpenGL wrapper.
     *   [glutin](https://crates.io/crates/glutin) — Alternative to [GLFW](https://www.glfw.org/)
     *   [Kiss3d](http://kiss3d.org) — draw simple geometric figures and play with them with one-liners
     *   [PistonDevelopers/glfw-rs (⭐619)](https://github.com/PistonDevelopers/glfw-rs) —
-*   PDF
-    *   [fschutt/printpdf (⭐741)](https://github.com/fschutt/printpdf) — PDF writing library
-    *   [J-F-Liu/lopdf (⭐1.4k)](https://github.com/J-F-Liu/lopdf) — PDF document manipulation
-    *   [kaj/rust-pdf (⭐139)](https://github.com/kaj/rust-pdf) —
-    *   [WASM-PDF (⭐457)](https://github.com/jussiniinikoski/wasm-pdf) – Generates PDF files with JavaScript and WASM (WebAssembly)
 *   [Vulkan](https://www.vulkan.org/) \[[vulkan](https://crates.io/keywords/vulkan)]
     *   [erupt](https://gitlab.com/Friz64/erupt) \[[erupt](https://crates.io/crates/erupt)] — [![build badge](https://gitlab.com/Friz64/erupt/badges/main/pipeline.svg)](https://gitlab.com/Friz64/erupt/-/pipelines)
     *   [vulkano (⭐4.2k)](https://github.com/vulkano-rs/vulkano) \[[vulkano](https://crates.io/crates/vulkano)] —
@@ -829,7 +824,7 @@
 
 ### Software / Automation
 
-*   [MeTube (⭐2.6k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
+*   [MeTube (⭐3k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
@@ -980,7 +975,7 @@
 
 ### Clojure / Git
 
-*   [secrets.clj (⭐88)](https://github.com/lk-geimfari/secrets.clj) - A Clojure library designed to generate cryptographically strong random numbers suitable for managing data such as passwords, account authentication, security tokens, and related secrets.
+*   [secrets.clj (⭐87)](https://github.com/lk-geimfari/secrets.clj) - A Clojure library designed to generate cryptographically strong random numbers suitable for managing data such as passwords, account authentication, security tokens, and related secrets.
 
 ## [36. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
@@ -1117,7 +1112,7 @@
 
 ### Kotlin JavaScript / Integration
 
-*   [Kotlin/dukat (⭐531)](https://github.com/Kotlin/dukat) - Converter of <any kind of declarations> to Kotlin external declarations
+*   [Kotlin/dukat (⭐535)](https://github.com/Kotlin/dukat) - Converter of <any kind of declarations> to Kotlin external declarations
 
 ## [48. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -1192,7 +1187,7 @@
 
 ### Generation / Apache License
 
-*   [record-flux (⭐96)](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
+*   [record-flux (⭐98)](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
 
 ### Math / Apache License
 
@@ -1202,7 +1197,7 @@
 
 *   [threefish (⭐5)](https://github.com/jrcarter/Threefish) - Ada Implementation of the Threefish-256 Encryption Algorithm.
 *   [ada-crypto-library (⭐85)](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86\_64 hardware architecture.
-*   [spark-nacl (⭐100)](https://github.com/rod-chapman/SPARKNaCl) - SPARK 2014 re-implementation of the TweetNaCl crypto library.
+*   [spark-nacl (⭐104)](https://github.com/rod-chapman/SPARKNaCl) - SPARK 2014 re-implementation of the TweetNaCl crypto library.
 *   [libsodium-ada (⭐8)](https://github.com/jrmarino/libsodium-ada) - A secure cryptographic library (libsodium for Ada).
 *   [ada-libsecret (⭐2)](https://github.com/stcarrez/ada-libsecret) - Ada Binding for the libsecret library.
 
@@ -1212,7 +1207,7 @@
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Apache License
 
-*   [libadalang (⭐137)](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
+*   [libadalang (⭐140)](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
 
 ### Networking and Communication Middleware / Apache License
 
@@ -1231,7 +1226,7 @@
 
 *   [orka (⭐54)](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012.
 *   [adagl (⭐9)](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WASM/WebGL).
-*   [sdlada (⭐101)](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
+*   [sdlada (⭐103)](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
 *   [ada-nanovg (⭐1)](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG.
 *   [free-type-ada (⭐1)](https://github.com/flyx/FreeTypeAda) - FreeType binding for Ada 2005.
 
@@ -1270,7 +1265,7 @@
 
 ### Windows and .NET / Apache License
 
-*   [win32ada (⭐15)](https://github.com/AdaCore/win32ada) - Ada API to the Windows library.
+*   [win32ada (⭐16)](https://github.com/AdaCore/win32ada) - Ada API to the Windows library.
 *   [ada-net-framework (⭐5)](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings to the Microsoft NetFramework Api.
 *   [ada-winrt (⭐11)](https://github.com/Alex-Gamper/Ada-WinRT) - Ada bindings for the Microsft WinRT Api.
 *   [ada-win32 (⭐4)](https://github.com/Alex-Gamper/Ada-Win32) - Ada bindings for the Microsoft Win32 Api.
@@ -1718,11 +1713,11 @@
 
 ### Third-Party Packages / Editors
 
-*   [django-summernote (⭐988)](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
+*   [django-summernote (⭐992)](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
 
 ### Third-Party Packages / Forms
 
-*   [django-floppyforms (⭐831)](https://github.com/jazzband/django-floppyforms) - Full control of form rendering.
+*   [django-floppyforms (⭐835)](https://github.com/jazzband/django-floppyforms) - Full control of form rendering.
 
 ---
 

@@ -35,7 +35,7 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [Jupyter Book (⭐3.5k)](https://github.com/executablebooks/jupyter-book) - Build publication-quality books and documents from computational material.
+*   [Jupyter Book (⭐3.6k)](https://github.com/executablebooks/jupyter-book) - Build publication-quality books and documents from computational material.
 
 ### Domain-Specific Projects
 

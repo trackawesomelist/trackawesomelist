@@ -74,11 +74,11 @@
 
 ### Productivity and Time
 
-*   [Errands (⭐181)](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Errands (⭐200)](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 
 ### Graphics
 
-*   [ASCII Draw (⭐100)](https://github.com/Nokse22/ascii-draw) - Draw graphs and more using only characters.
+*   [ASCII Draw (⭐105)](https://github.com/Nokse22/ascii-draw) - Draw graphs and more using only characters.
 
 ### Utilities
 
@@ -86,7 +86,7 @@
 
 ### Development and Design
 
-*   [Forge Sparks (⭐47)](https://github.com/rafaelmardojai/forge-sparks) - Git forge (GitHub, Gitea, Forgejo) desktop notification application. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Forge Sparks (⭐50)](https://github.com/rafaelmardojai/forge-sparks) - Git forge (GitHub, Gitea, Forgejo) desktop notification application. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems and context menus.
 
 ## [7. Awesome Naming](/content/gruhn/awesome-naming/README.md)

@@ -734,7 +734,7 @@
 
 ### Runtime / Playground
 
-*   [type-plus (⭐321)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
+*   [type-plus (⭐341)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
 
 ### Libraries / Chrome Extensions
 
@@ -744,7 +744,7 @@
 
 ### Bindings to Other Languages / Apache License
 
-*   [tcl-ada-shell (⭐8)](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.
+*   [tcl-ada-shell (⭐9)](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.
 
 ## [57. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 

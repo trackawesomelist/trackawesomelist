@@ -107,7 +107,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Tools
 
-*   [web-component-analyzer (⭐482)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
+*   [web-component-analyzer (⭐490)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
 
 ## [11. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

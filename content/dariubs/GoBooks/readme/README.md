@@ -109,7 +109,7 @@ List of Golang books
 
 A online book to start learning Golang. It features numerous exercises (and answers).
 
-The [markdown source is available on Github (⭐530)](https://github.com/miekg/learninggo).
+The [markdown source is available on Github (⭐533)](https://github.com/miekg/learninggo).
 
 ### 2018 - [Get Programming with Go](https://bit.ly/getprogrammingwithgo)
 
@@ -141,11 +141,11 @@ The Go Workshop will take the pain out of learning the Go programming language (
 
 #### What will you learn from this book?
 
-Go makes it easy to build software that’s simple, reliable, and efficient. Andthis book makes it easy for programmers like you to get started. Googledesigned Go for high-performance networking and multiprocessing, but—like Python and JavaScript—the language is easy to read and use. With thispractical hands-on guide, you’ll learn how to write Go code using clearexamples that demonstrate the language in action. Best of all, you’ll understandthe conventions and techniques that employers want entry-level Godevelopers to know.
+Go makes it easy to build software that’s simple, reliable, and efficient. Andthis book makes it easy for programmers like you to get started. Google designed Go for high-performance networking and multiprocessing, but—like Python and JavaScript—the language is easy to read and use. With this practical hands-on guide, you’ll learn how to write Go code using clear examples that demonstrate the language in action. Best of all, you’ll understand the conventions and techniques that employers want entry-level Go developers to know.
 
 #### Why does this book look so different?
 
-Based on the latest research in cognitive science and learning theory, HeadFirst Go uses a visually rich format to engage your mind rather than a textheavyapproach that puts you to sleep. Why waste your time struggling withnew concepts? This multisensory learning experience is designed for theway your brain really works.
+Based on the latest research in cognitive science and learning theory, HeadFirst Go uses a visually rich format to engage your mind rather than a text heavy approach that puts you to sleep. Why waste your time struggling with new concepts? This multisensory learning experience is designed for the way your brain really works.
 
 ### 2020 - [How to Code in Go](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook)
 
@@ -521,7 +521,7 @@ Much of the modern world is built on cryptography, and this book introduces read
 *Go with the Domain* is a book on building Go applications that solve complex problems in an idiomatic way.
 It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Command Query Responsibility Segregation), and other patterns.
 
-The book is based on a [real open source project (⭐4.7k)](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
+The book is based on a [real open source project (⭐4.8k)](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
 Chapters go through refactoring of the project to show common anti-patterns and how to avoid them.
 
 ### [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/) *Free*
@@ -598,7 +598,7 @@ Take your Go skills to the next level by learning how to design, develop, and de
 
 <img src="https://raw.githubusercontent.com/juanmanuel-tirado/savetheworldwithgo/master/img/buildsystems.png" width="120px"/>
 
-The Go ecosystem is helping developers to build distributed and scalable systems efficiently. If you plan to jump into this fascinating world, you must know how Go can help you to build REST APIs, use SQL/NoSQL databases, data streaming platforms, gRPC, design your own CLIs, or how to log your programs efficiently just to mention a few. *Build Systems with GO: Everything a Gopher Must Know* is split into two blocks: the first explores the Go language and its standard library, the second one provides the reader with examples and explanations of the most powerful libraries to be used in any Go development. With more than 200 detailed and straight-forward examples [available at GitHub (⭐126)](https://github.com/juanmanuel-tirado/savetheworldwithgo), this book helps early adopters and experienced developers to have a real view of what a system built with Go looks like.
+The Go ecosystem is helping developers to build distributed and scalable systems efficiently. If you plan to jump into this fascinating world, you must know how Go can help you to build REST APIs, use SQL/NoSQL databases, data streaming platforms, gRPC, design your own CLIs, or how to log your programs efficiently just to mention a few. *Build Systems with GO: Everything a Gopher Must Know* is split into two blocks: the first explores the Go language and its standard library, the second one provides the reader with examples and explanations of the most powerful libraries to be used in any Go development. With more than 200 detailed and straight-forward examples [available at GitHub (⭐128)](https://github.com/juanmanuel-tirado/savetheworldwithgo), this book helps early adopters and experienced developers to have a real view of what a system built with Go looks like.
 
 ### 2021 - [Mastering Go, 3rd edition](https://www.packtpub.com/product/mastering-go-third-edition/9781801079310)
 
@@ -661,7 +661,7 @@ Another awesome book for learning Web Development in Golang.
 
 ### [Go Fundamentals Video Training](https://shop.oreilly.com/category/learning-path/go-fundamentals.do)
 
-### [More Books on the Go Wiki (⭐117k)](https://github.com/golang/go/wiki/Books)
+### [More Books on the Go Wiki (⭐118k)](https://github.com/golang/go/wiki/Books)
 
 ### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
 

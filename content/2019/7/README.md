@@ -216,7 +216,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Gotify](https://gotify.net/) - Self-hosted notification server with Android and CLI clients, similar to PushBullet. ([Source Code (⭐9.8k)](https://github.com/gotify/server), [Clients (⭐780)](https://github.com/gotify/android)) `MIT` `Go/Docker`
+*   [Gotify](https://gotify.net/) - Self-hosted notification server with Android and CLI clients, similar to PushBullet. ([Source Code (⭐9.9k)](https://github.com/gotify/server), [Clients (⭐790)](https://github.com/gotify/android)) `MIT` `Go/Docker`
 
 ### Software / Learning and Courses
 
@@ -576,7 +576,7 @@ Topics: Terraform, AWS, Devops\
 
 ### Awesome TypeScript Essential Resources
 
-*   :octocat: [Clean Code concepts adapted for TypeScript (⭐8.7k)](https://github.com/labs42io/clean-code-typescript)
+*   :octocat: [Clean Code concepts adapted for TypeScript (⭐8.9k)](https://github.com/labs42io/clean-code-typescript)
 
 ## [54. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 

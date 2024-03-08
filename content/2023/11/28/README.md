@@ -28,7 +28,7 @@
 
 ### Terminal / Terminal UI
 
-*   [oxker (⭐363)](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers. Written in [Rust](https://www.rust-lang.org/), making heavy use of [ratatui (⭐6.3k)](https://github.com/tui-rs-revival/ratatui) & [Bollard (⭐671)](https://github.com/fussybeaver/bollard), by [@mrjackwills](https://github.com/mrjackwills)
+*   [oxker (⭐378)](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers. Written in [Rust](https://www.rust-lang.org/), making heavy use of [ratatui (⭐6.8k)](https://github.com/tui-rs-revival/ratatui) & [Bollard (⭐681)](https://github.com/fussybeaver/bollard), by [@mrjackwills](https://github.com/mrjackwills)
 
 ## [5. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -66,7 +66,7 @@
 
 ### CLI and REPL
 
-*   [Taze (⭐1.9k)](https://github.com/antfu/taze) A modern cli tool that keeps your dependencies fresh
+*   [Taze (⭐2.1k)](https://github.com/antfu/taze) A modern cli tool that keeps your dependencies fresh
 
 ---
 

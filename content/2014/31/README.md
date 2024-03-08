@@ -493,7 +493,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 ### General
 
 *   [(Functional) Alternatives to inheritance](http://ocamltutorials.blogspot.se/2013/06/alternatives-to-subtyping.html)
-*   [camlPDF (⭐193)](https://github.com/johnwhitington/camlpdf) – OCaml library for reading, writing and modifying PDF files.
+*   [camlPDF (⭐194)](https://github.com/johnwhitington/camlpdf) – OCaml library for reading, writing and modifying PDF files.
 
 ## [24. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 

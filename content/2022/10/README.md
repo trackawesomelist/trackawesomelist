@@ -61,8 +61,8 @@
 
 ### Format Readers, Writers and Checkers / Apache License
 
-*   [protobuf-ada (⭐15)](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
-*   [protobuf (⭐26)](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka (⭐4)](https://github.com/godunko/matreshka).
+*   [protobuf-ada (⭐16)](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
+*   [protobuf (⭐26)](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka (⭐5)](https://github.com/godunko/matreshka).
 *   [ada-toml (⭐26)](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 
 ### Web / Apache License
@@ -229,13 +229,13 @@
 
 ### Projects / Type Theory and Mathematics
 
-*   [Four Color Theorem (⭐144)](https://github.com/coq-community/fourcolor) - Formal proof of the Four Color Theorem, a landmark result of graph theory.
+*   [Four Color Theorem (⭐146)](https://github.com/coq-community/fourcolor) - Formal proof of the Four Color Theorem, a landmark result of graph theory.
 
 ## [10. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Web framework
 
-*   [faster (⭐28)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
+*   [faster (⭐29)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
 
 ## [11. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
@@ -306,11 +306,11 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [cpea2506/one\_monokai.nvim (⭐133)](https://github.com/cpea2506/one_monokai.nvim) - One Monokai theme written in Lua.
+*   [cpea2506/one\_monokai.nvim (⭐132)](https://github.com/cpea2506/one_monokai.nvim) - One Monokai theme written in Lua.
 
 ### Utility / Diagnostics
 
-*   [jghauser/fold-cycle.nvim (⭐69)](https://github.com/jghauser/fold-cycle.nvim) - Cycle folds open or closed.
+*   [jghauser/fold-cycle.nvim (⭐71)](https://github.com/jghauser/fold-cycle.nvim) - Cycle folds open or closed.
 
 ## [19. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -656,7 +656,7 @@
 
 ### Oh-My-Zsh
 
-*   [One Key Linux Setup (⭐14)](https://github.com/miracleyoo/one-key-linux-setup) - Simple setup (ubuntu-only) of `zsh`, `oh-my-zsh`, `tmux`, `python` support and other packages.
+*   [One Key Linux Setup (⭐15)](https://github.com/miracleyoo/one-key-linux-setup) - Simple setup (ubuntu-only) of `zsh`, `oh-my-zsh`, `tmux`, `python` support and other packages.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -678,7 +678,7 @@
 
 ### Other Development Tools / Docker
 
-*   [Algorand Sandbox Dev (⭐15)](https://github.com/MakerXStudio/algorand-sandbox-dev) - Docker Hub image for faster local development and CI/CD usage.
+*   [Algorand Sandbox Dev (⭐15)](https://github.com/MakerXStudio/algorand-sandbox-dev) - Docker Hub image for faster local development and CI/CD usage. (Archived on Jan 2, 2024)
 
 ## [50. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
@@ -714,7 +714,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [evoasm/kasm (⭐41)](https://github.com/evoasm/kasm) - x64/x86-64 assembler and execution library
+*   [evoasm/kasm (⭐42)](https://github.com/evoasm/kasm) - x64/x86-64 assembler and execution library
 
 ## [53. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 

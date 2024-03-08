@@ -75,7 +75,7 @@
 
 ### Learn AI free / Machine Learning
 
-*   [Roadmap (⭐7.1k)](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them, and what tools to use to perform them.
+*   [Roadmap (⭐7.2k)](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them, and what tools to use to perform them.
 *   [Andrew Ng’s Machine Learning at Stanford University](https://www.coursera.org/learn/machine-learning) -  Ng’s gentle introduction to machine learning course is perfect for engineers who want a foundational overview of key concepts in the field.
 *   [Sebastian Thrun’s Introduction To Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) - robust introduction to the subject and also the foundation for a Data Analyst “nanodegree” certification sponsored by Facebook and MongoDB.
 
@@ -88,7 +88,7 @@
 
 ### Related Awesome Lists / Deep Learning
 
-*   [Awesome AI Books (⭐41)](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
+*   [Awesome AI Books (⭐49)](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
 
 ## [3. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
@@ -250,8 +250,8 @@
 ### no-std crates / WIP
 
 *   [embedded-cli](https://crates.io/crates/embedded-cli): CLI library with autocompletion, subcommands, options, help and history support. ![crates.io](https://img.shields.io/crates/v/embedded-cli.svg)
-*   [lorawan-encoding (⭐173)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN packet codec.
-*   [lorawan-device (⭐173)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN MAC implementation supporting both event-driven and async mode.
+*   [lorawan-encoding (⭐181)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN packet codec.
+*   [lorawan-device (⭐181)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN MAC implementation supporting both event-driven and async mode.
 
 ## [16. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -361,7 +361,7 @@
 
 ### Libraries / GUI
 
-*   [makepad/makepad (⭐4.5k)](https://github.com/makepad/makepad) \[[makepad-widgets](https://crates.io/crates/makepad-widgets)] — Makepad is a creative software development platform that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl.
+*   [makepad/makepad (⭐4.6k)](https://github.com/makepad/makepad) \[[makepad-widgets](https://crates.io/crates/makepad-widgets)] — Makepad is a creative software development platform that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl.
 
 ## [22. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -379,7 +379,7 @@
 
 ### IO / Relay
 
-*   [micropython-xl9535-kxv5-relay (⭐1)](https://github.com/mcauser/micropython-xl9535-kxv5-relay) - A MicroPython library for jxl XL9535-KxV5 I2C relay boards.
+*   [micropython-xl9535-kxv5-relay (⭐2)](https://github.com/mcauser/micropython-xl9535-kxv5-relay) - A MicroPython library for jxl XL9535-KxV5 I2C relay boards.
 
 ### Sensors / Colour
 
@@ -405,7 +405,7 @@
 
 ### Third-Party Packages / Task Queues
 
-*   [django-celery-results (⭐637)](https://github.com/celery/django-celery-results) -  Celery result backend with Django.
+*   [django-celery-results (⭐640)](https://github.com/celery/django-celery-results) -  Celery result backend with Django.
 
 ## [24. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -435,17 +435,6 @@
 
 *   [RapiDoc (⭐1.5k) (⭐1.5k)](https://github.com/rapi-doc/RapiDoc) - A tool that generates customizable, interactive API documentation from OpenAPI Specification, with a range of design options.
 
-### Projects / API Testing
-
-*   Testing tools and frameworks
-    *   [Apache JMeter (⭐7.7k) (⭐7.8k)](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
-    *   [Gatling (⭐6.2k) (⭐6.2k)](https://github.com/gatling/gatling) - An open-source load testing tool that allows users to write and run load tests as code, providing detailed performance reports to optimize system performance.
-    *   [Karate (⭐7.7k) (⭐7.7k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
-    *   [Pyresttest (⭐1.1k) (⭐1.1k)](https://github.com/svanoort/pyresttest) - Java DSL for easy testing of REST services.
-    *   [REST Assured (⭐6.6k) (⭐6.7k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
-    *   [Schemathesis (⭐2k) (⭐2k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
-    *   [Taurus (⭐1.9k) (⭐1.9k)](https://github.com/Blazemeter/taurus) - An open-source framework for continuous testing that simplifies test execution and management through a user-friendly interface and integrates with various testing tools and frameworks.
-
 ### Projects / BRE
 
 *   [Drools (⭐5.6k) (⭐5.6k)](https://github.com/apache/incubator-kie-drools) - Open-source tool that supports Decision Model and Notation (DMN) models at Conformance level 3 with an Eclipse IDE plugin for core development.
@@ -456,18 +445,12 @@
 *   [Apache NiFi (⭐4.2k) (⭐4.3k)](https://github.com/apache/nifi) - An automated data integration platform that efficiently moves data between disparate systems.
 *   [Pentaho Data Integration (⭐7.2k) (⭐7.2k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
 
-### Projects / Messaging
-
-*   [Eclipse Mosquitto (⭐8.1k) (⭐8.2k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
-*   [Redpanda (⭐8.4k) (⭐8.5k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
-
 ### Projects / Workflow engine
 
 *   [Activiti (⭐9.8k) (⭐9.8k)](https://github.com/Activiti/Activiti) - A lightweight and Java-centric open-source engine for executing BPMN (Business Process Model and Notation) workflows.
 *   [Argo Workflows (⭐14k) (⭐14k)](https://github.com/argoproj/argo-workflows) - An open-source, container-native workflow engine designed to orchestrate parallel jobs on Kubernetes, making it easier to manage and automate complex workflows in a cloud-native environment.
 *   [Bonita (⭐141) (⭐141)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
 *   [Cadence (⭐7.6k) (⭐7.7k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
-*   [Elsa Core (⭐5.5k) (⭐5.6k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
 
 ### Resources / Data Formats
 

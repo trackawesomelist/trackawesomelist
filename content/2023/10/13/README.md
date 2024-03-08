@@ -51,7 +51,6 @@
 
 ### Features
 
-*   [End-to-end encryption for state files](https://twitter.com/OpenTofuOrg/status/1696597790661677207) 🚧
 *   [OCI-compliant registry support](https://twitter.com/OpenTofuOrg/status/1696913055576387599) 🚧
 
 ### Media / Helpers
@@ -72,7 +71,7 @@
 
 ### Note Taking / Diagnostics
 
-*   [gsuuon/note.nvim (⭐37)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
+*   [gsuuon/note.nvim (⭐40)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
 
 ## [7. Awesome Devtools](/content/moimikey/awesome-devtools/README.md)
 

@@ -28,7 +28,7 @@
 
 ### Bars and Lines / Diagnostics
 
-*   [ecthelionvi/NeoColumn.nvim (⭐79)](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
+*   [ecthelionvi/NeoColumn.nvim (⭐80)](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
 
 ## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Development tools / Profiling
 
-*   [Bencher (⭐285)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
+*   [Bencher (⭐292)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

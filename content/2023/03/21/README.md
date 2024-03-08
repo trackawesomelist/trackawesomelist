@@ -10,7 +10,7 @@
 
 ### Domain-Specific Projects
 
-*   [xontrib-jupyter (⭐17)](https://github.com/xonsh/xontrib-jupyter) - Jupyter kernel for xonsh, a Python-powered, cross-platform, Unix-gazing shell language.
+*   [xontrib-jupyter (⭐25)](https://github.com/xonsh/xontrib-jupyter) - Jupyter kernel for xonsh, a Python-powered, cross-platform, Unix-gazing shell language.
 
 ## [2. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
@@ -41,14 +41,14 @@
 
 ### Projects / Godot 4.0
 
-*   [Clipboard Narrator (⭐30)](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
+*   [Clipboard Narrator (⭐34)](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Game / Diagnostics
 
-*   [alanfortlink/blackjack.nvim (⭐49)](https://github.com/alanfortlink/blackjack.nvim) - Classic Black Jack game.
-*   [jim-fx/sudoku.nvim (⭐56)](https://github.com/jim-fx/sudoku.nvim) - Classic sudoku puzzle.
+*   [alanfortlink/blackjack.nvim (⭐50)](https://github.com/alanfortlink/blackjack.nvim) - Classic Black Jack game.
+*   [jim-fx/sudoku.nvim (⭐58)](https://github.com/jim-fx/sudoku.nvim) - Classic sudoku puzzle.
 
 ## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

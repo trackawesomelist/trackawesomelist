@@ -31,7 +31,7 @@
 ### SIRI / Ruby
 
 *   [SIRI to GTFS-realtime (⭐8)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-from-siri-cli/wiki) - A Java-based command-line utility to convert from the [SIRI format](https://www.siri.org.uk/) to GTFS-realtime.
-*   [SIRI API (⭐328)](https://github.com/OneBusAway/onebusaway/wiki/SIRI-Resources) - Java classes generated from the v1.0 and v1.3 [SIRI](https://www.siri.org.uk/) schemas.
+*   [SIRI API (⭐331)](https://github.com/OneBusAway/onebusaway/wiki/SIRI-Resources) - Java classes generated from the v1.0 and v1.3 [SIRI](https://www.siri.org.uk/) schemas.
 *   [SIRI 2.0 API (⭐6)](https://github.com/laidig/siri-20-java) - Java classes generated from the v2.0 [SIRI](https://www.siri.org.uk/) schemas.
 
 ## [4. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
@@ -55,7 +55,7 @@
 ### Resources / Community
 
 *   [Coq Zulip chat archive](https://coq.gitlab.io/zulip-archive/)
-*   [coq-community package maintenance project (⭐68)](https://github.com/coq-community/manifesto)
+*   [coq-community package maintenance project (⭐69)](https://github.com/coq-community/manifesto)
 *   [100 famous theorems proved using Coq (⭐53)](https://github.com/coq-community/coq-100-theorems)
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)

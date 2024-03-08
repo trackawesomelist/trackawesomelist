@@ -150,7 +150,7 @@
 ### Component Libraries
 
 *   [github-elements (⭐2.6k)](https://github.com/github/github-elements) - GitHub's Web Component collection.
-*   [Vaadin components (⭐368)](https://github.com/vaadin/web-components) - Evolving set of high-quality web components for building business web applications.
+*   [Vaadin components (⭐383)](https://github.com/vaadin/web-components) - Evolving set of high-quality web components for building business web applications.
 
 ## [12. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
@@ -176,7 +176,7 @@
 
 ### Version Manager / Diagnostics
 
-*   [NTBBloodbath/nvenv (⭐52)](https://github.com/NTBBloodbath/nvenv) - A lightweight and blazing fast Neovim version manager.
+*   [NTBBloodbath/nvenv (⭐53)](https://github.com/NTBBloodbath/nvenv) - A lightweight and blazing fast Neovim version manager.
 
 ---
 

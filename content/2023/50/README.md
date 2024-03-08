@@ -23,7 +23,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [JET (⭐675)](https://github.com/aviatesk/JET.jl) — Static type inference system to detect bugs and type instabilities.
+*   [JET (⭐680)](https://github.com/aviatesk/JET.jl) — Static type inference system to detect bugs and type instabilities.
 *   [cargo-semver-checks](https://crates.io/crates/cargo-semver-checks) — Scan your Rust crate releases for semver violations. It can be used either directly via the CLI, as a GitHub Action in CI,  or via release managers like `release-plz`. It found semver violations in  [more than 1 in 6 of the top 1000 most-downloaded crates](https://predr.ag/blog/semver-violations-are-common-better-tooling-is-the-answer/) on crates.io.
 
 ## [4. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
@@ -45,7 +45,7 @@
 
 ### Other Development Tools / Smart Contracts
 
-*   [puya (⭐41)](https://github.com/algorandfoundation/puya) - PuyaPy is an official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax.
+*   [puya (⭐58)](https://github.com/algorandfoundation/puya) - PuyaPy is an official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax.
 
 ## [6. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 

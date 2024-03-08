@@ -24,7 +24,7 @@
 
 ### Tools / XML
 
-*   [deno\_docker (⭐839)](https://github.com/denoland/deno_docker) - Latest dockerfiles and images for Deno - alpine, centos, debian, ubuntu.
+*   [deno\_docker (⭐841)](https://github.com/denoland/deno_docker) - Latest dockerfiles and images for Deno - alpine, centos, debian, ubuntu.
 
 ## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Motion / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.bracketed (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-bracketed.md) - Module of `mini.nvim` to go forward/backward with square brackets.
+*   [echasnovski/mini.nvim#mini.bracketed (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-bracketed.md) - Module of `mini.nvim` to go forward/backward with square brackets.
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 

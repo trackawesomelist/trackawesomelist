@@ -28,7 +28,7 @@
 
 ### Visualization
 
-*   [jupyter-gmaps (⭐754)](https://github.com/pbugnion/gmaps) - Interactive visualization library for Google Maps in Jupyter notebooks.
+*   [jupyter-gmaps (⭐761)](https://github.com/pbugnion/gmaps) - Interactive visualization library for Google Maps in Jupyter notebooks.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

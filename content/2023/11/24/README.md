@@ -35,7 +35,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [Jxstxs/conceal.nvim (⭐56)](https://github.com/Jxstxs/conceal.nvim) - Use Tree-sitter to conceal common boilerplate code.
+*   [Jxstxs/conceal.nvim (⭐57)](https://github.com/Jxstxs/conceal.nvim) - Use Tree-sitter to conceal common boilerplate code.
 
 ## [6. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 

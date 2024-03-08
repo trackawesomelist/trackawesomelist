@@ -5990,7 +5990,7 @@
 ### RSS2KINDLE / Docsify
 
 *   [Reabble](https://reabble.com/) ([中国镜像](https://reabble.cn/)) <sup>[26](https://t.me/s/aboutrss/26), [1056![Video](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png)](https://t.me/s/aboutrss/1056)</sup>
-    *   [Reabble for Android (⭐109)](https://github.com/zmk-ink/reabble-android) <sup>[1333](https://t.me/s/aboutrss/1333)</sup>: A third-party app [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/zmk-ink/reabble-android)
+    *   [Reabble for Android (⭐113)](https://github.com/zmk-ink/reabble-android) <sup>[1333](https://t.me/s/aboutrss/1333)</sup>: A third-party app [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/zmk-ink/reabble-android)
 *   [WhereMyLife](http://wheremylife.cn/) <sup>[26](https://t.me/s/aboutrss/26), [88](https://t.me/s/aboutrss/88), [284](https://t.me/s/aboutrss/284), [1056![Video](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png)](https://t.me/s/aboutrss/1056)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Self Hosted Readers / Outline Processor Markup Language
@@ -6073,7 +6073,7 @@
 ### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Mac iOS Tech Blogs By Women](https://inessential.com/2015/11/16/blogs_by_women)
-*   [Software Engineering Blogs (⭐28k)](https://github.com/kilimchoi/engineering-blogs/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/kilimchoi/engineering-blogs/)
+*   [Software Engineering Blogs (⭐29k)](https://github.com/kilimchoi/engineering-blogs/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/kilimchoi/engineering-blogs/)
 *   [Tech Blogs shared by Emacs China Forum users](https://emacs-china.org/t/elfeed-tech-feeds-rss/17680) <sup>[1071](https://t.me/s/aboutrss/1071)</sup>
 
 ### Aggregators of Indieblogs / Crypto or Blockchain relevant
@@ -6113,72 +6113,72 @@
 ### Static type checkers
 
 *   [mypy (⭐17k)](https://github.com/python/mypy) - Optional static typing (PEP 484).
-*   [pyanalyze (⭐273)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
+*   [pyanalyze (⭐289)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
 *   [pycharm](https://www.jetbrains.com/pycharm/) - IDE for Professional Developers.
 *   [pyre](https://pyre-check.org/) - Performant type-checker.
-*   [pytype (⭐4.4k)](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
+*   [pytype (⭐4.5k)](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
 
 ### Dynamic type checkers
 
-*   [pytypes (⭐193)](https://github.com/Stewori/pytypes) - Provides a rich set of utilities for runtime typechecking.
-*   [strongtyping (⭐101)](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
+*   [pytypes (⭐195)](https://github.com/Stewori/pytypes) - Provides a rich set of utilities for runtime typechecking.
+*   [strongtyping (⭐103)](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
 
 ### Stub packages
 
-*   [asgiref (⭐1.3k)](https://github.com/django/asgiref) - ASGI specification, provides [asgiref.typing (⭐1.3k)](https://github.com/django/asgiref/blob/main/asgiref/typing.py) module with type annotations for ASGI servers.
+*   [asgiref (⭐1.4k)](https://github.com/django/asgiref) - ASGI specification, provides [asgiref.typing (⭐1.4k)](https://github.com/django/asgiref/blob/main/asgiref/typing.py) module with type annotations for ASGI servers.
 *   [botostubs (⭐95)](https://github.com/jeshan/botostubs) - Gives you code assistance for any boto3 API in any IDE.
-*   [PyQt5-stubs (⭐66)](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
-*   [sqlalchemy-stubs (⭐552)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐8k)](https://github.com/sqlalchemy/sqlalchemy).
-*   [typeshed (⭐3.8k)](https://github.com/python/typeshed) - Collection of library stubs, with static types.
+*   [PyQt5-stubs (⭐69)](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
+*   [sqlalchemy-stubs (⭐555)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐8.5k)](https://github.com/sqlalchemy/sqlalchemy).
+*   [typeshed (⭐4k)](https://github.com/python/typeshed) - Collection of library stubs, with static types.
 
 ### Additional types
 
-*   [meiga (⭐68)](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
-*   [option (⭐69)](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
-*   [phantom-types (⭐166)](https://github.com/antonagestam/phantom-types) - Phantom types.
-*   [returns (⭐3k)](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
-*   [safetywrap (⭐38)](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
-*   [typet (⭐17)](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
+*   [meiga (⭐70)](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
+*   [option (⭐75)](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
+*   [phantom-types (⭐180)](https://github.com/antonagestam/phantom-types) - Phantom types.
+*   [returns (⭐3.2k)](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
+*   [safetywrap (⭐40)](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
+*   [typet (⭐20)](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
 
 ### Backports and improvements
 
-*   [typing-utils (⭐10)](https://github.com/bojiang/typing_utils) - Backport 3.8+ runtime typing utils(for eg: get\_origin) & add issubtype & more.
+*   [typing-utils (⭐11)](https://github.com/bojiang/typing_utils) - Backport 3.8+ runtime typing utils(for eg: get\_origin) & add issubtype & more.
 
 ### Tools / Linters
 
-*   [flake8-pyi (⭐68)](https://github.com/ambv/flake8-pyi) - Plugin for Flake8 that provides specializations for type hinting stub files.
-*   [wemake-python-styleguide (⭐2.3k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated Python linter ever.
+*   [flake8-pyi (⭐70)](https://github.com/ambv/flake8-pyi) - Plugin for Flake8 that provides specializations for type hinting stub files.
+*   [wemake-python-styleguide (⭐2.4k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated Python linter ever.
 
 ### Tools / Testing
 
-*   [pytest-mypy (⭐233)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
+*   [pytest-mypy (⭐237)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
 
 ### Tools / Working with types
 
 *   [com2ann (⭐135)](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
-*   [merge-pyi (⭐4.4k)](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - Part of pytype toolchain, applies stub files onto source code.
+*   [merge-pyi (⭐4.5k)](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - Part of pytype toolchain, applies stub files onto source code.
 *   [mypy-silent (⭐13)](https://github.com/whtsky/mypy-silent/) - Silence mypy by adding or removing code comments.
-*   [typing-inspect (⭐311)](https://github.com/ilevkivskyi/typing_inspect) - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
+*   [typing-inspect (⭐325)](https://github.com/ilevkivskyi/typing_inspect) - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [monkeytype (⭐4.4k)](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
+*   [monkeytype (⭐4.5k)](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
 *   [pytest-annotate (⭐108)](https://github.com/kensho-technologies/pytest-annotate) - Pyannotate plugin for pytest.
 *   [pytest-monkeytype (⭐39)](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
-*   [type4py (⭐53)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
-*   [typilus (⭐52)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐40)](https://github.com/typilus/typilus-action)
+*   [type4py (⭐59)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
+*   [typilus (⭐56)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐40)](https://github.com/typilus/typilus-action)
 
 ### Tools / Mypy plugins
 
 *   [loguru-mypy (⭐15)](https://github.com/kornicameister/loguru-mypy) - Plugin for [loguru (⭐17k)](https://github.com/Delgan/loguru) support.
-*   [pynamodb-mypy (⭐4)](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB (⭐2.3k)](https://github.com/pynamodb/PynamoDB) support.
+*   [pynamodb-mypy (⭐4)](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB (⭐2.4k)](https://github.com/pynamodb/PynamoDB) support.
 
 ### Integrations / Mypy plugins
 
-*   [emacs-flycheck-mypy (⭐37)](https://github.com/lbolla/emacs-flycheck-mypy) - Mypy integration for Emacs.
+*   [emacs-flycheck-mypy (⭐38)](https://github.com/lbolla/emacs-flycheck-mypy) - Mypy integration for Emacs.
 *   [linter-mypy](https://atom.io/packages/linter-mypy) - Mypy integration for Atom.
-*   [mypy-playground (⭐59)](https://github.com/ymyzk/mypy-playground) - Online playground for mypy.
-*   [mypy-pycharm-plugin (⭐310)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
+*   [mypy-playground (⭐63)](https://github.com/ymyzk/mypy-playground) - Online playground for mypy.
+*   [mypy-pycharm-plugin (⭐312)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
 *   [pylance (⭐1.6k)](https://github.com/microsoft/pylance-release) - PyRight integration for VSCode.
 
 ### Articles / Third-party articles
@@ -6224,7 +6224,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [AgonesSDK (⭐49)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐5.7k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
+*   [AgonesSDK (⭐50)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐5.7k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
 *   [StoryTeller Engine (⭐26)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
 
 ## [24. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
@@ -6402,7 +6402,7 @@
 
 ### Software / Search Engines
 
-*   [Whoogle (⭐8.5k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
+*   [Whoogle (⭐8.6k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
 
 ## [44. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
@@ -6413,7 +6413,7 @@
 ### Development / Discovery
 
 *   [devshell (⭐1k)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
-*   [flake-utils (⭐915)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
+*   [flake-utils (⭐957)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
 
 ## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

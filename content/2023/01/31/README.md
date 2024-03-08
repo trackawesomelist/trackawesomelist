@@ -74,7 +74,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [linrongbin16/lsp-progress.nvim (⭐141)](https://github.com/linrongbin16/lsp-progress.nvim) - A performant LSP progress status.
+*   [linrongbin16/lsp-progress.nvim (⭐146)](https://github.com/linrongbin16/lsp-progress.nvim) - A performant LSP progress status.
 
 ### Media / Diagnostics
 

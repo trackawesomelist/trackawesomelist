@@ -166,7 +166,7 @@
 
 ### JupyterLab Extensions
 
-*   [tabnine (⭐32)](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI auto completer extension.
+*   [tabnine (⭐34)](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI auto completer extension.
 
 ## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 

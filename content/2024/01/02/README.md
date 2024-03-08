@@ -16,7 +16,7 @@
 
 ### Third-Party Packages / Configuration
 
-*   [django-classy-settings (⭐29)](https://github.com/funkybob/django-classy-settings) - Class based settings to keep your environments in order, with easy access to typed environment variables.
+*   [django-classy-settings (⭐31)](https://github.com/funkybob/django-classy-settings) - Class based settings to keep your environments in order, with easy access to typed environment variables.
 
 ## [3. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 

@@ -10,12 +10,12 @@
 
 ### Tools / Low-code
 
-*   [Langflow (⭐14k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
+*   [Langflow (⭐15k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
 
 ### Unmaintained / Videos Playlists
 
-*   [LangchainUI (⭐830)](https://github.com/homanp/langchain-ui): The open source chat-ai toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/langchain-ui?style=social)
-*   [Yeager.ai (⭐566)](https://github.com/yeagerai/yeagerai-agent): Yeager.ai Agent is the first Langchain Agent creator designed to help you build, prototype, and deploy AI-powered agents with ease ![GitHub Repo stars](https://img.shields.io/github/stars/yeagerai/yeagerai-agent?style=social)
+*   [LangchainUI (⭐843)](https://github.com/homanp/langchain-ui): The open source chat-ai toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/langchain-ui?style=social)
+*   [Yeager.ai (⭐564)](https://github.com/yeagerai/yeagerai-agent): Yeager.ai Agent is the first Langchain Agent creator designed to help you build, prototype, and deploy AI-powered agents with ease ![GitHub Repo stars](https://img.shields.io/github/stars/yeagerai/yeagerai-agent?style=social)
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -24,10 +24,6 @@
 
 *   [matrix-ada](https://matrix.to/#/#ada-lang_Lobby:gitter.im) - Ada room at Gitter via Matrix.
 
-### News and Resources
-
-*   [ada-planet](https://www.laeran.pl/adaplanet/i/) - News Aggregator from the Ada programming language world. ([RSS feed via Matrix](https://matrix.to/#/#ada-lang:matrix.org))
-
 ## [4. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Pastebins
@@ -46,7 +42,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [igeek (⭐39)](https://github.com/Saleh7/igeek-zsh-theme) - Displays system information when starting a new terminal session.
+*   [igeek (⭐38)](https://github.com/Saleh7/igeek-zsh-theme) - Displays system information when starting a new terminal session.
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 

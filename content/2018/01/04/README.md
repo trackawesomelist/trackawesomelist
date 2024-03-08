@@ -10,7 +10,7 @@
 
 ### Other multimodal data formats / Ruby
 
-*   [GTFS-plus (⭐20)](https://github.com/osplanning-data-standards/GTFS-PLUS) - A GTFS-based transit network format for *vehicle and capacity data* suitable for dynamic transit modeling developed by Puget Sound Regional Council, UrbanLabs LLC, LMZ LLC, and San Francisco County Transportation Authority.
+*   [GTFS-plus (⭐21)](https://github.com/osplanning-data-standards/GTFS-PLUS) - A GTFS-based transit network format for *vehicle and capacity data* suitable for dynamic transit modeling developed by Puget Sound Regional Council, UrbanLabs LLC, LMZ LLC, and San Francisco County Transportation Authority.
 *   [GTFS-stat (⭐4)](https://github.com/osplanning-data-standards/GTFS-STAT) - An extension to a GTFS transit network with additional files that contain performance data developed by UrbanLabs LLC and San Francisco County Transportation Authority.
 
 ## [2. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
@@ -61,12 +61,13 @@
 
 *   [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) – A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
 *   **Editor Integration**:
-    *   [ocaml-lsp (⭐691)](https://github.com/ocaml/ocaml-lsp) - An LSP language server for OCaml that integrates with any editor that understands LSP like [VSCode (⭐156k)](https://github.com/microsoft/vscode), Vim and Emacs.
-    *   [merlin (⭐1.5k)](https://github.com/ocaml/merlin) – Context sensitive completion for Ocaml in Vim and Emacs.
+    *   [ocaml-lsp (⭐700)](https://github.com/ocaml/ocaml-lsp) - An LSP language server for OCaml that integrates with any editor that understands LSP like [VSCode (⭐156k)](https://github.com/microsoft/vscode), Vim and Emacs.
+    *   [merlin (⭐1.5k)](https://github.com/ocaml/merlin) – Context sensitive completion for OCaml in Vim and Emacs.
     *   [tuareg (⭐356)](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
+    *   [opam-switch-mode (⭐5)](https://github.com/ProofGeneral/opam-switch-mode) - Minor mode for Emacs that extends Tuareg and Merlin with menus to change or reset the opam switch in the ambient Emacs session.
     *   [merlin-eldoc (⭐42)](https://github.com/Khady/merlin-eldoc) – Emacs package to provide merlin's features through eldoc.
     *   [vscode-ocaml (⭐172)](https://github.com/hackwaly/vscode-ocaml) – extension that provides OCaml language support for [VSCode (⭐156k)](https://github.com/microsoft/vscode)
-    *   [OCaml Debugger (⭐190)](https://github.com/hackwaly/ocamlearlybird) – extension that provides OCaml Debugger for [VSCode (⭐156k)](https://github.com/microsoft/vscode)
+    *   [OCaml Debugger (⭐192)](https://github.com/hackwaly/ocamlearlybird) – extension that provides OCaml Debugger for [VSCode (⭐156k)](https://github.com/microsoft/vscode)
     *   [Sublime better ocaml (⭐23)](https://github.com/whitequark/sublime-better-ocaml) – Better OCaml mode for Sublime Text.
         *   [Sublime text package (⭐12)](https://github.com/def-lkb/sublime-text-merlin)
     *   [ocp-index](http://www.typerex.org/ocp-index.html) – Easy access to the interface information of installed OCaml libraries. Provides standalone tools like `ocp-browser` and `ocp-grep`.

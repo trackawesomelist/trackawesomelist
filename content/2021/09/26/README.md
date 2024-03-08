@@ -22,7 +22,7 @@
 
 ### Third-Party Packages / Search
 
-*   [django-admin-search (⭐72)](https://github.com/shinneider/django-admin-search) - Modal filter for django admin.
+*   [django-admin-search (⭐73)](https://github.com/shinneider/django-admin-search) - Modal filter for django admin.
 
 ## [4. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

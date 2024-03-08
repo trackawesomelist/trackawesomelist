@@ -48,7 +48,7 @@
 
 ### Learning Resources / Other "awesome" lists in AI and ML
 
-*   [Awesome LLM (⭐12k)](https://github.com/Hannibal046/Awesome-LLM#readme)
+*   [Awesome LLM (⭐13k)](https://github.com/Hannibal046/Awesome-LLM#readme)
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -121,16 +121,16 @@
 
 ### Table of Contents / Content Management Systems (CMS)
 
-*   [WordPress (⭐18k)](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
+*   [WordPress (⭐19k)](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
 
 ### Table of Contents / Event
 
-*   [Elephant.io (⭐59)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
+*   [Elephant.io (⭐65)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 
 ### Configuration / Development Environment
 
 *   [DDEV (⭐2.3k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
-*   [Docksal (⭐663)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
+*   [Docksal (⭐665)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
 
 ### Configuration / Text Editors and IDEs
 
@@ -187,7 +187,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [PHPArkitect (⭐649)](https://github.com/phparkitect/arkitect) — PHPArkitect helps you to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow. You can express the constraint that you want to enforce, in simple and readable PHP code.
+*   [PHPArkitect (⭐653)](https://github.com/phparkitect/arkitect) — PHPArkitect helps you to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow. You can express the constraint that you want to enforce, in simple and readable PHP code.
 
 ## [16. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
@@ -287,15 +287,6 @@
 *   [Spring Cloud Gateway (⭐4.3k) (⭐4.3k)](https://github.com/spring-cloud/spring-cloud-gateway) - An API Gateway built on top of the Spring ecosystem, providing advanced routing and filtering features for Spring applications.
 *   [Tyk API Gateway (⭐9.1k) (⭐9.1k)](https://github.com/TykTechnologies/tyk) - An open source Enterprise API Gateway that supports REST, GraphQL, TCP, and gRPC protocols. It provides advanced API management features such as rate limiting, access control, and analytics.
 
-### Projects / API Testing
-
-*   MQ clients
-    *   [JMSToolBox (⭐189) (⭐189)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
-    *   [kcat (⭐5.1k) (⭐5.2k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
-    *   [MQTT Explorer (⭐2.6k) (⭐2.7k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
-    *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
-    *   [Service Bus Explorer (⭐1.9k) (⭐1.9k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
-
 ### Projects / Messaging
 
 *   [Apache Qpid (⭐56) (⭐56)](https://github.com/apache/qpid-broker-j) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
@@ -335,15 +326,15 @@
 
 ### 2D / Godot 4.2
 
-*   [Poder Solar (⭐3)](https://github.com/antimundo/poder-solar) - Simple resource management game.
+*   [Poder Solar (⭐7)](https://github.com/antimundo/poder-solar) - Simple resource management game.
 
 ### 3D / Godot 4.2
 
-*   [LibreAim (⭐8)](https://github.com/antimundo/libre-aim) - Libre FPS aim trainer made with Godot.
+*   [LibreAim (⭐17)](https://github.com/antimundo/libre-aim) - Libre FPS aim trainer made with Godot.
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot Spin Button (⭐31)](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options (Godot 4.x).
+*   [Godot Spin Button (⭐34)](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options (Godot 4.x).
 
 ## [29. Awesome V](/content/vlang/awesome-v/week/README.md)
 
@@ -366,7 +357,7 @@
 
 ### Database
 
-*   [Reindexer (⭐750)](https://github.com/Restream/reindexer) - Embeddable, in-memory, document-oriented database with a high-level Query builder interface. \[Apache2] [website](https://reindexer.io/)
+*   [Reindexer (⭐751)](https://github.com/Restream/reindexer) - Embeddable, in-memory, document-oriented database with a high-level Query builder interface. \[Apache2] [website](https://reindexer.io/)
 
 ## [32. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -388,7 +379,7 @@
 
 ### Gems / Other external resources
 
-*   [alba (⭐838)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby, and TruffleRuby. [:red\_circle:](https://rubygems.org/gems/alba)
+*   [alba (⭐843)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby, and TruffleRuby. [:red\_circle:](https://rubygems.org/gems/alba)
 
 ## [35. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/week/README.md)
 
@@ -540,7 +531,7 @@
 
 ### Development tools / Web Servers
 
-*   [envio-cli/envio (⭐646)](https://github.com/envio-cli/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/envio-cli/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/envio-cli/envio/actions/workflows/CICD.yml)
+*   [envio-cli/envio (⭐715)](https://github.com/envio-cli/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/envio-cli/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/envio-cli/envio/actions/workflows/CICD.yml)
 
 ### Libraries / Markup language
 
@@ -609,7 +600,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [css-media-splitter/vite-plugin (⭐3)](https://github.com/levchak0910/css-media-splitter) - Extracts all `@media` At-rules into a dedicated `.css` files and download it only when matches the media query.
+*   [css-media-splitter/vite-plugin (⭐23)](https://github.com/levchak0910/css-media-splitter) - Extracts all `@media` At-rules into a dedicated `.css` files and download it only when matches the media query.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -617,7 +608,7 @@
 
 ### React / Loaders
 
-*   [vite-plugin-react-rich-svg (⭐2)](https://github.com/iGoodie/vite-plugin-react-rich-svg) - Seamless SVG loader with versatile import options; such as DataURI, SVGR Component and Raw HTML Code.
+*   [vite-plugin-react-rich-svg (⭐4)](https://github.com/iGoodie/vite-plugin-react-rich-svg) - Seamless SVG loader with versatile import options; such as DataURI, SVGR Component and Raw HTML Code.
 
 ## [43. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -671,23 +662,23 @@
 
 ### Plugin Manager
 
-*   [echasnovski/mini.nvim#mini.deps (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-deps.md) - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
+*   [echasnovski/mini.nvim#mini.deps (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-deps.md) - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
 
 ### (requires Neovim 0.5) / Diagnostics
 
-*   [artemave/workspace-diagnostics.nvim (⭐29)](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
+*   [artemave/workspace-diagnostics.nvim (⭐49)](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
 
 ### Note Taking / Diagnostics
 
-*   [backdround/global-note.nvim (⭐1)](https://github.com/backdround/global-note.nvim) - One global note in a floating window.
+*   [backdround/global-note.nvim (⭐67)](https://github.com/backdround/global-note.nvim) - One global note in a floating window.
 
 ### Terminal Integration / Diagnostics
 
-*   [RAprogramm/nekifoch (⭐4)](https://github.com/RAprogramm/nekifoch) - Managing Kitty terminal font settings.
+*   [RAprogramm/nekifoch (⭐8)](https://github.com/RAprogramm/nekifoch) - Managing Kitty terminal font settings.
 
 ### OS-specific / Diagnostics
 
-*   [massix/termux.nvim (⭐1)](https://github.com/massix/termux.nvim) - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
+*   [massix/termux.nvim (⭐6)](https://github.com/massix/termux.nvim) - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
 
 ---
 

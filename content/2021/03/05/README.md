@@ -59,7 +59,7 @@
 
 ### Plugin Manager
 
-*   [savq/paq-nvim (⭐628)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
+*   [savq/paq-nvim (⭐629)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
 
 ### Git / Diagnostics
 
@@ -122,7 +122,7 @@
 
 ### Software / Video Surveillance
 
-*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐539)](https://github.com/kerberos-io/agent)) `MIT` `Docker/K8S`
+*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐551)](https://github.com/kerberos-io/agent)) `MIT` `Docker/K8S`
 
 ## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

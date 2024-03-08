@@ -224,7 +224,7 @@
 
 ### Demo
 
-*   [Xeta (⭐54)](https://github.com/XetaIO/Xeta) - A resource to help people starting with CakePHP.
+*   [Xeta (⭐53)](https://github.com/XetaIO/Xeta) - A resource to help people starting with CakePHP.
 
 ## [23. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 

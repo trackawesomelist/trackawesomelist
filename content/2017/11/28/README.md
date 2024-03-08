@@ -45,7 +45,6 @@
 *   [List of proposed operation modes of AES](http://csrc.nist.gov/groups/ST/toolkit/BCM/modes_development.html) - Maintained by NIST.
 *   [Stick figure guide to AES](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html) - If stuff above was a bit hard or you're looking for a good laugh.
 *   [Cache timing attacks on AES](http://cr.yp.to/antiforgery/cachetiming-20050414.pdf) - Example of designing great practical attack on cipher implementation, by Daniel J. Bernstein.
-*   [Cache Attacks and Countermeasures: the Case of AES](http://cs.tau.ac.il/~tromer/papers/cache.pdf) - Side channel attacks on AES, another view, by Dag Arne Osvik, Adi Shamir and Eran Tromer.
 *   [Salsa20 family of stream ciphers](https://cr.yp.to/snuffle/salsafamily-20071225.pdf) - Broad explanation of Salsa20 security cipher by Daniel J. Bernstein.
 *   [AES submission document on Rijndael](https://csrc.nist.gov/csrc/media/projects/cryptographic-standards-and-guidelines/documents/aes-development/rijndael-ammended.pdf#page=1) - Original Rijndael proposal by Joan Daemen and Vincent Rijmen.
 
@@ -72,7 +71,6 @@
 
 ### Specific topics / Zero Knowledge Proofs
 
-*   [How to construct zero-knowledge proof systems for NP](http://www.wisdom.weizmann.ac.il/~oded/gmw1.html) - Classic paper by Goldreich,  Micali and Wigderson.
 *   [Proofs that yield nothing but their validity and a Methodology of Cryptographic protocol design](http://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/GMW86/GMW86.pdf) - By Goldreich,  Micali and Wigderson, a relative to the above.
 *   [A Survey of Zero-Knowledge Proofs with Applications to Cryptography](http://www.austinmohr.com/work/files/zkp.pdf) - Great intro on original ZKP protocols.
 

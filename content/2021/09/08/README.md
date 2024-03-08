@@ -28,7 +28,7 @@
 
 ### Tools / Community providers
 
-*   [Shisho (⭐365)](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
+*   [Shisho (⭐366)](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 

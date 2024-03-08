@@ -10,7 +10,7 @@
 
 ### Driver crates / Other
 
-*   [SHTCx](http://crates.io/crates/shtcx) - I2C - Temperature / humidity sensors - [github (⭐11)](https://github.com/dbrgn/shtcx-rs) - ![crates.io](https://img.shields.io/crates/v/shtcx.svg)
+*   [SHTCx](http://crates.io/crates/shtcx) - I2C - Temperature / humidity sensors - [github (⭐12)](https://github.com/dbrgn/shtcx-rs) - ![crates.io](https://img.shields.io/crates/v/shtcx.svg)
 
 ## [2. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -107,7 +107,7 @@ Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [OTS](https://ots.fyi/) - One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser. ([Source Code (⭐380)](https://github.com/Luzifer/ots)) `Apache-2.0` `Go`
+*   [OTS](https://ots.fyi/) - One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser. ([Source Code (⭐388)](https://github.com/Luzifer/ots)) `Apache-2.0` `Go`
 
 ---
 

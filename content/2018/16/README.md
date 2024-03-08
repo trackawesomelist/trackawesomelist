@@ -548,7 +548,7 @@
 
 ### Software / Conference Management
 
-*   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐628)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
+*   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐643)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
 
 ## [26. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 

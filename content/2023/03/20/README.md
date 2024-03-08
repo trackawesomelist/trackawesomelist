@@ -102,7 +102,7 @@
 
 ### Code Runner / Diagnostics
 
-*   [MarcHamamji/runner.nvim (⭐39)](https://github.com/MarcHamamji/runner.nvim) - A customizable Lua code runner.
+*   [MarcHamamji/runner.nvim (⭐40)](https://github.com/MarcHamamji/runner.nvim) - A customizable Lua code runner.
 
 ### Game / Diagnostics
 

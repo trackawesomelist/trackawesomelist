@@ -210,7 +210,7 @@
 
 ### Applications
 
-*   [zellij (⭐16k)](https://github.com/zellij-org/zellij) — A terminal multiplexer (workspace) with batteries included
+*   [zellij (⭐17k)](https://github.com/zellij-org/zellij) — A terminal multiplexer (workspace) with batteries included
 
 ## [4. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
@@ -262,7 +262,7 @@
 
 ### Modules / Godot 4.0
 
-*   [FMOD GD4 (⭐46)](https://github.com/summertimejordi/fmod_gd4) - FMOD Studio API integration.
+*   [FMOD GD4 (⭐47)](https://github.com/summertimejordi/fmod_gd4) - FMOD Studio API integration.
 
 ## [12. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 

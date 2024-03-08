@@ -43,7 +43,7 @@
 
 ### Projects / Tools
 
-*   [Alectryon (⭐212)](https://github.com/cpitclaudel/alectryon) - Collection of tools for writing technical documents that mix Coq code and prose.
+*   [Alectryon (⭐213)](https://github.com/cpitclaudel/alectryon) - Collection of tools for writing technical documents that mix Coq code and prose.
 
 ### Projects / Verified Software
 
@@ -73,7 +73,7 @@
 
 ### GTFS Validators / Ruby
 
-*   [Transit App's gtfs-fares-v2-validator (⭐5)](https://github.com/TransitApp/gtfs-fares-v2-validator) - A Python tool that validators GTFS-Fares-v2 data based on the [draft specification](https://docs.google.com/document/d/19j-f-wZ5C_kYXmkLBye1g42U-kvfSVgYLkkG5oyBauY/edit#).
+*   [Transit App's gtfs-fares-v2-validator (⭐6)](https://github.com/TransitApp/gtfs-fares-v2-validator) - A Python tool that validators GTFS-Fares-v2 data based on the [draft specification](https://docs.google.com/document/d/19j-f-wZ5C_kYXmkLBye1g42U-kvfSVgYLkkG5oyBauY/edit#).
 
 ## [7. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

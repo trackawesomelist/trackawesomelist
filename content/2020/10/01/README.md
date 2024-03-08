@@ -41,7 +41,7 @@
 
 ### Code Analysis and Linters
 
-*   [Camelot (⭐42)](https://github.com/upenn-cis1xx/camelot) - Camelot is a modular and fully configurable OCaml linter and stylechecker.
+*   [Camelot (⭐43)](https://github.com/upenn-cis1xx/camelot) - Camelot is a modular and fully configurable OCaml linter and stylechecker.
 
 ## [7. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
@@ -281,7 +281,7 @@
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [AnonAddy](https://anonaddy.com) - Open source email forwarding service for creating aliases. ([Source Code (⭐2.8k)](https://github.com/anonaddy/anonaddy)) `MIT` `PHP/Docker`
+*   [AnonAddy](https://anonaddy.com) - Open source email forwarding service for creating aliases. ([Source Code (⭐2.9k)](https://github.com/anonaddy/anonaddy)) `MIT` `PHP/Docker`
 
 ## [26. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

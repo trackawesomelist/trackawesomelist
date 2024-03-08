@@ -10,11 +10,11 @@
 
 ### Open Source Projects / Knowledge Management
 
-*   [DataChad (⭐284)](https://github.com/gustavz/DataChad): A streamlit app that lets you chat with any data source. Supporting both OpenAI and local mode with GPT4All. ![GitHub Repo stars](https://img.shields.io/github/stars/gustavz/DataChad?style=social)
+*   [DataChad (⭐295)](https://github.com/gustavz/DataChad): A streamlit app that lets you chat with any data source. Supporting both OpenAI and local mode with GPT4All. ![GitHub Repo stars](https://img.shields.io/github/stars/gustavz/DataChad?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [GPT Migrate (⭐6.5k)](https://github.com/0xpayne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
+*   [GPT Migrate (⭐6.8k)](https://github.com/0xpayne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
 
 ### Learn / Videos Playlists
 
@@ -24,7 +24,7 @@
 
 ### Modules / Database
 
-*   [dongoose (⭐17)](https://github.com/roonie007/dongoose) - A simple and easy to use ORM for Deno KV.
+*   [dongoose (⭐18)](https://github.com/roonie007/dongoose) - A simple and easy to use ORM for Deno KV.
 
 ### Modules / Web utils
 

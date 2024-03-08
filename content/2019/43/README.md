@@ -580,11 +580,11 @@
 
 ### Software / Software Development - Project Management
 
-*   [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code (⭐4.9k)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
+*   [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code (⭐5k)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
 
 ### Software / Video Surveillance
 
-*   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐182)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
+*   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐188)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
 
 ## [50. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -717,15 +717,15 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 ### Projects / Boilerplate
 
 *   [cookiecutter-django (⭐11k)](https://github.com/pydanny/cookiecutter-django/) - A full-bodied starter project, highly customizable.
-*   [DRFx (⭐461)](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
-*   [docker-django (⭐177)](https://github.com/erroneousboat/docker-django/) - A quick starter guide for Django and Docker together.
+*   [DRFx (⭐464)](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
+*   [docker-django (⭐178)](https://github.com/erroneousboat/docker-django/) - A quick starter guide for Django and Docker together.
 *   [wemake-django-template (⭐1.9k)](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
 *   [django-webpack-starter (⭐58)](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
 
 ### Projects / Open Source Projects
 
-*   [Blog app with users and forms (⭐1k)](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
-*   [Behavior-Driven Development with Aloe (⭐36)](https://github.com/testdrivenio/django-aloe-bdd/)
+*   [Blog app with users and forms (⭐1.1k)](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
+*   [Behavior-Driven Development with Aloe (⭐38)](https://github.com/testdrivenio/django-aloe-bdd/)
 
 ### Django REST Framework / DRF Resources
 

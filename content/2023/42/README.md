@@ -22,41 +22,47 @@
 
 *   [Ruby AI Builders Discord](https://discord.gg/zDyFJFBTGB)
 
-## [3. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [3. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+
+### Open source / Apache License
+
+*   [augusta (⭐27)](https://github.com/pchapin/augusta) - Ada compiler written in Scala that targets LLVM.
+
+## [4. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Infinite Scroll
 
 *   [@af-utils/virtual (⭐71)](https://github.com/nowaalex/af-utils) - [demo/docs](https://af-utils.vercel.app/virtual) - Render large scrollable lists and grids.
 
-## [4. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [5. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Types / Playground
 
-*   [string-ts (⭐1k)](https://github.com/gustavoguichard/string-ts) - Strongly-typed string functions for all
+*   [string-ts (⭐1.1k)](https://github.com/gustavoguichard/string-ts) - Strongly-typed string functions for all
 
 ### Validation / Playground
 
-*   [valibot (⭐4.3k)](https://github.com/fabian-hiller/valibot) - Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies.
+*   [valibot (⭐4.9k)](https://github.com/fabian-hiller/valibot) - Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies.
 
-## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Crash Courses
 
 *   [Zero to Hero Algorand Ecosystem Onboarding Guide](https://payhip.com/bamboriz) - Speak Fluent Algorand in 24 Hours.
 
-## [6. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
+## [7. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
 
 ### Useful links with tips & tricks
 
 *   [How to Use GitHub as a Wiki: Examples & Templates](https://almanac.io/blog/github-wiki-examples-templates)
 
-## [7. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [8. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### Clearnet & Anonymous Networking / DNS
 
 *   [dnscrypt-proxy](https://forum.qubes-os.org/t/guide-how-to-setup-a-sys-dns-qube/13749) -  Run dnscrypt-proxy inside of sys-net to encrypt and secure dns-requests.
 
-## [8. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [9. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Communities / Voxel Editors
 
@@ -67,7 +73,7 @@
 *   [Brackeys Forum](https://forum.brackeys.com/)
 *   [GameDev.tv](https://community.gamedev.tv/)
 
-## [9. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [10. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Idea Generation
 
@@ -141,7 +147,7 @@
 
 
 
-## [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Media
 
@@ -151,7 +157,7 @@
 
 *   [Ejimo (⭐33)](https://github.com/albemala/emoji-picker) - Cross-platform emoji and symbol picker by [albemala](https://github.com/albemala)
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Utilities
 
@@ -166,7 +172,7 @@
 *   [Stellar UI (⭐12)](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
 *   [TW Elemetns for Vue](https://tw-elements.com/docs/standard/integrations/vue-integration/) - Vue integration with Tailwind CSS - a free, open-source UI Kit
 
-## [12. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [13. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Reverse Proxy
 
@@ -176,7 +182,7 @@
 
 *   [uniget (⭐4)](https://github.com/uniget-org/cli) - uni(versal)get, the installer and updater for container tools and beyond (formerly docker-setup). By [@nicholasdille](https://github.com/nicholasdille)
 
-## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Money, Budgeting & Management
 
@@ -186,7 +192,7 @@
 
 *   [rs-short](https://git.42l.fr/42l/rs-short) - A lightweight link shortener written in Rust, with features such as caching, spambot protection and phishing detection. ([Demo](https://s.42l.fr/)) `MPL-2.0` `Rust`
 
-## [14. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [15. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Tools / Ironsworn
 
@@ -194,7 +200,7 @@
 *   [Starforged Custom Oracles Module for FoundryVTT](https://foundryvtt.com/packages/starforged-custom-oracles) - A FoundryVTT compendium of the fan-created oracles for the Ironsworn: Starforged system
 *   [Starsmith Expanded Oracles Module for FoundryVTT](https://foundryvtt.com/packages/starsmith-expanded-oracles) - A FoundryVTT compendium of the Starsmith oracles for the Ironsworn: Starforged system
 
-## [15. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [16. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Deployment Hosting
 
@@ -204,7 +210,7 @@
 
 *   [Sequin](https://sequin.io/) - Interface with third-party services using SQL.
 
-## [16. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [17. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tutorials and Blog Posts / Beginner Guides
 
@@ -222,19 +228,19 @@
 
 *   [Speakeasy](https://www.speakeasyapi.dev/) - Generate a terraform provider from an OpenAPI specification.
 
-## [17. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [18. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Functions
 
 *   [munch](https://hackage.haskell.org/package/base-4.19.0.0/docs/Text-ParserCombinators-ReadP.html#v:munch) - Parser function that greedily consumes an input stream until it's satisfied.
 
-## [18. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [19. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Integration
 
 *   [tailwind-react](https://tw-elements.com/docs/standard/integrations/react-integration/) - Article that shows you how to integrate React application with Tailwind
 
-## [19. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
+## [20. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
 
 ### Open source projects using TypeDB
 
@@ -297,19 +303,19 @@
 *   [LinkedIn](https://www.linkedin.com/groups/13657731/)
 *   [Blog](https://typedb.com/blog)
 
-## [20. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [21. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line utilities
 
 *   [listr2 (⭐442)](https://github.com/listr2/listr2) - Terminal task list.
 
-## [21. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [22. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
 *   [Landing AI](https://landing.ai/) - Building computer vision systems in minutes via natural prompting interactions.
 
-## [22. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [23. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Community
 
@@ -361,25 +367,25 @@
 
 *   [ngx-observers (⭐0)](https://github.com/Raiper34/ngx-observers) - Ngx observers is library to allow developer use Resize, Mutation and Intersection observer api like normal output events on some element.
 
-## [23. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+## [24. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
 
 ### Golang
 
 *   [Go Web 编程](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/) - astaxie
 
-## [24. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [25. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Related / Awesome Lists
 
 *   [Awesome Software Quality (⭐2.1k)](https://github.com/ligurio/sqa-wiki) - A list of free software testing and verification resources.
 
-## [25. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [26. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Apps
 
 *   [StorageBox (⭐19)](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 
-## [26. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [27. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Swift
 
@@ -389,7 +395,7 @@
 
 *   [*Practical Reverse Engineering* by Bruce Dang, Alexandre Gazet, Elias Bachaalany, Sébastien Josse](https://www.wiley.com/en-ca/Practical+Reverse+Engineering%3A+x86%2C+x64%2C+ARM%2C+Windows+Kernel%2C+Reversing+Tools%2C+and+Obfuscation-p-9781118787250)
 
-## [27. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [28. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Tools / Environment managers
 
@@ -399,7 +405,7 @@
 
 *   [Contributor - Community Driven IaC](https://www.contributor.fyi/opentofu)
 
-## [28. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [29. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
@@ -410,13 +416,13 @@
 
 *   [GitGuardian ggshield](https://www.gitguardian.com/ggshield) — ggshield is a CLI application that runs in your local environment  or in a CI environment to help you detect more than 350+ types of secrets,  as well as other potential security vulnerabilities or policy breaks affecting your codebase.
 
-## [29. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [30. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Chatbots
 
-*   [Phind](https://www.phind.com/) - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
+*   [Phind](https://www.phind.com/) - *[reviews](https://altern.ai/product/phind)* - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
 
-## [30. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [31. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Trading & Backtesting
 
@@ -426,7 +432,7 @@
 
 *   [MesoSim Options Trading Strategy Library (⭐5)](https://github.com/deltaray-io/strategy-library) - Free and public Options Trading strategy library for MesoSim.
 
-## [31. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [32. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
@@ -443,43 +449,43 @@
 *   [Machine Learning with Polars](https://youtube.com/playlist?list=PL6FP7t_F5uo60l16AWCJJHLE6liGPqa7u\&si=uNsH5I7GUojXeJmw) ⏳ 6 videos - A playlist of 6 videos that analyzing and cleaning data using Polars to train machine learning models by [Joram Mutenge](https://www.linkedin.com/in/jorammutenge/).
 *   [Pandas and Polars with Marco Gorelli](https://thebakery.dev/68/) ⏳ `55 min` - A podcast by The Developers' Bakery that compares the performance of Polars to Pandas by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
-## [32. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [33. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### LangChain Framework
 
-*   [LangServe (⭐1.1k)](https://github.com/langchain-ai/langserve): LangServe helps developers deploy LangChain runnables and chains as a REST API. ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langserve?style=social)
+*   [LangServe (⭐1.4k)](https://github.com/langchain-ai/langserve): LangServe helps developers deploy LangChain runnables and chains as a REST API. ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langserve?style=social)
 
 ### Tools / Agents
 
-*   [GPT Researcher (⭐6.2k)](https://github.com/assafelovic/gpt-researcher): GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
-*   [waggledance.ai (⭐130)](https://github.com/agi-merge/waggle-dance): An opinionated, concurrent system of AI Agents. It implements Plan-Validate-Solve with data and tools for general goal-solving. ![GitHub Repo stars](https://img.shields.io/github/stars/agi-merge/waggle-dance?style=social)
+*   [GPT Researcher (⭐7.4k)](https://github.com/assafelovic/gpt-researcher): GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
+*   [waggledance.ai (⭐150)](https://github.com/agi-merge/waggle-dance): An opinionated, concurrent system of AI Agents. It implements Plan-Validate-Solve with data and tools for general goal-solving. ![GitHub Repo stars](https://img.shields.io/github/stars/agi-merge/waggle-dance?style=social)
 
 ### Tools / Platforms
 
-*   [Openllmetry (⭐606)](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
+*   [Openllmetry (⭐901)](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Lobe Chat (⭐14k)](https://github.com/lobehub/lobe-chat) An open-source, extensible (Function Calling), high-performance chatbot framework ![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)
-*   [Funcchain (⭐173)](https://github.com/shroominic/funcchain): write prompts, pythonic ![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/funcchain?style=social)
-*   [PersonalityChatbot (⭐19)](https://github.com/btrcm00/chatbot-with-langchain): Langchain chatbot for chat with personality using Langchain🦜 | LangSmith | MongoDB. ![GitHub Repo stars](https://img.shields.io/github/stars/btrcm00/chatbot-with-langchain?style=social)
+*   [Lobe Chat (⭐22k)](https://github.com/lobehub/lobe-chat) An open-source, extensible (Function Calling), high-performance chatbot framework ![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)
+*   [Funcchain (⭐270)](https://github.com/shroominic/funcchain): write prompts, pythonic ![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/funcchain?style=social)
+*   [PersonalityChatbot (⭐26)](https://github.com/btrcm00/chatbot-with-langchain): Langchain chatbot for chat with personality using Langchain🦜 | LangSmith | MongoDB. ![GitHub Repo stars](https://img.shields.io/github/stars/btrcm00/chatbot-with-langchain?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Magentic (⭐1.4k)](https://github.com/jackmpcollins/magentic): Seamlessly integrate LLMs as Python functions ![GitHub Repo stars](https://img.shields.io/github/stars/jackmpcollins/magentic?style=social)
-*   [Autogen (⭐19k)](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications.
-*   [Flappy (⭐276)](https://github.com/pleisto/flappy): Production-Ready LLM Agent SDK for Every Developer ![Github Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social)
-*   [MemGPT (⭐7k)](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
+*   [Magentic (⭐1.5k)](https://github.com/jackmpcollins/magentic): Seamlessly integrate LLMs as Python functions ![GitHub Repo stars](https://img.shields.io/github/stars/jackmpcollins/magentic?style=social)
+*   [Autogen (⭐23k)](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications.
+*   [Flappy (⭐294)](https://github.com/pleisto/flappy): Production-Ready LLM Agent SDK for Every Developer ![Github Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social)
+*   [MemGPT (⭐7.9k)](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
 
 ### Complement to this list / Videos Playlists
 
-*   [Awesome Language Agents (⭐466)](https://github.com/ysymyth/awesome-language-agents): List of language agents based on paper "Cognitive Architectures for Language Agents" ![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=social): ⚡️Open-source LangChain-like AI knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, Google Gemini, HuggingFace, OpenRouter, ChatGLM and local models ![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=social)
+*   [Awesome Language Agents (⭐541)](https://github.com/ysymyth/awesome-language-agents): List of language agents based on paper "Cognitive Architectures for Language Agents" ![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=social): ⚡️Open-source LangChain-like AI knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, Google Gemini, HuggingFace, OpenRouter, ChatGLM and local models ![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=social)
 
-## [33. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [34. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / AI Concept Representation
 
-*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐7.6k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
+*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐7.7k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
 
 ### Complexity & Information Theory / Theory
 
@@ -497,7 +503,7 @@
 
 *   [Song-Chun Zhu](https://zhusongchun.net/) - ***School of AI and Institute for AI, Peking University (PKU)***.
 
-## [34. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [35. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Books
 
@@ -511,13 +517,13 @@
 
 *   [How to: Keycloak - ASP.NET Core - Angular (⭐18)](https://github.com/fschick/Keycloak.ASPNet.Angular)
 
-## [35. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
+## [36. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
 ### Software Tools / Analysis Tools
 
 *   [cwe\_checker (⭐957)](https://github.com/fkie-cad/cwe_checker) - Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support.
 
-## [36. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [37. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Analytics
 
@@ -542,13 +548,13 @@
 
 *   [Mint (Cinnamon)](https://linuxmint.com/edition.php?id=305) is a beginner friendly distribution.
 
-## [37. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [38. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Scanning / Pentesting
 
 *   [CakeFuzzer (⭐84)](https://github.com/Zigrin-Security/CakeFuzzer) - The ultimate web application security testing tool for CakePHP-based web applications. CakeFuzzer employs a predefined set of attacks that are randomly modified before execution. Leveraging its deep understanding of the Cake PHP framework, Cake Fuzzer launches attacks on all potential application entry points.
 
-## [38. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [39. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Community / Community Chat Rooms
 
@@ -556,23 +562,23 @@
 
 ### no-std crates / WIP
 
-*   [ethercrab (⭐169)](https://github.com/ethercrab-rs/ethercrab): A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - ![crates.io](https://img.shields.io/crates/v/ethercrab.svg)
+*   [ethercrab (⭐172)](https://github.com/ethercrab-rs/ethercrab): A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - ![crates.io](https://img.shields.io/crates/v/ethercrab.svg)
 
 ### Firmware projects / WIP
 
-*   [rmk (⭐71)](https://github.com/HaoboGu/rmk): Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
+*   [rmk (⭐75)](https://github.com/HaoboGu/rmk): Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
 
-## [39. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [40. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Utility
 
 *   [dialog (⭐14)](https://github.com/ttytm/dialog) - A cross-platform utility library to open system dialogs - open files, message boxes, color-pickers etc.
 
-## [40. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [41. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / User Interfaces
 
-*   [Waterproof editor (⭐28)](https://github.com/impermeable/waterproof) - Educational environment for writing mathematical proofs in interactive notebooks.
+*   [Waterproof editor (⭐30)](https://github.com/impermeable/waterproof) - Educational environment for writing mathematical proofs in interactive notebooks.
 
 ### Projects / Package and Build Management
 
@@ -581,16 +587,6 @@
 ### Projects / Plugins
 
 *   [Waterproof proof language (⭐25)](https://github.com/impermeable/coq-waterproof) - Plugin providing a language for writing proof scripts in a style that resembles non-mechanized mathematical proof.
-
-## [41. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
-
-### Open source / Apache License
-
-*   [augusta (⭐27)](https://github.com/pchapin/augusta) - Ada compiler written in Scala that targets LLVM.
-
-### OS and Kernels / Apache License
-
-*   [ironclad](https://ironclad.cx/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐60)](https://github.com/streaksu/Gloire).
 
 ## [42. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -1871,20 +1867,20 @@
 
 ### (requires Neovim 0.5)
 
-*   [vxpm/ferris.nvim (⭐76)](https://github.com/vxpm/ferris.nvim) - Interact with Rust-Analyzer's LSP extensions.
+*   [vxpm/ferris.nvim (⭐79)](https://github.com/vxpm/ferris.nvim) - Interact with Rust-Analyzer's LSP extensions.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.pick (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pick.md) - Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more.
+*   [echasnovski/mini.nvim#mini.pick (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pick.md) - Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [oxfist/night-owl.nvim (⭐144)](https://github.com/oxfist/night-owl.nvim) - A [Night Owl colorscheme port from VSCode (⭐2.8k)](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens.
-*   [text-to-colorscheme (⭐260)](https://github.com/svermeulen/text-to-colorscheme) - Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT.
+*   [oxfist/night-owl.nvim (⭐152)](https://github.com/oxfist/night-owl.nvim) - A [Night Owl colorscheme port from VSCode (⭐2.8k)](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens.
+*   [text-to-colorscheme (⭐264)](https://github.com/svermeulen/text-to-colorscheme) - Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT.
 
 ### Statusline / Diagnostics
 
-*   [sontungexpt/sttusline (⭐66)](https://github.com/sontungexpt/sttusline) - Very lightweight, super fast and lazyloading statusline.
+*   [sontungexpt/sttusline (⭐69)](https://github.com/sontungexpt/sttusline) - Very lightweight, super fast and lazyloading statusline.
 
 ### Media / Diagnostics
 
@@ -1892,11 +1888,11 @@
 
 ### Terminal Integration / Diagnostics
 
-*   [niuiic/terminal.nvim (⭐12)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
+*   [niuiic/terminal.nvim (⭐13)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
 
 ### Code Runner / Diagnostics
 
-*   [dasupradyumna/launch.nvim (⭐36)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
+*   [dasupradyumna/launch.nvim (⭐42)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
 
 ### Neovim Lua Development / Diagnostics
 
@@ -1904,7 +1900,7 @@
 
 ### Motion / Diagnostics
 
-*   [gsuuon/tshjkl.nvim (⭐90)](https://github.com/gsuuon/tshjkl.nvim) - Toggle to navigate and select tree-sitter nodes with hjkl.
+*   [gsuuon/tshjkl.nvim (⭐94)](https://github.com/gsuuon/tshjkl.nvim) - Toggle to navigate and select tree-sitter nodes with hjkl.
 
 ### Preconfigured Configuration / Diagnostics
 
@@ -1927,9 +1923,9 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [hebzsh (⭐1)](https://github.com/admons/hebzsh) - If a command is not found as typed in Hebrew, translates the command as if it was typed on a keyboard with a US English layout and tries again.
-*   [history-sync (vitobotta) (⭐15)](https://github.com/vitobotta/zsh-history-sync/) - Syncs your ZSH history across computers using a `git` private repository. Uses `openssl` to encrypt the history.
-*   [history-sync (wulfgarpro) (⭐223)](https://github.com/wulfgarpro/history-sync) - An [oh-my-zsh](https://ohmyz.sh/) plugin for [GPG](https://www.gnupg.org/) encrypted, Internet synchronized ZSH history using `git`.
-*   [select-with-lf (⭐3)](https://github.com/chmouel/zsh-select-with-lf) - Lets user select files or a directory using [lf (⭐6.9k)](https://github.com/gokcehan/lf).
+*   [history-sync (vitobotta) (⭐16)](https://github.com/vitobotta/zsh-history-sync/) - Syncs your ZSH history across computers using a `git` private repository. Uses `openssl` to encrypt the history.
+*   [history-sync (wulfgarpro) (⭐224)](https://github.com/wulfgarpro/history-sync) - An [oh-my-zsh](https://ohmyz.sh/) plugin for [GPG](https://www.gnupg.org/) encrypted, Internet synchronized ZSH history using `git`.
+*   [select-with-lf (⭐4)](https://github.com/chmouel/zsh-select-with-lf) - Lets user select files or a directory using [lf (⭐7k)](https://github.com/gokcehan/lf).
 
 ## [72. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 

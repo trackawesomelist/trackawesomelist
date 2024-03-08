@@ -47,7 +47,7 @@
 
 ### Third-Party Packages / Testing
 
-*   [django-pattern-library (⭐317)](https://github.com/torchbox/django-pattern-library) - Pattern library generator for Django templates, to help testing of UI components.
+*   [django-pattern-library (⭐323)](https://github.com/torchbox/django-pattern-library) - Pattern library generator for Django templates, to help testing of UI components.
 
 ## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

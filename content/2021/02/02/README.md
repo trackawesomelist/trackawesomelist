@@ -89,9 +89,9 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 
 ### (requires Neovim 0.5)
 
-*   [nvim-lua/lsp-status.nvim (⭐615)](https://github.com/nvim-lua/lsp-status.nvim) - This is a plugin/library for generating statusline components from the built-in LSP client.
-*   [RishabhRD/nvim-lsputils (⭐437)](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions.
-*   [kosayoda/nvim-lightbulb (⭐720)](https://github.com/kosayoda/nvim-lightbulb) - The plugin shows a lightbulb in the sign column whenever a `textDocument/codeAction` is available at the current cursor position.
+*   [nvim-lua/lsp-status.nvim (⭐617)](https://github.com/nvim-lua/lsp-status.nvim) - This is a plugin/library for generating statusline components from the built-in LSP client.
+*   [RishabhRD/nvim-lsputils (⭐436)](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions.
+*   [kosayoda/nvim-lightbulb (⭐719)](https://github.com/kosayoda/nvim-lightbulb) - The plugin shows a lightbulb in the sign column whenever a `textDocument/codeAction` is available at the current cursor position.
 
 ### (requires Neovim 0.5) / LSP Installer
 
@@ -100,12 +100,12 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 
 ### Fuzzy Finder / Diagnostics
 
-*   [vijaymarupudi/nvim-fzf (⭐311)](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using FZF (Neovim >= 0.5). Allows for full asynchronicity for UI speed and usability.
+*   [vijaymarupudi/nvim-fzf (⭐313)](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using FZF (Neovim >= 0.5). Allows for full asynchronicity for UI speed and usability.
 
 ### Editing Support / Diagnostics
 
 *   [windwp/nvim-autopairs (⭐2.7k)](https://github.com/windwp/nvim-autopairs) - A minimalist autopairs written by Lua.
-*   [monaqa/dial.nvim (⭐688)](https://github.com/monaqa/dial.nvim) - Extended increment/decrement.
+*   [monaqa/dial.nvim (⭐693)](https://github.com/monaqa/dial.nvim) - Extended increment/decrement.
 
 ## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 

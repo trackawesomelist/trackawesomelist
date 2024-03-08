@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 18 - Sep 24, 2023
 
-50 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,8 +22,8 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [eza (clavelm) (⭐0)](https://github.com/clavelm/eza-omz-plugin) - Replaces `ls` with [eza-community/eza (⭐5.5k)](https://github.com/eza-community/eza).
-*   [eza (z-shell) (⭐27)](https://github.com/z-shell/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐5.5k)](https://github.com/eza-community/eza).
+*   [eza (clavelm) (⭐0)](https://github.com/clavelm/eza-omz-plugin) - Replaces `ls` with [eza-community/eza (⭐6k)](https://github.com/eza-community/eza).
+*   [eza (z-shell) (⭐28)](https://github.com/z-shell/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐6k)](https://github.com/eza-community/eza).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -265,11 +265,11 @@
 
 ### Learn / Notebooks
 
-*   [Large Language Models Course (⭐279)](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) ![GitHub Repo stars](https://img.shields.io/github/stars/peremartra/Large-Language-Model-Notebooks-Course?style=social)
+*   [Large Language Models Course (⭐513)](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) ![GitHub Repo stars](https://img.shields.io/github/stars/peremartra/Large-Language-Model-Notebooks-Course?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LangStream (⭐307)](https://github.com/LangStream/langstream): Framework for building and running event-driven LLM applications using no-code and Python (including LangChain-based) agents. ![GitHub Repo stars](https://img.shields.io/github/stars/LangStream/langstream?style=social)
+*   [LangStream (⭐333)](https://github.com/LangStream/langstream): Framework for building and running event-driven LLM applications using no-code and Python (including LangChain-based) agents. ![GitHub Repo stars](https://img.shields.io/github/stars/LangStream/langstream?style=social)
 
 ## [28. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
@@ -337,7 +337,7 @@
 
 ### Software / Blogging Platforms
 
-*   [Mataroa](https://mataroa.blog/) - Mataroa is a naked blogging platform for minimalists. ([Source Code (⭐175)](https://github.com/mataroa-blog/mataroa)) `MIT` `Python`
+*   [Mataroa](https://mataroa.blog/) - Mataroa is a naked blogging platform for minimalists. ([Source Code (⭐178)](https://github.com/mataroa-blog/mataroa)) `MIT` `Python`
 
 ### Software / Learning and Courses
 
@@ -345,7 +345,7 @@
 
 ### Software / Search Engines
 
-*   [Websurfx (⭐528)](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
+*   [Websurfx (⭐548)](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
 
 ### Software / Software Development - API Management
 
@@ -589,11 +589,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [Wansmer/symbol-usage.nvim (⭐162)](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols.
+*   [Wansmer/symbol-usage.nvim (⭐175)](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols.
 
 ### (requires Neovim 0.5) / Diagnostics
 
-*   [chrisgrieser/nvim-rulebook (⭐58)](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
+*   [chrisgrieser/nvim-rulebook (⭐61)](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -601,25 +601,25 @@
 
 ### Tabline / Diagnostics
 
-*   [willothy/nvim-cokeline (⭐460)](https://github.com/willothy/nvim-cokeline) - A bufferline for people with addictive personalities.
+*   [willothy/nvim-cokeline (⭐469)](https://github.com/willothy/nvim-cokeline) - A bufferline for people with addictive personalities.
 
 ### Utility / Diagnostics
 
-*   [sontungexpt/url-open (⭐44)](https://github.com/sontungexpt/url-open) - Open URLs under the cursor and create highlight effects for them.
-*   [luckasRanarison/nvim-devdocs (⭐210)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
+*   [sontungexpt/url-open (⭐51)](https://github.com/sontungexpt/url-open) - Open URLs under the cursor and create highlight effects for them.
+*   [luckasRanarison/nvim-devdocs (⭐215)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
 
 ### Terminal Integration / Diagnostics
 
-*   [willothy/wezterm.nvim (⭐106)](https://github.com/willothy/wezterm.nvim) - Functions for interacting with Wezterm.
-*   [mikesmithgh/kitty-scrollback.nvim (⭐260)](https://github.com/mikesmithgh/kitty-scrollback.nvim) - Open your Kitty scrollback buffer. Ameowzing.
+*   [willothy/wezterm.nvim (⭐116)](https://github.com/willothy/wezterm.nvim) - Functions for interacting with Wezterm.
+*   [mikesmithgh/kitty-scrollback.nvim (⭐277)](https://github.com/mikesmithgh/kitty-scrollback.nvim) - Open your Kitty scrollback buffer. Ameowzing.
 
 ### Quickfix / Diagnostics
 
-*   [yorickpeterse/nvim-pqf (⭐63)](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows.
+*   [yorickpeterse/nvim-pqf (⭐69)](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows.
 
 ### Git / Diagnostics
 
-*   [chrisgrieser/nvim-tinygit (⭐81)](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble git client.
+*   [chrisgrieser/nvim-tinygit (⭐93)](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble git client.
 
 ### Editing Support / Diagnostics
 
@@ -627,15 +627,15 @@
 
 ### Session / Diagnostics
 
-*   [coffebar/neovim-project (⭐105)](https://github.com/coffebar/neovim-project) - Declarative project management, automatic saving of sessions, uses Telescope.
+*   [coffebar/neovim-project (⭐113)](https://github.com/coffebar/neovim-project) - Declarative project management, automatic saving of sessions, uses Telescope.
 
 ### Split and Window / Diagnostics
 
-*   [yorickpeterse/nvim-window (⭐58)](https://github.com/yorickpeterse/nvim-window) - Easily jump between Neovim windows.
+*   [yorickpeterse/nvim-window (⭐62)](https://github.com/yorickpeterse/nvim-window) - Easily jump between Neovim windows.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [chrisgrieser/nvim-kickstart-python (⭐79)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
+*   [chrisgrieser/nvim-kickstart-python (⭐84)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
 
 ### OS-specific / Diagnostics
 
@@ -655,19 +655,13 @@
 
 *   [CometLLM (⭐362)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
 
-## [46. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
-
-### Libraries / Algebraic Data Types
-
-*   [sweet-monads (⭐294)](https://github.com/JSMonk/sweet-monads) - A collection of popular monads (such as `Either` and `Maybe`) and the lazy iterator.
-
-## [47. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [46. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Translations
 
 *   [French (⭐1)](https://github.com/alexture/awesome-translations/tree/fr_FR)
 
-## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -749,18 +743,18 @@
 
 *   [Dwh.dev](https://dwh.dev) - Data Cloud Observability Solution (Snowflake). Free for personal use.
 
-### Other Free Resources
-
-*   [Buff.tools](https://buff.tools/) - An all-in-one digital toolbox featuring Web, SEO, AI, Domain Management, unit conversion, calculators, and Image Manipulation Tools.
-
-## [49. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [48. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
 *   [BoxCam2D (⭐17)](https://github.com/sarooptech/BoxCam2D) - Simplest way to implement grid-based 2D camera movement (Godot 3.x).
-*   [Simplified Flight Simulation library (⭐132)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x, 4.x).
+*   [Simplified Flight Simulation library (⭐137)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x, 4.x).
 
-## [50. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [49. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [sweet-monads (⭐296)](https://github.com/JSMonk/sweet-monads) - Typescript library for popular monads (such as `Maybe` or `Either`) and performant iterators.
 
 ### :free: Free Courses / Chrome Extensions
 

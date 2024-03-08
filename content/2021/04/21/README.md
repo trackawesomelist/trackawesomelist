@@ -96,7 +96,7 @@
 
 ### Motion / Stepper
 
-*   [ticlib (⭐16)](https://github.com/jphalip/ticlib) - Driver for Pololu Tic stepper motor controllers.
+*   [ticlib (⭐17)](https://github.com/jphalip/ticlib) - Driver for Pololu Tic stepper motor controllers.
 
 ## [13. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

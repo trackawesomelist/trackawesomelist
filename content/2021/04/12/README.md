@@ -106,8 +106,8 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [RRethy/nvim-base16 (⭐442)](https://github.com/RRethy/nvim-base16) - Neovim plugin for building base16 colorschemes. Includes support for Treesitter and LSP highlight groups.
-*   [fenetikm/falcon (⭐688)](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
+*   [RRethy/nvim-base16 (⭐445)](https://github.com/RRethy/nvim-base16) - Neovim plugin for building base16 colorschemes. Includes support for Treesitter and LSP highlight groups.
+*   [fenetikm/falcon (⭐692)](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
 
 ## [7. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)
 

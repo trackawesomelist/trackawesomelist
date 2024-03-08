@@ -22,7 +22,7 @@
 
 ### Showcases / XML
 
-*   [Edrys (⭐284)](https://github.com/edrys-org/edrys) - Remote Teaching Software
+*   [Edrys (⭐287)](https://github.com/edrys-org/edrys) - Remote Teaching Software
 
 ## [4. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 

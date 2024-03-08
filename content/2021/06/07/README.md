@@ -440,11 +440,11 @@
 
 ### Utility / Diagnostics
 
-*   [jghauser/mkdir.nvim (⭐203)](https://github.com/jghauser/mkdir.nvim) - Automatically create missing directories when saving files.
+*   [jghauser/mkdir.nvim (⭐204)](https://github.com/jghauser/mkdir.nvim) - Automatically create missing directories when saving files.
 
 ### Debugging / Diagnostics
 
-*   [rcarriga/nvim-dap-ui (⭐2k)](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap.
+*   [rcarriga/nvim-dap-ui (⭐2.1k)](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap.
 
 ## [13. Public Apis](/content/public-apis/public-apis/README.md)
 

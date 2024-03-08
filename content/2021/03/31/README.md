@@ -50,7 +50,7 @@
 
 ### Deployment Tools / Discovery
 
-*   [Colmena (⭐861)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
+*   [Colmena (⭐901)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
 
 ### Programming Languages / Crystal
 

@@ -16,7 +16,7 @@
 
 ### Firmware projects / WIP
 
-*   [rmk (⭐71)](https://github.com/HaoboGu/rmk): Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
+*   [rmk (⭐75)](https://github.com/HaoboGu/rmk): Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -50,19 +50,19 @@
 
 ### Tools / Agents
 
-*   [GPT Researcher (⭐6.2k)](https://github.com/assafelovic/gpt-researcher): GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
+*   [GPT Researcher (⭐7.4k)](https://github.com/assafelovic/gpt-researcher): GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
 
 ### Tools / Platforms
 
-*   [Openllmetry (⭐606)](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
+*   [Openllmetry (⭐901)](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [PersonalityChatbot (⭐19)](https://github.com/btrcm00/chatbot-with-langchain): Langchain chatbot for chat with personality using Langchain🦜 | LangSmith | MongoDB. ![GitHub Repo stars](https://img.shields.io/github/stars/btrcm00/chatbot-with-langchain?style=social)
+*   [PersonalityChatbot (⭐26)](https://github.com/btrcm00/chatbot-with-langchain): Langchain chatbot for chat with personality using Langchain🦜 | LangSmith | MongoDB. ![GitHub Repo stars](https://img.shields.io/github/stars/btrcm00/chatbot-with-langchain?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [MemGPT (⭐7k)](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
+*   [MemGPT (⭐7.9k)](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
 
 ## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [text-to-colorscheme (⭐260)](https://github.com/svermeulen/text-to-colorscheme) - Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT.
+*   [text-to-colorscheme (⭐264)](https://github.com/svermeulen/text-to-colorscheme) - Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT.
 
 ### Neovim Lua Development / Diagnostics
 
@@ -112,7 +112,7 @@
 
 ### Motion / Diagnostics
 
-*   [gsuuon/tshjkl.nvim (⭐90)](https://github.com/gsuuon/tshjkl.nvim) - Toggle to navigate and select tree-sitter nodes with hjkl.
+*   [gsuuon/tshjkl.nvim (⭐94)](https://github.com/gsuuon/tshjkl.nvim) - Toggle to navigate and select tree-sitter nodes with hjkl.
 
 ## [11. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 

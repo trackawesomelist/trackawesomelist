@@ -233,7 +233,7 @@
 
 ### GTFS Based Visualizations
 
-*   [gtfspy-webviz (⭐47)](https://github.com/CxAalto/gtfspy-webviz) - Web application for animation and visualization of GTFS data using [gtfspy (⭐147)](https://github.com/CxAalto/gtfspy).
+*   [gtfspy-webviz (⭐47)](https://github.com/CxAalto/gtfspy-webviz) - Web application for animation and visualization of GTFS data using [gtfspy (⭐150)](https://github.com/CxAalto/gtfspy).
 
 ## [23. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -468,7 +468,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Developer Tools / Developer Utilities
 
-*   [Dash](https://kapeli.com/dash) - Awesome API documentation browser and code snippet manager.
+*   [Dash](https://kapeli.com/dash) - Awesome API documentation browser and code snippet manager. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Databases
 

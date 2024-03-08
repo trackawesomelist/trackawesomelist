@@ -22,7 +22,7 @@
 
 ### Contents / CLI
 
-*   [atlas (⭐4.5k)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
+*   [atlas (⭐4.6k)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
 
 ### Contents / Server
 
@@ -138,19 +138,19 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Software / Analytics
 
-*   [Aptabase](https://aptabase.com/) - Open source, privacy first and simple analytics for mobile and desktop apps. ([Source Code (⭐532)](https://github.com/aptabase/aptabase)) `AGPL-3.0` `Docker`
+*   [Aptabase](https://aptabase.com/) - Open source, privacy first and simple analytics for mobile and desktop apps. ([Source Code (⭐560)](https://github.com/aptabase/aptabase)) `AGPL-3.0` `Docker`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Anahita](https://www.anahita.io/) - Open Source Social Networking Framework and Platform. ([Source Code (⭐429)](https://github.com/anahitasocial/anahita)) `GPL-3.0` `PHP`
+*   [Anahita](https://www.anahita.io/) - Open Source Social Networking Framework and Platform. ([Source Code (⭐431)](https://github.com/anahitasocial/anahita)) `GPL-3.0` `PHP`
 
 ### Software / Document Management
 
-*   [Papermerge](https://papermerge.com) - Open Source Document Management System focused on scanned documents (electronic archives). Features file browsing in similar way to dropbox/google drive. OCR, full text search, text overlay/selection. ([Source Code (⭐2.2k)](https://github.com/ciur/papermerge)) `Apache-2.0` `Python/Docker/K8S`
+*   [Papermerge](https://papermerge.com) - Open Source Document Management System focused on scanned documents (electronic archives). Features file browsing in similar way to dropbox/google drive. OCR, full text search, text overlay/selection. ([Source Code (⭐2.3k)](https://github.com/ciur/papermerge)) `Apache-2.0` `Python/Docker/K8S`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [vod2pod-rss (⭐165)](https://github.com/madiele/vod2pod-rss) `⚠` - Convert YouTube and Twitch channels to podcasts, no storage required. Transcodes VoDs to MP3 192k on the fly, generates an RSS feed to use in podcast clients. `MIT` `Docker`
+*   [vod2pod-rss (⭐169)](https://github.com/madiele/vod2pod-rss) `⚠` - Convert YouTube and Twitch channels to podcasts, no storage required. Transcodes VoDs to MP3 192k on the fly, generates an RSS feed to use in podcast clients. `MIT` `Docker`
 
 ## [16. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -195,19 +195,19 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Tools / Agents
 
-*   [Local GPT (⭐18k)](https://github.com/PromtEngineer/localGPT): Inspired on Private GPT with the GPT4ALL model replaced with the Vicuna-7B model and using the InstructorEmbeddings instead of LlamaEmbeddings ![GitHub Repo stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social)
+*   [Local GPT (⭐19k)](https://github.com/PromtEngineer/localGPT): Inspired on Private GPT with the GPT4ALL model replaced with the Vicuna-7B model and using the InstructorEmbeddings instead of LlamaEmbeddings ![GitHub Repo stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [SuperAGI (⭐13k)](https://github.com/TransformerOptimus/SuperAGI): A dev-first open source autonomous AI agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)
-*   [e2b (⭐5.7k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
+*   [SuperAGI (⭐14k)](https://github.com/TransformerOptimus/SuperAGI): A dev-first open source autonomous AI agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)
+*   [e2b (⭐5.8k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
 *   [SmartGPT (⭐1.7k)](https://github.com/Cormanz/smartgpt): A program that provides LLMs with the ability to complete complex tasks using plugins. ![GitHub Repo stars](https://img.shields.io/github/stars/Cormanz/smartgpt?style=social)
-*   [TermGPT (⭐380)](https://github.com/Sentdex/TermGPT): Giving LLMs like GPT-4 the ability to plan and execute terminal commands ![GitHub Repo stars](https://img.shields.io/github/stars/Sentdex/TermGPT?style=social)
+*   [TermGPT (⭐390)](https://github.com/Sentdex/TermGPT): Giving LLMs like GPT-4 the ability to plan and execute terminal commands ![GitHub Repo stars](https://img.shields.io/github/stars/Sentdex/TermGPT?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [WingmanAI (⭐415)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
-*   [TutorGPT (⭐609)](https://github.com/plastic-labs/tutor-gpt): Dynamic few-shot metaprompting for the task of tutoring. ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)
+*   [WingmanAI (⭐416)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
+*   [TutorGPT (⭐638)](https://github.com/plastic-labs/tutor-gpt): Dynamic few-shot metaprompting for the task of tutoring. ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)
 
 ## [22. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -240,7 +240,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Calendar
 
-*   [date-picker-svelte (⭐264)](https://github.com/probablykasper/date-picker-svelte) - A date and time picker for Svelte with clean UX.
+*   [date-picker-svelte (⭐273)](https://github.com/probablykasper/date-picker-svelte) - A date and time picker for Svelte with clean UX.
 
 ## [26. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
@@ -314,17 +314,17 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Audio
 
-*   [umidiparser (⭐23)](https://github.com/bixb922/umidiparser) - MIDI file parser for MicroPython, CircuitPython and Python.
+*   [umidiparser (⭐24)](https://github.com/bixb922/umidiparser) - MIDI file parser for MicroPython, CircuitPython and Python.
 
 ### Display / Fonts
 
-*   [framebuf2 (⭐5)](https://github.com/peter-l5/framebuf2) - MicroPython FrameBuffer extension: larger and rotated font, triangles and circles.
+*   [framebuf2 (⭐6)](https://github.com/peter-l5/framebuf2) - MicroPython FrameBuffer extension: larger and rotated font, triangles and circles.
 
 ## [34. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Static type checkers
 
-*   [pylyzer (⭐1.1k)](https://github.com/mtshiba/pylyzer/) - A fast static code analyzer & language server for Python, written in Rust.
+*   [pylyzer (⭐1.3k)](https://github.com/mtshiba/pylyzer/) - A fast static code analyzer & language server for Python, written in Rust.
 
 ## [35. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
@@ -336,9 +336,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Tables
 
-*   [buckaroo (⭐20)](https://github.com/paddymul/buckaroo) - GUI Data Wrangling tool for Jupyter and pandas.
-*   [ipyaggrid (⭐28)](https://github.com/widgetti/ipyaggrid) -  The power of ag-Grid in Jupyter.
-*   [ipydatagrid (⭐413)](https://github.com/bloomberg/ipydatagrid) - Fast datagrid widget for Jupyter.
+*   [buckaroo (⭐96)](https://github.com/paddymul/buckaroo) - GUI Data Wrangling tool for Jupyter and pandas.
+*   [ipyaggrid (⭐49)](https://github.com/widgetti/ipyaggrid) -  The power of ag-Grid in Jupyter.
+*   [ipydatagrid (⭐483)](https://github.com/bloomberg/ipydatagrid) - Fast datagrid widget for Jupyter.
 
 ## [37. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -426,8 +426,8 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [cmd-time (⭐1)](https://github.com/TomfromBerlin/zsh-cmd-time) - Collects the execution time of commands and exports the result to a variable that can be used elsewhere. It is similar to the built-in [REPORTTIME](http://zsh.sourceforge.net/Doc/Release/Parameters.html) function, but it is also slightly different. Unlike when you set `REPORTTIME`, it considers user and sytem time, not just CPU time.
 *   [coffee-time (⭐1)](https://github.com/gakimball/zsh-coffee-time) - Adds the `caf` alias, which runs `caffeinate -dims`. The extra flags keep everything awake: the system, the drive, and the display.
-*   [gpt (⭐9)](https://github.com/antonjs/zsh-gpt) - Enable querying ChatGPT from the command line.
-*   [macos-theme (⭐0)](https://github.com/gakimball/zsh-macos-theme) - Adds the theme command, which toggles between light and dark mode in macOS. Requires [lux (⭐30)](https://github.com/pndurette/zsh-lux) plugin.
+*   [gpt (⭐10)](https://github.com/antonjs/zsh-gpt) - Enable querying ChatGPT from the command line.
+*   [macos-theme (⭐0)](https://github.com/gakimball/zsh-macos-theme) - Adds the theme command, which toggles between light and dark mode in macOS. Requires [lux (⭐32)](https://github.com/pndurette/zsh-lux) plugin.
 *   [projen (⭐0)](https://github.com/p6m7g8/p6-zsh-projen-plugin) - Adds aliases for [projen (⭐2.4k)](https://github.com/projen/projen).
 
 ## [42. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
@@ -497,11 +497,11 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Color / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.hipatterns (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-hipatterns.md) - Module of `mini.nvim` to highlight patterns in text with configurable highlighters. Works asynchronously with configurable debounce delay.
+*   [echasnovski/mini.nvim#mini.hipatterns (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-hipatterns.md) - Module of `mini.nvim` to highlight patterns in text with configurable highlighters. Works asynchronously with configurable debounce delay.
 
 ### Bars and Lines / Diagnostics
 
-*   [Bekaboo/dropbar.nvim (⭐715)](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box.
+*   [Bekaboo/dropbar.nvim (⭐744)](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box.
 
 ### Utility / Diagnostics
 
@@ -510,7 +510,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Code Runner / Diagnostics
 
-*   [google/executor.nvim (⭐115)](https://github.com/google/executor.nvim) - Allows you to run command line tasks in the background and be notified of results.
+*   [google/executor.nvim (⭐118)](https://github.com/google/executor.nvim) - Allows you to run command line tasks in the background and be notified of results.
 
 ---
 

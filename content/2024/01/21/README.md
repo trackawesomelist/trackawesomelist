@@ -26,7 +26,7 @@
 
 ### Utility / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.notify (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-notify.md) - Module of `mini.nvim` to show one or more highlighted notifications in a single window. Provides maker of `vim.notify()` implementation and sets up automated LSP progress updates.
+*   [echasnovski/mini.nvim#mini.notify (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-notify.md) - Module of `mini.nvim` to show one or more highlighted notifications in a single window. Provides maker of `vim.notify()` implementation and sets up automated LSP progress updates.
 
 ## [4. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 

@@ -55,7 +55,7 @@
 
 ### no-std crates / WIP
 
-*   [Rubble (⭐394)](https://github.com/jonas-schievink/rubble): A pure-Rust embedded BLE stack ![crates.io](https://img.shields.io/crates/v/rubble.svg)
+*   [Rubble (⭐393)](https://github.com/jonas-schievink/rubble): A pure-Rust embedded BLE stack ![crates.io](https://img.shields.io/crates/v/rubble.svg)
 
 ## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

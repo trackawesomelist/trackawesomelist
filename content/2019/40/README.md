@@ -158,7 +158,7 @@
 
 ### Web / Playground
 
-*   :octocat: [n8n.io (⭐36k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
+*   :octocat: [n8n.io (⭐39k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 
 ## [12. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -458,7 +458,7 @@
 
 ### Tools / Repair or Validate CSV
 
-*   [scrubcsv (⭐54)](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
+*   [scrubcsv (⭐56)](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
 
 ### Generate Table Schema / Repair or Validate CSV
 
@@ -1782,11 +1782,11 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Software / Communication - IRC
 
-*   [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code (⭐405)](https://github.com/ngircd/ngircd)) `GPL-2.0` `C/deb`
+*   [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code (⭐411)](https://github.com/ngircd/ngircd)) `GPL-2.0` `C/deb`
 
 ### Software / Games
 
-*   [piqueserver (⭐192)](https://github.com/piqueserver/piqueserver) - Server for openspades, the first-person shooter in a destructible voxel world. ([Clients (⭐1.1k)](https://github.com/yvt/openspades)) `GPL-3.0` `Python/C++`
+*   [piqueserver (⭐191)](https://github.com/piqueserver/piqueserver) - Server for openspades, the first-person shooter in a destructible voxel world. ([Clients (⭐1.1k)](https://github.com/yvt/openspades)) `GPL-3.0` `Python/C++`
 
 ## [72. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

@@ -30,7 +30,7 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [JetBrains/skiko (⭐1.6k)](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
+*   [JetBrains/skiko (⭐1.7k)](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
 
 ## [4. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 

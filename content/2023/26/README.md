@@ -59,7 +59,7 @@
 ### Resources / Learning
 
 *   [Nix - A One Pager](https://code.tvl.fyi/about/nix/nix-1p) - A one page introduction to the Nix language.
-*   [NixOS & Flakes Book (⭐1.2k)](https://github.com/ryan4yin/nixos-and-flakes-book) - An unofficial and opinionated NixOS & Flakes book for beginners.
+*   [NixOS & Flakes Book (⭐1.3k)](https://github.com/ryan4yin/nixos-and-flakes-book) - An unofficial and opinionated NixOS & Flakes book for beginners.
 *   [Wombat's Book of Nix](https://mhwombat.codeberg.page/nix-book/) - A book-length introduction to Nix and flakes.
 
 ## [9. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
@@ -260,7 +260,7 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 ### Programming Languages / [Other](#other-1)
 
-*   [Regal (⭐195)](https://github.com/styrainc/regal) — Regal is a linter for the policy language Rego. Regal aims to catch bugs and mistakes in policy code, while at the same time helping people learn the language, best practices and idiomatic constructs.
+*   [Regal (⭐203)](https://github.com/styrainc/regal) — Regal is a linter for the policy language Rego. Regal aims to catch bugs and mistakes in policy code, while at the same time helping people learn the language, best practices and idiomatic constructs.
 
 ## [24. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
@@ -356,7 +356,7 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 ### Software / Communication - Custom Communication Systems
 
 *   [Dendrite](https://matrix-org.github.io/dendrite/) - Second-generation Matrix homeserver written in Go. It intends to provide an efficient, reliable and scalable alternative to Synapse. ([Source Code (⭐5.3k)](https://github.com/matrix-org/dendrite)) `Apache-2.0` `Go`
-*   [Synapse](https://matrix-org.github.io/synapse/latest/) - Server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication. ([Source Code (⭐430)](https://github.com/element-hq/synapse)) `Apache-2.0` `Python/deb`
+*   [Synapse](https://matrix-org.github.io/synapse/latest/) - Server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication. ([Source Code (⭐503)](https://github.com/element-hq/synapse)) `Apache-2.0` `Python/deb`
 
 ### Software / DNS
 
@@ -364,16 +364,16 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Lodestone (⭐618)](https://github.com/Lodestone-Team/lodestone) - A free, open source server hosting tool for Minecraft and other multiplayers. `AGPL-3.0` `Docker/Rust`
+*   [Lodestone (⭐623)](https://github.com/Lodestone-Team/lodestone) - A free, open source server hosting tool for Minecraft and other multiplayers. `AGPL-3.0` `Docker/Rust`
 *   [SourceBans++](https://sbpp.github.io/) - Admin, ban, and communication management system for games running on the Source engine. ([Source Code (⭐316)](https://github.com/sbpp/sourcebans-pp)) `CC-BY-SA-4.0` `PHP`
 
 ### Software / Miscellaneous
 
-*   [Mere Medical](https://meremedical.co/) `⚠` - With Mere Medical, you can finally manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first. ([Demo](https://demo.meremedical.co), [Source Code (⭐37)](https://github.com/cfu288/mere-medical)) `GPL-3.0` `Docker/Nodejs`
+*   [Mere Medical](https://meremedical.co/) `⚠` - With Mere Medical, you can finally manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first. ([Demo](https://demo.meremedical.co), [Source Code (⭐41)](https://github.com/cfu288/mere-medical)) `GPL-3.0` `Docker/Nodejs`
 
 ### Software / Software Development - FaaS & Serverless
 
-*   [Kubero](https://www.kubero.dev/) - A self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps. ([Demo](https://demo.kubero.dev/), [Source Code (⭐1.8k)](https://github.com/kubero-dev/kubero)) `GPL-3.0` `K8S/Nodejs/Go`
+*   [Kubero](https://www.kubero.dev/) - A self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps. ([Demo](https://demo.kubero.dev/), [Source Code (⭐1.9k)](https://github.com/kubero-dev/kubero)) `GPL-3.0` `K8S/Nodejs/Go`
 
 ## [32. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -412,41 +412,41 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 ### Ports to other languages
 
-*   [LangChain4j (⭐1.3k)](https://github.com/langchain4j/langchain4j): LangChain for Java ![GitHub Repo stars](https://img.shields.io/github/stars/langchain4j/langchain4j?style=social)
+*   [LangChain4j (⭐2.1k)](https://github.com/langchain4j/langchain4j): LangChain for Java ![GitHub Repo stars](https://img.shields.io/github/stars/langchain4j/langchain4j?style=social)
 
 ### Tools / Services
 
-*   [FastAPI + Chroma (⭐38)](https://github.com/experienced-dev/chatgpt-plugin-fastapi-langchain-chroma): An Example Plugin for ChatGPT, Utilizing FastAPI, LangChain and Chroma
+*   [FastAPI + Chroma (⭐39)](https://github.com/experienced-dev/chatgpt-plugin-fastapi-langchain-chroma): An Example Plugin for ChatGPT, Utilizing FastAPI, LangChain and Chroma
 
 ### Tools / Agents
 
-*   [Multi-Modal LangChain agents in Production (⭐379)](https://github.com/steamship-packages/langchain-agent-production-starter): Deploy LangChain Agents and connect them to Telegram ![GitHub Repo stars](https://img.shields.io/github/stars/steamship-packages/langchain-agent-production-starter?style=social)
-*   [DemoGPT (⭐1.4k)](https://github.com/melih-unsal/DemoGPT): DemoGPT enables you to create quick demos by just using prompt. It applies ToT approach on Langchain documentation tree. ![GitHub Repo stars](https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social)
+*   [Multi-Modal LangChain agents in Production (⭐395)](https://github.com/steamship-packages/langchain-agent-production-starter): Deploy LangChain Agents and connect them to Telegram ![GitHub Repo stars](https://img.shields.io/github/stars/steamship-packages/langchain-agent-production-starter?style=social)
+*   [DemoGPT (⭐1.5k)](https://github.com/melih-unsal/DemoGPT): DemoGPT enables you to create quick demos by just using prompt. It applies ToT approach on Langchain documentation tree. ![GitHub Repo stars](https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social)
 
 ### Tools / Templates
 
-*   [AI (⭐5.4k)](https://github.com/vercel-labs/ai): Vercel template to build AI-powered applications with React, Svelte, and Vue, first class support for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai?style=social)
-*   [AI Getting Started (⭐3.8k)](https://github.com/a16z-infra/ai-getting-started): A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs ![GitHub Repo stars](https://img.shields.io/github/stars/a16z-infra/ai-getting-started?style=social)
-*   [Embedchain (⭐6.2k)](https://github.com/embedchain/embedchain): Framework to easily create LLM powered bots over any dataset. ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
+*   [AI (⭐6.8k)](https://github.com/vercel-labs/ai): Vercel template to build AI-powered applications with React, Svelte, and Vue, first class support for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai?style=social)
+*   [AI Getting Started (⭐3.9k)](https://github.com/a16z-infra/ai-getting-started): A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs ![GitHub Repo stars](https://img.shields.io/github/stars/a16z-infra/ai-getting-started?style=social)
+*   [Embedchain (⭐7.8k)](https://github.com/embedchain/embedchain): Framework to easily create LLM powered bots over any dataset. ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
 
 ### Open Source Projects / Knowledge Management
 
-*   [DocNavigator (⭐94)](https://github.com/vgulerianb/DocNavigator): AI-powered chatbot builder that is designed to improve the user experience on product documentation/support websites ![GitHub Repo stars](https://img.shields.io/github/stars/vgulerianb/DocNavigator?style=social)
-*   [ChatFiles (⭐3k)](https://github.com/guangzhengli/ChatFiles): Upload your document and then chat with it. Powered by GPT / Embedding / TS / NextJS. ![GitHub Repo stars](https://img.shields.io/github/stars/guangzhengli/ChatFiles?style=social)
+*   [DocNavigator (⭐106)](https://github.com/vgulerianb/DocNavigator): AI-powered chatbot builder that is designed to improve the user experience on product documentation/support websites ![GitHub Repo stars](https://img.shields.io/github/stars/vgulerianb/DocNavigator?style=social)
+*   [ChatFiles (⭐3.1k)](https://github.com/guangzhengli/ChatFiles): Upload your document and then chat with it. Powered by GPT / Embedding / TS / NextJS. ![GitHub Repo stars](https://img.shields.io/github/stars/guangzhengli/ChatFiles?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Robby-Chatbot (⭐650)](https://github.com/yvann-hub/Robby-chatbot): AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡.
-*   [AI Chatbot (⭐3.6k)](https://github.com/vercel-labs/ai-chatbot): A full-featured, hackable Next.js AI chatbot built by Vercel Labs ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai-chatbot?style=social)
-*   [Instrukt (⭐203)](https://github.com/blob42/Instrukt): A fully-fledged AI environment in the terminal. Build, test and instruct agents. ![GitHub Repo stars](https://img.shields.io/github/stars/blob42/Instrukt?style=social)
-*   [OpenChat (⭐4.9k)](https://github.com/openchatai/OpenChat/): LLMs custom-chatbots console ⚡. ![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)
-*   [Twitter Agent (⭐85)](https://github.com/ahmedbesbes/twitter-agent/): Scrape tweets, summarize them and chat with them in an interactive terminal. ![GitHub Repo stars](https://img.shields.io/github/stars/ahmedbesbes/twitter-agent?style=social)
+*   [Robby-Chatbot (⭐705)](https://github.com/yvann-hub/Robby-chatbot): AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡.
+*   [AI Chatbot (⭐4.1k)](https://github.com/vercel-labs/ai-chatbot): A full-featured, hackable Next.js AI chatbot built by Vercel Labs ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai-chatbot?style=social)
+*   [Instrukt (⭐208)](https://github.com/blob42/Instrukt): A fully-fledged AI environment in the terminal. Build, test and instruct agents. ![GitHub Repo stars](https://img.shields.io/github/stars/blob42/Instrukt?style=social)
+*   [OpenChat (⭐5k)](https://github.com/openchatai/OpenChat/): LLMs custom-chatbots console ⚡. ![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)
+*   [Twitter Agent (⭐91)](https://github.com/ahmedbesbes/twitter-agent/): Scrape tweets, summarize them and chat with them in an interactive terminal. ![GitHub Repo stars](https://img.shields.io/github/stars/ahmedbesbes/twitter-agent?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [OpenLLM (⭐7.4k)](https://github.com/bentoml/OpenLLM): An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease using OpenLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social)
+*   [OpenLLM (⭐8.3k)](https://github.com/bentoml/OpenLLM): An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease using OpenLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social)
 *   [FlagAI (⭐3.7k)](https://github.com/FlagAI-Open/FlagAI): FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. ![GitHub Repo stars](https://img.shields.io/github/stars/FlagAI-Open/FlagAI?style=social)
-*   [AI.JSX (⭐822)](https://github.com/fixie-ai/ai-jsx): The AI Application Framework for Javascript ![GitHub Repo stars](https://img.shields.io/github/stars/fixie-ai/ai-jsx?style=social)
+*   [AI.JSX (⭐951)](https://github.com/fixie-ai/ai-jsx): The AI Application Framework for Javascript ![GitHub Repo stars](https://img.shields.io/github/stars/fixie-ai/ai-jsx?style=social)
 
 ## [35. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -538,15 +538,15 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 ### Communications / FTP
 
-*   [FtpTiny-Micropython (⭐7)](https://github.com/MZachmann/FtpTiny-Micropython) - Really small FTP server that runs in a thread.
+*   [FtpTiny-Micropython (⭐8)](https://github.com/MZachmann/FtpTiny-Micropython) - Really small FTP server that runs in a thread.
 
 ### Communications / HTTP
 
-*   [mrequests (⭐38)](https://github.com/SpotlightKid/mrequests) - A HTTP client module (not only) for MicroPython with an API similar to requests.
+*   [mrequests (⭐40)](https://github.com/SpotlightKid/mrequests) - A HTTP client module (not only) for MicroPython with an API similar to requests.
 
 ### Communications / IoT
 
-*   [micropython-ha-mqtt-device (⭐6)](https://github.com/agners/micropython-ha-mqtt-device) - MicroPython module which allows creating Entites for HomeAssistant using MQTT Discovery.
+*   [micropython-ha-mqtt-device (⭐7)](https://github.com/agners/micropython-ha-mqtt-device) - MicroPython module which allows creating Entites for HomeAssistant using MQTT Discovery.
 *   [ESP8266-Home-Assistant-Smart-Socket (⭐2)](https://github.com/AnthonyKNorman/ESP8266-Home-Assistant-Smart-Socket) - This MicroPython project is to hack a Hyleton313 cheap WiFi smart socket.
 *   [ESP8266-Home-Assistant-RGB-Bulb (⭐3)](https://github.com/AnthonyKNorman/ESP8266-Home-Assistant-RGB-Bulb) - This MicroPython project is to hack a TYWE3S board in a cheap WiFi RGB Bulb.
 *   [uPyIoT (⭐5)](https://github.com/lemariva/uPyIoT) - Connect an M5Stack ATOM running MicroPython to the Google Cloud Platform (GCP) to collect air-quality variables obtained from reading sensors.
@@ -558,7 +558,7 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 ### Communications / LoRa
 
 *   [loraE22 (⭐9)](https://github.com/matthias-bs/loraE22) - A MicroPython class for the Ebyte E22 Series LoRa modules.
-*   [micropython-lora (⭐25)](https://github.com/wybiral/micropython-lora) - MicroPython library for controlling a Semtech SX127x LoRa module over SPI.
+*   [micropython-lora (⭐26)](https://github.com/wybiral/micropython-lora) - MicroPython library for controlling a Semtech SX127x LoRa module over SPI.
 *   [micropython-aiolora (⭐2)](https://github.com/wybiral/micropython-aiolora) - MicroPython library for controlling a Semtech SX127x LoRa module with asyncio API.
 *   [micropython-rylr (⭐3)](https://github.com/wybiral/micropython-rylr) - MicroPython library for controlling Reyax LoRa modules (RYLR896, RYLR406).
 *   [silvergeko\_rfm9x (⭐1)](https://github.com/scopelemanuele/silvergeko_rfm9x) - Porting to MicroPython of adafruit\_rfm9x.py library.
@@ -586,7 +586,7 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 *   [PCF8563\_PythonLibrary (⭐7)](https://github.com/lewisxhe/PCF8563_PythonLibrary) - MicroPython library for NXP PCF8563 Real-time clock/calendar.
 *   [DS3231 (⭐0)](https://github.com/octaprog7/DS3231) - MicroPython module for the DS3231 clock from Maxim Integrated.
 *   [DS1307 (⭐0)](https://github.com/peter-l5/DS1307) - MicroPython driver for the DS1307 real time clock.
-*   [micropython-DS3231-AT24C32 (⭐21)](https://github.com/pangopi/micropython-DS3231-AT24C32) - MicroPython driver for DS3231 RTC.
+*   [micropython-DS3231-AT24C32 (⭐22)](https://github.com/pangopi/micropython-DS3231-AT24C32) - MicroPython driver for DS3231 RTC.
 
 ### Communications / Serial
 
@@ -636,10 +636,10 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 ### Display / LCD TFT
 
 *   [st7789s3\_esp\_lcd (⭐14)](https://github.com/russhughes/st7789s3_esp_lcd) - Fast ESP\_LCD based MicroPython driver for the TTGO T-Display-S3 st7789 display written in C.
-*   [s3lcd (⭐40)](https://github.com/russhughes/s3lcd) - ESP\_LCD based MicroPython driver for ESP32-S3 Devices with ST7789 or compatible displays.
+*   [s3lcd (⭐44)](https://github.com/russhughes/s3lcd) - ESP\_LCD based MicroPython driver for ESP32-S3 Devices with ST7789 or compatible displays.
 *   [thmi\_py (⭐5)](https://github.com/russhughes/thmi_py) - MicroPython display driver for the LILYGO T-HMI written in Python.
 *   [wt32sc01py (⭐11)](https://github.com/russhughes/wt32sc01py) - WT32SC01 Plus MicroPython Display Driver.
-*   [st7789s3\_mpy (⭐42)](https://github.com/russhughes/st7789s3_mpy) - MicroPython display driver for the TTGO T-Display-S3 ST7789 written in C.
+*   [st7789s3\_mpy (⭐44)](https://github.com/russhughes/st7789s3_mpy) - MicroPython display driver for the TTGO T-Display-S3 ST7789 written in C.
 *   [t-display-s3 (⭐11)](https://github.com/russhughes/t-display-s3) - MicroPython display driver for the TTGO T-Display-S3 ST7789 written in Python.
 *   [mp-ili9341 (⭐1)](https://github.com/tkurbad/mp-ili9341) - MicroPython Driver for ILI9341 TFT Display.
 *   [lvgl\_esp32\_gc9a01 (⭐8)](https://github.com/minyiky/lvgl_esp32_gc9a01) - Driver for displays using the GC901 driver for use with LVGL MicroPython.
@@ -650,7 +650,7 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 ### Display / OLED
 
-*   [micropython-ssd1322 (⭐10)](https://github.com/rdagger/micropython-ssd1322) - MicroPython display driver for SSD1322 grayscale OLED.
+*   [micropython-ssd1322 (⭐11)](https://github.com/rdagger/micropython-ssd1322) - MicroPython display driver for SSD1322 grayscale OLED.
 
 ### IO / ADC
 
@@ -737,7 +737,7 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 ### Sensors / Gaseous
 
 *   [MicroPython\_AGS02MA (⭐0)](https://github.com/jposada202020/MicroPython_AGS02MA) - MicroPython Driver for the AGS02MA TVOC sensor.
-*   [SCD4x (⭐3)](https://github.com/octaprog7/SCD4x) - MicroPython module for work with SCD4x (SCD40, SCD41) low power CO2, temperature & humidity electroacoustic sensor from Sensirion.
+*   [SCD4x (⭐4)](https://github.com/octaprog7/SCD4x) - MicroPython module for work with SCD4x (SCD40, SCD41) low power CO2, temperature & humidity electroacoustic sensor from Sensirion.
 *   [ens160 (⭐0)](https://github.com/octaprog7/ens160) - MicroPython module for work with ENS160 Digital Metal-Oxide Multi-Gas Sensor.
 
 ### Sensors / Humidity
@@ -760,7 +760,7 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 ### Sensors / Motion Inertial
 
-*   [MicroPython\_ICM20948 (⭐4)](https://github.com/jposada202020/MicroPython_ICM20948) - MicroPython Driver for the TDK ICM20948 Accelerometer/Gyro Sensor.
+*   [MicroPython\_ICM20948 (⭐6)](https://github.com/jposada202020/MicroPython_ICM20948) - MicroPython Driver for the TDK ICM20948 Accelerometer/Gyro Sensor.
 *   [MicroPython\_BMI160 (⭐0)](https://github.com/jposada202020/MicroPython_BMI160) - MicroPython Driver for the Bosch BMI160 Accelerometer/Gyro Sensor.
 *   [micropython-mpu6050 (⭐2)](https://github.com/wybiral/micropython-mpu6050) - MicroPython library for reading from MPU-6050 accelerometer and gyroscope modules.
 
@@ -785,7 +785,7 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 ### Sensors / Temperature Digital
 
 *   [MicroPython\_HTU31D (⭐1)](https://github.com/jposada202020/MicroPython_HTU31D) - MicroPython library for TE HTU31D temperature and humidity sensors.
-*   [MicroPython\_SHTC3 (⭐2)](https://github.com/jposada202020/MicroPython_SHTC3) - MicroPython Driver for the Sensirion SHTC3 Temperature and Humidity Sensor.
+*   [MicroPython\_SHTC3 (⭐3)](https://github.com/jposada202020/MicroPython_SHTC3) - MicroPython Driver for the Sensirion SHTC3 Temperature and Humidity Sensor.
 *   [MicroPython\_TMP117 (⭐0)](https://github.com/jposada202020/MicroPython_TMP117) - MicroPython Driver for the TMP117 Temperature Sensor.
 *   [MicroPython\_SI7021 (⭐0)](https://github.com/jposada202020/MicroPython_SI7021) - MicroPython Library for the Temperature and Humidity SI7021 Sensor.
 *   [MicroPython\_ADT7410 (⭐0)](https://github.com/jposada202020/MicroPython_ADT7410) - MicroPython Driver for the Analog Devices ADT7410 Temperature Sensor.
@@ -793,7 +793,7 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 *   [MicroPython\_HS3003 (⭐0)](https://github.com/jposada202020/MicroPython_HS3003) - MicroPython Driver for the Renesas HS3003 Temperature and Humidity Sensor.
 *   [MicroPython\_STTS22H (⭐0)](https://github.com/jposada202020/MicroPython_STTS22H) - MicroPython Driver for the STTS22H Temperature Sensor.
 *   [MicroPython\_HTU21DF (⭐0)](https://github.com/jposada202020/MicroPython_HTU21DF) - MicroPython HTU21D-F Temperature & Humidity driver.
-*   [MicroPython\_SHT4X (⭐4)](https://github.com/jposada202020/MicroPython_SHT4X) - MicroPython Driver fot the Sensirion Temperature and Humidity SHT40 and SHT45 Sensor.
+*   [MicroPython\_SHT4X (⭐5)](https://github.com/jposada202020/MicroPython_SHT4X) - MicroPython Driver fot the Sensirion Temperature and Humidity SHT40 and SHT45 Sensor.
 *   [MicroPython\_SHT20 (⭐0)](https://github.com/jposada202020/MicroPython_SHT20) - MicroPython Driver for the Sensirion SHT20 Temperature Sensor.
 *   [MicroPython\_MCP9808 (⭐0)](https://github.com/jposada202020/MicroPython_MCP9808) - MicroPython Driver for the Microchip MCP9808 Temperature Sensor.
 *   [MicroPython\_HDC1080 (⭐1)](https://github.com/jposada202020/MicroPython_HDC1080) - MicroPython driver for the TI HDC1080 Temperature and Humidity sensor.
@@ -914,19 +914,19 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 ### Colorscheme Switchers / Diagnostics
 
-*   [zaldih/themery.nvim (⭐92)](https://github.com/zaldih/themery.nvim) - A new way to change the colorscheme on the fly like in vscode.
+*   [zaldih/themery.nvim (⭐94)](https://github.com/zaldih/themery.nvim) - A new way to change the colorscheme on the fly like in vscode.
 
 ### Utility / Diagnostics
 
-*   [aPeoplesCalendar/apc.nvim (⭐19)](https://github.com/aPeoplesCalendar/apc.nvim) - "On this day" style calendar, which provides information about worldwide history of working class movements and liberation struggles.
+*   [aPeoplesCalendar/apc.nvim (⭐20)](https://github.com/aPeoplesCalendar/apc.nvim) - "On this day" style calendar, which provides information about worldwide history of working class movements and liberation struggles.
 
 ### Motion / Diagnostics
 
-*   [folke/flash.nvim (⭐1.7k)](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration.
+*   [folke/flash.nvim (⭐1.8k)](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration.
 
 ### Editing Support / Diagnostics
 
-*   [tomiis4/hypersonic.nvim (⭐179)](https://github.com/tomiis4/hypersonic.nvim) - Provides explanation for RegExp.
+*   [tomiis4/hypersonic.nvim (⭐183)](https://github.com/tomiis4/hypersonic.nvim) - Provides explanation for RegExp.
 
 ---
 

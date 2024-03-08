@@ -34,7 +34,7 @@
 
 ### Software / Automation
 
-*   [Exadel CompreFace](https://exadel.com/solutions/compreface/) - Face recognition system that provides REST API for face recognition, face detection, and other face services, and is easily deployed with docker. There are SDKs for Python and JavaScript languages. Can be used without prior machine learning skills. ([Source Code (⭐3.6k)](https://github.com/exadel-inc/CompreFace)) `Apache-2.0` `Docker/Java/Nodejs`
+*   [Exadel CompreFace](https://exadel.com/solutions/compreface/) - Face recognition system that provides REST API for face recognition, face detection, and other face services, and is easily deployed with docker. There are SDKs for Python and JavaScript languages. Can be used without prior machine learning skills. ([Source Code (⭐3.7k)](https://github.com/exadel-inc/CompreFace)) `Apache-2.0` `Docker/Java/Nodejs`
 *   [µTask (⭐1.1k)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml. `BSD-3-Clause` `Go/Docker`
 
 ### Software / Communication - IRC
@@ -55,7 +55,7 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Roadiz](https://www.roadiz.io/) - Modern CMS based on a node system which can handle many types of services. ([Source Code (⭐372)](https://github.com/roadiz/roadiz)) `MIT` `PHP`
+*   [Roadiz](https://www.roadiz.io/) - Modern CMS based on a node system which can handle many types of services. ([Source Code (⭐373)](https://github.com/roadiz/roadiz)) `MIT` `PHP`
 
 ### Software / Document Management
 
@@ -80,12 +80,12 @@
 
 ### Software / Miscellaneous
 
-*   [OpenZiti](https://openziti.github.io/) - Fully-featured, self-hostable, zero trust, full mesh overlay network. Includes a 2FA support out of the box, clients for all major desktop/mobile OS'es. ([Source Code (⭐1.7k)](https://github.com/openziti/ziti)) `Apache-2.0` `Go`
+*   [OpenZiti](https://openziti.github.io/) - Fully-featured, self-hostable, zero trust, full mesh overlay network. Includes a 2FA support out of the box, clients for all major desktop/mobile OS'es. ([Source Code (⭐1.8k)](https://github.com/openziti/ziti)) `Apache-2.0` `Go`
 
 ### Software / Pastebins
 
-*   [bin (⭐327)](https://github.com/w4/bin) - A paste bin that's actually minimalist. `WTFPL/0BSD` `Rust`
-*   [dpaste](https://dpaste.org/) - Simple pastebin with multiple text and code option, with short url result easy to remember. ([Source Code (⭐498)](https://github.com/DarrenOfficial/dpaste)) `MIT` `Docker/Django`
+*   [bin (⭐342)](https://github.com/w4/bin) - A paste bin that's actually minimalist. `WTFPL/0BSD` `Rust`
+*   [dpaste](https://dpaste.org/) - Simple pastebin with multiple text and code option, with short url result easy to remember. ([Source Code (⭐503)](https://github.com/DarrenOfficial/dpaste)) `MIT` `Docker/Django`
 
 ### Software / Software Development - FaaS & Serverless
 
@@ -93,7 +93,7 @@
 
 ### Software / Status / Uptime pages
 
-*   [Uptime Kuma (⭐46k)](https://github.com/louislam/uptime-kuma) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.kuma.pet)) `MIT` `Docker/Nodejs`
+*   [Uptime Kuma (⭐47k)](https://github.com/louislam/uptime-kuma) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.kuma.pet)) `MIT` `Docker/Nodejs`
 
 ### Software / URL Shorteners
 
@@ -109,13 +109,13 @@
 
 ### JupyterLab Extensions
 
-*   [jupyterlab-tensorboard-pro (⭐62)](https://github.com/HFAiLab/jupyterlab_tensorboard_pro) - TensorBoard support for JupyterLab.
+*   [jupyterlab-tensorboard-pro (⭐76)](https://github.com/HFAiLab/jupyterlab_tensorboard_pro) - TensorBoard support for JupyterLab.
 
 ## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [vendelieu/telegram-bot (⭐115)](https://github.com/vendelieu/telegram-bot) - A lightweight, feature-rich wrapper for the Telegram Bot API
+*   [vendelieu/telegram-bot (⭐116)](https://github.com/vendelieu/telegram-bot) - A lightweight, feature-rich wrapper for the Telegram Bot API
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

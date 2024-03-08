@@ -55,7 +55,7 @@
 
 ### Validation / Playground
 
-*   [json-schema-to-ts (⭐1.2k)](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
+*   [json-schema-to-ts (⭐1.3k)](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
 
 ## [7. Tools](/content/lvwzhen/tools/week/README.md)
 
@@ -211,7 +211,18 @@
 
 *   [Discord](https://discord.com/invite/tFdvbEj)
 
-## [20. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [20. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+
+### In Arabic
+
+*   [Ask Developer](http://www.askdeveloper.com/) - An online audio podcast in Egyptian Arabic dialect discusses the technology and software development landscape in Egypt and Middle East.
+*   [Tech and Coffee](https://anchor.fm/iahmadzain/episodes/S1E10-Tech-Chat-with-Ahmed-Essam--The-Pragmatic-Programmer-eie4eo) - About technology and its pioneers.
+*   [Essam Cafe](https://essamcafe.com/) - Weekly episodes with people, possibly we agree or disagree with them, it is important to learn and benefit from some and a small weekly episode on a random topic from the Twitter nominations.
+*   [Tech Tracks](https://podu.me/shows/show/77/tech-tracks) An Egyptian Arabic podcast discussess technology news.
+*   [Khedr W Business](https://castbox.fm/channel/id2453686?country=us) - Topics are in two axes: 1- Management and entrepreneurship, and what is related to them in terms of investment, operation, marketing, partnership, etc. 2- Life, relationships, success, and methods drawn, and how we live it in a way that ensures reconciliation with oneself.
+*   [State of E-commerce](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMTA1ODk1LnJzcw?sa=X\&ved=2ahUKEwixm-6X7ITsAhUR_hoKHTmpBaMQjs4CKAB6BAgBEBA) - An Arabic podcast for e-commerce, business and marketing to help business owners measure, understand and develop their online sales.
+
+## [21. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Austria 🇦🇹 / Vienna
 
@@ -241,25 +252,25 @@ Hackerspaces are great places to hack, and in fact they are so great that they h
 
 CoWorking offices are awesome, but typically require a long term commitment, if you are looking for something more stable for a long term stay, look at <http://coworkingmap.org/>
 
-## [21. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [22. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Reading
 
 *   [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud](https://www.goodreads.com/book/show/53503300-reaching-cloud-velocity) - Chapter 2.3 Mapping Your Way Through.
 
-## [22. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [23. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Tools / Plugins
 
 *   [gatling-jwt](https://bitbucket.org/atlassianlabs/gatling-jwt/) - An extension to Gatling 2.0 to help make JWT-signed requests.
 
-## [23. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [24. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Editors
 
 *   [FrontAid CMS](https://frontaid.io/) - Content Management System that supports arbitrary data model structures.
 
-## [24. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [25. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Reinforcement Learning / Others
 
@@ -274,20 +285,20 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 *   [Pattern (⭐8.6k)](https://github.com/clips/pattern): High level scraping for well-establish websites such as Google, Twitter, and Wikipedia. Also has NLP, machine learning algorithms, and visualization
 
-## [25. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [26. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Apps/Websites / Community
 
 *   [Layoutit Grid (⭐1.5k)](https://github.com/Leniolabs/layoutit-grid) - Interactive CSS Grid layout generator.
 
-## [26. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [27. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / "System" bindings
 
 *   [ROS2-Integration-Service (⭐12)](https://github.com/eProsima/ROS2-Integration-Service) - ROS2 Integration and Routing which provides a complete tool to integrate other technologies with ROS2 easily and enable ROS2 on WAN/Internet.
 *   [soss (⭐61)](https://github.com/osrf/soss) - The System Of Systems Synthesizer is used to integrate ROS2 via ROS2-Integration-Service with other (communication) systems.
 
-## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### HTTP
 
@@ -297,25 +308,25 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 *   [ymlr (⭐18)](https://github.com/ufirstgroup/ymlr) - A YAML encoder for Elixir.
 
-## [28. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [29. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Showcases / XML
 
-*   [GitHub Profile Trophy (⭐4.4k)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
+*   [GitHub Profile Trophy (⭐4.5k)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 
-## [29. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [30. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Libraries and Tools / JavaScript
 
 *   [Cohda Wireless](https://cohdawireless.com/) - V2X DSRC Radio and Software
 
-## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [31. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Networking
 
 *   [Boost.Beast (⭐4.1k)](https://github.com/boostorg/beast) :zap: - HTTP and WebSocket built on Boost.Asio in C++11. \[Boost] [website](https://www.boost.org/libs/beast)
 
-## [31. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [32. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Books
 
@@ -332,13 +343,13 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 *   [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform. [Read more (⭐653)](https://github.com/antonbabenko/serverless.tf).
 *   [terraspace](https://terraspace.cloud) - The Terraform Framework
 
-## [32. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [33. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Serialization
 
 *   [vproto (⭐49)](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
 
-## [33. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [34. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Utilities
 
@@ -357,19 +368,19 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 *   [btcd (⭐5.7k)](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.
 
-## [34. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [35. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Libraries and Frameworks / JVM
 
 *   [Spine Event Engine](https://spine.io/) - a CQRS/ES framework for building cloud applications. Defines Bounded Contexts with their Commands, Events, and Entity states in Protobuf. The backend logic is written in Java, on top of the Proto-generated code. Client code in Java, JS or Dart communicates with the backend via gRPC.
 
-## [35. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [36. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
 *   [NestJS Crud Prisma (⭐59)](https://github.com/silicon-hills/nestjs-crud-prisma) - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD (⭐3.9k)](https://github.com/nestjsx/crud))
 
-## [36. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [37. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### In case you need help / Official Communities
 
@@ -409,26 +420,26 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 *   [QuinLED](https://quinled.info/) - DIY Wi-Fi LED dimmers and controllers using ESP32 boards.
 
-## [37. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [38. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / IDEs
 
 *   [Kakoune](http://kakoune.org/)
-    *   [kakoune-lsp (⭐562)](https://github.com/kakoune-lsp/kakoune-lsp/) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
+    *   [kakoune-lsp (⭐564)](https://github.com/kakoune-lsp/kakoune-lsp/) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
 
-## [38. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [39. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
 *   💼 [Leading Trim (⭐80)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize (⭐1.4k)](https://github.com/seek-oss/capsize).
 
-## [39. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [40. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Podcasts / Other
 
 *   [The Changelog #216: GitHub's Electron with Zeke Sikelianos](https://changelog.com/podcast/216)
 
-## [40. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [41. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### GraphQL
 
@@ -437,21 +448,6 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 ### Shell
 
 *   [xonsh (⭐7.8k)](https://github.com/xonsh/xonsh/) - A Python-powered, cross-platform, Unix-gazing shell language and command prompt.
-
-## [41. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
-
-### In English
-
-*   [Citizen Cosmos](https://www.citizencosmos.space/) - A podcast discovering the masterminds of the Cosmos blockchain ecosystem and web3 .
-
-### In Arabic
-
-*   [Ask Developer](http://www.askdeveloper.com/) - An online audio podcast in Egyptian Arabic dialect discusses the technology and software development landscape in Egypt and Middle East.
-*   [Tech and Coffee](https://anchor.fm/iahmadzain/episodes/S1E10-Tech-Chat-with-Ahmed-Essam--The-Pragmatic-Programmer-eie4eo) - About technology and its pioneers.
-*   [Essam Cafe](https://essamcafe.com/) - Weekly episodes with people, possibly we agree or disagree with them, it is important to learn and benefit from some and a small weekly episode on a random topic from the Twitter nominations.
-*   [Tech Tracks](https://podu.me/shows/show/77/tech-tracks) An Egyptian Arabic podcast discussess technology news.
-*   [Khedr W Business](https://castbox.fm/channel/id2453686?country=us) - Topics are in two axes: 1- Management and entrepreneurship, and what is related to them in terms of investment, operation, marketing, partnership, etc. 2- Life, relationships, success, and methods drawn, and how we live it in a way that ensures reconciliation with oneself.
-*   [State of E-commerce](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMTA1ODk1LnJzcw?sa=X\&ved=2ahUKEwixm-6X7ITsAhUR_hoKHTmpBaMQjs4CKAB6BAgBEBA) - An Arabic podcast for e-commerce, business and marketing to help business owners measure, understand and develop their online sales.
 
 ## [42. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -714,12 +710,12 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Nextjs Blog Starter [↗](https://awesomestacks.dev/nextjs-blog-starter) / Resources
 
-*   [Next.js](https://nextjs.org/) - [🛠](https://stackshare.io/next-js) - [🐙 (⭐116k)](https://github.com/zeit/next.js) - The React Framework for server rendering, static websites, PWAs.
-*   [TypeScript](https://www.typescriptlang.org/) - [🛠️](https://stackshare.io/typescript) - [🐙 (⭐96k)](https://github.com/Microsoft/TypeScript) - A typed superset of JavaScript that compiles to plain JavaScript.
+*   [Next.js](https://nextjs.org/) - [🛠](https://stackshare.io/next-js) - [🐙 (⭐119k)](https://github.com/zeit/next.js) - The React Framework for server rendering, static websites, PWAs.
+*   [TypeScript](https://www.typescriptlang.org/) - [🛠️](https://stackshare.io/typescript) - [🐙 (⭐97k)](https://github.com/Microsoft/TypeScript) - A typed superset of JavaScript that compiles to plain JavaScript.
 *   [Netlify](https://netlify.com/) - [🛠️](https://stackshare.io/netlify) - Netlify is a global CDN that makes continuous deployments as simple as a few clicks.
 *   [PostCSS](https://postcss.org/) - [🛠](https://stackshare.io/postcss) - [🐙 (⭐28k)](https://github.com/postcss/postcss) - A tool for transforming CSS with JavaScript.
 *   [eslint](https://eslint.org/) - [🛠️](https://stackshare.io/eslint) - [🐙 (⭐24k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript and JSX.
-*   [Nextjs Blog Starter (⭐590)](https://github.com/ixartz/Next-js-Blog-Boilerplate)
+*   [Nextjs Blog Starter (⭐602)](https://github.com/ixartz/Next-js-Blog-Boilerplate)
 *   [Nextjs Blog Starter Demo](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/)
 
 ## [66. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
@@ -752,11 +748,11 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Third-Party Packages / Security
 
-*   [django-protected-media (⭐63)](https://github.com/cobusc/django-protected-media) - Manages media that are considered sensitive in a protected fashion.
+*   [django-protected-media (⭐64)](https://github.com/cobusc/django-protected-media) - Manages media that are considered sensitive in a protected fashion.
 
 ### Resources / Conferences
 
-*   [Django Day Copenhagen (⭐8.1k)](https://github.com/wsvincent/awesome-django#conferences)
+*   [Django Day Copenhagen (⭐8.2k)](https://github.com/wsvincent/awesome-django#conferences)
 
 ## [69. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 

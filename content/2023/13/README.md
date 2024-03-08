@@ -91,7 +91,7 @@
 
 ### no-std crates / WIP
 
-*   [crossbus (⭐118)](https://github.com/hominee/crossbus): A Platform-Less, Runtime-Less Actor Computing Model.
+*   [crossbus (⭐119)](https://github.com/hominee/crossbus): A Platform-Less, Runtime-Less Actor Computing Model.
 
 ## [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
@@ -115,16 +115,16 @@
 
 ### (requires Neovim 0.5)
 
-*   [SmiteshP/nvim-navbuddy (⭐631)](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs like navigation features using LSP.
+*   [SmiteshP/nvim-navbuddy (⭐646)](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs like navigation features using LSP.
 
 ### Bars and Lines / Diagnostics
 
-*   [Bekaboo/deadcolumn.nvim (⭐202)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
-*   [ecthelionvi/NeoColumn.nvim (⭐79)](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
+*   [Bekaboo/deadcolumn.nvim (⭐209)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
+*   [ecthelionvi/NeoColumn.nvim (⭐80)](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
 
 ### Utility / Diagnostics
 
-*   [nvim-early-retirement (⭐151)](https://github.com/chrisgrieser/nvim-early-retirement) - Send buffers into early retirement by automatically closing them after x minutes of inactivity.
+*   [nvim-early-retirement (⭐155)](https://github.com/chrisgrieser/nvim-early-retirement) - Send buffers into early retirement by automatically closing them after x minutes of inactivity.
 
 ## [14. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
@@ -159,7 +159,7 @@
 
 ### Awesome TypeScript Essential Resources
 
-*   :octocat: [DefinitelyTyped/DefinitelyTyped (⭐46k)](https://github.com/DefinitelyTyped/DefinitelyTyped) the repository for high quality TypeScript type definitions maintained by Boris Yankov and thousands of contributors
+*   :octocat: [DefinitelyTyped/DefinitelyTyped (⭐47k)](https://github.com/DefinitelyTyped/DefinitelyTyped) the repository for high quality TypeScript type definitions maintained by Boris Yankov and thousands of contributors
 
 ### Mobile / Playground
 
@@ -167,13 +167,13 @@
 
 ### Web / Playground
 
-*   :octocat: [Treehouse (⭐120)](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
+*   :octocat: [Treehouse (⭐126)](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
 
 ## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Email - Mail Transfer Agents
 
-*   [Stalwart SMTP](https://stalw.art/smtp) - Modern SMTP server designed with a focus on security, speed, and extensive configurability. ([Source Code (⭐423)](https://github.com/stalwartlabs/smtp-server)) `AGPL-3.0` `Rust`
+*   [Stalwart SMTP](https://stalw.art/smtp) - Modern SMTP server designed with a focus on security, speed, and extensive configurability. ([Source Code (⭐433)](https://github.com/stalwartlabs/smtp-server)) `AGPL-3.0` `Rust`
 
 ### Software / Database Management
 
@@ -181,7 +181,7 @@
 
 ### Software / Manufacturing
 
-*   [VanDAM (⭐409)](https://github.com/Floppy/van_dam) - Digital asset manager for 3d print files; STL, OBJ, 3MF and more. `MIT` `Docker`
+*   [VanDAM (⭐432)](https://github.com/Floppy/van_dam) - Digital asset manager for 3d print files; STL, OBJ, 3MF and more. `MIT` `Docker`
 
 ### Software / Self-hosting Solutions
 
@@ -333,7 +333,7 @@
 
 ### Development tools / Profiling
 
-*   [Bencher (⭐285)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
+*   [Bencher (⭐292)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
 
 ### Libraries / Video
 

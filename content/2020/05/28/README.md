@@ -128,7 +128,7 @@
 
 ### Design Systems
 
-*   [Crayons (⭐179)](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
+*   [Crayons (⭐189)](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
 
 ### Podcasts
 

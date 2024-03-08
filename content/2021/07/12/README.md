@@ -48,7 +48,7 @@
 
 ### Software / Search Engines
 
-*   [Whoogle (⭐8.5k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
+*   [Whoogle (⭐8.6k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
 
 ## [5. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -59,7 +59,7 @@
 ### Development / Discovery
 
 *   [devshell (⭐1k)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
-*   [flake-utils (⭐915)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
+*   [flake-utils (⭐957)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

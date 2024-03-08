@@ -197,7 +197,7 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐548)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs/Java`
+*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐550)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs/Java`
 
 ---
 

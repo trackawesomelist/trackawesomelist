@@ -276,8 +276,8 @@
 
 ### Version Control
 
-*   [git (⭐1.3k)](https://github.com/jupyterlab/jupyterlab-git) - Extension for git integration.
-*   [nbdime (⭐2.5k)](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
+*   [git (⭐1.4k)](https://github.com/jupyterlab/jupyterlab-git) - Extension for git integration.
+*   [nbdime (⭐2.6k)](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 *   [ReviewNB](https://www.reviewnb.com/) - Code reviews for Jupyter Notebooks.
 
 ## [33. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
@@ -908,8 +908,8 @@
 
 ### Projects / Libraries
 
-*   [Formalised Undecidable Problems (⭐98)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
-*   [Regular Language Representations (⭐38)](https://github.com/coq-community/reglang) - Translations between different definitions of regular languages, including regular expressions and automata.
+*   [Formalised Undecidable Problems (⭐99)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
+*   [Regular Language Representations (⭐39)](https://github.com/coq-community/reglang) - Translations between different definitions of regular languages, including regular expressions and automata.
 
 ### Projects / Package and Build Management
 
@@ -929,7 +929,7 @@
 
 ### Resources / Tutorials and Hints
 
-*   [Coq'Art Exercises and Tutorials (⭐99)](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book, including additional tutorials.
+*   [Coq'Art Exercises and Tutorials (⭐101)](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book, including additional tutorials.
 
 ## [60. Guides](/content/NARKOZ/guides/week/README.md)
 
@@ -1012,7 +1012,7 @@
 
 ### Web / Playground
 
-*   :octocat: [Tridactyl (⭐4.7k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
+*   :octocat: [Tridactyl (⭐4.8k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
 
 ---
 

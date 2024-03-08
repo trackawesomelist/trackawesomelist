@@ -10,7 +10,7 @@
 
 ### Learning Resources / Other "awesome" lists in AI and ML
 
-*   [Awesome LLM (⭐12k)](https://github.com/Hannibal046/Awesome-LLM#readme)
+*   [Awesome LLM (⭐13k)](https://github.com/Hannibal046/Awesome-LLM#readme)
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -45,11 +45,11 @@
 
 ### 2D / Godot 4.2
 
-*   [Poder Solar (⭐3)](https://github.com/antimundo/poder-solar) - Simple resource management game.
+*   [Poder Solar (⭐7)](https://github.com/antimundo/poder-solar) - Simple resource management game.
 
 ### 3D / Godot 4.2
 
-*   [LibreAim (⭐8)](https://github.com/antimundo/libre-aim) - Libre FPS aim trainer made with Godot.
+*   [LibreAim (⭐17)](https://github.com/antimundo/libre-aim) - Libre FPS aim trainer made with Godot.
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -109,7 +109,7 @@
 ### Configuration / Development Environment
 
 *   [DDEV (⭐2.3k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
-*   [Docksal (⭐663)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
+*   [Docksal (⭐665)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
 
 ## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

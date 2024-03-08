@@ -10,7 +10,7 @@
 
 ### Ports to other languages
 
-*   [LangChainDart (⭐190)](https://github.com/davidmigloz/langchain_dart): Build powerful LLM-based Dart/Flutter applications. ![GitHub Repo stars](https://img.shields.io/github/stars/davidmigloz/langchain_dart?style=social)
+*   [LangChainDart (⭐256)](https://github.com/davidmigloz/langchain_dart): Build powerful LLM-based Dart/Flutter applications. ![GitHub Repo stars](https://img.shields.io/github/stars/davidmigloz/langchain_dart?style=social)
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Software / Recipe Management
 
-*   [Mealie](https://nightly.mealie.io/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Source Code (⭐4.5k)](https://github.com/mealie-recipes/mealie)) `MIT` `Python`
+*   [Mealie](https://nightly.mealie.io/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Source Code (⭐4.6k)](https://github.com/mealie-recipes/mealie)) `MIT` `Python`
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

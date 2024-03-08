@@ -88,7 +88,7 @@ git rev-parse --show-toplevel
 
 ### Build Systems / Playground
 
-*   [Zwitterion (⭐565)](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
+*   [Zwitterion (⭐568)](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
 
 ## [11. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 

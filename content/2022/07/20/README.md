@@ -78,15 +78,15 @@
 
 ### Utility / Diagnostics
 
-*   [anuvyklack/fold-preview (⭐100)](https://github.com/anuvyklack/fold-preview.nvim) - Preview closed fold without opening it.
+*   [anuvyklack/fold-preview (⭐107)](https://github.com/anuvyklack/fold-preview.nvim) - Preview closed fold without opening it.
 
 ### Fennel / Diagnostics
 
-*   [Olical/conjure (⭐1.5k)](https://github.com/Olical/conjure) - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
+*   [Olical/conjure (⭐1.6k)](https://github.com/Olical/conjure) - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
 
 ### Editing Support / Diagnostics
 
-*   [anuvyklack/pretty-fold.nvim (⭐404)](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization.
+*   [anuvyklack/pretty-fold.nvim (⭐406)](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization.
 
 ### Resource / Diagnostics
 

@@ -40,8 +40,8 @@
 
 ### Tools / Registry
 
-*   [hermitcrab (⭐12)](https://github.com/seal-io/hermitcrab) - Registry network mirroring service.
-*   [terrac (⭐24)](https://github.com/haoliangyu/terrac) - Minimal private module registry.
+*   [hermitcrab (⭐12)](https://github.com/seal-io/hermitcrab) - Registry network mirroring service compatible with OpenTofu.
+*   [terrac (⭐24)](https://github.com/haoliangyu/terrac) - Minimal private module registry compatible with OpenTofu.
 
 ## [5. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -77,23 +77,9 @@
 
 ## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐119) (⭐119)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-
-### Projects / API Design
-
-*   [OpenAPI Diff (⭐730) (⭐730)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [Zally (⭐870) (⭐870)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
-
 ### Projects / API Documentation
 
 *   [DapperDox (⭐390) (⭐390)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
-*   [OpenAPI Explorer (⭐265) (⭐265)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
-
-### Projects / Data Mapping Solution
-
-*   [AltasMap (⭐176) (⭐176)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
 
 ### Projects / ESB
 
@@ -107,9 +93,7 @@
 
 ### Resources / Data Formats
 
-*   [NDJSON (⭐619) (⭐619)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [Protocol Buffers (⭐63k) (⭐63k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
-*   [YAML (⭐297) (⭐297)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 ### Resources / Protocols
 
@@ -151,4 +135,5 @@
 
 ---
 
+- Prev: [Feb 29, 2024](/content/2024/02/29/README.md)
 - Next: [Feb 27, 2024](/content/2024/02/27/README.md)

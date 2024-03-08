@@ -58,7 +58,7 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [IBI Data Tools (⭐108)](https://github.com/ibi-group/datatools-ui) - A web application that handles GTFS editing, validating, quality checking, and deploying to OpenTripPlanner. (Combines and builds upon the functionality of the deprecated [Gtfs Data Manager (⭐24)](https://github.com/conveyal/gtfs-data-manager) and [GTFS Editor (⭐133)](https://github.com/conveyal/gtfs-editor).)
+*   [IBI Data Tools (⭐110)](https://github.com/ibi-group/datatools-ui) - A web application that handles GTFS editing, validating, quality checking, and deploying to OpenTripPlanner. (Combines and builds upon the functionality of the deprecated [Gtfs Data Manager (⭐24)](https://github.com/conveyal/gtfs-data-manager) and [GTFS Editor (⭐133)](https://github.com/conveyal/gtfs-editor).)
 
 ## [6. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
 

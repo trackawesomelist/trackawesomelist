@@ -16,7 +16,7 @@
 
 ### Runtime / Playground
 
-*   [SunTori (⭐6)](https://github.com/LancerComet/SunTori) - A JSON de/serializer to ensure everything is safe at runtime.
+*   [SunTori (⭐9)](https://github.com/LancerComet/SunTori) - A JSON de/serializer to ensure everything is safe at runtime.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

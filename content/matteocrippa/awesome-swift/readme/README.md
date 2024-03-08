@@ -18,7 +18,11 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 |                                                                           Awesome                                                                           |   Linux   | Projects |      Updated      |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :------: | :---------------: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1052   | February 26, 2024 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1052   | February 29, 2024 |
+
+In parternship with:
+
+[![Codemotion](https://github.com/matteocrippa/awesome-swift/raw/master/.github/images/codemotion_logo.png?raw=true)](https://codemo.tech/partners)
 
 ### Contents
 
@@ -1204,7 +1208,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 *   [L10nLint (⭐41)](https://github.com/s2mr/L10nLint) - A linter tool for Localizable.strings.
 *   [swift-mod (⭐100)](https://github.com/ra1028/swift-mod) - A tool for Swift code modification intermediating between code generation and formatting.
 *   [SwiftCop (⭐541)](https://github.com/andresinaka/SwiftCop) - A validation library which inspired by the clarity of Ruby On Rails Active Record validations.
-*   [SwiftFormat (⭐7.3k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
+*   [SwiftFormat (⭐7.4k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 *   [SwiftLint (⭐18k)](https://github.com/realm/SwiftLint) - A tool to enforce coding conventions.
 *   [Swimat (⭐1.6k)](https://github.com/Jintin/Swimat) - Xcode plugin to format code.
 *   [Tailor (⭐1.4k)](https://github.com/sleekbyte/tailor) :penguin: - Cross-platform static analyzer that helps you to write cleaner code and avoid bugs.

@@ -60,7 +60,7 @@
 
 ### Android / Tests
 
-*   [KakaoCup/Compose (⭐115)](https://github.com/KakaoCup/Compose) - Nice and simple DSL for Espresso Compose UI testing in Kotlin
+*   [KakaoCup/Compose (⭐117)](https://github.com/KakaoCup/Compose) - Nice and simple DSL for Espresso Compose UI testing in Kotlin
 
 ## [5. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 

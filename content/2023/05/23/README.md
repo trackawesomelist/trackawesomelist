@@ -75,13 +75,13 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [DB GPT (⭐9k)](https://github.com/csunny/DB-GPT): Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security ![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)
+*   [DB GPT (⭐10k)](https://github.com/csunny/DB-GPT): Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security ![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)
 *   [QNimGPT](https://huggingface.co/spaces/rituthombre/QNim): Play Nim against an IBM Quantum Computer simulator or OpenAI GPT-3.5
-*   [ChatPDF (⭐778)](https://github.com/akshata29/chatpdf): ChatGPT + Enterprise data with Azure OpenAI ![GitHub Repo stars](https://img.shields.io/github/stars/akshata29/chatpdf?style=social)
+*   [ChatPDF (⭐809)](https://github.com/akshata29/chatpdf): ChatGPT + Enterprise data with Azure OpenAI ![GitHub Repo stars](https://img.shields.io/github/stars/akshata29/chatpdf?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Dust (⭐765)](https://github.com/dust-tt/dust): Design and Deploy Large Language Model Apps ![GitHub Repo stars](https://img.shields.io/github/stars/dust-tt/dust?style=social)
+*   [Dust (⭐821)](https://github.com/dust-tt/dust): Design and Deploy Large Language Model Apps ![GitHub Repo stars](https://img.shields.io/github/stars/dust-tt/dust?style=social)
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Software / Office Suites
 
-*   [CryptPad](https://cryptpad.org) - CryptPad is a collaboration suite that is end-to-end-encrypted and open-source. It is built to enable collaboration, synchronizing changes to documents in real time. ([Source Code (⭐4.9k)](https://github.com/cryptpad/cryptpad)) `AGPL-3.0` `Nodejs/Docker`
+*   [CryptPad](https://cryptpad.org) - CryptPad is a collaboration suite that is end-to-end-encrypted and open-source. It is built to enable collaboration, synchronizing changes to documents in real time. ([Source Code (⭐5k)](https://github.com/cryptpad/cryptpad)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [6. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -118,7 +118,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [argc-completions (⭐141)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐584)](https://github.com/sigoden/argc) and [jq (⭐28k)](https://github.com/stedolan/jq) to add ZSH tab completions.
+*   [argc-completions (⭐150)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐622)](https://github.com/sigoden/argc) and [jq (⭐29k)](https://github.com/stedolan/jq) to add ZSH tab completions.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

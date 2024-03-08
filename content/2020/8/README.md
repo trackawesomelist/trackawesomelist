@@ -30,11 +30,11 @@
 
 ### JupyterLab Extensions
 
-*   [shortcutui (⭐55)](https://github.com/jupyterlab/jupyterlab-shortcutui) - An extension for managing keyboard shortcuts.
+*   [shortcutui (⭐54)](https://github.com/jupyterlab/jupyterlab-shortcutui) - An extension for managing keyboard shortcuts.
 
 ### Testing
 
-*   [treon (⭐288)](https://github.com/ReviewNB/treon) - Easy-to-use test framework for Jupyter Notebooks.
+*   [treon (⭐293)](https://github.com/ReviewNB/treon) - Easy-to-use test framework for Jupyter Notebooks.
 
 ## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐419)](https://github.com/typemill/typemill)) `MIT` `PHP`
+*   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐423)](https://github.com/typemill/typemill)) `MIT` `PHP`
 
 ### Software / Games
 
@@ -476,7 +476,7 @@
 
 ### Virtualisation / Discovery
 
-*   [nixos-shell (⭐521)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
+*   [nixos-shell (⭐527)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
 
 ## [49. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 

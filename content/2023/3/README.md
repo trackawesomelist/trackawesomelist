@@ -255,11 +255,11 @@
 
 ### Software / Automation
 
-*   [Activepieces](https://www.activepieces.com) - No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. ([Source Code (⭐6.5k)](https://github.com/activepieces/activepieces)) `MIT` `Docker`
+*   [Activepieces](https://www.activepieces.com) - No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. ([Source Code (⭐6.6k)](https://github.com/activepieces/activepieces)) `MIT` `Docker`
 
 ### Software / Recipe Management
 
-*   [Bar Assistant (⭐309)](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://bar.karlomikus.com/)) `MIT` `PHP/Docker`
+*   [Bar Assistant (⭐325)](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://bar.karlomikus.com/)) `MIT` `PHP/Docker`
 
 ### Software / Wikis
 
@@ -275,7 +275,7 @@
 
 ### Tutorials
 
-*   [Typescript + Svelte Cheatsheet (⭐705)](https://github.com/ivanhofer/sveltekit-typescript-showcase) - An overview of all TypeScript related topics for Svelte and SvelteKit - @ivanhofer (Github).
+*   [Typescript + Svelte Cheatsheet (⭐704)](https://github.com/ivanhofer/sveltekit-typescript-showcase) - An overview of all TypeScript related topics for Svelte and SvelteKit - @ivanhofer (Github).
 
 ### State Libraries
 
@@ -284,12 +284,12 @@
 
 ### Miscellaneous / Checkbox
 
-*   [svelte-splitpanes (⭐304)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels
+*   [svelte-splitpanes (⭐316)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels
 *   [mathjax-svelte (⭐0)](https://github.com/WoolDoughnut310/mathjax-svelte) - A Svelte component for MathJax.
 
 ### Form / Checkbox
 
-*   [svelte-form-builder (⭐52)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
+*   [svelte-form-builder (⭐53)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
 
 ## [21. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
@@ -431,13 +431,13 @@
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
-*   [Matcha - Daily RSS Digest (⭐367)](https://github.com/piqoni/matcha) <sup>[1298](https://t.me/s/aboutrss/1298)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/piqoni/matcha)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+*   [Matcha - Daily RSS Digest (⭐374)](https://github.com/piqoni/matcha) <sup>[1298](https://t.me/s/aboutrss/1298)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/piqoni/matcha)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
 
 ## [38. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Editing Support / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.move (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-move.md) - Module of `mini.nvim` to move any selection (charwise, linewise, blockwise, current line in Normal mode) in any direction. Handles both `v:count` and undo history.
+*   [echasnovski/mini.nvim#mini.move (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-move.md) - Module of `mini.nvim` to move any selection (charwise, linewise, blockwise, current line in Normal mode) in any direction. Handles both `v:count` and undo history.
 
 ## [39. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -635,12 +635,12 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [omz-full-autoupdate (⭐53)](https://github.com/Pilaton/OhMyZsh-full-autoupdate) - Automatically update [oh-my-zsh (⭐167k)](https://github.com/ohmyzsh/ohmyzsh) plugins and themes.
+*   [omz-full-autoupdate (⭐54)](https://github.com/Pilaton/OhMyZsh-full-autoupdate) - Automatically update [oh-my-zsh (⭐167k)](https://github.com/ohmyzsh/ohmyzsh) plugins and themes.
 *   [toolbox (⭐0)](https://github.com/paxcoder/zsh-toolbox) - Automagically updates [homebrew](https://brew.sh) plugins. Allows enabling/disabling notice during startup and alias setup.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [daivasmara (⭐61)](https://github.com/Daivasmara/daivasmara.zsh-theme) - Chill theme with decorators for current directory (truncated if necessary) and `git` information, including time since last commit.
+*   [daivasmara (⭐62)](https://github.com/Daivasmara/daivasmara.zsh-theme) - Chill theme with decorators for current directory (truncated if necessary) and `git` information, including time since last commit.
 *   [gianu-alternative (⭐1)](https://github.com/zbentzinger/gianu-alternative-theme) - An alternative to [OMZ Gianu (⭐167k)](https://github.com/ohmyzsh/ohmyzsh/blob/61dd3682e69aa990a8a3589c5c61ea2e1edf8312/themes/gianu.zsh-theme) that changes prompt based on privilege. Includes `git` status and current directory decorators.
 
 ## [48. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
@@ -675,7 +675,7 @@
 
 ### Languages / .NET
 
-*   [dotnet-alogrand-sdk (2) (⭐27)](https://github.com/FrankSzendzielarz/dotnet-algorand-sdk) - Algorand .NET SDK maintained by [@FrankSzendzielarz](https://github.com/FrankSzendzielarz).
+*   [dotnet-alogrand-sdk (2) (⭐28)](https://github.com/FrankSzendzielarz/dotnet-algorand-sdk) - Algorand .NET SDK maintained by [@FrankSzendzielarz](https://github.com/FrankSzendzielarz).
 *   [dotnet-tinyman-sdk (⭐9)](https://github.com/geoffodonnell/dotnet-tinyman-sdk) - Tinyman .NET SDK.
 *   [dotnet-yieldly-sdk (⭐11)](https://github.com/geoffodonnell/dotnet-yieldly-sdk) - Yieldly .NET SDK.
 *   [powershell-algorand-module (⭐2)](https://github.com/geoffodonnell/powershell-algorand-module) - Algorand PowerShell Module.

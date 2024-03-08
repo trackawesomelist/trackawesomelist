@@ -24,7 +24,7 @@
 
 Replace browser new tab screen with GitHub trending projects.
 
-Installs: 2000 | Stars: 346 | Last update: n/a
+Installs: 2000 | Stars: 347 | Last update: n/a
 
 ## [4. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 

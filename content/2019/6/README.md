@@ -74,7 +74,7 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [pfaedle (⭐166)](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for GTFS using OpenStreetMap data
+*   [pfaedle (⭐177)](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for GTFS using OpenStreetMap data
 
 ### Other multimodal data formats / Ruby
 
@@ -123,7 +123,7 @@
 
 ### Components / Apache License
 
-*   [ada-util (⭐63)](https://github.com/stcarrez/ada-util/) - A logging framework close to Java log4j framework, support for properties, serialization/deserialization framework for XML/JSON/CSV, Ada beans framework, encoding/decoding framework (Base16, Base64, SHA, HMAC-SHA), a composing stream framework (raw, files, buffers, pipes, sockets), several concurrency tools (reference counters, counters, pools, fifos, arrays), process creation and pipes, support for loading shared libraries (on Windows or Unix), HTTP client library on top of CURL or AWS.
+*   [ada-util (⭐67)](https://github.com/stcarrez/ada-util/) - A logging framework close to Java log4j framework, support for properties, serialization/deserialization framework for XML/JSON/CSV, Ada beans framework, encoding/decoding framework (Base16, Base64, SHA, HMAC-SHA), a composing stream framework (raw, files, buffers, pipes, sockets), several concurrency tools (reference counters, counters, pools, fifos, arrays), process creation and pipes, support for loading shared libraries (on Windows or Unix), HTTP client library on top of CURL or AWS.
 
 ### Database / Apache License
 
@@ -131,7 +131,7 @@
 
 ### Web / Apache License
 
-*   [awa (⭐90)](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
+*   [awa (⭐89)](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
     *   [dynamo (⭐17)](https://github.com/stcarrez/dynamo) - Code generator used to generate an Ada Web Application or database mappings from hibernate-like XML description, YAML doctrine model or UML models.
     *   [ada-wiki (⭐19)](https://github.com/stcarrez/ada-wiki) - Ada Wiki is a small library that provides a Wiki engine.
     *   [ada-security (⭐22)](https://github.com/stcarrez/ada-security) - OAuth 2.0 client and server framework to secure web applications.
@@ -347,7 +347,7 @@
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [base16-godot (⭐30)](https://github.com/Calinou/base16-godot) - All [base16 (⭐411)](https://github.com/chriskempson/base16) themes.
+*   [base16-godot (⭐30)](https://github.com/Calinou/base16-godot) - All [base16 (⭐424)](https://github.com/chriskempson/base16) themes.
 
 ## [29. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 

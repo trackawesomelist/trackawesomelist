@@ -10,38 +10,38 @@
 
 ### Ports to other languages
 
-*   [LangChain4j (⭐1.3k)](https://github.com/langchain4j/langchain4j): LangChain for Java ![GitHub Repo stars](https://img.shields.io/github/stars/langchain4j/langchain4j?style=social)
+*   [LangChain4j (⭐2.1k)](https://github.com/langchain4j/langchain4j): LangChain for Java ![GitHub Repo stars](https://img.shields.io/github/stars/langchain4j/langchain4j?style=social)
 
 ### Tools / Services
 
-*   [FastAPI + Chroma (⭐38)](https://github.com/experienced-dev/chatgpt-plugin-fastapi-langchain-chroma): An Example Plugin for ChatGPT, Utilizing FastAPI, LangChain and Chroma
+*   [FastAPI + Chroma (⭐39)](https://github.com/experienced-dev/chatgpt-plugin-fastapi-langchain-chroma): An Example Plugin for ChatGPT, Utilizing FastAPI, LangChain and Chroma
 
 ### Tools / Agents
 
-*   [Multi-Modal LangChain agents in Production (⭐379)](https://github.com/steamship-packages/langchain-agent-production-starter): Deploy LangChain Agents and connect them to Telegram ![GitHub Repo stars](https://img.shields.io/github/stars/steamship-packages/langchain-agent-production-starter?style=social)
+*   [Multi-Modal LangChain agents in Production (⭐395)](https://github.com/steamship-packages/langchain-agent-production-starter): Deploy LangChain Agents and connect them to Telegram ![GitHub Repo stars](https://img.shields.io/github/stars/steamship-packages/langchain-agent-production-starter?style=social)
 
 ### Tools / Templates
 
-*   [AI (⭐5.4k)](https://github.com/vercel-labs/ai): Vercel template to build AI-powered applications with React, Svelte, and Vue, first class support for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai?style=social)
-*   [AI Getting Started (⭐3.8k)](https://github.com/a16z-infra/ai-getting-started): A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs ![GitHub Repo stars](https://img.shields.io/github/stars/a16z-infra/ai-getting-started?style=social)
-*   [Embedchain (⭐6.2k)](https://github.com/embedchain/embedchain): Framework to easily create LLM powered bots over any dataset. ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
+*   [AI (⭐6.8k)](https://github.com/vercel-labs/ai): Vercel template to build AI-powered applications with React, Svelte, and Vue, first class support for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai?style=social)
+*   [AI Getting Started (⭐3.9k)](https://github.com/a16z-infra/ai-getting-started): A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs ![GitHub Repo stars](https://img.shields.io/github/stars/a16z-infra/ai-getting-started?style=social)
+*   [Embedchain (⭐7.8k)](https://github.com/embedchain/embedchain): Framework to easily create LLM powered bots over any dataset. ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
 
 ### Open Source Projects / Knowledge Management
 
-*   [DocNavigator (⭐94)](https://github.com/vgulerianb/DocNavigator): AI-powered chatbot builder that is designed to improve the user experience on product documentation/support websites ![GitHub Repo stars](https://img.shields.io/github/stars/vgulerianb/DocNavigator?style=social)
+*   [DocNavigator (⭐106)](https://github.com/vgulerianb/DocNavigator): AI-powered chatbot builder that is designed to improve the user experience on product documentation/support websites ![GitHub Repo stars](https://img.shields.io/github/stars/vgulerianb/DocNavigator?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Robby-Chatbot (⭐650)](https://github.com/yvann-hub/Robby-chatbot): AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡.
-*   [AI Chatbot (⭐3.6k)](https://github.com/vercel-labs/ai-chatbot): A full-featured, hackable Next.js AI chatbot built by Vercel Labs ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai-chatbot?style=social)
-*   [Instrukt (⭐203)](https://github.com/blob42/Instrukt): A fully-fledged AI environment in the terminal. Build, test and instruct agents. ![GitHub Repo stars](https://img.shields.io/github/stars/blob42/Instrukt?style=social)
-*   [OpenChat (⭐4.9k)](https://github.com/openchatai/OpenChat/): LLMs custom-chatbots console ⚡. ![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)
+*   [Robby-Chatbot (⭐705)](https://github.com/yvann-hub/Robby-chatbot): AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡.
+*   [AI Chatbot (⭐4.1k)](https://github.com/vercel-labs/ai-chatbot): A full-featured, hackable Next.js AI chatbot built by Vercel Labs ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai-chatbot?style=social)
+*   [Instrukt (⭐208)](https://github.com/blob42/Instrukt): A fully-fledged AI environment in the terminal. Build, test and instruct agents. ![GitHub Repo stars](https://img.shields.io/github/stars/blob42/Instrukt?style=social)
+*   [OpenChat (⭐5k)](https://github.com/openchatai/OpenChat/): LLMs custom-chatbots console ⚡. ![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [OpenLLM (⭐7.4k)](https://github.com/bentoml/OpenLLM): An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease using OpenLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social)
+*   [OpenLLM (⭐8.3k)](https://github.com/bentoml/OpenLLM): An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease using OpenLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social)
 *   [FlagAI (⭐3.7k)](https://github.com/FlagAI-Open/FlagAI): FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. ![GitHub Repo stars](https://img.shields.io/github/stars/FlagAI-Open/FlagAI?style=social)
-*   [AI.JSX (⭐822)](https://github.com/fixie-ai/ai-jsx): The AI Application Framework for Javascript ![GitHub Repo stars](https://img.shields.io/github/stars/fixie-ai/ai-jsx?style=social)
+*   [AI.JSX (⭐951)](https://github.com/fixie-ai/ai-jsx): The AI Application Framework for Javascript ![GitHub Repo stars](https://img.shields.io/github/stars/fixie-ai/ai-jsx?style=social)
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -160,11 +160,11 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 ### Utility / Diagnostics
 
-*   [aPeoplesCalendar/apc.nvim (⭐19)](https://github.com/aPeoplesCalendar/apc.nvim) - "On this day" style calendar, which provides information about worldwide history of working class movements and liberation struggles.
+*   [aPeoplesCalendar/apc.nvim (⭐20)](https://github.com/aPeoplesCalendar/apc.nvim) - "On this day" style calendar, which provides information about worldwide history of working class movements and liberation struggles.
 
 ### Editing Support / Diagnostics
 
-*   [tomiis4/hypersonic.nvim (⭐179)](https://github.com/tomiis4/hypersonic.nvim) - Provides explanation for RegExp.
+*   [tomiis4/hypersonic.nvim (⭐183)](https://github.com/tomiis4/hypersonic.nvim) - Provides explanation for RegExp.
 
 ---
 

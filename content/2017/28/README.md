@@ -280,10 +280,6 @@
 
 *   [clj-crypto (⭐27)](https://github.com/macourtney/clj-crypto/) - Wrapper for Bouncy Castle.
 
-### Java / Git
-
-*   [Google Tink (⭐13k)](https://github.com/google/tink) - A small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks.
-
 ### PHP / Git
 
 *   [libsodium-laravel (⭐21)](https://github.com/scrothers/libsodium-laravel) - Laravel Package Abstraction using `libsodium`.

@@ -69,7 +69,7 @@
 
 ### Utility / Diagnostics
 
-*   [stevearc/dressing.nvim (⭐1.4k)](https://github.com/stevearc/dressing.nvim) - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
+*   [stevearc/dressing.nvim (⭐1.5k)](https://github.com/stevearc/dressing.nvim) - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

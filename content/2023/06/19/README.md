@@ -10,11 +10,11 @@
 
 ### Development / Discovery
 
-*   [nixd (⭐536)](https://github.com/nix-community/nixd) - Nix language server, based on Nix libraries.
+*   [nixd (⭐564)](https://github.com/nix-community/nixd) - Nix language server, based on Nix libraries.
 
 ### Overlays / Webinterface
 
-*   [chaotic-nyx (⭐132)](https://github.com/chaotic-cx/nyx) - Daily bumped bleeding edge packages like `mesa_git` & others that aren't yet in Nixpkgs. Created by the makers of [Chaotic-AUR](https://github.com/chaotic-aur/).
+*   [chaotic-nyx (⭐147)](https://github.com/chaotic-cx/nyx) - Daily bumped bleeding edge packages like `mesa_git` & others that aren't yet in Nixpkgs. Created by the makers of [Chaotic-AUR](https://github.com/chaotic-aur/).
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Software / Calendar & Contacts
 
-*   [Manage My Damn Life](https://intri.in/manage-my-damn-life/) - Manage my Damn Life (MMDL) is a self-hosted front end for managing your CalDAV tasks and calendars. ([Source Code (⭐90)](https://github.com/intri-in/manage-my-damn-life-nextjs)) `GPL-3.0` `Nodejs/Docker`
+*   [Manage My Damn Life](https://intri.in/manage-my-damn-life/) - Manage my Damn Life (MMDL) is a self-hosted front end for managing your CalDAV tasks and calendars. ([Source Code (⭐96)](https://github.com/intri-in/manage-my-damn-life-nextjs)) `GPL-3.0` `Nodejs/Docker`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -46,7 +46,7 @@
 
 ### Git / Diagnostics
 
-*   [linrongbin16/gitlinker.nvim (⭐70)](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of "ruifm's gitlinker", refactored with bug fixes, alias-host, `/blame` url support and other enhancements.
+*   [linrongbin16/gitlinker.nvim (⭐79)](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of "ruifm's gitlinker", refactored with bug fixes, alias-host, `/blame` url support and other enhancements.
 
 ## [6. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 

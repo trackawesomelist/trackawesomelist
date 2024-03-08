@@ -83,7 +83,7 @@
 
 ### Modules / Editor framework
 
-*   [Denops (⭐604)](https://github.com/vim-denops/denops.vim) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
+*   [Denops (⭐615)](https://github.com/vim-denops/denops.vim) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
 
 ---
 

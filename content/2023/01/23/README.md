@@ -100,7 +100,7 @@
 
 ### Multimedia
 
-*   [Easy Effects (⭐5.6k)](https://github.com/wwmm/easyeffects) -  Audio effects for PipeWire applications .
+*   [Easy Effects (⭐5.7k)](https://github.com/wwmm/easyeffects) -  Audio effects for PipeWire applications .
 
 ### System and Customization
 
@@ -147,7 +147,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ez-cmd (⭐1)](https://github.com/akgarhwal/ez-cmd) - Simplifies and streamlines common command-line tasks by providing easy-to-use shortcuts and aliases.
-*   [multi-evalcache (⭐0)](https://github.com/rwwiv/multi-evalcache) - Cache multiple eval loads to improve startup time, inspired by [mroth/evalcache (⭐164)](https://github.com/mroth/evalcache).
+*   [multi-evalcache (⭐0)](https://github.com/rwwiv/multi-evalcache) - Cache multiple eval loads to improve startup time, inspired by [mroth/evalcache (⭐167)](https://github.com/mroth/evalcache).
 
 ## [13. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 

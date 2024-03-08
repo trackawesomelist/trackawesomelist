@@ -10,8 +10,8 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [gtfs-blocks-to-transfers (⭐4)](https://github.com/TransitApp/GTFS-blocks-to-transfers) - A Python tool to convert GTFS blocks, defined by setting [trip.block\_id (⭐496)](https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md#example-blocks-and-service-day) into a series of [trip-to-trip transfers (proposal) (⭐496)](https://github.com/google/transit/pull/303).
-*   [GTFS Editor (⭐133)](https://github.com/conveyal/gtfs-editor) - A (self-hosted) web-based GTFS editing framework. (Note: this project has been deprecated in favor of [IBI Data Tools (⭐108)](https://github.com/ibi-group/datatools-ui).)
+*   [gtfs-blocks-to-transfers (⭐4)](https://github.com/TransitApp/GTFS-blocks-to-transfers) - A Python tool to convert GTFS blocks, defined by setting [trip.block\_id (⭐502)](https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md#example-blocks-and-service-day) into a series of [trip-to-trip transfers (proposal) (⭐502)](https://github.com/google/transit/pull/303).
+*   [GTFS Editor (⭐133)](https://github.com/conveyal/gtfs-editor) - A (self-hosted) web-based GTFS editing framework. (Note: this project has been deprecated in favor of [IBI Data Tools (⭐110)](https://github.com/ibi-group/datatools-ui).)
 *   [GTFS Editor for Vagrant (⭐6)](https://github.com/laidig/vagrant-gtfs-editor) - Quickly set up the GTFS editor (above) using [Vagrant](https://www.vagrantup.com/)
 
 ## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)

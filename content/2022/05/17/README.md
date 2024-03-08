@@ -53,7 +53,7 @@
 
 ### Modules / Machine learning
 
-*   [netsaur (⭐182)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
+*   [netsaur (⭐186)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
 *   [synaptic (⭐14)](https://github.com/load1n9/synaptic) - Dependency-less neural network library ported to deno
 
 ### Modules / Math
@@ -95,7 +95,7 @@
 
 ### Form / Checkbox
 
-*   [svelte-formly (⭐248)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
+*   [svelte-formly (⭐250)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
 
 ## [12. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 

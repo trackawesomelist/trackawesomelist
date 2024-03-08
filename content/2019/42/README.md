@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 21 - Oct 27, 2019
 
-79 awesome lists updated this week.
+78 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,33 +18,31 @@
 
 *   [Vapor Red](https://vapor.red)
 
-## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [3. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
-### Boilerplates
+### React Next Boilerplate [↗](https://awesomestacks.dev/react-next-boilerplate) / Resources
 
-*   [react-next-boilerplate (⭐345)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
-
-## [4. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
+*   [react-next-boilerplate (⭐345)](https://github.com/react-next-boilerplate/react-next-boilerplate)
 
 ### React Next Boilerplate [↗](https://awesomestacks.dev/react-next-boilerplate)
 
-*   [React Testing Library](https://testing-library.com/docs/react-testing-library/intro) - [🛠](https://stackshare.io/react-testing-library) - [🐙 (⭐18k)](https://github.com/testing-library/react-testing-library) - react-testing-library is a tool in the Testing Frameworks category of a tech stack.
+*   [React Testing Library](https://testing-library.com/docs/react-testing-library/intro) - [🛠](https://stackshare.io/react-testing-library) - [🐙 (⭐19k)](https://github.com/testing-library/react-testing-library) - react-testing-library is a tool in the Testing Frameworks category of a tech stack.
 *   [Emotion](https://emotion.sh/) - [🛠](https://stackshare.io/emotion) - [🐙 (⭐17k)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition.
-*   [I18next](https://www.i18next.com/) - [🐙 (⭐7.2k)](https://github.com/i18next/i18next) - I18next is an internationalization-framework written in and for JavaScript. But it's much more than that.
+*   [I18next](https://www.i18next.com/) - [🐙 (⭐7.3k)](https://github.com/i18next/i18next) - I18next is an internationalization-framework written in and for JavaScript. But it's much more than that.
 *   [Redux Saga](https://redux-saga.js.org/) - [🐙 (⭐23k)](https://github.com/redux-saga/redux-saga) - is a library that aims to make application side effects (i.e. asynchronous things like data fetching and impure things like accessing the browser cache) easier to manage, more efficient to execute, easy to test, and better at handling failures.
 
 ### GCP Kubernetes Stack [↗](https://awesomestacks.dev/gcp-kubernetes-stack) / Resources
 
 *   [Stackdriver](https://cloud.google.com/stackdriver/) - [🛠️](https://stackshare.io/stackdriver) - Stackdriver Logging allows you to store, search, analyze, monitor, and alert on log data and events.
 
-## [5. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [4. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### JavaScript / More
 
 *   [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - This extension provides AI-assisted development features including autocomplete and other insights based on understanding your code context.
     ![Visual Studio IntelliCode](https://docs.microsoft.com/en-us/visualstudio/intellicode/media/python-intellicode.gif)
 
-## [6. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [5. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Build Automation and Package management
 
@@ -54,13 +52,13 @@
 
 *   [Meander (⭐891)](https://github.com/noprompt/meander)
 
-## [7. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
 *   [Pwnagotchi (⭐6.9k)](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi is an AI based Wi-Fi cracking tool that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Journaling
 
@@ -82,19 +80,19 @@
 
 *   [Microsoft To-Do](https://todo.microsoft.com/) - Microsoft's successor to Wunderlist. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/de/app/microsoft-to-do/id1274495053?mt=12)
 
-## [9. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [8. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Kinesis
 
 *   [amazon-kinesis-client-nodejs :fire::fire: (⭐287)](https://github.com/awslabs/amazon-kinesis-client-nodejs) - Client Library for Node.js.
 
-## [10. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [9. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Services / Misc
 
 *   [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time.
 
-## [11. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [10. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Hardware / Plotters
 
@@ -104,13 +102,13 @@
 
 *   [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) - Deep dive into surface projection and hidden line removal using Python and penplot.
 
-## [12. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [11. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Miscellaneous / Others
 
 *   [Morsify](https://morsify.net) - Online Morse code translator.
 
-## [13. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [12. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Programming / Go
 
@@ -120,20 +118,20 @@
 
 *   [Python Developer Jobs](https://pythonjob.xyz)
 
-## [14. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [13. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Other libraries and tools / Mesh tools
 
 *   [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) - Wavelet transforms in Python.
     (Python, MIT, [GitHub (⭐1.7k)](https://github.com/PyWavelets/pywt))
 
-## [15. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [14. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Tools
 
 *   [salt-lint (⭐121)](https://github.com/warpnet/salt-lint/) - Checks Salt state files (SLS) for practices and behavior that could potentially be improved.
 
-## [16. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
+## [15. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
 
 ### Official Links / PGF/TikZ
 
@@ -149,7 +147,7 @@
 *   [PlotNeuralNet (⭐18k)](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
 *   [awesome-latex-drawing (⭐913)](https://github.com/xinychen/awesome-latex-drawing) - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
 
-## [17. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Persistent object databases
 
@@ -194,7 +192,7 @@
 
 *   [calendar-date (⭐8)](https://github.com/takagi/calendar-date) - a Gregorian calendar date library. [MIT](https://opensource.org/licenses/MIT).
 
-## [18. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
+## [17. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
 ### General Purpose
 
@@ -213,7 +211,7 @@
     [Repo (⭐1.2k)](https://github.com/getbase/base)
     \| #SCSS #LESS
 
-## [19. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [18. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
@@ -226,7 +224,7 @@
 *   [Six programming paradigms that will change how you think about coding](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will) - Post by Yevgeniy Brikman describing different programming paradigms that are not commonly applied.
 *   [The Fun (and Madness) of Esoteric Programming Languages](https://tomassetti.me/discovering-arcane-world-esoteric-programming-languages) - Straightforward introduction to esoteric languages with examples.
 
-## [20. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [19. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Design Patterns and Anti Patterns
 
@@ -255,7 +253,7 @@
 *   [Process starvation](https://en.wikipedia.org/wiki/Starvation_\(computer_science\)) - A problem where a process is perpetually denied resources to do its work.
 *   [Time travel debugging](https://en.wikipedia.org/wiki/Time_travel_debugging) - Stepping back in time through source code to understand execution and sometimes even to change history.
 
-## [21. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [20. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Europe / Germany 🇩🇪
 
@@ -274,13 +272,13 @@ Topics: Clojure, Web Apps, Security\
 Topics: CSS, CSS in JS, React\
 <https://twitter.com/robinweser>
 
-## [22. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [21. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Conferences & Meetups
 
 *   [ADDO - All Day DevOps](https://www.alldaydevops.com/) - A 24 hour conference that is completely online and free.
 
-## [23. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [22. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Philosophy And Psychology
 
@@ -294,25 +292,25 @@ Topics: CSS, CSS in JS, React\
 
 
 
-## [24. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [23. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Open source code
 
 *   [Canvas Quiz (⭐39)](https://github.com/googlecreativelab/aog-canvas-quiz) - It is a starter kit for developers to make custom, voice-enabled question-answer games for the Google Assistant.
 
-## [25. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [24. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [Courgette](https://courgette-testing.com) - Beautifully simple UI testing. Proper declarative BDD scenarios using Gherkin, Gherkin templates and composable YAML-style page and component objects.
 
-## [26. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [25. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Terminal / Extensions
 
 *   [hss (⭐305)](https://github.com/six-ddc/hss) - Never type the annoying ssh commands again.
 
-## [27. Awesome Imba](/content/koolamusic/awesome-imba/week/README.md)
+## [26. Awesome Imba](/content/koolamusic/awesome-imba/week/README.md)
 
 ### Resources / Official Resources
 
@@ -323,13 +321,13 @@ Topics: CSS, CSS in JS, React\
 
 *   [Start Imba (⭐22)](https://github.com/athif23/start-imba) - Tool to bootstrap an Imba protect that was inspired by Create React App and Vue CLI.
 
-## [28. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [27. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Websites and Resources
 
 *   [Wearables Table](https://quantifyme.io/) - Nice crowd-sourced table of wearables.
 
-## [29. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
+## [28. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 
 ### General / UX
 
@@ -340,7 +338,7 @@ Topics: CSS, CSS in JS, React\
 
     Women Who Code (WWCode) is a U.S. based 501(c)(3) nonprofit dedicated to inspiring women to excel in technology careers. WWCpde connects amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
 
-## [30. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [29. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Conferences and Events / North America
 
@@ -350,7 +348,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [AWS Tool Arsenal (⭐8.6k)](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of tools for testing and securing AWS environments.
 
-## [31. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [30. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
@@ -365,38 +363,38 @@ Topics: CSS, CSS in JS, React\
 *   [Optimizing Image Element Thresholds](https://appiumpro.com/editions/90)
 *   [Getting Started With Appium For Android On Windows](https://appiumpro.com/editions/91)
 
-## [32. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [31. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Anti Forensics (⭐604)](https://github.com/remiflavien1/awesome-anti-forensic) - A collection of awesome tools used to counter forensics activities.
 
-## [33. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [32. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Data Structures and Modeling
 
 *   [Structure Your Database](https://firebase.google.com/docs/database/android/structure-data) - Best practices (as of 2018) of structuring your data if your database uses JSON.
 
-## [34. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [33. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Graphics / Image Conversion
 
 *   [pastel (⭐4.6k)](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
 
-## [35. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [34. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Posts
 
 *   [A Study Used Sensors To Show That Men And Women Are Treated Differently At Work](https://hbr.org/2017/10/a-study-used-sensors-to-show-that-men-and-women-are-treated-differently-at-work) - By Stephen Turban, Laura Freeman and Ben Waber.
 *   [Accessibility 101: Introduction To Disability And Accessibility](https://www.youtube.com/watch?v=qM7wFZo5yfI) - By Jenny Lay-Flurrie.
 
-## [36. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [35. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2019
 
 *   [Una Kravets: **CSS Houdini & The Future of Styling**](https://www.youtube.com/watch?v=GhRE3rML9t4) \[25:42]
 
-## [37. Awesome C](/content/inputsh/awesome-c/week/README.md)
+## [36. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
 ### Build Systems
 
@@ -508,7 +506,7 @@ Topics: CSS, CSS in JS, React\
 *   [libnfc (⭐1.3k)](https://github.com/nfc-tools/libnfc) - Platform-independent Near-Field Communication library. [`GNU LGPL3`](http://www.gnu.org/licenses/lgpl-3.0.html)
 *   [ncurses](https://www.gnu.org/software/ncurses/) - Coloured terminal UI library. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 
-## [38. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [37. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Hardware Support
 
@@ -534,7 +532,7 @@ Topics: CSS, CSS in JS, React\
 *   [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) - includes the Arm Graphics Analyzer to trace graphics performance issues easily, and Arm Streamline performance analyzer, for a whole-system view of performance to determine bottlenecks quickly across both the CPU and GPU.
 *   [Arm - PerfDoc (⭐115)](https://github.com/ARM-software/perfdoc) - a validation layer against the Mali Application Developer Best Practices document. \[MIT]
 
-## [39. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [38. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@ashfurrow](https://github.com/ashfurrow), [Moya (⭐14k)](https://github.com/moya/moya)
     *   "Building Open Source Communities" ([slides](https://speakerdeck.com/ashfurrow/building-open-source-communities))
@@ -545,7 +543,7 @@ Topics: CSS, CSS in JS, React\
     *   "Maintainer Stories: Henry Zhu" ([interview](https://github.com/open-source/stories/hzoo))
     *   "Maintaining an OSS project" ([video](https://www.youtube.com/watch?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_\&v=_iToM2KC0QE), [slides](https://hzoo.github.io/maintaining-an-oss-project/assets/player/KeynoteDHTMLPlayer.html#0))
 
-## [40. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [39. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -559,7 +557,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Admob Flutter (⭐428)](https://github.com/kmcgill88/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
 
-## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [40. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Major Cloud Providers
 
@@ -586,7 +584,7 @@ Topics: CSS, CSS in JS, React\
 *   [Foursquare](https://developer.foursquare.com/) - Location discovery, venue search, and context-aware content from Places API and Pilgrim SDK.
 *   [stadiamaps.com](https://stadiamaps.com/) — Map tiles, routing, navigation, and other geospatial APIs. Two thousand five hundred free map views and API requests/day for non-commercial usage and testing.
 
-## [42. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [41. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / Custom License / Usage
 
@@ -602,13 +600,13 @@ Topics: CSS, CSS in JS, React\
 *   [Colorful Gradients](https://colorfulgradients.tumblr.com/) - Gradients automatically created by a computer. 48 times daily.
 *   [Coolhue 2.0](https://webkul.github.io/coolhue/) - Coolest handpicked Gradient Palette and Swatch for your next super amazing stuff.
 
-## [43. Tools](/content/lvwzhen/tools/week/README.md)
+## [42. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### Font
 
 *   [Adobe Fonts](https://fonts.adobe.com/)
 
-## [44. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [43. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Books / Algorithms and Data structures
 
@@ -618,7 +616,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Firecode](https://www.firecode.io/) - Firecode.io uses machine learning algorithms along with curated real-world interview questions, solutions & a vibrant social community of learners to get you ready for your next coding interview.
 
-## [45. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [44. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Open Source / Casual
 
@@ -628,13 +626,13 @@ Topics: CSS, CSS in JS, React\
 
 *   [BGUG (⭐90)](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
 
-## [46. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [45. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Databases
 
 *   [SQLite4S (⭐29)](https://github.com/david-bouyssie/sqlite4s) - Port of the Java library [Sqlite4java](https://bitbucket.org/almworks/sqlite4java). Includes bindings for the SQLite native library.
 
-## [47. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [46. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
@@ -646,27 +644,27 @@ Topics: CSS, CSS in JS, React\
 
 *   [Nucelo Icons](https://nucleoapp.com/premium-icons) - A premium library of SVG icons for iOS, Android & web projects.
 
-## [48. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [47. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### MOOCs
 
 *   [Brilliant.org Quantum Computing](https://brilliant.org/courses/quantum-computing/) - Explanations through problems. Curated along with Microsoft and Alphabet X.
 
-## [49. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [48. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 
 *   [aurelia-kis-oidc (⭐8)](https://github.com/kisssdev/aurelia-kis-oidc) \* An Aurelia plugin that encapsulates [oidc-client-js library (⭐2.4k)](https://github.com/IdentityModel/oidc-client-js).
 *   [aurelia-telemetry (⭐1)](https://github.com/manuel-guilbault/aurelia-telemetry)
 
-## [50. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [49. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Books / Other Resources
 
 *   [Learning Malware Analysis](https://www.packtpub.com/networking-and-servers/learning-malware-analysis) - Learning Malware Analysis: Explore the concepts, tools, and techniques to analuze and investigate Windows malware
 *   [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering) - Mastering Reverse Engineering: Re-engineer your ethical hacking skills
 
-## [51. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [50. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Systems
 
@@ -676,7 +674,7 @@ Topics: CSS, CSS in JS, React\
     *   [Lecture Videos](https://www.youtube.com/playlist?list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5)
     *   [Lecture Notes](https://webpages.uncc.edu/\~jmconrad/EducationalMaterials/index.html)
 
-## [52. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [51. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Introspection / Text-Based User Interfaces
 
@@ -684,7 +682,7 @@ Topics: CSS, CSS in JS, React\
 *   [ReflectASM (⭐1.5k)](https://github.com/EsotericSoftware/reflectasm) - ReflectASM is a very small Java library that provides high performance reflection by using code generation.
 *   [Reflections (⭐4.6k)](https://github.com/ronmamo/reflections) - Reflections scans your classpath, indexes the metadata, allows you to query it on runtime and may save and collect that information for many modules within your project.
 
-## [53. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [52. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Official Resources
 
@@ -708,20 +706,20 @@ Topics: CSS, CSS in JS, React\
 *   [OctoPerf Blog](https://octoperf.com/categories/jmeter/) - OctoPerf blog about JMeter and load testing.
 *   [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
 
-## [54. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [53. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Server Side Swift
 
 *   [*Server-Side Swift (Vapor Edition)* by Paul Hudson](https://www.hackingwithswift.com/store/server-side-swift)
 *   [*Server-Side Swift (Kitura Edition)* by Paul Hudson](https://www.hackingwithswift.com/store/server-side-swift)
 
-## [55. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [54. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Web-tools / Git
 
 *   [factordb.com](http://factordb.com/) - Factordb.com is tool used to store known factorizations of any number.
 
-## [56. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [55. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
@@ -768,7 +766,7 @@ Topics: CSS, CSS in JS, React\
 *   [Stéphane Peter](https://github.com/sponsors/megastep) - AudioKit contributor, Makeself and other libraries and projects.
 *   [Tim Oliver](https://github.com/sponsors/TimOliver) - Multitude of iOS libraries and various contribution to the iOS ecosystem.
 
-## [57. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [56. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
@@ -778,7 +776,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Building Remote Teams](https://www.buildingremoteteams.com/) - Targeted at people already working remotely and focuses on nuanced challenges of remote work.
 
-## [58. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [57. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
@@ -792,7 +790,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [IKOS (⭐2k)](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation. \[NOSA 1.3]
 
-## [59. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
+## [58. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
 
 ### UK / London
 
@@ -806,7 +804,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Creative Coding Stockholm](https://www.meetup.com/Creative-Coding-Stockholm/) - Meetup group for anyone interested in creating art using programming languages.
 
-## [60. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [59. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Competition / Other
 
@@ -816,7 +814,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [ebowla (⭐717)](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
 
-## [61. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [60. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Dictionaries
 
@@ -846,19 +844,19 @@ Topics: CSS, CSS in JS, React\
 
 
 
-## [62. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [61. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts / Third Party
 
 *   [v-chart-plugin (⭐198)](https://github.com/ignoreintuition/v-chart-plugin) - Easily bind a chart to the data stored in your Vue.js components.
 
-## [63. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [62. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
 *   [Chama o Suporte](https://open.spotify.com/show/5NR3iBbF3aRUP2gEDRzjGo) - Podcast do grupo Guardians do curso de Ciência da Computação da Universidade Federal de Campina Grande.
 
-## [64. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [63. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Party
 
@@ -890,7 +888,7 @@ Topics: CSS, CSS in JS, React\
 | ------: | -------: | ---: |
 |   3 - 6 |       12 |  30m |
 
-## [65. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [64. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Tools / Converters
 
@@ -925,7 +923,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Pandoc’s Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - [Pandoc](https://pandoc.org/) has its own, powerful markdown implementation. It consists of several addional extensions.
 
-## [66. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [65. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Messaging
 
@@ -935,7 +933,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Beaker Browser](https://beakerbrowser.com/) an experimental browser for exploring the p2p web. The link now points at [this post (⭐6.7k)](https://github.com/beakerbrowser/beaker/blob/master/archive-notice.md) explaining its archival.
 
-## [67. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [66. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
@@ -945,18 +943,18 @@ Topics: CSS, CSS in JS, React\
 
 *   [Orion icon library](https://orioniconlibrary.com/) - Generate icon fonts or download icons in multiple formats.
 
-## [68. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [67. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [Katalyst](https://katalyst.codurance.com/)
 *   [The Beverages Prices Refactoring Kata (⭐1)](https://github.com/trikitrok/beverages_pricing_refactoring_kata)
 
-## [69. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [68. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [HRConvert2 (⭐826)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
+*   [HRConvert2 (⭐832)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -966,7 +964,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Open Event Server (⭐2.9k)](https://github.com/fossasia/open-event-server) - Enables organizers to manage events from concerts to conferences and meet-ups. `GPL-3.0` `Python/Docker`
 
-## [70. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [69. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Search
 
@@ -976,7 +974,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Canvas (⭐3k)](https://github.com/cnvs/canvas) - A Laravel Publishing Platform
 
-## [71. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [70. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Data binding
 
@@ -998,7 +996,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Android Architecture Blueprints (⭐42k)](https://github.com/android/architecture-samples) - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.
 
-## [72. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [71. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Algorithm
 
@@ -1015,9 +1013,9 @@ Topics: CSS, CSS in JS, React\
 ### Quality / Barcode
 
 *   [SwiftCop (⭐541)](https://github.com/andresinaka/SwiftCop) - A validation library which inspired by the clarity of Ruby On Rails Active Record validations.
-*   [SwiftFormat (⭐7.3k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
+*   [SwiftFormat (⭐7.4k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 
-## [73. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [72. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Android
 
@@ -1048,7 +1046,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [26 Essential Python Interview Questions from Adeva](https://adevait.com/python/interview-questions)
 
-## [74. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [73. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Foundations of Mathematics / Type Theory
 
@@ -1060,7 +1058,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Galois Theory](https://math.illinoisstate.edu/schebol/teaching/407-14-files/Stewart-galois_theory.pdf) - Ian Stewart
 
-## [75. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
+## [74. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
 ### Companies / Water
 
@@ -1090,7 +1088,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Clean Tech Sweden](https://swedishcleantech.com/) - Hub of Swedish clean tech companies.
 
-## [76. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [75. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Forensics
 
@@ -1106,7 +1104,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [HackThisSite (⭐216)](https://github.com/HackThisSite/CTF-Writeups) - CTF write-ups repo maintained by HackThisSite team.
 
-## [77. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [76. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -1116,7 +1114,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [crecto (⭐342)](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
 
-## [78. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [77. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -1135,7 +1133,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Action For Semantic Release (⭐328)](https://github.com/cycjimmy/semantic-release-action)
 
-## [79. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [78. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / IDE
 

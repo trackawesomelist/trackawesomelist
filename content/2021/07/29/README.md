@@ -16,13 +16,13 @@
 
 ### Software / Pastebins
 
-*   [rustypaste (⭐629)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
+*   [rustypaste (⭐636)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
 
 ## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Typescript Project Starters
 
-*   [nd.ts (⭐30)](https://github.com/heyayushh/nd.ts/) - setup bare minimum Node.ts project asap
+*   [nd.ts (⭐31)](https://github.com/heyayushh/nd.ts/) - setup bare minimum Node.ts project asap
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

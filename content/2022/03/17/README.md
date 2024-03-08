@@ -49,7 +49,7 @@
 
 ### Utility / Diagnostics
 
-*   [rgroli/other.nvim (⭐305)](https://github.com/rgroli/other.nvim) - Open alternative files for the current buffer.
+*   [rgroli/other.nvim (⭐308)](https://github.com/rgroli/other.nvim) - Open alternative files for the current buffer.
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

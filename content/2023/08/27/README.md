@@ -26,19 +26,19 @@
 
 ### (requires Neovim 0.5) / Diagnostics
 
-*   [piersolenski/wtf.nvim (⭐266)](https://github.com/piersolenski/wtf.nvim) - AI powered diagnostic debugging, helps explain complex errors and offers custom tailored solutions.
+*   [piersolenski/wtf.nvim (⭐274)](https://github.com/piersolenski/wtf.nvim) - AI powered diagnostic debugging, helps explain complex errors and offers custom tailored solutions.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Verf/deepwhite.nvim (⭐60)](https://github.com/Verf/deepwhite.nvim) - A light colorscheme inspired by [flatwhite-syntax (⭐151)](https://github.com/biletskyy/flatwhite-syntax) and [elegant-emacs (⭐1.3k)](https://github.com/rougier/elegant-emacs).
+*   [Verf/deepwhite.nvim (⭐60)](https://github.com/Verf/deepwhite.nvim) - A light colorscheme inspired by [flatwhite-syntax (⭐153)](https://github.com/biletskyy/flatwhite-syntax) and [elegant-emacs (⭐1.3k)](https://github.com/rougier/elegant-emacs).
 
 ### Utility / Diagnostics
 
-*   [GCBallesteros/NotebookNavigator.nvim (⭐112)](https://github.com/GCBallesteros/NotebookNavigator.nvim) - Navigate and execute code cells.
+*   [GCBallesteros/NotebookNavigator.nvim (⭐117)](https://github.com/GCBallesteros/NotebookNavigator.nvim) - Navigate and execute code cells.
 
 ### Formatting / Diagnostics
 
-*   [stevearc/conform.nvim (⭐1.6k)](https://github.com/stevearc/conform.nvim) - A lightweight formatting engine that plays nice with LSP.
+*   [stevearc/conform.nvim (⭐1.8k)](https://github.com/stevearc/conform.nvim) - A lightweight formatting engine that plays nice with LSP.
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Third-Party Packages / Editors
 
-*   [django-ace (⭐129)](https://github.com/django-ace/django-ace) - ACE integration for Django.
+*   [django-ace (⭐131)](https://github.com/django-ace/django-ace) - ACE integration for Django.
 
 ## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 

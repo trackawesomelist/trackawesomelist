@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 23, 2016
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -277,13 +277,7 @@
 
 *   [notie (⭐6.3k)](https://github.com/jaredreich/notie) - Simple notifications and inputs with no dependencies.
 
-## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
-
-### Java / Git
-
-*   [keywhiz (⭐2.6k)](https://github.com/square/keywhiz) - A system for distributing and managing secrets.
-
-## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Resources / Books
 

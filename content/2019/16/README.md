@@ -316,7 +316,7 @@ git commit -m "submodule updated"
 
 ### Resources / Tutorials
 
-*   [pg-utils (⭐887)](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
+*   [pg-utils (⭐895)](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
 
 ## [28. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
@@ -349,7 +349,7 @@ git commit -m "submodule updated"
 
 ### JupyterLab Extensions
 
-*   [jupyterlab\_email (⭐53)](https://github.com/timkpaine/jupyterlab_email) - Email notebooks and their content from within JupyterLab.
+*   [jupyterlab\_email (⭐52)](https://github.com/timkpaine/jupyterlab_email) - Email notebooks and their content from within JupyterLab.
 
 ## [31. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -483,15 +483,15 @@ git commit -m "submodule updated"
 
 ### Nuxt, TypeScript + Docker [↗](https://awesomestacks.dev/nuxt-type-script-docker) / Resources
 
-*   [Nuxt](https://nuxtjs.org/) - [🛠](https://stackshare.io/nuxt) - [🐙 (⭐49k)](https://github.com/nuxt/nuxt.js) - Vue.js Meta Framework to create complex, fast & universal web applications quickly.
+*   [Nuxt](https://nuxtjs.org/) - [🛠](https://stackshare.io/nuxt) - [🐙 (⭐51k)](https://github.com/nuxt/nuxt.js) - Vue.js Meta Framework to create complex, fast & universal web applications quickly.
 
 ### Production Ready Django + Docker [↗](https://awesomestacks.dev/production-ready-django-docker) / Resources
 
 *   [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙 (⭐67k)](https://github.com/docker/docker) - A tool to create, deploy and run applications inside containers.
-*   [GitLab](https://about.gitlab.com/) - [🛠](https://stackshare.io/gitlab) - [🐙 (⭐23k)](https://github.com/gitlabhq/gitlabhq) - Open source self-hosted Git management software.
+*   [GitLab](https://about.gitlab.com/) - [🛠](https://stackshare.io/gitlab) - [🐙 (⭐24k)](https://github.com/gitlabhq/gitlabhq) - Open source self-hosted Git management software.
 *   [Python 3](https://www.python.org/) - [🛠](https://stackshare.io/python) - [🐙 (⭐58k)](https://github.com/python/cpython) - A programming language that lets you work quickly.
-*   [Django](https://www.djangoproject.com/) - [🛠](https://stackshare.io/django) - [🐙 (⭐75k)](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-*   [Caddy](https://caddyserver.com/) - [🛠](https://stackshare.io/caddy) - [🐙 (⭐51k)](https://github.com/mholt/caddy) - The HTTP/2 Web Server with Automatic HTTPS.
+*   [Django](https://www.djangoproject.com/) - [🛠](https://stackshare.io/django) - [🐙 (⭐76k)](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+*   [Caddy](https://caddyserver.com/) - [🛠](https://stackshare.io/caddy) - [🐙 (⭐53k)](https://github.com/mholt/caddy) - The HTTP/2 Web Server with Automatic HTTPS.
 *   [wemake-django-template (⭐1.9k)](https://github.com/wemake-services/wemake-django-template)
 
 ### Code Coverage & CI [↗](https://awesomestacks.dev/code-coverage-and-ci) / Resources
@@ -510,7 +510,7 @@ git commit -m "submodule updated"
 
 ### Streaming Analytics with Kafka, Spark, and Cassandra [↗](https://awesomestacks.dev/streaming-analytics-with-kafka-spark-and-cassandra) / Resources
 
-*   [kafka-sparkstreaming-cassandra (⭐96)](https://github.com/Yannael/kafka-sparkstreaming-cassandra)
+*   [kafka-sparkstreaming-cassandra (⭐97)](https://github.com/Yannael/kafka-sparkstreaming-cassandra)
 *   [Applying the Lambda Architecture with Spark, Kafka, and Cassandra](https://www.pluralsight.com/courses/spark-kafka-cassandra-applying-lambda-architecture)
 *   [Streaming Analytics with Spark, Kafka, Cassandra, and Akka](https://databricks.com/session/streaming-analytics-with-spark-kafka-cassandra-and-akka)
 

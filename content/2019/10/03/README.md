@@ -146,7 +146,7 @@
 
 ### Tools / Repair or Validate CSV
 
-*   [scrubcsv (⭐54)](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
+*   [scrubcsv (⭐56)](https://github.com/faradayio/scrubcsv) - Remove bad records from a CSV file and normalize (requires rust)
 
 ### Generate Table Schema / Repair or Validate CSV
 

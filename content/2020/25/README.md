@@ -568,7 +568,7 @@ Language: English
 
 ### Software / Money, Budgeting & Management
 
-*   [Family Accounting Tool (⭐168)](https://github.com/nymanjens/facto) - Web-based finance management tool for partners with partially shared expenses. `Apache-2.0` `Scala`
+*   [Family Accounting Tool (⭐171)](https://github.com/nymanjens/facto) - Web-based finance management tool for partners with partially shared expenses. `Apache-2.0` `Scala`
 
 ### Software / Note-taking & Editors
 
@@ -652,7 +652,7 @@ Language: English
 
 *   [Vim](https://vim.sourceforge.io/) — the ubiquitous text editor
     *   [autozimu/LanguageClient-neovim (⭐3.5k)](https://github.com/autozimu/LanguageClient-neovim) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
-    *   [crates.nvim (⭐700)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
+    *   [crates.nvim (⭐722)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
     *   [rust-tools.nvim (⭐2.2k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
     *   [rust.vim (⭐3.7k)](https://github.com/rust-lang/rust.vim) — provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     *   [vim-racer (⭐627)](https://github.com/racer-rust/vim-racer) — allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
@@ -671,7 +671,7 @@ Language: English
 
 ### Other multimodal data formats / Ruby
 
-*   [OMX: The Open Matrix data file format (⭐45)](https://github.com/osPlanning/omx) - A structured collection of two-dimensional array objects and associated metadata, for possible use in the transportation modeling industry.
+*   [OMX: The Open Matrix data file format (⭐46)](https://github.com/osPlanning/omx) - A structured collection of two-dimensional array objects and associated metadata, for possible use in the transportation modeling industry.
 
 ## [51. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -726,7 +726,7 @@ Language: English
 
 ### JupyterLab Extensions
 
-*   [jupyterlab\_templates (⭐348)](https://github.com/jpmorganchase/jupyterlab_templates) - Notebook templates in JupyterLab.
+*   [jupyterlab\_templates (⭐362)](https://github.com/jpmorganchase/jupyterlab_templates) - Notebook templates in JupyterLab.
 
 ## [57. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -933,7 +933,7 @@ Language: English
 
 ### Tools / XML
 
-*   [trex (⭐740)](https://github.com/crewdevio/Trex) - Package management like npm for deno.
+*   [trex (⭐739)](https://github.com/crewdevio/Trex) - Package management like npm for deno.
 
 ### Articles / XML
 

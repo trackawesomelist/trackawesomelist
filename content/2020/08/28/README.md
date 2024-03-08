@@ -44,8 +44,8 @@
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [Emacs (⭐277)](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
-*   [Vim (⭐422)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
+*   [Emacs (⭐282)](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
+*   [Vim (⭐427)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
 
 ## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [nbdev (⭐4.5k)](https://github.com/fastai/nbdev) - Develop, package and distribute Python packages to PyPI using Jupyter as a [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) environment.
+*   [nbdev (⭐4.7k)](https://github.com/fastai/nbdev) - Develop, package and distribute Python packages to PyPI using Jupyter as a [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) environment.
 
 ## [10. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

@@ -48,7 +48,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [shaunsingh/nord.nvim (⭐721)](https://github.com/shaunsingh/nord.nvim) - Neovim theme based off of the Nord Color Palette.
+*   [shaunsingh/nord.nvim (⭐732)](https://github.com/shaunsingh/nord.nvim) - Neovim theme based off of the Nord Color Palette.
 
 ## [7. Julia.jl](/content/svaksha/Julia.jl/README.md)
 

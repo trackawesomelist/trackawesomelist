@@ -10,7 +10,7 @@
 
 ### Tools / Services
 
-*   [Gorilla (⭐8.8k)](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
+*   [Gorilla (⭐9.1k)](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [maxmx03/FluoroMachine.nvim (⭐149)](https://github.com/maxmx03/FluoroMachine.nvim) - Synthwave x Fluoromachine port.
+*   [maxmx03/FluoroMachine.nvim (⭐151)](https://github.com/maxmx03/FluoroMachine.nvim) - Synthwave x Fluoromachine port.
 
 ---
 

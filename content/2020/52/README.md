@@ -405,11 +405,11 @@
 ### Studies
 
 *   [SvelteScaling](https://svelte-scaling.acmion.com/) - Does Svelte Scale?
-*   [Will it Scale? (⭐169)](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point.
+*   [Will it Scale? (⭐170)](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point.
 
 ### UI Libraries
 
-*   [attractions (⭐980)](https://github.com/illright/attractions) - A pretty cool and modern UI kit
+*   [attractions (⭐985)](https://github.com/illright/attractions) - A pretty cool and modern UI kit
 
 ### Scaffold / Checkbox
 
@@ -450,7 +450,7 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [Booster Framework (⭐391)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
+*   :octocat: [Booster Framework (⭐394)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
 
 ## [33. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 

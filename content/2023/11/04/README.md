@@ -17,7 +17,7 @@
 
 ### Third-Party Packages / Users
 
-*   [django-allauth-ui (⭐127)](https://github.com/danihodovic/django-allauth-ui/) - Better looking templates for django-allauth.
+*   [django-allauth-ui (⭐136)](https://github.com/danihodovic/django-allauth-ui/) - Better looking templates for django-allauth.
 
 ### Python Packages / Views
 
@@ -25,7 +25,7 @@
 
 ### Projects / Boilerplate
 
-*   [sidewinder (⭐139)](https://github.com/stribny/sidewinder/) - A Django starter kit that focuses on good defaults, developer experience, and deployment.
+*   [sidewinder (⭐145)](https://github.com/stribny/sidewinder/) - A Django starter kit that focuses on good defaults, developer experience, and deployment.
 
 ## [3. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 

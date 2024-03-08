@@ -84,12 +84,12 @@
 
 ### Nextjs Blog Starter [↗](https://awesomestacks.dev/nextjs-blog-starter) / Resources
 
-*   [Next.js](https://nextjs.org/) - [🛠](https://stackshare.io/next-js) - [🐙 (⭐116k)](https://github.com/zeit/next.js) - The React Framework for server rendering, static websites, PWAs.
-*   [TypeScript](https://www.typescriptlang.org/) - [🛠️](https://stackshare.io/typescript) - [🐙 (⭐96k)](https://github.com/Microsoft/TypeScript) - A typed superset of JavaScript that compiles to plain JavaScript.
+*   [Next.js](https://nextjs.org/) - [🛠](https://stackshare.io/next-js) - [🐙 (⭐119k)](https://github.com/zeit/next.js) - The React Framework for server rendering, static websites, PWAs.
+*   [TypeScript](https://www.typescriptlang.org/) - [🛠️](https://stackshare.io/typescript) - [🐙 (⭐97k)](https://github.com/Microsoft/TypeScript) - A typed superset of JavaScript that compiles to plain JavaScript.
 *   [Netlify](https://netlify.com/) - [🛠️](https://stackshare.io/netlify) - Netlify is a global CDN that makes continuous deployments as simple as a few clicks.
 *   [PostCSS](https://postcss.org/) - [🛠](https://stackshare.io/postcss) - [🐙 (⭐28k)](https://github.com/postcss/postcss) - A tool for transforming CSS with JavaScript.
 *   [eslint](https://eslint.org/) - [🛠️](https://stackshare.io/eslint) - [🐙 (⭐24k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript and JSX.
-*   [Nextjs Blog Starter (⭐590)](https://github.com/ixartz/Next-js-Blog-Boilerplate)
+*   [Nextjs Blog Starter (⭐602)](https://github.com/ixartz/Next-js-Blog-Boilerplate)
 *   [Nextjs Blog Starter Demo](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/)
 
 ## [11. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
@@ -108,11 +108,11 @@
 
 ### Third-Party Packages / Security
 
-*   [django-protected-media (⭐63)](https://github.com/cobusc/django-protected-media) - Manages media that are considered sensitive in a protected fashion.
+*   [django-protected-media (⭐64)](https://github.com/cobusc/django-protected-media) - Manages media that are considered sensitive in a protected fashion.
 
 ### Resources / Conferences
 
-*   [Django Day Copenhagen (⭐8.1k)](https://github.com/wsvincent/awesome-django#conferences)
+*   [Django Day Copenhagen (⭐8.2k)](https://github.com/wsvincent/awesome-django#conferences)
 
 ## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 

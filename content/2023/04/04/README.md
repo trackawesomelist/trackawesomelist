@@ -41,7 +41,7 @@
 
 ### Other Development Tools / Smart Contracts
 
-*   [TEALScript (⭐45)](https://github.com/algorand-devrel/TEALScript) - Enables Algorand smart contract development with native TypeScript syntax, tooling, and IDE support.
+*   [TEALScript (⭐46)](https://github.com/algorand-devrel/TEALScript) - Enables Algorand smart contract development with native TypeScript syntax, tooling, and IDE support.
 
 ## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

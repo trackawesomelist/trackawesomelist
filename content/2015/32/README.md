@@ -160,7 +160,7 @@ An introduction to developing secure applications targeting version 4.5 of the .
 
 *   [Overcast](https://overcast.fm) - An elegant podcast tracker for iOS and the web
 *   [AntennaPod](http://antennapod.org) - (Android and Open Source)
-*   [Soundwaves (⭐142)](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
+*   [Soundwaves (⭐139)](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
 *   [DoggCatcher](http://www.doggcatcher.com) - Android Podcast player
 
 ## [11. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)

@@ -843,7 +843,7 @@
 
 ### Component Libraries
 
-*   [Smart Web Components (⭐403)](https://github.com/HTMLElements/smart-webcomponents) - Web components for business applications.
+*   [Smart Web Components (⭐411)](https://github.com/HTMLElements/smart-webcomponents) - Web components for business applications.
 
 ### Tools
 

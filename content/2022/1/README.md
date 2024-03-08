@@ -232,7 +232,7 @@
 
 ### Overlays / Webinterface
 
-*   [nixpkgs-firefox-darwin (⭐32)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
+*   [nixpkgs-firefox-darwin (⭐34)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
 
 ## [24. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
@@ -480,7 +480,7 @@
 
 ### Specific topics / Public key cryptography: General and DLP
 
-*   [How to Share a Secret (⭐6)](https://github.com/arupmondal-cs/Crypto-Research/blob/master/Secret%20Sharing/shamirturing.pdf) - A safe method for sharing secrets.
+*   [How to Share a Secret (⭐8)](https://github.com/arupmondal-cs/Crypto-Research/blob/master/Secret%20Sharing/shamirturing.pdf) - A safe method for sharing secrets.
 
 ### Books / Post-quantum cryptography
 
@@ -994,13 +994,12 @@
 
 ### Wallets
 
-*   [AlgoSigner (⭐92)](https://github.com/PureStake/algosigner) - Browser plugin Web Wallet and JS library for signing transactions in the browser.
+*   [AlgoSigner (⭐91)](https://github.com/PureStake/algosigner) - Browser plugin Web Wallet and JS library for signing transactions in the browser.
 
 ### Blockchain Explorers
 
 *   [Algorand Ballet](https://akaalias.github.io/algorand-ballet/) - Algorand accounts' 2D graphs.
 *   [Algorand Multiverse](https://algo3d.live/) - Algorand accounts' 3D graphs.
-*   [Algoscan](https://algoscan.app/) - Algoscan is a Blockchain Explorer and Analytics Platform. Built on top of the Algorand Network.
 
 ### Tutorials
 
@@ -1015,7 +1014,7 @@
 ### Languages / Go
 
 *   [go-algorand (⭐1.3k)](https://github.com/algorand/go-algorand) - Algorand's official implementation in Go.
-*   [go-algorand-sdk (⭐179)](https://github.com/algorand/go-algorand-sdk) - The Algorand Golang SDK.
+*   [go-algorand-sdk (⭐182)](https://github.com/algorand/go-algorand-sdk) - The Algorand Golang SDK.
 
 ### Languages / PHP
 
@@ -1024,13 +1023,8 @@
 
 ### Languages / Python
 
-*   [py-algorand-sdk (⭐244)](https://github.com/algorand/py-algorand-sdk) - The Algorand Python SDK.
-*   [tinyman-py-sdk (⭐117)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
-*   [algofi-py-sdk](https://github.com/Algofiorg/algofi-py-sdk) - Algofi Python SDK.
-
-### Languages / JavaScript & TypeScript
-
-*   [algofi-js-sdk](https://github.com/Algofiorg/algofi-js-sdk) - Algofi JavaScript SDK.
+*   [py-algorand-sdk (⭐247)](https://github.com/algorand/py-algorand-sdk) - The Algorand Python SDK.
+*   [tinyman-py-sdk (⭐118)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
 
 ### Languages / Java
 
@@ -1038,12 +1032,12 @@
 
 ### Languages / .NET
 
-*   [dotnet-algorand-sdk (⭐39)](https://github.com/RileyGe/dotnet-algorand-sdk) - Algorand .NET SDK created by [@RileyGe](https://github.com/RileyGe).
-*   [unity-algorand-sdk (⭐31)](https://github.com/CareBoo/unity-algorand-sdk) - An Algorand SDK for Unity. Use the Algorand blockchain in your video game.
+*   [dotnet-algorand-sdk (⭐38)](https://github.com/RileyGe/dotnet-algorand-sdk) - Algorand .NET SDK created by [@RileyGe](https://github.com/RileyGe).
+*   [unity-algorand-sdk (⭐30)](https://github.com/CareBoo/unity-algorand-sdk) - An Algorand SDK for Unity. Use the Algorand blockchain in your video game.
 
 ### Languages / Swift
 
-*   [algorand-wallet (⭐172)](https://github.com/algorand/algorand-wallet) - Algorand wallet official implementation in Swift.
+*   [algorand-wallet (⭐175)](https://github.com/algorand/algorand-wallet) - Algorand wallet official implementation in Swift.
 
 ### IDEs / vim
 
@@ -1059,7 +1053,7 @@
 
 ### Other Development Tools / Smart Contracts
 
-*   [pyteal (⭐273)](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
+*   [pyteal (⭐271)](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
 *   [pyteal-utils (⭐29)](https://github.com/algorand/pyteal-utils) - PyTEAL utilities library.
 
 ### Other Development Tools / Docker
@@ -1069,7 +1063,6 @@
 ### DeFi Platforms / Wallets
 
 *   [Tinyman](https://tinyman.org/) - A decentralized trading protocol, AMM and platform.
-*   [Algofi](https://www.algofi.org/) - Decentralized lending market and stablecoin on the Algorand blockchain.
 *   [Lofty.ai](https://www.lofty.ai/) - Tokenized real estate investing platform.
 *   [Folks.finance](https://folks.finance/) - Decentralized capital markets protocol.
 *   [C3](https://c3.io/) - Cross-margin cross-collateralization clearing engine protocol.
@@ -1077,11 +1070,6 @@
 ### Blockchain Bridges / Wallets
 
 *   [Algomint](https://algomint.io/) - Centralized BTC and ETH bridge to Algorand.
-*   [QUIGON](https://bridge.quigon.com/) - Centralized cross-chain NFT bridge.
-
-### Oracles / Wallets
-
-*   [Algoracle](https://www.algoracle.ai/) - Decentralized oracle networks that connect the Algorand blockchain with the real world.
 
 ### Name Services / Wallets
 
@@ -1090,14 +1078,12 @@
 ### Projects / Wallets
 
 *   [arc3.xyz (⭐22)](https://github.com/barnjamin/arc3.xyz) - Dapp that can be used to mint ARC3 compliant NFTs.
-*   [Auction Demo (⭐59)](https://github.com/algorand/auction-demo) - On-chain NFT auction using smart contracts.
+*   [Auction Demo (⭐58)](https://github.com/algorand/auction-demo) - On-chain NFT auction using smart contracts.
 *   [Algorand Session Wallet (⭐16)](https://github.com/barnjamin/algorand-session-wallet) - Session wallet to allow persisted wallet connections across multiple wallets.
 *   [WalletConnect Example DApp (⭐21)](https://github.com/algorand/walletconnect-example-dapp) - Algorand WalletConnect demo.
 *   [TinyBar App](https://tinybar.app) - A tiny macOS menu bar app for tracking ASA prices from TinyMan.
-*   [Algodesk](https://www.algodesk.io/) - Create, configure and manage your Assets on Algorand Blockchain.
 *   [minter (⭐11)](https://github.com/algofishexe/minter) - Bulk mint Algorand NFTs following the ARC-69 community standard. Written in Node.js by [@fish.exe](https://twitter.com/AlgofishExe).
-*   [galvanity (⭐8)](https://github.com/shmutalov/galvanity) - Galvanity is Algorand vanity address generator written in Go.
-*   [Algocurator](https://www.algocurator.com/home) - The Biggest Unofficial One-Stop Hub for Algorand.
+*   [galvanity (⭐9)](https://github.com/shmutalov/galvanity) - Galvanity is Algorand vanity address generator written in Go.
 
 ### NFT Marketplaces / Wallets
 
@@ -1105,7 +1091,7 @@
 *   [Rand Gallery](https://www.randgallery.com/) - Algorand Standard Asset (ASA) explorer and marketplace developed by [Chris Antaki](https://github.com/ChrisAntaki).
 *   [AlgoGems](https://algogems.io/) - Algorand Standard Asset (ASA) markeplace and trading platform for NFT collectors.
 *   [AlgoWorldExplorer](https://algoworldexplorer.io/) - NFT marketplace, explorer and gallery for AlgoWorld NFTs developed by [@aorumbayev](https://twitter.com/aorumbayev).
-*   [AlgoMart (⭐182)](https://github.com/deptagency/algomart) - Opensource NFT marketplace whitelabel solution.
+*   [AlgoMart (⭐181)](https://github.com/deptagency/algomart) - Opensource NFT marketplace whitelabel solution.
 *   [ALGOxNFT](https://algoxnft.com/listings/live) - NFT gallery and marketplace.
 *   [Dartroom](https://dartroom.xyz/overview) - Decentralized NFT explorer, minting and trading.
 *   [Alchemon](https://alchemon.net/) - Monster-collecting NFT card game.

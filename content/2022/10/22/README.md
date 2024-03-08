@@ -98,7 +98,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [human-essentials (⭐408)](https://github.com/rubyforgood/human-essentials) - An inventory management system for essentials banks (using Rails 7.0). - [:earth\_africa:](https://humanessentials.app/)
+*   [human-essentials (⭐414)](https://github.com/rubyforgood/human-essentials) - An inventory management system for essentials banks (using Rails 7.0). - [:earth\_africa:](https://humanessentials.app/)
 
 ## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

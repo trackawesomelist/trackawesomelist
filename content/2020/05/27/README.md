@@ -30,12 +30,12 @@
 
 ### Component Libraries
 
-*   [elements-sk (⭐28)](https://github.com/google/elements-sk) - Collection of custom elements for "a la carte" web development.
+*   [elements-sk (⭐29)](https://github.com/google/elements-sk) - Collection of custom elements for "a la carte" web development.
 *   [Lume (⭐1.2k)](https://github.com/lume/lume) - Custom elements for defining 2D or 3D scenes rendered with CSS3D or WebGL.
 
 ### Design Systems
 
-*   [Bolt Design System (⭐289)](https://github.com/boltdesignsystem/bolt) - Twig and Web Component-powered UI components, reusable visual styles and tooling.
+*   [Bolt Design System (⭐288)](https://github.com/boltdesignsystem/bolt) - Twig and Web Component-powered UI components, reusable visual styles and tooling.
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 

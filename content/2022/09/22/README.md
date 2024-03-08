@@ -10,7 +10,7 @@
 
 ### Security
 
-*   [Checkov (⭐6.3k)](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them. By [@bridgecrew](https://github.com/bridgecrewio)
+*   [Checkov (⭐6.4k)](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them. By [@bridgecrew](https://github.com/bridgecrewio)
 
 ## [2. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Projects / Boilerplate
 
-*   [django-startproject (⭐129)](https://github.com/jefftriplett/django-startproject) - Django start project template with batteries.
+*   [django-startproject (⭐136)](https://github.com/jefftriplett/django-startproject) - Django start project template with batteries.
 
 ## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -130,8 +130,8 @@
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [jim-at-jibba/ariake-vim-colors (⭐30)](https://github.com/jim-at-jibba/ariake-vim-colors) - A port of the great Atom theme. Dark and light with Tree-sitter support.
-*   [Th3Whit3Wolf/onebuddy (⭐98)](https://github.com/Th3Whit3Wolf/onebuddy) - Light and dark atom one theme.
-*   [ofirgall/ofirkai.nvim (⭐91)](https://github.com/ofirgall/ofirkai.nvim) - Monokai theme that aims to feel like Sublime Text.
+*   [Th3Whit3Wolf/onebuddy (⭐99)](https://github.com/Th3Whit3Wolf/onebuddy) - Light and dark atom one theme.
+*   [ofirgall/ofirkai.nvim (⭐96)](https://github.com/ofirgall/ofirkai.nvim) - Monokai theme that aims to feel like Sublime Text.
 
 ## [12. Awesome Research](/content/emptymalei/awesome-research/README.md)
 

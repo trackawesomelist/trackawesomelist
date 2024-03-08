@@ -29,7 +29,7 @@
 
 ### Third-Party Packages / Users
 
-*   [django-allauth-ui (⭐127)](https://github.com/danihodovic/django-allauth-ui/) - Better looking templates for django-allauth.
+*   [django-allauth-ui (⭐136)](https://github.com/danihodovic/django-allauth-ui/) - Better looking templates for django-allauth.
 
 ### Python Packages / Views
 
@@ -37,7 +37,7 @@
 
 ### Projects / Boilerplate
 
-*   [sidewinder (⭐139)](https://github.com/stribny/sidewinder/) - A Django starter kit that focuses on good defaults, developer experience, and deployment.
+*   [sidewinder (⭐145)](https://github.com/stribny/sidewinder/) - A Django starter kit that focuses on good defaults, developer experience, and deployment.
 
 ## [5. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
@@ -261,14 +261,14 @@
 
 ### Tools / Playground
 
-*   [OXC (⭐5.9k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
-*   [biome (⭐6.8k)](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second
+*   [OXC (⭐8k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
+*   [biome (⭐9.1k)](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second
 
 ## [28. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Rust / Git
 
-*   [botan-rs (⭐22)](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
+*   [botan-rs (⭐25)](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
 
 ## [29. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
@@ -280,12 +280,12 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Agentlabs (⭐330)](https://github.com/agentlabs-inc/agentlabs): Universal AI Agent Frontend. Build your backend we handle the rest. ![GitHub Repo stars](https://img.shields.io/github/stars/agentlabs-inc/agentlabs?style=social)
-*   [axflow (⭐1k)](https://github.com/axflow/axflow): The TypeScript framework for AI development ![GitHub Repo stars](https://img.shields.io/github/stars/axflow/axflow?style=social)
-*   [bondai (⭐122)](https://github.com/krohling/bondai): AI-powered assistant with a lightweight, versatile API for seamless integration into your own applications ![GitHub Repo stars](https://img.shields.io/github/stars/krohling/bondai?style=social)
+*   [Agentlabs (⭐360)](https://github.com/agentlabs-inc/agentlabs): Universal AI Agent Frontend. Build your backend we handle the rest. ![GitHub Repo stars](https://img.shields.io/github/stars/agentlabs-inc/agentlabs?style=social)
+*   [axflow (⭐1.1k)](https://github.com/axflow/axflow): The TypeScript framework for AI development ![GitHub Repo stars](https://img.shields.io/github/stars/axflow/axflow?style=social)
+*   [bondai (⭐151)](https://github.com/krohling/bondai): AI-powered assistant with a lightweight, versatile API for seamless integration into your own applications ![GitHub Repo stars](https://img.shields.io/github/stars/krohling/bondai?style=social)
 *   [Chidori (⭐1.2k)](https://github.com/ThousandBirdsInc/chidori): A reactive runtime for building durable AI agents ![GitHub Repo stars](https://img.shields.io/github/stars/ThousandBirdsInc/chidori?style=social)
-*   [Langroid (⭐739)](https://github.com/langroid/langroid): an intuitive, lightweight, extensible and principled Python framework to easily build LLM-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langroid/langroid?style=social)
-*   [Langstream (⭐330)](https://github.com/rogeriochaves/langstream): Build robust LLM applications with true composability 🔗 ![GitHub Repo stars](https://img.shields.io/github/stars/rogeriochaves/langstream?style=social)
+*   [Langroid (⭐1.2k)](https://github.com/langroid/langroid): an intuitive, lightweight, extensible and principled Python framework to easily build LLM-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langroid/langroid?style=social)
+*   [Langstream (⭐352)](https://github.com/rogeriochaves/langstream): Build robust LLM applications with true composability 🔗 ![GitHub Repo stars](https://img.shields.io/github/stars/rogeriochaves/langstream?style=social)
 
 ## [31. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -329,12 +329,12 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [Dataflow Framework (⭐964)](https://github.com/typetools/checker-framework) — An industrial-strength dataflow framework for Java. The Dataflow Framework is used in the Checker Framework, Google’s Error Prone, Uber’s NullAway, Meta’s Nullsafe, and in other contexts. It is distributed with the Checker Framework.
+*   [Dataflow Framework (⭐973)](https://github.com/typetools/checker-framework) — An industrial-strength dataflow framework for Java. The Dataflow Framework is used in the Checker Framework, Google’s Error Prone, Uber’s NullAway, Meta’s Nullsafe, and in other contexts. It is distributed with the Checker Framework.
 *   [Error Prone](https://errorprone.info) — Catch common Java mistakes as compile-time errors.
 
 ### Other / [Other](#other-1)
 
-*   [kani (⭐1.7k)](https://github.com/model-checking/kani) — The Kani Rust Verifier is a bit-precise model checker for Rust.  Kani is particularly useful for verifying unsafe code blocks in Rust,  where the "unsafe superpowers" are unchecked by the compiler. Kani verifies:
+*   [kani (⭐1.8k)](https://github.com/model-checking/kani) — The Kani Rust Verifier is a bit-precise model checker for Rust.  Kani is particularly useful for verifying unsafe code blocks in Rust,  where the "unsafe superpowers" are unchecked by the compiler. Kani verifies:
 *   Memory safety (e.g., null pointer dereferences) \* User-specified assertions (i.e., assert!(...)) \* The absence of panics (e.g., unwrap() on None values) \* The absence of some types of unexpected behavior (e.g., arithmetic overflows)
 *   [vale](https://vale.sh) — A syntax-aware linter for prose built with speed and extensibility in mind.
 
@@ -415,7 +415,7 @@
 
 ### Books, blogs, and training materials / Community Chat Rooms
 
-*   [Tweede golf's workshop](https://workshop.tweede.golf) - A full workshop about Rust and embedded Rust. The embedded parts use the nRF52840-DK and a LIS3DH breakout board. ([github source (⭐4)](https://github.com/tweedegolf/rust-workshop))
+*   [Tweede golf's workshop](https://workshop.tweede.golf) - A full workshop about Rust and embedded Rust. The embedded parts use the nRF52840-DK and a LIS3DH breakout board. ([github source (⭐5)](https://github.com/tweedegolf/rust-workshop))
 
 ### Driver crates / WIP
 
@@ -443,7 +443,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [mrcjkb/haskell-tools.nvim (⭐357)](https://github.com/mrcjkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
+*   [mrcjkb/haskell-tools.nvim (⭐364)](https://github.com/mrcjkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
 
 ### Snippet / Diagnostics
 
@@ -451,24 +451,24 @@
 
 ### Search / Diagnostics
 
-*   [mangelozzi/rgflow.nvim (⭐61)](https://github.com/mangelozzi/rgflow.nvim) - Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI.
+*   [mangelozzi/rgflow.nvim (⭐62)](https://github.com/mangelozzi/rgflow.nvim) - Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI.
 *   [duane9/nvim-rg (⭐32)](https://github.com/duane9/nvim-rg) - Run RipGrep asynchronously and see results in a quickfix window.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.extra (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-extra.md) - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
+*   [echasnovski/mini.nvim#mini.extra (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-extra.md) - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
 
 ### Color / Diagnostics
 
-*   [miversen33/sunglasses.nvim (⭐73)](https://github.com/miversen33/sunglasses.nvim) - Dynamic Colorscheme/highlight adjuster on window switching.
+*   [miversen33/sunglasses.nvim (⭐82)](https://github.com/miversen33/sunglasses.nvim) - Dynamic Colorscheme/highlight adjuster on window switching.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [miikanissi/modus-themes.nvim (⭐89)](https://github.com/miikanissi/modus-themes.nvim) - Accessible theme, conforming with the highest standard for color contrast (WCAG AAA).
+*   [miikanissi/modus-themes.nvim (⭐97)](https://github.com/miikanissi/modus-themes.nvim) - Accessible theme, conforming with the highest standard for color contrast (WCAG AAA).
 
 ### Code Runner / Diagnostics
 
-*   [benlubas/molten-nvim (⭐204)](https://github.com/benlubas/molten-nvim) - Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code.
+*   [benlubas/molten-nvim (⭐220)](https://github.com/benlubas/molten-nvim) - Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code.
 
 ## [43. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
@@ -711,7 +711,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Servas (⭐451)](https://github.com/beromir/Servas) - A self-hosted bookmark management tool. It allows organization with tags, groups, and a list specifically for later access. It supports multiple users with 2FA. Companion browser extensions are available for Firefox and Chrome. ([Clients (⭐451)](https://github.com/beromir/Servas#browser-extensions)) `GPL-3.0` `Docker/Nodejs/PHP`
+*   [Servas (⭐462)](https://github.com/beromir/Servas) - A self-hosted bookmark management tool. It allows organization with tags, groups, and a list specifically for later access. It supports multiple users with 2FA. Companion browser extensions are available for Firefox and Chrome. ([Clients (⭐462)](https://github.com/beromir/Servas#browser-extensions)) `GPL-3.0` `Docker/Nodejs/PHP`
 
 ### Software / Software Development - API Management
 
@@ -729,7 +729,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [asdf (kiurchv) (⭐15)](https://github.com/kiurchv/asdf.plugin.zsh) - Integration and completions for [asdf (⭐20k)](https://github.com/asdf-vm/asdf), the extendable version manager, with support for Ruby, Node.js, Elixir, Erlang and more.
-*   [asdf (zimfw) (⭐7)](https://github.com/zimfw/asdf) - Initializes [asdf (⭐20k)](https://github.com/asdf-vm/asdf), installing it using `git` if not installed yet. Also, bypasses the shims if you're using the [direnv (⭐499)](https://github.com/asdf-community/asdf-direnv) plugin, as suggested by the plugin [pro-tips (⭐499)](https://github.com/asdf-community/asdf-direnv/#pro-tips).
+*   [asdf (zimfw) (⭐8)](https://github.com/zimfw/asdf) - Initializes [asdf (⭐20k)](https://github.com/asdf-vm/asdf), installing it using `git` if not installed yet. Also, bypasses the shims if you're using the [direnv (⭐505)](https://github.com/asdf-community/asdf-direnv) plugin, as suggested by the plugin [pro-tips (⭐505)](https://github.com/asdf-community/asdf-direnv/#pro-tips).
 *   [telepresence (⭐0)](https://github.com/alexgervais/telepresence-ps1) - Add the current [Telepresence](https://www.telepresence.io/) connection status and context to your ZSH prompt.
 *   [zload (⭐14)](https://github.com/mollifier/zload) - Hot Reload for ZSH functions. Enables rapid development.
 

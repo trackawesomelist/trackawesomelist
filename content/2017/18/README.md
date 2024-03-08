@@ -161,7 +161,7 @@
 
 ### Design patterns / Chrome Extensions
 
-*   :octocat: [Design Patterns implementation (⭐5k)](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
+*   :octocat: [Design Patterns implementation (⭐5.1k)](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
 
 ## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 

@@ -954,12 +954,12 @@
 
 ### Contents / CLI
 
-*   [pgsh (⭐542)](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
+*   [pgsh (⭐543)](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
 *   [schemaspy (⭐2.9k)](https://github.com/schemaspy/schemaspy) - SchemaSpy is a JAVA JDBC-compliant tool for generating your database to HTML documentation, including Entity Relationship diagrams
 
 ### Contents / Monitoring
 
-*   [PMM (⭐499)](https://github.com/percona/pmm) - Percona Monitoring and Management (PMM) is a Free and Open Source platform for monitoring and managing PostgreSQL, MySQL, and MongoDB.
+*   [PMM (⭐511)](https://github.com/percona/pmm) - Percona Monitoring and Management (PMM) is a Free and Open Source platform for monitoring and managing PostgreSQL, MySQL, and MongoDB.
 *   [pgmetrics](https://pgmetrics.io/) - pgmetrics is an open-source, zero-dependency, single-binary tool that can collect a lot of information and statistics from a running PostgreSQL server and display it in easy-to-read text format or export it as JSON and CSV for scripting.
 *   [okmeter.io](https://okmeter.io/pg) - Commercial SaaS agent-based monitoring with a very detailed PostgreSQL plugin. It automatically gathers 100s of stats, displays dashboards on every aspect and sends alerts when something goes wrong (Commercial Software).
 
@@ -970,7 +970,7 @@
 ### Contents / Optimization
 
 *   [pg\_flame (⭐1.5k)](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
-*   [TimescaleDB Tune (⭐390)](https://github.com/timescale/timescaledb-tune) - a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.
+*   [TimescaleDB Tune (⭐394)](https://github.com/timescale/timescaledb-tune) - a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.
 
 ### Contents / Utilities
 
@@ -981,10 +981,10 @@
 
 ### Contents / Language bindings
 
-*   Go: [pq (⭐8.6k)](https://github.com/lib/pq), [pgx (⭐9k)](https://github.com/jackc/pgx)
-*   Node: [node-postgres (⭐12k)](https://github.com/brianc/node-postgres), [pg-promise (⭐3.4k)](https://github.com/vitaly-t/pg-promise), [pogi (⭐138)](https://github.com/holdfenytolvaj/pogi), [slonik (⭐4.3k)](https://github.com/gajus/slonik), [postgres (⭐6.4k)](https://github.com/porsager/postgres)
+*   Go: [pq (⭐8.6k)](https://github.com/lib/pq), [pgx (⭐9.1k)](https://github.com/jackc/pgx)
+*   Node: [node-postgres (⭐12k)](https://github.com/brianc/node-postgres), [pg-promise (⭐3.4k)](https://github.com/vitaly-t/pg-promise), [pogi (⭐138)](https://github.com/holdfenytolvaj/pogi), [slonik (⭐4.3k)](https://github.com/gajus/slonik), [postgres (⭐6.5k)](https://github.com/porsager/postgres)
 *   Python: [psycopg2](https://pypi.org/project/psycopg2/), [asyncpg](https://pypi.org/project/asyncpg/)
-*   Ruby: [pg (⭐739)](https://github.com/ged/ruby-pg)
+*   Ruby: [pg (⭐742)](https://github.com/ged/ruby-pg)
 
 ### Resources / Articles
 
@@ -1014,7 +1014,7 @@
 
 ### Third-Party Packages / Logging
 
-*   [django-guid (⭐395)](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
+*   [django-guid (⭐402)](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
 
 ## [18. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
@@ -1255,11 +1255,11 @@
 
 ### Modules / Utils
 
-*   [evt (⭐442)](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
+*   [evt (⭐444)](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
 
 ### Tools / XML
 
-*   [denoify (⭐914)](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
+*   [denoify (⭐916)](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 
 ## [43. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
@@ -1326,13 +1326,36 @@
 
 *   [Rust Search Extension (⭐1.2k)](https://github.com/huhu/rust-search-extension) — A handy browser extension to search crates and docs in address bar (omnibox). [![Build Status](https://github.com/huhu/rust-search-extension/workflows/build/badge.svg?branch=master)](https://github.com/huhu/rust-search-extension/actions)
 
-## [49. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### APIs, Data, and ML
+
+*   [ScrapingAnt](https://scrapingant.com/) — Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans are available.
+
+### Security and PKI
+
+*   [Virushee](https://virushee.com/) — Privacy-oriented file/data scanning powered by hybrid heuristic and AI-assisted engine. It is possible to use internal dynamic sandbox analysis. Limited to 50MB per file upload
+
+### DNS
+
+*   [zilore.com](https://zilore.com/en/dns) — Free DNS hosting for 5 domains.
+
+### Issue Tracking and Project Management
+
+*   [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and one member.
+*   [Kumu.io](https://kumu.io/)  — Relationship maps with animation, decorations, filters, clustering, spreadsheet imports, etc. The free tier allows unlimited public projects. Graph size unlimited. Free private projects for students. Sandbox mode is available if you prefer not to leave your file publicly online (upload, edit, download, discard).
+
+### Data Visualization on Maps
+
+*   [geocodify.com](https://geocodify.com/) — Geocoding and Geoparsing via API or CSV Upload. 10k free queries/month.
+
+## [50. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Job processing / Third-party APIs
 
 *   [SBCL's timers](http://www.sbcl.org/manual/#Timers), system-wide event schedulers.
 
-## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -1349,13 +1372,13 @@
 *   [vue-timed-content (⭐7)](https://github.com/dannyfeliz/vue-timed-content) - Shows or hides content based on a given time range and timezone.
 *   [vue-live (⭐234)](https://github.com/vue-styleguidist/vue-live) - A component to demo components, inspired by react-live.
 
-## [51. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [52. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Casual
 
 *   KINGA - [Android](https://play.google.com/store/apps/details?id=com.knoeyes.games.kinga), [iOS](https://apps.apple.com/us/app/kinga/id1506422810) - Protect the cookie from the pesky flies. By [Kevin Omyonga](https://kevinomyonga.com)
 
-## [52. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [53. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Functional programming
 
@@ -1407,7 +1430,7 @@
 *   [Web Essentials (⭐51)](https://github.com/madskristensen/WebEssentials2019) - Web Essentials extends Visual Studio with lots of new features that web developers have been missing for many years
 *   [SideWaffle (⭐656)](https://github.com/ligershark/side-waffle) - A collection of Item Templates for Visual Studio 2012/2013/2015 that makes any web developer's life much easier
 
-## [53. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [54. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Carousel
 
@@ -1417,7 +1440,7 @@
 
 *   [react-imgix (⭐351)](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background!
 
-## [54. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
+## [55. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
 
 ### Design systems articles
 
@@ -1441,19 +1464,19 @@
 *   [Storybook design system (⭐1.8k)](https://github.com/storybookjs/design-system)
 *   [Storybook Docs sneak peek](https://medium.com/storybookjs/storybook-docs-sneak-peak-5be78445094a)
 
-## [55. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [56. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Datasets
 
 *   [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) - Widespread public dataset, pirmarily focusing on computer vision applications, but also contains LIDAR point cloud.
 
-## [56. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [57. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Side-channel Tools / Reverse Engineering Tools
 
 *   [TRRespass (⭐113)](https://github.com/vusec/trrespass) - Many-sided rowhammer tool suite able to reverse engineer the contents of DDR3 and DDR4 memory chips protected by Target Row Refresh mitigations.
 
-## [57. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [58. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Automation
 
@@ -1480,7 +1503,7 @@
 *   [stackprof (⭐2k)](https://github.com/tmm1/stackprof) - A sampling call-stack profiler for ruby 2.1+.
 *   [test-prof (⭐1.8k)](https://github.com/palkan/test-prof) - Ruby Tests Profiling Toolbox
 
-## [58. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [59. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anime
 
@@ -1688,14 +1711,14 @@
 
 
 
-## [59. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [60. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Articles • Tutorials / Other
 
 *   [Tips to Improve Your Generative Artwork](https://tylerxhobbs.com/essays/2018/tips-to-improve-your-generative-artwork) - Tips to make your art look better.
 *   [Working With Color in Generative Art](https://tylerxhobbs.com/essays/2016/working-with-color-in-generative-art) - Tips on how to get color right.
 
-## [60. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [61. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Runtimes/Frontends
 
@@ -1703,9 +1726,9 @@
 
 ### Collaboration/Education
 
-*   [IllumiDesk (⭐40)](https://github.com/IllumiDesk/illumidesk) - Docker-based JupyterHub + LTI + nbgrader distribution for education.
+*   [IllumiDesk (⭐41)](https://github.com/IllumiDesk/illumidesk) - Docker-based JupyterHub + LTI + nbgrader distribution for education.
 
-## [61. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [62. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -1716,7 +1739,7 @@
 
 *   [Ergeon](https://www.ergeon.com/careers/) - Home Services and construction company. An all-remote company with HQ in Palo Alto, California, but hiring worldwide.
 
-## [62. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [63. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Case Studies
 
@@ -1727,7 +1750,7 @@
 *   [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439)
 *   [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133)
 
-## [63. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [64. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -1751,7 +1774,7 @@
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
 *   [Newsboat](https://newsboat.org/) <sup>[374](https://t.me/s/aboutrss/374)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/newsboat/newsboat) ![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)
-*   [GORSS - Go RSS Reader (⭐422)](https://github.com/Lallassu/gorss) <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Lallassu/gorss)
+*   [GORSS - Go RSS Reader (⭐428)](https://github.com/Lallassu/gorss) <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Lallassu/gorss)
 
 ### 💖 Acknowledgement / Crypto or Blockchain relevant
 
@@ -1785,7 +1808,7 @@
 ### ⛓ OPML management / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS-OPML-to-Markdown (⭐10)](https://github.com/idealclover/RSS-OPML-to-Markdown) <sup>[542](https://t.me/s/aboutrss/542)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/idealclover/RSS-OPML-to-Markdown)
-    *   [RSS-OPML-to-Markdown enhancement (⭐15)](https://github.com/AboutRSS/RSS-OPML-to-Markdown/) <sup>[1387](https://t.me/s/aboutrss/1387)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/AboutRSS/RSS-OPML-to-Markdown/)
+    *   [RSS-OPML-to-Markdown enhancement (⭐18)](https://github.com/AboutRSS/RSS-OPML-to-Markdown/) <sup>[1387](https://t.me/s/aboutrss/1387)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/AboutRSS/RSS-OPML-to-Markdown/)
 
 ### Telegram Groups / Channels / Crypto or Blockchain relevant
 
@@ -1803,7 +1826,7 @@
 
 *   [JustCast](https://www.justcast.com/): Create a Podcast RSS feed from a Dropbox folder
 
-## [64. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [65. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Design Systems
 
@@ -1818,33 +1841,6 @@
 *   [`<burgton-button>`](https://github.com/boguz/burgton-button) - Simple to use, customizable and accessible burger-button element.
 *   [`<code-block>`](https://github.com/justinribeiro/code-block) - Web component that displays colorfully formatted code with Prism.js and LitElement.
 *   [`<stl-part-viewer>`](https://github.com/justinribeiro/stl-part-viewer) - LitElement web component that utilizes Three.js to display an STL model file.
-
-## [65. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### APIs, Data, and ML
-
-*   [ScrapingAnt](https://scrapingant.com/) — Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans are available.
-
-### Security and PKI
-
-*   [Virushee](https://virushee.com/) — Privacy-oriented file/data scanning powered by hybrid heuristic and AI-assisted engine. It is possible to use internal dynamic sandbox analysis. Limited to 50MB per file upload
-
-### PaaS
-
-*   [fly.io](https://fly.io/) - Fly is a platform for applications that must run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform, and let that do all the work to keep your app snappy. Free allowances include up to 3 shared-CPU-1x 256mb VMs, 3GB persistent volume storage (total), and 160GB outbound data transfer.
-
-### DNS
-
-*   [zilore.com](https://zilore.com/en/dns) — Free DNS hosting for 5 domains.
-
-### Issue Tracking and Project Management
-
-*   [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and one member.
-*   [Kumu.io](https://kumu.io/)  — Relationship maps with animation, decorations, filters, clustering, spreadsheet imports, etc. The free tier allows unlimited public projects. Graph size unlimited. Free private projects for students. Sandbox mode is available if you prefer not to leave your file publicly online (upload, edit, download, discard).
-
-### Data Visualization on Maps
-
-*   [geocodify.com](https://geocodify.com/) — Geocoding and Geoparsing via API or CSV Upload. 10k free queries/month.
 
 ## [66. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 

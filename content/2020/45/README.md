@@ -22,7 +22,7 @@
 
 ### Version Control
 
-*   [jupyter-nbrequirements (⭐15)](https://github.com/thoth-station/jupyter-nbrequirements/) - Dependency management and optimization in Jupyter Notebooks.
+*   [jupyter-nbrequirements (⭐17)](https://github.com/thoth-station/jupyter-nbrequirements/) - Dependency management and optimization in Jupyter Notebooks.
 
 ## [4. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 

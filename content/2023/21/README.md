@@ -581,7 +581,7 @@
 
 ### Web Frameworks
 
-*   [GoFrame (⭐11k)](https://github.com/gogf/gf) - GoFrame is a modular, full-featured and production-ready application development framework of golang.
+*   [GoFrame (⭐11k)](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 *   [REST Layer (⭐1.2k)](https://github.com/rs/rest-layer) - Framework to build REST/GraphQL API on top of databases with mostly configuration over code.
 
 ### Code Analysis / Libraries for creating HTTP middlewares
@@ -665,16 +665,16 @@
 
 ### Communications / Cryptography
 
-*   [ucryptography (⭐2)](https://github.com/dmazzella/ucryptography) - Lightweight porting of pyca/cryptography to MicroPython based on ARM Mbed TLS.
+*   [ucryptography (⭐3)](https://github.com/dmazzella/ucryptography) - Lightweight porting of pyca/cryptography to MicroPython based on ARM Mbed TLS.
 *   [mprsa (⭐4)](https://github.com/git-n-pissed/mprsa) - A MicroPython module for creating, importing, and exporting RSA keys in DER and PEM formats with PKCS#1, PKCS#8, and X.509/SPKI structures, and signing/verifying and encryption/decryption using blinding and SHA-1 and SHA-256 hashing algorithms.
 
 ### Communications / RTC
 
-*   [micropython-ds1307 (⭐1)](https://github.com/brainelectronics/micropython-ds1307) - MicroPython driver for DS1307 RTC.
+*   [micropython-ds1307 (⭐2)](https://github.com/brainelectronics/micropython-ds1307) - MicroPython driver for DS1307 RTC.
 
 ### Display / OLED
 
-*   [SH1107 (⭐14)](https://github.com/peter-l5/SH1107) - Driver for SH1107 OLED displays (128x128 and 128x64 pixels).
+*   [SH1107 (⭐15)](https://github.com/peter-l5/SH1107) - Driver for SH1107 OLED displays (128x128 and 128x64 pixels).
 
 ### IO / Rotary Encoder
 
@@ -696,11 +696,11 @@
 
 ### Third-Party Packages / Editors
 
-*   [django-prose (⭐156)](https://github.com/withlogicco/django-prose) - A light weight editor to content creation.
+*   [django-prose (⭐161)](https://github.com/withlogicco/django-prose) - A light weight editor to content creation.
 
 ### Third-Party Packages / General
 
-*   [Weblate (⭐4k)](https://github.com/WeblateOrg/weblate) - Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries.
+*   [Weblate (⭐4.1k)](https://github.com/WeblateOrg/weblate) - Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries.
 
 ### Resources / Educational
 
@@ -709,7 +709,7 @@
 
 ### Projects / Boilerplate
 
-*   [django-docker-template (⭐138)](https://github.com/amerkurev/django-docker-template) - Dockerized Django with Postgres, Gunicorn, and Traefik (with auto renew Let's Encrypt).
+*   [django-docker-template (⭐142)](https://github.com/amerkurev/django-docker-template) - Dockerized Django with Postgres, Gunicorn, and Traefik (with auto renew Let's Encrypt).
 
 ## [39. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
@@ -819,14 +819,14 @@
 
 ### Installation Media / Discovery
 
-*   [nixos-infect (⭐1k)](https://github.com/elitak/nixos-infect) - Replace a running non-NixOS Linux host with NixOS.
+*   [nixos-infect (⭐1.1k)](https://github.com/elitak/nixos-infect) - Replace a running non-NixOS Linux host with NixOS.
 
 ### Development / Discovery
 
-*   [Devbox (⭐6.9k)](https://github.com/jetpack-io/devbox) - Instant, portable, and predictable development environments.
-*   [flox (⭐616)](https://github.com/flox/flox) - Manage and share development environments, package projects, and publish artifacts anywhere.
-*   [haumea (⭐212)](https://github.com/nix-community/haumea) - Filesystem-based module system for the Nix language similar to traditional programming languages, with support for file hierarchy and visibility.
-*   [namaka (⭐89)](https://github.com/nix-community/namaka) - Snapshot testing for Nix based on haumea.
+*   [Devbox (⭐7k)](https://github.com/jetpack-io/devbox) - Instant, portable, and predictable development environments.
+*   [flox (⭐636)](https://github.com/flox/flox) - Manage and share development environments, package projects, and publish artifacts anywhere.
+*   [haumea (⭐219)](https://github.com/nix-community/haumea) - Filesystem-based module system for the Nix language similar to traditional programming languages, with support for file hierarchy and visibility.
+*   [namaka (⭐91)](https://github.com/nix-community/namaka) - Snapshot testing for Nix based on haumea.
 
 ## [45. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
@@ -880,7 +880,7 @@
 
 ### System and Customization
 
-*   [Flatseal (⭐968)](https://github.com/tchx84/Flatseal) - Flatpak permission manager.
+*   [Flatseal (⭐983)](https://github.com/tchx84/Flatseal) - Flatpak permission manager.
 
 ### Development and Design
 
@@ -917,7 +917,7 @@
 
 ### Audio and Video Tools / File Sharing
 
-*   [Jellyfin (⭐28k)](https://github.com/jellyfin/jellyfin) - The Free Software Media System. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://jellyfin.org) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Jellyfin (⭐29k)](https://github.com/jellyfin/jellyfin) - The Free Software Media System. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://jellyfin.org) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Browsers / Audio Record and Process
 
@@ -978,7 +978,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [Ahoo-Wang/Wow (⭐116)](https://github.com/Ahoo-Wang/Wow) - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
+*   [Ahoo-Wang/Wow (⭐119)](https://github.com/Ahoo-Wang/Wow) - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
 
 ### Libraries/Frameworks / Validation
 
@@ -1078,7 +1078,7 @@
 
 ### Validation / Playground
 
-*   [fta (⭐48)](https://github.com/sgb-io/fta) - Rust-based static analysis to monitor code quality
+*   [fta (⭐60)](https://github.com/sgb-io/fta) - Rust-based static analysis to monitor code quality
 
 ## [66. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -1228,7 +1228,7 @@
 
 ### Software / Analytics
 
-*   [Netron](https://netron.app/) - Visualizer for neural network and machine learning models. ([Source Code (⭐25k)](https://github.com/lutzroeder/netron)) `MIT` `Python/Nodejs`
+*   [Netron](https://netron.app/) - Visualizer for neural network and machine learning models. ([Source Code (⭐26k)](https://github.com/lutzroeder/netron)) `MIT` `Python/Nodejs`
 
 ### Software / Miscellaneous
 
@@ -1237,28 +1237,28 @@
 
 ### Software / Note-taking & Editors
 
-*   [flatnotes (⭐842)](https://github.com/dullage/flatnotes) - A self-hosted, database-less note-taking web app that utilises a flat folder of markdown files for storage. ([Demo](https://demo.flatnotes.io)) `MIT` `Docker`
+*   [flatnotes (⭐881)](https://github.com/dullage/flatnotes) - A self-hosted, database-less note-taking web app that utilises a flat folder of markdown files for storage. ([Demo](https://demo.flatnotes.io)) `MIT` `Docker`
 
 ### Software / Office Suites
 
-*   [CryptPad](https://cryptpad.org) - CryptPad is a collaboration suite that is end-to-end-encrypted and open-source. It is built to enable collaboration, synchronizing changes to documents in real time. ([Source Code (⭐4.9k)](https://github.com/cryptpad/cryptpad)) `AGPL-3.0` `Nodejs/Docker`
+*   [CryptPad](https://cryptpad.org) - CryptPad is a collaboration suite that is end-to-end-encrypted and open-source. It is built to enable collaboration, synchronizing changes to documents in real time. ([Source Code (⭐5k)](https://github.com/cryptpad/cryptpad)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Personal Dashboards
 
-*   [Homarr](https://homarr.dev) - Sleek, modern dashboard with many integrations and web-based config. ([Demo](https://demo.homarr.dev), [Source Code (⭐4.6k)](https://github.com/ajnart/homarr)) `MIT` `Docker/Nodejs`
-*   [Starbase 80 (⭐156)](https://github.com/notclickable-jordan/starbase-80) - A simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file. `MIT` `Docker`
+*   [Homarr](https://homarr.dev) - Sleek, modern dashboard with many integrations and web-based config. ([Demo](https://demo.homarr.dev), [Source Code (⭐4.8k)](https://github.com/ajnart/homarr)) `MIT` `Docker/Nodejs`
+*   [Starbase 80 (⭐167)](https://github.com/notclickable-jordan/starbase-80) - A simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file. `MIT` `Docker`
 
 ### Software / Task Management & To-do Lists
 
-*   [Tasks.md (⭐326)](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, file based task management board that supports Markdown syntax. `MIT` `Docker`
+*   [Tasks.md (⭐353)](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, file based task management board that supports Markdown syntax. `MIT` `Docker`
 
 ### Software / URL Shorteners
 
-*   [Pastr (⭐21)](https://github.com/hossainalhaidari/pastr) - Super-minimal URL shortener and paste tool that uses a flat-file storage and has no dependencies. ([Demo](https://alhai.de)) `MIT` `Go/Docker`
+*   [Pastr (⭐20)](https://github.com/hossainalhaidari/pastr) - Super-minimal URL shortener and paste tool that uses a flat-file storage and has no dependencies. ([Demo](https://alhai.de)) `MIT` `Go/Docker`
 
 ### Software / Wikis
 
-*   [Mycorrhiza Wiki](https://mycorrhiza.wiki/) - Filesystem and git-based wiki engine written in Go using Mycomarkup as its primary markup language. ([Source Code (⭐202)](https://github.com/bouncepaw/mycorrhiza/)) `AGPL-3.0` `Go`
+*   [Mycorrhiza Wiki](https://mycorrhiza.wiki/) - Filesystem and git-based wiki engine written in Go using Mycomarkup as its primary markup language. ([Source Code (⭐204)](https://github.com/bouncepaw/mycorrhiza/)) `AGPL-3.0` `Go`
 
 ## [77. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -1283,7 +1283,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [argc-completions (⭐141)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐584)](https://github.com/sigoden/argc) and [jq (⭐28k)](https://github.com/stedolan/jq) to add ZSH tab completions.
+*   [argc-completions (⭐150)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐622)](https://github.com/sigoden/argc) and [jq (⭐29k)](https://github.com/stedolan/jq) to add ZSH tab completions.
 *   [fluxcd (⭐0)](https://github.com/l-umaca/omz-fluxcd-plugin) - Adds tab completion for the [FluxCD command line](https://fluxcd.io/flux/cmd/) tool, as well as some aliases for the most common flux commands.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -1298,23 +1298,23 @@
 
 ### LangChain Framework
 
-*   [LangChain (⭐72k)](https://github.com/hwchase17/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
+*   [LangChain (⭐77k)](https://github.com/hwchase17/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
 
 ### Tools / Services
 
-*   [Gorilla (⭐8.8k)](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
+*   [Gorilla (⭐9.1k)](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
 *   [LangchainJS Worker (⭐56)](https://github.com/rickyrobinett/langchainjs-workers): LangchainJS worker on cloudflare ![GitHub Repo stars](https://img.shields.io/github/stars/rickyrobinett/langchainjs-workers?style=social)
-*   [Chainlit (⭐4.1k)](https://github.com/Chainlit/chainlit): Build Python LLM apps in minutes ⚡️ ![GitHub Repo stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social)
+*   [Chainlit (⭐4.9k)](https://github.com/Chainlit/chainlit): Build Python LLM apps in minutes ⚡️ ![GitHub Repo stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social)
 *   [Psychic (⭐1.6k)](https://github.com/psychic-api/psychic): Universal APIs for unstructured data. Sync documents from SaaS tools to a SQL or vector database, where they can be easily queried by AI applications like ChatGPT. ![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/psychic?style=social)
-*   [Zep (⭐1.6k)](https://github.com/getzep/zep): Zep: A long-term memory store for LLM / Chatbot applications ![GitHub Repo stars](https://img.shields.io/github/stars/getzep/zep?style=social)
+*   [Zep (⭐1.8k)](https://github.com/getzep/zep): Zep: A long-term memory store for LLM / Chatbot applications ![GitHub Repo stars](https://img.shields.io/github/stars/getzep/zep?style=social)
 
 ### Tools / Agents
 
 *   [CollosalAI Chat (⭐36k)](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
-*   [SuperAgent (⭐3.5k)](https://github.com/homanp/superagent): Deploy LLM Agents to production ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/superagent?style=social)
-*   [Voyager (⭐4.7k)](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
-*   [ix (⭐851)](https://github.com/kreneskyp/ix): Autonomous GPT-4 agent platform ![GitHub Repo stars](https://img.shields.io/github/stars/kreneskyp/ix?style=social)
-*   [DuetGPT (⭐150)](https://github.com/kristoferlund/duet-gpt): A conversational semi-autonomous developer assistant, AI pair programming without the copypasta. ![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)
+*   [SuperAgent (⭐4k)](https://github.com/homanp/superagent): Deploy LLM Agents to production ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/superagent?style=social)
+*   [Voyager (⭐5k)](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
+*   [ix (⭐934)](https://github.com/kreneskyp/ix): Autonomous GPT-4 agent platform ![GitHub Repo stars](https://img.shields.io/github/stars/kreneskyp/ix?style=social)
+*   [DuetGPT (⭐153)](https://github.com/kristoferlund/duet-gpt): A conversational semi-autonomous developer assistant, AI pair programming without the copypasta. ![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)
 
 ### Tools / Platforms
 
@@ -1328,14 +1328,14 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [DB GPT (⭐9k)](https://github.com/csunny/DB-GPT): Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security ![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)
+*   [DB GPT (⭐10k)](https://github.com/csunny/DB-GPT): Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security ![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)
 *   [QNimGPT](https://huggingface.co/spaces/rituthombre/QNim): Play Nim against an IBM Quantum Computer simulator or OpenAI GPT-3.5
-*   [ChatPDF (⭐778)](https://github.com/akshata29/chatpdf): ChatGPT + Enterprise data with Azure OpenAI ![GitHub Repo stars](https://img.shields.io/github/stars/akshata29/chatpdf?style=social)
-*   [Airtable-QnA (⭐34)](https://github.com/ikram-shah/airtable-qna): 🌟 a question-answering tool for your Airtable content
+*   [ChatPDF (⭐809)](https://github.com/akshata29/chatpdf): ChatGPT + Enterprise data with Azure OpenAI ![GitHub Repo stars](https://img.shields.io/github/stars/akshata29/chatpdf?style=social)
+*   [Airtable-QnA (⭐35)](https://github.com/ikram-shah/airtable-qna): 🌟 a question-answering tool for your Airtable content
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Dust (⭐765)](https://github.com/dust-tt/dust): Design and Deploy Large Language Model Apps ![GitHub Repo stars](https://img.shields.io/github/stars/dust-tt/dust?style=social)
+*   [Dust (⭐821)](https://github.com/dust-tt/dust): Design and Deploy Large Language Model Apps ![GitHub Repo stars](https://img.shields.io/github/stars/dust-tt/dust?style=social)
 
 ## [80. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
@@ -1347,15 +1347,15 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [maxmx03/FluoroMachine.nvim (⭐149)](https://github.com/maxmx03/FluoroMachine.nvim) - Synthwave x Fluoromachine port.
+*   [maxmx03/FluoroMachine.nvim (⭐151)](https://github.com/maxmx03/FluoroMachine.nvim) - Synthwave x Fluoromachine port.
 
 ### Deployment / Diagnostics
 
-*   [OscarCreator/rsync.nvim (⭐40)](https://github.com/OscarCreator/rsync.nvim) - Automatically sync up/down project to a remote with rsync.
+*   [OscarCreator/rsync.nvim (⭐50)](https://github.com/OscarCreator/rsync.nvim) - Automatically sync up/down project to a remote with rsync.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [doctorfree/nvim-lazyman (⭐168)](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and modular configuration, supports over 40 preconfigured configurations.
+*   [doctorfree/nvim-lazyman (⭐178)](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and modular configuration, supports over 40 preconfigured configurations.
 
 ## [82. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 

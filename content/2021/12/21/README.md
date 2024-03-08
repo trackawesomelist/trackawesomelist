@@ -79,7 +79,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [Jire/Strukt (⭐73)](https://github.com/Jire/Strukt) - Value types on the JVM, today!
+*   [Jire/Strukt (⭐74)](https://github.com/Jire/Strukt) - Value types on the JVM, today!
 
 ## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

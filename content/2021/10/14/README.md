@@ -67,7 +67,7 @@
 
 ### Tools / Community Chat Rooms
 
-*   [embedded-hal-compat (⭐11)](https://github.com/ryankurte/embedded-hal-compat), a compatibility layer to provide interoperability between `v0.2.x` and `v1.x.x` hal implementations and drivers
+*   [embedded-hal-compat (⭐13)](https://github.com/ryankurte/embedded-hal-compat), a compatibility layer to provide interoperability between `v0.2.x` and `v1.x.x` hal implementations and drivers
 
 ## [7. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 

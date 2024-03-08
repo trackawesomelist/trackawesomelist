@@ -62,7 +62,7 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-material-admin (⭐305)](https://github.com/MaistrenkoAnton/django-material-admin) - Material design for django administration.
+*   [django-material-admin (⭐306)](https://github.com/MaistrenkoAnton/django-material-admin) - Material design for django administration.
 
 ## [9. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 

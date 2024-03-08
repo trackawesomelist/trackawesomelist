@@ -49,7 +49,7 @@
 
 ### Real-time / Real-time Operating System (RTOS)
 
-*   [FreeRTOS-rust (⭐293)](https://github.com/lobaro/FreeRTOS-rust) Rust interface for FreeRTOS with Rust entry point and build support crate.
+*   [FreeRTOS-rust (⭐301)](https://github.com/lobaro/FreeRTOS-rust) Rust interface for FreeRTOS with Rust entry point and build support crate.
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -1728,7 +1728,7 @@
 
 ### Tools / XML
 
-*   [velociraptor (⭐682)](https://github.com/umbopepato/velociraptor) - An npm-style script runner for Deno.
+*   [velociraptor (⭐683)](https://github.com/umbopepato/velociraptor) - An npm-style script runner for Deno.
 
 ## [17. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 

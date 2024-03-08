@@ -16,7 +16,7 @@
 
 ### Testing
 
-*   [Alcotest (⭐402)](https://github.com/mirage/alcotest) – A lightweight and colourful test framework.
+*   [Alcotest (⭐411)](https://github.com/mirage/alcotest) – A lightweight and colourful test framework.
 
 ## [3. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 

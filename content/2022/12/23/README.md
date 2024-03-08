@@ -59,7 +59,7 @@
 
 ### Utility / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.animate (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-animate.md) - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
+*   [echasnovski/mini.nvim#mini.animate (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-animate.md) - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
 
 ## [9. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Software / Miscellaneous
 
-*   [POMjs](https://password.oppetmoln.se/) - Random Password Generator. ([Source Code (⭐20)](https://github.com/joho1968/POMjs)) `GPL-2.0` `Javascript`
+*   [POMjs](https://password.oppetmoln.se/) - Random Password Generator. ([Source Code (⭐22)](https://github.com/joho1968/POMjs)) `GPL-2.0` `Javascript`
 
 ## [15. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 

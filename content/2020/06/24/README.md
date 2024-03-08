@@ -28,7 +28,7 @@
 
 ### Third-Party Packages / Models
 
-*   [django-polymorphic (⭐1.5k)](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
+*   [django-polymorphic (⭐1.6k)](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
 
 ## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

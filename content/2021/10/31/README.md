@@ -27,7 +27,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Dashy (⭐14k)](https://github.com/lissy93/dashy) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/)) `MIT` `Nodejs/Docker`
+*   [Dashy (⭐15k)](https://github.com/lissy93/dashy) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/)) `MIT` `Nodejs/Docker`
 
 ## [4. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 

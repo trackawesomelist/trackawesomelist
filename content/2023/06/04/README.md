@@ -10,7 +10,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [TermGPT (⭐380)](https://github.com/Sentdex/TermGPT): Giving LLMs like GPT-4 the ability to plan and execute terminal commands ![GitHub Repo stars](https://img.shields.io/github/stars/Sentdex/TermGPT?style=social)
+*   [TermGPT (⭐390)](https://github.com/Sentdex/TermGPT): Giving LLMs like GPT-4 the ability to plan and execute terminal commands ![GitHub Repo stars](https://img.shields.io/github/stars/Sentdex/TermGPT?style=social)
 
 ## [2. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Contents / CLI
 
-*   [atlas (⭐4.5k)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
+*   [atlas (⭐4.6k)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
 
 ### Contents / Server
 
@@ -58,11 +58,11 @@
 
 ### Software / Analytics
 
-*   [Aptabase](https://aptabase.com/) - Open source, privacy first and simple analytics for mobile and desktop apps. ([Source Code (⭐532)](https://github.com/aptabase/aptabase)) `AGPL-3.0` `Docker`
+*   [Aptabase](https://aptabase.com/) - Open source, privacy first and simple analytics for mobile and desktop apps. ([Source Code (⭐560)](https://github.com/aptabase/aptabase)) `AGPL-3.0` `Docker`
 
 ### Software / Document Management
 
-*   [Papermerge](https://papermerge.com) - Open Source Document Management System focused on scanned documents (electronic archives). Features file browsing in similar way to dropbox/google drive. OCR, full text search, text overlay/selection. ([Source Code (⭐2.2k)](https://github.com/ciur/papermerge)) `Apache-2.0` `Python/Docker/K8S`
+*   [Papermerge](https://papermerge.com) - Open Source Document Management System focused on scanned documents (electronic archives). Features file browsing in similar way to dropbox/google drive. OCR, full text search, text overlay/selection. ([Source Code (⭐2.3k)](https://github.com/ciur/papermerge)) `Apache-2.0` `Python/Docker/K8S`
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

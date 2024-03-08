@@ -16,7 +16,7 @@
 
 ### Web / Playground
 
-*   :octocat: [n8n.io (⭐36k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
+*   :octocat: [n8n.io (⭐39k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 
 ## [3. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 

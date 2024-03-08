@@ -197,7 +197,7 @@
 
 ### Communications / LoRaWAN
 
-*   [u-lora (⭐58)](https://github.com/martynwheeler/u-lora) - Raspi-lora for MicroPython.
+*   [u-lora (⭐62)](https://github.com/martynwheeler/u-lora) - Raspi-lora for MicroPython.
 
 ### Display / E-Paper
 

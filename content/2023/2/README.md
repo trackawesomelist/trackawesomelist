@@ -22,11 +22,11 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Apprise (⭐9.9k)](https://github.com/caronc/apprise) - Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. `MIT` `Python/Docker/deb`
+*   [Apprise (⭐10k)](https://github.com/caronc/apprise) - Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. `MIT` `Python/Docker/deb`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Retrospring (⭐176)](https://github.com/retrospring/retrospring) - A free, open-source social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ([Demo](https://retrospring.net)) `AGPL-3.0` `Ruby/Nodejs`
+*   [Retrospring (⭐181)](https://github.com/retrospring/retrospring) - A free, open-source social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ([Demo](https://retrospring.net)) `AGPL-3.0` `Ruby/Nodejs`
 
 ### Software / Games
 
@@ -35,11 +35,11 @@
 
 ### Software / Miscellaneous
 
-*   [Cloudlog](https://magicbug.co.uk/cloudlog/) - Cloudlog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere. ([Source Code (⭐394)](https://github.com/magicbug/cloudlog)) `MIT` `PHP/Docker`
+*   [Cloudlog](https://magicbug.co.uk/cloudlog/) - Cloudlog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere. ([Source Code (⭐397)](https://github.com/magicbug/cloudlog)) `MIT` `PHP/Docker`
 
 ### Software / Note-taking & Editors
 
-*   [Benotes](https://benotes.org/) - An open source self hosted notes and bookmarks taking web app. ([Source Code (⭐631)](https://github.com/fr0tt/benotes)) `MIT` `PHP/Docker`
+*   [Benotes](https://benotes.org/) - An open source self hosted notes and bookmarks taking web app. ([Source Code (⭐637)](https://github.com/fr0tt/benotes)) `MIT` `PHP/Docker`
 
 ## [4. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -171,7 +171,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [KotUniL (⭐97)](https://github.com/vsirotin/si-units) - KotUniL: Kotlin function and objects for working with SI units like meter, second, as well as currencies and general units like percent.
+*   [KotUniL (⭐98)](https://github.com/vsirotin/si-units) - KotUniL: Kotlin function and objects for working with SI units like meter, second, as well as currencies and general units like percent.
 
 ## [19. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -333,20 +333,20 @@
 
 ### Search / Diagnostics
 
-*   [s1n7ax/nvim-search-and-replace (⭐61)](https://github.com/s1n7ax/nvim-search-and-replace) - Search and replace in multiple files at the same time from the current working directory.
-*   [roobert/search-replace.nvim (⭐193)](https://github.com/roobert/search-replace.nvim) - Builds on the native search and replace experience.
+*   [s1n7ax/nvim-search-and-replace (⭐63)](https://github.com/s1n7ax/nvim-search-and-replace) - Search and replace in multiple files at the same time from the current working directory.
+*   [roobert/search-replace.nvim (⭐195)](https://github.com/roobert/search-replace.nvim) - Builds on the native search and replace experience.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [axkirillov/easypick.nvim (⭐326)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
+*   [axkirillov/easypick.nvim (⭐327)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
 
 ### File Explorer / Diagnostics
 
-*   [dinhhuy258/sfm.nvim (⭐51)](https://github.com/dinhhuy258/sfm.nvim) - An alternative to Nvim-tree designed to be extensible and minimalist.
+*   [dinhhuy258/sfm.nvim (⭐50)](https://github.com/dinhhuy258/sfm.nvim) - An alternative to Nvim-tree designed to be extensible and minimalist.
 
 ### Utility / Diagnostics
 
-*   [j-morano/buffer\_manager.nvim (⭐175)](https://github.com/j-morano/buffer_manager.nvim) - Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window.
+*   [j-morano/buffer\_manager.nvim (⭐184)](https://github.com/j-morano/buffer_manager.nvim) - Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window.
 
 ### Editing Support / Diagnostics
 
@@ -358,7 +358,7 @@
 
 ### Session / Diagnostics
 
-*   [gennaro-tedesco/nvim-possession (⭐162)](https://github.com/gennaro-tedesco/nvim-possession) - The no-nonsense session manager.
+*   [gennaro-tedesco/nvim-possession (⭐173)](https://github.com/gennaro-tedesco/nvim-possession) - The no-nonsense session manager.
 
 ## [31. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
@@ -1208,7 +1208,7 @@
 
 ### Validation / Playground
 
-*   [typia (⭐3.7k)](https://github.com/samchon/typia) - 20,000x times faster runtime validator using pure TypeScript type. Only one line required like `typia.assert<T>(input)`. Also, supports 200x faster JSON serialization, and Protocol Buffer features. 🚀 (see also <https://typia.io/docs>)
+*   [typia (⭐3.9k)](https://github.com/samchon/typia) - 20,000x times faster runtime validator using pure TypeScript type. Only one line required like `typia.assert<T>(input)`. Also, supports 200x faster JSON serialization, and Protocol Buffer features. 🚀 (see also <https://typia.io/docs>)
 
 ## [41. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
@@ -1222,12 +1222,8 @@
 
 ### CLI
 
-*   [AlgoKit CLI (⭐139)](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network. Official tooling maintained by the Algorand Foundation.
+*   [AlgoKit CLI (⭐141)](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network. Official tooling maintained by the Algorand Foundation.
 *   [tealinspector (⭐15)](https://github.com/Hipo/tealinspector) - Quick and easy TEAL code debugging by Hipo labs.
-
-### Other Development Tools / Smart Contracts
-
-*   [beaker-ts](https://github.com/algorand-devrel/beaker-ts) - Generate typescript clients for your beaker applications.
 
 ### Projects / Wallets
 

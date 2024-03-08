@@ -73,7 +73,7 @@
 
 ### Validation / Playground
 
-*   [json-schema-to-ts (⭐1.2k)](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
+*   [json-schema-to-ts (⭐1.3k)](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
 
 ## [8. Tools](/content/lvwzhen/tools/README.md)
 

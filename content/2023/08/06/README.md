@@ -10,7 +10,7 @@
 
 ### Modules / CLI utils
 
-*   [tui (⭐239)](https://github.com/Im-Beast/deno_tui) - Module which allows easy creation of Terminal User Interfaces.
+*   [tui (⭐243)](https://github.com/Im-Beast/deno_tui) - Module which allows easy creation of Terminal User Interfaces.
 
 ## [2. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
@@ -46,13 +46,9 @@
 
 ## [6. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
-### Registry / Other
-
-*   [Alin.io](https://alin.io) - Build and Distribute container based applications. By [@tigranbs](https://github.com/tigranbs)
-
 ### Wrappers / Other
 
-*   [Preevy (⭐1.9k)](https://github.com/livecycle/preevy) - Preview environments for Docker and Docker Compose projects. Test your changes and get feedback from devs and non-devs (Product/Design) by deploying pull requests to the your cloud provider as part of your CI pipeline.
+*   [Preevy (⭐2k)](https://github.com/livecycle/preevy) - Preview environments for Docker and Docker Compose projects. Test your changes and get feedback from devs and non-devs (Product/Design) by deploying pull requests to the your cloud provider as part of your CI pipeline.
 
 ---
 

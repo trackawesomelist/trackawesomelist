@@ -251,7 +251,7 @@
 
 ### Tools / XML
 
-*   [denopkg (⭐241)](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
+*   [denopkg (⭐239)](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 
 ### Resources in Other Languages / Japanese
 

@@ -17,7 +17,7 @@
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [base16-godot (⭐30)](https://github.com/Calinou/base16-godot) - All [base16 (⭐411)](https://github.com/chriskempson/base16) themes.
+*   [base16-godot (⭐30)](https://github.com/Calinou/base16-godot) - All [base16 (⭐424)](https://github.com/chriskempson/base16) themes.
 
 ## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
 

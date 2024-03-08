@@ -675,7 +675,6 @@
 
 *   [app (⭐7.6k)](https://github.com/murlokswarm/app) - Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress.
 *   [fyne (⭐23k)](https://github.com/fyne-io/fyne) - Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android.
-*   [go-astilectron (⭐4.9k)](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron).
 *   [go-gtk](https://mattn.github.io/go-gtk/) - Go bindings for GTK.
 *   [go-sciter (⭐2.6k)](https://github.com/sciter-sdk/go-sciter) - Go bindings for Sciter: the Embeddable HTML/CSS/script engine for modern desktop UI development. Cross platform.
 *   [gotk3 (⭐2k)](https://github.com/gotk3/gotk3) - Go bindings for GTK3.
@@ -1148,7 +1147,6 @@
 *   [netpoll (⭐3.8k)](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
 *   [NFF-Go (⭐1.3k)](https://github.com/intel-go/nff-go) - Framework for rapid development of performant network functions for cloud and bare-metal (former YANFF).
 *   [packet (⭐78)](https://github.com/aerogo/packet) - Send packets over TCP and UDP. It can buffer messages and hot-swap connections if needed.
-*   [panoptes-stream (⭐41)](https://github.com/yahoo/panoptes-stream) - A cloud native distributed streaming network telemetry (gNMI, Juniper JTI and Cisco MDT).
 *   [peerdiscovery (⭐621)](https://github.com/schollz/peerdiscovery) - Pure Go library for cross-platform local peer discovery using UDP multicast.
 *   [portproxy (⭐53)](https://github.com/aybabtme/portproxy) - Simple TCP proxy which adds CORS support to API's which don't support it.
 *   [publicip (⭐27)](https://github.com/polera/publicip) - Package publicip returns your public facing IPv4 address (internet egress).
@@ -1368,7 +1366,7 @@
 ### Server Applications
 
 *   [algernon (⭐2.6k)](https://github.com/xyproto/algernon) - HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber.
-*   [Caddy (⭐52k)](https://github.com/caddyserver/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
+*   [Caddy (⭐53k)](https://github.com/caddyserver/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
 *   [consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
 *   [cortex-tenant (⭐91)](https://github.com/blind-oracle/cortex-tenant) - Prometheus remote write proxy that adds add Cortex tenant ID header based on metric labels.
 *   [devd (⭐3.4k)](https://github.com/cortesi/devd) - Local webserver for developers.
@@ -1391,7 +1389,7 @@
 *   [psql-streamer (⭐57)](https://github.com/blind-oracle/psql-streamer) - Stream database events from PostgreSQL to Kafka.
 *   [riemann-relay (⭐2)](https://github.com/blind-oracle/riemann-relay) - Relay to load-balance Riemann events and/or convert them to Carbon.
 *   [RoadRunner (⭐7.6k)](https://github.com/spiral/roadrunner) - High-performance PHP application server, load-balancer and process manager.
-*   [SFTPGo (⭐7.7k)](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.
+*   [SFTPGo (⭐7.8k)](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.
 *   [simple-jwt-provider (⭐38)](https://github.com/leberKleber/simple-jwt-provider) - Simple and lightweight provider which exhibits JWTs, supports login, password-reset (via mail) and user management.
 *   [Trickster (⭐1.9k)](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy cache and time series accelerator.
 
@@ -1825,7 +1823,7 @@
 *   [Banjo (⭐22)](https://github.com/nsheremet/banjo) - Very simple and fast web framework for Go.
 *   [Buffalo](https://gobuffalo.io) - Bringing the productivity of Rails to Go!
 *   [Echo (⭐28k)](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
-*   [Fiber (⭐30k)](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
+*   [Fiber (⭐31k)](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
 *   [Fireball (⭐59)](https://github.com/zpatrick/fireball) - More "natural" feeling web framework.
 *   [Flamingo (⭐420)](https://github.com/i-love-flamingo/flamingo) - Framework for pluggable web projects. Including a concept for modules and offering features for DI, Configareas, i18n, template engines, graphql, observability, security, events, routing & reverse routing etc.
 *   [Flamingo Commerce (⭐472)](https://github.com/i-love-flamingo/flamingo-commerce) - Providing e-commerce features using clean architecture like DDD and ports and adapters, that you can use to build flexible e-commerce applications.
@@ -2147,9 +2145,8 @@
 *   [protoncheck (⭐5)](https://github.com/servusdei2018/protoncheck) - ProtonMail module for waybar/polybar/yabar/i3blocks.
 *   [restic (⭐23k)](https://github.com/restic/restic) - De-duplicating backup program.
 *   [scc (⭐5.7k)](https://github.com/boyter/scc) - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
-*   [Seaweed File System (⭐20k)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
+*   [Seaweed File System (⭐21k)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
 *   [shell2http (⭐1.2k)](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).
-*   [snap (⭐1.8k)](https://github.com/intelsdi-x/snap) - Powerful telemetry framework.
 *   [Snitch (⭐17)](https://github.com/lucasgomide/snitch) - Simple way to notify your team and many tools when someone has deployed any application via Tsuru.
 *   [Stack Up (⭐2.5k)](https://github.com/pressly/sup) - Stack Up, a super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
 *   [syncthing](https://syncthing.net/) - Open, decentralized file synchronization tool and protocol.
@@ -2435,7 +2432,7 @@
 
 ### Other Development Tools / Smart Contracts
 
-*   [algoml (⭐24)](https://github.com/petitnau/algoml) - A domain-specific language for specifying Algorand smart contracts, which compiles into TEAL scripts.
+*   [algoml (⭐25)](https://github.com/petitnau/algoml) - A domain-specific language for specifying Algorand smart contracts, which compiles into TEAL scripts.
 
 ## [7. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 

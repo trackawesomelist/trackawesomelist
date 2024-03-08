@@ -46,7 +46,7 @@
 
 ### Modules / Various Godot versions
 
-*   [GodotHook (⭐34)](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine (Godot 3.x, 4.x).
+*   [GodotHook (⭐35)](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine (Godot 3.x, 4.x).
 
 ## [7. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 

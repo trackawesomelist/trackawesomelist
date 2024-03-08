@@ -26,7 +26,7 @@
 
 ### Lint / Checkbox
 
-*   [eslint-plugin-svelte (⭐232)](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
+*   [eslint-plugin-svelte (⭐240)](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

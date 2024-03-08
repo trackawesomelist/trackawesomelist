@@ -45,7 +45,7 @@
 
 ### Other / Godot version unknown
 
-*   [codetranslator (⭐43)](https://github.com/HaSa1002/codetranslator) - Translates GDScript to C# (WIP).
+*   [codetranslator (⭐46)](https://github.com/HaSa1002/codetranslator) - Translates GDScript to C# (WIP).
 *   [gdscript-pp](https://github.com/nonunknown/gdscript-pp) - Translates GDScript to GDNative C++ (WIP).
 
 ## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
@@ -123,7 +123,7 @@
 
 ### Project Starter Templates
 
-*   [drom (⭐175)](https://github.com/OCamlPro/drom/) - The drom tool is a wrapper over opam/dune in an attempt to provide a cargo-like user experience.
+*   [drom (⭐178)](https://github.com/OCamlPro/drom/) - The drom tool is a wrapper over opam/dune in an attempt to provide a cargo-like user experience.
 
 ## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 

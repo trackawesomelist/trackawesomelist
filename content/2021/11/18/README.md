@@ -44,7 +44,7 @@
 
 ### Generic ZSH
 
-*   [ZSH Unplugged (⭐286)](https://github.com/mattmc3/zsh_unplugged) - Good resource if you want to eliminate using a framework but still easily use plugins.
+*   [ZSH Unplugged (⭐290)](https://github.com/mattmc3/zsh_unplugged) - Good resource if you want to eliminate using a framework but still easily use plugins.
 
 ## [6. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

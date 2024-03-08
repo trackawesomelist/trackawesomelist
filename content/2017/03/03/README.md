@@ -29,7 +29,7 @@
 ### Contents / Utilities
 
 *   [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
-*   [ZSON (⭐521)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
+*   [ZSON (⭐523)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
 
 ## [4. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 

@@ -20,7 +20,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@tomjs/vite-plugin-electron (⭐1)](https://github.com/tomjs/vite-plugin-electron) - Easily develop Electron applications.
+*   [@tomjs/vite-plugin-electron (⭐1)](https://github.com/tomjs/vite-plugin-electron) - Easily develop `Electron` applications.
 
 ### Drupal / Community
 
@@ -53,18 +53,9 @@
 
 ## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐120) (⭐119)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-
 ### Projects / API Documentation
 
-*   [OpenAPI Explorer (⭐267) (⭐265)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
 *   [SpectaQL (⭐1k) (⭐1k)](https://github.com/anvilco/spectaql) - A Node.js library that generates static documentation for a GraphQL schema from various sources, including live endpoint, query result, and SDL files.
-
-### Projects / Integration Frameworks
-
-*   [Frank!Framework (⭐95) (⭐94)](https://github.com/frankframework/frankframework) - A Low-Code Java-based messaging framework to connect your system and application data, that is completely configurable through XML configurations.
 
 ### Projects / Messaging
 
@@ -92,18 +83,6 @@
 *   [alosaur (⭐808)](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many ES Decorators.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐196)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐60)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
-### Projects / Web
-
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
 
 ### Projects / Build tools
 
@@ -193,7 +172,7 @@
 
 ### Software / Proxy
 
-*   [Jauth (⭐10)](https://github.com/Jipok/Jauth) `⚠` - Lightweight SSL/TLS reverse proxy with authorization (via Telegram and SSH) for self-hosted apps. ([Demo](https://j.ateam.undo.it/)) `GPL-3.0` `Go`
+*   [Jauth (⭐10)](https://github.com/Jipok/Jauth) `⚠` - Lightweight SSL/TLS reverse proxy with authorization (via Telegram and SSH) for self-hosted apps. `GPL-3.0` `Go`
 
 ### Software / URL Shorteners
 
@@ -213,4 +192,5 @@
 
 ---
 
+- Prev: [Mar 01, 2024](/content/2024/03/01/README.md)
 - Next: [Feb 28, 2024](/content/2024/02/28/README.md)

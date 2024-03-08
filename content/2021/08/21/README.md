@@ -15,10 +15,10 @@
 ### Networking
 
 *   **HTTP Tools**:
-    *   [ocaml-cohttp (⭐669)](https://github.com/mirage/ocaml-cohttp) – Very lightweight HTTP server using Lwt or Async.
-    *   [ocurl (⭐57)](https://github.com/ygrek/ocurl) – OCaml bindings to libcurl.
-    *   [httpaf (⭐529)](https://github.com/inhabitedtype/httpaf) – A high performance, memory efficient, and scalable web server written in OCaml.
-    *   [piaf (⭐171)](https://github.com/anmonteiro/piaf) - Client/server library for HTTP/1.X / HTTP/2 written entirely in OCaml.
+    *   [ocaml-cohttp (⭐674)](https://github.com/mirage/ocaml-cohttp) – Very lightweight HTTP server using Lwt or Async.
+    *   [ocurl (⭐59)](https://github.com/ygrek/ocurl) – OCaml bindings to libcurl.
+    *   [httpaf (⭐530)](https://github.com/inhabitedtype/httpaf) – A high performance, memory efficient, and scalable web server written in OCaml.
+    *   [piaf (⭐174)](https://github.com/anmonteiro/piaf) - Client/server library for HTTP/1.X / HTTP/2 written entirely in OCaml.
 
 ### Utilities
 
@@ -41,7 +41,7 @@
 
 ### Resources / Books
 
-*   [Modeling and Proving in Computational Type Theory (⭐68)](https://github.com/uds-psl/MPCTT) - Book covering topics in computational logic using Coq, including foundations, canonical case studies, and practical programming.
+*   [Modeling and Proving in Computational Type Theory (⭐70)](https://github.com/uds-psl/MPCTT) - Book covering topics in computational logic using Coq, including foundations, canonical case studies, and practical programming.
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 

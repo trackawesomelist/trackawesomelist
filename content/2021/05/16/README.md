@@ -16,7 +16,7 @@
 
 ### Text Editor Plugins
 
-*   [nvim-jqx (⭐263)](https://github.com/gennaro-tedesco/nvim-jqx) - Browse and query json files in neovim from the quickfix window. (Lua)
+*   [nvim-jqx (⭐268)](https://github.com/gennaro-tedesco/nvim-jqx) - Browse and query json files in neovim from the quickfix window. (Lua)
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

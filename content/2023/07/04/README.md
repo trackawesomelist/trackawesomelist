@@ -30,13 +30,13 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Autonomous HR Chatbot (⭐247)](https://github.com/stepanogil/autonomous-hr-chatbot) An autonomous HR agent that can answer user queries using tools ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)
+*   [Autonomous HR Chatbot (⭐269)](https://github.com/stepanogil/autonomous-hr-chatbot) An autonomous HR agent that can answer user queries using tools ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)
 
 ## [4. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### AI
 
-*   [upython-chat-gpt (⭐16)](https://github.com/karlsoderby/upython-chat-gpt) - ChatGPT for MicroPython.
+*   [upython-chat-gpt (⭐17)](https://github.com/karlsoderby/upython-chat-gpt) - ChatGPT for MicroPython.
 
 ### Communications / IoT
 
@@ -91,13 +91,13 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zunder (⭐1)](https://github.com/Warbacon/zunder-prompt) - Simple and fast ZSH prompt based on [gitstatus (⭐1.6k)](https://github.com/romkatv/gitstatus).
+*   [zunder (⭐2)](https://github.com/Warbacon/zunder-prompt) - Simple and fast ZSH prompt based on [gitstatus (⭐1.6k)](https://github.com/romkatv/gitstatus).
 
 ## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Nodes & Consensus Participation / Wallets
 
-*   [AlgoRun (⭐26)](https://github.com/algorandfoundation/algorun) - Simple CLI utility for setting up and starting Algorand MainNet participation node.
+*   [AlgoRun (⭐27)](https://github.com/algorandfoundation/algorun) - Simple CLI utility for setting up and starting Algorand MainNet participation node.
 
 ---
 

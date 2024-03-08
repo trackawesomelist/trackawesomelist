@@ -44,11 +44,11 @@
 
 ### Utility / Diagnostics
 
-*   [subnut/nvim-ghost.nvim (⭐127)](https://github.com/subnut/nvim-ghost.nvim) - GhostText support with zero dependencies.
+*   [subnut/nvim-ghost.nvim (⭐129)](https://github.com/subnut/nvim-ghost.nvim) - GhostText support with zero dependencies.
 
 ### Git / Diagnostics
 
-*   [NeogitOrg/neogit (⭐2.9k)](https://github.com/NeogitOrg/neogit) - A Magit clone that may change some things to fit the Vim philosophy.
+*   [NeogitOrg/neogit (⭐3k)](https://github.com/NeogitOrg/neogit) - A Magit clone that may change some things to fit the Vim philosophy.
 
 ## [5. Awesome Kustomize](/content/aabouzaid/awesome-kustomize/README.md)
 

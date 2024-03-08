@@ -297,7 +297,7 @@
 
 ### GTFS Realtime / Ruby
 
-*   [GTFS-realtime documentation (⭐496)](https://github.com/google/transit/tree/master/gtfs-realtime). Also available in [Español (⭐496)](https://github.com/google/transit/tree/master/gtfs-realtime/spec/es).
+*   [GTFS-realtime documentation (⭐502)](https://github.com/google/transit/tree/master/gtfs-realtime). Also available in [Español (⭐502)](https://github.com/google/transit/tree/master/gtfs-realtime/spec/es).
 
 ## [16. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
@@ -343,7 +343,7 @@
 
 ### Software / Miscellaneous
 
-*   [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code (⭐848)](https://github.com/OpenPrinting/cups)) `GPL-2.0` `C`
+*   [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code (⭐861)](https://github.com/OpenPrinting/cups)) `GPL-2.0` `C`
 
 ### Software / Office Suites
 
@@ -351,7 +351,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [OpenProject](https://www.openproject.org) - OpenProject is a web-based project management system. ([Source Code (⭐7.9k)](https://github.com/opf/openproject)) `GPL-3.0` `Ruby/deb/Docker`
+*   [OpenProject](https://www.openproject.org) - OpenProject is a web-based project management system. ([Source Code (⭐8k)](https://github.com/opf/openproject)) `GPL-3.0` `Ruby/deb/Docker`
 
 ## [20. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 

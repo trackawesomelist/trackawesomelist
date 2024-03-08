@@ -27,7 +27,7 @@
 
 ### Component Libraries
 
-*   [Blaze UI Atoms (⭐1.6k)](https://github.com/BlazeSoftware/atoms) - Set of web components powered by Blaze CSS.
+*   [Blaze UI Atoms (⭐1.5k)](https://github.com/BlazeSoftware/atoms) - Set of web components powered by Blaze CSS.
 
 ## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

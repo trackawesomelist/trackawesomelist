@@ -26,7 +26,7 @@
 
 ### Split and Window / Diagnostics
 
-*   [nvim-zh/colorful-winsep.nvim (⭐328)](https://github.com/nvim-zh/colorful-winsep.nvim) - A configurable color split line.
+*   [nvim-zh/colorful-winsep.nvim (⭐339)](https://github.com/nvim-zh/colorful-winsep.nvim) - A configurable color split line.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [yarn-extra-completion (⭐38)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐453)](https://github.com/lukechilds/zsh-better-npm-completion).
+*   [yarn-extra-completion (⭐37)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐451)](https://github.com/lukechilds/zsh-better-npm-completion).
 
 ## [8. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 

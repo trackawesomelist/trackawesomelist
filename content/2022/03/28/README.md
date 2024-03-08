@@ -58,7 +58,7 @@
 
 ### Software / Booking and Scheduling
 
-*   [Cal.com](https://cal.com/) - The open-source online appointment scheduling system. ([Demo](https://app.cal.com/bailey), [Source Code (⭐27k)](https://github.com/calcom/cal.com)) `MIT` `Nodejs`
+*   [Cal.com](https://cal.com/) - The open-source online appointment scheduling system. ([Demo](https://app.cal.com/bailey), [Source Code (⭐28k)](https://github.com/calcom/cal.com)) `MIT` `Nodejs`
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

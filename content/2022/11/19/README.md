@@ -32,7 +32,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [Ninja-Squad/springmockk (⭐461)](https://github.com/Ninja-Squad/springmockk) - SpringMockK: MockBean and SpyBean, but for MockK instead of Mockito
+*   [Ninja-Squad/springmockk (⭐462)](https://github.com/Ninja-Squad/springmockk) - SpringMockK: MockBean and SpyBean, but for MockK instead of Mockito
 
 ## [5. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fnm (⭐0)](https://github.com/zap-zsh/fnm) - Adds tab completions for Fast Node Manager [fnm (⭐15k)](https://github.com/Schniz/fnm).
+*   [fnm (⭐1)](https://github.com/zap-zsh/fnm) - Adds tab completions for Fast Node Manager [fnm (⭐15k)](https://github.com/Schniz/fnm).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

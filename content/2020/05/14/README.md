@@ -65,7 +65,7 @@
 *   [clone (⭐4)](https://github.com/ekaragodin/clone) - A simple utility for the convenient clone.
 *   [denoinit (⭐30)](https://github.com/syumai/deno-libs/tree/master/denoinit) - Denoinit generates useful files for Deno project.
 *   [denoversion (⭐7)](https://github.com/lucascaro/denoversion) - SemVer and git version management for Deno.
-*   [udd (⭐318)](https://github.com/hayd/deno-udd) - Update Deno dependencies: updates import statements to their latest published version.
+*   [udd (⭐320)](https://github.com/hayd/deno-udd) - Update Deno dependencies: updates import statements to their latest published version.
 
 ### Articles / XML
 
@@ -208,11 +208,11 @@
 
 ### Typescript Project Starters
 
-*   [typescript-express-starter (⭐2.4k)](https://github.com/ljlm0402/typescript-express-starter) - Quick and Easy TypeScript Express Starter.
+*   [typescript-express-starter (⭐2.5k)](https://github.com/ljlm0402/typescript-express-starter) - Quick and Easy TypeScript Express Starter.
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [ts-audio (⭐305)](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
+*   :octocat: [ts-audio (⭐306)](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
 
 ## [18. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

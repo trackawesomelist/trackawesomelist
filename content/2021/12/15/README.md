@@ -110,7 +110,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [iter-ops (⭐117)](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
+*   :octocat: [iter-ops (⭐124)](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

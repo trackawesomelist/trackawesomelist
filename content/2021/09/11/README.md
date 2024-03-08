@@ -22,7 +22,7 @@
 
 ### 2D / Godot 3.2+
 
-*   [Portal 2D (⭐79)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
+*   [Portal 2D (⭐82)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 

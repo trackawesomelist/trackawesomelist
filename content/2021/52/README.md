@@ -285,11 +285,11 @@
 
 ### Deployment Tools / Discovery
 
-*   [deploy-rs (⭐1k)](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
+*   [deploy-rs (⭐1.1k)](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 
 ### Command-Line Tools / Discovery
 
-*   [nix-alien (⭐352)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
+*   [nix-alien (⭐367)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
 
 ## [28. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
@@ -739,13 +739,13 @@
 
 ### C / Git
 
-*   [libkcapi (⭐145)](https://github.com/smuellerDD/libkcapi) - Linux Kernel Crypto API User Space Interface Library.
+*   [libkcapi (⭐151)](https://github.com/smuellerDD/libkcapi) - Linux Kernel Crypto API User Space Interface Library.
 *   [nettle (⭐54)](https://github.com/gnutls/nettle) - is a cryptographic library that is designed to fit easily in more or less any context: In crypto toolkits for object-oriented languages (C++, Python, Pike, ...), in applications like LSH or GNUPG, or even in kernel space.
 
 ### Rust / Git
 
-*   [BLAKE3 (⭐4.4k)](https://github.com/BLAKE3-team/BLAKE3) - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
-*   [rage (⭐2.1k)](https://github.com/str4d/rage) - is a simple, modern, and secure file encryption tool, using the age format.
+*   [BLAKE3 (⭐4.5k)](https://github.com/BLAKE3-team/BLAKE3) - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
+*   [rage (⭐2.2k)](https://github.com/str4d/rage) - is a simple, modern, and secure file encryption tool, using the age format.
 
 ## [46. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 

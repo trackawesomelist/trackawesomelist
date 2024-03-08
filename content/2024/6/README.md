@@ -57,7 +57,7 @@
 
 ### universally from / multiple sources
 
-*   [RSS Worker (⭐182)](https://github.com/yllhwa/RSSWorker) <sup>[1379](https://t.me/s/aboutrss/1379)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yllhwa/RSSWorker)
+*   [RSS Worker (⭐347)](https://github.com/yllhwa/RSSWorker) <sup>[1379](https://t.me/s/aboutrss/1379)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yllhwa/RSSWorker)
 *   [VeRSSion](https://verssion.one/) <sup>[1396](https://t.me/s/aboutrss/1396)</sup>
 
 ### universally from / webpage/html
@@ -82,7 +82,7 @@
 
 ### Generating Blog's statistics via RSS feed / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [EndofYear (⭐69)](https://github.com/7Wate/EndOfYear) <sup>[1384](https://t.me/s/aboutrss/1384)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/7Wate/EndOfYear)
+*   [EndofYear (⭐68)](https://github.com/7Wate/EndOfYear) <sup>[1384](https://t.me/s/aboutrss/1384)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/7Wate/EndOfYear)
 
 ### Turn Podcast/MP3 into Video via Podcast Feed / Crypto or Blockchain relevant
 
@@ -113,11 +113,11 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [HoloPlay](https://app.holoplay.io) `⚠` - Web app using Invidious API for listening to Youtube audio sources. ([Source Code (⭐54)](https://github.com/stephane-r/holoplay-pwa)) `MIT` `Nodejs/Docker`
+*   [HoloPlay](https://app.holoplay.io) `⚠` - Web app using Invidious API for listening to Youtube audio sources. ([Source Code (⭐60)](https://github.com/stephane-r/holoplay-pwa)) `MIT` `Nodejs/Docker`
 
 ### Software / Software Development - FaaS & Serverless
 
-*   [CASE](https://case.app) - Lightweight BaaS (Backend As A Service) requiring minimal coding, with database, admin panel, API, and Javascript SDK. ([Source Code (⭐172)](https://github.com/casejs/case)) `MIT` `Nodejs`
+*   [CASE](https://case.app) - Lightweight BaaS (Backend As A Service) requiring minimal coding, with database, admin panel, API, and Javascript SDK. ([Source Code (⭐183)](https://github.com/casejs/case)) `MIT` `Nodejs`
 
 ## [5. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
@@ -161,7 +161,7 @@
 
 ### Base Tools / Other
 
-*   [SparkView (⭐5)](https://github.com/beyondssl/sparkview-container) - Access VMs, desktops, servers or applications anytime and from anywhere, without complex and costly client roll-outs or user management.
+*   [SparkView (⭐6)](https://github.com/beyondssl/sparkview-container) - Access VMs, desktops, servers or applications anytime and from anywhere, without complex and costly client roll-outs or user management.
 
 ## [11. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
 
@@ -234,7 +234,7 @@
 
 ### Learn AI free / Machine Learning
 
-*   [Roadmap (⭐7.1k)](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them, and what tools to use to perform them.
+*   [Roadmap (⭐7.2k)](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them, and what tools to use to perform them.
 *   [Andrew Ng’s Machine Learning at Stanford University](https://www.coursera.org/learn/machine-learning) -  Ng’s gentle introduction to machine learning course is perfect for engineers who want a foundational overview of key concepts in the field.
 *   [Sebastian Thrun’s Introduction To Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) - robust introduction to the subject and also the foundation for a Data Analyst “nanodegree” certification sponsored by Facebook and MongoDB.
 
@@ -247,7 +247,7 @@
 
 ### Related Awesome Lists / Deep Learning
 
-*   [Awesome AI Books (⭐41)](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
+*   [Awesome AI Books (⭐49)](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
 *   [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
 
 ## [13. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
@@ -421,8 +421,8 @@
 ### no-std crates / WIP
 
 *   [embedded-cli](https://crates.io/crates/embedded-cli): CLI library with autocompletion, subcommands, options, help and history support. ![crates.io](https://img.shields.io/crates/v/embedded-cli.svg)
-*   [lorawan-encoding (⭐173)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN packet codec.
-*   [lorawan-device (⭐173)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN MAC implementation supporting both event-driven and async mode.
+*   [lorawan-encoding (⭐181)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN packet codec.
+*   [lorawan-device (⭐181)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN MAC implementation supporting both event-driven and async mode.
 
 ## [26. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -556,7 +556,7 @@
 
 ### Libraries / GUI
 
-*   [makepad/makepad (⭐4.5k)](https://github.com/makepad/makepad) \[[makepad-widgets](https://crates.io/crates/makepad-widgets)] — Makepad is a creative software development platform that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl.
+*   [makepad/makepad (⭐4.6k)](https://github.com/makepad/makepad) \[[makepad-widgets](https://crates.io/crates/makepad-widgets)] — Makepad is a creative software development platform that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl.
 
 ## [32. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
@@ -574,7 +574,7 @@
 
 ### IO / Relay
 
-*   [micropython-xl9535-kxv5-relay (⭐1)](https://github.com/mcauser/micropython-xl9535-kxv5-relay) - A MicroPython library for jxl XL9535-KxV5 I2C relay boards.
+*   [micropython-xl9535-kxv5-relay (⭐2)](https://github.com/mcauser/micropython-xl9535-kxv5-relay) - A MicroPython library for jxl XL9535-KxV5 I2C relay boards.
 
 ### Sensors / Colour
 
@@ -600,14 +600,14 @@
 
 ### Third-Party Packages / Internationalisation (i18n)
 
-*   [django-localflavor (⭐787)](https://github.com/django/django-localflavor) - A collection of functionality that is useful for particular countries or cultures. Previously a part of the Django core.
+*   [django-localflavor (⭐793)](https://github.com/django/django-localflavor) - A collection of functionality that is useful for particular countries or cultures. Previously a part of the Django core.
 *   [django-modeltrans (⭐48)](https://github.com/zostera/django-modeltrans) - Translate Django model fields in a JSONField.
 *   [django-modeltranslations (⭐1.3k)](https://github.com/deschler/django-modeltranslation) -  Translates Django models using a registration approach.
-*   [django-rosetta (⭐983)](https://github.com/mbi/django-rosetta) - Rosetta provides a UI to read and write your project's gettext catalogs within the Django Admin.
+*   [django-rosetta (⭐989)](https://github.com/mbi/django-rosetta) - Rosetta provides a UI to read and write your project's gettext catalogs within the Django Admin.
 
 ### Third-Party Packages / Task Queues
 
-*   [django-celery-results (⭐637)](https://github.com/celery/django-celery-results) -  Celery result backend with Django.
+*   [django-celery-results (⭐640)](https://github.com/celery/django-celery-results) -  Celery result backend with Django.
 
 ## [34. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
@@ -637,17 +637,6 @@
 
 *   [RapiDoc (⭐1.5k) (⭐1.5k)](https://github.com/rapi-doc/RapiDoc) - A tool that generates customizable, interactive API documentation from OpenAPI Specification, with a range of design options.
 
-### Projects / API Testing
-
-*   Testing tools and frameworks
-    *   [Apache JMeter (⭐7.7k) (⭐7.8k)](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
-    *   [Gatling (⭐6.2k) (⭐6.2k)](https://github.com/gatling/gatling) - An open-source load testing tool that allows users to write and run load tests as code, providing detailed performance reports to optimize system performance.
-    *   [Karate (⭐7.7k) (⭐7.7k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
-    *   [Pyresttest (⭐1.1k) (⭐1.1k)](https://github.com/svanoort/pyresttest) - Java DSL for easy testing of REST services.
-    *   [REST Assured (⭐6.6k) (⭐6.7k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
-    *   [Schemathesis (⭐2k) (⭐2k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
-    *   [Taurus (⭐1.9k) (⭐1.9k)](https://github.com/Blazemeter/taurus) - An open-source framework for continuous testing that simplifies test execution and management through a user-friendly interface and integrates with various testing tools and frameworks.
-
 ### Projects / BRE
 
 *   [Drools (⭐5.6k) (⭐5.6k)](https://github.com/apache/incubator-kie-drools) - Open-source tool that supports Decision Model and Notation (DMN) models at Conformance level 3 with an Eclipse IDE plugin for core development.
@@ -658,18 +647,12 @@
 *   [Apache NiFi (⭐4.2k) (⭐4.3k)](https://github.com/apache/nifi) - An automated data integration platform that efficiently moves data between disparate systems.
 *   [Pentaho Data Integration (⭐7.2k) (⭐7.2k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
 
-### Projects / Messaging
-
-*   [Eclipse Mosquitto (⭐8.1k) (⭐8.2k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
-*   [Redpanda (⭐8.4k) (⭐8.5k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
-
 ### Projects / Workflow engine
 
 *   [Activiti (⭐9.8k) (⭐9.8k)](https://github.com/Activiti/Activiti) - A lightweight and Java-centric open-source engine for executing BPMN (Business Process Model and Notation) workflows.
 *   [Argo Workflows (⭐14k) (⭐14k)](https://github.com/argoproj/argo-workflows) - An open-source, container-native workflow engine designed to orchestrate parallel jobs on Kubernetes, making it easier to manage and automate complex workflows in a cloud-native environment.
 *   [Bonita (⭐141) (⭐141)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
 *   [Cadence (⭐7.6k) (⭐7.7k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
-*   [Elsa Core (⭐5.5k) (⭐5.6k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
 
 ### Resources / Data Formats
 
@@ -800,16 +783,16 @@
 *   [Awesome Image Classification (⭐2.7k)](https://github.com/weiaicunzai/awesome-image-classification#readme)
 *   [Awesome Machine Learning (⭐63k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
 *   [Awesome Machine Learning & Deep Learning Tutorials (⭐15k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
-*   [Awesome Natural Language Generation (⭐434)](https://github.com/accelerated-text/awesome-nlg#readme)
+*   [Awesome Natural Language Generation (⭐433)](https://github.com/accelerated-text/awesome-nlg#readme)
 *   [Awesome NLP (⭐16k)](https://github.com/keon/awesome-nlp#readme)
-*   [Awesome Production Machine Learning (⭐15k)](https://github.com/EthicalML/awesome-production-machine-learning#readme)
+*   [Awesome Production Machine Learning (⭐16k)](https://github.com/EthicalML/awesome-production-machine-learning#readme)
 *   [Awesome Software Engineering for Machine Learning (⭐1.2k)](https://github.com/SE-ML/awesome-seml#readme)
 *   [Awesome Visual Transformer (⭐3.2k)](https://github.com/dk-liang/Awesome-Visual-Transformer#readme)
-*   [Awesome XAI (⭐113)](https://github.com/altamiracorp/awesome-xai#readme)
+*   [Awesome XAI (⭐116)](https://github.com/altamiracorp/awesome-xai#readme)
 
-### Datasets / Applications of Transformers, LLMs, and GPT
+### Datasets / Datasets available elsewhere
 
-*   [HTR datasets in Zenodo](https://zenodo.org/search?q=metadata.subjects.subject%3A%22handwritten%20text%20recognition%22\&l=list\&p=1\&s=10\&sort=bestmatch) – based on subject search in Zenodo
+*   [HTR datasets in Zenodo](https://zenodo.org/search?q=metadata.subjects.subject%3A%22handwritten%20text%20recognition%22\&l=list\&p=1\&s=10\&sort=bestmatch) – subject search in Zenodo
 
 ### Conferences and Workshops / Upcoming Conferences and Workshops
 
@@ -831,7 +814,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [marilari88/twoslash-queries.nvim (⭐105)](https://github.com/marilari88/twoslash-queries.nvim) - Provide inline virtual text displaying TypeScript types for the inspected variables.
+*   [marilari88/twoslash-queries.nvim (⭐107)](https://github.com/marilari88/twoslash-queries.nvim) - Provide inline virtual text displaying TypeScript types for the inspected variables.
 
 ### Programming Languages Support / Diagnostics
 
@@ -839,7 +822,7 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [Nedra1998/nvim-mdlink (⭐12)](https://github.com/Nedra1998/nvim-mdlink) - Simplify creating and following markdown links.
+*   [Nedra1998/nvim-mdlink (⭐15)](https://github.com/Nedra1998/nvim-mdlink) - Simplify creating and following markdown links.
 
 ### Language / Diagnostics
 
@@ -847,7 +830,7 @@
 
 ### Marks / Diagnostics
 
-*   [LintaoAmons/bookmarks.nvim (⭐32)](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful.
+*   [LintaoAmons/bookmarks.nvim (⭐37)](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful.
 
 ## [54. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -864,7 +847,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [chatGPT (⭐17)](https://github.com/mountaineerbr/shellChatGPT) - A command-line wrapper for OpenAI API for ChatGPT, DALL-E, and Whisper.
-*   [eza (mohamedelashri) (⭐0)](https://github.com/MohamedElashri/eza-zsh) - Adds aliases for [eza (⭐5.5k)](https://github.com/eza-community/eza), a modern replacement for `ls`.
+*   [eza (mohamedelashri) (⭐0)](https://github.com/MohamedElashri/eza-zsh) - Adds aliases for [eza (⭐6k)](https://github.com/eza-community/eza), a modern replacement for `ls`.
 *   [prezto-last-working-dir (⭐0)](https://github.com/JoniVanderheijden/prezto-last-working-dir) - Keeps track of the last used working directory and automatically jumps into it for new shells, unless the starting directory is not `$HOME`. Includes a `lwd` alias.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only

@@ -62,7 +62,7 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-related-admin (⭐64)](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list\_displays accross foreign key relationships.
+*   [django-related-admin (⭐65)](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list\_displays accross foreign key relationships.
 
 ## [7. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
@@ -156,12 +156,12 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [2D Destructible Objects (⭐364)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥 (Godot 3.x).
+*   [2D Destructible Objects (⭐369)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥 (Godot 3.x).
 *   [CRT Shader (⭐290)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters (Godot 3.x).
 
 ### Other / Godot version unknown
 
-*   [RetroPie Godot Game Engine "Emulator" (⭐82)](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
+*   [RetroPie Godot Game Engine "Emulator" (⭐84)](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
 
 ## [17. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

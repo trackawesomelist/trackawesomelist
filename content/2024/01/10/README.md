@@ -74,14 +74,10 @@
 
 *   [Swagger UI (⭐25k) (⭐25k)](https://github.com/swagger-api/swagger-ui) - An intuitive tool for exploring and interacting with APIs, with API specification visualization, endpoint exploration, and built-in interactive console.
 
-### Projects / BRE
-
-*   [OpenL Tablets (⭐138) (⭐138)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
-
 ### Projects / Workflow engine
 
-*   [Apache Airflow (⭐33k) (⭐33k)](https://github.com/apache/airflow) - A platform that allows you to create, schedule, and monitor workflows programmatically, making it easier to manage and automate complex data pipelines.
-*   [StackStorm (⭐5.8k) (⭐5.8k)](https://github.com/StackStorm/st2) - A robust automation engine that provides sensors, triggers, rules, workflows, and actions to help you automate and orchestrate complex workflows and applications.
+*   [Apache Airflow (⭐33k) (⭐34k)](https://github.com/apache/airflow) - A platform that allows you to create, schedule, and monitor workflows programmatically, making it easier to manage and automate complex data pipelines.
+*   [StackStorm (⭐5.8k) (⭐5.9k)](https://github.com/StackStorm/st2) - A robust automation engine that provides sensors, triggers, rules, workflows, and actions to help you automate and orchestrate complex workflows and applications.
 
 ## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -103,7 +99,7 @@
 
 ### Software / Wikis
 
-*   [WikiDocs](http://wikidocs.it) - A databaseless markdown flat-file wiki engine. ([Demo](https://demo.wikidocs.it), [Source Code (⭐145)](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
+*   [WikiDocs](http://wikidocs.it) - A databaseless markdown flat-file wiki engine. ([Demo](https://demo.wikidocs.it), [Source Code (⭐149)](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
 
 ## [12. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 

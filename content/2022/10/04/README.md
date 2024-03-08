@@ -303,7 +303,7 @@
 
 ### Note Taking / Diagnostics
 
-*   [jghauser/papis.nvim (⭐124)](https://github.com/jghauser/papis.nvim) - Manage your bibliography from within your favourite editor.
+*   [jghauser/papis.nvim (⭐129)](https://github.com/jghauser/papis.nvim) - Manage your bibliography from within your favourite editor.
 
 ## [12. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 

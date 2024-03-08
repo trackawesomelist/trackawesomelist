@@ -28,7 +28,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [tsParticles (⭐6.2k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
+*   :octocat: [tsParticles (⭐6.4k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
 
 ## [5. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 

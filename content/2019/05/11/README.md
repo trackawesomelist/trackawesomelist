@@ -35,7 +35,7 @@
 
 ### Software / Automation
 
-*   [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code (⭐613)](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
+*   [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code (⭐614)](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
 
 ### Software / Communication - Email - Webmail Clients
 
@@ -43,7 +43,7 @@
 
 ### Software / Communication - XMPP - Servers
 
-*   [Metronome IM](https://metronome.im/) - Lightweight xmpp server with advanced microblogging features (fork of Prosody). ([Source Code (⭐168)](https://github.com/maranda/metronome)) `MIT` `Lua`
+*   [Metronome IM](https://metronome.im/) - Lightweight xmpp server with advanced microblogging features (fork of Prosody). ([Source Code (⭐169)](https://github.com/maranda/metronome)) `MIT` `Lua`
 
 ### Software / Content Management Systems (CMS)
 
@@ -55,11 +55,11 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [IFM (⭐322)](https://github.com/misterunknown/ifm) - Single script file manager. `MIT` `PHP`
+*   [IFM (⭐324)](https://github.com/misterunknown/ifm) - Single script file manager. `MIT` `PHP`
 
 ### Software / Learning and Courses
 
-*   [RELATE](https://documen.tician.de/relate/) - RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar. ([Source Code (⭐357)](https://github.com/inducer/relate)) `MIT` `Python`
+*   [RELATE](https://documen.tician.de/relate/) - RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar. ([Source Code (⭐360)](https://github.com/inducer/relate)) `MIT` `Python`
 
 ### Software / Media Streaming - Audio Streaming
 
@@ -71,7 +71,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [Klaus (⭐666)](https://github.com/jonashaag/klaus) - Simple, easy-to-set-up Git web viewer that Just Works. `ISC` `Python/Docker`
+*   [Klaus (⭐667)](https://github.com/jonashaag/klaus) - Simple, easy-to-set-up Git web viewer that Just Works. `ISC` `Python/Docker`
 
 ### Software / Wikis
 
@@ -127,7 +127,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [mokia (⭐111)](https://github.com/varHarrie/mokia) - A mock server integrated data simulation and http service.
+*   :octocat: [mokia (⭐113)](https://github.com/varHarrie/mokia) - A mock server integrated data simulation and http service.
 
 ### Social / Chrome Extensions
 

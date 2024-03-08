@@ -77,7 +77,7 @@
 
 ### Standalone apps / Playground
 
-*   :octocat: [App Outlet (⭐378)](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
+*   :octocat: [App Outlet (⭐380)](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

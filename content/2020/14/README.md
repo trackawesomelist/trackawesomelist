@@ -510,17 +510,17 @@
 
 ### Algorithms, Containers and Protocols / Apache License
 
-*   [ada-language-server (⭐211)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
+*   [ada-language-server (⭐216)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 *   [ada-lsp (⭐11)](https://github.com/reznikmm/ada-lsp) - Language Server Protocol for Ada.
 *   [ada-lsp-client (⭐1)](https://github.com/Alex-Gamper/Ada-LanguageServer) - Prototype implementation of LSP client - Visual Studio 2017.
 
 ### Cryptography / Apache License
 
 *   [fletcher (⭐0)](https://github.com/darkestkhan/fletcher) - Trivial implementation of fletcher\_16 checksum computation algorithm.
-*   [base58-ada (⭐4)](https://github.com/MichaelAllenHardeman/base58_ada) - Base58 encoding and decoding in Ada.
+*   [base58-ada (⭐3)](https://github.com/MichaelAllenHardeman/base58_ada) - Base58 encoding and decoding in Ada.
 *   [libsparkcrypto (⭐27)](https://github.com/Componolit/libsparkcrypto) - A cryptographic library implemented in SPARK.
 *   [sip-hash (⭐1)](https://github.com/grim7reaper/SipHash) - A pure Ada implementation of the SipHash PRF.
-*   [libkeccak (⭐32)](https://github.com/damaki/libkeccak) - A SPARK implementation of the Keccak family of sponge functions and related constructions.
+*   [libkeccak (⭐33)](https://github.com/damaki/libkeccak) - A SPARK implementation of the Keccak family of sponge functions and related constructions.
 *   [ascon-spark (⭐3)](https://github.com/jhumphry/Ascon_SPARK) - Ada/SPARK implementation of the Ascon Authenticated Encryption with Additional Data Algorithm.
 *   [spark-sip-hash (⭐5)](https://github.com/jhumphry/SPARK_SipHash) - Ada/SPARK implementation of the SipHash keyed hash function.
 *   [spark-norx (⭐8)](https://github.com/jhumphry/SPARK_NORX) - Ada/SPARK implementation of the NORX Authenticated Encryption with Additional Data Algorithm.
@@ -529,7 +529,7 @@
 
 ### Simulation / Apache License
 
-*   [ghdl (⭐2.1k)](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
+*   [ghdl (⭐2.2k)](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
 
 ## [46. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
@@ -554,7 +554,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Stretto (⭐607)](https://github.com/benkaiser/stretto) - Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. ([Demo](https://next.kaiserapps.com), [Clients (⭐9)](https://github.com/benkaiser/stretto-mobile-next)) `MIT` `Nodejs`
+*   [Stretto (⭐608)](https://github.com/benkaiser/stretto) - Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. ([Demo](https://next.kaiserapps.com), [Clients (⭐9)](https://github.com/benkaiser/stretto-mobile-next)) `MIT` `Nodejs`
 
 ## [49. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -570,7 +570,7 @@
 
 ### Applications / System tools
 
-*   [ajeetdsouza/zoxide (⭐13k)](https://github.com/ajeetdsouza/zoxide/) — A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
+*   [ajeetdsouza/zoxide (⭐16k)](https://github.com/ajeetdsouza/zoxide/) — A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
 *   [orhun/kmon (⭐2.3k)](https://github.com/orhun/kmon) — Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
 
 ## [51. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)

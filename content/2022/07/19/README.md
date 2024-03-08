@@ -16,7 +16,7 @@
 
 ### Software / Pastebins
 
-*   [Wastebin (⭐167)](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust/Docker`
+*   [Wastebin (⭐175)](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust/Docker`
 
 ## [3. Awesome Video](/content/krzemienski/awesome-video/README.md)
 

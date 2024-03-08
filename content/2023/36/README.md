@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 04 - Sep 10, 2023
 
-41 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -117,57 +117,63 @@
     [Repo (⭐3.6k)](https://github.com/kevquirk/simple.css/)
     \| #CSS
 
-## [6. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [6. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+
+### UI Libraries
+
+*   [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind.
+
+## [7. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
 *   [Polars and Pandas : What's the difference ?](https://blog.jetbrains.com/dataspell/2023/08/polars-vs-pandas-what-s-the-difference/) - A blog post that explains how Polars works under the hood and th best use cases for Polars and Pandas by [@t-redactyl](https://github.com/t-redactyl).
 
-## [7. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [8. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Miscellaneous
 
 *   [puck (⭐4k)](https://github.com/measuredco/puck) - [demo](https://puck-editor-demo.vercel.app/edit) - The self-hosted visual editor for React
 
-## [8. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [biome](https://biomejs.dev) — A toolchain for web projects, aimed to provide functionalities to maintain them. Biome formats and lints code in a fraction of a second. It is the successor to Rome. It is designed to eventually replace Biome is designed to eventually replace Babel, ESLint, webpack, Prettier, Jest, and others.
 
-## [9. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [10. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
 *   [rodrigoodhin/fiper](https://gitlab.com/rodrigoodhin/fiper) - FiPer is a library that provides Fiber with Role Based Access Control (RBAC) using JWT and with database persistence using two ORM libraries are supported: Gorm and Bun.
 
-## [10. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [11. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Projects
 
 *   [Opulo](https://docs.opulo.io/) - Project that develops a pick and place machine.
 *   [FarmBot](https://farm.bot/pages/open-source) - automated gardening machine to grow vegetables.
 
-## [11. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [12. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Component Libraries
 
 *   [shadcn-ui (⭐45k)](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
 
-## [12. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / Directory Listing
 
 *   [eza (⭐680)](https://github.com/eza-community/eza) - Improved version of `ls`.
 
-## [13. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [14. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / WSL Utilities
 
 *   [wsl-vpnkit (⭐1.9k)](https://github.com/sakai135/wsl-vpnkit) - Script providing network connectivity to WSL 2 when blocked by VPN. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [xdg-open-wsl (⭐147)](https://github.com/cpbotha/xdg-open-wsl) - xdg-open replacement for WSL that opens files and links using Windows applications. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [14. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [15. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Deployment Hosting
 
@@ -177,37 +183,37 @@
 
 *   [Firecamp](https://firecamp.io) - DX first open-source API dev tool alternative to Postman. [![Firecamp](https://img.shields.io/github/stars/firecamp-dev/firecamp?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/firecamp-dev/firecamp)
 
-## [15. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [16. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### SQL Query Builders
 
 *   [Hotcoal (⭐12)](https://github.com/motrboat/hotcoal) - Secure your handcrafted SQL against injection.
 
-## [16. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [17. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### Databases / Compound
 
 *   [Rhea](https://www.rhea-db.org/) - Database of chemical reactions.
 
-## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
-*   [roobert/activate.nvim (⭐69)](https://github.com/roobert/activate.nvim) - A plugin installation system designed to complement `folke/lazy.nvim`.
+*   [roobert/activate.nvim (⭐76)](https://github.com/roobert/activate.nvim) - A plugin installation system designed to complement `folke/lazy.nvim`.
 
 ### Utility / Diagnostics
 
-*   [subnut/nvim-ghost.nvim (⭐127)](https://github.com/subnut/nvim-ghost.nvim) - GhostText support with zero dependencies.
+*   [subnut/nvim-ghost.nvim (⭐129)](https://github.com/subnut/nvim-ghost.nvim) - GhostText support with zero dependencies.
 
 ### Dependency Management / Diagnostics
 
-*   [piersolenski/telescope-import.nvim (⭐124)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
+*   [piersolenski/telescope-import.nvim (⭐129)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
 
 ### Git / Diagnostics
 
-*   [NeogitOrg/neogit (⭐2.9k)](https://github.com/NeogitOrg/neogit) - A Magit clone that may change some things to fit the Vim philosophy.
+*   [NeogitOrg/neogit (⭐3k)](https://github.com/NeogitOrg/neogit) - A Magit clone that may change some things to fit the Vim philosophy.
 
-## [18. Awesome Kustomize](/content/aabouzaid/awesome-kustomize/week/README.md)
+## [19. Awesome Kustomize](/content/aabouzaid/awesome-kustomize/week/README.md)
 
 ### Plugins / Generators
 
@@ -217,25 +223,25 @@
 
 *   🧪 [ArgoCD GitOps Tutorial - Working with Kustomize](https://redhat-scholars.github.io/argocd-tutorial/argocd-tutorial/03-kustomize.html) - A hands-on lab covers using Kustomize in GitOps and it goes through the Kustomize syntax and deploying a Kustomized application.
 
-## [19. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [20. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Developer tools
 
 *   [Keploy](https://keploy.io/) - Open source Tool for converting user traffic to Test Cases and Data Stubs.
 
-## [20. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [21. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Video and Audio Conferencing
 
 *   [Chitchatter](https://chitchatter.im/) - Secure P2P chat that is serverless, decentralized, and ephemeral. Supports text, audio, video, screen, and file sharing.
 
-## [21. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [22. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Users
 
 *   [django-improved-user (⭐136)](https://github.com/jambonsw/django-improved-user) - A custom Django user that authenticates via email. Follows identity and authentication best practices.
 
-## [22. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -253,37 +259,37 @@
 
 *   [stats (⭐21k)](https://github.com/exelban/stats) - free Mac system monitor for the menubar. \[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")]
 
-## [23. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [24. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Themes
 
 *   [minimal-tmux-status (⭐33)](https://github.com/niksingh710/minimal-tmux-status/): Minimal theme with only required information in status bar and prefix indicator. (changes only status bar)
 
-## [24. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [25. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Recommender (⭐18)](https://github.com/vishwasg217/recommender): Create captivating email marketing campaigns tailored to your business needs ![GitHub Repo stars](https://img.shields.io/github/stars/vishwasg217/recommender?style=social)
+*   [Recommender (⭐23)](https://github.com/vishwasg217/recommender): Create captivating email marketing campaigns tailored to your business needs ![GitHub Repo stars](https://img.shields.io/github/stars/vishwasg217/recommender?style=social)
 
-## [25. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/week/README.md)
+## [26. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/week/README.md)
 
 ### How To Use
 
 *   Try out [Exercism](https://exercism.org/tracks/common-lisp).
 
-## [26. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [27. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Resources / API Specification
 
 *   [JSON:API (⭐7.2k) (⭐7.3k)](https://github.com/json-api/json-api) - A standardized specification for building APIs that simplifies the representation of resources, relationships, and metadata, making it easier for software engineers to create efficient APIs.
 
-## [27. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [28. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### FreshRSS / Outline Processor Markup Language
 
 *   <https://titrvar.com/p> by [Titrvar تیتروار](https://titrvar.com/)
 
-## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -303,19 +309,19 @@
 *   [Remarkbox](https://www.remarkbox.com/) - Open source hosted comments platform, pay what you can for "One moderator on a few domains with complete control over behavior & appearance"
 *   [IntenseDebate](https://intensedebate.com/) - A feature-rich comment system for WordPress, Tumblr, Blogger, and many other website platforms.
 
-## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Software Development - Project Management
 
 *   [Forgejo](https://forgejo.org) - A lightweight software forge focused on scaling, federation, and privacy (fork of Gitea). ([Demo](https://next.forgejo.org), [Source Code](https://codeberg.org/forgejo/forgejo/), [Clients](https://codeberg.org/forgejo-contrib/delightful-forgejo)) `MIT` `Docker/Go`
 
-## [30. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [31. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Web Frameworks
 
 *   [Jaspr](https://docs.page/schultek/jaspr) - Jaspr is an modern web framework for building websites in Dart with support for both client-side and server-side rendering.
 
-## [31. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [32. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -329,7 +335,7 @@
 
 *   [nfiles (⭐14)](https://github.com/atlas-engineer/nfiles) - File persistence, watching, data synchronization, (per user profile) path resolution, and structured data retrieval. Has pre-defined classes for configuration files, remote fetched files, data files, Lisp-readable files and many others. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-## [32. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [33. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI
 
@@ -343,26 +349,25 @@
 
 *   [HD Robots](https://hdrobots.com/): AI tools directory with chatbot assistant
 
-## [33. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [34. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [Slint](https://crates.io/crates/slint): Declarative GUI framework that works on microcontrollers. [![crates.io](https://img.shields.io/crates/v/slint.svg)](https://crates.io/crates/slint)
 
-## [34. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [35. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Tutorials / Hardware Offload
 
 *   [eBPF Developer Tutorial - Learn eBPF by examples](https://eunomia.dev/tutorials/) - Start with eBPF basics and progress to advanced topics using 20+ hands-on tutorials and examples. Covers performance, networking, and security with libbpf and CO-RE. Available in Chinese and English.
 
-## [35. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [36. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   📚 [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind CSS.
 *   🧩 [Shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
 
-## [36. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [37. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Tools
 
@@ -376,7 +381,7 @@
 
 *   [IDURAR ERP/CRM (⭐1.3k)](https://github.com/idurar/idurar-erp-crm) - IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
 
-## [37. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [38. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -428,7 +433,7 @@
 
 *   [vite-plugin-vercel (⭐75)](https://github.com/magne4000/vite-plugin-vercel) - Vercel adapter.
 
-## [38. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [39. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Automation
 
@@ -604,13 +609,13 @@
 
 *   [Ops School](https://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
 
-## [39. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [40. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [hyogwa (⭐45)](https://github.com/ENvironmentSet/hyogwa) - Natural 🌿 effect system that fits TypeScript; Write codes as you write **plain typescript code**.
 
-## [40. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [41. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Programming Languages / Zig
 
@@ -618,9 +623,9 @@
 
 ### NixOS Modules / Zig
 
-*   [NixVim (⭐805)](https://github.com/nix-community/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
+*   [NixVim (⭐975)](https://github.com/nix-community/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 
-## [41. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [42. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

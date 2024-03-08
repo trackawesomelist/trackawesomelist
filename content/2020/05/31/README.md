@@ -10,11 +10,11 @@
 
 ### Projects / Libraries
 
-*   [Coq record update (⭐40)](https://github.com/tchajed/coq-record-update) - Library which provides a generic way to update Coq record fields.
+*   [Coq record update (⭐41)](https://github.com/tchajed/coq-record-update) - Library which provides a generic way to update Coq record fields.
 
 ### Projects / Plugins
 
-*   [Hierarchy Builder (⭐87)](https://github.com/math-comp/hierarchy-builder) - Collection of commands for declaring Coq hierarchies based on packed classes.
+*   [Hierarchy Builder (⭐88)](https://github.com/math-comp/hierarchy-builder) - Collection of commands for declaring Coq hierarchies based on packed classes.
 
 ### Projects / Type Theory and Mathematics
 

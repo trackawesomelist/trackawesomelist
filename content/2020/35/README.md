@@ -63,7 +63,7 @@
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
-*   [neix (⭐200)](https://github.com/tomschwarz/neix) <sup>[788](https://t.me/s/aboutrss/788)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/tomschwarz/neix)
+*   [neix (⭐199)](https://github.com/tomschwarz/neix) <sup>[788](https://t.me/s/aboutrss/788)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/tomschwarz/neix)
 
 ### Telegram / Telegram RSS bots
 
@@ -229,8 +229,8 @@
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [Emacs (⭐277)](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
-*   [Vim (⭐422)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
+*   [Emacs (⭐282)](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
+*   [Vim (⭐427)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
 
 ## [13. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -246,7 +246,7 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [nbdev (⭐4.5k)](https://github.com/fastai/nbdev) - Develop, package and distribute Python packages to PyPI using Jupyter as a [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) environment.
+*   [nbdev (⭐4.7k)](https://github.com/fastai/nbdev) - Develop, package and distribute Python packages to PyPI using Jupyter as a [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) environment.
 
 ## [15. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
@@ -445,7 +445,7 @@
 
 ### Code
 
-*   [ExplainX (⭐320)](https://github.com/explainX/explainx)- ExplainX is a fast, light-weight, and scalable explainable AI framework for data scientists to explain any black-box model to business stakeholders.
+*   [ExplainX (⭐380)](https://github.com/explainX/explainx)- ExplainX is a fast, light-weight, and scalable explainable AI framework for data scientists to explain any black-box model to business stakeholders.
 
 ## [29. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
@@ -678,19 +678,19 @@
 *   [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web component for creating documentation from OpenAPI Specification.
 *   [`<shader-doodle>`](https://github.com/halvves/shader-doodle) - Web component for writing and rendering shaders.
 *   [`<trix-editor>`](https://github.com/basecamp/trix) - Rich text editor custom element for everyday writing.
-*   [`<web-vitals>`](https://github.com/stefanjudis/web-vitals-element) - Bring [web vitals (⭐6.8k)](https://github.com/GoogleChrome/web-vitals) quickly into your page using custom elements.
+*   [`<web-vitals>`](https://github.com/stefanjudis/web-vitals-element) - Bring [web vitals (⭐7k)](https://github.com/GoogleChrome/web-vitals) quickly into your page using custom elements.
 
 ### Component Libraries
 
-*   [Warp View (⭐7)](https://github.com/senx/warpview) - Collection of charting web components for Warp 10.
+*   [Warp View (⭐8)](https://github.com/senx/warpview) - Collection of charting web components for Warp 10.
 
 ### Design Systems
 
-*   [Lyne Components (⭐30)](https://github.com/lyne-design-system/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
+*   [Lyne Components (⭐31)](https://github.com/lyne-design-system/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
 
 ### Class Based
 
-*   [Panel (⭐267)](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
+*   [Panel (⭐270)](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
 
 ### Tutorials
 

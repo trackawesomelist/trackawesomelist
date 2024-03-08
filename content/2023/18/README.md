@@ -1,6 +1,6 @@
 # Awesome List Updates on May 01 - May 07, 2023
 
-30 awesome lists updated this week.
+29 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,7 +18,7 @@
 
 View and create Linear tickets from any GitHub PR or issue.
 
-Installs: 7 | Stars: 20 | Last update: 30 Jan 2024
+Installs: 6 | Stars: 20 | Last update: 30 Jan 2024
 
 ## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
@@ -48,7 +48,7 @@ Installs: 7 | Stars: 20 | Last update: 30 Jan 2024
 
 ### Software / Note-taking & Editors
 
-*   [Memos](https://usememos.com/) - An open source, self-hosted knowledge base that works with a SQLite db file. ([Source Code (⭐25k)](https://github.com/usememos/memos)) `MIT` `Docker/Go`
+*   [Memos](https://usememos.com/) - An open source, self-hosted knowledge base that works with a SQLite db file. ([Source Code (⭐26k)](https://github.com/usememos/memos)) `MIT` `Docker/Go`
 
 ### Software / Software Development - IDE & Tools
 
@@ -215,19 +215,13 @@ git checkout -- <file_name>
 *   [3xpl.com](https://3xpl.com/bitcoin) - Fastest ad-free universal block explorer.
 *   [Blockchair.com](https://blockchair.com/bitcoin) - Universal blockchain explorer and search engine.
 
-## [21. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
-
-### Specific topics / Public key cryptography: General and DLP
-
-*   [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://web.williams.edu/Mathematics/lg5/302/RSA.pdf) -  Original paper introducing RSA algorithm.
-
-## [22. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [21. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
 *   [tpm (⭐76)](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
 
-## [23. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [22. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### LangChain Framework
 
@@ -235,32 +229,32 @@ git checkout -- <file_name>
 
 ### Ports to other languages
 
-*   [Langchain Go (⭐1.8k)](https://github.com/tmc/langchaingo): Golang Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social)
-*   [LangchainRb (⭐776)](https://github.com/andreibondarev/langchainrb): Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social)
+*   [Langchain Go (⭐2.3k)](https://github.com/tmc/langchaingo): Golang Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social)
+*   [LangchainRb (⭐908)](https://github.com/andreibondarev/langchainrb): Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social)
 
 ### Tools / Services
 
-*   [Auto Evaluator (⭐668)](https://github.com/langchain-ai/auto-evaluator): Langchain auto evaluator ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/auto-evaluator?style=social)
+*   [Auto Evaluator (⭐687)](https://github.com/langchain-ai/auto-evaluator): Langchain auto evaluator ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/auto-evaluator?style=social)
 
 ### Tools / Agents
 
-*   [SkyAGI (⭐715)](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
+*   [SkyAGI (⭐723)](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [AudioGPT (⭐9.5k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
+*   [AudioGPT (⭐9.7k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [llm-chain (⭐925)](https://github.com/sobelio/llm-chain): is a powerful rust crate for building chains in LLMs allowing you to summarise text and complete complex tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/sobelio/llm-chain?style=social)
+*   [llm-chain (⭐1.1k)](https://github.com/sobelio/llm-chain): is a powerful rust crate for building chains in LLMs allowing you to summarise text and complete complex tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/sobelio/llm-chain?style=social)
 
-## [24. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [23. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Testing / React
 
 *   [graphql-to-karate (⭐11)](https://github.com/wbaldoumas/graphql-to-karate) - Generate Karate API tests from your GraphQL schemas
 
-## [25. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [24. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Example Apps
 
@@ -291,13 +285,13 @@ git checkout -- <file_name>
 *   [Windows 11 Web](https://win11.vercel.app) - Awe-amazing Windows 11 clone for the web! ⚡ *([Github project (⭐526)](https://github.com/PiyushSuthar/Windows-11-Web))*.
 *   [Idea Keeper](https://miftikcz.github.io/idea-keeper-2) :brain: Highly extensible and minimalistic idea keeping app *([GitHub Project (⭐0)](https://github.com/MiftikCZ/idea-keeper-2))*.
 
-## [26. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [25. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Books / Web
 
 *   Millington, Ian, Funge, John (2020). *AI for Games, Third Edition*. CRC Press.
 
-## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
@@ -305,11 +299,11 @@ git checkout -- <file_name>
 
 ### Search / Diagnostics
 
-*   [AckslD/muren.nvim (⭐321)](https://github.com/AckslD/muren.nvim/) - Multiple replacements through interactive UI.
+*   [AckslD/muren.nvim (⭐326)](https://github.com/AckslD/muren.nvim/) - Multiple replacements through interactive UI.
 
 ### File Explorer / Diagnostics
 
-*   [kelly-lin/ranger.nvim (⭐115)](https://github.com/kelly-lin/ranger.nvim) - [Ranger (⭐15k)](https://github.com/ranger/ranger) integration for neovim.
+*   [kelly-lin/ranger.nvim (⭐117)](https://github.com/kelly-lin/ranger.nvim) - [Ranger (⭐15k)](https://github.com/ranger/ranger) integration for neovim.
 
 ### Comment / Diagnostics
 
@@ -317,36 +311,36 @@ git checkout -- <file_name>
 
 ### Indent / Diagnostics
 
-*   [nvimdev/indentmini.nvim (⭐76)](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin by using nvim\_set\_decoration\_provide api.
+*   [nvimdev/indentmini.nvim (⭐78)](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin by using nvim\_set\_decoration\_provide api.
 
 ### Workflow / Diagnostics
 
-*   [m4xshen/hardtime.nvim (⭐691)](https://github.com/m4xshen/hardtime.nvim) - Helping you establish good command workflow and habit.
-*   [antonk52/bad-practices.nvim (⭐73)](https://github.com/antonk52/bad-practices.nvim) - Helping you give up bad practices in Vim.
+*   [m4xshen/hardtime.nvim (⭐717)](https://github.com/m4xshen/hardtime.nvim) - Helping you establish good command workflow and habit.
+*   [antonk52/bad-practices.nvim (⭐74)](https://github.com/antonk52/bad-practices.nvim) - Helping you give up bad practices in Vim.
 
 ### Starter Templates / Diagnostics
 
-*   [tokiory/neovim-boilerplate (⭐73)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
-*   [frans-johansson/lazy-nvim-starter (⭐57)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
+*   [tokiory/neovim-boilerplate (⭐75)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
+*   [frans-johansson/lazy-nvim-starter (⭐62)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
 
-## [28. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [27. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [fzf-packagemanager (⭐0)](https://github.com/goarano/zsh-fzf-packagemanager) - Adds commands for installing tools via various package managers using [fzf (⭐58k)](https://github.com/junegunn/fzf). Supports `apt`, `brew` & `dnf`.
-*   [lazy-load (⭐2)](https://github.com/goarano/zsh-lazy-load) - Lazy load tab completions only when you actually need them.
+*   [lazy-load (⭐1)](https://github.com/goarano/zsh-lazy-load) - Lazy load tab completions only when you actually need them.
 *   [oh-my-tmux-manager](https://github.com/unixorn/awesome-zsh-plugins/blob/main/README.md/omt-manager) - Lets you easily manage your tmux configurations.
 *   [pipe (⭐0)](https://github.com/pipe-felipe/zsh-pipe-plugin) - Includes `docker` and package-related scripts.
 *   [ssh-quickconnect (⭐0)](https://github.com/breda/zsh-ssh-quickconnect) - Simple utility to quickly connect to hosts from your `ssh` config & `known_hosts` file.
 *   [zgenom-ext-eval (⭐3)](https://github.com/jandamm/zgenom-ext-eval/) - Zgenom extension for creating plugins inline.
 
-## [29. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [28. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
 *   [samber/slog-fiber (⭐32)](https://github.com/samber/slog-fiber) - A logger middleware that uses Go slog library.
 
-## [30. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [29. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Orchestration
 
@@ -358,7 +352,7 @@ git checkout -- <file_name>
 
 ### Development Environment / Other
 
-*   [Rust Universal Compiler (⭐24)](https://github.com/Peco602/rust-universal-compiler) - Container solution to compile Rust projects for Linux, macOS and Windows. By [@Peco602](https://github.com/Peco602)
+*   [Rust Universal Compiler (⭐25)](https://github.com/Peco602/rust-universal-compiler) - Container solution to compile Rust projects for Linux, macOS and Windows. By [@Peco602](https://github.com/Peco602)
 
 ---
 

@@ -164,20 +164,20 @@
 ### Real-time / Real-time tools
 
 *   [RTIC v1.0](https://rtic.rs/1/book/en/) Real-Time Interrupt-driven Concurrency — A concurrency framework for building real-time systems:
-    *   [cortex-m rtic (⭐1.5k)](https://github.com/rtic-rs/cortex-m-rtic) RTIC framework for ARM Cortex-M microcontrollers
+    *   [cortex-m rtic (⭐1.6k)](https://github.com/rtic-rs/cortex-m-rtic) RTIC framework for ARM Cortex-M microcontrollers
     *   [msp430 rtfm (⭐11)](https://github.com/japaric/msp430-rtfm) RTFM framework for MSP430 MCUs
 
 ## [10. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Programming Languages / OCaml
 
-*   [opam2nix (⭐92)](https://github.com/timbertson/opam2nix) - Generate Nix expressions from opam packages.
+*   [opam2nix (⭐93)](https://github.com/timbertson/opam2nix) - Generate Nix expressions from opam packages.
 
 ## [11. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Gaming
 
-*   [Cartridges (⭐466)](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Cartridges (⭐482)](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 
 ## [12. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 

@@ -150,7 +150,7 @@
 
 ### Communications / LoRaWAN
 
-*   [u-lora (⭐58)](https://github.com/martynwheeler/u-lora) - Raspi-lora for MicroPython.
+*   [u-lora (⭐62)](https://github.com/martynwheeler/u-lora) - Raspi-lora for MicroPython.
 
 ### Display / E-Paper
 
@@ -313,7 +313,7 @@
 
 ## [25. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
-### Tools / Reverse Engineering
+### Tools / Dynamic Analysis Tools
 
 *   [Decompiler.com](https://www.decompiler.com/) - Online APK and Java decompiler
 
@@ -356,7 +356,7 @@
 
 ### Software / Media Streaming - Multimedia Streaming
 
-*   [SheetAble](https://sheetable.net) - Self-hosted music sheet organizing software for all music enthusiasts. Upload and organize your sheets for any kind of instrument. ([Source Code (⭐277)](https://github.com/SheetAble/SheetAble)) `AGPL-3.0` `Docker/Go`
+*   [SheetAble](https://sheetable.net) - Self-hosted music sheet organizing software for all music enthusiasts. Upload and organize your sheets for any kind of instrument. ([Source Code (⭐281)](https://github.com/SheetAble/SheetAble)) `AGPL-3.0` `Docker/Go`
 
 ## [32. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
@@ -1787,7 +1787,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [olimorris/onedarkpro.nvim (⭐642)](https://github.com/olimorris/onedarkpro.nvim) - Atom's iconic One Dark theme. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with light and dark variants.
+*   [olimorris/onedarkpro.nvim (⭐658)](https://github.com/olimorris/onedarkpro.nvim) - Atom's iconic One Dark theme. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with light and dark variants.
 
 ### Command Line / Diagnostics
 
@@ -1890,7 +1890,7 @@
 
 ### Android / Tests
 
-*   [KakaoCup/Compose (⭐115)](https://github.com/KakaoCup/Compose) - Nice and simple DSL for Espresso Compose UI testing in Kotlin
+*   [KakaoCup/Compose (⭐117)](https://github.com/KakaoCup/Compose) - Nice and simple DSL for Espresso Compose UI testing in Kotlin
 
 ## [50. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
@@ -2105,7 +2105,7 @@
 
 ### Applications / System tools
 
-*   [cantino/mcfly (⭐6.4k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
+*   [cantino/mcfly (⭐6.5k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 *   [dalance/procs (⭐4.6k)](https://github.com/dalance/procs) — A modern replacement for 'ps' [![Regression](https://github.com/dalance/procs/actions/workflows/regression.yml/badge.svg)](https://github.com/dalance/procs/actions/workflows/regression.yml)
 
 ### Applications / Web

@@ -16,7 +16,7 @@
 
 ### Software / Games
 
-*   [Quizmaster (⭐197)](https://github.com/nymanjens/quizmaster) - A web-app for conducting a quiz, including a page for players to enter their answers. `Apache-2.0` `Scala`
+*   [Quizmaster (⭐201)](https://github.com/nymanjens/quizmaster) - A web-app for conducting a quiz, including a page for players to enter their answers. `Apache-2.0` `Scala`
 
 ## [3. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -576,8 +576,8 @@ git switch -c <branch-name>
 
 ### Third-Party Packages / Security
 
-*   [django-csp (⭐504)](https://github.com/mozilla/django-csp) - Adds [Content-Security-Policy](http://www.w3.org/TR/CSP/) headers to Django.
-*   [django-feature-policy (⭐89)](https://github.com/adamchainz/django-feature-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
+*   [django-csp (⭐508)](https://github.com/mozilla/django-csp) - Adds [Content-Security-Policy](http://www.w3.org/TR/CSP/) headers to Django.
+*   [django-feature-policy (⭐91)](https://github.com/adamchainz/django-feature-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
 
 ## [38. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
 
@@ -593,9 +593,9 @@ git switch -c <branch-name>
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [TSTL (⭐567)](https://github.com/samchon/tstl) - Implementation of C++ STL (Standard Template Library) in TypeScript. Provided modules are containers, iterators, algorithms and functors.
+*   :octocat: [TSTL (⭐572)](https://github.com/samchon/tstl) - Implementation of C++ STL (Standard Template Library) in TypeScript. Provided modules are containers, iterators, algorithms and functors.
     *   :octocat: [ECol (⭐9)](https://github.com/samchon/ecol) - Extension of TSTL containers; collections dispatching Elements I/O events.
-    *   :octocat: [TGrid (⭐115)](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of TSTL, supporting RFC (Remote Function Call).
+    *   :octocat: [TGrid (⭐117)](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of TSTL, supporting RFC (Remote Function Call).
     *   :octocat: [Mutex-Server (⭐26)](https://github.com/samchon/mutex-server) - Critical sections controller, like mutex and semaphore, in the network level.
 
 ## [40. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
@@ -696,11 +696,11 @@ git switch -c <branch-name>
 
 ### Component Libraries
 
-*   [Shoelace (⭐11k)](https://github.com/shoelace-style/shoelace) - A forward-thinking library of web components.
+*   [Shoelace (⭐12k)](https://github.com/shoelace-style/shoelace) - A forward-thinking library of web components.
 
 ### Class Based
 
-*   [FAST Element (⭐8.8k)](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-element) - Lightweight library for building performant, memory-efficient, standards-compliant Web Components.
+*   [FAST Element (⭐8.9k)](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-element) - Lightweight library for building performant, memory-efficient, standards-compliant Web Components.
 
 ### Integrations
 
@@ -803,7 +803,7 @@ git switch -c <branch-name>
 
 ### Rendering/Publishing/Conversion
 
-*   [Ploomber (⭐3.1k)](https://github.com/ploomber/ploomber) - Run a collection of notebooks and scripts in a reproducible manner using a `pipeline.yaml` file.
+*   [Ploomber (⭐3.3k)](https://github.com/ploomber/ploomber) - Run a collection of notebooks and scripts in a reproducible manner using a `pipeline.yaml` file.
 
 ## [58. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 

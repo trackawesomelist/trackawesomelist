@@ -27,13 +27,13 @@
 
 ### Bars and Lines / Diagnostics
 
-*   [Bekaboo/dropbar.nvim (⭐715)](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box.
+*   [Bekaboo/dropbar.nvim (⭐744)](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box.
 
 ## [4. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Tools / Agents
 
-*   [Local GPT (⭐18k)](https://github.com/PromtEngineer/localGPT): Inspired on Private GPT with the GPT4ALL model replaced with the Vicuna-7B model and using the InstructorEmbeddings instead of LlamaEmbeddings ![GitHub Repo stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social)
+*   [Local GPT (⭐19k)](https://github.com/PromtEngineer/localGPT): Inspired on Private GPT with the GPT4ALL model replaced with the Vicuna-7B model and using the InstructorEmbeddings instead of LlamaEmbeddings ![GitHub Repo stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social)
 
 ## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Audio
 
-*   [umidiparser (⭐23)](https://github.com/bixb922/umidiparser) - MIDI file parser for MicroPython, CircuitPython and Python.
+*   [umidiparser (⭐24)](https://github.com/bixb922/umidiparser) - MIDI file parser for MicroPython, CircuitPython and Python.
 
 ## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -88,11 +88,11 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Anahita](https://www.anahita.io/) - Open Source Social Networking Framework and Platform. ([Source Code (⭐429)](https://github.com/anahitasocial/anahita)) `GPL-3.0` `PHP`
+*   [Anahita](https://www.anahita.io/) - Open Source Social Networking Framework and Platform. ([Source Code (⭐431)](https://github.com/anahitasocial/anahita)) `GPL-3.0` `PHP`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [vod2pod-rss (⭐165)](https://github.com/madiele/vod2pod-rss) `⚠` - Convert YouTube and Twitch channels to podcasts, no storage required. Transcodes VoDs to MP3 192k on the fly, generates an RSS feed to use in podcast clients. `MIT` `Docker`
+*   [vod2pod-rss (⭐169)](https://github.com/madiele/vod2pod-rss) `⚠` - Convert YouTube and Twitch channels to podcasts, no storage required. Transcodes VoDs to MP3 192k on the fly, generates an RSS feed to use in podcast clients. `MIT` `Docker`
 
 ## [12. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

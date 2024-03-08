@@ -70,7 +70,6 @@
 
 ### Tutorials and Blog Posts / Miscellaneous
 
-*   [Sharing data between Terraform configurations](https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) - Illustrates how to use remote state to share data between Terraform configurations.
 *   [The Segment AWS Stack](https://segment.com/blog/the-segment-aws-stack/) - Shows the behind the scenes of the infrastructure powered by Terraform that solved [The Million Dollar Engineering Problem](https://segment.com/blog/the-million-dollar-eng-problem/) at [Segment](https://segment.com/).
 *   [Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code)
 *   [Two Weeks with Terraform](https://charity.wtf/2016/02/23/two-weeks-with-terraform/) - Some hard-earned experience from using Terraform in the wild, and some operational wisdom.
@@ -114,7 +113,7 @@
 ### Providers / Vendor supported providers
 
 *   [terraform-provider-healthchecksio (⭐38)](https://github.com/kristofferahl/terraform-provider-healthchecksio) - Provider to manage healthchecks.io resources.
-*   [terraform-provider-keycloak (⭐553)](https://github.com/mrparkers/terraform-provider-keycloak) - Provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
+*   [terraform-provider-keycloak (⭐562)](https://github.com/mrparkers/terraform-provider-keycloak) - Provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
 *   [terraform-provider-pingdom (⭐121)](https://github.com/russellcardullo/terraform-provider-pingdom) - Provider to manage Pingdom resources.
 *   [terraform-provider-secrethub (⭐49)](https://github.com/secrethub/terraform-provider-secrethub) - Provider for SecretHub.
 *   [terraform-provider-stripe (⭐240)](https://github.com/franckverrot/terraform-provider-stripe) - Provider for Stripe.
@@ -141,7 +140,7 @@
 *   [python-terrafile (⭐37)](https://github.com/claranet/python-terrafile) - Systematically manage external modules from Github for use in Terraform.
 *   [ruby-terraform (⭐105)](https://github.com/infrablocks/ruby_terraform) - Simple Ruby wrapper for invoking terraform commands.
 *   [scratchrelaxtv (⭐28)](https://github.com/YakDriver/scratchrelaxtv) - Simple Python tool to help with module development - extract vars from `main.tf` to generate `variables.tf` and make module usage stub from `variables.tf`.
-*   [tads-boilerplate (⭐717)](https://github.com/Thomvaill/tads-boilerplate) - The power of Ansible and Terraform + the simplicity of Docker Swarm = Infrastructure as Code and DevOps best practices.
+*   [tads-boilerplate (⭐718)](https://github.com/Thomvaill/tads-boilerplate) - The power of Ansible and Terraform + the simplicity of Docker Swarm = Infrastructure as Code and DevOps best practices.
 *   [tau (⭐75)](https://github.com/avinor/tau) - Tau is a thin wrapper on top of terraform to manage multiple deployments, dependencies, and secrets.
 *   [terraboard (⭐1.9k)](https://github.com/camptocamp/terraboard) - Web dashboard to inspect Terraform States.
 *   [terraboot (⭐37)](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it.
@@ -251,7 +250,7 @@
 
 ### Integrations
 
-*   [@adobe/react-webcomponent (⭐101)](https://github.com/adobe/react-webcomponent) - Automate the wrapping of a React component in a custom element.
+*   [@adobe/react-webcomponent (⭐103)](https://github.com/adobe/react-webcomponent) - Automate the wrapping of a React component in a custom element.
 
 ### Tools
 

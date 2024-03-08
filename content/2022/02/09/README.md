@@ -31,7 +31,7 @@
 ### Neovim Lua Development / Diagnostics
 
 *   [nanotee/luv-vimdocs (⭐68)](https://github.com/nanotee/luv-vimdocs) - The luv docs in vimdoc format.
-*   [milisims/nvim-luaref (⭐119)](https://github.com/milisims/nvim-luaref) - A reference for builtin Lua functions.
+*   [milisims/nvim-luaref (⭐118)](https://github.com/milisims/nvim-luaref) - A reference for builtin Lua functions.
 
 ## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Templates / Godot 3.2+
 
-*   [Godot First Person Camera (⭐51)](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS starter with jumping, movement, flashlight and a player character with animations.
+*   [Godot First Person Camera (⭐52)](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS starter with jumping, movement, flashlight and a player character with animations.
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -184,9 +184,9 @@
 
 ### Internationalisation / Checkbox
 
-*   [svelte-fluent (⭐73)](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
+*   [svelte-fluent (⭐77)](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
 *   [svelte-i18n (⭐1.1k)](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
-*   [sveltekit-i18n (⭐383)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
+*   [sveltekit-i18n (⭐396)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
 
 ## [16. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

@@ -200,7 +200,7 @@
 
 ### Queries
 
-*   [dasel (⭐4.7k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐28k)](https://github.com/jqlang/jq) / [yq (⭐2.4k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
+*   [dasel (⭐4.8k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐28k)](https://github.com/jqlang/jq) / [yq (⭐2.4k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 *   [JMESPath](https://jmespath.org/) - A query language for JSON.
 *   [JSONiq](https://www.jsoniq.org/) - The JSON Query Language.
 *   [JSONata](https://jsonata.org/) - Query and transformation language used in Node-RED, supports function expressions.

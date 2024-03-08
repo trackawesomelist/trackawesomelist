@@ -30,7 +30,7 @@
 
 ### Oh-My-Zsh
 
-*   [One Key Linux Setup (⭐14)](https://github.com/miracleyoo/one-key-linux-setup) - Simple setup (ubuntu-only) of `zsh`, `oh-my-zsh`, `tmux`, `python` support and other packages.
+*   [One Key Linux Setup (⭐15)](https://github.com/miracleyoo/one-key-linux-setup) - Simple setup (ubuntu-only) of `zsh`, `oh-my-zsh`, `tmux`, `python` support and other packages.
 
 ## [4. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -90,8 +90,8 @@
 
 ### Format Readers, Writers and Checkers / Apache License
 
-*   [protobuf-ada (⭐15)](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
-*   [protobuf (⭐26)](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka (⭐4)](https://github.com/godunko/matreshka).
+*   [protobuf-ada (⭐16)](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
+*   [protobuf (⭐26)](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka (⭐5)](https://github.com/godunko/matreshka).
 *   [ada-toml (⭐26)](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 
 ### Web / Apache License

@@ -89,7 +89,7 @@
 
 ### Other Development Tools / Smart Contracts
 
-*   [beaker (⭐99)](https://github.com/algorand-devrel/beaker) - A tool for smart contract development on the Algorand blockchain. Inspired by `flask`.
+*   [beaker (⭐98)](https://github.com/algorand-devrel/beaker) - A tool for smart contract development on the Algorand blockchain. Inspired by `flask`.
 
 ### Projects / Wallets
 

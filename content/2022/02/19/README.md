@@ -10,7 +10,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [ZhiyuanLck/smart-pairs (⭐135)](https://github.com/ZhiyuanLck/smart-pairs) - Ultimate smart pairs written by Lua.
+*   [ZhiyuanLck/smart-pairs (⭐136)](https://github.com/ZhiyuanLck/smart-pairs) - Ultimate smart pairs written by Lua.
 
 ## [2. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 

@@ -37,7 +37,7 @@
 
 *   [tfedit (⭐89)](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
 
-### Managed Terraform Platforms / IDE
+### Managed Terraform Platforms :heavy_dollar_sign: / IDE
 
 *   [Spacelift](https://spacelift.io/) - Alternative to Terraform Cloud/Enterprise. Collaborative Infrastructure Delivery Platform for Terraform :heavy\_dollar\_sign:
 
@@ -108,18 +108,18 @@
 
 ### Notification
 
-*   [svelte-french-toast (⭐708)](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
+*   [svelte-french-toast (⭐720)](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
 
 ## [13. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Rendering/Publishing/Conversion
 
-*   [Mercury (⭐3.4k)](https://github.com/mljar/mercury) - Convert notebooks into web applications.
+*   [Mercury (⭐3.7k)](https://github.com/mljar/mercury) - Convert notebooks into web applications.
 *   [nbconvert](https://nbconvert.readthedocs.io) - Convert notebooks to other formats.
 
 ### JupyterLab Extensions
 
-*   [lineapy (⭐620)](https://github.com/LineaLabs/lineapy) - Extension for transforming messy Jupyter notebooks to production-ready pipelines with two lines of code.
+*   [lineapy (⭐650)](https://github.com/LineaLabs/lineapy) - Extension for transforming messy Jupyter notebooks to production-ready pipelines with two lines of code.
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -288,22 +288,22 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Typetta (⭐94)](https://github.com/twinlogix/typetta) - Typescript ORM for Node.js that uses GraphQL as schema definition language | Supports all main SQL databases and MongoDB.
+*   :octocat: [Typetta (⭐96)](https://github.com/twinlogix/typetta) - Typescript ORM for Node.js that uses GraphQL as schema definition language | Supports all main SQL databases and MongoDB.
 
 ## [32. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Motion / Diagnostics
 
-*   [edluffy/specs.nvim (⭐426)](https://github.com/edluffy/specs.nvim) - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
-*   [abecodes/tabout.nvim (⭐641)](https://github.com/abecodes/tabout.nvim) - Jump out of brackets, quotes, objects, etc.
+*   [edluffy/specs.nvim (⭐427)](https://github.com/edluffy/specs.nvim) - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
+*   [abecodes/tabout.nvim (⭐649)](https://github.com/abecodes/tabout.nvim) - Jump out of brackets, quotes, objects, etc.
 
 ### Treesitter Based / Diagnostics
 
-*   [mfussenegger/nvim-ts-hint-textobject (⭐386)](https://github.com/mfussenegger/nvim-ts-hint-textobject) - Region selection with hints on the AST nodes of a document powered by Treesitter.
+*   [mfussenegger/nvim-ts-hint-textobject (⭐387)](https://github.com/mfussenegger/nvim-ts-hint-textobject) - Region selection with hints on the AST nodes of a document powered by Treesitter.
 
 ### Formatting / Diagnostics
 
-*   [cappyzawa/trim.nvim (⭐89)](https://github.com/cappyzawa/trim.nvim) - This plugin trims trailing whitespace and lines.
+*   [cappyzawa/trim.nvim (⭐90)](https://github.com/cappyzawa/trim.nvim) - This plugin trims trailing whitespace and lines.
 
 ## [33. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
@@ -323,7 +323,6 @@
 
 *   [doom (⭐2)](https://github.com/CMOISDEAD/doom-zsh) - Doom-inspired. Looks similar to powerline. Has customizable segments, decorators for `git` status, `rust`, `Node.js`, `python` and `ruby` versions.
 *   [ribbon (⭐0)](https://github.com/pyjamafish/ribbon-prompt) - Reminiscent of powerline. Includes Python `virtualenv` decorator.
-*   [snazzy (⭐0)](https://github.com/Gary-Ash/SnazzyPrompt) - A powerline-style prompt. Includes segments for current working directory, error status of the last command, `git` status information, hostname and username. Requires `libgit2`.
 
 ## [35. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -335,7 +334,7 @@
 
 ### Libraries/Frameworks / Jetpack-Compose
 
-*   [Canopas/Intro-showcase-view (⭐375)](https://github.com/Canopas/Intro-showcase-view) - An android library to highlight different features of the app built using Jetpack Compose.
+*   [Canopas/Intro-showcase-view (⭐382)](https://github.com/Canopas/Intro-showcase-view) - An android library to highlight different features of the app built using Jetpack Compose.
 
 ## [37. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
@@ -402,7 +401,7 @@
 
 ### Software / Database Management
 
-*   [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data, easy import and export and database management. ([Demo](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants), [Source Code (⭐8.7k)](https://github.com/simonw/datasette)) `Apache-2.0` `Python/Docker`
+*   [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data, easy import and export and database management. ([Demo](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants), [Source Code (⭐8.8k)](https://github.com/simonw/datasette)) `Apache-2.0` `Python/Docker`
 
 ## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -440,13 +439,9 @@
 
 ## [46. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
-### Blockchain Explorers
-
-*   [Dappflow](https://explorer.dappflow.org/) - Algorand Private Network Explorer (supports Sandbox in `localhost`).
-
 ### Languages / JavaScript & TypeScript
 
-*   [perawallet-connect (⭐58)](https://github.com/perawallet/connect) - JavaScript SDK for integrating Pera Wallet to web applications.
+*   [perawallet-connect (⭐61)](https://github.com/perawallet/connect) - JavaScript SDK for integrating Pera Wallet to web applications.
 
 ### Nodes & Consensus Participation / Wallets
 

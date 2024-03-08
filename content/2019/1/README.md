@@ -41,7 +41,7 @@
 
 ### JupyterLab Extensions
 
-*   [go-to-definition (⭐221)](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for navigating to the definition of a variable or function in JupyterLab.
+*   [go-to-definition (⭐224)](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for navigating to the definition of a variable or function in JupyterLab.
 
 ## [7. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 
@@ -111,7 +111,7 @@
 
 ### Standalone / Hash functions
 
-*   [Coherence (⭐32)](https://github.com/liesware/coherence/) - Cryptographic server for modern web apps.
+*   [Coherence (⭐33)](https://github.com/liesware/coherence/) - Cryptographic server for modern web apps.
 
 ## [18. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
@@ -494,7 +494,7 @@ Topics: React, Socket.IO, Storybook, Accessibility\
 
 ### 3D / Apache License
 
-*   [ada-doom-3 (⭐247)](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.
+*   [ada-doom-3 (⭐248)](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.
 
 ### Machine Learning / Apache License
 

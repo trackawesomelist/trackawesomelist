@@ -78,17 +78,17 @@
 ### Driver crates / Other
 
 *   [BMA400](https://crates.io/crates/bma400) - I2C/SPI - Bosch 12-bit 3-axis accelerometer - [github (⭐2)](https://github.com/cfrenette/bma400-rs) ![crates.io](https://img.shields.io/crates/v/bma400.svg)
-*   [FUSB302B (⭐10)](https://github.com/fmckeogh/usb-pd-rs) - I2C - Programmable USB Type‐C Controller with USB Power Delivery - [github (⭐10)](https://github.com/fmckeogh/usb-pd-rs)
+*   [FUSB302B (⭐12)](https://github.com/fmckeogh/usb-pd-rs) - I2C - Programmable USB Type‐C Controller with USB Power Delivery - [github (⭐12)](https://github.com/fmckeogh/usb-pd-rs)
 *   [i2c-multiplexer](https://crates.io/crates/i2c-multiplexer) - I2C - An I2C Multiplexer library that supports the PCA9546 and TCA9546A chips - [github (⭐2)](https://github.com/FloppyDisck/i2c-multiplexer) - ![crates.io](https://img.shields.io/crates/v/i2c-multiplexer.svg)
 *   [SHT31-rs](https://crates.io/crates/sht31) - I2C - Fully supported SHT temperature / humidity sensors - [github (⭐5)](https://github.com/FloppyDisck/SHT31-rs) - ![crates.io](https://img.shields.io/crates/v/sht31.svg)
 
 ### no-std crates / WIP
 
-*   [usb-pd (⭐10)](https://github.com/fmckeogh/usb-pd-rs): USB-PD library, supports using the FUSB302B as a Sink driver, with Source functionality planned.
+*   [usb-pd (⭐12)](https://github.com/fmckeogh/usb-pd-rs): USB-PD library, supports using the FUSB302B as a Sink driver, with Source functionality planned.
 
 ### Firmware projects / WIP
 
-*   [Stabilizer (⭐87)](https://github.com/quartiq/stabilizer): Firmware for a DSP tool used in quantum physics experimentation, includes telemetry via MQTT and run-time configuration
+*   [Stabilizer (⭐89)](https://github.com/quartiq/stabilizer): Firmware for a DSP tool used in quantum physics experimentation, includes telemetry via MQTT and run-time configuration
 *   [Booster (⭐8)](https://github.com/quartiq/booster): Firmware for an RF power amplifier, including telemetry via MQTT and run-time configuration
 *   [Thermostat EEM (⭐7)](https://github.com/quartiq/thermostat-eem): Firmware for a multi-channel temperature controller used in physics experiments
 *   [Card/IO ECG (⭐23)](https://github.com/card-io-ecg/card-io-fw): Firmware for a business-card-sized ECG device with Wifi connectivity
@@ -101,7 +101,7 @@
 
 ### Frameworks / Apache License
 
-*   [SweetAda (⭐28)](https://github.com/gabriele-galeotti/SweetAda) - A lightweight development framework whose purpose is the implementation of Ada-based software systems. It supports a plethora or CPU architectures and development boards.
+*   [SweetAda (⭐29)](https://github.com/gabriele-galeotti/SweetAda) - A lightweight development framework whose purpose is the implementation of Ada-based software systems. It supports a plethora or CPU architectures and development boards.
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -133,7 +133,7 @@
 
 ### Third-Party Packages / Full-stack frameworks
 
-*   [ReactPy (⭐7.5k)](https://github.com/reactive-python/reactpy) - It's React, but in Python. Insert dynamically rendered Python into Django templates using the [ReactPy-Django module (⭐276)](https://github.com/reactive-python/reactpy-django).
+*   [ReactPy (⭐7.6k)](https://github.com/reactive-python/reactpy) - It's React, but in Python. Insert dynamically rendered Python into Django templates using the [ReactPy-Django module (⭐289)](https://github.com/reactive-python/reactpy-django).
 
 ## [12. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
@@ -177,7 +177,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Uguu (⭐732)](https://github.com/nokonoko/uguu) - Stores files and deletes after X amount of time. `MIT` `PHP`
+*   [Uguu (⭐739)](https://github.com/nokonoko/uguu) - Stores files and deletes after X amount of time. `MIT` `PHP`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
@@ -262,7 +262,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [AlexvZyl/nordic.nvim (⭐500)](https://github.com/AlexvZyl/nordic.nvim) - Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.
+*   [AlexvZyl/nordic.nvim (⭐525)](https://github.com/AlexvZyl/nordic.nvim) - Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.
 
 ---
 

@@ -10,8 +10,8 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LLFn (⭐88)](https://github.com/orgexyz/LLFn): A light-weight framework for creating applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/orgexyz/LLFn?style=social)
-*   [Lagent (⭐593)](https://github.com/InternLM/lagent): A lightweight framework for building LLM-based agents ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/lagent?style=social)
+*   [LLFn (⭐87)](https://github.com/orgexyz/LLFn): A light-weight framework for creating applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/orgexyz/LLFn?style=social)
+*   [Lagent (⭐748)](https://github.com/InternLM/lagent): A lightweight framework for building LLM-based agents ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/lagent?style=social)
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 

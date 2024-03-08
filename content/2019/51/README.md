@@ -153,13 +153,13 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 ### Resources / Learning
 
-*   [Nix Notes (⭐49)](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
+*   [Nix Notes (⭐50)](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
 
 ## [21. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Runtimes / Apache License
 
-*   [cortex-gnat-rts (⭐59)](https://github.com/simonjwright/cortex-gnat-rts) - This package includes GNAT Ada Run Time Systems (RTSs) based on FreeRTOS and targeted at boards with Cortex-M0, M3, -M4, -M4F MCUs.
+*   [cortex-gnat-rts (⭐60)](https://github.com/simonjwright/cortex-gnat-rts) - This package includes GNAT Ada Run Time Systems (RTSs) based on FreeRTOS and targeted at boards with Cortex-M0, M3, -M4, -M4F MCUs.
 
 ### Graphical User Interface / Apache License
 
@@ -196,7 +196,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [excel-writer (⭐7)](https://github.com/zertovitch/excel-writer) - Create Excel files with basic formats.
 *   [generic-image-decoder (⭐14)](https://github.com/zertovitch/gid) - Multi-format image decoder library for Ada.
 *   [ada-pdf-writer (⭐14)](https://github.com/zertovitch/ada-pdf-writer) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG).
-*   [ada-bar-codes (⭐12)](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.
+*   [ada-bar-codes (⭐13)](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.
 
 ### Drivers / Apache License
 
@@ -277,7 +277,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 ### Dynamic type checkers
 
-*   [typical (⭐180)](https://github.com/seandstewart/typical/) - Data parsing and automatic type-coercion using type hinting. Supports dataclasses, standard classes, function signatures, and more.
+*   [typical (⭐181)](https://github.com/seandstewart/typical/) - Data parsing and automatic type-coercion using type hinting. Supports dataclasses, standard classes, function signatures, and more.
 
 ## [28. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
