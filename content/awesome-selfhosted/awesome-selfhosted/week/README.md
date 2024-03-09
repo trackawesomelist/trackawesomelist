@@ -12,6 +12,10 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Grimoire](https://grimoire.pro) - Bookmark manager with a modern UI, automatic content & metadata extraction, categorization, filtering, and more. It has fully documented REST API, and Docker image for easy deployment. ([Source Code (⭐1.3k)](https://github.com/goniszewski/grimoire)) `MIT` `Nodejs/Docker`
 
+### Software / E-commerce
+
+*   [Shopware Community Edition](https://www.shopware.com/en/community/community-edition/) - PHP based open source e-commerce software made in Germany. ([Demo](https://www.shopware.com/en/test-demo/), [Source Code (⭐2.5k)](https://github.com/shopware/platform)) `MIT` `PHP`
+
 ### Software / Polls and Events
 
 *   [gathio](https://gath.io/) - Self-destructing, shareable, no-registration event pages. ([Demo](https://gath.io/), [Source Code (⭐247)](https://github.com/lowercasename/gathio)) `GPL-3.0` `Nodejs/Docker`
@@ -1274,10 +1278,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Database Management
 
 *   [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Demo](https://demo.bytebase.com), [Source Code (⭐9.5k)](https://github.com/bytebase/bytebase)) `MIT` `Docker/K8S/Go`
-
-### Software / E-commerce
-
-*   [Shopware Community Edition](https://www.shopware.com/community/) - PHP based open source e-commerce software made in Germany. ([Demo](https://www.shopware.com/en/test-demo/), [Source Code (⭐2.5k)](https://github.com/shopware/platform)) `MIT` `PHP`
 
 ### Software / File Transfer & Synchronization
 

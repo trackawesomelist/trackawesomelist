@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Mar 09, 2024](/content/2024/03/09/README.md)
+
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [tau (⭐116)](https://github.com/taubyte/tau) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging.
+
 ## [Mar 07, 2024](/content/2024/03/07/README.md)
 
 ### E-books for purchase / Libraries for creating HTTP middlewares

@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Mar 09, 2024](/content/2024/03/09/README.md)
+
+### Software / E-commerce
+
+*   [Shopware Community Edition](https://www.shopware.com/en/community/community-edition/) - PHP based open source e-commerce software made in Germany. ([Demo](https://www.shopware.com/en/test-demo/), [Source Code (⭐2.5k)](https://github.com/shopware/platform)) `MIT` `PHP`
+
 ## [Mar 07, 2024](/content/2024/03/07/README.md)
 
 ### Software / Bookmarks and Link Sharing
@@ -1438,10 +1444,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Database Management
 
 *   [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Demo](https://demo.bytebase.com), [Source Code (⭐9.5k)](https://github.com/bytebase/bytebase)) `MIT` `Docker/K8S/Go`
-
-### Software / E-commerce
-
-*   [Shopware Community Edition](https://www.shopware.com/community/) - PHP based open source e-commerce software made in Germany. ([Demo](https://www.shopware.com/en/test-demo/), [Source Code (⭐2.5k)](https://github.com/shopware/platform)) `MIT` `PHP`
 
 ### Software / File Transfer & Synchronization
 
