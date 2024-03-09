@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
+
+### Integrations
+
+*   [YepCode](https://yepcode.io/) - Build and run serverless functions with the best development experience.
+
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
 ### Testing

@@ -36,12 +36,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [tau (⭐116)](https://github.com/taubyte/tau) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging.
 
-#### [4. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+#### [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+
+##### Integrations
+
+*   [YepCode](https://yepcode.io/) - Build and run serverless functions with the best development experience.
+
+#### [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Cloud management solutions
+
+*   [deployment.io](https://deployment.io) - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user) can deploy unlimited static sites, web services, and environments. We provide 20 job executions free per month with previews and auto-deploys included in the free tier.
+
+#### [6. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ##### Other LLM Frameworks / Videos Playlists
 
 *   [Casibase (⭐1.6k)](https://github.com/casibase/casibase): Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc ![GitHub Repo stars](https://img.shields.io/github/stars/casibase/casibase?style=social)
 *   [Fructose (⭐490)](https://github.com/bananaml/fructose): Fructose is a python package to create a dependable, strongly-typed interface around an LLM call. ![GitHub Repo stars](https://img.shields.io/github/stars/bananaml/fructose?style=social)
+*   [R2R (⭐852)](https://github.com/SciPhi-AI/R2R): A framework for rapid development and deployment of production-ready RAG systems ![GitHub Repo stars](https://img.shields.io/github/stars/SciPhi-AI/R2R?style=social)
 
 ### [Mar 08, 2024](/content/2024/03/08/README.md)
 
@@ -102,23 +115,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   \[svelte-document] - Create documents (PDFs), resumes, or presentations entirely in Svelte.
 
-#### [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Abduction / Applications in AI
-
-*   [Human Comprehensible Active Learning of Genome-Scale Metabolic Networks](https://arxiv.org/abs/2308.12740) - ***AAAI Spring Symposium Series 2023 on Computational Scientific Discovery***, 2023. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&cluster=10875437066608527790)]. \[[Extended Abstract](http://cogsys.org/symposium/discovery-2023/abstracts/Abstract_3169.pdf)]. \[[Slides](http://cogsys.org/symposium/discovery-2023/talks/Ai.pdf)]. This work introduces a novel machine learning framework ILP-iML1515 based on Inductive Logic Programming (ILP) that performs abductive logical reasoning and actively learns from training examples. The ILP-iML1515 framework 1) allows high-throughput simulations and 2) actively selects experiments that reduce the experimental cost of learning gene functions in comparison to randomly selected experiments.
-
-##### Domain Specific Language / Design Practises
-
-*   [How Domain Experts Use an Embedded DSL](https://dl.acm.org/doi/abs/10.1145/3622851) - ***OOPSLA'23***, 2023. This work conducts a thematic analysis identified five key themes, including: the interaction between the eDSL and the host language has significant and sometimes unexpected impacts on eDSL user experience, and users preferentially engage with domain-specific communities and code templates rather than host language resources.
-
-#### [8. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [7. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Resources / Blog posts
 
 *   [Revisiting a Classic Cheminformatics Paper with Polars: The Wiener Index](https://bertiewooster.github.io/2023/03/10/Revisiting-a-Classic-Cheminformatics-Paper-The-Wiener-Index.html) - A science blog post that uses Polars to track the information for the molecules in DataFrames by [@bertiewooster](https://github.com/bertiewooster).
 
-#### [9. Awesome Distraction Blocker](/content/stan8086/awesome-distraction-blocker/README.md)
+#### [8. Awesome Distraction Blocker](/content/stan8086/awesome-distraction-blocker/README.md)
 
 ##### Apps and Tools / Windows
 
@@ -166,6 +169,16 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   Suggested resources should be of high quality and well-documented.
 *   Comments on why the resource is worthwhile are encouraged.
 *   Make an individual pull request for each suggestion.
+
+#### [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Abduction / Applications in AI
+
+*   [Human Comprehensible Active Learning of Genome-Scale Metabolic Networks](https://arxiv.org/abs/2308.12740) - ***AAAI Spring Symposium Series 2023 on Computational Scientific Discovery***, 2023. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&cluster=10875437066608527790)]. \[[Extended Abstract](http://cogsys.org/symposium/discovery-2023/abstracts/Abstract_3169.pdf)]. \[[Slides](http://cogsys.org/symposium/discovery-2023/talks/Ai.pdf)]. This work introduces a novel machine learning framework ILP-iML1515 based on Inductive Logic Programming (ILP) that performs abductive logical reasoning and actively learns from training examples. The ILP-iML1515 framework 1) allows high-throughput simulations and 2) actively selects experiments that reduce the experimental cost of learning gene functions in comparison to randomly selected experiments.
+
+##### Domain Specific Language / Design Practises
+
+*   [How Domain Experts Use an Embedded DSL](https://dl.acm.org/doi/abs/10.1145/3622851) - ***OOPSLA'23***, 2023. This work conducts a thematic analysis identified five key themes, including: the interaction between the eDSL and the host language has significant and sometimes unexpected impacts on eDSL user experience, and users preferentially engage with domain-specific communities and code templates rather than host language resources.
 
 #### [10. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
@@ -262,13 +275,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [nvimtools/hydra.nvim (⭐43)](https://github.com/nvimtools/hydra.nvim) - Create custom submodes and menus. Port of Emacs Hydra. Maintained fork of anuvyklack/hydra.nvim.
 
-#### [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Domain Specific Language / DSL Program Synthesis
-
-*   [babble: Learning Better Abstractions with E-Graphs and Anti-unification](https://dl.acm.org/doi/abs/10.1145/3571207) - ***POPL'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=7935064016901049715\&as_sdt=0,5)]. This paper proposes library learning modulo theory (LLMT), a new library learning algorithm that additionally takes as input an equational theory for a given problem domain. LLMT uses e-graphs and equality saturation to compactly represent the space of programs equivalent modulo the theory, and uses a novel e-graph anti-unification technique to find common patterns in the corpus more directly and efficiently.
-
-#### [11. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [10. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Libraries/Packages/Scripts / Python
 
@@ -278,7 +285,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [How moving from Pandas to Polars made me write better code without writing better code](https://dev.to/check/how-moving-from-pandas-to-polars-made-me-write-better-code-without-writing-better-code-52bl) - A post that describs the process of "Polarification" of code written with Pandas by [@duvenagep](https://github.com/duvenagep).
 
-#### [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Bookmarks and Link Sharing
 
@@ -292,17 +299,23 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Huly](https://huly.io) - All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion). ([Demo](https://app.huly.io), [Source Code (⭐1.6k)](https://github.com/hcengineering/platform)) `EPL-2.0` `Docker/K8S/Nodejs`
 
-#### [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Data Science
 
 *   [timefoldai/timefold-solver](https://timefold.ai) - AI solver to optimize scheduling of vehicle routes, employees, maintenance, jobs, etc.
 
-#### [14. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [13. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### E-books for purchase / Libraries for creating HTTP middlewares
 
 *   [Go in Practice, Second Edition](https://www.manning.com/books/go-in-practice-second-edition)  - Your practical guide on the ins-and-outs of Go development, covering the standard library and the most important tools from Go’s powerful ecosystem.
+
+#### [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Domain Specific Language / DSL Program Synthesis
+
+*   [babble: Learning Better Abstractions with E-Graphs and Anti-unification](https://dl.acm.org/doi/abs/10.1145/3571207) - ***POPL'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=7935064016901049715\&as_sdt=0,5)]. This paper proposes library learning modulo theory (LLMT), a new library learning algorithm that additionally takes as input an equational theory for a given problem domain. LLMT uses e-graphs and equality saturation to compactly represent the space of programs equivalent modulo the theory, and uses a novel e-graph anti-unification technique to find common patterns in the corpus more directly and efficiently.
 
 ---
 
@@ -312,8 +325,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 1. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 172K 📝 03&#x2F;09 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 2. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 117K 📝 03&#x2F;09 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-3. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 69K 📝 03&#x2F;09 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 82K 📝 03&#x2F;06 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+3. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 82K 📝 03&#x2F;09 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+4. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 69K 📝 03&#x2F;09 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 5. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 54K 📝 03&#x2F;08 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 6. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 199K 📝 02&#x2F;23 ](https://github.com/vinta/awesome-python)) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 7. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 41K 📝 03&#x2F;05 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
@@ -330,8 +343,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 18. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 13K 📝 03&#x2F;04 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 19. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 8.3K 📝 03&#x2F;08 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
 20. [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 8.9K 📝 03&#x2F;07 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
-21. [Android Security Awesome](/content/ashishb/android-security-awesome/README.md) - ([Source ⭐ 7.5K 📝 03&#x2F;07 ](https://github.com/ashishb/android-security-awesome)) - A collection of android security related resources
-22. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 6.3K 📝 03&#x2F;09 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+21. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 6.3K 📝 03&#x2F;09 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+22. [Android Security Awesome](/content/ashishb/android-security-awesome/README.md) - ([Source ⭐ 7.5K 📝 03&#x2F;07 ](https://github.com/ashishb/android-security-awesome)) - A collection of android security related resources
 23. [Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md) - ([Source ⭐ 9.4K 📝 03&#x2F;05 ](https://github.com/dhamaniasad/awesome-postgres)) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 24. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 13K 📝 03&#x2F;01 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
 25. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 17K 📝 02&#x2F;27 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
@@ -418,7 +431,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 - [Awesome Billing](/content/kdeldycke/awesome-billing/README.md) - ([Source ⭐ 735, 📝 23&#x2F;09&#x2F;30 ](https://github.com/kdeldycke/awesome-billing)) - 💰 Billing & Payments knowledge for cloud platforms
 - [Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md) - ([Source ⭐ 377, 📝 23&#x2F;04&#x2F;25 ](https://github.com/nglgzz/awesome-clean-tech)) - A community curated list of awesome clean tech companies
-- [Awesome Developer First](/content/agamm/awesome-developer-first/README.md) - ([Source ⭐ 742, 📝 02&#x2F;26 ](https://github.com/agamm/awesome-developer-first)) - A curated list of awesome developer-first tools products.
+- [Awesome Developer First](/content/agamm/awesome-developer-first/README.md) - ([Source ⭐ 742, 📝 03&#x2F;09 ](https://github.com/agamm/awesome-developer-first)) - A curated list of awesome developer-first tools products.
 - [Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md) - ([Source ⭐ 1.8K, 📝 02&#x2F;02 ](https://github.com/kdeldycke/awesome-engineering-team-management)) - 👔 How to transition from software development to engineering management
 - [Awesome Indie](/content/mezod/awesome-indie/README.md) - ([Source ⭐ 8K, 📝 22&#x2F;01&#x2F;09 ](https://github.com/mezod/awesome-indie)) - Resources for independent developers to make money
 - [Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md) - ([Source ⭐ 6.8K, 📝 21&#x2F;10&#x2F;12 ](https://github.com/LappleApple/awesome-leading-and-managing)) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
@@ -899,7 +912,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 996, 📝 23&#x2F;12&#x2F;26 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.7K, 📝 02&#x2F;14 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 29K, 📝 02&#x2F;21 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 82K, 📝 03&#x2F;06 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 82K, 📝 03&#x2F;09 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2K, 📝 22&#x2F;07&#x2F;12 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 11K, 📝 23&#x2F;10&#x2F;11 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 3.3K, 📝 01&#x2F;08 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
