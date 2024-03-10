@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Mar 10, 2024](/content/2024/03/10/README.md)
+
+### Domain Specific Language / Domain Specified Applications
+
+*   [Scenic: a language for scenario specification and data generation](https://link.springer.com/article/10.1007/s10994-021-06120-5) - ***Machine Learning***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=13790565080942515865)]. Thie paper proposes a domain-specific language, Scenic, for describing scenarios that are distributions over scenes and the behaviors of their agents over time. Scenic combines concise, readable syntax for spatiotemporal relationships with the ability to declaratively impose hard and soft constraints over the scenario.
+
 ## [Mar 08, 2024](/content/2024/03/08/README.md)
 
 ### Abduction / Applications in AI
@@ -2205,7 +2211,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Abductive Plan Recognition by Extending Bayesian Logic Programs](https://www.cs.utexas.edu/~ml/papers/raghavan.ecml11.pdf) - ***ECML'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=7276511797197017483\&hl=en\&as_sdt=0,5)].
 *   [An Approach to Abductive Reasoning in Equational Logic](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6624/6619) - ***IJCAI'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=686895264429811190\&hl=en\&as_sdt=0,5)].
 *   [Abduction-Based Explanations for Machine Learning Models](https://ojs.aaai.org//index.php/AAAI/article/view/3964) - ***AAAI'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7355960657107994022\&hl=en\&as_sdt=0,5)].
-*   [Discovering a symbolic planning language from continuous experience](https://joaoloula.github.io/Discovering_a_Symbolic_Planning_Language_From_Continuous_Experience.pdf) - ***CogSci'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=2005\&sciodt=0%2C5\&cites=14400178089019636923\&scipsc=\&q=Discovering+a+symbolic+planning+language+from+continuous+experience\&btnG=)].
 
 ### Bayesian Modeling / Nonparametric Model
 

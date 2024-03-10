@@ -427,21 +427,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [django-typer (⭐37)](https://github.com/bckohan/django-typer) - Write Django management commands using the [Typer CLI library](https://typer.tiangolo.com).
 
-#### [34. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-##### Frameworks
-
-*   [SaneCppLibraries (⭐422)](https://github.com/Pagghiu/SaneCppLibraries) - a set of C++ platform abstraction libraries for macOS, Windows and Linux. \[MIT] [website](https://pagghiu.github.io/SaneCppLibraries/)
-
-##### Containers
-
-*   [frozen (⭐1.2k)](https://github.com/serge-sans-paille/frozen) - a header-only, constexpr alternative to gperf for C++14 users. \[Apache-2.0]
-
-##### Miscellaneous
-
-*   [RaipdFuzz (⭐195)](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. \[MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
-
-#### [35. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [34. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Libraries/Packages/Scripts / Python
 
@@ -454,7 +440,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [How moving from Pandas to Polars made me write better code without writing better code](https://dev.to/check/how-moving-from-pandas-to-polars-made-me-write-better-code-without-writing-better-code-52bl) - A post that describs the process of "Polarification" of code written with Pandas by [@duvenagep](https://github.com/duvenagep).
 *   [Revisiting a Classic Cheminformatics Paper with Polars: The Wiener Index](https://bertiewooster.github.io/2023/03/10/Revisiting-a-Classic-Cheminformatics-Paper-The-Wiener-Index.html) - A science blog post that uses Polars to track the information for the molecules in DataFrames by [@bertiewooster](https://github.com/bertiewooster).
 
-#### [36. Awesome Distraction Blocker](/content/stan8086/awesome-distraction-blocker/README.md)
+#### [35. Awesome Distraction Blocker](/content/stan8086/awesome-distraction-blocker/README.md)
 
 ##### Apps and Tools / Windows
 
@@ -503,7 +489,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   Comments on why the resource is worthwhile are encouraged.
 *   Make an individual pull request for each suggestion.
 
-#### [37. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [36. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Bookmarks and Link Sharing
 
@@ -521,7 +507,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Huly](https://huly.io) - All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion). ([Demo](https://app.huly.io), [Source Code (⭐1.6k)](https://github.com/hcengineering/platform)) `EPL-2.0` `Docker/K8S/Nodejs`
 
-#### [38. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [37. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Developer Tools / Developer Utilities
 
@@ -531,13 +517,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Sleepr](https://sleepr.app/) - Sleepr brings back sleep timer on macOS. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/sleepr-app/id6465683427)
 
-#### [39. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+#### [38. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ##### Integrations
 
 *   [YepCode](https://yepcode.io/) - Build and run serverless functions with the best development experience.
 
-#### [40. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [39. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### Cloud management solutions
 
@@ -547,27 +533,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [btunnel](https://www.btunnel.in/) — Expose localhost and local tcp server to the internet. Free plan includes file server, custom http request and response headers, basic auth protection and 1 hour tunnel timeout.
 
-#### [41. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Abduction / Applications in AI
-
-*   [Human Comprehensible Active Learning of Genome-Scale Metabolic Networks](https://arxiv.org/abs/2308.12740) - ***AAAI Spring Symposium Series 2023 on Computational Scientific Discovery***, 2023. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&cluster=10875437066608527790)]. \[[Extended Abstract](http://cogsys.org/symposium/discovery-2023/abstracts/Abstract_3169.pdf)]. \[[Slides](http://cogsys.org/symposium/discovery-2023/talks/Ai.pdf)]. This work introduces a novel machine learning framework ILP-iML1515 based on Inductive Logic Programming (ILP) that performs abductive logical reasoning and actively learns from training examples. The ILP-iML1515 framework 1) allows high-throughput simulations and 2) actively selects experiments that reduce the experimental cost of learning gene functions in comparison to randomly selected experiments.
-
-##### Domain Specific Language / Design Practises
-
-*   [How Domain Experts Use an Embedded DSL](https://dl.acm.org/doi/abs/10.1145/3622851) - ***OOPSLA'23***, 2023. This work conducts a thematic analysis identified five key themes, including: the interaction between the eDSL and the host language has significant and sometimes unexpected impacts on eDSL user experience, and users preferentially engage with domain-specific communities and code templates rather than host language resources.
-
-##### Domain Specific Language / DSL Program Synthesis
-
-*   [Learning to Infer Graphics Programs from Hand-Drawn Images](https://proceedings.neurips.cc/paper/2018/hash/6788076842014c83cedadbe6b0ba0314-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=14065112485794121024\&as_sdt=0,5)]. The method learns a model that uses program synthesis techniques to recover a graphics program from drawing primitives. These programs have constructs like variable bindings, iterative loops, or simple kinds of conditionals. With a graphics program in hand, we can correct errors made by the deep network and extrapolate drawings.
-*   [babble: Learning Better Abstractions with E-Graphs and Anti-unification](https://dl.acm.org/doi/abs/10.1145/3571207) - ***POPL'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=7935064016901049715\&as_sdt=0,5)]. This paper proposes library learning modulo theory (LLMT), a new library learning algorithm that additionally takes as input an equational theory for a given problem domain. LLMT uses e-graphs and equality saturation to compactly represent the space of programs equivalent modulo the theory, and uses a novel e-graph anti-unification technique to find common patterns in the corpus more directly and efficiently.
-
-##### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
-
-*   [Large Language Models for Software Engineering: A
-    Systematic Literature Review](https://arxiv.org/abs/2308.10620) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10466731638053452642\&as_sdt=0,5)]. A systematic literature review on LLM4SE, with a particular focus on understanding how LLMs can be exploited to optimize processes and outcomes.
-
-#### [42. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+#### [40. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ##### Tools / Services
 
@@ -579,39 +545,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Fructose (⭐490)](https://github.com/bananaml/fructose): Fructose is a python package to create a dependable, strongly-typed interface around an LLM call. ![GitHub Repo stars](https://img.shields.io/github/stars/bananaml/fructose?style=social)
 *   [R2R (⭐852)](https://github.com/SciPhi-AI/R2R): A framework for rapid development and deployment of production-ready RAG systems ![GitHub Repo stars](https://img.shields.io/github/stars/SciPhi-AI/R2R?style=social)
 
-#### [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### (requires Neovim 0.5)
-
-*   [LukasPietzschmann/boo.nvim (⭐0)](https://github.com/LukasPietzschmann/boo.nvim) - Quickly pop-up some LSP-powered information of the thing your cursor is on.
-
-##### Golang / Diagnostics
-
-*   [yanskun/gotests.nvim (⭐11)](https://github.com/yanskun/gotests.nvim) - Make Go tests easy with [gotests (⭐4.8k)](https://github.com/cweill/gotests).
-
-##### Marks / Diagnostics
-
-*   [fnune/recall.nvim (⭐7)](https://github.com/fnune/recall.nvim) - Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.
-
-##### Motion / Diagnostics
-
-*   [Mr-LLLLL/treesitter-outer (⭐2)](https://github.com/Mr-LLLLL/treesitter-outer) - Jump to outer node with smart.
-
-##### Keybinding / Diagnostics
-
-*   [nvimtools/hydra.nvim (⭐43)](https://github.com/nvimtools/hydra.nvim) - Create custom submodes and menus. Port of Emacs Hydra. Maintained fork of anuvyklack/hydra.nvim.
-
-##### Editing Support / Diagnostics
-
-*   [altermo/iedit.nvim (⭐5)](https://github.com/altermo/iedit.nvim) - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
-
-#### [44. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+#### [41. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ##### Tree
 
 *   [he-tree-react (⭐2)](https://github.com/phphe/he-tree-react) - [demo](https://he-tree-react.phphe.com/v1/examples) - [docs](https://he-tree-react.phphe.com/) - Tree, customizable UI, flat data, tree data, drag-n-drop, placeholder for drop, foldable, checkbox, virtualized.
 
-#### [45. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+#### [42. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ##### Tutorials
 
@@ -630,13 +570,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [svelte-document (⭐0)](https://github.com/mblouka/svelte-document) - Create documents (PDFs), resumes, or presentations entirely in Svelte.
 
-#### [46. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+#### [43. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ##### Design Patterns and Anti Patterns
 
 *   [Spaghetti Code](https://en.wikipedia.org/wiki/Spaghetti_code) - A program with a tangled and hard-to-follow stucture.
 
-#### [47. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [44. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Data Science
 
@@ -654,13 +594,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
 
-#### [48. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+#### [45. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ##### Projects
 
 *   [Display\_Lib\_RPI (⭐11)](https://github.com/gavinlyonsrepo/Display_Lib_RPI) - A shared installable C++ Library to connect various electronic displays to Raspberry Pi single board computers.
 
-#### [49. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [46. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Authentication and OAuth
 
@@ -687,6 +627,78 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Go in Practice, Second Edition](https://www.manning.com/books/go-in-practice-second-edition)  - Your practical guide on the ins-and-outs of Go development, covering the standard library and the most important tools from Go’s powerful ecosystem.
 
+#### [47. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### (requires Neovim 0.5)
+
+*   [LukasPietzschmann/boo.nvim (⭐0)](https://github.com/LukasPietzschmann/boo.nvim) - Quickly pop-up some LSP-powered information of the thing your cursor is on.
+
+##### Golang / Diagnostics
+
+*   [yanskun/gotests.nvim (⭐11)](https://github.com/yanskun/gotests.nvim) - Make Go tests easy with [gotests (⭐4.8k)](https://github.com/cweill/gotests).
+
+##### Marks / Diagnostics
+
+*   [fnune/recall.nvim (⭐7)](https://github.com/fnune/recall.nvim) - Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.
+
+##### Statusline / Diagnostics
+
+*   [Mr-LLLLL/lualine-ext.nvim (⭐1)](https://github.com/Mr-LLLLL/lualine-ext.nvim) - Show more information on lualine.
+
+##### Motion / Diagnostics
+
+*   [Mr-LLLLL/treesitter-outer (⭐2)](https://github.com/Mr-LLLLL/treesitter-outer) - Jump to outer node with smart.
+
+##### Keybinding / Diagnostics
+
+*   [nvimtools/hydra.nvim (⭐43)](https://github.com/nvimtools/hydra.nvim) - Create custom submodes and menus. Port of Emacs Hydra. Maintained fork of anuvyklack/hydra.nvim.
+
+##### Editing Support / Diagnostics
+
+*   [altermo/iedit.nvim (⭐5)](https://github.com/altermo/iedit.nvim) - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
+
+#### [48. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+##### Frameworks
+
+*   [SaneCppLibraries (⭐422)](https://github.com/Pagghiu/SaneCppLibraries) - a set of C++ platform abstraction libraries for macOS, Windows and Linux. \[MIT] [website](https://pagghiu.github.io/SaneCppLibraries/)
+
+##### Containers
+
+*   [frozen (⭐1.2k)](https://github.com/serge-sans-paille/frozen) - a header-only, constexpr alternative to gperf for C++14 users. \[Apache-2.0]
+
+##### Robotics
+
+*   [SPICE Toolkit (⭐18)](https://github.com/arturania/cspice) - Library and toolkit for computing geometric information used in planning and analyzing science observations obtained from robotic spacecraft. \[MIT] [website](https://naif.jpl.nasa.gov/naif/toolkit.html)
+
+##### Miscellaneous
+
+*   [RaipdFuzz (⭐195)](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. \[MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
+
+#### [49. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Abduction / Applications in AI
+
+*   [Human Comprehensible Active Learning of Genome-Scale Metabolic Networks](https://arxiv.org/abs/2308.12740) - ***AAAI Spring Symposium Series 2023 on Computational Scientific Discovery***, 2023. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&cluster=10875437066608527790)]. \[[Extended Abstract](http://cogsys.org/symposium/discovery-2023/abstracts/Abstract_3169.pdf)]. \[[Slides](http://cogsys.org/symposium/discovery-2023/talks/Ai.pdf)]. This work introduces a novel machine learning framework ILP-iML1515 based on Inductive Logic Programming (ILP) that performs abductive logical reasoning and actively learns from training examples. The ILP-iML1515 framework 1) allows high-throughput simulations and 2) actively selects experiments that reduce the experimental cost of learning gene functions in comparison to randomly selected experiments.
+
+##### Domain Specific Language / Design Practises
+
+*   [How Domain Experts Use an Embedded DSL](https://dl.acm.org/doi/abs/10.1145/3622851) - ***OOPSLA'23***, 2023. This work conducts a thematic analysis identified five key themes, including: the interaction between the eDSL and the host language has significant and sometimes unexpected impacts on eDSL user experience, and users preferentially engage with domain-specific communities and code templates rather than host language resources.
+
+##### Domain Specific Language / Domain Specified Applications
+
+*   [Scenic: a language for scenario specification and data generation](https://link.springer.com/article/10.1007/s10994-021-06120-5) - ***Machine Learning***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=13790565080942515865)]. Thie paper proposes a domain-specific language, Scenic, for describing scenarios that are distributions over scenes and the behaviors of their agents over time. Scenic combines concise, readable syntax for spatiotemporal relationships with the ability to declaratively impose hard and soft constraints over the scenario.
+
+##### Domain Specific Language / DSL Program Synthesis
+
+*   [Learning to Infer Graphics Programs from Hand-Drawn Images](https://proceedings.neurips.cc/paper/2018/hash/6788076842014c83cedadbe6b0ba0314-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=14065112485794121024\&as_sdt=0,5)]. The method learns a model that uses program synthesis techniques to recover a graphics program from drawing primitives. These programs have constructs like variable bindings, iterative loops, or simple kinds of conditionals. With a graphics program in hand, we can correct errors made by the deep network and extrapolate drawings.
+*   [babble: Learning Better Abstractions with E-Graphs and Anti-unification](https://dl.acm.org/doi/abs/10.1145/3571207) - ***POPL'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=7935064016901049715\&as_sdt=0,5)]. This paper proposes library learning modulo theory (LLMT), a new library learning algorithm that additionally takes as input an equational theory for a given problem domain. LLMT uses e-graphs and equality saturation to compactly represent the space of programs equivalent modulo the theory, and uses a novel e-graph anti-unification technique to find common patterns in the corpus more directly and efficiently.
+
+##### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
+
+*   [Large Language Models for Software Engineering: A
+    Systematic Literature Review](https://arxiv.org/abs/2308.10620) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10466731638053452642\&as_sdt=0,5)]. A systematic literature review on LLM4SE, with a particular focus on understanding how LLMs can be exploited to optimize processes and outcomes.
+
 ---
 
 - Next: [Feb 26 - Mar 03, 2024](&#x2F;content&#x2F;2024&#x2F;9&#x2F;README.md)
@@ -697,7 +709,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 2. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 117K 📝 03&#x2F;10 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 3. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 82K 📝 03&#x2F;09 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 4. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 69K 📝 03&#x2F;09 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-5. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 54K 📝 03&#x2F;08 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+5. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 54K 📝 03&#x2F;10 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 6. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 199K 📝 02&#x2F;23 ](https://github.com/vinta/awesome-python)) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 7. [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 40K 📝 03&#x2F;10 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
 8. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 41K 📝 03&#x2F;05 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
@@ -1375,7 +1387,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/README.md) - ([Source ⭐ 175, 📝 23&#x2F;10&#x2F;17 ](https://github.com/GustavBertram/awesome-common-lisp-learning)) - A curated list of awesome Common Lisp learning resources
 - [Awesome Composer](/content/jakoch/awesome-composer/README.md) - ([Source ⭐ 815, 📝 22&#x2F;07&#x2F;22 ](https://github.com/jakoch/awesome-composer)) -  :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.
 - [Awesome Coq](/content/coq-community/awesome-coq/README.md) - ([Source ⭐ 275, 📝 03&#x2F;05 ](https://github.com/coq-community/awesome-coq)) - A curated list of awesome Coq libraries, plugins, tools, verification projects, and resources [maintainers=@anton-trunov,@palmskog]
-- [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 54K, 📝 03&#x2F;08 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+- [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 54K, 📝 03&#x2F;10 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [Awesome Crystal](/content/veelenga/awesome-crystal/README.md) - ([Source ⭐ 3.3K, 📝 02&#x2F;23 ](https://github.com/veelenga/awesome-crystal)) - :gem: A collection of awesome Crystal libraries, tools, frameworks and software
 - [Awesome D](/content/dlang-community/awesome-d/README.md) - ([Source ⭐ 620, 📝 01&#x2F;15 ](https://github.com/dlang-community/awesome-d)) -   A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.
 - [Awesome Dart](/content/yissachar/awesome-dart/README.md) - ([Source ⭐ 2.2K, 📝 23&#x2F;09&#x2F;05 ](https://github.com/yissachar/awesome-dart)) - A curated list of awesome Dart frameworks, libraries, and software
@@ -1475,7 +1487,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 232, 📝 03&#x2F;08 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 232, 📝 03&#x2F;10 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 15K, 📝 23&#x2F;09&#x2F;23 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 8.9K, 📝 03&#x2F;07 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 81, 📝 02&#x2F;29 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.

@@ -258,6 +258,10 @@
 
 *   [fnune/recall.nvim (⭐7)](https://github.com/fnune/recall.nvim) - Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.
 
+### Statusline / Diagnostics
+
+*   [Mr-LLLLL/lualine-ext.nvim (⭐1)](https://github.com/Mr-LLLLL/lualine-ext.nvim) - Show more information on lualine.
+
 ### Motion / Diagnostics
 
 *   [Mr-LLLLL/treesitter-outer (⭐2)](https://github.com/Mr-LLLLL/treesitter-outer) - Jump to outer node with smart.
@@ -581,6 +585,10 @@
 
 *   [How Domain Experts Use an Embedded DSL](https://dl.acm.org/doi/abs/10.1145/3622851) - ***OOPSLA'23***, 2023. This work conducts a thematic analysis identified five key themes, including: the interaction between the eDSL and the host language has significant and sometimes unexpected impacts on eDSL user experience, and users preferentially engage with domain-specific communities and code templates rather than host language resources.
 
+### Domain Specific Language / Domain Specified Applications
+
+*   [Scenic: a language for scenario specification and data generation](https://link.springer.com/article/10.1007/s10994-021-06120-5) - ***Machine Learning***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=13790565080942515865)]. Thie paper proposes a domain-specific language, Scenic, for describing scenarios that are distributions over scenes and the behaviors of their agents over time. Scenic combines concise, readable syntax for spatiotemporal relationships with the ability to declaratively impose hard and soft constraints over the scenario.
+
 ### Domain Specific Language / DSL Program Synthesis
 
 *   [Learning to Infer Graphics Programs from Hand-Drawn Images](https://proceedings.neurips.cc/paper/2018/hash/6788076842014c83cedadbe6b0ba0314-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=14065112485794121024\&as_sdt=0,5)]. The method learns a model that uses program synthesis techniques to recover a graphics program from drawing primitives. These programs have constructs like variable bindings, iterative loops, or simple kinds of conditionals. With a graphics program in hand, we can correct errors made by the deep network and extrapolate drawings.
@@ -608,6 +616,10 @@
 ### Containers
 
 *   [frozen (⭐1.2k)](https://github.com/serge-sans-paille/frozen) - a header-only, constexpr alternative to gperf for C++14 users. \[Apache-2.0]
+
+### Robotics
+
+*   [SPICE Toolkit (⭐18)](https://github.com/arturania/cspice) - Library and toolkit for computing geometric information used in planning and analyzing science observations obtained from robotic spacecraft. \[MIT] [website](https://naif.jpl.nasa.gov/naif/toolkit.html)
 
 ### Miscellaneous
 

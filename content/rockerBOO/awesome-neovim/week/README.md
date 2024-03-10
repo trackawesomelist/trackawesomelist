@@ -20,6 +20,10 @@ Collections of awesome neovim plugins.
 
 *   [fnune/recall.nvim (⭐7)](https://github.com/fnune/recall.nvim) - Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.
 
+### Statusline / Diagnostics
+
+*   [Mr-LLLLL/lualine-ext.nvim (⭐1)](https://github.com/Mr-LLLLL/lualine-ext.nvim) - Show more information on lualine.
+
 ### Motion / Diagnostics
 
 *   [Mr-LLLLL/treesitter-outer (⭐2)](https://github.com/Mr-LLLLL/treesitter-outer) - Jump to outer node with smart.
