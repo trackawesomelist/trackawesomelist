@@ -150,7 +150,7 @@ Collections of awesome neovim plugins.
 *   [ranjithshegde/ccls.nvim (⭐62)](https://github.com/ranjithshegde/ccls.nvim) - Use off-spec extensions of ccls LSP and browse AST.
 *   [idanarye/nvim-buffls (⭐9)](https://github.com/idanarye/nvim-buffls) - Add LSP functionality to specific Neovim buffers.
 *   [DNLHC/glance.nvim (⭐575)](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations.
-*   [deathbeam/lspecho.nvim (⭐8)](https://github.com/deathbeam/lspecho.nvim) - Echo LSP progress to cmdline or embed it in status line.
+*   [deathbeam/lspecho.nvim (⭐10)](https://github.com/deathbeam/lspecho.nvim) - Echo LSP progress to cmdline or embed it in status line.
 *   [linrongbin16/lsp-progress.nvim (⭐146)](https://github.com/linrongbin16/lsp-progress.nvim) - A performant LSP progress status.
 *   [jinzhongjia/LspUI.nvim (⭐141)](https://github.com/jinzhongjia/LspUI.nvim) - A modern and useful UI that wraps LSP operations.
 *   [VidocqH/lsp-lens.nvim (⭐222)](https://github.com/VidocqH/lsp-lens.nvim) - Display function references above function definition like IDEA codelens.
@@ -192,7 +192,7 @@ Collections of awesome neovim plugins.
     *   [lukas-reineke/cmp-under-comparator (⭐155)](https://github.com/lukas-reineke/cmp-under-comparator) - A nvim-cmp function for better sorting.
     *   [SergioRibera/cmp-dotenv (⭐32)](https://github.com/SergioRibera/cmp-dotenv) - Load environment variables from the shell or from your `.env` files.
 *   [echasnovski/mini.nvim#mini.completion (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-completion.md) - Module of `mini.nvim` for asynchronous two-stage completion. Supports showing completion item info and independent function signature.
-*   [deathbeam/autocomplete.nvim (⭐6)](https://github.com/deathbeam/autocomplete.nvim) - Very simple and minimal autocompletion for cmdline and buffer using LSP and Tree-sitter with signature help.
+*   [deathbeam/autocomplete.nvim (⭐16)](https://github.com/deathbeam/autocomplete.nvim) - Very simple and minimal autocompletion for cmdline and buffer using LSP and Tree-sitter with signature help.
 *   [vigoux/complementree.nvim (⭐43)](https://github.com/vigoux/complementree.nvim) - Light and synchronous completion plugin based on tree-sitter and with a functional-programming interface.
 *   [nvimdev/epo.nvim (⭐102)](https://github.com/nvimdev/epo.nvim) - Blazingly fast, minimal LSP auto-completion and snippet engine.
 *   [zbirenbaum/copilot.lua (⭐2.1k)](https://github.com/zbirenbaum/copilot.lua) - Fully featured Lua replacement for [GitHub/copilot.vim (⭐7.2k)](https://github.com/github/copilot.vim).
@@ -331,6 +331,7 @@ Collections of awesome neovim plugins.
 *   [tomasky/bookmarks.nvim (⭐101)](https://github.com/tomasky/bookmarks.nvim) - Bookmarks with global file storage, written in Lua.
 *   [LintaoAmons/bookmarks.nvim (⭐37)](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful.
 *   [desdic/marlin.nvim (⭐7)](https://github.com/desdic/marlin.nvim) - Like harpoon, but with key differences like project path, split support, no UI.
+*   [fnune/recall.nvim (⭐7)](https://github.com/fnune/recall.nvim) - Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.
 
 ## Search
 
@@ -930,6 +931,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [gsuuon/tshjkl.nvim (⭐94)](https://github.com/gsuuon/tshjkl.nvim) - Toggle to navigate and select tree-sitter nodes with hjkl.
 *   [backdround/neowords.nvim (⭐48)](https://github.com/backdround/neowords.nvim) - Hops by any type of words. It gives fine control over `w`, `e`, `b`, `ge` movements.
 *   [backdround/improved-ft.nvim (⭐33)](https://github.com/backdround/improved-ft.nvim) - Improve default `f`/`t` abilities.
+*   [Mr-LLLLL/treesitter-outer (⭐2)](https://github.com/Mr-LLLLL/treesitter-outer) - Jump to outer node with smart.
 
 ### Treesitter Based
 
@@ -1042,6 +1044,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [cshuaimin/ssr.nvim (⭐823)](https://github.com/cshuaimin/ssr.nvim) - Treesitter-based structural search and replace.
 *   [Jxstxs/conceal.nvim (⭐57)](https://github.com/Jxstxs/conceal.nvim) - Use Tree-sitter to conceal common boilerplate code.
 *   [hiberabyss/bzlops.vim (⭐3)](https://github.com/hiberabyss/bzlops.vim) - Help to manage your bazel build rule.
+*   [altermo/iedit.nvim (⭐5)](https://github.com/altermo/iedit.nvim) - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
 
 ### Comment
 

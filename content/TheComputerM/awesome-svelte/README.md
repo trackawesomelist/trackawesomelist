@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/TheComputerM/awesome-svelte/week/README.md) / [Overview](/content/TheComputerM/awesome-svelte/readme/README.md) ]
 
+## [Mar 10, 2024](/content/2024/03/10/README.md)
+
+### Frameworks / Checkbox
+
+*   [svelte-document (⭐0)](https://github.com/mblouka/svelte-document) - Create documents (PDFs), resumes, or presentations entirely in Svelte.
+
 ## [Mar 08, 2024](/content/2024/03/08/README.md)
 
 ### Tutorials
@@ -20,10 +26,6 @@
 
 *   [Skeleton](https://www.skeleton.dev/docs/get-started) - Skeleton uses Tailwind utility classes and design system to easily create theme-able user interfaces.
 *   [M3 Svelte (⭐66)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
-
-### Frameworks / Checkbox
-
-*   \[svelte-document] - Create documents (PDFs), resumes, or presentations entirely in Svelte.
 
 ## [Feb 09, 2024](/content/2024/02/09/README.md)
 

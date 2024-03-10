@@ -16,9 +16,21 @@ Collections of awesome neovim plugins.
 
 *   [yanskun/gotests.nvim (⭐11)](https://github.com/yanskun/gotests.nvim) - Make Go tests easy with [gotests (⭐4.8k)](https://github.com/cweill/gotests).
 
+### Marks / Diagnostics
+
+*   [fnune/recall.nvim (⭐7)](https://github.com/fnune/recall.nvim) - Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.
+
+### Motion / Diagnostics
+
+*   [Mr-LLLLL/treesitter-outer (⭐2)](https://github.com/Mr-LLLLL/treesitter-outer) - Jump to outer node with smart.
+
 ### Keybinding / Diagnostics
 
 *   [nvimtools/hydra.nvim (⭐43)](https://github.com/nvimtools/hydra.nvim) - Create custom submodes and menus. Port of Emacs Hydra. Maintained fork of anuvyklack/hydra.nvim.
+
+### Editing Support / Diagnostics
+
+*   [altermo/iedit.nvim (⭐5)](https://github.com/altermo/iedit.nvim) - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
 
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
@@ -64,11 +76,11 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [deathbeam/lspecho.nvim (⭐8)](https://github.com/deathbeam/lspecho.nvim) - Echo LSP progress to cmdline or embed it in status line.
+*   [deathbeam/lspecho.nvim (⭐10)](https://github.com/deathbeam/lspecho.nvim) - Echo LSP progress to cmdline or embed it in status line.
 
 ### Completion / Diagnostics
 
-*   [deathbeam/autocomplete.nvim (⭐6)](https://github.com/deathbeam/autocomplete.nvim) - Very simple and minimal autocompletion for cmdline and buffer using LSP and Tree-sitter with signature help.
+*   [deathbeam/autocomplete.nvim (⭐16)](https://github.com/deathbeam/autocomplete.nvim) - Very simple and minimal autocompletion for cmdline and buffer using LSP and Tree-sitter with signature help.
 
 ### Register / Diagnostics
 

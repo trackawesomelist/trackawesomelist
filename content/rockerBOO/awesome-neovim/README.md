@@ -6,6 +6,20 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Mar 10, 2024](/content/2024/03/10/README.md)
+
+### Marks / Diagnostics
+
+*   [fnune/recall.nvim (⭐7)](https://github.com/fnune/recall.nvim) - Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.
+
+### Motion / Diagnostics
+
+*   [Mr-LLLLL/treesitter-outer (⭐2)](https://github.com/Mr-LLLLL/treesitter-outer) - Jump to outer node with smart.
+
+### Editing Support / Diagnostics
+
+*   [altermo/iedit.nvim (⭐5)](https://github.com/altermo/iedit.nvim) - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
+
 ## [Mar 08, 2024](/content/2024/03/08/README.md)
 
 ### (requires Neovim 0.5)
@@ -77,11 +91,11 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [deathbeam/lspecho.nvim (⭐8)](https://github.com/deathbeam/lspecho.nvim) - Echo LSP progress to cmdline or embed it in status line.
+*   [deathbeam/lspecho.nvim (⭐10)](https://github.com/deathbeam/lspecho.nvim) - Echo LSP progress to cmdline or embed it in status line.
 
 ### Completion / Diagnostics
 
-*   [deathbeam/autocomplete.nvim (⭐6)](https://github.com/deathbeam/autocomplete.nvim) - Very simple and minimal autocompletion for cmdline and buffer using LSP and Tree-sitter with signature help.
+*   [deathbeam/autocomplete.nvim (⭐16)](https://github.com/deathbeam/autocomplete.nvim) - Very simple and minimal autocompletion for cmdline and buffer using LSP and Tree-sitter with signature help.
 
 ## [Feb 21, 2024](/content/2024/02/21/README.md)
 

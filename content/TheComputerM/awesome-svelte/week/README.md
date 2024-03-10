@@ -23,7 +23,7 @@
 
 ### Frameworks / Checkbox
 
-*   \[svelte-document] - Create documents (PDFs), resumes, or presentations entirely in Svelte.
+*   [svelte-document (⭐0)](https://github.com/mblouka/svelte-document) - Create documents (PDFs), resumes, or presentations entirely in Svelte.
 
 ## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
 

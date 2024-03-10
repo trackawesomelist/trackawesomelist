@@ -6,6 +6,12 @@ A curated list for when naming things is done right.
 
 [ Daily / [Weekly](/content/gruhn/awesome-naming/week/README.md) / [Overview](/content/gruhn/awesome-naming/readme/README.md) ]
 
+## [Mar 10, 2024](/content/2024/03/10/README.md)
+
+### Design Patterns and Anti Patterns
+
+*   [Spaghetti Code](https://en.wikipedia.org/wiki/Spaghetti_code) - A program with a tangled and hard-to-follow stucture.
+
 ## [Mar 02, 2024](/content/2024/03/02/README.md)
 
 ### Other

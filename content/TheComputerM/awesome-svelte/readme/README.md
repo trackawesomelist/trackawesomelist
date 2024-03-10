@@ -315,7 +315,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Elder.js](https://elderguide.com/tech/elderjs/) - Opinionated static site generator and web framework for Svelte built with SEO in mind.
 *   [Routify](https://routify.dev/) - Routes for Svelte, automated by your file structure.
 *   [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL.
-*   \[svelte-document] - Create documents (PDFs), resumes, or presentations entirely in Svelte.
+*   [svelte-document (⭐0)](https://github.com/mblouka/svelte-document) - Create documents (PDFs), resumes, or presentations entirely in Svelte.
 
 ## Dev Tools
 
