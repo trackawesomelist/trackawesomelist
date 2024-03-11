@@ -6,6 +6,13 @@ A curated list of top productivity distraction blocker apps
 
 [ Daily / [Weekly](/content/stan8086/awesome-distraction-blocker/week/README.md) / [Overview](/content/stan8086/awesome-distraction-blocker/readme/README.md) ]
 
+## [Mar 11, 2024](/content/2024/03/11/README.md)
+
+### Articles and Guides / Mobile Apps
+
+*   [Top 5 Distraction Blocker Apps for Mac](https://blog.productivity.directory/top-5-distraction-blocker-apps-for-mac-a00614bc6268)
+*   [Top 6 Distraction Blocker Apps for Android](https://blog.productivity.directory/top-6-distraction-blocker-apps-for-android-5a838618e155)
+
 ## [Mar 08, 2024](/content/2024/03/08/README.md)
 
 ### Apps and Tools / Windows
@@ -31,11 +38,6 @@ A curated list of top productivity distraction blocker apps
 
 *   [Forest](https://www.forestapp.cc/) - [Review](https://productivity.directory/forest) - Stay focused, be present, and turn your focused moments into a lovely forest.
 *   [Offtime](http://offtime.co/) - Disconnect from smartphone overuse.
-
-### Articles and Guides / Mobile Apps
-
-*   [How to Block Distracting Websites: 3 Methods to Increase Productivity](https://example.com)
-*   [10 Tips for Reducing Distractions and Increasing Focus](https://example.com)
 
 ### Research Papers / Mobile Apps
 

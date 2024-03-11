@@ -193,9 +193,7 @@ Please see [CONTRIBUTING (⭐30k)](https://github.com/ziadoz/awesome-php/blob/ma
 *Micro frameworks and routers.*
 
 *   [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
-*   [Lumen](https://lumen.laravel.com/) - A micro-framework by Laravel.
 *   [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
-*   [Radar (⭐53)](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 *   [Silly (⭐892)](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
 *   [Slim](https://www.slimframework.com/) - Another simple micro framework.
 
@@ -595,6 +593,7 @@ Please see [CONTRIBUTING (⭐30k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Brick\Money (⭐1.6k)](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
 *   [OmniPay (⭐5.9k)](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
 *   [Payum (⭐1.8k)](https://github.com/payum/payum) - A payment abstraction library.
+*   [Shopsys Framework (⭐320)](https://github.com/shopsys/shopsys/) - An open source e-commerce platform for in-house development teams.
 *   [Shopware (⭐2.6k)](https://github.com/shopware/shopware) - Highly customizable e-commerce software
 *   [Swap (⭐1.3k)](https://github.com/florianv/swap) - An exchange rates library.
 *   [Sylius](https://sylius.com/) - An open source e-commerce solution.

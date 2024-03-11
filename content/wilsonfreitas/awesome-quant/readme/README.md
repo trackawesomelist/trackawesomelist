@@ -74,7 +74,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 *   [AbsBox (⭐20)](https://github.com/yellowbean/AbsBox) - A Python based library to model cashflow for structured product like Asset-backed securities (ABS) and Mortgage-backed securities (MBS).
 *   [Intrinsic-Value-Calculator (⭐4)](https://github.com/akashaero/Intrinsic-Value-Calculator) - A Python tool for quick calculations of a stock's fair value using Discounted Cash Flow analysis.
 *   [Kelly-Criterion (⭐83)](https://github.com/deltaray-io/kelly-criterion) - Kelly Criterion implemented in Python to size portfolios based on J. L. Kelly Jr's formula.
-*   [rateslib (⭐48)](https://github.com/attack68/rateslib) - A fixed income library for pricing bonds and bond futures, and derivatives such as IRS, cross-currency and FX swaps.
+*   [rateslib (⭐54)](https://github.com/attack68/rateslib) - A fixed income library for pricing bonds and bond futures, and derivatives such as IRS, cross-currency and FX swaps.
 
 ### Indicators
 
@@ -137,7 +137,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 *   [FinRL-Library (⭐8.8k)](https://github.com/AI4Finance-LLC/FinRL-Library) - A Deep Reinforcement Learning Library for Automated Trading in Quantitative Finance. NeurIPS 2020.
 *   [bulbea (⭐1.9k)](https://github.com/achillesrasquinha/bulbea) - Deep Learning based Python Library for Stock Market Prediction and Modelling.
 *   [ib\_nope (⭐27)](https://github.com/ajhpark/ib_nope) - Automated trading system for NOPE strategy over IBKR TWS.
-*   [OctoBot (⭐2.6k)](https://github.com/Drakkar-Software/OctoBot) - Open source cryptocurrency trading bot for high frequency, arbitrage, TA and social trading with an advanced web interface.
+*   [OctoBot (⭐2.7k)](https://github.com/Drakkar-Software/OctoBot) - Open source cryptocurrency trading bot for high frequency, arbitrage, TA and social trading with an advanced web interface.
 *   [bta-lib (⭐428)](https://github.com/mementum/bta-lib) - Technical Analysis library in pandas for backtesting algotrading and quantitative analysis.
 *   [Stock-Prediction-Models (⭐7.3k)](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations.
 *   [TuneTA (⭐363)](https://github.com/jmrichardson/tuneta) - TuneTA optimizes technical indicators using a distance correlation measure to a user defined target feature such as next day return.
@@ -173,8 +173,8 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 *   [Empyrial (⭐847)](https://github.com/ssantoshp/Empyrial) - Portfolio's risk and performance analytics and returns predictions.
 *   [risktools (⭐24)](https://github.com/bbcho/risktools-dev) - Risk tools for use within the crude and crude products trading space with partial implementation of R's PerformanceAnalytics.
 *   [Riskfolio-Lib (⭐2.6k)](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio Optimization and Quantitative Strategic Asset Allocation in Python.
-*   [empyrical-reloaded (⭐36)](https://github.com/stefan-jansen/empyrical-reloaded) - Common financial risk and performance metrics. [empyrical (⭐1.2k)](https://github.com/quantopian/empyrical) fork.
-*   [pyfolio-reloaded (⭐258)](https://github.com/stefan-jansen/pyfolio-reloaded) - Portfolio and risk analytics in Python. [pyfolio (⭐5.4k)](https://github.com/quantopian/pyfolio) fork.
+*   [empyrical-reloaded (⭐37)](https://github.com/stefan-jansen/empyrical-reloaded) - Common financial risk and performance metrics. [empyrical (⭐1.2k)](https://github.com/quantopian/empyrical) fork.
+*   [pyfolio-reloaded (⭐263)](https://github.com/stefan-jansen/pyfolio-reloaded) - Portfolio and risk analytics in Python. [pyfolio (⭐5.4k)](https://github.com/quantopian/pyfolio) fork.
 
 ### Factor Analysis
 
@@ -409,7 +409,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 ## Java
 
 *   [Strata](http://strata.opengamma.io/) - Modern open-source analytics and market risk library designed and written in Java.
-*   [JQuantLib (⭐116)](https://github.com/frgomes/jquantlib) - JQuantLib is a free, open-source, comprehensive framework for quantitative finance, written in 100% Java.
+*   [JQuantLib (⭐117)](https://github.com/frgomes/jquantlib) - JQuantLib is a free, open-source, comprehensive framework for quantitative finance, written in 100% Java.
 *   [finmath.net](http://finmath.net) - Java library with algorithms and methodologies related to mathematical finance.
 *   [quantcomponents (⭐165)](https://github.com/lsgro/quantcomponents) - Free Java components for Quantitative Finance and Algorithmic Trading.
 *   [DRIP](https://lakshmidrip.github.io/DRIP) - Fixed Income, Asset Allocation, Transaction Cost Analysis, XVA Metrics Libraries.
@@ -419,7 +419,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 *   [finance.js (⭐1.2k)](https://github.com/ebradyjobory/finance.js) - A JavaScript library for common financial calculations.
 *   [portfolio-allocation (⭐169)](https://github.com/lequant40/portfolio_allocation_js) - PortfolioAllocation is a JavaScript library designed to help constructing financial portfolios made of several assets: bonds, commodities, cryptocurrencies, currencies, exchange traded funds (ETFs), mutual funds, stocks...
-*   [Ghostfolio (⭐3.2k)](https://github.com/ghostfolio/ghostfolio) - Wealth management software to keep track of financial assets like stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.
+*   [Ghostfolio (⭐3.3k)](https://github.com/ghostfolio/ghostfolio) - Wealth management software to keep track of financial assets like stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.
 *   [IndicatorTS (⭐203)](https://github.com/cinar/indicatorts) - Indicator is a TypeScript module providing various stock technical analysis indicators, strategies, and a backtest framework for trading.
 *   [ccxt (⭐31k)](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges.
 *   [PENDAX (⭐41)](https://github.com/CompendiumFi/PENDAX-SDK) - Javascript SDK for Trading/Data API and Websockets for FTX, FTXUS, OKX, Bybit, & More.
@@ -445,7 +445,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 ## Elixir/Erlang
 
-*   [Tai (⭐445)](https://github.com/fremantle-capital/tai) - Open Source composable, real time, market data and trade execution toolkit.
+*   [Tai (⭐447)](https://github.com/fremantle-capital/tai) - Open Source composable, real time, market data and trade execution toolkit.
 *   [Workbench (⭐108)](https://github.com/fremantle-industries/workbench) - From Idea to Execution - Manage your trading operation across a globally distributed cluster
 *   [Prop (⭐43)](https://github.com/fremantle-industries/prop) - An open and opinionated trading platform using productive & familiar open source libraries and tools for strategy research, execution and operation.
 
@@ -463,7 +463,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 ## Frameworks
 
 *   [QuantLib (⭐4.7k)](https://github.com/lballabio/QuantLib) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
-    *   [JQuantLib (⭐116)](https://github.com/frgomes/jquantlib) - Java port.
+    *   [JQuantLib (⭐117)](https://github.com/frgomes/jquantlib) - Java port.
     *   [RQuantLib (⭐114)](https://github.com/eddelbuettel/rquantlib) - R port.
     *   [QuantLibAddin](https://www.quantlib.org/quantlibaddin/) - Excel support.
     *   [QuantLibXL](https://www.quantlib.org/quantlibxl/) - Excel support.
@@ -490,7 +490,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 *   [LFEST (⭐40)](https://github.com/MathisWellmann/lfest-rs) - Simulated perpetual futures exchange to trade your strategy against.
 *   [TradeAggregation (⭐48)](https://github.com/MathisWellmann/trade_aggregation-rs) - Aggregate trades into user-defined candles using information driven rules.
 *   [SlidingFeatures (⭐30)](https://github.com/MathisWellmann/sliding_features-rs) - Chainable tree-like sliding windows for signal processing and technical analysis.
-*   [RustQuant (⭐766)](https://github.com/avhz/RustQuant) - Quantitative finance library written in Rust.
+*   [RustQuant (⭐796)](https://github.com/avhz/RustQuant) - Quantitative finance library written in Rust.
 *   [finalytics (⭐2)](https://github.com/Nnamdi-sys/finalytics) - A rust library for financial data analysis.
 
 ## Reproducing Works, Training & Books
@@ -537,5 +537,6 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 *   [Quant-Finance-With-Python-Code (⭐43)](https://github.com/lingyixu/Quant-Finance-With-Python-Code) - Repo for code examples in Quantitative Finance with Python by Chris Kelliher
 *   [QuantFinanceTraining (⭐6)](https://github.com/JoaoJungblut/QuantFinanceTraining) - This repository contains codes that were executed during my training in the CQF (Certificate in Quantitative Finance). The codes are organized by class, facilitating navigation and reference.
 *   [Statistical-Learning-based-Portfolio-Optimization (⭐7)](https://github.com/YannickKae/Statistical-Learning-based-Portfolio-Optimization) - This R Shiny App utilizes the Hierarchical Equal Risk Contribution (HERC) approach, a modern portfolio optimization method developed by Raffinot (2018).
-*   [book\_irds3 (⭐36)](https://github.com/attack68/book_irds3) - Code repository for Pricing and Trading Interest Rate Derivatives.
+*   [book\_irds3 (⭐39)](https://github.com/attack68/book_irds3) - Code repository for Pricing and Trading Interest Rate Derivatives.
+*   [Autoencoder-Asset-Pricing-Models (⭐34)](https://github.com/RichardS0268/Autoencoder-Asset-Pricing-Models) - Reimplementation of Autoencoder Asset Pricing Models ([GKX, 2019](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3335536))
 

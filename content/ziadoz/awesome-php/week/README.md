@@ -12,6 +12,10 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [Secure Headers (⭐482)](https://github.com/BePsvPT/secure-headers) - A package that adds security related headers to HTTP response.
 
+### Table of Contents / E-commerce
+
+*   [Shopsys Framework (⭐320)](https://github.com/shopsys/shopsys/) - An open source e-commerce platform for in-house development teams.
+
 ### Table of Contents / Strings
 
 *   [Hyphenation (⭐54)](https://github.com/heiglandreas/Org_Heigl_Hyphenator) - Text-Hyphenation based on the TeX-hyphenation Algorithm
@@ -225,10 +229,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Components
 
 *   [Aura](https://auraphp.com/) - Independent components, fully decoupled from each other and from any framework.
-
-### Table of Contents / Micro Frameworks
-
-*   [Lumen](https://lumen.laravel.com/) - A micro-framework by Laravel.
 
 ### Table of Contents / Templating
 
@@ -1126,10 +1126,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *   [Composer](https://getcomposer.org/) - A package and dependency manager.
 
 ## [Apr 03 - Apr 09, 2017](/content/2017/14/README.md)
-
-### Table of Contents / Micro Frameworks
-
-*   [Radar (⭐53)](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 
 ### Table of Contents / Routers
 

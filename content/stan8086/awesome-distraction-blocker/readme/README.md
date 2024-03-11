@@ -12,7 +12,7 @@ A curated list of top productivity distraction blocker apps
 
 > A curated list of awesome [distraction blocker apps, tools, and resources](https://productivity.directory/category/distraction-blockers) to help improve [productivity](https://productivity.directory) and focus.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. Feel free to contribute!
+Inspired by the [awesome (⭐293k)](https://github.com/sindresorhus/awesome) list thing. Feel free to contribute!
 
 ## Contents
 
@@ -46,7 +46,7 @@ This list is a collection of applications, tools, and resources for blocking dis
 
 ### Linux
 
-*   [LeechBlock NG](https://github.com/proginosko/LeechBlockNG) - A simple productivity tool designed to block distracting websites.
+*   [LeechBlock NG (⭐547)](https://github.com/proginosko/LeechBlockNG) - A simple productivity tool designed to block distracting websites.
 
 ### Browser Extensions
 
@@ -60,8 +60,8 @@ This list is a collection of applications, tools, and resources for blocking dis
 
 ## Articles and Guides
 
-*   [How to Block Distracting Websites: 3 Methods to Increase Productivity](https://example.com)
-*   [10 Tips for Reducing Distractions and Increasing Focus](https://example.com)
+*   [Top 5 Distraction Blocker Apps for Mac](https://blog.productivity.directory/top-5-distraction-blocker-apps-for-mac-a00614bc6268)
+*   [Top 6 Distraction Blocker Apps for Android](https://blog.productivity.directory/top-6-distraction-blocker-apps-for-android-5a838618e155)
 
 ## Research Papers
 
