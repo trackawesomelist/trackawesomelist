@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Mar 11, 2024](/content/2024/03/11/README.md)
+
+### Networking
+
+*   [mailio (⭐339)](https://github.com/karastojko/mailio) - mailio is a cross platform C++ library for MIME format and SMTP, POP3 and IMAP protocols. \[BSD]
+
 ## [Mar 10, 2024](/content/2024/03/10/README.md)
 
 ### Robotics

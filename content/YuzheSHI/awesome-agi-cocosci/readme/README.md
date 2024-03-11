@@ -814,6 +814,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Infinite Photorealistic Worlds Using Procedural Generation](https://openaccess.thecvf.com/content/CVPR2023/html/Raistrick_Infinite_Photorealistic_Worlds_Using_Procedural_Generation_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11620922717915489091\&hl=en\&as_sdt=0,5)]. \[[Website](https://infinigen.org/)]. \[[Supplementary Text](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Raistrick_Infinite_Photorealistic_Worlds_CVPR_2023_supplemental.pdf)]. This paper introduces Infinigen, a procedural generator of photorealistic 3D scenes of the natural world. Infinigen is entirely procedural: every asset, from shape to texture, is generated from scratch via randomized mathematical rules, using no external source and allowing infinite variation and composition.
 
+*   [PClean: Bayesian Data Cleaning at Scale with Domain-Specific Probabilistic Programming](https://proceedings.mlr.press/v130/lew21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=2892523061439714130)]. This work presents PClean, a probabilistic programming language (PPL) for leveraging dataset-specific knowledge to automate Bayesian cleaning, automating Bayesian approaches given the diversity of real-world error patterns and the hardness of inference.
+
 \*[Back to Top](#c)
 
 #### DSL Program Synthesis

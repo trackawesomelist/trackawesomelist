@@ -6,6 +6,12 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 [ [Daily](/content/ohenley/awesome-ada/README.md) / Weekly / [Overview](/content/ohenley/awesome-ada/readme/README.md) ]
 
+## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
+
+### Build and Package / Apache License
+
+*   [alr-appimage (⭐0)](https://github.com/mgrojo/alr-appimage) - A tool for automatically creating an AppImage executable from an Alire crate.
+
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
 ### News and Resources

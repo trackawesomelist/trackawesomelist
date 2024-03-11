@@ -226,6 +226,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 
 ## Validation
 
+*   [@core/match (⭐27)](https://github.com/tani/ts-match) - Type-safe destructuring assignment with pattern-match validation
 *   [io-ts (⭐6.6k)](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding
 *   [zod (⭐29k)](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
 *   [valibot (⭐4.9k)](https://github.com/fabian-hiller/valibot) - Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies.
@@ -288,7 +289,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [React & Redux in TypeScript - Static Typing Guide (⭐13k)](https://github.com/piotrwitek/react-redux-typescript-guide) The complete guide to static typing in "React & Redux" using TypeScript
 *   :octocat: [Typescript Monorepo CRA Example (⭐27)](https://github.com/deptno/typescript-monorepo-cra-example) - A minimalistic CRA + typescript monorepo.
 *   :octocat: [Typescript Monorepo Next Example (⭐44)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
-*   :stars: [Crisp React (⭐183)](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
+*   :stars: [Crisp React (⭐185)](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
 *   :book: [React by Example](https://reactbyexample.github.io/) Code-oriented React tutorial for programmers
 *   :octocat: [Materio Free MUI React NextJS Typescript Admin Template (⭐1.3k)](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. Made With Typecript & JavaScript.
 *   :octocat: [Flowbite React (⭐1.6k)](https://github.com/themesberg/flowbite-react) - Open-source component library based on React, TypeScript, and Tailwind CSS
@@ -339,7 +340,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
     *   :octocat: [Safe-TypeORM (⭐228)](https://github.com/samchon/safe-typeorm) - Enhances `TypeORM` in the compilation level and supports automated performance tuning tools through the application level joining. Furthermore, your raw SQL queries would be ensured safety by type meta programming.
 *   :octocat: [MikroORM (⭐7k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
 *   :octocat: [DrizzleORM](https://orm.drizzle.team/) - Lightweight TypeScript ORM, SQL-like library for flexible data access, serverless-ready, with zero dependencies.
-*   :octocat: [Prisma (⭐36k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
+*   :octocat: [Prisma (⭐37k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
     *   :octocat: [prisma-markdown (⭐263)](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
 *   :octocat: [Neuledge (⭐237)](https://github.com/neuledge/engine-js) - Neuledge is a universal language for databases that provides state-of-the-art tools for data modeling, business logic representation, and schema validation.
 *   :octocat: [Typetta (⭐96)](https://github.com/twinlogix/typetta) - Typescript ORM for Node.js that uses GraphQL as schema definition language | Supports all main SQL databases and MongoDB.
@@ -356,7 +357,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [sub-events (⭐36)](https://github.com/vitaly-t/sub-events) - Strongly-typed events.
 *   :octocat: [ts-audio (⭐306)](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
 *   :octocat: [tslog (⭐1.2k)](https://github.com/fullstack-build/tslog) - A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage
-*   :octocat: [tsParticles (⭐6.4k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
+*   :octocat: [tsParticles (⭐6.7k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
 *   :octocat: [statek (⭐9)](https://github.com/pie6k/statek) - Reactive state management library
 *   :octocat: [Injex](https://www.injex.dev/) - Simple, Decorated, Pluggable dependency-injection framework for TypeScript applications
 *   :octocat: [tRPC](https://www.trpc.io/) - TypeScript toolkit for building end-to-end type-safe APIs
