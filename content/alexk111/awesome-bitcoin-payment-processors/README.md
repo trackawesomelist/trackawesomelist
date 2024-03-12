@@ -2,9 +2,27 @@
 
 🌟 A curated list of Bitcoin payment processors enabling merchants, businesses and nonprofits to accept Bitcoin payments.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/alexk111/awesome-bitcoin-payment-processors/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 alexk111/awesome-bitcoin-payment-processors](https://github.com/alexk111/awesome-bitcoin-payment-processors) · ⭐ 364 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/alexk111/awesome-bitcoin-payment-processors/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 alexk111/awesome-bitcoin-payment-processors](https://github.com/alexk111/awesome-bitcoin-payment-processors) · ⭐ 379 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md) / [Overview](/content/alexk111/awesome-bitcoin-payment-processors/readme/README.md) ]
+
+## [Mar 12, 2024](/content/2024/03/12/README.md)
+
+### Hosted Bitcoin Payment Processors / Non-Custodial
+
+- Processor: [Zaprite](https://zaprite.com/)
+
+  Fees: $25 per month
+
+  Lightning: Yes
+
+  Directly to Your Wallet: Yes
+
+  Conversion to Fiat: No
+
+  Requirements: No
+
+
 
 ## [Jan 05, 2024](/content/2024/01/05/README.md)
 
@@ -41,7 +59,7 @@
 
 ### Self-Hosted Bitcoin Payment Processors
 
-- Processor: [LNURL Daemon (⭐10)](https://github.com/yanascz/lnurld)
+- Processor: [LNURL Daemon (⭐12)](https://github.com/yanascz/lnurld)
 
   Fees: No fees
 
@@ -59,7 +77,7 @@
 
 ### Self-Hosted Bitcoin Payment Processors
 
-- Processor: [SatSale (⭐210)](https://github.com/SatSale/SatSale)
+- Processor: [SatSale (⭐218)](https://github.com/SatSale/SatSale)
 
   Fees: No fees
 
@@ -67,12 +85,12 @@
 
   Directly to Your Wallet: Yes
 
-  Conversion to Fiat: Weakhands: [swap to USDT on Liquid (⭐210)](https://github.com/SatSale/SatSale/blob/471c8c03bbc269df1f322f6484b6e7a7364e5b34/config.toml#L101), no-KYC
+  Conversion to Fiat: Weakhands: [swap to USDT on Liquid (⭐218)](https://github.com/SatSale/SatSale/blob/471c8c03bbc269df1f322f6484b6e7a7364e5b34/config.toml#L101), no-KYC
 
   Requirements: Python. Bitcoin node, Lightning node & WooCommerce optional.
 
 
-- Processor: [Keagate (⭐112)](https://github.com/dilan-dio4/Keagate)
+- Processor: [Keagate (⭐116)](https://github.com/dilan-dio4/Keagate)
 
   Fees: No fees
 
@@ -307,7 +325,7 @@
 
 ### Self-Hosted Bitcoin Payment Processors
 
-- Processor: [LnMe (⭐159)](https://github.com/bumi/lnme)
+- Processor: [LnMe (⭐161)](https://github.com/bumi/lnme)
 
   Fees: No fees
 
@@ -361,7 +379,7 @@
 
 ### Self-Hosted Bitcoin Payment Processors
 
-- Processor: [One Time Address (⭐60)](https://github.com/alexk111/One-Time-Address)
+- Processor: [One Time Address (⭐63)](https://github.com/alexk111/One-Time-Address)
 
   Fees: No fees
 

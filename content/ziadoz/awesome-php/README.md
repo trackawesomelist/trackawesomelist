@@ -6,6 +6,16 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 [ Daily / [Weekly](/content/ziadoz/awesome-php/week/README.md) / [Overview](/content/ziadoz/awesome-php/readme/README.md) ]
 
+## [Mar 12, 2024](/content/2024/03/12/README.md)
+
+### Table of Contents / Micro Frameworks
+
+*   [Minicli (⭐1k)](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
+
+### Table of Contents / Code Analysis
+
+*   [Editorconfig-Checker (⭐53)](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
+
 ## [Mar 11, 2024](/content/2024/03/11/README.md)
 
 ### Table of Contents / Security

@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Mar 12, 2024](/content/2024/03/12/README.md)
+
+### Other / [Other](#other-1)
+
+*   [lintian](https://wiki.debian.org/Lintian) — Static analysis tool for Debian packages.
+*   [proselint (⭐4.3k)](https://github.com/amperser/proselint) — A linter for English prose with a focus on writing style instead of grammar.
+
 ## [Mar 04, 2024](/content/2024/03/04/README.md)
 
 ### Multiple languages / [Other](#other-1)
@@ -66,7 +73,7 @@
 
 ### Other / [Other](#other-1)
 
-*   [promformat (⭐31)](https://github.com/facetoe/promformat) — Promformat is a PromQL formatter written in Python.
+*   [promformat (⭐31)](https://github.com/facetoe/promformat) :warning: — Promformat is a PromQL formatter written in Python.
 *   [promval (⭐3)](https://github.com/facetoe/promval) — PromQL validator written in Python. It can be used to validate that PromQL expressions are written as expected.
 
 ## [Dec 05, 2023](/content/2023/12/05/README.md)
@@ -475,7 +482,7 @@
 *   [phpsa (⭐641)](https://github.com/ovr/phpsa) :warning: — Static analysis tool for PHP.
 *   [Qafoo Quality Analyzer (⭐491)](https://github.com/Qafoo/QualityAnalyzer) :warning: — Visualizes metrics and source code.
 *   [bellybutton (⭐262)](https://github.com/hchasestevens/bellybutton) — A linting engine supporting custom project-specific rules.
-*   [cohesion (⭐220)](https://github.com/mschwager/cohesion) — A tool for measuring Python class cohesion.
+*   [cohesion (⭐220)](https://github.com/mschwager/cohesion) :warning: — A tool for measuring Python class cohesion.
 *   [InspectorTiger (⭐78)](https://github.com/thg-consulting/it) :warning: — IT, Inspector Tiger, is a modern python code review tool / framework. It comes with bunch of pre-defined handlers which warns you about improvements and possible bugs. Beside these handlers, you can write your own or use community ones.
 *   [cyclocomp (⭐46)](https://github.com/MangoTheCat/cyclocomp) — Quantifies the cyclomatic complexity of R functions / expressions.
 *   [cane (⭐1.3k)](https://github.com/square/cane) :warning: — Code quality threshold checking as part of your build.
@@ -722,13 +729,13 @@
 *   [Parse (⭐355)](https://github.com/psecio/parse) — A Static Security Scanner.
 *   [pdepend](https://pdepend.org) — Calculates software metrics like cyclomatic complexity for PHP code.
 *   [phan (⭐5.5k)](https://github.com/phan/phan/wiki) — A modern static analyzer from etsy.
-*   [PHP Architecture Tester (⭐975)](https://github.com/carlosas/phpat) — Easy to use architecture testing tool for PHP.
+*   [PHP Architecture Tester (⭐986)](https://github.com/carlosas/phpat) — Easy to use architecture testing tool for PHP.
 *   [PHP Assumptions (⭐155)](https://github.com/rskuipers/php-assumptions) — Checks for weak assumptions.
 *   [PHP Coding Standards Fixer](https://cs.symfony.com) — Fixes your code according to standards like PSR-1, PSR-2, and the Symfony standard.
 *   [PHP Insights](https://phpinsights.com) — Instant PHP quality checks from your console. Analysis of code quality and coding style as well as overview of code architecture and its complexity.
 *   [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-) — A Static Code Analyzer for PHP.
 *   [PHP Semantic Versioning Checker (⭐425)](https://github.com/tomzx/php-semver-checker) — Suggests a next version according to semantic versioning.
-*   [PHP-Parser (⭐16k)](https://github.com/nikic/PHP-Parser) — A PHP parser written in PHP.
+*   [PHP-Parser (⭐17k)](https://github.com/nikic/PHP-Parser) — A PHP parser written in PHP.
 *   [php-speller (⭐67)](https://github.com/mekras/php-speller) — PHP spell check library.
 *   [php7cc (⭐1.5k)](https://github.com/sstalle/php7cc) :warning: — PHP 7 Compatibility Checker.
 *   [php7mar (⭐797)](https://github.com/Alexia/php7mar) :warning: — Assist developers in porting their code quickly to PHP 7.
@@ -823,7 +830,7 @@
 *   [SQLFluff](https://www.sqlfluff.com/) — Multiple dialect SQL linter and formatter.
 *   [sqlint (⭐409)](https://github.com/purcell/sqlint) — Simple SQL linter.
 *   [squawk](https://squawkhq.com) — Linter for PostgreSQL, focused on migrations. Prevents unexpected downtime caused by database migrations and encourages best practices around Postgres schemas and SQL.
-*   [tsqllint (⭐201)](https://github.com/tsqllint/tsqllint) — T-SQL-specific linter.
+*   [tsqllint (⭐202)](https://github.com/tsqllint/tsqllint) — T-SQL-specific linter.
 *   [Visual Expert](https://www.visual-expert.com) :copyright: — Code analysis for PowerBuilder, Oracle, and SQL Server Explores, analyzes, and documents Code
 *   [Scalastyle](http://www.scalastyle.org) — Scalastyle examines your Scala code and indicates potential problems with it.
 *   [scapegoat (⭐508)](https://github.com/sksamuel/scapegoat) — Scala compiler plugin for static code analysis.
@@ -978,7 +985,6 @@
 *   [languagetool](https://languagetool.org) — Style and grammar checker for 25+ languages. It finds many errors that a simple spell checker cannot detect.
 *   [misspell-fixer (⭐190)](https://github.com/vlajos/misspell-fixer) :warning: — Quick tool for fixing common misspellings, typos in source code.
 *   [Misspelled Words In Context](https://jwilk.net/software/mwic) — A spell-checker that groups possible misspellings and shows them in their contexts.
-*   [proselint](http://proselint.com) — A linter for English prose with a focus on writing style instead of grammar.
 *   [write-good (⭐4.9k)](https://github.com/btford/write-good) — A linter with a focus on eliminating "weasel words".
 
 ### Multiple languages / [Other](#other-1)
@@ -1132,7 +1138,6 @@
 *   [markdownlint (⭐4.3k)](https://github.com/DavidAnson/markdownlint) — Node.js -based style checker and lint tool for Markdown/CommonMark files.
 *   [Android Lint](http://tools.android.com/tips/lint) — Run static analysis on Android projects.
 *   [deadnix (⭐369)](https://github.com/astro/deadnix) — Scan Nix files for dead code (unused variable bindings)
-*   [lintian](https://lintian.debian.org) — Static analysis tool for Debian packages.
 *   [buf](https://buf.build) — Provides a CLI linter that enforces good API design choices and structure
 *   [mythril (⭐3.7k)](https://github.com/ConsenSys/mythril) — A symbolic execution framework with batteries included, can be used to find and exploit vulnerabilities in smart contracts automatically.
 *   [LibVCS4j (⭐21)](https://github.com/uni-bremen-agst/libvcs4j) — A Java library that allows existing tools to analyse the evolution of software systems by providing a common API for different version control systems and issue trackers.

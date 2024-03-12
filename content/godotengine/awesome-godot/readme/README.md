@@ -241,9 +241,11 @@ See [Vivraan/godot-lang-support (⭐295)](https://github.com/Vivraan/godot-lang-
 *   [SimpleGodotCRTShader (⭐333)](https://github.com/henriquelalves/SimpleGodotCRTShader) - A simple Godot shader that simulates CRT Displays (Godot 2.x, 3.x).
 *   [Simplified Flight Simulation library (⭐137)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x, 4.x).
 *   [SignalVisualizer (⭐151)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock (Godot 4.x).
+*   [SmartShape2D (⭐1k)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool (Godot 3.x, 4.x).
 *   [StoryTeller Engine (⭐26)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
 *   [Tiled importer (⭐786)](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/) (Godot 3.x).
 *   [TileSet Builder (⭐17)](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style (Godot 3.x).
+*   [Virtual Joystick (⭐550)](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot) - A virtual joystick for touchscreens. Simple to use and with useful options (Godot 3.x, 4.x).
 
 #### Godot 4.2+
 
@@ -287,7 +289,6 @@ See [Vivraan/godot-lang-support (⭐295)](https://github.com/Vivraan/godot-lang-
 *   [Qodot (⭐941)](https://github.com/Shfty/qodot-plugin) - Quake `.map` file support for Godot. Lets you use [TrenchBroom](https://kristianduske.com/trenchbroom/) for level design.
 *   [Scatter (⭐1.8k)](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.
 *   [Shell Fur (⭐280)](https://github.com/Arnklit/ShellFurGodot) - 3D fur node for Godot.
-*   [SmartShape2D (⭐1k)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
 *   [Tree generator (⭐152)](https://github.com/Zylann/godot_tree_generator_plugin) - Tool for generating trees.
 *   [UI Design Tool (⭐336)](https://github.com/imjp94/UIDesignTool) - Intuitive design workflow for UIs in the editor.
 *   [Volumetrics (⭐311)](https://github.com/SIsilicon/Godot-Volumetrics-Plugin) - Voxel-based volumetric lighting and fog plugin.
@@ -332,7 +333,7 @@ See [Vivraan/godot-lang-support (⭐295)](https://github.com/Vivraan/godot-lang-
 *   [Entity Spell System (⭐137)](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs (Godot 3.2, 4.0).
 *   [godot-anl (⭐108)](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library (⭐77)](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
 *   [godot-box2d (⭐238)](https://github.com/appsinacup/godot-box2d) - A [Box2D (⭐7.2k)](https://github.com/erincatto/box2d) physics server for Godot (Godot 4.2).
-*   [godot-jolt (⭐1.5k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐5k)](https://github.com/jrouwe/JoltPhysics) (Godot 4.2).
+*   [godot-jolt (⭐1.5k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐5.1k)](https://github.com/jrouwe/JoltPhysics) (Godot 4.2).
 *   [godot-luaAPI (⭐294)](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua (Godot 3.2+, 4.0).
 *   [godot-rapier-2d (⭐81)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐3.4k)](https://github.com/dimforge/rapier) physics server for Godot (Godot 4.2).
 *   [godot-python (⭐1.7k)](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
@@ -426,7 +427,6 @@ See [Vivraan/godot-lang-support (⭐295)](https://github.com/Vivraan/godot-lang-
 *   [Godot Asset Library](https://godotengine.org/asset-library/asset) - Official Godot Asset Library. Includes user-created games, projects, templates, demos, tutorials, plugins, and scripts.
 *   [Godot Shaders](https://godotshaders.com/) - A community-driven shader library for the Godot game engine.
 *   [Godotes](https://godotes.com/) - Weekly micro data analysis reports about the Godot engine and its ecosystem.
-*   [Gotm.io](https://gotm.io/about) - A website for hosting HTML5 games that were made in Godot.
 
 ## Other
 

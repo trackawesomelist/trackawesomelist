@@ -8,9 +8,17 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
 
+### Table of Contents / Micro Frameworks
+
+*   [Minicli (⭐1k)](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
+
 ### Table of Contents / Security
 
 *   [Secure Headers (⭐482)](https://github.com/BePsvPT/secure-headers) - A package that adds security related headers to HTTP response.
+
+### Table of Contents / Code Analysis
+
+*   [Editorconfig-Checker (⭐53)](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
 
 ### Table of Contents / E-commerce
 

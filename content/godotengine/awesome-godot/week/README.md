@@ -6,6 +6,12 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ [Daily](/content/godotengine/awesome-godot/README.md) / Weekly / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
+
+### Plugins and scripts / Various Godot versions
+
+*   [Virtual Joystick (⭐550)](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot) - A virtual joystick for touchscreens. Simple to use and with useful options (Godot 3.x, 4.x).
+
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
 ### Plugins and scripts / Various Godot versions
@@ -53,7 +59,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 ### Modules / Various Godot versions
 
 *   [godot-box2d (⭐238)](https://github.com/appsinacup/godot-box2d) - A [Box2D (⭐7.2k)](https://github.com/erincatto/box2d) physics server for Godot (Godot 4.2).
-*   [godot-jolt (⭐1.5k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐5k)](https://github.com/jrouwe/JoltPhysics) (Godot 4.2).
+*   [godot-jolt (⭐1.5k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐5.1k)](https://github.com/jrouwe/JoltPhysics) (Godot 4.2).
 *   [godot-rapier-2d (⭐81)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐3.4k)](https://github.com/dimforge/rapier) physics server for Godot (Godot 4.2).
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
@@ -441,11 +447,11 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 ### Plugins and scripts / Various Godot versions
 
 *   [Anima (⭐575)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
+*   [SmartShape2D (⭐1k)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool (Godot 3.x, 4.x).
 
 ### Plugins and scripts / Godot 3.2+
 
 *   [Godot GamePad (⭐111)](https://github.com/ACB-prgm/Godot_GamePad) - Allows players to use their mobile devices as controllers.
-*   [SmartShape2D (⭐1k)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
 
 ### Modules / Godot 4.0
 
@@ -489,7 +495,6 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 ### Websites / Godot version unknown
 
 *   [Godot Shaders](https://godotshaders.com/) - A community-driven shader library for the Godot game engine.
-*   [Gotm.io](https://gotm.io/about) - A website for hosting HTML5 games that were made in Godot.
 
 ## [Jan 18 - Jan 24, 2021](/content/2021/3/README.md)
 

@@ -764,7 +764,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐848)](https://g
 
 *   [phan (⭐5.5k)](https://github.com/phan/phan/wiki) — A modern static analyzer from etsy.
 
-*   [PHP Architecture Tester (⭐975)](https://github.com/carlosas/phpat) — Easy to use architecture testing tool for PHP.
+*   [PHP Architecture Tester (⭐986)](https://github.com/carlosas/phpat) — Easy to use architecture testing tool for PHP.
 
 *   [PHP Assumptions (⭐155)](https://github.com/rskuipers/php-assumptions) — Checks for weak assumptions.
 
@@ -778,7 +778,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐848)](https://g
 
 *   [PHP Semantic Versioning Checker (⭐425)](https://github.com/tomzx/php-semver-checker) — Suggests a next version according to semantic versioning.
 
-*   [PHP-Parser (⭐16k)](https://github.com/nikic/PHP-Parser) — A PHP parser written in PHP.
+*   [PHP-Parser (⭐17k)](https://github.com/nikic/PHP-Parser) — A PHP parser written in PHP.
 
 *   [php-speller (⭐67)](https://github.com/mekras/php-speller) — PHP spell check library.
 
@@ -880,7 +880,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐848)](https://g
 
 *   [Codemodder](https://codemodder.io/) — Codemodder is a pluggable framework for building expressive codemods. Use Codemodder when you need more than a linter or code formatting tool. Use it to fix non-trivial security issues and other code quality problems.
 
-*   [cohesion (⭐220)](https://github.com/mschwager/cohesion) — A tool for measuring Python class cohesion.
+*   [cohesion (⭐220)](https://github.com/mschwager/cohesion) :warning: — A tool for measuring Python class cohesion.
 
 *   [deal](https://deal.readthedocs.io/) — Design by contract for Python. Write bug-free code.  By adding a few decorators to your code, you get for free tests, static analysis, formal verification, and much more.
 
@@ -1131,7 +1131,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐848)](https://g
 
 *   [squawk](https://squawkhq.com) — Linter for PostgreSQL, focused on migrations. Prevents unexpected downtime caused by database migrations and encourages best practices around Postgres schemas and SQL.
 
-*   [tsqllint (⭐201)](https://github.com/tsqllint/tsqllint) — T-SQL-specific linter.
+*   [tsqllint (⭐202)](https://github.com/tsqllint/tsqllint) — T-SQL-specific linter.
 
 *   [TSqlRules (⭐29)](https://github.com/ashleyglee/TSqlRules) :warning: — TSQL Static Code Analysis Rules for SQL Server.
 
@@ -1889,14 +1889,14 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐848)](https://g
 <a name="package" />
 <h2>Packages</h2>
 
-*   [lintian](https://lintian.debian.org) — Static analysis tool for Debian packages.
+*   [lintian](https://wiki.debian.org/Lintian) — Static analysis tool for Debian packages.
 
 *   [rpmlint (⭐123)](https://github.com/rpm-software-management/rpmlint) — Tool for checking common errors in rpm packages.
 
 <a name="prometheus" />
 <h2>Prometheus</h2>
 
-*   [promformat (⭐31)](https://github.com/facetoe/promformat) — Promformat is a PromQL formatter written in Python.
+*   [promformat (⭐31)](https://github.com/facetoe/promformat) :warning: — Promformat is a PromQL formatter written in Python.
 
 *   [promval (⭐3)](https://github.com/facetoe/promval) — PromQL validator written in Python. It can be used to validate that PromQL expressions are written as expected.
 
@@ -2064,7 +2064,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐848)](https://g
 
 *   [Misspelled Words In Context](https://jwilk.net/software/mwic) — A spell-checker that groups possible misspellings and shows them in their contexts.
 
-*   [proselint](http://proselint.com) — A linter for English prose with a focus on writing style instead of grammar.
+*   [proselint (⭐4.3k)](https://github.com/amperser/proselint) — A linter for English prose with a focus on writing style instead of grammar.
 
 *   [vale](https://vale.sh) — A syntax-aware linter for prose built with speed and extensibility in mind.
 

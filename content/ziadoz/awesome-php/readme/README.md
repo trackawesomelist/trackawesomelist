@@ -194,6 +194,7 @@ Please see [CONTRIBUTING (⭐30k)](https://github.com/ziadoz/awesome-php/blob/ma
 
 *   [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
 *   [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
+*   [Minicli (⭐1k)](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
 *   [Silly (⭐892)](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
 *   [Slim](https://www.slimframework.com/) - Another simple micro framework.
 
@@ -423,6 +424,7 @@ Please see [CONTRIBUTING (⭐30k)](https://github.com/ziadoz/awesome-php/blob/ma
 
 *   [Better Reflection (⭐1.2k)](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
 *   [Code Climate](https://codeclimate.com) - An automated code review.
+*   [Editorconfig-Checker (⭐53)](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
 *   [GrumPHP (⭐4.1k)](https://github.com/phpro/grumphp) - A PHP code-quality tool.
 *   [PHP Magic Number Detector (⭐542)](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
 *   [PHP Parser (⭐17k)](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
