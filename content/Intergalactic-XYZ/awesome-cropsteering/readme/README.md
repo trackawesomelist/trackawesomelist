@@ -50,7 +50,7 @@ Curated by [IXYZ](https://ixyz.ai/) list of OpenSource projects in indoor/outdoo
 ## **AI/ML**
 
 *   [OpenWeedLocator (⭐284)](https://github.com/geezacoleman/OpenWeedLocator) - Opensource hardware and software weed detector that uses entirely off-the-shelf componentry, very simple green-detection algorithms (with capacity to upgrade to in-crop detection) and 3D printable parts
-*   [Plant disease (⭐33)](https://github.com/morenoh149/plantdisease) - Predictive model for cannabis sickness. One source identifies 30 types of cannabis ailments.
+*   [Plant disease (⭐34)](https://github.com/morenoh149/plantdisease) - Predictive model for cannabis sickness. One source identifies 30 types of cannabis ailments.
 
 **[⬆ back to top](#contents)**
 
@@ -62,7 +62,7 @@ Curated by [IXYZ](https://ixyz.ai/) list of OpenSource projects in indoor/outdoo
 
 *   [Mycodo (⭐2.8k)](https://github.com/kizniche/Mycodo) - Mycodo is open source software for the Raspberry Pi that couples inputs and outputs in interesting ways to sense and manipulate the environment
 
-*   [gardenAutomation (⭐384)](https://github.com/ledgardener/gardenAutomation) - Garden Automation toolkit by [LedGardener](https://ledgardener.com/category/builds/)
+*   [gardenAutomation (⭐392)](https://github.com/ledgardener/gardenAutomation) - Garden Automation toolkit by [LedGardener](https://ledgardener.com/category/builds/)
 
 *   [WEGA-Box (⭐12)](https://github.com/WEGA-project/wegabox) - Hydroponic system management toolkit
 
@@ -153,6 +153,8 @@ Curated by [IXYZ](https://ixyz.ai/) list of OpenSource projects in indoor/outdoo
 
 *   [Adafruit](https://www.adafruit.com/category/946) - Adafruit ESP32 modules
 
+*   [M5 Stack](https://m5stack.com/) - Standard 5×5cm functionally stacking modularized components hardware system
+
 #### Sensors
 
 *   [Atlas Scientific](https://atlas-scientific.com/probes/) - T/H, Pressure, pH, EC, ORP probes and interface boards. Dosing pumps, flowmeters. Lab grade.
@@ -174,6 +176,8 @@ Curated by [IXYZ](https://ixyz.ai/) list of OpenSource projects in indoor/outdoo
 *   [OpenSprinkler Hardware (⭐59)](https://github.com/OpenSprinkler/OpenSprinkler-Hardware) - OpenSprinkler Hardware Design files, made in EagleCAD software
 
 *   [SENTSOR Core ESP32-EMBED (⭐7)](https://github.com/adamalfath/sentsor-core-esp32embed) - all-in-one, super low power development board based on latest revision of ESP32 chip. BOM, easyEDA PCB blueprints
+
+*   [Hydromisc (⭐491)](https://github.com/hydromisc/hydromisc) - A single PCBA with all the necessary I/O to automate a typical small to mid-size hydroponic grow, controllable over Wifi. It may also be suitable for aquariums, ponds, or any other biological or chemical process involving water treatment
 
 **[⬆ back to top](#contents)**
 

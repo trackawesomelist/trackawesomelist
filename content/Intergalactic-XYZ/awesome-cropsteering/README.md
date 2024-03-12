@@ -6,6 +6,16 @@ Curated by IXYZ list of OpenSource projects in indoor/outdoor agriculture automa
 
 [ Daily / [Weekly](/content/Intergalactic-XYZ/awesome-cropsteering/week/README.md) / [Overview](/content/Intergalactic-XYZ/awesome-cropsteering/readme/README.md) ]
 
+## [Mar 12, 2024](/content/2024/03/12/README.md)
+
+### Components / Tasmota Configs
+
+*   [M5 Stack](https://m5stack.com/) - Standard 5×5cm functionally stacking modularized components hardware system
+
+### DIY / Modular systems
+
+*   [Hydromisc (⭐491)](https://github.com/hydromisc/hydromisc) - A single PCBA with all the necessary I/O to automate a typical small to mid-size hydroponic grow, controllable over Wifi. It may also be suitable for aquariums, ponds, or any other biological or chemical process involving water treatment
+
 ## [Feb 28, 2024](/content/2024/02/28/README.md)
 
 ### **Grow Automation**
@@ -50,11 +60,11 @@ Curated by IXYZ list of OpenSource projects in indoor/outdoor agriculture automa
 
 ### **AI/ML**
 
-*   [Plant disease (⭐33)](https://github.com/morenoh149/plantdisease) - Predictive model for cannabis sickness. One source identifies 30 types of cannabis ailments.
+*   [Plant disease (⭐34)](https://github.com/morenoh149/plantdisease) - Predictive model for cannabis sickness. One source identifies 30 types of cannabis ailments.
 
 ### **Grow Automation**
 
-*   [gardenAutomation (⭐384)](https://github.com/ledgardener/gardenAutomation) - Garden Automation toolkit by [LedGardener](https://ledgardener.com/category/builds/)
+*   [gardenAutomation (⭐392)](https://github.com/ledgardener/gardenAutomation) - Garden Automation toolkit by [LedGardener](https://ledgardener.com/category/builds/)
 
 ## [Feb 12, 2024](/content/2024/02/12/README.md)
 

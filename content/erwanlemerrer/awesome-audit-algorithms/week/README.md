@@ -6,6 +6,18 @@ A curated list of algorithms and papers for auditing black-box algorithms.
 
 [ [Daily](/content/erwanlemerrer/awesome-audit-algorithms/README.md) / Weekly / [Overview](/content/erwanlemerrer/awesome-audit-algorithms/readme/README.md) ]
 
+## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
+
+### Papers / 2024
+
+*   [FairProof: Confidential and Certifiable Fairness for Neural Networks](https://arxiv.org/pdf/2402.12572v1.pdf) - *Proposes an alternative paradigm to traditional auditing using crytographic tools like Zero-Knowledge Proofs; gives a system called FairProof for verifying fairness of small neural networks.*
+
+### Papers / 2023
+
+*   [XAudit : A Theoretical Look at Auditing with Explanations](https://arxiv.org/pdf/2206.04740.pdf) - *Formalizes the role of explanations in auditing and investigates if and how model explanations
+    can help audits.*
+*   [Keeping Up with the Language Models: Robustness-Bias Interplay in NLI Data and Models](https://arxiv.org/pdf/2305.12620.pdf) - *Proposes a way to extend the shelf-life of auditing datasets by using language models themselves; also finds problems with the current bias auditing metrics and proposes alternatives -- these alternatives highlight that model brittleness superficially increased the previous bias scores.*
+
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
 ### Related Events / 2005

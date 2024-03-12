@@ -6,6 +6,16 @@ Curated by IXYZ list of OpenSource projects in indoor/outdoor agriculture automa
 
 [ [Daily](/content/Intergalactic-XYZ/awesome-cropsteering/README.md) / Weekly / [Overview](/content/Intergalactic-XYZ/awesome-cropsteering/readme/README.md) ]
 
+## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
+
+### Components / Tasmota Configs
+
+*   [M5 Stack](https://m5stack.com/) - Standard 5×5cm functionally stacking modularized components hardware system
+
+### DIY / Modular systems
+
+*   [Hydromisc (⭐491)](https://github.com/hydromisc/hydromisc) - A single PCBA with all the necessary I/O to automate a typical small to mid-size hydroponic grow, controllable over Wifi. It may also be suitable for aquariums, ponds, or any other biological or chemical process involving water treatment
+
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
 ### **Grow Automation**
@@ -33,14 +43,14 @@ Curated by IXYZ list of OpenSource projects in indoor/outdoor agriculture automa
 ### **AI/ML**
 
 *   [OpenWeedLocator (⭐284)](https://github.com/geezacoleman/OpenWeedLocator) - Opensource hardware and software weed detector that uses entirely off-the-shelf componentry, very simple green-detection algorithms (with capacity to upgrade to in-crop detection) and 3D printable parts
-*   [Plant disease (⭐33)](https://github.com/morenoh149/plantdisease) - Predictive model for cannabis sickness. One source identifies 30 types of cannabis ailments.
+*   [Plant disease (⭐34)](https://github.com/morenoh149/plantdisease) - Predictive model for cannabis sickness. One source identifies 30 types of cannabis ailments.
 
 ### **Grow Automation**
 
 *   [DROMatic OS (⭐297)](https://github.com/drolsen/DRO-Matic) - The DRO-Matic OS has been built to automate nearly every aspect of hydroponic farming for you! From nutrient dosing to pH / EC drift fixing, feeding types to draining, top-offs and even timers; we have quantified everything you need to automate successful crops.
 *   [MudPi (⭐259)](https://github.com/mudpi/mudpi-core) - A python package to gather sensor readings, trigger components, control devices and more in an event based system that can be run on a linux SBC, including Raspberry Pi
 *   [Mycodo (⭐2.8k)](https://github.com/kizniche/Mycodo) - Mycodo is open source software for the Raspberry Pi that couples inputs and outputs in interesting ways to sense and manipulate the environment
-*   [gardenAutomation (⭐384)](https://github.com/ledgardener/gardenAutomation) - Garden Automation toolkit by [LedGardener](https://ledgardener.com/category/builds/)
+*   [gardenAutomation (⭐392)](https://github.com/ledgardener/gardenAutomation) - Garden Automation toolkit by [LedGardener](https://ledgardener.com/category/builds/)
 *   [WEGA-Box (⭐12)](https://github.com/WEGA-project/wegabox) - Hydroponic system management toolkit
 
 ### **Calculators**

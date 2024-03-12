@@ -64,19 +64,62 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [QuackOSM (⭐66)](https://github.com/kraina-ai/quackosm) - A Python library for downloading, filtering and transforming `*.osm.pbf` files into `GeoParquet` files using DuckDB.
 
-#### [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [7. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 
-##### Libraries/Frameworks / Logging
+##### Hosted Bitcoin Payment Processors / Non-Custodial
 
-*   [Foso/Cabret-Log (⭐196)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
+- Processor: [Zaprite](https://zaprite.com/)
 
-##### Libraries/Frameworks / Mail
+  Fees: $25 per month
 
-*   [bluefireoly/SimpleKotlinMail (⭐60)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
+  Lightning: Yes
 
-##### Projects / Web
+  Directly to Your Wallet: Yes
 
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
+  Conversion to Fiat: No
+
+  Requirements: No
+
+
+
+#### [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
+
+##### Table of Contents / Micro Frameworks
+
+*   [Minicli (⭐1k)](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
+
+##### Table of Contents / Code Analysis
+
+*   [Editorconfig-Checker (⭐53)](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
+
+#### [9. Awesome Math](/content/rossant/awesome-math/README.md)
+
+##### Encyclopedia
+
+*   💲 [The Princeton Companion to Mathematics](https://press.princeton.edu/books/hardcover/9780691118802/the-princeton-companion-to-mathematics) - Timothy Gowers (Professor, Fields medallist), June Barrow-Green (Professor), and Imre Leader (Professor).
+*   💲 [Encyclopedia of Distances (4th Edition)](https://link.springer.com/book/10.1007/978-3-662-52844-0) - Michel Marie Deza, Elena Deza.
+
+##### Foundations of Mathematics / Transition To Pure Rigour Math
+
+*   📖💲 [How to Prove It: A Structured Approach (3rd Edition)](https://www.cambridge.org/highereducation/books/how-to-prove-it/6D2965D625C6836CD4A785A2C843B3DA) - Daniel J. Velleman (Professor).
+
+#### [10. Amas](/content/sindresorhus/amas/README.md)
+
+##### Ask these people anything!
+
+*   [Jan-Hendrik Heuing (⭐0)](https://github.com/jheuing/ama) - Developer, team lead, CTO, consultant.
+
+#### [11. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md)
+
+##### Components / Tasmota Configs
+
+*   [M5 Stack](https://m5stack.com/) - Standard 5×5cm functionally stacking modularized components hardware system
+
+##### DIY / Modular systems
+
+*   [Hydromisc (⭐491)](https://github.com/hydromisc/hydromisc) - A single PCBA with all the necessary I/O to automate a typical small to mid-size hydroponic grow, controllable over Wifi. It may also be suitable for aquariums, ponds, or any other biological or chemical process involving water treatment
+
+#### [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Projects / Build tools
 
@@ -141,44 +184,34 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-#### [8. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
+#### [13. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
-##### Hosted Bitcoin Payment Processors / Non-Custodial
+##### Papers / 2024
 
-- Processor: [Zaprite](https://zaprite.com/)
+*   [FairProof: Confidential and Certifiable Fairness for Neural Networks](https://arxiv.org/pdf/2402.12572v1.pdf) - *Proposes an alternative paradigm to traditional auditing using crytographic tools like Zero-Knowledge Proofs; gives a system called FairProof for verifying fairness of small neural networks.*
 
-  Fees: $25 per month
+##### Papers / 2023
 
-  Lightning: Yes
+*   [XAudit : A Theoretical Look at Auditing with Explanations](https://arxiv.org/pdf/2206.04740.pdf) - *Formalizes the role of explanations in auditing and investigates if and how model explanations
+    can help audits.*
+*   [Keeping Up with the Language Models: Robustness-Bias Interplay in NLI Data and Models](https://arxiv.org/pdf/2305.12620.pdf) - *Proposes a way to extend the shelf-life of auditing datasets by using language models themselves; also finds problems with the current bias auditing metrics and proposes alternatives -- these alternatives highlight that model brittleness superficially increased the previous bias scores.*
 
-  Directly to Your Wallet: Yes
+#### [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-  Conversion to Fiat: No
+##### Meta-Level Considerations / Rationality
 
-  Requirements: No
+*   [Cognitive Science as a Source of Forward and Inverse Models of Human Decisions for Robotics and Control](https://cocosci.princeton.edu/papers/ho2022cognitive.pdf) - ***Annual Review of Control, Robotics, and Autonomous Systems***, 2022. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&cluster=14055765901243029337)]. The review focuses on how cognitive science can provide forward models of human decision-making and inverse models of how humans think about others’ decision-making. The authors highlight relevant recent developments, including approaches that synthesize black box and theory-driven modeling, accounts that recast heuristics and biases as forms of bounded optimality, and models that characterize human theory of mind and communication in decision-theoretic terms.
 
+#### [15. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
+##### Image Generator
 
-#### [9. Awesome Php](/content/ziadoz/awesome-php/README.md)
+*   [Bing Image Creator](https://www.bing.com/images/create) - Image Creator from Microsoft Designer allows you to generate captivating images based on your words using AI. `freemium`
+*   [Playground AI](https://playground.com/) - Free-to-use online tool to create art, social media posts, presentations, posters, videos, logos and more. `#free`
 
-##### Table of Contents / Micro Frameworks
+##### Real Estate
 
-*   [Minicli (⭐1k)](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
-
-##### Table of Contents / Code Analysis
-
-*   [Editorconfig-Checker (⭐53)](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
-
-#### [10. Awesome Math](/content/rossant/awesome-math/README.md)
-
-##### Encyclopedia
-
-*   💲 [The Princeton Companion to Mathematics](https://press.princeton.edu/books/hardcover/9780691118802/the-princeton-companion-to-mathematics) - Timothy Gowers (Professor, Fields medallist), June Barrow-Green (Professor), and Imre Leader (Professor).
-*   💲 [Encyclopedia of Distances (4th Edition)](https://link.springer.com/book/10.1007/978-3-662-52844-0) - Michel Marie Deza, Elena Deza.
-
-##### Foundations of Mathematics / Transition To Pure Rigour Math
-
-*   📖💲 [How to Prove It: A Structured Approach (3rd Edition)](https://www.cambridge.org/highereducation/books/how-to-prove-it/6D2965D625C6836CD4A785A2C843B3DA) - Daniel J. Velleman (Professor).
+*   [VSDECO](https://vsdeco.com/) - Transform Your Space with Photorealistic Restyling `#paid`
 
 ### [Mar 11, 2024](/content/2024/03/11/README.md)
 
@@ -234,50 +267,44 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ziglings/exercises](https://codeberg.org/ziglings/exercises) - Learn Zig by fixing tiny example programs.
 
-#### [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Domain Specific Language / Domain Specified Applications
-
-*   [PClean: Bayesian Data Cleaning at Scale with Domain-Specific Probabilistic Programming](https://proceedings.mlr.press/v130/lew21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=2892523061439714130)]. This work presents PClean, a probabilistic programming language (PPL) for leveraging dataset-specific knowledge to automate Bayesian cleaning, automating Bayesian approaches given the diversity of real-world error patterns and the hardness of inference.
-
-#### [9. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+#### [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ##### Cheat Sheets
 
 *   [tmuxcheatsheet.com](https://tmuxcheatsheet.com/)
 
-#### [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Utility / Diagnostics
 
 *   [mcauley-penney/visual-whitespace.nvim (⭐10)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
 
-#### [11. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+#### [10. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ##### General Section / Svelte
 
 *   [Tech Talks Weekly](https://techtalksweekly.substack.com/). A free weekly newsletter that brings all the recently uploaded tech talks across [+100 engineering conferences](https://techtalksweekly.substack.com/p/tech-conferences) like Devoxx, NDC, GOTO, StrangeLoop, ... right into your inbox. [Archive](https://techtalksweekly.substack.com/archive).
 
-#### [12. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+#### [11. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ##### Reproducing Works, Training & Books / Data Visualization
 
 *   [Autoencoder-Asset-Pricing-Models (⭐34)](https://github.com/RichardS0268/Autoencoder-Asset-Pricing-Models) - Reimplementation of Autoencoder Asset Pricing Models ([GKX, 2019](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3335536))
 
-#### [13. Awesome Distraction Blocker](/content/stan8086/awesome-distraction-blocker/README.md)
+#### [12. Awesome Distraction Blocker](/content/stan8086/awesome-distraction-blocker/README.md)
 
 ##### Articles and Guides / Mobile Apps
 
 *   [Top 5 Distraction Blocker Apps for Mac](https://blog.productivity.directory/top-5-distraction-blocker-apps-for-mac-a00614bc6268)
 *   [Top 6 Distraction Blocker Apps for Android](https://blog.productivity.directory/top-6-distraction-blocker-apps-for-android-5a838618e155)
 
-#### [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### Analytics, Events and Statistics
 
 *   [TrackWith Dicloud](https://dicloud.net/trackwith-privacy-focused-analytics/) - Free lightweight privacy-focused alternative to Google Analytics. Unlimited pageviews, unlimited visitor, unlimited page heatmaps & goal tracking. Free for up to 3 domains and 600 session replay per domain.
 
-#### [15. Awesome Php](/content/ziadoz/awesome-php/README.md)
+#### [14. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ##### Table of Contents / Security
 
@@ -294,6 +321,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Configuration / Miscellaneous
 
 *   [Ganesha (⭐541)](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
+
+#### [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Domain Specific Language / Domain Specified Applications
+
+*   [PClean: Bayesian Data Cleaning at Scale with Domain-Specific Probabilistic Programming](https://proceedings.mlr.press/v130/lew21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=2892523061439714130)]. This work presents PClean, a probabilistic programming language (PPL) for leveraging dataset-specific knowledge to automate Bayesian cleaning, automating Bayesian approaches given the diversity of real-world error patterns and the hardness of inference.
 
 ### [Mar 10, 2024](/content/2024/03/10/README.md)
 
@@ -339,13 +372,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [SPICE Toolkit (⭐18)](https://github.com/arturania/cspice) - Library and toolkit for computing geometric information used in planning and analyzing science observations obtained from robotic spacecraft. \[MIT] [website](https://naif.jpl.nasa.gov/naif/toolkit.html)
 
-#### [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Domain Specific Language / Domain Specified Applications
-
-*   [Scenic: a language for scenario specification and data generation](https://link.springer.com/article/10.1007/s10994-021-06120-5) - ***Machine Learning***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=13790565080942515865)]. Thie paper proposes a domain-specific language, Scenic, for describing scenarios that are distributions over scenes and the behaviors of their agents over time. Scenic combines concise, readable syntax for spatiotemporal relationships with the ability to declaratively impose hard and soft constraints over the scenario.
-
-#### [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Marks / Diagnostics
 
@@ -362,6 +389,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Editing Support / Diagnostics
 
 *   [altermo/iedit.nvim (⭐5)](https://github.com/altermo/iedit.nvim) - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
+
+#### [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Domain Specific Language / Domain Specified Applications
+
+*   [Scenic: a language for scenario specification and data generation](https://link.springer.com/article/10.1007/s10994-021-06120-5) - ***Machine Learning***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=13790565080942515865)]. Thie paper proposes a domain-specific language, Scenic, for describing scenarios that are distributions over scenes and the behaviors of their agents over time. Scenic combines concise, readable syntax for spatiotemporal relationships with the ability to declaratively impose hard and soft constraints over the scenario.
 
 ---
 
@@ -497,7 +530,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Computer Science
 
-- [Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md) - ([Source ⭐ 73, 📝 02&#x2F;23 ](https://github.com/Hyraze/ai-collective-tools)) - Explore a curated selection of AI tools and resources
+- [Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md) - ([Source ⭐ 78, 📝 03&#x2F;12 ](https://github.com/Hyraze/ai-collective-tools)) - Explore a curated selection of AI tools and resources
 - [Asdf Plugins](/content/asdf-vm/asdf-plugins/README.md) - ([Source ⭐ 1K, 📝 23&#x2F;02&#x2F;13 ](https://github.com/asdf-vm/asdf-plugins)) - Convenience shortname repository for asdf community plugins
 - [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source ⭐ 2.1K, 📝 23&#x2F;10&#x2F;16 ](https://github.com/georgezouq/awesome-ai-in-finance)) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 - [Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md) - ([Source ⭐ 364, 📝 03&#x2F;07 ](https://github.com/mahseema/awesome-ai-tools)) - A curated list of Artificial Intelligence Top Tools
@@ -822,7 +855,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 5.6K, 📝 70&#x2F;01&#x2F;01 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md) - ([Source ⭐ 4K, 📝 03&#x2F;05 ](https://github.com/AboutRSS/ALL-about-RSS)) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md) - ([Source ⭐ 4.5K, 📝 23&#x2F;07&#x2F;20 ](https://github.com/mendel5/alternative-front-ends)) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
-- [Amas](/content/sindresorhus/amas/README.md) - ([Source ⭐ 1.4K, 📝 23&#x2F;08&#x2F;18 ](https://github.com/sindresorhus/amas)) - Awesome & Marvelous Amas
+- [Amas](/content/sindresorhus/amas/README.md) - ([Source ⭐ 1.4K, 📝 03&#x2F;12 ](https://github.com/sindresorhus/amas)) - Awesome & Marvelous Amas
 - [Awesome Acg](/content/soruly/awesome-acg/README.md) - ([Source ⭐ 1.2K, 📝 23&#x2F;10&#x2F;03 ](https://github.com/soruly/awesome-acg)) - A curated list of awesome technologies related to Anime, Comic and Games
 - [Awesome ad Free](/content/johnjago/awesome-ad-free/README.md) - ([Source ⭐ 334, 📝 22&#x2F;06&#x2F;12 ](https://github.com/johnjago/awesome-ad-free)) - Curated list of ad-free alternatives to popular services on the web
 - [Awesome Ads](/content/cenoura/awesome-ads/README.md) - ([Source ⭐ 75, 📝 20&#x2F;10&#x2F;12 ](https://github.com/cenoura/awesome-ads)) - A curated list of awesome advertising content, resources and libraries.
@@ -851,7 +884,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md) - ([Source ⭐ 12K, 📝 02&#x2F;23 ](https://github.com/terkelg/awesome-creative-coding)) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md) - ([Source ⭐ 335, 📝 23&#x2F;12&#x2F;01 ](https://github.com/j0hnm4r5/awesome-creative-technology)) - Curated list of Creative Technology groups, companies, studios, collectives, etc.
 - [Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md) - ([Source ⭐ 104, 📝 02&#x2F;02 ](https://github.com/mourarthur/awesome-credit-modeling)) - A collection of awesome papers, articles and various resources on credit and credit risk modeling
-- [Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md) - ([Source ⭐ 0, 📝 02&#x2F;28 ](https://github.com/Intergalactic-XYZ/awesome-cropsteering)) - Curated by IXYZ list of OpenSource projects in indoor/outdoor agriculture automation, crop steering and cannabis cultivation
+- [Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md) - ([Source ⭐ 0, 📝 03&#x2F;12 ](https://github.com/Intergalactic-XYZ/awesome-cropsteering)) - Curated by IXYZ list of OpenSource projects in indoor/outdoor agriculture automation, crop steering and cannabis cultivation
 - [Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md) - ([Source ⭐ 64, 📝 23&#x2F;11&#x2F;16 ](https://github.com/cytodata/awesome-cytodata)) - A curated list of awesome cytodata resources
 - [Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md) - ([Source ⭐ 3.1K, 📝 22&#x2F;02&#x2F;17 ](https://github.com/javierluraschi/awesome-dataviz)) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 - [Awesome Ddd](/content/heynickc/awesome-ddd/README.md) - ([Source ⭐ 10K, 📝 01&#x2F;05 ](https://github.com/heynickc/awesome-ddd)) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
@@ -1151,10 +1184,10 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 232, 📝 03&#x2F;11 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 236, 📝 03&#x2F;12 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 15K, 📝 23&#x2F;09&#x2F;23 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 8.9K, 📝 03&#x2F;07 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
-- [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 81, 📝 02&#x2F;29 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.
+- [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 81, 📝 03&#x2F;12 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.
 - [Awesome Math](/content/rossant/awesome-math/README.md) - ([Source ⭐ 8K, 📝 03&#x2F;12 ](https://github.com/rossant/awesome-math)) - A curated list of awesome mathematics resources
 - [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source ⭐ 16K, 📝 02&#x2F;23 ](https://github.com/jivoi/awesome-osint)) - :scream: A curated list of amazingly awesome OSINT
 - [Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md) - ([Source ⭐ 1.1K, 📝 20&#x2F;11&#x2F;25 ](https://github.com/passy/awesome-recursion-schemes)) - Resources for learning and using recursion schemes.

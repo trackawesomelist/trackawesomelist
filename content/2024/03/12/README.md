@@ -1,12 +1,57 @@
 # Awesome List Updates on Mar 12, 2024
 
-10 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Math](/content/rossant/awesome-math/README.md)
+## [1. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+
+### Image Generator
+
+*   [Bing Image Creator](https://www.bing.com/images/create) - Image Creator from Microsoft Designer allows you to generate captivating images based on your words using AI. `freemium`
+*   [Playground AI](https://playground.com/) - Free-to-use online tool to create art, social media posts, presentations, posters, videos, logos and more. `#free`
+
+### Real Estate
+
+*   [VSDECO](https://vsdeco.com/) - Transform Your Space with Photorealistic Restyling `#paid`
+
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Meta-Level Considerations / Rationality
+
+*   [Cognitive Science as a Source of Forward and Inverse Models of Human Decisions for Robotics and Control](https://cocosci.princeton.edu/papers/ho2022cognitive.pdf) - ***Annual Review of Control, Robotics, and Autonomous Systems***, 2022. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&cluster=14055765901243029337)]. The review focuses on how cognitive science can provide forward models of human decision-making and inverse models of how humans think about others’ decision-making. The authors highlight relevant recent developments, including approaches that synthesize black box and theory-driven modeling, accounts that recast heuristics and biases as forms of bounded optimality, and models that characterize human theory of mind and communication in decision-theoretic terms.
+
+## [3. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+
+### Papers / 2024
+
+*   [FairProof: Confidential and Certifiable Fairness for Neural Networks](https://arxiv.org/pdf/2402.12572v1.pdf) - *Proposes an alternative paradigm to traditional auditing using crytographic tools like Zero-Knowledge Proofs; gives a system called FairProof for verifying fairness of small neural networks.*
+
+### Papers / 2023
+
+*   [XAudit : A Theoretical Look at Auditing with Explanations](https://arxiv.org/pdf/2206.04740.pdf) - *Formalizes the role of explanations in auditing and investigates if and how model explanations
+    can help audits.*
+*   [Keeping Up with the Language Models: Robustness-Bias Interplay in NLI Data and Models](https://arxiv.org/pdf/2305.12620.pdf) - *Proposes a way to extend the shelf-life of auditing datasets by using language models themselves; also finds problems with the current bias auditing metrics and proposes alternatives -- these alternatives highlight that model brittleness superficially increased the previous bias scores.*
+
+## [4. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md)
+
+### Components / Tasmota Configs
+
+*   [M5 Stack](https://m5stack.com/) - Standard 5×5cm functionally stacking modularized components hardware system
+
+### DIY / Modular systems
+
+*   [Hydromisc (⭐491)](https://github.com/hydromisc/hydromisc) - A single PCBA with all the necessary I/O to automate a typical small to mid-size hydroponic grow, controllable over Wifi. It may also be suitable for aquariums, ponds, or any other biological or chemical process involving water treatment
+
+## [5. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Jan-Hendrik Heuing (⭐0)](https://github.com/jheuing/ama) - Developer, team lead, CTO, consultant.
+
+## [6. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Encyclopedia
 
@@ -17,7 +62,7 @@
 
 *   📖💲 [How to Prove It: A Structured Approach (3rd Edition)](https://www.cambridge.org/highereducation/books/how-to-prove-it/6D2965D625C6836CD4A785A2C843B3DA) - Daniel J. Velleman (Professor).
 
-## [2. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Micro Frameworks
 
@@ -27,7 +72,7 @@
 
 *   [Editorconfig-Checker (⭐53)](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
 
-## [3. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
+## [8. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 
 ### Hosted Bitcoin Payment Processors / Non-Custodial
 
@@ -45,19 +90,7 @@
 
 
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐196)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐60)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
-### Projects / Web
-
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Projects / Build tools
 
@@ -122,13 +155,13 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [5. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+## [10. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Libraries / Python
 
 *   [QuackOSM (⭐66)](https://github.com/kraina-ai/quackosm) - A Python library for downloading, filtering and transforming `*.osm.pbf` files into `GeoParquet` files using DuckDB.
 
-## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Online Tools and Applications
 
@@ -143,25 +176,25 @@
 
 *   [Interviews Chat](https://www.interviews.chat/): Your Personal Interview Prep & Copilot
 
-## [7. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [12. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Platforms and Software Resources / Transportation Planning Tools and Platforms
 
 *   [OpenPath](https://www.nrel.gov/transportation/openpath.html) - Continusous travel survey platform from NREL that collects trips and data via a smart phone app backed by a server and leveraging automated data processing.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Generative AI
 
 *   [ReportGPT](https://report-gpt.marvinvr.ai) - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.
 
-## [9. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [14. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
 *   [Virtual Joystick (⭐550)](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot) - A virtual joystick for touchscreens. Simple to use and with useful options (Godot 3.x, 4.x).
 
-## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [15. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Other / [Other](#other-1)
 
