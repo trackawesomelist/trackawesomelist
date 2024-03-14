@@ -854,6 +854,7 @@ Please review our [contributing guidelines (⭐40k)](https://github.com/brillout
 *   [react-formawesome (⭐6)](https://github.com/MAKARD/react-formawesome) - Complex library for creating awesome forms.
 *   [surveyjs (⭐3.9k)](https://github.com/surveyjs/survey-library) - The advanced Survey and Form library
 *   [Formily (⭐11k)](https://github.com/alibaba/formily) - High performance, extensible, and Typescript friendly
+*   [hook-form-react (⭐0)](https://github.com/luoanb/hook-form-react) - [docs](https://luoanb.github.io/hook-form-react) - A lightweight, dependency-free solution React hooks for form validation.
 
 ### Router
 

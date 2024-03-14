@@ -6,6 +6,12 @@ A list of awesome projects related to Zig
 
 [ Daily / [Weekly](/content/catdevnull/awesome-zig/week/README.md) / [Overview](/content/catdevnull/awesome-zig/readme/README.md) ]
 
+## [Mar 14, 2024](/content/2024/03/14/README.md)
+
+### Game tools and libraries
+
+*   [andy5995/zigdeck (⭐1)](https://github.com/andy5995/zigdeck) - A library that creates and shuffles a deck of cards from which you can draw.
+
 ## [Mar 11, 2024](/content/2024/03/11/README.md)
 
 ### Learning resources / Package managers

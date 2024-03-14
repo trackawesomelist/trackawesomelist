@@ -149,6 +149,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 *   [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) - Simple and robust sudoku solver.
 *   [wendigojaeger/ZigGBA (⭐329)](https://github.com/wendigojaeger/ZigGBA) - SDK for creating Game Boy Advance games using Zig.
 *   [hazeycode/brucelib](https://github.com/hazeycode/brucelib) - Monorepo of modules for programming cross-platforms games, simulations, engines & editors.
+*   [andy5995/zigdeck (⭐1)](https://github.com/andy5995/zigdeck) - A library that creates and shuffles a deck of cards from which you can draw.
 
 ## Games
 
