@@ -70,6 +70,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 *   [AI Guide by the AI Pedagogy Project](https://aipedagogy.org) – collection of materials by [metaLAB](https://mlml.io/about/)
 *   [Slides from FF23 workshop on *Intro to AI for GLAM*](https://docs.google.com/presentation/d/1dVdS3u-XS2RDexNm3RlwICCsh5gBmdi1pBARgIGnPN8) and [shared notes](https://pad.carpentries.org/intro-ai-ff2023)
 *   [Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58) – by Jason Mayes from Google
+*   [Codecademy AI Courses](https://www.codecademy.com/catalog/subject/artificial-intelligence) – many topics; some lessons are free, some are for-fee
 *   [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html), by Sebastian Raschka
 *   [Dive into Deep Learning](https://d2l.ai/index.html), by Zhang et al.
 *   [A Collection of AI Demos to Discover and Explore](https://exploreai.jisc.ac.uk/)

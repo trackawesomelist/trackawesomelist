@@ -185,7 +185,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 *   [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
 *   [TurboPilot (⭐3.8k)](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone that uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
 *   [GPT-Code UI (⭐3.4k)](https://github.com/ricklamers/gpt-code-ui) - An open-source implementation of OpenAI's ChatGPT Code interpreter.
-*   [MetaGPT (⭐34k)](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+*   [MetaGPT (⭐35k)](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 *   [Marblism](https://marblism.com) - Generate a SaaS boilerplate from a prompt.
 
 ## Image
@@ -323,7 +323,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 *   [Learn Prompting](https://learnprompting.org/) - A free, open-source course on communicating with artificial intelligence.
 *   [Prompt Engineering Guide (⭐42k)](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering.
 *   [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
-*   [OpenAI Cookbook (⭐54k)](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
+*   [OpenAI Cookbook (⭐55k)](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 *   [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
 
 ## Learn AI free
@@ -349,7 +349,8 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 
 *   [Awesome AI Books (⭐49)](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
 *   [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
-*   [Workflow Automation Softwares](https://productivity.directory/category/workflow-automation) - - Curated List of Workflow Automation Apps And Tools
+*   [Workflow Automation Softwares](https://productivity.directory/category/workflow-automation) - Curated List of Workflow Automation Apps And Tools
+*   [Awesome Workflow Automation (⭐183)](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
 
 created by [Mahsima Dastan](https://github.com/mahseema)
 

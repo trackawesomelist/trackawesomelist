@@ -453,9 +453,9 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐848)](https://g
 
 *   [dogsled (⭐71)](https://github.com/alexkohler/dogsled) — Finds assignments/declarations with too many blank identifiers.
 
-*   [dupl (⭐325)](https://github.com/mibk/dupl) :warning: — Reports potentially duplicated code.
+*   [dupl (⭐326)](https://github.com/mibk/dupl) :warning: — Reports potentially duplicated code.
 
-*   [errcheck (⭐2.2k)](https://github.com/kisielk/errcheck) — Check that error return values are used.
+*   [errcheck (⭐2.3k)](https://github.com/kisielk/errcheck) — Check that error return values are used.
 
 *   [errwrap (⭐366)](https://github.com/fatih/errwrap) — Wrap and fix Go errors with the new %w verb directive.  This tool analyzes fmt.Errorf() calls and reports calls that contain a verb directive that  is different than the new %w verb directive introduced in Go v1.13.  It's also capable of rewriting calls to use the new %w wrap verb directive.
 
@@ -538,7 +538,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐848)](https://g
 
 *   [test](https://pkg.go.dev/testing) — Show location of test failures from the stdlib testing module.
 
-*   [unconvert (⭐372)](https://github.com/mdempsky/unconvert) — Detect redundant type conversions.
+*   [unconvert (⭐375)](https://github.com/mdempsky/unconvert) — Detect redundant type conversions.
 
 *   [unparam (⭐487)](https://github.com/mvdan/unparam) — Find unused function parameters.
 
@@ -812,7 +812,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐848)](https://g
 
 *   [PhpMetrics](http://www.phpmetrics.org) — Calculates and visualizes various code quality metrics.
 
-*   [phpmnd (⭐542)](https://github.com/povils/phpmnd) — Helps to detect magic numbers.
+*   [phpmnd (⭐541)](https://github.com/povils/phpmnd) — Helps to detect magic numbers.
 
 *   [PHPQA](https://edgedesigncz.github.io/phpqa) — A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
 
@@ -1361,6 +1361,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐848)](https://g
     its advanced reporting, runnable on any CI system or locally,
     with assisted installation and configuration, able to apply formatting and fixes
 
+*   [Mobb](https://mobb.ai) :copyright: — Mobb is a trusted, automatic vulnerability fixer that secures applications, reduces security backlogs,  and frees developers to focus on innovation. Mobb is free for open-source projects.
+
 *   [MOPSA](https://mopsa.lip6.fr) — A static analyzer designed to easily reuse abstract domains across widely different languages (such as C and Python).
 
 *   [oclint](http://oclint.org) :warning: — A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C.
@@ -1402,10 +1404,6 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐848)](https://g
 *   [ReSharper](https://www.jetbrains.com/resharper) :copyright: — Extends Visual Studio with on-the-fly code inspections for C#, VB.NET, ASP.NET, JavaScript, TypeScript and other technologies.
 
 *   [RIPS](https://www.ripstech.com) :copyright: — A static source code analyser for vulnerabilities in PHP scripts.
-
-*   [Rome](https://rome.tools/) — Rome was a linter, compiler, bundler, and [more](https://rome.tools/#development-status) for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS. It has since been succeeded by [biome](https://biomejs.dev/).
-
-*   [Rome Formatter](https://rome.tools/blog/2022/04/05/rome-formatter-release) :warning: — A performant and fault-tolerant code formatter for JS/TS written in Rust. Superceded by [biome](https://biomejs.dev/).
 
 *   [Roslyn Analyzers (⭐1.5k)](https://github.com/dotnet/roslyn-analyzers) — Roslyn-based implementation of FxCop analyzers.
 
@@ -1461,7 +1459,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐848)](https://g
 
 *   [ThreatMapper (⭐4.6k)](https://github.com/deepfence/ThreatMapper) — Vulnerability Scanner and Risk Evaluation for containers, serverless and hosts at runtime. ThreatMapper generates runtime BOMs from dependencies and operating system packages, matches against multiple threat feeds, scans for unprotected secrets, and scores issues based on severity and risk-of-exploit.
 
-*   [todocheck (⭐409)](https://github.com/preslavmihaylov/todocheck) — Linter for integrating annotated TODOs with your issue trackers
+*   [todocheck (⭐410)](https://github.com/preslavmihaylov/todocheck) — Linter for integrating annotated TODOs with your issue trackers
 
 *   [trivy (⭐21k)](https://github.com/aquasecurity/trivy) — A Simple and Comprehensive Vulnerability Scanner for Containers and other Artifacts, Suitable for CI. Trivy detects vulnerabilities of OS packages (Alpine, RHEL, CentOS, etc.) and application dependencies (Bundler, Composer, npm, yarn, etc.). Checks containers and filesystems.
 

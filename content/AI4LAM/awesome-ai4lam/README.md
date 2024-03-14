@@ -6,6 +6,12 @@ A list of awesome AI in libraries, archives, and museum collections from around 
 
 [ Daily / [Weekly](/content/AI4LAM/awesome-ai4lam/week/README.md) / [Overview](/content/AI4LAM/awesome-ai4lam/readme/README.md) ]
 
+## [Mar 14, 2024](/content/2024/03/14/README.md)
+
+### Learning Resources / Introductions to AI
+
+*   [Codecademy AI Courses](https://www.codecademy.com/catalog/subject/artificial-intelligence) – many topics; some lessons are free, some are for-fee
+
 ## [Mar 05, 2024](/content/2024/03/05/README.md)
 
 ### Tools and Frameworks / Audio and video analysis, transcription, and labeling

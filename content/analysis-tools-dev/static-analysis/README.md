@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Mar 14, 2024](/content/2024/03/14/README.md)
+
+### Multiple languages / [Other](#other-1)
+
+*   [Mobb](https://mobb.ai) :copyright: — Mobb is a trusted, automatic vulnerability fixer that secures applications, reduces security backlogs,  and frees developers to focus on innovation. Mobb is free for open-source projects.
+
 ## [Mar 12, 2024](/content/2024/03/12/README.md)
 
 ### Other / [Other](#other-1)
@@ -468,7 +474,7 @@
 *   [effective\_dart](https://pub.dev/packages/effective_dart) — Linter rules corresponding to the guidelines in Effective Dart
 *   [elm-analyse](https://stil4m.github.io/elm-analyse) :warning: — A tool that allows you to analyse your Elm code, identify deficiencies and apply best practices.
 *   [dingo-hunter (⭐314)](https://github.com/nickng/dingo-hunter) :warning: — Static analyser for finding deadlocks in Go.
-*   [dupl (⭐325)](https://github.com/mibk/dupl) :warning: — Reports potentially duplicated code.
+*   [dupl (⭐326)](https://github.com/mibk/dupl) :warning: — Reports potentially duplicated code.
 *   [lll (⭐64)](https://github.com/walle/lll) :warning: — Report long lines.
 *   [safesql (⭐563)](https://github.com/stripe/safesql) :warning: — Static analysis tool for Golang that protects against SQL injections.
 *   [aether](http://aetherjs.com) :warning: — Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.
@@ -630,7 +636,7 @@
 *   [bodyclose (⭐288)](https://github.com/timakin/bodyclose) — Checks whether HTTP response body is closed.
 *   [deadcode (⭐48)](https://github.com/tsenart/deadcode) — Finds unused code.
 *   [dogsled (⭐71)](https://github.com/alexkohler/dogsled) — Finds assignments/declarations with too many blank identifiers.
-*   [errcheck (⭐2.2k)](https://github.com/kisielk/errcheck) — Check that error return values are used.
+*   [errcheck (⭐2.3k)](https://github.com/kisielk/errcheck) — Check that error return values are used.
 *   [errwrap (⭐366)](https://github.com/fatih/errwrap) — Wrap and fix Go errors with the new %w verb directive.  This tool analyzes fmt.Errorf() calls and reports calls that contain a verb directive that  is different than the new %w verb directive introduced in Go v1.13.  It's also capable of rewriting calls to use the new %w wrap verb directive.
 *   [flen (⭐49)](https://github.com/lafolle/flen) — Get info on length of functions in a Go package.
 *   [go tool vet --shadow](https://golang.org/cmd/vet#hdr-Shadowed_variables) — Reports variables that may have been unintentionally shadowed.
@@ -664,7 +670,7 @@
 *   [staticcheck](https://staticcheck.io) — Go static analysis that specialises in finding bugs, simplifying code and improving performance.
 *   [structcheck](https://gitlab.com/opennota/check) — Find unused struct fields.
 *   [structslop (⭐793)](https://github.com/orijtech/structslop) — Static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency
-*   [unconvert (⭐372)](https://github.com/mdempsky/unconvert) — Detect redundant type conversions.
+*   [unconvert (⭐375)](https://github.com/mdempsky/unconvert) — Detect redundant type conversions.
 *   [unparam (⭐487)](https://github.com/mvdan/unparam) — Find unused function parameters.
 *   [varcheck](https://gitlab.com/opennota/check) — Find unused global variables and constants.
 *   [wsl (⭐234)](https://github.com/bombsimon/wsl) — Enforces empty lines at the right places.
@@ -747,7 +753,7 @@
 *   [phploc (⭐2.3k)](https://github.com/sebastianbergmann/phploc) — A tool for quickly measuring the size and analyzing the structure of a PHP project.
 *   [PHPMD](https://phpmd.org) — Finds possible bugs in your code.
 *   [PhpMetrics](http://www.phpmetrics.org) — Calculates and visualizes various code quality metrics.
-*   [phpmnd (⭐542)](https://github.com/povils/phpmnd) — Helps to detect magic numbers.
+*   [phpmnd (⭐541)](https://github.com/povils/phpmnd) — Helps to detect magic numbers.
 *   [PHPQA](https://edgedesigncz.github.io/phpqa) — A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
 *   [phpqa - jakzal (⭐1.2k)](https://github.com/jakzal/phpqa) — Many tools for PHP static analysis in one container.
 *   [phpqa - jmolivas (⭐329)](https://github.com/jmolivas/phpqa) — PHPQA all-in-one Analyzer CLI tool.
@@ -1052,8 +1058,6 @@
 *   [relint (⭐49)](https://github.com/codingjoe/relint) — A static file linter that allows you to write custom rules using regular expressions (RegEx).
 *   [ReSharper](https://www.jetbrains.com/resharper) :copyright: — Extends Visual Studio with on-the-fly code inspections for C#, VB.NET, ASP.NET, JavaScript, TypeScript and other technologies.
 *   [RIPS](https://www.ripstech.com) :copyright: — A static source code analyser for vulnerabilities in PHP scripts.
-*   [Rome](https://rome.tools/) — Rome was a linter, compiler, bundler, and [more](https://rome.tools/#development-status) for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS. It has since been succeeded by [biome](https://biomejs.dev/).
-*   [Rome Formatter](https://rome.tools/blog/2022/04/05/rome-formatter-release) :warning: — A performant and fault-tolerant code formatter for JS/TS written in Rust. Superceded by [biome](https://biomejs.dev/).
 *   [Roslyn Analyzers (⭐1.5k)](https://github.com/dotnet/roslyn-analyzers) — Roslyn-based implementation of FxCop analyzers.
 *   [Roslyn Security Guard](https://security-code-scan.github.io) — Project that focuses on the identification of potential vulnerabilities such as SQL injection, cross-site scripting (XSS), CSRF, cryptography weaknesses, hardcoded passwords and many more.
 *   [Scrutinizer](https://scrutinizer-ci.com) :copyright: — A proprietary code quality checker that can be integrated with GitHub.
@@ -1073,7 +1077,7 @@
 *   [Teamscale](https://www.cqse.eu/en/teamscale/overview/) :copyright: — Static and dynamic analysis tool supporting more than 25 languages and direct IDE integration. Free hosting for Open Source projects available on request. Free academic licenses available.
 *   [TencentCodeAnalysis](https://tca.tencent.com/) — Tencent Cloud Code Analysis (TCA for short, code-named CodeDog inside the company early) is a comprehensive platform for code analysis and issue tracking. TCA consist of three components, server, web and client. It integrates of a number of self-developed tools, and also supports dynamic integration of code analysis tools in various programming languages.
 *   [ThreatMapper (⭐4.6k)](https://github.com/deepfence/ThreatMapper) — Vulnerability Scanner and Risk Evaluation for containers, serverless and hosts at runtime. ThreatMapper generates runtime BOMs from dependencies and operating system packages, matches against multiple threat feeds, scans for unprotected secrets, and scores issues based on severity and risk-of-exploit.
-*   [todocheck (⭐409)](https://github.com/preslavmihaylov/todocheck) — Linter for integrating annotated TODOs with your issue trackers
+*   [todocheck (⭐410)](https://github.com/preslavmihaylov/todocheck) — Linter for integrating annotated TODOs with your issue trackers
 *   [trivy (⭐21k)](https://github.com/aquasecurity/trivy) — A Simple and Comprehensive Vulnerability Scanner for Containers and other Artifacts, Suitable for CI. Trivy detects vulnerabilities of OS packages (Alpine, RHEL, CentOS, etc.) and application dependencies (Bundler, Composer, npm, yarn, etc.). Checks containers and filesystems.
 *   [trunk](https://trunk.io) :copyright: — Modern repositories include many technologies, each with its own set of linters. With 30+ linters and counting, Trunk makes it dead-simple to identify, install, configure, and run the right linters, static analyzers, and formatters for all your repos.
 *   [TscanCode (⭐1.9k)](https://github.com/Tencent/TscanCode) — A fast and accurate static analysis solution for C/C++, C#, Lua codes provided by Tencent. Using GPLv3 license.

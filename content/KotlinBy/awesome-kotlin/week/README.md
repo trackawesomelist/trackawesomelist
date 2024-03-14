@@ -8,6 +8,10 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
 
+### Libraries/Frameworks / Data Science
+
+*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
+
 ### Libraries/Frameworks / Logging
 
 *   [Foso/Cabret-Log (⭐196)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
@@ -137,8 +141,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Data Science
 
-*   [Kotlin/KotlinDL (⭐1.4k)](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras.
 *   [Kotlin/kandy (⭐415)](https://github.com/Kotlin/kandy) - Kotlin plotting library
+*   [Kotlin/KotlinDL (⭐1.4k)](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras.
 
 ### Kotlin WebAssembly / Official Links
 
@@ -734,19 +738,19 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Data Science
 
-*   [breandan/kaliningraph (⭐101)](https://github.com/breandan/kaliningraph)
-*   [cdietze/euklid (⭐2)](https://github.com/cdietze/euklid) - A cross-platform geometry library in Kotlin
+*   [Kotlin/dataframe (⭐678)](https://github.com/Kotlin/dataframe) - A Kotlin library for in-memory data manipulation
+*   [JetBrains/lets-plot-kotlin (⭐394)](https://github.com/JetBrains/lets-plot-kotlin) - Grammar of graphics visualization for Kotlin
+*   [Kotlin/kotlin-jupyter (⭐1k)](https://github.com/Kotlin/kotlin-jupyter) - Official Kotlin Jupyter kernel
+*   [kyonifer/koma (⭐270)](https://github.com/kyonifer/koma) - A scientific computing library for Kotlin.
+*   [mipt-npm/kmath (⭐613)](https://github.com/mipt-npm/kmath) - A (not so numpy-like) multiplatform mathematical library with higher level abstractions.
 *   [unipu-ict/ksdtoolkit (⭐3)](https://github.com/unipu-ict/ksdtoolkit) - Kotlin System Dynamics Toolkit - for system dynamics modelling and simulation with Kotlin.
-*   [lamba92/KGraph (⭐17)](https://github.com/lamba92/KGraph) - A Kotlin multi-platform library for graph data structures
-*   [grinisrit/noa-atra (⭐26)](https://github.com/grinisrit/noa-atra) - Analytics for Trading with NOA
+*   [MarcinMoskala/KotlinDiscreteMathToolkit (⭐181)](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete Math functionalities as an Kotlin extension functions.
 *   [sanity/pairAdjacentViolators (⭐49)](https://github.com/sanity/pairAdjacentViolators) - A Kotlin implementation of the Pair Adjacent Violators algorithm for isotonic regression.
 *   [holgerbrandl/kalasim](https://www.kalasim.org) - Discrete event simulator that enables complex, dynamic process models.
-*   [MarcinMoskala/KotlinDiscreteMathToolkit (⭐181)](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete Math functionalities as an Kotlin extension functions.
-*   [kyonifer/koma (⭐270)](https://github.com/kyonifer/koma) - A scientific computing library for Kotlin.
-*   [JetBrains/lets-plot-kotlin (⭐394)](https://github.com/JetBrains/lets-plot-kotlin) - Grammar of graphics visualization for Kotlin
-*   [mipt-npm/kmath (⭐613)](https://github.com/mipt-npm/kmath) - A (not so numpy-like) multiplatform mathematical library with higher level abstractions.
-*   [Kotlin/dataframe (⭐678)](https://github.com/Kotlin/dataframe) - A Kotlin library for in-memory data manipulation
-*   [Kotlin/kotlin-jupyter (⭐1k)](https://github.com/Kotlin/kotlin-jupyter) - Official Kotlin Jupyter kernel
+*   [cdietze/euklid (⭐2)](https://github.com/cdietze/euklid)
+*   [lamba92/KGraph (⭐17)](https://github.com/lamba92/KGraph) - A Kotlin multi-platform library for graph data structures
+*   [breandan/kaliningraph (⭐101)](https://github.com/breandan/kaliningraph)
+*   [grinisrit/noa-atra (⭐26)](https://github.com/grinisrit/noa-atra) - Analytics for Trading with NOA
 
 ### Libraries/Frameworks / API Clients
 
@@ -1748,8 +1752,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 ### Libraries/Frameworks / Data Science
 
 *   [Kotlin for Data Science](https://kotlinlang.org/docs/reference/data-science-overview.html) - Kotlin for Data Science overview page
-*   [kiegroup/optaplanner](https://www.optaplanner.org/compatibility/kotlin.html) - Constraint solving AI for planning and scheduling problems.
 *   [breandan/kotlingrad (⭐504)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
+*   [kiegroup/optaplanner](https://www.optaplanner.org/compatibility/kotlin.html) - Constraint solving AI for planning and scheduling problems.
 
 ### Libraries/Frameworks / Command Line Interface
 

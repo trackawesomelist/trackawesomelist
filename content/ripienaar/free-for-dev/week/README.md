@@ -14,7 +14,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [ReportGPT](https://report-gpt.marvinvr.ai) - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.
+*   [ReportGPT](https://report-gpt.io) - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.
 
 ### Analytics, Events and Statistics
 

@@ -6,17 +6,17 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Mar 14, 2024](/content/2024/03/14/README.md)
+
+### Generative AI
+
+*   [ReportGPT](https://report-gpt.io) - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.
+
 ## [Mar 13, 2024](/content/2024/03/13/README.md)
 
 ### Tools for Teams and Collaboration
 
 *   [Dubble](https://dubble.so/) — Free Step-by-Step Guide creator. Take screenshots, document processes and colloborate with your team. Also supports async screen recording.
-
-## [Mar 12, 2024](/content/2024/03/12/README.md)
-
-### Generative AI
-
-*   [ReportGPT](https://report-gpt.marvinvr.ai) - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.
 
 ## [Mar 11, 2024](/content/2024/03/11/README.md)
 

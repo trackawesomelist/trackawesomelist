@@ -1,12 +1,117 @@
 # Awesome List Updates on Mar 11 - Mar 17, 2024
 
-32 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [1. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
+
+### Learning Resources / Introductions to AI
+
+*   [Codecademy AI Courses](https://www.codecademy.com/catalog/subject/artificial-intelligence) – many topics; some lessons are free, some are for-fee
+
+## [2. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+
+### Related Awesome Lists / Deep Learning
+
+*   [Awesome Workflow Automation (⭐183)](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
+
+## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Libraries/Frameworks / Data Science
+
+*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
+
+### Libraries/Frameworks / Logging
+
+*   [Foso/Cabret-Log (⭐196)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
+
+### Libraries/Frameworks / Mail
+
+*   [bluefireoly/SimpleKotlinMail (⭐60)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
+
+### Projects / Web
+
+*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
+
+### Projects / Build tools
+
+*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
+*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
+
+### Projects / Misc
+
+*   [kpspemu/kpspemu (⭐71)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
+*   [chrislo27/RhythmHeavenRemixEditor (⭐427)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
+
+### Projects / Desktop
+
+*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
+
+### Projects / Examples
+
+*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
+*   [JetBrains/kotlin-examples (⭐3.2k)](https://github.com/JetBrains/kotlin-examples) - Various examples for Kotlin.
+
+### Projects / Android
+
+*   [skydoves/githubfollows (⭐294)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
+
+### Android / Libraries
+
+*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
+*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
+*   [ragunathjawahar/kaffeine (⭐155)](https://github.com/ragunathjawahar/kaffeine)
+*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
+*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
+
+### Android / Projects
+
+*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
+*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
+*   [hanjoongcho/aaf-easypassword (⭐34)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
+
+### Android / Extensions
+
+*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
+
+### Android / Tests
+
+*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
+
+### Kotlin JavaScript / JavaScript
+
+*   [pixijs/pixi-native (⭐85)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
+*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
+*   [Foso/MpApt (⭐238)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
+
+### Kotlin JavaScript / Build Tools
+
+*   [Kotlin/kotlin-frontend-plugin (⭐564)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
+
+### Kotlin JavaScript / Integration
+
+*   [kotlin/ts2kt (⭐318)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
+
+### Kotlin Native / Projects
+
+*   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
+
+## [4. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+
+### Plotter Art For Sale / Ephemera
+
+*   [Adam Fuhrer](https://adamfuhrer.bigcartel.com)
+
+## [5. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
+
+### Prompts
+
+*   [Pure (⭐1.2k)](https://github.com/pure-fish/pure/) - [*That*](https://github.com/sindresorhus/pure) ZSH prompt, now in Fish flavor
+
+## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -25,19 +130,19 @@
 
 *   [sorairolake/abcrypt (⭐4)](https://github.com/sorairolake/abcrypt) \[[abcrypt](https://crates.io/crates/abcrypt)] — A simple, modern and secure file encryption library. [![CI](https://github.com/sorairolake/abcrypt/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/abcrypt/actions?query=workflow%3ACI)
 
-## [2. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [7. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Learning / Helpers
 
 *   [Infrastructure automation with OpenTofu](https://www.udemy.com/course/infrastructure-automation-with-opentofu-hands-on-devops/?couponCode=1D97F4D8FFE62E296BE1) - Learn infrastructure provisioning with lectures, quizzes, hands-on demos and coding exercises.
 
-## [3. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [8. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [GoodLooks (⭐27)](https://github.com/dashcamio/goodlooks) - Visually validate Playwright tests using AI vision instead of flaky selectors.
 
-## [4. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
+## [9. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
 
 ### Platforms / Citizen Automation and Development Platform
 
@@ -47,7 +152,7 @@
 
 *   \[Tabidoo (<https://tabidoo.cloud/>) - Powerful Low Code platform, with mature workflows, rights management and integrations (REST API). Many predefined templates. No charge per user.
 
-## [5. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [10. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -105,13 +210,13 @@
 *   [NDJSON (⭐622) (⭐619)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐302) (⭐297)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [6. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [11. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
 *   [solvedac-box (⭐8)](https://github.com/abiriadev/solvedac-box) - Update a pinned gist to show [solved.ac](https://solved.ac) profile.
 
-## [7. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
+## [12. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
 
 ### Image Generator
 
@@ -122,7 +227,7 @@
 
 *   [VSDECO](https://vsdeco.com/) - Transform Your Space with Photorealistic Restyling `#paid`
 
-## [8. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [13. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2024
 
@@ -134,7 +239,7 @@
     can help audits.*
 *   [Keeping Up with the Language Models: Robustness-Bias Interplay in NLI Data and Models](https://arxiv.org/pdf/2305.12620.pdf) - *Proposes a way to extend the shelf-life of auditing datasets by using language models themselves; also finds problems with the current bias auditing metrics and proposes alternatives -- these alternatives highlight that model brittleness superficially increased the previous bias scores.*
 
-## [9. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/week/README.md)
+## [14. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/week/README.md)
 
 ### Components / Tasmota Configs
 
@@ -144,13 +249,13 @@
 
 *   [Hydromisc (⭐491)](https://github.com/hydromisc/hydromisc) - A single PCBA with all the necessary I/O to automate a typical small to mid-size hydroponic grow, controllable over Wifi. It may also be suitable for aquariums, ponds, or any other biological or chemical process involving water treatment
 
-## [10. Amas](/content/sindresorhus/amas/week/README.md)
+## [15. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Jan-Hendrik Heuing (⭐0)](https://github.com/jheuing/ama) - Developer, team lead, CTO, consultant.
 
-## [11. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [16. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Encyclopedia
 
@@ -161,7 +266,7 @@
 
 *   📖💲 [How to Prove It: A Structured Approach (3rd Edition)](https://www.cambridge.org/highereducation/books/how-to-prove-it/6D2965D625C6836CD4A785A2C843B3DA) - Daniel J. Velleman (Professor).
 
-## [12. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
+## [17. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
 ### Hosted Bitcoin Payment Processors / Non-Custodial
 
@@ -179,13 +284,13 @@
 
 
 
-## [13. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [18. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Libraries / Python
 
 *   [QuackOSM (⭐66)](https://github.com/kraina-ai/quackosm) - A Python library for downloading, filtering and transforming `*.osm.pbf` files into `GeoParquet` files using DuckDB.
 
-## [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [19. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI
 
@@ -204,39 +309,43 @@
 
 *   [Interviews Chat](https://www.interviews.chat/): Your Personal Interview Prep & Copilot
 
-## [15. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [20. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / Transportation Planning Tools and Platforms
 
 *   [OpenPath](https://www.nrel.gov/transportation/openpath.html) - Continusous travel survey platform from NREL that collects trips and data via a smart phone app backed by a server and leveraging automated data processing.
 
-## [16. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [21. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
 *   [Virtual Joystick (⭐550)](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot) - A virtual joystick for touchscreens. Simple to use and with useful options (Godot 3.x, 4.x).
 
-## [17. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [22. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+
+### Multiple languages / [Other](#other-1)
+
+*   [Mobb](https://mobb.ai) :copyright: — Mobb is a trusted, automatic vulnerability fixer that secures applications, reduces security backlogs,  and frees developers to focus on innovation. Mobb is free for open-source projects.
 
 ### Other / [Other](#other-1)
 
 *   [lintian](https://wiki.debian.org/Lintian) — Static analysis tool for Debian packages.
 *   [proselint (⭐4.3k)](https://github.com/amperser/proselint) — A linter for English prose with a focus on writing style instead of grammar.
 
-## [18. Awesome Distraction Blocker](/content/stan8086/awesome-distraction-blocker/week/README.md)
+## [23. Awesome Distraction Blocker](/content/stan8086/awesome-distraction-blocker/week/README.md)
 
 ### Articles and Guides / Mobile Apps
 
 *   [Top 5 Distraction Blocker Apps for Mac](https://blog.productivity.directory/top-5-distraction-blocker-apps-for-mac-a00614bc6268)
 *   [Top 6 Distraction Blocker Apps for Android](https://blog.productivity.directory/top-6-distraction-blocker-apps-for-android-5a838618e155)
 
-## [19. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [24. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Reproducing Works, Training & Books / Data Visualization
 
 *   [Autoencoder-Asset-Pricing-Models (⭐34)](https://github.com/RichardS0268/Autoencoder-Asset-Pricing-Models) - Reimplementation of Autoencoder Asset Pricing Models ([GKX, 2019](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3335536))
 
-## [20. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -244,19 +353,19 @@
 
 ### Generative AI
 
-*   [ReportGPT](https://report-gpt.marvinvr.ai) - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.
+*   [ReportGPT](https://report-gpt.io) - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.
 
 ### Analytics, Events and Statistics
 
 *   [TrackWith Dicloud](https://dicloud.net/trackwith-privacy-focused-analytics/) - Free lightweight privacy-focused alternative to Google Analytics. Unlimited pageviews, unlimited visitor, unlimited page heatmaps & goal tracking. Free for up to 3 domains and 600 session replay per domain.
 
-## [21. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [26. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### General Section / Svelte
 
 *   [Tech Talks Weekly](https://techtalksweekly.substack.com/). A free weekly newsletter that brings all the recently uploaded tech talks across [+100 engineering conferences](https://techtalksweekly.substack.com/p/tech-conferences) like Devoxx, NDC, GOTO, StrangeLoop, ... right into your inbox. [Archive](https://techtalksweekly.substack.com/archive).
 
-## [22. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
@@ -266,13 +375,13 @@
 
 *   [mcauley-penney/visual-whitespace.nvim (⭐10)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
 
-## [23. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [28. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Cheat Sheets
 
 *   [tmuxcheatsheet.com](https://tmuxcheatsheet.com/)
 
-## [24. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [29. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Abduction / Applications in AI
 
@@ -286,19 +395,19 @@
 
 *   [Cognitive Science as a Source of Forward and Inverse Models of Human Decisions for Robotics and Control](https://cocosci.princeton.edu/papers/ho2022cognitive.pdf) - ***Annual Review of Control, Robotics, and Autonomous Systems***, 2022. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&cluster=14055765901243029337)]. The review focuses on how cognitive science can provide forward models of human decision-making and inverse models of how humans think about others’ decision-making. The authors highlight relevant recent developments, including approaches that synthesize black box and theory-driven modeling, accounts that recast heuristics and biases as forms of bounded optimality, and models that characterize human theory of mind and communication in decision-theoretic terms.
 
-## [25. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [30. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Learning resources / Package managers
 
 *   [ziglings/exercises](https://codeberg.org/ziglings/exercises) - Learn Zig by fixing tiny example programs.
 
-## [26. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [31. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Build and Package / Apache License
 
 *   [alr-appimage (⭐0)](https://github.com/mgrojo/alr-appimage) - A tool for automatically creating an AppImage executable from an Alire crate.
 
-## [27. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [32. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Micro Frameworks
 
@@ -324,7 +433,7 @@
 
 *   [Ganesha (⭐541)](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
 
-## [28. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Containers
 
@@ -334,14 +443,14 @@
 
 *   [mailio (⭐339)](https://github.com/karastojko/mailio) - mailio is a cross platform C++ library for MIME format and SMTP, POP3 and IMAP protocols. \[BSD]
 
-## [29. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [34. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Meshing / Triangular and tetrahedral meshing
 
 *   [trimesh](https://trimesh.org) - Loading and using triangular meshes with an emphasis on watertight surfaces.
     (Python, MIT, [GitHub (⭐2.7k)](https://github.com/mikedh/trimesh))
 
-## [30. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
+## [35. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
 ### Material Design
 
@@ -350,13 +459,13 @@
     [Repo (⭐836)](https://github.com/beercss/beercss)
     \| #CSS
 
-## [31. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [36. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Validation / Playground
 
 *   [@core/match (⭐27)](https://github.com/tani/ts-match) - Type-safe destructuring assignment with pattern-match validation
 
-## [32. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [37. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Configuration Management
 

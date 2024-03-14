@@ -6,6 +6,12 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 [ Daily / [Weekly](/content/beardicus/awesome-plotters/week/README.md) / [Overview](/content/beardicus/awesome-plotters/readme/README.md) ]
 
+## [Mar 14, 2024](/content/2024/03/14/README.md)
+
+### Plotter Art For Sale / Ephemera
+
+*   [Adam Fuhrer](https://adamfuhrer.bigcartel.com)
+
 ## [Mar 07, 2024](/content/2024/03/07/README.md)
 
 ### Software / HPGL

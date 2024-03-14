@@ -6,11 +6,17 @@ A curated list of Artificial Intelligence Top Tools
 
 [ Daily / [Weekly](/content/mahseema/awesome-ai-tools/week/README.md) / [Overview](/content/mahseema/awesome-ai-tools/readme/README.md) ]
 
+## [Mar 14, 2024](/content/2024/03/14/README.md)
+
+### Related Awesome Lists / Deep Learning
+
+*   [Awesome Workflow Automation (⭐183)](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
+
 ## [Mar 07, 2024](/content/2024/03/07/README.md)
 
 ### Related Awesome Lists / Deep Learning
 
-*   [Workflow Automation Softwares](https://productivity.directory/category/workflow-automation) - - Curated List of Workflow Automation Apps And Tools
+*   [Workflow Automation Softwares](https://productivity.directory/category/workflow-automation) - Curated List of Workflow Automation Apps And Tools
 
 ## [Feb 29, 2024](/content/2024/02/29/README.md)
 
@@ -229,7 +235,7 @@ A curated list of Artificial Intelligence Top Tools
 
 ### Learning resources / Music
 
-*   [OpenAI Cookbook (⭐54k)](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
+*   [OpenAI Cookbook (⭐55k)](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 *   [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
 
 ## [Oct 17, 2023](/content/2023/10/17/README.md)
@@ -383,7 +389,7 @@ A curated list of Artificial Intelligence Top Tools
 *   [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
 *   [TurboPilot (⭐3.8k)](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone that uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
 *   [GPT-Code UI (⭐3.4k)](https://github.com/ricklamers/gpt-code-ui) - An open-source implementation of OpenAI's ChatGPT Code interpreter.
-*   [MetaGPT (⭐34k)](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+*   [MetaGPT (⭐35k)](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 
 ### Image / Models
 
