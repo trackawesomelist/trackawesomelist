@@ -6,6 +6,12 @@ A curated list of awesome READMEs
 
 [ Daily / [Weekly](/content/matiassingers/awesome-readme/week/README.md) / [Overview](/content/matiassingers/awesome-readme/readme/README.md) ]
 
+## [Mar 15, 2024](/content/2024/03/15/README.md)
+
+### Examples
+
+*   [hywax/mafl (⭐96)](https://github.com/hywax/mafl#readme) - Project logo. Clear description of what the project does. TOC for easy navigation. Usage code samples.
+
 ## [Mar 14, 2024](/content/2024/03/14/README.md)
 
 ### Examples

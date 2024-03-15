@@ -6,6 +6,27 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 [ Daily / [Weekly](/content/owainlewis/awesome-artificial-intelligence/week/README.md) / [Overview](/content/owainlewis/awesome-artificial-intelligence/readme/README.md) ]
 
+## [Mar 15, 2024](/content/2024/03/15/README.md)
+
+### Tools
+
+*   [Chat GPT](https://chat.openai.com/) ChatGPT is a free-to-use AI system. It allows users to engage in conversations, gain insights, automate tasks, and witness the future of AI all in one place.
+*   [Gemini](https://gemini.google.com/) Gemini gives you direct access to Google AI. Get help with writing, planning, learning, and more.
+*   [DALL·E 2](https://openai.com/dall-e-3) DALL·E 3 is an AI system that can create realistic images and art from a natural-language description.
+*   [Sora](https://openai.com/sora) Sora is a text-to-video AI model that can create realistic and imaginative scenes from text instructions.
+
+### Courses
+
+*   [Machine Learning Observability Course](https://arize.com/blog-course/) - Self-guided course covers the intuition, math, and best practices for effective machine learning observability.
+
+### Books
+
+*   [Generative AI in Action](https://www.manning.com/books/generative-ai-in-action) - A book that shows exactly how to add generative AI tools for text, images, and code, and more into your organization’s strategies and projects..
+
+### Newsletters
+
+*   [Superhuman.ai](https://www.superhuman.ai/) A daily AI newsletter
+
 ## [Mar 07, 2024](/content/2024/03/07/README.md)
 
 ### Courses
@@ -22,8 +43,8 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ### Philosophy
 
-*   [Minds, Brains, And Programs](http://cogprints.org/7150/1/10.1.1.83.5248.pdf) - The 1980 paper by philosopher John Searle that contains the famous 'Chinese Room' thought experiment. Probably the most famous attack on the notion of a Strong AI possessing a 'mind' or a 'consciousness', and interesting reading for those interested in the intersection of AI and philosophy of mind.
-*   [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) - Written by Douglas Hofstadter and taglined "a metaphorical fugue on minds and machines in the spirit of Lewis Carroll", this wonderful journey into the the fundamental concepts of mathematics,symmetry and intelligence won a Pulitzer Prize for Non-Fiction in 1979. A major theme throughout is the emergence of meaning from seemingly 'meaningless' elements, like 1's and 0's, arranged in special patterns.
+*   [Minds, Brains, And Programs](http://cogprints.org/7150/1/10.1.1.83.5248.pdf) - The 1980 paper by philosopher John Searle that contains the famous 'Chinese Room' thought experiment. It is probably the most famous attack on the notion of a Strong AI possessing a 'mind' or a 'consciousness', and it is an interesting reading for those interested in the intersection of AI and philosophy of mind.
+*   [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) - Written by Douglas Hofstadter and taglined "a metaphorical fugue on minds and machines in the spirit of Lewis Carroll", this incredible journey into the fundamental concepts of mathematics, symmetry and intelligence won a Pulitzer Prize for Non-Fiction in 1979. A major theme throughout is the emergence of meaning from seemingly 'meaningless' elements, like 1's and 0's, arranged in special patterns.
 
 ### Learning
 
@@ -54,7 +75,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ### Books
 
-*   [How Machine Learning Works](https://livebook.manning.com/book/how-machine-learning-works/welcome/v-5) - Mostafa Samir. Early access book that introduces machine learning from both practical and theoretical aspects in a non-threating way.
+*   [How Machine Learning Works](https://livebook.manning.com/book/how-machine-learning-works/welcome/v-5) - Mostafa Samir. Early access book that introduces machine learning from both practical and theoretical aspects in a non-threatening way.
 
 ### Programming
 
@@ -104,7 +125,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ### Code
 
-*   [ExplainX (⭐380)](https://github.com/explainX/explainx)- ExplainX is a fast, light-weight, and scalable explainable AI framework for data scientists to explain any black-box model to business stakeholders.
+*   [ExplainX (⭐380)](https://github.com/explainX/explainx)- ExplainX is a fast, lightweight, and scalable explainable AI framework for data scientists to explain any black-box model to business stakeholders.
 
 ## [Jul 01, 2020](/content/2020/07/01/README.md)
 
@@ -120,7 +141,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ### Books
 
-*   [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) - a book on general purpose machine learning techniques regression, classification, unsupervised clustering, reinforcement learning, auto encoders, convolutional neural networks, RNNs, LSTMs, using TensorFlow 1.14.1.
+*   [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) is a book on general-purpose machine learning techniques, including regression, classification, unsupervised clustering, reinforcement learning, autoencoders, convolutional neural networks, RNNs, and LSTMs, using TensorFlow 1.14.1.
 
 ### Organizations
 
@@ -182,15 +203,11 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 *   [Journal on Data Semantics ](http://www.springer.com/journal/13740)
 *   [Knowledge Engineering Review](http://journals.cambridge.org/action/displayJournal?jid=KER)
 
-### Newsletters
-
-*   [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
-
 ## [May 29, 2019](/content/2019/05/29/README.md)
 
 ### Free Content
 
-*   [R2D3](http://www.r2d3.us/) - A website with explanations on topics from Machine Learning to Statistics. All helped with beautiful animated infographics and real life examples. Available in various languages.
+*   [R2D3](http://www.r2d3.us/) - A website with explanations on topics from Machine Learning to Statistics. All helped with beautifully animated infographics and real-life examples. Available in various languages.
 
 ### Learning
 
@@ -203,7 +220,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ### Videos
 
-*   [Reinforcement Learning in Motion](https://www.manning.com/livevideo/reinforcement-learning-in-motion) - This liveVideo breaks down key concepts like how RL systems learn, how to sense and process environmental data, and how to build and train AI agents.
+*   [Reinforcement Learning in Motion](https://www.manning.com/livevideo/reinforcement-learning-in-motion) - This live-video breaks down critical concepts like how RL systems learn, how to sense and process environmental data, and how to build and train AI agents.
 
 ## [Nov 30, 2018](/content/2018/11/30/README.md)
 
@@ -251,9 +268,9 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ### Videos
 
-*   [AWS Machine Learning in Motion](https://www.manning.com/livevideo/aws-machine-learning-in-motion)- This interactive liveVideo course gives you a crash course in using AWS for machine learning, teaching you how to build a fully-working predictive algorithm.
+*   [AWS Machine Learning in Motion](https://www.manning.com/livevideo/aws-machine-learning-in-motion)—This interactive live video course gives you a crash course in using AWS for machine learning and teaches you how to build a fully working predictive algorithm.
 *   [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion)-Deep Learning with R in Motion teaches you to apply deep learning to text and images using the powerful Keras library and its R language interface.
-*   [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion)-Grokking Deep Learning in Motion will not just teach you how to use a single library or framework, you’ll actually discover how to build these algorithms completely from scratch!
+*   [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion)-Grokking Deep Learning in Motion will not just teach you how to use a single library or framework. You’ll discover how to build these algorithms from scratch!
 
 ## [Aug 09, 2018](/content/2018/08/09/README.md)
 
@@ -271,9 +288,9 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ### Learning
 
-*   [Professional and In-Depth Machine Learning Video Courses](https://freecoursesite.com/?s=Machine+Learning+Data+Science) - A collection of free professional and in depth Machine Learning and Data Science video tutorials and courses
-*   [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) - A collection of free professional and in depth Artificial Intelligence video tutorials and courses
-*   [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in depth Deep Learning video tutorials and courses
+*   [Professional and In-Depth Machine Learning Video Courses](https://freecoursesite.com/?s=Machine+Learning+Data+Science) - A collection of free professional and in-depth Machine Learning and Data Science video tutorials and courses
+*   [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) - A collection of free professional and in-depth Artificial Intelligence video tutorials and courses
+*   [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in-depth Deep Learning video tutorials and courses
 
 ## [Aug 02, 2018](/content/2018/08/02/README.md)
 
@@ -328,7 +345,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ### Philosophy
 
-*   [Super Intelligence](http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G) - Superintelligence asks the questions: What happens when machines surpass humans in general intelligence. A really great book.
+*   [Super Intelligence](http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G) - Superintelligence asks the question: What happens when machines surpass humans in general intelligence?
 
 ### Free Content
 
@@ -336,7 +353,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ### Code
 
-*   [AIMACode](https://github.com/aimacode) - Source code for "Artificial Intelligence: A Modern Approach" in Common Lisp, Java, Python. More to come.
+*   [AIMACode](https://github.com/aimacode) - Source code for "Artificial Intelligence: A Modern Approach" in Common Lisp, Java, and Python. More to come.
 
 ## [May 08, 2016](/content/2016/05/08/README.md)
 
@@ -455,7 +472,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ### Free Content
 
-*   [Foundations Of Computational Agents](http://artint.info/html/ArtInt.html) - This book is published by Cambridge University Press, 2010
+*   [Foundations Of Computational Agents](http://artint.info/html/ArtInt.html) - This book is published by Cambridge University Press
 *   [The Quest For Artificial Intelligence](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - This book traces the history of the subject, from the early dreams of eighteenth-century (and earlier) pioneers to the more successful work of today's AI engineers.
 
 ### Videos
@@ -475,13 +492,13 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ### Free Content
 
-*   [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - a book by Bill Hibbard that combines several peer reviewed papers and new material to analyze the issues of ethical artificial intelligence.
+*   [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - a book by Bill Hibbard that combines several peer-reviewed papers and new material to analyze the issues of ethical artificial intelligence.
 
 ## [Feb 02, 2015](/content/2015/02/02/README.md)
 
 ### Free Content
 
-*   [Computers and Thought: A practical Introduction to Artificial Intelligence](http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/) - The book covers computer simulation of human activities, such as problem solving and natural language understanding; computer vision; AI tools and techniques; an introduction to AI programming; symbolic and neural network models of cognition; the nature of mind and intelligence; and the social implications of AI and cognitive science.
+*   [Computers and Thought: A practical Introduction to Artificial Intelligence](http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/) - The book covers computer simulation of human activities, such as problem-solving and natural language understanding; computer vision; AI tools and techniques; an introduction to AI programming; symbolic and neural network models of cognition; the nature of mind and intelligence; and the social implications of AI and cognitive science.
 
 ## [Jan 28, 2015](/content/2015/01/28/README.md)
 

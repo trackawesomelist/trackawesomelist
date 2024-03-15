@@ -8,6 +8,10 @@
 
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
 
+### Programming Languages / [Other](#other-1)
+
+*   [cargo-geiger (⭐1.3k)](https://github.com/geiger-rs/cargo-geiger) — A cargo plugin for analysing the usage of unsafe Rust code Provides statistical output to aid security auditing
+
 ### Multiple languages / [Other](#other-1)
 
 *   [Mobb](https://mobb.ai) :copyright: — Mobb is a trusted, automatic vulnerability fixer that secures applications, reduces security backlogs,  and frees developers to focus on innovation. Mobb is free for open-source projects.

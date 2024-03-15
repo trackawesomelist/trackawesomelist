@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Mar 15, 2024](/content/2024/03/15/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   [cargo-geiger (⭐1.3k)](https://github.com/geiger-rs/cargo-geiger) — A cargo plugin for analysing the usage of unsafe Rust code Provides statistical output to aid security auditing
+
 ## [Mar 14, 2024](/content/2024/03/14/README.md)
 
 ### Multiple languages / [Other](#other-1)

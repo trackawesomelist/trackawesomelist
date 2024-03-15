@@ -10,6 +10,7 @@ A curated list of awesome READMEs
 
 ### Examples
 
+*   [hywax/mafl (⭐96)](https://github.com/hywax/mafl#readme) - Project logo. Clear description of what the project does. TOC for easy navigation. Usage code samples.
 *   [Owloops/updo (⭐117)](https://github.com/owloops/updo#readme) - Well-structured, visually appealing, and provides comprehensive information about the tool, from its purpose and features to installation and usage, in a clear and user-friendly manner.
 
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)

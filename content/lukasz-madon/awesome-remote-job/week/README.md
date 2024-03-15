@@ -2,9 +2,16 @@
 
 A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 26K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 28K · 🏷️ Work
 
 [ [Daily](/content/lukasz-madon/awesome-remote-job/README.md) / Weekly / [Overview](/content/lukasz-madon/awesome-remote-job/readme/README.md) ]
+
+## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
+
+### Companies with "remote DNA"
+
+*   [Customer.io](https://customer.io/careers/) - Customer engagement platform. 100% remote and globally distributed team. Go, MySQL, Typescript, Ember, React, etc
+*   [Truelogic](https://www.truelogic.io/careers) - Outsourcing company focused on Latin America talent for US companies
 
 ## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
 
@@ -202,7 +209,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [SoftwareMill](https://softwaremill.com/join-us/)
 *   [Soshace](https://soshace.com/) - Angular/React/Vue.js/Java/Python remote development company
 *   [Songspace](https://songspace.com) Helps music creators collaborate, catalog, and share work with their professional team
-*   [Sourcegraph (⭐132)](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
+*   [Sourcegraph (⭐131)](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
 *   [StackExchange](https://stackoverflow.com/company/work-here)
 *   [Stream Native](https://streamnative.io) Cloud-Native messaging and event streaming powered by Apache Pulsar
 *   [Stripe](https://stripe.com/blog/remote-hub) Stripe builds financial tools and economic infrastructure for the internet
@@ -492,7 +499,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Communities
 
-*   [##remotes (⭐12)](https://github.com/remotesclub/remotes) - IRC channel ([web access](https://webchat.freenode.net/?channels=#remotes))
+*   [##remotes (⭐15)](https://github.com/remotesclub/remotes) - IRC channel ([web access](https://webchat.freenode.net/?channels=#remotes))
 *   [Hacker Paradise](https://www.hackerparadise.org/) - Traveling remote workers.
 *   [Remote Year](https://www.remoteyear.com/) - Traveling techies for 1 year.
 
@@ -601,7 +608,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 ### Job boards
 
 *   [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
-*   [remote-es/remotes (⭐621)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
+*   [remote-es/remotes (⭐1.9k)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
 
 ### Companies with "remote DNA"
 
@@ -741,7 +748,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Tools / Communication
 
-*   [Matrix (⭐895)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+*   [Matrix (⭐901)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 
 ## [May 06 - May 12, 2019](/content/2019/18/README.md)
 
@@ -784,7 +791,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [Established Remote (⭐6.2k)](https://github.com/yanirs/established-remote) - A list of established remote companies
+*   [Established Remote (⭐6.7k)](https://github.com/yanirs/established-remote) - A list of established remote companies
 
 ## [Jan 07 - Jan 13, 2019](/content/2019/1/README.md)
 
@@ -1065,7 +1072,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Job boards
 
-*   [remote-jobs (⭐25k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
+*   [remote-jobs (⭐27k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
 
 ## [Sep 11 - Sep 17, 2017](/content/2017/37/README.md)
 
@@ -1133,13 +1140,13 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [awesome-digital-nomads (⭐780)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+*   [awesome-digital-nomads (⭐848)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 
 ## [Mar 13 - Mar 19, 2017](/content/2017/11/README.md)
 
 ### Others / Others
 
-*   [Remote Working (⭐8.7k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
+*   [Remote Working (⭐9.7k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
 
 ## [Feb 13 - Feb 19, 2017](/content/2017/7/README.md)
 
@@ -1186,7 +1193,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Interviewing
 
-*   [awesome-interviews (⭐55k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
+*   [awesome-interviews (⭐66k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
 
 ### Podcasts
 
@@ -1277,7 +1284,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Interviewing
 
-*   [andreis/interview (⭐16k)](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
+*   [andreis/interview (⭐17k)](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
 
 ## [Mar 21 - Mar 27, 2016](/content/2016/12/README.md)
 
