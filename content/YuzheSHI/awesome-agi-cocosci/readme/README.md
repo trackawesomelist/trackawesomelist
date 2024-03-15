@@ -1806,6 +1806,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [wikiHow](https://www.wikihow.com/Main-Page) - ***wikiHow\.com***. wikiHow is on website hosting step-by-step "How-to" procedural instructions across various domains and topics.
 
+*   [The World Avatar](https://theworldavatar.io/) - ***The World Avatar™***. A large-scale dynamic knowledge graph connecting concepts with relations to digitalize molecules, buildings, cities, and countries.
+
 *   [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://faculty.cc.gatech.edu/~isbell/classes/reading/papers/lenat95cyc.pdf) - ***Communications of the ACM***, 1995. \[[All Versions](https://scholar.google.com/scholar?cluster=6505009388871605141\&hl=en\&as_sdt=0,5)]. The first attempt to build large-scale commonse knoweldgebase from human knowledge.
 
 *   [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://arxiv.org/pdf/1612.03975.pdf) - ***AAAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7089916805257737701\&hl=en\&as_sdt=0,5)]. Latest version of ConceptNet.

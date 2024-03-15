@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Mar 15, 2024](/content/2024/03/15/README.md)
+
+### Commonsense / Commonsense Knowledgebase
+
+*   [The World Avatar](https://theworldavatar.io/) - ***The World Avatar™***. A large-scale dynamic knowledge graph connecting concepts with relations to digitalize molecules, buildings, cities, and countries.
+
 ## [Mar 14, 2024](/content/2024/03/14/README.md)
 
 ### Science Logology / Democratization of Science

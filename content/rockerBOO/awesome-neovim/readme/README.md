@@ -167,6 +167,7 @@ Collections of awesome neovim plugins.
 *   [jmbuhr/otter.nvim (⭐293)](https://github.com/jmbuhr/otter.nvim) - Provides LSP features and a nvim-cmp completion source for languages embedded in other documents.
 *   [lopi-py/luau-lsp.nvim (⭐27)](https://github.com/lopi-py/luau-lsp.nvim) - A luau-lsp extension to improve your experience.
 *   [LukasPietzschmann/boo.nvim (⭐0)](https://github.com/LukasPietzschmann/boo.nvim) - Quickly pop-up some LSP-powered information of the thing your cursor is on.
+*   [zeioth/garbage-day.nvim (⭐127)](https://github.com/Zeioth/garbage-day.nvim) - Garbage collector that stops inactive LSP clients to free RAM.
 
 #### LSP Installer
 
@@ -357,7 +358,7 @@ Collections of awesome neovim plugins.
 *   [vijaymarupudi/nvim-fzf (⭐313)](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using FZF (Neovim >= 0.5). Allows for full asynchronicity for UI speed and usability.
 *   [camspiers/snap (⭐440)](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
 *   [ibhagwan/fzf-lua (⭐1.6k)](https://github.com/ibhagwan/fzf-lua) - The Lua version of `fzf.vim`, high-performance and fully async, supports `nvim-web-devicons`, git indicators, LSP, quickfix/location lists and more. Also supports [`skim`](https://github.com/lotabout/skim) as its fzf binary.
-*   [jvgrootveld/telescope-zoxide (⭐254)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐16k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐254)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐17k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 *   [echasnovski/mini.nvim#mini.fuzzy (⭐3.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-fuzzy.md) - Module of `mini.nvim` with functions to perform fuzzy matching of one string to others along with fast Telescope sorter.
 *   [axkirillov/easypick.nvim (⭐327)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
 *   [linrongbin16/fzfx.nvim (⭐85)](https://github.com/linrongbin16/fzfx.nvim) - FZF-based fuzzy finder running on a dynamic engine that parsing user query and selection on every keystroke.
@@ -759,7 +760,9 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [backdround/tabscope.nvim (⭐34)](https://github.com/backdround/tabscope.nvim) - Make tab-local buffers.
 *   [linrongbin16/gentags.nvim (⭐10)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
 *   [theKnightsOfRohan/csvlens.nvim (⭐23)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens (⭐2k)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
+*   [Mr-LLLLL/utilities.nvim (⭐2)](https://github.com/Mr-LLLLL/utilities.nvim) - A repository to collect some little utility functions.
 *   [mcauley-penney/visual-whitespace.nvim (⭐10)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
+*   [Zeioth/distroupdate.nvim (⭐3)](https://github.com/Zeioth/distroupdate.nvim) - Distro agnostic updater to get the latest changes from the git repository of your config.
 
 ## Terminal Integration
 

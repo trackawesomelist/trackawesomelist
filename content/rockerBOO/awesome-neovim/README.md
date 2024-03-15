@@ -6,6 +6,17 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Mar 15, 2024](/content/2024/03/15/README.md)
+
+### (requires Neovim 0.5)
+
+*   [zeioth/garbage-day.nvim (⭐127)](https://github.com/Zeioth/garbage-day.nvim) - Garbage collector that stops inactive LSP clients to free RAM.
+
+### Utility / Diagnostics
+
+*   [Mr-LLLLL/utilities.nvim (⭐2)](https://github.com/Mr-LLLLL/utilities.nvim) - A repository to collect some little utility functions.
+*   [Zeioth/distroupdate.nvim (⭐3)](https://github.com/Zeioth/distroupdate.nvim) - Distro agnostic updater to get the latest changes from the git repository of your config.
+
 ## [Mar 13, 2024](/content/2024/03/13/README.md)
 
 ### AI / Diagnostics
@@ -3334,7 +3345,7 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [jvgrootveld/telescope-zoxide (⭐254)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐16k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐254)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐17k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [Oct 03, 2021](/content/2021/10/03/README.md)
 

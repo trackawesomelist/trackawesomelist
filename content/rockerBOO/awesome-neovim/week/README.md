@@ -8,13 +8,19 @@ Collections of awesome neovim plugins.
 
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
 
+### (requires Neovim 0.5)
+
+*   [zeioth/garbage-day.nvim (⭐127)](https://github.com/Zeioth/garbage-day.nvim) - Garbage collector that stops inactive LSP clients to free RAM.
+
 ### AI / Diagnostics
 
 *   [olimorris/codecompanion.nvim (⭐8)](https://github.com/olimorris/codecompanion.nvim) - Use the power of generative AI. Use it to chat, author and advise you on your code. Supports Anthropic, Ollama and OpenAI.
 
 ### Utility / Diagnostics
 
+*   [Mr-LLLLL/utilities.nvim (⭐2)](https://github.com/Mr-LLLLL/utilities.nvim) - A repository to collect some little utility functions.
 *   [mcauley-penney/visual-whitespace.nvim (⭐10)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
+*   [Zeioth/distroupdate.nvim (⭐3)](https://github.com/Zeioth/distroupdate.nvim) - Distro agnostic updater to get the latest changes from the git repository of your config.
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
@@ -2719,7 +2725,7 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [jvgrootveld/telescope-zoxide (⭐254)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐16k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐254)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐17k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [Sep 27 - Oct 03, 2021](/content/2021/39/README.md)
 

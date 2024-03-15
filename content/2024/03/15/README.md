@@ -1,19 +1,48 @@
 # Awesome List Updates on Mar 15, 2024
 
-11 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### Libraries/Packages/Scripts / Python
+
+*   [polars\_hash (⭐27)](https://github.com/ion-elgreco/polars-hash) - Python package that provides stable hashing functionality across different Polars versions by [@ion-elgreco](https://github.com/ion-elgreco).
+
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Commonsense / Commonsense Knowledgebase
+
+*   [The World Avatar](https://theworldavatar.io/) - ***The World Avatar™***. A large-scale dynamic knowledge graph connecting concepts with relations to digitalize molecules, buildings, cities, and countries.
+
+## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / System tools
+
+*   [netscanner (⭐477)](https://github.com/Chleba/netscanner) - TUI Network Scanner
+
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### (requires Neovim 0.5)
+
+*   [zeioth/garbage-day.nvim (⭐127)](https://github.com/Zeioth/garbage-day.nvim) - Garbage collector that stops inactive LSP clients to free RAM.
+
+### Utility / Diagnostics
+
+*   [Mr-LLLLL/utilities.nvim (⭐2)](https://github.com/Mr-LLLLL/utilities.nvim) - A repository to collect some little utility functions.
+*   [Zeioth/distroupdate.nvim (⭐3)](https://github.com/Zeioth/distroupdate.nvim) - Distro agnostic updater to get the latest changes from the git repository of your config.
+
+## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Companies with "remote DNA"
 
 *   [Customer.io](https://customer.io/careers/) - Customer engagement platform. 100% remote and globally distributed team. Go, MySQL, Typescript, Ember, React, etc
 *   [Truelogic](https://www.truelogic.io/careers) - Outsourcing company focused on Latin America talent for US companies
 
-## [2. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [6. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Tools
 
@@ -34,19 +63,19 @@
 
 *   [Superhuman.ai](https://www.superhuman.ai/) A daily AI newsletter
 
-## [3. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Build and Package / Apache License
 
 *   [alr2appimage (⭐8)](https://github.com/mgrojo/alr2appimage) - A tool for automatically creating an AppImage executable from an Alire crate.
 
-## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Queues and Messaging
 
 *   [crafka (⭐13)](https://github.com/BT-OpenSource/crafka) - Apache Kafka library utilizing `librdkafka`
 
-## [5. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -76,7 +105,7 @@
 
 *   [Cadence (⭐7.7k) (⭐7.7k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
 
-## [6. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [10. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / Machine Learning
 
@@ -86,19 +115,19 @@
 
 *   [DOCKSTRING (⭐121)](https://github.com/dockstring/dockstring) - Automates and standardizes ligand preparation for AutoDock Vina.
 
-## [7. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [11. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
 *   [hywax/mafl (⭐96)](https://github.com/hywax/mafl#readme) - Project logo. Clear description of what the project does. TOC for easy navigation. Usage code samples.
 
-## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [braundo (⭐0)](https://github.com/Braundo/braundo-zsh-theme) - Straightforward theme with username, current directory, `git` status, and timestamp.
 
-## [9. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [13. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Resources / Documentation
 
@@ -108,13 +137,13 @@
 
 *   [driver-kotlin-coroutine (⭐2.6k)](https://github.com/mongodb/mongo-java-driver/tree/master/driver-kotlin-coroutine) - Official Kotlin driver
 
-## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [cargo-geiger (⭐1.3k)](https://github.com/geiger-rs/cargo-geiger) — A cargo plugin for analysing the usage of unsafe Rust code Provides statistical output to aid security auditing
 
-## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
 ### C++ / Non-X86
 

@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Mar 15, 2024](/content/2024/03/15/README.md)
+
+### Applications / System tools
+
+*   [netscanner (⭐477)](https://github.com/Chleba/netscanner) - TUI Network Scanner
+
 ## [Mar 14, 2024](/content/2024/03/14/README.md)
 
 ### Applications / Database
@@ -754,7 +760,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [Atomic-Server (⭐701)](https://github.com/atomicdata-dev/atomic-server/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml)
+*   [Atomic-Server (⭐725)](https://github.com/atomicdata-dev/atomic-server/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml)
 
 ### Libraries / Data structures
 
@@ -806,7 +812,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Profiling
 
-*   [Bencher (⭐292)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
+*   [Bencher (⭐311)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
 
 ## [Mar 27, 2023](/content/2023/03/27/README.md)
 
@@ -1501,7 +1507,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Web Servers
 
-*   [orhun/rustypaste (⭐636)](https://github.com/orhun/rustypaste) — A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/actions/workflow/status/orhun/rustypaste/ci.yml?branch=master\&label=build)
+*   [orhun/rustypaste (⭐648)](https://github.com/orhun/rustypaste) — A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/actions/workflow/status/orhun/rustypaste/ci.yml?branch=master\&label=build)
 
 ### Development tools / Web Servers
 
@@ -2305,7 +2311,7 @@ A curated list of Rust code and resources.
     *   [pyrossh/rust-embed (⭐1.5k)](https://github.com/pyrossh/rust-embed) — A macro to embed static assets into the rust binary
     *   [serenity-rs/serenity (⭐4.3k)](https://github.com/serenity-rs/serenity) \[[serenity](https://crates.io/crates/serenity)] - A library for the Discord API
     *   [softprops/openapi (⭐123)](https://github.com/softprops/openapi) — A library for processing openapi spec files
-    *   [svix/svix-webhooks (⭐1.9k)](https://github.com/svix/svix-webhooks) \[[svix](https://crates.io/crates/svix)]- A library for sending webhooks and verifying signatures.
+    *   [svix/svix-webhooks (⭐2k)](https://github.com/svix/svix-webhooks) \[[svix](https://crates.io/crates/svix)]- A library for sending webhooks and verifying signatures.
     *   [tbot](https://gitlab.com/SnejUgal/tbot) \[[tbot](https://crates.io/crates/tbot)] - Make cool Telegram bots easily [![pipeline status](https://gitlab.com/SnejUgal/tbot/badges/master/pipeline.svg)](https://gitlab.com/SnejUgal/tbot/-/commits/master)
     *   [teloxide/teloxide (⭐2.5k)](https://github.com/teloxide/teloxide/) - An elegant Telegram bots framework [![Build Status](https://github.com/teloxide/teloxide/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/teloxide/teloxide/actions)
     *   [utkarshkukreti/select.rs (⭐925)](https://github.com/utkarshkukreti/select.rs) \[[select](https://crates.io/crates/select)] — A library to extract useful data from HTML documents, suitable for web scraping.
@@ -3198,6 +3204,7 @@ A curated list of Rust code and resources.
     *   [tiny-http (⭐939)](https://github.com/tiny-http/tiny-http) — Low level HTTP server library
     *   [tokio/axum (⭐15k)](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper [![Build badge](https://github.com/tokio-rs/axum/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/tokio-rs/axum/actions/workflows/CI.yml)
     *   [tomaka/rouille (⭐1.1k)](https://github.com/tomaka/rouille) — Web framework
+    *   [Zino (⭐556)](https://github.com/zino-rs/zino) — Next-generation framework for composable applications
 *   Static Site Generators
     *   [cobalt-org/cobalt.rs (⭐1.3k)](https://github.com/cobalt-org/cobalt.rs) — Static site generator [![Build Status](https://dev.azure.com/cobalt-org/cobalt-org/_apis/build/status/cobalt.rs?branchName=master)](https://dev.azure.com/cobalt-org/cobalt-org/_build?definitionId=2)
     *   [FuGangqiang/mdblog.rs (⭐56)](https://github.com/FuGangqiang/mdblog.rs) \[[mdblog](https://crates.io/crates/mdblog)] — Static site generator from markdown files.
