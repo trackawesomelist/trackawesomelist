@@ -6,6 +6,12 @@ A curated list for when naming things is done right.
 
 [ [Daily](/content/gruhn/awesome-naming/README.md) / Weekly / [Overview](/content/gruhn/awesome-naming/readme/README.md) ]
 
+## [Apr 01 - Apr 07, 2024](/content/2024/14/README.md)
+
+### Tools, Applications, Libraries, Frameworks
+
+*   [Webpack](https://webpack.js.org/) - A bundler for JavaScript and other *web* assets with a short and descriptive name that also somewhat rhymes.
+
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
 ### Design Patterns and Anti Patterns
@@ -26,7 +32,7 @@ A curated list for when naming things is done right.
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
-### Tools and Applications
+### Tools, Applications, Libraries, Frameworks
 
 *   [Safari](https://en.wikipedia.org/wiki/Safari_\(web_browser\)) - Web browser developed by Apple.
 
@@ -48,7 +54,7 @@ A curated list for when naming things is done right.
 
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 
-### Libraries and Frameworks
+### Tools, Applications, Libraries, Frameworks
 
 *   [horcrux (⭐4.4k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
 
@@ -106,16 +112,16 @@ A curated list for when naming things is done right.
 
 *   [Tree](https://en.wikipedia.org/wiki/Tree_\(data_structure\)) - A hierarchically organized data structure. From the *root* item the other items *branch out* into *nodes* and *leaves*. A collection of trees is often called a *forest*.
 
-### Tools and Applications
+### Tools, Applications, Libraries, Frameworks
 
 *   [tldr](https://tldr.sh/) - Simplified man pages with practical examples.
 *   [yarn](https://yarnpkg.com/) - NodeJS dependency manager.
 
 ## [Oct 11 - Oct 17, 2021](/content/2021/41/README.md)
 
-### Libraries and Frameworks
+### Tools, Applications, Libraries, Frameworks
 
-*   [Puppeteer (⭐86k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐87k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
 ## [Oct 04 - Oct 10, 2021](/content/2021/40/README.md)
 
@@ -150,14 +156,14 @@ A curated list for when naming things is done right.
 
 ## [May 03 - May 09, 2021](/content/2021/18/README.md)
 
-### Libraries and Frameworks
-
-*   [Uglify (⭐13k)](https://github.com/mishoo/UglifyJS) - A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller.
-
 ### Theoretical Computer Science
 
 *   [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) - A game world that showcases how astonishing complexity can arise from very simple ingredients.
 *   [Pumping lemma](https://en.wikipedia.org/wiki/Pumping_lemma) - The fact that in some formal languages any sufficiently long string can be *pumped* with repetitions of its substring and the result stays in the same formal language.
+
+### Tools, Applications, Libraries, Frameworks
+
+*   [Uglify (⭐13k)](https://github.com/mishoo/UglifyJS) - A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller.
 
 ## [Apr 19 - Apr 25, 2021](/content/2021/16/README.md)
 
@@ -210,7 +216,7 @@ A curated list for when naming things is done right.
 
 ## [Jul 13 - Jul 19, 2020](/content/2020/28/README.md)
 
-### Libraries and Frameworks
+### Tools, Applications, Libraries, Frameworks
 
 *   [uppy (⭐28k)](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
 
@@ -265,7 +271,7 @@ A curated list for when naming things is done right.
 
 *   [Computer virus](https://en.wikipedia.org/wiki/Computer_virus) - A computer program that self replicates by *infecting* other computer programs similar to the behavior of biological viruses.
 
-### Libraries and Frameworks
+### Tools, Applications, Libraries, Frameworks
 
 *   [clooney (⭐1.4k)](https://github.com/GoogleChromeLabs/clooney) - A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney who is also an actor.
 

@@ -6,6 +6,18 @@ A list of amazing Newsletters
 
 [ [Daily](/content/zudochkin/awesome-newsletters/README.md) / Weekly / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 
+## [Apr 01 - Apr 07, 2024](/content/2024/14/README.md)
+
+### Rust / Svelte
+
+*   [Rust Bytes](https://weeklyrust.substack.com/). A fun weekly newsletter keeping you informed about all things noteworthy in the world of The Rust Programming Language.
+
+## [Mar 25 - Mar 31, 2024](/content/2024/13/README.md)
+
+### Leadership / Svelte
+
+*   [Engineering Leadership](https://newsletter.eng-leadership.com/). Weekly newsletter for becoming a great engineering leader.
+
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
 
 ### General Section / Svelte
@@ -758,7 +770,7 @@ A list of amazing Newsletters
 
 ### R / Svelte
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐658)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐666)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby / Svelte
 

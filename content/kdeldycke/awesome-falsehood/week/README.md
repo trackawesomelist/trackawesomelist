@@ -6,6 +6,12 @@
 
 [ [Daily](/content/kdeldycke/awesome-falsehood/README.md) / Weekly / [Overview](/content/kdeldycke/awesome-falsehood/readme/README.md) ]
 
+## [Mar 18 - Mar 24, 2024](/content/2024/12/README.md)
+
+### Emails
+
+*   [`libvldmail`](https://github.com/dertuxmalwieder/libvldmail) - A library that implements RFC-based checks for e-mail addresses.
+
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
 ### Internationalization

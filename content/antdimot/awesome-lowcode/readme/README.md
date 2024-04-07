@@ -2,7 +2,7 @@
 
 A collection of Awesome low-code development platform (LCDP).
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 287 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 312 · 🏷️ Miscellaneous
 
 [ [Daily](/content/antdimot/awesome-lowcode/README.md) / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / Overview ]
 
@@ -36,7 +36,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Accern](https://accern.com) - Accelerate AI Workflows for Financial Services.
 *   [AI Builder](https://flow.microsoft.com/en-us/ai-builder/) - Bring intelligent automation to your business processes with AI that’s easy to train and configure in Power Automate.
 *   [Alteryx](https://www.alteryx.com/products/alteryx-platform/machine-learning) - Scale data science across your business with automated machine learning (AutoML).
-*   [AutoGen (⭐20k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+*   [AutoGen (⭐23k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 *   [Dataiku](https://www.dataiku.com/product/key-capabilities/machine-learning) - Build advanced machine learning models using the latest techniques.
 *   [DataRobot](https://www.datarobot.com/platform/visual-ai/) - DataRobot Automated Machine Learning with Visual AI.
 *   [Gravity-AI](https://www.gravity-ai.com/) - The fastest & most secure way to solve business problems with A.I.
@@ -106,6 +106,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [AppSumo](https://appsumo.com/) - Discover, buy, & sell the products you need to grow your business.
 *   [Bannerbear](https://www.bannerbear.com/) - Auto-generate social media visuals, ecommerce banners, dynamic email images and more with our API and integrations.
 *   [Klaviyo](https://www.klaviyo.com/) - Ecommerce marketing automation platform.
+*   [Datawave](https://datawave.app) - Startup Marketing Platform
 
 ## Online database creator apps
 
@@ -134,29 +135,35 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [bubble](https://bubble.io/) - A code-free programming language that lets you build and host web applications without engineers.
 *   [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for pretty much anything.
 *   [Cloudscape](https://cloudscape.design/) - An open source design system for the cloud.
+*   [Convertigo](https://www.convertigo.com/) - An Enterprise open source LowCode Platform to build Web & mobile apps
 *   [Dronahq](https://www.dronahq.com) - Build business apps without coding.
+*   [Dynaboard](https://dynaboard.com) - Build production-ready low-code web apps in 60 seconds using AI.
 *   [Heyflow](https://heyflow.app/) - Build interactive flows.
 *   [Glide](https://www.glideapps.com/) - Create an app from a Google Sheet in five minutes, for free.
 *   [Growform](https://www.growform.co/) - The Multi Step Form Builder that Gets You More Leads.
+*   [FlutterFlow](https://www.flutterflow.io) - Build applications faster than ever.
 *   [Honeycode](https://www.honeycode.aws/) - Build a better way to work.
 *   [Insomnia](https://insomnia.rest) - Build APIs that work.
 *   [Jotform App](https://www.jotform.com/products/apps/) - Create apps for your business.
+*   [Loopple](https://www.loopple.com) - Drag and drop dashboard builder
 *   [Mendix](https://www.mendix.com/) - Accelerate enterprise app development.
 *   [Observable](https://observablehq.com/) - Push the limits of data visualization.
 *   [Outsystems](https://www.outsystems.com/) - Build Applications Fast, Right, and for the Future.
 *   [Plasmic](https://www.plasmic.app/) - The visual builder for your tech stack.
-*   [Potion](https://www.potion.so/) - Create custom websitesin minutes. All on [Notion](https://www.notion.so/).
+*   [Potion](https://www.potion.so/) - Create custom websites in minutes. All on [Notion](https://www.notion.so/).
 *   [Power Apps](https://powerapps.microsoft.com) - Create the high productivity apps you need for your business with an advanced set of tools.
 *   [Quarkly](https://quarkly.io) - Design tool for creating websites and web apps.
 *   [Quickbase](https://www.quickbase.com) - Application development platform that unites business and IT teams.
+*   [REI3](https://rei3.de/en/home) - The free and open low code platform for your business
 *   [Sanity](https://www.sanity.io/) - The unified content platform.
 *   [SAP Build](https://www.sap.com/products/technology-platform/low-code.html) - Create apps, automate processes, and design business sites with drag-and-drop simplicity.
-*   [Shuffle](https://shuffle.dev/) - Create teamplate in minutes.
+*   [Shuffle](https://shuffle.dev/) - Create templates in minutes.
 *   [Softr](https://www.softr.io) - From zero to a website in 5 minutes, using building blocks.
 *   [Stacker](https://stacker.app) - Turn your spreadsheets into applications.
 *   [Storybook](https://storybook.js.org) - Build component driven UIs faster.
 *   [Super](https://super.so) - Build websites with the simplicity of Notion.
 *   [Typedream](https://typedream.com) - The new way to make a website.
+*   [UI Bakery](https://uibakery.io) - Custom web applications at speed.
 *   [Versoly](https://versoly.com/) - The no-code website builder that everyone loves to use.
 *   [Webflow](https://webflow.com) - Build better business websites, faster. Without coding.
 *   [Wized](https://www.wized.io) - Rapidly build real web applications without coding.
@@ -182,4 +189,5 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Vantiq](https://vantiq.com/) - The Only Low Code Platform for Real Time Systems.
 *   [Voiceflow](https://www.voiceflow.com/) - Design, prototype and build voice apps.
 *   [Zendesk](https://www.zendesk.com/) - Build the best customer experiences.
+*   [FormNX](https://formnx.com) - Create forms in minutes without Coding for Free. It provides a lot of [form templates](https://formnx.com/form-templates), drag-n-drop interface, Smart Conditional Logic, Spam Protection, Reporting & Charts, Automation, Password Protection, integrations & lot more.
 

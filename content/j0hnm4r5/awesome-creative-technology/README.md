@@ -2,9 +2,227 @@
 
 Curated list of Creative Technology groups, companies, studios, collectives, etc.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 335 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 376 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/j0hnm4r5/awesome-creative-technology/week/README.md) / [Overview](/content/j0hnm4r5/awesome-creative-technology/readme/README.md) ]
+
+## [Apr 02, 2024](/content/2024/04/02/README.md)
+
+### Creative Technology
+
+- Name: [**WOA STUDIO**](https://www.woastudio.it/)
+
+  Locations: \[Milan]
+
+  Keywords: immersive experiences, multimedia, video mapping, digital artistry
+
+
+
+## [Mar 22, 2024](/content/2024/03/22/README.md)
+
+### Creative Technology
+
+- Name: [**Artists & Engineers**](https://www.artistsandengineers.co.uk/)
+
+  Locations: \[London]
+
+  Keywords: production and technology studio, showrooms, concerts, art installations
+
+
+- Name: [**batwin + robin productions**](https://www.batwinandrobin.com/)
+
+  Locations: \[NYC]
+
+  Keywords: environments, interactives, theaters, events
+
+
+- Name: [**BRC Imagination Arts**](https://www.brcweb.com/)
+
+  Locations: \[Burbank, CA] \[Edinburgh] \[Amsterdam]
+
+  Keywords: brand and cultural stories, strategy, animation, digital and hybrid experiences
+
+
+- Name: [**Bright**](https://brig.ht/)
+
+  Locations: \[Paris]
+
+  Keywords: data visualization, digital installations, experiential sites, video games
+
+  Jobs: [🌐](https://brig.ht/contact)
+
+
+- Name: [**Cocolab**](https://cocolab.mx/en/)
+
+  Locations: \[Mexico City]
+
+  Keywords: multimedia experiences, immersive walk, exhibitions, installations, multimedia museography
+
+
+- Name: [**Cosm**](https://www.cosm.com/)
+
+  Locations: \[Dallas] \[LA] \[City] \[Pittsburgh] \[Gurgaon]
+
+  Keywords: immersive entertainment and media, planetariums, LED domes
+
+  Jobs: [🌐](https://www.cosm.com/careers)
+
+
+- Name: [**Digital Kitchen**](https://www.thisisdk.com)
+
+  Locations: \[LA]
+
+  Keywords: iconic main titles, multimedia content, imaginative experiences, and immersive spaces
+
+
+- Name: [**DOTDOT**](https://dotdot.studio/about/)
+
+  Locations: \[Auckland] \[NYC] \[Brisbane]
+
+  Keywords: AR, music videos, interactive installations, games
+
+
+- Name: [**Eos Lightmedia**](https://www.eoslightmedia.com/)
+
+  Locations: \[Vancouver] \[NYC] \[Orlando]
+
+  Keywords: lighting and audiovisual design, themed attractions, museums, architecture, public spaces, building facades, presentation centers, and public art installations
+
+
+- Name: [**Midwest Immersive**](https://www.mwimmersive.com/)
+
+  Locations: \[Chicago]
+
+  Keywords: immersive experiences for brands and agencies, projection mapping, LED lighting, games and app development
+
+
+- Name: [**Mousetrappe Media**](https://www.mousetrappe.com/)
+
+  Locations: \[LA]
+
+  Keywords: media design and production, architecturally mapped projection, immersive films, exhibits, attractions, and live events
+
+  Jobs: [🌐](https://www.mousetrappe.com/244-2/jobs/)
+
+
+- Name: [**Ouchhh Studio**](https://ouchhh.tv/)
+
+  Locations: \[Istanbul]
+
+  Keywords: public art, poetic public experiences, data as a paint, algorithm as a brush
+
+
+- Name: [**Sparks**](https://www.wearesparks.com/)
+
+  Locations: \[Philadelphia] \[Shanghai] \[Paris] \[Berlin] \[Amsterdam]
+
+  Keywords: conferences, popups, event production, fabrication
+
+
+- Name: [**Squint/Opera**](https://www.squintopera.com/about/)
+
+  Locations: \[London] \[NYC] \[Dubai]
+
+  Keywords: experience design for the built environment and musuems and attractions
+
+
+- Name: [**Studio TheGreenEyl**](https://thegreeneyl.com/)
+
+  Locations: \[Berlin] \[NYC]
+
+  Keywords: exhibitions, installations, objects, images, interactions and algorithms
+
+
+- Name: [**tamschick**](https://tamschick.com/)
+
+  Locations: \[Berlin]
+
+  Keywords: media and architectural narrative design, exhibitions, branded space, musuems
+
+  Jobs: [🌐](https://tamschick.factorialhr.com/)
+
+
+- Name: [**Tinker**](https://tinker.nl/en)
+
+  Locations: \[Utrecht]
+
+  Keywords: narrative spaces, musuems, experience design, consultancy
+
+
+- Name: [**WHITEvoid**](https://www.whitevoid.com/)
+
+  Locations: \[Berlin] \[Shanghai]
+
+  Keywords: public or brand spaces and events, trade fair stands, shows and exhibitions, museums and festivals
+
+
+- Name: [**y=f(x)**](https://www.yfxlab.com/)
+
+  Locations: \[Amsterdam]
+
+  Keywords: creative technology studio focused on the creation of overarching multimedia experiences, with specially crafted software and design
+
+
+
+### Collectives & Practices
+
+- Name: [**3-Legged Dog**](https://www.3ld.org/)
+
+  Locations: \[NYC]
+
+  Keywords: original works in theater, performance, dance, media and hybrid forms
+
+
+- Name: [**NightLight Labs**](https://nightlight.io/)
+
+  Locations: \[LA]
+
+  Keywords: installations, activations, narrative experiences
+
+
+- Name: [**Ultravioletto**](https://ultraviolet.to/)
+
+  Locations: \[Rome]
+
+  Keywords: exhibitions, fairs, museums, brand experiences and events
+
+
+
+### Fabricators
+
+- Name: [**5 Ten**](https://www.510visuals.com/)
+
+  Locations: \[NYC]
+
+  Keywords: LED technology design, fabrication, and integration
+
+
+- Name: [**Bridgewater Studio**](https://www.bridgewaterstudio.net)
+
+  Locations: \[Chicago]
+
+  Keywords: full service design and fabrication
+
+  Jobs: [🌐](https://www.bridgewaterstudio.net/about)
+
+
+
+### Museums
+
+- Name: [**Grumpy Sailor**](https://www.grumpysailor.com/)
+
+  Locations: \[Sydney] \[Melbourne]
+
+  Keywords: digital experiences, exhibit design, brands
+
+
+- Name: [**RLMG**](https://www.rlmg.com/)
+
+  Locations: \[Boston]
+
+  Keywords: story-driven, interactive, dynamic, immersive, and educational installations for public spaces.
+
+
 
 ## [Dec 01, 2023](/content/2023/12/01/README.md)
 
@@ -1112,6 +1330,13 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
   Keywords: artistically-minded design, tv/concert/event production design, set design
 
 
+- Name: [**Zebradog**](https://www.zebradog.com/)
+
+  Locations: \[Madison]
+
+  Keywords: communication design and the built environment, higher education
+
+
 
 ### Collectives & Practices
 
@@ -1204,13 +1429,6 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
   Locations: \[Taiwan]
 
   Keywords: cross-disciplinary art installations, dance, architecture, music
-
-
-- Name: [**Zebradog**](https://www.zebradog.com/)
-
-  Locations: \[Madison]
-
-  Keywords: communication design and the built environment, higher education
 
 
 

@@ -2,15 +2,36 @@
 
 A collection of Awesome low-code development platform (LCDP).
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 287 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 312 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
+
+## [Mar 21, 2024](/content/2024/03/21/README.md)
+
+### Marketing
+
+*   [Datawave](https://datawave.app) - Startup Marketing Platform
+
+## [Mar 15, 2024](/content/2024/03/15/README.md)
+
+### Visual programming
+
+*   [Convertigo](https://www.convertigo.com/) - An Enterprise open source LowCode Platform to build Web & mobile apps
+*   [Dynaboard](https://dynaboard.com) - Build production-ready low-code web apps in 60 seconds using AI.
+*   [FlutterFlow](https://www.flutterflow.io) - Build applications faster than ever.
+*   [Loopple](https://www.loopple.com) - Drag and drop dashboard builder
+*   [REI3](https://rei3.de/en/home) - The free and open low code platform for your business
+*   [UI Bakery](https://uibakery.io) - Custom web applications at speed.
+
+### Misc
+
+*   [FormNX](https://formnx.com) - Create forms in minutes without Coding for Free. It provides a lot of [form templates](https://formnx.com/form-templates), drag-n-drop interface, Smart Conditional Logic, Spam Protection, Reporting & Charts, Automation, Password Protection, integrations & lot more.
 
 ## [Jan 16, 2024](/content/2024/01/16/README.md)
 
 ### AI
 
-*   [AutoGen (⭐20k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+*   [AutoGen (⭐23k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 
 ## [Nov 09, 2023](/content/2023/11/09/README.md)
 
@@ -91,7 +112,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### Visual programming
 
-*   [Shuffle](https://shuffle.dev/) - Create teamplate in minutes.
+*   [Shuffle](https://shuffle.dev/) - Create templates in minutes.
 *   [Versoly](https://versoly.com/) - The no-code website builder that everyone loves to use.
 *   [Wized](https://www.wized.io) - Rapidly build real web applications without coding.
 
@@ -366,7 +387,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### Visual programming
 
-*   [Potion](https://www.potion.so/) - Create custom websitesin minutes. All on [Notion](https://www.notion.so/).
+*   [Potion](https://www.potion.so/) - Create custom websites in minutes. All on [Notion](https://www.notion.so/).
 
 ### Misc
 

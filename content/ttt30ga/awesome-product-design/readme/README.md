@@ -2,7 +2,7 @@
 
 A collection of bookmarks, resources, articles for product designers.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ttt30ga/awesome-product-design/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) · ⭐ 2K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ttt30ga/awesome-product-design/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) · ⭐ 2.2K · 🏷️ Miscellaneous
 
 [ [Daily](/content/ttt30ga/awesome-product-design/README.md) / [Weekly](/content/ttt30ga/awesome-product-design/week/README.md) / Overview ]
 
@@ -38,11 +38,16 @@ Feel free to [add something interesting](https://github.com/ttt30ga/awesome-prod
 
 #### Methods
 
+###### Decision Making
+
+*   [Untools](https://untools.co) - Thinking tools and frameworks to help you solve problems, make decisions and understand systems.
+
 ###### Research Plan
 
 *   [Smashing Magazine](https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/) - The UX Research Plan That Stakeholders Love.
 *   [NN Group](https://www.nngroup.com/articles/pm-research-plan/) - Project Management for User Research: The Plan.
 *   [Interaction Design](https://www.interaction-design.org/literature/article/a-one-page-user-research-plan) - One Page User Research Plan.
+*   [Branding5](https://www.branding5.com/) - Make a brand positioning as a basis for your designs.
 
 ###### User Interview
 
@@ -179,8 +184,8 @@ Feel free to [add something interesting](https://github.com/ttt30ga/awesome-prod
 #### Resources
 
 *   [Design Principles FTW](https://www.designprinciplesftw.com/) - The biggest collection of Design Principles on the Internet.
-*   [Awesome Design Systems (⭐15k)](https://github.com/alexpate/awesome-design-systems) - Curated list of design systems, patterns libraries, and everything in between.
-*   [Awesome Sketch (⭐730)](https://github.com/diessica/awesome-sketch) - Curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither.
+*   [Awesome Design Systems (⭐17k)](https://github.com/alexpate/awesome-design-systems) - Curated list of design systems, patterns libraries, and everything in between.
+*   [Awesome Sketch (⭐732)](https://github.com/diessica/awesome-sketch) - Curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither.
 
 #### Icons
 
@@ -241,7 +246,7 @@ Feel free to [add something interesting](https://github.com/ttt30ga/awesome-prod
 *   [The 12 Principles](https://the12principles.tumblr.com/) - The 12 basic principles of animation were developed by the ‘old men’ of Walt Disney Studios.
 *   [Hoverstat](https://hoverstat.es/) - The home of alternative digital design.
 *   [Microinteractions](https://microinteractions.com/) - Designing with Details.
-*   [Motion UI Design (⭐768)](https://github.com/fliptheweb/motion-ui-design) - Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.
+*   [Motion UI Design (⭐803)](https://github.com/fliptheweb/motion-ui-design) - Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.
 
 #### Softwares
 
@@ -289,7 +294,7 @@ Feel free to [add something interesting](https://github.com/ttt30ga/awesome-prod
 *   [London Datastore](https://data.london.gov.uk/) - The London Datastore is a free and open data-sharing portal.
 *   [YouGov](https://yougov.com/) - We believe in the power of participation.
 *   [Data.Gov](https://data.gov.uk/) - Find data published by government departments and agencies, public bodies and local authorities.
-*   [The Tate Collection (⭐499)](https://github.com/tategallery/collection) - Here we present the metadata for around 70,000 artworks.
+*   [The Tate Collection (⭐506)](https://github.com/tategallery/collection) - Here we present the metadata for around 70,000 artworks.
 *   [NASA](https://open.nasa.gov/open-data/) - We're Setting Data, Code and APIs free.
 
 ## IoT

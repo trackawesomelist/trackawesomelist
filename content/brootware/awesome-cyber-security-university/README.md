@@ -2,9 +2,22 @@
 
 🎓 Because Education should be free. Contributions welcome! 🕵️ 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 984 · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 1.3K · 🏷️ Security
 
 [ Daily / [Weekly](/content/brootware/awesome-cyber-security-university/week/README.md) / [Overview](/content/brootware/awesome-cyber-security-university/readme/README.md) ]
+
+## [Mar 19, 2024](/content/2024/03/19/README.md)
+
+### Free Beginner Blue Team Path / Level 1 - Tools
+
+*   [Volatility](https://cyberdefenders.org/blueteam-ctf-challenges/redline/) - Intro to memory analysis with volatility.
+
+## [Mar 17, 2024](/content/2024/03/17/README.md)
+
+### Free Beginner Red Team Path / Level 2 - Tooling
+
+*   [Web Scanning](https://tryhackme.com/room/rustscan) - Learn the basics of automated web scanning.
+*   [Metasploit](https://tryhackme.com/room/metasploitintro) - An introduction to the main components of the Metasploit Framework.
 
 ## [Nov 09, 2023](/content/2023/11/09/README.md)
 
@@ -153,9 +166,7 @@
 ### Free Beginner Red Team Path / Level 2 - Tooling
 
 *   [Tmux](https://tryhackme.com/room/rptmux) - Learn to use tmux, one of the most powerful multi-tasking tools on linux.
-*   [Web Scanning](https://tryhackme.com/room/rpwebscanning) - Learn the basics of automated web scanning.
 *   [Sublist3r](https://tryhackme.com/room/rpsublist3r) - Learn how to find subdomains with Sublist3r.
-*   [Metasploit](https://tryhackme.com/room/rpmetasploit) - An introduction to the main components of the Metasploit Framework.
 *   [Hydra](https://tryhackme.com/room/hydra) - Learn about and use Hydra, a fast network logon cracker, to bruteforce and obtain a website's credentials.
 *   [Linux Privesc](https://tryhackme.com/room/linuxprivesc) - Practice your Linux Privilege Escalation skills on an intentionally misconfigured Debian VM with multiple ways to get root! SSH is available.
 *   [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals) - Learn about the basics of a red engagement, the main components and stakeholders involved, and how red teaming differs from other cyber security engagements.
@@ -205,7 +216,6 @@
 *   [Yara](https://tryhackme.com/room/yara) -  Intro to yara for malware analysis.
 *   [OpenVAS](https://tryhackme.com/room/openvas) - Intro to openvas.
 *   [Intro to Honeypots](https://tryhackme.com/room/introductiontohoneypots) -  Intro to honeypots.
-*   [Volatility](https://tryhackme.com/room/bpvolatility) - Intro to memory analysis with volatility.
 *   [Autopsy](https://tryhackme.com/room/autopsy2ze0) - Use Autopsy to investigate artifacts from a disk image.
 
 ### Free Beginner Blue Team Path / Level 2 - Security Operations, Incident Response & Threat Hunting

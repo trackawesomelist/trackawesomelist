@@ -6,6 +6,12 @@ A list of awesome projects related to Zig
 
 [ Daily / [Weekly](/content/catdevnull/awesome-zig/week/README.md) / [Overview](/content/catdevnull/awesome-zig/readme/README.md) ]
 
+## [Mar 15, 2024](/content/2024/03/15/README.md)
+
+### Misc libraries
+
+*   [vbrusca/ZigMatrixUtils (⭐1)](https://github.com/vbrusca/ZigMatrixUtils) - Matrix manipulation and utility library.
+
 ## [Mar 14, 2024](/content/2024/03/14/README.md)
 
 ### Game tools and libraries

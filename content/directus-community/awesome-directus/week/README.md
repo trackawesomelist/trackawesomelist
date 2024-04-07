@@ -2,15 +2,28 @@
 
 A curated list of awesome things related to Directus
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/directus-community/awesome-directus/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 directus-community/awesome-directus](https://github.com/directus-community/awesome-directus) · ⭐ 417 · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/directus-community/awesome-directus/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 directus-community/awesome-directus](https://github.com/directus-labs/awesome-directus) · ⭐ 444 · 🏷️ Content Management Systems
 
 [ [Daily](/content/directus-community/awesome-directus/README.md) / Weekly / [Overview](/content/directus-community/awesome-directus/readme/README.md) ]
+
+## [Apr 01 - Apr 07, 2024](/content/2024/14/README.md)
+
+### Integration / Community
+
+*   [Official JS SDK](https://www.npmjs.com/package/@directus/sdk) - The JS SDK provides an intuitive interface for the Directus API from within a JavaScript-powered project (Browsers and Node.js).
+*   [Official Gatsby Source Plugin](https://www.npmjs.com/package/@directus/gatsby-source-directus) - Source plugin for pulling data into Gatsby from a Directus API.
+
+## [Mar 18 - Mar 24, 2024](/content/2024/12/README.md)
+
+### Extensions / Community
+
+*   [Umami Analytics (⭐0)](https://github.com/egidiusmengelberg/directus-extension-umami) - Add Umami analytics to Directus.
 
 ## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
 
 ### Extensions / Tools
 
-*   [Directus Sync (⭐63)](https://github.com/tractr/directus-sync) - A CLI tool for synchronizing the schema and configuration of Directus across various environments.
+*   [Directus Sync (⭐81)](https://github.com/tractr/directus-sync) - A CLI tool for synchronizing the schema and configuration of Directus across various environments.
 
 ## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
 
@@ -22,23 +35,23 @@ A curated list of awesome things related to Directus
 
 ### Extensions / Extension Scripts
 
-*   [Directus Hook Library (⭐10)](https://github.com/formfcw/directus-hook-library) - A collection of customizable hooks for Directus.
+*   [Directus Hook Library (⭐15)](https://github.com/formfcw/directus-hook-library) - A collection of customizable hooks for Directus.
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
 ### Extensions / Community
 
-*   [Tab Group (⭐8)](https://github.com/formfcw/directus-extension-tab-group) - A group interface with a tab menu for toggling the visibility of fields within the group.
-*   [Drawer Notice (⭐4)](https://github.com/formfcw/directus-extension-drawer-notice) - A notice field that is only visible in the drawer.
-*   [Classified Group (⭐4)](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
-*   [Tokenized Preview (⭐5)](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
+*   [Tab Group (⭐10)](https://github.com/formfcw/directus-extension-tab-group) - A group interface with a tab menu for toggling the visibility of fields within the group.
+*   [Drawer Notice (⭐7)](https://github.com/formfcw/directus-extension-drawer-notice) - A notice field that is only visible in the drawer.
+*   [Classified Group (⭐5)](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
+*   [Tokenized Preview (⭐7)](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
 
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 
 ### Extensions / Community
 
-*   [Media AI Bundle (⭐56)](https://github.com/Arood/directus-extension-media-ai-bundle) - Two operations to perform image description and OCR.
-*   [Directus Copilot (⭐59)](https://github.com/programmarchy/directus-extension-copilot/) - A bundle including a panel to ask data-aware questions in a chat interface.
+*   [Media AI Bundle (⭐58)](https://github.com/Arood/directus-extension-media-ai-bundle) - Two operations to perform image description and OCR.
+*   [Directus Copilot (⭐65)](https://github.com/programmarchy/directus-extension-copilot/) - A bundle including a panel to ask data-aware questions in a chat interface.
 *   [OpenAI Automatic Translation (⭐37)](https://github.com/timio23/directus-operation-auto-translate/) - An operaiton to automatically translate new items via OpenAI.
 *   [Machine Learning Operations (⭐12)](https://github.com/karamokoisrael/directus-hackathon-submission/) - A set of extensions to train, test and use machine learning models.
 
@@ -46,53 +59,53 @@ A curated list of awesome things related to Directus
 
 ### Extensions / Community
 
-*   [BlurHash (⭐11)](https://github.com/pixielabs/directus-extension-blurhash/) - A Directus extension that generates blurhashes for uploaded images.
+*   [BlurHash (⭐16)](https://github.com/pixielabs/directus-extension-blurhash/) - A Directus extension that generates blurhashes for uploaded images.
 
 ## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
 
 ### Examples / Showcases / Personal
 
-*   [Agency OS (⭐354)](https://github.com/directus-community/agency-os) - Fully complete, opinionated agency website template featuring Nuxt and Directus. View [Demo](https://www.agencyos.dev/).
-*   [Nextus (⭐42)](https://github.com/luochuanyuewu/nextus) - A comprehensive, versatile and modern website template based on Nextjs and Directus technologies. It helps you build various types of websites more quickly. View [Demo](https://nextus.vercel.app/en).
+*   [Agency OS (⭐405)](https://github.com/directus-community/agency-os) - Fully complete, opinionated agency website template featuring Nuxt and Directus. View [Demo](https://www.agencyos.dev/).
+*   [Nextus (⭐47)](https://github.com/luochuanyuewu/nextus) - A comprehensive, versatile and modern website template based on Nextjs and Directus technologies. It helps you build various types of websites more quickly. View [Demo](https://nextus.vercel.app/en).
 
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
 ### Extensions / Community
 
-*   [Flexible Editor (⭐64)](https://github.com/formfcw/directus-extension-flexible-editor) - A Rich Text Editor (WYSIWYG) with JSON output, that allows to integrate M2A relations to make it extremely flexible.
+*   [Flexible Editor (⭐83)](https://github.com/formfcw/directus-extension-flexible-editor) - A Rich Text Editor (WYSIWYG) with JSON output, that allows to integrate M2A relations to make it extremely flexible.
 
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 
 ### Extensions / Community
 
-*   [API Viewer (⭐103)](https://github.com/u12206050/directus-extension-api-viewer-module) - View and run API queries directly from a Module.
+*   [API Viewer (⭐109)](https://github.com/u12206050/directus-extension-api-viewer-module) - View and run API queries directly from a Module.
 
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
 ### Examples / Showcases / Personal
 
-*   [Nuxt 3 Demo (⭐127)](https://github.com/bryantgillespie/nuxt3-directus-starter) - Opinionated Nuxt 3 / Directus Starter with Tailwind CSS.
+*   [Nuxt 3 Demo (⭐132)](https://github.com/bryantgillespie/nuxt3-directus-starter) - Opinionated Nuxt 3 / Directus Starter with Tailwind CSS.
 
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
 ### Extensions / Community
 
 *   [Woodpecker Build Status (⭐1)](https://github.com/sguter90/directus-extension-woodpecker-build-status) - Adds status bar for [Woodpecker](https://woodpecker-ci.org/) pipeline build status to Directus UI.
-*   [Imagga Hook (⭐11)](https://github.com/gbicou/directus-extension-imagga) - Hook for file uploads to automatically tag images with [Imagga API](https://imagga.com/).
-*   [Tiptap Interface & Display (⭐55)](https://github.com/gbicou/directus-extension-tiptap) - Tiptap rich text editor interface and display.
+*   [Imagga Hook (⭐14)](https://github.com/gbicou/directus-extension-imagga) - Hook for file uploads to automatically tag images with [Imagga API](https://imagga.com/).
+*   [Tiptap Interface & Display (⭐57)](https://github.com/gbicou/directus-extension-tiptap) - Tiptap rich text editor interface and display.
 
 ## [May 08 - May 14, 2023](/content/2023/19/README.md)
 
 ### Extensions / Community
 
-*   [Inline Form Interface (⭐29)](https://github.com/hanneskuettner/directus-extension-inline-form-interface) - Edit M2O relations in an inline form contained in the parent record.
-*   [Tab Group Interface (⭐45)](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) - Display groups as tab panels, as a pretty, space saving alternative to the accordion group.
+*   [Inline Form Interface (⭐32)](https://github.com/hanneskuettner/directus-extension-inline-form-interface) - Edit M2O relations in an inline form contained in the parent record.
+*   [Tab Group Interface (⭐58)](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) - Display groups as tab panels, as a pretty, space saving alternative to the accordion group.
 
 ## [May 01 - May 07, 2023](/content/2023/18/README.md)
 
 ### Extensions / Community
 
-*   [Directus Mailer (⭐35)](https://github.com/ryntab/Directus-Mailer) - An endpoint for sending emails with the Directus Nodemailer service.
+*   [Directus Mailer (⭐38)](https://github.com/ryntab/Directus-Mailer) - An endpoint for sending emails with the Directus Nodemailer service.
 
 ### Articles / Educational
 
@@ -106,30 +119,30 @@ A curated list of awesome things related to Directus
 
 ### Extensions / Community
 
-*   [Generate Types (⭐162)](https://github.com/maltejur/directus-extension-generate-types) - Adds a module for generating typescript types for a Directus JS-SDK connected to that Directus database. Also can generate Python or OpenAPI types.
-*   [Computed Interface (⭐168)](https://github.com/rezo-labs/directus-extension-computed-interface) - Perform computed value based on other fields.
+*   [Generate Types (⭐165)](https://github.com/maltejur/directus-extension-generate-types) - Adds a module for generating typescript types for a Directus JS-SDK connected to that Directus database. Also can generate Python or OpenAPI types.
+*   [Computed Interface (⭐187)](https://github.com/rezo-labs/directus-extension-computed-interface) - Perform computed value based on other fields.
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
 ### Extensions / Community
 
-*   [Field Actions (⭐82)](https://github.com/utomic-media/directus-extension-field-actions) - Adds copy to clipboard and open URL's action-buttons to fields (interface + display).
+*   [Field Actions (⭐92)](https://github.com/utomic-media/directus-extension-field-actions) - Adds copy to clipboard and open URL's action-buttons to fields (interface + display).
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
 ### Integration / Community
 
-*   [cool-stack (⭐23)](https://github.com/tdsoftpl/cool-stack) - Template repository integrating Directus & Remix into a full-stack monorepo.
+*   [cool-stack (⭐24)](https://github.com/tdsoftpl/cool-stack) - Template repository integrating Directus & Remix into a full-stack monorepo.
 
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 
 ### Integration / Community
 
-*   [Nuxt Directus (⭐228)](https://github.com/directus-community/nuxt-directus) - First-Class Nuxt 3 Module for connecting with an Directus instance.
+*   [Nuxt Directus (⭐236)](https://github.com/directus-community/nuxt-directus) - First-Class Nuxt 3 Module for connecting with an Directus instance.
 
 ### Extensions / Community
 
-*   [Directus LogSnag (⭐21)](https://github.com/Intevel/directus-logsnag) - Sending your events from Directus directly to your phone using LogSnag.
+*   [Directus LogSnag (⭐23)](https://github.com/Intevel/directus-logsnag) - Sending your events from Directus directly to your phone using LogSnag.
 
 ### Articles / Educational
 
@@ -159,13 +172,13 @@ A curated list of awesome things related to Directus
 
 ### Examples / Showcases / Personal
 
-*   [Official Examples (⭐243)](https://github.com/directus/examples) - Integration examples with Directus.
+*   [Official Examples (⭐244)](https://github.com/directus/examples) - Integration examples with Directus.
 
 ## [May 09 - May 15, 2022](/content/2022/19/README.md)
 
 ### Extensions / Community
 
-*   [Tags M2M (⭐73)](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) - M2M driven tags interface.
+*   [Tags M2M (⭐76)](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) - M2M driven tags interface.
 
 ## [May 02 - May 08, 2022](/content/2022/18/README.md)
 
@@ -188,24 +201,24 @@ A curated list of awesome things related to Directus
 
 ## [Mar 21 - Mar 27, 2022](/content/2022/12/README.md)
 
-### Resources / Offical
+### Resources / Official
 
 *   [Community Help Board (⭐25k)](https://github.com/directus/directus/discussions/categories/q-a)
 
 ## [Feb 07 - Feb 13, 2022](/content/2022/6/README.md)
 
-### Resources / Offical
+### Resources / Official
 
 *   [Community Repositories](https://github.com/directus-community)
 
 ### Extensions / Community
 
 *   [Search Sync (⭐112)](https://github.com/dimitrov-adrian/directus-extension-searchsync) - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
-*   [Dictionary (⭐38)](https://github.com/georgexchelebiev/directus-dictionary) - Save key-value pairs as JSON blobs with a progress indicator for completeness.
-*   [WordPress-like Slug (⭐86)](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) - Slug/Permalink interface with support for pre- and suffixes.
-*   [Link Meta (⭐25)](https://github.com/dimitrov-adrian/directus-extension-linkmeta) - Stores hyperlink metadata into Directus.
-*   [Group Modal (⭐54)](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - Group interface fields into a modal that can be opened with a button.
-*   [Display Link (⭐54)](https://github.com/jacoborus/directus-extension-display-link) - Display URLs with an "open in new tab" button.
+*   [Dictionary (⭐39)](https://github.com/georgexchelebiev/directus-dictionary) - Save key-value pairs as JSON blobs with a progress indicator for completeness.
+*   [WordPress-like Slug (⭐93)](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) - Slug/Permalink interface with support for pre- and suffixes.
+*   [Link Meta (⭐26)](https://github.com/dimitrov-adrian/directus-extension-linkmeta) - Stores hyperlink metadata into Directus.
+*   [Group Modal (⭐57)](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - Group interface fields into a modal that can be opened with a button.
+*   [Display Link (⭐56)](https://github.com/jacoborus/directus-extension-display-link) - Display URLs with an "open in new tab" button.
 *   [SQL Panel (⭐18)](https://github.com/harish2704/directus-sql-panel) - Panel component which shows result of stored SQL query as a table.
 *   [SVG Map Picker Interface (⭐31)](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - Select a value from a SVG Map box.
 
@@ -213,7 +226,7 @@ A curated list of awesome things related to Directus
 
 ### Extensions / Community
 
-*   [Image Scout (⭐120)](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).
+*   [Image Scout (⭐126)](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).
 *   [Date Picker Interface (⭐14)](https://github.com/u12206050/directus-9-date-picker-interface) - An alternative Date Picker Interface to the original Directus DateTime interface.
 
 ## [Nov 08 - Nov 14, 2021](/content/2021/45/README.md)
@@ -224,7 +237,7 @@ A curated list of awesome things related to Directus
 
 ## [Oct 18 - Oct 24, 2021](/content/2021/42/README.md)
 
-### Resources / Offical
+### Resources / Official
 
 *   [Live Discussions on Discord](https://directus.chat)
 
@@ -237,19 +250,17 @@ A curated list of awesome things related to Directus
 
 ### Extensions / Community
 
-*   [Editor.js Interface (⭐177)](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) - Block editor (Editor.js) interface for Directus 9.
+*   [Editor.js Interface (⭐179)](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) - Block editor (Editor.js) interface for Directus 9.
 
 ## [Aug 16 - Aug 22, 2021](/content/2021/33/README.md)
 
 ### Integration / Community
 
-*   [Offical JS SDK](https://www.npmjs.com/package/@directus/sdk) - The JS SDK provides an intuitive interface for the Directus API from within a JavaScript-powered project (Browsers and Node.js).
-*   [Offical Gatsby Source Plugin](https://www.npmjs.com/package/@directus/gatsby-source-directus) - Source plugin for pulling data into Gatsby from a Directus API.
-*   [react-directus (⭐88)](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS.
+*   [react-directus (⭐92)](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS.
 
 ## [Jun 07 - Jun 13, 2021](/content/2021/23/README.md)
 
-### Resources / Offical
+### Resources / Official
 
 *   [Documentation](https://docs.directus.io/getting-started/introduction/)
 *   [GitHub Repository (⭐25k)](https://github.com/directus/directus)

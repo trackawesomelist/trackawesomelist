@@ -6,6 +6,12 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 [ [Daily](/content/lukasz-madon/awesome-remote-job/README.md) / Weekly / [Overview](/content/lukasz-madon/awesome-remote-job/readme/README.md) ]
 
+## [Apr 01 - Apr 07, 2024](/content/2024/14/README.md)
+
+### Job boards
+
+*   [Real Work From Anywhere](https://www.realworkfromanywhere.com/) - A site for fully location independent jobs. All jobs on the site are 100% work from anywhere.
+
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
 
 ### Companies with "remote DNA"
@@ -650,12 +656,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 *   [Talent Garden](https://talentgarden.org/coworking/) - Coworking space mainly in Italy but available in some other countries
 
-## [Jan 20 - Jan 26, 2020](/content/2020/3/README.md)
-
-### Job boards aggregators
-
-*   [Meerkad](https://meerkad.com/) - Handpicked and curated by community jobs from most popular remote job boards, companies' websites, Facebook groups, Twitter search, Reddit, StackOverflow, HackerNews, Dribbble, Behance, and many others
-
 ## [Dec 16 - Dec 22, 2019](/content/2019/50/README.md)
 
 ### Job boards aggregators
@@ -748,7 +748,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Tools / Communication
 
-*   [Matrix (⭐901)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+*   [Matrix (⭐900)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 
 ## [May 06 - May 12, 2019](/content/2019/18/README.md)
 
@@ -791,7 +791,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [Established Remote (⭐6.7k)](https://github.com/yanirs/established-remote) - A list of established remote companies
+*   [Established Remote (⭐6.8k)](https://github.com/yanirs/established-remote) - A list of established remote companies
 
 ## [Jan 07 - Jan 13, 2019](/content/2019/1/README.md)
 
@@ -914,12 +914,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 ### Companies with "remote DNA"
 
 *   [Baremetrics](https://baremetrics.com/about) - Analytics and insights for Stripe, Braintree, Recurly and Chargify.
-
-## [Jul 16 - Jul 22, 2018](/content/2018/29/README.md)
-
-### Job boards aggregators
-
-*   [Workaline](https://workaline.com/) - Remote jobs aggregator. Formerly called Alfred.
 
 ## [Jul 09 - Jul 15, 2018](/content/2018/28/README.md)
 
@@ -1072,7 +1066,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Job boards
 
-*   [remote-jobs (⭐27k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
+*   [remote-jobs (⭐28k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
 
 ## [Sep 11 - Sep 17, 2017](/content/2017/37/README.md)
 
@@ -1140,7 +1134,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [awesome-digital-nomads (⭐848)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+*   [awesome-digital-nomads (⭐850)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 
 ## [Mar 13 - Mar 19, 2017](/content/2017/11/README.md)
 

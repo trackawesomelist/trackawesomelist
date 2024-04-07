@@ -6,6 +6,12 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ [Daily](/content/rust-embedded/awesome-embedded-rust/README.md) / Weekly / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Mar 18 - Mar 24, 2024](/content/2024/12/README.md)
+
+### no-std crates / WIP
+
+*   [lakers](https://crates.io/crates/lakers): Microcontroller-optimized [EDHOC](https://datatracker.ietf.org/doc/draft-ietf-lake-edhoc/) implementation, with bindings for C and Python - ![crates.io](https://img.shields.io/crates/v/lakers.svg)
+
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
 
 ### Driver crates / WIP

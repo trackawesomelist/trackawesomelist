@@ -2,9 +2,15 @@
 
 A curated list of awesome Web Font Icons
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/vkarampinis/awesome-icons/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) · ⭐ 1.1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/vkarampinis/awesome-icons/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) · ⭐ 1.2K · 🏷️ Miscellaneous
 
 [ [Daily](/content/vkarampinis/awesome-icons/README.md) / Weekly / [Overview](/content/vkarampinis/awesome-icons/readme/README.md) ]
+
+## [Mar 25 - Mar 31, 2024](/content/2024/13/README.md)
+
+### Generic
+
+*   [Devicon](https://devicon.dev) - A set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
@@ -27,13 +33,13 @@ A curated list of awesome Web Font Icons
 
 ### Generic
 
-*   [Tabler Icons (⭐16k)](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+*   [Tabler Icons (⭐17k)](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
 ## [Feb 28 - Mar 06, 2022](/content/2022/9/README.md)
 
 ### Generic
 
-*   [Akar Icons (⭐390)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
+*   [Akar Icons (⭐397)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 
@@ -72,13 +78,13 @@ A curated list of awesome Web Font Icons
 
 ### Merchants
 
-*   [Bitcoin-Icons (⭐86)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
+*   [Bitcoin-Icons (⭐101)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
 
 ## [Oct 11 - Oct 17, 2021](/content/2021/41/README.md)
 
 ### Merchants
 
-*   [CMC Cryptocurrency Icons (⭐148)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
+*   [CMC Cryptocurrency Icons (⭐171)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
 
 ## [Oct 04 - Oct 10, 2021](/content/2021/40/README.md)
 
@@ -126,7 +132,7 @@ A curated list of awesome Web Font Icons
 
 *   [Bootstrap Icons](https://icons.getbootstrap.com/) - Official open source SVG icon library for Bootstrap.
 *   [teenyicons](https://teenyicons.com/) - Tiny minimal 1px icons designed to fit in the smallest places.
-*   [DevUI Icons, by Huawei Cloud (⭐18)](https://github.com/DevCloudFE/devui-icons) - DevUI font icons.
+*   [DevUI Icons, by Huawei Cloud (⭐19)](https://github.com/DevCloudFE/devui-icons) - DevUI font icons.
 *   [Ant Design Icons, by Ant Financial](https://ant.design/components/icon/) - ⭐ Ant Design SVG Icons.
 
 ## [May 04 - May 10, 2020](/content/2020/18/README.md)
@@ -138,13 +144,13 @@ A curated list of awesome Web Font Icons
 ### Social
 
 *   [Social Media Icons Pack](https://www.fontfabric.com/fonts/social-media-icons-pack/) - Socialico is a package of 74 social media icons, combined within a single weight font.
-*   [Stackicons](http://stackicons.com/) - Over 60 icons for old social brands (last commit in [2014 (⭐970)](https://github.com/parkerbennett/stackicons), with multi-color option.
+*   [Stackicons](http://stackicons.com/) - Over 60 icons for old social brands (last commit in [2014 (⭐964)](https://github.com/parkerbennett/stackicons), with multi-color option.
 
 ## [Mar 02 - Mar 08, 2020](/content/2020/9/README.md)
 
 ### Generic
 
-*   [Heroicons (⭐19k)](https://github.com/refactoringui/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
+*   [Heroicons (⭐21k)](https://github.com/refactoringui/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 
 ## [Jan 06 - Jan 12, 2020](/content/2020/1/README.md)
 
@@ -170,7 +176,7 @@ A curated list of awesome Web Font Icons
 
 ### Tools
 
-*   [svgtofont (⭐409)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+*   [svgtofont (⭐489)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 
 ## [May 13 - May 19, 2019](/content/2019/19/README.md)
 
@@ -190,7 +196,6 @@ A curated list of awesome Web Font Icons
 
 ### Generic
 
-*   [Devicon](https://konpa.github.io/devicon/) - A set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
 *   [Font Awesome](http://fontawesome.io/) - Scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 *   [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - A custom collection of 283 icons.
 *   [Glyphicons](http://glyphicons.com/) - Is a library of precisely prepared monochromatic icons and symbols, created with an emphasis to simplicity and easy orientation.

@@ -32,11 +32,10 @@ This is a curated list for when naming things is done right.
 *   [Design Patterns and Anti Patterns](#design-patterns-and-anti-patterns)
 *   [Functions](#functions)
 *   [IT Security](#it-security)
-*   [Libraries and Frameworks](#libraries-and-frameworks)
 *   [Machine Learning and Artificial Intelligence](#machine-learning-and-artificial-intelligence)
 *   [Programming Languages and Programming Language Theory](#programming-languages-and-programming-language-theory)
 *   [Theoretical Computer Science](#theoretical-computer-science)
-*   [Tools and Applications](#tools-and-applications)
+*   [Tools, Applications, Libraries, Frameworks](#tools-applications-libraries-frameworks)
 *   [User Interface Design](#user-interface-design)
 *   [Other](#other)
 
@@ -78,14 +77,6 @@ This is a curated list for when naming things is done right.
 *   [Sandbox](https://en.wikipedia.org/wiki/Sandbox_\(computer_security\)) - A safe and isolated environment to test unverified programs that may contain malicious code.
 *   [Trojan horse](https://en.wikipedia.org/wiki/Trojan_horse_\(computing\)) - Malware which misleads users of its true intent. The term is derived from the Ancient Greek story of the deceptive Trojan Horse.
 
-## Libraries and Frameworks
-
-*   [clooney (⭐1.4k)](https://github.com/GoogleChromeLabs/clooney) - A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney who is also an actor.
-*   [horcrux (⭐4.4k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
-*   [Puppeteer (⭐86k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
-*   [Uglify (⭐13k)](https://github.com/mishoo/UglifyJS) - A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller.
-*   [uppy (⭐28k)](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
-
 ## Machine Learning and Artificial Intelligence
 
 *   [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) - A tabular summary of a classifiers "confusion", i.e. how often it thought to make correct predictions when it actually didn't.
@@ -122,10 +113,16 @@ This is a curated list for when naming things is done right.
 *   [Oracle](https://en.wikipedia.org/wiki/Oracle_machine) - A black box that magically gives answers even to undeciable questions like the halting problem.
 *   [Pumping lemma](https://en.wikipedia.org/wiki/Pumping_lemma) - The fact that in some formal languages any sufficiently long string can be *pumped* with repetitions of its substring and the result stays in the same formal language.
 
-## Tools and Applications
+## Tools, Applications, Libraries, Frameworks
 
+*   [clooney (⭐1.4k)](https://github.com/GoogleChromeLabs/clooney) - A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney who is also an actor.
+*   [horcrux (⭐4.4k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
+*   [Puppeteer (⭐87k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 *   [Safari](https://en.wikipedia.org/wiki/Safari_\(web_browser\)) - Web browser developed by Apple.
 *   [tldr](https://tldr.sh/) - Simplified man pages with practical examples.
+*   [Uglify (⭐13k)](https://github.com/mishoo/UglifyJS) - A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller.
+*   [uppy (⭐28k)](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
+*   [Webpack](https://webpack.js.org/) - A bundler for JavaScript and other *web* assets with a short and descriptive name that also somewhat rhymes.
 *   [yarn](https://yarnpkg.com/) - NodeJS dependency manager.
 
 ## Other

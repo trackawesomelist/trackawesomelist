@@ -6,22 +6,29 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 [ Daily / [Weekly](/content/razum2um/awesome-clojure/week/README.md) / [Overview](/content/razum2um/awesome-clojure/readme/README.md) ]
 
+## [Mar 20, 2024](/content/2024/03/20/README.md)
+
+### Data Validation
+
+*   [Guardrails (⭐220)](https://github.com/fulcrologic/guardrails)
+*   [Malli (⭐1.4k)](https://github.com/metosin/malli)
+
 ## [Dec 29, 2023](/content/2023/12/29/README.md)
 
 ### Testing
 
-*   [Datest (⭐7)](https://github.com/amokfa/datest)
+*   [Datest (⭐8)](https://github.com/amokfa/datest)
 
 ## [Nov 14, 2023](/content/2023/11/14/README.md)
 
 ### Debugging
 
-*   [flow-storm-debugger (⭐591)](https://github.com/flow-storm/flow-storm-debugger)
-*   [playback (⭐80)](https://github.com/gnl/playback)
+*   [flow-storm-debugger (⭐615)](https://github.com/flow-storm/flow-storm-debugger)
+*   [playback (⭐86)](https://github.com/gnl/playback)
 
 ### Exercises / YouTube
 
-*   [Wonderland Clojure Katas (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas)
+*   [Wonderland Clojure Katas (⭐860)](https://github.com/gigasquid/wonderland-clojure-katas)
 
 ## [Jul 15, 2023](/content/2023/07/15/README.md)
 
@@ -39,26 +46,26 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Debugging
 
-*   [scope-capture (⭐546)](https://github.com/vvvvalvalval/scope-capture)
+*   [scope-capture (⭐553)](https://github.com/vvvvalvalval/scope-capture)
 
 ## [Apr 07, 2023](/content/2023/04/07/README.md)
 
 ### Code Analysis and Linter
 
-*   [splint (⭐71)](https://github.com/NoahTheDuke/splint)
+*   [splint (⭐85)](https://github.com/NoahTheDuke/splint)
 
 ## [Sep 06, 2022](/content/2022/09/06/README.md)
 
 ### Game Development
 
-*   [jme-clj (⭐128)](https://github.com/ertugrulcetin/jme-clj) - A Clojure 3D Game Engine (Wrapper), Powered by jMonkeyEngine
-*   [play-cljc (⭐509)](https://github.com/oakes/play-cljc) - A Clojure and ClojureScript game library
+*   [jme-clj (⭐129)](https://github.com/ertugrulcetin/jme-clj) - A Clojure 3D Game Engine (Wrapper), Powered by jMonkeyEngine
+*   [play-cljc (⭐519)](https://github.com/oakes/play-cljc) - A Clojure and ClojureScript game library
 
 ## [Sep 05, 2022](/content/2022/09/05/README.md)
 
 ### Async processing
 
-*   [goose (⭐233)](https://github.com/nilenso/goose)
+*   [goose (⭐237)](https://github.com/nilenso/goose)
 
 ### Graphviz
 
@@ -69,20 +76,20 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 ### Build Automation and Package management
 
 *   [tools.build](https://www.clojure.org/guides/tools_build)
-    *   [build.simple (⭐30)](https://github.com/gnl/build.simple)
+    *   [build.simple (⭐31)](https://github.com/gnl/build.simple)
 
 ### Protocol Buffers and gRPC
 
-*   [pronto (⭐100)](https://github.com/AppsFlyer/pronto)
+*   [pronto (⭐98)](https://github.com/AppsFlyer/pronto)
 *   [lein-protodeps (⭐25)](https://github.com/AppsFlyer/lein-protodeps)
 
 ### Testing
 
-*   [StateFlow (⭐291)](https://github.com/nubank/state-flow)
+*   [StateFlow (⭐300)](https://github.com/nubank/state-flow)
 
 ### Rule-based Programming
 
-*   [O'Doyle Rules (⭐505)](https://github.com/oakes/odoyle-rules)
+*   [O'Doyle Rules (⭐510)](https://github.com/oakes/odoyle-rules)
 
 ### Video tutorials / YouTube
 
@@ -99,23 +106,23 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 ### Awesome macros usage
 
 *   [core.async (⭐1.9k)](https://github.com/clojure/core.async) - transforms AST into CSP programs
-*   [cloroutine (⭐217)](https://github.com/leonoel/cloroutine) - suspends and continuations (coroutines)
-*   [missionary (⭐574)](https://github.com/leonoel/missionary) - a reactive dataflow programming toolkit
+*   [cloroutine (⭐222)](https://github.com/leonoel/cloroutine) - suspends and continuations (coroutines)
+*   [missionary (⭐593)](https://github.com/leonoel/missionary) - a reactive dataflow programming toolkit
 *   [photon (⭐7)](https://github.com/venantius/photon) - realtime web, like Meteor, but for Clojure(Script)
 *   [metaclj (⭐79)](https://github.com/brandonbloom/metaclj) - staged compilation
-*   [proteus (⭐110)](https://github.com/ztellman/proteus) - introduce mutable variables (don't use, just learn how to map your mind into immutable world)
+*   [proteus (⭐111)](https://github.com/ztellman/proteus) - introduce mutable variables (don't use, just learn how to map your mind into immutable world)
 
 ## [Oct 11, 2021](/content/2021/10/11/README.md)
 
 ### Advanced datastructures
 
-*   [meander (⭐891)](https://github.com/noprompt/meander): transparent data transformation (defined as pattern-matching)
+*   [meander (⭐902)](https://github.com/noprompt/meander): transparent data transformation (defined as pattern-matching)
 
 ## [Sep 26, 2021](/content/2021/09/26/README.md)
 
 ### Machine Learning
 
-*   [scicloj.ml (⭐190)](https://github.com/scicloj/scicloj.ml)
+*   [scicloj.ml (⭐194)](https://github.com/scicloj/scicloj.ml)
 
 ## [Sep 11, 2021](/content/2021/09/11/README.md)
 
@@ -127,7 +134,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### HTTP
 
-*   [hato (⭐348)](https://github.com/gnarroway/hato) : An HTTP client for Clojure, wrapping JDK 11's HttpClient
+*   [hato (⭐352)](https://github.com/gnarroway/hato) : An HTTP client for Clojure, wrapping JDK 11's HttpClient
 
 ## [Aug 31, 2021](/content/2021/08/31/README.md)
 
@@ -139,7 +146,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Advanced datastructures
 
-*   [Duratom (⭐190)](https://github.com/jimpil/duratom): persisted atoms
+*   [Duratom (⭐192)](https://github.com/jimpil/duratom): persisted atoms
 
 ### Version Control Management
 
@@ -147,19 +154,19 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### GUI
 
-*   [fx-clj (⭐106)](https://github.com/aaronc/fx-clj)
+*   [fx-clj (⭐107)](https://github.com/aaronc/fx-clj)
 
 ### Database
 
 *   [Monger](http://clojuremongodb.info/): for MongoDB
 *   [Monglorious](https://baumandm.github.io/monglorious/): for MongoDB
-*   [clj-rethinkdb (⭐203)](https://github.com/apa512/clj-rethinkdb): for RethinkDB
+*   [clj-rethinkdb (⭐204)](https://github.com/apa512/clj-rethinkdb): for RethinkDB
 *   [Revise (⭐146)](https://github.com/bitemyapp/revise): for RethinkDB
-*   [Spandex (⭐251)](https://github.com/mpenet/spandex): for ElasticSearch
+*   [Spandex (⭐258)](https://github.com/mpenet/spandex): for ElasticSearch
 *   [Elastisch](http://clojureelasticsearch.info/): for ElasticSearch
 *   [neocons](http://clojureneo4j.info/): for Neo4j
-*   [Alia (⭐242)](https://github.com/mpenet/alia): for Cassandra
-*   [aerospike-clj (⭐29)](https://github.com/AppsFlyer/aerospike-clj): for Aerospike
+*   [Alia (⭐245)](https://github.com/mpenet/alia): for Cassandra
+*   [aerospike-clj (⭐28)](https://github.com/AppsFlyer/aerospike-clj): for Aerospike
 
 ### Security
 
@@ -176,9 +183,9 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 ### Machine Learning
 
 *   [neanderthal (⭐1k)](https://github.com/uncomplicate/neanderthal): fast matrix library
-*   [clojurecuda (⭐172)](https://github.com/uncomplicate/clojurecuda)
-*   [clojurecl (⭐276)](https://github.com/uncomplicate/clojurecl)
-*   [bayadera (⭐360)](https://github.com/uncomplicate/bayadera): bayesian data analysis on the GPU
+*   [clojurecuda (⭐174)](https://github.com/uncomplicate/clojurecuda)
+*   [clojurecl (⭐274)](https://github.com/uncomplicate/clojurecl)
+*   [bayadera (⭐359)](https://github.com/uncomplicate/bayadera): bayesian data analysis on the GPU
 *   [Flare (⭐284)](https://github.com/aria42/flare)
 *   [MXNet - Clojure API](https://mxnet.apache.org/versions/1.7.0/api/clojure)
 *   [clj-ml (⭐148)](https://github.com/antoniogarrote/clj-ml)
@@ -190,7 +197,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Computer Vision
 
-*   [origami (⭐112)](https://github.com/hellonico/origami): OpenCV 4 wrapper
+*   [origami (⭐113)](https://github.com/hellonico/origami): OpenCV 4 wrapper
 
 ### Editor Plugins
 
@@ -198,25 +205,25 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Documentation
 
-*   [codox (⭐657)](https://github.com/weavejester/codox)
+*   [codox (⭐662)](https://github.com/weavejester/codox)
 
 ### Miscellaneous
 
-*   [clj-grpc (⭐12)](https://github.com/otwieracz/clj-grpc)
+*   [clj-grpc (⭐13)](https://github.com/otwieracz/clj-grpc)
 
 ### Terminal UI
 
-*   [clojure-lanterna (⭐214)](https://github.com/MultiMUD/clojure-lanterna)
+*   [clojure-lanterna (⭐212)](https://github.com/MultiMUD/clojure-lanterna)
 
 ### Exercises / YouTube
 
-*   [rich4clojure (⭐182)](https://github.com/PEZ/rich4clojure)
+*   [rich4clojure (⭐192)](https://github.com/PEZ/rich4clojure)
 
 ## [Jun 29, 2021](/content/2021/06/29/README.md)
 
 ### Terminal UI
 
-*   [piotr-yuxuan/malli-cli (⭐48)](https://github.com/piotr-yuxuan/malli-cli)
+*   [piotr-yuxuan/malli-cli (⭐50)](https://github.com/piotr-yuxuan/malli-cli)
 
 ## [Jun 07, 2021](/content/2021/06/07/README.md)
 
@@ -232,13 +239,13 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Editor Plugins
 
-*   [Conjure (Neovim) (⭐1.5k)](https://github.com/Olical/conjure)
+*   [Conjure (Neovim) (⭐1.6k)](https://github.com/Olical/conjure)
 
 ## [Apr 17, 2021](/content/2021/04/17/README.md)
 
 ### Dependency injection
 
-*   [piotr-yuxuan/closeable-map (⭐54)](https://github.com/piotr-yuxuan/closeable-map)
+*   [piotr-yuxuan/closeable-map (⭐56)](https://github.com/piotr-yuxuan/closeable-map)
 
 ## [Apr 08, 2021](/content/2021/04/08/README.md)
 
@@ -250,23 +257,23 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Text Processing
 
-*   [lmgrep (⭐188)](https://github.com/dainiusjocas/lucene-grep)
+*   [lmgrep (⭐187)](https://github.com/dainiusjocas/lucene-grep)
 
 ## [Jan 18, 2021](/content/2021/01/18/README.md)
 
 ### Database
 
-*   [next.jdbc (⭐705)](https://github.com/seancorfield/next-jdbc)
-*   [clojure.java.jdbc (⭐708)](https://github.com/clojure/java.jdbc)
+*   [next.jdbc (⭐719)](https://github.com/seancorfield/next-jdbc)
+*   [clojure.java.jdbc (⭐713)](https://github.com/clojure/java.jdbc)
 
 ## [Jan 07, 2021](/content/2021/01/07/README.md)
 
 ### HTTP
 
-*   [clj-http (⭐1.7k)](https://github.com/dakrone/clj-http) :  Apache HttpComponents client wrapper
+*   [clj-http (⭐1.8k)](https://github.com/dakrone/clj-http) :  Apache HttpComponents client wrapper
 *   [http-kit (⭐2.4k)](https://github.com/http-kit/http-kit) : Simple, high-performance event-driven HTTP client and server
 *   [ring (⭐3.7k)](https://github.com/ring-clojure/ring) : HTTP server abstraction
-*   [kvlt (⭐70)](https://github.com/nervous-systems/kvlt) : Uniform, asychronous client interface for HTTP across JVM / Node / browsers
+*   [kvlt (⭐69)](https://github.com/nervous-systems/kvlt) : Uniform, asychronous client interface for HTTP across JVM / Node / browsers
 *   [aleph (⭐2.5k)](https://github.com/clj-commons/aleph) : Async client/server based on Netty, with defaults for HTTP, TCP and UDP
 
 ## [Jan 06, 2021](/content/2021/01/06/README.md)
@@ -277,7 +284,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Date and Time
 
-*   [tick (⭐570)](https://github.com/juxt/tick): Clojure(Script) library, intended as replacement for clj-time
+*   [tick (⭐579)](https://github.com/juxt/tick): Clojure(Script) library, intended as replacement for clj-time
 
 ## [Nov 24, 2020](/content/2020/11/24/README.md)
 
@@ -289,7 +296,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Editor Plugins
 
-*   [clojureVSCode (VSCode) (⭐207)](https://github.com/avli/clojureVSCode)
+*   [clojureVSCode (VSCode) (⭐205)](https://github.com/avli/clojureVSCode)
 
 ## [Oct 24, 2020](/content/2020/10/24/README.md)
 
@@ -301,13 +308,13 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Security
 
-*   [secrets.clj (⭐88)](https://github.com/lk-geimfari/secrets.clj)
+*   [secrets.clj (⭐87)](https://github.com/lk-geimfari/secrets.clj)
 
 ## [Aug 21, 2020](/content/2020/08/21/README.md)
 
 ### Database
 
-*   [Datalevin (⭐980)](https://github.com/juji-io/datalevin)
+*   [Datalevin (⭐1k)](https://github.com/juji-io/datalevin)
 
 ## [Jun 08, 2020](/content/2020/06/08/README.md)
 
@@ -331,7 +338,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Parsing
 
-*   [buran (⭐30)](https://github.com/alekseysotnikov/buran) - RSS/Atom feed consumer and producer
+*   [buran (⭐31)](https://github.com/alekseysotnikov/buran) - RSS/Atom feed consumer and producer
 
 ## [Oct 20, 2019](/content/2019/10/20/README.md)
 
@@ -341,25 +348,25 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Pattern Matching
 
-*   [Meander (⭐891)](https://github.com/noprompt/meander)
+*   [Meander (⭐902)](https://github.com/noprompt/meander)
 
 ## [Oct 07, 2019](/content/2019/10/07/README.md)
 
 ### GUI
 
-*   [trikl (⭐143)](https://github.com/lambdaisland/trikl)
+*   [trikl (⭐141)](https://github.com/lambdaisland/trikl)
 
 ## [Sep 20, 2019](/content/2019/09/20/README.md)
 
 ### Date and Time
 
-*   [clojure.java-time (⭐446)](https://github.com/dm3/clojure.java-time) - Java 8 Date-Time API
+*   [clojure.java-time (⭐452)](https://github.com/dm3/clojure.java-time) - Java 8 Date-Time API
 
 ## [Sep 09, 2019](/content/2019/09/09/README.md)
 
 ### Code Analysis and Linter
 
-*   [clj-kondo (⭐1.6k)](https://github.com/borkdude/clj-kondo)
+*   [clj-kondo (⭐1.7k)](https://github.com/borkdude/clj-kondo)
 
 ## [Sep 05, 2019](/content/2019/09/05/README.md)
 
@@ -383,13 +390,13 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Debugging
 
-*   [mate-clj (⭐59)](https://github.com/AppsFlyer/mate-clj)
+*   [mate-clj (⭐58)](https://github.com/AppsFlyer/mate-clj)
 
 ## [Aug 01, 2019](/content/2019/08/01/README.md)
 
 ### Security
 
-*   [caesium (⭐174)](https://github.com/lvh/caesium) (libsodium bindings)
+*   [caesium (⭐176)](https://github.com/lvh/caesium) (libsodium bindings)
 
 ## [Jul 07, 2019](/content/2019/07/07/README.md)
 
@@ -402,24 +409,24 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Build Automation and Package management
 
-*   [clojurephant (⭐170)](https://github.com/clojurephant/clojurephant) (Gradle plugin)
+*   [clojurephant (⭐172)](https://github.com/clojurephant/clojurephant) (Gradle plugin)
 
 ## [May 08, 2019](/content/2019/05/08/README.md)
 
 ### Miscellaneous
 
-*   [potemkin (⭐561)](https://github.com/ztellman/potemkin) - reexport vars in another ns / act like a clojure map
+*   [potemkin (⭐564)](https://github.com/ztellman/potemkin) - reexport vars in another ns / act like a clojure map
 
 ## [Apr 16, 2019](/content/2019/04/16/README.md)
 
 ### Project Management
 
-*   [milestones (⭐114)](https://github.com/turbopape/milestones)
+*   [milestones (⭐115)](https://github.com/turbopape/milestones)
 
 ### Terminal UI
 
-*   [triki (⭐143)](https://github.com/lambdaisland/trikl)
-*   [zaffre (⭐101)](https://github.com/aaron-santos/zaffre)
+*   [triki (⭐141)](https://github.com/lambdaisland/trikl)
+*   [zaffre (⭐100)](https://github.com/aaron-santos/zaffre)
 *   [closh (⭐1.6k)](https://github.com/dundalek/closh)
 
 ### Graphviz
@@ -441,13 +448,13 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Science and Data Analysis
 
-*   [Loom - graph library for Clojure (⭐873)](https://github.com/aysylu/loom)
+*   [Loom - graph library for Clojure (⭐876)](https://github.com/aysylu/loom)
 
 ## [Nov 26, 2018](/content/2018/11/26/README.md)
 
 ### Editor Plugins
 
-*   [vim-iced (Vim) (⭐505)](https://github.com/liquidz/vim-iced)
+*   [vim-iced (Vim) (⭐508)](https://github.com/liquidz/vim-iced)
 
 ## [Nov 20, 2018](/content/2018/11/20/README.md)
 
@@ -459,27 +466,27 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Advanced datastructures
 
-*   [Persistent AVL trees (⭐122)](https://github.com/clojure/data.avl): persistent sorted maps and sets with log-time rank queries
+*   [Persistent AVL trees (⭐124)](https://github.com/clojure/data.avl): persistent sorted maps and sets with log-time rank queries
 *   [Finger Tree (⭐213)](https://github.com/clojure/data.finger-tree): double-list, counted-double-list, counted-sorted-set
 *   [Hitchhiker Tree (⭐1.2k)](https://github.com/datacrypt-project/hitchhiker-tree): create fast, snapshottable, massively scalable databases
 *   [Hierarchical set (⭐7)](https://github.com/llasram/hier-set)
-*   [Ordered (⭐248)](https://github.com/amalloy/ordered): ordered sets and maps
+*   [Ordered (⭐251)](https://github.com/amalloy/ordered): ordered sets and maps
 *   [Lazy Map (⭐48)](https://github.com/Malabarba/lazy-map-clojure): whose values are only calculated when accessed
-*   [Durable Queue (⭐379)](https://github.com/Factual/durable-queue): queue persisted on disk
-*   [bifurcan (⭐953)](https://github.com/lacuna/bifurcan): linear map/set/list (stores entries contiguously in memory), ;writtern in java, but test suite (read: usage examples) [in clojure (⭐953)](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
+*   [Durable Queue (⭐381)](https://github.com/Factual/durable-queue): queue persisted on disk
+*   [bifurcan (⭐954)](https://github.com/lacuna/bifurcan): linear map/set/list (stores entries contiguously in memory), ;writtern in java, but test suite (read: usage examples) [in clojure (⭐954)](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
 
 ## [Oct 19, 2018](/content/2018/10/19/README.md)
 
 ### Monads
 
-*   [Fluokitten (⭐451)](https://github.com/uncomplicate/fluokitten)
+*   [Fluokitten (⭐453)](https://github.com/uncomplicate/fluokitten)
 
 ### Science and Data Analysis
 
-*   [Bayadera - Bayesian Data Analysis on the GPU (⭐360)](https://github.com/uncomplicate/bayadera)
-*   [ClojureCUDA (⭐172)](https://github.com/uncomplicate/clojurecuda)
+*   [Bayadera - Bayesian Data Analysis on the GPU (⭐359)](https://github.com/uncomplicate/bayadera)
+*   [ClojureCUDA (⭐174)](https://github.com/uncomplicate/clojurecuda)
 *   [Neanderthal - fast matrix and linear algebra (⭐1k)](https://github.com/uncomplicate/neanderthal)
-*   [ClojureCL - parallel computations with OpenCL (⭐276)](https://github.com/uncomplicate/clojurecl)
+*   [ClojureCL - parallel computations with OpenCL (⭐274)](https://github.com/uncomplicate/clojurecl)
 
 ## [Oct 16, 2018](/content/2018/10/16/README.md)
 
@@ -498,7 +505,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Async processing
 
-*   [manifold (⭐997)](https://github.com/ztellman/manifold)
+*   [manifold (⭐1k)](https://github.com/ztellman/manifold)
 
 ### WebSocket
 
@@ -512,7 +519,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Testing
 
-*   [kaocha (⭐760)](https://github.com/lambdaisland/kaocha)
+*   [kaocha (⭐773)](https://github.com/lambdaisland/kaocha)
 
 ## [Sep 28, 2018](/content/2018/09/28/README.md)
 
@@ -536,7 +543,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Machine Learning
 
-*   [clojure-tensorflow (⭐110)](https://github.com/kieranbrowne/clojure-tensorflow)
+*   [clojure-tensorflow (⭐111)](https://github.com/kieranbrowne/clojure-tensorflow)
 *   [dl4clj (deeplearning4j to clojure) (⭐99)](https://github.com/yetanalytics/dl4clj)
 
 ### Video tutorials / YouTube
@@ -557,7 +564,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Debugging
 
-*   [tools.trace (⭐353)](https://github.com/clojure/tools.trace)
+*   [tools.trace (⭐355)](https://github.com/clojure/tools.trace)
 
 ## [May 16, 2018](/content/2018/05/16/README.md)
 
@@ -591,9 +598,9 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### ORM and SQL generation
 
-*   [Walkable (⭐438)](https://github.com/walkable-server/walkable)
+*   [Walkable (⭐443)](https://github.com/walkable-server/walkable)
 *   [Specql (⭐127)](https://github.com/tatut/specql/)
-*   [sqlium (⭐26)](https://github.com/TheLadders/sqlium/)
+*   [sqlium](https://github.com/TheLadders/sqlium/)
 
 ## [Mar 27, 2018](/content/2018/03/27/README.md)
 
@@ -605,7 +612,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Redis
 
-*   [celtuce (⭐48)](https://github.com/lerouxrgd/celtuce)
+*   [celtuce (⭐49)](https://github.com/lerouxrgd/celtuce)
 
 ## [Mar 24, 2018](/content/2018/03/24/README.md)
 
@@ -624,7 +631,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Parsing
 
-*   [kern (⭐234)](https://github.com/blancas/kern)
+*   [kern (⭐235)](https://github.com/blancas/kern)
 
 ## [Feb 21, 2018](/content/2018/02/21/README.md)
 
@@ -660,7 +667,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Web Framework
 
-*   [Compojure (⭐4k)](https://github.com/weavejester/compojure)
+*   [Compojure (⭐4.1k)](https://github.com/weavejester/compojure)
 
 ## [Oct 14, 2017](/content/2017/10/14/README.md)
 
@@ -672,7 +679,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### HTML Manipulation
 
-*   [selmer (⭐945)](https://github.com/yogthos/Selmer)
+*   [selmer (⭐952)](https://github.com/yogthos/Selmer)
 
 ## [Sep 29, 2017](/content/2017/09/29/README.md)
 
@@ -680,8 +687,8 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 *   [yagni (⭐218)](https://github.com/venantius/yagni)
 *   [lein-bikeshed (⭐177)](https://github.com/dakrone/lein-bikeshed)
-*   [spectrum (⭐592)](https://github.com/arohner/spectrum)
-*   [cloverage (⭐500)](https://github.com/cloverage/cloverage)
+*   [spectrum (⭐591)](https://github.com/arohner/spectrum)
+*   [cloverage (⭐502)](https://github.com/cloverage/cloverage)
 
 ## [Aug 17, 2017](/content/2017/08/17/README.md)
 
@@ -689,12 +696,12 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 *   [CIDER (Emacs) (⭐3.5k)](https://github.com/clojure-emacs/cider)
 *   [smartparens (Emacs) (⭐1.8k)](https://github.com/Fuco1/smartparens)
-*   [rainbow-delimiters (Emacs) (⭐640)](https://github.com/Fanael/rainbow-delimiters)
-*   [aggressive-indent (Emacs) (⭐824)](https://github.com/Malabarba/aggressive-indent-mode)
+*   [rainbow-delimiters (Emacs) (⭐650)](https://github.com/Fanael/rainbow-delimiters)
+*   [aggressive-indent (Emacs) (⭐829)](https://github.com/Malabarba/aggressive-indent-mode)
 *   [vim-fireplace (Vim) (⭐1.7k)](https://github.com/tpope/vim-fireplace)
-*   [vim-redl (Vim) (⭐107)](https://github.com/dgrnbrg/vim-redl)
+*   [vim-redl (Vim) (⭐106)](https://github.com/dgrnbrg/vim-redl)
 *   [vim-leiningen (Vim) (⭐197)](https://github.com/tpope/vim-salve)
-*   [rainbow\_parentheses.vim (Vim) (⭐377)](https://github.com/junegunn/rainbow_parentheses.vim)
+*   [rainbow\_parentheses.vim (Vim) (⭐374)](https://github.com/junegunn/rainbow_parentheses.vim)
 *   [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
 
 ### Guides
@@ -710,7 +717,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 ### Exceptions and Error Handling
 
 *   [Perseverance (⭐178)](https://github.com/grammarly/perseverance)
-*   [Dire (⭐482)](https://github.com/MichaelDrogalis/dire)
+*   [Dire (⭐483)](https://github.com/MichaelDrogalis/dire)
 
 ### Archives and Compression
 
@@ -720,8 +727,8 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Science and Data Analysis
 
-*   [sparklling (⭐441)](https://github.com/gorillalabs/sparkling)
-*   [flambo (⭐607)](https://github.com/yieldbot/flambo)
+*   [sparklling (⭐443)](https://github.com/gorillalabs/sparkling)
+*   [flambo (⭐608)](https://github.com/yieldbot/flambo)
 
 ## [Jun 15, 2017](/content/2017/06/15/README.md)
 
@@ -740,13 +747,13 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Data Validation
 
-*   [Orchestra (⭐617)](https://github.com/jeaye/orchestra)
+*   [Orchestra (⭐618)](https://github.com/jeaye/orchestra)
 
 ## [May 03, 2017](/content/2017/05/03/README.md)
 
 ### Webdriver automation
 
-*   [Etaoin (⭐883)](https://github.com/igrishaev/etaoin)
+*   [Etaoin (⭐891)](https://github.com/igrishaev/etaoin)
 
 ## [Mar 13, 2017](/content/2017/03/13/README.md)
 
@@ -768,7 +775,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### ORM and SQL generation
 
-*   [Toucan (⭐572)](https://github.com/metabase/toucan)
+*   [Toucan (⭐570)](https://github.com/metabase/toucan)
 
 ## [Oct 29, 2016](/content/2016/10/29/README.md)
 
@@ -833,7 +840,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### RESTful API
 
-*   [yada (⭐729)](https://github.com/juxt/yada)
+*   [yada (⭐731)](https://github.com/juxt/yada)
 
 ### Dependency injection
 
@@ -843,7 +850,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### CI
 
-*   [lambdacd (⭐673)](https://github.com/flosell/lambdacd)
+*   [lambdacd (⭐671)](https://github.com/flosell/lambdacd)
 
 ## [Mar 16, 2016](/content/2016/03/16/README.md)
 
@@ -875,15 +882,15 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Structural Migrations
 
-*   [Migratus (⭐617)](https://github.com/yogthos/migratus)
+*   [Migratus (⭐623)](https://github.com/yogthos/migratus)
 
 ### Security
 
-*   [Buddy (⭐824)](https://github.com/funcool/buddy)
+*   [Buddy (⭐826)](https://github.com/funcool/buddy)
 
 ### Monads
 
-*   [cats (⭐939)](https://github.com/funcool/cats)
+*   [cats (⭐938)](https://github.com/funcool/cats)
 
 ### Science and Data Analysis
 
@@ -907,14 +914,14 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Build Automation and Package management
 
-*   [Boot (⭐1.8k)](https://github.com/boot-clj/boot)
+*   [Boot (⭐1.7k)](https://github.com/boot-clj/boot)
 
 ## [Oct 08, 2015](/content/2015/10/08/README.md)
 
 ### Pattern Matching
 
 *   [core.match (⭐1.2k)](https://github.com/clojure/core.match)
-*   [defun (⭐462)](https://github.com/killme2008/defun)
+*   [defun (⭐464)](https://github.com/killme2008/defun)
 
 ## [Aug 26, 2015](/content/2015/08/26/README.md)
 
@@ -926,13 +933,13 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Data Validation
 
-*   [Bouncer (⭐359)](https://github.com/leonardoborges/bouncer)
+*   [Bouncer (⭐361)](https://github.com/leonardoborges/bouncer)
 
 ## [Mar 10, 2015](/content/2015/03/10/README.md)
 
 ### Emails
 
-*   [postal (⭐578)](https://github.com/drewr/postal)
+*   [postal (⭐580)](https://github.com/drewr/postal)
 
 ## [Mar 08, 2015](/content/2015/03/08/README.md)
 
@@ -946,13 +953,13 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Structural Migrations
 
-*   [Joplin (⭐312)](https://github.com/juxt/joplin)
+*   [Joplin (⭐313)](https://github.com/juxt/joplin)
 
 ## [Jan 30, 2015](/content/2015/01/30/README.md)
 
 ### HTML Manipulation
 
-*   [clostache (⭐317)](https://github.com/fhd/clostache)
+*   [clostache (⭐318)](https://github.com/fhd/clostache)
 
 ## [Dec 10, 2014](/content/2014/12/10/README.md)
 
@@ -970,27 +977,27 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Connection pools
 
-*   [hikari-cp (⭐405)](https://github.com/tomekw/hikari-cp)
+*   [hikari-cp (⭐407)](https://github.com/tomekw/hikari-cp)
 
 ## [Oct 22, 2014](/content/2014/10/22/README.md)
 
 ### Miscellaneous
 
 *   [clj-tuple (⭐179)](https://github.com/ztellman/clj-tuple)
-*   [slingshot (⭐639)](https://github.com/scgilardi/slingshot)
+*   [slingshot (⭐641)](https://github.com/scgilardi/slingshot)
 
 ## [Oct 20, 2014](/content/2014/10/20/README.md)
 
 ### Dependency injection
 
 *   [Component (⭐2.1k)](https://github.com/stuartsierra/component)
-*   [System (⭐603)](https://github.com/danielsz/system)
+*   [System (⭐607)](https://github.com/danielsz/system)
 
 ## [Oct 10, 2014](/content/2014/10/10/README.md)
 
 ### Debugging
 
-*   [aprint (⭐129)](https://github.com/razum2um/aprint)
+*   [aprint (⭐128)](https://github.com/razum2um/aprint)
 
 ### Websites / YouTube
 
@@ -1017,8 +1024,8 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 ### Structural Migrations
 
 *   [Lobos (⭐266)](https://github.com/budu/lobos)
-*   [Ragtime (⭐588)](https://github.com/weavejester/ragtime)
-*   [Drift (⭐121)](https://github.com/macourtney/drift)
+*   [Ragtime (⭐595)](https://github.com/weavejester/ragtime)
+*   [Drift (⭐120)](https://github.com/macourtney/drift)
 
 ## [Sep 04, 2014](/content/2014/09/04/README.md)
 
@@ -1035,7 +1042,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Debugging
 
-*   [prone (⭐510)](https://github.com/magnars/prone)
+*   [prone (⭐511)](https://github.com/magnars/prone)
 
 ### Guides
 
@@ -1048,9 +1055,9 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 *   [debug-repl (⭐150)](https://github.com/GeorgeJahad/debug-repl)
 *   [ritz (⭐320)](https://github.com/pallet/ritz)
 *   [redl (⭐33)](https://github.com/dgrnbrg/redl)
-*   [limit-break (⭐26)](https://github.com/technomancy/limit-break)
-*   [spyscope (⭐575)](https://github.com/dgrnbrg/spyscope)
-*   [pretty (⭐580)](https://github.com/AvisoNovate/pretty)
+*   [limit-break (⭐25)](https://github.com/technomancy/limit-break)
+*   [spyscope (⭐577)](https://github.com/dgrnbrg/spyscope)
+*   [pretty (⭐586)](https://github.com/AvisoNovate/pretty)
 
 ## [Jul 25, 2014](/content/2014/07/25/README.md)
 
@@ -1062,7 +1069,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Literate Programming
 
-*   [marginalia (⭐798)](https://github.com/gdeer81/marginalia)
+*   [marginalia (⭐803)](https://github.com/gdeer81/marginalia)
 
 ## [Jul 16, 2014](/content/2014/07/16/README.md)
 
@@ -1096,7 +1103,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Text Processing
 
-*   [clojure-opennlp (⭐745)](https://github.com/dakrone/clojure-opennlp)
+*   [clojure-opennlp (⭐747)](https://github.com/dakrone/clojure-opennlp)
 
 ### Websites / YouTube
 
@@ -1123,7 +1130,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### ORM and SQL generation
 
-*   [stch-library/sql (⭐40)](https://github.com/stch-library/sql)
+*   [stch-library/sql (⭐41)](https://github.com/stch-library/sql)
 *   [sqlingvo (⭐208)](https://github.com/r0man/sqlingvo)
 *   [honeysql (⭐1.7k)](https://github.com/jkk/honeysql)
 
@@ -1143,7 +1150,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 ### Async processing
 
 *   [core.async (⭐1.9k)](https://github.com/clojure/core.async/)
-*   [pulsar (⭐903)](https://github.com/puniverse/pulsar)
+*   [pulsar (⭐904)](https://github.com/puniverse/pulsar)
 
 ### Monads
 
@@ -1155,7 +1162,7 @@ A curated list of awesome Clojure libraries and resources. Inspired by awesome-.
 
 ### Code Analysis and Linter
 
-*   [Slamhound (⭐458)](https://github.com/technomancy/slamhound)
+*   [Slamhound (⭐464)](https://github.com/technomancy/slamhound)
 
 ### Science and Data Analysis
 

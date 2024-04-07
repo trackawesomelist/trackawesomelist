@@ -6,6 +6,12 @@ A curated list for when naming things is done right.
 
 [ Daily / [Weekly](/content/gruhn/awesome-naming/week/README.md) / [Overview](/content/gruhn/awesome-naming/readme/README.md) ]
 
+## [Apr 04, 2024](/content/2024/04/04/README.md)
+
+### Tools, Applications, Libraries, Frameworks
+
+*   [Webpack](https://webpack.js.org/) - A bundler for JavaScript and other *web* assets with a short and descriptive name that also somewhat rhymes.
+
 ## [Mar 10, 2024](/content/2024/03/10/README.md)
 
 ### Design Patterns and Anti Patterns
@@ -26,7 +32,7 @@ A curated list for when naming things is done right.
 
 ## [Oct 28, 2023](/content/2023/10/28/README.md)
 
-### Tools and Applications
+### Tools, Applications, Libraries, Frameworks
 
 *   [Safari](https://en.wikipedia.org/wiki/Safari_\(web_browser\)) - Web browser developed by Apple.
 
@@ -48,7 +54,7 @@ A curated list for when naming things is done right.
 
 ## [Sep 21, 2023](/content/2023/09/21/README.md)
 
-### Libraries and Frameworks
+### Tools, Applications, Libraries, Frameworks
 
 *   [horcrux (⭐4.4k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
 
@@ -102,7 +108,7 @@ A curated list for when naming things is done right.
 
 ## [Dec 31, 2021](/content/2021/12/31/README.md)
 
-### Tools and Applications
+### Tools, Applications, Libraries, Frameworks
 
 *   [tldr](https://tldr.sh/) - Simplified man pages with practical examples.
 *   [yarn](https://yarnpkg.com/) - NodeJS dependency manager.
@@ -115,9 +121,9 @@ A curated list for when naming things is done right.
 
 ## [Oct 11, 2021](/content/2021/10/11/README.md)
 
-### Libraries and Frameworks
+### Tools, Applications, Libraries, Frameworks
 
-*   [Puppeteer (⭐86k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐87k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
 ## [Oct 08, 2021](/content/2021/10/08/README.md)
 
@@ -152,14 +158,14 @@ A curated list for when naming things is done right.
 
 ## [May 05, 2021](/content/2021/05/05/README.md)
 
-### Libraries and Frameworks
-
-*   [Uglify (⭐13k)](https://github.com/mishoo/UglifyJS) - A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller.
-
 ### Theoretical Computer Science
 
 *   [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) - A game world that showcases how astonishing complexity can arise from very simple ingredients.
 *   [Pumping lemma](https://en.wikipedia.org/wiki/Pumping_lemma) - The fact that in some formal languages any sufficiently long string can be *pumped* with repetitions of its substring and the result stays in the same formal language.
+
+### Tools, Applications, Libraries, Frameworks
+
+*   [Uglify (⭐13k)](https://github.com/mishoo/UglifyJS) - A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller.
 
 ## [Apr 21, 2021](/content/2021/04/21/README.md)
 
@@ -218,7 +224,7 @@ A curated list for when naming things is done right.
 
 ## [Jul 11, 2020](/content/2020/07/11/README.md)
 
-### Libraries and Frameworks
+### Tools, Applications, Libraries, Frameworks
 
 *   [uppy (⭐28k)](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
 
@@ -277,7 +283,7 @@ A curated list for when naming things is done right.
 
 ## [Nov 25, 2019](/content/2019/11/25/README.md)
 
-### Libraries and Frameworks
+### Tools, Applications, Libraries, Frameworks
 
 *   [clooney (⭐1.4k)](https://github.com/GoogleChromeLabs/clooney) - A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney who is also an actor.
 

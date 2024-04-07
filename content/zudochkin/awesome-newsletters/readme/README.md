@@ -247,7 +247,7 @@ Thanks to all [contributors (⭐3.7k)](https://github.com/zudochkin/awesome-news
 
 ### R
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐658)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐666)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby
 
@@ -311,6 +311,7 @@ Thanks to all [contributors (⭐3.7k)](https://github.com/zudochkin/awesome-news
 
 *   [This Week in Rust](https://this-week-in-rust.org). Stay up to date with events, learning resources, and recent developments in Rust community. [Archive](https://this-week-in-rust.org/blog/archives/index.html).
 *   [Awesome Rust Newsletter](https://rust.libhunt.com/newsletter). A curated list of Rust libraries and resources.
+*   [Rust Bytes](https://weeklyrust.substack.com/). A fun weekly newsletter keeping you informed about all things noteworthy in the world of The Rust Programming Language.
 
 ### C/C++
 
@@ -452,6 +453,7 @@ Thanks to all [contributors (⭐3.7k)](https://github.com/zudochkin/awesome-news
 *   [Software Lead Weekly](https://softwareleadweekly.com/). Insightful articles about company culture, leadership and building software in general.
 *   [Tech Lead Digest](https://techleaddigest.net/). A weekly newsletter with five interesting stories about building teams, leadership, and engineering culture.
 *   [Engineering Leadership Snacks](https://engineeringleadership.kulkarniankita.com/). Weekly Snacks on Actionable Leadership tips, a Deep-dive and free Toolbox to excel as a Leader.
+*   [Engineering Leadership](https://newsletter.eng-leadership.com/). Weekly newsletter for becoming a great engineering leader.
 
 ## Marketing
 

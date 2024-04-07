@@ -12,6 +12,10 @@ A list of awesome projects related to Zig
 
 *   [andy5995/zigdeck (⭐1)](https://github.com/andy5995/zigdeck) - A library that creates and shuffles a deck of cards from which you can draw.
 
+### Misc libraries
+
+*   [vbrusca/ZigMatrixUtils (⭐1)](https://github.com/vbrusca/ZigMatrixUtils) - Matrix manipulation and utility library.
+
 ### Learning resources / Package managers
 
 *   [ziglings/exercises](https://codeberg.org/ziglings/exercises) - Learn Zig by fixing tiny example programs.

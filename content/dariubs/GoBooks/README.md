@@ -6,6 +6,15 @@ List of Golang books
 
 [ Daily / [Weekly](/content/dariubs/GoBooks/week/README.md) / [Overview](/content/dariubs/GoBooks/readme/README.md) ]
 
+## [Apr 07, 2024](/content/2024/04/07/README.md)
+
+### 2024 - [Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](https://www.amazon.de/-/en/Jon-Bodner/dp/1098139291) / Why does this book look so different?
+
+*   Write idiomatic code in Go and design a Go project
+*   Understand the reasons behind Go's design decisions
+*   Use Go's tools to improve performance, optimize memory usage, and reduce garbage collection
+*   Learn how to use Go's advanced development tools
+
 ## [Jan 07, 2023](/content/2023/01/07/README.md)
 
 ### 2023 - [Shipping Go](https://www.manning.com/books/shipping-go) / Why does this book look so different?
@@ -86,10 +95,8 @@ List of Golang books
 
 ## [Jul 31, 2021](/content/2021/07/31/README.md)
 
-### 2021 - [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.amazon.de/-/en/Jon-Bodner/dp/1492077216) / Why does this book look so different?
+### 2024 - [Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](https://www.amazon.de/-/en/Jon-Bodner/dp/1098139291) / Why does this book look so different?
 
-*   Learn how to write idiomatic code in Go and design a Go project
-*   Understand the reasons for the design decisions in Go
 *   Set up a Go development environment for a solo developer or team
 *   Learn how and when to use reflection, unsafe, and cgo
 *   Discover how Go's features allow the language to run efficiently
