@@ -6,6 +6,12 @@ Awesome Ansible List
 
 [ Daily / [Weekly](/content/ansible-community/awesome-ansible/week/README.md) / [Overview](/content/ansible-community/awesome-ansible/readme/README.md) ]
 
+## [Apr 08, 2024](/content/2024/04/08/README.md)
+
+### Tools
+
+*   [aar-doc - Automated Ansible Role Documentation (⭐8)](https://github.com/telekom-mms/Automated-Ansible-Role-Documentation) - Generate documentation automatically from an Ansible role's metadata.
+
 ## [Mar 25, 2024](/content/2024/03/25/README.md)
 
 ### Tutorials
@@ -209,7 +215,7 @@ Awesome Ansible List
 
 ### Tools
 
-*   [terraform.py (⭐450)](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
+*   [terraform.py (⭐449)](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
 
 ## [Sep 27, 2020](/content/2020/09/27/README.md)
 
