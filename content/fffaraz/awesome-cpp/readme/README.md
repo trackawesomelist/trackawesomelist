@@ -842,6 +842,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [TinyExpr (⭐1.5k)](https://github.com/codeplea/tinyexpr) - A C library for parsing and evaluating math expressions from strings. \[zlib]
 *   [Vc (⭐1.4k)](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++. \[BSD]
 *   [Versor](http://versor.mat.ucsb.edu/) - A (fast) Generic C++ library for Geometric Algebras, including Euclidean, Projective, Conformal, Spacetime (etc).
+*   [Wagyu (⭐160)](https://github.com/mapbox/wagyu) - A general library for geometry operations of union, intersections, difference, and xor. \[mapbox-wagyu original]
 *   [Wykobi](https://www.wykobi.com) - A C++ library of efficient, robust and simple to use C++ 2D/3D oriented computational geometry routines. \[MIT]
 *   [xtensor (⭐3.2k)](https://github.com/xtensor-stack/xtensor) - A C++14 library for numerical analysis with multi-dimensional array expressions, inspired by NumPy syntax. \[BSD 3-clause] [website](https://xtensor-stack.github.io/xtensor)
 *   [universal (⭐364)](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. \[MIT license]
@@ -1213,7 +1214,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [pprint (⭐907)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
 *   [pspsdk (⭐799)](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
 *   [QtVerbalExpressions (⭐61)](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. \[MIT]
-*   [RaipdFuzz (⭐200)](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. \[MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
+*   [RaipdFuzz (⭐205)](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. \[MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
 *   [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. \[GPL2/Proprietary]
 *   [scnlib (⭐921)](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. \[Apache-2.0] [website](https://v1.scnlib.dev/)
 *   [Scintilla](http://scintilla.org/) - A free source code editing component. \[MIT]

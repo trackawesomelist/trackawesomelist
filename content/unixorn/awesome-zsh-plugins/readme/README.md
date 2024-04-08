@@ -28,6 +28,7 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
 
 ## Table of Contents
 
+*   [Disclaimer](#disclaimer)
 *   [Frameworks](#frameworks)
     *   [alf](#alf)
     *   [ansible-role-zsh](#ansible-role-zsh)
@@ -116,6 +117,21 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 *Please read the [Contributing Guidelines](https://github.com/unixorn/awesome-zsh-plugins/blob/main/README.md/Contributing.md) before contributing.*
+
+## Disclaimer
+
+While I have done my best to not add entries with embedded malicious code, I don't have the time to sift through the source of every entry in the list.
+
+THIS LIST IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ## Frameworks
 
@@ -2097,6 +2113,7 @@ If you're using [Antigen (⭐7.9k)](https://github.com/zsh-users/antigen), you c
 *   [kyuu (⭐1)](https://github.com/arturoalviar/kyuu-zsh-theme) - A simple theme with the first character being 九(kyuu), the number 9. The primary color is blue with a magenta accent. Includes `git` status decorations.
 *   [lacerate (⭐0)](https://github.com/Petrushevsky-A/Lacerate-zsh-theme) - Minimalist theme with decorations for `git`, `hg` and python `venv` status.
 *   [laconic (⭐0)](https://github.com/Saka7/laconic.zsh-theme) - Simple theme with `git` status and current directory decorators.
+*   [lagnoda (⭐1)](https://github.com/jashezan/lagnoda) Inspired by [agnoster](https://gist.github.com/agnoster/3712874) and `lambda` themes. Includes decorators for username\@hostname, current directory, `git`, `hg`, or `bzr` status, current virtualenv, exit status of last command run, and current aws profile.
 *   [lagune (⭐1)](https://github.com/noplay/lagune) - A minimal ZSH theme.
 *   [lambda (bluedragon1221) (⭐0)](https://github.com/bluedragon1221/zsh-lambda-prompt) - Includes decorators for current directory and `git` status.
 *   [lambda (cdimascio) (⭐63)](https://github.com/cdimascio/lambda-zsh-theme) -  Inspired by the [lambda (⭐168k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) theme. Includes `git` status decorations.

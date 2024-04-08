@@ -2,15 +2,22 @@
 
 A curated list of tech internships resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lodthe/awesome-internships/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lodthe/awesome-internships](https://github.com/lodthe/awesome-internships) · ⭐ 227 · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lodthe/awesome-internships/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lodthe/awesome-internships](https://github.com/lodthe/awesome-internships) · ⭐ 352 · 🏷️ Work
 
 [ [Daily](/content/lodthe/awesome-internships/README.md) / Weekly / [Overview](/content/lodthe/awesome-internships/readme/README.md) ]
 
-## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
+## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
 
 ### Where to apply
 
-*   [Summer 2022 Internships (⭐14k)](https://github.com/pittcsc/Summer2022-Internships) - A curated list of 2022 internships.
+*   [Summer 2024 Internships (⭐30k)](https://github.com/pittcsc/Summer2022-Internships) - A curated list of internships (by SimplifyJobs).
+*   [New Grad Applications (⭐9.3k)](https://github.com/SimplifyJobs/New-Grad-Positions) - A curated list of new grad roles (by SimplifyJobs).
+*   [EU Internships 2024 (⭐72)](https://github.com/LorenzoLaCorte/european-tech-internships-2024) - A collection of tech internships around Europe.
+
+### CV builders
+
+*   [Resume.io](https://resume.io/) - A platform for building a resume.
+*   [Simplify](https://simplify.jobs/resume-builder) - AI resume builder designed for job seekers.
 
 ## [Oct 05 - Oct 11, 2020](/content/2020/40/README.md)
 
@@ -32,7 +39,6 @@ A curated list of tech internships resources.
 
 ### Where to apply
 
-*   [2021 New Grad Applications (⭐1.8k)](https://github.com/Pitt-CSC/NewGrad-2021) - A curated list of 2021 new grad roles.
 *   [Relevant levels.fyi internships list](https://www.levels.fyi/internships/) - A collection of intern roles with salaries.
 
 ### How to write CV

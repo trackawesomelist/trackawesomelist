@@ -2,7 +2,7 @@
 
 A curated list of tech internships resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lodthe/awesome-internships/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lodthe/awesome-internships](https://github.com/lodthe/awesome-internships) · ⭐ 227 · 🏷️ Work
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lodthe/awesome-internships/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lodthe/awesome-internships](https://github.com/lodthe/awesome-internships) · ⭐ 352 · 🏷️ Work
 
 [ [Daily](/content/lodthe/awesome-internships/README.md) / [Weekly](/content/lodthe/awesome-internships/week/README.md) / Overview ]
 
@@ -20,6 +20,7 @@ The repository contains useful information for everyone who is looking for a tec
 *   [Where to apply](#where-to-apply)
 *   [How to write CV](#how-to-write-cv)
 *   [CV examples](#cv-examples)
+*   [CV builders](#cv-builders)
 *   [CV analyzers](#cv-analyzers)
 *   [Feedback on your CV](#feedback-on-your-cv)
 *   [Where to get an employee referral](#where-to-get-an-employee-referral)
@@ -34,9 +35,10 @@ The repository contains useful information for everyone who is looking for a tec
 
 ## Where to apply
 
-*   [Summer 2022 Internships (⭐14k)](https://github.com/pittcsc/Summer2022-Internships) - A curated list of 2022 internships.
-*   [2021 New Grad Applications (⭐1.8k)](https://github.com/Pitt-CSC/NewGrad-2021) - A curated list of 2021 new grad roles.
+*   [Summer 2024 Internships (⭐30k)](https://github.com/pittcsc/Summer2022-Internships) - A curated list of internships (by SimplifyJobs).
+*   [New Grad Applications (⭐9.3k)](https://github.com/SimplifyJobs/New-Grad-Positions) - A curated list of new grad roles (by SimplifyJobs).
 *   [Relevant levels.fyi internships list](https://www.levels.fyi/internships/) - A collection of intern roles with salaries.
+*   [EU Internships 2024 (⭐72)](https://github.com/LorenzoLaCorte/european-tech-internships-2024) - A collection of tech internships around Europe.
 
 ## How to write CV
 
@@ -52,6 +54,11 @@ The repository contains useful information for everyone who is looking for a tec
 *   [Resumehub](https://resumehub.org) - Choose a company and a role and find an appropriate template.
 *   [Kickresume](https://www.kickresume.com/en/help-center/software-engineering-resume-samples) - A collection of awesome resumes with role and company description.
 *   [Zety CV Templates](https://zety.com/cv-templates) - Just pick one of 18+ CV templates, fill it out, and download in seconds.
+
+## CV builders
+
+*   [Resume.io](https://resume.io/) - A platform for building a resume.
+*   [Simplify](https://simplify.jobs/resume-builder) - AI resume builder designed for job seekers.
 
 ## CV analyzers
 
