@@ -2,9 +2,15 @@
 
 :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ramnes/awesome-mongodb/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) · ⭐ 2.3K · 🏷️ Databases
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ramnes/awesome-mongodb/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) · ⭐ 2.4K · 🏷️ Databases
 
 [ Daily / [Weekly](/content/ramnes/awesome-mongodb/week/README.md) / [Overview](/content/ramnes/awesome-mongodb/readme/README.md) ]
+
+## [Apr 09, 2024](/content/2024/04/09/README.md)
+
+### Tools / Desktop
+
+*   [WebDB (⭐99)](https://github.com/WebDB-App/app) – Web-based and open-source "efficient database IDE". Provides ERDs, data generators, an AI assistant, a NoSQL structure manager, a time machine, auto-completion and more
 
 ## [Mar 15, 2024](/content/2024/03/15/README.md)
 
@@ -27,7 +33,7 @@
 ### Libraries / Python
 
 *   [AtlasQ (⭐6)](https://github.com/certego/AtlasQ) - MongoDB Atlas Search wrapper with MongoEngine syntax
-*   [Flask-MongoEngine (⭐838)](https://github.com/MongoEngine/flask-mongoengine) - Flask extension that integrates MongoEngine, WTForms and FlaskDebugToolbar
+*   [Flask-MongoEngine (⭐840)](https://github.com/MongoEngine/flask-mongoengine) - Flask extension that integrates MongoEngine, WTForms and FlaskDebugToolbar
 
 ## [Jun 05, 2023](/content/2023/06/05/README.md)
 
@@ -37,11 +43,11 @@
 
 ### Libraries / Dart
 
-*   [mongo\_dart (⭐433)](https://github.com/mongo-dart/mongo_dart) - Community Dart driver
+*   [mongo\_dart (⭐436)](https://github.com/mongo-dart/mongo_dart) - Community Dart driver
 
 ### Libraries / Delphi
 
-*   [Alcinoe (⭐939)](https://github.com/MagicFoundation/Alcinoe) - Library for Delphi that includes a MongoDB client
+*   [Alcinoe (⭐946)](https://github.com/MagicFoundation/Alcinoe) - Library for Delphi that includes a MongoDB client
 
 ### Libraries / Elixir
 
@@ -53,7 +59,7 @@
 
 ### Libraries / JavaScript
 
-*   [deno\_mongo (⭐505)](https://github.com/denodrivers/mongo) - Community Deno driver
+*   [deno\_mongo (⭐508)](https://github.com/denodrivers/mongo) - Community Deno driver
 
 ### Libraries / OCaml
 
@@ -61,11 +67,11 @@
 
 ### Libraries / PHP
 
-*   [mongo-php-adapter (⭐466)](https://github.com/alcaeus/mongo-php-adapter) - Adapter for applications using `ext-mongo`
+*   [mongo-php-adapter (⭐465)](https://github.com/alcaeus/mongo-php-adapter) - Adapter for applications using `ext-mongo`
 
 ### Libraries / PowerShell
 
-*   [Mdbc (⭐136)](https://github.com/nightroman/Mdbc) - MongoDB cmdlets for PowerShell
+*   [Mdbc (⭐137)](https://github.com/nightroman/Mdbc) - MongoDB cmdlets for PowerShell
 
 ### Libraries / Python
 
@@ -77,13 +83,13 @@
 
 ### Libraries / Swift
 
-*   [MongoKitten (⭐689)](https://github.com/orlandos-nl/MongoKitten) - Community asynchronous Swift driver
+*   [MongoKitten (⭐693)](https://github.com/orlandos-nl/MongoKitten) - Community asynchronous Swift driver
 
 ## [Mar 06, 2023](/content/2023/03/06/README.md)
 
 ### Tools / Development
 
-*   [migrate-mongo (⭐879)](https://github.com/seppevs/migrate-mongo) - Database migration tool
+*   [migrate-mongo (⭐890)](https://github.com/seppevs/migrate-mongo) - Database migration tool
 
 ## [Feb 08, 2023](/content/2023/02/08/README.md)
 
@@ -95,19 +101,19 @@
 
 ### Tools / Desktop
 
-*   [Compass (⭐956)](https://github.com/mongodb-js/compass) - Free Cross-platform GUI from MongoDB
+*   [Compass (⭐970)](https://github.com/mongodb-js/compass) - Free Cross-platform GUI from MongoDB
 
 ### Tools / Development
 
 *   [Mongo Playground (⭐172)](https://github.com/feliixx/mongoplayground) - Online query playground
-*   [VS Code Extension (⭐298)](https://github.com/mongodb-js/vscode)
+*   [VS Code Extension (⭐299)](https://github.com/mongodb-js/vscode)
 
 ### Tools / Low-Code
 
 *   [Appsmith (⭐31k)](https://github.com/appsmithorg/appsmith) - Open-source Retool alternative
-*   [Appwrite (⭐40k)](https://github.com/appwrite/appwrite) - Open-source Firebase alternative
-*   [Budibase (⭐20k)](https://github.com/Budibase/budibase) - Open-source Retool alternative
-*   [ILLA Builder (⭐10k)](https://github.com/illacloud/illa-builder) - Open-source Retool alternative
+*   [Appwrite (⭐41k)](https://github.com/appwrite/appwrite) - Open-source Firebase alternative
+*   [Budibase (⭐21k)](https://github.com/Budibase/budibase) - Open-source Retool alternative
+*   [ILLA Builder (⭐11k)](https://github.com/illacloud/illa-builder) - Open-source Retool alternative
 *   [Tooljet (⭐26k)](https://github.com/ToolJet/ToolJet) - Open-source Retool alternative
 *   [DronaHQ](https://www.dronahq.com/) - Retool alternative
 *   [Retool](https://retool.com/) - Drag-and-drop editor with pre-built components to build internal tools
@@ -129,7 +135,7 @@
 
 ### Libraries / Kotlin
 
-*   [kmongo (⭐788)](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
+*   [kmongo (⭐787)](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
 
 ## [Nov 15, 2022](/content/2022/11/15/README.md)
 
@@ -144,7 +150,7 @@
 
 ### Libraries / PHP
 
-*   [PHP Driver (⭐867)](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
+*   [PHP Driver (⭐866)](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
 
 ### Libraries / Scala
 
@@ -157,19 +163,19 @@
 
 ### Tools / Development
 
-*   [C# Analyzer (⭐20)](https://github.com/mongodb/mongo-csharp-analyzer) - View the MongoDB Query API equivalents of your builder expressions in Visual Studio
+*   [C# Analyzer (⭐21)](https://github.com/mongodb/mongo-csharp-analyzer) - View the MongoDB Query API equivalents of your builder expressions in Visual Studio
 *   [MongoDB Atlas App Services](https://www.mongodb.com/atlas/app-services) - MongoDB Inc. solution to run code without the operational overhead
 
 ### Tools / Shell
 
-*   [MongoDB Atlas CLI (⭐151)](https://github.com/mongodb/mongodb-atlas-cli) - Official Atlas API command-line client
-*   [mongosh (⭐290)](https://github.com/mongodb-js/mongosh) - Official command-line client
+*   [MongoDB Atlas CLI (⭐152)](https://github.com/mongodb/mongodb-atlas-cli) - Official Atlas API command-line client
+*   [mongosh (⭐295)](https://github.com/mongodb-js/mongosh) - Official command-line client
 
 ## [Nov 12, 2022](/content/2022/11/12/README.md)
 
 ### Resources / Tutorials
 
-*   [Sharded Cluster with Docker Compose (⭐428)](https://github.com/minhhungit/mongodb-cluster-docker-compose)
+*   [Sharded Cluster with Docker Compose (⭐438)](https://github.com/minhhungit/mongodb-cluster-docker-compose)
 
 ## [Sep 19, 2022](/content/2022/09/19/README.md)
 
@@ -187,7 +193,7 @@
 
 ### Libraries / Python
 
-*   [ODMantic (⭐951)](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
+*   [ODMantic (⭐965)](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
 
 ## [Mar 25, 2022](/content/2022/03/25/README.md)
 
@@ -232,7 +238,7 @@
 
 ### Libraries / Python
 
-*   [Beanie (⭐1.7k)](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
+*   [Beanie (⭐1.8k)](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
 
 ## [Apr 07, 2021](/content/2021/04/07/README.md)
 
@@ -284,7 +290,7 @@
 
 ### Libraries / Elixir
 
-*   [mongodb (⭐562)](https://github.com/kobil-systems/mongodb) - Community Elixir driver
+*   [mongodb (⭐563)](https://github.com/kobil-systems/mongodb) - Community Elixir driver
 *   [mongodb\_ecto (⭐363)](https://github.com/kobil-systems/mongodb_ecto) - Adapter for the Ecto database wrapper
 
 ### Libraries / PHP
@@ -316,7 +322,7 @@
 
 ### Tools / Monitoring
 
-*   [mongotail (⭐188)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
+*   [mongotail (⭐189)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
 
 ## [Feb 24, 2020](/content/2020/02/24/README.md)
 
@@ -328,7 +334,7 @@
 
 ### Libraries / Lisp
 
-*   [mongo-el (⭐46)](https://github.com/emacsorphanage/mongo) - Community Emacs Lisp driver
+*   [mongo-el (⭐47)](https://github.com/emacsorphanage/mongo) - Community Emacs Lisp driver
 
 ## [Aug 23, 2019](/content/2019/08/23/README.md)
 
@@ -356,7 +362,7 @@
 
 ### Libraries / Go
 
-*   [Bongo (⭐485)](https://github.com/go-bongo/bongo) - ODM based on mgo
+*   [Bongo (⭐487)](https://github.com/go-bongo/bongo) - ODM based on mgo
 *   [mgo (⭐2k)](https://github.com/globalsign/mgo) - Community Go driver
 *   [minquery (⭐62)](https://github.com/icza/minquery) - MongoDB cursor that paginates
 *   [mongo-go-driver (⭐7.9k)](https://github.com/mongodb/mongo-go-driver) - Official Go driver
@@ -390,8 +396,8 @@
 
 ### Tools / Data
 
-*   [mongo\_fdw (⭐309)](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
-*   [Mongolastic (⭐138)](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
+*   [mongo\_fdw (⭐314)](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
+*   [Mongolastic (⭐137)](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
 *   [MongoMultiMaster (⭐69)](https://github.com/rick446/mmm) - Multi-master replication
 
 ### Tools / Monitoring
@@ -441,7 +447,7 @@
 
 ### Libraries / Python
 
-*   [MongoEngine (⭐4.1k)](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
+*   [MongoEngine (⭐4.2k)](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
 
 ### Libraries / R
 
@@ -455,7 +461,7 @@
 
 *   [MongoDB Smasher (⭐33)](https://github.com/duckie/mongo_smasher) - Generate randomized datasets and benchmark your setup
 *   [mtools (⭐1.9k)](https://github.com/rueckstiess/mtools) - Collection of scripts to set up test environments and visualize log files
-*   [nginx-gridfs (⭐794)](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
+*   [nginx-gridfs (⭐793)](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
 *   [nginx-mongodb-rest (⭐30)](https://github.com/minhajuddin/nginx-mongodb-rest) - REST client written as an Nginx module
 
 ### Tools / Data
@@ -473,7 +479,7 @@
 ### Tools / Development
 
 *   [mgodatagen (⭐312)](https://github.com/feliixx/mgodatagen) - Random data generator
-*   [Mongo Seeding (⭐542)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
+*   [Mongo Seeding (⭐543)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
 *   [Mongoeye (⭐157)](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
 *   [Variety (⭐1.7k)](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
 
@@ -493,7 +499,7 @@
 *   [Leanote (⭐12k)](https://github.com/leanote/leanote) - Evernote clone built with Go
 *   [NodeBB (⭐14k)](https://github.com/NodeBB/NodeBB) - Node.js based forum software ("built for the modern web")
 *   [Reaction (⭐12k)](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6
-*   [SaaS Boilerplate (⭐3.8k)](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
+*   [SaaS Boilerplate (⭐3.9k)](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
 *   [uptime (⭐3.6k)](https://github.com/fzaninotto/uptime) - Remote monitoring application built with Node.js and Bootstrap
 
 ## [Jun 27, 2018](/content/2018/06/27/README.md)
@@ -604,7 +610,7 @@
 
 ### Libraries / Scala
 
-*   [Spark-MongoDB (⭐306)](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
+*   [Spark-MongoDB (⭐307)](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
 
 ## [Feb 26, 2016](/content/2016/02/26/README.md)
 
@@ -635,17 +641,17 @@
 
 ### Libraries / C++
 
-*   [mongo-cxx-driver (⭐999)](https://github.com/mongodb/mongo-cxx-driver) - Official C++ driver
+*   [mongo-cxx-driver (⭐1k)](https://github.com/mongodb/mongo-cxx-driver) - Official C++ driver
 
 ### Libraries / C#/.NET
 
 *   [mongo-csharp-driver (⭐3.1k)](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver
-*   [MongoDB Messaging (⭐59)](https://github.com/loresoft/MongoDB.Messaging) - Lightweight queue pub/sub processing library
+*   [MongoDB Messaging (⭐60)](https://github.com/loresoft/MongoDB.Messaging) - Lightweight queue pub/sub processing library
 *   [MongoRepository (⭐310)](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
 
 ### Libraries / Erlang
 
-*   [mongodb-erlang (⭐341)](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver
+*   [mongodb-erlang (⭐343)](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver
 
 ### Libraries / Haskell
 
@@ -653,12 +659,12 @@
 
 ### Libraries / Java
 
-*   [Jongo (⭐581)](https://github.com/bguerout/jongo) - Query in Java as in Mongo shell
-*   [Hibernate OGM (⭐321)](https://github.com/hibernate/hibernate-ogm) - The power and simplicity of JPA for NoSQL datastores
+*   [Jongo (⭐580)](https://github.com/bguerout/jongo) - Query in Java as in Mongo shell
+*   [Hibernate OGM (⭐319)](https://github.com/hibernate/hibernate-ogm) - The power and simplicity of JPA for NoSQL datastores
 *   [mongo-java-driver (⭐2.6k)](https://github.com/mongodb/mongo-java-driver) - Official Java driver
 *   [Mongojack (⭐266)](https://github.com/mongojack/mongojack) - Based on Jackson, allows you to easily handle your mongo objects as POJOs
-*   [Morphium (⭐55)](https://github.com/sboesebeck/morphium) - Java ODM and caching layer
-*   [Mungbean (⭐19)](https://github.com/jannehietamaki/mungbean) - Community driver for languages running on the JVM
+*   [Morphium (⭐54)](https://github.com/sboesebeck/morphium) - Java ODM and caching layer
+*   [Mungbean (⭐18)](https://github.com/jannehietamaki/mungbean) - Community driver for languages running on the JVM
 
 ### Libraries / JavaScript
 
@@ -668,7 +674,7 @@
 
 ### Libraries / Lisp
 
-*   [cl-mongo (⭐141)](https://github.com/fons/cl-mongo) - Community Common Lisp interface
+*   [cl-mongo (⭐142)](https://github.com/fons/cl-mongo) - Community Common Lisp interface
 *   [mongo-cl-driver (⭐35)](https://github.com/archimag/mongo-cl-driver) Community Common Lisp driver
 
 ### Libraries / PHP
@@ -677,7 +683,7 @@
 
 ### Libraries / Python
 
-*   [MongoLog (⭐133)](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
+*   [MongoLog (⭐134)](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
 *   [PyMongo (⭐4k)](https://github.com/mongodb/mongo-python-driver) - Official Python driver
 *   [scrapy-mongodb (⭐355)](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
 
@@ -687,11 +693,11 @@
 
 ### Libraries / Scala
 
-*   [ReactiveMongo (⭐844)](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
+*   [ReactiveMongo (⭐845)](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
 
 ### Tools / Administration
 
-*   [mongoctl (⭐179)](https://github.com/mongolab/mongoctl) - Manage MongoDB servers and replica sets using JSON configurations
+*   [mongoctl (⭐178)](https://github.com/mongolab/mongoctl) - Manage MongoDB servers and replica sets using JSON configurations
 
 ### Tools / Deployment
 

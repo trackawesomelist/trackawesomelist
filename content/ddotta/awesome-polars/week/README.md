@@ -6,6 +6,17 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ [Daily](/content/ddotta/awesome-polars/README.md) / Weekly / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
+
+### Resources / Blog posts
+
+*   [Pandas vs. Polars — Time to Switch?](https://towardsdatascience.com/pandas-vs-polars-time-to-switch-932d62e7e829) - A blog post that compares Polars to Pandas in a series of 4 benchmarks performed on a csv file with 11 million rows by [@daradecic](https://github.com/daradecic).
+*   [How to JOIN datasets in Polars … compared to Pandas](https://www.confessionsofadataguy.com/how-to-join-datasets-in-polars-compared-to-pandas/) - A blog post compares dataframe joins in Polars vs Pandas by [@danielbeach](https://github.com/danielbeach).
+
+### Resources / Talks and videos
+
+*   [Polars is the Pandas killer | PyData Tel Aviv 2024](https://www.youtube.com/watch?v=sepiszMSvBs) ⏳ 22 min - A video that  shows how Polars is competing head to head with scale, speed and ease of use for dataframe solution in python by [Igor Mintz](https://www.linkedin.com/in/igormintz/?originalSubdomain=il).
+
 ## [Apr 01 - Apr 07, 2024](/content/2024/14/README.md)
 
 ### Libraries/Packages/Scripts / Python

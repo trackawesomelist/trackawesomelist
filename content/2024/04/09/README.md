@@ -1,24 +1,41 @@
 # Awesome List Updates on Apr 09, 2024
 
-7 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### Resources / Blog posts
+
+*   [Pandas vs. Polars — Time to Switch?](https://towardsdatascience.com/pandas-vs-polars-time-to-switch-932d62e7e829) - A blog post that compares Polars to Pandas in a series of 4 benchmarks performed on a csv file with 11 million rows by [@daradecic](https://github.com/daradecic).
+*   [How to JOIN datasets in Polars … compared to Pandas](https://www.confessionsofadataguy.com/how-to-join-datasets-in-polars-compared-to-pandas/) - A blog post compares dataframe joins in Polars vs Pandas by [@danielbeach](https://github.com/danielbeach).
+
+### Resources / Talks and videos
+
+*   [Polars is the Pandas killer | PyData Tel Aviv 2024](https://www.youtube.com/watch?v=sepiszMSvBs) ⏳ 22 min - A video that  shows how Polars is competing head to head with scale, speed and ease of use for dataframe solution in python by [Igor Mintz](https://www.linkedin.com/in/igormintz/?originalSubdomain=il).
+
+## [2. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+
+### Tools / Desktop
+
+*   [WebDB (⭐99)](https://github.com/WebDB-App/app) – Web-based and open-source "efficient database IDE". Provides ERDs, data generators, an AI assistant, a NoSQL structure manager, a time machine, auto-completion and more
+
+## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Markdown/Text Processors
 
 *   [cr-cmark-gfm (⭐20)](https://github.com/amauryt/cr-cmark-gfm) -  Crystal C bindings for cmark-gfm to work with Commonmark and Github Flavored Markdown
 
-## [2. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### NixOS Modules / Zig
 
 *   [nix-topology (⭐214)](https://github.com/oddlama/nix-topology) - Generate infrastructure and network diagrams directly from your NixOS configuration.
 
-## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Image Processing
 
@@ -33,7 +50,7 @@
 
 *   [extra-awesome-dotnet (⭐8)](https://github.com/ara3d/extra-awesome-dotnet) - Sorted lists of awesome .NET repositories, with counts of stars, issues, and forks!
 
-## [4. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [6. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### App Store
 
@@ -43,7 +60,7 @@
 
 *   [Inject (⭐2k)](https://github.com/krzysztofzablocki/Inject) - Hot Reloading for Swift applications!
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Go / Reinforcement learning
 
@@ -53,13 +70,13 @@
 
 *   [XAD](https://pypi.org/project/xad/) -> Fast and easy-to-use backpropagation tool.
 
-## [6. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+## [8. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Data Comparison
 
 *   [datacompy (⭐354)](https://github.com/capitalone/datacompy) - DataComPy is a Python library that facilitates the comparison of two DataFrames in pandas, Polars, Spark and more. The library goes beyond basic equality checks by providing detailed insights into discrepancies at both row and column levels.
 
-## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Social
 

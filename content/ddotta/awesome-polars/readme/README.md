@@ -217,6 +217,8 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 *   [Revisiting a Classic Cheminformatics Paper with Polars: The Wiener Index](https://bertiewooster.github.io/2023/03/10/Revisiting-a-Classic-Cheminformatics-Paper-The-Wiener-Index.html) - A science blog post that uses Polars to track the information for the molecules in DataFrames by [@bertiewooster](https://github.com/bertiewooster).
 *   [How to start using Polars & DuckDB together for data analysis](https://ganguly-04.medium.com/how-to-start-using-polars-duckdb-together-for-data-analysis-ded30fcb0bd9) - A post that demonstrates the usage of Polars with DuckDB to perform similar data transformations as is done using Pandas by [@sumaniitm](https://github.com/sumaniitm).
 *   [Anatomy of a Polars Query: A Syntax Comparison of Polars vs SQL](https://towardsdatascience.com/anatomy-of-a-polars-query-a-syntax-comparison-of-polars-vs-sql-a0035ac8a4fa) - A post that compares Polars syntax to SQL by [@bfeif](https://github.com/bfeif).
+*   [Pandas vs. Polars — Time to Switch?](https://towardsdatascience.com/pandas-vs-polars-time-to-switch-932d62e7e829) - A blog post that compares Polars to Pandas in a series of 4 benchmarks performed on a csv file with 11 million rows by [@daradecic](https://github.com/daradecic).
+*   [How to JOIN datasets in Polars … compared to Pandas](https://www.confessionsofadataguy.com/how-to-join-datasets-in-polars-compared-to-pandas/) - A blog post compares dataframe joins in Polars vs Pandas by [@danielbeach](https://github.com/danielbeach).
 
 ### Talks and videos
 
@@ -245,6 +247,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 *   [Pandas and Polars with Marco Gorelli](https://thebakery.dev/68/) ⏳ `55 min` - A podcast by The Developers' Bakery that compares the performance of Polars to Pandas by [@MarcoGorelli](https://github.com/MarcoGorelli).
 *   [Library of the week 13 : Polars with Python](https://www.youtube.com/watch?v=kv7rqHgX20w) ⏳ 15 min - A video that presents Polars with Python by [@enarroied](https://github.com/enarroied). Article supplied with the video [in this page](https://python.plainenglish.io/library-of-the-week-13-polars-fd1398a8841b).
 *   [Polars and time zones: everything you need to know | PyData Global 2023](https://www.youtube.com/watch?v=DFQFAwt_0VY) ⏳ 29 min - A video that  shows how to use Polars effectively for time series analysis involving different time zones by [@MarcoGorelli](https://github.com/MarcoGorelli).
+*   [Polars is the Pandas killer | PyData Tel Aviv 2024](https://www.youtube.com/watch?v=sepiszMSvBs) ⏳ 22 min - A video that  shows how Polars is competing head to head with scale, speed and ease of use for dataframe solution in python by [Igor Mintz](https://www.linkedin.com/in/igormintz/?originalSubdomain=il).
 
 ## Follow : Official
 
