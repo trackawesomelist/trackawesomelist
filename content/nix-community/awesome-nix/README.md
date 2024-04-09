@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/nix-community/awesome-nix/week/README.md) / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Apr 09, 2024](/content/2024/04/09/README.md)
+
+### NixOS Modules / Zig
+
+*   [nix-topology (⭐214)](https://github.com/oddlama/nix-topology) - Generate infrastructure and network diagrams directly from your NixOS configuration.
+
 ## [Apr 07, 2024](/content/2024/04/07/README.md)
 
 ### Development / Discovery

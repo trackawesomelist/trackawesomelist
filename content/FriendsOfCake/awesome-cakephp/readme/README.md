@@ -349,6 +349,7 @@ Additional lists you might find useful:
 
 *Plugins around social features.*
 
+*   🍰 [Comments plugin (⭐1)](https://github.com/dereuromark/cakephp-comments) - Allows users to comment records, supporting different formats.
 *   🍰 [Favorites plugin (⭐1)](https://github.com/dereuromark/cakephp-favorites) - Allows users to star/like/favor records.
 *   🍰 [Ratings plugin (⭐9)](https://github.com/dereuromark/cakephp-ratings) - Allows users to rate records and displays ratings.
 

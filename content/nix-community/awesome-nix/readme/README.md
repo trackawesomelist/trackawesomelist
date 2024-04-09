@@ -259,6 +259,7 @@
 *   [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
 *   [Stylix (⭐611)](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS.
 *   [nix-bitcoin (⭐446)](https://github.com/fort-nix/nix-bitcoin) - Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security.
+*   [nix-topology (⭐214)](https://github.com/oddlama/nix-topology) - Generate infrastructure and network diagrams directly from your NixOS configuration.
 
 ## NixOS Configuration Editors
 
