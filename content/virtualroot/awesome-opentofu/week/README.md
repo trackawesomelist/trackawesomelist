@@ -6,6 +6,20 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 [ [Daily](/content/virtualroot/awesome-opentofu/README.md) / Weekly / [Overview](/content/virtualroot/awesome-opentofu/readme/README.md) ]
 
+## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
+
+### Tools / Environment managers
+
+*   [arkade (⭐4.1k)](https://github.com/alexellis/arkade) - CLI and Kubernetes app installer.
+
+### Tools / CI
+
+*   [tofu-controller (⭐1.1k)](https://github.com/flux-iac/tofu-controller) - GitOps OpenTofu and Terraform controller for Flux.
+
+### Tools / Platforms
+
+*   [tofutf (⭐26)](https://github.com/tofutf/tofutf) - Open-source alternative to Terraform Enterprise with SSO, team management, agents, etc.
+
 ## [Apr 01 - Apr 07, 2024](/content/2024/14/README.md)
 
 ### Official

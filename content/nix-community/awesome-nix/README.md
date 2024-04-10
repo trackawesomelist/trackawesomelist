@@ -8,9 +8,17 @@
 
 ## [Apr 10, 2024](/content/2024/04/10/README.md)
 
+### Resources / Learning
+
+*   [NixOS Asia Tutorial Series](https://nixos.asia/en/tutorial) - A series of high-level tutorials on using Nix Flakes, NixOS, home-manager, etc.
+
 ### Deployment Tools / Discovery
 
 *   [comin (⭐157)](https://github.com/nlewo/comin) - A deployment tool to continuously pull from Git repositories.
+
+### Development / Discovery
+
+*   [nix-health (⭐6)](https://github.com/juspay/nix-health) - A program to check the health of your Nix install. Furthermore, individual projects can configure their own health checks in their `flake.nix`.
 
 ### Community / Webinterface
 

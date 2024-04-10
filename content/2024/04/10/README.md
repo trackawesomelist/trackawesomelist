@@ -1,30 +1,70 @@
 # Awesome List Updates on Apr 10, 2024
 
-9 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Orgs](/content/beansource/awesome-orgs/README.md)
+## [1. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
+
+### Tools / Environment managers
+
+*   [arkade (⭐4.1k)](https://github.com/alexellis/arkade) - CLI and Kubernetes app installer.
+
+### Tools / CI
+
+*   [tofu-controller (⭐1.1k)](https://github.com/flux-iac/tofu-controller) - GitOps OpenTofu and Terraform controller for Flux.
+
+### Tools / Platforms
+
+*   [tofutf (⭐26)](https://github.com/tofutf/tofutf) - Open-source alternative to Terraform Enterprise with SSO, team management, agents, etc.
+
+## [2. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### Resources / Tutorials & workshops
+
+*   [Python-Polars-Tips-and-Tricks (⭐10)](https://github.com/StuffbyYuki/Python-Polars-Tips-and-Tricks) - Collection of source code demonstrating tips and tricks in Polars by [@StuffbyYuki](https://github.com/StuffbyYuki).
+
+### Resources / Blog posts
+
+*   [DuckDB vs Polars - Which One Is Faster?](https://medium.com/@yukithejapanese/duckdb-vs-polars-which-one-is-faster-61e73a7680e0) - An unofficial benchmark on DuckDB and Polars by [@StuffbyYuki](https://github.com/StuffbyYuki).
+
+### Resources / Talks and videos
+
+*   [Polars-Cookbook in Python (⭐31)](https://github.com/PacktPublishing/Polars-Cookbook) - Polars cookbook with organized by Python notebooks and chapter by [@StuffbyYuki](https://github.com/StuffbyYuki).
+
+## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Reddit
+
+*   [Redlib (⭐489)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in Libreddit.
+
+## [4. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+
+### Development and Design
+
+*   [Hieroglyphic (⭐33)](https://github.com/FineFindus/Hieroglyphic) - Application to search for LaTeX symbols by sketching.
+
+## [5. Awesome Orgs](/content/beansource/awesome-orgs/README.md)
 
 ### Web
 
 *   [0No Co](https://github.com/0no-co) - Elevating work through open source - specializing in building developer experience, web performance, GraphQL, and accessibility projects.
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Database
 
 *   [mgclient (⭐39)](https://github.com/memgraph/mgclient) - C/C++ Memgraph Client. \[Apache2]
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
 *   [kftray (⭐384)](https://github.com/hcavarsan/kftray) - A cross-platform system tray app for managing and sharing multiple kubectl port-forward configurations. [![Build Status](https://github.com/hcavarsan/kftray/workflows/Release/badge.svg)](https://github.com/hcavarsan/kftray/actions)
 
-## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [8. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -79,17 +119,25 @@
 *   [NDJSON (⭐628) (⭐626)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐307) (⭐305)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [5. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [9. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+
+### Resources / Learning
+
+*   [NixOS Asia Tutorial Series](https://nixos.asia/en/tutorial) - A series of high-level tutorials on using Nix Flakes, NixOS, home-manager, etc.
 
 ### Deployment Tools / Discovery
 
 *   [comin (⭐157)](https://github.com/nlewo/comin) - A deployment tool to continuously pull from Git repositories.
 
+### Development / Discovery
+
+*   [nix-health (⭐6)](https://github.com/juspay/nix-health) - A program to check the health of your Nix install. Furthermore, individual projects can configure their own health checks in their `flake.nix`.
+
 ### Community / Webinterface
 
 *   [Wiki (Official)](https://wiki.nixos.org)
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Graphics
 
@@ -99,7 +147,7 @@
 
 *   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
 
-## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [11. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Node.js / Scala
 
@@ -113,13 +161,13 @@
 
 *   [Valkey (⭐9.3k)](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
 *   [Sweego](https://www.sweego.io/) - European transactional emails API for developers. 500 emails/day free.
 
-## [9. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [13. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Rich text editor extensions
 

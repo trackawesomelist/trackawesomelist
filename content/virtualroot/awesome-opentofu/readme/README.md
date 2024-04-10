@@ -61,6 +61,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Environment managers
 
+*   [arkade (⭐4.1k)](https://github.com/alexellis/arkade) - CLI and Kubernetes app installer.
 *   [asdf-opentofu (⭐16)](https://github.com/virtualroot/asdf-opentofu) - OpenTofu plugin for asdf version manager.
 *   [tenv (⭐191)](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
 *   [tfswitcher (⭐4)](https://github.com/ASleepyCat/tfswitcher) - Terraform and OpenTofu version switcher written in Rust.
@@ -85,6 +86,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 *   [setup-opentofu (⭐58)](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
 *   [terraform-github-actions (⭐666)](https://github.com/dflook/terraform-github-actions) - GitHub Actions for OpenTofu.
 *   [tf-via-pr-comments (⭐40)](https://github.com/devsectop/tf-via-pr-comments) - GitHub Action to run Terraform or OpenTofu CLI commands via PR comments.
+*   [tofu-controller (⭐1.1k)](https://github.com/flux-iac/tofu-controller) - GitOps OpenTofu and Terraform controller for Flux.
 
 ### Tests
 
@@ -108,6 +110,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 *   [digger (⭐2.6k)](https://github.com/diggerhq/digger) - Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
 *   [terrakube (⭐413)](https://github.com/AzBuilder/terrakube) - Open-source platform with private registry, remote state, custom flows, scheduled workspaces, and visual states.
+*   [tofutf (⭐26)](https://github.com/tofutf/tofutf) - Open-source alternative to Terraform Enterprise with SSO, team management, agents, etc.
 *   [walrus (⭐375)](https://github.com/seal-io/walrus) - Walrus is an open-source application management platform based on IaC tools including OpenTofu, Terraform and others.
 
 ### Registry
