@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/nix-community/awesome-nix/week/README.md) / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Apr 10, 2024](/content/2024/04/10/README.md)
+
+### Deployment Tools / Discovery
+
+*   [comin (⭐157)](https://github.com/nlewo/comin) - A deployment tool to continuously pull from Git repositories.
+
+### Community / Webinterface
+
+*   [Wiki (Official)](https://wiki.nixos.org)
+
 ## [Apr 09, 2024](/content/2024/04/09/README.md)
 
 ### NixOS Modules / Zig

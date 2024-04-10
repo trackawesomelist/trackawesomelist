@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
+
+### Email
+
+*   [Sweego](https://www.sweego.io/) - European transactional emails API for developers. 500 emails/day free.
+
 ## [Apr 01 - Apr 07, 2024](/content/2024/14/README.md)
 
 ### Monitoring

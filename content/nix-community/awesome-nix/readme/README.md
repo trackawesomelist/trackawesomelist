@@ -95,6 +95,7 @@
 
 *   [bento (⭐201)](https://github.com/rapenne-s/bento/) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
 *   [Colmena (⭐950)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
+*   [comin (⭐157)](https://github.com/nlewo/comin) - A deployment tool to continuously pull from Git repositories.
 *   [deploy-rs (⭐1.1k)](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 *   [krops](https://cgit.krebsco.de/krops/about/) - A lightweight toolkit to deploy NixOS systems, remotely or locally.
 *   [KubeNix (⭐302)](https://github.com/xtruder/kubenix) - A Kubernetes resource builder using Nix.
@@ -289,5 +290,6 @@
 *   [Discord - Nix/Nixos (Unofficial)](https://discord.gg/BMUCQx6)
 *   [Discourse](https://discourse.nixos.org/) - The best place to get help and discuss Nix-related topics.
 *   [NixCon](https://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
+*   [Wiki (Official)](https://wiki.nixos.org)
 *   [Wiki (Unofficial)](https://nixos.wiki)
 

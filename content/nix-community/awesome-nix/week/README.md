@@ -8,9 +8,17 @@
 
 ## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
 
+### Deployment Tools / Discovery
+
+*   [comin (⭐157)](https://github.com/nlewo/comin) - A deployment tool to continuously pull from Git repositories.
+
 ### NixOS Modules / Zig
 
 *   [nix-topology (⭐214)](https://github.com/oddlama/nix-topology) - Generate infrastructure and network diagrams directly from your NixOS configuration.
+
+### Community / Webinterface
+
+*   [Wiki (Official)](https://wiki.nixos.org)
 
 ## [Apr 01 - Apr 07, 2024](/content/2024/14/README.md)
 
