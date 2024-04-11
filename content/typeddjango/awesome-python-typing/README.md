@@ -6,6 +6,12 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 [ Daily / [Weekly](/content/typeddjango/awesome-python-typing/week/README.md) / [Overview](/content/typeddjango/awesome-python-typing/readme/README.md) ]
 
+## [Apr 11, 2024](/content/2024/04/11/README.md)
+
+### Tools / Helper tools to add annotations to existing code
+
+*   [no\_implicit\_optional (⭐72)](https://github.com/hauntsaninja/no_implicit_optional) - A codemod to make your implicit optional type hints [PEP 484](https://peps.python.org/pep-0484/#union-types) compliant.
+
 ## [Apr 02, 2024](/content/2024/04/02/README.md)
 
 ### Additional types

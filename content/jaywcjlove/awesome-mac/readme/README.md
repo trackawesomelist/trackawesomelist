@@ -406,7 +406,7 @@ Any comments, suggestions? [Let us know! (⭐71k)](https://github.com/jaywcjlove
 *   [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems. [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
 *   [cool-retro-term (⭐21k)](https://github.com/Swordfish90/cool-retro-term) - Good looking terminal emulator which mimics the old cathode display. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
 *   [dark-mode (⭐650)](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
-*   [eureka (⭐731)](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+*   [eureka (⭐732)](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 *   [Fish](https://fishshell.com/) - Smart and user-friendly shell, which is similar with zsh. [![Awesome List][awesome-list Icon]](https://github.com/fisherman/awesome-fish-shell#readme)
 *   [fselect (⭐3.8k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries. [![Open-Source Software][OSS Icon]](https://github.com/jhspetersson/fselect)
 *   [GitHub CLI (⭐35k)](https://github.com/cli/cli) - gh is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with git and your code. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
@@ -417,7 +417,7 @@ Any comments, suggestions? [Let us know! (⭐71k)](https://github.com/jaywcjlove
 *   [hyper](https://hyper.is) - A terminal built on web technologies. [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
 *   [iTerm2](http://www.iterm2.com) - iTerm2 is an amazing terminal emulator for OS X. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
 *   [itunes-remote (⭐428)](https://github.com/mischah/itunes-remote) - Software for controlling iTunes via the terminal. [![Open-Source Software][OSS Icon]](https://github.com/mischah/itunes-remote) ![Freeware][Freeware Icon]
-*   [job (⭐140)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software][OSS Icon]](https://github.com/liujianping/job) ![Freeware][Freeware Icon]
+*   [job (⭐141)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software][OSS Icon]](https://github.com/liujianping/job) ![Freeware][Freeware Icon]
 *   [kitty (⭐22k)](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/kitty) ![Freeware][Freeware Icon]
 *   [lnav](http://lnav.org) - A log file navigator. [![Open-Source Software][OSS Icon]](https://github.com/tstack/lnav) ![Freeware][Freeware Icon]
 *   [m-cli (⭐9.6k)](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS. [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]
@@ -453,7 +453,7 @@ Any comments, suggestions? [Let us know! (⭐71k)](https://github.com/jaywcjlove
 *   [Zsh](https://www.zsh.org) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/unixorn/awesome-zsh-plugins#readme)
 *   [ohmyzsh (⭐168k)](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven framework for managing your zsh configuration. [![Open-Source Software][OSS Icon]](https://github.com/ohmyzsh/ohmyzsh) ![Freeware][Freeware Icon]
 *   [xcodes (⭐3.4k)](https://github.com/RobotsAndPencils/xcodes) - A command-line tool to install and switch between multiple versions of Xcode. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RobotsAndPencils/xcodes)
-*   [xxh (⭐4.9k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon]
+*   [xxh (⭐5k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon]
 
 ### Frameworks For Hybrid Applications
 
@@ -843,7 +843,7 @@ Any comments, suggestions? [Let us know! (⭐71k)](https://github.com/jaywcjlove
 
 ## Browsers
 
-*   [Arc](https://arc.net/) - Arc is your space to breathe on the internet. A browser equipped for the way we use the internet in 2022, and foundational for how we hope to use it in the future. ![Freeware][Freeware Icon]
+*   [Arc](https://arc.net/) - Arc is your space to breathe on the internet. A browser equipped for the way we use the internet in 2024, and foundational for how we hope to use it in the future. ![Freeware][Freeware Icon]
 *   [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. [![Open-Source Software][OSS Icon]](https://github.com/brave/brave-browser/) ![Freeware][Freeware Icon]
 *   [Chrome](https://www.google.com/chrome/) - Chrome, developed by Google ![Freeware][Freeware Icon]
 *   [Chromium](https://www.chromium.org/Home) - Open-source, free web browser project by Google, to provide the source code for Google Chrome. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
@@ -961,6 +961,7 @@ Any comments, suggestions? [Let us know! (⭐71k)](https://github.com/jaywcjlove
 *   [Folder Peek](https://sindresorhus.com/folder-peek) - Quickly access documents, files, folders, and apps from the menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1615988943)
 *   [Hidden (⭐10k)](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons. [![Open-Source Software][OSS Icon]](https://github.com/dwarvesf/hidden) ![Freeware][Freeware Icon]
 *   [Hue in the Menu](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384) - Philips Hue light management in the menu bar with multi-room support. [![App Store][app-store Icon]](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384) ![Freeware][Freeware Icon]
+*   [Ice (⭐810)](https://github.com/jordanbaird/Ice) - A free, open source, alternative to Bartender. Helps to hide menu items and gives options for different layouts. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 *   [iGlance (⭐2.4k)](https://github.com/Moneypulation/iGlance) - macOS System Monitor for the Status Bar. [![Open-Source Software][OSS Icon]](https://github.com/Moneypulation/iGlance) [![Freeware][Freeware Icon]](https://github.com/Moneypulation/iGlance)
 *   [Itsycal](https://www.mowglii.com/itsycal/) - Tiny calendar for your Mac's menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
 *   [Jiffy](https://sindresorhus.com/jiffy) - Discover and share the best GIFs on GIPHY. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1502527999)

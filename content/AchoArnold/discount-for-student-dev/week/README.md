@@ -2,9 +2,15 @@
 
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/AchoArnold/discount-for-student-dev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) · ⭐ 2.7K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/AchoArnold/discount-for-student-dev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) · ⭐ 2.8K · 🏷️ Miscellaneous
 
 [ [Daily](/content/AchoArnold/discount-for-student-dev/README.md) / Weekly / [Overview](/content/AchoArnold/discount-for-student-dev/readme/README.md) ]
+
+## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
+
+### 3D Animation and Modeling Software
+
+*   [Shapr3D](https://www.shapr3d.com/education) \[FREE] - Create manufacturing-ready models true to design vision. Shapr3D's educational license is free for students, teachers and faculty members of accredited educational institutions. The license is valid for one year (365 days) and can be renewed once it expires.
 
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 

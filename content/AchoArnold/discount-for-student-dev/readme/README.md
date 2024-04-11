@@ -2,7 +2,7 @@
 
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/AchoArnold/discount-for-student-dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) · ⭐ 2.7K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/AchoArnold/discount-for-student-dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) · ⭐ 2.8K · 🏷️ Miscellaneous
 
 [ [Daily](/content/AchoArnold/discount-for-student-dev/README.md) / [Weekly](/content/AchoArnold/discount-for-student-dev/week/README.md) / Overview ]
 
@@ -11,7 +11,7 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 # discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who happen to be students.
-This list is greatly inspired by the [free-for-dev list (⭐80k)](https://github.com/ripienaar/free-for-dev).
+This list is greatly inspired by the [free-for-dev list (⭐83k)](https://github.com/ripienaar/free-for-dev).
 
 You can help by sending Pull Requests to add more services. Please read the [contribution guidelines](https://github.com/AchoArnold/discount-for-student-dev/blob/master/README.md/contributing.md) first.
 Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
@@ -320,6 +320,7 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 ## 3D Animation and Modeling Software
 
 *   [Autodesk Software](https://www.autodesk.com/education/free-software/featured) \[FREE] - The Free Autodesk Education License includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder, Mudbox, Inventor Professional...
+*   [Shapr3D](https://www.shapr3d.com/education) \[FREE] - Create manufacturing-ready models true to design vision. Shapr3D's educational license is free for students, teachers and faculty members of accredited educational institutions. The license is valid for one year (365 days) and can be renewed once it expires.
 
 ## Password Managers
 

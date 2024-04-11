@@ -6,6 +6,33 @@ A curated list of Generative AI tools, works, models, and references
 
 [ [Daily](/content/filipecalegario/awesome-generative-deep-art/README.md) / Weekly / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
+
+### Generative AI history, timelines, maps, and definitions
+
+*   [Timeline of AI forecasts - AI Digest](https://theaidigest.org/timeline)
+
+### Critical Views about Generative AI
+
+*   [When Will the GenAI Bubble Burst? - by Gary Marcus](https://garymarcus.substack.com/p/when-will-the-genai-bubble-burst)
+
+### Online Tools and Applications
+
+*   [VocalReplica](https://vocalreplica.com/): AI-Powered Vocal and Instrumental Isolation for Your Favorite Tracks
+*   [Voicesphere](https://www.voicesphere.co/): Chat with your documents to get intelligent, context specific answers.
+
+### Autonomous LLM Agents / Multi-agents
+
+*   [BrainSoup](https://www.nurgo-software.com/products/brainsoup): multi-agent & multi-LLM client with RAG, multi-modality, automation, code interpreter, and sandboxed file system
+
+### Text-related Generative Tools / Multi-agents
+
+*   [Composum AI (⭐1)](https://github.com/ist-dresden/composum-AI) Plugin for CMS Adobe Experience Manager (AEM) or Composum Pages helping the editor to create / edit / translate texts
+
+### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+
+*   [Co-Developer GPT engine (⭐4)](https://github.com/stoerr/CoDeveloperGPTengine) - local r/w file access and execute actions from an OpenAI GPT
+
 ## [Apr 01 - Apr 07, 2024](/content/2024/14/README.md)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI
@@ -18,7 +45,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Large Language Models (LLMs)
 
-*   [Floom (⭐15)](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration of AI features into products
+*   [Floom (⭐19)](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration of AI features into products
 
 ### Text-related Generative Tools / Multi-agents
 
@@ -157,7 +184,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jan 22 - Jan 28, 2024](/content/2024/4/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   \[🔥🔥🔥] [Generative AI in a nutshell](https://blog.crisp.se/wp-content/uploads/2024/01/generative-AI-in-a-nutshell.png): a map with the most common Generative AI' concepts by Henrik Kniberg [Youtube Video explaining the map](https://www.youtube.com/watch?v=2IK3DFHRFfw)
 
@@ -171,7 +198,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [60+ Generative AI Terms You Must Know By Heart](https://www.analyticsvidhya.com/blog/2024/01/generative-ai-terms/): by Analytics Vidhya
 
@@ -189,7 +216,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [The Four Wars of the AI Stack (Dec 2023 Recap)](https://www.latent.space/p/dec-2023): "recap of top items for the AI Engineer from Dec 2023" ("The Data Wars, The War of the GPU Rich/Poor, The Multimodality War, The RAG/Ops War")
 
@@ -208,7 +235,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [GenAI Prism Infographic by Brian Solis](https://briansolis.com/2023/12/introducing-the-genai-prism-infographic-a-framework-for-colalborating-with-generative-ai/): A Framework for Collaborating with Generative AI
 
@@ -472,7 +499,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [An AI Engineer’s Guide to Machine Learning and Generative AI | by ai geek (wishesh) | Oct, 2023 | Medium](https://medium.com/@_aigeek/an-ai-engineers-guide-to-machine-learning-and-generative-ai-b7444941ccee)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [Emerging Trends in Generative AI Research: A Selection of Recent Papers](https://txt.cohere.com/top-nlp-papers-september-2023/)
 
@@ -522,7 +549,7 @@ A curated list of Generative AI tools, works, models, and references
 *   \[🔥🔥🔥] [\[2310.07127\] An HCI-Centric Survey and Taxonomy of Human-Generative-AI Interactions](https://arxiv.org/abs/2310.07127): "a survey of 154 papers, providing a novel taxonomy and analysis of Human-GenAI Interactions from both human and Gen-AI perspectives".
 *   [Guidelines for Human-AI Interaction - Microsoft Research](https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/): a set of "18 generally applicable design guidelines for human-AI" interaction
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [\[2309.07930\] Generative AI](https://arxiv.org/abs/2309.07930): discusses a model-, system-, and application-level view on generative AI.
 
@@ -573,7 +600,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Related Awesome Lists / Deforum
 
-*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐13k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
+*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐14k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
 *   [AlexChalakov/awesome-generative-ai-companies (⭐83)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 
 ### Prompt Engineering / Prompt Engineering for Text-to-text
@@ -669,7 +696,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [The Building Blocks of Generative AI | by Jonathan Shriftman | Medium](https://shriftman.medium.com/the-building-blocks-of-generative-ai-a75350466a2f)
 
@@ -687,7 +714,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   \[🔥] [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/): a visual story by Financial Times
 
@@ -729,7 +756,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [Early days of AI - by Elad Gil](https://blog.eladgil.com/p/early-days-of-ai): thoughts about AI as "an entirely new era and discontinuity from the past"
 
@@ -774,7 +801,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [The state of AI in 2023: Generative AI’s breakout year | McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year#/)
 
@@ -847,7 +874,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [The Generative AI Revolution: Exploring the Current Landscape | by Towards AI Editorial Team | Jun, 2023 | Towards AI](https://pub.towardsai.net/the-generative-ai-revolution-exploring-the-current-landscape-4b89998fcc5f)
 
@@ -889,7 +916,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [The Story of AI Winters and What it Teaches Us Today](https://www.turingpost.com/p/aiwinters)
 *   [There Would Have Been No LLMs Without This (episode#3 in the History series)](https://www.turingpost.com/p/llmshistory3): timeline of LLMs by Turing Post
@@ -909,7 +936,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [The Next Token of Progress: 4 Unlocks on the Generative AI Horizon | Andreessen Horowitz](https://a16z.com/2023/06/23/the-next-token-of-progress-4-unlocks-on-the-generative-ai-horizon/): critical innovations on the horizon: steering, memory, ability to use tools, and multimodality
 
@@ -943,7 +970,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [The economic potential of generative AI: The next productivity frontier](https://www.linkedin.com/posts/genai-works_gen-ai-activity-7074980736268726272-LiiG): report by McKinsey Jun 2023
 
@@ -1006,7 +1033,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [A survey of Generative AI Applications | arxiv](https://arxiv.org/abs/2306.02781): "this survey aims to serve as a valuable resource for researchers and practitioners to navigate the rapidly expanding landscape of generative AI"
 
@@ -1202,7 +1229,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [AI Index Report 2023 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/): report that measures trends in AI written by the Human-Centered Artificial Intelligence from Stanford University
 *   [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223): paper that summarizes the evolution of language models, with a focus on LLMs, discussing their advances, techniques, and impact on AI development and usage
@@ -1241,7 +1268,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [The Generative AI Timeline](https://www.linkedin.com/feed/update/urn:li:activity:7044233450295316480): post in Linkedin by David Foster
 
@@ -1279,7 +1306,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [Who Owns the Generative AI Platform? | Andreessen Horowitz](https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/): this article discusses the generative AI market and presents an interesting technology stack of the area
 
@@ -1289,7 +1316,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Embeddings and Semantic Search / Prompt Engineering for Text-to-image
 
-*   [facebookresearch/faiss (⭐27k)](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors
+*   [facebookresearch/faiss (⭐28k)](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors
 *   [Optimize Your Chatbot’s Conversational Intelligence Using GPT-3 | by Amogh Agastya | Better Programming](https://betterprogramming.pub/how-to-give-your-chatbot-the-power-of-neural-search-with-openai-ebcff5194170): tutorial presenting semantic search concepts
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
@@ -1298,7 +1325,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT | arxiv](https://arxiv.org/abs/2303.04226)
 *   \[🔥🔥] [Toward General Design Principles for Generative AI Applications](https://arxiv.org/abs/2301.05578): this paper presents a set of seven principles for the design of generative AI applications
@@ -1318,7 +1345,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   \[🔥] [The landscape of generative AI landscape reports | by Ramsri Goutham | Jan, 2023 | Medium](https://ramsrigoutham.medium.com/the-landscape-of-generative-ai-landscape-reports-615a417b15d): a meta report on the reports published by 9 venture capital firms
 *   [Generative AI with Cohere: Part 1 - Model Prompting](https://txt.cohere.ai/generative-ai-part-1/): overview of Generative AI by Cohere AI
@@ -1351,7 +1378,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [A Review of Generative AI from Historical Perspectives](https://www.techrxiv.org/articles/preprint/A_Review_of_Generative_AI_from_Historical_Perspectives/22097942): paper by Dipankar Dasgupta, Deepak Venugopal and Kishor Datta Gupta
 
@@ -1426,7 +1453,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [Matt Shumer on Twitter: "The definitive AI market map Twitter thread"](https://twitter.com/mattshumer_/status/1620465468229451776): "The definitive AI market map Twitter thread"
 
@@ -1484,7 +1511,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   \[🔥] [Base11 Research - generative-ai](https://base10.vc/research/generative-ai): report about Generative AI produced by the investment firm Base10
 
@@ -1508,7 +1535,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [Engines of Wow: AI Art Comes of Age – Steve Murch](https://www.stevemurch.com/engines-of-wow-ai-art-comes-of-age/2022/12)
 
@@ -1574,7 +1601,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   [AI exploded on the scene at the end of 2022 / Twitter](https://twitter.com/RamaswmySridhar/status/1613271413020037120): categories for analyzing tools of Generative AI
 
@@ -1665,7 +1692,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   \[🔥🔥🔥] [Mapping the Generative AI landscape | Antler](https://www.antler.co/blog/generative-ai)
 
@@ -1793,7 +1820,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Related Awesome Lists / Deforum
 
-*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐4.4k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
+*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐4.5k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 *   [chaosreactor/awesome-generative-ai (⭐33)](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
@@ -1888,7 +1915,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Sep 19 - Sep 25, 2022](/content/2022/38/README.md)
 
-### Generative AI history, maps, and definitions
+### Generative AI history, timelines, maps, and definitions
 
 *   \[🔥🔥🔥] [AI Timeline](https://www.fabianmosele.com/ai-timeline): A history of text-to-image ML models by Fabian Mosele
 *   [AI-Generated Art](https://www.v7labs.com/blog/ai-generated-art): From Text to Images & Beyond Examples
@@ -2032,7 +2059,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Animation with Dall-e + AE | Reddit](https://www.reddit.com/r/MediaSynthesis/comments/xgeehe/animation_with_dalle_ae_patent_drawing_of_an/): Patent drawing of an electronic device that ...
 *   [You Describe & AI Photoshops Faces For You \[StyleCLIP\] - YouTube](https://youtu.be/d1OET63Ulwc)
 *   [Experimental Films + Machine Learning Week 7 Part 1 (Aphantasia with OpenAI CLIP) - YouTube](https://youtu.be/-FrIui8Mp-8)
-*   [GitHub - Sanster/lama-cleaner (⭐16k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
+*   [GitHub - Sanster/lama-cleaner (⭐17k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
 
 ### Image Upscaling / Deforum
 

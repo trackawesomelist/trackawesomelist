@@ -110,8 +110,9 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 # Generative AI Area
 
-## Generative AI history, maps, and definitions
+## Generative AI history, timelines, maps, and definitions
 
+*   [Timeline of AI forecasts - AI Digest](https://theaidigest.org/timeline)
 *   \[🔥🔥🔥] [Generative AI in a nutshell](https://blog.crisp.se/wp-content/uploads/2024/01/generative-AI-in-a-nutshell.png): a map with the most common Generative AI' concepts by Henrik Kniberg [Youtube Video explaining the map](https://www.youtube.com/watch?v=2IK3DFHRFfw)
 *   [60+ Generative AI Terms You Must Know By Heart](https://www.analyticsvidhya.com/blog/2024/01/generative-ai-terms/): by Analytics Vidhya
 *   [The Four Wars of the AI Stack (Dec 2023 Recap)](https://www.latent.space/p/dec-2023): "recap of top items for the AI Engineer from Dec 2023" ("The Data Wars, The War of the GPU Rich/Poor, The Multimodality War, The RAG/Ops War")
@@ -209,6 +210,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Critical Views about Generative AI
 
+*   [When Will the GenAI Bubble Burst? - by Gary Marcus](https://garymarcus.substack.com/p/when-will-the-genai-bubble-burst)
 *   [Nightshade, the tool that ‘poisons’ data, gives artists a fighting chance against AI | TechCrunch](https://techcrunch.com/2024/01/26/nightshade-the-tool-that-poisons-data-gives-artists-a-fighting-chance-against-ai/)
 *   [How AI Fails Us | Edmond & Lily Safra Center for Ethics](https://ethics.harvard.edu/how-ai-fails-us)
 *   [Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum](https://spectrum.ieee.org/midjourney-copyright): "Experiments with Midjourney and DALL-E 3 show a copyright minefield"
@@ -385,6 +387,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+*   [VocalReplica](https://vocalreplica.com/): AI-Powered Vocal and Instrumental Isolation for Your Favorite Tracks
 *   [LangMagic](https://easytolearn.io): Learn languages from native content.
 *   [Persuva](https://persuva.ai): Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
 *   [Dittto.ai](https://dittto.ai): Fix your hero copy with an AI trained on top SaaS websites.
@@ -421,6 +424,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [Snowpixel](https://snowpixel.app): Generate Images/Videos/Animations/Audio/Music/3D Objects with Text and/or Image. Upload your own data to create custom models.
 *   [Chatpdf.so](https://chatpdf.so): Talk to PDF using GPT4 AI. Chatpdf.so is a chatpdf tool that lets you do question answering on your pdf documents.
 *   [Yona.ai](https://yona.ai): Create deeply personalized AI chatbots from your own conversations, your stories, your data. You can harness the power of your chat history to build an AI companion for a nostalgic trip down memory lane, whimsical fantasies, or any other unique purpose.
+*   [Voicesphere](https://www.voicesphere.co/): Chat with your documents to get intelligent, context specific answers.
 
 # Text
 
@@ -434,7 +438,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [stanfordnlp/dspy (⭐9.2k)](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming — not prompting — foundation models
 *   [Groq](https://groq.com/): service focused on fast inference speed, providing API access to Llama 2 70B-4K and Mixtral 8x7B-32K
 *   \[🔥🔥🔥] [LLMLingua](https://llmlingua.com/): Designing a Language for LLMs via **Prompt Compression**
-*   [Floom (⭐15)](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration of AI features into products
+*   [Floom (⭐19)](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration of AI features into products
 *   [rasbt/LLMs-from-scratch (⭐13k)](https://github.com/rasbt/LLMs-from-scratch): Implementing a ChatGPT-like LLM from scratch, step by step
 *   [GoogleCloudPlatform/generative-ai (⭐5.1k)](https://github.com/GoogleCloudPlatform/generative-ai): Sample code and notebooks for Generative AI on Google Cloud
 *   [LLM Visualization](https://bbycroft.net/llm)
@@ -452,7 +456,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [\[2307.10169\] Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169): a systematic set of open problems and application successes of LLM area
 *   [Related resources from around the web | OpenAI Cookbook](https://cookbook.openai.com/articles/related_resources): tools and papers for improving outputs from GPT
 *   \[🔥🔥🔥] [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/): "practical patterns for integrating large language models (LLMs) into systems & products" by Eugene Yan
-*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐13k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
+*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐14k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
 *   [\[2309.06794\] Cognitive Mirage: A Review of Hallucinations in Large Language Models](https://arxiv.org/abs/2309.06794)
 *   [Generative AI for Strategy & Innovation](https://www.hbritalia.it/userUpload/ebook_Generative_AI_inglese.pdf): an experiment about management theories with ChatGPT by Harvard Business Review Italia
 *   [The TextFX project](https://textfx.withgoogle.com/): "AI-powered tools for rappers, writers and wordsmiths" (partnership between Lupe Fiasco and Google)
@@ -614,7 +618,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 ### Embeddings and Semantic Search
 
 *   [neuml/txtai (⭐6.8k)](https://github.com/neuml/txtai): semantic search and workflows powered by language models
-*   [facebookresearch/faiss (⭐27k)](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors
+*   [facebookresearch/faiss (⭐28k)](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors
 *   [Optimize Your Chatbot’s Conversational Intelligence Using GPT-3 | by Amogh Agastya | Better Programming](https://betterprogramming.pub/how-to-give-your-chatbot-the-power-of-neural-search-with-openai-ebcff5194170): tutorial presenting semantic search concepts
 *   \[🔥] [whitead/paper-qa (⭐3.6k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations", [demo](https://twitter.com/andrewwhite01/status/1629346569756483584?s=20)
 *   [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
@@ -666,6 +670,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [\[2308.07201\] ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://arxiv.org/abs/2308.07201)
 *   [OpenBMB/ChatDev (⭐21k)](https://github.com/OpenBMB/ChatDev): create customized software using natural language idea (through llm-powered multi-agent collaboration)
 *   [\[2308.10848\] AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://arxiv.org/abs/2308.10848)
+*   [BrainSoup](https://www.nurgo-software.com/products/brainsoup): multi-agent & multi-LLM client with RAG, multi-modality, automation, code interpreter, and sandboxed file system
 
 ### LLM Evaluation
 
@@ -767,6 +772,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [Taskade](https://taskade.com/): Taskade is an AI outliner and mind map generator for teams with built-in AI chat
 *   [AI Story Generator](https://www.aistorygenerator.org): Free and fast online AI-powered story generator that writes short stories for you
 *   [AI Story Generate](https://aistorygenerate.com): Generate stories using LLM with custom emotion, genre, and word count.
+*   [Composum AI (⭐1)](https://github.com/ist-dresden/composum-AI) Plugin for CMS Adobe Experience Manager (AEM) or Composum Pages helping the editor to create / edit / translate texts
 
 ## Research AI Tools
 
@@ -956,7 +962,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [Animation with Dall-e + AE | Reddit](https://www.reddit.com/r/MediaSynthesis/comments/xgeehe/animation_with_dalle_ae_patent_drawing_of_an/): Patent drawing of an electronic device that ...
 *   [You Describe & AI Photoshops Faces For You \[StyleCLIP\] - YouTube](https://youtu.be/d1OET63Ulwc)
 *   [Experimental Films + Machine Learning Week 7 Part 1 (Aphantasia with OpenAI CLIP) - YouTube](https://youtu.be/-FrIui8Mp-8)
-*   [GitHub - Sanster/lama-cleaner (⭐16k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
+*   [GitHub - Sanster/lama-cleaner (⭐17k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
 *   [AgaMiko/pixel\_character\_generator (⭐115)](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 *   [Wilco Sierra](https://trywilco.com/sierra): A platform that generates engineering challenges for software engineers using GPT.
 
@@ -1093,6 +1099,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590)
 *   [openai/openai-cookbook (⭐55k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 *   [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
+*   [Co-Developer GPT engine (⭐4)](https://github.com/stoerr/CoDeveloperGPTengine) - local r/w file access and execute actions from an OpenAI GPT
 
 # Multimodal
 
@@ -1173,12 +1180,12 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Related Awesome Lists
 
-*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐13k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
+*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐14k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
 *   [AlexChalakov/awesome-generative-ai-companies (⭐83)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 *   [kyrolabs/awesome-langchain (⭐6.5k)](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
 *   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐98)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 *   \[🔥] [amrzv/awesome-colab-notebooks (⭐1.2k)](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
-*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐4.4k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
+*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐4.5k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 *   \[🔥🔥🔥] [jonathandinu/awesome-ai-art (⭐319)](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
 *   [margaretmz/awesome-ai-art-design (⭐28)](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
 *   [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab (⭐275)](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
