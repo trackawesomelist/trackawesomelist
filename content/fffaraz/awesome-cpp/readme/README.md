@@ -245,7 +245,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [argparse (⭐2.3k)](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++. \[MIT]
 *   [args (⭐1.3k)](https://github.com/taywee/args) - A simple header-only C++ argument parser library. \[MIT]
 *   [Boost.Program\_options (⭐98)](https://github.com/boostorg/program_options) - A library to obtain program options via conventional methods such as command line and config file. \[Boost] [website](https://boost.org/libs/program_options)
-*   [Clara (⭐646)](https://github.com/catchorg/Clara) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
 *   [cli (⭐1.1k)](https://github.com/daniele77/cli) - A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). \[Boost]
 *   [CLI11 (⭐3.1k)](https://github.com/CLIUtils/CLI11) - Header only single or multi-file C++11 library for simple and advanced CLI parsing. \[BSD]
 *   [clipp (⭐1.2k)](https://github.com/muellan/clipp) - Easy to use, powerful and expressive command line argument handling for C++11/14/17 contained in a single header file. \[MIT]
@@ -502,6 +501,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Google Mock (⭐33k)](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. \[BSD]
 *   [Google Test (⭐33k)](https://github.com/google/googletest) - Google C++ Testing Framework. \[BSD]
 *   [ig-debugheap (⭐174)](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors. \[BSD]
+*   [libassert (⭐450)](https://github.com/jeremy-rifkin/libassert) - The most over-engineered C++ assertion library. \[MIT]
 *   [libtap (⭐248)](https://github.com/zorgnax/libtap) - Write tests in C. \[GPL2]
 *   [microprofile (⭐1.4k)](https://github.com/jonasmr/microprofile) - Profiler with web-view for multiple platforms. \[Unlicense]
 *   [MinUnit (⭐543)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]

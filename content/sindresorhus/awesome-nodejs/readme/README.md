@@ -85,6 +85,22 @@
 		<br>
 		<br>
 		<br>
+		<a href="https://logto.io/?ref=sindre">
+			<div>
+				<picture>
+					<source width="200" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/logto-logo-dark.svg?x">
+					<source width="200" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/logto-logo-light.svg?x">
+					<img width="200" src="https://sindresorhus.com/assets/thanks/logto-logo-light.svg?x" alt="Logto logo">
+				</picture>
+			</div>
+			<b>The better identity infrastructure for developers</b>
+			<div>
+				<sup>Logto is an open-source Auth0 alternative designed for every app.</sup>
+			</div>
+		</a>
+		<br>
+		<br>
+		<br>
 	</p>
 	<hr>
 	<br>
@@ -190,8 +206,8 @@
 *   [stackgl](https://github.com/stackgl) - Open software ecosystem for WebGL, built on top of browserify and npm.
 *   [peerwiki (⭐312)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 *   [peercast (⭐513)](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
-*   [BitcoinJS (⭐5.4k)](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library.
-*   [Bitcore (⭐4.7k)](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
+*   [BitcoinJS (⭐5.5k)](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library.
+*   [Bitcore (⭐4.8k)](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
 *   [PDFKit (⭐9.4k)](https://github.com/foliojs/pdfkit) - PDF generation library.
 *   [turf (⭐8.7k)](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
 *   [webcat (⭐440)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
@@ -234,11 +250,11 @@
 *   [tmpin (⭐123)](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
 *   [wallpaper (⭐1k)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 *   [pen (⭐328)](https://github.com/hatashiro/pen) - Live Markdown preview in the browser from your favorite editor.
-*   [dark-mode (⭐648)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
+*   [dark-mode (⭐650)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
 *   [Jsome (⭐241)](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
 *   [mobicon (⭐111)](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
 *   [mobisplash (⭐70)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
-*   [diff2html-cli (⭐489)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
+*   [diff2html-cli (⭐492)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
 *   [trymodule (⭐1.1k)](https://github.com/victorb/trymodule) - Try out npm packages in the terminal.
 *   [jscpd (⭐4.5k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
 *   [atmo (⭐817)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
@@ -250,9 +266,9 @@
 *   [gtop (⭐9.6k)](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
 *   [themer (⭐5.4k)](https://github.com/themerdev/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more.
 *   [carbon-now-cli (⭐5.7k)](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
-*   [cash-cli (⭐226)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
+*   [cash-cli (⭐227)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
 *   [taskbook (⭐8.9k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
-*   [discharge (⭐557)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
+*   [discharge (⭐569)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 *   [npkill (⭐7.9k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
 
 ### Functional programming
@@ -387,7 +403,7 @@
 *   [Hapi (⭐14k)](https://github.com/hapijs/hapi) - Framework for building applications and services.
 *   [Micro (⭐11k)](https://github.com/vercel/micro) - Minimalistic microservice framework with an async approach.
 *   [Koa (⭐35k)](https://github.com/koajs/koa) - Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
-*   [Express (⭐63k)](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
+*   [Express (⭐64k)](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
 *   [Feathers (⭐15k)](https://github.com/feathersjs/feathers) - Microservice framework built in the spirit of Express.
 *   [LoopBack (⭐4.8k)](https://github.com/loopbackio/loopback-next) - Powerful framework for creating REST APIs and easily connecting to backend data sources.
 *   [Meteor (⭐44k)](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(You might like [awesome-meteor (⭐1.4k)](https://github.com/Urigo/awesome-meteor))*
@@ -397,7 +413,7 @@
 *   [seneca (⭐3.9k)](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
 *   [AdonisJs (⭐15k)](https://github.com/adonisjs/core) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
 *   [Moleculer (⭐6k)](https://github.com/moleculerjs/moleculer) - Fast & powerful microservices framework.
-*   [Nest (⭐63k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
+*   [Nest (⭐64k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
 *   [TypeGraphQL (⭐7.9k)](https://github.com/MichalLytek/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators.
 *   [Tinyhttp (⭐2.6k)](https://github.com/tinyhttp/tinyhttp) - Modern and fast Express-like web framework.
 *   [Marble.js (⭐2.1k)](https://github.com/marblejs/marble) - Functional reactive framework for building server-side apps, based on TypeScript and RxJS.
@@ -503,9 +519,9 @@
 *   [babelfish (⭐249)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
 *   [matcher (⭐534)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 *   [unhomoglyph (⭐37)](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
-*   [i18next (⭐7.3k)](https://github.com/i18next/i18next) - Internationalization framework.
+*   [i18next (⭐7.4k)](https://github.com/i18next/i18next) - Internationalization framework.
 *   [nanoid (⭐23k)](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator.
-*   [StegCloak (⭐3.1k)](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
+*   [StegCloak (⭐3.2k)](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
 
 ### Number
 
@@ -550,6 +566,7 @@
 *   [ajv (⭐13k)](https://github.com/ajv-validator/ajv) - The fastest JSON Schema validator. Supports v5, v6 and v7 proposals.
 *   [Superstruct (⭐6.8k)](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
 *   [yup (⭐22k)](https://github.com/jquense/yup) - Object schema validation.
+*   [zod (⭐30k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
 ### Parsing
 
@@ -623,7 +640,7 @@
     *   [slonik (⭐4.3k)](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detailed logging and assertions.
     *   [Objection.js (⭐7.2k)](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex.
     *   [TypeORM (⭐33k)](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
-    *   [MikroORM (⭐7k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
+    *   [MikroORM (⭐7.1k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
     *   [Prisma (⭐37k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
 *   Query builder
     *   [Knex (⭐19k)](https://github.com/knex/knex) - Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
@@ -744,7 +761,7 @@
 
 ### Process management
 
-*   [PM2 (⭐40k)](https://github.com/Unitech/pm2) - Advanced Process Manager.
+*   [PM2 (⭐41k)](https://github.com/Unitech/pm2) - Advanced Process Manager.
 *   [nodemon (⭐26k)](https://github.com/remy/nodemon) - Monitor for changes in your app and automatically restart the server.
 *   [node-mac (⭐531)](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
 *   [node-linux (⭐419)](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
@@ -772,10 +789,10 @@
 
 *   [KeystoneJS (⭐8.8k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 *   [ApostropheCMS (⭐4.2k)](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
-*   [Strapi (⭐59k)](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
+*   [Strapi (⭐60k)](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
 *   [Factor (⭐1.4k)](https://github.com/FactorJS/factor) - Vue.js dashboard framework and headless CMS.
 *   [AdminBro (⭐7.9k)](https://github.com/SoftwareBrothers/adminjs) - Auto-generated admin panel with CRUD for all your resources.
-*   [Graphweaver (⭐436)](https://github.com/exogee-technology/graphweaver) - CMS and headless GraphQL API.
+*   [Graphweaver (⭐442)](https://github.com/exogee-technology/graphweaver) - CMS and headless GraphQL API.
 
 ### Forum
 
@@ -783,7 +800,7 @@
 
 ### Blogging
 
-*   [Ghost (⭐45k)](https://github.com/TryGhost/Ghost) - Simple, powerful publishing platform.
+*   [Ghost (⭐46k)](https://github.com/TryGhost/Ghost) - Simple, powerful publishing platform.
 *   [Hexo (⭐38k)](https://github.com/hexojs/hexo) - Fast, simple and powerful blogging framework.
 
 ### Weird

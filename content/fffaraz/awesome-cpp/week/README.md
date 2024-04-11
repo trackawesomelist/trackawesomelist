@@ -12,6 +12,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [mgclient (⭐39)](https://github.com/memgraph/mgclient) - C/C++ Memgraph Client. \[Apache2]
 
+### Debug
+
+*   [libassert (⭐450)](https://github.com/jeremy-rifkin/libassert) - The most over-engineered C++ assertion library. \[MIT]
+
 ### Math
 
 *   [Wagyu (⭐160)](https://github.com/mapbox/wagyu) - A general library for geometry operations of union, intersections, difference, and xor. \[mapbox-wagyu original]
@@ -1915,10 +1919,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Oniguruma (⭐2.2k)](https://github.com/kkos/oniguruma) - A modern and flexible regular expressions library that supports a variety of character encodings. \[BSD]
 
 ## [Feb 18 - Feb 24, 2019](/content/2019/7/README.md)
-
-### CLI
-
-*   [Clara (⭐646)](https://github.com/catchorg/Clara) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
 
 ### Memory Allocation
 

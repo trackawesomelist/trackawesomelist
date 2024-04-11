@@ -2,7 +2,7 @@
 
 A curated list of awesome things related to MDBootstrap
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mdbootstrap/awesome-mdbootstrap/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mdbootstrap/awesome-mdbootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap) · ⭐ 39 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mdbootstrap/awesome-mdbootstrap/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mdbootstrap/awesome-mdbootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap) · ⭐ 42 · 🏷️ Front-End Development
 
 [ [Daily](/content/mdbootstrap/awesome-mdbootstrap/README.md) / [Weekly](/content/mdbootstrap/awesome-mdbootstrap/week/README.md) / Overview ]
 
@@ -21,6 +21,7 @@ A curated list of awesome things related to MDBootstrap
 *   [Useful Links](#useful-links)
 *   [Articles](#articles)
 *   [Tools](#tools)
+*   [Data Grid](#data-grid)
 *   [CLI & hosting](#cli--hosting)
 *   [Education](#education)
 
@@ -97,6 +98,18 @@ Tools and utilities to help build apps using MDBootstrap.
 *   [Flexbox generator](https://mdbootstrap.com/docs/standard/tools/builders/flexbox/) - The easiest and fastest way to create and test flexbox in Bootstrap 5.
 *   [Footer generator](https://mdbootstrap.com/docs/standard/tools/builders/footer/) - Create bootstrap footer with custom coprytight, buttons, forms, links colors, sizes.
 *   [Navbar generator](https://mdbootstrap.com/docs/standard/tools/builders/navbar/) - Create bootstrap navbar with custom colors, brand, icons, forms, placement.
+
+## Data Grid
+
+Extend your projects functionality with a table component
+
+*   [GetDataDen](https://getdataden.com/) - The ultimate customizable Data Grid
+*   [Advanced data structure](https://getdataden.com/docs/grid/features/data-loader/#client-side-data-example) - The latest and most advanced data structure allows customizing each column (sort, width, resize, field) and matches values from each row to a column in which the `field` equals a given key value.
+*   [Draggable columns](https://getdataden.com/docs/grid/features/drag-and-drop/#basic-section) - Experience seamless interactivity with our draggable columns feature. Effortlessly rearrange your data grid to suit your workflow, ensuring optimal organization and efficiency. Just click, drag, and drop to customize your data display exactly as you need.
+*   [Pagination](https://getdataden.com/docs/grid/features/pagination/#basic-section) - Explore efficient data navigation with our pagination example. Learn to seamlessly handle large datasets by integrating simple, intuitive pagination controls.
+*   [Column search](https://getdataden.com/docs/grid/features/filtering/header-filters/#basic-section) - Discover the power of quick data retrieval with our search column feature. Easily locate the information you need within your DataDen grids for a more streamlined and productive data management experience.
+*   [Cell formatting](https://getdataden.com/docs/grid/layout/custom-css/#cell-formatting-section) - Enhance your data grid with our versatile cell formatting options. Tailor each cell's appearance for clarity and impact, using colors, fonts, and styles that make your data speak volumes. Perfect for highlighting critical insights and personalizing your data view
+*   [Compact version](https://getdataden.com/docs/grid/layout/custom-css/) - Unlock the full potential of your data grid with advanced CSS customization. Style every aspect to match your brand or personal preference, from colors and fonts to layouts. Create a visually cohesive and highly functional data interface with ease.
 
 ## CLI & hosting
 

@@ -8,6 +8,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
 
+### Messaging and Streaming
+
+*   [EMQX Serverless](https://www.emqx.com/en/cloud/serverless-mqtt) - Scalable and secure serverless MQTT broker you can get in seconds. 1M session minutes/month free forever (no credit card required).
+
 ### Email
 
 *   [Sweego](https://www.sweego.io/) - European transactional emails API for developers. 500 emails/day free.

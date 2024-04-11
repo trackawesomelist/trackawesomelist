@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Apr 11, 2024](/content/2024/04/11/README.md)
+
+### Debug
+
+*   [libassert (⭐450)](https://github.com/jeremy-rifkin/libassert) - The most over-engineered C++ assertion library. \[MIT]
+
 ## [Apr 10, 2024](/content/2024/04/10/README.md)
 
 ### Database
@@ -2183,10 +2189,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [PcapPlusPlus (⭐2.6k)](https://github.com/seladb/PcapPlusPlus) - a multiplatform C++ network sniffing and packet parsing and crafting framework. \[Unlicense]
 
 ## [Feb 14, 2019](/content/2019/02/14/README.md)
-
-### CLI
-
-*   [Clara (⭐646)](https://github.com/catchorg/Clara) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
 
 ### Memory Allocation
 

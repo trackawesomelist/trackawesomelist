@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / Weekly / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
+
+### Science Logology / Laboratory Automation
+
+*   [An autonomous portable platform for universal chemical synthesis](https://www.nature.com/articles/s41557-022-01016-w) - ***Nature Chemistry***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=4484997534431409967)]. \[[Preprint](https://eprints.gla.ac.uk/275574/)]. This paper presents a portable suitcase-sized chemical synthesis platform containing all the modules required for synthesis and purification. The system uses a chemical programming language coupled to a digital reactor generator to produce reactors and executable protocols based on text-based literature syntheses. Simultaneously, the platform generates a reaction pressure fingerprint, used to monitor processes within the reactors and remotely perform a protocol quality control.
+
 ## [Apr 01 - Apr 07, 2024](/content/2024/14/README.md)
 
 ### Science Logology / Laboratory Automation
@@ -19,7 +25,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Science Logology / Laboratory Automation
 
 *   [Organic synthesis in a modular robotic system driven by a chemical programming language](https://www.science.org/doi/full/10.1126/science.aav2211) - ***Science***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=13920677955690815682\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://www.chem.gla.ac.uk/cronin/images/pubs/387-Steiner-ScienceJan19.full.pdf)]. \[[Perspective: Democratizing synthesis by automation](https://www.science.org/doi/10.1126/science.aav8816)]. This paper develops an autonomous compiler and robotic laboratory platform to synthesize organic compounds on the basis of standardized methods descriptions. The platform comprises conventional equipment such as round-bottom flasks, separatory funnels, and a rotary evaporator to maximize its compatibility with extant literature. The authors showcase the system with short syntheses of three common pharmaceuticals that proceeded comparably to manual synthesis.
-*   [A universal system for digitization and automatic execution of the chemical synthesis literature](https://www.science.org/doi/full/10.1126/science.abc2986) - ***Science***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13909991218383718512\&hl=en\&as_sdt=0,5)]. \[[XDL Documentation](https://croningroup.gitlab.io/chemputer/xdl/index.html)]. \[[Preprint](https://www.chem.gla.ac.uk/cronin/images/pubs/Mehr-ScienceOct2020.pdf)]. This paper reports a software platform that uses natural language processing to translate the organic chemistry literature directly into editable code, which in turn can be compiled to drive automated synthesis of the compound in the laboratory.
+*   [A universal system for digitization and automatic execution of the chemical synthesis literature](https://www.science.org/doi/full/10.1126/science.abc2986) - ***Science***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13909991218383718512\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://www.chem.gla.ac.uk/cronin/images/pubs/Mehr-ScienceOct2020.pdf)]. \[[XDL Documentation](https://croningroup.gitlab.io/chemputer/xdl/index.html)]. \[[XDL Schema Database](https://zenodo.org/records/3955107)]. This paper reports a software platform that uses natural language processing to translate the organic chemistry literature directly into editable code, which in turn can be compiled to drive automated synthesis of the compound in the laboratory.
 *   [Digitization and validation of a chemical synthesis literature database in the ChemPU](https://www.science.org/doi/full/10.1126/science.abo0058) - ***Science***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17368503277308594977)]. \[[Preprint](https://www.researchgate.net/profile/Aamir-Khan/publication/361857872_Digitization_and_validation_of_a_chemical_synthesis_literature_database_in_the_ChemPU/links/62cd356d00d0b451104cbfe9/Digitization-and-validation-of-a-chemical-synthesis-literature-database-in-the-ChemPU.pdf)]. This paper presents an automatically executable chemical reaction database of 100 molecules representative of the range of reactions found in contemporary organic synthesis. The chemical reaction codes or χDLs for the reactions have been stored in a database for version control, validation, collaboration, and data mining. Of these syntheses, more than 50 entries from the database have been downloaded and robotically run in seven modular chemputers with yields and purities comparable to those achieved by an expert chemist.
 
 ## [Mar 18 - Mar 24, 2024](/content/2024/12/README.md)
@@ -34,7 +40,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Domain Specific Language / DSL Program Synthesis
 
-*   [Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting](https://arxiv.org/abs/2303.14100) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8063693456660536915)]. \[[Code (⭐31)](https://github.com/ac-rad/xdl-generation)]. \[[Website](https://ac-rad.github.io/clairify/)]. This paper proposes CLAIRIFY, an approach that combines automatic iterative prompting with program verification to ensure programs written in data-scarce domain-specific language are syntactically valid and incorporate environment constraints.
+*   [Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting](https://arxiv.org/abs/2303.14100) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8063693456660536915)]. \[[Code (⭐32)](https://github.com/ac-rad/xdl-generation)]. \[[Website](https://ac-rad.github.io/clairify/)]. This paper proposes CLAIRIFY, an approach that combines automatic iterative prompting with program verification to ensure programs written in data-scarce domain-specific language are syntactically valid and incorporate environment constraints.
 
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
 
@@ -412,8 +418,11 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Science Logology / Democratization of Science
 
-*   [The Internet of Things comes to the lab](https://www.nature.com/articles/542125a) - ***Nature***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7747117198956166976\&hl=en\&as_sdt=0,5)].
 *   [Six factors affecting reproducibility in life science research and how to handle them](https://www.nature.com/articles/d42473-019-00004-y) - ***Nature Advertisement***.
+
+### Science Logology / Laboratory Automation
+
+*   [The Internet of Things comes to the lab](https://www.nature.com/articles/542125a) - ***Nature***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7747117198956166976\&hl=en\&as_sdt=0,5)]. The emergence of connected instruments and equipment promises to untether researchers from the laboratory --- letting them fine-tune experiments and analyse data remotely.
 
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 

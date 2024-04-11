@@ -6,6 +6,12 @@
 
 [ [Daily](/content/sindresorhus/awesome-nodejs/README.md) / Weekly / [Overview](/content/sindresorhus/awesome-nodejs/readme/README.md) ]
 
+## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
+
+### Packages / Data validation
+
+*   [zod (⭐30k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+
 ## [Mar 25 - Mar 31, 2024](/content/2024/13/README.md)
 
 ### Packages / Web frameworks
@@ -16,7 +22,7 @@
 
 ### Packages / Content management systems
 
-*   [Graphweaver (⭐436)](https://github.com/exogee-technology/graphweaver) - CMS and headless GraphQL API.
+*   [Graphweaver (⭐442)](https://github.com/exogee-technology/graphweaver) - CMS and headless GraphQL API.
 
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
@@ -455,7 +461,7 @@
     *   [slonik (⭐4.3k)](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detailed logging and assertions.
     *   [Objection.js (⭐7.2k)](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex.
     *   [TypeORM (⭐33k)](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
-    *   [MikroORM (⭐7k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
+    *   [MikroORM (⭐7.1k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
     *   [Prisma (⭐37k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
 
 ## [Sep 07 - Sep 13, 2020](/content/2020/36/README.md)
@@ -478,7 +484,7 @@
 
 ### Packages / Text
 
-*   [StegCloak (⭐3.1k)](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
+*   [StegCloak (⭐3.2k)](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
 
 ## [Apr 27 - May 03, 2020](/content/2020/17/README.md)
 
@@ -669,7 +675,7 @@
 
 *   [Hapi (⭐14k)](https://github.com/hapijs/hapi) - Framework for building applications and services.
 *   [Koa (⭐35k)](https://github.com/koajs/koa) - Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
-*   [Express (⭐63k)](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
+*   [Express (⭐64k)](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
 *   [Feathers (⭐15k)](https://github.com/feathersjs/feathers) - Microservice framework built in the spirit of Express.
 *   [Meteor (⭐44k)](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(You might like [awesome-meteor (⭐1.4k)](https://github.com/Urigo/awesome-meteor))*
 *   [Restify (⭐11k)](https://github.com/restify/node-restify) - Enables you to build correct REST web services.
@@ -737,8 +743,8 @@
 
 ### Packages / Command-line apps
 
-*   [cash-cli (⭐226)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
-*   [discharge (⭐557)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
+*   [cash-cli (⭐227)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
+*   [discharge (⭐569)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 
 ### Packages / Debugging / Profiling
 
@@ -807,8 +813,8 @@
 
 ### Packages / Mad science
 
-*   [BitcoinJS (⭐5.4k)](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library.
-*   [Bitcore (⭐4.7k)](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
+*   [BitcoinJS (⭐5.5k)](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library.
+*   [Bitcore (⭐4.8k)](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
 *   [NodeOS (⭐6.9k)](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm.
 *   [Cytoscape.js (⭐9.7k)](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
 *   [isomorphic-git (⭐7.2k)](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
@@ -892,7 +898,7 @@
 ### Packages / Content management systems
 
 *   [ApostropheCMS (⭐4.2k)](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
-*   [Strapi (⭐59k)](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
+*   [Strapi (⭐60k)](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
 
 ### Packages / Forum
 
@@ -900,7 +906,7 @@
 
 ### Packages / Blogging
 
-*   [Ghost (⭐45k)](https://github.com/TryGhost/Ghost) - Simple, powerful publishing platform.
+*   [Ghost (⭐46k)](https://github.com/TryGhost/Ghost) - Simple, powerful publishing platform.
 *   [Hexo (⭐38k)](https://github.com/hexojs/hexo) - Fast, simple and powerful blogging framework.
 
 ### Packages / Miscellaneous
@@ -928,11 +934,11 @@
 
 ### Packages / Web frameworks
 
-*   [Nest (⭐63k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
+*   [Nest (⭐64k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
 
 ### Packages / Text
 
-*   [i18next (⭐7.3k)](https://github.com/i18next/i18next) - Internationalization framework.
+*   [i18next (⭐7.4k)](https://github.com/i18next/i18next) - Internationalization framework.
 
 ### Packages / Math
 
@@ -1096,7 +1102,7 @@
 *   [Live Server (⭐4.3k)](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
 *   [fkill (⭐6.8k)](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 *   [tmpin (⭐123)](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-*   [dark-mode (⭐648)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
+*   [dark-mode (⭐650)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
 
 ### Packages / HTTP
 
@@ -1432,7 +1438,7 @@
 ### Packages / Command-line apps
 
 *   [mobisplash (⭐70)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
-*   [diff2html-cli (⭐489)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
+*   [diff2html-cli (⭐492)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
 
 ### Resources / Community
 
@@ -1541,7 +1547,7 @@
 
 ### Packages / Process management
 
-*   [PM2 (⭐40k)](https://github.com/Unitech/pm2) - Advanced Process Manager.
+*   [PM2 (⭐41k)](https://github.com/Unitech/pm2) - Advanced Process Manager.
 
 ### Packages / Miscellaneous
 
