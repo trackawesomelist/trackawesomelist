@@ -6,6 +6,12 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 [ Daily / [Weekly](/content/FriendsOfCake/awesome-cakephp/week/README.md) / [Overview](/content/FriendsOfCake/awesome-cakephp/readme/README.md) ]
 
+## [Apr 12, 2024](/content/2024/04/12/README.md)
+
+### Imagery
+
+*   🍰 [QrCodePlugin (⭐2)](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
+
 ## [Apr 09, 2024](/content/2024/04/09/README.md)
 
 ### Social

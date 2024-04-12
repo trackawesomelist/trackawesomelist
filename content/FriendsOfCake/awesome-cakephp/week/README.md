@@ -8,6 +8,10 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
 
+### Imagery
+
+*   🍰 [QrCodePlugin (⭐2)](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
+
 ### Social
 
 *   🍰 [Comments plugin (⭐1)](https://github.com/dereuromark/cakephp-comments) - Allows users to comment records, supporting different formats.

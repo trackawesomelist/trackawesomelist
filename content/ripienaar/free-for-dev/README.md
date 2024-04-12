@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Apr 12, 2024](/content/2024/04/12/README.md)
+
+### Code Generation
+
+*   [Cody AI](https://sourcegraph.com/cody) - Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster. Cody gives developers a choice of LLMs (including local inference), has support for various IDEs, supports all popular programming languages, and has a free plan. The free plan gives developers 20 chat messages (using Claude 3 Sonnet as the LLM) and 500 autocompletions (using the Starcoder 16b) each month.
+
+### Low-code Platform
+
+*   [UI Bakery](https://uibakery.io) — Low-code platform that enables faster building of custom web applications. Supports building UI using drag and drop with a high level of customization through JavaScript, Python, and SQL. Available as both cloud and self-hosted solutions. Free for up to 5 users.
+
 ## [Apr 11, 2024](/content/2024/04/11/README.md)
 
 ### Messaging and Streaming
@@ -4997,10 +5007,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [scrutinizer-ci.com](https://scrutinizer-ci.com/) — Continuous inspection platform, free for Open Source
 *   [webceo.com](https://www.webceo.com/) — SEO tools but with also code verifications and different types of devices
 *   [zoompf.com](https://zoompf.com/) — Fix the performance of your web sites, detailed analysis
-
-### Code Search and Browsing
-
-*   [sourcegraph.com](https://about.sourcegraph.com/) — Java, Go, Python, Node.js, etc., code search/cross-references, free for Open Source
 
 ### CI and CD
 

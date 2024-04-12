@@ -221,7 +221,7 @@ Further resources:
 *   [DLib](http://dlib.net/imaging.html) - DLib has C++ and Python interfaces for face detection and training general object detectors.
 *   [EBLearn](http://eblearn.sourceforge.net/) - Eblearn is an object-oriented C++ library that implements various machine learning models **\[Deprecated]**
 *   [OpenCV](https://opencv.org) - OpenCV has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
-*   [VIGRA (⭐400)](https://github.com/ukoethe/vigra) - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
+*   [VIGRA (⭐402)](https://github.com/ukoethe/vigra) - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
 *   [Openpose (⭐30k)](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - A real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 
 <a name="cpp-general-purpose-machine-learning"></a>
@@ -241,7 +241,7 @@ Further resources:
 *   [DyNet (⭐3.4k)](https://github.com/clab/dynet) - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python.
 *   [Fido (⭐427)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
 *   [igraph](http://igraph.org/) - General purpose graph library.
-*   [Intel® oneAPI Data Analytics Library (⭐589)](https://github.com/oneapi-src/oneDAL) - A high performance software library developed by Intel and optimized for Intel's architectures. Library provides algorithmic building blocks for all stages of data analytics and allows to process data in batch, online and distributed modes.
+*   [Intel® oneAPI Data Analytics Library (⭐593)](https://github.com/oneapi-src/oneDAL) - A high performance software library developed by Intel and optimized for Intel's architectures. Library provides algorithmic building blocks for all stages of data analytics and allows to process data in batch, online and distributed modes.
 *   [LightGBM (⭐16k)](https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 *   [libfm (⭐1.5k)](https://github.com/srendle/libfm) - A generic approach that allows to mimic most factorization models by feature engineering.
 *   [MLDB](https://mldb.ai) - The Machine Learning Database is a database designed for machine learning. Send it commands over a RESTful API to store data, explore it using SQL, then train machine learning models and expose them as APIs.
@@ -261,7 +261,7 @@ Further resources:
 *   [Timbl](https://languagemachines.github.io/timbl/) - A software package/C++ library implementing several memory-based learning algorithms, among which IB1-IG, an implementation of k-nearest neighbor classification, and IGTree, a decision-tree approximation of IB1-IG. Commonly used for NLP.
 *   [Vowpal Wabbit (VW) (⭐8.4k)](https://github.com/VowpalWabbit/vowpal_wabbit) - A fast out-of-core learning system.
 *   [Warp-CTC (⭐4.1k)](https://github.com/baidu-research/warp-ctc) - A fast parallel implementation of Connectionist Temporal Classification (CTC), on both CPU and GPU.
-*   [XGBoost (⭐25k)](https://github.com/dmlc/xgboost) - A parallelized optimized general purpose gradient boosting library.
+*   [XGBoost (⭐26k)](https://github.com/dmlc/xgboost) - A parallelized optimized general purpose gradient boosting library.
 *   [ThunderGBM (⭐687)](https://github.com/Xtra-Computing/thundergbm) - A fast library for GBDTs and Random Forests on GPUs.
 *   [ThunderSVM (⭐1.5k)](https://github.com/Xtra-Computing/thundersvm) - A fast SVM library on GPUs and CPUs.
 *   [LKYDeepNN (⭐48)](https://github.com/mosdeo/LKYDeepNN) - A header-only C++11 Neural Network library. Low dependency, native traditional chinese document.
@@ -476,7 +476,7 @@ Further resources:
 *   [Cybertron (⭐250)](https://github.com/nlpodyssey/cybertron) - Cybertron: the home planet of the Transformers in Go.
 *   [snowball (⭐42)](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
 *   [word-embedding (⭐453)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
-*   [sentences (⭐413)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
+*   [sentences (⭐417)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 *   [go-ngram (⭐113)](https://github.com/Lazin/go-ngram) - In-memory n-gram index with compression. *\[Deprecated]*
 *   [paicehusk (⭐29)](https://github.com/Rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm. *\[Deprecated]*
 *   [go-porterstemmer (⭐190)](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming algorithm. **\[Deprecated]**
@@ -487,10 +487,10 @@ Further resources:
 
 *   [Spago (⭐1.7k)](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go.
 *   [birdland (⭐45)](https://github.com/rlouf/birdland) - A recommendation library in Go.
-*   [eaopt (⭐872)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
+*   [eaopt (⭐873)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 *   [leaves (⭐408)](https://github.com/dmitryikh/leaves) - A pure Go implementation of the prediction part of GBRTs, including XGBoost and LightGBM.
-*   [gobrain (⭐550)](https://github.com/goml/gobrain) - Neural Networks written in Go.
-*   [go-featureprocessing (⭐109)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
+*   [gobrain (⭐552)](https://github.com/goml/gobrain) - Neural Networks written in Go.
+*   [go-featureprocessing (⭐112)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
 *   [go-mxnet-predictor (⭐55)](https://github.com/songtianyi/go-mxnet-predictor) - Go binding for MXNet c\_predict\_api to do inference with a pre-trained model.
 *   [go-ml-benchmarks (⭐30)](https://github.com/nikolaydubina/go-ml-benchmarks) — benchmarks of machine learning inference for Go.
 *   [go-ml-transpiler](https://github.com/znly/go-ml-transpiler) - An open source Go transpiler for machine learning models.
@@ -505,8 +505,8 @@ Further resources:
 *   [go-ml (⭐202)](https://github.com/alonsovidales/go_ml) - Linear / Logistic regression, Neural Networks, Collaborative Filtering and Gaussian Multivariate Distribution. **\[Deprecated]**
 *   [GoNN (⭐357)](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN. **\[Deprecated]**
 *   [bayesian (⭐784)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang. **\[Deprecated]**
-*   [go-galib (⭐198)](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / Golang. **\[Deprecated]**
-*   [Cloudforest (⭐735)](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in Go/Golang. **\[Deprecated]**
+*   [go-galib (⭐199)](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / Golang. **\[Deprecated]**
+*   [Cloudforest (⭐734)](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in Go/Golang. **\[Deprecated]**
 *   [go-dnn (⭐5)](https://github.com/sudachen/go-dnn) - Deep Neural Networks for Golang (powered by MXNet)
 
 <a name="go-spatial-analysis-and-geometry"></a>
@@ -537,7 +537,7 @@ Further resources:
 
 #### Computer vision
 
-*   [GoCV (⭐6.2k)](https://github.com/hybridgroup/gocv) - Package for computer vision using OpenCV 4 and beyond.
+*   [GoCV (⭐6.3k)](https://github.com/hybridgroup/gocv) - Package for computer vision using OpenCV 4 and beyond.
 
 <a name="go-reinforcement-learning"></a>
 
@@ -1130,7 +1130,7 @@ Further resources:
 *   [Scikit-Image (⭐5.9k)](https://github.com/scikit-image/scikit-image) - A collection of algorithms for image processing in Python.
 *   [Scikit-Opt (⭐4.9k)](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
 *   [SimpleCV](http://simplecv.org/) - An open source computer vision framework that gives access to several high-powered computer vision libraries, such as OpenCV. Written on Python and runs on Mac, Windows, and Ubuntu Linux.
-*   [Vigranumpy (⭐400)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
+*   [Vigranumpy (⭐402)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
 *   [OpenFace](https://cmusatyalab.github.io/openface/) - Free and open source face recognition with deep neural networks.
 *   [PCV (⭐1.9k)](https://github.com/jesolem/PCV) - Open source Python module for computer vision. **\[Deprecated]**
 *   [face\_recognition (⭐52k)](https://github.com/ageitgey/face_recognition) - Face recognition library that recognizes and manipulates faces from Python or from the command line.
@@ -1227,6 +1227,8 @@ Further resources:
 *   [igel (⭐3.1k)](https://github.com/nidhaloff/igel) -> A delightful machine learning tool that allows you to train/fit, test and use models **without writing code**
 *   [ML Model building (⭐22)](https://github.com/Shanky-21/Machine_learning) -> A Repository Containing Classification, Clustering, Regression, Recommender Notebooks with illustration to make them.
 *   [ML/DL project template (⭐1.2k)](https://github.com/PyTorchLightning/deep-learning-project-template)
+*   [PyTorch Frame (⭐436)](https://github.com/pyg-team/pytorch-frame) -> A Modular Framework for Multi-Modal Tabular Learning.
+*   [PyTorch Geometric (⭐20k)](https://github.com/pyg-team/pytorch_geometric) -> Graph Neural Network Library for PyTorch.
 *   [PyTorch Geometric Temporal (⭐2.5k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) -> A temporal extension of PyTorch Geometric for dynamic graph representation learning.
 *   [Little Ball of Fur (⭐690)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
 *   [Karate Club (⭐2.1k)](https://github.com/benedekrozemberczki/karateclub) -> An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API.
@@ -1240,7 +1242,7 @@ Further resources:
 *   [dtaidistance (⭐1k)](https://github.com/wannesm/dtaidistance) - High performance library for time series distances (DTW) and time series clustering.
 *   [einops (⭐7.8k)](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others).
 *   [machine learning (⭐258)](https://github.com/jeff1evesque/machine-learning) - automated build consisting of a [web-interface (⭐258)](https://github.com/jeff1evesque/machine-learning#web-interface), and set of [programmatic-interface (⭐258)](https://github.com/jeff1evesque/machine-learning#programmatic-interface) API, for support vector machines. Corresponding dataset(s) are stored into a SQL database, then generated model(s) used for prediction(s), are stored into a NoSQL datastore.
-*   [XGBoost (⭐25k)](https://github.com/dmlc/xgboost) - Python bindings for eXtreme Gradient Boosting (Tree) Library.
+*   [XGBoost (⭐26k)](https://github.com/dmlc/xgboost) - Python bindings for eXtreme Gradient Boosting (Tree) Library.
 *   [ChefBoost (⭐438)](https://github.com/serengil/chefboost) - a lightweight decision tree framework for Python with categorical feature support covering regular decision tree algorithms such as ID3, C4.5, CART, CHAID and regression tree; also some advanved bagging and boosting techniques such as gradient boosting, random forest and adaboost.
 *   [Apache SINGA](https://singa.apache.org) - An Apache Incubating project for developing an open source machine learning library.
 *   [Bayesian Methods for Hackers (⭐26k)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Book/iPython notebooks on Probabilistic Programming in Python.
@@ -1599,7 +1601,7 @@ Further resources:
 
 *   [Awesome NLP with Ruby (⭐1k)](https://github.com/arbox/nlp-with-ruby) - Curated link list for practical natural language processing in Ruby.
 *   [Treat (⭐1.4k)](https://github.com/louismullie/treat) - Text Retrieval and Annotation Toolkit, definitely the most comprehensive toolkit I’ve encountered so far for Ruby.
-*   [Stemmer (⭐252)](https://github.com/aurelian/ruby-stemmer) - Expose libstemmer\_c to Ruby. **\[Deprecated]**
+*   [Stemmer (⭐251)](https://github.com/aurelian/ruby-stemmer) - Expose libstemmer\_c to Ruby. **\[Deprecated]**
 *   [Raspell](https://sourceforge.net/projects/raspell/) - raspell is an interface binding for ruby. **\[Deprecated]**
 *   [UEA Stemmer (⭐52)](https://github.com/ealdent/uea-stemmer) - Ruby port of UEALite Stemmer - a conservative stemmer for search and indexing.
 *   [Twitter-text-rb (⭐3.1k)](https://github.com/twitter/twitter-text/tree/master/rb) - A library that does auto linking and extraction of usernames, lists and hashtags in tweets.
@@ -1608,14 +1610,14 @@ Further resources:
 
 #### General-Purpose Machine Learning
 
-*   [Awesome Machine Learning with Ruby (⭐2k)](https://github.com/arbox/machine-learning-with-ruby) - Curated list of ML related resources for Ruby.
+*   [Awesome Machine Learning with Ruby (⭐2.1k)](https://github.com/arbox/machine-learning-with-ruby) - Curated list of ML related resources for Ruby.
 *   [Ruby Machine Learning (⭐31)](https://github.com/tsycho/ruby-machine-learning) - Some Machine Learning algorithms, implemented in Ruby. **\[Deprecated]**
 *   [Machine Learning Ruby (⭐13)](https://github.com/mizoR/machine-learning-ruby) **\[Deprecated]**
 *   [jRuby Mahout (⭐162)](https://github.com/vasinov/jruby_mahout) - JRuby Mahout is a gem that unleashes the power of Apache Mahout in the world of JRuby. **\[Deprecated]**
 *   [CardMagic-Classifier (⭐659)](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
 *   [rb-libsvm (⭐278)](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM which is a Library for Support Vector Machines.
 *   [Scoruby (⭐68)](https://github.com/asafschers/scoruby) - Creates Random Forest classifiers from PMML files.
-*   [rumale (⭐734)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
+*   [rumale (⭐737)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
 
 <a name="ruby-data-analysis--data-visualization"></a>
 
@@ -1628,7 +1630,7 @@ Further resources:
 *   [scruffy (⭐31)](https://github.com/delano/scruffy) - A beautiful graphing toolkit for Ruby.
 *   [SciRuby](http://sciruby.com/)
 *   [Glean (⭐114)](https://github.com/glean/glean) - A data management tool for humans. **\[Deprecated]**
-*   [Bioruby (⭐375)](https://github.com/bioruby/bioruby)
+*   [Bioruby (⭐376)](https://github.com/bioruby/bioruby)
 *   [Arel (⭐267)](https://github.com/nkallen/arel) **\[Deprecated]**
 
 <a name="ruby-misc"></a>
@@ -1920,13 +1922,13 @@ Further resources:
 
 #### Misc
 
-*   [Infinity (⭐1.3k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
+*   [Infinity (⭐1.5k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
 *   [Synthical](https://synthical.com) - AI-powered collaborative research environment. You can use it to get recommendations of articles based on reading history, simplify papers, find out what articles are trending, search articles by meaning (not just keywords), create and share folders of articles, see lists of articles from specific companies and universities, and add highlights.
 *   [Humanloop](https://humanloop.com) – Humanloop is a platform for prompt experimentation, finetuning models for better performance, cost optimization, and collecting model generated data and user feedback.
 *   [Qdrant](https://qdrant.tech) – Qdrant is [open source (⭐17k)](https://github.com/qdrant/qdrant) vector similarity search engine with extended filtering support, written in Rust.
 *   [milvus](https://milvus.io) – Milvus is [open source (⭐26k)](https://github.com/milvus-io/milvus) vector database for production AI, written in Go and C++, scalable and blazing fast for billions of embedding vectors.
 *   [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate is an [open source (⭐9.2k)](https://github.com/semi-technologies/weaviate) vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.
-*   [txtai (⭐6.8k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
+*   [txtai (⭐6.9k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
 *   [MLReef](https://about.mlreef.com/) - MLReef is an end-to-end development platform using the power of git to give structure and deep collaboration possibilities to the ML development process.
 *   [Chroma](https://www.trychroma.com/) - Chroma - the AI-native open-source embedding database
 *   [Pinecone](https://www.pinecone.io/) - Vector database for applications that require real-time, scalable vector embedding and similarity search.

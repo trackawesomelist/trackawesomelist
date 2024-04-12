@@ -1,24 +1,34 @@
 # Awesome List Updates on Apr 08 - Apr 14, 2024
 
-39 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Realtime Utilities / Ruby
+
+*   [GTFS Realtime Prediction Accuracy metrics](https://docs.google.com/document/d/1-AOtPaEViMcY6B5uTAYj7oVkwry3LfAQJg3ihSRTVoU/edit#heading=h.j27shba7rlk6) - Useful Performance Metrics for GTFS-Realtime.
+
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Domain Specific Language / Domain Specified Applications
+
+*   [Universal chemical programming language for robotic synthesis repeatability](https://www.nature.com/articles/s44160-023-00473-6) - ***Nature Synthesis***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=3455106495990439366)]. \[[Preprint](https://www.chem.gla.ac.uk/cronin/images/pubs/rauschen-natsynthesisjan24.pdf)]. This paper presents an approach that uses a universal chemical programming language (χDL) to encode and execute synthesis procedures for a variety of chemical reactions, including reductive amination, ring formation, esterification, carbon–carbon bond formation and amide coupling on four different hardware systems in two laboratories. With around 50 lines of code per reaction, the approach uses abstraction to efficiently compress chemical protocols.
 
 ### Science Logology / Laboratory Automation
 
 *   [An autonomous portable platform for universal chemical synthesis](https://www.nature.com/articles/s41557-022-01016-w) - ***Nature Chemistry***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=4484997534431409967)]. \[[Preprint](https://eprints.gla.ac.uk/275574/)]. This paper presents a portable suitcase-sized chemical synthesis platform containing all the modules required for synthesis and purification. The system uses a chemical programming language coupled to a digital reactor generator to produce reactors and executable protocols based on text-based literature syntheses. Simultaneously, the platform generates a reaction pressure fingerprint, used to monitor processes within the reactors and remotely perform a protocol quality control.
 
-## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Data validation
 
 *   [zod (⭐30k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
-## [3. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/week/README.md)
+## [4. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/week/README.md)
 
 ### Data Grid
 
@@ -30,31 +40,31 @@
 *   [Cell formatting](https://getdataden.com/docs/grid/layout/custom-css/#cell-formatting-section) - Enhance your data grid with our versatile cell formatting options. Tailor each cell's appearance for clarity and impact, using colors, fonts, and styles that make your data speak volumes. Perfect for highlighting critical insights and personalizing your data view
 *   [Compact version](https://getdataden.com/docs/grid/layout/custom-css/) - Unlock the full potential of your data grid with advanced CSS customization. Style every aspect to match your brand or personal preference, from colors and fonts to layouts. Create a visually cohesive and highly functional data interface with ease.
 
-## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / WIP
 
 *   [lp586x](https://crates.io/crates/lp586x) - I2C/SPI - LED matrix driver ![crates.io](https://img.shields.io/crates/v/lp586x.svg)
 
-## [5. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [6. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Examples / Other editors
 
 *   [Regex Nodes (⭐27)](https://github.com/johannesvollmer/regex-nodes) - A [node-based visual editor for fiddling with regular expressions](https://johannesvollmer.com/regex-nodes/), built with Elm.
 
-## [6. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [7. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Tools / Helper tools to add annotations to existing code
 
 *   [no\_implicit\_optional (⭐72)](https://github.com/hauntsaninja/no_implicit_optional) - A codemod to make your implicit optional type hints [PEP 484](https://peps.python.org/pep-0484/#union-types) compliant.
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Menu Bar Tools
 
 *   [Ice (⭐810)](https://github.com/jordanbaird/Ice) - A free, open source, alternative to Bartender. Helps to hide menu items and gives options for different layouts. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Generative AI history, timelines, maps, and definitions
 
@@ -81,19 +91,19 @@
 
 *   [Co-Developer GPT engine (⭐4)](https://github.com/stoerr/CoDeveloperGPTengine) - local r/w file access and execute actions from an OpenAI GPT
 
-## [9. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [10. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### 3D Animation and Modeling Software
 
 *   [Shapr3D](https://www.shapr3d.com/education) \[FREE] - Create manufacturing-ready models true to design vision. Shapr3D's educational license is free for students, teachers and faculty members of accredited educational institutions. The license is valid for one year (365 days) and can be renewed once it expires.
 
-## [10. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
+## [11. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Tutorials / Getting Started
 
 *   [Development Tutorial Playlist by Phillip Mod Dev](https://www.youtube.com/playlist?list=PLLwCf-qdpyEnB_FO_1HkUFh7smwGNjAaC) - A series of videos going over the basics of libGDX.
 
-## [11. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [12. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Learning / Engine Development
 
@@ -113,7 +123,7 @@
 *   F#: Gui
     *   🎉 [Fabulous (⭐1.1k)](https://github.com/fabulous-dev/Fabulous) - Declarative UI framework for cross-platform apps.
 
-## [12. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [13. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Development Tools
 
@@ -127,13 +137,13 @@
 
 *   [wave (⭐2.3k)](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 
-## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### OS-specific / Diagnostics
 
 *   [m15a/flake-awesome-neovim-plugins (⭐30)](https://github.com/m15a/flake-awesome-neovim-plugins) - Nix flake that provides Awesome Neovim plugins collection as Nix packages.
 
-## [14. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [15. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Tools / Environment managers
 
@@ -147,31 +157,31 @@
 
 *   [tofutf (⭐26)](https://github.com/tofutf/tofutf) - Open-source alternative to Terraform Enterprise with SSO, team management, agents, etc.
 
-## [15. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [16. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Reddit
 
 *   [Redlib (⭐489)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in Libreddit.
 
-## [16. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [17. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Development and Design
 
 *   [Hieroglyphic (⭐33)](https://github.com/FineFindus/Hieroglyphic) - Application to search for LaTeX symbols by sketching.
 
-## [17. Awesome Orgs](/content/beansource/awesome-orgs/week/README.md)
+## [18. Awesome Orgs](/content/beansource/awesome-orgs/week/README.md)
 
 ### Web
 
 *   [0No Co](https://github.com/0no-co) - Elevating work through open source - specializing in building developer experience, web performance, GraphQL, and accessibility projects.
 
-## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [19. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
 *   [kftray (⭐384)](https://github.com/hcavarsan/kftray) - A cross-platform system tray app for managing and sharing multiple kubectl port-forward configurations. [![Build Status](https://github.com/hcavarsan/kftray/workflows/Release/badge.svg)](https://github.com/hcavarsan/kftray/actions)
 
-## [19. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [20. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -226,13 +236,13 @@
 *   [NDJSON (⭐628) (⭐626)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐307) (⭐305)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [20. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Data Science
 
 *   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
 
-## [21. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [22. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Node.js / Scala
 
@@ -246,7 +256,11 @@
 
 *   [Valkey (⭐9.3k)](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project.
 
-## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Code Generation
+
+*   [Cody AI](https://sourcegraph.com/cody) - Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster. Cody gives developers a choice of LLMs (including local inference), has support for various IDEs, supports all popular programming languages, and has a free plan. The free plan gives developers 20 chat messages (using Claude 3 Sonnet as the LLM) and 500 autocompletions (using the Starcoder 16b) each month.
 
 ### Messaging and Streaming
 
@@ -256,13 +270,17 @@
 
 *   [Sweego](https://www.sweego.io/) - European transactional emails API for developers. 500 emails/day free.
 
-## [23. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+### Low-code Platform
+
+*   [UI Bakery](https://uibakery.io) — Low-code platform that enables faster building of custom web applications. Supports building UI using drag and drop with a high level of customization through JavaScript, Python, and SQL. Available as both cloud and self-hosted solutions. Free for up to 5 users.
+
+## [24. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Rich text editor extensions
 
 *   [Wagtail Terms (⭐1)](https://github.com/smark-1/wagtailterms) - A plugin to add a glossary terms entity to the Draftail editor.
 
-## [24. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [25. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Tutorials & workshops
 
@@ -279,19 +297,19 @@
 *   [Polars is the Pandas killer | PyData Tel Aviv 2024](https://www.youtube.com/watch?v=sepiszMSvBs) ⏳ 22 min - A video that  shows how Polars is competing head to head with scale, speed and ease of use for dataframe solution in python by [Igor Mintz](https://www.linkedin.com/in/igormintz/?originalSubdomain=il).
 *   [Polars-Cookbook in Python (⭐31)](https://github.com/PacktPublishing/Polars-Cookbook) - Polars cookbook with organized by Python notebooks and chapter by [@StuffbyYuki](https://github.com/StuffbyYuki).
 
-## [25. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [26. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Desktop
 
 *   [WebDB (⭐99)](https://github.com/WebDB-App/app) – Web-based and open-source "efficient database IDE". Provides ERDs, data generators, an AI assistant, a NoSQL structure manager, a time machine, auto-completion and more
 
-## [26. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [27. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Markdown/Text Processors
 
 *   [cr-cmark-gfm (⭐20)](https://github.com/amauryt/cr-cmark-gfm) -  Crystal C bindings for cmark-gfm to work with Commonmark and Github Flavored Markdown
 
-## [27. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [28. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Learning
 
@@ -313,7 +331,7 @@
 
 *   [Wiki (Official)](https://wiki.nixos.org)
 
-## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Image Processing
 
@@ -328,7 +346,7 @@
 
 *   [extra-awesome-dotnet (⭐8)](https://github.com/ara3d/extra-awesome-dotnet) - Sorted lists of awesome .NET repositories, with counts of stars, issues, and forks!
 
-## [29. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [30. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### App Store
 
@@ -342,7 +360,7 @@
 
 *   [DebugSwift (⭐275)](https://github.com/DebugSwift/DebugSwift) - A comprehensive toolkit designed to simplify and enhance the debugging process for iOS applications.
 
-## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Go / Reinforcement learning
 
@@ -351,20 +369,26 @@
 ### Python / General-Purpose Machine Learning
 
 *   [XAD](https://pypi.org/project/xad/) -> Fast and easy-to-use backpropagation tool.
+*   [PyTorch Frame (⭐436)](https://github.com/pyg-team/pytorch-frame) -> A Modular Framework for Multi-Modal Tabular Learning.
+*   [PyTorch Geometric (⭐20k)](https://github.com/pyg-team/pytorch_geometric) -> Graph Neural Network Library for PyTorch.
 
-## [31. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [32. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Data Comparison
 
 *   [datacompy (⭐354)](https://github.com/capitalone/datacompy) - DataComPy is a Python library that facilitates the comparison of two DataFrames in pandas, Polars, Spark and more. The library goes beyond basic equality checks by providing detailed insights into discrepancies at both row and column levels.
 
-## [32. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [33. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+
+### Imagery
+
+*   🍰 [QrCodePlugin (⭐2)](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
 
 ### Social
 
 *   🍰 [Comments plugin (⭐1)](https://github.com/dereuromark/cakephp-comments) - Allows users to comment records, supporting different formats.
 
-## [33. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
+## [34. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
 
 ### Plugins / Community Plugins
 
@@ -373,25 +397,25 @@
 *   [@aparajita/capacitor-logger (⭐16)](https://github.com/aparajita/capacitor-logger) – Better logging for the web and native Ionic/Capacitor apps.
 *   [@aparajita/capacitor-secure-storage (⭐82)](https://github.com/aparajita/capacitor-secure-storage) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore.
 
-## [34. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [35. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Tutorials / Hardware Offload
 
 *   [Catch Performance Regressions in eBPF](https://bencher.dev/docs/explanation/talks/#linuxcon-2023-12-may-23) - A step-by-step guide to benchmarking both the client and kernel eBPF code written in Rust.
 
-## [35. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [36. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tools
 
 *   [aar-doc - Automated Ansible Role Documentation (⭐8)](https://github.com/telekom-mms/Automated-Ansible-Role-Documentation) - Generate documentation automatically from an Ansible role's metadata.
 
-## [36. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [37. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Development Environment / Other
 
 *   [ESP32 Linux - Docker builder (⭐27)](https://github.com/hpsaturn/esp32s3-linux) - Container solution to compile Linux and develop it for ESP32 microcontrollers - By [@Hpsaturn](https://github.com/hpsaturn)
 
-## [37. Awesome Internships](/content/lodthe/awesome-internships/week/README.md)
+## [38. Awesome Internships](/content/lodthe/awesome-internships/week/README.md)
 
 ### Where to apply
 
@@ -404,7 +428,7 @@
 *   [Resume.io](https://resume.io/) - A platform for building a resume.
 *   [Simplify](https://simplify.jobs/resume-builder) - AI resume builder designed for job seekers.
 
-## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
@@ -418,7 +442,7 @@
 
 *   [Wagyu (⭐160)](https://github.com/mapbox/wagyu) - A general library for geometry operations of union, intersections, difference, and xor. \[mapbox-wagyu original]
 
-## [39. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [40. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

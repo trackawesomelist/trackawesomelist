@@ -6,6 +6,13 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 [ Daily / [Weekly](/content/josephmisiti/awesome-machine-learning/week/README.md) / [Overview](/content/josephmisiti/awesome-machine-learning/readme/README.md) ]
 
+## [Apr 12, 2024](/content/2024/04/12/README.md)
+
+### Python / General-Purpose Machine Learning
+
+*   [PyTorch Frame (⭐436)](https://github.com/pyg-team/pytorch-frame) -> A Modular Framework for Multi-Modal Tabular Learning.
+*   [PyTorch Geometric (⭐20k)](https://github.com/pyg-team/pytorch_geometric) -> Graph Neural Network Library for PyTorch.
+
 ## [Apr 09, 2024](/content/2024/04/09/README.md)
 
 ### Go / Reinforcement learning
@@ -59,7 +66,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Tools / Misc
 
-*   [Infinity (⭐1.3k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
+*   [Infinity (⭐1.5k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
 
 ## [Dec 07, 2023](/content/2023/12/07/README.md)
 
@@ -233,7 +240,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Tools / Misc
 
-*   [txtai (⭐6.8k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
+*   [txtai (⭐6.9k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
 
 ## [Sep 25, 2022](/content/2022/09/25/README.md)
 
@@ -612,7 +619,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Intel® oneAPI Data Analytics Library (⭐589)](https://github.com/oneapi-src/oneDAL) - A high performance software library developed by Intel and optimized for Intel's architectures. Library provides algorithmic building blocks for all stages of data analytics and allows to process data in batch, online and distributed modes.
+*   [Intel® oneAPI Data Analytics Library (⭐593)](https://github.com/oneapi-src/oneDAL) - A high performance software library developed by Intel and optimized for Intel's architectures. Library provides algorithmic building blocks for all stages of data analytics and allows to process data in batch, online and distributed modes.
 
 ### JavaScript / Demos and Scripts
 
@@ -756,7 +763,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Go / General-Purpose Machine Learning
 
-*   [go-featureprocessing (⭐109)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
+*   [go-featureprocessing (⭐112)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
 
 ## [Dec 14, 2020](/content/2020/12/14/README.md)
 
@@ -868,7 +875,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### C++ / Computer Vision
 
-*   [VIGRA (⭐400)](https://github.com/ukoethe/vigra) - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
+*   [VIGRA (⭐402)](https://github.com/ukoethe/vigra) - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
 
 ### .NET / General-Purpose Machine Learning
 
@@ -1134,7 +1141,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Ruby / General-Purpose Machine Learning
 
-*   [rumale (⭐734)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
+*   [rumale (⭐737)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
 
 ## [Apr 11, 2020](/content/2020/04/11/README.md)
 
@@ -1287,7 +1294,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Go / Computer vision
 
-*   [GoCV (⭐6.2k)](https://github.com/hybridgroup/gocv) - Package for computer vision using OpenCV 4 and beyond.
+*   [GoCV (⭐6.3k)](https://github.com/hybridgroup/gocv) - Package for computer vision using OpenCV 4 and beyond.
 
 ### Data Analysis / Data Visualization / Data Analysis / Data Visualization
 
@@ -1682,8 +1689,8 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 *   [go-pr (⭐62)](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang. **\[Deprecated]**
 *   [go-ml (⭐202)](https://github.com/alonsovidales/go_ml) - Linear / Logistic regression, Neural Networks, Collaborative Filtering and Gaussian Multivariate Distribution. **\[Deprecated]**
 *   [bayesian (⭐784)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang. **\[Deprecated]**
-*   [go-galib (⭐198)](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / Golang. **\[Deprecated]**
-*   [Cloudforest (⭐735)](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in Go/Golang. **\[Deprecated]**
+*   [go-galib (⭐199)](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / Golang. **\[Deprecated]**
+*   [Cloudforest (⭐734)](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in Go/Golang. **\[Deprecated]**
 
 ### Go / Data Analysis / Data Visualization
 
@@ -1926,7 +1933,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 ### Ruby / Natural Language Processing
 
 *   [Treat (⭐1.4k)](https://github.com/louismullie/treat) - Text Retrieval and Annotation Toolkit, definitely the most comprehensive toolkit I’ve encountered so far for Ruby.
-*   [Stemmer (⭐252)](https://github.com/aurelian/ruby-stemmer) - Expose libstemmer\_c to Ruby. **\[Deprecated]**
+*   [Stemmer (⭐251)](https://github.com/aurelian/ruby-stemmer) - Expose libstemmer\_c to Ruby. **\[Deprecated]**
 *   [Twitter-text-rb (⭐3.1k)](https://github.com/twitter/twitter-text/tree/master/rb) - A library that does auto linking and extraction of usernames, lists and hashtags in tweets.
 
 ### Ruby / General-Purpose Machine Learning
@@ -2162,7 +2169,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Go / General-Purpose Machine Learning
 
-*   [eaopt (⭐872)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
+*   [eaopt (⭐873)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
@@ -2336,7 +2343,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Go / Natural Language Processing
 
-*   [sentences (⭐413)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
+*   [sentences (⭐417)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
 ## [Dec 18, 2017](/content/2017/12/18/README.md)
 
@@ -2364,7 +2371,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 ### Python / General-Purpose Machine Learning
 
 *   [Shogun (⭐3k)](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox.
-*   [XGBoost (⭐25k)](https://github.com/dmlc/xgboost) - Python bindings for eXtreme Gradient Boosting (Tree) Library.
+*   [XGBoost (⭐26k)](https://github.com/dmlc/xgboost) - Python bindings for eXtreme Gradient Boosting (Tree) Library.
 *   [Bayesian Methods for Hackers (⭐26k)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Book/iPython notebooks on Probabilistic Programming in Python.
 *   [Featureforge (⭐381)](https://github.com/machinalis/featureforge) A set of tools for creating and testing machine learning features, with a scikit-learn compatible API.
 *   [thinking bayes (⭐1.6k)](https://github.com/AllenDowney/ThinkBayes) - Book on Bayesian Analysis.
@@ -2396,7 +2403,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Go / General-Purpose Machine Learning
 
-*   [gobrain (⭐550)](https://github.com/goml/gobrain) - Neural Networks written in Go.
+*   [gobrain (⭐552)](https://github.com/goml/gobrain) - Neural Networks written in Go.
 
 ### Java / General-Purpose Machine Learning
 
@@ -2532,7 +2539,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Ruby / General-Purpose Machine Learning
 
-*   [Awesome Machine Learning with Ruby (⭐2k)](https://github.com/arbox/machine-learning-with-ruby) - Curated list of ML related resources for Ruby.
+*   [Awesome Machine Learning with Ruby (⭐2.1k)](https://github.com/arbox/machine-learning-with-ruby) - Curated list of ML related resources for Ruby.
 *   [rb-libsvm (⭐278)](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM which is a Library for Support Vector Machines.
 
 ### Ruby / Data Analysis / Data Visualization
@@ -3115,7 +3122,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Python / Computer Vision
 
-*   [Vigranumpy (⭐400)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
+*   [Vigranumpy (⭐402)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
 
 ## [May 02, 2015](/content/2015/05/02/README.md)
 
@@ -3351,7 +3358,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Ruby / Data Analysis / Data Visualization
 
-*   [Bioruby (⭐375)](https://github.com/bioruby/bioruby)
+*   [Bioruby (⭐376)](https://github.com/bioruby/bioruby)
 
 ### Ruby / Misc
 
