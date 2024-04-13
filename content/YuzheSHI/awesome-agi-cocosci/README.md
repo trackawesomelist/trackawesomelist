@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Apr 13, 2024](/content/2024/04/13/README.md)
+
+### Science Logology / Laboratory Automation
+
+*   [An autonomous laboratory for the accelerated synthesis of novel materials](https://www.nature.com/articles/s41586-023-06734-w) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17944003281308189532)]. This paper introduces the A-Lab, an autonomous laboratory for the solid-state synthesis of inorganic powders. This platform uses computations, historical data from the literature, machine learning (ML) and active learning to plan and interpret the outcomes of experiments performed using robotics. Over 17 days of continuous operation, the A-Lab realized 41 novel compounds from a set of 58 targets including a variety of oxides and phosphates that were identified using large-scale ab initio phase-stability data from the Materials Project and Google DeepMind.
+
 ## [Apr 12, 2024](/content/2024/04/12/README.md)
 
 ### Domain Specific Language / Domain Specified Applications
@@ -602,7 +608,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Paper Writing
 
-*   [BibTex Template](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/README.md/BibTex/references_header.bib) - ***BibTex***. BibTex template for including abbreviations of journals and conferences in AI, Mathematics, and Cognitive Sciences.
+*   [BibTex Template](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/BibTex/references_header.bib) - ***BibTex***. BibTex template for including abbreviations of journals and conferences in AI, Mathematics, and Cognitive Sciences.
 *   [bioRender](https://www.biorender.com/) - ***bioRender***. Create professional science figures in minutes by browsing thousands of pre-made icons and templates from more than 30 fields of life sciences.
 
 ### Concepts / Human Concept Representation
@@ -1098,7 +1104,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Paper Writing
 
-*   [LaTex Configuration](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/README.md/LaTex/config.sty) - ***LaTex***. LaTex template for configuration file with elegant reference style (gray-colored reference, page backward reference).
+*   [LaTex Configuration](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/LaTex/config.sty) - ***LaTex***. LaTex template for configuration file with elegant reference style (gray-colored reference, page backward reference).
 
 ### Knowledge Management
 
