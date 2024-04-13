@@ -6,6 +6,12 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 [ Daily / [Weekly](/content/AchoArnold/discount-for-student-dev/week/README.md) / [Overview](/content/AchoArnold/discount-for-student-dev/readme/README.md) ]
 
+## [Apr 13, 2024](/content/2024/04/13/README.md)
+
+### SaaS
+
+*   [Tabula](https://docs.tabula.io/getting-started/plans-and-subscriptions/tabula-for-education) \[DISCOUNT] - Tabula.io is a modern no-code data analytics and visualisation tool. Students get 60% permanent discount on Tabula Solo plan.
+
 ## [Apr 11, 2024](/content/2024/04/11/README.md)
 
 ### 3D Animation and Modeling Software

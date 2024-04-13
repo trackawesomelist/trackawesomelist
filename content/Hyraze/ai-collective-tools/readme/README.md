@@ -2,7 +2,7 @@
 
 Explore a curated selection of AI tools and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 78 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 83 · 🏷️ Computer Science
 
 [ [Daily](/content/Hyraze/ai-collective-tools/README.md) / [Weekly](/content/Hyraze/ai-collective-tools/week/README.md) / Overview ]
 
@@ -12,7 +12,7 @@ Explore a curated selection of AI tools and resources
 
 > Explore a curated selection of AI tools and resources.
 
-We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐78)](https://github.com/Hyraze/ai-collective-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐78)](https://github.com/Hyraze/ai-collective-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
+We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐83)](https://github.com/Hyraze/ai-collective-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐83)](https://github.com/Hyraze/ai-collective-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Hyraze/ai-collective-tools)
@@ -172,6 +172,7 @@ Use these hashtags in search to filter out the tools
 *   [ChatGPT](https://chat.openai.com/chat) - ChatGPT by OpenAI is a large language model that interacts in a conversational way. `#freemium`
 *   [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF. `#free`
 *   [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation. `#freemium`
+*   [Earkick](https://earkick.com/chat) - a virtual mental health trained chatbot
 *   [MediSearch](https://medisearch.io) - This tool is a medical AI chatbot which gives you direct science-based answers to medical questions `#free`
 *   [Phind](https://www.phind.com/) - An AI-powered coding and technical assistant, making complex tasks simpler. `#freemium`
 *   [Smitty](https://www.smitty.ai/) - Streamlining processes and providing agile, efficient responses to your unique business needs. `#freemium`
@@ -247,15 +248,23 @@ Use these hashtags in search to filter out the tools
 ## Design Generator
 
 *   [Book Witch](https://bookwitch.io/) - Use the power of AI to create complete e-books with just one click! `#freemium`
+
 *   [Canva](https://www.canva.com/) - Use it to create social media posts, presentations, posters, videos, logos and more. `#freemium`
+
 *   [Designs AI](https://designs.ai/) - Make a logo, video, social media banner, business card, flyer, mockup and more with AI. `#freemium`
+
 *   [Galileo AI](https://www.usegalileo.ai/explore) -Galileo AI is a UI generation platform for easy and fast design ideation.Generative AI for user interface design, empowering you to design beyond imagination with speed . `#freemium`
+
+*   [Fly.io](https://openui.fly.dev/ai/) - Generate a modal popup for user feedback, including text area and submit button. Create a sticky header that becomes visible when scrolling up and hides on,It also convert our screenshot to UI/UX designs. `free`
+
 *   [Stream Slides](https://streamslide.io/) - YouTube Video to Slides Converter. `#free`
+
 *   [svg.io](https://svg.io) - The power of AI with our Free Text-to-SVG Generator! Effortlessly convert your text prompts into stunning SVG images using our advanced AI technology. `free`
 
 ## Developer
 
 *   [Mintlify](https://mintlify.com/) - Mintlify: Streamline code documentation with one-click automation for developers, enhancing code clarity and saving time. `#freemium`
+*   [Floom (⭐19)](https://github.com/FloomAI/Floom) - AI gateway and marketplace for developers, enables streamlined integration of AI features into products. `#opensource`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -479,6 +488,7 @@ Use these hashtags in search to filter out the tools
 
 ## Models
 
+*   [AI/ML API](https://aimlapi.com) - One API, 100+ AI Models, Accessible 24/7. `#opensource``#freemium``#paid`
 *   [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3
 *   [Claude 2](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic. `#paid`
 *   [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model. `#free`
@@ -488,7 +498,7 @@ Use these hashtags in search to filter out the tools
 *   [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. `#opensource` `#free`
 *   [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code. `#freemium`
 *   [OPT](https://opt.alpa.ai/) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. `#opensource` `#free`
-*   [Qwen (⭐9.7k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
+*   [Qwen (⭐11k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
 *   [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -529,6 +539,7 @@ Use these hashtags in search to filter out the tools
 *   [Accountabilabuddy](https://www.summit.im/accountabilabuddy) - Sends simple text reminders to help you stay on track and achieve your objectives. `#free`
 *   [DigestDiff](https://www.digestdiff.com/) - Codebase Insights Without Code Access with DigestDiff `#free`
 *   [Glimpse](https://glimpse.surf/) - Seamless browsing experience with conversation, writing, and editing assistance `#free`
+*   [Happy Copy](https://www.hoppycopy.co/) - Use AI to create powerful content for hundreds of different email campaigns, drips, newsletters and more—in seconds
 *   [Message AI](https://apps.apple.com/us/app/message-ai-gpt-tts/id6448740961) - Transform Text to Speech with Natural Accuracy `#paid`
 *   [Notion](https://www.notion.so/product/ai/) - Access the limitless power of AI, right inside Notion. Work faster. Write better. Think bigger. `#paid`
 *   [Posylanki](https://www.posylanki.live/) - Streamline Web Content Management & Enhance Browsing Experience `#free`
@@ -719,6 +730,7 @@ Use these hashtags in search to filter out the tools
 *   [Roam Around](https://www.roamaround.io/) - Find interesting and fun places to visit `#free`
 *   [Travelnaut](https://travelnaut.com/) - Find travel information on attractions, food, culture, and more in one place to prepare the next trip of your dreams `#free`
 *   [WanderGenie](https://www.wandergenie.app/) - Transform the way you explore the world. `#free`
+*   [WonderPlan](https://wonderplan.ai/) - Your personal trip planner and travel curator, creating custom itineraries tailored to your interests and budget. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -734,6 +746,7 @@ Use these hashtags in search to filter out the tools
 *   [Chromox](https://chromox.alkaidvision.com/) - Transforming Ideas into Visual Stories. `#free`
 *   [D-ID](https://www.d-id.com/) - D-ID is a platform to generate videos. `#freemium`
 *   [FabDream AI](https://www.fabdream.art/) - Discover the world of Ai digital art through the lens of Swiss-based artist Fabio Comparelli aka fabdream. Immerse yourself in visually stunning Quality videos. `#freemium`
+*   [Fliki.ai](https://fliki.ai/) - Your AI partner for video creation. Create a video from text, voice or image. `#freemium`
 *   [Heygen](https://www.heygen.com/) - Create videos from text in minutes with AI-generated avatars and voices. `#freemium`
 *   [Invideo](https://invideo.io/) - InVideo simplifies video creation with ready-made templates. `#freemium`
 *   [Pictory AI](https://pictory.ai/) - Pictory AI is a video creation tool that makes it effortless to produce short videos from your long-form content like scripts, posts `#paid`

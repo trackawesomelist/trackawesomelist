@@ -8,6 +8,10 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 ## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
 
+### SaaS
+
+*   [Tabula](https://docs.tabula.io/getting-started/plans-and-subscriptions/tabula-for-education) \[DISCOUNT] - Tabula.io is a modern no-code data analytics and visualisation tool. Students get 60% permanent discount on Tabula Solo plan.
+
 ### 3D Animation and Modeling Software
 
 *   [Shapr3D](https://www.shapr3d.com/education) \[FREE] - Create manufacturing-ready models true to design vision. Shapr3D's educational license is free for students, teachers and faculty members of accredited educational institutions. The license is valid for one year (365 days) and can be renewed once it expires.

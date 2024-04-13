@@ -765,7 +765,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### Viewers
 
-*   [egjs-flicking (⭐2.6k)](https://github.com/naver/egjs-flicking/tree/master/packages/ngx-flicking) - It's reliable, flexible and extendable carousel for Angular.
+*   [egjs-flicking (⭐2.7k)](https://github.com/naver/egjs-flicking/tree/master/packages/ngx-flicking) - It's reliable, flexible and extendable carousel for Angular.
 *   [ng2-pdf-viewer (⭐1.3k)](https://github.com/VadimDez/ng2-pdf-viewer) PDF viewer component
 *   [ng2-safe-img (⭐9)](https://github.com/hyzhak/ng2-safe-img) Very tiny and safe img for Angular 2
 *   [ngu-carousel (⭐322)](https://github.com/sheikalthaf/ngu-carousel) - Angular Universal carousel.
@@ -773,7 +773,9 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### Misc Components
 
+*   [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, Twitter Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀
 *   [@ngx-context (⭐134)](https://github.com/ng-turkey/ngx-context) - Angular Context: Easy property binding for router outlet and nested component trees..
+*   [@ngx-meta/core (⭐335)](https://github.com/fulls1z3/ngx-meta) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
 *   [Angular SizeObserver](https://gitlab.com/service-work/size-observer) - style DOM elements based on their display size (rather than browser screen size).
 *   [angular2-simple-countdown (⭐27)](https://github.com/previousdeveloper/angular2-simple-countdown) - a simple countdown angular2 directive with multiple language
 *   [ng-chat (⭐153)](https://github.com/rpaschoal/ng-chat) - A simple facebook/linkedin lookalike chat module for Angular applications
@@ -787,9 +789,8 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [@ngneat/transloco (⭐1.9k)](https://github.com/ngneat/transloco) - 🚀 😍 The internationalization (i18n) library for Angular
 *   [ngx-i18n-router (⭐35)](https://github.com/fulls1z3/ngx-i18n-router) - Route internationalization utility for Angular by @fulls1z3
 *   [ngx-linkifyjs (⭐40)](https://github.com/AnthonyNahas/ngx-linkifyjs) - Angular V6 wrapper for linkifyjs - library for finding links in plain text and converting them to HTML <a> tags via linkifyjs
-*   [ngx-meta (⭐335)](https://github.com/fulls1z3/ngx-meta) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
 *   [ngx-wheel (⭐28)](https://github.com/Sayegh7/ngx-wheel) - Angular prize winning wheel component!
-*   [@tolgee/ngx (⭐210)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
+*   [@tolgee/ngx (⭐214)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
 *   [xng-breadcrumb (⭐229)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
 *   [ng-let (⭐44)](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
 *   [ng-for-track-by-property (⭐29)](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
@@ -829,7 +830,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 *   [TypeScript](https://www.typescriptlang.org/) Official Website for TypeScript
 *   [REPL](https://www.typescriptlang.org/play/) Official TypeScript REPL that runs entirely in your browser
-*   [TypeScript Repository (GitHub) (⭐97k)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
+*   [TypeScript Repository (GitHub) (⭐98k)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
 *   [DefinitelyTyped Repository (GitHub) (⭐47k)](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
 
 #### TypeScript Seed Projects
@@ -1087,7 +1088,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 ##### Bit Resources
 
-*   [Bit (⭐17k)](https://github.com/teambit/bit)
+*   [Bit (⭐18k)](https://github.com/teambit/bit)
 *   [Bit-Javascript (⭐38)](https://github.com/teambit/bit-javascript)
 *   [bitsrc](https://bitsrc.io/) - Free community hub for sharing, managing and finding open source components.
 

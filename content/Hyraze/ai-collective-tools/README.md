@@ -2,9 +2,39 @@
 
 Explore a curated selection of AI tools and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 78 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 83 · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/Hyraze/ai-collective-tools/week/README.md) / [Overview](/content/Hyraze/ai-collective-tools/readme/README.md) ]
+
+## [Apr 13, 2024](/content/2024/04/13/README.md)
+
+### Chatbots
+
+*   [Earkick](https://earkick.com/chat) - a virtual mental health trained chatbot
+
+### Design Generator
+
+*   [Fly.io](https://openui.fly.dev/ai/) - Generate a modal popup for user feedback, including text area and submit button. Create a sticky header that becomes visible when scrolling up and hides on,It also convert our screenshot to UI/UX designs. `free`
+
+### Developer
+
+*   [Floom (⭐19)](https://github.com/FloomAI/Floom) - AI gateway and marketplace for developers, enables streamlined integration of AI features into products. `#opensource`
+
+### Models
+
+*   [AI/ML API](https://aimlapi.com) - One API, 100+ AI Models, Accessible 24/7. `#opensource``#freemium``#paid`
+
+### Productivity
+
+*   [Happy Copy](https://www.hoppycopy.co/) - Use AI to create powerful content for hundreds of different email campaigns, drips, newsletters and more—in seconds
+
+### Travel
+
+*   [WonderPlan](https://wonderplan.ai/) - Your personal trip planner and travel curator, creating custom itineraries tailored to your interests and budget. `#free`
+
+### Video Generator
+
+*   [Fliki.ai](https://fliki.ai/) - Your AI partner for video creation. Create a video from text, voice or image. `#freemium`
 
 ## [Mar 12, 2024](/content/2024/03/12/README.md)
 
@@ -308,7 +338,7 @@ Explore a curated selection of AI tools and resources
 
 ### Models
 
-*   [Qwen (⭐9.7k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
+*   [Qwen (⭐11k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
 
 ### Spreadsheets
 

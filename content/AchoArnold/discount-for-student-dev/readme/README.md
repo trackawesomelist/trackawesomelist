@@ -167,6 +167,8 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 
 *   [Twilio](https://www.twilio.com/blog/twilio-perks-students-and-educators-now-available-github-education)\[CREDIT] - Free $50 USD in Twilio API credits & Exclusive in-game items in TwilioQuest for student via [Github Student Developer Pack](https://education.github.com/pack).
 
+*   [Tabula](https://docs.tabula.io/getting-started/plans-and-subscriptions/tabula-for-education) \[DISCOUNT] - Tabula.io is a modern no-code data analytics and visualisation tool. Students get 60% permanent discount on Tabula Solo plan.
+
 ## PaaS
 
 *   [Amazon Web Services](https://www.awseducate.com/application) \[FREE] - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.

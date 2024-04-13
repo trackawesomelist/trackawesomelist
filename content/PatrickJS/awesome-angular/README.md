@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Apr 13, 2024](/content/2024/04/13/README.md)
+
+### Misc Components / Components
+
+*   [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, Twitter Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀
+*   [@ngx-meta/core (⭐335)](https://github.com/fulls1z3/ngx-meta) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
+
 ## [Mar 30, 2024](/content/2024/03/30/README.md)
 
 ### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -171,7 +178,7 @@
 
 ### Misc Components / Components
 
-*   [@tolgee/ngx (⭐210)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
+*   [@tolgee/ngx (⭐214)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
 *   [ng-let (⭐44)](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
 *   [ng-for-track-by-property (⭐29)](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
 
@@ -580,7 +587,7 @@
 
 ### Viewers / Components
 
-*   [egjs-flicking (⭐2.6k)](https://github.com/naver/egjs-flicking/tree/master/packages/ngx-flicking) - It's reliable, flexible and extendable carousel for Angular.
+*   [egjs-flicking (⭐2.7k)](https://github.com/naver/egjs-flicking/tree/master/packages/ngx-flicking) - It's reliable, flexible and extendable carousel for Angular.
 *   [ng2-pdf-viewer (⭐1.3k)](https://github.com/VadimDez/ng2-pdf-viewer) PDF viewer component
 *   [ng2-safe-img (⭐9)](https://github.com/hyzhak/ng2-safe-img) Very tiny and safe img for Angular 2
 *   [ngu-carousel (⭐322)](https://github.com/sheikalthaf/ngu-carousel) - Angular Universal carousel.
@@ -601,7 +608,6 @@
 *   [ngx-countdown (⭐191)](https://github.com/cipchk/ngx-countdown) - Simple, easy and performance countdown for angular
 *   [ngx-i18n-router (⭐35)](https://github.com/fulls1z3/ngx-i18n-router) - Route internationalization utility for Angular by @fulls1z3
 *   [ngx-linkifyjs (⭐40)](https://github.com/AnthonyNahas/ngx-linkifyjs) - Angular V6 wrapper for linkifyjs - library for finding links in plain text and converting them to HTML <a> tags via linkifyjs
-*   [ngx-meta (⭐335)](https://github.com/fulls1z3/ngx-meta) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
 *   [ngx-wheel (⭐28)](https://github.com/Sayegh7/ngx-wheel) - Angular prize winning wheel component!
 *   [xng-breadcrumb (⭐229)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
 
@@ -1137,7 +1143,7 @@
 
 ### Bit Resources / Components
 
-*   [Bit (⭐17k)](https://github.com/teambit/bit)
+*   [Bit (⭐18k)](https://github.com/teambit/bit)
 *   [Bit-Javascript (⭐38)](https://github.com/teambit/bit-javascript)
 
 ## [May 20, 2017](/content/2017/05/20/README.md)
@@ -1636,7 +1642,7 @@
 
 ### TypeScript General Resources / Components
 
-*   [TypeScript Repository (GitHub) (⭐97k)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
+*   [TypeScript Repository (GitHub) (⭐98k)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
 
 ### Dart General Resources / Components
 
