@@ -2,7 +2,7 @@
 
 null
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 1.1K · 🏷️ Work
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 1.2K · 🏷️ Work
 
 [ [Daily](/content/tramcar/awesome-job-boards/README.md) / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / Overview ]
 
@@ -17,6 +17,7 @@ A curated list of awesome niche job boards.
 *   [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 *   [Big Data](#big-data)
 *   [Blockchain](#blockchain)
+*   [Database](#database)
 *   [Design](#design)
 *   [DevOps](#devops)
 *   [eCommerce](#ecommerce)
@@ -51,7 +52,6 @@ A curated list of awesome niche job boards.
 ## Blockchain
 
 *   [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs
-*   [Crypto Jobs](https://www.cryptojobs.co/) - CryptoJobs.co is the web's fastest growing crypto jobs discovery platform
 *   [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - The leading job board for blockchain and cryptocurrency jobs
 *   [Blockchain Works](https://blockchain.works-hub.com/) - Discover **the best** Blockchain opportunities and articles with **Blockchain Works**
 *   [Web3 Jobs](https://web3.career) - Looking for a web3 job? Web3 Jobs has 8,387+ web3 remote and offline jobs as Web3 Developer, Smart Contract Developer, Solidity Developer and much more. Switch your career to Web3 and join the future!
@@ -63,6 +63,11 @@ A curated list of awesome niche job boards.
 ## Cloud
 
 *   [CNCF Job Board](https://jobs.cncf.io/) - Kubernetes and cloud native jobs
+*   [Cloud Careers Hub](https://cloudcareershub.com/) - Job board for all roles related to Cloud Computing & Artificial Intelligence
+
+## Database
+
+*   [Webscale Jobs](https://www.webscale.work/) - Find a career working with MongoDB
 
 ## Design
 
@@ -106,7 +111,6 @@ A curated list of awesome niche job boards.
 
 *   [findwork.dev](https://findwork.dev/)
 *   [Levels.fyi](https://www.levels.fyi/jobs)
-*   [Dev Employ](https://devemploy.com/) - Hand-picked developer jobs
 
 ### Clojure
 
@@ -115,7 +119,6 @@ A curated list of awesome niche job boards.
 ### Functional
 
 *   [FunctionalJobs.dev](https://functionaljobs.dev/) - Highly active job board for functional programming enthusiasts
-*   [Functional Jobs](https://www.functionaljobs.com/) - Job board for functional programmers
 *   [Functional Works](https://functional.works-hub.com/) - Discover local and remote functional programming opportunities
 
 ### Go
@@ -159,7 +162,6 @@ A curated list of awesome niche job boards.
 
 ### Ruby
 
-*   [RubyNow](https://jobs.rubynow.com/)
 *   [RubyOnRemote](https://rubyonremote.com) - Remote jobs for Ruby developers
 
 ### Rust
@@ -171,6 +173,10 @@ A curated list of awesome niche job boards.
 ### Scala
 
 *   [Scala Jobs](https://scalajobs.com)
+
+### Java
+
+*   [JavaProHire](https://javaprohire.com/) - A job board crafted with a laser focus on Java developers
 
 ### TypeScript
 
@@ -208,7 +214,6 @@ A curated list of awesome niche job boards.
 
 *   [Relocate.me](https://relocate.me/) - Verified relocation packages
 *   [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
-*   [Fossfox](https://fossfox.com/) - Opportunities to work with companies that embrace open-source
 
 ### Canada
 

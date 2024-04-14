@@ -1,8 +1,22 @@
 # Track Awesome Job Boards Updates Daily
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 1.1K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 1.2K · 🏷️ Work
 
 [ Daily / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
+
+## [Apr 14, 2024](/content/2024/04/14/README.md)
+
+### Cloud
+
+*   [Cloud Careers Hub](https://cloudcareershub.com/) - Job board for all roles related to Cloud Computing & Artificial Intelligence
+
+### Database
+
+*   [Webscale Jobs](https://www.webscale.work/) - Find a career working with MongoDB
+
+### Programming / Java
+
+*   [JavaProHire](https://javaprohire.com/) - A job board crafted with a laser focus on Java developers
 
 ## [Feb 28, 2024](/content/2024/02/28/README.md)
 
@@ -58,12 +72,6 @@
 
 *   [eComPortal](https://www.ecomportal.co/) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available.
 
-## [Jul 21, 2023](/content/2023/07/21/README.md)
-
-### Programming / Aggregator
-
-*   [Dev Employ](https://devemploy.com/) - Hand-picked developer jobs
-
 ## [Jul 15, 2023](/content/2023/07/15/README.md)
 
 ### Big Data
@@ -73,10 +81,6 @@
 ### Blockchain
 
 *   [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs
-
-### Tech / Aggregator
-
-*   [Fossfox](https://fossfox.com/) - Opportunities to work with companies that embrace open-source
 
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
@@ -158,7 +162,6 @@
 
 ### Blockchain
 
-*   [Crypto Jobs](https://www.cryptojobs.co/) - CryptoJobs.co is the web's fastest growing crypto jobs discovery platform
 *   [Remote Web3 Jobs](https://remote3.co) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free
 
 ### Programming / JavaScript
@@ -300,12 +303,6 @@
 ### Gaming
 
 *   [Work With Indies](https://www.workwithindies.com) - A single place find all the cool jobs in indie games
-
-## [Oct 16, 2020](/content/2020/10/16/README.md)
-
-### Programming / Functional
-
-*   [Functional Jobs](https://www.functionaljobs.com/) - Job board for functional programmers
 
 ## [Oct 01, 2020](/content/2020/10/01/README.md)
 
@@ -482,12 +479,6 @@
 ### Tech / Europe
 
 *   [Landing.jobs](https://landing.jobs/?utm_source=github\&utm_medium=referral\&utm_content=whfio\&utm_campaign=post)
-
-## [Sep 16, 2016](/content/2016/09/16/README.md)
-
-### Programming / Ruby
-
-*   [RubyNow](https://jobs.rubynow.com/)
 
 ## [Sep 03, 2015](/content/2015/09/03/README.md)
 

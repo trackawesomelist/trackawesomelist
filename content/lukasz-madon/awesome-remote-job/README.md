@@ -6,6 +6,12 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 [ Daily / [Weekly](/content/lukasz-madon/awesome-remote-job/week/README.md) / [Overview](/content/lukasz-madon/awesome-remote-job/readme/README.md) ]
 
+## [Apr 14, 2024](/content/2024/04/14/README.md)
+
+### Job boards
+
+*   [JavaProHire](https://javaprohire.com/) - Java developer jobs
+
 ## [Apr 02, 2024](/content/2024/04/02/README.md)
 
 ### Job boards
@@ -83,7 +89,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Job boards
 
-*   [Java Jobs](https://javajobs.pro/remote/jobs) - Remote Java Jobs
 *   [PyJobs.com](https://www.pyjobs.com/?remoteLevel\[0]=1\&remoteLevel\[1]=2) - Jobs for Python developers
 *   [Remotewide](https://remotewide.co/) - Find remote jobs with location independent pay
 

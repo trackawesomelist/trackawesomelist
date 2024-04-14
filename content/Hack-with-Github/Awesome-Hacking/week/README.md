@@ -15,6 +15,11 @@ A collection of various awesome lists for hackers, pentesters and security resea
   Description: This is a list of hacking research in the 3G/4G/5G cellular security space.
 
 
+- Repository: [Web3 Security (⭐1.1k)](https://github.com/Anugrahsr/Awesome-web3-Security)
+
+  Description: A curated list of web3 Security materials and resources For Pentesters and Bug Hunters.
+
+
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 

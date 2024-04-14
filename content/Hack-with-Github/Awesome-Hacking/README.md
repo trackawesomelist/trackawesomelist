@@ -6,6 +6,16 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 [ Daily / [Weekly](/content/Hack-with-Github/Awesome-Hacking/week/README.md) / [Overview](/content/Hack-with-Github/Awesome-Hacking/readme/README.md) ]
 
+## [Apr 14, 2024](/content/2024/04/14/README.md)
+
+### Awesome Repositories
+
+- Repository: [Web3 Security (⭐1.1k)](https://github.com/Anugrahsr/Awesome-web3-Security)
+
+  Description: A curated list of web3 Security materials and resources For Pentesters and Bug Hunters.
+
+
+
 ## [Apr 13, 2024](/content/2024/04/13/README.md)
 
 ### Awesome Repositories
