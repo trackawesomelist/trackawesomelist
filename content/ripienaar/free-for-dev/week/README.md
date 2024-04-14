@@ -11,6 +11,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [Doppio](https://doppio.sh/) — Managed API to generate and privately store PDFs and Screenshots using top rendering technology. The free plan allows 400 PDFs and Screenshots per month.
+*   [PDF-API.io](https://pdf-api.io) - PDF Automation API, visual template editor or HTML to PDF, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.
 
 ### Code Generation
 
@@ -24,6 +25,11 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Log Management
 
 *   [ManageEngine Log360 Cloud](https://www.manageengine.com/cloud-siem/) — Log Management service powered by Manage Engine. Free Plan offers 50 GB storage with 15 days Storage Retention and 7 days search.
+
+### Education and Career Development
+
+*   [Free ATS Resume AI Solutions](https://ayehigh.com) - Free platform with lots of GenAI Powered Resume Solutions helpful for Analyzing, Rewriting, Grooming and Shortlisting Resumes and help in Career Growth.
+*   [Free Professional Resume Templates & Edtior](https://www.overleaf.com/latex/templates/tagged/cv) - Free platform with lots of Resume templates of Experienced Professionals, ready to clone and edit fully and download, ATS optimized.
 
 ### Email
 
@@ -577,10 +583,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [cron-job.org](https://cron-job.org) - Online cronjobs service. Unlimited jobs are free of charge.
 
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
-
-### APIs, Data, and ML
-
-*   [PDF Factory](https://pdf-factory.com) - PDF Automation API, visual template editor, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.
 
 ### Testing
 

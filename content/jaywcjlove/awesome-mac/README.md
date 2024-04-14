@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Apr 14, 2024](/content/2024/04/14/README.md)
+
+### Utilities / Productivity
+
+*   [Pie Menu](https://www.pie-menu.com) – Control your tools with a radial menu customized for your active app.
+
 ## [Apr 11, 2024](/content/2024/04/11/README.md)
 
 ### Utilities / Menu Bar Tools

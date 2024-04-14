@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Apr 14, 2024](/content/2024/04/14/README.md)
+
+### Concurrency
+
+*   [Neco (⭐865)](https://github.com/tidwall/neco) - Concurrency library for C (coroutines). \[MIT]
+
 ## [Apr 12, 2024](/content/2024/04/12/README.md)
 
 ### Miscellaneous
@@ -76,7 +82,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Containers
 
-*   [fixed-containers (⭐318)](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. \[MIT]
+*   [fixed-containers (⭐319)](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. \[MIT]
 
 ## [Mar 11, 2024](/content/2024/03/11/README.md)
 
@@ -131,7 +137,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Image Processing
 
 *   [fpng (⭐822)](https://github.com/richgel999/fpng) - Super fast C++ .PNG writer/reader. \[Unlicense]
-*   [libpng (⭐1.1k)](https://github.com/pnggroup/libpng) - the reference library for use in applications that read, create, and manipulate PNG (Portable Network Graphics) raster image files. \[libpng-2.0] [website](https://libpng.sourceforge.io/)
+*   [libpng (⭐1.2k)](https://github.com/pnggroup/libpng) - the reference library for use in applications that read, create, and manipulate PNG (Portable Network Graphics) raster image files. \[libpng-2.0] [website](https://libpng.sourceforge.io/)
 
 ### Miscellaneous
 
@@ -3159,7 +3165,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Other Awesome Projects
 
-*   [awesome (⭐296k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [awesome (⭐298k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 *   [nothings/single\_file\_libs (⭐8.6k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
 ## [Jul 03, 2017](/content/2017/07/03/README.md)

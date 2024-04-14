@@ -330,6 +330,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [marl (⭐1.8k)](https://github.com/google/marl) - Marl is a hybrid thread / fiber task scheduler written in C++ 11. \[Apache-2.0]
 *   [moderngpu (⭐1.6k)](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. \[FreeBSD & Copyright, Sean Baxter]
 *   [NCCL (⭐2.8k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
+*   [Neco (⭐865)](https://github.com/tidwall/neco) - Concurrency library for C (coroutines). \[MIT]
 *   [OpenCL](https://www.khronos.org/opencl/) - The open standard for parallel programming of heterogeneous systems.
 *   [OpenMP](http://openmp.org/) - The OpenMP API.
 *   [rotor (⭐319)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
@@ -366,7 +367,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [C++ B-tree (⭐72)](https://github.com/algorithm-ninja/cpp-btree) - A template library that implements ordered in-memory containers based on a B-tree data structure. \[Apache2]
 *   [dynamic\_bitset (⭐145)](https://github.com/pinam45/dynamic_bitset) - Simple Useful Libraries: C++17/20 header-only dynamic bitset. \[MIT] [website](https://pinam45.github.io/dynamic_bitset/)
-*   [fixed-containers (⭐318)](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. \[MIT]
+*   [fixed-containers (⭐319)](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. \[MIT]
 *   [flat\_hash\_map (⭐1.7k)](https://github.com/skarupke/flat_hash_map) - A very fast flat hashtable with Fibonacci hashing.
 *   [frozen (⭐1.2k)](https://github.com/serge-sans-paille/frozen) - a header-only, constexpr alternative to gperf for C++14 users. \[Apache-2.0]
 *   [Hashmaps (⭐257)](https://github.com/goossaert/hashmap) - Implementation of open addressing hash table algorithms in C++. \[MIT]
@@ -667,7 +668,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [libfacedetection (⭐12k)](https://github.com/ShiqiYu/libfacedetection) - Open source library for face detection in images. The face detection speed can reach 1500FPS. \[BSD]
 *   [libjpeg-turbo (⭐3.6k)](https://github.com/libjpeg-turbo/libjpeg-turbo) - A JPEG image codec that uses SIMD instructions to accelerate baseline JPEG encoding and decoding. \[IJG & BSD-3-Clause & zlib] [website](https://libjpeg-turbo.org/)
 *   [libjxl (⭐2.1k)](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation. \[BSD-3-Clause]
-*   [libpng (⭐1.1k)](https://github.com/pnggroup/libpng) - the reference library for use in applications that read, create, and manipulate PNG (Portable Network Graphics) raster image files. \[libpng-2.0] [website](https://libpng.sourceforge.io/)
+*   [libpng (⭐1.2k)](https://github.com/pnggroup/libpng) - the reference library for use in applications that read, create, and manipulate PNG (Portable Network Graphics) raster image files. \[libpng-2.0] [website](https://libpng.sourceforge.io/)
 *   [libspng (⭐682)](https://github.com/randy408/libspng) - Simple, modern libpng alternative. \[BSD-2] [website](https://libspng.org/)
 *   [libvips (⭐40)](https://github.com/jcupitt/libvips) - A fast image processing library with low memory needs. \[LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
 *   [LodePNG (⭐2k)](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++. \[Zlib]
@@ -1515,7 +1516,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [lists (⭐9.5k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
 *   [awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-*   [awesome (⭐296k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [awesome (⭐298k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 *   [C++ links (⭐4k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 *   [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
 *   [Awesome C](https://notabug.org/koz.ross/awesome-c) 1

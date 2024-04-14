@@ -8,6 +8,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
 
+### Concurrency
+
+*   [Neco (⭐865)](https://github.com/tidwall/neco) - Concurrency library for C (coroutines). \[MIT]
+
 ### Database
 
 *   [mgclient (⭐39)](https://github.com/memgraph/mgclient) - C/C++ Memgraph Client. \[Apache2]
@@ -59,7 +63,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Containers
 
-*   [fixed-containers (⭐318)](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. \[MIT]
+*   [fixed-containers (⭐319)](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. \[MIT]
 
 ### Networking
 
@@ -108,7 +112,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Image Processing
 
 *   [fpng (⭐822)](https://github.com/richgel999/fpng) - Super fast C++ .PNG writer/reader. \[Unlicense]
-*   [libpng (⭐1.1k)](https://github.com/pnggroup/libpng) - the reference library for use in applications that read, create, and manipulate PNG (Portable Network Graphics) raster image files. \[libpng-2.0] [website](https://libpng.sourceforge.io/)
+*   [libpng (⭐1.2k)](https://github.com/pnggroup/libpng) - the reference library for use in applications that read, create, and manipulate PNG (Portable Network Graphics) raster image files. \[libpng-2.0] [website](https://libpng.sourceforge.io/)
 
 ### Scripting
 
@@ -2776,7 +2780,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Other Awesome Projects
 
-*   [awesome (⭐296k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [awesome (⭐298k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 *   [nothings/single\_file\_libs (⭐8.6k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
 ## [Jul 03 - Jul 09, 2017](/content/2017/27/README.md)

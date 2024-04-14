@@ -6,6 +6,17 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Apr 14, 2024](/content/2024/04/14/README.md)
+
+### APIs, Data, and ML
+
+*   [PDF-API.io](https://pdf-api.io) - PDF Automation API, visual template editor or HTML to PDF, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.
+
+### Education and Career Development
+
+*   [Free ATS Resume AI Solutions](https://ayehigh.com) - Free platform with lots of GenAI Powered Resume Solutions helpful for Analyzing, Rewriting, Grooming and Shortlisting Resumes and help in Career Growth.
+*   [Free Professional Resume Templates & Edtior](https://www.overleaf.com/latex/templates/tagged/cv) - Free platform with lots of Resume templates of Experienced Professionals, ready to clone and edit fully and download, ATS optimized.
+
 ## [Apr 13, 2024](/content/2024/04/13/README.md)
 
 ### Log Management
@@ -706,12 +717,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### DNS
 
 *   [deSEC](https://desec.io) - Free DNS hosting with API support, designed with security in mind. Runs on open-source software and is supported by [SSE](https://www.securesystems.de/).
-
-## [Aug 17, 2023](/content/2023/08/17/README.md)
-
-### APIs, Data, and ML
-
-*   [PDF Factory](https://pdf-factory.com) - PDF Automation API, visual template editor, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.
 
 ## [Aug 15, 2023](/content/2023/08/15/README.md)
 

@@ -26,7 +26,7 @@ This project is now very large, and is very different from the original idea.
 Here, we collect awesome macOS software and arrange them into various categories.
 Feel free to **star** and **fork**.
 
-Any comments, suggestions? [Let us know! (⭐71k)](https://github.com/jaywcjlove/awesome-mac/issues) We love PRs :) Please take a look at the [contributing (⭐71k)](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md) guidelines before opening one. Follow the [awesome (⭐296k)](https://github.com/sindresorhus/awesome) list.
+Any comments, suggestions? [Let us know! (⭐71k)](https://github.com/jaywcjlove/awesome-mac/issues) We love PRs :) Please take a look at the [contributing (⭐71k)](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md) guidelines before opening one. Follow the [awesome (⭐298k)](https://github.com/sindresorhus/awesome) list.
 
 **Explanation**
 
@@ -1075,6 +1075,7 @@ Any comments, suggestions? [Let us know! (⭐71k)](https://github.com/jaywcjlove
 *   [OmniPlan](https://www.omnigroup.com/omniplan/) - The best way to visualize, maintain, and simplify your projects. Project Management made easy.
 *   [OpenIn](https://loshadki.app/openin4/) - Take control of installed apps on your Mac [![App Store][app-store Icon]](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331?mt=12)
 *   [PaletteBrain](https://palettebrain.com) - Access the power of ChatGPT across all your Mac applications with the press of a shortcut.
+*   [Pie Menu](https://www.pie-menu.com) – Control your tools with a radial menu customized for your active app.
 *   [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 *   [Raycast](https://raycast.com) - Raycast lets you control your tools with a few keystrokes. It’s designed to keep you focused.
 *   [RescueTime](https://www.rescuetime.com/) - Personal analytics service that shows you how you spend your time and provides tools to help you be more productive.

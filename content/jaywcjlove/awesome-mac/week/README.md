@@ -12,6 +12,10 @@
 
 *   [Ice (⭐810)](https://github.com/jordanbaird/Ice) - A free, open source, alternative to Bartender. Helps to hide menu items and gives options for different layouts. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Utilities / Productivity
+
+*   [Pie Menu](https://www.pie-menu.com) – Control your tools with a radial menu customized for your active app.
+
 ## [Apr 01 - Apr 07, 2024](/content/2024/14/README.md)
 
 ### Design and Product / Screencapturing Software

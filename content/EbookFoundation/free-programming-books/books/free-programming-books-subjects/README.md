@@ -2,9 +2,15 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-subjects/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) · ⭐ 309K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-subjects/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) · ⭐ 319K · 🏷️ Books
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
+
+## [Apr 14, 2024](/content/2024/04/14/README.md)
+
+### Computer Organization and Architecture
+
+*   [Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits - Second Edition](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1000\&context=oer) - Charles W. Kann (PDF)
 
 ## [Jan 25, 2024](/content/2024/01/25/README.md)
 
@@ -76,7 +82,7 @@
 
 ### Artificial Intelligence
 
-*   [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp (⭐6.9k)](https://github.com/norvig/paip-lisp) - Peter Norvig
+*   [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp (⭐7k)](https://github.com/norvig/paip-lisp) - Peter Norvig
 
 ## [Nov 06, 2023](/content/2023/11/06/README.md)
 
@@ -395,7 +401,7 @@
 
 ### Professional Development
 
-*   [How to Stand Out as a Software Engineer (⭐3)](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf) - Landry Monga (PDF)
+*   [How to Stand Out as a Software Engineer (⭐4)](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf) - Landry Monga (PDF)
 
 ## [Oct 10, 2023](/content/2023/10/10/README.md)
 
@@ -743,13 +749,13 @@
 
 ### Software Architecture
 
-*   [Refactor Like a Superhero (⭐898)](https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-en/README.md) - Alex Bespoyasov
+*   [Refactor Like a Superhero (⭐938)](https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-en/README.md) - Alex Bespoyasov
 
 ## [Oct 22, 2022](/content/2022/10/22/README.md)
 
 ### Machine Learning
 
-*   [Machine Learning for Beginners (⭐64k)](https://github.com/Microsoft/ML-For-Beginners) - Microsoft
+*   [Machine Learning for Beginners (⭐67k)](https://github.com/Microsoft/ML-For-Beginners) - Microsoft
 
 ## [Oct 21, 2022](/content/2022/10/21/README.md)
 
@@ -788,7 +794,7 @@
 
 ### Machine Learning
 
-*   [Probabilistic Machine Learning - An Introduction (⭐4.5k)](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) - Kevin P. Murphy (PDF)
+*   [Probabilistic Machine Learning - An Introduction (⭐4.7k)](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) - Kevin P. Murphy (PDF)
 
 ### Misc
 
@@ -796,7 +802,7 @@
 
 ### Open Source Ecosystem
 
-*   [Contributing to opensource: the right way (⭐117)](https://github.com/Mte90/Contribute-to-opensource-the-right-way) - Daniele Scasciafratte
+*   [Contributing to opensource: the right way (⭐124)](https://github.com/Mte90/Contribute-to-opensource-the-right-way) - Daniele Scasciafratte
 
 ### Search Engines
 
@@ -975,7 +981,7 @@
 ### Blockchain
 
 *   [IBM Blockchain: The Founder’s Handbook, Third Edition](https://www.ibm.com/downloads/cas/GZPPMWM5) - Antonio Banda, Matthew Hamilton, Eileen Lowry, John Widdifield, et al. (PDF)
-*   [Learning Bitcoin from the Command Line (⭐2.9k)](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) - Christopher Allen, Shannon Appelcline, et al. (HTML)
+*   [Learning Bitcoin from the Command Line (⭐3k)](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) - Christopher Allen, Shannon Appelcline, et al. (HTML)
 
 ### Computer Science
 
@@ -983,7 +989,7 @@
 
 ### Graphics Programming
 
-*   [Learn OpenGL RS (⭐916)](https://github.com/bwasty/learn-opengl-rs) - Benjamin Wasty, et al. *(:construction: in process)*
+*   [Learn OpenGL RS (⭐929)](https://github.com/bwasty/learn-opengl-rs) - Benjamin Wasty, et al. *(:construction: in process)*
 *   [WebGL Insights](http://webglinsights.com) - Patrick Cozzi, et al.
 
 ### Graphical User Interfaces
@@ -1099,7 +1105,7 @@
 
 ### Security & Privacy
 
-*   [OWASP Testing Guide 4.2](https://owasp.org/www-project-web-security-testing-guide/v42/) - The OWASP® Foundation (HTML, [PDF (⭐6.3k)](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf))
+*   [OWASP Testing Guide 4.2](https://owasp.org/www-project-web-security-testing-guide/v42/) - The OWASP® Foundation (HTML, [PDF (⭐6.6k)](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf))
 
 ### Version Control Systems
 
@@ -1114,9 +1120,9 @@
 *   [Git Workflows](https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book) - Yan Pritzker *(:card\_file\_box: archived)*
 *   [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
 *   [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
-*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐380)](https://github.com/eonist/How-to-collaborate-on-github) - André J
+*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐379)](https://github.com/eonist/How-to-collaborate-on-github) - André J
 *   [Introduction to Git and Github](https://launchschool.com/books/git) - Launch School
-*   [Introduction to Git and GitHub eBook (⭐538)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
+*   [Introduction to Git and GitHub eBook (⭐556)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
 *   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com) - Bryan O'Sullivan
 *   [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org) - Bryan O'Sullivan
 *   [Pro Git Reedited](https://leanpub.com/progitreedited/read) - Jon Forrest
@@ -1145,7 +1151,7 @@
 
 ### Blockchain
 
-*   [Mastering the Lightning Network (⭐2.7k)](https://github.com/lnbook/lnbook) - Andreas M. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt (AsciiDoc)
+*   [Mastering the Lightning Network (⭐2.8k)](https://github.com/lnbook/lnbook) - Andreas M. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt (AsciiDoc)
 
 ## [May 24, 2022](/content/2022/05/24/README.md)
 
@@ -1273,7 +1279,7 @@
 
 ### Containers
 
-*   [CI/CD with Docker and Kubernetes Book (⭐190)](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
+*   [CI/CD with Docker and Kubernetes Book (⭐192)](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
 
 ## [Oct 29, 2021](/content/2021/10/29/README.md)
 
@@ -1296,7 +1302,7 @@
 
 ### Machine Learning
 
-*   [Approaching Almost Any Machine Learning Problem (⭐6.1k)](https://github.com/abhishekkrthakur/approachingalmost) - Abhishek Thakur (PDF)
+*   [Approaching Almost Any Machine Learning Problem (⭐6.6k)](https://github.com/abhishekkrthakur/approachingalmost) - Abhishek Thakur (PDF)
 
 ## [Oct 23, 2021](/content/2021/10/23/README.md)
 
@@ -1450,7 +1456,7 @@
 *   [Microsoft Press: Free E-Books](https://mva.microsoft.com/ebooks)
 *   [Microsoft Technologies 1, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more/)
 *   [Microsoft Technologies 2, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more/)
-*   [Papers we love (⭐80k)](https://github.com/papers-we-love/papers-we-love)
+*   [Papers we love (⭐83k)](https://github.com/papers-we-love/papers-we-love)
 *   [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
 *   [Theassayer.org](http://theassayer.org)
 
@@ -1464,7 +1470,7 @@
 *   [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) - Nick Parlante (PDF)
 *   [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) - Robert Horvick
 *   [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) - Robert Horvick
-*   [Elementary Algorithms (⭐5.9k)](https://github.com/liuxinyu95/AlgoXY) - Larry Liu Xinyu (PDF)
+*   [Elementary Algorithms (⭐6k)](https://github.com/liuxinyu95/AlgoXY) - Larry Liu Xinyu (PDF)
 *   [The Kademlia Protocol Succinctly](https://www.syncfusion.com/ebooks/kademlia_protocol_succinctly) - Marc Clifton
 
 ### Artificial Intelligence
@@ -1522,7 +1528,7 @@
 
 ### Game Development
 
-*   [2D Game Development: From Zero To Hero (⭐190)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *(:construction: in process)*
+*   [2D Game Development: From Zero To Hero (⭐204)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *(:construction: in process)*
 *   [Coding With Minecraft](https://turtleappstore.com/book/) - Al Sweigart
 *   [Designing Virtual Worlds](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf) - Richard A. Bartle (PDF)
 *   [Game Design with AGS](https://ensadi.github.io/AGSBook/) - Dave Ensminger, A. G. Madi
@@ -1554,7 +1560,7 @@
 *   [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) (PDF)
 *   [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) - Csaba Szepesvári (PDF)
 *   [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
-*   [Deep Learning for Coders with Fastai and PyTorch (⭐20k)](https://github.com/fastai/fastbook) - Jeremy Howard, Sylvain Gugger (Jupyter Notebooks)
+*   [Deep Learning for Coders with Fastai and PyTorch (⭐21k)](https://github.com/fastai/fastbook) - Jeremy Howard, Sylvain Gugger (Jupyter Notebooks)
 *   [Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises](https://web.stanford.edu/group/pdplab/pdphandbook) - James L. McClelland
 *   [IBM Machine Learning for Dummies](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Judith Hurwitz, Daniel Kirsch
 *   [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) - Christoph Molnar
@@ -1608,7 +1614,7 @@
 *   [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
 *   [Introduction to Proofs](http://joshua.smcvt.edu/proofs/) - Jim Hefferon
 *   [Introduction to Real Analysis](https://digitalcommons.trinity.edu/mono/7/) - William F. Trench
-*   [Kalman and Bayesian Filters in Python (⭐15k)](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+*   [Kalman and Bayesian Filters in Python (⭐16k)](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 *   [Lies, Damned Lies, or Statistics: How to Tell the Truth with Statistics](https://www.poritz.net/jonathan/share/ldlos.pdf) - Jonathan A. Poritz (PDF)
 *   [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/) - Jim Hefferon
 *   [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html) - Sergei Treil
@@ -1619,7 +1625,7 @@
 *   [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathematical-reasoning-3) - Ted Sundstrom
 *   [Non-Uniform Random Variate Generation](http://luc.devroye.org/rnbookindex.html) - Luc Devroye (PDF)
 *   [Notes on Diffy Qs](https://www.jirka.org/diffyqs/) - Jiří Lebl
-*   [Number Theory (⭐49)](https://github.com/holdenlee/number-theory) - Holden Lee MIT
+*   [Number Theory (⭐51)](https://github.com/holdenlee/number-theory) - Holden Lee MIT
 *   [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - Jonathan Weisberg
 *   [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, Mine Çetinkaya-Rundel
 *   [ORCCA: Open Resources for Community College Algebra](https://spaces.pcc.edu/pages/viewpage.action?pageId=52729944) - Portland Community College
@@ -1726,7 +1732,7 @@
 
 *   [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf) - Martin Kleppmann (PDF)
 *   [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Mostly Adequate Core Team
-*   [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory (⭐439)](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
+*   [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory (⭐438)](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
 *   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 
 ### Regular Expressions
@@ -1744,7 +1750,7 @@
 ### Search Engines
 
 *   [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH (⭐3.5k)](https://github.com/elastic/elasticsearch-definitive-guide))
-*   [Solr for newbies workshop (2019) (⭐77)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF (⭐77)](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
+*   [Solr for newbies workshop (2019) (⭐76)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF (⭐76)](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
 
 ### Security & Privacy
 
@@ -1779,7 +1785,7 @@
 
 ### Standards
 
-*   [UNIX - The POSIX Standard - IEEE Std 1003.1 (⭐187)](https://github.com/geoff-codes/posix-standard)
+*   [UNIX - The POSIX Standard - IEEE Std 1003.1 (⭐191)](https://github.com/geoff-codes/posix-standard)
 
 ### Theoretical Computer Science
 

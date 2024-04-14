@@ -6,18 +6,18 @@ Community list of data & technology resources concerning the built environment a
 
 [ Daily / [Weekly](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md) / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
 
+## [Apr 14, 2024](/content/2024/04/14/README.md)
+
+### Public Data Resources / Energy and Natural Resources
+
+*   [Low-Income Energy Affordability Data (LEAD)](https://www.energy.gov/scep/low-income-energy-affordability-data-lead-tool-and-community-energy-solutions) -  A free online tool by the U.S. Department of Energy. This interactive platform helps users make data-driven decisions on energy goals and program planning by improving their understanding of low-income and moderate-income household energy characteristics.
+*   [State and Local Planning for Energy (SLOPE) Platform](https://maps.nrel.gov/slope/) - A free easy-to-access online platform, by the U.S. Department of Energy, to support data-driven state and local energy and decarbonization planning. SLOPE includes two distinct tools namely the Scenario Planner and the Data Viewer to support jurisdictions planning needs.
+
 ## [Apr 06, 2024](/content/2024/04/06/README.md)
 
 ### Planning Coding Resources / Python
 
 *   [Madina (⭐69)](https://github.com/City-Form-Lab/madina) - Madina is a package of classes and functions to streamline the representation and analysis of urban networks. This library includes a python implementation of the Urban Network Analysis Tools.
-
-## [Apr 01, 2024](/content/2024/04/01/README.md)
-
-### Public Data Resources / Energy and Natural Resources
-
-*   [Low-Income Energy Affordability Data](https://data.openei.org/submissions/573) - LEAD was created by the Better Building's Clean Energy for Low Income Communities Accelerator (CELICA) to help state and local partners understand housing and energy characteristics for the low- and moderate-income (LMI) communities they serve.
-*   [State and Local Planning for Energy (SLOPE) Platform](https://www.energy.gov/scep/slsc/state-and-local-planning-energy-slope-platform) - Is a free, easy-to-use online platform to support data-driven state and local energy and decarbonization planning. SLOPE is a collaboration between nine U.S. Department of Energy (DOE) offices and the National Renewable Energy Laboratory (NREL) designed to support state and local governments and other key energy planning stakeholders in building a clean energy economy.
 
 ## [Mar 19, 2024](/content/2024/03/19/README.md)
 
