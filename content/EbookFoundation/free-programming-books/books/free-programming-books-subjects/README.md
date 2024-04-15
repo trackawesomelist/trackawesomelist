@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Apr 15, 2024](/content/2024/04/15/README.md)
+
+### Artificial Intelligence
+
+*   [Clever Algorithms Nature-Inspired Programming Recipes](https://bjpcjp.github.io/pdfs/ruby/Clever-Algorithms.pdf) - Jason Brownlee (PDF)
+
 ## [Apr 14, 2024](/content/2024/04/14/README.md)
 
 ### Computer Organization and Architecture

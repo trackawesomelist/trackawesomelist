@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Apr 15, 2024](/content/2024/04/15/README.md)
+
+### Miscellaneous
+
+*   [RapidFuzz (⭐205)](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. \[MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
+
 ## [Apr 14, 2024](/content/2024/04/14/README.md)
 
 ### Concurrency
@@ -95,12 +101,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Robotics
 
 *   [SPICE Toolkit (⭐18)](https://github.com/arturania/cspice) - Library and toolkit for computing geometric information used in planning and analyzing science observations obtained from robotic spacecraft. \[MIT] [website](https://naif.jpl.nasa.gov/naif/toolkit.html)
-
-## [Mar 08, 2024](/content/2024/03/08/README.md)
-
-### Miscellaneous
-
-*   [RaipdFuzz (⭐205)](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. \[MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
 
 ## [Mar 06, 2024](/content/2024/03/06/README.md)
 

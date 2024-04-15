@@ -6,6 +6,18 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Apr 15, 2024](/content/2024/04/15/README.md)
+
+### Other / [Other](#other-1)
+
+*   Memory safety (e.g., null pointer dereferences)
+*   User-specified assertions (i.e., assert!(...))
+*   The absence of panics (e.g., unwrap() on None values)
+*   The absence of some types of unexpected behavior (e.g., arithmetic overflows)
+*   high performance: will validate & download manifests over multiple routines, caching downloaded files in memory
+*   configurable list of remote, or local schemas locations, enabling validating Kubernetes custom resources (CRDs) and offline validation capabilities
+*   uses by default a self-updating fork of the schemas registry maintained by the kubernetes-json-schema project - which guarantees up-to-date schemas for all recent versions of Kubernetes.
+
 ## [Apr 14, 2024](/content/2024/04/14/README.md)
 
 ### Programming Languages / [Other](#other-1)
@@ -132,8 +144,10 @@
 
 ### Other / [Other](#other-1)
 
-*   [kani (⭐1.9k)](https://github.com/model-checking/kani) — The Kani Rust Verifier is a bit-precise model checker for Rust.  Kani is particularly useful for verifying unsafe code blocks in Rust,  where the "unsafe superpowers" are unchecked by the compiler. Kani verifies:
-*   Memory safety (e.g., null pointer dereferences) \* User-specified assertions (i.e., assert!(...)) \* The absence of panics (e.g., unwrap() on None values) \* The absence of some types of unexpected behavior (e.g., arithmetic overflows)
+*   [kani (⭐1.9k)](https://github.com/model-checking/kani) — The Kani Rust Verifier is a bit-precise model checker for Rust.
+    Kani is particularly useful for verifying unsafe code blocks in Rust,
+    where the "unsafe superpowers" are unchecked by the compiler.
+    Kani verifies:
 *   [vale](https://vale.sh) — A syntax-aware linter for prose built with speed and extensibility in mind.
 
 ## [Oct 31, 2023](/content/2023/10/31/README.md)
@@ -972,7 +986,6 @@
 *   [kube-linter (⭐2.7k)](https://github.com/stackrox/kube-linter) — KubeLinter is a static analysis tool that checks Kubernetes YAML files  and Helm charts to ensure the applications represented in them adhere to best practices.
 *   [kube-score](https://kube-score.com) — Static code analysis of your Kubernetes object definitions.
 *   [kubeconform (⭐1.9k)](https://github.com/yannh/kubeconform) — A fast Kubernetes manifests validator with support for custom resources.
-    It is inspired by, contains code from and is designed to stay close to [Kubeval](https://analysis-tools.dev/tool/kubeval), but with the following improvements: \* high performance: will validate & download manifests over multiple routines, caching downloaded files in memory \* configurable list of remote, or local schemas locations, enabling validating Kubernetes custom resources (CRDs) and offline validation capabilities \* uses by default a self-updating fork of the schemas registry maintained by the kubernetes-json-schema project - which guarantees up-to-date schemas for all recent versions of Kubernetes.
 *   [KubeLinter (⭐2.7k)](https://github.com/stackrox/kube-linter) — KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 *   [lacheck](https://www.ctan.org/pkg/lacheck) — A tool for finding common mistakes in LaTeX documents.
 *   [TeXLab](https://texlab.netlify.app) — A Language Server Protocol implementation for TeX/LaTeX, including lint capabilities.
