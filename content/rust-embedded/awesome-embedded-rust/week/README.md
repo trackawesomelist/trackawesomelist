@@ -6,6 +6,12 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ [Daily](/content/rust-embedded/awesome-embedded-rust/README.md) / Weekly / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
+
+### Community / Community Chat Rooms
+
+*   [rust-embedded:QQ group](https://qm.qq.com/q/A8Hl57xR1C) - Chinese community for Rust embedded
+
 ## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
 
 ### Driver crates / WIP

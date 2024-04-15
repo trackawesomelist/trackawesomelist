@@ -6,6 +6,12 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ Daily / [Weekly](/content/pluja/awesome-privacy/week/README.md) / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Apr 15, 2024](/content/2024/04/15/README.md)
+
+### Third-Party owned
+
+*   [Tuta](https://tuta.com/) - Secure email for everybody. Open Source.
+
 ## [Apr 10, 2024](/content/2024/04/10/README.md)
 
 ### Reddit
@@ -62,7 +68,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   **Amazon Photos** also has similar privacy problems. Like Google Photos, it gathers a lot of information from your photo gallery. You can see a bit of what kind of data they collect in their [**examples** list](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496\&ref_=footer_privacy#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01).
 *   **Samsung, Huawei, Xiaomi, etc.** Gallery
 *   [Aves (⭐1.9k)](https://github.com/deckerst/aves) - Beautiful gallery and metadata explorer app, built for Android with Flutter.
-*   [Fossify Gallery (⭐1k)](https://github.com/FossifyOrg/Gallery) - Fork of Simple Gallery. Browse your memories without any interruptions with this photo and video gallery.
+*   [Fossify Gallery (⭐1.1k)](https://github.com/FossifyOrg/Gallery) - Fork of Simple Gallery. Browse your memories without any interruptions with this photo and video gallery.
 
 ## [Jan 03, 2024](/content/2024/01/03/README.md)
 
@@ -1073,12 +1079,12 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Android File Manager
 
 *   [Amaze File Manager (⭐5k)](https://github.com/TeamAmaze/AmazeFileManager) - Simple and attractive Material Design file manager for Android.
-*   [Material Files (⭐5k)](https://github.com/zhanghai/MaterialFiles) - An open source Material Design file manager, for Android 5.0+.
+*   [Material Files (⭐5.1k)](https://github.com/zhanghai/MaterialFiles) - An open source Material Design file manager, for Android 5.0+.
 *   [Ghost Commander](https://f-droid.org/packages/com.ghostsq.commander/) - Dual-panel file manager.
 
 ### Android Keyboard
 
-*   [FlorisBoard (⭐5.2k)](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
+*   [FlorisBoard (⭐5.3k)](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
 *   [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - The only Android keyboard you'll ever need. Free as in speech and Free as in beer.
 *   [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indic Keyboard is a versatile keyboard for Android users who wish to use Indic and Indian languages to type messages, compose emails and generally prefer to use them in addition to English on their phone.
 *   [Simple Keyboard (⭐923)](https://github.com/rkkr/simple-keyboard) - Simply keyboard and nothing more.
@@ -1221,7 +1227,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   LastPass
 *   Dashlane
 *   [Bitwarden](https://bitwarden.com) - An open source cloud based password manager.
-    *   [vaultwarden (⭐32k)](https://github.com/dani-garcia/vaultwarden/) - Unofficial Bitwarden compatible self-hosted server, formerly known as bitwarden\_rs.
+    *   [vaultwarden (⭐33k)](https://github.com/dani-garcia/vaultwarden/) - Unofficial Bitwarden compatible self-hosted server, formerly known as bitwarden\_rs.
 *   [KeepassXC](https://keepassxc.org/) - Securely store passwords using industry standard encryption, no sync just storage.
     *   [KeepassDX](https://www.keepassdx.com/) for Android.
     *   [Strongbox](https://strongboxsafe.com/) for iOS.
@@ -1515,10 +1521,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   Outlook
 *   Yandex Mail
 *   Yahoo! Mail
-
-### Third-Party owned
-
-*   [Tutanota](https://tutanota.com/) - Secure email for everybody. Open Source.
 
 ### Video and Audio
 

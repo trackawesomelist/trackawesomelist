@@ -8,9 +8,17 @@ Collections of awesome neovim plugins.
 
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
+### Color / Diagnostics
+
+*   [moyiz/command-and-cursor.nvim (⭐2)](https://github.com/moyiz/command-and-cursor.nvim) - Highlight cursor and visual selections when entering command mode.
+
 ### Terminal Integration / Diagnostics
 
 *   [akinsho/toggleterm.nvim (⭐3.7k)](https://github.com/akinsho/toggleterm.nvim) - Easily manage multiple terminal windows.
+
+### Git / Diagnostics
+
+*   [moyiz/git-dev.nvim (⭐2)](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim.
 
 ## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
 

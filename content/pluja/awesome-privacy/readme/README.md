@@ -205,7 +205,7 @@ Preinstalled file managers and third-party file manager apps found on the play s
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img>  **Instead use**
 
 *   [Amaze File Manager (⭐5k)](https://github.com/TeamAmaze/AmazeFileManager) - Simple and attractive Material Design file manager for Android.
-*   [Material Files (⭐5k)](https://github.com/zhanghai/MaterialFiles) - An open source Material Design file manager, for Android 5.0+.
+*   [Material Files (⭐5.1k)](https://github.com/zhanghai/MaterialFiles) - An open source Material Design file manager, for Android 5.0+.
 *   [Ghost Commander](https://f-droid.org/packages/com.ghostsq.commander/) - Dual-panel file manager.
 
 ### Android Keyboard
@@ -217,7 +217,7 @@ Preinstalled file managers and third-party file manager apps found on the play s
 
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img> **Instead use**
 
-*   [FlorisBoard (⭐5.2k)](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
+*   [FlorisBoard (⭐5.3k)](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
 *   [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - The only Android keyboard you'll ever need. Free as in speech and Free as in beer.
 *   [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indic Keyboard is a versatile keyboard for Android users who wish to use Indic and Indian languages to type messages, compose emails and generally prefer to use them in addition to English on their phone.
 *   [Simple Keyboard (⭐923)](https://github.com/rkkr/simple-keyboard) - Simply keyboard and nothing more.
@@ -239,7 +239,7 @@ Your phone gallery is a deeply personal aspect of your life, it may contain imag
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img> **Instead use**
 
 *   [Aves (⭐1.9k)](https://github.com/deckerst/aves) - Beautiful gallery and metadata explorer app, built for Android with Flutter.
-*   [Fossify Gallery (⭐1k)](https://github.com/FossifyOrg/Gallery) - Fork of Simple Gallery. Browse your memories without any interruptions with this photo and video gallery.
+*   [Fossify Gallery (⭐1.1k)](https://github.com/FossifyOrg/Gallery) - Fork of Simple Gallery. Browse your memories without any interruptions with this photo and video gallery.
 
 ### Android Launcher
 
@@ -727,7 +727,7 @@ No servers involved. Everything goes directly from one peer to the other peer. N
 
 *   [Forward Email](https://forwardemail.net) - the 100% open-source and privacy-focused email service.
 *   [ProtonMail](https://protonmail.com/) - Secure Email. Based in Switzerland. [Read this article over Climate activist arrest](https://protonmail.com/blog/climate-activist-arrest/).
-*   [Tutanota](https://tutanota.com/) - Secure email for everybody. Open Source.
+*   [Tuta](https://tuta.com/) - Secure email for everybody. Open Source.
 *   [Riseup](https://riseup.net/en/about-us) - Online communication tools for people and groups working on liberatory social change.
 *   [Mailfence](https://mailfence.com) - Secure and private email.
 
@@ -1009,7 +1009,7 @@ GNU/Linux is a family of free (as in freedom and as in free beer) and open sourc
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img>  **Instead use**
 
 *   [Bitwarden](https://bitwarden.com) - An open source cloud based password manager.
-    *   [vaultwarden (⭐32k)](https://github.com/dani-garcia/vaultwarden/) - Unofficial Bitwarden compatible self-hosted server, formerly known as bitwarden\_rs.
+    *   [vaultwarden (⭐33k)](https://github.com/dani-garcia/vaultwarden/) - Unofficial Bitwarden compatible self-hosted server, formerly known as bitwarden\_rs.
 *   [KeepassXC](https://keepassxc.org/) - Securely store passwords using industry standard encryption, no sync just storage.
     *   [KeepassDX](https://www.keepassdx.com/) for Android.
     *   [Strongbox](https://strongboxsafe.com/) for iOS.

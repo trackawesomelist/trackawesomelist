@@ -197,31 +197,45 @@ sellers who aren't evil for physical resources.
 
 # Audio
 
-*   [Open Music (⭐298)](https://github.com/openmusic-project/OM6) - a visual programming, computer-aided composition environment. [GPL3][2].
+Music composition:
+
 *   [OM7 (⭐162)](https://github.com/openmusic-project/om7) - a new implementation of the OpenMusic visual programming and computer-aided composition environment including a number of improvements on graphical interface, computational mode, and connection to external software libraries. [GPL3][2].
+    *   an extension: [rq (⭐7)](https://github.com/openmusic-project/RQ) - a library for rhythm transcription in OpenMusic (version 6.10 and later). [demo video](https://www.youtube.com/watch?v=XVEllB0TtVs). [GPL3][2].
 *   [Incudine](http://incudine.sourceforge.net/) -  Music/DSP programming environment for Common Lisp. Useful to design software synthesizers or sound plugins from scratch. It is also a compositional tool that allows to produce high quality sounds controllable at the sample level, defining and redefining the digital signal processors and the musical structures on-the-fly.
-*   [cl-collider (⭐206)](https://github.com/byulparan/cl-collider) - A
-    [SuperCollider](http://supercollider.github.io/) client for CommonLisp. With a [tutorial (⭐18)](https://github.com/defaultxr/cl-collider-tutorial) and [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI). Public domain.
-*   [csound (⭐1.2k)](https://github.com/csound/csound) - A sound and music computing system. Includes CFFI and FFI interfaces for Common Lisp.
 *   [CLM](https://ccrma.stanford.edu/software/clm/) - Common Lisp Music is a music synthesis and signal processing package in the Music V family. It provides much the same functionality as Stk, Csound, SuperCollider, PD, CMix, cmusic, and Arctic — a collection of functions that create and manipulate sounds, aimed primarily at composers (in CLM's case anyway).
     *   [common-tones (⭐10)](https://github.com/theraphonics/common-tones) - a fork of CLM5 with modern Lisp (ASDF, cffi…). [BSD\_3Clause][15].
-*   [cl-patterns (⭐73)](https://github.com/defaultxr/cl-patterns) - a system for composing music via Lisp code, heavily inspired by SuperCollider’s patterns system, with aims to implement much of it, but in a more robust, expressive, consistent, reflective, and lispy way. Audio output through SuperCollider, with preliminary support for Incudine, and MIDI through ALSA.
-*   [cl-openal (⭐34)](https://github.com/zkat/cl-openal) - bindings for the OpenAL audio library. Public domain.
-*   [Common Music (⭐20)](https://github.com/ormf/cm) - the repository of an
-    ancient version of Common Music (version 2.12.0), the presumably last
-    version which ran on Common Lisp dating from around 2007-09, before
-    work on Common Music shifted to (scheme-based) cm3.
 *   [Slippery Chicken (⭐62)](https://github.com/mdedwards/slippery-chicken/) - Algorithmic composition library which outputs Midi, Common Music Notation, pdf-score via Lilypond and sound via Common Lisp Music. [GPL3][2].
-*   [Common Music Notation](https://ccrma.stanford.edu/software/cmn/) - Common Music Notation (CMN) provides a package of functions to hierarchically describe a musical score. Public domain.
-*   [cm-incudine (⭐9)](https://github.com/ormf/cm-incudine) - extends Common Music 2 with realtime capabilities. GPL2.
-*   [Mégra (⭐67)](https://github.com/the-drunk-coder/megra) - A mini-language to make music with variable-order markov chains and some other stochastic shenanigans. [GPL3][2].
+    *   with documentation: <https://michael-edwards.org/sc/>
+*   [Common Music (⭐20)](https://github.com/ormf/cm) - the repository of an
+    ancient version of Common Music (version 2.12.0), the presumably
+    last version which ran on Common Lisp dating from around 2007-09,
+    before work on Common Music shifted to (scheme-based) cm3.
+    *   note: old project but working.
+    *   [cm-incudine (⭐9)](https://github.com/ormf/cm-incudine) - extends Common Music 2 with realtime capabilities. GPL2.
+*   [cl-patterns (⭐73)](https://github.com/defaultxr/cl-patterns) - a system for composing music via Lisp code, heavily inspired by SuperCollider’s patterns system, with aims to implement much of it, but in a more robust, expressive, consistent, reflective, and lispy way. Audio output through SuperCollider, with preliminary support for Incudine, and MIDI through ALSA.
 *   [Music (⭐32)](https://github.com/MegaLoler/Music) - A framework for musical expression in Lisp with a focus on music theory (built from scratch, unrelated to Common Music).
-*   [rq (⭐7)](https://github.com/openmusic-project/RQ) - A library for rhythm transcription in OpenMusic (version 6.10 and later). [demo video](https://www.youtube.com/watch?v=XVEllB0TtVs). [GPL3][2].
-*   [scheduler (⭐8)](https://github.com/byulparan/scheduler) - The time based musical event scheduler for Common Lisp. [Apache2.0][89].
-*   [mixalot (⭐31)](https://github.com/ahefner/mixalot) - Loosely-coupled collection of audio libraries for mp3, ogg vorbis, flac. Used for the [Shuffletron music player (⭐44)](https://github.com/ahefner/shuffletron). [MIT][200].
-*   [osc (⭐36)](https://github.com/zzkt/osc) - an implementation of the Open Sound Protocol. [LGPL2.1][11].
+
+Decoders, sound processing:
+
 *   [Harmony](https://shirakumo.github.io/harmony) - A real-time sound processing and playback system. [zlib][33].
+    *   "provides you with audio processing tools as well as an audio server to play back music, sfx, and so forth."
+    *   using [cl-mixed (⭐22)](https://github.com/Shirakumo/cl-mixed) for the mixing and sound processing library.
 *   [easy-audio (⭐20)](https://github.com/shamazmazum/easy-audio) - a collection of audio decoders and metadata readers.
+
+others:
+
+*   [scheduler (⭐8)](https://github.com/byulparan/scheduler) - The time based musical event scheduler for Common Lisp. [Apache2.0][89].
+*   [Common Music Notation](https://ccrma.stanford.edu/software/cmn/) - Common Music Notation (CMN) provides a package of functions to hierarchically describe a musical score. Public domain.
+*   [osc (⭐36)](https://github.com/zzkt/osc) - an implementation of the Open Sound Protocol. [LGPL2.1][11].
+
+bindings and clients to other software and libraries:
+
+*   [cl-mpg123 (⭐4)](https://github.com/Shirakumo/cl-mpg123), [cl-opus (⭐8)](https://github.com/Shirakumo/cl-opus) (OGG/Opus), [cl-vorbis (⭐4)](https://github.com/Shirakumo/cl-vorbis) (OGG/Vorbis), [cl-SoLoud (⭐2)](https://github.com/Shirakumo/cl-soloud), [cl-out123 (⭐4)](https://github.com/Shirakumo/cl-out123) (libout123), [cl-flac (⭐1)](https://github.com/Shirakumo/cl-flac)
+*   [csound (⭐1.2k)](https://github.com/csound/csound) - A sound and music computing system. Includes CFFI and FFI interfaces for Common Lisp.
+*   [cl-collider (⭐206)](https://github.com/byulparan/cl-collider) - A [SuperCollider](http://supercollider.github.io/) client for CommonLisp. With a [tutorial (⭐18)](https://github.com/defaultxr/cl-collider-tutorial) and [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI). Public domain.
+*   [cl-openal (⭐34)](https://github.com/zkat/cl-openal) - bindings for the OpenAL audio library. Public domain.
+
+and more audio software targetting musicians on [awesome-cl-software#audio (⭐2.4k)](https://github.com/CodyReichert/awesome-cl#audio) (Opus Modus, OpenMusic…).
 
 # Build Systems
 
@@ -309,7 +323,7 @@ See also [legochain (⭐62)](https://github.com/defunkydrummer/legochain), a sim
     *   see [the introductory blog post](https://zaries.wordpress.com/2022/05/31/cl-naive-store/)
     *   dare we add: used in production by the author's company (ASTN Group, see awesome-lisp-companies)
 
-See also [Clache](#caching), that can save any object on disk.
+See also [Clache (⭐13)](https://github.com/html/clache), that can save any object on disk.
 
 ## Graph databases
 
@@ -914,7 +928,7 @@ might help:
 
 See also:
 
-*   [asdf-sbcl (⭐20)](https://github.com/smashedtoatoms/asdf-sbcl), a plugin for the universal package manager.
+*   [asdf-sbcl (⭐21)](https://github.com/smashedtoatoms/asdf-sbcl), a plugin for the universal package manager.
 *   📹 [this Youtube video](https://www.youtube.com/watch?v=lGS4sr6AzKw) (by 40ants, 2023) on how to use alien-works-delivery and linux-packaging.
 
 # Machine Learning
@@ -1074,6 +1088,7 @@ See also:
 *   [cl-aws-runtime-test (⭐36)](https://github.com/y2q-actionman/cl-aws-custom-runtime-test) - An example of using Common Lisp (SBCL) as a custom runtime on AWS lambda. WTFPL.
 *   [40ants/ci (⭐10)](https://github.com/40ants/ci/) -  Highly opionated Github Actions workflow builder for Common Lisp projects.
     *   with: a linter, lisp critic, tests runner, test matrix, doc building, caching…
+*   [make-common-lisp-program (⭐3)](https://github.com/melusina-org/make-common-lisp-program/) -  GitHub action to build an executable Common Lisp program on Ubuntu, MacOS and Windows. MIT.
 
 See also:
 
@@ -1609,6 +1624,7 @@ For more: [Sabra Crolleton's extensive test frameworks comparison](https://sabra
 ## Date and time
 
 *   ⭐ [local-time](https://common-lisp.net/project/local-time/) - A development library for manipulating date and time information in a semi-standard manner. [3-clause BSD][15].
+*   [fuzzy-dates (⭐14)](https://github.com/Shinmera/fuzzy-dates) -  A library to fuzzily parse date and time strings. Zlib.
 *   [cl-date-time-parser (⭐18)](https://github.com/tkych/cl-date-time-parser) - Parse date-time-string, liberally. Hides the difference between date-time formats, and enables to manage date and time as the one date-time format. [MIT][200].
 *   [chronicity (⭐67)](https://github.com/chaitanyagupta/chronicity) - A natural language date and time parse, to parse strings like "3 days from now". [BSD\_3Clause][15].
 *   [local-time-duration (⭐16)](https://github.com/enaeher/local-time-duration) -
@@ -1663,15 +1679,16 @@ and also:
     accomplish similar effects as with Literate Programming, but
     documentation is generated from code, not vice versa. Code is first,
     code must look pretty, documentation is code. [MIT][200].
-    *   see this [40ants fork (⭐15)](https://github.com/40ants/doc) for: a lighter core system, a JavaScript search index, multiple format output, HTML themes, RSS and Atom feed for the Changelog and more.
-*   [Declt (⭐36)](https://github.com/didierverna/declt) - Reference manual generator for Common Lisp libraries. Builds a texinfo document that can be further processed into various formats, such as HTML or PDF. BSD.
+    *   see this [40ants/doc (⭐15)](https://github.com/40ants/doc) fork: a lighter core system, a JavaScript search index, multiple format output, HTML themes, RSS and Atom feed for the Changelog and more.
+*   [sphinxcontrib-cldomain](https://sphinxcontrib-cldomain.russellsim.org/) -
+    Extending Sphinx to cover Common Lisp. To build documentation with
+    the same ease as sphinx would a Python project. [GPL3][2]
+    *   crossreferences, links to the CLHS, symbol index, search, and all Sphinx features.
 *   [Codex (⭐88)](https://github.com/CommonDoc/codex) - A beautiful documentation system for Common Lisp. [MIT][200].
 *   [QBook (⭐6)](https://github.com/mmontone/qbook) - generates HTML (or LaTeX) formatted code listings of Common Lisp source files. [BSD\_3Clause][15].
     *   all comments started with 4 `;` (";;;;") are interpreted as documentation. Enhance the documentation with headings and directives.
     *   QBook acts as "a lightweight literate programming system, where Lisp code is not rendered inline, but in separate sections, and that makes the document more pleasant to navigate." @mmontone
-*   [sphinxcontrib-cldomain](https://sphinxcontrib-cldomain.russellsim.org/) -
-    Extending Sphinx to cover Common Lisp. To build documentation with
-    the same ease as sphinx would a Python project. [GPL3][2]
+*   [Declt (⭐36)](https://github.com/didierverna/declt) - Reference manual generator for Common Lisp libraries. Builds a texinfo document that can be further processed into various formats, such as HTML or PDF. BSD.
 *   [cl-bibtex (⭐25)](https://github.com/mkoeppe/cl-bibtex) - A compatible re-implementation of the BibTeX program in Common Lisp, with a BST-to-CL compiler. [GNU LGPL2.1][11].
 
 See also:
@@ -1680,7 +1697,7 @@ See also:
     *   Its main page presents a list of all loaded systems in your Lisp image. Click on one system, and you get a page with three panes: functions, classes and variables. Click on a function to see its source, in context, with line numbers. Click on classes to see their slots and specializing functions.
 *   [cl-livedocs (⭐2)](https://github.com/mmontone/cl-livedocs) - similar and newer, based on Webinfo, with full text search enabled by default.
 
-An overview blog post with even more documentation generators: <https://lisp-journey.gitlab.io/blog/overview-of-documentation-generators/>
+An overview blog post with even more documentation generators: <https://lisp-journey.gitlab.io/blog/overview-of-documentation-generators/> and a dedicated site with reviews and demos: <https://cl-doc-systems.github.io/>
 
 You might also like: [literate programming systems](#literate-programming).
 

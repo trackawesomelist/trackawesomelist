@@ -2,15 +2,25 @@
 
 A curated list of awesome tools, content and projects using k6
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/grafana/awesome-k6/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 grafana/awesome-k6](https://github.com/grafana/awesome-k6) · ⭐ 481 · 🏷️ Testing
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/grafana/awesome-k6/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 grafana/awesome-k6](https://github.com/grafana/awesome-k6) · ⭐ 505 · 🏷️ Testing
 
 [ [Daily](/content/grafana/awesome-k6/README.md) / Weekly / [Overview](/content/grafana/awesome-k6/readme/README.md) ]
+
+## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
+
+### Articles
+
+*   [k6 OSS workshop (⭐3)](https://github.com/grafana/k6-oss-workshop) - A 2-3 hour k6 workshop with practical k6 examples using the QuickPizza demo app.
+
+### Examples/Templates
+
+*   [k6 QuickPizza examples (⭐46)](https://github.com/grafana/quickpizza) - Web application used for demos and workshops with multiple k6 examples.
 
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
 ### Examples/Templates
 
-*   [k6-rollup-example (⭐0)](https://github.com/grafana/k6-rollup-example) - Example using Rollup to bundle k6 tests.
+*   [k6-rollup-example (⭐2)](https://github.com/grafana/k6-rollup-example) - Example using Rollup to bundle k6 tests.
 *   [Jahmilli/k6-example (⭐7)](https://github.com/Jahmilli/k6-example) - Starter template using Vite (Rollup) bundler to write k6 tests in TypeScript.
 *   [agilob/multiscenario-tests](https://b.agilob.net/programming/k6/multiscenario-tests/) - Running multiple scenarios at once.
 
@@ -22,14 +32,14 @@ A curated list of awesome tools, content and projects using k6
 
 ### Examples/Templates
 
-*   [tom-miseur/k6-templates (⭐32)](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
-*   [SwissLife-OSS/k6-multiscenario-template (⭐48)](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
-*   [Im5tu/template-k6 (⭐4)](https://github.com/Im5tu/template-k6) - A K6 Performance Test Suite Template.
-*   [mohsenny/k6-test-template (⭐0)](https://github.com/mohsenny/k6-test-template) - Load testing framework.
+*   [tom-miseur/k6-templates (⭐34)](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
+*   [SwissLife-OSS/k6-multiscenario-template (⭐51)](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
+*   [Im5tu/template-k6 (⭐5)](https://github.com/Im5tu/template-k6) - A K6 Performance Test Suite Template.
+*   [mohsenny/k6-test-template (⭐3)](https://github.com/mohsenny/k6-test-template) - Load testing framework.
 *   [kwidera/k6\_framework (⭐0)](https://github.com/kwidera/k6_framework) - Another k6 framework example.
 *   [Sahanipe/pet\_store (⭐0)](https://github.com/Sahanipe/pet_store) - Modularized scripts for the Swagger PetStore APIs.
-*   [lreimer/continuous-k6k8s (⭐18)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
-*   [luketn/docker-k6-grafana-influxdb (⭐128)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
+*   [lreimer/continuous-k6k8s (⭐17)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
+*   [luketn/docker-k6-grafana-influxdb (⭐146)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
 
 ### CI/CD
 
@@ -56,9 +66,9 @@ A curated list of awesome tools, content and projects using k6
 
 ### Related
 
-*   [How They Load Test (⭐70)](https://github.com/aliesbelik/how-they-load) - A collection of resources on how companies around the world perform load testing.
-*   [Load Testing Toolkit (⭐125)](https://github.com/aliesbelik/load-testing-toolkit) - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
-*   [awesome-http-benchmark (⭐3.1k)](https://github.com/denji/awesome-http-benchmark) - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
+*   [How They Load Test (⭐79)](https://github.com/aliesbelik/how-they-load) - A collection of resources on how companies around the world perform load testing.
+*   [Load Testing Toolkit (⭐145)](https://github.com/aliesbelik/load-testing-toolkit) - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+*   [awesome-http-benchmark (⭐3.2k)](https://github.com/denji/awesome-http-benchmark) - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
 
 ## [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
 
@@ -76,7 +86,7 @@ A curated list of awesome tools, content and projects using k6
 
 ### Articles
 
-*   [k6 Learn (⭐232)](https://github.com/grafana/k6-learn) - Explanation of the principles of load testing and practical examples for how to do it with k6.
+*   [k6 Learn (⭐276)](https://github.com/grafana/k6-learn) - Explanation of the principles of load testing and practical examples for how to do it with k6.
 
 ## [Sep 05 - Sep 11, 2022](/content/2022/36/README.md)
 
@@ -97,7 +107,7 @@ A curated list of awesome tools, content and projects using k6
 
 ### Examples/Templates
 
-*   [k6-typescript-template (⭐237)](https://github.com/grafana/k6-template-typescript) - Starter template using Webpack bundler to write k6 tests in TypeScript.
+*   [k6-typescript-template (⭐256)](https://github.com/grafana/k6-template-typescript) - Starter template using Webpack bundler to write k6 tests in TypeScript.
 
 ### Tools
 
@@ -126,7 +136,7 @@ A curated list of awesome tools, content and projects using k6
 
 ### Tools
 
-*   [k6-html-reporter (⭐22)](https://github.com/szboynono/k6-html-reporter) - Tool for generating k6 HTML reports.
+*   [k6-html-reporter (⭐23)](https://github.com/szboynono/k6-html-reporter) - Tool for generating k6 HTML reports.
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
@@ -140,7 +150,7 @@ A curated list of awesome tools, content and projects using k6
 
 ### Examples/Templates
 
-*   [k6-template-es6 (⭐73)](https://github.com/grafana/k6-template-es6) - Starter template using Webpack and Babel to enable ES6 features in k6 tests.
+*   [k6-template-es6 (⭐78)](https://github.com/grafana/k6-template-es6) - Starter template using Webpack and Babel to enable ES6 features in k6 tests.
 
 ## [Dec 20 - Dec 26, 2021](/content/2021/51/README.md)
 
@@ -184,9 +194,9 @@ A curated list of awesome tools, content and projects using k6
 
 ### Tools
 
-*   [har-to-k6 (⭐107)](https://github.com/grafana/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
-*   [postman-to-k6 (⭐285)](https://github.com/grafana/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
-*   [jmeter-to-k6 (⭐63)](https://github.com/grafana/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
+*   [har-to-k6 (⭐117)](https://github.com/grafana/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
+*   [postman-to-k6 (⭐287)](https://github.com/grafana/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
+*   [jmeter-to-k6 (⭐65)](https://github.com/grafana/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
 
 ### CI/CD
 
@@ -229,7 +239,7 @@ A curated list of awesome tools, content and projects using k6
 
 ### Tools
 
-*   [k6-reporter (⭐318)](https://github.com/benc-uk/k6-reporter) - Tool for converting k6 output to HTML reports.
+*   [k6-reporter (⭐346)](https://github.com/benc-uk/k6-reporter) - Tool for converting k6 output to HTML reports.
 
 ## [Mar 01 - Mar 07, 2021](/content/2021/9/README.md)
 
@@ -253,7 +263,7 @@ A curated list of awesome tools, content and projects using k6
 
 ### Tools
 
-*   [k6 generator (⭐19k)](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+*   [k6 generator (⭐20k)](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 
 ## [Mar 16 - Mar 22, 2020](/content/2020/11/README.md)
 

@@ -1,24 +1,100 @@
 # Awesome List Updates on Apr 15 - Apr 21, 2024
 
-6 awesome lists updated this week.
+15 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [1. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+
+### Articles
+
+*   [k6 OSS workshop (⭐3)](https://github.com/grafana/k6-oss-workshop) - A 2-3 hour k6 workshop with practical k6 examples using the QuickPizza demo app.
+
+### Examples/Templates
+
+*   [k6 QuickPizza examples (⭐46)](https://github.com/grafana/quickpizza) - Web application used for demos and workshops with multiple k6 examples.
+
+## [2. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### Third-Party owned
+
+*   [Tuta](https://tuta.com/) - Secure email for everybody. Open Source.
+
+## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+
+### Community / Community Chat Rooms
+
+*   [rust-embedded:QQ group](https://qm.qq.com/q/A8Hl57xR1C) - Chinese community for Rust embedded
+
+## [4. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+
+### Deployment / Isomorphic web frameworks
+
+*   [make-common-lisp-program (⭐3)](https://github.com/melusina-org/make-common-lisp-program/) -  GitHub action to build an executable Common Lisp program on Ubuntu, MacOS and Windows. MIT.
+
+### Date and time / Third-party APIs
+
+*   [fuzzy-dates (⭐14)](https://github.com/Shinmera/fuzzy-dates) -  A library to fuzzily parse date and time strings. Zlib.
+
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+
+### Artificial Intelligence
+
+*   [ExLLama (⭐3)](https://github.com/noizu-labs-ml/ex_llama) - LlamaCpp Nif Extensions for Elixir/Erlang.
+
+## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Libraries / Parsing
+
+*   [igumnoff/shiva (⭐76)](https://github.com/igumnoff/shiva) - Shiva library: Implementation in Rust of a parser and generator for documents of any type (Plain text, Markdown, HTML, PDF and etc)
+
+## [7. Awesome Python](/content/vinta/awesome-python/week/README.md)
+
+### Admin Panels
+
+*   [streamlit (⭐31k)](https://github.com/streamlit/streamlit) - A framework which lets you build dashboards, generate reports, or create chat apps in minutes.
+
+## [8. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Resources / Tutorials
+
+*   [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
+
+### Components & Libraries / UI Components
+
+*   [vue-default-page (⭐1)](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 plugin with built-in v-loading, v-skeleton, v-error and v-empty custom directives.
+*   [css-3d-progress (⭐0)](https://github.com/rofixro/css-3d-progress) - A 3D progress bar component written using web Components, supports Vue, React and Svelte.
+*   [schedule-x (⭐827)](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
+
+### Components & Libraries / UI Utilities
+
+*   [tracked-instance (⭐3)](https://github.com/rudnik275/tracked-instance) - Build large forms and track all changes.
+
+### Components & Libraries / Dev Tools
+
+*   [Vue Cheatsheet](https://vue-cheatsheet.themeselection.com/) - The only Vue cheatsheet you will ever need
+
+## [9. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### React / Transformers
+
+*   [@stylin/vite-plugin (⭐178)](https://github.com/sultan99/stylin/tree/main/packages/vite-plugin) - Transform CSS and SCSS modules into React components.
+
+## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Science Logology / Laboratory Automation
 
 *   [Reconfigurable system for automated optimization of diverse chemical reactions](https://www.science.org/doi/full/10.1126/science.aat0650) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=3076614068291119943)]. \[[Preprint](https://www.science.org/doi/pdf/10.1126/science.aat0650)]. This paper describes a plug-and-play, continuous-flow chemical synthesis system that mitigates this challenge with an integrated combination of hardware, software, and analytics. The system software controls the user-selected reagents and unit operations (reactors and separators), processes reaction analytics (high-performance liquid chromatography, mass spectrometry, vibrational spectroscopy), and conducts automated optimizations.
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
 *   [RapidFuzz (⭐205)](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. \[MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
 
-## [3. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [12. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -76,13 +152,21 @@
 
 *   Meetup [NYC](https://www.meetup.com/flutter-nyc/)
 
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Color / Diagnostics
+
+*   [moyiz/command-and-cursor.nvim (⭐2)](https://github.com/moyiz/command-and-cursor.nvim) - Highlight cursor and visual selections when entering command mode.
 
 ### Terminal Integration / Diagnostics
 
 *   [akinsho/toggleterm.nvim (⭐3.7k)](https://github.com/akinsho/toggleterm.nvim) - Easily manage multiple terminal windows.
 
-## [5. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+### Git / Diagnostics
+
+*   [moyiz/git-dev.nvim (⭐2)](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim.
+
+## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Other / [Other](#other-1)
 
@@ -94,7 +178,7 @@
 *   configurable list of remote, or local schemas locations, enabling validating Kubernetes custom resources (CRDs) and offline validation capabilities
 *   uses by default a self-updating fork of the schemas registry maintained by the kubernetes-json-schema project - which guarantees up-to-date schemas for all recent versions of Kubernetes.
 
-## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Artificial Intelligence
 
