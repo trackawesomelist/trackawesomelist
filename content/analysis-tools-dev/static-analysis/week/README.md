@@ -10,6 +10,13 @@
 
 ### Other / [Other](#other-1)
 
+*   [composer-dependency-analyser (⭐114)](https://github.com/shipmonk-rnd/composer-dependency-analyser) — Fast detection of composer dependency issues.
+*   💪 Powerful: Detects unused, shadow and misplaced composer dependencies
+*   ⚡ Performant: Scans 15 000 files in 2s!
+*   ⚙️ Configurable: Fine-grained ignores via PHP config
+*   🕸️ Lightweight: No composer dependencies
+*   🍰 Easy-to-use: No config needed for first try
+*   ✨ Compatible: PHP >= 7.2
 *   Memory safety (e.g., null pointer dereferences)
 *   User-specified assertions (i.e., assert!(...))
 *   The absence of panics (e.g., unwrap() on None values)

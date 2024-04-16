@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Apr 16, 2024](/content/2024/04/16/README.md)
+
+### Email
+
+*   [Maildroppa](https://maildroppa.com) - Up to 100 subscribers and unlimited emails as well as automations for free.
+
 ## [Apr 14, 2024](/content/2024/04/14/README.md)
 
 ### APIs, Data, and ML

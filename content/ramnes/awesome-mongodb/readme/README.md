@@ -16,7 +16,7 @@
 
 > A curated list of awesome MongoDB resources, libraries, tools and applications
 
-Inspired by the [awesome (⭐296k)](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/README.md/CONTRIBUTING.md)!
+Inspired by the [awesome (⭐298k)](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/README.md/CONTRIBUTING.md)!
 
 ## Table of Contents
 
@@ -28,6 +28,7 @@ Inspired by the [awesome (⭐296k)](https://github.com/sindresorhus/awesome) lis
     *   [Tutorials](#tutorials)
     *   [More](#more)
 *   [Libraries](#libraries)
+    *   [Ballerina](#ballerina)
     *   [C](#c)
     *   [C++](#c-1)
     *   [C#/.NET](#cnet)
@@ -119,6 +120,10 @@ Inspired by the [awesome (⭐296k)](https://github.com/sindresorhus/awesome) lis
 
 ## Libraries
 
+### Ballerina
+
+*   [ballerina-mongodb (⭐126)](https://github.com/ballerina-platform/module-ballerinax-mongodb) - Official Ballerina driver
+
 ### C
 
 *   [mongo-c-driver (⭐794)](https://github.com/mongodb/mongo-c-driver) - Official C driver
@@ -149,7 +154,7 @@ Inspired by the [awesome (⭐296k)](https://github.com/sindresorhus/awesome) lis
 
 ### Elixir
 
-*   [elixir-mongodb-driver (⭐231)](https://github.com/zookzook/elixir-mongodb-driver) - Community Elixir driver
+*   [elixir-mongodb-driver (⭐232)](https://github.com/zookzook/elixir-mongodb-driver) - Community Elixir driver
 *   [mongodb (⭐563)](https://github.com/kobil-systems/mongodb) - Community Elixir driver
 *   [mongodb\_ecto (⭐363)](https://github.com/kobil-systems/mongodb_ecto) - Adapter for the Ecto database wrapper
 
@@ -194,11 +199,11 @@ Inspired by the [awesome (⭐296k)](https://github.com/sindresorhus/awesome) lis
 *   [MERN (mern-starter) (⭐5.1k)](https://github.com/Hashnode/mern-starter) - Full stack based on MongoDB, Express, React and Node.js
 *   [Meteor (⭐44k)](https://github.com/meteor/meteor) - Real-time/reactive client-server framework based on MongoDB, with lots of features
 *   [Mongoose (⭐27k)](https://github.com/Automattic/mongoose) - Node.js asynchronous ODM
-*   [CASL Mongoose (⭐5.5k)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
+*   [CASL Mongoose (⭐5.6k)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
 *   [mongration (⭐84)](https://github.com/awapps/mongration) - Node.js migration framework
 *   [Moonridge (⭐66)](https://github.com/capaj/Moonridge) - Framework with live querying on top of Mongoose and socket.io
 *   [Neuledge (⭐237)](https://github.com/neuledge/engine-js) - Universal schema-based ORM with multi-state representation for entities
-*   [node-mongodb-native (⭐9.9k)](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
+*   [node-mongodb-native (⭐10k)](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
 
 ### Julia
 
@@ -207,7 +212,7 @@ Inspired by the [awesome (⭐296k)](https://github.com/sindresorhus/awesome) lis
 ### Kotlin
 
 *   [driver-kotlin-coroutine (⭐2.6k)](https://github.com/mongodb/mongo-java-driver/tree/master/driver-kotlin-coroutine) - Official Kotlin driver
-*   [kmongo (⭐787)](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
+*   [kmongo (⭐785)](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
 
 ### Lisp
 
@@ -353,7 +358,7 @@ Services:
 *   [mgodatagen (⭐312)](https://github.com/feliixx/mgodatagen) - Random data generator
 *   [migrate-mongo (⭐890)](https://github.com/seppevs/migrate-mongo) - Database migration tool
 *   [Mongo Playground (⭐172)](https://github.com/feliixx/mongoplayground) - Online query playground
-*   [Mongo Seeding (⭐543)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
+*   [Mongo Seeding (⭐547)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
 *   [Mongoeye (⭐157)](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
 *   [Variety (⭐1.7k)](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
 *   [VS Code Extension (⭐299)](https://github.com/mongodb-js/vscode)
