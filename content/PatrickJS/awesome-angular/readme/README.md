@@ -321,7 +321,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [Angular Webpack Starter from PatrickJS (⭐10k)](https://github.com/gdi2290/angular-starter)
 *   [Angular Webpack from preboot (⭐1.3k)](https://github.com/preboot/angular-webpack)
 *   [Angular Nightly Webpack Starter (⭐888)](https://github.com/qdouble/angular-webpack2-starter)
-*   [Angular Webpack with Visual Studio ASP.NET Core from Damien Bowden (⭐486)](https://github.com/damienbod/AngularWebpackVisualStudio)
+*   [Angular Webpack with Visual Studio ASP.NET Core from Damien Bowden (⭐487)](https://github.com/damienbod/AngularWebpackVisualStudio)
 *   [Angular Typescript Webpack from schempy (⭐67)](https://github.com/schempy/angular2-typescript-webpack)
 *   [Angular Webpack Tour of Heroes from michaelbazos (⭐5)](https://github.com/michaelbazos/angular-starter) - Tour of Heroes official typescript tutorial built with webpack
 *   [Angular Webpack + rxjs + modules (⭐5)](https://github.com/jorgeas80/angular2-webpack-toh)
@@ -403,11 +403,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 #### On-Site Training
 
 *   [Angular Boot Camp](https://angularbootcamp.com)
-*   [thoughtram](https://thoughtram.io/training.html)
-*   [ng-book](https://www.ng-book.com/2/)
-*   [Angular 2 Workshop](https://chariotsolutions.com/course/angular-workshop-fundamentals-architecture/)
-*   [Web Age Solutions](https://www.webagesolutions.com/courses/WA2533-introduction-to-angular-2-programming)
-*   [Letsboot.com](https://www.letsboot.com/angular-2-in-house-training-support)
 *   [Angular.Schule (in Germany)](https://angular.schule/)
 *   [Angular.DE (Germany)](https://angular.de/schulungen/angular-intensiv/)
 *   [Workshops.DE (Germany)](https://workshops.de/seminare-schulungen-kurse/angular-typescript/)
@@ -462,7 +457,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [FalcorJS + Angular2 (Video)](https://www.youtube.com/watch?v=z8UgDZ4rXBU\&feature=youtu.be)
 *   [Angular2-Meteor](https://angular-meteor.com/angular2)
 *   [nativescript-angular (⭐1.2k)](https://github.com/NativeScript/nativescript-angular)
-*   [react-native-renderer (⭐787)](https://github.com/angular/react-native-renderer)
+*   [react-native-renderer (⭐786)](https://github.com/angular/react-native-renderer)
 *   [ng-sapphiredb (⭐43)](https://github.com/SapphireDb/ng-sapphiredb) - Client implementation of SapphireDb, a framework for easy development of applications with realtime data synchronization and a self hosted alternative to firebase realtime database/firestore for asp.net core and ef core. Check out the documentation for more details: [Documentation](https://sapphire-db.com)
 *   [GraphQL + Angular (⭐1.5k)](https://github.com/apollographql/apollo-angular)
 *   [ckeditor5-angular (⭐198)](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+
@@ -488,7 +483,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [ngx-pipes (⭐1.6k)](https://github.com/danrevah/ngx-pipes) Bunch of useful pipes for Angular and beyond!
 *   [ngx-order-pipe (⭐243)](https://github.com/VadimDez/ngx-order-pipe) OrderBy pipe for Angular4+ - sort collection by a field
 *   [angular2-camelcase (⭐3)](https://github.com/previousdeveloper/angular2-camelcase) Angular2 pipe to convert camelCase strings to human readable strings Edit
-*   [ng-generic-pipe (⭐17)](https://github.com/nigrosimone/ng-generic-pipe) Generic pipe for Angular application.
+*   [ng-generic-pipe (⭐18)](https://github.com/nigrosimone/ng-generic-pipe) Generic pipe for Angular application.
 
 #### Generators
 
@@ -536,7 +531,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [Jest (⭐319)](https://github.com/briebug/jest-schematic): Configure Angular to execute unit tests with Jest instead of Karma + Jasmine
 *   [Prettier (⭐141)](https://github.com/schuchard/prettier-schematic): Add Prettier and a pre-commit hook for formatting staged files in an Angular application
 *   [Tailwind CSS](https://github.com/ngneat/tailwind): Add Tailwind CSS to an Angular application
-*   [Threejs (⭐220)](https://github.com/JohnnyDevNull/ng-three-template): New three.js starter app
+*   [Threejs (⭐219)](https://github.com/JohnnyDevNull/ng-three-template): New three.js starter app
 
 ***
 
@@ -545,23 +540,23 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 #### Animations
 
 *   [lottie-angular2 (⭐339)](https://github.com/chenqingspring/ng-lottie) - Render After Effects animations on Angular2 based on Bodymovin.
-*   [ng-animate (⭐720)](https://github.com/jiayihu/ng-animate) - 🌙 A collection of cool, reusable and flexible animations for Angular
+*   [ng-animate (⭐721)](https://github.com/jiayihu/ng-animate) - 🌙 A collection of cool, reusable and flexible animations for Angular
 *   [ngx-interactive-paycard (⭐79)](https://github.com/milantenk/ngx-interactive-paycard) - Interactive payment card library with smooth animations
 *   [ng-particles (⭐6.9k)](https://github.com/matteobruni/tsparticles/blob/master/components/angular) - A component to easily add Particles animations to your Angular application
 
 #### Auth Components
 
-*   [casl-angular (⭐5.5k)](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic  permissions management library [CASL (⭐5.5k)](https://github.com/stalniy/casl) with Angular2+
-*   [ng2-permission (⭐52)](https://github.com/JavadRasouli/ng2-permission) - Fully featured permission based access control for your angular 4+ applications. This module inspired from [`angular-permission`](https://github.com/Narzerus/angular-permission).
+*   [casl-angular (⭐5.6k)](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic  permissions management library [CASL (⭐5.6k)](https://github.com/stalniy/casl) with Angular2+
+*   [ng2-permission (⭐53)](https://github.com/JavadRasouli/ng2-permission) - Fully featured permission based access control for your angular 4+ applications. This module inspired from [`angular-permission`](https://github.com/Narzerus/angular-permission).
 *   [ngx-auth-firebaseui (⭐591)](https://github.com/AnthonyNahas/ngx-auth-firebaseui) - Angular Material UI component for `firebase` `authentication`
-*   [ngx-auth (⭐57)](https://github.com/fulls1z3/ngx-auth) -Authentication utility for Angular by @fulls1z3
-*   [ngx-permissions (⭐916)](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)
+*   [ngx-auth (⭐58)](https://github.com/fulls1z3/ngx-auth) -Authentication utility for Angular by @fulls1z3
+*   [ngx-permissions (⭐919)](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)
 
 #### Backend Components
 
-*   [Cloudinary (⭐307)](https://github.com/cloudinary/cloudinary_angular/tree/angular_next) - Angular2 SDK for image and video management in the cloud
+*   [Cloudinary (⭐306)](https://github.com/cloudinary/cloudinary_angular/tree/angular_next) - Angular2 SDK for image and video management in the cloud
 *   [ng-s-resource (⭐9)](https://github.com/hiyali/ng-s-resource) - Simplify RESTful http resource generator for Angular 4+.
-*   [ngx-restangular (⭐781)](https://github.com/2muchcoffeecom/ngx-restangular) - Restangular for Angular 2 and higher versions.
+*   [ngx-restangular (⭐782)](https://github.com/2muchcoffeecom/ngx-restangular) - Restangular for Angular 2 and higher versions.
 
 #### Calendars
 
@@ -572,11 +567,12 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 #### Charts
 
 *   [@ctrl/ngx-chartjs (⭐56)](https://github.com/TypeCtrl/ngx-chartjs) - Functional Chart.js wrapper for Angular
-*   [dl-chart (⭐9)](https://github.com/Chtau/dlChart) - Simple and lightweight Chart library without extern Dependencies
+*   [dl-chart (⭐10)](https://github.com/Chtau/dlChart) - Simple and lightweight Chart library without extern Dependencies
 *   [ng2-charts (⭐2.3k)](https://github.com/valor-software/ng2-charts) Beautiful charts for Angular2 based on Chart.js
 *   [ngx-charts (⭐4.3k)](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
-*   [ngx-f2 (⭐7)](https://github.com/hamdiwanis/ngx-f2) - Angular2+ wrapper for antv f2 mobile oriented charts
+*   [ngx-f2 (⭐6)](https://github.com/hamdiwanis/ngx-f2) - Angular2+ wrapper for antv f2 mobile oriented charts
 *   [ngx-trend (⭐117)](https://github.com/scttcper/ngx-trend) - 📈 Simple, elegant spark lines for Angular
+*   [ng-apexcharts (⭐290)](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
 
 #### Drag/Drop
 
@@ -585,9 +581,9 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### Editor Components
 
-*   [@ctrl/ngx-codemirror (⭐275)](https://github.com/TypeCtrl/ngx-codemirror) - Codemirror Wrapper for Angular
+*   [@ctrl/ngx-codemirror (⭐276)](https://github.com/TypeCtrl/ngx-codemirror) - Codemirror Wrapper for Angular
 *   [@instechnologies/ng-rooster (⭐12)](https://github.com/insurance-technologies/ng-rooster) - Angular wrapper of roosterjs, a rich text editor
-*   [angular2-froala-wysiwyg (⭐725)](https://github.com/froala/angular-froala-wysiwyg) Angular 2 wrapper for Froala WYSIWYG HTML Editor
+*   [angular2-froala-wysiwyg (⭐726)](https://github.com/froala/angular-froala-wysiwyg) Angular 2 wrapper for Froala WYSIWYG HTML Editor
 *   [ng2-ace (⭐32)](https://github.com/seiyria/ng2-ace) Ace editor directive made for Angular 2
 *   [ng2-quill-editor (⭐232)](https://github.com/surmon-china/ngx-quill-editor) - Quill editor component for Angular2
 *   [ckeditor](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/frameworks/angular.html) - Ckeditor plugin for Angular2+
@@ -604,7 +600,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### Form Controls
 
-*   [@ctrl/ngx-emoji-mart (⭐437)](https://github.com/TypeCtrl/ngx-emoji-mart) - Customizable Slack-like emoji picker for Angular
+*   [@ctrl/ngx-emoji-mart (⭐438)](https://github.com/TypeCtrl/ngx-emoji-mart) - Customizable Slack-like emoji picker for Angular
 *   [angular-imask (⭐4.7k)](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) Angular 4+ input mask
 *   [angular2-multiselect-dropdown (⭐280)](https://github.com/CuppaLabs/angular2-multiselect-dropdown) Angular 2 multiselect dropdown component for web applications
 *   [angular2-text-mask (⭐8.3k)](https://github.com/text-mask/text-mask) Angular 2 input mask directive
@@ -613,7 +609,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [ng2-dropdown (⭐65)](https://github.com/pleerock/ngx-dropdown) Dropdown menu for angular2 and bootstrap 3
 *   [ng2-radio-group (⭐45)](https://github.com/pleerock/ngx-select-controls) Angular2 directives for radio and checkbox inputs and radio input groups
 *   [ng2-select (⭐676)](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
-*   [ngx-color (⭐427)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
+*   [ngx-color (⭐428)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
 *   [ngx-credit-cards](https://www.npmjs.com/package/ngx-credit-cards) - A Credit Card Directives and Form Validators package for Angular X (4+).
 *   [ngx-flag-picker (⭐14)](https://github.com/iamartyom/ngx-flag-picker) - 😻 Customizable Angular component which containing a dropdown with country flags
 *   [ngx-flexible-select (⭐6)](https://github.com/andreysyagrovskiy/ngx-flexible-select) - The most flexible and customized select
@@ -638,14 +634,14 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 *   [@robingenz/ngx-infinite-scroll (⭐4)](https://github.com/robingenz/ngx-infinite-scroll) Simple Angular directive for infinite scrolling.
 *   [angular-fullpage (⭐173)](https://github.com/alvarotrigo/angular-fullpage) Official component for fullPage.js, a fullscreen scrolling library.
-*   [angular-split (⭐812)](https://github.com/bertrandg/angular-split) Angular split component
+*   [angular-split (⭐813)](https://github.com/bertrandg/angular-split) Angular split component
 *   [angular2-infinite-scroll](https://www.npmjs.com/package/angular2-infinite-scroll) - An Infinite Scroll Directive for Angular2 (based on Observables)
 *   [egjs-infinitegrid (⭐1.9k)](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) - Arrange infinite card elements according to various layout types like masonry for Angular.
 *   [ng2-card (⭐7)](https://github.com/c-bata/ng2-card) - Card view component for Angular2
 *   [ng2-fullpage (⭐276)](https://github.com/meiblorn/ngx-fullpage) Fullpage scrolling for Angular2 based on fullPage.js
 *   [ng2-sheet (⭐3)](https://github.com/lexikteam/ng2-sheet) Angular2 Components to add yours components inside a sheet window and repeatedly
 *   [ng2-swipeable-card (⭐15)](https://github.com/JayKan/ng2-swipeable-card) - Swipeable card component for Angular2
-*   [ngx-scrolltop (⭐29)](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired **button for scroll-to-top** of the page. 🔼 *No dependencies. Pure Angular!* (Compatibility: Angular 9, Ivy, Universal, `ng add`)
+*   [ngx-scrolltop (⭐30)](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired **button for scroll-to-top** of the page. 🔼 *No dependencies. Pure Angular!* (Compatibility: Angular 9, Ivy, Universal, `ng add`)
 *   [od-virtualscroll (⭐134)](https://github.com/dinony/od-virtualscroll) Observable-based virtual scroll implementation in Angular
 
 #### Loaders
@@ -657,9 +653,9 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [isLoading? service](https://gitlab.com/service-work/is-loading) - A simple and flexible loading indicator service for Angular apps.
 *   [ng-spinners (⭐29)](https://github.com/JoshK2/ng-spinners) - Amazing collection of pure CSS angular spinners components.
 *   [ng2-progress-bar (⭐21)](https://github.com/pleerock/ngx-progress-bar) Simple progress bar for angular2 and bootstrap 3
-*   [ngx-config (⭐145)](https://github.com/fulls1z3/ngx-config) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3
+*   [ngx-config (⭐146)](https://github.com/fulls1z3/ngx-config) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3
 *   [ngx-img-fallback (⭐81)](https://github.com/VadimDez/ngx-img-fallback) Load placeholder image on image error
-*   [ngx-progressbar (⭐984)](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
+*   [ngx-progressbar (⭐986)](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
 *   [@dotglitch/ngx-lazy-loader (⭐0)](https://github.com/knackstedt/ngx-lazy-loader) - Highly customizable lazy loader for Angular components.
 
 #### Maps
@@ -673,29 +669,29 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [ng-snotify (⭐326)](https://github.com/artemsky/ng-snotify/) - Angular 4 Notification Center
 *   [ng2-sweetalert2 (⭐48)](https://github.com/seiyria/ng2-sweetalert2) A wrapper for sweetalert2 for use with Angular 2.
 *   [ngx-popper (⭐185)](https://github.com/MrFrankel/ngx-popper) - Tooltip managment, wrapper for popper.js(<https://popper.js.org/>)
-*   [ngx-toastr (⭐2.4k)](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr
+*   [ngx-toastr (⭐2.5k)](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr
 
 #### State Management
 
-*   [angular2-query-builder (⭐289)](https://github.com/zebzhao/Angular-QueryBuilder) Modernized query builder based on jquery QueryBuilder
+*   [angular2-query-builder (⭐290)](https://github.com/zebzhao/Angular-QueryBuilder) Modernized query builder based on jquery QueryBuilder
 *   [angular2-jwt (⭐2.6k)](https://github.com/auth0/angular2-jwt) Library for sending authenticated HTTP requests and decoding JWTs
 *   [angular2-cookie (⭐110)](https://github.com/salemdar/angular2-cookie) Library that implements Angular 1.x $cookies service in Angular 2
 *   [angular-safeguard (⭐76)](https://github.com/MikaAK/angular-safeguard) Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage.
 *   [ng2-storage (⭐14)](https://github.com/seiyria/ng2-storage) A localStorage and sessionStorage wrapper written using ES6 Proxies for Angular 2
-*   [ngx-store (⭐166)](https://github.com/zoomsphere/ngx-store) - Complex library for managing `localStorage`, `sessionStorage` and cookies, allows to watch data changes, provides decorators and API based on builder pattern
+*   [ngx-store (⭐167)](https://github.com/zoomsphere/ngx-store) - Complex library for managing `localStorage`, `sessionStorage` and cookies, allows to watch data changes, provides decorators and API based on builder pattern
 *   [ngx-liquid-cache (⭐83)](https://github.com/luckyseven/ngx-liquid-cache) - A powerful, automatic and optimized Angular 2 cache system that fits everywhere!
 *   [ng-http-cache (⭐25)](https://github.com/davguij/angular-http-cache) - Speed up your remote requests by automatically caching them on client.
 *   [ngx-cache (⭐155)](https://github.com/fulls1z3/ngx-cache) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
 *   [universal-model-angular (⭐8)](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular
-*   [ng-http-caching (⭐40)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
+*   [ng-http-caching (⭐42)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
 *   [akita (⭐3.7k)](https://github.com/datorama/akita/) - A Reactive State Management Tailored-Made for JS Applications
-*   [ng-simple-state (⭐37)](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
-*   [exome (⭐131)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
+*   [ng-simple-state (⭐38)](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
+*   [exome (⭐136)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 
 #### Tables
 
 *   [ag-grid](https://www.ag-grid.com/) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components
-*   [ng2-handsontable (⭐274)](https://github.com/valor-software/ng2-handsontable) Excel-like data grid / spreadsheet
+*   [ng2-handsontable (⭐275)](https://github.com/valor-software/ng2-handsontable) Excel-like data grid / spreadsheet
 *   [ng2-smart-table (⭐1.6k)](https://github.com/akveo/ng2-smart-table) Smart data table library with sorting, filtering, pagination & add/edit/delete functions.
 *   [ng2-table (⭐555)](https://github.com/valor-software/ng2-table) Simple table extension with sorting, filtering, paging... for Angular2 apps
 *   [ngfb-sortable-table (⭐26)](https://github.com/NodeArt/Angular-Firebase-Sortable-Table) - Angular Firebase Sortable Table. Ability to filter and sort data with own firebase quering tools.
@@ -713,9 +709,9 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [Essential JS 2 for Angular by Syncfusion](https://www.syncfusion.com/angular-ui-components) - Over 60 high-performance, lightweight, modular, and responsive UI components for Angular.
 *   [ExtAngular](https://www.sencha.com/products/extangular/) - Sencha ExtAngular Pre-built UI Components
 *   [Nebular (⭐8k)](https://github.com/akveo/nebular) - set of essential (Theme, UI Kit, Auth, Security) modules for complex Angular applications
-*   [NG ZORRO MOBILE (⭐793)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - An enterprise-class mobile UI components based on Ant Design Mobile and Angular.
+*   [NG ZORRO MOBILE (⭐791)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - An enterprise-class mobile UI components based on Ant Design Mobile and Angular.
 *   [NG ZORRO (⭐8.7k)](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
-*   [ng-lightning (⭐917)](https://github.com/ng-lightning/ng-lightning) Native Angular 2 components & directives for Lightning Design System
+*   [ng-lightning (⭐916)](https://github.com/ng-lightning/ng-lightning) Native Angular 2 components & directives for Lightning Design System
 *   [ng-metro4 (⭐38)](https://github.com/morrisjdev/ng-metro4) - Angular implementation of UI framework Metro4
 *   [ng-sq-ui (⭐99)](https://github.com/SQ-UI/ng-sq-ui) - Simple Quality UI kit for Angular. Build by developers for developers!
 *   [ngSemantic (⭐974)](https://github.com/vladotesanovic/ngSemantic) - UI components based on Semantic UI
@@ -734,7 +730,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [@angular-material-extensions/google-maps-autocomplete (⭐169)](https://github.com/angular-material-extensions/google-maps-autocomplete) - **Autocomplete** input component and directive for google-maps built with angular material design
 *   [@angular-material-extensions/link-preview (⭐57)](https://github.com/angular-material-extensions/link-preview) - Angular open source UI library to preview web links
 *   [@angular-material-extensions/pages (⭐50)](https://github.com/angular-material-extensions/pages) - Open source library for angular apps to illustrate custom material pages content with steps (ideal for **tutorials** and **explanations** purposes)
-*   [@angular-material-extensions/password-strength (⭐282)](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design
+*   [@angular-material-extensions/password-strength (⭐283)](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design
 *   [angular-jqwidgets](https://www.jqwidgets.com/angular/) Advanced Angular Components with Material Design.
 *   [Covalent](https://teradata.github.io/covalent/) - a UI platform built on Angular 2.0 + Material Design
 *   [Material 2 (⭐24k)](https://github.com/angular/material2) - Angular team's Material Design components built on top of Angular 2
@@ -758,9 +754,9 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### UX Components
 
-*   [angular-shepherd (⭐205)](https://github.com/shipshapecode/angular-shepherd) - Angular 7 Service wrapping the site tour library [Shepherd (⭐12k)](https://github.com/shipshapecode/shepherd)
+*   [angular-shepherd (⭐206)](https://github.com/shipshapecode/angular-shepherd) - Angular 7 Service wrapping the site tour library [Shepherd (⭐12k)](https://github.com/shipshapecode/shepherd)
 *   [ng2-archwizard (⭐300)](https://github.com/madoar/ng2-archwizard) - Wizard component for Angular 2
-*   [ngx-app-tour (⭐20)](https://github.com/hamdiwanis/ngx-app-tour) - Angular2+ plugin for building a tour, showcase or a walkthrough for your app
+*   [ngx-app-tour (⭐19)](https://github.com/hamdiwanis/ngx-app-tour) - Angular2+ plugin for building a tour, showcase or a walkthrough for your app
 *   [Zoom Image Library](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic headless-library to zoom image on the web
 
 #### Viewers
@@ -768,7 +764,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [egjs-flicking (⭐2.7k)](https://github.com/naver/egjs-flicking/tree/master/packages/ngx-flicking) - It's reliable, flexible and extendable carousel for Angular.
 *   [ng2-pdf-viewer (⭐1.3k)](https://github.com/VadimDez/ng2-pdf-viewer) PDF viewer component
 *   [ng2-safe-img (⭐9)](https://github.com/hyzhak/ng2-safe-img) Very tiny and safe img for Angular 2
-*   [ngu-carousel (⭐322)](https://github.com/sheikalthaf/ngu-carousel) - Angular Universal carousel.
+*   [ngu-carousel (⭐323)](https://github.com/sheikalthaf/ngu-carousel) - Angular Universal carousel.
 *   [ngx-siema](https://github.com/lexzhukov/ngx-siema) - Lightweight and simple carousel with no dependencies.
 
 #### Misc Components
@@ -778,20 +774,20 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [@ngx-meta/core (⭐335)](https://github.com/fulls1z3/ngx-meta) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
 *   [Angular SizeObserver](https://gitlab.com/service-work/size-observer) - style DOM elements based on their display size (rather than browser screen size).
 *   [angular2-simple-countdown (⭐27)](https://github.com/previousdeveloper/angular2-simple-countdown) - a simple countdown angular2 directive with multiple language
-*   [ng-chat (⭐153)](https://github.com/rpaschoal/ng-chat) - A simple facebook/linkedin lookalike chat module for Angular applications
+*   [ng-chat (⭐154)](https://github.com/rpaschoal/ng-chat) - A simple facebook/linkedin lookalike chat module for Angular applications
 *   [ng-google-sheets-db (⭐43)](https://github.com/FranzDiebold/ng-google-sheets-db-library) :rocket: Use Google Sheets as your (read-only) backend!
 *   [ng-katex (⭐101)](https://github.com/garciparedes/ng-katex) Angular module to write beautiful math expressions with TeX syntax boosted by KaTeX library
 *   [ng-wormhole (⭐18)](https://github.com/topaxi/ng-wormhole) - Render components somewhere else in the DOM
 *   [ng2-adsense (⭐135)](https://github.com/scttcper/ng2-adsense) - Easy AdSense for Angular Applications
 *   [ngx-avatar (⭐239)](https://github.com/HaithemMosbahi/ngx-avatar) - Avatar component that makes it possible to genearte / fetch avatar based on the information you have about the user.
 *   [ngx-cdmon](https://www.npmjs.com/package/ngx-cdmon) - Library for monitoring Angular change detection performance.
-*   [ngx-countdown (⭐191)](https://github.com/cipchk/ngx-countdown) - Simple, easy and performance countdown for angular
+*   [ngx-countdown (⭐192)](https://github.com/cipchk/ngx-countdown) - Simple, easy and performance countdown for angular
 *   [@ngneat/transloco (⭐1.9k)](https://github.com/ngneat/transloco) - 🚀 😍 The internationalization (i18n) library for Angular
 *   [ngx-i18n-router (⭐35)](https://github.com/fulls1z3/ngx-i18n-router) - Route internationalization utility for Angular by @fulls1z3
-*   [ngx-linkifyjs (⭐40)](https://github.com/AnthonyNahas/ngx-linkifyjs) - Angular V6 wrapper for linkifyjs - library for finding links in plain text and converting them to HTML <a> tags via linkifyjs
+*   [ngx-linkifyjs (⭐41)](https://github.com/AnthonyNahas/ngx-linkifyjs) - Angular V6 wrapper for linkifyjs - library for finding links in plain text and converting them to HTML <a> tags via linkifyjs
 *   [ngx-wheel (⭐28)](https://github.com/Sayegh7/ngx-wheel) - Angular prize winning wheel component!
 *   [@tolgee/ngx (⭐214)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
-*   [xng-breadcrumb (⭐229)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
+*   [xng-breadcrumb (⭐231)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
 *   [ng-let (⭐44)](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
 *   [ng-for-track-by-property (⭐29)](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
 *   [ngx-observers (⭐0)](https://github.com/Raiper34/ngx-observers) - Ngx observers is library to allow developer use Resize, Mutation and Intersection observer api like normal output events on some element.
@@ -815,7 +811,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 #### Universal Seed Projects
 
 *   [universal-starter (⭐2k)](https://github.com/angular/universal-starter) - Angular 2 Universal starter kit by @Angular-Class
-*   [ng-seed/universal (⭐705)](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
+*   [ng-seed/universal (⭐704)](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
 *   [angular-universal (⭐153)](https://github.com/enten/angular-universal) - Fast, Unopinionated, Minimalist starter kit for Angular Universal 100% powered by Angular CLI
 *   [angular-universal-heroku-starter (⭐23)](https://github.com/Alex61NN5/angular-universal-heroku-starter) - Angular 7 Universal Starter Kit with Server-Side Rendering (SSR) and easy deployment to Heroku
 
@@ -839,7 +835,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [ng2-play (⭐537)](https://github.com/pkozlowski-opensource/ng2-play) A minimal Angular2 playground using TypeScript and SystemJS loader
 *   [Angular Lab (⭐147)](https://github.com/rolandjitsu/angular-lab) A simple Angular 2+ setup using [Angular CLI](https://cli.angular.io), [TypeScript](https://www.typescriptlang.org), [Angular Flex Layout (⭐5.9k)](https://github.com/angular/flex-layout), [Material 2](https://material.angular.io), [AOT](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html), and unit and e2e tests on [Travis CI](https://travis-ci.org) and [Saucelabs](https://saucelabs.com).
 *   [Angular 2 Samples (⭐1k)](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
-*   [Todo app with Firebase, OAuth, and Immutable (⭐502)](https://github.com/r-park/todo-angular-firebase)
+*   [Todo app with Firebase, OAuth, and Immutable (⭐501)](https://github.com/r-park/todo-angular-firebase)
 *   [Spring Boot and Angular2 tutorial (⭐142)](https://github.com/springboot-angular2-tutorial/angular2-app) Angular2 practical example based on [Rails tutorial](https://www.railstutorial.org/).
 *   [Angular 2 Goldilocks seed (⭐40)](https://github.com/ColinEberhardt/angular2-goldilocks-seed) - A seed project for Angular 2 and TypeScript that is not too simple, yet not too complex. In fact it's just right!
 *   [Angular 2 Starter (⭐524)](https://github.com/antonybudianto/angular-starter) - Simple Angular 2 Starter with Gulp workflow and Travis CI
@@ -847,7 +843,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [Angular 2 MapboxGL Starter (⭐50)](https://github.com/haoliangyu/ngx-mapboxgl-starter) - Another map application starter based on Angular 2 and MapboxGL JS
 *   [Angular 2 reconnecting websockets quickstart (⭐8)](https://github.com/mkusz/ng2_websockets_quickstart) - Simple counter using 2-way or 1-way reconnecting websockets communication
 *   [ng2-start (⭐34)](https://github.com/cebor/ng2-start) - Minimal setup to start creating an angular2 application
-*   [ng-kitchen-sink (⭐756)](https://github.com/born2net/Angular-kitchen-sink) - The ultimate Angular 2 bootstrap single page app - touches on all key and advanced aspects of Angular
+*   [ng-kitchen-sink (⭐755)](https://github.com/born2net/Angular-kitchen-sink) - The ultimate Angular 2 bootstrap single page app - touches on all key and advanced aspects of Angular
 *   [ng-skeleton (⭐41)](https://github.com/born2net/ng-skeleton) - The ultimate Angular seed with ngrx, bootstrap and two factor auth
 *   [angular2-demo (⭐82)](https://github.com/amcdnl/angular2-demo) Minimal Angular2 Demo using TypeScript / Sass / Npm Tasks
 *   [Angular 2 Dashboard Starter (⭐97)](https://github.com/hasanhameed07/angular2-dashboard-starter) - Ready to use dashboard control panel seed project based on Angular 2 and AdminLTE bootstrap theme.
@@ -869,7 +865,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 *   [NG-MATERO (⭐1.2k)](https://github.com/ng-matero/ng-matero) - This Ng-Matero is an Angular admin templete made with Material componnets.
 *   [TinkoffCreditSystems/angular-open-source-starter (⭐249)](https://github.com/TinkoffCreditSystems/angular-open-source-starter) - a starter project for creating open-source libraries for Angular
 *   [truonghungit/angular-starter](https://github.com/truonghungit/angular-starter) - 😍 A complete Angular 10, NgRx, Angular CLI & Angular Material starter project
-*   [Eoapi (⭐4.8k)](https://github.com/eolinker/eoapi) - A lightweight, extensible API tool based on Angular and Electron
+*   [Eoapi (⭐4.9k)](https://github.com/eolinker/eoapi) - A lightweight, extensible API tool based on Angular and Electron
 *   [**{{** add\_your\_repo **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 ***
@@ -1032,7 +1028,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### React Native Projects
 
-*   [Angular 2 React Native Renderer (GitHub) (⭐787)](https://github.com/angular/react-native-renderer)
+*   [Angular 2 React Native Renderer (GitHub) (⭐786)](https://github.com/angular/react-native-renderer)
 
 #### React Native Seed Projects
 

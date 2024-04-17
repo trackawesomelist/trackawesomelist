@@ -6,11 +6,40 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 [ Daily / [Weekly](/content/Solido/awesome-flutter/week/README.md) / [Overview](/content/Solido/awesome-flutter/readme/README.md) ]
 
-## [Apr 15, 2024](/content/2024/04/15/README.md)
+## [Apr 17, 2024](/content/2024/04/17/README.md)
+
+### Websites / Blogs
+
+*   [Flutter4Fun](http://flutter4fun.com) - UI Challenge implementation blog by [Iman Khoshabi](https://github.com/imaNNeoFighT).
+*   [Flutter Stack Weekly](https://blog.canopas.com/tagged/canopas-flutter-weekly) - Weekly newsletter on new development and updates curated by [Jimmy Sanghani](https://twitter.com/jimmys0251)
 
 ### UI
 
-*   [smooth\_page\_indicator (⭐1.1k)](https://github.com/Milad-Akarie/smooth_page_indicator) <!--stargazers:Milad-Akarie/smooth_page_indicator--> - Customizable animated page indicator with a set of built-in effects. [Milad Akarie](https://github.com/Milad-Akarie)
+*   [Smooth Page Indicator (⭐1.1k)](https://github.com/Milad-Akarie/smooth_page_indicator) <!--stargazers:Milad-Akarie/smooth_page_indicator--> - Customizable animated page indicator with a set of built-in effects. [Milad Akarie](https://github.com/Milad-Akarie)
+*   [Super Editor (⭐1.5k)](https://github.com/superlistapp/super_editor/) <!--stargazers:superlistapp/ssuper_editor--> - Advanced toolkit for building document editors and readers by \[Flutter Bounty Hunters]\([https://github.com/Milad-Akarie](https://flutterbountyhunters.com)
+
+### UI / List
+
+*   [Super List (⭐183)](https://github.com/superlistapp/super_sliver_list) <!--stargazers:superlistapp/super_sliver_list--> - Drop-in replacement for SliverList and ListView that can handle large amount of items with variable extents by [Matej Knopp](https://github.com/knopp)
+
+### UI / UI Helpers
+
+*   [Mix (⭐344)](https://github.com/leoafarias/mix) <!--stargazers:leoafarias/mix--> - An expressive way to effortlessly build design systems by [Leo Farias](https://github.com/leoafarias).
+*   [Blurhash (⭐486)](https://github.com/fluttercommunity/flutter_blurhash) <!--stargazers:fluttercommunity/flutter_blurhash--> - Compact representation of a placeholder for an image. Encode a blurry image under 30 caracters by [Robert Felker](https://www.linkedin.com/in/robert-felker/)
+
+### Media / Audio
+
+*   [Audio Players Plugin (⭐1.9k)](https://github.com/luanpotter/audioplayers) <!--stargazers:luanpotter/audioplayers--> - Play multiple audio files simultaneously (Android/iOS) by [Luan Nico](https://github.com/luanpotter).
+
+### State management / Standard
+
+*   [Signals (⭐329)](https://github.com/rodydavis/signals.dart) <!--stargazers:rodydavis/signals.dart--> - Reactive programming made simple. Port of Signals pattern by [Rody Davis](https://github.com/rodydavis)
+
+### Top / Game Engine resources
+
+*   [Linwood Butterfly (⭐795)](https://github.com/LinwoodCloud/Butterfly) <!--stargazers:LinwoodCloud/Butterfly--> - Powerful note taking app and an alternative to OneNote by [CodeDoctorDE](https://github.com/CodeDoctorDE)
+
+## [Apr 15, 2024](/content/2024/04/15/README.md)
 
 ### Image / Image Picker
 
@@ -39,7 +68,7 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ### Device / Augmented Reality
 
-*   [Live Activities (⭐139)](https://github.com/istornz/live_activities)<!--stargazers:istornz/live_activities--> - A plugin to use iOS live activities & Dynamic Island features by [Dimitri Dessus](https://github.com/istornz)
+*   [Live Activities (⭐139)](https://github.com/istornz/live_activities) <!--stargazers:istornz/live_activities--> - A plugin to use iOS live activities & Dynamic Island features by [Dimitri Dessus](https://github.com/istornz)
 
 ### Services / Bluetooth / NFC / Beacon
 
@@ -129,7 +158,7 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ### Game / Game Engine resources
 
-*   [Awesome Flame (⭐935)](https://github.com/flame-engine/awesome-flame)<!--stargazers:flame-engine/awesome-flame--> - Curated list of the best Flame games, projects, libraries, tools, tutorials, articles and more by [Flame Engine](https://github.com/flame-engine)
+*   [Awesome Flame (⭐935)](https://github.com/flame-engine/awesome-flame) <!--stargazers:flame-engine/awesome-flame--> - Curated list of the best Flame games, projects, libraries, tools, tutorials, articles and more by [Flame Engine](https://github.com/flame-engine)
 
 ## [Apr 23, 2022](/content/2022/04/23/README.md)
 
@@ -182,7 +211,7 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ## [Nov 17, 2021](/content/2021/11/17/README.md)
 
-### UI
+### UI / List
 
 *   [PlutoGrid (⭐620)](https://github.com/bosskmk/pluto_grid) <!--stargazers:bosskmk/pluto_grid--> - Web and desktop datagrid that can be controlled by the keyboard by [bosskmk](https://github.com/bosskmk).
 
@@ -347,7 +376,7 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ### UI
 
-*   [Timeline Tile (⭐673)](https://github.com/JHBitencourt/timeline_tile) <!--stargazers:JHBitencourt/timeline_tile--> - A tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
+*   [Timeline Tile (⭐673)](https://github.com/JHBitencourt/timeline_tile) <!--stargazers:JHBitencourt/timeline_tile--> - Tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
 
 ### Templates / Preferences
 
@@ -390,8 +419,7 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 ### State management / Standard
 
 *   [RiverPod (⭐5.7k)](https://github.com/rrousselGit/river_pod) <!--stargazers:rrousselGit/river_pod--> - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit)
-*   [GetX (⭐9.8k)](https://github.com/jonataslaw/getx) <!--jonataslaw/getx--> - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw)
-*   [Binder (⭐178)](https://github.com/letsar/binder) <!--stargazers:letsar/binder--> -  A lightweight, yet powerful way to bind your application state with your business logic, by [Romain Rastel](https://github.com/letsar).
+*   [GetX (⭐9.8k)](https://github.com/jonataslaw/getx) <!--stargazers:jonataslaw/getx--> - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw)
 
 ### Animation / Redux / ELM / Dependency Injection
 
@@ -482,7 +510,7 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ### Device / Augmented Reality
 
-*   [WidgetKit (⭐252)](https://github.com/fasky-software/flutter_widgetkit)<!--stargazers:baseflow/fasky-software/flutter_widgetkit--> - A plugins which allows you to create a Widget-Extention for iOS by [Thomas Leiter](https://github.com/tomLadder)
+*   [WidgetKit (⭐252)](https://github.com/fasky-software/flutter_widgetkit) <!--stargazers:baseflow/fasky-software/flutter_widgetkit--> - A plugins which allows you to create a Widget-Extention for iOS by [Thomas Leiter](https://github.com/tomLadder)
 
 ## [Oct 20, 2020](/content/2020/10/20/README.md)
 
@@ -826,12 +854,6 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 *   Meetup \[Washington DC] (<https://www.meetup.com/DCFlutter/>)
 
-## [Jan 04, 2020](/content/2020/01/04/README.md)
-
-### UI / Login
-
-*   [Flutter Login (⭐1.5k)](https://github.com/NearHuscarl/flutter_login) - Login widget with slick animation from start to finish by [NearHuscarl](https://github.com/NearHuscarl)
-
 ## [Dec 31, 2019](/content/2019/12/31/README.md)
 
 ### 🇬🇧 United Kingdom / Misc
@@ -848,8 +870,8 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ### Device / Augmented Reality
 
-*   [Geolocator (⭐1.2k)](https://github.com/baseflow/flutter-geolocator)<!--stargazers:baseflow/flutter-geolocator--> - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com)
-*   [Permission Handler (⭐2k)](https://github.com/baseflow/flutter-permission-handler)<!--stargazers:baseflow/flutter-permission-handler--> - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com)
+*   [Geolocator (⭐1.2k)](https://github.com/baseflow/flutter-geolocator) <!--stargazers:baseflow/flutter-geolocator--> - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com)
+*   [Permission Handler (⭐2k)](https://github.com/baseflow/flutter-permission-handler) <!--stargazers:baseflow/flutter-permission-handler--> - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com)
 
 ## [Dec 01, 2019](/content/2019/12/01/README.md)
 
@@ -1019,17 +1041,13 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 *   [Before After (⭐870)](https://github.com/xsahil03x/before_after) <!--stargazers:xsahil03x/before_after--> - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
 
-### UI / Drawers
-
-*   [Flutter Inner Drawer (⭐499)](https://github.com/Dn-a/flutter_inner_drawer) <!--stargazers:Dn-a/flutter_inner_drawer--> - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by [Di Natale Antonino](https://github.com/Dn-a).
-
-### UI / UI Helpers
+### UI / List
 
 *   [Infinite Listview (⭐306)](https://github.com/fluttercommunity/flutter_infinite_listview) <!--stargazers:fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).
 
-### UI / Cupertino Design
+### UI / Drawers
 
-*   [Peek & Pop (⭐239)](https://github.com/aliyigitbireroglu/flutter-peek-and-pop) <!--stargazers:aliyigitbireroglu/flutter-peek-and-pop--> - Peek & Pop implementation based on the iOS functionality by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu)
+*   [Flutter Inner Drawer (⭐499)](https://github.com/Dn-a/flutter_inner_drawer) <!--stargazers:Dn-a/flutter_inner_drawer--> - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by [Di Natale Antonino](https://github.com/Dn-a).
 
 ### Text & Rich Content / Image Picker
 
@@ -1122,10 +1140,8 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ## [Jul 11, 2019](/content/2019/07/11/README.md)
 
-### UI / Sticky Headers
+### UI / List
 
-*   [Sticky Infinite List (⭐339)](https://github.com/TatsuUkraine/flutter_sticky_infinite_list) <!--stargazers:TatsuUkraine/flutter_sticky_infinite_list--> - Highly configurable multi directional infinite list with Sticky Headers by [TatsuUkraine](https://github.com/TatsuUkraine)
-*   [Sticky Header (⭐876)](https://github.com/letsar/flutter_sticky_header) <!--stargazers:letsar/flutter_sticky_header--> - Sliver based sticky headers by [Romain Rastel](https://github.com/letsar)
 *   [Sticky Headers (⭐1.1k)](https://github.com/slightfoot/flutter_sticky_headers) <!--stargazers:slightfoot/flutter_sticky_headers--> - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/)
 
 ## [Jul 09, 2019](/content/2019/07/09/README.md)
@@ -1186,13 +1202,9 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ### UI / UI Helpers
 
-*   [In View Notifier List (⭐645)](https://github.com/rvamsikrishna/inview_notifier_list) - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/rvamsikrishna).
+*   [In View Notifier List (⭐645)](https://github.com/rvamsikrishna/inview_notifier_list) <!--stargazers:rvamsikrishna/flutter_offline--> - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/inview_notifier_list).
 
 ## [Jun 17, 2019](/content/2019/06/17/README.md)
-
-### UI / UI Helpers
-
-*   [Scroll To Index (⭐480)](https://github.com/quire-io/scroll-to-index) <!--stargazers:quire-io/scroll-to-index--> - Scroll to specified child element with given index for SliverList/ListView by [Jerry Chen](https://github.com/jerrywell/).
 
 ### Charts / Image Picker
 
@@ -1202,7 +1214,7 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ### UI
 
-*   [Direct Select (⭐725)](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
+*   [Direct Select (⭐725)](https://github.com/LanarsInc/direct-select-flutter) <!--stargazers:LanarsInc/direct-select-flutter--> - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
 
 ## [Jun 15, 2019](/content/2019/06/15/README.md)
 
@@ -1251,13 +1263,12 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ### Storage / Preferences
 
-*   [Streaming Shared Preferences (⭐247)](https://github.com/roughike/streaming_shared_preferences)<!--stargazers:roughike/streaming_shared_preferences--> - Reactive key-value store, shared preferences with Streams by [Iiro Krankka](https://github.com/roughike)
+*   [Streaming Shared Preferences (⭐247)](https://github.com/roughike/streaming_shared_preferences) <!--stargazers:roughike/streaming_shared_preferences--> - Reactive key-value store, shared preferences with Streams by [Iiro Krankka](https://github.com/roughike)
 
 ## [May 23, 2019](/content/2019/05/23/README.md)
 
 ### Websites / Blogs
 
-*   [Iirokrankka.com](https://iirokrankka.com/) - Articles and tutorials and anything related by [Iiro Krankka](https://twitter.com/koorankka).
 *   [FilledStacks](https://www.filledstacks.com/) - Tutorials and guides on development by [Dane Mackier](https://www.instagram.com/filledstacks/)
 
 ## [May 17, 2019](/content/2019/05/17/README.md)
@@ -1307,12 +1318,6 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 *   [Gitter](https://gitter.im/flutter/flutter) - Exchange channel
 *   [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让 Flutter 更简单
-
-## [May 13, 2019](/content/2019/05/13/README.md)
-
-### UI
-
-*   [Slide Container](https://pub.dev/packages/slide_container) Slide vertically and horizontally with a smooth dampened motion by [Quentin Le Guennec](https://github.com/quentinleguennec).
 
 ## [May 10, 2019](/content/2019/05/10/README.md)
 
@@ -1377,7 +1382,7 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ### Device / Augmented Reality
 
-*   [VPN (⭐329)](https://github.com/X-dea/Flutter_VPN)<!--stargazers:X-dea/Flutter_VPN--> - Access VPN services by [Jason C.H](https://github.com/ctrysbita)
+*   [VPN (⭐329)](https://github.com/X-dea/Flutter_VPN) <!--stargazers:X-dea/Flutter_VPN--> - Access VPN services by [Jason C.H](https://github.com/ctrysbita)
 
 ### 🇧🇷 Brazil / Misc
 
@@ -1418,7 +1423,7 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ## [Mar 06, 2019](/content/2019/03/06/README.md)
 
-### UI / UI Helpers
+### UI / List
 
 *   [Reorderables (⭐714)](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag\&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
 
@@ -1430,9 +1435,12 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ## [Mar 03, 2019](/content/2019/03/03/README.md)
 
-### UI / UI Helpers
+### UI / List
 
 *   [Liquid Pull To Refresh (⭐1.2k)](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) <!--stargazers:aagarwal1012/Liquid-Pull-To-Refresh--> - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
+
+### UI / UI Helpers
+
 *   [Offline (⭐993)](https://github.com/jogboms/flutter_offline) <!--stargazers:jogboms/flutter_offline--> - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 
 ### UI / Calendar
@@ -1610,10 +1618,6 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ## [Dec 17, 2018](/content/2018/12/17/README.md)
 
-### UI
-
-*   [Pin Code (⭐376)](https://github.com/LiewJunTung/pin_code_text_field) <!--stargazers:LiewJunTung/pin_code_text_field--> - Animated & customisable Pin code for login and OTP by [Liew Jun Tung](https://github.com/liewjuntung)
-
 ### Analytics / Image Picker
 
 *   [Pure Mixpanel (⭐24)](https://github.com/seenickcode/pure_mixpanel) <!--stargazers:seenickcode/pure_mixpanel--> - Analytics for the popular [Mixpanel.com](https://mixpanel.com) [Nick Manning](https://twitter.com/seenickcode)
@@ -1656,7 +1660,7 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ## [Oct 28, 2018](/content/2018/10/28/README.md)
 
-### UI
+### UI / List
 
 *   [Snaplist (⭐450)](https://github.com/ariedov/flutter_snaplist) <!--stargazers:ariedov/flutter_snaplist--> - Create snappable list views by [David Leibovych](https://github.com/ariedov)
 
@@ -1683,7 +1687,7 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ## [Oct 09, 2018](/content/2018/10/09/README.md)
 
-### UI
+### UI / List
 
 *   [Typeahead (⭐781)](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) <!--stargazers:AbdulRahmanAlHamali/flutter_typeahead--> - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali)
 
@@ -1994,9 +1998,12 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ### UI
 
-*   [StaggeredGridView (⭐3k)](https://github.com/letsar/flutter_staggered_grid_view) <!--stargazers:letsar/flutter_staggered_grid_view--> - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar)
 *   [Radial Menu (⭐499)](https://github.com/xqwzts/flutter_radial_menu) <!--stargazers:xqwzts/flutter_radial_menu--> - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts)
 *   [Tinder Cards (⭐827)](https://github.com/Ivaskuu/tinder_cards) <!--stargazers:Ivaskuu/tinder_cards--> - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu)
+
+### UI / List
+
+*   [StaggeredGridView (⭐3k)](https://github.com/letsar/flutter_staggered_grid_view) <!--stargazers:letsar/flutter_staggered_grid_view--> - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar)
 
 ### Image / Backend-Driven
 

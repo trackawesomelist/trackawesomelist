@@ -2,7 +2,7 @@
 
 A curated list of resources for teaching kids programming. 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/HollyAdele/awesome-programming-for-kids/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 HollyAdele/awesome-programming-for-kids](https://github.com/HollyAdele/awesome-programming-for-kids) · ⭐ 897 · 🏷️ Learn
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/HollyAdele/awesome-programming-for-kids/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 HollyAdele/awesome-programming-for-kids](https://github.com/HollyAdele/awesome-programming-for-kids) · ⭐ 1K · 🏷️ Learn
 
 [ [Daily](/content/HollyAdele/awesome-programming-for-kids/README.md) / [Weekly](/content/HollyAdele/awesome-programming-for-kids/week/README.md) / Overview ]
 
@@ -33,7 +33,7 @@ A curated list of awesome resources for teaching kids programming.
 *   [Code.org](https://studio.code.org/) - A website with interactive coding games and courses for kids. Covers a large range of ages and skill levels.
 *   [Code Master](https://www.thinkfun.com/products/code-master/) - An addictive board game that builds problem solving skills and understanding of programming logic. Starts basic and moves to very advanced.
 *   [Cargo Bot](https://itunes.apple.com/us/app/cargo-bot/id519690804?mt=8) - iPad app to solve problems with constraints using commands, loops, conditional statements. More difficult puzzles than Lightbot.
-*   [Python Turtle (⭐337)](https://github.com/PythonTurtle/PythonTurtle) original (1986-2021) simple 'Python-Turtle' model.
+*   [Python Turtle (⭐395)](https://github.com/PythonTurtle/PythonTurtle) original (1986-2021) simple 'Python-Turtle' model.
 *   [Code Monkey](https://app.codemonkey.com/users/sign_up/student/age) - more graphics to learn Python type of code. ( Not-free for advanced levels )
 
 ## Upper Elementary
@@ -53,4 +53,5 @@ A curated list of awesome resources for teaching kids programming.
 *   [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Apple's fun iPad app for learning Swift.
 *   [Microsoft MakeCode](https://www.microsoft.com/en-us/makecode) - A suite of educational tools for kids, including online environments for game development, minecraft modding, hardware hacking, and more.
 *   [Sphereo](https://sphero.com/products/mini-at-home-learning-kit) - A spherical robot that can be programmed with a block-programming language in a companion app.
+*   [KODU Game Lab](https://www.kodugamelab.com/) - Kodu lets kids create 3D games on the PC and Xbox via a simple visual programming language.
 

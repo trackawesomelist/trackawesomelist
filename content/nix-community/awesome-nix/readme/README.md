@@ -79,7 +79,7 @@
 *   [nixos-generators (⭐1.5k)](https://github.com/nix-community/nixos-generators) -  Take a NixOS config and build multiple different images types including VirtualBox VMs, Azure images, and installation ISOs.
 *   [nixos-infect (⭐1.1k)](https://github.com/elitak/nixos-infect) - Replace a running non-NixOS Linux host with NixOS.
 *   [nixos-up (⭐210)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
-*   [nix-installer (⭐1.5k)](https://github.com/DeterminateSystems/nix-installer) - Opinonated alternative to the official Nix install scripts.
+*   [nix-installer (⭐1.5k)](https://github.com/DeterminateSystems/nix-installer) - Opinionated alternative to the official Nix install scripts.
 *   [nix-installer-scripts (⭐90)](https://github.com/dnkmmr69420/nix-installer-scripts) - Runs the official installer but does some tweaking as well such as adding fcontext for selinux and installing nix outside of the default profile so you don't accidently uninstall it.
 
 ## Channel History
@@ -129,12 +129,12 @@
 *   [nix-diff (⭐311)](https://github.com/Gabriella439/nix-diff) - A tool to explain why two Nix derivations differ.
 *   [nix-du (⭐291)](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your Nix store.
 *   [nix-index (⭐704)](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
-*   [nix-init (⭐691)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
-*   [nix-melt (⭐189)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
+*   [nix-init (⭐704)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
+*   [nix-melt (⭐190)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
 *   [nix-output-monitor (⭐634)](https://github.com/maralorn/nix-output-monitor) - A tool to produce useful graphs and statistics when building derivations.
 *   [nix-prefetch (⭐111)](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 *   [nix-tree (⭐599)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
-*   [nurl (⭐360)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
+*   [nurl (⭐366)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
 *   [nvd](https://gitlab.com/khumba/nvd) - Diff package versions between two store paths; it's especially useful for comparing NixOS generations on rebuild.
 *   [statix (⭐498)](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
 
@@ -237,7 +237,7 @@
 
 *   [cargo2nix (⭐317)](https://github.com/cargo2nix/cargo2nix) - Granular caching, development shell, Nix & Rust integration.
 *   [crane (⭐731)](https://github.com/ipetkov/crane) - A Nix library for building Cargo projects with incremental artifact caching.
-*   [fenix (⭐546)](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
+*   [fenix (⭐556)](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
 *   [naersk (⭐629)](https://github.com/nmattia/naersk) - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
 *   [nix-cargo-integration (⭐170)](https://github.com/yusdacra/nix-cargo-integration) - A library that allows easy and effortless integration for Cargo projects.
 *   [nixpkgs-mozilla (⭐489)](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with Rust toolchains and Firefox.
@@ -263,6 +263,7 @@
 *   [Stylix (⭐611)](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS.
 *   [nix-bitcoin (⭐446)](https://github.com/fort-nix/nix-bitcoin) - Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security.
 *   [nix-topology (⭐214)](https://github.com/oddlama/nix-topology) - Generate infrastructure and network diagrams directly from your NixOS configuration.
+*   [impermanence (⭐886)](https://github.com/nix-community/impermanence) - Lets you choose what files and directories you want to keep between reboots.
 
 ## NixOS Configuration Editors
 

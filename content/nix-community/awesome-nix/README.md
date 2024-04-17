@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/nix-community/awesome-nix/week/README.md) / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Apr 17, 2024](/content/2024/04/17/README.md)
+
+### NixOS Modules / Zig
+
+*   [impermanence (⭐886)](https://github.com/nix-community/impermanence) - Lets you choose what files and directories you want to keep between reboots.
+
 ## [Apr 10, 2024](/content/2024/04/10/README.md)
 
 ### Resources / Learning
@@ -126,7 +132,7 @@
 
 ### Command-Line Tools / Discovery
 
-*   [nix-melt (⭐189)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
+*   [nix-melt (⭐190)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
 
 ## [Jun 02, 2023](/content/2023/06/02/README.md)
 
@@ -160,7 +166,7 @@
 
 ### Installation Media / Discovery
 
-*   [nix-installer (⭐1.5k)](https://github.com/DeterminateSystems/nix-installer) - Opinonated alternative to the official Nix install scripts.
+*   [nix-installer (⭐1.5k)](https://github.com/DeterminateSystems/nix-installer) - Opinionated alternative to the official Nix install scripts.
 
 ## [Mar 11, 2023](/content/2023/03/11/README.md)
 
@@ -188,7 +194,7 @@
 
 ### Command-Line Tools / Discovery
 
-*   [nix-init (⭐691)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
+*   [nix-init (⭐704)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
 
 ### Programming Languages / PureScript
 
@@ -209,7 +215,7 @@
 
 ### Command-Line Tools / Discovery
 
-*   [nurl (⭐360)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
+*   [nurl (⭐366)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
 
 ### Development / Discovery
 
@@ -417,7 +423,7 @@
 
 ### Programming Languages / Rust
 
-*   [fenix (⭐546)](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
+*   [fenix (⭐556)](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
 *   [nixpkgs-mozilla (⭐489)](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with Rust toolchains and Firefox.
 *   [rust-overlay (⭐738)](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
 
