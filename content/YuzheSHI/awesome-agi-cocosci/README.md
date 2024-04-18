@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Apr 18, 2024](/content/2024/04/18/README.md)
+
+### Science Logology / Democratization of Science
+
+*   [Five keys to writing a reproducible lab protocol](https://www.nature.com/articles/d41586-021-02428-3) - ***Nature***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=13259206850261301938)]. This interviewing paper introduces five ways to increase the reproducibility of experimental protocols: (i) documenting protocols as the experiment goes; (ii) providing video illustrations in addition to written protocols; (iii) using electronic lab notebooks (ELNs) for managing experimental resources digitally; (iv) depositing and documenting reagents with understanding the rationale behind every step; and (v) exploiting online platforms to share tips, extensions, methods, and data among researchers.
+
 ## [Apr 17, 2024](/content/2024/04/17/README.md)
 
 ### Science Logology / Laboratory Automation
@@ -466,7 +472,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Concepts / AI Concept Representation
 
-*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐7.8k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
+*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐7.9k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
 
 ## [Oct 17, 2023](/content/2023/10/17/README.md)
 
@@ -641,7 +647,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Science Logology / Democratization of Science
 
-*   [How to Make More Published Research True](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204808/) - ***PLoS Medicine***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=10945341175996677908\&hl=en\&as_sdt=0,10)].
+*   [How to Make More Published Research True](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204808/) - ***PLoS Medicine***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=10945341175996677908)].
 
 ## [Apr 23, 2023](/content/2023/04/23/README.md)
 

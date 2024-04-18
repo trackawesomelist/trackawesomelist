@@ -144,9 +144,19 @@
 
 ## [14. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
+### Tools / Platforms
+
+*   [MindsDB](https://docs.mindsdb.com/integrations/ai-engines/langchain): Integrates with LangChain, enabling users to deploy, serve, and fine-tune models.
+
 ### Open Source Projects / Other / Chatbots
 
 *   [InkChatGPT (⭐6)](https://github.com/vinhnx/InkChatGPT): A Simple document Retrieval-augmented generation (RAG) Chat app ![GitHub Repo stars](https://img.shields.io/github/stars/vinhnx/InkChatGPT?style=social)
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [Maestro (⭐629)](https://github.com/Doriandarko/maestro): A framework for Claude Opus to intelligently orchestrate subagents. ![GitHub Repo stars](https://img.shields.io/github/stars/Doriandarko/maestro?style=social)
+*   [GPT Pilot (⭐28k)](https://github.com/Pythagora-io/gpt-pilot): GPT Pilot is the core technology for the Pythagora VS Code extension that aims to provide the first real AI developer companion. ![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social)
+*   [SWE Agent (⭐9.6k)](https://github.com/princeton-nlp/swe-agent): SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. ![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/swe-agent?style=social)
 
 ## [15. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
 
@@ -166,6 +176,10 @@
 ### Source Code Repos
 
 *   [framagit.org](https://framagit.org/) — Framagit is the software forge of Framasoft based on the Gitlab software includes CI, Static Pages, Project pages and Issue tracking.
+
+### Testing
+
+*   [Requestly](https://requestly.com/) Open-source Chrome Extension to Intercept, Redirect and Mock HTTP Requests. Featuring [Debugger](https://requestly.com/products/web-debugger/), [Mock Server](https://requestly.com/products/mock-server/), [API Client](https://requestly.com/products/api-client/) and [Session Recording](https://requestly.com/products/session-book/).  Redirect URLs, Modify HTTP Headers, Mock APIs, Inject custom JS, Modify GraphQL Requests, Generate Mock API Endpoints, Record session with Network & Console Logs. Create upto 10 rules in Free Tier. Free for open-source.
 
 ### Email
 
@@ -288,6 +302,10 @@
 *   [@stylin/vite-plugin (⭐178)](https://github.com/sultan99/stylin/tree/main/packages/vite-plugin) - Transform CSS and SCSS modules into React components.
 
 ## [32. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Science Logology / Democratization of Science
+
+*   [Five keys to writing a reproducible lab protocol](https://www.nature.com/articles/d41586-021-02428-3) - ***Nature***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=13259206850261301938)]. This interviewing paper introduces five ways to increase the reproducibility of experimental protocols: (i) documenting protocols as the experiment goes; (ii) providing video illustrations in addition to written protocols; (iii) using electronic lab notebooks (ELNs) for managing experimental resources digitally; (iv) depositing and documenting reagents with understanding the rationale behind every step; and (v) exploiting online platforms to share tips, extensions, methods, and data among researchers.
 
 ### Science Logology / Laboratory Automation
 

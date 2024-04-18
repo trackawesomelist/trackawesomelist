@@ -6,6 +6,18 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Apr 18, 2024](/content/2024/04/18/README.md)
+
+### Tools / Platforms
+
+*   [MindsDB](https://docs.mindsdb.com/integrations/ai-engines/langchain): Integrates with LangChain, enabling users to deploy, serve, and fine-tune models.
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [Maestro (⭐629)](https://github.com/Doriandarko/maestro): A framework for Claude Opus to intelligently orchestrate subagents. ![GitHub Repo stars](https://img.shields.io/github/stars/Doriandarko/maestro?style=social)
+*   [GPT Pilot (⭐28k)](https://github.com/Pythagora-io/gpt-pilot): GPT Pilot is the core technology for the Pythagora VS Code extension that aims to provide the first real AI developer companion. ![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social)
+*   [SWE Agent (⭐9.6k)](https://github.com/princeton-nlp/swe-agent): SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. ![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/swe-agent?style=social)
+
 ## [Apr 16, 2024](/content/2024/04/16/README.md)
 
 ### Open Source Projects / Other / Chatbots
@@ -641,7 +653,7 @@
 
 ### Ports to other languages
 
-*   [Langchain Go (⭐2.7k)](https://github.com/tmc/langchaingo): Golang Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social)
+*   [Langchain Go (⭐3k)](https://github.com/tmc/langchaingo): Golang Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social)
 
 ### Tools / Services
 

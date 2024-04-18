@@ -57,7 +57,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 List of non-official ports of LangChain to other languages.
 
-*   [Langchain Go (⭐2.7k)](https://github.com/tmc/langchaingo): Golang Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social)
+*   [Langchain Go (⭐3k)](https://github.com/tmc/langchaingo): Golang Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social)
 *   [LangchainRb (⭐1k)](https://github.com/andreibondarev/langchainrb): Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social)
 *   [BoxCars (⭐411)](https://github.com/BoxcarsAI/boxcars): Ruby gem, Building applications with composability using Boxcars with LLM's. Inspired by LangChain. ![GitHub Repo stars](https://img.shields.io/github/stars/BoxcarsAI/boxcars?style=social)
 *   [LangTorch (⭐279)](https://github.com/Knowly-ai/langtorch): Building composable LLM applications with Java / JVM. Inspired by LangChain. ![GitHub Repo stars](https://img.shields.io/github/stars/Knowly-ai/langtorch?style=social)
@@ -148,6 +148,7 @@ List of non-official ports of LangChain to other languages.
 *   [Graphsignal](https://graphsignal.com/): Observability for AI agents and LLM-powered applications. Trace, monitor and debug LangChain in production.
 *   [Mona (⭐91)](https://github.com/monalabs/mona-openai): Live monitoring for your OpenAI usage
 *   [Openllmetry (⭐1.2k)](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
+*   [MindsDB](https://docs.mindsdb.com/integrations/ai-engines/langchain): Integrates with LangChain, enabling users to deploy, serve, and fine-tune models.
 
 ## Open Source Projects
 
@@ -315,6 +316,9 @@ List of non-official ports of LangChain to other languages.
 *   [Codel (⭐1.8k)](https://github.com/semanser/codel): ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor. ![GitHub Repo stars](https://img.shields.io/github/stars/semanser/codel?style=social)
 *   [LLocalSearch (⭐2.9k)](https://github.com/nilsherzig/LLocalSearch): LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed. ![GitHub Repo stars](https://img.shields.io/github/stars/nilsherzig/LLocalSearch?style=social)
 *   [Plandex (⭐2.3k)](https://github.com/plandex-ai/plandex): An AI coding engine for complex tasks ![GitHub Repo stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social)
+*   [Maestro (⭐629)](https://github.com/Doriandarko/maestro): A framework for Claude Opus to intelligently orchestrate subagents. ![GitHub Repo stars](https://img.shields.io/github/stars/Doriandarko/maestro?style=social)
+*   [GPT Pilot (⭐28k)](https://github.com/Pythagora-io/gpt-pilot): GPT Pilot is the core technology for the Pythagora VS Code extension that aims to provide the first real AI developer companion. ![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social)
+*   [SWE Agent (⭐9.6k)](https://github.com/princeton-nlp/swe-agent): SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. ![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/swe-agent?style=social)
 
 ## Complement to this list
 

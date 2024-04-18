@@ -8,6 +8,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
+### Science Logology / Democratization of Science
+
+*   [Five keys to writing a reproducible lab protocol](https://www.nature.com/articles/d41586-021-02428-3) - ***Nature***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=13259206850261301938)]. This interviewing paper introduces five ways to increase the reproducibility of experimental protocols: (i) documenting protocols as the experiment goes; (ii) providing video illustrations in addition to written protocols; (iii) using electronic lab notebooks (ELNs) for managing experimental resources digitally; (iv) depositing and documenting reagents with understanding the rationale behind every step; and (v) exploiting online platforms to share tips, extensions, methods, and data among researchers.
+
 ### Science Logology / Laboratory Automation
 
 *   [Reconfigurable system for automated optimization of diverse chemical reactions](https://www.science.org/doi/full/10.1126/science.aat0650) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=3076614068291119943)]. \[[Preprint](https://www.science.org/doi/pdf/10.1126/science.aat0650)]. This paper describes a plug-and-play, continuous-flow chemical synthesis system that mitigates this challenge with an integrated combination of hardware, software, and analytics. The system software controls the user-selected reagents and unit operations (reactors and separators), processes reaction analytics (high-performance liquid chromatography, mass spectrometry, vibrational spectroscopy), and conducts automated optimizations.
@@ -340,7 +344,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Concepts / AI Concept Representation
 
-*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐7.8k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
+*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐7.9k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
 
 ### Complexity & Information Theory / Theory
 
@@ -478,7 +482,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Science Logology / Democratization of Science
 
-*   [How to Make More Published Research True](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204808/) - ***PLoS Medicine***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=10945341175996677908\&hl=en\&as_sdt=0,10)].
+*   [How to Make More Published Research True](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204808/) - ***PLoS Medicine***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=10945341175996677908)].
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 

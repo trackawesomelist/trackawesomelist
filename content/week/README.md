@@ -175,47 +175,31 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [igumnoff/shiva (⭐76)](https://github.com/igumnoff/shiva) - Shiva library: Implementation in Rust of a parser and generator for documents of any type (Plain text, Markdown, HTML, PDF and etc)
 
-#### [19. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
-
-##### Open Source Projects / Other / Chatbots
-
-*   [InkChatGPT (⭐6)](https://github.com/vinhnx/InkChatGPT): A Simple document Retrieval-augmented generation (RAG) Chat app ![GitHub Repo stars](https://img.shields.io/github/stars/vinhnx/InkChatGPT?style=social)
-
-#### [20. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [19. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Charts / Components
 
 *   [ng-apexcharts (⭐290)](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
 
-#### [21. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+#### [20. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ##### Plugins
 
 *   💼 [Dot & Grid Backgrounds (⭐1)](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
 
-#### [22. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
+#### [21. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
 ##### Upper Elementary
 
 *   [KODU Game Lab](https://www.kodugamelab.com/) - Kodu lets kids create 3D games on the PC and Xbox via a simple visual programming language.
 
-#### [23. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Source Code Repos
-
-*   [framagit.org](https://framagit.org/) — Framagit is the software forge of Framasoft based on the Gitlab software includes CI, Static Pages, Project pages and Issue tracking.
-
-##### Email
-
-*   [Maildroppa](https://maildroppa.com) - Up to 100 subscribers and unlimited emails as well as automations for free.
-
-#### [24. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+#### [22. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ##### NixOS Modules / Zig
 
 *   [impermanence (⭐886)](https://github.com/nix-community/impermanence) - Lets you choose what files and directories you want to keep between reboots.
 
-#### [25. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [23. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -275,7 +259,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [NDJSON (⭐632) (⭐626)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐309) (⭐305)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-#### [26. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+#### [24. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ##### Configs / Other Configs
 
@@ -285,13 +269,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [paths (⭐29)](https://github.com/vitonsky/eslint-plugin-paths) - Use paths from tsconfig/jsconfig and auto fix relative paths to aliases.
 
-#### [27. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [25. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Parsers/Encoders/Decoders
 
 *   [prattle (⭐2)](https://github.com/askeladdk/prattle) - Scan and parse LL(1) grammars simply and efficiently.
 
-#### [28. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [26. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### GUI
 
@@ -301,50 +285,43 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [RapidFuzz (⭐205)](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. \[MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
 
-#### [29. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Science Logology / Laboratory Automation
-
-*   [Reconfigurable system for automated optimization of diverse chemical reactions](https://www.science.org/doi/full/10.1126/science.aat0650) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=3076614068291119943)]. \[[Preprint](https://www.science.org/doi/pdf/10.1126/science.aat0650)]. This paper describes a plug-and-play, continuous-flow chemical synthesis system that mitigates this challenge with an integrated combination of hardware, software, and analytics. The system software controls the user-selected reagents and unit operations (reactors and separators), processes reaction analytics (high-performance liquid chromatography, mass spectrometry, vibrational spectroscopy), and conducts automated optimizations.
-*   [What is a minimal working example for a self-driving laboratory?](https://www.sciencedirect.com/science/article/pii/S2590238522006385) - ***Matter***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=1612804023616680548)]. This paper proposes SDL-Demo: a low-cost “Hello, World!” for self-driving laboratories that combines “Hello, World!” tasks from electronics, physics-based simulations, and optimization. SDL-Demo is modular and extensible, making it an ideal candidate for low-cost teaching and prototyping of self-driving laboratory concepts.
-
-#### [30. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+#### [27. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ##### Extensions and Utilities
 
 *   [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=playcanvas.playcanvas) - VS Code Extension that can be used instead of the built-in Code Editor.
 
-#### [31. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
+#### [28. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
 ##### Featured On
 
 *   [Kubernetes Katas, A selection of exercises for Kubernetes (⭐242)](https://github.com/eficode-academy/kubernetes-katas/)
 
-#### [32. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [29. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Developer Tools / Version Control
 
 *   [RelaGit](https://rela.dev/) - The elegant solution to graphical version control. Built by developers, for developers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/relagit/relagit) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-#### [33. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+#### [30. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ##### Other / C++
 
 *   [vbrusca/ZigSdlGameTemplate (⭐1)](https://github.com/vbrusca/ZigSdlGameTemplate) - SDL game project template.
 
-#### [34. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+#### [31. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ##### UI Libraries
 
 *   [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
 
-#### [35. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+#### [32. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ##### Racing
 
 *   [Reburn 3 (⭐81)](https://github.com/reburndev/reburn3) - A work-in-progress open source reimplementation of Burnout 3: Takedown.
 
-#### [36. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+#### [33. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ##### Websites / Blogs
 
@@ -427,7 +404,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   Meetup [NYC](https://www.meetup.com/flutter-nyc/)
 
-#### [37. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+#### [34. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ##### Artificial Intelligence
 
@@ -438,6 +415,47 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Engineering Elixir Applications](https://pragprog.com/titles/beamops/engineering-elixir-applications/) - *(currently in Beta)* As the subtitle suggests, this book explores the technologies and skills that support navigating each stage of software delivery with confidence.
 *   [The Phoenix LiveView Cookbook](https://www.liveviewcookbook.com/) - A Phoenix LiveView e-book containing tried and tested recipes for solving common problems.
 
+#### [35. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Source Code Repos
+
+*   [framagit.org](https://framagit.org/) — Framagit is the software forge of Framasoft based on the Gitlab software includes CI, Static Pages, Project pages and Issue tracking.
+
+##### Testing
+
+*   [Requestly](https://requestly.com/) Open-source Chrome Extension to Intercept, Redirect and Mock HTTP Requests. Featuring [Debugger](https://requestly.com/products/web-debugger/), [Mock Server](https://requestly.com/products/mock-server/), [API Client](https://requestly.com/products/api-client/) and [Session Recording](https://requestly.com/products/session-book/).  Redirect URLs, Modify HTTP Headers, Mock APIs, Inject custom JS, Modify GraphQL Requests, Generate Mock API Endpoints, Record session with Network & Console Logs. Create upto 10 rules in Free Tier. Free for open-source.
+
+##### Email
+
+*   [Maildroppa](https://maildroppa.com) - Up to 100 subscribers and unlimited emails as well as automations for free.
+
+#### [36. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Science Logology / Democratization of Science
+
+*   [Five keys to writing a reproducible lab protocol](https://www.nature.com/articles/d41586-021-02428-3) - ***Nature***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=13259206850261301938)]. This interviewing paper introduces five ways to increase the reproducibility of experimental protocols: (i) documenting protocols as the experiment goes; (ii) providing video illustrations in addition to written protocols; (iii) using electronic lab notebooks (ELNs) for managing experimental resources digitally; (iv) depositing and documenting reagents with understanding the rationale behind every step; and (v) exploiting online platforms to share tips, extensions, methods, and data among researchers.
+
+##### Science Logology / Laboratory Automation
+
+*   [Reconfigurable system for automated optimization of diverse chemical reactions](https://www.science.org/doi/full/10.1126/science.aat0650) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=3076614068291119943)]. \[[Preprint](https://www.science.org/doi/pdf/10.1126/science.aat0650)]. This paper describes a plug-and-play, continuous-flow chemical synthesis system that mitigates this challenge with an integrated combination of hardware, software, and analytics. The system software controls the user-selected reagents and unit operations (reactors and separators), processes reaction analytics (high-performance liquid chromatography, mass spectrometry, vibrational spectroscopy), and conducts automated optimizations.
+*   [What is a minimal working example for a self-driving laboratory?](https://www.sciencedirect.com/science/article/pii/S2590238522006385) - ***Matter***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=1612804023616680548)]. This paper proposes SDL-Demo: a low-cost “Hello, World!” for self-driving laboratories that combines “Hello, World!” tasks from electronics, physics-based simulations, and optimization. SDL-Demo is modular and extensible, making it an ideal candidate for low-cost teaching and prototyping of self-driving laboratory concepts.
+
+#### [37. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+
+##### Tools / Platforms
+
+*   [MindsDB](https://docs.mindsdb.com/integrations/ai-engines/langchain): Integrates with LangChain, enabling users to deploy, serve, and fine-tune models.
+
+##### Open Source Projects / Other / Chatbots
+
+*   [InkChatGPT (⭐6)](https://github.com/vinhnx/InkChatGPT): A Simple document Retrieval-augmented generation (RAG) Chat app ![GitHub Repo stars](https://img.shields.io/github/stars/vinhnx/InkChatGPT?style=social)
+
+##### Other LLM Frameworks / Videos Playlists
+
+*   [Maestro (⭐629)](https://github.com/Doriandarko/maestro): A framework for Claude Opus to intelligently orchestrate subagents. ![GitHub Repo stars](https://img.shields.io/github/stars/Doriandarko/maestro?style=social)
+*   [GPT Pilot (⭐28k)](https://github.com/Pythagora-io/gpt-pilot): GPT Pilot is the core technology for the Pythagora VS Code extension that aims to provide the first real AI developer companion. ![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social)
+*   [SWE Agent (⭐9.6k)](https://github.com/princeton-nlp/swe-agent): SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. ![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/swe-agent?style=social)
+
 ---
 
 - Next: [Apr 08 - Apr 14, 2024](&#x2F;content&#x2F;2024&#x2F;15&#x2F;README.md)
@@ -447,7 +465,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 1. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 204K 📝 04&#x2F;15 ](https://github.com/vinta/awesome-python)) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 176K 📝 04&#x2F;13 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 119K 📝 04&#x2F;17 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 83K 📝 04&#x2F;17 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 83K 📝 04&#x2F;18 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 5. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 298K 📝 04&#x2F;04 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
 6. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 71K 📝 04&#x2F;17 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 7. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 71K 📝 04&#x2F;15 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
@@ -475,8 +493,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 29. [Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md) - ([Source ⭐ 11K 📝 04&#x2F;16 ](https://github.com/rshipp/awesome-malware-analysis)) - Defund the Police.
 30. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.2K 📝 04&#x2F;17 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
 31. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 18K 📝 04&#x2F;09 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
-32. [Awesome Microservices](/content/mfornos/awesome-microservices/README.md) - ([Source ⭐ 13K 📝 04&#x2F;10 ](https://github.com/mfornos/awesome-microservices)) - A curated list of Microservice Architecture related principles and technologies.
-33. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 6.6K 📝 04&#x2F;16 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+32. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 6.6K 📝 04&#x2F;18 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+33. [Awesome Microservices](/content/mfornos/awesome-microservices/README.md) - ([Source ⭐ 13K 📝 04&#x2F;10 ](https://github.com/mfornos/awesome-microservices)) - A curated list of Microservice Architecture related principles and technologies.
 34. [GoBooks](/content/dariubs/GoBooks/README.md) - ([Source ⭐ 16K 📝 04&#x2F;07 ](https://github.com/dariubs/GoBooks)) - List of Golang books
 35. [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 40K 📝 03&#x2F;27 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
 36. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 5.6K 📝 04&#x2F;15 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
@@ -568,7 +586,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/README.md) - ([Source ⭐ 536, 📝 23&#x2F;03&#x2F;13 ](https://github.com/Kamigami55/awesome-chatgpt)) - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
 - [Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md) - ([Source ⭐ 557, 📝 23&#x2F;07&#x2F;20 ](https://github.com/saharmor/awesome-chatgpt)) - Selected ChatGPT demos, tools, articles, and more ✨
 - [Awesome Chatgpt Prompts](/content/f/awesome-chatgpt-prompts/README.md) - ([Source ⭐ 4K, 📝 70&#x2F;01&#x2F;01 ](https://github.com/f/awesome-chatgpt-prompts)) - This repo includes ChatGPT promt curation to use ChatGPT better.
-- [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 6.6K, 📝 04&#x2F;16 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+- [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 6.6K, 📝 04&#x2F;18 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 
 ### Computer Science
 
@@ -1034,7 +1052,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 996, 📝 23&#x2F;12&#x2F;26 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.8K, 📝 04&#x2F;13 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 29K, 📝 02&#x2F;21 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 83K, 📝 04&#x2F;17 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 83K, 📝 04&#x2F;18 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2K, 📝 22&#x2F;07&#x2F;12 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 11K, 📝 23&#x2F;10&#x2F;11 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 3.4K, 📝 03&#x2F;15 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
@@ -1229,7 +1247,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 248, 📝 04&#x2F;17 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 248, 📝 04&#x2F;18 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 15K, 📝 23&#x2F;09&#x2F;23 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 8.9K, 📝 03&#x2F;15 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 81, 📝 03&#x2F;12 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.
