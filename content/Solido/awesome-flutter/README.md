@@ -6,6 +6,12 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 [ Daily / [Weekly](/content/Solido/awesome-flutter/week/README.md) / [Overview](/content/Solido/awesome-flutter/readme/README.md) ]
 
+## [Apr 18, 2024](/content/2024/04/18/README.md)
+
+### State management / Standard
+
+*   [Get It (⭐1.3k)](https://github.com/fluttercommunity/get_it) <!--stargazers:fluttercommunity/get_it--> - Simple direct Service Locator that allows to decouple the interface from a concrete implementation by [Thomas Burkhartb](https://twitter.com/Thomasburkhartb)
+
 ## [Apr 17, 2024](/content/2024/04/17/README.md)
 
 ### Websites / Blogs

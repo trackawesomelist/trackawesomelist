@@ -1,42 +1,54 @@
 # Awesome List Updates on Apr 15 - Apr 21, 2024
 
-36 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [1. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+
+### Racing
+
+*   [Reburn 3 (⭐81)](https://github.com/reburndev/reburn3) - A work-in-progress open source reimplementation of Burnout 3: Takedown.
+
+## [2. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+
+### UI Libraries
+
+*   [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
+
+## [3. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Other / C++
 
 *   [vbrusca/ZigSdlGameTemplate (⭐1)](https://github.com/vbrusca/ZigSdlGameTemplate) - SDL game project template.
 
-## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Version Control
 
 *   [RelaGit](https://rela.dev/) - The elegant solution to graphical version control. Built by developers, for developers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/relagit/relagit) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [3. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
+## [5. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
 ### Featured On
 
 *   [Kubernetes Katas, A selection of exercises for Kubernetes (⭐242)](https://github.com/eficode-academy/kubernetes-katas/)
 
-## [4. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [6. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Extensions and Utilities
 
 *   [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=playcanvas.playcanvas) - VS Code Extension that can be used instead of the built-in Code Editor.
 
-## [5. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Parsers/Encoders/Decoders
 
 *   [prattle (⭐2)](https://github.com/askeladdk/prattle) - Scan and parse LL(1) grammars simply and efficiently.
 
-## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [8. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Configs / Other Configs
 
@@ -46,7 +58,7 @@
 
 *   [paths (⭐29)](https://github.com/vitonsky/eslint-plugin-paths) - Use paths from tsconfig/jsconfig and auto fix relative paths to aliases.
 
-## [7. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [9. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -106,60 +118,50 @@
 *   [NDJSON (⭐632) (⭐626)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐309) (⭐305)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [8. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [10. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### NixOS Modules / Zig
 
 *   [impermanence (⭐886)](https://github.com/nix-community/impermanence) - Lets you choose what files and directories you want to keep between reboots.
 
-## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-
-### Libraries/Frameworks / Data Science
-
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
-
-## [10. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
+## [11. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
 
 ### Upper Elementary
 
 *   [KODU Game Lab](https://www.kodugamelab.com/) - Kodu lets kids create 3D games on the PC and Xbox via a simple visual programming language.
 
-## [11. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [12. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
 *   💼 [Dot & Grid Backgrounds (⭐1)](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
 
-## [12. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [13. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Charts / Components
 
 *   [ng-apexcharts (⭐290)](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
 
-## [13. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [14. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Open Source Projects / Other / Chatbots
 
 *   [InkChatGPT (⭐6)](https://github.com/vinhnx/InkChatGPT): A Simple document Retrieval-augmented generation (RAG) Chat app ![GitHub Repo stars](https://img.shields.io/github/stars/vinhnx/InkChatGPT?style=social)
 
-## [14. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
+## [15. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
 
 ### Helpers
 
 *   [reducegeojson (⭐0)](https://github.com/radical-data/reducegeojson) - A tool to reduce the file size of GeoJSON files for web optimisation.
 
-## [15. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [16. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Web
 
 *   [Falsehoods about HTML](https://www.aartaka.me.eu.org/falsehoods-html) - “Web is beautiful. Web is ugly. Web is astonishing. A part of this appeal is HTML, with its historical quirks.”
 *   [The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases](https://web.archive.org/web/20230604033340/https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/) - Downloading that little icon you see in you browser tabs should be a simple exercise. It turned out to be a lot more complicated than you think. Be vigilant that you are not shaving a Yak.
 
-## [16. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Source Code Repos
 
@@ -169,37 +171,37 @@
 
 *   [Maildroppa](https://maildroppa.com) - Up to 100 subscribers and unlimited emails as well as automations for free.
 
-## [17. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [18. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / Ballerina
 
 *   [ballerina-mongodb (⭐126)](https://github.com/ballerina-platform/module-ballerinax-mongodb) - Official Ballerina driver
 
-## [18. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [19. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Detection and Classification / Other Resources
 
 *   [Assemblyline](https://cybercentrecanada.github.io/assemblyline4_docs/) - A scalable file triage and malware analysis system integrating the cyber security community's best tools..
 
-## [19. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [20. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Date and Time
 
 *   [holi (⭐4)](https://github.com/luciolucio/holi) - Calendar operations that are aware of weekends and holidays
 
-## [20. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [21. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Generative AI history, timelines, maps, and definitions
 
 *   \[🔥🔥🔥] [FirstMark | 2024 MAD (ML/AI/Data) Landscape](https://mad.firstmark.com/): Full Steam Ahead The 2024 MAD (Machine Learning, AI & Data) Landscape
 
-## [21. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [22. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Tools / Ironsworn
 
 *   [Pocketforge](https://rockpaperstory.com/pocketforge) - Ironsworn & Starforged companion app
 
-## [22. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [23. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
@@ -209,19 +211,19 @@
 
 *   [k6 QuickPizza examples (⭐46)](https://github.com/grafana/quickpizza) - Web application used for demos and workshops with multiple k6 examples.
 
-## [23. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [24. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Third-Party owned
 
 *   [Tuta](https://tuta.com/) - Secure email for everybody. Open Source.
 
-## [24. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Community / Community Chat Rooms
 
 *   [rust-embedded:QQ group](https://qm.qq.com/q/A8Hl57xR1C) - Chinese community for Rust embedded
 
-## [25. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [26. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Deployment / Isomorphic web frameworks
 
@@ -231,13 +233,18 @@
 
 *   [fuzzy-dates (⭐14)](https://github.com/Shinmera/fuzzy-dates) -  A library to fuzzily parse date and time strings. Zlib.
 
-## [26. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Artificial Intelligence
 
 *   [ExLLama (⭐3)](https://github.com/noizu-labs-ml/ex_llama) - LlamaCpp Nif Extensions for Elixir/Erlang.
 
-## [27. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+### Books
+
+*   [Engineering Elixir Applications](https://pragprog.com/titles/beamops/engineering-elixir-applications/) - *(currently in Beta)* As the subtitle suggests, this book explores the technologies and skills that support navigating each stage of software delivery with confidence.
+*   [The Phoenix LiveView Cookbook](https://www.liveviewcookbook.com/) - A Phoenix LiveView e-book containing tried and tested recipes for solving common problems.
+
+## [28. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Compression
 
@@ -248,13 +255,13 @@
 
 *   [igumnoff/shiva (⭐76)](https://github.com/igumnoff/shiva) - Shiva library: Implementation in Rust of a parser and generator for documents of any type (Plain text, Markdown, HTML, PDF and etc)
 
-## [28. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [29. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Admin Panels
 
 *   [streamlit (⭐31k)](https://github.com/streamlit/streamlit) - A framework which lets you build dashboards, generate reports, or create chat apps in minutes.
 
-## [29. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -274,20 +281,20 @@
 
 *   [Vue Cheatsheet](https://vue-cheatsheet.themeselection.com/) - The only Vue cheatsheet you will ever need
 
-## [30. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [31. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### React / Transformers
 
 *   [@stylin/vite-plugin (⭐178)](https://github.com/sultan99/stylin/tree/main/packages/vite-plugin) - Transform CSS and SCSS modules into React components.
 
-## [31. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [32. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Science Logology / Laboratory Automation
 
 *   [Reconfigurable system for automated optimization of diverse chemical reactions](https://www.science.org/doi/full/10.1126/science.aat0650) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=3076614068291119943)]. \[[Preprint](https://www.science.org/doi/pdf/10.1126/science.aat0650)]. This paper describes a plug-and-play, continuous-flow chemical synthesis system that mitigates this challenge with an integrated combination of hardware, software, and analytics. The system software controls the user-selected reagents and unit operations (reactors and separators), processes reaction analytics (high-performance liquid chromatography, mass spectrometry, vibrational spectroscopy), and conducts automated optimizations.
 *   [What is a minimal working example for a self-driving laboratory?](https://www.sciencedirect.com/science/article/pii/S2590238522006385) - ***Matter***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=1612804023616680548)]. This paper proposes SDL-Demo: a low-cost “Hello, World!” for self-driving laboratories that combines “Hello, World!” tasks from electronics, physics-based simulations, and optimization. SDL-Demo is modular and extensible, making it an ideal candidate for low-cost teaching and prototyping of self-driving laboratory concepts.
 
-## [32. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### GUI
 
@@ -297,7 +304,7 @@
 
 *   [RapidFuzz (⭐205)](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. \[MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
 
-## [33. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [34. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Websites / Blogs
 
@@ -358,6 +365,7 @@
 
 ### State management / Standard
 
+*   [Get It (⭐1.3k)](https://github.com/fluttercommunity/get_it) <!--stargazers:fluttercommunity/get_it--> - Simple direct Service Locator that allows to decouple the interface from a concrete implementation by [Thomas Burkhartb](https://twitter.com/Thomasburkhartb)
 *   [Signals (⭐329)](https://github.com/rodydavis/signals.dart) <!--stargazers:rodydavis/signals.dart--> - Reactive programming made simple. Port of Signals pattern by [Rody Davis](https://github.com/rodydavis)
 
 ### Animation / Redux / ELM / Dependency Injection
@@ -379,7 +387,7 @@
 
 *   Meetup [NYC](https://www.meetup.com/flutter-nyc/)
 
-## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [35. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Color / Diagnostics
 
@@ -393,7 +401,7 @@
 
 *   [moyiz/git-dev.nvim (⭐2)](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim.
 
-## [35. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [36. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Other / [Other](#other-1)
 
@@ -412,7 +420,7 @@
 *   configurable list of remote, or local schemas locations, enabling validating Kubernetes custom resources (CRDs) and offline validation capabilities
 *   uses by default a self-updating fork of the schemas registry maintained by the kubernetes-json-schema project - which guarantees up-to-date schemas for all recent versions of Kubernetes.
 
-## [36. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [37. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Artificial Intelligence
 

@@ -12,6 +12,11 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 *   [ExLLama (⭐3)](https://github.com/noizu-labs-ml/ex_llama) - LlamaCpp Nif Extensions for Elixir/Erlang.
 
+### Books
+
+*   [Engineering Elixir Applications](https://pragprog.com/titles/beamops/engineering-elixir-applications/) - *(currently in Beta)* As the subtitle suggests, this book explores the technologies and skills that support navigating each stage of software delivery with confidence.
+*   [The Phoenix LiveView Cookbook](https://www.liveviewcookbook.com/) - A Phoenix LiveView e-book containing tried and tested recipes for solving common problems.
+
 ## [Mar 25 - Mar 31, 2024](/content/2024/13/README.md)
 
 ### Testing

@@ -67,6 +67,7 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ### State management / Standard
 
+*   [Get It (⭐1.3k)](https://github.com/fluttercommunity/get_it) <!--stargazers:fluttercommunity/get_it--> - Simple direct Service Locator that allows to decouple the interface from a concrete implementation by [Thomas Burkhartb](https://twitter.com/Thomasburkhartb)
 *   [Signals (⭐329)](https://github.com/rodydavis/signals.dart) <!--stargazers:rodydavis/signals.dart--> - Reactive programming made simple. Port of Signals pattern by [Rody Davis](https://github.com/rodydavis)
 
 ### Animation / Redux / ELM / Dependency Injection
