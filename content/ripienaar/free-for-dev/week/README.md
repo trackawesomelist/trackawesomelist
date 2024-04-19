@@ -20,6 +20,15 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Maildroppa](https://maildroppa.com) - Up to 100 subscribers and unlimited emails as well as automations for free.
 
+### Font
+
+*   [Bunny](https://fonts.bunny.net) Privacy oriented Google Fonts
+
+### Tunneling, WebRTC, Web Socket Servers and Other Routers
+
+*   Google STUN — [stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/README.md/stun:stun.l.google.com:19302)
+*   Twilio STUN — [stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/README.md/stun:global.stun.twilio.com:3478?transport=udp)
+
 ### Other Free Resources
 
 *   [Pyrexp](https://pythonium.net/regex) — Free web-based regex tester and visualizer for debugging regular expressions.
@@ -1066,9 +1075,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### CI and CD
 
-*   [Buildkite](https://buildkite.com)
-    *   Pipelines: Free developer tier includes unlimited concurrency, up to 3 users, 5k job minutes/month, and 30-day build retention, with more free inclusions for open source projects
-    *   [Test Analytics](https://buildkite.com/test-analytics) — Get more out of your test suites, works with any CI platform. The free developer tier includes 100k test executions/month, with more free inclusions for open-source projects.
+*   [Buildkite](https://buildkite.com) CI Pipelines free for 3 users and 5k job minutes/month. Test Analytics free developer tier includes 100k test executions/month, with more free inclusions for open-source projects.
 
 ### Security and PKI
 
@@ -1469,17 +1476,9 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Doppler](https://doppler.com/) — Universal Secrets Manager for application secrets and config, with support for syncing to various cloud providers. Free for five users with basic access controls.
 *   [Dotenv](https://dotenv.org/) — Sync your .env files, quickly & securely. Stop sharing your .env files over insecure channels like Slack and email, and never lose an important .env file again. Free for up to 3 teammates.
 
-### Font
-
-*   [Bunny](https://bunny.net)
-    *   [Bunny Fonts](https://fonts.bunny.net/) - All the Google Fonts with Google Fonts drop-in compatible API. Privacy oriented!
-    *   [Bunny DNS](https://bunny.net/dns/) - DNS hosting, 20 million free queries
-
 ### CDN and Protection
 
-*   [Gcore](https://gcorelabs.com/)
-    *   [CDN](https://gcorelabs.com/cdn/) — Global content delivery network, 1 TB and 1 million requests per month free.
-    *   [DNS Hosting](https://gcorelabs.com/dns/) — Free DNS hosting.
+*   [Gcore](https://gcorelabs.com/) Global content delivery network, 1 TB and 1 million requests per month free and free DNS hosting
 
 ### PaaS
 
@@ -1624,8 +1623,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### IDE and Code Editing
 
 *   [Visual Studio Code](https://code.visualstudio.com/) - Code editor redefined and optimized for building and debugging modern web and cloud applications. Developed by Microsoft.
-    *   [Desktop](https://code.visualstudio.com) - (Windows, macOS and Linux).
-    *   [Online](https://vscode.dev) - (Browser)
 
 ### Game Development
 
@@ -2240,9 +2237,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [localhost.run](https://localhost.run/) — Expose locally running servers over a tunnel to a public URL.
 *   [localtunnel](https://theboroer.github.io/localtunnel-www/) — Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source (⭐18k)](https://github.com/localtunnel/localtunnel).
 *   [Radmin VPN](https://www.radmin-vpn.com/) — Connect multiple computers together via a VPN-enabling LAN-like network. Unlimited peers. (Hamachi alternative)
-*   [STUN](https://en.wikipedia.org/wiki/STUN) — Session Traversal of User Datagram Protocol \[UDP] Through Network Address Translators \[NATs])
-    *   Google STUN — [stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/README.md/stun:stun.l.google.com:19302)
-    *   Twilio STUN — [stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/README.md/stun:global.stun.twilio.com:3478?transport=udp)
 *   [Tailscale](https://tailscale.com/) — Zero config VPN, using the open-source WireGuard protocol. Installs on MacOS, iOS, Windows, Linux, and Android devices. Free plan for personal use with 100 devices and three users.
 
 ### Analytics, Events and Statistics
@@ -2949,12 +2943,11 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
     *   [Checkout](https://zoho.com/checkout) — Product Billing management with 3 pages & up to 50 payments.
     *   [Desk](https://zoho.com/desk) — Customer Support management with three agents, private knowledge base, and email tickets. Integrates with [Assist](https://zoho.com/assist) for one remote technician & 5 unattended computers.
     *   [Cliq](https://zoho.com/cliq) — Team chat software with 100 GB storage, unlimited users, 100 users per channel & SSO.
-    *   [Campaigns](https://zoho.com/campaigns)
-    *   [Forms](https://zoho.com/forms)
-    *   [Sign](https://zoho.com/sign)
-    *   [Surveys](https://zoho.com/surveys)
-    *   [Bookings](https://zoho.com/bookings)
-    *   [Analytics](https://zoho.com/analytics)
+    *   [Campaigns](https://zoho.com/campaigns) - Email Marketing
+    *   [Forms](https://zoho.com/forms) - Form Creator
+    *   [Sign](https://zoho.com/sign) - Paperless Signatures
+    *   [Surveys](https://zoho.com/surveys) - Online Surveys
+    *   [Bookings](https://zoho.com/bookings) - Appointment Scheduling
 
 ### Managed Data Services
 
@@ -3021,18 +3014,8 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Source Code Repos
 
-*   [GitHub](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Apart from this, some other free services(there are many more, but we list the main ones here) provided are :
-    *   [CI/CD](https://github.com/features/actions)(Free for Public Repos, 2000 min/month free for private repos)
-    *   [Codespaces](https://github.com/codespaces) - Development environments hosted in the cloud. 120-core hours and 15 GB codespaces storage available for free every month.
-    *   [Static Website Hosting](https://pages.github.com) (Free for Public Repos)
-    *   [Package Hosting & Container Registry](https://github.com/features/packages) (Free for public repos,500 MB storage & 1GB bandwidth outside CI/CD free for private repos)
-    *   Project Management and issue Tracking.
-    *   [GitHub Copilot](https://github.com/features/copilot) — AI pair programmer and completion tool powered by OpenAI Codex. Provides code review, autocompletion, documentation, and refactoring. Free for students via the GitHub Student Developer Pack.
-*   [gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with up to 5 collaborators. Also offers the following features :
-    *   [CI/CD](https://about.gitlab.com/product/continuous-integration) (Free for Public Repos, 400 mins/month for private repos)
-    *   Static Sites with [GitLab Pages](https://about.gitlab.com/product/pages).
-    *   Container Registry with a 10 GB limit per repo.
-    *   Project Management and issue Tracking.
+*   [GitHub](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Includes CI/CD, Development Environment, Static Hosting, Package and Container hosting, Project management and AI Copilot
+*   [gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with up to 5 collaborators. Includes CI/CD, Static Hosting, Container Registry, Project Management and Issue Tracking
 
 ### APIs, Data, and ML
 

@@ -199,18 +199,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 *   [codebasehq.com](https://www.codebasehq.com/) — One free project with 100 MB space and two users
 *   [Codeberg.org](https://codeberg.org/) - Unlimited public and private Git repos for free and open-source projects. Static website hosting with [Codeberg Pages](https://codeberg.page/).
 *   [GitGud](https://gitgud.io) — Unlimited private and public repositories. Free forever. Powered by GitLab & Sapphire. CI/CD not provided.
-*   [GitHub](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Apart from this, some other free services(there are many more, but we list the main ones here) provided are :
-    *   [CI/CD](https://github.com/features/actions)(Free for Public Repos, 2000 min/month free for private repos)
-    *   [Codespaces](https://github.com/codespaces) - Development environments hosted in the cloud. 120-core hours and 15 GB codespaces storage available for free every month.
-    *   [Static Website Hosting](https://pages.github.com) (Free for Public Repos)
-    *   [Package Hosting & Container Registry](https://github.com/features/packages) (Free for public repos,500 MB storage & 1GB bandwidth outside CI/CD free for private repos)
-    *   Project Management and issue Tracking.
-    *   [GitHub Copilot](https://github.com/features/copilot) — AI pair programmer and completion tool powered by OpenAI Codex. Provides code review, autocompletion, documentation, and refactoring. Free for students via the GitHub Student Developer Pack.
-*   [gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with up to 5 collaborators. Also offers the following features :
-    *   [CI/CD](https://about.gitlab.com/product/continuous-integration) (Free for Public Repos, 400 mins/month for private repos)
-    *   Static Sites with [GitLab Pages](https://about.gitlab.com/product/pages).
-    *   Container Registry with a 10 GB limit per repo.
-    *   Project Management and issue Tracking.
+*   [GitHub](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Includes CI/CD, Development Environment, Static Hosting, Package and Container hosting, Project management and AI Copilot
+*   [gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with up to 5 collaborators. Includes CI/CD, Static Hosting, Container Registry, Project Management and Issue Tracking
 *   [framagit.org](https://framagit.org/) — Framagit is the software forge of Framasoft based on the Gitlab software includes CI, Static Pages, Project pages and Issue tracking.
 *   [heptapod.net](https://foss.heptapod.net/) — Heptapod is a friendly fork of GitLab Community Edition providing support for Mercurial
 *   [ionicframework.com](https://ionicframework.com/appflow) - Repo and tools to develop applications with Ionic; also you have an ionic repo
@@ -583,9 +573,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 *   [bitrise.io](https://www.bitrise.io/) — A CI/CD for mobile apps, native or hybrid. With 200 free builds/month 10 min build time and two team members. OSS projects get 45 min build time, +1 concurrency and unlimited team size.
 *   [buddy.works](https://buddy.works/) — A CI/CD with five free projects and one concurrent run (120 executions/month)
 *   [buddybuild.com](https://www.buddybuild.com/) — Build, deploy, and gather feedback for your iOS and Android apps in one seamless, iterative system
-*   [Buildkite](https://buildkite.com)
-    *   Pipelines: Free developer tier includes unlimited concurrency, up to 3 users, 5k job minutes/month, and 30-day build retention, with more free inclusions for open source projects
-    *   [Test Analytics](https://buildkite.com/test-analytics) — Get more out of your test suites, works with any CI platform. The free developer tier includes 100k test executions/month, with more free inclusions for open-source projects.
+*   [Buildkite](https://buildkite.com) CI Pipelines free for 3 users and 5k job minutes/month. Test Analytics free developer tier includes 100k test executions/month, with more free inclusions for open-source projects.
 *   [bytebase.com](https://www.bytebase.com/) — Database CI/CD and DevOps. Free under 20 users and ten database instances
 *   [CircleCI](https://circleci.com/) — Comprehensive free plan with all features included in a hosted CI/CD service for GitHub, GitLab, and BitBucket repositories. Multiple resource classes, Docker, Windows, Mac OS, ARM executors, local runners, test splitting, Docker Layer Caching, and other advanced CI/CD features. Free for up to 6000 minutes/month execution time, unlimited collaborators, 30 parallel jobs in private projects, and up to 80,000 free build minutes for Open Source projects.
 *   [cirrus-ci.org](https://cirrus-ci.org) - Free for public GitHub repositories
@@ -998,12 +986,11 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
     *   [Checkout](https://zoho.com/checkout) — Product Billing management with 3 pages & up to 50 payments.
     *   [Desk](https://zoho.com/desk) — Customer Support management with three agents, private knowledge base, and email tickets. Integrates with [Assist](https://zoho.com/assist) for one remote technician & 5 unattended computers.
     *   [Cliq](https://zoho.com/cliq) — Team chat software with 100 GB storage, unlimited users, 100 users per channel & SSO.
-    *   [Campaigns](https://zoho.com/campaigns)
-    *   [Forms](https://zoho.com/forms)
-    *   [Sign](https://zoho.com/sign)
-    *   [Surveys](https://zoho.com/surveys)
-    *   [Bookings](https://zoho.com/bookings)
-    *   [Analytics](https://zoho.com/analytics)
+    *   [Campaigns](https://zoho.com/campaigns) - Email Marketing
+    *   [Forms](https://zoho.com/forms) - Form Creator
+    *   [Sign](https://zoho.com/sign) - Paperless Signatures
+    *   [Surveys](https://zoho.com/surveys) - Online Surveys
+    *   [Bookings](https://zoho.com/bookings) - Appointment Scheduling
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1027,9 +1014,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 *   [Fontshare](https://www.fontshare.com/) - is a free fonts service. It’s a growing collection of professional-grade fonts, 100% free for personal and commercial use.
 *   [Befonts](https://befonts.com/) - Provides several unique fonts for personal or commercial use.
 *   [Font of web](https://fontofweb.com/) - Identify all the fonts used on a website and how they are used.
-*   [Bunny](https://bunny.net)
-    *   [Bunny Fonts](https://fonts.bunny.net/) - All the Google Fonts with Google Fonts drop-in compatible API. Privacy oriented!
-    *   [Bunny DNS](https://bunny.net/dns/) - DNS hosting, 20 million free queries
+*   [Bunny](https://fonts.bunny.net) Privacy oriented Google Fonts
 *   [FontsKey](https://www.fontskey.com/) - Provides free and commercial paid fonts for personal use and can enter text for quick filtering.
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -1104,9 +1089,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 *   [UNPKG](https://unpkg.com/) — CDN for everything on npm
 *   [weserv](https://images.weserv.nl/) — An image cache & resize service. Manipulate images on the fly with a worldwide cache.
 *   [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) — Free DDoS protection
-*   [Gcore](https://gcorelabs.com/)
-    *   [CDN](https://gcorelabs.com/cdn/) — Global content delivery network, 1 TB and 1 million requests per month free.
-    *   [DNS Hosting](https://gcorelabs.com/dns/) — Free DNS hosting.
+*   [Gcore](https://gcorelabs.com/) Global content delivery network, 1 TB and 1 million requests per month free and free DNS hosting
 *   [LightCDN](https://www.lightcdn.com) - Free 100GB CDN with eight international Pop. Unlimited HTTP(S) requests.
 *   [CacheFly](https://portal.cachefly.com/signup/free2023) - Up to 5 TB per month of Free CDN traffic, 19 Core PoPs , 1 Domain and Universal SSL.
 
@@ -1328,9 +1311,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 *   [serveo](https://serveo.net/) — Expose local servers to the internet. No installation, no signup. Free subdomain, no limits.
 *   [Radmin VPN](https://www.radmin-vpn.com/) — Connect multiple computers together via a VPN-enabling LAN-like network. Unlimited peers. (Hamachi alternative)
 *   [segment.com](https://segment.com/) — Hub to translate and route events to other third-party services. 100,000 events/month free
-*   [STUN](https://en.wikipedia.org/wiki/STUN) — Session Traversal of User Datagram Protocol \[UDP] Through Network Address Translators \[NATs])
-    *   Google STUN — [stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/README.md/stun:stun.l.google.com:19302)
-    *   Twilio STUN — [stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/README.md/stun:global.stun.twilio.com:3478?transport=udp)
+*   Google STUN — [stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/README.md/stun:stun.l.google.com:19302)
+*   Twilio STUN — [stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/README.md/stun:global.stun.twilio.com:3478?transport=udp)
 *   [Tailscale](https://tailscale.com/) — Zero config VPN, using the open-source WireGuard protocol. Installs on MacOS, iOS, Windows, Linux, and Android devices. Free plan for personal use with 100 devices and three users.
 *   [webhookrelay.com](https://webhookrelay.com) — Manage, debug, fan-out, and proxy all your webhooks to public or internal (i.e. localhost) destinations. Also, expose servers running in a private network over a tunnel by getting a public HTTP endpoint (`https://yoursubdomain.webrelay.io <----> http://localhost:8080`).
 *   [Hookdeck](https://hookdeck.com/pricing) — Develop, test, and monitor your webhooks from anywhere. 100K requests and 100K attempts per month with three days retention.
@@ -1658,8 +1640,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 *   [stackblitz.com](https://stackblitz.com/) — Online/Cloud Code IDE to create, edit, & deploy full-stack apps. Support any popular NodeJs-based frontend & backend frameworks. Shortlink to create a new project: <https://node.new>.
 *   [Sublime Text](https://www.sublimetext.com/) - Sublime Text is a popular, versatile, and highly customizable text editor used for coding and text editing tasks.
 *   [Visual Studio Code](https://code.visualstudio.com/) - Code editor redefined and optimized for building and debugging modern web and cloud applications. Developed by Microsoft.
-    *   [Desktop](https://code.visualstudio.com) - (Windows, macOS and Linux).
-    *   [Online](https://vscode.dev) - (Browser)
 *   [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) — Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more).
 *   [VSCodium](https://vscodium.com/) - Community-driven, without telemetry/tracking, and freely-licensed binary distribution of Microsoft’s editor VSCode
 *   [wakatime.com](https://wakatime.com/) — Quantified self-metrics about your coding activity using text editor plugins, limited plan for free.

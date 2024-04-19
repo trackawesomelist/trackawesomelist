@@ -8,9 +8,35 @@
 
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
+### Official Resources
+
+*   [Future Site](https://angular.dev)
+
+### Test / Components
+
+*   [Angular Testing Library](https://testing-library.com/docs/angular-testing-library/intro/)
+
+### Webpack / Components
+
+*   [Angular Builders (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack) - custom webpack
+
 ### Charts / Components
 
 *   [ng-apexcharts (⭐290)](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
+
+### Icons / Components
+
+*   [ng-icons (⭐293)](https://github.com/ng-icons/ng-icons) - The ultimate icon library for Angular.
+*   [primeicons (⭐235)](https://github.com/primefaces/primeicons) - PrimeIcons is the default icon library of PrimeNG with over 250 open source icons developed by PrimeTek.
+*   [angular-svg-icon (⭐237)](https://github.com/czeckd/angular-svg-icon) - Angular component and service for inlining SVGs allowing them to be easily styled with CSS.
+
+### General / Components
+
+*   [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
+
+### Tailwind CSS Based / Components
+
+*   [David UI Angular (⭐47)](https://github.com/david-ui-org/david-ui-angular) - Components library for enterprise-level projects based on Tailwind CSS and Angular.
 
 ## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
 
@@ -208,7 +234,7 @@
 
 ### Icons / Components
 
-*   [ngx-icon-blur (⭐5)](https://github.com/wadie/ngx-icon-blur) An Angular component that can be used to create frosted glass effect of icons.
+*   [ngx-icon-blur (⭐5)](https://github.com/wadie/ngx-icon-blur) - An Angular component that can be used to create a frosted glass effect for icons.
 
 ## [Apr 05 - Apr 11, 2021](/content/2021/14/README.md)
 
@@ -478,8 +504,8 @@
 
 ### Icons / Components
 
-*   [angular2-fontawesome (⭐87)](https://github.com/travelist/angular2-fontawesome) Angular2 Components and Directives for Fontawesome
-*   [ng2-fontawesome (⭐21)](https://github.com/seiyria/ng2-fontawesome) A small directive making font awesome even easier to use.
+*   [angular2-fontawesome (⭐87)](https://github.com/travelist/angular2-fontawesome) - Angular2 Components and Directives for FontAwesome.
+*   [ng2-fontawesome (⭐21)](https://github.com/seiyria/ng2-fontawesome)- A small directive making font awesome even easier to use.
 
 ### Keyboard Mouse / Components
 
@@ -673,10 +699,6 @@
 *   [**{{** help\_add\_resources **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 ## [Jul 27 - Aug 02, 2020](/content/2020/30/README.md)
-
-### Video Tutorials / Components
-
-*   [List of over 140 Angular Courses (free and paid) at Classpert](https://classpert.com/angularjs)
 
 ### On-Site Training / Components
 
@@ -1170,12 +1192,6 @@
 
 *   [Material Light (⭐40)](https://github.com/YagoLopez/material-light) Light, fast and easy to use Material Design components for Angular 2+ (Especially for mobile UI). There are several alternatives but this one has added value and advantages in my opinion (Take a loot at the Readme.md for details). There is also an online demo to see it in action. (API documentation is still lacking but in process).
 
-## [Mar 20 - Mar 26, 2017](/content/2017/12/README.md)
-
-### Video Tutorials / Components
-
-*   [Code School - Accelerating Through Angular 2](https://www.codeschool.com/courses/accelerating-through-angular)
-
 ## [Feb 27 - Mar 05, 2017](/content/2017/9/README.md)
 
 ### Documentation tools / Components
@@ -1392,11 +1408,6 @@
 *   [Angular 2 authentication sample from auth0-blog (⭐969)](https://github.com/auth0-blog/angular2-authentication-sample)
 
 ## [Jun 27 - Jul 03, 2016](/content/2016/26/README.md)
-
-### Video Tutorials / Components
-
-*   [Channel9 - The Future of TypeScript: ECMAScript 6, Async/Await and Richer Libraries](https://channel9.msdn.com/Events/Build/2015/3-644)
-*   [Channel9 - Creating Cross-Platform Apps with Angular 2](https://channel9.msdn.com/Events/Build/2016/T627)
 
 ### Books / Components
 

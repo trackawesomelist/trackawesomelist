@@ -6,6 +6,16 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 [ Daily / [Weekly](/content/h4cc/awesome-elixir/week/README.md) / [Overview](/content/h4cc/awesome-elixir/readme/README.md) ]
 
+## [Apr 19, 2024](/content/2024/04/19/README.md)
+
+### Applications
+
+*   [Lynx (⭐147)](https://github.com/clivern/lynx) - A Fast, Secure and Reliable Terraform Backend, Set up in Minutes.
+
+### Artificial Intelligence
+
+*   [Weaviate (⭐1)](https://github.com/noizu-labs-ml/elixir-weaviate) - Weaviate client and macros for declaring records. ([Docs](https://hexdocs.pm/noizu_weaviate/api-reference.html)).
+
 ## [Apr 18, 2024](/content/2024/04/18/README.md)
 
 ### Books
@@ -17,7 +27,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### Artificial Intelligence
 
-*   [ExLLama (⭐3)](https://github.com/noizu-labs-ml/ex_llama) - LlamaCpp Nif Extensions for Elixir/Erlang.
+*   [ExLLama (⭐3)](https://github.com/noizu-labs-ml/ex_llama) - LlamaCpp Nif Extensions for Elixir/Erlang. ([Docs](https://hexdocs.pm/ex_llama/ExLLama.html)).
 
 ## [Mar 31, 2024](/content/2024/03/31/README.md)
 
@@ -29,7 +39,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### Artificial Intelligence
 
-*   [GenAI (⭐4)](https://github.com/noizu-labs-ml/genai) - An extensible Generative AI Completion API Wrapper with basic chat completion with tool use support provided for Gemini, Anthropic, OpenAI, and Mistral models.
+*   [GenAI (⭐4)](https://github.com/noizu-labs-ml/genai) - An extensible Generative AI Completion API Wrapper with basic chat completion with tool use support provided for Gemini, Anthropic, OpenAI, and Mistral models. ([Docs](https://hexdocs.pm/genai/GenAI.html)).
 
 ## [Feb 25, 2024](/content/2024/02/25/README.md)
 
@@ -97,7 +107,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### Artificial Intelligence
 
-*   [Noizu-OpenAi (⭐4)](https://github.com/noizu-labs/elixir-openai) - An Elixir Api for the OpenAI Library.
+*   [Noizu-OpenAi (⭐4)](https://github.com/noizu-labs/elixir-openai) - An Elixir Api for the OpenAI Library. ([Docs](https://hexdocs.pm/noizu_labs_open_ai/api-reference.html)).
 
 ### Templating
 

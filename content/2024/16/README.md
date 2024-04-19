@@ -95,28 +95,27 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [3. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [3. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+
+### UI Libraries
+
+*   [Svelte UX (⭐519)](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
+
+### Charts / Checkbox
+
+*   [LayerChart (⭐299)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
+
+## [4. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Crates / Component Libraries
 
 *   [yew-nav-link (⭐1)](https://github.com/RAprogramm/yew-nav-link) - A navigational link that is aware of its active state based on the current route in the application.
 
-## [4. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [5. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Racing
 
 *   [Reburn 3 (⭐81)](https://github.com/reburndev/reburn3) - A work-in-progress open source reimplementation of Burnout 3: Takedown.
-
-## [5. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
-
-### UI Libraries
-
-*   [Svelte UX (⭐519)](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
-*   [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
-
-### Charts / Checkbox
-
-*   [LayerChart (⭐299)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
 
 ## [6. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
@@ -238,9 +237,35 @@
 
 ## [16. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
+### General / Components
+
+*   [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
+
+### Official Resources
+
+*   [Future Site](https://angular.dev)
+
+### Test / Components
+
+*   [Angular Testing Library](https://testing-library.com/docs/angular-testing-library/intro/)
+
+### Webpack / Components
+
+*   [Angular Builders (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack) - custom webpack
+
 ### Charts / Components
 
 *   [ng-apexcharts (⭐290)](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
+
+### Icons / Components
+
+*   [ng-icons (⭐293)](https://github.com/ng-icons/ng-icons) - The ultimate icon library for Angular.
+*   [primeicons (⭐235)](https://github.com/primefaces/primeicons) - PrimeIcons is the default icon library of PrimeNG with over 250 open source icons developed by PrimeTek.
+*   [angular-svg-icon (⭐237)](https://github.com/czeckd/angular-svg-icon) - Angular component and service for inlining SVGs allowing them to be easily styled with CSS.
+
+### Tailwind CSS Based / Components
+
+*   [David UI Angular (⭐47)](https://github.com/david-ui-org/david-ui-angular) - Components library for enterprise-level projects based on Tailwind CSS and Angular.
 
 ## [17. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
@@ -284,6 +309,15 @@
 ### Email
 
 *   [Maildroppa](https://maildroppa.com) - Up to 100 subscribers and unlimited emails as well as automations for free.
+
+### Font
+
+*   [Bunny](https://fonts.bunny.net) Privacy oriented Google Fonts
+
+### Tunneling, WebRTC, Web Socket Servers and Other Routers
+
+*   Google STUN — [stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/README.md/stun:stun.l.google.com:19302)
+*   Twilio STUN — [stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/README.md/stun:global.stun.twilio.com:3478?transport=udp)
 
 ### Other Free Resources
 
@@ -353,9 +387,14 @@
 
 ## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
+### Applications
+
+*   [Lynx (⭐147)](https://github.com/clivern/lynx) - A Fast, Secure and Reliable Terraform Backend, Set up in Minutes.
+
 ### Artificial Intelligence
 
-*   [ExLLama (⭐3)](https://github.com/noizu-labs-ml/ex_llama) - LlamaCpp Nif Extensions for Elixir/Erlang.
+*   [ExLLama (⭐3)](https://github.com/noizu-labs-ml/ex_llama) - LlamaCpp Nif Extensions for Elixir/Erlang. ([Docs](https://hexdocs.pm/ex_llama/ExLLama.html)).
+*   [Weaviate (⭐1)](https://github.com/noizu-labs-ml/elixir-weaviate) - Weaviate client and macros for declaring records. ([Docs](https://hexdocs.pm/noizu_weaviate/api-reference.html)).
 
 ### Books
 
