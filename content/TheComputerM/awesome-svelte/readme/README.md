@@ -166,6 +166,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Svelte UI](https://www.svelteui.org/) - SvelteUI is an all inclusive Svelte library.
 *   [YeSvelte](https://www.yesvelte.com/) - YeSvelte is flexible Svelte UI component library built on top of Bootstrap css.
 *   [Skeleton](https://www.skeleton.dev/docs/get-started) - Skeleton uses Tailwind utility classes and design system to easily create theme-able user interfaces.
+*   [Svelte UX (⭐519)](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
 *   [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind.
 *   [M3 Svelte (⭐83)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
 *   [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
@@ -235,6 +236,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *   [svelte-frappe-charts (⭐301)](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
 *   [Layer Cake (⭐1.2k)](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
+*   [LayerChart (⭐299)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
 
 ### Miscellaneous
 

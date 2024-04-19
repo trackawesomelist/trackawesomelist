@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/TheComputerM/awesome-svelte/week/README.md) / [Overview](/content/TheComputerM/awesome-svelte/readme/README.md) ]
 
+## [Apr 19, 2024](/content/2024/04/19/README.md)
+
+### UI Libraries
+
+*   [Svelte UX (⭐519)](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
+
+### Charts / Checkbox
+
+*   [LayerChart (⭐299)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
+
 ## [Apr 18, 2024](/content/2024/04/18/README.md)
 
 ### UI Libraries

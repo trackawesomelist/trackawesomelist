@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Apr 19, 2024](/content/2024/04/19/README.md)
+
+### Science Logology / Democratization of Science
+
+*   [The Experimental Design Assistant](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2003779) - ***PLoS Biology***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=12481490526120919925)]. \[[Nature Methods Correspondence](https://www.nature.com/articles/nmeth.4462)]. \[[EDA Website](https://eda.nc3rs.org.uk/)]. The EDA is a web-based tool that guides the in vivo researcher through the experimental design and analysis process, providing automated feedback on the proposed design and generating a graphical summary that aids communication with colleagues, funders, regulatory authorities, and the wider scientific community.
+
 ## [Apr 18, 2024](/content/2024/04/18/README.md)
 
 ### Science Logology / Democratization of Science
