@@ -6,6 +6,13 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Apr 20, 2024](/content/2024/04/20/README.md)
+
+### Other Free Resources
+
+*   [PythonAnywhere](https://www.pythonanywhere.com/) - PythonAnywhere makes it easy to create and run Python programs in the cloud. You can write your programs in a web editor or simply start a console session. The platform provides one low powered CPU web app at your-username.pythonanywhere.com for free
+*   **[⬆️ Back to Top](#table-of-contents)**
+
 ## [Apr 19, 2024](/content/2024/04/19/README.md)
 
 ### Font
@@ -2760,9 +2767,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [UNPKG](https://unpkg.com/) — CDN for everything on npm
 
-### PaaS
+### Other Free Resources
 
-*   [Glitch](https://glitch.com/) — Free public hosting with code sharing and real-time collaboration features. The free plan has a 1000-hours/month limit.
+*   [Glitch](https://glitch.com/) - Glitch is the friendly place where everyone builds the web. Start a new blog, play with React, or build new worlds with WebXR
+*   [GitHub Education](https://education.github.com/pack) — Collection of free services for students. Registration required.
 
 ### Web Hosting
 
@@ -2803,10 +2811,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [BearBlog](https://bearblog.dev/) - Minimalist, Markdown-powered blog and website builder.
 *   [Dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
 *   [Medium](https://medium.com/) — Get more thoughtful about what matters to you.
-
-### Other Free Resources
-
-*   [GitHub Education](https://education.github.com/pack) — Collection of free services for students. Registration required.
 
 ## [Dec 04, 2021](/content/2021/12/04/README.md)
 

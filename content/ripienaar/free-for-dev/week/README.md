@@ -32,6 +32,8 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Other Free Resources
 
 *   [Pyrexp](https://pythonium.net/regex) — Free web-based regex tester and visualizer for debugging regular expressions.
+*   [PythonAnywhere](https://www.pythonanywhere.com/) - PythonAnywhere makes it easy to create and run Python programs in the cloud. You can write your programs in a web editor or simply start a console session. The platform provides one low powered CPU web app at your-username.pythonanywhere.com for free
+*   **[⬆️ Back to Top](#table-of-contents)**
 
 ## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
 
@@ -2222,9 +2224,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [UNPKG](https://unpkg.com/) — CDN for everything on npm
 
-### PaaS
+### Other Free Resources
 
-*   [Glitch](https://glitch.com/) — Free public hosting with code sharing and real-time collaboration features. The free plan has a 1000-hours/month limit.
+*   [Glitch](https://glitch.com/) - Glitch is the friendly place where everyone builds the web. Start a new blog, play with React, or build new worlds with WebXR
+*   [GitHub Education](https://education.github.com/pack) — Collection of free services for students. Registration required.
 
 ### Web Hosting
 
@@ -2272,10 +2275,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [BearBlog](https://bearblog.dev/) - Minimalist, Markdown-powered blog and website builder.
 *   [Dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
 *   [Medium](https://medium.com/) — Get more thoughtful about what matters to you.
-
-### Other Free Resources
-
-*   [GitHub Education](https://education.github.com/pack) — Collection of free services for students. Registration required.
 
 ## [Nov 29 - Dec 05, 2021](/content/2021/48/README.md)
 
