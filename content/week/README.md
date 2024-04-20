@@ -638,6 +638,21 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Gateway (⭐4.4k)](https://github.com/Portkey-AI/gateway): A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API. ![GitHub Repo stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social)
 *   [AgentRun (⭐22)](https://github.com/Jonathan-Adly/AgentRun): The easiest, and fastest way to run AI-generated Python code safely ![GitHub Repo stars](https://img.shields.io/github/stars/Jonathan-Adly/AgentRun?style=social)
 
+#### [42. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+
+##### Vendor Data Resources / Urban Observation
+
+*   [EcoCounter](https://www.eco-counter.com/) - Since 1997, Eco-Counter has developed unique and innovative solutions to count pedestrians and cyclists that vary infrared sensors to computer vision based counters.
+*   [VivaCity](https://vivacitylabs.com/north-america/) - Viva provies transportation monitoring solutions that help identify near-miss behavior on streets and multimodal counts.
+
+##### Vendor Data Resources / Travel Behavior
+
+*   [PlacerAI](https://www.placer.ai/) - A location based data provider that provides estimates of foottraffic to different points of interest.
+
+##### Platforms and Software Resources / Planning Management and Administrative Tools and Platforms
+
+*   [GeoCivix](https://geocivix.com/state-local-government-agencies/) - A user friendly citizen access, plan review, permit, and inspection solution built to drive efficiency, organization, and communication.
+
 ---
 
 - Next: [Apr 08 - Apr 14, 2024](&#x2F;content&#x2F;2024&#x2F;15&#x2F;README.md)
@@ -1241,7 +1256,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 257K, 📝 23&#x2F;09&#x2F;21 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
 - [Services Engineering](/content/mmcgrana/services-engineering/README.md) - ([Source ⭐ 3.4K, 📝 20&#x2F;05&#x2F;09 ](https://github.com/mmcgrana/services-engineering)) - A reading list for services engineering, with a focus on cloud infrastructure services
 - [Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md) - ([Source ⭐ 891, 📝 22&#x2F;10&#x2F;11 ](https://github.com/drewrwilson/toolsforactivism)) - growing list of digital tools for activism things
-- [Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md) - ([Source ⭐ 226, 📝 04&#x2F;14 ](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources)) - Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️
+- [Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md) - ([Source ⭐ 236, 📝 04&#x2F;20 ](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources)) - Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️
 
 ### Networking
 
