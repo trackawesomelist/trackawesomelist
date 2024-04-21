@@ -2,7 +2,7 @@
 
 Awesome Code Points
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Codepoints/awesome-codepoints/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Codepoints/awesome-codepoints](https://github.com/Codepoints/awesome-codepoints) · ⭐ 724 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Codepoints/awesome-codepoints/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Codepoints/awesome-codepoints](https://github.com/Codepoints/awesome-codepoints) · ⭐ 754 · 🏷️ Miscellaneous
 
 [ [Daily](/content/Codepoints/awesome-codepoints/README.md) / [Weekly](/content/Codepoints/awesome-codepoints/week/README.md) / Overview ]
 
@@ -200,6 +200,10 @@ different types of whitespace.
     [U+006C](https://codepoints.net/U+006C) LATIN SMALL LETTER L with 70
     entries.
 *   [U+1F4C0](https://codepoints.net/U+1F4C0) DVD - only code point name without any vowel ([source](https://twitter.com/ken_lunde/status/960188623390846976))
+*   [U+3106C](https://codepoints.net/U+3106C) CJK UNIFIED IDEOGRAPH 3106C - the
+    character with the most
+    [strokes](https://en.wikipedia.org/wiki/Chinese_character_strokes): 84.
+    Take your time to write this one!
 
 ## For Funsies
 
@@ -240,7 +244,7 @@ For plain-text gaming, Unicode is well equipped with several complete sets:
 
 ## Other Lists of Code Points
 
-*   [Cross-platform terminal characters (⭐188)](https://github.com/ehmicky/cross-platform-terminal-characters) - a list of characters that work on most terminals.
+*   [Cross-platform terminal characters (⭐210)](https://github.com/ehmicky/cross-platform-terminal-characters) - a list of characters that work on most terminals.
 
 ## Contributing Your Code Points
 
@@ -251,7 +255,7 @@ See [the contribution guide](https://github.com/Codepoints/awesome-codepoints/bl
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [the
-contributors (⭐722)](https://github.com/Codepoints/awesome-codepoints/graphs/contributors)
+contributors (⭐754)](https://github.com/Codepoints/awesome-codepoints/graphs/contributors)
 have waived all copyright and related or neighboring rights to this work. See
 [the license file](https://github.com/Codepoints/awesome-codepoints/blob/master/README.md/LICENSE) for details.
 

@@ -2,15 +2,24 @@
 
 Awesome Code Points
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Codepoints/awesome-codepoints/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Codepoints/awesome-codepoints](https://github.com/Codepoints/awesome-codepoints) · ⭐ 724 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Codepoints/awesome-codepoints/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Codepoints/awesome-codepoints](https://github.com/Codepoints/awesome-codepoints) · ⭐ 754 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/Codepoints/awesome-codepoints/week/README.md) / [Overview](/content/Codepoints/awesome-codepoints/readme/README.md) ]
+
+## [Apr 21, 2024](/content/2024/04/21/README.md)
+
+### Record Holders and Extremes / Breaking and Gluing other characters
+
+*   [U+3106C](https://codepoints.net/U+3106C) CJK UNIFIED IDEOGRAPH 3106C - the
+    character with the most
+    [strokes](https://en.wikipedia.org/wiki/Chinese_character_strokes): 84.
+    Take your time to write this one!
 
 ## [Jul 24, 2022](/content/2022/07/24/README.md)
 
 ### Other Lists of Code Points / Games
 
-*   [Cross-platform terminal characters (⭐188)](https://github.com/ehmicky/cross-platform-terminal-characters) - a list of characters that work on most terminals.
+*   [Cross-platform terminal characters (⭐210)](https://github.com/ehmicky/cross-platform-terminal-characters) - a list of characters that work on most terminals.
 
 ## [Dec 17, 2020](/content/2020/12/17/README.md)
 
