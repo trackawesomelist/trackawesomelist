@@ -1,18 +1,36 @@
 # Awesome List Updates on Apr 21, 2024
 
-5 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [LLama Cpp Agent (⭐209)](https://github.com/Maximilian-Winter/llama-cpp-agent): The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/Maximilian-Winter/llama-cpp-agent?style=social)
+*   [FinRobot (⭐34)](https://github.com/AI4Finance-Foundation/FinRobot): An Open-Source AI Agent Platform for Financial Applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=social)
+*   [Groq Ruby (⭐19)](https://github.com/drnic/groq-ruby): Groq Cloud runs LLM models fast and cheap. This is a convenience client library for Ruby. ![GitHub Repo stars](https://img.shields.io/github/stars/drnic/groq-ruby?style=social)
+
+## [2. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+
+### General
+
+*   [Flowbite Icons](https://flowbite.com/icons/) - Free and open-source collection of 430+ solid and outline icons built for Tailwind CSS and Figma.
+
+### Logos
+
+*   [Token Icons (⭐16)](https://github.com/0xa3k5/token-icons#readme) - Over 2,500 optimized SVG crypto & network icons as React components and SVG imports for web3.
+
+## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Meetups / Libraries for creating HTTP middlewares
 
 *   [Lagos Gophers](https://www.meetup.com/GolangNigeria/)
 
-## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Chart
 
@@ -30,13 +48,13 @@
 
 *   [SwiftUIMaterialTabs (⭐25)](https://github.com/SwiftKickMobile/SwiftUIMaterialTabs) - Material 3-style tabs and Sticky Headers rolled into one SwiftUI library
 
-## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [It’s time to retire the term “user”](https://www.technologyreview.com/2024/04/19/1090872/ai-users-people-terms/): the proliferation of AI means we need a new word
 
-## [4. Awesome Codepoints](/content/Codepoints/awesome-codepoints/README.md)
+## [6. Awesome Codepoints](/content/Codepoints/awesome-codepoints/README.md)
 
 ### Record Holders and Extremes / Breaking and Gluing other characters
 
@@ -45,7 +63,7 @@
     [strokes](https://en.wikipedia.org/wiki/Chinese_character_strokes): 84.
     Take your time to write this one!
 
-## [5. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
+## [7. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
 ### SCALE Codec
 
