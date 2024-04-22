@@ -1,18 +1,74 @@
 # Awesome List Updates on Apr 22, 2024
 
-4 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### Libraries/Packages/Scripts / Python
+
+*   [polars-candle (⭐5)](https://github.com/wdoppenberg/polars-candle) - Python package for for running [candle (⭐13k)](https://github.com/huggingface/candle) ML models on Polars DataFrames by [@wdoppenberg](https://github.com/wdoppenberg).
+
+## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+### C, C++
+
+*   [bitcoin-core-rpc](https://codeberg.org/kilianmh/bitcoin-core-rpc/) - a (hopefully) complete Bitcoin Core RPC client. [AGPL-3.0+](https://directory.fsf.org/wiki/License:AGPL-3.0)
+
+## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
+
+### Modules / Logging
+
+*   [LogTape (⭐35)](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers.
+
+## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+
+### Libraries/Frameworks / Graphics
+
+*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
+
+### Libraries/Frameworks / Data Science
+
+*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
+
+## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [vite-react-framer-starter (⭐0)](https://github.com/matozz/vite-react-framer-starter) - Starter template with `React`, `TypeScript`, `Framer Motion`, `Tailwind CSS`, `ESLint`, and `Prettier`.
+
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Statusline / Diagnostics
+
+*   [mikesmithgh/git-prompt-string-lualine.nvim (⭐10)](https://github.com/mikesmithgh/git-prompt-string-lualine.nvim) - Add git-prompt-string to your statusline.
+
+### Indent / Diagnostics
+
+*   [Mr-LLLLL/cool-chunk.nvim (⭐4)](https://github.com/Mr-LLLLL/cool-chunk.nvim) - Simpler and faster chunking with animations.
+
+## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+
+### Nodes & Consensus Participation / Wallets
+
+*   [TxnLab/reti (⭐15)](https://github.com/TxnLab/reti) - Provides contracts, a Node Daemon, and a UI for Algorand 'The Reti' consensus incentives, facilitating the creation of decentralized staking pools on the Algorand network to promote broader participation and enhance network security through diversification.
+
+## [8. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
+
+### Table of Contents / Repos
+
+*   [Functional Programming Learning Path](https://github.com/imteekay/functional-programming-learning-path.git) - A Learning Path for Functional Programming
+
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Science Logology / Democratization of Science
 
 *   [Bridging the information gap in organic chemical reactions](https://www.nature.com/articles/s41557-024-01470-8) - ***Nature Chemistry***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=5365091261196953334)]. This perspective article formulates eight principles to improve data management in scientific publications relating to data standardization, reproducibility and evaluation, and encourage scientists to go beyond current publication standards.
 
-## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [10. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### CLI / Text-Based User Interfaces
 
@@ -30,7 +86,7 @@
 
 *   [The Well-Grounded Java Developer (2nd Edition)](https://www.manning.com/books/the-well-grounded-java-developer-second-edition)
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
@@ -44,7 +100,7 @@
 
 *   [insomnimus/tidier (⭐1)](https://github.com/insomnimus/tidier) \[[tidier](https://crates.io/crates/tidier)] - A library to format HTML, XHTML and XML documents. [![build badge](https://github.com/insomnimus/tidier/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/insomnimus/tidier/actions)
 
-## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Community
 

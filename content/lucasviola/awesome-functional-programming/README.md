@@ -2,9 +2,15 @@
 
 :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lucasviola/awesome-functional-programming/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) · ⭐ 914 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lucasviola/awesome-functional-programming/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) · ⭐ 929 · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/lucasviola/awesome-functional-programming/week/README.md) / [Overview](/content/lucasviola/awesome-functional-programming/readme/README.md) ]
+
+## [Apr 22, 2024](/content/2024/04/22/README.md)
+
+### Table of Contents / Repos
+
+*   [Functional Programming Learning Path](https://github.com/imteekay/functional-programming-learning-path.git) - A Learning Path for Functional Programming
 
 ## [Nov 24, 2023](/content/2023/11/24/README.md)
 
@@ -108,7 +114,7 @@
 
 ### Table of Contents / Repos
 
-*   [Parsing With Haskell Parser Combinators (⭐86)](https://github.com/lettier/parsing-with-haskell-parser-combinators) - A step-by-step guide to parsing using Haskell parser combinators.
+*   [Parsing With Haskell Parser Combinators (⭐90)](https://github.com/lettier/parsing-with-haskell-parser-combinators) - A step-by-step guide to parsing using Haskell parser combinators.
 
 ## [Aug 21, 2019](/content/2019/08/21/README.md)
 
@@ -156,7 +162,7 @@
 
 ### Table of Contents / Repos
 
-*   [Functional Programming Jargon (⭐18k)](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier.
+*   [Functional Programming Jargon (⭐19k)](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier.
 
 ## [May 09, 2016](/content/2016/05/09/README.md)
 
@@ -192,7 +198,7 @@
 ### Table of Contents / Repos
 
 *   [Intro SML](http://www.it.dtu.dk/introSML/) - Code, corrections and info on the book: `Introduction to Programming using SML`
-*   [Functional Programming In JavaScript (⭐306)](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
+*   [Functional Programming In JavaScript (⭐305)](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
 
 ## [Nov 30, 2015](/content/2015/11/30/README.md)
 
@@ -265,7 +271,7 @@
 
 ### Table of Contents / Repos
 
-*   [J-Bob (⭐409)](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
+*   [J-Bob (⭐414)](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
 
 ## [Oct 30, 2015](/content/2015/10/30/README.md)
 
@@ -313,5 +319,5 @@
 
 ### Table of Contents / Repos
 
-*   [Idris Koans (⭐173)](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
+*   [Idris Koans (⭐176)](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
 *   [Functional Javascript Workshop (⭐2k)](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop.

@@ -41,8 +41,8 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 ### Official Resources
 
 *   [Documentation](https://vitejs.dev/)
-*   [GitHub Repo (⭐64k)](https://github.com/vitejs/vite)
-*   [Release Notes (⭐64k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
+*   [GitHub Repo (⭐65k)](https://github.com/vitejs/vite)
+*   [Release Notes (⭐65k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
 *   [Vue 3 Docs](https://vuejs.org/)
 *   [Awesome Vue (⭐71k)](https://github.com/vuejs/awesome-vue)
 *   [Migration from v4](https://vitejs.dev/guide/migration.html)
@@ -51,7 +51,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 ## Get Started
 
-*   [create-vite (⭐64k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+*   [create-vite (⭐65k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 *   [create-vitawind (⭐149)](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
 *   [create-electron-vite (⭐141)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
 *   [create-vite-app (⭐213)](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
@@ -226,6 +226,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [ReTail (⭐0)](https://github.com/nikolailehbrink/retail) - Starter template for building Full Stack WEB applications with `Remix` using `TypeScript`, `Tailwind CSS`, `Prettier` and `ESLint`.
 *   [vite-react-redux-saga-typescript (⭐2)](https://github.com/Dulajdeshan/vite-react-redux-saga-typescript) - Starter template with `React`, `TypeScript`, `Redux (Redux Toolkit)`, `Saga`, `React Testing Library`, `ESLint`, `Prettier` and `Husky`.
 *   [vite-complete-react-app (⭐1)](https://github.com/ChrisUser/vite-complete-react-app) - Starter template for building web applications using `React`, `TypeScript`, `Redux Toolkit`, `React Router`, `Axios`, `Sass`, `Moment`, `ESLint`, `Prettier` and `React Testing Library`.
+*   [vite-react-framer-starter (⭐0)](https://github.com/matozz/vite-react-framer-starter) - Starter template with `React`, `TypeScript`, `Framer Motion`, `Tailwind CSS`, `ESLint`, and `Prettier`.
 
 #### Svelte
 
@@ -295,7 +296,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 #### Integrations
 
-*   [@vitejs/plugin-legacy (⭐64k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
+*   [@vitejs/plugin-legacy (⭐65k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
 *   [vite-plugin-pwa (⭐2.7k)](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
 *   [vite-plugin-windicss (⭐850)](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
 *   [vite-plugin-node (⭐931)](https://github.com/axe-me/vite-plugin-node) - Integration with Node.js backend servers.

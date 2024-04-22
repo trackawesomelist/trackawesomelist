@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Apr 22, 2024](/content/2024/04/22/README.md)
+
+### Templates / React
+
+*   [vite-react-framer-starter (⭐0)](https://github.com/matozz/vite-react-framer-starter) - Starter template with `React`, `TypeScript`, `Framer Motion`, `Tailwind CSS`, `ESLint`, and `Prettier`.
+
 ## [Apr 15, 2024](/content/2024/04/15/README.md)
 
 ### React / Transformers
@@ -1958,7 +1964,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@vitejs/plugin-legacy (⭐64k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
+*   [@vitejs/plugin-legacy (⭐65k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
 
 ## [Nov 26, 2021](/content/2021/11/26/README.md)
 
@@ -2213,7 +2219,7 @@
 
 ### Get Started
 
-*   [create-vite (⭐64k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+*   [create-vite (⭐65k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 
 ## [Jul 06, 2021](/content/2021/07/06/README.md)
 
@@ -2546,7 +2552,7 @@
 
 ### Official Resources
 
-*   [Release Notes (⭐64k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
+*   [Release Notes (⭐65k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
 
 ### Open Source / Community
 
@@ -2580,7 +2586,7 @@
 
 ### Official Resources
 
-*   [GitHub Repo (⭐64k)](https://github.com/vitejs/vite)
+*   [GitHub Repo (⭐65k)](https://github.com/vitejs/vite)
 
 ## [Aug 21, 2020](/content/2020/08/21/README.md)
 

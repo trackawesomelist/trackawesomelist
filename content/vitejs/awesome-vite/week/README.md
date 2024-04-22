@@ -6,6 +6,12 @@
 
 [ [Daily](/content/vitejs/awesome-vite/README.md) / Weekly / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
+
+### Templates / React
+
+*   [vite-react-framer-starter (⭐0)](https://github.com/matozz/vite-react-framer-starter) - Starter template with `React`, `TypeScript`, `Framer Motion`, `Tailwind CSS`, `ESLint`, and `Prettier`.
+
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
 ### React / Transformers
@@ -1589,7 +1595,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@vitejs/plugin-legacy (⭐64k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
+*   [@vitejs/plugin-legacy (⭐65k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
 
 ### Svelte / Integrations
 
@@ -1811,7 +1817,7 @@
 
 ### Get Started
 
-*   [create-vite (⭐64k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+*   [create-vite (⭐65k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -2106,7 +2112,7 @@
 
 ### Official Resources
 
-*   [Release Notes (⭐64k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
+*   [Release Notes (⭐65k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
 
 ### React / Loaders
 
@@ -2161,7 +2167,7 @@
 
 ### Official Resources
 
-*   [GitHub Repo (⭐64k)](https://github.com/vitejs/vite)
+*   [GitHub Repo (⭐65k)](https://github.com/vitejs/vite)
 *   [Awesome Vue (⭐71k)](https://github.com/vuejs/awesome-vue)
 
 ### Apps/Websites / Community
