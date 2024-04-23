@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Apr 23, 2024](/content/2024/04/23/README.md)
+
+### Software / E-commerce
+
+*   [EverShop](https://evershop.io/) `⚠` - E-commerce platform with essential commerce features. Modular architecture and fully customizable. ([Demo](https://demo.evershop.io/), [Source Code (⭐3.2k)](https://github.com/evershopcommerce/evershop)) `GPL-3.0` `Docker/Nodejs`
+
 ## [Apr 20, 2024](/content/2024/04/20/README.md)
 
 ### Software / Bookmarks and Link Sharing
@@ -583,7 +589,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Search Engines
 
-*   [SearXNG](https://docs.searxng.org/) `⚠` - Internet metasearch engine which aggregates results from various search services and databases (Fork of Searx). ([Source Code (⭐7k)](https://github.com/searxng/searxng/)) `AGPL-3.0` `Python/Docker`
+*   [SearXNG](https://docs.searxng.org/) `⚠` - Internet metasearch engine which aggregates results from various search services and databases (Fork of Searx). ([Source Code (⭐8.3k)](https://github.com/searxng/searxng/)) `AGPL-3.0` `Python/Docker`
 
 ### Software / Software Development - Low Code
 
@@ -1237,7 +1243,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Document Management
 
-*   [Paperless-ngx](https://docs.paperless-ngx.com/) - Scan, index, and archive all of your paper documents with an improved interface (fork of Paperless). ([Demo](https://demo.paperless-ngx.com/), [Source Code (⭐16k)](https://github.com/paperless-ngx/paperless-ngx)) `GPL-3.0` `Python/Docker`
+*   [Paperless-ngx](https://docs.paperless-ngx.com/) - Scan, index, and archive all of your paper documents with an improved interface (fork of Paperless). ([Demo](https://demo.paperless-ngx.com/), [Source Code (⭐17k)](https://github.com/paperless-ngx/paperless-ngx)) `GPL-3.0` `Python/Docker`
 
 ## [Jan 24, 2023](/content/2023/01/24/README.md)
 
@@ -1455,7 +1461,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Communication - Social Networks and Forums
 
-*   [kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform. ([Source Code (⭐751)](https://github.com/ernestwisniewski/kbin)) `AGPL-3.0` `PHP/Nodejs/Docker`
+*   [kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform. ([Source Code (⭐753)](https://github.com/ernestwisniewski/kbin)) `AGPL-3.0` `PHP/Nodejs/Docker`
 *   [qpixel](https://codidact.com/) - Q\&A-based community knowledge-sharing software. ([Source Code (⭐354)](https://github.com/codidact/qpixel)) `AGPL-3.0` `Ruby`
 
 ### Software / Software Development - Project Management
@@ -1524,7 +1530,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Database Management
 
-*   [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Demo](https://demo.bytebase.com), [Source Code (⭐9.9k)](https://github.com/bytebase/bytebase)) `MIT` `Docker/K8S/Go`
+*   [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Demo](https://demo.bytebase.com), [Source Code (⭐10k)](https://github.com/bytebase/bytebase)) `MIT` `Docker/K8S/Go`
 
 ### Software / File Transfer & Synchronization
 
@@ -1736,7 +1742,7 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Hackershare (⭐554)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers. `MIT` `Ruby`
 *   [LinkAce](https://www.linkace.org/) - A bookmark archive with automatic backups to the Internet Archive, link monitoring, and a full REST API. Installation is done via Docker, or as a simple PHP application. ([Demo](https://demo.linkace.org/guest/links), [Source Code (⭐2.4k)](https://github.com/Kovah/LinkAce/)) `GPL-3.0` `Docker/PHP`
-*   [linkding (⭐4.9k)](https://github.com/sissbruecker/linkding) - Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi. `MIT` `Docker/Python/Nodejs`
+*   [linkding (⭐5k)](https://github.com/sissbruecker/linkding) - Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi. `MIT` `Docker/Python/Nodejs`
 
 ### Software / Remote Access
 
@@ -1829,7 +1835,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - IDE & Tools
 
-*   [Coder](https://coder.com/) - Remote development machines on your own infrastructure. ([Source Code (⭐6.8k)](https://github.com/coder/coder)) `AGPL-3.0` `Go/Docker/K8S/deb`
+*   [Coder](https://coder.com/) - Remote development machines on your own infrastructure. ([Source Code (⭐6.9k)](https://github.com/coder/coder)) `AGPL-3.0` `Go/Docker/K8S/deb`
 
 ## [Aug 04, 2022](/content/2022/08/04/README.md)
 
@@ -2653,7 +2659,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / File Transfer - Object Storage & File Servers
 
-*   [SFTPGo (⭐8k)](https://github.com/drakkan/sftpgo) - Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. `AGPL-3.0` `Go/deb/Docker`
+*   [SFTPGo (⭐8.1k)](https://github.com/drakkan/sftpgo) - Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. `AGPL-3.0` `Go/deb/Docker`
 *   [Zenko CloudServer](https://www.zenko.io/cloudserver) - Zenko CloudServer, an open-source implementation of a server handling the Amazon S3 protocol. ([Source Code (⭐1.6k)](https://github.com/scality/cloudserver)) `Apache-2.0` `Docker/Nodejs`
 
 ### Software / Recipe Management
@@ -2683,7 +2689,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Media Streaming - Multimedia Streaming
 
 *   [Gerbera](https://gerbera.io/) - Gerbera is an UPnP Media Server. It allows you to stream your digital media throughout your home network and listen to/watch it on a variety of UPnP compatible devices. ([Source Code (⭐1.1k)](https://github.com/gerbera/gerbera)) `GPL-2.0` `Docker/deb/C++`
-*   [Jellyfin](https://jellyfin.org) - Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, and Kodi. ([Demo](https://demo.jellyfin.org/stable), [Source Code (⭐29k)](https://github.com/jellyfin/jellyfin), [Clients (⭐1.1k)](https://github.com/awesome-jellyfin/awesome-jellyfin)) `GPL-2.0` `C#/deb/Docker`
+*   [Jellyfin](https://jellyfin.org) - Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, and Kodi. ([Demo](https://demo.jellyfin.org/stable), [Source Code (⭐30k)](https://github.com/jellyfin/jellyfin), [Clients (⭐1.1k)](https://github.com/awesome-jellyfin/awesome-jellyfin)) `GPL-2.0` `C#/deb/Docker`
 *   [LBRY](https://lbry.com/) - Is a secure, open, and community-run digital marketplace that aims to replace Youtube and Amazon. ([Demo](https://lbry.tv/), [Source Code (⭐260)](https://github.com/lbryio/lbry.com), [Clients (⭐3.6k)](https://github.com/lbryio/lbry-desktop)) `MIT` `PHP`
 *   [MistServer](https://mistserver.org/) - Streaming media server that works well in any streaming environment. ([Source Code (⭐339)](https://github.com/DDVTECH/mistserver)) `AGPL-3.0` `C++`
 *   [NymphCast](http://nyanko.ws/nymphcast.php) - Turn your choice of Linux-capable hardware into an audio and video source for a television or powered speakers (alternative to Chromecast). ([Source Code (⭐2.4k)](https://github.com/MayaPosch/NymphCast)) `BSD-3-Clause` `C++`
@@ -2706,7 +2712,7 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code (⭐41k)](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `Docker`
 *   [LocalStack](https://localstack.cloud/) - LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation. ([Source Code (⭐52k)](https://github.com/localstack/localstack)) `Apache-2.0` `Python/Docker/K8S`
-*   [OpenFaaS](https://www.openfaas.com/) - Serverless Functions Made Simple for Docker & Kubernetes. ([Source Code (⭐24k)](https://github.com/openfaas/faas)) `MIT` `Go`
+*   [OpenFaaS](https://www.openfaas.com/) - Serverless Functions Made Simple for Docker & Kubernetes. ([Source Code (⭐25k)](https://github.com/openfaas/faas)) `MIT` `Go`
 *   [Trusted-CGI (⭐207)](https://github.com/reddec/trusted-cgi) - Lightweight self-hosted lambda/applications/cgi/serverless-functions platform. `MIT` `Go/deb/Docker`
 
 ### Software / Software Development - IDE & Tools
@@ -2992,7 +2998,7 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Inboxen](https://inboxen.org) - Inboxen is a service that provides you with an infinite number of unique inboxes. ([Source Code](https://codeberg.org/Inboxen/Inboxen)) `GPL-3.0` `Python`
 *   [Mail-in-a-Box](https://mailinabox.email/) - Turns any Ubuntu server into a fully functional mail server with one command. ([Source Code (⭐13k)](https://github.com/mail-in-a-box/mailinabox)) `CC0-1.0` `Shell`
-*   [SimpleLogin](https://simplelogin.io) - Open source email alias solution to protect your email address. Comes with browser extensions and mobile apps. ([Source Code (⭐4.6k)](https://github.com/simple-login/app)) `MIT` `Docker/Python`
+*   [SimpleLogin](https://simplelogin.io) - Open source email alias solution to protect your email address. Comes with browser extensions and mobile apps. ([Source Code (⭐4.7k)](https://github.com/simple-login/app)) `MIT` `Docker/Python`
 
 ### Software / Communication - IRC
 
@@ -3054,7 +3060,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Search Engines
 
-*   [Whoogle (⭐8.7k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
+*   [Whoogle (⭐8.8k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
 
 ## [Jul 11, 2021](/content/2021/07/11/README.md)
 
@@ -3098,7 +3104,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Shiori (⭐8.6k)](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go. `MIT` `Go/Docker`
+*   [Shiori (⭐8.7k)](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go. `MIT` `Go/Docker`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -3372,7 +3378,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Gokapi (⭐949)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go/Docker`
+*   [Gokapi (⭐975)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go/Docker`
 
 ## [Mar 11, 2021](/content/2021/03/11/README.md)
 
@@ -3446,7 +3452,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / DNS
 
-*   [blocky (⭐3.5k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go/Docker`
+*   [blocky (⭐4.1k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go/Docker`
 
 ## [Jan 10, 2021](/content/2021/01/10/README.md)
 
@@ -3714,7 +3720,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [Mailcow](https://mailcow.email/) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. ([Source Code (⭐7.8k)](https://github.com/mailcow/mailcow-dockerized)) `GPL-2.0` `Docker/PHP`
+*   [Mailcow](https://mailcow.email/) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. ([Source Code (⭐7.9k)](https://github.com/mailcow/mailcow-dockerized)) `GPL-2.0` `Docker/PHP`
 
 ## [Apr 24, 2020](/content/2020/04/24/README.md)
 

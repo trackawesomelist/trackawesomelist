@@ -1,30 +1,71 @@
 # Awesome List Updates on Apr 22 - Apr 28, 2024
 
-12 awesome lists updated this week.
+16 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [1. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / E-commerce
+
+*   [EverShop](https://evershop.io/) `⚠` - E-commerce platform with essential commerce features. Modular architecture and fully customizable. ([Demo](https://demo.evershop.io/), [Source Code (⭐3.2k)](https://github.com/evershopcommerce/evershop)) `GPL-3.0` `Docker/Nodejs`
+
+## [2. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+
+### Inspiration, Instruction, and Research / Fonts
+
+*   [Taxan KPL 710 Demo Plot](https://www.youtube.com/watch?v=Xms3sZONQjo) - A handheld recording of the Taxan KPL 710 running its demo plot.
+*   [Sweet-P Six Shooter SP-600 Plotter Demonstration](https://www.youtube.com/watch?v=xE9LVOMbKxk) – A recording of the Sweet-P SP-600 running its demo plot.
+
+### Manuals and Ephemera / Manuals
+
+*   [Taxan X-Y Plotter KPL 710 Instruction Manual](https://pzwiki.wdka.nl/mediadesign/File:Taxan_kpl710_x-y_plotter.pdf)
+
+### Manuals and Ephemera / Ephemera
+
+*   [Sweet-P Plotter Brochure and Price List](https://archive.org/details/bitsavers_enterCompuersonalPlotterprricelistBrochure_4929854) – Four-page color marketing brochure with attached suggested retail price list.
+
+## [3. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+
+### App Releases / Puzzle Games
+
+*   [Oderrube](https://oderrube.pcgoncalves.com.br/) - [Android](https://play.google.com/store/apps/details?id=br.com.pcgoncalves.oderrube), [IOS](https://apps.apple.com/br/app/oderrube/id6447583342?platform=iphone) - Oderrube is an physics puzzle game. Carefully remove the blocks to allow Derrubito to fall into the target. By [Paulo Gonçalves](https://www.linkedin.com/in/opaulogoncalves)
+
+## [4. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+
+### Contents / Extensions
+
+*   [pg\_analytics (⭐3.8k)](https://github.com/paradedb/paradedb/tree/dev/pg_analytics) - pg\_analytics is an extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
+
+### Contents / Docker images
+
+*   [paradedb/paradedb](https:/hub.docker.com/r/paradedb/paradedb/) - ParadeDB is Postgres for Search and Analytics. Based on the Bitnami Postgres container with pg\_search and pg\_analytics Postgres extensions.
+
+## [5. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
 *   [polars-candle (⭐5)](https://github.com/wdoppenberg/polars-candle) - Python package for for running [candle (⭐13k)](https://github.com/huggingface/candle) ML models on Polars DataFrames by [@wdoppenberg](https://github.com/wdoppenberg).
 
-## [2. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
 *   [bitcoin-core-rpc](https://codeberg.org/kilianmh/bitcoin-core-rpc/) - a (hopefully) complete Bitcoin Core RPC client. [AGPL-3.0+](https://directory.fsf.org/wiki/License:AGPL-3.0)
 
-## [3. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [7. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Logging
 
 *   [LogTape (⭐35)](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers.
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Libraries/Frameworks / Extensions
+
+*   [Kotlin/kotlinx.support (⭐54)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
 
 ### Libraries/Frameworks / Graphics
 
@@ -34,13 +75,13 @@
 
 *   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
 
-## [5. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
 *   [vite-react-framer-starter (⭐0)](https://github.com/matozz/vite-react-framer-starter) - Starter template with `React`, `TypeScript`, `Framer Motion`, `Tailwind CSS`, `ESLint`, and `Prettier`.
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Statusline / Diagnostics
 
@@ -50,25 +91,25 @@
 
 *   [Mr-LLLLL/cool-chunk.nvim (⭐4)](https://github.com/Mr-LLLLL/cool-chunk.nvim) - Simpler and faster chunking with animations.
 
-## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Nodes & Consensus Participation / Wallets
 
 *   [TxnLab/reti (⭐15)](https://github.com/TxnLab/reti) - Provides contracts, a Node Daemon, and a UI for Algorand 'The Reti' consensus incentives, facilitating the creation of decentralized staking pools on the Algorand network to promote broader participation and enhance network security through diversification.
 
-## [8. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [12. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Repos
 
 *   [Functional Programming Learning Path](https://github.com/imteekay/functional-programming-learning-path.git) - A Learning Path for Functional Programming
 
-## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Science Logology / Democratization of Science
 
 *   [Bridging the information gap in organic chemical reactions](https://www.nature.com/articles/s41557-024-01470-8) - ***Nature Chemistry***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=5365091261196953334)]. This perspective article formulates eight principles to improve data management in scientific publications relating to data standardization, reproducibility and evaluation, and encourage scientists to go beyond current publication standards.
 
-## [10. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [14. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### CLI / Text-Based User Interfaces
 
@@ -86,7 +127,11 @@
 
 *   [The Well-Grounded Java Developer (2nd Edition)](https://www.manning.com/books/the-well-grounded-java-developer-second-edition)
 
-## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Libraries / Text search
+
+*   [pg\_search (⭐3.8k)](https://github.com/paradedb/paradedb/tree/dev/pg_search) - PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.
 
 ### Applications
 
@@ -96,11 +141,15 @@
 
 *   [Raspirus (⭐77)](https://github.com/Raspirus/Raspirus) - User- and resources-friendly signatures-based malware scanner [![status](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml/badge.svg)](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml)
 
+### Applications / Text editors
+
+*   [vamolessa/pepper](https://git.sr.ht/~lessa/pepper) \[[pepper](https://crates.io/crates/pepper)] — An opinionated modal editor to simplify code editing from the terminal
+
 ### Libraries / Markup language
 
 *   [insomnimus/tidier (⭐1)](https://github.com/insomnimus/tidier) \[[tidier](https://crates.io/crates/tidier)] - A library to format HTML, XHTML and XML documents. [![build badge](https://github.com/insomnimus/tidier/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/insomnimus/tidier/actions)
 
-## [12. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [16. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Community
 

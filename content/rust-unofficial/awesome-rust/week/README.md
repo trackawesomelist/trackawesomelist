@@ -16,9 +16,17 @@ A curated list of Rust code and resources.
 
 *   [Raspirus (⭐77)](https://github.com/Raspirus/Raspirus) - User- and resources-friendly signatures-based malware scanner [![status](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml/badge.svg)](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml)
 
+### Applications / Text editors
+
+*   [vamolessa/pepper](https://git.sr.ht/~lessa/pepper) \[[pepper](https://crates.io/crates/pepper)] — An opinionated modal editor to simplify code editing from the terminal
+
 ### Libraries / Markup language
 
 *   [insomnimus/tidier (⭐1)](https://github.com/insomnimus/tidier) \[[tidier](https://crates.io/crates/tidier)] - A library to format HTML, XHTML and XML documents. [![build badge](https://github.com/insomnimus/tidier/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/insomnimus/tidier/actions)
+
+### Libraries / Text search
+
+*   [pg\_search (⭐3.8k)](https://github.com/paradedb/paradedb/tree/dev/pg_search) - PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.
 
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
@@ -122,7 +130,6 @@ A curated list of Rust code and resources.
     *   [fschutt/printpdf (⭐760)](https://github.com/fschutt/printpdf) — PDF writing library
     *   [J-F-Liu/lopdf (⭐1.5k)](https://github.com/J-F-Liu/lopdf) — PDF document manipulation
     *   [kaj/rust-pdf (⭐141)](https://github.com/kaj/rust-pdf) —
-    *   [WASM-PDF (⭐466)](https://github.com/jussiniinikoski/wasm-pdf) – Generates PDF files with JavaScript and WASM (WebAssembly)
 
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
 
@@ -150,10 +157,6 @@ A curated list of Rust code and resources.
 ### Libraries / Data structures
 
 *   [ashvardanian/simsimd (⭐702)](https://github.com/ashvardanian/SimSIMD) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
-
-### Libraries / Text search
-
-*   [pg\_bm25 (⭐3.8k)](https://github.com/paradedb/paradedb/tree/dev/pg_bm25) - PostgreSQL extension that enables full text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.
 
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
@@ -461,7 +464,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [eza-community/eza (⭐6.8k)](https://github.com/eza-community/eza) — A replacement for 'ls'
+*   [eza-community/eza (⭐7.2k)](https://github.com/eza-community/eza) — A replacement for 'ls'
 
 ## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
 
@@ -1028,11 +1031,6 @@ A curated list of Rust code and resources.
 ### Applications
 
 *   [Arti](https://gitlab.torproject.org/tpo/core/arti) — An implementation of Tor. (So far, it's a not-very-complete client. But watch this space!) [![Crates.io](https://img.shields.io/crates/v/arti.svg)](https://crates.io/crates/arti)
-
-### Development tools / IDEs
-
-*   [Atom](https://github.blog/2022-06-08-sunsetting-atom/)
-    *   [rust-lang/atom-ide-rust (⭐261)](https://github.com/rust-lang/atom-ide-rust) — Rust IDE support for Atom, powered by the Rust Language Server (RLS)
 
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
@@ -1656,7 +1654,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [sharkdp/fd (⭐31k)](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
+*   [sharkdp/fd (⭐32k)](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
 
 ## [Nov 01 - Nov 07, 2021](/content/2021/44/README.md)
 
@@ -1704,8 +1702,6 @@ A curated list of Rust code and resources.
         *   [elastic-rs/elastic (⭐252)](https://github.com/elastic-rs/elastic) \[[elastic](https://crates.io/crates/elastic)] — elastic is an efficient, modular API client for Elasticsearch written in Rust [![build badge](https://ci.appveyor.com/api/projects/status/csa78tcumdpnbur2?svg=true)](https://ci.appveyor.com/project/KodrAus/elastic)
     *   etcd
         *   [jimmycuadra/rust-etcd (⭐142)](https://github.com/jimmycuadra/rust-etcd) \[[etcd](https://crates.io/crates/etcd)] — A client library for CoreOS's etcd.
-    *   ForestDB
-        *   [vhbit/sherwood (⭐9)](https://github.com/vhbit/sherwood) — [ForestDB (⭐1.3k)](https://github.com/couchbase/forestdb) bindings
     *   [InfluxDB](https://www.influxdata.com/)
         *   [driftluo/InfluxDBClient-rs (⭐82)](https://github.com/driftluo/InfluxDBClient-rs) — Synchronization interface
     *   LevelDB
@@ -1737,7 +1733,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [cantino/mcfly (⭐6.5k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
+*   [cantino/mcfly (⭐6.6k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 *   [dalance/procs (⭐4.7k)](https://github.com/dalance/procs) — A modern replacement for 'ps' [![Regression](https://github.com/dalance/procs/actions/workflows/regression.yml/badge.svg)](https://github.com/dalance/procs/actions/workflows/regression.yml)
 
 ### Applications / Web
@@ -1816,10 +1812,6 @@ A curated list of Rust code and resources.
 ### Applications / Operating systems
 
 *   [0x59616e/SteinsOS (⭐112)](https://github.com/0x59616e/SteinsOS) — An OS for armv8-a architecture.
-
-### Applications / System tools
-
-*   [Alonely0/Voila (⭐98)](https://github.com/Alonely0/Voila) — Voila is a domain-specific language launched through CLI tool for operating with files and directories in massive amounts in a fast & reliable way. [![Linux build](https://github.com/Alonely0/Voila/actions/workflows/linux-ci.yml/badge.svg)](https://github.com/Alonely0/Voila/actions/workflows/linux-ci.yml) [![macOS build](https://github.com/Alonely0/Voila/actions/workflows/mac-ci.yml/badge.svg)](https://github.com/Alonely0/Voila/actions/workflows/mac-ci.yml) [![Windows build](https://github.com/Alonely0/Voila/actions/workflows/windows-ci.yml/badge.svg)](https://github.com/Alonely0/Voila/actions/workflows/windows-ci.yml)
 
 ### Libraries / Network programming
 
@@ -2104,10 +2096,6 @@ A curated list of Rust code and resources.
     *   [woboq/qmetaobject-rs (⭐599)](https://github.com/woboq/qmetaobject-rs) — Integrate Qml and Rust by building the QMetaObject at compile time.
 *   [rise-ui (⭐72)](https://github.com/rise-ui/rise) — Simple component-based cross-Platform GUI Toolkit for developing beautiful and user-friendly interfaces.
 
-### Libraries / Logging
-
-*   [jesusprubio/leg (⭐202)](https://github.com/jesusprubio/leg) — Elegant print for lazy devs. Make your CLIs nicer with minimal effort. [![Build Status](https://github.com/jesusprubio/leg/workflows/CI/badge.svg)](https://github.com/jesusprubio/leg/actions/workflows/ci.yml)
-
 ### Libraries / Network programming
 
 *   NATS
@@ -2223,10 +2211,6 @@ A curated list of Rust code and resources.
 *   [m4b/bingrep (⭐1.7k)](https://github.com/m4b/bingrep) — Greps through binaries from various OSs and architectures, and colors them.
 *   [mxseev/logram (⭐96)](https://github.com/mxseev/logram) — Push log files' updates to Telegram
 *   [nivekuil/rip (⭐1.3k)](https://github.com/nivekuil/rip) - A safe and ergonomic alternative to `rm`
-
-### Applications / Text editors
-
-*   [vamolessa/pepper (⭐372)](https://github.com/vamolessa/pepper) \[[pepper](https://crates.io/crates/pepper)] — An opinionated modal editor to simplify code editing from the terminal [![build badge](https://github.com/vamolessa/pepper/workflows/rust/badge.svg?branch=master)](https://github.com/vamolessa/pepper)
 
 ### Applications / Text processing
 
@@ -2351,10 +2335,6 @@ A curated list of Rust code and resources.
 *   [greyblake/whatlang-rs (⭐947)](https://github.com/greyblake/whatlang-rs) — Natural language detection library based on trigrams
 *   [Lucretiel/joinery (⭐92)](https://github.com/Lucretiel/joinery) \[[joinery](https://crates.io/crates/joinery)] – Generic string + iterable joining
 
-### Libraries / Virtualization
-
-*   [unicorn-rs/unicorn-rs (⭐132)](https://github.com/unicorn-rs/unicorn-rs) — Bindings for the unicorn CPU emulator
-
 ### Registries / Web programming
 
 *   [Crates](https://crates.io) — The official public registry for Rust/Cargo.
@@ -2410,10 +2390,6 @@ A curated list of Rust code and resources.
 *   [fancy-regex/fancy-regex (⭐386)](https://github.com/fancy-regex/fancy-regex) \[[fancy-regex](https://crates.io/crates/fancy-regex)] - Regular expressions implementation designed to support a relatively rich set of features such as look-around and backtracking. [![crates](https://img.shields.io/crates/v/fancy-regex.svg)](https://crates.io/crates/fancy-regex) [![build badge](https://github.com/fancy-regex/fancy-regex/workflows/ci/badge.svg)](https://github.com/fancy-regex/fancy-regex/actions/workflows/ci.yml)
 
 ## [May 03 - May 09, 2021](/content/2021/18/README.md)
-
-### Applications / Blockchain
-
-*   [Nimiq (⭐74)](https://github.com/nimiq/core-rs) — Implementation of Nimiq node
 
 ### Applications / Database
 
@@ -2779,8 +2755,6 @@ A curated list of Rust code and resources.
     *   [alexcrichton/bzip2-rs (⭐93)](https://github.com/alexcrichton/bzip2-rs) — [libbz2](https://www.sourceware.org/bzip2/) bindings
 *   miniz
     *   [rust-lang/flate2-rs (⭐821)](https://github.com/rust-lang/flate2-rs) — [miniz](https://code.google.com/archive/p/miniz) bindings [![build badge](https://github.com/rust-lang/flate2-rs/workflows/CI/badge.svg?branch=master)](https://github.com/rust-lang/flate2-rs/actions)
-*   snappy
-    *   [JeffBelgum/rust-snappy (⭐15)](https://github.com/JeffBelgum/rust-snappy) — [snappy (⭐6k)](https://github.com/google/snappy) bindings
 *   tar
     *   [alexcrichton/tar-rs (⭐592)](https://github.com/alexcrichton/tar-rs) — tar archive reading/writing
 
@@ -2828,8 +2802,6 @@ A curated list of Rust code and resources.
 
 *   Antimony
     *   [antimonyproject/antimony (⭐64)](https://github.com/antimonyproject/antimony) \[[antimony](https://crates.io/crates/antimony)] — stream processing / distributed computation platform
-*   Beanstalkd
-    *   [schickling/rust-beanstalkd (⭐46)](https://github.com/schickling/rust-beanstalkd) — [Beanstalkd (⭐6.5k)](https://github.com/beanstalkd/beanstalkd) bindings
 
 ### Libraries / Email
 
@@ -2996,7 +2968,6 @@ A curated list of Rust code and resources.
     *   [Juniper (⭐5.5k)](https://github.com/graphql-rust/juniper) — GraphQL server library
     *   [miketang84/sapper (⭐617)](https://github.com/miketang84/sapper) — A lightweight web framework built on async hyper.
     *   [Nickel (⭐3k)](https://github.com/nickel-org/nickel.rs/) — inspired by [Express](http://expressjs.com/)
-    *   [Ogeon/rustful (⭐864)](https://github.com/Ogeon/rustful) — A RESTful web framework
     *   [poem-web/poem (⭐3.2k)](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework. [![CI](https://github.com/poem-web/poem/actions/workflows/ci.yml/badge.svg)](https://github.com/poem-web/poem/actions/workflows/ci.yml)
     *   [Rocket (⭐23k)](https://github.com/rwf2/Rocket) — Rocket is a web framework with a focus on ease-of-use, expressability, and speed
     *   [Rustless (⭐614)](https://github.com/rustless/rustless) — A REST-like API micro-framework inspired by [Grape (⭐9.8k)](https://github.com/ruby-grape/grape) and [Hyper (⭐14k)](https://github.com/hyperium/hyper)
@@ -3096,7 +3067,6 @@ A curated list of Rust code and resources.
 *   [Vim](https://vim.sourceforge.io/) — the ubiquitous text editor
     *   [autozimu/LanguageClient-neovim (⭐3.5k)](https://github.com/autozimu/LanguageClient-neovim) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
     *   [crates.nvim (⭐756)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
-    *   [rust-tools.nvim (⭐2.2k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
     *   [rust.vim (⭐3.8k)](https://github.com/rust-lang/rust.vim) — provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     *   [vim-racer (⭐627)](https://github.com/racer-rust/vim-racer) — allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
 
@@ -3238,7 +3208,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [alacritty (⭐52k)](https://github.com/alacritty/alacritty) — A cross-platform, GPU enhanced terminal emulator
+*   [alacritty (⭐53k)](https://github.com/alacritty/alacritty) — A cross-platform, GPU enhanced terminal emulator
 
 ### Applications / Emulators
 
@@ -3368,7 +3338,6 @@ A curated list of Rust code and resources.
 *   [ChainX (⭐316)](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
 *   [Grin (⭐5k)](https://github.com/mimblewimble/grin/) — Evolution of the MimbleWimble protocol
 *   [Nervos CKB (⭐1.1k)](https://github.com/nervosnetwork/ckb) — Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
-*   [Substrate (⭐8.4k)](https://github.com/paritytech/substrate) — Generic modular blockchain template.
 
 ## [Jun 03 - Jun 09, 2019](/content/2019/22/README.md)
 
@@ -3726,13 +3695,6 @@ A curated list of Rust code and resources.
 ### Libraries / Virtualization
 
 *   [saurvs/hypervisor-rs (⭐59)](https://github.com/saurvs/hypervisor-rs) — Hardware-accelerated virtualization on OS X
-
-## [Jan 25 - Jan 31, 2016](/content/2016/4/README.md)
-
-### Libraries / Game development
-
-*   Corange
-    *   [lucidscape/corange-rs (⭐46)](https://github.com/lucidscape/corange-rs) — [Corange (⭐1.7k)](https://github.com/orangeduck/Corange) bindings
 
 ## [Jan 18 - Jan 24, 2016](/content/2016/3/README.md)
 

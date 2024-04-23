@@ -8,6 +8,10 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
 
+### Libraries/Frameworks / Extensions
+
+*   [Kotlin/kotlinx.support (⭐54)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
+
 ### Libraries/Frameworks / Graphics
 
 *   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.

@@ -6,6 +6,12 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 [ Daily / [Weekly](/content/KotlinBy/awesome-kotlin/week/README.md) / [Overview](/content/KotlinBy/awesome-kotlin/readme/README.md) ]
 
+## [Apr 23, 2024](/content/2024/04/23/README.md)
+
+### Libraries/Frameworks / Extensions
+
+*   [Kotlin/kotlinx.support (⭐54)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
+
 ## [Apr 22, 2024](/content/2024/04/22/README.md)
 
 ### Libraries/Frameworks / Graphics
