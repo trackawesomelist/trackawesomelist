@@ -6,6 +6,24 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 [ [Daily](/content/matteocrippa/awesome-swift/README.md) / Weekly / [Overview](/content/matteocrippa/awesome-swift/readme/README.md) ]
 
+## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
+
+### Patterns
+
+*   [SimplexArchitecture (⭐54)](https://github.com/Ryu0118/swiftui-simplex-architecture) - A Simple architecture that decouples state changes from SwiftUI's View
+
+### Analytics
+
+*   [Aptabase (⭐643)](https://github.com/aptabase/aptabase) - Open Source, Privacy-First and Simple Analytics for Swift Apps.
+
+### Layout / Barcode
+
+*   [FrameLayoutKit (⭐65)](https://github.com/kennic/FrameLayoutKit) - This framework supports complex layouts, including chaining and nesting layout with simple and intuitive operand & DSL syntax.
+
+### Menu / Barcode
+
+*   [SegmentIO (⭐2.5k)](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented menu for iOS.
+
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
 ### Chart

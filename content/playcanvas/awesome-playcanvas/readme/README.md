@@ -129,6 +129,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Jungle Friends](https://poki.com/en/g/jungle-friends) - Earn coins by helping your animal friends.
 *   [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) - Dinosaurs, LEGO and vehicle stunts.
 *   [Mahjong World](https://play.famobi.com/mahjong-world) - 3D Mahjong puzzle game.
+*   [Mancala Classic](https://www.crazygames.com/game/mancala-classic) - Strategic board game.
 *   [Megopoly](https://playmegopoly.com/) - Free to play casual strategy board game where you invest in virtual property.
 *   [Monopoly](https://benbean.tech/monopoly-io/) - The classic boardgame recreated in a 3D video game.
 *   [Nitro Knights](https://gamedistribution.com/games/nitro-knights) - Futuristic jousting game.
@@ -221,5 +222,5 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ## Contributing
 
-Please see [CONTRIBUTING (⭐235)](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING (⭐238)](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
 

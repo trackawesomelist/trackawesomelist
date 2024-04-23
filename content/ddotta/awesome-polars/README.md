@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Apr 23, 2024](/content/2024/04/23/README.md)
+
+### Resources / Blog posts
+
+*   [Pandas vs Polars? Bid Adieu to Pandas and Switch To Polars!](https://towardsai.net/p/machine-learning/pandas-vs-polars-bid-adieu-to-pandas-and-switch-to-polars?amp=1) - An article that compares Polars to Pandas with a dataset of 1.2 GB. Code used is available on Github [here (⭐0)](https://github.com/sm823zw/pandas-vs-polars).
+
 ## [Apr 22, 2024](/content/2024/04/22/README.md)
 
 ### Libraries/Packages/Scripts / Python

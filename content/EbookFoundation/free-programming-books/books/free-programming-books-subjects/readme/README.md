@@ -766,6 +766,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [The Black Art of Programming](http://self.gutenberg.org/wplbn0002828847-the-black-art-of-programming-by-mcilroy-mark.aspx?) - Mark McIlroy
 *   [The Craft of Programming](https://kilthub.cmu.edu/articles/The_Craft_of_Programming/6610514) - John C. Reynolds
 *   [The Nature of Code](https://natureofcode.com/book) - Daniel Shiffman (HTML)
+*   [The Super Programmer (⭐45)](https://github.com/keyvank/tsp) - Keyvan Kambakhsh (PDF, HTML) *(:construction: in process)*
 *   [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - - Allen B. Downey (2nd Edition) (PDF, HTML)
 
 ### Programming Paradigms

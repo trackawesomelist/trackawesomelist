@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Apr 23, 2024](/content/2024/04/23/README.md)
+
+### Resources / Tutorials
+
+*   [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
+*   [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
+
 ## [Apr 15, 2024](/content/2024/04/15/README.md)
 
 ### Resources / Tutorials
@@ -1961,7 +1968,7 @@
 
 ### Components & Libraries / Integrations
 
-*   [vue-cli-plugin-capacitor (⭐133)](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - A Vue CLI 3 Plugin for Capacitor
+*   [vue-cli-plugin-capacitor (⭐132)](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - A Vue CLI 3 Plugin for Capacitor
 
 ## [Mar 15, 2021](/content/2021/03/15/README.md)
 
@@ -7058,7 +7065,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Dockeron (⭐789)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
+*   [Dockeron (⭐790)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
 
 ## [May 18, 2017](/content/2017/05/18/README.md)
 

@@ -6,6 +6,12 @@ A curated list of awesome Web Font Icons
 
 [ Daily / [Weekly](/content/vkarampinis/awesome-icons/week/README.md) / [Overview](/content/vkarampinis/awesome-icons/readme/README.md) ]
 
+## [Apr 23, 2024](/content/2024/04/23/README.md)
+
+### Generic
+
+*   [Phosphor Icons](https://github.com/phosphor-icons) - Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.
+
 ## [Mar 26, 2024](/content/2024/03/26/README.md)
 
 ### Generic
@@ -78,13 +84,13 @@ A curated list of awesome Web Font Icons
 
 ### Merchants
 
-*   [Bitcoin-Icons (⭐101)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
+*   [Bitcoin-Icons (⭐103)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
 
 ## [Oct 15, 2021](/content/2021/10/15/README.md)
 
 ### Merchants
 
-*   [CMC Cryptocurrency Icons (⭐171)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
+*   [CMC Cryptocurrency Icons (⭐174)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
 
 ## [Oct 05, 2021](/content/2021/10/05/README.md)
 
@@ -121,7 +127,7 @@ A curated list of awesome Web Font Icons
 
 ### Merchants
 
-*   [Cryptocurrency Icons (⭐2.5k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
+*   [Cryptocurrency Icons (⭐2.6k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
 
 ## [Oct 03, 2020](/content/2020/10/03/README.md)
 
@@ -185,7 +191,7 @@ A curated list of awesome Web Font Icons
 
 ### Tools
 
-*   [svgtofont (⭐489)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+*   [svgtofont (⭐491)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 
 ## [May 10, 2019](/content/2019/05/10/README.md)
 

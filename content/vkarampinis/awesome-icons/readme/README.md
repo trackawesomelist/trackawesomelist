@@ -12,7 +12,7 @@ A curated list of awesome Web Font Icons
 
 > A curated list of awesome Web (font, svg, whatever) Icons.
 
-Inspired by the [awesome (⭐293k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐298k)](https://github.com/sindresorhus/awesome) list thing.
 
 You can follow me on [Twitter](https://twitter.com/vkarampinis).
 
@@ -92,6 +92,7 @@ Please read the [contribution guidelines](https://github.com/vkarampinis/awesome
 *   [Tabler Icons (⭐17k)](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 *   [Lucide](https://lucide.dev) - A fork of Feather Icons with more than 500 additional icons.
 *   [Flowbite Icons](https://flowbite.com/icons/) - Open-source collection of over 430+ solid and outline icons built for Tailwind CSS and Figma.
+*   [Phosphor Icons](https://github.com/phosphor-icons) - Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.
 
 ## Map / Countries
 
@@ -114,9 +115,9 @@ Please read the [contribution guidelines](https://github.com/vkarampinis/awesome
 
 ## Merchants
 
-*   [Bitcoin-Icons (⭐101)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
-*   [CMC Cryptocurrency Icons (⭐171)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
-*   [Cryptocurrency Icons (⭐2.5k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
+*   [Bitcoin-Icons (⭐103)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
+*   [CMC Cryptocurrency Icons (⭐174)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
+*   [Cryptocurrency Icons (⭐2.6k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
 *   [Payment Webfont](http://www.orlandotm.com/payment-webfont/) - An SVG webfont full of icons of main payment systems.
 *   [PaymentFont](http://paymentfont.io/) - A sleek webfont containing 95 icons of all main payment operators and methods.
 
@@ -124,6 +125,6 @@ Please read the [contribution guidelines](https://github.com/vkarampinis/awesome
 
 *   [fontello](http://fontello.com/) - Icon fonts generator.
 *   [svg-icon](http://leungwensen.github.io/svg-icon/) - Select as many SVG icons as you need, and download as an SVG symbols sprite file.
-*   [svgtofont (⭐489)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+*   [svgtofont (⭐491)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 *   [Orion icon library](https://orioniconlibrary.com/) - Generate icon fonts or download icons in multiple formats.
 

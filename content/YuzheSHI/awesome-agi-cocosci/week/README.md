@@ -12,6 +12,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Bridging the information gap in organic chemical reactions](https://www.nature.com/articles/s41557-024-01470-8) - ***Nature Chemistry***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=5365091261196953334)]. This perspective article formulates eight principles to improve data management in scientific publications relating to data standardization, reproducibility and evaluation, and encourage scientists to go beyond current publication standards.
 
+### Science Logology / Laboratory Automation
+
+*   [Balancing act: when to flex and when to stay fixed](https://www.cell.com/trends/chemistry/fulltext/S2589-5974\(23\)00249-6) - ***Trends in Chemistry***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=14208571639305934551)]. This perspective article provides essential insights into the decision-making process for choosing automation platforms, highlighting the suitability of fixed automation for standardized tasks and the strategic use of flexible automation in dynamic research settings.
+
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
 ### Science Logology / Democratization of Science

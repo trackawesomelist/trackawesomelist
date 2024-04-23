@@ -18,7 +18,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 |                                                                           Awesome                                                                           |   Linux   | Projects |     Updated    |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :------: | :------------: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1054   | April 20, 2024 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1058   | April 23, 2024 |
 
 In parternship with:
 
@@ -286,6 +286,7 @@ In parternship with:
 *   [GoodReactor (⭐32)](https://github.com/GoodRequest/GoodReactor) - ⚛️ GoodReactor is a Redux-inspired Reactor framework for communication between the View Model, View Controller, and Coordinator.
 *   [Reactant (⭐372)](https://github.com/Brightify/Reactant) - Reactant is a reactive architecture for iOS.
 *   [ReduxUI (⭐42)](https://github.com/gre4ixin/ReduxUI) - Redux framework for easy use with SwiftUI.
+*   [SimplexArchitecture (⭐54)](https://github.com/Ryu0118/swiftui-simplex-architecture) - A Simple architecture that decouples state changes from SwiftUI's View
 *   [Spin (⭐120)](https://github.com/Spinners/Spin.Swift) - Provides a versatile Feedback Loop implementation working with RxSwift, ReactiveSwift and Combine.
 *   [StateViewController (⭐309)](https://github.com/davidask/StateViewController) - Stateful UIVIewController composition — the MVC cure for Massive View Controllers.
 *   [SwiftUI Atom Properties (⭐259)](https://github.com/ra1028/swiftui-atom-properties) - A Reactive Data-Binding and Dependency Injection Library for SwiftUI x Concurrency.
@@ -346,6 +347,7 @@ In parternship with:
 
 *Analytics related libraries to easily track your app usage* [back to top](#readme)
 
+*   [Aptabase (⭐643)](https://github.com/aptabase/aptabase) - Open Source, Privacy-First and Simple Analytics for Swift Apps.
 *   [Tracker Aggregator (⭐22)](https://github.com/kafejo/Tracker-Aggregator) - Versatile analytics abstraction layer.
 *   [Umbrella (⭐614)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
 
@@ -998,6 +1000,7 @@ In parternship with:
 *   [BrickKit (⭐603)](https://github.com/wayfair-archive/brickkit-ios) - Create complex and responsive layouts in a simple way.
 *   [CGLayout (⭐44)](https://github.com/k-o-d-e-n/CGLayout) :penguin: - Powerful autolayout framework, that can manage UIView(NSView), CALayer, not rendered views and etc. Provides placeholders.
 *   [FlexLayout (⭐1.9k)](https://github.com/layoutBox/FlexLayout) - Nice and clean interface to the highly optimized Facebook yoga Flexbox implementation.
+*   [FrameLayoutKit (⭐65)](https://github.com/kennic/FrameLayoutKit) - This framework supports complex layouts, including chaining and nesting layout with simple and intuitive operand & DSL syntax.
 *   [Grid (⭐1.7k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
 *   [LayoutLess (⭐431)](https://github.com/DeclarativeHub/Layoutless) - Write less UI Code.
 *   [Neon (⭐4.6k)](https://github.com/mamaral/Neon) - A powerful programmatic UI layout framework.
@@ -1595,6 +1598,7 @@ In parternship with:
 *   [Panels (⭐1.5k)](https://github.com/antoniocasero/Panels) - Panels is a framework to easily add sliding panels to your application.
 *   [Parchment (⭐3.3k)](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu, built on UICollectionView.
 *   [PopMenu (⭐1.6k)](https://github.com/CaliCastle/PopMenu) - 😎 A cool and customizable popup style action sheet for iOS.
+*   [SegmentIO (⭐2.5k)](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented menu for iOS.
 *   [SideMenu (⭐5.6k)](https://github.com/jonkykong/SideMenu) - Simple side menu control for iOS inspired by Facebook. Right and Left sides. No coding required.
 *   [SlideMenuControllerSwift (⭐3.4k)](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app.
 *   [SwipeMenuViewController (⭐1.3k)](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.

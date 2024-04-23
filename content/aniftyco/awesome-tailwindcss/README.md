@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aniftyco/awesome-tailwindcss/week/README.md) / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Apr 23, 2024](/content/2024/04/23/README.md)
+
+### Tools
+
+*   🔼🌍 [ska-tailwind-editor](https://sinukoduleheabi.ee/editor/) - Edit Tailwind HTML as WordPress blocks with intuitive UI for Tailwind classes and get HTML or JSX back.
+
 ## [Apr 17, 2024](/content/2024/04/17/README.md)
 
 ### Plugins

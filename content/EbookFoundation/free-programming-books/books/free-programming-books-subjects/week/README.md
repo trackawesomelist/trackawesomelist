@@ -6,6 +6,12 @@
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
+
+### Programming
+
+*   [The Super Programmer (⭐45)](https://github.com/keyvank/tsp) - Keyvan Kambakhsh (PDF, HTML) *(:construction: in process)*
+
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
 ### Artificial Intelligence

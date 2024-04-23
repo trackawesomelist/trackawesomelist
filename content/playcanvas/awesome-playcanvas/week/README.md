@@ -6,6 +6,12 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ [Daily](/content/playcanvas/awesome-playcanvas/README.md) / Weekly / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
+
+### Browser Games
+
+*   [Mancala Classic](https://www.crazygames.com/game/mancala-classic) - Strategic board game.
+
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
 ### Extensions and Utilities
