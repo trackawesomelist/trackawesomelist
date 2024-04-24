@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
+
+### Networking
+
+*   [fwdctl (⭐43)](https://github.com/alegrey91/fwdctl) - A simple and intuitive CLI to manage IPTables forwards in your Linux server.
+
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
 ### Parsers/Encoders/Decoders
@@ -554,7 +560,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Databases Implemented in Go
 
-*   [libradb (⭐147)](https://github.com/amit-davidson/LibraDB) - LibraDB is a simple database with less then 1000 lines of code for learning.
+*   [libradb (⭐147)](https://github.com/amit-davidson/LibraDB) - LibraDB is a simple database with less than 1000 lines of code for learning.
 
 ### Relational Database Drivers
 
@@ -1193,7 +1199,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Configuration
 
-*   [harvester (⭐130)](https://github.com/beatlabs/harvester) - Harvester, a easy to use static and dynamic configuration package supporting seeding, env vars and Consul integration.
+*   [harvester (⭐130)](https://github.com/beatlabs/harvester) - Harvester, an easy to use static and dynamic configuration package supporting seeding, env vars and Consul integration.
 *   [kong (⭐1.8k)](https://github.com/alecthomas/kong) - Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to `kingpin`).
 
 ### Caches
@@ -1310,7 +1316,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Configuration
 
-*   [config (⭐47)](https://github.com/num30/config) - configure you app using file, environment variables, or flags in two lines of code
+*   [config (⭐47)](https://github.com/num30/config) - configure your app using file, environment variables, or flags in two lines of code
 
 ### Error Handling
 
@@ -1494,7 +1500,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Bloom and Cuckoo Filters
 
-*   [cuckoo-filter (⭐277)](https://github.com/linvon/cuckoo-filter) - Cuckoo filter: a comprehensive cuckoo filter, which is configurable and space optimized compared with other implements, and all features mentioned in original paper is available.
+*   [cuckoo-filter (⭐277)](https://github.com/linvon/cuckoo-filter) - Cuckoo filter: a comprehensive cuckoo filter, which is configurable and space optimized compared with other implements, and all features mentioned in original paper are available.
 *   [cuckoofilter (⭐1.1k)](https://github.com/seiflotfy/cuckoofilter) - Cuckoo filter: a good alternative to a counting bloom filter implemented in Go.
 *   [ring (⭐137)](https://github.com/TheTannerRyan/ring) - Go implementation of a high performance, thread safe bloom filter.
 
@@ -2100,7 +2106,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [pterm (⭐4.5k)](https://github.com/pterm/pterm) - A library to beautify console output on every platform with many combinable components.
 *   [spinner (⭐2.3k)](https://github.com/briandowns/spinner) - Go package to easily provide a terminal spinner with options.
 *   [tabby (⭐348)](https://github.com/cheynewallace/tabby) - A tiny library for super simple Golang tables.
-*   [table (⭐49)](https://github.com/tomlazar/table) - Small library for terminal color based tables .
+*   [table (⭐49)](https://github.com/tomlazar/table) - Small library for terminal color based tables.
 *   [tabular (⭐76)](https://github.com/InVisionApp/tabular) - Print ASCII tables from command line utilities without the need to pass large sets of data to the API.
 *   [termbox-go (⭐4.6k)](https://github.com/nsf/termbox-go) - Termbox is a library for creating cross-platform text-based interfaces.
 *   [termdash (⭐2.6k)](https://github.com/mum4k/termdash) - Go terminal dashboard based on **termbox-go** and inspired by [termui (⭐13k)](https://github.com/gizak/termui).
@@ -2179,14 +2185,14 @@ A curated list of awesome Go frameworks, libraries and software
 *   [goConfig (⭐3)](https://github.com/crgimenes/goConfig) - Parses a struct as input and populates the fields of this struct with parameters from command line, environment variables and configuration file.
 *   [godotenv (⭐7.5k)](https://github.com/joho/godotenv) - Go port of Ruby's dotenv library (Loads environment variables from `.env`).
 *   [gofigure (⭐67)](https://github.com/ian-kent/gofigure) - Go application configuration made easy.
-*   [gone/jconf (⭐48)](https://github.com/One-com/gone/tree/master/jconf) - Modular JSON configuration. Keep you config structs along with the code they configure and delegate parsing to submodules without sacrificing full config serialization.
+*   [gone/jconf (⭐48)](https://github.com/One-com/gone/tree/master/jconf) - Modular JSON configuration. Keep your config structs along with the code they configure and delegate parsing to submodules without sacrificing full config serialization.
 *   [gonfig (⭐8)](https://github.com/milad-abbasi/gonfig) - Tag-based configuration parser which loads values from different providers into typesafe struct.
 *   [gookit/config (⭐520)](https://github.com/gookit/config) - application config manage(load,get,set). support JSON, YAML, TOML, INI, HCL. multi file load, data override merge.
 *   [hjson (⭐320)](https://github.com/hjson/hjson-go) - Human JSON, a configuration file format for humans. Relaxed syntax, fewer mistakes, more comments.
 *   [hocon (⭐71)](https://github.com/gurkankaymak/hocon) - Configuration library for working with the HOCON(a human-friendly JSON superset) format, supports features like environment variables, referencing other values, comments and multiple files.
 *   [ingo (⭐36)](https://github.com/schachmat/ingo) - Flags persisted in an ini-like config file.
 *   [ini (⭐3.4k)](https://github.com/go-ini/ini) - Go package to read and write INI files.
-*   [ini (⭐16)](https://github.com/wlevene/ini) - INI Parser & Write Library, Unmarshal to Struct,Marshal to Json,Write File,watch file.
+*   [ini (⭐16)](https://github.com/wlevene/ini) - INI Parser & Write Library, Unmarshal to Struct, Marshal to Json, Write File, watch file.
 *   [joshbetz/config (⭐216)](https://github.com/joshbetz/config) - Small configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP.
 *   [kelseyhightower/envconfig (⭐4.9k)](https://github.com/kelseyhightower/envconfig) - Go library for managing configuration data from environment variables.
 *   [koanf (⭐2.4k)](https://github.com/knadh/koanf) - Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line.
@@ -2629,7 +2635,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [async (⭐133)](https://github.com/studiosol/async) - A safe way to execute functions asynchronously, recovering them in case of panic.
 *   [breaker (⭐17)](https://github.com/kamilsk/breaker) - Flexible mechanism to make execution flow interruptible.
 *   [channelify (⭐29)](https://github.com/ddelizia/channelify) - Transform your function to return channels for easy and powerful parallel processing.
-*   [concurrency-limiter (⭐17)](https://github.com/vivek-ng/concurrency-limiter) - Concurrency limiter with support for timeouts , dynamic priority and context cancellation of goroutines.
+*   [concurrency-limiter (⭐17)](https://github.com/vivek-ng/concurrency-limiter) - Concurrency limiter with support for timeouts, dynamic priority and context cancellation of goroutines.
 *   [conexec (⭐15)](https://github.com/ITcathyh/conexec) - A concurrent toolkit to help execute funcs concurrently in an efficient and safe way. It supports specifying the overall timeout to avoid blocking and uses goroutine pool to improve efficiency.
 *   [cyclicbarrier (⭐136)](https://github.com/marusama/cyclicbarrier) - CyclicBarrier for golang.
 *   [execpool (⭐20)](https://github.com/hexdigest/execpool) - A pool built around exec.Cmd that spins up a given number of processes in advance and attaches stdin and stdout to them when needed. Very similar to FastCGI or Apache Prefork MPM but works for any command.
@@ -2818,7 +2824,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-log (⭐33)](https://github.com/siddontang/go-log) - Log lib supports level and multi handlers.
 *   [go-log (⭐42)](https://github.com/ian-kent/go-log) - Log4j implementation in Go.
 *   [go-logger (⭐286)](https://github.com/apsdehal/go-logger) - Simple logger of Go Programs, with level handlers.
-*   [gologger (⭐42)](https://github.com/sadlil/gologger) - Simple easy to use log lib for go, logs in Colored Console, Simple Console, File or Elasticsearch.
 *   [gomol (⭐19)](https://github.com/aphistic/gomol) - Multiple-output, structured logging for Go with extensible logging outputs.
 *   [gone/log (⭐48)](https://github.com/One-com/gone/tree/master/log) - Fast, extendable, full-featured, std-lib source compatible log library.
 *   [httpretty (⭐388)](https://github.com/henvic/httpretty) - Pretty-prints your regular HTTP requests on your terminal for debugging (similar to http.DumpRequest).
@@ -2833,7 +2838,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [logdump (⭐11)](https://github.com/ewwwwwqm/logdump) - Package for multi-level logging.
 *   [logex (⭐43)](https://github.com/chzyer/logex) - Golang log lib, supports tracking and level, wrap by standard log lib.
 *   [logger (⭐158)](https://github.com/azer/logger) - Minimalistic logging library for Go.
-*   [logmatic (⭐16)](https://github.com/borderstech/logmatic) - Colorized logger for Golang with dynamic log level configuration.
 *   [logo (⭐11)](https://github.com/mbndr/logo) - Golang logger to different configurable writers.
 *   [logrus (⭐24k)](https://github.com/Sirupsen/logrus) - Structured logger for Go.
 *   [logrusiowriter (⭐16)](https://github.com/cabify/logrusiowriter) - `io.Writer` implementation using [logrus (⭐24k)](https://github.com/sirupsen/logrus) logger.
@@ -3098,7 +3102,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [arp (⭐351)](https://github.com/mdlayher/arp) - Package arp implements the ARP protocol, as described in RFC 826.
 *   [buffstreams (⭐254)](https://github.com/stabbycutyou/buffstreams) - Streaming protocolbuffer data over TCP made easy.
-*   [canopus](https://github.com/zubairhamed/canopus) - CoAP Client/Server implementation (RFC 7252).
+*   [canopus (⭐153)](https://github.com/zubairhamed/canopus) - CoAP Client/Server implementation (RFC 7252).
 *   [cidranger (⭐883)](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup for Go.
 *   [dhcp6 (⭐77)](https://github.com/mdlayher/dhcp6) - Package dhcp6 implements a DHCPv6 server, as described in RFC 3315.
 *   [dns (⭐7.7k)](https://github.com/miekg/dns) - Go library for working with DNS.

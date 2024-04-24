@@ -12,6 +12,24 @@
 
 *   [Top rated Angular stackoverflow questions Dashboard](https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
 
+### Angular Team on Twitter
+
+*   [Matthieu Riegler](https://twitter.com/jean__meche)
+*   [Alex Rickabaugh](https://twitter.com/synalx)
+*   [Caleb Eggensperger](https://twitter.com/calebegg)
+*   [Ciro Nunes](https://twitter.com/cironunesdev)
+*   [Kristiyan Kostadinov](https://twitter.com/_crisbeto)
+*   [David East](https://twitter.com/_davideast)
+*   [Paul Gschwendtner](https://twitter.com/devversion)
+*   [James Daniels](https://twitter.com/jamesuriah)
+*   [Joost Koehoorn](https://twitter.com/devjoost)
+*   [Mark Pieszak](https://twitter.com/MarkPieszak)
+*   [Simona Cotin](https://twitter.com/simona_cotin)
+
+### Experts on Twitter
+
+*   [@maartentibau](https://twitter.com/maartentibau)
+
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular](https://blog.angular.io/) - Official Angular blog
@@ -32,6 +50,7 @@
 
 *   [ng-web-apis (⭐694)](https://github.com/taiga-family/ng-web-apis) - A set of common utils for consuming Web APIs with Angular
 *   [ssr](https://angular.dev/guide/ssr#enable-server-side-rendering) - Documentation for the new ssr package built into the framework.
+*   [angular-prerender (⭐125)](https://github.com/chrisguttandin/angular-prerender) - A command line tool to prerender Angular Apps.
 
 ### Material Design / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -80,6 +99,7 @@
 *   [Angular University](https://angular-university.io/) - Learn And Keep Up With The Angular Ecosystem
 *   [Ultimate Courses](https://ultimatecourses.com/courses/angular) - Everything you need to
     become an Angular expert
+*   [Angular Academy](https://www.angularacademy.ca/) - World-class instructor-led live online Angular courses!
 
 ### Integrations / Testing
 
@@ -95,6 +115,12 @@
 *   [Genesis Foundation](https://learn.genesis.global/docs/previous/web/integrations/angular/) - Genesis is a low-code platform designed specifically for the financial markets.
 *   [ngx-google-analytics (⭐13)](https://github.com/hakimio/ngx-google-analytics) - A simple Google analytics integration for Angular apps.
 *   [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
+*   [angular-sdk (⭐25)](https://github.com/descope/angular-sdk) - Angular library used to integrate with Descope.
+*   [angular-electron (⭐5.6k)](https://github.com/maximegris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron
+*   [Postcat (⭐4.9k)](https://github.com/Postcatlab/postcat) - A lightweight, extensible API tool based on Angular and Electron.
+*   [angulardart-community (⭐5)](https://github.com/angulardart-community/website) - The next-generation AngularDart documentation website.
+*   [NativeScript](https://docs.nativescript.org) - NativeScript provides platform APIs directly to the JavaScript runtime (with strong types) for a rich TypeScript development experience.
+*   [Bit](https://bit.dev/docs/angular-introduction/) -  Leverage Bit to build composable software.
 
 ### Site Templates / Testing
 
@@ -221,6 +247,8 @@
 *   [query (⭐40k)](https://github.com/TanStack/query) - Powerful asynchronous state management, server-state utilities and data fetching for the web.
 *   [elf (⭐1.5k)](https://github.com/ngneat/elf) - A reactive immutable state management solution built on top of RxJS. It uses custom RxJS operators to query the state and pure functions to update it.
 *   [state-adapt (⭐285)](https://github.com/state-adapt/state-adapt) - Declarative, incremental state management library
+*   [ngx-signal-state (⭐50)](https://github.com/simplifiedcourses/ngx-signal-state) - Opinionated simple state management for Angular
+*   [mini-rx-store (⭐165)](https://github.com/spierala/mini-rx-store) - MiniRx is the reactive state management platform.
 
 ### Tables / Testing
 
@@ -246,23 +274,31 @@
 *   [ng2-pdfjs-viewer (⭐220)](https://github.com/intbot/ng2-pdfjs-viewer) - An Angular component for PDFJS and ViewerJS (Supports all versions of Angular).
 *   [ngx-json-viewer (⭐171)](https://github.com/hivivo/ngx-json-viewer) - JSON formatter and viewer in HTML for Angular.
 
-### Ionic in Angular / Tailwind CSS Based
+### TypeScript / Tailwind CSS Based
+
+*   [typehero (⭐5.2k)](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers.
+*   [type-challenges (⭐40k)](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge.
+*   [typescript-challenges (⭐154)](https://github.com/psmyrdek/typescript-challenges) - A set of challenges helping you understand TypeScript
+*   [Sheriff (⭐143)](https://github.com/softarc-consulting/sheriff) - Lightweight Modularity for TypeScript Projects
+*   [Total Typescript Book (⭐1.5k)](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book.
+*   [ts-essentials (⭐3.6k)](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place
+*   [trpc (⭐32k)](https://github.com/trpc/trpc) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+*   [quicktype (⭐11k)](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL.
+*   [ts-pattern (⭐11k)](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference.
+*   [ngx-mf (⭐33)](https://github.com/iamguid/ngx-mf) - Bind your model types to angular FormGroup type
+*   [superstruct (⭐6.8k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
+*   [typebox (⭐4.2k)](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript.
+*   [zod (⭐30k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+
+### Ionic / Tailwind CSS Based
 
 *   [(Github) Ionic Framework (⭐50k)](https://github.com/ionic-team/ionic-framework) - Github Repo of Ionic Framework
-
-### Ionic in Angular / Ionic General Resources
-
 *   [Ionic Academy](https://ionicacademy.com/) - The fastest way to learn Ionic.
 *   [Elite Ionic](https://eliteionic.com/) - Advanced training for Angular developers who want to create NEXT LEVEL native web applications.
 *   [Ionic Themes](https://ionicthemes.com/tutorials) - Tutorials and templates.
 *   [Ionic Start](https://ionicstart.com/) - Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular
 
-### Dart General Resources / Ionic General Resources
-
-*   [Dart](https://dart.dev/) Official Website for Dart.
-*   [angulardart-community (⭐5)](https://github.com/angulardart-community/website) - The next-generation AngularDart documentation website.
-
-### Authentication / Bit Resources
+### Authentication / Tailwind CSS Based
 
 *   [angular-auth-oidc-client (⭐1.1k)](https://github.com/damienbod/angular-auth-oidc-client) - npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, Implicit Flow
 *   [angularx-social-login (⭐619)](https://github.com/abacritt/angularx-social-login) - Social login and authentication module for Angular 17
@@ -274,7 +310,7 @@
 *   [fingerprint](https://dev.fingerprint.com/docs/angular) - The Fingerprint Angular SDK is an easy way to integrate Fingerprint into your Angular application.
 *   [amplify](https://docs.amplify.aws/angular/) - AWS Amplify streamlines full-stack app development. With its libraries, CLI, and services, you can easily connect your frontend to the cloud for authentication, storage, APIs, and more.
 
-### NgRx / Bit Resources
+### NgRx / Tailwind CSS Based
 
 *   [ngrx](https://ngrx.io/) - Reactive State for Angular
 *   [ngrx-course (⭐364)](https://github.com/angular-university/ngrx-course) - Angular University Complete Guide
@@ -404,13 +440,10 @@
 
 ## [Aug 22 - Aug 28, 2022](/content/2022/34/README.md)
 
-### Experts on Twitter
-
-*   [@codewith\_ahsan](https://twitter.com/codewith_ahsan)
-
 ### Experts on Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Muhammad Ahsan Ayaz](https://twitter.com/codewith_ahsan)
+*   [@codewith\_ahsan](https://twitter.com/codewith_ahsan)
 
 ### Books / Testing
 
@@ -419,12 +452,6 @@
 ### Keyboard Mouse / Testing
 
 *   [ngx-focus-control (⭐0)](https://github.com/Raiper34/ngx-focus-control) - Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility
-
-## [Apr 25 - May 01, 2022](/content/2022/17/README.md)
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [Eoapi (⭐4.9k)](https://github.com/eolinker/eoapi) - A lightweight, extensible API tool based on Angular and Electron
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
@@ -497,18 +524,6 @@
 
 *   [ng-cli-hooks (⭐6)](https://github.com/smartin85/ng-cli-hooks) - Hooks for the Angular CLI to customize the build
 
-## [Feb 01 - Feb 07, 2021](/content/2021/5/README.md)
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [truonghungit/angular-starter](https://github.com/truonghungit/angular-starter) - 😍 A complete Angular 10, NgRx, Angular CLI & Angular Material starter project
-
-## [Nov 30 - Dec 06, 2020](/content/2020/48/README.md)
-
-### Misc Components / Tailwind CSS Based
-
-*   [scully (⭐2.6k)](https://github.com/scullyio/scully) - Scully is a static site generator for Angular projects looking to embrace the Jamstack.
-
 ## [Nov 23 - Nov 29, 2020](/content/2020/47/README.md)
 
 ### Experts on Twitter
@@ -518,12 +533,6 @@
 ### Schematics / Testing
 
 *   [Threejs (⭐219)](https://github.com/JohnnyDevNull/ng-three-template): New three.js starter app
-
-## [Nov 16 - Nov 22, 2020](/content/2020/46/README.md)
-
-### Universal Courses And Tutorials / Tailwind CSS Based
-
-*   [Guide to Angular Universal - a comprehensive guide how to sharpen your Universal Skills](https://www.newline.co/courses/newline-guide-to-angular-universal)
 
 ## [Oct 26 - Nov 01, 2020](/content/2020/43/README.md)
 
@@ -543,11 +552,10 @@
 
 ## [Oct 12 - Oct 18, 2020](/content/2020/41/README.md)
 
-### Angular Team on twitter
+### Angular Team on Twitter
 
 *   [Alan Agius](https://twitter.com/AlanAgius4)
 *   [George Kalpakas](https://twitter.com/gkalpakas)
-*   [Stephen Fluin](https://twitter.com/stephenfluin)
 
 ### Experts on Twitter
 
@@ -558,10 +566,6 @@
 
 *   [Alex Inkin](https://twitter.com/waterplea)
 *   [Santosh Yadav](https://twitter.com/SantoshYadavDev)
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [TinkoffCreditSystems/angular-open-source-starter (⭐249)](https://github.com/TinkoffCreditSystems/angular-open-source-starter) - a starter project for creating open-source libraries for Angular
 
 ## [Oct 05 - Oct 11, 2020](/content/2020/40/README.md)
 
@@ -636,7 +640,7 @@
 
 *   [ngx-toastr (⭐2.5k)](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr
 
-### Authentication / Bit Resources
+### Authentication / Tailwind CSS Based
 
 *   [angular2-jwt (⭐2.6k)](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular apps
 *   [casl-angular (⭐5.6k)](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic  permissions management library [CASL (⭐5.6k)](https://github.com/stalniy/casl) with Angular2+
@@ -690,26 +694,14 @@
 *   [ngx-countdown (⭐192)](https://github.com/cipchk/ngx-countdown) - Simple, easy and performance countdown for angular
 *   [xng-breadcrumb (⭐231)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
 
-### TypeScript General Resources / Tailwind CSS Based
+### TypeScript / Tailwind CSS Based
 
 *   [TypeScript](https://www.typescriptlang.org/) Official Website for TypeScript
 *   [REPL](https://www.typescriptlang.org/play/) Official TypeScript REPL that runs entirely in your browser
 
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [Angular Lab (⭐147)](https://github.com/rolandjitsu/angular-lab) A simple Angular 2+ setup using [Angular CLI](https://cli.angular.io), [TypeScript](https://www.typescriptlang.org), [Angular Flex Layout (⭐5.9k)](https://github.com/angular/flex-layout), [Material 2](https://material.angular.io), [AOT](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html), and unit and e2e tests on [Travis CI](https://travis-ci.org) and [Saucelabs](https://saucelabs.com).
-
-### Ionic in Angular / Tailwind CSS Based
+### Ionic / Tailwind CSS Based
 
 *   [Ionic Framework](https://ionicframework.com) - Official Website for Ionic Framework
-
-### Meteor in Angular 2 / Meteor General Resources
-
-*   [Angular Meteor](https://angular-meteor.com/) Official Website for Angular Meteor
-
-### Angular 2 in NativeScript / NativeScript General Resources
-
-*   [Using NativeScript](https://www.syntaxsuccess.com/viewarticle/using-nativescript-with-angular-2.0)
 
 ## [Sep 28 - Oct 04, 2020](/content/2020/39/README.md)
 
@@ -719,16 +711,6 @@
 *   [Jest (⭐319)](https://github.com/briebug/jest-schematic): Configure Angular to execute unit tests with Jest instead of Karma + Jasmine
 *   [Prettier (⭐141)](https://github.com/schuchard/prettier-schematic): Add Prettier and a pre-commit hook for formatting staged files in an Angular application
 *   [Tailwind CSS](https://github.com/ngneat/tailwind): Add Tailwind CSS to an Angular application
-
-## [Aug 10 - Aug 16, 2020](/content/2020/32/README.md)
-
-### Scala Seed Projects / Scala General Resources
-
-*   [**{{** add\_your\_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
-
-### React Native Seed Projects / Scala General Resources
-
-*   [**{{** help\_add\_resources **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 ## [Jul 27 - Aug 02, 2020](/content/2020/30/README.md)
 
@@ -744,16 +726,6 @@
 ### Developer tools / Testing
 
 *   [CodeSandbox](https://codesandbox.io/s/angular-angular) - An online IDE and prototyping tool for rapid Angular development.
-
-## [Aug 19 - Aug 25, 2019](/content/2019/33/README.md)
-
-### Universal Seed Projects / Tailwind CSS Based
-
-*   [angular-universal (⭐153)](https://github.com/enten/angular-universal) - Fast, Unopinionated, Minimalist starter kit for Angular Universal 100% powered by Angular CLI
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [NG-MATERO (⭐1.2k)](https://github.com/ng-matero/ng-matero) - This Ng-Matero is an Angular admin templete made with Material componnets.
 
 ## [May 27 - Jun 02, 2019](/content/2019/21/README.md)
 
@@ -782,19 +754,13 @@
 
 ## [Feb 11 - Feb 17, 2019](/content/2019/6/README.md)
 
-### Angular Team on twitter
+### Angular Team on Twitter
 
 *   [Minko Gechev](https://twitter.com/mgechev)
 
 ### Experts on Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Jeff Delaney](https://twitter.com/jeffdelaney23)
-
-## [Dec 03 - Dec 09, 2018](/content/2018/49/README.md)
-
-### Universal Seed Projects / Tailwind CSS Based
-
-*   [angular-universal-heroku-starter (⭐23)](https://github.com/Alex61NN5/angular-universal-heroku-starter) - Angular 7 Universal Starter Kit with Server-Side Rendering (SSR) and easy deployment to Heroku
 
 ## [Nov 12 - Nov 18, 2018](/content/2018/46/README.md)
 
@@ -827,10 +793,6 @@
 *   [William Grasel](https://twitter.com/willgmbr)
 *   [Alyssa Nicoll](https://twitter.com/AlyssaNicoll)
 
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [angular-app-example (⭐62)](https://github.com/daixianceng/angular-app-example) - Angular latest + material + sass themes + more beautiful features, a dashboard app example
-
 ## [Aug 06 - Aug 12, 2018](/content/2018/32/README.md)
 
 ### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -849,16 +811,7 @@
 
 *   [Angular Webpack Tour of Heroes from michaelbazos (⭐5)](https://github.com/michaelbazos/angular-starter) - Tour of Heroes official typescript tutorial built with webpack
 
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [Angular 2 full code coverage (⭐17)](https://github.com/danday74/angular2-coverage) - Solid tested SystemJS and gulp workflow ready for your code using Angular2 final release (2.1.0) .. Demonstrates unit
-    and full code coverage
-
-### Scala Seed Projects / Bit Resources
-
-*   [bitsrc](https://bitsrc.io/) - Free community hub for sharing, managing and finding open source components.
-
-### Security / Bit Resources
+### Security / Tailwind CSS Based
 
 *   So you thought you were safe using AngularJS? Think again! [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017.
 
@@ -910,11 +863,7 @@
 
 *   [ng-book 2](https://www.ng-book.com/2/) `fullstack.io`
 
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [**{{** add\_your\_repo **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
-
-### Security / Bit Resources
+### Security / Tailwind CSS Based
 
 *   [Angular.io Security Guide](https://angular.io/guide/security) - brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content security policy.
 
@@ -952,13 +901,6 @@
 
 *   [Shai Reznik](https://twitter.com/shai_reznik)
 
-## [Oct 30 - Nov 05, 2017](/content/2017/44/README.md)
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [Angular5 + Redux + Graphql + MySQL quickstart (⭐66)](https://github.com/rafaesc/fullstack-graphql-angular) - Simple Fullstack GraphQL Application with Angular CLI + Redux + Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL).
-*   [Angular5 + Firebase + Structure (⭐54)](https://github.com/naologic/angular5-starter) - Angular 5 + Firebase + a very good router/module structure to make it your own so easy
-
 ## [Oct 23 - Oct 29, 2017](/content/2017/43/README.md)
 
 ### Integrations / Testing
@@ -967,9 +909,9 @@
 
 ## [Sep 18 - Sep 24, 2017](/content/2017/38/README.md)
 
-### TypeScript Seed Projects / Tailwind CSS Based
+### Site Templates / Testing
 
-*   [ngx-admin (⭐25k)](https://github.com/akveo/ngx-admin) - Admin template based on Nebular framework (Angular 4+, Bootstrap 4+)
+*   [ngx-admin (⭐25k)](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 
 ## [Sep 04 - Sep 10, 2017](/content/2017/36/README.md)
 
@@ -977,23 +919,11 @@
 
 *   [Shared TSLint & codelyzer rules by fulls1z3 (⭐172)](https://github.com/ng-seed/angular-tslint-rules)
 
-## [Aug 28 - Sep 03, 2017](/content/2017/35/README.md)
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [Reboard](https://github.com/ksiabani/reboard) - Angular 4 + Material 2 starter dashboard with ngx-charts, based on generator-ngx-rocket (Typescript, SASS, Webpack, Jasmine+Karma, Protractor, TSLint, Codelyzer, Stylelint, ngx-translate, Lodash, Angular Flex-Layout)
-
 ## [Jul 31 - Aug 06, 2017](/content/2017/31/README.md)
 
 ### Official Resources
 
 *   [Getting Started Guide](https://angular.io/guide/quickstart)
-
-## [Jul 17 - Jul 23, 2017](/content/2017/29/README.md)
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [Todo app with Firebase, OAuth, and Immutable (⭐501)](https://github.com/r-park/todo-angular-firebase)
 
 ## [Jul 10 - Jul 16, 2017](/content/2017/28/README.md)
 
@@ -1025,27 +955,6 @@
 
 *   [Angular Webpack from preboot (⭐1.3k)](https://github.com/preboot/angular-webpack)
 
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [Angular 2 Starter (⭐524)](https://github.com/antonybudianto/angular-starter) - Simple Angular 2 Starter with Gulp workflow and Travis CI
-*   [Angular 2 Leaflet Starter (⭐209)](https://github.com/haoliangyu/ngx-leaflet-starter) - A map application starter based on Angular 2 and Leaflet
-*   [Angular 2 MapboxGL Starter (⭐50)](https://github.com/haoliangyu/ngx-mapboxgl-starter) - Another map application starter based on Angular 2 and MapboxGL JS
-
-### Scala Seed Projects / Bit Resources
-
-*   [Bit (⭐18k)](https://github.com/teambit/bit)
-*   [Bit-Javascript (⭐38)](https://github.com/teambit/bit-javascript)
-
-## [May 08 - May 14, 2017](/content/2017/19/README.md)
-
-### Universal Seed Projects / Tailwind CSS Based
-
-*   [ng-seed/universal (⭐704)](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [ng-seed/spa (⭐27)](https://github.com/ng-seed/spa) - Seed project for Angular apps featuring Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
-
 ## [May 01 - May 07, 2017](/content/2017/18/README.md)
 
 ### Webpack / Testing
@@ -1054,12 +963,6 @@
 *   [Angular Webpack with Visual Studio ASP.NET Core from Damien Bowden (⭐487)](https://github.com/damienbod/AngularWebpackVisualStudio)
 *   [Angular Typescript Webpack from schempy (⭐67)](https://github.com/schempy/angular2-typescript-webpack)
 *   [Angular Webpack + rxjs + modules (⭐5)](https://github.com/jorgeas80/angular2-webpack-toh)
-
-## [Apr 10 - Apr 16, 2017](/content/2017/15/README.md)
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [Angular2 D3v4 Seed (⭐14)](https://github.com/gp187/angular2-d3v4-graph) - Angular2 D3v4 implementation of charts, graphs, area and view porting seed project
 
 ## [Apr 03 - Apr 09, 2017](/content/2017/14/README.md)
 
@@ -1074,11 +977,6 @@
 
 *   [Angular Performance Checklist (⭐4.1k)](https://github.com/mgechev/angular-performance-checklist)
 
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [Angular Seed](https://mgechev.github.io/angular-seed/) Seed project for Angular apps
-*   [Angular NPM Module Seed (⭐49)](https://github.com/davguij/angular-npm-module-seed) - Starting point for developing Angular modules and publishing them on NPM.
-
 ## [Feb 13 - Feb 19, 2017](/content/2017/7/README.md)
 
 ### Community
@@ -1091,26 +989,11 @@
 
 *   [Become a ninja with Angular 2](https://books.ninja-squad.com/angular) `Ninja Squad`
 
-### Meteor Seed Projects / Meteor General Resources
-
-*   [Angular2 Meteor Seed (⭐5)](https://github.com/KyneSilverhide/angular2-meteor-seed)
-
-## [Jan 02 - Jan 08, 2017](/content/2017/1/README.md)
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [ng-kitchen-sink (⭐755)](https://github.com/born2net/Angular-kitchen-sink) - The ultimate Angular 2 bootstrap single page app - touches on all key and advanced aspects of Angular
-*   [ng-skeleton (⭐41)](https://github.com/born2net/ng-skeleton) - The ultimate Angular seed with ngrx, bootstrap and two factor auth
-
 ## [Dec 19 - Dec 25, 2016](/content/2016/51/README.md)
 
 ### Documentation tools / Testing
 
 *   [Compodoc (⭐3.9k)](https://github.com/compodoc/compodoc) - The missing documentation tool for your Angular application
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [famn (⭐26)](https://github.com/implustech/famn) - Angular 2 + FeathersJS application framework for both client and server side
 
 ## [Oct 31 - Nov 06, 2016](/content/2016/44/README.md)
 
@@ -1128,57 +1011,11 @@
 
 *   [Angular Boot Camp](https://angularbootcamp.com)
 
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [Reaper (⭐10)](https://github.com/Xamber/Reaper) - Angular 2 Webpack Starter Boilerplate w/o 2269 dependencies
-
-### Meteor in Angular 2 / Meteor General Resources
-
-*   [Angular 2 Meteor](https://www.angular-meteor.com/angular2)
-
-### NativeScript Seed Projects / NativeScript General Resources
-
-*   [angular2-seed-advanced (⭐2.3k)](https://github.com/NathanWalker/angular-seed-advanced)
-
 ## [Sep 19 - Sep 25, 2016](/content/2016/38/README.md)
 
 ### Experts on Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Maxim Salnikov](https://twitter.com/webmaxru)
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [Angular Webpack Starter (⭐91)](https://github.com/antonybudianto/angular-webpack-starter) - Angular Webpack Starter with AoT compilation, Lazy-loading, and Tree-shaking
-
-## [Sep 12 - Sep 18, 2016](/content/2016/37/README.md)
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [ng2-boiler (⭐0)](https://github.com/amcdnl/ng2-boiler) - A bare-bones simple starter with Angular2, TypeScript and Webpack configured.
-
-## [Aug 08 - Aug 14, 2016](/content/2016/32/README.md)
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [Angular 2 Dashboard Starter (⭐97)](https://github.com/hasanhameed07/angular2-dashboard-starter) - Ready to use dashboard control panel seed project based on Angular 2 and AdminLTE bootstrap theme.
-
-## [Jul 25 - Jul 31, 2016](/content/2016/30/README.md)
-
-### Angular Team on twitter
-
-*   [@mhevery](https://twitter.com/mhevery)
-*   [@IgorMinar](https://twitter.com/IgorMinar)
-*   [@naomitraveller](https://twitter.com/naomitraveller)
-
-### Experts on Twitter
-
-*   [@scotups](https://twitter.com/scotups)
-
-## [Jul 18 - Jul 24, 2016](/content/2016/29/README.md)
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [Angular 2 webpack (⭐5)](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
 
 ## [May 16 - May 22, 2016](/content/2016/20/README.md)
 
@@ -1187,43 +1024,11 @@
 *   [Official web page](https://cli.angular.io/)
 *   [Official repository (⭐27k)](https://github.com/angular/angular-cli)
 
-## [Mar 21 - Mar 27, 2016](/content/2016/12/README.md)
-
-### Experts on Twitter
-
-*   [@amcdnl](https://twitter.com/amcdnl)
-
-## [Feb 29 - Mar 06, 2016](/content/2016/9/README.md)
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [angular2-demo (⭐82)](https://github.com/amcdnl/angular2-demo) Minimal Angular2 Demo using TypeScript / Sass / Npm Tasks
-
-## [Feb 15 - Feb 21, 2016](/content/2016/7/README.md)
-
-### Experts on Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Ciro Nunes](https://twitter.com/cironunesdev/)
-
 ## [Jan 25 - Jan 31, 2016](/content/2016/4/README.md)
 
 ### Books / Testing
 
 *   [Practical Angular 2](https://leanpub.com/practical-angular-2) `Leanpub`
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [ng2-start (⭐34)](https://github.com/cebor/ng2-start) - Minimal setup to start creating an angular2 application
-
-### Traceur Seed Projects / Ionic General Resources
-
-*   [GitHub: Angular2 ES6 Seed (Evan Plaice)](https://github.com/evanplaice/angular2-es6-seed/)
-
-## [Jan 11 - Jan 17, 2016](/content/2016/2/README.md)
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [Angular 2 reconnecting websockets quickstart (⭐8)](https://github.com/mkusz/ng2_websockets_quickstart) - Simple counter using 2-way or 1-way reconnecting websockets communication
 
 ## [Jan 04 - Jan 10, 2016](/content/2015/53/README.md)
 
@@ -1231,33 +1036,17 @@
 
 *   [Raúl Jiménez](https://twitter.com/elecash/)
 
-## [Nov 30 - Dec 06, 2015](/content/2015/48/README.md)
-
-### Universal Seed Projects / Tailwind CSS Based
-
-*   [universal-starter (⭐2k)](https://github.com/angular/universal-starter) - Angular 2 Universal starter kit by @Angular-Class
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [Angular 2 Goldilocks seed (⭐40)](https://github.com/ColinEberhardt/angular2-goldilocks-seed) - A seed project for Angular 2 and TypeScript that is not too simple, yet not too complex. In fact it's just right!
-
 ## [Nov 16 - Nov 22, 2015](/content/2015/46/README.md)
 
-### TypeScript General Resources / Tailwind CSS Based
+### TypeScript / Tailwind CSS Based
 
 *   [DefinitelyTyped Repository (GitHub) (⭐47k)](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [ng2-play (⭐537)](https://github.com/pkozlowski-opensource/ng2-play) A minimal Angular2 playground using TypeScript and SystemJS loader
-*   [Spring Boot and Angular2 tutorial (⭐142)](https://github.com/springboot-angular2-tutorial/angular2-app) Angular2 practical example based on [Rails tutorial](https://www.railstutorial.org/).
 
 ## [Oct 26 - Nov 01, 2015](/content/2015/43/README.md)
 
 ### Experts on Twitter
 
 *   [@pkozlowski\_os](https://twitter.com/pkozlowski_os)
-*   [@teropa](https://twitter.com/teropa)
 *   [@eggheadio](https://twitter.com/eggheadio)
 *   [@cedric\_exbrayat](https://twitter.com/cedric_exbrayat)
 
@@ -1292,12 +1081,6 @@
 
 *   [GitHub Repo (⭐94k)](https://github.com/angular/angular)
 
-## [Oct 05 - Oct 11, 2015](/content/2015/40/README.md)
-
-### Scala Seed Projects / Scala General Resources
-
-*   [play-angular2 (⭐9)](https://github.com/gdi2290/play-angular2)
-
 ## [Sep 28 - Oct 04, 2015](/content/2015/39/README.md)
 
 ### Community
@@ -1309,38 +1092,6 @@
 
 *   [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
 
-### Universal General Resources / Tailwind CSS Based
-
-*   [Universal Angular 2 Repository (GitHub) (⭐4k)](https://github.com/angular/universal)
-
-### TypeScript General Resources / Tailwind CSS Based
+### TypeScript / Tailwind CSS Based
 
 *   [TypeScript Repository (GitHub) (⭐98k)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
-
-### TypeScript Seed Projects / Tailwind CSS Based
-
-*   [Angular 2 Samples (⭐1k)](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
-
-### Dart General Resources / Ionic General Resources
-
-*   [Dart Organization (GitHub)](https://github.com/dart-lang) Official GitHub Organization for Dart
-
-### Traceur General Resources / Ionic General Resources
-
-*   [Traceur Repository (GitHub) (⭐8.2k)](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur.
-
-### Angular 2 in NativeScript / NativeScript General Resources
-
-*   [NativeScript](https://www.nativescript.org/) Official Website for NativeScript
-
-### NativeScript Seed Projects / NativeScript General Resources
-
-*   [sample-Angular2 (⭐48)](https://github.com/NativeScript/sample-Angular2)
-
-### Angular 2 in React Native / React Native General Resources
-
-*   [React Native](https://facebook.github.io/react-native/) Official Website for React Native
-
-### React Native Projects / React Native General Resources
-
-*   [Angular 2 React Native Renderer (GitHub) (⭐786)](https://github.com/angular/react-native-renderer)

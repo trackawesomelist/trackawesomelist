@@ -6,6 +6,12 @@ A curated list of awesome Inertia.js resources
 
 [ [Daily](/content/innocenzi/awesome-inertiajs/README.md) / Weekly / [Overview](/content/innocenzi/awesome-inertiajs/readme/README.md) ]
 
+## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
+
+### Adapters / Server-side
+
+*   [FastAPI (⭐3)](https://github.com/hxjo/fastapi-inertia)
+
 ## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
 
 ### Adapters / Server-side

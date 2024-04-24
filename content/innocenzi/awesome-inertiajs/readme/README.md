@@ -95,6 +95,7 @@ A curated list of awesome Inertia.js resources
 *   [Oak (Deno) (⭐8)](https://github.com/jcs224/oak_inertia)
 *   [Echo (⭐8)](https://github.com/kohkimakimoto/inertia-echo)
 *   [Grails (⭐6)](https://github.com/matrei/grails-inertia-plugin)
+*   [FastAPI (⭐3)](https://github.com/hxjo/fastapi-inertia)
 
 ## Resources
 
