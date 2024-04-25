@@ -186,30 +186,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [miniconf](https://crates.io/crates/miniconf): Lookup/enumerate/serialize/deserialize nodes in trees of heterogeneous structs/arrays by path/key - ![crates.io](https://img.shields.io/crates/v/miniconf.svg)
 
-#### [19. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Science Logology / Democratization of Science
-
-*   [Bridging the information gap in organic chemical reactions](https://www.nature.com/articles/s41557-024-01470-8) - ***Nature Chemistry***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=5365091261196953334)]. This perspective article formulates eight principles to improve data management in scientific publications relating to data standardization, reproducibility and evaluation, and encourage scientists to go beyond current publication standards.
-
-##### Science Logology / Laboratory Automation
-
-*   [Automation isn't automatic](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc04588a) - ***Chemical Science***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14176714971050097971)]. This perspective provides an overview of the current state of automation of synthetic chemistry at the benchtop scale with a particular emphasis on core considerations and the ensuing challenges of deploying a system. The authors aim to reframe automation as decidedly not automatic but rather an iterative process that involves a series of careful decisions (both human and computational) and constant adjustment.
-*   [Balancing act: when to flex and when to stay fixed](https://www.cell.com/trends/chemistry/fulltext/S2589-5974\(23\)00249-6) - ***Trends in Chemistry***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=14208571639305934551)]. This perspective article provides essential insights into the decision-making process for choosing automation platforms, highlighting the suitability of fixed automation for standardized tasks and the strategic use of flexible automation in dynamic research settings.
-
-#### [20. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+#### [19. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ##### Productivity / Note Taking and Lists
 
 *   [geeknote (⭐0)](https://github.com/vitaly-zdanevich/geeknote) - Evernote client.
 
-#### [21. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+#### [20. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ##### In English
 
 *   [Advent of Computing](https://adventofcomputing.com/) - A podcast about the shocking, intriguing, and all too often relevant history of computing.
 
-#### [22. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [21. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Community
 
@@ -550,13 +539,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [ng update](https://angular.dev/cli/update) - Use the CLI to update your project or try new Angular features by adding the `--next` flag.
 *   [migrations](https://angular.dev/reference/migrations) - Angular offers schematics to help update your project for you. You can convert your project to standalone components, the new control flow syntax, and more by using one of the Angular built-in schematics.
 
-#### [23. Awesome Yew](/content/jetli/awesome-yew/README.md)
+#### [22. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ##### Projects
 
 *   [demo\_web\_zip\_wasm (⭐3)](https://github.com/MAE664128/demo_web_zip_wasm) - A simple example program for creating ZIP archives running in the browser using WebAssembly, [Live Demo](https://mae664128.github.io/demo_web_zip_wasm/).
 
-#### [24. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [23. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -622,13 +611,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JSON Schema (⭐3.2k) (⭐3.2k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-#### [25. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+#### [24. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ##### Tools / Low-code
 
 *   [FlowTest (⭐103)](https://github.com/FlowTestAI/FlowTest): GenAI powered OpenSource IDE for API first workflows ![GitHub Repo stars](https://img.shields.io/github/stars/FlowTestAI/FlowTest?style=social)
 
-#### [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [25. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Programming Languages Support / Diagnostics
 
@@ -646,7 +635,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Mr-LLLLL/cool-chunk.nvim (⭐4)](https://github.com/Mr-LLLLL/cool-chunk.nvim) - Simpler and faster chunking with animations.
 
-#### [27. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+#### [26. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ##### Inspiration, Instruction, and Research / Fonts
 
@@ -668,7 +657,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Sweet-P Plotter Brochure and Price List](https://archive.org/details/bitsavers_enterCompuersonalPlotterprricelistBrochure_4929854) – Four-page color marketing brochure with attached suggested retail price list.
 
-#### [28. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [27. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### Crash and Exception Handling
 
@@ -678,19 +667,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Free Professional Resume Templates & Editor](https://www.overleaf.com/latex/templates/tagged/cv) - Free platform with lots of Resume templates of Experienced Professionals, ready to clone and edit fully and download, ATS optimized.
 
-#### [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [28. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / E-commerce
 
 *   [EverShop](https://evershop.io/) `⚠` - E-commerce platform with essential commerce features. Modular architecture and fully customizable. ([Demo](https://demo.evershop.io/), [Source Code (⭐3.2k)](https://github.com/evershopcommerce/evershop)) `GPL-3.0` `Docker/Nodejs`
 
-#### [30. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [29. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Embeddings and Semantic Search / Prompt Engineering for Text-to-image
 
 *   [The Hidden Life of Embeddings: Linus Lee - YouTube](https://www.youtube.com/watch?v=YvobVu1l7GI)
 
-#### [31. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+#### [30. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ##### Global Connectivity Indexes
 
@@ -718,7 +707,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [M-Lab Global Network Diagnostic Tool](https://datastudio.google.com/s/r6ZnlTmHfwE) - M-Lab is an open, verifiable measurement platform for global network performance.
 *   [USAID Digital Ecosystem Country Assessments](https://www.usaid.gov/digital-strategy/implementation-tracks/track1-adopt-ecosystem/digital-ecosystem-country-assessments) - [Ghana 2024](https://www.usaid.gov/sites/default/files/2024-03/USAID_DECA_Ghana.pdf) [Tanzania 2023](https://www.usaid.gov/sites/default/files/2023-05/Tanzania%20DECA%20Report.pdf) [Mali 2023](https://www.usaid.gov/sites/default/files/2023-05/Mali%20DECA_English.pdf) [Zambia 2022](https://www.usaid.gov/sites/default/files/2022-12/USAID_Zambia_DECA.pdf) [Bangladesh 2023](https://www.usaid.gov/sites/default/files/2023-06/USAID_Bangladesh_DECA_1.pdf) [Nepal 2022](https://www.usaid.gov/sites/default/files/2022-05/USAID_Nepal_Digital_Ecosystem_Country_Assessment_FINAL.pdf) [Libya 2022](https://www.usaid.gov/sites/default/files/2022-12/USAID_Libya_DECA.pdf) See website for others.
 
-#### [32. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [31. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Extensions
 
@@ -732,7 +721,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
 
-#### [33. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [32. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### C, C++
 
@@ -748,6 +737,28 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   🚀 [Lem on the cloud](https://www.youtube.com/watch?v=IMN7feOQOak) (video presentation)
     *   "Rooms is a product that runs Lem, a text editor created in Common Lisp, in the Cloud and can be used by multiple users."
     *   NEW as of April, 2024.
+
+#### [33. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+
+##### Tools & Software / Replay
+
+*   [PYWB (⭐1.3k)](https://github.com/webrecorder/pywb) - A Python 3 implementation of web archival replay tools, sometimes also known as 'Wayback Machine'. *(Stable)*
+*   [ReplayWeb.page](https://replayweb.page/) - A browser-based, fully client-side replay engine for both local and remote WARC & WACZ files. *(Stable)*
+
+##### Web Archiving Service Providers / Self-hostable, Open Source
+
+*   [Browsertrix](https://browsertrix.com/) - From [Webrecorder](https://webrecorder.net/), source available at [https://github.com/webrecorder/browsertrix (⭐120)](https://github.com/webrecorder/browsertrix).
+
+#### [34. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Science Logology / Democratization of Science
+
+*   [Bridging the information gap in organic chemical reactions](https://www.nature.com/articles/s41557-024-01470-8) - ***Nature Chemistry***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=5365091261196953334)]. This perspective article formulates eight principles to improve data management in scientific publications relating to data standardization, reproducibility and evaluation, and encourage scientists to go beyond current publication standards.
+
+##### Science Logology / Laboratory Automation
+
+*   [Automation isn't automatic](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc04588a) - ***Chemical Science***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14176714971050097971)]. This perspective provides an overview of the current state of automation of synthetic chemistry at the benchtop scale with a particular emphasis on core considerations and the ensuing challenges of deploying a system. The authors aim to reframe automation as decidedly not automatic but rather an iterative process that involves a series of careful decisions (both human and computational) and constant adjustment.
+*   [Balancing act: when to flex and when to stay fixed](https://www.cell.com/trends/chemistry/fulltext/S2589-5974\(23\)00249-6) - ***Trends in Chemistry***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=14208571639305934551)]. This perspective article provides essential insights into the decision-making process for choosing automation platforms, highlighting the suitability of fixed automation for standardized tasks and the strategic use of flexible automation in dynamic research settings.
 
 ---
 
@@ -800,11 +811,11 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 43. [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 40K 📝 03&#x2F;27 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
 44. [Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md) - ([Source ⭐ 16K 📝 04&#x2F;04 ](https://github.com/wilsonfreitas/awesome-quant)) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 45. [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 2K 📝 04&#x2F;25 ](https://github.com/filipecalegario/awesome-generative-ai)) - A curated list of Generative AI tools, works, models, and references
-46. [Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md) - ([Source ⭐ 4.1K 📝 04&#x2F;17 ](https://github.com/dustinspecker/awesome-eslint)) - A list of awesome ESLint plugins, configs, etc.
-47. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 17K 📝 04&#x2F;02 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
-48. [Awesome Electron](/content/sindresorhus/awesome-electron/README.md) - ([Source ⭐ 25K 📝 03&#x2F;29 ](https://github.com/sindresorhus/awesome-electron)) - Useful resources for creating apps with Electron
-49. [Awesome Yew](/content/jetli/awesome-yew/README.md) - ([Source ⭐ 1.4K 📝 04&#x2F;24 ](https://github.com/jetli/awesome-yew)) - 😎 A curated list of awesome things related to Yew / WebAssembly.
-50. [Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/README.md) - ([Source ⭐ 2.3K 📝 04&#x2F;19 ](https://github.com/marcobiedermann/search-engine-optimization)) - 🔍 A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
+46. [Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md) - ([Source ⭐ 1.8K 📝 04&#x2F;25 ](https://github.com/iipc/awesome-web-archiving)) - An Awesome List for getting started with web archiving
+47. [Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md) - ([Source ⭐ 4.1K 📝 04&#x2F;17 ](https://github.com/dustinspecker/awesome-eslint)) - A list of awesome ESLint plugins, configs, etc.
+48. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 17K 📝 04&#x2F;02 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
+49. [Awesome Electron](/content/sindresorhus/awesome-electron/README.md) - ([Source ⭐ 25K 📝 03&#x2F;29 ](https://github.com/sindresorhus/awesome-electron)) - Useful resources for creating apps with Electron
+50. [Awesome Yew](/content/jetli/awesome-yew/README.md) - ([Source ⭐ 1.4K 📝 04&#x2F;24 ](https://github.com/jetli/awesome-yew)) - 😎 A curated list of awesome things related to Yew / WebAssembly.
 
 ## All Tracked List
 
@@ -1331,7 +1342,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Video](/content/krzemienski/awesome-video/README.md) - ([Source ⭐ 1.4K, 📝 01&#x2F;23 ](https://github.com/krzemienski/awesome-video)) -  A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md) - ([Source ⭐ 134, 📝 16&#x2F;12&#x2F;11 ](https://github.com/vorpaljs/awesome-vorpal)) - A curated list of delightful Vorpal extensions.
 - [Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md) - ([Source ⭐ 3.1K, 📝 23&#x2F;08&#x2F;27 ](https://github.com/vinjn/awesome-vulkan)) - Awesome Vulkan ecosystem
-- [Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md) - ([Source ⭐ 1.7K, 📝 01&#x2F;19 ](https://github.com/iipc/awesome-web-archiving)) - An Awesome List for getting started with web archiving
+- [Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md) - ([Source ⭐ 1.8K, 📝 04&#x2F;25 ](https://github.com/iipc/awesome-web-archiving)) - An Awesome List for getting started with web archiving
 - [Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md) - ([Source ⭐ 2.1K, 📝 19&#x2F;06&#x2F;25 ](https://github.com/nicolesaidy/awesome-web-design)) - 🎨 A curated list of awesome resources for digital designers.
 - [Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md) - ([Source ⭐ 279, 📝 23&#x2F;09&#x2F;10 ](https://github.com/thomasbnt/awesome-web-monetization)) - 🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.
 - [Awesome Webxr](/content/msub2/awesome-webxr/README.md) - ([Source ⭐ 185, 📝 03&#x2F;05 ](https://github.com/msub2/awesome-webxr)) - All things WebXR.
