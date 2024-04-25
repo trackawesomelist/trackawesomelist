@@ -42,6 +42,20 @@
 *   [NativeScript](https://docs.nativescript.org) - NativeScript provides platform APIs directly to the JavaScript runtime (with strong types) for a rich TypeScript development experience.
 *   [Bit](https://bit.dev/docs/angular-introduction/) -  Leverage Bit to build composable software.
 
+### Generators / Testing
+
+*   Node.js
+    *   [teleport-code-generators (⭐953)](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications
+    *   [graphql-code-generator (⭐11k)](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
+    *   [nx](https://nx.dev/nx-api/angular) - The Nx Plugin for Angular contains executors, generators, and utilities for managing Angular applications and libraries within an Nx workspace. It also enables using Angular Devkit builders and schematics in Nx workspaces.
+    *   [workik](https://workik.com/angular-code-generator) - AI Angular code generator that supports all Angular frameworks and libraries.
+    *   [generator-jhipster-ionic (⭐186)](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
+    *   [angularx-qrcode (⭐444)](https://github.com/cordobo/angularx-qrcode) - A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library
+
+### Documentation tools / Testing
+
+*   [docgeni (⭐193)](https://github.com/docgeni/docgeni) - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
+
 ### State Management / Testing
 
 *   [ngx-signal-state (⭐50)](https://github.com/simplifiedcourses/ngx-signal-state) - Opinionated simple state management for Angular
@@ -62,6 +76,27 @@
 *   [superstruct (⭐6.8k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 *   [typebox (⭐4.2k)](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript.
 *   [zod (⭐30k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+
+### Security / Tailwind CSS Based
+
+*   [Socket](https://socket.dev/) - Socket is a developer-first security platform that protects your code from both vulnerable and malicious dependencies.
+*   [Synk](https://snyk.io/) - Snyk is a developer security platform that integrates directly into development tools, workflows, and automation pipelines.
+*   [Github](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning) - Code scanning is available for all public repositories on GitHub.com.  You can turn on secret scanning and use Code QL to secure your repos.
+*   [Github Skills](https://skills.github.com/) - Guided interactive tutorials for Code Security and analysis are available.
+
+### Deployment / Tailwind CSS Based
+
+*   [aws amplify](https://docs.amplify.aws/angular/)
+*   [Vercel](https://vercel.com/solutions/angular)
+*   [Firebase Hosting](https://firebase.google.com/docs/hosting) - [Angular Fire (⭐7.6k)](https://github.com/angular/angularfire) can help the process in deploying to Firebase Hosting.
+*   [Netlify](https://docs.netlify.com/frameworks/angular/) - Angular applications on Netlify can benefit from integrations such as automatic framework detection and built-in redirects functionality.
+*   [angular-cli-ghpages (⭐935)](https://github.com/angular-schule/angular-cli-ghpages) - SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages.
+
+### Updating / Tailwind CSS Based
+
+*   [angular update guide](https://update.angular.io/) - Interactive guide to help you migrate from one version of Angular to another.
+*   [ng update](https://angular.dev/cli/update) - Use the CLI to update your project or try new Angular features by adding the `--next` flag.
+*   [migrations](https://angular.dev/reference/migrations) - Angular offers schematics to help update your project for you. You can convert your project to standalone components, the new control flow syntax, and more by using one of the Angular built-in schematics.
 
 ## [Apr 23, 2024](/content/2024/04/23/README.md)
 
@@ -269,8 +304,8 @@
 ### Generators / Testing
 
 *   Spring Boot
-    *   [Bootify.io](https://bootify.io): Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality
-    *   [JHipster](https://www.jhipster.tech): Open source app generator for Spring Boot and Angular
+    *   [Bootify.io](https://bootify.io) - Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality
+    *   [JHipster](https://www.jhipster.tech) - Open source app generator for Spring Boot and Angular
 
 ### Developer tools / Testing
 
@@ -553,9 +588,9 @@
 
 ## [Nov 18, 2020](/content/2020/11/18/README.md)
 
-### Schematics / Testing
+### Site Templates / Testing
 
-*   [Threejs (⭐219)](https://github.com/JohnnyDevNull/ng-three-template): New three.js starter app
+*   [Threejs (⭐219)](https://github.com/JohnnyDevNull/ng-three-template) - New Three.js starter app
 
 ## [Nov 17, 2020](/content/2020/11/17/README.md)
 
@@ -737,15 +772,6 @@
 
 *   [Ionic Framework](https://ionicframework.com) - Official Website for Ionic Framework
 
-## [Sep 26, 2020](/content/2020/09/26/README.md)
-
-### Schematics / Testing
-
-*   [Cypress (⭐154)](https://github.com/briebug/cypress-schematic): Add Cypress to an Angular CLI application
-*   [Jest (⭐319)](https://github.com/briebug/jest-schematic): Configure Angular to execute unit tests with Jest instead of Karma + Jasmine
-*   [Prettier (⭐141)](https://github.com/schuchard/prettier-schematic): Add Prettier and a pre-commit hook for formatting staged files in an Angular application
-*   [Tailwind CSS](https://github.com/ngneat/tailwind): Add Tailwind CSS to an Angular application
-
 ## [Jul 24, 2020](/content/2020/07/24/README.md)
 
 ### Integrations / Testing
@@ -780,13 +806,6 @@
 ### Style Guides / Testing
 
 *   [Official Angular style guide](https://angular.io/guide/styleguide)
-
-## [Mar 22, 2019](/content/2019/03/22/README.md)
-
-### Generators / Testing
-
-*   Scaffold
-    *   [ScaffoldHub.io](https://scaffoldhub.io): Generate full Angular Material applications with MongoDB, SQL or Firebase Firestore databases.
 
 ## [Feb 10, 2019](/content/2019/02/10/README.md)
 
@@ -854,10 +873,6 @@
 
 *   [Angular Webpack Tour of Heroes from michaelbazos (⭐5)](https://github.com/michaelbazos/angular-starter) - Tour of Heroes official typescript tutorial built with webpack
 
-### Security / Tailwind CSS Based
-
-*   So you thought you were safe using AngularJS? Think again! [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017.
-
 ## [Feb 15, 2018](/content/2018/02/15/README.md)
 
 ### Experts on Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -908,7 +923,7 @@
 
 ### Security / Tailwind CSS Based
 
-*   [Angular.io Security Guide](https://angular.io/guide/security) - brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content security policy.
+*   [Angular.io Security Guide](https://angular.io/guide/security) - Brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content Security Policy.
 
 ## [Nov 20, 2017](/content/2017/11/20/README.md)
 
@@ -973,20 +988,6 @@
 ### Official Resources
 
 *   [Cheatsheet](https://angular.io/guide/cheatsheet)
-
-## [Jul 07, 2017](/content/2017/07/07/README.md)
-
-### Generators / Testing
-
-*   Node.js
-    *   Slush
-        *   [TheVelourFog/slush-angular2 (⭐44)](https://github.com/RyanMetin/slush-angular2)
-    *   Yeoman
-        *   [swirlycheetah/generator-angular2 (⭐254)](https://github.com/chrisdwheatley/generator-angular2)
-    *   ngX-Rocket: Extensible Angular 4+ enterprise-grade generator and tools
-        *   [ngx-rocket/generator-ngx-rocket (⭐1.5k)](https://github.com/ngx-rocket/generator-ngx-rocket)
-        *   [ngx-rocket/cli (⭐13)](https://github.com/ngx-rocket/cli)
-        *   [ngx-rocket/core (⭐8)](https://github.com/ngx-rocket/core)
 
 ## [Jul 06, 2017](/content/2017/07/06/README.md)
 

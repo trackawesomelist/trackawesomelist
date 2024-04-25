@@ -57,6 +57,12 @@ A curated list of awesome system integration software and resources.
 *   [StackStorm (⭐5.9k) (⭐5.9k)](https://github.com/StackStorm/st2) - A robust automation engine that provides sensors, triggers, rules, workflows, and actions to help you automate and orchestrate complex workflows and applications.
 *   [Temporal (⭐9.8k) (⭐9.8k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
 
+### Resources / Certifications
+
+*   [Apollo Graph Developer - Associate Certification](https://www.apollographql.com/tutorials/exams/apollo-graph-associate) - Developers who obtain this certification possess a solid foundational knowledge of GraphQL and the Apollo tool suite to design a schema, run an Apollo Server 4, and perform queries with Apollo Client 3 on the frontend.
+*   [Apollo Graph Developer - Professional Certification](https://www.apollographql.com/tutorials/certifications/apollo-graph-professional) - Developers who obtain this certification demonstrate strong familiarity with Apollo Federation concepts. They can apply those concepts to build a federated supergraph or move an existing monolithic graph to federation.
+*   [SAP Certified Associate - Integration Developer](https://learning.sap.com/certifications/sap-certified-associate-integration-developer) - Validates that the candidate possesses the fundamental and core knowledge required of the SAP Integration Suite profile.
+
 ### Resources / Data Formats
 
 *   [NDJSON (⭐634) (⭐634)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
@@ -379,10 +385,6 @@ A curated list of awesome system integration software and resources.
 ### Resources / Articles
 
 *   [API-Security-Checklist (⭐21k) (⭐22k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security.
-
-### Resources / Certifications
-
-*   [SAP Certified Development Associate - SAP Integration Suite](https://training.sap.com/certification/c_cpi_15-sap-certified-development-associate---sap-integration-suite-g/) - Validates that the candidate possesses the fundamental and core knowledge required of the SAP Integration Suite profile.
 
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 

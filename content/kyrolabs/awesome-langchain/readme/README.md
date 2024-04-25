@@ -21,7 +21,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Table of Contents
 
-*   [🦜🔗 Awesome LangChain ](#-awesome-langchain--)
+*   [🦜🔗 Awesome LangChain  ](#-awesome-langchain--)
     *   [Table of Contents](#table-of-contents)
     *   [LangChain Framework](#langchain-framework)
     *   [Ports to other languages](#ports-to-other-languages)
@@ -71,6 +71,7 @@ List of non-official ports of LangChain to other languages.
 
 *   [Flowise (⭐23k)](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
 *   [Langflow (⭐17k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
+*   [FlowTest (⭐103)](https://github.com/FlowTestAI/FlowTest): GenAI powered OpenSource IDE for API first workflows ![GitHub Repo stars](https://img.shields.io/github/stars/FlowTestAI/FlowTest?style=social)
 
 ### Services
 

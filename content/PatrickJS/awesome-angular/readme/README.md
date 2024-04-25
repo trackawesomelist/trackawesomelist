@@ -10,13 +10,15 @@
 
 <p align="center">
   <a href="https://patrickjs.com" target="_blank">
-    <img src="https://github.com/PatrickJS/awesome-angular/raw/gh-pages/media/awesome-angular.png" alt="Awesome Angular" />
+    <img src="https://github.com/PatrickJS/awesome-angular/raw/gh-pages/media/new/awesome-angular.png" alt="Awesome Angular" />
   </a>
 </p>
 
+> logo designed by [SAWARATSUKI (⭐2.1k)](https://github.com/SAWARATSUKI/ServiceLogos)
+
 # Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is the original Awesome list of the Angular2 framework, today known as just [Angular](https://angular.io/). This repository contains intriguing libraries and repos in the Angular ecosystem for both inexperienced and seasoned developers.
+This is the original Awesome list of the [Angular](https://angular.dev/) framework. This repository contains intriguing libraries and repos in the Angular ecosystem for both inexperienced and seasoned developers.
 
 ##### Current Angular version:
 
@@ -45,7 +47,6 @@ Table of contents:
     *   [Generators](#generators)
     *   [Documentation tools](#documentation-tools)
     *   [Developer tools](#developer-tools)
-    *   [Schematics](#schematics)
     *   [Angular Challenges](https://angular-challenges.vercel.app/)
 *   [Third Party Components](#third-party-components)
     *   [Animations](#animations)
@@ -72,6 +73,8 @@ Table of contents:
 *   [Security](#security)
 *   [Authentication](#authentication)
 *   [NgRx](#ngrx)
+*   [Deployment](#deployment)
+*   [Updating](#updating)
 
 ### Angular
 
@@ -354,29 +357,27 @@ Table of contents:
 *   [angular-nest (⭐14)](https://github.com/mugifly/angular-nest) - Simple web app template with Angular v17 + NestJS v9 + ng-openapi-gen.
 *   [gradient-able-free-admin-template (⭐11)](https://github.com/codedthemes/gradient-able-free-admin-template) - Gradient able free bootstrap, angular, react admin template
 *   [angular-ngrx-frontend (⭐10)](https://github.com/tarlepp/angular-ngrx-frontend) - Angular NgRx powered frontend template for Symfony (or similar) backend.
+*   [Threejs (⭐219)](https://github.com/JohnnyDevNull/ng-three-template) - New Three.js starter app
 
 #### Generators
 
 *   Node.js
-    *   Slush
-        *   [TheVelourFog/slush-angular2 (⭐44)](https://github.com/RyanMetin/slush-angular2)
-    *   Yeoman
-        *   [swirlycheetah/generator-angular2 (⭐254)](https://github.com/chrisdwheatley/generator-angular2)
-    *   ngX-Rocket: Extensible Angular 4+ enterprise-grade generator and tools
-        *   [ngx-rocket/generator-ngx-rocket (⭐1.5k)](https://github.com/ngx-rocket/generator-ngx-rocket)
-        *   [ngx-rocket/cli (⭐13)](https://github.com/ngx-rocket/cli)
-        *   [ngx-rocket/core (⭐8)](https://github.com/ngx-rocket/core)
-*   Scaffold
-    *   [ScaffoldHub.io](https://scaffoldhub.io): Generate full Angular Material applications with MongoDB, SQL or Firebase Firestore databases.
+    *   [teleport-code-generators (⭐953)](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications
+    *   [graphql-code-generator (⭐11k)](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
+    *   [nx](https://nx.dev/nx-api/angular) - The Nx Plugin for Angular contains executors, generators, and utilities for managing Angular applications and libraries within an Nx workspace. It also enables using Angular Devkit builders and schematics in Nx workspaces.
+    *   [workik](https://workik.com/angular-code-generator) - AI Angular code generator that supports all Angular frameworks and libraries.
+    *   [generator-jhipster-ionic (⭐186)](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
+    *   [angularx-qrcode (⭐444)](https://github.com/cordobo/angularx-qrcode) - A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library
 *   Spring Boot
-    *   [Bootify.io](https://bootify.io): Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality
-    *   [JHipster](https://www.jhipster.tech): Open source app generator for Spring Boot and Angular
+    *   [Bootify.io](https://bootify.io) - Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality
+    *   [JHipster](https://www.jhipster.tech) - Open source app generator for Spring Boot and Angular
 
 #### Documentation tools
 
 *   [Storybook (⭐83k)](https://github.com/storybooks/storybook)-  The UI development environment you'll love to use
 *   [Compodoc (⭐3.9k)](https://github.com/compodoc/compodoc) - The missing documentation tool for your Angular application
 *   [ng-doc (⭐166)](https://github.com/ng-doc/ng-doc) - The documentation engine for Angular projects
+*   [docgeni (⭐193)](https://github.com/docgeni/docgeni) - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
 
 #### Developer tools
 
@@ -389,14 +390,6 @@ Table of contents:
 *   [Ionic VS Code Extension](https://ionicframework.com/docs/intro/vscode-extension) - Perform various functions that are common to developing an Ionic app, all without leaving your VS Code window.
 *   [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics) - Ultimate code generation in Visual Studio Code.
 *   [Angular 17 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode) - 258 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, NgRx, RxJS, PWA & Testing)
-
-#### Schematics
-
-*   [Cypress (⭐154)](https://github.com/briebug/cypress-schematic): Add Cypress to an Angular CLI application
-*   [Jest (⭐319)](https://github.com/briebug/jest-schematic): Configure Angular to execute unit tests with Jest instead of Karma + Jasmine
-*   [Prettier (⭐141)](https://github.com/schuchard/prettier-schematic): Add Prettier and a pre-commit hook for formatting staged files in an Angular application
-*   [Tailwind CSS](https://github.com/ngneat/tailwind): Add Tailwind CSS to an Angular application
-*   [Threejs (⭐219)](https://github.com/JohnnyDevNull/ng-three-template): New three.js starter app
 
 ***
 
@@ -659,8 +652,11 @@ Table of contents:
 
 #### Security
 
-*   [Angular.io Security Guide](https://angular.io/guide/security) - brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content security policy.
-*   So you thought you were safe using AngularJS? Think again! [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017.
+*   [Angular.io Security Guide](https://angular.io/guide/security) - Brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content Security Policy.
+*   [Socket](https://socket.dev/) - Socket is a developer-first security platform that protects your code from both vulnerable and malicious dependencies.
+*   [Synk](https://snyk.io/) - Snyk is a developer security platform that integrates directly into development tools, workflows, and automation pipelines.
+*   [Github](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning) - Code scanning is available for all public repositories on GitHub.com.  You can turn on secret scanning and use Code QL to secure your repos.
+*   [Github Skills](https://skills.github.com/) - Guided interactive tutorials for Code Security and analysis are available.
 
 #### Authentication
 
@@ -686,9 +682,23 @@ Table of contents:
 *   [Tim Deschryver Blog](https://timdeschryver.dev/blog?q=NgRx) - Excellent NgRx articles from a core maintainer.
 *   [angular-ngrx-nx-realworld-example-app (⭐821)](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, nrwl/nx 17
 
+#### Deployment
+
+*   [aws amplify](https://docs.amplify.aws/angular/)
+*   [Vercel](https://vercel.com/solutions/angular)
+*   [Firebase Hosting](https://firebase.google.com/docs/hosting) - [Angular Fire (⭐7.6k)](https://github.com/angular/angularfire) can help the process in deploying to Firebase Hosting.
+*   [Netlify](https://docs.netlify.com/frameworks/angular/) - Angular applications on Netlify can benefit from integrations such as automatic framework detection and built-in redirects functionality.
+*   [angular-cli-ghpages (⭐935)](https://github.com/angular-schule/angular-cli-ghpages) - SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages.
+
+#### Updating
+
+*   [angular update guide](https://update.angular.io/) - Interactive guide to help you migrate from one version of Angular to another.
+*   [ng update](https://angular.dev/cli/update) - Use the CLI to update your project or try new Angular features by adding the `--next` flag.
+*   [migrations](https://angular.dev/reference/migrations) - Angular offers schematics to help update your project for you. You can convert your project to standalone components, the new control flow syntax, and more by using one of the Angular built-in schematics.
+
 ***
 
-enjoy — [**PatrickJS**](https://twitter.com/PatrickJS__)
+enjoy — [**PatrickJS**](https://twitter.com/PatrickJS__) and [**jdegand**](https://github.com/jdegand)
 
 ***
 

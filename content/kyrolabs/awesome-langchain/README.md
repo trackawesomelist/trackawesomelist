@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Apr 24, 2024](/content/2024/04/24/README.md)
+
+### Tools / Low-code
+
+*   [FlowTest (⭐103)](https://github.com/FlowTestAI/FlowTest): GenAI powered OpenSource IDE for API first workflows ![GitHub Repo stars](https://img.shields.io/github/stars/FlowTestAI/FlowTest?style=social)
+
 ## [Apr 21, 2024](/content/2024/04/21/README.md)
 
 ### Other LLM Frameworks / Videos Playlists

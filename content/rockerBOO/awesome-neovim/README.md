@@ -6,6 +6,18 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Apr 25, 2024](/content/2024/04/25/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [jim-at-jibba/ariake.nvim (⭐1)](https://github.com/jim-at-jibba/ariake.nvim) - A port of the great Atom theme. Beautiful, dark colour scheme.
+
+## [Apr 24, 2024](/content/2024/04/24/README.md)
+
+### Programming Languages Support / Diagnostics
+
+*   [jim-at-jibba/micropython.nvim (⭐1)](https://github.com/jim-at-jibba/micropython.nvim) - Enhances the development experience for developers using Micro-python for IoT and maker projects.
+
 ## [Apr 22, 2024](/content/2024/04/22/README.md)
 
 ### Statusline / Diagnostics
@@ -525,9 +537,9 @@ Collections of awesome neovim plugins.
 
 *   [jmbuhr/otter.nvim (⭐350)](https://github.com/jmbuhr/otter.nvim) - Provides LSP features and a nvim-cmp completion source for languages embedded in other documents.
 
-### Completion / Diagnostics
+### AI / Diagnostics
 
-*   [Exafunction/codeium.nvim (⭐536)](https://github.com/Exafunction/codeium.nvim) - Free, ultrafast Copilot alternative.
+*   [Exafunction/codeium.nvim (⭐536)](https://github.com/Exafunction/codeium.nvim) - Free, ultrafast Copilot alternative. Supports LSP and Tree-sitter.
 
 ### Programming Languages Support / Diagnostics
 
@@ -2583,7 +2595,6 @@ Collections of awesome neovim plugins.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [jim-at-jibba/ariake-vim-colors (⭐31)](https://github.com/jim-at-jibba/ariake-vim-colors) - A port of the great Atom theme. Dark and light with Tree-sitter support.
 *   [Th3Whit3Wolf/onebuddy (⭐98)](https://github.com/Th3Whit3Wolf/onebuddy) - Light and dark atom one theme.
 *   [ofirgall/ofirkai.nvim (⭐109)](https://github.com/ofirgall/ofirkai.nvim) - Monokai theme that aims to feel like Sublime Text.
 

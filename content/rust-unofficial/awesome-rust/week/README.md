@@ -20,9 +20,20 @@ A curated list of Rust code and resources.
 
 *   [vamolessa/pepper](https://git.sr.ht/~lessa/pepper) \[[pepper](https://crates.io/crates/pepper)] — An opinionated modal editor to simplify code editing from the terminal
 
+### Libraries / Computation
+
+*   Science
+    *   [cpmech/russell (⭐67)](https://github.com/cpmech/russell) — Rust Scientific Library (Russell) for numerical mathematics, differential equations, special math functions, high-performance linear algebra (sparse), and more
+    *   [indigits/scirust (⭐262)](https://github.com/indigits/scirust) — Scientific computing library
+
 ### Libraries / Markup language
 
 *   [insomnimus/tidier (⭐1)](https://github.com/insomnimus/tidier) \[[tidier](https://crates.io/crates/tidier)] - A library to format HTML, XHTML and XML documents. [![build badge](https://github.com/insomnimus/tidier/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/insomnimus/tidier/actions)
+
+### Libraries / Mobile
+
+*   Android / iOS
+    *   [ivnsch/rust\_android\_ios (⭐233)](https://github.com/ivnsch/rust_android_ios) — An example of using a shared lib for Android and iOS using rust-swig and cbindgen respectively.
 
 ### Libraries / Text search
 
@@ -43,7 +54,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [kftray (⭐384)](https://github.com/hcavarsan/kftray) - A cross-platform system tray app for managing and sharing multiple kubectl port-forward configurations. [![Build Status](https://github.com/hcavarsan/kftray/workflows/Release/badge.svg)](https://github.com/hcavarsan/kftray/actions)
+*   [kftray (⭐408)](https://github.com/hcavarsan/kftray) - A cross-platform system tray app for managing and sharing multiple kubectl port-forward configurations. [![Build Status](https://github.com/hcavarsan/kftray/workflows/Release/badge.svg)](https://github.com/hcavarsan/kftray/actions)
 
 ### Libraries / Data visualization
 
@@ -60,7 +71,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Blockchain
 
-*   [Hyperlane (⭐172)](https://github.com/hyperlane-xyz/hyperlane-monorepo).
+*   [Hyperlane (⭐195)](https://github.com/hyperlane-xyz/hyperlane-monorepo).
     Framework for permissionless, modular interoperability. The offchain clients are written in Rust, as well as the smart contracts for Solana VM and CosmWasm.
 
 ### Applications / Emulators
@@ -75,7 +86,7 @@ A curated list of Rust code and resources.
 ### Development tools / Web Servers
 
 *   [fzf-make (⭐51)](https://github.com/kyu08/fzf-make) \[[fzf-make](https://crates.io/crates/fzf-make)] — A command line tool that executes make target using fuzzy finder with preview window. [![crates.io](https://img.shields.io/crates/v/fzf-make?style=flatflat-square)](https://crates.io/crates/fzf-make)
-*   [typos (⭐2k)](https://github.com/crate-ci/typos) \[[typos-cli](https://crates.io/crates/typos-cli)] — Source code spell checker
+*   [typos (⭐2.1k)](https://github.com/crate-ci/typos) \[[typos-cli](https://crates.io/crates/typos-cli)] — Source code spell checker
 
 ## [Mar 18 - Mar 24, 2024](/content/2024/12/README.md)
 
@@ -148,7 +159,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Text processing
 
-*   [ashvardanian/stringzilla (⭐1.7k)](https://github.com/ashvardanian/StringZilla) - SIMD-accelerated string search, sort, edit distances, alignments, and generators for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/stringzilla.svg)](https://crates.io/crates/stringzilla)
+*   [ashvardanian/stringzilla (⭐1.8k)](https://github.com/ashvardanian/StringZilla) - SIMD-accelerated string search, sort, edit distances, alignments, and generators for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/stringzilla.svg)](https://crates.io/crates/stringzilla)
 
 ### Libraries / Data processing
 
@@ -156,7 +167,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Data structures
 
-*   [ashvardanian/simsimd (⭐702)](https://github.com/ashvardanian/SimSIMD) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
+*   [ashvardanian/simsimd (⭐712)](https://github.com/ashvardanian/SimSIMD) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
 
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
@@ -166,7 +177,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Web Servers
 
-*   [envio-cli/envio (⭐733)](https://github.com/envio-cli/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/envio-cli/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/envio-cli/envio/actions/workflows/CICD.yml)
+*   [envio-cli/envio (⭐737)](https://github.com/envio-cli/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/envio-cli/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/envio-cli/envio/actions/workflows/CICD.yml)
 
 ### Libraries / Markup language
 
@@ -221,11 +232,6 @@ A curated list of Rust code and resources.
 ### Applications / Security tools
 
 *   [arp-scan-rs (⭐72)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
-
-### Libraries / Mobile
-
-*   Android / iOS
-    *   [owlmafia/rust\_android\_ios (⭐230)](https://github.com/owlmafia/rust_android_ios) — An example of using a shared lib for Android and iOS using rust-swig and cbindgen respectively.
 
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 
@@ -479,7 +485,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / eBPF
 
-*   [aya/aya-rs (⭐2.6k)](https://github.com/aya-rs/aya) — Built with a focus on developer experience and operability.
+*   [aya/aya-rs (⭐2.7k)](https://github.com/aya-rs/aya) — Built with a focus on developer experience and operability.
 *   [libbpf/libbpf-rs (⭐631)](https://github.com/libbpf/libbpf-rs) — A minimal and opinionated eBPF tooling.
 
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
@@ -975,7 +981,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / GUI
 
-*   [xilem (⭐2.7k)](https://github.com/linebender/xilem) — Successor of the data-first UI design toolkit [druid (⭐9.3k)](https://github.com/linebender/druid).
+*   [xilem (⭐2.7k)](https://github.com/linebender/xilem) — Successor of the data-first UI design toolkit [druid (⭐9.4k)](https://github.com/linebender/druid).
 
 ### Libraries / Platform specific
 
@@ -1024,7 +1030,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [Sniffnet (⭐13k)](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
+*   [Sniffnet (⭐14k)](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
@@ -1064,7 +1070,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Web Servers
 
-*   [static-web-server (⭐1.1k)](https://github.com/static-web-server/static-web-server) — A blazing fast and asynchronous web server for static files-serving. ⚡ [![CI](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml/badge.svg)](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml?query=branch%3Amaster)
+*   [static-web-server (⭐1.2k)](https://github.com/static-web-server/static-web-server) — A blazing fast and asynchronous web server for static files-serving. ⚡ [![CI](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml/badge.svg)](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml?query=branch%3Amaster)
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 
@@ -1566,7 +1572,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / GUI
 
-*   [emilk/egui (⭐19k)](https://github.com/emilk/egui) - Simple, fast, and highly portable immediate mode GUI library. egui runs on the web, natively, and in your favorite game engine. [![Build Status](https://github.com/emilk/egui/workflows/CI/badge.svg)](https://github.com/emilk/egui/actions?workflow=CI)
+*   [emilk/egui (⭐20k)](https://github.com/emilk/egui) - Simple, fast, and highly portable immediate mode GUI library. egui runs on the web, natively, and in your favorite game engine. [![Build Status](https://github.com/emilk/egui/workflows/CI/badge.svg)](https://github.com/emilk/egui/actions?workflow=CI)
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
 
@@ -3001,7 +3007,7 @@ A curated list of Rust code and resources.
 ### Development tools / IDEs
 
 *   [Kakoune](http://kakoune.org/)
-    *   [kakoune-lsp (⭐574)](https://github.com/kakoune-lsp/kakoune-lsp/) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
+    *   [kakoune-lsp (⭐573)](https://github.com/kakoune-lsp/kakoune-lsp/) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
 
 ## [Sep 21 - Sep 27, 2020](/content/2020/38/README.md)
 
@@ -3628,11 +3634,6 @@ A curated list of Rust code and resources.
 ### Libraries / Authentication
 
 *   [Keats/jsonwebtoken (⭐1.5k)](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) library
-
-### Libraries / Computation
-
-*   Scirust
-    *   [indigits/scirust (⭐262)](https://github.com/indigits/scirust) — scientific computing library
 
 ### Libraries / Logging
 
