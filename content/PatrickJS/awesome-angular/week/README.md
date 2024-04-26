@@ -11,6 +11,8 @@
 ### Community
 
 *   [Top rated Angular stackoverflow questions Dashboard](https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
+*   [angular-logos (⭐77)](https://github.com/maartentibau/angular-logos) - Repo is dedicated to collecting all the different kinds of Angular badges and logos.
+*   [madewithangular (⭐79)](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.
 
 ### Angular Team on Twitter
 
@@ -36,6 +38,7 @@
 *   [modern-angular](https://modernangular.com/) - Josh Morony's website is a collection of content centered around creating modern Angular applications using the latest Angular features and concepts.
 *   [angularexperts](https://angularexperts.io/blog) - Learn all about Angular, NgRx, RxJs & NX and advance your skills with guides, in-depth content and actionable tips and tricks!
 *   [angular-university](https://blog.angular-university.io/) - Learn and Keep Up with the Angular Ecosystem
+*   [simplified courses](https://blog.simplified.courses/) - Blog articles written with love, just for you!
 *   [justangular](https://justangular.com/) - Shares the newest and most important updates about Angular, along with useful tips and tricks.
 *   [Netanel Basal](https://medium.com/@netbasal)
 *   [Tim Deschryver](https://timdeschryver.dev/)
@@ -77,22 +80,40 @@
 *   [YouTube](https://www.youtube.com/watch?v=emnwsVy8wRs) - Angular Unit Testing Made Easy
 *   [Tim Deschryver Blog](https://timdeschryver.dev/blog/testing-an-ngrx-project) - Testing an NgRx project
 
+### Builders / Testing
+
+*   [Webpack](https://webpack.js.org)
+*   [ESBuild](https://esbuild.github.io/)
+*   [Nx (⭐22k)](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
+*   [Angular Builders (⭐1.1k)](https://github.com/just-jeb/angular-builders) - This repo consolidates all the community builders (ES Build, Webpack, Jest, Bazel, and Timestamp) for the Angular build facade.
+*   [Jest Builder (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/jest) - Jest builder for Angular build facade
+*   [Custom Webpack (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack) - custom webpack
+*   [Custom ESBuild (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-esbuild) - Allows custom esbuild configuration.
+*   [Bazel (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/bazel) - Provides an Angular CLI Builder, which can execute Bazel when triggered by ng build, ng test, etc.
+*   [Timestamp (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/timestamp) - This is explained in this [article](https://medium.com/angular-in-depth/angular-cli-under-the-hood-builders-demystified-v2-e73ee0f2d811).
+*   [ngx-build-plus (⭐1.2k)](https://github.com/manfredsteyer/ngx-build-plus) - Extend the Angular CLI's default build behavior without ejecting, e. g. for Angular Elements.
+*   [ng-process-env (⭐18)](https://github.com/danduh/ng-process-env) - Angular schematics and builder to retrieve values from System Environment (OS) variables and update relevant `environment.ts` file.
+*   [ngx-electronify (⭐97)](https://github.com/bampakoa/ngx-electronify) - Angular CLI builder that runs your application in the desktop using Electron.
+*   [dotenv-run (⭐224)](https://github.com/chihab/dotenv-run) - Seamlessly load environment variables. Supports cli, esbuild, rollup, vite, webpack, angular, ESM and Monorepos.
+*   [ng-packagr (⭐1.8k)](https://github.com/ng-packagr/ng-packagr) - Compile and package Angular libraries in Angular Package Format (APF).
+
 ### YouTube Channels / Testing
 
-*   [YouTube](https://www.youtube.com/@procademy) - Procademy
-*   [YouTube](https://www.youtube.com/@MonsterlessonsAcademy) - Monsterlessons Academy
-*   [YouTube](https://www.youtube.com/@JoshuaMorony) - Joshua Morony
-*   [YouTube](https://www.youtube.com/@NihiraTechiees) - Nihira Techiees
-*   [YouTube](https://www.youtube.com/@AngularUniversity) - Angular University
-*   [YouTube](https://www.youtube.com/@RainerHahnekamp) - Rainer Hahnekamp
-*   [YouTube](https://www.youtube.com/@CodeShotsWithProfanis) - Code Shots With Profanis
-*   [YouTube](https://www.youtube.com/@deborah_kurata) - Deborah Kurata
-*   [YouTube](https://www.youtube.com/@BrandonRobertsDev) - BrandonRobertsDev
-*   [YouTube](https://www.youtube.com/@DecodedFrontend) - Decoded Frontend
-*   [YouTube](https://www.youtube.com/@galaxies_dev) - Galaxies\_dev
+*   [Procademy](https://www.youtube.com/@procademy)
+*   [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy)
+*   [Joshua Morony](https://www.youtube.com/@JoshuaMorony)
+*   [Nihira Techiees](https://www.youtube.com/@NihiraTechiees)
+*   [Angular University](https://www.youtube.com/@AngularUniversity)
+*   [Rainer Hahnekamp](https://www.youtube.com/@RainerHahnekamp)
+*   [Code Shots With Profanis](https://www.youtube.com/@CodeShotsWithProfanis)
+*   [Deborah Kurata](https://www.youtube.com/@deborah_kurata)
+*   [BrandonRobertsDev](https://www.youtube.com/@BrandonRobertsDev)
+*   [Decoded Frontend](https://www.youtube.com/@DecodedFrontend)
+*   [Galaxies\_dev](https://www.youtube.com/@galaxies_dev)
 
 ### Online Training / Testing
 
+*   [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
 *   [Angular Start](https://angularstart.com/) - Learn to build professional-grade Angular v17 applications using new features with modern best practices
 *   [Angular Training](https://www.angulartraining.com/) - The Angular Coach
     You Need
@@ -282,6 +303,14 @@
 *   [ng2-pdfjs-viewer (⭐220)](https://github.com/intbot/ng2-pdfjs-viewer) - An Angular component for PDFJS and ViewerJS (Supports all versions of Angular).
 *   [ngx-json-viewer (⭐171)](https://github.com/hivivo/ngx-json-viewer) - JSON formatter and viewer in HTML for Angular.
 
+### RxJS / Tailwind CSS Based
+
+*   [rxjs](https://rxjs.dev/) - Reactive Extensions Library for JavaScript
+*   [learn-rxjs (⭐3.6k)](https://github.com/btroncone/learn-rxjs) - Clear examples, explanations, and resources for RxJS
+*   [rxjs-course (⭐370)](https://github.com/angular-university/rxjs-course) - RxJs course from Angular University
+*   [redux-observable (⭐7.8k)](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".
+*   [rxjs-challenge (⭐559)](https://github.com/AngularWave/rxjs-challenge) - A set of little RxJS puzzles to practice your Observable skills.
+
 ### TypeScript / Tailwind CSS Based
 
 *   [typehero (⭐5.2k)](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers.
@@ -290,7 +319,7 @@
 *   [Sheriff (⭐143)](https://github.com/softarc-consulting/sheriff) - Lightweight Modularity for TypeScript Projects
 *   [Total Typescript Book (⭐1.5k)](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book.
 *   [ts-essentials (⭐3.6k)](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place
-*   [trpc (⭐32k)](https://github.com/trpc/trpc) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+*   [trpc (⭐33k)](https://github.com/trpc/trpc) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 *   [quicktype (⭐11k)](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL.
 *   [ts-pattern (⭐11k)](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 *   [ngx-mf (⭐33)](https://github.com/iamguid/ngx-mf) - Bind your model types to angular FormGroup type
@@ -356,10 +385,6 @@
 ### Cheatsheet / Testing
 
 *   [Angular Testing Library](https://testing-library.com/docs/angular-testing-library/intro/) - Angular Testing Library builds on top of DOM Testing Library by adding APIs for working with Angular components.
-
-### Webpack / Testing
-
-*   [Angular Builders (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack) - custom webpack
 
 ### Charts / Testing
 
@@ -818,12 +843,6 @@
 
 *   [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
 
-## [Feb 26 - Mar 04, 2018](/content/2018/9/README.md)
-
-### Webpack / Testing
-
-*   [Angular Webpack Tour of Heroes from michaelbazos (⭐5)](https://github.com/michaelbazos/angular-starter) - Tour of Heroes official typescript tutorial built with webpack
-
 ## [Feb 12 - Feb 18, 2018](/content/2018/7/README.md)
 
 ### Experts on Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -862,11 +881,6 @@
 ### Experts on Twitter / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [**{{** add\_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
-
-### Webpack / Testing
-
-*   [Official web page](https://webpack.js.org)
-*   [Angular Webpack Starter from PatrickJS (⭐10k)](https://github.com/gdi2290/angular-starter)
 
 ### Books / Testing
 
@@ -945,21 +959,6 @@
 ### Books / Testing
 
 *   [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) `Manning Publications`
-
-## [May 15 - May 21, 2017](/content/2017/20/README.md)
-
-### Webpack / Testing
-
-*   [Angular Webpack from preboot (⭐1.3k)](https://github.com/preboot/angular-webpack)
-
-## [May 01 - May 07, 2017](/content/2017/18/README.md)
-
-### Webpack / Testing
-
-*   [Angular Nightly Webpack Starter (⭐888)](https://github.com/qdouble/angular-webpack2-starter)
-*   [Angular Webpack with Visual Studio ASP.NET Core from Damien Bowden (⭐487)](https://github.com/damienbod/AngularWebpackVisualStudio)
-*   [Angular Typescript Webpack from schempy (⭐67)](https://github.com/schempy/angular2-typescript-webpack)
-*   [Angular Webpack + rxjs + modules (⭐5)](https://github.com/jorgeas80/angular2-webpack-toh)
 
 ## [Apr 03 - Apr 09, 2017](/content/2017/14/README.md)
 
@@ -1076,14 +1075,13 @@
 
 ### Official Resources
 
-*   [GitHub Repo (⭐94k)](https://github.com/angular/angular)
+*   [GitHub Repo (⭐95k)](https://github.com/angular/angular)
 
 ## [Sep 28 - Oct 04, 2015](/content/2015/39/README.md)
 
 ### Community
 
 *   [Gitter Channel](https://gitter.im/angular/angular)
-*   [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
 
 ### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

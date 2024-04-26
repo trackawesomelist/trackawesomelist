@@ -8,6 +8,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
 
+### Web Hosting
+
+*   [Fern](https://buildwithfern.com) - Build and host a Markdown-based documentation site on Fern's free plan. You can even auto-generate an API reference for your site from API definition files. The site is hosted at *yoursite*.docs.buildwithfern.com.
+
 ### Crash and Exception Handling
 
 *   [Jam](https://jam.dev) - Developer friendly bug reports in one click. Free plan with unlimited jams.
@@ -15,6 +19,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Education and Career Development
 
 *   [Free Professional Resume Templates & Editor](https://www.overleaf.com/latex/templates/tagged/cv) - Free platform with lots of Resume templates of Experienced Professionals, ready to clone and edit fully and download, ATS optimized.
+
+### Storage and Media Processing
+
+*   [ImageEngine](https://imageengine.io/) – ImageEngine is an easy to use global image CDN. Sub 60 sec setup. AVIF and JPEGXL support, WordPress-, Magento-, React-, Vue- plugins and more. Claim your free developer account [here](https://imageengine.io/developer-program/).
 
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
@@ -1312,7 +1320,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Authress](https://authress.io/) — Authentication login and access control, unlimited identity providers for any project. Facebook, Google, Twitter and more. The first 1000 API calls are free.
 *   [Authy](https://authy.com) - Two-factor authentication (2FA) on multiple devices, with backups. Drop-in replacement for Google Authenticator. Free for up to 100 successful authentications.
 *   [duo.com](https://duo.com/) — Two-factor authentication (2FA) for website or app. Free for ten users, all authentication methods, unlimited, integrations, hardware tokens.
-*   [Jumpcloud](https://jumpcloud.com/) — Provides directory as a service similar to Azure AD, user management, single sign-on, and RADIUS authentication. Free for up to 10 users.
 *   [logintc.com](https://www.logintc.com/) — Two-factor authentication (2FA) by push notifications, free for ten users, VPN, Websites, and SSH
 *   [MojoAuth](https://mojoauth.com/) - MojoAuth makes it easy to implement Passwordless authentication on your web, mobile, or any application in minutes.
 *   [onelogin.com](https://www.onelogin.com/) — Identity as a Service (IDaaS), Single Sign-On Identity Provider, Cloud SSO IdP, three company apps, and five personal apps, unlimited users
@@ -4429,10 +4436,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Issue Tracking and Project Management
 
 *   [kanbantool.com](https://kanbantool.com/) — Kanban board-based project management. The free plan has two boards and two users, without attachments or files.
-
-### Design and UI
-
-*   [Invision App](https://www.invisionapp.com) - UI design and prototyping tool. Desktop and web apps are available. Free to use with one active prototype.
 
 ### Visitor Session Recording
 

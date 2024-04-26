@@ -1,30 +1,36 @@
 # Awesome List Updates on Apr 22 - Apr 28, 2024
 
-36 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [1. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+
+### Websites
+
+*   [CodeChef](https://www.codechef.com/roadmap/algorithms) - Learning DSA by practice on Codechef
+
+## [2. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Web / Messaging
 
 *   [ws-zig/ws-server (⭐6)](https://github.com/ws-zig/ws-server) - A WebSocket server implementation.
 
-## [2. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [3. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 
 *   [daisyUI](https://daisyui.com/) - The most popular component library for Tailwind CSS - `daisyUI` adds component class names to Tailwind CSS so you can make beautiful websites faster than ever.
 
-## [3. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+## [4. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
 ### Web server Modules / Meetups
 
 *   [imteekay/web-performance-research (⭐711)](https://github.com/imteekay/web-performance-research) - Research in Web Performance
 
-## [4. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [5. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Replay
 
@@ -35,7 +41,7 @@
 
 *   [Browsertrix](https://browsertrix.com/) - From [Webrecorder](https://webrecorder.net/), source available at [https://github.com/webrecorder/browsertrix (⭐120)](https://github.com/webrecorder/browsertrix).
 
-## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Embeddings and Semantic Search / Prompt Engineering for Text-to-image
 
@@ -45,43 +51,43 @@
 
 *   [Teaching AI to Teach Us: A New Era of Personalized Education](https://twitter.com/IntuitMachine/status/1783079852578377788)
 
-## [6. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [7. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Low-code
 
 *   [FlowTest (⭐103)](https://github.com/FlowTestAI/FlowTest): GenAI powered OpenSource IDE for API first workflows ![GitHub Repo stars](https://img.shields.io/github/stars/FlowTestAI/FlowTest?style=social)
 
-## [7. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [8. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
 *   [demo\_web\_zip\_wasm (⭐3)](https://github.com/MAE664128/demo_web_zip_wasm) - A simple example program for creating ZIP archives running in the browser using WebAssembly, [Live Demo](https://mae664128.github.io/demo_web_zip_wasm/).
 
-## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Advent of Computing](https://adventofcomputing.com/) - A podcast about the shocking, intriguing, and all too often relevant history of computing.
 
-## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Productivity / Note Taking and Lists
 
 *   [geeknote (⭐0)](https://github.com/vitaly-zdanevich/geeknote) - Evernote client.
 
-## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [miniconf](https://crates.io/crates/miniconf): Lookup/enumerate/serialize/deserialize nodes in trees of heterogeneous structs/arrays by path/key - ![crates.io](https://img.shields.io/crates/v/miniconf.svg)
 
-## [11. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [12. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Networking
 
 *   [fwdctl (⭐43)](https://github.com/alegrey91/fwdctl) - A simple and intuitive CLI to manage IPTables forwards in your Linux server.
 
-## [12. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [13. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -147,7 +153,7 @@
 
 *   [JSON Schema (⭐3.2k) (⭐3.2k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [13. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [14. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Global Connectivity Indexes
 
@@ -175,13 +181,13 @@
 *   [M-Lab Global Network Diagnostic Tool](https://datastudio.google.com/s/r6ZnlTmHfwE) - M-Lab is an open, verifiable measurement platform for global network performance.
 *   [USAID Digital Ecosystem Country Assessments](https://www.usaid.gov/digital-strategy/implementation-tracks/track1-adopt-ecosystem/digital-ecosystem-country-assessments) - [Ghana 2024](https://www.usaid.gov/sites/default/files/2024-03/USAID_DECA_Ghana.pdf) [Tanzania 2023](https://www.usaid.gov/sites/default/files/2023-05/Tanzania%20DECA%20Report.pdf) [Mali 2023](https://www.usaid.gov/sites/default/files/2023-05/Mali%20DECA_English.pdf) [Zambia 2022](https://www.usaid.gov/sites/default/files/2022-12/USAID_Zambia_DECA.pdf) [Bangladesh 2023](https://www.usaid.gov/sites/default/files/2023-06/USAID_Bangladesh_DECA_1.pdf) [Nepal 2022](https://www.usaid.gov/sites/default/files/2022-05/USAID_Nepal_Digital_Ecosystem_Country_Assessment_FINAL.pdf) [Libya 2022](https://www.usaid.gov/sites/default/files/2022-12/USAID_Libya_DECA.pdf) See website for others.
 
-## [14. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [15. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Adapters / Server-side
 
 *   [FastAPI (⭐3)](https://github.com/hxjo/fastapi-inertia)
 
-## [15. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [16. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Patterns
 
@@ -199,13 +205,17 @@
 
 *   [SegmentIO (⭐2.5k)](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented menu for iOS.
 
-## [16. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [17. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
 *   [Phosphor Icons](https://github.com/phosphor-icons) - Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.
 
-## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Web Hosting
+
+*   [Fern](https://buildwithfern.com) - Build and host a Markdown-based documentation site on Fern's free plan. You can even auto-generate an API reference for your site from API definition files. The site is hosted at *yoursite*.docs.buildwithfern.com.
 
 ### Crash and Exception Handling
 
@@ -215,19 +225,23 @@
 
 *   [Free Professional Resume Templates & Editor](https://www.overleaf.com/latex/templates/tagged/cv) - Free platform with lots of Resume templates of Experienced Professionals, ready to clone and edit fully and download, ATS optimized.
 
-## [18. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+### Storage and Media Processing
+
+*   [ImageEngine](https://imageengine.io/) – ImageEngine is an easy to use global image CDN. Sub 60 sec setup. AVIF and JPEGXL support, WordPress-, Magento-, React-, Vue- plugins and more. Claim your free developer account [here](https://imageengine.io/developer-program/).
+
+## [19. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Browser Games
 
 *   [Mancala Classic](https://www.crazygames.com/game/mancala-classic) - Strategic board game.
 
-## [19. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [20. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   🔼🌍 [ska-tailwind-editor](https://sinukoduleheabi.ee/editor/) - Edit Tailwind HTML as WordPress blocks with intuitive UI for Tailwind classes and get HTML or JSX back.
 
-## [20. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -238,19 +252,19 @@
 
 *   [vue-stack-grid (⭐1)](https://github.com/chiribuc/vue-stack-grid) - A Vue 3 component designed to make creating dynamic, responsive grid layouts easy and efficient.
 
-## [21. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [22. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Programming
 
 *   [The Super Programmer (⭐45)](https://github.com/keyvank/tsp) - Keyvan Kambakhsh (PDF, HTML) *(:construction: in process)*
 
-## [22. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [23. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / E-commerce
 
 *   [EverShop](https://evershop.io/) `⚠` - E-commerce platform with essential commerce features. Modular architecture and fully customizable. ([Demo](https://demo.evershop.io/), [Source Code (⭐3.2k)](https://github.com/evershopcommerce/evershop)) `GPL-3.0` `Docker/Nodejs`
 
-## [23. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [24. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -272,13 +286,13 @@
 
 *   [Sweet-P Plotter Brochure and Price List](https://archive.org/details/bitsavers_enterCompuersonalPlotterprricelistBrochure_4929854) – Four-page color marketing brochure with attached suggested retail price list.
 
-## [24. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [25. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Puzzle Games
 
 *   [Oderrube](https://oderrube.pcgoncalves.com.br/) - [Android](https://play.google.com/store/apps/details?id=br.com.pcgoncalves.oderrube), [IOS](https://apps.apple.com/br/app/oderrube/id6447583342?platform=iphone) - Oderrube is an physics puzzle game. Carefully remove the blocks to allow Derrubito to fall into the target. By [Paulo Gonçalves](https://www.linkedin.com/in/opaulogoncalves)
 
-## [25. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [26. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Extensions
 
@@ -288,7 +302,7 @@
 
 *   [paradedb/paradedb](https:/hub.docker.com/r/paradedb/paradedb/) - ParadeDB is Postgres for Search and Analytics. Based on the Bitnami Postgres container with pg\_search and pg\_analytics Postgres extensions.
 
-## [26. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [27. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
@@ -298,7 +312,7 @@
 
 *   [Pandas vs Polars? Bid Adieu to Pandas and Switch To Polars!](https://towardsai.net/p/machine-learning/pandas-vs-polars-bid-adieu-to-pandas-and-switch-to-polars?amp=1) - An article that compares Polars to Pandas with a dataset of 1.2 GB. Code used is available on Github [here (⭐0)](https://github.com/sm823zw/pandas-vs-polars).
 
-## [27. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [28. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
@@ -315,53 +329,145 @@
     *   "Rooms is a product that runs Lem, a text editor created in Common Lisp, in the Cloud and can be used by multiple users."
     *   NEW as of April, 2024.
 
-## [28. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [29. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Logging
 
 *   [LogTape (⭐35)](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers.
 
-## [29. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [30. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
 *   [vite-react-framer-starter (⭐0)](https://github.com/matozz/vite-react-framer-starter) - Starter template with `React`, `TypeScript`, `Framer Motion`, `Tailwind CSS`, `ESLint`, and `Prettier`.
 
-## [30. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [31. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### (requires Neovim 0.5)
+
+*   [junnplus/lsp-setup.nvim (⭐217)](https://github.com/junnplus/lsp-setup.nvim) - A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
 
 ### Programming Languages Support / Diagnostics
 
 *   [jim-at-jibba/micropython.nvim (⭐1)](https://github.com/jim-at-jibba/micropython.nvim) - Enhances the development experience for developers using Micro-python for IoT and maker projects.
 
+### Web Development / Diagnostics
+
+*   [rest-nvim/rest.nvim (⭐1.3k)](https://github.com/rest-nvim/rest.nvim) - A fast Neovim HTTP client written in Lua.
+
+### Markdown and LaTeX / Diagnostics
+
+*   [nfrid/markdown-togglecheck (⭐17)](https://github.com/nfrid/markdown-togglecheck) - Simple Neovim plugin for toggling check boxes using Treesitter.
+
+### Search / Diagnostics
+
+*   [nvim-pack/nvim-spectre (⭐1.8k)](https://github.com/nvim-pack/nvim-spectre) - Search and replace panel.
+
+### File Explorer / Diagnostics
+
+*   [nvim-tree/nvim-tree.lua (⭐6.5k)](https://github.com/nvim-tree/nvim-tree.lua) - A simple and fast file explorer tree.
+
+### Project / Diagnostics
+
+*   [GnikDroy/projections.nvim (⭐219)](https://github.com/GnikDroy/projections.nvim) - Tiny project + session manager.
+
+### Color / Diagnostics
+
+*   [xiyaowong/transparent.nvim (⭐699)](https://github.com/xiyaowong/transparent.nvim) - Make your Neovim transparent.
+
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
+*   [Abstract-IDE/Abstract-cs (⭐70)](https://github.com/Abstract-IDE/Abstract-cs) - Colorscheme written in Lua, specially made for roshnivim with Tree-sitter support.
+*   [comfysage/evergarden (⭐50)](https://github.com/comfysage/evergarden) - A comfy Neovim colorscheme for cozy morning coding.
 *   [jim-at-jibba/ariake.nvim (⭐1)](https://github.com/jim-at-jibba/ariake.nvim) - A port of the great Atom theme. Beautiful, dark colour scheme.
+*   [RRethy/base16-nvim (⭐462)](https://github.com/RRethy/base16-nvim) - Neovim plugin for building base16 colorschemes. Includes support for Treesitter and LSP highlight groups.
+*   [niyabits/calvera-dark.nvim (⭐142)](https://github.com/niyabits/calvera-dark.nvim) - A port of [VSCode Calvara Dark (⭐12)](https://github.com/saurabhdaware/vscode-calvera-dark) Theme to Neovim with Tree-sitter and many other plugins support.
+*   [Everblush/nvim (⭐213)](https://github.com/Everblush/nvim) - A dark, vibrant and beautiful colorscheme written in Lua.
+*   [Yazeed1s/minimal.nvim (⭐163)](https://github.com/Yazeed1s/minimal.nvim) - Two tree-sitter supported colorschemes that are inspired by base16-tomorrow-night and monokai-pro.
+*   [mellow-theme/mellow.nvim (⭐209)](https://github.com/mellow-theme/mellow.nvim) - A soothing dark color scheme with tree-sitter support.
+*   [Yazeed1s/oh-lucy.nvim (⭐182)](https://github.com/Yazeed1s/oh-lucy.nvim) - Two tree-sitter supported colorschemes, inspired by oh-lucy in vscode.
+*   [maxmx03/fluoromachine.nvim (⭐162)](https://github.com/maxmx03/fluoromachine.nvim) - Synthwave x Fluoromachine port.
+*   [uncleTen276/dark\_flat.nvim (⭐35)](https://github.com/uncleTen276/dark_flat.nvim) - A Neovim colorscheme written in Lua ported from Dark Flat iTerm2 theme, with LSP and Tree-sitter support.
+*   [uloco/bluloco.nvim (⭐229)](https://github.com/uloco/bluloco.nvim) - A dark and earthy colorscheme supporting Tree-sitter and LSP.
+
+### Colorscheme Creation / Diagnostics
+
+*   [ThemerCorp/themer.lua (⭐255)](https://github.com/ThemerCorp/themer.lua) - A simple highlighter plugin for neovim. It has a huge collection of colorschemes. It also has ability to create colorschemes for Vim/Neovim and other supported apps (such as kitty and alacritty).
 
 ### Statusline / Diagnostics
 
+*   [Zeioth/heirline-components.nvim (⭐54)](https://github.com/Zeioth/heirline-components.nvim) - 30+ Heirline.nvim components you can use out of the box to create your perfect user interface.
 *   [mikesmithgh/git-prompt-string-lualine.nvim (⭐10)](https://github.com/mikesmithgh/git-prompt-string-lualine.nvim) - Add git-prompt-string to your statusline.
+
+### Icon / Diagnostics
+
+*   [nvim-tree/nvim-web-devicons (⭐1.8k)](https://github.com/nvim-tree/nvim-web-devicons) - A Lua fork of [vim-devicons (⭐5.5k)](https://github.com/ryanoasis/vim-devicons).
+
+### Media / Diagnostics
+
+*   [HakonHarnes/img-clip.nvim (⭐352)](https://github.com/HakonHarnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
+
+### Note Taking / Diagnostics
+
+*   [nfrid/due.nvim (⭐102)](https://github.com/nfrid/due.nvim) - Displays due for a date string as a virtual text.
+*   [zk-org/zk-nvim (⭐445)](https://github.com/zk-org/zk-nvim) - Neovim extension for zk, a plain text note-taking assistant.
+*   [Ostralyan/scribe.nvim (⭐24)](https://github.com/Ostralyan/scribe.nvim) - Take notes, easily.
+*   [hadronized/mind.nvim (⭐703)](https://github.com/hadronized/mind.nvim) - The power of trees at your fingertips.
+
+### Debugging / Diagnostics
+
+*   [pocco81/dap-buddy.nvim (⭐394)](https://github.com/pocco81/dap-buddy.nvim) - Manage several debuggers for nvim-dap.
 
 ### Deployment / Diagnostics
 
 *   [sachinsenal0x64/hot.nvim (⭐3)](https://github.com/sachinsenal0x64/hot.nvim) - A hot reloader that works with any programming language.
 
+### Code Runner / Diagnostics
+
+*   [Vigemus/iron.nvim (⭐895)](https://github.com/Vigemus/iron.nvim) - Interactive REPLs of over 30 languages embedded.
+
+### Neovim Lua Development / Diagnostics
+
+*   [nfrid/treesitter-utils (⭐6)](https://github.com/nfrid/treesitter-utils) - Some useful Treesitter methods.
+
+### Scrolling / Diagnostics
+
+*   [nkakouros-original/scrollofffraction.nvim (⭐6)](https://github.com/nkakouros-original/scrollofffraction.nvim) - Scrolloff as a fraction of the window height.
+
+### Editing Support / Diagnostics
+
+*   [pocco81/true-zen.nvim (⭐927)](https://github.com/pocco81/true-zen.nvim) - Clean and elegant distraction-free writing.
+*   [pocco81/high-str.nvim (⭐288)](https://github.com/pocco81/high-str.nvim) - Highlight visual selections like in a normal document editor!
+*   [pocco81/auto-save.nvim (⭐578)](https://github.com/pocco81/auto-save.nvim) - Save your work before the world collapses or you type :qa!
+*   [andersevenrud/nvim\_context\_vt (⭐352)](https://github.com/andersevenrud/nvim_context_vt) - Shows virtual text of the current context.
+*   [CKolkey/ts-node-action (⭐343)](https://github.com/CKolkey/ts-node-action) - A framework for executing functional transformations on Tree-sitter nodes - Has a lot of built-in actions for transforming text.
+
 ### Indent / Diagnostics
 
 *   [Mr-LLLLL/cool-chunk.nvim (⭐4)](https://github.com/Mr-LLLLL/cool-chunk.nvim) - Simpler and faster chunking with animations.
 
-## [31. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+### Split and Window / Diagnostics
+
+*   [nvim-focus/focus.nvim (⭐646)](https://github.com/nvim-focus/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows written in Lua! Vim splits on steroids.
+*   [altermo/nwm (⭐257)](https://github.com/altermo/nwm) - X11 window manager.
+
+## [32. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Nodes & Consensus Participation / Wallets
 
 *   [TxnLab/reti (⭐15)](https://github.com/TxnLab/reti) - Provides contracts, a Node Daemon, and a UI for Algorand 'The Reti' consensus incentives, facilitating the creation of decentralized staking pools on the Algorand network to promote broader participation and enhance network security through diversification.
 
-## [32. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [33. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Repos
 
 *   [Functional Programming Learning Path](https://github.com/imteekay/functional-programming-learning-path.git) - A Learning Path for Functional Programming
 
-## [33. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [34. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Domain Specific Language / Design Theory
+
+*   [Domain Specific Languages](https://martinfowler.com/books/dsl.html) - ***Pearson Education***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=3653365103385845410)]. \[[Author's DSL Guide](https://martinfowler.com/dsl.html)]. When carefully selected and used, Domain-Specific Languages (DSLs) may simplify complex code, promote effective communication with customers, improve productivity, and unclog development bottlenecks. In Domain-Specific Languages, noted software development expert Martin Fowler first provides the information software professionals need to decide if and when to utilize DSLs. Then, where DSLs prove suitable, Fowler presents effective techniques for building them, and guides software engineers in choosing the right approaches for their applications.
 
 ### Science Logology / Democratization of Science
 
@@ -372,7 +478,7 @@
 *   [Automation isn't automatic](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc04588a) - ***Chemical Science***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14176714971050097971)]. This perspective provides an overview of the current state of automation of synthetic chemistry at the benchtop scale with a particular emphasis on core considerations and the ensuing challenges of deploying a system. The authors aim to reframe automation as decidedly not automatic but rather an iterative process that involves a series of careful decisions (both human and computational) and constant adjustment.
 *   [Balancing act: when to flex and when to stay fixed](https://www.cell.com/trends/chemistry/fulltext/S2589-5974\(23\)00249-6) - ***Trends in Chemistry***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=14208571639305934551)]. This perspective article provides essential insights into the decision-making process for choosing automation platforms, highlighting the suitability of fixed automation for standardized tasks and the strategic use of flexible automation in dynamic research settings.
 
-## [34. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [35. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### CLI / Text-Based User Interfaces
 
@@ -390,7 +496,7 @@
 
 *   [The Well-Grounded Java Developer (2nd Edition)](https://www.manning.com/books/the-well-grounded-java-developer-second-edition)
 
-## [35. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [36. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Text search
 
@@ -423,11 +529,13 @@
 *   Android / iOS
     *   [ivnsch/rust\_android\_ios (⭐233)](https://github.com/ivnsch/rust_android_ios) — An example of using a shared lib for Android and iOS using rust-swig and cbindgen respectively.
 
-## [36. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [37. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Community
 
 *   [Top rated Angular stackoverflow questions Dashboard](https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
+*   [angular-logos (⭐77)](https://github.com/maartentibau/angular-logos) - Repo is dedicated to collecting all the different kinds of Angular badges and logos.
+*   [madewithangular (⭐79)](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.
 
 ### Angular Team on Twitter
 
@@ -453,6 +561,7 @@
 *   [modern-angular](https://modernangular.com/) - Josh Morony's website is a collection of content centered around creating modern Angular applications using the latest Angular features and concepts.
 *   [angularexperts](https://angularexperts.io/blog) - Learn all about Angular, NgRx, RxJs & NX and advance your skills with guides, in-depth content and actionable tips and tricks!
 *   [angular-university](https://blog.angular-university.io/) - Learn and Keep Up with the Angular Ecosystem
+*   [simplified courses](https://blog.simplified.courses/) - Blog articles written with love, just for you!
 *   [justangular](https://justangular.com/) - Shares the newest and most important updates about Angular, along with useful tips and tricks.
 *   [Netanel Basal](https://medium.com/@netbasal)
 *   [Tim Deschryver](https://timdeschryver.dev/)
@@ -494,22 +603,40 @@
 *   [YouTube](https://www.youtube.com/watch?v=emnwsVy8wRs) - Angular Unit Testing Made Easy
 *   [Tim Deschryver Blog](https://timdeschryver.dev/blog/testing-an-ngrx-project) - Testing an NgRx project
 
+### Builders / Testing
+
+*   [Webpack](https://webpack.js.org)
+*   [ESBuild](https://esbuild.github.io/)
+*   [Nx (⭐22k)](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
+*   [Angular Builders (⭐1.1k)](https://github.com/just-jeb/angular-builders) - This repo consolidates all the community builders (ES Build, Webpack, Jest, Bazel, and Timestamp) for the Angular build facade.
+*   [Jest Builder (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/jest) - Jest builder for Angular build facade
+*   [Custom Webpack (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack) - custom webpack
+*   [Custom ESBuild (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-esbuild) - Allows custom esbuild configuration.
+*   [Bazel (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/bazel) - Provides an Angular CLI Builder, which can execute Bazel when triggered by ng build, ng test, etc.
+*   [Timestamp (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/timestamp) - This is explained in this [article](https://medium.com/angular-in-depth/angular-cli-under-the-hood-builders-demystified-v2-e73ee0f2d811).
+*   [ngx-build-plus (⭐1.2k)](https://github.com/manfredsteyer/ngx-build-plus) - Extend the Angular CLI's default build behavior without ejecting, e. g. for Angular Elements.
+*   [ng-process-env (⭐18)](https://github.com/danduh/ng-process-env) - Angular schematics and builder to retrieve values from System Environment (OS) variables and update relevant `environment.ts` file.
+*   [ngx-electronify (⭐97)](https://github.com/bampakoa/ngx-electronify) - Angular CLI builder that runs your application in the desktop using Electron.
+*   [dotenv-run (⭐224)](https://github.com/chihab/dotenv-run) - Seamlessly load environment variables. Supports cli, esbuild, rollup, vite, webpack, angular, ESM and Monorepos.
+*   [ng-packagr (⭐1.8k)](https://github.com/ng-packagr/ng-packagr) - Compile and package Angular libraries in Angular Package Format (APF).
+
 ### YouTube Channels / Testing
 
-*   [YouTube](https://www.youtube.com/@procademy) - Procademy
-*   [YouTube](https://www.youtube.com/@MonsterlessonsAcademy) - Monsterlessons Academy
-*   [YouTube](https://www.youtube.com/@JoshuaMorony) - Joshua Morony
-*   [YouTube](https://www.youtube.com/@NihiraTechiees) - Nihira Techiees
-*   [YouTube](https://www.youtube.com/@AngularUniversity) - Angular University
-*   [YouTube](https://www.youtube.com/@RainerHahnekamp) - Rainer Hahnekamp
-*   [YouTube](https://www.youtube.com/@CodeShotsWithProfanis) - Code Shots With Profanis
-*   [YouTube](https://www.youtube.com/@deborah_kurata) - Deborah Kurata
-*   [YouTube](https://www.youtube.com/@BrandonRobertsDev) - BrandonRobertsDev
-*   [YouTube](https://www.youtube.com/@DecodedFrontend) - Decoded Frontend
-*   [YouTube](https://www.youtube.com/@galaxies_dev) - Galaxies\_dev
+*   [Procademy](https://www.youtube.com/@procademy)
+*   [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy)
+*   [Joshua Morony](https://www.youtube.com/@JoshuaMorony)
+*   [Nihira Techiees](https://www.youtube.com/@NihiraTechiees)
+*   [Angular University](https://www.youtube.com/@AngularUniversity)
+*   [Rainer Hahnekamp](https://www.youtube.com/@RainerHahnekamp)
+*   [Code Shots With Profanis](https://www.youtube.com/@CodeShotsWithProfanis)
+*   [Deborah Kurata](https://www.youtube.com/@deborah_kurata)
+*   [BrandonRobertsDev](https://www.youtube.com/@BrandonRobertsDev)
+*   [Decoded Frontend](https://www.youtube.com/@DecodedFrontend)
+*   [Galaxies\_dev](https://www.youtube.com/@galaxies_dev)
 
 ### Online Training / Testing
 
+*   [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
 *   [Angular Start](https://angularstart.com/) - Learn to build professional-grade Angular v17 applications using new features with modern best practices
 *   [Angular Training](https://www.angulartraining.com/) - The Angular Coach
     You Need
@@ -699,6 +826,14 @@
 *   [ng2-pdfjs-viewer (⭐220)](https://github.com/intbot/ng2-pdfjs-viewer) - An Angular component for PDFJS and ViewerJS (Supports all versions of Angular).
 *   [ngx-json-viewer (⭐171)](https://github.com/hivivo/ngx-json-viewer) - JSON formatter and viewer in HTML for Angular.
 
+### RxJS / Tailwind CSS Based
+
+*   [rxjs](https://rxjs.dev/) - Reactive Extensions Library for JavaScript
+*   [learn-rxjs (⭐3.6k)](https://github.com/btroncone/learn-rxjs) - Clear examples, explanations, and resources for RxJS
+*   [rxjs-course (⭐370)](https://github.com/angular-university/rxjs-course) - RxJs course from Angular University
+*   [redux-observable (⭐7.8k)](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".
+*   [rxjs-challenge (⭐559)](https://github.com/AngularWave/rxjs-challenge) - A set of little RxJS puzzles to practice your Observable skills.
+
 ### TypeScript / Tailwind CSS Based
 
 *   [typehero (⭐5.2k)](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers.
@@ -707,7 +842,7 @@
 *   [Sheriff (⭐143)](https://github.com/softarc-consulting/sheriff) - Lightweight Modularity for TypeScript Projects
 *   [Total Typescript Book (⭐1.5k)](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book.
 *   [ts-essentials (⭐3.6k)](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place
-*   [trpc (⭐32k)](https://github.com/trpc/trpc) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+*   [trpc (⭐33k)](https://github.com/trpc/trpc) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 *   [quicktype (⭐11k)](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL.
 *   [ts-pattern (⭐11k)](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 *   [ngx-mf (⭐33)](https://github.com/iamguid/ngx-mf) - Bind your model types to angular FormGroup type

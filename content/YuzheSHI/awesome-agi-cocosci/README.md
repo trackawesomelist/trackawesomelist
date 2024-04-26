@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Apr 26, 2024](/content/2024/04/26/README.md)
+
+### Domain Specific Language / Design Theory
+
+*   [Domain Specific Languages](https://martinfowler.com/books/dsl.html) - ***Pearson Education***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=3653365103385845410)]. \[[Author's DSL Guide](https://martinfowler.com/dsl.html)]. When carefully selected and used, Domain-Specific Languages (DSLs) may simplify complex code, promote effective communication with customers, improve productivity, and unclog development bottlenecks. In Domain-Specific Languages, noted software development expert Martin Fowler first provides the information software professionals need to decide if and when to utilize DSLs. Then, where DSLs prove suitable, Fowler presents effective techniques for building them, and guides software engineers in choosing the right approaches for their applications.
+
 ## [Apr 24, 2024](/content/2024/04/24/README.md)
 
 ### Science Logology / Laboratory Automation
@@ -321,7 +327,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Jan 19, 2024](/content/2024/01/19/README.md)
 
-### Science Logology / Democratization of Science
+### Science Logology / AI Assisted Research
 
 *   [ChemCrow: Augmenting large-language models with chemistry tools](https://openreview.net/forum?id=wdGIL6lx3l) - ***NeurIPS AI for Science Workshop***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8711939262720486725\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://arxiv.org/abs/2304.05376)].
 
@@ -369,7 +375,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Dec 31, 2023](/content/2023/12/31/README.md)
 
-### Science Logology / Democratization of Science
+### Science Logology / AI Assisted Research
 
 *   [Learning skillful medium-range global weather forecasting](https://www.science.org/doi/10.1126/science.adi2336) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=269756601245477923\&hl=en\&as_sdt=0,5)].
 
@@ -412,7 +418,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Phylogenetic evidence for Sino-Tibetan origin in northern China in the Late Neolithic](https://www.nature.com/articles/s41586-019-1153-z) - ***Nature***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=13913123623752818925\&hl=en\&as_sdt=0,5)]. A Bayesian phylogenetic analysis on two competing hypotheses of the origin of the Sino-Tibetan language family suggests that the initial expansion of Sino-Tibetan languages occurred approximately 4,000–6,000 years before present (BP; taken as AD 1950) in the Yellow River basin of northern China, and that this expansion is associated with the development of the Yangshao and/or Majiayao Neolithic cultures.
 *   [Triangulation supports agricultural spread of the Transeurasian languages](https://www.nature.com/articles/s41586-021-04108-8) - ***Nature***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1183005894965630508\&hl=en\&as_sdt=0,5)]. \[[Nature News](https://www.nature.com/articles/d41586-021-03037-w)]. A triangulation of linguistic, archaeological and genetic data suggests that the Transeurasian language family originated in a population of grain farmers in China around 9,000 years ago, and that agriculture underpinned its spread.
 
-### Science Logology / Democratization of Science
+### Science Logology / AI Assisted Research
 
 *   [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11962817646389491592\&hl=en\&as_sdt=0,5)]. A review article that examines breakthroughs over the past decade that include self-supervised learning, which allows models to be trained on vast amounts of unlabelled data, and geometric deep learning, which leverages knowledge about the structure of scientific data to enhance model accuracy and efficiency.
 *   [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5962372610489019326\&hl=en\&as_sdt=0,5)].
@@ -453,7 +459,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Nov 05, 2023](/content/2023/11/05/README.md)
 
-### Science Logology / Democratization of Science
+### Science Logology / AI Assisted Research
 
 *   [Accurate medium-range global weather forecasting with 3D neural networks](https://www.nature.com/articles/s41586-023-06185-3) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=7198604620204619820\&hl=en\&as_sdt=0,5)].
 *   [Skilful nowcasting of extreme precipitation with NowcastNet](https://www.nature.com/articles/s41586-023-06184-4) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17837864391812838009\&hl=en\&as_sdt=0,5)].
@@ -470,13 +476,13 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Oct 31, 2023](/content/2023/10/31/README.md)
 
-### Science Logology / Democratization of Science
+### Science Logology / AI Assisted Research
 
 *   [Single-atom alloy catalysts designed by first-principles calculations and artificial intelligence](https://www.nature.com/articles/s41467-021-22048-9) - ***Nature Communications***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=6593978922251447907\&hl=en\&as_sdt=0,5)].
 
 ## [Oct 28, 2023](/content/2023/10/28/README.md)
 
-### Science Logology / Democratization of Science
+### Science Logology / AI Assisted Research
 
 *   [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767\&hl=en\&as_sdt=0,5)]. \[[Nature News](https://www.nature.com/articles/d41586-023-01353-x)].
 
@@ -508,7 +514,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [PersLEARN: Research Training through the Lens of Perspective Cultivation](https://aclanthology.org/2023.acl-demo.2/) - ***ACL'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=6242389165210232890\&hl=en\&as_sdt=0,5)]. Research on facilitating the cultivation of scientific perspectives, starting from a basic seed idea and progressing to a well-articulated framework, for scientific research training in higher education.
 
-### Science Logology / Democratization of Science
+### Science Logology / AI Assisted Research
 
 *   [A foundation model for generalizable disease detection from retinal images](https://www.nature.com/articles/s41586-023-06555-x) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=3139988207343394501\&hl=en\&as_sdt=0,5)].
 
@@ -600,7 +606,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Jul 06, 2023](/content/2023/07/06/README.md)
 
-### Science Logology / Democratization of Science
+### Science Logology / AI Assisted Research
 
 *   [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory](https://ieeexplore.ieee.org/abstract/document/10059206) - ***IEEE Transactions on Knowledge and Data Engineering***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=949715967083833369\&hl=en\&as_sdt=0,10)].
 
@@ -663,7 +669,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [A high-level programming language for generative protein design](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1) - 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=11732741354610784314\&hl=en\&as_sdt=0,5)]. A high-level programming language based on modular building blocks that allows a designer to easily compose a set of desired properties. Along with the programming language, there is an energy-based generative model, built on atomic resolution structure prediction with a language model, that realizes all-atom structure designs that have the programmed properties.
 
-### Science Logology / Democratization of Science
+### Science Logology / AI Assisted Research
 
 *   [Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences](https://www.pnas.org/doi/abs/10.1073/pnas.2016239118) - ***Proceedings of the National Academy of Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=15181490380139888639\&hl=en\&as_sdt=0,5)].
 
@@ -682,7 +688,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Apr 22, 2023](/content/2023/04/22/README.md)
 
-### Science Logology / Democratization of Science
+### Science Logology / Laboratory Automation
+
+*   [Robotic search for optimal cell culture in regenerative medicine](https://elifesciences.org/articles/77007) - ***eLife***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=1330075145723138159\&hl=en\&as_sdt=0,5)].
+*   [Cell Culture: Implementing robotics and artificial intelligence](https://elifesciences.org/articles/80609) - ***eLife***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10725537391648003592\&hl=en\&as_sdt=0,5)].
+
+### Science Logology / AI Assisted Research
 
 *   [Comparability of automated human induced pluripotent stem cell culture: a pilot study](https://link.springer.com/article/10.1007/s00449-016-1659-9) - ***Bioprocess and Biosystems Engineering***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14666375402220991095\&hl=en\&as_sdt=0,5)].
 *   [LEGAL-BERT: The Muppets straight out of Law School](https://aclanthology.org/2020.findings-emnlp.261/) - ***EMNLP'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11254432523766039890\&hl=en\&as_sdt=0,5)]. Generating answers to legal questions, analyze contracts, and summarizing legal documents, making legal knowledge more accessible to non-experts.
@@ -690,11 +701,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Finbert: A pre-trained financial language representation model for financial text mining](https://dl.acm.org/doi/abs/10.5555/3491440.3492062) - ***IJCAI'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17844713837232165872\&hl=en\&as_sdt=0,5)]. Predicting stock market trends, analyzing financial documents, and generating summaries of economic news articles, helping to disseminate financial knowledge.
 *   [SciBERT: A Pretrained Language Model for Scientific Text](https://aclanthology.org/D19-1371/) - ***EMNLP'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7377999893003631695\&hl=en\&as_sdt=0,5)]. Searching and synthesizing scientific literature, aiding researchers in hypothesis generation, and assisting with experimental design, making scientific knowledge more accessible.
 *   [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://aclanthology.org/2020.findings-emnlp.139/) - ***EMNLP'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9055786889913621082\&hl=en\&as_sdt=0,5)]. Completing code, generating programming documentation, and providing technical support, making programming knowledge more accessible to non-experts.
-
-### Science Logology / Laboratory Automation
-
-*   [Robotic search for optimal cell culture in regenerative medicine](https://elifesciences.org/articles/77007) - ***eLife***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=1330075145723138159\&hl=en\&as_sdt=0,5)].
-*   [Cell Culture: Implementing robotics and artificial intelligence](https://elifesciences.org/articles/80609) - ***eLife***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10725537391648003592\&hl=en\&as_sdt=0,5)].
 
 ## [Mar 27, 2023](/content/2023/03/27/README.md)
 
@@ -764,7 +770,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [The importance of mixed selectivity in complex cognitive tasks](https://oar.princeton.edu/rt4ds/file/11875/2161) - ***Nature***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=2707751672275136220\&hl=en\&as_sdt=0,5)]. The original paper introducing mixed selectivity with high-dimensional neural representations.
 *   [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cognitivesciencesociety.org/cogsci20/papers/0765/0765.pdf) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Abstract+strategy+learning+underlies+flexible+transfer+in+physical+problem+solving.\&btnG=)].
 
-### Theory of Mind / Laboratory Automation
+### Theory of Mind / AI Assisted Research
 
 *   [The naïve utility calculus: Computational principles underlying commonsense psychology](http://sll.stanford.edu/docs/2016_JaraEttinger_Gweon_Schulz_Tenenbaum_TiCS.pdf) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=6894095575934067763\&hl=en\&as_sdt=0,5)]. A perspective on understanding social interactions through the naïve utility calculus framework.
 *   [Planning with theory of mind](https://saxelab.mit.edu/sites/default/files/publications/HoSaxeCushman2022.pdf) - ***Trends in Cognitive Sciences***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=8461125353366208047\&hl=en\&as_sdt=0,5)]. A perspective on understanding Theory of Mind through planning that consists of abstract structured causal representations and supports efficient search and selection from innumerable possible actions.
@@ -1044,13 +1050,13 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Sep 11, 2022](/content/2022/09/11/README.md)
 
-### Analogy / Laboratory Automation
+### Analogy / AI Assisted Research
 
 *   [Similarity involving attributes and relations: Judgments of similarity and difference are not inverses](https://pcl.sitehost.iu.edu/rgoldsto/pdfs/simdiff.pdf) - ***Psychological Science***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=13205938250772079784\&hl=en\&as_sdt=0,5)].
 
 ## [Sep 07, 2022](/content/2022/09/07/README.md)
 
-### Analogy / Laboratory Automation
+### Analogy / AI Assisted Research
 
 *   [Visual Analogy: Deep Learning Versus Compositional Models](https://www.cs.jhu.edu/~alanlab/Pubs21/ichien2021visual.pdf) - ***CogSci'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1187822306970312749\&hl=en\&as_sdt=0,5)]. A human-deep-learning comparison on similarity judgement.
 
@@ -1108,7 +1114,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Aug 16, 2022](/content/2022/08/16/README.md)
 
-### Causality / Laboratory Automation
+### Causality / AI Assisted Research
 
 *   [Predictive and Diagnostic Learning Within Causal Models: Asymmetries in Cue Competition](https://www.psych.uni-goettingen.de/de/cognition/publikationen-dateien-waldmann/1992_predictive_vs_diagnostic.pdf) - ***Journal of Experimental Psychology***, 1992. \[[All Versions](https://scholar.google.com/scholar?cluster=9614241045842043939\&hl=en\&as_sdt=0,5)]. Experimental evidences for distincting causality and association.
 
@@ -1152,7 +1158,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Zotero](https://www.zotero.org/) - ***Digital Scholar***. For reference management to manage bibliographic data and research related materials.
 
-### Causality / Laboratory Automation
+### Causality / AI Assisted Research
 
 *   [Reasoning with cause and effect](https://ftp.cs.ucla.edu/pub/stat_ser/R265.pdf) - 1998. Judea Pearl's tutorials on causal reasoning with operations on Bayesian networks.
 
@@ -1267,7 +1273,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Pareto optimality in multiobjective problems](https://link.springer.com/article/10.1007/BF01442131) - ***Applied Mathematics and Optimization***, 1977. \[[All Versions](https://scholar.google.com/scholar?cluster=11305142600366783354\&hl=en\&as_sdt=0,5)]. The original paper on the pareto optimality in multiobjective problems.
 *   [Pareto-Based Multiobjective Machine Learning: An Overview and Case Studies](http://www.soft-computing.de/SMC0805.pdf) - ***IEEE Transactions on Systems, Man, and Cybernetics***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=11308312498510305429\&hl=en\&as_sdt=0,5)]. A comprehensive review on the application of pareto optimality to multiobjective machine learning.
 
-### Causality / Laboratory Automation
+### Causality / AI Assisted Research
 
 *   [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***Journal of the American Statistical Association***, 1996. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=17166265099721941605)].
 *   [Causality](https://en.wikipedia.org/wiki/Causality) - ***Wikipedia***. Wikipedia on causality, which is influence by which one event, process, state, or object (a cause) contributes to the production of another event, process, state, or object (an effect) where the cause is partly responsible for the effect, and the effect is partly dependent on the cause.
@@ -1339,7 +1345,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Is human cognition adaptive?](http://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2013/09/Anderson91.pdf) - ***Behavioral and Brain Sciences***, 1991. \[[All Versions](https://scholar.google.com/scholar?cluster=3639936076538071052\&hl=en\&as_sdt=0,5)]. The original paper introducing the adaptation perspective of human intelligence, the theoretical basis of the ACT cognitive architecture.
 *   [What is consciousness, and could machines have it?](https://doi.org/10.1126/SCIENCE.AAN8871) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=6932714857132107942\&hl=en\&as_sdt=0,5)]. A perspective on the two levels of consciousness in machine intelligence.
 
-### Theory of Mind / Laboratory Automation
+### Theory of Mind / AI Assisted Research
 
 *   [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind) - ***Wikipedia***. Wikipedia on Theory of Mind (ToM), a cognitive capability that estimating others' goal, belief, and desire.
 *   [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607) - ***Cognition***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=11478704181983566675\&hl=en\&as_sdt=0,5)]. \[[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)]. The original paper on Inverse Planning, a computational implementation of ToM.
@@ -1356,7 +1362,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Intentonomy: a Dataset and Study towards Human Intent Understanding](https://arxiv.org/pdf/2011.05558.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=5268870345003195142\&hl=en\&as_sdt=0,5)]. A large-scale database on human intentionally-posted images on social media.
 *   [Adventures in Flatland: Perceiving Social Interactions Under Physical Dynamics](https://www.tshu.io/HeiderSimmel/CogSci20/Flatland_CogSci20.pdf) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1928005249823745390\&hl=en\&as_sdt=0,5)].
 
-### Analogy / Laboratory Automation
+### Analogy / AI Assisted Research
 
 *   [Metaphor](https://plato.stanford.edu/entries/metaphor/) - ***Plato Stanford***. A computational philosophy account on Metaphor, a poetically or rhetorically ambitious use of words, a figurative as opposed to literal use.
 *   [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/) - ***Plato Stanford***. A computational philosophy account on Analogy, a comparison between two objects, or systems of objects, that highlights respects in which they are thought to be similar.
@@ -1826,7 +1832,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Apr 29, 2022](/content/2022/04/29/README.md)
 
-### Analogy / Laboratory Automation
+### Analogy / AI Assisted Research
 
 *   [Skip-Gram − Zipf + Uniform = Vector Additivity](https://aclanthology.org/P17-1007/) - ***ACL'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=11732363456979525246\&hl=en\&as_sdt=0,5)].
 
@@ -2068,7 +2074,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Feb 23, 2022](/content/2022/02/23/README.md)
 
-### Causality / Laboratory Automation
+### Causality / AI Assisted Research
 
 *   [Do six-month-old infants perceive causality?](http://fitelson.org/woodward/leslie.pdf) - ***Cognition***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=14270905342434182186\&hl=en\&as_sdt=0,5)].
 
@@ -2131,19 +2137,19 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Feb 08, 2022](/content/2022/02/08/README.md)
 
-### Theory of Mind / Laboratory Automation
+### Theory of Mind / AI Assisted Research
 
 *   [PHASE: PHysically-grounded Abstract Social Events for Machine Social Perception](https://ojs.aaai.org/index.php/AAAI/article/view/16167) - ***AAAI'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=15536873427310696150\&hl=en\&as_sdt=0,5)]. \[[Project](https://tshu.io/PHASE/)].
 
 ## [Feb 07, 2022](/content/2022/02/07/README.md)
 
-### Causality / Laboratory Automation
+### Causality / AI Assisted Research
 
 *   [Eye-tracking causality](http://cocolab.stanford.edu/papers/GerstenbergEtAl17_PsychScience.pdf) - ***Psychological Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=17518200401109470519)].
 
 ## [Feb 06, 2022](/content/2022/02/06/README.md)
 
-### Theory of Mind / Laboratory Automation
+### Theory of Mind / AI Assisted Research
 
 *   [Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration](https://openreview.net/forum?id=w_7JMpGZRh0) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=16340001407726295133)].
 
@@ -2466,7 +2472,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Basic functional trade-offs in cognition: An integrative framework](https://www.sciencedirect.com/science/article/pii/S0010027718301604) - ***Cognition***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=11475742130443069967\&hl=en\&as_sdt=0,5)].
 *   [A Theoretical Computer Science Perspective on Consciousness](https://www.worldscientific.com/doi/abs/10.1142/S2705078521500028) - ***Journal of Artificial Intelligence and Consciousness***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=16430561748075101972\&hl=en\&as_sdt=0,5)].
 
-### Theory of Mind / Laboratory Automation
+### Theory of Mind / AI Assisted Research
 
 *   [The Signature of All Things: Children Infer Knowledge States from Static Images](https://psyarxiv.com/f692k/) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=12380982112592086477\&hl=en\&as_sdt=0,5\&as_ylo=2017)].
 *   [Rational quantitative attribution of beliefs, desires and percepts in human mentalizing](https://www.nature.com/articles/s41562-017-0064) - ***Nature Human Behavior***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=9377509910551057835\&hl=en\&as_sdt=0,5)].
@@ -2482,7 +2488,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [The logic of universalization guides moral judgment](https://www.pnas.org/content/117/42/26158.short) - ***Proceedings of the National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13482051983012049752\&hl=en\&as_sdt=0,5)].
 *   [Origins of the concepts cause, cost, and goal in prereaching infants](https://www.pnas.org/content/116/36/17747) - ***Proceedings of the National Academy of Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=15973074852436355789\&hl=en\&as_sdt=0,5)].
 
-### Analogy / Laboratory Automation
+### Analogy / AI Assisted Research
 
 *   [Generalize and Blend: Concept Blending Based on Generalization, Analogy, and Amalgams](https://www.iiia.csic.es/~enric/papers/generalize_and_blend.pdf) - ***ICCC'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11073359237116879862\&hl=en\&as_sdt=0,5)].
 *   [VISALOGY: Answering Visual Analogy Questions](https://proceedings.neurips.cc/paper/2015/file/45f31d16b1058d586fc3be7207b58053-Paper.pdf) - ***NeurIPS'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=7665427758655324654\&hl=en\&as_sdt=0,5)].
@@ -2491,7 +2497,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Sky + Fire = Sunset. Exploring Parallels between Visually Grounded Metaphors and Image Classifiers](https://aclanthology.org/2020.figlang-1.pdf#page=140) - ***ACL'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5747285277687442001\&hl=en\&as_sdt=0,5)].
 *   [Analogy as Nonparametric Bayesian Inference over Relational Systems](https://arxiv.org/pdf/2006.04156.pdf) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1798148167130120057\&hl=en\&as_sdt=0,5)].
 
-### Causality / Laboratory Automation
+### Causality / AI Assisted Research
 
 *   [Causal Reasoning](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195376746.001.0001/oxfordhb-9780195376746-e-46) - ***The Oxford Handbook of Cognitive Psychology***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=11361740093816709089\&hl=en\&as_sdt=0,5)].
 *   [Inferring causal networks from observations and interventions](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2703_6) - ***Cognitive Science***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=12050301037347772984\&hl=en\&as_sdt=2005\&sciodt=0,5)].

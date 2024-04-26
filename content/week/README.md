@@ -191,11 +191,324 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Advent of Computing](https://adventofcomputing.com/) - A podcast about the shocking, intriguing, and all too often relevant history of computing.
 
-#### [20. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [20. Awesome Yew](/content/jetli/awesome-yew/README.md)
+
+##### Projects
+
+*   [demo\_web\_zip\_wasm (⭐3)](https://github.com/MAE664128/demo_web_zip_wasm) - A simple example program for creating ZIP archives running in the browser using WebAssembly, [Live Demo](https://mae664128.github.io/demo_web_zip_wasm/).
+
+#### [21. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+
+##### Projects / API Management
+
+*   [Gravitee.io API Management (⭐135) (⭐135)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
+*   [WSO2 API Manager (⭐805) (⭐805)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
+
+##### Projects / API Design
+
+*   [OpenAPI Diff (⭐750) (⭐750)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+*   [Zally (⭐875) (⭐875)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
+
+##### Projects / API Documentation
+
+*   [DapperDox (⭐393) (⭐393)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
+*   [OpenAPI Explorer (⭐284) (⭐284)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
+*   [Stoplight Elements (⭐1.5k) (⭐1.5k)](https://github.com/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown. Use these UI components to create API reference documentation, or more complete documentation with Markdown articles covering tutorials, how-to guides, etc.
+
+##### Projects / API Testing
+
+*   MQ clients
+    *   [JMSToolBox (⭐191) (⭐191)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
+    *   [kcat (⭐5.2k) (⭐5.2k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
+    *   [MQTT Explorer (⭐2.7k) (⭐2.8k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
+    *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
+    *   [Service Bus Explorer (⭐1.9k) (⭐1.9k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
+
+##### Projects / Data Mapping Solution
+
+*   [AltasMap (⭐181) (⭐181)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
+*   [JOLT (⭐1.5k) (⭐1.5k)](https://github.com/bazaarvoice/jolt) - A Java-based JSON-to-JSON transformation library that uses a JSON document as the "specification" for the transform. JOLT provides a simple way for software engineers to transform JSON data.
+*   [JSLT (⭐605) (⭐605)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
+
+##### Projects / ESB
+
+*   [WSO2 Enterprise Integrator (⭐364) (⭐364)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
+
+##### Projects / Messaging
+
+*   [Centrifugo (⭐7.9k) (⭐7.9k)](https://github.com/centrifugal/centrifugo) - An open-source, scalable real-time messaging server that allows you to build interactive applications where events are delivered to online users with minimal delay.
+
+##### Projects / Workflow engine
+
+*   [Activiti (⭐9.9k) (⭐9.9k)](https://github.com/Activiti/Activiti) - A lightweight and Java-centric open-source engine for executing BPMN (Business Process Model and Notation) workflows.
+*   [Azkaban (⭐4.4k) (⭐4.4k)](https://github.com/azkaban/azkaban) - A distributed workflow manager that helps solve the problem of Hadoop job dependencies, making it easier to schedule and manage workflows in large-scale data processing environments.
+*   [Bonita (⭐146) (⭐146)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
+*   [Cadence (⭐7.8k) (⭐7.8k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
+*   [Elsa Core (⭐5.8k) (⭐5.8k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
+*   [StackStorm (⭐5.9k) (⭐5.9k)](https://github.com/StackStorm/st2) - A robust automation engine that provides sensors, triggers, rules, workflows, and actions to help you automate and orchestrate complex workflows and applications.
+*   [Temporal (⭐9.8k) (⭐9.8k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
+
+##### Resources / Certifications
+
+*   [Apollo Graph Developer - Associate Certification](https://www.apollographql.com/tutorials/exams/apollo-graph-associate) - Developers who obtain this certification possess a solid foundational knowledge of GraphQL and the Apollo tool suite to design a schema, run an Apollo Server 4, and perform queries with Apollo Client 3 on the frontend.
+*   [Apollo Graph Developer - Professional Certification](https://www.apollographql.com/tutorials/certifications/apollo-graph-professional) - Developers who obtain this certification demonstrate strong familiarity with Apollo Federation concepts. They can apply those concepts to build a federated supergraph or move an existing monolithic graph to federation.
+*   [SAP Certified Associate - Integration Developer](https://learning.sap.com/certifications/sap-certified-associate-integration-developer) - Validates that the candidate possesses the fundamental and core knowledge required of the SAP Integration Suite profile.
+
+##### Resources / Data Formats
+
+*   [NDJSON (⭐634) (⭐634)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+*   [YAML (⭐314) (⭐314)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+
+##### Resources / Structure and Validation
+
+*   [JSON Schema (⭐3.2k) (⭐3.2k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
+
+#### [22. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+
+##### Tools / Low-code
+
+*   [FlowTest (⭐103)](https://github.com/FlowTestAI/FlowTest): GenAI powered OpenSource IDE for API first workflows ![GitHub Repo stars](https://img.shields.io/github/stars/FlowTestAI/FlowTest?style=social)
+
+#### [23. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+
+##### Inspiration, Instruction, and Research / Fonts
+
+*   [Taxan KPL 710 Demo Plot](https://www.youtube.com/watch?v=Xms3sZONQjo) - A handheld recording of the Taxan KPL 710 running its demo plot.
+*   [Sweet-P Six Shooter SP-600 Plotter Demonstration](https://www.youtube.com/watch?v=xE9LVOMbKxk) – A recording of the Sweet-P SP-600 running its demo plot.
+*   [Bottle Plotter](https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html) – Blog post about building a cylindrical pen plotter for drawing on wine bottles.
+
+##### Manuals and Ephemera / Manuals
+
+*   [Esterline Angus Spartan X-Y Recorder Instruction Manual](https://archive.org/details/manualsplus_03665) – Rev 1178
+*   [Esterline Angus Spartan X-Y Recorder Instruction Manual (1980)](https://archive.org/details/manualsplus_03659) – Revs 1080, 1178, 0480
+*   [Esterline Angus Model XY530 Recorder Instruction Manual](https://archive.org/details/manualsplus_03657)
+*   [Esterline Angus Model XY575 Recorder Instruction Manual (1976)](https://archive.org/details/manualsplus_03641)
+*   [Fluke 1771A Intelligent Digital Plotter User's Manual (1983)](https://archive.org/details/manualsplus_03096)
+*   [Philips X-Y Flat Bed Recorder PM 8120 (1971)](https://archive.org/details/manualsplus_03520)
+*   [Taxan X-Y Plotter KPL 710 Instruction Manual](https://pzwiki.wdka.nl/mediadesign/File:Taxan_kpl710_x-y_plotter.pdf)
+
+##### Manuals and Ephemera / Ephemera
+
+*   [Sweet-P Plotter Brochure and Price List](https://archive.org/details/bitsavers_enterCompuersonalPlotterprricelistBrochure_4929854) – Four-page color marketing brochure with attached suggested retail price list.
+
+#### [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / E-commerce
+
+*   [EverShop](https://evershop.io/) `⚠` - E-commerce platform with essential commerce features. Modular architecture and fully customizable. ([Demo](https://demo.evershop.io/), [Source Code (⭐3.2k)](https://github.com/evershopcommerce/evershop)) `GPL-3.0` `Docker/Nodejs`
+
+#### [25. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+
+##### Global Connectivity Indexes
+
+*   Portulans Institute - [Network Readiness Index](https://networkreadinessindex.org/) - ([2023](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2023.pdf)) ([2022](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2022.pdf)) ([2021](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2021.pdf)) ([2020](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf)) ([2019](https://networkreadinessindex.org/2019/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf)) Network Readiness Index covering 121 economies from Portulans Institute
+*   [Speedtest Global Index](https://www.speedtest.net/global-index) - (2022) Index of mobile and fixed broadband speeds from around the world on a monthly basis.
+*   cable.co.uk's Worldwide Broadband Price Comparison - ([2023](https://www.cable.co.uk/mobiles/worldwide-data-pricing/2023/worldwide_mobile_data_pricing_data.xlsx)) ([2022](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)) ([2019](https://www.cable.co.uk/broadband/speed/worldwide-speed-league/)) ([2018](https://www.cable.co.uk/broadband/pricing/worldwide-comparison/))  Index of broadband costs around the world based on fixed line/wireless access.
+
+##### Connectivity Maps
+
+*   Telegeography Annual Submarine Cable Update - ([2024](https://submarine-cable-map-2024.telegeography.com/)) ([2023](https://submarine-cable-map-2023.telegeography.com/)) ([2022](http://submarine-cable-map-2022.telegeography.com/)) ([2021](http://submarine-cable-map-2021.telegeography.com/)) ([2020](http://submarine-cable-map-2020.telegeography.com/))  ([2019](http://submarine-cable-map-2019.telegeography.com/)) ([2018](http://submarine-cable-map-2018.telegeography.com/))
+
+##### Periodic Global Connectivity Reports
+
+*   We Are Social ([2024](https://wearesocial.com/ca-en/blog/2024/01/digital-2024/)) ([2023](https://wearesocial.com/ca-en/blog/2023/01/digital-2023/)) ([2022](https://wearesocial.com/uk/blog/2022/01/digital-2022-another-year-of-bumper-growth-2/)) ([2021](https://wearesocial.com/uk/blog/2021/01/digital-2021-uk/)) Annual report by Hootsuite on internet and social media adoption.
+
+##### Regional Connectivity Reports and Data
+
+*   GSMA Mobile Economy - Middle East & North Africa ([2023](https://www.gsma.com/mobileeconomy/wp-content/uploads/2023/12/051223-Mobile-Economy-Middle-East-and-North-Africa-2023.pdf)) ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/05/GSMA_MENA_ME2022_R_WebSingles.pdf))
+*   GSMA Mobile Economy - Sub-Saharan Africa ([2023](https://www.gsma.com/mobileeconomy/wp-content/uploads/2023/10/20231017-GSMA-Mobile-Economy-Sub-Saharan-Africa-report.pdf)) ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/10/The-Mobile-Economy-Sub-Saharan-Africa-2022.pdf))([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/09/GSMA_ME_SSA_2021_English_Web_Singles.pdf)) ([2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/09/GSMA_MobileEconomy2020_SSA_Eng.pdf)) ([2018](https://policy.communitynetworks.group/_media/gsma_mobile_economy-ssa_2018.pdf))
+*   African Telecommunications Infrastructure Development @manypossibilities.net - [2014-2023](https://manypossibilities.net/series/africa-telecom-infrastructure/)
+
+##### Other sources
+
+*   [Internet Resilience Index (IRI)](https://pulse.internetsociety.org/resilience)- Developed by the Internet Society, the IRI monitors select, weighted indicators to measure Internet resilience
+*   [M-Lab Global Network Diagnostic Tool](https://datastudio.google.com/s/r6ZnlTmHfwE) - M-Lab is an open, verifiable measurement platform for global network performance.
+*   [USAID Digital Ecosystem Country Assessments](https://www.usaid.gov/digital-strategy/implementation-tracks/track1-adopt-ecosystem/digital-ecosystem-country-assessments) - [Ghana 2024](https://www.usaid.gov/sites/default/files/2024-03/USAID_DECA_Ghana.pdf) [Tanzania 2023](https://www.usaid.gov/sites/default/files/2023-05/Tanzania%20DECA%20Report.pdf) [Mali 2023](https://www.usaid.gov/sites/default/files/2023-05/Mali%20DECA_English.pdf) [Zambia 2022](https://www.usaid.gov/sites/default/files/2022-12/USAID_Zambia_DECA.pdf) [Bangladesh 2023](https://www.usaid.gov/sites/default/files/2023-06/USAID_Bangladesh_DECA_1.pdf) [Nepal 2022](https://www.usaid.gov/sites/default/files/2022-05/USAID_Nepal_Digital_Ecosystem_Country_Assessment_FINAL.pdf) [Libya 2022](https://www.usaid.gov/sites/default/files/2022-12/USAID_Libya_DECA.pdf) See website for others.
+
+#### [26. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+##### C, C++
+
+*   [bitcoin-core-rpc](https://codeberg.org/kilianmh/bitcoin-core-rpc/) - a (hopefully) complete Bitcoin Core RPC client. [AGPL-3.0+](https://directory.fsf.org/wiki/License:AGPL-3.0)
+
+##### Advanced
+
+*   [SBCL internals](https://simonsafar.com/2020/sbcl/)
+*   [sbcl-wiki (⭐54)](https://github.com/guicho271828/sbcl-wiki/wiki) - an open wiki to document SBCL's internals.
+
+##### Lem / Third-party APIs
+
+*   🚀 [Lem on the cloud](https://www.youtube.com/watch?v=IMN7feOQOak) (video presentation)
+    *   "Rooms is a product that runs Lem, a text editor created in Common Lisp, in the Cloud and can be used by multiple users."
+    *   NEW as of April, 2024.
+
+#### [27. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+
+##### Tools & Software / Replay
+
+*   [PYWB (⭐1.3k)](https://github.com/webrecorder/pywb) - A Python 3 implementation of web archival replay tools, sometimes also known as 'Wayback Machine'. *(Stable)*
+*   [ReplayWeb.page](https://replayweb.page/) - A browser-based, fully client-side replay engine for both local and remote WARC & WACZ files. *(Stable)*
+
+##### Web Archiving Service Providers / Self-hostable, Open Source
+
+*   [Browsertrix](https://browsertrix.com/) - From [Webrecorder](https://webrecorder.net/), source available at [https://github.com/webrecorder/browsertrix (⭐120)](https://github.com/webrecorder/browsertrix).
+
+#### [28. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+
+##### Web server Modules / Meetups
+
+*   [imteekay/web-performance-research (⭐711)](https://github.com/imteekay/web-performance-research) - Research in Web Performance
+
+#### [29. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+##### Resources / Tutorials
+
+*   [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
+*   [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
+
+##### Components & Libraries / UI Layout
+
+*   [vue-stack-grid (⭐1)](https://github.com/chiribuc/vue-stack-grid) - A Vue 3 component designed to make creating dynamic, responsive grid layouts easy and efficient.
+
+#### [30. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+
+##### UI Libraries
+
+*   [daisyUI](https://daisyui.com/) - The most popular component library for Tailwind CSS - `daisyUI` adds component class names to Tailwind CSS so you can make beautiful websites faster than ever.
+
+#### [31. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+##### Embeddings and Semantic Search / Prompt Engineering for Text-to-image
+
+*   [The Hidden Life of Embeddings: Linus Lee - YouTube](https://www.youtube.com/watch?v=YvobVu1l7GI)
+
+##### AI and Education / Deforum
+
+*   [Teaching AI to Teach Us: A New Era of Personalized Education](https://twitter.com/IntuitMachine/status/1783079852578377788)
+
+#### [32. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+
+##### Web / Messaging
+
+*   [ws-zig/ws-server (⭐6)](https://github.com/ws-zig/ws-server) - A WebSocket server implementation.
+
+#### [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### (requires Neovim 0.5)
+
+*   [junnplus/lsp-setup.nvim (⭐217)](https://github.com/junnplus/lsp-setup.nvim) - A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
+
+##### Programming Languages Support / Diagnostics
+
+*   [jim-at-jibba/micropython.nvim (⭐1)](https://github.com/jim-at-jibba/micropython.nvim) - Enhances the development experience for developers using Micro-python for IoT and maker projects.
+
+##### Web Development / Diagnostics
+
+*   [rest-nvim/rest.nvim (⭐1.3k)](https://github.com/rest-nvim/rest.nvim) - A fast Neovim HTTP client written in Lua.
+
+##### Markdown and LaTeX / Diagnostics
+
+*   [nfrid/markdown-togglecheck (⭐17)](https://github.com/nfrid/markdown-togglecheck) - Simple Neovim plugin for toggling check boxes using Treesitter.
+
+##### Search / Diagnostics
+
+*   [nvim-pack/nvim-spectre (⭐1.8k)](https://github.com/nvim-pack/nvim-spectre) - Search and replace panel.
+
+##### File Explorer / Diagnostics
+
+*   [nvim-tree/nvim-tree.lua (⭐6.5k)](https://github.com/nvim-tree/nvim-tree.lua) - A simple and fast file explorer tree.
+
+##### Project / Diagnostics
+
+*   [GnikDroy/projections.nvim (⭐219)](https://github.com/GnikDroy/projections.nvim) - Tiny project + session manager.
+
+##### Color / Diagnostics
+
+*   [xiyaowong/transparent.nvim (⭐699)](https://github.com/xiyaowong/transparent.nvim) - Make your Neovim transparent.
+
+##### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [Abstract-IDE/Abstract-cs (⭐70)](https://github.com/Abstract-IDE/Abstract-cs) - Colorscheme written in Lua, specially made for roshnivim with Tree-sitter support.
+*   [comfysage/evergarden (⭐50)](https://github.com/comfysage/evergarden) - A comfy Neovim colorscheme for cozy morning coding.
+*   [jim-at-jibba/ariake.nvim (⭐1)](https://github.com/jim-at-jibba/ariake.nvim) - A port of the great Atom theme. Beautiful, dark colour scheme.
+*   [RRethy/base16-nvim (⭐462)](https://github.com/RRethy/base16-nvim) - Neovim plugin for building base16 colorschemes. Includes support for Treesitter and LSP highlight groups.
+*   [niyabits/calvera-dark.nvim (⭐142)](https://github.com/niyabits/calvera-dark.nvim) - A port of [VSCode Calvara Dark (⭐12)](https://github.com/saurabhdaware/vscode-calvera-dark) Theme to Neovim with Tree-sitter and many other plugins support.
+*   [Everblush/nvim (⭐213)](https://github.com/Everblush/nvim) - A dark, vibrant and beautiful colorscheme written in Lua.
+*   [Yazeed1s/minimal.nvim (⭐163)](https://github.com/Yazeed1s/minimal.nvim) - Two tree-sitter supported colorschemes that are inspired by base16-tomorrow-night and monokai-pro.
+*   [mellow-theme/mellow.nvim (⭐209)](https://github.com/mellow-theme/mellow.nvim) - A soothing dark color scheme with tree-sitter support.
+*   [Yazeed1s/oh-lucy.nvim (⭐182)](https://github.com/Yazeed1s/oh-lucy.nvim) - Two tree-sitter supported colorschemes, inspired by oh-lucy in vscode.
+*   [maxmx03/fluoromachine.nvim (⭐162)](https://github.com/maxmx03/fluoromachine.nvim) - Synthwave x Fluoromachine port.
+*   [uncleTen276/dark\_flat.nvim (⭐35)](https://github.com/uncleTen276/dark_flat.nvim) - A Neovim colorscheme written in Lua ported from Dark Flat iTerm2 theme, with LSP and Tree-sitter support.
+*   [uloco/bluloco.nvim (⭐229)](https://github.com/uloco/bluloco.nvim) - A dark and earthy colorscheme supporting Tree-sitter and LSP.
+
+##### Colorscheme Creation / Diagnostics
+
+*   [ThemerCorp/themer.lua (⭐255)](https://github.com/ThemerCorp/themer.lua) - A simple highlighter plugin for neovim. It has a huge collection of colorschemes. It also has ability to create colorschemes for Vim/Neovim and other supported apps (such as kitty and alacritty).
+
+##### Statusline / Diagnostics
+
+*   [Zeioth/heirline-components.nvim (⭐54)](https://github.com/Zeioth/heirline-components.nvim) - 30+ Heirline.nvim components you can use out of the box to create your perfect user interface.
+*   [mikesmithgh/git-prompt-string-lualine.nvim (⭐10)](https://github.com/mikesmithgh/git-prompt-string-lualine.nvim) - Add git-prompt-string to your statusline.
+
+##### Icon / Diagnostics
+
+*   [nvim-tree/nvim-web-devicons (⭐1.8k)](https://github.com/nvim-tree/nvim-web-devicons) - A Lua fork of [vim-devicons (⭐5.5k)](https://github.com/ryanoasis/vim-devicons).
+
+##### Media / Diagnostics
+
+*   [HakonHarnes/img-clip.nvim (⭐352)](https://github.com/HakonHarnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
+
+##### Note Taking / Diagnostics
+
+*   [nfrid/due.nvim (⭐102)](https://github.com/nfrid/due.nvim) - Displays due for a date string as a virtual text.
+*   [zk-org/zk-nvim (⭐445)](https://github.com/zk-org/zk-nvim) - Neovim extension for zk, a plain text note-taking assistant.
+*   [Ostralyan/scribe.nvim (⭐24)](https://github.com/Ostralyan/scribe.nvim) - Take notes, easily.
+*   [hadronized/mind.nvim (⭐703)](https://github.com/hadronized/mind.nvim) - The power of trees at your fingertips.
+
+##### Debugging / Diagnostics
+
+*   [pocco81/dap-buddy.nvim (⭐394)](https://github.com/pocco81/dap-buddy.nvim) - Manage several debuggers for nvim-dap.
+
+##### Deployment / Diagnostics
+
+*   [sachinsenal0x64/hot.nvim (⭐3)](https://github.com/sachinsenal0x64/hot.nvim) - A hot reloader that works with any programming language.
+
+##### Code Runner / Diagnostics
+
+*   [Vigemus/iron.nvim (⭐895)](https://github.com/Vigemus/iron.nvim) - Interactive REPLs of over 30 languages embedded.
+
+##### Neovim Lua Development / Diagnostics
+
+*   [nfrid/treesitter-utils (⭐6)](https://github.com/nfrid/treesitter-utils) - Some useful Treesitter methods.
+
+##### Scrolling / Diagnostics
+
+*   [nkakouros-original/scrollofffraction.nvim (⭐6)](https://github.com/nkakouros-original/scrollofffraction.nvim) - Scrolloff as a fraction of the window height.
+
+##### Editing Support / Diagnostics
+
+*   [pocco81/true-zen.nvim (⭐927)](https://github.com/pocco81/true-zen.nvim) - Clean and elegant distraction-free writing.
+*   [pocco81/high-str.nvim (⭐288)](https://github.com/pocco81/high-str.nvim) - Highlight visual selections like in a normal document editor!
+*   [pocco81/auto-save.nvim (⭐578)](https://github.com/pocco81/auto-save.nvim) - Save your work before the world collapses or you type :qa!
+*   [andersevenrud/nvim\_context\_vt (⭐352)](https://github.com/andersevenrud/nvim_context_vt) - Shows virtual text of the current context.
+*   [CKolkey/ts-node-action (⭐343)](https://github.com/CKolkey/ts-node-action) - A framework for executing functional transformations on Tree-sitter nodes - Has a lot of built-in actions for transforming text.
+
+##### Indent / Diagnostics
+
+*   [Mr-LLLLL/cool-chunk.nvim (⭐4)](https://github.com/Mr-LLLLL/cool-chunk.nvim) - Simpler and faster chunking with animations.
+
+##### Split and Window / Diagnostics
+
+*   [nvim-focus/focus.nvim (⭐646)](https://github.com/nvim-focus/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows written in Lua! Vim splits on steroids.
+*   [altermo/nwm (⭐257)](https://github.com/altermo/nwm) - X11 window manager.
+
+#### [34. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Community
 
 *   [Top rated Angular stackoverflow questions Dashboard](https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
+*   [angular-logos (⭐77)](https://github.com/maartentibau/angular-logos) - Repo is dedicated to collecting all the different kinds of Angular badges and logos.
+*   [madewithangular (⭐79)](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.
 
 ##### Angular Team on Twitter
 
@@ -221,6 +534,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [modern-angular](https://modernangular.com/) - Josh Morony's website is a collection of content centered around creating modern Angular applications using the latest Angular features and concepts.
 *   [angularexperts](https://angularexperts.io/blog) - Learn all about Angular, NgRx, RxJs & NX and advance your skills with guides, in-depth content and actionable tips and tricks!
 *   [angular-university](https://blog.angular-university.io/) - Learn and Keep Up with the Angular Ecosystem
+*   [simplified courses](https://blog.simplified.courses/) - Blog articles written with love, just for you!
 *   [justangular](https://justangular.com/) - Shares the newest and most important updates about Angular, along with useful tips and tricks.
 *   [Netanel Basal](https://medium.com/@netbasal)
 *   [Tim Deschryver](https://timdeschryver.dev/)
@@ -262,22 +576,40 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [YouTube](https://www.youtube.com/watch?v=emnwsVy8wRs) - Angular Unit Testing Made Easy
 *   [Tim Deschryver Blog](https://timdeschryver.dev/blog/testing-an-ngrx-project) - Testing an NgRx project
 
+##### Builders / Testing
+
+*   [Webpack](https://webpack.js.org)
+*   [ESBuild](https://esbuild.github.io/)
+*   [Nx (⭐22k)](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
+*   [Angular Builders (⭐1.1k)](https://github.com/just-jeb/angular-builders) - This repo consolidates all the community builders (ES Build, Webpack, Jest, Bazel, and Timestamp) for the Angular build facade.
+*   [Jest Builder (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/jest) - Jest builder for Angular build facade
+*   [Custom Webpack (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack) - custom webpack
+*   [Custom ESBuild (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-esbuild) - Allows custom esbuild configuration.
+*   [Bazel (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/bazel) - Provides an Angular CLI Builder, which can execute Bazel when triggered by ng build, ng test, etc.
+*   [Timestamp (⭐1.1k)](https://github.com/just-jeb/angular-builders/tree/master/packages/timestamp) - This is explained in this [article](https://medium.com/angular-in-depth/angular-cli-under-the-hood-builders-demystified-v2-e73ee0f2d811).
+*   [ngx-build-plus (⭐1.2k)](https://github.com/manfredsteyer/ngx-build-plus) - Extend the Angular CLI's default build behavior without ejecting, e. g. for Angular Elements.
+*   [ng-process-env (⭐18)](https://github.com/danduh/ng-process-env) - Angular schematics and builder to retrieve values from System Environment (OS) variables and update relevant `environment.ts` file.
+*   [ngx-electronify (⭐97)](https://github.com/bampakoa/ngx-electronify) - Angular CLI builder that runs your application in the desktop using Electron.
+*   [dotenv-run (⭐224)](https://github.com/chihab/dotenv-run) - Seamlessly load environment variables. Supports cli, esbuild, rollup, vite, webpack, angular, ESM and Monorepos.
+*   [ng-packagr (⭐1.8k)](https://github.com/ng-packagr/ng-packagr) - Compile and package Angular libraries in Angular Package Format (APF).
+
 ##### YouTube Channels / Testing
 
-*   [YouTube](https://www.youtube.com/@procademy) - Procademy
-*   [YouTube](https://www.youtube.com/@MonsterlessonsAcademy) - Monsterlessons Academy
-*   [YouTube](https://www.youtube.com/@JoshuaMorony) - Joshua Morony
-*   [YouTube](https://www.youtube.com/@NihiraTechiees) - Nihira Techiees
-*   [YouTube](https://www.youtube.com/@AngularUniversity) - Angular University
-*   [YouTube](https://www.youtube.com/@RainerHahnekamp) - Rainer Hahnekamp
-*   [YouTube](https://www.youtube.com/@CodeShotsWithProfanis) - Code Shots With Profanis
-*   [YouTube](https://www.youtube.com/@deborah_kurata) - Deborah Kurata
-*   [YouTube](https://www.youtube.com/@BrandonRobertsDev) - BrandonRobertsDev
-*   [YouTube](https://www.youtube.com/@DecodedFrontend) - Decoded Frontend
-*   [YouTube](https://www.youtube.com/@galaxies_dev) - Galaxies\_dev
+*   [Procademy](https://www.youtube.com/@procademy)
+*   [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy)
+*   [Joshua Morony](https://www.youtube.com/@JoshuaMorony)
+*   [Nihira Techiees](https://www.youtube.com/@NihiraTechiees)
+*   [Angular University](https://www.youtube.com/@AngularUniversity)
+*   [Rainer Hahnekamp](https://www.youtube.com/@RainerHahnekamp)
+*   [Code Shots With Profanis](https://www.youtube.com/@CodeShotsWithProfanis)
+*   [Deborah Kurata](https://www.youtube.com/@deborah_kurata)
+*   [BrandonRobertsDev](https://www.youtube.com/@BrandonRobertsDev)
+*   [Decoded Frontend](https://www.youtube.com/@DecodedFrontend)
+*   [Galaxies\_dev](https://www.youtube.com/@galaxies_dev)
 
 ##### Online Training / Testing
 
+*   [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
 *   [Angular Start](https://angularstart.com/) - Learn to build professional-grade Angular v17 applications using new features with modern best practices
 *   [Angular Training](https://www.angulartraining.com/) - The Angular Coach
     You Need
@@ -467,6 +799,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [ng2-pdfjs-viewer (⭐220)](https://github.com/intbot/ng2-pdfjs-viewer) - An Angular component for PDFJS and ViewerJS (Supports all versions of Angular).
 *   [ngx-json-viewer (⭐171)](https://github.com/hivivo/ngx-json-viewer) - JSON formatter and viewer in HTML for Angular.
 
+##### RxJS / Tailwind CSS Based
+
+*   [rxjs](https://rxjs.dev/) - Reactive Extensions Library for JavaScript
+*   [learn-rxjs (⭐3.6k)](https://github.com/btroncone/learn-rxjs) - Clear examples, explanations, and resources for RxJS
+*   [rxjs-course (⭐370)](https://github.com/angular-university/rxjs-course) - RxJs course from Angular University
+*   [redux-observable (⭐7.8k)](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".
+*   [rxjs-challenge (⭐559)](https://github.com/AngularWave/rxjs-challenge) - A set of little RxJS puzzles to practice your Observable skills.
+
 ##### TypeScript / Tailwind CSS Based
 
 *   [typehero (⭐5.2k)](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers.
@@ -475,7 +815,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Sheriff (⭐143)](https://github.com/softarc-consulting/sheriff) - Lightweight Modularity for TypeScript Projects
 *   [Total Typescript Book (⭐1.5k)](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book.
 *   [ts-essentials (⭐3.6k)](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place
-*   [trpc (⭐32k)](https://github.com/trpc/trpc) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+*   [trpc (⭐33k)](https://github.com/trpc/trpc) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 *   [quicktype (⭐11k)](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL.
 *   [ts-pattern (⭐11k)](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 *   [ngx-mf (⭐33)](https://github.com/iamguid/ngx-mf) - Bind your model types to angular FormGroup type
@@ -532,214 +872,11 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [ng update](https://angular.dev/cli/update) - Use the CLI to update your project or try new Angular features by adding the `--next` flag.
 *   [migrations](https://angular.dev/reference/migrations) - Angular offers schematics to help update your project for you. You can convert your project to standalone components, the new control flow syntax, and more by using one of the Angular built-in schematics.
 
-#### [21. Awesome Yew](/content/jetli/awesome-yew/README.md)
+#### [35. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-##### Projects
+##### Web Hosting
 
-*   [demo\_web\_zip\_wasm (⭐3)](https://github.com/MAE664128/demo_web_zip_wasm) - A simple example program for creating ZIP archives running in the browser using WebAssembly, [Live Demo](https://mae664128.github.io/demo_web_zip_wasm/).
-
-#### [22. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-##### Projects / API Management
-
-*   [Gravitee.io API Management (⭐135) (⭐135)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐805) (⭐805)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
-
-##### Projects / API Design
-
-*   [OpenAPI Diff (⭐750) (⭐750)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [Zally (⭐875) (⭐875)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
-
-##### Projects / API Documentation
-
-*   [DapperDox (⭐393) (⭐393)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
-*   [OpenAPI Explorer (⭐284) (⭐284)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
-*   [Stoplight Elements (⭐1.5k) (⭐1.5k)](https://github.com/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown. Use these UI components to create API reference documentation, or more complete documentation with Markdown articles covering tutorials, how-to guides, etc.
-
-##### Projects / API Testing
-
-*   MQ clients
-    *   [JMSToolBox (⭐191) (⭐191)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
-    *   [kcat (⭐5.2k) (⭐5.2k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
-    *   [MQTT Explorer (⭐2.7k) (⭐2.8k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
-    *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
-    *   [Service Bus Explorer (⭐1.9k) (⭐1.9k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
-
-##### Projects / Data Mapping Solution
-
-*   [AltasMap (⭐181) (⭐181)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
-*   [JOLT (⭐1.5k) (⭐1.5k)](https://github.com/bazaarvoice/jolt) - A Java-based JSON-to-JSON transformation library that uses a JSON document as the "specification" for the transform. JOLT provides a simple way for software engineers to transform JSON data.
-*   [JSLT (⭐605) (⭐605)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
-
-##### Projects / ESB
-
-*   [WSO2 Enterprise Integrator (⭐364) (⭐364)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
-
-##### Projects / Messaging
-
-*   [Centrifugo (⭐7.9k) (⭐7.9k)](https://github.com/centrifugal/centrifugo) - An open-source, scalable real-time messaging server that allows you to build interactive applications where events are delivered to online users with minimal delay.
-
-##### Projects / Workflow engine
-
-*   [Activiti (⭐9.9k) (⭐9.9k)](https://github.com/Activiti/Activiti) - A lightweight and Java-centric open-source engine for executing BPMN (Business Process Model and Notation) workflows.
-*   [Azkaban (⭐4.4k) (⭐4.4k)](https://github.com/azkaban/azkaban) - A distributed workflow manager that helps solve the problem of Hadoop job dependencies, making it easier to schedule and manage workflows in large-scale data processing environments.
-*   [Bonita (⭐146) (⭐146)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
-*   [Cadence (⭐7.8k) (⭐7.8k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
-*   [Elsa Core (⭐5.8k) (⭐5.8k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
-*   [StackStorm (⭐5.9k) (⭐5.9k)](https://github.com/StackStorm/st2) - A robust automation engine that provides sensors, triggers, rules, workflows, and actions to help you automate and orchestrate complex workflows and applications.
-*   [Temporal (⭐9.8k) (⭐9.8k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
-
-##### Resources / Certifications
-
-*   [Apollo Graph Developer - Associate Certification](https://www.apollographql.com/tutorials/exams/apollo-graph-associate) - Developers who obtain this certification possess a solid foundational knowledge of GraphQL and the Apollo tool suite to design a schema, run an Apollo Server 4, and perform queries with Apollo Client 3 on the frontend.
-*   [Apollo Graph Developer - Professional Certification](https://www.apollographql.com/tutorials/certifications/apollo-graph-professional) - Developers who obtain this certification demonstrate strong familiarity with Apollo Federation concepts. They can apply those concepts to build a federated supergraph or move an existing monolithic graph to federation.
-*   [SAP Certified Associate - Integration Developer](https://learning.sap.com/certifications/sap-certified-associate-integration-developer) - Validates that the candidate possesses the fundamental and core knowledge required of the SAP Integration Suite profile.
-
-##### Resources / Data Formats
-
-*   [NDJSON (⭐634) (⭐634)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-*   [YAML (⭐314) (⭐314)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
-
-##### Resources / Structure and Validation
-
-*   [JSON Schema (⭐3.2k) (⭐3.2k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
-
-#### [23. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
-
-##### Tools / Low-code
-
-*   [FlowTest (⭐103)](https://github.com/FlowTestAI/FlowTest): GenAI powered OpenSource IDE for API first workflows ![GitHub Repo stars](https://img.shields.io/github/stars/FlowTestAI/FlowTest?style=social)
-
-#### [24. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
-
-##### Inspiration, Instruction, and Research / Fonts
-
-*   [Taxan KPL 710 Demo Plot](https://www.youtube.com/watch?v=Xms3sZONQjo) - A handheld recording of the Taxan KPL 710 running its demo plot.
-*   [Sweet-P Six Shooter SP-600 Plotter Demonstration](https://www.youtube.com/watch?v=xE9LVOMbKxk) – A recording of the Sweet-P SP-600 running its demo plot.
-*   [Bottle Plotter](https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html) – Blog post about building a cylindrical pen plotter for drawing on wine bottles.
-
-##### Manuals and Ephemera / Manuals
-
-*   [Esterline Angus Spartan X-Y Recorder Instruction Manual](https://archive.org/details/manualsplus_03665) – Rev 1178
-*   [Esterline Angus Spartan X-Y Recorder Instruction Manual (1980)](https://archive.org/details/manualsplus_03659) – Revs 1080, 1178, 0480
-*   [Esterline Angus Model XY530 Recorder Instruction Manual](https://archive.org/details/manualsplus_03657)
-*   [Esterline Angus Model XY575 Recorder Instruction Manual (1976)](https://archive.org/details/manualsplus_03641)
-*   [Fluke 1771A Intelligent Digital Plotter User's Manual (1983)](https://archive.org/details/manualsplus_03096)
-*   [Philips X-Y Flat Bed Recorder PM 8120 (1971)](https://archive.org/details/manualsplus_03520)
-*   [Taxan X-Y Plotter KPL 710 Instruction Manual](https://pzwiki.wdka.nl/mediadesign/File:Taxan_kpl710_x-y_plotter.pdf)
-
-##### Manuals and Ephemera / Ephemera
-
-*   [Sweet-P Plotter Brochure and Price List](https://archive.org/details/bitsavers_enterCompuersonalPlotterprricelistBrochure_4929854) – Four-page color marketing brochure with attached suggested retail price list.
-
-#### [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-##### Software / E-commerce
-
-*   [EverShop](https://evershop.io/) `⚠` - E-commerce platform with essential commerce features. Modular architecture and fully customizable. ([Demo](https://demo.evershop.io/), [Source Code (⭐3.2k)](https://github.com/evershopcommerce/evershop)) `GPL-3.0` `Docker/Nodejs`
-
-#### [26. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
-
-##### Global Connectivity Indexes
-
-*   Portulans Institute - [Network Readiness Index](https://networkreadinessindex.org/) - ([2023](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2023.pdf)) ([2022](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2022.pdf)) ([2021](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2021.pdf)) ([2020](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf)) ([2019](https://networkreadinessindex.org/2019/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf)) Network Readiness Index covering 121 economies from Portulans Institute
-*   [Speedtest Global Index](https://www.speedtest.net/global-index) - (2022) Index of mobile and fixed broadband speeds from around the world on a monthly basis.
-*   cable.co.uk's Worldwide Broadband Price Comparison - ([2023](https://www.cable.co.uk/mobiles/worldwide-data-pricing/2023/worldwide_mobile_data_pricing_data.xlsx)) ([2022](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)) ([2019](https://www.cable.co.uk/broadband/speed/worldwide-speed-league/)) ([2018](https://www.cable.co.uk/broadband/pricing/worldwide-comparison/))  Index of broadband costs around the world based on fixed line/wireless access.
-
-##### Connectivity Maps
-
-*   Telegeography Annual Submarine Cable Update - ([2024](https://submarine-cable-map-2024.telegeography.com/)) ([2023](https://submarine-cable-map-2023.telegeography.com/)) ([2022](http://submarine-cable-map-2022.telegeography.com/)) ([2021](http://submarine-cable-map-2021.telegeography.com/)) ([2020](http://submarine-cable-map-2020.telegeography.com/))  ([2019](http://submarine-cable-map-2019.telegeography.com/)) ([2018](http://submarine-cable-map-2018.telegeography.com/))
-
-##### Periodic Global Connectivity Reports
-
-*   We Are Social ([2024](https://wearesocial.com/ca-en/blog/2024/01/digital-2024/)) ([2023](https://wearesocial.com/ca-en/blog/2023/01/digital-2023/)) ([2022](https://wearesocial.com/uk/blog/2022/01/digital-2022-another-year-of-bumper-growth-2/)) ([2021](https://wearesocial.com/uk/blog/2021/01/digital-2021-uk/)) Annual report by Hootsuite on internet and social media adoption.
-
-##### Regional Connectivity Reports and Data
-
-*   GSMA Mobile Economy - Middle East & North Africa ([2023](https://www.gsma.com/mobileeconomy/wp-content/uploads/2023/12/051223-Mobile-Economy-Middle-East-and-North-Africa-2023.pdf)) ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/05/GSMA_MENA_ME2022_R_WebSingles.pdf))
-*   GSMA Mobile Economy - Sub-Saharan Africa ([2023](https://www.gsma.com/mobileeconomy/wp-content/uploads/2023/10/20231017-GSMA-Mobile-Economy-Sub-Saharan-Africa-report.pdf)) ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/10/The-Mobile-Economy-Sub-Saharan-Africa-2022.pdf))([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/09/GSMA_ME_SSA_2021_English_Web_Singles.pdf)) ([2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/09/GSMA_MobileEconomy2020_SSA_Eng.pdf)) ([2018](https://policy.communitynetworks.group/_media/gsma_mobile_economy-ssa_2018.pdf))
-*   African Telecommunications Infrastructure Development @manypossibilities.net - [2014-2023](https://manypossibilities.net/series/africa-telecom-infrastructure/)
-
-##### Other sources
-
-*   [Internet Resilience Index (IRI)](https://pulse.internetsociety.org/resilience)- Developed by the Internet Society, the IRI monitors select, weighted indicators to measure Internet resilience
-*   [M-Lab Global Network Diagnostic Tool](https://datastudio.google.com/s/r6ZnlTmHfwE) - M-Lab is an open, verifiable measurement platform for global network performance.
-*   [USAID Digital Ecosystem Country Assessments](https://www.usaid.gov/digital-strategy/implementation-tracks/track1-adopt-ecosystem/digital-ecosystem-country-assessments) - [Ghana 2024](https://www.usaid.gov/sites/default/files/2024-03/USAID_DECA_Ghana.pdf) [Tanzania 2023](https://www.usaid.gov/sites/default/files/2023-05/Tanzania%20DECA%20Report.pdf) [Mali 2023](https://www.usaid.gov/sites/default/files/2023-05/Mali%20DECA_English.pdf) [Zambia 2022](https://www.usaid.gov/sites/default/files/2022-12/USAID_Zambia_DECA.pdf) [Bangladesh 2023](https://www.usaid.gov/sites/default/files/2023-06/USAID_Bangladesh_DECA_1.pdf) [Nepal 2022](https://www.usaid.gov/sites/default/files/2022-05/USAID_Nepal_Digital_Ecosystem_Country_Assessment_FINAL.pdf) [Libya 2022](https://www.usaid.gov/sites/default/files/2022-12/USAID_Libya_DECA.pdf) See website for others.
-
-#### [27. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
-
-##### C, C++
-
-*   [bitcoin-core-rpc](https://codeberg.org/kilianmh/bitcoin-core-rpc/) - a (hopefully) complete Bitcoin Core RPC client. [AGPL-3.0+](https://directory.fsf.org/wiki/License:AGPL-3.0)
-
-##### Advanced
-
-*   [SBCL internals](https://simonsafar.com/2020/sbcl/)
-*   [sbcl-wiki (⭐54)](https://github.com/guicho271828/sbcl-wiki/wiki) - an open wiki to document SBCL's internals.
-
-##### Lem / Third-party APIs
-
-*   🚀 [Lem on the cloud](https://www.youtube.com/watch?v=IMN7feOQOak) (video presentation)
-    *   "Rooms is a product that runs Lem, a text editor created in Common Lisp, in the Cloud and can be used by multiple users."
-    *   NEW as of April, 2024.
-
-#### [28. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
-
-##### Tools & Software / Replay
-
-*   [PYWB (⭐1.3k)](https://github.com/webrecorder/pywb) - A Python 3 implementation of web archival replay tools, sometimes also known as 'Wayback Machine'. *(Stable)*
-*   [ReplayWeb.page](https://replayweb.page/) - A browser-based, fully client-side replay engine for both local and remote WARC & WACZ files. *(Stable)*
-
-##### Web Archiving Service Providers / Self-hostable, Open Source
-
-*   [Browsertrix](https://browsertrix.com/) - From [Webrecorder](https://webrecorder.net/), source available at [https://github.com/webrecorder/browsertrix (⭐120)](https://github.com/webrecorder/browsertrix).
-
-#### [29. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Programming Languages Support / Diagnostics
-
-*   [jim-at-jibba/micropython.nvim (⭐1)](https://github.com/jim-at-jibba/micropython.nvim) - Enhances the development experience for developers using Micro-python for IoT and maker projects.
-
-##### Tree-sitter Supported Colorscheme / Diagnostics
-
-*   [jim-at-jibba/ariake.nvim (⭐1)](https://github.com/jim-at-jibba/ariake.nvim) - A port of the great Atom theme. Beautiful, dark colour scheme.
-
-##### Statusline / Diagnostics
-
-*   [mikesmithgh/git-prompt-string-lualine.nvim (⭐10)](https://github.com/mikesmithgh/git-prompt-string-lualine.nvim) - Add git-prompt-string to your statusline.
-
-##### Deployment / Diagnostics
-
-*   [sachinsenal0x64/hot.nvim (⭐3)](https://github.com/sachinsenal0x64/hot.nvim) - A hot reloader that works with any programming language.
-
-##### Indent / Diagnostics
-
-*   [Mr-LLLLL/cool-chunk.nvim (⭐4)](https://github.com/Mr-LLLLL/cool-chunk.nvim) - Simpler and faster chunking with animations.
-
-#### [30. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
-
-##### Web server Modules / Meetups
-
-*   [imteekay/web-performance-research (⭐711)](https://github.com/imteekay/web-performance-research) - Research in Web Performance
-
-#### [31. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-##### Resources / Tutorials
-
-*   [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
-*   [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
-
-##### Components & Libraries / UI Layout
-
-*   [vue-stack-grid (⭐1)](https://github.com/chiribuc/vue-stack-grid) - A Vue 3 component designed to make creating dynamic, responsive grid layouts easy and efficient.
-
-#### [32. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
-
-##### UI Libraries
-
-*   [daisyUI](https://daisyui.com/) - The most popular component library for Tailwind CSS - `daisyUI` adds component class names to Tailwind CSS so you can make beautiful websites faster than ever.
-
-#### [33. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+*   [Fern](https://buildwithfern.com) - Build and host a Markdown-based documentation site on Fern's free plan. You can even auto-generate an API reference for your site from API definition files. The site is hosted at *yoursite*.docs.buildwithfern.com.
 
 ##### Crash and Exception Handling
 
@@ -749,23 +886,21 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Free Professional Resume Templates & Editor](https://www.overleaf.com/latex/templates/tagged/cv) - Free platform with lots of Resume templates of Experienced Professionals, ready to clone and edit fully and download, ATS optimized.
 
-#### [34. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+##### Storage and Media Processing
 
-##### Embeddings and Semantic Search / Prompt Engineering for Text-to-image
+*   [ImageEngine](https://imageengine.io/) – ImageEngine is an easy to use global image CDN. Sub 60 sec setup. AVIF and JPEGXL support, WordPress-, Magento-, React-, Vue- plugins and more. Claim your free developer account [here](https://imageengine.io/developer-program/).
 
-*   [The Hidden Life of Embeddings: Linus Lee - YouTube](https://www.youtube.com/watch?v=YvobVu1l7GI)
+#### [36. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
-##### AI and Education / Deforum
+##### Websites
 
-*   [Teaching AI to Teach Us: A New Era of Personalized Education](https://twitter.com/IntuitMachine/status/1783079852578377788)
+*   [CodeChef](https://www.codechef.com/roadmap/algorithms) - Learning DSA by practice on Codechef
 
-#### [35. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+#### [37. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-##### Web / Messaging
+##### Domain Specific Language / Design Theory
 
-*   [ws-zig/ws-server (⭐6)](https://github.com/ws-zig/ws-server) - A WebSocket server implementation.
-
-#### [36. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+*   [Domain Specific Languages](https://martinfowler.com/books/dsl.html) - ***Pearson Education***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=3653365103385845410)]. \[[Author's DSL Guide](https://martinfowler.com/dsl.html)]. When carefully selected and used, Domain-Specific Languages (DSLs) may simplify complex code, promote effective communication with customers, improve productivity, and unclog development bottlenecks. In Domain-Specific Languages, noted software development expert Martin Fowler first provides the information software professionals need to decide if and when to utilize DSLs. Then, where DSLs prove suitable, Fowler presents effective techniques for building them, and guides software engineers in choosing the right approaches for their applications.
 
 ##### Science Logology / Democratization of Science
 
@@ -784,7 +919,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 1. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 178K 📝 04&#x2F;23 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 2. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 121K 📝 04&#x2F;24 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-3. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 84K 📝 04&#x2F;24 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+3. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 84K 📝 04&#x2F;26 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 4. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 204K 📝 04&#x2F;15 ](https://github.com/vinta/awesome-python)) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 5. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 71K 📝 04&#x2F;26 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 6. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 43K 📝 04&#x2F;25 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
@@ -795,43 +930,43 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 11. [Awesome Flutter](/content/Solido/awesome-flutter/README.md) - ([Source ⭐ 51K 📝 04&#x2F;18 ](https://github.com/Solido/awesome-flutter)) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 12. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 55K 📝 04&#x2F;17 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 13. [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source ⭐ 24K 📝 04&#x2F;23 ](https://github.com/matteocrippa/awesome-swift)) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
-14. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source ⭐ 63K 📝 04&#x2F;12 ](https://github.com/josephmisiti/awesome-machine-learning)) - A curated list of awesome Machine Learning frameworks, libraries and software.
-15. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 14K 📝 04&#x2F;26 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
-16. [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source ⭐ 62K 📝 04&#x2F;11 ](https://github.com/enaqx/awesome-react)) - A collection of awesome things regarding React ecosystem
-17. [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source ⭐ 56K 📝 04&#x2F;11 ](https://github.com/sindresorhus/awesome-nodejs)) - :zap: Delightful Node.js packages and resources
-18. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 14K 📝 04&#x2F;24 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
-19. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 46K 📝 04&#x2F;11 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
-20. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 13K 📝 04&#x2F;23 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
-21. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 13K 📝 04&#x2F;22 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
-22. [Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md) - ([Source ⭐ 23K 📝 04&#x2F;16 ](https://github.com/kdeldycke/awesome-falsehood)) - 😱 Falsehoods Programmers Believe in
-23. [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source ⭐ 28K 📝 04&#x2F;14 ](https://github.com/lukasz-madon/awesome-remote-job)) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-24. [Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md) - ([Source ⭐ 8.2K 📝 04&#x2F;26 ](https://github.com/davidsonfellipe/awesome-wpo)) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
-25. [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 30K 📝 04&#x2F;12 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-26. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.2K 📝 04&#x2F;24 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
-27. [Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md) - ([Source ⭐ 9.5K 📝 04&#x2F;23 ](https://github.com/dhamaniasad/awesome-postgres)) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
-28. [Awesome Elixir](/content/h4cc/awesome-elixir/README.md) - ([Source ⭐ 12K 📝 04&#x2F;19 ](https://github.com/h4cc/awesome-elixir)) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
-29. [Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md) - ([Source ⭐ 15K 📝 04&#x2F;17 ](https://github.com/ramitsurana/awesome-kubernetes)) - A curated list for awesome kubernetes sources :ship::tada:
-30. [Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md) - ([Source ⭐ 11K 📝 04&#x2F;20 ](https://github.com/rshipp/awesome-malware-analysis)) - Defund the Police.
-31. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 6.6K 📝 04&#x2F;24 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
-32. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K 📝 04&#x2F;19 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
-33. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 319K 📝 03&#x2F;15 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
-34. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 13K 📝 04&#x2F;16 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-35. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 28K 📝 04&#x2F;08 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
-36. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 5.6K 📝 04&#x2F;24 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
-37. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 14K 📝 04&#x2F;14 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
-38. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 12K 📝 04&#x2F;15 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-39. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 18K 📝 04&#x2F;09 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
-40. [Awesome Deno](/content/denolib/awesome-deno/README.md) - ([Source ⭐ 4.1K 📝 04&#x2F;22 ](https://github.com/denolib/awesome-deno)) - Curated list of awesome things related to Deno
-41. [Awesome Microservices](/content/mfornos/awesome-microservices/README.md) - ([Source ⭐ 13K 📝 04&#x2F;10 ](https://github.com/mfornos/awesome-microservices)) - A curated list of Microservice Architecture related principles and technologies.
-42. [GoBooks](/content/dariubs/GoBooks/README.md) - ([Source ⭐ 16K 📝 04&#x2F;07 ](https://github.com/dariubs/GoBooks)) - List of Golang books
-43. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.5K 📝 04&#x2F;25 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
-44. [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 40K 📝 03&#x2F;27 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
-45. [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 2K 📝 04&#x2F;26 ](https://github.com/filipecalegario/awesome-generative-ai)) - A curated list of Generative AI tools, works, models, and references
-46. [Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md) - ([Source ⭐ 16K 📝 04&#x2F;04 ](https://github.com/wilsonfreitas/awesome-quant)) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
-47. [Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md) - ([Source ⭐ 1.8K 📝 04&#x2F;25 ](https://github.com/iipc/awesome-web-archiving)) - An Awesome List for getting started with web archiving
-48. [Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md) - ([Source ⭐ 4.1K 📝 04&#x2F;17 ](https://github.com/dustinspecker/awesome-eslint)) - A list of awesome ESLint plugins, configs, etc.
-49. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 17K 📝 04&#x2F;02 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
-50. [Awesome Electron](/content/sindresorhus/awesome-electron/README.md) - ([Source ⭐ 25K 📝 03&#x2F;29 ](https://github.com/sindresorhus/awesome-electron)) - Useful resources for creating apps with Electron
+14. [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 18K 📝 04&#x2F;26 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
+15. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source ⭐ 63K 📝 04&#x2F;12 ](https://github.com/josephmisiti/awesome-machine-learning)) - A curated list of awesome Machine Learning frameworks, libraries and software.
+16. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 14K 📝 04&#x2F;26 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+17. [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source ⭐ 62K 📝 04&#x2F;11 ](https://github.com/enaqx/awesome-react)) - A collection of awesome things regarding React ecosystem
+18. [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source ⭐ 56K 📝 04&#x2F;11 ](https://github.com/sindresorhus/awesome-nodejs)) - :zap: Delightful Node.js packages and resources
+19. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 14K 📝 04&#x2F;24 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
+20. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 46K 📝 04&#x2F;11 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
+21. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 13K 📝 04&#x2F;23 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
+22. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.2K 📝 04&#x2F;26 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+23. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 13K 📝 04&#x2F;22 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
+24. [Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md) - ([Source ⭐ 23K 📝 04&#x2F;16 ](https://github.com/kdeldycke/awesome-falsehood)) - 😱 Falsehoods Programmers Believe in
+25. [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source ⭐ 28K 📝 04&#x2F;14 ](https://github.com/lukasz-madon/awesome-remote-job)) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+26. [Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md) - ([Source ⭐ 8.2K 📝 04&#x2F;26 ](https://github.com/davidsonfellipe/awesome-wpo)) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
+27. [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 30K 📝 04&#x2F;12 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+28. [Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md) - ([Source ⭐ 9.5K 📝 04&#x2F;23 ](https://github.com/dhamaniasad/awesome-postgres)) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
+29. [Awesome Elixir](/content/h4cc/awesome-elixir/README.md) - ([Source ⭐ 12K 📝 04&#x2F;19 ](https://github.com/h4cc/awesome-elixir)) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
+30. [Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md) - ([Source ⭐ 15K 📝 04&#x2F;17 ](https://github.com/ramitsurana/awesome-kubernetes)) - A curated list for awesome kubernetes sources :ship::tada:
+31. [Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md) - ([Source ⭐ 11K 📝 04&#x2F;20 ](https://github.com/rshipp/awesome-malware-analysis)) - Defund the Police.
+32. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 6.6K 📝 04&#x2F;24 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+33. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K 📝 04&#x2F;19 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
+34. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 319K 📝 03&#x2F;15 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
+35. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 13K 📝 04&#x2F;16 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+36. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 28K 📝 04&#x2F;08 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
+37. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 5.6K 📝 04&#x2F;24 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
+38. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 14K 📝 04&#x2F;14 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
+39. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 12K 📝 04&#x2F;15 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+40. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 18K 📝 04&#x2F;09 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
+41. [Awesome Deno](/content/denolib/awesome-deno/README.md) - ([Source ⭐ 4.1K 📝 04&#x2F;22 ](https://github.com/denolib/awesome-deno)) - Curated list of awesome things related to Deno
+42. [Awesome Microservices](/content/mfornos/awesome-microservices/README.md) - ([Source ⭐ 13K 📝 04&#x2F;10 ](https://github.com/mfornos/awesome-microservices)) - A curated list of Microservice Architecture related principles and technologies.
+43. [GoBooks](/content/dariubs/GoBooks/README.md) - ([Source ⭐ 16K 📝 04&#x2F;07 ](https://github.com/dariubs/GoBooks)) - List of Golang books
+44. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.5K 📝 04&#x2F;25 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+45. [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 40K 📝 03&#x2F;27 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
+46. [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 2K 📝 04&#x2F;26 ](https://github.com/filipecalegario/awesome-generative-ai)) - A curated list of Generative AI tools, works, models, and references
+47. [Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md) - ([Source ⭐ 16K 📝 04&#x2F;04 ](https://github.com/wilsonfreitas/awesome-quant)) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
+48. [Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md) - ([Source ⭐ 1.8K 📝 04&#x2F;25 ](https://github.com/iipc/awesome-web-archiving)) - An Awesome List for getting started with web archiving
+49. [Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md) - ([Source ⭐ 4.1K 📝 04&#x2F;17 ](https://github.com/dustinspecker/awesome-eslint)) - A list of awesome ESLint plugins, configs, etc.
+50. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 17K 📝 04&#x2F;02 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
 
 ## All Tracked List
 
@@ -1061,7 +1196,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Front-End Development
 
-- [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.2K, 📝 04&#x2F;24 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+- [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.2K, 📝 04&#x2F;26 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
 - [Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md) - ([Source ⭐ 3K, 📝 23&#x2F;09&#x2F;04 ](https://github.com/websemantics/awesome-ant-design)) - A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date
 - [Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md) - ([Source ⭐ 306, 📝 19&#x2F;10&#x2F;20 ](https://github.com/aurelia-contrib/awesome-aurelia)) - A curated list of amazingly awesome Aurelia libraries.
 - [Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md) - ([Source ⭐ 403, 📝 16&#x2F;10&#x2F;31 ](https://github.com/sadcitizen/awesome-backbone)) - A list of resources for backbone.js
@@ -1372,7 +1507,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 996, 📝 23&#x2F;12&#x2F;26 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.8K, 📝 04&#x2F;13 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 29K, 📝 02&#x2F;21 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 84K, 📝 04&#x2F;24 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 84K, 📝 04&#x2F;26 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2K, 📝 22&#x2F;07&#x2F;12 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 11K, 📝 23&#x2F;10&#x2F;11 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 3.4K, 📝 03&#x2F;15 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
@@ -1567,8 +1702,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 248, 📝 04&#x2F;24 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
-- [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 15K, 📝 23&#x2F;09&#x2F;23 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 248, 📝 04&#x2F;26 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 18K, 📝 04&#x2F;26 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 8.9K, 📝 03&#x2F;15 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 81, 📝 03&#x2F;12 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.
 - [Awesome Math](/content/rossant/awesome-math/README.md) - ([Source ⭐ 8.1K, 📝 03&#x2F;29 ](https://github.com/rossant/awesome-math)) - A curated list of awesome mathematics resources
