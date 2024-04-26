@@ -1129,6 +1129,10 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Misc
 
+## AI and Education
+
+*   [Teaching AI to Teach Us: A New Era of Personalized Education](https://twitter.com/IntuitMachine/status/1783079852578377788)
+
 ## People and works
 
 ### Interesting Twitter Accounts

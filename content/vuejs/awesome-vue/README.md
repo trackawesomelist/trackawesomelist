@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Apr 26, 2024](/content/2024/04/26/README.md)
+
+### Components & Libraries / UI Layout
+
+*   [vue-stack-grid (⭐1)](https://github.com/chiribuc/vue-stack-grid) - A Vue 3 component designed to make creating dynamic, responsive grid layouts easy and efficient.
+
 ## [Apr 23, 2024](/content/2024/04/23/README.md)
 
 ### Resources / Tutorials
@@ -861,7 +867,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Bagisto (⭐10k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
+*   [Bagisto (⭐11k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
 *   [vue-birthday-reminder (⭐3)](https://github.com/ymzEmre/vue-birthday-reminder) - It is a birthday reminder web application using with Vue3.
 
 ### Components & Libraries / UI Components
@@ -1083,7 +1089,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [swiper (⭐38k)](https://github.com/nolimits4web/swiper) - Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more
+*   [swiper (⭐39k)](https://github.com/nolimits4web/swiper) - Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more
 
 ## [Feb 10, 2022](/content/2022/02/10/README.md)
 
@@ -1741,7 +1747,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [GrandNode 2.0 (⭐981)](https://github.com/grandnode/grandnode2/) - Open Source Cross Platform E-Commerce Solution based on .NET Core 5.0 and MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS
+*   [GrandNode 2.0 (⭐992)](https://github.com/grandnode/grandnode2/) - Open Source Cross Platform E-Commerce Solution based on .NET Core 5.0 and MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS
 
 ## [Jun 05, 2021](/content/2021/06/05/README.md)
 
@@ -2656,7 +2662,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [tsParticles (⭐6.9k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
+*   [tsParticles (⭐7k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
 
 ### Components & Libraries / Utilities
 

@@ -170,6 +170,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind.
 *   [M3 Svelte (⭐83)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
 *   [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
+*   [daisyUI](https://daisyui.com/) - The most popular component library for Tailwind CSS - `daisyUI` adds component class names to Tailwind CSS so you can make beautiful websites faster than ever.
 
 ## UI Components
 
@@ -251,7 +252,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Templates / boilerplate / starter kits / stack ensemble / Yeoman generator.*
 
-*   [create-vite (⭐64k)](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) - Generates scaffold for a vite + svelte app.
+*   [create-vite (⭐65k)](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) - Generates scaffold for a vite + svelte app.
 *   [create-svelte (⭐18k)](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) - A CLI for creating a new SvelteKit project.
 *   [component-template (⭐552)](https://github.com/sveltejs/component-template) - A base for building shareable components.
 *   [svelte-pwa-template (⭐219)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.

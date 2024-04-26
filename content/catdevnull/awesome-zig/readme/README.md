@@ -143,7 +143,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 *   [hexops/mach (⭐2.8k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
 *   [michal-z/zig-gamedev (⭐2k)](https://github.com/michal-z/zig-gamedev) - DirectX 12 game development ecosystem.
-*   [floooh/sokol-zig (⭐275)](https://github.com/floooh/sokol-zig) - [Sokol (⭐5.8k)](https://github.com/floooh/sokol) bindings.
+*   [floooh/sokol-zig (⭐275)](https://github.com/floooh/sokol-zig) - [Sokol (⭐5.9k)](https://github.com/floooh/sokol) bindings.
 *   [TM35-Metronome/metronome (⭐45)](https://github.com/TM35-Metronome/metronome) - A set of tools for modifying and randomizing Pokémon games.
 *   [TM35-Metronome/tm35-nds (⭐10)](https://github.com/TM35-Metronome/tm35-nds) - A library for working with Nintendo DS roms.
 *   [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) - Simple and robust sudoku solver.
@@ -168,7 +168,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 *   [capy-ui/capy (⭐1.3k)](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
 *   [david-vanderson/gui (⭐167)](https://github.com/david-vanderson/gui) - Immediate mode GUI for Zig.
 *   [Aransentin/ZWL (⭐91)](https://github.com/Aransentin/ZWL) - Zig Windowing Library.
-*   [prime31/zig-upaya (⭐127)](https://github.com/prime31/zig-upaya) - GUI toolkit.
+*   [prime31/zig-upaya (⭐128)](https://github.com/prime31/zig-upaya) - GUI toolkit.
 *   [fubark/cosmic (⭐321)](https://github.com/fubark/cosmic) - GUI toolkit.
 *   [batiati/IUPforZig (⭐109)](https://github.com/batiati/IUPforZig) - Zig idiomatic and type-checked bindings for IUP Portable User Interface Toolkit.
 *   [andrewrk/zig-sdl](https://github.com/andrewrk/zig-sdl) - Self-contained SDL2 package for Zig.
@@ -194,7 +194,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 *   [kprotty/zap (⭐389)](https://github.com/kprotty/zap) - A collection of libraries which provide interfaces over the system for writing high performance applications.
 *   [vbrusca/ZigMatrixUtils (⭐1)](https://github.com/vbrusca/ZigMatrixUtils) - Matrix manipulation and utility library.
 *   [mlarouche/zigimg (⭐391)](https://github.com/mlarouche/zigimg) - Zig library for reading and writing different image formats.
-*   [ziglibs/known-folders (⭐204)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+*   [ziglibs/known-folders (⭐205)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 *   [SasLuca/zig-nanoid (⭐23)](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
 *   [kassane/libvlc-zig (⭐16)](https://github.com/kassane/libvlc-zig) - Bindings for libVLC media framework.
 *   [karlseguin/log.zig (⭐67)](https://github.com/karlseguin/log.zig) - Structured logging library.
@@ -233,6 +233,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 *   [andrewrk/lua-in-the-browser (⭐32)](https://github.com/andrewrk/lua-in-the-browser) - Using Zig to build Lua for WebAssembly.
 *   [karlseguin/websocket.zig (⭐214)](https://github.com/karlseguin/websocket.zig) - A WebSocket implementation.
+*   [ws-zig/ws-server (⭐6)](https://github.com/ws-zig/ws-server) - A WebSocket server implementation.
 *   [kivikakk/htmlentities.zig (⭐10)](https://github.com/kivikakk/htmlentities.zig) - HTML5 entity data.
 *   [meheleventyone/zig-wasm-test (⭐49)](https://github.com/meheleventyone/zig-wasm-test) - A minimal WebAssembly example using Zig's build system.
 *   [shritesh/zig-wasm-dom (⭐131)](https://github.com/shritesh/zig-wasm-dom) - Zig + WebAssembly + JS + DOM.
@@ -263,7 +264,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 *   [nektro/zigmod (⭐705)](https://github.com/nektro/zigmod) - Zig package manager.
 *   [cheetah/asdf-zig (⭐24)](https://github.com/cheetah/asdf-zig) - Zig plugin for the ASDF package manager.
 *   [mattnite/ezpkg (⭐25)](https://github.com/mattnite/ezpkg) - Zig Package Manager Expansion Pack.
-*   [nix-community/zon2nix (⭐59)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
+*   [nix-community/zon2nix (⭐60)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
 ## Parser
 

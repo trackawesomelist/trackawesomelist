@@ -6,6 +6,12 @@ A list of awesome projects related to Zig
 
 [ Daily / [Weekly](/content/catdevnull/awesome-zig/week/README.md) / [Overview](/content/catdevnull/awesome-zig/readme/README.md) ]
 
+## [Apr 26, 2024](/content/2024/04/26/README.md)
+
+### Web / Messaging
+
+*   [ws-zig/ws-server (⭐6)](https://github.com/ws-zig/ws-server) - A WebSocket server implementation.
+
 ## [Apr 17, 2024](/content/2024/04/17/README.md)
 
 ### Other / C++
@@ -81,7 +87,7 @@ A list of awesome projects related to Zig
 ### Zig development tools / Package managers
 
 *   [mattnite/ezpkg (⭐25)](https://github.com/mattnite/ezpkg) - Zig Package Manager Expansion Pack.
-*   [nix-community/zon2nix (⭐59)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
+*   [nix-community/zon2nix (⭐60)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
 ### Parser / Package managers
 
@@ -227,7 +233,7 @@ A list of awesome projects related to Zig
 
 *   [david-vanderson/gui (⭐167)](https://github.com/david-vanderson/gui) - Immediate mode GUI for Zig.
 *   [Aransentin/ZWL (⭐91)](https://github.com/Aransentin/ZWL) - Zig Windowing Library.
-*   [prime31/zig-upaya (⭐127)](https://github.com/prime31/zig-upaya) - GUI toolkit.
+*   [prime31/zig-upaya (⭐128)](https://github.com/prime31/zig-upaya) - GUI toolkit.
 
 ### Other / C++
 
@@ -484,7 +490,7 @@ A list of awesome projects related to Zig
 ### Game tools and libraries
 
 *   [michal-z/zig-gamedev (⭐2k)](https://github.com/michal-z/zig-gamedev) - DirectX 12 game development ecosystem.
-*   [floooh/sokol-zig (⭐275)](https://github.com/floooh/sokol-zig) - [Sokol (⭐5.8k)](https://github.com/floooh/sokol) bindings.
+*   [floooh/sokol-zig (⭐275)](https://github.com/floooh/sokol-zig) - [Sokol (⭐5.9k)](https://github.com/floooh/sokol) bindings.
 *   [TM35-Metronome/metronome (⭐45)](https://github.com/TM35-Metronome/metronome) - A set of tools for modifying and randomizing Pokémon games.
 *   [TM35-Metronome/tm35-nds (⭐10)](https://github.com/TM35-Metronome/tm35-nds) - A library for working with Nintendo DS roms.
 *   [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) - Simple and robust sudoku solver.
@@ -522,7 +528,7 @@ A list of awesome projects related to Zig
 *   [emekoi/log.zig (⭐19)](https://github.com/emekoi/log.zig) - A thread-safe logging library.
 *   [kprotty/zap (⭐389)](https://github.com/kprotty/zap) - A collection of libraries which provide interfaces over the system for writing high performance applications.
 *   [mlarouche/zigimg (⭐391)](https://github.com/mlarouche/zigimg) - Zig library for reading and writing different image formats.
-*   [ziglibs/known-folders (⭐204)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+*   [ziglibs/known-folders (⭐205)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 
 ### Network
 

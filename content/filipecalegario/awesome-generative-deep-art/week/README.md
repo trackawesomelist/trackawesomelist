@@ -12,6 +12,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [The Hidden Life of Embeddings: Linus Lee - YouTube](https://www.youtube.com/watch?v=YvobVu1l7GI)
 
+### AI and Education / Deforum
+
+*   [Teaching AI to Teach Us: A New Era of Personalized Education](https://twitter.com/IntuitMachine/status/1783079852578377788)
+
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
 ### Generative AI history, timelines, maps, and definitions

@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Apr 26, 2024](/content/2024/04/26/README.md)
+
+### AI and Education / Deforum
+
+*   [Teaching AI to Teach Us: A New Era of Personalized Education](https://twitter.com/IntuitMachine/status/1783079852578377788)
+
 ## [Apr 25, 2024](/content/2024/04/25/README.md)
 
 ### Embeddings and Semantic Search / Prompt Engineering for Text-to-image

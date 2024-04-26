@@ -1,12 +1,30 @@
 # Awesome List Updates on Apr 22 - Apr 28, 2024
 
-34 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [1. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+
+### Web / Messaging
+
+*   [ws-zig/ws-server (⭐6)](https://github.com/ws-zig/ws-server) - A WebSocket server implementation.
+
+## [2. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+
+### UI Libraries
+
+*   [daisyUI](https://daisyui.com/) - The most popular component library for Tailwind CSS - `daisyUI` adds component class names to Tailwind CSS so you can make beautiful websites faster than ever.
+
+## [3. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+
+### Web server Modules / Meetups
+
+*   [imteekay/web-performance-research (⭐711)](https://github.com/imteekay/web-performance-research) - Research in Web Performance
+
+## [4. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Replay
 
@@ -17,49 +35,53 @@
 
 *   [Browsertrix](https://browsertrix.com/) - From [Webrecorder](https://webrecorder.net/), source available at [https://github.com/webrecorder/browsertrix (⭐120)](https://github.com/webrecorder/browsertrix).
 
-## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Embeddings and Semantic Search / Prompt Engineering for Text-to-image
 
 *   [The Hidden Life of Embeddings: Linus Lee - YouTube](https://www.youtube.com/watch?v=YvobVu1l7GI)
 
-## [3. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+### AI and Education / Deforum
+
+*   [Teaching AI to Teach Us: A New Era of Personalized Education](https://twitter.com/IntuitMachine/status/1783079852578377788)
+
+## [6. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Low-code
 
 *   [FlowTest (⭐103)](https://github.com/FlowTestAI/FlowTest): GenAI powered OpenSource IDE for API first workflows ![GitHub Repo stars](https://img.shields.io/github/stars/FlowTestAI/FlowTest?style=social)
 
-## [4. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [7. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
 *   [demo\_web\_zip\_wasm (⭐3)](https://github.com/MAE664128/demo_web_zip_wasm) - A simple example program for creating ZIP archives running in the browser using WebAssembly, [Live Demo](https://mae664128.github.io/demo_web_zip_wasm/).
 
-## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Advent of Computing](https://adventofcomputing.com/) - A podcast about the shocking, intriguing, and all too often relevant history of computing.
 
-## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Productivity / Note Taking and Lists
 
 *   [geeknote (⭐0)](https://github.com/vitaly-zdanevich/geeknote) - Evernote client.
 
-## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [miniconf](https://crates.io/crates/miniconf): Lookup/enumerate/serialize/deserialize nodes in trees of heterogeneous structs/arrays by path/key - ![crates.io](https://img.shields.io/crates/v/miniconf.svg)
 
-## [8. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [11. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Networking
 
 *   [fwdctl (⭐43)](https://github.com/alegrey91/fwdctl) - A simple and intuitive CLI to manage IPTables forwards in your Linux server.
 
-## [9. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [12. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -125,7 +147,7 @@
 
 *   [JSON Schema (⭐3.2k) (⭐3.2k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [10. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [13. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Global Connectivity Indexes
 
@@ -153,13 +175,13 @@
 *   [M-Lab Global Network Diagnostic Tool](https://datastudio.google.com/s/r6ZnlTmHfwE) - M-Lab is an open, verifiable measurement platform for global network performance.
 *   [USAID Digital Ecosystem Country Assessments](https://www.usaid.gov/digital-strategy/implementation-tracks/track1-adopt-ecosystem/digital-ecosystem-country-assessments) - [Ghana 2024](https://www.usaid.gov/sites/default/files/2024-03/USAID_DECA_Ghana.pdf) [Tanzania 2023](https://www.usaid.gov/sites/default/files/2023-05/Tanzania%20DECA%20Report.pdf) [Mali 2023](https://www.usaid.gov/sites/default/files/2023-05/Mali%20DECA_English.pdf) [Zambia 2022](https://www.usaid.gov/sites/default/files/2022-12/USAID_Zambia_DECA.pdf) [Bangladesh 2023](https://www.usaid.gov/sites/default/files/2023-06/USAID_Bangladesh_DECA_1.pdf) [Nepal 2022](https://www.usaid.gov/sites/default/files/2022-05/USAID_Nepal_Digital_Ecosystem_Country_Assessment_FINAL.pdf) [Libya 2022](https://www.usaid.gov/sites/default/files/2022-12/USAID_Libya_DECA.pdf) See website for others.
 
-## [11. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [14. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Adapters / Server-side
 
 *   [FastAPI (⭐3)](https://github.com/hxjo/fastapi-inertia)
 
-## [12. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [15. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Patterns
 
@@ -177,13 +199,13 @@
 
 *   [SegmentIO (⭐2.5k)](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented menu for iOS.
 
-## [13. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [16. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
 *   [Phosphor Icons](https://github.com/phosphor-icons) - Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Crash and Exception Handling
 
@@ -193,38 +215,42 @@
 
 *   [Free Professional Resume Templates & Editor](https://www.overleaf.com/latex/templates/tagged/cv) - Free platform with lots of Resume templates of Experienced Professionals, ready to clone and edit fully and download, ATS optimized.
 
-## [15. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [18. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Browser Games
 
 *   [Mancala Classic](https://www.crazygames.com/game/mancala-classic) - Strategic board game.
 
-## [16. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [19. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   🔼🌍 [ska-tailwind-editor](https://sinukoduleheabi.ee/editor/) - Edit Tailwind HTML as WordPress blocks with intuitive UI for Tailwind classes and get HTML or JSX back.
 
-## [17. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [20. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
 *   [宁皓网独立开发者训练营：Vue 前端应用开发](https://studio.youtube.com/video/7SyviyGuk8k/edit) on Youtube
 
-## [18. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+### Components & Libraries / UI Layout
+
+*   [vue-stack-grid (⭐1)](https://github.com/chiribuc/vue-stack-grid) - A Vue 3 component designed to make creating dynamic, responsive grid layouts easy and efficient.
+
+## [21. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Programming
 
 *   [The Super Programmer (⭐45)](https://github.com/keyvank/tsp) - Keyvan Kambakhsh (PDF, HTML) *(:construction: in process)*
 
-## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [22. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / E-commerce
 
 *   [EverShop](https://evershop.io/) `⚠` - E-commerce platform with essential commerce features. Modular architecture and fully customizable. ([Demo](https://demo.evershop.io/), [Source Code (⭐3.2k)](https://github.com/evershopcommerce/evershop)) `GPL-3.0` `Docker/Nodejs`
 
-## [20. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [23. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -246,13 +272,13 @@
 
 *   [Sweet-P Plotter Brochure and Price List](https://archive.org/details/bitsavers_enterCompuersonalPlotterprricelistBrochure_4929854) – Four-page color marketing brochure with attached suggested retail price list.
 
-## [21. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [24. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Puzzle Games
 
 *   [Oderrube](https://oderrube.pcgoncalves.com.br/) - [Android](https://play.google.com/store/apps/details?id=br.com.pcgoncalves.oderrube), [IOS](https://apps.apple.com/br/app/oderrube/id6447583342?platform=iphone) - Oderrube is an physics puzzle game. Carefully remove the blocks to allow Derrubito to fall into the target. By [Paulo Gonçalves](https://www.linkedin.com/in/opaulogoncalves)
 
-## [22. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [25. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Extensions
 
@@ -262,7 +288,7 @@
 
 *   [paradedb/paradedb](https:/hub.docker.com/r/paradedb/paradedb/) - ParadeDB is Postgres for Search and Analytics. Based on the Bitnami Postgres container with pg\_search and pg\_analytics Postgres extensions.
 
-## [23. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [26. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
@@ -272,7 +298,7 @@
 
 *   [Pandas vs Polars? Bid Adieu to Pandas and Switch To Polars!](https://towardsai.net/p/machine-learning/pandas-vs-polars-bid-adieu-to-pandas-and-switch-to-polars?amp=1) - An article that compares Polars to Pandas with a dataset of 1.2 GB. Code used is available on Github [here (⭐0)](https://github.com/sm823zw/pandas-vs-polars).
 
-## [24. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [27. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
@@ -289,33 +315,19 @@
     *   "Rooms is a product that runs Lem, a text editor created in Common Lisp, in the Cloud and can be used by multiple users."
     *   NEW as of April, 2024.
 
-## [25. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [28. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Logging
 
 *   [LogTape (⭐35)](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers.
 
-## [26. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Libraries/Frameworks / Extensions
-
-*   [Kotlin/kotlinx.support (⭐54)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
-
-### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-
-### Libraries/Frameworks / Data Science
-
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
-
-## [27. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [29. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
 *   [vite-react-framer-starter (⭐0)](https://github.com/matozz/vite-react-framer-starter) - Starter template with `React`, `TypeScript`, `Framer Motion`, `Tailwind CSS`, `ESLint`, and `Prettier`.
 
-## [28. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [30. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Programming Languages Support / Diagnostics
 
@@ -329,23 +341,27 @@
 
 *   [mikesmithgh/git-prompt-string-lualine.nvim (⭐10)](https://github.com/mikesmithgh/git-prompt-string-lualine.nvim) - Add git-prompt-string to your statusline.
 
+### Deployment / Diagnostics
+
+*   [sachinsenal0x64/hot.nvim (⭐3)](https://github.com/sachinsenal0x64/hot.nvim) - A hot reloader that works with any programming language.
+
 ### Indent / Diagnostics
 
 *   [Mr-LLLLL/cool-chunk.nvim (⭐4)](https://github.com/Mr-LLLLL/cool-chunk.nvim) - Simpler and faster chunking with animations.
 
-## [29. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [31. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Nodes & Consensus Participation / Wallets
 
 *   [TxnLab/reti (⭐15)](https://github.com/TxnLab/reti) - Provides contracts, a Node Daemon, and a UI for Algorand 'The Reti' consensus incentives, facilitating the creation of decentralized staking pools on the Algorand network to promote broader participation and enhance network security through diversification.
 
-## [30. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [32. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Repos
 
 *   [Functional Programming Learning Path](https://github.com/imteekay/functional-programming-learning-path.git) - A Learning Path for Functional Programming
 
-## [31. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [33. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Science Logology / Democratization of Science
 
@@ -356,7 +372,7 @@
 *   [Automation isn't automatic](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc04588a) - ***Chemical Science***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14176714971050097971)]. This perspective provides an overview of the current state of automation of synthetic chemistry at the benchtop scale with a particular emphasis on core considerations and the ensuing challenges of deploying a system. The authors aim to reframe automation as decidedly not automatic but rather an iterative process that involves a series of careful decisions (both human and computational) and constant adjustment.
 *   [Balancing act: when to flex and when to stay fixed](https://www.cell.com/trends/chemistry/fulltext/S2589-5974\(23\)00249-6) - ***Trends in Chemistry***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=14208571639305934551)]. This perspective article provides essential insights into the decision-making process for choosing automation platforms, highlighting the suitability of fixed automation for standardized tasks and the strategic use of flexible automation in dynamic research settings.
 
-## [32. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [34. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### CLI / Text-Based User Interfaces
 
@@ -374,7 +390,7 @@
 
 *   [The Well-Grounded Java Developer (2nd Edition)](https://www.manning.com/books/the-well-grounded-java-developer-second-edition)
 
-## [33. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [35. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Text search
 
@@ -407,7 +423,7 @@
 *   Android / iOS
     *   [ivnsch/rust\_android\_ios (⭐233)](https://github.com/ivnsch/rust_android_ios) — An example of using a shared lib for Android and iOS using rust-swig and cbindgen respectively.
 
-## [34. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [36. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Community
 
