@@ -366,6 +366,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [@tomjs/vite-plugin-electron (⭐1)](https://github.com/tomjs/vite-plugin-electron) - Easily develop `Electron` applications.
 *   [@tomjs/vite-plugin-vscode (⭐3)](https://github.com/tomjs/vite-plugin-vscode) - Easily use web frameworks to develop `VSCode Extension`'s `Webview`, and support `HMR` and `Debug`.
 *   [vite-plugin-px-rem-vw (⭐3)](https://github.com/zscumt123/vite-plugin-px-rem-vw) - Integrate PostCSS plugin pxTorem and pxTovw.
+*   [vite-plugin-mpg (⭐0)](https://github.com/just-ads/vite-plugin-multi-page) - Simple configuration of multi page applications.
 
 #### Loaders
 
@@ -705,7 +706,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Integrations
 
-*   [vite-plugin-elm (⭐177)](https://github.com/hmsk/vite-plugin-elm) - A plugin that enables you to compile an Elm module.
+*   [vite-plugin-elm (⭐178)](https://github.com/hmsk/vite-plugin-elm) - A plugin that enables you to compile an Elm module.
 
 <hr>
 

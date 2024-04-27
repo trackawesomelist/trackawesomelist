@@ -12,6 +12,10 @@
 
 *   [vite-react-framer-starter (⭐0)](https://github.com/matozz/vite-react-framer-starter) - Starter template with `React`, `TypeScript`, `Framer Motion`, `Tailwind CSS`, `ESLint`, and `Prettier`.
 
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-mpg (⭐0)](https://github.com/just-ads/vite-plugin-multi-page) - Simple configuration of multi page applications.
+
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
 ### React / Transformers
@@ -1759,7 +1763,7 @@
 
 ### Elm / Integrations
 
-*   [vite-plugin-elm (⭐177)](https://github.com/hmsk/vite-plugin-elm) - A plugin that enables you to compile an Elm module.
+*   [vite-plugin-elm (⭐178)](https://github.com/hmsk/vite-plugin-elm) - A plugin that enables you to compile an Elm module.
 
 ### Vue CLI / Community
 

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Apr 27, 2024](/content/2024/04/27/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-mpg (⭐0)](https://github.com/just-ads/vite-plugin-multi-page) - Simple configuration of multi page applications.
+
 ## [Apr 22, 2024](/content/2024/04/22/README.md)
 
 ### Templates / React
@@ -2146,7 +2152,7 @@
 
 ### Elm / Integrations
 
-*   [vite-plugin-elm (⭐177)](https://github.com/hmsk/vite-plugin-elm) - A plugin that enables you to compile an Elm module.
+*   [vite-plugin-elm (⭐178)](https://github.com/hmsk/vite-plugin-elm) - A plugin that enables you to compile an Elm module.
 
 ## [Aug 27, 2021](/content/2021/08/27/README.md)
 
