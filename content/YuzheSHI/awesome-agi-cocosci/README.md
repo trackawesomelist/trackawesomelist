@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Apr 28, 2024](/content/2024/04/28/README.md)
+
+### Domain Specific Language / Domain Specified Applications
+
+*   [The BioPAX community standard for pathway data sharing](https://www.nature.com/articles/nbt.1666) - ***Nature Biotechnology***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=11368332679628594895)]. \[[Preprint](https://core.ac.uk/download/pdf/216139091.pdf)]. Biological Pathway Exchange (BioPAX) is a standard language to represent biological pathways at the molecular and cellular level and to facilitate the exchange of pathway data. BioPAX can represent metabolic and signaling pathways, molecular and genetic interactions and gene regulation networks.
+
 ## [Apr 27, 2024](/content/2024/04/27/README.md)
 
 ### Domain Specific Language / Design Theory

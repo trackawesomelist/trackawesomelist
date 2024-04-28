@@ -6,6 +6,12 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ Daily / [Weekly](/content/pluja/awesome-privacy/week/README.md) / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Apr 28, 2024](/content/2024/04/28/README.md)
+
+### Notes and Tasks
+
+*   [Quillpad](https://quillpad.github.io/) - Take beautiful markdown notes and stay organized with task lists. Fork of Quillnote.
+
 ## [Apr 27, 2024](/content/2024/04/27/README.md)
 
 ### Maps and Navigation
@@ -656,7 +662,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   [Nextcloud Notes (⭐587)](https://github.com/nextcloud/notes/) - The Notes app is a distraction free notes taking app for Nextcloud.
     *   [Nextcloud Notes app (⭐894)](https://github.com/stefan-niedermann/nextcloud-notes) - An android client for Nextcloud Notes.
 *   [Notally (⭐1.5k)](https://github.com/OmGodse/Notally) - A beautiful notes app (local only, no sync).
-*   [Quillnote](https://qosp.org/#/) - Take beautiful markdown notes and stay organized with task lists.
 *   [Standard Notes](https://standardnotes.org/) - A free, open-source, and completely encrypted notes app.
 *   [TinyList](https://tinylist.app/) - Create and share notes and checklists, without sacrificing your privacy.
 *   [YankNote (⭐5.3k)](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers.
