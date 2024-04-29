@@ -270,7 +270,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 ### Mailing
 
-*   [django-pony-express (⭐45)](https://github.com/edoburu/django-any-urlfield) - Class-based emails including a test suite for Django.
+*   [django-pony-express (⭐40)](https://github.com/ambient-innovation/django-pony-express) - Class-based emails including a test suite for Django.
 
 ### Model Fields
 

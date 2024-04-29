@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Apr 29, 2024](/content/2024/04/29/README.md)
+
+### Audio and Video Tools / File Sharing
+
+*   [Aiko](https://sindresorhus.com/aiko) - High-quality on-device transcription. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1666327168)
+
 ## [Apr 28, 2024](/content/2024/04/28/README.md)
 
 ### Utilities / Menu Bar Tools

@@ -6,6 +6,12 @@ A curated list of awesome things related to Django
 
 [ Daily / [Weekly](/content/wsvincent/awesome-django/week/README.md) / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
+## [Apr 29, 2024](/content/2024/04/29/README.md)
+
+### Third-Party Packages / Mailing
+
+*   [django-pony-express (⭐40)](https://github.com/ambient-innovation/django-pony-express) - Class-based emails including a test suite for Django.
+
 ## [Apr 28, 2024](/content/2024/04/28/README.md)
 
 ### Third-Party Packages / Admin
@@ -19,10 +25,6 @@ A curated list of awesome things related to Django
 ### Third-Party Packages / Configuration
 
 *   [django-content-settings](https://django-content-settings.readthedocs.io/en/latest/) - easily create and manage editable typed variables directly from the Django admin panel.
-
-### Third-Party Packages / Mailing
-
-*   [django-pony-express (⭐45)](https://github.com/edoburu/django-any-urlfield) - Class-based emails including a test suite for Django.
 
 ### Resources / Educational
 
