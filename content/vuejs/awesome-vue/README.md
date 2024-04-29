@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Apr 29, 2024](/content/2024/04/29/README.md)
+
+### Components & Libraries / UI Components
+
+*   [vue-fluid-dnd (⭐43)](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
+
 ## [Apr 26, 2024](/content/2024/04/26/README.md)
 
 ### Components & Libraries / UI Layout
@@ -1035,7 +1041,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [tolgee/vue (⭐214)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
+*   [tolgee/vue (⭐216)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
 
 ## [Mar 02, 2022](/content/2022/03/02/README.md)
 
