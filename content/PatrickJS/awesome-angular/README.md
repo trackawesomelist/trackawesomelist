@@ -6,6 +6,17 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Apr 30, 2024](/content/2024/04/30/README.md)
+
+### Newsletters
+
+*   [angular addicts](https://www.angularaddicts.com/)
+*   [weekly angular](https://prodigious-knitter-4508.ck.page/subscribe)
+*   [angular weekly](https://angularweekly.substack.com/)
+*   [practical-angular-newsletter](https://angularmentor.io/practical-angular-newsletter)
+*   [danywalls](https://www.danywalls.com/newsletter)
+*   [ultimate courses](https://ultimatecourses.com/newsletter)
+
 ## [Apr 28, 2024](/content/2024/04/28/README.md)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

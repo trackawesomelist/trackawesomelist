@@ -6,6 +6,17 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Apr 30, 2024](/content/2024/04/30/README.md)
+
+### Applications / Audio and Music
+
+*   [dano (⭐128)](https://github.com/kimono-koans/dano) — A hashdeep/md5tree (but much more) for media files
+
+### Libraries / Compression
+
+*   zip
+    *   [zip-rs/zip2 (⭐28)](https://github.com/zip-rs/zip2) \[[zip](https://crates.io/crates/zip)] — read and write  ZIP archives
+
 ## [Apr 25, 2024](/content/2024/04/25/README.md)
 
 ### Libraries / Computation
@@ -60,7 +71,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Data visualization
 
-*   [plotly (⭐950)](https://github.com/plotly/plotly.rs) — Plotly for Rust.
+*   [plotly (⭐961)](https://github.com/plotly/plotly.rs) — Plotly for Rust.
 
 ## [Apr 10, 2024](/content/2024/04/10/README.md)
 
@@ -86,7 +97,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [ynqa/jnv (⭐4.2k)](https://github.com/ynqa/jnv) — interactive JSON filter using jq [![ci](https://github.com/ynqa/jnv/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/jnv/actions/workflows/ci.yml)
+*   [ynqa/jnv (⭐4.3k)](https://github.com/ynqa/jnv) — interactive JSON filter using jq [![ci](https://github.com/ynqa/jnv/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/jnv/actions/workflows/ci.yml)
 
 ## [Mar 26, 2024](/content/2024/03/26/README.md)
 
@@ -97,7 +108,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Web Servers
 
-*   [fzf-make (⭐51)](https://github.com/kyu08/fzf-make) \[[fzf-make](https://crates.io/crates/fzf-make)] — A command line tool that executes make target using fuzzy finder with preview window. [![crates.io](https://img.shields.io/crates/v/fzf-make?style=flatflat-square)](https://crates.io/crates/fzf-make)
+*   [fzf-make (⭐52)](https://github.com/kyu08/fzf-make) \[[fzf-make](https://crates.io/crates/fzf-make)] — A command line tool that executes make target using fuzzy finder with preview window. [![crates.io](https://img.shields.io/crates/v/fzf-make?style=flatflat-square)](https://crates.io/crates/fzf-make)
 *   [typos (⭐2.1k)](https://github.com/crate-ci/typos) \[[typos-cli](https://crates.io/crates/typos-cli)] — Source code spell checker
 
 ## [Mar 19, 2024](/content/2024/03/19/README.md)
@@ -690,7 +701,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Finance
 
-*   [avhz/RustQuant (⭐846)](https://github.com/avhz/RustQuant) \[[RustQuant](https://crates.io/crates/RustQuant)] — A quantitative finance library. ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/avhz/RustQuant/build.yml)
+*   [avhz/RustQuant (⭐862)](https://github.com/avhz/RustQuant) \[[RustQuant](https://crates.io/crates/RustQuant)] — A quantitative finance library. ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/avhz/RustQuant/build.yml)
 
 ## [Jun 27, 2023](/content/2023/06/27/README.md)
 
@@ -1297,7 +1308,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Formatters
 
-*   [rustfmt (⭐5.7k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo
+*   [rustfmt (⭐5.8k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo
 
 ## [Aug 17, 2022](/content/2022/08/17/README.md)
 
@@ -1808,7 +1819,7 @@ A curated list of Rust code and resources.
     *   [d-e-s-o/test-log (⭐92)](https://github.com/d-e-s-o/test-log) \[[test-log](https://crates.io/crates/test-log)] — A replacement of the `#[test]` attribute that initializes logging and/or tracing infrastructure before running tests. [![GitHub Workflow Status](https://github.com/d-e-s-o/test-log/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/d-e-s-o/test-log/actions/workflows/test.yml)
     *   [demonstrate](https://crates.io/crates/demonstrate) — Declarative Testing Framework [![Build Status](https://github.com/aubaugh/demonstrate/workflows/Continuous%20Integration/badge.svg?branch=master)](https://github.com/aubaugh/demonstrate)
     *   [GoogleTest Rust](https://crates.io/crates/googletest) — Powerful test assertion framework based on the C++ test library GoogleTest [![Build Status](https://github.com/google/googletest-rust/workflows/CI/badge.svg)](https://github.com/google/googletest-rust/actions?query=workflow%3ACI+branch%3Amain)
-    *   [rlt (⭐95)](https://github.com/wfxr/rlt) — A universal load testing framework, with real-time tui support.
+    *   [rlt (⭐106)](https://github.com/wfxr/rlt) — A universal load testing framework, with real-time tui support.
     *   [rstest](https://crates.io/crates/rstest) — Fixture-based test framework [![Build Status](https://github.com/la10736/rstest/workflows/Test/badge.svg?branch=master)](https://github.com/la10736/rstest/actions)
     *   [speculate](https://crates.io/crates/speculate) — An RSpec inspired minimal testing framework
 *   Mocking and Test Data
@@ -3290,13 +3301,6 @@ A curated list of Rust code and resources.
 *   [Kakoune](http://kakoune.org/)
     *   [kakoune-lsp (⭐573)](https://github.com/kakoune-lsp/kakoune-lsp/) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
 
-## [Sep 14, 2020](/content/2020/09/14/README.md)
-
-### Libraries / Compression
-
-*   zip
-    *   [zip-rs/zip (⭐741)](https://github.com/zip-rs/zip) — read and write ZIP archives
-
 ## [Aug 28, 2020](/content/2020/08/28/README.md)
 
 ### Applications / Database
@@ -3426,7 +3430,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [ajeetdsouza/zoxide (⭐18k)](https://github.com/ajeetdsouza/zoxide/) — A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
+*   [ajeetdsouza/zoxide (⭐19k)](https://github.com/ajeetdsouza/zoxide/) — A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
 
 ## [Mar 26, 2020](/content/2020/03/26/README.md)
 
@@ -3680,7 +3684,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [fcsonline/tmux-thumbs (⭐846)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
+*   [fcsonline/tmux-thumbs (⭐848)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
 
 ### Applications / Virtualization
 
@@ -3864,7 +3868,7 @@ A curated list of Rust code and resources.
 
 *   [innoave/genevo (⭐162)](https://github.com/innoave/genevo) — Execute genetic algorithm (GA) simulations in a customizable and extensible way.
 *   [m-decoster/RsGenetic (⭐76)](https://github.com/m-decoster/RsGenetic) — Genetic Algorithm library. In maintenance mode.
-*   [autumnai/leaf (⭐5.6k)](https://github.com/autumnai/leaf) — Open Machine Intelligence framework.. Abandoned project. The most updated fork is [spearow/juice (⭐1.1k)](https://github.com/spearow/juice).
+*   [autumnai/leaf (⭐5.6k)](https://github.com/autumnai/leaf) — Open Machine Intelligence framework.. Abandoned project. The most updated fork is [juice (⭐1.1k)](https://github.com/fff-rs/juice).
 
 ## [May 04, 2018](/content/2018/05/04/README.md)
 
