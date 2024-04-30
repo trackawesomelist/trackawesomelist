@@ -203,6 +203,12 @@ Table of contents:
 *   [simplified courses](https://blog.simplified.courses/) - Blog articles written with love, just for you!
 *   [justangular](https://justangular.com/) - Shares the newest and most important updates about Angular, along with useful tips and tricks.
 *   [angular.love](https://angular.love/) - (Polish) Excellent up-to-date resource for Angular
+*   [angular in depth](https://angularindepth.com/)
+*   [angularminds](https://www.angularminds.com/blog)
+*   [angulararchitects](https://www.angulararchitects.io/en/blog/)
+*   [house of angular](https://houseofangular.io/blog/)
+*   [thisdot labs](https://www.thisdot.co/blog?tags=angular)
+*   [halodoc](https://blogs.halodoc.io/tag/angular-2-2/)
 *   [Netanel Basal](https://medium.com/@netbasal)
 *   [Tim Deschryver](https://timdeschryver.dev/)
 *   [Chau Tran](https://nartc.me/)
@@ -298,8 +304,8 @@ Table of contents:
 
 #### Style Guides
 
-*   [Official Angular style guide](https://angular.io/guide/styleguide)
-*   [Shared TSLint & codelyzer rules by fulls1z3 (⭐172)](https://github.com/ng-seed/angular-tslint-rules)
+*   [Official Angular style guide](https://angular.dev/style-guide#)
+*   [Infinum](https://infinum.com/handbook/frontend/angular/introduction)
 
 #### Books
 
@@ -548,7 +554,7 @@ Table of contents:
 *   [ng-http-caching (⭐42)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
 *   [akita (⭐3.7k)](https://github.com/salesforce/akita) - A Reactive State Management Tailored-Made for JS Applications.
 *   [ng-simple-state (⭐38)](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
-*   [exome (⭐136)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
+*   [exome (⭐138)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 *   [ngxs (⭐3.5k)](https://github.com/ngxs/store) - NGXS tries to make things as simple and accessible as possible with less boilerplate and code to maintain.
 *   [ngrx (⭐7.9k)](https://github.com/ngrx/platform) - Reactive State for Angular.
 *   [rx-angular (⭐1.9k)](https://github.com/rx-angular/rx-angular) - RxAngular offers a toolkit for handling fully reactive apps with the main focus on runtime performance, template rendering, and developer experience.
@@ -584,16 +590,16 @@ Table of contents:
 
 ##### Material Based
 
-*   [@angular-material-extensions/contacts (⭐44)](https://github.com/angular-material-extensions/contacts) - Angular Library to manage contacts and users with a material design
-*   [@angular-material-extensions/faq (⭐29)](https://github.com/angular-material-extensions/faq) - Angular Library built with material design in order to provide a reusable faq (frequently asked questions) component for every project. Ask, Answer and List
-*   [@angular-material-extensions/google-maps-autocomplete (⭐169)](https://github.com/angular-material-extensions/google-maps-autocomplete) - **Autocomplete** input component and directive for google-maps built with angular material design
-*   [@angular-material-extensions/link-preview (⭐57)](https://github.com/angular-material-extensions/link-preview) - Angular open source UI library to preview web links
-*   [@angular-material-extensions/pages (⭐50)](https://github.com/angular-material-extensions/pages) - Open source library for angular apps to illustrate custom material pages content with steps (ideal for **tutorials** and **explanations** purposes)
-*   [@angular-material-extensions/password-strength (⭐283)](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design
-*   [angular-jqwidgets](https://www.jqwidgets.com/angular/) Advanced Angular Components with Material Design.
-*   [Covalent](https://teradata.github.io/covalent/) - a UI platform built on Angular 2.0 + Material Design
-*   [Material 2 (⭐24k)](https://github.com/angular/material2) - Angular team's Material Design components built on top of Angular 2
-*   [Teradata covalent (⭐2.2k)](https://github.com/Teradata/covalent/) - UI Platform built on @angular/material 2.0
+*   [Covalent (⭐2.2k)](https://github.com/Teradata/covalent/) - Teradata UI Platform built on Angular Material.
+*   [IgniteUI Angular (⭐561)](https://github.com/IgniteUI/igniteui-angular) - Ignite UI for Angular is a complete library of Angular-native, Material-based Angular UI components with the fastest grids, charts, and more.
+*   [Alyle UI (⭐289)](https://github.com/A-l-y-l-e/Alyle-UI) - Minimal Design, a set of components for Angular 16+.
+*   [angular-material-extensions](https://github.com/angular-material-extensions)
+*   [angular-material-extensions/google-maps-autocomplete (⭐169)](https://github.com/angular-material-extensions/google-maps-autocomplete) - **Autocomplete** input component and directive for google-maps built with angular material design.
+*   [angular-material-extensions/select-country (⭐126)](https://github.com/angular-material-extensions/select-country)
+*   [angular-material-extensions/password-strength (⭐283)](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design.
+*   [angular-jqwidgets](https://www.jqwidgets.com/angular/) - Advanced Angular Components with Material Design.
+*   [angular material components (⭐319)](https://github.com/h2qutc/angular-material-components) -  Angular Material Library provide extra components for every project.
+*   [angular components (⭐24k)](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
 
 ##### Bootstrap Based
 

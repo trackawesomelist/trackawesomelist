@@ -205,7 +205,7 @@ Preinstalled file managers and third-party file manager apps found on the play s
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img>  **Instead use**
 
 *   [Amaze File Manager (⭐5.1k)](https://github.com/TeamAmaze/AmazeFileManager) - Simple and attractive Material Design file manager for Android.
-*   [Material Files (⭐5.1k)](https://github.com/zhanghai/MaterialFiles) - An open source Material Design file manager, for Android 5.0+.
+*   [Material Files (⭐5.2k)](https://github.com/zhanghai/MaterialFiles) - An open source Material Design file manager, for Android 5.0+.
 *   [Ghost Commander](https://f-droid.org/packages/com.ghostsq.commander/) - Dual-panel file manager.
 
 ### Android Keyboard
@@ -217,7 +217,7 @@ Preinstalled file managers and third-party file manager apps found on the play s
 
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img> **Instead use**
 
-*   [FlorisBoard (⭐5.3k)](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
+*   [FlorisBoard (⭐5.4k)](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
 *   [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - The only Android keyboard you'll ever need. Free as in speech and Free as in beer.
 *   [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indic Keyboard is a versatile keyboard for Android users who wish to use Indic and Indian languages to type messages, compose emails and generally prefer to use them in addition to English on their phone.
 *   [Simple Keyboard (⭐984)](https://github.com/rkkr/simple-keyboard) - Simply keyboard and nothing more.
@@ -239,7 +239,7 @@ Your phone gallery is a deeply personal aspect of your life, it may contain imag
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img> **Instead use**
 
 *   [Aves (⭐2k)](https://github.com/deckerst/aves) - Beautiful gallery and metadata explorer app, built for Android with Flutter.
-*   [Fossify Gallery (⭐1.1k)](https://github.com/FossifyOrg/Gallery) - Fork of Simple Gallery. Browse your memories without any interruptions with this photo and video gallery.
+*   [Fossify Gallery (⭐1.2k)](https://github.com/FossifyOrg/Gallery) - Fork of Simple Gallery. Browse your memories without any interruptions with this photo and video gallery.
 
 ### Android Launcher
 
@@ -531,8 +531,11 @@ If you need an app for **menstrual cycle tracking** please don't use any apps li
 
 ### Menstrual cycle trackers
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Drip](https://bloodyhealth.gitlab.io/) - Menstrual cycle and fertility tracking. Everything you enter stays on your device.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Bluemoon](https://gitlab.com/ngrob/bluemoon-android) - Open source, privacy friendly menstruation tracking app. Your period, your data!
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Drip](https://dripapp.org/) - Menstrual cycle and fertility tracking. Everything you enter stays on your device.
+*   [Euki](https://eukiapp.org/) - The period tracker that doesn’t track you.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [log28 (⭐33)](https://github.com/wildeyedskies/log28) - a (very) simple no-frills period tracker for Android.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Periodical (⭐109)](https://github.com/arnowelzel/periodical) - A calendar to track your menstruation and calculate possible fertile days
 
 ### Medical health
 
@@ -1089,7 +1092,7 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 
 *   [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor.
 *   [Krita (⭐6.6k)](https://github.com/KDE/krita) - Krita is a free and open source digital painting application
-*   [Czkawka (⭐17k)](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates and similar images etc.
+*   [Czkawka (⭐18k)](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates and similar images etc.
 *   [DigiKam](https://www.digikam.org/) - Awesome Professional Photo Management with the Power of Open Source.
 *   [Inkscape](https://inkscape.org/) - Inkscape is a free and open-source vector graphics editor used to create vector images.
 *   [ImageGlass](https://imageglass.org/) - ImageGlass is a lightweight software application whose purpose is to help you view images in a clean and intuitive working environment.
@@ -1147,7 +1150,7 @@ This section is dedicated to some tools that may help users analyze the privacy 
     *   [ClassyShark3xodus](https://f-droid.org/en/packages/com.oF2pks.classyshark3xodus/) - Checks apk(s) for known trackers (provided by Exodus) +other warnings and specs.
 *   [Plexus](https://plexus.techlore.tech/) - Remove the fear of Android app compatibility on de-Googled devices. Find if an app will work on a De-Googled device.
 *   [Netguard](https://netguard.me/) - A simple way to block access to the internet per application.
-*   [RethinkDNS + Firewall (⭐2.3k)](https://github.com/celzero/rethink-app) - An open-source, no-root firewall and DNS changer, with anti-censorship capabilities for Android 6+.
+*   [RethinkDNS + Firewall (⭐2.4k)](https://github.com/celzero/rethink-app) - An open-source, no-root firewall and DNS changer, with anti-censorship capabilities for Android 6+.
 
 ## Remote Access and Control
 

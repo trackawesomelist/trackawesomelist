@@ -6,6 +6,20 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Apr 30, 2024](/content/2024/04/30/README.md)
+
+### Issue Tracking and Project Management
+
+*   [leiga.com](https://www.leiga.com/) — Leiga is a SaaS product that uses AI to automatically manage your projects, helping your team stay focused and unleash immense potential, ensuring your projects progress as planned. Free for up to 10 users, 20 custom fields, 2GB of storage space, Video Recording with AI limited to 5 mins/video, Automation Runs at 20/user/month.
+
+### Design Inspiration
+
+*   [Page Flows](https://pageflows.com/) - \[Mobile / web videos and screenshots] Videos of full flows across many mobile and web apps. Also includes screenshots. Highly searchable and indexed.
+
+### Miscellaneous
+
+*   [BackgroundStyler.com](https://backgroundstyler.com) - Create aesthetic screenshots of your code, text or images to share on social media.
+
 ## [Apr 27, 2024](/content/2024/04/27/README.md)
 
 ### Game Development
@@ -1578,7 +1592,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Design Inspiration
 
-*   [Landings](https://landings.dev/) - \[Web Screenshots] Find the best landing pages for your design inspiration based on your preference.
+*   [Landings](https://landings.dev/) - \[Web screenshots] Find the best landing pages for your design inspiration based on your preference.
 
 ## [Nov 21, 2022](/content/2022/11/21/README.md)
 
@@ -2862,7 +2876,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Mobile Patterns](https://www.mobile-patterns.com/) - \[Mobile screenshots] A design inspirational library featuring the finest UI UX Patterns (iOS and Android) for designers, developers, and product makers to reference.
 *   [Screenlane](https://screenlane.com/) - \[Mobile screenshots] Get inspired and keep up with the latest web & mobile app UI design trends. Filterable by pattern and app.
 *   [scrnshts](https://scrnshts.club/) - \[Mobile screenshots] A hand-picked collection of the finest app store design screenshots.
-*   [UI Garage](https://uigarage.net/) - \[Mobile and web screenshots] Daily UI inspiration & patterns for designers and developers to find inspiration, tools, and the best resources for your project.
+*   [UI Garage](https://uigarage.net/) - \[Mobile / web screenshots] Daily UI inspiration & patterns for designers and developers to find inspiration, tools, and the best resources for your project.
 
 ## [Nov 28, 2021](/content/2021/11/28/README.md)
 
@@ -3891,7 +3905,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Feb 28, 2021](/content/2021/02/28/README.md)
 
-### Messaging and Streaming
+### BaaS
 
 *   [connectycube.com](https://connectycube.com) - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 1000 users.
 

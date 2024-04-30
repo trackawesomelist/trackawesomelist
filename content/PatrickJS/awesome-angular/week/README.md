@@ -17,6 +17,32 @@
 *   [danywalls](https://www.danywalls.com/newsletter)
 *   [ultimate courses](https://ultimatecourses.com/newsletter)
 
+### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular in depth](https://angularindepth.com/)
+*   [angularminds](https://www.angularminds.com/blog)
+*   [angulararchitects](https://www.angulararchitects.io/en/blog/)
+*   [house of angular](https://houseofangular.io/blog/)
+*   [thisdot labs](https://www.thisdot.co/blog?tags=angular)
+*   [halodoc](https://blogs.halodoc.io/tag/angular-2-2/)
+
+### Style Guides / Testing
+
+*   [Official Angular style guide](https://angular.dev/style-guide#)
+*   [Infinum](https://infinum.com/handbook/frontend/angular/introduction)
+
+### UI Libraries / Material Based
+
+*   [Covalent (⭐2.2k)](https://github.com/Teradata/covalent/) - Teradata UI Platform built on Angular Material.
+*   [IgniteUI Angular (⭐561)](https://github.com/IgniteUI/igniteui-angular) - Ignite UI for Angular is a complete library of Angular-native, Material-based Angular UI components with the fastest grids, charts, and more.
+*   [Alyle UI (⭐289)](https://github.com/A-l-y-l-e/Alyle-UI) - Minimal Design, a set of components for Angular 16+.
+*   [angular-material-extensions](https://github.com/angular-material-extensions)
+*   [angular-material-extensions/google-maps-autocomplete (⭐169)](https://github.com/angular-material-extensions/google-maps-autocomplete) - **Autocomplete** input component and directive for google-maps built with angular material design.
+*   [angular-material-extensions/select-country (⭐126)](https://github.com/angular-material-extensions/select-country)
+*   [angular-material-extensions/password-strength (⭐283)](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design.
+*   [angular material components (⭐319)](https://github.com/h2qutc/angular-material-components) -  Angular Material Library provide extra components for every project.
+*   [angular components (⭐24k)](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
+
 ## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
 
 ### Community
@@ -444,7 +470,7 @@
 
 ### State Management / Testing
 
-*   [exome (⭐136)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
+*   [exome (⭐138)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
@@ -738,16 +764,7 @@
 
 ### UI Libraries / Material Based
 
-*   [@angular-material-extensions/contacts (⭐44)](https://github.com/angular-material-extensions/contacts) - Angular Library to manage contacts and users with a material design
-*   [@angular-material-extensions/faq (⭐29)](https://github.com/angular-material-extensions/faq) - Angular Library built with material design in order to provide a reusable faq (frequently asked questions) component for every project. Ask, Answer and List
-*   [@angular-material-extensions/google-maps-autocomplete (⭐169)](https://github.com/angular-material-extensions/google-maps-autocomplete) - **Autocomplete** input component and directive for google-maps built with angular material design
-*   [@angular-material-extensions/link-preview (⭐57)](https://github.com/angular-material-extensions/link-preview) - Angular open source UI library to preview web links
-*   [@angular-material-extensions/pages (⭐50)](https://github.com/angular-material-extensions/pages) - Open source library for angular apps to illustrate custom material pages content with steps (ideal for **tutorials** and **explanations** purposes)
-*   [@angular-material-extensions/password-strength (⭐283)](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design
-*   [angular-jqwidgets](https://www.jqwidgets.com/angular/) Advanced Angular Components with Material Design.
-*   [Covalent](https://teradata.github.io/covalent/) - a UI platform built on Angular 2.0 + Material Design
-*   [Material 2 (⭐24k)](https://github.com/angular/material2) - Angular team's Material Design components built on top of Angular 2
-*   [Teradata covalent (⭐2.2k)](https://github.com/Teradata/covalent/) - UI Platform built on @angular/material 2.0
+*   [angular-jqwidgets](https://www.jqwidgets.com/angular/) - Advanced Angular Components with Material Design.
 
 ### UI Libraries / Bootstrap Based
 
@@ -802,12 +819,6 @@
 ### Server-Side Rendering / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [SEO-Friendly Angular SPA: Universal Server-Side Rendering Tutorial](https://snipcart.com/blog/angular-seo-universal-server-side-rendering)
-
-## [Apr 22 - Apr 28, 2019](/content/2019/16/README.md)
-
-### Style Guides / Testing
-
-*   [Official Angular style guide](https://angular.io/guide/styleguide)
 
 ## [Feb 11 - Feb 17, 2019](/content/2019/6/README.md)
 
@@ -943,12 +954,6 @@
 ### Site Templates / Testing
 
 *   [ngx-admin (⭐25k)](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
-
-## [Sep 04 - Sep 10, 2017](/content/2017/36/README.md)
-
-### Style Guides / Testing
-
-*   [Shared TSLint & codelyzer rules by fulls1z3 (⭐172)](https://github.com/ng-seed/angular-tslint-rules)
 
 ## [Jul 31 - Aug 06, 2017](/content/2017/31/README.md)
 

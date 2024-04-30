@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jetli/awesome-yew/week/README.md) / [Overview](/content/jetli/awesome-yew/readme/README.md) ]
 
+## [Apr 30, 2024](/content/2024/04/30/README.md)
+
+### Projects
+
+*   [windows-terminal-theme-generator (⭐13)](https://github.com/LelouchFR/windows-terminal-theme-generator/) - Simplify your life to create a windows terminal theme. [Live Demo](https://windows-terminal-theme-generator.netlify.app/)
+
 ## [Apr 28, 2024](/content/2024/04/28/README.md)
 
 ### Projects
@@ -694,7 +700,7 @@
 
 ### Crates / Wasm
 
-*   [wasm-bindgen (⭐7.2k)](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between WebAssembly modules and JavaScript.
+*   [wasm-bindgen (⭐7.3k)](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between WebAssembly modules and JavaScript.
 
 ### Tooling / Frameworks
 

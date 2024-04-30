@@ -6,6 +6,12 @@ Curated list of awesome things related to Deno
 
 [ [Daily](/content/denolib/awesome-deno/README.md) / Weekly / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 
+## [Apr 29 - May 05, 2024](/content/2024/18/README.md)
+
+### Resources in Other Languages / Korean
+
+*   [Deno Korea](https://deno.kr/) - Deno Korean User Group.
+
 ## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
 
 ### Modules / Logging

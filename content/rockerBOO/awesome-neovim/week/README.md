@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Apr 29 - May 05, 2024](/content/2024/18/README.md)
+
+### Scrolling / Diagnostics
+
+*   [niuiic/scroll.nvim (⭐0)](https://github.com/niuiic/scroll.nvim) - Smooth scrolling, custom smooth strategy.
+
 ## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
 
 ### (requires Neovim 0.5)
@@ -120,7 +126,7 @@ Collections of awesome neovim plugins.
 
 ### Color / Diagnostics
 
-*   [moyiz/command-and-cursor.nvim (⭐2)](https://github.com/moyiz/command-and-cursor.nvim) - Highlight cursor and visual selections when entering command mode.
+*   [moyiz/command-and-cursor.nvim (⭐13)](https://github.com/moyiz/command-and-cursor.nvim) - Highlight cursor and visual selections when entering command mode.
 
 ### Terminal Integration / Diagnostics
 
@@ -128,13 +134,13 @@ Collections of awesome neovim plugins.
 
 ### Git / Diagnostics
 
-*   [moyiz/git-dev.nvim (⭐2)](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim.
+*   [moyiz/git-dev.nvim (⭐40)](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim.
 
 ## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
 
 ### Treesitter Based / Diagnostics
 
-*   [mfussenegger/nvim-treehopper (⭐391)](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by Treesitter.
+*   [mfussenegger/nvim-treehopper (⭐400)](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by Treesitter.
 
 ### OS-specific / Diagnostics
 
@@ -163,16 +169,16 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [simplegpt.nvim (⭐7)](https://github.com/you-n-g/simplegpt.nvim) - Provide a simple yet flexible way to construct and send questions to ChatGPT.
+*   [simplegpt.nvim (⭐8)](https://github.com/you-n-g/simplegpt.nvim) - Provide a simple yet flexible way to construct and send questions to ChatGPT.
 
 ### File Explorer / Diagnostics
 
-*   [prichrd/netrw.nvim (⭐177)](https://github.com/prichrd/netrw.nvim) - Add icons and custom keybindings to netrw.
+*   [prichrd/netrw.nvim (⭐182)](https://github.com/prichrd/netrw.nvim) - Add icons and custom keybindings to netrw.
 
 ### Utility / Diagnostics
 
-*   [SUSTech-data/neopyter (⭐33)](https://github.com/SUSTech-data/neopyter) - The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab.
-*   [terje/simctl.nvim (⭐21)](https://github.com/terje/simctl.nvim) - Interact with iOS Simulators.
+*   [SUSTech-data/neopyter (⭐37)](https://github.com/SUSTech-data/neopyter) - The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab.
+*   [terje/simctl.nvim (⭐24)](https://github.com/terje/simctl.nvim) - Interact with iOS Simulators.
 
 ### Git / Diagnostics
 
@@ -180,7 +186,7 @@ Collections of awesome neovim plugins.
 
 ### GitHub / Diagnostics
 
-*   [rawnly/gist.nvim (⭐165)](https://github.com/rawnly/gist.nvim) - Create a GitHub Gist from the current file (powered by gh).
+*   [rawnly/gist.nvim (⭐166)](https://github.com/rawnly/gist.nvim) - Create a GitHub Gist from the current file (powered by gh).
 
 ## [Mar 18 - Mar 24, 2024](/content/2024/12/README.md)
 
@@ -217,12 +223,12 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [olimorris/codecompanion.nvim (⭐72)](https://github.com/olimorris/codecompanion.nvim) - Copilot chat like experience via a buffer. Supports Anthropic, Ollama and OpenAI.
+*   [olimorris/codecompanion.nvim (⭐87)](https://github.com/olimorris/codecompanion.nvim) - Copilot chat like experience via a buffer. Supports Anthropic, Ollama and OpenAI.
 
 ### Utility / Diagnostics
 
 *   [Mr-LLLLL/utilities.nvim (⭐6)](https://github.com/Mr-LLLLL/utilities.nvim) - A repository to collect some little utility functions.
-*   [mcauley-penney/visual-whitespace.nvim (⭐40)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
+*   [mcauley-penney/visual-whitespace.nvim (⭐46)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
 *   [Zeioth/distroupdate.nvim (⭐6)](https://github.com/Zeioth/distroupdate.nvim) - Distro agnostic updater to get the latest changes from the git repository of your config.
 
 ### Code Runner / Diagnostics
@@ -241,15 +247,15 @@ Collections of awesome neovim plugins.
 
 ### Golang / Diagnostics
 
-*   [yanskun/gotests.nvim (⭐20)](https://github.com/yanskun/gotests.nvim) - Make Go tests easy with [gotests (⭐4.8k)](https://github.com/cweill/gotests).
+*   [yanskun/gotests.nvim (⭐20)](https://github.com/yanskun/gotests.nvim) - Make Go tests easy with [gotests (⭐4.9k)](https://github.com/cweill/gotests).
 
 ### Marks / Diagnostics
 
-*   [fnune/recall.nvim (⭐23)](https://github.com/fnune/recall.nvim) - Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.
+*   [fnune/recall.nvim (⭐24)](https://github.com/fnune/recall.nvim) - Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.
 
 ### Statusline / Diagnostics
 
-*   [Mr-LLLLL/lualine-ext.nvim (⭐8)](https://github.com/Mr-LLLLL/lualine-ext.nvim) - Show more information on lualine.
+*   [Mr-LLLLL/lualine-ext.nvim (⭐12)](https://github.com/Mr-LLLLL/lualine-ext.nvim) - Show more information on lualine.
 
 ### Motion / Diagnostics
 
@@ -261,17 +267,17 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Diagnostics
 
-*   [altermo/iedit.nvim (⭐17)](https://github.com/altermo/iedit.nvim) - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
+*   [altermo/iedit.nvim (⭐18)](https://github.com/altermo/iedit.nvim) - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
 
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
 ### Programming Languages Support / Diagnostics
 
-*   [dmmulroy/ts-error-translator.nvim (⭐181)](https://github.com/dmmulroy/ts-error-translator.nvim) - A port of Matt Pocock's ts-error-translator for VSCode for turning messy and confusing TypeScript errors into plain English.
+*   [dmmulroy/ts-error-translator.nvim (⭐191)](https://github.com/dmmulroy/ts-error-translator.nvim) - A port of Matt Pocock's ts-error-translator for VSCode for turning messy and confusing TypeScript errors into plain English.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [Myzel394/easytables.nvim (⭐65)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables with a live preview and useful helpers.
+*   [Myzel394/easytables.nvim (⭐67)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables with a live preview and useful helpers.
 
 ### Marks / Diagnostics
 
@@ -301,17 +307,17 @@ Collections of awesome neovim plugins.
 
 ### Competitive Programming / Diagnostics
 
-*   [kawre/leetcode.nvim (⭐509)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
+*   [kawre/leetcode.nvim (⭐532)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
 
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [deathbeam/lspecho.nvim (⭐14)](https://github.com/deathbeam/lspecho.nvim) - Echo LSP progress to cmdline or embed it in status line.
+*   [deathbeam/lspecho.nvim (⭐16)](https://github.com/deathbeam/lspecho.nvim) - Echo LSP progress to cmdline or embed it in status line.
 
 ### Completion / Diagnostics
 
-*   [deathbeam/autocomplete.nvim (⭐19)](https://github.com/deathbeam/autocomplete.nvim) - Very simple and minimal autocompletion for cmdline and buffer using LSP and Tree-sitter with signature help.
+*   [deathbeam/autocomplete.nvim (⭐24)](https://github.com/deathbeam/autocomplete.nvim) - Very simple and minimal autocompletion for cmdline and buffer using LSP and Tree-sitter with signature help.
 
 ### Register / Diagnostics
 
@@ -363,7 +369,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Diagnostics
 
-*   [iabdelkareem/csharp.nvim (⭐114)](https://github.com/iabdelkareem/csharp.nvim) - Enhances the development experience for .NET developers.
+*   [iabdelkareem/csharp.nvim (⭐121)](https://github.com/iabdelkareem/csharp.nvim) - Enhances the development experience for .NET developers.
 
 ### Markdown and LaTeX / Diagnostics
 
@@ -411,7 +417,7 @@ Collections of awesome neovim plugins.
 
 ### Marks / Diagnostics
 
-*   [otavioschwanck/arrow.nvim (⭐229)](https://github.com/otavioschwanck/arrow.nvim) - Like harpoon, but with a different UX, single keybinding needed and statusline support.
+*   [otavioschwanck/arrow.nvim (⭐246)](https://github.com/otavioschwanck/arrow.nvim) - Like harpoon, but with a different UX, single keybinding needed and statusline support.
 
 ### Project / Diagnostics
 
@@ -444,7 +450,7 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Diagnostics
 
-*   [gregorias/coerce.nvim (⭐59)](https://github.com/gregorias/coerce.nvim) - Change keyword case.
+*   [gregorias/coerce.nvim (⭐61)](https://github.com/gregorias/coerce.nvim) - Change keyword case.
 *   [johmsalas/text-case.nvim (⭐370)](https://github.com/johmsalas/text-case.nvim) - Text case changes via keybindings and custom substitute command with Telescope and LSP support.
 
 ### Preconfigured Configuration / Diagnostics
@@ -2848,7 +2854,7 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [jvgrootveld/telescope-zoxide (⭐267)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐18k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐267)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐19k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [Sep 27 - Oct 03, 2021](/content/2021/39/README.md)
 

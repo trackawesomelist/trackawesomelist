@@ -28,6 +28,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 *   [Roland XY Plotter DXY-1350A DXY-1150A User's Manual (1997)](https://archive.org/details/manualzilla-id-5691908)
 *   [SEGA SP-400 Operation Manual](https://archive.org/details/sega-sp-400) – This doesn't present as a flippable book on the archive, but the original page scans are still available for download.
 *   [Sekonic SPL-450+/SPL-455 User Manual (1990) (German)](https://archive.org/details/sekonicspl450spl455)
+*   [Tectronix 4662 Interactive Digital Plotter User Manual (1976)](https://archive.org/details/bitsavers_tektronix42InteractiveDigitalPlotterUserManualNov1_40423494)
 *   [Panasonic Penwriter Manual Excerpt: RS232 Protocol Section](https://archive.org/details/panasonicpenwriterprotocol)
 
 ### Manuals and Ephemera / Ephemera

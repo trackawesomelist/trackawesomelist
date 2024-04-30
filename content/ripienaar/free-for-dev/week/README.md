@@ -6,6 +6,20 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Apr 29 - May 05, 2024](/content/2024/18/README.md)
+
+### Issue Tracking and Project Management
+
+*   [leiga.com](https://www.leiga.com/) — Leiga is a SaaS product that uses AI to automatically manage your projects, helping your team stay focused and unleash immense potential, ensuring your projects progress as planned. Free for up to 10 users, 20 custom fields, 2GB of storage space, Video Recording with AI limited to 5 mins/video, Automation Runs at 20/user/month.
+
+### Design Inspiration
+
+*   [Page Flows](https://pageflows.com/) - \[Mobile / web videos and screenshots] Videos of full flows across many mobile and web apps. Also includes screenshots. Highly searchable and indexed.
+
+### Miscellaneous
+
+*   [BackgroundStyler.com](https://backgroundstyler.com) - Create aesthetic screenshots of your code, text or images to share on social media.
+
 ## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
 
 ### Web Hosting
@@ -1272,7 +1286,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Design Inspiration
 
-*   [Landings](https://landings.dev/) - \[Web Screenshots] Find the best landing pages for your design inspiration based on your preference.
+*   [Landings](https://landings.dev/) - \[Web screenshots] Find the best landing pages for your design inspiration based on your preference.
 
 ### Analytics, Events and Statistics
 
@@ -2319,7 +2333,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Mobile Patterns](https://www.mobile-patterns.com/) - \[Mobile screenshots] A design inspirational library featuring the finest UI UX Patterns (iOS and Android) for designers, developers, and product makers to reference.
 *   [Screenlane](https://screenlane.com/) - \[Mobile screenshots] Get inspired and keep up with the latest web & mobile app UI design trends. Filterable by pattern and app.
 *   [scrnshts](https://scrnshts.club/) - \[Mobile screenshots] A hand-picked collection of the finest app store design screenshots.
-*   [UI Garage](https://uigarage.net/) - \[Mobile and web screenshots] Daily UI inspiration & patterns for designers and developers to find inspiration, tools, and the best resources for your project.
+*   [UI Garage](https://uigarage.net/) - \[Mobile / web screenshots] Daily UI inspiration & patterns for designers and developers to find inspiration, tools, and the best resources for your project.
 
 ## [Nov 22 - Nov 28, 2021](/content/2021/47/README.md)
 
@@ -3151,7 +3165,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Messaging and Streaming
 
-*   [connectycube.com](https://connectycube.com) - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 1000 users.
 *   [courier.com](https://www.courier.com/) — Single API for push, in-app, email, chat, SMS, and other messaging channels with template management and other features. The free plan includes 10,000 messages/mo.
 
 ### Translation Management
@@ -3166,6 +3179,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### BaaS
 
+*   [connectycube.com](https://connectycube.com) - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 1000 users.
 *   [darklang.com](https://darklang.com/) - Hosted language combined with editor and infrastructure. Accessible during the beta, a generous free tier is planned after beta.
 
 ### Managed Data Services
