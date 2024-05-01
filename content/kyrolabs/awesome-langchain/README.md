@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [May 01, 2024](/content/2024/05/01/README.md)
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [Memary (⭐705)](https://github.com/kingjulio8238/memary): Longterm Memory for Autonomous Agents. ![GitHub Repo stars](https://img.shields.io/github/stars/kingjulio8238/memary?style=social)
+
 ## [Apr 30, 2024](/content/2024/04/30/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
@@ -142,7 +148,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [MemGPT (⭐8.5k)](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
+*   [MemGPT (⭐8.7k)](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
 
 ## [Oct 17, 2023](/content/2023/10/17/README.md)
 
@@ -391,7 +397,7 @@
 
 *   [AI (⭐7.6k)](https://github.com/vercel-labs/ai): Vercel template to build AI-powered applications with React, Svelte, and Vue, first class support for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai?style=social)
 *   [AI Getting Started (⭐3.9k)](https://github.com/a16z-infra/ai-getting-started): A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs ![GitHub Repo stars](https://img.shields.io/github/stars/a16z-infra/ai-getting-started?style=social)
-*   [Embedchain (⭐8.4k)](https://github.com/embedchain/embedchain): Framework to easily create LLM powered bots over any dataset. ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
+*   [Embedchain (⭐8.5k)](https://github.com/embedchain/embedchain): Framework to easily create LLM powered bots over any dataset. ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
 
 ### Open Source Projects / Knowledge Management
 
@@ -454,7 +460,7 @@
 ### Other LLM Frameworks / Videos Playlists
 
 *   [SuperAGI (⭐14k)](https://github.com/TransformerOptimus/SuperAGI): A dev-first open source autonomous AI agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)
-*   [e2b (⭐6k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
+*   [e2b (⭐6.1k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
 *   [SmartGPT (⭐1.7k)](https://github.com/Cormanz/smartgpt): A program that provides LLMs with the ability to complete complex tasks using plugins. ![GitHub Repo stars](https://img.shields.io/github/stars/Cormanz/smartgpt?style=social)
 
 ### Open Source Projects / Other / Chatbots
@@ -541,7 +547,7 @@
 
 ### LangChain Framework
 
-*   [LangChain (⭐82k)](https://github.com/hwchase17/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
+*   [LangChain (⭐84k)](https://github.com/hwchase17/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
 
 ### Tools / Agents
 
@@ -651,7 +657,7 @@
 
 ### Tools / Agents
 
-*   [Private GPT (⭐51k)](https://github.com/imartinez/privateGPT): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)
+*   [Private GPT (⭐52k)](https://github.com/imartinez/privateGPT): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)
 *   [RasaGPT (⭐2.2k)](https://github.com/paulpierre/RasaGPT): RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. ![GitHub Repo stars](https://img.shields.io/github/stars/paulpierre/RasaGPT?style=social)
 
 ### Open Source Projects / Other / Chatbots

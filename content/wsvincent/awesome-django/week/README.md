@@ -12,6 +12,14 @@ A curated list of awesome things related to Django
 
 *   [django-pony-express (⭐40)](https://github.com/ambient-innovation/django-pony-express) - Class-based emails including a test suite for Django.
 
+### Third-Party Packages / Views
+
+*   [neapolitan (⭐318)](https://github.com/carltongibson/neapolitan) - Quick CRUD views for Django.
+
+### Resources / Community
+
+*   [Djangonaut Space](https://djangonaut.space) - Free peer-mentoring program for the Django community to launch people into the universe of open source contributions.
+
 ## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
 
 ### Third-Party Packages / Admin
@@ -525,7 +533,7 @@ A curated list of awesome things related to Django
 
 ### Third-Party Packages / Content Management Systems
 
-*   [feincms (⭐899)](https://github.com/feincms/feincms) - An extensible Django-based CMS.
+*   [feincms (⭐903)](https://github.com/feincms/feincms) - An extensible Django-based CMS.
 
 ## [Oct 19 - Oct 25, 2020](/content/2020/42/README.md)
 
@@ -632,7 +640,7 @@ A curated list of awesome things related to Django
 
 ### Third-Party Packages / APIs
 
-*   [django-rest-framework (⭐27k)](https://github.com/encode/django-rest-framework) - Web APIs for Django.
+*   [django-rest-framework (⭐28k)](https://github.com/encode/django-rest-framework) - Web APIs for Django.
 *   [django-cors-headers (⭐5.3k)](https://github.com/adamchainz/django-cors-headers) - If your back-end and front-end are on different servers, you need this.
 *   [dj-rest-auth (⭐1.6k)](https://github.com/jazzband/dj-rest-auth) - Authentication for Django Rest Framework.
 *   [django-rest-knox (⭐1.1k)](https://github.com/James1345/django-rest-knox) - Authentication Module for django-rest-auth.
@@ -991,7 +999,7 @@ A curated list of awesome things related to Django
 
 ### Django REST Framework / DRF Resources
 
-*   [DRF Source Code (⭐27k)](https://github.com/encode/django-rest-framework)
+*   [DRF Source Code (⭐28k)](https://github.com/encode/django-rest-framework)
 
 ### Django REST Framework / DRF Tutorials
 

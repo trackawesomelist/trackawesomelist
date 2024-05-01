@@ -122,7 +122,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 <!--lint disable double-link-->
 
-*   [django-rest-framework (⭐27k)](https://github.com/encode/django-rest-framework) - Web APIs for Django.
+*   [django-rest-framework (⭐28k)](https://github.com/encode/django-rest-framework) - Web APIs for Django.
 *   [django-cors-headers (⭐5.3k)](https://github.com/adamchainz/django-cors-headers) - If your back-end and front-end are on different servers, you need this.
 *   [dj-rest-auth (⭐1.6k)](https://github.com/jazzband/dj-rest-auth) - Authentication for Django Rest Framework.
 *   [django-rest-knox (⭐1.1k)](https://github.com/James1345/django-rest-knox) - Authentication Module for django-rest-auth.
@@ -184,7 +184,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [wagtail (⭐17k)](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS). See [awesome-wagtail (⭐1.9k)](https://github.com/springload/awesome-wagtail) too.
 *   [mezzanine (⭐4.7k)](https://github.com/stephenmcd/mezzanine) - CMS framework.
 *   [django-cms (⭐9.9k)](https://github.com/divio/django-cms) - CMS for Django.
-*   [feincms (⭐899)](https://github.com/feincms/feincms) - An extensible Django-based CMS.
+*   [feincms (⭐903)](https://github.com/feincms/feincms) - An extensible Django-based CMS.
 *   [puput (⭐598)](https://github.com/APSL/puput) - Blog app features with Wagtail.
 
 <!--lint enable double-link-->
@@ -388,6 +388,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [django-extra-views (⭐1.4k)](https://github.com/AndrewIngram/django-extra-views) - Extra class-based generic views.
 *   [django-vanilla-views (⭐977)](https://github.com/tomchristie/django-vanilla-views) - Simpler class-based views in Django.
 *   [django-stronghold (⭐391)](https://github.com/mgrouchy/django-stronghold) - Makes all your Django views default login\_required.
+*   [neapolitan (⭐318)](https://github.com/carltongibson/neapolitan) - Quick CRUD views for Django.
 
 ## Python Packages
 
@@ -449,6 +450,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [Twitter](https://twitter.com/djangoproject/) - For official announcements on updates, security fixes, etc.
 *   [Discord Server](https://discord.com/invite/xcRH6mN4fa) - Django Discord Community.
 *   IRC Channel - Chat with other Django users at irc://irc.freenode.net/django.
+*   [Djangonaut Space](https://djangonaut.space) - Free peer-mentoring program for the Django community to launch people into the universe of open source contributions.
 
 <!--lint enable double-link-->
 
@@ -578,7 +580,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 <!--lint disable double-link-->
 
 *   [Official Documentation](https://www.django-rest-framework.org/)
-*   [DRF Source Code (⭐27k)](https://github.com/encode/django-rest-framework)
+*   [DRF Source Code (⭐28k)](https://github.com/encode/django-rest-framework)
 *   [awesome-django-rest-framework (⭐1.3k)](https://github.com/nioperas06/awesome-django-rest-framework)
 
 <!--lint enable double-link-->

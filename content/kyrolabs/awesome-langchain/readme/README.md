@@ -43,7 +43,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## LangChain Framework
 
-*   [LangChain (⭐82k)](https://github.com/hwchase17/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
+*   [LangChain (⭐84k)](https://github.com/hwchase17/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
 *   [LangChain.js (⭐11k)](https://github.com/hwchase17/langchainjs): the js brother ✨ ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchainjs?style=social)
 *   [Concepts](https://docs.langchain.com/docs/): Langchain concepts doc
 *   [Twitter account](https://twitter.com/LangChainAI): follow to get fresh updates
@@ -107,7 +107,7 @@ List of non-official ports of LangChain to other languages.
 
 ### Agents
 
-*   [Private GPT (⭐51k)](https://github.com/imartinez/privateGPT): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)
+*   [Private GPT (⭐52k)](https://github.com/imartinez/privateGPT): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)
 *   [CollosalAI Chat (⭐38k)](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
 *   [AgentGPT (⭐30k)](https://github.com/reworkd/AgentGPT): AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
 *   [Local GPT (⭐19k)](https://github.com/PromtEngineer/localGPT): Inspired on Private GPT with the GPT4ALL model replaced with the Vicuna-7B model and using the InstructorEmbeddings instead of LlamaEmbeddings ![GitHub Repo stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social)
@@ -140,7 +140,7 @@ List of non-official ports of LangChain to other languages.
 *   [Codespaces Template (⭐102)](https://github.com/lostintangent/codespaces-langchain): a Codespaces template for getting up-and-running with LangChain in seconds! ![GitHub Repo stars](https://img.shields.io/github/stars/lostintangent/codespaces-langchain?style=social)
 *   [Gradio Template (⭐126)](https://github.com/hwchase17/langchain-gradio-template): template for how to deploy a LangChain on Gradio ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-gradio-template?style=social)
 *   [AI Getting Started (⭐3.9k)](https://github.com/a16z-infra/ai-getting-started): A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs ![GitHub Repo stars](https://img.shields.io/github/stars/a16z-infra/ai-getting-started?style=social)
-*   [Embedchain (⭐8.4k)](https://github.com/embedchain/embedchain): Framework to easily create LLM powered bots over any dataset. ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
+*   [Embedchain (⭐8.5k)](https://github.com/embedchain/embedchain): Framework to easily create LLM powered bots over any dataset. ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
 
 ### Platforms
 
@@ -265,7 +265,7 @@ List of non-official ports of LangChain to other languages.
 *   [PromptFlow](https://github.com/InsuranceToolkits/promptflow): Create executable flowcharts that link LLMs (Large Language Models), Prompts, Python functions, and conditional logic together. ![GitHub Repo stars](https://img.shields.io/github/stars/InsuranceToolkits/promptflow?style=social)
 *   [OpenLM (⭐360)](https://github.com/r2d4/openlm): a drop-in OpenAI-compatible library that can call LLMs from any other hosted inference API. Also [Typescript (⭐203)](https://github.com/r2d4/llm.ts) ![GitHub Repo stars](https://img.shields.io/github/stars/r2d4/openlm?style=social)
 *   [Dust (⭐845)](https://github.com/dust-tt/dust): Design and Deploy Large Language Model Apps ![GitHub Repo stars](https://img.shields.io/github/stars/dust-tt/dust?style=social)
-*   [e2b (⭐6k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
+*   [e2b (⭐6.1k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
 *   [SuperAGI (⭐14k)](https://github.com/TransformerOptimus/SuperAGI): A dev-first open source autonomous AI agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)
 *   [SmartGPT (⭐1.7k)](https://github.com/Cormanz/smartgpt): A program that provides LLMs with the ability to complete complex tasks using plugins. ![GitHub Repo stars](https://img.shields.io/github/stars/Cormanz/smartgpt?style=social)
 *   [TermGPT (⭐392)](https://github.com/Sentdex/TermGPT): Giving LLMs like GPT-4 the ability to plan and execute terminal commands ![GitHub Repo stars](https://img.shields.io/github/stars/Sentdex/TermGPT?style=social)
@@ -300,7 +300,7 @@ List of non-official ports of LangChain to other languages.
 *   [Autogen (⭐25k)](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications.
 *   [AgentVerse (⭐3.6k)](https://github.com/openbmb/agentverse) Provides a flexible framework that simplifies the process of building custom multi-agent environments for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/agentverse?style=social)
 *   [Flappy (⭐301)](https://github.com/pleisto/flappy): Production-Ready LLM Agent SDK for Every Developer ![Github Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social)
-*   [MemGPT (⭐8.5k)](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
+*   [MemGPT (⭐8.7k)](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
 *   [Agentlabs (⭐376)](https://github.com/agentlabs-inc/agentlabs): Universal AI Agent Frontend. Build your backend we handle the rest. ![GitHub Repo stars](https://img.shields.io/github/stars/agentlabs-inc/agentlabs?style=social)
 *   [axflow (⭐1.1k)](https://github.com/axflow/axflow): The TypeScript framework for AI development ![GitHub Repo stars](https://img.shields.io/github/stars/axflow/axflow?style=social)
 *   [bondai (⭐163)](https://github.com/krohling/bondai): AI-powered assistant with a lightweight, versatile API for seamless integration into your own applications ![GitHub Repo stars](https://img.shields.io/github/stars/krohling/bondai?style=social)
@@ -326,6 +326,7 @@ List of non-official ports of LangChain to other languages.
 *   [FinRobot (⭐34)](https://github.com/AI4Finance-Foundation/FinRobot): An Open-Source AI Agent Platform for Financial Applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=social)
 *   [Groq Ruby (⭐19)](https://github.com/drnic/groq-ruby): Groq Cloud runs LLM models fast and cheap. This is a convenience client library for Ruby. ![GitHub Repo stars](https://img.shields.io/github/stars/drnic/groq-ruby?style=social)
 *   [AgentScope (⭐999)](https://github.com/modelscope/agentscope): Start building LLM-empowered multi-agent applications in an easier way. ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/agentscope?style=social)
+*   [Memary (⭐705)](https://github.com/kingjulio8238/memary): Longterm Memory for Autonomous Agents. ![GitHub Repo stars](https://img.shields.io/github/stars/kingjulio8238/memary?style=social)
 
 ## Complement to this list
 

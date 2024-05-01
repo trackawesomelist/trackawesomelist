@@ -1,12 +1,75 @@
 # Awesome List Updates on Apr 29 - May 05, 2024
 
-19 awesome lists updated this week.
+21 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [1. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+
+### Projects / API Management
+
+*   [Gravitee.io API Management (⭐136) (⭐135)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
+*   [WSO2 API Manager (⭐806) (⭐805)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
+
+### Projects / API Design
+
+*   [OpenAPI Diff (⭐751) (⭐750)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+*   [OpenAPI Style Validator (⭐195) (⭐194)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
+*   [Zally (⭐876) (⭐875)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
+
+### Projects / API Documentation
+
+*   [DapperDox (⭐394) (⭐393)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
+*   [OpenAPI Explorer (⭐285) (⭐284)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
+
+### Projects / API Testing
+
+*   Mocking tools
+    *   [Imposter (⭐342) (⭐341)](https://github.com/outofcoffee/imposter) - Mock server for REST APIs, OpenAPI (and Swagger) specifications, SOAP web services (and WSDL files), Salesforce and HBase APIs.
+    *   [Microcks (⭐1.1k) (⭐1.2k)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
+    *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
+    *   [Mockoon (⭐5.8k) (⭐5.9k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
+    *   [MockServer (⭐4.4k) (⭐4.5k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
+    *   [Mocky (⭐2k) (⭐2k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
+    *   [Prism (⭐4k) (⭐4k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
+    *   [WireMock (⭐6k) (⭐6.1k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
+
+### Projects / BRE
+
+*   [Drools (⭐5.7k) (⭐5.7k)](https://github.com/apache/incubator-kie-drools) - Open-source tool that supports Decision Model and Notation (DMN) models at Conformance level 3 with an Eclipse IDE plugin for core development.
+
+### Projects / Data Mapping Solution
+
+*   [AltasMap (⭐182) (⭐181)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
+*   [JSLT (⭐604) (⭐605)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
+
+### Projects / ETL
+
+*   [Apache NiFi (⭐4.4k) (⭐4.4k)](https://github.com/apache/nifi) - An automated data integration platform that efficiently moves data between disparate systems.
+
+### Projects / Integration Frameworks
+
+*   [Frank!Framework (⭐111) (⭐110)](https://github.com/frankframework/frankframework) - A Low-Code Java-based messaging framework to connect your system and application data, that is completely configurable through XML configurations.
+
+### Projects / Messaging
+
+*   [Eclipse Mosquitto (⭐8.4k) (⭐8.4k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
+*   [Redpanda (⭐8.8k) (⭐8.8k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
+
+### Projects / Workflow engine
+
+*   [Flowable (⭐7.4k) (⭐7.4k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
+*   [Temporal (⭐9.9k) (⭐9.8k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
+
+## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Personal Dashboards
+
+*   [Mafl](https://mafl.hywax.space/) - Minimalistic flexible homepage. ([Source Code (⭐137)](https://github.com/hywax/mafl)) `MIT` `Docker/Nodejs`
+
+## [3. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Menstrual cycle trackers
 
@@ -15,13 +78,13 @@
 *   [Euki](https://eukiapp.org/) - The period tracker that doesn’t track you.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Periodical (⭐109)](https://github.com/arnowelzel/periodical) - A calendar to track your menstruation and calculate possible fertile days
 
-## [2. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [4. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Resources in Other Languages / Korean
 
 *   [Deno Korea](https://deno.kr/) - Deno Korean User Group.
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Resources
 
@@ -108,7 +171,7 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Issue Tracking and Project Management
 
@@ -122,32 +185,33 @@
 
 *   [BackgroundStyler.com](https://backgroundstyler.com) - Create aesthetic screenshots of your code, text or images to share on social media.
 
-## [5. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [7. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
 *   [windows-terminal-theme-generator (⭐13)](https://github.com/LelouchFR/windows-terminal-theme-generator/) - Simplify your life to create a windows terminal theme. [Live Demo](https://windows-terminal-theme-generator.netlify.app/)
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Scrolling / Diagnostics
 
 *   [niuiic/scroll.nvim (⭐0)](https://github.com/niuiic/scroll.nvim) - Smooth scrolling, custom smooth strategy.
 
-## [7. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [9. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
 *   [EasyDeL](https://github.com/erfanzar/EasyDeL) - EasyDeL 🔮 is an OpenSource Library to make your training faster and more Optimized With cool Options for training and serving (Llama, MPT, Mixtral, Falcon, etc) in JAX <img src="https://img.shields.io/github/stars/erfanzar/EasyDeL?style=social" align="center">
 *   [dynamiqs](https://github.com/dynamiqs/dynamiqs) - High-performance and differentiable simulations of quantum systems with JAX. <img src="https://img.shields.io/github/stars/dynamiqs/dynamiqs?style=social" align="center">
 
-## [8. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [10. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
 *   [AgentScope (⭐999)](https://github.com/modelscope/agentscope): Start building LLM-empowered multi-agent applications in an easier way. ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/agentscope?style=social)
+*   [Memary (⭐705)](https://github.com/kingjulio8238/memary): Longterm Memory for Autonomous Agents. ![GitHub Repo stars](https://img.shields.io/github/stars/kingjulio8238/memary?style=social)
 
-## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Audio and Music
 
@@ -158,18 +222,25 @@
 *   zip
     *   [zip-rs/zip2 (⭐28)](https://github.com/zip-rs/zip2) \[[zip](https://crates.io/crates/zip)] — read and write  ZIP archives
 
-## [10. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [12. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Hardware / Plotters
 
 *   [NextDraw](https://store.bantamtools.com/collections/bantam-tools-nextdraw) – The [Bantam Tools](https://www.bantamtools.com) successor to the popular AxiDraw pen plotter.
 
+### Software / Fonts
+
+*   [FifteenTwenty: Commodore 1520 plotter font (⭐11)](https://github.com/scruss/FifteenTwenty) – [Blog post](https://scruss.com/blog/2016/04/23/fifteentwenty-commodore-1520-plotter-font/) about the creation of this font from the original ROM.
+
 ### Inspiration, Instruction, and Research / Fonts
 
 *   [Buildlog.net Atari 1020 Plotter Retrofit](https://www.buildlog.net/blog/2019/10/inktober-project-2019-post-5/) – Blog post and video about converting an Atari 1020 plotter to use a ESP32-based GRBL controller.
 *   [Texas Instruments HX-1000 Plotter Photos](http://www.hexbus.com/TI-99_4A_Home_Computer_Page/Hexbus_HX-1000_Printer_Plotter.html) – Photo gallery of the plotter's exterior, interior, and packaging.
+*   [Making cheap HP plotter pens](https://scruss.com/blog/2014/04/06/making-cheap-hp-plotter-pens-yet-another-hp-gl-viewer/) – Blog post mainly about using vinyl cutter parts as pen holders.
+*   [Marcel Schwittlick and The Long Run](https://www.artxcode.io/journal/marcel-schwittlick-the-long-run) – Interview with Marcel, and lots of photos and videos of his work and workspace.
+*   [Lars Wander and Mixing Paint With Code](https://www.artxcode.io/journal/lars-wander-interview) – Interview with Lars Wander, plus art and videos.
 
-### Manuals and Ephemera / Manuals
+### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [CalComp Artisan Plus 1023/1025/1026 User's Guide (1990)](https://archive.org/details/calcomp-artisan-plus-1023-1025-1026-users-guide)
 *   [Graphtec Pen Plotter MP303 Series Service Manual (2004)](https://archive.org/details/manualzilla-id-5807113)
@@ -183,12 +254,23 @@
 *   [Tectronix 4662 Interactive Digital Plotter User Manual (1976)](https://archive.org/details/bitsavers_tektronix42InteractiveDigitalPlotterUserManualNov1_40423494)
 *   [Panasonic Penwriter Manual Excerpt: RS232 Protocol Section](https://archive.org/details/panasonicpenwriterprotocol)
 
-### Manuals and Ephemera / Ephemera
+### Manuals, Ephemera, Papers, and Patents / Ephemera
 
 *   [IEEE Electronic Systems News Autumn (1985)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5345111) – Review of the three-color Penman robotic plotter.
 *   [Apple II Business Graphics Film (1982)](https://archive.org/details/apple-ii-business-graphics) – There's a Strobe Model 100 Graphics Plotter drawing bar charts at 4:57.
 
-## [11. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+### Manuals, Ephemera, Papers, and Patents / Papers
+
+*   [Toward Aesthetic Guidelines for Paintings with the Aid of a Computer (1975) (PDF)](https://rednoise.org/softas/uploads/molnar.pdf) – Vera Molnar
+*   [Pen Plotter as a Low-Cost Platform for Rapid Device Prototyping with Solution-Processable Nanomaterials (2023) (PDF)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adem.202300226)
+*   [Preparation of V2O5 Thin Film by Sol–Gel Technique and Pen Plotter Printing](https://www.proquest.com/docview/2791602751)
+*   [PatternPortrait: Draw Me Like One of Your Scribbles (2024)](https://arxiv.org/abs/2401.13001)
+
+### Manuals, Ephemera, Papers, and Patents / Patents
+
+*   [Adaptor for universal X-Y plotter pen](https://patents.google.com/patent/US4943817)
+
+## [13. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Newsletters
 
@@ -225,19 +307,19 @@
 *   [angular material components (⭐319)](https://github.com/h2qutc/angular-material-components) -  Angular Material Library provide extra components for every project.
 *   [angular components (⭐24k)](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
 
-## [12. Awesome Plone](/content/collective/awesome-plone/week/README.md)
+## [14. Awesome Plone](/content/collective/awesome-plone/week/README.md)
 
 ### Security
 
 *   [collective.contactformprotection (⭐0)](https://github.com/collective/collective.contactformprotection) - Disables the default `contact-info` form or protect it with `plone.formwidget.[h|re]captcha`.
 
-## [13. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [15. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Tools / CI
 
 *   [TF-via-PR (⭐42)](https://github.com/DevSecTop/TF-via-PR) - GitHub Action to automate OpenTofu or Terraform CLI commands via pull request interaction.
 
-## [14. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [16. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### APILayer APIs
 
@@ -314,31 +396,39 @@
 
 
 
-## [15. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [17. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-fluid-dnd (⭐43)](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
 
-## [16. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [18. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Collaboration Tools / Malware Analysis Books
 
 *   [Dradis](https://dradis.com/) - Open-source reporting and collaboration tool for IT security professionals.
 
-## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
 *   [happly (⭐283)](https://github.com/nmwsharp/happly) - A C++ header-only parser for the PLY file format. Parse .ply happily! \[MIT]
 
-## [18. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [20. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Mailing
 
 *   [django-pony-express (⭐40)](https://github.com/ambient-innovation/django-pony-express) - Class-based emails including a test suite for Django.
 
-## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+### Third-Party Packages / Views
+
+*   [neapolitan (⭐318)](https://github.com/carltongibson/neapolitan) - Quick CRUD views for Django.
+
+### Resources / Community
+
+*   [Djangonaut Space](https://djangonaut.space) - Free peer-mentoring program for the Django community to launch people into the universe of open source contributions.
+
+## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Audio and Video Tools / File Sharing
 

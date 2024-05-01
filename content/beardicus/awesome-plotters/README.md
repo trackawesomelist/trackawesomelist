@@ -6,6 +6,29 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 [ Daily / [Weekly](/content/beardicus/awesome-plotters/week/README.md) / [Overview](/content/beardicus/awesome-plotters/readme/README.md) ]
 
+## [May 01, 2024](/content/2024/05/01/README.md)
+
+### Software / Fonts
+
+*   [FifteenTwenty: Commodore 1520 plotter font (⭐11)](https://github.com/scruss/FifteenTwenty) – [Blog post](https://scruss.com/blog/2016/04/23/fifteentwenty-commodore-1520-plotter-font/) about the creation of this font from the original ROM.
+
+### Inspiration, Instruction, and Research / Fonts
+
+*   [Making cheap HP plotter pens](https://scruss.com/blog/2014/04/06/making-cheap-hp-plotter-pens-yet-another-hp-gl-viewer/) – Blog post mainly about using vinyl cutter parts as pen holders.
+*   [Marcel Schwittlick and The Long Run](https://www.artxcode.io/journal/marcel-schwittlick-the-long-run) – Interview with Marcel, and lots of photos and videos of his work and workspace.
+*   [Lars Wander and Mixing Paint With Code](https://www.artxcode.io/journal/lars-wander-interview) – Interview with Lars Wander, plus art and videos.
+
+### Manuals, Ephemera, Papers, and Patents / Papers
+
+*   [Toward Aesthetic Guidelines for Paintings with the Aid of a Computer (1975) (PDF)](https://rednoise.org/softas/uploads/molnar.pdf) – Vera Molnar
+*   [Pen Plotter as a Low-Cost Platform for Rapid Device Prototyping with Solution-Processable Nanomaterials (2023) (PDF)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adem.202300226)
+*   [Preparation of V2O5 Thin Film by Sol–Gel Technique and Pen Plotter Printing](https://www.proquest.com/docview/2791602751)
+*   [PatternPortrait: Draw Me Like One of Your Scribbles (2024)](https://arxiv.org/abs/2401.13001)
+
+### Manuals, Ephemera, Papers, and Patents / Patents
+
+*   [Adaptor for universal X-Y plotter pen](https://patents.google.com/patent/US4943817)
+
 ## [Apr 30, 2024](/content/2024/04/30/README.md)
 
 ### Hardware / Plotters
@@ -17,7 +40,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 *   [Buildlog.net Atari 1020 Plotter Retrofit](https://www.buildlog.net/blog/2019/10/inktober-project-2019-post-5/) – Blog post and video about converting an Atari 1020 plotter to use a ESP32-based GRBL controller.
 *   [Texas Instruments HX-1000 Plotter Photos](http://www.hexbus.com/TI-99_4A_Home_Computer_Page/Hexbus_HX-1000_Printer_Plotter.html) – Photo gallery of the plotter's exterior, interior, and packaging.
 
-### Manuals and Ephemera / Manuals
+### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [CalComp Artisan Plus 1023/1025/1026 User's Guide (1990)](https://archive.org/details/calcomp-artisan-plus-1023-1025-1026-users-guide)
 *   [Graphtec Pen Plotter MP303 Series Service Manual (2004)](https://archive.org/details/manualzilla-id-5807113)
@@ -31,7 +54,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 *   [Tectronix 4662 Interactive Digital Plotter User Manual (1976)](https://archive.org/details/bitsavers_tektronix42InteractiveDigitalPlotterUserManualNov1_40423494)
 *   [Panasonic Penwriter Manual Excerpt: RS232 Protocol Section](https://archive.org/details/panasonicpenwriterprotocol)
 
-### Manuals and Ephemera / Ephemera
+### Manuals, Ephemera, Papers, and Patents / Ephemera
 
 *   [IEEE Electronic Systems News Autumn (1985)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5345111) – Review of the three-color Penman robotic plotter.
 *   [Apple II Business Graphics Film (1982)](https://archive.org/details/apple-ii-business-graphics) – There's a Strobe Model 100 Graphics Plotter drawing bar charts at 4:57.
@@ -42,7 +65,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 *   [Bottle Plotter](https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html) – Blog post about building a cylindrical pen plotter for drawing on wine bottles.
 
-### Manuals and Ephemera / Manuals
+### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [Esterline Angus Spartan X-Y Recorder Instruction Manual](https://archive.org/details/manualsplus_03665) – Rev 1178
 *   [Esterline Angus Spartan X-Y Recorder Instruction Manual (1980)](https://archive.org/details/manualsplus_03659) – Revs 1080, 1178, 0480
@@ -58,17 +81,17 @@ A curated list of code and resources for computer-controlled drawing machines an
 *   [Taxan KPL 710 Demo Plot](https://www.youtube.com/watch?v=Xms3sZONQjo) - A handheld recording of the Taxan KPL 710 running its demo plot.
 *   [Sweet-P Six Shooter SP-600 Plotter Demonstration](https://www.youtube.com/watch?v=xE9LVOMbKxk) – A recording of the Sweet-P SP-600 running its demo plot.
 
-### Manuals and Ephemera / Manuals
+### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [Taxan X-Y Plotter KPL 710 Instruction Manual](https://pzwiki.wdka.nl/mediadesign/File:Taxan_kpl710_x-y_plotter.pdf)
 
-### Manuals and Ephemera / Ephemera
+### Manuals, Ephemera, Papers, and Patents / Ephemera
 
 *   [Sweet-P Plotter Brochure and Price List](https://archive.org/details/bitsavers_enterCompuersonalPlotterprricelistBrochure_4929854) – Four-page color marketing brochure with attached suggested retail price list.
 
 ## [Apr 06, 2024](/content/2024/04/06/README.md)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [Ingrid Burrington](https://wares.lifewinning.com)
 
@@ -86,7 +109,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ## [Mar 14, 2024](/content/2024/03/14/README.md)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [Adam Fuhrer](https://adamfuhrer.bigcartel.com)
 
@@ -102,7 +125,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ## [Feb 13, 2024](/content/2024/02/13/README.md)
 
-### Manuals and Ephemera / Ephemera
+### Manuals, Ephemera, Papers, and Patents / Ephemera
 
 *   [Hewlett-Packard Journal Volume 33 Number 12 (1982)](https://archive.org/details/Hewlett-Packard_Journal_Vol._33_No._12_1982-12_Hewlett-Packard) - Multiple articles about the HP Model 7470A plotter.
 
@@ -153,26 +176,20 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ## [Apr 22, 2023](/content/2023/04/22/README.md)
 
-### Manuals and Ephemera / Ephemera
+### Manuals, Ephemera, Papers, and Patents / Ephemera
 
 *   [Hewlett-Packard Journal Volume 32 Number 10](https://archive.org/details/Hewlett-Packard_Journal_Vol._32_No._10_1981-10_Hewlett-Packard) - Multiple articles about the development of the HP Model 7580A plotter.
 
-## [Apr 19, 2023](/content/2023/04/19/README.md)
-
-### Inspiration, Instruction, and Research / Fonts
-
-*   [Vera Molnar: Toward Aesthetic Guidelines for Paintings with the Aid of a Computer](https://rednoise.org/softas/uploads/molnar.pdf)
-
 ## [Apr 08, 2023](/content/2023/04/08/README.md)
 
-### Manuals and Ephemera / Manuals
+### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [Rotring NC-scriber CS 50 Operating Instructions (1989)](https://archive.org/details/rotring_NC-scriber_CS_50_Operating_Instructions)
 *   [Silver Reed Colour PenGraph EB-50 Operating Manual (1984)](https://archive.org/details/silver-reed-colour-pengraph-eb-50-operating-manual)
 
 ## [Mar 24, 2023](/content/2023/03/24/README.md)
 
-### Manuals and Ephemera / Manuals
+### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [\[Unknown Brand\] LP 2002 Photo Plotter Attachment Operating Manual (German)](https://archive.org/details/lp-2002-betriebsanleitung/) - Also see [Martin Bircher's thread](https://mastodon.social/@artandtech/109382879937442706) with pictures of this device.
 
@@ -186,13 +203,13 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ## [Feb 21, 2023](/content/2023/02/21/README.md)
 
-### Manuals and Ephemera / Manuals
+### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [Tectronix HC100 Instruction Manual (1987)](https://archive.org/details/manualsonline-id-212d14c3-7d2f-4e64-906f-1a22e86d1f35/)
 
 ## [Feb 05, 2023](/content/2023/02/05/README.md)
 
-### Manuals and Ephemera / Manuals
+### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [Gerber GS750 Plus User Manual (1995) (manualslib)](https://www.manualslib.com/manual/465193/Gerber-Gs750-Plus.html)
 *   [Gerber Signmaker IVB User's Manual (1983) (manualslib)](https://www.manualslib.com/manual/464167/Gerber-Signmaker-Ivb.html)
@@ -210,14 +227,14 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 *   [Tech Tangents: Plotting For The First Time - HP 7470A](https://www.youtube.com/watch?v=tk4c4WMZJZ8) - Nice video showing an HP 7470A operated from an HP 85 computer.
 
-### Manuals and Ephemera / Manuals
+### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [HP 7470A Interconnection Guide](https://archive.org/details/manualzilla-id-7029812)
 *   [HP 7470A Operator's Manual (manualslib)](https://www.manualslib.com/manual/1089592/Hp-7470a.html)
 
 ## [Nov 19, 2022](/content/2022/11/19/README.md)
 
-### Community / Ephemera
+### Community / Patents
 
 *   \#PenPlotter - Mastodon/ActivityPub hashtag that plotter folks are mostly congregating under.
 
@@ -229,13 +246,13 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ## [Sep 29, 2022](/content/2022/09/29/README.md)
 
-### Manuals and Ephemera / Ephemera
+### Manuals, Ephemera, Papers, and Patents / Ephemera
 
 *   [Houston Instrument Omnigraphic Plotter Brochure](https://archive.org/details/TNM_Omnigraphic_Plotter_20171016_0228)
 
 ## [Aug 17, 2022](/content/2022/08/17/README.md)
 
-### Manuals and Ephemera / Manuals
+### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [Houston Instrument HIPLOT DMP-51/52 Operation Manual (1985)](https://archive.org/details/hi-dmp-51-52-operation-manual)
 *   [Houston Instrument Stand Assembly Procedure DMP-50 Series Plotter](https://archive.org/details/hi-stand-assembly-procedure-dmp-50-series-plotter)
@@ -246,13 +263,13 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 *   [Tools, Tricks, and Hacks: Exploring Novel Digital Fabrication Workflows on #PlotterTwitter](https://dl.acm.org/doi/abs/10.1145/3411764.3445653) - Research paper on the novel workflows of the plotter community ([Video Summary](https://www.youtube.com/watch?v=xqhT-8ElJ68)).
 
-### Manuals and Ephemera / Manuals
+### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [Houston Instrument DM/PL Command Language (1984)](https://archive.org/details/hi-dmpl-command-language)
 *   [Houston Instrument DMP-40V Operation Manual (1988)](https://archive.org/details/dmp-40v)
 *   [Houston Instrument Interface Notes for DM/PL Intelligent Plotters (1983)](https://archive.org/details/hi-interface-notes-dm-pl-plotters)
 
-### Manuals and Ephemera / Ephemera
+### Manuals, Ephemera, Papers, and Patents / Ephemera
 
 *   [Houston Instrument DMP-41 and DMP-42 Plotters Brochure](https://archive.org/details/hi-dmp-41-42-brochure)
 *   [Houston Instrument DMP-51/52 Series Brochure](https://archive.org/details/hi-dmp-51-52-brochure)
@@ -263,7 +280,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 *   [What is a pen plotter 2022?](https://www.youtube.com/watch?v=J1NpYzETm3M) - Nice video introduction to modern plotters in 2022.
 
-### Manuals and Ephemera / Ephemera
+### Manuals, Ephemera, Papers, and Patents / Ephemera
 
 *   [CalComp Plotters in 1968](https://www.youtube.com/watch?v=AAc4VLR6-Dg) - Promotional video showing a flatbed CalComp plotter and its output.
 
@@ -311,14 +328,14 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 *   [linedraw (⭐737)](https://github.com/LingDong-/linedraw) - Python tool to convert images to sketchy vector line drawings.
 
-### Manuals and Ephemera / Manuals
+### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [Atari 1020 Color Printer Owner's Guide (1982)](https://archive.org/details/atari-1020-color-printer) – A higher-quality scan is also available as [a PDF on buildlog.net](https://www.buildlog.net/blog/wp-content/uploads/2019/09/atari-1020-color-printer-owners-guide.pdf)
 *   [Atari 1020 Color Printer Field Service Manual (1983)](https://archive.org/details/atari1020colorprinterfieldservicemanualrev.011983atari)
 
 ## [Jun 01, 2022](/content/2022/06/01/README.md)
 
-### Manuals and Ephemera / Manuals
+### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [Houston Instrument DMP-160 Plotter Operation Manual](https://archive.org/details/houston-instrument-dmp-160-series-plotters-operation-manual)
 *   [Olivetti PL10 Microplotter User Guide (1983)](https://archive.org/details/olivettipl10microplotter)
@@ -332,23 +349,23 @@ A curated list of code and resources for computer-controlled drawing machines an
 *   [Rotring Tubular Plotter Points Practical Tips and Information](https://archive.org/details/rotingtubularplotterpointprakticaltipsandinformation)
 *   [Panasonic RK-P400C 4-Color Graphic Penwriter Manual](https://archive.org/details/panasonic-rk-p-400-c-manual)
 
-### Manuals and Ephemera / Ephemera
+### Manuals, Ephemera, Papers, and Patents / Ephemera
 
 *   [CalComp Graphics Products Brochure (1981)](https://archive.org/details/TNM_CalComp_graphics_products_plotters_and_printe_20171101_0032)
 
 ## [May 29, 2022](/content/2022/05/29/README.md)
 
-### Manuals and Ephemera / Manuals
+### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [Roland DXY-990 Operation Manual (1986)](https://archive.org/details/roland-dxy-990)
 
 ## [May 26, 2022](/content/2022/05/26/README.md)
 
-### Manuals and Ephemera / Manuals
+### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [Roland DPX-2000 User's Manual](https://archive.org/details/roland-dpx-2000-manual)
 
-### Manuals and Ephemera / Ephemera
+### Manuals, Ephemera, Papers, and Patents / Ephemera
 
 *   [Auerbach On Digital Plotters And Image Digitizers (1972)](https://archive.org/details/auerbachondigitalplottersandimagedigitizers) - A book about plotters and digitizers.
 
@@ -376,13 +393,13 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ## [Nov 23, 2021](/content/2021/11/23/README.md)
 
-### Manuals and Ephemera / Ephemera
+### Manuals, Ephemera, Papers, and Patents / Ephemera
 
 *   [Roland DG Plotter Ad in Byte Magazine Vol 12 No 4 (1987)](https://archive.org/details/byte-magazine-1987-04/page/n159/mode/2up) ([via @OldTechAdverts](https://twitter.com/OldTechAdverts/status/1454558415355850755))
 
 ## [May 21, 2021](/content/2021/05/21/README.md)
 
-### Manuals and Ephemera / Manuals
+### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [Apple Color Plotter User's Manual](https://archive.org/details/AppleColorPlotter)
 *   [Programming CalComp Pen Plotters (1968)](https://archive.org/details/bitsavers_calcompProlottersJun68_2464236)
@@ -399,7 +416,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 *   [Roland DPX-3300 Schematics (1987)](https://archive.org/details/dpx-3300-schematics)
 *   [Siemens C1613 Plotter Manual (German)](https://archive.org/details/SiemensC1613Manual)
 
-### Manuals and Ephemera / Ephemera
+### Manuals, Ephemera, Papers, and Patents / Ephemera
 
 *   [Time Share Peripherals TSP-212 Brochure](https://archive.org/details/TNM_Time_Share_Peripherals_-_TSP-212_plotting_sys_20170630_0194)
 *   [Hewlett-Packard Journal Volume 29 Number 1](https://archive.org/details/Hewlett-Packard_Journal_Vol._29_No._1_1977-09_Hewlett-Packard) - Multiple articles about the development of the HP Model 9872A and 7221A pen plotters.
@@ -413,7 +430,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 *   [Commodore Computer Plotter CBM 8075 Brochure (German)](https://archive.org/details/Plotter_CBM8075_198x_Commodore_DE)
 *   [Strobe Model 100 Graphics Plotter Brochure (1980)](https://archive.org/details/TNM_Strope_Model_100_graphics_plotter_-_Strobe_In_20180506_0009)
 
-### Community / Ephemera
+### Community / Patents
 
 *   [DrawingBots Discord Forum](https://discordapp.com/invite/XHP3dBg) - Discord forum with an active community.
 
@@ -433,35 +450,35 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 *   [CNC Text Tool](https://msurguy.github.io/cnc-text-tool/) - Browser-based Hershey Text tool with export to SVG.
 
-### Community / Ephemera
+### Community / Patents
 
 *   [PlotterFiles](https://plotterfiles.com/) - Community for sharing SVG files for plotters.
 
-### Other Awesomes / Ephemera
+### Other Awesomes / Patents
 
 *   [awesome-3d-engines-for-plotters (⭐76)](https://github.com/msurguy/awesome-3d-engines-for-plotters)
 
 ## [Nov 30, 2020](/content/2020/11/30/README.md)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [Marcel Schwittlick](https://schwittlick.bigcartel.com/)
 
 ## [Nov 28, 2020](/content/2020/11/28/README.md)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [AndyMakes](https://shop.andymakes.com/)
 
 ## [Nov 07, 2020](/content/2020/11/07/README.md)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [Paul Rickards](https://shop.paulrickards.com)
 
 ## [Oct 11, 2020](/content/2020/10/11/README.md)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [Pedro Alcocer](https://store.pedroalcocer.com/)
 
@@ -485,13 +502,13 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ## [May 12, 2020](/content/2020/05/12/README.md)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [Michelle Chandra](https://www.dirtalleydesign.com/)
 
 ## [May 11, 2020](/content/2020/05/11/README.md)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [Nadieh Bremer](https://shop.visualcinnamon.com/collections/pen-plotter-prints)
 
@@ -507,7 +524,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ## [Feb 24, 2020](/content/2020/02/24/README.md)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [Arjan van der Meij](https://dutchplottr.nl/en/)
 
@@ -517,13 +534,13 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 *   [cozyvec (⭐70)](https://github.com/brubsby/cozyvec) - Web/Standalone terminal environment for plotter art and tweet plots.
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [brubsby](http://shop.brubsby.com/)
 
 ## [Jan 21, 2020](/content/2020/01/21/README.md)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [Geoffrey Bradway](https://www.chromatocosmos.com/)
 
@@ -549,7 +566,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 *   [HPGLGraphics (⭐18)](https://github.com/ciaron/HPGLGraphics) - A Processing library for writing HPGL files.
 
-### Community / Ephemera
+### Community / Patents
 
 *   [Plotter People](https://plotterpeople.github.io/) - In-person meetups (SF and NYC so far) with talks and plotter art galleries.
 
@@ -674,37 +691,37 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ## [Feb 20, 2019](/content/2019/02/20/README.md)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [Martin O'Leary](https://shop.mewo2.com)
 
 ## [Jan 19, 2019](/content/2019/01/19/README.md)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [BustBright](https://mkt.com/bustbright)
 
 ## [Aug 02, 2018](/content/2018/08/02/README.md)
 
-### Community / Ephemera
+### Community / Patents
 
 *   [PlotterArt Subreddit](https://www.reddit.com/r/PlotterArt)
 *   [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
 *   [Generative Art Subreddit](https://www.reddit.com/r/generative)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [Michael Fogleman](https://www.michaelfogleman.com/plotter)
 *   [inconvergent](http://buy.inconvergent.net)
 
 ## [Jul 25, 2018](/content/2018/07/25/README.md)
 
-### Plotter Art For Sale / Ephemera
+### Plotter Art For Sale / Patents
 
 *   [Monica Rizzolli](https://www.saatchiart.com/account/artworks/155196)
 *   [EmergentDesign](https://emergentdesign.bigcartel.com/products)
 
-### Other Awesomes / Ephemera
+### Other Awesomes / Patents
 
 *   [awesome-generative-art (⭐1.7k)](https://github.com/kosmos/awesome-generative-art)
 *   [awesome-creative-coding (⭐12k)](https://github.com/terkelg/awesome-creative-coding)

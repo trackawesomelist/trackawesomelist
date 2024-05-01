@@ -11,6 +11,7 @@
 ### Other LLM Frameworks / Videos Playlists
 
 *   [AgentScope (⭐999)](https://github.com/modelscope/agentscope): Start building LLM-empowered multi-agent applications in an easier way. ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/agentscope?style=social)
+*   [Memary (⭐705)](https://github.com/kingjulio8238/memary): Longterm Memory for Autonomous Agents. ![GitHub Repo stars](https://img.shields.io/github/stars/kingjulio8238/memary?style=social)
 
 ## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
 
@@ -138,7 +139,7 @@
 *   [Magentic (⭐1.6k)](https://github.com/jackmpcollins/magentic): Seamlessly integrate LLMs as Python functions ![GitHub Repo stars](https://img.shields.io/github/stars/jackmpcollins/magentic?style=social)
 *   [Autogen (⭐25k)](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications.
 *   [Flappy (⭐301)](https://github.com/pleisto/flappy): Production-Ready LLM Agent SDK for Every Developer ![Github Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social)
-*   [MemGPT (⭐8.5k)](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
+*   [MemGPT (⭐8.7k)](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
 
 ### Complement to this list / Videos Playlists
 
@@ -299,7 +300,7 @@
 
 *   [AI (⭐7.6k)](https://github.com/vercel-labs/ai): Vercel template to build AI-powered applications with React, Svelte, and Vue, first class support for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai?style=social)
 *   [AI Getting Started (⭐3.9k)](https://github.com/a16z-infra/ai-getting-started): A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs ![GitHub Repo stars](https://img.shields.io/github/stars/a16z-infra/ai-getting-started?style=social)
-*   [Embedchain (⭐8.4k)](https://github.com/embedchain/embedchain): Framework to easily create LLM powered bots over any dataset. ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
+*   [Embedchain (⭐8.5k)](https://github.com/embedchain/embedchain): Framework to easily create LLM powered bots over any dataset. ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
 
 ### Open Source Projects / Knowledge Management
 
@@ -357,7 +358,7 @@
 ### Other LLM Frameworks / Videos Playlists
 
 *   [SuperAGI (⭐14k)](https://github.com/TransformerOptimus/SuperAGI): A dev-first open source autonomous AI agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)
-*   [e2b (⭐6k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
+*   [e2b (⭐6.1k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
 *   [SmartGPT (⭐1.7k)](https://github.com/Cormanz/smartgpt): A program that provides LLMs with the ability to complete complex tasks using plugins. ![GitHub Repo stars](https://img.shields.io/github/stars/Cormanz/smartgpt?style=social)
 *   [TermGPT (⭐392)](https://github.com/Sentdex/TermGPT): Giving LLMs like GPT-4 the ability to plan and execute terminal commands ![GitHub Repo stars](https://img.shields.io/github/stars/Sentdex/TermGPT?style=social)
 
@@ -370,7 +371,7 @@
 
 ### LangChain Framework
 
-*   [LangChain (⭐82k)](https://github.com/hwchase17/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
+*   [LangChain (⭐84k)](https://github.com/hwchase17/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
 
 ### Tools / Services
 
@@ -465,7 +466,7 @@
 
 ### Tools / Agents
 
-*   [Private GPT (⭐51k)](https://github.com/imartinez/privateGPT): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)
+*   [Private GPT (⭐52k)](https://github.com/imartinez/privateGPT): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)
 *   [AgentGPT (⭐30k)](https://github.com/reworkd/AgentGPT): AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
 *   [RasaGPT (⭐2.2k)](https://github.com/paulpierre/RasaGPT): RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. ![GitHub Repo stars](https://img.shields.io/github/stars/paulpierre/RasaGPT?style=social)
 *   [BabyAGI UI (⭐1.2k)](https://github.com/miurla/babyagi-ui): Make it easier to run and develop with babyagi in a web app, like a ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/miurla/babyagi-ui?style=social)
